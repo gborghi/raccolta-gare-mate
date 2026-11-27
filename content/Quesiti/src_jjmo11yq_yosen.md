@@ -19,7 +19,7 @@ level: JJMO Yosen
 
 > In rectangle $ABCD$ there is a point $P$ on side $AB$ and a point $R$ on side $CD$ such that $$AP=2,\quad PB=1,\quad BC=4,\quad CR=2,\quad RD=1,\quad DA=4.$$ Let $Q$ be the intersection of line $BR$ with line $CP$, and let $S$ be the intersection of line $AR$ with line $DP$. Find the area of quadrilateral $PQRS$. Here $\overline{XY}$ denotes the length of segment $XY$.
 
-![[src_jjmo11yq_yosen__q01.png]]
+![[src_jjmo11yq_yosen__Q01.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_geometria_analitica|Geometria analitica]]
 **Metodo:** [[method_coordinate|Coordinate]]
@@ -36,18 +36,16 @@ level: JJMO Yosen
 
 > Nel rettangolo $ABCD$ vi sono un punto $P$ sul lato $AB$ e un punto $R$ sul lato $CD$ tali che $$AP=2,\quad PB=1,\quad BC=4,\quad CR=2,\quad RD=1,\quad DA=4.$$ Sia $Q$ l'intersezione della retta $BR$ con la retta $CP$, e sia $S$ l'intersezione della retta $AR$ con la retta $DP$. Determinare l'area del quadrilatero $PQRS$. Qui $\overline{XY}$ denota la lunghezza del segmento $XY$.
 
-![[src_jjmo11yq_yosen__q01.png]]
+![[src_jjmo11yq_yosen__Q01.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_geometria_analitica|Geometria analitica]]
 **Metodo:** [[method_coordinate|Coordinate]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 
-[[Quesiti/src_jjmo11yq_yosen#q01|src_jjmo11yq_yosen__Q01]]
 
 
-
-<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_aritmetica,method_fattorizzazione,method_casework,skill_riconoscimento_pattern,skill_casework_accurato"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_aritmetica,method_fattorizzazione,method_casework,skill_riconoscimento_pattern,skill_casework_accurato,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -58,8 +56,8 @@ level: JJMO Yosen
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_casework|Casework]]
-**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_casework_accurato|Casework accurato]]
-**Area:** [[Aritmetica e Teoria dei Numeri]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_casework_accurato|Casework accurato]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Risposta:** 5, 7, 10, 11, 12, 13, 14, 15, 18, 20
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1_KqvofIIXgEWPDHUAZMRGkscvso3ZVrK/view)
 
@@ -71,16 +69,15 @@ level: JJMO Yosen
 
 > Tra gli interi compresi tra $1$ e $20$, inclusi, sono stati scelti $10$ numeri mutuamente distinti, e il prodotto di tali $10$ numeri è risultato essere $45405360000$. Indica i $10$ numeri scelti. L'ordine dei $10$ numeri non ha importanza.
 
+
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_casework|Casework]]
-**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_casework_accurato|Casework accurato]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_casework_accurato|Casework accurato]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 
-[[Quesiti/src_jjmo11yq_yosen#q02|src_jjmo11yq_yosen__Q02]]
 
 
-
-<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_geometria_piana,skill_ragionamento_geometrico"></span>
+<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_geometria_piana,method_simmetria,skill_ragionamento_geometrico"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -89,11 +86,12 @@ level: JJMO Yosen
 
 > A heptagon $PABCDEF$ is inscribed in a circle, and $$AB=BC=CD=DE=EF$$ holds. If $\angle PAB=100^\circ$ and $\angle PFE=120^\circ$, find $\angle FPA$. Here $\overline{XY}$ denotes the length of segment $XY$.
 
-![[src_jjmo11yq_yosen__q03.png]]
+![[src_jjmo11yq_yosen__Q03.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_simmetria|Using symmetry]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
-**Area:** [[Geometria]]
+**Area:** [[Geometria|Geometry]]
 **Risposta:** 200/3 degrees
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1_KqvofIIXgEWPDHUAZMRGkscvso3ZVrK/view)
 
@@ -105,13 +103,13 @@ level: JJMO Yosen
 
 > Un eptagono $PABCDEF$ è inscritto in una circonferenza, e $$AB=BC=CD=DE=EF$$ vale. Se $\angle PAB=100^\circ$ e $\angle PFE=120^\circ$, trova $\angle FPA$. Qui $\overline{XY}$ denota la lunghezza del segmento $XY$.
 
-![[src_jjmo11yq_yosen__q03.png]]
+![[src_jjmo11yq_yosen__Q03.png]]
+
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_simmetria|Sfruttamento della simmetria]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]]
-
-[[Quesiti/src_jjmo11yq_yosen#q03|src_jjmo11yq_yosen__Q03]]
 
 
 
@@ -124,7 +122,7 @@ level: JJMO Yosen
 
 > As shown below, $10$ points are arranged, and among them $5$ mutually distinct points are marked. Concerning the $5$ straight lines, each passing through $4$ of these $10$ points (the lines actually drawn as solid lines in the figure), it turned out that, for each line, the number of marked points among the $4$ points lying on it was exactly $2$. In total, how many such ways of marking are there? Note that markings coinciding under rotation or reflection are also counted as distinct.
 
-![[src_jjmo11yq_yosen__q04.png]]
+![[src_jjmo11yq_yosen__Q04.png]]
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_conteggio|Conteggio]], [[method_casework|Casework]]
@@ -141,14 +139,12 @@ level: JJMO Yosen
 
 > Come mostrato di seguito, i punti $10$ sono disposti e, tra questi, vengono contrassegnati $5$ punti mutuamente distinti. Per quanto riguarda le rette $5$, ciascuna delle quali passa per $4$ di questi $10$ punti (le rette effettivamente tracciate come linee continue nella figura), è risultato che, per ciascuna retta, il numero di punti contrassegnati tra i punti $4$ che giacciono su di essa era esattamente $2$. In totale, quante sono le modalità di contrassegnamento di questo tipo? Si noti che anche le marcature coincidenti per rotazione o riflessione vengono conteggiate come distinte.
 
-![[src_jjmo11yq_yosen__q04.png]]
+![[src_jjmo11yq_yosen__Q04.png]]
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_conteggio|Conteggio]], [[method_casework|Casework]]
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
-
-[[Quesiti/src_jjmo11yq_yosen#q04|src_jjmo11yq_yosen__Q04]]
 
 
 
@@ -181,8 +177,6 @@ level: JJMO Yosen
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 
-[[Quesiti/src_jjmo11yq_yosen#q05|src_jjmo11yq_yosen__Q05]]
-
 
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_aritmetica,method_congruenze,method_casework,skill_riconoscimento_pattern,skill_casework_accurato"></span>
@@ -213,8 +207,6 @@ level: JJMO Yosen
 **Metodo:** [[method_congruenze|Congruenze]], [[method_casework|Casework]]
 **Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
-
-[[Quesiti/src_jjmo11yq_yosen#q06|src_jjmo11yq_yosen__Q06]]
 
 
 
@@ -251,8 +243,6 @@ level: JJMO Yosen
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 
-[[Quesiti/src_jjmo11yq_yosen#q07|src_jjmo11yq_yosen__Q07]]
-
 
 
 <span class="atom-split" id="q08" data-atom="q08" data-title="Quesito 8" data-tags="topic_aritmetica,topic_algebra,method_fattorizzazione,method_casework,skill_manipolazione_algebrica,skill_casework_accurato"></span>
@@ -288,8 +278,6 @@ level: JJMO Yosen
 
 **Risposta:** 34
 
-[[Quesiti/src_jjmo11yq_yosen#q08|src_jjmo11yq_yosen__Q08]]
-
 
 
 <span class="atom-split" id="q09" data-atom="q09" data-title="Quesito 9" data-tags="topic_aritmetica,topic_combinatoria,method_inclusione_esclusione,method_congruenze,skill_conteggio_sistematico,skill_manipolazione_algebrica"></span>
@@ -323,11 +311,9 @@ level: JJMO Yosen
 
 **Risposta:** 318600
 
-[[Quesiti/src_jjmo11yq_yosen#q09|src_jjmo11yq_yosen__Q09]]
 
 
-
-<span class="atom-split" id="q10" data-atom="q10" data-title="Quesito 10" data-tags="topic_geometria_piana,topic_geometria_analitica,method_coordinate,method_estremalita,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
+<span class="atom-split" id="q10" data-atom="q10" data-title="Quesito 10" data-tags="topic_geometria_piana,topic_geometria_analitica,method_coordinate,method_estremalita,method_simmetria,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -337,9 +323,9 @@ level: JJMO Yosen
 > Consider a regular hexagon $ABCDEF$ with side length $1$. There is a circle passing through the two points $A$ and $C$, and a circle passing through the two points $B$ and $D$; these two circles intersect at a point $P$ and a point $Q$. Find the smallest possible value of the length of segment $PQ$. Here, the two circles are assumed to be distinct.
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_geometria_analitica|Geometria analitica]]
-**Metodo:** [[method_coordinate|Coordinate]], [[method_estremalita|Estremalità]]
+**Metodo:** [[method_coordinate|Coordinate]], [[method_estremalita|Estremalità]], [[method_simmetria|Using symmetry]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
-**Area:** [[Geometria]]
+**Area:** [[Geometria|Geometry]]
 **Risposta:** (2/3)*sqrt(6)
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1_KqvofIIXgEWPDHUAZMRGkscvso3ZVrK/view)
 
@@ -351,16 +337,15 @@ level: JJMO Yosen
 
 > Si consideri un esagono regolare $ABCDEF$ con lato di lunghezza $1$. Esiste una circonferenza che passa per i due punti $A$ e $C$, e una circonferenza che passa per i due punti $B$ e $D$; queste due circonferenze si intersecano in un punto $P$ e in un punto $Q$. Determinare il valore minimo possibile della lunghezza del segmento $PQ$. Si assume qui che le due circonferenze siano distinte.
 
+
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_geometria_analitica|Geometria analitica]]
-**Metodo:** [[method_coordinate|Coordinate]], [[method_estremalita|Estremalità]]
+**Metodo:** [[method_coordinate|Coordinate]], [[method_estremalita|Estremalità]], [[method_simmetria|Sfruttamento della simmetria]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 
-[[Quesiti/src_jjmo11yq_yosen#q10|src_jjmo11yq_yosen__Q10]]
 
 
-
-<span class="atom-split" id="q11" data-atom="q11" data-title="Quesito 11" data-tags="topic_combinatoria,method_estremalita,method_invarianti,skill_conteggio_sistematico,skill_astrazione"></span>
+<span class="atom-split" id="q11" data-atom="q11" data-title="Quesito 11" data-tags="topic_combinatoria,method_estremalita,method_invarianti,skill_conteggio_sistematico,skill_astrazione,skill_lettura_attenta"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -376,8 +361,8 @@ level: JJMO Yosen
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_estremalita|Estremalità]], [[method_invarianti|Invarianti]]
-**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_astrazione|Astrazione]]
-**Area:** [[Combinatoria, Logica e Probabilita]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_astrazione|Astrazione]], [[skill_lettura_attenta|Careful reading of the text]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Risposta:** 5050
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1_KqvofIIXgEWPDHUAZMRGkscvso3ZVrK/view)
 
@@ -394,12 +379,11 @@ level: JJMO Yosen
 >
 > Si noti che una cella può essere contemporaneamente una cella buona e una cella cattiva. Qual è il valore massimo possibile di (numero di celle buone) $-$ (numero di celle cattive)?
 
+
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_estremalita|Estremalità]], [[method_invarianti|Invarianti]]
-**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_astrazione|Astrazione]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_astrazione|Astrazione]], [[skill_lettura_attenta|Lettura attenta del testo]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
-
-[[Quesiti/src_jjmo11yq_yosen#q11|src_jjmo11yq_yosen__Q11]]
 
 
 
@@ -431,5 +415,3 @@ level: JJMO Yosen
 **Metodo:** [[method_estremalita|Estremalità]], [[method_simmetria|Simmetria]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_astrazione|Astrazione]]
 **Area:** [[Geometria]]
-
-[[Quesiti/src_jjmo11yq_yosen#q12|src_jjmo11yq_yosen__Q12]]

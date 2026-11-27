@@ -10,7 +10,7 @@ level: nazionale
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_aritmetica,method_congruenze,skill_casework_accurato"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_aritmetica,method_congruenze,skill_casework_accurato,skill_modellizzazione,skill_lettura_attenta"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -28,7 +28,7 @@ level: nazionale
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]]
-**Abilita:** [[skill_casework_accurato|Casework accurato]]
+**Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_lettura_attenta|Lettura attenta del testo]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 1704
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1uaY8PKQKactUduVW6rau-BxgOjQrCbra/view)
@@ -42,15 +42,15 @@ level: nazionale
 > The magic potion
 > The Briton Cantorax needs a large quantity of magic potion to save his village from the Romans. Parabolix has prepared as much as he wants, and has to bottle it. He has containers of various sizes at his disposal, but he wants to put the potion into containers that are all the same. He first tries vessels of 25 litres, but he has 1 litre left over. He then tries vessels of 15 litres, but this time he has 6 litres left over. Finally he decides to put the potion into little bottles of 25 centilitres, and of course he manages to have none left over. Knowing that Parabolix produced less than 500 litres of potion and that he used more than 1500 bottles, what is the exact number of bottles used?
 
+
 **Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
-**Method:** [[method_congruenze|Modular arithmetic / congruences]]
-**Skill:** [[skill_casework_accurato|Careful case analysis]]
-
-[[Quesiti/src_cesenatico_2011_finale#q01|src_cesenatico_2011_finale__Q01]]
-
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]], [[skill_modellizzazione|Modelling / translating the text]], [[skill_lettura_attenta|Careful reading of the text]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
 
-<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_aritmetica,method_congruenze,skill_manipolazione_algebrica"></span>
+
+<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_aritmetica,method_congruenze,method_casework,skill_manipolazione_algebrica,skill_riconoscimento_pattern"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -64,8 +64,8 @@ level: nazionale
 > prima di poter finire, e Borelix si domanda: chissà quanto sarebbe stato il valore di k?
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]]
-**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]], [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 0153
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1uaY8PKQKactUduVW6rau-BxgOjQrCbra/view)
@@ -79,15 +79,15 @@ level: nazionale
 > The bard's song
 > The bard Assuranceturing has composed a new ballad to celebrate the departure for Britain. Since he loves to overdo things, instead of the classic verse "44 Gauls in rows of 6 with remainder 2" he has decided to sing "1!+2!+3!+4!+··+2011! Britons in rows of 576 with remainder k". He is of course tied up and gagged before he can finish, and Borelix wonders: what would the value of k have been?
 
+
 **Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
-**Method:** [[method_congruenze|Modular arithmetic / congruences]]
-**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
-
-[[Quesiti/src_cesenatico_2011_finale#q02|src_cesenatico_2011_finale__Q02]]
-
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]], [[method_casework|Case analysis]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
 
-<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_algebra,skill_modellizzazione"></span>
+
+<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_algebra,skill_modellizzazione,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -105,7 +105,7 @@ level: nazionale
 > quanti pezzi di rame gli mancano per raggiungere il valore di un lingotto di ferro?
 
 **Topic:** [[topic_algebra|Algebra]]
-**Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta del testo]]
 **Area:** [[Algebra e Analisi]]
 **Risposta:** 0019
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1uaY8PKQKactUduVW6rau-BxgOjQrCbra/view)
@@ -124,14 +124,14 @@ level: nazionale
 > one needs 12 pieces of bronze or, alternatively, 6 pieces and 1
 > 2 of copper." If Abelix already has 18 pieces of bronze, how many pieces of copper does he still need in order to reach the value of one iron ingot?
 
+
 **Topic:** [[topic_algebra|Algebra]]
-**Skill:** [[skill_modellizzazione|Modelling / translating the wording]]
-
-[[Quesiti/src_cesenatico_2011_finale#q03|src_cesenatico_2011_finale__Q03]]
-
+**Abilita:** [[skill_modellizzazione|Modelling / translating the wording]], [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_lettura_attenta|Careful reading of the text]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
 
 
-<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_combinatoria,topic_aritmetica,method_casework,method_conteggio,skill_conteggio_sistematico"></span>
+
+<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_combinatoria,topic_aritmetica,method_casework,method_conteggio,skill_conteggio_sistematico,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -148,8 +148,8 @@ level: nazionale
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_casework|Analisi per casi]], [[method_conteggio|Conteggio combinatorio]]
-**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
-**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 0960
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1uaY8PKQKactUduVW6rau-BxgOjQrCbra/view)
 
@@ -162,15 +162,15 @@ level: nazionale
 > Primes in a line
 > The Roman legion threatening Cantorax's village is organised in many ranks of 10 legionaries each. In each rank the legionaries are numbered from 0 to 9 and stand side by side, not necessarily in order. The centurion is superstitious, and he has insisted that every rank be in a different order and that all of them have the property that, if the 10 legionaries of the rank are divided into 5 blocks of 2 digits each and each block of 2 digits is read as a number (the writing 02 is allowed, and it simply means 2), one obtains 5 prime numbers. Determine the maximum number of ranks the legion can consist of.
 
+
 **Topic:** [[topic_combinatoria|Combinatorics]], [[topic_aritmetica|Arithmetic / Number theory]]
-**Method:** [[method_casework|Case analysis]], [[method_conteggio|Combinatorial counting]]
-**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
-
-[[Quesiti/src_cesenatico_2011_finale#q04|src_cesenatico_2011_finale__Q04]]
-
+**Metodo:** [[method_casework|Case analysis]], [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]], [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
 
-<span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_geometria_piana,method_coordinate,skill_ragionamento_geometrico"></span>
+
+<span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_geometria_piana,method_coordinate,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -190,7 +190,7 @@ level: nazionale
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_coordinate|Metodo delle coordinate]]
-**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 **Risposta:** 0900
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1uaY8PKQKactUduVW6rau-BxgOjQrCbra/view)
@@ -204,15 +204,15 @@ level: nazionale
 > A mysterious symbol
 > Meanwhile, in Armorica, a curious symbol, unknown to the Gauls, has been found on a menhir. It consists of a rectangle ABCD and an equilateral triangle CDE built externally to the rectangle on the side CD. Parabolix decides to examine it, and he calls P the centre of the triangle. He thus discovers that the shorter side BC measures 45 centimetres, and that the points A, B, P and D lie on the same circle. How many millimetres long is the diagonal of the rectangle?
 
+
 **Topic:** [[topic_geometria_piana|Plane geometry]]
-**Method:** [[method_coordinate|Coordinate method]]
-**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
-
-[[Quesiti/src_cesenatico_2011_finale#q05|src_cesenatico_2011_finale__Q05]]
-
+**Metodo:** [[method_coordinate|Coordinate method]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Geometria|Geometry]]
 
 
-<span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_funzionali,method_ricorsione,skill_manipolazione_algebrica"></span>
+
+<span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_funzionali,method_ricorsione,skill_manipolazione_algebrica,skill_modellizzazione"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -226,7 +226,7 @@ level: nazionale
 
 **Topic:** [[topic_funzionali|Equazioni funzionali / successioni]]
 **Metodo:** [[method_ricorsione|Ricorsione]]
-**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
 **Area:** [[Algebra e Analisi]]
 **Risposta:** 6564
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1uaY8PKQKactUduVW6rau-BxgOjQrCbra/view)
@@ -240,15 +240,15 @@ level: nazionale
 > A strict diet
 > In Britain wild boar are scarce, and so Borelix has had to go on a diet: every day he eats 1 boar more than 2/3 of the number of boars he had eaten the day before. Knowing that on the ninth day of his stay on the island he eats only 259 boars, how many had he eaten on the first day?
 
+
 **Topic:** [[topic_funzionali|Functional equations / sequences]]
-**Method:** [[method_ricorsione|Recursion]]
-**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
-
-[[Quesiti/src_cesenatico_2011_finale#q06|src_cesenatico_2011_finale__Q06]]
-
+**Metodo:** [[method_ricorsione|Recursion]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
 
 
-<span class="atom-split" id="q07" data-atom="q07" data-title="Quesito 7" data-tags="topic_aritmetica,method_congruenze,skill_casework_accurato"></span>
+
+<span class="atom-split" id="q07" data-atom="q07" data-title="Quesito 7" data-tags="topic_aritmetica,method_congruenze,method_casework,skill_casework_accurato,skill_lettura_attenta"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -263,8 +263,8 @@ level: nazionale
 > l’età del vecchio Math-usa-lemmix?
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]]
-**Abilita:** [[skill_casework_accurato|Casework accurato]]
+**Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]], [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_lettura_attenta|Lettura attenta del testo]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 0203
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1uaY8PKQKactUduVW6rau-BxgOjQrCbra/view)
@@ -278,11 +278,11 @@ level: nazionale
 > Old Math-usa-lemmix's birthday
 > On the birthday of the elderly Math-usa-lemmix, the most envied man in the village (on account of his wife), little Eallaix turns 7. When the child asks the old man his age, he replies: "My age is a positive integer n, less than 300, whose digits are either zeros or, in any case, do not divide n, and such that, if you subtract your age from it, it becomes a number whose only prime divisors are 7 and the first digit of n." What is old Math-usa-lemmix's age?
 
-**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
-**Method:** [[method_congruenze|Modular arithmetic / congruences]]
-**Skill:** [[skill_casework_accurato|Careful case analysis]]
 
-[[Quesiti/src_cesenatico_2011_finale#q07|src_cesenatico_2011_finale__Q07]]
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]], [[method_casework|Case analysis]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]], [[skill_lettura_attenta|Careful reading of the text]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
 
 
@@ -319,8 +319,7 @@ level: nazionale
 **Topic:** [[topic_probabilita|Probability and statistics]]
 **Method:** [[method_simmetria|Using symmetry]]
 **Skill:** [[skill_conteggio_sistematico|Systematic counting]]
-
-[[Quesiti/src_cesenatico_2011_finale#q08|src_cesenatico_2011_finale__Q08]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
 
 
@@ -359,12 +358,11 @@ level: nazionale
 **Topic:** [[topic_geometria_piana|Plane geometry]]
 **Method:** [[method_coordinate|Coordinate method]]
 **Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
-
-[[Quesiti/src_cesenatico_2011_finale#q09|src_cesenatico_2011_finale__Q09]]
-
+**Area:** [[Geometria|Geometry]]
 
 
-<span class="atom-split" id="q10" data-atom="q10" data-title="Quesito 10" data-tags="topic_combinatoria,topic_aritmetica,method_conteggio,skill_conteggio_sistematico"></span>
+
+<span class="atom-split" id="q10" data-atom="q10" data-title="Quesito 10" data-tags="topic_combinatoria,topic_aritmetica,method_conteggio,method_congruenze,skill_conteggio_sistematico,skill_modellizzazione"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -378,9 +376,9 @@ level: nazionale
 > pezzi di bronzo e pezzi di rame, Cantorax può pagare un biglietto senza dover ricevere resto?
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_conteggio|Conteggio combinatorio]]
-**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
-**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+**Metodo:** [[method_conteggio|Conteggio combinatorio]], [[method_congruenze|Aritmetica modulare / congruenze]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 4448
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1uaY8PKQKactUduVW6rau-BxgOjQrCbra/view)
 
@@ -393,15 +391,15 @@ level: nazionale
 > The Britons' coins II
 > In Britain a strange game is in fashion, played between two teams, using balls, bats and little hoops stuck in the ground. The ticket to watch the grand final between Londinium and Cambridges costs 2011 iron ingots. (For the equivalences between the pieces, see Problem 3.) In how many different ways, using only bronze pieces and copper pieces, can Cantorax pay for a ticket without having to receive change?
 
+
 **Topic:** [[topic_combinatoria|Combinatorics]], [[topic_aritmetica|Arithmetic / Number theory]]
-**Method:** [[method_conteggio|Combinatorial counting]]
-**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
-
-[[Quesiti/src_cesenatico_2011_finale#q10|src_cesenatico_2011_finale__Q10]]
-
+**Metodo:** [[method_conteggio|Combinatorial counting]], [[method_congruenze|Modular arithmetic / congruences]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]], [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
 
-<span class="atom-split" id="q11" data-atom="q11" data-title="Quesito 11" data-tags="topic_aritmetica,method_casework,skill_riconoscimento_pattern"></span>
+
+<span class="atom-split" id="q11" data-atom="q11" data-title="Quesito 11" data-tags="topic_aritmetica,method_casework,skill_riconoscimento_pattern,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -419,7 +417,7 @@ level: nazionale
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_casework|Analisi per casi]]
-**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 0060
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1uaY8PKQKactUduVW6rau-BxgOjQrCbra/view)
@@ -433,15 +431,15 @@ level: nazionale
 > The three delicacies
 > Meanwhile, in Armorica, old Math-usa-lemmix is telling the children of the village the tale of Cappuccettix and the wicked Roman: "...her mother had given her the basket to take to her sick Granny Galla, full of so many delicacies: cioccoLatinix, Gallinix and tarts with MarmelLatinix". But age plays nasty tricks, and the old man no longer remembers precisely how many there were of each of these gifts! He knows only that they were 3 consecutive integers, of which 2 were prime numbers and 1 a perfect square. Little Leibnix, very sharp, suggests to him all the possible triples of such numbers. What is the product of the greatest elements of all these triples?
 
+
 **Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
-**Method:** [[method_casework|Case analysis]]
-**Skill:** [[skill_riconoscimento_pattern|Pattern recognition]]
-
-[[Quesiti/src_cesenatico_2011_finale#q11|src_cesenatico_2011_finale__Q11]]
-
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]], [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
 
-<span class="atom-split" id="q12" data-atom="q12" data-title="Quesito 12" data-tags="topic_probabilita,skill_modellizzazione"></span>
+
+<span class="atom-split" id="q12" data-atom="q12" data-title="Quesito 12" data-tags="topic_probabilita,method_casi_conteggio,skill_modellizzazione,skill_conteggio_sistematico,skill_lettura_attenta"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -462,7 +460,8 @@ level: nazionale
 > Una meno facile missione in Egitto
 
 **Topic:** [[topic_probabilita|Probabilita e statistica]]
-**Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
+**Metodo:** [[method_casi_conteggio|Conteggio per casi]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta del testo]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 4000
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1uaY8PKQKactUduVW6rau-BxgOjQrCbra/view)
@@ -477,14 +476,15 @@ level: nazionale
 > The fishmonger of the village, Lessicografix, has received a particularly poor consignment of fish from Lutetia, so poor that these fish are red, yellow, blue, green... but often one colour on one side and another on the other (while each single side is of one colour). The children of the village have played a trick on him, stealing 13 fish to hide: 2 red and green, 3 green and blue, 2 yellow and blue, 3 yellow and red, 1 yellow and green, and 2 completely yellow. Lessicografix, looking for his fish, sees the yellow side of a fish poking out of a nearby bush: what is the probability that the fish is completely yellow?
 > As the answer, give the first 4 digits after the decimal point.
 
+
 **Topic:** [[topic_probabilita|Probability and statistics]]
-**Skill:** [[skill_modellizzazione|Modelling / translating the wording]]
+**Metodo:** [[method_casi_conteggio|Counting by cases]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the wording]], [[skill_conteggio_sistematico|Systematic counting]], [[skill_lettura_attenta|Careful reading of the text]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
-[[Quesiti/src_cesenatico_2011_finale#q12|src_cesenatico_2011_finale__Q12]]
 
 
-
-<span class="atom-split" id="q13" data-atom="q13" data-title="Quesito 13" data-tags="topic_aritmetica,method_congruenze,skill_casework_accurato"></span>
+<span class="atom-split" id="q13" data-atom="q13" data-title="Quesito 13" data-tags="topic_aritmetica,method_congruenze,skill_casework_accurato,skill_riconoscimento_pattern"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -499,7 +499,7 @@ level: nazionale
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]]
-**Abilita:** [[skill_casework_accurato|Casework accurato]]
+**Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 7980
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1uaY8PKQKactUduVW6rau-BxgOjQrCbra/view)
@@ -513,11 +513,11 @@ level: nazionale
 > A message from Egypt
 > The coded message by which Numerotris asks his Gaulish friends to join him in Egypt is a long sequence of 1000 digits, each between 0 and 8. To decode it, Parabolix notes that this number, read in base 10, is a multiple of 3, read in base 9 is a multiple of 4, and read in base 11 is a multiple of 5. What is the greatest possible sum of the digits written on the sheet?
 
-**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
-**Method:** [[method_congruenze|Modular arithmetic / congruences]]
-**Skill:** [[skill_casework_accurato|Careful case analysis]]
 
-[[Quesiti/src_cesenatico_2011_finale#q13|src_cesenatico_2011_finale__Q13]]
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]], [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
 
 
@@ -554,12 +554,11 @@ level: nazionale
 **Topic:** [[topic_probabilita|Probability and statistics]], [[topic_aritmetica|Arithmetic / Number theory]]
 **Method:** [[method_conteggio|Combinatorial counting]], [[method_inclusione_esclusione|Inclusion–exclusion]]
 **Skill:** [[skill_conteggio_sistematico|Systematic counting]]
-
-[[Quesiti/src_cesenatico_2011_finale#q14|src_cesenatico_2011_finale__Q14]]
-
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
 
-<span class="atom-split" id="q15" data-atom="q15" data-title="Quesito 15" data-tags="topic_geometria_analitica,method_disuguaglianze,skill_ragionamento_geometrico"></span>
+
+<span class="atom-split" id="q15" data-atom="q15" data-title="Quesito 15" data-tags="topic_geometria_analitica,topic_disuguaglianze,method_disuguaglianze,skill_ragionamento_geometrico,skill_modellizzazione"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -574,10 +573,10 @@ level: nazionale
 > l’ora. Inoltre, tra tutte le rotte di questo tipo, scelgono quella più lenta. Quanti minuti impiegherà la nave dei
 > pirati per intercettare l’altra (dove ovviamente i soliti Galli stanno schiacciando un pisolino)?
 
-**Topic:** [[topic_geometria_analitica|Geometria analitica]]
+**Topic:** [[topic_geometria_analitica|Geometria analitica]], [[topic_disuguaglianze|Disuguaglianze]]
 **Metodo:** [[method_disuguaglianze|Disuguaglianze classiche]]
-**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
-**Area:** [[Geometria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
+**Area:** [[Geometria]], [[Algebra e Analisi]]
 **Risposta:** 0536
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1uaY8PKQKactUduVW6rau-BxgOjQrCbra/view)
 
@@ -590,15 +589,15 @@ level: nazionale
 > At breakneck speed
 > At about the hour of the afternoon nap, the pirates have sighted a ship lying still in the middle of the Mediterranean, 1 mile away from them. They make straight for it, to plunder it. However, fearing that (to crown their misfortune) it may be populated by the usual Gauls, they advance with extreme caution. Their approach consists of two straight legs, orthogonal to each other, the first at 1/4 of a mile per hour, the second at 1/8 of a mile per hour. Moreover, among all routes of this kind, they choose the slowest. How many minutes will the pirates' ship take to intercept the other (where, of course, the usual Gauls are having a nap)?
 
-**Topic:** [[topic_geometria_analitica|Analytic geometry]]
-**Method:** [[method_disuguaglianze|Classical inequalities]]
-**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
 
-[[Quesiti/src_cesenatico_2011_finale#q15|src_cesenatico_2011_finale__Q15]]
+**Topic:** [[topic_geometria_analitica|Analytic geometry]], [[topic_disuguaglianze|Inequalities]]
+**Metodo:** [[method_disuguaglianze|Classical inequalities]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Geometria|Geometry]], [[Algebra e Analisi|Algebra and analysis]]
 
 
 
-<span class="atom-split" id="q16" data-atom="q16" data-title="Quesito 16" data-tags="topic_geometria_piana,method_coordinate,skill_ragionamento_geometrico"></span>
+<span class="atom-split" id="q16" data-atom="q16" data-title="Quesito 16" data-tags="topic_geometria_piana,method_coordinate,method_simmetria,skill_ragionamento_geometrico"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -615,7 +614,7 @@ level: nazionale
 > la distanza tra Cleopatra e il serpente?
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
-**Metodo:** [[method_coordinate|Metodo delle coordinate]]
+**Metodo:** [[method_coordinate|Metodo delle coordinate]], [[method_simmetria|Sfruttamento della simmetria]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]]
 **Risposta:** 0350
@@ -630,15 +629,15 @@ level: nazionale
 > "Gauls, come from afar. . .
 > ...to smother me with hatred, I shall show you how a queen dies. Bring me the snake!", cries Cleopatra when Abelix and the others enter the throne room. But the asp is not within reach: Cleopatra and the snake are at the ends of the shorter base of an isosceles trapezium. Abelix and Borelix are at the ends of the longer base, which is also the diameter of the circle in which the trapezium is inscribed. Knowing that the distance between Abelix and Borelix is 400 cleopassi (a unit of length determined by the length of Cleopatra's legs), and that the distance between Abelix and Cleopatra is 100 cleopassi, as is that between Borelix and the snake, what is the distance between Cleopatra and the snake?
 
+
 **Topic:** [[topic_geometria_piana|Plane geometry]]
-**Method:** [[method_coordinate|Coordinate method]]
-**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
-
-[[Quesiti/src_cesenatico_2011_finale#q16|src_cesenatico_2011_finale__Q16]]
-
+**Metodo:** [[method_coordinate|Coordinate method]], [[method_simmetria|Using symmetry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
 
 
-<span class="atom-split" id="q17" data-atom="q17" data-title="Quesito 17" data-tags="topic_aritmetica,skill_riconoscimento_pattern"></span>
+
+<span class="atom-split" id="q17" data-atom="q17" data-title="Quesito 17" data-tags="topic_aritmetica,method_congruenze,skill_riconoscimento_pattern,skill_modellizzazione"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -656,7 +655,8 @@ level: nazionale
 > secondi dalla partenza i tre atleti saranno di nuovo tutti fianco a fianco per la prima volta?
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 3800
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1uaY8PKQKactUduVW6rau-BxgOjQrCbra/view)
@@ -672,14 +672,15 @@ level: nazionale
 > The First Labour is a running race, 200 laps of the track. Abelix takes part, together with the Greek champion Velocipedos and the Roman champion Dopatus.
 > At the start they all set off together from the same point of the track, running anticlockwise at constant speed. Abelix takes 120 seconds to complete a lap, Velocipedos 75 seconds, and Dopatus (who has secretly stolen and drunk a little of the magic potion, and will be disqualified after the finish) only 57 seconds. How many seconds after the start will the three athletes next be all side by side for the first time?
 
+
 **Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
-**Skill:** [[skill_riconoscimento_pattern|Pattern recognition]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]]
+**Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]], [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
-[[Quesiti/src_cesenatico_2011_finale#q17|src_cesenatico_2011_finale__Q17]]
 
 
-
-<span class="atom-split" id="q18" data-atom="q18" data-title="Quesito 18" data-tags="topic_geometria_solida,method_coordinate,skill_ragionamento_geometrico"></span>
+<span class="atom-split" id="q18" data-atom="q18" data-title="Quesito 18" data-tags="topic_geometria_solida,method_coordinate,method_conteggio,skill_ragionamento_geometrico,skill_conteggio_sistematico"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -694,8 +695,8 @@ level: nazionale
 > di forma cubica e lato di 5 cleopassi. Quanti sono in tutto i compartimenti del portagioie di Cleopatra?
 
 **Topic:** [[topic_geometria_solida|Geometria solida]]
-**Metodo:** [[method_coordinate|Metodo delle coordinate]]
-**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Metodo:** [[method_coordinate|Metodo delle coordinate]], [[method_conteggio|Conteggio combinatorio]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Geometria]]
 **Risposta:** 4324
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1uaY8PKQKactUduVW6rau-BxgOjQrCbra/view)
@@ -709,15 +710,15 @@ level: nazionale
 > Cleopatra's jewel case
 > The first pyramid Cleopatra felt the need of is in fact an immense jewel case. The pyramid has a square base of side 120 cleopassi and height 120 cleopassi. Its apex is not equidistant from the vertices of the base square: it lies at distances 131 and 143 cleopassi from two consecutive such vertices. Inside the volume of the pyramid the greatest possible number of compartments has been made, each cubic in shape and of side 5 cleopassi. How many compartments are there in all in Cleopatra's jewel case?
 
+
 **Topic:** [[topic_geometria_solida|Solid geometry]]
-**Method:** [[method_coordinate|Coordinate method]]
-**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
-
-[[Quesiti/src_cesenatico_2011_finale#q18|src_cesenatico_2011_finale__Q18]]
-
+**Metodo:** [[method_coordinate|Coordinate method]], [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Geometria|Geometry]]
 
 
-<span class="atom-split" id="q19" data-atom="q19" data-title="Quesito 19" data-tags="topic_probabilita,method_conteggio,skill_conteggio_sistematico"></span>
+
+<span class="atom-split" id="q19" data-atom="q19" data-title="Quesito 19" data-tags="topic_probabilita,method_conteggio,skill_conteggio_sistematico,skill_modellizzazione,skill_lettura_attenta"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -737,7 +738,7 @@ level: nazionale
 
 **Topic:** [[topic_probabilita|Probabilita e statistica]]
 **Metodo:** [[method_conteggio|Conteggio combinatorio]]
-**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_lettura_attenta|Lettura attenta del testo]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0142
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1uaY8PKQKactUduVW6rau-BxgOjQrCbra/view)
@@ -752,15 +753,15 @@ level: nazionale
 > On Numerotris's building site 4 Roman spies and 4 saboteurs working for the architect who lost the contract have infiltrated. Abelix has learnt of the 4 spies (though he does not know who they are) but not of the saboteurs, and he begins to question all 44 workers on the site in random order. If he finds a spy or a saboteur he is sure to discover them, but once he has found all 4 spies he stops the questioning. What is the probability that he does not discover even one of the saboteurs?
 > As the answer, give the first 4 digits after the decimal point.
 
+
 **Topic:** [[topic_probabilita|Probability and statistics]]
-**Method:** [[method_conteggio|Combinatorial counting]]
-**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
-
-[[Quesiti/src_cesenatico_2011_finale#q19|src_cesenatico_2011_finale__Q19]]
-
+**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]], [[skill_modellizzazione|Modelling / translating the text]], [[skill_lettura_attenta|Careful reading of the text]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
 
-<span class="atom-split" id="q20" data-atom="q20" data-title="Quesito 20" data-tags="topic_probabilita,topic_combinatoria,method_grafi,skill_riconoscimento_pattern"></span>
+
+<span class="atom-split" id="q20" data-atom="q20" data-title="Quesito 20" data-tags="topic_probabilita,topic_combinatoria,method_grafi,method_conteggio,skill_riconoscimento_pattern,skill_astrazione"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -780,8 +781,8 @@ level: nazionale
 > Come risposta fornire le prime 4 cifre dopo la virgola.
 
 **Topic:** [[topic_probabilita|Probabilita e statistica]], [[topic_combinatoria|Combinatoria]]
-**Metodo:** [[method_grafi|Teoria dei grafi]]
-**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Metodo:** [[method_grafi|Teoria dei grafi]], [[method_conteggio|Conteggio combinatorio]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_astrazione|Astrazione / generalizzazione]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 1100
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1uaY8PKQKactUduVW6rau-BxgOjQrCbra/view)
@@ -797,15 +798,15 @@ level: nazionale
 > Abelix duly starts by asking office 73 for pass A-38, and for a while he follows the directions; but after 1000 times he gets fed up and decides to get rough with the clerks of the office he finds himself in front of. What is the probability that he ends up taking it out precisely on the clerks of office 73?
 > As the answer, give the first 4 digits after the decimal point.
 
+
 **Topic:** [[topic_probabilita|Probability and statistics]], [[topic_combinatoria|Combinatorics]]
-**Method:** [[method_grafi|Graph theory]]
-**Skill:** [[skill_riconoscimento_pattern|Pattern recognition]]
-
-[[Quesiti/src_cesenatico_2011_finale#q20|src_cesenatico_2011_finale__Q20]]
-
+**Metodo:** [[method_grafi|Graph theory]], [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]], [[skill_astrazione|Abstraction / generalisation]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
 
-<span class="atom-split" id="q21" data-atom="q21" data-title="Quesito 21" data-tags="topic_algebra,topic_aritmetica,method_congruenze,method_ricorsione,skill_manipolazione_algebrica"></span>
+
+<span class="atom-split" id="q21" data-atom="q21" data-title="Quesito 21" data-tags="topic_algebra,topic_aritmetica,method_congruenze,method_ricorsione,skill_manipolazione_algebrica,skill_riconoscimento_pattern"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -828,7 +829,7 @@ level: nazionale
 
 **Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]], [[method_ricorsione|Ricorsione]]
-**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 0019
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1uaY8PKQKactUduVW6rau-BxgOjQrCbra/view)
@@ -845,15 +846,15 @@ level: nazionale
 > "Who goes there!" whispers the sentry. "I'm Duetrecinquesettete," replies Abelix, in an improbable Latin accent. "Tell me, then: if x is the unique positive real solution of x2 −29x −10 = 0, what is x2011?" asks the sentry. Abelix answers at once: "It's too big a number to say out loud, and it ain't even a whole number!" The sentry is not caught out, and replies: "Then take the integer part, and tell me the last two digits of the number you get. It had better be that you don't get it wrong!"
 > What must Abelix answer the sentry?
 
+
 **Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Arithmetic / Number theory]]
-**Method:** [[method_congruenze|Modular arithmetic / congruences]], [[method_ricorsione|Recursion]]
-**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
-
-[[Quesiti/src_cesenatico_2011_finale#q21|src_cesenatico_2011_finale__Q21]]
-
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]], [[method_ricorsione|Recursion]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
 
-<span class="atom-split" id="q22" data-atom="q22" data-title="Quesito 22" data-tags="topic_logica,method_casework,skill_casework_accurato"></span>
+
+<span class="atom-split" id="q22" data-atom="q22" data-title="Quesito 22" data-tags="topic_logica,method_casework,skill_casework_accurato,skill_lettura_attenta,skill_riconoscimento_pattern"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -877,7 +878,7 @@ level: nazionale
 
 **Topic:** [[topic_logica|Logica, giochi, strategie]]
 **Metodo:** [[method_casework|Analisi per casi]]
-**Abilita:** [[skill_casework_accurato|Casework accurato]]
+**Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_lettura_attenta|Lettura attenta del testo]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 4723
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1uaY8PKQKactUduVW6rau-BxgOjQrCbra/view)
@@ -898,15 +899,15 @@ level: nazionale
 > "the workers on the site are fewer than 6",
 > and so on, the seventh like the first, the eighth like the second, and so forth, with the difference that the nth worker speaks of n Egyptians or n workers. Clearly the Egyptians will always tell him the truth, while the Roman spies will always lie to him. How many Roman spies have infiltrated as workers? (It is understood that genuine Egyptians are never spies.)
 
+
 **Topic:** [[topic_logica|Logic, games and strategies]]
-**Method:** [[method_casework|Case analysis]]
-**Skill:** [[skill_casework_accurato|Careful case analysis]]
-
-[[Quesiti/src_cesenatico_2011_finale#q22|src_cesenatico_2011_finale__Q22]]
-
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]], [[skill_lettura_attenta|Careful reading of the text]], [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
 
-<span class="atom-split" id="q23" data-atom="q23" data-title="Quesito 23" data-tags="topic_geometria_solida,method_coordinate,skill_ragionamento_geometrico"></span>
+
+<span class="atom-split" id="q23" data-atom="q23" data-title="Quesito 23" data-tags="topic_geometria_solida,topic_geometria_piana,method_coordinate,method_simmetria,skill_ragionamento_geometrico,skill_astrazione"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -921,9 +922,9 @@ level: nazionale
 > di meno), camminando sul deserto e sulla superficie della piramide. Quanto sarà il perimetro del muro
 > calcolato in cleopassi?
 
-**Topic:** [[topic_geometria_solida|Geometria solida]]
-**Metodo:** [[method_coordinate|Metodo delle coordinate]]
-**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Topic:** [[topic_geometria_solida|Geometria solida]], [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_coordinate|Metodo delle coordinate]], [[method_simmetria|Sfruttamento della simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_astrazione|Astrazione / generalizzazione]]
 **Area:** [[Geometria]]
 **Risposta:** 1047
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1uaY8PKQKactUduVW6rau-BxgOjQrCbra/view)
@@ -937,15 +938,15 @@ level: nazionale
 > Cleopatra's real pyramid
 > Cleopatra has had another pyramid built, this time a right pyramid with square base, having as lateral faces equilateral triangles of side 100 cleopassi. The queen has required the architects to surround the pyramid, which stands in a perfectly flat desert, with a perimeter wall in such a way that, from any point of the inner wall, Cleopatra can reach the apex of the pyramid in 200 cleopassi (but nothing less), walking on the desert and on the surface of the pyramid. What will the perimeter of the wall be, in cleopassi?
 
-**Topic:** [[topic_geometria_solida|Solid geometry]]
-**Method:** [[method_coordinate|Coordinate method]]
-**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
 
-[[Quesiti/src_cesenatico_2011_finale#q23|src_cesenatico_2011_finale__Q23]]
+**Topic:** [[topic_geometria_solida|Solid geometry]], [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_coordinate|Coordinate method]], [[method_simmetria|Using symmetry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_astrazione|Abstraction / generalisation]]
+**Area:** [[Geometria|Geometry]]
 
 
 
-<span class="atom-split" id="q24" data-atom="q24" data-title="Quesito 24" data-tags="topic_algebra,topic_aritmetica,method_telescoping,skill_riconoscimento_pattern"></span>
+<span class="atom-split" id="q24" data-atom="q24" data-title="Quesito 24" data-tags="topic_algebra,topic_aritmetica,method_telescoping,skill_riconoscimento_pattern,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -967,7 +968,7 @@ level: nazionale
 
 **Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_telescoping|Somme telescopiche]]
-**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 1024
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1uaY8PKQKactUduVW6rau-BxgOjQrCbra/view)
@@ -982,8 +983,8 @@ level: nazionale
 > The third and last Labour imposed on the Gauls by Cleopatra consists in solving the riddle of the venerable Sage of the Mountain. Brave Abelix submits to this trial too. The old man blindfolds him carefully, takes the polynomial p(x) = ∏10
 > i=1(1+x2i) and asks him point-blank for the sum of the base-10 digits of p(1000). How must Abelix reply?
 
-**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Arithmetic / Number theory]]
-**Method:** [[method_telescoping|Telescoping sums]]
-**Skill:** [[skill_riconoscimento_pattern|Pattern recognition]]
 
-[[Quesiti/src_cesenatico_2011_finale#q24|src_cesenatico_2011_finale__Q24]]
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_telescoping|Telescoping sums]]
+**Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]

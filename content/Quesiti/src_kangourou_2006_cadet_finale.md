@@ -10,14 +10,14 @@ level: kangourou
 
 
 
-<span class="atom-split" id="qc1" data-atom="qc1" data-title="Quesito C1" data-tags="topic_geometria_piana,skill_ragionamento_geometrico"></span>
+<span class="atom-split" id="qc1" data-atom="qc1" data-title="Quesito C1" data-tags="topic_geometria_piana,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
 
 *Frazione grigia tra cerchi concentrici*
 
-![[src_kangourou_2006_cadet_finale__probc1.png]]
+![[src_kangourou_2006_cadet_finale__probC1.png]]
 
 ```tikz
 \begin{document}
@@ -37,7 +37,7 @@ level: kangourou
 > Il raggio dei due cerchi piccoli è un sesto del raggio del cerchio grande. Il raggio del cerchio di media misura è il doppio di quello dei cerchi piccoli. Quale frazione del cerchio grande è colorata in grigio? (vedi figura)
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
-**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 **Risposta:** 5/6
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1oNnFL23n9WfxOc8CMwyvvJmHD7pBCd5S/view)
@@ -48,7 +48,7 @@ level: kangourou
 
 *Grey fraction between concentric circles*
 
-![[src_kangourou_2006_cadet_finale__probc1.png]]
+![[src_kangourou_2006_cadet_finale__probC1.png]]
 
 ```tikz
 \begin{document}
@@ -67,22 +67,21 @@ level: kangourou
 
 > The radius of the two small circles is one sixth of the radius of the large circle. The radius of the medium-sized circle is twice the radius of the small circles. What fraction of the large circle is shaded gray? (see figure)
 
+
 **Topic:** [[topic_geometria_piana|Plane geometry]]
-**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
 **Area:** [[Geometria|Geometry]]
 
-[[Quesiti/src_kangourou_2006_cadet_finale#qc1|src_kangourou_2006_cadet_finale__QC1]]
 
 
-
-<span class="atom-split" id="qc2" data-atom="qc2" data-title="Quesito C2" data-tags="topic_geometria_piana,method_coordinate,skill_ragionamento_geometrico"></span>
+<span class="atom-split" id="qc2" data-atom="qc2" data-title="Quesito C2" data-tags="topic_geometria_piana,topic_geometria_analitica,method_coordinate,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
 
 *Traiettoria del punto medio della sbarra che scivola*
 
-![[src_kangourou_2006_cadet_finale__probc2.png]]
+![[src_kangourou_2006_cadet_finale__probC2.png]]
 
 ```tikz
 \begin{document}
@@ -99,9 +98,9 @@ level: kangourou
 
 > Una sbarra metallica, che per semplicità supponiamo filiforme e il cui punto medio è denotato con $M$, è appoggiata in piedi contro un muro e aderisce ad una parete con cui il muro fa angolo. Il muro ed il pavimento sono di marmo molto lucido, per cui lentamente la sbarra scivola, mantenendosi sempre aderente alla parete, fino ad adagiarsi sul pavimento (la figura schematizza la posizione della sbarra in un singolo istante durante il movimento: la parete è simboleggiata dal foglio). Che traiettoria descrive $M$ sulla parete? Motiva la tua affermazione. (vedi figura)
 
-**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_geometria_analitica|Geometria analitica]]
 **Metodo:** [[method_coordinate|Metodo delle coordinate]]
-**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 **Risposta:** quarto di circonferenza
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1oNnFL23n9WfxOc8CMwyvvJmHD7pBCd5S/view)
@@ -112,7 +111,7 @@ level: kangourou
 
 *Trajectory of the midpoint of the sliding bar*
 
-![[src_kangourou_2006_cadet_finale__probc2.png]]
+![[src_kangourou_2006_cadet_finale__probC2.png]]
 
 ```tikz
 \begin{document}
@@ -129,23 +128,22 @@ level: kangourou
 
 > A metal bar—which, for simplicity, we assume to be filamentary and whose midpoint is denoted by $M$—is standing upright against a wall and adheres to a wall that forms an angle with the first wall. The wall and the floor are made of highly polished marble; therefore, slowly, the bar slides while always remaining in contact with the wall, until it comes to rest on the floor (the figure schematically shows the bar's position at a single instant during the motion: the wall is represented by the sheet). What path does $M$ trace on the wall? Justify your statement. (see figure)
 
-**Topic:** [[topic_geometria_piana|Plane geometry]]
+
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_geometria_analitica|Coordinate geometry]]
 **Metodo:** [[method_coordinate|Coordinate method]]
-**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
 **Area:** [[Geometria|Geometry]]
 
-[[Quesiti/src_kangourou_2006_cadet_finale#qc2|src_kangourou_2006_cadet_finale__QC2]]
 
 
-
-<span class="atom-split" id="qc3" data-atom="qc3" data-title="Quesito C3" data-tags="topic_geometria_piana,topic_algebra,method_fattorizzazione,skill_ragionamento_geometrico"></span>
+<span class="atom-split" id="qc3" data-atom="qc3" data-title="Quesito C3" data-tags="topic_geometria_piana,topic_algebra,method_fattorizzazione,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
 
 *Relazione area e perimetro del rettangolo con quadrato*
 
-![[src_kangourou_2006_cadet_finale__probc3.png]]
+![[src_kangourou_2006_cadet_finale__probC3.png]]
 
 ```tikz
 \begin{document}
@@ -161,8 +159,8 @@ level: kangourou
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_algebra|Algebra]]
 **Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
-**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
-**Area:** [[Algebra e Analisi]], [[Geometria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]], [[Algebra e Analisi]]
 **Risposta:** sono uguali
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1oNnFL23n9WfxOc8CMwyvvJmHD7pBCd5S/view)
 
@@ -172,7 +170,7 @@ level: kangourou
 
 *Relationship between the area and perimeter of a rectangle and a square*
 
-![[src_kangourou_2006_cadet_finale__probc3.png]]
+![[src_kangourou_2006_cadet_finale__probC3.png]]
 
 ```tikz
 \begin{document}
@@ -186,29 +184,28 @@ level: kangourou
 
 > In the figure, a rectangle with base $a$ and height $b$ is shown, along with a square having one vertex on the diagonal of the rectangle and the opposite vertex in common with the rectangle. What can be said about the numbers that give (in appropriate units of measurement) the area and the perimeter of the rectangle if the square has side $2$? (see figure)
 
+
 **Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_algebra|Algebra]]
 **Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
-**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
-**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Geometria|Geometry]]
-
-[[Quesiti/src_kangourou_2006_cadet_finale#qc3|src_kangourou_2006_cadet_finale__QC3]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Geometria|Geometry]], [[Algebra e Analisi|Algebra and analysis]]
 
 
 
-<span class="atom-split" id="qc4" data-atom="qc4" data-title="Quesito C4" data-tags="topic_combinatoria,method_colorazione,skill_casework_accurato"></span>
+<span class="atom-split" id="qc4" data-atom="qc4" data-title="Quesito C4" data-tags="topic_combinatoria,method_colorazione,skill_casework_accurato,skill_astrazione"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
 
 *Minimo numero di colori per gli spicchi del cerchio*
 
-![[src_kangourou_2006_cadet_finale__probc4.png]]
+![[src_kangourou_2006_cadet_finale__probC4.png]]
 
 > Un cerchio è stato diviso in un certo numero di spicchi (almeno 4), ad esempio come in figura. Sei stato incaricato di colorare l'interno di ogni spicchio in modo che tra due spicchi di ugual colore ce ne siano sempre almeno due di colore diverso, ma non conosci il numero degli spicchi del cerchio (quello in figura è solo un esempio!). Qual è il più piccolo numero di colori che ti garantirà di riuscirci, indipendentemente dal numero degli spicchi? (vedi figura)
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_colorazione|Colorazione / parita]]
-**Abilita:** [[skill_casework_accurato|Casework accurato]]
+**Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_astrazione|Astrazione / generalizzazione]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 5
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1oNnFL23n9WfxOc8CMwyvvJmHD7pBCd5S/view)
@@ -219,35 +216,34 @@ level: kangourou
 
 *Minimum number of colors for the sectors of the circle*
 
-![[src_kangourou_2006_cadet_finale__probc4.png]]
+![[src_kangourou_2006_cadet_finale__probC4.png]]
 
 > A circle has been divided into a certain number of sectors (at least 4), for example as shown in the figure. You have been tasked with coloring the interior of each sector so that between two sectors of the same color there are always at least two sectors of a different color, but you do not know how many sectors the circle has (the one in the figure is just an example!). What is the smallest number of colors that will guarantee you can succeed, regardless of the number of sectors? (see figure)
 
+
 **Topic:** [[topic_combinatoria|Combinatorics]]
 **Metodo:** [[method_colorazione|Colouring / parity]]
-**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]], [[skill_astrazione|Abstraction / generalisation]]
 **Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
-[[Quesiti/src_kangourou_2006_cadet_finale#qc4|src_kangourou_2006_cadet_finale__QC4]]
 
 
-
-<span class="atom-split" id="qc5" data-atom="qc5" data-title="Quesito C5" data-tags="topic_aritmetica,topic_logica,method_casework,skill_casework_accurato"></span>
+<span class="atom-split" id="qc5" data-atom="qc5" data-title="Quesito C5" data-tags="topic_aritmetica,topic_logica,method_casework,method_congruenze,skill_casework_accurato,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
 
 *Risultato della somma ORE+ORE+ORE=VIVE*
 
-![[src_kangourou_2006_cadet_finale__probc5.png]]
+![[src_kangourou_2006_cadet_finale__probC5.png]]
 
 > Nell'operazione indicata, ogni lettera rappresenta una cifra: lettere uguali rappresentano cifre uguali e lettere diverse rappresentano cifre diverse; inoltre nessuna lettera rappresenta la cifra $0$. Quanto vale il risultato?
 > 
 > $$\begin{array}{r} \text{ORE} \\ \text{ORE} \\ +\; \text{ORE} \\ \hline \text{VIVE} \end{array}$$
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_logica|Logica, giochi, strategie]]
-**Metodo:** [[method_casework|Analisi per casi]]
-**Abilita:** [[skill_casework_accurato|Casework accurato]]
+**Metodo:** [[method_casework|Analisi per casi]], [[method_congruenze|Aritmetica modulare / congruenze]]
+**Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 2625
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1oNnFL23n9WfxOc8CMwyvvJmHD7pBCd5S/view)
@@ -258,22 +254,21 @@ level: kangourou
 
 *Result of the sum HOURS+HOURS+HOURS=LIVE*
 
-![[src_kangourou_2006_cadet_finale__probc5.png]]
+![[src_kangourou_2006_cadet_finale__probC5.png]]
 
 > In the indicated operation, each letter represents a digit: identical letters represent identical digits, and different letters represent different digits; moreover, no letter represents the digit $0$. What is the value of the result?
 >
 > $$\begin{array}{r} \text{ORE} \\ \text{ORE} \\ +\; \text{ORE} \\ \hline \text{VIVE} \end{array}$$
 
+
 **Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_logica|Logic, games and strategies]]
-**Metodo:** [[method_casework|Case analysis]]
-**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Metodo:** [[method_casework|Case analysis]], [[method_congruenze|Modular arithmetic / congruences]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
-[[Quesiti/src_kangourou_2006_cadet_finale#qc5|src_kangourou_2006_cadet_finale__QC5]]
 
 
-
-<span class="atom-split" id="qc6" data-atom="qc6" data-title="Quesito C6" data-tags="topic_aritmetica,topic_combinatoria,method_conteggio,skill_casework_accurato"></span>
+<span class="atom-split" id="qc6" data-atom="qc6" data-title="Quesito C6" data-tags="topic_aritmetica,topic_combinatoria,method_conteggio,skill_casework_accurato,skill_riconoscimento_pattern"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -284,7 +279,7 @@ level: kangourou
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_conteggio|Conteggio combinatorio]]
-**Abilita:** [[skill_casework_accurato|Casework accurato]]
+**Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** due
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1oNnFL23n9WfxOc8CMwyvvJmHD7pBCd5S/view)
@@ -297,9 +292,8 @@ level: kangourou
 
 > Consider the numbers with $3$ digits whose digits can be rearranged to form triples of consecutive digits (e.g., the digits of $786$ can be rearranged into the triple $678$, which consists of consecutive digits). How many of these numbers have an odd number of (mutually distinct) divisors?
 
+
 **Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_combinatoria|Combinatorics]]
 **Metodo:** [[method_conteggio|Combinatorial counting]]
-**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]], [[skill_riconoscimento_pattern|Pattern recognition]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
-
-[[Quesiti/src_kangourou_2006_cadet_finale#qc6|src_kangourou_2006_cadet_finale__QC6]]

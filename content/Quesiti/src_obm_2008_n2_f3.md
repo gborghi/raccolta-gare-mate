@@ -29,7 +29,7 @@ level: OBM Nível 2
 > 
 > (c) Determine the total number of precious sets.
 
-![[src_obm_2008_n2_f3__q01.png]]
+![[src_obm_2008_n2_f3__Q01.png]]
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]]
@@ -55,14 +55,12 @@ level: OBM Nível 2
 >
 > (c) Determina il numero totale di set preziosi.
 
-![[src_obm_2008_n2_f3__q01.png]]
+![[src_obm_2008_n2_f3__Q01.png]]
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]]
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
-
-[[Quesiti/src_obm_2008_n2_f3#q01|src_obm_2008_n2_f3__Q01]]
 
 
 
@@ -94,11 +92,9 @@ level: OBM Nível 2
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 
-[[Quesiti/src_obm_2008_n2_f3#q02|src_obm_2008_n2_f3__Q02]]
 
 
-
-<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_aritmetica,method_congruenze,method_fattorizzazione,skill_manipolazione_algebrica,skill_ragionamento_geometrico,skill_lettura_attenta"></span>
+<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_aritmetica,method_congruenze,method_fattorizzazione,method_casework,skill_manipolazione_algebrica,skill_ragionamento_geometrico,skill_lettura_attenta,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -108,9 +104,9 @@ level: OBM Nível 2
 > Prove that there are no positive integers $x$ and $y$ such that $x^x + y^y = 2^{2009}$.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_congruenze|Congruenze]], [[method_fattorizzazione|Fattorizzazione]]
-**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
-**Area:** [[Aritmetica e Teoria dei Numeri]]
+**Metodo:** [[method_congruenze|Congruenze]], [[method_fattorizzazione|Fattorizzazione]], [[method_casework|Case analysis]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1mPFxeuedSzPeVHyGa5uTEm_ubRSK1ROx/view)
 
 
@@ -121,16 +117,15 @@ level: OBM Nível 2
 
 > Dimostrare che non esistono numeri interi positivi $x$ e $y$ tali che $x^x + y^y = 2^{2009}$.
 
+
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_congruenze|Congruenze]], [[method_fattorizzazione|Fattorizzazione]]
-**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
+**Metodo:** [[method_congruenze|Congruenze]], [[method_fattorizzazione|Fattorizzazione]], [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 
-[[Quesiti/src_obm_2008_n2_f3#q03|src_obm_2008_n2_f3__Q03]]
 
 
-
-<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_algebra,method_simmetria,method_casework,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
+<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_algebra,method_simmetria,method_casework,method_fattorizzazione,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -142,9 +137,9 @@ level: OBM Nível 2
 > $$xyz = 1.$$
 
 **Topic:** [[topic_algebra|Algebra]]
-**Metodo:** [[method_simmetria|Simmetria]], [[method_casework|Casework]]
+**Metodo:** [[method_simmetria|Simmetria]], [[method_casework|Casework]], [[method_fattorizzazione|Factorisation / algebraic manipulation]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
-**Area:** [[Algebra e Analisi]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1mPFxeuedSzPeVHyGa5uTEm_ubRSK1ROx/view)
 
 
@@ -157,16 +152,15 @@ level: OBM Nível 2
 > $$x + \frac{1}{y} = y + \frac{1}{z} = z + \frac{1}{x}$$
 > $$xyz = 1.$$
 
+
 **Topic:** [[topic_algebra|Algebra]]
-**Metodo:** [[method_simmetria|Simmetria]], [[method_casework|Casework]]
+**Metodo:** [[method_simmetria|Simmetria]], [[method_casework|Casework]], [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Algebra e Analisi]]
 
-[[Quesiti/src_obm_2008_n2_f3#q04|src_obm_2008_n2_f3__Q04]]
 
 
-
-<span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_combinatoria,topic_geometria_piana,method_invarianti,method_casework,skill_ragionamento_geometrico,skill_modellizzazione,skill_astrazione"></span>
+<span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_combinatoria,topic_geometria_piana,method_invarianti,method_casework,method_coordinate,skill_ragionamento_geometrico,skill_modellizzazione,skill_astrazione"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -177,12 +171,12 @@ level: OBM Nível 2
 > (a) $2008$ steps?
 > (b) $2009$ steps?
 
-![[src_obm_2008_n2_f3__q05.png]]
+![[src_obm_2008_n2_f3__Q05.png]]
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_geometria_piana|Geometria piana]]
-**Metodo:** [[method_invarianti|Invarianti]], [[method_casework|Casework]]
+**Metodo:** [[method_invarianti|Invarianti]], [[method_casework|Casework]], [[method_coordinate|Coordinate method]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]], [[skill_astrazione|Astrazione]]
-**Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Geometria|Geometry]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1mPFxeuedSzPeVHyGa5uTEm_ubRSK1ROx/view)
 
 
@@ -195,14 +189,13 @@ level: OBM Nível 2
 > (a) $2008$ passi?
 > (b) $2009$ passi?
 
-![[src_obm_2008_n2_f3__q05.png]]
+![[src_obm_2008_n2_f3__Q05.png]]
+
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_geometria_piana|Geometria piana]]
-**Metodo:** [[method_invarianti|Invarianti]], [[method_casework|Casework]]
+**Metodo:** [[method_invarianti|Invarianti]], [[method_casework|Casework]], [[method_coordinate|Metodo delle coordinate]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]], [[skill_astrazione|Astrazione]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
-
-[[Quesiti/src_obm_2008_n2_f3#q05|src_obm_2008_n2_f3__Q05]]
 
 
 
@@ -233,5 +226,3 @@ level: OBM Nível 2
 **Metodo:** [[method_simmetria|Simmetria]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_astrazione|Astrazione]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Geometria]]
-
-[[Quesiti/src_obm_2008_n2_f3#q06|src_obm_2008_n2_f3__Q06]]

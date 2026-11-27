@@ -55,7 +55,6 @@ level: kangourou
 **Skill:** [[skill_riconoscimento_pattern|Pattern recognition]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Answer:** D
-[[Quesiti/src_kangourou_2022_cadet_gara#q01|src_kangourou_2022_cadet_gara__Q01]]
 
 
 
@@ -110,11 +109,10 @@ level: kangourou
 **Skill:** [[skill_riconoscimento_pattern|Pattern recognition]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Answer:** C
-[[Quesiti/src_kangourou_2022_cadet_gara#q02|src_kangourou_2022_cadet_gara__Q02]]
 
 
 
-<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_geometria_piana,skill_ragionamento_geometrico"></span>
+<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_geometria_piana,method_simmetria,skill_ragionamento_geometrico,skill_riconoscimento_pattern"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -135,7 +133,8 @@ level: kangourou
 > E)
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
-**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Metodo:** [[method_simmetria|Sfruttamento della simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Geometria]]
 **Risposta:** B
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1IP_YL3zekxV4Y9pMeuaGKNKcTP5owsa7/view)
@@ -155,10 +154,10 @@ level: kangourou
 > E)
 
 **Topic:** [[topic_geometria_piana|Plane geometry]]
-**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Metodo:** [[method_simmetria|Using symmetry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_riconoscimento_pattern|Pattern recognition]]
 **Area:** [[Geometria|Geometry]]
 **Answer:** B
-[[Quesiti/src_kangourou_2022_cadet_gara#q03|src_kangourou_2022_cadet_gara__Q03]]
 
 
 
@@ -204,11 +203,10 @@ level: kangourou
 **Skill:** [[skill_casework_accurato|Careful case analysis]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Answer:** D
-[[Quesiti/src_kangourou_2022_cadet_gara#q04|src_kangourou_2022_cadet_gara__Q04]]
 
 
 
-<span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_geometria_solida,skill_ragionamento_geometrico"></span>
+<span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_geometria_solida,skill_ragionamento_geometrico,skill_lettura_attenta"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -236,7 +234,7 @@ level: kangourou
 > 
 
 **Topic:** [[topic_geometria_solida|Geometria solida]]
-**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta del testo]]
 **Area:** [[Geometria]]
 **Risposta:** C
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1IP_YL3zekxV4Y9pMeuaGKNKcTP5owsa7/view)
@@ -258,14 +256,13 @@ level: kangourou
 > E) 4 × 12 × 16
 
 **Topic:** [[topic_geometria_solida|Solid geometry]]
-**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_lettura_attenta|Careful reading of the text]]
 **Area:** [[Geometria|Geometry]]
 **Answer:** C
-[[Quesiti/src_kangourou_2022_cadet_gara#q05|src_kangourou_2022_cadet_gara__Q05]]
 
 
 
-<span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_aritmetica,method_conteggio,skill_conteggio_sistematico"></span>
+<span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_aritmetica,topic_combinatoria,method_conteggio,skill_conteggio_sistematico"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -282,10 +279,10 @@ level: kangourou
 > D) 100	 	
 > E) 150
 
-**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_conteggio|Conteggio combinatorio]]
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
-**Area:** [[Aritmetica e Teoria dei Numeri]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** A
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1IP_YL3zekxV4Y9pMeuaGKNKcTP5owsa7/view)
 
@@ -303,16 +300,15 @@ level: kangourou
 > D) 100
 > E) 150
 
-**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
-**Method:** [[method_conteggio|Combinatorial counting]]
-**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
-**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** A
-[[Quesiti/src_kangourou_2022_cadet_gara#q06|src_kangourou_2022_cadet_gara__Q06]]
 
 
 
-<span class="atom-split" id="q07" data-atom="q07" data-title="Quesito 7" data-tags="topic_geometria_piana,method_casework,skill_ragionamento_geometrico"></span>
+<span class="atom-split" id="q07" data-atom="q07" data-title="Quesito 7" data-tags="topic_geometria_piana,method_casework,skill_ragionamento_geometrico,skill_lettura_attenta,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -336,7 +332,7 @@ level: kangourou
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_casework|Analisi per casi]]
-**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta del testo]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Geometria]]
 **Risposta:** B
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1IP_YL3zekxV4Y9pMeuaGKNKcTP5owsa7/view)
@@ -358,15 +354,14 @@ level: kangourou
 > E) E
 
 **Topic:** [[topic_geometria_piana|Plane geometry]]
-**Method:** [[method_casework|Case analysis]]
-**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_lettura_attenta|Careful reading of the text]], [[skill_casework_accurato|Careful case analysis]]
 **Area:** [[Geometria|Geometry]]
 **Answer:** B
-[[Quesiti/src_kangourou_2022_cadet_gara#q07|src_kangourou_2022_cadet_gara__Q07]]
 
 
 
-<span class="atom-split" id="q08" data-atom="q08" data-title="Quesito 8" data-tags="topic_aritmetica,method_congruenze,skill_casework_accurato"></span>
+<span class="atom-split" id="q08" data-atom="q08" data-title="Quesito 8" data-tags="topic_aritmetica,method_congruenze,skill_casework_accurato,skill_lettura_attenta,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -390,7 +385,7 @@ level: kangourou
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]]
-**Abilita:** [[skill_casework_accurato|Casework accurato]]
+**Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_lettura_attenta|Lettura attenta del testo]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** C
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1IP_YL3zekxV4Y9pMeuaGKNKcTP5owsa7/view)
@@ -412,15 +407,14 @@ level: kangourou
 > E) 7
 
 **Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
-**Method:** [[method_congruenze|Modular arithmetic / congruences]]
-**Skill:** [[skill_casework_accurato|Careful case analysis]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]], [[skill_lettura_attenta|Careful reading of the text]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Answer:** C
-[[Quesiti/src_kangourou_2022_cadet_gara#q08|src_kangourou_2022_cadet_gara__Q08]]
 
 
 
-<span class="atom-split" id="q09" data-atom="q09" data-title="Quesito 9" data-tags="topic_geometria_piana,skill_ragionamento_geometrico"></span>
+<span class="atom-split" id="q09" data-atom="q09" data-title="Quesito 9" data-tags="topic_geometria_piana,skill_ragionamento_geometrico,skill_riconoscimento_pattern"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -442,7 +436,7 @@ level: kangourou
 > E)
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
-**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Geometria]]
 **Risposta:** E
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1IP_YL3zekxV4Y9pMeuaGKNKcTP5owsa7/view)
@@ -464,14 +458,13 @@ level: kangourou
 > E)
 
 **Topic:** [[topic_geometria_piana|Plane geometry]]
-**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_riconoscimento_pattern|Pattern recognition]]
 **Area:** [[Geometria|Geometry]]
 **Answer:** E
-[[Quesiti/src_kangourou_2022_cadet_gara#q09|src_kangourou_2022_cadet_gara__Q09]]
 
 
 
-<span class="atom-split" id="q10" data-atom="q10" data-title="Quesito 10" data-tags="topic_geometria_piana,skill_ragionamento_geometrico"></span>
+<span class="atom-split" id="q10" data-atom="q10" data-title="Quesito 10" data-tags="topic_geometria_piana,method_simmetria,method_trigonometria,skill_ragionamento_geometrico"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -490,6 +483,7 @@ level: kangourou
 > I quesiti dal N. 11 al N. 20 valgono 4 punti ciascuno
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_simmetria|Sfruttamento della simmetria]], [[method_trigonometria|Tecniche trigonometriche]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]]
 **Risposta:** A
@@ -512,14 +506,14 @@ level: kangourou
 > Questions 11 to 20 are worth 4 points each.
 
 **Topic:** [[topic_geometria_piana|Plane geometry]]
-**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Metodo:** [[method_simmetria|Using symmetry]], [[method_trigonometria|Trigonometric techniques]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
 **Area:** [[Geometria|Geometry]]
 **Answer:** A
-[[Quesiti/src_kangourou_2022_cadet_gara#q10|src_kangourou_2022_cadet_gara__Q10]]
 
 
 
-<span class="atom-split" id="q11" data-atom="q11" data-title="Quesito 11" data-tags="topic_algebra,skill_manipolazione_algebrica"></span>
+<span class="atom-split" id="q11" data-atom="q11" data-title="Quesito 11" data-tags="topic_algebra,method_fattorizzazione,skill_manipolazione_algebrica,skill_modellizzazione"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -544,7 +538,8 @@ level: kangourou
 > E) 7
 
 **Topic:** [[topic_algebra|Algebra]]
-**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
 **Area:** [[Algebra e Analisi]]
 **Risposta:** D
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1IP_YL3zekxV4Y9pMeuaGKNKcTP5owsa7/view)
@@ -566,14 +561,14 @@ level: kangourou
 > E) 7
 
 **Topic:** [[topic_algebra|Algebra]]
-**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_modellizzazione|Modelling / translating the text]]
 **Area:** [[Algebra e Analisi|Algebra and analysis]]
 **Answer:** D
-[[Quesiti/src_kangourou_2022_cadet_gara#q11|src_kangourou_2022_cadet_gara__Q11]]
 
 
 
-<span class="atom-split" id="q12" data-atom="q12" data-title="Quesito 12" data-tags="topic_geometria_solida,method_estremalita,skill_ragionamento_geometrico"></span>
+<span class="atom-split" id="q12" data-atom="q12" data-title="Quesito 12" data-tags="topic_geometria_solida,method_estremalita,method_casework,skill_ragionamento_geometrico,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -603,8 +598,8 @@ level: kangourou
 > 
 
 **Topic:** [[topic_geometria_solida|Geometria solida]]
-**Metodo:** [[method_estremalita|Principio di estremalita]]
-**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Metodo:** [[method_estremalita|Principio di estremalita]], [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Geometria]]
 **Risposta:** D
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1IP_YL3zekxV4Y9pMeuaGKNKcTP5owsa7/view)
@@ -626,15 +621,14 @@ level: kangourou
 > E) 60
 
 **Topic:** [[topic_geometria_solida|Solid geometry]]
-**Method:** [[method_estremalita|Extremal principle]]
-**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Metodo:** [[method_estremalita|Extremal principle]], [[method_casework|Case analysis]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_casework_accurato|Careful case analysis]]
 **Area:** [[Geometria|Geometry]]
 **Answer:** D
-[[Quesiti/src_kangourou_2022_cadet_gara#q12|src_kangourou_2022_cadet_gara__Q12]]
 
 
 
-<span class="atom-split" id="q13" data-atom="q13" data-title="Quesito 13" data-tags="topic_aritmetica,method_colorazione,skill_casework_accurato"></span>
+<span class="atom-split" id="q13" data-atom="q13" data-title="Quesito 13" data-tags="topic_aritmetica,method_colorazione,method_casework,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -655,7 +649,7 @@ level: kangourou
 > E) 6
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_colorazione|Colorazione / parita]]
+**Metodo:** [[method_colorazione|Colorazione / parita]], [[method_casework|Analisi per casi]]
 **Abilita:** [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** C
@@ -676,15 +670,14 @@ level: kangourou
 > E) 6
 
 **Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
-**Method:** [[method_colorazione|Colouring / parity]]
-**Skill:** [[skill_casework_accurato|Careful case analysis]]
+**Metodo:** [[method_colorazione|Colouring / parity]], [[method_casework|Case analysis]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Answer:** C
-[[Quesiti/src_kangourou_2022_cadet_gara#q13|src_kangourou_2022_cadet_gara__Q13]]
 
 
 
-<span class="atom-split" id="q14" data-atom="q14" data-title="Quesito 14" data-tags="topic_algebra,skill_manipolazione_algebrica"></span>
+<span class="atom-split" id="q14" data-atom="q14" data-title="Quesito 14" data-tags="topic_algebra,method_fattorizzazione,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -705,6 +698,7 @@ level: kangourou
 > E) I dati non sono sufficienti per rispondere.
 
 **Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Algebra e Analisi]]
 **Risposta:** C
@@ -725,14 +719,14 @@ level: kangourou
 > E) The data are not enough to answer.
 
 **Topic:** [[topic_algebra|Algebra]]
-**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
 **Area:** [[Algebra e Analisi|Algebra and analysis]]
 **Answer:** C
-[[Quesiti/src_kangourou_2022_cadet_gara#q14|src_kangourou_2022_cadet_gara__Q14]]
 
 
 
-<span class="atom-split" id="q15" data-atom="q15" data-title="Quesito 15" data-tags="topic_geometria_piana,skill_ragionamento_geometrico"></span>
+<span class="atom-split" id="q15" data-atom="q15" data-title="Quesito 15" data-tags="topic_geometria_piana,skill_ragionamento_geometrico,skill_lettura_attenta"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -755,7 +749,7 @@ level: kangourou
 > E) 36
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
-**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta del testo]]
 **Area:** [[Geometria]]
 **Risposta:** A
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1IP_YL3zekxV4Y9pMeuaGKNKcTP5owsa7/view)
@@ -777,14 +771,13 @@ level: kangourou
 > E) 36
 
 **Topic:** [[topic_geometria_piana|Plane geometry]]
-**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_lettura_attenta|Careful reading of the text]]
 **Area:** [[Geometria|Geometry]]
 **Answer:** A
-[[Quesiti/src_kangourou_2022_cadet_gara#q15|src_kangourou_2022_cadet_gara__Q15]]
 
 
 
-<span class="atom-split" id="q16" data-atom="q16" data-title="Quesito 16" data-tags="topic_aritmetica,skill_manipolazione_algebrica"></span>
+<span class="atom-split" id="q16" data-atom="q16" data-title="Quesito 16" data-tags="topic_aritmetica,topic_algebra,method_fattorizzazione,skill_manipolazione_algebrica,skill_modellizzazione"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -801,9 +794,10 @@ level: kangourou
 > D) 15:20	
 > E) 14:00
 
-**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
-**Area:** [[Aritmetica e Teoria dei Numeri]]
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 **Risposta:** C
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1IP_YL3zekxV4Y9pMeuaGKNKcTP5owsa7/view)
 
@@ -821,15 +815,15 @@ level: kangourou
 > D) 15:20
 > E) 14:00
 
-**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
-**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
-**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Algebra e Analisi|Algebra and analysis]]
 **Answer:** C
-[[Quesiti/src_kangourou_2022_cadet_gara#q16|src_kangourou_2022_cadet_gara__Q16]]
 
 
 
-<span class="atom-split" id="q17" data-atom="q17" data-title="Quesito 17" data-tags="topic_algebra,skill_manipolazione_algebrica"></span>
+<span class="atom-split" id="q17" data-atom="q17" data-title="Quesito 17" data-tags="topic_algebra,method_fattorizzazione,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -850,6 +844,7 @@ level: kangourou
 > E) 11
 
 **Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Algebra e Analisi]]
 **Risposta:** B
@@ -870,14 +865,14 @@ level: kangourou
 > E) 11
 
 **Topic:** [[topic_algebra|Algebra]]
-**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
 **Area:** [[Algebra e Analisi|Algebra and analysis]]
 **Answer:** B
-[[Quesiti/src_kangourou_2022_cadet_gara#q17|src_kangourou_2022_cadet_gara__Q17]]
 
 
 
-<span class="atom-split" id="q18" data-atom="q18" data-title="Quesito 18" data-tags="topic_algebra,method_invarianti,skill_casework_accurato"></span>
+<span class="atom-split" id="q18" data-atom="q18" data-title="Quesito 18" data-tags="topic_algebra,method_invarianti,skill_casework_accurato,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -903,7 +898,7 @@ level: kangourou
 
 **Topic:** [[topic_algebra|Algebra]]
 **Metodo:** [[method_invarianti|Invarianti / monovarianti]]
-**Abilita:** [[skill_casework_accurato|Casework accurato]]
+**Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Algebra e Analisi]]
 **Risposta:** B
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1IP_YL3zekxV4Y9pMeuaGKNKcTP5owsa7/view)
@@ -925,15 +920,14 @@ level: kangourou
 > E) 6
 
 **Topic:** [[topic_algebra|Algebra]]
-**Method:** [[method_invarianti|Invariants / monovariants]]
-**Skill:** [[skill_casework_accurato|Careful case analysis]]
+**Metodo:** [[method_invarianti|Invariants / monovariants]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
 **Area:** [[Algebra e Analisi|Algebra and analysis]]
 **Answer:** B
-[[Quesiti/src_kangourou_2022_cadet_gara#q18|src_kangourou_2022_cadet_gara__Q18]]
 
 
 
-<span class="atom-split" id="q19" data-atom="q19" data-title="Quesito 19" data-tags="topic_geometria_piana,method_inclusione_esclusione,skill_ragionamento_geometrico"></span>
+<span class="atom-split" id="q19" data-atom="q19" data-title="Quesito 19" data-tags="topic_geometria_piana,topic_insiemi_funzioni,method_inclusione_esclusione,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -959,10 +953,10 @@ level: kangourou
 > 3
 > 
 
-**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_insiemi_funzioni|Insiemi e funzioni]]
 **Metodo:** [[method_inclusione_esclusione|Inclusione-esclusione]]
-**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
-**Area:** [[Geometria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]], [[Algebra e Analisi]]
 **Risposta:** B
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1IP_YL3zekxV4Y9pMeuaGKNKcTP5owsa7/view)
 
@@ -980,16 +974,15 @@ level: kangourou
 > D) 35%
 > E) 50%
 
-**Topic:** [[topic_geometria_piana|Plane geometry]]
-**Method:** [[method_inclusione_esclusione|Inclusion–exclusion]]
-**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
-**Area:** [[Geometria|Geometry]]
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_insiemi_funzioni|Sets and functions]]
+**Metodo:** [[method_inclusione_esclusione|Inclusion–exclusion]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Geometria|Geometry]], [[Algebra e Analisi|Algebra and analysis]]
 **Answer:** B
-[[Quesiti/src_kangourou_2022_cadet_gara#q19|src_kangourou_2022_cadet_gara__Q19]]
 
 
 
-<span class="atom-split" id="q20" data-atom="q20" data-title="Quesito 20" data-tags="topic_algebra,skill_modellizzazione"></span>
+<span class="atom-split" id="q20" data-atom="q20" data-title="Quesito 20" data-tags="topic_algebra,method_fattorizzazione,skill_modellizzazione,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -1012,7 +1005,8 @@ level: kangourou
 > I quesiti dal N. 21 al N. 30 valgono 5 punti ciascuno
 
 **Topic:** [[topic_algebra|Algebra]]
-**Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Algebra e Analisi]]
 **Risposta:** B
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1IP_YL3zekxV4Y9pMeuaGKNKcTP5owsa7/view)
@@ -1034,14 +1028,14 @@ level: kangourou
 > Questions 21 to 30 are worth 5 points each.
 
 **Topic:** [[topic_algebra|Algebra]]
-**Skill:** [[skill_modellizzazione|Modelling / translating the text]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
 **Area:** [[Algebra e Analisi|Algebra and analysis]]
 **Answer:** B
-[[Quesiti/src_kangourou_2022_cadet_gara#q20|src_kangourou_2022_cadet_gara__Q20]]
 
 
 
-<span class="atom-split" id="q21" data-atom="q21" data-title="Quesito 21" data-tags="topic_aritmetica,method_casework,skill_casework_accurato"></span>
+<span class="atom-split" id="q21" data-atom="q21" data-title="Quesito 21" data-tags="topic_aritmetica,method_casework,method_fattorizzazione,skill_casework_accurato,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -1065,8 +1059,8 @@ level: kangourou
 > E) 19
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_casework|Analisi per casi]]
-**Abilita:** [[skill_casework_accurato|Casework accurato]]
+**Metodo:** [[method_casework|Analisi per casi]], [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
+**Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** D
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1IP_YL3zekxV4Y9pMeuaGKNKcTP5owsa7/view)
@@ -1088,15 +1082,14 @@ level: kangourou
 > E) 19
 
 **Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
-**Method:** [[method_casework|Case analysis]]
-**Skill:** [[skill_casework_accurato|Careful case analysis]]
+**Metodo:** [[method_casework|Case analysis]], [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Answer:** D
-[[Quesiti/src_kangourou_2022_cadet_gara#q21|src_kangourou_2022_cadet_gara__Q21]]
 
 
 
-<span class="atom-split" id="q22" data-atom="q22" data-title="Quesito 22" data-tags="topic_geometria_piana,skill_ragionamento_geometrico"></span>
+<span class="atom-split" id="q22" data-atom="q22" data-title="Quesito 22" data-tags="topic_geometria_piana,method_fattorizzazione,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -1134,7 +1127,8 @@ level: kangourou
 > E) 7/3
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
-**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 **Risposta:** D
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1IP_YL3zekxV4Y9pMeuaGKNKcTP5owsa7/view)
@@ -1156,14 +1150,14 @@ level: kangourou
 > E) 7/3
 
 **Topic:** [[topic_geometria_piana|Plane geometry]]
-**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
 **Area:** [[Geometria|Geometry]]
 **Answer:** D
-[[Quesiti/src_kangourou_2022_cadet_gara#q22|src_kangourou_2022_cadet_gara__Q22]]
 
 
 
-<span class="atom-split" id="q23" data-atom="q23" data-title="Quesito 23" data-tags="topic_geometria_solida,skill_ragionamento_geometrico"></span>
+<span class="atom-split" id="q23" data-atom="q23" data-title="Quesito 23" data-tags="topic_geometria_solida,method_fattorizzazione,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -1187,7 +1181,8 @@ level: kangourou
 > E) 60
 
 **Topic:** [[topic_geometria_solida|Geometria solida]]
-**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 **Risposta:** D
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1IP_YL3zekxV4Y9pMeuaGKNKcTP5owsa7/view)
@@ -1209,14 +1204,14 @@ level: kangourou
 > E) 60
 
 **Topic:** [[topic_geometria_solida|Solid geometry]]
-**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
 **Area:** [[Geometria|Geometry]]
 **Answer:** D
-[[Quesiti/src_kangourou_2022_cadet_gara#q23|src_kangourou_2022_cadet_gara__Q23]]
 
 
 
-<span class="atom-split" id="q24" data-atom="q24" data-title="Quesito 24" data-tags="topic_aritmetica,topic_logica,method_casework,skill_casework_accurato"></span>
+<span class="atom-split" id="q24" data-atom="q24" data-title="Quesito 24" data-tags="topic_aritmetica,topic_logica,topic_geometria_piana,method_casework,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -1239,10 +1234,10 @@ level: kangourou
 > 102
 > 
 
-**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_logica|Logica, giochi, strategie]]
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_logica|Logica, giochi, strategie]], [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_casework|Analisi per casi]]
 **Abilita:** [[skill_casework_accurato|Casework accurato]]
-**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 **Risposta:** C
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1IP_YL3zekxV4Y9pMeuaGKNKcTP5owsa7/view)
 
@@ -1260,16 +1255,15 @@ level: kangourou
 > D) 100
 > E) 140
 
-**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_logica|Logic, games and strategies]]
-**Method:** [[method_casework|Case analysis]]
-**Skill:** [[skill_casework_accurato|Careful case analysis]]
-**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_logica|Logic, games and strategies]], [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Geometria|Geometry]]
 **Answer:** C
-[[Quesiti/src_kangourou_2022_cadet_gara#q24|src_kangourou_2022_cadet_gara__Q24]]
 
 
 
-<span class="atom-split" id="q25" data-atom="q25" data-title="Quesito 25" data-tags="topic_algebra,skill_manipolazione_algebrica"></span>
+<span class="atom-split" id="q25" data-atom="q25" data-title="Quesito 25" data-tags="topic_algebra,method_fattorizzazione,skill_manipolazione_algebrica,skill_modellizzazione"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -1289,7 +1283,8 @@ level: kangourou
 > E) 5/9
 
 **Topic:** [[topic_algebra|Algebra]]
-**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
 **Area:** [[Algebra e Analisi]]
 **Risposta:** A
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1IP_YL3zekxV4Y9pMeuaGKNKcTP5owsa7/view)
@@ -1309,14 +1304,14 @@ level: kangourou
 > E) 5/9
 
 **Topic:** [[topic_algebra|Algebra]]
-**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_modellizzazione|Modelling / translating the text]]
 **Area:** [[Algebra e Analisi|Algebra and analysis]]
 **Answer:** A
-[[Quesiti/src_kangourou_2022_cadet_gara#q25|src_kangourou_2022_cadet_gara__Q25]]
 
 
 
-<span class="atom-split" id="q26" data-atom="q26" data-title="Quesito 26" data-tags="topic_combinatoria,method_casework,skill_conteggio_sistematico"></span>
+<span class="atom-split" id="q26" data-atom="q26" data-title="Quesito 26" data-tags="topic_combinatoria,method_casework,skill_conteggio_sistematico,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -1349,7 +1344,7 @@ level: kangourou
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_casework|Analisi per casi]]
-**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** B
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1IP_YL3zekxV4Y9pMeuaGKNKcTP5owsa7/view)
@@ -1371,15 +1366,14 @@ level: kangourou
 > E) 9
 
 **Topic:** [[topic_combinatoria|Combinatorics]]
-**Method:** [[method_casework|Case analysis]]
-**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]], [[skill_casework_accurato|Careful case analysis]]
 **Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** B
-[[Quesiti/src_kangourou_2022_cadet_gara#q26|src_kangourou_2022_cadet_gara__Q26]]
 
 
 
-<span class="atom-split" id="q27" data-atom="q27" data-title="Quesito 27" data-tags="topic_geometria_piana,topic_aritmetica,method_fattorizzazione,skill_manipolazione_algebrica"></span>
+<span class="atom-split" id="q27" data-atom="q27" data-title="Quesito 27" data-tags="topic_geometria_piana,topic_aritmetica,method_fattorizzazione,skill_manipolazione_algebrica,skill_ragionamento_geometrico"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -1400,8 +1394,8 @@ level: kangourou
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
-**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
-**Area:** [[Aritmetica e Teoria dei Numeri]], [[Geometria]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Geometria]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** B
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1IP_YL3zekxV4Y9pMeuaGKNKcTP5owsa7/view)
 
@@ -1422,15 +1416,14 @@ level: kangourou
 > E) 2022
 
 **Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_aritmetica|Arithmetic / Number theory]]
-**Method:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
-**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
-**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Geometria|Geometry]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Answer:** B
-[[Quesiti/src_kangourou_2022_cadet_gara#q27|src_kangourou_2022_cadet_gara__Q27]]
 
 
 
-<span class="atom-split" id="q28" data-atom="q28" data-title="Quesito 28" data-tags="topic_combinatoria,method_ricorsione,skill_riconoscimento_pattern"></span>
+<span class="atom-split" id="q28" data-atom="q28" data-title="Quesito 28" data-tags="topic_combinatoria,topic_funzionali,method_ricorsione,skill_riconoscimento_pattern,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -1450,10 +1443,10 @@ level: kangourou
 > 	
 > E) 25
 
-**Topic:** [[topic_combinatoria|Combinatoria]]
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_funzionali|Equazioni funzionali / successioni]]
 **Metodo:** [[method_ricorsione|Ricorsione]]
-**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
-**Area:** [[Combinatoria, Logica e Probabilita]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Algebra e Analisi]]
 **Risposta:** C
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1IP_YL3zekxV4Y9pMeuaGKNKcTP5owsa7/view)
 
@@ -1471,12 +1464,11 @@ level: kangourou
 > D) 16
 > E) 25
 
-**Topic:** [[topic_combinatoria|Combinatorics]]
-**Method:** [[method_ricorsione|Recursion]]
-**Skill:** [[skill_riconoscimento_pattern|Pattern recognition]]
-**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_funzionali|Functional equations / sequences]]
+**Metodo:** [[method_ricorsione|Recursion]]
+**Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Algebra e Analisi|Algebra and analysis]]
 **Answer:** C
-[[Quesiti/src_kangourou_2022_cadet_gara#q28|src_kangourou_2022_cadet_gara__Q28]]
 
 
 
@@ -1530,11 +1522,10 @@ level: kangourou
 **Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
 **Area:** [[Geometria|Geometry]]
 **Answer:** E
-[[Quesiti/src_kangourou_2022_cadet_gara#q29|src_kangourou_2022_cadet_gara__Q29]]
 
 
 
-<span class="atom-split" id="q30" data-atom="q30" data-title="Quesito 30" data-tags="topic_algebra,skill_manipolazione_algebrica"></span>
+<span class="atom-split" id="q30" data-atom="q30" data-title="Quesito 30" data-tags="topic_algebra,method_fattorizzazione,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -1558,6 +1549,7 @@ level: kangourou
 > 
 
 **Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Algebra e Analisi]]
 **Risposta:** B
@@ -1578,7 +1570,7 @@ level: kangourou
 > E) 2022
 
 **Topic:** [[topic_algebra|Algebra]]
-**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
 **Area:** [[Algebra e Analisi|Algebra and analysis]]
 **Answer:** B
-[[Quesiti/src_kangourou_2022_cadet_gara#q30|src_kangourou_2022_cadet_gara__Q30]]

@@ -10,7 +10,7 @@ level: kangourou
 
 
 
-<span class="atom-split" id="qc1" data-atom="qc1" data-title="Quesito C1" data-tags="topic_aritmetica,skill_modellizzazione"></span>
+<span class="atom-split" id="qc1" data-atom="qc1" data-title="Quesito C1" data-tags="topic_aritmetica,skill_modellizzazione,skill_lettura_attenta,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -24,7 +24,7 @@ level: kangourou
 > Questa anno l'affluenza registrata alle 13 è stata del $24\%$. Quale sarà l'affluenza finale se le abitudini della popolazione non sono cambiate e ci si può aspettare dalla popolazione per cui è comodo votare nel pomeriggio lo stesso interesse al voto mostrato dalla popolazione per cui è comodo votare al mattino?
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_lettura_attenta|Lettura attenta del testo]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 84%
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1xzcCtKgXNW9sDUlvwxKZKhDmQXZC9iIk/view)
@@ -41,11 +41,10 @@ level: kangourou
 >
 > This year, the turnout recorded at 1 p.m. was $24\%$. What will the final turnout be if the population's habits have not changed and, for the portion of the population for whom it is convenient to vote in the afternoon, the same interest in voting can be expected as was shown by the portion of the population for whom it is convenient to vote in the morning?
 
-**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
-**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
-**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
-[[Quesiti/src_kangourou_2008_cadet_maggio#qc1|src_kangourou_2008_cadet_maggio__QC1]]
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]], [[skill_lettura_attenta|Careful reading of the text]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
 
 
@@ -82,18 +81,16 @@ level: kangourou
 **Abilita:** [[skill_astrazione|Abstraction / generalisation]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
-[[Quesiti/src_kangourou_2008_cadet_maggio#qc2|src_kangourou_2008_cadet_maggio__QC2]]
 
 
-
-<span class="atom-split" id="qc3" data-atom="qc3" data-title="Quesito C3" data-tags="topic_aritmetica,topic_logica,skill_casework_accurato"></span>
+<span class="atom-split" id="qc3" data-atom="qc3" data-title="Quesito C3" data-tags="topic_aritmetica,topic_logica,method_casework,skill_casework_accurato,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
 
 *Eliminare due caselle per rendere vera l'uguaglianza*
 
-![[src_kangourou_2008_cadet_maggio__probc3.png]]
+![[src_kangourou_2008_cadet_maggio__probC3.png]]
 
 > Nella griglia sottostante non si può eliminare il simbolo $=$, ma si possono eliminare due caselle, in modo che l'uguaglianza che ne risulta sia verificata.
 > 
@@ -102,7 +99,8 @@ level: kangourou
 > $$1 \;\; 7 \;\; 3 \times ( 4 \;\; 5 + 2 \;\; 4 ) = 2 \;\; 0 \;\; 0 \;\; 7 + 3 \;\; 7$$
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_logica|Logica, giochi, strategie]]
-**Abilita:** [[skill_casework_accurato|Casework accurato]]
+**Metodo:** [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 2044
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1xzcCtKgXNW9sDUlvwxKZKhDmQXZC9iIk/view)
@@ -113,7 +111,7 @@ level: kangourou
 
 *Remove two boxes to make the equality true*
 
-![[src_kangourou_2008_cadet_maggio__probc3.png]]
+![[src_kangourou_2008_cadet_maggio__probC3.png]]
 
 > In the grid below, the symbol $=$ cannot be removed, but two cells can be removed so that the resulting equality holds.
 >
@@ -121,15 +119,15 @@ level: kangourou
 >
 > $$1 \;\; 7 \;\; 3 \times ( 4 \;\; 5 + 2 \;\; 4 ) = 2 \;\; 0 \;\; 0 \;\; 7 + 3 \;\; 7$$
 
+
 **Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_logica|Logic, games and strategies]]
-**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
-[[Quesiti/src_kangourou_2008_cadet_maggio#qc3|src_kangourou_2008_cadet_maggio__QC3]]
 
 
-
-<span class="atom-split" id="qc4" data-atom="qc4" data-title="Quesito C4" data-tags="topic_aritmetica,topic_insiemi_funzioni,skill_astrazione"></span>
+<span class="atom-split" id="qc4" data-atom="qc4" data-title="Quesito C4" data-tags="topic_aritmetica,topic_insiemi_funzioni,method_fattorizzazione,skill_astrazione"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -143,8 +141,9 @@ level: kangourou
 > Trova almeno un insieme IMPERFETTO.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_insiemi_funzioni|Insiemi e funzioni]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
 **Abilita:** [[skill_astrazione|Astrazione / generalizzazione]]
-**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 **Risposta:** {2^(2k+1)}
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1xzcCtKgXNW9sDUlvwxKZKhDmQXZC9iIk/view)
 
@@ -160,11 +159,11 @@ level: kangourou
 >
 > Find at least one IMPERFETTO set.
 
-**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_insiemi_funzioni|Sets and functions]]
-**Abilita:** [[skill_astrazione|Abstraction / generalisation]]
-**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
-[[Quesiti/src_kangourou_2008_cadet_maggio#qc4|src_kangourou_2008_cadet_maggio__QC4]]
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_insiemi_funzioni|Sets and functions]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_astrazione|Abstraction / generalisation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Algebra e Analisi|Algebra and analysis]]
 
 
 
@@ -201,8 +200,6 @@ level: kangourou
 **Abilita:** [[skill_astrazione|Abstraction / generalisation]]
 **Area:** [[Algebra e Analisi|Algebra and analysis]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
-[[Quesiti/src_kangourou_2008_cadet_maggio#qc5|src_kangourou_2008_cadet_maggio__QC5]]
-
 
 
 <span class="atom-split" id="qc6" data-atom="qc6" data-title="Quesito C6" data-tags="topic_geometria_piana,skill_ragionamento_geometrico"></span>
@@ -212,7 +209,7 @@ level: kangourou
 
 *Rapporto area triangolo T su quadrato C*
 
-![[src_kangourou_2008_cadet_maggio__probc6.png]]
+![[src_kangourou_2008_cadet_maggio__probC6.png]]
 
 > Cinque quadrati sono disposti come in figura: nota in particolare che esiste una retta che ospita un lato di ciascuno dei due quadrati più piccoli e un vertice del quadrato $C$.
 > 
@@ -230,7 +227,7 @@ level: kangourou
 
 *Ratio of the area of triangle T to the area of square C*
 
-![[src_kangourou_2008_cadet_maggio__probc6.png]]
+![[src_kangourou_2008_cadet_maggio__probC6.png]]
 
 > Five squares are arranged as shown in the figure: note in particular that there is a straight line that contains one side of each of the two smaller squares and one vertex of square $C$.
 >
@@ -239,5 +236,3 @@ level: kangourou
 **Topic:** [[topic_geometria_piana|Plane geometry]]
 **Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
 **Area:** [[Geometria|Geometry]]
-
-[[Quesiti/src_kangourou_2008_cadet_maggio#qc6|src_kangourou_2008_cadet_maggio__QC6]]

@@ -10,7 +10,7 @@ level: IMO
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_algebra,method_disuguaglianze,skill_manipolazione_algebrica"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_algebra,method_disuguaglianze,method_fattorizzazione,method_casework,skill_manipolazione_algebrica,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -22,8 +22,8 @@ level: IMO
 > dove $p$ è un parametro reale.
 
 **Topic:** [[topic_algebra|Algebra]]
-**Metodo:** [[method_disuguaglianze|Disuguaglianze classiche]]
-**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze classiche]], [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]], [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1jEsSiQhMHXCUUGLKyyw7FLzx9w1-rAC8/view)
 
@@ -37,12 +37,11 @@ level: IMO
 > $$\sqrt{x^2 - p + 2\sqrt{x^2 - 1}} = x,$$
 > where $p$ is a real parameter.
 
-**Topic:** [[topic_algebra|Algebra]]
-**Method:** [[method_disuguaglianze|Classical inequalities]]
-**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
-**Area:** [[Algebra e Analisi|Algebra and analysis]]
 
-[[Quesiti/src_imho_1963#q01|src_imho_1963__Q01]]
+**Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_disuguaglianze|Classical inequalities]], [[method_fattorizzazione|Factorisation / algebraic manipulation]], [[method_casework|Case analysis]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
 
 
 
@@ -81,11 +80,9 @@ level: IMO
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]]
 
-[[Quesiti/src_imho_1963#q02|src_imho_1963__Q02]]
 
 
-
-<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_geometria_piana,skill_ragionamento_geometrico"></span>
+<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_geometria_piana,topic_trigonometria,method_trigonometria,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -96,9 +93,10 @@ level: IMO
 > $$a_1 \geq a_2 \geq \cdots \geq a_n.$$
 > Prove that $a_1 = a_2 = \cdots = a_n$.
 
-**Topic:** [[topic_geometria_piana|Geometria piana]]
-**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
-**Area:** [[Geometria]]
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometry]]
+**Metodo:** [[method_trigonometria|Trigonometric techniques]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Geometria|Geometry]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1jEsSiQhMHXCUUGLKyyw7FLzx9w1-rAC8/view)
 
 
@@ -111,15 +109,15 @@ level: IMO
 > $$a_1 \geq a_2 \geq \cdots \geq a_n.$$
 > Dimostrare che $a_1 = a_2 = \cdots = a_n$.
 
-**Topic:** [[topic_geometria_piana|Geometria piana]]
-**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometria]]
+**Metodo:** [[method_trigonometria|Tecniche trigonometriche]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 
-[[Quesiti/src_imho_1963#q03|src_imho_1963__Q03]]
 
 
-
-<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_algebra,topic_funzionali,method_simmetria,skill_manipolazione_algebrica"></span>
+<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_algebra,topic_funzionali,method_simmetria,method_ricorsione,method_fattorizzazione,skill_manipolazione_algebrica,skill_riconoscimento_pattern"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -131,9 +129,9 @@ level: IMO
 > where $y$ is a parameter.
 
 **Topic:** [[topic_algebra|Algebra]], [[topic_funzionali|Equazioni funzionali / successioni]]
-**Metodo:** [[method_simmetria|Sfruttamento della simmetria]]
-**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
-**Area:** [[Algebra e Analisi]]
+**Metodo:** [[method_simmetria|Sfruttamento della simmetria]], [[method_ricorsione|Recursion]], [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1jEsSiQhMHXCUUGLKyyw7FLzx9w1-rAC8/view)
 
 
@@ -146,16 +144,15 @@ level: IMO
 > $$\begin{cases} x_5 + x_2 = y x_1 \\ x_1 + x_3 = y x_2 \\ x_2 + x_4 = y x_3 \\ x_3 + x_5 = y x_4 \\ x_4 + x_1 = y x_5, \end{cases}$$
 > dove $y$ è un parametro.
 
+
 **Topic:** [[topic_algebra|Algebra]], [[topic_funzionali|Equazioni funzionali / successioni]]
-**Metodo:** [[method_simmetria|Sfruttamento della simmetria]]
-**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Metodo:** [[method_simmetria|Sfruttamento della simmetria]], [[method_ricorsione|Ricorsione]], [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Algebra e Analisi]]
 
-[[Quesiti/src_imho_1963#q04|src_imho_1963__Q04]]
 
 
-
-<span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_trigonometria,method_trigonometria,skill_manipolazione_algebrica"></span>
+<span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_trigonometria,topic_algebra,method_trigonometria,method_fattorizzazione,skill_manipolazione_algebrica,skill_riconoscimento_pattern"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -164,10 +161,10 @@ level: IMO
 
 > Prove that $\cos \dfrac{\pi}{7} - \cos \dfrac{2\pi}{7} + \cos \dfrac{3\pi}{7} = \dfrac{1}{2}$.
 
-**Topic:** [[topic_trigonometria|Trigonometria]]
-**Metodo:** [[method_trigonometria|Tecniche trigonometriche]]
-**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
-**Area:** [[Geometria]]
+**Topic:** [[topic_trigonometria|Trigonometria]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_trigonometria|Tecniche trigonometriche]], [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Geometria]], [[Algebra e Analisi]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1jEsSiQhMHXCUUGLKyyw7FLzx9w1-rAC8/view)
 
 
@@ -178,16 +175,15 @@ level: IMO
 
 > Prove that $\cos \dfrac{\pi}{7} - \cos \dfrac{2\pi}{7} + \cos \dfrac{3\pi}{7} = \dfrac{1}{2}$.
 
-**Topic:** [[topic_trigonometria|Trigonometry]]
-**Method:** [[method_trigonometria|Trigonometric techniques]]
-**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
-**Area:** [[Geometria|Geometry]]
 
-[[Quesiti/src_imho_1963#q05|src_imho_1963__Q05]]
-
+**Topic:** [[topic_trigonometria|Trigonometry]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_trigonometria|Trigonometric techniques]], [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Geometria|Geometry]], [[Algebra e Analisi|Algebra and analysis]]
 
 
-<span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_logica,topic_combinatoria,method_casework,skill_casework_accurato"></span>
+
+<span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_logica,topic_combinatoria,method_casework,skill_casework_accurato,skill_lettura_attenta,skill_modellizzazione"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -198,8 +194,8 @@ level: IMO
 
 **Topic:** [[topic_logica|Logica, giochi, strategie]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_casework|Analisi per casi]]
-**Abilita:** [[skill_casework_accurato|Casework accurato]]
-**Area:** [[Combinatoria, Logica e Probabilita]]
+**Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_lettura_attenta|Careful reading of the text]], [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1jEsSiQhMHXCUUGLKyyw7FLzx9w1-rAC8/view)
 
 
@@ -210,9 +206,8 @@ level: IMO
 
 > Cinque studenti, $A$, $B$, $C$, $D$, $E$, hanno partecipato a una gara. Una previsione era che i concorrenti avrebbero concluso la gara nell'ordine $ABCDE$. Questa previsione era molto scarsa. Infatti, nessun concorrente ha concluso la gara nella posizione prevista, e nessuna coppia di concorrenti per i quali era stata prevista una conclusione consecutiva si è effettivamente classificata in modo consecutivo. Una seconda previsione prevedeva che i concorrenti concluserebbero la gara nell'ordine $DAECB$. Questa previsione era migliore. Esattamente due dei concorrenti hanno concluso la gara nelle posizioni previste, e due coppie disgiunte di studenti per i quali era stata prevista una conclusione consecutiva si sono effettivamente classificate in modo consecutivo. Determinare l'ordine in cui i concorrenti hanno concluso la gara.
 
+
 **Topic:** [[topic_logica|Logica, giochi, strategie]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_casework|Analisi per casi]]
-**Abilita:** [[skill_casework_accurato|Casework accurato]]
+**Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_lettura_attenta|Lettura attenta del testo]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
-
-[[Quesiti/src_imho_1963#q06|src_imho_1963__Q06]]

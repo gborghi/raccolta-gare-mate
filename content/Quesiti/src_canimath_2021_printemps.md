@@ -12,9 +12,6 @@ level: Coupe Animath Printemps
 
 <span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_aritmetica,method_fattorizzazione,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
 
-<div class="qlang-switch" data-default="en"></div>
-
-
 *Compute a factorial-based fraction*
 
 > Compute
@@ -30,8 +27,20 @@ level: Coupe Animath Printemps
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1HT9T8KwtrtEAIUZX2Qh9AX2VGVFmNAVg/view)
 
 
-<div class="qlang-split" data-lang="it"></div>
 
+<span class="atom-split" id="q01__it" data-atom="q01__it" data-title="Q01__IT" data-tags=""></span>
+
+---
+tipo: quesito-translation
+translation_of: src_canimath_2021_printemps__Q01
+lang: it
+secondary: true
+title: "Coupe Animath Primavera 2021  Quesito 1"
+summary: "Calcolare una frazione basata su fattori"
+topics: [topic_aritmetica]
+methods: [method_fattorizzazione]
+skills: [skill_manipolazione_algebrica, skill_lettura_attenta]
+tags: [kg/translation, topic/aritmetica]---
 
 *Calcolare una frazione basata su fattori*
 
@@ -39,15 +48,16 @@ level: Coupe Animath Printemps
 > 
 > *Solo una risposta numerica è prevista qui.*
 
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta del testo]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 25
 [[Quesiti/src_canimath_2021_printemps#q01|src_canimath_2021_printemps__Q01]]
 
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_aritmetica,topic_algebra,skill_modellizzazione,skill_manipolazione_algebrica"></span>
-
-<div class="qlang-switch" data-default="en"></div>
-
 
 *Card deck ratio: black twice red, then add 4 black to make triple (college)*
 
@@ -62,8 +72,19 @@ level: Coupe Animath Printemps
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1HT9T8KwtrtEAIUZX2Qh9AX2VGVFmNAVg/view)
 
 
-<div class="qlang-split" data-lang="it"></div>
 
+<span class="atom-split" id="q02__it" data-atom="q02__it" data-title="Q02__IT" data-tags=""></span>
+
+---
+tipo: quesito-translation
+translation_of: src_canimath_2021_printemps__Q02
+lang: it
+secondary: true
+title: "Coupe Animath Primavera 2021  Quesito 2"
+summary: "Rapporto del mazzo di carte: nero due volte rosso, poi aggiungere 4 neri per fare triplo (college)"
+topics: [topic_aritmetica, topic_algebra]
+skills: [skill_modellizzazione, skill_manipolazione_algebrica]
+tags: [kg/translation, topic/aritmetica, topic/algebra]---
 
 *Relazione del mazzo di carte: nero due volte rosso, poi aggiungere 4 neri per fare triplice (college)*
 
@@ -71,15 +92,15 @@ level: Coupe Animath Printemps
 > 
 > *Solo una risposta numerica è prevista qui.*
 
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 **Risposta:** 12
 [[Quesiti/src_canimath_2021_printemps#q02|src_canimath_2021_printemps__Q02]]
 
 
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_geometria_piana,method_simmetria,skill_ragionamento_geometrico"></span>
-
-<div class="qlang-switch" data-default="en"></div>
-
 
 *Find angle DSC in a square with interior equilateral triangle ABS*
 
@@ -93,22 +114,35 @@ level: Coupe Animath Printemps
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1HT9T8KwtrtEAIUZX2Qh9AX2VGVFmNAVg/view)
 
 
-<div class="qlang-split" data-lang="it"></div>
 
+<span class="atom-split" id="q03__it" data-atom="q03__it" data-title="Q03__IT" data-tags=""></span>
+
+---
+tipo: quesito-translation
+translation_of: src_canimath_2021_printemps__Q03
+lang: it
+secondary: true
+title: "Coupe Animath Primavera 2021  Quesito 3"
+summary: "Trova angolo DSC in un quadrato con triangolo equilaterale ABS interno"
+topics: [topic_geometria_piana]
+methods: [method_simmetria]
+skills: [skill_ragionamento_geometrico]
+tags: [kg/translation, topic/geometria_piana]---
 
 *Trova angolo DSC in un quadrato con triangolo equilaterale interno ABS*
 
 > Che $ABCD$ sia un quadrato e $S$ un punto all'interno del quadrato in modo tale che il triangolo $ABS$ sia equilaterale. Determinare l'angolo $\widehat{DSC}$.
 
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_simmetria|Sfruttamento della simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Geometria]]
 **Risposta:** 150^\circ
 [[Quesiti/src_canimath_2021_printemps#q03|src_canimath_2021_printemps__Q03]]
 
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_aritmetica,method_bigezione,method_fattorizzazione,skill_manipolazione_algebrica,skill_modellizzazione"></span>
-
-<div class="qlang-switch" data-default="en"></div>
-
 
 *Proper divisors of a multiple of 2020: sum of odd divisors below sum of even divisors*
 
@@ -121,21 +155,34 @@ level: Coupe Animath Printemps
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1HT9T8KwtrtEAIUZX2Qh9AX2VGVFmNAVg/view)
 
 
-<div class="qlang-split" data-lang="it"></div>
 
+<span class="atom-split" id="q04__it" data-atom="q04__it" data-title="Q04__IT" data-tags=""></span>
+
+---
+tipo: quesito-translation
+translation_of: src_canimath_2021_printemps__Q04
+lang: it
+secondary: true
+title: "Coupe Animath Primavera 2021  Quesito 4"
+summary: "Dividenti propri di un multiple di 2020: somma di divisori unici al di sotto della somma di divisori pari"
+topics: [topic_aritmetica]
+methods: [method_bigezione, method_fattorizzazione]
+skills: [skill_manipolazione_algebrica, skill_modellizzazione]
+tags: [kg/translation, topic/aritmetica]---
 
 *divisioni propri di un multiple di 2020: somma di divisori unici inferiori alla somma di divisori pari*
 
 > Aline sceglie un numero intero $n$ divisibile da $2020$ alla tabella. Scrive poi sulla lavagna tutti i numeri interi $d$ che dividono $n$ e tali che $1 \le d < n$. Prove che la somma dei numeri odd scritti sulla lavagna è inferiore alla somma dei numeri interi pari scritti sulla lavagna.
 
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_bigezione|Bigezione / corrispondenza]], [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
 [[Quesiti/src_canimath_2021_printemps#q04|src_canimath_2021_printemps__Q04]]
 
 
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_aritmetica,topic_combinatoria,method_fattorizzazione,method_casework,skill_riconoscimento_pattern,skill_manipolazione_algebrica,skill_conteggio_sistematico"></span>
-
-<div class="qlang-switch" data-default="en"></div>
-
 
 *Pair 0..13 into 7 pairs so the product of the pair-sums is a perfect square*
 
@@ -150,8 +197,20 @@ level: Coupe Animath Printemps
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1HT9T8KwtrtEAIUZX2Qh9AX2VGVFmNAVg/view)
 
 
-<div class="qlang-split" data-lang="it"></div>
 
+<span class="atom-split" id="q05__it" data-atom="q05__it" data-title="Q05__IT" data-tags=""></span>
+
+---
+tipo: quesito-translation
+translation_of: src_canimath_2021_printemps__Q05
+lang: it
+secondary: true
+title: "Coupe Animath Primavera 2021  Quesito 5"
+summary: "Par 0..13 in 7 coppie così il prodotto della coppia-sume è un quadrato perfetto"
+topics: [topic_aritmetica, topic_combinatoria]
+methods: [method_fattorizzazione, method_casework]
+skills: [skill_riconoscimento_pattern, skill_manipolazione_algebrica, skill_conteggio_sistematico]
+tags: [kg/translation, topic/aritmetica, topic/combinatoria]---
 
 *Coppia 0..13 in 7 coppie in modo che il prodotto delle coppie-somme sia un quadrato perfetto*
 
@@ -159,14 +218,15 @@ level: Coupe Animath Printemps
 > 
 > *Un quadrato perfetto è un intero che può essere scritto nella forma $n^2$, dove $n$ è un intero.*
 
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]], [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 [[Quesiti/src_canimath_2021_printemps#q05|src_canimath_2021_printemps__Q05]]
 
 
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_geometria_piana,topic_disuguaglianze,method_disuguaglianze,method_simmetria,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
-
-<div class="qlang-switch" data-default="en"></div>
-
 
 *Perimeter of triangle AMC at least perimeter of quadrilateral ABME*
 
@@ -179,21 +239,34 @@ level: Coupe Animath Printemps
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1HT9T8KwtrtEAIUZX2Qh9AX2VGVFmNAVg/view)
 
 
-<div class="qlang-split" data-lang="it"></div>
 
+<span class="atom-split" id="q06__it" data-atom="q06__it" data-title="Q06__IT" data-tags=""></span>
+
+---
+tipo: quesito-translation
+translation_of: src_canimath_2021_printemps__Q06
+lang: it
+secondary: true
+title: "Coupe Animath Primavera 2021  Quesito 6"
+summary: "Perimetro del triangolo AMC almeno perimetro di ABME quadrilaterale"
+topics: [topic_geometria_piana, topic_disuguaglianze]
+methods: [method_disuguaglianze, method_simmetria]
+skills: [skill_ragionamento_geometrico, skill_manipolazione_algebrica]
+tags: [kg/translation, topic/geometria_piana, topic/disuguaglianze]---
 
 *Perimetro del triangolo AMC almeno perimetro di ABME quadrilaterale*
 
 > Il $ABCD$ deve essere un quadrilaterale convesso in cui i lati $(AD)$ e $(BC)$ sono paralleli, $AB = CD$ e $AD < BC$. $M$ sia il punto medio del segmento $[BC]$ e $E$ sia il punto di intersezione delle linee $(MD)$ e $(AC)$. Prova che il perimetro del triangolo $AMC$ è maggiore o uguale al perimetro del quadrilaterale $ABME$.
 
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_disuguaglianze|Disuguaglianze]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze classiche]], [[method_simmetria|Sfruttamento della simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]], [[Algebra e Analisi]]
 [[Quesiti/src_canimath_2021_printemps#q06|src_canimath_2021_printemps__Q06]]
 
 
 
 <span class="atom-split" id="q07" data-atom="q07" data-title="Quesito 7" data-tags="topic_combinatoria,method_casework,method_estremalita,skill_riconoscimento_pattern,skill_lettura_attenta,skill_casework_accurato"></span>
-
-<div class="qlang-switch" data-default="en"></div>
-
 
 *Max length of a 0/1 sequence balanced in every 200 but unbalanced in every 202*
 
@@ -206,18 +279,34 @@ level: Coupe Animath Printemps
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1HT9T8KwtrtEAIUZX2Qh9AX2VGVFmNAVg/view)
 
 
-<div class="qlang-split" data-lang="it"></div>
 
+<span class="atom-split" id="q07__it" data-atom="q07__it" data-title="Q07__IT" data-tags=""></span>
+
+---
+tipo: quesito-translation
+translation_of: src_canimath_2021_printemps__Q07
+lang: it
+secondary: true
+title: "Coupe Animath Primavera 2021  Quesito 7"
+summary: "Lunghezza massima di una sequenza 0/1 bilanciata ogni 200 ma sbilanciata ogni 202"
+topics: [topic_combinatoria]
+methods: [method_casework, method_estremalita]
+skills: [skill_riconoscimento_pattern, skill_lettura_attenta, skill_casework_accurato]
+tags: [kg/translation, topic/combinatoria]---
 
 *Lunghezza massima di una sequenza 0/1 bilanciata ogni 200 ma sbilanciata ogni 202*
 
 > Anna scrive una sequenza di $0$s e $1$s sulla lavagna. Anna osserva che in ogni blocco di cifre consecutive $200$ scritte sulla lavagna, ci sono uguali cifre $0$ che cifre $1$. Essa osserva inoltre che in ogni blocco di $202$ cifre consecutive scritte sulla lavagna, il numero di $0$ e il numero di $1$ non sono uguali. Qual è il numero massimo di cifre che Anna avrebbe potuto scrivere sulla lavagna?
 
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casework|Analisi per casi]], [[method_estremalita|Principio di estremalita]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_lettura_attenta|Lettura attenta del testo]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
 [[Quesiti/src_canimath_2021_printemps#q07|src_canimath_2021_printemps__Q07]]
 
 
 
-<span class="atom-split" id="q08" data-atom="q08" data-title="Quesito 8" data-tags="topic_combinatoria,topic_geometria_solida,method_cassetti,method_casework,skill_modellizzazione,skill_ragionamento_geometrico,skill_conteggio_sistematico"></span>
+<span class="atom-split" id="q08" data-atom="q08" data-title="Quesito 8" data-tags="topic_combinatoria,topic_geometria_solida,method_cassetti,method_casework,method_grafi,skill_modellizzazione,skill_ragionamento_geometrico,skill_conteggio_sistematico"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -230,9 +319,9 @@ level: Coupe Animath Printemps
 > 2. Suppose that $n = 9$. Prove that there exist, among the $9$ ants, two ants at distance less than or equal to $1$.
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_geometria_solida|Geometria solida]]
-**Metodo:** [[method_cassetti|Principio dei cassetti]], [[method_casework|Casework]]
+**Metodo:** [[method_cassetti|Principio dei cassetti]], [[method_casework|Casework]], [[method_grafi|Graph theory]]
 **Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_conteggio_sistematico|Conteggio sistematico]]
-**Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Geometria|Geometry]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1HT9T8KwtrtEAIUZX2Qh9AX2VGVFmNAVg/view)
 
 
@@ -245,14 +334,14 @@ level: Coupe Animath Printemps
 > 
 > 1. Supponiamo che $n = 13$. Prove che tra le formiche $13$ esistono due formiche a distanza inferiore o uguale a $1$. 2. Supponiamo che $n = 9$. Prove che tra le formiche $9$ esistono due formiche a distanza inferiore o pari a $1$.
 
-[[Quesiti/src_canimath_2021_printemps#q08|src_canimath_2021_printemps__Q08]]
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_geometria_solida|Geometria solida]]
+**Metodo:** [[method_cassetti|Principio dei cassetti]], [[method_casework|Analisi per casi]], [[method_grafi|Teoria dei grafi]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 
 
 
 <span class="atom-split" id="q09" data-atom="q09" data-title="Quesito 9" data-tags="topic_aritmetica,topic_algebra,skill_modellizzazione,skill_manipolazione_algebrica"></span>
-
-<div class="qlang-switch" data-default="en"></div>
-
 
 *Card deck ratio: black twice red, then add 4 black to make triple (lycee)*
 
@@ -267,8 +356,19 @@ level: Coupe Animath Printemps
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1HT9T8KwtrtEAIUZX2Qh9AX2VGVFmNAVg/view)
 
 
-<div class="qlang-split" data-lang="it"></div>
 
+<span class="atom-split" id="q09__it" data-atom="q09__it" data-title="Q09__IT" data-tags=""></span>
+
+---
+tipo: quesito-translation
+translation_of: src_canimath_2021_printemps__Q09
+lang: it
+secondary: true
+title: "Coupe Animath Primavera 2021  Quesito 9"
+summary: "Rapporto del mazzo di carte: nero due volte rosso, poi aggiungere 4 neri per fare il triplo (lycee)"
+topics: [topic_aritmetica, topic_algebra]
+skills: [skill_modellizzazione, skill_manipolazione_algebrica]
+tags: [kg/translation, topic/aritmetica, topic/algebra]---
 
 *Relazione del mazzo di carte: nero due volte rosso, poi aggiungere 4 neri per fare il triplo (lycee)*
 
@@ -276,15 +376,15 @@ level: Coupe Animath Printemps
 > 
 > *Solo una risposta numerica è prevista qui.*
 
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 **Risposta:** 12
 [[Quesiti/src_canimath_2021_printemps#q09|src_canimath_2021_printemps__Q09]]
 
 
 
 <span class="atom-split" id="q10" data-atom="q10" data-title="Quesito 10" data-tags="topic_geometria_piana,method_simmetria,skill_ragionamento_geometrico"></span>
-
-<div class="qlang-switch" data-default="en"></div>
-
 
 *Find angle DSC in a square with interior equilateral triangle ABS (lycee)*
 
@@ -298,22 +398,35 @@ level: Coupe Animath Printemps
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1HT9T8KwtrtEAIUZX2Qh9AX2VGVFmNAVg/view)
 
 
-<div class="qlang-split" data-lang="it"></div>
 
+<span class="atom-split" id="q10__it" data-atom="q10__it" data-title="Q10__IT" data-tags=""></span>
+
+---
+tipo: quesito-translation
+translation_of: src_canimath_2021_printemps__Q10
+lang: it
+secondary: true
+title: "Coupe Animath Primavera 2021  Quesito 10"
+summary: "Trova angolo DSC in un quadrato con triangolo equilaterale interno ABS (lycee)"
+topics: [topic_geometria_piana]
+methods: [method_simmetria]
+skills: [skill_ragionamento_geometrico]
+tags: [kg/translation, topic/geometria_piana]---
 
 *Trova angolo DSC in un quadrato con triangolo equilaterale interno ABS (lycee)*
 
 > Che $ABCD$ sia un quadrato e $S$ un punto all'interno del quadrato in modo tale che il triangolo $ABS$ sia equilaterale. Determinare l'angolo $\widehat{DSC}$.
 
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_simmetria|Sfruttamento della simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Geometria]]
 **Risposta:** 150^\circ
 [[Quesiti/src_canimath_2021_printemps#q10|src_canimath_2021_printemps__Q10]]
 
 
 
 <span class="atom-split" id="q11" data-atom="q11" data-title="Quesito 11" data-tags="topic_aritmetica,method_bigezione,method_fattorizzazione,skill_manipolazione_algebrica,skill_modellizzazione"></span>
-
-<div class="qlang-switch" data-default="en"></div>
-
 
 *Proper divisors of a multiple of 2020: sum of odd divisors below sum of even divisors (lycee)*
 
@@ -326,21 +439,34 @@ level: Coupe Animath Printemps
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1HT9T8KwtrtEAIUZX2Qh9AX2VGVFmNAVg/view)
 
 
-<div class="qlang-split" data-lang="it"></div>
 
+<span class="atom-split" id="q11__it" data-atom="q11__it" data-title="Q11__IT" data-tags=""></span>
+
+---
+tipo: quesito-translation
+translation_of: src_canimath_2021_printemps__Q11
+lang: it
+secondary: true
+title: "Coupe Animath Primavera 2021  Quesito 11"
+summary: "Divisioni corrette di un multiple di 2020: somma di divisori unici inferiori alla somma di divisori pari (lycee)"
+topics: [topic_aritmetica]
+methods: [method_bigezione, method_fattorizzazione]
+skills: [skill_manipolazione_algebrica, skill_modellizzazione]
+tags: [kg/translation, topic/aritmetica]---
 
 *divisioni propri di un multiple di 2020: somma di divisori unici inferiori alla somma di divisori pari (lycee)*
 
 > Aline sceglie un numero intero $n$ divisibile da $2020$ alla tabella. Scrive poi sulla lavagna tutti i numeri interi $d$ che dividono $n$ e tali che $1 \le d < n$. Prove che la somma dei numeri odd scritti sulla lavagna è inferiore alla somma dei numeri interi pari scritti sulla lavagna.
 
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_bigezione|Bigezione / corrispondenza]], [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
 [[Quesiti/src_canimath_2021_printemps#q11|src_canimath_2021_printemps__Q11]]
 
 
 
 <span class="atom-split" id="q12" data-atom="q12" data-title="Quesito 12" data-tags="topic_combinatoria,method_ricorsione,method_conteggio,skill_conteggio_sistematico,skill_riconoscimento_pattern"></span>
-
-<div class="qlang-switch" data-default="en"></div>
-
 
 *Count 3-colorings (blue/green/red) of 1..2021 with no two consecutive same color*
 
@@ -354,19 +480,35 @@ level: Coupe Animath Printemps
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1HT9T8KwtrtEAIUZX2Qh9AX2VGVFmNAVg/view)
 
 
-<div class="qlang-split" data-lang="it"></div>
 
+<span class="atom-split" id="q12__it" data-atom="q12__it" data-title="Q12__IT" data-tags=""></span>
+
+---
+tipo: quesito-translation
+translation_of: src_canimath_2021_printemps__Q12
+lang: it
+secondary: true
+title: "Coupe Animath Primavera 2021  Quesito 12"
+summary: "Conteggi 3 colori (blu/verde/rosso) del 1° gennaio 2021 senza due colori consecutivi dello stesso colore"
+topics: [topic_combinatoria]
+methods: [method_ricorsione, method_conteggio]
+skills: [skill_conteggio_sistematico, skill_riconoscimento_pattern]
+tags: [kg/translation, topic/combinatoria]---
 
 *Contare i 3 colori (blu/verde/rosso) del 1° gennaio 2021 senza due colori consecutivi dello stesso colore*
 
 > In quanti modi si possono colorare gli integri da $1$ a $2021$ in modo che ogni numero intero sia colorato blu, verde o rosso, e in modo che due numeri interi consecutivi non siano mai dello stesso colore?
 
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_ricorsione|Ricorsione]], [[method_conteggio|Conteggio combinatorio]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 3\times 2^{2020}
 [[Quesiti/src_canimath_2021_printemps#q12|src_canimath_2021_printemps__Q12]]
 
 
 
-<span class="atom-split" id="q13" data-atom="q13" data-title="Quesito 13" data-tags="topic_aritmetica,topic_combinatoria,method_doppio_conteggio,method_estremalita,skill_modellizzazione,skill_manipolazione_algebrica,skill_stima"></span>
+<span class="atom-split" id="q13" data-atom="q13" data-title="Quesito 13" data-tags="topic_aritmetica,topic_combinatoria,topic_disuguaglianze,method_doppio_conteggio,method_estremalita,skill_modellizzazione,skill_manipolazione_algebrica,skill_stima"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -377,10 +519,10 @@ level: Coupe Animath Printemps
 > 
 > Prove that there exist two integers $a$ and $b$ such that the difference between the number of students having obtained the grade $a$ and the number of students having obtained the grade $b$, before the modifications carried out by Vincent, is at least $100$.
 
-**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]], [[topic_disuguaglianze|Inequalities]]
 **Metodo:** [[method_doppio_conteggio|Doppio conteggio]], [[method_estremalita|Estremalità]]
 **Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]]
-**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Algebra e Analisi|Algebra and analysis]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1HT9T8KwtrtEAIUZX2Qh9AX2VGVFmNAVg/view)
 
 
@@ -393,14 +535,14 @@ level: Coupe Animath Printemps
 > 
 > Dimostrare che esistono due integri $a$ e $b$ in modo tale che la differenza tra il numero di studenti che hanno ottenuto il grado $a$ e il numero di studenti che hanno ottenuto il grado $b$, prima delle modifiche effettuate da Vincent, sia almeno $100$.
 
-[[Quesiti/src_canimath_2021_printemps#q13|src_canimath_2021_printemps__Q13]]
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]], [[topic_disuguaglianze|Disuguaglianze]]
+**Metodo:** [[method_doppio_conteggio|Doppio conteggio]], [[method_estremalita|Principio di estremalita]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima e approssimazione]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]], [[Algebra e Analisi]]
 
 
 
 <span class="atom-split" id="q14" data-atom="q14" data-title="Quesito 14" data-tags="topic_geometria_piana,topic_disuguaglianze,method_disuguaglianze,method_simmetria,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
-
-<div class="qlang-switch" data-default="en"></div>
-
 
 *Two parts: cevian-intersection inequality in a triangle; sum of distances in an isosceles trapezoid*
 
@@ -417,8 +559,20 @@ level: Coupe Animath Printemps
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1HT9T8KwtrtEAIUZX2Qh9AX2VGVFmNAVg/view)
 
 
-<div class="qlang-split" data-lang="it"></div>
 
+<span class="atom-split" id="q14__it" data-atom="q14__it" data-title="Q14__IT" data-tags=""></span>
+
+---
+tipo: quesito-translation
+translation_of: src_canimath_2021_printemps__Q14
+lang: it
+secondary: true
+title: "Coupe Animath Primavera 2021  Quesito 14"
+summary: "Due parti: disuguaglianza di intersezione ceviana in un triangolo; somma delle distanze in un trapezoide a isosceles"
+topics: [topic_geometria_piana, topic_disuguaglianze]
+methods: [method_disuguaglianze, method_simmetria]
+skills: [skill_ragionamento_geometrico, skill_manipolazione_algebrica]
+tags: [kg/translation, topic/geometria_piana, topic/disuguaglianze]---
 
 *Due parti: disuguaglianza di intersezione ceviale in un triangolo; somma delle distanze in un trapezoide a isosceles*
 
@@ -426,11 +580,15 @@ level: Coupe Animath Printemps
 > 
 > 2. Il $ABCD$ deve essere un quadrilaterale convexo in cui i lati $(AD)$ e $(BC)$ sono paralleli, $AB = CD$, $AD < AB$ e $BC < AB$. Il punto $P$ deve essere situato all'interno del quadrilaterale $ABCD$. Provare che $$PA + PB + PC + PD < 4AB < 2(PA + PB + PC + PD).$$
 
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_disuguaglianze|Disuguaglianze]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze classiche]], [[method_simmetria|Sfruttamento della simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]], [[Algebra e Analisi]]
 [[Quesiti/src_canimath_2021_printemps#q14|src_canimath_2021_printemps__Q14]]
 
 
 
-<span class="atom-split" id="q15" data-atom="q15" data-title="Quesito 15" data-tags="topic_algebra,topic_disuguaglianze,method_estremalita,method_disuguaglianze,skill_manipolazione_algebrica,skill_stima"></span>
+<span class="atom-split" id="q15" data-atom="q15" data-title="Quesito 15" data-tags="topic_algebra,topic_disuguaglianze,method_estremalita,method_disuguaglianze,method_simmetria,skill_manipolazione_algebrica,skill_stima"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -440,9 +598,9 @@ level: Coupe Animath Printemps
 > Determine the smallest integer $n$ such that there exist $n$ reals $x_1, \ldots, x_n$ all belonging to the interval $\left]-1, 1\right[$ and for which $x_1 + \ldots + x_n = 0$ and $x_1^2 + \ldots + x_n^2 = 2020$.
 
 **Topic:** [[topic_algebra|Algebra]], [[topic_disuguaglianze|Disuguaglianze]]
-**Metodo:** [[method_estremalita|Estremalità]], [[method_disuguaglianze|Disuguaglianze]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_disuguaglianze|Disuguaglianze]], [[method_simmetria|Using symmetry]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]]
-**Area:** [[Algebra e Analisi]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1HT9T8KwtrtEAIUZX2Qh9AX2VGVFmNAVg/view)
 
 
@@ -453,14 +611,14 @@ level: Coupe Animath Printemps
 
 > Determinare il numero intero più piccolo $n$ in modo tale che esistano i valori $n$ $x_1, \ldots, x_n$ tutti appartenenti all'intervallo $\left]-1, 1\right[$ e per i quali $x_1 + \ldots + x_n = 0$ e $x_1^2 + \ldots + x_n^2 = 2020$.
 
-[[Quesiti/src_canimath_2021_printemps#q15|src_canimath_2021_printemps__Q15]]
+**Topic:** [[topic_algebra|Algebra]], [[topic_disuguaglianze|Disuguaglianze]]
+**Metodo:** [[method_estremalita|Principio di estremalita]], [[method_disuguaglianze|Disuguaglianze classiche]], [[method_simmetria|Sfruttamento della simmetria]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima e approssimazione]]
+**Area:** [[Algebra e Analisi]]
 
 
 
 <span class="atom-split" id="q16" data-atom="q16" data-title="Quesito 16" data-tags="topic_combinatoria,topic_aritmetica,method_casework,method_doppio_conteggio,skill_riconoscimento_pattern,skill_modellizzazione,skill_conteggio_sistematico"></span>
-
-<div class="qlang-switch" data-default="en"></div>
-
 
 *Partition {1,...,2021^2} into pairwise disjoint balanced sets*
 
@@ -475,8 +633,20 @@ level: Coupe Animath Printemps
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1HT9T8KwtrtEAIUZX2Qh9AX2VGVFmNAVg/view)
 
 
-<div class="qlang-split" data-lang="it"></div>
 
+<span class="atom-split" id="q16__it" data-atom="q16__it" data-title="Q16__IT" data-tags=""></span>
+
+---
+tipo: quesito-translation
+translation_of: src_canimath_2021_printemps__Q16
+lang: it
+secondary: true
+title: "Coupe Animath Primavera 2021  Quesito 16"
+summary: "Partizione {1,...,2021^2} in gruppi equilibrati disgiunti in coppia"
+topics: [topic_combinatoria, topic_aritmetica]
+methods: [method_casework, method_doppio_conteggio]
+skills: [skill_riconoscimento_pattern, skill_modellizzazione, skill_conteggio_sistematico]
+tags: [kg/translation, topic/combinatoria, topic/aritmetica]---
 
 *Partitazione {1,...,2021^2} in gruppi equilibrati disgiunti in coppia*
 
@@ -484,14 +654,15 @@ level: Coupe Animath Printemps
 > 
 > È possibile dividere l'insieme $\{1, 2, \ldots, 2021^2\}$ in diversi insiemi bilanciati che sono disgiunti in coppia?
 
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Analisi per casi]], [[method_doppio_conteggio|Doppio conteggio]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 [[Quesiti/src_canimath_2021_printemps#q16|src_canimath_2021_printemps__Q16]]
 
 
 
 <span class="atom-split" id="q17" data-atom="q17" data-title="Quesito 17" data-tags="topic_combinatoria,topic_geometria_solida,method_cassetti,method_estremalita,skill_modellizzazione,skill_ragionamento_geometrico,skill_stima"></span>
-
-<div class="qlang-switch" data-default="en"></div>
-
 
 *8 ants on the edges of a unit cube: two at geodesic distance at most 1 (lycee)*
 
@@ -504,11 +675,27 @@ level: Coupe Animath Printemps
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1HT9T8KwtrtEAIUZX2Qh9AX2VGVFmNAVg/view)
 
 
-<div class="qlang-split" data-lang="it"></div>
 
+<span class="atom-split" id="q17__it" data-atom="q17__it" data-title="Q17__IT" data-tags=""></span>
+
+---
+tipo: quesito-translation
+translation_of: src_canimath_2021_printemps__Q17
+lang: it
+secondary: true
+title: "Coupe Animath Primavera 2021  Quesito 17"
+summary: "8 formiche sui bordi di un cubo unitario: due a distanza geodetica al massimo 1 (lycee)"
+topics: [topic_combinatoria, topic_geometria_solida]
+methods: [method_cassetti, method_estremalita]
+skills: [skill_modellizzazione, skill_ragionamento_geometrico, skill_stima]
+tags: [kg/translation, topic/combinatoria, topic/geometria_solida]---
 
 *8 formiche sui bordi di un cubo unitario: due a distanza geodetica massima 1 (licee)*
 
 > Le formiche $8$ sono collocate sui bordi di un cubo i cui bordi hanno lunghezza $1$. Per ogni reale positivo $d$, due formiche si dice siano a distanza $d$ se la prima formica deve percorrere una distanza di almeno $d$ per raggiungere la seconda formica, muovendosi solo lungo i bordi del cubo. Prove che esistono due formiche a distanza inferiore o pari a $1$.
 
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_geometria_solida|Geometria solida]]
+**Metodo:** [[method_cassetti|Principio dei cassetti]], [[method_estremalita|Principio di estremalita]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_stima|Stima e approssimazione]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 [[Quesiti/src_canimath_2021_printemps#q17|src_canimath_2021_printemps__Q17]]

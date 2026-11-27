@@ -10,7 +10,7 @@ level: triennio
 
 
 
-<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_algebra,skill_manipolazione_algebrica"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_algebra,method_fattorizzazione,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -26,6 +26,7 @@ level: triennio
 > - **(E)** (2 − √ 3)2− √
 
 **Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Algebra e Analisi]]
 **Risposta:** C
@@ -47,12 +48,13 @@ level: triennio
 
 
 **Topic:** [[topic_algebra|Algebra]]
-**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
-[[Quesiti/src_archimede_2000_triennio#q02|src_archimede_2000_triennio__Q02]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
 
 
 
-<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_algebra,skill_modellizzazione"></span>
+<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_algebra,method_fattorizzazione,skill_modellizzazione,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -69,7 +71,8 @@ level: triennio
 > - **(E)** mai.
 
 **Topic:** [[topic_algebra|Algebra]]
-**Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Algebra e Analisi]]
 **Risposta:** D
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1QTi7ceKqEi8d12OvZvXflQR0qrleZ9rP/view)
@@ -90,8 +93,9 @@ level: triennio
 
 
 **Topic:** [[topic_algebra|Algebra]]
-**Skill:** [[skill_modellizzazione|Modelling / translating the text]]
-[[Quesiti/src_archimede_2000_triennio#q04|src_archimede_2000_triennio__Q04]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
 
 
 
@@ -134,7 +138,7 @@ level: triennio
 
 **Topic:** [[topic_geometria_piana|Plane geometry]]
 **Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
-[[Quesiti/src_archimede_2000_triennio#q05|src_archimede_2000_triennio__Q05]]
+**Area:** [[Geometria|Geometry]]
 
 
 
@@ -180,11 +184,11 @@ level: triennio
 **Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
 **Method:** [[method_congruenze|Modular arithmetic / congruences]]
 **Skill:** [[skill_riconoscimento_pattern|Pattern recognition]]
-[[Quesiti/src_archimede_2000_triennio#q06|src_archimede_2000_triennio__Q06]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
 
 
-<span class="atom-split" id="q07" data-atom="q07" data-title="Quesito 7" data-tags="topic_geometria_piana,topic_disuguaglianze,method_disuguaglianze,skill_ragionamento_geometrico"></span>
+<span class="atom-split" id="q07" data-atom="q07" data-title="Quesito 7" data-tags="topic_geometria_piana,topic_disuguaglianze,topic_trigonometria,method_disuguaglianze,method_trigonometria,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -200,10 +204,10 @@ level: triennio
 > - **(D)** √ 20
 > - **(E)** √ 41.
 
-**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_disuguaglianze|Disuguaglianze]]
-**Metodo:** [[method_disuguaglianze|Disuguaglianze classiche]]
-**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
-**Area:** [[Algebra e Analisi]], [[Geometria]]
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_disuguaglianze|Disuguaglianze]], [[topic_trigonometria|Trigonometria]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze classiche]], [[method_trigonometria|Tecniche trigonometriche]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]], [[Algebra e Analisi]]
 **Risposta:** E
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1QTi7ceKqEi8d12OvZvXflQR0qrleZ9rP/view)
 
@@ -222,14 +226,14 @@ level: triennio
 > - **(E)** √ 41.
 
 
-**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_disuguaglianze|Inequalities]]
-**Method:** [[method_disuguaglianze|Classical inequalities]]
-**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
-[[Quesiti/src_archimede_2000_triennio#q07|src_archimede_2000_triennio__Q07]]
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_disuguaglianze|Inequalities]], [[topic_trigonometria|Trigonometry]]
+**Metodo:** [[method_disuguaglianze|Classical inequalities]], [[method_trigonometria|Trigonometric techniques]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Geometria|Geometry]], [[Algebra e Analisi|Algebra and analysis]]
 
 
 
-<span class="atom-split" id="q08" data-atom="q08" data-title="Quesito 8" data-tags="topic_aritmetica,method_conteggio,skill_conteggio_sistematico"></span>
+<span class="atom-split" id="q08" data-atom="q08" data-title="Quesito 8" data-tags="topic_aritmetica,method_conteggio,method_casi_conteggio,skill_conteggio_sistematico,skill_lettura_attenta"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -248,8 +252,8 @@ level: triennio
 > - **(E)** 210 cm.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_conteggio|Conteggio combinatorio]]
-**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Metodo:** [[method_conteggio|Conteggio combinatorio]], [[method_casi_conteggio|Conteggio per casi]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta del testo]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** C
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1QTi7ceKqEi8d12OvZvXflQR0qrleZ9rP/view)
@@ -270,9 +274,9 @@ level: triennio
 
 
 **Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
-**Method:** [[method_conteggio|Combinatorial counting]]
-**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
-[[Quesiti/src_archimede_2000_triennio#q08|src_archimede_2000_triennio__Q08]]
+**Metodo:** [[method_conteggio|Combinatorial counting]], [[method_casi_conteggio|Counting by cases]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]], [[skill_lettura_attenta|Careful reading of the text]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
 
 
@@ -324,11 +328,11 @@ level: triennio
 **Topic:** [[topic_algebra|Algebra]], [[topic_funzionali|Functional equations / sequences]]
 **Method:** [[method_backward|Working backwards]]
 **Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
-[[Quesiti/src_archimede_2000_triennio#q10|src_archimede_2000_triennio__Q10]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
 
 
 
-<span class="atom-split" id="q11" data-atom="q11" data-title="Quesito 11" data-tags="topic_logica,method_casework,skill_casework_accurato"></span>
+<span class="atom-split" id="q11" data-atom="q11" data-title="Quesito 11" data-tags="topic_logica,method_casework,skill_casework_accurato,skill_modellizzazione,skill_lettura_attenta"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -350,7 +354,7 @@ level: triennio
 
 **Topic:** [[topic_logica|Logica, giochi, strategie]]
 **Metodo:** [[method_casework|Analisi per casi]]
-**Abilita:** [[skill_casework_accurato|Casework accurato]]
+**Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_lettura_attenta|Lettura attenta del testo]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** D
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1QTi7ceKqEi8d12OvZvXflQR0qrleZ9rP/view)
@@ -371,13 +375,13 @@ level: triennio
 
 
 **Topic:** [[topic_logica|Logic, games, strategies]]
-**Method:** [[method_casework|Case analysis]]
-**Skill:** [[skill_casework_accurato|Careful casework]]
-[[Quesiti/src_archimede_2000_triennio#q11|src_archimede_2000_triennio__Q11]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_casework_accurato|Careful casework]], [[skill_modellizzazione|Modelling / translating the text]], [[skill_lettura_attenta|Careful reading of the text]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
 
 
-<span class="atom-split" id="q12" data-atom="q12" data-title="Quesito 12" data-tags="topic_algebra,skill_manipolazione_algebrica"></span>
+<span class="atom-split" id="q12" data-atom="q12" data-title="Quesito 12" data-tags="topic_algebra,method_fattorizzazione,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -398,6 +402,7 @@ level: triennio
 > - **(E)** più di 4 Euro.
 
 **Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Algebra e Analisi]]
 **Risposta:** C
@@ -419,8 +424,9 @@ level: triennio
 
 
 **Topic:** [[topic_algebra|Algebra]]
-**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
-[[Quesiti/src_archimede_2000_triennio#q12|src_archimede_2000_triennio__Q12]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
 
 
 
@@ -456,6 +462,8 @@ level: triennio
 
 *Ratio of the areas of the hexagon and the inner star polygon*
 
+![[src_archimede_2000_triennio__prob13.png]]
+
 > The ratio between the area of the regular hexagon and that of the star polygon shown in the figure, which has all its sides lying on 6 of the diagonals of the hexagon, is
 >
 > - **(A)** 4 3
@@ -468,11 +476,11 @@ level: triennio
 **Topic:** [[topic_geometria_piana|Plane geometry]]
 **Method:** [[method_simmetria|Using symmetry]]
 **Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
-[[Quesiti/src_archimede_2000_triennio#q13|src_archimede_2000_triennio__Q13]]
+**Area:** [[Geometria|Geometry]]
 
 
 
-<span class="atom-split" id="q14" data-atom="q14" data-title="Quesito 14" data-tags="topic_aritmetica,skill_modellizzazione"></span>
+<span class="atom-split" id="q14" data-atom="q14" data-title="Quesito 14" data-tags="topic_aritmetica,method_backward,skill_modellizzazione,skill_lettura_attenta"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -492,7 +500,8 @@ level: triennio
 > - **(E)** 13:18.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
+**Metodo:** [[method_backward|Ragionamento all'indietro]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_lettura_attenta|Lettura attenta del testo]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** B
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1QTi7ceKqEi8d12OvZvXflQR0qrleZ9rP/view)
@@ -513,8 +522,9 @@ level: triennio
 
 
 **Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
-**Skill:** [[skill_modellizzazione|Modelling / translating the text]]
-[[Quesiti/src_archimede_2000_triennio#q14|src_archimede_2000_triennio__Q14]]
+**Metodo:** [[method_backward|Working backwards]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]], [[skill_lettura_attenta|Careful reading of the text]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
 
 
@@ -558,11 +568,11 @@ level: triennio
 **Topic:** [[topic_funzionali|Functional equations / sequences]], [[topic_algebra|Algebra]]
 **Method:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
 **Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
-[[Quesiti/src_archimede_2000_triennio#q15|src_archimede_2000_triennio__Q15]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
 
 
 
-<span class="atom-split" id="q16" data-atom="q16" data-title="Quesito 16" data-tags="topic_geometria_piana,method_coordinate,skill_ragionamento_geometrico"></span>
+<span class="atom-split" id="q16" data-atom="q16" data-title="Quesito 16" data-tags="topic_geometria_piana,method_coordinate,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -592,7 +602,7 @@ level: triennio
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_coordinate|Metodo delle coordinate]]
-**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 **Risposta:** D
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1QTi7ceKqEi8d12OvZvXflQR0qrleZ9rP/view)
@@ -602,6 +612,8 @@ level: triennio
 
 
 *Cylinder diameter measured with a short-jawed caliper*
+
+![[src_archimede_2000_triennio__prob16.png]]
 
 > A student wants to measure the diameter of a cylinder using a caliper. Unfortunately the available instrument has jaws that are too short, and it is not possible to make them touch two diametrically opposite points of the lateral surface at the same time. The student therefore decides to use the method shown in the figure, in which the edge of the beam is tangent to the lateral surface of the cylinder. Letting a be the reading on the caliper beam and d the distance between the tip of a jaw and the beam, the diameter equals
 > a
@@ -615,13 +627,13 @@ level: triennio
 
 
 **Topic:** [[topic_geometria_piana|Plane geometry]]
-**Method:** [[method_coordinate|Coordinate method]]
-**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
-[[Quesiti/src_archimede_2000_triennio#q16|src_archimede_2000_triennio__Q16]]
+**Metodo:** [[method_coordinate|Coordinate method]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Geometria|Geometry]]
 
 
 
-<span class="atom-split" id="q17" data-atom="q17" data-title="Quesito 17" data-tags="topic_aritmetica,method_fattorizzazione,skill_riconoscimento_pattern"></span>
+<span class="atom-split" id="q17" data-atom="q17" data-title="Quesito 17" data-tags="topic_aritmetica,method_fattorizzazione,method_congruenze,skill_riconoscimento_pattern,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -638,8 +650,8 @@ level: triennio
 > - **(E)** 63 e 69.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
-**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]], [[method_congruenze|Aritmetica modulare / congruenze]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** C
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1QTi7ceKqEi8d12OvZvXflQR0qrleZ9rP/view)
@@ -660,9 +672,9 @@ level: triennio
 
 
 **Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
-**Method:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
-**Skill:** [[skill_riconoscimento_pattern|Pattern recognition]]
-[[Quesiti/src_archimede_2000_triennio#q17|src_archimede_2000_triennio__Q17]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]], [[method_congruenze|Modular arithmetic / congruences]]
+**Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]], [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
 
 
@@ -707,11 +719,11 @@ level: triennio
 **Topic:** [[topic_algebra|Algebra]]
 **Method:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
 **Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
-[[Quesiti/src_archimede_2000_triennio#q18|src_archimede_2000_triennio__Q18]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
 
 
 
-<span class="atom-split" id="q19" data-atom="q19" data-title="Quesito 19" data-tags="topic_geometria_solida,skill_ragionamento_geometrico"></span>
+<span class="atom-split" id="q19" data-atom="q19" data-title="Quesito 19" data-tags="topic_geometria_solida,method_coordinate,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -728,7 +740,8 @@ level: triennio
 > - **(E)** √ 3 3 .
 
 **Topic:** [[topic_geometria_solida|Geometria solida]]
-**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Metodo:** [[method_coordinate|Metodo delle coordinate]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 **Risposta:** B
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1QTi7ceKqEi8d12OvZvXflQR0qrleZ9rP/view)
@@ -749,12 +762,13 @@ level: triennio
 
 
 **Topic:** [[topic_geometria_solida|Solid geometry]]
-**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
-[[Quesiti/src_archimede_2000_triennio#q19|src_archimede_2000_triennio__Q19]]
+**Metodo:** [[method_coordinate|Coordinate method]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Geometria|Geometry]]
 
 
 
-<span class="atom-split" id="q20" data-atom="q20" data-title="Quesito 20" data-tags="topic_aritmetica,topic_combinatoria,method_conteggio,method_fattorizzazione,skill_conteggio_sistematico"></span>
+<span class="atom-split" id="q20" data-atom="q20" data-title="Quesito 20" data-tags="topic_aritmetica,topic_combinatoria,method_conteggio,method_fattorizzazione,method_casi_conteggio,skill_conteggio_sistematico,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -771,8 +785,8 @@ level: triennio
 > - **(E)** 48.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
-**Metodo:** [[method_conteggio|Conteggio combinatorio]], [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
-**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Metodo:** [[method_conteggio|Conteggio combinatorio]], [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]], [[method_casi_conteggio|Conteggio per casi]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** C
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1QTi7ceKqEi8d12OvZvXflQR0qrleZ9rP/view)
@@ -794,13 +808,13 @@ level: triennio
 
 
 **Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_combinatoria|Combinatorics]]
-**Method:** [[method_conteggio|Combinatorial counting]], [[method_fattorizzazione|Factorisation / algebraic manipulation]]
-**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
-[[Quesiti/src_archimede_2000_triennio#q20|src_archimede_2000_triennio__Q20]]
+**Metodo:** [[method_conteggio|Combinatorial counting]], [[method_fattorizzazione|Factorisation / algebraic manipulation]], [[method_casi_conteggio|Counting by cases]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]], [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
 
 
-<span class="atom-split" id="q21" data-atom="q21" data-title="Quesito 21" data-tags="topic_geometria_analitica,method_casi_conteggio,method_coordinate,skill_ragionamento_geometrico"></span>
+<span class="atom-split" id="q21" data-atom="q21" data-title="Quesito 21" data-tags="topic_geometria_analitica,method_casi_conteggio,method_coordinate,skill_ragionamento_geometrico,skill_riconoscimento_pattern,skill_conteggio_sistematico"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -819,7 +833,7 @@ level: triennio
 
 **Topic:** [[topic_geometria_analitica|Geometria analitica]]
 **Metodo:** [[method_casi_conteggio|Conteggio per casi]], [[method_coordinate|Metodo delle coordinate]]
-**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Geometria]]
 **Risposta:** C
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1QTi7ceKqEi8d12OvZvXflQR0qrleZ9rP/view)
@@ -840,13 +854,13 @@ level: triennio
 
 
 **Topic:** [[topic_geometria_analitica|Analytic geometry]]
-**Method:** [[method_casi_conteggio|Counting by cases]], [[method_coordinate|Coordinate method]]
-**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
-[[Quesiti/src_archimede_2000_triennio#q21|src_archimede_2000_triennio__Q21]]
+**Metodo:** [[method_casi_conteggio|Counting by cases]], [[method_coordinate|Coordinate method]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_riconoscimento_pattern|Pattern recognition]], [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Geometria|Geometry]]
 
 
 
-<span class="atom-split" id="q22" data-atom="q22" data-title="Quesito 22" data-tags="topic_probabilita,method_conteggio,skill_conteggio_sistematico"></span>
+<span class="atom-split" id="q22" data-atom="q22" data-title="Quesito 22" data-tags="topic_probabilita,topic_geometria_piana,method_conteggio,method_casi_conteggio,skill_conteggio_sistematico,skill_ragionamento_geometrico"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -863,10 +877,10 @@ level: triennio
 > - **(D)** 5 18
 > - **(E)** 1 72.
 
-**Topic:** [[topic_probabilita|Probabilita e statistica]]
-**Metodo:** [[method_conteggio|Conteggio combinatorio]]
-**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
-**Area:** [[Combinatoria, Logica e Probabilita]]
+**Topic:** [[topic_probabilita|Probabilita e statistica]], [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_conteggio|Conteggio combinatorio]], [[method_casi_conteggio|Conteggio per casi]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 **Risposta:** B
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1QTi7ceKqEi8d12OvZvXflQR0qrleZ9rP/view)
 
@@ -885,10 +899,10 @@ level: triennio
 > - **(E)** 1 72.
 
 
-**Topic:** [[topic_probabilita|Probability and statistics]]
-**Method:** [[method_conteggio|Combinatorial counting]]
-**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
-[[Quesiti/src_archimede_2000_triennio#q22|src_archimede_2000_triennio__Q22]]
+**Topic:** [[topic_probabilita|Probability and statistics]], [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_conteggio|Combinatorial counting]], [[method_casi_conteggio|Counting by cases]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]], [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Geometria|Geometry]]
 
 
 
@@ -936,4 +950,4 @@ level: triennio
 **Topic:** [[topic_combinatoria|Combinatorics]]
 **Method:** [[method_inclusione_esclusione|Inclusion-exclusion]]
 **Skill:** [[skill_conteggio_sistematico|Systematic counting]]
-[[Quesiti/src_archimede_2000_triennio#q24|src_archimede_2000_triennio__Q24]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]

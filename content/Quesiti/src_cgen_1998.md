@@ -10,7 +10,7 @@ level: Concours Général
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_geometria_solida,topic_algebra,method_coordinate,method_estremalita,skill_modellizzazione,skill_manipolazione_algebrica,skill_ragionamento_geometrico"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_geometria_solida,topic_algebra,method_coordinate,method_estremalita,method_fattorizzazione,skill_modellizzazione,skill_manipolazione_algebrica,skill_ragionamento_geometrico"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -24,9 +24,9 @@ level: Concours Général
 > Determine the minimum value of $BC^6 + BD^6 - AC^6 - AD^6$.
 
 **Topic:** [[topic_geometria_solida|Geometria solida]], [[topic_algebra|Algebra]]
-**Metodo:** [[method_coordinate|Coordinate]], [[method_estremalita|Estremalità]]
+**Metodo:** [[method_coordinate|Coordinate]], [[method_estremalita|Estremalità]], [[method_fattorizzazione|Factorisation / algebraic manipulation]]
 **Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
-**Area:** [[Geometria]], [[Algebra e Analisi]]
+**Area:** [[Geometria|Geometry]], [[Algebra e Analisi|Algebra and analysis]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1d96JAX20649Sa-7D58TjgLwqdERkPcCJ/view)
 
 
@@ -39,11 +39,14 @@ level: Concours Général
 > 
 > Determinare il valore minimo di $BC^6 + BD^6 - AC^6 - AD^6$.
 
-[[Quesiti/src_cgen_1998#q01|src_cgen_1998__Q01]]
+**Topic:** [[topic_geometria_solida|Geometria solida]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_coordinate|Metodo delle coordinate]], [[method_estremalita|Principio di estremalita]], [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Geometria]], [[Algebra e Analisi]]
 
 
 
-<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_insiemi_funzioni,topic_aritmetica,method_invarianti,method_ricorsione,method_casework,skill_manipolazione_algebrica,skill_ragionamento_geometrico,skill_riconoscimento_pattern"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_insiemi_funzioni,topic_aritmetica,topic_funzionali,method_invarianti,method_ricorsione,method_casework,skill_manipolazione_algebrica,skill_ragionamento_geometrico,skill_riconoscimento_pattern,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -56,10 +59,10 @@ level: Concours Général
 > 
 > Show that there exists a nonzero integer $p$ such that the relation $u_n = u_{n+p}$ holds for every natural number $n$.
 
-**Topic:** [[topic_insiemi_funzioni|Insiemi e funzioni]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Topic:** [[topic_insiemi_funzioni|Insiemi e funzioni]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_funzionali|Functional equations / sequences]]
 **Metodo:** [[method_invarianti|Invarianti]], [[method_ricorsione|Ricorsione]], [[method_casework|Casework]]
-**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
-**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1d96JAX20649Sa-7D58TjgLwqdERkPcCJ/view)
 
 
@@ -72,11 +75,14 @@ level: Concours Général
 > 
 > Mostra che esiste un numero intero non zero $p$ tale che la relazione $u_n = u_{n+p}$ si applique a ogni numero naturale $n$.
 
-[[Quesiti/src_cgen_1998#q02|src_cgen_1998__Q02]]
+**Topic:** [[topic_insiemi_funzioni|Insiemi e funzioni]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_funzionali|Equazioni funzionali / successioni]]
+**Metodo:** [[method_invarianti|Invarianti / monovarianti]], [[method_ricorsione|Ricorsione]], [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 
 
 
-<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_insiemi_funzioni,topic_aritmetica,method_casework,method_estremalita,skill_manipolazione_algebrica,skill_riconoscimento_pattern,skill_lettura_attenta"></span>
+<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_insiemi_funzioni,topic_aritmetica,method_casework,method_estremalita,method_disuguaglianze,skill_manipolazione_algebrica,skill_riconoscimento_pattern,skill_lettura_attenta,skill_casework_accurato,skill_stima"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -89,9 +95,9 @@ level: Concours Général
 > Determine the set of values taken by the function $f$.
 
 **Topic:** [[topic_insiemi_funzioni|Insiemi e funzioni]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_casework|Casework]], [[method_estremalita|Estremalità]]
-**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_lettura_attenta|Lettura attenta]]
-**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
+**Metodo:** [[method_casework|Casework]], [[method_estremalita|Estremalità]], [[method_disuguaglianze|Classical inequalities]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_lettura_attenta|Lettura attenta]], [[skill_casework_accurato|Careful case analysis]], [[skill_stima|Estimation and approximation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1d96JAX20649Sa-7D58TjgLwqdERkPcCJ/view)
 
 
@@ -104,14 +110,14 @@ level: Concours Général
 > 
 > Determinare l'insieme dei valori presi dalla funzione $f$.
 
-[[Quesiti/src_cgen_1998#q03|src_cgen_1998__Q03]]
+**Topic:** [[topic_insiemi_funzioni|Insiemi e funzioni]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Analisi per casi]], [[method_estremalita|Principio di estremalita]], [[method_disuguaglianze|Disuguaglianze classiche]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_lettura_attenta|Lettura attenta del testo]], [[skill_casework_accurato|Casework accurato]], [[skill_stima|Stima e approssimazione]]
+**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_geometria_piana,topic_trigonometria,method_estremalita,method_trigonometria,method_simmetria,skill_ragionamento_geometrico,skill_modellizzazione,skill_manipolazione_algebrica"></span>
-
-<div class="qlang-switch" data-default="en"></div>
-
 
 *Point on segment between two lines through O; minimize area then perimeter*
 
@@ -130,8 +136,20 @@ level: Concours Général
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1d96JAX20649Sa-7D58TjgLwqdERkPcCJ/view)
 
 
-<div class="qlang-split" data-lang="it"></div>
 
+<span class="atom-split" id="q04__it" data-atom="q04__it" data-title="Q04__IT" data-tags=""></span>
+
+---
+tipo: quesito-translation
+translation_of: src_cgen_1998__Q04
+lang: it
+secondary: true
+title: "Concours Général des Lycées 1998  Matematica  Quesito 4"
+summary: "Punto su segmento tra due linee attraverso O; ridurre al minimo la superficie e quindi il perimetro"
+topics: [topic_geometria_piana, topic_trigonometria]
+methods: [method_estremalita, method_trigonometria, method_simmetria]
+skills: [skill_ragionamento_geometrico, skill_modellizzazione, skill_manipolazione_algebrica]
+tags: [kg/translation, topic/geometria_piana, topic/trigonometria]---
 
 *Punto su segmento tra due linee attraverso O; ridurre al minimo la superficie e quindi il perimetro*
 
@@ -141,11 +159,15 @@ level: Concours Général
 > 
 > (2) Indicare che esiste una posizione dei punti $A$ e $B$ per il quale il perimetro del triangolo $OAB$ è minimo, e che in questo caso i perimetri dei triangoli $OAM$ e $OBM$ sono uguali, e che inoltre si mantiene la seguente relazione: $$\frac{AM}{\tan\dfrac{\widehat{OAM}}{2}} = \frac{BM}{\tan\dfrac{\widehat{OBM}}{2}}.$$ Costruire i punti $A$ e $B$ così determinati.
 
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometria]]
+**Metodo:** [[method_estremalita|Principio di estremalita]], [[method_trigonometria|Tecniche trigonometriche]], [[method_simmetria|Sfruttamento della simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
 [[Quesiti/src_cgen_1998#q04|src_cgen_1998__Q04]]
 
 
 
-<span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_combinatoria,topic_geometria_piana,method_induzione,method_estremalita,method_casework,skill_ragionamento_geometrico,skill_astrazione,skill_conteggio_sistematico"></span>
+<span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_combinatoria,topic_geometria_piana,method_induzione,method_estremalita,method_casework,skill_ragionamento_geometrico,skill_astrazione,skill_conteggio_sistematico,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -158,8 +180,8 @@ level: Concours Général
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_induzione|Induzione]], [[method_estremalita|Estremalità]], [[method_casework|Casework]]
-**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_astrazione|Astrazione]], [[skill_conteggio_sistematico|Conteggio sistematico]]
-**Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_astrazione|Astrazione]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Geometria|Geometry]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1d96JAX20649Sa-7D58TjgLwqdERkPcCJ/view)
 
 
@@ -172,4 +194,7 @@ level: Concours Général
 > 
 > Mostrare che nel piano esiste un insieme $S$ di punti $2n - 5$ in modo tale che per ogni triangolo le cui vertici sono punti $A$, esista almeno un punto $S$ che si trova rigorosamente all'interno.
 
-[[Quesiti/src_cgen_1998#q05|src_cgen_1998__Q05]]
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_induzione|Induzione]], [[method_estremalita|Principio di estremalita]], [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_astrazione|Astrazione / generalizzazione]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]

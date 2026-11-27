@@ -38,11 +38,9 @@ level: IMO
 **Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 
-[[Quesiti/src_imho_1986#q01|src_imho_1986__Q01]]
 
 
-
-<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_geometria_piana,method_invarianti,method_trigonometria,skill_ragionamento_geometrico,skill_manipolazione_algebrica,skill_astrazione"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_geometria_piana,method_invarianti,method_trigonometria,method_coordinate,skill_ragionamento_geometrico,skill_manipolazione_algebrica,skill_astrazione"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -52,9 +50,9 @@ level: IMO
 > A triangle $A_1 A_2 A_3$ and a point $P_0$ are given in the plane. We define $A_s = A_{s-3}$ for all $s \ge 4$. We construct a set of points $P_1$, $P_2$, $P_3$, $\ldots$, such that $P_{k+1}$ is the image of $P_k$ under a rotation with center $A_{k+1}$ through angle $120^\circ$ clockwise (for $k = 0, 1, 2, \ldots$). Prove that if $P_{1986} = P_0$, then the triangle $A_1 A_2 A_3$ is equilateral.
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
-**Metodo:** [[method_invarianti|Invarianti]], [[method_trigonometria|Trigonometria]]
+**Metodo:** [[method_invarianti|Invarianti]], [[method_trigonometria|Trigonometria]], [[method_coordinate|Coordinate method]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]]
-**Area:** [[Geometria]]
+**Area:** [[Geometria|Geometry]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1Q7vmoRjHZBnLVOcJfGhRBYvwVepRUaQE/view)
 
 
@@ -65,16 +63,15 @@ level: IMO
 
 > Nel piano sono dati un triangolo $A_1 A_2 A_3$ e un punto $P_0$. Definiamo $A_s = A_{s-3}$ per tutti gli $s \ge 4$. Costruiamo un insieme di punti $P_1$, $P_2$, $P_3$, $\ldots$, in modo che $P_{k+1}$ sia l'immagine di $P_k$ mediante una rotazione di centro $A_{k+1}$ e angolo $120^\circ$ in senso orario (per $k = 0, 1, 2, \ldots$). Dimostrare che, se $P_{1986} = P_0$, allora il triangolo $A_1 A_2 A_3$ è equilatero.
 
+
 **Topic:** [[topic_geometria_piana|Geometria piana]]
-**Metodo:** [[method_invarianti|Invarianti]], [[method_trigonometria|Trigonometria]]
+**Metodo:** [[method_invarianti|Invarianti]], [[method_trigonometria|Trigonometria]], [[method_coordinate|Metodo delle coordinate]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]]
 **Area:** [[Geometria]]
 
-[[Quesiti/src_imho_1986#q02|src_imho_1986__Q02]]
 
 
-
-<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_combinatoria,topic_algebra,method_invarianti,method_invarianti,skill_astrazione,skill_riconoscimento_pattern,skill_modellizzazione"></span>
+<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_combinatoria,topic_algebra,method_invarianti,method_invarianti,skill_astrazione,skill_riconoscimento_pattern,skill_modellizzazione,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -84,9 +81,9 @@ level: IMO
 > To each vertex of a regular pentagon an integer is assigned in such a way that the sum of all five numbers is positive. If three consecutive vertices are assigned the numbers $x$, $y$, $z$ respectively and $y < 0$ then the following operation is allowed: the numbers $x$, $y$, $z$ are replaced by $x + y$, $-y$, $z + y$ respectively. Such an operation is performed repeatedly as long as at least one of the five numbers is negative. Determine whether this procedure necessarily comes to an end after a finite number of steps.
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_algebra|Algebra]]
-**Metodo:** [[method_invarianti|Invarianti]], [[method_invarianti|method_invarianti]]
-**Abilita:** [[skill_astrazione|Astrazione]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_modellizzazione|Modellizzazione]]
-**Area:** [[Combinatoria, Logica e Probabilita]], [[Algebra e Analisi]]
+**Metodo:** [[method_invarianti|Invarianti]], [[method_invarianti|Invarianti]]
+**Abilita:** [[skill_astrazione|Astrazione]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_modellizzazione|Modellizzazione]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Algebra e Analisi|Algebra and analysis]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1Q7vmoRjHZBnLVOcJfGhRBYvwVepRUaQE/view)
 
 
@@ -97,12 +94,11 @@ level: IMO
 
 > A ciascun vertice di un pentagono regolare viene assegnato un numero intero in modo tale che la somma di tutti e cinque i numeri sia positiva. Se a tre vertici consecutivi vengono assegnati rispettivamente i numeri $x$, $y$, $z$ e $y < 0$, allora è ammessa la seguente operazione: i numeri $x$, $y$, $z$ vengono sostituiti rispettivamente con $x + y$, $-y$, $z + y$. Tale operazione viene eseguita ripetutamente finché almeno uno dei cinque numeri è negativo. Determinare se questa procedura giunga necessariamente a termine dopo un numero finito di passi.
 
-**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_algebra|Algebra]]
-**Metodo:** [[method_invarianti|Invarianti]], [[method_invarianti|method_invarianti]]
-**Abilita:** [[skill_astrazione|Astrazione]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_modellizzazione|Modellizzazione]]
-**Area:** [[Combinatoria, Logica e Probabilita]], [[Algebra e Analisi]]
 
-[[Quesiti/src_imho_1986#q03|src_imho_1986__Q03]]
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_invarianti|Invarianti]], [[method_invarianti|Invarianti]]
+**Abilita:** [[skill_astrazione|Astrazione]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_modellizzazione|Modellizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Algebra e Analisi]]
 
 
 
@@ -133,8 +129,6 @@ level: IMO
 **Metodo:** [[method_coordinate|Coordinate]], [[method_simmetria|Simmetria]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]], [[skill_astrazione|Astrazione]]
 **Area:** [[Geometria]]
-
-[[Quesiti/src_imho_1986#q04|src_imho_1986__Q04]]
 
 
 
@@ -174,8 +168,6 @@ level: IMO
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Algebra e Analisi]]
 
-[[Quesiti/src_imho_1986#q05|src_imho_1986__Q05]]
-
 
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_combinatoria,method_bigezione,method_grafi,method_colorazione,skill_astrazione,skill_modellizzazione,skill_ragionamento_geometrico"></span>
@@ -205,5 +197,3 @@ level: IMO
 **Metodo:** [[method_bigezione|Biiezione]], [[method_grafi|Grafi]], [[method_colorazione|Colorazione]]
 **Abilita:** [[skill_astrazione|Astrazione]], [[skill_modellizzazione|Modellizzazione]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
-
-[[Quesiti/src_imho_1986#q06|src_imho_1986__Q06]]

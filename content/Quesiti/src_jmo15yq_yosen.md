@@ -41,11 +41,9 @@ level: JMO Yosen
 
 **Risposta:** 6
 
-[[Quesiti/src_jmo15yq_yosen#q01|src_jmo15yq_yosen__Q01]]
 
 
-
-<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_geometria_analitica,topic_aritmetica,method_estremalita,method_coordinate,skill_manipolazione_algebrica,skill_ragionamento_geometrico,skill_lettura_attenta"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_geometria_analitica,topic_aritmetica,method_estremalita,method_coordinate,method_congruenze,skill_manipolazione_algebrica,skill_ragionamento_geometrico,skill_lettura_attenta"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -55,9 +53,9 @@ level: JMO Yosen
 > Consider the line $4x + 3y = 1$. Among all possible distances from a point on this line to a lattice point (a point with both coordinates integers) that does not lie on the line, find the minimum value. Here a lattice point is a point whose $x$- and $y$-coordinates are both integers.
 
 **Topic:** [[topic_geometria_analitica|Geometria analitica]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_estremalita|Estremalità]], [[method_coordinate|Coordinate]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_coordinate|Coordinate]], [[method_congruenze|Modular arithmetic / congruences]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
-**Area:** [[Geometria]], [[Aritmetica e Teoria dei Numeri]]
+**Area:** [[Geometria|Geometry]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Risposta:** $\frac{1}{5}$
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1U0B4J7kz0GCuLgpT6xVC035HnhfXT4-8/view)
 
@@ -69,12 +67,11 @@ level: JMO Yosen
 
 > Si consideri la retta $4x + 3y = 1$. Tra tutte le distanze possibili da un punto di questa retta a un punto della rete (un punto le cui due coordinate sono numeri interi) che non giace sulla retta, si determini il valore minimo. Qui, un punto della rete è un punto le cui coordinate $x$ e $y$ sono entrambe intere.
 
+
 **Topic:** [[topic_geometria_analitica|Geometria analitica]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_estremalita|Estremalità]], [[method_coordinate|Coordinate]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_coordinate|Coordinate]], [[method_congruenze|Aritmetica modulare / congruenze]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Geometria]], [[Aritmetica e Teoria dei Numeri]]
-
-[[Quesiti/src_jmo15yq_yosen#q02|src_jmo15yq_yosen__Q02]]
 
 
 
@@ -107,11 +104,9 @@ level: JMO Yosen
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 
-[[Quesiti/src_jmo15yq_yosen#q03|src_jmo15yq_yosen__Q03]]
 
 
-
-<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_probabilita,method_ricorsione,method_casework,skill_conteggio_sistematico,skill_modellizzazione"></span>
+<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_probabilita,method_ricorsione,method_casework,skill_conteggio_sistematico,skill_modellizzazione,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -122,8 +117,8 @@ level: JMO Yosen
 
 **Topic:** [[topic_probabilita|Probabilità]]
 **Metodo:** [[method_ricorsione|Ricorsione]], [[method_casework|Casework]]
-**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione]]
-**Area:** [[Combinatoria, Logica e Probabilita]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione]], [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Risposta:** $\frac{1}{3}$
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1U0B4J7kz0GCuLgpT6xVC035HnhfXT4-8/view)
 
@@ -135,12 +130,11 @@ level: JMO Yosen
 
 > Si lancia ripetutamente un dado equo (le cui facce sono numerate da $1$ a $6$). Qual è la probabilità che, in qualche momento fino al sesto lancio incluso, la somma cumulativa di tutti i risultati sia esattamente $6$?
 
+
 **Topic:** [[topic_probabilita|Probabilità]]
 **Metodo:** [[method_ricorsione|Ricorsione]], [[method_casework|Casework]]
-**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
-
-[[Quesiti/src_jmo15yq_yosen#q04|src_jmo15yq_yosen__Q04]]
 
 
 
@@ -172,8 +166,6 @@ level: JMO Yosen
 **Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_casework|Casework]]
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
-
-[[Quesiti/src_jmo15yq_yosen#q05|src_jmo15yq_yosen__Q05]]
 
 
 
@@ -208,11 +200,9 @@ level: JMO Yosen
 
 **Risposta:** 2^{35/3}
 
-[[Quesiti/src_jmo15yq_yosen#q06|src_jmo15yq_yosen__Q06]]
 
 
-
-<span class="atom-split" id="q07" data-atom="q07" data-title="Quesito 7" data-tags="topic_aritmetica,method_fattorizzazione,method_casework,skill_manipolazione_algebrica,skill_conteggio_sistematico"></span>
+<span class="atom-split" id="q07" data-atom="q07" data-title="Quesito 7" data-tags="topic_aritmetica,method_fattorizzazione,method_casework,method_congruenze,skill_manipolazione_algebrica,skill_conteggio_sistematico"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -222,9 +212,9 @@ level: JMO Yosen
 > How many positive integers $n$ less than $50$ satisfy the following condition: there exist integers $a \ge 1$ and $b \ge 1$ such that $a^2 - b^2 = n$?
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_casework|Casework]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_casework|Casework]], [[method_congruenze|Modular arithmetic / congruences]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]]
-**Area:** [[Aritmetica e Teoria dei Numeri]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Risposta:** 33
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1U0B4J7kz0GCuLgpT6xVC035HnhfXT4-8/view)
 
@@ -236,12 +226,11 @@ level: JMO Yosen
 
 > Quanti numeri interi positivi $n$ minori di $50$ soddisfano la seguente condizione: esistono numeri interi $a \ge 1$ e $b \ge 1$ tali che $a^2 - b^2 = n$?
 
+
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_casework|Casework]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_casework|Casework]], [[method_congruenze|Aritmetica modulare / congruenze]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
-
-[[Quesiti/src_jmo15yq_yosen#q07|src_jmo15yq_yosen__Q07]]
 
 
 
@@ -273,11 +262,9 @@ level: JMO Yosen
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 
-[[Quesiti/src_jmo15yq_yosen#q08|src_jmo15yq_yosen__Q08]]
 
 
-
-<span class="atom-split" id="q09" data-atom="q09" data-title="Quesito 9" data-tags="topic_geometria_piana,method_trigonometria,method_casework,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
+<span class="atom-split" id="q09" data-atom="q09" data-title="Quesito 9" data-tags="topic_geometria_piana,topic_trigonometria,method_trigonometria,method_casework,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -286,10 +273,10 @@ level: JMO Yosen
 
 > Let $P$ be a point inside a regular pentagon $ABCDE$ such that $\angle ABP = 6^\circ$ and $\angle AEP = 12^\circ$. Find the measure of $\angle PAC$.
 
-**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometry]]
 **Metodo:** [[method_trigonometria|Trigonometria]], [[method_casework|Casework]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
-**Area:** [[Geometria]]
+**Area:** [[Geometria|Geometry]]
 **Risposta:** $24^\circ$
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1U0B4J7kz0GCuLgpT6xVC035HnhfXT4-8/view)
 
@@ -301,16 +288,15 @@ level: JMO Yosen
 
 > Sia $P$ un punto all'interno di un pentagono regolare $ABCDE$ tale che $\angle ABP = 6^\circ$ e $\angle AEP = 12^\circ$. Determinare la misura di $\angle PAC$.
 
-**Topic:** [[topic_geometria_piana|Geometria piana]]
+
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometria]]
 **Metodo:** [[method_trigonometria|Trigonometria]], [[method_casework|Casework]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 
-[[Quesiti/src_jmo15yq_yosen#q09|src_jmo15yq_yosen__Q09]]
 
 
-
-<span class="atom-split" id="q10" data-atom="q10" data-title="Quesito 10" data-tags="topic_aritmetica,topic_combinatoria,method_estremalita,method_conteggio,method_casework,skill_conteggio_sistematico,skill_manipolazione_algebrica,skill_riconoscimento_pattern"></span>
+<span class="atom-split" id="q10" data-atom="q10" data-title="Quesito 10" data-tags="topic_aritmetica,topic_combinatoria,method_estremalita,method_conteggio,method_casework,method_congruenze,skill_conteggio_sistematico,skill_manipolazione_algebrica,skill_riconoscimento_pattern"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -320,9 +306,9 @@ level: JMO Yosen
 > For a positive integer $n$, let $S(n)$ denote the sum of the digits of $n$. For example, $S(611) = 6 + 1 + 1 = 8$. Let $a, b, c$ be three-digit positive integers satisfying $a + b + c = 2005$. Let $M$ be the maximum possible value of $S(a) + S(b) + S(c)$. How many ordered triples $(a, b, c)$ achieve $S(a) + S(b) + S(c) = M$? (Triples that differ in the order of $a, b, c$ are counted as distinct.)
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
-**Metodo:** [[method_estremalita|Estremalità]], [[method_conteggio|Conteggio]], [[method_casework|Casework]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_conteggio|Conteggio]], [[method_casework|Casework]], [[method_congruenze|Modular arithmetic / congruences]]
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
-**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1U0B4J7kz0GCuLgpT6xVC035HnhfXT4-8/view)
 
 
@@ -333,12 +319,11 @@ level: JMO Yosen
 
 > Sia $n$ un numero intero positivo; indichiamo con $S(n)$ la somma delle cifre di $n$. Ad esempio, $S(611) = 6 + 1 + 1 = 8$. Sia $a, b, c$ l'insieme dei numeri interi positivi di tre cifre che soddisfano $a + b + c = 2005$. Sia $M$ il valore massimo possibile di $S(a) + S(b) + S(c)$. Quante triple ordinate $(a, b, c)$ realizzano $S(a) + S(b) + S(c) = M$? (Le triple che differiscono nell'ordine di $a, b, c$ sono considerate distinte.)
 
+
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
-**Metodo:** [[method_estremalita|Estremalità]], [[method_conteggio|Conteggio]], [[method_casework|Casework]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_conteggio|Conteggio]], [[method_casework|Casework]], [[method_congruenze|Aritmetica modulare / congruenze]]
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
-
-[[Quesiti/src_jmo15yq_yosen#q10|src_jmo15yq_yosen__Q10]]
 
 
 
@@ -370,11 +355,9 @@ level: JMO Yosen
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]]
 **Area:** [[Geometria]]
 
-[[Quesiti/src_jmo15yq_yosen#q11|src_jmo15yq_yosen__Q11]]
 
 
-
-<span class="atom-split" id="q12" data-atom="q12" data-title="Quesito 12" data-tags="topic_combinatoria,method_grafi,method_induzione,method_invarianti,skill_modellizzazione,skill_astrazione,skill_ragionamento_geometrico"></span>
+<span class="atom-split" id="q12" data-atom="q12" data-title="Quesito 12" data-tags="topic_combinatoria,method_grafi,method_induzione,method_invarianti,method_congruenze,skill_modellizzazione,skill_astrazione,skill_ragionamento_geometrico"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -384,9 +367,9 @@ level: JMO Yosen
 > There are $80$ islands and $2005$ bridges. Each pair of islands is connected by at most one bridge, and some pairs may have no bridge. From any island, it is possible to reach any other island by crossing a sequence of bridges (i.e., the graph is connected). We wish to destroy some of the $2005$ bridges so that after destruction, every island has an even number of bridges remaining. (Destroying $0$ bridges is allowed; after destruction the graph need not remain connected; and after destruction, it is also acceptable if some island becomes unreachable from another.) For each island, the number of remaining bridges must be even (possibly zero). Over all connected graphs on $80$ vertices with $2005$ edges, find the maximum number of ways to choose which bridges to destroy.
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
-**Metodo:** [[method_grafi|Grafi]], [[method_induzione|Induzione]], [[method_invarianti|Invarianti]]
+**Metodo:** [[method_grafi|Grafi]], [[method_induzione|Induzione]], [[method_invarianti|Invarianti]], [[method_congruenze|Modular arithmetic / congruences]]
 **Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_astrazione|Astrazione]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
-**Area:** [[Combinatoria, Logica e Probabilita]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Risposta:** $2^{1926}$
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1U0B4J7kz0GCuLgpT6xVC035HnhfXT4-8/view)
 
@@ -399,7 +382,9 @@ level: JMO Yosen
 > Ci sono $80$ isole e $2005$ ponti. Ogni coppia di isole è unita da al più un ponte, e qualche coppia può non averne. Da qualunque isola si può raggiungere qualunque altra attraversando una sequenza di ponti (il grafo è connesso). Si vogliono distruggerne alcuni, tra i $2005$ ponti, in modo che dopo la distruzione ogni isola resti con un numero pari di ponti. (È ammesso distruggerne $0$; dopo la distruzione il grafo non deve restare connesso; ed è accettabile che qualche isola diventi irraggiungibile da un'altra.) Per ogni isola il numero di ponti rimasti deve essere pari (eventualmente zero). Tra tutti i grafi connessi su $80$ vertici e $2005$ spigoli, trovare il numero massimo di modi di scegliere quali ponti distruggere.
 
 **Argomento:** [[topic_combinatoria|Combinatoria]]
-**Metodo:** [[method_grafi|Teoria dei grafi]], [[method_induzione|Induzione]], [[method_invarianti|Invarianti / monovarianti]]
-**Abilità:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_astrazione|Astrazione / generalizzazione]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_grafi|Teoria dei grafi]], [[method_induzione|Induzione]], [[method_invarianti|Invarianti / monovarianti]], [[method_congruenze|Aritmetica modulare / congruenze]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_astrazione|Astrazione / generalizzazione]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** $2^{1926}$
-[[Quesiti/src_jmo15yq_yosen#q12|src_jmo15yq_yosen__Q12]]

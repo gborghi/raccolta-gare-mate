@@ -38,11 +38,9 @@ level: BMO Round 1
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 
-[[Quesiti/src_bmo_2005-06_round1#q01|src_bmo_2005-06_round1__Q01]]
 
 
-
-<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_combinatoria,method_casi_conteggio,method_conteggio,skill_conteggio_sistematico,skill_casework_accurato"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_combinatoria,method_casi_conteggio,method_conteggio,skill_conteggio_sistematico,skill_casework_accurato,skill_lettura_attenta"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -57,8 +55,8 @@ level: BMO Round 1
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_casi_conteggio|Casi e conteggio]], [[method_conteggio|Conteggio]]
-**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]]
-**Area:** [[Combinatoria, Logica e Probabilita]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]], [[skill_lettura_attenta|Careful reading of the text]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1ACdbMhLNzOHLoNNU5Xjq2GjkpHR02teG/view)
 
 
@@ -73,16 +71,15 @@ level: BMO Round 1
 >
 > ii) In quanti modi può dividerli in tre squadre da quattro?
 
+
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_casi_conteggio|Casi e conteggio]], [[method_conteggio|Conteggio]]
-**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]], [[skill_lettura_attenta|Lettura attenta del testo]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 
-[[Quesiti/src_bmo_2005-06_round1#q02|src_bmo_2005-06_round1__Q02]]
 
 
-
-<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_geometria_piana,method_trigonometria,skill_ragionamento_geometrico"></span>
+<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_geometria_piana,method_trigonometria,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -93,8 +90,8 @@ level: BMO Round 1
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_trigonometria|Trigonometria]]
-**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
-**Area:** [[Geometria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Geometria|Geometry]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1ACdbMhLNzOHLoNNU5Xjq2GjkpHR02teG/view)
 
 
@@ -105,16 +102,15 @@ level: BMO Round 1
 
 > Nel quadrilatero ciclico $ABCD$, la diagonale $AC$ biseca l'angolo $DAB$. Il lato $AD$ viene prolungato oltre $D$ fino a un punto $E$. Dimostrare che $CE = CA$ se e solo se $DE = AB$.
 
+
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_trigonometria|Trigonometria]]
-**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 
-[[Quesiti/src_bmo_2005-06_round1#q03|src_bmo_2005-06_round1__Q03]]
 
 
-
-<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_combinatoria,topic_geometria_piana,method_colorazione,method_estremalita,skill_conteggio_sistematico,skill_ragionamento_geometrico"></span>
+<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_combinatoria,topic_geometria_piana,method_colorazione,method_estremalita,method_conteggio,method_casework,skill_conteggio_sistematico,skill_ragionamento_geometrico"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -126,9 +122,9 @@ level: BMO Round 1
 > A continuous route is chosen, starting inside the cell with vertex $A$ and always crossing from one cell to another through an edge shared by the two cells. No cell is visited more than once. Find, with proof, the greatest number of cells which can be visited.
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_geometria_piana|Geometria piana]]
-**Metodo:** [[method_colorazione|Colorazione]], [[method_estremalita|Estremalità]]
+**Metodo:** [[method_colorazione|Colorazione]], [[method_estremalita|Estremalità]], [[method_conteggio|Combinatorial counting]], [[method_casework|Case analysis]]
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
-**Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Geometria|Geometry]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1ACdbMhLNzOHLoNNU5Xjq2GjkpHR02teG/view)
 
 
@@ -141,16 +137,15 @@ level: BMO Round 1
 >
 > Si sceglie un percorso continuo che parte all'interno della cella con vertice $A$ e passa sempre da una cella all'altra attraverso un lato comune alle due celle. Nessuna cella viene visitata più di una volta. Determinare, con dimostrazione, il numero massimo di celle che si possono visitare.
 
+
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_geometria_piana|Geometria piana]]
-**Metodo:** [[method_colorazione|Colorazione]], [[method_estremalita|Estremalità]]
+**Metodo:** [[method_colorazione|Colorazione]], [[method_estremalita|Estremalità]], [[method_conteggio|Conteggio combinatorio]], [[method_casework|Analisi per casi]]
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 
-[[Quesiti/src_bmo_2005-06_round1#q04|src_bmo_2005-06_round1__Q04]]
 
 
-
-<span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_geometria_piana,method_simmetria,skill_ragionamento_geometrico,skill_astrazione"></span>
+<span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_geometria_piana,method_simmetria,method_coordinate,skill_ragionamento_geometrico,skill_astrazione"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -160,9 +155,9 @@ level: BMO Round 1
 > Let $G$ be a convex quadrilateral. Show that there is a point $X$ in the plane of $G$ with the property that every straight line through $X$ divides $G$ into two regions of equal area if and only if $G$ is a parallelogram.
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
-**Metodo:** [[method_simmetria|Simmetria]]
+**Metodo:** [[method_simmetria|Simmetria]], [[method_coordinate|Coordinate method]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_astrazione|Astrazione]]
-**Area:** [[Geometria]]
+**Area:** [[Geometria|Geometry]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1ACdbMhLNzOHLoNNU5Xjq2GjkpHR02teG/view)
 
 
@@ -173,16 +168,15 @@ level: BMO Round 1
 
 > Sia $G$ un quadrilatero convesso. Dimostrare che esiste un punto $X$ nel piano di $G$ tale che ogni retta passante per $X$ divide $G$ in due regioni di area uguale se e solo se $G$ è un parallelogramma.
 
+
 **Topic:** [[topic_geometria_piana|Geometria piana]]
-**Metodo:** [[method_simmetria|Simmetria]]
+**Metodo:** [[method_simmetria|Simmetria]], [[method_coordinate|Metodo delle coordinate]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_astrazione|Astrazione]]
 **Area:** [[Geometria]]
 
-[[Quesiti/src_bmo_2005-06_round1#q05|src_bmo_2005-06_round1__Q05]]
 
 
-
-<span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_combinatoria,topic_geometria_piana,method_doppio_conteggio,method_conteggio,method_invarianti,skill_conteggio_sistematico,skill_astrazione"></span>
+<span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_combinatoria,topic_geometria_piana,method_doppio_conteggio,method_conteggio,method_invarianti,skill_conteggio_sistematico,skill_astrazione,skill_ragionamento_geometrico"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -193,8 +187,8 @@ level: BMO Round 1
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_doppio_conteggio|Doppio conteggio]], [[method_conteggio|Conteggio]], [[method_invarianti|Invarianti]]
-**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_astrazione|Astrazione]]
-**Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_astrazione|Astrazione]], [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Geometria|Geometry]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1ACdbMhLNzOHLoNNU5Xjq2GjkpHR02teG/view)
 
 
@@ -205,9 +199,8 @@ level: BMO Round 1
 
 > Sia $T$ un insieme di $2005$ punti complanari, senza tre punti allineati. Dimostrare che, per ciascuno dei $2005$ punti, il numero di triangoli all'interno dei quali esso giace strettamente e i cui vertici sono punti in $T$ è pari.
 
+
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_doppio_conteggio|Doppio conteggio]], [[method_conteggio|Conteggio]], [[method_invarianti|Invarianti]]
-**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_astrazione|Astrazione]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_astrazione|Astrazione]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
-
-[[Quesiti/src_bmo_2005-06_round1#q06|src_bmo_2005-06_round1__Q06]]

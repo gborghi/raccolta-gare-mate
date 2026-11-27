@@ -36,11 +36,9 @@ level: OBM Nível 2
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 
-[[Quesiti/src_obm_2020_n2_fx#q01|src_obm_2020_n2_fx__Q01]]
 
 
-
-<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_algebra,topic_aritmetica,method_fattorizzazione,method_casework,skill_manipolazione_algebrica,skill_lettura_attenta,skill_casework_accurato"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_algebra,topic_aritmetica,method_fattorizzazione,method_casework,method_congruenze,skill_manipolazione_algebrica,skill_lettura_attenta,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -54,9 +52,9 @@ level: OBM Nível 2
 > Here $\blacksquare$ represents some number of digits that have been erased from the blackboard. What are all the possible equations that were originally written on the blackboard?
 
 **Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_casework|Casework]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_casework|Casework]], [[method_congruenze|Modular arithmetic / congruences]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_casework_accurato|Casework accurato]]
-**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1vSPhi1IBs_GXoeZQdIgUwHrBOv7HATcw/view)
 
 
@@ -71,16 +69,15 @@ level: OBM Nível 2
 >
 > Qui $\blacksquare$ rappresenta un certo numero di cifre che sono state cancellate dalla lavagna. Quali sono tutte le equazioni che erano state scritte originariamente sulla lavagna?
 
+
 **Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_casework|Casework]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_casework|Casework]], [[method_congruenze|Aritmetica modulare / congruenze]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 
-[[Quesiti/src_obm_2020_n2_fx#q02|src_obm_2020_n2_fx__Q02]]
 
 
-
-<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_aritmetica,topic_algebra,method_backward,method_invarianti,method_ricorsione,skill_riconoscimento_pattern,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
+<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_aritmetica,topic_algebra,topic_funzionali,method_backward,method_invarianti,method_ricorsione,skill_riconoscimento_pattern,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -96,10 +93,10 @@ level: OBM Nível 2
 > 
 > Find the smallest possible value of $x_1$ for which the sequence contains some term equal to $2020$.
 
-**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]], [[topic_funzionali|Functional equations / sequences]]
 **Metodo:** [[method_backward|Backward]], [[method_invarianti|Invarianti]], [[method_ricorsione|Ricorsione]]
 **Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
-**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Algebra e Analisi|Algebra and analysis]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1vSPhi1IBs_GXoeZQdIgUwHrBOv7HATcw/view)
 
 
@@ -116,12 +113,11 @@ level: OBM Nível 2
 >
 > Trovare il valore minimo possibile di $x_1$ per cui la successione contiene un termine uguale a $2020$.
 
-**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]], [[topic_funzionali|Equazioni funzionali / successioni]]
 **Metodo:** [[method_backward|Backward]], [[method_invarianti|Invarianti]], [[method_ricorsione|Ricorsione]]
 **Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
-
-[[Quesiti/src_obm_2020_n2_fx#q03|src_obm_2020_n2_fx__Q03]]
 
 
 
@@ -161,8 +157,6 @@ level: OBM Nível 2
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 
-[[Quesiti/src_obm_2020_n2_fx#q04|src_obm_2020_n2_fx__Q04]]
-
 
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_geometria_piana,method_trigonometria,skill_ragionamento_geometrico,skill_manipolazione_algebrica,skill_astrazione"></span>
@@ -193,11 +187,9 @@ level: OBM Nível 2
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]]
 **Area:** [[Geometria]]
 
-[[Quesiti/src_obm_2020_n2_fx#q05|src_obm_2020_n2_fx__Q05]]
 
 
-
-<span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_combinatoria,topic_logica,method_invarianti,method_colorazione,method_casework,skill_astrazione,skill_modellizzazione,skill_lettura_attenta"></span>
+<span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_combinatoria,topic_logica,method_invarianti,method_colorazione,method_casework,skill_astrazione,skill_modellizzazione,skill_lettura_attenta,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -210,8 +202,8 @@ level: OBM Nível 2
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_logica|Logica]]
 **Metodo:** [[method_invarianti|Invarianti]], [[method_colorazione|Colorazione]], [[method_casework|Casework]]
-**Abilita:** [[skill_astrazione|Astrazione]], [[skill_modellizzazione|Modellizzazione]], [[skill_lettura_attenta|Lettura attenta]]
-**Area:** [[Combinatoria, Logica e Probabilita]]
+**Abilita:** [[skill_astrazione|Astrazione]], [[skill_modellizzazione|Modellizzazione]], [[skill_lettura_attenta|Lettura attenta]], [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1vSPhi1IBs_GXoeZQdIgUwHrBOv7HATcw/view)
 
 
@@ -224,9 +216,8 @@ level: OBM Nível 2
 >
 > Trovare tutti i valori di $k$ per cui Arnaldo ha una strategia vincente.
 
+
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_logica|Logica]]
 **Metodo:** [[method_invarianti|Invarianti]], [[method_colorazione|Colorazione]], [[method_casework|Casework]]
-**Abilita:** [[skill_astrazione|Astrazione]], [[skill_modellizzazione|Modellizzazione]], [[skill_lettura_attenta|Lettura attenta]]
+**Abilita:** [[skill_astrazione|Astrazione]], [[skill_modellizzazione|Modellizzazione]], [[skill_lettura_attenta|Lettura attenta]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
-
-[[Quesiti/src_obm_2020_n2_fx#q06|src_obm_2020_n2_fx__Q06]]

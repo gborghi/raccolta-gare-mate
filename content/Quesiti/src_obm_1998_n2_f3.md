@@ -10,7 +10,7 @@ level: OBM Nível 2
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_geometria_piana,method_estremalita,method_casework,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_geometria_piana,method_estremalita,method_casework,method_doppio_conteggio,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -20,9 +20,9 @@ level: OBM Nível 2
 > Prove that in any convex pentagon there exist two consecutive interior angles whose sum is greater than or equal to $216^\circ$.
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
-**Metodo:** [[method_estremalita|Estremalità]], [[method_casework|Casework]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_casework|Casework]], [[method_doppio_conteggio|Double counting]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
-**Area:** [[Geometria]]
+**Area:** [[Geometria|Geometry]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/15LXpd9sC47d1fJN8vNPdURXTArxbZUUH/view)
 
 
@@ -33,12 +33,11 @@ level: OBM Nível 2
 
 > Dimostrare che in ogni pentagono convesso esistono due angoli interni consecutivi la cui somma è maggiore o uguale a $216^\circ$.
 
+
 **Topic:** [[topic_geometria_piana|Geometria piana]]
-**Metodo:** [[method_estremalita|Estremalità]], [[method_casework|Casework]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_casework|Casework]], [[method_doppio_conteggio|Doppio conteggio]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
-
-[[Quesiti/src_obm_1998_n2_f3#q01|src_obm_1998_n2_f3__Q01]]
 
 
 
@@ -69,8 +68,6 @@ level: OBM Nível 2
 **Metodo:** [[method_trigonometria|Trigonometria]], [[method_coordinate|Coordinate]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
-
-[[Quesiti/src_obm_1998_n2_f3#q02|src_obm_1998_n2_f3__Q02]]
 
 
 
@@ -114,11 +111,9 @@ level: OBM Nível 2
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 
-[[Quesiti/src_obm_1998_n2_f3#q03|src_obm_1998_n2_f3__Q03]]
 
 
-
-<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_aritmetica,method_casework,method_fattorizzazione,skill_ragionamento_geometrico,skill_lettura_attenta,skill_manipolazione_algebrica"></span>
+<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_aritmetica,method_casework,method_fattorizzazione,method_cassetti,skill_ragionamento_geometrico,skill_lettura_attenta,skill_manipolazione_algebrica,skill_stima"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -128,9 +123,9 @@ level: OBM Nível 2
 > Let 15 natural numbers greater than $1$ and less than $1998$ be given such that any two of them are coprime. Prove that at least one of these 15 numbers is prime.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_casework|Casework]], [[method_fattorizzazione|Fattorizzazione]]
-**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
-**Area:** [[Aritmetica e Teoria dei Numeri]]
+**Metodo:** [[method_casework|Casework]], [[method_fattorizzazione|Fattorizzazione]], [[method_cassetti|Pigeonhole principle]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Estimation and approximation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/15LXpd9sC47d1fJN8vNPdURXTArxbZUUH/view)
 
 
@@ -141,9 +136,8 @@ level: OBM Nível 2
 
 > Siano dati 15 numeri naturali maggiori di $1$ e minori di $1998$ tali che ogni coppia di essi sia coprima. Dimostrare che almeno uno di questi 15 numeri è primo.
 
-**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_casework|Casework]], [[method_fattorizzazione|Fattorizzazione]]
-**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
-**Area:** [[Aritmetica e Teoria dei Numeri]]
 
-[[Quesiti/src_obm_1998_n2_f3#q04|src_obm_1998_n2_f3__Q04]]
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Casework]], [[method_fattorizzazione|Fattorizzazione]], [[method_cassetti|Principio dei cassetti]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima e approssimazione]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]

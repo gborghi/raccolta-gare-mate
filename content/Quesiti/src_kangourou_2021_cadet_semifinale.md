@@ -10,7 +10,7 @@ level: kangourou
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_combinatoria,method_conteggio,skill_conteggio_sistematico"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_combinatoria,method_conteggio,method_casi_conteggio,skill_conteggio_sistematico,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -33,8 +33,8 @@ level: kangourou
 > E) 10
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
-**Metodo:** [[method_conteggio|Conteggio combinatorio]]
-**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Metodo:** [[method_conteggio|Conteggio combinatorio]], [[method_casi_conteggio|Conteggio per casi]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** B
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/192haU1dJ1xBqMu3y_ohONdnFUA6Bf3rI/view)
@@ -54,15 +54,14 @@ level: kangourou
 > E) 10
 
 **Topic:** [[topic_combinatoria|Combinatorics]]
-**Method:** [[method_conteggio|Combinatorial counting]]
-**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+**Metodo:** [[method_conteggio|Combinatorial counting]], [[method_casi_conteggio|Counting by cases]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]], [[skill_casework_accurato|Careful case analysis]]
 **Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** B
-[[Quesiti/src_kangourou_2021_cadet_semifinale#q01|src_kangourou_2021_cadet_semifinale__Q01]]
 
 
 
-<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_logica,topic_combinatoria,method_backward,skill_casework_accurato"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_logica,topic_combinatoria,method_backward,method_casework,skill_casework_accurato,skill_modellizzazione"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -86,8 +85,8 @@ level: kangourou
 > E) 32
 
 **Topic:** [[topic_logica|Logica, giochi, strategie]], [[topic_combinatoria|Combinatoria]]
-**Metodo:** [[method_backward|Ragionamento all'indietro]]
-**Abilita:** [[skill_casework_accurato|Casework accurato]]
+**Metodo:** [[method_backward|Ragionamento all'indietro]], [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** B
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/192haU1dJ1xBqMu3y_ohONdnFUA6Bf3rI/view)
@@ -107,15 +106,14 @@ level: kangourou
 > E) 32
 
 **Topic:** [[topic_logica|Logic, games and strategies]], [[topic_combinatoria|Combinatorics]]
-**Method:** [[method_backward|Working backwards]]
-**Skill:** [[skill_casework_accurato|Careful case analysis]]
+**Metodo:** [[method_backward|Working backwards]], [[method_casework|Case analysis]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]], [[skill_modellizzazione|Modelling / translating the text]]
 **Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** B
-[[Quesiti/src_kangourou_2021_cadet_semifinale#q02|src_kangourou_2021_cadet_semifinale__Q02]]
 
 
 
-<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_algebra,topic_combinatoria,skill_casework_accurato"></span>
+<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_algebra,topic_combinatoria,method_fattorizzazione,skill_casework_accurato,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -157,7 +155,8 @@ level: kangourou
 > E) 1
 
 **Topic:** [[topic_algebra|Algebra]], [[topic_combinatoria|Combinatoria]]
-**Abilita:** [[skill_casework_accurato|Casework accurato]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
+**Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Algebra e Analisi]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** D
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/192haU1dJ1xBqMu3y_ohONdnFUA6Bf3rI/view)
@@ -179,14 +178,14 @@ level: kangourou
 > E) 1
 
 **Topic:** [[topic_algebra|Algebra]], [[topic_combinatoria|Combinatorics]]
-**Skill:** [[skill_casework_accurato|Careful case analysis]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
 **Area:** [[Algebra e Analisi|Algebra and analysis]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** D
-[[Quesiti/src_kangourou_2021_cadet_semifinale#q03|src_kangourou_2021_cadet_semifinale__Q03]]
 
 
 
-<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_logica,method_casework,skill_lettura_attenta"></span>
+<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_logica,method_casework,skill_lettura_attenta,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -209,7 +208,7 @@ level: kangourou
 
 **Topic:** [[topic_logica|Logica, giochi, strategie]]
 **Metodo:** [[method_casework|Analisi per casi]]
-**Abilita:** [[skill_lettura_attenta|Lettura attenta del testo]]
+**Abilita:** [[skill_lettura_attenta|Lettura attenta del testo]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** C
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/192haU1dJ1xBqMu3y_ohONdnFUA6Bf3rI/view)
@@ -235,15 +234,14 @@ level: kangourou
 > E) Statement c) is the true one.
 
 **Topic:** [[topic_logica|Logic, games and strategies]]
-**Method:** [[method_casework|Case analysis]]
-**Skill:** [[skill_lettura_attenta|Careful reading]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_lettura_attenta|Careful reading]], [[skill_casework_accurato|Careful case analysis]]
 **Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** C
-[[Quesiti/src_kangourou_2021_cadet_semifinale#q04|src_kangourou_2021_cadet_semifinale__Q04]]
 
 
 
-<span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_aritmetica,method_congruenze,skill_manipolazione_algebrica"></span>
+<span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_aritmetica,method_congruenze,skill_manipolazione_algebrica,skill_riconoscimento_pattern"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -279,7 +277,7 @@ level: kangourou
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]]
-**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** D
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/192haU1dJ1xBqMu3y_ohONdnFUA6Bf3rI/view)
@@ -308,15 +306,14 @@ level: kangourou
 > 1
 
 **Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
-**Method:** [[method_congruenze|Modular arithmetic / congruences]]
-**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_riconoscimento_pattern|Pattern recognition]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Answer:** D
-[[Quesiti/src_kangourou_2021_cadet_semifinale#q05|src_kangourou_2021_cadet_semifinale__Q05]]
 
 
 
-<span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_algebra,skill_modellizzazione"></span>
+<span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_algebra,skill_modellizzazione,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -338,7 +335,7 @@ level: kangourou
 > E) 1,5
 
 **Topic:** [[topic_algebra|Algebra]]
-**Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Algebra e Analisi]]
 **Risposta:** A
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/192haU1dJ1xBqMu3y_ohONdnFUA6Bf3rI/view)
@@ -358,14 +355,13 @@ level: kangourou
 > E) 1,5
 
 **Topic:** [[topic_algebra|Algebra]]
-**Skill:** [[skill_modellizzazione|Modelling / translating the text]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
 **Area:** [[Algebra e Analisi|Algebra and analysis]]
 **Answer:** A
-[[Quesiti/src_kangourou_2021_cadet_semifinale#q06|src_kangourou_2021_cadet_semifinale__Q06]]
 
 
 
-<span class="atom-split" id="q07" data-atom="q07" data-title="Quesito 7" data-tags="topic_algebra,topic_aritmetica,skill_manipolazione_algebrica"></span>
+<span class="atom-split" id="q07" data-atom="q07" data-title="Quesito 7" data-tags="topic_algebra,topic_aritmetica,method_fattorizzazione,skill_manipolazione_algebrica,skill_riconoscimento_pattern"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -383,7 +379,8 @@ level: kangourou
 > E) 681754
 
 **Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** B
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/192haU1dJ1xBqMu3y_ohONdnFUA6Bf3rI/view)
@@ -403,14 +400,14 @@ level: kangourou
 > E) 681754
 
 **Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Arithmetic / Number theory]]
-**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_riconoscimento_pattern|Pattern recognition]]
 **Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Answer:** B
-[[Quesiti/src_kangourou_2021_cadet_semifinale#q07|src_kangourou_2021_cadet_semifinale__Q07]]
 
 
 
-<span class="atom-split" id="q08" data-atom="q08" data-title="Quesito 8" data-tags="topic_aritmetica,topic_combinatoria,method_casework,skill_casework_accurato"></span>
+<span class="atom-split" id="q08" data-atom="q08" data-title="Quesito 8" data-tags="topic_aritmetica,topic_combinatoria,method_casework,method_congruenze,skill_casework_accurato,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -430,8 +427,8 @@ level: kangourou
 > E) 6
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
-**Metodo:** [[method_casework|Analisi per casi]]
-**Abilita:** [[skill_casework_accurato|Casework accurato]]
+**Metodo:** [[method_casework|Analisi per casi]], [[method_congruenze|Aritmetica modulare / congruenze]]
+**Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** B
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/192haU1dJ1xBqMu3y_ohONdnFUA6Bf3rI/view)
@@ -451,15 +448,14 @@ level: kangourou
 > E) 6
 
 **Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_combinatoria|Combinatorics]]
-**Method:** [[method_casework|Case analysis]]
-**Skill:** [[skill_casework_accurato|Careful case analysis]]
+**Metodo:** [[method_casework|Case analysis]], [[method_congruenze|Modular arithmetic / congruences]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** B
-[[Quesiti/src_kangourou_2021_cadet_semifinale#q08|src_kangourou_2021_cadet_semifinale__Q08]]
 
 
 
-<span class="atom-split" id="q09" data-atom="q09" data-title="Quesito 9" data-tags="topic_geometria_piana,skill_ragionamento_geometrico"></span>
+<span class="atom-split" id="q09" data-atom="q09" data-title="Quesito 9" data-tags="topic_geometria_piana,method_trigonometria,skill_ragionamento_geometrico,skill_riconoscimento_pattern"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -490,7 +486,8 @@ level: kangourou
 > Quesiti a risposta aperta
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
-**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Metodo:** [[method_trigonometria|Tecniche trigonometriche]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Geometria]]
 **Risposta:** E
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/192haU1dJ1xBqMu3y_ohONdnFUA6Bf3rI/view)
@@ -514,14 +511,14 @@ level: kangourou
 > E) 0
 
 **Topic:** [[topic_geometria_piana|Plane geometry]]
-**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Metodo:** [[method_trigonometria|Trigonometric techniques]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_riconoscimento_pattern|Pattern recognition]]
 **Area:** [[Geometria|Geometry]]
 **Answer:** E
-[[Quesiti/src_kangourou_2021_cadet_semifinale#q09|src_kangourou_2021_cadet_semifinale__Q09]]
 
 
 
-<span class="atom-split" id="q10" data-atom="q10" data-title="Quesito 10" data-tags="topic_combinatoria,topic_logica,method_cassetti,skill_casework_accurato"></span>
+<span class="atom-split" id="q10" data-atom="q10" data-title="Quesito 10" data-tags="topic_combinatoria,topic_logica,method_cassetti,skill_casework_accurato,skill_conteggio_sistematico"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -533,7 +530,7 @@ level: kangourou
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_logica|Logica, giochi, strategie]]
 **Metodo:** [[method_cassetti|Principio dei cassetti]]
-**Abilita:** [[skill_casework_accurato|Casework accurato]]
+**Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 13
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/192haU1dJ1xBqMu3y_ohONdnFUA6Bf3rI/view)
@@ -547,15 +544,14 @@ level: kangourou
 > (4 points) What is the greatest number of times it might be necessary to throw a die for at least one number to come up 3 times?
 
 **Topic:** [[topic_combinatoria|Combinatorics]], [[topic_logica|Logic, games and strategies]]
-**Method:** [[method_cassetti|Pigeonhole principle]]
-**Skill:** [[skill_casework_accurato|Careful case analysis]]
+**Metodo:** [[method_cassetti|Pigeonhole principle]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]], [[skill_conteggio_sistematico|Systematic counting]]
 **Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** 13
-[[Quesiti/src_kangourou_2021_cadet_semifinale#q10|src_kangourou_2021_cadet_semifinale__Q10]]
 
 
 
-<span class="atom-split" id="q11" data-atom="q11" data-title="Quesito 11" data-tags="topic_aritmetica,skill_riconoscimento_pattern"></span>
+<span class="atom-split" id="q11" data-atom="q11" data-title="Quesito 11" data-tags="topic_aritmetica,method_casework,skill_riconoscimento_pattern,skill_casework_accurato,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -566,7 +562,8 @@ level: kangourou
 > Quanti anni sono trascorsi dall’ultima volta in cui ciò è successo?
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Metodo:** [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_casework_accurato|Casework accurato]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 101
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/192haU1dJ1xBqMu3y_ohONdnFUA6Bf3rI/view)
@@ -580,14 +577,14 @@ level: kangourou
 > (5 points) The number 2021 is formed by placing side by side two consecutive integers in increasing order. How many years have passed since the last time this happened?
 
 **Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
-**Skill:** [[skill_riconoscimento_pattern|Pattern recognition]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]], [[skill_casework_accurato|Careful case analysis]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Answer:** 101
-[[Quesiti/src_kangourou_2021_cadet_semifinale#q11|src_kangourou_2021_cadet_semifinale__Q11]]
 
 
 
-<span class="atom-split" id="q12" data-atom="q12" data-title="Quesito 12" data-tags="topic_aritmetica,skill_casework_accurato"></span>
+<span class="atom-split" id="q12" data-atom="q12" data-title="Quesito 12" data-tags="topic_aritmetica,method_congruenze,method_casework,skill_casework_accurato,skill_riconoscimento_pattern"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -598,7 +595,8 @@ level: kangourou
 > (strettamente) crescente da sinistra a destra?
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Abilita:** [[skill_casework_accurato|Casework accurato]]
+**Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]], [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 4578
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/192haU1dJ1xBqMu3y_ohONdnFUA6Bf3rI/view)
@@ -612,10 +610,10 @@ level: kangourou
 > (5 points) What is the largest 4-digit number divisible by 6 whose digits are in (strictly) increasing order from left to right?
 
 **Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
-**Skill:** [[skill_casework_accurato|Careful case analysis]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]], [[method_casework|Case analysis]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]], [[skill_riconoscimento_pattern|Pattern recognition]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Answer:** 4578
-[[Quesiti/src_kangourou_2021_cadet_semifinale#q12|src_kangourou_2021_cadet_semifinale__Q12]]
 
 
 
@@ -650,11 +648,10 @@ level: kangourou
 **Skill:** [[skill_casework_accurato|Careful case analysis]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** 356
-[[Quesiti/src_kangourou_2021_cadet_semifinale#q13|src_kangourou_2021_cadet_semifinale__Q13]]
 
 
 
-<span class="atom-split" id="q14" data-atom="q14" data-title="Quesito 14" data-tags="topic_geometria_piana,skill_ragionamento_geometrico"></span>
+<span class="atom-split" id="q14" data-atom="q14" data-title="Quesito 14" data-tags="topic_geometria_piana,method_trigonometria,skill_ragionamento_geometrico"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -670,6 +667,7 @@ level: kangourou
 > striscia misura √3 cm. Quanti centimetri è lunga la striscia?
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_trigonometria|Tecniche trigonometriche]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]]
 **Risposta:** 33
@@ -686,14 +684,14 @@ level: kangourou
 > (6 points) A rectangular strip of paper is folded so as to obtain the hexagonal shape in the picture, which borders an equilateral triangle of side 8 cm (lying against it); the short sides of the strip meet at the point shown. The short side of the strip measures √3 cm. How many centimetres long is the strip?
 
 **Topic:** [[topic_geometria_piana|Plane geometry]]
-**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Metodo:** [[method_trigonometria|Trigonometric techniques]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
 **Area:** [[Geometria|Geometry]]
 **Answer:** 33
-[[Quesiti/src_kangourou_2021_cadet_semifinale#q14|src_kangourou_2021_cadet_semifinale__Q14]]
 
 
 
-<span class="atom-split" id="q15" data-atom="q15" data-title="Quesito 15" data-tags="topic_geometria_piana,skill_ragionamento_geometrico"></span>
+<span class="atom-split" id="q15" data-atom="q15" data-title="Quesito 15" data-tags="topic_geometria_piana,skill_ragionamento_geometrico,skill_modellizzazione"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -711,7 +709,7 @@ level: kangourou
 > avanza, rispetto al terreno, il punto P?
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
-**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
 **Area:** [[Geometria]]
 **Risposta:** 40
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/192haU1dJ1xBqMu3y_ohONdnFUA6Bf3rI/view)
@@ -727,14 +725,13 @@ level: kangourou
 > (6 points) The picture sketches the side of a tracked vehicle whose wheels have radius 1/π metres, with 3 metres between the centres. The lower part of the track is in contact with flat, even ground, and P denotes the point halfway along the part of the track that is currently on top. If the vehicle advances 20 centimetres, how many centimetres does the point P advance relative to the ground?
 
 **Topic:** [[topic_geometria_piana|Plane geometry]]
-**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_modellizzazione|Modelling / translating the text]]
 **Area:** [[Geometria|Geometry]]
 **Answer:** 40
-[[Quesiti/src_kangourou_2021_cadet_semifinale#q15|src_kangourou_2021_cadet_semifinale__Q15]]
 
 
 
-<span class="atom-split" id="q16" data-atom="q16" data-title="Quesito 16" data-tags="topic_combinatoria,method_estremalita,skill_casework_accurato"></span>
+<span class="atom-split" id="q16" data-atom="q16" data-title="Quesito 16" data-tags="topic_combinatoria,method_estremalita,skill_casework_accurato,skill_riconoscimento_pattern,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -748,7 +745,7 @@ level: kangourou
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_estremalita|Principio di estremalita]]
-**Abilita:** [[skill_casework_accurato|Casework accurato]]
+**Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 38
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/192haU1dJ1xBqMu3y_ohONdnFUA6Bf3rI/view)
@@ -762,15 +759,14 @@ level: kangourou
 > (7 points) We have 90 counters, half of them black and the other half white. We want to line them up so that the blocks of consecutive white counters are as many as possible, and so that no two of these blocks have the same number of counters. What is the number of counters in the largest possible block of consecutive black counters?
 
 **Topic:** [[topic_combinatoria|Combinatorics]]
-**Method:** [[method_estremalita|Extremal principle]]
-**Skill:** [[skill_casework_accurato|Careful case analysis]]
+**Metodo:** [[method_estremalita|Extremal principle]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]], [[skill_riconoscimento_pattern|Pattern recognition]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
 **Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** 38
-[[Quesiti/src_kangourou_2021_cadet_semifinale#q16|src_kangourou_2021_cadet_semifinale__Q16]]
 
 
 
-<span class="atom-split" id="q17" data-atom="q17" data-title="Quesito 17" data-tags="topic_combinatoria,topic_logica,method_colorazione,skill_casework_accurato"></span>
+<span class="atom-split" id="q17" data-atom="q17" data-title="Quesito 17" data-tags="topic_combinatoria,topic_logica,method_colorazione,method_grafi,skill_casework_accurato,skill_modellizzazione"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -807,8 +803,8 @@ level: kangourou
 > che visiti?
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_logica|Logica, giochi, strategie]]
-**Metodo:** [[method_colorazione|Colorazione / parita]]
-**Abilita:** [[skill_casework_accurato|Casework accurato]]
+**Metodo:** [[method_colorazione|Colorazione / parita]], [[method_grafi|Teoria dei grafi]]
+**Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 9901
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/192haU1dJ1xBqMu3y_ohONdnFUA6Bf3rI/view)
@@ -824,15 +820,14 @@ level: kangourou
 > (7 points) An equilateral triangle of side n = 100 is divided into equilateral triangles of side 1 according to the pattern suggested by the picture, which shows the case n = 3. Imagine that each small triangle is a room, and that in every wall it shares with an adjacent room there is a door. By choosing the starting room suitably, what is the greatest number of rooms you can visit if you may pass only once through each room you visit?
 
 **Topic:** [[topic_combinatoria|Combinatorics]], [[topic_logica|Logic, games and strategies]]
-**Method:** [[method_colorazione|Colouring / parity]]
-**Skill:** [[skill_casework_accurato|Careful case analysis]]
+**Metodo:** [[method_colorazione|Colouring / parity]], [[method_grafi|Graph theory]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]], [[skill_modellizzazione|Modelling / translating the text]]
 **Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** 9901
-[[Quesiti/src_kangourou_2021_cadet_semifinale#q17|src_kangourou_2021_cadet_semifinale__Q17]]
 
 
 
-<span class="atom-split" id="q18" data-atom="q18" data-title="Quesito 18" data-tags="topic_aritmetica,method_congruenze,skill_manipolazione_algebrica"></span>
+<span class="atom-split" id="q18" data-atom="q18" data-title="Quesito 18" data-tags="topic_aritmetica,method_congruenze,skill_manipolazione_algebrica,skill_conteggio_sistematico"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -851,7 +846,7 @@ level: kangourou
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]]
-**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 1
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/192haU1dJ1xBqMu3y_ohONdnFUA6Bf3rI/view)
@@ -865,8 +860,7 @@ level: kangourou
 > (8 points) If you multiply together all the positive 5-digit integers that are not divisible by 5, and divide the result by 5, what remainder do you get?
 
 **Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
-**Method:** [[method_congruenze|Modular arithmetic / congruences]]
-**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_conteggio_sistematico|Systematic counting]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Answer:** 1
-[[Quesiti/src_kangourou_2021_cadet_semifinale#q18|src_kangourou_2021_cadet_semifinale__Q18]]

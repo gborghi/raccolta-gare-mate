@@ -36,8 +36,7 @@ level: Olimpiade Polacca Round 3
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_simmetria|Simmetria]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
-
-[[Quesiti/src_pol_2003_r3#q01|src_pol_2003_r3__Q01]]
+**Area:** [[Geometria]]
 
 
 
@@ -70,12 +69,11 @@ level: Olimpiade Polacca Round 3
 **Topic:** [[topic_disuguaglianze|Disuguaglianze]], [[topic_algebra|Algebra]]
 **Metodo:** [[method_disuguaglianze|Disuguaglianze]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]]
-
-[[Quesiti/src_pol_2003_r3#q02|src_pol_2003_r3__Q02]]
-
+**Area:** [[Algebra e Analisi]]
 
 
-<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_algebra,topic_aritmetica,method_congruenze,method_fattorizzazione,skill_manipolazione_algebrica,skill_riconoscimento_pattern"></span>
+
+<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_algebra,topic_aritmetica,method_congruenze,method_fattorizzazione,method_casework,skill_manipolazione_algebrica,skill_riconoscimento_pattern,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -85,9 +83,9 @@ level: Olimpiade Polacca Round 3
 > Find all polynomials $W$ with integer coefficients satisfying the following condition: For every natural number $n$, $2^n - 1$ is divisible by $W(n)$.
 
 **Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_congruenze|Congruenze]], [[method_fattorizzazione|Fattorizzazione]]
-**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
-**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
+**Metodo:** [[method_congruenze|Congruenze]], [[method_fattorizzazione|Fattorizzazione]], [[method_casework|Case analysis]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1YJsU0Az6dGhVVIiXqks47NARYBNId3kT/view)
 
 
@@ -98,15 +96,15 @@ level: Olimpiade Polacca Round 3
 
 > Trovare tutti i polinomi $W$ a coefficienti interi con la proprietà seguente: per ogni numero naturale $n$, $2^n - 1$ è divisibile per $W(n)$.
 
+
 **Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica e teoria dei numeri]]
-**Metodo:** [[method_congruenze|Congruenze]], [[method_fattorizzazione|Fattorizzazione]]
-**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di schemi]]
-
-[[Quesiti/src_pol_2003_r3#q03|src_pol_2003_r3__Q03]]
-
+**Metodo:** [[method_congruenze|Congruenze]], [[method_fattorizzazione|Fattorizzazione]], [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di schemi]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 
 
-<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_aritmetica,method_congruenze,method_fattorizzazione,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
+
+<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_aritmetica,method_congruenze,method_fattorizzazione,skill_manipolazione_algebrica,skill_lettura_attenta,skill_riconoscimento_pattern"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -117,8 +115,8 @@ level: Olimpiade Polacca Round 3
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_congruenze|Congruenze]], [[method_fattorizzazione|Fattorizzazione]]
-**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
-**Area:** [[Aritmetica e Teoria dei Numeri]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1YJsU0Az6dGhVVIiXqks47NARYBNId3kT/view)
 
 
@@ -129,11 +127,11 @@ level: Olimpiade Polacca Round 3
 
 > Sono dati un numero primo $p$ e interi $x, y, z$ con $0 < x < y < z < p$. Dimostrare che, se i numeri $x^3, y^3, z^3$ danno lo stesso resto nella divisione per $p$, allora $x^2 + y^2 + z^2$ è divisibile per $x + y + z$.
 
+
 **Topic:** [[topic_aritmetica|Aritmetica e teoria dei numeri]]
 **Metodo:** [[method_congruenze|Congruenze]], [[method_fattorizzazione|Fattorizzazione]]
-**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
-
-[[Quesiti/src_pol_2003_r3#q04|src_pol_2003_r3__Q04]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
 
 
 
@@ -163,12 +161,11 @@ level: Olimpiade Polacca Round 3
 **Topic:** [[topic_geometria_solida|Geometria solida]], [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_simmetria|Simmetria]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]]
-
-[[Quesiti/src_pol_2003_r3#q05|src_pol_2003_r3__Q05]]
-
+**Area:** [[Geometria]]
 
 
-<span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_combinatoria,method_induzione,method_invarianti,skill_riconoscimento_pattern,skill_conteggio_sistematico"></span>
+
+<span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_combinatoria,method_induzione,method_invarianti,method_grafi,skill_riconoscimento_pattern,skill_conteggio_sistematico,skill_modellizzazione"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -180,9 +177,9 @@ level: Olimpiade Polacca Round 3
 > where $x_{n+1} = x_1$.
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
-**Metodo:** [[method_induzione|Induzione]], [[method_invarianti|Invarianti]]
-**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_conteggio_sistematico|Conteggio sistematico]]
-**Area:** [[Combinatoria, Logica e Probabilita]]
+**Metodo:** [[method_induzione|Induzione]], [[method_invarianti|Invarianti]], [[method_grafi|Graph theory]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1YJsU0Az6dGhVVIiXqks47NARYBNId3kT/view)
 
 
@@ -197,8 +194,8 @@ level: Olimpiade Polacca Round 3
 >
 > dove $x_{n+1} = x_1$.
 
-**Topic:** [[topic_combinatoria|Combinatoria]]
-**Metodo:** [[method_induzione|Induzione]], [[method_invarianti|Invarianti]]
-**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di schemi]], [[skill_conteggio_sistematico|Conteggio sistematico]]
 
-[[Quesiti/src_pol_2003_r3#q06|src_pol_2003_r3__Q06]]
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_induzione|Induzione]], [[method_invarianti|Invarianti]], [[method_grafi|Teoria dei grafi]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di schemi]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
+**Area:** [[Combinatoria, Logica e Probabilita]]

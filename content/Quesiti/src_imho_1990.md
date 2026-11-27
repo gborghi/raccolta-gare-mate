@@ -10,7 +10,7 @@ level: IMO
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_geometria_piana,method_trigonometria,method_simmetria,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_geometria_piana,topic_trigonometria,method_trigonometria,method_simmetria,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -23,10 +23,10 @@ level: IMO
 > $$\frac{EG}{EF}$$
 > in terms of $t$.
 
-**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometry]]
 **Metodo:** [[method_trigonometria|Trigonometria]], [[method_simmetria|Simmetria]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
-**Area:** [[Geometria]]
+**Area:** [[Geometria|Geometry]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/19Nm9GUxDj1LQ81dyXFSu02uDt1RWquol/view)
 
 
@@ -41,12 +41,11 @@ level: IMO
 > $$\frac{EG}{EF}$$
 > in funzione di $t$.
 
-**Topic:** [[topic_geometria_piana|Geometria piana]]
+
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometria]]
 **Metodo:** [[method_trigonometria|Trigonometria]], [[method_simmetria|Simmetria]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
-
-[[Quesiti/src_imho_1990#q01|src_imho_1990__Q01]]
 
 
 
@@ -78,11 +77,9 @@ level: IMO
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 
-[[Quesiti/src_imho_1990#q02|src_imho_1990__Q02]]
 
 
-
-<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_aritmetica,method_congruenze,method_fattorizzazione,method_casework,skill_manipolazione_algebrica,skill_riconoscimento_pattern,skill_lettura_attenta"></span>
+<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_aritmetica,method_congruenze,method_fattorizzazione,method_casework,skill_manipolazione_algebrica,skill_riconoscimento_pattern,skill_lettura_attenta,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -95,8 +92,8 @@ level: IMO
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_congruenze|Congruenze]], [[method_fattorizzazione|Fattorizzazione]], [[method_casework|Casework]]
-**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_lettura_attenta|Lettura attenta]]
-**Area:** [[Aritmetica e Teoria dei Numeri]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_lettura_attenta|Lettura attenta]], [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/19Nm9GUxDj1LQ81dyXFSu02uDt1RWquol/view)
 
 
@@ -109,16 +106,15 @@ level: IMO
 > $$\frac{2^n + 1}{n^2}$$
 > sia un intero.
 
+
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei numeri]]
 **Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]], [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]], [[method_casework|Analisi per casi]]
-**Abilità:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di schemi]], [[skill_lettura_attenta|Lettura attenta del testo]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di schemi]], [[skill_lettura_attenta|Lettura attenta del testo]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Aritmetica e teoria dei numeri]]
 
-[[Quesiti/src_imho_1990#q03|src_imho_1990__Q03]]
 
 
-
-<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_funzionali,topic_insiemi_funzioni,method_backward,method_ricorsione,skill_manipolazione_algebrica,skill_astrazione,skill_modellizzazione"></span>
+<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_funzionali,topic_insiemi_funzioni,topic_aritmetica,method_backward,method_ricorsione,method_bigezione,skill_manipolazione_algebrica,skill_astrazione,skill_modellizzazione,skill_riconoscimento_pattern"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -129,10 +125,10 @@ level: IMO
 > $$f(x f(y)) = \frac{f(x)}{y}$$
 > for all $x$, $y$ in $\mathbb{Q}^+$.
 
-**Topic:** [[topic_funzionali|Equazioni funzionali]], [[topic_insiemi_funzioni|Insiemi e funzioni]]
-**Metodo:** [[method_backward|Backward]], [[method_ricorsione|Ricorsione]]
-**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]], [[skill_modellizzazione|Modellizzazione]]
-**Area:** [[Algebra e Analisi]]
+**Topic:** [[topic_funzionali|Equazioni funzionali]], [[topic_insiemi_funzioni|Insiemi e funzioni]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_backward|Backward]], [[method_ricorsione|Ricorsione]], [[method_bigezione|Bijection / correspondence]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]], [[skill_modellizzazione|Modellizzazione]], [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/19Nm9GUxDj1LQ81dyXFSu02uDt1RWquol/view)
 
 
@@ -145,16 +141,15 @@ level: IMO
 > $$f(x f(y)) = \frac{f(x)}{y}$$
 > per tutti gli $x$, $y$ in $\mathbb{Q}^+$.
 
-**Topic:** [[topic_funzionali|Equazioni funzionali]], [[topic_insiemi_funzioni|Insiemi e funzioni]]
-**Metodo:** [[method_backward|Backward]], [[method_ricorsione|Ricorsione]]
-**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]], [[skill_modellizzazione|Modellizzazione]]
-**Area:** [[Algebra e Analisi]]
 
-[[Quesiti/src_imho_1990#q04|src_imho_1990__Q04]]
-
+**Topic:** [[topic_funzionali|Equazioni funzionali]], [[topic_insiemi_funzioni|Insiemi e funzioni]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_backward|Backward]], [[method_ricorsione|Ricorsione]], [[method_bigezione|Bigezione / corrispondenza]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]], [[skill_modellizzazione|Modellizzazione]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 
 
-<span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_combinatoria,topic_aritmetica,method_invarianti,method_casework,method_backward,skill_ragionamento_geometrico,skill_astrazione,skill_modellizzazione,skill_casework_accurato"></span>
+
+<span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_combinatoria,topic_aritmetica,topic_logica,method_invarianti,method_casework,method_backward,skill_ragionamento_geometrico,skill_astrazione,skill_modellizzazione,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -172,10 +167,10 @@ level: IMO
 > (b) $\mathcal{B}$ have a winning strategy?
 > (c) Neither player have a winning strategy?
 
-**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_logica|Logic, games and strategies]]
 **Metodo:** [[method_invarianti|Invarianti]], [[method_casework|Casework]], [[method_backward|Backward]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_astrazione|Astrazione]], [[skill_modellizzazione|Modellizzazione]], [[skill_casework_accurato|Casework accurato]]
-**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/19Nm9GUxDj1LQ81dyXFSu02uDt1RWquol/view)
 
 
@@ -193,16 +188,15 @@ level: IMO
 > (b) $\mathcal{B}$ hanno una strategia vincente?
 > (c) Nessuno dei due giocatori ha una strategia vincente?
 
-**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_logica|Logica, giochi, strategie]]
 **Metodo:** [[method_invarianti|Invarianti]], [[method_casework|Casework]], [[method_backward|Backward]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_astrazione|Astrazione]], [[skill_modellizzazione|Modellizzazione]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 
-[[Quesiti/src_imho_1990#q05|src_imho_1990__Q05]]
 
 
-
-<span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_geometria_piana,topic_combinatoria,method_casework,method_simmetria,skill_modellizzazione,skill_ragionamento_geometrico,skill_astrazione"></span>
+<span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_geometria_piana,topic_combinatoria,topic_algebra,method_casework,method_simmetria,method_coordinate,skill_modellizzazione,skill_ragionamento_geometrico,skill_astrazione,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -213,10 +207,10 @@ level: IMO
 > (a) All angles are equal.
 > (b) The lengths of the 1990 sides are the numbers $1^2$, $2^2$, $3^2$, $\ldots$, $1990^2$ in some order.
 
-**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_combinatoria|Combinatoria]]
-**Metodo:** [[method_casework|method_casework]], [[method_simmetria|Simmetria]]
-**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_astrazione|Astrazione]]
-**Area:** [[Geometria]], [[Combinatoria, Logica e Probabilita]]
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_combinatoria|Combinatoria]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_casework|method_casework]], [[method_simmetria|Simmetria]], [[method_coordinate|Coordinate method]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_astrazione|Astrazione]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Geometria|Geometry]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Algebra e Analisi|Algebra and analysis]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/19Nm9GUxDj1LQ81dyXFSu02uDt1RWquol/view)
 
 
@@ -229,9 +223,8 @@ level: IMO
 > (a) Tutti gli angoli sono uguali.
 > (b) Le lunghezze dei 1990 lati sono i numeri $1^2$, $2^2$, $3^2$, $\ldots$, $1990^2$ in qualche ordine.
 
-**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_combinatoria|Combinatoria]]
-**Metodo:** [[method_casework|method_casework]], [[method_simmetria|Simmetria]]
-**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_astrazione|Astrazione]]
-**Area:** [[Geometria]], [[Combinatoria, Logica e Probabilita]]
 
-[[Quesiti/src_imho_1990#q06|src_imho_1990__Q06]]
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_combinatoria|Combinatoria]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_casework|method_casework]], [[method_simmetria|Simmetria]], [[method_coordinate|Metodo delle coordinate]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_astrazione|Astrazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]], [[Combinatoria, Logica e Probabilita]], [[Algebra e Analisi]]

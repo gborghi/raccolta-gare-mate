@@ -44,11 +44,9 @@ level: JEGMO
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 
-[[Quesiti/src_jegmo14q#q01|src_jegmo14q__Q01]]
 
 
-
-<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_geometria_piana,method_simmetria,method_trigonometria,skill_ragionamento_geometrico,skill_lettura_attenta"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_geometria_piana,topic_trigonometria,method_simmetria,method_trigonometria,skill_ragionamento_geometrico,skill_lettura_attenta"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -57,10 +55,10 @@ level: JEGMO
 
 > Let $ABC$ be an acute triangle satisfying $AB < AC$ and $\angle BAC = 60^\circ$, and let $H$ be its orthocenter. Let $P$ be the intersection of the bisector of $\angle BHC$ with side $BC$. Among the intersection points of the perpendicular bisector of side $BC$ with the circumcircle of triangle $ABC$, let $M$ be the one lying on the same side of line $BC$ as $A$, and let $N$ be the one lying on the opposite side. Show that the four points $H$, $M$, $N$, $P$ lie on a single circle. Here, $XY$ denotes the length of the segment $XY$.
 
-**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometry]]
 **Metodo:** [[method_simmetria|Simmetria]], [[method_trigonometria|Trigonometria]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
-**Area:** [[Geometria]]
+**Area:** [[Geometria|Geometry]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/16-NqAuK58hCzJs_f8zhLcVk4UkEgeo1H/view)
 
 
@@ -71,16 +69,15 @@ level: JEGMO
 
 > Sia $ABC$ un triangolo acuto che soddisfa $AB < AC$ e $\angle BAC = 60^\circ$, e sia $H$ il suo ortocentro. Sia $P$ l'intersezione della bisettrice di $\angle BHC$ con il lato $BC$. Tra i punti di intersezione dell'asse della perpendicolare al lato $BC$ con la circonferenza circoscritta al triangolo $ABC$, sia $M$ quello che giace sullo stesso lato della retta $BC$ rispetto a $A$, e sia $N$ quello che giace sul lato opposto. Dimostrare che i quattro punti $H$, $M$, $N$, $P$ giacciono su un'unica circonferenza. Qui, $XY$ denota la lunghezza del segmento $XY$.
 
-**Topic:** [[topic_geometria_piana|Geometria piana]]
+
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometria]]
 **Metodo:** [[method_simmetria|Simmetria]], [[method_trigonometria|Trigonometria]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Geometria]]
 
-[[Quesiti/src_jegmo14q#q02|src_jegmo14q__Q02]]
 
 
-
-<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_aritmetica,method_casework,method_fattorizzazione,method_estremalita,skill_manipolazione_algebrica,skill_casework_accurato,skill_riconoscimento_pattern"></span>
+<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_aritmetica,method_casework,method_fattorizzazione,method_estremalita,method_congruenze,skill_manipolazione_algebrica,skill_casework_accurato,skill_riconoscimento_pattern"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -92,9 +89,9 @@ level: JEGMO
 > Here, $\phi(n)$ denotes the number of integers from $1$ to $n$ that are coprime to $n$.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_casework|Casework]], [[method_fattorizzazione|Fattorizzazione]], [[method_estremalita|Estremalità]]
+**Metodo:** [[method_casework|Casework]], [[method_fattorizzazione|Fattorizzazione]], [[method_estremalita|Estremalità]], [[method_congruenze|Modular arithmetic / congruences]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Casework accurato]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
-**Area:** [[Aritmetica e Teoria dei Numeri]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/16-NqAuK58hCzJs_f8zhLcVk4UkEgeo1H/view)
 
 
@@ -107,16 +104,15 @@ level: JEGMO
 > $$n = \phi(n) + 2\phi\big(\phi(n)\big).$$
 > Qui, $\phi(n)$ denota il numero di interi compresi tra $1$ e $n$ che sono coprimi con $n$.
 
+
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_casework|Casework]], [[method_fattorizzazione|Fattorizzazione]], [[method_estremalita|Estremalità]]
+**Metodo:** [[method_casework|Casework]], [[method_fattorizzazione|Fattorizzazione]], [[method_estremalita|Estremalità]], [[method_congruenze|Aritmetica modulare / congruenze]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Casework accurato]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 
-[[Quesiti/src_jegmo14q#q03|src_jegmo14q__Q03]]
 
 
-
-<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_combinatoria,topic_aritmetica,method_invarianti,method_estremalita,method_conteggio,skill_modellizzazione,skill_conteggio_sistematico,skill_casework_accurato"></span>
+<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_combinatoria,topic_aritmetica,method_invarianti,method_estremalita,method_conteggio,method_backward,skill_modellizzazione,skill_conteggio_sistematico,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -130,9 +126,9 @@ level: JEGMO
 > When the state is reached in which no box other than box $1$ contains any stones, the operation is terminated. Find the minimum possible value of the number of stones in box $1$ when the operation has terminated.
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_invarianti|Invarianti]], [[method_estremalita|Estremalità]], [[method_conteggio|Conteggio]]
+**Metodo:** [[method_invarianti|Invarianti]], [[method_estremalita|Estremalità]], [[method_conteggio|Conteggio]], [[method_backward|Working backwards]]
 **Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]]
-**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/16-NqAuK58hCzJs_f8zhLcVk4UkEgeo1H/view)
 
 
@@ -147,16 +143,15 @@ level: JEGMO
 >
 > Quando si raggiunge lo stato in cui nessuna scatola diversa dalla scatola $1$ contiene pietre, l'operazione termina. Si determini il valore minimo possibile del numero di pietre nella scatola $1$ quando l'operazione è terminata.
 
+
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_invarianti|Invarianti]], [[method_estremalita|Estremalità]], [[method_conteggio|Conteggio]]
+**Metodo:** [[method_invarianti|Invarianti]], [[method_estremalita|Estremalità]], [[method_conteggio|Conteggio]], [[method_backward|Ragionamento all'indietro]]
 **Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 
-[[Quesiti/src_jegmo14q#q04|src_jegmo14q__Q04]]
 
 
-
-<span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_funzionali,topic_algebra,method_casework,method_simmetria,skill_manipolazione_algebrica,skill_casework_accurato,skill_astrazione"></span>
+<span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_funzionali,topic_algebra,method_casework,method_simmetria,method_fattorizzazione,skill_manipolazione_algebrica,skill_casework_accurato,skill_astrazione"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -168,9 +163,9 @@ level: JEGMO
 > holds. Here, for a real number $r$, $[r]$ denotes the greatest integer less than or equal to $r$; for example, $[3.14] = 3$, $[5] = 5$, $[-2.71] = -3$.
 
 **Topic:** [[topic_funzionali|Equazioni funzionali]], [[topic_algebra|Algebra]]
-**Metodo:** [[method_casework|Casework]], [[method_simmetria|Simmetria]]
+**Metodo:** [[method_casework|Casework]], [[method_simmetria|Simmetria]], [[method_fattorizzazione|Factorisation / algebraic manipulation]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Casework accurato]], [[skill_astrazione|Astrazione]]
-**Area:** [[Algebra e Analisi]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/16-NqAuK58hCzJs_f8zhLcVk4UkEgeo1H/view)
 
 
@@ -183,9 +178,8 @@ level: JEGMO
 > $$f(x)\,f\big(f(x) + y\big) = f(x)^2 + [x][y]$$
 > vale. Qui, per un numero reale $r$, $[r]$ denota il più grande intero minore o uguale a $r$; per esempio, $[3.14] = 3$, $[5] = 5$, $[-2.71] = -3$.
 
+
 **Topic:** [[topic_funzionali|Equazioni funzionali]], [[topic_algebra|Algebra]]
-**Metodo:** [[method_casework|Casework]], [[method_simmetria|Simmetria]]
+**Metodo:** [[method_casework|Casework]], [[method_simmetria|Simmetria]], [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Casework accurato]], [[skill_astrazione|Astrazione]]
 **Area:** [[Algebra e Analisi]]
-
-[[Quesiti/src_jegmo14q#q05|src_jegmo14q__Q05]]

@@ -10,7 +10,7 @@ level: squadre
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_geometria_analitica,topic_aritmetica,skill_conteggio_sistematico"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_geometria_analitica,topic_aritmetica,method_casi_conteggio,method_coordinate,skill_conteggio_sistematico,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -23,10 +23,11 @@ level: squadre
 > cartesiano ortogonale monometrico.)
 
 **Topic:** [[topic_geometria_analitica|Geometria analitica]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
-**Area:** [[Aritmetica e Teoria dei Numeri]], [[Geometria]]
+**Metodo:** [[method_casi_conteggio|Conteggio per casi]], [[method_coordinate|Metodo delle coordinate]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 0317
-**Fonte:** apri PDF p.1
+**Fonte:** [apri PDF p.1](https://drive.google.com/file/d/17d3YaumzSwh6DHOGHRmmMZG8FPCFDpkp/view)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -36,15 +37,15 @@ level: squadre
 
 > How many points with both coordinates integers lie on the circle of radius 10 centered at the origin, including the circumference? (It is understood that the plane is equipped with the usual monometric orthogonal Cartesian coordinate system.)
 
+
 **Topic:** [[topic_geometria_analitica|Coordinate geometry]], [[topic_aritmetica|Arithmetic / Number theory]]
-**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
-**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Geometria|Geometry]]
-
-[[Quesiti/src_kangourou_2019_squadre_junior_f#q01|src_kangourou_2019_squadre_junior_f__Q01]]
-
+**Metodo:** [[method_casi_conteggio|Counting by cases]], [[method_coordinate|Coordinate method]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Geometria|Geometry]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
 
-<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_geometria_solida,skill_stima,skill_ragionamento_geometrico"></span>
+
+<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_geometria_solida,topic_geometria_piana,method_coordinate,skill_stima,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -57,11 +58,12 @@ level: squadre
 > spigoli SQ, SR e RQ sono tutti lunghi 8 cm. Qual è l’intero più vicino al numero
 > che rappresenta l’area della superficie totale del tetraedro, espressa in centimetri quadrati?
 
-**Topic:** [[topic_geometria_solida|Geometria solida]]
-**Abilita:** [[skill_stima|Stima e approssimazione]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Topic:** [[topic_geometria_solida|Geometria solida]], [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_coordinate|Metodo delle coordinate]]
+**Abilita:** [[skill_stima|Stima e approssimazione]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 **Risposta:** 0076
-**Fonte:** apri PDF p.1
+**Fonte:** [apri PDF p.1](https://drive.google.com/file/d/17d3YaumzSwh6DHOGHRmmMZG8FPCFDpkp/view)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -71,15 +73,15 @@ level: squadre
 
 > The tetrahedron The figure shows a tetrahedron whose vertex S is projected perpendicularly onto the plane containing face PQR at point P. This face is a right-angled triangle; the edges SQ, SR, and RQ are all 8 cm long. What is the integer closest to the number representing the total surface area of the tetrahedron, expressed in square centimeters?
 
-**Topic:** [[topic_geometria_solida|Solid geometry]]
-**Abilita:** [[skill_stima|Estimation and approximation]], [[skill_ragionamento_geometrico|Geometric reasoning]]
+
+**Topic:** [[topic_geometria_solida|Solid geometry]], [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_coordinate|Coordinate method]]
+**Abilita:** [[skill_stima|Estimation and approximation]], [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
 **Area:** [[Geometria|Geometry]]
 
-[[Quesiti/src_kangourou_2019_squadre_junior_f#q02|src_kangourou_2019_squadre_junior_f__Q02]]
 
 
-
-<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_aritmetica,skill_manipolazione_algebrica"></span>
+<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_aritmetica,method_congruenze,method_fattorizzazione,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -91,10 +93,11 @@ level: squadre
 > quadrato siano il numero stesso. Qual è?
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]], [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 9376
-**Fonte:** apri PDF p.1
+**Fonte:** [apri PDF p.1](https://drive.google.com/file/d/17d3YaumzSwh6DHOGHRmmMZG8FPCFDpkp/view)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -104,15 +107,15 @@ level: squadre
 
 > The Digits of the Square There is exactly one positive four-digit integer such that the last four digits of its square are the number itself. What is it?
 
+
 **Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]], [[method_fattorizzazione|Factorisation / algebraic manipulation]]
 **Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
-[[Quesiti/src_kangourou_2019_squadre_junior_f#q03|src_kangourou_2019_squadre_junior_f__Q03]]
 
 
-
-<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_probabilita,skill_conteggio_sistematico"></span>
+<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_probabilita,method_casework,method_casi_conteggio,skill_conteggio_sistematico,skill_modellizzazione"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -125,10 +128,11 @@ level: squadre
 > (Scrivete nell’ordine il numeratore e il denominatore della frazione ridotta ai minimi termini.)
 
 **Topic:** [[topic_probabilita|Probabilita e statistica]]
-**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Metodo:** [[method_casework|Analisi per casi]], [[method_casi_conteggio|Conteggio per casi]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 2027
-**Fonte:** apri PDF p.1
+**Fonte:** [apri PDF p.1](https://drive.google.com/file/d/17d3YaumzSwh6DHOGHRmmMZG8FPCFDpkp/view)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -138,15 +142,15 @@ level: squadre
 
 > Tennis: Giulio and Piero play several tennis matches. Giulio, who is better, has a 2/3 chance of winning each match. What is the probability that Giulio will be the first to record two wins? (Write, in order, the numerator and the denominator of the fraction in its simplest form.)
 
+
 **Topic:** [[topic_probabilita|Probability and statistics]]
-**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Metodo:** [[method_casework|Case analysis]], [[method_casi_conteggio|Counting by cases]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]], [[skill_modellizzazione|Modelling / translating the text]]
 **Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
-[[Quesiti/src_kangourou_2019_squadre_junior_f#q04|src_kangourou_2019_squadre_junior_f__Q04]]
 
 
-
-<span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_combinatoria,method_conteggio,skill_conteggio_sistematico"></span>
+<span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_combinatoria,method_conteggio,method_casi_conteggio,skill_conteggio_sistematico,skill_lettura_attenta"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -159,11 +163,11 @@ level: squadre
 > ordine (non strettamente) crescente o decrescente?
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
-**Metodo:** [[method_conteggio|Conteggio combinatorio]]
-**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Metodo:** [[method_conteggio|Conteggio combinatorio]], [[method_casi_conteggio|Conteggio per casi]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta del testo]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 9990
-**Fonte:** apri PDF p.1
+**Fonte:** [apri PDF p.1](https://drive.google.com/file/d/17d3YaumzSwh6DHOGHRmmMZG8FPCFDpkp/view)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -173,12 +177,11 @@ level: squadre
 
 > Arrangements: How many different arrangements can be formed using six of the digits from 0 to 9 if, in each arrangement, the digits may be repeated but not all of them may be the same, and if the digits appear in (not strictly) increasing or decreasing order?
 
-**Topic:** [[topic_combinatoria|Combinatorics]]
-**Metodo:** [[method_conteggio|Combinatorial counting]]
-**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
-**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
-[[Quesiti/src_kangourou_2019_squadre_junior_f#q05|src_kangourou_2019_squadre_junior_f__Q05]]
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_conteggio|Combinatorial counting]], [[method_casi_conteggio|Counting by cases]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]], [[skill_lettura_attenta|Careful reading of the text]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
 
 
@@ -198,7 +201,7 @@ level: squadre
 **Abilita:** [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 0056
-**Fonte:** apri PDF p.1
+**Fonte:** [apri PDF p.1](https://drive.google.com/file/d/17d3YaumzSwh6DHOGHRmmMZG8FPCFDpkp/view)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -213,11 +216,9 @@ level: squadre
 **Abilita:** [[skill_casework_accurato|Careful case analysis]]
 **Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
-[[Quesiti/src_kangourou_2019_squadre_junior_f#q06|src_kangourou_2019_squadre_junior_f__Q06]]
 
 
-
-<span class="atom-split" id="q07" data-atom="q07" data-title="Quesito 7" data-tags="topic_geometria_piana,skill_ragionamento_geometrico"></span>
+<span class="atom-split" id="q07" data-atom="q07" data-title="Quesito 7" data-tags="topic_geometria_piana,topic_aritmetica,skill_ragionamento_geometrico,skill_modellizzazione,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -231,11 +232,11 @@ level: squadre
 > della velocità media tenuta nell’ora precedente. Dette P’ la posizione di
 > Gino e Q’ quella di Lino dopo tre ore di corsa, quanti gradi misura l’angolo convesso P’OQ’?
 
-**Topic:** [[topic_geometria_piana|Geometria piana]]
-**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
-**Area:** [[Geometria]]
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 0010
-**Fonte:** apri PDF p.1
+**Fonte:** [apri PDF p.1](https://drive.google.com/file/d/17d3YaumzSwh6DHOGHRmmMZG8FPCFDpkp/view)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -245,15 +246,14 @@ level: squadre
 
 > The Circuit: Gino and Lino run on a circular track centered at O (see the figure): Gino starts at point P and moves counterclockwise, while Lino starts at point Q and moves clockwise. The angle POQ measures 10 degrees. They start at the same instant, and during the first hour each covers a quarter of the track; at the end of each subsequent hour, the average speed maintained is two-thirds of the average speed maintained during the preceding hour. Let P' be Gino's position and Q' be Lino's position after three hours of running; how many degrees does the convex angle P'OQ' measure?
 
-**Topic:** [[topic_geometria_piana|Plane geometry]]
-**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
-**Area:** [[Geometria|Geometry]]
 
-[[Quesiti/src_kangourou_2019_squadre_junior_f#q07|src_kangourou_2019_squadre_junior_f__Q07]]
-
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_modellizzazione|Modelling / translating the text]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Geometria|Geometry]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
 
-<span class="atom-split" id="q08" data-atom="q08" data-title="Quesito 8" data-tags="topic_combinatoria,topic_geometria_piana,method_estremalita,skill_astrazione"></span>
+
+<span class="atom-split" id="q08" data-atom="q08" data-title="Quesito 8" data-tags="topic_combinatoria,topic_geometria_piana,method_estremalita,skill_astrazione,skill_ragionamento_geometrico"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -268,10 +268,10 @@ level: squadre
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_estremalita|Principio di estremalita]]
-**Abilita:** [[skill_astrazione|Astrazione / generalizzazione]]
+**Abilita:** [[skill_astrazione|Astrazione / generalizzazione]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 **Risposta:** 4035
-**Fonte:** apri PDF p.2
+**Fonte:** [apri PDF p.2](https://drive.google.com/file/d/17d3YaumzSwh6DHOGHRmmMZG8FPCFDpkp/view)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -281,16 +281,15 @@ level: squadre
 
 > Midpoints Consider 2019 distinct points in a plane. For each pair of such points, consider the midpoint of the line segment determined by the pair, and let S be the set of these midpoints (any coinciding midpoints correspond to a single element of S). What is the minimum possible number of elements of S?
 
+
 **Topic:** [[topic_combinatoria|Combinatorics]], [[topic_geometria_piana|Plane geometry]]
 **Metodo:** [[method_estremalita|Extremal principle]]
-**Abilita:** [[skill_astrazione|Abstraction / generalisation]]
+**Abilita:** [[skill_astrazione|Abstraction / generalisation]], [[skill_ragionamento_geometrico|Geometric reasoning]]
 **Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Geometria|Geometry]]
 
-[[Quesiti/src_kangourou_2019_squadre_junior_f#q08|src_kangourou_2019_squadre_junior_f__Q08]]
 
 
-
-<span class="atom-split" id="q09" data-atom="q09" data-title="Quesito 9" data-tags="topic_aritmetica,topic_algebra,skill_manipolazione_algebrica"></span>
+<span class="atom-split" id="q09" data-atom="q09" data-title="Quesito 9" data-tags="topic_aritmetica,topic_algebra,method_fattorizzazione,method_casework,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -303,10 +302,11 @@ level: squadre
 > che si ottiene è un numero che differisce di 0,5 dal numero iniziale. Qual è il numero iniziale?
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
-**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
-**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]], [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta del testo]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 **Risposta:** 1622
-**Fonte:** apri PDF p.2
+**Fonte:** [apri PDF p.2](https://drive.google.com/file/d/17d3YaumzSwh6DHOGHRmmMZG8FPCFDpkp/view)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -316,15 +316,15 @@ level: squadre
 
 > A four-digit number. The units digit of a four-digit significant-number is 2. If this digit is moved to the first place, becoming the thousands digit, while the order of the other digits is left unchanged, then three-quarters of the resulting number is a number that differs by 0.5 from the original number. What is the original number?
 
+
 **Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_algebra|Algebra]]
-**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
-**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
-
-[[Quesiti/src_kangourou_2019_squadre_junior_f#q09|src_kangourou_2019_squadre_junior_f__Q09]]
-
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]], [[method_casework|Case analysis]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_lettura_attenta|Careful reading of the text]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Algebra e Analisi|Algebra and analysis]]
 
 
-<span class="atom-split" id="q10" data-atom="q10" data-title="Quesito 10" data-tags="topic_algebra,topic_aritmetica,method_fattorizzazione,skill_manipolazione_algebrica"></span>
+
+<span class="atom-split" id="q10" data-atom="q10" data-title="Quesito 10" data-tags="topic_algebra,topic_aritmetica,method_fattorizzazione,method_conteggio,skill_manipolazione_algebrica,skill_conteggio_sistematico"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -337,11 +337,11 @@ level: squadre
 > distinte le coppie in cui gli elementi sono scambiati come ad esempio (1,5; 3) e (3; 1,5))
 
 **Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
-**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]], [[method_conteggio|Conteggio combinatorio]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 0050
-**Fonte:** apri PDF p.2
+**Fonte:** [apri PDF p.2](https://drive.google.com/file/d/17d3YaumzSwh6DHOGHRmmMZG8FPCFDpkp/view)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -351,16 +351,15 @@ level: squadre
 
 > Sum and Product: How many pairs of non-negative numbers, written in decimal notation with at most three digits after the decimal point, have a sum equal to their product? (Consider pairs in which the elements are swapped—such as (1.5; 3) and (3; 1.5)—to be distinct pairs.)
 
+
 **Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Arithmetic / Number theory]]
-**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
-**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]], [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_conteggio_sistematico|Systematic counting]]
 **Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
-[[Quesiti/src_kangourou_2019_squadre_junior_f#q10|src_kangourou_2019_squadre_junior_f__Q10]]
 
 
-
-<span class="atom-split" id="q11" data-atom="q11" data-title="Quesito 11" data-tags="topic_geometria_piana,skill_stima,skill_ragionamento_geometrico"></span>
+<span class="atom-split" id="q11" data-atom="q11" data-title="Quesito 11" data-tags="topic_geometria_piana,method_coordinate,skill_stima,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -375,10 +374,11 @@ level: squadre
 > Qual è l’intero più vicino alla lunghezza in centimetri dell’altro lato?
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
-**Abilita:** [[skill_stima|Stima e approssimazione]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Metodo:** [[method_coordinate|Metodo delle coordinate]]
+**Abilita:** [[skill_stima|Stima e approssimazione]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 **Risposta:** 0119
-**Fonte:** apri PDF p.2
+**Fonte:** [apri PDF p.2](https://drive.google.com/file/d/17d3YaumzSwh6DHOGHRmmMZG8FPCFDpkp/view)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -388,15 +388,15 @@ level: squadre
 
 > The Six Rectangles In the figure, you can see a circle with a radius of 25 dm, inside which six rectangles are arranged, with two rectangles in each pair being congruent; each rectangle has two vertices on the circle and the other two vertices shared with the adjacent rectangles. The side of the rectangles that has only one endpoint on the circle measures 14 dm. What is the integer closest to the length, in centimeters, of the other side?
 
+
 **Topic:** [[topic_geometria_piana|Plane geometry]]
-**Abilita:** [[skill_stima|Estimation and approximation]], [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Metodo:** [[method_coordinate|Coordinate method]]
+**Abilita:** [[skill_stima|Estimation and approximation]], [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
 **Area:** [[Geometria|Geometry]]
 
-[[Quesiti/src_kangourou_2019_squadre_junior_f#q11|src_kangourou_2019_squadre_junior_f__Q11]]
 
 
-
-<span class="atom-split" id="q12" data-atom="q12" data-title="Quesito 12" data-tags="topic_algebra,topic_aritmetica,method_fattorizzazione,skill_manipolazione_algebrica"></span>
+<span class="atom-split" id="q12" data-atom="q12" data-title="Quesito 12" data-tags="topic_algebra,topic_aritmetica,method_fattorizzazione,method_ricorsione,skill_manipolazione_algebrica,skill_stima"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -408,11 +408,11 @@ level: squadre
 > decimale del numero $(\sqrt{50} + 7)^4$?
 
 **Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
-**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]], [[method_ricorsione|Ricorsione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima e approssimazione]]
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 9999
-**Fonte:** apri PDF p.2
+**Fonte:** [apri PDF p.2](https://drive.google.com/file/d/17d3YaumzSwh6DHOGHRmmMZG8FPCFDpkp/view)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -422,16 +422,15 @@ level: squadre
 
 > Decimal digits: What are the first four decimal digits (that is, to the right of the decimal point) in the decimal representation of the number $(\sqrt{50} + 7)^4$?
 
+
 **Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Arithmetic / Number theory]]
-**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
-**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]], [[method_ricorsione|Recursion]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_stima|Estimation and approximation]]
 **Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
-[[Quesiti/src_kangourou_2019_squadre_junior_f#q12|src_kangourou_2019_squadre_junior_f__Q12]]
 
 
-
-<span class="atom-split" id="q14" data-atom="q14" data-title="Quesito 14" data-tags="topic_aritmetica,topic_combinatoria,method_invarianti,skill_astrazione"></span>
+<span class="atom-split" id="q14" data-atom="q14" data-title="Quesito 14" data-tags="topic_aritmetica,topic_combinatoria,method_invarianti,method_backward,skill_astrazione,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -448,11 +447,11 @@ level: squadre
 > comprensivi della circonferenza che li delimita).
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
-**Metodo:** [[method_invarianti|Invarianti / monovarianti]]
-**Abilita:** [[skill_astrazione|Astrazione / generalizzazione]]
+**Metodo:** [[method_invarianti|Invarianti / monovarianti]], [[method_backward|Ragionamento all'indietro]]
+**Abilita:** [[skill_astrazione|Astrazione / generalizzazione]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 2664
-**Fonte:** apri PDF p.2
+**Fonte:** [apri PDF p.2](https://drive.google.com/file/d/17d3YaumzSwh6DHOGHRmmMZG8FPCFDpkp/view)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -462,16 +461,15 @@ level: squadre
 
 > Three Moves Starting from a point (x, y) in the plane (endowed with the usual monometric orthogonal Cartesian coordinate system), where x and y are positive integers, making a move means reaching the point (x − y, y), or the point (x + y, y), or the point (y, x). As the possible choices for the starting point vary within the circle centered at the origin with radius 4, and after appropriate numbers of moves, how many of the points contained in the circle of radius 1000 centered at the point (2019, 2019), and having abscissa or ordinate, or both, equal to 2019, can be reached? (The circles mentioned are understood to include the circumference that bounds them.)
 
+
 **Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_combinatoria|Combinatorics]]
-**Metodo:** [[method_invarianti|Invariants / monovariants]]
-**Abilita:** [[skill_astrazione|Abstraction / generalisation]]
+**Metodo:** [[method_invarianti|Invariants / monovariants]], [[method_backward|Working backwards]]
+**Abilita:** [[skill_astrazione|Abstraction / generalisation]], [[skill_casework_accurato|Careful case analysis]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
-[[Quesiti/src_kangourou_2019_squadre_junior_f#q14|src_kangourou_2019_squadre_junior_f__Q14]]
 
 
-
-<span class="atom-split" id="q15" data-atom="q15" data-title="Quesito 15" data-tags="topic_combinatoria,method_conteggio,skill_casework_accurato"></span>
+<span class="atom-split" id="q15" data-atom="q15" data-title="Quesito 15" data-tags="topic_combinatoria,method_conteggio,method_casi_conteggio,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -485,11 +483,11 @@ level: squadre
 > coinvolte sono diverse, o anche solo invitate a feste diverse).
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
-**Metodo:** [[method_conteggio|Conteggio combinatorio]]
+**Metodo:** [[method_conteggio|Conteggio combinatorio]], [[method_casi_conteggio|Conteggio per casi]]
 **Abilita:** [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 2880
-**Fonte:** apri PDF p.2
+**Fonte:** [apri PDF p.2](https://drive.google.com/file/d/17d3YaumzSwh6DHOGHRmmMZG8FPCFDpkp/view)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -499,9 +497,8 @@ level: squadre
 
 > Three Parties I want to hold three parties and invite three of my six friends to each party; I want no trio of friends to be invited to more than one party, and I want none of my friends to be present at all three parties. In how many different ways can I arrange the invitations? (Two arrangements can be different if the trios involved are different, or even if the trios are simply invited to different parties.)
 
+
 **Topic:** [[topic_combinatoria|Combinatorics]]
-**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Metodo:** [[method_conteggio|Combinatorial counting]], [[method_casi_conteggio|Counting by cases]]
 **Abilita:** [[skill_casework_accurato|Careful case analysis]]
 **Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
-
-[[Quesiti/src_kangourou_2019_squadre_junior_f#q15|src_kangourou_2019_squadre_junior_f__Q15]]

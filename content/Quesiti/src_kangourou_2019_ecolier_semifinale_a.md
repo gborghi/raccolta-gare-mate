@@ -10,7 +10,7 @@ level: kangourou
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_aritmetica,method_casework,skill_lettura_attenta"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_aritmetica,method_casework,skill_lettura_attenta,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -22,7 +22,7 @@ level: kangourou
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_casework|Analisi per casi]]
-**Abilita:** [[skill_lettura_attenta|Lettura attenta del testo]]
+**Abilita:** [[skill_lettura_attenta|Lettura attenta del testo]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 0027
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/16AKXVUne52y2r_qVleLyRA-ANgB2GrT0/view)
@@ -35,16 +35,15 @@ level: kangourou
 
 > Product of the digits. The sum of the digits of a number less than 45 is 12. What is the product of its digits?
 
+
 **Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
 **Metodo:** [[method_casework|Case analysis]]
-**Abilita:** [[skill_lettura_attenta|Careful reading]]
+**Abilita:** [[skill_lettura_attenta|Careful reading]], [[skill_casework_accurato|Careful case analysis]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
-[[Quesiti/src_kangourou_2019_ecolier_semifinale_a#q01|src_kangourou_2019_ecolier_semifinale_a__Q01]]
 
 
-
-<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_algebra,topic_logica,method_estremalita,skill_modellizzazione"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_algebra,topic_logica,method_estremalita,skill_modellizzazione,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -60,7 +59,7 @@ level: kangourou
 
 **Topic:** [[topic_algebra|Algebra]], [[topic_logica|Logica, giochi, strategie]]
 **Metodo:** [[method_estremalita|Principio di estremalita]]
-**Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Algebra e Analisi]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0031
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/16AKXVUne52y2r_qVleLyRA-ANgB2GrT0/view)
@@ -73,12 +72,11 @@ level: kangourou
 
 > Candies: Four bags contain a total of 100 candies. They are arranged (from left to right) from the fullest to the emptiest; the leftmost bag contains 42 candies, the rightmost contains 7, and no bag contains the same number of candies as any other. If M is the number of candies in the second bag from the left and N is the number of candies in the second bag from the right, what is the maximum possible value of M – N?
 
+
 **Topic:** [[topic_algebra|Algebra]], [[topic_logica|Logic, games and strategies]]
 **Metodo:** [[method_estremalita|Extremal principle]]
-**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
 **Area:** [[Algebra e Analisi|Algebra and analysis]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
-
-[[Quesiti/src_kangourou_2019_ecolier_semifinale_a#q02|src_kangourou_2019_ecolier_semifinale_a__Q02]]
 
 
 
@@ -113,11 +111,9 @@ level: kangourou
 **Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
-[[Quesiti/src_kangourou_2019_ecolier_semifinale_a#q03|src_kangourou_2019_ecolier_semifinale_a__Q03]]
 
 
-
-<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_combinatoria,method_conteggio,skill_conteggio_sistematico"></span>
+<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_combinatoria,method_conteggio,skill_conteggio_sistematico,skill_lettura_attenta"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -131,7 +127,7 @@ level: kangourou
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_conteggio|Conteggio combinatorio]]
-**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta del testo]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0018
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/16AKXVUne52y2r_qVleLyRA-ANgB2GrT0/view)
@@ -144,16 +140,15 @@ level: kangourou
 
 > Numbered Cards: Rita has 4 cards, and on each card is written one of the four digits of 2019; the digit 9 is underlined so that it is not confused with 6. In how many ways can she arrange the cards if she wants to obtain a four-digit significant number (that is, a number that cannot be written using only three digits)?
 
+
 **Topic:** [[topic_combinatoria|Combinatorics]]
 **Metodo:** [[method_conteggio|Combinatorial counting]]
-**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]], [[skill_lettura_attenta|Careful reading of the text]]
 **Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
-[[Quesiti/src_kangourou_2019_ecolier_semifinale_a#q04|src_kangourou_2019_ecolier_semifinale_a__Q04]]
 
 
-
-<span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_algebra,skill_modellizzazione"></span>
+<span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_algebra,skill_modellizzazione,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -166,7 +161,7 @@ level: kangourou
 > gatto. Quando il cane è arrivato alla porta, quanti metri doveva ancora percorrere il gatto?
 
 **Topic:** [[topic_algebra|Algebra]]
-**Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Algebra e Analisi]]
 **Risposta:** 0030
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/16AKXVUne52y2r_qVleLyRA-ANgB2GrT0/view)
@@ -179,15 +174,14 @@ level: kangourou
 
 > Dog and Cat My dog and my cat are in the garden: the dog is 100 meters from the front door, and the cat is 80 meters away. I called them, and they rushed running to the door. The dog runs twice as fast as the cat. When the dog reached the door, how many meters did the cat still have to cover?
 
+
 **Topic:** [[topic_algebra|Algebra]]
-**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
 **Area:** [[Algebra e Analisi|Algebra and analysis]]
 
-[[Quesiti/src_kangourou_2019_ecolier_semifinale_a#q05|src_kangourou_2019_ecolier_semifinale_a__Q05]]
 
 
-
-<span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_aritmetica,method_casework,skill_casework_accurato"></span>
+<span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_aritmetica,method_casework,skill_casework_accurato,skill_lettura_attenta,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -202,7 +196,7 @@ level: kangourou
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_casework|Analisi per casi]]
-**Abilita:** [[skill_casework_accurato|Casework accurato]]
+**Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_lettura_attenta|Lettura attenta del testo]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 2332
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/16AKXVUne52y2r_qVleLyRA-ANgB2GrT0/view)
@@ -215,16 +209,15 @@ level: kangourou
 
 > Added to 2019: A palindromic number is a number that is equal to the number obtained by reading its digits from right to left. For example, 8, 44, 131, and 2002 are palindromic numbers, whereas 2019 is not. There exists a three-digit palindromic number that, when added to 2019, yields a palindromic number: find this four-digit palindromic number.
 
+
 **Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
 **Metodo:** [[method_casework|Case analysis]]
-**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]], [[skill_lettura_attenta|Careful reading of the text]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
-[[Quesiti/src_kangourou_2019_ecolier_semifinale_a#q06|src_kangourou_2019_ecolier_semifinale_a__Q06]]
 
 
-
-<span class="atom-split" id="q07" data-atom="q07" data-title="Quesito 7" data-tags="topic_algebra,skill_modellizzazione"></span>
+<span class="atom-split" id="q07" data-atom="q07" data-title="Quesito 7" data-tags="topic_algebra,skill_modellizzazione,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -236,7 +229,7 @@ level: kangourou
 > ottengono i numeri 931, 721 e 301. Qual è il maggiore dei tre numeri sommati?
 
 **Topic:** [[topic_algebra|Algebra]]
-**Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Algebra e Analisi]]
 **Risposta:** 0953
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/16AKXVUne52y2r_qVleLyRA-ANgB2GrT0/view)
@@ -249,15 +242,14 @@ level: kangourou
 
 > Three integers: The sum of three positive integers is 2019. If the same number is subtracted from each of them, the resulting numbers are 931, 721, and 301. What is the largest of the three numbers that were added?
 
+
 **Topic:** [[topic_algebra|Algebra]]
-**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
 **Area:** [[Algebra e Analisi|Algebra and analysis]]
 
-[[Quesiti/src_kangourou_2019_ecolier_semifinale_a#q07|src_kangourou_2019_ecolier_semifinale_a__Q07]]
 
 
-
-<span class="atom-split" id="q08" data-atom="q08" data-title="Quesito 8" data-tags="topic_algebra,skill_modellizzazione"></span>
+<span class="atom-split" id="q08" data-atom="q08" data-title="Quesito 8" data-tags="topic_algebra,skill_modellizzazione,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -270,7 +262,7 @@ level: kangourou
 > sono i membri della famiglia più piccola?
 
 **Topic:** [[topic_algebra|Algebra]]
-**Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Algebra e Analisi]]
 **Risposta:** 0011
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/16AKXVUne52y2r_qVleLyRA-ANgB2GrT0/view)
@@ -283,15 +275,14 @@ level: kangourou
 
 > In the Forest In a forest in Congo, three families of mountain gorillas live: altogether, there are 44 gorillas. The smallest family has 7 fewer members than the largest family and 4 fewer than the middle-sized family. How many members are there in the smallest family?
 
+
 **Topic:** [[topic_algebra|Algebra]]
-**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
 **Area:** [[Algebra e Analisi|Algebra and analysis]]
 
-[[Quesiti/src_kangourou_2019_ecolier_semifinale_a#q08|src_kangourou_2019_ecolier_semifinale_a__Q08]]
 
 
-
-<span class="atom-split" id="q09" data-atom="q09" data-title="Quesito 9" data-tags="topic_algebra,skill_modellizzazione"></span>
+<span class="atom-split" id="q09" data-atom="q09" data-title="Quesito 9" data-tags="topic_algebra,skill_modellizzazione,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -304,7 +295,7 @@ level: kangourou
 > Mario?
 
 **Topic:** [[topic_algebra|Algebra]]
-**Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Algebra e Analisi]]
 **Risposta:** 0018
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/16AKXVUne52y2r_qVleLyRA-ANgB2GrT0/view)
@@ -317,11 +308,10 @@ level: kangourou
 
 > The refuge In three hours, Mario climbed to a refuge and, without stopping, descended to the valley. He climbed at an average speed of 4 km/h and descended at 12 km/h. How many kilometers did Mario walk in total, going and returning?
 
-**Topic:** [[topic_algebra|Algebra]]
-**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
-**Area:** [[Algebra e Analisi|Algebra and analysis]]
 
-[[Quesiti/src_kangourou_2019_ecolier_semifinale_a#q09|src_kangourou_2019_ecolier_semifinale_a__Q09]]
+**Topic:** [[topic_algebra|Algebra]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
 
 
 
@@ -362,8 +352,6 @@ level: kangourou
 **Abilita:** [[skill_casework_accurato|Careful case analysis]]
 **Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
-[[Quesiti/src_kangourou_2019_ecolier_semifinale_a#q10|src_kangourou_2019_ecolier_semifinale_a__Q10]]
-
 
 
 <span class="atom-split" id="q11" data-atom="q11" data-title="Quesito 11" data-tags="topic_combinatoria,method_casi_conteggio,skill_conteggio_sistematico"></span>
@@ -398,11 +386,9 @@ level: kangourou
 **Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
 **Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
-[[Quesiti/src_kangourou_2019_ecolier_semifinale_a#q11|src_kangourou_2019_ecolier_semifinale_a__Q11]]
 
 
-
-<span class="atom-split" id="q12" data-atom="q12" data-title="Quesito 12" data-tags="topic_combinatoria,topic_aritmetica,method_conteggio,skill_conteggio_sistematico"></span>
+<span class="atom-split" id="q12" data-atom="q12" data-title="Quesito 12" data-tags="topic_combinatoria,topic_aritmetica,method_conteggio,method_casi_conteggio,skill_conteggio_sistematico"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -415,9 +401,9 @@ level: kangourou
 > compare sull’orologio?
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_conteggio|Conteggio combinatorio]]
+**Metodo:** [[method_conteggio|Conteggio combinatorio]], [[method_casi_conteggio|Conteggio per casi]]
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
-**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 0450
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/16AKXVUne52y2r_qVleLyRA-ANgB2GrT0/view)
 
@@ -429,16 +415,15 @@ level: kangourou
 
 > The digital clock A digital clock displays the time in 24-hour format: for example, if it is 4:20 p.m., it displays 16:20. Over the course of a full day (24 hours), for how many minutes does the digit "5" appear on the clock?
 
+
 **Topic:** [[topic_combinatoria|Combinatorics]], [[topic_aritmetica|Arithmetic / Number theory]]
-**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Metodo:** [[method_conteggio|Combinatorial counting]], [[method_casi_conteggio|Counting by cases]]
 **Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
-**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
-
-[[Quesiti/src_kangourou_2019_ecolier_semifinale_a#q12|src_kangourou_2019_ecolier_semifinale_a__Q12]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
 
 
-<span class="atom-split" id="q13" data-atom="q13" data-title="Quesito 13" data-tags="topic_aritmetica,topic_logica,method_congruenze,skill_conteggio_sistematico"></span>
+<span class="atom-split" id="q13" data-atom="q13" data-title="Quesito 13" data-tags="topic_aritmetica,topic_logica,method_congruenze,skill_conteggio_sistematico,skill_modellizzazione"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -454,7 +439,7 @@ level: kangourou
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_logica|Logica, giochi, strategie]]
 **Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]]
-**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0024
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/16AKXVUne52y2r_qVleLyRA-ANgB2GrT0/view)
@@ -467,12 +452,11 @@ level: kangourou
 
 > The lottery: 5 boys and 6 girls must sell 100 lottery tickets. The boys divide a portion of the tickets equally among themselves (but not all of them); the girls do the same with the remaining portion of the tickets. This information does not determine the total number of tickets sold by the boys, because different situations can arise: for each of them, find the number of tickets sold by each of the boys. What is the sum of the numbers you have found?
 
+
 **Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_logica|Logic, games and strategies]]
 **Metodo:** [[method_congruenze|Modular arithmetic / congruences]]
-**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]], [[skill_modellizzazione|Modelling / translating the text]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
-
-[[Quesiti/src_kangourou_2019_ecolier_semifinale_a#q13|src_kangourou_2019_ecolier_semifinale_a__Q13]]
 
 
 
@@ -508,11 +492,9 @@ level: kangourou
 **Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
 **Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
-[[Quesiti/src_kangourou_2019_ecolier_semifinale_a#q14|src_kangourou_2019_ecolier_semifinale_a__Q14]]
 
 
-
-<span class="atom-split" id="q15" data-atom="q15" data-title="Quesito 15" data-tags="topic_aritmetica,topic_logica,method_congruenze,skill_modellizzazione"></span>
+<span class="atom-split" id="q15" data-atom="q15" data-title="Quesito 15" data-tags="topic_aritmetica,topic_logica,method_congruenze,skill_modellizzazione,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -527,7 +509,7 @@ level: kangourou
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_logica|Logica, giochi, strategie]]
 **Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]]
-**Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0012
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/16AKXVUne52y2r_qVleLyRA-ANgB2GrT0/view)
@@ -540,9 +522,8 @@ level: kangourou
 
 > The gurocan The gurocan is a fantastic animal that all the schoolchildren of Kanguria know well. Some of them were asked: how many legs in total do fourteen cats, one chicken, and seventeen gurocans have? Carlo answered 108, Linda 130, Maria 164, Nina 196, and Oliviero 262. One of them answered correctly. So how many legs does a gurocan have?
 
+
 **Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_logica|Logic, games and strategies]]
 **Metodo:** [[method_congruenze|Modular arithmetic / congruences]]
-**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]], [[skill_casework_accurato|Careful case analysis]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
-
-[[Quesiti/src_kangourou_2019_ecolier_semifinale_a#q15|src_kangourou_2019_ecolier_semifinale_a__Q15]]

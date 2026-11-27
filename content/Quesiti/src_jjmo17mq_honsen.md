@@ -38,11 +38,9 @@ level: JJMO Honsen
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 
-[[Quesiti/src_jjmo17mq_honsen#q01|src_jjmo17mq_honsen__Q01]]
 
 
-
-<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_combinatoria,topic_aritmetica,method_casework,method_estremalita,skill_modellizzazione,skill_conteggio_sistematico,skill_lettura_attenta"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_combinatoria,topic_aritmetica,method_casework,method_estremalita,method_grafi,skill_modellizzazione,skill_conteggio_sistematico,skill_lettura_attenta"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -52,9 +50,9 @@ level: JJMO Honsen
 > There are $n$ boxes, each containing one ball painted in one color. The balls use exactly $10$ colors in total, and adjacent balls (in neighboring boxes) have different colors. Each ball has an integer written on it. It is known that for every pair of colors, the sum of the integers on all balls of those two colors is equal (i.e., the sum of integers over balls of each color is the same for all $10$ colors). Find the minimum possible value of $n$.
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_casework|Casework]], [[method_estremalita|Estremalità]]
+**Metodo:** [[method_casework|Casework]], [[method_estremalita|Estremalità]], [[method_grafi|Graph theory]]
 **Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]]
-**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1IaWplQ8K7hgcVjCHhzivSPLVXTjD5aWO/view)
 
 
@@ -65,16 +63,15 @@ level: JJMO Honsen
 
 > Ci sono $n$ scatole, ciascuna contenente una palla dipinta di un unico colore. In totale, le palle utilizzano esattamente $10$ colori, e le palle adiacenti (in scatole vicine) hanno colori diversi. Su ogni palla è scritto un numero intero. Si sa che, per ogni coppia di colori, la somma dei numeri interi scritti su tutte le palle di quei due colori è uguale (cioè, la somma dei numeri interi sulle palle di ciascun colore è la stessa per tutti i $10$ colori). Determinare il valore minimo possibile di $n$.
 
+
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_casework|Casework]], [[method_estremalita|Estremalità]]
+**Metodo:** [[method_casework|Casework]], [[method_estremalita|Estremalità]], [[method_grafi|Teoria dei grafi]]
 **Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 
-[[Quesiti/src_jjmo17mq_honsen#q02|src_jjmo17mq_honsen__Q02]]
 
 
-
-<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_aritmetica,topic_algebra,method_fattorizzazione,method_estremalita,method_casework,skill_manipolazione_algebrica,skill_ragionamento_geometrico,skill_lettura_attenta"></span>
+<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_aritmetica,topic_algebra,topic_disuguaglianze,method_fattorizzazione,method_estremalita,method_casework,method_congruenze,skill_manipolazione_algebrica,skill_ragionamento_geometrico,skill_lettura_attenta,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -89,10 +86,10 @@ level: JJMO Honsen
 > 
 > (2) Find all pairs of positive integers $(a, b)$ for which equality holds in the above inequality.
 
-**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
-**Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_estremalita|Estremalità]], [[method_casework|Casework]]
-**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
-**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]], [[topic_disuguaglianze|Inequalities]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_estremalita|Estremalità]], [[method_casework|Casework]], [[method_congruenze|Modular arithmetic / congruences]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Algebra e Analisi|Algebra and analysis]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1IaWplQ8K7hgcVjCHhzivSPLVXTjD5aWO/view)
 
 
@@ -109,16 +106,15 @@ level: JJMO Honsen
 >
 > (2) Determinare tutte le coppie di numeri interi positivi $(a, b)$ per cui vale l'uguaglianza nella disuguaglianza sopra.
 
-**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
-**Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_estremalita|Estremalità]], [[method_casework|Casework]]
-**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]], [[topic_disuguaglianze|Disuguaglianze]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_estremalita|Estremalità]], [[method_casework|Casework]], [[method_congruenze|Aritmetica modulare / congruenze]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 
-[[Quesiti/src_jjmo17mq_honsen#q03|src_jjmo17mq_honsen__Q03]]
 
 
-
-<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_combinatoria,method_invarianti,method_estremalita,method_casework,skill_modellizzazione,skill_conteggio_sistematico,skill_ragionamento_geometrico"></span>
+<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_combinatoria,method_invarianti,method_estremalita,method_casework,method_grafi,method_colorazione,skill_modellizzazione,skill_conteggio_sistematico,skill_ragionamento_geometrico"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -135,9 +131,9 @@ level: JJMO Honsen
 > When all $n^2$ squares have been visited, find the minimum possible number of times the piece moved horizontally or vertically (i.e., non-diagonally) during the game.
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
-**Metodo:** [[method_invarianti|Invarianti]], [[method_estremalita|Estremalità]], [[method_casework|Casework]]
+**Metodo:** [[method_invarianti|Invarianti]], [[method_estremalita|Estremalità]], [[method_casework|Casework]], [[method_grafi|Graph theory]], [[method_colorazione|Colouring / parity]]
 **Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
-**Area:** [[Combinatoria, Logica e Probabilita]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1IaWplQ8K7hgcVjCHhzivSPLVXTjD5aWO/view)
 
 
@@ -154,12 +150,11 @@ level: JJMO Honsen
 >
 > Quando tutti i quadrati $n^2$ sono stati visitati, determina il numero minimo possibile di volte in cui il pezzo si è mosso orizzontalmente o verticalmente (ossia in modo non diagonale) durante la partita.
 
+
 **Topic:** [[topic_combinatoria|Combinatoria]]
-**Metodo:** [[method_invarianti|Invarianti]], [[method_estremalita|Estremalità]], [[method_casework|Casework]]
+**Metodo:** [[method_invarianti|Invarianti]], [[method_estremalita|Estremalità]], [[method_casework|Casework]], [[method_grafi|Teoria dei grafi]], [[method_colorazione|Colorazione / parita]]
 **Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
-
-[[Quesiti/src_jjmo17mq_honsen#q04|src_jjmo17mq_honsen__Q04]]
 
 
 
@@ -190,5 +185,3 @@ level: JJMO Honsen
 **Metodo:** [[method_trigonometria|Trigonometria]], [[method_coordinate|Coordinate]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Geometria]]
-
-[[Quesiti/src_jjmo17mq_honsen#q05|src_jjmo17mq_honsen__Q05]]

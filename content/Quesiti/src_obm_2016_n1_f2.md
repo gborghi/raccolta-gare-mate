@@ -38,11 +38,9 @@ level: OBM Nível 1
 **Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_stima|Stima]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 
-[[Quesiti/src_obm_2016_n1_f2#q01|src_obm_2016_n1_f2__Q01]]
 
 
-
-<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_aritmetica,method_casework,skill_lettura_attenta,skill_manipolazione_algebrica,skill_modellizzazione"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_aritmetica,topic_algebra,method_casework,method_fattorizzazione,skill_lettura_attenta,skill_manipolazione_algebrica,skill_modellizzazione"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -51,10 +49,10 @@ level: OBM Nível 1
 
 > A used-car dealer sold two cars at $12{,}000$ reais each. On one of them he made a profit of $20\%$ over cost, and on the other he suffered a loss of $20\%$ over cost. It seems that since he neither lost nor gained on either transaction, the overall result was break-even — but in reality he did make or lose money. What was his total profit or loss, in reais?
 
-**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_casework|Casework]]
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_casework|Casework]], [[method_fattorizzazione|Factorisation / algebraic manipulation]]
 **Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]]
-**Area:** [[Aritmetica e Teoria dei Numeri]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Algebra e Analisi|Algebra and analysis]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1b8_uFIZH692vxS16wUGrL0gIsEvkT2d4/view)
 
 
@@ -65,16 +63,15 @@ level: OBM Nível 1
 
 > Un rivenditore di auto usate ha venduto due auto a $12{,}000$ reais ciascuna. Su una di esse ha realizzato un profitto di $20\%$ rispetto al costo, mentre sull'altra ha subito una perdita di $20\%$ rispetto al costo. Sembrerebbe che, poiché in nessuna delle due transazioni ha né perso né guadagnato, il risultato complessivo sia stato in pareggio; in realtà, però, ha effettivamente guadagnato o perso denaro. Qual è stato il suo utile o la sua perdita totale, in reais?
 
-**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_casework|Casework]]
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_casework|Casework]], [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
 **Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]]
-**Area:** [[Aritmetica e Teoria dei Numeri]]
-
-[[Quesiti/src_obm_2016_n1_f2#q02|src_obm_2016_n1_f2__Q02]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 
 
 
-<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_geometria_piana,skill_ragionamento_geometrico,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
+<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_geometria_piana,topic_algebra,topic_aritmetica,method_fattorizzazione,method_simmetria,skill_ragionamento_geometrico,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -83,11 +80,12 @@ level: OBM Nível 1
 
 > The square $ABCD$ is divided into two congruent rectangles and two squares whose areas, in square metres, are indicated in the figure ($64$ and $121$). What is the area of square $ABCD$ in square metres?
 
-![[src_obm_2016_n1_f2__q03.png]]
+![[src_obm_2016_n1_f2__Q03.png]]
 
-**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_algebra|Algebra]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]], [[method_simmetria|Using symmetry]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
-**Area:** [[Geometria]]
+**Area:** [[Geometria|Geometry]], [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1b8_uFIZH692vxS16wUGrL0gIsEvkT2d4/view)
 
 
@@ -98,13 +96,13 @@ level: OBM Nível 1
 
 > Il quadrato $ABCD$ è diviso in due rettangoli congruenti e due quadrati le cui aree, espresse in metri quadrati, sono indicate nella figura ($64$ e $121$). Qual è l'area del quadrato $ABCD$ in metri quadrati?
 
-![[src_obm_2016_n1_f2__q03.png]]
+![[src_obm_2016_n1_f2__Q03.png]]
 
-**Topic:** [[topic_geometria_piana|Geometria piana]]
+
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]], [[method_simmetria|Sfruttamento della simmetria]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
-**Area:** [[Geometria]]
-
-[[Quesiti/src_obm_2016_n1_f2#q03|src_obm_2016_n1_f2__Q03]]
+**Area:** [[Geometria]], [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 
 
 
@@ -117,7 +115,7 @@ level: OBM Nível 1
 
 > In the multiplication below, the prime digits $2, 3, 5, 7$ are represented by the letters $A$, $B$, $C$, $D$ (not necessarily in that order). What is the number $ABCD$?\n$$\begin{array}{r} A\;A\;B \\ \times\quad C\;C \\ \hline D\;C\;D\;B \\ D\;B\;A\;B\;\phantom{0} \\ \hline D\;B\;A\;B\;\phantom{00} \end{array}$$
 
-![[src_obm_2016_n1_f2__q04.png]]
+![[src_obm_2016_n1_f2__Q04.png]]
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_casework|Casework]], [[method_congruenze|Congruenze]]
@@ -133,18 +131,16 @@ level: OBM Nível 1
 
 > In the multiplication below, the prime digits $2, 3, 5, 7$ are represented by the letters $A$, $B$, $C$, $D$ (not necessarily in that order). What is the number $ABCD$?\n$$\begin{array}{r} A\;A\;B \\ \times\quad C\;C \\ \hline D\;C\;D\;B \\ D\;B\;A\;B\;\phantom{0} \\ \hline D\;B\;A\;B\;\phantom{00} \end{array}$$
 
-![[src_obm_2016_n1_f2__q04.png]]
+![[src_obm_2016_n1_f2__Q04.png]]
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_casework|Casework]], [[method_congruenze|Congruenze]]
 **Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_casework_accurato|Casework accurato]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 
-[[Quesiti/src_obm_2016_n1_f2#q04|src_obm_2016_n1_f2__Q04]]
 
 
-
-<span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_geometria_piana,skill_ragionamento_geometrico,skill_lettura_attenta,skill_manipolazione_algebrica"></span>
+<span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_geometria_piana,method_simmetria,skill_ragionamento_geometrico,skill_lettura_attenta,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -153,11 +149,12 @@ level: OBM Nível 1
 
 > In the figure, the two gray squares share a common vertex, and the white square has one vertex on each side of those gray squares. The measures of some angles (in degrees) are shown in the figure: $47^\circ$, $122^\circ$, and $X^\circ$. What is the value of $X$?
 
-![[src_obm_2016_n1_f2__q05.png]]
+![[src_obm_2016_n1_f2__Q05.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_simmetria|Using symmetry]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
-**Area:** [[Geometria]]
+**Area:** [[Geometria|Geometry]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1b8_uFIZH692vxS16wUGrL0gIsEvkT2d4/view)
 
 
@@ -168,17 +165,17 @@ level: OBM Nível 1
 
 > Nella figura, i due quadrati grigi condividono un vertice comune, e il quadrato bianco ha un vertice su ciascun lato di quei quadrati grigi. Nella figura sono indicati le misure di alcuni angoli (in gradi): $47^\circ$, $122^\circ$ e $X^\circ$. Qual è il valore di $X$?
 
-![[src_obm_2016_n1_f2__q05.png]]
+![[src_obm_2016_n1_f2__Q05.png]]
+
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_simmetria|Sfruttamento della simmetria]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 
-[[Quesiti/src_obm_2016_n1_f2#q05|src_obm_2016_n1_f2__Q05]]
 
 
-
-<span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_combinatoria,topic_aritmetica,method_congruenze,method_casework,method_invarianti,skill_modellizzazione,skill_ragionamento_geometrico,skill_casework_accurato,skill_conteggio_sistematico"></span>
+<span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_combinatoria,topic_aritmetica,method_congruenze,method_casework,method_invarianti,method_estremalita,skill_modellizzazione,skill_ragionamento_geometrico,skill_casework_accurato,skill_conteggio_sistematico"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -187,12 +184,12 @@ level: OBM Nível 1
 
 > The following figure shows two types of pieces: Type 1, with $4$ unit squares (an L-shaped tetromino), and Type 2, with $3$ unit squares (an L-shaped tromino). A board with $m$ rows and $n$ columns was covered, without overlapping, by Type 1 pieces with the exception of exactly $3$ unit squares left uncovered. Then the same board was covered, also without overlapping, by Type 2 pieces with the exception of exactly $2$ unit squares left uncovered. The pieces may be rotated but may not extend outside the board. What is the smallest possible value of the product $m \cdot n$?
 
-![[src_obm_2016_n1_f2__q06.png]]
+![[src_obm_2016_n1_f2__Q06.png]]
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_congruenze|Congruenze]], [[method_casework|Casework]], [[method_invarianti|Invarianti]]
+**Metodo:** [[method_congruenze|Congruenze]], [[method_casework|Casework]], [[method_invarianti|Invarianti]], [[method_estremalita|Extremal principle]]
 **Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_casework_accurato|Casework accurato]], [[skill_conteggio_sistematico|Conteggio sistematico]]
-**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1b8_uFIZH692vxS16wUGrL0gIsEvkT2d4/view)
 
 
@@ -203,14 +200,13 @@ level: OBM Nível 1
 
 > La figura seguente mostra due tipi di pezzi: il tipo 1, con $4$ quadrati unitari (un tetromino a forma di L), e il tipo 2, con $3$ quadrati unitari (un tromino a forma di L). Una scacchiera con $m$ righe e $n$ colonne è stata ricoperta, senza sovrapposizioni, con pezzi di tipo 1, ad eccezione di esattamente $3$ quadrati unitari lasciati scoperti. Successivamente, la stessa scacchiera è stata ricoperta, sempre senza sovrapposizioni, con pezzi di tipo 2, ad eccezione di esattamente $2$ quadrati unitari lasciati scoperti. I pezzi possono essere ruotati, ma non possono estendersi al di fuori della scacchiera. Qual è il valore minimo possibile del prodotto $m \cdot n$?
 
-![[src_obm_2016_n1_f2__q06.png]]
+![[src_obm_2016_n1_f2__Q06.png]]
+
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_congruenze|Congruenze]], [[method_casework|Casework]], [[method_invarianti|Invarianti]]
+**Metodo:** [[method_congruenze|Congruenze]], [[method_casework|Casework]], [[method_invarianti|Invarianti]], [[method_estremalita|Principio di estremalita]]
 **Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_casework_accurato|Casework accurato]], [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
-
-[[Quesiti/src_obm_2016_n1_f2#q06|src_obm_2016_n1_f2__Q06]]
 
 
 
@@ -242,8 +238,6 @@ level: OBM Nível 1
 **Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 
-[[Quesiti/src_obm_2016_n1_f2#q07|src_obm_2016_n1_f2__Q07]]
-
 
 
 <span class="atom-split" id="q08" data-atom="q08" data-title="Quesito 8" data-tags="topic_aritmetica,topic_combinatoria,method_ricorsione,method_telescoping,method_estremalita,skill_riconoscimento_pattern,skill_manipolazione_algebrica,skill_conteggio_sistematico,skill_astrazione"></span>
@@ -255,7 +249,7 @@ level: OBM Nível 1
 
 > [Part B] We associate to each $n \times n$ square (divided into unit squares) the quotient of the number of unit segments on its perimeter by the number of unit segments strictly in its interior. The first three values are:\n$$\frac{8}{4} = 2, \qquad \frac{12}{12} = 1, \qquad \frac{16}{24} = \frac{2}{3}.$$\n(a) What is the quotient associated to the $5 \times 5$ square?\n(b) How many values of $n$ give a quotient equal to $\dfrac{1}{2}$?\n(c) The absolute difference between the quotients of two consecutive squares in the sequence is always $\dfrac{1}{k}$ for some fixed value of $k$. What is $k$? How many unit segments are on the perimeter of the smallest square whose associated quotient is less than $\dfrac{1}{10}$?
 
-![[src_obm_2016_n1_f2__q08.png]]
+![[src_obm_2016_n1_f2__Q08.png]]
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_ricorsione|Ricorsione]], [[method_telescoping|Telescoping]], [[method_estremalita|Estremalità]]
@@ -271,18 +265,16 @@ level: OBM Nível 1
 
 > [Part B] We associate to each $n \times n$ square (divided into unit squares) the quotient of the number of unit segments on its perimeter by the number of unit segments strictly in its interior. The first three values are:\n$$\frac{8}{4} = 2, \qquad \frac{12}{12} = 1, \qquad \frac{16}{24} = \frac{2}{3}.$$\n(a) What is the quotient associated to the $5 \times 5$ square?\n(b) How many values of $n$ give a quotient equal to $\dfrac{1}{2}$?\n(c) The absolute difference between the quotients of two consecutive squares in the sequence is always $\dfrac{1}{k}$ for some fixed value of $k$. What is $k$? How many unit segments are on the perimeter of the smallest square whose associated quotient is less than $\dfrac{1}{10}$?
 
-![[src_obm_2016_n1_f2__q08.png]]
+![[src_obm_2016_n1_f2__Q08.png]]
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_ricorsione|Ricorsione]], [[method_telescoping|Telescoping]], [[method_estremalita|Estremalità]]
 **Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_astrazione|Astrazione]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 
-[[Quesiti/src_obm_2016_n1_f2#q08|src_obm_2016_n1_f2__Q08]]
 
 
-
-<span class="atom-split" id="q09" data-atom="q09" data-title="Quesito 9" data-tags="topic_combinatoria,topic_aritmetica,method_casework,method_conteggio,method_inclusione_esclusione,skill_conteggio_sistematico,skill_casework_accurato,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
+<span class="atom-split" id="q09" data-atom="q09" data-title="Quesito 9" data-tags="topic_combinatoria,topic_aritmetica,method_casework,method_conteggio,method_inclusione_esclusione,method_cassetti,skill_conteggio_sistematico,skill_casework_accurato,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -291,12 +283,12 @@ level: OBM Nível 1
 
 > [Part B] Ana wants to write the digits from $1$ to $9$, one in each box of the diagram below (9 boxes in a row), to form a $9$-digit number $N$. The gray boxes are the boxes in positions $1, 3, 5, 7, 9$ (the 5 odd-indexed positions), and the white boxes are those in positions $2, 4, 6, 8$.\n(a) In how many ways can Ana form the number $N$ by writing even digits in the gray boxes?\n(b) In how many ways can Ana form the number $N$ by writing only odd digits in the gray boxes?\n(c) In how many ways can she form $N$ such that the sum of the digits in the gray boxes equals twice the sum of the digits in the white boxes?
 
-![[src_obm_2016_n1_f2__q09.png]]
+![[src_obm_2016_n1_f2__Q09.png]]
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]], [[method_inclusione_esclusione|Inclusione-esclusione]]
+**Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]], [[method_inclusione_esclusione|Inclusione-esclusione]], [[method_cassetti|Pigeonhole principle]]
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
-**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1b8_uFIZH692vxS16wUGrL0gIsEvkT2d4/view)
 
 
@@ -307,11 +299,10 @@ level: OBM Nível 1
 
 > [Parte B] Ana vuole scrivere le cifre da $1$ a $9$, una per ogni casella del diagramma sottostante (9 caselle in fila), per formare un numero $9$-cifre $N$. Le caselle grigie sono quelle nelle posizioni $1, 3, 5, 7, 9$ (le 5 posizioni a indice dispari), mentre le caselle bianche sono quelle nelle posizioni $2, 4, 6, 8$.\n(a) In quanti modi Ana può formare il numero $N$ scrivendo cifre pari nelle caselle grigie?\n(b) In quanti modi Ana può formare il numero $N$ scrivendo solo cifre dispari nelle caselle grigie?\n(c) In quanti modi può formare $N$ in modo che la somma delle cifre nelle caselle grigie sia il doppio della somma delle cifre nelle caselle bianche?
 
-![[src_obm_2016_n1_f2__q09.png]]
+![[src_obm_2016_n1_f2__Q09.png]]
+
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]], [[method_inclusione_esclusione|Inclusione-esclusione]]
+**Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]], [[method_inclusione_esclusione|Inclusione-esclusione]], [[method_cassetti|Principio dei cassetti]]
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
-
-[[Quesiti/src_obm_2016_n1_f2#q09|src_obm_2016_n1_f2__Q09]]

@@ -40,11 +40,9 @@ level: IMO
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 
-[[Quesiti/src_imho_2013#q01|src_imho_2013__Q01]]
 
 
-
-<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_combinatoria,method_estremalita,method_casework,method_colorazione,skill_modellizzazione,skill_ragionamento_geometrico,skill_conteggio_sistematico,skill_lettura_attenta"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_combinatoria,topic_geometria_piana,method_estremalita,method_casework,method_colorazione,skill_modellizzazione,skill_ragionamento_geometrico,skill_conteggio_sistematico,skill_lettura_attenta"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -58,10 +56,10 @@ level: IMO
 > \end{itemize}
 > Find the least value of $k$ such that for any Colombian configuration of $4027$ points, there is a good arrangement of $k$ lines.
 
-**Topic:** [[topic_combinatoria|Combinatoria]]
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_geometria_piana|Plane geometry]]
 **Metodo:** [[method_estremalita|Estremalità]], [[method_casework|Casework]], [[method_colorazione|Colorazione]]
 **Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]]
-**Area:** [[Combinatoria, Logica e Probabilita]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Geometria|Geometry]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/19gUg0d7Qibr0kGJUI3KJ3ROO0zY1aY2P/view)
 
 
@@ -76,12 +74,11 @@ level: IMO
 > \end{itemize}
 > Trovare il valore minimo di $k$ tale che, per qualsiasi configurazione colombiana di $4027$ punti, esista una disposizione buona di $k$ rette.
 
-**Topic:** [[topic_combinatoria|Combinatoria]]
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_estremalita|Estremalità]], [[method_casework|Casework]], [[method_colorazione|Colorazione]]
 **Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]]
-**Area:** [[Combinatoria, Logica e Probabilita]]
-
-[[Quesiti/src_imho_2013#q02|src_imho_2013__Q02]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 
 
 
@@ -117,8 +114,6 @@ level: IMO
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Geometria]]
 
-[[Quesiti/src_imho_2013#q03|src_imho_2013__Q03]]
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_geometria_piana,method_trigonometria,method_coordinate,skill_ragionamento_geometrico,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
@@ -149,11 +144,9 @@ level: IMO
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Geometria]]
 
-[[Quesiti/src_imho_2013#q04|src_imho_2013__Q04]]
 
 
-
-<span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_funzionali,topic_algebra,method_induzione,method_disuguaglianze,skill_manipolazione_algebrica,skill_ragionamento_geometrico,skill_lettura_attenta,skill_stima"></span>
+<span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_funzionali,topic_algebra,topic_disuguaglianze,method_induzione,method_disuguaglianze,skill_manipolazione_algebrica,skill_ragionamento_geometrico,skill_lettura_attenta,skill_stima"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -168,10 +161,10 @@ level: IMO
 > \end{itemize}
 > Prove that $f(x) = x$ for all $x \in \mathbb{Q}_{>0}$.
 
-**Topic:** [[topic_funzionali|Equazioni funzionali]], [[topic_algebra|Algebra]]
+**Topic:** [[topic_funzionali|Equazioni funzionali]], [[topic_algebra|Algebra]], [[topic_disuguaglianze|Inequalities]]
 **Metodo:** [[method_induzione|Induzione]], [[method_disuguaglianze|Disuguaglianze]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_stima|Stima]]
-**Area:** [[Algebra e Analisi]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/19gUg0d7Qibr0kGJUI3KJ3ROO0zY1aY2P/view)
 
 
@@ -186,12 +179,11 @@ level: IMO
 > \end{itemize}
 > Dimostrare che $f(x) = x$ per tutti gli $x \in \mathbb{Q}_{>0}$.
 
-**Topic:** [[topic_funzionali|Equazioni funzionali]], [[topic_algebra|Algebra]]
+
+**Topic:** [[topic_funzionali|Equazioni funzionali]], [[topic_algebra|Algebra]], [[topic_disuguaglianze|Disuguaglianze]]
 **Metodo:** [[method_induzione|Induzione]], [[method_disuguaglianze|Disuguaglianze]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_stima|Stima]]
 **Area:** [[Algebra e Analisi]]
-
-[[Quesiti/src_imho_2013#q05|src_imho_2013__Q05]]
 
 
 
@@ -228,5 +220,3 @@ level: IMO
 **Metodo:** [[method_bigezione|Biiezione]], [[method_doppio_conteggio|Doppio conteggio]], [[method_conteggio|Conteggio]], [[method_induzione|Induzione]]
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_modellizzazione|Modellizzazione]], [[skill_astrazione|Astrazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
-
-[[Quesiti/src_imho_2013#q06|src_imho_2013__Q06]]

@@ -10,7 +10,7 @@ level: BMO Round 1
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_algebra,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_algebra,method_fattorizzazione,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -25,8 +25,9 @@ level: BMO Round 1
 > where $a, b, c, d$ are real numbers.
 
 **Topic:** [[topic_algebra|Algebra]]
-**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
-**Area:** [[Algebra e Analisi]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_lettura_attenta|Careful reading of the text]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/18wiJiqdZkrKQw2W9Fj-nCrBT9lVgHHwa/view)
 
 
@@ -42,11 +43,11 @@ level: BMO Round 1
 > $$a + b + c = 6$$
 > dove $a, b, c, d$ sono numeri reali.
 
-**Topic:** [[topic_algebra|Algebra]]
-**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
-**Area:** [[Algebra e Analisi]]
 
-[[Quesiti/src_bmo_2003-04_round1#q01|src_bmo_2003-04_round1__Q01]]
+**Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta del testo]]
+**Area:** [[Algebra e Analisi]]
 
 
 
@@ -79,11 +80,9 @@ level: BMO Round 1
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 
-[[Quesiti/src_bmo_2003-04_round1#q02|src_bmo_2003-04_round1__Q02]]
 
 
-
-<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_combinatoria,method_invarianti,method_simmetria,skill_modellizzazione,skill_astrazione,skill_ragionamento_geometrico"></span>
+<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_combinatoria,topic_logica,method_invarianti,method_simmetria,skill_modellizzazione,skill_astrazione,skill_ragionamento_geometrico"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -92,10 +91,10 @@ level: BMO Round 1
 
 > Alice and Barbara play a game with a pack of $26$ cards, on each of which is written a positive integer. The pack is shuffled and the cards laid out in a row, with the numbers facing upwards. Alice starts, and the girls take turns to remove one card from either end of the row, until Barbara picks up the final card. Each girl's score is the sum of the numbers on her chosen cards. Prove that Alice can always obtain a score at least as great as Barbara's.
 
-**Topic:** [[topic_combinatoria|Combinatoria]]
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_logica|Logic, games and strategies]]
 **Metodo:** [[method_invarianti|Invarianti]], [[method_simmetria|Simmetria]]
 **Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_astrazione|Astrazione]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
-**Area:** [[Combinatoria, Logica e Probabilita]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/18wiJiqdZkrKQw2W9Fj-nCrBT9lVgHHwa/view)
 
 
@@ -106,12 +105,11 @@ level: BMO Round 1
 
 > Alice e Barbara giocano a un gioco con un mazzo di $26$ carte, sulle quali è scritto un numero intero positivo. Il mazzo viene mescolato e le carte vengono disposte in fila, con i numeri rivolti verso l'alto. Alice inizia, e le ragazze si alternano nel rimuovere una carta da uno dei due estremi della fila, finché Barbara prende l'ultima carta. Il punteggio di ciascuna ragazza è la somma dei numeri sulle carte da lei scelte. Dimostrare che Alice può sempre ottenere un punteggio almeno pari a quello di Barbara.
 
-**Topic:** [[topic_combinatoria|Combinatoria]]
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_logica|Logica, giochi, strategie]]
 **Metodo:** [[method_invarianti|Invarianti]], [[method_simmetria|Simmetria]]
 **Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_astrazione|Astrazione]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
-
-[[Quesiti/src_bmo_2003-04_round1#q03|src_bmo_2003-04_round1__Q03]]
 
 
 
@@ -143,8 +141,6 @@ level: BMO Round 1
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 
-[[Quesiti/src_bmo_2003-04_round1#q04|src_bmo_2003-04_round1__Q04]]
-
 
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_aritmetica,method_congruenze,method_fattorizzazione,method_casework,skill_manipolazione_algebrica,skill_lettura_attenta,skill_casework_accurato"></span>
@@ -174,5 +170,3 @@ level: BMO Round 1
 **Metodo:** [[method_congruenze|Congruenze]], [[method_fattorizzazione|Fattorizzazione]], [[method_casework|Casework]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
-
-[[Quesiti/src_bmo_2003-04_round1#q05|src_bmo_2003-04_round1__Q05]]

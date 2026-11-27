@@ -10,7 +10,7 @@ level: gara del pubblico
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_geometria_piana,method_coordinate,skill_ragionamento_geometrico"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_geometria_piana,topic_aritmetica,topic_logica,method_coordinate,method_casework,skill_ragionamento_geometrico,skill_lettura_attenta,skill_modellizzazione,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -26,10 +26,10 @@ level: gara del pubblico
 > primo a non poter prendere alcun sasso avrebbe perso. Come si immagina, vinse Esmeralda, dopo aver raccolto in tutta la partita
 > 9284 sassi. Quanti sassi raccolse la Morte?
 
-**Topic:** [[topic_geometria_piana|Geometria piana]]
-**Metodo:** [[method_coordinate|Metodo delle coordinate]]
-**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
-**Area:** [[Geometria]]
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_logica|Logica, giochi, strategie]]
+**Metodo:** [[method_coordinate|Metodo delle coordinate]], [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta del testo]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]], [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 7120
 **Fonte:** [apri PDF p.16](https://drive.google.com/file/d/1ii8THgeKnONfiSNf2aOpPe09AWBVn-YO/view)
 
@@ -42,15 +42,15 @@ level: gara del pubblico
 > The last stone
 > The world has been close to the end at other times in the past. Once in particular a certain Esmeralda Weatherwax challenged Death to the game for everyone's salvation, but neither chess, nor cards, nor Monopoly was chosen. The two players sat down facing a great heap of stones and began to play. Esmeralda started, and took 30 stones. Death in turn took 130, then Esmeralda took 230. They went on like this, according to the rules, which obliged each to pick up 100 stones more than the previous player. When the stones on the ground were no longer enough, the player would have picked them all up. The first who could not take any stone would have lost. As one imagines, Esmeralda won, having picked up 9284 stones in the whole game. How many stones did Death pick up?
 
-**Topic:** [[topic_geometria_piana|Plane geometry]]
-**Method:** [[method_coordinate|Coordinate method]]
-**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
 
-[[Quesiti/src_cesenatico_2012_pubblico#q01|src_cesenatico_2012_pubblico__Q01]]
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_aritmetica|Arithmetic / Number theory]], [[topic_logica|Logic, games and strategies]]
+**Metodo:** [[method_coordinate|Coordinate method]], [[method_casework|Case analysis]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_lettura_attenta|Careful reading of the text]], [[skill_modellizzazione|Modelling / translating the text]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Geometria|Geometry]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
 
 
-<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_disuguaglianze,method_casework,method_disuguaglianze,skill_casework_accurato"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_disuguaglianze,topic_logica,method_casework,method_disuguaglianze,method_ricorsione,skill_casework_accurato,skill_riconoscimento_pattern,skill_modellizzazione"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -65,10 +65,10 @@ level: gara del pubblico
 > mosse possibile, nella speranza che Tarkin prima o poi commetta un errore e anche per ritardare la distruzione della Terra. Quanto
 > valeva n se la Terra viene distrutta dopo una partita di 594 mosse?
 
-**Topic:** [[topic_disuguaglianze|Disuguaglianze]]
-**Metodo:** [[method_casework|Analisi per casi]], [[method_disuguaglianze|Disuguaglianze classiche]]
-**Abilita:** [[skill_casework_accurato|Casework accurato]]
-**Area:** [[Algebra e Analisi]]
+**Topic:** [[topic_disuguaglianze|Disuguaglianze]], [[topic_logica|Logica, giochi, strategie]]
+**Metodo:** [[method_casework|Analisi per casi]], [[method_disuguaglianze|Disuguaglianze classiche]], [[method_ricorsione|Ricorsione]]
+**Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
+**Area:** [[Algebra e Analisi]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 7980
 **Fonte:** [apri PDF p.16](https://drive.google.com/file/d/1ii8THgeKnONfiSNf2aOpPe09AWBVn-YO/view)
 
@@ -81,15 +81,15 @@ level: gara del pubblico
 > Technological terror
 > Commander Tarkin threatens to destroy the Earth with the Death Star, but he will relent if Princess Leila beats him at the following game. Initially there is a heap of n stones; then the players take turns, starting with Leila. The only valid moves are to remove from the heap 1, 2, 4 or 16 stones. Whoever manages to take the last stone wins. Reflecting a little, Leila realises that if Tarkin makes no mistakes, she will have no chance of victory. She therefore tries to make the game last as many moves as possible, in the hope that Tarkin will sooner or later make a mistake, and also to delay the destruction of the Earth. What was n worth if the Earth is destroyed after a game of 594 moves?
 
-**Topic:** [[topic_disuguaglianze|Inequalities]]
-**Method:** [[method_casework|Case analysis]], [[method_disuguaglianze|Classical inequalities]]
-**Skill:** [[skill_casework_accurato|Careful case analysis]]
 
-[[Quesiti/src_cesenatico_2012_pubblico#q02|src_cesenatico_2012_pubblico__Q02]]
+**Topic:** [[topic_disuguaglianze|Inequalities]], [[topic_logica|Logic, games and strategies]]
+**Metodo:** [[method_casework|Case analysis]], [[method_disuguaglianze|Classical inequalities]], [[method_ricorsione|Recursion]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]], [[skill_riconoscimento_pattern|Pattern recognition]], [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
 
 
-<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_aritmetica,method_fattorizzazione,skill_casework_accurato"></span>
+<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_aritmetica,method_fattorizzazione,method_casework,skill_casework_accurato,skill_lettura_attenta"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -103,8 +103,8 @@ level: gara del pubblico
 > più piccolo valore possibile per il numero che completava la profezia?
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
-**Abilita:** [[skill_casework_accurato|Casework accurato]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]], [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_lettura_attenta|Lettura attenta del testo]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 6231
 **Fonte:** [apri PDF p.16](https://drive.google.com/file/d/1ii8THgeKnONfiSNf2aOpPe09AWBVn-YO/view)
@@ -118,15 +118,15 @@ level: gara del pubblico
 > A prophecy in a box
 > From a time capsule buried fifty years ago a prophecy is recovered: "The world will end in a solar flare in the year n, where n is the largest 4-digit divisor of. . . ". Unfortunately the number that was written in place of the dots is no longer legible; one can only tell that it had at least 7 digits. Knowing that the flare, according to MIT, will happen this year, what is the smallest possible value of the number that completed the prophecy?
 
+
 **Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
-**Method:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
-**Skill:** [[skill_casework_accurato|Careful case analysis]]
-
-[[Quesiti/src_cesenatico_2012_pubblico#q03|src_cesenatico_2012_pubblico__Q03]]
-
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]], [[method_casework|Case analysis]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]], [[skill_lettura_attenta|Careful reading of the text]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
 
-<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_aritmetica,method_congruenze,skill_conteggio_sistematico"></span>
+
+<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_aritmetica,method_congruenze,method_doppio_conteggio,skill_conteggio_sistematico,skill_riconoscimento_pattern"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -141,8 +141,8 @@ level: gara del pubblico
 > di Skynet?
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]]
-**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]], [[method_doppio_conteggio|Doppio conteggio]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 8719
 **Fonte:** [apri PDF p.16](https://drive.google.com/file/d/1ii8THgeKnONfiSNf2aOpPe09AWBVn-YO/view)
@@ -156,15 +156,15 @@ level: gara del pubblico
 > The Matrix
 > In fact the world as we know it ended a long time ago. According to the archives of Zion, in the true year 2004, many generations ago, a computer network called Skynet became self-aware and enslaved the human race. Skynet was made up of 63 servers, numbered from 1 to 63, on each of which there ran a number of virtual machines equal to the highest exponent of a power of 2 that divides the factorial of the number that labels it. How many virtual machines does Skynet have in all?
 
+
 **Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
-**Method:** [[method_congruenze|Modular arithmetic / congruences]]
-**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
-
-[[Quesiti/src_cesenatico_2012_pubblico#q04|src_cesenatico_2012_pubblico__Q04]]
-
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]], [[method_doppio_conteggio|Double counting]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]], [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
 
-<span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_logica,method_ricorsione,skill_riconoscimento_pattern"></span>
+
+<span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_logica,topic_geometria_solida,topic_geometria_piana,method_ricorsione,method_simmetria,skill_riconoscimento_pattern,skill_ragionamento_geometrico"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -179,10 +179,10 @@ level: gara del pubblico
 > tutta la superficie dell’asteroide di bombe, distanti solo pochi centimetri l’una dall’altra e poi le fanno detonare simultaneamente.
 > Quanti metri deve valere come minimo r affinché quello che resta dell’asteroide sia diviso in almeno due pezzi?
 
-**Topic:** [[topic_logica|Logica, giochi, strategie]]
-**Metodo:** [[method_ricorsione|Ricorsione]]
-**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
-**Area:** [[Combinatoria, Logica e Probabilita]]
+**Topic:** [[topic_logica|Logica, giochi, strategie]], [[topic_geometria_solida|Geometria solida]], [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_ricorsione|Ricorsione]], [[method_simmetria|Sfruttamento della simmetria]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 **Risposta:** 0041
 **Fonte:** [apri PDF p.16](https://drive.google.com/file/d/1ii8THgeKnONfiSNf2aOpPe09AWBVn-YO/view)
 
@@ -195,15 +195,15 @@ level: gara del pubblico
 > Deep impact
 > An asteroid is heading for the Earth. Its shape is that of a solid of revolution, obtained by rotating about the line that is the perpendicular bisector of the side AB (which measures 3800 metres) the plane figure consisting of the square ABCD and of the 4 circles of radius 1900 metres centred at the vertices of the square. To destroy it, heroic miners are sent onto the asteroid; they can count on an infinite number of bombs, each of which disintegrates everything within a radius r of the point at which it explodes. Our heroes cover the whole surface of the asteroid with bombs, only a few centimetres apart, and then detonate them simultaneously. How many metres must r be, at least, so that what remains of the asteroid is divided into at least two pieces?
 
-**Topic:** [[topic_logica|Logic, games and strategies]]
-**Method:** [[method_ricorsione|Recursion]]
-**Skill:** [[skill_riconoscimento_pattern|Pattern recognition]]
 
-[[Quesiti/src_cesenatico_2012_pubblico#q05|src_cesenatico_2012_pubblico__Q05]]
+**Topic:** [[topic_logica|Logic, games and strategies]], [[topic_geometria_solida|Solid geometry]], [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_ricorsione|Recursion]], [[method_simmetria|Using symmetry]]
+**Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]], [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Geometria|Geometry]]
 
 
 
-<span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_geometria_solida,method_coordinate,skill_ragionamento_geometrico"></span>
+<span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_geometria_solida,topic_aritmetica,method_coordinate,method_fattorizzazione,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -218,10 +218,10 @@ level: gara del pubblico
 > m. Qual è il
 > minimo numero di teste che Bernardus può avere?
 
-**Topic:** [[topic_geometria_solida|Geometria solida]]
-**Metodo:** [[method_coordinate|Metodo delle coordinate]]
-**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
-**Area:** [[Geometria]]
+**Topic:** [[topic_geometria_solida|Geometria solida]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_coordinate|Metodo delle coordinate]], [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 9472
 **Fonte:** [apri PDF p.16](https://drive.google.com/file/d/1ii8THgeKnONfiSNf2aOpPe09AWBVn-YO/view)
 
@@ -237,15 +237,15 @@ level: gara del pubblico
 > n = 1
 > m. What is the least number of heads Bernardus can have?
 
-**Topic:** [[topic_geometria_solida|Solid geometry]]
-**Method:** [[method_coordinate|Coordinate method]]
-**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
 
-[[Quesiti/src_cesenatico_2012_pubblico#q06|src_cesenatico_2012_pubblico__Q06]]
+**Topic:** [[topic_geometria_solida|Solid geometry]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_coordinate|Coordinate method]], [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Geometria|Geometry]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
 
 
-<span class="atom-split" id="q07" data-atom="q07" data-title="Quesito 7" data-tags="topic_geometria_piana,method_coordinate,method_disuguaglianze,skill_ragionamento_geometrico"></span>
+<span class="atom-split" id="q07" data-atom="q07" data-title="Quesito 7" data-tags="topic_geometria_piana,topic_probabilita,method_coordinate,method_disuguaglianze,skill_ragionamento_geometrico,skill_modellizzazione,skill_lettura_attenta"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -264,10 +264,10 @@ level: gara del pubblico
 > lo sfiorerà soltanto, verrà annichilito e la Terra sarà salva. Lo scudo viene piazzato a qualche metro da terra, proprio in centro
 > all’area K. Qual è la probabilità che la Terra si salvi? Come risposta fornire le prime 4 cifre dopo la virgola.
 
-**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_probabilita|Probabilita e statistica]]
 **Metodo:** [[method_coordinate|Metodo delle coordinate]], [[method_disuguaglianze|Disuguaglianze classiche]]
-**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
-**Area:** [[Geometria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_lettura_attenta|Lettura attenta del testo]]
+**Area:** [[Geometria]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0843
 **Fonte:** [apri PDF p.16](https://drive.google.com/file/d/1ii8THgeKnONfiSNf2aOpPe09AWBVn-YO/view)
 
@@ -280,15 +280,15 @@ level: gara del pubblico
 > First Impact
 > On 21 December 2012 a spherical asteroid of radius 1/7 of a kilometre will strike the surface of the Earth perpendicularly, in a square area K of side 26 km, making a hole of exactly the same size as the asteroid. It is known that the hole will be completely contained in K, but it is not known exactly in which position (the experts are inclined to regard every position as equally likely). The authorities have a disintegrator shield of circular shape, of radius 5 km: even if the asteroid only grazes it, it will be annihilated and the Earth will be saved. The shield is placed a few metres above the ground, right at the centre of the area K. What is the probability that the Earth is saved? As the answer, give the first 4 digits after the decimal point.
 
-**Topic:** [[topic_geometria_piana|Plane geometry]]
-**Method:** [[method_coordinate|Coordinate method]], [[method_disuguaglianze|Classical inequalities]]
-**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
 
-[[Quesiti/src_cesenatico_2012_pubblico#q07|src_cesenatico_2012_pubblico__Q07]]
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_probabilita|Probability and statistics]]
+**Metodo:** [[method_coordinate|Coordinate method]], [[method_disuguaglianze|Classical inequalities]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_modellizzazione|Modelling / translating the text]], [[skill_lettura_attenta|Careful reading of the text]]
+**Area:** [[Geometria|Geometry]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
 
 
-<span class="atom-split" id="q08" data-atom="q08" data-title="Quesito 8" data-tags="topic_probabilita,skill_casework_accurato"></span>
+<span class="atom-split" id="q08" data-atom="q08" data-title="Quesito 8" data-tags="topic_probabilita,topic_algebra,topic_funzionali,method_ricorsione,skill_casework_accurato,skill_astrazione,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -302,9 +302,10 @@ level: gara del pubblico
 > per ogni a,b,c ∈N, si ha che a•b = b•a e anche che a•(b⋄c) = (a•b)⋄(a•c). Secondo il Necronomicon, mancano solo
 > (12•7)⋄17 giorni al risveglio di Cthulhu: quanti giorni sarebbero?
 
-**Topic:** [[topic_probabilita|Probabilita e statistica]]
-**Abilita:** [[skill_casework_accurato|Casework accurato]]
-**Area:** [[Combinatoria, Logica e Probabilita]]
+**Topic:** [[topic_probabilita|Probabilita e statistica]], [[topic_algebra|Algebra]], [[topic_funzionali|Equazioni funzionali / successioni]]
+**Metodo:** [[method_ricorsione|Ricorsione]]
+**Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_astrazione|Astrazione / generalizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Algebra e Analisi]]
 **Risposta:** 0840
 **Fonte:** [apri PDF p.16](https://drive.google.com/file/d/1ii8THgeKnONfiSNf2aOpPe09AWBVn-YO/view)
 
@@ -317,14 +318,15 @@ level: gara del pubblico
 > Alien arithmetic
 > The followers of Great Cthulhu, to be ready for the Chaos of the Last Day, have completely changed the usual rules of calculation on the natural numbers. Addition has been replaced by an operation denoted by ⋄ such that for every a, b ∈ N one has a⋄b = a+b+1, while, in place of multiplication, an operation denoted by • has been adopted, such that 0•0 = 1, and such that for every a, b, c ∈ N one has a•b = b•a and also a•(b⋄c) = (a•b)⋄(a•c). According to the Necronomicon, only (12•7)⋄17 days remain until the awakening of Cthulhu: how many days would that be?
 
-**Topic:** [[topic_probabilita|Probability and statistics]]
-**Skill:** [[skill_casework_accurato|Careful case analysis]]
 
-[[Quesiti/src_cesenatico_2012_pubblico#q08|src_cesenatico_2012_pubblico__Q08]]
+**Topic:** [[topic_probabilita|Probability and statistics]], [[topic_algebra|Algebra]], [[topic_funzionali|Functional equations / sequences]]
+**Metodo:** [[method_ricorsione|Recursion]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]], [[skill_astrazione|Abstraction / generalisation]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Algebra e Analisi|Algebra and analysis]]
 
 
 
-<span class="atom-split" id="q09" data-atom="q09" data-title="Quesito 9" data-tags="topic_aritmetica,skill_manipolazione_algebrica"></span>
+<span class="atom-split" id="q09" data-atom="q09" data-title="Quesito 9" data-tags="topic_aritmetica,topic_algebra,method_fattorizzazione,method_congruenze,skill_manipolazione_algebrica,skill_lettura_attenta,skill_modellizzazione"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -340,9 +342,10 @@ level: gara del pubblico
 > settimo volume sia al triplo delle pagine del primo volume. Quante pagine ha mangiato il verme? Ignorate le copertine, ma
 > ricordate come sono disposti i volumi sullo scaffale.
 
-**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
-**Area:** [[Aritmetica e Teoria dei Numeri]]
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]], [[method_congruenze|Aritmetica modulare / congruenze]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta del testo]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 **Risposta:** 2015
 **Fonte:** [apri PDF p.17](https://drive.google.com/file/d/1ii8THgeKnONfiSNf2aOpPe09AWBVn-YO/view)
 
@@ -355,14 +358,15 @@ level: gara del pubblico
 > Lost secrets
 > The alien invaders Santovasku know that the only earthling able to oppose them is a scholar who keeps the secrets for defeating them in n bulky books, arranged on a single shelf, from number 1 (on the left) onwards to number n (on the right). To destroy the books an alien insect is sent, which starts in the space between page 100 and page 101 of the first volume and begins to eat towards the right, as far as the last volume, where it stops between page 10 and page 11. It is known that each volume has 38 pages more than the previous one, and that the sum of the pages of the fourth volume and of the last volume is equal both to twice the pages of the seventh volume and to three times the pages of the first volume. How many pages did the worm eat? Ignore the covers, but remember how the volumes are arranged on the shelf.
 
-**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
-**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
 
-[[Quesiti/src_cesenatico_2012_pubblico#q09|src_cesenatico_2012_pubblico__Q09]]
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]], [[method_congruenze|Modular arithmetic / congruences]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_lettura_attenta|Careful reading of the text]], [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Algebra e Analisi|Algebra and analysis]]
 
 
 
-<span class="atom-split" id="q10" data-atom="q10" data-title="Quesito 10" data-tags="topic_combinatoria,topic_aritmetica,method_inclusione_esclusione,skill_conteggio_sistematico"></span>
+<span class="atom-split" id="q10" data-atom="q10" data-title="Quesito 10" data-tags="topic_combinatoria,topic_aritmetica,topic_probabilita,method_inclusione_esclusione,method_conteggio,method_casi_conteggio,skill_conteggio_sistematico,skill_modellizzazione"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -376,10 +380,10 @@ level: gara del pubblico
 > (Se in uno dei giorni richiesti Ash non ha tirato il dado, ad esempio due giorni prima del primo giorno, il numero uscito viene
 > considerato diverso.) Qual è la probabilità che il Mondo non finisca? Come risposta fornire le prime 4 cifre dopo la virgola.
 
-**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_inclusione_esclusione|Inclusione-esclusione]]
-**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
-**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_probabilita|Probabilita e statistica]]
+**Metodo:** [[method_inclusione_esclusione|Inclusione-esclusione]], [[method_conteggio|Conteggio combinatorio]], [[method_casi_conteggio|Conteggio per casi]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 8848
 **Fonte:** [apri PDF p.17](https://drive.google.com/file/d/1ii8THgeKnONfiSNf2aOpPe09AWBVn-YO/view)
 
@@ -392,15 +396,15 @@ level: gara del pubblico
 > Trying one's luck
 > No one any longer remembers the password for deactivating the robot Gort, which in 9 days will switch on and destroy life on Earth. There is, however, a second shutdown procedure. On each of these days the heroic Ash Williams will roll a 6-sided die. If every roll is different both from the number that came up two days earlier and from the one that will come up four days later, Gort will deactivate. (If on one of the days required Ash did not roll the die, for example two days before the first day, the number that came up is regarded as different.) What is the probability that the World does not end? As the answer, give the first 4 digits after the decimal point.
 
-**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_aritmetica|Arithmetic / Number theory]]
-**Method:** [[method_inclusione_esclusione|Inclusion–exclusion]]
-**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
 
-[[Quesiti/src_cesenatico_2012_pubblico#q10|src_cesenatico_2012_pubblico__Q10]]
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_aritmetica|Arithmetic / Number theory]], [[topic_probabilita|Probability and statistics]]
+**Metodo:** [[method_inclusione_esclusione|Inclusion–exclusion]], [[method_conteggio|Combinatorial counting]], [[method_casi_conteggio|Counting by cases]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]], [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
 
 
-<span class="atom-split" id="q11" data-atom="q11" data-title="Quesito 11" data-tags="topic_logica,skill_casework_accurato"></span>
+<span class="atom-split" id="q11" data-atom="q11" data-title="Quesito 11" data-tags="topic_logica,topic_algebra,skill_casework_accurato,skill_manipolazione_algebrica,skill_modellizzazione"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -413,9 +417,9 @@ level: gara del pubblico
 > sorpassa il Campione ogni 3 minuti. Se uno dei due corresse in senso inverso si incrocerebbero ogni 20 secondi. Qual è, in
 > centimetri al secondo, la velocità dell’aliena?
 
-**Topic:** [[topic_logica|Logica, giochi, strategie]]
-**Abilita:** [[skill_casework_accurato|Casework accurato]]
-**Area:** [[Combinatoria, Logica e Probabilita]]
+**Topic:** [[topic_logica|Logica, giochi, strategie]], [[topic_algebra|Algebra]]
+**Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Algebra e Analisi]]
 **Risposta:** 5110
 **Fonte:** [apri PDF p.17](https://drive.google.com/file/d/1ii8THgeKnONfiSNf2aOpPe09AWBVn-YO/view)
 
@@ -428,14 +432,14 @@ level: gara del pubblico
 > The chase
 > The ferocious aliens of the Uru System invade the Earth! The world will end unless the Champion of the Earth defeats the daughter of the aliens' chief in a desperate running race. The race is held on a track 500 metres long, over several laps. The alien overtakes the Champion every 3 minutes. If one of the two ran in the opposite direction, they would meet every 20 seconds. What is the alien's speed, in centimetres per second?
 
-**Topic:** [[topic_logica|Logic, games and strategies]]
-**Skill:** [[skill_casework_accurato|Careful case analysis]]
 
-[[Quesiti/src_cesenatico_2012_pubblico#q11|src_cesenatico_2012_pubblico__Q11]]
+**Topic:** [[topic_logica|Logic, games and strategies]], [[topic_algebra|Algebra]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]], [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Algebra e Analisi|Algebra and analysis]]
 
 
 
-<span class="atom-split" id="q12" data-atom="q12" data-title="Quesito 12" data-tags="topic_aritmetica,skill_modellizzazione"></span>
+<span class="atom-split" id="q12" data-atom="q12" data-title="Quesito 12" data-tags="topic_aritmetica,topic_geometria_piana,method_coordinate,skill_modellizzazione,skill_ragionamento_geometrico"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -448,9 +452,10 @@ level: gara del pubblico
 > che l’intersezione tra il triangolo DCE e il triangolo ABO è color rosso fuoco. Tutto il resto del monolito è nero. Quanti metri
 > quadrati misura l’area rossa?
 
-**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
-**Area:** [[Aritmetica e Teoria dei Numeri]]
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_coordinate|Metodo delle coordinate]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Geometria]]
 **Risposta:** 0113
 **Fonte:** [apri PDF p.17](https://drive.google.com/file/d/1ii8THgeKnONfiSNf2aOpPe09AWBVn-YO/view)
 
@@ -463,14 +468,15 @@ level: gara del pubblico
 > The umpteenth sign
 > A space probe has just discovered on the surface of Mars a mysterious monolith that perhaps heralds the end of the world. One of its square faces, ABCD, has area 2012 m2. Let E be the midpoint of AB and O the intersection of AC and BD. One observes that the intersection of triangle DCE and triangle ABO is fiery red. All the rest of the monolith is black. How many square metres does the red area measure?
 
-**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
-**Skill:** [[skill_modellizzazione|Modelling / translating the wording]]
 
-[[Quesiti/src_cesenatico_2012_pubblico#q12|src_cesenatico_2012_pubblico__Q12]]
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_coordinate|Coordinate method]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the wording]], [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Geometria|Geometry]]
 
 
 
-<span class="atom-split" id="q13" data-atom="q13" data-title="Quesito 13" data-tags="topic_combinatoria,method_casework,method_disuguaglianze,skill_casework_accurato"></span>
+<span class="atom-split" id="q13" data-atom="q13" data-title="Quesito 13" data-tags="topic_combinatoria,topic_logica,method_casework,method_disuguaglianze,method_simmetria,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -483,8 +489,8 @@ level: gara del pubblico
 > salvarsi). Si sa che gli alieni alla conferenza sono più di 2012 e meno di 8000 e che ogni creatura afferma che tra le due creature
 > alla sua sinistra ci sono tanti alieni quanti tra le due creature alla sua destra. Quanti sono in tutto gli alieni?
 
-**Topic:** [[topic_combinatoria|Combinatoria]]
-**Metodo:** [[method_casework|Analisi per casi]], [[method_disuguaglianze|Disuguaglianze classiche]]
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_logica|Logica, giochi, strategie]]
+**Metodo:** [[method_casework|Analisi per casi]], [[method_disuguaglianze|Disuguaglianze classiche]], [[method_simmetria|Sfruttamento della simmetria]]
 **Abilita:** [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0611
@@ -499,15 +505,15 @@ level: gara del pubblico
 > Knights from other shores
 > The invasion by the aliens of the Uru System is complete! At the peace conference, called in great haste, 8595 creatures sit around the round table; they may be aliens or earthlings (the former always tell the truth, the latter always lie in order to save themselves). It is known that the aliens at the conference are more than 2012 and fewer than 8000, and that every creature asserts that among the two creatures on its left there are as many aliens as among the two creatures on its right. How many aliens are there in all?
 
-**Topic:** [[topic_combinatoria|Combinatorics]]
-**Method:** [[method_casework|Case analysis]], [[method_disuguaglianze|Classical inequalities]]
-**Skill:** [[skill_casework_accurato|Careful case analysis]]
 
-[[Quesiti/src_cesenatico_2012_pubblico#q13|src_cesenatico_2012_pubblico__Q13]]
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_logica|Logic, games and strategies]]
+**Metodo:** [[method_casework|Case analysis]], [[method_disuguaglianze|Classical inequalities]], [[method_simmetria|Using symmetry]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
 
 
-<span class="atom-split" id="q14" data-atom="q14" data-title="Quesito 14" data-tags="topic_geometria_solida,method_coordinate,skill_ragionamento_geometrico"></span>
+<span class="atom-split" id="q14" data-atom="q14" data-title="Quesito 14" data-tags="topic_geometria_solida,topic_geometria_piana,method_coordinate,method_simmetria,skill_ragionamento_geometrico"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -522,8 +528,8 @@ level: gara del pubblico
 > STUVWX tali che S = AI ∩RP, T = KC ∩RP, U = FN ∩PQ, V = AH ∩PQ, W = KD ∩QR e X = FM ∩QR. Sapendo che
 > servono 3.5 m2 di area residenziale per ogni persona, quante persone possono vivere al massimo in uno di questi rifugi?
 
-**Topic:** [[topic_geometria_solida|Geometria solida]]
-**Metodo:** [[method_coordinate|Metodo delle coordinate]]
+**Topic:** [[topic_geometria_solida|Geometria solida]], [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_coordinate|Metodo delle coordinate]], [[method_simmetria|Sfruttamento della simmetria]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]]
 **Risposta:** 1035
@@ -538,15 +544,15 @@ level: gara del pubblico
 > A new hope
 > The Doomsday Device has been activated, and life on Earth will die out within a few months. Dr Strangelove suggests preserving the human race in underground shelters. The shelters that have been built have the shape described here. The habitable zone is an equilateral triangle QPR of side 112 m. It is served by three square hydroponic tanks PQDC, QRIH and RPNM, and by three water tanks in the shape of regular hexagons ABCPNO, FGHQDE and KLMRIJ. The residential zone proper is a polygon with 6 sides STUVWX such that S = AI ∩ RP, T = KC ∩ RP, U = FN ∩ PQ, V = AH ∩ PQ, W = KD ∩ QR and X = FM ∩ QR. Knowing that 3.5 m2 of residential area are needed for each person, how many people can live at most in one of these shelters?
 
-**Topic:** [[topic_geometria_solida|Solid geometry]]
-**Method:** [[method_coordinate|Coordinate method]]
-**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
 
-[[Quesiti/src_cesenatico_2012_pubblico#q14|src_cesenatico_2012_pubblico__Q14]]
+**Topic:** [[topic_geometria_solida|Solid geometry]], [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_coordinate|Coordinate method]], [[method_simmetria|Using symmetry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
 
 
 
-<span class="atom-split" id="q15" data-atom="q15" data-title="Quesito 15" data-tags="topic_geometria_solida,topic_trigonometria,method_trigonometria,skill_ragionamento_geometrico"></span>
+<span class="atom-split" id="q15" data-atom="q15" data-title="Quesito 15" data-tags="topic_geometria_solida,topic_trigonometria,topic_geometria_piana,method_trigonometria,method_conteggio,skill_ragionamento_geometrico,skill_conteggio_sistematico,skill_lettura_attenta"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -562,9 +568,9 @@ level: gara del pubblico
 > sulla lastra c’era posto solo per gli anni fino al 2012 DC. Apparentemente poi sarebbe giunto il Male Assoluto a porre fine alla
 > civiltà. Quanti millimetri misura come minimo il lato dell’esagono?
 
-**Topic:** [[topic_geometria_solida|Geometria solida]], [[topic_trigonometria|Trigonometria]]
-**Metodo:** [[method_trigonometria|Tecniche trigonometriche]]
-**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Topic:** [[topic_geometria_solida|Geometria solida]], [[topic_trigonometria|Trigonometria]], [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_trigonometria|Tecniche trigonometriche]], [[method_conteggio|Conteggio combinatorio]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta del testo]]
 **Area:** [[Geometria]]
 **Risposta:** 3141
 **Fonte:** [apri PDF p.17](https://drive.google.com/file/d/1ii8THgeKnONfiSNf2aOpPe09AWBVn-YO/view)
@@ -578,15 +584,16 @@ level: gara del pubblico
 > Egyptian accuracy
 > In an ancient Egyptian temple a stone slab in the shape of a regular hexagon was found, which was used to count the years. For every year, starting from an uncertain date between 700 BC and 800 BC and up to their disappearance, the Egyptians engraved on the slab a circle of radius 16 mm. The circles were engraved so as not to overlap, and it was calculated that, even optimising the space, there was room on the slab only for the years up to AD 2012. Apparently Absolute Evil would then have come to put an end to civilisation. How many millimetres, at least, does the side of the hexagon measure?
 
-**Topic:** [[topic_geometria_solida|Solid geometry]], [[topic_trigonometria|Trigonometry]]
-**Method:** [[method_trigonometria|Trigonometric techniques]]
-**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
 
+**Topic:** [[topic_geometria_solida|Solid geometry]], [[topic_trigonometria|Trigonometry]], [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_trigonometria|Trigonometric techniques]], [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_conteggio_sistematico|Systematic counting]], [[skill_lettura_attenta|Careful reading of the text]]
+**Area:** [[Geometria|Geometry]]
 [[src_cesenatico_2012_pubblico__prob15.png]]
 
 
 
-<span class="atom-split" id="q16" data-atom="q16" data-title="Quesito 16" data-tags="topic_combinatoria,topic_aritmetica,method_conteggio,skill_conteggio_sistematico"></span>
+<span class="atom-split" id="q16" data-atom="q16" data-title="Quesito 16" data-tags="topic_combinatoria,topic_aritmetica,method_conteggio,method_simmetria,method_casi_conteggio,skill_conteggio_sistematico,skill_astrazione"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -635,9 +642,9 @@ level: gara del pubblico
 > 90 minuti dall’inizio: termine della gara.
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_conteggio|Conteggio combinatorio]]
-**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
-**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+**Metodo:** [[method_conteggio|Conteggio combinatorio]], [[method_simmetria|Sfruttamento della simmetria]], [[method_casi_conteggio|Conteggio per casi]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_astrazione|Astrazione / generalizzazione]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 3386
 **Fonte:** [apri PDF p.17](https://drive.google.com/file/d/1ii8THgeKnONfiSNf2aOpPe09AWBVn-YO/view)
 
@@ -674,8 +681,8 @@ level: gara del pubblico
 > 30 minutes from the start: the last moment for asking questions about the text.
 > 90 minutes from the start: the end of the contest.
 
-**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_aritmetica|Arithmetic / Number theory]]
-**Method:** [[method_conteggio|Combinatorial counting]]
-**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
 
-[[Quesiti/src_cesenatico_2012_pubblico#q16|src_cesenatico_2012_pubblico__Q16]]
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_conteggio|Combinatorial counting]], [[method_simmetria|Using symmetry]], [[method_casi_conteggio|Counting by cases]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]], [[skill_astrazione|Abstraction / generalisation]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]

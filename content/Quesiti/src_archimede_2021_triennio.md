@@ -30,6 +30,7 @@ level: triennio
 **Metodo:** [[method_casi_conteggio|Conteggio per casi]], [[method_conteggio|Conteggio combinatorio]]
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
+**Risposta:** D
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1CWkGmegnNYqLQX7D7hXvZCFR4VoEmyDh/view)
 
 
@@ -51,11 +52,11 @@ level: triennio
 **Topic:** [[topic_combinatoria|Combinatorics]]
 **Method:** [[method_casi_conteggio|Counting by cases]], [[method_conteggio|Combinatorial counting]]
 **Skill:** [[skill_conteggio_sistematico|Systematic counting]]
-[[Quesiti/src_archimede_2021_triennio#q01|src_archimede_2021_triennio__Q01]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
 
 
-<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_algebra,skill_manipolazione_algebrica"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_algebra,method_casework,skill_manipolazione_algebrica,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -73,8 +74,10 @@ level: triennio
 > - **(E)** 47/7
 
 **Topic:** [[topic_algebra|Algebra]]
-**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Metodo:** [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Algebra e Analisi]]
+**Risposta:** D
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1CWkGmegnNYqLQX7D7hXvZCFR4VoEmyDh/view)
 
 
@@ -94,12 +97,13 @@ level: triennio
 
 
 **Topic:** [[topic_algebra|Algebra]]
-**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
-[[Quesiti/src_archimede_2021_triennio#q02|src_archimede_2021_triennio__Q02]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
 
 
 
-<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_logica,method_casework,skill_lettura_attenta"></span>
+<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_logica,method_casework,skill_lettura_attenta,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -119,8 +123,9 @@ level: triennio
 
 **Topic:** [[topic_logica|Logica, giochi, strategie]]
 **Metodo:** [[method_casework|Analisi per casi]]
-**Abilita:** [[skill_lettura_attenta|Lettura attenta del testo]]
+**Abilita:** [[skill_lettura_attenta|Lettura attenta del testo]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
+**Risposta:** C
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1CWkGmegnNYqLQX7D7hXvZCFR4VoEmyDh/view)
 
 
@@ -139,9 +144,9 @@ level: triennio
 
 
 **Topic:** [[topic_logica|Logic, games, strategies]]
-**Method:** [[method_casework|Case analysis]]
-**Skill:** [[skill_lettura_attenta|Careful reading]]
-[[Quesiti/src_archimede_2021_triennio#q03|src_archimede_2021_triennio__Q03]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_lettura_attenta|Careful reading]], [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
 
 
@@ -164,6 +169,7 @@ level: triennio
 **Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
+**Risposta:** C
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1CWkGmegnNYqLQX7D7hXvZCFR4VoEmyDh/view)
 
 
@@ -184,11 +190,11 @@ level: triennio
 **Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
 **Method:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
 **Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
-[[Quesiti/src_archimede_2021_triennio#q04|src_archimede_2021_triennio__Q04]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
 
 
-<span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_probabilita,method_conteggio,skill_conteggio_sistematico"></span>
+<span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_probabilita,method_conteggio,method_casi_conteggio,skill_conteggio_sistematico"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -205,9 +211,10 @@ level: triennio
 > - **(E)** 5/8
 
 **Topic:** [[topic_probabilita|Probabilita e statistica]]
-**Metodo:** [[method_conteggio|Conteggio combinatorio]]
+**Metodo:** [[method_conteggio|Conteggio combinatorio]], [[method_casi_conteggio|Conteggio per casi]]
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
+**Risposta:** C
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1CWkGmegnNYqLQX7D7hXvZCFR4VoEmyDh/view)
 
 
@@ -226,13 +233,13 @@ level: triennio
 
 
 **Topic:** [[topic_probabilita|Probability and statistics]]
-**Method:** [[method_conteggio|Combinatorial counting]]
-**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
-[[Quesiti/src_archimede_2021_triennio#q05|src_archimede_2021_triennio__Q05]]
+**Metodo:** [[method_conteggio|Combinatorial counting]], [[method_casi_conteggio|Counting by cases]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
 
 
-<span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_aritmetica,method_congruenze,skill_manipolazione_algebrica"></span>
+<span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_aritmetica,method_congruenze,method_fattorizzazione,method_casework,skill_manipolazione_algebrica,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -249,9 +256,10 @@ level: triennio
 > - **(E)** 81
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]]
-**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]], [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]], [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
+**Risposta:** B
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1CWkGmegnNYqLQX7D7hXvZCFR4VoEmyDh/view)
 
 
@@ -270,9 +278,9 @@ level: triennio
 
 
 **Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
-**Method:** [[method_congruenze|Modular arithmetic / congruences]]
-**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
-[[Quesiti/src_archimede_2021_triennio#q06|src_archimede_2021_triennio__Q06]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]], [[method_fattorizzazione|Factorisation / algebraic manipulation]], [[method_casework|Case analysis]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
 
 
@@ -295,6 +303,7 @@ level: triennio
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]]
+**Risposta:** A
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1CWkGmegnNYqLQX7D7hXvZCFR4VoEmyDh/view)
 
 
@@ -315,11 +324,11 @@ level: triennio
 
 **Topic:** [[topic_geometria_piana|Plane geometry]]
 **Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
-[[Quesiti/src_archimede_2021_triennio#q07|src_archimede_2021_triennio__Q07]]
+**Area:** [[Geometria|Geometry]]
 
 
 
-<span class="atom-split" id="q08" data-atom="q08" data-title="Quesito 8" data-tags="topic_geometria_piana,method_doppio_conteggio,skill_ragionamento_geometrico"></span>
+<span class="atom-split" id="q08" data-atom="q08" data-title="Quesito 8" data-tags="topic_geometria_piana,method_doppio_conteggio,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -369,8 +378,9 @@ level: triennio
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_doppio_conteggio|Doppio conteggio]]
-**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
+**Risposta:** B
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1CWkGmegnNYqLQX7D7hXvZCFR4VoEmyDh/view)
 
 
@@ -420,9 +430,9 @@ level: triennio
 
 
 **Topic:** [[topic_geometria_piana|Plane geometry]]
-**Method:** [[method_doppio_conteggio|Double counting]]
-**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
-[[Quesiti/src_archimede_2021_triennio#q08|src_archimede_2021_triennio__Q08]]
+**Metodo:** [[method_doppio_conteggio|Double counting]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Geometria|Geometry]]
 
 
 
@@ -446,6 +456,7 @@ level: triennio
 **Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Algebra e Analisi]]
+**Risposta:** D
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1CWkGmegnNYqLQX7D7hXvZCFR4VoEmyDh/view)
 
 
@@ -466,11 +477,11 @@ level: triennio
 **Topic:** [[topic_algebra|Algebra]]
 **Method:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
 **Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
-[[Quesiti/src_archimede_2021_triennio#q09|src_archimede_2021_triennio__Q09]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
 
 
 
-<span class="atom-split" id="q10" data-atom="q10" data-title="Quesito 10" data-tags="topic_combinatoria,method_ricorsione,skill_riconoscimento_pattern"></span>
+<span class="atom-split" id="q10" data-atom="q10" data-title="Quesito 10" data-tags="topic_combinatoria,method_ricorsione,method_casework,skill_riconoscimento_pattern,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -488,9 +499,10 @@ level: triennio
 > - **(E)** 4
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
-**Metodo:** [[method_ricorsione|Ricorsione]]
-**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Metodo:** [[method_ricorsione|Ricorsione]], [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
+**Risposta:** D
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1CWkGmegnNYqLQX7D7hXvZCFR4VoEmyDh/view)
 
 
@@ -511,9 +523,9 @@ level: triennio
 
 
 **Topic:** [[topic_combinatoria|Combinatorics]]
-**Method:** [[method_ricorsione|Recursion]]
-**Skill:** [[skill_riconoscimento_pattern|Pattern recognition]]
-[[Quesiti/src_archimede_2021_triennio#q10|src_archimede_2021_triennio__Q10]]
+**Metodo:** [[method_ricorsione|Recursion]], [[method_casework|Case analysis]]
+**Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]], [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
 
 
@@ -539,6 +551,7 @@ level: triennio
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]]
+**Risposta:** E
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1CWkGmegnNYqLQX7D7hXvZCFR4VoEmyDh/view)
 
 
@@ -562,11 +575,11 @@ level: triennio
 
 **Topic:** [[topic_geometria_piana|Plane geometry]]
 **Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
-[[Quesiti/src_archimede_2021_triennio#q11|src_archimede_2021_triennio__Q11]]
+**Area:** [[Geometria|Geometry]]
 
 
 
-<span class="atom-split" id="q12" data-atom="q12" data-title="Quesito 12" data-tags="topic_funzionali,method_simmetria,skill_astrazione"></span>
+<span class="atom-split" id="q12" data-atom="q12" data-title="Quesito 12" data-tags="topic_funzionali,method_simmetria,skill_astrazione,skill_riconoscimento_pattern,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -584,8 +597,9 @@ level: triennio
 
 **Topic:** [[topic_funzionali|Equazioni funzionali / successioni]]
 **Metodo:** [[method_simmetria|Sfruttamento della simmetria]]
-**Abilita:** [[skill_astrazione|Astrazione / generalizzazione]]
+**Abilita:** [[skill_astrazione|Astrazione / generalizzazione]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Algebra e Analisi]]
+**Risposta:** D
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1CWkGmegnNYqLQX7D7hXvZCFR4VoEmyDh/view)
 
 
@@ -604,6 +618,6 @@ level: triennio
 
 
 **Topic:** [[topic_funzionali|Functional equations / sequences]]
-**Method:** [[method_simmetria|Using symmetry]]
-**Skill:** [[skill_astrazione|Abstraction / generalisation]]
-[[Quesiti/src_archimede_2021_triennio#q12|src_archimede_2021_triennio__Q12]]
+**Metodo:** [[method_simmetria|Using symmetry]]
+**Abilita:** [[skill_astrazione|Abstraction / generalisation]], [[skill_riconoscimento_pattern|Pattern recognition]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]

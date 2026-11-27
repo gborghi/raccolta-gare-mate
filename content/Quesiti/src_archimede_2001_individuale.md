@@ -10,7 +10,7 @@ level: nazionale
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_geometria_piana,skill_ragionamento_geometrico"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_geometria_piana,method_coordinate,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -22,7 +22,8 @@ level: nazionale
 > Un esagono equiangolo ha quattro lati consecutivi lunghi nell'ordine $5$, $3$, $6$ e $7$. Determinare le lunghezze degli altri due lati.
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
-**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Metodo:** [[method_coordinate|Metodo delle coordinate]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 **Risposta:** f=8, e=1
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1A9srde8jr1P_P4jFh6F_tbnHBjWRzN4z/view)
@@ -33,16 +34,19 @@ level: nazionale
 
 *Finding the two missing sides*
 
+![[src_archimede_2001_individuale__prob1.png]]
+
 > An equiangular hexagon has four consecutive sides of lengths, in order, $5$, $3$, $6$ and $7$. Determine the lengths of the other two sides.
 
 
 **Topic:** [[topic_geometria_piana|Plane geometry]]
-**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
-[[Quesiti/src_archimede_2001_individuale#q01|src_archimede_2001_individuale__Q01]]
+**Metodo:** [[method_coordinate|Coordinate method]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Geometria|Geometry]]
 
 
 
-<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_combinatoria,topic_aritmetica,skill_conteggio_sistematico"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_combinatoria,topic_aritmetica,method_doppio_conteggio,method_casework,skill_conteggio_sistematico,skill_casework_accurato,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -54,8 +58,9 @@ level: nazionale
 > (Ricordiamo che nella pallacanestro si assegnano $2$ punti alla squadra vincente e $0$ a quella sconfitta, mentre non è possibile che una partita finisca in parità.)
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
-**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+**Metodo:** [[method_doppio_conteggio|Doppio conteggio]], [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 12
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1A9srde8jr1P_P4jFh6F_tbnHBjWRzN4z/view)
 
@@ -71,12 +76,13 @@ level: nazionale
 
 
 **Topic:** [[topic_combinatoria|Combinatorics]], [[topic_aritmetica|Arithmetic / Number theory]]
-**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
-[[Quesiti/src_archimede_2001_individuale#q02|src_archimede_2001_individuale__Q02]]
+**Metodo:** [[method_doppio_conteggio|Double counting]], [[method_casework|Case analysis]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]], [[skill_casework_accurato|Careful case analysis]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
 
 
-<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_aritmetica,topic_algebra,method_fattorizzazione,skill_manipolazione_algebrica"></span>
+<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_aritmetica,topic_algebra,method_fattorizzazione,skill_manipolazione_algebrica,skill_astrazione"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -95,8 +101,8 @@ level: nazionale
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
 **Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
-**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
-**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione / generalizzazione]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 **Risposta:** 8 coppie; con x primo: (3,3^667),(23,23^87),(29,29^69)
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1A9srde8jr1P_P4jFh6F_tbnHBjWRzN4z/view)
 
@@ -118,13 +124,13 @@ level: nazionale
 
 
 **Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_algebra|Algebra]]
-**Method:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
-**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
-[[Quesiti/src_archimede_2001_individuale#q03|src_archimede_2001_individuale__Q03]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_astrazione|Abstraction / generalisation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Algebra e Analisi|Algebra and analysis]]
 
 
 
-<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_combinatoria,topic_aritmetica,method_congruenze,skill_conteggio_sistematico"></span>
+<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_combinatoria,topic_aritmetica,method_congruenze,method_bigezione,method_simmetria,method_fattorizzazione,skill_conteggio_sistematico"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -143,9 +149,9 @@ level: nazionale
 > (b) Determinare con quanti zeri termina il minimo comune multiplo di tutti i numeri monotoni (senza vincoli sul numero di cifre).
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]]
+**Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]], [[method_bigezione|Bigezione / corrispondenza]], [[method_simmetria|Sfruttamento della simmetria]], [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
-**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** somma=13999860; mcm termina con 3 zeri
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1A9srde8jr1P_P4jFh6F_tbnHBjWRzN4z/view)
 
@@ -168,9 +174,9 @@ level: nazionale
 
 
 **Topic:** [[topic_combinatoria|Combinatorics]], [[topic_aritmetica|Arithmetic / Number theory]]
-**Method:** [[method_congruenze|Modular arithmetic / congruences]]
-**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
-[[Quesiti/src_archimede_2001_individuale#q04|src_archimede_2001_individuale__Q04]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]], [[method_bigezione|Bijection / correspondence]], [[method_simmetria|Using symmetry]], [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
 
 
@@ -197,17 +203,19 @@ level: nazionale
 
 *to prove AT=SB*
 
+![[src_archimede_2001_individuale__prob5.png]]
+
 > Let $ABC$ be a triangle and let $\omega$ be the circle inscribed in $ABC$. The circle $\omega$ is tangent to side $AB$ at point $T$. Let $D$ be the point of $\omega$ diametrically opposite to $T$, and let $S$ be the point of intersection of the line through $C$ and $D$ with side $AB$. Prove that $AT = SB$.
 
 
 **Topic:** [[topic_geometria_piana|Plane geometry]]
 **Method:** [[method_simmetria|Using symmetry]]
 **Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
-[[Quesiti/src_archimede_2001_individuale#q05|src_archimede_2001_individuale__Q05]]
+**Area:** [[Geometria|Geometry]]
 
 
 
-<span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_combinatoria,topic_logica,method_colorazione,method_invarianti,skill_casework_accurato"></span>
+<span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_combinatoria,topic_logica,topic_algebra,method_colorazione,method_invarianti,method_congruenze,skill_casework_accurato,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -220,10 +228,10 @@ level: nazionale
 > 
 > (b) Qual è la risposta alla domanda precedente se le lampadine sono $81$, disposte in modo da formare un pannello di $9$ righe e $9$ colonne?
 
-**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_logica|Logica, giochi, strategie]]
-**Metodo:** [[method_colorazione|Colorazione / parita]], [[method_invarianti|Invarianti / monovarianti]]
-**Abilita:** [[skill_casework_accurato|Casework accurato]]
-**Area:** [[Combinatoria, Logica e Probabilita]]
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_logica|Logica, giochi, strategie]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_colorazione|Colorazione / parita]], [[method_invarianti|Invarianti / monovarianti]], [[method_congruenze|Aritmetica modulare / congruenze]]
+**Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Algebra e Analisi]]
 **Risposta:** 10x10: da qualsiasi configurazione; 9x9: condizione di parita per righe/colonne
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1A9srde8jr1P_P4jFh6F_tbnHBjWRzN4z/view)
 
@@ -240,7 +248,7 @@ level: nazionale
 > (b) What is the answer to the previous question if the lamps are $81$, arranged to form a panel of $9$ rows and $9$ columns?
 
 
-**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_logica|Logic, games, strategies]]
-**Method:** [[method_colorazione|Colouring / parity]], [[method_invarianti|Invariants / monovariants]]
-**Skill:** [[skill_casework_accurato|Careful casework]]
-[[Quesiti/src_archimede_2001_individuale#q06|src_archimede_2001_individuale__Q06]]
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_logica|Logic, games, strategies]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_colorazione|Colouring / parity]], [[method_invarianti|Invariants / monovariants]], [[method_congruenze|Modular arithmetic / congruences]]
+**Abilita:** [[skill_casework_accurato|Careful casework]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Algebra e Analisi|Algebra and analysis]]

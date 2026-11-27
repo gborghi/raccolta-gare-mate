@@ -10,7 +10,7 @@ level: China Mathematical Olympiad
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_geometria_piana,method_trigonometria,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_geometria_piana,method_trigonometria,skill_ragionamento_geometrico,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -21,8 +21,8 @@ level: China Mathematical Olympiad
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_trigonometria|Trigonometria]]
-**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
-**Area:** [[Geometria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Careful reading of the text]]
+**Area:** [[Geometria|Geometry]]
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1Bie5BlTQQyjdGifDyOeZ-kZzNFzUwbxT/view)
 
 
@@ -33,16 +33,15 @@ level: China Mathematical Olympiad
 
 > Si supponga che i punti $I$ e $H$ siano rispettivamente l'incentro e l'ortocentro di un triangolo acuto $ABC$, e che i punti $B_1$ e $C_1$ siano i punti medi dei lati $AC$ e $AB$ rispettivamente. È noto che il raggio $B_1I$ interseca il lato $AB$ in $B_2$ (o la sua prolungazione), che $C_1I$ interseca la prolungazione di $AC$ in $C_2$, che $B_2C_2$ e $BC$ si intersecano in $K$, e che $A_1$ è il circocentro di $\triangle BHC$. Dimostrare che i tre punti $A_1$, $I$ e $A$ sono allineati se e solo se le aree di $\triangle B_1B_2K$ e $\triangle C_1C_2K$ sono uguali. (proposto da Shen Wenxuan)
 
+
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_trigonometria|Trigonometria]]
-**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta del testo]]
 **Area:** [[Geometria]]
 
-[[Quesiti/src_cn_cmo_2003#q01|src_cn_cmo_2003__Q01]]
 
 
-
-<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_combinatoria,topic_aritmetica,method_estremalita,method_casework,skill_conteggio_sistematico,skill_lettura_attenta,skill_ragionamento_geometrico"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_combinatoria,topic_aritmetica,method_estremalita,method_casework,skill_conteggio_sistematico,skill_lettura_attenta,skill_ragionamento_geometrico,skill_modellizzazione"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -57,8 +56,8 @@ level: China Mathematical Olympiad
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_estremalita|Estremalità]], [[method_casework|Casework]]
-**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
-**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Risposta:** 72
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1Bie5BlTQQyjdGifDyOeZ-kZzNFzUwbxT/view)
 
@@ -70,16 +69,15 @@ level: China Mathematical Olympiad
 
 > Supponiamo che un insieme $S$ soddisfi le seguenti condizioni: (1) ogni elemento in $S$ è un numero intero positivo e non superiore a $100$; (2) per qualsiasi coppia di elementi $a$ e $b$ in $S$, esiste un elemento $c$ in $S$ tale che il massimo comune divisore di $a$ e $c$ è uguale a $1$, e il massimo comune divisore di $b$ e $c$ è anch'esso $1$; (3) per qualsiasi coppia di elementi $a$ e $b$ in $S$, esiste un elemento $d$, diverso da $a$ e da $b$, tale che il massimo comune divisore di $d$ e $a$, e quello di $d$ e $b$, siano entrambi maggiori di $1$. Determinare il numero massimo di elementi in $S$. (proposto da Yao Jiangang)
 
+
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_estremalita|Estremalità]], [[method_casework|Casework]]
-**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 
-[[Quesiti/src_cn_cmo_2003#q02|src_cn_cmo_2003__Q02]]
 
 
-
-<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_disuguaglianze,topic_trigonometria,method_disuguaglianze,method_estremalita,skill_manipolazione_algebrica,skill_stima"></span>
+<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_disuguaglianze,topic_trigonometria,method_disuguaglianze,method_estremalita,method_trigonometria,skill_manipolazione_algebrica,skill_stima"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -89,9 +87,9 @@ level: China Mathematical Olympiad
 > Given a positive integer $n$, find the minimum value $\lambda$ such that $\cos\theta_1 + \cos\theta_2 + \cdots + \cos\theta_n < \lambda$ holds whenever $\tan\theta_1 \cdot \tan\theta_2 \cdots \tan\theta_n = 2^{\frac{n}{2}}$ for any $\theta_i \in \left(0, \frac{\pi}{2}\right)$, $i = 1, 2, \ldots, n$. (posed by Huang Yumin)
 
 **Topic:** [[topic_disuguaglianze|Disuguaglianze]], [[topic_trigonometria|Trigonometria]]
-**Metodo:** [[method_disuguaglianze|Disuguaglianze]], [[method_estremalita|Estremalità]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze]], [[method_estremalita|Estremalità]], [[method_trigonometria|Trigonometric techniques]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]]
-**Area:** [[Algebra e Analisi]], [[Geometria]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Geometria|Geometry]]
 **Risposta:** n-1
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1Bie5BlTQQyjdGifDyOeZ-kZzNFzUwbxT/view)
 
@@ -103,12 +101,11 @@ level: China Mathematical Olympiad
 
 > Dato un intero positivo $n$, trovare il valore minimo $\lambda$ tale che $\cos\theta_1 + \cos\theta_2 + \cdots + \cos\theta_n < \lambda$ valga ogni volta che $\tan\theta_1 \cdot \tan\theta_2 \cdots \tan\theta_n = 2^{\frac{n}{2}}$ per ogni $\theta_i \in \left(0, \frac{\pi}{2}\right)$, $i = 1, 2, \ldots, n$. (proposto da Huang Yumin)
 
+
 **Topic:** [[topic_disuguaglianze|Disuguaglianze]], [[topic_trigonometria|Trigonometria]]
-**Metodo:** [[method_disuguaglianze|Disuguaglianze]], [[method_estremalita|Estremalità]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze]], [[method_estremalita|Estremalità]], [[method_trigonometria|Tecniche trigonometriche]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]]
 **Area:** [[Algebra e Analisi]], [[Geometria]]
-
-[[Quesiti/src_cn_cmo_2003#q03|src_cn_cmo_2003__Q03]]
 
 
 
@@ -140,11 +137,9 @@ level: China Mathematical Olympiad
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 
-[[Quesiti/src_cn_cmo_2003#q04|src_cn_cmo_2003__Q04]]
 
 
-
-<span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_probabilita,topic_combinatoria,method_conteggio,method_doppio_conteggio,skill_conteggio_sistematico,skill_modellizzazione,skill_manipolazione_algebrica"></span>
+<span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_probabilita,topic_combinatoria,method_conteggio,method_doppio_conteggio,method_casi_conteggio,skill_conteggio_sistematico,skill_modellizzazione,skill_manipolazione_algebrica,skill_lettura_attenta,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -160,9 +155,9 @@ level: China Mathematical Olympiad
 > (2) The probability for the company to employ one of the bottom three is not over $10\%$. (posed by Su Chun)
 
 **Topic:** [[topic_probabilita|Probabilità]], [[topic_combinatoria|Combinatoria]]
-**Metodo:** [[method_conteggio|Conteggio]], [[method_doppio_conteggio|Doppio conteggio]]
-**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
-**Area:** [[Combinatoria, Logica e Probabilita]]
+**Metodo:** [[method_conteggio|Conteggio]], [[method_doppio_conteggio|Doppio conteggio]], [[method_casi_conteggio|Counting by cases]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Careful reading of the text]], [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1Bie5BlTQQyjdGifDyOeZ-kZzNFzUwbxT/view)
 
 
@@ -177,16 +172,15 @@ level: China Mathematical Olympiad
 >
 > Dimostrare che la politica fornita dal manager ha le seguenti due proprietà: (1) La probabilità che l'azienda assuma uno dei tre migliori (ossia $A_1$, $A_2$ o $A_3$) è maggiore di $70\%$. (2) La probabilità che l'azienda assuma uno dei tre peggiori non supera $10\%$. (proposto da Su Chun)
 
+
 **Topic:** [[topic_probabilita|Probabilità]], [[topic_combinatoria|Combinatoria]]
-**Metodo:** [[method_conteggio|Conteggio]], [[method_doppio_conteggio|Doppio conteggio]]
-**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Metodo:** [[method_conteggio|Conteggio]], [[method_doppio_conteggio|Doppio conteggio]], [[method_casi_conteggio|Conteggio per casi]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta del testo]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 
-[[Quesiti/src_cn_cmo_2003#q05|src_cn_cmo_2003__Q05]]
 
 
-
-<span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_disuguaglianze,topic_geometria_analitica,method_disuguaglianze,skill_manipolazione_algebrica,skill_ragionamento_geometrico"></span>
+<span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_disuguaglianze,topic_geometria_analitica,method_disuguaglianze,method_coordinate,skill_manipolazione_algebrica,skill_ragionamento_geometrico"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -198,9 +192,9 @@ level: China Mathematical Olympiad
 > (posed by Li Shenghong)
 
 **Topic:** [[topic_disuguaglianze|Disuguaglianze]], [[topic_geometria_analitica|Geometria analitica]]
-**Metodo:** [[method_disuguaglianze|Disuguaglianze]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze]], [[method_coordinate|Coordinate method]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
-**Area:** [[Algebra e Analisi]], [[Geometria]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Geometria|Geometry]]
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1Bie5BlTQQyjdGifDyOeZ-kZzNFzUwbxT/view)
 
 
@@ -213,9 +207,8 @@ level: China Mathematical Olympiad
 > $$(ay_1 + by_2 + cy_3 + dy_4)^2 + (ax_4 + bx_3 + cx_2 + dx_1)^2 \le 2\left(\frac{a^2+b^2}{ab} + \frac{c^2+d^2}{cd}\right).$$
 > (proposto da Li Shenghong)
 
+
 **Topic:** [[topic_disuguaglianze|Disuguaglianze]], [[topic_geometria_analitica|Geometria analitica]]
-**Metodo:** [[method_disuguaglianze|Disuguaglianze]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze]], [[method_coordinate|Metodo delle coordinate]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Algebra e Analisi]], [[Geometria]]
-
-[[Quesiti/src_cn_cmo_2003#q06|src_cn_cmo_2003__Q06]]

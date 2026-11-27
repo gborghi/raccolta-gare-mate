@@ -10,7 +10,7 @@ level: squadre
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_aritmetica,topic_geometria_solida,method_fattorizzazione,skill_riconoscimento_pattern"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_aritmetica,topic_geometria_solida,method_fattorizzazione,method_casework,skill_riconoscimento_pattern,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -22,8 +22,8 @@ level: squadre
 > 37 m3. Di quanti metri quadrati è la differenza (positiva) delle loro superfici?
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_geometria_solida|Geometria solida]]
-**Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
-**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]], [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Geometria]]
 **Risposta:** 0042
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1CmLSHw389QtxIh-Wjity4OpGnT2Nasn8/view)
@@ -36,16 +36,15 @@ level: squadre
 
 > Difference of Cubes The side lengths, in meters, of two cubes are integers. The (positive) difference of their volumes is 37 m³. By how many square meters is the (positive) difference of their surface areas?
 
+
 **Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_geometria_solida|Solid geometry]]
-**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
-**Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]], [[method_casework|Case analysis]]
+**Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Geometria|Geometry]]
 
-[[Quesiti/src_kangourou_2023_kangourou_squadre_f2#q01|src_kangourou_2023_kangourou_squadre_f2__Q01]]
 
 
-
-<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_algebra,skill_modellizzazione"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_algebra,method_fattorizzazione,skill_modellizzazione,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -58,7 +57,8 @@ level: squadre
 > Quante ragazze hanno sostenuto l’esame?
 
 **Topic:** [[topic_algebra|Algebra]]
-**Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Algebra e Analisi]]
 **Risposta:** 0126
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1CmLSHw389QtxIh-Wjity4OpGnT2Nasn8/view)
@@ -71,15 +71,15 @@ level: squadre
 
 > The Exam 210 students took part in a university exam. The average grade (out of 30) reported by the girls is 25, that reported by the boys is 20; the average grade calculated across all participants is 23. How many girls took the exam?
 
+
 **Topic:** [[topic_algebra|Algebra]]
-**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
 **Area:** [[Algebra e Analisi|Algebra and analysis]]
 
-[[Quesiti/src_kangourou_2023_kangourou_squadre_f2#q02|src_kangourou_2023_kangourou_squadre_f2__Q02]]
 
 
-
-<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_geometria_solida,topic_combinatoria,method_conteggio,skill_ragionamento_geometrico"></span>
+<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_geometria_solida,topic_combinatoria,method_conteggio,method_doppio_conteggio,skill_ragionamento_geometrico"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -95,9 +95,9 @@ level: squadre
 > parallelepipedo?
 
 **Topic:** [[topic_geometria_solida|Geometria solida]], [[topic_combinatoria|Combinatoria]]
-**Metodo:** [[method_conteggio|Conteggio combinatorio]]
+**Metodo:** [[method_conteggio|Conteggio combinatorio]], [[method_doppio_conteggio|Doppio conteggio]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
-**Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
+**Area:** [[Geometria]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0418
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1CmLSHw389QtxIh-Wjity4OpGnT2Nasn8/view)
 
@@ -109,16 +109,15 @@ level: squadre
 
 > Amedeo's glue has at its disposal a large number of cuboid blocks, each measuring 2 × 1 × 1 centimeters. He joins—without leaving any gaps—and glues together parts of these blocks so as to obtain a rectangular cuboid measuring 7 × 6 × 5 centimeters. To glue two contacting surfaces together, 1 gram of glue is needed per square centimeter. Whenever two surfaces are in contact, he must glue them together. How many grams of glue does he use to construct the cuboid?
 
+
 **Topic:** [[topic_geometria_solida|Solid geometry]], [[topic_combinatoria|Combinatorics]]
-**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Metodo:** [[method_conteggio|Combinatorial counting]], [[method_doppio_conteggio|Double counting]]
 **Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
-**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Geometria|Geometry]]
-
-[[Quesiti/src_kangourou_2023_kangourou_squadre_f2#q03|src_kangourou_2023_kangourou_squadre_f2__Q03]]
+**Area:** [[Geometria|Geometry]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
 
 
-<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_algebra,skill_modellizzazione"></span>
+<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_algebra,method_fattorizzazione,skill_modellizzazione,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -131,7 +130,8 @@ level: squadre
 > nuova miscela nella quale la percentuale di acqua è il 78%. Quanto vale n?
 
 **Topic:** [[topic_algebra|Algebra]]
-**Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Algebra e Analisi]]
 **Risposta:** 0320
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1CmLSHw389QtxIh-Wjity4OpGnT2Nasn8/view)
@@ -144,15 +144,15 @@ level: squadre
 
 > Mixtures: Mixture A consists of 90% water, and mixture B consists of 54% water. 160 liters were taken from mixture B and mixed with n liters of mixture A, yielding a new mixture in which the water percentage is 78%. What is the value of n?
 
+
 **Topic:** [[topic_algebra|Algebra]]
-**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
 **Area:** [[Algebra e Analisi|Algebra and analysis]]
 
-[[Quesiti/src_kangourou_2023_kangourou_squadre_f2#q04|src_kangourou_2023_kangourou_squadre_f2__Q04]]
 
 
-
-<span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_aritmetica,topic_disuguaglianze,method_estremalita,skill_casework_accurato"></span>
+<span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_aritmetica,topic_disuguaglianze,method_estremalita,method_casework,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -165,9 +165,9 @@ level: squadre
 > tale somma. Che numero è?
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_disuguaglianze|Disuguaglianze]]
-**Metodo:** [[method_estremalita|Principio di estremalita]]
+**Metodo:** [[method_estremalita|Principio di estremalita]], [[method_casework|Analisi per casi]]
 **Abilita:** [[skill_casework_accurato|Casework accurato]]
-**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 **Risposta:** 0340
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1CmLSHw389QtxIh-Wjity4OpGnT2Nasn8/view)
 
@@ -179,12 +179,11 @@ level: squadre
 
 > Anna wrote six distinct positive integers, added them together, and got 2,023. The largest of the numbers Anna wrote is the smallest number that, under the stated constraint, makes it possible to obtain that sum. What number is it?
 
-**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_disuguaglianze|Inequalities]]
-**Metodo:** [[method_estremalita|Extremal principle]]
-**Abilita:** [[skill_casework_accurato|Careful case analysis]]
-**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
-[[Quesiti/src_kangourou_2023_kangourou_squadre_f2#q05|src_kangourou_2023_kangourou_squadre_f2__Q05]]
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_disuguaglianze|Inequalities]]
+**Metodo:** [[method_estremalita|Extremal principle]], [[method_casework|Case analysis]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Algebra e Analisi|Algebra and analysis]]
 
 
 
@@ -221,11 +220,9 @@ level: squadre
 **Abilita:** [[skill_astrazione|Abstraction / generalisation]]
 **Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Geometria|Geometry]]
 
-[[Quesiti/src_kangourou_2023_kangourou_squadre_f2#q06|src_kangourou_2023_kangourou_squadre_f2__Q06]]
 
 
-
-<span class="atom-split" id="q07" data-atom="q07" data-title="Quesito 7" data-tags="topic_aritmetica,skill_stima"></span>
+<span class="atom-split" id="q07" data-atom="q07" data-title="Quesito 7" data-tags="topic_aritmetica,method_casework,method_estremalita,method_fattorizzazione,skill_stima,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -237,7 +234,8 @@ level: squadre
 > cifre che gode di questa proprietà. Qual è il più grande dei cinque interi consecutivi?
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Abilita:** [[skill_stima|Stima e approssimazione]]
+**Metodo:** [[method_casework|Analisi per casi]], [[method_estremalita|Principio di estremalita]], [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
+**Abilita:** [[skill_stima|Stima e approssimazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 0102
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1CmLSHw389QtxIh-Wjity4OpGnT2Nasn8/view)
@@ -250,15 +248,15 @@ level: squadre
 
 > Ten digits: A 10-digit integer is the product of five consecutive integers and is the largest 10-digit integer with this property. What is the largest of the five consecutive integers?
 
+
 **Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
-**Abilita:** [[skill_stima|Estimation and approximation]]
+**Metodo:** [[method_casework|Case analysis]], [[method_estremalita|Extremal principle]], [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_stima|Estimation and approximation]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
-[[Quesiti/src_kangourou_2023_kangourou_squadre_f2#q07|src_kangourou_2023_kangourou_squadre_f2__Q07]]
 
 
-
-<span class="atom-split" id="q08" data-atom="q08" data-title="Quesito 8" data-tags="topic_geometria_piana,skill_ragionamento_geometrico"></span>
+<span class="atom-split" id="q08" data-atom="q08" data-title="Quesito 8" data-tags="topic_geometria_piana,topic_algebra,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -271,9 +269,9 @@ level: squadre
 > Il quadrato in figura è ripartito in 4 rettangoli congruenti e un quadrato, tutti di 
 > area 300 cm2. Quanti centimetri è lungo il segmento PQ?
 
-**Topic:** [[topic_geometria_piana|Geometria piana]]
-**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
-**Area:** [[Geometria]]
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_algebra|Algebra]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]], [[Algebra e Analisi]]
 **Risposta:** 0030
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1CmLSHw389QtxIh-Wjity4OpGnT2Nasn8/view)
 
@@ -287,15 +285,14 @@ level: squadre
 
 > Part: The square in the figure is divided into 4 congruent rectangles and one square, all with an area of 300 cm². How many centimetres long is segment PQ?
 
-**Topic:** [[topic_geometria_piana|Plane geometry]]
-**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
-**Area:** [[Geometria|Geometry]]
 
-[[Quesiti/src_kangourou_2023_kangourou_squadre_f2#q08|src_kangourou_2023_kangourou_squadre_f2__Q08]]
-
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_algebra|Algebra]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Geometria|Geometry]], [[Algebra e Analisi|Algebra and analysis]]
 
 
-<span class="atom-split" id="q09" data-atom="q09" data-title="Quesito 9" data-tags="topic_aritmetica,topic_algebra,method_congruenze,skill_manipolazione_algebrica"></span>
+
+<span class="atom-split" id="q09" data-atom="q09" data-title="Quesito 9" data-tags="topic_aritmetica,topic_algebra,method_congruenze,method_fattorizzazione,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -307,9 +304,9 @@ level: squadre
 > un quadrato perfetto?
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
-**Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]]
+**Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]], [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
-**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 **Risposta:** 0187
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1CmLSHw389QtxIh-Wjity4OpGnT2Nasn8/view)
 
@@ -321,16 +318,15 @@ level: squadre
 
 > The sum is a square. What is the smallest positive integer k such that 193 × k + 9 is a perfect square?
 
+
 **Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_algebra|Algebra]]
-**Metodo:** [[method_congruenze|Modular arithmetic / congruences]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]], [[method_fattorizzazione|Factorisation / algebraic manipulation]]
 **Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
-**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
-
-[[Quesiti/src_kangourou_2023_kangourou_squadre_f2#q09|src_kangourou_2023_kangourou_squadre_f2__Q09]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Algebra e Analisi|Algebra and analysis]]
 
 
 
-<span class="atom-split" id="q10" data-atom="q10" data-title="Quesito 10" data-tags="topic_combinatoria,topic_geometria_piana,method_conteggio,skill_conteggio_sistematico"></span>
+<span class="atom-split" id="q10" data-atom="q10" data-title="Quesito 10" data-tags="topic_combinatoria,topic_geometria_piana,method_conteggio,method_estremalita,skill_conteggio_sistematico,skill_ragionamento_geometrico"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -343,8 +339,8 @@ level: squadre
 > valore possibile di N?
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_geometria_piana|Geometria piana]]
-**Metodo:** [[method_conteggio|Conteggio combinatorio]]
-**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Metodo:** [[method_conteggio|Conteggio combinatorio]], [[method_estremalita|Principio di estremalita]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 **Risposta:** 0090
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1CmLSHw389QtxIh-Wjity4OpGnT2Nasn8/view)
@@ -357,16 +353,15 @@ level: squadre
 
 > Intersections: Angela has this task: on a sheet of paper, she must draw 3 red triangles and 5 blue triangles. The number N of intersection points between sides of different colors must be finite. What is the maximum possible value of N?
 
+
 **Topic:** [[topic_combinatoria|Combinatorics]], [[topic_geometria_piana|Plane geometry]]
-**Metodo:** [[method_conteggio|Combinatorial counting]]
-**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Metodo:** [[method_conteggio|Combinatorial counting]], [[method_estremalita|Extremal principle]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]], [[skill_ragionamento_geometrico|Geometric reasoning]]
 **Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Geometria|Geometry]]
 
-[[Quesiti/src_kangourou_2023_kangourou_squadre_f2#q10|src_kangourou_2023_kangourou_squadre_f2__Q10]]
 
 
-
-<span class="atom-split" id="q11" data-atom="q11" data-title="Quesito 11" data-tags="topic_algebra,topic_geometria_piana,skill_modellizzazione"></span>
+<span class="atom-split" id="q11" data-atom="q11" data-title="Quesito 11" data-tags="topic_algebra,topic_geometria_piana,skill_modellizzazione,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -380,7 +375,7 @@ level: squadre
 > Gino ha percorso 150 metri dal punto del primo incontro. Quanti metri è lunga la pista?
 
 **Topic:** [[topic_algebra|Algebra]], [[topic_geometria_piana|Geometria piana]]
-**Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Algebra e Analisi]], [[Geometria]]
 **Risposta:** 0350
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1CmLSHw389QtxIh-Wjity4OpGnT2Nasn8/view)
@@ -393,15 +388,14 @@ level: squadre
 
 > The Circular Track Paolo and Gino train in running on a circular track. They start from points diametrically opposite each other but run in opposite directions, each at their own constant speed. When they meet for the first time, Paolo has covered 100 meters from the start; when they meet for the second time, Gino has covered 150 meters from the point of the first meeting. How many meters long is the track?
 
+
 **Topic:** [[topic_algebra|Algebra]], [[topic_geometria_piana|Plane geometry]]
-**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
 **Area:** [[Algebra e Analisi|Algebra and analysis]], [[Geometria|Geometry]]
 
-[[Quesiti/src_kangourou_2023_kangourou_squadre_f2#q11|src_kangourou_2023_kangourou_squadre_f2__Q11]]
 
 
-
-<span class="atom-split" id="q12" data-atom="q12" data-title="Quesito 12" data-tags="topic_geometria_piana,topic_algebra,skill_modellizzazione"></span>
+<span class="atom-split" id="q12" data-atom="q12" data-title="Quesito 12" data-tags="topic_geometria_piana,topic_algebra,topic_geometria_solida,skill_modellizzazione,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -420,9 +414,9 @@ level: squadre
 > misura del diametro esterno; quello di una delle più grandi è 2023 
 > euro. Quanti euro costa una delle più piccole?
 
-**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_algebra|Algebra]]
-**Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
-**Area:** [[Algebra e Analisi]], [[Geometria]]
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_algebra|Algebra]], [[topic_geometria_solida|Geometria solida]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]], [[Algebra e Analisi]]
 **Risposta:** 1445
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1CmLSHw389QtxIh-Wjity4OpGnT2Nasn8/view)
 
@@ -436,11 +430,10 @@ level: squadre
 
 > The rings To manufacture precision machinery, cylindrical rings made of a very expensive material are required—all of the same thickness and homogeneous, all with an inner cylinder 4 cm in diameter but with an outer cylinder of variable diameter. For the largest ones, the outer diameter is 28 cm; the smallest ones weigh half as much as the largest ones. The cost of the rings is directly proportional to the size of the outer diameter; the cost of one of the largest ones is 2023 euros. How many euros does one of the smallest ones cost?
 
-**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_algebra|Algebra]]
-**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
-**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Geometria|Geometry]]
 
-[[Quesiti/src_kangourou_2023_kangourou_squadre_f2#q12|src_kangourou_2023_kangourou_squadre_f2__Q12]]
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_algebra|Algebra]], [[topic_geometria_solida|Solid geometry]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Geometria|Geometry]], [[Algebra e Analisi|Algebra and analysis]]
 
 
 
@@ -479,8 +472,6 @@ level: squadre
 **Metodo:** [[method_ricorsione|Recursion]]
 **Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
 **Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
-
-[[Quesiti/src_kangourou_2023_kangourou_squadre_f2#q13|src_kangourou_2023_kangourou_squadre_f2__Q13]]
 
 
 
@@ -569,11 +560,9 @@ level: squadre
 **Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
 **Area:** [[Geometria|Geometry]]
 
-[[Quesiti/src_kangourou_2023_kangourou_squadre_f2#q14|src_kangourou_2023_kangourou_squadre_f2__Q14]]
 
 
-
-<span class="atom-split" id="q15" data-atom="q15" data-title="Quesito 15" data-tags="topic_algebra,topic_funzionali,method_casework,skill_astrazione"></span>
+<span class="atom-split" id="q15" data-atom="q15" data-title="Quesito 15" data-tags="topic_algebra,topic_funzionali,method_casework,method_estremalita,skill_astrazione,skill_riconoscimento_pattern"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -603,8 +592,8 @@ level: squadre
 > Quesiti e soluzioni
 
 **Topic:** [[topic_algebra|Algebra]], [[topic_funzionali|Equazioni funzionali / successioni]]
-**Metodo:** [[method_casework|Analisi per casi]]
-**Abilita:** [[skill_astrazione|Astrazione / generalizzazione]]
+**Metodo:** [[method_casework|Analisi per casi]], [[method_estremalita|Principio di estremalita]]
+**Abilita:** [[skill_astrazione|Astrazione / generalizzazione]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Algebra e Analisi]]
 **Risposta:** 2066
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1CmLSHw389QtxIh-Wjity4OpGnT2Nasn8/view)
@@ -622,9 +611,8 @@ level: squadre
 >
 > Questions and Solutions
 
-**Topic:** [[topic_algebra|Algebra]], [[topic_funzionali|Functional equations / sequences]]
-**Metodo:** [[method_casework|Case analysis]]
-**Abilita:** [[skill_astrazione|Abstraction / generalisation]]
-**Area:** [[Algebra e Analisi|Algebra and analysis]]
 
-[[Quesiti/src_kangourou_2023_kangourou_squadre_f2#q15|src_kangourou_2023_kangourou_squadre_f2__Q15]]
+**Topic:** [[topic_algebra|Algebra]], [[topic_funzionali|Functional equations / sequences]]
+**Metodo:** [[method_casework|Case analysis]], [[method_estremalita|Extremal principle]]
+**Abilita:** [[skill_astrazione|Abstraction / generalisation]], [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]

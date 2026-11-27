@@ -21,7 +21,7 @@ level: OBM Nível 2
 > 
 > (A) 42 \quad (B) 44 \quad (C) 45 \quad (D) 48 \quad (E) 49
 
-![[src_obm_2003_n2_f1__q01.png]]
+![[src_obm_2003_n2_f1__Q01.png]]
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_casework|Casework]]
@@ -40,7 +40,7 @@ level: OBM Nível 2
 >
 > (A) 42 \quad (B) 44 \quad (C) 45 \quad (D) 48 \quad (E) 49
 
-![[src_obm_2003_n2_f1__q01.png]]
+![[src_obm_2003_n2_f1__Q01.png]]
 
 **Risposta:** C
 
@@ -49,12 +49,11 @@ level: OBM Nível 2
 **Metodo:** [[method_casework|Analisi per casi]]
 
 **Abilità:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
-
-[[Quesiti/src_obm_2003_n2_f1#q01|src_obm_2003_n2_f1__Q01]]
-
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Geometria]]
 
 
-<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_aritmetica,topic_combinatoria,method_casework,method_estremalita,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
+
+<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_aritmetica,topic_combinatoria,method_casework,method_estremalita,method_congruenze,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -66,9 +65,9 @@ level: OBM Nível 2
 > (A) 29 \quad (B) 30 \quad (C) 31 \quad (D) 32 \quad (E) 33
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
-**Metodo:** [[method_casework|Casework]], [[method_estremalita|Estremalità]]
+**Metodo:** [[method_casework|Casework]], [[method_estremalita|Estremalità]], [[method_congruenze|Modular arithmetic / congruences]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
-**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Risposta:** A
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1KlMYp7wlmSUSL8AJTynGV2ujlAnr6u45/view)
 
@@ -82,15 +81,13 @@ level: OBM Nível 2
 >
 > (A) 29 \quad (B) 30 \quad (C) 31 \quad (D) 32 \quad (E) 33
 
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casework|Analisi per casi]], [[method_estremalita|Estremalità]], [[method_congruenze|Aritmetica modulare / congruenze]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** A
 
 **Argomento:** [[topic_aritmetica|Aritmetica / Teoria dei numeri]], [[topic_combinatoria|Combinatoria]]
-
-**Metodo:** [[method_casework|Analisi per casi]], [[method_estremalita|Estremalità]]
-
-**Abilità:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
-
-[[Quesiti/src_obm_2003_n2_f1#q02|src_obm_2003_n2_f1__Q02]]
 
 
 
@@ -129,12 +126,11 @@ level: OBM Nível 2
 **Metodo:** [[method_fattorizzazione|Fattorizzazione]]
 
 **Abilità:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
-
-[[Quesiti/src_obm_2003_n2_f1#q03|src_obm_2003_n2_f1__Q03]]
-
+**Area:** [[Algebra e Analisi]]
 
 
-<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_algebra,method_casework,skill_casework_accurato,skill_manipolazione_algebrica"></span>
+
+<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_algebra,topic_aritmetica,topic_funzionali,method_casework,method_backward,skill_casework_accurato,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -147,10 +143,10 @@ level: OBM Nível 2
 > 
 > (A) 85 \quad (B) 87 \quad (C) 92 \quad (D) 95 \quad (E) 96
 
-**Topic:** [[topic_algebra|Algebra]]
-**Metodo:** [[method_casework|Casework]]
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Arithmetic / Number theory]], [[topic_funzionali|Functional equations / sequences]]
+**Metodo:** [[method_casework|Casework]], [[method_backward|Working backwards]]
 **Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
-**Area:** [[Algebra e Analisi]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Risposta:** D
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1KlMYp7wlmSUSL8AJTynGV2ujlAnr6u45/view)
 
@@ -166,19 +162,17 @@ level: OBM Nível 2
 >
 > (A) 85 \quad (B) 87 \quad (C) 92 \quad (D) 95 \quad (E) 96
 
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_funzionali|Equazioni funzionali / successioni]]
+**Metodo:** [[method_casework|Analisi per casi]], [[method_backward|Ragionamento all'indietro]]
+**Abilita:** [[skill_casework_accurato|Analisi accurata dei casi]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** D
 
 **Argomento:** [[topic_algebra|Algebra]]
 
-**Metodo:** [[method_casework|Analisi per casi]]
-
-**Abilità:** [[skill_casework_accurato|Analisi accurata dei casi]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
-
-[[Quesiti/src_obm_2003_n2_f1#q04|src_obm_2003_n2_f1__Q04]]
 
 
-
-<span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_algebra,topic_aritmetica,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
+<span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_algebra,topic_aritmetica,method_simmetria,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -191,11 +185,12 @@ level: OBM Nível 2
 > 
 > (A) 20 \quad (B) 22 \quad (C) 23 \quad (D) 25 \quad (E) 27
 
-![[src_obm_2003_n2_f1__q05.png]]
+![[src_obm_2003_n2_f1__Q05.png]]
 
 **Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_simmetria|Using symmetry]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
-**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Risposta:** E
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1KlMYp7wlmSUSL8AJTynGV2ujlAnr6u45/view)
 
@@ -215,15 +210,15 @@ $$\begin{array}{|c|c|c|}\hline & 14 & x \\ \hline 26 & & 13 \\ \hline & & \\\hli
 >
 > (A) 20 \quad (B) 22 \quad (C) 23 \quad (D) 25 \quad (E) 27
 
-![[src_obm_2003_n2_f1__q05.png]]
+![[src_obm_2003_n2_f1__Q05.png]]
 
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei numeri]]
+**Metodo:** [[method_simmetria|Sfruttamento della simmetria]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** E
 
 **Argomento:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei numeri]]
-
-**Abilità:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
-
-[[Quesiti/src_obm_2003_n2_f1#q05|src_obm_2003_n2_f1__Q05]]
 
 
 
@@ -262,12 +257,11 @@ $$\begin{array}{|c|c|c|}\hline & 14 & x \\ \hline 26 & & 13 \\ \hline & & \\\hli
 **Metodo:** [[method_congruenze|Congruenze]]
 
 **Abilità:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
-
-[[Quesiti/src_obm_2003_n2_f1#q06|src_obm_2003_n2_f1__Q06]]
-
+**Area:** [[Aritmetica e Teoria dei Numeri]]
 
 
-<span class="atom-split" id="q07" data-atom="q07" data-title="Quesito 7" data-tags="topic_algebra,topic_aritmetica,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
+
+<span class="atom-split" id="q07" data-atom="q07" data-title="Quesito 7" data-tags="topic_algebra,topic_aritmetica,method_ricorsione,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -280,11 +274,12 @@ $$\begin{array}{|c|c|c|}\hline & 14 & x \\ \hline 26 & & 13 \\ \hline & & \\\hli
 > 
 > (A) 7 \quad (B) 3 \quad (C) 5 \quad (D) 4 \quad (E) 6
 
-![[src_obm_2003_n2_f1__q07.png]]
+![[src_obm_2003_n2_f1__Q07.png]]
 
 **Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_ricorsione|Recursion]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
-**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Risposta:** E
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1KlMYp7wlmSUSL8AJTynGV2ujlAnr6u45/view)
 
@@ -300,19 +295,19 @@ $$\begin{array}{|c|c|c|}\hline & 14 & x \\ \hline 26 & & 13 \\ \hline & & \\\hli
 >
 > (A) 7 \quad (B) 3 \quad (C) 5 \quad (D) 4 \quad (E) 6
 
-![[src_obm_2003_n2_f1__q07.png]]
+![[src_obm_2003_n2_f1__Q07.png]]
 
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei numeri]]
+**Metodo:** [[method_ricorsione|Ricorsione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** E
 
 **Argomento:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei numeri]]
 
-**Abilità:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
-
-[[Quesiti/src_obm_2003_n2_f1#q07|src_obm_2003_n2_f1__Q07]]
 
 
-
-<span class="atom-split" id="q08" data-atom="q08" data-title="Quesito 8" data-tags="topic_algebra,topic_aritmetica,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
+<span class="atom-split" id="q08" data-atom="q08" data-title="Quesito 8" data-tags="topic_algebra,topic_aritmetica,method_backward,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -328,8 +323,9 @@ $$\begin{array}{|c|c|c|}\hline & 14 & x \\ \hline 26 & & 13 \\ \hline & & \\\hli
 > - **(E)** a number whose digit sum is 9.
 
 **Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_backward|Working backwards]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
-**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Risposta:** A
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1KlMYp7wlmSUSL8AJTynGV2ujlAnr6u45/view)
 
@@ -347,17 +343,17 @@ $$\begin{array}{|c|c|c|}\hline & 14 & x \\ \hline 26 & & 13 \\ \hline & & \\\hli
 > - **(D)** un multiplo di 5.
 > - **(E)** un numero la cui somma delle cifre è 9.
 
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei numeri]]
+**Metodo:** [[method_backward|Ragionamento all'indietro]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** A
 
 **Argomento:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei numeri]]
 
-**Abilità:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
-
-[[Quesiti/src_obm_2003_n2_f1#q08|src_obm_2003_n2_f1__Q08]]
 
 
-
-<span class="atom-split" id="q09" data-atom="q09" data-title="Quesito 9" data-tags="topic_algebra,topic_aritmetica,skill_manipolazione_algebrica"></span>
+<span class="atom-split" id="q09" data-atom="q09" data-title="Quesito 9" data-tags="topic_algebra,topic_aritmetica,method_fattorizzazione,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -369,8 +365,9 @@ $$\begin{array}{|c|c|c|}\hline & 14 & x \\ \hline 26 & & 13 \\ \hline & & \\\hli
 > (A) 0 \quad (B) 1 \quad (C) $2a + b$ \quad (D) $2a + c$ \quad (E) $2b + c$
 
 **Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
-**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Risposta:** E
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1KlMYp7wlmSUSL8AJTynGV2ujlAnr6u45/view)
 
@@ -384,17 +381,17 @@ $$\begin{array}{|c|c|c|}\hline & 14 & x \\ \hline 26 & & 13 \\ \hline & & \\\hli
 >
 > (A) 0 \quad (B) 1 \quad (C) $2a + b$ \quad (D) $2a + c$ \quad (E) $2b + c$
 
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei numeri]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** E
 
 **Argomento:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei numeri]]
 
-**Abilità:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
-
-[[Quesiti/src_obm_2003_n2_f1#q09|src_obm_2003_n2_f1__Q09]]
 
 
-
-<span class="atom-split" id="q10" data-atom="q10" data-title="Quesito 10" data-tags="topic_aritmetica,topic_algebra,method_congruenze,skill_riconoscimento_pattern,skill_conteggio_sistematico"></span>
+<span class="atom-split" id="q10" data-atom="q10" data-title="Quesito 10" data-tags="topic_aritmetica,topic_algebra,topic_funzionali,method_congruenze,skill_riconoscimento_pattern,skill_conteggio_sistematico"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -407,10 +404,10 @@ $$\begin{array}{|c|c|c|}\hline & 14 & x \\ \hline 26 & & 13 \\ \hline & & \\\hli
 > 
 > (A) 1 \quad (B) 2 \quad (C) 3 \quad (D) 4 \quad (E) 5
 
-**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]], [[topic_funzionali|Functional equations / sequences]]
 **Metodo:** [[method_congruenze|Congruenze]]
 **Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_conteggio_sistematico|Conteggio sistematico]]
-**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Algebra e Analisi|Algebra and analysis]]
 **Risposta:** E
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1KlMYp7wlmSUSL8AJTynGV2ujlAnr6u45/view)
 
@@ -426,15 +423,13 @@ $$\begin{array}{|c|c|c|}\hline & 14 & x \\ \hline 26 & & 13 \\ \hline & & \\\hli
 >
 > (A) 1 \quad (B) 2 \quad (C) 3 \quad (D) 4 \quad (E) 5
 
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei numeri]], [[topic_algebra|Algebra]], [[topic_funzionali|Equazioni funzionali / successioni]]
+**Metodo:** [[method_congruenze|Congruenze]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 **Risposta:** E
 
 **Argomento:** [[topic_aritmetica|Aritmetica / Teoria dei numeri]], [[topic_algebra|Algebra]]
-
-**Metodo:** [[method_congruenze|Congruenze]]
-
-**Abilità:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_conteggio_sistematico|Conteggio sistematico]]
-
-[[Quesiti/src_obm_2003_n2_f1#q10|src_obm_2003_n2_f1__Q10]]
 
 
 
@@ -478,12 +473,11 @@ $$\begin{array}{|c|c|c|}\hline & 14 & x \\ \hline 26 & & 13 \\ \hline & & \\\hli
 **Argomento:** [[topic_aritmetica|Aritmetica / Teoria dei numeri]], [[topic_algebra|Algebra]]
 
 **Abilità:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
-
-[[Quesiti/src_obm_2003_n2_f1#q11|src_obm_2003_n2_f1__Q11]]
-
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 
 
-<span class="atom-split" id="q12" data-atom="q12" data-title="Quesito 12" data-tags="topic_logica,topic_combinatoria,method_casework,skill_lettura_attenta,skill_casework_accurato"></span>
+
+<span class="atom-split" id="q12" data-atom="q12" data-title="Quesito 12" data-tags="topic_logica,topic_combinatoria,method_casework,skill_lettura_attenta,skill_casework_accurato,skill_conteggio_sistematico"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -496,8 +490,8 @@ $$\begin{array}{|c|c|c|}\hline & 14 & x \\ \hline 26 & & 13 \\ \hline & & \\\hli
 
 **Topic:** [[topic_logica|Logica]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_casework|Casework]]
-**Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_casework_accurato|Casework accurato]]
-**Area:** [[Combinatoria, Logica e Probabilita]]
+**Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_casework_accurato|Casework accurato]], [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Risposta:** D
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1KlMYp7wlmSUSL8AJTynGV2ujlAnr6u45/view)
 
@@ -511,19 +505,17 @@ $$\begin{array}{|c|c|c|}\hline & 14 & x \\ \hline 26 & & 13 \\ \hline & & \\\hli
 >
 > (A) 21 32 33 16 \quad (B) 31 12 33 18 \quad (C) 31 22 33 17 \quad (D) 21 32 33 17 \quad (E) 41 32 24 15 16 18
 
+**Topic:** [[topic_logica|Logica]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_casework_accurato|Analisi accurata dei casi]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** D
 
 **Argomento:** [[topic_logica|Logica]], [[topic_combinatoria|Combinatoria]]
 
-**Metodo:** [[method_casework|Analisi per casi]]
-
-**Abilità:** [[skill_lettura_attenta|Lettura attenta]], [[skill_casework_accurato|Analisi accurata dei casi]]
-
-[[Quesiti/src_obm_2003_n2_f1#q12|src_obm_2003_n2_f1__Q12]]
 
 
-
-<span class="atom-split" id="q13" data-atom="q13" data-title="Quesito 13" data-tags="topic_combinatoria,topic_aritmetica,method_conteggio,skill_conteggio_sistematico,skill_lettura_attenta"></span>
+<span class="atom-split" id="q13" data-atom="q13" data-title="Quesito 13" data-tags="topic_combinatoria,topic_aritmetica,method_conteggio,method_simmetria,skill_conteggio_sistematico,skill_lettura_attenta"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -535,9 +527,9 @@ $$\begin{array}{|c|c|c|}\hline & 14 & x \\ \hline 26 & & 13 \\ \hline & & \\\hli
 > (A) 34 \quad (B) 36 \quad (C) 42 \quad (D) 55 \quad (E) 45
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_conteggio|Conteggio]]
+**Metodo:** [[method_conteggio|Conteggio]], [[method_simmetria|Using symmetry]]
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]]
-**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Risposta:** C
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1KlMYp7wlmSUSL8AJTynGV2ujlAnr6u45/view)
 
@@ -551,19 +543,17 @@ $$\begin{array}{|c|c|c|}\hline & 14 & x \\ \hline 26 & & 13 \\ \hline & & \\\hli
 >
 > (A) 34 \quad (B) 36 \quad (C) 42 \quad (D) 55 \quad (E) 45
 
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei numeri]]
+**Metodo:** [[method_conteggio|Conteggio]], [[method_simmetria|Sfruttamento della simmetria]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** C
 
 **Argomento:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei numeri]]
 
-**Metodo:** [[method_conteggio|Conteggio]]
-
-**Abilità:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]]
-
-[[Quesiti/src_obm_2003_n2_f1#q13|src_obm_2003_n2_f1__Q13]]
 
 
-
-<span class="atom-split" id="q14" data-atom="q14" data-title="Quesito 14" data-tags="topic_aritmetica,method_casework,skill_conteggio_sistematico,skill_riconoscimento_pattern"></span>
+<span class="atom-split" id="q14" data-atom="q14" data-title="Quesito 14" data-tags="topic_aritmetica,topic_algebra,method_casework,method_fattorizzazione,skill_conteggio_sistematico,skill_riconoscimento_pattern,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -574,10 +564,10 @@ $$\begin{array}{|c|c|c|}\hline & 14 & x \\ \hline 26 & & 13 \\ \hline & & \\\hli
 > 
 > (A) 4th \quad (B) 10th \quad (C) 6th \quad (D) 9th \quad (E) 7th
 
-**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_casework|Casework]]
-**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
-**Area:** [[Aritmetica e Teoria dei Numeri]]
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_casework|Casework]], [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Algebra e Analisi|Algebra and analysis]]
 **Risposta:** C
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1KlMYp7wlmSUSL8AJTynGV2ujlAnr6u45/view)
 
@@ -595,15 +585,13 @@ $$\begin{array}{|c|c|c|}\hline & 14 & x \\ \hline 26 & & 13 \\ \hline & & \\\hli
 > - **(D)** il nono
 > - **(E)** il settimo
 
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei numeri]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_casework|Analisi per casi]], [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 **Risposta:** C
 
 **Argomento:** [[topic_aritmetica|Aritmetica / Teoria dei numeri]]
-
-**Metodo:** [[method_casework|Analisi per casi]]
-
-**Abilità:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
-
-[[Quesiti/src_obm_2003_n2_f1#q14|src_obm_2003_n2_f1__Q14]]
 
 
 
@@ -650,8 +638,7 @@ $$\begin{array}{|c|c|c|}\hline & 14 & x \\ \hline 26 & & 13 \\ \hline & & \\\hli
 **Metodo:** [[method_casework|Analisi per casi]]
 
 **Abilità:** [[skill_lettura_attenta|Lettura attenta]], [[skill_casework_accurato|Analisi accurata dei casi]]
-
-[[Quesiti/src_obm_2003_n2_f1#q15|src_obm_2003_n2_f1__Q15]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
 
 
 
@@ -668,7 +655,7 @@ $$\begin{array}{|c|c|c|}\hline & 14 & x \\ \hline 26 & & 13 \\ \hline & & \\\hli
 > 
 > (A) 9 \quad (B) $\dfrac{19}{2}$ \quad (C) 10 \quad (D) $\dfrac{21}{2}$ \quad (E) 11
 
-![[src_obm_2003_n2_f1__q16.png]]
+![[src_obm_2003_n2_f1__Q16.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_geometria_analitica|Geometria analitica]]
 **Metodo:** [[method_coordinate|Coordinate]]
@@ -689,7 +676,7 @@ $$\begin{array}{|c|c|c|}\hline & 14 & x \\ \hline 26 & & 13 \\ \hline & & \\\hli
 >
 > (A) 9 \quad (B) $\dfrac{19}{2}$ \quad (C) 10 \quad (D) $\dfrac{21}{2}$ \quad (E) 11
 
-![[src_obm_2003_n2_f1__q16.png]]
+![[src_obm_2003_n2_f1__Q16.png]]
 
 **Risposta:** B
 
@@ -698,8 +685,7 @@ $$\begin{array}{|c|c|c|}\hline & 14 & x \\ \hline 26 & & 13 \\ \hline & & \\\hli
 **Metodo:** [[method_coordinate|Coordinate]]
 
 **Abilità:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
-
-[[Quesiti/src_obm_2003_n2_f1#q16|src_obm_2003_n2_f1__Q16]]
+**Area:** [[Geometria]]
 
 
 
@@ -714,7 +700,7 @@ $$\begin{array}{|c|c|c|}\hline & 14 & x \\ \hline 26 & & 13 \\ \hline & & \\\hli
 > 
 > (A) 4 \quad (B) 5 \quad (C) 6 \quad (D) 7 \quad (E) 8
 
-![[src_obm_2003_n2_f1__q17.png]]
+![[src_obm_2003_n2_f1__Q17.png]]
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_colorazione|Colorazione]], [[method_casework|Casework]], [[method_simmetria|Simmetria]]
@@ -733,7 +719,7 @@ $$\begin{array}{|c|c|c|}\hline & 14 & x \\ \hline 26 & & 13 \\ \hline & & \\\hli
 >
 > (A) 4 \quad (B) 5 \quad (C) 6 \quad (D) 7 \quad (E) 8
 
-![[src_obm_2003_n2_f1__q17.png]]
+![[src_obm_2003_n2_f1__Q17.png]]
 
 **Risposta:** C
 
@@ -742,8 +728,7 @@ $$\begin{array}{|c|c|c|}\hline & 14 & x \\ \hline 26 & & 13 \\ \hline & & \\\hli
 **Metodo:** [[method_colorazione|Colorazione]], [[method_casework|Analisi per casi]], [[method_simmetria|Simmetria]]
 
 **Abilità:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Analisi accurata dei casi]]
-
-[[Quesiti/src_obm_2003_n2_f1#q17|src_obm_2003_n2_f1__Q17]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
 
 
 
@@ -792,12 +777,11 @@ $$\frac{2^{2003} \cdot 9^{1001}}{4^{1001} \cdot 3^{2003}} + \frac{2^{2002} \cdot
 **Metodo:** [[method_fattorizzazione|Fattorizzazione]]
 
 **Abilità:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
-
-[[Quesiti/src_obm_2003_n2_f1#q18|src_obm_2003_n2_f1__Q18]]
-
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 
 
-<span class="atom-split" id="q19" data-atom="q19" data-title="Quesito 19" data-tags="topic_aritmetica,topic_algebra,method_disuguaglianze,skill_manipolazione_algebrica,skill_stima"></span>
+
+<span class="atom-split" id="q19" data-atom="q19" data-title="Quesito 19" data-tags="topic_aritmetica,topic_algebra,topic_disuguaglianze,method_disuguaglianze,skill_manipolazione_algebrica,skill_stima"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -808,10 +792,10 @@ $$\frac{2^{2003} \cdot 9^{1001}}{4^{1001} \cdot 3^{2003}} + \frac{2^{2002} \cdot
 > 
 > (A) $X < Z < Y$ \quad (B) $Y < X < Z$ \quad (C) $X < Y < Z$ \quad (D) $Z < X < Y$ \quad (E) $Z < Y < X$
 
-**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]], [[topic_disuguaglianze|Inequalities]]
 **Metodo:** [[method_disuguaglianze|Disuguaglianze]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]]
-**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Algebra e Analisi|Algebra and analysis]]
 **Risposta:** C
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1KlMYp7wlmSUSL8AJTynGV2ujlAnr6u45/view)
 
@@ -825,15 +809,13 @@ $$\frac{2^{2003} \cdot 9^{1001}}{4^{1001} \cdot 3^{2003}} + \frac{2^{2002} \cdot
 >
 > (A) $X < Z < Y$ \quad (B) $Y < X < Z$ \quad (C) $X < Y < Z$ \quad (D) $Z < X < Y$ \quad (E) $Z < Y < X$
 
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei numeri]], [[topic_algebra|Algebra]], [[topic_disuguaglianze|Disuguaglianze]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 **Risposta:** C
 
 **Argomento:** [[topic_aritmetica|Aritmetica / Teoria dei numeri]], [[topic_algebra|Algebra]]
-
-**Metodo:** [[method_disuguaglianze|Disuguaglianze]]
-
-**Abilità:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]]
-
-[[Quesiti/src_obm_2003_n2_f1#q19|src_obm_2003_n2_f1__Q19]]
 
 
 
@@ -876,12 +858,11 @@ $$\frac{2^{2003} \cdot 9^{1001}}{4^{1001} \cdot 3^{2003}} + \frac{2^{2002} \cdot
 **Metodo:** [[method_casework|Analisi per casi]], [[method_ricorsione|Ricorsione]]
 
 **Abilità:** [[skill_modellizzazione|Modellizzazione]], [[skill_casework_accurato|Analisi accurata dei casi]], [[skill_conteggio_sistematico|Conteggio sistematico]]
-
-[[Quesiti/src_obm_2003_n2_f1#q20|src_obm_2003_n2_f1__Q20]]
-
+**Area:** [[Combinatoria, Logica e Probabilita]]
 
 
-<span class="atom-split" id="q21" data-atom="q21" data-title="Quesito 21" data-tags="topic_logica,topic_combinatoria,method_casework,skill_lettura_attenta,skill_casework_accurato,skill_ragionamento_geometrico"></span>
+
+<span class="atom-split" id="q21" data-atom="q21" data-title="Quesito 21" data-tags="topic_logica,topic_combinatoria,method_casework,method_backward,skill_lettura_attenta,skill_casework_accurato,skill_ragionamento_geometrico"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -897,9 +878,9 @@ $$\frac{2^{2003} \cdot 9^{1001}}{4^{1001} \cdot 3^{2003}} + \frac{2^{2002} \cdot
 > (A) 3 \quad (B) 4 \quad (C) 5 \quad (D) 6 \quad (E) 7
 
 **Topic:** [[topic_logica|Logica]], [[topic_combinatoria|Combinatoria]]
-**Metodo:** [[method_casework|Casework]]
+**Metodo:** [[method_casework|Casework]], [[method_backward|Working backwards]]
 **Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_casework_accurato|Casework accurato]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
-**Area:** [[Combinatoria, Logica e Probabilita]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Risposta:** B
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1KlMYp7wlmSUSL8AJTynGV2ujlAnr6u45/view)
 
@@ -921,19 +902,17 @@ $$\begin{array}{|c|c|c|c|}\hline 1 & 2 & 1 & 1 \\\hline 0 & 2 & 1 & 2 \\\hline 2
 >
 > (A) 3 \quad (B) 4 \quad (C) 5 \quad (D) 6 \quad (E) 7
 
+**Topic:** [[topic_logica|Logica]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casework|Analisi per casi]], [[method_backward|Ragionamento all'indietro]]
+**Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_casework_accurato|Analisi accurata dei casi]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** B
 
 **Argomento:** [[topic_logica|Logica]], [[topic_combinatoria|Combinatoria]]
 
-**Metodo:** [[method_casework|Analisi per casi]]
-
-**Abilità:** [[skill_lettura_attenta|Lettura attenta]], [[skill_casework_accurato|Analisi accurata dei casi]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
-
-[[Quesiti/src_obm_2003_n2_f1#q21|src_obm_2003_n2_f1__Q21]]
 
 
-
-<span class="atom-split" id="q22" data-atom="q22" data-title="Quesito 22" data-tags="topic_aritmetica,topic_combinatoria,method_casework,method_fattorizzazione,skill_casework_accurato,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
+<span class="atom-split" id="q22" data-atom="q22" data-title="Quesito 22" data-tags="topic_aritmetica,topic_combinatoria,topic_algebra,method_casework,method_fattorizzazione,skill_casework_accurato,skill_manipolazione_algebrica,skill_lettura_attenta,skill_stima"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -944,10 +923,10 @@ $$\begin{array}{|c|c|c|c|}\hline 1 & 2 & 1 & 1 \\\hline 0 & 2 & 1 & 2 \\\hline 2
 > 
 > (A) 10 \quad (B) 11 \quad (C) 13 \quad (D) 14 \quad (E) 15
 
-**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]], [[topic_algebra|Algebra]]
 **Metodo:** [[method_casework|Casework]], [[method_fattorizzazione|Fattorizzazione]]
-**Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
-**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+**Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_stima|Estimation and approximation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Algebra e Analisi|Algebra and analysis]]
 **Risposta:** C
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1KlMYp7wlmSUSL8AJTynGV2ujlAnr6u45/view)
 
@@ -961,15 +940,13 @@ $$\begin{array}{|c|c|c|c|}\hline 1 & 2 & 1 & 1 \\\hline 0 & 2 & 1 & 2 \\\hline 2
 >
 > (A) 10 \quad (B) 11 \quad (C) 13 \quad (D) 14 \quad (E) 15
 
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei numeri]], [[topic_combinatoria|Combinatoria]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_casework|Analisi per casi]], [[method_fattorizzazione|Fattorizzazione]]
+**Abilita:** [[skill_casework_accurato|Analisi accurata dei casi]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_stima|Stima e approssimazione]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]], [[Algebra e Analisi]]
 **Risposta:** C
 
 **Argomento:** [[topic_aritmetica|Aritmetica / Teoria dei numeri]], [[topic_combinatoria|Combinatoria]]
-
-**Metodo:** [[method_casework|Analisi per casi]], [[method_fattorizzazione|Fattorizzazione]]
-
-**Abilità:** [[skill_casework_accurato|Analisi accurata dei casi]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
-
-[[Quesiti/src_obm_2003_n2_f1#q22|src_obm_2003_n2_f1__Q22]]
 
 
 
@@ -1008,12 +985,11 @@ $$\begin{array}{|c|c|c|c|}\hline 1 & 2 & 1 & 1 \\\hline 0 & 2 & 1 & 2 \\\hline 2
 **Metodo:** [[method_casework|Analisi per casi]], [[method_estremalita|Estremalità]]
 
 **Abilità:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_stima|Stima]]
-
-[[Quesiti/src_obm_2003_n2_f1#q23|src_obm_2003_n2_f1__Q23]]
-
+**Area:** [[Combinatoria, Logica e Probabilita]]
 
 
-<span class="atom-split" id="q24" data-atom="q24" data-title="Quesito 24" data-tags="topic_geometria_piana,method_coordinate,method_trigonometria,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
+
+<span class="atom-split" id="q24" data-atom="q24" data-title="Quesito 24" data-tags="topic_geometria_piana,topic_trigonometria,topic_geometria_analitica,method_coordinate,method_trigonometria,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -1024,12 +1000,12 @@ $$\begin{array}{|c|c|c|c|}\hline 1 & 2 & 1 & 1 \\\hline 0 & 2 & 1 & 2 \\\hline 2
 > 
 > (A) $\dfrac{1}{4}$ \quad (B) $\dfrac{\sqrt{3}}{4}$ \quad (C) $\dfrac{\sqrt{3}}{4}$ \quad (D) $\dfrac{\sqrt{3}}{12}$ \quad (E) $\dfrac{3}{10}$
 
-![[src_obm_2003_n2_f1__q24.png]]
+![[src_obm_2003_n2_f1__Q24.png]]
 
-**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometry]], [[topic_geometria_analitica|Coordinate geometry]]
 **Metodo:** [[method_coordinate|Coordinate]], [[method_trigonometria|Trigonometria]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
-**Area:** [[Geometria]]
+**Area:** [[Geometria|Geometry]]
 **Risposta:** D
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1KlMYp7wlmSUSL8AJTynGV2ujlAnr6u45/view)
 
@@ -1043,21 +1019,19 @@ $$\begin{array}{|c|c|c|c|}\hline 1 & 2 & 1 & 1 \\\hline 0 & 2 & 1 & 2 \\\hline 2
 >
 > (A) $\dfrac{1}{4}$ \quad (B) $\dfrac{\sqrt{3}}{4}$ \quad (C) $\dfrac{\sqrt{3}}{4}$ \quad (D) $\dfrac{\sqrt{3}}{12}$ \quad (E) $\dfrac{3}{10}$
 
-![[src_obm_2003_n2_f1__q24.png]]
+![[src_obm_2003_n2_f1__Q24.png]]
 
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometria]], [[topic_geometria_analitica|Geometria analitica]]
+**Metodo:** [[method_coordinate|Coordinate]], [[method_trigonometria|Trigonometria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
 **Risposta:** D
 
 **Argomento:** [[topic_geometria_piana|Geometria piana]]
 
-**Metodo:** [[method_coordinate|Coordinate]], [[method_trigonometria|Trigonometria]]
-
-**Abilità:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
-
-[[Quesiti/src_obm_2003_n2_f1#q24|src_obm_2003_n2_f1__Q24]]
 
 
-
-<span class="atom-split" id="q25" data-atom="q25" data-title="Quesito 25" data-tags="topic_geometria_piana,method_trigonometria,method_coordinate,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
+<span class="atom-split" id="q25" data-atom="q25" data-title="Quesito 25" data-tags="topic_geometria_piana,topic_trigonometria,topic_geometria_analitica,method_trigonometria,method_coordinate,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -1068,12 +1042,12 @@ $$\begin{array}{|c|c|c|c|}\hline 1 & 2 & 1 & 1 \\\hline 0 & 2 & 1 & 2 \\\hline 2
 > 
 > (A) $30^\circ$ \quad (B) $40^\circ$ \quad (C) $45^\circ$ \quad (D) $60^\circ$ \quad (E) $75^\circ$
 
-![[src_obm_2003_n2_f1__q25.png]]
+![[src_obm_2003_n2_f1__Q25.png]]
 
-**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometry]], [[topic_geometria_analitica|Coordinate geometry]]
 **Metodo:** [[method_trigonometria|Trigonometria]], [[method_coordinate|Coordinate]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
-**Area:** [[Geometria]]
+**Area:** [[Geometria|Geometry]]
 **Risposta:** C
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1KlMYp7wlmSUSL8AJTynGV2ujlAnr6u45/view)
 
@@ -1087,14 +1061,12 @@ $$\begin{array}{|c|c|c|c|}\hline 1 & 2 & 1 & 1 \\\hline 0 & 2 & 1 & 2 \\\hline 2
 >
 > (A) $30^\circ$ \quad (B) $40^\circ$ \quad (C) $45^\circ$ \quad (D) $60^\circ$ \quad (E) $75^\circ$
 
-![[src_obm_2003_n2_f1__q25.png]]
+![[src_obm_2003_n2_f1__Q25.png]]
 
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometria]], [[topic_geometria_analitica|Geometria analitica]]
+**Metodo:** [[method_trigonometria|Trigonometria]], [[method_coordinate|Coordinate]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
 **Risposta:** C
 
 **Argomento:** [[topic_geometria_piana|Geometria piana]]
-
-**Metodo:** [[method_trigonometria|Trigonometria]], [[method_coordinate|Coordinate]]
-
-**Abilità:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
-
-[[Quesiti/src_obm_2003_n2_f1#q25|src_obm_2003_n2_f1__Q25]]

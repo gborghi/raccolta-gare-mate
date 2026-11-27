@@ -10,7 +10,7 @@ level: JMO Yosen
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_aritmetica,method_casework,skill_lettura_attenta,skill_casework_accurato"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_aritmetica,method_casework,method_congruenze,skill_lettura_attenta,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -20,9 +20,9 @@ level: JMO Yosen
 > Find the smallest integer greater than $2022$ that is (i) a 4-digit number, (ii) a multiple of $3$, and (iii) uses exactly $2$ distinct digits among its thousands, hundreds, tens, and units places.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_casework|Casework]]
+**Metodo:** [[method_casework|Casework]], [[method_congruenze|Modular arithmetic / congruences]]
 **Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_casework_accurato|Casework accurato]]
-**Area:** [[Aritmetica e Teoria dei Numeri]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Risposta:** 2112
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1eHA19sYGc_is7zneIZZojWZXzFMCkX3n/view)
 
@@ -35,10 +35,12 @@ level: JMO Yosen
 > Trovare il minimo intero maggiore di $2022$ che è (i) un numero di 4 cifre, (ii) un multiplo di $3$, e (iii) usa esattamente $2$ cifre distinte fra le posizioni delle migliaia, delle centinaia, delle decine e delle unità.
 
 **Argomento:** [[topic_aritmetica|Aritmetica / Teoria dei numeri]]
-**Metodo:** [[method_casework|Analisi per casi]]
-**Abilità:** [[skill_lettura_attenta|Lettura attenta del testo]], [[skill_casework_accurato|Analisi per casi accurata]]
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei numeri]]
+**Metodo:** [[method_casework|Analisi per casi]], [[method_congruenze|Aritmetica modulare / congruenze]]
+**Abilita:** [[skill_lettura_attenta|Lettura attenta del testo]], [[skill_casework_accurato|Analisi per casi accurata]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 2112
-[[Quesiti/src_jmo32ya_yosen#q01|src_jmo32ya_yosen__Q01]]
 
 
 
@@ -69,12 +71,12 @@ level: JMO Yosen
 **Argomento:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_trigonometria|Tecniche trigonometriche]]
 **Abilità:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
 **Risposta:** 45
-[[Quesiti/src_jmo32ya_yosen#q02|src_jmo32ya_yosen__Q02]]
 
 
 
-<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_combinatoria,method_casework,method_conteggio,skill_conteggio_sistematico,skill_casework_accurato"></span>
+<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_combinatoria,method_casework,method_conteggio,method_grafi,skill_conteggio_sistematico,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -84,9 +86,9 @@ level: JMO Yosen
 > Label the vertices of a regular hexagon $A, B, C, D, E, F$ in order. From any vertex, one may move to an adjacent vertex or to the diametrically opposite vertex. How many closed paths are there that start at $A$, visit each of the other five vertices exactly once (without returning to $A$ until the very end), and then return to $A$?
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
-**Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]]
+**Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]], [[method_grafi|Graph theory]]
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]]
-**Area:** [[Combinatoria, Logica e Probabilita]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Risposta:** 12
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1eHA19sYGc_is7zneIZZojWZXzFMCkX3n/view)
 
@@ -99,10 +101,12 @@ level: JMO Yosen
 > Si etichettino in ordine i vertici di un esagono regolare $A, B, C, D, E, F$. Da un vertice qualunque ci si può spostare su un vertice adiacente o sul vertice diametralmente opposto. Quanti cammini chiusi partono da $A$, visitano ciascuno degli altri cinque vertici esattamente una volta (senza tornare in $A$ prima della fine) e poi tornano in $A$?
 
 **Argomento:** [[topic_combinatoria|Combinatoria]]
-**Metodo:** [[method_casework|Analisi per casi]], [[method_conteggio|Conteggio combinatorio]]
-**Abilità:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Analisi per casi accurata]]
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casework|Analisi per casi]], [[method_conteggio|Conteggio combinatorio]], [[method_grafi|Teoria dei grafi]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Analisi per casi accurata]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 12
-[[Quesiti/src_jmo32ya_yosen#q03|src_jmo32ya_yosen__Q03]]
 
 
 
@@ -133,8 +137,8 @@ level: JMO Yosen
 **Argomento:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_coordinate|Metodo delle coordinate]], [[method_trigonometria|Tecniche trigonometriche]]
 **Abilità:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
 **Risposta:** $\dfrac{245}{6}$
-[[Quesiti/src_jmo32ya_yosen#q04|src_jmo32ya_yosen__Q04]]
 
 
 
@@ -165,8 +169,8 @@ level: JMO Yosen
 **Argomento:** [[topic_aritmetica|Aritmetica / Teoria dei numeri]], [[topic_algebra|Algebra]]
 **Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]], [[method_congruenze|Aritmetica modulare / congruenze]]
 **Abilità:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione / generalizzazione]], [[skill_lettura_attenta|Lettura attenta del testo]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 **Risposta:** 44
-[[Quesiti/src_jmo32ya_yosen#q05|src_jmo32ya_yosen__Q05]]
 
 
 
@@ -197,8 +201,8 @@ level: JMO Yosen
 **Argomento:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_invarianti|Invarianti / monovarianti]], [[method_casework|Analisi per casi]], [[method_colorazione|Colorazione / parità]]
 **Abilità:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_astrazione|Astrazione / generalizzazione]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 68
-[[Quesiti/src_jmo32ya_yosen#q06|src_jmo32ya_yosen__Q06]]
 
 
 
@@ -229,8 +233,8 @@ level: JMO Yosen
 **Argomento:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_coordinate|Metodo delle coordinate]], [[method_trigonometria|Tecniche trigonometriche]]
 **Abilità:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
 **Risposta:** $\dfrac{21\sqrt{2}}{8}$
-[[Quesiti/src_jmo32ya_yosen#q07|src_jmo32ya_yosen__Q07]]
 
 
 
@@ -263,12 +267,12 @@ level: JMO Yosen
 **Argomento:** [[topic_algebra|Algebra]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_casework|Analisi per casi]], [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
 **Abilità:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta del testo]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Algebra e Analisi]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 10
-[[Quesiti/src_jmo32ya_yosen#q08|src_jmo32ya_yosen__Q08]]
 
 
 
-<span class="atom-split" id="q09" data-atom="q09" data-title="Quesito 9" data-tags="topic_combinatoria,method_conteggio,method_casework,method_doppio_conteggio,skill_conteggio_sistematico,skill_ragionamento_geometrico,skill_riconoscimento_pattern"></span>
+<span class="atom-split" id="q09" data-atom="q09" data-title="Quesito 9" data-tags="topic_combinatoria,topic_aritmetica,method_conteggio,method_casework,method_doppio_conteggio,skill_conteggio_sistematico,skill_ragionamento_geometrico,skill_riconoscimento_pattern,skill_lettura_attenta"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -277,10 +281,10 @@ level: JMO Yosen
 
 > How many permutations $(p_1, p_2, \ldots, p_{1000})$ of $1, 2, \ldots, 1000$ are there such that for every integer $i$ with $1 \le i \le 999$, $p_i$ is a multiple of $i$?
 
-**Topic:** [[topic_combinatoria|Combinatoria]]
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Arithmetic / Number theory]]
 **Metodo:** [[method_conteggio|Conteggio]], [[method_casework|Casework]], [[method_doppio_conteggio|Doppio conteggio]]
-**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
-**Area:** [[Combinatoria, Logica e Probabilita]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_lettura_attenta|Careful reading of the text]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Risposta:** 504
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1eHA19sYGc_is7zneIZZojWZXzFMCkX3n/view)
 
@@ -293,14 +297,16 @@ level: JMO Yosen
 > Quante permutazioni $(p_1, p_2, \ldots, p_{1000})$ di $1, 2, \ldots, 1000$ sono tali che per ogni intero $i$ con $1 \le i \le 999$, $p_i$ è un multiplo di $i$?
 
 **Argomento:** [[topic_combinatoria|Combinatoria]]
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_conteggio|Conteggio combinatorio]], [[method_casework|Analisi per casi]], [[method_doppio_conteggio|Doppio conteggio]]
-**Abilità:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_riconoscimento_pattern|Riconoscimento di schemi]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_riconoscimento_pattern|Riconoscimento di schemi]], [[skill_lettura_attenta|Lettura attenta del testo]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 504
-[[Quesiti/src_jmo32ya_yosen#q09|src_jmo32ya_yosen__Q09]]
 
 
 
-<span class="atom-split" id="q10" data-atom="q10" data-title="Quesito 10" data-tags="topic_combinatoria,method_conteggio,method_bigezione,method_casework,skill_conteggio_sistematico,skill_astrazione,skill_riconoscimento_pattern"></span>
+<span class="atom-split" id="q10" data-atom="q10" data-title="Quesito 10" data-tags="topic_combinatoria,topic_aritmetica,method_conteggio,method_bigezione,method_casework,skill_conteggio_sistematico,skill_astrazione,skill_riconoscimento_pattern"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -309,10 +315,10 @@ level: JMO Yosen
 
 > How many ways are there to choose $25$ distinct integers from $\{1, 2, \ldots, 50\}$ such that among any two chosen integers, neither divides the other?
 
-**Topic:** [[topic_combinatoria|Combinatoria]]
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Arithmetic / Number theory]]
 **Metodo:** [[method_conteggio|Conteggio]], [[method_bigezione|Biiezione]], [[method_casework|Casework]]
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_astrazione|Astrazione]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
-**Area:** [[Combinatoria, Logica e Probabilita]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Risposta:** 1632
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1eHA19sYGc_is7zneIZZojWZXzFMCkX3n/view)
 
@@ -325,14 +331,16 @@ level: JMO Yosen
 > In quanti modi si possono scegliere $25$ interi distinti da $\{1, 2, \ldots, 50\}$ in modo che, fra due interi scelti qualunque, nessuno divida l'altro?
 
 **Argomento:** [[topic_combinatoria|Combinatoria]]
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_conteggio|Conteggio combinatorio]], [[method_bigezione|Bigezione / corrispondenza]], [[method_casework|Analisi per casi]]
-**Abilità:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_astrazione|Astrazione / generalizzazione]], [[skill_riconoscimento_pattern|Riconoscimento di schemi]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_astrazione|Astrazione / generalizzazione]], [[skill_riconoscimento_pattern|Riconoscimento di schemi]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 1632
-[[Quesiti/src_jmo32ya_yosen#q10|src_jmo32ya_yosen__Q10]]
 
 
 
-<span class="atom-split" id="q11" data-atom="q11" data-title="Quesito 11" data-tags="topic_aritmetica,topic_algebra,method_congruenze,method_induzione,method_telescoping,skill_manipolazione_algebrica,skill_astrazione,skill_riconoscimento_pattern"></span>
+<span class="atom-split" id="q11" data-atom="q11" data-title="Quesito 11" data-tags="topic_aritmetica,topic_algebra,topic_combinatoria,method_congruenze,method_induzione,method_telescoping,skill_manipolazione_algebrica,skill_astrazione,skill_riconoscimento_pattern"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -341,10 +349,10 @@ level: JMO Yosen
 
 > For each positive integer $n$, define $$f(n) = \begin{cases} n^{100} & \text{if the sum of the digits of } n \text{ is even,} \\ -n^{100} & \text{if the sum of the digits of } n \text{ is odd.} \end{cases}$$ Let $S = f(1) + f(2) + \cdots + f(10^{100} - 1)$. Find the largest non-negative integer $m$ such that $5^m$ divides $S$ (it is given that $S \ne 0$).
 
-**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]], [[topic_combinatoria|Combinatorics]]
 **Metodo:** [[method_congruenze|Congruenze]], [[method_induzione|Induzione]], [[method_telescoping|Telescoping]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
-**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Algebra e Analisi|Algebra and analysis]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Risposta:** 5074
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1eHA19sYGc_is7zneIZZojWZXzFMCkX3n/view)
 
@@ -359,10 +367,12 @@ level: JMO Yosen
 > . Sia $S = f(1) + f(2) + \cdots + f(10^{100} - 1)$. Trovare il massimo intero non negativo $m$ tale che $5^m$ divide $S$ (è dato che $S \ne 0$).
 
 **Argomento:** [[topic_aritmetica|Aritmetica / Teoria dei numeri]], [[topic_algebra|Algebra]]
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei numeri]], [[topic_algebra|Algebra]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]], [[method_induzione|Induzione]], [[method_telescoping|Somme telescopiche]]
-**Abilità:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione / generalizzazione]], [[skill_riconoscimento_pattern|Riconoscimento di schemi]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione / generalizzazione]], [[skill_riconoscimento_pattern|Riconoscimento di schemi]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 5074
-[[Quesiti/src_jmo32ya_yosen#q11|src_jmo32ya_yosen__Q11]]
 
 
 
@@ -393,5 +403,5 @@ level: JMO Yosen
 **Argomento:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_trigonometria|Tecniche trigonometriche]], [[method_coordinate|Metodo delle coordinate]]
 **Abilità:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta del testo]]
+**Area:** [[Geometria]]
 **Risposta:** $2\sqrt{21}$
-[[Quesiti/src_jmo32ya_yosen#q12|src_jmo32ya_yosen__Q12]]

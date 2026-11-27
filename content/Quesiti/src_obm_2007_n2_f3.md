@@ -50,11 +50,9 @@ level: OBM Nível 2
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 
-[[Quesiti/src_obm_2007_n2_f3#q01|src_obm_2007_n2_f3__Q01]]
 
 
-
-<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_geometria_piana,method_simmetria,method_colorazione,skill_ragionamento_geometrico,skill_modellizzazione,skill_astrazione"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_geometria_piana,method_simmetria,method_colorazione,method_casework,skill_ragionamento_geometrico,skill_modellizzazione,skill_astrazione,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -64,9 +62,9 @@ level: OBM Nível 2
 > Let $P$ be a convex pentagon with all sides equal. Prove that if two of the angles of $P$ sum to $180^\circ$, then it is possible to tile the plane with copies of $P$, without overlaps.
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
-**Metodo:** [[method_simmetria|Simmetria]], [[method_colorazione|Colorazione]]
-**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]], [[skill_astrazione|Astrazione]]
-**Area:** [[Geometria]]
+**Metodo:** [[method_simmetria|Simmetria]], [[method_colorazione|Colorazione]], [[method_casework|Case analysis]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]], [[skill_astrazione|Astrazione]], [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Geometria|Geometry]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Ok4ISwRXULB-zakCB8K-9czPsm8mWoyW/view)
 
 
@@ -77,12 +75,11 @@ level: OBM Nível 2
 
 > Sia $P$ un pentagono convesso con tutti i lati uguali. Dimostrare che, se due degli angoli di $P$ sommano a $180^\circ$, allora è possibile ricoprire il piano con copie di $P$, senza sovrapposizioni.
 
-**Topic:** [[topic_geometria_piana|Geometria piana]]
-**Metodo:** [[method_simmetria|Simmetria]], [[method_colorazione|Colorazione]]
-**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]], [[skill_astrazione|Astrazione]]
-**Area:** [[Geometria]]
 
-[[Quesiti/src_obm_2007_n2_f3#q02|src_obm_2007_n2_f3__Q02]]
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_simmetria|Simmetria]], [[method_colorazione|Colorazione]], [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]], [[skill_astrazione|Astrazione]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Geometria]]
 
 
 
@@ -118,8 +115,6 @@ level: OBM Nível 2
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_astrazione|Astrazione]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 
-[[Quesiti/src_obm_2007_n2_f3#q03|src_obm_2007_n2_f3__Q03]]
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_aritmetica,method_congruenze,method_fattorizzazione,method_casework,skill_manipolazione_algebrica,skill_lettura_attenta,skill_ragionamento_geometrico"></span>
@@ -149,8 +144,6 @@ level: OBM Nível 2
 **Metodo:** [[method_congruenze|Congruenze]], [[method_fattorizzazione|Fattorizzazione]], [[method_casework|Casework]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
-
-[[Quesiti/src_obm_2007_n2_f3#q04|src_obm_2007_n2_f3__Q04]]
 
 
 
@@ -186,8 +179,6 @@ level: OBM Nível 2
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]]
 **Area:** [[Geometria]]
 
-[[Quesiti/src_obm_2007_n2_f3#q05|src_obm_2007_n2_f3__Q05]]
-
 
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_combinatoria,topic_aritmetica,method_estremalita,method_conteggio,method_doppio_conteggio,skill_astrazione,skill_conteggio_sistematico,skill_modellizzazione,skill_riconoscimento_pattern"></span>
@@ -221,5 +212,3 @@ level: OBM Nível 2
 **Metodo:** [[method_estremalita|Estremalità]], [[method_conteggio|Conteggio]], [[method_doppio_conteggio|Doppio conteggio]]
 **Abilita:** [[skill_astrazione|Astrazione]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
-
-[[Quesiti/src_obm_2007_n2_f3#q06|src_obm_2007_n2_f3__Q06]]

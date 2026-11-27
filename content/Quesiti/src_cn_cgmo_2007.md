@@ -10,7 +10,7 @@ level: China Girls' Mathematical Olympiad
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_aritmetica,method_fattorizzazione,method_casework,skill_manipolazione_algebrica,skill_conteggio_sistematico"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_aritmetica,method_fattorizzazione,method_casework,skill_manipolazione_algebrica,skill_conteggio_sistematico,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -21,8 +21,8 @@ level: China Girls' Mathematical Olympiad
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_casework|Casework]]
-**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]]
-**Area:** [[Aritmetica e Teoria dei Numeri]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Risposta:** 18 is not a good number
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1A6F-Sk42BaQt80ts_sFXZiDY4uHJtL3I/view)
 
@@ -38,16 +38,15 @@ level: China Girls' Mathematical Olympiad
 
 > [!warning] Estratto da verificare con la fonte.
 
+
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_casework|Casework]]
-**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 
-[[Quesiti/src_cn_cgmo_2007#q01|src_cn_cgmo_2007__Q01]]
 
 
-
-<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_geometria_piana,topic_trigonometria,method_trigonometria,method_casework,skill_ragionamento_geometrico,skill_casework_accurato"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_geometria_piana,topic_trigonometria,method_trigonometria,method_casework,skill_ragionamento_geometrico,skill_casework_accurato,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -58,8 +57,8 @@ level: China Girls' Mathematical Olympiad
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometria]]
 **Metodo:** [[method_trigonometria|Trigonometria]], [[method_casework|Casework]]
-**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_casework_accurato|Casework accurato]]
-**Area:** [[Geometria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_casework_accurato|Casework accurato]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Geometria|Geometry]]
 **Risposta:** ABC is isosceles
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1A6F-Sk42BaQt80ts_sFXZiDY4uHJtL3I/view)
 
@@ -74,16 +73,15 @@ level: China Girls' Mathematical Olympiad
 
 > [!warning] Estratto da verificare con la fonte.
 
+
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometria]]
 **Metodo:** [[method_trigonometria|Trigonometria]], [[method_casework|Casework]]
-**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_casework_accurato|Casework accurato]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_casework_accurato|Casework accurato]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 
-[[Quesiti/src_cn_cgmo_2007#q02|src_cn_cgmo_2007__Q02]]
 
 
-
-<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_disuguaglianze,topic_algebra,method_induzione,method_disuguaglianze,method_simmetria,skill_manipolazione_algebrica,skill_stima,skill_ragionamento_geometrico"></span>
+<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_disuguaglianze,topic_algebra,method_induzione,method_disuguaglianze,method_simmetria,method_estremalita,skill_manipolazione_algebrica,skill_stima,skill_ragionamento_geometrico"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -94,9 +92,9 @@ level: China Girls' Mathematical Olympiad
 > $$\frac{a_1}{a_2^2+1} + \frac{a_2}{a_3^2+1} + \cdots + \frac{a_n}{a_1^2+1}.$$
 
 **Topic:** [[topic_disuguaglianze|Disuguaglianze]], [[topic_algebra|Algebra]]
-**Metodo:** [[method_induzione|Induzione]], [[method_disuguaglianze|Disuguaglianze]], [[method_simmetria|Simmetria]]
+**Metodo:** [[method_induzione|Induzione]], [[method_disuguaglianze|Disuguaglianze]], [[method_simmetria|Simmetria]], [[method_estremalita|Extremal principle]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
-**Area:** [[Algebra e Analisi]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
 **Risposta:** $\frac{3}{2}$
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1A6F-Sk42BaQt80ts_sFXZiDY4uHJtL3I/view)
 
@@ -109,16 +107,15 @@ level: China Girls' Mathematical Olympiad
 > Sia $n$ un numero intero maggiore di 3, e siano $a_1, a_2, \ldots, a_n$ numeri reali non negativi tali che $a_1 + a_2 + \cdots + a_n = 2$. Determinare il valore minimo di
 > $$\frac{a_1}{a_2^2+1} + \frac{a_2}{a_3^2+1} + \cdots + \frac{a_n}{a_1^2+1}.$$
 
+
 **Topic:** [[topic_disuguaglianze|Disuguaglianze]], [[topic_algebra|Algebra]]
-**Metodo:** [[method_induzione|Induzione]], [[method_disuguaglianze|Disuguaglianze]], [[method_simmetria|Simmetria]]
+**Metodo:** [[method_induzione|Induzione]], [[method_disuguaglianze|Disuguaglianze]], [[method_simmetria|Simmetria]], [[method_estremalita|Principio di estremalita]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Algebra e Analisi]]
 
-[[Quesiti/src_cn_cgmo_2007#q03|src_cn_cgmo_2007__Q03]]
 
 
-
-<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_geometria_piana,topic_combinatoria,method_invarianti,method_simmetria,method_estremalita,skill_ragionamento_geometrico,skill_astrazione,skill_modellizzazione"></span>
+<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_geometria_piana,topic_combinatoria,method_invarianti,method_simmetria,method_estremalita,method_casework,skill_ragionamento_geometrico,skill_astrazione,skill_modellizzazione"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -128,9 +125,9 @@ level: China Girls' Mathematical Olympiad
 > The set $S$ consists of $n > 2$ points in the plane. The set $P$ consists of $m$ lines in the plane such that every line in $P$ is an axis of symmetry of $S$. Prove that $m \le n$, and determine when equality holds.
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_combinatoria|Combinatoria]]
-**Metodo:** [[method_invarianti|Invarianti]], [[method_simmetria|Simmetria]], [[method_estremalita|Estremalità]]
+**Metodo:** [[method_invarianti|Invarianti]], [[method_simmetria|Simmetria]], [[method_estremalita|Estremalità]], [[method_casework|Case analysis]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_astrazione|Astrazione]], [[skill_modellizzazione|Modellizzazione]]
-**Area:** [[Geometria]], [[Combinatoria, Logica e Probabilita]]
+**Area:** [[Geometria|Geometry]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1A6F-Sk42BaQt80ts_sFXZiDY4uHJtL3I/view)
 
 
@@ -141,16 +138,15 @@ level: China Girls' Mathematical Olympiad
 
 > L'insieme $S$ è costituito da $n > 2$ punti nel piano. L'insieme $P$ è costituito da $m$ rette nel piano tali che ogni retta in $P$ sia un asse di simmetria di $S$. Dimostrare che $m \le n$, e determina quando vale l'uguaglianza.
 
+
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_combinatoria|Combinatoria]]
-**Metodo:** [[method_invarianti|Invarianti]], [[method_simmetria|Simmetria]], [[method_estremalita|Estremalità]]
+**Metodo:** [[method_invarianti|Invarianti]], [[method_simmetria|Simmetria]], [[method_estremalita|Estremalità]], [[method_casework|Analisi per casi]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_astrazione|Astrazione]], [[skill_modellizzazione|Modellizzazione]]
 **Area:** [[Geometria]], [[Combinatoria, Logica e Probabilita]]
 
-[[Quesiti/src_cn_cgmo_2007#q04|src_cn_cgmo_2007__Q04]]
 
 
-
-<span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_geometria_piana,topic_trigonometria,method_trigonometria,method_coordinate,skill_ragionamento_geometrico,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
+<span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_geometria_piana,topic_trigonometria,method_trigonometria,method_coordinate,method_simmetria,skill_ragionamento_geometrico,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -160,9 +156,9 @@ level: China Girls' Mathematical Olympiad
 > Point $D$ lies inside triangle $ABC$ such that $\angle DAC = \angle DCA = 30^\circ$ and $\angle DBA = 60^\circ$. Point $E$ is the midpoint of segment $BC$. Point $F$ lies on segment $AC$ with $AF = 2FC$. Prove that $DE \perp EF$.
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometria]]
-**Metodo:** [[method_trigonometria|Trigonometria]], [[method_coordinate|Coordinate]]
+**Metodo:** [[method_trigonometria|Trigonometria]], [[method_coordinate|Coordinate]], [[method_simmetria|Using symmetry]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
-**Area:** [[Geometria]]
+**Area:** [[Geometria|Geometry]]
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1A6F-Sk42BaQt80ts_sFXZiDY4uHJtL3I/view)
 
 
@@ -173,9 +169,8 @@ level: China Girls' Mathematical Olympiad
 
 > Il punto $D$ giace all'interno del triangolo $ABC$ in modo che $\angle DAC = \angle DCA = 30^\circ$ e $\angle DBA = 60^\circ$. Il punto $E$ è il punto medio del segmento $BC$. Il punto $F$ giace sul segmento $AC$ con $AF = 2FC$. Dimostrare che $DE \perp EF$.
 
+
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometria]]
-**Metodo:** [[method_trigonometria|Trigonometria]], [[method_coordinate|Coordinate]]
+**Metodo:** [[method_trigonometria|Trigonometria]], [[method_coordinate|Coordinate]], [[method_simmetria|Sfruttamento della simmetria]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Geometria]]
-
-[[Quesiti/src_cn_cgmo_2007#q05|src_cn_cgmo_2007__Q05]]

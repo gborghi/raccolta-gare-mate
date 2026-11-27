@@ -10,7 +10,7 @@ level: OBM Nível 1
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_aritmetica,topic_combinatoria,method_conteggio,skill_conteggio_sistematico,skill_manipolazione_algebrica"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_aritmetica,topic_combinatoria,method_conteggio,method_doppio_conteggio,skill_conteggio_sistematico,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -19,12 +19,12 @@ level: OBM Nível 1
 
 > A domino set is formed by 28 distinct rectangular pieces, each with two parts, each part containing 0 to 6 dots. For example, here are three of these pieces (showing 0|1, 1|3, and 4|6). What is the total number of dots on all the pieces?
 
-![[src_obm_2001_n1_f2__q01.png]]
+![[src_obm_2001_n1_f2__Q01.png]]
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
-**Metodo:** [[method_conteggio|Conteggio]]
+**Metodo:** [[method_conteggio|Conteggio]], [[method_doppio_conteggio|Double counting]]
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
-**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Risposta:** 168
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1OU_kkwljknqnKJvISMf5e6JcgwurbdgC/view)
 
@@ -36,18 +36,17 @@ level: OBM Nível 1
 
 > Un set di domino è composto da 28 tessere rettangolari distinte, ciascuna con due metà, e ciascuna metà contiene da 0 a 6 puntini. Ad esempio, ecco tre di queste tessere (che mostrano 0|1, 1|3 e 4|6). Qual è il numero totale di puntini su tutte le tessere?
 
-![[src_obm_2001_n1_f2__q01.png]]
+![[src_obm_2001_n1_f2__Q01.png]]
+
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
-**Metodo:** [[method_conteggio|Conteggio]]
+**Metodo:** [[method_conteggio|Conteggio]], [[method_doppio_conteggio|Doppio conteggio]]
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 
-[[Quesiti/src_obm_2001_n1_f2#q01|src_obm_2001_n1_f2__Q01]]
 
 
-
-<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_geometria_piana,skill_ragionamento_geometrico,skill_lettura_attenta"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_geometria_piana,method_conteggio,skill_ragionamento_geometrico,skill_lettura_attenta"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -56,11 +55,12 @@ level: OBM Nível 1
 
 > The pieces of a game called Tangram are constructed by cutting a square into seven parts, as shown in the figure: two large right triangles, one medium right triangle, two small right triangles, one square, and one parallelogram. If the area of the large square is 1, what is the area of the parallelogram?
 
-![[src_obm_2001_n1_f2__q02.png]]
+![[src_obm_2001_n1_f2__Q02.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_conteggio|Combinatorial counting]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
-**Area:** [[Geometria]]
+**Area:** [[Geometria|Geometry]]
 **Risposta:** 1/8
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1OU_kkwljknqnKJvISMf5e6JcgwurbdgC/view)
 
@@ -72,17 +72,17 @@ level: OBM Nível 1
 
 > I pezzi di un gioco chiamato Tangram si ottengono tagliando un quadrato in sette parti, come mostrato nella figura: due grandi triangoli rettangoli, un triangolo rettangolo di dimensioni medie, due piccoli triangoli rettangoli, un quadrato e un parallelogramma. Se l'area del quadrato grande è 1, qual è l'area del parallelogramma?
 
-![[src_obm_2001_n1_f2__q02.png]]
+![[src_obm_2001_n1_f2__Q02.png]]
+
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_conteggio|Conteggio combinatorio]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Geometria]]
 
-[[Quesiti/src_obm_2001_n1_f2#q02|src_obm_2001_n1_f2__Q02]]
 
 
-
-<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_aritmetica,topic_combinatoria,method_induzione,method_ricorsione,skill_riconoscimento_pattern,skill_conteggio_sistematico"></span>
+<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_aritmetica,topic_combinatoria,method_induzione,method_ricorsione,skill_riconoscimento_pattern,skill_conteggio_sistematico,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -93,8 +93,8 @@ level: OBM Nível 1
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_induzione|Induzione]], [[method_ricorsione|Ricorsione]]
-**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_conteggio_sistematico|Conteggio sistematico]]
-**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Risposta:** 6
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1OU_kkwljknqnKJvISMf5e6JcgwurbdgC/view)
 
@@ -106,16 +106,15 @@ level: OBM Nível 1
 
 > Carlitos pratica un foro in un foglio di carta rettangolare. Piega il foglio a metà e pratica un foro; poi piega di nuovo a metà il foglio già piegato e pratica un foro. Può ripetere questa procedura quante volte vuole, evitando sempre di bucare nei punti in cui ci sono già dei fori. Quando apre il foglio, si conta il numero totale di fori. Quanti piegamenti deve fare al minimo per ottenere più di 100 fori nel foglio?
 
+
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_induzione|Induzione]], [[method_ricorsione|Ricorsione]]
-**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 
-[[Quesiti/src_obm_2001_n1_f2#q03|src_obm_2001_n1_f2__Q03]]
 
 
-
-<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_aritmetica,topic_combinatoria,method_casework,skill_riconoscimento_pattern,skill_lettura_attenta,skill_conteggio_sistematico"></span>
+<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_aritmetica,topic_combinatoria,method_casework,method_coordinate,skill_riconoscimento_pattern,skill_lettura_attenta,skill_conteggio_sistematico,skill_ragionamento_geometrico"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -124,12 +123,12 @@ level: OBM Nível 1
 
 > The points of the grid below are numbered starting from the bottom-left vertex, following the polygonal path suggested in the figure. The path visits: $1, 2$ on the bottom, then $3, 4, 5, 6, 7$ up the left side and across, then $8, 9, 10$ etc., spiralling inward. Consider the point corresponding to the number $2001$. What are the numbers of the points located immediately below and immediately to the left of it?
 
-![[src_obm_2001_n1_f2__q04.png]]
+![[src_obm_2001_n1_f2__Q04.png]]
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
-**Metodo:** [[method_casework|Casework]]
-**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_lettura_attenta|Lettura attenta]], [[skill_conteggio_sistematico|Conteggio sistematico]]
-**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+**Metodo:** [[method_casework|Casework]], [[method_coordinate|Coordinate method]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_lettura_attenta|Lettura attenta]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Risposta:** 1850 (below) and 1874 (left)
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1OU_kkwljknqnKJvISMf5e6JcgwurbdgC/view)
 
@@ -141,14 +140,13 @@ level: OBM Nível 1
 
 > I punti della griglia sottostante sono numerati a partire dal vertice in basso a sinistra, seguendo il percorso poligonale suggerito nella figura. Il percorso tocca: $1, 2$ in basso, poi $3, 4, 5, 6, 7$ risalendo il lato sinistro e attraversando, poi $8, 9, 10$ ecc., a spirale verso l'interno. Si consideri il punto corrispondente al numero $2001$. Quali sono i numeri dei punti situati immediatamente sotto e immediatamente a sinistra di esso?
 
-![[src_obm_2001_n1_f2__q04.png]]
+![[src_obm_2001_n1_f2__Q04.png]]
+
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
-**Metodo:** [[method_casework|Casework]]
-**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_lettura_attenta|Lettura attenta]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Metodo:** [[method_casework|Casework]], [[method_coordinate|Metodo delle coordinate]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_lettura_attenta|Lettura attenta]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
-
-[[Quesiti/src_obm_2001_n1_f2#q04|src_obm_2001_n1_f2__Q04]]
 
 
 
@@ -181,8 +179,6 @@ level: OBM Nível 1
 **Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 
-[[Quesiti/src_obm_2001_n1_f2#q05|src_obm_2001_n1_f2__Q05]]
-
 
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_aritmetica,method_congruenze,skill_riconoscimento_pattern,skill_manipolazione_algebrica,skill_conteggio_sistematico"></span>
@@ -213,5 +209,3 @@ level: OBM Nível 1
 **Metodo:** [[method_congruenze|Congruenze]]
 **Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
-
-[[Quesiti/src_obm_2001_n1_f2#q06|src_obm_2001_n1_f2__Q06]]

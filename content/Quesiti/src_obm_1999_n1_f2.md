@@ -10,7 +10,7 @@ level: OBM Nível 1
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_aritmetica,topic_combinatoria,method_estremalita,method_casework,skill_lettura_attenta,skill_ragionamento_geometrico,skill_conteggio_sistematico"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_aritmetica,topic_combinatoria,method_estremalita,method_casework,skill_lettura_attenta,skill_ragionamento_geometrico,skill_conteggio_sistematico,skill_riconoscimento_pattern"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -21,8 +21,8 @@ level: OBM Nível 1
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_estremalita|Estremalità]], [[method_casework|Casework]]
-**Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_conteggio_sistematico|Conteggio sistematico]]
-**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+**Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Risposta:** 5512345512345
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1sVRS4YG1oL_KhveTUD5PLD8vlbfPaSxf/view)
 
@@ -34,16 +34,15 @@ level: OBM Nível 1
 
 > Rimuovi 10 cifre dal numero $12345123451234512345$ in modo che il numero rimanente sia il più grande possibile.
 
+
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_estremalita|Estremalità]], [[method_casework|Casework]]
-**Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 
-[[Quesiti/src_obm_1999_n1_f2#q01|src_obm_1999_n1_f2__Q01]]
 
 
-
-<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_aritmetica,topic_combinatoria,method_casework,skill_lettura_attenta,skill_casework_accurato,skill_ragionamento_geometrico"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_aritmetica,topic_combinatoria,method_casework,method_congruenze,skill_lettura_attenta,skill_casework_accurato,skill_ragionamento_geometrico"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -57,9 +56,9 @@ level: OBM Nível 1
 > b) Can they be August, September, and October?
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
-**Metodo:** [[method_casework|Casework]]
+**Metodo:** [[method_casework|Casework]], [[method_congruenze|Modular arithmetic / congruences]]
 **Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_casework_accurato|Casework accurato]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
-**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1sVRS4YG1oL_KhveTUD5PLD8vlbfPaSxf/view)
 
 
@@ -74,12 +73,11 @@ level: OBM Nível 1
 >
 > b) Possono essere agosto, settembre e ottobre?
 
+
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
-**Metodo:** [[method_casework|Casework]]
+**Metodo:** [[method_casework|Casework]], [[method_congruenze|Aritmetica modulare / congruenze]]
 **Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_casework_accurato|Casework accurato]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
-
-[[Quesiti/src_obm_1999_n1_f2#q02|src_obm_1999_n1_f2__Q02]]
 
 
 
@@ -97,7 +95,7 @@ level: OBM Nível 1
 > 
 > b) What fraction of the area of triangle $ABC$ does the shaded area represent?
 
-![[src_obm_1999_n1_f2__q03.png]]
+![[src_obm_1999_n1_f2__Q03.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_simmetria|Simmetria]]
@@ -118,18 +116,16 @@ level: OBM Nível 1
 >
 > b) Quale frazione dell'area del triangolo $ABC$ rappresenta l'area ombreggiata?
 
-![[src_obm_1999_n1_f2__q03.png]]
+![[src_obm_1999_n1_f2__Q03.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_simmetria|Simmetria]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Geometria]]
 
-[[Quesiti/src_obm_1999_n1_f2#q03|src_obm_1999_n1_f2__Q03]]
 
 
-
-<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_aritmetica,topic_combinatoria,method_casework,method_induzione,skill_riconoscimento_pattern,skill_modellizzazione,skill_conteggio_sistematico"></span>
+<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_aritmetica,topic_combinatoria,method_casework,method_induzione,method_bigezione,skill_riconoscimento_pattern,skill_modellizzazione,skill_conteggio_sistematico"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -139,9 +135,9 @@ level: OBM Nível 1
 > Pedro distributed 127 coins of 1 real into seven boxes and placed a label on each one indicating the number of coins in that box. This distribution was made in such a way that any amount from $\$1.00$ to $\$127.00$ can be paid by handing over only certain boxes (without making change). How did Pedro do it?
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
-**Metodo:** [[method_casework|Casework]], [[method_induzione|Induzione]]
+**Metodo:** [[method_casework|Casework]], [[method_induzione|Induzione]], [[method_bigezione|Bijection / correspondence]]
 **Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_modellizzazione|Modellizzazione]], [[skill_conteggio_sistematico|Conteggio sistematico]]
-**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Risposta:** 1, 2, 4, 8, 16, 32, 64
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1sVRS4YG1oL_KhveTUD5PLD8vlbfPaSxf/view)
 
@@ -153,12 +149,11 @@ level: OBM Nível 1
 
 > Pedro distribuì 127 monete da 1 real in sette scatole e mise un'etichetta su ciascuna, indicante il numero di monete contenute in quella scatola. La distribuzione fu effettuata in modo tale che qualsiasi importo compreso tra $\$1.00$ to $\$127.00$ potesse essere pagato consegnando solo alcune scatole (senza dare il resto). Come fece Pedro?
 
+
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
-**Metodo:** [[method_casework|Casework]], [[method_induzione|Induzione]]
+**Metodo:** [[method_casework|Casework]], [[method_induzione|Induzione]], [[method_bigezione|Bigezione / corrispondenza]]
 **Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_modellizzazione|Modellizzazione]], [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
-
-[[Quesiti/src_obm_1999_n1_f2#q04|src_obm_1999_n1_f2__Q04]]
 
 
 
@@ -210,8 +205,6 @@ level: OBM Nível 1
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 
-[[Quesiti/src_obm_1999_n1_f2#q05|src_obm_1999_n1_f2__Q05]]
-
 
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_combinatoria,topic_geometria_piana,method_colorazione,method_casework,skill_ragionamento_geometrico,skill_modellizzazione,skill_riconoscimento_pattern"></span>
@@ -229,7 +222,7 @@ level: OBM Nível 1
 > 
 > \textit{Note:} Tiling means completely covering, without overlapping pieces, so that no piece extends outside the table.
 
-![[src_obm_1999_n1_f2__q06.png]]
+![[src_obm_1999_n1_f2__Q06.png]]
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_colorazione|Colorazione]], [[method_casework|Casework]]
@@ -252,11 +245,9 @@ level: OBM Nível 1
 >
 > \textit{Nota:} Il piastrellamento significa ricoprire completamente, senza sovrapporre i pezzi, in modo che nessun pezzo sporgano all'esterno del tavolo.
 
-![[src_obm_1999_n1_f2__q06.png]]
+![[src_obm_1999_n1_f2__Q06.png]]
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_colorazione|Colorazione]], [[method_casework|Casework]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
-
-[[Quesiti/src_obm_1999_n1_f2#q06|src_obm_1999_n1_f2__Q06]]

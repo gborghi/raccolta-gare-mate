@@ -40,8 +40,6 @@ level: IMO
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Geometria]]
 
-[[Quesiti/src_imho_1970#q01|src_imho_1970__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_algebra,topic_aritmetica,method_disuguaglianze,method_induzione,skill_manipolazione_algebrica,skill_lettura_attenta,skill_ragionamento_geometrico"></span>
@@ -82,11 +80,9 @@ level: IMO
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 
-[[Quesiti/src_imho_1970#q02|src_imho_1970__Q02]]
 
 
-
-<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_algebra,topic_disuguaglianze,method_disuguaglianze,method_induzione,method_telescoping,skill_manipolazione_algebrica,skill_stima,skill_lettura_attenta"></span>
+<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_algebra,topic_disuguaglianze,topic_funzionali,method_disuguaglianze,method_induzione,method_telescoping,skill_manipolazione_algebrica,skill_stima,skill_lettura_attenta"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -101,10 +97,10 @@ level: IMO
 > 
 > (b) Given $c$ with $0 \le c < 2$, prove that there exist numbers $a_0, a_1, a_2, \ldots$ with the above properties such that $b_n > c$ for large enough $n$.
 
-**Topic:** [[topic_algebra|Algebra]], [[topic_disuguaglianze|Disuguaglianze]]
+**Topic:** [[topic_algebra|Algebra]], [[topic_disuguaglianze|Disuguaglianze]], [[topic_funzionali|Functional equations / sequences]]
 **Metodo:** [[method_disuguaglianze|Disuguaglianze]], [[method_induzione|Induzione]], [[method_telescoping|Telescoping]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]], [[skill_lettura_attenta|Lettura attenta]]
-**Area:** [[Algebra e Analisi]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1ijOLw1V3VzZ2cBTmZs06y5G6uJUFx4P7/view)
 
 
@@ -121,16 +117,15 @@ level: IMO
 >
 > (b) Dato $c$ con $0 \le c < 2$, dimostrare che esistono numeri $a_0, a_1, a_2, \ldots$ con le proprietà sopra indicate tali che $b_n > c$ per $n$ sufficientemente grandi.
 
-**Topic:** [[topic_algebra|Algebra]], [[topic_disuguaglianze|Disuguaglianze]]
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_disuguaglianze|Disuguaglianze]], [[topic_funzionali|Equazioni funzionali / successioni]]
 **Metodo:** [[method_disuguaglianze|Disuguaglianze]], [[method_induzione|Induzione]], [[method_telescoping|Telescoping]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Algebra e Analisi]]
 
-[[Quesiti/src_imho_1970#q03|src_imho_1970__Q03]]
 
 
-
-<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_aritmetica,topic_combinatoria,method_casework,method_fattorizzazione,skill_lettura_attenta,skill_manipolazione_algebrica,skill_riconoscimento_pattern,skill_conteggio_sistematico"></span>
+<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_aritmetica,topic_combinatoria,method_casework,method_fattorizzazione,method_congruenze,skill_lettura_attenta,skill_manipolazione_algebrica,skill_riconoscimento_pattern,skill_conteggio_sistematico,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -140,9 +135,9 @@ level: IMO
 > Find the set of all positive integers $n$ with the property that the set $\{n, n+1, n+2, n+3, n+4, n+5\}$ can be partitioned into two sets such that the product of the numbers in one set equals the product of the numbers in the other set.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
-**Metodo:** [[method_casework|Casework]], [[method_fattorizzazione|Fattorizzazione]]
-**Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_conteggio_sistematico|Conteggio sistematico]]
-**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+**Metodo:** [[method_casework|Casework]], [[method_fattorizzazione|Fattorizzazione]], [[method_congruenze|Modular arithmetic / congruences]]
+**Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1ijOLw1V3VzZ2cBTmZs06y5G6uJUFx4P7/view)
 
 
@@ -153,16 +148,15 @@ level: IMO
 
 > Trovare l'insieme di tutti gli interi positivi $n$ che godono della proprietà per cui l'insieme $\{n, n+1, n+2, n+3, n+4, n+5\}$ può essere suddiviso in due insiemi tali che il prodotto dei numeri in un insieme sia uguale al prodotto dei numeri nell'altro insieme.
 
+
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
-**Metodo:** [[method_casework|Casework]], [[method_fattorizzazione|Fattorizzazione]]
-**Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Metodo:** [[method_casework|Casework]], [[method_fattorizzazione|Fattorizzazione]], [[method_congruenze|Aritmetica modulare / congruenze]]
+**Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 
-[[Quesiti/src_imho_1970#q04|src_imho_1970__Q04]]
 
 
-
-<span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_geometria_solida,topic_disuguaglianze,method_disuguaglianze,method_coordinate,skill_ragionamento_geometrico,skill_manipolazione_algebrica,skill_stima"></span>
+<span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_geometria_solida,topic_disuguaglianze,topic_geometria_piana,method_disuguaglianze,method_coordinate,skill_ragionamento_geometrico,skill_manipolazione_algebrica,skill_stima"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -173,10 +167,10 @@ level: IMO
 > $$(AB + BC + CA)^2 \le 6(AD^2 + BD^2 + CD^2).$$
 > For what tetrahedra does equality hold?
 
-**Topic:** [[topic_geometria_solida|Geometria solida]], [[topic_disuguaglianze|Disuguaglianze]]
+**Topic:** [[topic_geometria_solida|Geometria solida]], [[topic_disuguaglianze|Disuguaglianze]], [[topic_geometria_piana|Plane geometry]]
 **Metodo:** [[method_disuguaglianze|Disuguaglianze]], [[method_coordinate|Coordinate]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]]
-**Area:** [[Geometria]], [[Algebra e Analisi]]
+**Area:** [[Geometria|Geometry]], [[Algebra e Analisi|Algebra and analysis]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1ijOLw1V3VzZ2cBTmZs06y5G6uJUFx4P7/view)
 
 
@@ -189,12 +183,11 @@ level: IMO
 > $$(AB + BC + CA)^2 \le 6(AD^2 + BD^2 + CD^2).$$
 > Per quali tetraedri vale l'uguaglianza?
 
-**Topic:** [[topic_geometria_solida|Geometria solida]], [[topic_disuguaglianze|Disuguaglianze]]
+
+**Topic:** [[topic_geometria_solida|Geometria solida]], [[topic_disuguaglianze|Disuguaglianze]], [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_disuguaglianze|Disuguaglianze]], [[method_coordinate|Coordinate]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]]
 **Area:** [[Geometria]], [[Algebra e Analisi]]
-
-[[Quesiti/src_imho_1970#q05|src_imho_1970__Q05]]
 
 
 
@@ -225,5 +218,3 @@ level: IMO
 **Metodo:** [[method_doppio_conteggio|Doppio conteggio]], [[method_casework|Casework]], [[method_estremalita|Estremalità]]
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]], [[skill_stima|Stima]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
-
-[[Quesiti/src_imho_1970#q06|src_imho_1970__Q06]]

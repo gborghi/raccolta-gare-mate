@@ -20,7 +20,7 @@ level: Semifinale di Primavera
 > Sulle facce di un dado compaiono i punti corrispondenti ai numeri naturali da 1 a 6. Le facce visibili in figura mostrano, complessivamente, 13 punti.
 > **Quanti punti non sono visibili ?**
 
-![[src_bocconi_primavera_2008__q01.png]]
+![[src_bocconi_primavera_2008__Q01.png]]
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_casework|Casework]]
@@ -38,18 +38,16 @@ level: Semifinale di Primavera
 > On the faces of a die, dots appear corresponding to the natural numbers from 1 to 6. The faces visible in the figure show a total of 13 dots.
 > How many points are not visible?
 
-![[src_bocconi_primavera_2008__q01.png]]
+![[src_bocconi_primavera_2008__Q01.png]]
 
 **Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
 **Metodo:** [[method_casework|Case analysis]]
 **Abilita:** [[skill_lettura_attenta|Careful reading of the text]], [[skill_conteggio_sistematico|Systematic counting]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
-[[Quesiti/src_bocconi_primavera_2008#q01|src_bocconi_primavera_2008__Q01]]
 
 
-
-<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_aritmetica,method_casework,skill_lettura_attenta,skill_ragionamento_geometrico"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_aritmetica,method_casework,skill_lettura_attenta,skill_ragionamento_geometrico,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -61,7 +59,7 @@ level: Semifinale di Primavera
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_casework|Casework]]
-**Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 19.11.1999
 **Fonte:** [apri PDF](https://drive.google.com/file/d/18Td5A68Vmla4pIjqVcqvXO2be0YugwgL/view)
@@ -74,16 +72,15 @@ level: Semifinale di Primavera
 
 > The dress rehearsal for the "International Mathematical Games Championships" took place on March 8, exactly one week before the competition. Only one of the digits that make up the date 8.3.2008 is odd. **What is the previous date made up entirely of odd digits?**
 
+
 **Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
 **Metodo:** [[method_casework|Case analysis]]
-**Abilita:** [[skill_lettura_attenta|Careful reading of the text]], [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Abilita:** [[skill_lettura_attenta|Careful reading of the text]], [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_casework_accurato|Careful case analysis]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
-[[Quesiti/src_bocconi_primavera_2008#q02|src_bocconi_primavera_2008__Q02]]
 
 
-
-<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_aritmetica,topic_logica,skill_lettura_attenta,skill_astrazione"></span>
+<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_aritmetica,topic_logica,method_simmetria,skill_lettura_attenta,skill_astrazione,skill_ragionamento_geometrico"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -92,10 +89,11 @@ level: Semifinale di Primavera
 
 > **Se ponete il numero della figura davanti ad uno specchio, quale numero vedete ?**
 
-![[src_bocconi_primavera_2008__q03.png]]
+![[src_bocconi_primavera_2008__Q03.png]]
 
-**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_logica|Logica]]
-**Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_astrazione|Astrazione]]
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_logica|Logica, giochi, strategie]]
+**Metodo:** [[method_simmetria|Sfruttamento della simmetria]]
+**Abilita:** [[skill_lettura_attenta|Lettura attenta del testo]], [[skill_astrazione|Astrazione / generalizzazione]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 2905
 **Fonte:** [apri PDF](https://drive.google.com/file/d/18Td5A68Vmla4pIjqVcqvXO2be0YugwgL/view)
@@ -108,17 +106,17 @@ level: Semifinale di Primavera
 
 > **If you place the number on the figure in front of a mirror, which number do you see?**
 
-![[src_bocconi_primavera_2008__q03.png]]
+![[src_bocconi_primavera_2008__Q03.png]]
 
-**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_logica|Logic, games, strategies]]
-**Abilita:** [[skill_lettura_attenta|Careful reading of the text]], [[skill_astrazione|Abstraction / generalisation]]
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_logica|Logic, games and strategies]]
+**Metodo:** [[method_simmetria|Using symmetry]]
+**Abilita:** [[skill_lettura_attenta|Careful reading of the text]], [[skill_astrazione|Abstraction / generalisation]], [[skill_ragionamento_geometrico|Geometric reasoning]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
-[[Quesiti/src_bocconi_primavera_2008#q03|src_bocconi_primavera_2008__Q03]]
 
 
-
-<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_aritmetica,skill_modellizzazione,skill_manipolazione_algebrica"></span>
+<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_aritmetica,method_fattorizzazione,skill_modellizzazione,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -129,7 +127,8 @@ level: Semifinale di Primavera
 > **A che ora (dopo mezzogiorno), per la prima volta, i quattro treni partiranno di nuovo contemporaneamente ?**
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 14:00
 **Fonte:** [apri PDF](https://drive.google.com/file/d/18Td5A68Vmla4pIjqVcqvXO2be0YugwgL/view)
@@ -142,11 +141,11 @@ level: Semifinale di Primavera
 
 > At noon, four trains depart simultaneously from Math City station, bound respectively for Milan, Rome, Bari, and Venice. The trains to Milan then depart every 40 minutes; those to Rome, every 20 minutes; those to Bari, every 15 minutes; and finally, those to Venice, every 30 minutes. **At what time (after noon) will the four trains depart simultaneously again for the first time?**
 
+
 **Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
 **Abilita:** [[skill_modellizzazione|Modelling / translating the text]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
-
-[[Quesiti/src_bocconi_primavera_2008#q04|src_bocconi_primavera_2008__Q04]]
 
 
 
@@ -159,7 +158,7 @@ level: Semifinale di Primavera
 
 > **Quanti triangoli vedi in figura ?**
 
-![[src_bocconi_primavera_2008__q05.png]]
+![[src_bocconi_primavera_2008__Q05.png]]
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_conteggio|Conteggio]], [[method_casework|Casework]]
@@ -176,14 +175,12 @@ level: Semifinale di Primavera
 
 > How many triangles do you see in the figure?
 
-![[src_bocconi_primavera_2008__q05.png]]
+![[src_bocconi_primavera_2008__Q05.png]]
 
 **Topic:** [[topic_combinatoria|Combinatorics]], [[topic_geometria_piana|Plane geometry]]
 **Metodo:** [[method_conteggio|Combinatorial counting]], [[method_casework|Case analysis]]
 **Abilita:** [[skill_conteggio_sistematico|Systematic counting]], [[skill_ragionamento_geometrico|Geometric reasoning]]
 **Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Geometria|Geometry]]
-
-[[Quesiti/src_bocconi_primavera_2008#q05|src_bocconi_primavera_2008__Q05]]
 
 
 
@@ -217,8 +214,6 @@ level: Semifinale di Primavera
 **Abilita:** [[skill_conteggio_sistematico|Systematic counting]], [[skill_modellizzazione|Modelling / translating the text]]
 **Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
-[[Quesiti/src_bocconi_primavera_2008#q06|src_bocconi_primavera_2008__Q06]]
-
 
 
 <span class="atom-split" id="q07" data-atom="q07" data-title="Quesito 7" data-tags="topic_combinatoria,topic_geometria_piana,method_conteggio,skill_conteggio_sistematico,skill_ragionamento_geometrico"></span>
@@ -250,11 +245,9 @@ level: Semifinale di Primavera
 **Abilita:** [[skill_conteggio_sistematico|Systematic counting]], [[skill_ragionamento_geometrico|Geometric reasoning]]
 **Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Geometria|Geometry]]
 
-[[Quesiti/src_bocconi_primavera_2008#q07|src_bocconi_primavera_2008__Q07]]
 
 
-
-<span class="atom-split" id="q08" data-atom="q08" data-title="Quesito 8" data-tags="topic_aritmetica,topic_logica,method_casework,skill_lettura_attenta,skill_conteggio_sistematico,skill_ragionamento_geometrico"></span>
+<span class="atom-split" id="q08" data-atom="q08" data-title="Quesito 8" data-tags="topic_aritmetica,topic_logica,method_casework,method_estremalita,skill_lettura_attenta,skill_conteggio_sistematico,skill_ragionamento_geometrico"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -264,10 +257,10 @@ level: Semifinale di Primavera
 > Sulla calcolatrice, ogni cifra (vedi la figura) si accende grazie all'illuminazione di alcuni trattini.
 > **Qual è il più grande numero intero composto complessivamente da 7 trattini ?**
 
-![[src_bocconi_primavera_2008__q08.png]]
+![[src_bocconi_primavera_2008__Q08.png]]
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_logica|Logica]]
-**Metodo:** [[method_casework|Casework]]
+**Metodo:** [[method_casework|Casework]], [[method_estremalita|Principio di estremalita]]
 **Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 711
@@ -281,14 +274,13 @@ level: Semifinale di Primavera
 
 > On the calculator, each digit (see the figure) lights up thanks to the illumination of certain segments. **What is the largest integer composed in total of 7 segments?**
 
-![[src_bocconi_primavera_2008__q08.png]]
+![[src_bocconi_primavera_2008__Q08.png]]
+
 
 **Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_logica|Logic, games, strategies]]
-**Metodo:** [[method_casework|Case analysis]]
+**Metodo:** [[method_casework|Case analysis]], [[method_estremalita|Extremal principle]]
 **Abilita:** [[skill_lettura_attenta|Careful reading of the text]], [[skill_conteggio_sistematico|Systematic counting]], [[skill_ragionamento_geometrico|Geometric reasoning]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
-
-[[Quesiti/src_bocconi_primavera_2008#q08|src_bocconi_primavera_2008__Q08]]
 
 
 
@@ -302,7 +294,7 @@ level: Semifinale di Primavera
 > Il perimetro del rettangolo grande misura 34 cm. Lo stesso rettangolo è stato poi diviso in 9 rettangoli più piccoli, come in figura. Sempre in figura, trovate indicato il perimetro di alcuni di questi rettangoli.
 > **Quanto misura (in cm) il perimetro del rettangolo centrale ?**
 
-![[src_bocconi_primavera_2008__q09.png]]
+![[src_bocconi_primavera_2008__Q09.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
@@ -318,17 +310,15 @@ level: Semifinale di Primavera
 
 > The perimeter of the large rectangle is 34 cm. This same rectangle was then divided into 9 smaller rectangles, as shown in the figure. Also in the figure, the perimeters of some of these rectangles are indicated. **What is the perimeter (in cm) of the central rectangle?**
 
-![[src_bocconi_primavera_2008__q09.png]]
+![[src_bocconi_primavera_2008__Q09.png]]
 
 **Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_aritmetica|Arithmetic / Number theory]]
 **Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_lettura_attenta|Careful reading of the text]]
 **Area:** [[Geometria|Geometry]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
-[[Quesiti/src_bocconi_primavera_2008#q09|src_bocconi_primavera_2008__Q09]]
 
 
-
-<span class="atom-split" id="q10" data-atom="q10" data-title="Quesito 10" data-tags="topic_aritmetica,topic_logica,method_casework,skill_lettura_attenta,skill_manipolazione_algebrica,skill_modellizzazione"></span>
+<span class="atom-split" id="q10" data-atom="q10" data-title="Quesito 10" data-tags="topic_aritmetica,topic_logica,method_casework,method_backward,skill_lettura_attenta,skill_manipolazione_algebrica,skill_modellizzazione"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -337,10 +327,10 @@ level: Semifinale di Primavera
 
 > Inserite i numeri 2, 2003, 2004, 2005, 2006, 2007 nelle caselle (vuote) della figura in modo che ogni numero scritto nelle caselle rettangolari sia la somma dei due numeri con cui è collegato direttamente.
 
-![[src_bocconi_primavera_2008__q10.png]]
+![[src_bocconi_primavera_2008__Q10.png]]
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_logica|Logica]]
-**Metodo:** [[method_casework|Casework]]
+**Metodo:** [[method_casework|Casework]], [[method_backward|Ragionamento all'indietro]]
 **Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/18Td5A68Vmla4pIjqVcqvXO2be0YugwgL/view)
@@ -353,14 +343,13 @@ level: Semifinale di Primavera
 
 > Insert the numbers 2, 2003, 2004, 2005, 2006, and 2007 into the (empty) boxes in the figure so that each number written in a rectangular box is the sum of the two numbers directly connected to it.
 
-![[src_bocconi_primavera_2008__q10.png]]
+![[src_bocconi_primavera_2008__Q10.png]]
+
 
 **Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_logica|Logic, games, strategies]]
-**Metodo:** [[method_casework|Case analysis]]
+**Metodo:** [[method_casework|Case analysis]], [[method_backward|Working backwards]]
 **Abilita:** [[skill_lettura_attenta|Careful reading of the text]], [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_modellizzazione|Modelling / translating the text]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
-
-[[Quesiti/src_bocconi_primavera_2008#q10|src_bocconi_primavera_2008__Q10]]
 
 
 
@@ -394,11 +383,9 @@ level: Semifinale di Primavera
 **Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_modellizzazione|Modelling / translating the text]], [[skill_lettura_attenta|Careful reading of the text]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
-[[Quesiti/src_bocconi_primavera_2008#q11|src_bocconi_primavera_2008__Q11]]
 
 
-
-<span class="atom-split" id="q12" data-atom="q12" data-title="Quesito 12" data-tags="topic_aritmetica,topic_algebra,skill_manipolazione_algebrica,skill_modellizzazione"></span>
+<span class="atom-split" id="q12" data-atom="q12" data-title="Quesito 12" data-tags="topic_aritmetica,topic_algebra,method_fattorizzazione,skill_manipolazione_algebrica,skill_modellizzazione"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -409,6 +396,7 @@ level: Semifinale di Primavera
 > **Quali sono le mucche che (individualmente) danno più latte, quelle nere o quelle bianche ?**
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 **Risposta:** Le nere danno più latte: 3 mucche bianche equivalgono a 10 nere
@@ -422,11 +410,11 @@ level: Semifinale di Primavera
 
 > Three black cows and four white cows produce, in 6 days, as much milk as three white cows and four black cows produce in 7 days. **Which cows produce more milk individually—the black ones or the white ones?**
 
+
 **Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
 **Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_modellizzazione|Modelling / translating the text]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Algebra e Analisi|Algebra and analysis]]
-
-[[Quesiti/src_bocconi_primavera_2008#q12|src_bocconi_primavera_2008__Q12]]
 
 
 
@@ -459,11 +447,9 @@ level: Semifinale di Primavera
 **Abilita:** [[skill_casework_accurato|Careful case analysis]], [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_stima|Estimation and approximation]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
-[[Quesiti/src_bocconi_primavera_2008#q13|src_bocconi_primavera_2008__Q13]]
 
 
-
-<span class="atom-split" id="q14" data-atom="q14" data-title="Quesito 14" data-tags="topic_aritmetica,topic_algebra,method_casework,method_congruenze,skill_manipolazione_algebrica,skill_conteggio_sistematico"></span>
+<span class="atom-split" id="q14" data-atom="q14" data-title="Quesito 14" data-tags="topic_aritmetica,topic_algebra,method_casework,method_congruenze,skill_manipolazione_algebrica,skill_conteggio_sistematico,skill_modellizzazione,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -475,7 +461,7 @@ level: Semifinale di Primavera
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
 **Metodo:** [[method_casework|Casework]], [[method_congruenze|Congruenze]]
-**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 **Risposta:** 1 francobollo da 1 Euro (e 19 da 5 Euro e 80 da 5 centesimi)
 **Fonte:** [apri PDF](https://drive.google.com/file/d/18Td5A68Vmla4pIjqVcqvXO2be0YugwgL/view)
@@ -488,16 +474,15 @@ level: Semifinale di Primavera
 
 > At the Math City post office, they sell only 5-euro, 1-euro, and 5-cent stamps. Jacob bought 100 stamps and spent 100 euros. **How many 1-euro stamps did he buy?**
 
+
 **Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_algebra|Algebra]]
 **Metodo:** [[method_casework|Case analysis]], [[method_congruenze|Modular arithmetic / congruences]]
-**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_conteggio_sistematico|Systematic counting]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_conteggio_sistematico|Systematic counting]], [[skill_modellizzazione|Modelling / translating the text]], [[skill_casework_accurato|Careful case analysis]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Algebra e Analisi|Algebra and analysis]]
 
-[[Quesiti/src_bocconi_primavera_2008#q14|src_bocconi_primavera_2008__Q14]]
 
 
-
-<span class="atom-split" id="q15" data-atom="q15" data-title="Quesito 15" data-tags="topic_aritmetica,topic_algebra,skill_manipolazione_algebrica,skill_modellizzazione"></span>
+<span class="atom-split" id="q15" data-atom="q15" data-title="Quesito 15" data-tags="topic_aritmetica,topic_algebra,method_fattorizzazione,skill_manipolazione_algebrica,skill_modellizzazione"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -508,6 +493,7 @@ level: Semifinale di Primavera
 > **Quanti voti ha ottenuto ?**
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 **Risposta:** 167
@@ -521,15 +507,15 @@ level: Semifinale di Primavera
 
 > In Math City, 527 mathematicians voted in the most recent election. The new mayor's list received 18, 25, and 98 more votes than each of the other three competing lists. **How many votes did it receive?**
 
+
 **Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
 **Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_modellizzazione|Modelling / translating the text]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Algebra e Analisi|Algebra and analysis]]
 
-[[Quesiti/src_bocconi_primavera_2008#q15|src_bocconi_primavera_2008__Q15]]
 
 
-
-<span class="atom-split" id="q16" data-atom="q16" data-title="Quesito 16" data-tags="topic_aritmetica,topic_algebra,method_conteggio,method_simmetria,skill_conteggio_sistematico,skill_manipolazione_algebrica,skill_riconoscimento_pattern"></span>
+<span class="atom-split" id="q16" data-atom="q16" data-title="Quesito 16" data-tags="topic_aritmetica,topic_algebra,topic_combinatoria,method_conteggio,method_simmetria,skill_conteggio_sistematico,skill_manipolazione_algebrica,skill_riconoscimento_pattern"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -539,10 +525,10 @@ level: Semifinale di Primavera
 > Carla somma tutti i numeri interi, da 1 a 2008, che utilizzano solo le cifre 0, 2, 8 (eventualmente ripetute).
 > **Qual è il risultato dell'addizione ?**
 
-**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_conteggio|Conteggio]], [[method_simmetria|Simmetria]]
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
-**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 16.000
 **Fonte:** [apri PDF](https://drive.google.com/file/d/18Td5A68Vmla4pIjqVcqvXO2be0YugwgL/view)
 
@@ -554,12 +540,11 @@ level: Semifinale di Primavera
 
 > Carla summed all the integers from 1 to 2008 that use only the digits 0, 2, and 8 (possibly repeated). **What is the result of the addition?**
 
-**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_algebra|Algebra]]
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_algebra|Algebra]], [[topic_combinatoria|Combinatorics]]
 **Metodo:** [[method_conteggio|Combinatorial counting]], [[method_simmetria|Using symmetry]]
 **Abilita:** [[skill_conteggio_sistematico|Systematic counting]], [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_riconoscimento_pattern|Pattern recognition]]
-**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Algebra e Analisi|Algebra and analysis]]
-
-[[Quesiti/src_bocconi_primavera_2008#q16|src_bocconi_primavera_2008__Q16]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Algebra e Analisi|Algebra and analysis]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
 
 
@@ -593,11 +578,9 @@ level: Semifinale di Primavera
 **Abilita:** [[skill_astrazione|Abstraction / generalisation]], [[skill_modellizzazione|Modelling / translating the text]], [[skill_ragionamento_geometrico|Geometric reasoning]]
 **Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
-[[Quesiti/src_bocconi_primavera_2008#q17|src_bocconi_primavera_2008__Q17]]
 
 
-
-<span class="atom-split" id="q18" data-atom="q18" data-title="Quesito 18" data-tags="topic_algebra,topic_aritmetica,skill_manipolazione_algebrica,skill_modellizzazione"></span>
+<span class="atom-split" id="q18" data-atom="q18" data-title="Quesito 18" data-tags="topic_algebra,topic_aritmetica,method_fattorizzazione,skill_manipolazione_algebrica,skill_modellizzazione"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -608,6 +591,7 @@ level: Semifinale di Primavera
 > **Allora, quante ?**
 
 **Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]]
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 28
@@ -621,11 +605,11 @@ level: Semifinale di Primavera
 
 > I saw some fall. How many? I don't know, but if I subtract from the number of stars I saw half of the number of stars needed to reach 36, I get 24. **So, how many?**
 
+
 **Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
 **Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_modellizzazione|Modelling / translating the text]]
 **Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
-
-[[Quesiti/src_bocconi_primavera_2008#q18|src_bocconi_primavera_2008__Q18]]
 
 
 
@@ -675,8 +659,6 @@ level: Semifinale di Primavera
 **Abilita:** [[skill_casework_accurato|Careful case analysis]], [[skill_lettura_attenta|Careful reading of the text]], [[skill_ragionamento_geometrico|Geometric reasoning]]
 **Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
-[[Quesiti/src_bocconi_primavera_2008#q19|src_bocconi_primavera_2008__Q19]]
-
 
 
 <span class="atom-split" id="q20" data-atom="q20" data-title="Quesito 20" data-tags="topic_algebra,topic_aritmetica,method_casework,method_fattorizzazione,skill_manipolazione_algebrica,skill_modellizzazione,skill_lettura_attenta"></span>
@@ -708,5 +690,3 @@ level: Semifinale di Primavera
 **Metodo:** [[method_casework|Case analysis]], [[method_fattorizzazione|Factorisation / algebraic manipulation]]
 **Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_modellizzazione|Modelling / translating the text]], [[skill_lettura_attenta|Careful reading of the text]]
 **Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
-
-[[Quesiti/src_bocconi_primavera_2008#q20|src_bocconi_primavera_2008__Q20]]

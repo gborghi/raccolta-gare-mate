@@ -10,14 +10,14 @@ level: kangourou
 
 
 
-<span class="atom-split" id="qb1" data-atom="qb1" data-title="Quesito B1" data-tags="topic_geometria_piana,skill_ragionamento_geometrico"></span>
+<span class="atom-split" id="qb1" data-atom="qb1" data-title="Quesito B1" data-tags="topic_geometria_piana,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
 
 *Area triangolo equilatero inscritto vs meta cerchio*
 
-![[src_kangourou_2008_benjamin_maggio__probb1.png]]
+![[src_kangourou_2008_benjamin_maggio__probB1.png]]
 
 ```tikz
 \begin{document}
@@ -34,7 +34,7 @@ level: kangourou
 > In figura vedi un cerchio in cui è iscritto un triangolo equilatero. L'area del triangolo è maggiore, minore o uguale alla metà di quella del cerchio? Motiva le tue affermazioni. (vedi figura)
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
-**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 **Risposta:** minore
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1DNjnx9iD0UBjVEKt4lZ5Oz66n6a8DEr7/view)
@@ -45,7 +45,7 @@ level: kangourou
 
 *Area of an inscribed equilateral triangle vs. half a circle*
 
-![[src_kangourou_2008_benjamin_maggio__probb1.png]]
+![[src_kangourou_2008_benjamin_maggio__probB1.png]]
 
 ```tikz
 \begin{document}
@@ -61,29 +61,29 @@ level: kangourou
 
 > In the figure, you see a circle in which an equilateral triangle is inscribed. Is the area of the triangle greater than, less than, or equal to half the area of the circle? Justify your statements. (see figure)
 
+
 **Topic:** [[topic_geometria_piana|Plane geometry]]
-**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
 **Area:** [[Geometria|Geometry]]
 
-[[Quesiti/src_kangourou_2008_benjamin_maggio#qb1|src_kangourou_2008_benjamin_maggio__QB1]]
 
 
-
-<span class="atom-split" id="qb2" data-atom="qb2" data-title="Quesito B2" data-tags="topic_aritmetica,skill_casework_accurato"></span>
+<span class="atom-split" id="qb2" data-atom="qb2" data-title="Quesito B2" data-tags="topic_aritmetica,method_casework,skill_casework_accurato,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
 
 *Eliminare due caselle per rendere vera l'uguaglianza*
 
-![[src_kangourou_2008_benjamin_maggio__probb2.png]]
+![[src_kangourou_2008_benjamin_maggio__probB2.png]]
 
 > Nella griglia sottostante non si può eliminare il simbolo «$\times$», ma si possono eliminare due caselle, in modo che l'uguaglianza che ne risulta sia verificata. Scrivi tale uguaglianza.
 > 
 > $$1 \mid 2 \mid 9 \mid \times \mid 5 \mid - \mid 4 \mid \times \mid 3 \mid - \mid 6 \mid 8 \mid 0 \mid 8$$
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Abilita:** [[skill_casework_accurato|Casework accurato]]
+**Metodo:** [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta del testo]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 129x5+3=648
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1DNjnx9iD0UBjVEKt4lZ5Oz66n6a8DEr7/view)
@@ -94,21 +94,21 @@ level: kangourou
 
 *Remove two boxes to make the equality true*
 
-![[src_kangourou_2008_benjamin_maggio__probb2.png]]
+![[src_kangourou_2008_benjamin_maggio__probB2.png]]
 
 > In the grid below, the symbol "$\times$" cannot be removed, but two cells can be removed so that the resulting equality holds. Write such an equality.
 >
 > $$1 \mid 2 \mid 9 \mid \times \mid 5 \mid - \mid 4 \mid \times \mid 3 \mid - \mid 6 \mid 8 \mid 0 \mid 8$$
 
+
 **Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
-**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]], [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_lettura_attenta|Careful reading of the text]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
-[[Quesiti/src_kangourou_2008_benjamin_maggio#qb2|src_kangourou_2008_benjamin_maggio__QB2]]
 
 
-
-<span class="atom-split" id="qb3" data-atom="qb3" data-title="Quesito B3" data-tags="topic_aritmetica,method_cassetti,method_congruenze,skill_astrazione"></span>
+<span class="atom-split" id="qb3" data-atom="qb3" data-title="Quesito B3" data-tags="topic_aritmetica,method_cassetti,method_congruenze,skill_astrazione,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -119,7 +119,7 @@ level: kangourou
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_cassetti|Principio dei cassetti]], [[method_congruenze|Aritmetica modulare / congruenze]]
-**Abilita:** [[skill_astrazione|Astrazione / generalizzazione]]
+**Abilita:** [[skill_astrazione|Astrazione / generalizzazione]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** si
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1DNjnx9iD0UBjVEKt4lZ5Oz66n6a8DEr7/view)
@@ -132,16 +132,15 @@ level: kangourou
 
 > Suppose you have randomly drawn ten integers greater than $0$. Can you always choose two such that their sum or their difference is a number divisible by $10$? If so, how? If not, why?
 
+
 **Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
 **Metodo:** [[method_cassetti|Pigeonhole principle]], [[method_congruenze|Modular arithmetic / congruences]]
-**Abilita:** [[skill_astrazione|Abstraction / generalisation]]
+**Abilita:** [[skill_astrazione|Abstraction / generalisation]], [[skill_casework_accurato|Careful case analysis]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
-[[Quesiti/src_kangourou_2008_benjamin_maggio#qb3|src_kangourou_2008_benjamin_maggio__QB3]]
 
 
-
-<span class="atom-split" id="qb4" data-atom="qb4" data-title="Quesito B4" data-tags="topic_aritmetica,method_congruenze,skill_casework_accurato"></span>
+<span class="atom-split" id="qb4" data-atom="qb4" data-title="Quesito B4" data-tags="topic_aritmetica,method_congruenze,method_casework,skill_casework_accurato,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -151,8 +150,8 @@ level: kangourou
 > Un numero di Isabella è un numero (intero maggiore di zero) palindromo che è divisibile per $27$. Qual è il più piccolo numero di Isabella? (Ricordiamo che un numero palindromo è un numero che può essere letto indifferentemente da destra a sinistra o da sinistra a destra, come per esempio i numeri $6226$ o $97579$.)
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]]
-**Abilita:** [[skill_casework_accurato|Casework accurato]]
+**Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]], [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 999
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1DNjnx9iD0UBjVEKt4lZ5Oz66n6a8DEr7/view)
@@ -165,16 +164,15 @@ level: kangourou
 
 > An Isabella number is a palindromic (positive integer) number that is divisible by $27$. What is the smallest Isabella number? (Recall that a palindromic number is a number that can be read equally well from right to left or from left to right—for example, the numbers $6226$ or $97579$.)
 
+
 **Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
-**Metodo:** [[method_congruenze|Modular arithmetic / congruences]]
-**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]], [[method_casework|Case analysis]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
-[[Quesiti/src_kangourou_2008_benjamin_maggio#qb4|src_kangourou_2008_benjamin_maggio__QB4]]
 
 
-
-<span class="atom-split" id="qb5" data-atom="qb5" data-title="Quesito B5" data-tags="topic_combinatoria,method_cassetti,skill_conteggio_sistematico"></span>
+<span class="atom-split" id="qb5" data-atom="qb5" data-title="Quesito B5" data-tags="topic_combinatoria,method_cassetti,method_conteggio,skill_conteggio_sistematico"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -188,7 +186,7 @@ level: kangourou
 > Qual è il massimo numero di gusti che possono essere presenti nei pacchetti?
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
-**Metodo:** [[method_cassetti|Principio dei cassetti]]
+**Metodo:** [[method_cassetti|Principio dei cassetti]], [[method_conteggio|Conteggio combinatorio]]
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 8 gusti
@@ -206,16 +204,15 @@ level: kangourou
 >
 > What is the maximum number of flavors that can be present in the packs?
 
+
 **Topic:** [[topic_combinatoria|Combinatorics]]
-**Metodo:** [[method_cassetti|Pigeonhole principle]]
+**Metodo:** [[method_cassetti|Pigeonhole principle]], [[method_conteggio|Combinatorial counting]]
 **Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
 **Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
-[[Quesiti/src_kangourou_2008_benjamin_maggio#qb5|src_kangourou_2008_benjamin_maggio__QB5]]
 
 
-
-<span class="atom-split" id="qb6" data-atom="qb6" data-title="Quesito B6" data-tags="topic_aritmetica,method_congruenze,skill_casework_accurato"></span>
+<span class="atom-split" id="qb6" data-atom="qb6" data-title="Quesito B6" data-tags="topic_aritmetica,method_congruenze,method_fattorizzazione,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -225,7 +222,7 @@ level: kangourou
 > Diciamo che un numero intero maggiore di zero è LIETO se il suo quadrato (cioè il prodotto del numero per se stesso) è divisibile per ciascuno dei seguenti numeri: $7$, $8$, $9$, $10$. Trova tutti i numeri LIETI minori di $1000$.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]]
+**Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]], [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
 **Abilita:** [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 420 e 840
@@ -239,9 +236,8 @@ level: kangourou
 
 > Let's say that a positive integer is HAPPY if its square (that is, the product of the number with itself) is divisible by each of the following numbers: $7$, $8$, $9$, $10$. Find all HAPPY numbers less than $1000$.
 
+
 **Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
-**Metodo:** [[method_congruenze|Modular arithmetic / congruences]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]], [[method_fattorizzazione|Factorisation / algebraic manipulation]]
 **Abilita:** [[skill_casework_accurato|Careful case analysis]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
-
-[[Quesiti/src_kangourou_2008_benjamin_maggio#qb6|src_kangourou_2008_benjamin_maggio__QB6]]

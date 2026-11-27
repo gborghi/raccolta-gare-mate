@@ -42,11 +42,9 @@ level: OBM Nível 3
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 
-[[Quesiti/src_obm_2011_n3_f3#q01|src_obm_2011_n3_f3__Q01]]
 
 
-
-<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_combinatoria,method_casework,method_cassetti,skill_conteggio_sistematico,skill_lettura_attenta,skill_casework_accurato"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_combinatoria,method_casework,method_cassetti,method_estremalita,skill_conteggio_sistematico,skill_lettura_attenta,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -56,9 +54,9 @@ level: OBM Nível 3
 > An album composed of 2011 stickers is being collected by 33 friends. A distribution among the 33 friends is called *incomplete* when there exists at least one of the 33 friends who has fewer than $m$ stickers. Determine the minimum value of $m$ with the following property: every distribution of stickers among the 33 friends is such that, for any two friends, both are missing, for each of them, at least $m$ stickers in common.
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
-**Metodo:** [[method_casework|Casework]], [[method_cassetti|Principio dei cassetti]]
+**Metodo:** [[method_casework|Casework]], [[method_cassetti|Principio dei cassetti]], [[method_estremalita|Extremal principle]]
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_casework_accurato|Casework accurato]]
-**Area:** [[Combinatoria, Logica e Probabilita]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1lg8sglroGshD0xnLsEEaoJUunh8VJxYI/view)
 
 
@@ -69,12 +67,11 @@ level: OBM Nível 3
 
 > Un album composto da adesivi del 2011 è in fase di collezionamento da parte di 33 amici. Una distribuzione tra i 33 amici è detta *incompleta* quando esiste almeno un amico tra i 33 che possiede meno di $m$ adesivi. Determinare il valore minimo di $m$ con la seguente proprietà: ogni distribuzione di adesivi tra i 33 amici è tale che, per qualsiasi coppia di amici, entrambi mancano, per ciascuno di loro, di almeno $m$ adesivi in comune.
 
+
 **Topic:** [[topic_combinatoria|Combinatoria]]
-**Metodo:** [[method_casework|Casework]], [[method_cassetti|Principio dei cassetti]]
+**Metodo:** [[method_casework|Casework]], [[method_cassetti|Principio dei cassetti]], [[method_estremalita|Principio di estremalita]]
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
-
-[[Quesiti/src_obm_2011_n3_f3#q02|src_obm_2011_n3_f3__Q02]]
 
 
 
@@ -108,8 +105,6 @@ level: OBM Nível 3
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_stima|Stima]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]], [[Algebra e Analisi]]
 
-[[Quesiti/src_obm_2011_n3_f3#q03|src_obm_2011_n3_f3__Q03]]
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_aritmetica,method_congruenze,method_fattorizzazione,skill_manipolazione_algebrica,skill_riconoscimento_pattern,skill_lettura_attenta"></span>
@@ -142,8 +137,6 @@ level: OBM Nível 3
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 
-[[Quesiti/src_obm_2011_n3_f3#q04|src_obm_2011_n3_f3__Q04]]
-
 
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_geometria_piana,method_trigonometria,method_coordinate,skill_ragionamento_geometrico,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
@@ -174,11 +167,9 @@ level: OBM Nível 3
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Geometria]]
 
-[[Quesiti/src_obm_2011_n3_f3#q05|src_obm_2011_n3_f3__Q05]]
 
 
-
-<span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_disuguaglianze,method_disuguaglianze,method_estremalita,method_simmetria,skill_manipolazione_algebrica,skill_stima,skill_ragionamento_geometrico"></span>
+<span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_disuguaglianze,method_disuguaglianze,method_estremalita,method_simmetria,method_casework,skill_manipolazione_algebrica,skill_stima,skill_ragionamento_geometrico"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -189,9 +180,9 @@ level: OBM Nível 3
 > $$\left|\prod_{\text{cyc}}(x_i - x_{i+1})\right| = \left|(x_1-x_2)(x_2-x_3)(x_3-x_4)(x_4-x_5)\cdots(x_{2009}-x_{2010})(x_{2010}-x_{2011})(x_{2011}-x_1)\right| \le \frac{3\sqrt{3}}{16}.$$
 
 **Topic:** [[topic_disuguaglianze|Disuguaglianze]]
-**Metodo:** [[method_disuguaglianze|Disuguaglianze]], [[method_estremalita|Estremalità]], [[method_simmetria|Simmetria]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze]], [[method_estremalita|Estremalità]], [[method_simmetria|Simmetria]], [[method_casework|Case analysis]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
-**Area:** [[Algebra e Analisi]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1lg8sglroGshD0xnLsEEaoJUunh8VJxYI/view)
 
 
@@ -203,9 +194,8 @@ level: OBM Nível 3
 > Siano $x_1, x_2, x_3, \ldots, x_{2011}$ numeri reali non negativi la cui somma è $\dfrac{2011}{2}$. Dimostrare che
 > $$\left|\prod_{\text{cyc}}(x_i - x_{i+1})\right| = \left|(x_1-x_2)(x_2-x_3)(x_3-x_4)(x_4-x_5)\cdots(x_{2009}-x_{2010})(x_{2010}-x_{2011})(x_{2011}-x_1)\right| \le \frac{3\sqrt{3}}{16}.$$
 
+
 **Topic:** [[topic_disuguaglianze|Disuguaglianze]]
-**Metodo:** [[method_disuguaglianze|Disuguaglianze]], [[method_estremalita|Estremalità]], [[method_simmetria|Simmetria]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze]], [[method_estremalita|Estremalità]], [[method_simmetria|Simmetria]], [[method_casework|Analisi per casi]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Algebra e Analisi]]
-
-[[Quesiti/src_obm_2011_n3_f3#q06|src_obm_2011_n3_f3__Q06]]

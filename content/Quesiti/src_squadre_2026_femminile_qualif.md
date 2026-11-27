@@ -10,7 +10,7 @@ level: squadre
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_combinatoria"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_combinatoria,topic_logica,method_casework,skill_casework_accurato,skill_lettura_attenta"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -37,10 +37,12 @@ level: squadre
 > e 3 per rosso, ed indicando nell’ordine il colore dei
 > capelli di Bianchi, Neri, Rossi e della matematica.]
 
-**Topic:** [[topic_combinatoria|Combinatoria]]
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_logica|Logica, giochi, strategie]]
+**Metodo:** [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_lettura_attenta|Lettura attenta del testo]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 3121
-**Fonte:** apri PDF p.2 · phiquadro.it, Archivio gare ufficiali 2026 (Gara Femminile - Qualificazione)
+**Fonte:** [apri PDF p.2](https://www.phiquadro.it/archivio/2026_30%20gennaio%20-%20Ga.pdf#page=2) · phiquadro.it, Archivio gare ufficiali 2026 (Gara Femminile - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -52,14 +54,15 @@ level: squadre
 
 > Colors: Andrea Macco and Giuseppe Rosolini. Three people whose surnames are Bianchi, Neri, and Rossi meet. Only one of them is a mathematician. Each makes an observation. "Have you ever noticed that our surnames correspond to colors and that among us there really is one person with white hair, one with red hair, and the other with black hair?" observes the mathematician. "It's also interesting to note," adds the person with black hair, "that none of us has hair that matches our own surname." "You're absolutely right!" exclaims Bianchi. What is each of the three people's hair color? And what is the mathematician's hair color? [Give your answer using 1 for white, 2 for black, and 3 for red, indicating in order the hair color of Bianchi, Neri, Rossi, and the mathematician.]
 
-**Topic:** [[topic_combinatoria|Combinatorics]]
+
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_logica|Logic, games and strategies]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]], [[skill_lettura_attenta|Careful reading of the text]]
 **Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
-[[Quesiti/src_squadre_2026_femminile_qualif#q01|src_squadre_2026_femminile_qualif__Q01]]
 
 
-
-<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_geometria_piana"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_geometria_piana,topic_combinatoria,method_casi_conteggio,method_simmetria,skill_conteggio_sistematico,skill_ragionamento_geometrico"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -73,10 +76,12 @@ level: squadre
 > congiungendo tre vertici di un triacontagono
 > regolare (il poligono regolare con 30 lati)?
 
-**Topic:** [[topic_geometria_piana|Geometria piana]]
-**Area:** [[Geometria]]
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casi_conteggio|Conteggio per casi]], [[method_simmetria|Sfruttamento della simmetria]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Geometria]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0400
-**Fonte:** apri PDF p.2 · phiquadro.it, Archivio gare ufficiali 2026 (Gara Femminile - Qualificazione)
+**Fonte:** [apri PDF p.2](https://www.phiquadro.it/archivio/2026_30%20gennaio%20-%20Ga.pdf#page=2) · phiquadro.it, Archivio gare ufficiali 2026 (Gara Femminile - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -88,14 +93,15 @@ level: squadre
 
 > In the triacontagon: Sandro Campigotto How many isosceles triangles can be drawn by joining three vertices of a regular triacontagon (the regular polygon with 30 sides)?
 
-**Topic:** [[topic_geometria_piana|Plane geometry]]
-**Area:** [[Geometria|Geometry]]
 
-[[Quesiti/src_squadre_2026_femminile_qualif#q02|src_squadre_2026_femminile_qualif__Q02]]
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_casi_conteggio|Counting by cases]], [[method_simmetria|Using symmetry]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]], [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
 
 
-<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_logica"></span>
+<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_logica,topic_combinatoria,method_conteggio,skill_modellizzazione"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -116,10 +122,12 @@ level: squadre
 > Carta; Carta batte Sasso. Quante altre regole
 > bisogna aggiungere come minimo?
 
-**Topic:** [[topic_logica|Logica, giochi, strategie]]
+**Topic:** [[topic_logica|Logica, giochi, strategie]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_conteggio|Conteggio combinatorio]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 6438
-**Fonte:** apri PDF p.2 · phiquadro.it, Archivio gare ufficiali 2026 (Gara Femminile - Qualificazione)
+**Fonte:** [apri PDF p.2](https://www.phiquadro.it/archivio/2026_30%20gennaio%20-%20Ga.pdf#page=2) · phiquadro.it, Archivio gare ufficiali 2026 (Gara Femminile - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -131,14 +139,15 @@ level: squadre
 
 > La Morra Leonardo Massaro In a modified version of Rock-Paper-Scissors, in addition to Rock, Paper, and Scissors, players use 111 other possible hand shapes. Players always choose a shape to make at the same time; if they choose the same shape, the game is a draw; otherwise, a rule is needed to determine which of the two symbols wins. The three classic rules always apply: Rock beats Scissors; Scissors beats Paper; Paper beats Rock. What is the minimum number of additional rules that must be added?
 
-**Topic:** [[topic_logica|Logic, games and strategies]]
+
+**Topic:** [[topic_logica|Logic, games and strategies]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
 **Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
-[[Quesiti/src_squadre_2026_femminile_qualif#q03|src_squadre_2026_femminile_qualif__Q03]]
 
 
-
-<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_geometria_piana"></span>
+<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_geometria_piana,method_coordinate,method_simmetria,skill_ragionamento_geometrico"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -163,9 +172,11 @@ level: squadre
 > 1000.]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_coordinate|Metodo delle coordinate]], [[method_simmetria|Sfruttamento della simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]]
 **Risposta:** 0500
-**Fonte:** apri PDF p.2 · phiquadro.it, Archivio gare ufficiali 2026 (Gara Femminile - Qualificazione)
+**Fonte:** [apri PDF p.2](https://www.phiquadro.it/archivio/2026_30%20gennaio%20-%20Ga.pdf#page=2) · phiquadro.it, Archivio gare ufficiali 2026 (Gara Femminile - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -177,14 +188,15 @@ level: squadre
 
 > Ratio Andrea Gavazzoni Given an equilateral triangle T, draw the three altitudes of T, extending each altitude beyond the vertex by a segment of the same length as the side of the triangle. Let T_1 be the triangle determined by the three endpoints of the extensions outside T. Extend each side of T so that it intersects T_1. What is the ratio of the area of triangle T to the sum of the areas of the three quadrilaterals, each having a diagonal that is the extension of one of the altitudes of T and two sides that are the extensions of the sides of T emanating from the same vertex of T? [Give as the answer the ratio multiplied by 1000.]
 
+
 **Topic:** [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_coordinate|Coordinate method]], [[method_simmetria|Using symmetry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
 **Area:** [[Geometria|Geometry]]
 
-[[Quesiti/src_squadre_2026_femminile_qualif#q04|src_squadre_2026_femminile_qualif__Q04]]
 
 
-
-<span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_aritmetica"></span>
+<span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_aritmetica,topic_algebra,method_fattorizzazione,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -196,10 +208,12 @@ level: squadre
 > Come minimo Carlo Càssola
 > Usando soltanto coppie di numeri interi a e b maggiori di 2, tali che i rapporti a/(a−2) e (b+2025)/(b+2012) siano uguali, qual è il valore minimo di a + b che si riesce a ottenere?
 
-**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Area:** [[Aritmetica e Teoria dei Numeri]]
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 **Risposta:** 0315
-**Fonte:** apri PDF p.2 · phiquadro.it, Archivio gare ufficiali 2026 (Gara Femminile - Qualificazione)
+**Fonte:** [apri PDF p.2](https://www.phiquadro.it/archivio/2026_30%20gennaio%20-%20Ga.pdf#page=2) · phiquadro.it, Archivio gare ufficiali 2026 (Gara Femminile - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -211,14 +225,15 @@ level: squadre
 
 > At least Carlo Càssola: Using only pairs of integers a and b greater than 2, such that the ratios a/(a−2) and (b+2025)/(b+2012) are equal, what is the minimum value of a + b that can be obtained?
 
-**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
-**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
-[[Quesiti/src_squadre_2026_femminile_qualif#q05|src_squadre_2026_femminile_qualif__Q05]]
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Algebra e Analisi|Algebra and analysis]]
 
 
 
-<span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_aritmetica"></span>
+<span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_aritmetica,topic_algebra,method_fattorizzazione,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -242,10 +257,12 @@ level: squadre
 > Qual è il maggiore dei due fattori primi di
 > 40364503?
 
-**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Area:** [[Aritmetica e Teoria dei Numeri]]
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 **Risposta:** 7549
-**Fonte:** apri PDF p.2 · phiquadro.it, Archivio gare ufficiali 2026 (Gara Femminile - Qualificazione)
+**Fonte:** [apri PDF p.2](https://www.phiquadro.it/archivio/2026_30%20gennaio%20-%20Ga.pdf#page=2) · phiquadro.it, Archivio gare ufficiali 2026 (Gara Femminile - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -257,14 +274,15 @@ level: squadre
 
 > To Professor Leonardo Massaro: Euler's totient function φ, for an integer x, computes the number of integers 0 ≤ y ≤ x−1 that are coprime with x. For example, if x is prime, then the integers y that are coprime with x are all the numbers from 1 to x−1; therefore, φ(x) = x−1 if x is prime. The value φ(x) is not easy to compute for arbitrary x, but one of its simple properties is the following: φ(x₁ ⋅ x₂) = φ(x₁) ⋅ φ(x₂) when gcd(x₁, x₂) = 1, since in that case gcd(y, x₁ ⋅ x₂) = gcd(y, x₁) ⋅ gcd(y, x₂). The number 40364503 is the product of two distinct prime numbers, and φ(40364503) = 40351608. What is the larger of the two prime factors of 40364503?
 
-**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
-**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
-[[Quesiti/src_squadre_2026_femminile_qualif#q06|src_squadre_2026_femminile_qualif__Q06]]
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Algebra e Analisi|Algebra and analysis]]
 
 
 
-<span class="atom-split" id="q07" data-atom="q07" data-title="Quesito 7" data-tags="topic_aritmetica"></span>
+<span class="atom-split" id="q07" data-atom="q07" data-title="Quesito 7" data-tags="topic_aritmetica,method_casework,method_congruenze,skill_casework_accurato,skill_riconoscimento_pattern"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -280,9 +298,11 @@ level: squadre
 > [Dare come risposta la somma di tali numeri.]
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Analisi per casi]], [[method_congruenze|Aritmetica modulare / congruenze]]
+**Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 4107
-**Fonte:** apri PDF p.2 · phiquadro.it, Archivio gare ufficiali 2026 (Gara Femminile - Qualificazione)
+**Fonte:** [apri PDF p.2](https://www.phiquadro.it/archivio/2026_30%20gennaio%20-%20Ga.pdf#page=2) · phiquadro.it, Archivio gare ufficiali 2026 (Gara Femminile - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -294,14 +314,15 @@ level: squadre
 
 > Prime Numbers by Andrea Gavazzoni Consider the prime numbers between 100 and 1000. Which of these are such that, no matter how their digits are permuted, the result is always a prime number? [Give as the answer the sum of such numbers.]
 
+
 **Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_casework|Case analysis]], [[method_congruenze|Modular arithmetic / congruences]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]], [[skill_riconoscimento_pattern|Pattern recognition]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
-[[Quesiti/src_squadre_2026_femminile_qualif#q07|src_squadre_2026_femminile_qualif__Q07]]
 
 
-
-<span class="atom-split" id="q08" data-atom="q08" data-title="Quesito 8" data-tags="topic_algebra"></span>
+<span class="atom-split" id="q08" data-atom="q08" data-title="Quesito 8" data-tags="topic_algebra,method_ricorsione,skill_manipolazione_algebrica,skill_riconoscimento_pattern"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -314,9 +335,11 @@ level: squadre
 > Quanto vale x^5 + 1/x^5 se x + 1/x = 5?
 
 **Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_ricorsione|Ricorsione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Algebra e Analisi]]
 **Risposta:** 2525
-**Fonte:** apri PDF p.2 · phiquadro.it, Archivio gare ufficiali 2026 (Gara Femminile - Qualificazione)
+**Fonte:** [apri PDF p.2](https://www.phiquadro.it/archivio/2026_30%20gennaio%20-%20Ga.pdf#page=2) · phiquadro.it, Archivio gare ufficiali 2026 (Gara Femminile - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -328,14 +351,15 @@ level: squadre
 
 > Inverse Lorenzo Mazza What is the value of x^5 + 1/x^5 if x + 1/x = 5?
 
+
 **Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_ricorsione|Recursion]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_riconoscimento_pattern|Pattern recognition]]
 **Area:** [[Algebra e Analisi|Algebra and analysis]]
 
-[[Quesiti/src_squadre_2026_femminile_qualif#q08|src_squadre_2026_femminile_qualif__Q08]]
 
 
-
-<span class="atom-split" id="q09" data-atom="q09" data-title="Quesito 9" data-tags="topic_algebra"></span>
+<span class="atom-split" id="q09" data-atom="q09" data-title="Quesito 9" data-tags="topic_algebra,method_fattorizzazione,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -350,9 +374,11 @@ level: squadre
 > [Dare come risposta la somma dei numeri trovati.]
 
 **Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Algebra e Analisi]]
 **Risposta:** 2026
-**Fonte:** apri PDF p.2 · phiquadro.it, Archivio gare ufficiali 2026 (Gara Femminile - Qualificazione)
+**Fonte:** [apri PDF p.2](https://www.phiquadro.it/archivio/2026_30%20gennaio%20-%20Ga.pdf#page=2) · phiquadro.it, Archivio gare ufficiali 2026 (Gara Femminile - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -364,14 +390,15 @@ level: squadre
 
 > Radici Sandro Campigotto What are the real numbers r such that r = √(2026 ⋅ ∛(2026^2 ⋅ r))? [Give as the answer the sum of the numbers found.]
 
+
 **Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
 **Area:** [[Algebra e Analisi|Algebra and analysis]]
 
-[[Quesiti/src_squadre_2026_femminile_qualif#q09|src_squadre_2026_femminile_qualif__Q09]]
 
 
-
-<span class="atom-split" id="q10" data-atom="q10" data-title="Quesito 10" data-tags="topic_logica"></span>
+<span class="atom-split" id="q10" data-atom="q10" data-title="Quesito 10" data-tags="topic_logica,method_casework,skill_casework_accurato,skill_lettura_attenta"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -389,9 +416,11 @@ level: squadre
 > Quanti sono i furfanti come minimo?
 
 **Topic:** [[topic_logica|Logica, giochi, strategie]]
+**Metodo:** [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_lettura_attenta|Lettura attenta del testo]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0002
-**Fonte:** apri PDF p.2 · phiquadro.it, Archivio gare ufficiali 2026 (Gara Femminile - Qualificazione)
+**Fonte:** [apri PDF p.2](https://www.phiquadro.it/archivio/2026_30%20gennaio%20-%20Ga.pdf#page=2) · phiquadro.it, Archivio gare ufficiali 2026 (Gara Femminile - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -403,14 +432,15 @@ level: squadre
 
 > In the hall, Andrea Macco. In the large hall, scoundrels who always tell lies and knights who always tell the truth are packed in. In total, there are exactly 10,000 of them. One says, "We are 10,000 knights." Another says, "Only one of us is a knight." What is the minimum number of scoundrels?
 
+
 **Topic:** [[topic_logica|Logic, games and strategies]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]], [[skill_lettura_attenta|Careful reading of the text]]
 **Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
-[[Quesiti/src_squadre_2026_femminile_qualif#q10|src_squadre_2026_femminile_qualif__Q10]]
 
 
-
-<span class="atom-split" id="q11" data-atom="q11" data-title="Quesito 11" data-tags="topic_combinatoria"></span>
+<span class="atom-split" id="q11" data-atom="q11" data-title="Quesito 11" data-tags="topic_combinatoria,topic_algebra,method_fattorizzazione,method_casework,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -423,10 +453,12 @@ level: squadre
 > Quante sono le coppie (a, b) di numeri interi tali
 > che b^2 −a(a+ 1)(a+ 2)(a+ 3) = 12?
 
-**Topic:** [[topic_combinatoria|Combinatoria]]
-**Area:** [[Combinatoria, Logica e Probabilita]]
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]], [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Algebra e Analisi]]
 **Risposta:** 0004
-**Fonte:** apri PDF p.2 · phiquadro.it, Archivio gare ufficiali 2026 (Gara Femminile - Qualificazione)
+**Fonte:** [apri PDF p.2](https://www.phiquadro.it/archivio/2026_30%20gennaio%20-%20Ga.pdf#page=2) · phiquadro.it, Archivio gare ufficiali 2026 (Gara Femminile - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -438,14 +470,15 @@ level: squadre
 
 > Pair Lorenzo Mazza How many pairs (a, b) of integers are there such that b^2 − a(a+1)(a+2)(a+3) = 12?
 
-**Topic:** [[topic_combinatoria|Combinatorics]]
-**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
-[[Quesiti/src_squadre_2026_femminile_qualif#q11|src_squadre_2026_femminile_qualif__Q11]]
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]], [[method_casework|Case analysis]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Algebra e Analisi|Algebra and analysis]]
 
 
 
-<span class="atom-split" id="q12" data-atom="q12" data-title="Quesito 12" data-tags="topic_aritmetica"></span>
+<span class="atom-split" id="q12" data-atom="q12" data-title="Quesito 12" data-tags="topic_aritmetica,topic_combinatoria,method_casi_conteggio,skill_conteggio_sistematico,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -459,10 +492,12 @@ level: squadre
 > loro diverse, tali che una cifra sia la somma delle
 > altre tre?
 
-**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Area:** [[Aritmetica e Teoria dei Numeri]]
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casi_conteggio|Conteggio per casi]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0456
-**Fonte:** apri PDF p.3 · phiquadro.it, Archivio gare ufficiali 2026 (Gara Femminile - Qualificazione)
+**Fonte:** [apri PDF p.3](https://www.phiquadro.it/archivio/2026_30%20gennaio%20-%20Ga.pdf#page=3) · phiquadro.it, Archivio gare ufficiali 2026 (Gara Femminile - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -474,14 +509,15 @@ level: squadre
 
 > Sums of Digits Carlo Càssola How many positive four-digit integers, all different from one another, are there such that one digit is the sum of the other three?
 
-**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
-**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
-[[Quesiti/src_squadre_2026_femminile_qualif#q12|src_squadre_2026_femminile_qualif__Q12]]
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_casi_conteggio|Counting by cases]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]], [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
 
 
-<span class="atom-split" id="q13" data-atom="q13" data-title="Quesito 13" data-tags="topic_geometria_piana"></span>
+<span class="atom-split" id="q13" data-atom="q13" data-title="Quesito 13" data-tags="topic_geometria_piana,method_coordinate,skill_ragionamento_geometrico"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -497,9 +533,11 @@ level: squadre
 > Qual è l’area del quadrilatero AMTD?
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_coordinate|Metodo delle coordinate]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]]
 **Risposta:** 1250
-**Fonte:** apri PDF p.3 · phiquadro.it, Archivio gare ufficiali 2026 (Gara Femminile - Qualificazione)
+**Fonte:** [apri PDF p.3](https://www.phiquadro.it/archivio/2026_30%20gennaio%20-%20Ga.pdf#page=3) · phiquadro.it, Archivio gare ufficiali 2026 (Gara Femminile - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -511,14 +549,15 @@ level: squadre
 
 > Medi Carlo Càssola In parallelogram ABCD, let M be the midpoint of AB and T the intersection of segment CM with diagonal BD. The area of triangle BCT is 500 cm². What is the area of quadrilateral AMTD?
 
+
 **Topic:** [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_coordinate|Coordinate method]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
 **Area:** [[Geometria|Geometry]]
 
-[[Quesiti/src_squadre_2026_femminile_qualif#q13|src_squadre_2026_femminile_qualif__Q13]]
 
 
-
-<span class="atom-split" id="q14" data-atom="q14" data-title="Quesito 14" data-tags="topic_funzionali"></span>
+<span class="atom-split" id="q14" data-atom="q14" data-title="Quesito 14" data-tags="topic_funzionali,topic_algebra,method_fattorizzazione,skill_modellizzazione,skill_riconoscimento_pattern,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -549,10 +588,12 @@ level: squadre
 > [Dare come risposta il numero n che indica
 > l’ordinale della risposta.]
 
-**Topic:** [[topic_funzionali|Equazioni funzionali / successioni]]
+**Topic:** [[topic_funzionali|Equazioni funzionali / successioni]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Algebra e Analisi]]
 **Risposta:** 0667
-**Fonte:** apri PDF p.3 · phiquadro.it, Archivio gare ufficiali 2026 (Gara Femminile - Qualificazione)
+**Fonte:** [apri PDF p.3](https://www.phiquadro.it/archivio/2026_30%20gennaio%20-%20Ga.pdf#page=3) · phiquadro.it, Archivio gare ufficiali 2026 (Gara Femminile - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -564,14 +605,15 @@ level: squadre
 
 > At the blackboard, Carlo Càssola, Anna, and Bruno go to the blackboard, and each of them starts writing a sequence of integers separated by the + sign, working together step by step. At the first step, Anna writes 1; Bruno writes 1000. At the second step, Anna writes 1 + 2 and calculates the sum 3; Bruno writes 1000 + 998 and calculates the sum 1998. At the third step, Anna adds a term: 1 + 2 + 3, increasing the previous term by 1, then calculates the sum 6; Bruno does something similar: he adds a term, 1000 + 998 + 996, decreasing the previous term by 2, then calculates the sum 2994. And they continue like this: at the fourth step, Anna writes + 4, producing 1 + 2 + 3 + 4 and calculating the sum 10; Bruno writes + 994, producing 1000 + 998 + 996 + 994 and calculating the sum 3988. At each step, they check whether the sums they calculate match. At which step do they calculate the same sum? [Give as the answer the number n that indicates the ordinal of the answer.]
 
-**Topic:** [[topic_funzionali|Functional equations / sequences]]
+
+**Topic:** [[topic_funzionali|Functional equations / sequences]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]], [[skill_riconoscimento_pattern|Pattern recognition]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
 **Area:** [[Algebra e Analisi|Algebra and analysis]]
 
-[[Quesiti/src_squadre_2026_femminile_qualif#q14|src_squadre_2026_femminile_qualif__Q14]]
 
 
-
-<span class="atom-split" id="q15" data-atom="q15" data-title="Quesito 15" data-tags="topic_geometria_piana"></span>
+<span class="atom-split" id="q15" data-atom="q15" data-title="Quesito 15" data-tags="topic_geometria_piana,method_coordinate,skill_ragionamento_geometrico,skill_lettura_attenta,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -589,9 +631,11 @@ level: squadre
 > segmenti può avere?
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_coordinate|Metodo delle coordinate]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta del testo]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 **Risposta:** 2027
-**Fonte:** apri PDF p.3 · phiquadro.it, Archivio gare ufficiali 2026 (Gara Femminile - Qualificazione)
+**Fonte:** [apri PDF p.3](https://www.phiquadro.it/archivio/2026_30%20gennaio%20-%20Ga.pdf#page=3) · phiquadro.it, Archivio gare ufficiali 2026 (Gara Femminile - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -603,14 +647,15 @@ level: squadre
 
 > In equal parts Carlo Càssola The base AB of triangle ABC is 204 m long, and the height corresponding to base AB is 81 dm. The triangle is divided into 81 parts of equal area by horizontal line segments, all of which are parallel to base AB. What is the maximum length, in dm, that one of these segments can have?
 
+
 **Topic:** [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_coordinate|Coordinate method]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_lettura_attenta|Careful reading of the text]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
 **Area:** [[Geometria|Geometry]]
 
-[[Quesiti/src_squadre_2026_femminile_qualif#q15|src_squadre_2026_femminile_qualif__Q15]]
 
 
-
-<span class="atom-split" id="q16" data-atom="q16" data-title="Quesito 16" data-tags="topic_probabilita"></span>
+<span class="atom-split" id="q16" data-atom="q16" data-title="Quesito 16" data-tags="topic_probabilita,method_casi_conteggio,skill_conteggio_sistematico"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -631,9 +676,11 @@ level: squadre
 > 10000.]
 
 **Topic:** [[topic_probabilita|Probabilita e statistica]]
+**Metodo:** [[method_casi_conteggio|Conteggio per casi]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0916
-**Fonte:** apri PDF p.3 · phiquadro.it, Archivio gare ufficiali 2026 (Gara Femminile - Qualificazione)
+**Fonte:** [apri PDF p.3](https://www.phiquadro.it/archivio/2026_30%20gennaio%20-%20Ga.pdf#page=3) · phiquadro.it, Archivio gare ufficiali 2026 (Gara Femminile - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -645,14 +692,15 @@ level: squadre
 
 > Cards and Dice Sandro Campigotto Fabio has a deck of 40 cards: the deck consists of cards of 4 suits; each suit consists of ten cards with all values from 1 to 10. Fabio draws one card from the deck of 40 cards and then rolls two six-sided dice. What is the probability that the value of the card drawn and the sum of the numbers shown on the dice are equal? [Give as the answer the probability multiplied by 10000.]
 
+
 **Topic:** [[topic_probabilita|Probability and statistics]]
+**Metodo:** [[method_casi_conteggio|Counting by cases]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
 **Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
-[[Quesiti/src_squadre_2026_femminile_qualif#q16|src_squadre_2026_femminile_qualif__Q16]]
 
 
-
-<span class="atom-split" id="q17" data-atom="q17" data-title="Quesito 17" data-tags="topic_aritmetica"></span>
+<span class="atom-split" id="q17" data-atom="q17" data-title="Quesito 17" data-tags="topic_aritmetica,method_casework,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -670,9 +718,11 @@ level: squadre
 > somma?
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 1125
-**Fonte:** apri PDF p.3 · phiquadro.it, Archivio gare ufficiali 2026 (Gara Femminile - Qualificazione)
+**Fonte:** [apri PDF p.3](https://www.phiquadro.it/archivio/2026_30%20gennaio%20-%20Ga.pdf#page=3) · phiquadro.it, Archivio gare ufficiali 2026 (Gara Femminile - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -684,14 +734,15 @@ level: squadre
 
 > 1001 Giuseppe Rosolini The number 1001 has the property that the product of its digits is less than their sum, as does the number 1002. What is the smallest number greater than 1001 such that the product of its digits is greater than their sum?
 
+
 **Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
-[[Quesiti/src_squadre_2026_femminile_qualif#q17|src_squadre_2026_femminile_qualif__Q17]]
 
 
-
-<span class="atom-split" id="q18" data-atom="q18" data-title="Quesito 18" data-tags="topic_combinatoria"></span>
+<span class="atom-split" id="q18" data-atom="q18" data-title="Quesito 18" data-tags="topic_combinatoria,topic_aritmetica,method_casi_conteggio,method_fattorizzazione,skill_conteggio_sistematico,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -709,10 +760,12 @@ level: squadre
 > dei tre numeri di una colonna faccia 6. In quanto
 > modi si può riempire la griglia?
 
-**Topic:** [[topic_combinatoria|Combinatoria]]
-**Area:** [[Combinatoria, Logica e Probabilita]]
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casi_conteggio|Conteggio per casi]], [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 0576
-**Fonte:** apri PDF p.3 · phiquadro.it, Archivio gare ufficiali 2026 (Gara Femminile - Qualificazione)
+**Fonte:** [apri PDF p.3](https://www.phiquadro.it/archivio/2026_30%20gennaio%20-%20Ga.pdf#page=3) · phiquadro.it, Archivio gare ufficiali 2026 (Gara Femminile - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -724,14 +777,15 @@ level: squadre
 
 > Carlo Càssola's Grid: In a square grid with nine cells arranged in three rows and three columns, each cell is labeled with a letter from A to I. An integer must be written in each cell so that the product of the three numbers in each row is 6, and the product of the three numbers in each column is also 6. In how many ways can the grid be filled?
 
-**Topic:** [[topic_combinatoria|Combinatorics]]
-**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
-[[Quesiti/src_squadre_2026_femminile_qualif#q18|src_squadre_2026_femminile_qualif__Q18]]
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_casi_conteggio|Counting by cases]], [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]], [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
 
 
-<span class="atom-split" id="q19" data-atom="q19" data-title="Quesito 19" data-tags="topic_geometria_piana,topic_probabilita"></span>
+<span class="atom-split" id="q19" data-atom="q19" data-title="Quesito 19" data-tags="topic_geometria_piana,topic_probabilita,topic_aritmetica,topic_combinatoria,method_conteggio,method_simmetria,skill_conteggio_sistematico,skill_modellizzazione,skill_ragionamento_geometrico"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -761,10 +815,12 @@ level: squadre
 > dall’altra mediante rotazioni e simmetrie.)
 > [Dare come risposta la somma di tutti gli n trovati.]
 
-**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_probabilita|Probabilita e statistica]]
-**Area:** [[Geometria]], [[Combinatoria, Logica e Probabilita]]
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_probabilita|Probabilita e statistica]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_conteggio|Conteggio combinatorio]], [[method_simmetria|Sfruttamento della simmetria]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Geometria]], [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 0118
-**Fonte:** apri PDF p.3 · phiquadro.it, Archivio gare ufficiali 2026 (Gara Femminile - Qualificazione)
+**Fonte:** [apri PDF p.3](https://www.phiquadro.it/archivio/2026_30%20gennaio%20-%20Ga.pdf#page=3) · phiquadro.it, Archivio gare ufficiali 2026 (Gara Femminile - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -776,14 +832,15 @@ level: squadre
 
 > Diagonally Anna Ulivi In a polygon, a diagonal is a line segment that joins two non-adjacent vertices (for example, a triangle has no diagonals; a square has two diagonals). Starting from a regular polygon with n sides, where n is between 3 and 100 inclusive, the idea is to draw a star in the following way: starting from one vertex, without lifting the pen from the paper, trace a path that passes through each vertex of the polygon and ends at the starting vertex, thereby forming a star. The path must consist solely of diagonals, all of the same length. What are the values of n for which, starting from the regular polygon with n sides, it is impossible to draw even a single star, or exactly 3 different stars can be drawn? (Two stars are different if one cannot be obtained from the other by rotations and symmetries.) [Give as the answer the sum of all the n found.]
 
-**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_probabilita|Probability and statistics]]
-**Area:** [[Geometria|Geometry]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
-[[Quesiti/src_squadre_2026_femminile_qualif#q19|src_squadre_2026_femminile_qualif__Q19]]
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_probabilita|Probability and statistics]], [[topic_aritmetica|Arithmetic / Number theory]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_conteggio|Combinatorial counting]], [[method_simmetria|Using symmetry]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]], [[skill_modellizzazione|Modelling / translating the text]], [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
 
 
-<span class="atom-split" id="q20" data-atom="q20" data-title="Quesito 20" data-tags="topic_aritmetica"></span>
+<span class="atom-split" id="q20" data-atom="q20" data-title="Quesito 20" data-tags="topic_aritmetica,method_fattorizzazione,method_congruenze,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -798,9 +855,11 @@ level: squadre
 > [Dare come risposta la somma di tutti gli n trovati.]
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]], [[method_congruenze|Aritmetica modulare / congruenze]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 2376
-**Fonte:** apri PDF p.3 · phiquadro.it, Archivio gare ufficiali 2026 (Gara Femminile - Qualificazione)
+**Fonte:** [apri PDF p.3](https://www.phiquadro.it/archivio/2026_30%20gennaio%20-%20Ga.pdf#page=3) · phiquadro.it, Archivio gare ufficiali 2026 (Gara Femminile - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -812,14 +871,15 @@ level: squadre
 
 > Positive Carlo Càssola What are the positive integers n such that n^2 + 2026 is divisible by n−5? [Give as the answer the sum of all the n found.]
 
+
 **Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]], [[method_congruenze|Modular arithmetic / congruences]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
-[[Quesiti/src_squadre_2026_femminile_qualif#q20|src_squadre_2026_femminile_qualif__Q20]]
 
 
-
-<span class="atom-split" id="q21" data-atom="q21" data-title="Quesito 21" data-tags="topic_algebra"></span>
+<span class="atom-split" id="q21" data-atom="q21" data-title="Quesito 21" data-tags="topic_algebra,method_fattorizzazione,method_simmetria,skill_manipolazione_algebrica,skill_riconoscimento_pattern"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -834,9 +894,11 @@ level: squadre
 > r(r+ 1)(r+ 2)(r+ 3) = 100?
 
 **Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]], [[method_simmetria|Sfruttamento della simmetria]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Algebra e Analisi]]
 **Risposta:** 0003
-**Fonte:** apri PDF p.3 · phiquadro.it, Archivio gare ufficiali 2026 (Gara Femminile - Qualificazione)
+**Fonte:** [apri PDF p.3](https://www.phiquadro.it/archivio/2026_30%20gennaio%20-%20Ga.pdf#page=3) · phiquadro.it, Archivio gare ufficiali 2026 (Gara Femminile - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -848,7 +910,8 @@ level: squadre
 
 > Absolute Benedetta Demoro What is the absolute value of the sum of all possible real numbers r such that r(r+1)(r+2)(r+3) = 100?
 
-**Topic:** [[topic_algebra|Algebra]]
-**Area:** [[Algebra e Analisi|Algebra and analysis]]
 
-[[Quesiti/src_squadre_2026_femminile_qualif#q21|src_squadre_2026_femminile_qualif__Q21]]
+**Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]], [[method_simmetria|Using symmetry]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]

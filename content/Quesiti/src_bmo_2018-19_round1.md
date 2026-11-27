@@ -10,7 +10,7 @@ level: BMO Round 1
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_combinatoria,topic_aritmetica,method_casework,method_conteggio,skill_conteggio_sistematico,skill_casework_accurato,skill_lettura_attenta"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_combinatoria,topic_aritmetica,method_casework,method_conteggio,method_congruenze,skill_conteggio_sistematico,skill_casework_accurato,skill_lettura_attenta"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -20,9 +20,9 @@ level: BMO Round 1
 > A list of five two-digit positive integers is written in increasing order on a blackboard. Each of the five integers is a multiple of 3, and each digit $0,1,2,3,4,5,6,7,8,9$ appears exactly once on the blackboard. In how many ways can this be done? Note that a two-digit number cannot begin with the digit $0$.
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]]
+**Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]], [[method_congruenze|Modular arithmetic / congruences]]
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]], [[skill_lettura_attenta|Lettura attenta]]
-**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/13TymyXW8f0WJOfcP7X3v5LIa1mrqdBop/view)
 
 
@@ -33,12 +33,11 @@ level: BMO Round 1
 
 > Su una lavagna sono scritti, in ordine crescente, cinque numeri interi positivi di due cifre. Ciascuno dei cinque numeri è multiplo di 3, e ciascuna cifra $0,1,2,3,4,5,6,7,8,9$ compare esattamente una volta sulla lavagna. In quanti modi si può procedere? Si noti che un numero di due cifre non può iniziare con la cifra $0$.
 
+
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]]
+**Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]], [[method_congruenze|Aritmetica modulare / congruenze]]
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
-
-[[Quesiti/src_bmo_2018-19_round1#q01|src_bmo_2018-19_round1__Q01]]
 
 
 
@@ -70,8 +69,6 @@ level: BMO Round 1
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 
-[[Quesiti/src_bmo_2018-19_round1#q02|src_bmo_2018-19_round1__Q02]]
-
 
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_algebra,topic_aritmetica,method_fattorizzazione,method_casework,skill_manipolazione_algebrica,skill_lettura_attenta,skill_conteggio_sistematico"></span>
@@ -101,8 +98,6 @@ level: BMO Round 1
 **Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_casework|Casework]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
-
-[[Quesiti/src_bmo_2018-19_round1#q03|src_bmo_2018-19_round1__Q03]]
 
 
 
@@ -138,8 +133,6 @@ level: BMO Round 1
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Geometria]]
 
-[[Quesiti/src_bmo_2018-19_round1#q04|src_bmo_2018-19_round1__Q04]]
-
 
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_algebra,topic_geometria_solida,method_casework,method_fattorizzazione,skill_manipolazione_algebrica,skill_modellizzazione,skill_lettura_attenta"></span>
@@ -170,8 +163,6 @@ level: BMO Round 1
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Algebra e Analisi]], [[Geometria]]
 
-[[Quesiti/src_bmo_2018-19_round1#q05|src_bmo_2018-19_round1__Q05]]
-
 
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_combinatoria,topic_aritmetica,method_conteggio,method_congruenze,method_fattorizzazione,skill_conteggio_sistematico,skill_manipolazione_algebrica,skill_riconoscimento_pattern"></span>
@@ -201,5 +192,3 @@ level: BMO Round 1
 **Metodo:** [[method_conteggio|Conteggio]], [[method_congruenze|Congruenze]], [[method_fattorizzazione|Fattorizzazione]]
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
-
-[[Quesiti/src_bmo_2018-19_round1#q06|src_bmo_2018-19_round1__Q06]]

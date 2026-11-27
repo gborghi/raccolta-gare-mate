@@ -62,11 +62,9 @@ level: OBM Nível 1
 **Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 
-[[Quesiti/src_obm_2013_n1_f3#q01|src_obm_2013_n1_f3__Q01]]
 
 
-
-<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_combinatoria,topic_logica,method_invarianti,method_backward,skill_lettura_attenta,skill_astrazione,skill_ragionamento_geometrico"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_combinatoria,topic_logica,method_invarianti,method_backward,method_congruenze,skill_lettura_attenta,skill_astrazione,skill_ragionamento_geometrico"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -80,9 +78,9 @@ level: OBM Nível 1
 > b) Who will take all the coins?
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_logica|Logica]]
-**Metodo:** [[method_invarianti|Invarianti]], [[method_backward|Backward]]
+**Metodo:** [[method_invarianti|Invarianti]], [[method_backward|Backward]], [[method_congruenze|Modular arithmetic / congruences]]
 **Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_astrazione|Astrazione]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
-**Area:** [[Combinatoria, Logica e Probabilita]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1bt-9OIl79wBeMLuqJhtDISes6K5CelBd/view)
 
 
@@ -97,12 +95,11 @@ level: OBM Nível 1
 >
 > b) Chi prenderà tutte le monete?
 
+
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_logica|Logica]]
-**Metodo:** [[method_invarianti|Invarianti]], [[method_backward|Backward]]
+**Metodo:** [[method_invarianti|Invarianti]], [[method_backward|Backward]], [[method_congruenze|Aritmetica modulare / congruenze]]
 **Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_astrazione|Astrazione]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
-
-[[Quesiti/src_obm_2013_n1_f3#q02|src_obm_2013_n1_f3__Q02]]
 
 
 
@@ -121,7 +118,7 @@ level: OBM Nível 1
 > 
 > What is the total white area of the combined figure?
 
-![[src_obm_2013_n1_f3__q03.png]]
+![[src_obm_2013_n1_f3__Q03.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_simmetria|Simmetria]]
@@ -143,18 +140,16 @@ level: OBM Nível 1
 >
 > Qual è l'area bianca totale della figura composta?
 
-![[src_obm_2013_n1_f3__q03.png]]
+![[src_obm_2013_n1_f3__Q03.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_simmetria|Simmetria]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]]
 **Area:** [[Geometria]]
 
-[[Quesiti/src_obm_2013_n1_f3#q03|src_obm_2013_n1_f3__Q03]]
 
 
-
-<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_aritmetica,topic_combinatoria,method_casework,method_conteggio,skill_conteggio_sistematico,skill_lettura_attenta,skill_riconoscimento_pattern"></span>
+<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_aritmetica,topic_combinatoria,method_casework,method_conteggio,skill_conteggio_sistematico,skill_lettura_attenta,skill_riconoscimento_pattern,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -169,8 +164,8 @@ level: OBM Nível 1
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]]
-**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
-**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1bt-9OIl79wBeMLuqJhtDISes6K5CelBd/view)
 
 
@@ -185,12 +180,11 @@ level: OBM Nível 1
 >
 > b) In quale termine di questa successione compare per la prima volta, in ordine, la stringa di cifre $2013$? Ad esempio, la stringa $121$ compare per la prima volta nel quinto termine, $11\mathbf{121}31415$.
 
+
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]]
-**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
-
-[[Quesiti/src_obm_2013_n1_f3#q04|src_obm_2013_n1_f3__Q04]]
 
 
 
@@ -237,5 +231,3 @@ level: OBM Nível 1
 **Metodo:** [[method_casework|Casework]], [[method_estremalita|Estremalità]]
 **Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
-
-[[Quesiti/src_obm_2013_n1_f3#q05|src_obm_2013_n1_f3__Q05]]

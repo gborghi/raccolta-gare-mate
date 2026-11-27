@@ -39,12 +39,11 @@ level: Olimpiade Polacca Round 3
 **Topic:** [[topic_aritmetica|Aritmetica e teoria dei numeri]], [[topic_algebra|Algebra]]
 **Metodo:** [[method_casework|Analisi per casi]], [[method_fattorizzazione|Fattorizzazione]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Analisi accurata dei casi]], [[skill_lettura_attenta|Lettura attenta]]
-
-[[Quesiti/src_pol_2005_r3#q01|src_pol_2005_r3__Q01]]
-
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 
 
-<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_geometria_piana,method_simmetria,skill_ragionamento_geometrico,skill_lettura_attenta"></span>
+
+<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_geometria_piana,method_simmetria,method_trigonometria,skill_ragionamento_geometrico,skill_lettura_attenta"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -54,9 +53,9 @@ level: Olimpiade Polacca Round 3
 > A convex quadrilateral $ABCD$ is inscribed in a circle $o$. Point $S$ inside the circle is such that $\angle SAD = \angle SCB$ and $\angle SDA = \angle SBC$. The bisector of angle $ASB$ intersects the circle $o$ at points $P$ and $Q$. Prove that $PS = QS$.
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
-**Metodo:** [[method_simmetria|Simmetria]]
+**Metodo:** [[method_simmetria|Simmetria]], [[method_trigonometria|Trigonometric techniques]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
-**Area:** [[Geometria]]
+**Area:** [[Geometria|Geometry]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1ORyk-mK8rlEH9HuKazmwqcy5n8d2do0t/view)
 
 
@@ -67,15 +66,15 @@ level: Olimpiade Polacca Round 3
 
 > Un quadrilatero convesso $ABCD$ è inscritto in una circonferenza $o$. Un punto $S$ interno alla circonferenza è tale che $\angle SAD = \angle SCB$ e $\angle SDA = \angle SBC$. La bisettrice dell'angolo $ASB$ interseca la circonferenza $o$ nei punti $P$ e $Q$. Dimostrare che $PS = QS$.
 
+
 **Topic:** [[topic_geometria_piana|Geometria piana]]
-**Metodo:** [[method_simmetria|Simmetria]]
+**Metodo:** [[method_simmetria|Simmetria]], [[method_trigonometria|Tecniche trigonometriche]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
-
-[[Quesiti/src_pol_2005_r3#q02|src_pol_2005_r3__Q02]]
-
+**Area:** [[Geometria]]
 
 
-<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_combinatoria,topic_algebra,method_estremalita,method_doppio_conteggio,skill_manipolazione_algebrica,skill_stima,skill_lettura_attenta"></span>
+
+<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_combinatoria,topic_algebra,topic_disuguaglianze,method_estremalita,method_doppio_conteggio,skill_manipolazione_algebrica,skill_stima,skill_lettura_attenta"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -84,10 +83,10 @@ level: Olimpiade Polacca Round 3
 
 > In a $2n \times 2n$ board ($n \in \mathbb{N}$) are written $4n^2$ real numbers with the sum $0$ (one number in each cell). The absolute value of any of the numbers does not exceed $1$. Prove that the absolute value of all numbers in a column or a row does not exceed $n$.
 
-**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_algebra|Algebra]]
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_algebra|Algebra]], [[topic_disuguaglianze|Inequalities]]
 **Metodo:** [[method_estremalita|Estremalità]], [[method_doppio_conteggio|Doppio conteggio]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]], [[skill_lettura_attenta|Lettura attenta]]
-**Area:** [[Combinatoria, Logica e Probabilita]], [[Algebra e Analisi]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Algebra e Analisi|Algebra and analysis]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1ORyk-mK8rlEH9HuKazmwqcy5n8d2do0t/view)
 
 
@@ -98,15 +97,15 @@ level: Olimpiade Polacca Round 3
 
 > In una scacchiera $2n \times 2n$ ($n \in \mathbb{N}$) sono scritti $4n^2$ numeri reali di somma $0$, uno per casella. Il valore assoluto di ciascuno non supera $1$. Dimostrare che il valore assoluto della somma dei numeri di una colonna o di una riga non supera $n$.
 
-**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_algebra|Algebra]]
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_algebra|Algebra]], [[topic_disuguaglianze|Disuguaglianze]]
 **Metodo:** [[method_estremalita|Estremalità]], [[method_doppio_conteggio|Doppio conteggio]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]], [[skill_lettura_attenta|Lettura attenta]]
-
-[[Quesiti/src_pol_2005_r3#q03|src_pol_2005_r3__Q03]]
-
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Algebra e Analisi]]
 
 
-<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_disuguaglianze,topic_algebra,method_disuguaglianze,method_casework,skill_manipolazione_algebrica,skill_astrazione,skill_lettura_attenta"></span>
+
+<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_disuguaglianze,topic_algebra,method_disuguaglianze,method_casework,method_fattorizzazione,skill_manipolazione_algebrica,skill_astrazione,skill_lettura_attenta"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -118,9 +117,9 @@ level: Olimpiade Polacca Round 3
 > then $c = 2$ or $x_1 = x_2 = \cdots = x_n$.
 
 **Topic:** [[topic_disuguaglianze|Disuguaglianze]], [[topic_algebra|Algebra]]
-**Metodo:** [[method_disuguaglianze|Disuguaglianze]], [[method_casework|Casework]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze]], [[method_casework|Casework]], [[method_fattorizzazione|Factorisation / algebraic manipulation]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]], [[skill_lettura_attenta|Lettura attenta]]
-**Area:** [[Algebra e Analisi]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1ORyk-mK8rlEH9HuKazmwqcy5n8d2do0t/view)
 
 
@@ -135,15 +134,15 @@ level: Olimpiade Polacca Round 3
 >
 > allora $c = 2$ oppure $x_1 = x_2 = \cdots = x_n$.
 
+
 **Topic:** [[topic_disuguaglianze|Disuguaglianze]], [[topic_algebra|Algebra]]
-**Metodo:** [[method_disuguaglianze|Disuguaglianze]], [[method_casework|Analisi per casi]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze]], [[method_casework|Analisi per casi]], [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]], [[skill_lettura_attenta|Lettura attenta]]
-
-[[Quesiti/src_pol_2005_r3#q04|src_pol_2005_r3__Q04]]
-
+**Area:** [[Algebra e Analisi]]
 
 
-<span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_aritmetica,method_congruenze,method_ricorsione,method_induzione,skill_manipolazione_algebrica,skill_riconoscimento_pattern,skill_lettura_attenta"></span>
+
+<span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_aritmetica,topic_funzionali,method_congruenze,method_ricorsione,method_induzione,skill_manipolazione_algebrica,skill_riconoscimento_pattern,skill_lettura_attenta"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -154,10 +153,10 @@ level: Olimpiade Polacca Round 3
 > $$x_0 = a, \quad x_1 = b, \quad x_{n+2} = x_{n+1} + x_n \quad \text{for } n = 0, 1, 2, \ldots$$
 > has all of its terms relatively prime to $m$.
 
-**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_funzionali|Functional equations / sequences]]
 **Metodo:** [[method_congruenze|Congruenze]], [[method_ricorsione|Ricorsione]], [[method_induzione|Induzione]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_lettura_attenta|Lettura attenta]]
-**Area:** [[Aritmetica e Teoria dei Numeri]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Algebra e Analisi|Algebra and analysis]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1ORyk-mK8rlEH9HuKazmwqcy5n8d2do0t/view)
 
 
@@ -172,11 +171,11 @@ level: Olimpiade Polacca Round 3
 >
 > abbia tutti i termini coprimi con $m$.
 
-**Topic:** [[topic_aritmetica|Aritmetica e teoria dei numeri]]
+
+**Topic:** [[topic_aritmetica|Aritmetica e teoria dei numeri]], [[topic_funzionali|Equazioni funzionali / successioni]]
 **Metodo:** [[method_congruenze|Congruenze]], [[method_ricorsione|Ricorsione]], [[method_induzione|Induzione]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di schemi]], [[skill_lettura_attenta|Lettura attenta]]
-
-[[Quesiti/src_pol_2005_r3#q05|src_pol_2005_r3__Q05]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 
 
 
@@ -206,5 +205,4 @@ level: Olimpiade Polacca Round 3
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_estremalita|Estremalità]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_stima|Stima]], [[skill_modellizzazione|Modellizzazione]]
-
-[[Quesiti/src_pol_2005_r3#q06|src_pol_2005_r3__Q06]]
+**Area:** [[Geometria]], [[Combinatoria, Logica e Probabilita]]

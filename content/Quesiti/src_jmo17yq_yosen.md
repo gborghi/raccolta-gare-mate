@@ -37,8 +37,8 @@ level: JMO Yosen
 **Argomento:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_coordinate|Metodo delle coordinate]]
 **Abilità:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
 **Risposta:** 18
-[[Quesiti/src_jmo17yq_yosen#q01|src_jmo17yq_yosen__Q01]]
 
 
 
@@ -69,12 +69,12 @@ level: JMO Yosen
 **Argomento:** [[topic_aritmetica|Aritmetica / Teoria dei numeri]]
 **Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]]
 **Abilità:** [[skill_riconoscimento_pattern|Riconoscimento di schemi]], [[skill_lettura_attenta|Lettura attenta del testo]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 1
-[[Quesiti/src_jmo17yq_yosen#q02|src_jmo17yq_yosen__Q02]]
 
 
 
-<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_geometria_analitica,topic_algebra,method_estremalita,method_coordinate,skill_manipolazione_algebrica,skill_stima"></span>
+<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_geometria_analitica,topic_algebra,topic_geometria_piana,method_estremalita,method_coordinate,skill_manipolazione_algebrica,skill_stima,skill_ragionamento_geometrico"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -83,10 +83,10 @@ level: JMO Yosen
 
 > A segment $AB$ of length $7$ lies on a plane. Let $P$ be a point on the plane such that the distance from $P$ to line $AB$ is $3$. Find the minimum value of $AP \times BP$.
 
-**Topic:** [[topic_geometria_analitica|Geometria analitica]], [[topic_algebra|Algebra]]
+**Topic:** [[topic_geometria_analitica|Geometria analitica]], [[topic_algebra|Algebra]], [[topic_geometria_piana|Plane geometry]]
 **Metodo:** [[method_estremalita|Estremalità]], [[method_coordinate|Coordinate]]
-**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]]
-**Area:** [[Geometria]], [[Algebra e Analisi]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]], [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]], [[Algebra e Analisi|Algebra and analysis]]
 **Risposta:** $\dfrac{85}{4}$
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1dFheML812ADMblBRJefEXRtupZ41nHlW/view)
 
@@ -99,10 +99,12 @@ level: JMO Yosen
 > Un segmento $AB$ di lunghezza $7$ giace su un piano. Sia $P$ un punto del piano tale che la distanza di $P$ dalla retta $AB$ sia $3$. Trovare il minimo valore di $AP \times BP$.
 
 **Argomento:** [[topic_geometria_analitica|Geometria analitica]], [[topic_algebra|Algebra]]
+
+**Topic:** [[topic_geometria_analitica|Geometria analitica]], [[topic_algebra|Algebra]], [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_estremalita|Principio di estremalità]], [[method_coordinate|Metodo delle coordinate]]
-**Abilità:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima e approssimazione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima e approssimazione]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Geometria]], [[Algebra e Analisi]]
 **Risposta:** $\dfrac{85}{4}$
-[[Quesiti/src_jmo17yq_yosen#q03|src_jmo17yq_yosen__Q03]]
 
 
 
@@ -132,11 +134,11 @@ level: JMO Yosen
 **Argomento:** [[topic_aritmetica|Aritmetica / Teoria dei numeri]]
 **Metodo:** [[method_casework|Analisi per casi]], [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
 **Abilità:** [[skill_lettura_attenta|Lettura attenta del testo]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
-[[Quesiti/src_jmo17yq_yosen#q04|src_jmo17yq_yosen__Q04]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
 
 
 
-<span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_combinatoria,topic_geometria_piana,method_casework,method_inclusione_esclusione,skill_conteggio_sistematico,skill_ragionamento_geometrico,skill_modellizzazione"></span>
+<span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_combinatoria,topic_geometria_piana,method_casework,method_inclusione_esclusione,method_conteggio,skill_conteggio_sistematico,skill_ragionamento_geometrico,skill_modellizzazione"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -146,9 +148,9 @@ level: JMO Yosen
 > Three rectangles are placed on a plane so that any two of them have mutually parallel sides (i.e., all sides are parallel to one of two fixed perpendicular directions). Into at most how many regions can these three rectangles divide the plane? Each rectangle's interior and boundary are considered, and a region not contained in any rectangle is also counted as one region. (For example, a single rectangle divides the plane into $2$ regions.)
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_geometria_piana|Geometria piana]]
-**Metodo:** [[method_casework|Casework]], [[method_inclusione_esclusione|Inclusione-esclusione]]
+**Metodo:** [[method_casework|Casework]], [[method_inclusione_esclusione|Inclusione-esclusione]], [[method_conteggio|Combinatorial counting]]
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]]
-**Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Geometria|Geometry]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1dFheML812ADMblBRJefEXRtupZ41nHlW/view)
 
 
@@ -160,13 +162,15 @@ level: JMO Yosen
 > Tre rettangoli sono disposti su un piano in modo che due qualunque di essi abbiano i lati a due a due paralleli (cioè tutti i lati sono paralleli a una di due direzioni perpendicolari fissate). In al più quante regioni questi tre rettangoli possono dividere il piano? Si considerano l'interno e il bordo di ogni rettangolo, e si conta come regione anche una regione non contenuta in alcun rettangolo. (Per esempio, un solo rettangolo divide il piano in $2$ regioni.)
 
 **Argomento:** [[topic_combinatoria|Combinatoria]], [[topic_geometria_piana|Geometria piana]]
-**Metodo:** [[method_casework|Analisi per casi]], [[method_inclusione_esclusione|Inclusione-esclusione]]
-**Abilità:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
-[[Quesiti/src_jmo17yq_yosen#q05|src_jmo17yq_yosen__Q05]]
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_casework|Analisi per casi]], [[method_inclusione_esclusione|Inclusione-esclusione]], [[method_conteggio|Conteggio combinatorio]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 
 
 
-<span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_combinatoria,topic_aritmetica,method_conteggio,method_casework,skill_conteggio_sistematico,skill_riconoscimento_pattern"></span>
+<span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_combinatoria,topic_aritmetica,method_conteggio,method_casework,method_induzione,skill_conteggio_sistematico,skill_riconoscimento_pattern"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -176,9 +180,9 @@ level: JMO Yosen
 > There are $15$ cards, each with a distinct integer written on it, one from each of $1, 2, \ldots, 15$. One or more cards are selected and the numbers on them are summed. How many distinct values can this sum take?
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_conteggio|Conteggio]], [[method_casework|Casework]]
+**Metodo:** [[method_conteggio|Conteggio]], [[method_casework|Casework]], [[method_induzione|Induction]]
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
-**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Risposta:** 120
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1dFheML812ADMblBRJefEXRtupZ41nHlW/view)
 
@@ -191,14 +195,16 @@ level: JMO Yosen
 > Ci sono $15$ carte, ciascuna con un intero distinto, uno per ciascuno di $1, 2, \ldots, 15$. Si scelgono una o più carte e si sommano i numeri scritti. Quanti valori distinti può assumere questa somma?
 
 **Argomento:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei numeri]]
-**Metodo:** [[method_conteggio|Conteggio combinatorio]], [[method_casework|Analisi per casi]]
-**Abilità:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di schemi]]
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei numeri]]
+**Metodo:** [[method_conteggio|Conteggio combinatorio]], [[method_casework|Analisi per casi]], [[method_induzione|Induzione]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di schemi]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 120
-[[Quesiti/src_jmo17yq_yosen#q06|src_jmo17yq_yosen__Q06]]
 
 
 
-<span class="atom-split" id="q07" data-atom="q07" data-title="Quesito 7" data-tags="topic_combinatoria,topic_aritmetica,method_conteggio,method_ricorsione,skill_conteggio_sistematico,skill_manipolazione_algebrica"></span>
+<span class="atom-split" id="q07" data-atom="q07" data-title="Quesito 7" data-tags="topic_combinatoria,topic_aritmetica,method_conteggio,method_ricorsione,method_casework,skill_conteggio_sistematico,skill_manipolazione_algebrica,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -208,9 +214,9 @@ level: JMO Yosen
 > In how many ways can $100$ be expressed as a sum of some positive number of non-negative integers, each of which is at most $3$? Two expressions that differ only in the order of their terms are considered the same.
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_conteggio|Conteggio]], [[method_ricorsione|Ricorsione]]
-**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
-**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
+**Metodo:** [[method_conteggio|Conteggio]], [[method_ricorsione|Ricorsione]], [[method_casework|Case analysis]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Risposta:** 884
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1dFheML812ADMblBRJefEXRtupZ41nHlW/view)
 
@@ -223,14 +229,16 @@ level: JMO Yosen
 > In quanti modi si può scrivere $100$ come somma di un certo numero positivo di interi non negativi, ciascuno al più $3$? Due espressioni che differiscono solo per l'ordine degli addendi si considerano uguali.
 
 **Argomento:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei numeri]]
-**Metodo:** [[method_conteggio|Conteggio combinatorio]], [[method_ricorsione|Ricorsione]]
-**Abilità:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei numeri]]
+**Metodo:** [[method_conteggio|Conteggio combinatorio]], [[method_ricorsione|Ricorsione]], [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 884
-[[Quesiti/src_jmo17yq_yosen#q07|src_jmo17yq_yosen__Q07]]
 
 
 
-<span class="atom-split" id="q08" data-atom="q08" data-title="Quesito 8" data-tags="topic_geometria_solida,topic_combinatoria,method_casework,method_conteggio,skill_ragionamento_geometrico,skill_conteggio_sistematico"></span>
+<span class="atom-split" id="q08" data-atom="q08" data-title="Quesito 8" data-tags="topic_geometria_solida,topic_combinatoria,method_casework,method_conteggio,method_simmetria,skill_ragionamento_geometrico,skill_conteggio_sistematico,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -244,9 +252,9 @@ level: JMO Yosen
 > \end{itemize}
 
 **Topic:** [[topic_geometria_solida|Geometria solida]], [[topic_combinatoria|Combinatoria]]
-**Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]]
-**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_conteggio_sistematico|Conteggio sistematico]]
-**Area:** [[Geometria]], [[Combinatoria, Logica e Probabilita]]
+**Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]], [[method_simmetria|Using symmetry]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Geometria|Geometry]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1dFheML812ADMblBRJefEXRtupZ41nHlW/view)
 
 
@@ -262,13 +270,15 @@ level: JMO Yosen
 > \end{itemize}
 
 **Argomento:** [[topic_geometria_solida|Geometria solida]], [[topic_combinatoria|Combinatoria]]
-**Metodo:** [[method_casework|Analisi per casi]], [[method_conteggio|Conteggio combinatorio]]
-**Abilità:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_conteggio_sistematico|Conteggio sistematico]]
-[[Quesiti/src_jmo17yq_yosen#q08|src_jmo17yq_yosen__Q08]]
+
+**Topic:** [[topic_geometria_solida|Geometria solida]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casework|Analisi per casi]], [[method_conteggio|Conteggio combinatorio]], [[method_simmetria|Sfruttamento della simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Geometria]], [[Combinatoria, Logica e Probabilita]]
 
 
 
-<span class="atom-split" id="q09" data-atom="q09" data-title="Quesito 9" data-tags="topic_algebra,topic_aritmetica,method_fattorizzazione,method_casework,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
+<span class="atom-split" id="q09" data-atom="q09" data-title="Quesito 9" data-tags="topic_algebra,topic_aritmetica,method_fattorizzazione,method_casework,skill_manipolazione_algebrica,skill_lettura_attenta,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -280,8 +290,8 @@ level: JMO Yosen
 
 **Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_casework|Casework]]
-**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
-**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1dFheML812ADMblBRJefEXRtupZ41nHlW/view)
 
 
@@ -295,9 +305,11 @@ level: JMO Yosen
 > $$a^2 b^2 = 4a^3 + b^3.$$
 
 **Argomento:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei numeri]]
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei numeri]]
 **Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]], [[method_casework|Analisi per casi]]
-**Abilità:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta del testo]]
-[[Quesiti/src_jmo17yq_yosen#q09|src_jmo17yq_yosen__Q09]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta del testo]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 
 
 
@@ -327,11 +339,11 @@ level: JMO Yosen
 **Argomento:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei numeri]]
 **Metodo:** [[method_invarianti|Invarianti / monovarianti]], [[method_casework|Analisi per casi]], [[method_congruenze|Aritmetica modulare / congruenze]]
 **Abilità:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta del testo]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
-[[Quesiti/src_jmo17yq_yosen#q10|src_jmo17yq_yosen__Q10]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 
 
 
-<span class="atom-split" id="q11" data-atom="q11" data-title="Quesito 11" data-tags="topic_aritmetica,topic_combinatoria,method_casework,method_estremalita,skill_lettura_attenta,skill_manipolazione_algebrica,skill_ragionamento_geometrico"></span>
+<span class="atom-split" id="q11" data-atom="q11" data-title="Quesito 11" data-tags="topic_aritmetica,topic_combinatoria,method_casework,method_estremalita,skill_lettura_attenta,skill_manipolazione_algebrica,skill_ragionamento_geometrico,skill_casework_accurato,skill_riconoscimento_pattern"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -342,8 +354,8 @@ level: JMO Yosen
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_casework|Casework]], [[method_estremalita|Estremalità]]
-**Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
-**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+**Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_casework_accurato|Careful case analysis]], [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1dFheML812ADMblBRJefEXRtupZ41nHlW/view)
 
 
@@ -355,9 +367,11 @@ level: JMO Yosen
 > A una gara di matematica ogni partecipante riceve al più una medaglia: oro, argento o bronzo. Quando partecipano $n$ persone, il numero di medaglie d'oro assegnate è $\left\lfloor \dfrac{n}{a} \right\rfloor$, il numero di medaglie d'argento è $\left\lfloor \dfrac{n}{b} \right\rfloor$ e il numero di medaglie di bronzo è $\left\lfloor \dfrac{n}{c} \right\rfloor$, dove $a, b, c$ sono interi positivi con $a \ge b \ge c$. Nessuno riceve più di una medaglia. Per un dato intero non negativo $k$, si supponga che per ogni intero $n \ge 3$ il numero di valori di $n$ per i quali esattamente $k$ persone non ricevono alcuna medaglia sia esattamente $2$. Determinare tutte le terne $(a, b, c)$ di interi positivi che soddisfano questa condizione. (Qui $\lfloor r \rfloor$ indica il massimo intero che non supera il numero reale $r$.)
 
 **Argomento:** [[topic_aritmetica|Aritmetica / Teoria dei numeri]], [[topic_combinatoria|Combinatoria]]
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei numeri]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_casework|Analisi per casi]], [[method_estremalita|Principio di estremalità]]
-**Abilità:** [[skill_lettura_attenta|Lettura attenta del testo]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
-[[Quesiti/src_jmo17yq_yosen#q11|src_jmo17yq_yosen__Q11]]
+**Abilita:** [[skill_lettura_attenta|Lettura attenta del testo]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_casework_accurato|Casework accurato]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 
 
 
@@ -401,4 +415,4 @@ level: JMO Yosen
 **Argomento:** [[topic_combinatoria|Combinatoria]], [[topic_logica|Logica, giochi, strategie]]
 **Metodo:** [[method_estremalita|Principio di estremalità]], [[method_casework|Analisi per casi]]
 **Abilità:** [[skill_lettura_attenta|Lettura attenta del testo]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_stima|Stima e approssimazione]]
-[[Quesiti/src_jmo17yq_yosen#q12|src_jmo17yq_yosen__Q12]]
+**Area:** [[Combinatoria, Logica e Probabilita]]

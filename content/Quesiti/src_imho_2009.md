@@ -10,7 +10,7 @@ level: IMO
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_aritmetica,topic_combinatoria,method_invarianti,method_congruenze,skill_manipolazione_algebrica,skill_ragionamento_geometrico,skill_lettura_attenta"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_aritmetica,topic_combinatoria,method_invarianti,method_congruenze,method_casework,skill_manipolazione_algebrica,skill_ragionamento_geometrico,skill_lettura_attenta"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -20,9 +20,9 @@ level: IMO
 > Let $n$ be a positive integer and let $a_1, a_2, \ldots, a_k$ ($k \ge 2$) be distinct integers in the set $\{1, 2, \ldots, n\}$ such that $n$ divides $a_i(a_{i+1} - 1)$ for $i = 1, 2, \ldots, k-1$. Prove that $n$ does not divide $a_k(a_1 - 1)$.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
-**Metodo:** [[method_invarianti|Invarianti]], [[method_congruenze|Congruenze]]
+**Metodo:** [[method_invarianti|Invarianti]], [[method_congruenze|Congruenze]], [[method_casework|Case analysis]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
-**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1yWPSpe4JzF1XdoCtCDrzGR7th1ybnuJR/view)
 
 
@@ -33,12 +33,11 @@ level: IMO
 
 > Sia $n$ un numero intero positivo e siano $a_1, a_2, \ldots, a_k$ ($k \ge 2$) interi distinti appartenenti all'insieme $\{1, 2, \ldots, n\}$ tali che $n$ divide $a_i(a_{i+1} - 1)$ per $i = 1, 2, \ldots, k-1$. Dimostrare che $n$ non divide $a_k(a_1 - 1)$.
 
+
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
-**Metodo:** [[method_invarianti|Invarianti]], [[method_congruenze|Congruenze]]
+**Metodo:** [[method_invarianti|Invarianti]], [[method_congruenze|Congruenze]], [[method_casework|Analisi per casi]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
-
-[[Quesiti/src_imho_2009#q01|src_imho_2009__Q01]]
 
 
 
@@ -70,11 +69,9 @@ level: IMO
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Geometria]]
 
-[[Quesiti/src_imho_2009#q02|src_imho_2009__Q02]]
 
 
-
-<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_algebra,topic_combinatoria,method_induzione,method_ricorsione,method_telescoping,skill_manipolazione_algebrica,skill_riconoscimento_pattern,skill_lettura_attenta"></span>
+<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_algebra,topic_combinatoria,topic_funzionali,method_induzione,method_ricorsione,method_telescoping,skill_manipolazione_algebrica,skill_riconoscimento_pattern,skill_lettura_attenta"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -85,10 +82,10 @@ level: IMO
 > $$s_{s_1}, s_{s_2}, s_{s_3}, \ldots \quad \text{and} \quad s_{s_1+1}, s_{s_2+1}, s_{s_3+1}, \ldots$$
 > are both arithmetic progressions. Prove that the sequence $s_1, s_2, s_3, \ldots$ is an arithmetic progression.
 
-**Topic:** [[topic_algebra|Algebra]], [[topic_combinatoria|Combinatoria]]
+**Topic:** [[topic_algebra|Algebra]], [[topic_combinatoria|Combinatoria]], [[topic_funzionali|Functional equations / sequences]]
 **Metodo:** [[method_induzione|Induzione]], [[method_ricorsione|Ricorsione]], [[method_telescoping|Telescoping]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_lettura_attenta|Lettura attenta]]
-**Area:** [[Algebra e Analisi]], [[Combinatoria, Logica e Probabilita]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1yWPSpe4JzF1XdoCtCDrzGR7th1ybnuJR/view)
 
 
@@ -101,12 +98,11 @@ level: IMO
 > $$s_{s_1}, s_{s_2}, s_{s_3}, \ldots \quad \text{and} \quad s_{s_1+1}, s_{s_2+1}, s_{s_3+1}, \ldots$$
 > siano entrambe progressioni aritmetiche. Dimostrare che la successione $s_1, s_2, s_3, \ldots$ è una progressione aritmetica.
 
-**Topic:** [[topic_algebra|Algebra]], [[topic_combinatoria|Combinatoria]]
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_combinatoria|Combinatoria]], [[topic_funzionali|Equazioni funzionali / successioni]]
 **Metodo:** [[method_induzione|Induzione]], [[method_ricorsione|Ricorsione]], [[method_telescoping|Telescoping]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Algebra e Analisi]], [[Combinatoria, Logica e Probabilita]]
-
-[[Quesiti/src_imho_2009#q03|src_imho_2009__Q03]]
 
 
 
@@ -138,11 +134,9 @@ level: IMO
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Geometria]]
 
-[[Quesiti/src_imho_2009#q04|src_imho_2009__Q04]]
 
 
-
-<span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_funzionali,topic_algebra,method_casework,method_estremalita,method_induzione,skill_manipolazione_algebrica,skill_riconoscimento_pattern,skill_casework_accurato,skill_lettura_attenta"></span>
+<span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_funzionali,topic_algebra,topic_disuguaglianze,method_casework,method_estremalita,method_induzione,skill_manipolazione_algebrica,skill_riconoscimento_pattern,skill_casework_accurato,skill_lettura_attenta,skill_modellizzazione"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -153,10 +147,10 @@ level: IMO
 > $$a, \quad f(b) \quad \text{and} \quad f(b + f(a) - 1).$$
 > (A triangle is non-degenerate if its vertices are not collinear.)
 
-**Topic:** [[topic_funzionali|Equazioni funzionali]], [[topic_algebra|Algebra]]
+**Topic:** [[topic_funzionali|Equazioni funzionali]], [[topic_algebra|Algebra]], [[topic_disuguaglianze|Inequalities]]
 **Metodo:** [[method_casework|Casework]], [[method_estremalita|Estremalità]], [[method_induzione|Induzione]]
-**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_casework_accurato|Casework accurato]], [[skill_lettura_attenta|Lettura attenta]]
-**Area:** [[Algebra e Analisi]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_casework_accurato|Casework accurato]], [[skill_lettura_attenta|Lettura attenta]], [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1yWPSpe4JzF1XdoCtCDrzGR7th1ybnuJR/view)
 
 
@@ -169,12 +163,11 @@ level: IMO
 > $$a, \quad f(b) \quad \text{and} \quad f(b + f(a) - 1).$$
 > (Un triangolo è non degenero se i suoi vertici non sono allineati.)
 
-**Topic:** [[topic_funzionali|Equazioni funzionali]], [[topic_algebra|Algebra]]
-**Metodo:** [[method_casework|Casework]], [[method_estremalita|Estremalità]], [[method_induzione|Induzione]]
-**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_casework_accurato|Casework accurato]], [[skill_lettura_attenta|Lettura attenta]]
-**Area:** [[Algebra e Analisi]]
 
-[[Quesiti/src_imho_2009#q05|src_imho_2009__Q05]]
+**Topic:** [[topic_funzionali|Equazioni funzionali]], [[topic_algebra|Algebra]], [[topic_disuguaglianze|Disuguaglianze]]
+**Metodo:** [[method_casework|Casework]], [[method_estremalita|Estremalità]], [[method_induzione|Induzione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_casework_accurato|Casework accurato]], [[skill_lettura_attenta|Lettura attenta]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
+**Area:** [[Algebra e Analisi]]
 
 
 
@@ -205,5 +198,3 @@ level: IMO
 **Metodo:** [[method_invarianti|Invarianti]], [[method_estremalita|Estremalità]], [[method_induzione|Induzione]], [[method_grafi|Grafi]]
 **Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
-
-[[Quesiti/src_imho_2009#q06|src_imho_2009__Q06]]

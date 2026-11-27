@@ -10,7 +10,7 @@ level: JJMO Yosen
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_geometria_piana,method_coordinate,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_geometria_piana,method_coordinate,method_simmetria,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -19,12 +19,12 @@ level: JJMO Yosen
 
 > A figure made of $6$ squares, each of side length $1$, is inscribed in a circle as shown. Find the area of the region indicated by the hatching (the shaded region). Here, take the ratio of the circumference of a circle to its diameter to be $\pi$.
 
-![[src_jjmo13yq_yosen__q01.png]]
+![[src_jjmo13yq_yosen__Q01.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
-**Metodo:** [[method_coordinate|Coordinate]]
+**Metodo:** [[method_coordinate|Coordinate]], [[method_simmetria|Using symmetry]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
-**Area:** [[Geometria]]
+**Area:** [[Geometria|Geometry]]
 **Risposta:** $\frac{5\pi}{2}-2$
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1BE-TTqjPF7agVmsyvYU0Cy1JWbvEYsDX/view)
 
@@ -36,18 +36,17 @@ level: JJMO Yosen
 
 > Una figura composta da $6$ quadrati, ciascuno di lato $1$, è inscritta in una circonferenza come mostrato. Determinare l'area della regione indicata con l'ombreggiatura (la regione ombreggiata). Qui, si assuma che il rapporto tra la circonferenza di un cerchio e il suo diametro sia $\pi$.
 
-![[src_jjmo13yq_yosen__q01.png]]
+![[src_jjmo13yq_yosen__Q01.png]]
+
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
-**Metodo:** [[method_coordinate|Coordinate]]
+**Metodo:** [[method_coordinate|Coordinate]], [[method_simmetria|Sfruttamento della simmetria]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 
-[[Quesiti/src_jjmo13yq_yosen#q01|src_jjmo13yq_yosen__Q01]]
 
 
-
-<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_combinatoria,method_casework,method_conteggio,method_simmetria,skill_conteggio_sistematico,skill_casework_accurato"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_combinatoria,method_casework,method_conteggio,method_simmetria,method_grafi,skill_conteggio_sistematico,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -61,12 +60,12 @@ level: JJMO Yosen
 > \end{itemize}
 > How many such ways are there? Arrangements obtained from one another by rotation or reflection are regarded as the same.
 
-![[src_jjmo13yq_yosen__q02.png]]
+![[src_jjmo13yq_yosen__Q02.png]]
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
-**Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]], [[method_simmetria|Simmetria]]
+**Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]], [[method_simmetria|Simmetria]], [[method_grafi|Graph theory]]
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]]
-**Area:** [[Combinatoria, Logica e Probabilita]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Risposta:** 6
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1BE-TTqjPF7agVmsyvYU0Cy1JWbvEYsDX/view)
 
@@ -82,14 +81,13 @@ level: JJMO Yosen
 > \end{itemize}
 > Quante disposizioni di questo tipo esistono? Le disposizioni ottenute l'una dall'altra mediante rotazione o riflessione sono considerate identiche.
 
-![[src_jjmo13yq_yosen__q02.png]]
+![[src_jjmo13yq_yosen__Q02.png]]
+
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
-**Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]], [[method_simmetria|Simmetria]]
+**Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]], [[method_simmetria|Simmetria]], [[method_grafi|Teoria dei grafi]]
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
-
-[[Quesiti/src_jjmo13yq_yosen#q02|src_jjmo13yq_yosen__Q02]]
 
 
 
@@ -104,7 +102,7 @@ level: JJMO Yosen
 > $$\bigcirc \Rightarrow 0 \text{ or } 6,\qquad \ulcorner \Rightarrow 1 \text{ or } 7,\qquad \varphi \Rightarrow 4 \text{ or } 9.$$
 > The multiplication is written in the standard long-multiplication layout (a two-digit number times a two-digit number, with two partial products that are then added). There are exactly $2$ ways to reconstruct the original multiplication; find the original multiplications and, for each, the number written in the bottom row (the final product). Note: a blank place may hold any digit from $0$ to $9$, and the leading (highest-place) digit of each row must not be $0$.
 
-![[src_jjmo13yq_yosen__q03.png]]
+![[src_jjmo13yq_yosen__Q03.png]]
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_logica|Logica]]
 **Metodo:** [[method_casework|Casework]], [[method_congruenze|Congruenze]]
@@ -123,18 +121,16 @@ level: JJMO Yosen
 > $$\bigcirc \Rightarrow 0 \text{ or } 6,\qquad \ulcorner \Rightarrow 1 \text{ or } 7,\qquad \varphi \Rightarrow 4 \text{ or } 9.$$
 > La moltiplicazione è scritta nel formato standard della moltiplicazione in colonna (un numero di due cifre per un numero di due cifre, con due prodotti parziali che vengono poi sommati). Ci sono esattamente $2$ modi per ricostruire la moltiplicazione originale; determina le moltiplicazioni originali e, per ciascuna, il numero scritto nella riga inferiore (il prodotto finale). Nota: una casella vuota può contenere qualsiasi cifra da $0$ a $9$, e la cifra iniziale (della posizione più significativa) di ciascuna riga non deve essere $0$.
 
-![[src_jjmo13yq_yosen__q03.png]]
+![[src_jjmo13yq_yosen__Q03.png]]
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_logica|Logica]]
 **Metodo:** [[method_casework|Casework]], [[method_congruenze|Congruenze]]
 **Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 
-[[Quesiti/src_jjmo13yq_yosen#q03|src_jjmo13yq_yosen__Q03]]
 
 
-
-<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_aritmetica,topic_combinatoria,method_casework,skill_casework_accurato,skill_conteggio_sistematico"></span>
+<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_aritmetica,topic_combinatoria,method_casework,method_congruenze,skill_casework_accurato,skill_conteggio_sistematico"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -144,9 +140,9 @@ level: JJMO Yosen
 > There are cards labeled $1, 2, \ldots, 12$, one of each, $12$ cards in total. They are distributed to three people A, B, C, with $4$ cards each. For each person the sum of the squares of the numbers on their cards is computed: A's sum is $204$, B's sum is $211$, and C's sum is $235$. Determine the numbers on the cards distributed to A and to B.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
-**Metodo:** [[method_casework|Casework]]
+**Metodo:** [[method_casework|Casework]], [[method_congruenze|Modular arithmetic / congruences]]
 **Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_conteggio_sistematico|Conteggio sistematico]]
-**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Risposta:** $A: \{2,6,8,10\},\ B: \{4,5,7,11\}$
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1BE-TTqjPF7agVmsyvYU0Cy1JWbvEYsDX/view)
 
@@ -158,16 +154,15 @@ level: JJMO Yosen
 
 > Ci sono carte contrassegnate da $1, 2, \ldots, 12$, una per tipo, per un totale di $12$ carte. Vengono distribuite a tre persone, A, B e C, con $4$ carte ciascuna. Per ciascuna persona si calcola la somma dei quadrati dei numeri sulle proprie carte: la somma di A è $204$, quella di B è $211$ e quella di C è $235$. Determinare i numeri sulle carte distribuite ad A e a B.
 
+
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
-**Metodo:** [[method_casework|Casework]]
+**Metodo:** [[method_casework|Casework]], [[method_congruenze|Aritmetica modulare / congruenze]]
 **Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 
-[[Quesiti/src_jjmo13yq_yosen#q04|src_jjmo13yq_yosen__Q04]]
 
 
-
-<span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_geometria_piana,method_coordinate,method_trigonometria,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
+<span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_geometria_piana,method_coordinate,method_trigonometria,method_simmetria,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -176,12 +171,12 @@ level: JJMO Yosen
 
 > In a plane there are three circles $A$, $B$, $O$ (named by their centers). The radius of $A$ is $12$ and the radius of $B$ is $8$. Moreover $A$ and $B$ are mutually external (each lies outside the other), and both lie inside $O$. The center of $O$ is the midpoint of the segment joining the center of $A$ and the center of $B$. (Each of $A$ and $B$ is internally tangent to $O$.) Consider the chords of $O$ that are tangent to both $A$ and $B$; their lengths take $2$ values. Calling these $p$ and $q$ with $p > q$, find $p^2 - q^2$.
 
-![[src_jjmo13yq_yosen__q05.png]]
+![[src_jjmo13yq_yosen__Q05.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
-**Metodo:** [[method_coordinate|Coordinate]], [[method_trigonometria|Trigonometria]]
+**Metodo:** [[method_coordinate|Coordinate]], [[method_trigonometria|Trigonometria]], [[method_simmetria|Using symmetry]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
-**Area:** [[Geometria]]
+**Area:** [[Geometria|Geometry]]
 **Risposta:** 384
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1BE-TTqjPF7agVmsyvYU0Cy1JWbvEYsDX/view)
 
@@ -193,18 +188,17 @@ level: JJMO Yosen
 
 > In un piano ci sono tre cerchi $A$, $B$, $O$ (denominati in base ai loro centri). Il raggio di $A$ è $12$ e il raggio di $B$ è $8$. Inoltre, $A$ e $B$ sono esterni l'uno all'altro (ciascuno giace all'esterno dell'altro) e entrambi giacciono all'interno di $O$. Il centro di $O$ è il punto medio del segmento che unisce il centro di $A$ e il centro di $B$. (Ciascuno di $A$ e $B$ è tangente internamente a $O$.) Si considerino le corde di $O$ che sono tangenti sia a $A$ sia a $B$; le loro lunghezze assumono $2$ valori. Chiamando queste $p$ e $q$ con $p > q$, si determini $p^2 - q^2$.
 
-![[src_jjmo13yq_yosen__q05.png]]
+![[src_jjmo13yq_yosen__Q05.png]]
+
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
-**Metodo:** [[method_coordinate|Coordinate]], [[method_trigonometria|Trigonometria]]
+**Metodo:** [[method_coordinate|Coordinate]], [[method_trigonometria|Trigonometria]], [[method_simmetria|Sfruttamento della simmetria]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 
-[[Quesiti/src_jjmo13yq_yosen#q05|src_jjmo13yq_yosen__Q05]]
 
 
-
-<span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_combinatoria,method_ricorsione,method_conteggio,method_casework,skill_conteggio_sistematico,skill_riconoscimento_pattern"></span>
+<span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_combinatoria,method_ricorsione,method_conteggio,method_casework,skill_conteggio_sistematico,skill_riconoscimento_pattern,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -215,8 +209,8 @@ level: JJMO Yosen
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_ricorsione|Ricorsione]], [[method_conteggio|Conteggio]], [[method_casework|Casework]]
-**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
-**Area:** [[Combinatoria, Logica e Probabilita]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Risposta:** $2\cdot 3^{1007}$
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1BE-TTqjPF7agVmsyvYU0Cy1JWbvEYsDX/view)
 
@@ -228,16 +222,15 @@ level: JJMO Yosen
 
 > Ci sono $2015$ scatole disposte in fila. In ciascuna scatola mettiamo esattamente una palla, che è rossa, blu o bianca. Inoltre, nelle scatole in posizioni dispari partendo da sinistra non mettiamo una palla bianca, e scatole adiacenti non devono contenere palle dello stesso colore. Quante sono le modalità di collocazione delle palle?
 
+
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_ricorsione|Ricorsione]], [[method_conteggio|Conteggio]], [[method_casework|Casework]]
-**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 
-[[Quesiti/src_jjmo13yq_yosen#q06|src_jjmo13yq_yosen__Q06]]
 
 
-
-<span class="atom-split" id="q07" data-atom="q07" data-title="Quesito 7" data-tags="topic_algebra,method_fattorizzazione,skill_manipolazione_algebrica"></span>
+<span class="atom-split" id="q07" data-atom="q07" data-title="Quesito 7" data-tags="topic_algebra,method_fattorizzazione,skill_manipolazione_algebrica,skill_riconoscimento_pattern"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -249,8 +242,8 @@ level: JJMO Yosen
 
 **Topic:** [[topic_algebra|Algebra]]
 **Metodo:** [[method_fattorizzazione|Fattorizzazione]]
-**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
-**Area:** [[Algebra e Analisi]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
 **Risposta:** $\frac{1}{24}$
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1BE-TTqjPF7agVmsyvYU0Cy1JWbvEYsDX/view)
 
@@ -263,12 +256,11 @@ level: JJMO Yosen
 > Trovare il numero reale positivo $x$ che soddisfa la seguente equazione:
 > $$x + \sqrt{x(x+1)} + \sqrt{x(x+2)} + \sqrt{(x+1)(x+2)} = 2.$$
 
+
 **Topic:** [[topic_algebra|Algebra]]
 **Metodo:** [[method_fattorizzazione|Fattorizzazione]]
-**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Algebra e Analisi]]
-
-[[Quesiti/src_jjmo13yq_yosen#q07|src_jjmo13yq_yosen__Q07]]
 
 
 
@@ -305,8 +297,6 @@ level: JJMO Yosen
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 
-[[Quesiti/src_jjmo13yq_yosen#q08|src_jjmo13yq_yosen__Q08]]
-
 
 
 <span class="atom-split" id="q09" data-atom="q09" data-title="Quesito 9" data-tags="topic_geometria_piana,topic_trigonometria,method_trigonometria,skill_ragionamento_geometrico"></span>
@@ -338,11 +328,9 @@ level: JJMO Yosen
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]]
 
-[[Quesiti/src_jjmo13yq_yosen#q09|src_jjmo13yq_yosen__Q09]]
 
 
-
-<span class="atom-split" id="q10" data-atom="q10" data-title="Quesito 10" data-tags="topic_combinatoria,method_conteggio,method_inclusione_esclusione,method_invarianti,skill_conteggio_sistematico,skill_astrazione"></span>
+<span class="atom-split" id="q10" data-atom="q10" data-title="Quesito 10" data-tags="topic_combinatoria,method_conteggio,method_inclusione_esclusione,method_invarianti,skill_conteggio_sistematico,skill_astrazione,skill_modellizzazione"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -357,8 +345,8 @@ level: JJMO Yosen
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_conteggio|Conteggio]], [[method_inclusione_esclusione|Inclusione-esclusione]], [[method_invarianti|Invarianti]]
-**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_astrazione|Astrazione]]
-**Area:** [[Combinatoria, Logica e Probabilita]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_astrazione|Astrazione]], [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Risposta:** $6\cdot 4^{100}-6\cdot 3^{100}+2^{100}$
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1BE-TTqjPF7agVmsyvYU0Cy1JWbvEYsDX/view)
 
@@ -374,12 +362,11 @@ level: JJMO Yosen
 >
 > Operazione 2: Scegliere un intero $j$ tale che $1 \le j \le 100$ e far sì che ogni moneta nelle celle della colonna $j$ mostri la croce.
 
+
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_conteggio|Conteggio]], [[method_inclusione_esclusione|Inclusione-esclusione]], [[method_invarianti|Invarianti]]
-**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_astrazione|Astrazione]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_astrazione|Astrazione]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
-
-[[Quesiti/src_jjmo13yq_yosen#q10|src_jjmo13yq_yosen__Q10]]
 
 
 
@@ -412,11 +399,9 @@ level: JJMO Yosen
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 
-[[Quesiti/src_jjmo13yq_yosen#q11|src_jjmo13yq_yosen__Q11]]
 
 
-
-<span class="atom-split" id="q12" data-atom="q12" data-title="Quesito 12" data-tags="topic_combinatoria,method_invarianti,method_casework,skill_astrazione,skill_ragionamento_geometrico"></span>
+<span class="atom-split" id="q12" data-atom="q12" data-title="Quesito 12" data-tags="topic_combinatoria,topic_logica,method_invarianti,method_casework,skill_astrazione,skill_ragionamento_geometrico,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -427,10 +412,10 @@ level: JJMO Yosen
 > 
 > Operation: Choose one of the cells adjacent (up, down, left, or right) to the cell containing the piece, and swap the piece with the coin in that cell (exchange their positions).
 
-**Topic:** [[topic_combinatoria|Combinatoria]]
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_logica|Logic, games and strategies]]
 **Metodo:** [[method_invarianti|Invarianti]], [[method_casework|Casework]]
-**Abilita:** [[skill_astrazione|Astrazione]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
-**Area:** [[Combinatoria, Logica e Probabilita]]
+**Abilita:** [[skill_astrazione|Astrazione]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Risposta:** 47
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1BE-TTqjPF7agVmsyvYU0Cy1JWbvEYsDX/view)
 
@@ -444,9 +429,8 @@ level: JJMO Yosen
 >
 > Operazione: scegli una delle celle adiacenti (in su, in giù, a sinistra o a destra) alla cella che contiene il pezzo, e scambia il pezzo con la moneta che si trova in quella cella (scambiane le posizioni).
 
-**Topic:** [[topic_combinatoria|Combinatoria]]
-**Metodo:** [[method_invarianti|Invarianti]], [[method_casework|Casework]]
-**Abilita:** [[skill_astrazione|Astrazione]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
-**Area:** [[Combinatoria, Logica e Probabilita]]
 
-[[Quesiti/src_jjmo13yq_yosen#q12|src_jjmo13yq_yosen__Q12]]
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_logica|Logica, giochi, strategie]]
+**Metodo:** [[method_invarianti|Invarianti]], [[method_casework|Casework]]
+**Abilita:** [[skill_astrazione|Astrazione]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Combinatoria, Logica e Probabilita]]

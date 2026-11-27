@@ -94,11 +94,9 @@ level: squadre
 **Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
 **Area:** [[Geometria|Geometry]]
 
-[[Quesiti/src_kangourou_squadre_2024_finale#q01|src_kangourou_squadre_2024_finale__Q01]]
 
 
-
-<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_aritmetica,method_congruenze,skill_manipolazione_algebrica"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_aritmetica,method_congruenze,method_fattorizzazione,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -110,7 +108,7 @@ level: squadre
 > consecutivi sia di dieci interi positivi consecutivi?
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]]
+**Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]], [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 0135
@@ -124,12 +122,11 @@ level: squadre
 
 > Sums of Positives: What is the smallest positive integer that can be expressed as the sum of either nine consecutive positive integers or ten consecutive positive integers?
 
+
 **Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
-**Metodo:** [[method_congruenze|Modular arithmetic / congruences]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]], [[method_fattorizzazione|Factorisation / algebraic manipulation]]
 **Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
-
-[[Quesiti/src_kangourou_squadre_2024_finale#q02|src_kangourou_squadre_2024_finale__Q02]]
 
 
 
@@ -170,11 +167,9 @@ level: squadre
 **Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
 **Area:** [[Geometria|Geometry]]
 
-[[Quesiti/src_kangourou_squadre_2024_finale#q03|src_kangourou_squadre_2024_finale__Q03]]
 
 
-
-<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_aritmetica,method_casework,skill_casework_accurato"></span>
+<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_aritmetica,method_casework,skill_casework_accurato,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -187,7 +182,7 @@ level: squadre
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_casework|Analisi per casi]]
-**Abilita:** [[skill_casework_accurato|Casework accurato]]
+**Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 0679
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1not-5aEYzZLue8UjzSY2ummtyUxacBCg/view)
@@ -200,16 +195,15 @@ level: squadre
 
 > Prime numbers The three-digit number n = ABC (A ≠ 0) satisfies n = B × CB, where both B and CB are prime numbers. What is the value of n?
 
+
 **Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
 **Metodo:** [[method_casework|Case analysis]]
-**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
-[[Quesiti/src_kangourou_squadre_2024_finale#q04|src_kangourou_squadre_2024_finale__Q04]]
 
 
-
-<span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_aritmetica,skill_manipolazione_algebrica"></span>
+<span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_aritmetica,method_fattorizzazione,method_casework,skill_manipolazione_algebrica,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -222,7 +216,8 @@ level: squadre
 > romanzi, si ottiene 21.945. In quale anno ha pubblicato il suo primo romanzo?
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]], [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 1985
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1not-5aEYzZLue8UjzSY2ummtyUxacBCg/view)
@@ -235,15 +230,15 @@ level: squadre
 
 > The First Novel At a certain period in his life, a writer published a novel every two years. He certainly published more than 7 and fewer than 14 novels. Adding together the years in which his novels were published gives 21,945. In which year did he publish his first novel?
 
+
 **Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
-**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]], [[method_casework|Case analysis]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_casework_accurato|Careful case analysis]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
-[[Quesiti/src_kangourou_squadre_2024_finale#q05|src_kangourou_squadre_2024_finale__Q05]]
 
 
-
-<span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_aritmetica,topic_algebra,skill_riconoscimento_pattern"></span>
+<span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_aritmetica,topic_algebra,method_casework,skill_riconoscimento_pattern,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -257,8 +252,9 @@ level: squadre
 > intero che ha scritto?
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
-**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
-**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
+**Metodo:** [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 **Risposta:** 4047
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1not-5aEYzZLue8UjzSY2ummtyUxacBCg/view)
 
@@ -270,15 +266,15 @@ level: squadre
 
 > The sum is 2024. Simeone began writing positive integers, starting from 1, but he put a minus sign in front of all and only the even numbers. So he started by writing 1 – 2 + 3 – 4 + 5 – 6 + …. He stopped exactly when the algebraic sum that had been written came to 2024. What is the last integer he wrote?
 
+
 **Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_algebra|Algebra]]
-**Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]]
-**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
-
-[[Quesiti/src_kangourou_squadre_2024_finale#q06|src_kangourou_squadre_2024_finale__Q06]]
-
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Algebra e Analisi|Algebra and analysis]]
 
 
-<span class="atom-split" id="q07" data-atom="q07" data-title="Quesito 7" data-tags="topic_geometria_piana,skill_ragionamento_geometrico"></span>
+
+<span class="atom-split" id="q07" data-atom="q07" data-title="Quesito 7" data-tags="topic_geometria_piana,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -309,7 +305,7 @@ level: squadre
 > G
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
-**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 **Risposta:** 3276
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1not-5aEYzZLue8UjzSY2ummtyUxacBCg/view)
@@ -326,15 +322,14 @@ level: squadre
 >
 > } 36 20 } P Q A B C D E F G
 
+
 **Topic:** [[topic_geometria_piana|Plane geometry]]
-**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
 **Area:** [[Geometria|Geometry]]
 
-[[Quesiti/src_kangourou_squadre_2024_finale#q07|src_kangourou_squadre_2024_finale__Q07]]
 
 
-
-<span class="atom-split" id="q08" data-atom="q08" data-title="Quesito 8" data-tags="topic_algebra,skill_manipolazione_algebrica"></span>
+<span class="atom-split" id="q08" data-atom="q08" data-title="Quesito 8" data-tags="topic_algebra,topic_aritmetica,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -346,9 +341,9 @@ level: squadre
 > larghezza del 40%, e si diminuisce l’altezza del 10%, di quale percentuale aumenta il volume della 
 > scatola? (Rispondete senza il simbolo %.)
 
-**Topic:** [[topic_algebra|Algebra]]
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
-**Area:** [[Algebra e Analisi]]
+**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 0089
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1not-5aEYzZLue8UjzSY2ummtyUxacBCg/view)
 
@@ -360,15 +355,14 @@ level: squadre
 
 > The Box A box is in the shape of a rectangular parallelepiped. If its length is increased by 50% and its width by 40%, and its height is decreased by 10%, by what percentage does the volume of the box increase? (Answer without the % symbol.)
 
-**Topic:** [[topic_algebra|Algebra]]
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Arithmetic / Number theory]]
 **Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
-**Area:** [[Algebra e Analisi|Algebra and analysis]]
-
-[[Quesiti/src_kangourou_squadre_2024_finale#q08|src_kangourou_squadre_2024_finale__Q08]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
 
 
-<span class="atom-split" id="q09" data-atom="q09" data-title="Quesito 9" data-tags="topic_aritmetica,skill_modellizzazione"></span>
+<span class="atom-split" id="q09" data-atom="q09" data-title="Quesito 9" data-tags="topic_aritmetica,skill_modellizzazione,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -382,7 +376,7 @@ level: squadre
 > esatta a velocità costante, quante volte si troveranno affiancate per un incrocio o un sorpasso?
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 0100
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1not-5aEYzZLue8UjzSY2ummtyUxacBCg/view)
@@ -397,15 +391,14 @@ level: squadre
 > 30. If they set off at the same time from opposite sides and both swim in adjacent lanes for an hour
 > Moving exactly at a constant speed, how many times will they be side by side during an intersection or an overtaking maneuver?
 
+
 **Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
-**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
-[[Quesiti/src_kangourou_squadre_2024_finale#q09|src_kangourou_squadre_2024_finale__Q09]]
 
 
-
-<span class="atom-split" id="q10" data-atom="q10" data-title="Quesito 10" data-tags="topic_aritmetica,method_fattorizzazione,skill_conteggio_sistematico"></span>
+<span class="atom-split" id="q10" data-atom="q10" data-title="Quesito 10" data-tags="topic_aritmetica,method_fattorizzazione,skill_conteggio_sistematico,skill_riconoscimento_pattern"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -418,7 +411,7 @@ level: squadre
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
-**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 2569
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1not-5aEYzZLue8UjzSY2ummtyUxacBCg/view)
@@ -431,16 +424,15 @@ level: squadre
 
 > Smallest What is the smallest positive integer whose digits multiply to 540? (Write 0000 if you think such a number does not exist.)
 
+
 **Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
 **Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
-**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]], [[skill_riconoscimento_pattern|Pattern recognition]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
-[[Quesiti/src_kangourou_squadre_2024_finale#q10|src_kangourou_squadre_2024_finale__Q10]]
 
 
-
-<span class="atom-split" id="q11" data-atom="q11" data-title="Quesito 11" data-tags="topic_combinatoria,topic_aritmetica,method_colorazione,skill_ragionamento_geometrico"></span>
+<span class="atom-split" id="q11" data-atom="q11" data-title="Quesito 11" data-tags="topic_combinatoria,topic_aritmetica,method_colorazione,method_estremalita,skill_ragionamento_geometrico"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -455,9 +447,9 @@ level: squadre
 > sulle diagonali della griglia?
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_colorazione|Colorazione / parita]]
+**Metodo:** [[method_colorazione|Colorazione / parita]], [[method_estremalita|Principio di estremalita]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
-**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 0160
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1not-5aEYzZLue8UjzSY2ummtyUxacBCg/view)
 
@@ -469,16 +461,15 @@ level: squadre
 
 > The Grid In each cell of a square n × n grid, where n is a positive integer, an integer is placed such that the numbers in two adjacent cells (that is, cells that share a side) differ by exactly 1. The numbers 3 and 17 appear in the grid. If n is the smallest possible value consistent with the problem statement, what is the sum of the numbers that appear on the diagonals of the grid?
 
+
 **Topic:** [[topic_combinatoria|Combinatorics]], [[topic_aritmetica|Arithmetic / Number theory]]
-**Metodo:** [[method_colorazione|Colouring / parity]]
+**Metodo:** [[method_colorazione|Colouring / parity]], [[method_estremalita|Extremal principle]]
 **Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
-**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
-
-[[Quesiti/src_kangourou_squadre_2024_finale#q11|src_kangourou_squadre_2024_finale__Q11]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
 
 
-<span class="atom-split" id="q12" data-atom="q12" data-title="Quesito 12" data-tags="topic_aritmetica,skill_riconoscimento_pattern"></span>
+<span class="atom-split" id="q12" data-atom="q12" data-title="Quesito 12" data-tags="topic_aritmetica,method_simmetria,skill_riconoscimento_pattern,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -492,7 +483,8 @@ level: squadre
 > venticinquesima riga?
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Metodo:** [[method_simmetria|Sfruttamento della simmetria]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 7825
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1not-5aEYzZLue8UjzSY2ummtyUxacBCg/view)
@@ -505,15 +497,15 @@ level: squadre
 
 > Triangular array Imagine that the positive integers are listed in a (limitless) triangular array as suggested by the figure. What is the sum of the numbers in the twenty-fifth row?
 
+
 **Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
-**Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]]
+**Metodo:** [[method_simmetria|Using symmetry]]
+**Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
-[[Quesiti/src_kangourou_squadre_2024_finale#q12|src_kangourou_squadre_2024_finale__Q12]]
 
 
-
-<span class="atom-split" id="q13" data-atom="q13" data-title="Quesito 13" data-tags="topic_logica,topic_combinatoria,method_casework,skill_casework_accurato"></span>
+<span class="atom-split" id="q13" data-atom="q13" data-title="Quesito 13" data-tags="topic_logica,topic_combinatoria,method_casework,method_backward,skill_casework_accurato,skill_lettura_attenta"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -532,8 +524,8 @@ level: squadre
 > [0m0n] (nel caso dell’esempio [0100]).
 
 **Topic:** [[topic_logica|Logica, giochi, strategie]], [[topic_combinatoria|Combinatoria]]
-**Metodo:** [[method_casework|Analisi per casi]]
-**Abilita:** [[skill_casework_accurato|Casework accurato]]
+**Metodo:** [[method_casework|Analisi per casi]], [[method_backward|Ragionamento all'indietro]]
+**Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_lettura_attenta|Lettura attenta del testo]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0201
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1not-5aEYzZLue8UjzSY2ummtyUxacBCg/view)
@@ -548,16 +540,15 @@ level: squadre
 
 > The Tournament Four teams, A, B, C, and D, take part in a football tournament. Each team plays each of the other three teams once and only once. The final standings (3 points for a win, 1 for a draw, 0 for a loss) are the ones you see in the figure. A and C have each conceded only one goal; B and C have each scored only one goal; A has scored 3 goals. What is the result of the match between A and D? If the match ended with m goals for A and n goals for D (for example, 1–0), write [0m0n] (in the case of the example, [0100]).
 
+
 **Topic:** [[topic_logica|Logic, games and strategies]], [[topic_combinatoria|Combinatorics]]
-**Metodo:** [[method_casework|Case analysis]]
-**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Metodo:** [[method_casework|Case analysis]], [[method_backward|Working backwards]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]], [[skill_lettura_attenta|Careful reading of the text]]
 **Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
-[[Quesiti/src_kangourou_squadre_2024_finale#q13|src_kangourou_squadre_2024_finale__Q13]]
 
 
-
-<span class="atom-split" id="q14" data-atom="q14" data-title="Quesito 14" data-tags="topic_logica,method_estremalita,skill_casework_accurato"></span>
+<span class="atom-split" id="q14" data-atom="q14" data-title="Quesito 14" data-tags="topic_logica,topic_aritmetica,topic_combinatoria,method_estremalita,skill_casework_accurato,skill_modellizzazione"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -570,10 +561,10 @@ level: squadre
 > Mauro è la più alta possibile compatibilmente con quanto detto in 
 > precedenza: qual è questa somma?
 
-**Topic:** [[topic_logica|Logica, giochi, strategie]]
+**Topic:** [[topic_logica|Logica, giochi, strategie]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_estremalita|Principio di estremalita]]
-**Abilita:** [[skill_casework_accurato|Casework accurato]]
-**Area:** [[Combinatoria, Logica e Probabilita]]
+**Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 0090
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1not-5aEYzZLue8UjzSY2ummtyUxacBCg/view)
 
@@ -585,16 +576,15 @@ level: squadre
 
 > Mauro rolled a fair die 24 times. Every score from 1 to 6 came up at least once, but 1 came up more often than any other score. The sum of all the scores Mauro obtained is the highest possible consistent with what was said earlier: what is this sum?
 
-**Topic:** [[topic_logica|Logic, games and strategies]]
+
+**Topic:** [[topic_logica|Logic, games and strategies]], [[topic_aritmetica|Arithmetic / Number theory]], [[topic_combinatoria|Combinatorics]]
 **Metodo:** [[method_estremalita|Extremal principle]]
-**Abilita:** [[skill_casework_accurato|Careful case analysis]]
-**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
-
-[[Quesiti/src_kangourou_squadre_2024_finale#q14|src_kangourou_squadre_2024_finale__Q14]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]], [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
 
 
-<span class="atom-split" id="q15" data-atom="q15" data-title="Quesito 15" data-tags="topic_geometria_piana,method_coordinate,skill_ragionamento_geometrico"></span>
+<span class="atom-split" id="q15" data-atom="q15" data-title="Quesito 15" data-tags="topic_geometria_piana,method_coordinate,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -634,7 +624,7 @@ level: squadre
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_coordinate|Metodo delle coordinate]]
-**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 **Risposta:** 0218
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1not-5aEYzZLue8UjzSY2ummtyUxacBCg/view)
@@ -653,9 +643,8 @@ level: squadre
 >
 > Titles and answers
 
+
 **Topic:** [[topic_geometria_piana|Plane geometry]]
 **Metodo:** [[method_coordinate|Coordinate method]]
-**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
 **Area:** [[Geometria|Geometry]]
-
-[[Quesiti/src_kangourou_squadre_2024_finale#q15|src_kangourou_squadre_2024_finale__Q15]]

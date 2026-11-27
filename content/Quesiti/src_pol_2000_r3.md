@@ -10,7 +10,7 @@ level: Olimpiade Polacca Round 3
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_algebra,method_casework,method_estremalita,skill_manipolazione_algebrica,skill_casework_accurato"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_algebra,method_casework,method_estremalita,method_simmetria,skill_manipolazione_algebrica,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -21,9 +21,9 @@ level: Olimpiade Polacca Round 3
 > $$\begin{cases} x_2 + x_1^2 = 4x_1 \\ x_3 + x_2^2 = 4x_2 \\ \cdots\cdots \\ x_1 + x_n^2 = 4x_n. \end{cases}$$
 
 **Topic:** [[topic_algebra|Algebra]]
-**Metodo:** [[method_casework|Casework]], [[method_estremalita|Estremalità]]
+**Metodo:** [[method_casework|Casework]], [[method_estremalita|Estremalità]], [[method_simmetria|Using symmetry]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Casework accurato]]
-**Area:** [[Algebra e Analisi]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1nDWoQAPfWDLllzYEGHcK_5w05h4brUh9/view)
 
 
@@ -36,11 +36,11 @@ level: Olimpiade Polacca Round 3
 >
 > $$\begin{cases} x_2 + x_1^2 = 4x_1 \\ x_3 + x_2^2 = 4x_2 \\ \cdots\cdots \\ x_1 + x_n^2 = 4x_n. \end{cases}$$
 
-**Topic:** [[topic_algebra|Algebra]]
-**Metodo:** [[method_casework|Analisi per casi]], [[method_estremalita|Estremalità]]
-**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Analisi accurata dei casi]]
 
-[[Quesiti/src_pol_2000_r3#q01|src_pol_2000_r3__Q01]]
+**Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_casework|Analisi per casi]], [[method_estremalita|Estremalità]], [[method_simmetria|Sfruttamento della simmetria]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Analisi accurata dei casi]]
+**Area:** [[Algebra e Analisi]]
 
 
 
@@ -73,12 +73,11 @@ level: Olimpiade Polacca Round 3
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_simmetria|Simmetria]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
-
-[[Quesiti/src_pol_2000_r3#q02|src_pol_2000_r3__Q02]]
-
+**Area:** [[Geometria]]
 
 
-<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_aritmetica,method_casework,method_fattorizzazione,skill_riconoscimento_pattern,skill_casework_accurato"></span>
+
+<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_aritmetica,method_casework,method_fattorizzazione,method_estremalita,skill_riconoscimento_pattern,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -94,9 +93,9 @@ level: Olimpiade Polacca Round 3
 > Prove that the sequence $(p_n)$ is bounded.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_casework|Casework]], [[method_fattorizzazione|Fattorizzazione]]
+**Metodo:** [[method_casework|Casework]], [[method_fattorizzazione|Fattorizzazione]], [[method_estremalita|Extremal principle]]
 **Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_casework_accurato|Casework accurato]]
-**Area:** [[Aritmetica e Teoria dei Numeri]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1nDWoQAPfWDLllzYEGHcK_5w05h4brUh9/view)
 
 
@@ -110,15 +109,15 @@ level: Olimpiade Polacca Round 3
 > (ii) per $n \geq 3$, il numero $p_n$ è il massimo divisore proprio di $p_{n-1} + p_{n-2} + 2000$.
 > Dimostrare che la successione $(p_n)$ è limitata.
 
+
 **Topic:** [[topic_aritmetica|Aritmetica e teoria dei numeri]]
-**Metodo:** [[method_casework|Analisi per casi]], [[method_fattorizzazione|Fattorizzazione]]
+**Metodo:** [[method_casework|Analisi per casi]], [[method_fattorizzazione|Fattorizzazione]], [[method_estremalita|Principio di estremalita]]
 **Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di schemi]], [[skill_casework_accurato|Analisi accurata dei casi]]
-
-[[Quesiti/src_pol_2000_r3#q03|src_pol_2000_r3__Q03]]
-
+**Area:** [[Aritmetica e Teoria dei Numeri]]
 
 
-<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_geometria_solida,method_trigonometria,method_estremalita,skill_ragionamento_geometrico,skill_stima"></span>
+
+<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_geometria_solida,topic_trigonometria,topic_disuguaglianze,method_trigonometria,method_estremalita,skill_ragionamento_geometrico,skill_stima"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -128,10 +127,10 @@ level: Olimpiade Polacca Round 3
 > In a regular pyramid with top vertex $S$ and base $A_1 A_2 \ldots A_n$ each lateral edge forms an angle of $60^\circ$ with the base of the pyramid. For each $n \geq 3$ prove or disprove that there exist points $B_2, B_3, \ldots, B_n$ lying on the edges $A_2 S, A_3 S, \ldots, A_n S$, respectively, such that
 > $$A_1 B_2 + B_2 B_3 + \cdots + B_{n-1} B_n + B_n A_1 < 2 A_1 S.$$
 
-**Topic:** [[topic_geometria_solida|Geometria solida]]
+**Topic:** [[topic_geometria_solida|Geometria solida]], [[topic_trigonometria|Trigonometry]], [[topic_disuguaglianze|Inequalities]]
 **Metodo:** [[method_trigonometria|Trigonometria]], [[method_estremalita|Estremalità]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_stima|Stima]]
-**Area:** [[Geometria]]
+**Area:** [[Geometria|Geometry]], [[Algebra e Analisi|Algebra and analysis]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1nDWoQAPfWDLllzYEGHcK_5w05h4brUh9/view)
 
 
@@ -144,15 +143,15 @@ level: Olimpiade Polacca Round 3
 >
 > $$A_1 B_2 + B_2 B_3 + \cdots + B_{n-1} B_n + B_n A_1 < 2 A_1 S.$$
 
-**Topic:** [[topic_geometria_solida|Geometria solida]]
+
+**Topic:** [[topic_geometria_solida|Geometria solida]], [[topic_trigonometria|Trigonometria]], [[topic_disuguaglianze|Disuguaglianze]]
 **Metodo:** [[method_trigonometria|Trigonometria]], [[method_estremalita|Estremalità]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_stima|Stima]]
-
-[[Quesiti/src_pol_2000_r3#q04|src_pol_2000_r3__Q04]]
-
+**Area:** [[Geometria]], [[Algebra e Analisi]]
 
 
-<span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_combinatoria,method_doppio_conteggio,method_estremalita,skill_conteggio_sistematico,skill_astrazione"></span>
+
+<span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_combinatoria,method_doppio_conteggio,method_estremalita,method_congruenze,skill_conteggio_sistematico,skill_astrazione,skill_modellizzazione"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -162,9 +161,9 @@ level: Olimpiade Polacca Round 3
 > Given an integer $n \geq 2$, find the smallest number $k$ with the following property: From each set of $k$ squares of an $n \times n$ chessboard one can choose a subset such that each row and column of the chessboard contains an even number of squares from this subset.
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
-**Metodo:** [[method_doppio_conteggio|Doppio conteggio]], [[method_estremalita|Estremalità]]
-**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_astrazione|Astrazione]]
-**Area:** [[Combinatoria, Logica e Probabilita]]
+**Metodo:** [[method_doppio_conteggio|Doppio conteggio]], [[method_estremalita|Estremalità]], [[method_congruenze|Modular arithmetic / congruences]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_astrazione|Astrazione]], [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1nDWoQAPfWDLllzYEGHcK_5w05h4brUh9/view)
 
 
@@ -175,15 +174,15 @@ level: Olimpiade Polacca Round 3
 
 > Dato un intero $n \geq 2$, trovare il minimo numero $k$ con la proprietà seguente: da ogni insieme di $k$ caselle di una scacchiera $n \times n$ si può scegliere un sottoinsieme tale che ogni riga e ogni colonna della scacchiera contenga un numero pari di caselle di questo sottoinsieme.
 
+
 **Topic:** [[topic_combinatoria|Combinatoria]]
-**Metodo:** [[method_doppio_conteggio|Doppio conteggio]], [[method_estremalita|Estremalità]]
-**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_astrazione|Astrazione]]
-
-[[Quesiti/src_pol_2000_r3#q05|src_pol_2000_r3__Q05]]
-
+**Metodo:** [[method_doppio_conteggio|Doppio conteggio]], [[method_estremalita|Estremalità]], [[method_congruenze|Aritmetica modulare / congruenze]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_astrazione|Astrazione]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
 
 
-<span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_algebra,topic_funzionali,method_induzione,skill_manipolazione_algebrica,skill_astrazione"></span>
+
+<span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_algebra,topic_funzionali,method_induzione,method_fattorizzazione,skill_manipolazione_algebrica,skill_astrazione"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -195,9 +194,9 @@ level: Olimpiade Polacca Round 3
 > Prove that $P(x) = x$ for all $x$.
 
 **Topic:** [[topic_algebra|Algebra]], [[topic_funzionali|Equazioni funzionali]]
-**Metodo:** [[method_induzione|Induzione]]
+**Metodo:** [[method_induzione|Induzione]], [[method_fattorizzazione|Factorisation / algebraic manipulation]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]]
-**Area:** [[Algebra e Analisi]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1nDWoQAPfWDLllzYEGHcK_5w05h4brUh9/view)
 
 
@@ -212,8 +211,8 @@ level: Olimpiade Polacca Round 3
 >
 > Dimostrare che $P(x) = x$ per ogni $x$.
 
-**Topic:** [[topic_algebra|Algebra]], [[topic_funzionali|Equazioni funzionali e successioni]]
-**Metodo:** [[method_induzione|Induzione]]
-**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]]
 
-[[Quesiti/src_pol_2000_r3#q06|src_pol_2000_r3__Q06]]
+**Topic:** [[topic_algebra|Algebra]], [[topic_funzionali|Equazioni funzionali e successioni]]
+**Metodo:** [[method_induzione|Induzione]], [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]]
+**Area:** [[Algebra e Analisi]]

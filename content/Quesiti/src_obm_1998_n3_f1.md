@@ -37,8 +37,6 @@ level: OBM Nível 3
 **Abilita:** [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 
-[[Quesiti/src_obm_1998_n3_f1#q01|src_obm_1998_n3_f1__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_aritmetica,skill_lettura_attenta"></span>
@@ -68,11 +66,9 @@ level: OBM Nível 3
 **Abilita:** [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 
-[[Quesiti/src_obm_1998_n3_f1#q02|src_obm_1998_n3_f1__Q02]]
 
 
-
-<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_aritmetica,skill_lettura_attenta"></span>
+<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_aritmetica,method_coordinate,skill_lettura_attenta"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -82,8 +78,9 @@ level: OBM Nível 3
 > See Problem 5 of Level 2.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_coordinate|Coordinate method]]
 **Abilita:** [[skill_lettura_attenta|Lettura attenta]]
-**Area:** [[Aritmetica e Teoria dei Numeri]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Risposta:** B
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1stq_Sz22OCqhZ79mWE8Q-5TDDSwPY3fl/view)
 
@@ -95,11 +92,11 @@ level: OBM Nível 3
 
 > Vedi il problema 5 del livello 2.
 
+
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_coordinate|Metodo delle coordinate]]
 **Abilita:** [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
-
-[[Quesiti/src_obm_1998_n3_f1#q03|src_obm_1998_n3_f1__Q03]]
 
 
 
@@ -130,8 +127,6 @@ level: OBM Nível 3
 **Abilita:** [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 
-[[Quesiti/src_obm_1998_n3_f1#q04|src_obm_1998_n3_f1__Q04]]
-
 
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_aritmetica,skill_lettura_attenta"></span>
@@ -161,11 +156,9 @@ level: OBM Nível 3
 **Abilita:** [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 
-[[Quesiti/src_obm_1998_n3_f1#q05|src_obm_1998_n3_f1__Q05]]
 
 
-
-<span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_aritmetica,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
+<span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_aritmetica,method_fattorizzazione,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -185,8 +178,9 @@ level: OBM Nível 3
 > E) $0{,}6666\ldots$
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
-**Area:** [[Aritmetica e Teoria dei Numeri]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Risposta:** E
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1stq_Sz22OCqhZ79mWE8Q-5TDDSwPY3fl/view)
 
@@ -208,11 +202,11 @@ level: OBM Nível 3
 >
 > E) $0{,}6666\ldots$
 
+
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
-
-[[Quesiti/src_obm_1998_n3_f1#q06|src_obm_1998_n3_f1__Q06]]
 
 
 
@@ -242,8 +236,6 @@ level: OBM Nível 3
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Abilita:** [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
-
-[[Quesiti/src_obm_1998_n3_f1#q07|src_obm_1998_n3_f1__Q07]]
 
 
 
@@ -296,8 +288,6 @@ level: OBM Nível 3
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 
-[[Quesiti/src_obm_1998_n3_f1#q08|src_obm_1998_n3_f1__Q08]]
-
 
 
 <span class="atom-split" id="q09" data-atom="q09" data-title="Quesito 9" data-tags="topic_aritmetica,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
@@ -347,8 +337,6 @@ level: OBM Nível 3
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 
-[[Quesiti/src_obm_1998_n3_f1#q09|src_obm_1998_n3_f1__Q09]]
-
 
 
 <span class="atom-split" id="q10" data-atom="q10" data-title="Quesito 10" data-tags="topic_aritmetica,skill_lettura_attenta"></span>
@@ -378,11 +366,9 @@ level: OBM Nível 3
 **Abilita:** [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 
-[[Quesiti/src_obm_1998_n3_f1#q10|src_obm_1998_n3_f1__Q10]]
 
 
-
-<span class="atom-split" id="q11" data-atom="q11" data-title="Quesito 11" data-tags="topic_algebra,method_ricorsione,method_invarianti,skill_riconoscimento_pattern,skill_manipolazione_algebrica"></span>
+<span class="atom-split" id="q11" data-atom="q11" data-title="Quesito 11" data-tags="topic_algebra,topic_insiemi_funzioni,method_ricorsione,method_invarianti,skill_riconoscimento_pattern,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -401,10 +387,10 @@ level: OBM Nível 3
 > 
 > E) $2^{501}$
 
-**Topic:** [[topic_algebra|Algebra]]
+**Topic:** [[topic_algebra|Algebra]], [[topic_insiemi_funzioni|Sets and functions]]
 **Metodo:** [[method_ricorsione|Ricorsione]], [[method_invarianti|Invarianti]]
 **Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
-**Area:** [[Algebra e Analisi]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
 **Risposta:** A
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1stq_Sz22OCqhZ79mWE8Q-5TDDSwPY3fl/view)
 
@@ -426,12 +412,11 @@ level: OBM Nível 3
 >
 > E) $2^{501}$
 
-**Topic:** [[topic_algebra|Algebra]]
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_insiemi_funzioni|Insiemi e funzioni]]
 **Metodo:** [[method_ricorsione|Ricorsione]], [[method_invarianti|Invarianti]]
 **Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Algebra e Analisi]]
-
-[[Quesiti/src_obm_1998_n3_f1#q11|src_obm_1998_n3_f1__Q11]]
 
 
 
@@ -484,8 +469,6 @@ level: OBM Nível 3
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 
-[[Quesiti/src_obm_1998_n3_f1#q12|src_obm_1998_n3_f1__Q12]]
-
 
 
 <span class="atom-split" id="q13" data-atom="q13" data-title="Quesito 13" data-tags="topic_geometria_solida,method_estremalita,skill_ragionamento_geometrico,skill_astrazione"></span>
@@ -537,8 +520,6 @@ level: OBM Nível 3
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_astrazione|Astrazione]]
 **Area:** [[Geometria]]
 
-[[Quesiti/src_obm_1998_n3_f1#q13|src_obm_1998_n3_f1__Q13]]
-
 
 
 <span class="atom-split" id="q14" data-atom="q14" data-title="Quesito 14" data-tags="topic_algebra,skill_modellizzazione,skill_manipolazione_algebrica"></span>
@@ -587,8 +568,6 @@ level: OBM Nível 3
 **Topic:** [[topic_algebra|Algebra]]
 **Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Algebra e Analisi]]
-
-[[Quesiti/src_obm_1998_n3_f1#q14|src_obm_1998_n3_f1__Q14]]
 
 
 
@@ -639,11 +618,9 @@ level: OBM Nível 3
 **Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]], [[Aritmetica e Teoria dei Numeri]]
 
-[[Quesiti/src_obm_1998_n3_f1#q15|src_obm_1998_n3_f1__Q15]]
 
 
-
-<span class="atom-split" id="q16" data-atom="q16" data-title="Quesito 16" data-tags="topic_insiemi_funzioni,topic_algebra,method_estremalita,skill_manipolazione_algebrica,skill_ragionamento_geometrico"></span>
+<span class="atom-split" id="q16" data-atom="q16" data-title="Quesito 16" data-tags="topic_insiemi_funzioni,topic_algebra,method_estremalita,method_casework,skill_manipolazione_algebrica,skill_ragionamento_geometrico"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -663,9 +640,9 @@ level: OBM Nível 3
 > E) $\dfrac{19}{4}$
 
 **Topic:** [[topic_insiemi_funzioni|Insiemi e funzioni]], [[topic_algebra|Algebra]]
-**Metodo:** [[method_estremalita|Estremalità]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_casework|Case analysis]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
-**Area:** [[Algebra e Analisi]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
 **Risposta:** D
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1stq_Sz22OCqhZ79mWE8Q-5TDDSwPY3fl/view)
 
@@ -687,12 +664,11 @@ level: OBM Nível 3
 >
 > E) $\dfrac{19}{4}$
 
+
 **Topic:** [[topic_insiemi_funzioni|Insiemi e funzioni]], [[topic_algebra|Algebra]]
-**Metodo:** [[method_estremalita|Estremalità]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_casework|Analisi per casi]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Algebra e Analisi]]
-
-[[Quesiti/src_obm_1998_n3_f1#q16|src_obm_1998_n3_f1__Q16]]
 
 
 
@@ -742,8 +718,6 @@ level: OBM Nível 3
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
-
-[[Quesiti/src_obm_1998_n3_f1#q17|src_obm_1998_n3_f1__Q17]]
 
 
 
@@ -810,8 +784,6 @@ level: OBM Nível 3
 **Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 
-[[Quesiti/src_obm_1998_n3_f1#q18|src_obm_1998_n3_f1__Q18]]
-
 
 
 <span class="atom-split" id="q19" data-atom="q19" data-title="Quesito 19" data-tags="topic_disuguaglianze,method_disuguaglianze,skill_manipolazione_algebrica,skill_casework_accurato"></span>
@@ -863,8 +835,6 @@ level: OBM Nível 3
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Algebra e Analisi]]
 
-[[Quesiti/src_obm_1998_n3_f1#q19|src_obm_1998_n3_f1__Q19]]
-
 
 
 <span class="atom-split" id="q20" data-atom="q20" data-title="Quesito 20" data-tags="topic_combinatoria,method_conteggio,method_casework,skill_conteggio_sistematico"></span>
@@ -888,7 +858,7 @@ level: OBM Nível 3
 > 
 > E) $64$
 
-![[src_obm_1998_n3_f1__q20.png]]
+![[src_obm_1998_n3_f1__Q20.png]]
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_conteggio|Conteggio]], [[method_casework|Casework]]
@@ -917,14 +887,12 @@ level: OBM Nível 3
 >
 > E) $64$
 
-![[src_obm_1998_n3_f1__q20.png]]
+![[src_obm_1998_n3_f1__Q20.png]]
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_conteggio|Conteggio]], [[method_casework|Casework]]
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
-
-[[Quesiti/src_obm_1998_n3_f1#q20|src_obm_1998_n3_f1__Q20]]
 
 
 
@@ -977,8 +945,6 @@ level: OBM Nível 3
 **Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]]
 
-[[Quesiti/src_obm_1998_n3_f1#q21|src_obm_1998_n3_f1__Q21]]
-
 
 
 <span class="atom-split" id="q22" data-atom="q22" data-title="Quesito 22" data-tags="topic_algebra,skill_modellizzazione,skill_manipolazione_algebrica"></span>
@@ -1028,8 +994,6 @@ level: OBM Nível 3
 **Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Algebra e Analisi]]
 
-[[Quesiti/src_obm_1998_n3_f1#q22|src_obm_1998_n3_f1__Q22]]
-
 
 
 <span class="atom-split" id="q23" data-atom="q23" data-title="Quesito 23" data-tags="topic_aritmetica,skill_lettura_attenta"></span>
@@ -1058,8 +1022,6 @@ level: OBM Nível 3
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Abilita:** [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
-
-[[Quesiti/src_obm_1998_n3_f1#q23|src_obm_1998_n3_f1__Q23]]
 
 
 
@@ -1112,8 +1074,6 @@ level: OBM Nível 3
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Algebra e Analisi]]
 
-[[Quesiti/src_obm_1998_n3_f1#q24|src_obm_1998_n3_f1__Q24]]
-
 
 
 <span class="atom-split" id="q25" data-atom="q25" data-title="Quesito 25" data-tags="topic_combinatoria,topic_geometria_solida,method_conteggio,method_casework,skill_conteggio_sistematico,skill_ragionamento_geometrico,skill_astrazione"></span>
@@ -1164,5 +1124,3 @@ level: OBM Nível 3
 **Metodo:** [[method_conteggio|Conteggio]], [[method_casework|Casework]]
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_astrazione|Astrazione]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
-
-[[Quesiti/src_obm_1998_n3_f1#q25|src_obm_1998_n3_f1__Q25]]

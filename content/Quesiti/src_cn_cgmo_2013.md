@@ -19,7 +19,7 @@ level: China Girls' Mathematical Olympiad
 
 > As shown in Fig. 2.1, in a trapezoid $ABCD$, $AB \parallel CD$, $\odot O_1$ is tangent to the segments $DA$, $AB$, $BC$, $\odot O_2$ is tangent to the segments $BC$, $CD$, $DA$. Let $P$ be the tangent point of $\odot O_1$ with $AB$, and $Q$ be the tangent point of $\odot O_2$ with $CD$. Prove that $AC$, $BD$, $PQ$ are concurrent.
 
-![[src_cn_cgmo_b11_w225__q02.png]]
+![[src_cn_cgmo_b11_w225__Q02.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_trigonometria|Trigonometria]], [[method_simmetria|Simmetria]]
@@ -35,18 +35,16 @@ level: China Girls' Mathematical Olympiad
 
 > Come mostrato nella Fig. 2.1, in un trapezio $ABCD$, $AB \parallel CD$, $\odot O_1$ è tangente ai segmenti $DA$, $AB$, $BC$, $\odot O_2$ è tangente ai segmenti $BC$, $CD$, $DA$. Sia $P$ il punto di tangenza di $\odot O_1$ con $AB$, e sia $Q$ il punto di tangenza di $\odot O_2$ con $CD$. Dimostrare che $AC$, $BD$, $PQ$ sono concorrenti.
 
-![[src_cn_cgmo_b11_w225__q02.png]]
+![[src_cn_cgmo_b11_w225__Q02.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_trigonometria|Trigonometria]], [[method_simmetria|Simmetria]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Geometria]]
 
-[[Quesiti/src_cn_cgmo_2013#q02|src_cn_cgmo_2013__Q02]]
 
 
-
-<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_combinatoria,method_doppio_conteggio,method_estremalita,skill_modellizzazione,skill_conteggio_sistematico,skill_ragionamento_geometrico"></span>
+<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_combinatoria,method_doppio_conteggio,method_estremalita,method_grafi,skill_modellizzazione,skill_conteggio_sistematico,skill_ragionamento_geometrico"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -56,9 +54,9 @@ level: China Girls' Mathematical Olympiad
 > In a group of $n$ girls and $n$ boys, any two of them know each other, or do not know each other. For any two boys and two girls, at least one boy and one girl do not know each other. Prove that the number of boy-girl pairs that know each other is at most $\dfrac{n(n-1)}{2}$.
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
-**Metodo:** [[method_doppio_conteggio|Doppio conteggio]], [[method_estremalita|Estremalità]]
+**Metodo:** [[method_doppio_conteggio|Doppio conteggio]], [[method_estremalita|Estremalità]], [[method_grafi|Graph theory]]
 **Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
-**Area:** [[Combinatoria, Logica e Probabilita]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1cjmD7lTT4vb3nB3ylcVCHeHucUE2rNI0/view)
 
 
@@ -69,16 +67,15 @@ level: China Girls' Mathematical Olympiad
 
 > In un gruppo di $n$ ragazze e $n$ ragazzi, ogni coppia di loro si conosce oppure non si conosce. Per ogni coppia di ragazzi e ogni coppia di ragazze, almeno un ragazzo e almeno una ragazza non si conoscono. Dimostrare che il numero delle coppie formate da un ragazzo e una ragazza che si conoscono è al più $\dfrac{n(n-1)}{2}$.
 
+
 **Topic:** [[topic_combinatoria|Combinatoria]]
-**Metodo:** [[method_doppio_conteggio|Doppio conteggio]], [[method_estremalita|Estremalità]]
+**Metodo:** [[method_doppio_conteggio|Doppio conteggio]], [[method_estremalita|Estremalità]], [[method_grafi|Teoria dei grafi]]
 **Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 
-[[Quesiti/src_cn_cgmo_2013#q03|src_cn_cgmo_2013__Q03]]
 
 
-
-<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_aritmetica,topic_algebra,method_congruenze,method_fattorizzazione,method_casework,skill_manipolazione_algebrica,skill_conteggio_sistematico,skill_riconoscimento_pattern"></span>
+<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_aritmetica,topic_algebra,method_congruenze,method_fattorizzazione,method_casework,method_conteggio,skill_manipolazione_algebrica,skill_conteggio_sistematico,skill_riconoscimento_pattern"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -92,9 +89,9 @@ level: China Girls' Mathematical Olympiad
 > (2) the difference of any two numbers among $f(1), f(2), \ldots, f(2013)$ is not a multiple of $2013$.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
-**Metodo:** [[method_congruenze|Congruenze]], [[method_fattorizzazione|Fattorizzazione]], [[method_casework|Casework]]
+**Metodo:** [[method_congruenze|Congruenze]], [[method_fattorizzazione|Fattorizzazione]], [[method_casework|Casework]], [[method_conteggio|Combinatorial counting]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
-**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Algebra e Analisi|Algebra and analysis]]
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1cjmD7lTT4vb3nB3ylcVCHeHucUE2rNI0/view)
 
 
@@ -109,12 +106,11 @@ level: China Girls' Mathematical Olympiad
 >
 > (2) la differenza di due qualunque numeri tra $f(1), f(2), \ldots, f(2013)$ non è un multiplo di $2013$.
 
+
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
-**Metodo:** [[method_congruenze|Congruenze]], [[method_fattorizzazione|Fattorizzazione]], [[method_casework|Casework]]
+**Metodo:** [[method_congruenze|Congruenze]], [[method_fattorizzazione|Fattorizzazione]], [[method_casework|Casework]], [[method_conteggio|Conteggio combinatorio]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
-
-[[Quesiti/src_cn_cgmo_2013#q04|src_cn_cgmo_2013__Q04]]
 
 
 
@@ -148,8 +144,6 @@ level: China Girls' Mathematical Olympiad
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]], [[skill_stima|Stima]]
 **Area:** [[Algebra e Analisi]]
 
-[[Quesiti/src_cn_cgmo_2013#q05|src_cn_cgmo_2013__Q05]]
-
 
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_aritmetica,topic_combinatoria,method_congruenze,method_invarianti,method_casework,skill_riconoscimento_pattern,skill_manipolazione_algebrica,skill_astrazione"></span>
@@ -180,8 +174,6 @@ level: China Girls' Mathematical Olympiad
 **Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 
-[[Quesiti/src_cn_cgmo_2013#q06|src_cn_cgmo_2013__Q06]]
-
 
 
 <span class="atom-split" id="q07" data-atom="q07" data-title="Quesito 7" data-tags="topic_geometria_piana,method_trigonometria,method_simmetria,skill_ragionamento_geometrico,skill_lettura_attenta,skill_modellizzazione"></span>
@@ -193,7 +185,7 @@ level: China Girls' Mathematical Olympiad
 
 > As shown in Fig. 7.1 and Fig. 7.2, $\odot O_1$ and $\odot O_2$ are tangent externally at point $T$. The quadrilateral $ABCD$ is inscribed in $\odot O_1$. The lines $DA$ and $CB$ intersect $\odot O_2$ at points $E$ and $F$, respectively. $BN$, the bisector of $\angle ABF$, intersects the segment $EF$ at point $N$. Line $FT$ intersects the arc $AT$ (which does not contain $B$) at point $M$. Prove that $M$ is the excenter of $\triangle BCN$.
 
-![[src_cn_cgmo_b11_w225__q07.png]]
+![[src_cn_cgmo_b11_w225__Q07.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_trigonometria|Trigonometria]], [[method_simmetria|Simmetria]]
@@ -209,14 +201,12 @@ level: China Girls' Mathematical Olympiad
 
 > Come mostrato nelle Fig. 7.1 e 7.2, $\odot O_1$ e $\odot O_2$ sono tangenti esternamente nel punto $T$. Il quadrilatero $ABCD$ è inscritto in $\odot O_1$. Le rette $DA$ e $CB$ intersecano $\odot O_2$ nei punti $E$ e $F$, rispettivamente. $BN$, la bisettrice di $\angle ABF$, interseca il segmento $EF$ nel punto $N$. La retta $FT$ interseca l'arco $AT$ (che non contiene $B$) nel punto $M$. Dimostrare che $M$ è l'escentro di $\triangle BCN$.
 
-![[src_cn_cgmo_b11_w225__q07.png]]
+![[src_cn_cgmo_b11_w225__Q07.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_trigonometria|Trigonometria]], [[method_simmetria|Simmetria]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_modellizzazione|Modellizzazione]]
 **Area:** [[Geometria]]
-
-[[Quesiti/src_cn_cgmo_2013#q07|src_cn_cgmo_2013__Q07]]
 
 
 
@@ -247,5 +237,3 @@ level: China Girls' Mathematical Olympiad
 **Metodo:** [[method_invarianti|Invarianti]], [[method_induzione|Induzione]], [[method_casework|Casework]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
-
-[[Quesiti/src_cn_cgmo_2013#q08|src_cn_cgmo_2013__Q08]]

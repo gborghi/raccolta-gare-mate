@@ -42,11 +42,9 @@ level: kangourou
 **Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
-[[Quesiti/src_kangourou_2023_student_semifinale#q01|src_kangourou_2023_student_semifinale__Q01]]
 
 
-
-<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_aritmetica,topic_combinatoria,method_conteggio,skill_conteggio_sistematico"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_aritmetica,topic_combinatoria,method_conteggio,method_casework,skill_conteggio_sistematico,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -60,8 +58,8 @@ level: kangourou
 > A) 4           B) 8            C) 12           D) 16           E) 20
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
-**Metodo:** [[method_conteggio|Conteggio combinatorio]]
-**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Metodo:** [[method_conteggio|Conteggio combinatorio]], [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/17wN7_TxtL2XNFx2kdzlzgXEZ6W2jTp-F/view)
 
@@ -74,16 +72,15 @@ level: kangourou
 > (Point 3) The code for a safe deposit box is a four-digit number. The sum of the last two digits is a two-digit prime number whose digits, read in order, are the first two digits of the code. With only this information available, what is the maximum number of attempts needed to open the box?
 > A) 4           B) 8            C) 12           D) 16           E) 20
 
+
 **Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_combinatoria|Combinatorics]]
-**Metodo:** [[method_conteggio|Combinatorial counting]]
-**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Metodo:** [[method_conteggio|Combinatorial counting]], [[method_casework|Case analysis]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]], [[skill_casework_accurato|Careful case analysis]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
-[[Quesiti/src_kangourou_2023_student_semifinale#q02|src_kangourou_2023_student_semifinale__Q02]]
 
 
-
-<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_aritmetica,method_casework,skill_conteggio_sistematico"></span>
+<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_aritmetica,method_casework,method_fattorizzazione,skill_conteggio_sistematico,skill_stima"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -95,8 +92,8 @@ level: kangourou
 > A) 18           B) 21           C) 23          D) 25           E) Esiste più di una possibilità
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_casework|Analisi per casi]]
-**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Metodo:** [[method_casework|Analisi per casi]], [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_stima|Stima e approssimazione]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/17wN7_TxtL2XNFx2kdzlzgXEZ6W2jTp-F/view)
 
@@ -109,16 +106,15 @@ level: kangourou
 > (Point 3) The product of 9 integers written using only the digits 2 and/or 3 is a number between 600 and 1200. What is the sum of the digits of this product?
 > A) 18 B) 21 C) 23 D) 25 E) There is more than one possibility
 
+
 **Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
-**Metodo:** [[method_casework|Case analysis]]
-**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Metodo:** [[method_casework|Case analysis]], [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]], [[skill_stima|Estimation and approximation]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
-[[Quesiti/src_kangourou_2023_student_semifinale#q03|src_kangourou_2023_student_semifinale__Q03]]
 
 
-
-<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_aritmetica,method_estremalita,skill_casework_accurato"></span>
+<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_aritmetica,method_estremalita,method_casework,skill_casework_accurato,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -131,8 +127,8 @@ level: kangourou
 > A) 782           B) 892           C) 893          D) 908           E) 987
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_estremalita|Principio di estremalita]]
-**Abilita:** [[skill_casework_accurato|Casework accurato]]
+**Metodo:** [[method_estremalita|Principio di estremalita]], [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/17wN7_TxtL2XNFx2kdzlzgXEZ6W2jTp-F/view)
 
@@ -145,16 +141,15 @@ level: kangourou
 > (Points 4) Three three-digit integers are given (that is, the first digit of each cannot be 0), denoted by TAP, BAT, and CAD, where each letter represents a digit and different letters represent different digits. It is known that TAP + BAT = CAD. What is the greatest possible value of the number CAD?
 > A) 782           B) 892           C) 893          D) 908           E) 987
 
+
 **Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
-**Metodo:** [[method_estremalita|Extremal principle]]
-**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Metodo:** [[method_estremalita|Extremal principle]], [[method_casework|Case analysis]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
-[[Quesiti/src_kangourou_2023_student_semifinale#q04|src_kangourou_2023_student_semifinale__Q04]]
 
 
-
-<span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_geometria_solida,method_casework,skill_ragionamento_geometrico"></span>
+<span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_geometria_solida,method_casework,method_estremalita,skill_ragionamento_geometrico"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -167,7 +162,7 @@ level: kangourou
 > A) 8            B) 9             C) 10             D) 11            12) 12
 
 **Topic:** [[topic_geometria_solida|Geometria solida]]
-**Metodo:** [[method_casework|Analisi per casi]]
+**Metodo:** [[method_casework|Analisi per casi]], [[method_estremalita|Principio di estremalita]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/17wN7_TxtL2XNFx2kdzlzgXEZ6W2jTp-F/view)
@@ -181,12 +176,11 @@ level: kangourou
 > (Point 4) Three spheres of radius 1 are arranged in space such that their centers form an equilateral triangle with side length 3. What is the greatest number of regions into which the assembly of the three spheres can be divided by cutting the spheres with two planes?
 > A) 8            B) 9             C) 10             D) 11            12) 12
 
+
 **Topic:** [[topic_geometria_solida|Solid geometry]]
-**Metodo:** [[method_casework|Case analysis]]
+**Metodo:** [[method_casework|Case analysis]], [[method_estremalita|Extremal principle]]
 **Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
 **Area:** [[Geometria|Geometry]]
-
-[[Quesiti/src_kangourou_2023_student_semifinale#q05|src_kangourou_2023_student_semifinale__Q05]]
 
 
 
@@ -220,8 +214,6 @@ level: kangourou
 **Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
 **Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
 **Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
-
-[[Quesiti/src_kangourou_2023_student_semifinale#q06|src_kangourou_2023_student_semifinale__Q06]]
 
 
 
@@ -257,8 +249,6 @@ level: kangourou
 **Metodo:** [[method_congruenze|Modular arithmetic / congruences]]
 **Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
-
-[[Quesiti/src_kangourou_2023_student_semifinale#q07|src_kangourou_2023_student_semifinale__Q07]]
 
 
 
@@ -310,11 +300,9 @@ level: kangourou
 **Abilita:** [[skill_casework_accurato|Careful case analysis]]
 **Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
-[[Quesiti/src_kangourou_2023_student_semifinale#q08|src_kangourou_2023_student_semifinale__Q08]]
 
 
-
-<span class="atom-split" id="q09" data-atom="q09" data-title="Quesito 9" data-tags="topic_geometria_analitica,method_coordinate,skill_astrazione"></span>
+<span class="atom-split" id="q09" data-atom="q09" data-title="Quesito 9" data-tags="topic_geometria_analitica,topic_geometria_piana,method_coordinate,skill_astrazione,skill_ragionamento_geometrico"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -331,9 +319,9 @@ level: kangourou
 > A) 2              B) 2π             C) 4              D) 4√2              E) 8
 > Quesiti a risposta aperta
 
-**Topic:** [[topic_geometria_analitica|Geometria analitica]]
+**Topic:** [[topic_geometria_analitica|Geometria analitica]], [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_coordinate|Metodo delle coordinate]]
-**Abilita:** [[skill_astrazione|Astrazione / generalizzazione]]
+**Abilita:** [[skill_astrazione|Astrazione / generalizzazione]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/17wN7_TxtL2XNFx2kdzlzgXEZ6W2jTp-F/view)
 
@@ -347,16 +335,15 @@ level: kangourou
 > A) 2              B) 2π             C) 4              D) 4√2              E) 8
 > Open-ended questions
 
-**Topic:** [[topic_geometria_analitica|Coordinate geometry]]
+
+**Topic:** [[topic_geometria_analitica|Coordinate geometry]], [[topic_geometria_piana|Plane geometry]]
 **Metodo:** [[method_coordinate|Coordinate method]]
-**Abilita:** [[skill_astrazione|Abstraction / generalisation]]
+**Abilita:** [[skill_astrazione|Abstraction / generalisation]], [[skill_ragionamento_geometrico|Geometric reasoning]]
 **Area:** [[Geometria|Geometry]]
 
-[[Quesiti/src_kangourou_2023_student_semifinale#q09|src_kangourou_2023_student_semifinale__Q09]]
 
 
-
-<span class="atom-split" id="q10" data-atom="q10" data-title="Quesito 10" data-tags="topic_algebra,method_backward,skill_manipolazione_algebrica"></span>
+<span class="atom-split" id="q10" data-atom="q10" data-title="Quesito 10" data-tags="topic_algebra,topic_aritmetica,method_backward,method_casework,skill_manipolazione_algebrica,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -367,10 +354,10 @@ level: kangourou
 > Al prodotto somma a caso o 5 o 6. Alla somma sottrae a caso o 5 o 6. Se il risultato finale è 78, che 
 > numero è n?
 
-**Topic:** [[topic_algebra|Algebra]]
-**Metodo:** [[method_backward|Ragionamento all'indietro]]
-**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
-**Area:** [[Algebra e Analisi]]
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_backward|Ragionamento all'indietro]], [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/17wN7_TxtL2XNFx2kdzlzgXEZ6W2jTp-F/view)
 
 
@@ -381,16 +368,15 @@ level: kangourou
 
 > (Point 4) Gianna plays like this. She writes an integer n, then multiplies it at random by either 5 or 6. To the product, she adds either 5 or 6 at random. From the sum, she subtracts either 5 or 6 at random. If the final result is 78, what number is n?
 
-**Topic:** [[topic_algebra|Algebra]]
-**Metodo:** [[method_backward|Working backwards]]
-**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
-**Area:** [[Algebra e Analisi|Algebra and analysis]]
 
-[[Quesiti/src_kangourou_2023_student_semifinale#q10|src_kangourou_2023_student_semifinale__Q10]]
-
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_backward|Working backwards]], [[method_casework|Case analysis]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
 
-<span class="atom-split" id="q11" data-atom="q11" data-title="Quesito 11" data-tags="topic_aritmetica,method_fattorizzazione,skill_manipolazione_algebrica"></span>
+
+<span class="atom-split" id="q11" data-atom="q11" data-title="Quesito 11" data-tags="topic_aritmetica,method_fattorizzazione,method_casework,skill_manipolazione_algebrica,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -401,8 +387,8 @@ level: kangourou
 > fetto?
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
-**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]], [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/17wN7_TxtL2XNFx2kdzlzgXEZ6W2jTp-F/view)
 
@@ -414,12 +400,11 @@ level: kangourou
 
 > (Point 5) What is the smallest prime integer p > 2 such that the number p³ + 7p² is a perfect square?
 
-**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
-**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
-**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
-**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
-[[Quesiti/src_kangourou_2023_student_semifinale#q11|src_kangourou_2023_student_semifinale__Q11]]
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]], [[method_casework|Case analysis]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
 
 
@@ -453,11 +438,9 @@ level: kangourou
 **Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
 **Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
-[[Quesiti/src_kangourou_2023_student_semifinale#q12|src_kangourou_2023_student_semifinale__Q12]]
 
 
-
-<span class="atom-split" id="q13" data-atom="q13" data-title="Quesito 13" data-tags="topic_disuguaglianze,method_disuguaglianze,skill_manipolazione_algebrica"></span>
+<span class="atom-split" id="q13" data-atom="q13" data-title="Quesito 13" data-tags="topic_disuguaglianze,topic_algebra,method_disuguaglianze,method_simmetria,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -468,8 +451,8 @@ level: kangourou
 > (x2 + y2 + z2)2 ≤ k (x4 + y4 + z4)
 > valga per ogni terna {x, y, z} di numeri reali?
 
-**Topic:** [[topic_disuguaglianze|Disuguaglianze]]
-**Metodo:** [[method_disuguaglianze|Disuguaglianze classiche]]
+**Topic:** [[topic_disuguaglianze|Disuguaglianze]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze classiche]], [[method_simmetria|Sfruttamento della simmetria]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/17wN7_TxtL2XNFx2kdzlzgXEZ6W2jTp-F/view)
@@ -482,16 +465,15 @@ level: kangourou
 
 > (Point 6) What is the smallest real number k such that the inequality (x² + y² + z²)² ≤ k (x⁴ + y⁴ + z⁴) holds for every triple {x, y, z} of real numbers?
 
-**Topic:** [[topic_disuguaglianze|Inequalities]]
-**Metodo:** [[method_disuguaglianze|Classical inequalities]]
+
+**Topic:** [[topic_disuguaglianze|Inequalities]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_disuguaglianze|Classical inequalities]], [[method_simmetria|Using symmetry]]
 **Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
 **Area:** [[Algebra e Analisi|Algebra and analysis]]
 
-[[Quesiti/src_kangourou_2023_student_semifinale#q13|src_kangourou_2023_student_semifinale__Q13]]
 
 
-
-<span class="atom-split" id="q14" data-atom="q14" data-title="Quesito 14" data-tags="topic_aritmetica,method_fattorizzazione,skill_conteggio_sistematico"></span>
+<span class="atom-split" id="q14" data-atom="q14" data-title="Quesito 14" data-tags="topic_aritmetica,topic_algebra,method_fattorizzazione,skill_conteggio_sistematico,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -502,10 +484,10 @@ level: kangourou
 > in modo che il loro prodotto coincida con la somma dei rimanenti e vi è un solo modo per farlo. 
 > Quanto vale tale prodotto?
 
-**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
 **Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
-**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
-**Area:** [[Aritmetica e Teoria dei Numeri]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/17wN7_TxtL2XNFx2kdzlzgXEZ6W2jTp-F/view)
 
 
@@ -516,16 +498,15 @@ level: kangourou
 
 > (Points 6) From the set of integers between 1 and 17, inclusive, two numbers can be removed so that their product equals the sum of the remaining numbers, and there is only one way to do this. What is the value of this product?
 
-**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_algebra|Algebra]]
 **Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
-**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
-**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
-
-[[Quesiti/src_kangourou_2023_student_semifinale#q14|src_kangourou_2023_student_semifinale__Q14]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Algebra e Analisi|Algebra and analysis]]
 
 
 
-<span class="atom-split" id="q15" data-atom="q15" data-title="Quesito 15" data-tags="topic_funzionali,topic_disuguaglianze,method_disuguaglianze,skill_manipolazione_algebrica"></span>
+<span class="atom-split" id="q15" data-atom="q15" data-title="Quesito 15" data-tags="topic_funzionali,topic_disuguaglianze,topic_algebra,method_disuguaglianze,skill_manipolazione_algebrica,skill_riconoscimento_pattern"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -537,9 +518,9 @@ level: kangourou
 > f(x – 5) + 2 ≤ x – 2023 ≤ f(x + 4) – 7.
 > La funzione f si annulla per un solo valore di x: quale?
 
-**Topic:** [[topic_funzionali|Equazioni funzionali / successioni]], [[topic_disuguaglianze|Disuguaglianze]]
+**Topic:** [[topic_funzionali|Equazioni funzionali / successioni]], [[topic_disuguaglianze|Disuguaglianze]], [[topic_algebra|Algebra]]
 **Metodo:** [[method_disuguaglianze|Disuguaglianze classiche]]
-**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/17wN7_TxtL2XNFx2kdzlzgXEZ6W2jTp-F/view)
 
@@ -551,16 +532,15 @@ level: kangourou
 
 > (Point 6) Let f denote a function defined on the entire real line and taking real values; suppose that, for every real value of x, f satisfies the chain of inequalities f(x – 5) + 2 ≤ x – 2023 ≤ f(x + 4) – 7. The function f is zero for exactly one value of x: which one?
 
-**Topic:** [[topic_funzionali|Functional equations / sequences]], [[topic_disuguaglianze|Inequalities]]
+
+**Topic:** [[topic_funzionali|Functional equations / sequences]], [[topic_disuguaglianze|Inequalities]], [[topic_algebra|Algebra]]
 **Metodo:** [[method_disuguaglianze|Classical inequalities]]
-**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_riconoscimento_pattern|Pattern recognition]]
 **Area:** [[Algebra e Analisi|Algebra and analysis]]
 
-[[Quesiti/src_kangourou_2023_student_semifinale#q15|src_kangourou_2023_student_semifinale__Q15]]
 
 
-
-<span class="atom-split" id="q16" data-atom="q16" data-title="Quesito 16" data-tags="topic_geometria_piana,skill_ragionamento_geometrico"></span>
+<span class="atom-split" id="q16" data-atom="q16" data-title="Quesito 16" data-tags="topic_geometria_piana,method_fattorizzazione,method_simmetria,skill_ragionamento_geometrico,skill_stima"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -585,7 +565,8 @@ level: kangourou
 > p/100. Qual è l’intero più vicino a p?
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
-**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]], [[method_simmetria|Sfruttamento della simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_stima|Stima e approssimazione]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/17wN7_TxtL2XNFx2kdzlzgXEZ6W2jTp-F/view)
 
@@ -608,11 +589,11 @@ level: kangourou
 
 > (Point 7) The corners of a square are rounded off with circular arcs, all having the same radius, as shown in the figure; the straight portion of the boundary of the new region is as long as the curved portion. The ratio of the perimeter of the new figure to the perimeter of the original square is the number π/100. What is the integer closest to π?
 
-**Topic:** [[topic_geometria_piana|Plane geometry]]
-**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
-**Area:** [[Geometria|Geometry]]
 
-[[Quesiti/src_kangourou_2023_student_semifinale#q16|src_kangourou_2023_student_semifinale__Q16]]
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]], [[method_simmetria|Using symmetry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_stima|Estimation and approximation]]
+**Area:** [[Geometria|Geometry]]
 
 
 
@@ -646,11 +627,9 @@ level: kangourou
 **Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
 **Area:** [[Geometria|Geometry]]
 
-[[Quesiti/src_kangourou_2023_student_semifinale#q17|src_kangourou_2023_student_semifinale__Q17]]
 
 
-
-<span class="atom-split" id="q18" data-atom="q18" data-title="Quesito 18" data-tags="topic_combinatoria,topic_logica,method_grafi,skill_astrazione"></span>
+<span class="atom-split" id="q18" data-atom="q18" data-title="Quesito 18" data-tags="topic_combinatoria,topic_logica,method_grafi,method_estremalita,method_casework,skill_astrazione,skill_modellizzazione"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -663,8 +642,8 @@ level: kangourou
 > verso qualcuna delle rimanenti n – 1 selezionate. Qual è il più grande valore di n?
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_logica|Logica, giochi, strategie]]
-**Metodo:** [[method_grafi|Teoria dei grafi]]
-**Abilita:** [[skill_astrazione|Astrazione / generalizzazione]]
+**Metodo:** [[method_grafi|Teoria dei grafi]], [[method_estremalita|Principio di estremalita]], [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_astrazione|Astrazione / generalizzazione]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/17wN7_TxtL2XNFx2kdzlzgXEZ6W2jTp-F/view)
 
@@ -676,9 +655,8 @@ level: kangourou
 
 > (Point 8) In a group of 2023 people, each person dislikes exactly one other person, but the relationship is not necessarily symmetric. Without knowing the actual situation, one wants to be certain in advance that one can select n people from among the 2023 such that none of them dislikes any of the remaining n – 1 selected people. What is the largest possible value of n?
 
-**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_logica|Logic, games and strategies]]
-**Metodo:** [[method_grafi|Graph theory]]
-**Abilita:** [[skill_astrazione|Abstraction / generalisation]]
-**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
-[[Quesiti/src_kangourou_2023_student_semifinale#q18|src_kangourou_2023_student_semifinale__Q18]]
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_logica|Logic, games and strategies]]
+**Metodo:** [[method_grafi|Graph theory]], [[method_estremalita|Extremal principle]], [[method_casework|Case analysis]]
+**Abilita:** [[skill_astrazione|Abstraction / generalisation]], [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]

@@ -10,7 +10,7 @@ level: Concours Général
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_aritmetica,topic_insiemi_funzioni,method_induzione,method_ricorsione,method_fattorizzazione,method_bigezione,skill_manipolazione_algebrica,skill_lettura_attenta,skill_riconoscimento_pattern,skill_astrazione"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_aritmetica,topic_insiemi_funzioni,topic_funzionali,method_induzione,method_ricorsione,method_fattorizzazione,method_bigezione,skill_manipolazione_algebrica,skill_lettura_attenta,skill_riconoscimento_pattern,skill_astrazione"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -34,10 +34,10 @@ level: Concours Général
 > 
 > 6. Show that every strictly positive rational number is equal to a unique term $u_n$ of the sequence.
 
-**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_insiemi_funzioni|Insiemi e funzioni]]
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_insiemi_funzioni|Insiemi e funzioni]], [[topic_funzionali|Functional equations / sequences]]
 **Metodo:** [[method_induzione|Induzione]], [[method_ricorsione|Ricorsione]], [[method_fattorizzazione|Fattorizzazione]], [[method_bigezione|Biiezione]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_astrazione|Astrazione]]
-**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Algebra e Analisi|Algebra and analysis]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1UEmDklBRoLwyCF47wsu7dNuzbiS9gQhj/view)
 
 > [!warning] Estratto/tradotto da verificare con la fonte.
@@ -64,11 +64,14 @@ level: Concours Général
 > 
 > 6. Mostrare che ogni numero razionale rigorosamente positivo è uguale a un termine unico $u_n$ della sequenza.
 
-[[Quesiti/src_cgen_2023#q01|src_cgen_2023__Q01]]
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_insiemi_funzioni|Insiemi e funzioni]], [[topic_funzionali|Equazioni funzionali / successioni]]
+**Metodo:** [[method_induzione|Induzione]], [[method_ricorsione|Ricorsione]], [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]], [[method_bigezione|Bigezione / corrispondenza]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta del testo]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_astrazione|Astrazione / generalizzazione]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 
 
 
-<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_algebra,topic_funzionali,topic_disuguaglianze,method_disuguaglianze,method_casework,method_estremalita,skill_manipolazione_algebrica,skill_lettura_attenta,skill_astrazione,skill_stima"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_algebra,topic_funzionali,topic_disuguaglianze,method_disuguaglianze,method_casework,method_estremalita,method_fattorizzazione,skill_manipolazione_algebrica,skill_lettura_attenta,skill_astrazione,skill_stima"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -148,9 +151,9 @@ level: Concours Général
 > 14. Recover the results of the first part.
 
 **Topic:** [[topic_algebra|Algebra]], [[topic_funzionali|Equazioni funzionali]], [[topic_disuguaglianze|Disuguaglianze]]
-**Metodo:** [[method_disuguaglianze|Disuguaglianze]], [[method_casework|Casework]], [[method_estremalita|Estremalità]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze]], [[method_casework|Casework]], [[method_estremalita|Estremalità]], [[method_fattorizzazione|Factorisation / algebraic manipulation]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_astrazione|Astrazione]], [[skill_stima|Stima]]
-**Area:** [[Algebra e Analisi]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1UEmDklBRoLwyCF47wsu7dNuzbiS9gQhj/view)
 
 > [!warning] Estratto/tradotto da verificare con la fonte.
@@ -201,14 +204,14 @@ level: Concours Général
 > 
 > 14. Riprendi i risultati della prima parte.
 
-[[Quesiti/src_cgen_2023#q02|src_cgen_2023__Q02]]
+**Topic:** [[topic_algebra|Algebra]], [[topic_funzionali|Equazioni funzionali / successioni]], [[topic_disuguaglianze|Disuguaglianze]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze classiche]], [[method_casework|Analisi per casi]], [[method_estremalita|Principio di estremalita]], [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta del testo]], [[skill_astrazione|Astrazione / generalizzazione]], [[skill_stima|Stima e approssimazione]]
+**Area:** [[Algebra e Analisi]]
 
 
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_geometria_analitica,topic_algebra,topic_trigonometria,topic_geometria_piana,method_coordinate,method_trigonometria,method_simmetria,method_ricorsione,method_induzione,skill_ragionamento_geometrico,skill_manipolazione_algebrica,skill_astrazione,skill_modellizzazione"></span>
-
-<div class="qlang-switch" data-default="en"></div>
-
 
 *In an orthonormal frame, study polynomials whose graph passes through all vertices of a regular k-gon centered at O: case of equilateral triangles, squares centered at O, the lower bound d >= k-1, and the sufficiency of every d >= k-1 (via Chebyshev polynomials).*
 
@@ -280,8 +283,20 @@ level: Concours Général
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<div class="qlang-split" data-lang="it"></div>
 
+<span class="atom-split" id="q03__it" data-atom="q03__it" data-title="Q03__IT" data-tags=""></span>
+
+---
+tipo: quesito-translation
+translation_of: src_cgen_2023__Q03
+lang: it
+secondary: true
+title: "Concours Général des Lycées 2023  Matematica  Quesito 3"
+summary: "In un quadro ortonormale, studiare polinomi il cui grafico passa attraverso tutti i vertici di un k-gon regolare centrato a O: caso di triangoli equilaterali, quadrati centrati a O, il limite inferiore d >= k-1, e la sufficienza di ogni d >= k-1 (via polinomi di Chebyshev)."
+topics: [topic_geometria_analitica, topic_algebra, topic_trigonometria, topic_geometria_piana]
+methods: [method_coordinate, method_trigonometria, method_simmetria, method_ricorsione, method_induzione]
+skills: [skill_ragionamento_geometrico, skill_manipolazione_algebrica, skill_astrazione, skill_modellizzazione]
+tags: [kg/translation, topic/geometria_analitica, topic/algebra, topic/trigonometria, topic/geometria_piana]---
 
 *In un quadro ortonormale, studiare polinomi il cui grafico passa attraverso tutti i vertici di un k-gon regolare centrato a O: caso di triangoli equilaterali, quadrati centrati a O, il limite inferiore d >= k-1, e la sufficienza di ogni d >= k-1 (via polinomi di Chebyshev).*
 
@@ -321,4 +336,8 @@ level: Concours Général
 > 
 > 8. Considera la sequenza di polinomi definiti da $T_0 : x \mapsto 1$, $T_1 : x \mapsto x$ e $T_{n+2} : x \mapsto 2x\, T_{n+1}(x) - T_n(x)$ per ogni intero $n \ge 0$. a. Indicare che $T_n(\cos(\theta)) = \cos(n\theta)$ per ogni numero intero $n \ge 0$ e ogni reale $\theta$. b. Lasciate che $\theta$ sia reale, e lasciate che $\ell$ e $j$ siano due numeri interi. Mostra che $T_{\ell-1}\!\left(\cos\!\left(\theta + \frac{2j\pi}{\ell}\right)\right) = \cos(\ell\theta)\cos\!\left(\theta + \frac{2j\pi}{\ell}\right) + \sin(\ell\theta)\sin\!\left(\theta + \frac{2j\pi}{\ell}\right)$. [Nota: questa identità è parzialmente illeggibile nella fonte; la lettura è incerta.] c. Mostra che per ogni numero intero $d \ge k - 1$ esiste un polinomio di grado $d$ il cui grafico contiene i punti $M_1, M_2, \dots, M_k$.
 
+**Topic:** [[topic_geometria_analitica|Geometria analitica]], [[topic_algebra|Algebra]], [[topic_trigonometria|Trigonometria]], [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_coordinate|Metodo delle coordinate]], [[method_trigonometria|Tecniche trigonometriche]], [[method_simmetria|Sfruttamento della simmetria]], [[method_ricorsione|Ricorsione]], [[method_induzione|Induzione]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione / generalizzazione]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
+**Area:** [[Geometria]], [[Algebra e Analisi]]
 [[Quesiti/src_cgen_2023#q03|src_cgen_2023__Q03]]

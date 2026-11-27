@@ -38,8 +38,6 @@ level: OBM Nível 3
 **Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 
-[[Quesiti/src_obm_2010_n3_f2#q01|src_obm_2010_n3_f2__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_algebra,topic_aritmetica,method_fattorizzazione,method_casework,skill_manipolazione_algebrica,skill_lettura_attenta,skill_conteggio_sistematico"></span>
@@ -74,8 +72,6 @@ level: OBM Nível 3
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 
-[[Quesiti/src_obm_2010_n3_f2#q02|src_obm_2010_n3_f2__Q02]]
-
 
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_geometria_piana,method_coordinate,method_trigonometria,skill_ragionamento_geometrico,skill_manipolazione_algebrica,skill_modellizzazione"></span>
@@ -87,7 +83,7 @@ level: OBM Nível 3
 
 > In the figure below, three circles drawn in continuous trace are all tangent to both lines $r$ and $s$ passing through points $A$, $B$, $C$, $D$. Moreover, the smaller circle is also tangent to $AD$, the larger circle is also tangent to $BC$, and the inscribed circle in the quadrilateral $ABCD$ is also tangent to $AD$. The radii of the two external circles tangent to the quadrilateral $ABCD$ are $8$ and $18$. Calculate the radius $R$ of the circle inscribed in $ABCD$.
 
-![[src_obm_2010_n3_f2__q03.png]]
+![[src_obm_2010_n3_f2__Q03.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_coordinate|Coordinate]], [[method_trigonometria|Trigonometria]]
@@ -103,14 +99,12 @@ level: OBM Nível 3
 
 > Nella figura sottostante, tre cerchi tracciati con linea continua sono tutti tangenti a entrambe le rette $r$ e $s$ che passano per i punti $A$, $B$, $C$, $D$. Inoltre, il cerchio più piccolo è anche tangente a $AD$, il cerchio più grande è anche tangente a $BC$, e il cerchio inscritto nel quadrilatero $ABCD$ è anche tangente a $AD$. I raggi dei due cerchi esterni tangenti al quadrilatero $ABCD$ sono $8$ e $18$. Calcola il raggio $R$ del cerchio inscritto in $ABCD$.
 
-![[src_obm_2010_n3_f2__q03.png]]
+![[src_obm_2010_n3_f2__Q03.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_coordinate|Coordinate]], [[method_trigonometria|Trigonometria]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]]
 **Area:** [[Geometria]]
-
-[[Quesiti/src_obm_2010_n3_f2#q03|src_obm_2010_n3_f2__Q03]]
 
 
 
@@ -141,8 +135,6 @@ level: OBM Nível 3
 **Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]], [[method_inclusione_esclusione|Inclusione-esclusione]]
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
-
-[[Quesiti/src_obm_2010_n3_f2#q04|src_obm_2010_n3_f2__Q04]]
 
 
 
@@ -176,8 +168,6 @@ level: OBM Nível 3
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 
-[[Quesiti/src_obm_2010_n3_f2#q05|src_obm_2010_n3_f2__Q05]]
-
 
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_geometria_piana,topic_trigonometria,method_trigonometria,method_casework,skill_ragionamento_geometrico,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
@@ -208,8 +198,6 @@ level: OBM Nível 3
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Geometria]]
 
-[[Quesiti/src_obm_2010_n3_f2#q06|src_obm_2010_n3_f2__Q06]]
-
 
 
 <span class="atom-split" id="q07" data-atom="q07" data-title="Quesito 7" data-tags="topic_combinatoria,method_ricorsione,method_conteggio,method_casework,skill_conteggio_sistematico,skill_riconoscimento_pattern,skill_modellizzazione"></span>
@@ -239,8 +227,6 @@ level: OBM Nível 3
 **Metodo:** [[method_ricorsione|Ricorsione]], [[method_conteggio|Conteggio]], [[method_casework|Casework]]
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_modellizzazione|Modellizzazione]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
-
-[[Quesiti/src_obm_2010_n3_f2#q07|src_obm_2010_n3_f2__Q07]]
 
 
 
@@ -276,11 +262,9 @@ level: OBM Nível 3
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 
-[[Quesiti/src_obm_2010_n3_f2#q08|src_obm_2010_n3_f2__Q08]]
 
 
-
-<span class="atom-split" id="q09" data-atom="q09" data-title="Quesito 9" data-tags="topic_geometria_piana,topic_combinatoria,method_invarianti,method_casework,method_coordinate,skill_ragionamento_geometrico,skill_modellizzazione,skill_conteggio_sistematico,skill_riconoscimento_pattern"></span>
+<span class="atom-split" id="q09" data-atom="q09" data-title="Quesito 9" data-tags="topic_geometria_piana,topic_combinatoria,topic_geometria_analitica,topic_aritmetica,method_invarianti,method_casework,method_coordinate,method_simmetria,skill_ragionamento_geometrico,skill_modellizzazione,skill_conteggio_sistematico,skill_riconoscimento_pattern"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -293,12 +277,12 @@ level: OBM Nível 3
 > 
 > \emph{Observation}: When hitting the sides, the ball undergoes a perfect reflection, that is, the angle of incidence equals the angle of reflection. Also assume that the ball is a point.
 
-![[src_obm_2010_n3_f2__q09.png]]
+![[src_obm_2010_n3_f2__Q09.png]]
 
-**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_combinatoria|Combinatoria]]
-**Metodo:** [[method_invarianti|Invarianti]], [[method_casework|Casework]], [[method_coordinate|Coordinate]]
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_combinatoria|Combinatoria]], [[topic_geometria_analitica|Coordinate geometry]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_invarianti|Invarianti]], [[method_casework|Casework]], [[method_coordinate|Coordinate]], [[method_simmetria|Using symmetry]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
-**Area:** [[Geometria]], [[Combinatoria, Logica e Probabilita]]
+**Area:** [[Geometria|Geometry]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1WLVHKhEJ2DL8482IpP80aGvylP8DD2Jq/view)
 
 
@@ -313,11 +297,10 @@ level: OBM Nível 3
 >
 > \emph{Osservazione}: Quando colpisce i lati, la palla subisce una riflessione perfetta, cioè l'angolo di incidenza è uguale all'angolo di riflessione. Si assuma inoltre che la palla sia un punto.
 
-![[src_obm_2010_n3_f2__q09.png]]
+![[src_obm_2010_n3_f2__Q09.png]]
 
-**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_combinatoria|Combinatoria]]
-**Metodo:** [[method_invarianti|Invarianti]], [[method_casework|Casework]], [[method_coordinate|Coordinate]]
+
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_combinatoria|Combinatoria]], [[topic_geometria_analitica|Geometria analitica]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_invarianti|Invarianti]], [[method_casework|Casework]], [[method_coordinate|Coordinate]], [[method_simmetria|Sfruttamento della simmetria]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
-**Area:** [[Geometria]], [[Combinatoria, Logica e Probabilita]]
-
-[[Quesiti/src_obm_2010_n3_f2#q09|src_obm_2010_n3_f2__Q09]]
+**Area:** [[Geometria]], [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]

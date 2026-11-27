@@ -10,7 +10,7 @@ level: PRMO
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_aritmetica,method_casework,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_aritmetica,topic_algebra,method_casework,skill_manipolazione_algebrica,skill_lettura_attenta,skill_modellizzazione"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -19,10 +19,10 @@ level: PRMO
 
 > A man walks a certain distance and rides back in $3\frac{1}{4}$ hours; he could ride both ways in $2\frac{1}{2}$ hours. How many hours would it take him to walk both ways?
 
-**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
 **Metodo:** [[method_casework|Casework]]
-**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
-**Area:** [[Aritmetica e Teoria dei Numeri]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Algebra e Analisi|Algebra and analysis]]
 **Risposta:** 4
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1EZrtlGWfWA4vb3KCRrXLJVSqhTz0X6dJ/view)
 
@@ -34,17 +34,16 @@ level: PRMO
 
 > Un uomo percorre a piedi un certo tratto e torna a cavallo in $3\frac{1}{4}$ ore; potrebbe fare entrambi i tratti a cavallo in $2\frac{1}{2}$ ore. Quante ore gli occorrerebbero per fare entrambi i tratti a piedi?
 
-**Topic:** [[topic_aritmetica|Aritmetica e teoria dei numeri]]
-**Metodo:** [[method_casework|Analisi per casi]]
-**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
 
+**Topic:** [[topic_aritmetica|Aritmetica e teoria dei numeri]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 **Risposta:** 4
 
-[[Quesiti/src_prmo_2015_b#q01|src_prmo_2015_b__Q01]]
 
 
-
-<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_algebra,method_fattorizzazione,skill_manipolazione_algebrica"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_algebra,method_fattorizzazione,method_casework,skill_manipolazione_algebrica,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -54,9 +53,9 @@ level: PRMO
 > The equations $x^2 - 4x + k = 0$ and $x^2 + kx - 4 = 0$, where $k$ is a real number, have exactly one common root. What is the value of $k$?
 
 **Topic:** [[topic_algebra|Algebra]]
-**Metodo:** [[method_fattorizzazione|Fattorizzazione]]
-**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
-**Area:** [[Algebra e Analisi]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_casework|Case analysis]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
 **Risposta:** 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1EZrtlGWfWA4vb3KCRrXLJVSqhTz0X6dJ/view)
 
@@ -68,17 +67,16 @@ level: PRMO
 
 > Le equazioni $x^2 - 4x + k = 0$ e $x^2 + kx - 4 = 0$, dove $k$ è un numero reale, hanno esattamente una radice in comune. Qual è il valore di $k$?
 
-**Topic:** [[topic_algebra|Algebra]]
-**Metodo:** [[method_fattorizzazione|Fattorizzazione]]
-**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 
+**Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Algebra e Analisi]]
 **Risposta:** 3
 
-[[Quesiti/src_prmo_2015_b#q02|src_prmo_2015_b__Q02]]
 
 
-
-<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_algebra,topic_aritmetica,method_fattorizzazione,skill_manipolazione_algebrica"></span>
+<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_algebra,topic_aritmetica,method_fattorizzazione,method_casework,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -88,9 +86,9 @@ level: PRMO
 > Positive integers $a$ and $b$ are such that $a + b = a/b + b/a$. What is the value of $a^2 + b^2$?
 
 **Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_fattorizzazione|Fattorizzazione]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_casework|Case analysis]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
-**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Risposta:** 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1EZrtlGWfWA4vb3KCRrXLJVSqhTz0X6dJ/view)
 
@@ -102,17 +100,16 @@ level: PRMO
 
 > Interi positivi $a$ e $b$ sono tali che $a + b = a/b + b/a$. Qual è il valore di $a^2 + b^2$?
 
-**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica e teoria dei numeri]]
-**Metodo:** [[method_fattorizzazione|Fattorizzazione]]
-**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica e teoria dei numeri]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 2
 
-[[Quesiti/src_prmo_2015_b#q03|src_prmo_2015_b__Q03]]
 
 
-
-<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_combinatoria,method_conteggio,skill_conteggio_sistematico"></span>
+<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_combinatoria,topic_geometria_solida,method_conteggio,skill_conteggio_sistematico"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -121,10 +118,10 @@ level: PRMO
 
 > How many line segments have both their endpoints located at the vertices of a given cube?
 
-**Topic:** [[topic_combinatoria|Combinatoria]]
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_geometria_solida|Solid geometry]]
 **Metodo:** [[method_conteggio|Conteggio]]
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
-**Area:** [[Combinatoria, Logica e Probabilita]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Geometria|Geometry]]
 **Risposta:** 28
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1EZrtlGWfWA4vb3KCRrXLJVSqhTz0X6dJ/view)
 
@@ -136,17 +133,16 @@ level: PRMO
 
 > Quanti segmenti hanno entrambi gli estremi nei vertici di un dato cubo?
 
-**Topic:** [[topic_combinatoria|Combinatoria]]
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_geometria_solida|Geometria solida]]
 **Metodo:** [[method_conteggio|Conteggio]]
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
-
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 **Risposta:** 28
 
-[[Quesiti/src_prmo_2015_b#q04|src_prmo_2015_b__Q04]]
 
 
-
-<span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_algebra,method_induzione,skill_manipolazione_algebrica,skill_ragionamento_geometrico"></span>
+<span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_algebra,topic_aritmetica,method_induzione,method_congruenze,skill_manipolazione_algebrica,skill_ragionamento_geometrico"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -155,10 +151,10 @@ level: PRMO
 
 > Let $P(x)$ be a non-zero polynomial with integer coefficients. If $P(n)$ is divisible by $n$ for each positive integer $n$, what is the value of $P(0)$?
 
-**Topic:** [[topic_algebra|Algebra]]
-**Metodo:** [[method_induzione|Induzione]]
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_induzione|Induzione]], [[method_congruenze|Modular arithmetic / congruences]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
-**Area:** [[Algebra e Analisi]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Risposta:** 0
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1EZrtlGWfWA4vb3KCRrXLJVSqhTz0X6dJ/view)
 
@@ -170,17 +166,16 @@ level: PRMO
 
 > Sia $P(x)$ un polinomio non nullo a coefficienti interi. Se $P(n)$ è divisibile per $n$ per ogni intero positivo $n$, qual è il valore di $P(0)$?
 
-**Topic:** [[topic_algebra|Algebra]]
-**Metodo:** [[method_induzione|Induzione]]
-**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_induzione|Induzione]], [[method_congruenze|Aritmetica modulare / congruenze]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 0
 
-[[Quesiti/src_prmo_2015_b#q05|src_prmo_2015_b__Q05]]
 
 
-
-<span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_aritmetica,method_casework,method_conteggio,skill_conteggio_sistematico,skill_riconoscimento_pattern"></span>
+<span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_aritmetica,method_casework,method_conteggio,method_fattorizzazione,skill_conteggio_sistematico,skill_riconoscimento_pattern,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -190,9 +185,9 @@ level: PRMO
 > How many two-digit positive integers $N$ have the property that the sum of $N$ and the number obtained by reversing the order of the digits of $N$ is a perfect square?
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]]
-**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
-**Area:** [[Aritmetica e Teoria dei Numeri]]
+**Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]], [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Risposta:** 8
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1EZrtlGWfWA4vb3KCRrXLJVSqhTz0X6dJ/view)
 
@@ -204,17 +199,16 @@ level: PRMO
 
 > Quanti interi positivi di due cifre $N$ hanno la proprietà che la somma di $N$ e del numero ottenuto invertendo l'ordine delle cifre di $N$ è un quadrato perfetto?
 
-**Topic:** [[topic_aritmetica|Aritmetica e teoria dei numeri]]
-**Metodo:** [[method_casework|Analisi per casi]], [[method_conteggio|Conteggio]]
-**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di schemi]]
 
+**Topic:** [[topic_aritmetica|Aritmetica e teoria dei numeri]]
+**Metodo:** [[method_casework|Analisi per casi]], [[method_conteggio|Conteggio]], [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di schemi]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 8
 
-[[Quesiti/src_prmo_2015_b#q06|src_prmo_2015_b__Q06]]
 
 
-
-<span class="atom-split" id="q07" data-atom="q07" data-title="Quesito 7" data-tags="topic_aritmetica,topic_combinatoria,method_doppio_conteggio,method_conteggio,skill_conteggio_sistematico,skill_riconoscimento_pattern"></span>
+<span class="atom-split" id="q07" data-atom="q07" data-title="Quesito 7" data-tags="topic_aritmetica,topic_combinatoria,method_doppio_conteggio,method_conteggio,method_casework,skill_conteggio_sistematico,skill_riconoscimento_pattern,skill_lettura_attenta"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -224,9 +218,9 @@ level: PRMO
 > Let $E(n)$ denote the sum of the even digits of $n$. For example, $E(1243) = 2 + 4 = 6$. What is the value of $E(1) + E(2) + \cdots + E(100)$?
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
-**Metodo:** [[method_doppio_conteggio|Doppio conteggio]], [[method_conteggio|Conteggio]]
-**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
-**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+**Metodo:** [[method_doppio_conteggio|Doppio conteggio]], [[method_conteggio|Conteggio]], [[method_casework|Case analysis]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_lettura_attenta|Careful reading of the text]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Risposta:** 400
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1EZrtlGWfWA4vb3KCRrXLJVSqhTz0X6dJ/view)
 
@@ -238,13 +232,12 @@ level: PRMO
 
 > Sia $E(n)$ la somma delle cifre pari di $n$. Per esempio, $E(1243) = 2 + 4 = 6$. Qual è il valore di $E(1) + E(2) + \cdots + E(100)$?
 
+
 **Topic:** [[topic_aritmetica|Aritmetica e teoria dei numeri]], [[topic_combinatoria|Combinatoria]]
-**Metodo:** [[method_doppio_conteggio|Doppio conteggio]], [[method_conteggio|Conteggio]]
-**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di schemi]]
-
+**Metodo:** [[method_doppio_conteggio|Doppio conteggio]], [[method_conteggio|Conteggio]], [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di schemi]], [[skill_lettura_attenta|Lettura attenta del testo]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 400
-
-[[Quesiti/src_prmo_2015_b#q07|src_prmo_2015_b__Q07]]
 
 
 
@@ -257,7 +250,7 @@ level: PRMO
 
 > The figure below shows a broken piece of a circular plate made of glass. $C$ is the midpoint of $AB$, and $D$ is the midpoint of arc $AB$. Given that $AB = 24$ cm and $CD = 6$ cm, what is the radius of the plate in centimetres? (The figure is not drawn to scale.)
 
-![[src_prmo_2015_b__q08.png]]
+![[src_prmo_2015_b__Q08.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_coordinate|Coordinate]]
@@ -274,19 +267,18 @@ level: PRMO
 
 > La figura qui sotto mostra un pezzo rotto di un piatto circolare di vetro. $C$ è il punto medio di $AB$, e $D$ è il punto medio dell'arco $AB$. Sapendo che $AB = 24$ cm e $CD = 6$ cm, qual è il raggio del piatto in centimetri? La figura non è in scala.
 
-![[src_prmo_2015_b__q08.png]]
+![[src_prmo_2015_b__Q08.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_coordinate|Coordinate]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
 
 **Risposta:** 15
 
-[[Quesiti/src_prmo_2015_b#q08|src_prmo_2015_b__Q08]]
 
 
-
-<span class="atom-split" id="q09" data-atom="q09" data-title="Quesito 9" data-tags="topic_geometria_piana,topic_aritmetica,method_casework,method_estremalita,skill_conteggio_sistematico,skill_manipolazione_algebrica"></span>
+<span class="atom-split" id="q09" data-atom="q09" data-title="Quesito 9" data-tags="topic_geometria_piana,topic_aritmetica,method_casework,method_estremalita,method_fattorizzazione,skill_conteggio_sistematico,skill_manipolazione_algebrica,skill_ragionamento_geometrico"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -296,9 +288,9 @@ level: PRMO
 > What is the greatest possible perimeter of a right-angled triangle with integer side lengths if one of the sides has length 12?
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_casework|Casework]], [[method_estremalita|Estremalità]]
-**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
-**Area:** [[Geometria]], [[Aritmetica e Teoria dei Numeri]]
+**Metodo:** [[method_casework|Casework]], [[method_estremalita|Estremalità]], [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Risposta:** 84
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1EZrtlGWfWA4vb3KCRrXLJVSqhTz0X6dJ/view)
 
@@ -310,17 +302,16 @@ level: PRMO
 
 > Qual è il massimo perimetro possibile di un triangolo rettangolo con lati di lunghezza intera, se uno dei lati ha lunghezza 12?
 
-**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_aritmetica|Aritmetica e teoria dei numeri]]
-**Metodo:** [[method_casework|Analisi per casi]], [[method_estremalita|Estremalità]]
-**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_aritmetica|Aritmetica e teoria dei numeri]]
+**Metodo:** [[method_casework|Analisi per casi]], [[method_estremalita|Estremalità]], [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Geometria]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 84
 
-[[Quesiti/src_prmo_2015_b#q09|src_prmo_2015_b__Q09]]
 
 
-
-<span class="atom-split" id="q10" data-atom="q10" data-title="Quesito 10" data-tags="topic_geometria_piana,topic_combinatoria,method_casework,method_estremalita,skill_ragionamento_geometrico,skill_stima"></span>
+<span class="atom-split" id="q10" data-atom="q10" data-title="Quesito 10" data-tags="topic_geometria_piana,topic_combinatoria,method_casework,method_estremalita,skill_ragionamento_geometrico,skill_stima,skill_casework_accurato,skill_modellizzazione"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -331,8 +322,8 @@ level: PRMO
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_casework|Casework]], [[method_estremalita|Estremalità]]
-**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_stima|Stima]]
-**Area:** [[Geometria]], [[Combinatoria, Logica e Probabilita]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_stima|Stima]], [[skill_casework_accurato|Careful case analysis]], [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Geometria|Geometry]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Risposta:** 25
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1EZrtlGWfWA4vb3KCRrXLJVSqhTz0X6dJ/view)
 
@@ -344,13 +335,12 @@ level: PRMO
 
 > Un rettangolo $2 \times 3$ e un rettangolo $3 \times 4$ sono contenuti in un quadrato senza sovrapporsi in alcun punto interno, e i lati del quadrato sono paralleli ai lati dei due rettangoli. Qual è la minima area possibile del quadrato?
 
+
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_casework|Analisi per casi]], [[method_estremalita|Estremalità]]
-**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_stima|Stima]]
-
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_stima|Stima]], [[skill_casework_accurato|Casework accurato]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
+**Area:** [[Geometria]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 25
-
-[[Quesiti/src_prmo_2015_b#q10|src_prmo_2015_b__Q10]]
 
 
 
@@ -381,10 +371,9 @@ level: PRMO
 **Topic:** [[topic_algebra|Algebra]]
 **Metodo:** [[method_simmetria|Simmetria]], [[method_fattorizzazione|Fattorizzazione]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Algebra e Analisi]]
 
 **Risposta:** 1
-
-[[Quesiti/src_prmo_2015_b#q11|src_prmo_2015_b__Q11]]
 
 
 
@@ -415,10 +404,9 @@ level: PRMO
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_coordinate|Coordinate]], [[method_trigonometria|Trigonometria]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
 
 **Risposta:** 8
-
-[[Quesiti/src_prmo_2015_b#q12|src_prmo_2015_b__Q12]]
 
 
 
@@ -449,10 +437,9 @@ level: PRMO
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_doppio_conteggio|Doppio conteggio]]
 **Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
 
 **Risposta:** 12
-
-[[Quesiti/src_prmo_2015_b#q13|src_prmo_2015_b__Q13]]
 
 
 
@@ -483,10 +470,9 @@ level: PRMO
 **Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica e teoria dei numeri]]
 **Metodo:** [[method_casework|Analisi per casi]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di schemi]]
+**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 
 **Risposta:** 48
-
-[[Quesiti/src_prmo_2015_b#q14|src_prmo_2015_b__Q14]]
 
 
 
@@ -516,8 +502,7 @@ level: PRMO
 **Topic:** [[topic_aritmetica|Aritmetica e teoria dei numeri]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_casework|Analisi per casi]], [[method_estremalita|Estremalità]]
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]]
-
-[[Quesiti/src_prmo_2015_b#q15|src_prmo_2015_b__Q15]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 
 
 
@@ -548,10 +533,9 @@ level: PRMO
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_simmetria|Simmetria]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Geometria]]
 
 **Risposta:** 40
-
-[[Quesiti/src_prmo_2015_b#q16|src_prmo_2015_b__Q16]]
 
 
 
@@ -588,14 +572,13 @@ level: PRMO
 **Topic:** [[topic_algebra|Algebra]]
 **Metodo:** [[method_simmetria|Simmetria]], [[method_fattorizzazione|Fattorizzazione]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Algebra e Analisi]]
 
 **Risposta:** 1
 
-[[Quesiti/src_prmo_2015_b#q17|src_prmo_2015_b__Q17]]
 
 
-
-<span class="atom-split" id="q18" data-atom="q18" data-title="Quesito 18" data-tags="topic_combinatoria,method_cassetti,method_estremalita,skill_conteggio_sistematico,skill_ragionamento_geometrico"></span>
+<span class="atom-split" id="q18" data-atom="q18" data-title="Quesito 18" data-tags="topic_combinatoria,method_cassetti,method_estremalita,skill_conteggio_sistematico,skill_ragionamento_geometrico,skill_riconoscimento_pattern"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -606,8 +589,8 @@ level: PRMO
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_cassetti|Principio dei cassetti]], [[method_estremalita|Estremalità]]
-**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
-**Area:** [[Combinatoria, Logica e Probabilita]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Risposta:** 62
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1EZrtlGWfWA4vb3KCRrXLJVSqhTz0X6dJ/view)
 
@@ -619,17 +602,16 @@ level: PRMO
 
 > Un sottoinsieme $B$ dell'insieme dei primi 100 interi positivi ha la proprietà che due elementi di $B$ non sommano mai a 125. Qual è il massimo numero possibile di elementi di $B$?
 
+
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_cassetti|Principio dei cassetti]], [[method_estremalita|Estremalità]]
-**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
-
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 62
 
-[[Quesiti/src_prmo_2015_b#q18|src_prmo_2015_b__Q18]]
 
 
-
-<span class="atom-split" id="q19" data-atom="q19" data-title="Quesito 19" data-tags="topic_aritmetica,method_congruenze,skill_manipolazione_algebrica,skill_conteggio_sistematico"></span>
+<span class="atom-split" id="q19" data-atom="q19" data-title="Quesito 19" data-tags="topic_aritmetica,method_congruenze,method_casework,skill_manipolazione_algebrica,skill_conteggio_sistematico"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -639,9 +621,9 @@ level: PRMO
 > The digits of a positive integer $n$ are four consecutive integers in decreasing order when read from left to right. What is the sum of the possible remainders when $n$ is divided by 37?
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_congruenze|Congruenze]]
+**Metodo:** [[method_congruenze|Congruenze]], [[method_casework|Case analysis]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]]
-**Area:** [[Aritmetica e Teoria dei Numeri]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Risposta:** 217
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1EZrtlGWfWA4vb3KCRrXLJVSqhTz0X6dJ/view)
 
@@ -653,13 +635,12 @@ level: PRMO
 
 > Le cifre di un intero positivo $n$ sono quattro interi consecutivi in ordine decrescente, letti da sinistra a destra. Qual è la somma dei resti possibili quando $n$ è diviso per 37?
 
+
 **Topic:** [[topic_aritmetica|Aritmetica e teoria dei numeri]]
-**Metodo:** [[method_congruenze|Congruenze]]
+**Metodo:** [[method_congruenze|Congruenze]], [[method_casework|Analisi per casi]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]]
-
+**Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 217
-
-[[Quesiti/src_prmo_2015_b#q19|src_prmo_2015_b__Q19]]
 
 
 
@@ -690,7 +671,6 @@ level: PRMO
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_trigonometria|Trigonometria]], [[method_coordinate|Coordinate]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
 
 **Risposta:** 15
-
-[[Quesiti/src_prmo_2015_b#q20|src_prmo_2015_b__Q20]]

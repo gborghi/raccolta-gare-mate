@@ -10,7 +10,7 @@ level: JJMO
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_aritmetica,method_fattorizzazione,skill_manipolazione_algebrica"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_aritmetica,method_fattorizzazione,skill_manipolazione_algebrica,skill_riconoscimento_pattern"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -22,8 +22,8 @@ level: JJMO
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_fattorizzazione|Fattorizzazione]]
-**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
-**Area:** [[Aritmetica e Teoria dei Numeri]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1EytTxWm5BIYmhbn2m7aZVi8FHIdql6gf/view)
 
 
@@ -35,12 +35,11 @@ level: JJMO
 > Calcolare l'espressione seguente:
 > $$877 \times 879 - 121 \times 123.$$
 
+
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei numeri]]
 **Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
-**Abilità:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Aritmetica e teoria dei numeri]]
-
-[[Quesiti/src_jjmo6q#q01|src_jjmo6q__Q01]]
 
 
 
@@ -72,8 +71,6 @@ level: JJMO
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 
-[[Quesiti/src_jjmo6q#q02|src_jjmo6q__Q02]]
-
 
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_geometria_piana,method_simmetria,skill_ragionamento_geometrico,skill_lettura_attenta"></span>
@@ -85,7 +82,7 @@ level: JJMO
 
 > Six points $A, B, C, D, E, F$ lie on a circle in this order such that arc $AB$, arc $BC$, arc $CD$, arc $DE$, arc $EF$, and arc $FA$ are all equal in length. Given that $\angle ACE = 68^\circ$, find $\angle BFD$.
 
-![[src_jjmo6q__q03.png]]
+![[src_jjmo6q__Q03.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_simmetria|Simmetria]]
@@ -101,14 +98,12 @@ level: JJMO
 
 > Sei punti $A, B, C, D, E, F$ giacciono su una circonferenza in questo ordine, in modo che l'arco $AB$, l'arco $BC$, l'arco $CD$, l'arco $DE$, l'arco $EF$ e l'arco $FA$ abbiano tutti la stessa lunghezza. Dato che $\angle ACE = 68^\circ$, determina $\angle BFD$.
 
-![[src_jjmo6q__q03.png]]
+![[src_jjmo6q__Q03.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_simmetria|Simmetria]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Geometria]]
-
-[[Quesiti/src_jjmo6q#q03|src_jjmo6q__Q03]]
 
 
 
@@ -144,8 +139,6 @@ level: JJMO
 **Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 
-[[Quesiti/src_jjmo6q#q04|src_jjmo6q__Q04]]
-
 
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_geometria_piana,topic_geometria_analitica,method_coordinate,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
@@ -157,7 +150,7 @@ level: JJMO
 
 > Let $ABCD$ be a unit square (side length $1$). Let $O$ be the centre of the circle with diameter $AD$, and let $E$ be a point on side $AB$. The line $CE$ is tangent to the circle with centre $O$. Find the area of triangle $CBE$.
 
-![[src_jjmo6q__q05.png]]
+![[src_jjmo6q__Q05.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_geometria_analitica|Geometria analitica]]
 **Metodo:** [[method_coordinate|Coordinate]]
@@ -173,14 +166,12 @@ level: JJMO
 
 > Sia $ABCD$ un quadrato unitario (lato di lunghezza $1$). Sia $O$ il centro della circonferenza di diametro $AD$, e sia $E$ un punto sul lato $AB$. La retta $CE$ è tangente alla circonferenza di centro $O$. Determinare l'area del triangolo $CBE$.
 
-![[src_jjmo6q__q05.png]]
+![[src_jjmo6q__Q05.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_geometria_analitica|Geometria analitica]]
 **Metodo:** [[method_coordinate|Coordinate]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
-
-[[Quesiti/src_jjmo6q#q05|src_jjmo6q__Q05]]
 
 
 
@@ -216,8 +207,6 @@ level: JJMO
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 
-[[Quesiti/src_jjmo6q#q06|src_jjmo6q__Q06]]
-
 
 
 <span class="atom-split" id="q07" data-atom="q07" data-title="Quesito 7" data-tags="topic_combinatoria,topic_aritmetica,method_casework,method_conteggio,method_fattorizzazione,skill_conteggio_sistematico,skill_casework_accurato,skill_manipolazione_algebrica"></span>
@@ -248,11 +237,9 @@ level: JJMO
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 
-[[Quesiti/src_jjmo6q#q07|src_jjmo6q__Q07]]
 
 
-
-<span class="atom-split" id="q08" data-atom="q08" data-title="Quesito 8" data-tags="topic_aritmetica,topic_combinatoria,method_casework,method_fattorizzazione,skill_lettura_attenta,skill_casework_accurato,skill_manipolazione_algebrica"></span>
+<span class="atom-split" id="q08" data-atom="q08" data-title="Quesito 8" data-tags="topic_aritmetica,topic_combinatoria,method_casework,method_fattorizzazione,skill_lettura_attenta,skill_casework_accurato,skill_manipolazione_algebrica,skill_modellizzazione"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -265,8 +252,8 @@ level: JJMO
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_casework|Casework]], [[method_fattorizzazione|Fattorizzazione]]
-**Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_casework_accurato|Casework accurato]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
-**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+**Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_casework_accurato|Casework accurato]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1EytTxWm5BIYmhbn2m7aZVi8FHIdql6gf/view)
 
 
@@ -279,12 +266,11 @@ level: JJMO
 >
 > Trova tutte le possibili combinazioni del numero di studenti in ciascuna delle classi 1, 2 e 3 (ossia degli anni scolastici 1, 2 e 3 della scuola media).
 
+
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_casework|Casework]], [[method_fattorizzazione|Fattorizzazione]]
-**Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_casework_accurato|Casework accurato]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_casework_accurato|Casework accurato]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
-
-[[Quesiti/src_jjmo6q#q08|src_jjmo6q__Q08]]
 
 
 
@@ -324,8 +310,6 @@ level: JJMO
 **Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 
-[[Quesiti/src_jjmo6q#q09|src_jjmo6q__Q09]]
-
 
 
 <span class="atom-split" id="q10" data-atom="q10" data-title="Quesito 10" data-tags="topic_geometria_piana,method_doppio_conteggio,method_simmetria,skill_ragionamento_geometrico,skill_modellizzazione,skill_manipolazione_algebrica"></span>
@@ -363,8 +347,6 @@ level: JJMO
 **Metodo:** [[method_doppio_conteggio|Doppio conteggio]], [[method_simmetria|Simmetria]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
-
-[[Quesiti/src_jjmo6q#q10|src_jjmo6q__Q10]]
 
 
 
@@ -423,5 +405,3 @@ level: JJMO
 **Metodo:** [[method_colorazione|Colorazione]], [[method_invarianti|Invarianti]], [[method_casework|Casework]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_casework_accurato|Casework accurato]], [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
-
-[[Quesiti/src_jjmo6q#q11|src_jjmo6q__Q11]]

@@ -12,9 +12,6 @@ level: Coupe Animath Automne
 
 <span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_aritmetica,topic_algebra,method_telescoping,skill_riconoscimento_pattern,skill_manipolazione_algebrica"></span>
 
-<div class="qlang-switch" data-default="en"></div>
-
-
 *Compute a telescoping product of consecutive fractions*
 
 > Compute the number
@@ -30,8 +27,20 @@ level: Coupe Animath Automne
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1rGw5zrDambCYc5_oxsC76MvGBpET1fNn/view)
 
 
-<div class="qlang-split" data-lang="it"></div>
 
+<span class="atom-split" id="q01__it" data-atom="q01__it" data-title="Q01__IT" data-tags=""></span>
+
+---
+tipo: quesito-translation
+translation_of: src_canimath_2020_automne__Q01
+lang: it
+secondary: true
+title: "Coupe Animath Automne 2020  Quesito 1"
+summary: "Calcolare un prodotto telescopico di frazioni consecutive"
+topics: [topic_aritmetica, topic_algebra]
+methods: [method_telescoping]
+skills: [skill_riconoscimento_pattern, skill_manipolazione_algebrica]
+tags: [kg/translation, topic/aritmetica, topic/algebra]---
 
 *Calcolare un prodotto telescopico di frazioni consecutive*
 
@@ -39,15 +48,16 @@ level: Coupe Animath Automne
 > 
 > *Solo una risposta numerica è prevista qui.*
 
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_telescoping|Somme telescopiche]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 **Risposta:** 15
 [[Quesiti/src_canimath_2020_automne#q01|src_canimath_2020_automne__Q01]]
 
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_algebra,topic_aritmetica,skill_modellizzazione,skill_manipolazione_algebrica"></span>
-
-<div class="qlang-switch" data-default="en"></div>
-
 
 *Find the number of floors of two buildings given total bathrooms and bedrooms*
 
@@ -61,8 +71,19 @@ level: Coupe Animath Automne
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1rGw5zrDambCYc5_oxsC76MvGBpET1fNn/view)
 
 
-<div class="qlang-split" data-lang="it"></div>
 
+<span class="atom-split" id="q02__it" data-atom="q02__it" data-title="Q02__IT" data-tags=""></span>
+
+---
+tipo: quesito-translation
+translation_of: src_canimath_2020_automne__Q02
+lang: it
+secondary: true
+title: "Coupe Animath Automne 2020  Quesito 2"
+summary: "Trovare il numero di piani di due edifici dato il totale dei bagni e delle camere da letto"
+topics: [topic_algebra, topic_aritmetica]
+skills: [skill_modellizzazione, skill_manipolazione_algebrica]
+tags: [kg/translation, topic/algebra, topic/aritmetica]---
 
 *Ricerca il numero di piani di due edifici dato il numero totale di bagni e camere da letto*
 
@@ -70,11 +91,14 @@ level: Coupe Animath Automne
 > 
 > *Solo una risposta numerica è prevista qui.*
 
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 [[Quesiti/src_canimath_2020_automne#q02|src_canimath_2020_automne__Q02]]
 
 
 
-<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_geometria_piana,skill_ragionamento_geometrico,skill_lettura_attenta"></span>
+<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_geometria_piana,method_simmetria,skill_ragionamento_geometrico,skill_lettura_attenta"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -84,8 +108,9 @@ level: Coupe Animath Automne
 > Let $ABCD$ be a square and $E$ the point of the segment $[BD]$ such that $EB = AB$. We define the point $F$ as the point of intersection of the lines $(CE)$ and $(AD)$. Find the value of the angle $\widehat{FEA}$.
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_simmetria|Using symmetry]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
-**Area:** [[Geometria]]
+**Area:** [[Geometria|Geometry]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1rGw5zrDambCYc5_oxsC76MvGBpET1fNn/view)
 
 
@@ -96,11 +121,14 @@ level: Coupe Animath Automne
 
 > Il segmento $ABCD$ deve essere quadrato e $E$ il punto del segmento $[BD]$ in modo tale che $EB = AB$. Il punto $F$ è definito come il punto di intersezione delle linee $(CE)$ e $(AD)$. Trova il valore dell'angolo $\widehat{FEA}$.
 
-[[Quesiti/src_canimath_2020_automne#q03|src_canimath_2020_automne__Q03]]
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_simmetria|Sfruttamento della simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta del testo]]
+**Area:** [[Geometria]]
 
 
 
-<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_aritmetica,method_casework,skill_conteggio_sistematico,skill_lettura_attenta,skill_casework_accurato"></span>
+<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_aritmetica,method_casework,method_congruenze,skill_conteggio_sistematico,skill_lettura_attenta,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -114,9 +142,9 @@ level: Coupe Animath Automne
 > 3. the total number of sheep $a^2 + b^2$ is odd.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_casework|Casework]]
+**Metodo:** [[method_casework|Casework]], [[method_congruenze|Modular arithmetic / congruences]]
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_casework_accurato|Casework accurato]]
-**Area:** [[Aritmetica e Teoria dei Numeri]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1rGw5zrDambCYc5_oxsC76MvGBpET1fNn/view)
 
 
@@ -129,11 +157,14 @@ level: Coupe Animath Automne
 > 
 > 1. Noémie possiede più pecore di Tristan. ciascuno di essi ha almeno $2$ pecore; 3. il numero totale di pecore $a^2 + b^2$ è pari.
 
-[[Quesiti/src_canimath_2020_automne#q04|src_canimath_2020_automne__Q04]]
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Analisi per casi]], [[method_congruenze|Aritmetica modulare / congruenze]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta del testo]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
 
 
 
-<span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_geometria_piana,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
+<span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_geometria_piana,method_coordinate,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -143,8 +174,9 @@ level: Coupe Animath Automne
 > Let $ABCD$ be a trapezoid (non self-crossing) such that the lines $(AB)$ and $(CD)$ are parallel. We write $E$ for the point of intersection of the diagonals $[AC]$ and $[BD]$. Show that the area of the triangle $ADE$ equals the area of the triangle $BCE$.
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_coordinate|Coordinate method]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
-**Area:** [[Geometria]]
+**Area:** [[Geometria|Geometry]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1rGw5zrDambCYc5_oxsC76MvGBpET1fNn/view)
 
 
@@ -155,14 +187,14 @@ level: Coupe Animath Automne
 
 > Il $ABCD$ deve essere un trapezoide (non auto-crosso) tale che le linee $(AB)$ e $(CD)$ siano parallele. Scriviamo $E$ per il punto di intersezione delle diagonali $[AC]$ e $[BD]$. Indicare che l'area del triangolo $ADE$ è uguale all'area del triangolo $BCE$.
 
-[[Quesiti/src_canimath_2020_automne#q05|src_canimath_2020_automne__Q05]]
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_coordinate|Metodo delle coordinate]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
 
 
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_combinatoria,method_casework,method_estremalita,skill_conteggio_sistematico,skill_ragionamento_geometrico,skill_casework_accurato"></span>
-
-<div class="qlang-switch" data-default="en"></div>
-
 
 *Show 12 pebbles on an 8x8 board can be covered by coloring 4 rows and 4 columns red*
 
@@ -175,21 +207,34 @@ level: Coupe Animath Automne
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1rGw5zrDambCYc5_oxsC76MvGBpET1fNn/view)
 
 
-<div class="qlang-split" data-lang="it"></div>
 
+<span class="atom-split" id="q06__it" data-atom="q06__it" data-title="Q06__IT" data-tags=""></span>
+
+---
+tipo: quesito-translation
+translation_of: src_canimath_2020_automne__Q06
+lang: it
+secondary: true
+title: "Coupe Animath Automne 2020  Quesito 6"
+summary: "Mostra 12 ciottoli su una tavola 8x8 può essere coperto coloring 4 righe e 4 colonne rosse"
+topics: [topic_combinatoria]
+methods: [method_casework, method_estremalita]
+skills: [skill_conteggio_sistematico, skill_ragionamento_geometrico, skill_casework_accurato]
+tags: [kg/translation, topic/combinatoria]---
 
 *Mostra 12 ciottoli su una lavagna da 8x8 che possono essere coperti colorando 4 righe e 4 colonne in rosso*
 
 > Mettiamo $12$ ciottoli su una scacchiera con righe $8$ e colonne $8$. Ciascuna pietra è stata collocata su uno dei quadrati $64$ della scacchiera (con al massimo una pietra per quadrato). Mostrare che è possibile colorare in rosso le righe $4$ e le colonne $4$ in modo tale che ciascuno dei ciottoli $12$ sia su un quadrato rosso.
 
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casework|Analisi per casi]], [[method_estremalita|Principio di estremalita]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
 [[Quesiti/src_canimath_2020_automne#q06|src_canimath_2020_automne__Q06]]
 
 
 
 <span class="atom-split" id="q07" data-atom="q07" data-title="Quesito 7" data-tags="topic_combinatoria,topic_aritmetica,method_casework,method_conteggio,skill_conteggio_sistematico,skill_lettura_attenta,skill_casework_accurato"></span>
-
-<div class="qlang-switch" data-default="en"></div>
-
 
 *Count integer triples summing to zero with absolute-value sum equal to 2k*
 
@@ -202,18 +247,34 @@ level: Coupe Animath Automne
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1rGw5zrDambCYc5_oxsC76MvGBpET1fNn/view)
 
 
-<div class="qlang-split" data-lang="it"></div>
 
+<span class="atom-split" id="q07__it" data-atom="q07__it" data-title="Q07__IT" data-tags=""></span>
+
+---
+tipo: quesito-translation
+translation_of: src_canimath_2020_automne__Q07
+lang: it
+secondary: true
+title: "Coupe Animath Automne 2020  Quesito 7"
+summary: "Conteggiamo i tripli numeri interi che sommano a zero con valore assoluto pari a 2k"
+topics: [topic_combinatoria, topic_aritmetica]
+methods: [method_casework, method_conteggio]
+skills: [skill_conteggio_sistematico, skill_lettura_attenta, skill_casework_accurato]
+tags: [kg/translation, topic/combinatoria, topic/aritmetica]---
 
 *Conta triplici interi sommati a zero con valore assoluto pari a 2k*
 
 > $k$ sia un numero intero rigorosamente positivo. Per ogni numero reale $x$, il numero $|x|$ è il valore assoluto di $x$, pari a $x$ se $x$ è positivo e $-x$ se $x$ è negativo. Trova il numero di triples $(x, y, z)$ dove $x, y, z$ sono numeri interi come $x + y + z = 0$ e $|x| + |y| + |z| = 2k$.
 
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Analisi per casi]], [[method_conteggio|Conteggio combinatorio]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta del testo]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 [[Quesiti/src_canimath_2020_automne#q07|src_canimath_2020_automne__Q07]]
 
 
 
-<span class="atom-split" id="q08" data-atom="q08" data-title="Quesito 8" data-tags="topic_combinatoria,topic_aritmetica,method_estremalita,method_casework,skill_riconoscimento_pattern,skill_conteggio_sistematico,skill_lettura_attenta"></span>
+<span class="atom-split" id="q08" data-atom="q08" data-title="Quesito 8" data-tags="topic_combinatoria,topic_aritmetica,method_estremalita,method_casework,method_congruenze,skill_riconoscimento_pattern,skill_conteggio_sistematico,skill_lettura_attenta"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -225,9 +286,9 @@ level: Coupe Animath Automne
 > *Note: We say that a set $A$ is included in a set $B$ if every element of $A$ is also an element of $B$.*
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_estremalita|Estremalità]], [[method_casework|Casework]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_casework|Casework]], [[method_congruenze|Modular arithmetic / congruences]]
 **Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]]
-**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1rGw5zrDambCYc5_oxsC76MvGBpET1fNn/view)
 
 
@@ -240,14 +301,14 @@ level: Coupe Animath Automne
 > 
 > *Nota: diciamo che un insieme $A$ è incluso in un insieme $B$ se ogni elemento di $A$ è anche un elemento di $B$.*
 
-[[Quesiti/src_canimath_2020_automne#q08|src_canimath_2020_automne__Q08]]
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_estremalita|Principio di estremalita]], [[method_casework|Analisi per casi]], [[method_congruenze|Aritmetica modulare / congruenze]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta del testo]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 
 
 
 <span class="atom-split" id="q09" data-atom="q09" data-title="Quesito 9" data-tags="topic_algebra,topic_aritmetica,skill_modellizzazione,skill_manipolazione_algebrica"></span>
-
-<div class="qlang-switch" data-default="en"></div>
-
 
 *Find the number of floors of two buildings given total bathrooms and bedrooms (lycée)*
 
@@ -261,8 +322,19 @@ level: Coupe Animath Automne
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1rGw5zrDambCYc5_oxsC76MvGBpET1fNn/view)
 
 
-<div class="qlang-split" data-lang="it"></div>
 
+<span class="atom-split" id="q09__it" data-atom="q09__it" data-title="Q09__IT" data-tags=""></span>
+
+---
+tipo: quesito-translation
+translation_of: src_canimath_2020_automne__Q09
+lang: it
+secondary: true
+title: "Coupe Animath Automne 2020  Quesito 9"
+summary: "Trova il numero di piani di due edifici dato il numero totale di bagni e camere da letto (liceu)"
+topics: [topic_algebra, topic_aritmetica]
+skills: [skill_modellizzazione, skill_manipolazione_algebrica]
+tags: [kg/translation, topic/algebra, topic/aritmetica]---
 
 *Ricerca il numero di piani di due edifici dato il numero totale di bagni e camere da letto (liceu)*
 
@@ -270,11 +342,14 @@ level: Coupe Animath Automne
 > 
 > *Solo una risposta numerica è prevista qui.*
 
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 [[Quesiti/src_canimath_2020_automne#q09|src_canimath_2020_automne__Q09]]
 
 
 
-<span class="atom-split" id="q10" data-atom="q10" data-title="Quesito 10" data-tags="topic_geometria_piana,skill_ragionamento_geometrico,skill_lettura_attenta"></span>
+<span class="atom-split" id="q10" data-atom="q10" data-title="Quesito 10" data-tags="topic_geometria_piana,method_simmetria,skill_ragionamento_geometrico,skill_lettura_attenta"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -284,8 +359,9 @@ level: Coupe Animath Automne
 > Let $ABCD$ be a square and $E$ the point of the segment $[BD]$ such that $EB = AB$. We define the point $F$ as the point of intersection of the lines $(CE)$ and $(AD)$. Find the value of the angle $\widehat{FEA}$.
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_simmetria|Using symmetry]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
-**Area:** [[Geometria]]
+**Area:** [[Geometria|Geometry]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1rGw5zrDambCYc5_oxsC76MvGBpET1fNn/view)
 
 
@@ -296,11 +372,14 @@ level: Coupe Animath Automne
 
 > Il segmento $ABCD$ deve essere quadrato e $E$ il punto del segmento $[BD]$ in modo tale che $EB = AB$. Il punto $F$ è definito come il punto di intersezione delle linee $(CE)$ e $(AD)$. Trova il valore dell'angolo $\widehat{FEA}$.
 
-[[Quesiti/src_canimath_2020_automne#q10|src_canimath_2020_automne__Q10]]
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_simmetria|Sfruttamento della simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta del testo]]
+**Area:** [[Geometria]]
 
 
 
-<span class="atom-split" id="q11" data-atom="q11" data-title="Quesito 11" data-tags="topic_aritmetica,method_casework,skill_conteggio_sistematico,skill_lettura_attenta,skill_casework_accurato"></span>
+<span class="atom-split" id="q11" data-atom="q11" data-title="Quesito 11" data-tags="topic_aritmetica,method_casework,method_congruenze,skill_conteggio_sistematico,skill_lettura_attenta,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -314,9 +393,9 @@ level: Coupe Animath Automne
 > 3. the total number of sheep $a^2 + b^2$ is odd.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_casework|Casework]]
+**Metodo:** [[method_casework|Casework]], [[method_congruenze|Modular arithmetic / congruences]]
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_casework_accurato|Casework accurato]]
-**Area:** [[Aritmetica e Teoria dei Numeri]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1rGw5zrDambCYc5_oxsC76MvGBpET1fNn/view)
 
 
@@ -329,11 +408,14 @@ level: Coupe Animath Automne
 > 
 > 1. Noémie possiede più pecore di Tristan. ciascuno di essi ha almeno $2$ pecore; 3. il numero totale di pecore $a^2 + b^2$ è pari.
 
-[[Quesiti/src_canimath_2020_automne#q11|src_canimath_2020_automne__Q11]]
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Analisi per casi]], [[method_congruenze|Aritmetica modulare / congruenze]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta del testo]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
 
 
 
-<span class="atom-split" id="q12" data-atom="q12" data-title="Quesito 12" data-tags="topic_combinatoria,topic_aritmetica,method_casework,method_conteggio,method_invarianti,skill_conteggio_sistematico,skill_ragionamento_geometrico,skill_casework_accurato"></span>
+<span class="atom-split" id="q12" data-atom="q12" data-title="Quesito 12" data-tags="topic_combinatoria,topic_aritmetica,method_casework,method_conteggio,method_invarianti,method_congruenze,skill_conteggio_sistematico,skill_ragionamento_geometrico,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -343,9 +425,9 @@ level: Coupe Animath Automne
 > We place $9$ integers in the cells of a $3 \times 3$ grid in such a way that the sum of the numbers of a column or of a row is always odd. What values can the number of even cells of such a configuration take?
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]], [[method_invarianti|Invarianti]]
+**Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]], [[method_invarianti|Invarianti]], [[method_congruenze|Modular arithmetic / congruences]]
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_casework_accurato|Casework accurato]]
-**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1rGw5zrDambCYc5_oxsC76MvGBpET1fNn/view)
 
 
@@ -356,11 +438,14 @@ level: Coupe Animath Automne
 
 > Si collocano gli enti $9$ nelle celle di una griglia $3 \times 3$ in modo tale che la somma dei numeri di una colonna o di una riga sia sempre pari. Quali valori possono assumere il numero di cellule pari di tale configurazione?
 
-[[Quesiti/src_canimath_2020_automne#q12|src_canimath_2020_automne__Q12]]
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Analisi per casi]], [[method_conteggio|Conteggio combinatorio]], [[method_invarianti|Invarianti / monovarianti]], [[method_congruenze|Aritmetica modulare / congruenze]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 
 
 
-<span class="atom-split" id="q13" data-atom="q13" data-title="Quesito 13" data-tags="topic_algebra,topic_insiemi_funzioni,method_casework,skill_manipolazione_algebrica,skill_conteggio_sistematico,skill_lettura_attenta"></span>
+<span class="atom-split" id="q13" data-atom="q13" data-title="Quesito 13" data-tags="topic_algebra,topic_insiemi_funzioni,method_casework,skill_manipolazione_algebrica,skill_conteggio_sistematico,skill_lettura_attenta,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -371,8 +456,8 @@ level: Coupe Animath Automne
 
 **Topic:** [[topic_algebra|Algebra]], [[topic_insiemi_funzioni|Insiemi e funzioni]]
 **Metodo:** [[method_casework|Casework]]
-**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]]
-**Area:** [[Algebra e Analisi]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1rGw5zrDambCYc5_oxsC76MvGBpET1fNn/view)
 
 
@@ -383,11 +468,14 @@ level: Coupe Animath Automne
 
 > Per ogni numero reale $x$, scriviamo $\lfloor x \rfloor$ per il numero intero più grande inferiore o uguale a $x$, quindi chiamiamo * parte frazionaria* di $x$ il numero $\langle x \rangle$ definito da $\langle x \rangle = x - \lfloor x \rfloor$. Quanti numeri reali $x$ verificano $1 \le x \le 10$ e $\langle x \rangle^2 = \langle x^2 \rangle$?
 
-[[Quesiti/src_canimath_2020_automne#q13|src_canimath_2020_automne__Q13]]
+**Topic:** [[topic_algebra|Algebra]], [[topic_insiemi_funzioni|Insiemi e funzioni]]
+**Metodo:** [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta del testo]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Algebra e Analisi]]
 
 
 
-<span class="atom-split" id="q14" data-atom="q14" data-title="Quesito 14" data-tags="topic_aritmetica,method_fattorizzazione,method_casework,skill_manipolazione_algebrica,skill_casework_accurato,skill_lettura_attenta"></span>
+<span class="atom-split" id="q14" data-atom="q14" data-title="Quesito 14" data-tags="topic_aritmetica,method_fattorizzazione,method_casework,method_congruenze,skill_manipolazione_algebrica,skill_casework_accurato,skill_lettura_attenta"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -397,9 +485,9 @@ level: Coupe Animath Automne
 > Find the integers $n$ greater than or equal to $2$ such that, writing $a$ for the smallest prime divisor of $n$, one can find a positive divisor of $n$ written $d$ such that $n = a^3 + d^3$.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_casework|Casework]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_casework|Casework]], [[method_congruenze|Modular arithmetic / congruences]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Casework accurato]], [[skill_lettura_attenta|Lettura attenta]]
-**Area:** [[Aritmetica e Teoria dei Numeri]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1rGw5zrDambCYc5_oxsC76MvGBpET1fNn/view)
 
 
@@ -410,14 +498,14 @@ level: Coupe Animath Automne
 
 > Trova i numeri interi $n$ più grandi o uguali a $2$ in modo che, scrivendo $a$ per il più piccolo divisore primo di $n$, si possa trovare un divisore positivo di $n$ scritto $d$ in modo che $n = a^3 + d^3$.
 
-[[Quesiti/src_canimath_2020_automne#q14|src_canimath_2020_automne__Q14]]
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]], [[method_casework|Analisi per casi]], [[method_congruenze|Aritmetica modulare / congruenze]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Casework accurato]], [[skill_lettura_attenta|Lettura attenta del testo]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
 
 
 
 <span class="atom-split" id="q15" data-atom="q15" data-title="Quesito 15" data-tags="topic_geometria_piana,method_coordinate,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
-
-<div class="qlang-switch" data-default="en"></div>
-
 
 *Compute area of triangle MND in a unit-area parallelogram with M on BD, MD=3MB*
 
@@ -430,18 +518,34 @@ level: Coupe Animath Automne
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1rGw5zrDambCYc5_oxsC76MvGBpET1fNn/view)
 
 
-<div class="qlang-split" data-lang="it"></div>
 
+<span class="atom-split" id="q15__it" data-atom="q15__it" data-title="Q15__IT" data-tags=""></span>
+
+---
+tipo: quesito-translation
+translation_of: src_canimath_2020_automne__Q15
+lang: it
+secondary: true
+title: "Coupe Animath Automne 2020  Quesito 15"
+summary: "L'area di calcolo del triangolo MND in un parallelo unitario con M su BD, MD=3MB"
+topics: [topic_geometria_piana]
+methods: [method_coordinate]
+skills: [skill_ragionamento_geometrico, skill_manipolazione_algebrica]
+tags: [kg/translation, topic/geometria_piana]---
 
 *L'area di calcolo del triangolo MND in un parallelo unitario con M su BD, MD=3MB*
 
 > Il $ABCD$ è un parallelo della superficie $1$ e $M$ un punto appartenente al segmento $[BD]$ in modo tale che $MD = 3MB$. Scriviamo $N$ per il punto di intersezione delle linee $(AM)$ e $(CB)$. Calcolare l'area del triangolo $MND$.
 
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_coordinate|Metodo delle coordinate]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
 [[Quesiti/src_canimath_2020_automne#q15|src_canimath_2020_automne__Q15]]
 
 
 
-<span class="atom-split" id="q16" data-atom="q16" data-title="Quesito 16" data-tags="topic_algebra,topic_aritmetica,method_fattorizzazione,method_casework,skill_manipolazione_algebrica,skill_conteggio_sistematico"></span>
+<span class="atom-split" id="q16" data-atom="q16" data-title="Quesito 16" data-tags="topic_algebra,topic_aritmetica,method_fattorizzazione,method_casework,skill_manipolazione_algebrica,skill_conteggio_sistematico,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -452,8 +556,8 @@ level: Coupe Animath Automne
 
 **Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_casework|Casework]]
-**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]]
-**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1rGw5zrDambCYc5_oxsC76MvGBpET1fNn/view)
 
 
@@ -464,11 +568,14 @@ level: Coupe Animath Automne
 
 > Suzanne moltiplica due numeri interi la cui differenza è uguale a $5$ e Martin moltiplica due numeri interi la cui differenza è uguale a $8$. Ottieni lo stesso risultato, che scriviamo $C$. Quali sono i valori possibili di $C$?
 
-[[Quesiti/src_canimath_2020_automne#q16|src_canimath_2020_automne__Q16]]
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]], [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 
 
 
-<span class="atom-split" id="q17" data-atom="q17" data-title="Quesito 17" data-tags="topic_combinatoria,topic_geometria_piana,method_casework,method_estremalita,skill_ragionamento_geometrico,skill_modellizzazione,skill_lettura_attenta"></span>
+<span class="atom-split" id="q17" data-atom="q17" data-title="Quesito 17" data-tags="topic_combinatoria,topic_geometria_piana,method_casework,method_estremalita,method_grafi,skill_ragionamento_geometrico,skill_modellizzazione,skill_lettura_attenta,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -482,9 +589,9 @@ level: Coupe Animath Automne
 > - for each green point, the second nearest point is blue?
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_geometria_piana|Geometria piana]]
-**Metodo:** [[method_casework|Casework]], [[method_estremalita|Estremalità]]
-**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]], [[skill_lettura_attenta|Lettura attenta]]
-**Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
+**Metodo:** [[method_casework|Casework]], [[method_estremalita|Estremalità]], [[method_grafi|Graph theory]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]], [[skill_lettura_attenta|Lettura attenta]], [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Geometria|Geometry]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1rGw5zrDambCYc5_oxsC76MvGBpET1fNn/view)
 
 
@@ -497,4 +604,7 @@ level: Coupe Animath Automne
 > 
 > - per ogni punto blu, il secondo punto più vicino è rosso; - per ogni punto rosso, il secondo punto più vicino è verde; - per ogni punto verde, il secondo punto più vicino è blu?
 
-[[Quesiti/src_canimath_2020_automne#q17|src_canimath_2020_automne__Q17]]
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_casework|Analisi per casi]], [[method_estremalita|Principio di estremalita]], [[method_grafi|Teoria dei grafi]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_lettura_attenta|Lettura attenta del testo]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]

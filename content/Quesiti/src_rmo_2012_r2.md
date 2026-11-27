@@ -19,7 +19,7 @@ level: RMO
 
 > Let $ABCD$ be a unit square. Draw a quadrant of a circle with $A$ as centre and $B$, $D$ as end points of the arc. Similarly, draw a quadrant of a circle with $B$ as centre and $A$, $C$ as end points of the arc. Inscribe a circle $\Gamma$ touching the arc $AC$ internally, the arc $BD$ internally and also touching the side $AB$. Find the radius of the circle $\Gamma$.
 
-![[src_rmo_2012_r2__q01.png]]
+![[src_rmo_2012_r2__Q01.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_coordinate|Coordinate]]
@@ -35,14 +35,12 @@ level: RMO
 
 > Sia $ABCD$ un quadrato unitario. Traccia un quadrante di cerchio con centro in $A$ e con $B$, $D$ come estremi dell'arco. Analogamente, traccia un quadrante di cerchio con centro in $B$ e con $A$, $C$ come estremi dell'arco. Inscrivi un cerchio $\Gamma$ che tocchi internamente l'arco $AC$, tocchi internamente l'arco $BD$ e tocchi anche il lato $AB$. Determinare il raggio del cerchio $\Gamma$.
 
-![[src_rmo_2012_r2__q01.png]]
+![[src_rmo_2012_r2__Q01.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_coordinate|Coordinate]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
-
-[[Quesiti/src_rmo_2012_r2#q01|src_rmo_2012_r2__Q01]]
 
 
 
@@ -74,11 +72,9 @@ level: RMO
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 
-[[Quesiti/src_rmo_2012_r2#q02|src_rmo_2012_r2__Q02]]
 
 
-
-<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_combinatoria,method_conteggio,method_casework,skill_conteggio_sistematico,skill_manipolazione_algebrica"></span>
+<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_combinatoria,method_conteggio,method_casework,skill_conteggio_sistematico,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -89,8 +85,8 @@ level: RMO
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_conteggio|Conteggio]], [[method_casework|Casework]]
-**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
-**Area:** [[Combinatoria, Logica e Probabilita]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Careful reading of the text]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1O1FDigJNhO9Zlam3ioTuOXoyYqoOZxhF/view)
 
 
@@ -101,12 +97,11 @@ level: RMO
 
 > Sia $X = \{1, 2, 3, \ldots, 12\}$. Determinare il numero di coppie $\{A, B\}$ tali che $A \subseteq X$, $B \subseteq X$, $A \neq B$ e $A \cap B = \{2, 3, 5, 7, 8\}$.
 
+
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_conteggio|Conteggio]], [[method_casework|Casework]]
-**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta del testo]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
-
-[[Quesiti/src_rmo_2012_r2#q04|src_rmo_2012_r2__Q04]]
 
 
 
@@ -119,7 +114,7 @@ level: RMO
 
 > Let $ABC$ be a triangle. Let $D$, $E$ be points on the segment $BC$ such that $BD = DE = EC$. Let $F$ be the mid-point of $AC$. Let $BF$ intersect $AD$ in $P$ and $AE$ in $Q$ respectively. Determine $BP/PQ$.
 
-![[src_rmo_2012_r2__q05.png]]
+![[src_rmo_2012_r2__Q05.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_coordinate|Coordinate]], [[method_trigonometria|Trigonometria]]
@@ -135,14 +130,12 @@ level: RMO
 
 > Sia $ABC$ un triangolo. Siano $D$, $E$ dei punti sul segmento $BC$ tali che $BD = DE = EC$. Sia $F$ il punto medio di $AC$. Siano $BF$ e $AE$ incidenti a $AD$ in $P$ e a $Q$ rispettivamente. Determinare $BP/PQ$.
 
-![[src_rmo_2012_r2__q05.png]]
+![[src_rmo_2012_r2__Q05.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_coordinate|Coordinate]], [[method_trigonometria|Trigonometria]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
-
-[[Quesiti/src_rmo_2012_r2#q05|src_rmo_2012_r2__Q05]]
 
 
 
@@ -173,5 +166,3 @@ level: RMO
 **Metodo:** [[method_simmetria|Simmetria]], [[method_fattorizzazione|Fattorizzazione]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Algebra e Analisi]]
-
-[[Quesiti/src_rmo_2012_r2#q06|src_rmo_2012_r2__Q06]]

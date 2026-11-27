@@ -10,7 +10,7 @@ level: OBM Nível 2
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_aritmetica,topic_combinatoria,method_casework,method_conteggio,skill_lettura_attenta,skill_conteggio_sistematico,skill_ragionamento_geometrico"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_aritmetica,topic_combinatoria,topic_geometria_solida,method_casework,method_conteggio,skill_lettura_attenta,skill_conteggio_sistematico,skill_ragionamento_geometrico"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -25,12 +25,12 @@ level: OBM Nível 2
 > 
 > *Remark: there exist two ways of assembling the superdado, changing only the faces that carry a $2$ and a $5$, as in the figure below; you may use each of these two ways as many times as necessary.*
 
-![[src_obm_2014_n2_f3__q01.png]]
+![[src_obm_2014_n2_f3__Q01.png]]
 
-**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]], [[topic_geometria_solida|Solid geometry]]
 **Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]]
 **Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
-**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Geometria|Geometry]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1r_0ohfJcDfYsegu0fO1NCvt_VFQTKDiP/view)
 
 
@@ -47,14 +47,13 @@ level: OBM Nível 2
 >
 > *Osservazione: esistono due modi per assemblare il superdado, cambiando solo le facce che portano un $2$ e un $5$, come nella figura sottostante; è possibile utilizzare ciascuno di questi due modi quante volte sia necessario.*
 
-![[src_obm_2014_n2_f3__q01.png]]
+![[src_obm_2014_n2_f3__Q01.png]]
 
-**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]], [[topic_geometria_solida|Geometria solida]]
 **Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]]
 **Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
-**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
-
-[[Quesiti/src_obm_2014_n2_f3#q01|src_obm_2014_n2_f3__Q01]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 
 
 
@@ -67,7 +66,7 @@ level: OBM Nível 2
 
 > Let $AB$ be a diameter of a circle $\Gamma$ and let $CD$ be a chord perpendicular to that diameter. Let $E$ be the point of intersection of $CD$ and $AB$, and let $P$ be any point on the chord $CD$ different from $E$. The lines $AP$ and $BP$ meet $\Gamma$ again at $F$ and $G$, respectively. If $O$ is the circumcenter of triangle $EFG$, show that the area of triangle $OCD$ is always the same, whatever the chosen point $P$.
 
-![[src_obm_2014_n2_f3__q02.png]]
+![[src_obm_2014_n2_f3__Q02.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_coordinate|Coordinate]], [[method_simmetria|Simmetria]]
@@ -83,14 +82,12 @@ level: OBM Nível 2
 
 > Sia $AB$ un diametro di una circonferenza $\Gamma$ e sia $CD$ una corda perpendicolare a tale diametro. Sia $E$ il punto di intersezione di $CD$ e $AB$, e sia $P$ un punto qualsiasi sulla corda $CD$ diverso da $E$. Le rette $AP$ e $BP$ incontrano nuovamente $\Gamma$ rispettivamente in $F$ e in $G$. Se $O$ è il circocentro del triangolo $EFG$, dimostrare che l'area del triangolo $OCD$ è sempre la stessa, qualunque sia il punto $P$ scelto.
 
-![[src_obm_2014_n2_f3__q02.png]]
+![[src_obm_2014_n2_f3__Q02.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_coordinate|Coordinate]], [[method_simmetria|Simmetria]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
-
-[[Quesiti/src_obm_2014_n2_f3#q02|src_obm_2014_n2_f3__Q02]]
 
 
 
@@ -121,8 +118,6 @@ level: OBM Nível 2
 **Metodo:** [[method_congruenze|Congruenze]], [[method_casework|Casework]]
 **Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
-
-[[Quesiti/src_obm_2014_n2_f3#q03|src_obm_2014_n2_f3__Q03]]
 
 
 
@@ -156,11 +151,9 @@ level: OBM Nível 2
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 
-[[Quesiti/src_obm_2014_n2_f3#q04|src_obm_2014_n2_f3__Q04]]
 
 
-
-<span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_algebra,method_disuguaglianze,method_fattorizzazione,skill_manipolazione_algebrica,skill_astrazione"></span>
+<span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_algebra,topic_disuguaglianze,method_disuguaglianze,method_fattorizzazione,skill_manipolazione_algebrica,skill_astrazione"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -169,10 +162,10 @@ level: OBM Nível 2
 
 > Let $p$ and $q$ be integers. Knowing that $x^2 + px + q$ is positive for every integer $x$, prove that the equation $x^2 + px + q = 0$ has no real solution.
 
-**Topic:** [[topic_algebra|Algebra]]
+**Topic:** [[topic_algebra|Algebra]], [[topic_disuguaglianze|Inequalities]]
 **Metodo:** [[method_disuguaglianze|Disuguaglianze]], [[method_fattorizzazione|Fattorizzazione]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]]
-**Area:** [[Algebra e Analisi]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1r_0ohfJcDfYsegu0fO1NCvt_VFQTKDiP/view)
 
 
@@ -183,12 +176,11 @@ level: OBM Nível 2
 
 > Siano $p$ e $q$ numeri interi. Sapendo che $x^2 + px + q$ è positivo per ogni numero intero $x$, dimostrare che l'equazione $x^2 + px + q = 0$ non ammette soluzioni reali.
 
-**Topic:** [[topic_algebra|Algebra]]
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_disuguaglianze|Disuguaglianze]]
 **Metodo:** [[method_disuguaglianze|Disuguaglianze]], [[method_fattorizzazione|Fattorizzazione]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]]
 **Area:** [[Algebra e Analisi]]
-
-[[Quesiti/src_obm_2014_n2_f3#q05|src_obm_2014_n2_f3__Q05]]
 
 
 
@@ -201,7 +193,7 @@ level: OBM Nível 2
 
 > In each cell of a $2m \times 2n$ board an integer is written. The allowed operation is to choose three cells forming a figure congruent to an L-tromino, as indicated in the figure below, and to add $1$ to each of these three cells. Determine the necessary and sufficient condition, in terms of $m$, $n$ and the initial numbers, for it to be possible to make all the numbers equal.
 
-![[src_obm_2014_n2_f3__q06.png]]
+![[src_obm_2014_n2_f3__Q06.png]]
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_invarianti|Invarianti]], [[method_colorazione|Colorazione]], [[method_congruenze|Congruenze]]
@@ -217,11 +209,9 @@ level: OBM Nível 2
 
 > In ogni cella di una scacchiera $2m \times 2n$ è scritto un numero intero. L'operazione consentita consiste nel scegliere tre celle che formano una figura congruente a un tromino a L, come indicato nella figura sottostante, e nell'aggiungere $1$ a ciascuna di queste tre celle. Determinare la condizione necessaria e sufficiente, in termini di $m$, $n$ e dei numeri iniziali, affinché sia possibile rendere tutti i numeri uguali.
 
-![[src_obm_2014_n2_f3__q06.png]]
+![[src_obm_2014_n2_f3__Q06.png]]
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_invarianti|Invarianti]], [[method_colorazione|Colorazione]], [[method_congruenze|Congruenze]]
 **Abilita:** [[skill_astrazione|Astrazione]], [[skill_modellizzazione|Modellizzazione]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
-
-[[Quesiti/src_obm_2014_n2_f3#q06|src_obm_2014_n2_f3__Q06]]

@@ -36,8 +36,7 @@ level: China Girls' Mathematical Olympiad
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei numeri]]
 **Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]], [[method_casework|Analisi per casi]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta del testo]]
-
-[[Quesiti/src_cn_cgmo_2002#q01|src_cn_cgmo_2002__Q01]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
 
 
 
@@ -75,12 +74,11 @@ level: China Girls' Mathematical Olympiad
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_doppio_conteggio|Doppio conteggio]], [[method_casework|Analisi per casi]], [[method_induzione|Induzione]]
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
-
-[[Quesiti/src_cn_cgmo_2002#q02|src_cn_cgmo_2002__Q02]]
-
+**Area:** [[Combinatoria, Logica e Probabilita]]
 
 
-<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_disuguaglianze,topic_geometria_piana,method_disuguaglianze,method_estremalita,method_casework,skill_manipolazione_algebrica,skill_ragionamento_geometrico,skill_riconoscimento_pattern"></span>
+
+<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_disuguaglianze,topic_geometria_piana,method_disuguaglianze,method_estremalita,method_casework,method_fattorizzazione,skill_manipolazione_algebrica,skill_ragionamento_geometrico,skill_riconoscimento_pattern,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -90,9 +88,9 @@ level: China Girls' Mathematical Olympiad
 > Find all positive integers $k$ such that for any positive numbers $a$, $b$ and $c$ satisfying the inequality $k(ab + bc + ca) > 5(a^2 + b^2 + c^2)$, there must exist a triangle with $a$, $b$ and $c$ as the lengths of its three sides respectively. (posed by Qian Zhanwang)
 
 **Topic:** [[topic_disuguaglianze|Disuguaglianze]], [[topic_geometria_piana|Geometria piana]]
-**Metodo:** [[method_disuguaglianze|Disuguaglianze]], [[method_estremalita|Estremalità]], [[method_casework|Casework]]
-**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
-**Area:** [[Algebra e Analisi]], [[Geometria]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze]], [[method_estremalita|Estremalità]], [[method_casework|Casework]], [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Geometria|Geometry]]
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1Bie5BlTQQyjdGifDyOeZ-kZzNFzUwbxT/view)
 
 
@@ -103,15 +101,15 @@ level: China Girls' Mathematical Olympiad
 
 > Trovare tutti gli interi positivi $k$ tali che, per qualunque numeri positivi $a$, $b$ e $c$ che soddisfano la disuguaglianza $k(ab + bc + ca) > 5(a^2 + b^2 + c^2)$, esista necessariamente un triangolo avente $a$, $b$ e $c$ come lunghezze dei tre lati rispettivamente. (proposto da Qian Zhanwang)
 
+
 **Topic:** [[topic_disuguaglianze|Disuguaglianze]], [[topic_geometria_piana|Geometria piana]]
-**Metodo:** [[method_disuguaglianze|Disuguaglianze classiche]], [[method_estremalita|Principio di estremalità]], [[method_casework|Analisi per casi]]
-**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
-
-[[Quesiti/src_cn_cgmo_2002#q03|src_cn_cgmo_2002__Q03]]
-
+**Metodo:** [[method_disuguaglianze|Disuguaglianze classiche]], [[method_estremalita|Principio di estremalità]], [[method_casework|Analisi per casi]], [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Algebra e Analisi]], [[Geometria]]
 
 
-<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_geometria_piana,method_trigonometria,method_simmetria,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
+
+<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_geometria_piana,topic_trigonometria,method_trigonometria,method_simmetria,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -120,12 +118,12 @@ level: China Girls' Mathematical Olympiad
 
 > Circles $O_1$, $O_2$ intersect at two points $B$ and $C$, and $BC$ is the diameter of circle $O_1$. Construct a tangent line of circle $O_1$ at $C$ and intersecting circle $O_2$ at another point $A$. Join $AB$ to intersecting circle $O_1$ at point $E$, then join $CE$ and extend it to intersect circle $O_2$ at point $F$. Assume $H$ is an arbitrary point on line segment $AF$. Extend $HE$ and extend it to intersect circle $O_1$ at point $G$, and extend the line $HG$ to intersect the extension of line $AC$ at point $D$. Prove: $$\frac{AH}{HF} = \frac{CD}{CF}.$$ (posed by Xiong Bin)
 
-![[src_cn_cgmo_2002__q04.png]]
+![[src_cn_cgmo_2002__Q04.png]]
 
-**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometry]]
 **Metodo:** [[method_trigonometria|Trigonometria]], [[method_simmetria|Simmetria]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
-**Area:** [[Geometria]]
+**Area:** [[Geometria|Geometry]]
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1Bie5BlTQQyjdGifDyOeZ-kZzNFzUwbxT/view)
 
 
@@ -138,10 +136,11 @@ level: China Girls' Mathematical Olympiad
 > $$\frac{AH}{HF} = \frac{CD}{CF}.$$
 > (proposto da Xiong Bin)
 
-**Topic:** [[topic_geometria_piana|Geometria piana]]
+
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometria]]
 **Metodo:** [[method_trigonometria|Tecniche trigonometriche]], [[method_simmetria|Sfruttamento della simmetria]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
-
+**Area:** [[Geometria]]
 [[src_cn_cgmo_2002__Q04.png]]
 
 
@@ -174,8 +173,7 @@ level: China Girls' Mathematical Olympiad
 **Topic:** [[topic_algebra|Algebra]], [[topic_disuguaglianze|Disuguaglianze]]
 **Metodo:** [[method_disuguaglianze|Disuguaglianze classiche]], [[method_estremalita|Principio di estremalità]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_stima|Stima e approssimazione]]
-
-[[Quesiti/src_cn_cgmo_2002#q05|src_cn_cgmo_2002__Q05]]
+**Area:** [[Algebra e Analisi]]
 
 
 
@@ -205,8 +203,7 @@ level: China Girls' Mathematical Olympiad
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei numeri]], [[topic_algebra|Algebra]]
 **Metodo:** [[method_casework|Analisi per casi]], [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Analisi accurata dei casi]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
-
-[[Quesiti/src_cn_cgmo_2002#q06|src_cn_cgmo_2002__Q06]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 
 
 
@@ -219,7 +216,7 @@ level: China Girls' Mathematical Olympiad
 
 > An acute triangle $ABC$ has three altitudes $AD$, $BE$ and $CF$ respectively. Prove that the perimeter of triangle $DEF$ is not over half of the perimeter of triangle $ABC$. (posed by Qi Jianxin)
 
-![[src_cn_cgmo_2002__q07.png]]
+![[src_cn_cgmo_2002__Q07.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometria]]
 **Metodo:** [[method_trigonometria|Trigonometria]], [[method_disuguaglianze|Disuguaglianze]]
@@ -238,12 +235,13 @@ level: China Girls' Mathematical Olympiad
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometria]]
 **Metodo:** [[method_trigonometria|Tecniche trigonometriche]], [[method_disuguaglianze|Disuguaglianze classiche]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima e approssimazione]]
+**Area:** [[Geometria]]
 
 [[src_cn_cgmo_2002__Q07.png]]
 
 
 
-<span class="atom-split" id="q08" data-atom="q08" data-title="Quesito 8" data-tags="topic_combinatoria,topic_geometria_analitica,method_estremalita,method_casework,method_conteggio,skill_conteggio_sistematico,skill_astrazione,skill_modellizzazione"></span>
+<span class="atom-split" id="q08" data-atom="q08" data-title="Quesito 8" data-tags="topic_combinatoria,topic_geometria_analitica,topic_geometria_piana,method_estremalita,method_casework,method_conteggio,skill_conteggio_sistematico,skill_astrazione,skill_modellizzazione,skill_ragionamento_geometrico"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -252,12 +250,12 @@ level: China Girls' Mathematical Olympiad
 
 > Assume that $A_1, A_2, \ldots, A_8$ are eight points taken arbitrarily on a plane. For a directed line $l$ taken arbitrarily on the plane, the projections of $A_1, A_2, \ldots, A_8$ on line $l$ are $P_1, P_2, \ldots, P_8$ according to the direction of line $l$. We get one permutation for $1, 2, \ldots, 8$, namely, $i_1, i_2, i_3, i_4, i_5, i_6, i_7, i_8$. Assume that after these eight points are projected to every directed line on the plane, we get the number of different permutations as $N_8 = N(A_1, \ldots, A_8)$. Find the maximum value of $N_8$. (posed by Su Chun)
 
-![[src_cn_cgmo_2002__q08.png]]
+![[src_cn_cgmo_2002__Q08.png]]
 
-**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_geometria_analitica|Geometria analitica]]
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_geometria_analitica|Geometria analitica]], [[topic_geometria_piana|Plane geometry]]
 **Metodo:** [[method_estremalita|Estremalità]], [[method_casework|Casework]], [[method_conteggio|Conteggio]]
-**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_astrazione|Astrazione]], [[skill_modellizzazione|Modellizzazione]]
-**Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_astrazione|Astrazione]], [[skill_modellizzazione|Modellizzazione]], [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Geometria|Geometry]]
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1Bie5BlTQQyjdGifDyOeZ-kZzNFzUwbxT/view)
 
 
@@ -268,8 +266,9 @@ level: China Girls' Mathematical Olympiad
 
 > Siano $A_1, A_2, \ldots, A_8$ otto punti presi arbitrariamente su un piano. Per una retta orientata $l$ presa arbitrariamente sul piano, le proiezioni di $A_1, A_2, \ldots, A_8$ sulla retta $l$ sono $P_1, P_2, \ldots, P_8$ secondo la direzione della retta $l$. Si ottiene una permutazione di $1, 2, \ldots, 8$, ossia $i_1, i_2, i_3, i_4, i_5, i_6, i_7, i_8$. Si supponga che, dopo aver proiettato questi otto punti su ogni retta orientata del piano, il numero delle permutazioni distinte ottenute sia $N_8 = N(A_1, \ldots, A_8)$. Trovare il valore massimo di $N_8$. (proposto da Su Chun)
 
-**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_geometria_analitica|Geometria analitica]]
-**Metodo:** [[method_estremalita|Principio di estremalità]], [[method_casework|Analisi per casi]], [[method_conteggio|Conteggio combinatorio]]
-**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_astrazione|Astrazione / generalizzazione]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
 
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_geometria_analitica|Geometria analitica]], [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_estremalita|Principio di estremalità]], [[method_casework|Analisi per casi]], [[method_conteggio|Conteggio combinatorio]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_astrazione|Astrazione / generalizzazione]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 [[src_cn_cgmo_2002__Q08.png]]

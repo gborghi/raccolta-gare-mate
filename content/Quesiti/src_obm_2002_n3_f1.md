@@ -25,7 +25,7 @@ level: OBM Nível 3
 > - **(D)** In no semester (six-month period) was company B's total billing greater than company A's.
 > - **(E)** The difference between the total billings of the semester exceeded 20 million reais.
 
-![[src_obm_2002_n3_f1__q01.png]]
+![[src_obm_2002_n3_f1__Q01.png]]
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_logica|Logica]]
 **Metodo:** [[method_casework|Casework]]
@@ -50,7 +50,7 @@ level: OBM Nível 3
 > - **(D)** In nessun semestre (periodo di sei mesi) il fatturato complessivo della società B è stato superiore a quello della società A.
 > - **(E)** La differenza tra i fatturati totali del semestre ha superato i 20 milioni di reais.
 
-![[src_obm_2002_n3_f1__q01.png]]
+![[src_obm_2002_n3_f1__Q01.png]]
 
 > [!warning] Estratto/tradotto: da verificare con la fonte.
 
@@ -58,8 +58,6 @@ level: OBM Nível 3
 **Metodo:** [[method_casework|Casework]]
 **Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_stima|Stima]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
-
-[[Quesiti/src_obm_2002_n3_f1#q01|src_obm_2002_n3_f1__Q01]]
 
 
 
@@ -98,11 +96,9 @@ level: OBM Nível 3
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 
-[[Quesiti/src_obm_2002_n3_f1#q02|src_obm_2002_n3_f1__Q02]]
 
 
-
-<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_algebra,topic_aritmetica,skill_manipolazione_algebrica,skill_modellizzazione"></span>
+<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_algebra,topic_aritmetica,method_fattorizzazione,skill_manipolazione_algebrica,skill_modellizzazione"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -118,8 +114,9 @@ level: OBM Nível 3
 > - **(E)** R\$ 18.000,00 and R\$ 9.000,00
 
 **Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]]
-**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Risposta:** C
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1bd1ppL8aLaD5Izmxohb8Y5c_k2dsKBdY/view)
 
@@ -141,15 +138,15 @@ level: OBM Nível 3
 
 > [!warning] Estratto/tradotto: da verificare con la fonte.
 
+
 **Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]]
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 
-[[Quesiti/src_obm_2002_n3_f1#q03|src_obm_2002_n3_f1__Q03]]
 
 
-
-<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_geometria_solida,topic_insiemi_funzioni,skill_ragionamento_geometrico,skill_lettura_attenta,skill_modellizzazione"></span>
+<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_geometria_solida,topic_insiemi_funzioni,method_casework,skill_ragionamento_geometrico,skill_lettura_attenta,skill_modellizzazione"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -159,11 +156,12 @@ level: OBM Nível 3
 > Next we see four vessels into which Angela will pour water, from a tap whose flow rate is constant. The graphs A and B below represent the water level (vertical axis) in two of the vessels, according to time (horizontal axis). Which of the vessels corresponds to graph A and which to graph B, respectively?
 > (A) 3 and 4 (B) 2 and 4 (C) 1 and 3 (D) 2 and 3 (E) 1 and 4
 
-![[src_obm_2002_n3_f1__q04.png]]
+![[src_obm_2002_n3_f1__Q04.png]]
 
 **Topic:** [[topic_geometria_solida|Geometria solida]], [[topic_insiemi_funzioni|Insiemi e funzioni]]
+**Metodo:** [[method_casework|Case analysis]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_modellizzazione|Modellizzazione]]
-**Area:** [[Geometria]], [[Algebra e Analisi]]
+**Area:** [[Geometria|Geometry]], [[Algebra e Analisi|Algebra and analysis]]
 **Risposta:** B
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1bd1ppL8aLaD5Izmxohb8Y5c_k2dsKBdY/view)
 
@@ -178,19 +176,19 @@ level: OBM Nível 3
 > Successivamente vediamo quattro recipienti in cui Angela verserà dell'acqua, prelevandola da un rubinetto a portata costante. I grafici A e B qui sotto rappresentano il livello dell'acqua (asse verticale) in due dei recipienti, in funzione del tempo (asse orizzontale). Quale dei recipienti corrisponde al grafico A e quale al grafico B, rispettivamente?
 > (A) 3 e 4 (B) 2 e 4 (C) 1 e 3 (D) 2 e 3 (E) 1 e 4
 
-![[src_obm_2002_n3_f1__q04.png]]
+![[src_obm_2002_n3_f1__Q04.png]]
 
 > [!warning] Estratto/tradotto: da verificare con la fonte.
 
+
 **Topic:** [[topic_geometria_solida|Geometria solida]], [[topic_insiemi_funzioni|Insiemi e funzioni]]
+**Metodo:** [[method_casework|Analisi per casi]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_modellizzazione|Modellizzazione]]
 **Area:** [[Geometria]], [[Algebra e Analisi]]
 
-[[Quesiti/src_obm_2002_n3_f1#q04|src_obm_2002_n3_f1__Q04]]
 
 
-
-<span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_aritmetica,topic_algebra,method_casework,skill_modellizzazione,skill_stima"></span>
+<span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_aritmetica,topic_algebra,method_casework,skill_modellizzazione,skill_stima,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -202,8 +200,8 @@ level: OBM Nível 3
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
 **Metodo:** [[method_casework|Casework]]
-**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_stima|Stima]]
-**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_stima|Stima]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Algebra e Analisi|Algebra and analysis]]
 **Risposta:** B
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1bd1ppL8aLaD5Izmxohb8Y5c_k2dsKBdY/view)
 
@@ -220,16 +218,15 @@ level: OBM Nível 3
 
 > [!warning] Estratto/tradotto: da verificare con la fonte.
 
+
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
 **Metodo:** [[method_casework|Casework]]
-**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_stima|Stima]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_stima|Stima]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 
-[[Quesiti/src_obm_2002_n3_f1#q05|src_obm_2002_n3_f1__Q05]]
 
 
-
-<span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_aritmetica,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
+<span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_aritmetica,method_fattorizzazione,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -245,8 +242,9 @@ level: OBM Nível 3
 > - **(E)** ended up 10% lower
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
-**Area:** [[Aritmetica e Teoria dei Numeri]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Risposta:** A
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1bd1ppL8aLaD5Izmxohb8Y5c_k2dsKBdY/view)
 
@@ -268,15 +266,15 @@ level: OBM Nível 3
 
 > [!warning] Estratto/tradotto: da verificare con la fonte.
 
+
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 
-[[Quesiti/src_obm_2002_n3_f1#q06|src_obm_2002_n3_f1__Q06]]
 
 
-
-<span class="atom-split" id="q07" data-atom="q07" data-title="Quesito 7" data-tags="topic_aritmetica,topic_algebra,skill_modellizzazione,skill_manipolazione_algebrica"></span>
+<span class="atom-split" id="q07" data-atom="q07" data-title="Quesito 7" data-tags="topic_aritmetica,topic_algebra,method_fattorizzazione,skill_modellizzazione,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -287,8 +285,9 @@ level: OBM Nível 3
 > (A) $\dfrac{2}{5}$ (B) $\dfrac{9}{20}$ (C) $\dfrac{1}{2}$ (D) $\dfrac{2}{3}$ (E) $\dfrac{9}{10}$
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
-**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
-**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Careful reading of the text]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Algebra e Analisi|Algebra and analysis]]
 **Risposta:** B
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1bd1ppL8aLaD5Izmxohb8Y5c_k2dsKBdY/view)
 
@@ -305,15 +304,15 @@ level: OBM Nível 3
 
 > [!warning] Estratto/tradotto: da verificare con la fonte.
 
+
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
-**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta del testo]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 
-[[Quesiti/src_obm_2002_n3_f1#q07|src_obm_2002_n3_f1__Q07]]
 
 
-
-<span class="atom-split" id="q08" data-atom="q08" data-title="Quesito 8" data-tags="topic_geometria_piana,topic_aritmetica,method_conteggio,skill_riconoscimento_pattern,skill_conteggio_sistematico"></span>
+<span class="atom-split" id="q08" data-atom="q08" data-title="Quesito 8" data-tags="topic_geometria_piana,topic_aritmetica,method_conteggio,skill_riconoscimento_pattern,skill_conteggio_sistematico,skill_ragionamento_geometrico"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -323,12 +322,12 @@ level: OBM Nível 3
 > The polygonal line $AB$ is drawn keeping always the same pattern shown in the figure. Its total length is equal to:
 > (A) 31 (B) 88 (C) 90 (D) 97 (E) 105
 
-![[src_obm_2002_n3_f1__q08.png]]
+![[src_obm_2002_n3_f1__Q08.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_conteggio|Conteggio]]
-**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_conteggio_sistematico|Conteggio sistematico]]
-**Area:** [[Geometria]], [[Aritmetica e Teoria dei Numeri]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Risposta:** D
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1bd1ppL8aLaD5Izmxohb8Y5c_k2dsKBdY/view)
 
@@ -343,20 +342,19 @@ level: OBM Nível 3
 > La linea poligonale $AB$ viene tracciata mantenendo sempre lo stesso schema mostrato nella figura. La sua lunghezza totale è pari a:
 > (A) 31 (B) 88 (C) 90 (D) 97 (E) 105
 
-![[src_obm_2002_n3_f1__q08.png]]
+![[src_obm_2002_n3_f1__Q08.png]]
 
 > [!warning] Estratto/tradotto: da verificare con la fonte.
 
+
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_conteggio|Conteggio]]
-**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]], [[Aritmetica e Teoria dei Numeri]]
 
-[[Quesiti/src_obm_2002_n3_f1#q08|src_obm_2002_n3_f1__Q08]]
 
 
-
-<span class="atom-split" id="q09" data-atom="q09" data-title="Quesito 9" data-tags="topic_geometria_piana,skill_ragionamento_geometrico"></span>
+<span class="atom-split" id="q09" data-atom="q09" data-title="Quesito 9" data-tags="topic_geometria_piana,method_simmetria,skill_ragionamento_geometrico"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -365,11 +363,12 @@ level: OBM Nível 3
 
 > By drawing line segments, we can divide a square into two congruent squares, four congruent trapezoids and two congruent triangles, as indicated in the drawing below, on the left. Eliminating some of these parts, we can assemble the octagon represented on the right. What fraction of the area of the square was eliminated?
 
-![[src_obm_2002_n3_f1__q09.png]]
+![[src_obm_2002_n3_f1__Q09.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_simmetria|Using symmetry]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
-**Area:** [[Geometria]]
+**Area:** [[Geometria|Geometry]]
 **Risposta:** B
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1bd1ppL8aLaD5Izmxohb8Y5c_k2dsKBdY/view)
 
@@ -383,19 +382,19 @@ level: OBM Nível 3
 
 > Tracciando segmenti di retta, possiamo dividere un quadrato in due quadrati congruenti, quattro trapezi congruenti e due triangoli congruenti, come indicato nel disegno qui sotto, a sinistra. Eliminando alcune di queste parti, possiamo comporre l'ottagono rappresentato a destra. Che frazione dell'area del quadrato è stata eliminata?
 
-![[src_obm_2002_n3_f1__q09.png]]
+![[src_obm_2002_n3_f1__Q09.png]]
 
 > [!warning] Estratto/tradotto: da verificare con la fonte.
 
+
 **Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_simmetria|Sfruttamento della simmetria]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]]
 
-[[Quesiti/src_obm_2002_n3_f1#q09|src_obm_2002_n3_f1__Q09]]
 
 
-
-<span class="atom-split" id="q10" data-atom="q10" data-title="Quesito 10" data-tags="topic_algebra,skill_manipolazione_algebrica"></span>
+<span class="atom-split" id="q10" data-atom="q10" data-title="Quesito 10" data-tags="topic_algebra,method_fattorizzazione,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -406,8 +405,9 @@ level: OBM Nível 3
 > (A) $\dfrac{5}{2}$ (B) $\dfrac{25}{4}$ (C) $\dfrac{5}{4}$ (D) $\dfrac{1}{2}$ (E) 1
 
 **Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
-**Area:** [[Algebra e Analisi]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
 **Risposta:** B
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1bd1ppL8aLaD5Izmxohb8Y5c_k2dsKBdY/view)
 
@@ -424,15 +424,15 @@ level: OBM Nível 3
 
 > [!warning] Estratto/tradotto: da verificare con la fonte.
 
+
 **Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Algebra e Analisi]]
 
-[[Quesiti/src_obm_2002_n3_f1#q10|src_obm_2002_n3_f1__Q10]]
 
 
-
-<span class="atom-split" id="q11" data-atom="q11" data-title="Quesito 11" data-tags="topic_aritmetica,topic_algebra,skill_modellizzazione,skill_manipolazione_algebrica"></span>
+<span class="atom-split" id="q11" data-atom="q11" data-title="Quesito 11" data-tags="topic_aritmetica,topic_algebra,method_fattorizzazione,skill_modellizzazione,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -448,8 +448,9 @@ level: OBM Nível 3
 > - **(E)** There are equal quantities of doctors and lawyers in the group.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
 **Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
-**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Algebra e Analisi|Algebra and analysis]]
 **Risposta:** B
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1bd1ppL8aLaD5Izmxohb8Y5c_k2dsKBdY/view)
 
@@ -471,15 +472,15 @@ level: OBM Nível 3
 
 > [!warning] Estratto/tradotto: da verificare con la fonte.
 
+
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
 **Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 
-[[Quesiti/src_obm_2002_n3_f1#q11|src_obm_2002_n3_f1__Q11]]
 
 
-
-<span class="atom-split" id="q12" data-atom="q12" data-title="Quesito 12" data-tags="topic_algebra,skill_manipolazione_algebrica"></span>
+<span class="atom-split" id="q12" data-atom="q12" data-title="Quesito 12" data-tags="topic_algebra,method_fattorizzazione,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -490,8 +491,9 @@ level: OBM Nível 3
 > (A) 5 (B) 6 (C) 7 (D) 8 (E) 9
 
 **Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
-**Area:** [[Algebra e Analisi]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
 **Risposta:** B
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1bd1ppL8aLaD5Izmxohb8Y5c_k2dsKBdY/view)
 
@@ -508,15 +510,15 @@ level: OBM Nível 3
 
 > [!warning] Estratto/tradotto: da verificare con la fonte.
 
+
 **Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Algebra e Analisi]]
 
-[[Quesiti/src_obm_2002_n3_f1#q12|src_obm_2002_n3_f1__Q12]]
 
 
-
-<span class="atom-split" id="q13" data-atom="q13" data-title="Quesito 13" data-tags="topic_algebra,topic_logica,skill_lettura_attenta,skill_manipolazione_algebrica"></span>
+<span class="atom-split" id="q13" data-atom="q13" data-title="Quesito 13" data-tags="topic_algebra,topic_logica,method_casework,skill_lettura_attenta,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -533,8 +535,9 @@ level: OBM Nível 3
 > (A) In step 2. (B) In step 3. (C) In step 4. (D) In step 5. (E) In step 6.
 
 **Topic:** [[topic_algebra|Algebra]], [[topic_logica|Logica]]
+**Metodo:** [[method_casework|Case analysis]]
 **Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
-**Area:** [[Algebra e Analisi]], [[Combinatoria, Logica e Probabilita]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Risposta:** C
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1bd1ppL8aLaD5Izmxohb8Y5c_k2dsKBdY/view)
 
@@ -557,15 +560,15 @@ level: OBM Nível 3
 
 > [!warning] Estratto/tradotto: da verificare con la fonte.
 
+
 **Topic:** [[topic_algebra|Algebra]], [[topic_logica|Logica]]
+**Metodo:** [[method_casework|Analisi per casi]]
 **Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Algebra e Analisi]], [[Combinatoria, Logica e Probabilita]]
 
-[[Quesiti/src_obm_2002_n3_f1#q13|src_obm_2002_n3_f1__Q13]]
 
 
-
-<span class="atom-split" id="q14" data-atom="q14" data-title="Quesito 14" data-tags="topic_logica,topic_aritmetica,method_conteggio,skill_lettura_attenta,skill_conteggio_sistematico"></span>
+<span class="atom-split" id="q14" data-atom="q14" data-title="Quesito 14" data-tags="topic_logica,topic_aritmetica,method_conteggio,method_casework,skill_lettura_attenta,skill_conteggio_sistematico,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -576,9 +579,9 @@ level: OBM Nível 3
 > (A) Forty-eight. (B) Forty-nine. (C) Fifty. (D) Fifty-one. (E) Fifty-two.
 
 **Topic:** [[topic_logica|Logica]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_conteggio|Conteggio]]
-**Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_conteggio_sistematico|Conteggio sistematico]]
-**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
+**Metodo:** [[method_conteggio|Conteggio]], [[method_casework|Case analysis]]
+**Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Risposta:** D
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1bd1ppL8aLaD5Izmxohb8Y5c_k2dsKBdY/view)
 
@@ -595,12 +598,11 @@ level: OBM Nível 3
 
 > [!warning] Estratto/tradotto: da verificare con la fonte.
 
-**Topic:** [[topic_logica|Logica]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_conteggio|Conteggio]]
-**Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_conteggio_sistematico|Conteggio sistematico]]
-**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 
-[[Quesiti/src_obm_2002_n3_f1#q14|src_obm_2002_n3_f1__Q14]]
+**Topic:** [[topic_logica|Logica]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_conteggio|Conteggio]], [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 
 
 
@@ -653,11 +655,9 @@ level: OBM Nível 3
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 
-[[Quesiti/src_obm_2002_n3_f1#q15|src_obm_2002_n3_f1__Q15]]
 
 
-
-<span class="atom-split" id="q16" data-atom="q16" data-title="Quesito 16" data-tags="topic_funzionali,topic_algebra,skill_manipolazione_algebrica,skill_astrazione"></span>
+<span class="atom-split" id="q16" data-atom="q16" data-title="Quesito 16" data-tags="topic_funzionali,topic_algebra,method_simmetria,method_fattorizzazione,skill_manipolazione_algebrica,skill_astrazione"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -668,8 +668,9 @@ level: OBM Nível 3
 > (A) 1000 (B) 2000 (C) 3000 (D) 4000 (E) 6000
 
 **Topic:** [[topic_funzionali|Equazioni funzionali]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_simmetria|Using symmetry]], [[method_fattorizzazione|Factorisation / algebraic manipulation]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]]
-**Area:** [[Algebra e Analisi]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
 **Risposta:** C
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1bd1ppL8aLaD5Izmxohb8Y5c_k2dsKBdY/view)
 
@@ -686,15 +687,15 @@ level: OBM Nível 3
 
 > [!warning] Estratto/tradotto: da verificare con la fonte.
 
+
 **Topic:** [[topic_funzionali|Equazioni funzionali]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_simmetria|Sfruttamento della simmetria]], [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]]
 **Area:** [[Algebra e Analisi]]
 
-[[Quesiti/src_obm_2002_n3_f1#q16|src_obm_2002_n3_f1__Q16]]
 
 
-
-<span class="atom-split" id="q17" data-atom="q17" data-title="Quesito 17" data-tags="topic_aritmetica,method_fattorizzazione,skill_manipolazione_algebrica,skill_riconoscimento_pattern"></span>
+<span class="atom-split" id="q17" data-atom="q17" data-title="Quesito 17" data-tags="topic_aritmetica,method_fattorizzazione,method_congruenze,skill_manipolazione_algebrica,skill_riconoscimento_pattern"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -705,9 +706,9 @@ level: OBM Nível 3
 > (A) 0 (B) 1 (C) 3 (D) 6 (E) 8
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_fattorizzazione|Fattorizzazione]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_congruenze|Modular arithmetic / congruences]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
-**Area:** [[Aritmetica e Teoria dei Numeri]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Risposta:** D
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1bd1ppL8aLaD5Izmxohb8Y5c_k2dsKBdY/view)
 
@@ -724,12 +725,11 @@ level: OBM Nível 3
 
 > [!warning] Estratto/tradotto: da verificare con la fonte.
 
+
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_fattorizzazione|Fattorizzazione]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_congruenze|Aritmetica modulare / congruenze]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
-
-[[Quesiti/src_obm_2002_n3_f1#q17|src_obm_2002_n3_f1__Q17]]
 
 
 
@@ -743,7 +743,7 @@ level: OBM Nível 3
 > In the circle below, we have that $AB=6$, $BC=2$, $AC$ is a diameter and the angles $A\hat{B}D$ and $C\hat{B}D$ are equal. What is the value of $BD$?
 > (A) $2\sqrt3+1$ (B) $\dfrac{9}{\sqrt5}$ (C) $3\sqrt2$ (D) $2+\sqrt5$ (E) 4
 
-![[src_obm_2002_n3_f1__q18.png]]
+![[src_obm_2002_n3_f1__Q18.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometria]]
 **Metodo:** [[method_trigonometria|Trigonometria]]
@@ -763,7 +763,7 @@ level: OBM Nível 3
 > Nel cerchio sottostante, si ha che $AB=6$, $BC=2$, $AC$ è un diametro e gli angoli $A\hat{B}D$ e $C\hat{B}D$ sono uguali. Qual è il valore di $BD$?
 > (A) $2\sqrt3+1$ (B) $\dfrac{9}{\sqrt5}$ (C) $3\sqrt2$ (D) $2+\sqrt5$ (E) 4
 
-![[src_obm_2002_n3_f1__q18.png]]
+![[src_obm_2002_n3_f1__Q18.png]]
 
 > [!warning] Estratto/tradotto: da verificare con la fonte.
 
@@ -772,11 +772,9 @@ level: OBM Nível 3
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]]
 
-[[Quesiti/src_obm_2002_n3_f1#q18|src_obm_2002_n3_f1__Q18]]
 
 
-
-<span class="atom-split" id="q19" data-atom="q19" data-title="Quesito 19" data-tags="topic_algebra,skill_manipolazione_algebrica"></span>
+<span class="atom-split" id="q19" data-atom="q19" data-title="Quesito 19" data-tags="topic_algebra,method_fattorizzazione,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -787,8 +785,9 @@ level: OBM Nível 3
 > (A) $-1$ (B) $-2$ (C) $-3$ (D) 1 (E) 2
 
 **Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
-**Area:** [[Algebra e Analisi]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
 **Risposta:** C
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1bd1ppL8aLaD5Izmxohb8Y5c_k2dsKBdY/view)
 
@@ -805,11 +804,11 @@ level: OBM Nível 3
 
 > [!warning] Estratto/tradotto: da verificare con la fonte.
 
+
 **Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Algebra e Analisi]]
-
-[[Quesiti/src_obm_2002_n3_f1#q19|src_obm_2002_n3_f1__Q19]]
 
 
 
@@ -848,11 +847,9 @@ level: OBM Nível 3
 **Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 
-[[Quesiti/src_obm_2002_n3_f1#q20|src_obm_2002_n3_f1__Q20]]
 
 
-
-<span class="atom-split" id="q21" data-atom="q21" data-title="Quesito 21" data-tags="topic_geometria_piana,method_coordinate,skill_ragionamento_geometrico"></span>
+<span class="atom-split" id="q21" data-atom="q21" data-title="Quesito 21" data-tags="topic_geometria_piana,method_coordinate,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -862,12 +859,12 @@ level: OBM Nível 3
 > In a trapezoid $ABCD$ of area 1, the base $BC$ measures half of the base $AD$. Let $K$ be the midpoint of the diagonal $AC$. The line $DK$ cuts the side $AB$ at the point $L$. The area of the quadrilateral $BCKL$ is equal to:
 > (A) $\dfrac{3}{4}$ (B) $\dfrac{2}{3}$ (C) $\dfrac{1}{3}$ (D) $\dfrac{2}{9}$ (E) $\dfrac{1}{9}$
 
-![[src_obm_2002_n3_f1__q21.png]]
+![[src_obm_2002_n3_f1__Q21.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_coordinate|Coordinate]]
-**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
-**Area:** [[Geometria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Geometria|Geometry]]
 **Risposta:** D
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1bd1ppL8aLaD5Izmxohb8Y5c_k2dsKBdY/view)
 
@@ -882,21 +879,19 @@ level: OBM Nível 3
 > In un trapezio $ABCD$ di area 1, la base $BC$ è metà della base $AD$. Sia $K$ il punto medio della diagonale $AC$. La retta $DK$ taglia il lato $AB$ nel punto $L$. L'area del quadrilatero $BCKL$ è uguale a:
 > (A) $\dfrac{3}{4}$ (B) $\dfrac{2}{3}$ (C) $\dfrac{1}{3}$ (D) $\dfrac{2}{9}$ (E) $\dfrac{1}{9}$
 
-![[src_obm_2002_n3_f1__q21.png]]
+![[src_obm_2002_n3_f1__Q21.png]]
 
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_coordinate|Coordinate]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
 **Risposta:** D
 
 **Argomento:** [[topic_geometria_piana|Geometria piana]]
 
-**Metodo:** [[method_coordinate|Coordinate]]
-
-**Abilità:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
-
-[[Quesiti/src_obm_2002_n3_f1#q21|src_obm_2002_n3_f1__Q21]]
 
 
-
-<span class="atom-split" id="q22" data-atom="q22" data-title="Quesito 22" data-tags="topic_aritmetica,method_congruenze,method_casework,skill_conteggio_sistematico,skill_riconoscimento_pattern"></span>
+<span class="atom-split" id="q22" data-atom="q22" data-title="Quesito 22" data-tags="topic_aritmetica,method_congruenze,method_casework,skill_conteggio_sistematico,skill_riconoscimento_pattern,skill_casework_accurato,skill_lettura_attenta"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -908,8 +903,8 @@ level: OBM Nível 3
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_congruenze|Congruenze]], [[method_casework|Casework]]
-**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
-**Area:** [[Aritmetica e Teoria dei Numeri]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_casework_accurato|Careful case analysis]], [[skill_lettura_attenta|Careful reading of the text]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Risposta:** C
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1bd1ppL8aLaD5Izmxohb8Y5c_k2dsKBdY/view)
 
@@ -924,15 +919,13 @@ level: OBM Nível 3
 > $N=05399840$ è un intero positivo con cifre tutte distinte: la prima è 0 e l'ultima è ignota. Sapendo che $N$ è multiplo di 198, determinare la cifra delle unità di $N/198$.
 > (A) 5 (B) 6 (C) 7 (D) 8 (E) 9
 
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei numeri]]
+**Metodo:** [[method_congruenze|Congruenze]], [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_casework_accurato|Casework accurato]], [[skill_lettura_attenta|Lettura attenta del testo]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** C
 
 **Argomento:** [[topic_aritmetica|Aritmetica / Teoria dei numeri]]
-
-**Metodo:** [[method_congruenze|Congruenze]], [[method_casework|Analisi per casi]]
-
-**Abilità:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
-
-[[Quesiti/src_obm_2002_n3_f1#q22|src_obm_2002_n3_f1__Q22]]
 
 
 
@@ -971,8 +964,7 @@ level: OBM Nível 3
 **Metodo:** [[method_conteggio|Conteggio]], [[method_doppio_conteggio|Doppio conteggio]], [[method_casi_conteggio|Conteggio per casi]]
 
 **Abilità:** [[skill_conteggio_sistematico|Conteggio sistematico]]
-
-[[Quesiti/src_obm_2002_n3_f1#q23|src_obm_2002_n3_f1__Q23]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 
 
 
@@ -986,7 +978,7 @@ level: OBM Nível 3
 > In triangle $ABC$, angle $\hat{A}$ measures $60^\circ$ and angle $\hat{B}$ measures $50^\circ$. Let $M$ be the midpoint of side $AB$ and $P$ the point on side $BC$ such that $AC+CP=BP$. What is the measure of angle $M\hat{P}C$?
 > (A) $120^\circ$ (B) $125^\circ$ (C) $130^\circ$ (D) $135^\circ$ (E) $145^\circ$
 
-![[src_obm_2002_n3_f1__q24.png]]
+![[src_obm_2002_n3_f1__Q24.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_simmetria|Simmetria]]
@@ -1006,7 +998,7 @@ level: OBM Nível 3
 > Nel triangolo $ABC$ l'angolo $\hat{A}$ misura $60^\circ$ e l'angolo $\hat{B}$ misura $50^\circ$. Sia $M$ il punto medio del lato $AB$ e sia $P$ il punto del lato $BC$ tale che $AC+CP=BP$. Quanto misura l'angolo $M\hat{P}C$?
 > (A) $120^\circ$ (B) $125^\circ$ (C) $130^\circ$ (D) $135^\circ$ (E) $145^\circ$
 
-![[src_obm_2002_n3_f1__q24.png]]
+![[src_obm_2002_n3_f1__Q24.png]]
 
 **Risposta:** E
 
@@ -1015,12 +1007,11 @@ level: OBM Nível 3
 **Metodo:** [[method_simmetria|Simmetria]]
 
 **Abilità:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
-
-[[Quesiti/src_obm_2002_n3_f1#q24|src_obm_2002_n3_f1__Q24]]
-
+**Area:** [[Geometria]]
 
 
-<span class="atom-split" id="q25" data-atom="q25" data-title="Quesito 25" data-tags="topic_probabilita,topic_combinatoria,method_casi_conteggio,method_conteggio,skill_conteggio_sistematico"></span>
+
+<span class="atom-split" id="q25" data-atom="q25" data-title="Quesito 25" data-tags="topic_probabilita,topic_combinatoria,method_casi_conteggio,method_conteggio,skill_conteggio_sistematico,skill_modellizzazione"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -1032,8 +1023,8 @@ level: OBM Nível 3
 
 **Topic:** [[topic_probabilita|Probabilità]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_casi_conteggio|Casi e conteggio]], [[method_conteggio|Conteggio]]
-**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
-**Area:** [[Combinatoria, Logica e Probabilita]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Risposta:** E
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1bd1ppL8aLaD5Izmxohb8Y5c_k2dsKBdY/view)
 
@@ -1048,12 +1039,10 @@ level: OBM Nível 3
 > Due persone si sfidano in un gioco puntando sul pari o sul dispari con il lancio di un dado. Lo zero non fa per loro, e così ciascuna lancia un dado: vince chi ha scelto il risultato pari. La probabilità che vinca chi ha scelto pari è:
 > (A) $1/2$ (B) $2/5$ (C) $3/5$ (D) $12/25$ (E) $13/25$
 
+**Topic:** [[topic_probabilita|Probabilità]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casi_conteggio|Conteggio per casi]], [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** E
 
 **Argomento:** [[topic_probabilita|Probabilità]], [[topic_combinatoria|Combinatoria]]
-
-**Metodo:** [[method_casi_conteggio|Conteggio per casi]], [[method_conteggio|Conteggio]]
-
-**Abilità:** [[skill_conteggio_sistematico|Conteggio sistematico]]
-
-[[Quesiti/src_obm_2002_n3_f1#q25|src_obm_2002_n3_f1__Q25]]

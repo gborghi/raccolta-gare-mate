@@ -10,7 +10,7 @@ level: OBM Nível Universitário
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_geometria_analitica,method_coordinate,skill_manipolazione_algebrica,skill_ragionamento_geometrico,skill_modellizzazione"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_geometria_analitica,topic_geometria_piana,method_coordinate,skill_manipolazione_algebrica,skill_ragionamento_geometrico,skill_modellizzazione"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -19,10 +19,10 @@ level: OBM Nível Universitário
 
 > Let a parabola and a point $A$ outside it be given. For each point $P$ on the parabola, let $t$ be the tangent to the parabola at $P$ and $r$ the line parallel to the axis of the parabola through $P$. The perpendicular to $t$ through $A$ meets $r$ at $Q$. Prove that, as $P$ varies on the parabola, $Q$ traces a hyperbola.
 
-**Topic:** [[topic_geometria_analitica|Geometria analitica]]
+**Topic:** [[topic_geometria_analitica|Geometria analitica]], [[topic_geometria_piana|Plane geometry]]
 **Metodo:** [[method_coordinate|Coordinate]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]]
-**Area:** [[Geometria]]
+**Area:** [[Geometria|Geometry]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1R5KYicEzs-1tzhcQfMKcj37hm0pID2Ks/view)
 
 
@@ -33,12 +33,11 @@ level: OBM Nível Universitário
 
 > Siano dati una parabola e un punto $A$ esterno ad essa. Per ogni punto $P$ sulla parabola, sia $t$ la tangente alla parabola in $P$ e sia $r$ la retta parallela all'asse della parabola che passa per $P$. La perpendicolare a $t$ condotta per $A$ incontra $r$ in $Q$. Dimostrare che, al variare di $P$ sulla parabola, $Q$ descrive un'iperbole.
 
-**Topic:** [[topic_geometria_analitica|Geometria analitica]]
+
+**Topic:** [[topic_geometria_analitica|Geometria analitica]], [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_coordinate|Coordinate]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]]
 **Area:** [[Geometria]]
-
-[[Quesiti/src_obm_2003_nu_f2#q01|src_obm_2003_nu_f2__Q01]]
 
 
 
@@ -80,11 +79,9 @@ level: OBM Nível Universitário
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Algebra e Analisi]]
 
-[[Quesiti/src_obm_2003_nu_f2#q02|src_obm_2003_nu_f2__Q02]]
 
 
-
-<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_algebra,topic_combinatoria,method_casework,method_conteggio,skill_conteggio_sistematico,skill_manipolazione_algebrica,skill_astrazione"></span>
+<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_algebra,topic_combinatoria,method_casework,method_conteggio,skill_conteggio_sistematico,skill_manipolazione_algebrica,skill_astrazione,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -99,8 +96,8 @@ level: OBM Nível Universitário
 
 **Topic:** [[topic_algebra|Algebra]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]]
-**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]]
-**Area:** [[Algebra e Analisi]], [[Combinatoria, Logica e Probabilita]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]], [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1R5KYicEzs-1tzhcQfMKcj37hm0pID2Ks/view)
 
 
@@ -115,16 +112,15 @@ level: OBM Nível Universitário
 >
 > **Osservazione.** $\mathbb{Z}/(p) = \{0, 1, 2, \ldots, p-1\}$ è il campo finito con $p$ elementi. La addizione e il prodotto sono definiti modulo $p$; per esempio, in $\mathbb{Z}/(7)$, $4 + 5 = 2$ e $4 \cdot 5 = 6$.
 
+
 **Topic:** [[topic_algebra|Algebra]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]]
-**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Algebra e Analisi]], [[Combinatoria, Logica e Probabilita]]
 
-[[Quesiti/src_obm_2003_nu_f2#q03|src_obm_2003_nu_f2__Q03]]
 
 
-
-<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_probabilita,method_disuguaglianze,method_casework,skill_manipolazione_algebrica,skill_modellizzazione,skill_lettura_attenta"></span>
+<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_probabilita,topic_disuguaglianze,method_disuguaglianze,method_casework,skill_manipolazione_algebrica,skill_modellizzazione,skill_lettura_attenta"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -137,10 +133,10 @@ level: OBM Nível Universitário
 > $$P(a = c \mid a = b) = \frac{P(a = b \text{ and } a = c)}{P(a = b)}.$$
 > A die is fair if the probability of each face is $\dfrac{1}{6}$.
 
-**Topic:** [[topic_probabilita|Probabilità]]
+**Topic:** [[topic_probabilita|Probabilità]], [[topic_disuguaglianze|Inequalities]]
 **Metodo:** [[method_disuguaglianze|Disuguaglianze]], [[method_casework|Casework]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]], [[skill_lettura_attenta|Lettura attenta]]
-**Area:** [[Combinatoria, Logica e Probabilita]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Algebra e Analisi|Algebra and analysis]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1R5KYicEzs-1tzhcQfMKcj37hm0pID2Ks/view)
 
 
@@ -155,12 +151,11 @@ level: OBM Nível Universitário
 > $$P(a = c \mid a = b) = \frac{P(a = b \text{ and } a = c)}{P(a = b)}.$$
 > Un dado è equo se la probabilità di ciascuna faccia è $\dfrac{1}{6}$.
 
-**Topic:** [[topic_probabilita|Probabilità]]
+
+**Topic:** [[topic_probabilita|Probabilità]], [[topic_disuguaglianze|Disuguaglianze]]
 **Metodo:** [[method_disuguaglianze|Disuguaglianze]], [[method_casework|Casework]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]], [[skill_lettura_attenta|Lettura attenta]]
-**Area:** [[Combinatoria, Logica e Probabilita]]
-
-[[Quesiti/src_obm_2003_nu_f2#q04|src_obm_2003_nu_f2__Q04]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Algebra e Analisi]]
 
 
 
@@ -199,8 +194,6 @@ level: OBM Nível Universitário
 **Metodo:** [[method_induzione|Induzione]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Algebra e Analisi]]
-
-[[Quesiti/src_obm_2003_nu_f2#q05|src_obm_2003_nu_f2__Q05]]
 
 
 
@@ -241,5 +234,3 @@ level: OBM Nível Universitário
 **Metodo:** [[method_disuguaglianze|Disuguaglianze]], [[method_induzione|Induzione]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]], [[skill_astrazione|Astrazione]]
 **Area:** [[Algebra e Analisi]]
-
-[[Quesiti/src_obm_2003_nu_f2#q06|src_obm_2003_nu_f2__Q06]]

@@ -10,7 +10,7 @@ level: nazionale
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_geometria_piana,method_coordinate,skill_ragionamento_geometrico"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_geometria_piana,method_coordinate,method_simmetria,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -26,8 +26,8 @@ level: nazionale
 > p+q.
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
-**Metodo:** [[method_coordinate|Metodo delle coordinate]]
-**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Metodo:** [[method_coordinate|Metodo delle coordinate]], [[method_simmetria|Sfruttamento della simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 **Risposta:** 1193
 **Fonte:** [apri PDF p.19](https://drive.google.com/file/d/1lznDZ0YJYwH6WTw1UhXN3rOaFBlnSIeX/view)
@@ -41,15 +41,15 @@ level: nazionale
 > A quiet afternoon in May
 > Radice is by now bored of being out in the open doing nothing, watching her elder sister Maggioret read a book written in a dense hand. "What is the use of a book without pictures or conversations?", she thinks. To distract herself, she imagines a pretty figure with two parallel lines a and b, a distance 1 apart. On a she takes 11 distinct points A−5, A−4, ..., A4, A5, and on b the distinct points B−5, B−4, ..., B4, B5, so that AiAi+1 = BiBi+1 = 1 for i = −5, ..., 4, and AiBi = 1 for i = −5, ..., 5. She then considers, for each i = −5, ..., 4, the intersection of the triangles AiAi+1B0 and BiBi+1A0. What is the sum of the areas of these 10 figures? If p/q is the solution, expressed as a fraction in lowest terms, answer with p+q.
 
+
 **Topic:** [[topic_geometria_piana|Plane geometry]]
-**Method:** [[method_coordinate|Coordinate method]]
-**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
-
-[[Quesiti/src_cesenatico_2013_finale#q01|src_cesenatico_2013_finale__Q01]]
-
+**Metodo:** [[method_coordinate|Coordinate method]], [[method_simmetria|Using symmetry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Geometria|Geometry]]
 
 
-<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_geometria_piana,method_trigonometria,skill_ragionamento_geometrico"></span>
+
+<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_geometria_piana,method_trigonometria,method_simmetria,skill_ragionamento_geometrico,skill_lettura_attenta"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -67,8 +67,8 @@ level: nazionale
 > perimetro della serratura. Quale risposta dovrà dare Radice?
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
-**Metodo:** [[method_trigonometria|Tecniche trigonometriche]]
-**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Metodo:** [[method_trigonometria|Tecniche trigonometriche]], [[method_simmetria|Sfruttamento della simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta del testo]]
 **Area:** [[Geometria]]
 **Risposta:** 7453
 **Fonte:** [apri PDF p.19](https://drive.google.com/file/d/1lznDZ0YJYwH6WTw1UhXN3rOaFBlnSIeX/view)
@@ -82,15 +82,15 @@ level: nazionale
 > The tiny lock
 > All of a sudden Radice sees a Banach-rabbit slip into a cramped, but normed, space of Banach-rabbits, and, curious, she decides to follow it. As soon as she has entered, she is completely caught up in a long fall that leads her to a little room with a very small locked door. She has crossed the threshold of the Field of Mathewonders. The lock of the door Radice would like to open is the union of an equilateral triangle with vertices ABC and a circle through A, symmetric with respect to the bisector issuing from A, and not intersecting BC. Radice is confused by this strange figure, and the Banach-rabbit explains that to enter she must know the value of the radius of the circle. He also tells her that DE = 7453 (D is the intersection of the circle and the side AC, E is the intersection of the side BC and the tangent to the circle at D). Radice is still perplexed, so the Banach-rabbit gives her one last, important hint: the area of the lock is equal to half the product of the radius of the circle and the perimeter of the lock. What answer will Radice have to give?
 
+
 **Topic:** [[topic_geometria_piana|Plane geometry]]
-**Method:** [[method_trigonometria|Trigonometric techniques]]
-**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
-
-[[Quesiti/src_cesenatico_2013_finale#q02|src_cesenatico_2013_finale__Q02]]
-
+**Metodo:** [[method_trigonometria|Trigonometric techniques]], [[method_simmetria|Using symmetry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_lettura_attenta|Careful reading of the text]]
+**Area:** [[Geometria|Geometry]]
 
 
-<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_aritmetica,method_invarianti,skill_manipolazione_algebrica"></span>
+
+<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_aritmetica,method_invarianti,method_fattorizzazione,method_congruenze,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -106,7 +106,7 @@ level: nazionale
 > Radice è una persona quadrata, anche se talvolta irrazionale, si mette a riflettere sul da farsi. Quanti morsi dovrà dare al pasticcino?
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_invarianti|Invarianti / monovarianti]]
+**Metodo:** [[method_invarianti|Invarianti / monovarianti]], [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]], [[method_congruenze|Aritmetica modulare / congruenze]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 0009
@@ -125,15 +125,15 @@ level: nazionale
 > 81. Radice wants
 > to become exactly one third as tall as she is now, so as to manage to pass through the little door she has glimpsed. Since Radice is a square person, though sometimes irrational, she sets about thinking what to do. How many bites will she have to take of the cake?
 
+
 **Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
-**Method:** [[method_invarianti|Invariants / monovariants]]
-**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
-
-[[Quesiti/src_cesenatico_2013_finale#q03|src_cesenatico_2013_finale__Q03]]
-
+**Metodo:** [[method_invarianti|Invariants / monovariants]], [[method_fattorizzazione|Factorisation / algebraic manipulation]], [[method_congruenze|Modular arithmetic / congruences]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
 
-<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_aritmetica,method_conteggio,skill_casework_accurato"></span>
+
+<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_aritmetica,method_conteggio,method_casi_conteggio,skill_casework_accurato,skill_conteggio_sistematico"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -150,8 +150,8 @@ level: nazionale
 > maggiori di 1
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_conteggio|Conteggio combinatorio]]
-**Abilita:** [[skill_casework_accurato|Casework accurato]]
+**Metodo:** [[method_conteggio|Conteggio combinatorio]], [[method_casi_conteggio|Conteggio per casi]]
+**Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 0560
 **Fonte:** [apri PDF p.19](https://drive.google.com/file/d/1lznDZ0YJYwH6WTw1UhXN3rOaFBlnSIeX/view)
@@ -165,15 +165,15 @@ level: nazionale
 > Wet mouse, unlucky mouse!
 > Unfortunately Radice has made a mess of things: first she grew too large and felt like crying, then she became tiny, losing the phial and the cake. Swimming in the lake formed by her own tears, she meets a Logic Mouse. To start a conversation, Radice begins telling him about her adorable kitten Diny. If only she hadn't! For the Logic Mouse's three brothers died killed by a cat. The Logic Mouse is so upset that he can only remember that when they died they were no more than 25 years old, and that their ages, taken two at a time, were not coprime, but considered all three together they were. Radice, then, to be forgiven, writes all the possible triples of ages (unordered) on a sheet of paper. What is the sum of all the numbers written by Radice? Two integers are said to be coprime if they have no common divisor greater than 1.
 
+
 **Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
-**Method:** [[method_conteggio|Combinatorial counting]]
-**Skill:** [[skill_casework_accurato|Careful case analysis]]
-
-[[Quesiti/src_cesenatico_2013_finale#q04|src_cesenatico_2013_finale__Q04]]
-
+**Metodo:** [[method_conteggio|Combinatorial counting]], [[method_casi_conteggio|Counting by cases]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]], [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
 
-<span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_geometria_piana,method_congruenze,skill_modellizzazione"></span>
+
+<span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_geometria_piana,method_congruenze,method_casework,skill_modellizzazione,skill_ragionamento_geometrico"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -190,8 +190,8 @@ level: nazionale
 > sulla circonferenza. Dopo quanti secondi si incontrano?
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
-**Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]]
-**Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
+**Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]], [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]]
 **Risposta:** 1056
 **Fonte:** [apri PDF p.19](https://drive.google.com/file/d/1lznDZ0YJYwH6WTw1UhXN3rOaFBlnSIeX/view)
@@ -207,15 +207,15 @@ level: nazionale
 > ˆ
 > LBA = 12° and runs in the direction of A on the circle. After how many seconds do they meet?
 
+
 **Topic:** [[topic_geometria_piana|Plane geometry]]
-**Method:** [[method_congruenze|Modular arithmetic / congruences]]
-**Skill:** [[skill_modellizzazione|Modelling / translating the wording]]
-
-[[Quesiti/src_cesenatico_2013_finale#q05|src_cesenatico_2013_finale__Q05]]
-
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]], [[method_casework|Case analysis]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the wording]], [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
 
 
-<span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_geometria_solida,method_coordinate,skill_ragionamento_geometrico"></span>
+
+<span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_geometria_solida,method_coordinate,method_simmetria,skill_ragionamento_geometrico"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -236,7 +236,7 @@ level: nazionale
 > Gara a Squadre 2013 – Finale Nazionale – Testi dei problemi
 
 **Topic:** [[topic_geometria_solida|Geometria solida]]
-**Metodo:** [[method_coordinate|Metodo delle coordinate]]
+**Metodo:** [[method_coordinate|Metodo delle coordinate]], [[method_simmetria|Sfruttamento della simmetria]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]]
 **Risposta:** 0707
@@ -251,15 +251,15 @@ level: nazionale
 > The Banach-rabbit's house
 > The Banach-rabbit is in a hurry: he must be at the Duchessiana's as soon as possible. He has, however, forgotten his white ceremonial fan at home, and so he orders Radice to fetch it. His dwelling is a cube and the white fan is precisely at its centre, but there are other fans in the house as well. If one divides the house into the 8 equal cubes that have side half that of the house and a vertex at the white fan, there are 26 green fans, one at each of the other vertices of the 8 cubes, and 36 red fans, one at the centre of each of their faces. Radice, near the white fan, finds a little bottle with EXP written on it and, driven by curiosity, drinks the contents and begins to grow beyond measure. She expands to such a point that she occupies all and only the points of the house whose nearest fan is the white one. Knowing that the fan nearest to the white one is 1 m away from it, how many cubic decimetres of space does Radice's body occupy?
 
+
 **Topic:** [[topic_geometria_solida|Solid geometry]]
-**Method:** [[method_coordinate|Coordinate method]]
-**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
-
-[[Quesiti/src_cesenatico_2013_finale#q06|src_cesenatico_2013_finale__Q06]]
-
+**Metodo:** [[method_coordinate|Coordinate method]], [[method_simmetria|Using symmetry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
 
 
-<span class="atom-split" id="q07" data-atom="q07" data-title="Quesito 7" data-tags="topic_geometria_solida,method_coordinate,skill_ragionamento_geometrico"></span>
+
+<span class="atom-split" id="q07" data-atom="q07" data-title="Quesito 7" data-tags="topic_geometria_solida,topic_geometria_piana,method_coordinate,method_simmetria,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -272,9 +272,9 @@ level: nazionale
 > 3000 palmipedoni, sono appoggiate su di esso in modo che i loro tre punti più distanti dal suolo formino un piano parallelo al terreno. Quanti
 > palmipedoni dista questo piano da terra?
 
-**Topic:** [[topic_geometria_solida|Geometria solida]]
-**Metodo:** [[method_coordinate|Metodo delle coordinate]]
-**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Topic:** [[topic_geometria_solida|Geometria solida]], [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_coordinate|Metodo delle coordinate]], [[method_simmetria|Sfruttamento della simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 **Risposta:** 8605
 **Fonte:** [apri PDF p.20](https://drive.google.com/file/d/1lznDZ0YJYwH6WTw1UhXN3rOaFBlnSIeX/view)
@@ -288,15 +288,15 @@ level: nazionale
 > Brucaritmo enthroned
 > To understand better where she has ended up, Radice goes to the wise Brucaritmo. Brucaritmo's rounded mushroom is made up of four spheres, all tangent to one another. One sphere resting on the ground, with radius 2000 palmipedoni, forms its stem; three larger ones, of radius 3000 palmipedoni, rest on it so that their three points farthest from the ground form a plane parallel to the ground. How many palmipedoni is this plane from the ground?
 
-**Topic:** [[topic_geometria_solida|Solid geometry]]
-**Method:** [[method_coordinate|Coordinate method]]
-**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
 
-[[Quesiti/src_cesenatico_2013_finale#q07|src_cesenatico_2013_finale__Q07]]
+**Topic:** [[topic_geometria_solida|Solid geometry]], [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_coordinate|Coordinate method]], [[method_simmetria|Using symmetry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Geometria|Geometry]]
 
 
 
-<span class="atom-split" id="q08" data-atom="q08" data-title="Quesito 8" data-tags="topic_aritmetica,method_congruenze,skill_casework_accurato"></span>
+<span class="atom-split" id="q08" data-atom="q08" data-title="Quesito 8" data-tags="topic_aritmetica,method_congruenze,method_conteggio,skill_casework_accurato,skill_conteggio_sistematico"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -311,8 +311,8 @@ level: nazionale
 > quanti sono i possibili numeri di anelli di fumo che posso aver fatto?”
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]]
-**Abilita:** [[skill_casework_accurato|Casework accurato]]
+**Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]], [[method_conteggio|Conteggio combinatorio]]
+**Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 0016
 **Fonte:** [apri PDF p.20](https://drive.google.com/file/d/1lznDZ0YJYwH6WTw1UhXN3rOaFBlnSIeX/view)
@@ -326,15 +326,15 @@ level: nazionale
 > A smoky question
 > One part of Brucaritmo's mushroom has the power to enlarge people, the other to shrink them. Radice would like to take a few pieces from the mushroom, but she can do so only by solving the riddle Brucaritmo sets her: "In all my long life I have created a great many smoke rings with my pipe, and I have always kept count of them. I can tell you that their number is a multiple of 11 and that (in base 10) it is formed of consecutive two-digit numbers placed side by side, starting from 10 (as for example 10, 1011, 101112, 10111213, ...). Knowing only this, how many possible numbers of smoke rings can I have made?"
 
+
 **Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
-**Method:** [[method_congruenze|Modular arithmetic / congruences]]
-**Skill:** [[skill_casework_accurato|Careful case analysis]]
-
-[[Quesiti/src_cesenatico_2013_finale#q08|src_cesenatico_2013_finale__Q08]]
-
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]], [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]], [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
 
-<span class="atom-split" id="q09" data-atom="q09" data-title="Quesito 9" data-tags="topic_algebra,method_conteggio,skill_manipolazione_algebrica"></span>
+
+<span class="atom-split" id="q09" data-atom="q09" data-title="Quesito 9" data-tags="topic_algebra,method_conteggio,method_fattorizzazione,skill_manipolazione_algebrica,skill_riconoscimento_pattern"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -360,8 +360,8 @@ level: nazionale
 > minuti pari al prodotto abcd. Non ti dirò mai il valore di questo numero, viscido serpente!”. Quanto vale questo prodotto?
 
 **Topic:** [[topic_algebra|Algebra]]
-**Metodo:** [[method_conteggio|Conteggio combinatorio]]
-**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Metodo:** [[method_conteggio|Conteggio combinatorio]], [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Algebra e Analisi]]
 **Risposta:** 1865
 **Fonte:** [apri PDF p.20](https://drive.google.com/file/d/1lznDZ0YJYwH6WTw1UhXN3rOaFBlnSIeX/view)
@@ -388,11 +388,11 @@ level: nazionale
 > 71−d: my eggs will be eaten in a number of
 > minutes equal to the product abcd. I shall never tell you the value of this number, slimy snake!". What is this product worth?
 
-**Topic:** [[topic_algebra|Algebra]]
-**Method:** [[method_conteggio|Combinatorial counting]]
-**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
 
-[[Quesiti/src_cesenatico_2013_finale#q09|src_cesenatico_2013_finale__Q09]]
+**Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_conteggio|Combinatorial counting]], [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
 
 
 
@@ -430,8 +430,7 @@ level: nazionale
 **Topic:** [[topic_geometria_piana|Plane geometry]]
 **Method:** [[method_casework|Case analysis]]
 **Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
-
-[[Quesiti/src_cesenatico_2013_finale#q10|src_cesenatico_2013_finale__Q10]]
+**Area:** [[Geometria|Geometry]]
 
 
 
@@ -468,12 +467,11 @@ level: nazionale
 **Topic:** [[topic_algebra|Algebra]]
 **Method:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
 **Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
-
-[[Quesiti/src_cesenatico_2013_finale#q11|src_cesenatico_2013_finale__Q11]]
-
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
 
 
-<span class="atom-split" id="q12" data-atom="q12" data-title="Quesito 12" data-tags="topic_aritmetica,method_congruenze,skill_casework_accurato"></span>
+
+<span class="atom-split" id="q12" data-atom="q12" data-title="Quesito 12" data-tags="topic_aritmetica,method_congruenze,method_fattorizzazione,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -488,7 +486,7 @@ level: nazionale
 > piccolo numero per cui valga questa proprietà con 2013. Che anno è nel Campo delle Mateviglie?
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]]
+**Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]], [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
 **Abilita:** [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 1793
@@ -503,11 +501,11 @@ level: nazionale
 > Mathewonderful jet lag
 > To arrive on time for the game of croquet, the Duchessiana reminds Radice that one must bear in mind that in the Field of Mathewonders a calendar different from the one we commonly use is in force. In particular the years are counted differently. This year, in 2013, a funny thing happens: in the prime factorisations of the two dates, ours and that of the Field of Mathewonders, exactly the same digits appear (as for example in 137 and 91 = 13·7). Moreover, the year according to the calendar of the Field of Mathewonders is the smallest number for which this property holds with 2013. What year is it in the Field of Mathewonders?
 
-**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
-**Method:** [[method_congruenze|Modular arithmetic / congruences]]
-**Skill:** [[skill_casework_accurato|Careful case analysis]]
 
-[[Quesiti/src_cesenatico_2013_finale#q12|src_cesenatico_2013_finale__Q12]]
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]], [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
 
 
@@ -545,12 +543,11 @@ level: nazionale
 **Topic:** [[topic_probabilita|Probability and statistics]]
 **Method:** [[method_inclusione_esclusione|Inclusion–exclusion]]
 **Skill:** [[skill_conteggio_sistematico|Systematic counting]]
-
-[[Quesiti/src_cesenatico_2013_finale#q13|src_cesenatico_2013_finale__Q13]]
-
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
 
-<span class="atom-split" id="q14" data-atom="q14" data-title="Quesito 14" data-tags="topic_combinatoria,method_casework,method_conteggio,skill_conteggio_sistematico"></span>
+
+<span class="atom-split" id="q14" data-atom="q14" data-title="Quesito 14" data-tags="topic_combinatoria,method_casework,method_conteggio,skill_conteggio_sistematico,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -566,7 +563,7 @@ level: nazionale
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_casework|Analisi per casi]], [[method_conteggio|Conteggio combinatorio]]
-**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0800
 **Fonte:** [apri PDF p.20](https://drive.google.com/file/d/1lznDZ0YJYwH6WTw1UhXN3rOaFBlnSIeX/view)
@@ -580,11 +577,11 @@ level: nazionale
 > Tea time
 > Radice reaches the Mad K-hatter, the Diophantine Hare, Ghiρ and the Banach-rabbit, who ask her to join them for the tea ceremony. The table on which the tea is served is rectangular and has 20 chairs on each long side and one chair at the head (on both sides). The Mad K-hatter necessarily wants to sit at the head. The other four all want to sit next to one another, that is, with no empty chairs between them (but not necessarily next to the K-hatter), and all on the same side of the table. Neither Radice nor the K-hatter, however, wants to sit beside Ghiρ. In how many different ways can they sit?
 
-**Topic:** [[topic_combinatoria|Combinatorics]]
-**Method:** [[method_casework|Case analysis]], [[method_conteggio|Combinatorial counting]]
-**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
 
-[[Quesiti/src_cesenatico_2013_finale#q14|src_cesenatico_2013_finale__Q14]]
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_casework|Case analysis]], [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]], [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
 
 
@@ -623,8 +620,7 @@ level: nazionale
 **Topic:** [[topic_combinatoria|Combinatorics]], [[topic_aritmetica|Arithmetic / Number theory]]
 **Method:** [[method_doppio_conteggio|Double counting]]
 **Skill:** [[skill_modellizzazione|Modelling / translating the wording]]
-
-[[Quesiti/src_cesenatico_2013_finale#q15|src_cesenatico_2013_finale__Q15]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
 
 
@@ -669,12 +665,11 @@ level: nazionale
 **Topic:** [[topic_funzionali|Functional equations / sequences]]
 **Method:** [[method_telescoping|Telescoping sums]]
 **Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
-
-[[Quesiti/src_cesenatico_2013_finale#q16|src_cesenatico_2013_finale__Q16]]
-
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
 
 
-<span class="atom-split" id="q17" data-atom="q17" data-title="Quesito 17" data-tags="topic_geometria_solida,skill_ragionamento_geometrico"></span>
+
+<span class="atom-split" id="q17" data-atom="q17" data-title="Quesito 17" data-tags="topic_geometria_solida,method_casework,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -691,7 +686,8 @@ level: nazionale
 > E nel Campo delle Mateviglie la pena per debiti non pagati è la decapitazione! Quanti Fiorini perdono per ogni rosa?
 
 **Topic:** [[topic_geometria_solida|Geometria solida]]
-**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Metodo:** [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 **Risposta:** 8094
 **Fonte:** [apri PDF p.20](https://drive.google.com/file/d/1lznDZ0YJYwH6WTw1UhXN3rOaFBlnSIeX/view)
@@ -705,14 +701,15 @@ level: nazionale
 > There is a crisis in the Field of Mathewonders too
 > The Two, the Five and the Seven of Spades, soldiers of the Queen of Hearts, have decided to put their accumulated experience to use by opening a factory of fake red roses. They do it like this: the heart of the flower is a regular icosahedron of polystyrene, with edges one centimetre long; around it there is a dense layer of satin that occupies all the available space up to a distance of 2 centimetres from the icosahedron. As a last step the outside of the rose is painted red. They manage to obtain the polystyrene and the satin free of charge, while the red paint costs them a thousand florins for every square centimetre of surface to be coloured. The sale price, on the other hand, is fixed at a thousand florins for every cubic centimetre of satin (the polystyrene and the paint are not counted). To their horror, they realise that the expenses exceed the proceeds of the sale. And in the Field of Mathewonders the penalty for unpaid debts is beheading! How many florins do they lose on each rose?
 
+
 **Topic:** [[topic_geometria_solida|Solid geometry]]
-**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Geometria|Geometry]]
 
-[[Quesiti/src_cesenatico_2013_finale#q17|src_cesenatico_2013_finale__Q17]]
 
 
-
-<span class="atom-split" id="q18" data-atom="q18" data-title="Quesito 18" data-tags="topic_aritmetica,method_inclusione_esclusione,skill_casework_accurato"></span>
+<span class="atom-split" id="q18" data-atom="q18" data-title="Quesito 18" data-tags="topic_aritmetica,method_inclusione_esclusione,skill_casework_accurato,skill_conteggio_sistematico"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -728,7 +725,7 @@ level: nazionale
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_inclusione_esclusione|Inclusione-esclusione]]
-**Abilita:** [[skill_casework_accurato|Casework accurato]]
+**Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 5670
 **Fonte:** [apri PDF p.20](https://drive.google.com/file/d/1lznDZ0YJYwH6WTw1UhXN3rOaFBlnSIeX/view)
@@ -742,15 +739,15 @@ level: nazionale
 > An exclusive club
 > Radice reaches the Queen of Hearts to begin the game of croquet. The exclusive croquet club Come quando fuori piove boasts only four members: the King, the Queen and the Knave of Hearts, plus the Banach-rabbit. On the day it was founded all four were present, then the King has come every 42 days, the Queen every 35, the Knave every 45 and the Banach-rabbit every 28. The club has remained open only on the days when at least one of the members was there. The Queen of Hearts explains to Radice that today would have been the 487th day of opening, but in her honour all the members have exceptionally turned up. How many days have passed since the founding of Come quando fuori piove?
 
+
 **Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
-**Method:** [[method_inclusione_esclusione|Inclusion–exclusion]]
-**Skill:** [[skill_casework_accurato|Careful case analysis]]
-
-[[Quesiti/src_cesenatico_2013_finale#q18|src_cesenatico_2013_finale__Q18]]
-
+**Metodo:** [[method_inclusione_esclusione|Inclusion–exclusion]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]], [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
 
-<span class="atom-split" id="q19" data-atom="q19" data-title="Quesito 19" data-tags="topic_aritmetica,topic_algebra,method_fattorizzazione,skill_manipolazione_algebrica"></span>
+
+<span class="atom-split" id="q19" data-atom="q19" data-title="Quesito 19" data-tags="topic_aritmetica,topic_algebra,method_fattorizzazione,method_congruenze,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -771,9 +768,9 @@ level: nazionale
 > rotoleranno oggi come minimo?
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
-**Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]], [[method_congruenze|Aritmetica modulare / congruenze]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
-**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 **Risposta:** 3080
 **Fonte:** [apri PDF p.20](https://drive.google.com/file/d/1lznDZ0YJYwH6WTw1UhXN3rOaFBlnSIeX/view)
 
@@ -792,15 +789,15 @@ level: nazionale
 > d(2011) = 2
 > where d(t) = h is the decapitation function and indicates that h heads were cut off on day t of the record (a negative number indicates people pardoned). Lately the cards have realised that, on a whim of the Queen of Hearts, d is a polynomial with integer coefficients. Today is day 2013 of the record and the Queen is very nervous about the game of croquet, so the number will inevitably be a positive integer. How many heads will roll today, at least?
 
+
 **Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_algebra|Algebra]]
-**Method:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
-**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
-
-[[Quesiti/src_cesenatico_2013_finale#q19|src_cesenatico_2013_finale__Q19]]
-
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]], [[method_congruenze|Modular arithmetic / congruences]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Algebra e Analisi|Algebra and analysis]]
 
 
-<span class="atom-split" id="q20" data-atom="q20" data-title="Quesito 20" data-tags="topic_aritmetica,topic_combinatoria,method_conteggio,skill_conteggio_sistematico"></span>
+
+<span class="atom-split" id="q20" data-atom="q20" data-title="Quesito 20" data-tags="topic_aritmetica,topic_combinatoria,method_conteggio,method_fattorizzazione,skill_conteggio_sistematico,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -816,8 +813,8 @@ level: nazionale
 > ultime quattro cifre del risultato.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
-**Metodo:** [[method_conteggio|Conteggio combinatorio]]
-**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Metodo:** [[method_conteggio|Conteggio combinatorio]], [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 6526
 **Fonte:** [apri PDF p.20](https://drive.google.com/file/d/1lznDZ0YJYwH6WTw1UhXN3rOaFBlnSIeX/view)
@@ -831,11 +828,11 @@ level: nazionale
 > Sea-bream Saturday fever
 > In the long run Radice grows bored of the game of croquet: the balls/hedgehogs move of their own accord and the flamingos/mallets do not cooperate. She thus takes the chance to chat with the Mock Quadratuga and Grif1. Without doubt, her interlocutors' favourite dance is the lobster quadrille. They tell Radice, in fact, that every Saturday the sea and the beach teem with dancing fish and crustaceans. Last Saturday, for example, to count the dancers one could have added up all the positive integers expressible as products of powers of 2 and 3, provided the sum of the exponents lies between 0 and 9, endpoints included. How many took part in Saturday's quadrille? Answer by indicating the last four digits of the result.
 
-**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_combinatoria|Combinatorics]]
-**Method:** [[method_conteggio|Combinatorial counting]]
-**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
 
-[[Quesiti/src_cesenatico_2013_finale#q20|src_cesenatico_2013_finale__Q20]]
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_conteggio|Combinatorial counting]], [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
 
 
@@ -872,12 +869,11 @@ level: nazionale
 **Topic:** [[topic_disuguaglianze|Inequalities]], [[topic_algebra|Algebra]]
 **Method:** [[method_disuguaglianze|Classical inequalities]]
 **Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
-
-[[Quesiti/src_cesenatico_2013_finale#q21|src_cesenatico_2013_finale__Q21]]
-
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
 
 
-<span class="atom-split" id="q22" data-atom="q22" data-title="Quesito 22" data-tags="topic_combinatoria,topic_aritmetica,method_conteggio,skill_conteggio_sistematico"></span>
+
+<span class="atom-split" id="q22" data-atom="q22" data-title="Quesito 22" data-tags="topic_combinatoria,topic_aritmetica,method_conteggio,skill_conteggio_sistematico,skill_modellizzazione"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -896,8 +892,8 @@ level: nazionale
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_conteggio|Conteggio combinatorio]]
-**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
-**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 0015
 **Fonte:** [apri PDF p.20](https://drive.google.com/file/d/1lznDZ0YJYwH6WTw1UhXN3rOaFBlnSIeX/view)
 
@@ -910,15 +906,15 @@ level: nazionale
 > The Knave on trial
 > Unexpected news reaches Radice. The crown prince, the Knave of Hearts, is called to court, accused of having cheated at the card game Don't lose your head. The game works like this: one of the players acts as dealer and shuffles a deck of 52 cards numbered from 1 to 52. Then, starting from the dealer's right and going anticlockwise, each player in turn draws a card, keeping it face down, and the dealer then draws the last card. The cards are shown all together and whoever has the lowest card leaves the game. By beheading. The cards drawn are then discarded and the game continues as before, with the remaining players, using the cards left in the deck. The last player in the game wins, or rather survives. The Knave of Hearts won a game with 9 players (himself included) as dealer, having shuffled the cards for about three hours. If m is the number of different ways in which he could have shuffled the deck so as to be sure of winning, by how many distinct primes is m divisible? Recall that 1 is not prime.
 
+
 **Topic:** [[topic_combinatoria|Combinatorics]], [[topic_aritmetica|Arithmetic / Number theory]]
-**Method:** [[method_conteggio|Combinatorial counting]]
-**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
-
-[[Quesiti/src_cesenatico_2013_finale#q22|src_cesenatico_2013_finale__Q22]]
-
+**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]], [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
 
-<span class="atom-split" id="q23" data-atom="q23" data-title="Quesito 23" data-tags="topic_logica,method_colorazione,skill_casework_accurato"></span>
+
+<span class="atom-split" id="q23" data-atom="q23" data-title="Quesito 23" data-tags="topic_logica,method_colorazione,method_casework,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -933,7 +929,7 @@ level: nazionale
 > vale M +m?
 
 **Topic:** [[topic_logica|Logica, giochi, strategie]]
-**Metodo:** [[method_colorazione|Colorazione / parita]]
+**Metodo:** [[method_colorazione|Colorazione / parita]], [[method_casework|Analisi per casi]]
 **Abilita:** [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 9073
@@ -948,15 +944,15 @@ level: nazionale
 > So many stubborn, pig-headed witnesses
 > In the trial of the Knave of Hearts, 7777 inhabitants of the Field of Mathewonders are called to testify, and they are seated around an immense round table. By law, a witness may always tell the truth or always lie. All 7777 begin to speak at once and, surprisingly, utter in unison the same sentence: "If the person on my right tells the truth, then the person on my left is lying." If, under these conditions, M is the greatest possible number of truthful witnesses and m is the least, what is M + m worth?
 
+
 **Topic:** [[topic_logica|Logic, games and strategies]]
-**Method:** [[method_colorazione|Colouring / parity]]
-**Skill:** [[skill_casework_accurato|Careful case analysis]]
-
-[[Quesiti/src_cesenatico_2013_finale#q23|src_cesenatico_2013_finale__Q23]]
-
+**Metodo:** [[method_colorazione|Colouring / parity]], [[method_casework|Case analysis]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
 
-<span class="atom-split" id="q24" data-atom="q24" data-title="Quesito 24" data-tags="topic_combinatoria,topic_aritmetica,method_conteggio,skill_conteggio_sistematico"></span>
+
+<span class="atom-split" id="q24" data-atom="q24" data-title="Quesito 24" data-tags="topic_combinatoria,topic_aritmetica,method_conteggio,method_fattorizzazione,skill_conteggio_sistematico"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -979,9 +975,9 @@ level: nazionale
 > Problema
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_conteggio|Conteggio combinatorio]]
+**Metodo:** [[method_conteggio|Conteggio combinatorio]], [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
-**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 7536
 **Fonte:** [apri PDF p.21](https://drive.google.com/file/d/1lznDZ0YJYwH6WTw1UhXN3rOaFBlnSIeX/view)
 
@@ -994,8 +990,8 @@ level: nazionale
 > A rude awakening
 > During the trial, Radice realises that she is beginning to grow again. It is not, however, a gradual growth, but takes place in six successive steps. The Queen of Hearts takes fright and orders her head to be cut off, throwing all her soldiers at her, the by now tiny cards of the deck. In this whirl of sounds and colours, Radice wakes up beside her cat Diny and realises that she has dreamt it all. She remembers only that before the first step she was exactly as tall as the King of Hearts, that at the end of the sixth she was 12! (twelve factorial) times the King, and that after each step her height became an integer multiple of the previous one. It is also possible that during some step this multiple was 1, that is, that she did not grow at all. If we look at the six heights at the end of each step, in how many different ways can Radice have grown? In the answer, indicate the last four digits of the result obtained.
 
-**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_aritmetica|Arithmetic / Number theory]]
-**Method:** [[method_conteggio|Combinatorial counting]]
-**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
 
-[[Quesiti/src_cesenatico_2013_finale#q24|src_cesenatico_2013_finale__Q24]]
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_conteggio|Combinatorial counting]], [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]

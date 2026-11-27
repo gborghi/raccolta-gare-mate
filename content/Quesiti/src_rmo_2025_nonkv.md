@@ -50,8 +50,6 @@ level: RMO
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]], [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 
-[[Quesiti/src_rmo_2025_nonkv#q01|src_rmo_2025_nonkv__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_algebra,method_simmetria,method_fattorizzazione,skill_manipolazione_algebrica,skill_riconoscimento_pattern"></span>
@@ -86,8 +84,6 @@ level: RMO
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Algebra e Analisi]]
 
-[[Quesiti/src_rmo_2025_nonkv#q02|src_rmo_2025_nonkv__Q02]]
-
 
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_geometria_piana,method_backward,skill_ragionamento_geometrico,skill_lettura_attenta"></span>
@@ -117,8 +113,6 @@ level: RMO
 **Metodo:** [[method_backward|Backward]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Geometria]]
-
-[[Quesiti/src_rmo_2025_nonkv#q03|src_rmo_2025_nonkv__Q03]]
 
 
 
@@ -152,11 +146,9 @@ level: RMO
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]]
 **Area:** [[Algebra e Analisi]]
 
-[[Quesiti/src_rmo_2025_nonkv#q04|src_rmo_2025_nonkv__Q04]]
 
 
-
-<span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_geometria_piana,method_trigonometria,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
+<span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_geometria_piana,topic_trigonometria,method_trigonometria,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -165,10 +157,10 @@ level: RMO
 
 > Let $ABC$ be an acute-angled triangle with $AB < AC$, orthocentre $H$ and circumcircle $\Omega$. Let $M$ be the midpoint of the minor arc $BC$ of $\Omega$. Suppose that $\angle BAC = 60^\circ$. Prove that $MH$ is equal to the radius of $\Omega$.
 
-**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometry]]
 **Metodo:** [[method_trigonometria|Trigonometria]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
-**Area:** [[Geometria]]
+**Area:** [[Geometria|Geometry]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1ik3u0dWCcvW1PmcS_C8SRI2gnccFRgZA/view)
 
 
@@ -179,12 +171,11 @@ level: RMO
 
 > Sia $ABC$ un triangolo acutangolo con $AB < AC$, ortocentro $H$ e circonferenza circoscritta $\Omega$. Sia $M$ il punto medio dell'arco minore $BC$ di $\Omega$. Si supponga che $\angle BAC = 60^\circ$. Dimostrare che $MH$ è uguale al raggio di $\Omega$.
 
-**Topic:** [[topic_geometria_piana|Geometria piana]]
+
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometria]]
 **Metodo:** [[method_trigonometria|Trigonometria]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
-
-[[Quesiti/src_rmo_2025_nonkv#q05|src_rmo_2025_nonkv__Q05]]
 
 
 
@@ -219,5 +210,3 @@ level: RMO
 **Metodo:** [[method_congruenze|Congruenze]], [[method_cassetti|Principio dei cassetti]], [[method_induzione|Induzione]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
-
-[[Quesiti/src_rmo_2025_nonkv#q06|src_rmo_2025_nonkv__Q06]]

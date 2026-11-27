@@ -19,7 +19,7 @@ level: OBM Nível 3
 
 > In the figure below, triangle $ABC$ is equilateral and $BD = CE = AF = \frac{AB}{3}$. The ratio $\frac{EG}{GD}$ can be written in the form $\frac{m}{n}$ with $\gcd(m,n) = 1$. What is the value of $m + n$?
 
-![[src_obm_2014_n3_f2__q01.png]]
+![[src_obm_2014_n3_f2__Q01.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_coordinate|Coordinate]]
@@ -35,18 +35,16 @@ level: OBM Nível 3
 
 > Nella figura sottostante, il triangolo $ABC$ è equilatero e $BD = CE = AF = \frac{AB}{3}$. Il rapporto $\frac{EG}{GD}$ può essere scritto nella forma $\frac{m}{n}$ con $\gcd(m,n) = 1$. Qual è il valore di $m + n$?
 
-![[src_obm_2014_n3_f2__q01.png]]
+![[src_obm_2014_n3_f2__Q01.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_coordinate|Coordinate]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 
-[[Quesiti/src_obm_2014_n3_f2#q01|src_obm_2014_n3_f2__Q01]]
 
 
-
-<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_aritmetica,method_congruenze,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_aritmetica,method_congruenze,method_fattorizzazione,skill_manipolazione_algebrica,skill_lettura_attenta,skill_conteggio_sistematico"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -56,9 +54,9 @@ level: OBM Nível 3
 > The odd part of $n$ is defined as the product of all odd natural numbers less than or equal to $n$. What are the last two digits of the odd part of $2014$?
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_congruenze|Congruenze]]
-**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
-**Area:** [[Aritmetica e Teoria dei Numeri]]
+**Metodo:** [[method_congruenze|Congruenze]], [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1XkAXjIN4Wy75ir0QX-HQaiyTPxhLBK2C/view)
 
 
@@ -69,16 +67,15 @@ level: OBM Nível 3
 
 > La parte dispari di $n$ è definita come il prodotto di tutti i numeri naturali dispari minori o uguali a $n$. Quali sono le ultime due cifre della parte dispari di $2014$?
 
+
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_congruenze|Congruenze]]
-**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Metodo:** [[method_congruenze|Congruenze]], [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 
-[[Quesiti/src_obm_2014_n3_f2#q02|src_obm_2014_n3_f2__Q02]]
 
 
-
-<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_algebra,method_ricorsione,method_telescoping,skill_manipolazione_algebrica,skill_riconoscimento_pattern,skill_stima"></span>
+<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_algebra,topic_funzionali,method_ricorsione,method_telescoping,skill_manipolazione_algebrica,skill_riconoscimento_pattern,skill_stima"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -87,10 +84,10 @@ level: OBM Nível 3
 
 > The sequence $a_1, a_2, a_3, \ldots$ satisfies $a_1 = 1$ and $a_n = \left\lceil \sqrt{a_{n-1}^2 + n} \right\rceil$. What is the integer closest to $a_{2014}$?
 
-**Topic:** [[topic_algebra|Algebra]]
+**Topic:** [[topic_algebra|Algebra]], [[topic_funzionali|Functional equations / sequences]]
 **Metodo:** [[method_ricorsione|Ricorsione]], [[method_telescoping|Telescoping]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_stima|Stima]]
-**Area:** [[Algebra e Analisi]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1XkAXjIN4Wy75ir0QX-HQaiyTPxhLBK2C/view)
 
 
@@ -101,12 +98,11 @@ level: OBM Nível 3
 
 > La successione $a_1, a_2, a_3, \ldots$ soddisfa $a_1 = 1$ e $a_n = \left\lceil \sqrt{a_{n-1}^2 + n} \right\rceil$. Qual è l'intero più vicino a $a_{2014}$?
 
-**Topic:** [[topic_algebra|Algebra]]
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_funzionali|Equazioni funzionali / successioni]]
 **Metodo:** [[method_ricorsione|Ricorsione]], [[method_telescoping|Telescoping]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_stima|Stima]]
 **Area:** [[Algebra e Analisi]]
-
-[[Quesiti/src_obm_2014_n3_f2#q03|src_obm_2014_n3_f2__Q03]]
 
 
 
@@ -138,11 +134,9 @@ level: OBM Nível 3
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 
-[[Quesiti/src_obm_2014_n3_f2#q04|src_obm_2014_n3_f2__Q04]]
 
 
-
-<span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_geometria_solida,topic_geometria_analitica,method_casework,method_estremalita,skill_ragionamento_geometrico,skill_modellizzazione,skill_casework_accurato"></span>
+<span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_geometria_solida,topic_geometria_analitica,topic_geometria_piana,method_casework,method_estremalita,skill_ragionamento_geometrico,skill_modellizzazione,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -151,10 +145,10 @@ level: OBM Nível 3
 
 > A wooden box in the shape of a rectangular parallelepiped with dimensions $3 \times 4 \times 6$ rests on the floor with one of its faces completely flat on the floor. A light source emits parallel rays at $45^\circ$ to the floor. Considering only light from this source, what is the maximum possible area of the shadow cast on the floor (not including the area directly under the box)?
 
-**Topic:** [[topic_geometria_solida|Geometria solida]], [[topic_geometria_analitica|Geometria analitica]]
+**Topic:** [[topic_geometria_solida|Geometria solida]], [[topic_geometria_analitica|Geometria analitica]], [[topic_geometria_piana|Plane geometry]]
 **Metodo:** [[method_casework|Casework]], [[method_estremalita|Estremalità]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]], [[skill_casework_accurato|Casework accurato]]
-**Area:** [[Geometria]]
+**Area:** [[Geometria|Geometry]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1XkAXjIN4Wy75ir0QX-HQaiyTPxhLBK2C/view)
 
 
@@ -165,12 +159,11 @@ level: OBM Nível 3
 
 > Una scatola di legno a forma di parallelepipedo rettangolo con dimensioni $3 \times 4 \times 6$ riposa sul pavimento con una delle sue facce completamente a contatto con il pavimento. Una sorgente luminosa emette raggi paralleli con un angolo di $45^\circ$ rispetto al pavimento. Considerando solo la luce proveniente da questa sorgente, qual è l'area massima possibile dell'ombra proiettata sul pavimento (senza includere l'area direttamente sotto la scatola)?
 
-**Topic:** [[topic_geometria_solida|Geometria solida]], [[topic_geometria_analitica|Geometria analitica]]
+
+**Topic:** [[topic_geometria_solida|Geometria solida]], [[topic_geometria_analitica|Geometria analitica]], [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_casework|Casework]], [[method_estremalita|Estremalità]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Geometria]]
-
-[[Quesiti/src_obm_2014_n3_f2#q05|src_obm_2014_n3_f2__Q05]]
 
 
 
@@ -202,11 +195,9 @@ level: OBM Nível 3
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 
-[[Quesiti/src_obm_2014_n3_f2#q06|src_obm_2014_n3_f2__Q06]]
 
 
-
-<span class="atom-split" id="q07" data-atom="q07" data-title="Quesito 7" data-tags="topic_aritmetica,topic_algebra,method_casework,skill_modellizzazione,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
+<span class="atom-split" id="q07" data-atom="q07" data-title="Quesito 7" data-tags="topic_aritmetica,topic_algebra,method_casework,method_congruenze,skill_modellizzazione,skill_manipolazione_algebrica,skill_lettura_attenta,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -216,9 +207,9 @@ level: OBM Nível 3
 > In a classroom, a teacher held a vote on whether to postpone the mathematics exam. One third of the students voted in favour of postponement and the rest voted against. Several students argued and the teacher held a new vote, in which exactly $8$ students changed their minds, so that $\dfrac{3}{4}$ of the students voted against postponement. What is the maximum number of students who could have participated in the vote?
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
-**Metodo:** [[method_casework|Casework]]
-**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
-**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
+**Metodo:** [[method_casework|Casework]], [[method_congruenze|Modular arithmetic / congruences]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Algebra e Analisi|Algebra and analysis]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1XkAXjIN4Wy75ir0QX-HQaiyTPxhLBK2C/view)
 
 
@@ -229,12 +220,11 @@ level: OBM Nível 3
 
 > In un'aula, un insegnante fece votare se rinviare l'esame di matematica. Un terzo degli studenti votò a favore del rinvio, mentre gli altri votarono contro. Diversi studenti discussero e l'insegnante indisse una nuova votazione, nella quale esattamente $8$ studenti cambiarono idea, cosicché $\dfrac{3}{4}$ studenti votarono contro il rinvio. Qual è il numero massimo di studenti che avrebbero potuto partecipare alla votazione?
 
-**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
-**Metodo:** [[method_casework|Casework]]
-**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
-**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 
-[[Quesiti/src_obm_2014_n3_f2#q07|src_obm_2014_n3_f2__Q07]]
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_casework|Casework]], [[method_congruenze|Aritmetica modulare / congruenze]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 
 
 
@@ -266,8 +256,6 @@ level: OBM Nível 3
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 
-[[Quesiti/src_obm_2014_n3_f2#q08|src_obm_2014_n3_f2__Q08]]
-
 
 
 <span class="atom-split" id="q09" data-atom="q09" data-title="Quesito 9" data-tags="topic_geometria_piana,method_coordinate,method_trigonometria,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
@@ -297,5 +285,3 @@ level: OBM Nível 3
 **Metodo:** [[method_coordinate|Coordinate]], [[method_trigonometria|Trigonometria]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
-
-[[Quesiti/src_obm_2014_n3_f2#q09|src_obm_2014_n3_f2__Q09]]

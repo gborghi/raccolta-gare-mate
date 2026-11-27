@@ -10,7 +10,7 @@ level: OBM Nível 1
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_aritmetica,method_casework,skill_lettura_attenta,skill_manipolazione_algebrica"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_aritmetica,topic_geometria_solida,method_casework,skill_lettura_attenta,skill_manipolazione_algebrica,skill_ragionamento_geometrico"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -19,12 +19,12 @@ level: OBM Nível 1
 
 > Paulo has three dice with the same markings, such that on each die the sum of the numbers on opposite faces is always $7$. He glues the dice together so that each pair of touching faces has the same number, then places them on a transparent table as shown in the figure. The sum of all numbers on the eleven visible faces is $36$. What is the sum of the numbers on the three faces that are in contact with the table?
 
-![[src_obm_2000_n1_f3__q01.png]]
+![[src_obm_2000_n1_f3__Q01.png]]
 
-**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_geometria_solida|Solid geometry]]
 **Metodo:** [[method_casework|Casework]]
-**Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
-**Area:** [[Aritmetica e Teoria dei Numeri]]
+**Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Geometria|Geometry]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1csqbUn65E6HGiTeTIKmM4uG05E1nqqH2/view)
 
 
@@ -35,14 +35,13 @@ level: OBM Nível 1
 
 > Paulo ha tre dadi con le stesse incisioni, in modo che su ciascun dado la somma dei numeri sulle facce opposte sia sempre $7$. Incolla i dadi tra loro in modo che ogni coppia di facce a contatto abbia lo stesso numero, poi li posiziona su un tavolo trasparente come mostrato nella figura. La somma di tutti i numeri sulle undici facce visibili è $36$. Qual è la somma dei numeri sulle tre facce a contatto con il tavolo?
 
-![[src_obm_2000_n1_f3__q01.png]]
+![[src_obm_2000_n1_f3__Q01.png]]
 
-**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_geometria_solida|Geometria solida]]
 **Metodo:** [[method_casework|Casework]]
-**Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
-**Area:** [[Aritmetica e Teoria dei Numeri]]
-
-[[Quesiti/src_obm_2000_n1_f3#q01|src_obm_2000_n1_f3__Q01]]
+**Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Geometria]]
 
 
 
@@ -55,7 +54,7 @@ level: OBM Nível 1
 
 > An equilateral triangle can be cut into smaller equilateral triangles. The figure below shows how to cut an equilateral triangle into $7$ smaller equilateral triangles. Show how to cut an equilateral triangle into $20$ smaller equilateral triangles.
 
-![[src_obm_2000_n1_f3__q02.png]]
+![[src_obm_2000_n1_f3__Q02.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_casework|Casework]], [[method_invarianti|Invarianti]]
@@ -71,18 +70,16 @@ level: OBM Nível 1
 
 > Un triangolo equilatero può essere tagliato in triangoli equilateri più piccoli. La figura sottostante mostra come tagliare un triangolo equilatero in $7$ triangoli equilateri più piccoli. Mostra come tagliare un triangolo equilatero in $20$ triangoli equilateri più piccoli.
 
-![[src_obm_2000_n1_f3__q02.png]]
+![[src_obm_2000_n1_f3__Q02.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_casework|Casework]], [[method_invarianti|Invarianti]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_astrazione|Astrazione]]
 **Area:** [[Geometria]], [[Combinatoria, Logica e Probabilita]]
 
-[[Quesiti/src_obm_2000_n1_f3#q02|src_obm_2000_n1_f3__Q02]]
 
 
-
-<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_combinatoria,topic_logica,method_bigezione,method_casework,skill_modellizzazione,skill_ragionamento_geometrico,skill_lettura_attenta"></span>
+<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_combinatoria,topic_logica,method_bigezione,method_casework,method_grafi,skill_modellizzazione,skill_ragionamento_geometrico,skill_lettura_attenta"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -92,9 +89,9 @@ level: OBM Nível 1
 > Isabel has two decks, each with $50$ cards. In each of the two decks, the numbers from $1$ to $100$ are written, one number on each face of the cards (so two numbers per card). Due to a defect in the printing, the distribution of numbers on the cards is not the same in both decks (for example, in one deck the number $1$ appears on the same card as $2$; in the other, $1$ appears with $0$). Show how Isabel can arrange the $100$ cards face-down on a table so that, when the cards are turned face-up, all the numbers from $1$ to $100$ are shown.
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_logica|Logica]]
-**Metodo:** [[method_bigezione|Biiezione]], [[method_casework|Casework]]
+**Metodo:** [[method_bigezione|Biiezione]], [[method_casework|Casework]], [[method_grafi|Graph theory]]
 **Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
-**Area:** [[Combinatoria, Logica e Probabilita]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1csqbUn65E6HGiTeTIKmM4uG05E1nqqH2/view)
 
 
@@ -105,12 +102,11 @@ level: OBM Nível 1
 
 > Isabel ha due mazzi, ciascuno con $50$ carte. In ciascuno dei due mazzi, sui lati delle carte sono scritti i numeri da $1$ a $100$, un numero per lato (quindi due numeri per carta). A causa di un difetto di stampa, la distribuzione dei numeri sulle carte non è la stessa nei due mazzi (per esempio, in un mazzo il numero $1$ compare sulla stessa carta di $2$; nell'altro, $1$ compare insieme a $0$). Mostra come Isabel può disporre le $100$ carte a faccia in giù sul tavolo in modo che, quando le carte vengono girate a faccia in su, compaiano tutti i numeri da $1$ a $100$.
 
+
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_logica|Logica]]
-**Metodo:** [[method_bigezione|Biiezione]], [[method_casework|Casework]]
+**Metodo:** [[method_bigezione|Biiezione]], [[method_casework|Casework]], [[method_grafi|Teoria dei grafi]]
 **Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
-
-[[Quesiti/src_obm_2000_n1_f3#q03|src_obm_2000_n1_f3__Q03]]
 
 
 
@@ -146,5 +142,3 @@ level: OBM Nível 1
 **Metodo:** [[method_casework|Casework]], [[method_invarianti|Invarianti]], [[method_simmetria|Simmetria]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]], [[Algebra e Analisi]]
-
-[[Quesiti/src_obm_2000_n1_f3#q04|src_obm_2000_n1_f3__Q04]]

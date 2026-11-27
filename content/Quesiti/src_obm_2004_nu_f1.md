@@ -38,11 +38,9 @@ level: OBM Nível Universitário
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Algebra e Analisi]]
 
-[[Quesiti/src_obm_2004_nu_f1#q01|src_obm_2004_nu_f1__Q01]]
 
 
-
-<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_insiemi_funzioni,method_simmetria,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_insiemi_funzioni,method_simmetria,skill_manipolazione_algebrica,skill_lettura_attenta,skill_stima"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -53,8 +51,8 @@ level: OBM Nível Universitário
 
 **Topic:** [[topic_insiemi_funzioni|Insiemi e funzioni]]
 **Metodo:** [[method_simmetria|Simmetria]]
-**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
-**Area:** [[Algebra e Analisi]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_stima|Estimation and approximation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1rns90hvVWwghYkYiNKyUvjjjPu-_eNED/view)
 
 
@@ -65,16 +63,15 @@ level: OBM Nível Universitário
 
 > Calcola l'integrale $\displaystyle\int_{1}^{+\infty} \frac{x^{2004}}{1+x^{2004}}\,dx$.
 
+
 **Topic:** [[topic_insiemi_funzioni|Insiemi e funzioni]]
 **Metodo:** [[method_simmetria|Simmetria]]
-**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_stima|Stima e approssimazione]]
 **Area:** [[Algebra e Analisi]]
 
-[[Quesiti/src_obm_2004_nu_f1#q02|src_obm_2004_nu_f1__Q02]]
 
 
-
-<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_algebra,topic_geometria_analitica,method_casework,skill_manipolazione_algebrica,skill_ragionamento_geometrico"></span>
+<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_algebra,topic_geometria_analitica,method_casework,method_fattorizzazione,skill_manipolazione_algebrica,skill_ragionamento_geometrico"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -84,9 +81,9 @@ level: OBM Nível Universitário
 > Determine the equation of the line that is tangent to the curve $y = 3x^2 - 4x^3$ at two distinct points.
 
 **Topic:** [[topic_algebra|Algebra]], [[topic_geometria_analitica|Geometria analitica]]
-**Metodo:** [[method_casework|Casework]]
+**Metodo:** [[method_casework|Casework]], [[method_fattorizzazione|Factorisation / algebraic manipulation]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
-**Area:** [[Algebra e Analisi]], [[Geometria]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Geometria|Geometry]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1rns90hvVWwghYkYiNKyUvjjjPu-_eNED/view)
 
 
@@ -97,12 +94,11 @@ level: OBM Nível Universitário
 
 > Determinare l'equazione della retta tangente alla curva $y = 3x^2 - 4x^3$ in due punti distinti.
 
+
 **Topic:** [[topic_algebra|Algebra]], [[topic_geometria_analitica|Geometria analitica]]
-**Metodo:** [[method_casework|Casework]]
+**Metodo:** [[method_casework|Casework]], [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Algebra e Analisi]], [[Geometria]]
-
-[[Quesiti/src_obm_2004_nu_f1#q03|src_obm_2004_nu_f1__Q03]]
 
 
 
@@ -133,8 +129,6 @@ level: OBM Nível Universitário
 **Metodo:** [[method_inclusione_esclusione|Inclusione-esclusione]], [[method_conteggio|Conteggio]], [[method_casework|Casework]]
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Algebra e Analisi]]
-
-[[Quesiti/src_obm_2004_nu_f1#q04|src_obm_2004_nu_f1__Q04]]
 
 
 
@@ -174,8 +168,6 @@ level: OBM Nível Universitário
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_astrazione|Astrazione]]
 **Area:** [[Algebra e Analisi]], [[Combinatoria, Logica e Probabilita]]
 
-[[Quesiti/src_obm_2004_nu_f1#q05|src_obm_2004_nu_f1__Q05]]
-
 
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_aritmetica,topic_algebra,method_telescoping,method_fattorizzazione,skill_manipolazione_algebrica,skill_riconoscimento_pattern"></span>
@@ -205,5 +197,3 @@ level: OBM Nível Universitário
 **Metodo:** [[method_telescoping|Telescoping]], [[method_fattorizzazione|Fattorizzazione]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
-
-[[Quesiti/src_obm_2004_nu_f1#q06|src_obm_2004_nu_f1__Q06]]

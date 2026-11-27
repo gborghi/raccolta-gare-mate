@@ -10,7 +10,7 @@ level: IMO
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_funzionali,skill_astrazione"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_funzionali,skill_astrazione,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -24,8 +24,8 @@ level: IMO
 > (ii) $f(x) \to 0$ as $x \to \infty$.
 
 **Topic:** [[topic_funzionali|Equazioni funzionali / successioni]]
-**Abilita:** [[skill_astrazione|Astrazione / generalizzazione]]
-**Area:** [[Algebra e Analisi]]
+**Abilita:** [[skill_astrazione|Astrazione / generalizzazione]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1qHrtan02NnpLf3E60-PekLeYdH4Y9tnD/view)
 
 
@@ -40,11 +40,10 @@ level: IMO
 >
 > (ii) $f(x) \to 0$ quando $x \to \infty$.
 
-**Topic:** [[topic_funzionali|Equazioni funzionali / successioni]]
-**Abilita:** [[skill_astrazione|Astrazione / generalizzazione]]
-**Area:** [[Algebra e Analisi]]
 
-[[Quesiti/src_imo_1983#q01|src_imo_1983__Q01]]
+**Topic:** [[topic_funzionali|Equazioni funzionali / successioni]]
+**Abilita:** [[skill_astrazione|Astrazione / generalizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Algebra e Analisi]]
 
 
 
@@ -76,11 +75,9 @@ level: IMO
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]]
 
-[[Quesiti/src_imo_1983#q02|src_imo_1983__Q02]]
 
 
-
-<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_aritmetica,method_congruenze"></span>
+<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_aritmetica,method_congruenze,method_casework,skill_casework_accurato,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -89,9 +86,10 @@ level: IMO
 
 > Let $a, b, c$ be positive integers, no two of which have a common divisor greater than $1$. Show that $2abc - ab - bc - ca$ is the largest integer which cannot be expressed in the form $xbc + yca + zab$ where $x, y, z$ are non-negative integers.
 
-**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]]
-**Area:** [[Aritmetica e Teoria dei Numeri]]
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]], [[method_casework|Case analysis]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1qHrtan02NnpLf3E60-PekLeYdH4Y9tnD/view)
 
 
@@ -102,15 +100,15 @@ level: IMO
 
 > Siano $a, b, c$ numeri interi positivi, tali che nessun due di essi abbiano un divisore comune maggiore di $1$. Dimostrare che $2abc - ab - bc - ca$ è il più grande intero che non può essere espresso nella forma $xbc + yca + zab$, dove $x, y, z$ sono numeri interi non negativi.
 
+
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]]
+**Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]], [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 
-[[Quesiti/src_imo_1983#q03|src_imo_1983__Q03]]
 
 
-
-<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_combinatoria,topic_geometria_piana,method_cassetti,method_colorazione"></span>
+<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_combinatoria,topic_geometria_piana,method_cassetti,method_colorazione,method_casework,skill_ragionamento_geometrico,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -119,9 +117,10 @@ level: IMO
 
 > Let $ABC$ be an equilateral triangle and $\mathcal{E}$ the set of all points contained in the three segments $AB$, $BC$ and $CA$ (including $A$, $B$ and $C$). Determine whether, for every partition of $\mathcal{E}$ into two disjoint subsets, at least one of the two subsets contains the vertices of a right-angled triangle. Justify your answer.
 
-**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_geometria_piana|Geometria piana]]
-**Metodo:** [[method_cassetti|Principio dei cassetti]], [[method_colorazione|Colorazione / parita]]
-**Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_cassetti|Pigeonhole principle]], [[method_colorazione|Colouring / parity]], [[method_casework|Case analysis]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Geometria|Geometry]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1qHrtan02NnpLf3E60-PekLeYdH4Y9tnD/view)
 
 
@@ -132,15 +131,15 @@ level: IMO
 
 > Sia $ABC$ un triangolo equilatero e $\mathcal{E}$ l'insieme di tutti i punti contenuti nei tre segmenti $AB$, $BC$ e $CA$ (inclusi $A$, $B$ e $C$). Determinare se, per ogni partizione di $\mathcal{E}$ in due sottoinsiemi disgiunti, almeno uno dei due sottoinsiemi contenga i vertici di un triangolo rettangolo. Giustifica la tua risposta.
 
+
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_geometria_piana|Geometria piana]]
-**Metodo:** [[method_cassetti|Principio dei cassetti]], [[method_colorazione|Colorazione / parita]]
+**Metodo:** [[method_cassetti|Principio dei cassetti]], [[method_colorazione|Colorazione / parita]], [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 
-[[Quesiti/src_imo_1983#q04|src_imo_1983__Q04]]
 
 
-
-<span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_combinatoria,topic_aritmetica,method_congruenze"></span>
+<span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_combinatoria,topic_aritmetica,method_congruenze,method_conteggio,skill_riconoscimento_pattern,skill_conteggio_sistematico"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -149,9 +148,10 @@ level: IMO
 
 > Is it possible to choose $1983$ distinct positive integers, all less than or equal to $10^5$, no three of which are consecutive terms of an arithmetic progression? Justify your answer.
 
-**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]]
-**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]], [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]], [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1qHrtan02NnpLf3E60-PekLeYdH4Y9tnD/view)
 
 
@@ -162,15 +162,15 @@ level: IMO
 
 > È possibile scegliere $1983$ interi positivi distinti, tutti minori o uguali a $10^5$, tale che nessun insieme di tre di essi costituisca tre termini consecutivi di una progressione aritmetica? Motiva la tua risposta.
 
+
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]]
-**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
-
-[[Quesiti/src_imo_1983#q05|src_imo_1983__Q05]]
-
+**Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]], [[method_conteggio|Conteggio combinatorio]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 
 
-<span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_disuguaglianze,method_disuguaglianze,skill_manipolazione_algebrica"></span>
+
+<span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_disuguaglianze,topic_geometria_piana,method_disuguaglianze,method_fattorizzazione,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -183,10 +183,10 @@ level: IMO
 > 
 > Determine when equality occurs.
 
-**Topic:** [[topic_disuguaglianze|Disuguaglianze]]
-**Metodo:** [[method_disuguaglianze|Disuguaglianze classiche]]
+**Topic:** [[topic_disuguaglianze|Disuguaglianze]], [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze classiche]], [[method_fattorizzazione|Factorisation / algebraic manipulation]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
-**Area:** [[Algebra e Analisi]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Geometria|Geometry]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1qHrtan02NnpLf3E60-PekLeYdH4Y9tnD/view)
 
 
@@ -201,9 +201,8 @@ level: IMO
 >
 > Determinare quando si verifica l'uguaglianza.
 
-**Topic:** [[topic_disuguaglianze|Disuguaglianze]]
-**Metodo:** [[method_disuguaglianze|Disuguaglianze classiche]]
-**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
-**Area:** [[Algebra e Analisi]]
 
-[[Quesiti/src_imo_1983#q06|src_imo_1983__Q06]]
+**Topic:** [[topic_disuguaglianze|Disuguaglianze]], [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze classiche]], [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Algebra e Analisi]], [[Geometria]]

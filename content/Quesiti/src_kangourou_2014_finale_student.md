@@ -17,7 +17,7 @@ level: kangourou
 
 *misura angolo NMB*
 
-![[src_kangourou_2014_finale_student__probs1.png]]
+![[src_kangourou_2014_finale_student__probS1.png]]
 
 ```tikz
 \begin{document}
@@ -62,7 +62,7 @@ level: kangourou
 
 *Measure angle NMB*
 
-![[src_kangourou_2014_finale_student__probs1.png]]
+![[src_kangourou_2014_finale_student__probS1.png]]
 
 ```tikz
 \begin{document}
@@ -99,11 +99,9 @@ level: kangourou
 **Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
 **Area:** [[Geometria|Geometry]]
 
-[[Quesiti/src_kangourou_2014_finale_student#qs1|src_kangourou_2014_finale_student__QS1]]
 
 
-
-<span class="atom-split" id="qs2" data-atom="qs2" data-title="Quesito S2" data-tags="topic_geometria_analitica,method_coordinate,skill_casework_accurato"></span>
+<span class="atom-split" id="qs2" data-atom="qs2" data-title="Quesito S2" data-tags="topic_geometria_analitica,method_coordinate,skill_casework_accurato,skill_ragionamento_geometrico"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -114,7 +112,7 @@ level: kangourou
 
 **Topic:** [[topic_geometria_analitica|Geometria analitica]]
 **Metodo:** [[method_coordinate|Metodo delle coordinate]]
-**Abilita:** [[skill_casework_accurato|Casework accurato]]
+**Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]]
 **Risposta:** quadrato+segmento
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1J0eVc0n4KMj_riY1S4VFaIQwejE9Ln6P/view)
@@ -127,16 +125,15 @@ level: kangourou
 
 > In the plane equipped with a $Oxy$ system of orthogonal Cartesian axes, the distance between two points is usually defined using the coordinates of the points, in accordance with the Pythagorean theorem. Let us change the distance, assuming that we can move only vertically or horizontally, but horizontally only if we are on the x-axis. In formulas, the distance from point $(x_1, y_1)$ to point $(x_2, y_2)$ is $|y_1 - y_2|$ if $x_1 = x_2$; it is instead $|y_1| + |x_1 - x_2| + |y_2|$ if $x_1 \neq x_2$. With respect to this new distance, what is the locus of points that are no more than $3$ away from point $(2, 1)$?
 
+
 **Topic:** [[topic_geometria_analitica|Coordinate geometry]]
 **Metodo:** [[method_coordinate|Coordinate method]]
-**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]], [[skill_ragionamento_geometrico|Geometric reasoning]]
 **Area:** [[Geometria|Geometry]]
 
-[[Quesiti/src_kangourou_2014_finale_student#qs2|src_kangourou_2014_finale_student__QS2]]
 
 
-
-<span class="atom-split" id="qs3" data-atom="qs3" data-title="Quesito S3" data-tags="topic_logica,method_invarianti,skill_astrazione"></span>
+<span class="atom-split" id="qs3" data-atom="qs3" data-title="Quesito S3" data-tags="topic_logica,method_invarianti,method_backward,skill_astrazione"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -146,7 +143,7 @@ level: kangourou
 > Considera il seguente gioco per due giocatori che giocano a turno, sorteggiando chi deve giocare per primo. Si parte con due pile di monete. Chi è chiamato a giocare ne scarta una e spezza la rimanente in due nuove pile (di almeno una moneta ciascuna). Perde chi non può più giocare. Discuti l'esistenza di strategie vincenti.
 
 **Topic:** [[topic_logica|Logica, giochi, strategie]]
-**Metodo:** [[method_invarianti|Invarianti / monovarianti]]
+**Metodo:** [[method_invarianti|Invarianti / monovarianti]], [[method_backward|Ragionamento all'indietro]]
 **Abilita:** [[skill_astrazione|Astrazione / generalizzazione]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** strategia parita
@@ -161,16 +158,15 @@ level: kangourou
 > Consider the following game for two players who take turns, drawing lots to decide who must play first. The game begins with two piles of coins. The player who is to move discards one pile and splits the remaining pile into two new piles (of at least one coin each). The player who can no longer play loses. Discuss the existence of winning strategies.
 
 **Topic:** [[topic_logica|Logic, games and strategies]]
-**Method:** [[method_invarianti|Invariants / monovariants]]
-**Skill:** [[skill_astrazione|Abstraction / generalisation]]
+**Metodo:** [[method_invarianti|Invariants / monovariants]], [[method_backward|Working backwards]]
+**Abilita:** [[skill_astrazione|Abstraction / generalisation]]
 **Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** a parity strategy
 **Source:** [open PDF p.1](https://drive.google.com/file/d/1J0eVc0n4KMj_riY1S4VFaIQwejE9Ln6P/view)
-[[Quesiti/src_kangourou_2014_finale_student#qs3|src_kangourou_2014_finale_student__QS3]]
 
 
 
-<span class="atom-split" id="qs4" data-atom="qs4" data-title="Quesito S4" data-tags="topic_aritmetica,method_conteggio,skill_manipolazione_algebrica"></span>
+<span class="atom-split" id="qs4" data-atom="qs4" data-title="Quesito S4" data-tags="topic_aritmetica,method_conteggio,method_fattorizzazione,method_congruenze,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -180,7 +176,7 @@ level: kangourou
 > Un numero naturale $n$ è scomposto in $2014$ fattori primi (non necessariamente tutti distinti fra loro). Ad ogni fattore primo viene sommato $1$ e i nuovi $2014$ numeri ottenuti vengono moltiplicati fra loro, dando come risultato un numero $m$. È possibile che, per qualche numero naturale $n$, $n$ divida il numero $m$ così ottenuto? In caso di risposta negativa, fornisci adeguata giustificazione. In caso di risposta affermativa, precisa per quanti numeri naturali $n$ accade che $n$ divide $m$.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_conteggio|Conteggio combinatorio]]
+**Metodo:** [[method_conteggio|Conteggio combinatorio]], [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]], [[method_congruenze|Aritmetica modulare / congruenze]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 336
@@ -194,16 +190,15 @@ level: kangourou
 
 > A natural number $n$ is factored into $2014$ prime factors (not necessarily all distinct from one another). $1$ is added to each prime factor, and the new $2014$ numbers obtained are multiplied together, yielding a number $m$. Is it possible that, for some natural number $n$, $n$ divides the number $m$ thus obtained? If the answer is no, provide an appropriate justification. If the answer is yes, specify for how many natural numbers $n$ it happens that $n$ divides $m$.
 
+
 **Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
-**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Metodo:** [[method_conteggio|Combinatorial counting]], [[method_fattorizzazione|Factorisation / algebraic manipulation]], [[method_congruenze|Modular arithmetic / congruences]]
 **Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
-[[Quesiti/src_kangourou_2014_finale_student#qs4|src_kangourou_2014_finale_student__QS4]]
 
 
-
-<span class="atom-split" id="qs5" data-atom="qs5" data-title="Quesito S5" data-tags="topic_combinatoria,method_estremalita,skill_casework_accurato"></span>
+<span class="atom-split" id="qs5" data-atom="qs5" data-title="Quesito S5" data-tags="topic_combinatoria,method_estremalita,skill_casework_accurato,skill_riconoscimento_pattern"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -214,7 +209,7 @@ level: kangourou
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_estremalita|Principio di estremalita]]
-**Abilita:** [[skill_casework_accurato|Casework accurato]]
+**Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 20
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1J0eVc0n4KMj_riY1S4VFaIQwejE9Ln6P/view)
@@ -227,16 +222,15 @@ level: kangourou
 
 > $n$ squares of a grid $8 \times 8$ are painted black; the others are white. Every square of the grid, whether white or black, is adjacent to (that is, shares a side with) a black square (different from itself if it is black). What is the minimum possible value of $n$?
 
+
 **Topic:** [[topic_combinatoria|Combinatorics]]
 **Metodo:** [[method_estremalita|Extremal principle]]
-**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]], [[skill_riconoscimento_pattern|Pattern recognition]]
 **Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
-[[Quesiti/src_kangourou_2014_finale_student#qs5|src_kangourou_2014_finale_student__QS5]]
 
 
-
-<span class="atom-split" id="qs6" data-atom="qs6" data-title="Quesito S6" data-tags="topic_funzionali,topic_combinatoria,method_bigezione,skill_astrazione"></span>
+<span class="atom-split" id="qs6" data-atom="qs6" data-title="Quesito S6" data-tags="topic_funzionali,topic_combinatoria,method_bigezione,skill_astrazione,skill_lettura_attenta"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -249,7 +243,7 @@ level: kangourou
 
 **Topic:** [[topic_funzionali|Equazioni funzionali / successioni]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_bigezione|Bigezione / corrispondenza]]
-**Abilita:** [[skill_astrazione|Astrazione / generalizzazione]]
+**Abilita:** [[skill_astrazione|Astrazione / generalizzazione]], [[skill_lettura_attenta|Lettura attenta del testo]]
 **Area:** [[Algebra e Analisi]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** si possibile
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1J0eVc0n4KMj_riY1S4VFaIQwejE9Ln6P/view)
@@ -264,9 +258,8 @@ level: kangourou
 > - for every $i$, $a_{i,j} = 1$ holds if and only if $j \geq i$;
 > - for every $i$, $j$, and $k$ with $j < k$, in the original sequence as well, the position occupied by the term $a_{i,j}$ precedes the position occupied by the term $a_{i,k}$ (as is now the case in the $i$-th row of the matrix).
 
+
 **Topic:** [[topic_funzionali|Functional equations / sequences]], [[topic_combinatoria|Combinatorics]]
 **Metodo:** [[method_bigezione|Bijection / correspondence]]
-**Abilita:** [[skill_astrazione|Abstraction / generalisation]]
+**Abilita:** [[skill_astrazione|Abstraction / generalisation]], [[skill_lettura_attenta|Careful reading of the text]]
 **Area:** [[Algebra e Analisi|Algebra and analysis]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
-
-[[Quesiti/src_kangourou_2014_finale_student#qs6|src_kangourou_2014_finale_student__QS6]]

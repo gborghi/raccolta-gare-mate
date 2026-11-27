@@ -38,11 +38,9 @@ level: JJMO Honsen
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 
-[[Quesiti/src_jjmo21hq_honsen#q01|src_jjmo21hq_honsen__Q01]]
 
 
-
-<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_algebra,topic_combinatoria,method_casework,method_conteggio,method_estremalita,skill_conteggio_sistematico,skill_riconoscimento_pattern,skill_lettura_attenta"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_algebra,topic_combinatoria,method_casework,method_conteggio,method_estremalita,skill_conteggio_sistematico,skill_riconoscimento_pattern,skill_lettura_attenta,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -53,8 +51,8 @@ level: JJMO Honsen
 
 **Topic:** [[topic_algebra|Algebra]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]], [[method_estremalita|Estremalità]]
-**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_lettura_attenta|Lettura attenta]]
-**Area:** [[Algebra e Analisi]], [[Combinatoria, Logica e Probabilita]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_lettura_attenta|Lettura attenta]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1efdSphrAk6aeIsu8HcCF4eiUkFyOMt6a/view)
 
 
@@ -65,16 +63,15 @@ level: JJMO Honsen
 
 > Su una lavagna sono scritti 2023 numeri reali positivi. Per ogni coppia $x, y$ scelta tra questi numeri, si calcola $\dfrac{xy}{(x+y)^2}$. Il numero di valori distinti ottenuti è esattamente $k$. Determinare il valore massimo possibile di $k$.
 
+
 **Topic:** [[topic_algebra|Algebra]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]], [[method_estremalita|Estremalità]]
-**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_lettura_attenta|Lettura attenta]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_lettura_attenta|Lettura attenta]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Algebra e Analisi]], [[Combinatoria, Logica e Probabilita]]
 
-[[Quesiti/src_jjmo21hq_honsen#q02|src_jjmo21hq_honsen__Q02]]
 
 
-
-<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_combinatoria,topic_algebra,method_estremalita,method_doppio_conteggio,method_induzione,skill_conteggio_sistematico,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
+<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_combinatoria,topic_algebra,topic_logica,method_estremalita,method_doppio_conteggio,method_induzione,skill_conteggio_sistematico,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -83,10 +80,10 @@ level: JJMO Honsen
 
 > Let $n$ be a positive integer. First, player $A$ fills each cell of an $n \times n$ grid with distinct integers from $1$ to $n^2$, one per cell. Next, player $B$ circles some cells (possibly none) such that no two circled cells share an edge. For each circled cell, $B$ writes the sum of all integers in the cells adjacent to it (sharing an edge). Let $M$ be the maximum value such that, no matter how $A$ fills in the numbers, player $B$ can always make the total sum of all written values at least $M$. Find $M$.
 
-**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_algebra|Algebra]]
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_algebra|Algebra]], [[topic_logica|Logic, games and strategies]]
 **Metodo:** [[method_estremalita|Estremalità]], [[method_doppio_conteggio|Doppio conteggio]], [[method_induzione|Induzione]]
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
-**Area:** [[Combinatoria, Logica e Probabilita]], [[Algebra e Analisi]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Algebra e Analisi|Algebra and analysis]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1efdSphrAk6aeIsu8HcCF4eiUkFyOMt6a/view)
 
 
@@ -97,16 +94,15 @@ level: JJMO Honsen
 
 > Sia $n$ un numero intero positivo. Innanzitutto, il giocatore $A$ riempie ogni cella di una griglia $n \times n$ con numeri interi distinti compresi tra $1$ e $n^2$, uno per cella. Successivamente, il giocatore $B$ circonda di un cerchio alcune celle (eventualmente nessuna) in modo che nessuna coppia di celle circondate condivida un lato. Per ogni cella circondata, $B$ scrive la somma di tutti i numeri presenti nelle celle adiacenti ad essa (che condividono un lato). Sia $M$ il valore massimo tale che, indipendentemente da come $A$ compila i numeri, il giocatore $B$ può sempre far sì che la somma totale di tutti i valori scritti sia almeno $M$. Determinare $M$.
 
-**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_algebra|Algebra]]
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_algebra|Algebra]], [[topic_logica|Logica, giochi, strategie]]
 **Metodo:** [[method_estremalita|Estremalità]], [[method_doppio_conteggio|Doppio conteggio]], [[method_induzione|Induzione]]
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Algebra e Analisi]]
 
-[[Quesiti/src_jjmo21hq_honsen#q03|src_jjmo21hq_honsen__Q03]]
 
 
-
-<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_aritmetica,topic_algebra,method_fattorizzazione,method_congruenze,method_casework,skill_manipolazione_algebrica,skill_lettura_attenta,skill_ragionamento_geometrico"></span>
+<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_aritmetica,topic_algebra,method_fattorizzazione,method_congruenze,method_casework,skill_manipolazione_algebrica,skill_lettura_attenta,skill_ragionamento_geometrico,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -119,8 +115,8 @@ level: JJMO Honsen
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
 **Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_congruenze|Congruenze]], [[method_casework|Casework]]
-**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
-**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Algebra e Analisi|Algebra and analysis]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1efdSphrAk6aeIsu8HcCF4eiUkFyOMt6a/view)
 
 
@@ -133,12 +129,11 @@ level: JJMO Honsen
 > $$a + \frac{c}{b}, \quad b + \frac{a}{c}, \quad c + \frac{b}{a}$$
 > siano tutti interi.
 
+
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
 **Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_congruenze|Congruenze]], [[method_casework|Casework]]
-**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
-
-[[Quesiti/src_jjmo21hq_honsen#q04|src_jjmo21hq_honsen__Q04]]
 
 
 
@@ -169,5 +164,3 @@ level: JJMO Honsen
 **Metodo:** [[method_simmetria|Simmetria]], [[method_coordinate|Coordinate]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Geometria]]
-
-[[Quesiti/src_jjmo21hq_honsen#q05|src_jjmo21hq_honsen__Q05]]

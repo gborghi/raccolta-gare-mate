@@ -42,8 +42,6 @@ level: China Southeastern Mathematical Olympiad
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Algebra e Analisi]]
 
-[[Quesiti/src_cn_csmo_2013#q01|src_cn_csmo_2013__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_geometria_piana,method_trigonometria,skill_ragionamento_geometrico,skill_lettura_attenta"></span>
@@ -55,7 +53,7 @@ level: China Southeastern Mathematical Olympiad
 
 > Let $\odot I$ be the incircle of $\triangle ABC$ with $AB > AC$. $\odot I$ tangent to $BC$ and $AD$ at $D$ and $E$, respectively. The tangent line $EP$ of $\odot I$ intersects the extended line of $BC$ at $P$. Segment $CF$ is parallel to $PE$ and intersects $AD$ at point $F$. Line $BF$ intersects $\odot I$ at points $M$ and $N$ such that $M$ is on segment $BF$. Segment $PM$ intersects $\odot I$ at the other point $Q$. Prove that $\angle ENP = \angle ENQ$.
 
-![[src_cn_csmo_b11_w309__q02.png]]
+![[src_cn_csmo_b11_w309__Q02.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_trigonometria|Trigonometria]]
@@ -73,7 +71,7 @@ level: China Southeastern Mathematical Olympiad
 
 > Sia $\odot I$ l'incircoscritta di $\triangle ABC$ con $AB > AC$. $\odot I$ è tangente a $BC$ e a $AD$ rispettivamente in $D$ e in $E$. La retta tangente $EP$ di $\odot I$ interseca la retta prolungata di $BC$ in $P$. Il segmento $CF$ è parallelo a $PE$ e interseca $AD$ nel punto $F$. La retta $BF$ interseca $\odot I$ nei punti $M$ e $N$ in modo che $M$ si trovi sul segmento $BF$. Il segmento $PM$ interseca $\odot I$ nell'altro punto $Q$. Dimostrare che $\angle ENP = \angle ENQ$.
 
-![[src_cn_csmo_b11_w309__q02.png]]
+![[src_cn_csmo_b11_w309__Q02.png]]
 
 > [!warning] Estratto da verificare con la fonte.
 
@@ -82,11 +80,9 @@ level: China Southeastern Mathematical Olympiad
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Geometria]]
 
-[[Quesiti/src_cn_csmo_2013#q02|src_cn_csmo_2013__Q02]]
 
 
-
-<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_algebra,topic_aritmetica,method_ricorsione,method_induzione,skill_manipolazione_algebrica,skill_riconoscimento_pattern"></span>
+<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_algebra,topic_aritmetica,topic_funzionali,method_ricorsione,method_induzione,skill_manipolazione_algebrica,skill_riconoscimento_pattern"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -95,10 +91,10 @@ level: China Southeastern Mathematical Olympiad
 
 > Let the sequence $\{a_n\}$ be defined by $a_1 = 1$, $a_2 = 2$, $a_{n+1} = \dfrac{a_n^2 + (-1)^n}{a_{n-1}}$ $(n = 2, 3, \ldots)$. Prove that the sum of squares of any two adjacent terms of the sequence is also in the sequence.
 
-**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_funzionali|Functional equations / sequences]]
 **Metodo:** [[method_ricorsione|Ricorsione]], [[method_induzione|Induzione]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
-**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1cjmD7lTT4vb3nB3ylcVCHeHucUE2rNI0/view)
 
 > [!warning] Estratto da verificare con la fonte.
@@ -113,16 +109,15 @@ level: China Southeastern Mathematical Olympiad
 
 > [!warning] Estratto da verificare con la fonte.
 
-**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_funzionali|Equazioni funzionali / successioni]]
 **Metodo:** [[method_ricorsione|Ricorsione]], [[method_induzione|Induzione]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 
-[[Quesiti/src_cn_csmo_2013#q03|src_cn_csmo_2013__Q03]]
 
 
-
-<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_combinatoria,method_casework,method_conteggio,method_simmetria,skill_conteggio_sistematico,skill_casework_accurato"></span>
+<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_combinatoria,method_casework,method_conteggio,method_simmetria,skill_conteggio_sistematico,skill_casework_accurato,skill_modellizzazione,skill_lettura_attenta"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -131,12 +126,12 @@ level: China Southeastern Mathematical Olympiad
 
 > Suppose that 12 acrobats labeled $1$-$12$ divided into two circles $A$ and $B$, with six persons in each. Let each acrobat in $B$ stand on the shoulders of two adjacent acrobats of $A$. We call it a tower if the label of each acrobat of $B$ is equal to the sum of the labels of the acrobats under his feet. How many different towers can they make? (Remark. We treat two towers as the same if one can be obtained by rotation or reflection of the other.)
 
-![[src_cn_csmo_b11_w309__q04.png]]
+![[src_cn_csmo_b11_w309__Q04.png]]
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]], [[method_simmetria|Simmetria]]
-**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]]
-**Area:** [[Combinatoria, Logica e Probabilita]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]], [[skill_modellizzazione|Modelling / translating the text]], [[skill_lettura_attenta|Careful reading of the text]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Risposta:** 6
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1cjmD7lTT4vb3nB3ylcVCHeHucUE2rNI0/view)
 
@@ -150,16 +145,15 @@ level: China Southeastern Mathematical Olympiad
 
 > Supponiamo che 12 acrobati contrassegnati da $1$-$12$ siano disposti in due cerchi, $A$ e $B$, con sei persone in ciascun cerchio. Facciamo in modo che ogni acrobata in $B$ stia sulle spalle di due acrobati adiacenti di $A$. Definiamo "torre" una configurazione in cui l'etichetta di ciascun acrobata di $B$ è uguale alla somma delle etichette degli acrobati sotto i suoi piedi. Quante torri diverse possono formare? (Osservazione. Consideriamo due torri identiche se una può essere ottenuta dalla rotazione o dalla riflessione dell'altra.)
 
-![[src_cn_csmo_b11_w309__q04.png]]
+![[src_cn_csmo_b11_w309__Q04.png]]
 
 > [!warning] Estratto da verificare con la fonte.
 
+
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]], [[method_simmetria|Simmetria]]
-**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_lettura_attenta|Lettura attenta del testo]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
-
-[[Quesiti/src_cn_csmo_2013#q04|src_cn_csmo_2013__Q04]]
 
 
 
@@ -192,11 +186,9 @@ level: China Southeastern Mathematical Olympiad
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 
-[[Quesiti/src_cn_csmo_2013#q05|src_cn_csmo_2013__Q05]]
 
 
-
-<span class="atom-split" id="q07" data-atom="q07" data-title="Quesito 7" data-tags="topic_combinatoria,method_estremalita,method_cassetti,skill_ragionamento_geometrico,skill_conteggio_sistematico,skill_casework_accurato"></span>
+<span class="atom-split" id="q07" data-atom="q07" data-title="Quesito 7" data-tags="topic_combinatoria,method_estremalita,method_cassetti,skill_ragionamento_geometrico,skill_conteggio_sistematico,skill_casework_accurato,skill_modellizzazione"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -205,12 +197,12 @@ level: China Southeastern Mathematical Olympiad
 
 > Cut off a corner of $2 \times 2$ unit squares from a $3 \times 3$ unit square; the remaining figure is called a *horn* (Fig. 7.1 is a horn). Now, put some horns without overlapping on a board of $10 \times 10$ unit squares (Fig. 7.2) such that the boundaries of the horn coincide with the grid of the board. Find the maximum of $k$ such that whatever the $k$ horns put on the board, one can always put another horn on the board.
 
-![[src_cn_csmo_b11_w317__q07.png]]
+![[src_cn_csmo_b11_w317__Q07.png]]
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_estremalita|Estremalità]], [[method_cassetti|Principio dei cassetti]]
-**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]]
-**Area:** [[Combinatoria, Logica e Probabilita]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]], [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Risposta:** 7
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1cjmD7lTT4vb3nB3ylcVCHeHucUE2rNI0/view)
 
@@ -222,18 +214,17 @@ level: China Southeastern Mathematical Olympiad
 
 > Taglia via un angolo di quadrati unitari $2 \times 2$ da un quadrato unitario $3 \times 3$; la figura rimanente è chiamata *corno* (la Fig. 7.1 rappresenta un corno). Ora, colloca su una tavola composta da $10 \times 10$ quadrati unitari alcuni corni senza sovrapposizioni (Fig. 7.2), in modo che i bordi del corno coincidano con la griglia della tavola. Determinare il massimo di $k$ tale che, qualunque siano i corni $k$ collocati sulla tavola, si possa sempre collocare un altro corno sulla tavola.
 
-![[src_cn_csmo_b11_w317__q07.png]]
+![[src_cn_csmo_b11_w317__Q07.png]]
+
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_estremalita|Estremalità]], [[method_cassetti|Principio dei cassetti]]
-**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 
-[[Quesiti/src_cn_csmo_2013#q07|src_cn_csmo_2013__Q07]]
 
 
-
-<span class="atom-split" id="q08" data-atom="q08" data-title="Quesito 8" data-tags="topic_combinatoria,method_induzione,method_casework,method_simmetria,skill_conteggio_sistematico,skill_casework_accurato"></span>
+<span class="atom-split" id="q08" data-atom="q08" data-title="Quesito 8" data-tags="topic_combinatoria,method_induzione,method_casework,method_simmetria,method_ricorsione,method_congruenze,skill_conteggio_sistematico,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -243,9 +234,9 @@ level: China Southeastern Mathematical Olympiad
 > Let $m$ be a positive integer, $n = 2^m - 1$, and $P_n = \{1, 2, \ldots, n\}$ be the set of $n$ points on a number axis. A grasshopper jumps between adjacent points on $P_n$. Find the maximal number of $m$ such that for any $x, y \in P_n$, the number of ways that a grasshopper jumping from $x$ to $y$ by $2012$ steps is even (passing $x$ or $y$ on the way is permitted).
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
-**Metodo:** [[method_induzione|Induzione]], [[method_casework|Casework]], [[method_simmetria|Simmetria]]
+**Metodo:** [[method_induzione|Induzione]], [[method_casework|Casework]], [[method_simmetria|Simmetria]], [[method_ricorsione|Recursion]], [[method_congruenze|Modular arithmetic / congruences]]
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]]
-**Area:** [[Combinatoria, Logica e Probabilita]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Risposta:** m = 10
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1cjmD7lTT4vb3nB3ylcVCHeHucUE2rNI0/view)
 
@@ -261,9 +252,8 @@ level: China Southeastern Mathematical Olympiad
 
 > [!warning] Estratto da verificare con la fonte.
 
+
 **Topic:** [[topic_combinatoria|Combinatoria]]
-**Metodo:** [[method_induzione|Induzione]], [[method_casework|Casework]], [[method_simmetria|Simmetria]]
+**Metodo:** [[method_induzione|Induzione]], [[method_casework|Casework]], [[method_simmetria|Simmetria]], [[method_ricorsione|Ricorsione]], [[method_congruenze|Aritmetica modulare / congruenze]]
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
-
-[[Quesiti/src_cn_csmo_2013#q08|src_cn_csmo_2013__Q08]]

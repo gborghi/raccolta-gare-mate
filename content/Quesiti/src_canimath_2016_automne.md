@@ -12,9 +12,6 @@ level: Coupe Animath Automne
 
 <span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_logica,method_casework,skill_ragionamento_geometrico,skill_casework_accurato,skill_lettura_attenta"></span>
 
-<div class="qlang-switch" data-default="en"></div>
-
-
 *Logic: who broke the window among four children*
 
 > Alice, Bernard, Cédric and Diane were playing tennis in the courtyard. Suddenly the ball broke the neighbour's window. Furious, the neighbour approached the four children.
@@ -31,8 +28,20 @@ level: Coupe Animath Automne
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1yhqkZjAIhmKhhqiX_yyfOs3KchDQkKxu/view)
 
 
-<div class="qlang-split" data-lang="it"></div>
 
+<span class="atom-split" id="q01__it" data-atom="q01__it" data-title="Q01__IT" data-tags=""></span>
+
+---
+tipo: quesito-translation
+translation_of: src_canimath_2016_automne__Q01
+lang: it
+secondary: true
+title: "Coupe Animath Automne 2016  Quesito 1"
+summary: "Logico: chi ha rotto la finestra tra quattro bambini"
+topics: [topic_logica]
+methods: [method_casework]
+skills: [skill_ragionamento_geometrico, skill_casework_accurato, skill_lettura_attenta]
+tags: [kg/translation, topic/logica]---
 
 La logica: chi ha rotto la finestra tra quattro bambini
 
@@ -42,6 +51,10 @@ La logica: chi ha rotto la finestra tra quattro bambini
 > 
 > Supponendo che esattamente uno dei quattro bambini abbia detto la verità, quale di loro ha rotto la finestra?
 
+**Topic:** [[topic_logica|Logica, giochi, strategie]]
+**Metodo:** [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_casework_accurato|Casework accurato]], [[skill_lettura_attenta|Lettura attenta del testo]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** Cédric
 [[Quesiti/src_canimath_2016_automne#q01|src_canimath_2016_automne__Q01]]
 
@@ -49,14 +62,11 @@ La logica: chi ha rotto la finestra tra quattro bambini
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_geometria_piana,method_casework,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
 
-<div class="qlang-switch" data-default="en"></div>
-
-
 *Area of triangle AOF given isosceles right triangles with OA=8 cm*
 
 > In the figure below, the triangles $ABO$, $BCO$, $CDO$, $DEO$ and $FEO$ are isosceles right triangles. We are given that $OA = 8$ cm. Determine the area of triangle $AOF$ in cm$^2$.
 
-![[src_canimath_2016_automne__q02.png]]
+![[src_canimath_2016_automne__Q02.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_casework|Casework]]
@@ -66,24 +76,37 @@ La logica: chi ha rotto la finestra tra quattro bambini
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1yhqkZjAIhmKhhqiX_yyfOs3KchDQkKxu/view)
 
 
-<div class="qlang-split" data-lang="it"></div>
 
+<span class="atom-split" id="q02__it" data-atom="q02__it" data-title="Q02__IT" data-tags=""></span>
+
+---
+tipo: quesito-translation
+translation_of: src_canimath_2016_automne__Q02
+lang: it
+secondary: true
+title: "Coupe Animath Automne 2016  Quesito 2"
+summary: "Area del triangolo AOF dati triangoli rettangolari con OA=8 cm"
+topics: [topic_geometria_piana]
+methods: [method_casework]
+skills: [skill_ragionamento_geometrico, skill_manipolazione_algebrica]
+tags: [kg/translation, topic/geometria_piana]---
 
 *L'area del triangolo AOF data a triangoli rettangolari con OA=8 cm*
 
 > Nella figura di seguito, i triangoli $ABO$, $BCO$, $CDO$, $DEO$ e $FEO$ sono triangoli rettangolari a pieghe uguali. Ci viene data quella $OA = 8$ cm. Determinare la superficie del triangolo $AOF$ in cm$^2$.
 
-![[src_canimath_2016_automne__q02.png]]
+![[src_canimath_2016_automne__Q02.png]]
 
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
 **Risposta:** 32
 [[Quesiti/src_canimath_2016_automne#q02|src_canimath_2016_automne__Q02]]
 
 
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_combinatoria,method_ricorsione,method_induzione,method_inclusione_esclusione,skill_conteggio_sistematico,skill_riconoscimento_pattern,skill_manipolazione_algebrica"></span>
-
-<div class="qlang-switch" data-default="en"></div>
-
 
 *Colour 2016 collinear points in 3 colours, count ways*
 
@@ -97,22 +120,35 @@ La logica: chi ha rotto la finestra tra quattro bambini
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1yhqkZjAIhmKhhqiX_yyfOs3KchDQkKxu/view)
 
 
-<div class="qlang-split" data-lang="it"></div>
 
+<span class="atom-split" id="q03__it" data-atom="q03__it" data-title="Q03__IT" data-tags=""></span>
+
+---
+tipo: quesito-translation
+translation_of: src_canimath_2016_automne__Q03
+lang: it
+secondary: true
+title: "Coupe Animath Automne 2016  Quesito 3"
+summary: "Colore 2016 punti collineari in 3 colori, modi di contare"
+topics: [topic_combinatoria]
+methods: [method_ricorsione, method_induzione, method_inclusione_esclusione]
+skills: [skill_conteggio_sistematico, skill_riconoscimento_pattern, skill_manipolazione_algebrica]
+tags: [kg/translation, topic/combinatoria]---
 
 *Colour 2016 punti collineari in 3 colori, modi di conteggio*
 
 > I punti 2016 sono allineati su una linea. In quanti modi si possono colorare rosso, verde o blu, in modo che due punti adiacenti siano di colori diversi e ogni colore venga utilizzato almeno una volta?
 
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_ricorsione|Ricorsione]], [[method_induzione|Induzione]], [[method_inclusione_esclusione|Inclusione-esclusione]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 6
 [[Quesiti/src_canimath_2016_automne#q03|src_canimath_2016_automne__Q03]]
 
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_geometria_piana,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
-
-<div class="qlang-switch" data-default="en"></div>
-
 
 *Two externally tangent circles; common tangent meets circles; show T,X,Z collinear*
 
@@ -124,18 +160,32 @@ La logica: chi ha rotto la finestra tra quattro bambini
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1yhqkZjAIhmKhhqiX_yyfOs3KchDQkKxu/view)
 
 
-<div class="qlang-split" data-lang="it"></div>
 
+<span class="atom-split" id="q04__it" data-atom="q04__it" data-title="Q04__IT" data-tags=""></span>
+
+---
+tipo: quesito-translation
+translation_of: src_canimath_2016_automne__Q04
+lang: it
+secondary: true
+title: "Coupe Animath Automne 2016  Quesito 4"
+summary: "Due cerchi tangenti esternamente; tangente comune incontra cerchi; mostra T,X,Z collineare"
+topics: [topic_geometria_piana]
+skills: [skill_ragionamento_geometrico, skill_manipolazione_algebrica]
+tags: [kg/translation, topic/geometria_piana]---
 
 *Due cerchi tangenti esternamente; tangente comune incontra cerchi; mostrare T,X,Z collineare*
 
 > Due cerchi $C_1$ e $C_2$ sono tangenti esternamente in un punto $X$. Un tangente comune a entrambi i cerchi incontra $C_1$ a $Y$ e $C_2$ a $Z$ (con $Y \neq Z$). Il $T$ deve essere un punto tale che $[YT]$ abbia un diametro di $C_2$. Indicare che $T$, $X$ e $Z$ sono collineari.
 
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
 [[Quesiti/src_canimath_2016_automne#q04|src_canimath_2016_automne__Q04]]
 
 
 
-<span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_aritmetica,method_casework,method_fattorizzazione,skill_casework_accurato,skill_conteggio_sistematico,skill_lettura_attenta,skill_manipolazione_algebrica"></span>
+<span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_aritmetica,topic_algebra,method_casework,method_fattorizzazione,method_congruenze,skill_casework_accurato,skill_conteggio_sistematico,skill_lettura_attenta,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -146,10 +196,10 @@ La logica: chi ha rotto la finestra tra quattro bambini
 > 
 > *Note: a palindrome cannot start with a zero. For example, 0770 is not a palindrome.*
 
-**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_casework|Casework]], [[method_fattorizzazione|Fattorizzazione]]
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_casework|Casework]], [[method_fattorizzazione|Fattorizzazione]], [[method_congruenze|Modular arithmetic / congruences]]
 **Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
-**Area:** [[Aritmetica e Teoria dei Numeri]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Algebra e Analisi|Algebra and analysis]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1yhqkZjAIhmKhhqiX_yyfOs3KchDQkKxu/view)
 
 
@@ -162,11 +212,14 @@ La logica: chi ha rotto la finestra tra quattro bambini
 > 
 > *Nota: un palindromo non può iniziare con uno zero. Ad esempio, il 0770 non è un palindromo.*
 
-[[Quesiti/src_canimath_2016_automne#q05|src_canimath_2016_automne__Q05]]
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_casework|Analisi per casi]], [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]], [[method_congruenze|Aritmetica modulare / congruenze]]
+**Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta del testo]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 
 
 
-<span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_algebra,topic_insiemi_funzioni,method_casework,method_simmetria,skill_manipolazione_algebrica,skill_ragionamento_geometrico,skill_riconoscimento_pattern"></span>
+<span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_algebra,topic_insiemi_funzioni,topic_funzionali,method_casework,method_simmetria,method_ricorsione,skill_manipolazione_algebrica,skill_ragionamento_geometrico,skill_riconoscimento_pattern"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -175,10 +228,10 @@ La logica: chi ha rotto la finestra tra quattro bambini
 
 > Determine all integers $n \geq 3$ such that one can place $n$ distinct real numbers on a circle so that each of these numbers is equal to the product of its two neighbours.
 
-**Topic:** [[topic_algebra|Algebra]], [[topic_insiemi_funzioni|Insiemi e funzioni]]
-**Metodo:** [[method_casework|Casework]], [[method_simmetria|Simmetria]]
+**Topic:** [[topic_algebra|Algebra]], [[topic_insiemi_funzioni|Insiemi e funzioni]], [[topic_funzionali|Functional equations / sequences]]
+**Metodo:** [[method_casework|Casework]], [[method_simmetria|Simmetria]], [[method_ricorsione|Recursion]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
-**Area:** [[Algebra e Analisi]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1yhqkZjAIhmKhhqiX_yyfOs3KchDQkKxu/view)
 
 
@@ -189,14 +242,14 @@ La logica: chi ha rotto la finestra tra quattro bambini
 
 > Determinare tutti i numeri interi $n \geq 3$ in modo tale che si possano posizionare $n$ numeri reali distinti su un cerchio in modo che ciascuno di questi numeri sia uguale al prodotto dei suoi due vicini.
 
-[[Quesiti/src_canimath_2016_automne#q06|src_canimath_2016_automne__Q06]]
+**Topic:** [[topic_algebra|Algebra]], [[topic_insiemi_funzioni|Insiemi e funzioni]], [[topic_funzionali|Equazioni funzionali / successioni]]
+**Metodo:** [[method_casework|Analisi per casi]], [[method_simmetria|Sfruttamento della simmetria]], [[method_ricorsione|Ricorsione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Algebra e Analisi]]
 
 
 
 <span class="atom-split" id="q07" data-atom="q07" data-title="Quesito 7" data-tags="topic_combinatoria,topic_logica,method_invarianti,method_backward,method_casework,skill_ragionamento_geometrico,skill_riconoscimento_pattern,skill_casework_accurato"></span>
-
-<div class="qlang-switch" data-default="en"></div>
-
 
 *Game: replace n on board; who wins?*
 
@@ -211,8 +264,20 @@ La logica: chi ha rotto la finestra tra quattro bambini
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1yhqkZjAIhmKhhqiX_yyfOs3KchDQkKxu/view)
 
 
-<div class="qlang-split" data-lang="it"></div>
 
+<span class="atom-split" id="q07__it" data-atom="q07__it" data-title="Q07__IT" data-tags=""></span>
+
+---
+tipo: quesito-translation
+translation_of: src_canimath_2016_automne__Q07
+lang: it
+secondary: true
+title: "Coupe Animath Automne 2016  Quesito 7"
+summary: "Gioco: sostituire n a bordo; chi vince?"
+topics: [topic_combinatoria, topic_logica]
+methods: [method_invarianti, method_backward, method_casework]
+skills: [skill_ragionamento_geometrico, skill_riconoscimento_pattern, skill_casework_accurato]
+tags: [kg/translation, topic/combinatoria, topic/logica]---
 
 Gioco: sostituire n a bordo; chi vince?
 
@@ -220,14 +285,15 @@ Gioco: sostituire n a bordo; chi vince?
 > 
 > Determinare quale giocatore abbia una strategia vincente e descrivere quella strategia.
 
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_logica|Logica, giochi, strategie]]
+**Metodo:** [[method_invarianti|Invarianti / monovarianti]], [[method_backward|Ragionamento all'indietro]], [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
 [[Quesiti/src_canimath_2016_automne#q07|src_canimath_2016_automne__Q07]]
 
 
 
 <span class="atom-split" id="q08" data-atom="q08" data-title="Quesito 8" data-tags="topic_aritmetica,topic_algebra,method_estremalita,method_casework,skill_manipolazione_algebrica,skill_conteggio_sistematico,skill_stima"></span>
-
-<div class="qlang-switch" data-default="en"></div>
-
 
 *Minimum integers equal to 1 in a 'jolie' list of 100 positive integers*
 
@@ -241,12 +307,28 @@ Gioco: sostituire n a bordo; chi vince?
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1yhqkZjAIhmKhhqiX_yyfOs3KchDQkKxu/view)
 
 
-<div class="qlang-split" data-lang="it"></div>
 
+<span class="atom-split" id="q08__it" data-atom="q08__it" data-title="Q08__IT" data-tags=""></span>
+
+---
+tipo: quesito-translation
+translation_of: src_canimath_2016_automne__Q08
+lang: it
+secondary: true
+title: "Coupe Animath Automne 2016  Quesito 8"
+summary: "Numeri interi minimi uguali a 1 in un elenco 'jolie' di 100 numeri interi positivi"
+topics: [topic_aritmetica, topic_algebra]
+methods: [method_estremalita, method_casework]
+skills: [skill_manipolazione_algebrica, skill_conteggio_sistematico, skill_stima]
+tags: [kg/translation, topic/aritmetica, topic/algebra]---
 
 *Minimum di numeri interi uguali a 1 in un elenco "jolie" di 100 numeri interi positivi*
 
 > Un elenco di numeri è chiamato *jolie* se è costituito da integri rigorosamente positivi in modo tale che la somma di questi integri sia pari al loro prodotto. Determinare il numero più piccolo di numeri interi uguali a 1 che una lista di 100 numeri può contenere.
 
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_estremalita|Principio di estremalita]], [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_stima|Stima e approssimazione]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 **Risposta:** 95
 [[Quesiti/src_canimath_2016_automne#q08|src_canimath_2016_automne__Q08]]

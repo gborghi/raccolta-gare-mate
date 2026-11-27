@@ -10,7 +10,7 @@ level: BMO Round 1
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_aritmetica,method_casework,method_congruenze,skill_manipolazione_algebrica,skill_conteggio_sistematico,skill_lettura_attenta"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_aritmetica,method_casework,method_congruenze,skill_manipolazione_algebrica,skill_conteggio_sistematico,skill_lettura_attenta,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -21,8 +21,8 @@ level: BMO Round 1
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_casework|Casework]], [[method_congruenze|Congruenze]]
-**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]]
-**Area:** [[Aritmetica e Teoria dei Numeri]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1WCIjhZ72Lg65pqT8q0kpNhAvWcHfG4Xh/view)
 
 
@@ -33,16 +33,15 @@ level: BMO Round 1
 
 > Trovare tutti gli interi di due cifre $N$ per cui la somma delle cifre di $10^N - N$ è divisibile per $170$.
 
+
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_casework|Analisi per casi]], [[method_congruenze|Congruenze]]
-**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Aritmetica e teoria dei numeri]]
 
-[[Quesiti/src_bmo1_2001#q01|src_bmo1_2001__Q01]]
 
 
-
-<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_geometria_piana,method_simmetria,method_trigonometria,skill_ragionamento_geometrico,skill_lettura_attenta"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_geometria_piana,topic_trigonometria,method_simmetria,method_trigonometria,skill_ragionamento_geometrico,skill_lettura_attenta"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -51,10 +50,10 @@ level: BMO Round 1
 
 > Circle $S$ lies inside circle $T$ and touches it at $A$. From a point $P$ (distinct from $A$) on $T$, the chords $PQ$ and $PR$ of $T$ are tangent to $S$. Show that $\angle QAR = 2\angle XAV$, where $X$ and $V$ are the points at which $S$ touches $PQ$ and $PR$ respectively.
 
-**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometry]]
 **Metodo:** [[method_simmetria|Simmetria]], [[method_trigonometria|Trigonometria]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
-**Area:** [[Geometria]]
+**Area:** [[Geometria|Geometry]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1WCIjhZ72Lg65pqT8q0kpNhAvWcHfG4Xh/view)
 
 
@@ -65,16 +64,15 @@ level: BMO Round 1
 
 > La circonferenza $S$ sta dentro la circonferenza $T$ e la tocca in $A$. Da un punto $P$ (distinto da $A$) su $T$, le corde $PQ$ e $PR$ di $T$ sono tangenti a $S$. Dimostrare che $\angle QAR = 2\angle XAV$, dove $X$ e $V$ sono i punti in cui $S$ tocca rispettivamente $PQ$ e $PR$.
 
-**Topic:** [[topic_geometria_piana|Geometria piana]]
+
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometria]]
 **Metodo:** [[method_simmetria|Simmetria]], [[method_trigonometria|Trigonometria]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Geometria|Geometria]]
 
-[[Quesiti/src_bmo1_2001#q02|src_bmo1_2001__Q02]]
 
 
-
-<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_combinatoria,topic_geometria_piana,method_casework,method_colorazione,method_invarianti,skill_astrazione,skill_casework_accurato,skill_ragionamento_geometrico,skill_conteggio_sistematico"></span>
+<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_combinatoria,topic_geometria_piana,method_casework,method_colorazione,method_invarianti,method_conteggio,skill_astrazione,skill_casework_accurato,skill_ragionamento_geometrico,skill_conteggio_sistematico"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -88,9 +86,9 @@ level: BMO Round 1
 > (ii) Prove or disprove the statement: It is possible to pack all seven distinct tetrominoes into a $4 \times 7$ rectangle without overlapping.
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_geometria_piana|Geometria piana]]
-**Metodo:** [[method_casework|Casework]], [[method_colorazione|Colorazione]], [[method_invarianti|Invarianti]]
+**Metodo:** [[method_casework|Casework]], [[method_colorazione|Colorazione]], [[method_invarianti|Invarianti]], [[method_conteggio|Combinatorial counting]]
 **Abilita:** [[skill_astrazione|Astrazione]], [[skill_casework_accurato|Casework accurato]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_conteggio_sistematico|Conteggio sistematico]]
-**Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Geometria|Geometry]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1WCIjhZ72Lg65pqT8q0kpNhAvWcHfG4Xh/view)
 
 
@@ -105,16 +103,15 @@ level: BMO Round 1
 >
 > (ii) Dimostrare o confutare l'affermazione: è possibile disporre tutti e sette i tetramini distinti in un rettangolo $4 \times 7$ senza sovrapposizioni.
 
+
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_geometria_piana|Geometria piana]]
-**Metodo:** [[method_casework|Analisi per casi]], [[method_colorazione|Colorazione]], [[method_invarianti|Invarianti]]
+**Metodo:** [[method_casework|Analisi per casi]], [[method_colorazione|Colorazione]], [[method_invarianti|Invarianti]], [[method_conteggio|Conteggio combinatorio]]
 **Abilita:** [[skill_astrazione|Astrazione]], [[skill_casework_accurato|Analisi accurata dei casi]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Combinatoria, Logica e Probabilita|Combinatoria, logica e probabilità]], [[Geometria|Geometria]]
 
-[[Quesiti/src_bmo1_2001#q03|src_bmo1_2001__Q03]]
 
 
-
-<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_aritmetica,topic_algebra,method_congruenze,method_induzione,method_ricorsione,method_estremalita,skill_manipolazione_algebrica,skill_riconoscimento_pattern,skill_lettura_attenta"></span>
+<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_aritmetica,topic_algebra,topic_funzionali,method_congruenze,method_induzione,method_ricorsione,method_estremalita,skill_manipolazione_algebrica,skill_riconoscimento_pattern,skill_lettura_attenta"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -125,10 +122,10 @@ level: BMO Round 1
 > $$a_1 = n, \quad a_{k+1} = a_k + \left\lfloor \sqrt{a_k} \right\rfloor,$$
 > where $n$ is a positive integer and $\lfloor x \rfloor$ denotes the nearest integer to $x$ less than or equal to $x$; integers are rounded up if necessary. Show that for some positive integer $n$, the terms $a_1, a_2, \ldots, a_{2001}$ form a sequence of $2001$ consecutive integers.
 
-**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]], [[topic_funzionali|Functional equations / sequences]]
 **Metodo:** [[method_congruenze|Congruenze]], [[method_induzione|Induzione]], [[method_ricorsione|Ricorsione]], [[method_estremalita|Estremalità]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_lettura_attenta|Lettura attenta]]
-**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Algebra e Analisi|Algebra and analysis]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1WCIjhZ72Lg65pqT8q0kpNhAvWcHfG4Xh/view)
 
 
@@ -141,12 +138,11 @@ level: BMO Round 1
 > $$a_1 = n, \quad a_{k+1} = a_k + \left\lfloor \sqrt{a_k} \right\rfloor,$$
 > dove $n$ è un intero positivo e $\lfloor x \rfloor$ indica l'intero più vicino a $x$ che sia minore o uguale a $x$; gli interi si arrotondano per eccesso se necessario. Dimostrare che per qualche intero positivo $n$ i termini $a_1, a_2, \ldots, a_{2001}$ formano una successione di $2001$ interi consecutivi.
 
-**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]], [[topic_funzionali|Equazioni funzionali / successioni]]
 **Metodo:** [[method_congruenze|Congruenze]], [[method_induzione|Induzione]], [[method_ricorsione|Ricorsione]], [[method_estremalita|Estremalità]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Aritmetica e teoria dei numeri]], [[Algebra e Analisi|Algebra e analisi]]
-
-[[Quesiti/src_bmo1_2001#q04|src_bmo1_2001__Q04]]
 
 
 
@@ -177,5 +173,3 @@ level: BMO Round 1
 **Metodo:** [[method_trigonometria|Trigonometria]], [[method_simmetria|Simmetria]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Geometria|Geometria]]
-
-[[Quesiti/src_bmo1_2001#q05|src_bmo1_2001__Q05]]

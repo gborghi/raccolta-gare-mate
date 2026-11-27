@@ -10,7 +10,7 @@ level: squadre
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_aritmetica,topic_combinatoria,method_congruenze,method_conteggio,skill_casework_accurato"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_aritmetica,topic_combinatoria,method_congruenze,method_conteggio,method_casi_conteggio,skill_casework_accurato,skill_conteggio_sistematico"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -21,11 +21,11 @@ level: squadre
 > Quanti sono i numeri di sette cifre divisibili per 4 e tali che la somma delle loro cifre sia 4?
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
-**Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]], [[method_conteggio|Conteggio combinatorio]]
-**Abilita:** [[skill_casework_accurato|Casework accurato]]
+**Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]], [[method_conteggio|Conteggio combinatorio]], [[method_casi_conteggio|Conteggio per casi]]
+**Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0041
-**Fonte:** apri PDF p.1
+**Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1IpCNz69XKw043lATIO4mCM86pabTKKVS/view)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -35,12 +35,11 @@ level: squadre
 
 > Seven-digit numbers: How many seven-digit numbers are divisible by 4 and have a digit sum of 4?
 
-**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_combinatoria|Combinatorics]]
-**Metodo:** [[method_congruenze|Modular arithmetic / congruences]], [[method_conteggio|Combinatorial counting]]
-**Abilita:** [[skill_casework_accurato|Careful case analysis]]
-**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
-[[Quesiti/src_kangourou_2018_squadre_junior_f#q01|src_kangourou_2018_squadre_junior_f__Q01]]
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]], [[method_conteggio|Combinatorial counting]], [[method_casi_conteggio|Counting by cases]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]], [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
 
 
@@ -60,7 +59,7 @@ level: squadre
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Algebra e Analisi]]
 **Risposta:** 0002
-**Fonte:** apri PDF p.1
+**Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1IpCNz69XKw043lATIO4mCM86pabTKKVS/view)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -75,11 +74,9 @@ level: squadre
 **Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
 **Area:** [[Algebra e Analisi|Algebra and analysis]]
 
-[[Quesiti/src_kangourou_2018_squadre_junior_f#q02|src_kangourou_2018_squadre_junior_f__Q02]]
 
 
-
-<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_combinatoria,topic_aritmetica,method_estremalita,skill_astrazione"></span>
+<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_combinatoria,topic_aritmetica,method_estremalita,skill_astrazione,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -93,10 +90,10 @@ level: squadre
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_estremalita|Principio di estremalita]]
-**Abilita:** [[skill_astrazione|Astrazione / generalizzazione]]
-**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+**Abilita:** [[skill_astrazione|Astrazione / generalizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 2018
-**Fonte:** apri PDF p.1
+**Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1IpCNz69XKw043lATIO4mCM86pabTKKVS/view)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -106,16 +103,15 @@ level: squadre
 
 > Tripartition: Given a positive integer n, we want to partition the first 3n positive integers into three groups such that the sum of the numbers in each group is the same across the three groups. What is the largest integer n ≤ 2018 for which we can do this?
 
+
 **Topic:** [[topic_combinatoria|Combinatorics]], [[topic_aritmetica|Arithmetic / Number theory]]
 **Metodo:** [[method_estremalita|Extremal principle]]
-**Abilita:** [[skill_astrazione|Abstraction / generalisation]]
-**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
-
-[[Quesiti/src_kangourou_2018_squadre_junior_f#q03|src_kangourou_2018_squadre_junior_f__Q03]]
+**Abilita:** [[skill_astrazione|Abstraction / generalisation]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
 
 
-<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_aritmetica,topic_funzionali,method_ricorsione,skill_riconoscimento_pattern"></span>
+<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_aritmetica,topic_funzionali,method_ricorsione,method_backward,skill_riconoscimento_pattern,skill_modellizzazione"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -131,11 +127,11 @@ level: squadre
 > sempre perso, si ritrova con uno dei due sacchi vuoto. Quanto può valere, al massimo, N ?
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_funzionali|Equazioni funzionali / successioni]]
-**Metodo:** [[method_ricorsione|Ricorsione]]
-**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
-**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
+**Metodo:** [[method_ricorsione|Ricorsione]], [[method_backward|Ragionamento all'indietro]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 **Risposta:** 0610
-**Fonte:** apri PDF p.1
+**Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1IpCNz69XKw043lATIO4mCM86pabTKKVS/view)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -145,12 +141,11 @@ level: squadre
 
 > Clemente always loses. Clemente has N marbles and distributes them into two bags so that the number of marbles placed in the first bag and the number placed in the second bag are coprime. Clemente plays cards with Stefania, and when he loses a game, he must remove from the bag that currently contains more marbles (from one of the bags if they contain the same number of marbles) a number of marbles equal to the number of marbles in the other bag, and hand the marbles he has removed to Stefania. After the 13th game, Clemente, who has always lost, finds that one of the two bags is empty. What is the maximum possible value of N?
 
-**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_funzionali|Functional equations / sequences]]
-**Metodo:** [[method_ricorsione|Recursion]]
-**Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]]
-**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
-[[Quesiti/src_kangourou_2018_squadre_junior_f#q04|src_kangourou_2018_squadre_junior_f__Q04]]
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_funzionali|Functional equations / sequences]]
+**Metodo:** [[method_ricorsione|Recursion]], [[method_backward|Working backwards]]
+**Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]], [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Algebra e Analisi|Algebra and analysis]]
 
 
 
@@ -173,7 +168,7 @@ level: squadre
 **Abilita:** [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 0315
-**Fonte:** apri PDF p.1
+**Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1IpCNz69XKw043lATIO4mCM86pabTKKVS/view)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -188,11 +183,9 @@ level: squadre
 **Abilita:** [[skill_casework_accurato|Careful case analysis]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
-[[Quesiti/src_kangourou_2018_squadre_junior_f#q06|src_kangourou_2018_squadre_junior_f__Q06]]
 
 
-
-<span class="atom-split" id="q07" data-atom="q07" data-title="Quesito 7" data-tags="topic_aritmetica,skill_riconoscimento_pattern"></span>
+<span class="atom-split" id="q07" data-atom="q07" data-title="Quesito 7" data-tags="topic_aritmetica,method_casework,skill_riconoscimento_pattern,skill_conteggio_sistematico"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -204,10 +197,11 @@ level: squadre
 > di due quadrati perfetti non nulli. Quanto vale M × N ?
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Metodo:** [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 3250
-**Fonte:** apri PDF p.2
+**Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1IpCNz69XKw043lATIO4mCM86pabTKKVS/view)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -217,11 +211,11 @@ level: squadre
 
 > Perfect squares Let M and N be the first two integers, each of which can be expressed in two different ways as the sum of two non-zero perfect squares. What is the value of M × N?
 
-**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
-**Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]]
-**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
-[[Quesiti/src_kangourou_2018_squadre_junior_f#q07|src_kangourou_2018_squadre_junior_f__Q07]]
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]], [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
 
 
@@ -243,7 +237,7 @@ level: squadre
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 **Risposta:** 0036
-**Fonte:** apri PDF p.2
+**Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1IpCNz69XKw043lATIO4mCM86pabTKKVS/view)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -258,11 +252,9 @@ level: squadre
 **Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
 **Area:** [[Geometria|Geometry]]
 
-[[Quesiti/src_kangourou_2018_squadre_junior_f#q08|src_kangourou_2018_squadre_junior_f__Q08]]
 
 
-
-<span class="atom-split" id="q09" data-atom="q09" data-title="Quesito 9" data-tags="topic_algebra,skill_modellizzazione"></span>
+<span class="atom-split" id="q09" data-atom="q09" data-title="Quesito 9" data-tags="topic_algebra,skill_modellizzazione,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -276,10 +268,10 @@ level: squadre
 > affinché il numero di segnali ricevuti uguagli la velocità del treno espressa in chilometri all'ora?
 
 **Topic:** [[topic_algebra|Algebra]]
-**Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta del testo]]
 **Area:** [[Algebra e Analisi]]
 **Risposta:** 0126
-**Fonte:** apri PDF p.2
+**Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1IpCNz69XKw043lATIO4mCM86pabTKKVS/view)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -289,11 +281,10 @@ level: squadre
 
 > Signals A train is traveling at a constant speed. For safety reasons, every 35 meters traveled, the driver receives a signal in the cab. Immediately after receiving a signal, the driver starts a counter for the number of signals received. For how many seconds must the counter run for the number of signals received to equal the train's speed expressed in kilometers per hour?
 
-**Topic:** [[topic_algebra|Algebra]]
-**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
-**Area:** [[Algebra e Analisi|Algebra and analysis]]
 
-[[Quesiti/src_kangourou_2018_squadre_junior_f#q09|src_kangourou_2018_squadre_junior_f__Q09]]
+**Topic:** [[topic_algebra|Algebra]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]], [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_lettura_attenta|Careful reading of the text]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
 
 
 
@@ -313,7 +304,7 @@ level: squadre
 **Abilita:** [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 0977
-**Fonte:** apri PDF p.2
+**Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1IpCNz69XKw043lATIO4mCM86pabTKKVS/view)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -328,11 +319,9 @@ level: squadre
 **Abilita:** [[skill_casework_accurato|Careful case analysis]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
-[[Quesiti/src_kangourou_2018_squadre_junior_f#q10|src_kangourou_2018_squadre_junior_f__Q10]]
 
 
-
-<span class="atom-split" id="q11" data-atom="q11" data-title="Quesito 11" data-tags="topic_aritmetica,method_congruenze,skill_manipolazione_algebrica"></span>
+<span class="atom-split" id="q11" data-atom="q11" data-title="Quesito 11" data-tags="topic_aritmetica,method_congruenze,method_fattorizzazione,skill_manipolazione_algebrica,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -343,11 +332,11 @@ level: squadre
 > C’è un solo numero palindromo n di quattro cifre tale che 17 × n sia un quadrato perfetto. Qual è?
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]]
-**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]], [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 8228
-**Fonte:** apri PDF p.2
+**Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1IpCNz69XKw043lATIO4mCM86pabTKKVS/view)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -357,16 +346,15 @@ level: squadre
 
 > Palindrome: There is exactly one four-digit palindromic number n such that 17 × n is a perfect square. What is it?
 
+
 **Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
-**Metodo:** [[method_congruenze|Modular arithmetic / congruences]]
-**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]], [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_casework_accurato|Careful case analysis]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
-[[Quesiti/src_kangourou_2018_squadre_junior_f#q11|src_kangourou_2018_squadre_junior_f__Q11]]
 
 
-
-<span class="atom-split" id="q12" data-atom="q12" data-title="Quesito 12" data-tags="topic_geometria_piana,skill_stima,skill_ragionamento_geometrico"></span>
+<span class="atom-split" id="q12" data-atom="q12" data-title="Quesito 12" data-tags="topic_geometria_piana,topic_trigonometria,method_trigonometria,skill_stima,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -379,11 +367,12 @@ level: squadre
 > di questi due cerchi? Scrivete la risposta approssimata all’intero più vicino, assumendo che valgano
 > esattamente le uguaglianze √3 = 1,73 e π = 3,14.
 
-**Topic:** [[topic_geometria_piana|Geometria piana]]
-**Abilita:** [[skill_stima|Stima e approssimazione]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometria]]
+**Metodo:** [[method_trigonometria|Tecniche trigonometriche]]
+**Abilita:** [[skill_stima|Stima e approssimazione]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 **Risposta:** 0022
-**Fonte:** apri PDF p.2
+**Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1IpCNz69XKw043lATIO4mCM86pabTKKVS/view)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -393,15 +382,15 @@ level: squadre
 
 > The eye: The two legs of a right-angled triangle measure √3 and 1 meters. Consider the two circles, each of which has one of the legs as its diameter. How many square decimeters is the area of the intersection of these two circles? Write the approximate answer rounded to the nearest whole number, assuming that the equalities √3 = 1.73 and π = 3.14 hold exactly.
 
-**Topic:** [[topic_geometria_piana|Plane geometry]]
-**Abilita:** [[skill_stima|Estimation and approximation]], [[skill_ragionamento_geometrico|Geometric reasoning]]
+
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_trigonometria|Trigonometry]]
+**Metodo:** [[method_trigonometria|Trigonometric techniques]]
+**Abilita:** [[skill_stima|Estimation and approximation]], [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
 **Area:** [[Geometria|Geometry]]
 
-[[Quesiti/src_kangourou_2018_squadre_junior_f#q12|src_kangourou_2018_squadre_junior_f__Q12]]
 
 
-
-<span class="atom-split" id="q13" data-atom="q13" data-title="Quesito 13" data-tags="topic_aritmetica,topic_algebra,method_casework,skill_riconoscimento_pattern"></span>
+<span class="atom-split" id="q13" data-atom="q13" data-title="Quesito 13" data-tags="topic_aritmetica,topic_algebra,method_casework,skill_riconoscimento_pattern,skill_stima,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -413,10 +402,10 @@ level: squadre
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
 **Metodo:** [[method_casework|Analisi per casi]]
-**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
-**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_stima|Stima e approssimazione]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 **Risposta:** 3341
-**Fonte:** apri PDF p.2
+**Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1IpCNz69XKw043lATIO4mCM86pabTKKVS/view)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -426,16 +415,15 @@ level: squadre
 
 > Exchanged powers: For two positive integers m and n, it happens that $m^5 + n^3 = 7901$. What is the value of $m^3 + n^5$?
 
+
 **Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_algebra|Algebra]]
 **Metodo:** [[method_casework|Case analysis]]
-**Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]]
-**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
-
-[[Quesiti/src_kangourou_2018_squadre_junior_f#q13|src_kangourou_2018_squadre_junior_f__Q13]]
+**Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]], [[skill_stima|Estimation and approximation]], [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Algebra e Analisi|Algebra and analysis]]
 
 
 
-<span class="atom-split" id="q14" data-atom="q14" data-title="Quesito 14" data-tags="topic_combinatoria,topic_logica,method_invarianti,skill_astrazione"></span>
+<span class="atom-split" id="q14" data-atom="q14" data-title="Quesito 14" data-tags="topic_combinatoria,topic_logica,method_invarianti,method_grafi,method_estremalita,skill_astrazione"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -453,11 +441,11 @@ level: squadre
 > ogni mossa, la scelta della cella ammissibile a cui sottrarre i gettoni?
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_logica|Logica, giochi, strategie]]
-**Metodo:** [[method_invarianti|Invarianti / monovarianti]]
+**Metodo:** [[method_invarianti|Invarianti / monovarianti]], [[method_grafi|Teoria dei grafi]], [[method_estremalita|Principio di estremalita]]
 **Abilita:** [[skill_astrazione|Astrazione / generalizzazione]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 7301
-**Fonte:** apri PDF p.2
+**Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1IpCNz69XKw043lATIO4mCM86pabTKKVS/view)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -467,16 +455,15 @@ level: squadre
 
 > Tokens In a 50 × 50 square grid, the cells are all identical squares; two cells are said to be adjacent if they share a side. On each cell, some tokens are placed—possibly none—and the total number of tokens on the grid is k. The following game is played: on each move, one starts from a cell, if such a cell exists, that contains at least as many tokens as it has adjacent cells, and from this cell one token is moved to each of the adjacent cells. The game ends if there are no more cells from which to start. What is the minimum value of k that allows the game to continue indefinitely, regardless of the initial configuration and regardless of the choice, at each move, of the admissible cell from which to remove tokens?
 
+
 **Topic:** [[topic_combinatoria|Combinatorics]], [[topic_logica|Logic, games and strategies]]
-**Metodo:** [[method_invarianti|Invariants / monovariants]]
+**Metodo:** [[method_invarianti|Invariants / monovariants]], [[method_grafi|Graph theory]], [[method_estremalita|Extremal principle]]
 **Abilita:** [[skill_astrazione|Abstraction / generalisation]]
 **Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
-[[Quesiti/src_kangourou_2018_squadre_junior_f#q14|src_kangourou_2018_squadre_junior_f__Q14]]
 
 
-
-<span class="atom-split" id="q15" data-atom="q15" data-title="Quesito 15" data-tags="topic_aritmetica,topic_combinatoria,method_conteggio,skill_conteggio_sistematico"></span>
+<span class="atom-split" id="q15" data-atom="q15" data-title="Quesito 15" data-tags="topic_aritmetica,topic_combinatoria,method_conteggio,method_casi_conteggio,skill_conteggio_sistematico"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -487,11 +474,11 @@ level: squadre
 > Per quante coppie (ordinate) di numeri interi (x,y) si ha 2|x| + 3|y| < 23 ?
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
-**Metodo:** [[method_conteggio|Conteggio combinatorio]]
+**Metodo:** [[method_conteggio|Conteggio combinatorio]], [[method_casi_conteggio|Conteggio per casi]]
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0169
-**Fonte:** apri PDF p.2
+**Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1IpCNz69XKw043lATIO4mCM86pabTKKVS/view)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -501,9 +488,8 @@ level: squadre
 
 > Pairs of Integers For how many (ordered) pairs of integers (x, y) does 2|x| + 3|y| < 23 hold?
 
+
 **Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_combinatoria|Combinatorics]]
-**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Metodo:** [[method_conteggio|Combinatorial counting]], [[method_casi_conteggio|Counting by cases]]
 **Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
-
-[[Quesiti/src_kangourou_2018_squadre_junior_f#q15|src_kangourou_2018_squadre_junior_f__Q15]]

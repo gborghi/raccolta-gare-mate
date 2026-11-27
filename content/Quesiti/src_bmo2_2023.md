@@ -38,8 +38,6 @@ level: BMO Round 2
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Geometria|Geometria]]
 
-[[Quesiti/src_bmo2_2023#q01|src_bmo2_2023__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_aritmetica,topic_combinatoria,method_invarianti,method_congruenze,method_casework,skill_ragionamento_geometrico,skill_lettura_attenta,skill_riconoscimento_pattern,skill_manipolazione_algebrica"></span>
@@ -86,8 +84,6 @@ level: BMO Round 2
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Aritmetica e teoria dei numeri]], [[Combinatoria, Logica e Probabilita|Combinatoria, logica e probabilità]]
 
-[[Quesiti/src_bmo2_2023#q02|src_bmo2_2023__Q02]]
-
 
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_combinatoria,topic_aritmetica,method_conteggio,method_estremalita,method_casework,skill_conteggio_sistematico,skill_manipolazione_algebrica,skill_lettura_attenta,skill_astrazione"></span>
@@ -126,8 +122,6 @@ level: BMO Round 2
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_astrazione|Astrazione]]
 **Area:** [[Combinatoria, Logica e Probabilita|Combinatoria, logica e probabilità]], [[Aritmetica e Teoria dei Numeri|Aritmetica e teoria dei numeri]]
 
-[[Quesiti/src_bmo2_2023#q03|src_bmo2_2023__Q03]]
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_aritmetica,topic_trigonometria,topic_geometria_piana,method_fattorizzazione,method_congruenze,method_trigonometria,skill_manipolazione_algebrica,skill_ragionamento_geometrico,skill_lettura_attenta"></span>
@@ -157,5 +151,3 @@ level: BMO Round 2
 **Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_congruenze|Congruenze]], [[method_trigonometria|Trigonometria]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Aritmetica e teoria dei numeri]], [[Geometria|Geometria]]
-
-[[Quesiti/src_bmo2_2023#q04|src_bmo2_2023__Q04]]

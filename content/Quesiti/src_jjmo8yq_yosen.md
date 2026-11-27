@@ -10,7 +10,7 @@ level: JJMO Yosen
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_aritmetica,method_casework,skill_lettura_attenta,skill_stima"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_aritmetica,method_casework,skill_lettura_attenta,skill_stima,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -21,8 +21,8 @@ level: JJMO Yosen
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_casework|Casework]]
-**Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_stima|Stima]]
-**Area:** [[Aritmetica e Teoria dei Numeri]]
+**Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_stima|Stima]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1uXvBKHmbd80UKfDnfLpuU95z5jy_cZrg/view)
 
 
@@ -33,16 +33,15 @@ level: JJMO Yosen
 
 > Esiste un numero intero positivo di due cifre. Quando viene moltiplicato per $7$, diventa un numero di tre cifre. Quando viene di nuovo moltiplicato per $7$, rimane comunque un numero di tre cifre. Quanti valori sono possibili per il numero intero originale?
 
+
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_casework|Casework]]
-**Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_stima|Stima]]
+**Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_stima|Stima]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 
-[[Quesiti/src_jjmo8yq_yosen#q01|src_jjmo8yq_yosen__Q01]]
 
 
-
-<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_combinatoria,topic_aritmetica,method_congruenze,method_conteggio,skill_conteggio_sistematico"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_combinatoria,topic_aritmetica,method_congruenze,method_conteggio,method_casi_conteggio,skill_conteggio_sistematico"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -52,9 +51,9 @@ level: JJMO Yosen
 > There are $4$ spade cards labeled with the numbers $1, 2, 3, 4$ (one each), $6$ heart cards labeled with the numbers $1, 2, 3, \ldots, 6$ (one each), and $8$ diamond cards labeled with the numbers $1, 2, 3, \ldots, 8$ (one each). When one card is chosen from each suit, for a total of $3$ cards, in how many ways can the choice be made so that the sum of the numbers on the chosen $3$ cards is a multiple of $7$?
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_congruenze|Congruenze]], [[method_conteggio|Conteggio]]
+**Metodo:** [[method_congruenze|Congruenze]], [[method_conteggio|Conteggio]], [[method_casi_conteggio|Counting by cases]]
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
-**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1uXvBKHmbd80UKfDnfLpuU95z5jy_cZrg/view)
 
 
@@ -65,12 +64,11 @@ level: JJMO Yosen
 
 > Ci sono $4$ carte di picche contrassegnate dai numeri $1, 2, 3, 4$ (una per ciascuna), $6$ carte di cuori contrassegnate dai numeri $1, 2, 3, \ldots, 6$ (una per ciascuna), e $8$ carte di quadri contrassegnate dai numeri $1, 2, 3, \ldots, 8$ (una per ciascuna). Quando si sceglie una carta per ogni seme, per un totale di $3$ carte, in quanti modi si può effettuare la scelta in modo che la somma dei numeri sulle $3$ carte scelte sia un multiplo di $7$?
 
+
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_congruenze|Congruenze]], [[method_conteggio|Conteggio]]
+**Metodo:** [[method_congruenze|Congruenze]], [[method_conteggio|Conteggio]], [[method_casi_conteggio|Conteggio per casi]]
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
-
-[[Quesiti/src_jjmo8yq_yosen#q02|src_jjmo8yq_yosen__Q02]]
 
 
 
@@ -83,7 +81,7 @@ level: JJMO Yosen
 
 > There is a square $ABCD$ with side length $3$. Let $P$ be the point dividing $AB$ in the ratio $2:1$. Let $Q, R$ be the points dividing $CD$ in the ratios $1:2$ and $2:1$ respectively. Let $S, T$ be the points dividing $DA$ in the ratios $1:2$ and $2:1$ respectively. Let $U$ be the intersection of line $PR$ and line $QT$, and let $V$ be the intersection of line $SU$ and line $BC$. Find the length of segment $BV$.
 
-![[src_jjmo8yq_yosen__q03.png]]
+![[src_jjmo8yq_yosen__Q03.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_geometria_analitica|Geometria analitica]]
 **Metodo:** [[method_coordinate|Coordinate]]
@@ -99,18 +97,16 @@ level: JJMO Yosen
 
 > C'è un quadrato $ABCD$ con lato di lunghezza $3$. Sia $P$ il punto che divide $AB$ nel rapporto $2:1$. Siano $Q, R$ i punti che dividono $CD$ nei rapporti $1:2$ e $2:1$ rispettivamente. Siano $S, T$ i punti che dividono $DA$ nei rapporti $1:2$ e $2:1$ rispettivamente. Sia $U$ l'intersezione della retta $PR$ con la retta $QT$, e sia $V$ l'intersezione della retta $SU$ con la retta $BC$. Determinare la lunghezza del segmento $BV$.
 
-![[src_jjmo8yq_yosen__q03.png]]
+![[src_jjmo8yq_yosen__Q03.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_geometria_analitica|Geometria analitica]]
 **Metodo:** [[method_coordinate|Coordinate]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 
-[[Quesiti/src_jjmo8yq_yosen#q03|src_jjmo8yq_yosen__Q03]]
 
 
-
-<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_aritmetica,method_casework,skill_casework_accurato,skill_lettura_attenta"></span>
+<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_aritmetica,method_casework,method_fattorizzazione,skill_casework_accurato,skill_lettura_attenta,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -120,9 +116,9 @@ level: JJMO Yosen
 > There are three-digit positive integers $m, n$ such that $m$ and $n$ differ in exactly one digit (in the same position). Moreover, $n$ is a multiple of $m$. How many pairs $(m, n)$ are possible?
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_casework|Casework]]
-**Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_lettura_attenta|Lettura attenta]]
-**Area:** [[Aritmetica e Teoria dei Numeri]]
+**Metodo:** [[method_casework|Casework]], [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_lettura_attenta|Lettura attenta]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1uXvBKHmbd80UKfDnfLpuU95z5jy_cZrg/view)
 
 
@@ -133,16 +129,15 @@ level: JJMO Yosen
 
 > Esistono numeri interi positivi di tre cifre $m, n$ tali che $m$ e $n$ differiscono per esattamente una cifra (nella stessa posizione). Inoltre, $n$ è un multiplo di $m$. Quante coppie $(m, n)$ sono possibili?
 
+
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_casework|Casework]]
-**Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_lettura_attenta|Lettura attenta]]
+**Metodo:** [[method_casework|Casework]], [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
+**Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_lettura_attenta|Lettura attenta]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 
-[[Quesiti/src_jjmo8yq_yosen#q04|src_jjmo8yq_yosen__Q04]]
 
 
-
-<span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_aritmetica,topic_combinatoria,method_conteggio,method_casework,skill_conteggio_sistematico,skill_stima"></span>
+<span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_aritmetica,topic_combinatoria,method_conteggio,method_casework,skill_conteggio_sistematico,skill_stima,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -153,8 +148,8 @@ level: JJMO Yosen
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_conteggio|Conteggio]], [[method_casework|Casework]]
-**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_stima|Stima]]
-**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_stima|Stima]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1uXvBKHmbd80UKfDnfLpuU95z5jy_cZrg/view)
 
 
@@ -165,16 +160,15 @@ level: JJMO Yosen
 
 > È noto che il numero di coppie $(m, n)$ di interi positivi al più $100$ che soddisfano $m < \sqrt{2}\,n < 2m$ è esattamente $2958$. Quante coppie $(m, n)$ di interi positivi al più $100$ soddisfano $\sqrt{2}\,n < m$?
 
+
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_conteggio|Conteggio]], [[method_casework|Casework]]
-**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_stima|Stima]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_stima|Stima]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 
-[[Quesiti/src_jjmo8yq_yosen#q05|src_jjmo8yq_yosen__Q05]]
 
 
-
-<span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_combinatoria,method_casework,method_conteggio,skill_conteggio_sistematico,skill_casework_accurato"></span>
+<span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_combinatoria,method_casework,method_conteggio,method_backward,skill_conteggio_sistematico,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -184,9 +178,9 @@ level: JJMO Yosen
 > There is a balance scale. On the left pan there are weights of mass $22, 24, 26, 28$ (one each), and on the right pan there are weights of mass $23, 25, 27, 29$ (one each). The pan whose total mass of the weights on it is larger tips down; when the totals are equal, the scale balances. At each moment, one weight is removed from the pan that is currently tipped down; this is repeated until the scale balances. In how many ways can the removals be carried out so that, at the moment the scale balances, all the weights have been removed?
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
-**Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]]
+**Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]], [[method_backward|Working backwards]]
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]]
-**Area:** [[Combinatoria, Logica e Probabilita]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1uXvBKHmbd80UKfDnfLpuU95z5jy_cZrg/view)
 
 
@@ -197,16 +191,15 @@ level: JJMO Yosen
 
 > C'è una bilancia a due piatti. Sul piatto sinistro ci sono pesi di massa $22, 24, 26, 28$ (uno per tipo), e sul piatto destro ci sono pesi di massa $23, 25, 27, 29$ (uno per tipo). Il piatto sul quale la massa totale dei pesi è maggiore scende; quando le masse totali sono uguali, la bilancia resta in equilibrio. Ad ogni istante, da un piatto si rimuove un peso, precisamente da quello che in quel momento è abbassato; si ripete l'operazione finché la bilancia non torna in equilibrio. In quanti modi si possono effettuare le rimozioni affinché, nel momento in cui la bilancia torna in equilibrio, tutti i pesi siano stati rimossi?
 
+
 **Topic:** [[topic_combinatoria|Combinatoria]]
-**Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]]
+**Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]], [[method_backward|Ragionamento all'indietro]]
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 
-[[Quesiti/src_jjmo8yq_yosen#q06|src_jjmo8yq_yosen__Q06]]
 
 
-
-<span class="atom-split" id="q07" data-atom="q07" data-title="Quesito 7" data-tags="topic_geometria_piana,method_trigonometria,method_simmetria,skill_ragionamento_geometrico"></span>
+<span class="atom-split" id="q07" data-atom="q07" data-title="Quesito 7" data-tags="topic_geometria_piana,topic_trigonometria,method_trigonometria,method_simmetria,skill_ragionamento_geometrico"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -215,12 +208,12 @@ level: JJMO Yosen
 
 > There is a regular heptagon $ABCDEFG$ with side length $1$. The points $P, Q, R, S$ lie on segments $AB, BC, CD, EF$ respectively, and satisfy $BP = CQ = DR = FS = \frac{1}{3}$. Let $T$ be the intersection of segment $PR$ and segment $QS$. Find the measure of $\angle PTS$. (Here $XY$ denotes the length of segment $XY$.)
 
-![[src_jjmo8yq_yosen__q07.png]]
+![[src_jjmo8yq_yosen__Q07.png]]
 
-**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometry]]
 **Metodo:** [[method_trigonometria|Trigonometria]], [[method_simmetria|Simmetria]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
-**Area:** [[Geometria]]
+**Area:** [[Geometria|Geometry]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1uXvBKHmbd80UKfDnfLpuU95z5jy_cZrg/view)
 
 
@@ -231,18 +224,17 @@ level: JJMO Yosen
 
 > Esiste un eptagono regolare $ABCDEFG$ con lato di lunghezza $1$. I punti $P, Q, R, S$ giacciono rispettivamente sui segmenti $AB, BC, CD, EF$ e soddisfano $BP = CQ = DR = FS = \frac{1}{3}$. Sia $T$ l'intersezione del segmento $PR$ e del segmento $QS$. Determinare la misura di $\angle PTS$. (Qui $XY$ denota la lunghezza del segmento $XY$.)
 
-![[src_jjmo8yq_yosen__q07.png]]
+![[src_jjmo8yq_yosen__Q07.png]]
 
-**Topic:** [[topic_geometria_piana|Geometria piana]]
+
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometria]]
 **Metodo:** [[method_trigonometria|Trigonometria]], [[method_simmetria|Simmetria]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]]
 
-[[Quesiti/src_jjmo8yq_yosen#q07|src_jjmo8yq_yosen__Q07]]
 
 
-
-<span class="atom-split" id="q08" data-atom="q08" data-title="Quesito 8" data-tags="topic_combinatoria,topic_logica,method_casework,method_conteggio,skill_conteggio_sistematico,skill_astrazione"></span>
+<span class="atom-split" id="q08" data-atom="q08" data-title="Quesito 8" data-tags="topic_combinatoria,topic_logica,topic_insiemi_funzioni,method_casework,method_conteggio,skill_conteggio_sistematico,skill_astrazione,skill_modellizzazione"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -256,12 +248,12 @@ level: JJMO Yosen
 > \end{itemize}
 > How many possible results of the filling are there? (Note: a number may be written two or more times in the right grid, and some numbers need not be written at all.)
 
-![[src_jjmo8yq_yosen__q08.png]]
+![[src_jjmo8yq_yosen__Q08.png]]
 
-**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_logica|Logica]]
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_logica|Logica]], [[topic_insiemi_funzioni|Sets and functions]]
 **Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]]
-**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_astrazione|Astrazione]]
-**Area:** [[Combinatoria, Logica e Probabilita]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_astrazione|Astrazione]], [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Algebra e Analisi|Algebra and analysis]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1uXvBKHmbd80UKfDnfLpuU95z5jy_cZrg/view)
 
 
@@ -276,18 +268,17 @@ level: JJMO Yosen
 > \end{itemize}
 > Quanti risultati possibili ci sono per il riempimento? (Nota: un numero può essere scritto due o più volte nella griglia di destra, e alcuni numeri non devono essere scritti affatto.)
 
-![[src_jjmo8yq_yosen__q08.png]]
+![[src_jjmo8yq_yosen__Q08.png]]
 
-**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_logica|Logica]]
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_logica|Logica]], [[topic_insiemi_funzioni|Insiemi e funzioni]]
 **Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]]
-**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_astrazione|Astrazione]]
-**Area:** [[Combinatoria, Logica e Probabilita]]
-
-[[Quesiti/src_jjmo8yq_yosen#q08|src_jjmo8yq_yosen__Q08]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_astrazione|Astrazione]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Algebra e Analisi]]
 
 
 
-<span class="atom-split" id="q09" data-atom="q09" data-title="Quesito 9" data-tags="topic_aritmetica,method_casework,method_conteggio,skill_conteggio_sistematico,skill_riconoscimento_pattern"></span>
+<span class="atom-split" id="q09" data-atom="q09" data-title="Quesito 9" data-tags="topic_aritmetica,topic_combinatoria,method_casework,method_conteggio,skill_conteggio_sistematico,skill_riconoscimento_pattern"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -296,10 +287,10 @@ level: JJMO Yosen
 
 > For a positive integer $n$, let $S(n)$ denote the sum of the digits of $n$. Find the number of positive integers $n$ at most $999$ that satisfy $S(9n) = 27$.
 
-**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatorics]]
 **Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]]
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
-**Area:** [[Aritmetica e Teoria dei Numeri]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1uXvBKHmbd80UKfDnfLpuU95z5jy_cZrg/view)
 
 
@@ -310,16 +301,15 @@ level: JJMO Yosen
 
 > Sia $n$ un numero intero positivo; indichiamo con $S(n)$ la somma delle cifre di $n$. Determinare il numero di numeri interi positivi $n$ non superiori a $999$ che soddisfano $S(9n) = 27$.
 
-**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]]
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
-**Area:** [[Aritmetica e Teoria dei Numeri]]
-
-[[Quesiti/src_jjmo8yq_yosen#q09|src_jjmo8yq_yosen__Q09]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 
 
 
-<span class="atom-split" id="q10" data-atom="q10" data-title="Quesito 10" data-tags="topic_combinatoria,method_casework,method_conteggio,skill_conteggio_sistematico,skill_casework_accurato"></span>
+<span class="atom-split" id="q10" data-atom="q10" data-title="Quesito 10" data-tags="topic_combinatoria,method_casework,method_conteggio,skill_conteggio_sistematico,skill_casework_accurato,skill_modellizzazione"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -330,8 +320,8 @@ level: JJMO Yosen
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]]
-**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]]
-**Area:** [[Combinatoria, Logica e Probabilita]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]], [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1uXvBKHmbd80UKfDnfLpuU95z5jy_cZrg/view)
 
 
@@ -342,16 +332,15 @@ level: JJMO Yosen
 
 > Trenta studenti hanno sostenuto un test composto da $3$ problemi. Risolvere correttamente i problemi vale rispettivamente $1$ punti, $2$ punti e $4$ punti, mentre una risposta errata vale $0$ punti. Dato che, nei risultati del test, ciascuno dei $3$ problemi è stato risolto correttamente da esattamente $10$ studenti, quante possibilità ci sono per l'insieme dei punteggi dei $30$ studenti? (Gli insiemi che differiscono solo per l'ordine dei punteggi sono considerati identici.)
 
+
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]]
-**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 
-[[Quesiti/src_jjmo8yq_yosen#q10|src_jjmo8yq_yosen__Q10]]
 
 
-
-<span class="atom-split" id="q11" data-atom="q11" data-title="Quesito 11" data-tags="topic_aritmetica,method_casework,method_fattorizzazione,skill_casework_accurato,skill_riconoscimento_pattern"></span>
+<span class="atom-split" id="q11" data-atom="q11" data-title="Quesito 11" data-tags="topic_aritmetica,method_casework,method_fattorizzazione,skill_casework_accurato,skill_riconoscimento_pattern,skill_manipolazione_algebrica,skill_astrazione"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -362,8 +351,8 @@ level: JJMO Yosen
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_casework|Casework]], [[method_fattorizzazione|Fattorizzazione]]
-**Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
-**Area:** [[Aritmetica e Teoria dei Numeri]]
+**Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_astrazione|Abstraction / generalisation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1uXvBKHmbd80UKfDnfLpuU95z5jy_cZrg/view)
 
 
@@ -374,12 +363,11 @@ level: JJMO Yosen
 
 > Quante triple $(a, b, c)$ di interi positivi non superiori a $2010$ esistono tali che $a + b + c$ sia multiplo di ciascuno di $a$, $b$ e $c$? (Le triple in cui i tre numeri compaiono in ordini diversi sono considerate distinte.)
 
+
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_casework|Casework]], [[method_fattorizzazione|Fattorizzazione]]
-**Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione / generalizzazione]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
-
-[[Quesiti/src_jjmo8yq_yosen#q11|src_jjmo8yq_yosen__Q11]]
 
 
 
@@ -410,5 +398,3 @@ level: JJMO Yosen
 **Metodo:** [[method_trigonometria|Trigonometria]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
-
-[[Quesiti/src_jjmo8yq_yosen#q12|src_jjmo8yq_yosen__Q12]]

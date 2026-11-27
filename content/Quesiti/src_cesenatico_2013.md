@@ -10,7 +10,7 @@ level: nazionale
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_algebra,skill_manipolazione_algebrica"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_algebra,topic_aritmetica,method_fattorizzazione,method_invarianti,skill_manipolazione_algebrica,skill_modellizzazione"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -27,9 +27,10 @@ level: nazionale
 > 50 secondi.
 > Trovare tutti i possibili valori di vs, vp e vd.
 
-**Topic:** [[topic_algebra|Algebra]]
-**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
-**Area:** [[Algebra e Analisi]]
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]], [[method_invarianti|Invarianti / monovarianti]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
+**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** (10,12,15),(9,12,18),(8,12,24),(7,12,42)
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1hXVH2IQIT7lpZOFdPWsSlTLlKUKYJdQt/view)
 
@@ -45,10 +46,11 @@ level: nazionale
 > (c) however the circuit is made up (with more or fewer climbs and descents) the time taken is always 50 seconds.
 > Find all possible values of vs, vp and vd.
 
-**Topic:** [[topic_algebra|Algebra]]
-**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
 
-[[Quesiti/src_cesenatico_2013#q01|src_cesenatico_2013__Q01]]
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]], [[method_invarianti|Invariants / monovariants]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
 
 
@@ -113,12 +115,13 @@ level: nazionale
 **Topic:** [[topic_geometria_piana|Plane geometry]]
 **Method:** [[method_simmetria|Using symmetry]]
 **Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
 
 [[src_cesenatico_2013__prob2.png]]
 
 
 
-<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_combinatoria,method_invarianti,skill_astrazione"></span>
+<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_combinatoria,method_invarianti,method_cassetti,skill_astrazione"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -131,7 +134,7 @@ level: nazionale
 > esattamente 1000 numeri rossi e 1000 numeri blu.
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
-**Metodo:** [[method_invarianti|Invarianti / monovarianti]]
+**Metodo:** [[method_invarianti|Invarianti / monovarianti]], [[method_cassetti|Principio dei cassetti]]
 **Abilita:** [[skill_astrazione|Astrazione / generalizzazione]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1hXVH2IQIT7lpZOFdPWsSlTLlKUKYJdQt/view)
@@ -144,15 +147,15 @@ level: nazionale
 
 > Every integer is coloured with one of two colours, red or blue. We know that, for every finite set A of consecutive integers, the absolute value of the difference between the number of red integers and the number of blue integers in the set A is at most 1000. Prove that there exists a set of 2000 consecutive integers among which there are exactly 1000 red numbers and 1000 blue numbers.
 
+
 **Topic:** [[topic_combinatoria|Combinatorics]]
-**Method:** [[method_invarianti|Invariants / monovariants]]
-**Skill:** [[skill_astrazione|Abstraction / generalisation]]
-
-[[Quesiti/src_cesenatico_2013#q03|src_cesenatico_2013__Q03]]
-
+**Metodo:** [[method_invarianti|Invariants / monovariants]], [[method_cassetti|Pigeonhole principle]]
+**Abilita:** [[skill_astrazione|Abstraction / generalisation]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
 
-<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_aritmetica,method_fattorizzazione,skill_manipolazione_algebrica"></span>
+
+<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_aritmetica,topic_algebra,method_fattorizzazione,method_casework,skill_manipolazione_algebrica,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -161,10 +164,10 @@ level: nazionale
 
 > In quali basi b > 6 la scrittura 5654 rappresenta una potenza di un numero primo?
 
-**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
-**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
-**Area:** [[Aritmetica e Teoria dei Numeri]]
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]], [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 **Risposta:** base 7 (2048=2^11)
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1hXVH2IQIT7lpZOFdPWsSlTLlKUKYJdQt/view)
 
@@ -176,11 +179,11 @@ level: nazionale
 
 > In which bases b > 6 does the writing 5654 represent a power of a prime number?
 
-**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
-**Method:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
-**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
 
-[[Quesiti/src_cesenatico_2013#q04|src_cesenatico_2013__Q04]]
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]], [[method_casework|Case analysis]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Algebra e Analisi|Algebra and analysis]]
 
 
 
@@ -230,12 +233,13 @@ level: nazionale
 **Topic:** [[topic_geometria_piana|Plane geometry]]
 **Method:** [[method_simmetria|Using symmetry]]
 **Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
 
 [[src_cesenatico_2013__prob5.png]]
 
 
 
-<span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_combinatoria,topic_logica,method_invarianti,skill_astrazione"></span>
+<span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_combinatoria,topic_logica,method_invarianti,method_bigezione,skill_astrazione,skill_modellizzazione"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -253,8 +257,8 @@ level: nazionale
 > numero riesca sempre?
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_logica|Logica, giochi, strategie]]
-**Metodo:** [[method_invarianti|Invarianti / monovarianti]]
-**Abilita:** [[skill_astrazione|Astrazione / generalizzazione]]
+**Metodo:** [[method_invarianti|Invarianti / monovarianti]], [[method_bigezione|Bigezione / corrispondenza]]
+**Abilita:** [[skill_astrazione|Astrazione / generalizzazione]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** n potenza di due
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1hXVH2IQIT7lpZOFdPWsSlTLlKUKYJdQt/view)
@@ -268,8 +272,8 @@ level: nazionale
 > Two magicians perform the following act. At the start the first magician shuts the second magician in a booth where he can neither see nor hear anything. To begin the game, the first magician invites Daniele, a member of the audience, to place on each cell of an n × n board, at his discretion, a white or a black piece. He then asks Daniele to point out to him a cell C of his choice. At this point the first magician chooses a cell D (not necessarily different from C) and replaces the piece on D with one of the other colour (white with black, or black with white).
 > The booth in which the second magician was shut is then opened. By looking at the board, the second magician manages to guess which cell is C. For which n can the two magicians carry out a strategy such that their act always succeeds?
 
-**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_logica|Logic, games and strategies]]
-**Method:** [[method_invarianti|Invariants / monovariants]]
-**Skill:** [[skill_astrazione|Abstraction / generalisation]]
 
-[[Quesiti/src_cesenatico_2013#q06|src_cesenatico_2013__Q06]]
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_logica|Logic, games and strategies]]
+**Metodo:** [[method_invarianti|Invariants / monovariants]], [[method_bigezione|Bijection / correspondence]]
+**Abilita:** [[skill_astrazione|Abstraction / generalisation]], [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]

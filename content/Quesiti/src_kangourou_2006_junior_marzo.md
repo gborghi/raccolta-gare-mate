@@ -10,7 +10,7 @@ level: kangourou
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_aritmetica,skill_conteggio_sistematico"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_aritmetica,topic_combinatoria,method_casi_conteggio,skill_conteggio_sistematico"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -19,9 +19,10 @@ level: kangourou
 
 > Se la risposta A è corretta, allora lo è anche la B.
 
-**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casi_conteggio|Conteggio per casi]]
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
-**Area:** [[Aritmetica e Teoria dei Numeri]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** C
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1UurIFSPWZThHtoTZZAXYhRKHM-eZHg4I/view)
 
@@ -33,11 +34,11 @@ level: kangourou
 
 > If answer A is correct, then B is also correct.
 
-**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
-**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
-**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
-[[Quesiti/src_kangourou_2006_junior_marzo#q01|src_kangourou_2006_junior_marzo__Q01]]
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_casi_conteggio|Counting by cases]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
 
 
@@ -68,11 +69,9 @@ level: kangourou
 **Abilita:** [[skill_stima|Estimation and approximation]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
-[[Quesiti/src_kangourou_2006_junior_marzo#q02|src_kangourou_2006_junior_marzo__Q02]]
 
 
-
-<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_algebra,skill_modellizzazione"></span>
+<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_algebra,skill_modellizzazione,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -85,7 +84,7 @@ level: kangourou
 > A) A               B) B              C) C              D) D                 E) E
 
 **Topic:** [[topic_algebra|Algebra]]
-**Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Algebra e Analisi]]
 **Risposta:** C
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1UurIFSPWZThHtoTZZAXYhRKHM-eZHg4I/view)
@@ -99,11 +98,10 @@ level: kangourou
 > If answer B is not correct, then D and E are not correct either. You know that in the questions posed by Kangourou, exactly one of the proposed answers is correct. So you can conclude that the correct answer is the
 > A) A               B) B              C) C              D) D                 E) E
 
-**Topic:** [[topic_algebra|Algebra]]
-**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
-**Area:** [[Algebra e Analisi|Algebra and analysis]]
 
-[[Quesiti/src_kangourou_2006_junior_marzo#q03|src_kangourou_2006_junior_marzo__Q03]]
+**Topic:** [[topic_algebra|Algebra]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
 
 
 
@@ -136,11 +134,9 @@ level: kangourou
 **Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
-[[Quesiti/src_kangourou_2006_junior_marzo#q04|src_kangourou_2006_junior_marzo__Q04]]
 
 
-
-<span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_logica,method_congruenze,skill_astrazione"></span>
+<span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_logica,topic_aritmetica,method_congruenze,method_invarianti,skill_astrazione"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -149,10 +145,10 @@ level: kangourou
 
 > 5. Sulla lavagna sono scritti i numeri 1, 2, 3, 4. Ogni minuto Luisa can- cella due numeri e sostituisce ciascuno di essi con il numero che si ottie- ne aggiungendogli 1. Qual è il minimo numero di minuti passati i quali tutti i numeri scritti sulla lavagna potranno diventare multipli di 5? A) 4 B) 5 C) 8 D) 10 E) Una tale configurazione non potrà mai verificarsi. Kang 2006 Pag. 22 22 Kang 2006 Pag.
 
-**Topic:** [[topic_logica|Logica, giochi, strategie]]
-**Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]]
+**Topic:** [[topic_logica|Logica, giochi, strategie]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]], [[method_invarianti|Invarianti / monovarianti]]
 **Abilita:** [[skill_astrazione|Astrazione / generalizzazione]]
-**Area:** [[Combinatoria, Logica e Probabilita]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** B
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1UurIFSPWZThHtoTZZAXYhRKHM-eZHg4I/view)
 
@@ -164,12 +160,11 @@ level: kangourou
 
 > 5. The numbers 1, 2, 3, 4 are written on the blackboard. Every minute, Luisa erases two numbers and replaces each of them with the number obtained by adding 1 to it. What is the minimum number of minutes after which all the numbers written on the blackboard can become multiples of 5? A) 4 B) 5 C) 8 D) 10 E) Such a configuration can never occur. Kang 2006 P. 22 22 Kang 2006 P.
 
-**Topic:** [[topic_logica|Logic, games and strategies]]
-**Metodo:** [[method_congruenze|Modular arithmetic / congruences]]
-**Abilita:** [[skill_astrazione|Abstraction / generalisation]]
-**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
-[[Quesiti/src_kangourou_2006_junior_marzo#q05|src_kangourou_2006_junior_marzo__Q05]]
+**Topic:** [[topic_logica|Logic, games and strategies]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]], [[method_invarianti|Invariants / monovariants]]
+**Abilita:** [[skill_astrazione|Abstraction / generalisation]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
 
 
@@ -204,11 +199,9 @@ level: kangourou
 **Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
 **Area:** [[Geometria|Geometry]]
 
-[[Quesiti/src_kangourou_2006_junior_marzo#q06|src_kangourou_2006_junior_marzo__Q06]]
 
 
-
-<span class="atom-split" id="q07" data-atom="q07" data-title="Quesito 7" data-tags="topic_algebra,skill_modellizzazione"></span>
+<span class="atom-split" id="q07" data-atom="q07" data-title="Quesito 7" data-tags="topic_algebra,method_simmetria,skill_modellizzazione"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -218,6 +211,7 @@ level: kangourou
 > 7. Due treni della stessa lunghezza stanno viaggiando uno incontro all'altro su una linea a doppio binario, il primo a 100 km/h e il secondo a 120 km/h. Quando si incrociano, da un finestrino del secondo treno un passeggero osserva che ci vogliono esattamente 6 secondi perché il primo treno gli sfili davanti completamente. In quanti secondi un passeggero del primo treno vede sfilare davanti a sè il secondo treno? A) 5 B) 6 C) Tra 6 e 7 D) 7 E) Più di 7
 
 **Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_simmetria|Sfruttamento della simmetria]]
 **Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
 **Area:** [[Algebra e Analisi]]
 **Risposta:** B
@@ -231,15 +225,15 @@ level: kangourou
 
 > 7. Two trains of the same length are traveling toward each other on a double-track line: the first at 100 km/h and the second at 120 km/h. When they pass each other, from a window in the second train, a passenger observes that it takes exactly 6 seconds for the first train to pass completely in front of him. In how many seconds does a passenger in the first train see the second train pass in front of him? A) 5 B) 6 C) Between 6 and 7 D) 7 E) More than 7
 
+
 **Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_simmetria|Using symmetry]]
 **Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
 **Area:** [[Algebra e Analisi|Algebra and analysis]]
 
-[[Quesiti/src_kangourou_2006_junior_marzo#q07|src_kangourou_2006_junior_marzo__Q07]]
 
 
-
-<span class="atom-split" id="q08" data-atom="q08" data-title="Quesito 8" data-tags="topic_geometria_piana,skill_ragionamento_geometrico"></span>
+<span class="atom-split" id="q08" data-atom="q08" data-title="Quesito 8" data-tags="topic_geometria_piana,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -251,7 +245,7 @@ level: kangourou
 > 8. Il raggio del segnale stradale che vedi in figura misura 20 centimetri. Ognuno dei settori grigi è un quarto di un cerchio la cui area è la stessa della super- ficie che appare chiara. Quanti centimetri misura il raggio di questo cerchio? A) B) C) 20/3 D) 12,5 E) 10 10 2 4 5
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
-**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 **Risposta:** A
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1UurIFSPWZThHtoTZZAXYhRKHM-eZHg4I/view)
@@ -266,15 +260,14 @@ level: kangourou
 
 > 8. The radius of the road sign shown in the figure is 20 centimeters. Each of the grey sectors is a quarter of a circle whose area is the same as the area of the light-colored region. How many centimeters is the radius of this circle? A) B) C) 20/3 D) 12.5 E) 10 10 2 4 5
 
+
 **Topic:** [[topic_geometria_piana|Plane geometry]]
-**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
 **Area:** [[Geometria|Geometry]]
 
-[[Quesiti/src_kangourou_2006_junior_marzo#q08|src_kangourou_2006_junior_marzo__Q08]]
 
 
-
-<span class="atom-split" id="q09" data-atom="q09" data-title="Quesito 9" data-tags="topic_geometria_solida,method_congruenze,skill_astrazione"></span>
+<span class="atom-split" id="q09" data-atom="q09" data-title="Quesito 9" data-tags="topic_geometria_solida,topic_aritmetica,method_congruenze,skill_astrazione"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -283,10 +276,10 @@ level: kangourou
 
 > 9. Uno solo fra quelli che ti proponiamo può essere il numero degli spi- goli di un prisma. Quale? A) 100 B) 200 C) 2005 D) 2006 E) 2007
 
-**Topic:** [[topic_geometria_solida|Geometria solida]]
+**Topic:** [[topic_geometria_solida|Geometria solida]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]]
 **Abilita:** [[skill_astrazione|Astrazione / generalizzazione]]
-**Area:** [[Geometria]]
+**Area:** [[Geometria]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** E
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1UurIFSPWZThHtoTZZAXYhRKHM-eZHg4I/view)
 
@@ -298,12 +291,11 @@ level: kangourou
 
 > 9. Only one of the numbers we propose to you can be the number of edges of a prism. Which one? A) 100 B) 200 C) 2005 D) 2006 E) 2007
 
-**Topic:** [[topic_geometria_solida|Solid geometry]]
+
+**Topic:** [[topic_geometria_solida|Solid geometry]], [[topic_aritmetica|Arithmetic / Number theory]]
 **Metodo:** [[method_congruenze|Modular arithmetic / congruences]]
 **Abilita:** [[skill_astrazione|Abstraction / generalisation]]
-**Area:** [[Geometria|Geometry]]
-
-[[Quesiti/src_kangourou_2006_junior_marzo#q09|src_kangourou_2006_junior_marzo__Q09]]
+**Area:** [[Geometria|Geometry]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
 
 
@@ -336,11 +328,9 @@ level: kangourou
 **Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
 **Area:** [[Algebra e Analisi|Algebra and analysis]]
 
-[[Quesiti/src_kangourou_2006_junior_marzo#q10|src_kangourou_2006_junior_marzo__Q10]]
 
 
-
-<span class="atom-split" id="q11" data-atom="q11" data-title="Quesito 11" data-tags="topic_algebra,skill_modellizzazione"></span>
+<span class="atom-split" id="q11" data-atom="q11" data-title="Quesito 11" data-tags="topic_algebra,skill_modellizzazione,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -350,7 +340,7 @@ level: kangourou
 > 11. Una persona con poco tatto ha chiesto l'età a una signora. La signora, un po' risentita, ha risposto: "Se io morissi a cento anni, oggi la mia età sarebbe i quattro terzi della metà del tempo che mi rimar- rebbe da vivere". Qual è l'età della signora? A) 20 B) 40 C) 50 D) 60 E) 80 Kang 2006 Pag. 23 23
 
 **Topic:** [[topic_algebra|Algebra]]
-**Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Algebra e Analisi]]
 **Risposta:** B
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1UurIFSPWZThHtoTZZAXYhRKHM-eZHg4I/view)
@@ -363,11 +353,10 @@ level: kangourou
 
 > 11. A person with little tact asked a lady her age. The lady, a little put out, replied: "If I were to die at the age of 100, today my age would be four-thirds of half of the time I would still have left to live." What is the lady's age? A) 20 B) 40 C) 50 D) 60 E) 80 Kang 2006 Page 23 23
 
-**Topic:** [[topic_algebra|Algebra]]
-**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
-**Area:** [[Algebra e Analisi|Algebra and analysis]]
 
-[[Quesiti/src_kangourou_2006_junior_marzo#q11|src_kangourou_2006_junior_marzo__Q11]]
+**Topic:** [[topic_algebra|Algebra]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
 
 
 
@@ -398,11 +387,9 @@ level: kangourou
 **Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
 **Area:** [[Geometria|Geometry]]
 
-[[Quesiti/src_kangourou_2006_junior_marzo#q12|src_kangourou_2006_junior_marzo__Q12]]
 
 
-
-<span class="atom-split" id="q13" data-atom="q13" data-title="Quesito 13" data-tags="topic_algebra,skill_manipolazione_algebrica"></span>
+<span class="atom-split" id="q13" data-atom="q13" data-title="Quesito 13" data-tags="topic_algebra,topic_geometria_piana,method_fattorizzazione,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -413,9 +400,10 @@ level: kangourou
 
 > 13. Il rettangolo in figura è suddiviso in sei qua- drati. Il lato del quadrato più piccolo misura un cen- timetro. Quanti centimetri misura il lato del qua- drato più grande? 1 1 A) 5,5 B) 6 C) 7 D) 8 E) Un valore diverso dai precedenti. K A N
 
-**Topic:** [[topic_algebra|Algebra]]
+**Topic:** [[topic_algebra|Algebra]], [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
-**Area:** [[Algebra e Analisi]]
+**Area:** [[Algebra e Analisi]], [[Geometria]]
 **Risposta:** C
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1UurIFSPWZThHtoTZZAXYhRKHM-eZHg4I/view)
 
@@ -429,15 +417,15 @@ level: kangourou
 
 > 13. The rectangle in the figure is divided into six squares. The side of the smallest square measures one centimeter. How many centimeters is the side of the largest square? 1 1 A) 5.5 B) 6 C) 7 D) 8 E) A value different from the preceding ones. K A N
 
-**Topic:** [[topic_algebra|Algebra]]
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
 **Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
-**Area:** [[Algebra e Analisi|Algebra and analysis]]
-
-[[Quesiti/src_kangourou_2006_junior_marzo#q13|src_kangourou_2006_junior_marzo__Q13]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Geometria|Geometry]]
 
 
 
-<span class="atom-split" id="q14" data-atom="q14" data-title="Quesito 14" data-tags="topic_aritmetica,method_congruenze,skill_casework_accurato"></span>
+<span class="atom-split" id="q14" data-atom="q14" data-title="Quesito 14" data-tags="topic_aritmetica,method_congruenze,method_casework,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -447,7 +435,7 @@ level: kangourou
 > 14. Ogni lettera rappresenta una cifra: lettere ugua- + K A G li rappresentano cifre uguali e lettere diverse cifre + K N G diverse. Che cifra rappresenta la lettera A? ------- A) 4 B) 5 C) 6 D) 7 E) 3 2 0 0 6
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]]
+**Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]], [[method_casework|Analisi per casi]]
 **Abilita:** [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** B
@@ -461,16 +449,15 @@ level: kangourou
 
 > 14. Each letter represents a digit: identical letters represent equal digits, and different letters represent different digits. What digit does the letter A represent? ------- A) 4 B) 5 C) 6 D) 7 E) 3 2 0 0 6
 
+
 **Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
-**Metodo:** [[method_congruenze|Modular arithmetic / congruences]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]], [[method_casework|Case analysis]]
 **Abilita:** [[skill_casework_accurato|Careful case analysis]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
-[[Quesiti/src_kangourou_2006_junior_marzo#q14|src_kangourou_2006_junior_marzo__Q14]]
 
 
-
-<span class="atom-split" id="q15" data-atom="q15" data-title="Quesito 15" data-tags="topic_logica,skill_casework_accurato"></span>
+<span class="atom-split" id="q15" data-atom="q15" data-title="Quesito 15" data-tags="topic_logica,method_casework,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -480,6 +467,7 @@ level: kangourou
 > 15. Stai cercando di rispondere ad un quesito di Kangourou e sei giun- to alle seguenti conclusioni:
 
 **Topic:** [[topic_logica|Logica, giochi, strategie]]
+**Metodo:** [[method_casework|Analisi per casi]]
 **Abilita:** [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** C
@@ -493,11 +481,11 @@ level: kangourou
 
 > 15. You are trying to answer a Kangourou problem and have reached the following conclusions:
 
+
 **Topic:** [[topic_logica|Logic, games and strategies]]
+**Metodo:** [[method_casework|Case analysis]]
 **Abilita:** [[skill_casework_accurato|Careful case analysis]]
 **Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
-
-[[Quesiti/src_kangourou_2006_junior_marzo#q15|src_kangourou_2006_junior_marzo__Q15]]
 
 
 
@@ -567,11 +555,9 @@ level: kangourou
 **Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
 **Area:** [[Geometria|Geometry]]
 
-[[Quesiti/src_kangourou_2006_junior_marzo#q16|src_kangourou_2006_junior_marzo__Q16]]
 
 
-
-<span class="atom-split" id="q17" data-atom="q17" data-title="Quesito 17" data-tags="topic_aritmetica,method_grafi,skill_casework_accurato"></span>
+<span class="atom-split" id="q17" data-atom="q17" data-title="Quesito 17" data-tags="topic_aritmetica,topic_combinatoria,method_grafi,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -600,10 +586,10 @@ level: kangourou
 > Kang 2006
 > Kang 2006
 
-**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_grafi|Teoria dei grafi]]
 **Abilita:** [[skill_casework_accurato|Casework accurato]]
-**Area:** [[Aritmetica e Teoria dei Numeri]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** A
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1UurIFSPWZThHtoTZZAXYhRKHM-eZHg4I/view)
 
@@ -624,16 +610,15 @@ level: kangourou
 >
 > Pag. Pag. 25 25 Kang 2006 Kang 2006
 
-**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_combinatoria|Combinatorics]]
 **Metodo:** [[method_grafi|Graph theory]]
 **Abilita:** [[skill_casework_accurato|Careful case analysis]]
-**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
-
-[[Quesiti/src_kangourou_2006_junior_marzo#q17|src_kangourou_2006_junior_marzo__Q17]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
 
 
-<span class="atom-split" id="q18" data-atom="q18" data-title="Quesito 18" data-tags="topic_geometria_piana,skill_manipolazione_algebrica"></span>
+<span class="atom-split" id="q18" data-atom="q18" data-title="Quesito 18" data-tags="topic_geometria_piana,topic_algebra,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -654,9 +639,9 @@ level: kangourou
 > 14 anni. Quanti sono i figli in quella famiglia? 
 > A) 2                B) 3                 C) 4                  D) 5                E) 6
 
-**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_algebra|Algebra]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
-**Area:** [[Geometria]]
+**Area:** [[Geometria]], [[Algebra e Analisi]]
 **Risposta:** E
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1UurIFSPWZThHtoTZZAXYhRKHM-eZHg4I/view)
 
@@ -675,15 +660,14 @@ level: kangourou
 > 19. In a family consisting of two parents and several children, the average age is 18 years. Without the father, who is 38 years old, the average age drops to 14 years. How many children are there in that family?
 > A) 2                B) 3                 C) 4                  D) 5                E) 6
 
-**Topic:** [[topic_geometria_piana|Plane geometry]]
+
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_algebra|Algebra]]
 **Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
-**Area:** [[Geometria|Geometry]]
-
-[[Quesiti/src_kangourou_2006_junior_marzo#q18|src_kangourou_2006_junior_marzo__Q18]]
+**Area:** [[Geometria|Geometry]], [[Algebra e Analisi|Algebra and analysis]]
 
 
 
-<span class="atom-split" id="q19" data-atom="q19" data-title="Quesito 19" data-tags="topic_algebra,skill_modellizzazione"></span>
+<span class="atom-split" id="q19" data-atom="q19" data-title="Quesito 19" data-tags="topic_algebra,skill_modellizzazione,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -693,7 +677,7 @@ level: kangourou
 > 19. Risposta C). Sia n il numero dei figli: sommando gli anni di tutti i componenti della famiglia si ottiene 18( n + 2), sommando gli anni di tutti i componenti escluso il padre si ottiene 14(n + 1). Dunque deve essere 18(n + 2) – 14(n + 1) = 38, da cui si ricava n = 4.
 
 **Topic:** [[topic_algebra|Algebra]]
-**Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Algebra e Analisi]]
 **Risposta:** C
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1UurIFSPWZThHtoTZZAXYhRKHM-eZHg4I/view)
@@ -706,11 +690,10 @@ level: kangourou
 
 > 19. Answer C). Let n be the number of children: adding up the ages of all family members gives 18(n + 2); adding up the ages of all family members except the father gives 14(n + 1). Therefore, 18(n + 2) – 14(n + 1) must equal 38, from which we obtain n = 4.
 
-**Topic:** [[topic_algebra|Algebra]]
-**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
-**Area:** [[Algebra e Analisi|Algebra and analysis]]
 
-[[Quesiti/src_kangourou_2006_junior_marzo#q19|src_kangourou_2006_junior_marzo__Q19]]
+**Topic:** [[topic_algebra|Algebra]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
 
 
 
@@ -765,8 +748,6 @@ level: kangourou
 **Metodo:** [[method_cassetti|Pigeonhole principle]]
 **Abilita:** [[skill_casework_accurato|Careful case analysis]]
 **Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
-
-[[Quesiti/src_kangourou_2006_junior_marzo#q20|src_kangourou_2006_junior_marzo__Q20]]
 
 
 
@@ -844,11 +825,9 @@ level: kangourou
 **Abilita:** [[skill_casework_accurato|Careful case analysis]]
 **Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
-[[Quesiti/src_kangourou_2006_junior_marzo#q21|src_kangourou_2006_junior_marzo__Q21]]
 
 
-
-<span class="atom-split" id="q22" data-atom="q22" data-title="Quesito 22" data-tags="topic_disuguaglianze,method_disuguaglianze,skill_astrazione"></span>
+<span class="atom-split" id="q22" data-atom="q22" data-title="Quesito 22" data-tags="topic_disuguaglianze,method_disuguaglianze,method_estremalita,skill_astrazione,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -862,8 +841,8 @@ level: kangourou
 > E) ognuna delle precedenti affermazioni è falsa.
 
 **Topic:** [[topic_disuguaglianze|Disuguaglianze]]
-**Metodo:** [[method_disuguaglianze|Disuguaglianze classiche]]
-**Abilita:** [[skill_astrazione|Astrazione / generalizzazione]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze classiche]], [[method_estremalita|Principio di estremalita]]
+**Abilita:** [[skill_astrazione|Astrazione / generalizzazione]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Algebra e Analisi]]
 **Risposta:** E
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1UurIFSPWZThHtoTZZAXYhRKHM-eZHg4I/view)
@@ -879,12 +858,11 @@ level: kangourou
 > C) p is certainly different from 25. D) p is certainly different from 75.
 > E) Each of the preceding statements is false.
 
-**Topic:** [[topic_disuguaglianze|Inequalities]]
-**Metodo:** [[method_disuguaglianze|Classical inequalities]]
-**Abilita:** [[skill_astrazione|Abstraction / generalisation]]
-**Area:** [[Algebra e Analisi|Algebra and analysis]]
 
-[[Quesiti/src_kangourou_2006_junior_marzo#q22|src_kangourou_2006_junior_marzo__Q22]]
+**Topic:** [[topic_disuguaglianze|Inequalities]]
+**Metodo:** [[method_disuguaglianze|Classical inequalities]], [[method_estremalita|Extremal principle]]
+**Abilita:** [[skill_astrazione|Abstraction / generalisation]], [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
 
 
 
@@ -933,11 +911,9 @@ level: kangourou
 **Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
 **Area:** [[Geometria|Geometry]]
 
-[[Quesiti/src_kangourou_2006_junior_marzo#q23|src_kangourou_2006_junior_marzo__Q23]]
 
 
-
-<span class="atom-split" id="q24" data-atom="q24" data-title="Quesito 24" data-tags="topic_geometria_piana,skill_ragionamento_geometrico"></span>
+<span class="atom-split" id="q24" data-atom="q24" data-title="Quesito 24" data-tags="topic_geometria_piana,method_trigonometria,skill_ragionamento_geometrico"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -960,6 +936,7 @@ level: kangourou
 > E)
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_trigonometria|Tecniche trigonometriche]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]]
 **Risposta:** C
@@ -981,15 +958,15 @@ level: kangourou
 > D)
 > E)
 
+
 **Topic:** [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_trigonometria|Trigonometric techniques]]
 **Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
 **Area:** [[Geometria|Geometry]]
 
-[[Quesiti/src_kangourou_2006_junior_marzo#q24|src_kangourou_2006_junior_marzo__Q24]]
 
 
-
-<span class="atom-split" id="q25" data-atom="q25" data-title="Quesito 25" data-tags="topic_combinatoria,method_conteggio,skill_conteggio_sistematico"></span>
+<span class="atom-split" id="q25" data-atom="q25" data-title="Quesito 25" data-tags="topic_combinatoria,topic_geometria_solida,method_conteggio,method_simmetria,skill_conteggio_sistematico,skill_astrazione"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -1007,10 +984,10 @@ level: kangourou
 > D) 42
 > E) 48
 
-**Topic:** [[topic_combinatoria|Combinatoria]]
-**Metodo:** [[method_conteggio|Conteggio combinatorio]]
-**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
-**Area:** [[Combinatoria, Logica e Probabilita]]
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_geometria_solida|Geometria solida]]
+**Metodo:** [[method_conteggio|Conteggio combinatorio]], [[method_simmetria|Sfruttamento della simmetria]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_astrazione|Astrazione / generalizzazione]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 **Risposta:** B
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1UurIFSPWZThHtoTZZAXYhRKHM-eZHg4I/view)
 
@@ -1027,16 +1004,15 @@ level: kangourou
 > D) 42
 > E) 48
 
-**Topic:** [[topic_combinatoria|Combinatorics]]
-**Metodo:** [[method_conteggio|Combinatorial counting]]
-**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
-**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
-[[Quesiti/src_kangourou_2006_junior_marzo#q25|src_kangourou_2006_junior_marzo__Q25]]
-
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_geometria_solida|Solid geometry]]
+**Metodo:** [[method_conteggio|Combinatorial counting]], [[method_simmetria|Using symmetry]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]], [[skill_astrazione|Abstraction / generalisation]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Geometria|Geometry]]
 
 
-<span class="atom-split" id="q26" data-atom="q26" data-title="Quesito 26" data-tags="topic_combinatoria,method_conteggio,skill_conteggio_sistematico"></span>
+
+<span class="atom-split" id="q26" data-atom="q26" data-title="Quesito 26" data-tags="topic_combinatoria,method_conteggio,method_casi_conteggio,skill_conteggio_sistematico,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -1096,8 +1072,8 @@ level: kangourou
 > Kang 2006
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
-**Metodo:** [[method_conteggio|Conteggio combinatorio]]
-**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Metodo:** [[method_conteggio|Conteggio combinatorio]], [[method_casi_conteggio|Conteggio per casi]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** D
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1UurIFSPWZThHtoTZZAXYhRKHM-eZHg4I/view)
@@ -1114,12 +1090,11 @@ level: kangourou
 >
 > Pag. Pag. 27 27 Kang 2006 Kang 2006
 
-**Topic:** [[topic_combinatoria|Combinatorics]]
-**Metodo:** [[method_conteggio|Combinatorial counting]]
-**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
-**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
-[[Quesiti/src_kangourou_2006_junior_marzo#q26|src_kangourou_2006_junior_marzo__Q26]]
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_conteggio|Combinatorial counting]], [[method_casi_conteggio|Counting by cases]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]], [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
 
 
@@ -1160,11 +1135,9 @@ level: kangourou
 **Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]]
 **Area:** [[Algebra e Analisi|Algebra and analysis]]
 
-[[Quesiti/src_kangourou_2006_junior_marzo#q27|src_kangourou_2006_junior_marzo__Q27]]
 
 
-
-<span class="atom-split" id="q28" data-atom="q28" data-title="Quesito 28" data-tags="topic_combinatoria,method_conteggio,skill_conteggio_sistematico"></span>
+<span class="atom-split" id="q28" data-atom="q28" data-title="Quesito 28" data-tags="topic_combinatoria,method_conteggio,method_casi_conteggio,skill_conteggio_sistematico,skill_casework_accurato,skill_modellizzazione"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -1185,8 +1158,8 @@ level: kangourou
 > E) 9
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
-**Metodo:** [[method_conteggio|Conteggio combinatorio]]
-**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Metodo:** [[method_conteggio|Conteggio combinatorio]], [[method_casi_conteggio|Conteggio per casi]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** D
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/1UurIFSPWZThHtoTZZAXYhRKHM-eZHg4I/view)
@@ -1206,16 +1179,15 @@ level: kangourou
 > D) 14
 > E) 9
 
+
 **Topic:** [[topic_combinatoria|Combinatorics]]
-**Metodo:** [[method_conteggio|Combinatorial counting]]
-**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Metodo:** [[method_conteggio|Combinatorial counting]], [[method_casi_conteggio|Counting by cases]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]], [[skill_casework_accurato|Careful case analysis]], [[skill_modellizzazione|Modelling / translating the text]]
 **Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
-[[Quesiti/src_kangourou_2006_junior_marzo#q28|src_kangourou_2006_junior_marzo__Q28]]
 
 
-
-<span class="atom-split" id="q29" data-atom="q29" data-title="Quesito 29" data-tags="topic_aritmetica,method_congruenze,skill_casework_accurato"></span>
+<span class="atom-split" id="q29" data-atom="q29" data-title="Quesito 29" data-tags="topic_aritmetica,method_congruenze,method_casework,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -1228,7 +1200,7 @@ level: kangourou
 > A) 0               B) 1               C) 2                 D) 3              E) Più di 3
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]]
+**Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]], [[method_casework|Analisi per casi]]
 **Abilita:** [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** D
@@ -1243,12 +1215,11 @@ level: kangourou
 > Let Y denote the sum of the digits of the positive integer X, and let Z denote the sum of the digits of Y. For how many positive integers X does X + Y + Z = 60 hold?
 > A) 0 B) 1 C) 2 D) 3 E) More than 3
 
+
 **Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
-**Metodo:** [[method_congruenze|Modular arithmetic / congruences]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]], [[method_casework|Case analysis]]
 **Abilita:** [[skill_casework_accurato|Careful case analysis]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
-
-[[Quesiti/src_kangourou_2006_junior_marzo#q29|src_kangourou_2006_junior_marzo__Q29]]
 
 
 
@@ -1390,5 +1361,3 @@ level: kangourou
 **Metodo:** [[method_doppio_conteggio|Double counting]]
 **Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
 **Area:** [[Geometria|Geometry]]
-
-[[Quesiti/src_kangourou_2006_junior_marzo#q30|src_kangourou_2006_junior_marzo__Q30]]

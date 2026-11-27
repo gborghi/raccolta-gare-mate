@@ -10,7 +10,7 @@ level: squadre
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_aritmetica,skill_casework_accurato"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_aritmetica,method_congruenze,method_casework,skill_casework_accurato,skill_modellizzazione,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -26,7 +26,8 @@ level: squadre
 > centrali del numero stesso” (come 45 e 2450, solo che 45×25 ̸= 2450). Qual è la risposta?
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Abilita:** [[skill_casework_accurato|Casework accurato]]
+**Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]], [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/17f13wAoq2-DU9ntyrMeLkqz0GceV64DF/view)
 
@@ -39,10 +40,11 @@ level: squadre
 > The history class test
 > The brave Numeruto is an apprentice mateninja: he still attends the academy, but he is better in the field than at a desk. Today there is a history test, and the first question asks for the exact number of mateninja who have graduated as Grandin, from the founding of the village to the present day, and he has no idea of the answer. Fortunately he manages to intercept a coded hint from the fair Otenusa, meant for his rival Sekante: "It is a four-digit number, a multiple of 25, which, divided by 25, gives a two-digit number that is the middle digits of the number itself" (as with 45 and 2450, except that 45×25 ̸= 2450). What is the answer?
 
-**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
-**Skill:** [[skill_casework_accurato|Careful case analysis]]
 
-[[Quesiti/src_cesenatico_2007_squadre_semifinale_b#q01|src_cesenatico_2007_squadre_semifinale_b__Q01]]
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]], [[method_casework|Case analysis]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]], [[skill_modellizzazione|Modelling / translating the text]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
 
 
@@ -79,8 +81,7 @@ level: squadre
 **Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_combinatoria|Combinatorics]]
 **Method:** [[method_inclusione_esclusione|Inclusion–exclusion]]
 **Skill:** [[skill_conteggio_sistematico|Systematic counting]]
-
-[[Quesiti/src_cesenatico_2007_squadre_semifinale_b#q02|src_cesenatico_2007_squadre_semifinale_b__Q02]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
 
 
@@ -123,12 +124,11 @@ level: squadre
 **Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_trigonometria|Trigonometry]]
 **Method:** [[method_trigonometria|Trigonometric techniques]]
 **Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
-
-[[Quesiti/src_cesenatico_2007_squadre_semifinale_b#q03|src_cesenatico_2007_squadre_semifinale_b__Q03]]
-
+**Area:** [[Geometria|Geometry]]
 
 
-<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_combinatoria,topic_aritmetica,method_casework,skill_casework_accurato"></span>
+
+<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_combinatoria,topic_aritmetica,method_casework,method_conteggio,skill_casework_accurato,skill_modellizzazione"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -144,9 +144,9 @@ level: squadre
 > condizioni sopracitate possano realizzarsi?
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_casework|Analisi per casi]]
-**Abilita:** [[skill_casework_accurato|Casework accurato]]
-**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+**Metodo:** [[method_casework|Analisi per casi]], [[method_conteggio|Conteggio combinatorio]]
+**Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/17f13wAoq2-DU9ntyrMeLkqz0GceV64DF/view)
 
 
@@ -159,15 +159,15 @@ level: squadre
 > [⋆]
 > Even at the mateninja academy the atmosphere eases off now and then, and this evening the Piccin's grand ball is under way. All the guests have already arrived: n mateninji (the boys) and n mateninje (the girls) are showing off their finest uniforms and gear, but they have not the courage to ask one another to dance, and they size one another up from a distance, divided into 17 non-empty groups. Any two groups differ by at most one, and every female is in the company of females only. How many n between 1 and 2007 inclusive are there for which the conditions above can occur?
 
+
 **Topic:** [[topic_combinatoria|Combinatorics]], [[topic_aritmetica|Arithmetic / Number theory]]
-**Method:** [[method_casework|Case analysis]]
-**Skill:** [[skill_casework_accurato|Careful case analysis]]
-
-[[Quesiti/src_cesenatico_2007_squadre_semifinale_b#q04|src_cesenatico_2007_squadre_semifinale_b__Q04]]
-
+**Metodo:** [[method_casework|Case analysis]], [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]], [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
 
-<span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_aritmetica,method_fattorizzazione,skill_manipolazione_algebrica"></span>
+
+<span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_aritmetica,method_fattorizzazione,skill_manipolazione_algebrica,skill_riconoscimento_pattern"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -181,7 +181,7 @@ level: squadre
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
-**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/17f13wAoq2-DU9ntyrMeLkqz0GceV64DF/view)
 
@@ -194,15 +194,15 @@ level: squadre
 > Otenusa's trial
 > Master Isoshilo is very strict, and he has been holding Otenusa for hours under the effects of an illusion by means of his magical arts. To break the spell, Otenusa must concentrate completely and manage to determine the value of the 99th root of the product of the positive divisors of the number 28310. What is it?
 
+
 **Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
-**Method:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
-**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
-
-[[Quesiti/src_cesenatico_2007_squadre_semifinale_b#q05|src_cesenatico_2007_squadre_semifinale_b__Q05]]
-
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
 
-<span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_combinatoria,topic_geometria_piana,method_conteggio,skill_conteggio_sistematico"></span>
+
+<span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_combinatoria,topic_geometria_piana,method_conteggio,method_doppio_conteggio,skill_conteggio_sistematico,skill_ragionamento_geometrico"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -218,8 +218,8 @@ level: squadre
 > zone chiuse triangolari che si possono ottenere?
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_geometria_piana|Geometria piana]]
-**Metodo:** [[method_conteggio|Conteggio combinatorio]]
-**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Metodo:** [[method_conteggio|Conteggio combinatorio]], [[method_doppio_conteggio|Doppio conteggio]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/17f13wAoq2-DU9ntyrMeLkqz0GceV64DF/view)
 
@@ -232,15 +232,15 @@ level: squadre
 > Geometric security measures
 > The village of Binomio occupies a desert territory in the shape of a convex polygon with 2007 sides. Inside the territory there are 1492 point-like oases, of the greatest importance for the survival of the mateninja. Having noticed that, if one considers the set of points A consisting of the vertices of the polygon and the oases, no three points are ever collinear, the village chief has decided to increase security by building some walls. Walls are erected along segments with endpoints at two points of A, so that the territory is divided exclusively into triangles and the walls meet only at points of A. What is the maximum number of closed triangular regions that can be obtained?
 
+
 **Topic:** [[topic_combinatoria|Combinatorics]], [[topic_geometria_piana|Plane geometry]]
-**Method:** [[method_conteggio|Combinatorial counting]]
-**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
-
-[[Quesiti/src_cesenatico_2007_squadre_semifinale_b#q06|src_cesenatico_2007_squadre_semifinale_b__Q06]]
-
+**Metodo:** [[method_conteggio|Combinatorial counting]], [[method_doppio_conteggio|Double counting]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]], [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Geometria|Geometry]]
 
 
-<span class="atom-split" id="q07" data-atom="q07" data-title="Quesito 7" data-tags="topic_geometria_piana,topic_trigonometria,method_trigonometria,skill_ragionamento_geometrico"></span>
+
+<span class="atom-split" id="q07" data-atom="q07" data-title="Quesito 7" data-tags="topic_geometria_piana,topic_trigonometria,method_trigonometria,method_casework,skill_ragionamento_geometrico,skill_manipolazione_algebrica,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -253,8 +253,8 @@ level: squadre
 > prodotto di tutti i possibili valori della lunghezza (in mat-ken) del terzo lato?
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometria]]
-**Metodo:** [[method_trigonometria|Tecniche trigonometriche]]
-**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Metodo:** [[method_trigonometria|Tecniche trigonometriche]], [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/17f13wAoq2-DU9ntyrMeLkqz0GceV64DF/view)
 
@@ -267,15 +267,15 @@ level: squadre
 > Sekante's dream
 > The brilliant Sekante has a single dream: when he is a Grandin he will build himself a magnificent palace. He has even finished the design already; he only has to decide the exact shape of the garden. He knows, however, that it will be triangular, and that it will have an angle of 30°, the opposite side of 59 mat-ken and another side of 95 mat-ken. What is the product of all possible values of the length (in mat-ken) of the third side?
 
+
 **Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_trigonometria|Trigonometry]]
-**Method:** [[method_trigonometria|Trigonometric techniques]]
-**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
-
-[[Quesiti/src_cesenatico_2007_squadre_semifinale_b#q07|src_cesenatico_2007_squadre_semifinale_b__Q07]]
-
+**Metodo:** [[method_trigonometria|Trigonometric techniques]], [[method_casework|Case analysis]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Geometria|Geometry]]
 
 
-<span class="atom-split" id="q08" data-atom="q08" data-title="Quesito 8" data-tags="topic_geometria_solida,topic_geometria_piana,skill_ragionamento_geometrico"></span>
+
+<span class="atom-split" id="q08" data-atom="q08" data-title="Quesito 8" data-tags="topic_geometria_solida,topic_geometria_piana,skill_ragionamento_geometrico,skill_modellizzazione"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -291,7 +291,7 @@ level: squadre
 > mat-shaku2 misurava la superficie della pergamena?
 
 **Topic:** [[topic_geometria_solida|Geometria solida]], [[topic_geometria_piana|Geometria piana]]
-**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/17f13wAoq2-DU9ntyrMeLkqz0GceV64DF/view)
 
@@ -304,14 +304,14 @@ level: squadre
 > An improbable cut
 > The mathemagical formulae of the mateninja are written on long rectangular strips of parchment of zero thickness (they too are magical!), which are rolled several times around a ninja pencil. Ninja pencils are like ours: they have the shape of a prism whose base is a regular hexagon of side 3 mat-shaku. Clumsy Numeruto, handling his new sword, accidentally strikes the prism on which Itô's precious formula is kept, cutting it cleanly in two along a plane through its axis. As a result, the parchment with the formula is sliced into 93 square sheets. What was the area of the parchment, in mat-shaku2?
 
+
 **Topic:** [[topic_geometria_solida|Solid geometry]], [[topic_geometria_piana|Plane geometry]]
-**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
-
-[[Quesiti/src_cesenatico_2007_squadre_semifinale_b#q08|src_cesenatico_2007_squadre_semifinale_b__Q08]]
-
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Geometria|Geometry]]
 
 
-<span class="atom-split" id="q09" data-atom="q09" data-title="Quesito 9" data-tags="topic_algebra,topic_aritmetica,method_congruenze,skill_manipolazione_algebrica"></span>
+
+<span class="atom-split" id="q09" data-atom="q09" data-title="Quesito 9" data-tags="topic_algebra,topic_aritmetica,method_congruenze,method_fattorizzazione,skill_manipolazione_algebrica,skill_riconoscimento_pattern"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -327,8 +327,8 @@ level: squadre
 > capaci di aiutarlo (pur senza poteri mateninja), calcolando almeno le ultime 4 cifre del risultato?
 
 **Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]]
-**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]], [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/17f13wAoq2-DU9ntyrMeLkqz0GceV64DF/view)
 
@@ -342,15 +342,15 @@ level: squadre
 > [⋆]
 > Numeruto is an expert in the higher technique of multiplication, a magical art that lets him obtain at once the product of any set of integers. Master Isoshilo has nevertheless set him a very hard training exercise: given the integers from 1 to 2007, he must compute the product of every subset with two or more elements of the given numbers, and add up all the products obtained. Can you help him (even without mateninja powers), by computing at least the last 4 digits of the result?
 
+
 **Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Arithmetic / Number theory]]
-**Method:** [[method_congruenze|Modular arithmetic / congruences]]
-**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
-
-[[Quesiti/src_cesenatico_2007_squadre_semifinale_b#q09|src_cesenatico_2007_squadre_semifinale_b__Q09]]
-
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]], [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
 
-<span class="atom-split" id="q10" data-atom="q10" data-title="Quesito 10" data-tags="topic_aritmetica,topic_combinatoria,method_congruenze,method_conteggio,skill_conteggio_sistematico"></span>
+
+<span class="atom-split" id="q10" data-atom="q10" data-title="Quesito 10" data-tags="topic_aritmetica,topic_combinatoria,method_congruenze,method_conteggio,method_casi_conteggio,skill_conteggio_sistematico,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -366,8 +366,8 @@ level: squadre
 > Gara a Squadre 2007 – Semifinale B– Testi dei problemi – Pag. 3 di 4
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
-**Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]], [[method_conteggio|Conteggio combinatorio]]
-**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]], [[method_conteggio|Conteggio combinatorio]], [[method_casi_conteggio|Conteggio per casi]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/17f13wAoq2-DU9ntyrMeLkqz0GceV64DF/view)
 
@@ -380,15 +380,15 @@ level: squadre
 > Coded missions
 > The village's grand council encodes missions and entrusts them to expert mateninja. Each mission is also assigned a numerical code which, for security, is a palindromic positive integer, a multiple of 3, with an odd number of digits. How many missions can be encoded using valid codes of 7 digits or fewer, all distinct?
 
+
 **Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_combinatoria|Combinatorics]]
-**Method:** [[method_congruenze|Modular arithmetic / congruences]], [[method_conteggio|Combinatorial counting]]
-**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
-
-[[Quesiti/src_cesenatico_2007_squadre_semifinale_b#q10|src_cesenatico_2007_squadre_semifinale_b__Q10]]
-
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]], [[method_conteggio|Combinatorial counting]], [[method_casi_conteggio|Counting by cases]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]], [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
 
-<span class="atom-split" id="q11" data-atom="q11" data-title="Quesito 11" data-tags="topic_geometria_piana,topic_trigonometria,method_trigonometria,skill_ragionamento_geometrico"></span>
+
+<span class="atom-split" id="q11" data-atom="q11" data-title="Quesito 11" data-tags="topic_geometria_piana,topic_trigonometria,method_trigonometria,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -408,7 +408,7 @@ level: squadre
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometria]]
 **Metodo:** [[method_trigonometria|Tecniche trigonometriche]]
-**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/17f13wAoq2-DU9ntyrMeLkqz0GceV64DF/view)
 
@@ -421,15 +421,15 @@ level: squadre
 > The smith and the star
 > The shuriken is one of the basic weapons used by every mateninja. Those of the village of Retta have a variable number of points, but they are all made by the same smith. To make a shuriken with n > 1 points, the smith takes a flat metal plate and begins by drawing on it two concentric circles, of radii 14 mat-bu and 28 mat-bu. On the larger one he marks 2n equally spaced points, numbered from 1 to 2n in order, anticlockwise; from each he draws the radius and marks a point with the same number where it meets the smaller circle. He then draws the segments joining each even interior point to the two consecutive odd exterior points (the point 2n is joined to 2n −1 and to 1); finally he cuts along the polygonal path obtained. What is the smallest integer greater than the area (in mat-bu2) of any such shuriken?
 
+
 **Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_trigonometria|Trigonometry]]
-**Method:** [[method_trigonometria|Trigonometric techniques]]
-**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
-
-[[Quesiti/src_cesenatico_2007_squadre_semifinale_b#q11|src_cesenatico_2007_squadre_semifinale_b__Q11]]
-
+**Metodo:** [[method_trigonometria|Trigonometric techniques]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Geometria|Geometry]]
 
 
-<span class="atom-split" id="q12" data-atom="q12" data-title="Quesito 12" data-tags="topic_trigonometria,method_trigonometria,skill_manipolazione_algebrica"></span>
+
+<span class="atom-split" id="q12" data-atom="q12" data-title="Quesito 12" data-tags="topic_trigonometria,method_trigonometria,skill_manipolazione_algebrica,skill_riconoscimento_pattern"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -446,7 +446,7 @@ level: squadre
 
 **Topic:** [[topic_trigonometria|Trigonometria]]
 **Metodo:** [[method_trigonometria|Tecniche trigonometriche]]
-**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/17f13wAoq2-DU9ntyrMeLkqz0GceV64DF/view)
 
@@ -462,15 +462,15 @@ level: squadre
 > 105cosθ−208sinθ+103.
 > What is the greatest vital force Numeruto can develop?
 
+
 **Topic:** [[topic_trigonometria|Trigonometry]]
-**Method:** [[method_trigonometria|Trigonometric techniques]]
-**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
-
-[[Quesiti/src_cesenatico_2007_squadre_semifinale_b#q12|src_cesenatico_2007_squadre_semifinale_b__Q12]]
-
+**Metodo:** [[method_trigonometria|Trigonometric techniques]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Geometria|Geometry]]
 
 
-<span class="atom-split" id="q13" data-atom="q13" data-title="Quesito 13" data-tags="topic_aritmetica,topic_combinatoria,method_casework,skill_casework_accurato"></span>
+
+<span class="atom-split" id="q13" data-atom="q13" data-title="Quesito 13" data-tags="topic_aritmetica,topic_combinatoria,method_casework,skill_casework_accurato,skill_modellizzazione"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -485,7 +485,7 @@ level: squadre
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_casework|Analisi per casi]]
-**Abilita:** [[skill_casework_accurato|Casework accurato]]
+**Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/17f13wAoq2-DU9ntyrMeLkqz0GceV64DF/view)
 
@@ -499,15 +499,15 @@ level: squadre
 > The korona, the official currency of the mateninja, has exactly the same denominations as the euro, and it is divided into virgole just as the euro is divided into cents. Naturally, the coin denominations in virgole and in korone are exactly the same as those of euro cents and of euros.
 > What is the least amount, expressed in virgole, that cannot be paid exactly with at most 7 coins or notes, without receiving any change?
 
+
 **Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_combinatoria|Combinatorics]]
-**Method:** [[method_casework|Case analysis]]
-**Skill:** [[skill_casework_accurato|Careful case analysis]]
-
-[[Quesiti/src_cesenatico_2007_squadre_semifinale_b#q13|src_cesenatico_2007_squadre_semifinale_b__Q13]]
-
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]], [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
 
-<span class="atom-split" id="q14" data-atom="q14" data-title="Quesito 14" data-tags="topic_algebra,topic_aritmetica,method_fattorizzazione,skill_manipolazione_algebrica"></span>
+
+<span class="atom-split" id="q14" data-atom="q14" data-title="Quesito 14" data-tags="topic_algebra,topic_aritmetica,method_fattorizzazione,method_casework,skill_manipolazione_algebrica,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -522,8 +522,8 @@ level: squadre
 > radici distinte che sono ottenibili in questo modo. Quanto potrà prendere al massimo?
 
 **Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
-**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]], [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/17f13wAoq2-DU9ntyrMeLkqz0GceV64DF/view)
 
@@ -536,15 +536,15 @@ level: squadre
 > The third test
 > At last, the practical test! Numeruto can give of his best; yet to succeed completely in the difficult transformation technique, he must blend his magical force according to the most delicate balances. The usable levels of magical force are all the positive integers a for which the polynomial x2 −ax+4a has only positive integer roots. If Numeruto performs the technique well, his mark in the examination will be the sum of all the distinct roots that can be obtained in this way. What is the highest mark he can obtain?
 
+
 **Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Arithmetic / Number theory]]
-**Method:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
-**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
-
-[[Quesiti/src_cesenatico_2007_squadre_semifinale_b#q14|src_cesenatico_2007_squadre_semifinale_b__Q14]]
-
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]], [[method_casework|Case analysis]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
 
-<span class="atom-split" id="q15" data-atom="q15" data-title="Quesito 15" data-tags="topic_aritmetica,topic_combinatoria,method_conteggio,skill_casework_accurato"></span>
+
+<span class="atom-split" id="q15" data-atom="q15" data-title="Quesito 15" data-tags="topic_aritmetica,topic_combinatoria,method_conteggio,method_casework,skill_casework_accurato,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -566,8 +566,8 @@ level: squadre
 > Pag. 4 di 4 – Gara a Squadre 2007 – Semifinale B– Testi dei problemi
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
-**Metodo:** [[method_conteggio|Conteggio combinatorio]]
-**Abilita:** [[skill_casework_accurato|Casework accurato]]
+**Metodo:** [[method_conteggio|Conteggio combinatorio]], [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/17f13wAoq2-DU9ntyrMeLkqz0GceV64DF/view)
 
@@ -585,8 +585,8 @@ level: squadre
 > a,b,c ≤1000.
 > Sekante is racking his brains, and Isoshilo does not think he can manage it; but even if he did, he would mock him and not pay! How many solutions should Sekante find?
 
-**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_combinatoria|Combinatorics]]
-**Method:** [[method_conteggio|Combinatorial counting]]
-**Skill:** [[skill_casework_accurato|Careful case analysis]]
 
-[[Quesiti/src_cesenatico_2007_squadre_semifinale_b#q15|src_cesenatico_2007_squadre_semifinale_b__Q15]]
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_conteggio|Combinatorial counting]], [[method_casework|Case analysis]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]

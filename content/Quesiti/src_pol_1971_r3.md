@@ -10,7 +10,7 @@ level: Olimpiade Polacca Round 3
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_aritmetica,topic_algebra,method_telescoping,method_casework,skill_conteggio_sistematico,skill_manipolazione_algebrica,skill_stima"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_aritmetica,topic_algebra,method_telescoping,method_casework,method_conteggio,skill_conteggio_sistematico,skill_manipolazione_algebrica,skill_stima"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -21,9 +21,9 @@ level: Olimpiade Polacca Round 3
 > $$\sum_{i=1}^{\infty} \frac{1}{a_i} < 29.$$
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
-**Metodo:** [[method_telescoping|Telescoping]], [[method_casework|Casework]]
+**Metodo:** [[method_telescoping|Telescoping]], [[method_casework|Casework]], [[method_conteggio|Combinatorial counting]]
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]]
-**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Algebra e Analisi|Algebra and analysis]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1oQZOOLxfE6W3DzfNBMEBqpwicHnn6878/view)
 
 
@@ -35,16 +35,15 @@ level: Olimpiade Polacca Round 3
 > Dimostrare che, se $(a_n)$ è una successione infinita di interi positivi distinti, nessuno dei quali contiene la cifra $0$ nella propria espansione decimale, allora
 > $$\sum_{i=1}^{\infty} \frac{1}{a_i} < 29.$$
 
+
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
-**Metodo:** [[method_telescoping|Telescoping]], [[method_casework|Casework]]
+**Metodo:** [[method_telescoping|Telescoping]], [[method_casework|Casework]], [[method_conteggio|Conteggio combinatorio]]
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 
-[[Quesiti/src_pol_1971_r3#q01|src_pol_1971_r3__Q01]]
 
 
-
-<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_geometria_piana,topic_combinatoria,method_invarianti,method_casework,skill_ragionamento_geometrico,skill_modellizzazione,skill_astrazione"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_geometria_piana,topic_combinatoria,method_invarianti,method_casework,method_simmetria,skill_ragionamento_geometrico,skill_modellizzazione,skill_astrazione"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -54,9 +53,9 @@ level: Olimpiade Polacca Round 3
 > A pool table has the shape of a triangle whose angles are in a rational ratio. A ball positioned at an interior point of the table is hit by a stick. The ball reflects from the sides of the triangle according to the law of reflection. Prove that the ball will move only along a finite number of segments. (It is assumed that the ball does not reach the vertices of the triangle.)
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_combinatoria|Combinatoria]]
-**Metodo:** [[method_invarianti|Invarianti]], [[method_casework|Casework]]
+**Metodo:** [[method_invarianti|Invarianti]], [[method_casework|Casework]], [[method_simmetria|Using symmetry]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]], [[skill_astrazione|Astrazione]]
-**Area:** [[Geometria]], [[Combinatoria, Logica e Probabilita]]
+**Area:** [[Geometria|Geometry]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1oQZOOLxfE6W3DzfNBMEBqpwicHnn6878/view)
 
 
@@ -67,16 +66,15 @@ level: Olimpiade Polacca Round 3
 
 > Un tavolo da biliardo ha la forma di un triangolo i cui angoli sono in rapporto razionale. Una palla, posta in un punto interno del tavolo, viene colpita da una stecca. La palla si riflette sui lati del triangolo secondo la legge della riflessione. Dimostrare che la palla si muoverà solo lungo un numero finito di segmenti. (Si assume che la palla non raggiunga i vertici del triangolo.)
 
+
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_combinatoria|Combinatoria]]
-**Metodo:** [[method_invarianti|Invarianti]], [[method_casework|Casework]]
+**Metodo:** [[method_invarianti|Invarianti]], [[method_casework|Casework]], [[method_simmetria|Sfruttamento della simmetria]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]], [[skill_astrazione|Astrazione]]
 **Area:** [[Geometria]], [[Combinatoria, Logica e Probabilita]]
 
-[[Quesiti/src_pol_1971_r3#q02|src_pol_1971_r3__Q02]]
 
 
-
-<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_combinatoria,topic_logica,method_casework,method_conteggio,skill_ragionamento_geometrico,skill_conteggio_sistematico,skill_modellizzazione"></span>
+<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_combinatoria,topic_logica,method_casework,method_conteggio,skill_ragionamento_geometrico,skill_conteggio_sistematico,skill_modellizzazione,skill_astrazione"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -87,8 +85,8 @@ level: Olimpiade Polacca Round 3
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_logica|Logica]]
 **Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]]
-**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione]]
-**Area:** [[Combinatoria, Logica e Probabilita]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione]], [[skill_astrazione|Abstraction / generalisation]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1oQZOOLxfE6W3DzfNBMEBqpwicHnn6878/view)
 
 
@@ -99,12 +97,11 @@ level: Olimpiade Polacca Round 3
 
 > Una cassaforte è protetta da diverse serrature. Undici membri del comitato possiedono le chiavi di alcune delle serrature. Qual è il numero minimo di serrature necessario affinché ogni gruppo di sei membri del comitato possa aprire la cassaforte, ma nessun gruppo di cinque membri vi riesca? Come si devono distribuire le chiavi tra i membri del comitato se il numero di serrature è minimo?
 
+
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_logica|Logica]]
 **Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]]
-**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione]], [[skill_astrazione|Astrazione / generalizzazione]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
-
-[[Quesiti/src_pol_1971_r3#q03|src_pol_1971_r3__Q03]]
 
 
 
@@ -136,11 +133,9 @@ level: Olimpiade Polacca Round 3
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 
-[[Quesiti/src_pol_1971_r3#q04|src_pol_1971_r3__Q04]]
 
 
-
-<span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_combinatoria,topic_algebra,method_estremalita,method_casework,skill_conteggio_sistematico,skill_stima,skill_riconoscimento_pattern"></span>
+<span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_combinatoria,topic_algebra,method_estremalita,method_casework,method_doppio_conteggio,skill_conteggio_sistematico,skill_stima,skill_riconoscimento_pattern"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -150,9 +145,9 @@ level: Olimpiade Polacca Round 3
 > Find the largest integer $A$ such that for any permutation of the natural numbers not exceeding $100$, the sum of some ten successive numbers is at least $A$.
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_algebra|Algebra]]
-**Metodo:** [[method_estremalita|Estremalità]], [[method_casework|Casework]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_casework|Casework]], [[method_doppio_conteggio|Double counting]]
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_stima|Stima]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
-**Area:** [[Combinatoria, Logica e Probabilita]], [[Algebra e Analisi]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Algebra e Analisi|Algebra and analysis]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1oQZOOLxfE6W3DzfNBMEBqpwicHnn6878/view)
 
 
@@ -163,16 +158,15 @@ level: Olimpiade Polacca Round 3
 
 > Trovare il più grande intero $A$ tale che, per qualsiasi permutazione dei numeri naturali non superiori a $100$, la somma di dieci numeri consecutivi qualsiasi sia almeno $A$.
 
+
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_algebra|Algebra]]
-**Metodo:** [[method_estremalita|Estremalità]], [[method_casework|Casework]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_casework|Casework]], [[method_doppio_conteggio|Doppio conteggio]]
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_stima|Stima]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Algebra e Analisi]]
 
-[[Quesiti/src_pol_1971_r3#q05|src_pol_1971_r3__Q05]]
 
 
-
-<span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_geometria_solida,topic_geometria_piana,method_estremalita,method_casework,method_coordinate,skill_ragionamento_geometrico,skill_modellizzazione,skill_astrazione,skill_stima"></span>
+<span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_geometria_solida,topic_geometria_piana,method_estremalita,method_casework,method_coordinate,method_simmetria,skill_ragionamento_geometrico,skill_modellizzazione,skill_astrazione,skill_stima"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -186,9 +180,9 @@ level: Olimpiade Polacca Round 3
 > The distance between two points on surface $S$ is defined as the length of the shortest polygonal line going over $S$ and connecting the two points.
 
 **Topic:** [[topic_geometria_solida|Geometria solida]], [[topic_geometria_piana|Geometria piana]]
-**Metodo:** [[method_estremalita|Estremalità]], [[method_casework|Casework]], [[method_coordinate|Coordinate]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_casework|Casework]], [[method_coordinate|Coordinate]], [[method_simmetria|Using symmetry]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]], [[skill_astrazione|Astrazione]], [[skill_stima|Stima]]
-**Area:** [[Geometria]]
+**Area:** [[Geometria|Geometry]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1oQZOOLxfE6W3DzfNBMEBqpwicHnn6878/view)
 
 
@@ -203,9 +197,8 @@ level: Olimpiade Polacca Round 3
 >
 > La distanza tra due punti sulla superficie $S$ è definita come la lunghezza della linea poligonale più breve che passa per $S$ e congiunge i due punti.
 
+
 **Topic:** [[topic_geometria_solida|Geometria solida]], [[topic_geometria_piana|Geometria piana]]
-**Metodo:** [[method_estremalita|Estremalità]], [[method_casework|Casework]], [[method_coordinate|Coordinate]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_casework|Casework]], [[method_coordinate|Coordinate]], [[method_simmetria|Sfruttamento della simmetria]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]], [[skill_astrazione|Astrazione]], [[skill_stima|Stima]]
 **Area:** [[Geometria]]
-
-[[Quesiti/src_pol_1971_r3#q06|src_pol_1971_r3__Q06]]

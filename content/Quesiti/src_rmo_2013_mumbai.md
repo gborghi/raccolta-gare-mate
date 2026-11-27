@@ -10,7 +10,7 @@ level: RMO
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_geometria_piana,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_geometria_piana,method_simmetria,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -20,8 +20,9 @@ level: RMO
 > Let $ABC$ be an isosceles triangle with $AB = AC$ and let $\Gamma$ denote its circumcircle. A point $D$ is on the arc $AB$ of $\Gamma$ not containing $C$ and a point $E$ is on the arc $AC$ of $\Gamma$ not containing $B$ such that $AD = CE$. Prove that $BE$ is parallel to $AD$.
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_simmetria|Using symmetry]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
-**Area:** [[Geometria]]
+**Area:** [[Geometria|Geometry]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1QqpKhO6gD1FP1kEEypefYh_ByeYd4RtW/view)
 
 
@@ -32,15 +33,15 @@ level: RMO
 
 > Sia $ABC$ un triangolo isoscele con $AB = AC$ e sia $\Gamma$ la sua circonferenza circoscritta. Un punto $D$ giace sull'arco $AB$ di $\Gamma$ che non contiene $C$, e un punto $E$ giace sull'arco $AC$ di $\Gamma$ che non contiene $B$, in modo che $AD = CE$. Dimostrare che $BE$ è parallelo a $AD$.
 
+
 **Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_simmetria|Sfruttamento della simmetria]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 
-[[Quesiti/src_rmo_2013_mumbai#q01|src_rmo_2013_mumbai__Q01]]
 
 
-
-<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_aritmetica,method_casework,method_fattorizzazione,skill_manipolazione_algebrica,skill_casework_accurato"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_aritmetica,method_casework,method_fattorizzazione,method_congruenze,skill_manipolazione_algebrica,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -50,9 +51,9 @@ level: RMO
 > Find all triples $(p, q, r)$ of primes such that $pq = r + 1$ and $2p^2 + q^2 = r^2 + 1$.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_casework|Casework]], [[method_fattorizzazione|Fattorizzazione]]
+**Metodo:** [[method_casework|Casework]], [[method_fattorizzazione|Fattorizzazione]], [[method_congruenze|Modular arithmetic / congruences]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Casework accurato]]
-**Area:** [[Aritmetica e Teoria dei Numeri]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1QqpKhO6gD1FP1kEEypefYh_ByeYd4RtW/view)
 
 
@@ -63,16 +64,15 @@ level: RMO
 
 > Trovare tutte le triple $(p, q, r)$ di numeri primi tali che $pq = r + 1$ e $2p^2 + q^2 = r^2 + 1$.
 
+
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_casework|Casework]], [[method_fattorizzazione|Fattorizzazione]]
+**Metodo:** [[method_casework|Casework]], [[method_fattorizzazione|Fattorizzazione]], [[method_congruenze|Aritmetica modulare / congruenze]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 
-[[Quesiti/src_rmo_2013_mumbai#q02|src_rmo_2013_mumbai__Q02]]
 
 
-
-<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_combinatoria,method_conteggio,method_casework,skill_conteggio_sistematico,skill_riconoscimento_pattern"></span>
+<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_combinatoria,topic_aritmetica,method_conteggio,method_casework,method_congruenze,skill_conteggio_sistematico,skill_riconoscimento_pattern"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -81,10 +81,10 @@ level: RMO
 
 > A finite non-empty set $S$ of integers is called $3$-good if the sum of the elements of $S$ is divisible by $3$. Find the number of $3$-good non-empty subsets of $\{0, 1, 2, \ldots, 9\}$.
 
-**Topic:** [[topic_combinatoria|Combinatoria]]
-**Metodo:** [[method_conteggio|Conteggio]], [[method_casework|Casework]]
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_conteggio|Conteggio]], [[method_casework|Casework]], [[method_congruenze|Modular arithmetic / congruences]]
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
-**Area:** [[Combinatoria, Logica e Probabilita]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1QqpKhO6gD1FP1kEEypefYh_ByeYd4RtW/view)
 
 
@@ -95,12 +95,11 @@ level: RMO
 
 > Un insieme finito e non vuoto $S$ di interi è detto $3$-buono se la somma degli elementi di $S$ è divisibile per $3$. Determinare il numero di sottoinsiemi non vuoti di $\{0, 1, 2, \ldots, 9\}$ che sono $3$-buoni.
 
-**Topic:** [[topic_combinatoria|Combinatoria]]
-**Metodo:** [[method_conteggio|Conteggio]], [[method_casework|Casework]]
-**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
-**Area:** [[Combinatoria, Logica e Probabilita]]
 
-[[Quesiti/src_rmo_2013_mumbai#q03|src_rmo_2013_mumbai__Q03]]
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_conteggio|Conteggio]], [[method_casework|Casework]], [[method_congruenze|Aritmetica modulare / congruenze]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 
 
 
@@ -132,11 +131,9 @@ level: RMO
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 
-[[Quesiti/src_rmo_2013_mumbai#q04|src_rmo_2013_mumbai__Q04]]
 
 
-
-<span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_aritmetica,method_induzione,skill_manipolazione_algebrica,skill_astrazione"></span>
+<span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_aritmetica,method_induzione,method_fattorizzazione,skill_manipolazione_algebrica,skill_astrazione"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -150,9 +147,9 @@ level: RMO
 > Show that $\gcd(b_3, c_3) = a_2$.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_induzione|Induzione]]
+**Metodo:** [[method_induzione|Induzione]], [[method_fattorizzazione|Factorisation / algebraic manipulation]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]]
-**Area:** [[Aritmetica e Teoria dei Numeri]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1QqpKhO6gD1FP1kEEypefYh_ByeYd4RtW/view)
 
 
@@ -167,16 +164,15 @@ level: RMO
 > $$a_3 = \operatorname{lcm}(b_2, c_2), \quad b_3 = \operatorname{lcm}(c_2, a_2), \quad c_3 = \operatorname{lcm}(a_2, b_2).$$
 > Dimostrare che $\gcd(b_3, c_3) = a_2$.
 
+
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_induzione|Induzione]]
+**Metodo:** [[method_induzione|Induzione]], [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 
-[[Quesiti/src_rmo_2013_mumbai#q05|src_rmo_2013_mumbai__Q05]]
 
 
-
-<span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_algebra,method_fattorizzazione,method_congruenze,skill_manipolazione_algebrica,skill_riconoscimento_pattern"></span>
+<span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_algebra,topic_aritmetica,method_fattorizzazione,method_congruenze,skill_manipolazione_algebrica,skill_riconoscimento_pattern"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -185,10 +181,10 @@ level: RMO
 
 > Let $a, b$ be real numbers and let $P(x) = x^3 + ax^2 + b$ and $Q(x) = x^3 + bx + a$. Suppose that the roots of the equation $P(x) = 0$ are the reciprocals of the roots of the equation $Q(x) = 0$. Find the common divisor of $P(2013! + 1)$ and $Q(2013! + 1)$.
 
-**Topic:** [[topic_algebra|Algebra]]
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Arithmetic / Number theory]]
 **Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_congruenze|Congruenze]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
-**Area:** [[Algebra e Analisi]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1QqpKhO6gD1FP1kEEypefYh_ByeYd4RtW/view)
 
 
@@ -199,9 +195,8 @@ level: RMO
 
 > Siano $a, b$ numeri reali e siano $P(x) = x^3 + ax^2 + b$ e $Q(x) = x^3 + bx + a$. Si supponga che le radici dell'equazione $P(x) = 0$ siano i reciproci delle radici dell'equazione $Q(x) = 0$. Si determini il divisore comune di $P(2013! + 1)$ e $Q(2013! + 1)$.
 
-**Topic:** [[topic_algebra|Algebra]]
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_congruenze|Congruenze]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
-**Area:** [[Algebra e Analisi]]
-
-[[Quesiti/src_rmo_2013_mumbai#q06|src_rmo_2013_mumbai__Q06]]
+**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]

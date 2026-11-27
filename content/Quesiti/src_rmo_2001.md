@@ -19,7 +19,7 @@ level: RMO
 
 > Let $BE$ and $CF$ be the altitudes of an acute triangle $ABC$, with $E$ on $AC$ and $F$ on $AB$. Let $O$ be the point of intersection of $BE$ and $CF$. Take any line $KL$ through $O$ with $K$ on $AB$ and $L$ on $AC$. Suppose $M$ and $N$ are located on $BE$ and $CF$ respectively such that $KM$ is perpendicular to $BE$ and $LN$ is perpendicular to $CF$. Prove that $FM$ is parallel to $EN$.
 
-![[src_rmo_2001__q01.png]]
+![[src_rmo_2001__Q01.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_simmetria|Simmetria]]
@@ -35,17 +35,16 @@ level: RMO
 
 > Siano $BE$ e $CF$ le altezze di un triangolo acutangolo $ABC$, con $E$ su $AC$ e $F$ su $AB$. Sia $O$ il punto di intersezione di $BE$ e $CF$. Si prenda una retta qualsiasi $KL$ per $O$, con $K$ su $AB$ e $L$ su $AC$. Si supponga che $M$ e $N$ stiano su $BE$ e $CF$ rispettivamente in modo che $KM$ sia perpendicolare a $BE$ e $LN$ sia perpendicolare a $CF$. Dimostrare che $FM$ è parallela a $EN$.
 
-![[src_rmo_2001__q01.png]]
+![[src_rmo_2001__Q01.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_simmetria|Simmetria]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
-
-[[Quesiti/src_rmo_2001#q01|src_rmo_2001__Q01]]
-
+**Area:** [[Geometria]]
 
 
-<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_aritmetica,topic_algebra,method_fattorizzazione,method_casework,method_congruenze,skill_manipolazione_algebrica,skill_conteggio_sistematico,skill_riconoscimento_pattern"></span>
+
+<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_aritmetica,topic_algebra,method_fattorizzazione,method_casework,method_congruenze,skill_manipolazione_algebrica,skill_conteggio_sistematico,skill_riconoscimento_pattern,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -56,8 +55,8 @@ level: RMO
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
 **Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_casework|Casework]], [[method_congruenze|Congruenze]]
-**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
-**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Algebra e Analisi|Algebra and analysis]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/15Y14HVMjGftkYhnfutHqAb_lpxEScIwl/view)
 
 
@@ -68,15 +67,15 @@ level: RMO
 
 > Trovare tutti i primi $p, q$ tali che $p^2 + 7pq + q^2$ sia il quadrato di un intero.
 
+
 **Topic:** [[topic_aritmetica|Aritmetica e teoria dei numeri]], [[topic_algebra|Algebra]]
 **Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_casework|Analisi per casi]], [[method_congruenze|Congruenze]]
-**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di schemi]]
-
-[[Quesiti/src_rmo_2001#q02|src_rmo_2001__Q02]]
-
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di schemi]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 
 
-<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_aritmetica,topic_algebra,method_casework,method_congruenze,skill_manipolazione_algebrica,skill_conteggio_sistematico,skill_lettura_attenta"></span>
+
+<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_aritmetica,topic_algebra,method_casework,method_congruenze,method_conteggio,skill_manipolazione_algebrica,skill_conteggio_sistematico,skill_lettura_attenta"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -88,9 +87,9 @@ level: RMO
 > (Here $\lfloor z \rfloor$ denotes, for any real $z$, the largest integer not exceeding $z$; e.g.\ $\lfloor 7/6 \rfloor = 1$.)
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
-**Metodo:** [[method_casework|Casework]], [[method_congruenze|Congruenze]]
+**Metodo:** [[method_casework|Casework]], [[method_congruenze|Congruenze]], [[method_conteggio|Combinatorial counting]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]]
-**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Algebra e Analisi|Algebra and analysis]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/15Y14HVMjGftkYhnfutHqAb_lpxEScIwl/view)
 
 
@@ -103,15 +102,15 @@ level: RMO
 >
 > Qui $\lfloor z \rfloor$ indica, per ogni reale $z$, il massimo intero che non supera $z$; per esempio $\lfloor 7/6 \rfloor = 1$.
 
+
 **Topic:** [[topic_aritmetica|Aritmetica e teoria dei numeri]], [[topic_algebra|Algebra]]
-**Metodo:** [[method_casework|Analisi per casi]], [[method_congruenze|Congruenze]]
+**Metodo:** [[method_casework|Analisi per casi]], [[method_congruenze|Congruenze]], [[method_conteggio|Conteggio combinatorio]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]]
-
-[[Quesiti/src_rmo_2001#q03|src_rmo_2001__Q03]]
-
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 
 
-<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_combinatoria,topic_aritmetica,method_doppio_conteggio,method_invarianti,method_casework,skill_ragionamento_geometrico,skill_astrazione,skill_conteggio_sistematico"></span>
+
+<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_combinatoria,topic_aritmetica,method_doppio_conteggio,method_invarianti,method_casework,method_simmetria,skill_ragionamento_geometrico,skill_astrazione,skill_conteggio_sistematico"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -123,9 +122,9 @@ level: RMO
 > Suppose each of the $n$ numbers $1, 2, \ldots, n$ occurs in some order, and $a_{ij} = a_{ji}$ for $i = 1, 2, \ldots, n$ and $j = 1, 2, \ldots, n$. If $n$ is odd, prove that the numbers $a_{11}, a_{22}, \ldots, a_{nn}$ are $1, 2, 3, \ldots, n$ in some order.
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_doppio_conteggio|Doppio conteggio]], [[method_invarianti|Invarianti]], [[method_casework|Casework]]
+**Metodo:** [[method_doppio_conteggio|Doppio conteggio]], [[method_invarianti|Invarianti]], [[method_casework|Casework]], [[method_simmetria|Using symmetry]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_astrazione|Astrazione]], [[skill_conteggio_sistematico|Conteggio sistematico]]
-**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/15Y14HVMjGftkYhnfutHqAb_lpxEScIwl/view)
 
 
@@ -140,11 +139,11 @@ level: RMO
 >
 > Si supponga che ciascuno degli $n$ numeri $1, 2, \ldots, n$ compaia in qualche ordine, e che $a_{ij} = a_{ji}$ per $i = 1, 2, \ldots, n$ e $j = 1, 2, \ldots, n$. Se $n$ è dispari, dimostrare che i numeri $a_{11}, a_{22}, \ldots, a_{nn}$ sono $1, 2, 3, \ldots, n$ in qualche ordine.
 
-**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica e teoria dei numeri]]
-**Metodo:** [[method_doppio_conteggio|Doppio conteggio]], [[method_invarianti|Invarianti]], [[method_casework|Analisi per casi]]
-**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_astrazione|Astrazione]], [[skill_conteggio_sistematico|Conteggio sistematico]]
 
-[[Quesiti/src_rmo_2001#q04|src_rmo_2001__Q04]]
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica e teoria dei numeri]]
+**Metodo:** [[method_doppio_conteggio|Doppio conteggio]], [[method_invarianti|Invarianti]], [[method_casework|Analisi per casi]], [[method_simmetria|Sfruttamento della simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_astrazione|Astrazione]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 
 
 
@@ -157,7 +156,7 @@ level: RMO
 
 > In a triangle $ABC$, let $D$ be a point on $BC$ such that $AD$ is the internal bisector of $\angle A$. Suppose $\angle B = 2\angle C$ and $CD = AB$. Prove that $\angle A = 72^\circ$.
 
-![[src_rmo_2001__q05.png]]
+![[src_rmo_2001__Q05.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometria]]
 **Metodo:** [[method_trigonometria|Trigonometria]], [[method_casework|Casework]]
@@ -173,17 +172,16 @@ level: RMO
 
 > Nel triangolo $ABC$, sia $D$ un punto di $BC$ tale che $AD$ sia la bisettrice interna di $\angle A$. Si supponga che $\angle B = 2\angle C$ e $CD = AB$. Dimostrare che $\angle A = 72^\circ$.
 
-![[src_rmo_2001__q05.png]]
+![[src_rmo_2001__Q05.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometria]]
 **Metodo:** [[method_trigonometria|Trigonometria]], [[method_casework|Analisi per casi]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
-
-[[Quesiti/src_rmo_2001#q05|src_rmo_2001__Q05]]
-
+**Area:** [[Geometria]]
 
 
-<span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_disuguaglianze,topic_geometria_piana,method_disuguaglianze,method_simmetria,skill_manipolazione_algebrica,skill_ragionamento_geometrico,skill_stima"></span>
+
+<span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_disuguaglianze,topic_geometria_piana,topic_algebra,method_disuguaglianze,method_simmetria,method_fattorizzazione,skill_manipolazione_algebrica,skill_ragionamento_geometrico,skill_stima"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -193,10 +191,10 @@ level: RMO
 > If $x, y, z$ are the sides of a triangle, then prove that
 > $$\left| x^2(y - z) + y^2(z - x) + z^2(x - y) \right| < xyz.$$
 
-**Topic:** [[topic_disuguaglianze|Disuguaglianze]], [[topic_geometria_piana|Geometria piana]]
-**Metodo:** [[method_disuguaglianze|Disuguaglianze]], [[method_simmetria|Simmetria]]
+**Topic:** [[topic_disuguaglianze|Disuguaglianze]], [[topic_geometria_piana|Geometria piana]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze]], [[method_simmetria|Simmetria]], [[method_fattorizzazione|Factorisation / algebraic manipulation]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_stima|Stima]]
-**Area:** [[Algebra e Analisi]], [[Geometria]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Geometria|Geometry]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/15Y14HVMjGftkYhnfutHqAb_lpxEScIwl/view)
 
 
@@ -208,16 +206,15 @@ level: RMO
 > Se $x, y, z$ sono i lati di un triangolo, allora dimostrare che
 > $$\left| x^2(y - z) + y^2(z - x) + z^2(x - y) \right| < xyz.$$
 
-**Topic:** [[topic_disuguaglianze|Disuguaglianze]], [[topic_geometria_piana|Geometria piana]]
-**Metodo:** [[method_disuguaglianze|Disuguaglianze]], [[method_simmetria|Simmetria]]
+
+**Topic:** [[topic_disuguaglianze|Disuguaglianze]], [[topic_geometria_piana|Geometria piana]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze]], [[method_simmetria|Simmetria]], [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_stima|Stima]]
 **Area:** [[Algebra e Analisi]], [[Geometria]]
 
-[[Quesiti/src_rmo_2001#q06|src_rmo_2001__Q06]]
 
 
-
-<span class="atom-split" id="q07" data-atom="q07" data-title="Quesito 7" data-tags="topic_aritmetica,topic_algebra,method_congruenze,method_fattorizzazione,skill_manipolazione_algebrica,skill_riconoscimento_pattern,skill_astrazione"></span>
+<span class="atom-split" id="q07" data-atom="q07" data-title="Quesito 7" data-tags="topic_aritmetica,topic_algebra,method_congruenze,method_fattorizzazione,method_simmetria,skill_manipolazione_algebrica,skill_riconoscimento_pattern,skill_astrazione"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -227,9 +224,9 @@ level: RMO
 > Prove that the product of the first $200$ positive even integers differs from the product of the first $200$ positive odd integers by a multiple of $401$.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
-**Metodo:** [[method_congruenze|Congruenze]], [[method_fattorizzazione|Fattorizzazione]]
+**Metodo:** [[method_congruenze|Congruenze]], [[method_fattorizzazione|Fattorizzazione]], [[method_simmetria|Using symmetry]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_astrazione|Astrazione]]
-**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Algebra e Analisi|Algebra and analysis]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/15Y14HVMjGftkYhnfutHqAb_lpxEScIwl/view)
 
 
@@ -240,9 +237,8 @@ level: RMO
 
 > Dimostrare che il prodotto dei primi $200$ interi positivi pari differisce dal prodotto dei primi $200$ interi positivi dispari per un multiplo di $401$.
 
+
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
-**Metodo:** [[method_congruenze|Congruenze]], [[method_fattorizzazione|Fattorizzazione]]
+**Metodo:** [[method_congruenze|Congruenze]], [[method_fattorizzazione|Fattorizzazione]], [[method_simmetria|Sfruttamento della simmetria]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_astrazione|Astrazione]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
-
-[[Quesiti/src_rmo_2001#q07|src_rmo_2001__Q07]]

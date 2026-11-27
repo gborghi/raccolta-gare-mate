@@ -10,7 +10,7 @@ level: OBM Nível 3
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_algebra,topic_aritmetica,method_ricorsione,method_invarianti,skill_riconoscimento_pattern,skill_manipolazione_algebrica,skill_astrazione"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_algebra,topic_aritmetica,topic_funzionali,method_ricorsione,method_invarianti,skill_riconoscimento_pattern,skill_manipolazione_algebrica,skill_astrazione"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -24,10 +24,10 @@ level: OBM Nível 3
 > 
 > To earn full marks, you must justify why your sequence has both properties above.
 
-**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_funzionali|Functional equations / sequences]]
 **Metodo:** [[method_ricorsione|Ricorsione]], [[method_invarianti|Invarianti]]
 **Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]]
-**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/12U3gg6pqSD1U2dHCKnTqdF6WLf02AHMv/view)
 
 
@@ -43,16 +43,15 @@ level: OBM Nível 3
 >
 > Per ottenere il punteggio pieno, devi giustificare perché la tua successione possiede entrambe le proprietà sopra indicate.
 
-**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_funzionali|Equazioni funzionali / successioni]]
 **Metodo:** [[method_ricorsione|Ricorsione]], [[method_invarianti|Invarianti]]
 **Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]]
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 
-[[Quesiti/src_obm_2024_n3_fx#q01|src_obm_2024_n3_fx__Q01]]
 
 
-
-<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_geometria_piana,method_trigonometria,method_simmetria,skill_ragionamento_geometrico,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_geometria_piana,topic_trigonometria,method_trigonometria,method_simmetria,skill_ragionamento_geometrico,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -62,10 +61,10 @@ level: OBM Nível 3
 > Let $ABC$ be a right triangle at $B$, with altitude $BT$ on the hypotenuse $AC$. Construct the equilateral triangles $BTX$ and $BTY$ such that $X$ lies on the same side of $BT$ as $A$ with respect to $BT$, and $Y$ lies on the same side of $BT$ as $C$ with respect to $BT$. Let $P$ be the intersection of $AY$ and $CX$. Prove that
 > $$PA \cdot BC = PB \cdot CA = PC \cdot AB.$$
 
-**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometry]]
 **Metodo:** [[method_trigonometria|Trigonometria]], [[method_simmetria|Simmetria]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
-**Area:** [[Geometria]]
+**Area:** [[Geometria|Geometry]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/12U3gg6pqSD1U2dHCKnTqdF6WLf02AHMv/view)
 
 
@@ -77,16 +76,15 @@ level: OBM Nível 3
 > Sia $ABC$ un triangolo rettangolo in $B$, con altezza $BT$ relativa all'ipotenusa $AC$. Costruire i triangoli equilateri $BTX$ e $BTY$ in modo che $X$ si trovi sullo stesso lato di $BT$ rispetto a $A$, rispetto a $BT$, e che $Y$ si trovi sullo stesso lato di $BT$ rispetto a $C$, rispetto a $BT$. Sia $P$ l'intersezione di $AY$ e $CX$. Dimostrare che
 > $$PA \cdot BC = PB \cdot CA = PC \cdot AB.$$
 
-**Topic:** [[topic_geometria_piana|Geometria piana]]
+
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometria]]
 **Metodo:** [[method_trigonometria|Trigonometria]], [[method_simmetria|Simmetria]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Geometria]]
 
-[[Quesiti/src_obm_2024_n3_fx#q02|src_obm_2024_n3_fx__Q02]]
 
 
-
-<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_combinatoria,method_invarianti,method_casework,method_estremalita,skill_modellizzazione,skill_ragionamento_geometrico,skill_astrazione,skill_casework_accurato"></span>
+<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_combinatoria,topic_logica,method_invarianti,method_casework,method_estremalita,method_induzione,skill_modellizzazione,skill_ragionamento_geometrico,skill_astrazione,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -101,10 +99,10 @@ level: OBM Nível 3
 > 
 > To maintain organization in the mission, a mission cannot result in two colonies with the same population, and the total number of colonies must be at most $n$. The first agency that cannot carry out a mission will fail. Determine, as a function of $n$, which agency can guarantee that it will not fail first.
 
-**Topic:** [[topic_combinatoria|Combinatoria]]
-**Metodo:** [[method_invarianti|Invarianti]], [[method_casework|Casework]], [[method_estremalita|Estremalità]]
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_logica|Logic, games and strategies]]
+**Metodo:** [[method_invarianti|Invarianti]], [[method_casework|Casework]], [[method_estremalita|Estremalità]], [[method_induzione|Induction]]
 **Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_astrazione|Astrazione]], [[skill_casework_accurato|Casework accurato]]
-**Area:** [[Combinatoria, Logica e Probabilita]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/12U3gg6pqSD1U2dHCKnTqdF6WLf02AHMv/view)
 
 
@@ -121,16 +119,15 @@ level: OBM Nível 3
 >
 > Per mantenere l'organizzazione nella missione, una missione non può portare alla creazione di due colonie con la stessa popolazione, e il numero totale di colonie deve essere al massimo $n$. La prima agenzia che non riesce a portare a termine una missione fallirà. Determina, in funzione di $n$, quale agenzia può garantire di non fallire per prima.
 
-**Topic:** [[topic_combinatoria|Combinatoria]]
-**Metodo:** [[method_invarianti|Invarianti]], [[method_casework|Casework]], [[method_estremalita|Estremalità]]
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_logica|Logica, giochi, strategie]]
+**Metodo:** [[method_invarianti|Invarianti]], [[method_casework|Casework]], [[method_estremalita|Estremalità]], [[method_induzione|Induzione]]
 **Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_astrazione|Astrazione]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 
-[[Quesiti/src_obm_2024_n3_fx#q03|src_obm_2024_n3_fx__Q03]]
 
 
-
-<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_algebra,topic_disuguaglianze,method_simmetria,method_disuguaglianze,skill_manipolazione_algebrica,skill_astrazione,skill_lettura_attenta"></span>
+<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_algebra,topic_disuguaglianze,method_simmetria,method_disuguaglianze,method_fattorizzazione,skill_manipolazione_algebrica,skill_astrazione,skill_lettura_attenta"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -142,9 +139,9 @@ level: OBM Nível 3
 > Prove that $-1 < x, y, z < 1$.
 
 **Topic:** [[topic_algebra|Algebra]], [[topic_disuguaglianze|Disuguaglianze]]
-**Metodo:** [[method_simmetria|Simmetria]], [[method_disuguaglianze|Disuguaglianze]]
+**Metodo:** [[method_simmetria|Simmetria]], [[method_disuguaglianze|Disuguaglianze]], [[method_fattorizzazione|Factorisation / algebraic manipulation]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]], [[skill_lettura_attenta|Lettura attenta]]
-**Area:** [[Algebra e Analisi]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/12U3gg6pqSD1U2dHCKnTqdF6WLf02AHMv/view)
 
 
@@ -157,16 +154,15 @@ level: OBM Nível 3
 > $$\begin{cases} x^2 - x = yz \\ y^2 - y = zx \\ z^2 - z = xy \end{cases}$$
 > Dimostrare che $-1 < x, y, z < 1$.
 
+
 **Topic:** [[topic_algebra|Algebra]], [[topic_disuguaglianze|Disuguaglianze]]
-**Metodo:** [[method_simmetria|Simmetria]], [[method_disuguaglianze|Disuguaglianze]]
+**Metodo:** [[method_simmetria|Simmetria]], [[method_disuguaglianze|Disuguaglianze]], [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Algebra e Analisi]]
 
-[[Quesiti/src_obm_2024_n3_fx#q04|src_obm_2024_n3_fx__Q04]]
 
 
-
-<span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_combinatoria,method_invarianti,method_casework,method_estremalita,skill_modellizzazione,skill_conteggio_sistematico,skill_casework_accurato,skill_stima"></span>
+<span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_combinatoria,topic_logica,method_invarianti,method_casework,method_estremalita,skill_modellizzazione,skill_conteggio_sistematico,skill_casework_accurato,skill_stima"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -175,10 +171,10 @@ level: OBM Nível 3
 
 > Let $m$ be a positive integer with $m \leq 2024$. Ana and Banana play a game alternately on a $1 \times 2024$ board, with squares initially painted white. Ana goes first. Each move of Ana consists of choosing $k \leq m$ white squares on the board and painting all of them green. Each move of Banana consists of choosing any sequence of consecutive green squares and painting all of them white. What is the smallest value of $m$ for which Ana can guarantee that, after some of her moves, the board will be entirely painted green?
 
-**Topic:** [[topic_combinatoria|Combinatoria]]
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_logica|Logic, games and strategies]]
 **Metodo:** [[method_invarianti|Invarianti]], [[method_casework|Casework]], [[method_estremalita|Estremalità]]
 **Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]], [[skill_stima|Stima]]
-**Area:** [[Combinatoria, Logica e Probabilita]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/12U3gg6pqSD1U2dHCKnTqdF6WLf02AHMv/view)
 
 
@@ -189,16 +185,15 @@ level: OBM Nível 3
 
 > Sia $m$ un numero intero positivo con $m \leq 2024$. Ana e Banana giocano a turno su una scacchiera $1 \times 2024$, le cui caselle sono inizialmente dipinte di bianco. Ana muove per prima. Ogni mossa di Ana consiste nel scegliere $k \leq m$ caselle bianche sulla scacchiera e dipingerle tutte di verde. Ogni mossa di Banana consiste nel scegliere una qualsiasi sequenza di caselle verdi consecutive e dipingerle tutte di bianco. Qual è il valore minimo di $m$ per cui Ana può garantire che, dopo alcune delle sue mosse, la scacchiera sarà interamente dipinta di verde?
 
-**Topic:** [[topic_combinatoria|Combinatoria]]
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_logica|Logica, giochi, strategie]]
 **Metodo:** [[method_invarianti|Invarianti]], [[method_casework|Casework]], [[method_estremalita|Estremalità]]
 **Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]], [[skill_stima|Stima]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 
-[[Quesiti/src_obm_2024_n3_fx#q05|src_obm_2024_n3_fx__Q05]]
 
 
-
-<span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_aritmetica,topic_combinatoria,method_induzione,method_invarianti,method_congruenze,skill_ragionamento_geometrico,skill_manipolazione_algebrica,skill_astrazione,skill_riconoscimento_pattern"></span>
+<span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_aritmetica,topic_combinatoria,topic_funzionali,method_induzione,method_invarianti,method_congruenze,skill_ragionamento_geometrico,skill_manipolazione_algebrica,skill_astrazione,skill_riconoscimento_pattern"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -212,10 +207,10 @@ level: OBM Nível 3
 > 
 > Prove that every positive integer appears as a term of the sequence; that is, for every positive integer $m$ there exists $i$ such that $a_i = m$.
 
-**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]], [[topic_funzionali|Functional equations / sequences]]
 **Metodo:** [[method_induzione|Induzione]], [[method_invarianti|Invarianti]], [[method_congruenze|Congruenze]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
-**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Algebra e Analisi|Algebra and analysis]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/12U3gg6pqSD1U2dHCKnTqdF6WLf02AHMv/view)
 
 
@@ -231,9 +226,8 @@ level: OBM Nível 3
 >
 > Dimostrare che ogni numero intero positivo compare come termine della successione; vale a dire che, per ogni numero intero positivo $m$, esiste $i$ tale che $a_i = m$.
 
-**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]], [[topic_funzionali|Equazioni funzionali / successioni]]
 **Metodo:** [[method_induzione|Induzione]], [[method_invarianti|Invarianti]], [[method_congruenze|Congruenze]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
-**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
-
-[[Quesiti/src_obm_2024_n3_fx#q06|src_obm_2024_n3_fx__Q06]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]], [[Algebra e Analisi]]

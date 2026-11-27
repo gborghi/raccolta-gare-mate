@@ -12,9 +12,6 @@ level: Coupe Animath Printemps
 
 <span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_algebra,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
 
-<div class="qlang-switch" data-default="en"></div>
-
-
 *Three numbers sum to 96 with ratio and difference conditions*
 
 > The sum of three numbers is 96. The first of them is 6 times the third, and the third is 40 less than the second. What is the value of the first number?
@@ -28,8 +25,19 @@ level: Coupe Animath Printemps
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1vFqPIRcmFx7zLfWvyR3a5CM26wansu_T/view)
 
 
-<div class="qlang-split" data-lang="it"></div>
 
+<span class="atom-split" id="q01__it" data-atom="q01__it" data-title="Q01__IT" data-tags=""></span>
+
+---
+tipo: quesito-translation
+translation_of: src_canimath_2024_printemps__Q01
+lang: it
+secondary: true
+title: "Coupe Animath Primavera 2024  Quesito 1"
+summary: "Tre numeri sommano a 96 con condizioni di rapporto e differenza"
+topics: [topic_algebra]
+skills: [skill_manipolazione_algebrica, skill_lettura_attenta]
+tags: [kg/translation, topic/algebra]---
 
 *Tre numeri sommano 96 con condizioni di rapporto e di differenza*
 
@@ -37,15 +45,15 @@ level: Coupe Animath Printemps
 > 
 > *Solo una risposta numerica è prevista.*
 
+**Topic:** [[topic_algebra|Algebra]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta del testo]]
+**Area:** [[Algebra e Analisi]]
 **Risposta:** 42
 [[Quesiti/src_canimath_2024_printemps#q01|src_canimath_2024_printemps__Q01]]
 
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_geometria_piana,method_simmetria,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
-
-<div class="qlang-switch" data-default="en"></div>
-
 
 *Parallelogram with equal segments, angle bisector perpendicular to KL*
 
@@ -58,18 +66,34 @@ level: Coupe Animath Printemps
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1vFqPIRcmFx7zLfWvyR3a5CM26wansu_T/view)
 
 
-<div class="qlang-split" data-lang="it"></div>
 
+<span class="atom-split" id="q02__it" data-atom="q02__it" data-title="Q02__IT" data-tags=""></span>
+
+---
+tipo: quesito-translation
+translation_of: src_canimath_2024_printemps__Q02
+lang: it
+secondary: true
+title: "Coupe Animath Primavera 2024  Quesito 2"
+summary: "Paralleogramma con segmenti uguali, angolo bisettore perpendicolare a KL"
+topics: [topic_geometria_piana]
+methods: [method_simmetria]
+skills: [skill_ragionamento_geometrico, skill_manipolazione_algebrica]
+tags: [kg/translation, topic/geometria_piana]---
 
 *Parallelogramma con segmenti uguali, bisettore angolare perpendicolare a KL*
 
 > $ABCD$ sia un parallelo. Il $K$ deve essere un punto del segmento $[BC]$ e $L$ un punto del segmento $[CD]$ tale che $CK = CL$. Indicare che il bisettore di $\widehat{DAB}$ e la linea $(KL)$ sono perpendicolari.
 
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_simmetria|Sfruttamento della simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
 [[Quesiti/src_canimath_2024_printemps#q02|src_canimath_2024_printemps__Q02]]
 
 
 
-<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_aritmetica,method_fattorizzazione,method_casework,skill_lettura_attenta,skill_conteggio_sistematico"></span>
+<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_aritmetica,method_fattorizzazione,method_casework,method_congruenze,method_cassetti,skill_lettura_attenta,skill_conteggio_sistematico,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -79,9 +103,9 @@ level: Coupe Animath Printemps
 > Determine the smallest positive integer $n$ such that the product of $n$ consecutive positive integers is always divisible by 45.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_casework|Casework]]
-**Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_conteggio_sistematico|Conteggio sistematico]]
-**Area:** [[Aritmetica e Teoria dei Numeri]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_casework|Casework]], [[method_congruenze|Modular arithmetic / congruences]], [[method_cassetti|Pigeonhole principle]]
+**Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Risposta:** 6
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1vFqPIRcmFx7zLfWvyR3a5CM26wansu_T/view)
 
@@ -93,12 +117,15 @@ level: Coupe Animath Printemps
 
 > Determinare il più piccolo intero positivo $n$ in modo tale che il prodotto di $n$ interi positivi consecutivi sia sempre divisibile per 45.
 
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]], [[method_casework|Analisi per casi]], [[method_congruenze|Aritmetica modulare / congruenze]], [[method_cassetti|Principio dei cassetti]]
+**Abilita:** [[skill_lettura_attenta|Lettura attenta del testo]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 6
-[[Quesiti/src_canimath_2024_printemps#q03|src_canimath_2024_printemps__Q03]]
 
 
 
-<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_combinatoria,topic_algebra,method_casework,method_estremalita,skill_modellizzazione,skill_casework_accurato,skill_lettura_attenta"></span>
+<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_combinatoria,topic_algebra,topic_disuguaglianze,method_casework,method_estremalita,skill_modellizzazione,skill_casework_accurato,skill_lettura_attenta"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -111,10 +138,10 @@ level: Coupe Animath Printemps
 > 
 > 2) if $n = 5$?
 
-**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_algebra|Algebra]]
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_algebra|Algebra]], [[topic_disuguaglianze|Inequalities]]
 **Metodo:** [[method_casework|Casework]], [[method_estremalita|Estremalità]]
 **Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_casework_accurato|Casework accurato]], [[skill_lettura_attenta|Lettura attenta]]
-**Area:** [[Combinatoria, Logica e Probabilita]], [[Algebra e Analisi]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Algebra e Analisi|Algebra and analysis]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1vFqPIRcmFx7zLfWvyR3a5CM26wansu_T/view)
 
 
@@ -129,11 +156,14 @@ level: Coupe Animath Printemps
 > 
 > 2) if $n = 5$?
 
-[[Quesiti/src_canimath_2024_printemps#q04|src_canimath_2024_printemps__Q04]]
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_algebra|Algebra]], [[topic_disuguaglianze|Disuguaglianze]]
+**Metodo:** [[method_casework|Analisi per casi]], [[method_estremalita|Principio di estremalita]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_casework_accurato|Casework accurato]], [[skill_lettura_attenta|Lettura attenta del testo]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Algebra e Analisi]]
 
 
 
-<span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_combinatoria,method_grafi,method_casework,skill_ragionamento_geometrico,skill_modellizzazione,skill_lettura_attenta"></span>
+<span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_combinatoria,method_grafi,method_casework,skill_ragionamento_geometrico,skill_modellizzazione,skill_lettura_attenta,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -146,8 +176,8 @@ level: Coupe Animath Printemps
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_grafi|Grafi]], [[method_casework|Casework]]
-**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]], [[skill_lettura_attenta|Lettura attenta]]
-**Area:** [[Combinatoria, Logica e Probabilita]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]], [[skill_lettura_attenta|Lettura attenta]], [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1vFqPIRcmFx7zLfWvyR3a5CM26wansu_T/view)
 
 
@@ -160,11 +190,14 @@ level: Coupe Animath Printemps
 > 
 > Mostrare che tra due città è sempre possibile viaggiare da una ad un'altra utilizzando solo strade di cemento e passando per un massimo di due città intermedi.
 
-[[Quesiti/src_canimath_2024_printemps#q05|src_canimath_2024_printemps__Q05]]
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_grafi|Teoria dei grafi]], [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_lettura_attenta|Lettura attenta del testo]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
 
 
 
-<span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_algebra,method_simmetria,method_casework,skill_manipolazione_algebrica,skill_riconoscimento_pattern"></span>
+<span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_algebra,method_simmetria,method_casework,method_fattorizzazione,skill_manipolazione_algebrica,skill_riconoscimento_pattern,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -178,9 +211,9 @@ level: Coupe Animath Printemps
 > can take.
 
 **Topic:** [[topic_algebra|Algebra]]
-**Metodo:** [[method_simmetria|Simmetria]], [[method_casework|Casework]]
-**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
-**Area:** [[Algebra e Analisi]]
+**Metodo:** [[method_simmetria|Simmetria]], [[method_casework|Casework]], [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1vFqPIRcmFx7zLfWvyR3a5CM26wansu_T/view)
 
 
@@ -191,14 +224,14 @@ level: Coupe Animath Printemps
 
 > Lasciate che $x, y, z$ siano tre numeri reali non zero (non necessariamente positivi) in modo tale che $$\frac{x+y}{z} = \frac{y+z}{x} = \frac{z+x}{y}.$$ Trova tutti i valori che il numero $$\frac{(x+y)(y+z)(z+x)}{xyz}$$ può prendere.
 
-[[Quesiti/src_canimath_2024_printemps#q06|src_canimath_2024_printemps__Q06]]
+**Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_simmetria|Sfruttamento della simmetria]], [[method_casework|Analisi per casi]], [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Algebra e Analisi]]
 
 
 
 <span class="atom-split" id="q07" data-atom="q07" data-title="Quesito 7" data-tags="topic_geometria_piana,method_simmetria,method_coordinate,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
-
-<div class="qlang-switch" data-default="en"></div>
-
 
 *Isosceles triangle geometry: show BH bisects angle GBA*
 
@@ -213,8 +246,20 @@ level: Coupe Animath Printemps
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1vFqPIRcmFx7zLfWvyR3a5CM26wansu_T/view)
 
 
-<div class="qlang-split" data-lang="it"></div>
 
+<span class="atom-split" id="q07__it" data-atom="q07__it" data-title="Q07__IT" data-tags=""></span>
+
+---
+tipo: quesito-translation
+translation_of: src_canimath_2024_printemps__Q07
+lang: it
+secondary: true
+title: "Coupe Animath Primavera 2024  Quesito 7"
+summary: "Geometria triangolare di isoceles: mostra angolo BH bisects GBA"
+topics: [topic_geometria_piana]
+methods: [method_simmetria, method_coordinate]
+skills: [skill_ragionamento_geometrico, skill_manipolazione_algebrica]
+tags: [kg/translation, topic/geometria_piana]---
 
 *Geometria triangolare di isosceles: mostra l'angolo GBA*
 
@@ -222,11 +267,15 @@ level: Coupe Animath Printemps
 > 
 > Indicare che la linea $(BH)$ è il bisettore dell'angolo $\widehat{GBA}$.
 
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_simmetria|Sfruttamento della simmetria]], [[method_coordinate|Metodo delle coordinate]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
 [[Quesiti/src_canimath_2024_printemps#q07|src_canimath_2024_printemps__Q07]]
 
 
 
-<span class="atom-split" id="q08" data-atom="q08" data-title="Quesito 8" data-tags="topic_algebra,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
+<span class="atom-split" id="q08" data-atom="q08" data-title="Quesito 8" data-tags="topic_algebra,topic_aritmetica,method_fattorizzazione,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -238,9 +287,10 @@ level: Coupe Animath Printemps
 > 
 > *Only a numerical answer is expected.*
 
-**Topic:** [[topic_algebra|Algebra]]
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
-**Area:** [[Algebra e Analisi]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Risposta:** 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1vFqPIRcmFx7zLfWvyR3a5CM26wansu_T/view)
 
@@ -254,12 +304,15 @@ level: Coupe Animath Printemps
 > 
 > *Solo una risposta numerica è prevista.*
 
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta del testo]]
+**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 1
-[[Quesiti/src_canimath_2024_printemps#q08|src_canimath_2024_printemps__Q08]]
 
 
 
-<span class="atom-split" id="q09" data-atom="q09" data-title="Quesito 9" data-tags="topic_algebra,skill_manipolazione_algebrica"></span>
+<span class="atom-split" id="q09" data-atom="q09" data-title="Quesito 9" data-tags="topic_algebra,method_fattorizzazione,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -269,8 +322,9 @@ level: Coupe Animath Printemps
 > Let $a$, $b$ and $c$ be three reals satisfying both equations $4a + 3b = c$ and $3a - 4b = 7c$. Show that $a^2 + b^2 = 2c^2$.
 
 **Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
-**Area:** [[Algebra e Analisi]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1vFqPIRcmFx7zLfWvyR3a5CM26wansu_T/view)
 
 
@@ -281,14 +335,14 @@ level: Coupe Animath Printemps
 
 > Che $a$, $b$ e $c$ siano tre reali che soddisfano entrambe le equazioni $4a + 3b = c$ e $3a - 4b = 7c$. Mostra che $a^2 + b^2 = 2c^2$.
 
-[[Quesiti/src_canimath_2024_printemps#q09|src_canimath_2024_printemps__Q09]]
+**Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Algebra e Analisi]]
 
 
 
 <span class="atom-split" id="q10" data-atom="q10" data-title="Quesito 10" data-tags="topic_geometria_piana,method_simmetria,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
-
-<div class="qlang-switch" data-default="en"></div>
-
 
 *Triangle with incenter: show angle BID is at least 90 degrees*
 
@@ -301,18 +355,34 @@ level: Coupe Animath Printemps
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1vFqPIRcmFx7zLfWvyR3a5CM26wansu_T/view)
 
 
-<div class="qlang-split" data-lang="it"></div>
 
+<span class="atom-split" id="q10__it" data-atom="q10__it" data-title="Q10__IT" data-tags=""></span>
+
+---
+tipo: quesito-translation
+translation_of: src_canimath_2024_printemps__Q10
+lang: it
+secondary: true
+title: "Coupe Animath Primavera 2024  Quesito 10"
+summary: "Triangolo con incentro: angolo di mostra BID è di almeno 90 gradi"
+topics: [topic_geometria_piana]
+methods: [method_simmetria]
+skills: [skill_ragionamento_geometrico, skill_manipolazione_algebrica]
+tags: [kg/translation, topic/geometria_piana]---
 
 *Triangolo con incentro: angolo di mostra BID è di almeno 90 gradi*
 
 > Lasciate che $ABC$ sia un triangolo non piatto. $I$ sia il centro del suo cerchio inscritto e $D$ il punto di intersezione del bisettore di angolo $\widehat{BAC}$ con il segmento $[BC]$. Mostra che $\widehat{BID} \ge 90^\circ$.
 
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_simmetria|Sfruttamento della simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
 [[Quesiti/src_canimath_2024_printemps#q10|src_canimath_2024_printemps__Q10]]
 
 
 
-<span class="atom-split" id="q11" data-atom="q11" data-title="Quesito 11" data-tags="topic_combinatoria,topic_algebra,method_casework,method_estremalita,skill_modellizzazione,skill_casework_accurato,skill_lettura_attenta"></span>
+<span class="atom-split" id="q11" data-atom="q11" data-title="Quesito 11" data-tags="topic_combinatoria,topic_algebra,topic_disuguaglianze,method_casework,method_estremalita,skill_modellizzazione,skill_casework_accurato,skill_lettura_attenta"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -325,10 +395,10 @@ level: Coupe Animath Printemps
 > 
 > 2) if $n = 5$?
 
-**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_algebra|Algebra]]
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_algebra|Algebra]], [[topic_disuguaglianze|Inequalities]]
 **Metodo:** [[method_casework|Casework]], [[method_estremalita|Estremalità]]
 **Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_casework_accurato|Casework accurato]], [[skill_lettura_attenta|Lettura attenta]]
-**Area:** [[Combinatoria, Logica e Probabilita]], [[Algebra e Analisi]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Algebra e Analisi|Algebra and analysis]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1vFqPIRcmFx7zLfWvyR3a5CM26wansu_T/view)
 
 
@@ -343,11 +413,14 @@ level: Coupe Animath Printemps
 > 
 > 2) if $n = 5$?
 
-[[Quesiti/src_canimath_2024_printemps#q11|src_canimath_2024_printemps__Q11]]
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_algebra|Algebra]], [[topic_disuguaglianze|Disuguaglianze]]
+**Metodo:** [[method_casework|Analisi per casi]], [[method_estremalita|Principio di estremalita]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_casework_accurato|Casework accurato]], [[skill_lettura_attenta|Lettura attenta del testo]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Algebra e Analisi]]
 
 
 
-<span class="atom-split" id="q12" data-atom="q12" data-title="Quesito 12" data-tags="topic_combinatoria,topic_aritmetica,method_casework,method_congruenze,method_conteggio,skill_riconoscimento_pattern,skill_conteggio_sistematico,skill_modellizzazione"></span>
+<span class="atom-split" id="q12" data-atom="q12" data-title="Quesito 12" data-tags="topic_combinatoria,topic_aritmetica,method_casework,method_congruenze,method_conteggio,method_fattorizzazione,skill_riconoscimento_pattern,skill_conteggio_sistematico,skill_modellizzazione,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -357,9 +430,9 @@ level: Coupe Animath Printemps
 > Determine all prime numbers $p$ satisfying the following property: if one writes the integers from $1$ to $p$ on a board, one can separate them into several groups where the sum of the integers in each group is the same, and within each group the integers form a set of consecutive integers.
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_casework|Casework]], [[method_congruenze|Congruenze]], [[method_conteggio|Conteggio]]
-**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione]]
-**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
+**Metodo:** [[method_casework|Casework]], [[method_congruenze|Congruenze]], [[method_conteggio|Conteggio]], [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1vFqPIRcmFx7zLfWvyR3a5CM26wansu_T/view)
 
 
@@ -370,11 +443,14 @@ level: Coupe Animath Printemps
 
 > Determinare tutti i numeri primi $p$ che soddisfano la seguente proprietà: se si scrivono i numeri interi da $1$ a $p$ su una tavola, si possono separare in diversi gruppi in cui la somma dei numeri interi in ogni gruppo è la stessa, e all'interno di ciascun gruppo i numeri interi formano un insieme di numeri interi consecutivi.
 
-[[Quesiti/src_canimath_2024_printemps#q12|src_canimath_2024_printemps__Q12]]
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Analisi per casi]], [[method_congruenze|Aritmetica modulare / congruenze]], [[method_conteggio|Conteggio combinatorio]], [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 
 
 
-<span class="atom-split" id="q13" data-atom="q13" data-title="Quesito 13" data-tags="topic_combinatoria,method_invarianti,method_conteggio,method_casework,skill_conteggio_sistematico,skill_modellizzazione,skill_ragionamento_geometrico"></span>
+<span class="atom-split" id="q13" data-atom="q13" data-title="Quesito 13" data-tags="topic_combinatoria,method_invarianti,method_conteggio,method_casework,method_colorazione,skill_conteggio_sistematico,skill_modellizzazione,skill_ragionamento_geometrico,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -386,9 +462,9 @@ level: Coupe Animath Printemps
 > A *checkerboard coloring* is a coloring in which any two cells sharing a side always have different colors.
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
-**Metodo:** [[method_invarianti|Invarianti]], [[method_conteggio|Conteggio]], [[method_casework|Casework]]
-**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
-**Area:** [[Combinatoria, Logica e Probabilita]]
+**Metodo:** [[method_invarianti|Invarianti]], [[method_conteggio|Conteggio]], [[method_casework|Casework]], [[method_colorazione|Colouring / parity]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1vFqPIRcmFx7zLfWvyR3a5CM26wansu_T/view)
 
 
@@ -401,14 +477,14 @@ level: Coupe Animath Printemps
 > 
 > Un *colore di scacchiatura* è un colore in cui due celle che condividono un lato hanno sempre colori diversi.
 
-[[Quesiti/src_canimath_2024_printemps#q13|src_canimath_2024_printemps__Q13]]
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_invarianti|Invarianti / monovarianti]], [[method_conteggio|Conteggio combinatorio]], [[method_casework|Analisi per casi]], [[method_colorazione|Colorazione / parita]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
 
 
 
 <span class="atom-split" id="q14" data-atom="q14" data-title="Quesito 14" data-tags="topic_geometria_piana,method_simmetria,method_coordinate,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
-
-<div class="qlang-switch" data-default="en"></div>
-
 
 *Isosceles triangle geometry: BH bisects angle GEA; EF parallel to BH*
 
@@ -425,8 +501,20 @@ level: Coupe Animath Printemps
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1vFqPIRcmFx7zLfWvyR3a5CM26wansu_T/view)
 
 
-<div class="qlang-split" data-lang="it"></div>
 
+<span class="atom-split" id="q14__it" data-atom="q14__it" data-title="Q14__IT" data-tags=""></span>
+
+---
+tipo: quesito-translation
+translation_of: src_canimath_2024_printemps__Q14
+lang: it
+secondary: true
+title: "Coupe Animath Primavera 2024  Quesito 14"
+summary: "Geometria triangolare di isosceles: BH bisecta angolo GEA; EF parallelo a BH"
+topics: [topic_geometria_piana]
+methods: [method_simmetria, method_coordinate]
+skills: [skill_ragionamento_geometrico, skill_manipolazione_algebrica]
+tags: [kg/translation, topic/geometria_piana]---
 
 *Geometria triangolare isosceles: BH bisecta angolo GEA; EF parallelo a BH*
 
@@ -436,14 +524,15 @@ level: Coupe Animath Printemps
 > 
 > 2) Che $F$ sia il piede dell'altitudine dal vertice $A$ nel triangolo $ABC$. Indicare che le linee $(EF)$ e $(BH)$ sono parallele.
 
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_simmetria|Sfruttamento della simmetria]], [[method_coordinate|Metodo delle coordinate]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
 [[Quesiti/src_canimath_2024_printemps#q14|src_canimath_2024_printemps__Q14]]
 
 
 
 <span class="atom-split" id="q15" data-atom="q15" data-title="Quesito 15" data-tags="topic_combinatoria,method_bigezione,method_estremalita,method_induzione,skill_modellizzazione,skill_astrazione,skill_conteggio_sistematico"></span>
-
-<div class="qlang-switch" data-default="en"></div>
-
 
 *Find largest c so that sum of 1/z_i < c guarantees Theo can give every student a liked gift*
 
@@ -458,8 +547,20 @@ level: Coupe Animath Printemps
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1vFqPIRcmFx7zLfWvyR3a5CM26wansu_T/view)
 
 
-<div class="qlang-split" data-lang="it"></div>
 
+<span class="atom-split" id="q15__it" data-atom="q15__it" data-title="Q15__IT" data-tags=""></span>
+
+---
+tipo: quesito-translation
+translation_of: src_canimath_2024_printemps__Q15
+lang: it
+secondary: true
+title: "Coupe Animath Primavera 2024  Quesito 15"
+summary: "Trova la più grande c in modo che la somma di 1/z_i < c garantisce che Theo può dare a ogni studente un regalo piacevole"
+topics: [topic_combinatoria]
+methods: [method_bigezione, method_estremalita, method_induzione]
+skills: [skill_modellizzazione, skill_astrazione, skill_conteggio_sistematico]
+tags: [kg/translation, topic/combinatoria]---
 
 *Trova il più grande c in modo che la somma di 1/z_i < c garantisca che Theo possa dare a ogni studente un regalo*
 
@@ -467,4 +568,8 @@ level: Coupe Animath Printemps
 > 
 > Determinare, come funzione di $n$, il più grande reale $c > 0$ che soddisfi la seguente proprietà: per qualsiasi numero intero positivo $x_1, x_2, \ldots, x_n$ tale che $\dfrac{1}{x_1} + \dfrac{1}{x_2} + \cdots + \dfrac{1}{x_n} < c$, Théo può sempre organizzare le cose in modo che ogni studente riceva un regalo che gli piace (con ogni regalo che va a un studente al massimo).
 
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_bigezione|Bigezione / corrispondenza]], [[method_estremalita|Principio di estremalita]], [[method_induzione|Induzione]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_astrazione|Astrazione / generalizzazione]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
 [[Quesiti/src_canimath_2024_printemps#q15|src_canimath_2024_printemps__Q15]]

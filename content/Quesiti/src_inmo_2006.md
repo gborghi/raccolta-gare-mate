@@ -23,7 +23,7 @@ level: INMO
 > 
 > (ii) Suppose $BI$ extended meets $AC$ in $K$, and $D$, $E$ are the midpoints of $BC$, $BA$ respectively. Prove that $I$ is the circumcentre of triangle $DKE$.
 
-![[src_inmo_2006__q01.png]]
+![[src_inmo_2006__Q01.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_trigonometria|Trigonometria]], [[method_coordinate|Coordinate]]
@@ -43,14 +43,12 @@ level: INMO
 >
 > (ii) Si supponga che la retta $BI$ prolungata incontri la retta $AC$ in $K$, e che $D$, $E$ siano i punti medi di $BC$, $BA$ rispettivamente. Dimostrare che $I$ è il circocentro del triangolo $DKE$.
 
-![[src_inmo_2006__q01.png]]
+![[src_inmo_2006__Q01.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_trigonometria|Trigonometria]], [[method_coordinate|Coordinate]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
-
-[[Quesiti/src_inmo_2006#q01|src_inmo_2006__Q01]]
 
 
 
@@ -83,8 +81,6 @@ level: INMO
 **Metodo:** [[method_bigezione|Biiezione]], [[method_induzione|Induzione]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
-
-[[Quesiti/src_inmo_2006#q02|src_inmo_2006__Q02]]
 
 
 
@@ -120,8 +116,6 @@ level: INMO
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Casework accurato]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Algebra e Analisi]]
 
-[[Quesiti/src_inmo_2006#q03|src_inmo_2006__Q03]]
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_combinatoria,method_cassetti,method_doppio_conteggio,method_casework,skill_conteggio_sistematico,skill_ragionamento_geometrico,skill_stima"></span>
@@ -133,7 +127,7 @@ level: INMO
 
 > Some 46 squares of a $9 \times 9$ board are coloured red. Show that there exists a $2 \times 2$ block of 4 squares of which at least 3 are coloured red.
 
-![[src_inmo_2006__q04.png]]
+![[src_inmo_2006__Q04.png]]
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_cassetti|Principio dei cassetti]], [[method_doppio_conteggio|Doppio conteggio]], [[method_casework|Casework]]
@@ -149,18 +143,16 @@ level: INMO
 
 > Circa 46 caselle di una scacchiera $9 \times 9$ sono colorate di rosso. Dimostrare che esiste un blocco $2 \times 2$ di 4 caselle di cui almeno 3 sono colorate di rosso.
 
-![[src_inmo_2006__q04.png]]
+![[src_inmo_2006__Q04.png]]
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_cassetti|Principio dei cassetti]], [[method_doppio_conteggio|Doppio conteggio]], [[method_casework|Casework]]
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_stima|Stima]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 
-[[Quesiti/src_inmo_2006#q04|src_inmo_2006__Q04]]
 
 
-
-<span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_geometria_piana,topic_trigonometria,method_trigonometria,method_disuguaglianze,skill_ragionamento_geometrico,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
+<span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_geometria_piana,topic_trigonometria,topic_disuguaglianze,method_trigonometria,method_disuguaglianze,skill_ragionamento_geometrico,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -173,12 +165,12 @@ level: INMO
 > 
 > (ii) $|\sqrt{c + a} - \sqrt{c + b}| = \sqrt{c - a - b}$.
 
-![[src_inmo_2006__q05.png]]
+![[src_inmo_2006__Q05.png]]
 
-**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometria]]
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometria]], [[topic_disuguaglianze|Inequalities]]
 **Metodo:** [[method_trigonometria|Trigonometria]], [[method_disuguaglianze|Disuguaglianze]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
-**Area:** [[Geometria]]
+**Area:** [[Geometria|Geometry]], [[Algebra e Analisi|Algebra and analysis]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1fL6CHwtNRPMnX4gkiManxyf5xqdd58fL/view)
 
 
@@ -193,14 +185,13 @@ level: INMO
 >
 > (ii) $|\sqrt{c + a} - \sqrt{c + b}| = \sqrt{c - a - b}$.
 
-![[src_inmo_2006__q05.png]]
+![[src_inmo_2006__Q05.png]]
 
-**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometria]]
+
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometria]], [[topic_disuguaglianze|Disuguaglianze]]
 **Metodo:** [[method_trigonometria|Trigonometria]], [[method_disuguaglianze|Disuguaglianze]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
-**Area:** [[Geometria]]
-
-[[Quesiti/src_inmo_2006#q05|src_inmo_2006__Q05]]
+**Area:** [[Geometria]], [[Algebra e Analisi]]
 
 
 
@@ -239,5 +230,3 @@ level: INMO
 **Metodo:** [[method_disuguaglianze|Disuguaglianze]], [[method_estremalita|Estremalità]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
-
-[[Quesiti/src_inmo_2006#q06|src_inmo_2006__Q06]]

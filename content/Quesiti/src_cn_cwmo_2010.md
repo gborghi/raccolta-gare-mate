@@ -46,8 +46,6 @@ level: China Western Mathematical Olympiad
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 
-[[Quesiti/src_cn_cwmo_2010#q01|src_cn_cwmo_2010__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_geometria_piana,method_trigonometria,skill_ragionamento_geometrico,skill_lettura_attenta"></span>
@@ -59,7 +57,7 @@ level: China Western Mathematical Olympiad
 
 > As shown in Fig. 2.1, $AB$ is a diameter of a circle with center $O$. Let $C$ and $D$ be two different points on the circle on the same side of $AB$, and the lines tangent to the circle at points $C$ and $D$ meet at $F$. Lines $EF$ and $AB$ meet at $M$. Prove that $E$, $C$, $M$ and $D$ are concyclic.
 
-![[src_cn_cwmo_b11_w236__q02.png]]
+![[src_cn_cwmo_b11_w236__Q02.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_trigonometria|Trigonometria]]
@@ -75,18 +73,16 @@ level: China Western Mathematical Olympiad
 
 > Come mostrato nella Fig. 2.1, $AB$ è un diametro di una circonferenza avente centro $O$. Siano $C$ e $D$ due punti distinti della circonferenza, posti sullo stesso lato rispetto a $AB$; le rette tangenti alla circonferenza nei punti $C$ e $D$ si intersecano in $F$. Le rette $EF$ e $AB$ si intersecano in $M$. Dimostrare che $E$, $C$, $M$ e $D$ sono conciclici.
 
-![[src_cn_cwmo_b11_w236__q02.png]]
+![[src_cn_cwmo_b11_w236__Q02.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_trigonometria|Trigonometria]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Geometria]]
 
-[[Quesiti/src_cn_cwmo_2010#q02|src_cn_cwmo_2010__Q02]]
 
 
-
-<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_combinatoria,method_casework,method_conteggio,method_doppio_conteggio,skill_conteggio_sistematico,skill_lettura_attenta,skill_ragionamento_geometrico"></span>
+<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_combinatoria,topic_insiemi_funzioni,method_casework,method_conteggio,method_doppio_conteggio,skill_conteggio_sistematico,skill_lettura_attenta,skill_ragionamento_geometrico,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -95,10 +91,10 @@ level: China Western Mathematical Olympiad
 
 > Determine all possible values of positive integer $n$ such that there are $n$ different $k$-element subsets $A_1, A_2, \ldots, A_n$ of the set $\{1, 2, \ldots, n\}$ with $|A_i \cap A_j| = 1$ for all $1 \le i < j \le n$ and $2 \le k \le 3$.
 
-**Topic:** [[topic_combinatoria|Combinatoria]]
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_insiemi_funzioni|Sets and functions]]
 **Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]], [[method_doppio_conteggio|Doppio conteggio]]
-**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
-**Area:** [[Combinatoria, Logica e Probabilita]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Algebra e Analisi|Algebra and analysis]]
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1cjmD7lTT4vb3nB3ylcVCHeHucUE2rNI0/view)
 
 
@@ -109,12 +105,11 @@ level: China Western Mathematical Olympiad
 
 > Determinare tutti i possibili valori dell'intero positivo $n$ tali che esistano $n$ sottoinsiemi distinti di $k$ elementi $A_1, A_2, \ldots, A_n$ dell'insieme $\{1, 2, \ldots, n\}$ con $|A_i \cap A_j| = 1$ per tutti gli $1 \le i < j \le n$ e gli $2 \le k \le 3$.
 
-**Topic:** [[topic_combinatoria|Combinatoria]]
-**Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]], [[method_doppio_conteggio|Doppio conteggio]]
-**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
-**Area:** [[Combinatoria, Logica e Probabilita]]
 
-[[Quesiti/src_cn_cwmo_2010#q03|src_cn_cwmo_2010__Q03]]
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_insiemi_funzioni|Insiemi e funzioni]]
+**Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]], [[method_doppio_conteggio|Doppio conteggio]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Algebra e Analisi]]
 
 
 
@@ -162,11 +157,9 @@ level: China Western Mathematical Olympiad
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Algebra e Analisi]]
 
-[[Quesiti/src_cn_cwmo_2010#q04|src_cn_cwmo_2010__Q04]]
 
 
-
-<span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_algebra,topic_aritmetica,method_ricorsione,method_induzione,method_casework,skill_manipolazione_algebrica,skill_riconoscimento_pattern,skill_lettura_attenta"></span>
+<span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_algebra,topic_aritmetica,topic_funzionali,method_ricorsione,method_induzione,method_casework,skill_manipolazione_algebrica,skill_riconoscimento_pattern,skill_lettura_attenta,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -175,10 +168,10 @@ level: China Western Mathematical Olympiad
 
 > Let $k$ be an integer and $k > 1$. Define a sequence $\{a_n\}$ as follows: $a_1 = 0$, $a_2 = 1$ and $a_{n+1} = ka_n + a_{n-1}$ for $n = 1, 2, \ldots$ Determine, with proof, all possible $k$ such that there exist non-negative integers $\ell, m$ ($\ell \ne m$) and positive integers $p, q$ such that $a_\ell + ka_p = a_m + ka_q$.
 
-**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_funzionali|Functional equations / sequences]]
 **Metodo:** [[method_ricorsione|Ricorsione]], [[method_induzione|Induzione]], [[method_casework|Casework]]
-**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_lettura_attenta|Lettura attenta]]
-**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_lettura_attenta|Lettura attenta]], [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Risposta:** k=2
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1cjmD7lTT4vb3nB3ylcVCHeHucUE2rNI0/view)
 
@@ -190,12 +183,11 @@ level: China Western Mathematical Olympiad
 
 > Sia $k$ un numero intero e $k > 1$. Si definisca una successione $\{a_n\}$ nel modo seguente: $a_1 = 0$, $a_2 = 1$ e $a_{n+1} = ka_n + a_{n-1}$ per $n = 1, 2, \ldots$. Si determinino, con dimostrazione, tutti i possibili $k$ tali che esistano numeri interi non negativi $\ell, m$ ($\ell \ne m$) e numeri interi positivi $p, q$ tali che $a_\ell + ka_p = a_m + ka_q$.
 
-**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_ricorsione|Ricorsione]], [[method_induzione|Induzione]], [[method_casework|Casework]]
-**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_lettura_attenta|Lettura attenta]]
-**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 
-[[Quesiti/src_cn_cwmo_2010#q05|src_cn_cwmo_2010__Q05]]
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_funzionali|Equazioni funzionali / successioni]]
+**Metodo:** [[method_ricorsione|Ricorsione]], [[method_induzione|Induzione]], [[method_casework|Casework]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_lettura_attenta|Lettura attenta]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 
 
 
@@ -208,7 +200,7 @@ level: China Western Mathematical Olympiad
 
 > As shown in Fig. 6.1, $\triangle ABC$ is a right-angled triangle, $\angle C = 90^\circ$. Draw a circle centered at $B$ with radius $BC$. Let $D$ be a point on the side $AC$, and $DE$ be tangent to the circle at $E$. The line through $C$ perpendicular to $AB$ meets line $DE$ extended at point $F$. Line $AF$ meets $DE$ at point $G$. The line through $A$ parallel to $BG$ meets $DE$ (extended) at $H$. Prove that $GE = GH$.
 
-![[src_cn_cwmo_b11_w236__q06.png]]
+![[src_cn_cwmo_b11_w236__Q06.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_trigonometria|Trigonometria]], [[method_coordinate|Coordinate]]
@@ -224,18 +216,16 @@ level: China Western Mathematical Olympiad
 
 > Come mostrato nella Fig. 6.1, $\triangle ABC$ è un triangolo rettangolo, $\angle C = 90^\circ$. Si tracci una circonferenza con centro in $B$ e raggio $BC$. Sia $D$ un punto sul lato $AC$, e sia $DE$ tangente alla circonferenza in $E$. La retta passante per $C$ e perpendicolare a $AB$ incontra la retta $DE$ prolungata nel punto $F$. La retta $AF$ incontra $DE$ nel punto $G$. La retta passante per $A$ e parallela a $BG$ incontra $DE$ (prolungata) in $H$. Si dimostri che $GE = GH$.
 
-![[src_cn_cwmo_b11_w236__q06.png]]
+![[src_cn_cwmo_b11_w236__Q06.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_trigonometria|Trigonometria]], [[method_coordinate|Coordinate]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 
-[[Quesiti/src_cn_cwmo_2010#q06|src_cn_cwmo_2010__Q06]]
 
 
-
-<span class="atom-split" id="q07" data-atom="q07" data-title="Quesito 7" data-tags="topic_combinatoria,method_grafi,method_casework,method_estremalita,skill_modellizzazione,skill_lettura_attenta,skill_ragionamento_geometrico"></span>
+<span class="atom-split" id="q07" data-atom="q07" data-title="Quesito 7" data-tags="topic_combinatoria,method_grafi,method_casework,method_estremalita,skill_modellizzazione,skill_lettura_attenta,skill_ragionamento_geometrico,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -246,8 +236,8 @@ level: China Western Mathematical Olympiad
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_grafi|Grafi]], [[method_casework|Casework]], [[method_estremalita|Estremalità]]
-**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_lettura_attenta|Lettura attenta]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
-**Area:** [[Combinatoria, Logica e Probabilita]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_lettura_attenta|Lettura attenta]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1cjmD7lTT4vb3nB3ylcVCHeHucUE2rNI0/view)
 
 
@@ -258,9 +248,8 @@ level: China Western Mathematical Olympiad
 
 > In un torneo di tennistavolo ci sono $n$ ($n \ge 3$) giocatori, e ogni coppia di giocatori disputa una partita. Il giocatore $A$ si dice non superato dal giocatore $B$ se almeno uno dei perdenti del giocatore $A$ non è un perdente del giocatore $B$. Determina, con dimostrazione, tutti i valori di $n$ per cui può verificarsi il seguente caso: al termine di tutte le partite, nessun giocatore è superato da alcun altro giocatore.
 
+
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_grafi|Grafi]], [[method_casework|Casework]], [[method_estremalita|Estremalità]]
-**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_lettura_attenta|Lettura attenta]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_lettura_attenta|Lettura attenta]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
-
-[[Quesiti/src_cn_cwmo_2010#q07|src_cn_cwmo_2010__Q07]]

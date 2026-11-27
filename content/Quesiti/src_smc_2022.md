@@ -51,11 +51,9 @@ level: Senior Mathematical Challenge
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 
-[[Quesiti/src_smc_2022#q01|src_smc_2022__Q01]]
 
 
-
-<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_aritmetica,method_casework,skill_conteggio_sistematico,skill_ragionamento_geometrico"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_aritmetica,method_casework,method_colorazione,skill_conteggio_sistematico,skill_ragionamento_geometrico,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -71,9 +69,9 @@ level: Senior Mathematical Challenge
 > - **(E)** 53
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_casework|Casework]]
-**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
-**Area:** [[Aritmetica e Teoria dei Numeri]]
+**Metodo:** [[method_casework|Casework]], [[method_colorazione|Colouring / parity]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Risposta:** (C)
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1XQc9a_vhXKqTVrO2lg2sXvbuZnvC1t8F/view)
 
@@ -91,12 +89,11 @@ level: Senior Mathematical Challenge
 > - **(D)** 47
 > - **(E)** 53
 
-**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_casework|Casework]]
-**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
-**Area:** [[Aritmetica e Teoria dei Numeri]]
 
-[[Quesiti/src_smc_2022#q02|src_smc_2022__Q02]]
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Casework]], [[method_colorazione|Colorazione / parita]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
 
 
 
@@ -115,7 +112,7 @@ level: Senior Mathematical Challenge
 > - **(D)** 8
 > - **(E)** more than 8
 
-![[src_smc_2022__q03.png]]
+![[src_smc_2022__Q03.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_conteggio|Conteggio]], [[method_casework|Casework]]
@@ -138,18 +135,16 @@ level: Senior Mathematical Challenge
 > - **(D)** 8
 > - **(E)** più di 8
 
-![[src_smc_2022__q03.png]]
+![[src_smc_2022__Q03.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_conteggio|Conteggio]], [[method_casework|Casework]]
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]], [[Combinatoria, Logica e Probabilita]]
 
-[[Quesiti/src_smc_2022#q03|src_smc_2022__Q03]]
 
 
-
-<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_geometria_piana,topic_aritmetica,method_coordinate,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
+<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_geometria_piana,topic_aritmetica,method_coordinate,method_simmetria,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -164,12 +159,12 @@ level: Senior Mathematical Challenge
 > - **(D)** $8:21$
 > - **(E)** $1:2$
 
-![[src_smc_2022__q04.png]]
+![[src_smc_2022__Q04.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_coordinate|Coordinate]]
+**Metodo:** [[method_coordinate|Coordinate]], [[method_simmetria|Using symmetry]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
-**Area:** [[Geometria]], [[Aritmetica e Teoria dei Numeri]]
+**Area:** [[Geometria|Geometry]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Risposta:** (D)
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1XQc9a_vhXKqTVrO2lg2sXvbuZnvC1t8F/view)
 
@@ -187,14 +182,13 @@ level: Senior Mathematical Challenge
 > - **(D)** $8:21$
 > - **(E)** $1:2$
 
-![[src_smc_2022__q04.png]]
+![[src_smc_2022__Q04.png]]
+
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_coordinate|Coordinate]]
+**Metodo:** [[method_coordinate|Coordinate]], [[method_simmetria|Sfruttamento della simmetria]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]], [[Aritmetica e Teoria dei Numeri]]
-
-[[Quesiti/src_smc_2022#q04|src_smc_2022__Q04]]
 
 
 
@@ -239,8 +233,6 @@ level: Senior Mathematical Challenge
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 
-[[Quesiti/src_smc_2022#q05|src_smc_2022__Q05]]
-
 
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_algebra,topic_aritmetica,method_fattorizzazione,skill_manipolazione_algebrica"></span>
@@ -283,8 +275,6 @@ level: Senior Mathematical Challenge
 **Metodo:** [[method_fattorizzazione|Fattorizzazione]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
-
-[[Quesiti/src_smc_2022#q06|src_smc_2022__Q06]]
 
 
 
@@ -329,8 +319,6 @@ level: Senior Mathematical Challenge
 **Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 
-[[Quesiti/src_smc_2022#q07|src_smc_2022__Q07]]
-
 
 
 <span class="atom-split" id="q08" data-atom="q08" data-title="Quesito 8" data-tags="topic_geometria_piana,method_simmetria,skill_ragionamento_geometrico"></span>
@@ -348,7 +336,7 @@ level: Senior Mathematical Challenge
 > - **(D)** 84
 > - **(E)** 72
 
-![[src_smc_2022__q08.png]]
+![[src_smc_2022__Q08.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_simmetria|Simmetria]]
@@ -371,14 +359,12 @@ level: Senior Mathematical Challenge
 > - **(D)** 84
 > - **(E)** 72
 
-![[src_smc_2022__q08.png]]
+![[src_smc_2022__Q08.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_simmetria|Simmetria]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]]
-
-[[Quesiti/src_smc_2022#q08|src_smc_2022__Q08]]
 
 
 
@@ -420,8 +406,6 @@ level: Senior Mathematical Challenge
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_stima|Stima]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
-
-[[Quesiti/src_smc_2022#q09|src_smc_2022__Q09]]
 
 
 
@@ -466,8 +450,6 @@ level: Senior Mathematical Challenge
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Algebra e Analisi]]
 
-[[Quesiti/src_smc_2022#q10|src_smc_2022__Q10]]
-
 
 
 <span class="atom-split" id="q11" data-atom="q11" data-title="Quesito 11" data-tags="topic_aritmetica,topic_algebra,method_fattorizzazione,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
@@ -485,7 +467,7 @@ level: Senior Mathematical Challenge
 > - **(D)** 6
 > - **(E)** 33
 
-![[src_smc_2022__q11.png]]
+![[src_smc_2022__Q11.png]]
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
 **Metodo:** [[method_fattorizzazione|Fattorizzazione]]
@@ -508,14 +490,12 @@ level: Senior Mathematical Challenge
 > - **(D)** 6
 > - **(E)** 33
 
-![[src_smc_2022__q11.png]]
+![[src_smc_2022__Q11.png]]
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
 **Metodo:** [[method_fattorizzazione|Fattorizzazione]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
-
-[[Quesiti/src_smc_2022#q11|src_smc_2022__Q11]]
 
 
 
@@ -560,8 +540,6 @@ level: Senior Mathematical Challenge
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 
-[[Quesiti/src_smc_2022#q12|src_smc_2022__Q12]]
-
 
 
 <span class="atom-split" id="q13" data-atom="q13" data-title="Quesito 13" data-tags="topic_aritmetica,topic_insiemi_funzioni,method_inclusione_esclusione,skill_modellizzazione,skill_manipolazione_algebrica"></span>
@@ -605,8 +583,6 @@ level: Senior Mathematical Challenge
 **Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 
-[[Quesiti/src_smc_2022#q13|src_smc_2022__Q13]]
-
 
 
 <span class="atom-split" id="q14" data-atom="q14" data-title="Quesito 14" data-tags="topic_geometria_piana,topic_aritmetica,method_simmetria,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
@@ -624,7 +600,7 @@ level: Senior Mathematical Challenge
 > - **(D)** $\frac{20}{81}$
 > - **(E)** $\frac{1}{3}$
 
-![[src_smc_2022__q14.png]]
+![[src_smc_2022__Q14.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_simmetria|Simmetria]]
@@ -647,14 +623,12 @@ level: Senior Mathematical Challenge
 > - **(D)** $\frac{20}{81}$
 > - **(E)** $\frac{1}{3}$
 
-![[src_smc_2022__q14.png]]
+![[src_smc_2022__Q14.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_simmetria|Simmetria]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]], [[Aritmetica e Teoria dei Numeri]]
-
-[[Quesiti/src_smc_2022#q14|src_smc_2022__Q14]]
 
 
 
@@ -699,11 +673,9 @@ level: Senior Mathematical Challenge
 **Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 
-[[Quesiti/src_smc_2022#q15|src_smc_2022__Q15]]
 
 
-
-<span class="atom-split" id="q16" data-atom="q16" data-title="Quesito 16" data-tags="topic_insiemi_funzioni,topic_geometria_analitica,method_casework,skill_ragionamento_geometrico,skill_lettura_attenta"></span>
+<span class="atom-split" id="q16" data-atom="q16" data-title="Quesito 16" data-tags="topic_insiemi_funzioni,topic_geometria_analitica,method_casework,method_simmetria,skill_ragionamento_geometrico,skill_lettura_attenta,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -718,12 +690,12 @@ level: Senior Mathematical Challenge
 > - **(D)** [diagram D]
 > - **(E)** [diagram E]
 
-![[src_smc_2022__q16.png]]
+![[src_smc_2022__Q16.png]]
 
 **Topic:** [[topic_insiemi_funzioni|Insiemi e funzioni]], [[topic_geometria_analitica|Geometria analitica]]
-**Metodo:** [[method_casework|Casework]]
-**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
-**Area:** [[Algebra e Analisi]], [[Geometria]]
+**Metodo:** [[method_casework|Casework]], [[method_simmetria|Using symmetry]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Geometria|Geometry]]
 **Risposta:** (B)
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1XQc9a_vhXKqTVrO2lg2sXvbuZnvC1t8F/view)
 
@@ -741,14 +713,13 @@ level: Senior Mathematical Challenge
 > - **(D)** [diagramma D]
 > - **(E)** [diagramma E]
 
-![[src_smc_2022__q16.png]]
+![[src_smc_2022__Q16.png]]
+
 
 **Topic:** [[topic_insiemi_funzioni|Insiemi e funzioni]], [[topic_geometria_analitica|Geometria analitica]]
-**Metodo:** [[method_casework|Casework]]
-**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
+**Metodo:** [[method_casework|Casework]], [[method_simmetria|Sfruttamento della simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Algebra e Analisi]], [[Geometria]]
-
-[[Quesiti/src_smc_2022#q16|src_smc_2022__Q16]]
 
 
 
@@ -767,7 +738,7 @@ level: Senior Mathematical Challenge
 > - **(D)** $3 - 2\sqrt{2} - \sqrt{3}$
 > - **(E)** $2\sqrt{2} - \sqrt{3}$
 
-![[src_smc_2022__q17.png]]
+![[src_smc_2022__Q17.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_coordinate|Coordinate]]
@@ -790,14 +761,12 @@ level: Senior Mathematical Challenge
 > - **(D)** $3 - 2\sqrt{2} - \sqrt{3}$
 > - **(E)** $2\sqrt{2} - \sqrt{3}$
 
-![[src_smc_2022__q17.png]]
+![[src_smc_2022__Q17.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_coordinate|Coordinate]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
-
-[[Quesiti/src_smc_2022#q17|src_smc_2022__Q17]]
 
 
 
@@ -842,11 +811,9 @@ level: Senior Mathematical Challenge
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Algebra e Analisi]]
 
-[[Quesiti/src_smc_2022#q18|src_smc_2022__Q18]]
 
 
-
-<span class="atom-split" id="q19" data-atom="q19" data-title="Quesito 19" data-tags="topic_algebra,method_simmetria,method_casework,skill_manipolazione_algebrica,skill_ragionamento_geometrico"></span>
+<span class="atom-split" id="q19" data-atom="q19" data-title="Quesito 19" data-tags="topic_algebra,topic_geometria_analitica,method_simmetria,method_casework,method_fattorizzazione,skill_manipolazione_algebrica,skill_ragionamento_geometrico"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -861,10 +828,10 @@ level: Senior Mathematical Challenge
 > - **(D)** 3
 > - **(E)** 4
 
-**Topic:** [[topic_algebra|Algebra]]
-**Metodo:** [[method_simmetria|Simmetria]], [[method_casework|Casework]]
+**Topic:** [[topic_algebra|Algebra]], [[topic_geometria_analitica|Coordinate geometry]]
+**Metodo:** [[method_simmetria|Simmetria]], [[method_casework|Casework]], [[method_fattorizzazione|Factorisation / algebraic manipulation]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
-**Area:** [[Algebra e Analisi]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Geometria|Geometry]]
 **Risposta:** (E)
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1XQc9a_vhXKqTVrO2lg2sXvbuZnvC1t8F/view)
 
@@ -882,12 +849,11 @@ level: Senior Mathematical Challenge
 > - **(D)** 3
 > - **(E)** 4
 
-**Topic:** [[topic_algebra|Algebra]]
-**Metodo:** [[method_simmetria|Simmetria]], [[method_casework|Casework]]
-**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
-**Area:** [[Algebra e Analisi]]
 
-[[Quesiti/src_smc_2022#q19|src_smc_2022__Q19]]
+**Topic:** [[topic_algebra|Algebra]], [[topic_geometria_analitica|Geometria analitica]]
+**Metodo:** [[method_simmetria|Simmetria]], [[method_casework|Casework]], [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Algebra e Analisi]], [[Geometria]]
 
 
 
@@ -906,7 +872,7 @@ level: Senior Mathematical Challenge
 > - **(D)** 40
 > - **(E)** $10\sqrt{2}$
 
-![[src_smc_2022__q20.png]]
+![[src_smc_2022__Q20.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_coordinate|Coordinate]]
@@ -929,18 +895,16 @@ level: Senior Mathematical Challenge
 > - **(D)** 40
 > - **(E)** $10\sqrt{2}$
 
-![[src_smc_2022__q20.png]]
+![[src_smc_2022__Q20.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_coordinate|Coordinate]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 
-[[Quesiti/src_smc_2022#q20|src_smc_2022__Q20]]
 
 
-
-<span class="atom-split" id="q21" data-atom="q21" data-title="Quesito 21" data-tags="topic_geometria_piana,method_simmetria,skill_ragionamento_geometrico,skill_modellizzazione"></span>
+<span class="atom-split" id="q21" data-atom="q21" data-title="Quesito 21" data-tags="topic_geometria_piana,method_simmetria,skill_ragionamento_geometrico,skill_modellizzazione,skill_riconoscimento_pattern"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -955,12 +919,12 @@ level: Senior Mathematical Challenge
 > - **(D)** $4 + \pi$
 > - **(E)** 12
 
-![[src_smc_2022__q21.png]]
+![[src_smc_2022__Q21.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_simmetria|Simmetria]]
-**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]]
-**Area:** [[Geometria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]], [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Geometria|Geometry]]
 **Risposta:** (D)
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1XQc9a_vhXKqTVrO2lg2sXvbuZnvC1t8F/view)
 
@@ -978,18 +942,17 @@ level: Senior Mathematical Challenge
 > - **(D)** $4 + \pi$
 > - **(E)** 12
 
-![[src_smc_2022__q21.png]]
+![[src_smc_2022__Q21.png]]
+
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_simmetria|Simmetria]]
-**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Geometria]]
 
-[[Quesiti/src_smc_2022#q21|src_smc_2022__Q21]]
 
 
-
-<span class="atom-split" id="q22" data-atom="q22" data-title="Quesito 22" data-tags="topic_algebra,topic_aritmetica,method_casework,method_fattorizzazione,skill_manipolazione_algebrica,skill_ragionamento_geometrico"></span>
+<span class="atom-split" id="q22" data-atom="q22" data-title="Quesito 22" data-tags="topic_algebra,topic_aritmetica,method_casework,method_fattorizzazione,skill_manipolazione_algebrica,skill_ragionamento_geometrico,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -1006,8 +969,8 @@ level: Senior Mathematical Challenge
 
 **Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_casework|Casework]], [[method_fattorizzazione|Fattorizzazione]]
-**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
-**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Risposta:** (B)
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1XQc9a_vhXKqTVrO2lg2sXvbuZnvC1t8F/view)
 
@@ -1025,12 +988,11 @@ level: Senior Mathematical Challenge
 > - **(D)** 8
 > - **(E)** infiniti
 
+
 **Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_casework|Casework]], [[method_fattorizzazione|Fattorizzazione]]
-**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
-
-[[Quesiti/src_smc_2022#q22|src_smc_2022__Q22]]
 
 
 
@@ -1049,7 +1011,7 @@ level: Senior Mathematical Challenge
 > - **(D)** $\frac{11}{2}\sqrt{40}$
 > - **(E)** 441
 
-![[src_smc_2022__q23.png]]
+![[src_smc_2022__Q23.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_simmetria|Simmetria]], [[method_coordinate|Coordinate]]
@@ -1072,14 +1034,12 @@ level: Senior Mathematical Challenge
 > - **(D)** $\frac{11}{2}\sqrt{40}$
 > - **(E)** 441
 
-![[src_smc_2022__q23.png]]
+![[src_smc_2022__Q23.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_simmetria|Simmetria]], [[method_coordinate|Coordinate]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
-
-[[Quesiti/src_smc_2022#q23|src_smc_2022__Q23]]
 
 
 
@@ -1124,11 +1084,9 @@ level: Senior Mathematical Challenge
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 
-[[Quesiti/src_smc_2022#q24|src_smc_2022__Q24]]
 
 
-
-<span class="atom-split" id="q25" data-atom="q25" data-title="Quesito 25" data-tags="topic_geometria_solida,method_coordinate,skill_ragionamento_geometrico,skill_modellizzazione"></span>
+<span class="atom-split" id="q25" data-atom="q25" data-title="Quesito 25" data-tags="topic_geometria_solida,method_coordinate,skill_ragionamento_geometrico,skill_modellizzazione,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -1143,12 +1101,12 @@ level: Senior Mathematical Challenge
 > - **(D)** $\frac{11}{3}\sqrt{5}$
 > - **(E)** $\frac{1}{3}\sqrt{6}$
 
-![[src_smc_2022__q25.png]]
+![[src_smc_2022__Q25.png]]
 
 **Topic:** [[topic_geometria_solida|Geometria solida]]
 **Metodo:** [[method_coordinate|Coordinate]]
-**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]]
-**Area:** [[Geometria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Geometria|Geometry]]
 **Risposta:** (A)
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1XQc9a_vhXKqTVrO2lg2sXvbuZnvC1t8F/view)
 
@@ -1166,11 +1124,10 @@ level: Senior Mathematical Challenge
 > - **(D)** $\frac{11}{3}\sqrt{5}$
 > - **(E)** $\frac{1}{3}\sqrt{6}$
 
-![[src_smc_2022__q25.png]]
+![[src_smc_2022__Q25.png]]
+
 
 **Topic:** [[topic_geometria_solida|Geometria solida]]
 **Metodo:** [[method_coordinate|Coordinate]]
-**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
-
-[[Quesiti/src_smc_2022#q25|src_smc_2022__Q25]]

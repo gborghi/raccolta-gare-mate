@@ -51,12 +51,12 @@ level: kangourou
 **Topic:** [[topic_logica|Logic, games, strategies]], [[topic_combinatoria|Combinatorics]]
 **Method:** [[method_cassetti|Pigeonhole principle]]
 **Skill:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** B
-[[Quesiti/src_kangourou_2001_student#q01|src_kangourou_2001_student__Q01]]
 
 
 
-<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_geometria_solida,skill_ragionamento_geometrico"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_geometria_solida,method_conteggio,skill_ragionamento_geometrico,skill_modellizzazione,skill_stima"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -73,7 +73,8 @@ level: kangourou
 > - **(E)** 128. Kangourou 15 marzo 2001. Categoria Student. Pagina N. 2 = −1 999999999 9999 ... 9999 cifre 18 4 48 4 47 6
 
 **Topic:** [[topic_geometria_solida|Geometria solida]]
-**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Metodo:** [[method_conteggio|Conteggio combinatorio]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_stima|Stima e approssimazione]]
 **Area:** [[Geometria]]
 **Risposta:** A
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1WrEJ0EHmPnkFJEJA37f-XTz35ZMJvHwY/view)
@@ -93,13 +94,14 @@ level: kangourou
 > - **(E)** 128. Kangourou 15 March 2001. Student category. Page no. 2 = −1 999999999 9999 ... 9999 digits 18 4 48 4 47 6
 
 **Topic:** [[topic_geometria_solida|Solid geometry]]
-**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_modellizzazione|Modelling / translating the text]], [[skill_stima|Estimation and approximation]]
+**Area:** [[Geometria|Geometry]]
 **Answer:** A
-[[Quesiti/src_kangourou_2001_student#q02|src_kangourou_2001_student__Q02]]
 
 
 
-<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_algebra,skill_manipolazione_algebrica"></span>
+<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_algebra,method_fattorizzazione,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -109,6 +111,7 @@ level: kangourou
 > Se   log 2 10 = a  allora log 10 2 vale
 
 **Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Algebra e Analisi]]
 **Risposta:** E
@@ -123,13 +126,14 @@ level: kangourou
 > If log 2 10 = a then log 10 2 equals
 
 **Topic:** [[topic_algebra|Algebra]]
-**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
 **Answer:** E
-[[Quesiti/src_kangourou_2001_student#q03|src_kangourou_2001_student__Q03]]
 
 
 
-<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_aritmetica,method_casework,skill_conteggio_sistematico"></span>
+<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_aritmetica,method_casework,skill_conteggio_sistematico,skill_lettura_attenta"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -144,7 +148,7 @@ level: kangourou
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_casework|Analisi per casi]]
-**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta del testo]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** E
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1WrEJ0EHmPnkFJEJA37f-XTz35ZMJvHwY/view)
@@ -163,10 +167,10 @@ level: kangourou
 > (E) a number different from the previous ones.
 
 **Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
-**Method:** [[method_casework|Case analysis]]
-**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]], [[skill_lettura_attenta|Careful reading of the text]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Answer:** E
-[[Quesiti/src_kangourou_2001_student#q04|src_kangourou_2001_student__Q04]]
 
 
 
@@ -198,8 +202,8 @@ level: kangourou
 **Topic:** [[topic_probabilita|Probability and statistics]]
 **Method:** [[method_conteggio|Combinatorial counting]]
 **Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** B
-[[Quesiti/src_kangourou_2001_student#q05|src_kangourou_2001_student__Q05]]
 
 
 
@@ -236,8 +240,8 @@ level: kangourou
 
 **Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
 **Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Answer:** D
-[[Quesiti/src_kangourou_2001_student#q06|src_kangourou_2001_student__Q06]]
 
 
 
@@ -284,12 +288,12 @@ level: kangourou
 
 **Topic:** [[topic_geometria_piana|Plane geometry]]
 **Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
 **Answer:** A
-[[Quesiti/src_kangourou_2001_student#q07|src_kangourou_2001_student__Q07]]
 
 
 
-<span class="atom-split" id="q08" data-atom="q08" data-title="Quesito 8" data-tags="topic_aritmetica,topic_combinatoria,method_conteggio,method_fattorizzazione,skill_casework_accurato"></span>
+<span class="atom-split" id="q08" data-atom="q08" data-title="Quesito 8" data-tags="topic_aritmetica,topic_combinatoria,method_conteggio,method_fattorizzazione,skill_casework_accurato,skill_conteggio_sistematico"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -307,7 +311,7 @@ level: kangourou
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_conteggio|Conteggio combinatorio]], [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
-**Abilita:** [[skill_casework_accurato|Casework accurato]]
+**Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** B
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1WrEJ0EHmPnkFJEJA37f-XTz35ZMJvHwY/view)
@@ -327,14 +331,14 @@ level: kangourou
 > - **(E)** 1.
 
 **Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_combinatoria|Combinatorics]]
-**Method:** [[method_conteggio|Combinatorial counting]], [[method_fattorizzazione|Factorisation / algebraic manipulation]]
-**Skill:** [[skill_casework_accurato|Careful case analysis]]
+**Metodo:** [[method_conteggio|Combinatorial counting]], [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]], [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** B
-[[Quesiti/src_kangourou_2001_student#q08|src_kangourou_2001_student__Q08]]
 
 
 
-<span class="atom-split" id="q09" data-atom="q09" data-title="Quesito 9" data-tags="topic_geometria_piana,skill_modellizzazione"></span>
+<span class="atom-split" id="q09" data-atom="q09" data-title="Quesito 9" data-tags="topic_geometria_piana,topic_algebra,method_coordinate,skill_modellizzazione,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -351,9 +355,10 @@ level: kangourou
 > - **(D)** 17.25
 > - **(E)** 17.35. . a 1 (E) 5 a (D) 5a (C) 2 a (B) 2a ) A ( . 9 1 (E) 3 2 (D) 6 1 (C) 3 1 (B) 2 1 ) A ( Kangourou 15 marzo 2001. Categoria Student. Pagina N. 3
 
-**Topic:** [[topic_geometria_piana|Geometria piana]]
-**Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
-**Area:** [[Geometria]]
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_coordinate|Metodo delle coordinate]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]], [[Algebra e Analisi]]
 **Risposta:** D
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1WrEJ0EHmPnkFJEJA37f-XTz35ZMJvHwY/view)
 
@@ -371,14 +376,15 @@ level: kangourou
 > - **(D)** 17.25
 > - **(E)** 17.35. . a 1 (E) 5 a (D) 5a (C) 2 a (B) 2a ) A ( . 9 1 (E) 3 2 (D) 6 1 (C) 3 1 (B) 2 1 ) A ( Kangourou 15 March 2001. Student category. Page no. 3
 
-**Topic:** [[topic_geometria_piana|Plane geometry]]
-**Skill:** [[skill_modellizzazione|Modelling / translating the text]]
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_coordinate|Coordinate method]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Geometria|Geometry]], [[Algebra e Analisi|Algebra and analysis]]
 **Answer:** D
-[[Quesiti/src_kangourou_2001_student#q09|src_kangourou_2001_student__Q09]]
 
 
 
-<span class="atom-split" id="q10" data-atom="q10" data-title="Quesito 10" data-tags="topic_aritmetica,method_fattorizzazione,skill_manipolazione_algebrica"></span>
+<span class="atom-split" id="q10" data-atom="q10" data-title="Quesito 10" data-tags="topic_aritmetica,method_fattorizzazione,method_casework,skill_manipolazione_algebrica,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -394,8 +400,8 @@ level: kangourou
 > I quesiti dal N. 11 al N. 20 valgono 4 punti ciascuno
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
-**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]], [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** B
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1WrEJ0EHmPnkFJEJA37f-XTz35ZMJvHwY/view)
@@ -416,14 +422,14 @@ level: kangourou
 > Questions 11 to 20 are worth 4 points each
 
 **Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
-**Method:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
-**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]], [[method_casework|Case analysis]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Answer:** B
-[[Quesiti/src_kangourou_2001_student#q10|src_kangourou_2001_student__Q10]]
 
 
 
-<span class="atom-split" id="q11" data-atom="q11" data-title="Quesito 11" data-tags="topic_geometria_piana,topic_geometria_analitica,method_casework,skill_ragionamento_geometrico"></span>
+<span class="atom-split" id="q11" data-atom="q11" data-title="Quesito 11" data-tags="topic_geometria_piana,topic_geometria_analitica,method_casework,skill_ragionamento_geometrico,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -444,7 +450,7 @@ level: kangourou
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_geometria_analitica|Geometria analitica]]
 **Metodo:** [[method_casework|Analisi per casi]]
-**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Geometria]]
 **Risposta:** C
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1WrEJ0EHmPnkFJEJA37f-XTz35ZMJvHwY/view)
@@ -466,10 +472,10 @@ level: kangourou
 > - **(E)** None of the statements (A), (B), (C), (D) is true.
 
 **Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_geometria_analitica|Analytic geometry]]
-**Method:** [[method_casework|Case analysis]]
-**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Geometria|Geometry]]
 **Answer:** C
-[[Quesiti/src_kangourou_2001_student#q11|src_kangourou_2001_student__Q11]]
 
 
 
@@ -528,12 +534,12 @@ level: kangourou
 
 **Topic:** [[topic_geometria_solida|Solid geometry]]
 **Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
 **Answer:** A
-[[Quesiti/src_kangourou_2001_student#q12|src_kangourou_2001_student__Q12]]
 
 
 
-<span class="atom-split" id="q13" data-atom="q13" data-title="Quesito 13" data-tags="topic_algebra,method_fattorizzazione,skill_manipolazione_algebrica"></span>
+<span class="atom-split" id="q13" data-atom="q13" data-title="Quesito 13" data-tags="topic_algebra,method_fattorizzazione,skill_manipolazione_algebrica,skill_modellizzazione"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -553,7 +559,7 @@ level: kangourou
 
 **Topic:** [[topic_algebra|Algebra]]
 **Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
-**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
 **Area:** [[Algebra e Analisi]]
 **Risposta:** E
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1WrEJ0EHmPnkFJEJA37f-XTz35ZMJvHwY/view)
@@ -573,14 +579,14 @@ level: kangourou
 > - **(E)** 25. . cm 64 (E) cm 3 32 (D) cm 3 64 (C) cm 32 (B) cm 3 16 ) A ( 3 3 3 3 3 Kangourou 15 March 2001. Student category. Page no. 4
 
 **Topic:** [[topic_algebra|Algebra]]
-**Method:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
-**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
 **Answer:** E
-[[Quesiti/src_kangourou_2001_student#q13|src_kangourou_2001_student__Q13]]
 
 
 
-<span class="atom-split" id="q14" data-atom="q14" data-title="Quesito 14" data-tags="topic_aritmetica,skill_riconoscimento_pattern"></span>
+<span class="atom-split" id="q14" data-atom="q14" data-title="Quesito 14" data-tags="topic_aritmetica,method_fattorizzazione,skill_riconoscimento_pattern"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -597,6 +603,7 @@ level: kangourou
 > - **(D)** (10 8 )² (E) (10 4 )² + 1.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
 **Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** A
@@ -617,13 +624,14 @@ level: kangourou
 > - **(E)** (10 4 )² + 1.
 
 **Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
-**Skill:** [[skill_riconoscimento_pattern|Pattern recognition]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Answer:** A
-[[Quesiti/src_kangourou_2001_student#q14|src_kangourou_2001_student__Q14]]
 
 
 
-<span class="atom-split" id="q15" data-atom="q15" data-title="Quesito 15" data-tags="topic_geometria_piana,skill_ragionamento_geometrico"></span>
+<span class="atom-split" id="q15" data-atom="q15" data-title="Quesito 15" data-tags="topic_geometria_piana,method_simmetria,skill_ragionamento_geometrico"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -656,6 +664,7 @@ level: kangourou
 > coincide con il vettore
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_simmetria|Sfruttamento della simmetria]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]]
 **Risposta:** E
@@ -692,13 +701,14 @@ level: kangourou
 > ABCDEF is a regular hexagon. Then the vector coincides with the vector
 
 **Topic:** [[topic_geometria_piana|Plane geometry]]
-**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Metodo:** [[method_simmetria|Using symmetry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
 **Answer:** E
-[[Quesiti/src_kangourou_2001_student#q15|src_kangourou_2001_student__Q15]]
 
 
 
-<span class="atom-split" id="q16" data-atom="q16" data-title="Quesito 16" data-tags="topic_logica,topic_combinatoria,method_casework,skill_casework_accurato"></span>
+<span class="atom-split" id="q16" data-atom="q16" data-title="Quesito 16" data-tags="topic_logica,topic_combinatoria,method_casework,skill_casework_accurato,skill_modellizzazione"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -719,7 +729,7 @@ level: kangourou
 
 **Topic:** [[topic_logica|Logica, giochi, strategie]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_casework|Analisi per casi]]
-**Abilita:** [[skill_casework_accurato|Casework accurato]]
+**Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** A
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1WrEJ0EHmPnkFJEJA37f-XTz35ZMJvHwY/view)
@@ -739,10 +749,10 @@ level: kangourou
 > - **(E)** it depends on the result of the match between A and C.
 
 **Topic:** [[topic_logica|Logic, games, strategies]], [[topic_combinatoria|Combinatorics]]
-**Method:** [[method_casework|Case analysis]]
-**Skill:** [[skill_casework_accurato|Careful case analysis]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]], [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** A
-[[Quesiti/src_kangourou_2001_student#q16|src_kangourou_2001_student__Q16]]
 
 
 
@@ -788,12 +798,12 @@ level: kangourou
 
 **Topic:** [[topic_geometria_piana|Plane geometry]]
 **Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
 **Answer:** D
-[[Quesiti/src_kangourou_2001_student#q17|src_kangourou_2001_student__Q17]]
 
 
 
-<span class="atom-split" id="q18" data-atom="q18" data-title="Quesito 18" data-tags="topic_disuguaglianze,method_disuguaglianze,skill_manipolazione_algebrica"></span>
+<span class="atom-split" id="q18" data-atom="q18" data-title="Quesito 18" data-tags="topic_disuguaglianze,topic_geometria_piana,method_disuguaglianze,skill_manipolazione_algebrica,skill_ragionamento_geometrico"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -809,10 +819,10 @@ level: kangourou
 > - **(D)** a + b
 > - **(E)** ab.
 
-**Topic:** [[topic_disuguaglianze|Disuguaglianze]]
+**Topic:** [[topic_disuguaglianze|Disuguaglianze]], [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_disuguaglianze|Disuguaglianze classiche]]
-**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
-**Area:** [[Algebra e Analisi]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Algebra e Analisi]], [[Geometria]]
 **Risposta:** E
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1WrEJ0EHmPnkFJEJA37f-XTz35ZMJvHwY/view)
 
@@ -830,15 +840,15 @@ level: kangourou
 > - **(D)** a + b
 > - **(E)** ab.
 
-**Topic:** [[topic_disuguaglianze|Inequalities]]
-**Method:** [[method_disuguaglianze|Classical inequalities]]
-**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Topic:** [[topic_disuguaglianze|Inequalities]], [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_disuguaglianze|Classical inequalities]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Geometria|Geometry]]
 **Answer:** E
-[[Quesiti/src_kangourou_2001_student#q18|src_kangourou_2001_student__Q18]]
 
 
 
-<span class="atom-split" id="q19" data-atom="q19" data-title="Quesito 19" data-tags="topic_geometria_solida,method_casework,skill_casework_accurato"></span>
+<span class="atom-split" id="q19" data-atom="q19" data-title="Quesito 19" data-tags="topic_geometria_solida,method_casework,skill_casework_accurato,skill_ragionamento_geometrico"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -860,7 +870,7 @@ level: kangourou
 
 **Topic:** [[topic_geometria_solida|Geometria solida]]
 **Metodo:** [[method_casework|Analisi per casi]]
-**Abilita:** [[skill_casework_accurato|Casework accurato]]
+**Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]]
 **Risposta:** E
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1WrEJ0EHmPnkFJEJA37f-XTz35ZMJvHwY/view)
@@ -882,14 +892,14 @@ level: kangourou
 > - **(E)** 8 and 16. AF AD BC ⋅ + − 2 . CE (E) FB (D) FD (C) CA (B) AA ) (A Kangourou 15 March 2001. Student category. Page no. 5
 
 **Topic:** [[topic_geometria_solida|Solid geometry]]
-**Method:** [[method_casework|Case analysis]]
-**Skill:** [[skill_casework_accurato|Careful case analysis]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]], [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
 **Answer:** E
-[[Quesiti/src_kangourou_2001_student#q19|src_kangourou_2001_student__Q19]]
 
 
 
-<span class="atom-split" id="q20" data-atom="q20" data-title="Quesito 20" data-tags="topic_geometria_piana,skill_ragionamento_geometrico"></span>
+<span class="atom-split" id="q20" data-atom="q20" data-title="Quesito 20" data-tags="topic_geometria_piana,method_simmetria,skill_ragionamento_geometrico"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -906,6 +916,7 @@ level: kangourou
 > - **(E)** 60°. I quesiti dal N. 21 al N. 30 valgono 5 punti ciascuno
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_simmetria|Sfruttamento della simmetria]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]]
 **Risposta:** C
@@ -926,9 +937,10 @@ level: kangourou
 > - **(E)** 60°. Questions 21 to 30 are worth 5 points each
 
 **Topic:** [[topic_geometria_piana|Plane geometry]]
-**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Metodo:** [[method_simmetria|Using symmetry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
 **Answer:** C
-[[Quesiti/src_kangourou_2001_student#q20|src_kangourou_2001_student__Q20]]
 
 
 
@@ -963,12 +975,12 @@ level: kangourou
 
 **Topic:** [[topic_geometria_piana|Plane geometry]]
 **Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
 **Answer:** D
-[[Quesiti/src_kangourou_2001_student#q21|src_kangourou_2001_student__Q21]]
 
 
 
-<span class="atom-split" id="q22" data-atom="q22" data-title="Quesito 22" data-tags="topic_combinatoria,method_congruenze,skill_conteggio_sistematico"></span>
+<span class="atom-split" id="q22" data-atom="q22" data-title="Quesito 22" data-tags="topic_combinatoria,method_congruenze,method_conteggio,skill_conteggio_sistematico,skill_riconoscimento_pattern"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -989,8 +1001,8 @@ level: kangourou
 > - **(E)** nessuno.
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
-**Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]]
-**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]], [[method_conteggio|Conteggio combinatorio]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** C
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1WrEJ0EHmPnkFJEJA37f-XTz35ZMJvHwY/view)
@@ -1012,10 +1024,10 @@ level: kangourou
 > - **(E)** none.
 
 **Topic:** [[topic_combinatoria|Combinatorics]]
-**Method:** [[method_congruenze|Modular arithmetic / congruences]]
-**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]], [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]], [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** C
-[[Quesiti/src_kangourou_2001_student#q22|src_kangourou_2001_student__Q22]]
 
 
 
@@ -1061,12 +1073,12 @@ level: kangourou
 **Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
 **Method:** [[method_congruenze|Modular arithmetic / congruences]]
 **Skill:** [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Answer:** E
-[[Quesiti/src_kangourou_2001_student#q23|src_kangourou_2001_student__Q23]]
 
 
 
-<span class="atom-split" id="q24" data-atom="q24" data-title="Quesito 24" data-tags="topic_aritmetica,method_congruenze,skill_casework_accurato"></span>
+<span class="atom-split" id="q24" data-atom="q24" data-title="Quesito 24" data-tags="topic_aritmetica,method_congruenze,method_casework,skill_casework_accurato,skill_conteggio_sistematico"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -1083,8 +1095,8 @@ level: kangourou
 > - **(E)** più di 4.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]]
-**Abilita:** [[skill_casework_accurato|Casework accurato]]
+**Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]], [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** B
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1WrEJ0EHmPnkFJEJA37f-XTz35ZMJvHwY/view)
@@ -1104,14 +1116,14 @@ level: kangourou
 > - **(E)** more than 4.
 
 **Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
-**Method:** [[method_congruenze|Modular arithmetic / congruences]]
-**Skill:** [[skill_casework_accurato|Careful case analysis]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]], [[method_casework|Case analysis]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]], [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Answer:** B
-[[Quesiti/src_kangourou_2001_student#q24|src_kangourou_2001_student__Q24]]
 
 
 
-<span class="atom-split" id="q25" data-atom="q25" data-title="Quesito 25" data-tags="topic_algebra,skill_stima"></span>
+<span class="atom-split" id="q25" data-atom="q25" data-title="Quesito 25" data-tags="topic_algebra,topic_aritmetica,skill_stima,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -1127,9 +1139,9 @@ level: kangourou
 > - **(D)** 28
 > - **(E)** 189.
 
-**Topic:** [[topic_algebra|Algebra]]
-**Abilita:** [[skill_stima|Stima e approssimazione]]
-**Area:** [[Algebra e Analisi]]
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Abilita:** [[skill_stima|Stima e approssimazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** D
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1WrEJ0EHmPnkFJEJA37f-XTz35ZMJvHwY/view)
 
@@ -1147,10 +1159,10 @@ level: kangourou
 > - **(D)** 28
 > - **(E)** 189.
 
-**Topic:** [[topic_algebra|Algebra]]
-**Skill:** [[skill_stima|Estimation and approximation]]
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Abilita:** [[skill_stima|Estimation and approximation]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Answer:** D
-[[Quesiti/src_kangourou_2001_student#q25|src_kangourou_2001_student__Q25]]
 
 
 
@@ -1196,8 +1208,8 @@ level: kangourou
 **Topic:** [[topic_logica|Logic, games, strategies]]
 **Method:** [[method_backward|Working backwards]]
 **Skill:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** C
-[[Quesiti/src_kangourou_2001_student#q26|src_kangourou_2001_student__Q26]]
 
 
 
@@ -1232,12 +1244,12 @@ level: kangourou
 
 **Topic:** [[topic_geometria_piana|Plane geometry]]
 **Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
 **Answer:** C
-[[Quesiti/src_kangourou_2001_student#q27|src_kangourou_2001_student__Q27]]
 
 
 
-<span class="atom-split" id="q28" data-atom="q28" data-title="Quesito 28" data-tags="topic_algebra,method_fattorizzazione,skill_manipolazione_algebrica"></span>
+<span class="atom-split" id="q28" data-atom="q28" data-title="Quesito 28" data-tags="topic_algebra,method_fattorizzazione,method_telescoping,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -1255,7 +1267,7 @@ level: kangourou
 > - **(E)** 6001.
 
 **Topic:** [[topic_algebra|Algebra]]
-**Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]], [[method_telescoping|Somme telescopiche]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Algebra e Analisi]]
 **Risposta:** B
@@ -1276,14 +1288,14 @@ level: kangourou
 > - **(E)** 6001.
 
 **Topic:** [[topic_algebra|Algebra]]
-**Method:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
-**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]], [[method_telescoping|Telescoping sums]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
 **Answer:** B
-[[Quesiti/src_kangourou_2001_student#q28|src_kangourou_2001_student__Q28]]
 
 
 
-<span class="atom-split" id="q29" data-atom="q29" data-title="Quesito 29" data-tags="topic_algebra,skill_casework_accurato"></span>
+<span class="atom-split" id="q29" data-atom="q29" data-title="Quesito 29" data-tags="topic_algebra,skill_casework_accurato,skill_modellizzazione"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -1304,7 +1316,7 @@ level: kangourou
 > - **(E)** 12.
 
 **Topic:** [[topic_algebra|Algebra]]
-**Abilita:** [[skill_casework_accurato|Casework accurato]]
+**Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
 **Area:** [[Algebra e Analisi]]
 **Risposta:** C
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/1WrEJ0EHmPnkFJEJA37f-XTz35ZMJvHwY/view)
@@ -1324,13 +1336,13 @@ level: kangourou
 > - **(E)** 12.
 
 **Topic:** [[topic_algebra|Algebra]]
-**Skill:** [[skill_casework_accurato|Careful case analysis]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]], [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
 **Answer:** C
-[[Quesiti/src_kangourou_2001_student#q29|src_kangourou_2001_student__Q29]]
 
 
 
-<span class="atom-split" id="q30" data-atom="q30" data-title="Quesito 30" data-tags="topic_geometria_piana,method_simmetria,skill_ragionamento_geometrico"></span>
+<span class="atom-split" id="q30" data-atom="q30" data-title="Quesito 30" data-tags="topic_geometria_piana,method_simmetria,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -1428,7 +1440,7 @@ level: kangourou
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_simmetria|Sfruttamento della simmetria]]
-**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 **Risposta:** C
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/1WrEJ0EHmPnkFJEJA37f-XTz35ZMJvHwY/view)
@@ -1527,7 +1539,7 @@ level: kangourou
 > Contest of 15 March 2001
 
 **Topic:** [[topic_geometria_piana|Plane geometry]]
-**Method:** [[method_simmetria|Using symmetry]]
-**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Metodo:** [[method_simmetria|Using symmetry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Geometria|Geometry]]
 **Answer:** C
-[[Quesiti/src_kangourou_2001_student#q30|src_kangourou_2001_student__Q30]]

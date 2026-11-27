@@ -10,7 +10,7 @@ level: JMO Yosen
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_aritmetica,method_fattorizzazione,method_casework,skill_riconoscimento_pattern,skill_manipolazione_algebrica"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_aritmetica,method_fattorizzazione,method_casework,skill_riconoscimento_pattern,skill_manipolazione_algebrica,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -21,8 +21,8 @@ level: JMO Yosen
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_casework|Casework]]
-**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
-**Area:** [[Aritmetica e Teoria dei Numeri]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Risposta:** 44
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1dMCin6mfKEWYPJJU3SDEXt5-U6UwypUB/view)
 
@@ -35,10 +35,12 @@ level: JMO Yosen
 > Per tre interi positivi $x, y, z$ il cui minimo comune multiplo è $2100$, trovare il minimo valore possibile di $x + y + z$.
 
 **Argomento:** [[topic_aritmetica|Aritmetica / Teoria dei numeri]]
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei numeri]]
 **Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]], [[method_casework|Analisi per casi]]
-**Abilità:** [[skill_riconoscimento_pattern|Riconoscimento di schemi]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di schemi]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 44
-[[Quesiti/src_jmo23yq_yosen#q01|src_jmo23yq_yosen__Q01]]
 
 
 
@@ -79,8 +81,8 @@ level: JMO Yosen
 **Argomento:** [[topic_aritmetica|Aritmetica / Teoria dei numeri]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]], [[method_coordinate|Metodo delle coordinate]]
 **Abilità:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 87, 174
-[[Quesiti/src_jmo23yq_yosen#q02|src_jmo23yq_yosen__Q02]]
 
 
 
@@ -93,7 +95,7 @@ level: JMO Yosen
 
 > On a circle $O$ of radius $1$, points $A_1, A_2, A_3, A_4, A_5$ lie in this order so that $\angle A_5 A_2 A_4 = \angle A_1 A_3 A_5 = \angle A_2 A_4 A_1 = \angle A_3 A_5 A_2 = \angle A_4 A_1 A_3 = 30^\circ$. Let $B_1$ be the intersection of $A_2 A_4$ and $A_3 A_5$, $B_2$ the intersection of $A_3 A_5$ and $A_4 A_1$, $B_3$ the intersection of $A_4 A_1$ and $A_5 A_2$, $B_4$ the intersection of $A_5 A_2$ and $A_1 A_3$, and $B_5$ the intersection of $A_1 A_3$ and $A_2 A_4$. Find the area of the pentagon $B_1 B_2 B_3 B_4 B_5$.
 
-![[src_jmo23yq_yosen__q03.png]]
+![[src_jmo23yq_yosen__Q03.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometria]]
 **Metodo:** [[method_trigonometria|Trigonometria]], [[method_simmetria|Simmetria]]
@@ -110,17 +112,17 @@ level: JMO Yosen
 
 > Su una circonferenza $O$ di raggio $1$, i punti $A_1, A_2, A_3, A_4, A_5$ stanno in quest'ordine in modo che $\angle A_5 A_2 A_4 = \angle A_1 A_3 A_5 = \angle A_2 A_4 A_1 = \angle A_3 A_5 A_2 = \angle A_4 A_1 A_3 = 30^\circ$. Sia $B_1$ l'intersezione di $A_2 A_4$ e $A_3 A_5$, $B_2$ l'intersezione di $A_3 A_5$ e $A_4 A_1$, $B_3$ l'intersezione di $A_4 A_1$ e $A_5 A_2$, $B_4$ l'intersezione di $A_5 A_2$ e $A_1 A_3$, e $B_5$ l'intersezione di $A_1 A_3$ e $A_2 A_4$. Trovare l'area del pentagono $B_1 B_2 B_3 B_4 B_5$.
 
-![[src_jmo23yq_yosen__q03.png]]
+![[src_jmo23yq_yosen__Q03.png]]
 
 **Argomento:** [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometria]]
 **Metodo:** [[method_trigonometria|Tecniche trigonometriche]], [[method_simmetria|Sfruttamento della simmetria]]
 **Abilità:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
 **Risposta:** $\dfrac{\sqrt{3}}{6}$
-[[Quesiti/src_jmo23yq_yosen#q03|src_jmo23yq_yosen__Q03]]
 
 
 
-<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_algebra,method_simmetria,skill_manipolazione_algebrica"></span>
+<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_algebra,method_simmetria,skill_manipolazione_algebrica,skill_riconoscimento_pattern"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -131,8 +133,8 @@ level: JMO Yosen
 
 **Topic:** [[topic_algebra|Algebra]]
 **Metodo:** [[method_simmetria|Simmetria]]
-**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
-**Area:** [[Algebra e Analisi]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
 **Risposta:** 6696
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1dMCin6mfKEWYPJJU3SDEXt5-U6UwypUB/view)
 
@@ -145,10 +147,12 @@ level: JMO Yosen
 > Nel polinomio $(x+1)^3 (x+2)^3 (x+3)^3$, sia $a_k$ il coefficiente di $x^k$. Trovare il valore di $a_0 + a_2 + a_4 + a_6$.
 
 **Argomento:** [[topic_algebra|Algebra]]
+
+**Topic:** [[topic_algebra|Algebra]]
 **Metodo:** [[method_simmetria|Sfruttamento della simmetria]]
-**Abilità:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Algebra e Analisi]]
 **Risposta:** 6696
-[[Quesiti/src_jmo23yq_yosen#q04|src_jmo23yq_yosen__Q04]]
 
 
 
@@ -179,12 +183,12 @@ level: JMO Yosen
 **Argomento:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_trigonometria|Tecniche trigonometriche]]
 **Abilità:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Geometria]]
 **Risposta:** $\sqrt[3]{\dfrac{2}{9}}$ times
-[[Quesiti/src_jmo23yq_yosen#q05|src_jmo23yq_yosen__Q05]]
 
 
 
-<span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_combinatoria,method_casework,method_conteggio,skill_conteggio_sistematico,skill_casework_accurato"></span>
+<span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_combinatoria,method_casework,method_conteggio,skill_conteggio_sistematico,skill_casework_accurato,skill_modellizzazione"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -195,8 +199,8 @@ level: JMO Yosen
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]]
-**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]]
-**Area:** [[Combinatoria, Logica e Probabilita]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]], [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Risposta:** 14017
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1dMCin6mfKEWYPJJU3SDEXt5-U6UwypUB/view)
 
@@ -209,14 +213,16 @@ level: JMO Yosen
 > Ci sono due tipi di caramelle, $A$ e $B$, con $24$ pezzi di ciascuno. Li distribuiamo tutti fra tre persone $X, Y, Z$, senza avanzi. Tra queste distribuzioni, quante sono quelle per cui NON esistono due persone che soddisfano la condizione seguente? Condizione: una delle due riceve $a$ pezzi di $A$ e $b$ pezzi di $B$, l'altra riceve $a'$ pezzi di $A$ e $b'$ pezzi di $B$, e valgono sia $a \le a'$ sia $b \le b'$.
 
 **Argomento:** [[topic_combinatoria|Combinatoria]]
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_casework|Analisi per casi]], [[method_conteggio|Conteggio combinatorio]]
-**Abilità:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Analisi per casi accurata]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Analisi per casi accurata]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 14017
-[[Quesiti/src_jmo23yq_yosen#q06|src_jmo23yq_yosen__Q06]]
 
 
 
-<span class="atom-split" id="q07" data-atom="q07" data-title="Quesito 7" data-tags="topic_algebra,topic_aritmetica,topic_combinatoria,method_casework,method_conteggio,skill_manipolazione_algebrica,skill_conteggio_sistematico"></span>
+<span class="atom-split" id="q07" data-atom="q07" data-title="Quesito 7" data-tags="topic_algebra,topic_aritmetica,topic_combinatoria,method_casework,method_conteggio,method_fattorizzazione,skill_manipolazione_algebrica,skill_conteggio_sistematico,skill_riconoscimento_pattern"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -227,9 +233,9 @@ level: JMO Yosen
 > $$x_1^2 + \cdots + x_{25}^2 = 2 + x_1 x_2 + x_2 x_3 + \cdots + x_{24} x_{25}?$$
 
 **Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
-**Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]]
-**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]]
-**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+**Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]], [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Risposta:** 29900
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1dMCin6mfKEWYPJJU3SDEXt5-U6UwypUB/view)
 
@@ -244,10 +250,12 @@ level: JMO Yosen
 > $$x_1^2 + \cdots + x_{25}^2 = 2 + x_1 x_2 + x_2 x_3 + \cdots + x_{24} x_{25}?$$
 
 **Argomento:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei numeri]], [[topic_combinatoria|Combinatoria]]
-**Metodo:** [[method_casework|Analisi per casi]], [[method_conteggio|Conteggio combinatorio]]
-**Abilità:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casework|Analisi per casi]], [[method_conteggio|Conteggio combinatorio]], [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 29900
-[[Quesiti/src_jmo23yq_yosen#q07|src_jmo23yq_yosen__Q07]]
 
 
 
@@ -278,8 +286,8 @@ level: JMO Yosen
 **Argomento:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_coordinate|Metodo delle coordinate]], [[method_trigonometria|Tecniche trigonometriche]]
 **Abilità:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
 **Risposta:** 12
-[[Quesiti/src_jmo23yq_yosen#q08|src_jmo23yq_yosen__Q08]]
 
 
 
@@ -310,8 +318,8 @@ level: JMO Yosen
 **Argomento:** [[topic_aritmetica|Aritmetica / Teoria dei numeri]]
 **Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]], [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
 **Abilità:** [[skill_riconoscimento_pattern|Riconoscimento di schemi]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 1, 3, 9, 27, 37, 67
-[[Quesiti/src_jmo23yq_yosen#q09|src_jmo23yq_yosen__Q09]]
 
 
 
@@ -342,12 +350,12 @@ level: JMO Yosen
 **Argomento:** [[topic_aritmetica|Aritmetica / Teoria dei numeri]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_invarianti|Invarianti / monovarianti]], [[method_casi_conteggio|Conteggio per casi]], [[method_conteggio|Conteggio combinatorio]]
 **Abilità:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di schemi]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 793
-[[Quesiti/src_jmo23yq_yosen#q10|src_jmo23yq_yosen__Q10]]
 
 
 
-<span class="atom-split" id="q11" data-atom="q11" data-title="Quesito 11" data-tags="topic_combinatoria,topic_geometria_solida,method_simmetria,method_casework,skill_astrazione,skill_conteggio_sistematico,skill_ragionamento_geometrico"></span>
+<span class="atom-split" id="q11" data-atom="q11" data-title="Quesito 11" data-tags="topic_combinatoria,topic_geometria_solida,method_simmetria,method_casework,skill_astrazione,skill_conteggio_sistematico,skill_ragionamento_geometrico,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -358,8 +366,8 @@ level: JMO Yosen
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_geometria_solida|Geometria solida]]
 **Metodo:** [[method_simmetria|Simmetria]], [[method_casework|Casework]]
-**Abilita:** [[skill_astrazione|Astrazione]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
-**Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
+**Abilita:** [[skill_astrazione|Astrazione]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Geometria|Geometry]]
 **Risposta:** $2^{(n+1)^3 - 1} + 2^{3n} + 2$
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1dMCin6mfKEWYPJJU3SDEXt5-U6UwypUB/view)
 
@@ -372,14 +380,16 @@ level: JMO Yosen
 > Sia $n$ un intero positivo. Nello spazio $xyz$, si consideri la regione $0 \le x, y, z \le n$, e si chiami spigolo reticolare un segmento di lunghezza $1$ che unisce due punti del reticolo. Si supponga che ogni spigolo reticolare riceva un orientamento (per uno spigolo reticolare $AB$, o $A \to B$ o $B \to A$). Ciascuno degli $4$ lati di un quadrato unitario è uno spigolo reticolare; un quadrato unitario i cui $4$ spigoli orientati lo percorrono (formano un ciclo orientato) si chiama quadrato reticolare. Due quadrati reticolari si considerano congruenti quando, per rotazione e traslazione, si possono far coincidere gli orientamenti di tutti i loro spigoli. In quanti modi si possono orientare gli spigoli reticolari in modo che tutti i quadrati reticolari siano congruenti fra loro?
 
 **Argomento:** [[topic_combinatoria|Combinatoria]], [[topic_geometria_solida|Geometria solida]]
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_geometria_solida|Geometria solida]]
 **Metodo:** [[method_simmetria|Sfruttamento della simmetria]], [[method_casework|Analisi per casi]]
-**Abilità:** [[skill_astrazione|Astrazione / generalizzazione]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Abilita:** [[skill_astrazione|Astrazione / generalizzazione]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 **Risposta:** $2^{(n+1)^3 - 1} + 2^{3n} + 2$
-[[Quesiti/src_jmo23yq_yosen#q11|src_jmo23yq_yosen__Q11]]
 
 
 
-<span class="atom-split" id="q12" data-atom="q12" data-title="Quesito 12" data-tags="topic_algebra,topic_disuguaglianze,method_telescoping,method_ricorsione,method_disuguaglianze,skill_manipolazione_algebrica,skill_astrazione"></span>
+<span class="atom-split" id="q12" data-atom="q12" data-title="Quesito 12" data-tags="topic_algebra,topic_disuguaglianze,topic_funzionali,method_telescoping,method_ricorsione,method_disuguaglianze,skill_manipolazione_algebrica,skill_astrazione,skill_riconoscimento_pattern"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -390,10 +400,10 @@ level: JMO Yosen
 > $$\frac{a_x a_{x+1} + a_{x+1} a_{x+2} + \cdots + a_{y-1} a_y}{a_x a_y} \le c$$
 > holds.
 
-**Topic:** [[topic_algebra|Algebra]], [[topic_disuguaglianze|Disuguaglianze]]
+**Topic:** [[topic_algebra|Algebra]], [[topic_disuguaglianze|Disuguaglianze]], [[topic_funzionali|Functional equations / sequences]]
 **Metodo:** [[method_telescoping|Telescoping]], [[method_ricorsione|Ricorsione]], [[method_disuguaglianze|Disuguaglianze]]
-**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]]
-**Area:** [[Algebra e Analisi]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]], [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
 **Risposta:** $\dfrac{2}{\sqrt{\,4 - \left(\dfrac{a_2}{a_1} + \dfrac{a_2}{a_3}\right)^2\,}}$
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1dMCin6mfKEWYPJJU3SDEXt5-U6UwypUB/view)
 
@@ -410,7 +420,9 @@ level: JMO Yosen
 > vale.
 
 **Argomento:** [[topic_algebra|Algebra]], [[topic_disuguaglianze|Disuguaglianze]]
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_disuguaglianze|Disuguaglianze]], [[topic_funzionali|Equazioni funzionali / successioni]]
 **Metodo:** [[method_telescoping|Somme telescopiche]], [[method_ricorsione|Ricorsione]], [[method_disuguaglianze|Disuguaglianze classiche]]
-**Abilità:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione / generalizzazione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione / generalizzazione]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Algebra e Analisi]]
 **Risposta:** $\dfrac{2}{\sqrt{\,4 - \left(\dfrac{a_2}{a_1} + \dfrac{a_2}{a_3}\right)^2\,}}$
-[[Quesiti/src_jmo23yq_yosen#q12|src_jmo23yq_yosen__Q12]]

@@ -10,7 +10,7 @@ level: Olimpiade Polacca Round 1
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_aritmetica,method_fattorizzazione,method_casework,skill_manipolazione_algebrica,skill_riconoscimento_pattern"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_aritmetica,method_fattorizzazione,method_casework,method_congruenze,skill_manipolazione_algebrica,skill_riconoscimento_pattern,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -20,9 +20,9 @@ level: Olimpiade Polacca Round 1
 > Determine all nonnegative integers $n$ for which $2^n + 105$ is a perfect square.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_casework|Casework]]
-**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
-**Area:** [[Aritmetica e Teoria dei Numeri]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_casework|Casework]], [[method_congruenze|Modular arithmetic / congruences]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Bnj0QbbihV4J1HQA-7Z_Ju5uKbKEJ1wj/view)
 
 
@@ -33,15 +33,15 @@ level: Olimpiade Polacca Round 1
 
 > Determinare tutti gli interi non negativi $n$ per cui $2^n + 105$ è un quadrato perfetto.
 
+
 **Topic:** [[topic_aritmetica|Aritmetica e teoria dei numeri]]
-**Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_casework|Analisi per casi]]
-**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di schemi]]
-
-[[Quesiti/src_pol_2006_r1#q01|src_pol_2006_r1__Q01]]
-
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_casework|Analisi per casi]], [[method_congruenze|Aritmetica modulare / congruenze]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di schemi]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
 
 
-<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_algebra,topic_aritmetica,method_casework,method_estremalita,skill_manipolazione_algebrica,skill_stima"></span>
+
+<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_algebra,topic_aritmetica,method_casework,method_estremalita,skill_manipolazione_algebrica,skill_stima,skill_modellizzazione"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -52,8 +52,8 @@ level: Olimpiade Polacca Round 1
 
 **Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_casework|Casework]], [[method_estremalita|Estremalità]]
-**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]]
-**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]], [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Bnj0QbbihV4J1HQA-7Z_Ju5uKbKEJ1wj/view)
 
 
@@ -64,11 +64,11 @@ level: Olimpiade Polacca Round 1
 
 > Risolvere l'equazione $\sqrt[5]{x} = \left\lceil \sqrt[5]{3x} \right\rceil$ nei numeri reali non negativi.
 
+
 **Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica e teoria dei numeri]]
 **Metodo:** [[method_casework|Analisi per casi]], [[method_estremalita|Estremalità]]
-**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]]
-
-[[Quesiti/src_pol_2006_r1#q02|src_pol_2006_r1__Q02]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
+**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 
 
 
@@ -98,12 +98,11 @@ level: Olimpiade Polacca Round 1
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_trigonometria|Trigonometria]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
-
-[[Quesiti/src_pol_2006_r1#q03|src_pol_2006_r1__Q03]]
-
+**Area:** [[Geometria]]
 
 
-<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_combinatoria,method_estremalita,method_conteggio,method_casework,skill_conteggio_sistematico,skill_modellizzazione"></span>
+
+<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_combinatoria,method_estremalita,method_conteggio,method_casework,method_cassetti,skill_conteggio_sistematico,skill_modellizzazione"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -113,9 +112,9 @@ level: Olimpiade Polacca Round 1
 > The participants of a mathematical competition were solving six problems. Each problem was marked with 6, 5, 2 or 0 points. It turned out that for every two participants $A$ and $B$ there are two problems, such that on each of them $A$ and $B$ obtained different scores. Find the largest possible number of participants for which this is possible.
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
-**Metodo:** [[method_estremalita|Estremalità]], [[method_conteggio|Conteggio]], [[method_casework|Casework]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_conteggio|Conteggio]], [[method_casework|Casework]], [[method_cassetti|Pigeonhole principle]]
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione]]
-**Area:** [[Combinatoria, Logica e Probabilita]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Bnj0QbbihV4J1HQA-7Z_Ju5uKbKEJ1wj/view)
 
 
@@ -126,11 +125,11 @@ level: Olimpiade Polacca Round 1
 
 > I partecipanti a una gara di matematica hanno affrontato sei problemi. Ogni problema è stato valutato con 6, 5, 2 o 0 punti. Per ogni coppia di partecipanti $A$ e $B$ esistono due problemi su ciascuno dei quali $A$ e $B$ hanno ottenuto punteggi diversi. Trovare il massimo numero possibile di partecipanti per cui ciò può accadere.
 
-**Topic:** [[topic_combinatoria|Combinatoria]]
-**Metodo:** [[method_estremalita|Estremalità]], [[method_conteggio|Conteggio]], [[method_casework|Analisi per casi]]
-**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione]]
 
-[[Quesiti/src_pol_2006_r1#q04|src_pol_2006_r1__Q04]]
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_conteggio|Conteggio]], [[method_casework|Analisi per casi]], [[method_cassetti|Principio dei cassetti]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
 
 
 
@@ -160,8 +159,7 @@ level: Olimpiade Polacca Round 1
 **Topic:** [[topic_funzionali|Equazioni funzionali e successioni]], [[topic_algebra|Algebra]]
 **Metodo:** [[method_casework|Analisi per casi]], [[method_simmetria|Simmetria]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Analisi accurata dei casi]]
-
-[[Quesiti/src_pol_2006_r1#q05|src_pol_2006_r1__Q05]]
+**Area:** [[Algebra e Analisi]]
 
 
 
@@ -191,8 +189,7 @@ level: Olimpiade Polacca Round 1
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_trigonometria|Trigonometria]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
-
-[[Quesiti/src_pol_2006_r1#q06|src_pol_2006_r1__Q06]]
+**Area:** [[Geometria]]
 
 
 
@@ -222,8 +219,7 @@ level: Olimpiade Polacca Round 1
 **Topic:** [[topic_aritmetica|Aritmetica e teoria dei numeri]]
 **Metodo:** [[method_congruenze|Congruenze]], [[method_fattorizzazione|Fattorizzazione]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di schemi]]
-
-[[Quesiti/src_pol_2006_r1#q07|src_pol_2006_r1__Q07]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
 
 
 
@@ -253,12 +249,11 @@ level: Olimpiade Polacca Round 1
 **Topic:** [[topic_geometria_solida|Geometria solida]]
 **Metodo:** [[method_estremalita|Estremalità]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_stima|Stima]]
-
-[[Quesiti/src_pol_2006_r1#q08|src_pol_2006_r1__Q08]]
-
+**Area:** [[Geometria]]
 
 
-<span class="atom-split" id="q09" data-atom="q09" data-title="Quesito 9" data-tags="topic_combinatoria,topic_aritmetica,method_conteggio,method_induzione,skill_conteggio_sistematico,skill_riconoscimento_pattern"></span>
+
+<span class="atom-split" id="q09" data-atom="q09" data-title="Quesito 9" data-tags="topic_combinatoria,topic_aritmetica,method_conteggio,method_induzione,method_congruenze,skill_conteggio_sistematico,skill_riconoscimento_pattern"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -268,9 +263,9 @@ level: Olimpiade Polacca Round 1
 > Let $k_1 < k_2 < \cdots < k_m$ be nonnegative integers. Define $n = 2^{k_1} + 2^{k_2} + \cdots + 2^{k_m}$. Find the number of odd coefficients of the polynomial $P(x) = (x+1)^n$.
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_conteggio|Conteggio]], [[method_induzione|Induzione]]
+**Metodo:** [[method_conteggio|Conteggio]], [[method_induzione|Induzione]], [[method_congruenze|Modular arithmetic / congruences]]
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
-**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Bnj0QbbihV4J1HQA-7Z_Ju5uKbKEJ1wj/view)
 
 
@@ -281,11 +276,11 @@ level: Olimpiade Polacca Round 1
 
 > Siano $k_1 < k_2 < \cdots < k_m$ interi non negativi. Si ponga $n = 2^{k_1} + 2^{k_2} + \cdots + 2^{k_m}$. Trovare il numero dei coefficienti dispari del polinomio $P(x) = (x+1)^n$.
 
-**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica e teoria dei numeri]]
-**Metodo:** [[method_conteggio|Conteggio]], [[method_induzione|Induzione]]
-**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di schemi]]
 
-[[Quesiti/src_pol_2006_r1#q09|src_pol_2006_r1__Q09]]
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica e teoria dei numeri]]
+**Metodo:** [[method_conteggio|Conteggio]], [[method_induzione|Induzione]], [[method_congruenze|Aritmetica modulare / congruenze]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di schemi]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 
 
 
@@ -315,8 +310,7 @@ level: Olimpiade Polacca Round 1
 **Topic:** [[topic_disuguaglianze|Disuguaglianze]], [[topic_algebra|Algebra]]
 **Metodo:** [[method_disuguaglianze|Disuguaglianze]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
-
-[[Quesiti/src_pol_2006_r1#q10|src_pol_2006_r1__Q10]]
+**Area:** [[Algebra e Analisi]]
 
 
 
@@ -346,12 +340,11 @@ level: Olimpiade Polacca Round 1
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_simmetria|Simmetria]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
-
-[[Quesiti/src_pol_2006_r1#q11|src_pol_2006_r1__Q11]]
-
+**Area:** [[Geometria]]
 
 
-<span class="atom-split" id="q12" data-atom="q12" data-title="Quesito 12" data-tags="topic_aritmetica,topic_combinatoria,method_invarianti,method_estremalita,skill_manipolazione_algebrica,skill_riconoscimento_pattern"></span>
+
+<span class="atom-split" id="q12" data-atom="q12" data-title="Quesito 12" data-tags="topic_aritmetica,topic_combinatoria,topic_funzionali,method_invarianti,method_estremalita,skill_manipolazione_algebrica,skill_riconoscimento_pattern"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -362,10 +355,10 @@ level: Olimpiade Polacca Round 1
 > $$a_{i+1} = \begin{cases} a_i/2 & \text{if } a_i \text{ is even,} \\ 3a_i - 1 & \text{if } a_i \text{ is odd,} \end{cases} \quad i = 0, 1, 2, \ldots$$
 > Prove that if $n$ is a natural number such that $a_n = a_0$, then $2^n > a_0$.
 
-**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]], [[topic_funzionali|Functional equations / sequences]]
 **Metodo:** [[method_invarianti|Invarianti]], [[method_estremalita|Estremalità]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
-**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Algebra e Analisi|Algebra and analysis]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Bnj0QbbihV4J1HQA-7Z_Ju5uKbKEJ1wj/view)
 
 
@@ -380,8 +373,8 @@ level: Olimpiade Polacca Round 1
 >
 > Dimostrare che, se $n$ è un numero naturale tale che $a_n = a_0$, allora $2^n > a_0$.
 
-**Topic:** [[topic_aritmetica|Aritmetica e teoria dei numeri]], [[topic_combinatoria|Combinatoria]]
+
+**Topic:** [[topic_aritmetica|Aritmetica e teoria dei numeri]], [[topic_combinatoria|Combinatoria]], [[topic_funzionali|Equazioni funzionali / successioni]]
 **Metodo:** [[method_invarianti|Invarianti]], [[method_estremalita|Estremalità]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di schemi]]
-
-[[Quesiti/src_pol_2006_r1#q12|src_pol_2006_r1__Q12]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]], [[Algebra e Analisi]]

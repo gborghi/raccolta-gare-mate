@@ -10,7 +10,7 @@ level: OBM Nível 3
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_aritmetica,topic_algebra,method_congruenze,method_fattorizzazione,skill_manipolazione_algebrica,skill_riconoscimento_pattern"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_aritmetica,topic_algebra,method_congruenze,method_fattorizzazione,method_casework,skill_manipolazione_algebrica,skill_riconoscimento_pattern,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -20,9 +20,9 @@ level: OBM Nível 3
 > Find the smallest positive prime that divides $x^2 + 5x + 23$ for some integer $x$.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
-**Metodo:** [[method_congruenze|Congruenze]], [[method_fattorizzazione|Fattorizzazione]]
-**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
-**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
+**Metodo:** [[method_congruenze|Congruenze]], [[method_fattorizzazione|Fattorizzazione]], [[method_casework|Case analysis]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Algebra e Analisi|Algebra and analysis]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1i205CQ0pRYAAjaIGuoIGDye_zHh-Y4hk/view)
 
 
@@ -33,12 +33,11 @@ level: OBM Nível 3
 
 > Trovare il più piccolo numero primo positivo che divide $x^2 + 5x + 23$ per qualche numero intero $x$.
 
-**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
-**Metodo:** [[method_congruenze|Congruenze]], [[method_fattorizzazione|Fattorizzazione]]
-**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
-**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 
-[[Quesiti/src_obm_2003_n3_f3#q01|src_obm_2003_n3_f3__Q01]]
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_congruenze|Congruenze]], [[method_fattorizzazione|Fattorizzazione]], [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 
 
 
@@ -74,8 +73,6 @@ level: OBM Nível 3
 **Abilita:** [[skill_astrazione|Astrazione]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Algebra e Analisi]]
 
-[[Quesiti/src_obm_2003_n3_f3#q02|src_obm_2003_n3_f3__Q02]]
-
 
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_geometria_piana,method_trigonometria,method_coordinate,skill_ragionamento_geometrico,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
@@ -105,8 +102,6 @@ level: OBM Nível 3
 **Metodo:** [[method_trigonometria|Trigonometria]], [[method_coordinate|Coordinate]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Geometria]]
-
-[[Quesiti/src_obm_2003_n3_f3#q03|src_obm_2003_n3_f3__Q03]]
 
 
 
@@ -138,11 +133,9 @@ level: OBM Nível 3
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_stima|Stima]], [[skill_modellizzazione|Modellizzazione]]
 **Area:** [[Geometria]]
 
-[[Quesiti/src_obm_2003_n3_f3#q04|src_obm_2003_n3_f3__Q04]]
 
 
-
-<span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_insiemi_funzioni,topic_disuguaglianze,method_backward,method_estremalita,skill_manipolazione_algebrica,skill_astrazione,skill_lettura_attenta"></span>
+<span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_insiemi_funzioni,topic_disuguaglianze,topic_funzionali,method_backward,method_estremalita,method_disuguaglianze,skill_manipolazione_algebrica,skill_astrazione,skill_lettura_attenta"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -156,10 +149,10 @@ level: OBM Nível 3
 > \end{enumerate}
 > Prove that there exists $x_0 \in (0,+\infty)$ such that $f(x_0) < 0$.
 
-**Topic:** [[topic_insiemi_funzioni|Insiemi e funzioni]], [[topic_disuguaglianze|Disuguaglianze]]
-**Metodo:** [[method_backward|Backward]], [[method_estremalita|Estremalità]]
+**Topic:** [[topic_insiemi_funzioni|Insiemi e funzioni]], [[topic_disuguaglianze|Disuguaglianze]], [[topic_funzionali|Functional equations / sequences]]
+**Metodo:** [[method_backward|Backward]], [[method_estremalita|Estremalità]], [[method_disuguaglianze|Classical inequalities]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]], [[skill_lettura_attenta|Lettura attenta]]
-**Area:** [[Algebra e Analisi]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1i205CQ0pRYAAjaIGuoIGDye_zHh-Y4hk/view)
 
 
@@ -174,16 +167,15 @@ level: OBM Nível 3
 > \end{enumerate}
 > Dimostrare che esiste $x_0 \in (0,+\infty)$ tale che $f(x_0) < 0$.
 
-**Topic:** [[topic_insiemi_funzioni|Insiemi e funzioni]], [[topic_disuguaglianze|Disuguaglianze]]
-**Metodo:** [[method_backward|Backward]], [[method_estremalita|Estremalità]]
+
+**Topic:** [[topic_insiemi_funzioni|Insiemi e funzioni]], [[topic_disuguaglianze|Disuguaglianze]], [[topic_funzionali|Equazioni funzionali / successioni]]
+**Metodo:** [[method_backward|Backward]], [[method_estremalita|Estremalità]], [[method_disuguaglianze|Disuguaglianze classiche]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Algebra e Analisi]]
 
-[[Quesiti/src_obm_2003_n3_f3#q05|src_obm_2003_n3_f3__Q05]]
 
 
-
-<span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_combinatoria,method_conteggio,method_doppio_conteggio,method_estremalita,skill_astrazione,skill_conteggio_sistematico,skill_modellizzazione"></span>
+<span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_combinatoria,method_conteggio,method_doppio_conteggio,method_estremalita,method_grafi,skill_astrazione,skill_conteggio_sistematico,skill_modellizzazione"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -197,9 +189,9 @@ level: OBM Nível 3
 > **Observation:** A graph with vertex set $V$ is a pair $(V, E)$ where $E$ is a set of subsets of $V$, each with exactly two elements. A subset $\{p, q\}$ is called an *edge*; we say this edge connects vertices $p$ and $q$.
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
-**Metodo:** [[method_conteggio|Conteggio]], [[method_doppio_conteggio|Doppio conteggio]], [[method_estremalita|Estremalità]]
+**Metodo:** [[method_conteggio|Conteggio]], [[method_doppio_conteggio|Doppio conteggio]], [[method_estremalita|Estremalità]], [[method_grafi|Graph theory]]
 **Abilita:** [[skill_astrazione|Astrazione]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione]]
-**Area:** [[Combinatoria, Logica e Probabilita]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1i205CQ0pRYAAjaIGuoIGDye_zHh-Y4hk/view)
 
 
@@ -214,9 +206,8 @@ level: OBM Nível 3
 >
 > **Osservazione:** Un grafo con insieme dei vertici $V$ è una coppia $(V, E)$ in cui $E$ è un insieme di sottoinsiemi di $V$, ciascuno dei quali ha esattamente due elementi. Un sottoinsieme $\{p, q\}$ è chiamato *arco*; si dice che questo arco collega i vertici $p$ e $q$.
 
+
 **Topic:** [[topic_combinatoria|Combinatoria]]
-**Metodo:** [[method_conteggio|Conteggio]], [[method_doppio_conteggio|Doppio conteggio]], [[method_estremalita|Estremalità]]
+**Metodo:** [[method_conteggio|Conteggio]], [[method_doppio_conteggio|Doppio conteggio]], [[method_estremalita|Estremalità]], [[method_grafi|Teoria dei grafi]]
 **Abilita:** [[skill_astrazione|Astrazione]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
-
-[[Quesiti/src_obm_2003_n3_f3#q06|src_obm_2003_n3_f3__Q06]]

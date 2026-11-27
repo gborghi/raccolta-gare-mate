@@ -38,8 +38,6 @@ level: OBM Nível 3
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 
-[[Quesiti/src_obm_2013_n3_f2#q01|src_obm_2013_n3_f2__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_combinatoria,method_colorazione,method_estremalita,skill_ragionamento_geometrico,skill_conteggio_sistematico,skill_astrazione"></span>
@@ -51,7 +49,7 @@ level: OBM Nível 3
 
 > A *bishop* is a chess piece that can move diagonally any number of squares in any direction. In the figure below, the possible directions of movement of the bishop from a given square of the board are indicated. We say that two bishops *attack* each other when one is on a square reachable by the other in a single move. What is the maximum number of bishops that can be placed on an $8 \times 8$ board such that no two bishops are attacking each other?
 
-![[src_obm_2013_n3_f2__q02.png]]
+![[src_obm_2013_n3_f2__Q02.png]]
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_colorazione|Colorazione]], [[method_estremalita|Estremalità]]
@@ -67,18 +65,16 @@ level: OBM Nível 3
 
 > Un *alfiere* è una pedina degli scacchi che può muoversi in diagonale di qualsiasi numero di caselle in qualsiasi direzione. Nella figura sottostante sono indicate le possibili direzioni di movimento dell'alfiere da una data casella della scacchiera. Diciamo che due alfieri *si attaccano* a vicenda quando uno si trova su una casella raggiungibile dall'altro in una singola mossa. Qual è il numero massimo di alfieri che si possono collocare su una scacchiera $8 \times 8$ in modo che nessun due alfieri si attacchino a vicenda?
 
-![[src_obm_2013_n3_f2__q02.png]]
+![[src_obm_2013_n3_f2__Q02.png]]
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_colorazione|Colorazione]], [[method_estremalita|Estremalità]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_astrazione|Astrazione]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 
-[[Quesiti/src_obm_2013_n3_f2#q02|src_obm_2013_n3_f2__Q02]]
 
 
-
-<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_algebra,topic_aritmetica,method_telescoping,skill_manipolazione_algebrica,skill_riconoscimento_pattern,skill_astrazione"></span>
+<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_algebra,topic_aritmetica,method_telescoping,method_fattorizzazione,skill_manipolazione_algebrica,skill_riconoscimento_pattern,skill_astrazione"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -94,9 +90,9 @@ level: OBM Nível 3
 > is of the form $A - \dfrac{\pi^2}{B}$, where $A$ and $B$ are positive integers. Determine the value of $A + B$.
 
 **Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_telescoping|Telescoping]]
+**Metodo:** [[method_telescoping|Telescoping]], [[method_fattorizzazione|Factorisation / algebraic manipulation]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_astrazione|Astrazione]]
-**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1MRGl42YVamXq38vt9yx6-YSmKQrAD_q6/view)
 
 
@@ -113,16 +109,15 @@ level: OBM Nível 3
 > $$\sum_{n=1}^{\infty} \frac{1}{n(n+1)^2} = \frac{1}{1 \cdot 2^2} + \frac{1}{2 \cdot 3^2} + \frac{1}{3 \cdot 4^2} + \cdots$$
 > è della forma $A - \dfrac{\pi^2}{B}$, dove $A$ e $B$ sono interi positivi. Determinare il valore di $A + B$.
 
+
 **Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_telescoping|Telescoping]]
+**Metodo:** [[method_telescoping|Telescoping]], [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_astrazione|Astrazione]]
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 
-[[Quesiti/src_obm_2013_n3_f2#q03|src_obm_2013_n3_f2__Q03]]
 
 
-
-<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_combinatoria,topic_aritmetica,method_doppio_conteggio,method_fattorizzazione,skill_conteggio_sistematico,skill_manipolazione_algebrica,skill_ragionamento_geometrico"></span>
+<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_combinatoria,topic_aritmetica,method_doppio_conteggio,method_fattorizzazione,method_estremalita,skill_conteggio_sistematico,skill_manipolazione_algebrica,skill_ragionamento_geometrico"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -132,9 +127,9 @@ level: OBM Nível 3
 > Let $A = \{1, 2, 3, \ldots, 20\}$ be the set of the first 20 positive integers. For each subset $X$ of 15 elements of $A$, we compute the product $p(X)$ of its elements. For example, $p(\{1, 2, 3, \ldots, 15\}) = 1 \cdot 2 \cdot 3 \cdots 15 = 15!$. What is the largest divisor common to all products $p(X)$ obtained from all $\binom{20}{15}$ subsets of 15 elements of $A$?
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_doppio_conteggio|Doppio conteggio]], [[method_fattorizzazione|Fattorizzazione]]
+**Metodo:** [[method_doppio_conteggio|Doppio conteggio]], [[method_fattorizzazione|Fattorizzazione]], [[method_estremalita|Extremal principle]]
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
-**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1MRGl42YVamXq38vt9yx6-YSmKQrAD_q6/view)
 
 
@@ -145,12 +140,11 @@ level: OBM Nível 3
 
 > Sia $A = \{1, 2, 3, \ldots, 20\}$ l'insieme dei primi 20 numeri interi positivi. Per ciascun sottoinsieme $X$ di 15 elementi di $A$, calcoliamo il prodotto $p(X)$ dei suoi elementi. Ad esempio, $p(\{1, 2, 3, \ldots, 15\}) = 1 \cdot 2 \cdot 3 \cdots 15 = 15!$. Qual è il più grande divisore comune a tutti i prodotti $p(X)$ ottenuti da tutti i sottoinsiemi $\binom{20}{15}$ di 15 elementi di $A$?
 
+
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_doppio_conteggio|Doppio conteggio]], [[method_fattorizzazione|Fattorizzazione]]
+**Metodo:** [[method_doppio_conteggio|Doppio conteggio]], [[method_fattorizzazione|Fattorizzazione]], [[method_estremalita|Principio di estremalita]]
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
-
-[[Quesiti/src_obm_2013_n3_f2#q04|src_obm_2013_n3_f2__Q04]]
 
 
 
@@ -182,8 +176,6 @@ level: OBM Nível 3
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Geometria]]
 
-[[Quesiti/src_obm_2013_n3_f2#q05|src_obm_2013_n3_f2__Q05]]
-
 
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_geometria_piana,method_coordinate,method_trigonometria,skill_ragionamento_geometrico,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
@@ -214,8 +206,6 @@ level: OBM Nível 3
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Geometria]]
 
-[[Quesiti/src_obm_2013_n3_f2#q06|src_obm_2013_n3_f2__Q06]]
-
 
 
 <span class="atom-split" id="q07" data-atom="q07" data-title="Quesito 7" data-tags="topic_combinatoria,topic_aritmetica,method_ricorsione,method_casework,skill_conteggio_sistematico,skill_riconoscimento_pattern,skill_manipolazione_algebrica"></span>
@@ -245,8 +235,6 @@ level: OBM Nível 3
 **Metodo:** [[method_ricorsione|Ricorsione]], [[method_casework|Casework]]
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
-
-[[Quesiti/src_obm_2013_n3_f2#q07|src_obm_2013_n3_f2__Q07]]
 
 
 
@@ -290,11 +278,9 @@ level: OBM Nível 3
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_astrazione|Astrazione]]
 **Area:** [[Algebra e Analisi]]
 
-[[Quesiti/src_obm_2013_n3_f2#q08|src_obm_2013_n3_f2__Q08]]
 
 
-
-<span class="atom-split" id="q09" data-atom="q09" data-title="Quesito 9" data-tags="topic_aritmetica,method_congruenze,method_fattorizzazione,skill_manipolazione_algebrica,skill_lettura_attenta,skill_ragionamento_geometrico"></span>
+<span class="atom-split" id="q09" data-atom="q09" data-title="Quesito 9" data-tags="topic_aritmetica,method_congruenze,method_fattorizzazione,method_casework,skill_manipolazione_algebrica,skill_lettura_attenta,skill_ragionamento_geometrico,skill_conteggio_sistematico"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -306,9 +292,9 @@ level: OBM Nível 3
 > What is the largest integer $n$ such that $B$ is divisible by $3^n$?
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_congruenze|Congruenze]], [[method_fattorizzazione|Fattorizzazione]]
-**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
-**Area:** [[Aritmetica e Teoria dei Numeri]]
+**Metodo:** [[method_congruenze|Congruenze]], [[method_fattorizzazione|Fattorizzazione]], [[method_casework|Case analysis]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1MRGl42YVamXq38vt9yx6-YSmKQrAD_q6/view)
 
 
@@ -321,9 +307,8 @@ level: OBM Nível 3
 > $$1 + \frac{1}{2} + \frac{1}{3} + \cdots + \frac{1}{2013} = \frac{A}{B}, \qquad \gcd(A,B) = 1.$$
 > Qual è il più grande intero $n$ tale che $B$ sia divisibile per $3^n$?
 
-**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_congruenze|Congruenze]], [[method_fattorizzazione|Fattorizzazione]]
-**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
-**Area:** [[Aritmetica e Teoria dei Numeri]]
 
-[[Quesiti/src_obm_2013_n3_f2#q09|src_obm_2013_n3_f2__Q09]]
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_congruenze|Congruenze]], [[method_fattorizzazione|Fattorizzazione]], [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]

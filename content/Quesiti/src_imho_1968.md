@@ -10,7 +10,7 @@ level: IMO
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_geometria_piana,topic_trigonometria,method_trigonometria,method_casework,skill_manipolazione_algebrica,skill_ragionamento_geometrico,skill_lettura_attenta"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_geometria_piana,topic_trigonometria,topic_aritmetica,method_trigonometria,method_casework,method_fattorizzazione,skill_manipolazione_algebrica,skill_ragionamento_geometrico,skill_lettura_attenta"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -19,10 +19,10 @@ level: IMO
 
 > Prove that there is one and only one triangle whose side lengths are consecutive integers, and one of whose angles is twice as large as another.
 
-**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometria]]
-**Metodo:** [[method_trigonometria|Trigonometria]], [[method_casework|Casework]]
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometria]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_trigonometria|Trigonometria]], [[method_casework|Casework]], [[method_fattorizzazione|Factorisation / algebraic manipulation]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
-**Area:** [[Geometria]]
+**Area:** [[Geometria|Geometry]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1jj0Y7JrXtrt_wCg-LIs-qk4WRobE3ZR1/view)
 
 
@@ -33,16 +33,15 @@ level: IMO
 
 > Dimostrare che esiste un unico triangolo le cui lunghezze dei lati siano numeri interi consecutivi e in cui uno degli angoli sia il doppio di un altro.
 
-**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometria]]
-**Metodo:** [[method_trigonometria|Trigonometria]], [[method_casework|Casework]]
+
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_trigonometria|Trigonometria]], [[method_casework|Casework]], [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
-**Area:** [[Geometria]]
-
-[[Quesiti/src_imho_1968#q01|src_imho_1968__Q01]]
+**Area:** [[Geometria]], [[Aritmetica e Teoria dei Numeri]]
 
 
 
-<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_aritmetica,method_casework,method_fattorizzazione,skill_casework_accurato,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_aritmetica,method_casework,method_fattorizzazione,skill_casework_accurato,skill_manipolazione_algebrica,skill_lettura_attenta,skill_stima"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -53,8 +52,8 @@ level: IMO
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_casework|Casework]], [[method_fattorizzazione|Fattorizzazione]]
-**Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
-**Area:** [[Aritmetica e Teoria dei Numeri]]
+**Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_stima|Estimation and approximation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1jj0Y7JrXtrt_wCg-LIs-qk4WRobE3ZR1/view)
 
 
@@ -65,16 +64,15 @@ level: IMO
 
 > Trovare tutti i numeri naturali $x$ tali che il prodotto delle loro cifre (in notazione decimale) sia uguale a $x^2 - 10x - 22$.
 
+
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei numeri]]
 **Metodo:** [[method_casework|Analisi per casi]], [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
-**Abilità:** [[skill_casework_accurato|Analisi accurata per casi]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta del testo]]
+**Abilita:** [[skill_casework_accurato|Analisi accurata per casi]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta del testo]], [[skill_stima|Stima e approssimazione]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Aritmetica e teoria dei numeri]]
 
-[[Quesiti/src_imho_1968#q02|src_imho_1968__Q02]]
 
 
-
-<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_algebra,topic_insiemi_funzioni,method_invarianti,method_casework,skill_manipolazione_algebrica,skill_ragionamento_geometrico,skill_lettura_attenta"></span>
+<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_algebra,topic_insiemi_funzioni,method_invarianti,method_casework,method_disuguaglianze,method_fattorizzazione,skill_manipolazione_algebrica,skill_ragionamento_geometrico,skill_lettura_attenta"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -94,9 +92,9 @@ level: IMO
 > (c) If $\Delta > 0$, there is more than one solution.
 
 **Topic:** [[topic_algebra|Algebra]], [[topic_insiemi_funzioni|Insiemi e funzioni]]
-**Metodo:** [[method_invarianti|Invarianti]], [[method_casework|Casework]]
+**Metodo:** [[method_invarianti|Invarianti]], [[method_casework|Casework]], [[method_disuguaglianze|Classical inequalities]], [[method_fattorizzazione|Factorisation / algebraic manipulation]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
-**Area:** [[Algebra e Analisi]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1jj0Y7JrXtrt_wCg-LIs-qk4WRobE3ZR1/view)
 
 
@@ -117,16 +115,15 @@ level: IMO
 > (b) Se $\Delta = 0$, esiste esattamente una soluzione.
 > (c) Se $\Delta > 0$, esistono più di una soluzione.
 
+
 **Topic:** [[topic_algebra|Algebra]], [[topic_insiemi_funzioni|Insiemi e funzioni]]
-**Metodo:** [[method_invarianti|Invarianti]], [[method_casework|Casework]]
+**Metodo:** [[method_invarianti|Invarianti]], [[method_casework|Casework]], [[method_disuguaglianze|Disuguaglianze classiche]], [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Algebra e Analisi]]
 
-[[Quesiti/src_imho_1968#q03|src_imho_1968__Q03]]
 
 
-
-<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_geometria_solida,method_estremalita,method_casework,skill_ragionamento_geometrico,skill_lettura_attenta,skill_astrazione"></span>
+<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_geometria_solida,topic_disuguaglianze,method_estremalita,method_casework,method_disuguaglianze,method_doppio_conteggio,skill_ragionamento_geometrico,skill_lettura_attenta,skill_astrazione"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -135,10 +132,10 @@ level: IMO
 
 > Prove that in every tetrahedron there is a vertex such that the three edges meeting there have lengths which are the sides of a triangle.
 
-**Topic:** [[topic_geometria_solida|Geometria solida]]
-**Metodo:** [[method_estremalita|Estremalità]], [[method_casework|Casework]]
+**Topic:** [[topic_geometria_solida|Geometria solida]], [[topic_disuguaglianze|Inequalities]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_casework|Casework]], [[method_disuguaglianze|Classical inequalities]], [[method_doppio_conteggio|Double counting]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_astrazione|Astrazione]]
-**Area:** [[Geometria]]
+**Area:** [[Geometria|Geometry]], [[Algebra e Analisi|Algebra and analysis]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1jj0Y7JrXtrt_wCg-LIs-qk4WRobE3ZR1/view)
 
 
@@ -149,16 +146,15 @@ level: IMO
 
 > Dimostrare che in ogni tetraedro esiste un vertice tale che le tre spigoli che vi concorrono hanno lunghezze che sono i lati di un triangolo.
 
-**Topic:** [[topic_geometria_solida|Geometria solida]]
-**Metodo:** [[method_estremalita|Estremalità]], [[method_casework|Casework]]
+
+**Topic:** [[topic_geometria_solida|Geometria solida]], [[topic_disuguaglianze|Disuguaglianze]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_casework|Casework]], [[method_disuguaglianze|Disuguaglianze classiche]], [[method_doppio_conteggio|Doppio conteggio]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_astrazione|Astrazione]]
-**Area:** [[Geometria]]
-
-[[Quesiti/src_imho_1968#q04|src_imho_1968__Q04]]
+**Area:** [[Geometria]], [[Algebra e Analisi]]
 
 
 
-<span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_insiemi_funzioni,topic_funzionali,method_invarianti,method_ricorsione,skill_manipolazione_algebrica,skill_riconoscimento_pattern,skill_lettura_attenta"></span>
+<span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_insiemi_funzioni,topic_funzionali,method_invarianti,method_ricorsione,method_fattorizzazione,skill_manipolazione_algebrica,skill_riconoscimento_pattern,skill_lettura_attenta"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -173,9 +169,9 @@ level: IMO
 > (b) For $a = 1$, give an example of a non-constant function with the required properties.
 
 **Topic:** [[topic_insiemi_funzioni|Insiemi e funzioni]], [[topic_funzionali|Equazioni funzionali]]
-**Metodo:** [[method_invarianti|Invarianti]], [[method_ricorsione|Ricorsione]]
+**Metodo:** [[method_invarianti|Invarianti]], [[method_ricorsione|Ricorsione]], [[method_fattorizzazione|Factorisation / algebraic manipulation]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_lettura_attenta|Lettura attenta]]
-**Area:** [[Algebra e Analisi]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1jj0Y7JrXtrt_wCg-LIs-qk4WRobE3ZR1/view)
 
 
@@ -191,12 +187,11 @@ level: IMO
 > (a) Dimostrare che la funzione $f$ è periodica (cioè esiste un numero reale positivo $b$ tale che $f(x + b) = f(x)$ per tutti gli $x$).
 > (b) Per $a = 1$, fornire un esempio di funzione non costante con le proprietà richieste.
 
+
 **Topic:** [[topic_insiemi_funzioni|Insiemi e funzioni]], [[topic_funzionali|Equazioni funzionali]]
-**Metodo:** [[method_invarianti|Invarianti]], [[method_ricorsione|Ricorsione]]
+**Metodo:** [[method_invarianti|Invarianti]], [[method_ricorsione|Ricorsione]], [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Algebra e Analisi]]
-
-[[Quesiti/src_imho_1968#q05|src_imho_1968__Q05]]
 
 
 
@@ -231,5 +226,3 @@ level: IMO
 **Metodo:** [[method_induzione|Induzione]], [[method_telescoping|Telescoping]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
-
-[[Quesiti/src_imho_1968#q06|src_imho_1968__Q06]]

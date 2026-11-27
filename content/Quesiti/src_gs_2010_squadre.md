@@ -10,7 +10,7 @@ level: squadre
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_aritmetica,skill_modellizzazione"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_aritmetica,skill_modellizzazione,skill_lettura_attenta"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -22,7 +22,7 @@ level: squadre
 > Frank porta a passeggio il cane lungo il muro est del penitenziario, perfettamente rettilineo e lungo 9 km. Partono dal portone del penitenziario, proprio all'inizio del muro est, fianco a fianco, e iniziano un gioco: Frank tira la palla, il cane gliela riporta, Frank la ritira immediatamente, e altrettanto istantaneamente il cane riparte dietro alla palla. Per tutta la durata del gioco Frank cammina a 6 km all'ora e il cane a 12 km all'ora. Arrivati alla fine del muro, ritornano continuando a fare il gioco fino al portone. Quanta strada al massimo può far fare Frank al cane tirando opportunamente la palla? Dare la risposta in hm.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_lettura_attenta|Lettura attenta del testo]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 36
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1UxUqQwFeYvRrpaNoj3FnmYVi_fX8FTJA/view)
@@ -37,11 +37,10 @@ level: squadre
 >
 > Frank takes the dog for a walk along the eastern wall of the prison, which is perfectly straight and 9 km long. They set off from the prison gate, right at the beginning of the eastern wall, side by side, and start a game: Frank throws the ball, the dog brings it back, Frank immediately retrieves it, and equally instantly the dog sets off again after the ball. Throughout the game, Frank walks at 6 km/h and the dog at 12 km/h. When they reach the end of the wall, they turn back, continuing the game all the way to the gate. What is the maximum distance Frank can make the dog cover by throwing the ball appropriately? Give the answer in hm.
 
-**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
-**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
-**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
-[[Quesiti/src_gs_2010_squadre#q01|src_gs_2010_squadre__Q01]]
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]], [[skill_lettura_attenta|Careful reading of the text]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
 
 
@@ -84,11 +83,9 @@ level: squadre
 **Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]]
 **Area:** [[Algebra e Analisi|Algebra and analysis]]
 
-[[Quesiti/src_gs_2010_squadre#q02|src_gs_2010_squadre__Q02]]
 
 
-
-<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_logica,method_conteggio,skill_casework_accurato"></span>
+<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_logica,method_conteggio,method_casework,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -98,7 +95,7 @@ level: squadre
 > 3) metri quadrati, quella del lago k2 metri quadrati, quella dei 4 triangoli 4 k2 √ 3 4 = k2√ 3 metri quadrati, si ha che l’area dei terreni incolti ` ek2m2. Problema 7. (Alessandro Rosolini) Soluzione La partita si svolge nel modo seguente: turno 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 . . . Jake r n r n r n r n r n r n r n r . . . Sline n r r n r r n r r n r r n r r . . . Sia k = 2010. Ogni 6 round, dopo i primi 4, Jake guadagna un dollaro (e quindi Sline ne perde uno): quindi vince Jake, e dopo 4 <n turni i dollari che ha si calcolano come
 
 **Topic:** [[topic_logica|Logica, giochi, strategie]]
-**Metodo:** [[method_conteggio|Conteggio combinatorio]]
+**Metodo:** [[method_conteggio|Conteggio combinatorio]], [[method_casework|Analisi per casi]]
 **Abilita:** [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 3123
@@ -112,16 +109,15 @@ level: squadre
 
 > 3) square metres; that of lake k2 square metres; that of the 4 triangles: 4 k² √3 / 4 = k²√3 square metres; it follows that the area of the uncultivated land is k² m². Problem 7. (Alessandro Rosolini) Solution The game proceeds as follows: round 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 . . . Jake r n r n r n r n r n r n r n r . . . Sline n r r n r r n r r n r r n r r . . . Let k = 2010. Every 6 rounds, after the first 4, Jake wins a dollar (and so Sline loses one): therefore Jake wins, and after 4 < n turns, the dollars he has are calculated as
 
+
 **Topic:** [[topic_logica|Logic, games and strategies]]
-**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Metodo:** [[method_conteggio|Combinatorial counting]], [[method_casework|Case analysis]]
 **Abilita:** [[skill_casework_accurato|Careful case analysis]]
 **Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
-[[Quesiti/src_gs_2010_squadre#q03|src_gs_2010_squadre__Q03]]
 
 
-
-<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_algebra,skill_manipolazione_algebrica"></span>
+<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_algebra,skill_manipolazione_algebrica,skill_modellizzazione"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -133,7 +129,7 @@ level: squadre
 > Murph spiega ai tre Magic Tones come sarà diviso il denaro che spetta loro per la loro performance, come prevede il regolamento del Sindacato Musicisti. Murph spiega: «Metà del denaro sarà diviso tra voi in parti uguali, l'altra metà vi sarà assegnata proporzionalmente alla vostra età in anni.» Sapendo che il musicista più vecchio riceverà, a conti fatti, 40 dollari, e che la sua età è la somma delle età degli altri due, a quanto ammonta in centesimi di dollaro la somma da spartire?
 
 **Topic:** [[topic_algebra|Algebra]]
-**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
 **Area:** [[Algebra e Analisi]]
 **Risposta:** 9600
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1UxUqQwFeYvRrpaNoj3FnmYVi_fX8FTJA/view)
@@ -148,15 +144,14 @@ level: squadre
 >
 > Murph explains to the three Magic Tones how the money due to them for their performance will be divided, as provided for in the Musicians' Union regulations. Murph explains: "Half of the money will be divided among you equally, and the other half will be allocated to you in proportion to your ages in years." Knowing that, in the end, the oldest musician will receive $40 and that his age is the sum of the ages of the other two, what is the total amount to be divided, in cents?
 
+
 **Topic:** [[topic_algebra|Algebra]]
-**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_modellizzazione|Modelling / translating the text]]
 **Area:** [[Algebra e Analisi|Algebra and analysis]]
 
-[[Quesiti/src_gs_2010_squadre#q04|src_gs_2010_squadre__Q04]]
 
 
-
-<span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_aritmetica,method_fattorizzazione,skill_manipolazione_algebrica"></span>
+<span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_aritmetica,method_fattorizzazione,method_casework,skill_manipolazione_algebrica,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -168,8 +163,8 @@ level: squadre
 > Molto soddisfatta dei risultati dei suoi 11 alunni, la Madre Superiora, direttrice dell'Istituto di St. Helen of the Blessed Shroud, assegna ad ognuno un numero diverso tra 7 e 17 e li mette alla prova con un problema: scrive alla lavagna il numero $360360$. Poi spiega: «Questo è il prodotto dei numeri relativi agli alunni che hanno preso 10, tutti gli altri hanno preso 8.» Qual è la somma dei numeri assegnati agli alunni che non hanno preso 10?
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
-**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]], [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 67
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1UxUqQwFeYvRrpaNoj3FnmYVi_fX8FTJA/view)
@@ -184,16 +179,15 @@ level: squadre
 >
 > Very satisfied with the results of her 11 pupils, the Mother Superior, director of the St. Helen of the Blessed Shroud Institute, assigns each of them a different number between 7 and 17 and tests them with a problem: she writes the number $360360$ on the blackboard. Then she explains: "This is the product of the numbers corresponding to the pupils who got 10; all the others got 8." What is the sum of the numbers assigned to the pupils who did not get 10?
 
+
 **Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
-**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
-**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]], [[method_casework|Case analysis]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_casework_accurato|Careful case analysis]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
-[[Quesiti/src_gs_2010_squadre#q05|src_gs_2010_squadre__Q05]]
 
 
-
-<span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_geometria_piana,skill_ragionamento_geometrico"></span>
+<span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_geometria_piana,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -205,7 +199,7 @@ level: squadre
 > Un parco comprende un lago di forma quadrata, di cui ogni sponda costituisce la base di un'aiuola a forma di triangolo equilatero. I quattro vertici delle aiuole che non sono sul lago, sono uniti a due a due da recinti rettilinei. Il terreno fra aiuole e recinti è lasciato incolto. L'area del lago è di $9747$ metri quadrati, quanti sono i metri quadrati dell'area del terreno incolto?
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
-**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1UxUqQwFeYvRrpaNoj3FnmYVi_fX8FTJA/view)
 
@@ -219,15 +213,14 @@ level: squadre
 >
 > A park contains a square-shaped lake, each bank of which forms the base of an equilateral-triangle-shaped flower bed. The four vertices of the flower beds that are not on the lake are joined in pairs by straight fences. The land between the flower beds and the fences is left uncultivated. The area of the lake is $9747$ square metres; how many square metres is the area of the uncultivated land?
 
+
 **Topic:** [[topic_geometria_piana|Plane geometry]]
-**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
 **Area:** [[Geometria|Geometry]]
 
-[[Quesiti/src_gs_2010_squadre#q06|src_gs_2010_squadre__Q06]]
 
 
-
-<span class="atom-split" id="q07" data-atom="q07" data-title="Quesito 7" data-tags="topic_combinatoria,topic_aritmetica,method_conteggio,skill_riconoscimento_pattern"></span>
+<span class="atom-split" id="q07" data-atom="q07" data-title="Quesito 7" data-tags="topic_combinatoria,topic_aritmetica,method_conteggio,method_casi_conteggio,skill_riconoscimento_pattern,skill_conteggio_sistematico"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -239,9 +232,9 @@ level: squadre
 > Jake e Sline fanno un gioco d'azzardo: si dividono tra loro un mazzo di 4020 carte da poker, ciascuna delle quali reca un seme rosso oppure un seme nero. Ciascuno appoggia il suo mazzo di 2010 carte coperto sul tavolo e iniziano a giocare. Scoprono insieme una carta: se i semi delle due carte sono di colore diverso, Sline paga un dollaro ad Jake, se i semi di entrambe sono rossi non succede nulla, se i semi di entrambe sono neri Jake paga 2 dollari a Sline. Per una fortuita coincidenza nel mescolamento, le carte di Jake sono una sequenza di una carta di seme rosso e una di seme nero (cioè rosso, nero, rosso, nero, rosso...) mentre quelle di Sline sono una sequenza di una carta di seme nero seguita da due di seme rosso (cioè nero, rosso, rosso, nero, rosso, rosso, nero...). Sapendo che iniziano il gioco avendo 2010 dollari a testa, quanti dollari ha il vincitore alla fine?
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_conteggio|Conteggio combinatorio]]
-**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
-**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+**Metodo:** [[method_conteggio|Conteggio combinatorio]], [[method_casi_conteggio|Conteggio per casi]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1UxUqQwFeYvRrpaNoj3FnmYVi_fX8FTJA/view)
 
 
@@ -254,16 +247,15 @@ level: squadre
 >
 > Jake and Sline engage in a gamble: they divide among themselves a deck of 4020 playing cards, each of which has either a red suit or a black suit. Each places their deck of 2010 cards face down on the table, and they begin to play. They jointly flip over one card: if the suits of the two cards are different colors, Sline pays Jake one dollar; if both cards have red suits, nothing happens; if both cards have black suits, Jake pays Sline 2 dollars. By a fortunate coincidence in the shuffling, Jake's cards form a sequence of one card of a red suit followed by one of a black suit (that is, red, black, red, black, red...), while Sline's cards form a sequence of one card of a black suit followed by two cards of a red suit (that is, black, red, red, black, red, red, black...). Knowing that they start the game with 2010 dollars each, how many dollars does the winner have at the end?
 
+
 **Topic:** [[topic_combinatoria|Combinatorics]], [[topic_aritmetica|Arithmetic / Number theory]]
-**Metodo:** [[method_conteggio|Combinatorial counting]]
-**Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]]
-**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
-
-[[Quesiti/src_gs_2010_squadre#q07|src_gs_2010_squadre__Q07]]
+**Metodo:** [[method_conteggio|Combinatorial counting]], [[method_casi_conteggio|Counting by cases]]
+**Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]], [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
 
 
-<span class="atom-split" id="q08" data-atom="q08" data-title="Quesito 8" data-tags="topic_aritmetica,method_congruenze,skill_astrazione"></span>
+<span class="atom-split" id="q08" data-atom="q08" data-title="Quesito 8" data-tags="topic_aritmetica,method_congruenze,method_backward,skill_astrazione,skill_modellizzazione"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -275,8 +267,8 @@ level: squadre
 > Slim è molto scaramantico nel preparare la minestra di ceci. Compra i ceci e poi li divide in due piatti, in modo che ce ne siano esattamente lo stesso numero. Dà quelli che avanzano (e solo quelli) al suo pappagallo Fuzz. Poi divide tutti i ceci che ha tenuto equamente in sei piatti, e come prima quelli che avanzano li mangia Fuzz. A questo punto ripete la stessa operazione con trenta piatti, poi con 210 piatti e quindi con 2310 piatti. Considerando che oggi vuole comprarne in modo che il pappagallo possa mangiarne il maggior numero possibile, ma non spendendo più del necessario, quanti ceci deve comprare?
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]]
-**Abilita:** [[skill_astrazione|Astrazione / generalizzazione]]
+**Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]], [[method_backward|Ragionamento all'indietro]]
+**Abilita:** [[skill_astrazione|Astrazione / generalizzazione]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 2309
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1UxUqQwFeYvRrpaNoj3FnmYVi_fX8FTJA/view)
@@ -291,12 +283,11 @@ level: squadre
 >
 > Slim is very superstitious when preparing chickpea soup. He buys the chickpeas and then divides them between two plates so that there are exactly the same number on each plate. He gives the leftovers (and only the leftovers) to his parrot Fuzz. Then he divides all the chickpeas he has kept equally among six plates, and, as before, Fuzz eats the leftovers. At this point, he repeats the same procedure with thirty plates, then with 210 plates, and then with 2310 plates. Given that today he wants to buy enough chickpeas so that the parrot can eat as many as possible but without spending more than necessary, how many chickpeas must he buy?
 
-**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
-**Metodo:** [[method_congruenze|Modular arithmetic / congruences]]
-**Abilita:** [[skill_astrazione|Abstraction / generalisation]]
-**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
-[[Quesiti/src_gs_2010_squadre#q08|src_gs_2010_squadre__Q08]]
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]], [[method_backward|Working backwards]]
+**Abilita:** [[skill_astrazione|Abstraction / generalisation]], [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
 
 
@@ -329,11 +320,9 @@ level: squadre
 **Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
-[[Quesiti/src_gs_2010_squadre#q09|src_gs_2010_squadre__Q09]]
 
 
-
-<span class="atom-split" id="q10" data-atom="q10" data-title="Quesito 10" data-tags="topic_logica,topic_combinatoria,skill_astrazione"></span>
+<span class="atom-split" id="q10" data-atom="q10" data-title="Quesito 10" data-tags="topic_logica,topic_combinatoria,method_congruenze,skill_astrazione,skill_riconoscimento_pattern"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -343,7 +332,8 @@ level: squadre
 > 10) = n 9 10; un’ora dopo n 9 10(1− 1 9) = n 9 10 8 9 =n 8 10. Ad ogni ora il numero dei rimasti diminuisce di n 10, ﬁnch´ e il numero diventa 2. Dan 10 = 2 si trova n = 20, gli ultimi se ne vanno dopo 14 ore. Il prezzo ` e 8× 2× (5× 10 + 9 + 8 +... + 1) = 8× 2× (50 + 45) = 1520. Problema 12. (Martina Rovelli )
 
 **Topic:** [[topic_logica|Logica, giochi, strategie]], [[topic_combinatoria|Combinatoria]]
-**Abilita:** [[skill_astrazione|Astrazione / generalizzazione]]
+**Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]]
+**Abilita:** [[skill_astrazione|Astrazione / generalizzazione]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1UxUqQwFeYvRrpaNoj3FnmYVi_fX8FTJA/view)
 
@@ -355,15 +345,15 @@ level: squadre
 
 > 10) = n 9 10; one hour later, n 9 10(1− 1 9) = n 9 10 8 9 = n 8 10. Each hour, the number of those remaining decreases by n 10, until the number becomes 2. From 10 = 2, we find n = 20; the last ones leave after 14 hours. The price is 8× 2× (5× 10 + 9 + 8 +... + 1) = 8× 2× (50 + 45) = 1520. Problem 12. (Martina Rovelli)
 
+
 **Topic:** [[topic_logica|Logic, games and strategies]], [[topic_combinatoria|Combinatorics]]
-**Abilita:** [[skill_astrazione|Abstraction / generalisation]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]]
+**Abilita:** [[skill_astrazione|Abstraction / generalisation]], [[skill_riconoscimento_pattern|Pattern recognition]]
 **Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
-[[Quesiti/src_gs_2010_squadre#q10|src_gs_2010_squadre__Q10]]
 
 
-
-<span class="atom-split" id="q11" data-atom="q11" data-title="Quesito 11" data-tags="topic_algebra,topic_aritmetica,skill_modellizzazione"></span>
+<span class="atom-split" id="q11" data-atom="q11" data-title="Quesito 11" data-tags="topic_algebra,topic_aritmetica,method_telescoping,skill_modellizzazione,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -375,7 +365,8 @@ level: squadre
 > Matt e Lou organizzano insieme una festa tra jazzisti, noleggiando un locale che costa 8 dollari per ogni persona presente per ogni ora. Arrivano tutti gli invitati, e, dopo aver ballato, bevuto e suonato per 5 ore di seguito, un decimo dei presenti lascia la festa. Allo scoccare dell'ora successiva se ne va un nono delle persone rimaste. Dopo altri 60 minuti un ottavo dei rimanenti abbandona la festa, e così via con questo criterio, finché non se ne va la metà di quelli ancora presenti. A questo punto sono rimasti solo Matt e Lou che restano ancora un'ora a mangiare quel che resta e saldano il conto col locale. Quanti dollari devono pagare?
 
 **Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
+**Metodo:** [[method_telescoping|Somme telescopiche]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 1520
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1UxUqQwFeYvRrpaNoj3FnmYVi_fX8FTJA/view)
@@ -390,15 +381,15 @@ level: squadre
 >
 > Matt and Lou jointly organize a party for jazz musicians, renting a venue that costs $8 per person present per hour. All the guests arrive, and after dancing, drinking, and playing music for 5 consecutive hours, one tenth of those present leave the party. When the next hour begins, one ninth of those remaining leave. After another 60 minutes, one eighth of those still there abandon the party, and so on according to this pattern, until half of those still present leave. At this point, only Matt and Lou remain; they stay for another hour eating what's left and settle the bill with the venue. How many dollars do they have to pay?
 
+
 **Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Arithmetic / Number theory]]
-**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
+**Metodo:** [[method_telescoping|Telescoping sums]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
 **Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
-[[Quesiti/src_gs_2010_squadre#q11|src_gs_2010_squadre__Q11]]
 
 
-
-<span class="atom-split" id="q12" data-atom="q12" data-title="Quesito 12" data-tags="topic_logica,method_casework,skill_casework_accurato"></span>
+<span class="atom-split" id="q12" data-atom="q12" data-title="Quesito 12" data-tags="topic_logica,method_casework,skill_casework_accurato,skill_lettura_attenta"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -418,7 +409,7 @@ level: squadre
 
 **Topic:** [[topic_logica|Logica, giochi, strategie]]
 **Metodo:** [[method_casework|Analisi per casi]]
-**Abilita:** [[skill_casework_accurato|Casework accurato]]
+**Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_lettura_attenta|Lettura attenta del testo]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1UxUqQwFeYvRrpaNoj3FnmYVi_fX8FTJA/view)
 
@@ -439,16 +430,15 @@ level: squadre
 >
 > List, in alphabetical order, the subjects that Duncan carries, indicating the subjects, in alphabetical order, with the numbers from $1$ to $8$.
 
+
 **Topic:** [[topic_logica|Logic, games and strategies]]
 **Metodo:** [[method_casework|Case analysis]]
-**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]], [[skill_lettura_attenta|Careful reading of the text]]
 **Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
-[[Quesiti/src_gs_2010_squadre#q12|src_gs_2010_squadre__Q12]]
 
 
-
-<span class="atom-split" id="q13" data-atom="q13" data-title="Quesito 13" data-tags="topic_aritmetica,topic_combinatoria,method_conteggio,skill_conteggio_sistematico"></span>
+<span class="atom-split" id="q13" data-atom="q13" data-title="Quesito 13" data-tags="topic_aritmetica,topic_combinatoria,method_conteggio,method_simmetria,skill_conteggio_sistematico,skill_riconoscimento_pattern"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -460,8 +450,8 @@ level: squadre
 > Il reverendo Cleophus James prepara stelle di carta colorate per decorare la Chiesa di Triple Rock. Per disegnare una stella a 5 punte, segna 5 punti distinti su una circonferenza e li unisce con 5 segmenti senza mai staccare la penna dal foglio. In questo modo può disegnare solo un tipo di stella. Con 7 vertici ne può disegnare invece due tipi differenti, collegando i vertici saltandone di volta in volta uno oppure due, rispettivamente. Quanti tipi differenti di stelle può disegnare se segna 2011 vertici sulla circonferenza?
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
-**Metodo:** [[method_conteggio|Conteggio combinatorio]]
-**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Metodo:** [[method_conteggio|Conteggio combinatorio]], [[method_simmetria|Sfruttamento della simmetria]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1UxUqQwFeYvRrpaNoj3FnmYVi_fX8FTJA/view)
 
@@ -475,16 +465,15 @@ level: squadre
 >
 > Reverend Cleophus James makes colored paper stars to decorate Triple Rock Church. To draw a five-pointed star, he marks 5 distinct points on a circle and joins them with 5 line segments without ever lifting his pen from the paper. In this way, he can draw only one type of star. With 7 vertices, however, he can draw two different types by connecting the vertices while skipping one or two vertices at a time, respectively. How many different types of stars can he draw if he marks 2011 vertices on the circle?
 
+
 **Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_combinatoria|Combinatorics]]
-**Metodo:** [[method_conteggio|Combinatorial counting]]
-**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Metodo:** [[method_conteggio|Combinatorial counting]], [[method_simmetria|Using symmetry]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]], [[skill_riconoscimento_pattern|Pattern recognition]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
-[[Quesiti/src_gs_2010_squadre#q13|src_gs_2010_squadre__Q13]]
 
 
-
-<span class="atom-split" id="q14" data-atom="q14" data-title="Quesito 14" data-tags="topic_aritmetica,method_congruenze,method_fattorizzazione,skill_conteggio_sistematico"></span>
+<span class="atom-split" id="q14" data-atom="q14" data-title="Quesito 14" data-tags="topic_aritmetica,method_congruenze,method_fattorizzazione,method_conteggio,skill_conteggio_sistematico,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -496,8 +485,8 @@ level: squadre
 > Chiusa nel salone di bellezza «Curl up and Dye», Carrie si concentra calcolando a mente lunghe somme. L'ultima che ha calcolato è la somma di quei numeri interi positivi dispari minori di 100 che si possono scrivere in almeno due modi distinti come differenza di quadrati perfetti. Che numero ha trovato?
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]], [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
-**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]], [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]], [[method_conteggio|Conteggio combinatorio]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 1358
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1UxUqQwFeYvRrpaNoj3FnmYVi_fX8FTJA/view)
@@ -512,16 +501,15 @@ level: squadre
 >
 > Locked inside the beauty salon "Curl up and Dye," Carrie concentrates on mentally calculating long sums. The last sum she calculated was the sum of those positive odd integers less than 100 that can be written in at least two distinct ways as the difference of perfect squares. What number did she find?
 
+
 **Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
-**Metodo:** [[method_congruenze|Modular arithmetic / congruences]], [[method_fattorizzazione|Factorisation / algebraic manipulation]]
-**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]], [[method_fattorizzazione|Factorisation / algebraic manipulation]], [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
-[[Quesiti/src_gs_2010_squadre#q14|src_gs_2010_squadre__Q14]]
 
 
-
-<span class="atom-split" id="q15" data-atom="q15" data-title="Quesito 15" data-tags="topic_geometria_piana,topic_funzionali,skill_stima"></span>
+<span class="atom-split" id="q15" data-atom="q15" data-title="Quesito 15" data-tags="topic_geometria_piana,topic_funzionali,topic_trigonometria,method_trigonometria,skill_stima"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -532,9 +520,10 @@ level: squadre
 > 
 > In una circonferenza di raggio 1 m si traccia, come primo passo, il diametro. Come secondo passo, si segnano i punti di mezzo di ciascuno dei due archi così formati e si uniscono i vertici del diametro e i due punti di mezzo in modo da ottenere un quadrato. Si continua bisecando ogni arco formato al passo precedente e si uniscono i punti segnati sulla circonferenza in modo da ottenere un poligono regolare. Quanti passi bisogna fare almeno perché il lato del poligono che si ottiene sia più corto di $\dfrac{1}{2^{2010}}$ m?
 
-**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_funzionali|Equazioni funzionali / successioni]]
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_funzionali|Equazioni funzionali / successioni]], [[topic_trigonometria|Trigonometria]]
+**Metodo:** [[method_trigonometria|Tecniche trigonometriche]]
 **Abilita:** [[skill_stima|Stima e approssimazione]]
-**Area:** [[Algebra e Analisi]], [[Geometria]]
+**Area:** [[Geometria]], [[Algebra e Analisi]]
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1UxUqQwFeYvRrpaNoj3FnmYVi_fX8FTJA/view)
 
 
@@ -547,15 +536,15 @@ level: squadre
 >
 > In a circle of radius 1 m, the diameter is drawn as the first step. As the second step, the midpoints of each of the two arcs thus formed are marked, and the endpoints of the diameter and the two midpoints are joined to obtain a square. The process continues by bisecting each arc formed in the previous step and joining the points marked on the circle to obtain a regular polygon. How many steps must be taken at least for the side of the resulting polygon to be shorter than $\dfrac{1}{2^{2010}}$ m?
 
-**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_funzionali|Functional equations / sequences]]
+
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_funzionali|Functional equations / sequences]], [[topic_trigonometria|Trigonometry]]
+**Metodo:** [[method_trigonometria|Trigonometric techniques]]
 **Abilita:** [[skill_stima|Estimation and approximation]]
-**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Geometria|Geometry]]
-
-[[Quesiti/src_gs_2010_squadre#q15|src_gs_2010_squadre__Q15]]
+**Area:** [[Geometria|Geometry]], [[Algebra e Analisi|Algebra and analysis]]
 
 
 
-<span class="atom-split" id="q16" data-atom="q16" data-title="Quesito 16" data-tags="topic_probabilita,skill_stima"></span>
+<span class="atom-split" id="q16" data-atom="q16" data-title="Quesito 16" data-tags="topic_probabilita,method_conteggio,skill_stima,skill_modellizzazione,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -567,7 +556,8 @@ level: squadre
 > Un gioco d'azzardo si gioca con un sacchetto contenente 2010 biglie, 2 rosse, tutte le altre nere. Si vince se, estraendo biglie una dopo l'altra quante se ne vuole, si estraggono tutte le biglie rosse (non importa quante nere). Un giocatore, prima di iniziare la sequenza di estrazioni, deve pagare 1 dollaro per ciascuna estrazione che intende fare. Quanti dollari deve pagare Jake per avere una probabilità superiore al $50\%$ di vincere?
 
 **Topic:** [[topic_probabilita|Probabilita e statistica]]
-**Abilita:** [[skill_stima|Stima e approssimazione]]
+**Metodo:** [[method_conteggio|Conteggio combinatorio]]
+**Abilita:** [[skill_stima|Stima e approssimazione]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1UxUqQwFeYvRrpaNoj3FnmYVi_fX8FTJA/view)
 
@@ -581,15 +571,15 @@ level: squadre
 >
 > A gambling game is played with a bag containing 2010 marbles: 2 red marbles and all the rest black. You win if, by drawing marbles one after another as many as you like, you draw all the red marbles (it doesn't matter how many black ones you draw). Before starting the sequence of draws, a player must pay 1 dollar for each draw they intend to make. How many dollars must Jake pay to have a probability greater than $50\%$ of winning?
 
+
 **Topic:** [[topic_probabilita|Probability and statistics]]
-**Abilita:** [[skill_stima|Estimation and approximation]]
+**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_stima|Estimation and approximation]], [[skill_modellizzazione|Modelling / translating the text]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
 **Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
-[[Quesiti/src_gs_2010_squadre#q16|src_gs_2010_squadre__Q16]]
 
 
-
-<span class="atom-split" id="q17" data-atom="q17" data-title="Quesito 17" data-tags="topic_aritmetica,method_congruenze,method_conteggio,skill_casework_accurato"></span>
+<span class="atom-split" id="q17" data-atom="q17" data-title="Quesito 17" data-tags="topic_aritmetica,method_congruenze,method_conteggio,method_casework,skill_casework_accurato,skill_lettura_attenta"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -609,8 +599,8 @@ level: squadre
 > Scrivere nell'ordine le ultime quattro cifre della combinazione.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]], [[method_conteggio|Conteggio combinatorio]]
-**Abilita:** [[skill_casework_accurato|Casework accurato]]
+**Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]], [[method_conteggio|Conteggio combinatorio]], [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_lettura_attenta|Lettura attenta del testo]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 10240
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1UxUqQwFeYvRrpaNoj3FnmYVi_fX8FTJA/view)
@@ -633,16 +623,15 @@ level: squadre
 >
 > Write the last four digits of the combination in order.
 
+
 **Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
-**Metodo:** [[method_congruenze|Modular arithmetic / congruences]], [[method_conteggio|Combinatorial counting]]
-**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]], [[method_conteggio|Combinatorial counting]], [[method_casework|Case analysis]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]], [[skill_lettura_attenta|Careful reading of the text]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
-[[Quesiti/src_gs_2010_squadre#q17|src_gs_2010_squadre__Q17]]
 
 
-
-<span class="atom-split" id="q18" data-atom="q18" data-title="Quesito 18" data-tags="topic_logica,method_casework,skill_casework_accurato"></span>
+<span class="atom-split" id="q18" data-atom="q18" data-title="Quesito 18" data-tags="topic_logica,method_casework,skill_casework_accurato,skill_lettura_attenta"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -668,7 +657,7 @@ level: squadre
 
 **Topic:** [[topic_logica|Logica, giochi, strategie]]
 **Metodo:** [[method_casework|Analisi per casi]]
-**Abilita:** [[skill_casework_accurato|Casework accurato]]
+**Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_lettura_attenta|Lettura attenta del testo]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 4102
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1UxUqQwFeYvRrpaNoj3FnmYVi_fX8FTJA/view)
@@ -696,16 +685,15 @@ level: squadre
 >
 > Write the answer to each item in the box of the same name, using $1$ to indicate Alan, $2$ to indicate Bob, $3$ to indicate Claire, $4$ to indicate Duncan, and $0$ to indicate that the question has no unique answer.
 
+
 **Topic:** [[topic_logica|Logic, games and strategies]]
 **Metodo:** [[method_casework|Case analysis]]
-**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]], [[skill_lettura_attenta|Careful reading of the text]]
 **Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
-[[Quesiti/src_gs_2010_squadre#q18|src_gs_2010_squadre__Q18]]
 
 
-
-<span class="atom-split" id="q19" data-atom="q19" data-title="Quesito 19" data-tags="topic_geometria_solida,topic_funzionali,method_ricorsione,skill_ragionamento_geometrico"></span>
+<span class="atom-split" id="q19" data-atom="q19" data-title="Quesito 19" data-tags="topic_geometria_solida,topic_funzionali,method_ricorsione,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -718,8 +706,8 @@ level: squadre
 
 **Topic:** [[topic_geometria_solida|Geometria solida]], [[topic_funzionali|Equazioni funzionali / successioni]]
 **Metodo:** [[method_ricorsione|Ricorsione]]
-**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
-**Area:** [[Algebra e Analisi]], [[Geometria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]], [[Algebra e Analisi]]
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1UxUqQwFeYvRrpaNoj3FnmYVi_fX8FTJA/view)
 
 
@@ -732,16 +720,15 @@ level: squadre
 >
 > The commander of the Illinois Nazis group had a mausoleum built for himself; it was constructed from cubic stone blocks, each 1 m on a side. Comprising 10 terraces, it looks like a ziggurat: each terrace is a right rectangular parallelepiped with a square base, and all the terraces are stacked one on top of another. The top of the mausoleum is a terrace 2 m on a side and 2520 m high. But the mausoleum's main peculiarity is that, for each terrace, the side length of its square base is exactly 2 meters less than that of the base of the terrace beneath it, and the lateral surfaces of each terrace are always the same. How many meters tall is the mausoleum?
 
+
 **Topic:** [[topic_geometria_solida|Solid geometry]], [[topic_funzionali|Functional equations / sequences]]
 **Metodo:** [[method_ricorsione|Recursion]]
-**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
-**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Geometria|Geometry]]
-
-[[Quesiti/src_gs_2010_squadre#q19|src_gs_2010_squadre__Q19]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Geometria|Geometry]], [[Algebra e Analisi|Algebra and analysis]]
 
 
 
-<span class="atom-split" id="q20" data-atom="q20" data-title="Quesito 20" data-tags="topic_aritmetica,method_congruenze,method_conteggio,skill_conteggio_sistematico"></span>
+<span class="atom-split" id="q20" data-atom="q20" data-title="Quesito 20" data-tags="topic_aritmetica,method_congruenze,method_conteggio,method_simmetria,method_fattorizzazione,skill_conteggio_sistematico"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -753,7 +740,7 @@ level: squadre
 > Aiutando il reverendo James, invece di segnare 2011 punti distinti sulla circonferenza, Jake ne ha segnati 2010. Quanti tipi differenti di stelle può disegnare?
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]], [[method_conteggio|Conteggio combinatorio]]
+**Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]], [[method_conteggio|Conteggio combinatorio]], [[method_simmetria|Sfruttamento della simmetria]], [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 264
@@ -769,16 +756,15 @@ level: squadre
 >
 > By helping Reverend James, instead of marking 2011 distinct points on the circumference, Jake marked 2010. How many different types of stars can he draw?
 
+
 **Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
-**Metodo:** [[method_congruenze|Modular arithmetic / congruences]], [[method_conteggio|Combinatorial counting]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]], [[method_conteggio|Combinatorial counting]], [[method_simmetria|Using symmetry]], [[method_fattorizzazione|Factorisation / algebraic manipulation]]
 **Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
-[[Quesiti/src_gs_2010_squadre#q20|src_gs_2010_squadre__Q20]]
 
 
-
-<span class="atom-split" id="q21" data-atom="q21" data-title="Quesito 21" data-tags="topic_combinatoria,method_inclusione_esclusione,skill_conteggio_sistematico"></span>
+<span class="atom-split" id="q21" data-atom="q21" data-title="Quesito 21" data-tags="topic_combinatoria,method_inclusione_esclusione,skill_conteggio_sistematico,skill_modellizzazione"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -791,7 +777,7 @@ level: squadre
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_inclusione_esclusione|Inclusione-esclusione]]
-**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 540
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1UxUqQwFeYvRrpaNoj3FnmYVi_fX8FTJA/view)
@@ -806,16 +792,15 @@ level: squadre
 >
 > To track down the Blues Brothers, the commander of the Illinois Nazis wants to form 3 squads from a group of 9 volunteers. Knowing their innate incompetence, the commander appoints 3 squad leaders from among the 9 volunteers: Al, Bruno, and Cal. Furthermore, the commander wants each squad to have at least one other member in addition to the leader. How many different sets of three squads can the commander form?
 
+
 **Topic:** [[topic_combinatoria|Combinatorics]]
 **Metodo:** [[method_inclusione_esclusione|Inclusion–exclusion]]
-**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]], [[skill_modellizzazione|Modelling / translating the text]]
 **Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
-[[Quesiti/src_gs_2010_squadre#q21|src_gs_2010_squadre__Q21]]
 
 
-
-<span class="atom-split" id="q22" data-atom="q22" data-title="Quesito 22" data-tags="topic_combinatoria,topic_funzionali,method_inclusione_esclusione,skill_astrazione"></span>
+<span class="atom-split" id="q22" data-atom="q22" data-title="Quesito 22" data-tags="topic_combinatoria,topic_funzionali,method_inclusione_esclusione,method_ricorsione,skill_astrazione,skill_riconoscimento_pattern"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -833,9 +818,9 @@ level: squadre
 > Capisce che permettono di calcolare il valore della scrittura $n \mathbin{?} m$ per ogni coppia di numeri interi positivi o nulli. Aspettando Elwood, Twiggy calcola quanto vale $\dfrac{5 \mathbin{?} 5}{1000}$. Che numero trova?
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_funzionali|Equazioni funzionali / successioni]]
-**Metodo:** [[method_inclusione_esclusione|Inclusione-esclusione]]
-**Abilita:** [[skill_astrazione|Astrazione / generalizzazione]]
-**Area:** [[Algebra e Analisi]], [[Combinatoria, Logica e Probabilita]]
+**Metodo:** [[method_inclusione_esclusione|Inclusione-esclusione]], [[method_ricorsione|Ricorsione]]
+**Abilita:** [[skill_astrazione|Astrazione / generalizzazione]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Algebra e Analisi]]
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1UxUqQwFeYvRrpaNoj3FnmYVi_fX8FTJA/view)
 
 
@@ -854,16 +839,15 @@ level: squadre
 >
 > They realize that these rules make it possible to calculate the value of the expression $n \mathbin{?} m$ for every pair of non-negative integers. While waiting for Elwood, Twiggy calculates what value $\dfrac{5 \mathbin{?} 5}{1000}$ has. What number do they find?
 
+
 **Topic:** [[topic_combinatoria|Combinatorics]], [[topic_funzionali|Functional equations / sequences]]
-**Metodo:** [[method_inclusione_esclusione|Inclusion–exclusion]]
-**Abilita:** [[skill_astrazione|Abstraction / generalisation]]
-**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
-
-[[Quesiti/src_gs_2010_squadre#q22|src_gs_2010_squadre__Q22]]
+**Metodo:** [[method_inclusione_esclusione|Inclusion–exclusion]], [[method_ricorsione|Recursion]]
+**Abilita:** [[skill_astrazione|Abstraction / generalisation]], [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Algebra e Analisi|Algebra and analysis]]
 
 
 
-<span class="atom-split" id="q23" data-atom="q23" data-title="Quesito 23" data-tags="topic_probabilita,topic_combinatoria,skill_astrazione"></span>
+<span class="atom-split" id="q23" data-atom="q23" data-title="Quesito 23" data-tags="topic_probabilita,topic_combinatoria,method_simmetria,skill_astrazione,skill_modellizzazione"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -875,7 +859,8 @@ level: squadre
 > Un altro gioco d'azzardo si gioca sempre con un sacchetto contenente 2010 biglie, 7 rosse e tutte le altre nere. Le regole prevedono di estrarre le biglie una alla volta fino a che non siano uscite tutte le rosse: a quel punto il gioco è finito. Elwood si chiede mediamente quante estrazioni duri il gioco. Jake non capisce esattamente cosa intenda suo fratello, ma Ray, che la sa lunga, gli spiega che tra i tanti modi di definire il numero medio di estrazioni del gioco (tutti che portano allo stesso risultato) quello più interessante è la somma delle probabilità $p_k$ dove, per ogni numero naturale $0 \le k \le 2010$, $p_k$ è la probabilità che, dopo la $k$-esima estrazione, non siano uscite tutte le 7 biglie rosse. Qual è il numero medio di estrazioni?
 
 **Topic:** [[topic_probabilita|Probabilita e statistica]], [[topic_combinatoria|Combinatoria]]
-**Abilita:** [[skill_astrazione|Astrazione / generalizzazione]]
+**Metodo:** [[method_simmetria|Sfruttamento della simmetria]]
+**Abilita:** [[skill_astrazione|Astrazione / generalizzazione]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 1759.62
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1UxUqQwFeYvRrpaNoj3FnmYVi_fX8FTJA/view)
@@ -890,15 +875,15 @@ level: squadre
 >
 > Another gambling game is always played with a bag containing 2010 marbles—7 red and all the rest black. The rules stipulate that the marbles are drawn one at a time until all the red ones have come out; at that point, the game is over. Elwood wonders, on average, how many draws the game will last. Jake doesn't quite understand what his brother means, but Ray, who knows a thing or two, explains to him that among the many ways of defining the average number of draws in the game (all of which lead to the same result), the most interesting one is the sum of the probabilities $p_k$, where, for each natural number $0 \le k \le 2010$, $p_k$ is the probability that, after the $k$-th draw, not all 7 red marbles have come out. What is the average number of draws?
 
+
 **Topic:** [[topic_probabilita|Probability and statistics]], [[topic_combinatoria|Combinatorics]]
-**Abilita:** [[skill_astrazione|Abstraction / generalisation]]
+**Metodo:** [[method_simmetria|Using symmetry]]
+**Abilita:** [[skill_astrazione|Abstraction / generalisation]], [[skill_modellizzazione|Modelling / translating the text]]
 **Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
-[[Quesiti/src_gs_2010_squadre#q23|src_gs_2010_squadre__Q23]]
 
 
-
-<span class="atom-split" id="q24" data-atom="q24" data-title="Quesito 24" data-tags="topic_aritmetica,topic_combinatoria,method_congruenze,skill_riconoscimento_pattern"></span>
+<span class="atom-split" id="q24" data-atom="q24" data-title="Quesito 24" data-tags="topic_aritmetica,topic_combinatoria,method_congruenze,method_ricorsione,skill_riconoscimento_pattern,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -912,8 +897,8 @@ level: squadre
 > (Le regole dell'operazione $?$ sono quelle del problema 22.)
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
-**Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]]
-**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]], [[method_ricorsione|Ricorsione]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 34
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1UxUqQwFeYvRrpaNoj3FnmYVi_fX8FTJA/view)
@@ -930,9 +915,8 @@ level: squadre
 >
 > (The rules for the operation $?$ are those of problem 22.)
 
-**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_combinatoria|Combinatorics]]
-**Metodo:** [[method_congruenze|Modular arithmetic / congruences]]
-**Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]]
-**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
-[[Quesiti/src_gs_2010_squadre#q24|src_gs_2010_squadre__Q24]]
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]], [[method_ricorsione|Recursion]]
+**Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]

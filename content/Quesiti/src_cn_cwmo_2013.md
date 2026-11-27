@@ -10,7 +10,7 @@ level: China Western Mathematical Olympiad
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_combinatoria,topic_insiemi_funzioni,method_induzione,method_ricorsione,method_conteggio,skill_conteggio_sistematico,skill_manipolazione_algebrica,skill_ragionamento_geometrico,skill_riconoscimento_pattern"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_combinatoria,topic_insiemi_funzioni,method_induzione,method_ricorsione,method_conteggio,method_casework,skill_conteggio_sistematico,skill_manipolazione_algebrica,skill_ragionamento_geometrico,skill_riconoscimento_pattern,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -20,9 +20,9 @@ level: China Western Mathematical Olympiad
 > A non-empty set $A \subseteq \{1, 2, 3, \ldots, n\}$ is called a good set of degree $n$ if $|A| \leq \min_{a \in A} a$. Let $a_n$ denote the number of good sets of degree $n$. Prove that $a_n = a_{n-1} + a_{n-2} + 1$ for any positive integer $n \geq 1$.
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_insiemi_funzioni|Insiemi e funzioni]]
-**Metodo:** [[method_induzione|Induzione]], [[method_ricorsione|Ricorsione]], [[method_conteggio|Conteggio]]
-**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
-**Area:** [[Combinatoria, Logica e Probabilita]], [[Algebra e Analisi]]
+**Metodo:** [[method_induzione|Induzione]], [[method_ricorsione|Ricorsione]], [[method_conteggio|Conteggio]], [[method_casework|Case analysis]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Algebra e Analisi|Algebra and analysis]]
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1cjmD7lTT4vb3nB3ylcVCHeHucUE2rNI0/view)
 
 
@@ -33,12 +33,11 @@ level: China Western Mathematical Olympiad
 
 > Un insieme non vuoto $A \subseteq \{1, 2, 3, \ldots, n\}$ è detto insieme buono di grado $n$ se $|A| \leq \min_{a \in A} a$. Sia $a_n$ il numero di insiemi buoni di grado $n$. Dimostrare che $a_n = a_{n-1} + a_{n-2} + 1$ per ogni intero positivo $n \geq 1$.
 
-**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_insiemi_funzioni|Insiemi e funzioni]]
-**Metodo:** [[method_induzione|Induzione]], [[method_ricorsione|Ricorsione]], [[method_conteggio|Conteggio]]
-**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
-**Area:** [[Combinatoria, Logica e Probabilita]], [[Algebra e Analisi]]
 
-[[Quesiti/src_cn_cwmo_2013#q01|src_cn_cwmo_2013__Q01]]
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_insiemi_funzioni|Insiemi e funzioni]]
+**Metodo:** [[method_induzione|Induzione]], [[method_ricorsione|Ricorsione]], [[method_conteggio|Conteggio]], [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Algebra e Analisi]]
 
 
 
@@ -74,8 +73,6 @@ level: China Western Mathematical Olympiad
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Algebra e Analisi]]
 
-[[Quesiti/src_cn_cwmo_2013#q02|src_cn_cwmo_2013__Q02]]
-
 
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_geometria_piana,method_trigonometria,method_simmetria,skill_ragionamento_geometrico,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
@@ -87,7 +84,7 @@ level: China Western Mathematical Olympiad
 
 > As shown in Fig. 6.1, $PA$, $PB$ are tangent to the circle with centre $O$ at $A$ and $B$, point $C$ (different from $A$, $B$) is on minor arc $AB$. The line $l$ through point $C$ and perpendicular to $PC$ meets the angle bisectors of $\angle AOC$ and $\angle BOC$ at points $D$ and $E$, respectively. Prove that $CD = CE$. (posed by He Yijie)
 
-![[src_cn_cwmo_b11_w268__q03.png]]
+![[src_cn_cwmo_b11_w268__Q03.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_trigonometria|Trigonometria]], [[method_simmetria|Simmetria]]
@@ -103,14 +100,12 @@ level: China Western Mathematical Olympiad
 
 > Come mostrato nella Fig. 6.1, $PA$ e $PB$ sono tangenti al cerchio di centro $O$ nei punti $A$ e $B$; il punto $C$ (diverso da $A$ e $B$) giace sull'arco minore $AB$. La retta $l$, passante per il punto $C$ e perpendicolare a $PC$, incontra le bisettrici dell'angolo di $\angle AOC$ e di $\angle BOC$ nei punti $D$ e $E$, rispettivamente. Dimostrare che $CD = CE$. (proposto da He Yijie)
 
-![[src_cn_cwmo_b11_w268__q03.png]]
+![[src_cn_cwmo_b11_w268__Q03.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_trigonometria|Trigonometria]], [[method_simmetria|Simmetria]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Geometria]]
-
-[[Quesiti/src_cn_cwmo_2013#q03|src_cn_cwmo_2013__Q03]]
 
 
 
@@ -123,7 +118,7 @@ level: China Western Mathematical Olympiad
 
 > Label the sides of a regular $n$-gon clockwise with $1, 2, \ldots, n$. Determine all integers $n$ ($n \geq 4$) satisfying the following two conditions:\n(1) no two intersecting diagonals in the $n$-gon are both selected, and the chosen $n - 3$ non-crossing diagonals subdivide the $n$-gon into $n - 2$ non-overlapping triangles;\n(2) each of the chosen $n - 3$ diagonals is labeled with a positive integer, such that no two diagonals share the same label, and the sum of the labeled numbers on the three sides of each triangle is equal to the same value. (posed by Zou Jin)
 
-![[src_cn_cwmo_b11_w268__q04.png]]
+![[src_cn_cwmo_b11_w268__Q04.png]]
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_casework|Casework]], [[method_congruenze|Congruenze]], [[method_invarianti|Invarianti]]
@@ -140,18 +135,16 @@ level: China Western Mathematical Olympiad
 
 > Etichetta i lati di un $n$-gono regolare in senso orario con $1, 2, \ldots, n$. Determinare tutti gli interi $n$ ($n \geq 4$) che soddisfano le seguenti due condizioni:\n(1) nessuna delle due diagonali che si intersecano in un $n$-gono è selezionata insieme all'altra, e le $n - 3$ diagonali non incidenti scelte suddividono l'$n$-gono in $n - 2$ triangoli non sovrapposti;\n(2) ciascuna delle $n - 3$ diagonali scelte è etichettata con un numero intero positivo, in modo che nessuna coppia di diagonali condivida la stessa etichetta, e la somma dei numeri etichettati sui tre lati di ciascun triangolo è uguale allo stesso valore. (proposto da Zou Jin)
 
-![[src_cn_cwmo_b11_w268__q04.png]]
+![[src_cn_cwmo_b11_w268__Q04.png]]
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_casework|Casework]], [[method_congruenze|Congruenze]], [[method_invarianti|Invarianti]]
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 
-[[Quesiti/src_cn_cwmo_2013#q04|src_cn_cwmo_2013__Q04]]
 
 
-
-<span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_aritmetica,method_congruenze,method_fattorizzazione,method_induzione,skill_manipolazione_algebrica,skill_ragionamento_geometrico,skill_riconoscimento_pattern,skill_lettura_attenta"></span>
+<span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_aritmetica,method_congruenze,method_fattorizzazione,method_induzione,method_casework,skill_manipolazione_algebrica,skill_ragionamento_geometrico,skill_riconoscimento_pattern,skill_lettura_attenta"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -161,9 +154,9 @@ level: China Western Mathematical Olympiad
 > Find all positive integers $a$ such that $(2^n - n^2) \mid (a^n - n^a)$ for all positive integers $n \geq 4$. (posed by Yang Mingliang)
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_congruenze|Congruenze]], [[method_fattorizzazione|Fattorizzazione]], [[method_induzione|Induzione]]
+**Metodo:** [[method_congruenze|Congruenze]], [[method_fattorizzazione|Fattorizzazione]], [[method_induzione|Induzione]], [[method_casework|Case analysis]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_lettura_attenta|Lettura attenta]]
-**Area:** [[Aritmetica e Teoria dei Numeri]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Risposta:** $a = 2$ or $a = 4$
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1cjmD7lTT4vb3nB3ylcVCHeHucUE2rNI0/view)
 
@@ -175,9 +168,8 @@ level: China Western Mathematical Olympiad
 
 > Trovare tutti gli interi positivi $a$ tali che $(2^n - n^2) \mid (a^n - n^a)$ per tutti gli interi positivi $n \geq 4$. (proposto da Yang Mingliang)
 
+
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_congruenze|Congruenze]], [[method_fattorizzazione|Fattorizzazione]], [[method_induzione|Induzione]]
+**Metodo:** [[method_congruenze|Congruenze]], [[method_fattorizzazione|Fattorizzazione]], [[method_induzione|Induzione]], [[method_casework|Analisi per casi]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
-
-[[Quesiti/src_cn_cwmo_2013#q05|src_cn_cwmo_2013__Q05]]

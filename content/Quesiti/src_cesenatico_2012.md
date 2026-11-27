@@ -10,7 +10,7 @@ level: nazionale
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_geometria_piana,skill_ragionamento_geometrico"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_geometria_piana,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -27,7 +27,7 @@ level: nazionale
 > AC .
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
-**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1BVUN2Bz52Jm2vo9MCNXxGskJnttPAfkt/view)
 
@@ -45,14 +45,14 @@ level: nazionale
 > 1
 > AC .
 
+
 **Topic:** [[topic_geometria_piana|Plane geometry]]
-**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
-
-[[Quesiti/src_cesenatico_2012#q01|src_cesenatico_2012__Q01]]
-
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Geometria|Geometry]]
 
 
-<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_aritmetica,method_congruenze,method_disuguaglianze,skill_manipolazione_algebrica"></span>
+
+<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_aritmetica,method_congruenze,method_disuguaglianze,method_casework,skill_manipolazione_algebrica,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -62,8 +62,8 @@ level: nazionale
 > Determinare tutti gli interi positivi che sono uguali a 300 volte la somma delle loro cifre.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]], [[method_disuguaglianze|Disuguaglianze classiche]]
-**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]], [[method_disuguaglianze|Disuguaglianze classiche]], [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 2700
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1BVUN2Bz52Jm2vo9MCNXxGskJnttPAfkt/view)
@@ -76,15 +76,15 @@ level: nazionale
 
 > Determine all positive integers that are equal to 300 times the sum of their digits.
 
+
 **Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
-**Method:** [[method_congruenze|Modular arithmetic / congruences]], [[method_disuguaglianze|Classical inequalities]]
-**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
-
-[[Quesiti/src_cesenatico_2012#q02|src_cesenatico_2012__Q02]]
-
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]], [[method_disuguaglianze|Classical inequalities]], [[method_casework|Case analysis]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
 
-<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_logica,method_invarianti,skill_lettura_attenta"></span>
+
+<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_logica,method_invarianti,method_casework,skill_lettura_attenta,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -98,8 +98,8 @@ level: nazionale
 > possibile determinare per ognuna delle persone se si tratta di un furfante o di un cavaliere.
 
 **Topic:** [[topic_logica|Logica, giochi, strategie]]
-**Metodo:** [[method_invarianti|Invarianti / monovarianti]]
-**Abilita:** [[skill_lettura_attenta|Lettura attenta del testo]]
+**Metodo:** [[method_invarianti|Invarianti / monovarianti]], [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_lettura_attenta|Lettura attenta del testo]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1BVUN2Bz52Jm2vo9MCNXxGskJnttPAfkt/view)
 
@@ -111,15 +111,15 @@ level: nazionale
 
 > Let n be an integer greater than or equal to 2. There are n people in single file, each of whom is either a knave (and always lies) or a knight (and always tells the truth). Each person, except the first, points to one of the people in front of them and declares "This person is a knave" or "This person is a knight". Knowing that there are strictly more knaves than knights, prove that by witnessing the declarations it is possible to determine, for each of the people, whether they are a knave or a knight.
 
+
 **Topic:** [[topic_logica|Logic, games and strategies]]
-**Method:** [[method_invarianti|Invariants / monovariants]]
-**Skill:** [[skill_lettura_attenta|Careful reading of the wording]]
-
-[[Quesiti/src_cesenatico_2012#q03|src_cesenatico_2012__Q03]]
-
+**Metodo:** [[method_invarianti|Invariants / monovariants]], [[method_casework|Case analysis]]
+**Abilita:** [[skill_lettura_attenta|Careful reading of the wording]], [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
 
-<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_funzionali,topic_aritmetica,method_congruenze,method_ricorsione,skill_manipolazione_algebrica"></span>
+
+<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_funzionali,topic_aritmetica,method_congruenze,method_ricorsione,method_fattorizzazione,skill_manipolazione_algebrica,skill_riconoscimento_pattern"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -135,8 +135,8 @@ level: nazionale
 > Trovare tutte le coppie di interi positivi {a, b} tali che xaxb è un quadrato perfetto.
 
 **Topic:** [[topic_funzionali|Equazioni funzionali / successioni]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]], [[method_ricorsione|Ricorsione]]
-**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]], [[method_ricorsione|Ricorsione]], [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** {1,2}
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1BVUN2Bz52Jm2vo9MCNXxGskJnttPAfkt/view)
@@ -155,15 +155,15 @@ level: nazionale
 > (The first terms of the sequence are therefore x1 = 4, x2 = 4 + 5 = 9, x3 = 4 · 9 + 5 = 41, . . . )
 > Find all pairs of positive integers {a, b} such that xaxb is a perfect square.
 
+
 **Topic:** [[topic_funzionali|Functional equations / sequences]], [[topic_aritmetica|Arithmetic / Number theory]]
-**Method:** [[method_congruenze|Modular arithmetic / congruences]], [[method_ricorsione|Recursion]]
-**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
-
-[[Quesiti/src_cesenatico_2012#q04|src_cesenatico_2012__Q04]]
-
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]], [[method_ricorsione|Recursion]], [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
 
-<span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_geometria_piana,method_simmetria,skill_ragionamento_geometrico"></span>
+
+<span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_geometria_piana,topic_trigonometria,method_simmetria,method_trigonometria,skill_ragionamento_geometrico"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -175,8 +175,8 @@ level: nazionale
 > APB + \
 > CPD = 180o.
 
-**Topic:** [[topic_geometria_piana|Geometria piana]]
-**Metodo:** [[method_simmetria|Sfruttamento della simmetria]]
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometria]]
+**Metodo:** [[method_simmetria|Sfruttamento della simmetria]], [[method_trigonometria|Tecniche trigonometriche]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]]
 **Risposta:** diagonali e archi della circoscritta
@@ -193,11 +193,11 @@ level: nazionale
 > APB + \
 > CPD = 180o.
 
-**Topic:** [[topic_geometria_piana|Plane geometry]]
-**Method:** [[method_simmetria|Using symmetry]]
-**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
 
-[[Quesiti/src_cesenatico_2012#q05|src_cesenatico_2012__Q05]]
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_trigonometria|Trigonometry]]
+**Metodo:** [[method_simmetria|Using symmetry]], [[method_trigonometria|Trigonometric techniques]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
 
 
 
@@ -230,5 +230,4 @@ level: nazionale
 **Topic:** [[topic_combinatoria|Combinatorics]], [[topic_aritmetica|Arithmetic / Number theory]]
 **Method:** [[method_colorazione|Colouring / parity]], [[method_congruenze|Modular arithmetic / congruences]]
 **Skill:** [[skill_astrazione|Abstraction / generalisation]]
-
-[[Quesiti/src_cesenatico_2012#q06|src_cesenatico_2012__Q06]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]

@@ -10,7 +10,7 @@ level: squadre
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_combinatoria,topic_insiemi_funzioni,method_inclusione_esclusione,skill_conteggio_sistematico"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_combinatoria,topic_insiemi_funzioni,topic_algebra,method_inclusione_esclusione,skill_conteggio_sistematico,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -23,10 +23,10 @@ level: squadre
 > all’arancia, 34 hanno due caramelle di gusto diverso. Quante persone hanno tre caramelle dello stesso 
 > gusto?
 
-**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_insiemi_funzioni|Insiemi e funzioni]]
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_insiemi_funzioni|Insiemi e funzioni]], [[topic_algebra|Algebra]]
 **Metodo:** [[method_inclusione_esclusione|Inclusione-esclusione]]
-**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
-**Area:** [[Algebra e Analisi]], [[Combinatoria, Logica e Probabilita]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Algebra e Analisi]]
 **Risposta:** 0101
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1nKEk1ALhWjpzgX8LU7yX2aIPmgB2FDjn/view)
 
@@ -40,12 +40,11 @@ level: squadre
 >
 > In a certain group of people, each has three sweets, which can only be lemon or orange. 90 people have at least two lemon sweets, 45 have at least two orange sweets, and 34 have two sweets of different flavour. How many people have three sweets of the same flavour?
 
-**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_insiemi_funzioni|Sets and functions]]
-**Method:** [[method_inclusione_esclusione|Inclusion–exclusion]]
-**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
-**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_insiemi_funzioni|Sets and functions]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_inclusione_esclusione|Inclusion–exclusion]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Algebra e Analisi|Algebra and analysis]]
 **Answer:** 0101
-[[Quesiti/src_kangourou_2023_kangourou_squadre#q01|src_kangourou_2023_kangourou_squadre__Q01]]
 
 
 
@@ -111,11 +110,10 @@ level: squadre
 **Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
 **Area:** [[Geometria|Geometry]]
 **Answer:** 0070
-[[Quesiti/src_kangourou_2023_kangourou_squadre#q02|src_kangourou_2023_kangourou_squadre__Q02]]
 
 
 
-<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_algebra,topic_aritmetica,method_disuguaglianze,skill_modellizzazione"></span>
+<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_algebra,topic_aritmetica,method_disuguaglianze,method_congruenze,skill_modellizzazione,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -130,8 +128,8 @@ level: squadre
 > degli iscritti?
 
 **Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_disuguaglianze|Disuguaglianze classiche]]
-**Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze classiche]], [[method_congruenze|Aritmetica modulare / congruenze]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 0051
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1nKEk1ALhWjpzgX8LU7yX2aIPmgB2FDjn/view)
@@ -147,15 +145,14 @@ level: squadre
 > Marco and his brother enrolled in a summer camp. The weekly cost of enrolling one child in that camp is 60 euros, but if a family enrols more than one child it is entitled to the reduced fee of 54 euros for every child from the second onwards. For enrolments in the first week, 3.000 euros were collected and more than half of those enrolled are only children. What is the least number of those enrolled?
 
 **Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Arithmetic / Number theory]]
-**Method:** [[method_disuguaglianze|Classical inequalities]]
-**Skill:** [[skill_modellizzazione|Modelling / translating the text]]
+**Metodo:** [[method_disuguaglianze|Classical inequalities]], [[method_congruenze|Modular arithmetic / congruences]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
 **Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Answer:** 0051
-[[Quesiti/src_kangourou_2023_kangourou_squadre#q03|src_kangourou_2023_kangourou_squadre__Q03]]
 
 
 
-<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_algebra,skill_modellizzazione"></span>
+<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_algebra,method_fattorizzazione,skill_modellizzazione,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -169,7 +166,8 @@ level: squadre
 > percorso 150 metri dal punto del primo incontro. Quanti metri è lunga la pista?
 
 **Topic:** [[topic_algebra|Algebra]]
-**Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Algebra e Analisi]]
 **Risposta:** 0250
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1nKEk1ALhWjpzgX8LU7yX2aIPmgB2FDjn/view)
@@ -185,14 +183,14 @@ level: squadre
 > Paolo and Gino train by running along a circular track. They set off from the same point, but run in opposite directions, each at his own constant speed. When they meet for the first time, Paolo has covered 100 metres from the start; when they meet for the second time, Gino has covered 150 metres from the point of the first meeting. How many metres long is the track?
 
 **Topic:** [[topic_algebra|Algebra]]
-**Skill:** [[skill_modellizzazione|Modelling / translating the text]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
 **Area:** [[Algebra e Analisi|Algebra and analysis]]
 **Answer:** 0250
-[[Quesiti/src_kangourou_2023_kangourou_squadre#q04|src_kangourou_2023_kangourou_squadre__Q04]]
 
 
 
-<span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_combinatoria,method_conteggio,skill_conteggio_sistematico"></span>
+<span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_combinatoria,method_conteggio,method_casework,skill_conteggio_sistematico,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -204,8 +202,8 @@ level: squadre
 > nessuna riga e nessuna colonna ospiti entrambe le lettere U. Quanti diversi inserimenti sono possibili?
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
-**Metodo:** [[method_conteggio|Conteggio combinatorio]]
-**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Metodo:** [[method_conteggio|Conteggio combinatorio]], [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0144
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1nKEk1ALhWjpzgX8LU7yX2aIPmgB2FDjn/view)
@@ -221,15 +219,14 @@ level: squadre
 > The six letters of the word SUDOKU are to be entered in the six cells of a 2 × 3 grid so that no row and no column holds both letters U. How many different insertions are possible?
 
 **Topic:** [[topic_combinatoria|Combinatorics]]
-**Method:** [[method_conteggio|Combinatorial counting]]
-**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+**Metodo:** [[method_conteggio|Combinatorial counting]], [[method_casework|Case analysis]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]], [[skill_casework_accurato|Careful case analysis]]
 **Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** 0144
-[[Quesiti/src_kangourou_2023_kangourou_squadre#q05|src_kangourou_2023_kangourou_squadre__Q05]]
 
 
 
-<span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_algebra,skill_manipolazione_algebrica"></span>
+<span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_algebra,method_fattorizzazione,skill_manipolazione_algebrica,skill_modellizzazione"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -250,7 +247,8 @@ level: squadre
 > E
 
 **Topic:** [[topic_algebra|Algebra]]
-**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
 **Area:** [[Algebra e Analisi]]
 **Risposta:** 0600
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1nKEk1ALhWjpzgX8LU7yX2aIPmgB2FDjn/view)
@@ -266,10 +264,10 @@ level: squadre
 > The people who attend a gym are divided into groups all equally numerous, each supervised by an instructor. By hiring 10 more instructors, each group could be reduced by 5; by hiring 20 more instead, each group could be reduced by 8. How many people attend the gym?
 
 **Topic:** [[topic_algebra|Algebra]]
-**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_modellizzazione|Modelling / translating the text]]
 **Area:** [[Algebra e Analisi|Algebra and analysis]]
 **Answer:** 0600
-[[Quesiti/src_kangourou_2023_kangourou_squadre#q06|src_kangourou_2023_kangourou_squadre__Q06]]
 
 
 
@@ -313,11 +311,10 @@ level: squadre
 **Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
 **Area:** [[Geometria|Geometry]]
 **Answer:** 0176
-[[Quesiti/src_kangourou_2023_kangourou_squadre#q07|src_kangourou_2023_kangourou_squadre__Q07]]
 
 
 
-<span class="atom-split" id="q08" data-atom="q08" data-title="Quesito 8" data-tags="topic_combinatoria,topic_insiemi_funzioni,method_inclusione_esclusione,skill_astrazione"></span>
+<span class="atom-split" id="q08" data-atom="q08" data-title="Quesito 8" data-tags="topic_combinatoria,topic_insiemi_funzioni,method_inclusione_esclusione,method_estremalita,skill_astrazione"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -332,9 +329,9 @@ level: squadre
 > le tre domande sono il minimo compatibile con queste percentuali. Quanti sono?
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_insiemi_funzioni|Insiemi e funzioni]]
-**Metodo:** [[method_inclusione_esclusione|Inclusione-esclusione]]
+**Metodo:** [[method_inclusione_esclusione|Inclusione-esclusione]], [[method_estremalita|Principio di estremalita]]
 **Abilita:** [[skill_astrazione|Astrazione / generalizzazione]]
-**Area:** [[Algebra e Analisi]], [[Combinatoria, Logica e Probabilita]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Algebra e Analisi]]
 **Risposta:** 0036
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1nKEk1ALhWjpzgX8LU7yX2aIPmgB2FDjn/view)
 
@@ -349,11 +346,10 @@ level: squadre
 > A certain number of students were asked the same three questions. 1260 of them answered the first question correctly: they are exactly 70% of the total. The percentage of the students who answered the second correctly is 79%, and the percentage of the students who answered the third correctly is 53%. The students who answered all three questions correctly are the least number compatible with these percentages. How many are there?
 
 **Topic:** [[topic_combinatoria|Combinatorics]], [[topic_insiemi_funzioni|Sets and functions]]
-**Method:** [[method_inclusione_esclusione|Inclusion–exclusion]]
-**Skill:** [[skill_astrazione|Abstraction / generalisation]]
-**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+**Metodo:** [[method_inclusione_esclusione|Inclusion–exclusion]], [[method_estremalita|Extremal principle]]
+**Abilita:** [[skill_astrazione|Abstraction / generalisation]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Algebra e Analisi|Algebra and analysis]]
 **Answer:** 0036
-[[Quesiti/src_kangourou_2023_kangourou_squadre#q08|src_kangourou_2023_kangourou_squadre__Q08]]
 
 
 
@@ -392,11 +388,10 @@ level: squadre
 **Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
 **Area:** [[Geometria|Geometry]]
 **Answer:** 0540
-[[Quesiti/src_kangourou_2023_kangourou_squadre#q09|src_kangourou_2023_kangourou_squadre__Q09]]
 
 
 
-<span class="atom-split" id="q10" data-atom="q10" data-title="Quesito 10" data-tags="topic_algebra,topic_aritmetica,method_estremalita,skill_manipolazione_algebrica"></span>
+<span class="atom-split" id="q10" data-atom="q10" data-title="Quesito 10" data-tags="topic_algebra,topic_aritmetica,method_estremalita,method_fattorizzazione,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -410,7 +405,7 @@ level: squadre
 > 𝐴+𝐵  può assumere?
 
 **Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_estremalita|Principio di estremalita]]
+**Metodo:** [[method_estremalita|Principio di estremalita]], [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 0119
@@ -432,15 +427,14 @@ level: squadre
 > can take?
 
 **Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Arithmetic / Number theory]]
-**Method:** [[method_estremalita|Extremal principle]]
-**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Metodo:** [[method_estremalita|Extremal principle]], [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
 **Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Answer:** 0119
-[[Quesiti/src_kangourou_2023_kangourou_squadre#q10|src_kangourou_2023_kangourou_squadre__Q10]]
 
 
 
-<span class="atom-split" id="q11" data-atom="q11" data-title="Quesito 11" data-tags="topic_geometria_piana,skill_ragionamento_geometrico"></span>
+<span class="atom-split" id="q11" data-atom="q11" data-title="Quesito 11" data-tags="topic_geometria_piana,method_simmetria,skill_ragionamento_geometrico"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -455,6 +449,7 @@ level: squadre
 > 150. Quanto vale l’area di KLM?
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_simmetria|Sfruttamento della simmetria]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]]
 **Risposta:** 0050
@@ -473,14 +468,14 @@ level: squadre
 > Inside the equilateral triangle ABC in the picture, the triangle KLM has been obtained, which has each side perpendicular to one of the sides of ABC. The area of ABC is 150. What is the area of KLM?
 
 **Topic:** [[topic_geometria_piana|Plane geometry]]
-**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Metodo:** [[method_simmetria|Using symmetry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
 **Area:** [[Geometria|Geometry]]
 **Answer:** 0050
-[[Quesiti/src_kangourou_2023_kangourou_squadre#q11|src_kangourou_2023_kangourou_squadre__Q11]]
 
 
 
-<span class="atom-split" id="q12" data-atom="q12" data-title="Quesito 12" data-tags="topic_algebra,topic_logica,method_invarianti,skill_astrazione"></span>
+<span class="atom-split" id="q12" data-atom="q12" data-title="Quesito 12" data-tags="topic_algebra,topic_logica,method_invarianti,skill_astrazione,skill_riconoscimento_pattern"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -493,7 +488,7 @@ level: squadre
 
 **Topic:** [[topic_algebra|Algebra]], [[topic_logica|Logica, giochi, strategie]]
 **Metodo:** [[method_invarianti|Invarianti / monovarianti]]
-**Abilita:** [[skill_astrazione|Astrazione / generalizzazione]]
+**Abilita:** [[skill_astrazione|Astrazione / generalizzazione]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Algebra e Analisi]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 2023
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1nKEk1ALhWjpzgX8LU7yX2aIPmgB2FDjn/view)
@@ -506,16 +501,15 @@ level: squadre
 
 > A Hundred Numbers in a Circle On a circumference, 100 numbers are written, each of which is the arithmetic mean of the two numbers adjacent to it. One of them is 2,023, and none are larger. What is the value of the smallest one?
 
+
 **Topic:** [[topic_algebra|Algebra]], [[topic_logica|Logic, games and strategies]]
 **Metodo:** [[method_invarianti|Invariants / monovariants]]
-**Abilita:** [[skill_astrazione|Abstraction / generalisation]]
+**Abilita:** [[skill_astrazione|Abstraction / generalisation]], [[skill_riconoscimento_pattern|Pattern recognition]]
 **Area:** [[Algebra e Analisi|Algebra and analysis]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
-[[Quesiti/src_kangourou_2023_kangourou_squadre#q12|src_kangourou_2023_kangourou_squadre__Q12]]
 
 
-
-<span class="atom-split" id="q13" data-atom="q13" data-title="Quesito 13" data-tags="topic_aritmetica,method_inclusione_esclusione,skill_conteggio_sistematico"></span>
+<span class="atom-split" id="q13" data-atom="q13" data-title="Quesito 13" data-tags="topic_aritmetica,method_inclusione_esclusione,skill_conteggio_sistematico,skill_stima"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -528,7 +522,7 @@ level: squadre
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_inclusione_esclusione|Inclusione-esclusione]]
-**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_stima|Stima e approssimazione]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 0528
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1nKEk1ALhWjpzgX8LU7yX2aIPmgB2FDjn/view)
@@ -541,16 +535,15 @@ level: squadre
 
 > The 500th term: Suppose you list in increasing order all positive integers that are neither perfect squares nor perfect cubes. What is the 500th term of the sequence?
 
+
 **Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
 **Metodo:** [[method_inclusione_esclusione|Inclusion–exclusion]]
-**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]], [[skill_stima|Estimation and approximation]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
-[[Quesiti/src_kangourou_2023_kangourou_squadre#q13|src_kangourou_2023_kangourou_squadre__Q13]]
 
 
-
-<span class="atom-split" id="q14" data-atom="q14" data-title="Quesito 14" data-tags="topic_aritmetica,method_congruenze,skill_manipolazione_algebrica"></span>
+<span class="atom-split" id="q14" data-atom="q14" data-title="Quesito 14" data-tags="topic_aritmetica,method_congruenze,method_fattorizzazione,skill_manipolazione_algebrica,skill_riconoscimento_pattern"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -562,8 +555,8 @@ level: squadre
 > delle cifre di n?
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]]
-**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]], [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 2240
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1nKEk1ALhWjpzgX8LU7yX2aIPmgB2FDjn/view)
@@ -576,16 +569,15 @@ level: squadre
 
 > Three times n Let n be a six-digit integer 1ABCDE. If the number 3 × n is ABCDE1, what is the product of the digits of n?
 
+
 **Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
-**Metodo:** [[method_congruenze|Modular arithmetic / congruences]]
-**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]], [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_riconoscimento_pattern|Pattern recognition]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
-[[Quesiti/src_kangourou_2023_kangourou_squadre#q14|src_kangourou_2023_kangourou_squadre__Q14]]
 
 
-
-<span class="atom-split" id="q15" data-atom="q15" data-title="Quesito 15" data-tags="topic_geometria_piana,skill_ragionamento_geometrico"></span>
+<span class="atom-split" id="q15" data-atom="q15" data-title="Quesito 15" data-tags="topic_geometria_piana,skill_ragionamento_geometrico,skill_modellizzazione"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -604,7 +596,7 @@ level: squadre
 > Quesiti e soluzioni
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
-**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
 **Area:** [[Geometria]]
 **Risposta:** 0153
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1nKEk1ALhWjpzgX8LU7yX2aIPmgB2FDjn/view)
@@ -620,8 +612,7 @@ level: squadre
 >
 > Questions and Solutions
 
-**Topic:** [[topic_geometria_piana|Plane geometry]]
-**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
-**Area:** [[Geometria|Geometry]]
 
-[[Quesiti/src_kangourou_2023_kangourou_squadre#q15|src_kangourou_2023_kangourou_squadre__Q15]]
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Geometria|Geometry]]

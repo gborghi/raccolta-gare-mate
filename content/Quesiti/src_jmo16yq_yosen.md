@@ -37,8 +37,8 @@ level: JMO Yosen
 **Argomento:** [[topic_aritmetica|Aritmetica / Teoria dei numeri]]
 **Metodo:** [[method_estremalita|Principio di estremalità]], [[method_casework|Analisi per casi]]
 **Abilità:** [[skill_lettura_attenta|Lettura attenta del testo]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima e approssimazione]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 792
-[[Quesiti/src_jmo16yq_yosen#q01|src_jmo16yq_yosen__Q01]]
 
 
 
@@ -69,8 +69,8 @@ level: JMO Yosen
 **Argomento:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_coordinate|Metodo delle coordinate]]
 **Abilità:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
 **Risposta:** $2\sqrt{7}$
-[[Quesiti/src_jmo16yq_yosen#q02|src_jmo16yq_yosen__Q02]]
 
 
 
@@ -109,12 +109,12 @@ level: JMO Yosen
 **Argomento:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_casework|Analisi per casi]], [[method_conteggio|Conteggio combinatorio]]
 **Abilità:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Analisi per casi accurata]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 36
-[[Quesiti/src_jmo16yq_yosen#q03|src_jmo16yq_yosen__Q03]]
 
 
 
-<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_aritmetica,topic_combinatoria,method_estremalita,method_casework,skill_lettura_attenta,skill_conteggio_sistematico,skill_riconoscimento_pattern"></span>
+<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_aritmetica,topic_combinatoria,method_estremalita,method_casework,method_congruenze,skill_lettura_attenta,skill_conteggio_sistematico,skill_riconoscimento_pattern,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -124,9 +124,9 @@ level: JMO Yosen
 > Among all sets of three distinct positive integers such that the sum of any two of them is a perfect square, find all such sets for which the smallest element is as small as possible. Two sets are considered the same if they contain the same elements regardless of order (e.g., $\{1, 2, 3\}$ and $\{3, 2, 1\}$ are the same).
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
-**Metodo:** [[method_estremalita|Estremalità]], [[method_casework|Casework]]
-**Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
-**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_casework|Casework]], [[method_congruenze|Modular arithmetic / congruences]]
+**Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Risposta:** $\{41, 80, 104\}$
 **Fonte:** [apri PDF](https://drive.google.com/file/d/11xAnQEozw2hb_PcB8BkSFNkqdyzjeYuh/view)
 
@@ -139,10 +139,12 @@ level: JMO Yosen
 > Tra tutti gli insiemi di tre interi positivi distinti tali che la somma di due qualunque di essi è un quadrato perfetto, determinare tutti gli insiemi per i quali l'elemento più piccolo è il più piccolo possibile. Due insiemi si considerano uguali se contengono gli stessi elementi, indipendentemente dall'ordine (per esempio, $\{1, 2, 3\}$ e $\{3, 2, 1\}$ sono lo stesso).
 
 **Argomento:** [[topic_aritmetica|Aritmetica / Teoria dei numeri]], [[topic_combinatoria|Combinatoria]]
-**Metodo:** [[method_estremalita|Principio di estremalità]], [[method_casework|Analisi per casi]]
-**Abilità:** [[skill_lettura_attenta|Lettura attenta del testo]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di schemi]]
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_estremalita|Principio di estremalità]], [[method_casework|Analisi per casi]], [[method_congruenze|Aritmetica modulare / congruenze]]
+**Abilita:** [[skill_lettura_attenta|Lettura attenta del testo]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di schemi]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** $\{41, 80, 104\}$
-[[Quesiti/src_jmo16yq_yosen#q04|src_jmo16yq_yosen__Q04]]
 
 
 
@@ -182,8 +184,8 @@ level: JMO Yosen
 **Argomento:** [[topic_algebra|Algebra]]
 **Metodo:** [[method_simmetria|Sfruttamento della simmetria]], [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
 **Abilità:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di schemi]]
+**Area:** [[Algebra e Analisi]]
 **Risposta:** $(1, 2, 3)$
-[[Quesiti/src_jmo16yq_yosen#q05|src_jmo16yq_yosen__Q05]]
 
 
 
@@ -224,12 +226,12 @@ level: JMO Yosen
 **Argomento:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_casework|Analisi per casi]], [[method_conteggio|Conteggio combinatorio]]
 **Abilità:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Analisi per casi accurata]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 56
-[[Quesiti/src_jmo16yq_yosen#q06|src_jmo16yq_yosen__Q06]]
 
 
 
-<span class="atom-split" id="q07" data-atom="q07" data-title="Quesito 7" data-tags="topic_aritmetica,topic_combinatoria,method_casework,method_conteggio,skill_lettura_attenta,skill_conteggio_sistematico"></span>
+<span class="atom-split" id="q07" data-atom="q07" data-title="Quesito 7" data-tags="topic_aritmetica,topic_combinatoria,method_casework,method_conteggio,skill_lettura_attenta,skill_conteggio_sistematico,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -240,8 +242,8 @@ level: JMO Yosen
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]]
-**Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_conteggio_sistematico|Conteggio sistematico]]
-**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+**Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/11xAnQEozw2hb_PcB8BkSFNkqdyzjeYuh/view)
 
 
@@ -253,9 +255,11 @@ level: JMO Yosen
 > Siano $x, y, z$ interi positivi a due cifre, coprimi a due a due, tali che la cifra delle decine di $x$ sia uguale alla cifra delle decine di $y$, la cifra delle unità di $y$ sia uguale alla cifra delle unità di $z$, e la cifra delle decine di $z$ sia uguale alla cifra delle unità di $x$. Quante sono le terne $(x, y, z)$ di questo tipo, contando come distinte le terne con gli stessi valori in ordine diverso?
 
 **Argomento:** [[topic_aritmetica|Aritmetica / Teoria dei numeri]], [[topic_combinatoria|Combinatoria]]
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei numeri]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_casework|Analisi per casi]], [[method_conteggio|Conteggio combinatorio]]
-**Abilità:** [[skill_lettura_attenta|Lettura attenta del testo]], [[skill_conteggio_sistematico|Conteggio sistematico]]
-[[Quesiti/src_jmo16yq_yosen#q07|src_jmo16yq_yosen__Q07]]
+**Abilita:** [[skill_lettura_attenta|Lettura attenta del testo]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 
 
 
@@ -285,11 +289,11 @@ level: JMO Yosen
 **Argomento:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei numeri]]
 **Metodo:** [[method_estremalita|Principio di estremalità]], [[method_casework|Analisi per casi]]
 **Abilità:** [[skill_lettura_attenta|Lettura attenta del testo]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_stima|Stima e approssimazione]]
-[[Quesiti/src_jmo16yq_yosen#q08|src_jmo16yq_yosen__Q08]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 
 
 
-<span class="atom-split" id="q09" data-atom="q09" data-title="Quesito 9" data-tags="topic_geometria_piana,method_trigonometria,method_coordinate,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
+<span class="atom-split" id="q09" data-atom="q09" data-title="Quesito 9" data-tags="topic_geometria_piana,topic_trigonometria,method_trigonometria,method_coordinate,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -298,10 +302,10 @@ level: JMO Yosen
 
 > In triangle $ABC$ with $BC = 5$, $CA = 7$, $AB = 8$, let $O$ be a point inside the triangle. The circumradii of triangles $OBC$, $OCA$, and $OAB$ are all equal. Find this common circumradius.
 
-**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometry]]
 **Metodo:** [[method_trigonometria|Trigonometria]], [[method_coordinate|Coordinate]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
-**Area:** [[Geometria]]
+**Area:** [[Geometria|Geometry]]
 **Risposta:** $\dfrac{35}{\sqrt{759}}$
 **Fonte:** [apri PDF](https://drive.google.com/file/d/11xAnQEozw2hb_PcB8BkSFNkqdyzjeYuh/view)
 
@@ -314,14 +318,16 @@ level: JMO Yosen
 > Nel triangolo $ABC$ con $BC = 5$, $CA = 7$, $AB = 8$, sia $O$ un punto interno al triangolo. I raggi delle circonferenze circoscritte ai triangoli $OBC$, $OCA$ e $OAB$ sono uguali. Trovare questo raggio comune.
 
 **Argomento:** [[topic_geometria_piana|Geometria piana]]
+
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometria]]
 **Metodo:** [[method_trigonometria|Tecniche trigonometriche]], [[method_coordinate|Metodo delle coordinate]]
-**Abilità:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
 **Risposta:** $\dfrac{35}{\sqrt{759}}$
-[[Quesiti/src_jmo16yq_yosen#q09|src_jmo16yq_yosen__Q09]]
 
 
 
-<span class="atom-split" id="q10" data-atom="q10" data-title="Quesito 10" data-tags="topic_combinatoria,method_grafi,method_casework,method_conteggio,skill_conteggio_sistematico,skill_ragionamento_geometrico,skill_modellizzazione"></span>
+<span class="atom-split" id="q10" data-atom="q10" data-title="Quesito 10" data-tags="topic_combinatoria,topic_geometria_solida,method_grafi,method_casework,method_conteggio,skill_conteggio_sistematico,skill_ragionamento_geometrico,skill_modellizzazione"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -330,10 +336,10 @@ level: JMO Yosen
 
 > Let $X$ be one vertex of a regular dodecahedron. An ant starts at $X$, travels along the edges of the dodecahedron, and returns to $X$. The ant passes through every vertex exactly once and traverses every edge at most once. Count the number of such paths, where paths that are traversed in reverse are counted as different.
 
-**Topic:** [[topic_combinatoria|Combinatoria]]
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_geometria_solida|Solid geometry]]
 **Metodo:** [[method_grafi|Grafi]], [[method_casework|Casework]], [[method_conteggio|Conteggio]]
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]]
-**Area:** [[Combinatoria, Logica e Probabilita]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Geometria|Geometry]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/11xAnQEozw2hb_PcB8BkSFNkqdyzjeYuh/view)
 
 
@@ -345,13 +351,15 @@ level: JMO Yosen
 > Sia $X$ un vertice di un dodecaedro regolare. Una formica parte da $X$, si muove lungo gli spigoli del dodecaedro e torna in $X$. La formica passa per ogni vertice esattamente una volta e percorre ogni spigolo al più una volta. Contare il numero di tali cammini, considerando distinti i cammini percorsi in senso inverso.
 
 **Argomento:** [[topic_combinatoria|Combinatoria]]
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_geometria_solida|Geometria solida]]
 **Metodo:** [[method_grafi|Teoria dei grafi]], [[method_casework|Analisi per casi]], [[method_conteggio|Conteggio combinatorio]]
-**Abilità:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
-[[Quesiti/src_jmo16yq_yosen#q10|src_jmo16yq_yosen__Q10]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 
 
 
-<span class="atom-split" id="q11" data-atom="q11" data-title="Quesito 11" data-tags="topic_algebra,topic_disuguaglianze,method_estremalita,method_telescoping,skill_manipolazione_algebrica,skill_stima,skill_riconoscimento_pattern"></span>
+<span class="atom-split" id="q11" data-atom="q11" data-title="Quesito 11" data-tags="topic_algebra,topic_disuguaglianze,topic_trigonometria,method_estremalita,method_telescoping,method_trigonometria,skill_manipolazione_algebrica,skill_stima,skill_riconoscimento_pattern"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -363,10 +371,10 @@ level: JMO Yosen
 > Find the minimum constant $c$ such that: for every integer $n \ge 2$ and every real numbers $0 \le a_1 < a_2 < \cdots < a_n \le 1$,
 > $$f(a_1, a_2) + f(a_2, a_3) + \cdots + f(a_{n-1}, a_n) < c.$$
 
-**Topic:** [[topic_algebra|Algebra]], [[topic_disuguaglianze|Disuguaglianze]]
-**Metodo:** [[method_estremalita|Estremalità]], [[method_telescoping|Telescoping]]
+**Topic:** [[topic_algebra|Algebra]], [[topic_disuguaglianze|Disuguaglianze]], [[topic_trigonometria|Trigonometry]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_telescoping|Telescoping]], [[method_trigonometria|Trigonometric techniques]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
-**Area:** [[Algebra e Analisi]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Geometria|Geometry]]
 **Risposta:** $\dfrac{1}{3\sqrt{3}}$
 **Fonte:** [apri PDF](https://drive.google.com/file/d/11xAnQEozw2hb_PcB8BkSFNkqdyzjeYuh/view)
 
@@ -385,10 +393,12 @@ level: JMO Yosen
 > $$f(a_1, a_2) + f(a_2, a_3) + \cdots + f(a_{n-1}, a_n) < c.$$
 
 **Argomento:** [[topic_algebra|Algebra]], [[topic_disuguaglianze|Disuguaglianze]]
-**Metodo:** [[method_estremalita|Principio di estremalità]], [[method_telescoping|Somme telescopiche]]
-**Abilità:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima e approssimazione]], [[skill_riconoscimento_pattern|Riconoscimento di schemi]]
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_disuguaglianze|Disuguaglianze]], [[topic_trigonometria|Trigonometria]]
+**Metodo:** [[method_estremalita|Principio di estremalità]], [[method_telescoping|Somme telescopiche]], [[method_trigonometria|Tecniche trigonometriche]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima e approssimazione]], [[skill_riconoscimento_pattern|Riconoscimento di schemi]]
+**Area:** [[Algebra e Analisi]], [[Geometria]]
 **Risposta:** $\dfrac{1}{3\sqrt{3}}$
-[[Quesiti/src_jmo16yq_yosen#q11|src_jmo16yq_yosen__Q11]]
 
 
 
@@ -418,4 +428,4 @@ level: JMO Yosen
 **Argomento:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei numeri]]
 **Metodo:** [[method_ricorsione|Ricorsione]], [[method_conteggio|Conteggio combinatorio]], [[method_induzione|Induzione]]
 **Abilità:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
-[[Quesiti/src_jmo16yq_yosen#q12|src_jmo16yq_yosen__Q12]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]

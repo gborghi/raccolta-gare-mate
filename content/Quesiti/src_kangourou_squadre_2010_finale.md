@@ -10,7 +10,7 @@ level: squadre
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_algebra,skill_modellizzazione"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_algebra,skill_modellizzazione,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -24,7 +24,7 @@ level: squadre
 > dalla mia casa?
 
 **Topic:** [[topic_algebra|Algebra]]
-**Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta del testo]]
 **Area:** [[Algebra e Analisi]]
 **Risposta:** 5000
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1OpJajyawAOiV9vPQRrxjCdnSehRF0ZtE/view)
@@ -37,15 +37,14 @@ level: squadre
 
 > From Home to School From my house to school, I always walk, always setting off at the same time. If I walk at a speed of 4 km/h, I arrive 5 minutes late for the start of classes; if, on the other hand, I walk at a speed of 5 km/h, I arrive 10 minutes before classes begin. How many metres is the school from my house?
 
+
 **Topic:** [[topic_algebra|Algebra]]
-**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]], [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_lettura_attenta|Careful reading of the text]]
 **Area:** [[Algebra e Analisi|Algebra and analysis]]
 
-[[Quesiti/src_kangourou_squadre_2010_finale#q01|src_kangourou_squadre_2010_finale__Q01]]
 
 
-
-<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_combinatoria,topic_aritmetica,method_casi_conteggio,skill_casework_accurato"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_combinatoria,topic_aritmetica,topic_geometria_piana,method_casi_conteggio,skill_casework_accurato,skill_ragionamento_geometrico"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -61,10 +60,10 @@ level: squadre
 > Ammesso che sia possibile costruirlo, da quanti poligoni risulterà formato il circuito chiuso? 
 > (Scrivete 0000 se non è possibile costruirlo).
 
-**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_casi_conteggio|Conteggio per casi]]
-**Abilita:** [[skill_casework_accurato|Casework accurato]]
-**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+**Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]], [[Geometria]]
 **Risposta:** 2820
 **Fonte:** [apri PDF p.25](https://drive.google.com/file/d/1_Oqd2s3fSTVKQKA_MYTZmtL3yYxn1-h7/view)
 
@@ -76,16 +75,15 @@ level: squadre
 
 > Circuit You have some regular pentagons and some squares at your disposal; all the sides of these polygons have the same length. By joining them together, alternating pentagons and squares so that one side of a pentagon matches one side of a square and vice versa, you want to form a closed circuit while remaining in one plane: the construction of the loop must proceed as indicated in the figure. Assuming it is possible to construct it, how many polygons will make up the closed circuit? (Write 0000 if it is not possible to construct it.)
 
-**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_aritmetica|Arithmetic / Number theory]]
+
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_aritmetica|Arithmetic / Number theory]], [[topic_geometria_piana|Plane geometry]]
 **Metodo:** [[method_casi_conteggio|Counting by cases]]
-**Abilita:** [[skill_casework_accurato|Careful case analysis]]
-**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
-
-[[Quesiti/src_kangourou_squadre_2010_finale#q02|src_kangourou_squadre_2010_finale__Q02]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]], [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Geometria|Geometry]]
 
 
 
-<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_aritmetica,method_conteggio,skill_conteggio_sistematico"></span>
+<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_aritmetica,method_conteggio,method_casework,skill_conteggio_sistematico,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -98,8 +96,8 @@ level: squadre
 > prossimi 400 anni, cioè degli anni dal 2011 al 2410 inclusi, avranno questa proprietà?
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_conteggio|Conteggio combinatorio]]
-**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Metodo:** [[method_conteggio|Conteggio combinatorio]], [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 0017
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1OpJajyawAOiV9vPQRrxjCdnSehRF0ZtE/view)
@@ -112,16 +110,15 @@ level: squadre
 
 > This is a special year. The year 2010 has the curious peculiarity that the number formed by its first two digits is a multiple of the number formed by its last two digits. The same thing happens, for example, with the year 2404. How many of the next 400 years—that is, the years from 2011 to 2410 inclusive—will have this property?
 
+
 **Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
-**Metodo:** [[method_conteggio|Combinatorial counting]]
-**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Metodo:** [[method_conteggio|Combinatorial counting]], [[method_casework|Case analysis]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]], [[skill_casework_accurato|Careful case analysis]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
-[[Quesiti/src_kangourou_squadre_2010_finale#q03|src_kangourou_squadre_2010_finale__Q03]]
 
 
-
-<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_combinatoria,method_conteggio,skill_conteggio_sistematico"></span>
+<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_combinatoria,method_conteggio,method_ricorsione,skill_conteggio_sistematico,skill_riconoscimento_pattern"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -135,8 +132,8 @@ level: squadre
 > con quella che sta nella riga precedente. Quanti diversi cammini a zig-zag si possono trovare?
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
-**Metodo:** [[method_conteggio|Conteggio combinatorio]]
-**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Metodo:** [[method_conteggio|Conteggio combinatorio]], [[method_ricorsione|Ricorsione]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0296
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1OpJajyawAOiV9vPQRrxjCdnSehRF0ZtE/view)
@@ -149,16 +146,15 @@ level: squadre
 
 > The Chessboard On an ordinary 8 × 8 chessboard (with 32 white squares and 32 black squares alternating horizontally and vertically), we call a “zigzag path” a set of 8 white squares, one in each row, such that, for each row from the second to the eighth, the square in that row shares a vertex with the square in the preceding row. How many different zigzag paths can be found?
 
+
 **Topic:** [[topic_combinatoria|Combinatorics]]
-**Metodo:** [[method_conteggio|Combinatorial counting]]
-**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Metodo:** [[method_conteggio|Combinatorial counting]], [[method_ricorsione|Recursion]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]], [[skill_riconoscimento_pattern|Pattern recognition]]
 **Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
-[[Quesiti/src_kangourou_squadre_2010_finale#q04|src_kangourou_squadre_2010_finale__Q04]]
 
 
-
-<span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_aritmetica,method_fattorizzazione,skill_manipolazione_algebrica"></span>
+<span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_aritmetica,topic_algebra,method_fattorizzazione,skill_manipolazione_algebrica,skill_modellizzazione"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -170,10 +166,10 @@ level: squadre
 > abbiamo scritto il prodotto dei 3 numeri scritti sulle facce che concorrono in quel vertice. La somma
 > dei numeri scritti nei vertici è 70. Qual è la somma dei numeri scritti sulle facce?
 
-**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
 **Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
-**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
-**Area:** [[Aritmetica e Teoria dei Numeri]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 **Risposta:** 0014
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1OpJajyawAOiV9vPQRrxjCdnSehRF0ZtE/view)
 
@@ -185,16 +181,15 @@ level: squadre
 
 > Faces and Vertices On each face of a cube, we have written a strictly positive integer. On each vertex, we have written the product of the three numbers written on the faces that meet at that vertex. The sum of the numbers written at the vertices is 70. What is the sum of the numbers written on the faces?
 
-**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_algebra|Algebra]]
 **Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
-**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
-**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
-
-[[Quesiti/src_kangourou_squadre_2010_finale#q05|src_kangourou_squadre_2010_finale__Q05]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Algebra e Analisi|Algebra and analysis]]
 
 
 
-<span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_geometria_solida,skill_ragionamento_geometrico"></span>
+<span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_geometria_solida,method_simmetria,skill_ragionamento_geometrico"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -212,6 +207,7 @@ level: squadre
 > Quanti centimetri cubi misura il suo volume?
 
 **Topic:** [[topic_geometria_solida|Geometria solida]]
+**Metodo:** [[method_simmetria|Sfruttamento della simmetria]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]]
 **Risposta:** 0180
@@ -227,15 +223,15 @@ level: squadre
 
 > The cuboctahedron We have a cube with an edge length of 6 centimeters. Fixing one vertex, consider the plane that passes through the midpoints of each of the three edges meeting at that vertex: this plane cuts the cube into two solids, one of which is a pyramid whose vertex is at the edge in question. For each vertex of the cube, we remove the pyramid obtained in this way: what remains is a convex solid whose faces are squares or triangles (called a cuboctahedron). What is its volume in cubic centimeters?
 
+
 **Topic:** [[topic_geometria_solida|Solid geometry]]
+**Metodo:** [[method_simmetria|Using symmetry]]
 **Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
 **Area:** [[Geometria|Geometry]]
 
-[[Quesiti/src_kangourou_squadre_2010_finale#q06|src_kangourou_squadre_2010_finale__Q06]]
 
 
-
-<span class="atom-split" id="q07" data-atom="q07" data-title="Quesito 7" data-tags="topic_aritmetica,method_congruenze,skill_modellizzazione"></span>
+<span class="atom-split" id="q07" data-atom="q07" data-title="Quesito 7" data-tags="topic_aritmetica,method_congruenze,skill_modellizzazione,skill_lettura_attenta"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -253,7 +249,7 @@ level: squadre
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]]
-**Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_lettura_attenta|Lettura attenta del testo]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 1106
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1OpJajyawAOiV9vPQRrxjCdnSehRF0ZtE/view)
@@ -266,16 +262,15 @@ level: squadre
 
 > Three light bulbs Three intermittent light bulbs turn on: one every two minutes, another every two and a half minutes, and the third every three minutes. Each of the three, when it turns on, stays on for a minute and a half. At the instant when my digital clock, which shows minutes but not seconds, changes to indicate 10:38, the three bulbs turn off simultaneously. What time will my clock show when all three turn on together for the first time? N.B. The phrase "turn on every x minutes" means "x minutes pass between one turning-on and the next turning-on." (To indicate, for example, 10:38, write 1038.)
 
+
 **Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
 **Metodo:** [[method_congruenze|Modular arithmetic / congruences]]
-**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]], [[skill_lettura_attenta|Careful reading of the text]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
-[[Quesiti/src_kangourou_squadre_2010_finale#q07|src_kangourou_squadre_2010_finale__Q07]]
 
 
-
-<span class="atom-split" id="q08" data-atom="q08" data-title="Quesito 8" data-tags="topic_aritmetica,method_telescoping,skill_manipolazione_algebrica"></span>
+<span class="atom-split" id="q08" data-atom="q08" data-title="Quesito 8" data-tags="topic_aritmetica,topic_geometria_piana,method_telescoping,skill_manipolazione_algebrica,skill_ragionamento_geometrico"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -289,10 +284,10 @@ level: squadre
 > ricavati, Marco ha potuto realizzare un quadrato. Quanti centimetri è 
 > lungo il segmento indicato con x?
 
-**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_telescoping|Somme telescopiche]]
-**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
-**Area:** [[Aritmetica e Teoria dei Numeri]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Geometria]]
 **Risposta:** 1340
 **Fonte:** [apri PDF p.26](https://drive.google.com/file/d/1_Oqd2s3fSTVKQKA_MYTZmtL3yYxn1-h7/view)
 
@@ -304,12 +299,11 @@ level: squadre
 
 > The rectangle becomes a square. The figure shows the lines along which Marco cut a cardboard rectangle whose sides measured 36 and 81 centimeters, resulting in two triangles and a pentagon. By fitting the three pieces obtained together appropriately, Marco was able to make a square. How many centimeters long is the line segment labeled x?
 
-**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
-**Metodo:** [[method_telescoping|Telescoping sums]]
-**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
-**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
-[[Quesiti/src_kangourou_squadre_2010_finale#q08|src_kangourou_squadre_2010_finale__Q08]]
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_telescoping|Telescoping sums]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Geometria|Geometry]]
 
 
 
@@ -346,11 +340,9 @@ level: squadre
 **Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
-[[Quesiti/src_kangourou_squadre_2010_finale#q09|src_kangourou_squadre_2010_finale__Q09]]
 
 
-
-<span class="atom-split" id="q10" data-atom="q10" data-title="Quesito 10" data-tags="topic_combinatoria,method_conteggio,skill_conteggio_sistematico"></span>
+<span class="atom-split" id="q10" data-atom="q10" data-title="Quesito 10" data-tags="topic_combinatoria,method_conteggio,skill_conteggio_sistematico,skill_manipolazione_algebrica,skill_stima"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -366,7 +358,7 @@ level: squadre
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_conteggio|Conteggio combinatorio]]
-**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima e approssimazione]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0102
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1OpJajyawAOiV9vPQRrxjCdnSehRF0ZtE/view)
@@ -379,16 +371,15 @@ level: squadre
 
 > An alphabet with many letters A strange country has exactly one million inhabitants who speak a language with a very rich alphabet. Every inhabitant of that country has a surname, a given name, and a nickname whose first three letters are all different from one another. You know that it is possible to identify each of the inhabitants using only the initial letters—in order—of the surname, the given name, and the nickname. What is the minimum number of letters the alphabet used in that country must have?
 
+
 **Topic:** [[topic_combinatoria|Combinatorics]]
 **Metodo:** [[method_conteggio|Combinatorial counting]]
-**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]], [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_stima|Estimation and approximation]]
 **Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
-[[Quesiti/src_kangourou_squadre_2010_finale#q10|src_kangourou_squadre_2010_finale__Q10]]
 
 
-
-<span class="atom-split" id="q11" data-atom="q11" data-title="Quesito 11" data-tags="topic_geometria_piana,topic_algebra,skill_ragionamento_geometrico"></span>
+<span class="atom-split" id="q11" data-atom="q11" data-title="Quesito 11" data-tags="topic_geometria_piana,topic_algebra,method_trigonometria,method_fattorizzazione,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -403,8 +394,9 @@ level: squadre
 > esagoni il cui spessore supera 130?
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_algebra|Algebra]]
-**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
-**Area:** [[Algebra e Analisi]], [[Geometria]]
+**Metodo:** [[method_trigonometria|Tecniche trigonometriche]], [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]], [[Algebra e Analisi]]
 **Risposta:** 0971
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1OpJajyawAOiV9vPQRrxjCdnSehRF0ZtE/view)
 
@@ -416,15 +408,15 @@ level: squadre
 
 > The Thickness of a Hexagon We call the “thickness of a regular hexagon” the thickness of the circular annulus bounded by the circumcircle and the incircle of the hexagon (that is, the difference between the larger and the smaller of the two radii). Now imagine a sequence of regular hexagons: the first has side length 1, the second has side length 2, the third has side length 3, and so on. What position in the sequence does the first of these hexagons whose thickness exceeds 130 occupy?
 
+
 **Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_algebra|Algebra]]
-**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
-**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Geometria|Geometry]]
-
-[[Quesiti/src_kangourou_squadre_2010_finale#q11|src_kangourou_squadre_2010_finale__Q11]]
-
+**Metodo:** [[method_trigonometria|Trigonometric techniques]], [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Geometria|Geometry]], [[Algebra e Analisi|Algebra and analysis]]
 
 
-<span class="atom-split" id="q12" data-atom="q12" data-title="Quesito 12" data-tags="topic_aritmetica,method_casework,skill_manipolazione_algebrica"></span>
+
+<span class="atom-split" id="q12" data-atom="q12" data-title="Quesito 12" data-tags="topic_aritmetica,method_casework,method_fattorizzazione,skill_manipolazione_algebrica,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -438,8 +430,8 @@ level: squadre
 > {a,b}, {c,d}, {e,f} dovreste scrivere il numero a + b + c + d + e + f ).
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_casework|Analisi per casi]]
-**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Metodo:** [[method_casework|Analisi per casi]], [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 5997
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1OpJajyawAOiV9vPQRrxjCdnSehRF0ZtE/view)
@@ -454,16 +446,15 @@ level: squadre
 > 1999. Write the sum of the elements of all these pairs (for example, if the pairs were
 > {a,b}, {c,d}, {e,f} — you should write the number a + b + c + d + e + f).
 
+
 **Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
-**Metodo:** [[method_casework|Case analysis]]
-**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Metodo:** [[method_casework|Case analysis]], [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_casework_accurato|Careful case analysis]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
-[[Quesiti/src_kangourou_squadre_2010_finale#q12|src_kangourou_squadre_2010_finale__Q12]]
 
 
-
-<span class="atom-split" id="q13" data-atom="q13" data-title="Quesito 13" data-tags="topic_aritmetica,method_fattorizzazione,skill_casework_accurato"></span>
+<span class="atom-split" id="q13" data-atom="q13" data-title="Quesito 13" data-tags="topic_aritmetica,method_fattorizzazione,method_estremalita,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -476,7 +467,7 @@ level: squadre
 > elemento di S?
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]], [[method_estremalita|Principio di estremalita]]
 **Abilita:** [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 1040
@@ -490,16 +481,15 @@ level: squadre
 
 > A Special Set of Numbers A set S of integers is such that its smallest element is 1001 and the product of all its elements is a perfect square. What is the smallest possible value of the largest element of S?
 
+
 **Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
-**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]], [[method_estremalita|Extremal principle]]
 **Abilita:** [[skill_casework_accurato|Careful case analysis]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
-[[Quesiti/src_kangourou_squadre_2010_finale#q13|src_kangourou_squadre_2010_finale__Q13]]
 
 
-
-<span class="atom-split" id="q14" data-atom="q14" data-title="Quesito 14" data-tags="topic_geometria_piana,topic_aritmetica,skill_ragionamento_geometrico"></span>
+<span class="atom-split" id="q14" data-atom="q14" data-title="Quesito 14" data-tags="topic_geometria_piana,topic_aritmetica,method_fattorizzazione,skill_ragionamento_geometrico,skill_manipolazione_algebrica,skill_modellizzazione"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -517,8 +507,9 @@ level: squadre
 > vincoli del problema. Qual è, in metri, il perimetro di ciascuno dei due rettangoli?
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
-**Area:** [[Aritmetica e Teoria dei Numeri]], [[Geometria]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
+**Area:** [[Geometria]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 0134
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1OpJajyawAOiV9vPQRrxjCdnSehRF0ZtE/view)
 
@@ -532,15 +523,15 @@ level: squadre
 
 > Rectangles and Squares The area of the rectangular region in the figure is 2010 m². The region is divided into seven squares and two rectangles, as indicated. The dimensions of all the squares and rectangles in question are expressed in meters as whole numbers. The two rectangles, which appear shaded in the figure, have the same dimensions, and the squares have the maximum possible size consistent with the constraints of the problem. What is the perimeter of each of the two rectangles, in meters?
 
+
 **Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_aritmetica|Arithmetic / Number theory]]
-**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
-**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Geometria|Geometry]]
-
-[[Quesiti/src_kangourou_squadre_2010_finale#q14|src_kangourou_squadre_2010_finale__Q14]]
-
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Geometria|Geometry]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
 
-<span class="atom-split" id="q15" data-atom="q15" data-title="Quesito 15" data-tags="topic_combinatoria,method_conteggio,skill_casework_accurato"></span>
+
+<span class="atom-split" id="q15" data-atom="q15" data-title="Quesito 15" data-tags="topic_combinatoria,method_conteggio,method_doppio_conteggio,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -554,7 +545,7 @@ level: squadre
 > studenti che si sono presentati all’esame?
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
-**Metodo:** [[method_conteggio|Conteggio combinatorio]]
+**Metodo:** [[method_conteggio|Conteggio combinatorio]], [[method_doppio_conteggio|Doppio conteggio]]
 **Abilita:** [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0008
@@ -568,9 +559,8 @@ level: squadre
 
 > The Mathematics Exam Some students showed up for the mathematics exam. The teacher had prepared 8 different problems, all of the same difficulty, and managed to assign 3 problems to each student so that no two students had more than one problem in common. What is the maximum number of students who could have shown up for the exam?
 
+
 **Topic:** [[topic_combinatoria|Combinatorics]]
-**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Metodo:** [[method_conteggio|Combinatorial counting]], [[method_doppio_conteggio|Double counting]]
 **Abilita:** [[skill_casework_accurato|Careful case analysis]]
 **Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
-
-[[Quesiti/src_kangourou_squadre_2010_finale#q15|src_kangourou_squadre_2010_finale__Q15]]

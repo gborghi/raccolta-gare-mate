@@ -38,8 +38,6 @@ level: RMO
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 
-[[Quesiti/src_rmo_2023_nonkv#q01|src_rmo_2023_nonkv__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_geometria_piana,method_simmetria,method_invarianti,skill_ragionamento_geometrico,skill_astrazione,skill_lettura_attenta"></span>
@@ -74,8 +72,6 @@ level: RMO
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_astrazione|Astrazione]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Geometria]]
 
-[[Quesiti/src_rmo_2023_nonkv#q02|src_rmo_2023_nonkv__Q02]]
-
 
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_aritmetica,method_casework,method_estremalita,method_congruenze,skill_manipolazione_algebrica,skill_conteggio_sistematico,skill_ragionamento_geometrico,skill_stima"></span>
@@ -108,8 +104,6 @@ level: RMO
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_stima|Stima]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 
-[[Quesiti/src_rmo_2023_nonkv#q03|src_rmo_2023_nonkv__Q03]]
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_geometria_piana,method_simmetria,method_coordinate,skill_ragionamento_geometrico,skill_astrazione,skill_manipolazione_algebrica"></span>
@@ -139,8 +133,6 @@ level: RMO
 **Metodo:** [[method_simmetria|Simmetria]], [[method_coordinate|Coordinate]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_astrazione|Astrazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
-
-[[Quesiti/src_rmo_2023_nonkv#q04|src_rmo_2023_nonkv__Q04]]
 
 
 
@@ -174,8 +166,6 @@ level: RMO
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Algebra e Analisi]]
 
-[[Quesiti/src_rmo_2023_nonkv#q05|src_rmo_2023_nonkv__Q05]]
-
 
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_combinatoria,topic_geometria_piana,method_casework,method_cassetti,method_estremalita,skill_casework_accurato,skill_conteggio_sistematico,skill_ragionamento_geometrico,skill_lettura_attenta"></span>
@@ -205,5 +195,3 @@ level: RMO
 **Metodo:** [[method_casework|Casework]], [[method_cassetti|Principio dei cassetti]], [[method_estremalita|Estremalità]]
 **Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
-
-[[Quesiti/src_rmo_2023_nonkv#q06|src_rmo_2023_nonkv__Q06]]

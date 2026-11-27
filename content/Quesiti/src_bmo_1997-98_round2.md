@@ -40,11 +40,9 @@ level: BMO Round 2
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 
-[[Quesiti/src_bmo_1997-98_round2#q01|src_bmo_1997-98_round2__Q01]]
 
 
-
-<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_geometria_piana,method_trigonometria,skill_ragionamento_geometrico"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_geometria_piana,topic_trigonometria,method_trigonometria,skill_ragionamento_geometrico"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -55,10 +53,10 @@ level: BMO Round 2
 > 
 > Prove that the circumcircle of $ABC$ touches the circumcircle of $PQR$.
 
-**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometry]]
 **Metodo:** [[method_trigonometria|Trigonometria]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
-**Area:** [[Geometria]]
+**Area:** [[Geometria|Geometry]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1BmWcr_kfQLYIf7TTUKc10v2VCU6EcDQW/view)
 
 
@@ -71,12 +69,11 @@ level: BMO Round 2
 >
 > Dimostrare che la circonferenza circoscritta a $ABC$ è tangente alla circonferenza circoscritta a $PQR$.
 
-**Topic:** [[topic_geometria_piana|Geometria piana]]
+
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometria]]
 **Metodo:** [[method_trigonometria|Trigonometria]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]]
-
-[[Quesiti/src_bmo_1997-98_round2#q02|src_bmo_1997-98_round2__Q02]]
 
 
 
@@ -120,11 +117,9 @@ level: BMO Round 2
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 
-[[Quesiti/src_bmo_1997-98_round2#q03|src_bmo_1997-98_round2__Q03]]
 
 
-
-<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_algebra,method_simmetria,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
+<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_algebra,topic_disuguaglianze,method_simmetria,method_disuguaglianze,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -138,10 +133,10 @@ level: BMO Round 2
 > 
 > Show that a solution exists in which $x, y, z$ are real and distinct.
 
-**Topic:** [[topic_algebra|Algebra]]
-**Metodo:** [[method_simmetria|Simmetria]]
+**Topic:** [[topic_algebra|Algebra]], [[topic_disuguaglianze|Inequalities]]
+**Metodo:** [[method_simmetria|Simmetria]], [[method_disuguaglianze|Classical inequalities]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
-**Area:** [[Algebra e Analisi]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1BmWcr_kfQLYIf7TTUKc10v2VCU6EcDQW/view)
 
 
@@ -157,9 +152,8 @@ level: BMO Round 2
 >
 > Mostra che esiste una soluzione in cui gli $x, y, z$ sono reali e distinti.
 
-**Topic:** [[topic_algebra|Algebra]]
-**Metodo:** [[method_simmetria|Simmetria]]
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_disuguaglianze|Disuguaglianze]]
+**Metodo:** [[method_simmetria|Simmetria]], [[method_disuguaglianze|Disuguaglianze classiche]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Algebra e Analisi]]
-
-[[Quesiti/src_bmo_1997-98_round2#q04|src_bmo_1997-98_round2__Q04]]

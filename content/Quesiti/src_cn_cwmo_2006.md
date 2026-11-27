@@ -43,8 +43,6 @@ level: China Western Mathematical Olympiad
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Algebra e Analisi]]
 
-[[Quesiti/src_cn_cwmo_2006#q01|src_cn_cwmo_2006__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_algebra,topic_disuguaglianze,method_casework,method_estremalita,skill_manipolazione_algebrica,skill_casework_accurato,skill_lettura_attenta"></span>
@@ -80,8 +78,6 @@ level: China Western Mathematical Olympiad
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Casework accurato]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Algebra e Analisi]]
 
-[[Quesiti/src_cn_cwmo_2006#q02|src_cn_cwmo_2006__Q02]]
-
 
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_geometria_piana,topic_trigonometria,method_trigonometria,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
@@ -95,7 +91,7 @@ level: China Western Mathematical Olympiad
 > (1) Prove that $BF$ is the bisector of $\angle PBC$.
 > (2) Find the value of $\tan\alpha$.
 
-![[src_cn_b07_w150__q03.png]]
+![[src_cn_b07_w150__Q03.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometria]]
 **Metodo:** [[method_trigonometria|Trigonometria]]
@@ -112,14 +108,12 @@ level: China Western Mathematical Olympiad
 
 > In $\triangle ABC$, $\angle ABC = 60^\circ$. La tangente, nel punto $P$, alla circonferenza circoscritta di $\triangle ABC$, incontra la retta $CB$ prolungata nel punto $A$. Sia $\angle PCB = \alpha$. I punti $D$ e $E$ giacciono rispettivamente sul segmento di retta $PA$ e sulla circonferenza circoscritta, in modo che $\angle DBE = 90^\circ$ e $PD = PE$. Sia $F$ l'intersezione di $BE$ e $PC$. È dato che le rette $AF$, $BP$ e $CD$ sono concorrenti. (1) Dimostrare che $BF$ è la bisettrice di $\angle PBC$. (2) Trovare il valore di $\tan\alpha$.
 
-![[src_cn_b07_w150__q03.png]]
+![[src_cn_b07_w150__Q03.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometria]]
 **Metodo:** [[method_trigonometria|Trigonometria]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
-
-[[Quesiti/src_cn_cwmo_2006#q03|src_cn_cwmo_2006__Q03]]
 
 
 
@@ -155,8 +149,6 @@ level: China Western Mathematical Olympiad
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_astrazione|Astrazione]]
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 
-[[Quesiti/src_cn_cwmo_2006#q04|src_cn_cwmo_2006__Q04]]
-
 
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_aritmetica,topic_algebra,method_congruenze,method_fattorizzazione,skill_manipolazione_algebrica,skill_lettura_attenta,skill_astrazione"></span>
@@ -187,11 +179,9 @@ level: China Western Mathematical Olympiad
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_astrazione|Astrazione]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 
-[[Quesiti/src_cn_cwmo_2006#q05|src_cn_cwmo_2006__Q05]]
 
 
-
-<span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_geometria_piana,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
+<span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_geometria_piana,method_coordinate,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -200,11 +190,12 @@ level: China Western Mathematical Olympiad
 
 > $AB$ is a diameter of circle $O$, the point $C$ lies on the line $AB$ produced. A line passing through $C$ intersects the circle $O$ at points $D$ and $E$. $OF$ is a diameter of circumcircle $O_1$ of $\triangle BOD$. Join $CF$ and its extension, intersect the circle $O$ at $G$. Prove that points $O$, $A$, $E$, $G$ are concyclic.
 
-![[src_cn_b07_w150__q06.png]]
+![[src_cn_b07_w150__Q06.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_coordinate|Coordinate method]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
-**Area:** [[Geometria]]
+**Area:** [[Geometria|Geometry]]
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1A6F-Sk42BaQt80ts_sFXZiDY4uHJtL3I/view)
 
 
@@ -215,17 +206,17 @@ level: China Western Mathematical Olympiad
 
 > $AB$ è un diametro del cerchio $O$; il punto $C$ giace sulla retta $AB$ prolungata. Una retta passante per $C$ interseca il cerchio $O$ nei punti $D$ e $E$. $OF$ è un diametro del cerchio circoscritto $O_1$ di $\triangle BOD$. Unisci $CF$ e il suo prolungamento, intersecando il cerchio $O$ in $G$. Dimostrare che i punti $O$, $A$, $E$, $G$ sono conciclici.
 
-![[src_cn_b07_w150__q06.png]]
+![[src_cn_b07_w150__Q06.png]]
+
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_coordinate|Metodo delle coordinate]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 
-[[Quesiti/src_cn_cwmo_2006#q06|src_cn_cwmo_2006__Q06]]
 
 
-
-<span class="atom-split" id="q07" data-atom="q07" data-title="Quesito 7" data-tags="topic_algebra,topic_trigonometria,topic_aritmetica,method_induzione,method_ricorsione,skill_manipolazione_algebrica,skill_astrazione,skill_riconoscimento_pattern"></span>
+<span class="atom-split" id="q07" data-atom="q07" data-title="Quesito 7" data-tags="topic_algebra,topic_trigonometria,topic_aritmetica,method_induzione,method_ricorsione,method_trigonometria,skill_manipolazione_algebrica,skill_astrazione,skill_riconoscimento_pattern"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -235,9 +226,9 @@ level: China Western Mathematical Olympiad
 > Let $b$ be a positive integer no less than 3 and $\theta$ be a real number. Prove that if both $\cos((b-1)\theta)$ and $\cos(b\theta)$ are rational numbers, then there exists a positive integer $n > b$, such that both $\cos((n-1)\theta)$ and $\cos(n\theta)$ are rational numbers.
 
 **Topic:** [[topic_algebra|Algebra]], [[topic_trigonometria|Trigonometria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_induzione|Induzione]], [[method_ricorsione|Ricorsione]]
+**Metodo:** [[method_induzione|Induzione]], [[method_ricorsione|Ricorsione]], [[method_trigonometria|Trigonometric techniques]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
-**Area:** [[Algebra e Analisi]], [[Geometria]], [[Aritmetica e Teoria dei Numeri]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Geometria|Geometry]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1A6F-Sk42BaQt80ts_sFXZiDY4uHJtL3I/view)
 
 
@@ -248,16 +239,15 @@ level: China Western Mathematical Olympiad
 
 > Sia $b$ un numero intero positivo non minore di 3 e $\theta$ un numero reale. Dimostrare che, se sia $\cos((b-1)\theta)$ sia $\cos(b\theta)$ sono numeri razionali, allora esiste un numero intero positivo $n > b$ tale che sia $\cos((n-1)\theta)$ sia $\cos(n\theta)$ siano numeri razionali.
 
+
 **Topic:** [[topic_algebra|Algebra]], [[topic_trigonometria|Trigonometria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_induzione|Induzione]], [[method_ricorsione|Ricorsione]]
+**Metodo:** [[method_induzione|Induzione]], [[method_ricorsione|Ricorsione]], [[method_trigonometria|Tecniche trigonometriche]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Algebra e Analisi]], [[Geometria]], [[Aritmetica e Teoria dei Numeri]]
 
-[[Quesiti/src_cn_cwmo_2006#q07|src_cn_cwmo_2006__Q07]]
 
 
-
-<span class="atom-split" id="q08" data-atom="q08" data-title="Quesito 8" data-tags="topic_combinatoria,method_estremalita,method_conteggio,skill_conteggio_sistematico,skill_astrazione,skill_lettura_attenta"></span>
+<span class="atom-split" id="q08" data-atom="q08" data-title="Quesito 8" data-tags="topic_combinatoria,method_estremalita,method_conteggio,method_grafi,skill_conteggio_sistematico,skill_astrazione,skill_lettura_attenta,skill_modellizzazione"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -269,9 +259,9 @@ level: China Western Mathematical Olympiad
 > (b) $|Y \cap B_i| \leq 1$ for $i = 1, 2, \cdots, n$.
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
-**Metodo:** [[method_estremalita|Estremalità]], [[method_conteggio|Conteggio]]
-**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_astrazione|Astrazione]], [[skill_lettura_attenta|Lettura attenta]]
-**Area:** [[Combinatoria, Logica e Probabilita]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_conteggio|Conteggio]], [[method_grafi|Graph theory]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_astrazione|Astrazione]], [[skill_lettura_attenta|Lettura attenta]], [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1A6F-Sk42BaQt80ts_sFXZiDY4uHJtL3I/view)
 
 
@@ -284,9 +274,8 @@ level: China Western Mathematical Olympiad
 > (a) $|Y| = n$;
 > (b) $|Y \cap B_i| \leq 1$ per $i = 1, 2, \cdots, n$.
 
-**Topic:** [[topic_combinatoria|Combinatoria]]
-**Metodo:** [[method_estremalita|Estremalità]], [[method_conteggio|Conteggio]]
-**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_astrazione|Astrazione]], [[skill_lettura_attenta|Lettura attenta]]
-**Area:** [[Combinatoria, Logica e Probabilita]]
 
-[[Quesiti/src_cn_cwmo_2006#q08|src_cn_cwmo_2006__Q08]]
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_conteggio|Conteggio]], [[method_grafi|Teoria dei grafi]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_astrazione|Astrazione]], [[skill_lettura_attenta|Lettura attenta]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
+**Area:** [[Combinatoria, Logica e Probabilita]]

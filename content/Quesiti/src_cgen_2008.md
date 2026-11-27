@@ -12,9 +12,6 @@ level: Concours Général
 
 <span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_geometria_analitica,topic_algebra,topic_geometria_piana,method_coordinate,method_casework,method_estremalita,skill_manipolazione_algebrica,skill_ragionamento_geometrico,skill_casework_accurato"></span>
 
-<div class="qlang-switch" data-default="en"></div>
-
-
 *Study of the parabola $y=x^2/3-3/2$ and circles tangent to it: nature of the curve, the squared-distance function and its derivatives, characterising tangency by $g'_U(a)=0$, counting tangent circles, and bitangent circles.*
 
 > We work in the Euclidean affine plane $\mathscr{P}$ with an orthonormal frame $(O,\vec{i},\vec{j})$. Let $S$ be the curve of equation:
@@ -47,8 +44,20 @@ level: Concours Général
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1IEBXapc8Xti2FnyfVXhsQrfrBf7j3lVa/view)
 
 
-<div class="qlang-split" data-lang="it"></div>
 
+<span class="atom-split" id="q01__it" data-atom="q01__it" data-title="Q01__IT" data-tags=""></span>
+
+---
+tipo: quesito-translation
+translation_of: src_cgen_2008__Q01
+lang: it
+secondary: true
+title: "Concours Général des Lycées 2008  Matematica  Quesito 1"
+summary: "Studio della parabola $y=x^2/3-3/2$ e dei cerchi tangenti a essa: natura della curva, funzione di distanza quadrata e le sue derivate, caratterizzazione della tangenza da $g'_U(a)=0$, conteggio dei cerchi tangenti e dei cerchi bitangenti."
+topics: [topic_geometria_analitica, topic_algebra, topic_geometria_piana]
+methods: [method_coordinate, method_casework, method_estremalita]
+skills: [skill_manipolazione_algebrica, skill_ragionamento_geometrico, skill_casework_accurato]
+tags: [kg/translation, topic/geometria_analitica, topic/algebra, topic/geometria_piana]---
 
 *Studio della parabola $y=x^2/3-3/2$ e dei cerchi tangenti a essa: natura della curva, funzione quadrata-distanza e le sue derivate, caratterizzando la tangenza da $g'_U(a)=0$, conteggiando i cerchi tangenti e i cerchi bitangenti.*
 
@@ -64,11 +73,15 @@ level: Concours Général
 > 
 > 5. a. Il valore $a$ deve essere $\mathbb{R}$. Indichiamo con $D(a)$ la tangente a $M(a)$ a $S$. Indicare un'equazione di $D(a)$. b. Indichiamo di nuovo con $U$ il punto di $\mathscr{P}$ con le coordinate $(u,v)$. Discutere, come funzione di $u$ e $v$, il numero di soluzioni $a$ dell'equazione $U\in D(a)$. c. Supponiamo che l'equazione $U\in D(a)$ ammetta due soluzioni distinte $a_1$ e $a_2$. Indicare che se $UM(a_1)=UM(a_2)$, allora $u=0$. d. Supponiamo $U\in\mathscr{P}$. Ora supponiamo che esista un cerchio con il centro $U$ tangente a $S$ a due punti distinti $M$ e $N$ di $S$. Mostrare che le tangenti di $S$ a $M$ e $N$ sono simultanee, e che se indichiamo con $V$ il loro punto di intersezione allora $VM=VN$. e. Determinare l'insieme di punti $U$ non appartenenti a $S$ per i quali esiste un cerchio con centro $U$ tangente a $S$ in due punti distinti di $S$.
 
+**Topic:** [[topic_geometria_analitica|Geometria analitica]], [[topic_algebra|Algebra]], [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_coordinate|Metodo delle coordinate]], [[method_casework|Analisi per casi]], [[method_estremalita|Principio di estremalita]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Geometria]], [[Algebra e Analisi]]
 [[Quesiti/src_cgen_2008#q01|src_cgen_2008__Q01]]
 
 
 
-<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_geometria_analitica,topic_geometria_piana,method_coordinate,method_estremalita,method_casework,skill_ragionamento_geometrico,skill_manipolazione_algebrica,skill_modellizzazione"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_geometria_analitica,topic_geometria_piana,method_coordinate,method_estremalita,method_casework,skill_ragionamento_geometrico,skill_manipolazione_algebrica,skill_modellizzazione,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -82,8 +95,8 @@ level: Concours Général
 
 **Topic:** [[topic_geometria_analitica|Geometria analitica]], [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_coordinate|Coordinate]], [[method_estremalita|Estremalità]], [[method_casework|Casework]]
-**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]]
-**Area:** [[Geometria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]], [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Geometria|Geometry]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1IEBXapc8Xti2FnyfVXhsQrfrBf7j3lVa/view)
 
 
@@ -96,11 +109,14 @@ level: Concours Général
 > 
 > 2. Indicare che esiste una linea $\mathscr{D}$ per la quale la somma $s_1$ delle distanze da $A$, $B$ e $C$ a $\mathscr{D}$ è minima. Indicare che questa riga è unica se $ABC$ non è uguale e caratterizzarla.
 
-[[Quesiti/src_cgen_2008#q02|src_cgen_2008__Q02]]
+**Topic:** [[topic_geometria_analitica|Geometria analitica]], [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_coordinate|Metodo delle coordinate]], [[method_estremalita|Principio di estremalita]], [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Geometria]]
 
 
 
-<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_aritmetica,topic_combinatoria,topic_logica,method_casework,method_conteggio,skill_lettura_attenta,skill_modellizzazione,skill_casework_accurato"></span>
+<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_aritmetica,topic_combinatoria,topic_logica,topic_algebra,method_casework,method_conteggio,skill_lettura_attenta,skill_modellizzazione,skill_casework_accurato,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -118,10 +134,10 @@ level: Concours Général
 > 
 > 2. Why can the data of all the receipts of the day in no case allow one to determine the exact price of each of the products sold?
 
-**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]], [[topic_logica|Logica]]
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]], [[topic_logica|Logica]], [[topic_algebra|Algebra]]
 **Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]]
-**Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_modellizzazione|Modellizzazione]], [[skill_casework_accurato|Casework accurato]]
-**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+**Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_modellizzazione|Modellizzazione]], [[skill_casework_accurato|Casework accurato]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Algebra e Analisi|Algebra and analysis]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1IEBXapc8Xti2FnyfVXhsQrfrBf7j3lVa/view)
 
 
@@ -138,4 +154,7 @@ level: Concours Général
 > 
 > 2. Perché i dati relativi a tutti i ricevute del giorno non permettono in nessun caso di determinare il prezzo esatto di ciascuno dei prodotti venduti?
 
-[[Quesiti/src_cgen_2008#q03|src_cgen_2008__Q03]]
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]], [[topic_logica|Logica, giochi, strategie]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_casework|Analisi per casi]], [[method_conteggio|Conteggio combinatorio]]
+**Abilita:** [[skill_lettura_attenta|Lettura attenta del testo]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_casework_accurato|Casework accurato]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]], [[Algebra e Analisi]]

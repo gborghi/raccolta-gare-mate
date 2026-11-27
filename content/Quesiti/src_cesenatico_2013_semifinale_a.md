@@ -10,7 +10,7 @@ level: nazionale
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_logica,method_invarianti,skill_riconoscimento_pattern"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_logica,method_invarianti,skill_riconoscimento_pattern,skill_modellizzazione"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -31,7 +31,7 @@ level: nazionale
 
 **Topic:** [[topic_logica|Logica, giochi, strategie]]
 **Metodo:** [[method_invarianti|Invarianti / monovarianti]]
-**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0000
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1lznDZ0YJYwH6WTw1UhXN3rOaFBlnSIeX/view)
@@ -45,15 +45,15 @@ level: nazionale
 > Mad chess
 > Radice teaches her kitten Emmy a new game. On an infinite chessboard (yes indeed, in their house there are infinite chessboards too!), she has placed two pieces, aligned vertically on the same column, with exactly two empty squares between them. The two players move their own piece in turn, with Radice starting by moving the lower one. Radice's aim is to capture Emmy's piece, by reaching the same square at the end of a move; to do so, on each of her turns she may choose to take exactly 4 steps or 5, but with these rules: moving one square up or to the right costs 1 step, moving down or to the left costs 2 steps. For example, on her first turn she may move up by 4 squares, thus passing Emmy's piece, or one square to the right, one to the left and one down (5 steps in all), but she may not move only one square up and then one down, because in that case she would take only 3 steps. Emmy, on the other hand, moves her piece by a single square per turn, in one of the 4 directions, taking care however not to end on the same square as Radice's piece. Emmy, who is a sharp kitten, has quickly learnt the best strategy for making the game last as long as possible, despite Radice's efforts. After how many moves will the game end?
 
+
 **Topic:** [[topic_logica|Logic, games and strategies]]
-**Method:** [[method_invarianti|Invariants / monovariants]]
-**Skill:** [[skill_riconoscimento_pattern|Pattern recognition]]
-
-[[Quesiti/src_cesenatico_2013_semifinale_a#q01|src_cesenatico_2013_semifinale_a__Q01]]
-
+**Metodo:** [[method_invarianti|Invariants / monovariants]]
+**Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]], [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
 
-<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_geometria_solida,method_coordinate,skill_ragionamento_geometrico"></span>
+
+<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_geometria_solida,topic_geometria_piana,method_coordinate,method_simmetria,skill_ragionamento_geometrico"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -70,8 +70,8 @@ level: nazionale
 > riflessa nello specchio. Sapendo che lo specchio è perfettamente verticale, sapresti calcolare l’area dell’ intersezione tra le due ombre? Dare
 > la risposta in cm2.
 
-**Topic:** [[topic_geometria_solida|Geometria solida]]
-**Metodo:** [[method_coordinate|Metodo delle coordinate]]
+**Topic:** [[topic_geometria_solida|Geometria solida]], [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_coordinate|Metodo delle coordinate]], [[method_simmetria|Sfruttamento della simmetria]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]]
 **Risposta:** 1293
@@ -86,15 +86,15 @@ level: nazionale
 > Through the looking-glass
 > After hours wasted playing with her kitten, Radice is so tired that she has almost fallen asleep! Beyond the mirror she sees a little table in the shape of a regular tetrahedron of side 1 m, on which a chessboard is drawn. The table rests on the ground in balance on one of its vertices, which lies on the floor exactly 1 m from the mirror. The plane of the table, made up of one of the faces of the tetrahedron in the shape of an equilateral triangle, is parallel to the floor. One of its vertices "points" exactly towards the mirror, so that the opposite side is parallel to it. Exactly above the centre of the table, but at a height from the floor twice the height of the table, there is a lit bulb. Radice observes that under the table two shadows therefore form: one caused by the direct light of the bulb and the other by the light reflected in the mirror. Knowing that the mirror is perfectly vertical, could you calculate the area of the intersection of the two shadows? Give the answer in cm2.
 
-**Topic:** [[topic_geometria_solida|Solid geometry]]
-**Method:** [[method_coordinate|Coordinate method]]
-**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
 
-[[Quesiti/src_cesenatico_2013_semifinale_a#q02|src_cesenatico_2013_semifinale_a__Q02]]
+**Topic:** [[topic_geometria_solida|Solid geometry]], [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_coordinate|Coordinate method]], [[method_simmetria|Using symmetry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
 
 
 
-<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_geometria_piana,topic_aritmetica,method_coordinate,skill_riconoscimento_pattern"></span>
+<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_geometria_piana,topic_aritmetica,method_coordinate,skill_riconoscimento_pattern,skill_ragionamento_geometrico"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -110,8 +110,8 @@ level: nazionale
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_coordinate|Metodo delle coordinate]]
-**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
-**Area:** [[Aritmetica e Teoria dei Numeri]], [[Geometria]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Geometria]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 0022
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1lznDZ0YJYwH6WTw1UhXN3rOaFBlnSIeX/view)
 
@@ -124,15 +124,15 @@ level: nazionale
 > But what's happening?
 > Radice is now in the corner A of a square room ABCD of side 4161 cm, and she rolls a very small ball across the floor so that it reaches the point of side BC that lies 1 cm from B. Every time it meets a wall, not only does the ball bounce perfectly, but at the same moment the room grows: the wall opposite the one struck by the ball moves, instantly moving away from the one struck so that their distance doubles. The other two walls remain the same distance apart. How many bounces will the ball make before it ends up again in a vertex of the room?
 
+
 **Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_aritmetica|Arithmetic / Number theory]]
-**Method:** [[method_coordinate|Coordinate method]]
-**Skill:** [[skill_riconoscimento_pattern|Pattern recognition]]
-
-[[Quesiti/src_cesenatico_2013_semifinale_a#q03|src_cesenatico_2013_semifinale_a__Q03]]
-
+**Metodo:** [[method_coordinate|Coordinate method]]
+**Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]], [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
 
-<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_geometria_piana,method_trigonometria,skill_ragionamento_geometrico"></span>
+
+<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_geometria_piana,topic_trigonometria,method_trigonometria,skill_ragionamento_geometrico"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -144,7 +144,7 @@ level: nazionale
 > 200cm. Sul prato la osservano tanti fiori, stupiti dal vedere un fiore che si muove! Ognuno di essi ha la forma di un poligono regolare di
 > petalo, oops, lato 1cm. Quanti petali/lati ha il fiore più grande che Radice può incontrare nel prato?
 
-**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometria]]
 **Metodo:** [[method_trigonometria|Tecniche trigonometriche]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]]
@@ -160,11 +160,11 @@ level: nazionale
 > The flowers in the meadow
 > Radice, still surprised at what is happening, goes out of the house, and finds herself walking in a flowered meadow, infinitely long and 200 cm wide. On the meadow many flowers watch her, amazed to see a flower that moves! Each of them has the shape of a regular polygon of petal — oops — side 1 cm. How many petals/sides does the largest flower that Radice can meet in the meadow have?
 
-**Topic:** [[topic_geometria_piana|Plane geometry]]
-**Method:** [[method_trigonometria|Trigonometric techniques]]
-**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
 
-[[Quesiti/src_cesenatico_2013_semifinale_a#q04|src_cesenatico_2013_semifinale_a__Q04]]
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_trigonometria|Trigonometry]]
+**Metodo:** [[method_trigonometria|Trigonometric techniques]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
 
 
 
@@ -198,12 +198,11 @@ level: nazionale
 **Topic:** [[topic_geometria_piana|Plane geometry]]
 **Method:** [[method_coordinate|Coordinate method]]
 **Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
-
-[[Quesiti/src_cesenatico_2013_semifinale_a#q05|src_cesenatico_2013_semifinale_a__Q05]]
-
+**Area:** [[Geometria|Geometry]]
 
 
-<span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_combinatoria,method_casework,method_conteggio,skill_conteggio_sistematico"></span>
+
+<span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_combinatoria,method_casework,method_conteggio,skill_conteggio_sistematico,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -220,7 +219,7 @@ level: nazionale
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_casework|Analisi per casi]], [[method_conteggio|Conteggio combinatorio]]
-**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0784
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1lznDZ0YJYwH6WTw1UhXN3rOaFBlnSIeX/view)
@@ -234,11 +233,11 @@ level: nazionale
 > A left-turning Rook
 > From a distance, Radice sees a meadow with many hedges dividing it into squares, like the cells of an 8×8 chessboard. The Red Queen orders the Rook to move from one corner cell to the opposite corner cell. The Queen explains that it will have to take exactly 6 moves to reach it. Moreover, she orders that at each move it change direction by turning left through 90°. If there are no other pieces on the board besides the Rook, how many possible paths can it follow? The Rook may pass more than once over the same cell; in particular, it may touch the destination cell even before the sixth move. A move of the Rook consists in moving any integer number of cells (from 1 to 8) horizontally or vertically.
 
-**Topic:** [[topic_combinatoria|Combinatorics]]
-**Method:** [[method_casework|Case analysis]], [[method_conteggio|Combinatorial counting]]
-**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
 
-[[Quesiti/src_cesenatico_2013_semifinale_a#q06|src_cesenatico_2013_semifinale_a__Q06]]
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_casework|Case analysis]], [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]], [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
 
 
@@ -280,12 +279,11 @@ level: nazionale
 **Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_funzionali|Functional equations / sequences]]
 **Method:** [[method_ricorsione|Recursion]], [[method_telescoping|Telescoping sums]]
 **Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
-
-[[Quesiti/src_cesenatico_2013_semifinale_a#q07|src_cesenatico_2013_semifinale_a__Q07]]
-
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Geometria|Geometry]]
 
 
-<span class="atom-split" id="q08" data-atom="q08" data-title="Quesito 8" data-tags="topic_aritmetica,method_congruenze,skill_casework_accurato"></span>
+
+<span class="atom-split" id="q08" data-atom="q08" data-title="Quesito 8" data-tags="topic_aritmetica,method_congruenze,skill_casework_accurato,skill_modellizzazione"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -301,7 +299,7 @@ level: nazionale
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]]
-**Abilita:** [[skill_casework_accurato|Casework accurato]]
+**Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 4095
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1lznDZ0YJYwH6WTw1UhXN3rOaFBlnSIeX/view)
@@ -315,15 +313,15 @@ level: nazionale
 > The oyster feast
 > The Triseco and the Cartantiere have gathered many oysters; they would like to arrange them in rows of 2, but their number is not divisible by 2. Disappointed, they therefore reluctantly decide to eat 2 of them. They try again to put the remaining ones in rows of 3, but their number is not divisible by 3, so they eat 3. They continue in this way, each time eating n of them because the number of those remaining is not divisible by n. When Radice meets them, they are in tears: they are now arranging them in rows of 71, and they have not finished yet! How many oysters were there, at least, at the start of the banquet?
 
+
 **Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
-**Method:** [[method_congruenze|Modular arithmetic / congruences]]
-**Skill:** [[skill_casework_accurato|Careful case analysis]]
-
-[[Quesiti/src_cesenatico_2013_semifinale_a#q08|src_cesenatico_2013_semifinale_a__Q08]]
-
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]], [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
 
-<span class="atom-split" id="q09" data-atom="q09" data-title="Quesito 9" data-tags="topic_combinatoria,topic_geometria_piana,method_conteggio,skill_conteggio_sistematico"></span>
+
+<span class="atom-split" id="q09" data-atom="q09" data-title="Quesito 9" data-tags="topic_combinatoria,topic_geometria_piana,method_conteggio,skill_conteggio_sistematico,skill_ragionamento_geometrico"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -338,7 +336,7 @@ level: nazionale
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_conteggio|Conteggio combinatorio]]
-**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 **Risposta:** 1491
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1lznDZ0YJYwH6WTw1UhXN3rOaFBlnSIeX/view)
@@ -352,15 +350,15 @@ level: nazionale
 > The Queen's pearls
 > After the unseemly feast of oysters, the Triseco and the Cartantiere have arranged the pearls they found in this way. Divide, by lines parallel to the sides, an equilateral triangle of side 60 into many little triangles of side 3. Then place pearls on every point that is a vertex of these little triangles, and also two pearls on each of their sides, so that every pearl is at distance 1 from its nearest neighbours. How many pearls did they use to compose the figure?
 
+
 **Topic:** [[topic_combinatoria|Combinatorics]], [[topic_geometria_piana|Plane geometry]]
-**Method:** [[method_conteggio|Combinatorial counting]]
-**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
-
-[[Quesiti/src_cesenatico_2013_semifinale_a#q09|src_cesenatico_2013_semifinale_a__Q09]]
-
+**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]], [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Geometria|Geometry]]
 
 
-<span class="atom-split" id="q10" data-atom="q10" data-title="Quesito 10" data-tags="topic_probabilita,method_conteggio,skill_conteggio_sistematico"></span>
+
+<span class="atom-split" id="q10" data-atom="q10" data-title="Quesito 10" data-tags="topic_probabilita,topic_combinatoria,method_conteggio,method_casework,skill_conteggio_sistematico,skill_lettura_attenta"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -374,9 +372,9 @@ level: nazionale
 > e denominatore della probabilità espressa come frazione ridotta ai minimi termini. Il mazzo è composto da quattro insiemi di 13 carte l’uno,
 > di valore rispettivamente 1,2,...,13.
 
-**Topic:** [[topic_probabilita|Probabilita e statistica]]
-**Metodo:** [[method_conteggio|Conteggio combinatorio]]
-**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Topic:** [[topic_probabilita|Probabilita e statistica]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_conteggio|Conteggio combinatorio]], [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta del testo]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0377
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1lznDZ0YJYwH6WTw1UhXN3rOaFBlnSIeX/view)
@@ -390,11 +388,11 @@ level: nazionale
 > Cards go to one's head
 > CuboQuadro has stolen QuadroCubo's compass! To settle the matter, as is their custom, each of them draws two cards from the same 52-card deck and adds up their values. CuboQuadro, who has drawn a 6 and an 8, will return the stolen goods only if the sum of the values of his brother's two cards is greater than or equal to the sum of his own, that is 14. What is the probability that this happens? Indicate the sum of the numerator and the denominator of the probability expressed as a fraction in lowest terms. The deck is made up of four sets of 13 cards each, of value 1, 2, ..., 13 respectively.
 
-**Topic:** [[topic_probabilita|Probability and statistics]]
-**Method:** [[method_conteggio|Combinatorial counting]]
-**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
 
-[[Quesiti/src_cesenatico_2013_semifinale_a#q10|src_cesenatico_2013_semifinale_a__Q10]]
+**Topic:** [[topic_probabilita|Probability and statistics]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_conteggio|Combinatorial counting]], [[method_casework|Case analysis]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]], [[skill_lettura_attenta|Careful reading of the text]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
 
 
@@ -431,8 +429,7 @@ level: nazionale
 **Topic:** [[topic_combinatoria|Combinatorics]], [[topic_logica|Logic, games and strategies]]
 **Method:** [[method_casework|Case analysis]]
 **Skill:** [[skill_casework_accurato|Careful case analysis]]
-
-[[Quesiti/src_cesenatico_2013_semifinale_a#q11|src_cesenatico_2013_semifinale_a__Q11]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
 
 
@@ -467,8 +464,7 @@ level: nazionale
 **Topic:** [[topic_algebra|Algebra]]
 **Method:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
 **Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
-
-[[Quesiti/src_cesenatico_2013_semifinale_a#q12|src_cesenatico_2013_semifinale_a__Q12]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
 
 
 
@@ -504,12 +500,11 @@ level: nazionale
 **Topic:** [[topic_combinatoria|Combinatorics]], [[topic_aritmetica|Arithmetic / Number theory]]
 **Method:** [[method_congruenze|Modular arithmetic / congruences]], [[method_conteggio|Combinatorial counting]]
 **Skill:** [[skill_conteggio_sistematico|Systematic counting]]
-
-[[Quesiti/src_cesenatico_2013_semifinale_a#q13|src_cesenatico_2013_semifinale_a__Q13]]
-
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
 
-<span class="atom-split" id="q14" data-atom="q14" data-title="Quesito 14" data-tags="topic_aritmetica,method_fattorizzazione,skill_casework_accurato"></span>
+
+<span class="atom-split" id="q14" data-atom="q14" data-title="Quesito 14" data-tags="topic_aritmetica,method_fattorizzazione,method_casework,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -522,7 +517,7 @@ level: nazionale
 > 1014. Ah, e i multipli di 5 sono in numero dispari. Quanti numeri ci sono sul foglio?”
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]], [[method_casework|Analisi per casi]]
 **Abilita:** [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 2222
@@ -537,15 +532,15 @@ level: nazionale
 > The knight's divisors
 > Radice now finds herself facing the White Knight, who, resting from the battle, is meditating over a sheet of paper. "Here I have written all the positive divisors of a certain integer N, including 1 and itself. I will tell you only that there are 606 perfect squares, and exactly 165 numbers that are also divisors of 1014. Ah, and the multiples of 5 are odd in number. How many numbers are there on the sheet?"
 
+
 **Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
-**Method:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
-**Skill:** [[skill_casework_accurato|Careful case analysis]]
-
-[[Quesiti/src_cesenatico_2013_semifinale_a#q14|src_cesenatico_2013_semifinale_a__Q14]]
-
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]], [[method_casework|Case analysis]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
 
-<span class="atom-split" id="q15" data-atom="q15" data-title="Quesito 15" data-tags="topic_geometria_piana,method_coordinate,skill_ragionamento_geometrico"></span>
+
+<span class="atom-split" id="q15" data-atom="q15" data-title="Quesito 15" data-tags="topic_geometria_piana,topic_aritmetica,method_coordinate,method_casework,skill_ragionamento_geometrico,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -558,10 +553,10 @@ level: nazionale
 > di intersezione tra il segmento perpendicolare a BK, passante per K, e la retta parallela a BC passante per A. Quanto vale l’area di BKD,
 > sapendo che l’area di ABC è un numero palindromo di 4 cifre e l’altezza è un numero intero pari?”
 
-**Topic:** [[topic_geometria_piana|Geometria piana]]
-**Metodo:** [[method_coordinate|Metodo delle coordinate]]
-**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
-**Area:** [[Geometria]]
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_coordinate|Metodo delle coordinate]], [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Geometria]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 8556
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1lznDZ0YJYwH6WTw1UhXN3rOaFBlnSIeX/view)
 
@@ -574,15 +569,15 @@ level: nazionale
 > The palindromic triangle
 > Radice has reached the eighth rank, and she is about to become a Queen herself! The Red Queen, however, sets her one last question before the coronation: "Let ABC be an isosceles triangle (AB = AC) with base BC of length 62 and height AH. Let K be the midpoint of AH and D the point of intersection of the line through K perpendicular to BK and the line through A parallel to BC. What is the area of BKD worth, knowing that the area of ABC is a 4-digit palindrome and the height is an even integer?"
 
-**Topic:** [[topic_geometria_piana|Plane geometry]]
-**Method:** [[method_coordinate|Coordinate method]]
-**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
 
-[[Quesiti/src_cesenatico_2013_semifinale_a#q15|src_cesenatico_2013_semifinale_a__Q15]]
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_coordinate|Coordinate method]], [[method_casework|Case analysis]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Geometria|Geometry]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
 
 
-<span class="atom-split" id="q16" data-atom="q16" data-title="Quesito 16" data-tags="topic_aritmetica,method_conteggio,skill_riconoscimento_pattern"></span>
+<span class="atom-split" id="q16" data-atom="q16" data-title="Quesito 16" data-tags="topic_aritmetica,method_conteggio,method_casework,skill_riconoscimento_pattern,skill_conteggio_sistematico"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -601,8 +596,8 @@ level: nazionale
 > Problema
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_conteggio|Conteggio combinatorio]]
-**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Metodo:** [[method_conteggio|Conteggio combinatorio]], [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 0990
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1lznDZ0YJYwH6WTw1UhXN3rOaFBlnSIeX/view)
@@ -616,8 +611,8 @@ level: nazionale
 > A little conversation
 > A great banquet is organised in the castle of the newly made Queen Radice. Between the roast and the dessert, the Red Queen suddenly asks Radice: "Take all the numbers up to 200, and divide them into those whose nearest square is odd and those whose nearest square is even. By how much do the sums of the numbers in these two sets differ?"
 
-**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
-**Method:** [[method_conteggio|Combinatorial counting]]
-**Skill:** [[skill_riconoscimento_pattern|Pattern recognition]]
 
-[[Quesiti/src_cesenatico_2013_semifinale_a#q16|src_cesenatico_2013_semifinale_a__Q16]]
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_conteggio|Combinatorial counting]], [[method_casework|Case analysis]]
+**Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]], [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]

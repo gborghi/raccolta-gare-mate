@@ -41,11 +41,10 @@ level: kangourou
 **Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
 **Area:** [[Geometria|Geometry]]
 **Answer:** E
-[[Quesiti/src_kangourou_2021_preecolier_koala#q01|src_kangourou_2021_preecolier_koala__Q01]]
 
 
 
-<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_logica,skill_lettura_attenta"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_logica,topic_aritmetica,method_conteggio,skill_lettura_attenta,skill_conteggio_sistematico"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -62,9 +61,10 @@ level: kangourou
 > - **(D)** 11
 > - **(E)** 17 (vedi figura)
 
-**Topic:** [[topic_logica|Logica, giochi, strategie]]
-**Abilita:** [[skill_lettura_attenta|Lettura attenta del testo]]
-**Area:** [[Combinatoria, Logica e Probabilita]]
+**Topic:** [[topic_logica|Logica, giochi, strategie]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_conteggio|Conteggio combinatorio]]
+**Abilita:** [[skill_lettura_attenta|Lettura attenta del testo]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** B
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/10qQLZuCCKNwJWX1QYjDbQAOwITG1aDR_/view)
 
@@ -86,15 +86,15 @@ level: kangourou
 > - **(D)** 11
 > - **(E)** 17
 
-**Topic:** [[topic_logica|Logic, games and strategies]]
-**Skill:** [[skill_lettura_attenta|Careful reading]]
-**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+**Topic:** [[topic_logica|Logic, games and strategies]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_lettura_attenta|Careful reading]], [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Answer:** B
-[[Quesiti/src_kangourou_2021_preecolier_koala#q02|src_kangourou_2021_preecolier_koala__Q02]]
 
 
 
-<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_geometria_piana,skill_ragionamento_geometrico"></span>
+<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_geometria_piana,method_conteggio,method_casework,skill_ragionamento_geometrico,skill_conteggio_sistematico"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -106,7 +106,8 @@ level: kangourou
 > Quale è il più lungo tra i percorsi mostrati nelle 5 figure? (vedi figura)
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
-**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Metodo:** [[method_conteggio|Conteggio combinatorio]], [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Geometria]]
 **Risposta:** E
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/10qQLZuCCKNwJWX1QYjDbQAOwITG1aDR_/view)
@@ -122,14 +123,14 @@ level: kangourou
 > Which is the longest of the paths shown in the 5 pictures? (see the picture)
 
 **Topic:** [[topic_geometria_piana|Plane geometry]]
-**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Metodo:** [[method_conteggio|Combinatorial counting]], [[method_casework|Case analysis]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_conteggio_sistematico|Systematic counting]]
 **Area:** [[Geometria|Geometry]]
 **Answer:** E
-[[Quesiti/src_kangourou_2021_preecolier_koala#q03|src_kangourou_2021_preecolier_koala__Q03]]
 
 
 
-<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_geometria_piana,skill_ragionamento_geometrico"></span>
+<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_geometria_piana,method_casework,skill_ragionamento_geometrico"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -141,6 +142,7 @@ level: kangourou
 > Quattro quadrati di carta identici sono posizionati come mostrato. Michele vuole praticare un foro che attraversi tutti e quattro i quadrati, ma può farlo solo in uno dei cinque punti indicati. In quale di essi Michele deve praticare il foro? (vedi figura)
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_casework|Analisi per casi]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]]
 **Risposta:** D
@@ -157,14 +159,14 @@ level: kangourou
 > Four identical squares of paper are placed as shown. Michele wants to make a hole that goes through all four squares, but he can do it only at one of the five points marked. At which of them must Michele make the hole? (see the picture)
 
 **Topic:** [[topic_geometria_piana|Plane geometry]]
-**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
 **Area:** [[Geometria|Geometry]]
 **Answer:** D
-[[Quesiti/src_kangourou_2021_preecolier_koala#q04|src_kangourou_2021_preecolier_koala__Q04]]
 
 
 
-<span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_geometria_piana,skill_ragionamento_geometrico"></span>
+<span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_geometria_piana,method_simmetria,skill_ragionamento_geometrico"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -176,6 +178,7 @@ level: kangourou
 > Isabella indossa questa maglietta e si mette davanti a uno specchio. Quale di queste immagini vede nello specchio? (vedi figura)
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_simmetria|Sfruttamento della simmetria]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]]
 **Risposta:** A
@@ -192,10 +195,10 @@ level: kangourou
 > Isabella is wearing this T-shirt and stands in front of a mirror. Which of these pictures does she see in the mirror? (see the picture)
 
 **Topic:** [[topic_geometria_piana|Plane geometry]]
-**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Metodo:** [[method_simmetria|Using symmetry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
 **Area:** [[Geometria|Geometry]]
 **Answer:** A
-[[Quesiti/src_kangourou_2021_preecolier_koala#q05|src_kangourou_2021_preecolier_koala__Q05]]
 
 
 
@@ -242,11 +245,10 @@ level: kangourou
 **Skill:** [[skill_lettura_attenta|Careful reading]]
 **Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** D
-[[Quesiti/src_kangourou_2021_preecolier_koala#q06|src_kangourou_2021_preecolier_koala__Q06]]
 
 
 
-<span class="atom-split" id="q07" data-atom="q07" data-title="Quesito 7" data-tags="topic_logica,skill_lettura_attenta"></span>
+<span class="atom-split" id="q07" data-atom="q07" data-title="Quesito 7" data-tags="topic_logica,method_conteggio,method_casework,skill_lettura_attenta,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -264,7 +266,8 @@ level: kangourou
 > - **(E)** 6 (vedi figura)
 
 **Topic:** [[topic_logica|Logica, giochi, strategie]]
-**Abilita:** [[skill_lettura_attenta|Lettura attenta del testo]]
+**Metodo:** [[method_conteggio|Conteggio combinatorio]], [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_lettura_attenta|Lettura attenta del testo]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** E
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/10qQLZuCCKNwJWX1QYjDbQAOwITG1aDR_/view)
@@ -288,14 +291,14 @@ level: kangourou
 > - **(E)** 6
 
 **Topic:** [[topic_logica|Logic, games and strategies]]
-**Skill:** [[skill_lettura_attenta|Careful reading]]
+**Metodo:** [[method_conteggio|Combinatorial counting]], [[method_casework|Case analysis]]
+**Abilita:** [[skill_lettura_attenta|Careful reading]], [[skill_casework_accurato|Careful case analysis]]
 **Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** E
-[[Quesiti/src_kangourou_2021_preecolier_koala#q07|src_kangourou_2021_preecolier_koala__Q07]]
 
 
 
-<span class="atom-split" id="q08" data-atom="q08" data-title="Quesito 8" data-tags="topic_aritmetica,skill_conteggio_sistematico"></span>
+<span class="atom-split" id="q08" data-atom="q08" data-title="Quesito 8" data-tags="topic_aritmetica,method_conteggio,method_casework,skill_conteggio_sistematico,skill_lettura_attenta"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -307,7 +310,8 @@ level: kangourou
 > In queste costellazioni ogni stella è denotata da un numero invece che da un nome. I numeri che denotano le stelle nella costellazione Kangourou sono tutti maggiori di 3 e la loro somma è 20. Qual è la costellazione Kangourou? (vedi figura)
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Metodo:** [[method_conteggio|Conteggio combinatorio]], [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta del testo]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** B
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/10qQLZuCCKNwJWX1QYjDbQAOwITG1aDR_/view)
@@ -323,14 +327,14 @@ level: kangourou
 > In these constellations each star is marked with a number instead of a name. The numbers marking the stars in the Kangourou constellation are all greater than 3, and their sum is 20. Which constellation is Kangourou? (see the picture)
 
 **Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
-**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+**Metodo:** [[method_conteggio|Combinatorial counting]], [[method_casework|Case analysis]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]], [[skill_lettura_attenta|Careful reading of the text]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Answer:** B
-[[Quesiti/src_kangourou_2021_preecolier_koala#q08|src_kangourou_2021_preecolier_koala__Q08]]
 
 
 
-<span class="atom-split" id="q09" data-atom="q09" data-title="Quesito 9" data-tags="topic_combinatoria,skill_conteggio_sistematico"></span>
+<span class="atom-split" id="q09" data-atom="q09" data-title="Quesito 9" data-tags="topic_combinatoria,method_conteggio,skill_conteggio_sistematico"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -348,6 +352,7 @@ level: kangourou
 > - **(E)** 13 (vedi figura)
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_conteggio|Conteggio combinatorio]]
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** D
@@ -372,14 +377,14 @@ level: kangourou
 > - **(E)** 13
 
 **Topic:** [[topic_combinatoria|Combinatorics]]
-**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
 **Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** D
-[[Quesiti/src_kangourou_2021_preecolier_koala#q09|src_kangourou_2021_preecolier_koala__Q09]]
 
 
 
-<span class="atom-split" id="q10" data-atom="q10" data-title="Quesito 10" data-tags="topic_geometria_piana,skill_ragionamento_geometrico"></span>
+<span class="atom-split" id="q10" data-atom="q10" data-title="Quesito 10" data-tags="topic_geometria_piana,method_conteggio,skill_ragionamento_geometrico,skill_conteggio_sistematico"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -397,7 +402,8 @@ level: kangourou
 > - **(E)** In E (vedi figura)
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
-**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Metodo:** [[method_conteggio|Conteggio combinatorio]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Geometria]]
 **Risposta:** D
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/10qQLZuCCKNwJWX1QYjDbQAOwITG1aDR_/view)
@@ -421,14 +427,14 @@ level: kangourou
 > - **(E)** At E
 
 **Topic:** [[topic_geometria_piana|Plane geometry]]
-**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_conteggio_sistematico|Systematic counting]]
 **Area:** [[Geometria|Geometry]]
 **Answer:** D
-[[Quesiti/src_kangourou_2021_preecolier_koala#q10|src_kangourou_2021_preecolier_koala__Q10]]
 
 
 
-<span class="atom-split" id="q11" data-atom="q11" data-title="Quesito 11" data-tags="topic_aritmetica,skill_conteggio_sistematico"></span>
+<span class="atom-split" id="q11" data-atom="q11" data-title="Quesito 11" data-tags="topic_aritmetica,method_estremalita,method_conteggio,skill_conteggio_sistematico,skill_modellizzazione"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -446,7 +452,8 @@ level: kangourou
 > - **(E)** 10 (vedi figura)
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Metodo:** [[method_estremalita|Principio di estremalita]], [[method_conteggio|Conteggio combinatorio]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** C
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/10qQLZuCCKNwJWX1QYjDbQAOwITG1aDR_/view)
@@ -470,14 +477,14 @@ level: kangourou
 > - **(E)** 10
 
 **Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
-**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+**Metodo:** [[method_estremalita|Extremal principle]], [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]], [[skill_modellizzazione|Modelling / translating the text]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Answer:** C
-[[Quesiti/src_kangourou_2021_preecolier_koala#q11|src_kangourou_2021_preecolier_koala__Q11]]
 
 
 
-<span class="atom-split" id="q12" data-atom="q12" data-title="Quesito 12" data-tags="topic_logica,skill_riconoscimento_pattern"></span>
+<span class="atom-split" id="q12" data-atom="q12" data-title="Quesito 12" data-tags="topic_logica,method_bigezione,skill_riconoscimento_pattern,skill_lettura_attenta"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -495,7 +502,8 @@ level: kangourou
 > - **(E)** MELA (vedi figura)
 
 **Topic:** [[topic_logica|Logica, giochi, strategie]]
-**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Metodo:** [[method_bigezione|Bigezione / corrispondenza]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_lettura_attenta|Lettura attenta del testo]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** E
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/10qQLZuCCKNwJWX1QYjDbQAOwITG1aDR_/view)
@@ -519,10 +527,10 @@ level: kangourou
 > - **(E)** MELA
 
 **Topic:** [[topic_logica|Logic, games and strategies]]
-**Skill:** [[skill_riconoscimento_pattern|Pattern recognition]]
+**Metodo:** [[method_bigezione|Bijection / correspondence]]
+**Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]], [[skill_lettura_attenta|Careful reading of the text]]
 **Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** E
-[[Quesiti/src_kangourou_2021_preecolier_koala#q12|src_kangourou_2021_preecolier_koala__Q12]]
 
 
 
@@ -557,11 +565,10 @@ level: kangourou
 **Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
 **Area:** [[Geometria|Geometry]]
 **Answer:** D
-[[Quesiti/src_kangourou_2021_preecolier_koala#q13|src_kangourou_2021_preecolier_koala__Q13]]
 
 
 
-<span class="atom-split" id="q14" data-atom="q14" data-title="Quesito 14" data-tags="topic_aritmetica,skill_conteggio_sistematico"></span>
+<span class="atom-split" id="q14" data-atom="q14" data-title="Quesito 14" data-tags="topic_aritmetica,skill_conteggio_sistematico,skill_lettura_attenta"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -577,7 +584,7 @@ level: kangourou
 > - **(E)** 12
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta del testo]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** C
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/10qQLZuCCKNwJWX1QYjDbQAOwITG1aDR_/view)
@@ -597,14 +604,13 @@ level: kangourou
 > - **(E)** 12
 
 **Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
-**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]], [[skill_lettura_attenta|Careful reading of the text]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Answer:** C
-[[Quesiti/src_kangourou_2021_preecolier_koala#q14|src_kangourou_2021_preecolier_koala__Q14]]
 
 
 
-<span class="atom-split" id="q15" data-atom="q15" data-title="Quesito 15" data-tags="topic_logica,skill_lettura_attenta"></span>
+<span class="atom-split" id="q15" data-atom="q15" data-title="Quesito 15" data-tags="topic_logica,skill_lettura_attenta,skill_ragionamento_geometrico"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -616,7 +622,7 @@ level: kangourou
 > L'immagine mostra le cinque case di cinque amici e la loro scuola. La scuola è l'edificio più grande nella foto. Per andare a scuola, Doris e Ali passano davanti alla casa di Leo. Eva passa davanti a casa di Cloe. Qual è la casa di Eva? (vedi figura)
 
 **Topic:** [[topic_logica|Logica, giochi, strategie]]
-**Abilita:** [[skill_lettura_attenta|Lettura attenta del testo]]
+**Abilita:** [[skill_lettura_attenta|Lettura attenta del testo]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** B
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/10qQLZuCCKNwJWX1QYjDbQAOwITG1aDR_/view)
@@ -632,14 +638,13 @@ level: kangourou
 > The picture shows the five houses of five friends and their school. The school is the largest building in the photo. To go to school, Doris and Ali pass Leo's house. Eva passes Cloe's house. Which house is Eva's? (see the picture)
 
 **Topic:** [[topic_logica|Logic, games and strategies]]
-**Skill:** [[skill_lettura_attenta|Careful reading]]
+**Abilita:** [[skill_lettura_attenta|Careful reading]], [[skill_ragionamento_geometrico|Geometric reasoning]]
 **Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** B
-[[Quesiti/src_kangourou_2021_preecolier_koala#q15|src_kangourou_2021_preecolier_koala__Q15]]
 
 
 
-<span class="atom-split" id="q16" data-atom="q16" data-title="Quesito 16" data-tags="topic_aritmetica,skill_conteggio_sistematico"></span>
+<span class="atom-split" id="q16" data-atom="q16" data-title="Quesito 16" data-tags="topic_aritmetica,method_invarianti,skill_conteggio_sistematico,skill_astrazione"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -655,7 +660,8 @@ level: kangourou
 > - **(E)** 10
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Metodo:** [[method_invarianti|Invarianti / monovarianti]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_astrazione|Astrazione / generalizzazione]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** D
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/10qQLZuCCKNwJWX1QYjDbQAOwITG1aDR_/view)
@@ -675,14 +681,14 @@ level: kangourou
 > - **(E)** 10
 
 **Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
-**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+**Metodo:** [[method_invarianti|Invariants / monovariants]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]], [[skill_astrazione|Abstraction / generalisation]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Answer:** D
-[[Quesiti/src_kangourou_2021_preecolier_koala#q16|src_kangourou_2021_preecolier_koala__Q16]]
 
 
 
-<span class="atom-split" id="q17" data-atom="q17" data-title="Quesito 17" data-tags="topic_geometria_piana,skill_ragionamento_geometrico"></span>
+<span class="atom-split" id="q17" data-atom="q17" data-title="Quesito 17" data-tags="topic_geometria_piana,method_casework,skill_ragionamento_geometrico"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -694,6 +700,7 @@ level: kangourou
 > Mara ha costruito la figura a fianco utilizzando quattro delle cinque forme che seguono. Quale forma Mara non ha utilizzato? (vedi figura)
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_casework|Analisi per casi]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]]
 **Risposta:** D
@@ -710,14 +717,14 @@ level: kangourou
 > Mara built the figure beside using four of the five shapes that follow. Which shape did Mara not use? (see the picture)
 
 **Topic:** [[topic_geometria_piana|Plane geometry]]
-**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
 **Area:** [[Geometria|Geometry]]
 **Answer:** D
-[[Quesiti/src_kangourou_2021_preecolier_koala#q17|src_kangourou_2021_preecolier_koala__Q17]]
 
 
 
-<span class="atom-split" id="q18" data-atom="q18" data-title="Quesito 18" data-tags="topic_logica,skill_riconoscimento_pattern"></span>
+<span class="atom-split" id="q18" data-atom="q18" data-title="Quesito 18" data-tags="topic_logica,topic_aritmetica,method_invarianti,method_casework,skill_riconoscimento_pattern,skill_conteggio_sistematico"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -728,9 +735,10 @@ level: kangourou
 
 > Una maghetta si diverte a trasformare i frutti. Ogni volta che ha 3 mele le trasforma in 1 banana. Ogni volta che ha 3 banane le trasforma in 1 mela. Se inizia con 4 mele e 5 banane, che cosa le resterà quando arriverà al momento di non poter più fare trasformazioni? (vedi figura)
 
-**Topic:** [[topic_logica|Logica, giochi, strategie]]
-**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
-**Area:** [[Combinatoria, Logica e Probabilita]]
+**Topic:** [[topic_logica|Logica, giochi, strategie]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_invarianti|Invarianti / monovarianti]], [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** A
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/10qQLZuCCKNwJWX1QYjDbQAOwITG1aDR_/view)
 
@@ -744,15 +752,15 @@ level: kangourou
 
 > A little witch enjoys transforming fruit. Whenever she has 3 apples she turns them into 1 banana. Whenever she has 3 bananas she turns them into 1 apple. If she starts with 4 apples and 5 bananas, what will she have left when she reaches the point of being unable to transform any more? (see the picture)
 
-**Topic:** [[topic_logica|Logic, games and strategies]]
-**Skill:** [[skill_riconoscimento_pattern|Pattern recognition]]
-**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+**Topic:** [[topic_logica|Logic, games and strategies]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_invarianti|Invariants / monovariants]], [[method_casework|Case analysis]]
+**Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]], [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Answer:** A
-[[Quesiti/src_kangourou_2021_preecolier_koala#q18|src_kangourou_2021_preecolier_koala__Q18]]
 
 
 
-<span class="atom-split" id="q19" data-atom="q19" data-title="Quesito 19" data-tags="topic_aritmetica,skill_conteggio_sistematico"></span>
+<span class="atom-split" id="q19" data-atom="q19" data-title="Quesito 19" data-tags="topic_aritmetica,method_casework,method_conteggio,skill_conteggio_sistematico,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -770,7 +778,8 @@ level: kangourou
 > - **(E)** È impossibile determinarlo (vedi figura)
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Metodo:** [[method_casework|Analisi per casi]], [[method_conteggio|Conteggio combinatorio]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** C
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/10qQLZuCCKNwJWX1QYjDbQAOwITG1aDR_/view)
@@ -794,14 +803,14 @@ level: kangourou
 > - **(E)** It is impossible to determine.
 
 **Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
-**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+**Metodo:** [[method_casework|Case analysis]], [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]], [[skill_casework_accurato|Careful case analysis]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Answer:** C
-[[Quesiti/src_kangourou_2021_preecolier_koala#q19|src_kangourou_2021_preecolier_koala__Q19]]
 
 
 
-<span class="atom-split" id="q20" data-atom="q20" data-title="Quesito 20" data-tags="topic_logica,skill_ragionamento_geometrico"></span>
+<span class="atom-split" id="q20" data-atom="q20" data-title="Quesito 20" data-tags="topic_logica,topic_geometria_piana,skill_ragionamento_geometrico"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -812,9 +821,9 @@ level: kangourou
 
 > L'immagine mostra un ingranaggio costituito da due ruote dentate, ciascuna con uno e un solo dente nero. In quali posizioni si verranno a trovare i due denti neri dopo che la ruota dentata piccola avrà compiuto un giro completo? (vedi figura)
 
-**Topic:** [[topic_logica|Logica, giochi, strategie]]
+**Topic:** [[topic_logica|Logica, giochi, strategie]], [[topic_geometria_piana|Geometria piana]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
-**Area:** [[Combinatoria, Logica e Probabilita]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 **Risposta:** C
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/10qQLZuCCKNwJWX1QYjDbQAOwITG1aDR_/view)
 
@@ -828,15 +837,14 @@ level: kangourou
 
 > The picture shows a gear made of two toothed wheels, each with one and only one black tooth. In which positions will the two black teeth be after the small toothed wheel has made one full turn? (see the picture)
 
-**Topic:** [[topic_logica|Logic, games and strategies]]
-**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
-**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+**Topic:** [[topic_logica|Logic, games and strategies]], [[topic_geometria_piana|Plane geometry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Geometria|Geometry]]
 **Answer:** C
-[[Quesiti/src_kangourou_2021_preecolier_koala#q20|src_kangourou_2021_preecolier_koala__Q20]]
 
 
 
-<span class="atom-split" id="q21" data-atom="q21" data-title="Quesito 21" data-tags="topic_combinatoria,skill_conteggio_sistematico"></span>
+<span class="atom-split" id="q21" data-atom="q21" data-title="Quesito 21" data-tags="topic_combinatoria,method_conteggio,skill_conteggio_sistematico,skill_modellizzazione"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -852,7 +860,8 @@ level: kangourou
 > - **(E)** 10
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
-**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Metodo:** [[method_conteggio|Conteggio combinatorio]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** D
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/10qQLZuCCKNwJWX1QYjDbQAOwITG1aDR_/view)
@@ -872,10 +881,10 @@ level: kangourou
 > - **(E)** 10
 
 **Topic:** [[topic_combinatoria|Combinatorics]]
-**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]], [[skill_modellizzazione|Modelling / translating the text]]
 **Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** D
-[[Quesiti/src_kangourou_2021_preecolier_koala#q21|src_kangourou_2021_preecolier_koala__Q21]]
 
 
 
@@ -924,11 +933,10 @@ level: kangourou
 **Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
 **Area:** [[Geometria|Geometry]]
 **Answer:** C
-[[Quesiti/src_kangourou_2021_preecolier_koala#q22|src_kangourou_2021_preecolier_koala__Q22]]
 
 
 
-<span class="atom-split" id="q23" data-atom="q23" data-title="Quesito 23" data-tags="topic_aritmetica,skill_conteggio_sistematico"></span>
+<span class="atom-split" id="q23" data-atom="q23" data-title="Quesito 23" data-tags="topic_aritmetica,method_conteggio,method_casi_conteggio,skill_conteggio_sistematico,skill_lettura_attenta"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -944,7 +952,8 @@ level: kangourou
 > - **(E)** 24
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Metodo:** [[method_conteggio|Conteggio combinatorio]], [[method_casi_conteggio|Conteggio per casi]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta del testo]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** E
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/10qQLZuCCKNwJWX1QYjDbQAOwITG1aDR_/view)
@@ -964,14 +973,14 @@ level: kangourou
 > - **(E)** 24
 
 **Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
-**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+**Metodo:** [[method_conteggio|Combinatorial counting]], [[method_casi_conteggio|Counting by cases]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]], [[skill_lettura_attenta|Careful reading of the text]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Answer:** E
-[[Quesiti/src_kangourou_2021_preecolier_koala#q23|src_kangourou_2021_preecolier_koala__Q23]]
 
 
 
-<span class="atom-split" id="q24" data-atom="q24" data-title="Quesito 24" data-tags="topic_logica,skill_casework_accurato"></span>
+<span class="atom-split" id="q24" data-atom="q24" data-title="Quesito 24" data-tags="topic_logica,method_casework,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -989,6 +998,7 @@ level: kangourou
 > - **(E)** 5
 
 **Topic:** [[topic_logica|Logica, giochi, strategie]]
+**Metodo:** [[method_casework|Analisi per casi]]
 **Abilita:** [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** C
@@ -1011,7 +1021,7 @@ level: kangourou
 > - **(E)** 5
 
 **Topic:** [[topic_logica|Logic, games and strategies]]
-**Skill:** [[skill_casework_accurato|Careful case analysis]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
 **Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** C
-[[Quesiti/src_kangourou_2021_preecolier_koala#q24|src_kangourou_2021_preecolier_koala__Q24]]

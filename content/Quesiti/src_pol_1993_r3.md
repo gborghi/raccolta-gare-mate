@@ -44,8 +44,6 @@ level: Olimpiade Polacca Round 3
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 
-[[Quesiti/src_pol_1993_r3#q01|src_pol_1993_r3__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_geometria_piana,method_simmetria,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
@@ -76,11 +74,9 @@ level: Olimpiade Polacca Round 3
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 
-[[Quesiti/src_pol_1993_r3#q02|src_pol_1993_r3__Q02]]
 
 
-
-<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_aritmetica,topic_combinatoria,method_ricorsione,method_induzione,method_fattorizzazione,skill_riconoscimento_pattern,skill_conteggio_sistematico,skill_manipolazione_algebrica"></span>
+<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_aritmetica,topic_combinatoria,topic_funzionali,method_ricorsione,method_induzione,method_fattorizzazione,skill_riconoscimento_pattern,skill_conteggio_sistematico,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -91,10 +87,10 @@ level: Olimpiade Polacca Round 3
 > $$f(k) = \begin{cases} k/2 + k/g(k) & \text{for } k \text{ even;} \\ 2^{(k+1)/2} & \text{for } k \text{ odd.} \end{cases}$$
 > and define the sequence $x_n$ by $x_1 = 1$ and $x_{n+1} = f(x_n)$ for $n \in \mathbb{N}$. Show that the number $800$ appears in the sequence exactly once, and determine $n$ for which $x_n = 800$.
 
-**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]], [[topic_funzionali|Functional equations / sequences]]
 **Metodo:** [[method_ricorsione|Ricorsione]], [[method_induzione|Induzione]], [[method_fattorizzazione|Fattorizzazione]]
 **Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
-**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Algebra e Analisi|Algebra and analysis]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1ozjMAbDlKBC3LLKmoYwAq8Nm_A0MkSaK/view)
 
 
@@ -107,12 +103,11 @@ level: Olimpiade Polacca Round 3
 > $$f(k) = \begin{cases} k/2 + k/g(k) & \text{for } k \text{ even;} \\ 2^{(k+1)/2} & \text{for } k \text{ odd.} \end{cases}$$
 > E definisci la successione $x_n$ mediante $x_1 = 1$ e $x_{n+1} = f(x_n)$ per $n \in \mathbb{N}$. Dimostrare che il numero $800$ compare nella successione esattamente una volta, e determina $n$ per cui $x_n = 800$.
 
-**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]], [[topic_funzionali|Equazioni funzionali / successioni]]
 **Metodo:** [[method_ricorsione|Ricorsione]], [[method_induzione|Induzione]], [[method_fattorizzazione|Fattorizzazione]]
 **Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
-**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
-
-[[Quesiti/src_pol_1993_r3#q03|src_pol_1993_r3__Q03]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]], [[Algebra e Analisi]]
 
 
 
@@ -144,11 +139,9 @@ level: Olimpiade Polacca Round 3
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_astrazione|Astrazione]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 
-[[Quesiti/src_pol_1993_r3#q04|src_pol_1993_r3__Q04]]
 
 
-
-<span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_funzionali,topic_algebra,method_simmetria,skill_manipolazione_algebrica,skill_riconoscimento_pattern,skill_lettura_attenta"></span>
+<span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_funzionali,topic_algebra,method_simmetria,method_induzione,skill_manipolazione_algebrica,skill_riconoscimento_pattern,skill_lettura_attenta"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -160,9 +153,9 @@ level: Olimpiade Polacca Round 3
 > $$f\!\left(\frac{1}{x}\right) = \frac{f(x)}{x^2} \quad \text{for } x \neq 0.$$
 
 **Topic:** [[topic_funzionali|Equazioni funzionali]], [[topic_algebra|Algebra]]
-**Metodo:** [[method_simmetria|Simmetria]]
+**Metodo:** [[method_simmetria|Simmetria]], [[method_induzione|Induction]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_lettura_attenta|Lettura attenta]]
-**Area:** [[Algebra e Analisi]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1ozjMAbDlKBC3LLKmoYwAq8Nm_A0MkSaK/view)
 
 
@@ -175,16 +168,15 @@ level: Olimpiade Polacca Round 3
 > $$f(-x) = -f(x) \quad \text{and} \quad f(x+1) = f(x) + 1 \quad \text{for } x \in \mathbb{R};$$
 > $$f\!\left(\frac{1}{x}\right) = \frac{f(x)}{x^2} \quad \text{for } x \neq 0.$$
 
+
 **Topic:** [[topic_funzionali|Equazioni funzionali]], [[topic_algebra|Algebra]]
-**Metodo:** [[method_simmetria|Simmetria]]
+**Metodo:** [[method_simmetria|Simmetria]], [[method_induzione|Induzione]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Algebra e Analisi]]
 
-[[Quesiti/src_pol_1993_r3#q05|src_pol_1993_r3__Q05]]
 
 
-
-<span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_geometria_solida,method_casework,method_estremalita,skill_ragionamento_geometrico,skill_modellizzazione,skill_astrazione"></span>
+<span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_geometria_solida,method_casework,method_estremalita,skill_ragionamento_geometrico,skill_modellizzazione,skill_astrazione,skill_lettura_attenta"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -195,8 +187,8 @@ level: Olimpiade Polacca Round 3
 
 **Topic:** [[topic_geometria_solida|Geometria solida]]
 **Metodo:** [[method_casework|Casework]], [[method_estremalita|Estremalità]]
-**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]], [[skill_astrazione|Astrazione]]
-**Area:** [[Geometria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]], [[skill_astrazione|Astrazione]], [[skill_lettura_attenta|Careful reading of the text]]
+**Area:** [[Geometria|Geometry]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1ozjMAbDlKBC3LLKmoYwAq8Nm_A0MkSaK/view)
 
 
@@ -207,9 +199,8 @@ level: Olimpiade Polacca Round 3
 
 > Scopri se sia possibile determinare il volume di un tetraedro conoscendo le aree delle sue facce e il suo raggio circoscritto.
 
+
 **Topic:** [[topic_geometria_solida|Geometria solida]]
 **Metodo:** [[method_casework|Casework]], [[method_estremalita|Estremalità]]
-**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]], [[skill_astrazione|Astrazione]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]], [[skill_astrazione|Astrazione]], [[skill_lettura_attenta|Lettura attenta del testo]]
 **Area:** [[Geometria]]
-
-[[Quesiti/src_pol_1993_r3#q06|src_pol_1993_r3__Q06]]

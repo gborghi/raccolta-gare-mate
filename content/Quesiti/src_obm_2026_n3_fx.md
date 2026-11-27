@@ -10,7 +10,7 @@ level: OBM Nível 3
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_geometria_piana"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_geometria_piana,topic_trigonometria,method_trigonometria,skill_ragionamento_geometrico"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -25,11 +25,13 @@ level: OBM Nível 3
 >
 > *Remark:* the incentre of a triangle is the intersection of the bisectors of its interior angles, the circumcentre is the intersection of the perpendicular bisectors of its sides, and the orthocentre is the intersection of its altitudes.
 
-**Topic:** [[topic_geometria_piana|Geometria piana]]
-**Area:** [[Geometria]]
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_trigonometria|Trigonometry]]
+**Metodo:** [[method_trigonometria|Trigonometric techniques]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
 **Risposta:** nessuna soluzione ufficiale pubblicata (problema dimostrativo / a risposta aperta).
 **Fonte risposta:** OBM, «Provas e gabaritos» — per la prova 2026 è pubblicato solo il testo ([pagina OBM](<https://www.obm.org.br/como-se-preparar/provas-e-gabaritos>)).
-**Fonte:** apri PDF p.1
+**Fonte:** [apri PDF p.1](https://www.obm.org.br/content/uploads/2026/10/prova_2026_nivel_3.pdf#page=1)
 
 
 <div class="qlang-split" data-lang="it"></div>
@@ -45,14 +47,15 @@ level: OBM Nível 3
 >
 > *Osservazione:* il centroide di un triangolo è l'intersezione delle bisettrici dei suoi angoli interni, il circocentro è l'intersezione delle mediatrici dei suoi lati, e l'ortocentro è l'intersezione delle sue altezze.
 
-**Topic:** [[topic_geometria_piana|Geometria piana]]
+
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometria]]
+**Metodo:** [[method_trigonometria|Tecniche trigonometriche]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]]
 
-[[Quesiti/src_obm_2026_n3_fx#q01|src_obm_2026_n3_fx__Q01]]
 
 
-
-<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_aritmetica,topic_combinatoria"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_aritmetica,topic_combinatoria,method_congruenze,method_cassetti,skill_riconoscimento_pattern,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -65,11 +68,13 @@ level: OBM Nível 3
 >
 > $$\binom ab=\begin{cases}0 & \text{if } a<b\\ \dfrac{a!}{b!\,(a-b)!} & \text{if } a\ge b\end{cases}.$$
 
-**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
-**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]], [[method_cassetti|Pigeonhole principle]]
+**Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Risposta:** nessuna soluzione ufficiale pubblicata (problema dimostrativo / a risposta aperta).
 **Fonte risposta:** OBM, «Provas e gabaritos» — per la prova 2026 è pubblicato solo il testo ([pagina OBM](<https://www.obm.org.br/como-se-preparar/provas-e-gabaritos>)).
-**Fonte:** apri PDF p.1
+**Fonte:** [apri PDF p.1](https://www.obm.org.br/content/uploads/2026/10/prova_2026_nivel_3.pdf#page=1)
 
 
 <div class="qlang-split" data-lang="it"></div>
@@ -83,14 +88,15 @@ level: OBM Nível 3
 >
 > $$\binom ab=\begin{cases}0 & \text{if } a<b\\ \dfrac{a!}{b!\,(a-b)!} & \text{if } a\ge b\end{cases}.$$
 
+
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]], [[method_cassetti|Principio dei cassetti]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 
-[[Quesiti/src_obm_2026_n3_fx#q02|src_obm_2026_n3_fx__Q02]]
 
 
-
-<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_combinatoria,topic_aritmetica"></span>
+<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_combinatoria,topic_aritmetica,method_simmetria,skill_manipolazione_algebrica,skill_riconoscimento_pattern"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -103,11 +109,13 @@ level: OBM Nível 3
 >
 > Define $f(a)$ as the number of distinct values among the 2026 sums above. What is the smallest possible value of $f(a)$ as $a$ ranges over all permutations of $(1,2,3,\dots,2026)$?
 
-**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_simmetria|Using symmetry]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Risposta:** nessuna soluzione ufficiale pubblicata (problema dimostrativo / a risposta aperta).
 **Fonte risposta:** OBM, «Provas e gabaritos» — per la prova 2026 è pubblicato solo il testo ([pagina OBM](<https://www.obm.org.br/como-se-preparar/provas-e-gabaritos>)).
-**Fonte:** apri PDF p.1
+**Fonte:** [apri PDF p.1](https://www.obm.org.br/content/uploads/2026/10/prova_2026_nivel_3.pdf#page=1)
 
 
 <div class="qlang-split" data-lang="it"></div>
@@ -121,14 +129,15 @@ level: OBM Nível 3
 >
 > Definisci $f(a)$ come il numero di valori distinti tra le 2026 somme sopra indicate. Qual è il valore minimo possibile di $f(a)$ quando $a$ varia su tutte le permutazioni di $(1,2,3,\dots,2026)$?
 
+
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_simmetria|Sfruttamento della simmetria]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 
-[[Quesiti/src_obm_2026_n3_fx#q03|src_obm_2026_n3_fx__Q03]]
 
 
-
-<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_aritmetica"></span>
+<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_aritmetica,topic_disuguaglianze,method_disuguaglianze,skill_stima,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -143,11 +152,13 @@ level: OBM Nível 3
 >
 > *Remark:* for a real number $x$, $\lfloor x\rfloor$ denotes the largest integer less than or equal to $x$. For example, $\lfloor\sqrt1\rfloor=\lfloor1\rfloor=1$, $\lfloor\sqrt2\rfloor=1$ and $\lfloor\sqrt{14}\rfloor=3$.
 
-**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Area:** [[Aritmetica e Teoria dei Numeri]]
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_disuguaglianze|Inequalities]]
+**Metodo:** [[method_disuguaglianze|Classical inequalities]]
+**Abilita:** [[skill_stima|Estimation and approximation]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Algebra e Analisi|Algebra and analysis]]
 **Risposta:** nessuna soluzione ufficiale pubblicata (problema dimostrativo / a risposta aperta).
 **Fonte risposta:** OBM, «Provas e gabaritos» — per la prova 2026 è pubblicato solo il testo ([pagina OBM](<https://www.obm.org.br/como-se-preparar/provas-e-gabaritos>)).
-**Fonte:** apri PDF p.2
+**Fonte:** [apri PDF p.2](https://www.obm.org.br/content/uploads/2026/10/prova_2026_nivel_3.pdf#page=2)
 
 
 <div class="qlang-split" data-lang="it"></div>
@@ -163,21 +174,22 @@ level: OBM Nível 3
 >
 > *Osservazione:* per un numero reale $x$, $\lfloor x\rfloor$ denota il più grande intero minore o uguale a $x$. Ad esempio, $\lfloor\sqrt1\rfloor=\lfloor1\rfloor=1$, $\lfloor\sqrt2\rfloor=1$ e $\lfloor\sqrt{14}\rfloor=3$.
 
-**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Area:** [[Aritmetica e Teoria dei Numeri]]
 
-[[Quesiti/src_obm_2026_n3_fx#q04|src_obm_2026_n3_fx__Q04]]
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_disuguaglianze|Disuguaglianze]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze classiche]]
+**Abilita:** [[skill_stima|Stima e approssimazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 
 
 
-<span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_combinatoria"></span>
+<span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_combinatoria,method_grafi,skill_modellizzazione,skill_conteggio_sistematico"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
 
 *100 × 100 board with 50 numbered diagonal cells; maximum number of extra cells filled with no adjacent distinct numbers.*
 
-![[src_obm_2026_n3_fx__q05.png]]
+![[src_obm_2026_n3_fx__Q05.png]]
 
 > On a $100\times100$ board, 50 cells are already numbered as shown in the figure.
 >
@@ -187,11 +199,13 @@ level: OBM Nível 3
 >
 > Apart from the 50 cells already filled, what is the largest number of cells Esmeralda can fill while satisfying this rule?
 
-**Topic:** [[topic_combinatoria|Combinatoria]]
-**Area:** [[Combinatoria, Logica e Probabilita]]
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_grafi|Graph theory]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]], [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Risposta:** nessuna soluzione ufficiale pubblicata (problema dimostrativo / a risposta aperta).
 **Fonte risposta:** OBM, «Provas e gabaritos» — per la prova 2026 è pubblicato solo il testo ([pagina OBM](<https://www.obm.org.br/como-se-preparar/provas-e-gabaritos>)).
-**Fonte:** apri PDF p.2
+**Fonte:** [apri PDF p.2](https://www.obm.org.br/content/uploads/2026/10/prova_2026_nivel_3.pdf#page=2)
 
 
 <div class="qlang-split" data-lang="it"></div>
@@ -199,7 +213,7 @@ level: OBM Nível 3
 
 *Tavola 100 × 100 con 50 celle diagonali numerate; numero massimo di celle aggiuntive riempite senza numeri distinti adiacenti.*
 
-![[src_obm_2026_n3_fx__q05.png]]
+![[src_obm_2026_n3_fx__Q05.png]]
 
 > Su una tavola $100\times100$, 50 celle sono già numerate come mostrato nella figura.
 >
@@ -209,14 +223,15 @@ level: OBM Nível 3
 >
 > A parte le 50 celle già riempite, qual è il numero massimo di celle che Esmeralda può riempire rispettando questa regola?
 
+
 **Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_grafi|Teoria dei grafi]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 
-[[Quesiti/src_obm_2026_n3_fx#q05|src_obm_2026_n3_fx__Q05]]
 
 
-
-<span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_geometria_piana"></span>
+<span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_geometria_piana,method_simmetria,skill_ragionamento_geometrico"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -225,11 +240,13 @@ level: OBM Nível 3
 
 > Let $ABC$ be an acute triangle. Let $M$ be the midpoint of side $BC$ and let $D$ and $E$ be points on sides $AB$ and $AC$, respectively, such that $MD=ME$. The line perpendicular to $AB$ through $D$ meets the line perpendicular to $AC$ through $E$ at $P$. Let $R$ and $S$ be the reflections of $P$ in $AB$ and $AC$, respectively. The lines $BR$ and $CS$ meet at $Q$. Let $K$ and $L$ be the orthogonal projections of $Q$ onto $AB$ and $AC$, respectively. Prove that $DL=EK$.
 
-**Topic:** [[topic_geometria_piana|Geometria piana]]
-**Area:** [[Geometria]]
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_simmetria|Using symmetry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
 **Risposta:** nessuna soluzione ufficiale pubblicata (problema dimostrativo / a risposta aperta).
 **Fonte risposta:** OBM, «Provas e gabaritos» — per la prova 2026 è pubblicato solo il testo ([pagina OBM](<https://www.obm.org.br/como-se-preparar/provas-e-gabaritos>)).
-**Fonte:** apri PDF p.2
+**Fonte:** [apri PDF p.2](https://www.obm.org.br/content/uploads/2026/10/prova_2026_nivel_3.pdf#page=2)
 
 
 <div class="qlang-split" data-lang="it"></div>
@@ -239,7 +256,8 @@ level: OBM Nível 3
 
 > Sia $ABC$ un triangolo acutangolo. Sia $M$ il punto medio del lato $BC$ e siano $D$ e $E$ dei punti rispettivamente sui lati $AB$ e $AC$, tali che $MD=ME$. La retta perpendicolare a $AB$ passante per $D$ incontra la retta perpendicolare a $AC$ passante per $E$ in $P$. Siano $R$ e $S$ le riflessioni di $P$ rispettivamente rispetto a $AB$ e a $AC$. Le rette $BR$ e $CS$ si incontrano in $Q$. Siano $K$ e $L$ le proiezioni ortogonali di $Q$ rispettivamente su $AB$ e su $AC$. Dimostrare che $DL=EK$.
 
-**Topic:** [[topic_geometria_piana|Geometria piana]]
-**Area:** [[Geometria]]
 
-[[Quesiti/src_obm_2026_n3_fx#q06|src_obm_2026_n3_fx__Q06]]
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_simmetria|Sfruttamento della simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Geometria]]

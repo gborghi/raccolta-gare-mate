@@ -39,8 +39,6 @@ level: JMO Yosen
 **Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 
-[[Quesiti/src_jmo11yq_yosen#q01|src_jmo11yq_yosen__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_geometria_piana,method_coordinate,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
@@ -52,7 +50,7 @@ level: JMO Yosen
 
 > Inside a rectangle of height $8$ and width $7$, five congruent squares are packed as shown in the figure below. Find the length of a side of one of the squares.
 
-![[src_jmo11yq_yosen__q02.png]]
+![[src_jmo11yq_yosen__Q02.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_coordinate|Coordinate]]
@@ -68,18 +66,16 @@ level: JMO Yosen
 
 > All'interno di un rettangolo di altezza $8$ e larghezza $7$, cinque quadrati congruenti sono disposti a pacchetto come mostrato nella figura sottostante. Determinare la lunghezza del lato di uno dei quadrati.
 
-![[src_jmo11yq_yosen__q02.png]]
+![[src_jmo11yq_yosen__Q02.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_coordinate|Coordinate]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 
-[[Quesiti/src_jmo11yq_yosen#q02|src_jmo11yq_yosen__Q02]]
 
 
-
-<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_combinatoria,method_conteggio,method_casi_conteggio,skill_conteggio_sistematico,skill_lettura_attenta"></span>
+<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_combinatoria,method_conteggio,method_casi_conteggio,method_bigezione,skill_conteggio_sistematico,skill_lettura_attenta"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -89,9 +85,9 @@ level: JMO Yosen
 > From the $2001$ natural numbers $1, 2, 3, \ldots, 2001$, several numbers are chosen all at once. How many ways are there to choose them so that the total sum of the chosen numbers is odd? By convention, when no number is chosen the sum is $0$; also, choosing all $2001$ numbers is allowed.
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
-**Metodo:** [[method_conteggio|Conteggio]], [[method_casi_conteggio|Casi e conteggio]]
+**Metodo:** [[method_conteggio|Conteggio]], [[method_casi_conteggio|Casi e conteggio]], [[method_bigezione|Bijection / correspondence]]
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]]
-**Area:** [[Combinatoria, Logica e Probabilita]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Risposta:** $2^{2000}$
 **Fonte:** [apri PDF](https://drive.google.com/file/d/10oDteekq2lkXCLXICK2UAu58uB9ulgYC/view)
 
@@ -103,16 +99,15 @@ level: JMO Yosen
 
 > Dai $2001$ numeri naturali $1, 2, 3, \ldots, 2001$, si scelgono più numeri tutti insieme. In quanti modi si possono scegliere affinché la somma totale dei numeri scelti sia dispari? Per convenzione, quando non si sceglie alcun numero la somma è $0$; inoltre, è consentito scegliere tutti i $2001$ numeri.
 
+
 **Topic:** [[topic_combinatoria|Combinatoria]]
-**Metodo:** [[method_conteggio|Conteggio]], [[method_casi_conteggio|Casi e conteggio]]
+**Metodo:** [[method_conteggio|Conteggio]], [[method_casi_conteggio|Casi e conteggio]], [[method_bigezione|Bigezione / corrispondenza]]
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 
-[[Quesiti/src_jmo11yq_yosen#q03|src_jmo11yq_yosen__Q03]]
 
 
-
-<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_geometria_piana,topic_trigonometria,method_trigonometria,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
+<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_geometria_piana,topic_trigonometria,method_trigonometria,method_simmetria,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -122,9 +117,9 @@ level: JMO Yosen
 > There is an equilateral triangle $ABC$ with side length $a$. Points $D, E, F$ lie on sides $BC, CA, AB$ respectively, and triangle $DEF$ is an equilateral triangle with side length $b$ (where $b < a$). Find the radius of the inscribed circle of triangle $AFE$.
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometria]]
-**Metodo:** [[method_trigonometria|Trigonometria]]
+**Metodo:** [[method_trigonometria|Trigonometria]], [[method_simmetria|Using symmetry]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
-**Area:** [[Geometria]]
+**Area:** [[Geometria|Geometry]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/10oDteekq2lkXCLXICK2UAu58uB9ulgYC/view)
 
 
@@ -135,16 +130,15 @@ level: JMO Yosen
 
 > Esiste un triangolo equilatero $ABC$ con lato di lunghezza $a$. I punti $D, E, F$ giacciono rispettivamente sui lati $BC, CA, AB$, e il triangolo $DEF$ è un triangolo equilatero con lato di lunghezza $b$ (dove $b < a$). Determinare il raggio della circonferenza inscritta nel triangolo $AFE$.
 
+
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometria]]
-**Metodo:** [[method_trigonometria|Trigonometria]]
+**Metodo:** [[method_trigonometria|Trigonometria]], [[method_simmetria|Sfruttamento della simmetria]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 
-[[Quesiti/src_jmo11yq_yosen#q04|src_jmo11yq_yosen__Q04]]
 
 
-
-<span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_aritmetica,method_congruenze,skill_manipolazione_algebrica,skill_riconoscimento_pattern"></span>
+<span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_aritmetica,method_congruenze,method_casework,skill_manipolazione_algebrica,skill_riconoscimento_pattern,skill_conteggio_sistematico"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -154,9 +148,9 @@ level: JMO Yosen
 > Find the remainder when $1^{2001} + 2^{2001} + 3^{2001} + \cdots + 2000^{2001} + 2001^{2001}$ is divided by $13$.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_congruenze|Congruenze]]
-**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
-**Area:** [[Aritmetica e Teoria dei Numeri]]
+**Metodo:** [[method_congruenze|Congruenze]], [[method_casework|Case analysis]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Risposta:** 0
 **Fonte:** [apri PDF](https://drive.google.com/file/d/10oDteekq2lkXCLXICK2UAu58uB9ulgYC/view)
 
@@ -168,18 +162,16 @@ level: JMO Yosen
 
 > Trovare il resto della divisione di $1^{2001} + 2^{2001} + 3^{2001} + \cdots + 2000^{2001} + 2001^{2001}$ per $13$.
 
-**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei numeri]]
-**Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]]
-**Abilità:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di schemi]]
-**Area:** [[Aritmetica e Teoria dei Numeri|Aritmetica e teoria dei numeri]]
 
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei numeri]]
+**Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]], [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di schemi]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Aritmetica e teoria dei numeri]]
 **Risposta:** 0
 
-[[Quesiti/src_jmo11yq_yosen#q05|src_jmo11yq_yosen__Q05]]
 
 
-
-<span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_geometria_analitica,method_coordinate,method_estremalita,skill_manipolazione_algebrica,skill_ragionamento_geometrico"></span>
+<span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_geometria_analitica,topic_geometria_piana,method_coordinate,method_estremalita,skill_manipolazione_algebrica,skill_ragionamento_geometrico,skill_modellizzazione"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -188,10 +180,10 @@ level: JMO Yosen
 
 > On the coordinate plane there are the origin $O(0,0)$ and the point $A(1,0)$. The point $P$ moves along the half-line $x = 0,\ y \ge 1$, and the point $Q$ moves along the half-line $x = 1,\ y \ge 1$, in such a way that the area of the quadrilateral $OAQP$ is always $2$. Find the maximum possible value of the distance from the point $B\left(\frac{1}{4}, 0\right)$ to the line $PQ$. Here, the distance from $B$ to the line $PQ$ means the length of the perpendicular dropped from $B$ to the line $PQ$.
 
-**Topic:** [[topic_geometria_analitica|Geometria analitica]]
+**Topic:** [[topic_geometria_analitica|Geometria analitica]], [[topic_geometria_piana|Plane geometry]]
 **Metodo:** [[method_coordinate|Coordinate]], [[method_estremalita|Estremalità]]
-**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
-**Area:** [[Geometria]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Geometria|Geometry]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/10oDteekq2lkXCLXICK2UAu58uB9ulgYC/view)
 
 
@@ -202,12 +194,11 @@ level: JMO Yosen
 
 > Nel piano cartesiano si trovano l'origine $O(0,0)$ e il punto $A(1,0)$. Il punto $P$ si muove lungo il semiretta $x = 0,\ y \ge 1$, e il punto $Q$ si muove lungo il semiretta $x = 1,\ y \ge 1$, in modo che l'area del quadrilatero $OAQP$ sia sempre $2$. Determinare il valore massimo possibile della distanza tra il punto $B\left(\frac{1}{4}, 0\right)$ e la retta $PQ$. Qui, la distanza tra $B$ e la retta $PQ$ indica la lunghezza della perpendicolare abbassata da $B$ sulla retta $PQ$.
 
-**Topic:** [[topic_geometria_analitica|Geometria analitica]]
-**Metodo:** [[method_coordinate|Coordinate]], [[method_estremalita|Estremalità]]
-**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
-**Area:** [[Geometria]]
 
-[[Quesiti/src_jmo11yq_yosen#q06|src_jmo11yq_yosen__Q06]]
+**Topic:** [[topic_geometria_analitica|Geometria analitica]], [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_coordinate|Coordinate]], [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
+**Area:** [[Geometria]]
 
 
 
@@ -224,7 +215,7 @@ level: JMO Yosen
 > (iii) When the whole grid is divided into four parts by the bold lines as shown in the figure below (the four $2 \times 2$ blocks), each part contains $1, 2, 3, 4$ each exactly once.
 > How many such ways of writing in the digits are there?
 
-![[src_jmo11yq_yosen__q07.png]]
+![[src_jmo11yq_yosen__Q07.png]]
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]]
@@ -241,14 +232,12 @@ level: JMO Yosen
 
 > Crea una griglia di celle $4 \times 4$ e inserisci al suo interno le cifre da $1$ a $4$, quattro volte ciascuna (una cifra per cella), rispettando le seguenti tre condizioni: (i) in ogni riga, ciascuna $1, 2, 3, 4$ compare esattamente una volta; (ii) in ogni colonna, ciascuna $1, 2, 3, 4$ compare esattamente una volta; (iii) quando l'intera griglia viene suddivisa in quattro parti dalle linee in grassetto come mostrato nella figura sottostante (i quattro blocchi $2 \times 2$), ciascuna parte contiene ciascuna $1, 2, 3, 4$ esattamente una volta. Quante sono le modalità possibili per inserire le cifre in questo modo?
 
-![[src_jmo11yq_yosen__q07.png]]
+![[src_jmo11yq_yosen__Q07.png]]
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]]
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
-
-[[Quesiti/src_jmo11yq_yosen#q07|src_jmo11yq_yosen__Q07]]
 
 
 
@@ -284,8 +273,6 @@ level: JMO Yosen
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Algebra e Analisi]]
 
-[[Quesiti/src_jmo11yq_yosen#q08|src_jmo11yq_yosen__Q08]]
-
 
 
 <span class="atom-split" id="q09" data-atom="q09" data-title="Quesito 9" data-tags="topic_geometria_piana,topic_trigonometria,method_trigonometria,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
@@ -316,11 +303,9 @@ level: JMO Yosen
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 
-[[Quesiti/src_jmo11yq_yosen#q09|src_jmo11yq_yosen__Q09]]
 
 
-
-<span class="atom-split" id="q10" data-atom="q10" data-title="Quesito 10" data-tags="topic_geometria_solida,topic_combinatoria,method_conteggio,method_induzione,skill_conteggio_sistematico,skill_astrazione"></span>
+<span class="atom-split" id="q10" data-atom="q10" data-title="Quesito 10" data-tags="topic_geometria_solida,topic_combinatoria,method_conteggio,method_induzione,method_ricorsione,skill_conteggio_sistematico,skill_astrazione"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -330,9 +315,9 @@ level: JMO Yosen
 > In space there are $10$ distinct planes. Every $2$ of the planes share exactly one line, every $3$ of the planes share exactly one point, and no $4$ of the planes have a common point. Into how many parts do these $10$ planes divide space?
 
 **Topic:** [[topic_geometria_solida|Geometria solida]], [[topic_combinatoria|Combinatoria]]
-**Metodo:** [[method_conteggio|Conteggio]], [[method_induzione|Induzione]]
+**Metodo:** [[method_conteggio|Conteggio]], [[method_induzione|Induzione]], [[method_ricorsione|Recursion]]
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_astrazione|Astrazione]]
-**Area:** [[Geometria]], [[Combinatoria, Logica e Probabilita]]
+**Area:** [[Geometria|Geometry]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Risposta:** 176
 **Fonte:** [apri PDF](https://drive.google.com/file/d/10oDteekq2lkXCLXICK2UAu58uB9ulgYC/view)
 
@@ -344,16 +329,15 @@ level: JMO Yosen
 
 > Nello spazio ci sono $10$ piani distinti. Ogni $2$ insieme di piani condivide esattamente una retta, ogni $3$ insieme di piani condivide esattamente un punto, e nessun $4$ insieme di piani ha un punto in comune. In quante parti questi $10$ piani dividono lo spazio?
 
+
 **Topic:** [[topic_geometria_solida|Geometria solida]], [[topic_combinatoria|Combinatoria]]
-**Metodo:** [[method_conteggio|Conteggio]], [[method_induzione|Induzione]]
+**Metodo:** [[method_conteggio|Conteggio]], [[method_induzione|Induzione]], [[method_ricorsione|Ricorsione]]
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_astrazione|Astrazione]]
 **Area:** [[Geometria]], [[Combinatoria, Logica e Probabilita]]
 
-[[Quesiti/src_jmo11yq_yosen#q10|src_jmo11yq_yosen__Q10]]
 
 
-
-<span class="atom-split" id="q11" data-atom="q11" data-title="Quesito 11" data-tags="topic_aritmetica,method_fattorizzazione,method_conteggio,skill_conteggio_sistematico,skill_manipolazione_algebrica"></span>
+<span class="atom-split" id="q11" data-atom="q11" data-title="Quesito 11" data-tags="topic_aritmetica,method_fattorizzazione,method_conteggio,method_casework,skill_conteggio_sistematico,skill_manipolazione_algebrica,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -363,9 +347,9 @@ level: JMO Yosen
 > For a positive integer $n$, let $S(n)$ denote the sum of the positive divisors of $n$. How many three-digit positive integers $n$ satisfy $S(6n) \ge 12\,S(n)$?
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_conteggio|Conteggio]]
-**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
-**Area:** [[Aritmetica e Teoria dei Numeri]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_conteggio|Conteggio]], [[method_casework|Case analysis]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/10oDteekq2lkXCLXICK2UAu58uB9ulgYC/view)
 
 
@@ -376,16 +360,15 @@ level: JMO Yosen
 
 > Per un numero intero positivo $n$, si indichi con $S(n)$ la somma dei divisori positivi di $n$. Quanti numeri interi positivi di tre cifre $n$ soddisfano $S(6n) \ge 12\,S(n)$?
 
+
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_conteggio|Conteggio]]
-**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_conteggio|Conteggio]], [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 
-[[Quesiti/src_jmo11yq_yosen#q11|src_jmo11yq_yosen__Q11]]
 
 
-
-<span class="atom-split" id="q12" data-atom="q12" data-title="Quesito 12" data-tags="topic_combinatoria,topic_disuguaglianze,method_estremalita,method_casework,skill_modellizzazione,skill_stima"></span>
+<span class="atom-split" id="q12" data-atom="q12" data-title="Quesito 12" data-tags="topic_combinatoria,topic_disuguaglianze,method_estremalita,method_casework,method_doppio_conteggio,skill_modellizzazione,skill_stima,skill_conteggio_sistematico"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -398,9 +381,9 @@ level: JMO Yosen
 > Find the minimum value of the real number $S$ for which such a way of writing the numbers exists.
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_disuguaglianze|Disuguaglianze]]
-**Metodo:** [[method_estremalita|Estremalità]], [[method_casework|Casework]]
-**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_stima|Stima]]
-**Area:** [[Combinatoria, Logica e Probabilita]], [[Algebra e Analisi]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_casework|Casework]], [[method_doppio_conteggio|Double counting]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_stima|Stima]], [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Algebra e Analisi|Algebra and analysis]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/10oDteekq2lkXCLXICK2UAu58uB9ulgYC/view)
 
 
@@ -411,9 +394,8 @@ level: JMO Yosen
 
 > C'è una griglia di $5 \times 9$ celle. In ciascuna cella scriviamo un numero reale non negativo (un numero reale $\ge 0$), in modo che siano soddisfatte le seguenti condizioni: (i) La somma totale dei $45$ numeri reali scritti è $1$. (ii) Tuttavia, qualunque $2 \times 3$ cornice rettangolare venga posta sulla griglia (orientata verticalmente o orizzontalmente, in qualsiasi posizione allineata), la somma dei $6$ numeri al suo interno è al più $S$. Determinare il valore minimo del numero reale $S$ per cui esiste un tale modo di scrivere i numeri.
 
-**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_disuguaglianze|Disuguaglianze]]
-**Metodo:** [[method_estremalita|Estremalità]], [[method_casework|Casework]]
-**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_stima|Stima]]
-**Area:** [[Combinatoria, Logica e Probabilita]], [[Algebra e Analisi]]
 
-[[Quesiti/src_jmo11yq_yosen#q12|src_jmo11yq_yosen__Q12]]
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_disuguaglianze|Disuguaglianze]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_casework|Casework]], [[method_doppio_conteggio|Doppio conteggio]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_stima|Stima]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Algebra e Analisi]]

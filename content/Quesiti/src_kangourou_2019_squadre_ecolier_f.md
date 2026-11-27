@@ -10,7 +10,7 @@ level: squadre
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_aritmetica,skill_lettura_attenta"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_aritmetica,method_fattorizzazione,skill_lettura_attenta"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -21,10 +21,11 @@ level: squadre
 > Quanti numeri interi positivi sono tali che il prodotto delle loro cifre è 33?
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
 **Abilita:** [[skill_lettura_attenta|Lettura attenta del testo]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 0000
-**Fonte:** apri PDF p.1
+**Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1YKzDfwz4BmbYDBoqIGu4YMhV7CcwxuGr/view)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -34,15 +35,15 @@ level: squadre
 
 > Thirty-three: How many positive integers are there such that the product of their digits is 33?
 
+
 **Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
 **Abilita:** [[skill_lettura_attenta|Careful reading]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
-[[Quesiti/src_kangourou_2019_squadre_ecolier_f#q01|src_kangourou_2019_squadre_ecolier_f__Q01]]
 
 
-
-<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_combinatoria,method_conteggio,method_simmetria,skill_casework_accurato"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_combinatoria,topic_geometria_solida,method_conteggio,method_simmetria,method_casi_conteggio,skill_casework_accurato,skill_ragionamento_geometrico"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -54,12 +55,12 @@ level: squadre
 > e almeno una faccia deve rimanere bianca. Quante diverse colorazioni sono possibili, intendendo
 > uguali due colorazioni se si possono ottenere una dall’altra ruotando il cubo?
 
-**Topic:** [[topic_combinatoria|Combinatoria]]
-**Metodo:** [[method_conteggio|Conteggio combinatorio]], [[method_simmetria|Sfruttamento della simmetria]]
-**Abilita:** [[skill_casework_accurato|Casework accurato]]
-**Area:** [[Combinatoria, Logica e Probabilita]]
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_geometria_solida|Geometria solida]]
+**Metodo:** [[method_conteggio|Conteggio combinatorio]], [[method_simmetria|Sfruttamento della simmetria]], [[method_casi_conteggio|Conteggio per casi]]
+**Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 **Risposta:** 0008
-**Fonte:** apri PDF p.1
+**Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1YKzDfwz4BmbYDBoqIGu4YMhV7CcwxuGr/view)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -69,16 +70,15 @@ level: squadre
 
 > The Painted Cube Some faces of a white cube are to be painted black. At least one face must end up black, and at least one face must remain white. How many different colorings are possible, where two colorings are considered the same if one can be obtained from the other by rotating the cube?
 
-**Topic:** [[topic_combinatoria|Combinatorics]]
-**Metodo:** [[method_conteggio|Combinatorial counting]], [[method_simmetria|Using symmetry]]
-**Abilita:** [[skill_casework_accurato|Careful case analysis]]
-**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
-[[Quesiti/src_kangourou_2019_squadre_ecolier_f#q02|src_kangourou_2019_squadre_ecolier_f__Q02]]
-
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_geometria_solida|Solid geometry]]
+**Metodo:** [[method_conteggio|Combinatorial counting]], [[method_simmetria|Using symmetry]], [[method_casi_conteggio|Counting by cases]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]], [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Geometria|Geometry]]
 
 
-<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_aritmetica,topic_funzionali,skill_riconoscimento_pattern"></span>
+
+<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_aritmetica,topic_funzionali,method_congruenze,skill_riconoscimento_pattern,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -91,10 +91,11 @@ level: squadre
 > Misurando la strada in salti, quanti salti è lontano il canguro dal punto di partenza dopo 2019 salti?
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_funzionali|Equazioni funzionali / successioni]]
-**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
-**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
+**Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 **Risposta:** 1011
-**Fonte:** apri PDF p.1
+**Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1YKzDfwz4BmbYDBoqIGu4YMhV7CcwxuGr/view)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -104,15 +105,15 @@ level: squadre
 
 > The Kangaroo's Jumps A kangaroo always makes jumps of the same length; it moves along a straight road, and after making three jumps forward, it makes one jump backward, then again three forward and one backward, and so on. If the distance is measured in jumps, how many jumps away from the starting point is the kangaroo after 2019 jumps?
 
+
 **Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_funzionali|Functional equations / sequences]]
-**Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]]
-**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
-
-[[Quesiti/src_kangourou_2019_squadre_ecolier_f#q03|src_kangourou_2019_squadre_ecolier_f__Q03]]
-
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]]
+**Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Algebra e Analisi|Algebra and analysis]]
 
 
-<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_combinatoria,topic_probabilita,method_conteggio,skill_conteggio_sistematico"></span>
+
+<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_combinatoria,topic_probabilita,method_conteggio,method_casi_conteggio,skill_conteggio_sistematico,skill_lettura_attenta"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -125,11 +126,11 @@ level: squadre
 > l’esito di sei lanci consecutivi risultano vincenti?
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_probabilita|Probabilita e statistica]]
-**Metodo:** [[method_conteggio|Conteggio combinatorio]]
-**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Metodo:** [[method_conteggio|Conteggio combinatorio]], [[method_casi_conteggio|Conteggio per casi]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta del testo]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0012
-**Fonte:** apri PDF p.1
+**Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1YKzDfwz4BmbYDBoqIGu4YMhV7CcwxuGr/view)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -139,16 +140,15 @@ level: squadre
 
 > Heads or Tails: Caterina plays heads or tails with a coin. She tosses it six times in a row and considers a win the case in which "heads" comes up consecutively exactly 3 times. How many different sequences that result from six consecutive tosses count as wins?
 
+
 **Topic:** [[topic_combinatoria|Combinatorics]], [[topic_probabilita|Probability and statistics]]
-**Metodo:** [[method_conteggio|Combinatorial counting]]
-**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Metodo:** [[method_conteggio|Combinatorial counting]], [[method_casi_conteggio|Counting by cases]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]], [[skill_lettura_attenta|Careful reading of the text]]
 **Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
-[[Quesiti/src_kangourou_2019_squadre_ecolier_f#q04|src_kangourou_2019_squadre_ecolier_f__Q04]]
 
 
-
-<span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_aritmetica,skill_riconoscimento_pattern"></span>
+<span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_aritmetica,method_backward,method_congruenze,skill_riconoscimento_pattern,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -167,10 +167,11 @@ level: squadre
 > Che numero deve avere pensato per comporre il braccialetto che vedete qui sotto?
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Metodo:** [[method_backward|Ragionamento all'indietro]], [[method_congruenze|Aritmetica modulare / congruenze]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 0150
-**Fonte:** apri PDF p.1
+**Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1YKzDfwz4BmbYDBoqIGu4YMhV7CcwxuGr/view)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -180,11 +181,11 @@ level: squadre
 
 > Alice's bracelets: Alice makes bracelets out of white and black beads, which begin and end with clasps, following this rule: think of a number, divide it by two, and if there is no remainder, thread a black bead; if there is a remainder, thread a white bead. Then repeat the operation on the quotient obtained from the previous division, and continue like this until the quotient is 1: at that point, thread a white bead (and add the closing clasp). For example, below, on the left you see the result if she thinks of 5, and on the right the result if she thinks of 6: (the non-circular shape on the left represents the clasp she put on before starting the work; the one on the right represents the clasp she put on at the end). What number must she have thought of to make the bracelet you see below?
 
-**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
-**Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]]
-**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
-[[Quesiti/src_kangourou_2019_squadre_ecolier_f#q05|src_kangourou_2019_squadre_ecolier_f__Q05]]
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_backward|Working backwards]], [[method_congruenze|Modular arithmetic / congruences]]
+**Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
 
 
@@ -205,7 +206,7 @@ level: squadre
 **Abilita:** [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 0164
-**Fonte:** apri PDF p.1
+**Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1YKzDfwz4BmbYDBoqIGu4YMhV7CcwxuGr/view)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -220,11 +221,9 @@ level: squadre
 **Abilita:** [[skill_casework_accurato|Careful case analysis]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
-[[Quesiti/src_kangourou_2019_squadre_ecolier_f#q06|src_kangourou_2019_squadre_ecolier_f__Q06]]
 
 
-
-<span class="atom-split" id="q07" data-atom="q07" data-title="Quesito 7" data-tags="topic_aritmetica,topic_combinatoria,method_conteggio,skill_conteggio_sistematico"></span>
+<span class="atom-split" id="q07" data-atom="q07" data-title="Quesito 7" data-tags="topic_aritmetica,topic_combinatoria,method_conteggio,method_casi_conteggio,skill_conteggio_sistematico,skill_lettura_attenta"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -236,11 +235,11 @@ level: squadre
 > le cui ultime sei cifre sono tutte uguali tra loro?
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
-**Metodo:** [[method_conteggio|Conteggio combinatorio]]
-**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Metodo:** [[method_conteggio|Conteggio combinatorio]], [[method_casi_conteggio|Conteggio per casi]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta del testo]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 1235
-**Fonte:** apri PDF p.2
+**Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1YKzDfwz4BmbYDBoqIGu4YMhV7CcwxuGr/view)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -250,16 +249,15 @@ level: squadre
 
 > Even numbers: How many even integers are greater than 987,654,321, less than 1,234,567,890, and have all six of their final digits equal to one another?
 
+
 **Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_combinatoria|Combinatorics]]
-**Metodo:** [[method_conteggio|Combinatorial counting]]
-**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Metodo:** [[method_conteggio|Combinatorial counting]], [[method_casi_conteggio|Counting by cases]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]], [[skill_lettura_attenta|Careful reading of the text]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
-[[Quesiti/src_kangourou_2019_squadre_ecolier_f#q07|src_kangourou_2019_squadre_ecolier_f__Q07]]
 
 
-
-<span class="atom-split" id="q08" data-atom="q08" data-title="Quesito 8" data-tags="topic_algebra,skill_modellizzazione"></span>
+<span class="atom-split" id="q08" data-atom="q08" data-title="Quesito 8" data-tags="topic_algebra,topic_aritmetica,skill_modellizzazione,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -270,11 +268,11 @@ level: squadre
 > Una scatola contiene figurine triangolari e figurine quadrate, per un totale di 653 figurine. Contando
 > i lati di tutte le figurine si ottiene 2019. Quante sono le figurine quadrate?
 
-**Topic:** [[topic_algebra|Algebra]]
-**Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
-**Area:** [[Algebra e Analisi]]
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 0060
-**Fonte:** apri PDF p.2
+**Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1YKzDfwz4BmbYDBoqIGu4YMhV7CcwxuGr/view)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -284,15 +282,14 @@ level: squadre
 
 > Stickers: A box contains triangular stickers and square stickers, for a total of 653 stickers. If you count the sides of all the stickers, you get 2019. How many square stickers are there?
 
-**Topic:** [[topic_algebra|Algebra]]
-**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
-**Area:** [[Algebra e Analisi|Algebra and analysis]]
 
-[[Quesiti/src_kangourou_2019_squadre_ecolier_f#q08|src_kangourou_2019_squadre_ecolier_f__Q08]]
-
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
 
-<span class="atom-split" id="q09" data-atom="q09" data-title="Quesito 9" data-tags="topic_geometria_piana,skill_ragionamento_geometrico"></span>
+
+<span class="atom-split" id="q09" data-atom="q09" data-title="Quesito 9" data-tags="topic_geometria_piana,topic_algebra,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -305,11 +302,11 @@ level: squadre
 > sono perpendicolari tra loro. Se il poligono ha area 200 cm², quanti centimetri è
 > lungo il suo perimetro?
 
-**Topic:** [[topic_geometria_piana|Geometria piana]]
-**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
-**Area:** [[Geometria]]
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_algebra|Algebra]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]], [[Algebra e Analisi]]
 **Risposta:** 0080
-**Fonte:** apri PDF p.2
+**Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1YKzDfwz4BmbYDBoqIGu4YMhV7CcwxuGr/view)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -319,15 +316,14 @@ level: squadre
 
 > The polygon In the polygon shown in the figure, the eight short sides are all of the same length, and the four long sides are all of the same length—twice that of the short sides. Moreover, consecutive sides are perpendicular to each other. If the polygon has an area of 200 cm², how many centimeters long is its perimeter?
 
-**Topic:** [[topic_geometria_piana|Plane geometry]]
-**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
-**Area:** [[Geometria|Geometry]]
 
-[[Quesiti/src_kangourou_2019_squadre_ecolier_f#q09|src_kangourou_2019_squadre_ecolier_f__Q09]]
-
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_algebra|Algebra]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Geometria|Geometry]], [[Algebra e Analisi|Algebra and analysis]]
 
 
-<span class="atom-split" id="q10" data-atom="q10" data-title="Quesito 10" data-tags="topic_combinatoria,topic_aritmetica,method_conteggio,skill_casework_accurato"></span>
+
+<span class="atom-split" id="q10" data-atom="q10" data-title="Quesito 10" data-tags="topic_combinatoria,topic_aritmetica,method_conteggio,method_casework,skill_casework_accurato,skill_lettura_attenta"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -340,11 +336,11 @@ level: squadre
 > ad esempio il 1330 fu un anno meraviglioso. Quanti anni meravigliosi ci sono nel 21-esimo secolo?
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_conteggio|Conteggio combinatorio]]
-**Abilita:** [[skill_casework_accurato|Casework accurato]]
-**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+**Metodo:** [[method_conteggio|Conteggio combinatorio]], [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_lettura_attenta|Lettura attenta del testo]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 0006
-**Fonte:** apri PDF p.2
+**Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1YKzDfwz4BmbYDBoqIGu4YMhV7CcwxuGr/view)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -354,12 +350,11 @@ level: squadre
 
 > Wonderful Years Let's say a year is wonderful if its digits can be used to form two consecutive two-digit significant numbers (that is, numbers that cannot be written with a single digit): for example, 1330 was a wonderful year. How many wonderful years are there in the 21st century?
 
-**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_aritmetica|Arithmetic / Number theory]]
-**Metodo:** [[method_conteggio|Combinatorial counting]]
-**Abilita:** [[skill_casework_accurato|Careful case analysis]]
-**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
-[[Quesiti/src_kangourou_2019_squadre_ecolier_f#q10|src_kangourou_2019_squadre_ecolier_f__Q10]]
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_conteggio|Combinatorial counting]], [[method_casework|Case analysis]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]], [[skill_lettura_attenta|Careful reading of the text]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
 
 
@@ -379,7 +374,7 @@ level: squadre
 **Abilita:** [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 9864
-**Fonte:** apri PDF p.2
+**Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1YKzDfwz4BmbYDBoqIGu4YMhV7CcwxuGr/view)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -394,11 +389,9 @@ level: squadre
 **Abilita:** [[skill_casework_accurato|Careful case analysis]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
-[[Quesiti/src_kangourou_2019_squadre_ecolier_f#q11|src_kangourou_2019_squadre_ecolier_f__Q11]]
 
 
-
-<span class="atom-split" id="q12" data-atom="q12" data-title="Quesito 12" data-tags="topic_combinatoria,topic_aritmetica,method_simmetria,skill_conteggio_sistematico"></span>
+<span class="atom-split" id="q12" data-atom="q12" data-title="Quesito 12" data-tags="topic_combinatoria,topic_aritmetica,method_simmetria,method_doppio_conteggio,skill_conteggio_sistematico,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -411,11 +404,11 @@ level: squadre
 > somma dei numeri scritti nei punti medi?
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_simmetria|Sfruttamento della simmetria]]
-**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
-**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+**Metodo:** [[method_simmetria|Sfruttamento della simmetria]], [[method_doppio_conteggio|Doppio conteggio]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 0009
-**Fonte:** apri PDF p.2
+**Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1YKzDfwz4BmbYDBoqIGu4YMhV7CcwxuGr/view)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -425,16 +418,15 @@ level: squadre
 
 > Numbers on a Triangle Place a different number from among 1, 2, 3, 4, 5, 6 at each vertex and at each midpoint of the sides of an equilateral triangle so that the sum of the numbers written on each side is 11. What is the sum of the numbers written at the midpoints?
 
+
 **Topic:** [[topic_combinatoria|Combinatorics]], [[topic_aritmetica|Arithmetic / Number theory]]
-**Metodo:** [[method_simmetria|Using symmetry]]
-**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
-**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
-
-[[Quesiti/src_kangourou_2019_squadre_ecolier_f#q12|src_kangourou_2019_squadre_ecolier_f__Q12]]
+**Metodo:** [[method_simmetria|Using symmetry]], [[method_doppio_conteggio|Double counting]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
 
 
-<span class="atom-split" id="q13" data-atom="q13" data-title="Quesito 13" data-tags="topic_aritmetica,topic_logica,skill_modellizzazione"></span>
+<span class="atom-split" id="q13" data-atom="q13" data-title="Quesito 13" data-tags="topic_aritmetica,topic_logica,method_congruenze,skill_modellizzazione"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -449,10 +441,11 @@ level: squadre
 > Quanti di questi ruggiti non sono state risposte ad altri ruggiti?
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_logica|Logica, giochi, strategie]]
+**Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]]
 **Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0058
-**Fonte:** apri PDF p.2
+**Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1YKzDfwz4BmbYDBoqIGu4YMhV7CcwxuGr/view)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -462,11 +455,11 @@ level: squadre
 
 > Three Lions Three lions (father, mother, and cub) live in a cave. They roar according to this rule: for every three roars (even if not consecutive) from the father, the mother responds with two roars; for every five roars (even if not consecutive) from the mother, the cub responds with three roars, but sometimes the mother and the cub also roar without responding. Today, each lion has roared exactly 32 times. How many of these roars were not responses to other roars?
 
+
 **Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_logica|Logic, games and strategies]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]]
 **Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
-
-[[Quesiti/src_kangourou_2019_squadre_ecolier_f#q13|src_kangourou_2019_squadre_ecolier_f__Q13]]
 
 
 
@@ -489,7 +482,7 @@ level: squadre
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Geometria]]
 **Risposta:** 0098
-**Fonte:** apri PDF p.2
+**Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1YKzDfwz4BmbYDBoqIGu4YMhV7CcwxuGr/view)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -504,11 +497,9 @@ level: squadre
 **Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Geometria|Geometry]]
 
-[[Quesiti/src_kangourou_2019_squadre_ecolier_f#q14|src_kangourou_2019_squadre_ecolier_f__Q14]]
 
 
-
-<span class="atom-split" id="q15" data-atom="q15" data-title="Quesito 15" data-tags="topic_algebra,skill_modellizzazione"></span>
+<span class="atom-split" id="q15" data-atom="q15" data-title="Quesito 15" data-tags="topic_algebra,method_fattorizzazione,skill_modellizzazione,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -522,10 +513,11 @@ level: squadre
 > vengono aperti simultaneamente, in quante ore si riempie il serbatoio?
 
 **Topic:** [[topic_algebra|Algebra]]
-**Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Algebra e Analisi]]
 **Risposta:** 0006
-**Fonte:** apri PDF p.2
+**Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1YKzDfwz4BmbYDBoqIGu4YMhV7CcwxuGr/view)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -535,8 +527,8 @@ level: squadre
 
 > The Tank A tank can be filled by 10 taps. One of them can fill it in one day; two of the remaining taps can each fill it in two days; three of the remaining taps can each fill it in three days; and the last four can each fill it in four days. If all the taps are opened simultaneously, how many hours will it take to fill the tank?
 
-**Topic:** [[topic_algebra|Algebra]]
-**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
-**Area:** [[Algebra e Analisi|Algebra and analysis]]
 
-[[Quesiti/src_kangourou_2019_squadre_ecolier_f#q15|src_kangourou_2019_squadre_ecolier_f__Q15]]
+**Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]

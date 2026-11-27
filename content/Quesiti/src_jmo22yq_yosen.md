@@ -21,7 +21,7 @@ level: JMO Yosen
 > 
 > (Here, $XY$ denotes the length of segment $XY$.)
 
-![[src_jmo22yq_yosen__q01.png]]
+![[src_jmo22yq_yosen__Q01.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_algebra|Algebra]]
 **Metodo:** [[method_coordinate|Coordinate]]
@@ -40,13 +40,13 @@ level: JMO Yosen
 >
 > (Qui $XY$ indica la lunghezza del segmento $XY$.)
 
-![[src_jmo22yq_yosen__q01.png]]
+![[src_jmo22yq_yosen__Q01.png]]
 
 **Argomento:** [[topic_geometria_piana|Geometria piana]], [[topic_algebra|Algebra]]
 **Metodo:** [[method_coordinate|Metodo delle coordinate]]
 **Abilità:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]], [[Algebra e Analisi]]
 **Risposta:** 10
-[[Quesiti/src_jmo22yq_yosen#q01|src_jmo22yq_yosen__Q01]]
 
 
 
@@ -59,7 +59,7 @@ level: JMO Yosen
 
 > Points $A$, $B$, $C$, $D$ lie on a circle in this order. The angle between the tangent to the circle at $B$ and chord $AB$ is $30^\circ$, and the angle between the tangent at $C$ and chord $CD$ is $10^\circ$. Lines $AB$ and $DC$ are parallel, and $B$ and $C$ lie on opposite sides of the centre with respect to the chord $AD$. Find $\angle BDC$.
 
-![[src_jmo22yq_yosen__q02.png]]
+![[src_jmo22yq_yosen__Q02.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_trigonometria|Trigonometria]]
@@ -76,13 +76,13 @@ level: JMO Yosen
 
 > I punti $A$, $B$, $C$, $D$ stanno su una circonferenza, in quest'ordine. L'angolo fra la tangente alla circonferenza in $B$ e la corda $AB$ è $30^\circ$, e l'angolo fra la tangente in $C$ e la corda $CD$ è $10^\circ$. Le rette $AB$ e $DC$ sono parallele, e $B$ e $C$ stanno da parti opposte rispetto al centro, rispetto alla corda $AD$. Trovare $\angle BDC$.
 
-![[src_jmo22yq_yosen__q02.png]]
+![[src_jmo22yq_yosen__Q02.png]]
 
 **Argomento:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_trigonometria|Tecniche trigonometriche]]
 **Abilità:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta del testo]]
+**Area:** [[Geometria]]
 **Risposta:** 70
-[[Quesiti/src_jmo22yq_yosen#q02|src_jmo22yq_yosen__Q02]]
 
 
 
@@ -113,8 +113,8 @@ level: JMO Yosen
 **Argomento:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei numeri]]
 **Metodo:** [[method_estremalita|Principio di estremalità]], [[method_casework|Analisi per casi]]
 **Abilità:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_stima|Stima e approssimazione]], [[skill_casework_accurato|Analisi per casi accurata]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 72
-[[Quesiti/src_jmo22yq_yosen#q03|src_jmo22yq_yosen__Q03]]
 
 
 
@@ -145,8 +145,8 @@ level: JMO Yosen
 **Argomento:** [[topic_aritmetica|Aritmetica / Teoria dei numeri]]
 **Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]], [[method_casework|Analisi per casi]]
 **Abilità:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta del testo]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 138
-[[Quesiti/src_jmo22yq_yosen#q04|src_jmo22yq_yosen__Q04]]
 
 
 
@@ -177,8 +177,8 @@ level: JMO Yosen
 **Argomento:** [[topic_aritmetica|Aritmetica / Teoria dei numeri]], [[topic_algebra|Algebra]]
 **Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]], [[method_casework|Analisi per casi]]
 **Abilità:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di schemi]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 **Risposta:** $2^{15} \cdot 3^5$
-[[Quesiti/src_jmo22yq_yosen#q05|src_jmo22yq_yosen__Q05]]
 
 
 
@@ -219,8 +219,8 @@ level: JMO Yosen
 **Argomento:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_conteggio|Conteggio combinatorio]], [[method_simmetria|Sfruttamento della simmetria]], [[method_ricorsione|Ricorsione]]
 **Abilità:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di schemi]], [[skill_casework_accurato|Analisi per casi accurata]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 39800
-[[Quesiti/src_jmo22yq_yosen#q06|src_jmo22yq_yosen__Q06]]
 
 
 
@@ -255,8 +255,8 @@ level: JMO Yosen
 **Argomento:** [[topic_geometria_piana|Geometria piana]], [[topic_algebra|Algebra]]
 **Metodo:** [[method_coordinate|Metodo delle coordinate]], [[method_simmetria|Sfruttamento della simmetria]]
 **Abilità:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]], [[Algebra e Analisi]]
 **Risposta:** $\frac{4\sqrt{21}}{7}$
-[[Quesiti/src_jmo22yq_yosen#q07|src_jmo22yq_yosen__Q07]]
 
 
 
@@ -291,8 +291,8 @@ level: JMO Yosen
 **Argomento:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei numeri]]
 **Metodo:** [[method_ricorsione|Ricorsione]], [[method_conteggio|Conteggio combinatorio]]
 **Abilità:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di schemi]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 201
-[[Quesiti/src_jmo22yq_yosen#q08|src_jmo22yq_yosen__Q08]]
 
 
 
@@ -323,8 +323,8 @@ level: JMO Yosen
 **Argomento:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei numeri]]
 **Metodo:** [[method_casework|Analisi per casi]], [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
 **Abilità:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Analisi per casi accurata]], [[skill_lettura_attenta|Lettura attenta del testo]]
+**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 8, 9, 10, 13, 17, 19, 27
-[[Quesiti/src_jmo22yq_yosen#q09|src_jmo22yq_yosen__Q09]]
 
 
 
@@ -361,12 +361,12 @@ level: JMO Yosen
 **Argomento:** [[topic_aritmetica|Aritmetica / Teoria dei numeri]], [[topic_algebra|Algebra]]
 **Metodo:** [[method_casework|Analisi per casi]], [[method_estremalita|Principio di estremalità]]
 **Abilità:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima e approssimazione]], [[skill_lettura_attenta|Lettura attenta del testo]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 **Risposta:** 1172
-[[Quesiti/src_jmo22yq_yosen#q10|src_jmo22yq_yosen__Q10]]
 
 
 
-<span class="atom-split" id="q11" data-atom="q11" data-title="Quesito 11" data-tags="topic_combinatoria,method_bigezione,method_conteggio,method_simmetria,skill_conteggio_sistematico,skill_riconoscimento_pattern,skill_astrazione"></span>
+<span class="atom-split" id="q11" data-atom="q11" data-title="Quesito 11" data-tags="topic_combinatoria,method_bigezione,method_conteggio,method_simmetria,method_colorazione,skill_conteggio_sistematico,skill_riconoscimento_pattern,skill_astrazione"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -380,9 +380,9 @@ level: JMO Yosen
 > Find the number of such colourings. (Colourings related by rotation or reflection are counted as different.)
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
-**Metodo:** [[method_bigezione|Biiezione]], [[method_conteggio|Conteggio]], [[method_simmetria|Simmetria]]
+**Metodo:** [[method_bigezione|Biiezione]], [[method_conteggio|Conteggio]], [[method_simmetria|Simmetria]], [[method_colorazione|Colouring / parity]]
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_astrazione|Astrazione]]
-**Area:** [[Combinatoria, Logica e Probabilita]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Risposta:** $\binom{2n}{n}^2$
 **Fonte:** [apri PDF](https://drive.google.com/file/d/19sbaBac_kP5I69mESQUSNLm63q6mxK7u/view)
 
@@ -399,10 +399,12 @@ level: JMO Yosen
 > Trovare il numero di tali colorazioni. (Colorazioni che si ottengono l'una dall'altra per rotazione o riflessione si contano come diverse.)
 
 **Argomento:** [[topic_combinatoria|Combinatoria]]
-**Metodo:** [[method_bigezione|Bigezione / corrispondenza]], [[method_conteggio|Conteggio combinatorio]], [[method_simmetria|Sfruttamento della simmetria]]
-**Abilità:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di schemi]], [[skill_astrazione|Astrazione / generalizzazione]]
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_bigezione|Bigezione / corrispondenza]], [[method_conteggio|Conteggio combinatorio]], [[method_simmetria|Sfruttamento della simmetria]], [[method_colorazione|Colorazione / parita]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di schemi]], [[skill_astrazione|Astrazione / generalizzazione]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** $\binom{2n}{n}^2$
-[[Quesiti/src_jmo22yq_yosen#q11|src_jmo22yq_yosen__Q11]]
 
 
 
@@ -420,7 +422,7 @@ level: JMO Yosen
 > 
 > (Here, $XY$ denotes the length of segment $XY$.)
 
-![[src_jmo22yq_yosen__q12.png]]
+![[src_jmo22yq_yosen__Q12.png]]
 
 **Topic:** [[topic_geometria_solida|Geometria solida]], [[topic_algebra|Algebra]]
 **Metodo:** [[method_coordinate|Coordinate]], [[method_simmetria|Simmetria]]
@@ -443,10 +445,10 @@ level: JMO Yosen
 >
 > (Qui $XY$ indica la lunghezza del segmento $XY$.)
 
-![[src_jmo22yq_yosen__q12.png]]
+![[src_jmo22yq_yosen__Q12.png]]
 
 **Argomento:** [[topic_geometria_solida|Geometria solida]], [[topic_algebra|Algebra]]
 **Metodo:** [[method_coordinate|Metodo delle coordinate]], [[method_simmetria|Sfruttamento della simmetria]]
 **Abilità:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
+**Area:** [[Geometria]], [[Algebra e Analisi]]
 **Risposta:** $4\sqrt{61}$
-[[Quesiti/src_jmo22yq_yosen#q12|src_jmo22yq_yosen__Q12]]

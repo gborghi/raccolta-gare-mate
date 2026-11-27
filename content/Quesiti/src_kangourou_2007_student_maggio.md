@@ -10,20 +10,20 @@ level: kangourou
 
 
 
-<span class="atom-split" id="qs1" data-atom="qs1" data-title="Quesito S1" data-tags="topic_geometria_solida,method_coordinate,skill_ragionamento_geometrico"></span>
+<span class="atom-split" id="qs1" data-atom="qs1" data-title="Quesito S1" data-tags="topic_geometria_solida,topic_geometria_piana,method_coordinate,skill_ragionamento_geometrico,skill_modellizzazione"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
 
 *Percorso piu breve sulla superficie del cono*
 
-![[src_kangourou_2007_student_maggio__probs1.png]]
+![[src_kangourou_2007_student_maggio__probS1.png]]
 
 > In un cono circolare retto il raggio del cerchio di base misura $3$ cm e la generatrice $6$ cm. Una formica vuole arrampicarsi sulla superficie laterale del cono dal punto $A$ sul cerchio di base al punto medio della generatrice opposta $BC$ (vedi figura). Quanto misura il percorso più breve che può fare la formica? (vedi figura)
 
-**Topic:** [[topic_geometria_solida|Geometria solida]]
+**Topic:** [[topic_geometria_solida|Geometria solida]], [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_coordinate|Metodo delle coordinate]]
-**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
 **Area:** [[Geometria]]
 **Risposta:** 3*sqrt5 cm
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1HUfAMVLA7IpFMgDDc-PE2DVK0jJ_IXLH/view)
@@ -34,20 +34,19 @@ level: kangourou
 
 *Shortest path on the surface of the cone*
 
-![[src_kangourou_2007_student_maggio__probs1.png]]
+![[src_kangourou_2007_student_maggio__probS1.png]]
 
 > In a right circular cone, the radius of the base circle is $3$ cm, and the slant height is $6$ cm. An ant wants to climb up the lateral surface of the cone from point $A$ on the base circle to the midpoint $BC$ of the opposite slant height (see figure). What is the length of the shortest path the ant can take? (see figure)
 
-**Topic:** [[topic_geometria_solida|Solid geometry]]
+
+**Topic:** [[topic_geometria_solida|Solid geometry]], [[topic_geometria_piana|Plane geometry]]
 **Metodo:** [[method_coordinate|Coordinate method]]
-**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_modellizzazione|Modelling / translating the text]]
 **Area:** [[Geometria|Geometry]]
 
-[[Quesiti/src_kangourou_2007_student_maggio#qs1|src_kangourou_2007_student_maggio__QS1]]
 
 
-
-<span class="atom-split" id="qs2" data-atom="qs2" data-title="Quesito S2" data-tags="topic_logica,method_invarianti,skill_astrazione"></span>
+<span class="atom-split" id="qs2" data-atom="qs2" data-title="Quesito S2" data-tags="topic_logica,method_invarianti,skill_astrazione,skill_lettura_attenta"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -58,7 +57,7 @@ level: kangourou
 
 **Topic:** [[topic_logica|Logica, giochi, strategie]]
 **Metodo:** [[method_invarianti|Invarianti / monovarianti]]
-**Abilita:** [[skill_astrazione|Astrazione / generalizzazione]]
+**Abilita:** [[skill_astrazione|Astrazione / generalizzazione]], [[skill_lettura_attenta|Lettura attenta del testo]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** si
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1HUfAMVLA7IpFMgDDc-PE2DVK0jJ_IXLH/view)
@@ -71,23 +70,22 @@ level: kangourou
 
 > I have $52$ cards, each of which shows a positive integer, and the sum of all the numbers shown is an odd number. I play with a friend in this way: after laying all the cards out in a row on the table, one player removes a card from one end of the row and then passes the turn to the other player, who does the same; this continues until no cards remain on the table. In the end, for each player, the numbers written on the cards they have chosen are added together; the player whose cards have the greater total sum of numbers wins. Is there a winning strategy for the player who starts the game? If so, give one such strategy; if not, provide a reason.
 
+
 **Topic:** [[topic_logica|Logic, games and strategies]]
 **Metodo:** [[method_invarianti|Invariants / monovariants]]
-**Abilita:** [[skill_astrazione|Abstraction / generalisation]]
+**Abilita:** [[skill_astrazione|Abstraction / generalisation]], [[skill_lettura_attenta|Careful reading of the text]]
 **Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
-[[Quesiti/src_kangourou_2007_student_maggio#qs2|src_kangourou_2007_student_maggio__QS2]]
 
 
-
-<span class="atom-split" id="qs3" data-atom="qs3" data-title="Quesito S3" data-tags="topic_geometria_piana,topic_disuguaglianze,method_disuguaglianze,skill_ragionamento_geometrico"></span>
+<span class="atom-split" id="qs3" data-atom="qs3" data-title="Quesito S3" data-tags="topic_geometria_piana,topic_disuguaglianze,method_disuguaglianze,method_estremalita,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
 
 *Area minima del triangolo (altezze vincolate)*
 
-![[src_kangourou_2007_student_maggio__probs3.png]]
+![[src_kangourou_2007_student_maggio__probS3.png]]
 
 ```tikz
 \begin{document}
@@ -115,9 +113,9 @@ level: kangourou
 > Sia $ABC$ un qualunque triangolo le cui altezze relative ai vertici $A$, $B$, $C$ soddisfino rispettivamente le relazioni: $h_A \geq 3$ cm, $h_B \geq 4$ cm, $h_C \geq 5$ cm. Quanti centimetri quadrati misura al minimo l'area di $ABC$?
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_disuguaglianze|Disuguaglianze]]
-**Metodo:** [[method_disuguaglianze|Disuguaglianze classiche]]
-**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
-**Area:** [[Algebra e Analisi]], [[Geometria]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze classiche]], [[method_estremalita|Principio di estremalita]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]], [[Algebra e Analisi]]
 **Risposta:** 10
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1HUfAMVLA7IpFMgDDc-PE2DVK0jJ_IXLH/view)
 
@@ -127,7 +125,7 @@ level: kangourou
 
 *Minimum area of the triangle (constrained altitudes)*
 
-![[src_kangourou_2007_student_maggio__probs3.png]]
+![[src_kangourou_2007_student_maggio__probS3.png]]
 
 ```tikz
 \begin{document}
@@ -154,12 +152,11 @@ level: kangourou
 
 > Let $ABC$ be any triangle whose altitudes corresponding to the vertices $A$, $B$, $C$ satisfy, respectively, the relations: $h_A \geq 3$ cm, $h_B \geq 4$ cm, $h_C \geq 5$ cm. What is the minimum area, in square centimeters, of $ABC$?
 
-**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_disuguaglianze|Inequalities]]
-**Metodo:** [[method_disuguaglianze|Classical inequalities]]
-**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
-**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Geometria|Geometry]]
 
-[[Quesiti/src_kangourou_2007_student_maggio#qs3|src_kangourou_2007_student_maggio__QS3]]
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_disuguaglianze|Inequalities]]
+**Metodo:** [[method_disuguaglianze|Classical inequalities]], [[method_estremalita|Extremal principle]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Geometria|Geometry]], [[Algebra e Analisi|Algebra and analysis]]
 
 
 
@@ -192,11 +189,9 @@ level: kangourou
 **Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
-[[Quesiti/src_kangourou_2007_student_maggio#qs4|src_kangourou_2007_student_maggio__QS4]]
 
 
-
-<span class="atom-split" id="qs5" data-atom="qs5" data-title="Quesito S5" data-tags="topic_combinatoria,method_ricorsione,skill_riconoscimento_pattern"></span>
+<span class="atom-split" id="qs5" data-atom="qs5" data-title="Quesito S5" data-tags="topic_combinatoria,method_ricorsione,skill_riconoscimento_pattern,skill_astrazione"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -207,7 +202,7 @@ level: kangourou
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_ricorsione|Ricorsione]]
-**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_astrazione|Astrazione / generalizzazione]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 504
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1HUfAMVLA7IpFMgDDc-PE2DVK0jJ_IXLH/view)
@@ -220,16 +215,15 @@ level: kangourou
 
 > A set $S$ of positive natural numbers is called "porous" if it is empty or does not contain three consecutive integers. How many porous subsets does the set $\{1, 2, 3, \ldots, 10\}$ have?
 
+
 **Topic:** [[topic_combinatoria|Combinatorics]]
 **Metodo:** [[method_ricorsione|Recursion]]
-**Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]]
+**Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]], [[skill_astrazione|Abstraction / generalisation]]
 **Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
-[[Quesiti/src_kangourou_2007_student_maggio#qs5|src_kangourou_2007_student_maggio__QS5]]
 
 
-
-<span class="atom-split" id="qs6" data-atom="qs6" data-title="Quesito S6" data-tags="topic_algebra,topic_logica,method_casework,skill_astrazione"></span>
+<span class="atom-split" id="qs6" data-atom="qs6" data-title="Quesito S6" data-tags="topic_algebra,topic_logica,method_casework,skill_astrazione,skill_manipolazione_algebrica,skill_modellizzazione"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -240,7 +234,7 @@ level: kangourou
 
 **Topic:** [[topic_algebra|Algebra]], [[topic_logica|Logica, giochi, strategie]]
 **Metodo:** [[method_casework|Analisi per casi]]
-**Abilita:** [[skill_astrazione|Astrazione / generalizzazione]]
+**Abilita:** [[skill_astrazione|Astrazione / generalizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
 **Area:** [[Algebra e Analisi]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** strategia 3 pesate
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1HUfAMVLA7IpFMgDDc-PE2DVK0jJ_IXLH/view)
@@ -253,9 +247,8 @@ level: kangourou
 
 > $2007$ Numbered bags each contain at least $3000$ coins. The coins in each individual bag are all identical in weight and shape and are marked with the bag's number. Apart from one bag containing counterfeit coins, all the others contain genuine coins. All genuine coins have the same weight, which is different from the weight of the counterfeit coins; the two weights are unknown. You have an electronic scale at your disposal. Find a strategy to determine, using three weighings, which bag contains the counterfeit coins, and demonstrate its effectiveness.
 
+
 **Topic:** [[topic_algebra|Algebra]], [[topic_logica|Logic, games and strategies]]
 **Metodo:** [[method_casework|Case analysis]]
-**Abilita:** [[skill_astrazione|Abstraction / generalisation]]
+**Abilita:** [[skill_astrazione|Abstraction / generalisation]], [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_modellizzazione|Modelling / translating the text]]
 **Area:** [[Algebra e Analisi|Algebra and analysis]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
-
-[[Quesiti/src_kangourou_2007_student_maggio#qs6|src_kangourou_2007_student_maggio__QS6]]

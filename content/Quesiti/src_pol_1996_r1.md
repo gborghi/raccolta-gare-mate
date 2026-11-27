@@ -10,7 +10,7 @@ level: Olimpiade Polacca Round 1
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_trigonometria,method_trigonometria,method_disuguaglianze,skill_manipolazione_algebrica,skill_riconoscimento_pattern"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_trigonometria,topic_disuguaglianze,method_trigonometria,method_disuguaglianze,method_casework,skill_manipolazione_algebrica,skill_riconoscimento_pattern"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -19,10 +19,10 @@ level: Olimpiade Polacca Round 1
 
 > Find all positive integers $n$ for which the equation $\tan x + \cot x = 2\sin nx$ has a real solution.
 
-**Topic:** [[topic_trigonometria|Trigonometria]]
-**Metodo:** [[method_trigonometria|Trigonometria]], [[method_disuguaglianze|Disuguaglianze]]
+**Topic:** [[topic_trigonometria|Trigonometria]], [[topic_disuguaglianze|Inequalities]]
+**Metodo:** [[method_trigonometria|Trigonometria]], [[method_disuguaglianze|Disuguaglianze]], [[method_casework|Case analysis]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
-**Area:** [[Geometria]]
+**Area:** [[Geometria|Geometry]], [[Algebra e Analisi|Algebra and analysis]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1tWe6wFvbJAXv_1Obwe4_EBmKEDnujxMO/view)
 
 
@@ -33,12 +33,11 @@ level: Olimpiade Polacca Round 1
 
 > Trovare tutti gli interi positivi $n$ per cui l'equazione $\tan x + \cot x = 2\sin nx$ ammette una soluzione reale.
 
-**Topic:** [[topic_trigonometria|Trigonometria]]
-**Metodo:** [[method_trigonometria|Trigonometria]], [[method_disuguaglianze|Disuguaglianze]]
-**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
-**Area:** [[Geometria]]
 
-[[Quesiti/src_pol_1996_r1#q01|src_pol_1996_r1__Q01]]
+**Topic:** [[topic_trigonometria|Trigonometria]], [[topic_disuguaglianze|Disuguaglianze]]
+**Metodo:** [[method_trigonometria|Trigonometria]], [[method_disuguaglianze|Disuguaglianze]], [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Geometria]], [[Algebra e Analisi]]
 
 
 
@@ -70,8 +69,6 @@ level: Olimpiade Polacca Round 1
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 
-[[Quesiti/src_pol_1996_r1#q02|src_pol_1996_r1__Q02]]
-
 
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_combinatoria,method_grafi,method_estremalita,method_induzione,skill_astrazione,skill_modellizzazione"></span>
@@ -101,8 +98,6 @@ level: Olimpiade Polacca Round 1
 **Metodo:** [[method_grafi|Grafi]], [[method_estremalita|Estremalità]], [[method_induzione|Induzione]]
 **Abilita:** [[skill_astrazione|Astrazione]], [[skill_modellizzazione|Modellizzazione]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
-
-[[Quesiti/src_pol_1996_r1#q03|src_pol_1996_r1__Q03]]
 
 
 
@@ -134,8 +129,6 @@ level: Olimpiade Polacca Round 1
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 
-[[Quesiti/src_pol_1996_r1#q04|src_pol_1996_r1__Q04]]
-
 
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_geometria_piana,topic_disuguaglianze,topic_trigonometria,method_disuguaglianze,method_trigonometria,skill_ragionamento_geometrico,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
@@ -166,11 +159,9 @@ level: Olimpiade Polacca Round 1
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Geometria]], [[Algebra e Analisi]]
 
-[[Quesiti/src_pol_1996_r1#q05|src_pol_1996_r1__Q05]]
 
 
-
-<span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_aritmetica,topic_algebra,method_congruenze,method_induzione,skill_riconoscimento_pattern,skill_manipolazione_algebrica"></span>
+<span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_aritmetica,topic_algebra,topic_funzionali,method_congruenze,method_induzione,skill_riconoscimento_pattern,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -179,10 +170,10 @@ level: Olimpiade Polacca Round 1
 
 > Two increasing sequences are given: an arithmetic progression with difference $r > 0$ and a geometric progression with ratio $q > 1$, where $q$ and $r$ are coprime. Prove that if these two sequences have a common term, then they have infinitely many common terms.
 
-**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]], [[topic_funzionali|Functional equations / sequences]]
 **Metodo:** [[method_congruenze|Congruenze]], [[method_induzione|Induzione]]
 **Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
-**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Algebra e Analisi|Algebra and analysis]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1tWe6wFvbJAXv_1Obwe4_EBmKEDnujxMO/view)
 
 
@@ -193,12 +184,11 @@ level: Olimpiade Polacca Round 1
 
 > Sono date due successioni crescenti: una progressione aritmetica con differenza $r > 0$ e una progressione geometrica con ragione $q > 1$, dove $q$ e $r$ sono coprimi. Dimostrare che, se queste due successioni hanno un termine comune, allora hanno infiniti termini comuni.
 
-**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]], [[topic_funzionali|Equazioni funzionali / successioni]]
 **Metodo:** [[method_congruenze|Congruenze]], [[method_induzione|Induzione]]
 **Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
-
-[[Quesiti/src_pol_1996_r1#q06|src_pol_1996_r1__Q06]]
 
 
 
@@ -232,8 +222,7 @@ level: Olimpiade Polacca Round 1
 **Topic:** [[topic_disuguaglianze|Disuguaglianze]], [[topic_algebra|Algebra]]
 **Metodo:** [[method_disuguaglianze|Disuguaglianze]], [[method_casework|Analisi per casi]], [[method_simmetria|Simmetria]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Analisi accurata dei casi]], [[skill_lettura_attenta|Lettura attenta]]
-
-[[Quesiti/src_pol_1996_r1#q07|src_pol_1996_r1__Q07]]
+**Area:** [[Algebra e Analisi]]
 
 
 
@@ -263,8 +252,7 @@ level: Olimpiade Polacca Round 1
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_invarianti|Invarianti]], [[method_simmetria|Simmetria]], [[method_coordinate|Coordinate]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_astrazione|Astrazione]]
-
-[[Quesiti/src_pol_1996_r1#q08|src_pol_1996_r1__Q08]]
+**Area:** [[Geometria]], [[Combinatoria, Logica e Probabilita]]
 
 
 
@@ -294,12 +282,11 @@ level: Olimpiade Polacca Round 1
 **Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica e teoria dei numeri]]
 **Metodo:** [[method_congruenze|Congruenze]], [[method_fattorizzazione|Fattorizzazione]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
-
-[[Quesiti/src_pol_1996_r1#q09|src_pol_1996_r1__Q09]]
-
+**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 
 
-<span class="atom-split" id="q10" data-atom="q10" data-title="Quesito 10" data-tags="topic_aritmetica,topic_algebra,method_fattorizzazione,skill_riconoscimento_pattern,skill_manipolazione_algebrica"></span>
+
+<span class="atom-split" id="q10" data-atom="q10" data-title="Quesito 10" data-tags="topic_aritmetica,topic_algebra,method_fattorizzazione,skill_riconoscimento_pattern,skill_manipolazione_algebrica,skill_astrazione"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -310,8 +297,8 @@ level: Olimpiade Polacca Round 1
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
 **Metodo:** [[method_fattorizzazione|Fattorizzazione]]
-**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
-**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Abstraction / generalisation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Algebra e Analisi|Algebra and analysis]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1tWe6wFvbJAXv_1Obwe4_EBmKEDnujxMO/view)
 
 
@@ -322,15 +309,15 @@ level: Olimpiade Polacca Round 1
 
 > Dimostrare che l'equazione $x^9 = y^3 + z^3$ ha infinite soluzioni in interi positivi $x, y, z$.
 
+
 **Topic:** [[topic_aritmetica|Aritmetica e teoria dei numeri]], [[topic_algebra|Algebra]]
 **Metodo:** [[method_fattorizzazione|Fattorizzazione]]
-**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di schemi]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
-
-[[Quesiti/src_pol_1996_r1#q10|src_pol_1996_r1__Q10]]
-
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di schemi]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione / generalizzazione]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 
 
-<span class="atom-split" id="q11" data-atom="q11" data-title="Quesito 11" data-tags="topic_probabilita,topic_combinatoria,method_conteggio,method_casework,skill_conteggio_sistematico,skill_stima"></span>
+
+<span class="atom-split" id="q11" data-atom="q11" data-title="Quesito 11" data-tags="topic_probabilita,topic_combinatoria,method_conteggio,method_casework,skill_conteggio_sistematico,skill_stima,skill_modellizzazione"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -341,8 +328,8 @@ level: Olimpiade Polacca Round 1
 
 **Topic:** [[topic_probabilita|Probabilità]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_conteggio|Conteggio]], [[method_casework|Casework]]
-**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_stima|Stima]]
-**Area:** [[Combinatoria, Logica e Probabilita]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_stima|Stima]], [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1tWe6wFvbJAXv_1Obwe4_EBmKEDnujxMO/view)
 
 
@@ -353,11 +340,11 @@ level: Olimpiade Polacca Round 1
 
 > In una gara di salto con gli sci partecipano $65$ concorrenti, che saltano in un ordine fissato in precedenza, ciascuno esattamente una volta. Si suppone che i risultati siano tutti diversi e che tutte le classifiche finali possibili siano equiprobabili. In ogni momento della gara si chiama leader chi, in quell'istante, ha il punteggio migliore. Sia $p$ la probabilità che nel corso dell'intera gara il leader cambi esattamente una volta. Dimostrare che $p > 1/16$.
 
+
 **Topic:** [[topic_probabilita|Probabilità e statistica]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_conteggio|Conteggio]], [[method_casework|Analisi per casi]]
-**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_stima|Stima]]
-
-[[Quesiti/src_pol_1996_r1#q11|src_pol_1996_r1__Q11]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_stima|Stima]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
 
 
 
@@ -387,5 +374,4 @@ level: Olimpiade Polacca Round 1
 **Topic:** [[topic_geometria_solida|Geometria solida]]
 **Metodo:** [[method_simmetria|Simmetria]], [[method_casework|Analisi per casi]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_astrazione|Astrazione]]
-
-[[Quesiti/src_pol_1996_r1#q12|src_pol_1996_r1__Q12]]
+**Area:** [[Geometria]]

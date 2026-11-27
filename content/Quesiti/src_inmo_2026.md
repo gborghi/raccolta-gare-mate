@@ -10,7 +10,7 @@ level: INMO
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_algebra,topic_aritmetica,method_induzione,method_ricorsione,skill_riconoscimento_pattern,skill_manipolazione_algebrica"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_algebra,topic_aritmetica,topic_funzionali,method_induzione,method_ricorsione,method_casework,skill_riconoscimento_pattern,skill_manipolazione_algebrica,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -21,10 +21,10 @@ level: INMO
 > $$x_{n+1} = x_n + \lfloor \sqrt{x_n} \rfloor.$$
 > Determine all positive integers $m$ for which $x_n = m^2$ for some $n \ge 1$. (Here $\lfloor x \rfloor$ denotes the greatest integer less or equal to $x$ for every real number $x$.)
 
-**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_induzione|Induzione]], [[method_ricorsione|Ricorsione]]
-**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
-**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_funzionali|Functional equations / sequences]]
+**Metodo:** [[method_induzione|Induzione]], [[method_ricorsione|Ricorsione]], [[method_casework|Case analysis]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1ffwcPTmw5kJZuKkanVDFlqLhvUS6FxGr/view)
 
 
@@ -37,16 +37,15 @@ level: INMO
 > $$x_{n+1} = x_n + \lfloor \sqrt{x_n} \rfloor.$$
 > Determinare tutti gli interi positivi $m$ per i quali $x_n = m^2$ per qualche $n \ge 1$. (Qui $\lfloor x \rfloor$ denota il più grande intero minore o uguale a $x$ per ogni numero reale $x$.)
 
-**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_induzione|Induzione]], [[method_ricorsione|Ricorsione]]
-**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_funzionali|Equazioni funzionali / successioni]]
+**Metodo:** [[method_induzione|Induzione]], [[method_ricorsione|Ricorsione]], [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 
-[[Quesiti/src_inmo_2026#q01|src_inmo_2026__Q01]]
 
 
-
-<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_funzionali,topic_combinatoria,method_conteggio,method_estremalita,skill_astrazione,skill_lettura_attenta"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_funzionali,topic_combinatoria,method_conteggio,method_estremalita,method_cassetti,method_invarianti,skill_astrazione,skill_lettura_attenta,skill_riconoscimento_pattern"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -56,9 +55,9 @@ level: INMO
 > Let $f : \mathbb{N} \to \mathbb{N}$ be a function satisfying the following condition: for each $k > 2026$, the number $f(k)$ equals the maximum number of times a number appears in the list $f(1), f(2), \ldots, f(k-1)$. Prove that $f(n) = f(n+1)$ for infinitely many $n \in \mathbb{N}$. (Here $\mathbb{N}$ denotes the set $\{1, 2, 3, \ldots\}$ of positive integers.)
 
 **Topic:** [[topic_funzionali|Equazioni funzionali]], [[topic_combinatoria|Combinatoria]]
-**Metodo:** [[method_conteggio|Conteggio]], [[method_estremalita|Estremalità]]
-**Abilita:** [[skill_astrazione|Astrazione]], [[skill_lettura_attenta|Lettura attenta]]
-**Area:** [[Algebra e Analisi]], [[Combinatoria, Logica e Probabilita]]
+**Metodo:** [[method_conteggio|Conteggio]], [[method_estremalita|Estremalità]], [[method_cassetti|Pigeonhole principle]], [[method_invarianti|Invariants / monovariants]]
+**Abilita:** [[skill_astrazione|Astrazione]], [[skill_lettura_attenta|Lettura attenta]], [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1ffwcPTmw5kJZuKkanVDFlqLhvUS6FxGr/view)
 
 
@@ -69,12 +68,11 @@ level: INMO
 
 > Sia $f : \mathbb{N} \to \mathbb{N}$ una funzione che soddisfa la seguente condizione: per ogni $k > 2026$, il numero $f(k)$ è uguale al numero massimo di volte in cui un numero compare nella lista $f(1), f(2), \ldots, f(k-1)$. Dimostrare che $f(n) = f(n+1)$ per infiniti $n \in \mathbb{N}$. (Qui $\mathbb{N}$ denota l'insieme $\{1, 2, 3, \ldots\}$ degli interi positivi.)
 
-**Topic:** [[topic_funzionali|Equazioni funzionali]], [[topic_combinatoria|Combinatoria]]
-**Metodo:** [[method_conteggio|Conteggio]], [[method_estremalita|Estremalità]]
-**Abilita:** [[skill_astrazione|Astrazione]], [[skill_lettura_attenta|Lettura attenta]]
-**Area:** [[Algebra e Analisi]], [[Combinatoria, Logica e Probabilita]]
 
-[[Quesiti/src_inmo_2026#q02|src_inmo_2026__Q02]]
+**Topic:** [[topic_funzionali|Equazioni funzionali]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_conteggio|Conteggio]], [[method_estremalita|Estremalità]], [[method_cassetti|Principio dei cassetti]], [[method_invarianti|Invarianti / monovarianti]]
+**Abilita:** [[skill_astrazione|Astrazione]], [[skill_lettura_attenta|Lettura attenta]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Algebra e Analisi]], [[Combinatoria, Logica e Probabilita]]
 
 
 
@@ -106,11 +104,9 @@ level: INMO
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]]
 
-[[Quesiti/src_inmo_2026#q03|src_inmo_2026__Q03]]
 
 
-
-<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_funzionali,topic_aritmetica,method_congruenze,method_fattorizzazione,skill_astrazione,skill_manipolazione_algebrica"></span>
+<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_funzionali,topic_aritmetica,method_congruenze,method_fattorizzazione,method_casework,skill_astrazione,skill_manipolazione_algebrica,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -120,9 +116,9 @@ level: INMO
 > Two integers $a$ and $b$ are called companions if every prime number $p$ either divides both or none of $a, b$. Determine all functions $f : \mathbb{N}_0 \to \mathbb{N}_0$ such that $f(0) = 0$ and the numbers $f(n) + m$ and $f(n) + f(m)$ are companions for all $m, n \in \mathbb{N}_0$. (Here $\mathbb{N}_0$ denotes the set of all non-negative integers.)
 
 **Topic:** [[topic_funzionali|Equazioni funzionali]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_congruenze|Congruenze]], [[method_fattorizzazione|Fattorizzazione]]
-**Abilita:** [[skill_astrazione|Astrazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
-**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
+**Metodo:** [[method_congruenze|Congruenze]], [[method_fattorizzazione|Fattorizzazione]], [[method_casework|Case analysis]]
+**Abilita:** [[skill_astrazione|Astrazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1ffwcPTmw5kJZuKkanVDFlqLhvUS6FxGr/view)
 
 
@@ -133,12 +129,11 @@ level: INMO
 
 > Due interi $a$ e $b$ sono detti compagni se ogni numero primo $p$ divide entrambi o nessuno dei $a, b$. Determinare tutte le funzioni $f : \mathbb{N}_0 \to \mathbb{N}_0$ tali che $f(0) = 0$ e i numeri $f(n) + m$ e $f(n) + f(m)$ siano compagni per ogni $m, n \in \mathbb{N}_0$. (Qui $\mathbb{N}_0$ denota l'insieme di tutti gli interi non negativi.)
 
-**Topic:** [[topic_funzionali|Equazioni funzionali]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_congruenze|Congruenze]], [[method_fattorizzazione|Fattorizzazione]]
-**Abilita:** [[skill_astrazione|Astrazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
-**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 
-[[Quesiti/src_inmo_2026#q04|src_inmo_2026__Q04]]
+**Topic:** [[topic_funzionali|Equazioni funzionali]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_congruenze|Congruenze]], [[method_fattorizzazione|Fattorizzazione]], [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_astrazione|Astrazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 
 
 
@@ -170,11 +165,9 @@ level: INMO
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]]
 
-[[Quesiti/src_inmo_2026#q05|src_inmo_2026__Q05]]
 
 
-
-<span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_combinatoria,method_invarianti,method_estremalita,method_casework,skill_conteggio_sistematico,skill_modellizzazione"></span>
+<span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_combinatoria,topic_logica,method_invarianti,method_estremalita,method_casework,skill_conteggio_sistematico,skill_modellizzazione,skill_casework_accurato,skill_lettura_attenta"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -189,10 +182,10 @@ level: INMO
 > \end{itemize}
 > The process ends when both decks are empty. A process is called a game if it ends. Prove that the maximum time a game can take equals 356 hours.
 
-**Topic:** [[topic_combinatoria|Combinatoria]]
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_logica|Logic, games and strategies]]
 **Metodo:** [[method_invarianti|Invarianti]], [[method_estremalita|Estremalità]], [[method_casework|Casework]]
-**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione]]
-**Area:** [[Combinatoria, Logica e Probabilita]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione]], [[skill_casework_accurato|Careful case analysis]], [[skill_lettura_attenta|Careful reading of the text]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1ffwcPTmw5kJZuKkanVDFlqLhvUS6FxGr/view)
 
 
@@ -207,9 +200,8 @@ level: INMO
 > \end{itemize}
 > Il processo termina quando entrambi i mazzi sono vuoti. Un processo è definito partita se termina. Dimostrare che il tempo massimo che una partita può richiedere è pari a 356 ore.
 
-**Topic:** [[topic_combinatoria|Combinatoria]]
-**Metodo:** [[method_invarianti|Invarianti]], [[method_estremalita|Estremalità]], [[method_casework|Casework]]
-**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione]]
-**Area:** [[Combinatoria, Logica e Probabilita]]
 
-[[Quesiti/src_inmo_2026#q06|src_inmo_2026__Q06]]
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_logica|Logica, giochi, strategie]]
+**Metodo:** [[method_invarianti|Invarianti]], [[method_estremalita|Estremalità]], [[method_casework|Casework]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione]], [[skill_casework_accurato|Casework accurato]], [[skill_lettura_attenta|Lettura attenta del testo]]
+**Area:** [[Combinatoria, Logica e Probabilita]]

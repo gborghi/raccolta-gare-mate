@@ -10,7 +10,7 @@ level: China Mathematical Competition
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_geometria_analitica,topic_algebra,method_coordinate,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_geometria_analitica,topic_algebra,method_coordinate,skill_manipolazione_algebrica,skill_lettura_attenta,skill_ragionamento_geometrico"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -19,12 +19,12 @@ level: China Mathematical Competition
 
 > Let $P$ be a point on the image of $y = x + \dfrac{2}{x}$ ($x > 0$). Through $P$ draw lines perpendicular to $y = x$ and $y$-axis with foot points $A$, $B$, respectively. Then the value of $\overrightarrow{PA} \cdot \overrightarrow{PB}$ is \underline{\hspace{2cm}}.
 
-![[src_cn_cmc_b11_w42__q01.png]]
+![[src_cn_cmc_b11_w42__Q01.png]]
 
 **Topic:** [[topic_geometria_analitica|Geometria analitica]], [[topic_algebra|Algebra]]
 **Metodo:** [[method_coordinate|Coordinate]]
-**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
-**Area:** [[Geometria]], [[Algebra e Analisi]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]], [[Algebra e Analisi|Algebra and analysis]]
 **Risposta:** $-1$
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1cjmD7lTT4vb3nB3ylcVCHeHucUE2rNI0/view)
 
@@ -36,18 +36,17 @@ level: China Mathematical Competition
 
 > Sia $P$ un punto sull'immagine di $y = x + \dfrac{2}{x}$ ($x > 0$). Passando per $P$, si traccino le rette perpendicolari a $y = x$ e all'asse $y$, con piedi rispettivamente in $A$ e $B$. Allora il valore di $\overrightarrow{PA} \cdot \overrightarrow{PB}$ è \underline{\hspace{2cm}}.
 
-![[src_cn_cmc_b11_w42__q01.png]]
+![[src_cn_cmc_b11_w42__Q01.png]]
+
 
 **Topic:** [[topic_geometria_analitica|Geometria analitica]], [[topic_algebra|Algebra]]
 **Metodo:** [[method_coordinate|Coordinate]]
-**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]], [[Algebra e Analisi]]
 
-[[Quesiti/src_cn_cmc_2012#q01|src_cn_cmc_2012__Q01]]
 
 
-
-<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_trigonometria,topic_geometria_piana,method_trigonometria,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_trigonometria,topic_geometria_piana,method_trigonometria,skill_manipolazione_algebrica,skill_lettura_attenta,skill_ragionamento_geometrico"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -58,8 +57,8 @@ level: China Mathematical Competition
 
 **Topic:** [[topic_trigonometria|Trigonometria]], [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_trigonometria|Trigonometria]]
-**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
-**Area:** [[Geometria]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1cjmD7lTT4vb3nB3ylcVCHeHucUE2rNI0/view)
 
 
@@ -70,16 +69,15 @@ level: China Mathematical Competition
 
 > Supponiamo che $\triangle ABC$, con angoli $A$, $B$ e $C$, e i lati corrispondenti $a$, $b$ e $c$, soddisfi l'equazione $a \cos B - b \cos A = \dfrac{3}{5}c$. Allora il valore di $\dfrac{\tan A}{\tan B}$ è \underline{\hspace{2cm}}.
 
+
 **Topic:** [[topic_trigonometria|Trigonometria]], [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_trigonometria|Trigonometria]]
-**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]]
 
-[[Quesiti/src_cn_cmc_2012#q02|src_cn_cmc_2012__Q02]]
 
 
-
-<span class="atom-split" id="q10" data-atom="q10" data-title="Quesito 10" data-tags="topic_algebra,topic_aritmetica,method_induzione,method_casework,skill_manipolazione_algebrica,skill_casework_accurato,skill_ragionamento_geometrico"></span>
+<span class="atom-split" id="q10" data-atom="q10" data-title="Quesito 10" data-tags="topic_algebra,topic_aritmetica,topic_funzionali,method_induzione,method_casework,method_fattorizzazione,skill_manipolazione_algebrica,skill_casework_accurato,skill_ragionamento_geometrico"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -91,10 +89,10 @@ level: China Mathematical Competition
 > (1) When $n = 3$, find all the sequences consisting of three terms.
 > (2) Does there exist an infinite sequence $\{a_n\}$ such that $a_{2013} = -2012$? If yes, give the formula of general term; if not, give your reason.
 
-**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_induzione|Induzione]], [[method_casework|Casework]]
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_funzionali|Functional equations / sequences]]
+**Metodo:** [[method_induzione|Induzione]], [[method_casework|Casework]], [[method_fattorizzazione|Factorisation / algebraic manipulation]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Casework accurato]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
-**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1cjmD7lTT4vb3nB3ylcVCHeHucUE2rNI0/view)
 
 
@@ -107,12 +105,11 @@ level: China Mathematical Competition
 > $$(a_1 + a_2 + \cdots + a_n)^2 = a_1^3 + a_2^3 + \cdots + a_n^3.$$
 > (1) Quando $n = 3$, trova tutte le successioni composte da tre termini. (2) Esiste una successione infinita $\{a_n\}$ tale che $a_{2013} = -2012$? In caso affermativo, fornisci la formula del termine generale; in caso negativo, fornisci la tua motivazione.
 
-**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_induzione|Induzione]], [[method_casework|Casework]]
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_funzionali|Equazioni funzionali / successioni]]
+**Metodo:** [[method_induzione|Induzione]], [[method_casework|Casework]], [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Casework accurato]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
-
-[[Quesiti/src_cn_cmc_2012#q10|src_cn_cmc_2012__Q10]]
 
 
 
@@ -127,7 +124,7 @@ level: China Mathematical Competition
 > (1) Prove that $|OA| \cdot |OC|$ is a constant.
 > (2) When point $A$ is moving on the half circle $(x - 2)^2 + y^2 = 4$ ($2 \le x \le 4$), find the trace of $C$.
 
-![[src_cn_cmc_b11_w58__q11.png]]
+![[src_cn_cmc_b11_w58__Q11.png]]
 
 **Topic:** [[topic_geometria_analitica|Geometria analitica]], [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_coordinate|Coordinate]], [[method_trigonometria|Trigonometria]]
@@ -143,18 +140,16 @@ level: China Mathematical Competition
 
 > (20 punti) Come si vede nella Fig. 11.1, nel sistema di coordinate cartesiane $XOY$, il lato del rombo $ABCD$ è 4, e $|OB| = |OD| = 6$. (1) Dimostrare che $|OA| \cdot |OC|$ è una costante. (2) Quando il punto $A$ si muove sull'emicerchio $(x - 2)^2 + y^2 = 4$ ($2 \le x \le 4$), determina la traccia di $C$.
 
-![[src_cn_cmc_b11_w58__q11.png]]
+![[src_cn_cmc_b11_w58__Q11.png]]
 
 **Topic:** [[topic_geometria_analitica|Geometria analitica]], [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_coordinate|Coordinate]], [[method_trigonometria|Trigonometria]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]]
 **Area:** [[Geometria]]
 
-[[Quesiti/src_cn_cmc_2012#q11|src_cn_cmc_2012__Q11]]
 
 
-
-<span class="atom-split" id="q20" data-atom="q20" data-title="Quesito 20" data-tags="topic_geometria_analitica,method_coordinate,skill_manipolazione_algebrica,skill_ragionamento_geometrico"></span>
+<span class="atom-split" id="q20" data-atom="q20" data-title="Quesito 20" data-tags="topic_geometria_analitica,method_coordinate,method_simmetria,skill_manipolazione_algebrica,skill_ragionamento_geometrico"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -164,9 +159,9 @@ level: China Mathematical Competition
 > (20 marks) Given an ellipse equation $\frac{x^2}{a^2} + \frac{y^2}{b^2} = 1$ ($a > b > 0$) in a plane rectangular coordinate system $xOy$, let $A_1$, $A_2$ be its left and right endpoints, $F_1$, $F_2$ be its left and right foci, and $P$ be any point on the ellipse different from $A_1$, $A_2$. Suppose there are points $Q$, $R$ satisfying $\overrightarrow{A_1 Q} = \overrightarrow{P A_1}$, $\overrightarrow{Q A_2} = \overrightarrow{A_2 P}$, $\overrightarrow{P A_1} = \overrightarrow{R F_1}$, $\overrightarrow{P F_2} = \overrightarrow{F_2 R}$. Find and prove the relationship between the length of segment $QR$ and $b$.
 
 **Topic:** [[topic_geometria_analitica|Geometria analitica]]
-**Metodo:** [[method_coordinate|Coordinate]]
+**Metodo:** [[method_coordinate|Coordinate]], [[method_simmetria|Using symmetry]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
-**Area:** [[Geometria]]
+**Area:** [[Geometria|Geometry]]
 **Risposta:** $QR = b$
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1cjmD7lTT4vb3nB3ylcVCHeHucUE2rNI0/view)
 
@@ -178,16 +173,15 @@ level: China Mathematical Competition
 
 > (20 punti) Dato l'equazione di un'ellisse $\frac{x^2}{a^2} + \frac{y^2}{b^2} = 1$ ($a > b > 0$) in un sistema di coordinate cartesiane nel piano $xOy$, siano $A_1$, $A_2$ i suoi estremi sinistro e destro, $F_1$, $F_2$ i suoi fuochi sinistro e destro, e $P$ un punto qualsiasi sull'ellisse diverso da $A_1$, $A_2$. Si supponga che esistano i punti $Q$, $R$ tali che $\overrightarrow{A_1 Q} = \overrightarrow{P A_1}$, $\overrightarrow{Q A_2} = \overrightarrow{A_2 P}$, $\overrightarrow{P A_1} = \overrightarrow{R F_1}$, $\overrightarrow{P F_2} = \overrightarrow{F_2 R}$. Determinare e dimostrare la relazione tra la lunghezza del segmento $QR$ e $b$.
 
+
 **Topic:** [[topic_geometria_analitica|Geometria analitica]]
-**Metodo:** [[method_coordinate|Coordinate]]
+**Metodo:** [[method_coordinate|Coordinate]], [[method_simmetria|Sfruttamento della simmetria]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]]
 
-[[Quesiti/src_cn_cmc_2012#q20|src_cn_cmc_2012__Q20]]
 
 
-
-<span class="atom-split" id="q21" data-atom="q21" data-title="Quesito 21" data-tags="topic_algebra,topic_disuguaglianze,topic_insiemi_funzioni,method_casework,method_disuguaglianze,skill_manipolazione_algebrica,skill_ragionamento_geometrico,skill_lettura_attenta"></span>
+<span class="atom-split" id="q21" data-atom="q21" data-title="Quesito 21" data-tags="topic_algebra,topic_disuguaglianze,topic_insiemi_funzioni,method_casework,method_disuguaglianze,method_fattorizzazione,skill_manipolazione_algebrica,skill_ragionamento_geometrico,skill_lettura_attenta"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -197,9 +191,9 @@ level: China Mathematical Competition
 > (20 marks) Find all real number pairs $(a, b)$, such that $f(x) = ax^2 + b$ satisfies $f(f(x)) \ge f(x)$ for any real numbers $x$.
 
 **Topic:** [[topic_algebra|Algebra]], [[topic_disuguaglianze|Disuguaglianze]], [[topic_insiemi_funzioni|Insiemi e funzioni]]
-**Metodo:** [[method_casework|Casework]], [[method_disuguaglianze|Disuguaglianze]]
+**Metodo:** [[method_casework|Casework]], [[method_disuguaglianze|Disuguaglianze]], [[method_fattorizzazione|Factorisation / algebraic manipulation]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
-**Area:** [[Algebra e Analisi]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
 **Risposta:** $\{(a,b) \mid 0 < b \le 1,\; 0 < a < 1,\; 2a + b \le 2\}$
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1cjmD7lTT4vb3nB3ylcVCHeHucUE2rNI0/view)
 
@@ -211,9 +205,8 @@ level: China Mathematical Competition
 
 > (20 punti) Trova tutte le coppie di numeri reali $(a, b)$ tali che $f(x) = ax^2 + b$ soddisfi $f(f(x)) \ge f(x)$ per ogni numero reale $x$.
 
+
 **Topic:** [[topic_algebra|Algebra]], [[topic_disuguaglianze|Disuguaglianze]], [[topic_insiemi_funzioni|Insiemi e funzioni]]
-**Metodo:** [[method_casework|Casework]], [[method_disuguaglianze|Disuguaglianze]]
+**Metodo:** [[method_casework|Casework]], [[method_disuguaglianze|Disuguaglianze]], [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Algebra e Analisi]]
-
-[[Quesiti/src_cn_cmc_2012#q21|src_cn_cmc_2012__Q21]]

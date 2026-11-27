@@ -10,7 +10,7 @@ level: JJMO Honsen
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_algebra,topic_aritmetica,method_casework,method_estremalita,skill_manipolazione_algebrica,skill_casework_accurato"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_algebra,topic_aritmetica,method_casework,method_estremalita,method_fattorizzazione,skill_manipolazione_algebrica,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -23,9 +23,9 @@ level: JJMO Honsen
 > find the largest possible number of them whose value is equal to $1$.
 
 **Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_casework|Casework]], [[method_estremalita|Estremalità]]
+**Metodo:** [[method_casework|Casework]], [[method_estremalita|Estremalità]], [[method_fattorizzazione|Factorisation / algebraic manipulation]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Casework accurato]]
-**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1UgUX3RXEgvDm3jGJSbFGNwaCoh5esb70/view)
 
 
@@ -39,12 +39,11 @@ level: JJMO Honsen
 > $$ab,\ ac,\ ad,\ bc,\ bd,\ cd,$$
 > trova il numero massimo possibile di esse il cui valore è uguale a $1$.
 
+
 **Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_casework|Casework]], [[method_estremalita|Estremalità]]
+**Metodo:** [[method_casework|Casework]], [[method_estremalita|Estremalità]], [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
-
-[[Quesiti/src_jjmo11mq_honsen#q01|src_jjmo11mq_honsen__Q01]]
 
 
 
@@ -90,11 +89,9 @@ level: JJMO Honsen
 **Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_astrazione|Astrazione]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 
-[[Quesiti/src_jjmo11mq_honsen#q02|src_jjmo11mq_honsen__Q02]]
 
 
-
-<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_aritmetica,method_congruenze,method_fattorizzazione,method_casework,skill_manipolazione_algebrica,skill_riconoscimento_pattern"></span>
+<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_aritmetica,method_congruenze,method_fattorizzazione,method_casework,skill_manipolazione_algebrica,skill_riconoscimento_pattern,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -106,8 +103,8 @@ level: JJMO Honsen
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_congruenze|Congruenze]], [[method_fattorizzazione|Fattorizzazione]], [[method_casework|Casework]]
-**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
-**Area:** [[Aritmetica e Teoria dei Numeri]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1UgUX3RXEgvDm3jGJSbFGNwaCoh5esb70/view)
 
 
@@ -119,16 +116,15 @@ level: JJMO Honsen
 > Per gli interi positivi $x, y$, si indichi con $\gcd(x, y)$ il massimo comune divisore di $x$ e $y$. Determinare tutte le triple di interi positivi $(a, b, c)$ che soddisfano
 > $$a = \gcd(b^2+1,\ c^2+1),\quad b = \gcd(c^2+1,\ a^2+1),\quad c = \gcd(a^2+1,\ b^2+1).$$
 
+
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_congruenze|Congruenze]], [[method_fattorizzazione|Fattorizzazione]], [[method_casework|Casework]]
-**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 
-[[Quesiti/src_jjmo11mq_honsen#q03|src_jjmo11mq_honsen__Q03]]
 
 
-
-<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_geometria_piana,method_trigonometria,method_simmetria,skill_ragionamento_geometrico,skill_astrazione"></span>
+<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_geometria_piana,topic_trigonometria,method_trigonometria,method_simmetria,skill_ragionamento_geometrico,skill_astrazione"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -137,10 +133,10 @@ level: JJMO Honsen
 
 > There is an acute triangle $ABC$ with $AB < AC$, whose orthocenter and incenter are $H$ and $I$ respectively. A point $J$ on side $AB$ and a point $K$ on side $BC$ satisfy $\angle HIK = 90^\circ$ and $AC = AJ + CK$. Express $\angle HJK$ in terms of $\angle BCA$. Here, $XY$ denotes the length of the segment $XY$.
 
-**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometry]]
 **Metodo:** [[method_trigonometria|Trigonometria]], [[method_simmetria|Simmetria]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_astrazione|Astrazione]]
-**Area:** [[Geometria]]
+**Area:** [[Geometria|Geometry]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1UgUX3RXEgvDm3jGJSbFGNwaCoh5esb70/view)
 
 
@@ -151,16 +147,15 @@ level: JJMO Honsen
 
 > Esiste un triangolo acuto $ABC$ con $AB < AC$, il cui ortocentro e incentro sono rispettivamente $H$ e $I$. Un punto $J$ sul lato $AB$ e un punto $K$ sul lato $BC$ soddisfano $\angle HIK = 90^\circ$ e $AC = AJ + CK$. Esprimi $\angle HJK$ in funzione di $\angle BCA$. Qui, $XY$ denota la lunghezza del segmento $XY$.
 
-**Topic:** [[topic_geometria_piana|Geometria piana]]
+
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometria]]
 **Metodo:** [[method_trigonometria|Trigonometria]], [[method_simmetria|Simmetria]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_astrazione|Astrazione]]
 **Area:** [[Geometria]]
 
-[[Quesiti/src_jjmo11mq_honsen#q04|src_jjmo11mq_honsen__Q04]]
 
 
-
-<span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_combinatoria,topic_logica,method_grafi,method_estremalita,method_doppio_conteggio,skill_modellizzazione,skill_conteggio_sistematico,skill_stima"></span>
+<span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_combinatoria,topic_logica,method_grafi,method_estremalita,method_doppio_conteggio,skill_modellizzazione,skill_conteggio_sistematico,skill_stima,skill_astrazione"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -177,8 +172,8 @@ level: JJMO Honsen
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_logica|Logica]]
 **Metodo:** [[method_grafi|Grafi]], [[method_estremalita|Estremalità]], [[method_doppio_conteggio|Doppio conteggio]]
-**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_stima|Stima]]
-**Area:** [[Combinatoria, Logica e Probabilita]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_stima|Stima]], [[skill_astrazione|Abstraction / generalisation]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1UgUX3RXEgvDm3jGJSbFGNwaCoh5esb70/view)
 
 
@@ -195,9 +190,8 @@ level: JJMO Honsen
 >
 > Per tutti i cittadini, è stato esaminato il numero di cittadini che ciascuno sorveglia e tali numeri sono stati sommati, ottenendo $K$. Inoltre, per qualsiasi ribellione organizzata da al massimo $n$ cittadini, esiste sempre un modo per reprimerla. Determinare il valore minimo possibile che $K$ può assumere. Si noti che, anche se il cittadino $A$ sorveglia il cittadino $B$, non è necessariamente vero che il cittadino $B$ sorveglia il cittadino $A$.
 
+
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_logica|Logica]]
 **Metodo:** [[method_grafi|Grafi]], [[method_estremalita|Estremalità]], [[method_doppio_conteggio|Doppio conteggio]]
-**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_stima|Stima]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_stima|Stima]], [[skill_astrazione|Astrazione / generalizzazione]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
-
-[[Quesiti/src_jjmo11mq_honsen#q05|src_jjmo11mq_honsen__Q05]]

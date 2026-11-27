@@ -10,7 +10,7 @@ level: kangourou
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_aritmetica,skill_conteggio_sistematico"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_aritmetica,method_casework,skill_conteggio_sistematico,skill_lettura_attenta"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -25,7 +25,8 @@ level: kangourou
 > E) 2 × 0 + 1 + 8
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Metodo:** [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta del testo]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** D
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1e6WZ2apl4gi-5bHd-yJtZquuH76eyJJZ/view)
@@ -43,15 +44,15 @@ level: kangourou
 > D) 2 × (0 + 1 + 8)	
 > E) 2 × 0 + 1 + 8
 
+
 **Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
-**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]], [[skill_lettura_attenta|Careful reading of the text]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
-[[Quesiti/src_kangourou_2018_student_marzo#q01|src_kangourou_2018_student_marzo__Q01]]
 
 
-
-<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_logica,topic_combinatoria,method_grafi,skill_ragionamento_geometrico"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_logica,topic_combinatoria,method_grafi,skill_ragionamento_geometrico,skill_modellizzazione"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -76,7 +77,7 @@ level: kangourou
 
 **Topic:** [[topic_logica|Logica, giochi, strategie]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_grafi|Teoria dei grafi]]
-**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** B
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1e6WZ2apl4gi-5bHd-yJtZquuH76eyJJZ/view)
@@ -99,12 +100,11 @@ level: kangourou
 >
 > E) 5
 
+
 **Topic:** [[topic_logica|Logic, games and strategies]], [[topic_combinatoria|Combinatorics]]
 **Metodo:** [[method_grafi|Graph theory]]
-**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_modellizzazione|Modelling / translating the text]]
 **Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
-
-[[Quesiti/src_kangourou_2018_student_marzo#q02|src_kangourou_2018_student_marzo__Q02]]
 
 
 
@@ -157,8 +157,6 @@ level: kangourou
 **Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
-[[Quesiti/src_kangourou_2018_student_marzo#q03|src_kangourou_2018_student_marzo__Q03]]
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_aritmetica,method_conteggio,skill_conteggio_sistematico"></span>
@@ -209,8 +207,6 @@ level: kangourou
 **Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
-[[Quesiti/src_kangourou_2018_student_marzo#q04|src_kangourou_2018_student_marzo__Q04]]
-
 
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_aritmetica,topic_algebra,method_simmetria,skill_manipolazione_algebrica"></span>
@@ -255,8 +251,6 @@ level: kangourou
 **Metodo:** [[method_simmetria|Using symmetry]]
 **Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
 **Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
-
-[[Quesiti/src_kangourou_2018_student_marzo#q05|src_kangourou_2018_student_marzo__Q05]]
 
 
 
@@ -320,11 +314,9 @@ level: kangourou
 **Abilita:** [[skill_casework_accurato|Careful case analysis]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
-[[Quesiti/src_kangourou_2018_student_marzo#q06|src_kangourou_2018_student_marzo__Q06]]
 
 
-
-<span class="atom-split" id="q07" data-atom="q07" data-title="Quesito 7" data-tags="topic_logica,topic_insiemi_funzioni,skill_lettura_attenta"></span>
+<span class="atom-split" id="q07" data-atom="q07" data-title="Quesito 7" data-tags="topic_logica,topic_insiemi_funzioni,method_casework,skill_lettura_attenta"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -347,8 +339,9 @@ level: kangourou
 > E) Su Venere non vivono extraterrestri verdi.
 
 **Topic:** [[topic_logica|Logica, giochi, strategie]], [[topic_insiemi_funzioni|Insiemi e funzioni]]
+**Metodo:** [[method_casework|Analisi per casi]]
 **Abilita:** [[skill_lettura_attenta|Lettura attenta del testo]]
-**Area:** [[Algebra e Analisi]], [[Combinatoria, Logica e Probabilita]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Algebra e Analisi]]
 **Risposta:** E
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1e6WZ2apl4gi-5bHd-yJtZquuH76eyJJZ/view)
 
@@ -371,11 +364,11 @@ level: kangourou
 >
 > E) No green extraterrestrials live on Venus.
 
-**Topic:** [[topic_logica|Logic, games and strategies]], [[topic_insiemi_funzioni|Sets and functions]]
-**Abilita:** [[skill_lettura_attenta|Careful reading]]
-**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
-[[Quesiti/src_kangourou_2018_student_marzo#q07|src_kangourou_2018_student_marzo__Q07]]
+**Topic:** [[topic_logica|Logic, games and strategies]], [[topic_insiemi_funzioni|Sets and functions]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_lettura_attenta|Careful reading]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Algebra e Analisi|Algebra and analysis]]
 
 
 
@@ -429,8 +422,6 @@ level: kangourou
 **Abilita:** [[skill_casework_accurato|Careful case analysis]]
 **Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
-[[Quesiti/src_kangourou_2018_student_marzo#q08|src_kangourou_2018_student_marzo__Q08]]
-
 
 
 <span class="atom-split" id="q09" data-atom="q09" data-title="Quesito 9" data-tags="topic_geometria_solida,topic_algebra,method_fattorizzazione,skill_manipolazione_algebrica"></span>
@@ -481,8 +472,6 @@ level: kangourou
 **Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
 **Area:** [[Algebra e Analisi|Algebra and analysis]], [[Geometria|Geometry]]
 
-[[Quesiti/src_kangourou_2018_student_marzo#q09|src_kangourou_2018_student_marzo__Q09]]
-
 
 
 <span class="atom-split" id="q10" data-atom="q10" data-title="Quesito 10" data-tags="topic_geometria_piana,skill_ragionamento_geometrico"></span>
@@ -529,11 +518,9 @@ level: kangourou
 **Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
 **Area:** [[Geometria|Geometry]]
 
-[[Quesiti/src_kangourou_2018_student_marzo#q10|src_kangourou_2018_student_marzo__Q10]]
 
 
-
-<span class="atom-split" id="q11" data-atom="q11" data-title="Quesito 11" data-tags="topic_combinatoria,topic_aritmetica,method_casework,skill_casework_accurato"></span>
+<span class="atom-split" id="q11" data-atom="q11" data-title="Quesito 11" data-tags="topic_combinatoria,topic_aritmetica,method_casework,skill_casework_accurato,skill_modellizzazione"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -562,8 +549,8 @@ level: kangourou
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_casework|Analisi per casi]]
-**Abilita:** [[skill_casework_accurato|Casework accurato]]
-**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+**Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** A
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1e6WZ2apl4gi-5bHd-yJtZquuH76eyJJZ/view)
 
@@ -587,16 +574,15 @@ level: kangourou
 > α 30° 40°
 >
 
+
 **Topic:** [[topic_combinatoria|Combinatorics]], [[topic_aritmetica|Arithmetic / Number theory]]
 **Metodo:** [[method_casework|Case analysis]]
-**Abilita:** [[skill_casework_accurato|Careful case analysis]]
-**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
-
-[[Quesiti/src_kangourou_2018_student_marzo#q11|src_kangourou_2018_student_marzo__Q11]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]], [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
 
 
-<span class="atom-split" id="q12" data-atom="q12" data-title="Quesito 12" data-tags="topic_geometria_solida,topic_algebra,skill_manipolazione_algebrica"></span>
+<span class="atom-split" id="q12" data-atom="q12" data-title="Quesito 12" data-tags="topic_geometria_solida,topic_algebra,skill_manipolazione_algebrica,skill_modellizzazione"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -619,8 +605,8 @@ level: kangourou
 > E) V = W
 
 **Topic:** [[topic_geometria_solida|Geometria solida]], [[topic_algebra|Algebra]]
-**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
-**Area:** [[Algebra e Analisi]], [[Geometria]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
+**Area:** [[Geometria]], [[Algebra e Analisi]]
 **Risposta:** B
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1e6WZ2apl4gi-5bHd-yJtZquuH76eyJJZ/view)
 
@@ -641,15 +627,14 @@ level: kangourou
 > D) V =      W
 > E) V = W
 
+
 **Topic:** [[topic_geometria_solida|Solid geometry]], [[topic_algebra|Algebra]]
-**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
-**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Geometria|Geometry]]
-
-[[Quesiti/src_kangourou_2018_student_marzo#q12|src_kangourou_2018_student_marzo__Q12]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Geometria|Geometry]], [[Algebra e Analisi|Algebra and analysis]]
 
 
 
-<span class="atom-split" id="q13" data-atom="q13" data-title="Quesito 13" data-tags="topic_geometria_solida,topic_insiemi_funzioni,skill_ragionamento_geometrico"></span>
+<span class="atom-split" id="q13" data-atom="q13" data-title="Quesito 13" data-tags="topic_geometria_solida,topic_insiemi_funzioni,skill_ragionamento_geometrico,skill_lettura_attenta,skill_modellizzazione"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -669,8 +654,8 @@ level: kangourou
 >          E)
 
 **Topic:** [[topic_geometria_solida|Geometria solida]], [[topic_insiemi_funzioni|Insiemi e funzioni]]
-**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
-**Area:** [[Algebra e Analisi]], [[Geometria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta del testo]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
+**Area:** [[Geometria]], [[Algebra e Analisi]]
 **Risposta:** D
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1e6WZ2apl4gi-5bHd-yJtZquuH76eyJJZ/view)
 
@@ -689,15 +674,14 @@ level: kangourou
 >          D) 	
 >          E)
 
+
 **Topic:** [[topic_geometria_solida|Solid geometry]], [[topic_insiemi_funzioni|Sets and functions]]
-**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
-**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Geometria|Geometry]]
-
-[[Quesiti/src_kangourou_2018_student_marzo#q13|src_kangourou_2018_student_marzo__Q13]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_lettura_attenta|Careful reading of the text]], [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Geometria|Geometry]], [[Algebra e Analisi|Algebra and analysis]]
 
 
 
-<span class="atom-split" id="q14" data-atom="q14" data-title="Quesito 14" data-tags="topic_algebra,topic_aritmetica,method_casework,skill_casework_accurato"></span>
+<span class="atom-split" id="q14" data-atom="q14" data-title="Quesito 14" data-tags="topic_algebra,topic_aritmetica,method_casework,skill_casework_accurato,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -718,7 +702,7 @@ level: kangourou
 
 **Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_casework|Analisi per casi]]
-**Abilita:** [[skill_casework_accurato|Casework accurato]]
+**Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** C
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1e6WZ2apl4gi-5bHd-yJtZquuH76eyJJZ/view)
@@ -741,12 +725,11 @@ level: kangourou
 >
 > E) 20
 
+
 **Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Arithmetic / Number theory]]
 **Metodo:** [[method_casework|Case analysis]]
-**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
 **Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
-
-[[Quesiti/src_kangourou_2018_student_marzo#q14|src_kangourou_2018_student_marzo__Q14]]
 
 
 
@@ -797,11 +780,9 @@ level: kangourou
 **Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
-[[Quesiti/src_kangourou_2018_student_marzo#q15|src_kangourou_2018_student_marzo__Q15]]
 
 
-
-<span class="atom-split" id="q16" data-atom="q16" data-title="Quesito 16" data-tags="topic_geometria_analitica,method_coordinate,skill_manipolazione_algebrica"></span>
+<span class="atom-split" id="q16" data-atom="q16" data-title="Quesito 16" data-tags="topic_geometria_analitica,method_coordinate,skill_manipolazione_algebrica,skill_ragionamento_geometrico"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -835,7 +816,7 @@ level: kangourou
 
 **Topic:** [[topic_geometria_analitica|Geometria analitica]]
 **Metodo:** [[method_coordinate|Metodo delle coordinate]]
-**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]]
 **Risposta:** D
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1e6WZ2apl4gi-5bHd-yJtZquuH76eyJJZ/view)
@@ -859,12 +840,11 @@ level: kangourou
 > 2---- 3 3---- 2 85 ---- 90 90 ---- 85
 >
 
+
 **Topic:** [[topic_geometria_analitica|Coordinate geometry]]
 **Metodo:** [[method_coordinate|Coordinate method]]
-**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_ragionamento_geometrico|Geometric reasoning]]
 **Area:** [[Geometria|Geometry]]
-
-[[Quesiti/src_kangourou_2018_student_marzo#q16|src_kangourou_2018_student_marzo__Q16]]
 
 
 
@@ -915,11 +895,9 @@ level: kangourou
 **Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
 **Area:** [[Geometria|Geometry]]
 
-[[Quesiti/src_kangourou_2018_student_marzo#q17|src_kangourou_2018_student_marzo__Q17]]
 
 
-
-<span class="atom-split" id="q18" data-atom="q18" data-title="Quesito 18" data-tags="topic_logica,skill_casework_accurato"></span>
+<span class="atom-split" id="q18" data-atom="q18" data-title="Quesito 18" data-tags="topic_logica,method_casework,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -930,6 +908,7 @@ level: kangourou
 > cinque pronostici:
 
 **Topic:** [[topic_logica|Logica, giochi, strategie]]
+**Metodo:** [[method_casework|Analisi per casi]]
 **Abilita:** [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** D
@@ -943,15 +922,15 @@ level: kangourou
 
 > Before the match between Real Madrid and Manchester United, the following five predictions were made:
 
+
 **Topic:** [[topic_logica|Logic, games and strategies]]
+**Metodo:** [[method_casework|Case analysis]]
 **Abilita:** [[skill_casework_accurato|Careful case analysis]]
 **Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
-[[Quesiti/src_kangourou_2018_student_marzo#q18|src_kangourou_2018_student_marzo__Q18]]
 
 
-
-<span class="atom-split" id="q19" data-atom="q19" data-title="Quesito 19" data-tags="topic_geometria_piana,method_congruenze,skill_ragionamento_geometrico"></span>
+<span class="atom-split" id="q19" data-atom="q19" data-title="Quesito 19" data-tags="topic_geometria_piana,topic_aritmetica,method_congruenze,skill_ragionamento_geometrico,skill_riconoscimento_pattern"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -962,10 +941,10 @@ level: kangourou
 
 > 19. Da un foglio di carta a righe ritagliamo un pentagono regolare. Lo facciamo ruotare di 21 gradi in verso antiorario, con il centro come perno: la figura mostra la posizione del pentagono dopo la prima rotazione. Quale sarà l’immagine che vedremo quando, per la prima volta, il pentagono si sovrapporrà esattamente al buco la­ sciato? A) B) C) D) E)
 
-**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]]
-**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
-**Area:** [[Geometria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Geometria]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** B
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1e6WZ2apl4gi-5bHd-yJtZquuH76eyJJZ/view)
 
@@ -979,16 +958,15 @@ level: kangourou
 
 > 19. From a sheet of lined paper, we cut out a regular pentagon. We rotate it 21 degrees counterclockwise, with its center as the pivot: the figure shows the position of the pentagon after the first rotation. What image will we see when, for the first time, the pentagon exactly overlaps the hole that was left? A) B) C) D) E)
 
-**Topic:** [[topic_geometria_piana|Plane geometry]]
+
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_aritmetica|Arithmetic / Number theory]]
 **Metodo:** [[method_congruenze|Modular arithmetic / congruences]]
-**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
-**Area:** [[Geometria|Geometry]]
-
-[[Quesiti/src_kangourou_2018_student_marzo#q19|src_kangourou_2018_student_marzo__Q19]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Geometria|Geometry]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
 
 
-<span class="atom-split" id="q20" data-atom="q20" data-title="Quesito 20" data-tags="topic_funzionali,method_ricorsione,skill_manipolazione_algebrica"></span>
+<span class="atom-split" id="q20" data-atom="q20" data-title="Quesito 20" data-tags="topic_funzionali,method_ricorsione,method_fattorizzazione,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -998,7 +976,7 @@ level: kangourou
 > 20. Sia f una funzione tale che f (x + y) = f (x) f (y) per tutti gli interi x e y. Se f (1) = 1/2, quanto vale f (0) + f (1) + f (2) + f (3)? A) 1/8 B) 3/2 C) 5/2 D) 15/8 E) 6 Kangourou 2018 pagina 29
 
 **Topic:** [[topic_funzionali|Equazioni funzionali / successioni]]
-**Metodo:** [[method_ricorsione|Ricorsione]]
+**Metodo:** [[method_ricorsione|Ricorsione]], [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Algebra e Analisi]]
 **Risposta:** D
@@ -1012,12 +990,11 @@ level: kangourou
 
 > 20. Let f be a function such that f(x + y) = f(x) f(y) for all integers x and y. If f(1) = 1/2, what is the value of f(0) + f(1) + f(2) + f(3)? A) 1/8 B) 3/2 C) 5/2 D) 15/8 E) 6 Kangourou 2018 page 29
 
+
 **Topic:** [[topic_funzionali|Functional equations / sequences]]
-**Metodo:** [[method_ricorsione|Recursion]]
+**Metodo:** [[method_ricorsione|Recursion]], [[method_fattorizzazione|Factorisation / algebraic manipulation]]
 **Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
 **Area:** [[Algebra e Analisi|Algebra and analysis]]
-
-[[Quesiti/src_kangourou_2018_student_marzo#q20|src_kangourou_2018_student_marzo__Q20]]
 
 
 
@@ -1054,11 +1031,9 @@ level: kangourou
 **Abilita:** [[skill_casework_accurato|Careful case analysis]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
-[[Quesiti/src_kangourou_2018_student_marzo#q21|src_kangourou_2018_student_marzo__Q21]]
 
 
-
-<span class="atom-split" id="q22" data-atom="q22" data-title="Quesito 22" data-tags="topic_geometria_analitica,topic_algebra,method_coordinate,skill_manipolazione_algebrica"></span>
+<span class="atom-split" id="q22" data-atom="q22" data-title="Quesito 22" data-tags="topic_geometria_analitica,topic_algebra,method_coordinate,method_fattorizzazione,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -1068,9 +1043,9 @@ level: kangourou
 > 22. Si fissi nel piano un sistema cartesiano ortogonale 0xy. Se la parabola di equazione y = $x^{2}$+ px + q è tale che a) interseca gli assi x e y in tre punti distinti; b) la circonferenza che passa per i tre punti di cui sopra interseca la parabola in un quarto punto A distinto dai tre precedenti, STUDENT quali sono le coordinate del punto A ? $q^{2}$ q A) (0,- q) B) (p, q) C) (- p, q) D) (- , ) ---- --- $p^{2}$ p E) (1, p + q + 1)
 
 **Topic:** [[topic_geometria_analitica|Geometria analitica]], [[topic_algebra|Algebra]]
-**Metodo:** [[method_coordinate|Metodo delle coordinate]]
+**Metodo:** [[method_coordinate|Metodo delle coordinate]], [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
-**Area:** [[Algebra e Analisi]], [[Geometria]]
+**Area:** [[Geometria]], [[Algebra e Analisi]]
 **Risposta:** C
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1e6WZ2apl4gi-5bHd-yJtZquuH76eyJJZ/view)
 
@@ -1082,16 +1057,15 @@ level: kangourou
 
 > 22. Fix an orthogonal Cartesian coordinate system 0xy in the plane. If the parabola with equation y = $x^{2}$ + px + q is such that a) it intersects the x- and y-axes at three distinct points; b) the circle passing through the three aforementioned points intersects the parabola at a fourth point A distinct from the three preceding ones, STUDENT, what are the coordinates of point A? $q^{2}$ q A) (0,- q) B) (p, q) C) (- p, q) D) (- , ) ---- --- $p^{2}$ p E) (1, p + q + 1)
 
+
 **Topic:** [[topic_geometria_analitica|Coordinate geometry]], [[topic_algebra|Algebra]]
-**Metodo:** [[method_coordinate|Coordinate method]]
+**Metodo:** [[method_coordinate|Coordinate method]], [[method_fattorizzazione|Factorisation / algebraic manipulation]]
 **Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
-**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Geometria|Geometry]]
-
-[[Quesiti/src_kangourou_2018_student_marzo#q22|src_kangourou_2018_student_marzo__Q22]]
+**Area:** [[Geometria|Geometry]], [[Algebra e Analisi|Algebra and analysis]]
 
 
 
-<span class="atom-split" id="q23" data-atom="q23" data-title="Quesito 23" data-tags="topic_combinatoria,topic_logica,method_fattorizzazione,skill_casework_accurato"></span>
+<span class="atom-split" id="q23" data-atom="q23" data-title="Quesito 23" data-tags="topic_combinatoria,topic_logica,method_fattorizzazione,method_casework,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -1103,7 +1077,7 @@ level: kangourou
 > 23. Il prisma in figura è formato da due triangoli e tre quadrati. I suoi vertici sono numerati da 1 a 6 in modo tale che la somma dei quattro vertici su ciascun quadrato sia la stessa per tutti i quadrati. Sono già stati numerati i vertici 1 e 5. Che numero contraddistingue il vertice segnato con x ? A) 2 B) 3 C) 4 D) 6 E) La numerazione non si può realizzare.
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_logica|Logica, giochi, strategie]]
-**Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]], [[method_casework|Analisi per casi]]
 **Abilita:** [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** A
@@ -1119,12 +1093,11 @@ level: kangourou
 
 > 23. The prism in the figure is made up of two triangles and three squares. Its vertices are numbered from 1 to 6 in such a way that the sum of the four vertices on each square is the same for all the squares. Vertices 1 and 5 have already been numbered. What number identifies the vertex marked with x? A) 2 B) 3 C) 4 D) 6 E) The numbering cannot be carried out.
 
+
 **Topic:** [[topic_combinatoria|Combinatorics]], [[topic_logica|Logic, games and strategies]]
-**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]], [[method_casework|Case analysis]]
 **Abilita:** [[skill_casework_accurato|Careful case analysis]]
 **Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
-
-[[Quesiti/src_kangourou_2018_student_marzo#q23|src_kangourou_2018_student_marzo__Q23]]
 
 
 
@@ -1157,11 +1130,9 @@ level: kangourou
 **Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
 **Area:** [[Algebra e Analisi|Algebra and analysis]]
 
-[[Quesiti/src_kangourou_2018_student_marzo#q24|src_kangourou_2018_student_marzo__Q24]]
 
 
-
-<span class="atom-split" id="q25" data-atom="q25" data-title="Quesito 25" data-tags="topic_algebra,method_casework,skill_casework_accurato"></span>
+<span class="atom-split" id="q25" data-atom="q25" data-title="Quesito 25" data-tags="topic_algebra,method_casework,skill_casework_accurato,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -1172,7 +1143,7 @@ level: kangourou
 
 **Topic:** [[topic_algebra|Algebra]]
 **Metodo:** [[method_casework|Analisi per casi]]
-**Abilita:** [[skill_casework_accurato|Casework accurato]]
+**Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Algebra e Analisi]]
 **Risposta:** B
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1e6WZ2apl4gi-5bHd-yJtZquuH76eyJJZ/view)
@@ -1185,12 +1156,11 @@ level: kangourou
 
 > 25. How many positive real solutions does the equation ||$x^{3}$ - 2| - 3| = 2 have? A) 2 B) 3 C) 4 D) 5 E) 6 Kangourou 2018 page 30
 
+
 **Topic:** [[topic_algebra|Algebra]]
 **Metodo:** [[method_casework|Case analysis]]
-**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
 **Area:** [[Algebra e Analisi|Algebra and analysis]]
-
-[[Quesiti/src_kangourou_2018_student_marzo#q25|src_kangourou_2018_student_marzo__Q25]]
 
 
 
@@ -1223,11 +1193,9 @@ level: kangourou
 **Abilita:** [[skill_casework_accurato|Careful case analysis]]
 **Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
-[[Quesiti/src_kangourou_2018_student_marzo#q26|src_kangourou_2018_student_marzo__Q26]]
 
 
-
-<span class="atom-split" id="q27" data-atom="q27" data-title="Quesito 27" data-tags="topic_probabilita,method_conteggio,skill_conteggio_sistematico"></span>
+<span class="atom-split" id="q27" data-atom="q27" data-title="Quesito 27" data-tags="topic_probabilita,method_conteggio,skill_conteggio_sistematico,skill_modellizzazione"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -1238,7 +1206,7 @@ level: kangourou
 
 **Topic:** [[topic_probabilita|Probabilita e statistica]]
 **Metodo:** [[method_conteggio|Conteggio combinatorio]]
-**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** C
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/1e6WZ2apl4gi-5bHd-yJtZquuH76eyJJZ/view)
@@ -1251,16 +1219,15 @@ level: kangourou
 
 > 27. Alberta rolls three fair six-sided dice (numbered from 1 to 6) and writes on a sheet of paper the highest number she gets. She rolls the three dice two more times, always writing down the highest number she gets, and then adds up the three numbers she has written. What is the probability that the sum is 18? A) 1 --- 69 B) C) D) E)
 
+
 **Topic:** [[topic_probabilita|Probability and statistics]]
 **Metodo:** [[method_conteggio|Combinatorial counting]]
-**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]], [[skill_modellizzazione|Modelling / translating the text]]
 **Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
-[[Quesiti/src_kangourou_2018_student_marzo#q27|src_kangourou_2018_student_marzo__Q27]]
 
 
-
-<span class="atom-split" id="q28" data-atom="q28" data-title="Quesito 28" data-tags="topic_geometria_piana,method_coordinate,skill_ragionamento_geometrico"></span>
+<span class="atom-split" id="q28" data-atom="q28" data-title="Quesito 28" data-tags="topic_geometria_piana,method_coordinate,method_simmetria,skill_ragionamento_geometrico"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -1303,7 +1270,7 @@ level: kangourou
 > 28. ABCDEF è un esagono regolare. G è il punto medio di AB. H ed I sono i punti di intersezione rispettivamente dei segmenti GD e GE con FC. Qual è il rapporto tra l’area del triangolo GIF e quella del trapezio IHDE? A) 1/2 B) 1/3 C) 1/4 D) 1/√3 E) √3/4
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
-**Metodo:** [[method_coordinate|Metodo delle coordinate]]
+**Metodo:** [[method_coordinate|Metodo delle coordinate]], [[method_simmetria|Sfruttamento della simmetria]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]]
 **Risposta:** A
@@ -1350,12 +1317,11 @@ level: kangourou
 
 > 28. ABCDEF is a regular hexagon. G is the midpoint of AB. H and I are the points of intersection of segments GD and GE with FC, respectively. What is the ratio of the area of triangle GIF to the area of trapezoid IHDE? A) 1/2 B) 1/3 C) 1/4 D) 1/√3 E) √3/4
 
+
 **Topic:** [[topic_geometria_piana|Plane geometry]]
-**Metodo:** [[method_coordinate|Coordinate method]]
+**Metodo:** [[method_coordinate|Coordinate method]], [[method_simmetria|Using symmetry]]
 **Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
 **Area:** [[Geometria|Geometry]]
-
-[[Quesiti/src_kangourou_2018_student_marzo#q28|src_kangourou_2018_student_marzo__Q28]]
 
 
 
@@ -1388,11 +1354,9 @@ level: kangourou
 **Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
-[[Quesiti/src_kangourou_2018_student_marzo#q29|src_kangourou_2018_student_marzo__Q29]]
 
 
-
-<span class="atom-split" id="q30" data-atom="q30" data-title="Quesito 30" data-tags="topic_probabilita,topic_aritmetica,method_fattorizzazione,skill_manipolazione_algebrica"></span>
+<span class="atom-split" id="q30" data-atom="q30" data-title="Quesito 30" data-tags="topic_probabilita,topic_aritmetica,method_fattorizzazione,method_conteggio,skill_manipolazione_algebrica,skill_modellizzazione"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -1402,9 +1366,9 @@ level: kangourou
 > 30. Tra i partecipanti a un Campo estivo il numero delle ragazze supera del 40 % quello dei ragazzi. La probabilità che una delegazione di due partecipanti scelta ca­ sualmente sia formata da una ragazza e da un ragazzo è esattamente 1/2. Quanti sono i partecipanti al Campo? A) 20 B) 24 C) 36 D) 38
 
 **Topic:** [[topic_probabilita|Probabilita e statistica]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
-**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
-**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]], [[method_conteggio|Conteggio combinatorio]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** C
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/1e6WZ2apl4gi-5bHd-yJtZquuH76eyJJZ/view)
 
@@ -1416,9 +1380,8 @@ level: kangourou
 
 > 30. Among the participants in a summer camp, the number of girls exceeds the number of boys by 40%. The probability that a delegation of two participants chosen at random consists of one girl and one boy is exactly 1/2. How many participants are there in the camp? A) 20 B) 24 C) 36 D) 38
 
-**Topic:** [[topic_probabilita|Probability and statistics]], [[topic_aritmetica|Arithmetic / Number theory]]
-**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
-**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
-**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
-[[Quesiti/src_kangourou_2018_student_marzo#q30|src_kangourou_2018_student_marzo__Q30]]
+**Topic:** [[topic_probabilita|Probability and statistics]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]], [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]

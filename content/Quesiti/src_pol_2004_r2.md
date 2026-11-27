@@ -10,7 +10,7 @@ level: Olimpiade Polacca Round 2
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_algebra,topic_disuguaglianze,method_simmetria,method_disuguaglianze,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_algebra,topic_disuguaglianze,method_simmetria,method_disuguaglianze,method_estremalita,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -25,9 +25,9 @@ level: Olimpiade Polacca Round 2
 > Prove that $a = b = c = d$.
 
 **Topic:** [[topic_algebra|Algebra]], [[topic_disuguaglianze|Disuguaglianze]]
-**Metodo:** [[method_simmetria|Simmetria]], [[method_disuguaglianze|Disuguaglianze]]
+**Metodo:** [[method_simmetria|Simmetria]], [[method_disuguaglianze|Disuguaglianze]], [[method_estremalita|Extremal principle]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
-**Area:** [[Algebra e Analisi]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1qs-4pQENG-aSe6lLcgW99_sE-sF3wP__/view)
 
 
@@ -48,15 +48,15 @@ level: Olimpiade Polacca Round 2
 >
 > Dimostrare che $a = b = c = d$.
 
+
 **Topic:** [[topic_algebra|Algebra]], [[topic_disuguaglianze|Disuguaglianze]]
-**Metodo:** [[method_simmetria|Simmetria]], [[method_disuguaglianze|Disuguaglianze]]
+**Metodo:** [[method_simmetria|Simmetria]], [[method_disuguaglianze|Disuguaglianze]], [[method_estremalita|Principio di estremalita]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
-
-[[Quesiti/src_pol_2004_r2#q01|src_pol_2004_r2__Q01]]
-
+**Area:** [[Algebra e Analisi]]
 
 
-<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_geometria_piana,method_trigonometria,method_simmetria,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
+
+<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_geometria_piana,topic_trigonometria,method_trigonometria,method_simmetria,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -67,10 +67,10 @@ level: Olimpiade Polacca Round 2
 > $$\angle A + \angle C + \angle E = \angle B + \angle D + \angle F.$$
 > Prove that the diagonals $AD$, $BE$, and $CF$ are concurrent.
 
-**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometry]]
 **Metodo:** [[method_trigonometria|Trigonometria]], [[method_simmetria|Simmetria]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
-**Area:** [[Geometria]]
+**Area:** [[Geometria|Geometry]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1qs-4pQENG-aSe6lLcgW99_sE-sF3wP__/view)
 
 
@@ -85,15 +85,15 @@ level: Olimpiade Polacca Round 2
 >
 > Dimostrare che le diagonali $AD$, $BE$ e $CF$ concorrono.
 
-**Topic:** [[topic_geometria_piana|Geometria piana]]
+
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometria]]
 **Metodo:** [[method_trigonometria|Trigonometria]], [[method_simmetria|Simmetria]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
-
-[[Quesiti/src_pol_2004_r2#q02|src_pol_2004_r2__Q02]]
-
+**Area:** [[Geometria]]
 
 
-<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_algebra,topic_aritmetica,method_casework,method_congruenze,skill_riconoscimento_pattern,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
+
+<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_algebra,topic_aritmetica,topic_funzionali,method_casework,method_congruenze,skill_riconoscimento_pattern,skill_manipolazione_algebrica,skill_lettura_attenta,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -104,10 +104,10 @@ level: Olimpiade Polacca Round 2
 > $$a_{mn} = a_m a_n$$
 > for all $m, n$ and have the property: Among any three successive terms $a_n, a_{n+1}, a_{n+2}$, both $1$ and $-1$ occur.
 
-**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_funzionali|Functional equations / sequences]]
 **Metodo:** [[method_casework|Casework]], [[method_congruenze|Congruenze]]
-**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
-**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1qs-4pQENG-aSe6lLcgW99_sE-sF3wP__/view)
 
 
@@ -122,15 +122,15 @@ level: Olimpiade Polacca Round 2
 >
 > per ogni $m, n$, e che hanno la proprietà seguente: fra tre termini consecutivi qualunque $a_n, a_{n+1}, a_{n+2}$ compaiono sia $1$ sia $-1$.
 
-**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica e teoria dei numeri]]
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica e teoria dei numeri]], [[topic_funzionali|Equazioni funzionali / successioni]]
 **Metodo:** [[method_casework|Analisi per casi]], [[method_congruenze|Congruenze]]
-**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di schemi]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
-
-[[Quesiti/src_pol_2004_r2#q03|src_pol_2004_r2__Q03]]
-
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di schemi]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 
 
-<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_aritmetica,method_fattorizzazione,method_casework,skill_manipolazione_algebrica,skill_riconoscimento_pattern"></span>
+
+<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_aritmetica,method_fattorizzazione,method_casework,skill_manipolazione_algebrica,skill_riconoscimento_pattern,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -141,8 +141,8 @@ level: Olimpiade Polacca Round 2
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_casework|Casework]]
-**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
-**Area:** [[Aritmetica e Teoria dei Numeri]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1qs-4pQENG-aSe6lLcgW99_sE-sF3wP__/view)
 
 
@@ -153,15 +153,15 @@ level: Olimpiade Polacca Round 2
 
 > Trovare tutti gli interi positivi $n$ che hanno esattamente $\sqrt{n}$ divisori positivi.
 
+
 **Topic:** [[topic_aritmetica|Aritmetica e teoria dei numeri]]
 **Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_casework|Analisi per casi]]
-**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di schemi]]
-
-[[Quesiti/src_pol_2004_r2#q04|src_pol_2004_r2__Q04]]
-
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di schemi]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
 
 
-<span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_geometria_piana,method_trigonometria,method_simmetria,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
+
+<span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_geometria_piana,topic_trigonometria,method_trigonometria,method_simmetria,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -170,10 +170,10 @@ level: Olimpiade Polacca Round 2
 
 > Points $D$ and $E$ respectively are taken on the sides $BC$ and $CA$ of a triangle $ABC$ such that $BD = AE$. Segments $AD$ and $BE$ meet at $P$. The bisector of $\angle ACB$ intersects segments $AD$ and $BE$ at $Q$ and $R$ respectively. Prove that $\frac{PQ}{AD} = \frac{PR}{BE}$.
 
-**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometry]]
 **Metodo:** [[method_trigonometria|Trigonometria]], [[method_simmetria|Simmetria]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
-**Area:** [[Geometria]]
+**Area:** [[Geometria|Geometry]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1qs-4pQENG-aSe6lLcgW99_sE-sF3wP__/view)
 
 
@@ -184,11 +184,11 @@ level: Olimpiade Polacca Round 2
 
 > Si prendono i punti $D$ e $E$ rispettivamente sui lati $BC$ e $CA$ di un triangolo $ABC$, in modo che $BD = AE$. I segmenti $AD$ e $BE$ si incontrano in $P$. La bisettrice di $\angle ACB$ interseca i segmenti $AD$ e $BE$ in $Q$ e $R$ rispettivamente. Dimostrare che $\frac{PQ}{AD} = \frac{PR}{BE}$.
 
-**Topic:** [[topic_geometria_piana|Geometria piana]]
+
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometria]]
 **Metodo:** [[method_trigonometria|Trigonometria]], [[method_simmetria|Simmetria]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
-
-[[Quesiti/src_pol_2004_r2#q05|src_pol_2004_r2__Q05]]
+**Area:** [[Geometria]]
 
 
 
@@ -218,5 +218,4 @@ level: Olimpiade Polacca Round 2
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_grafi|Grafi]], [[method_estremalita|Estremalità]], [[method_induzione|Induzione]]
 **Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
-
-[[Quesiti/src_pol_2004_r2#q06|src_pol_2004_r2__Q06]]
+**Area:** [[Combinatoria, Logica e Probabilita]]

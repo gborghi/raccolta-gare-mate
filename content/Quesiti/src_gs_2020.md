@@ -10,7 +10,7 @@ level: squadre
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_combinatoria"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_combinatoria,method_casi_conteggio,skill_conteggio_sistematico,skill_casework_accurato,skill_lettura_attenta"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -27,9 +27,11 @@ level: squadre
 > m\_1 = a\_2 e m\_2 = a\_1?
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casi_conteggio|Conteggio per casi]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]], [[skill_lettura_attenta|Lettura attenta del testo]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0121
-**Fonte:** apri PDF p.2 · phiquadro.it, Archivio gare ufficiali 2020 (= fairmath.it, Coppa Gauss 2020)
+**Fonte:** [apri PDF p.2](https://www.phiquadro.it/archivio/2020_8%20giugno%20-%20Gara.pdf#page=2) · phiquadro.it, Archivio gare ufficiali 2020 (= fairmath.it, Coppa Gauss 2020)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -42,14 +44,15 @@ level: squadre
 > Which Branch of the Lake (Silvia Sconza)
 > A.M. That branch of Lake Como which faces south, between two unbroken ranges of mountains... Tira-dritto (Addressing Sfregiato) How many dates between 1 January 1000 and 1 January 3000 are palindromic—that is, such that, when written in the format g_1g_2/m_1m_2/a_1a_2a_3a_4, g_1 = a_4, g_2 = a_3, m_1 = a_2, and m_2 = a_1?
 
+
 **Topic:** [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_casi_conteggio|Counting by cases]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]], [[skill_casework_accurato|Careful case analysis]], [[skill_lettura_attenta|Careful reading of the text]]
 **Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
-[[Quesiti/src_gs_2020#q01|src_gs_2020__Q01]]
 
 
-
-<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_aritmetica"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_aritmetica,method_fattorizzazione,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -70,9 +73,11 @@ level: squadre
 > Sapete indovinare a che pagina sono arrivato?
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 0008
-**Fonte:** apri PDF p.2 · phiquadro.it, Archivio gare ufficiali 2020 (= fairmath.it, Coppa Gauss 2020)
+**Fonte:** [apri PDF p.2](https://www.phiquadro.it/archivio/2020_8%20giugno%20-%20Gara.pdf#page=2) · phiquadro.it, Archivio gare ufficiali 2020 (= fairmath.it, Coppa Gauss 2020)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -85,14 +90,15 @@ level: squadre
 > The Meeting (Sandro Campigotto)
 > A.M. (Irritated by the interruption) Along a little road, Don Abbondio was quite pleasantly making his way back home from his walk, reading his breviary. On the first page, the number 1 was given; on the second, the numbers 1 and 2; on the third, 1, 2, and 3... and so on. Don Abbondio was praying, but first he would add up all the numbers given so far: 1 on the first page, 4 on the second, and so on. When the parish priest turned off onto the little lane and, as was his habit, directed his gaze toward the tabernacle, he saw something he hadn't expected—precisely when the sum he was calculating became a three-digit number for the first time... Don Abbondio (Addressing the bravi who were counting on their fingers) I see you're interested in mathematics. Can you guess which page I've reached?
 
+
 **Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
-[[Quesiti/src_gs_2020#q02|src_gs_2020__Q02]]
 
 
-
-<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags=""></span>
+<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_algebra,method_fattorizzazione,skill_lettura_attenta,skill_manipolazione_algebrica,skill_modellizzazione"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -116,8 +122,12 @@ level: squadre
 > [Dare come risposta la somma di numeratore e denominatore della frazione ridotta ai minimi
 > termini]
 
+**Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
+**Abilita:** [[skill_lettura_attenta|Lettura attenta del testo]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
+**Area:** [[Algebra e Analisi]]
 **Risposta:** 0043
-**Fonte:** apri PDF p.2 · phiquadro.it, Archivio gare ufficiali 2020 (= fairmath.it, Coppa Gauss 2020)
+**Fonte:** [apri PDF p.2](https://www.phiquadro.it/archivio/2020_8%20giugno%20-%20Gara.pdf#page=2) · phiquadro.it, Archivio gare ufficiali 2020 (= fairmath.it, Coppa Gauss 2020)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -130,11 +140,14 @@ level: squadre
 > It shouldn't be done (Sandro Campigotto)
 > Sfregiato (Taken aback by the question Don Abbondio had put to him): Mr. Parish Priest. Don Abbondio: What do you command? Sfregiato: You intend to marry Renzo Tramaglino and Lucia Mondella tomorrow! Don Abbondio (in a trembling voice): That is to say... You gentlemen are men of the world and know perfectly well how these matters go. The poor parish priest has nothing to do with it: they make a mess of things among themselves, and then... and then they come to us as if they were going to a counter to collect. You know... it's as if I had a jewel and wanted to sell it to the Pawnshop. I know that they offer me four-fifths of its value, so I tell them it's worth a quarter more in order to get the right price. Only the last time I got a tenth less than the value I had estimated. Sfregiato: Very well—this marriage is not to take place, neither tomorrow nor ever, and don't come to me with any fraction. A.M.: What was the actual fraction applied by the Pawnshop? [Give as the answer the sum of the numerator and denominator of the fraction reduced to lowest terms]
 
-[[Quesiti/src_gs_2020#q03|src_gs_2020__Q03]]
+**Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_lettura_attenta|Careful reading of the text]], [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
 
 
 
-<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_algebra"></span>
+<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_algebra,skill_modellizzazione,skill_lettura_attenta,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -163,9 +176,10 @@ level: squadre
 > Don Abbondio Ma quanti centilitri m’ha fatto bere?
 
 **Topic:** [[topic_algebra|Algebra]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_lettura_attenta|Lettura attenta del testo]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Algebra e Analisi]]
 **Risposta:** 0035
-**Fonte:** apri PDF p.2 · phiquadro.it, Archivio gare ufficiali 2020 (= fairmath.it, Coppa Gauss 2020)
+**Fonte:** [apri PDF p.2](https://www.phiquadro.it/archivio/2020_8%20giugno%20-%20Gara.pdf#page=2) · phiquadro.it, Archivio gare ufficiali 2020 (= fairmath.it, Coppa Gauss 2020)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -178,14 +192,14 @@ level: squadre
 > Gossip (Sandro Campigotto)
 > Perpetua Misericordia! What's wrong, sir master? Don Abbondio: Nothing, nothing. Perpetua: Something you can't even tell me? Who'll look after your health? Who'll give you advice? ... Don Abbondio: Alas! Be quiet, and don't lay out anything else: give me a glass of my wine. Perpetua (filling the glass halfway and then holding it in her hand, as if she meant to hand it over only as a reward for the confidence that had taken so long to come): And you'll still try to maintain that you're not ill! Don Abbondio: Here, give it here. (He takes the glass with a hand that isn't very steady and drains it quickly, as if it were medicine.) Perpetua (filling Don Abbondio's glass again to three-quarters full): So you want me to be forced to go around asking people what's happened to my master? Don Abbondio: For heaven's sake! Don't gossip, don't make a racket: it's a matter of... it's a matter of life and death! Perpetua: You're knocking back one of these bottles in five full glasses. There's a little more than a litre left... I'd say 105 centilitres. Do you want these too? Don Abbondio: But how many centilitres have you made me drink?
 
+
 **Topic:** [[topic_algebra|Algebra]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]], [[skill_lettura_attenta|Careful reading of the text]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
 **Area:** [[Algebra e Analisi|Algebra and analysis]]
 
-[[Quesiti/src_gs_2020#q04|src_gs_2020__Q04]]
 
 
-
-<span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_aritmetica"></span>
+<span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_aritmetica,method_congruenze,skill_modellizzazione,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -202,9 +216,11 @@ level: squadre
 > sicuramente meno di 200 soldi. Vado a pagare per tutti: quanto posso spendere al massimo?
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 1105
-**Fonte:** apri PDF p.3 · phiquadro.it, Archivio gare ufficiali 2020 (= fairmath.it, Coppa Gauss 2020)
+**Fonte:** [apri PDF p.3](https://www.phiquadro.it/archivio/2020_8%20giugno%20-%20Gara.pdf#page=3) · phiquadro.it, Archivio gare ufficiali 2020 (= fairmath.it, Coppa Gauss 2020)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -217,14 +233,15 @@ level: squadre
 > At the Inn (Silvia Sconza)
 > Renzo (At the table with Egidio and Tonio): Leave it—I'll pay for all of us. Egidio: Thanks! My bill is a third of Tonio's. Tonio: My bill is a third of yours, Renzo. Renzo: Each of us three ordered four dishes. Each dish costs a multiple of 5 soldi and is certainly less than 200 soldi. I'll go pay for all of us—what's the maximum I can spend?
 
+
 **Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
-[[Quesiti/src_gs_2020#q05|src_gs_2020__Q05]]
 
 
-
-<span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags=""></span>
+<span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_funzionali,method_estremalita,method_ricorsione,skill_modellizzazione,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -243,8 +260,12 @@ level: squadre
 > altrimenti i follicoli si irriteranno e rovinerai tutto il lavoro fatto. Perciò oggi non fartela più.
 > A.M. Quanti millimetri può essere lunga al massimo la barba di Renzo il giorno del matrimonio?
 
+**Topic:** [[topic_funzionali|Equazioni funzionali / successioni]]
+**Metodo:** [[method_estremalita|Principio di estremalita]], [[method_ricorsione|Ricorsione]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Algebra e Analisi]]
 **Risposta:** 0129
-**Fonte:** apri PDF p.3 · phiquadro.it, Archivio gare ufficiali 2020 (= fairmath.it, Coppa Gauss 2020)
+**Fonte:** [apri PDF p.3](https://www.phiquadro.it/archivio/2020_8%20giugno%20-%20Gara.pdf#page=3) · phiquadro.it, Archivio gare ufficiali 2020 (= fairmath.it, Coppa Gauss 2020)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -257,11 +278,14 @@ level: squadre
 > What a bore (Simone Traverso)
 > Agnese: There are 14 days left until your wedding; fashion today calls for the groom to have the longest possible beard. Renzo (desperately touching his cheeks): I'm smooth-shaven. Agnese: Think it through, my son! Your beard grows half a millimeter a day; but every time you shave it completely off using this balm, the hair-growth rate will be 1.5 times that of the previous day. But be careful: don't shave more than once a day, or the follicles will become irritated and you'll ruin all the work that's been done. So don't shave today. A.M.: At most, how many millimeters long can Renzo's beard be on the day of the wedding?
 
-[[Quesiti/src_gs_2020#q06|src_gs_2020__Q06]]
+**Topic:** [[topic_funzionali|Functional equations / sequences]]
+**Metodo:** [[method_estremalita|Extremal principle]], [[method_ricorsione|Recursion]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
 
 
 
-<span class="atom-split" id="q07" data-atom="q07" data-title="Quesito 7" data-tags="topic_geometria_piana"></span>
+<span class="atom-split" id="q07" data-atom="q07" data-title="Quesito 7" data-tags="topic_geometria_piana,topic_algebra,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -279,10 +303,11 @@ level: squadre
 > r\_5 = (1/3)r\_4, e l’ultima ha raggio r\_6 = (1/3)r\_5.
 > Renzo (Inebetito) Ma quanto misura r\_1 in cm?
 
-**Topic:** [[topic_geometria_piana|Geometria piana]]
-**Area:** [[Geometria]]
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_algebra|Algebra]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]], [[Algebra e Analisi]]
 **Risposta:** 5070
-**Fonte:** apri PDF p.3 · phiquadro.it, Archivio gare ufficiali 2020 (= fairmath.it, Coppa Gauss 2020)
+**Fonte:** [apri PDF p.3](https://www.phiquadro.it/archivio/2020_8%20giugno%20-%20Gara.pdf#page=3) · phiquadro.it, Archivio gare ufficiali 2020 (= fairmath.it, Coppa Gauss 2020)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -295,14 +320,14 @@ level: squadre
 > The Trail (Cecilia Oliveri)
 > Tonio Renzo, the shape of the dance floor for the wedding is dictated by tradition: it must be enclosed within a decagon with a perimeter of 202 m. Each vertex of the decagon coincides with the center of a circle, and the circles whose centers are two adjacent vertices are tangent. If the largest circle has radius r_1, two other circles have radius r_2 = (1/3)r_1; then two have radius r_3 = (1/3)r_2, two more have radius r_4 = (1/3)r_3, then two more have radius r_5 = (1/3)r_4, and the last one has radius r_6 = (1/3)r_5. Renzo (Stunned): But how long is r_1 in cm?
 
-**Topic:** [[topic_geometria_piana|Plane geometry]]
-**Area:** [[Geometria|Geometry]]
 
-[[Quesiti/src_gs_2020#q07|src_gs_2020__Q07]]
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_algebra|Algebra]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Geometria|Geometry]], [[Algebra e Analisi|Algebra and analysis]]
 
 
 
-<span class="atom-split" id="q08" data-atom="q08" data-title="Quesito 8" data-tags="topic_combinatoria"></span>
+<span class="atom-split" id="q08" data-atom="q08" data-title="Quesito 8" data-tags="topic_combinatoria,method_conteggio,method_casi_conteggio,skill_conteggio_sistematico"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -328,9 +353,11 @@ level: squadre
 > Don Abbondio Non lo so. . . ma quando avrò finito ve lo farò sapere.
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_conteggio|Conteggio combinatorio]], [[method_casi_conteggio|Conteggio per casi]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 3600
-**Fonte:** apri PDF p.3 · phiquadro.it, Archivio gare ufficiali 2020 (= fairmath.it, Coppa Gauss 2020)
+**Fonte:** [apri PDF p.3](https://www.phiquadro.it/archivio/2020_8%20giugno%20-%20Gara.pdf#page=3) · phiquadro.it, Archivio gare ufficiali 2020 (= fairmath.it, Coppa Gauss 2020)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -343,14 +370,15 @@ level: squadre
 > The Day (Sandro Campigotto)
 > Renzo: I've come, Father, to find out what time it suits you for us to meet in the church. Don Abbondio: Which day do you want to talk about? Renzo: What, which day? Don't you remember that it was fixed for today? Don Abbondio: Today? Today, today... Bear with me, but today I can't. Renzo: You can't today! What's come up? Don Abbondio: First of all, I'm not feeling well, you see. Renzo: I'm sorry; but what you have to do will take so little time and be such a small effort... Don Abbondio: And then, and then, and then... Renzo: And then what? Don Abbondio: And then there's some complications. For example. On these papers, I'm required to write all the anagrams of the word "MATRIMONIO" in which no vowel is next to another vowel and no consonant is next to another consonant. It'll take me some time. Renzo: But how many are there? Don Abbondio: I don't know... but when I've finished, I'll let you know.
 
+
 **Topic:** [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_conteggio|Combinatorial counting]], [[method_casi_conteggio|Counting by cases]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
 **Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
-[[Quesiti/src_gs_2020#q08|src_gs_2020__Q08]]
 
 
-
-<span class="atom-split" id="q09" data-atom="q09" data-title="Quesito 9" data-tags="topic_aritmetica"></span>
+<span class="atom-split" id="q09" data-atom="q09" data-title="Quesito 9" data-tags="topic_aritmetica,method_congruenze,method_casework,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -373,9 +401,11 @@ level: squadre
 > Renzo Quali sono?
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]], [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 9660
-**Fonte:** apri PDF p.3 · phiquadro.it, Archivio gare ufficiali 2020 (= fairmath.it, Coppa Gauss 2020)
+**Fonte:** [apri PDF p.3](https://www.phiquadro.it/archivio/2020_8%20giugno%20-%20Gara.pdf#page=3) · phiquadro.it, Archivio gare ufficiali 2020 (= fairmath.it, Coppa Gauss 2020)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -388,14 +418,15 @@ level: squadre
 > Returning from the Spinning Mill (Silvia Sconza)
 > Lucia: Now I'll tell you everything. Agnese: Talk, talk! Renzo (Together): Talk, talk! Lucia: Holy Virgin! Who would have believed that things could have come to this? On my way back from the spinning mill, Don Rodrigo had passed in front of me and asked me what the largest five-digit natural number was such that every pair of adjacent digits formed a number divisible by 2, every triple of adjacent digits formed a number divisible by 3, every quartet of adjacent digits formed a number divisible by 4, and the five-digit number itself was divisible by 5. Agnese (In the background, Milva sings La filanda): Did you answer him? Lucia: Of course! But I only told him the first four digits from the left of the number. Renzo: What are they?
 
+
 **Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]], [[method_casework|Case analysis]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
-[[Quesiti/src_gs_2020#q09|src_gs_2020__Q09]]
 
 
-
-<span class="atom-split" id="q10" data-atom="q10" data-title="Quesito 10" data-tags="topic_aritmetica"></span>
+<span class="atom-split" id="q10" data-atom="q10" data-title="Quesito 10" data-tags="topic_aritmetica,method_fattorizzazione,skill_riconoscimento_pattern,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -412,9 +443,11 @@ level: squadre
 > Azzeccagarbugli Diavolo! Possibile che non sappiate dirle chiare le cose!
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 0048
-**Fonte:** apri PDF p.3 · phiquadro.it, Archivio gare ufficiali 2020 (= fairmath.it, Coppa Gauss 2020)
+**Fonte:** [apri PDF p.3](https://www.phiquadro.it/archivio/2020_8%20giugno%20-%20Gara.pdf#page=3) · phiquadro.it, Archivio gare ufficiali 2020 (= fairmath.it, Coppa Gauss 2020)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -427,14 +460,15 @@ level: squadre
 > Tangled Up (Giulia Gaggero)
 > Azzeccagarbugli: You've got to tell the lawyer things clearly—then it's up to us to muddle them up. Renzo: Good! Starting from n = 1, for each positive integer n I write the difference between the square of the number that comes after n and the square of n. Up to what number n must I go to find 24 prime numbers among the differences I've written? Azzeccagarbugli: Damn! Is it possible you can't state things clearly?!
 
+
 **Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
-[[Quesiti/src_gs_2020#q10|src_gs_2020__Q10]]
 
 
-
-<span class="atom-split" id="q11" data-atom="q11" data-title="Quesito 11" data-tags="topic_geometria_piana"></span>
+<span class="atom-split" id="q11" data-atom="q11" data-title="Quesito 11" data-tags="topic_geometria_piana,topic_combinatoria,method_conteggio,skill_ragionamento_geometrico,skill_conteggio_sistematico"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -449,10 +483,12 @@ level: squadre
 > Renzo Quanti sono i triangoli rettangoli, che le travi, o parti di esse formano e che hanno il
 > vertice dell’angolo retto sul perimetro dell’icosagono?
 
-**Topic:** [[topic_geometria_piana|Geometria piana]]
-**Area:** [[Geometria]]
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_conteggio|Conteggio combinatorio]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Geometria]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 3300
-**Fonte:** apri PDF p.4 · phiquadro.it, Archivio gare ufficiali 2020 (= fairmath.it, Coppa Gauss 2020)
+**Fonte:** [apri PDF p.4](https://www.phiquadro.it/archivio/2020_8%20giugno%20-%20Gara.pdf#page=4) · phiquadro.it, Archivio gare ufficiali 2020 (= fairmath.it, Coppa Gauss 2020)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -465,14 +501,15 @@ level: squadre
 > The Ceiling (Luca Renzi)
 > Tonio: The chapel has twenty walls—it is an icosagon. The decoration I made for the ceiling consists of thin beams that trace the 20 sides and the 170 diagonals. Renzo: How many right-angled triangles are there that are formed by the beams, or by parts of them, and that have their right-angled vertex on the perimeter of the icosagon?
 
-**Topic:** [[topic_geometria_piana|Plane geometry]]
-**Area:** [[Geometria|Geometry]]
 
-[[Quesiti/src_gs_2020#q11|src_gs_2020__Q11]]
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Geometria|Geometry]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
 
 
-<span class="atom-split" id="q12" data-atom="q12" data-title="Quesito 12" data-tags="topic_probabilita"></span>
+<span class="atom-split" id="q12" data-atom="q12" data-title="Quesito 12" data-tags="topic_probabilita,topic_combinatoria,method_casework,method_conteggio,skill_conteggio_sistematico,skill_modellizzazione"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -491,10 +528,12 @@ level: squadre
 > [Dare come risposta la somma di numeratore e denominatore della frazione ridotta ai minimi
 > termini]
 
-**Topic:** [[topic_probabilita|Probabilita e statistica]]
+**Topic:** [[topic_probabilita|Probabilita e statistica]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casework|Analisi per casi]], [[method_conteggio|Conteggio combinatorio]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0027
-**Fonte:** apri PDF p.4 · phiquadro.it, Archivio gare ufficiali 2020 (= fairmath.it, Coppa Gauss 2020)
+**Fonte:** [apri PDF p.4](https://www.phiquadro.it/archivio/2020_8%20giugno%20-%20Gara.pdf#page=4) · phiquadro.it, Archivio gare ufficiali 2020 (= fairmath.it, Coppa Gauss 2020)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -507,14 +546,15 @@ level: squadre
 > The Queue (Luca Renzi)
 > Agnese: Look at these six packages in a row. Menico: Sure, Auntie! They all look the same. Do you want me to put them in no particular order? Agnese: Exactly! I want you to choose a permutation of the six packages and repeat it three times in a row. Menico: Auntie, what's the probability that, after permuting them three times with the same permutation, at least one package will have returned to the position it occupies now? [Give as the answer the sum of the numerator and denominator of the fraction reduced to lowest terms]
 
-**Topic:** [[topic_probabilita|Probability and statistics]]
+
+**Topic:** [[topic_probabilita|Probability and statistics]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_casework|Case analysis]], [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]], [[skill_modellizzazione|Modelling / translating the text]]
 **Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
-[[Quesiti/src_gs_2020#q12|src_gs_2020__Q12]]
 
 
-
-<span class="atom-split" id="q13" data-atom="q13" data-title="Quesito 13" data-tags="topic_combinatoria,topic_algebra"></span>
+<span class="atom-split" id="q13" data-atom="q13" data-title="Quesito 13" data-tags="topic_combinatoria,topic_algebra,topic_aritmetica,method_ricorsione,skill_riconoscimento_pattern,skill_modellizzazione"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -532,10 +572,12 @@ level: squadre
 > Bravo a guardia dell’ingresso Per entrare devi dimostrare di non essere un robot: rispondi alla
 > domanda seguente. Quanti sono i polinomi P(x) con coefficienti 0,1 o 2 e tali che P(2) = 2020?
 
-**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_algebra|Algebra]]
-**Area:** [[Combinatoria, Logica e Probabilita]], [[Algebra e Analisi]]
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_ricorsione|Ricorsione]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 0051
-**Fonte:** apri PDF p.4 · phiquadro.it, Archivio gare ufficiali 2020 (= fairmath.it, Coppa Gauss 2020)
+**Fonte:** [apri PDF p.4](https://www.phiquadro.it/archivio/2020_8%20giugno%20-%20Gara.pdf#page=4) · phiquadro.it, Archivio gare ufficiali 2020 (= fairmath.it, Coppa Gauss 2020)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -548,14 +590,15 @@ level: squadre
 > I'm Not a Robot (Andrea Giusto)
 > Fra Cristoforo is in front of Don Rodrigo's castle. A sign says: No entry for robots and Lombards. Fra Cristoforo: Let me in. Bravo, the gatekeeper: Brother, you can't read. Fra Cristoforo: Of course! I'm from ***; I'm not a Lombard. Bravo, the gatekeeper: To get in, you have to prove you're not a robot: answer the following question. How many polynomials P(x) are there with coefficients 0, 1, or 2 such that P(2) = 2020?
 
-**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_algebra|Algebra]]
-**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Algebra e Analisi|Algebra and analysis]]
 
-[[Quesiti/src_gs_2020#q13|src_gs_2020__Q13]]
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_algebra|Algebra]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_ricorsione|Recursion]]
+**Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]], [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
 
 
-<span class="atom-split" id="q14" data-atom="q14" data-title="Quesito 14" data-tags="topic_geometria_piana"></span>
+<span class="atom-split" id="q14" data-atom="q14" data-title="Quesito 14" data-tags="topic_geometria_piana,skill_ragionamento_geometrico"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -576,9 +619,10 @@ level: squadre
 > A.M. Qual è l’area di ABC in cm^2?
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]]
 **Risposta:** 6220
-**Fonte:** apri PDF p.4 · phiquadro.it, Archivio gare ufficiali 2020 (= fairmath.it, Coppa Gauss 2020)
+**Fonte:** [apri PDF p.4](https://www.phiquadro.it/archivio/2020_8%20giugno%20-%20Gara.pdf#page=4) · phiquadro.it, Archivio gare ufficiali 2020 (= fairmath.it, Coppa Gauss 2020)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -591,14 +635,14 @@ level: squadre
 > The Flight (Anna Ulivi)
 > Griso (beside Fra Cristoforo): If only I were free to move around Lombardy like those birds in the sky! (A flock of birds forms a triangle in the sky; an eagle can be seen circling above the flock.) It seems the eagle is drawing a circle around the triangle. (Without paying attention to the friar:) If I draw on a sheet of paper the shape of the flock and the eagle's path, I get triangle ABC and a circle in which side AB is a diameter. The circle meets side AC at point E. I draw a line parallel to AB and tangent to the circle at F, I call X and Y the intersections of this line with AC and BC respectively, and I see that XF = XE = 36 cm and YB = 39 cm. A.M. What is the area of ABC in cm²?
 
+
 **Topic:** [[topic_geometria_piana|Plane geometry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
 **Area:** [[Geometria|Geometry]]
 
-[[Quesiti/src_gs_2020#q14|src_gs_2020__Q14]]
 
 
-
-<span class="atom-split" id="q15" data-atom="q15" data-title="Quesito 15" data-tags="topic_aritmetica"></span>
+<span class="atom-split" id="q15" data-atom="q15" data-title="Quesito 15" data-tags="topic_aritmetica,topic_logica,method_casework,skill_casework_accurato,skill_modellizzazione"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -621,10 +665,12 @@ level: squadre
 > Persona 2020 Ci sono esattamente m persone che dicono la verità.
 > A.M. Qual è il minimo numero possibile di persone che dicono la verità al variare di m e n?
 
-**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Area:** [[Aritmetica e Teoria dei Numeri]]
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_logica|Logica, giochi, strategie]]
+**Metodo:** [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 1011
-**Fonte:** apri PDF p.4 · phiquadro.it, Archivio gare ufficiali 2020 (= fairmath.it, Coppa Gauss 2020)
+**Fonte:** [apri PDF p.4](https://www.phiquadro.it/archivio/2020_8%20giugno%20-%20Gara.pdf#page=4) · phiquadro.it, Archivio gare ufficiali 2020 (= fairmath.it, Coppa Gauss 2020)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -637,14 +683,15 @@ level: squadre
 > In the Castle (Andrea Giusto)
 > In the castle of Don Rodrigo, Count of Fuentes, Mendoza, Deferia, Duke of Terranova and Constable of Castile, there are servants who always tell the truth and bravi who always tell lies. In the courtyard there are 2020 people, comprising servants and bravi, numbered from 1 to 2020. A.M. Let m and n be two positive integers such that m + n = 2020 and m, n > 1. Person 1: No one tells the truth. Person 2: Exactly 2 people tell the truth. Person 3: Exactly 3 people tell the truth. ... Person n: Exactly n people tell the truth. Person n + 1: Exactly m people tell the truth. ... Person 2020: Exactly m people tell the truth. A.M. What is the minimum possible number of people who tell the truth as m and n vary?
 
-**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
-**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
-[[Quesiti/src_gs_2020#q15|src_gs_2020__Q15]]
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_logica|Logic, games and strategies]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]], [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
 
 
-<span class="atom-split" id="q16" data-atom="q16" data-title="Quesito 16" data-tags="topic_geometria_piana,topic_geometria_solida"></span>
+<span class="atom-split" id="q16" data-atom="q16" data-title="Quesito 16" data-tags="topic_geometria_piana,topic_geometria_solida,method_simmetria,skill_ragionamento_geometrico"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -666,9 +713,11 @@ level: squadre
 > A.M. Quanto vale in m^3 il volume del covone?
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_geometria_solida|Geometria solida]]
+**Metodo:** [[method_simmetria|Sfruttamento della simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]]
 **Risposta:** 0040
-**Fonte:** apri PDF p.4 · phiquadro.it, Archivio gare ufficiali 2020 (= fairmath.it, Coppa Gauss 2020)
+**Fonte:** [apri PDF p.4](https://www.phiquadro.it/archivio/2020_8%20giugno%20-%20Gara.pdf#page=4) · phiquadro.it, Archivio gare ufficiali 2020 (= fairmath.it, Coppa Gauss 2020)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -681,14 +730,15 @@ level: squadre
 > On the Way (Luca Renzi)
 > Renzo: Look how strange those haystacks are! Agnese: They're made in the old way: a regular hexagon with an area of 20 m² is drawn on the ground; then, outside the hexagon, on each side of the hexagon, an equilateral triangle is drawn, with one side coinciding with the side of the hexagon. Lucia: The polygon formed by joining the hexagon and the six equilateral triangles is a six-pointed star. Agnese: Exactly! Finally, a 3-m-high post is driven into the center of the hexagon. The haystack is formed by arranging the lateral edges of the solid so that each of them connects one of the twelve vertices of the star at the base to the top of the post. A.M.: What is the volume of the haystack in m³?
 
+
 **Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_geometria_solida|Solid geometry]]
+**Metodo:** [[method_simmetria|Using symmetry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
 **Area:** [[Geometria|Geometry]]
 
-[[Quesiti/src_gs_2020#q16|src_gs_2020__Q16]]
 
 
-
-<span class="atom-split" id="q17" data-atom="q17" data-title="Quesito 17" data-tags="topic_aritmetica,topic_logica"></span>
+<span class="atom-split" id="q17" data-atom="q17" data-title="Quesito 17" data-tags="topic_aritmetica,topic_logica,method_casework,method_congruenze,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -714,9 +764,11 @@ level: squadre
 > [Dare come risposta la somma dei due numeri.]
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_logica|Logica, giochi, strategie]]
+**Metodo:** [[method_casework|Analisi per casi]], [[method_congruenze|Aritmetica modulare / congruenze]]
+**Abilita:** [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 3587
-**Fonte:** apri PDF p.5 · phiquadro.it, Archivio gare ufficiali 2020 (= fairmath.it, Coppa Gauss 2020)
+**Fonte:** [apri PDF p.5](https://www.phiquadro.it/archivio/2020_8%20giugno%20-%20Gara.pdf#page=5) · phiquadro.it, Archivio gare ufficiali 2020 (= fairmath.it, Coppa Gauss 2020)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -729,14 +781,15 @@ level: squadre
 > At Pescarenico (Silvia Sconza)
 > In Pescarenico, Lucia, there are 3586 people: some are sincere and always tell the truth; others are liars and always tell falsehoods. Renzo, it's too dangerous; we have to run away. Renzo: Let's stop these six inhabitants of Pescarenico. Lucia: But you don't know whether they're sincere or liars! Renzo (To the six inhabitants of Pescarenico): How many liars are there among the inhabitants of Pescarenico? First inhabitant: There is an even number of liars. Second inhabitant: There are a number of liars divisible by 3. Third inhabitant: There are a number of liars divisible by 4. Fourth inhabitant: There are a number of liars divisible by 5. Fifth inhabitant: There are a number of liars divisible by 7. Sixth inhabitant: There are as many sincere people as liars. Lucia: What is the maximum number of liar-inhabitants of Pescarenico consistent with all the statements? Friar Cristoforo: And what is the minimum number? [Give as the answer the sum of the two numbers.]
 
+
 **Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_logica|Logic, games and strategies]]
+**Metodo:** [[method_casework|Case analysis]], [[method_congruenze|Modular arithmetic / congruences]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
-[[Quesiti/src_gs_2020#q17|src_gs_2020__Q17]]
 
 
-
-<span class="atom-split" id="q18" data-atom="q18" data-title="Quesito 18" data-tags="topic_geometria_solida"></span>
+<span class="atom-split" id="q18" data-atom="q18" data-title="Quesito 18" data-tags="topic_geometria_solida,method_inclusione_esclusione,method_casework,skill_ragionamento_geometrico,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -757,9 +810,11 @@ level: squadre
 > [Dare come risposta la somma dei due volumi.]
 
 **Topic:** [[topic_geometria_solida|Geometria solida]]
+**Metodo:** [[method_inclusione_esclusione|Inclusione-esclusione]], [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Geometria]]
 **Risposta:** 8910
-**Fonte:** apri PDF p.5 · phiquadro.it, Archivio gare ufficiali 2020 (= fairmath.it, Coppa Gauss 2020)
+**Fonte:** [apri PDF p.5](https://www.phiquadro.it/archivio/2020_8%20giugno%20-%20Gara.pdf#page=5) · phiquadro.it, Archivio gare ufficiali 2020 (= fairmath.it, Coppa Gauss 2020)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -772,14 +827,15 @@ level: squadre
 > Projects (Anna Ulivi)
 > Unnamed Nibbio, I'd like your opinion on the new plans for the castle. At the heart of the idea are three cubes. (Nibbio is worried) Consider solids constructed as follows: given a cube with sides 12 m long, at its center lies one vertex of a second cube equal to the first and with sides parallel to the sides of the first; at the center of the cube formed by the intersection of the two preceding cubes lies a vertex of a third cube of the same dimensions and with sides parallel to those of the other two. The castle will have this shape. Nibbio: But there are many solids determined by these data. What is the maximum volume of a solid so determined? And the minimum volume? [Give as the answer the sum of the two volumes.]
 
+
 **Topic:** [[topic_geometria_solida|Solid geometry]]
+**Metodo:** [[method_inclusione_esclusione|Inclusion–exclusion]], [[method_casework|Case analysis]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_casework_accurato|Careful case analysis]]
 **Area:** [[Geometria|Geometry]]
 
-[[Quesiti/src_gs_2020#q18|src_gs_2020__Q18]]
 
 
-
-<span class="atom-split" id="q19" data-atom="q19" data-title="Quesito 19" data-tags="topic_combinatoria"></span>
+<span class="atom-split" id="q19" data-atom="q19" data-title="Quesito 19" data-tags="topic_combinatoria,method_casework,method_colorazione,skill_conteggio_sistematico,skill_lettura_attenta"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -801,9 +857,11 @@ level: squadre
 > più sotto sia di valore massimo possibile tra tutte le configurazioni ammesse?
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casework|Analisi per casi]], [[method_colorazione|Colorazione / parita]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta del testo]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 5376
-**Fonte:** apri PDF p.5 · phiquadro.it, Archivio gare ufficiali 2020 (= fairmath.it, Coppa Gauss 2020)
+**Fonte:** [apri PDF p.5](https://www.phiquadro.it/archivio/2020_8%20giugno%20-%20Gara.pdf#page=5) · phiquadro.it, Archivio gare ufficiali 2020 (= fairmath.it, Coppa Gauss 2020)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -816,14 +874,15 @@ level: squadre
 > In the Inn (Silvia Sconza)
 > Renzo: What are you doing with that deck? Innkeeper: It's a deck comprising the 28 cards with values from 1 to 7 in the four suits: hearts, diamonds, clubs, and spades. I stack seven cards on the counter, one on top of another, in such a way that: if there is at least one 7, at least one of them must have a red 6 immediately below it; the top card must be one of the highest-valued cards among those present; no two even-valued cards may be adjacent, nor may two odd-valued cards be adjacent; the sum of the three top cards must be exactly equal to half the sum of the four bottom cards. Then I let the customer pick a card from the deck. If it's an ace, the drink is on the house. Renzo: But how many are the combinations of 7 cards that satisfy the requirements and are such that the bottom card has the highest possible value among all the allowed configurations?
 
+
 **Topic:** [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_casework|Case analysis]], [[method_colorazione|Colouring / parity]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]], [[skill_lettura_attenta|Careful reading of the text]]
 **Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
-[[Quesiti/src_gs_2020#q19|src_gs_2020__Q19]]
 
 
-
-<span class="atom-split" id="q20" data-atom="q20" data-title="Quesito 20" data-tags="topic_geometria_piana"></span>
+<span class="atom-split" id="q20" data-atom="q20" data-title="Quesito 20" data-tags="topic_geometria_piana,topic_trigonometria,method_simmetria,method_trigonometria,skill_ragionamento_geometrico"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -841,10 +900,12 @@ level: squadre
 > Donna Prassede È lungo 18, 42 cm.
 > Don Ferrante Allora, quanto vale l’area dell’ottagono piccolo all’interno della stella?
 
-**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometria]]
+**Metodo:** [[method_simmetria|Sfruttamento della simmetria]], [[method_trigonometria|Tecniche trigonometriche]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]]
 **Risposta:** 0048
-**Fonte:** apri PDF p.5 · phiquadro.it, Archivio gare ufficiali 2020 (= fairmath.it, Coppa Gauss 2020)
+**Fonte:** [apri PDF p.5](https://www.phiquadro.it/archivio/2020_8%20giugno%20-%20Gara.pdf#page=5) · phiquadro.it, Archivio gare ufficiali 2020 (= fairmath.it, Coppa Gauss 2020)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -857,14 +918,15 @@ level: squadre
 > The Star (Cecilia Oliveri)
 > Don Ferrante: Draw a regular octagon and construct an 8-pointed star inside it as follows: choose a vertex A; moving clockwise from vertex A, label the other vertices in order with the names F, C, H, E, B, G, D (Donna Prassede carries this out carefully); now join each pair of alphabetically consecutive letters with a line segment; finally, draw the segment AH. Tell me the length of AB. Donna Prassede: It is 18.42 cm long. Don Ferrante: Then what is the area of the small octagon inside the star?
 
-**Topic:** [[topic_geometria_piana|Plane geometry]]
+
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_trigonometria|Trigonometry]]
+**Metodo:** [[method_simmetria|Using symmetry]], [[method_trigonometria|Trigonometric techniques]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
 **Area:** [[Geometria|Geometry]]
 
-[[Quesiti/src_gs_2020#q20|src_gs_2020__Q20]]
 
 
-
-<span class="atom-split" id="q21" data-atom="q21" data-title="Quesito 21" data-tags="topic_aritmetica"></span>
+<span class="atom-split" id="q21" data-atom="q21" data-title="Quesito 21" data-tags="topic_aritmetica,method_casework,method_fattorizzazione,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -885,9 +947,11 @@ level: squadre
 > tali scomposizioni.]
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Analisi per casi]], [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
+**Abilita:** [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 0037
-**Fonte:** apri PDF p.5 · phiquadro.it, Archivio gare ufficiali 2020 (= fairmath.it, Coppa Gauss 2020)
+**Fonte:** [apri PDF p.5](https://www.phiquadro.it/archivio/2020_8%20giugno%20-%20Gara.pdf#page=5) · phiquadro.it, Archivio gare ufficiali 2020 (= fairmath.it, Coppa Gauss 2020)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -900,7 +964,8 @@ level: squadre
 > In Bergamo (Giuseppe Rosolini)
 > Renzo: There are factorials that have factorial decompositions—for example, 6! = 3!·5!. I wonder how many there are? Lucia: Well, your example is a special case of a much more general situation: take k positive integers ℓ_1, ..., ℓ_k and set n = ℓ_1!·...·ℓ_k!. Just use the definition to prove that n! = ℓ_1! · ... · ℓ_k! · (n − 1)! is a decomposition into k + 1 factorials. Renzo: Agreed! But are there factorials n!, say with n < 4!, that have factorial decompositions ℓ_1! · ... · ℓ_k! where k > 1 and, as i runs from 1 to k, ℓ_i is greater than 1 and less than n − 1? [Give as the answer the sum of all the numbers ℓ_i whose factorial appears in at least one such decomposition.]
 
-**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
-**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
-[[Quesiti/src_gs_2020#q21|src_gs_2020__Q21]]
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_casework|Case analysis]], [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]

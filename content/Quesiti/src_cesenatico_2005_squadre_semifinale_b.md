@@ -10,7 +10,7 @@ level: squadre
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_geometria_piana,method_trigonometria,skill_ragionamento_geometrico"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_geometria_piana,topic_trigonometria,method_trigonometria,method_simmetria,skill_ragionamento_geometrico"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -19,8 +19,8 @@ level: squadre
 
 > Si consideri un dodecagono regolare di vertici $A_1 A_2 \ldots A_{12}$ e lato di lunghezza $13$. Tracciando i segmenti $A_1 A_6$, $A_5 A_{10}$ e $A_9 A_7$ si formano quattro triangoli all'interno del dodecagono. Calcolare la somma delle aree di questi quattro triangoli.
 
-**Topic:** [[topic_geometria_piana|Geometria piana]]
-**Metodo:** [[method_trigonometria|Tecniche trigonometriche]]
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometria]]
+**Metodo:** [[method_trigonometria|Tecniche trigonometriche]], [[method_simmetria|Sfruttamento della simmetria]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]]
 **Risposta:** 0439
@@ -34,16 +34,15 @@ level: squadre
 
 > Consider a regular dodecagon with vertices $A_1 A_2 \ldots A_{12}$ and side length $13$. By drawing the line segments $A_1 A_6$, $A_5 A_{10}$, and $A_9 A_7$, four triangles are formed inside the dodecagon. Calculate the sum of the areas of these four triangles.
 
-**Topic:** [[topic_geometria_piana|Plane geometry]]
-**Metodo:** [[method_trigonometria|Trigonometric techniques]]
+
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_trigonometria|Trigonometry]]
+**Metodo:** [[method_trigonometria|Trigonometric techniques]], [[method_simmetria|Using symmetry]]
 **Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
 **Area:** [[Geometria|Geometry]]
 
-[[Quesiti/src_cesenatico_2005_squadre_semifinale_b#q01|src_cesenatico_2005_squadre_semifinale_b__Q01]]
 
 
-
-<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_combinatoria,method_conteggio,skill_riconoscimento_pattern"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_combinatoria,method_conteggio,method_ricorsione,skill_riconoscimento_pattern,skill_modellizzazione"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -55,8 +54,8 @@ level: squadre
 > Su una scacchiera del tipo in figura (ma la riga centrale ha 21 caselle), quanti modi ci sono per andare dalla casella centrale a un bordo in esattamente $n$ mosse, muovendo ogni volta in una casella adiacente orizzontalmente o verticalmente? (vedi figura)
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
-**Metodo:** [[method_conteggio|Conteggio combinatorio]]
-**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Metodo:** [[method_conteggio|Conteggio combinatorio]], [[method_ricorsione|Ricorsione]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 4092
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1iFfFchZtZKQhrAMA0KsBO1ZR930Z0xA7/view)
@@ -71,16 +70,15 @@ level: squadre
 
 > On a chessboard of the type shown in the figure (but with 21 squares on the central row), how many ways are there to go from the central square to an edge in exactly $n$ moves, moving each time to an adjacent square horizontally or vertically? (see figure)
 
+
 **Topic:** [[topic_combinatoria|Combinatorics]]
-**Metodo:** [[method_conteggio|Combinatorial counting]]
-**Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]]
+**Metodo:** [[method_conteggio|Combinatorial counting]], [[method_ricorsione|Recursion]]
+**Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]], [[skill_modellizzazione|Modelling / translating the text]]
 **Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
-[[Quesiti/src_cesenatico_2005_squadre_semifinale_b#q02|src_cesenatico_2005_squadre_semifinale_b__Q02]]
 
 
-
-<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_aritmetica,method_casework,skill_casework_accurato"></span>
+<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_aritmetica,method_casework,method_congruenze,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -90,7 +88,7 @@ level: squadre
 > Un ultraprimo è un numero primo tale che, permutando le sue cifre, il numero ottenuto rimane primo. Qual è il più grande numero di 3 cifre ultraprimo?
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_casework|Analisi per casi]]
+**Metodo:** [[method_casework|Analisi per casi]], [[method_congruenze|Aritmetica modulare / congruenze]]
 **Abilita:** [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 0991
@@ -104,12 +102,11 @@ level: squadre
 
 > An ultraprime is a prime number such that, when its digits are permuted, the resulting number remains prime. What is the largest three-digit ultraprime?
 
+
 **Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
-**Metodo:** [[method_casework|Case analysis]]
+**Metodo:** [[method_casework|Case analysis]], [[method_congruenze|Modular arithmetic / congruences]]
 **Abilita:** [[skill_casework_accurato|Careful case analysis]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
-
-[[Quesiti/src_cesenatico_2005_squadre_semifinale_b#q03|src_cesenatico_2005_squadre_semifinale_b__Q03]]
 
 
 
@@ -142,11 +139,9 @@ level: squadre
 **Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Geometria|Geometry]]
 
-[[Quesiti/src_cesenatico_2005_squadre_semifinale_b#q04|src_cesenatico_2005_squadre_semifinale_b__Q04]]
 
 
-
-<span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_combinatoria,topic_aritmetica,method_congruenze,method_conteggio,skill_conteggio_sistematico"></span>
+<span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_combinatoria,topic_aritmetica,method_congruenze,method_conteggio,skill_conteggio_sistematico,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -157,8 +152,8 @@ level: squadre
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]], [[method_conteggio|Conteggio combinatorio]]
-**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
-**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 0076
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1iFfFchZtZKQhrAMA0KsBO1ZR930Z0xA7/view)
 
@@ -170,16 +165,15 @@ level: squadre
 
 > I $2005$ participants in a basketball tournament want to divide themselves into $401$ teams, each with $5$ players, to play in a tournament. Write the last $2$ digits of the number of different ways in which they can divide themselves.
 
+
 **Topic:** [[topic_combinatoria|Combinatorics]], [[topic_aritmetica|Arithmetic / Number theory]]
 **Metodo:** [[method_congruenze|Modular arithmetic / congruences]], [[method_conteggio|Combinatorial counting]]
-**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
-**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
-
-[[Quesiti/src_cesenatico_2005_squadre_semifinale_b#q05|src_cesenatico_2005_squadre_semifinale_b__Q05]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
 
 
-<span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_geometria_piana,skill_ragionamento_geometrico"></span>
+<span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_geometria_piana,method_casework,skill_ragionamento_geometrico,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -189,7 +183,8 @@ level: squadre
 > Siano dati un triangolo $ABC$ isoscele in $C$ e un punto $A'$ sul lato $AC$ tale che il triangolo $AA'B$ sia isoscele in $B$. Siano poi $B'$ un punto sul lato $BC$ e $C'$ il punto di intersezione tra $AB'$ e $A'B$. Sapendo che anche i triangoli $ABB'$, $AB'C$ e $A'BC$ sono isosceli, calcolare il valore (in gradi) dell'angolo $A'C'B'$.
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
-**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Metodo:** [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Geometria]]
 **Risposta:** 0108
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1iFfFchZtZKQhrAMA0KsBO1ZR930Z0xA7/view)
@@ -202,15 +197,15 @@ level: squadre
 
 > Let an isosceles triangle $ABC$ in $C$ and a point $A'$ on side $AC$ be given, such that triangle $AA'B$ is isosceles in $B$. Let then $B'$ be a point on side $BC$ and $C'$ be the intersection point of $AB'$ and $A'B$. Knowing that triangles $ABB'$, $AB'C$, and $A'BC$ are also isosceles, calculate the value (in degrees) of angle $A'C'B'$.
 
+
 **Topic:** [[topic_geometria_piana|Plane geometry]]
-**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_casework_accurato|Careful case analysis]]
 **Area:** [[Geometria|Geometry]]
 
-[[Quesiti/src_cesenatico_2005_squadre_semifinale_b#q06|src_cesenatico_2005_squadre_semifinale_b__Q06]]
 
 
-
-<span class="atom-split" id="q07" data-atom="q07" data-title="Quesito 7" data-tags="topic_geometria_piana,skill_ragionamento_geometrico"></span>
+<span class="atom-split" id="q07" data-atom="q07" data-title="Quesito 7" data-tags="topic_geometria_piana,topic_trigonometria,method_trigonometria,skill_ragionamento_geometrico"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -221,7 +216,8 @@ level: squadre
 
 > Il quadrilatero $ABCD$ in figura ha gli angoli $\angle ABD = 30°$, $\angle DBC = 50°$, $\angle BCA = 60°$ e $\angle ACD = 20°$. Quanto misura l'angolo $\angle CAD$? (vedi figura)
 
-**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometria]]
+**Metodo:** [[method_trigonometria|Tecniche trigonometriche]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]]
 **Risposta:** 0030
@@ -237,15 +233,15 @@ level: squadre
 
 > The quadrilateral $ABCD$ in the figure has angles $\angle ABD = 30°$, $\angle DBC = 50°$, $\angle BCA = 60°$, and $\angle ACD = 20°$. What is the measure of angle $\angle CAD$? (see figure)
 
-**Topic:** [[topic_geometria_piana|Plane geometry]]
+
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_trigonometria|Trigonometry]]
+**Metodo:** [[method_trigonometria|Trigonometric techniques]]
 **Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
 **Area:** [[Geometria|Geometry]]
 
-[[Quesiti/src_cesenatico_2005_squadre_semifinale_b#q07|src_cesenatico_2005_squadre_semifinale_b__Q07]]
 
 
-
-<span class="atom-split" id="q08" data-atom="q08" data-title="Quesito 8" data-tags="topic_combinatoria,topic_geometria_piana,method_casework,skill_ragionamento_geometrico"></span>
+<span class="atom-split" id="q08" data-atom="q08" data-title="Quesito 8" data-tags="topic_combinatoria,topic_geometria_piana,method_casework,method_estremalita,skill_ragionamento_geometrico"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -255,7 +251,7 @@ level: squadre
 > Dati $5$ rettangoli, in quante parti finite, al massimo, possono dividere il piano?
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_geometria_piana|Geometria piana]]
-**Metodo:** [[method_casework|Analisi per casi]]
+**Metodo:** [[method_casework|Analisi per casi]], [[method_estremalita|Principio di estremalita]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 **Risposta:** 0081
@@ -269,16 +265,15 @@ level: squadre
 
 > Previously $5$ rectangles—into at most how many finite parts can they divide the plane?
 
+
 **Topic:** [[topic_combinatoria|Combinatorics]], [[topic_geometria_piana|Plane geometry]]
-**Metodo:** [[method_casework|Case analysis]]
+**Metodo:** [[method_casework|Case analysis]], [[method_estremalita|Extremal principle]]
 **Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
 **Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Geometria|Geometry]]
 
-[[Quesiti/src_cesenatico_2005_squadre_semifinale_b#q08|src_cesenatico_2005_squadre_semifinale_b__Q08]]
 
 
-
-<span class="atom-split" id="q09" data-atom="q09" data-title="Quesito 9" data-tags="topic_combinatoria,method_inclusione_esclusione,skill_conteggio_sistematico"></span>
+<span class="atom-split" id="q09" data-atom="q09" data-title="Quesito 9" data-tags="topic_combinatoria,method_inclusione_esclusione,method_conteggio,method_casi_conteggio,skill_conteggio_sistematico,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -288,8 +283,8 @@ level: squadre
 > Andrea, Bernardo e Chiara vogliono dividersi un pacchetto di caramelle. Il pacchetto contiene $9$ caramelle alla fragola, $9$ al limone e $9$ alla menta. In quanti modi è possibile distribuire le $27$ caramelle (anche in parti non uguali) tra i tre, in modo che ognuno abbia caramelle di esattamente due tipi?
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
-**Metodo:** [[method_inclusione_esclusione|Inclusione-esclusione]]
-**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Metodo:** [[method_inclusione_esclusione|Inclusione-esclusione]], [[method_conteggio|Conteggio combinatorio]], [[method_casi_conteggio|Conteggio per casi]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 7104
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1iFfFchZtZKQhrAMA0KsBO1ZR930Z0xA7/view)
@@ -302,16 +297,15 @@ level: squadre
 
 > Andrea, Bernardo, and Chiara want to split a packet of candies among themselves. The packet contains $9$ strawberry candies, $9$ lemon candies, and $9$ mint candies. In how many ways is it possible to distribute the $27$ candies (even in unequal portions) among the three of them so that each person gets candies of exactly two types?
 
+
 **Topic:** [[topic_combinatoria|Combinatorics]]
-**Metodo:** [[method_inclusione_esclusione|Inclusion–exclusion]]
-**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Metodo:** [[method_inclusione_esclusione|Inclusion–exclusion]], [[method_conteggio|Combinatorial counting]], [[method_casi_conteggio|Counting by cases]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]], [[skill_casework_accurato|Careful case analysis]]
 **Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
-[[Quesiti/src_cesenatico_2005_squadre_semifinale_b#q09|src_cesenatico_2005_squadre_semifinale_b__Q09]]
 
 
-
-<span class="atom-split" id="q10" data-atom="q10" data-title="Quesito 10" data-tags="topic_aritmetica,topic_algebra,method_fattorizzazione,skill_manipolazione_algebrica"></span>
+<span class="atom-split" id="q10" data-atom="q10" data-title="Quesito 10" data-tags="topic_aritmetica,topic_algebra,method_fattorizzazione,method_casework,skill_manipolazione_algebrica,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -323,9 +317,9 @@ level: squadre
 > è un numero primo?
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
-**Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
-**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
-**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]], [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 **Risposta:** 0004
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1iFfFchZtZKQhrAMA0KsBO1ZR930Z0xA7/view)
 
@@ -339,16 +333,15 @@ level: squadre
 > $$\frac{a^2 + 4044}{12ab - 9}$$
 > is a prime number?
 
+
 **Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_algebra|Algebra]]
-**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
-**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
-**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
-
-[[Quesiti/src_cesenatico_2005_squadre_semifinale_b#q10|src_cesenatico_2005_squadre_semifinale_b__Q10]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]], [[method_casework|Case analysis]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Algebra e Analisi|Algebra and analysis]]
 
 
 
-<span class="atom-split" id="q11" data-atom="q11" data-title="Quesito 11" data-tags="topic_aritmetica,method_congruenze,skill_manipolazione_algebrica"></span>
+<span class="atom-split" id="q11" data-atom="q11" data-title="Quesito 11" data-tags="topic_aritmetica,method_congruenze,skill_manipolazione_algebrica,skill_riconoscimento_pattern"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -359,7 +352,7 @@ level: squadre
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]]
-**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 4097
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1iFfFchZtZKQhrAMA0KsBO1ZR930Z0xA7/view)
@@ -372,16 +365,15 @@ level: squadre
 
 > Calculate the remainder of the division of $3^{2^{10}}$ by $2^{13}$.
 
+
 **Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
 **Metodo:** [[method_congruenze|Modular arithmetic / congruences]]
-**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_riconoscimento_pattern|Pattern recognition]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
-[[Quesiti/src_cesenatico_2005_squadre_semifinale_b#q11|src_cesenatico_2005_squadre_semifinale_b__Q11]]
 
 
-
-<span class="atom-split" id="q12" data-atom="q12" data-title="Quesito 12" data-tags="topic_geometria_piana,method_coordinate,skill_ragionamento_geometrico"></span>
+<span class="atom-split" id="q12" data-atom="q12" data-title="Quesito 12" data-tags="topic_geometria_piana,method_coordinate,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -392,7 +384,7 @@ level: squadre
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_coordinate|Metodo delle coordinate]]
-**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 **Risposta:** 0866
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1iFfFchZtZKQhrAMA0KsBO1ZR930Z0xA7/view)
@@ -405,16 +397,15 @@ level: squadre
 
 > Consider a right-angled triangle in which the incenter is equidistant from the right-angled vertex and from the midpoint of the hypotenuse. Given that the hypotenuse measures $1000$, calculate the longer leg of the triangle.
 
+
 **Topic:** [[topic_geometria_piana|Plane geometry]]
 **Metodo:** [[method_coordinate|Coordinate method]]
-**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
 **Area:** [[Geometria|Geometry]]
 
-[[Quesiti/src_cesenatico_2005_squadre_semifinale_b#q12|src_cesenatico_2005_squadre_semifinale_b__Q12]]
 
 
-
-<span class="atom-split" id="q13" data-atom="q13" data-title="Quesito 13" data-tags="topic_aritmetica,method_congruenze,skill_riconoscimento_pattern"></span>
+<span class="atom-split" id="q13" data-atom="q13" data-title="Quesito 13" data-tags="topic_aritmetica,method_congruenze,method_casework,skill_riconoscimento_pattern"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -424,7 +415,7 @@ level: squadre
 > Trovare il massimo intero positivo che non può essere espresso nella forma $23k + 17h$, con $h, k > 0$.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]]
+**Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]], [[method_casework|Analisi per casi]]
 **Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 0351
@@ -438,16 +429,15 @@ level: squadre
 
 > Find the greatest positive integer that cannot be expressed in the form $23k + 17h$, with $h, k > 0$.
 
+
 **Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
-**Metodo:** [[method_congruenze|Modular arithmetic / congruences]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]], [[method_casework|Case analysis]]
 **Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
-[[Quesiti/src_cesenatico_2005_squadre_semifinale_b#q13|src_cesenatico_2005_squadre_semifinale_b__Q13]]
 
 
-
-<span class="atom-split" id="q14" data-atom="q14" data-title="Quesito 14" data-tags="topic_aritmetica,topic_combinatoria,method_conteggio,skill_conteggio_sistematico"></span>
+<span class="atom-split" id="q14" data-atom="q14" data-title="Quesito 14" data-tags="topic_aritmetica,topic_combinatoria,method_conteggio,method_inclusione_esclusione,skill_conteggio_sistematico"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -457,7 +447,7 @@ level: squadre
 > Un piastrellista vuole ricoprire una stanza rettangolare $462 \times 390$ con piastrelle rettangolari di misura $c \times d$. Per quante coppie (ordinate) di dimensioni $(c, d)$ questo è possibile?
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
-**Metodo:** [[method_conteggio|Conteggio combinatorio]]
+**Metodo:** [[method_conteggio|Conteggio combinatorio]], [[method_inclusione_esclusione|Inclusione-esclusione]]
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0074
@@ -471,16 +461,15 @@ level: squadre
 
 > A tiler wants to cover a rectangular room $462 \times 390$ with rectangular tiles of size $c \times d$. For how many (ordered) pairs of dimensions $(c, d)$ is this possible?
 
+
 **Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_combinatoria|Combinatorics]]
-**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Metodo:** [[method_conteggio|Combinatorial counting]], [[method_inclusione_esclusione|Inclusion–exclusion]]
 **Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
-[[Quesiti/src_cesenatico_2005_squadre_semifinale_b#q14|src_cesenatico_2005_squadre_semifinale_b__Q14]]
 
 
-
-<span class="atom-split" id="q15" data-atom="q15" data-title="Quesito 15" data-tags="topic_geometria_piana,method_disuguaglianze,skill_ragionamento_geometrico,skill_stima"></span>
+<span class="atom-split" id="q15" data-atom="q15" data-title="Quesito 15" data-tags="topic_geometria_piana,method_disuguaglianze,method_estremalita,skill_ragionamento_geometrico,skill_stima"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -490,7 +479,7 @@ level: squadre
 > Da un pezzo di stoffa lungo $140$ cm e largo $70$ cm si vogliono ricavare due semicerchi in modo da utilizzare più stoffa possibile. Qual è l'area totale della stoffa utilizzata?
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
-**Metodo:** [[method_disuguaglianze|Disuguaglianze classiche]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze classiche]], [[method_estremalita|Principio di estremalita]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_stima|Stima e approssimazione]]
 **Area:** [[Geometria]]
 **Risposta:** 8357
@@ -504,9 +493,8 @@ level: squadre
 
 > From a piece of fabric measuring $140$ cm in length and $70$ cm in width, two semicircles are to be cut out so as to use as much fabric as possible. What is the total area of the fabric used?
 
+
 **Topic:** [[topic_geometria_piana|Plane geometry]]
-**Metodo:** [[method_disuguaglianze|Classical inequalities]]
+**Metodo:** [[method_disuguaglianze|Classical inequalities]], [[method_estremalita|Extremal principle]]
 **Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_stima|Estimation and approximation]]
 **Area:** [[Geometria|Geometry]]
-
-[[Quesiti/src_cesenatico_2005_squadre_semifinale_b#q15|src_cesenatico_2005_squadre_semifinale_b__Q15]]

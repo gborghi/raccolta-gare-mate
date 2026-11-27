@@ -38,8 +38,6 @@ level: Olimpiade Polacca Round 3
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 
-[[Quesiti/src_pol_1979_r3#q01|src_pol_1979_r3__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_geometria_solida,method_simmetria,skill_ragionamento_geometrico,skill_lettura_attenta,skill_manipolazione_algebrica"></span>
@@ -69,8 +67,6 @@ level: Olimpiade Polacca Round 3
 **Metodo:** [[method_simmetria|Simmetria]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
-
-[[Quesiti/src_pol_1979_r3#q02|src_pol_1979_r3__Q02]]
 
 
 
@@ -104,11 +100,9 @@ level: Olimpiade Polacca Round 3
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Algebra e Analisi]]
 
-[[Quesiti/src_pol_1979_r3#q03|src_pol_1979_r3__Q03]]
 
 
-
-<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_algebra,topic_insiemi_funzioni,method_estremalita,method_casework,skill_manipolazione_algebrica,skill_modellizzazione,skill_lettura_attenta"></span>
+<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_algebra,topic_insiemi_funzioni,topic_funzionali,method_estremalita,method_casework,skill_manipolazione_algebrica,skill_modellizzazione,skill_lettura_attenta"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -118,10 +112,10 @@ level: Olimpiade Polacca Round 3
 > Let $A > 1$ and $B > 1$ be real numbers and $(a_n)$ be a sequence of numbers in the interval $[1, AB]$. Prove that there exists a sequence $(s_n)$ of numbers in the interval $[1, A]$ such that
 > $$\frac{a_m}{s_m} \le B \cdot \frac{a_n}{s_n} \quad \text{for all } m, n = 1, 2, \ldots$$
 
-**Topic:** [[topic_algebra|Algebra]], [[topic_insiemi_funzioni|Insiemi e funzioni]]
+**Topic:** [[topic_algebra|Algebra]], [[topic_insiemi_funzioni|Insiemi e funzioni]], [[topic_funzionali|Functional equations / sequences]]
 **Metodo:** [[method_estremalita|Estremalità]], [[method_casework|Casework]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]], [[skill_lettura_attenta|Lettura attenta]]
-**Area:** [[Algebra e Analisi]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1mFSc82UPOl-hsqJK3SMN5XvfV4dcKK2I/view)
 
 
@@ -133,16 +127,15 @@ level: Olimpiade Polacca Round 3
 > Siano $A > 1$ e $B > 1$ numeri reali e $(a_n)$ una successione di numeri nell'intervallo $[1, AB]$. Dimostrare che esiste una successione $(s_n)$ di numeri nell'intervallo $[1, A]$ tale che
 > $$\frac{a_m}{s_m} \le B \cdot \frac{a_n}{s_n} \quad \text{for all } m, n = 1, 2, \ldots$$
 
-**Topic:** [[topic_algebra|Algebra]], [[topic_insiemi_funzioni|Insiemi e funzioni]]
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_insiemi_funzioni|Insiemi e funzioni]], [[topic_funzionali|Equazioni funzionali / successioni]]
 **Metodo:** [[method_estremalita|Estremalità]], [[method_casework|Casework]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Algebra e Analisi]]
 
-[[Quesiti/src_pol_1979_r3#q04|src_pol_1979_r3__Q04]]
 
 
-
-<span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_geometria_piana,topic_disuguaglianze,method_disuguaglianze,method_trigonometria,skill_manipolazione_algebrica,skill_ragionamento_geometrico,skill_stima"></span>
+<span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_geometria_piana,topic_disuguaglianze,topic_trigonometria,method_disuguaglianze,method_trigonometria,skill_manipolazione_algebrica,skill_ragionamento_geometrico,skill_stima"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -151,10 +144,10 @@ level: Olimpiade Polacca Round 3
 
 > Prove that the product of the sides of a quadrilateral inscribed in a circle with radius 1 does not exceed 4.
 
-**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_disuguaglianze|Disuguaglianze]]
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_disuguaglianze|Disuguaglianze]], [[topic_trigonometria|Trigonometry]]
 **Metodo:** [[method_disuguaglianze|Disuguaglianze]], [[method_trigonometria|Trigonometria]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_stima|Stima]]
-**Area:** [[Geometria]], [[Algebra e Analisi]]
+**Area:** [[Geometria|Geometry]], [[Algebra e Analisi|Algebra and analysis]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1mFSc82UPOl-hsqJK3SMN5XvfV4dcKK2I/view)
 
 
@@ -165,12 +158,11 @@ level: Olimpiade Polacca Round 3
 
 > Dimostrare che il prodotto dei lati di un quadrilatero inscritto in una circonferenza di raggio 1 non supera 4.
 
-**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_disuguaglianze|Disuguaglianze]]
+
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_disuguaglianze|Disuguaglianze]], [[topic_trigonometria|Trigonometria]]
 **Metodo:** [[method_disuguaglianze|Disuguaglianze]], [[method_trigonometria|Trigonometria]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_stima|Stima]]
 **Area:** [[Geometria]], [[Algebra e Analisi]]
-
-[[Quesiti/src_pol_1979_r3#q05|src_pol_1979_r3__Q05]]
 
 
 
@@ -203,5 +195,3 @@ level: Olimpiade Polacca Round 3
 **Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_telescoping|Telescoping]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Algebra e Analisi]]
-
-[[Quesiti/src_pol_1979_r3#q06|src_pol_1979_r3__Q06]]

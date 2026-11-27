@@ -10,7 +10,7 @@ level: kangourou
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_aritmetica,skill_manipolazione_algebrica"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_aritmetica,method_casework,skill_manipolazione_algebrica,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -20,7 +20,8 @@ level: kangourou
 > L'uguaglianza $25 \times 2 = 211$ è falsa, ma la puoi trasformare in un'uguaglianza corretta aggiungendo $1$ ad alcune sue cifre e togliendo $1$ alle altre. Scrivi questa nuova uguaglianza corretta, motivando.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Metodo:** [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 34x3=102
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/13GRvX8_3VuadLbe3tL9Iqo1wwqE_inY5/view)
@@ -34,14 +35,14 @@ level: kangourou
 > The equality $25 \times 2 = 211$ is false, but you can turn it into a correct equality by adding $1$ to some of its digits and subtracting $1$ from the others. Write this new correct equality, and explain.
 
 **Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
-**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_casework_accurato|Careful case analysis]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Answer:** 34x3=102
-[[Quesiti/src_kangourou_2021_cadet_finale#q01|src_kangourou_2021_cadet_finale__Q01]]
 
 
 
-<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_probabilita,topic_algebra,skill_stima,skill_modellizzazione"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_probabilita,topic_algebra,method_fattorizzazione,skill_stima,skill_modellizzazione,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -55,8 +56,9 @@ level: kangourou
 > Sulla base di questo esperimento, qual è un numero attendibile per i coriandoli contenuti nel sacchetto?
 
 **Topic:** [[topic_probabilita|Probabilita e statistica]], [[topic_algebra|Algebra]]
-**Abilita:** [[skill_stima|Stima e approssimazione]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
-**Area:** [[Algebra e Analisi]], [[Combinatoria, Logica e Probabilita]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
+**Abilita:** [[skill_stima|Stima e approssimazione]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Algebra e Analisi]]
 **Risposta:** 1750
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/13GRvX8_3VuadLbe3tL9Iqo1wwqE_inY5/view)
 
@@ -74,14 +76,14 @@ level: kangourou
 > On the basis of this experiment, what is a plausible number for the confetti in the bag?
 
 **Topic:** [[topic_probabilita|Probability and statistics]], [[topic_algebra|Algebra]]
-**Skill:** [[skill_stima|Estimation and approximation]], [[skill_modellizzazione|Modelling / translating the text]]
-**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_stima|Estimation and approximation]], [[skill_modellizzazione|Modelling / translating the text]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Algebra e Analisi|Algebra and analysis]]
 **Answer:** 1750
-[[Quesiti/src_kangourou_2021_cadet_finale#q02|src_kangourou_2021_cadet_finale__Q02]]
 
 
 
-<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_geometria_solida,skill_ragionamento_geometrico"></span>
+<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_geometria_solida,skill_ragionamento_geometrico,skill_modellizzazione,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -93,7 +95,7 @@ level: kangourou
 > Osservando da lontano due sfere di raggi diversi, esse ti appaiono della stessa grandezza (come, ad esempio, potrebbe accadere per il sole e per la luna). Tuttavia, la distanza della più grande da te è $100$ volte la distanza della più piccola (assumi che le distanze siano stimate tra te e i centri delle sfere). Quanto vale il rapporto fra il volume della più grande e il volume della più piccola?
 
 **Topic:** [[topic_geometria_solida|Geometria solida]]
-**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 **Risposta:** 1000000
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/13GRvX8_3VuadLbe3tL9Iqo1wwqE_inY5/view)
@@ -109,14 +111,13 @@ level: kangourou
 > Looking from far away at two spheres of different radii, they appear the same size (as, for example, can happen with the sun and the moon). However, your distance from the larger one is $100$ times your distance from the smaller one (assume that the distances are measured from you to the centres of the spheres). What is the ratio of the volume of the larger to the volume of the smaller?
 
 **Topic:** [[topic_geometria_solida|Solid geometry]]
-**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_modellizzazione|Modelling / translating the text]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
 **Area:** [[Geometria|Geometry]]
 **Answer:** 1000000
-[[Quesiti/src_kangourou_2021_cadet_finale#q03|src_kangourou_2021_cadet_finale__Q03]]
 
 
 
-<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_aritmetica,topic_combinatoria,method_estremalita,skill_casework_accurato"></span>
+<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_aritmetica,topic_combinatoria,method_estremalita,skill_casework_accurato,skill_astrazione"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -127,7 +128,7 @@ level: kangourou
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_estremalita|Principio di estremalita]]
-**Abilita:** [[skill_casework_accurato|Casework accurato]]
+**Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_astrazione|Astrazione / generalizzazione]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 43
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/13GRvX8_3VuadLbe3tL9Iqo1wwqE_inY5/view)
@@ -141,15 +142,14 @@ level: kangourou
 > Consider the set of integers from $2$ to $2021$ inclusive. You want to remove some of them so that none of those that remain can be written as a product of two of those that remain. How few do you need to remove, at least?
 
 **Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_combinatoria|Combinatorics]]
-**Method:** [[method_estremalita|Extremal principle]]
-**Skill:** [[skill_casework_accurato|Careful case analysis]]
+**Metodo:** [[method_estremalita|Extremal principle]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]], [[skill_astrazione|Abstraction / generalisation]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** 43
-[[Quesiti/src_kangourou_2021_cadet_finale#q04|src_kangourou_2021_cadet_finale__Q04]]
 
 
 
-<span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_geometria_solida,topic_combinatoria,skill_casework_accurato"></span>
+<span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_geometria_solida,topic_combinatoria,method_casi_conteggio,method_simmetria,skill_casework_accurato,skill_conteggio_sistematico,skill_ragionamento_geometrico"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -174,8 +174,9 @@ level: kangourou
 > In figura vedi uno sviluppo piano di un cubo, cioè un possibile accostamento in piano delle facce del cubo in modo da poter ricostruire il cubo piegando opportunamente la figura lungo i lati comuni a due facce. Quanti sviluppi piani diversi fra loro ha un cubo, considerando identici due sviluppi ottenibili uno dall'altro per rotazioni e/o riflessioni? (vedi figura)
 
 **Topic:** [[topic_geometria_solida|Geometria solida]], [[topic_combinatoria|Combinatoria]]
-**Abilita:** [[skill_casework_accurato|Casework accurato]]
-**Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
+**Metodo:** [[method_casi_conteggio|Conteggio per casi]], [[method_simmetria|Sfruttamento della simmetria]]
+**Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Geometria]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 11
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/13GRvX8_3VuadLbe3tL9Iqo1wwqE_inY5/view)
 
@@ -190,14 +191,14 @@ level: kangourou
 > The picture shows a net of a cube, that is, one possible arrangement in the plane of the faces of the cube so that the cube can be rebuilt by folding the figure along the sides shared by two faces. How many nets does a cube have that are different from one another, counting as the same two nets that can be obtained from each other by rotations and/or reflections? (see the picture)
 
 **Topic:** [[topic_geometria_solida|Solid geometry]], [[topic_combinatoria|Combinatorics]]
-**Skill:** [[skill_casework_accurato|Careful case analysis]]
-**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Geometria|Geometry]]
+**Metodo:** [[method_casi_conteggio|Counting by cases]], [[method_simmetria|Using symmetry]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]], [[skill_conteggio_sistematico|Systematic counting]], [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** 11
-[[Quesiti/src_kangourou_2021_cadet_finale#q05|src_kangourou_2021_cadet_finale__Q05]]
 
 
 
-<span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_combinatoria,topic_aritmetica,method_invarianti,skill_astrazione"></span>
+<span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_combinatoria,topic_aritmetica,method_invarianti,method_congruenze,skill_astrazione,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -211,9 +212,9 @@ level: kangourou
 > b) $m = 2020$ e $n = 2021$?
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_invarianti|Invarianti / monovarianti]]
-**Abilita:** [[skill_astrazione|Astrazione / generalizzazione]]
-**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+**Metodo:** [[method_invarianti|Invarianti / monovarianti]], [[method_congruenze|Aritmetica modulare / congruenze]]
+**Abilita:** [[skill_astrazione|Astrazione / generalizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** a)No b)Si
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/13GRvX8_3VuadLbe3tL9Iqo1wwqE_inY5/view)
 
@@ -230,8 +231,7 @@ level: kangourou
 > b) $m = 2020$ and $n = 2021$?
 
 **Topic:** [[topic_combinatoria|Combinatorics]], [[topic_aritmetica|Arithmetic / Number theory]]
-**Method:** [[method_invarianti|Invariants / monovariants]]
-**Skill:** [[skill_astrazione|Abstraction / generalisation]]
-**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+**Metodo:** [[method_invarianti|Invariants / monovariants]], [[method_congruenze|Modular arithmetic / congruences]]
+**Abilita:** [[skill_astrazione|Abstraction / generalisation]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Answer:** a)No b)Si
-[[Quesiti/src_kangourou_2021_cadet_finale#q06|src_kangourou_2021_cadet_finale__Q06]]

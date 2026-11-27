@@ -10,7 +10,7 @@ level: OBM Nível 3
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_algebra,topic_insiemi_funzioni,method_induzione,skill_manipolazione_algebrica,skill_astrazione"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_algebra,topic_insiemi_funzioni,method_induzione,method_backward,skill_manipolazione_algebrica,skill_astrazione"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -20,9 +20,9 @@ level: OBM Nível 3
 > Let $f(x) = x^2 + 2007x + 1$. Prove that, for every positive integer $n$, the equation $\underbrace{f(f(\ldots(f(x))\ldots))}_{n \text{ times}} = 0$ has at least one real solution.
 
 **Topic:** [[topic_algebra|Algebra]], [[topic_insiemi_funzioni|Insiemi e funzioni]]
-**Metodo:** [[method_induzione|Induzione]]
+**Metodo:** [[method_induzione|Induzione]], [[method_backward|Working backwards]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]]
-**Area:** [[Algebra e Analisi]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1hV2QFPABOEgEquJp5pRBUUMfLKtQpl8d/view)
 
 
@@ -33,12 +33,11 @@ level: OBM Nível 3
 
 > Sia $f(x) = x^2 + 2007x + 1$. Dimostrare che, per ogni numero intero positivo $n$, l'equazione $\underbrace{f(f(\ldots(f(x))\ldots))}_{n \text{ times}} = 0$ ammette almeno una soluzione reale.
 
+
 **Topic:** [[topic_algebra|Algebra]], [[topic_insiemi_funzioni|Insiemi e funzioni]]
-**Metodo:** [[method_induzione|Induzione]]
+**Metodo:** [[method_induzione|Induzione]], [[method_backward|Ragionamento all'indietro]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]]
 **Area:** [[Algebra e Analisi]]
-
-[[Quesiti/src_obm_2007_n3_f3#q01|src_obm_2007_n3_f3__Q01]]
 
 
 
@@ -69,8 +68,6 @@ level: OBM Nível 3
 **Metodo:** [[method_congruenze|Congruenze]], [[method_casework|Casework]], [[method_conteggio|Conteggio]]
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
-
-[[Quesiti/src_obm_2007_n3_f3#q02|src_obm_2007_n3_f3__Q02]]
 
 
 
@@ -106,8 +103,6 @@ level: OBM Nível 3
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_astrazione|Astrazione]]
 **Area:** [[Geometria]], [[Combinatoria, Logica e Probabilita]]
 
-[[Quesiti/src_obm_2007_n3_f3#q03|src_obm_2007_n3_f3__Q03]]
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_combinatoria,topic_logica,method_invarianti,method_colorazione,method_casework,skill_astrazione,skill_ragionamento_geometrico,skill_modellizzazione,skill_lettura_attenta"></span>
@@ -138,8 +133,6 @@ level: OBM Nível 3
 **Abilita:** [[skill_astrazione|Astrazione]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 
-[[Quesiti/src_obm_2007_n3_f3#q04|src_obm_2007_n3_f3__Q04]]
-
 
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_geometria_piana,method_trigonometria,method_simmetria,skill_ragionamento_geometrico,skill_manipolazione_algebrica,skill_astrazione"></span>
@@ -169,8 +162,6 @@ level: OBM Nível 3
 **Metodo:** [[method_trigonometria|Trigonometria]], [[method_simmetria|Simmetria]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]]
 **Area:** [[Geometria]]
-
-[[Quesiti/src_obm_2007_n3_f3#q05|src_obm_2007_n3_f3__Q05]]
 
 
 
@@ -205,5 +196,3 @@ level: OBM Nível 3
 **Metodo:** [[method_doppio_conteggio|Doppio conteggio]], [[method_estremalita|Estremalità]], [[method_cassetti|Principio dei cassetti]]
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Algebra e Analisi]]
-
-[[Quesiti/src_obm_2007_n3_f3#q06|src_obm_2007_n3_f3__Q06]]

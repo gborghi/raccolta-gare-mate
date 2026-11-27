@@ -10,7 +10,7 @@ level: China Girls' Mathematical Olympiad
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_aritmetica,topic_algebra,method_fattorizzazione,method_estremalita,method_casework,skill_manipolazione_algebrica,skill_stima"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_aritmetica,topic_algebra,method_fattorizzazione,method_estremalita,method_casework,method_disuguaglianze,skill_manipolazione_algebrica,skill_stima"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -20,9 +20,9 @@ level: China Girls' Mathematical Olympiad
 > Show that there are only finitely many triples $(a, b, c)$ of positive integers satisfying the equation $abc = 2009(a + b + c)$. (Posed by Ieng Tak Leong)
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
-**Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_estremalita|Estremalità]], [[method_casework|Casework]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_estremalita|Estremalità]], [[method_casework|Casework]], [[method_disuguaglianze|Classical inequalities]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]]
-**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Algebra e Analisi|Algebra and analysis]]
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1WZGXm4nA5dcZd9asSbnzGZkeWDSjqbF6/view)
 
 > [!warning] Estratto da verificare con la fonte.
@@ -37,12 +37,11 @@ level: China Girls' Mathematical Olympiad
 
 > [!warning] Estratto da verificare con la fonte.
 
+
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
-**Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_estremalita|Estremalità]], [[method_casework|Casework]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_estremalita|Estremalità]], [[method_casework|Casework]], [[method_disuguaglianze|Disuguaglianze classiche]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
-
-[[Quesiti/src_cn_cgmo_2009#q01|src_cn_cgmo_2009__Q01]]
 
 
 
@@ -55,7 +54,7 @@ level: China Girls' Mathematical Olympiad
 
 > A right triangle $ABC$, with $\angle BAC = 90^\circ$, is inscribed in the circle $\Gamma$. The point $E$ lies in the interior of the arc $\overarc{BC}$ (not containing $A$), with $EA > EC$. The point $F$ lies on the ray $EC$ with $\angle EAC = \angle CAF$. The segment $BF$ meets $\Gamma$ again at $D$ (other than $B$). Let $O$ denote the circumcenter of the triangle $DEF$. Prove that the points $A$, $C$, $O$ are collinear. (Posed by Bian Hongping)
 
-![[src_cn_cgmo_2009__q02.png]]
+![[src_cn_cgmo_2009__Q02.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_simmetria|Simmetria]]
@@ -73,7 +72,7 @@ level: China Girls' Mathematical Olympiad
 
 > Un triangolo rettangolo $ABC$, con $\angle BAC = 90^\circ$, è inscritto nella circonferenza $\Gamma$. Il punto $E$ giace nell'interno dell'arco $\overarc{BC}$ (che non contiene $A$), con $EA > EC$. Il punto $F$ giace sul semiretta $EC$, con $\angle EAC = \angle CAF$. Il segmento $BF$ incontra nuovamente $\Gamma$ in $D$ (diverso da $B$). Sia $O$ il circocentro del triangolo $DEF$. Dimostrare che i punti $A$, $C$, $O$ sono allineati. (Proposto da Bian Hongping)
 
-![[src_cn_cgmo_2009__q02.png]]
+![[src_cn_cgmo_2009__Q02.png]]
 
 > [!warning] Estratto da verificare con la fonte.
 
@@ -82,11 +81,9 @@ level: China Girls' Mathematical Olympiad
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Geometria]]
 
-[[Quesiti/src_cn_cgmo_2009#q02|src_cn_cgmo_2009__Q02]]
 
 
-
-<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_combinatoria,topic_geometria_analitica,method_estremalita,method_coordinate,method_casework,skill_conteggio_sistematico,skill_modellizzazione,skill_manipolazione_algebrica"></span>
+<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_combinatoria,topic_geometria_analitica,method_estremalita,method_coordinate,method_casework,skill_conteggio_sistematico,skill_modellizzazione,skill_manipolazione_algebrica,skill_ragionamento_geometrico"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -101,8 +98,8 @@ level: China Girls' Mathematical Olympiad
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_geometria_analitica|Geometria analitica]]
 **Metodo:** [[method_estremalita|Estremalità]], [[method_coordinate|Coordinate]], [[method_casework|Casework]]
-**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
-**Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Geometria|Geometry]]
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1WZGXm4nA5dcZd9asSbnzGZkeWDSjqbF6/view)
 
 > [!warning] Estratto da verificare con la fonte.
@@ -121,16 +118,15 @@ level: China Girls' Mathematical Olympiad
 
 > [!warning] Estratto da verificare con la fonte.
 
+
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_geometria_analitica|Geometria analitica]]
 **Metodo:** [[method_estremalita|Estremalità]], [[method_coordinate|Coordinate]], [[method_casework|Casework]]
-**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 
-[[Quesiti/src_cn_cgmo_2009#q03|src_cn_cgmo_2009__Q03]]
 
 
-
-<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_combinatoria,topic_logica,method_grafi,method_estremalita,method_casework,skill_astrazione,skill_modellizzazione"></span>
+<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_combinatoria,topic_logica,method_grafi,method_estremalita,method_casework,method_invarianti,skill_astrazione,skill_modellizzazione"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -140,9 +136,9 @@ level: China Girls' Mathematical Olympiad
 > Let $n$ be an integer greater than 3. Points $V_1, V_2, \ldots, V_n$, with no three collinear, lie on the plane. Some of the segments $V_i V_j$, with $1 \le i < j \le n$, are constructed. The points $V_i$ and $V_j$ are neighbors if $V_i V_j$ is constructed. Initially, the chess pieces $C_1, C_2, \ldots, C_n$ are placed at the points $V_1, V_2, \ldots, V_n$ (not necessarily in that order), with exactly one piece at each point. In a move, one can choose some of the chess pieces and simultaneously relocate each of them to one of its neighboring positions such that after the move, exactly one chess piece is at each point and no two chess pieces have exchanged their positions. A set of constructed segments is called harmonic if for any initial positions of the chess pieces each chess piece $C_i$ $(1 \le i \le n)$ is at the point $V_i$ after a finite number of moves. Determine the minimum number of segments in a harmonic set. (Posed by Fu Yunhao)
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_logica|Logica]]
-**Metodo:** [[method_grafi|Grafi]], [[method_estremalita|Estremalità]], [[method_casework|Casework]]
+**Metodo:** [[method_grafi|Grafi]], [[method_estremalita|Estremalità]], [[method_casework|Casework]], [[method_invarianti|Invariants / monovariants]]
 **Abilita:** [[skill_astrazione|Astrazione]], [[skill_modellizzazione|Modellizzazione]]
-**Area:** [[Combinatoria, Logica e Probabilita]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Risposta:** The answer is $n - 1$.
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1WZGXm4nA5dcZd9asSbnzGZkeWDSjqbF6/view)
 
@@ -158,12 +154,11 @@ level: China Girls' Mathematical Olympiad
 
 > [!warning] Estratto da verificare con la fonte.
 
+
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_logica|Logica]]
-**Metodo:** [[method_grafi|Grafi]], [[method_estremalita|Estremalità]], [[method_casework|Casework]]
+**Metodo:** [[method_grafi|Grafi]], [[method_estremalita|Estremalità]], [[method_casework|Casework]], [[method_invarianti|Invarianti / monovarianti]]
 **Abilita:** [[skill_astrazione|Astrazione]], [[skill_modellizzazione|Modellizzazione]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
-
-[[Quesiti/src_cn_cgmo_2009#q04|src_cn_cgmo_2009__Q04]]
 
 
 
@@ -203,8 +198,6 @@ level: China Girls' Mathematical Olympiad
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Algebra e Analisi]]
 
-[[Quesiti/src_cn_cgmo_2009#q05|src_cn_cgmo_2009__Q05]]
-
 
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_geometria_piana,method_trigonometria,skill_ragionamento_geometrico"></span>
@@ -216,7 +209,7 @@ level: China Girls' Mathematical Olympiad
 
 > The circle $\Gamma_1$, with radius $r_1$, is internally tangent to the circle $\Gamma_2$ at $S$. The chord $AB$ of $\Gamma_2$ is tangent to $\Gamma_1$ at $C$. Let $M$ be the midpoint of the arc $\overarc{AB}$ (not containing $S$), and let $N$ be the foot of the perpendicular from $M$ to the line $AB$. Prove that $AC \cdot CB = 2 r_1 \cdot MN$. (Posed by Ye Zhonghao)
 
-![[src_cn_cgmo_2009__q06.png]]
+![[src_cn_cgmo_2009__Q06.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_trigonometria|Trigonometria]]
@@ -234,7 +227,7 @@ level: China Girls' Mathematical Olympiad
 
 > Il cerchio $\Gamma_1$, di raggio $r_1$, è tangente internamente al cerchio $\Gamma_2$ nel punto $S$. La corda $AB$ del cerchio $\Gamma_2$ è tangente al cerchio $\Gamma_1$ nel punto $C$. Sia $M$ il punto medio dell'arco $\overarc{AB}$ (che non contiene $S$), e sia $N$ il piede della perpendicolare condotta da $M$ alla retta $AB$. Dimostrare che $AC \cdot CB = 2 r_1 \cdot MN$. (Proposto da Ye Zhonghao)
 
-![[src_cn_cgmo_2009__q06.png]]
+![[src_cn_cgmo_2009__Q06.png]]
 
 > [!warning] Estratto da verificare con la fonte.
 
@@ -243,11 +236,9 @@ level: China Girls' Mathematical Olympiad
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]]
 
-[[Quesiti/src_cn_cgmo_2009#q06|src_cn_cgmo_2009__Q06]]
 
 
-
-<span class="atom-split" id="q07" data-atom="q07" data-title="Quesito 7" data-tags="topic_combinatoria,method_colorazione,method_casework,method_invarianti,skill_conteggio_sistematico,skill_riconoscimento_pattern"></span>
+<span class="atom-split" id="q07" data-atom="q07" data-title="Quesito 7" data-tags="topic_combinatoria,method_colorazione,method_casework,method_invarianti,skill_conteggio_sistematico,skill_riconoscimento_pattern,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -256,12 +247,12 @@ level: China Girls' Mathematical Olympiad
 
 > On a $10 \times 10$ chessboard, some $4n$ unit square fields are chosen to form a region $R$. This region $R$ can be tiled by $n$ $1 \times 4$ pieces and also by $n$ $2 \times 2$ pieces. If $R$ can also be tiled by a combination of $n$ pieces of the following types of shapes (with rotations allowed), determine the minimum value of $n$. (Posed by Zhu Huawei)
 
-![[src_cn_cgmo_2009__q07.png]]
+![[src_cn_cgmo_2009__Q07.png]]
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_colorazione|Colorazione]], [[method_casework|Casework]], [[method_invarianti|Invarianti]]
-**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
-**Area:** [[Combinatoria, Logica e Probabilita]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Risposta:** The answer is $n = 4$.
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1WZGXm4nA5dcZd9asSbnzGZkeWDSjqbF6/view)
 
@@ -275,20 +266,19 @@ level: China Girls' Mathematical Olympiad
 
 > Su una scacchiera $10 \times 10$, alcuni campi quadrati unitari $4n$ vengono scelti per formare una regione $R$. Questa regione $R$ può essere ricoperta con pezzi $n$ $1 \times 4$ e anche con pezzi $n$ $2 \times 2$. Se $R$ può essere ricoperta anche mediante una combinazione di pezzi $n$ di i seguenti tipi di forma (sono ammesse le rotazioni), determinare il valore minimo di $n$. (Proposto da Zhu Huawei)
 
-![[src_cn_cgmo_2009__q07.png]]
+![[src_cn_cgmo_2009__Q07.png]]
 
 > [!warning] Estratto da verificare con la fonte.
 
+
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_colorazione|Colorazione]], [[method_casework|Casework]], [[method_invarianti|Invarianti]]
-**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 
-[[Quesiti/src_cn_cgmo_2009#q07|src_cn_cgmo_2009__Q07]]
 
 
-
-<span class="atom-split" id="q08" data-atom="q08" data-title="Quesito 8" data-tags="topic_aritmetica,topic_algebra,method_estremalita,method_casework,skill_stima,skill_manipolazione_algebrica"></span>
+<span class="atom-split" id="q08" data-atom="q08" data-title="Quesito 8" data-tags="topic_aritmetica,topic_algebra,topic_funzionali,method_estremalita,method_casework,skill_stima,skill_manipolazione_algebrica,skill_riconoscimento_pattern"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -297,10 +287,10 @@ level: China Girls' Mathematical Olympiad
 
 > For positive integer $n$, $a_n = n\sqrt{5} - \lfloor n\sqrt{5} \rfloor$. Compute the maximum value and the minimum value of $a_1, a_2, \ldots, a_{2009}$. (For real number $x$, $\lfloor x \rfloor$ denotes the greatest integer less than or equal to $x$.) (Posed by Wang Zhixiong)
 
-**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]], [[topic_funzionali|Functional equations / sequences]]
 **Metodo:** [[method_estremalita|Estremalità]], [[method_casework|Casework]]
-**Abilita:** [[skill_stima|Stima]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
-**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
+**Abilita:** [[skill_stima|Stima]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Algebra e Analisi|Algebra and analysis]]
 **Risposta:** $a_{1292}$ attains the maximum and $a_{1597}$ the minimum.
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1WZGXm4nA5dcZd9asSbnzGZkeWDSjqbF6/view)
 
@@ -316,9 +306,8 @@ level: China Girls' Mathematical Olympiad
 
 > [!warning] Estratto da verificare con la fonte.
 
-**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
-**Metodo:** [[method_estremalita|Estremalità]], [[method_casework|Casework]]
-**Abilita:** [[skill_stima|Stima]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
-**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 
-[[Quesiti/src_cn_cgmo_2009#q08|src_cn_cgmo_2009__Q08]]
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]], [[topic_funzionali|Equazioni funzionali / successioni]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_casework|Casework]]
+**Abilita:** [[skill_stima|Stima]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]

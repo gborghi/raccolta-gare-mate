@@ -38,8 +38,6 @@ level: Olimpiade Polacca Round 3
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 
-[[Quesiti/src_pol_1980_r3#q01|src_pol_1980_r3__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_aritmetica,topic_algebra,method_induzione,method_ricorsione,skill_manipolazione_algebrica,skill_riconoscimento_pattern"></span>
@@ -74,11 +72,9 @@ level: Olimpiade Polacca Round 3
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 
-[[Quesiti/src_pol_1980_r3#q02|src_pol_1980_r3__Q02]]
 
 
-
-<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_probabilita,topic_combinatoria,method_ricorsione,method_casework,skill_modellizzazione,skill_conteggio_sistematico,skill_ragionamento_geometrico"></span>
+<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_probabilita,topic_combinatoria,method_ricorsione,method_casework,method_backward,skill_modellizzazione,skill_conteggio_sistematico,skill_ragionamento_geometrico,skill_riconoscimento_pattern"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -90,9 +86,9 @@ level: Olimpiade Polacca Round 3
 > Let $M_k$ denote the probability that there exists a number $i$ such that $k + \varepsilon_1 + \varepsilon_2 + \cdots + \varepsilon_i = 100$. How is $k$ to be chosen so as to maximize the probability $M_k$?
 
 **Topic:** [[topic_probabilita|Probabilità]], [[topic_combinatoria|Combinatoria]]
-**Metodo:** [[method_ricorsione|Ricorsione]], [[method_casework|Casework]]
-**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
-**Area:** [[Combinatoria, Logica e Probabilita]]
+**Metodo:** [[method_ricorsione|Ricorsione]], [[method_casework|Casework]], [[method_backward|Working backwards]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1buHUldz_MXLjWLDDfrCtJVYfHr83vEi2/view)
 
 
@@ -105,12 +101,11 @@ level: Olimpiade Polacca Round 3
 > $$\varepsilon_j = \begin{cases} 1, & \text{if the } j\text{-th flip is a head,} \\ 2, & \text{if the } j\text{-th flip is a tail.} \end{cases}$$
 > Sia $M_k$ la probabilità che esista un numero $i$ tale che $k + \varepsilon_1 + \varepsilon_2 + \cdots + \varepsilon_i = 100$. Come si deve scegliere $k$ per massimizzare la probabilità $M_k$?
 
-**Topic:** [[topic_probabilita|Probabilità]], [[topic_combinatoria|Combinatoria]]
-**Metodo:** [[method_ricorsione|Ricorsione]], [[method_casework|Casework]]
-**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
-**Area:** [[Combinatoria, Logica e Probabilita]]
 
-[[Quesiti/src_pol_1980_r3#q03|src_pol_1980_r3__Q03]]
+**Topic:** [[topic_probabilita|Probabilità]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_ricorsione|Ricorsione]], [[method_casework|Casework]], [[method_backward|Ragionamento all'indietro]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
 
 
 
@@ -148,11 +143,9 @@ level: Olimpiade Polacca Round 3
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]]
 **Area:** [[Algebra e Analisi]]
 
-[[Quesiti/src_pol_1980_r3#q04|src_pol_1980_r3__Q04]]
 
 
-
-<span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_geometria_solida,method_simmetria,method_estremalita,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
+<span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_geometria_solida,method_simmetria,method_estremalita,method_coordinate,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -162,9 +155,9 @@ level: Olimpiade Polacca Round 3
 > In a tetrahedron, the six triangles determined by an edge of the tetrahedron and the midpoint of the opposite edge all have equal area. Prove that the tetrahedron is regular.
 
 **Topic:** [[topic_geometria_solida|Geometria solida]]
-**Metodo:** [[method_simmetria|Simmetria]], [[method_estremalita|Estremalità]]
+**Metodo:** [[method_simmetria|Simmetria]], [[method_estremalita|Estremalità]], [[method_coordinate|Coordinate method]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
-**Area:** [[Geometria]]
+**Area:** [[Geometria|Geometry]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1buHUldz_MXLjWLDDfrCtJVYfHr83vEi2/view)
 
 
@@ -175,12 +168,11 @@ level: Olimpiade Polacca Round 3
 
 > In un tetraedro, i sei triangoli determinati da un spigolo del tetraedro e dal punto medio dello spigolo opposto hanno tutti area uguale. Dimostrare che il tetraedro è regolare.
 
+
 **Topic:** [[topic_geometria_solida|Geometria solida]]
-**Metodo:** [[method_simmetria|Simmetria]], [[method_estremalita|Estremalità]]
+**Metodo:** [[method_simmetria|Simmetria]], [[method_estremalita|Estremalità]], [[method_coordinate|Metodo delle coordinate]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
-
-[[Quesiti/src_pol_1980_r3#q05|src_pol_1980_r3__Q05]]
 
 
 
@@ -213,5 +205,3 @@ level: Olimpiade Polacca Round 3
 **Metodo:** [[method_induzione|Induzione]], [[method_telescoping|Telescoping]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Algebra e Analisi]]
-
-[[Quesiti/src_pol_1980_r3#q06|src_pol_1980_r3__Q06]]

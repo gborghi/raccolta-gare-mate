@@ -38,8 +38,6 @@ level: China Southeastern Mathematical Olympiad
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 
-[[Quesiti/src_cn_csmo_2012#q01|src_cn_csmo_2012__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_geometria_piana,method_trigonometria,method_simmetria,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
@@ -51,7 +49,7 @@ level: China Southeastern Mathematical Olympiad
 
 > Let $\odot I$ be the incircle of $\triangle ABC$. The circle $\odot I$ intersects sides $AB$, $BC$ and $CA$ at points $D$, $E$ and $F$, respectively. Line $EF$ intersects lines $AB$, $BI$ and $DI$ at points $M$, $N$ and $K$ respectively. Prove that $DM \cdot KE = DN \cdot KF$. (posed by Zhang Pengcheng)
 
-![[src_cn_csmo_b11_w301__q02.png]]
+![[src_cn_csmo_b11_w301__Q02.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_trigonometria|Trigonometria]], [[method_simmetria|Simmetria]]
@@ -67,14 +65,12 @@ level: China Southeastern Mathematical Olympiad
 
 > Sia $\odot I$ l'incirconferenza di $\triangle ABC$. La circonferenza $\odot I$ interseca i lati $AB$, $BC$ e $CA$ nei punti $D$, $E$ e $F$, rispettivamente. La retta $EF$ interseca le rette $AB$, $BI$ e $DI$ nei punti $M$, $N$ e $K$, rispettivamente. Dimostrare che $DM \cdot KE = DN \cdot KF$. (proposto da Zhang Pengcheng)
 
-![[src_cn_csmo_b11_w301__q02.png]]
+![[src_cn_csmo_b11_w301__Q02.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_trigonometria|Trigonometria]], [[method_simmetria|Simmetria]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
-
-[[Quesiti/src_cn_csmo_2012#q02|src_cn_csmo_2012__Q02]]
 
 
 
@@ -107,11 +103,9 @@ level: China Southeastern Mathematical Olympiad
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Casework accurato]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 
-[[Quesiti/src_cn_csmo_2012#q03|src_cn_csmo_2012__Q03]]
 
 
-
-<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_algebra,topic_trigonometria,topic_disuguaglianze,method_estremalita,method_disuguaglianze,skill_manipolazione_algebrica,skill_stima,skill_lettura_attenta"></span>
+<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_algebra,topic_trigonometria,topic_disuguaglianze,method_estremalita,method_disuguaglianze,method_trigonometria,skill_manipolazione_algebrica,skill_stima,skill_lettura_attenta"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -123,9 +117,9 @@ level: China Southeastern Mathematical Olympiad
 > for any real number $x$. Find the values of $a$, $b$, $c$ and $d$ such that $a + b - c + d$ takes the maximum number. (posed by Li Shenghong)
 
 **Topic:** [[topic_algebra|Algebra]], [[topic_trigonometria|Trigonometria]], [[topic_disuguaglianze|Disuguaglianze]]
-**Metodo:** [[method_estremalita|Estremalità]], [[method_disuguaglianze|Disuguaglianze]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_disuguaglianze|Disuguaglianze]], [[method_trigonometria|Trigonometric techniques]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]], [[skill_lettura_attenta|Lettura attenta]]
-**Area:** [[Algebra e Analisi]], [[Geometria]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Geometria|Geometry]]
 **Risposta:** 3
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1cjmD7lTT4vb3nB3ylcVCHeHucUE2rNI0/view)
 
@@ -139,16 +133,15 @@ level: China Southeastern Mathematical Olympiad
 > $$f(x) = a\cos x + b\cos 2x + c\cos 3x + d\cos 4x \leq 1$$
 > per ogni numero reale $x$. Determinare i valori di $a$, $b$, $c$ e $d$ tali che $a + b - c + d$ assuma il valore massimo. (proposto da Li Shenghong)
 
+
 **Topic:** [[topic_algebra|Algebra]], [[topic_trigonometria|Trigonometria]], [[topic_disuguaglianze|Disuguaglianze]]
-**Metodo:** [[method_estremalita|Estremalità]], [[method_disuguaglianze|Disuguaglianze]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_disuguaglianze|Disuguaglianze]], [[method_trigonometria|Tecniche trigonometriche]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Algebra e Analisi]], [[Geometria]]
 
-[[Quesiti/src_cn_csmo_2012#q04|src_cn_csmo_2012__Q04]]
 
 
-
-<span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_combinatoria,topic_aritmetica,method_conteggio,method_casework,skill_conteggio_sistematico,skill_casework_accurato,skill_lettura_attenta"></span>
+<span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_combinatoria,topic_aritmetica,method_conteggio,method_casework,method_congruenze,skill_conteggio_sistematico,skill_casework_accurato,skill_lettura_attenta"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -158,9 +151,9 @@ level: China Southeastern Mathematical Olympiad
 > A non-negative number $m$ is called a *six match number*. If $m$ and the sum of its digits are both multiples of $6$, find the number of the six match numbers less than $2012$. (posed by Tao Pingsheng)
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_conteggio|Conteggio]], [[method_casework|Casework]]
+**Metodo:** [[method_conteggio|Conteggio]], [[method_casework|Casework]], [[method_congruenze|Modular arithmetic / congruences]]
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]], [[skill_lettura_attenta|Lettura attenta]]
-**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Risposta:** 108
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1cjmD7lTT4vb3nB3ylcVCHeHucUE2rNI0/view)
 
@@ -172,12 +165,11 @@ level: China Southeastern Mathematical Olympiad
 
 > Un numero non negativo $m$ è chiamato *numero sei-match*. Se $m$ e la somma delle sue cifre sono entrambi multipli di $6$, determina il numero dei numeri sei-match minori di $2012$. (proposto da Tao Pingsheng)
 
+
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_conteggio|Conteggio]], [[method_casework|Casework]]
+**Metodo:** [[method_conteggio|Conteggio]], [[method_casework|Casework]], [[method_congruenze|Aritmetica modulare / congruenze]]
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
-
-[[Quesiti/src_cn_csmo_2012#q05|src_cn_csmo_2012__Q05]]
 
 
 
@@ -214,8 +206,6 @@ level: China Southeastern Mathematical Olympiad
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]]
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 
-[[Quesiti/src_cn_csmo_2012#q06|src_cn_csmo_2012__Q06]]
-
 
 
 <span class="atom-split" id="q07" data-atom="q07" data-title="Quesito 7" data-tags="topic_geometria_piana,topic_trigonometria,method_trigonometria,method_coordinate,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
@@ -227,7 +217,7 @@ level: China Southeastern Mathematical Olympiad
 
 > In $\triangle ABC$ with $AB = 1$, let $D$ be a point on $AC$ such that $\angle ABD = \angle C$ and let $E$ be a point on $AB$ such that $BE \perp DE$. Let $H$ be a point on $DE$ such that $AH \perp DE$ and $M$ be the midpoint of $CD$. Find the value of $\angle AME$. (posed by Xiong Bin)
 
-![[src_cn_csmo_b11_w301__q07.png]]
+![[src_cn_csmo_b11_w301__Q07.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometria]]
 **Metodo:** [[method_trigonometria|Trigonometria]], [[method_coordinate|Coordinate]]
@@ -244,11 +234,9 @@ level: China Southeastern Mathematical Olympiad
 
 > In $\triangle ABC$ con $AB = 1$, sia $D$ un punto su $AC$ tale che $\angle ABD = \angle C$, e sia $E$ un punto su $AB$ tale che $BE \perp DE$. Sia $H$ un punto su $DE$ tale che $AH \perp DE$, e sia $M$ il punto medio di $CD$. Determinare il valore di $\angle AME$. (proposto da Xiong Bin)
 
-![[src_cn_csmo_b11_w301__q07.png]]
+![[src_cn_csmo_b11_w301__Q07.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometria]]
 **Metodo:** [[method_trigonometria|Trigonometria]], [[method_coordinate|Coordinate]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
-
-[[Quesiti/src_cn_csmo_2012#q07|src_cn_csmo_2012__Q07]]

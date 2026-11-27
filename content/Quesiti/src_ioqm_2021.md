@@ -38,11 +38,9 @@ level: IOQM
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 
-[[Quesiti/src_ioqm_2021#q01|src_ioqm_2021__Q01]]
 
 
-
-<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_aritmetica,topic_combinatoria,method_casework,skill_lettura_attenta,skill_manipolazione_algebrica"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_aritmetica,topic_combinatoria,method_casework,skill_lettura_attenta,skill_manipolazione_algebrica,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -53,8 +51,8 @@ level: IOQM
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_casework|Casework]]
-**Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
-**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+**Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1YbwNOo8kNHqEP2gqAih5GDdNBczvpcai/view)
 
 
@@ -65,16 +63,15 @@ level: IOQM
 
 > Ria scrive i numeri $1, 2, \ldots, 101$ con penne rosse e blu. Il numero blu più grande è uguale al numero di numeri scritti in blu, e il numero rosso più piccolo è uguale alla metà del numero di numeri scritti in rosso. Quanti numeri ha scritto Ria con la penna rossa?
 
+
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_casework|Casework]]
-**Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 
-[[Quesiti/src_ioqm_2021#q02|src_ioqm_2021__Q02]]
 
 
-
-<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_aritmetica,topic_geometria_piana,method_casework,skill_lettura_attenta,skill_conteggio_sistematico,skill_ragionamento_geometrico"></span>
+<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_aritmetica,topic_geometria_piana,topic_trigonometria,method_casework,method_trigonometria,skill_lettura_attenta,skill_conteggio_sistematico,skill_ragionamento_geometrico"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -83,10 +80,10 @@ level: IOQM
 
 > Consider the set $\mathcal{T}$ of all triangles whose sides are distinct prime numbers which are also in arithmetic progression. Let $\triangle \in \mathcal{T}$ be the triangle with the least perimeter. If $a^\circ$ is the largest angle of $\triangle$ and $L$ is its perimeter, determine the value of $\dfrac{a}{L}$.
 
-**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_geometria_piana|Geometria piana]]
-**Metodo:** [[method_casework|Casework]]
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometry]]
+**Metodo:** [[method_casework|Casework]], [[method_trigonometria|Trigonometric techniques]]
 **Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
-**Area:** [[Aritmetica e Teoria dei Numeri]], [[Geometria]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Geometria|Geometry]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1YbwNOo8kNHqEP2gqAih5GDdNBczvpcai/view)
 
 
@@ -97,16 +94,15 @@ level: IOQM
 
 > Si consideri l'insieme $\mathcal{T}$ di tutti i triangoli i cui lati sono numeri primi distinti e che formano anche una progressione aritmetica. Sia $\triangle \in \mathcal{T}$ il triangolo con il perimetro minimo. Se $a^\circ$ è l'angolo maggiore di $\triangle$ e $L$ è il suo perimetro, si determini il valore di $\dfrac{a}{L}$.
 
-**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_geometria_piana|Geometria piana]]
-**Metodo:** [[method_casework|Casework]]
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometria]]
+**Metodo:** [[method_casework|Casework]], [[method_trigonometria|Tecniche trigonometriche]]
 **Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Geometria]]
 
-[[Quesiti/src_ioqm_2021#q03|src_ioqm_2021__Q03]]
 
 
-
-<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_aritmetica,topic_combinatoria,method_casework,method_fattorizzazione,skill_lettura_attenta,skill_manipolazione_algebrica,skill_conteggio_sistematico"></span>
+<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_aritmetica,topic_combinatoria,method_casework,method_fattorizzazione,method_simmetria,skill_lettura_attenta,skill_manipolazione_algebrica,skill_conteggio_sistematico"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -116,9 +112,9 @@ level: IOQM
 > Consider the set of all 6-digit numbers consisting only of 3 digits, $a, b, c$ are distinct. Suppose the sum of all these numbers is 5939399406. What is the largest remainder when the three digit number $\overline{abc}$ is divided by $100$?
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
-**Metodo:** [[method_casework|Casework]], [[method_fattorizzazione|Fattorizzazione]]
+**Metodo:** [[method_casework|Casework]], [[method_fattorizzazione|Fattorizzazione]], [[method_simmetria|Using symmetry]]
 **Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]]
-**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1YbwNOo8kNHqEP2gqAih5GDdNBczvpcai/view)
 
 
@@ -129,12 +125,11 @@ level: IOQM
 
 > Si consideri l'insieme di tutti i numeri di 6 cifre composti esclusivamente da 3 cifre, $a, b, c$ sono distinte. Si supponga che la somma di tutti questi numeri sia 5939399406. Qual è il resto più grande quando il numero di tre cifre $\overline{abc}$ viene diviso per $100$?
 
+
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
-**Metodo:** [[method_casework|Casework]], [[method_fattorizzazione|Fattorizzazione]]
+**Metodo:** [[method_casework|Casework]], [[method_fattorizzazione|Fattorizzazione]], [[method_simmetria|Sfruttamento della simmetria]]
 **Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
-
-[[Quesiti/src_ioqm_2021#q04|src_ioqm_2021__Q04]]
 
 
 
@@ -166,8 +161,6 @@ level: IOQM
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 
-[[Quesiti/src_ioqm_2021#q05|src_ioqm_2021__Q05]]
-
 
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_algebra,method_simmetria,skill_manipolazione_algebrica,skill_riconoscimento_pattern"></span>
@@ -198,8 +191,6 @@ level: IOQM
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Algebra e Analisi]]
 
-[[Quesiti/src_ioqm_2021#q06|src_ioqm_2021__Q06]]
-
 
 
 <span class="atom-split" id="q07" data-atom="q07" data-title="Quesito 7" data-tags="topic_combinatoria,method_conteggio,method_bigezione,skill_conteggio_sistematico,skill_riconoscimento_pattern"></span>
@@ -229,8 +220,6 @@ level: IOQM
 **Metodo:** [[method_conteggio|Conteggio combinatorio]], [[method_bigezione|Bigezione / corrispondenza]]
 **Abilità:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di schemi]]
 **Area:** [[Combinatoria, Logica e Probabilita|Combinatoria, logica e probabilità]]
-
-[[Quesiti/src_ioqm_2021#q07|src_ioqm_2021__Q07]]
 
 
 
@@ -266,11 +255,9 @@ level: IOQM
 **Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 
-[[Quesiti/src_ioqm_2021#q08|src_ioqm_2021__Q08]]
 
 
-
-<span class="atom-split" id="q09" data-atom="q09" data-title="Quesito 9" data-tags="topic_geometria_analitica,topic_algebra,method_ricorsione,method_coordinate,skill_manipolazione_algebrica,skill_ragionamento_geometrico,skill_riconoscimento_pattern"></span>
+<span class="atom-split" id="q09" data-atom="q09" data-title="Quesito 9" data-tags="topic_geometria_analitica,topic_algebra,topic_funzionali,method_ricorsione,method_coordinate,skill_manipolazione_algebrica,skill_ragionamento_geometrico,skill_riconoscimento_pattern"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -281,10 +268,10 @@ level: IOQM
 > $$x_{n+1} = \frac{3x_n - y_n}{2}, \quad y_{n+1} = \frac{x_n + y_n}{2}$$
 > Find the area of the quadrilateral formed by the points $P_0, P_2, P_4, P_6, P_8$.
 
-**Topic:** [[topic_geometria_analitica|Geometria analitica]], [[topic_algebra|Algebra]]
+**Topic:** [[topic_geometria_analitica|Geometria analitica]], [[topic_algebra|Algebra]], [[topic_funzionali|Functional equations / sequences]]
 **Metodo:** [[method_ricorsione|Ricorsione]], [[method_coordinate|Coordinate]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
-**Area:** [[Geometria]], [[Algebra e Analisi]]
+**Area:** [[Geometria|Geometry]], [[Algebra e Analisi|Algebra and analysis]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1YbwNOo8kNHqEP2gqAih5GDdNBczvpcai/view)
 
 
@@ -297,12 +284,11 @@ level: IOQM
 > $$x_{n+1} = \frac{3x_n - y_n}{2}, \quad y_{n+1} = \frac{x_n + y_n}{2}$$
 > Trova l'area del quadrilatero formato dai punti $P_0, P_2, P_4, P_6, P_8$.
 
-**Topic:** [[topic_geometria_analitica|Geometria analitica]], [[topic_algebra|Algebra]]
+
+**Topic:** [[topic_geometria_analitica|Geometria analitica]], [[topic_algebra|Algebra]], [[topic_funzionali|Equazioni funzionali / successioni]]
 **Metodo:** [[method_ricorsione|Ricorsione]], [[method_coordinate|Coordinate]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Geometria]], [[Algebra e Analisi]]
-
-[[Quesiti/src_ioqm_2021#q09|src_ioqm_2021__Q09]]
 
 
 
@@ -338,11 +324,9 @@ level: IOQM
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Algebra e Analisi]]
 
-[[Quesiti/src_ioqm_2021#q10|src_ioqm_2021__Q10]]
 
 
-
-<span class="atom-split" id="q11" data-atom="q11" data-title="Quesito 11" data-tags="topic_combinatoria,method_inclusione_esclusione,method_casework,skill_conteggio_sistematico,skill_ragionamento_geometrico"></span>
+<span class="atom-split" id="q11" data-atom="q11" data-title="Quesito 11" data-tags="topic_combinatoria,method_inclusione_esclusione,method_casework,method_simmetria,skill_conteggio_sistematico,skill_ragionamento_geometrico"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -352,9 +336,9 @@ level: IOQM
 > In how many ways can 4 married couples sit in a merry-go-round with identical seats such that men and women occupy alternate seats and no husband seats next to his wife?
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
-**Metodo:** [[method_inclusione_esclusione|Inclusione-esclusione]], [[method_casework|Casework]]
+**Metodo:** [[method_inclusione_esclusione|Inclusione-esclusione]], [[method_casework|Casework]], [[method_simmetria|Using symmetry]]
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
-**Area:** [[Combinatoria, Logica e Probabilita]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1YbwNOo8kNHqEP2gqAih5GDdNBczvpcai/view)
 
 
@@ -365,12 +349,11 @@ level: IOQM
 
 > In quanti modi 4 coppie sposate possono sedersi su una giostra con posti identici, in modo che uomini e donne occupino posti alternati e nessun marito sieda accanto a sua moglie?
 
+
 **Topic:** [[topic_combinatoria|Combinatoria]]
-**Metodo:** [[method_inclusione_esclusione|Inclusione-esclusione]], [[method_casework|Casework]]
+**Metodo:** [[method_inclusione_esclusione|Inclusione-esclusione]], [[method_casework|Casework]], [[method_simmetria|Sfruttamento della simmetria]]
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
-
-[[Quesiti/src_ioqm_2021#q11|src_ioqm_2021__Q11]]
 
 
 
@@ -401,5 +384,3 @@ level: IOQM
 **Metodo:** [[method_estremalita|Estremalità]], [[method_cassetti|Principio dei cassetti]], [[method_inclusione_esclusione|Inclusione-esclusione]]
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_stima|Stima]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
-
-[[Quesiti/src_ioqm_2021#q12|src_ioqm_2021__Q12]]

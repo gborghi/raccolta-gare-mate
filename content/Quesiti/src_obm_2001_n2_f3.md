@@ -23,7 +23,7 @@ level: OBM Nível 2
 > 
 > **b)** If the diagonal $AC$ is twice the width $AD$, what is the area of the rhombus $AMCN$?
 
-![[src_obm_2001_n2_f3__q01.png]]
+![[src_obm_2001_n2_f3__Q01.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_simmetria|Simmetria]]
@@ -43,14 +43,12 @@ level: OBM Nível 2
 >
 > **b)** Se la diagonale $AC$ è il doppio della larghezza $AD$, qual è l'area del rombo $AMCN$?
 
-![[src_obm_2001_n2_f3__q01.png]]
+![[src_obm_2001_n2_f3__Q01.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_simmetria|Simmetria]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
-
-[[Quesiti/src_obm_2001_n2_f3#q01|src_obm_2001_n2_f3__Q01]]
 
 
 
@@ -69,7 +67,7 @@ level: OBM Nível 2
 > 
 > In Maria's drawing (left), two adjacent cells in the top row contain $11$ and $20$, and a cell lower down contains $31$. In C\u00e9lia's drawing (right), two adjacent cells in the top row contain $11$ and $20$, and a cell lower down contains $31$ (placed in a different relative position than in Maria's drawing).
 
-![[src_obm_2001_n2_f3__q02.png]]
+![[src_obm_2001_n2_f3__Q02.png]]
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_logica|Logica]]
 **Metodo:** [[method_colorazione|Colorazione]], [[method_casework|Casework]], [[method_invarianti|Invarianti]]
@@ -91,14 +89,12 @@ level: OBM Nível 2
 >
 > Nel disegno di Maria (a sinistra), due celle adiacenti nella riga superiore contengono $11$ e $20$, e una cella più in basso contiene $31$. Nel disegno di Célia (a destra), due celle adiacenti nella riga superiore contengono $11$ e $20$, e una cella più in basso contiene $31$ (posizionata in una posizione relativa diversa rispetto al disegno di Maria).
 
-![[src_obm_2001_n2_f3__q02.png]]
+![[src_obm_2001_n2_f3__Q02.png]]
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_logica|Logica]]
 **Metodo:** [[method_colorazione|Colorazione]], [[method_casework|Casework]], [[method_invarianti|Invarianti]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_casework_accurato|Casework accurato]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
-
-[[Quesiti/src_obm_2001_n2_f3#q02|src_obm_2001_n2_f3__Q02]]
 
 
 
@@ -111,7 +107,7 @@ level: OBM Nível 2
 
 > Given a positive integer $h$, prove that there exists only a finite number of triangles with integer sides $a$, $b$, $c$ and altitude relative to side $c$ equal to $h$.
 
-![[src_obm_2001_n2_f3__q03.png]]
+![[src_obm_2001_n2_f3__Q03.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_disuguaglianze|Disuguaglianze]], [[method_estremalita|Estremalità]]
@@ -127,14 +123,12 @@ level: OBM Nível 2
 
 > Dato un numero intero positivo $h$, dimostrare che esiste solo un numero finito di triangoli con lati interi $a$, $b$, $c$ e altezza relativa al lato $c$ pari a $h$.
 
-![[src_obm_2001_n2_f3__q03.png]]
+![[src_obm_2001_n2_f3__Q03.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_disuguaglianze|Disuguaglianze]], [[method_estremalita|Estremalità]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]]
 **Area:** [[Geometria]], [[Aritmetica e Teoria dei Numeri]]
-
-[[Quesiti/src_obm_2001_n2_f3#q03|src_obm_2001_n2_f3__Q03]]
 
 
 
@@ -165,8 +159,6 @@ level: OBM Nível 2
 **Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_congruenze|Congruenze]], [[method_casework|Casework]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
-
-[[Quesiti/src_obm_2001_n2_f3#q04|src_obm_2001_n2_f3__Q04]]
 
 
 
@@ -200,11 +192,9 @@ level: OBM Nível 2
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Algebra e Analisi]]
 
-[[Quesiti/src_obm_2001_n2_f3#q05|src_obm_2001_n2_f3__Q05]]
 
 
-
-<span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_geometria_piana,method_coordinate,method_simmetria,skill_ragionamento_geometrico,skill_astrazione,skill_modellizzazione"></span>
+<span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_geometria_piana,method_coordinate,method_simmetria,skill_ragionamento_geometrico,skill_astrazione,skill_modellizzazione,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -215,8 +205,8 @@ level: OBM Nível 2
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_coordinate|Coordinate]], [[method_simmetria|Simmetria]]
-**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_astrazione|Astrazione]], [[skill_modellizzazione|Modellizzazione]]
-**Area:** [[Geometria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_astrazione|Astrazione]], [[skill_modellizzazione|Modellizzazione]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Geometria|Geometry]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1_vNC7vw3E27O_qVohjRsW4qLZa9X6e_n/view)
 
 
@@ -227,9 +217,8 @@ level: OBM Nível 2
 
 > In un quadrilatero convesso, l'*altezza* relativa a un lato è definita come la perpendicolare a quel lato che passa per il punto medio del lato opposto. Dimostrare che le quattro altezze hanno un punto comune se e solo se il quadrilatero è inscrivibile (ciclico), cioè se e solo se esiste una circonferenza che contiene i suoi quattro vertici.
 
+
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_coordinate|Coordinate]], [[method_simmetria|Simmetria]]
-**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_astrazione|Astrazione]], [[skill_modellizzazione|Modellizzazione]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_astrazione|Astrazione]], [[skill_modellizzazione|Modellizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
-
-[[Quesiti/src_obm_2001_n2_f3#q06|src_obm_2001_n2_f3__Q06]]

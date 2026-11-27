@@ -10,7 +10,7 @@ level: Olimpiade Polacca Round 3
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_geometria_piana,method_trigonometria,skill_ragionamento_geometrico"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_geometria_piana,topic_trigonometria,method_trigonometria,skill_ragionamento_geometrico"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -19,10 +19,10 @@ level: Olimpiade Polacca Round 3
 
 > In an acute-angled triangle $ABC$ point $O$ is the circumcenter, $CD$ is the altitude, $E$ a point on side $AB$, and $M$ the midpoint of $CE$. The perpendicular to $OM$ at $M$ intersects the lines $AC$ and $BC$ at $K$ and $L$ respectively. Prove that $\frac{LM}{MK} = \frac{AD}{DB}$.
 
-**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometry]]
 **Metodo:** [[method_trigonometria|Trigonometria]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
-**Area:** [[Geometria]]
+**Area:** [[Geometria|Geometry]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1I32ii3yrB1ZaVkUP0-xSzka1GIQRg6kF/view)
 
 
@@ -33,15 +33,15 @@ level: Olimpiade Polacca Round 3
 
 > In un triangolo acutangolo $ABC$, il punto $O$ è il circocentro, $CD$ è l'altezza, $E$ un punto sul lato $AB$ e $M$ il punto medio di $CE$. La perpendicolare a $OM$ in $M$ interseca le rette $AC$ e $BC$ in $K$ e $L$ rispettivamente. Dimostrare che $\frac{LM}{MK} = \frac{AD}{DB}$.
 
-**Topic:** [[topic_geometria_piana|Geometria piana]]
+
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometria]]
 **Metodo:** [[method_trigonometria|Trigonometria]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
-
-[[Quesiti/src_pol_2007_r3#q01|src_pol_2007_r3__Q01]]
-
+**Area:** [[Geometria]]
 
 
-<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_aritmetica,method_fattorizzazione,skill_riconoscimento_pattern"></span>
+
+<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_aritmetica,method_fattorizzazione,skill_riconoscimento_pattern,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -52,8 +52,8 @@ level: Olimpiade Polacca Round 3
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_fattorizzazione|Fattorizzazione]]
-**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
-**Area:** [[Aritmetica e Teoria dei Numeri]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1I32ii3yrB1ZaVkUP0-xSzka1GIQRg6kF/view)
 
 
@@ -64,11 +64,11 @@ level: Olimpiade Polacca Round 3
 
 > Un intero positivo si dice $white$ se è uguale a 1 oppure al prodotto di un numero pari di fattori primi, non necessariamente distinti. Gli altri interi positivi si dicono $black$. Esiste un intero positivo per cui la somma dei divisori del primo tipo è uguale alla somma dei divisori del secondo tipo?
 
+
 **Topic:** [[topic_aritmetica|Aritmetica e teoria dei numeri]]
 **Metodo:** [[method_fattorizzazione|Fattorizzazione]]
-**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di schemi]]
-
-[[Quesiti/src_pol_2007_r3#q02|src_pol_2007_r3__Q02]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di schemi]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
 
 
 
@@ -98,12 +98,11 @@ level: Olimpiade Polacca Round 3
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica e teoria dei numeri]]
 **Metodo:** [[method_congruenze|Congruenze]]
 **Abilita:** [[skill_modellizzazione|Modellizzazione]]
-
-[[Quesiti/src_pol_2007_r3#q03|src_pol_2007_r3__Q03]]
-
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 
 
-<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_aritmetica,topic_combinatoria,method_conteggio,skill_conteggio_sistematico"></span>
+
+<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_aritmetica,topic_combinatoria,method_conteggio,method_casi_conteggio,skill_conteggio_sistematico,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -113,9 +112,9 @@ level: Olimpiade Polacca Round 3
 > Given an integer $n \ge 1$, find the number of possible values of the product $km$, where $k$ and $m$ are integers with $n^2 \le k \le m \le (n+1)^2$.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
-**Metodo:** [[method_conteggio|Conteggio]]
-**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
-**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+**Metodo:** [[method_conteggio|Conteggio]], [[method_casi_conteggio|Counting by cases]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1I32ii3yrB1ZaVkUP0-xSzka1GIQRg6kF/view)
 
 
@@ -126,11 +125,11 @@ level: Olimpiade Polacca Round 3
 
 > Dato un intero $n \ge 1$, trovare il numero dei valori possibili del prodotto $km$, dove $k$ e $m$ sono interi con $n^2 \le k \le m \le (n+1)^2$.
 
-**Topic:** [[topic_aritmetica|Aritmetica e teoria dei numeri]], [[topic_combinatoria|Combinatoria]]
-**Metodo:** [[method_conteggio|Conteggio]]
-**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
 
-[[Quesiti/src_pol_2007_r3#q04|src_pol_2007_r3__Q04]]
+**Topic:** [[topic_aritmetica|Aritmetica e teoria dei numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_conteggio|Conteggio]], [[method_casi_conteggio|Conteggio per casi]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 
 
 
@@ -169,12 +168,11 @@ level: Olimpiade Polacca Round 3
 **Topic:** [[topic_geometria_solida|Geometria solida]]
 **Metodo:** [[method_simmetria|Simmetria]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
-
-[[Quesiti/src_pol_2007_r3#q05|src_pol_2007_r3__Q05]]
-
+**Area:** [[Geometria]]
 
 
-<span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_algebra,method_induzione,method_ricorsione,skill_manipolazione_algebrica"></span>
+
+<span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_algebra,topic_funzionali,method_induzione,method_ricorsione,skill_manipolazione_algebrica,skill_riconoscimento_pattern"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -185,10 +183,10 @@ level: Olimpiade Polacca Round 3
 > $$a_n + \frac{a_{n-1}}{2} + \frac{a_{n-2}}{3} + \cdots + \frac{a_1}{n} + \frac{a_0}{n+1} = 0 \quad \text{for } n \ge 1.$$
 > Show that $a_n > 0$ for $n \ge 1$.
 
-**Topic:** [[topic_algebra|Algebra]]
+**Topic:** [[topic_algebra|Algebra]], [[topic_funzionali|Functional equations / sequences]]
 **Metodo:** [[method_induzione|Induzione]], [[method_ricorsione|Ricorsione]]
-**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
-**Area:** [[Algebra e Analisi]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1I32ii3yrB1ZaVkUP0-xSzka1GIQRg6kF/view)
 
 
@@ -203,8 +201,8 @@ level: Olimpiade Polacca Round 3
 >
 > Dimostrare che $a_n > 0$ per $n \ge 1$.
 
-**Topic:** [[topic_algebra|Algebra]]
-**Metodo:** [[method_induzione|Induzione]], [[method_ricorsione|Ricorsione]]
-**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 
-[[Quesiti/src_pol_2007_r3#q06|src_pol_2007_r3__Q06]]
+**Topic:** [[topic_algebra|Algebra]], [[topic_funzionali|Equazioni funzionali / successioni]]
+**Metodo:** [[method_induzione|Induzione]], [[method_ricorsione|Ricorsione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Algebra e Analisi]]

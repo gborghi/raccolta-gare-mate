@@ -17,7 +17,7 @@ level: kangourou
 
 *Suddividere esagono regolare in 8 parti uguali*
 
-![[src_kangourou_2005_student_finale__probs1.png]]
+![[src_kangourou_2005_student_finale__probS1.png]]
 
 > In figura vedi un esagono regolare. Puoi suddividerlo in 8 parti di ugual forma e dimensioni? In caso di risposta negativa devi motivarla, in caso di risposta affermativa, illustra direttamente sulla figura la suddivisione che proponi, corredandola dei chiarimenti che ritieni opportuni. (vedi figura)
 
@@ -33,7 +33,7 @@ level: kangourou
 
 *Divide a regular hexagon into 8 equal parts*
 
-![[src_kangourou_2005_student_finale__probs1.png]]
+![[src_kangourou_2005_student_finale__probS1.png]]
 
 > In the figure, you see a regular hexagon. Can you divide it into 8 parts of equal shape and size? If your answer is no, you must give a reason; if your answer is yes, illustrate directly on the figure the division you propose, accompanied by any clarifications you deem appropriate. (see figure)
 
@@ -41,11 +41,9 @@ level: kangourou
 **Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
 **Area:** [[Geometria|Geometry]]
 
-[[Quesiti/src_kangourou_2005_student_finale#qs1|src_kangourou_2005_student_finale__QS1]]
 
 
-
-<span class="atom-split" id="qs2" data-atom="qs2" data-title="Quesito S2" data-tags="topic_algebra,skill_manipolazione_algebrica"></span>
+<span class="atom-split" id="qs2" data-atom="qs2" data-title="Quesito S2" data-tags="topic_algebra,skill_manipolazione_algebrica,skill_riconoscimento_pattern"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -55,7 +53,7 @@ level: kangourou
 > Quanto vale la somma algebrica di tutti i coefficienti (ciascuno con il proprio segno) dello sviluppo di $(2x - y + z)^8$?
 
 **Topic:** [[topic_algebra|Algebra]]
-**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Algebra e Analisi]]
 **Risposta:** 256
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/17jy_hcOypk4l2PIs-W5a2ozUpvF5XmFy/view)
@@ -68,22 +66,21 @@ level: kangourou
 
 > What is the algebraic sum of all the coefficients (each with its own sign) in the expansion of $(2x - y + z)^8$?
 
+
 **Topic:** [[topic_algebra|Algebra]]
-**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_riconoscimento_pattern|Pattern recognition]]
 **Area:** [[Algebra e Analisi|Algebra and analysis]]
 
-[[Quesiti/src_kangourou_2005_student_finale#qs2|src_kangourou_2005_student_finale__QS2]]
 
 
-
-<span class="atom-split" id="qs3" data-atom="qs3" data-title="Quesito S3" data-tags="topic_geometria_piana,method_trigonometria,skill_ragionamento_geometrico"></span>
+<span class="atom-split" id="qs3" data-atom="qs3" data-title="Quesito S3" data-tags="topic_geometria_piana,topic_trigonometria,method_trigonometria,method_simmetria,skill_ragionamento_geometrico"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
 
 *Angolo ottuso con incentro e circocentro simmetrici*
 
-![[src_kangourou_2005_student_finale__probs3.png]]
+![[src_kangourou_2005_student_finale__probS3.png]]
 
 ```tikz
 \begin{document}
@@ -120,8 +117,8 @@ level: kangourou
 
 > I centri della circonferenza inscritta e di quella circoscritta a un triangolo ottusangolo sono simmetrici rispetto ad uno dei suoi lati. Quanto misura in gradi l'angolo ottuso?
 
-**Topic:** [[topic_geometria_piana|Geometria piana]]
-**Metodo:** [[method_trigonometria|Tecniche trigonometriche]]
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometria]]
+**Metodo:** [[method_trigonometria|Tecniche trigonometriche]], [[method_simmetria|Sfruttamento della simmetria]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]]
 **Risposta:** 108 gradi
@@ -133,7 +130,7 @@ level: kangourou
 
 *Obtuse angle with symmetric incenter and circumcenter*
 
-![[src_kangourou_2005_student_finale__probs3.png]]
+![[src_kangourou_2005_student_finale__probS3.png]]
 
 ```tikz
 \begin{document}
@@ -170,16 +167,15 @@ level: kangourou
 
 > The centers of the incircle and the circumcircle of an obtuse-angled triangle are symmetric with respect to one of its sides. What is the measure, in degrees, of the obtuse angle?
 
-**Topic:** [[topic_geometria_piana|Plane geometry]]
-**Metodo:** [[method_trigonometria|Trigonometric techniques]]
+
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_trigonometria|Trigonometry]]
+**Metodo:** [[method_trigonometria|Trigonometric techniques]], [[method_simmetria|Using symmetry]]
 **Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
 **Area:** [[Geometria|Geometry]]
 
-[[Quesiti/src_kangourou_2005_student_finale#qs3|src_kangourou_2005_student_finale__QS3]]
 
 
-
-<span class="atom-split" id="qs4" data-atom="qs4" data-title="Quesito S4" data-tags="topic_aritmetica,method_congruenze,skill_manipolazione_algebrica"></span>
+<span class="atom-split" id="qs4" data-atom="qs4" data-title="Quesito S4" data-tags="topic_aritmetica,method_congruenze,method_fattorizzazione,skill_manipolazione_algebrica,skill_conteggio_sistematico"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -189,8 +185,8 @@ level: kangourou
 > Per ogni intero positivo $n$, si dice "fattoriale di $n$" — e si indica con il simbolo $n!$ — il prodotto di tutti gli interi da $1$ a $n$ incluso, ciascuno considerato una e una sola volta (dunque si ha $1! = 1$, $2! = 2$, $3! = 6$, $4! = 24$ e così via). Mostra che il prodotto $1! \times 2! \times \cdots \times 99! \times 100!$ dei fattoriali dei primi 100 interi positivi non è un quadrato perfetto, ma lo è il suo quoziente con $50!$.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]]
-**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]], [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** dimostrazione
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/17jy_hcOypk4l2PIs-W5a2ozUpvF5XmFy/view)
@@ -203,12 +199,11 @@ level: kangourou
 
 > For each positive integer $n$, the "factorial of $n$"—denoted by the symbol $n!$—is defined as the product of all integers from $1$ to $n$ inclusive, each considered exactly once (thus we have $1! = 1$, $2! = 2$, $3! = 6$, $4! = 24$, and so on). Show that the product $1! \times 2! \times \cdots \times 99! \times 100!$ of the factorials of the first 100 positive integers is not a perfect square, but its quotient by $50!$ is a perfect square.
 
-**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
-**Metodo:** [[method_congruenze|Modular arithmetic / congruences]]
-**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
-**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
-[[Quesiti/src_kangourou_2005_student_finale#qs4|src_kangourou_2005_student_finale__QS4]]
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]], [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
 
 
@@ -219,7 +214,7 @@ level: kangourou
 
 *Croce greca su scacchiera 7x7 senza angoli*
 
-![[src_kangourou_2005_student_finale__probs5.png]]
+![[src_kangourou_2005_student_finale__probS5.png]]
 
 > Considera una scacchiera $7 \times 7$ a cui sono state tolte le 4 caselle d'angolo; chiama croce greca ogni configurazione di 5 sue caselle disposte a croce in modo che ogni casella abbia in comune almeno un lato con un'altra casella della croce (quindi ogni croce ha 4 bracci uguali ciascuno costituito da una casella). Dimostra che è possibile disporre 45 numeri interi (non necessariamente tutti diversi fra loro) sulle 45 caselle rimaste, uno per casella, in modo che la somma totale di questi interi sia negativa, ma la somma dei numeri corrispondenti alle caselle ricoperte da una qualsiasi croce greca sia positiva. (Suggerimento: individua un insieme convenientemente ridotto $S$ di caselle con la proprietà che ogni croce greca copra almeno una casella appartenente ad $S$.)
 
@@ -236,7 +231,7 @@ level: kangourou
 
 *Greek cross on a 7x7 checkerboard with no corners*
 
-![[src_kangourou_2005_student_finale__probs5.png]]
+![[src_kangourou_2005_student_finale__probS5.png]]
 
 > Consider a chessboard $7 \times 7$ from which the 4 corner squares have been removed; call a Greek cross any configuration of 5 of its squares arranged in the shape of a cross such that each square shares at least one side with another square of the cross (so each cross has 4 equal arms, each consisting of a single square). Prove that it is possible to place 45 integers (not necessarily all distinct) on the remaining 45 squares, one integer per square, in such a way that the total sum of these integers is negative, but the sum of the numbers corresponding to the squares covered by any Greek cross is positive. (Hint: identify a suitably small set $S$ of squares with the property that every Greek cross covers at least one square belonging to $S$.)
 
@@ -245,11 +240,9 @@ level: kangourou
 **Abilita:** [[skill_astrazione|Abstraction / generalisation]]
 **Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
-[[Quesiti/src_kangourou_2005_student_finale#qs5|src_kangourou_2005_student_finale__QS5]]
 
 
-
-<span class="atom-split" id="qs6" data-atom="qs6" data-title="Quesito S6" data-tags="topic_geometria_analitica,topic_geometria_piana,method_coordinate,skill_astrazione"></span>
+<span class="atom-split" id="qs6" data-atom="qs6" data-title="Quesito S6" data-tags="topic_geometria_analitica,topic_geometria_piana,method_coordinate,skill_astrazione,skill_ragionamento_geometrico"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -260,7 +253,7 @@ level: kangourou
 
 **Topic:** [[topic_geometria_analitica|Geometria analitica]], [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_coordinate|Metodo delle coordinate]]
-**Abilita:** [[skill_astrazione|Astrazione / generalizzazione]]
+**Abilita:** [[skill_astrazione|Astrazione / generalizzazione]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]]
 **Risposta:** corona circolare
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/17jy_hcOypk4l2PIs-W5a2ozUpvF5XmFy/view)
@@ -273,9 +266,8 @@ level: kangourou
 
 > Let $\alpha$ and $\beta$ be two coplanar circles, each lying outside the circle determined by the other. Describe the locus of the midpoints of the segments $[A, B]$ as the point $A$ varies in $\alpha$ and the point $B$ varies in $\beta$.
 
+
 **Topic:** [[topic_geometria_analitica|Coordinate geometry]], [[topic_geometria_piana|Plane geometry]]
 **Metodo:** [[method_coordinate|Coordinate method]]
-**Abilita:** [[skill_astrazione|Abstraction / generalisation]]
+**Abilita:** [[skill_astrazione|Abstraction / generalisation]], [[skill_ragionamento_geometrico|Geometric reasoning]]
 **Area:** [[Geometria|Geometry]]
-
-[[Quesiti/src_kangourou_2005_student_finale#qs6|src_kangourou_2005_student_finale__QS6]]

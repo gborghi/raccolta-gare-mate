@@ -10,7 +10,7 @@ level: Baltic Way
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_funzionali"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_funzionali,topic_combinatoria,method_conteggio,skill_astrazione,skill_conteggio_sistematico"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -19,11 +19,13 @@ level: Baltic Way
 
 > Esiste una successione di interi $a_1, a_2, \dots$ tale che, per ogni intero $d\ne0$, ci siano esattamente 2025 coppie distinte di indici $(i,j)$ con $a_i-a_j=d$?
 
-**Topic:** [[topic_funzionali|Equazioni funzionali / successioni]]
-**Area:** [[Algebra e Analisi]]
+**Topic:** [[topic_funzionali|Equazioni funzionali / successioni]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_conteggio|Conteggio combinatorio]]
+**Abilita:** [[skill_astrazione|Astrazione / generalizzazione]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Algebra e Analisi]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** sì, esiste (costruzione nella soluzione ufficiale)
-**Fonte risposta:** soluzione ufficiale PDF p.6
-**Fonte:** apri PDF p.3 · Baltic Way 2025, Università della Lettonia (problemi con soluzioni ufficiali)
+**Fonte risposta:** [soluzione ufficiale PDF p.6](https://www.nms.lu.lv/fileadmin/user_upload/lu_portal/projekti/baltic_way_2013/BW_problems_solutions/BW2025_solutions.pdf#page=6)
+**Fonte:** [apri PDF p.3](https://www.nms.lu.lv/fileadmin/user_upload/lu_portal/projekti/baltic_way_2013/BW_problems_solutions/BW2025_solutions.pdf#page=3) · Baltic Way 2025, Università della Lettonia (problemi con soluzioni ufficiali)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -34,12 +36,14 @@ level: Baltic Way
 > Does there exist a sequence of integers $a_1, a_2, \dots$ such that, for every integer $d\ne0$, there are exactly 2025 distinct pairs of indices $(i,j)$ with $a_i-a_j=d$?
 
 
-**Topic:** [[topic_funzionali|Functional equations / sequences]]
-[[Quesiti/src_baltic_way_2025#q01|src_baltic_way_2025__Q01]]
+**Topic:** [[topic_funzionali|Functional equations / sequences]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_astrazione|Abstraction / generalisation]], [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
 
 
-<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_funzionali"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_funzionali,method_invarianti,method_cassetti,method_casework,skill_riconoscimento_pattern,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -52,10 +56,12 @@ level: Baltic Way
 > *Osservazione:* per un numero reale $x$, $\lfloor x\rfloor$ indica il più grande intero che non supera $x$, e $\{x\}=x-\lfloor x\rfloor$.
 
 **Topic:** [[topic_funzionali|Equazioni funzionali / successioni]]
+**Metodo:** [[method_invarianti|Invarianti / monovarianti]], [[method_cassetti|Principio dei cassetti]], [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Algebra e Analisi]]
 **Risposta:** dimostrazione — soluzione ufficiale nel PDF
-**Fonte risposta:** soluzione ufficiale PDF p.7
-**Fonte:** apri PDF p.3 · Baltic Way 2025, Università della Lettonia (problemi con soluzioni ufficiali)
+**Fonte risposta:** [soluzione ufficiale PDF p.7](https://www.nms.lu.lv/fileadmin/user_upload/lu_portal/projekti/baltic_way_2013/BW_problems_solutions/BW2025_solutions.pdf#page=7)
+**Fonte:** [apri PDF p.3](https://www.nms.lu.lv/fileadmin/user_upload/lu_portal/projekti/baltic_way_2013/BW_problems_solutions/BW2025_solutions.pdf#page=3) · Baltic Way 2025, Università della Lettonia (problemi con soluzioni ufficiali)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -70,11 +76,13 @@ level: Baltic Way
 
 
 **Topic:** [[topic_funzionali|Functional equations / sequences]]
-[[Quesiti/src_baltic_way_2025#q02|src_baltic_way_2025__Q02]]
+**Metodo:** [[method_invarianti|Invariants / monovariants]], [[method_cassetti|Pigeonhole principle]], [[method_casework|Case analysis]]
+**Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]], [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
 
 
 
-<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_algebra"></span>
+<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_algebra,topic_funzionali,topic_disuguaglianze,method_estremalita,skill_astrazione"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -85,11 +93,13 @@ level: Baltic Way
 > $$f(x)+f(y)\ge f(x+y)$$
 > per ogni $x, y\in\mathbb Q$. Dimostrare che esiste $\alpha\in\mathbb R$ tale che $f(x)\ge\alpha x$ per ogni $x\in\mathbb Q$.
 
-**Topic:** [[topic_algebra|Algebra]]
+**Topic:** [[topic_algebra|Algebra]], [[topic_funzionali|Equazioni funzionali / successioni]], [[topic_disuguaglianze|Disuguaglianze]]
+**Metodo:** [[method_estremalita|Principio di estremalita]]
+**Abilita:** [[skill_astrazione|Astrazione / generalizzazione]]
 **Area:** [[Algebra e Analisi]]
 **Risposta:** dimostrazione — soluzione ufficiale nel PDF
-**Fonte risposta:** soluzione ufficiale PDF p.9
-**Fonte:** apri PDF p.3 · Baltic Way 2025, Università della Lettonia (problemi con soluzioni ufficiali)
+**Fonte risposta:** [soluzione ufficiale PDF p.9](https://www.nms.lu.lv/fileadmin/user_upload/lu_portal/projekti/baltic_way_2013/BW_problems_solutions/BW2025_solutions.pdf#page=9)
+**Fonte:** [apri PDF p.3](https://www.nms.lu.lv/fileadmin/user_upload/lu_portal/projekti/baltic_way_2013/BW_problems_solutions/BW2025_solutions.pdf#page=3) · Baltic Way 2025, Università della Lettonia (problemi con soluzioni ufficiali)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -102,12 +112,14 @@ level: Baltic Way
 > for every $x, y\in\mathbb Q$. Prove that there exists $\alpha\in\mathbb R$ such that $f(x)\ge\alpha x$ for every $x\in\mathbb Q$.
 
 
-**Topic:** [[topic_algebra|Algebra]]
-[[Quesiti/src_baltic_way_2025#q03|src_baltic_way_2025__Q03]]
+**Topic:** [[topic_algebra|Algebra]], [[topic_funzionali|Functional equations / sequences]], [[topic_disuguaglianze|Inequalities]]
+**Metodo:** [[method_estremalita|Extremal principle]]
+**Abilita:** [[skill_astrazione|Abstraction / generalisation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
 
 
 
-<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_algebra"></span>
+<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_algebra,topic_funzionali,method_casework,skill_manipolazione_algebrica,skill_riconoscimento_pattern"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -118,11 +130,13 @@ level: Baltic Way
 > $$\bigl(f(a-c)+f(b-d)\bigr)\bigl(f(a)+f(b)\bigr)=f(ad-bc)+f\bigl(f(a)+f(b)-ac-bd\bigr)$$
 > per ogni scelta di numeri reali $a, b, c, d$.
 
-**Topic:** [[topic_algebra|Algebra]]
+**Topic:** [[topic_algebra|Algebra]], [[topic_funzionali|Equazioni funzionali / successioni]]
+**Metodo:** [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Algebra e Analisi]]
 **Risposta:** $f(x)=0$, $f(x)=\frac12$ e $f(x)=x^2$
-**Fonte risposta:** soluzione ufficiale PDF p.11
-**Fonte:** apri PDF p.3 · Baltic Way 2025, Università della Lettonia (problemi con soluzioni ufficiali)
+**Fonte risposta:** [soluzione ufficiale PDF p.11](https://www.nms.lu.lv/fileadmin/user_upload/lu_portal/projekti/baltic_way_2013/BW_problems_solutions/BW2025_solutions.pdf#page=11)
+**Fonte:** [apri PDF p.3](https://www.nms.lu.lv/fileadmin/user_upload/lu_portal/projekti/baltic_way_2013/BW_problems_solutions/BW2025_solutions.pdf#page=3) · Baltic Way 2025, Università della Lettonia (problemi con soluzioni ufficiali)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -135,12 +149,14 @@ level: Baltic Way
 > for every choice of real numbers $a, b, c, d$.
 
 
-**Topic:** [[topic_algebra|Algebra]]
-[[Quesiti/src_baltic_way_2025#q04|src_baltic_way_2025__Q04]]
+**Topic:** [[topic_algebra|Algebra]], [[topic_funzionali|Functional equations / sequences]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
 
 
 
-<span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_algebra"></span>
+<span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_algebra,topic_disuguaglianze,method_disuguaglianze,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -152,11 +168,13 @@ level: Baltic Way
 > Dimostrare che
 > $$x_1^2+x_2^2+\cdots+x_n^2\ge nx_1x_n.$$
 
-**Topic:** [[topic_algebra|Algebra]]
+**Topic:** [[topic_algebra|Algebra]], [[topic_disuguaglianze|Disuguaglianze]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze classiche]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Algebra e Analisi]]
 **Risposta:** dimostrazione — soluzione ufficiale nel PDF
-**Fonte risposta:** soluzione ufficiale PDF p.12
-**Fonte:** apri PDF p.3 · Baltic Way 2025, Università della Lettonia (problemi con soluzioni ufficiali)
+**Fonte risposta:** [soluzione ufficiale PDF p.12](https://www.nms.lu.lv/fileadmin/user_upload/lu_portal/projekti/baltic_way_2013/BW_problems_solutions/BW2025_solutions.pdf#page=12)
+**Fonte:** [apri PDF p.3](https://www.nms.lu.lv/fileadmin/user_upload/lu_portal/projekti/baltic_way_2013/BW_problems_solutions/BW2025_solutions.pdf#page=3) · Baltic Way 2025, Università della Lettonia (problemi con soluzioni ufficiali)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -170,12 +188,14 @@ level: Baltic Way
 > $$x_1^2+x_2^2+\cdots+x_n^2\ge nx_1x_n.$$
 
 
-**Topic:** [[topic_algebra|Algebra]]
-[[Quesiti/src_baltic_way_2025#q05|src_baltic_way_2025__Q05]]
+**Topic:** [[topic_algebra|Algebra]], [[topic_disuguaglianze|Inequalities]]
+**Metodo:** [[method_disuguaglianze|Classical inequalities]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
 
 
 
-<span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_combinatoria"></span>
+<span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_combinatoria,method_grafi,skill_modellizzazione"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -186,10 +206,12 @@ level: Baltic Way
 > Determinare il minimo numero di eliminazioni dopo le quali è possibile che, per ogni coppia di giocatori, almeno uno dei due abbia liberato l'altro.
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_grafi|Teoria dei grafi]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** $\frac{n(n-1)}{2}+1$
-**Fonte risposta:** soluzione ufficiale PDF p.13
-**Fonte:** apri PDF p.3 · Baltic Way 2025, Università della Lettonia (problemi con soluzioni ufficiali)
+**Fonte risposta:** [soluzione ufficiale PDF p.13](https://www.nms.lu.lv/fileadmin/user_upload/lu_portal/projekti/baltic_way_2013/BW_problems_solutions/BW2025_solutions.pdf#page=13)
+**Fonte:** [apri PDF p.3](https://www.nms.lu.lv/fileadmin/user_upload/lu_portal/projekti/baltic_way_2013/BW_problems_solutions/BW2025_solutions.pdf#page=3) · Baltic Way 2025, Università della Lettonia (problemi con soluzioni ufficiali)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -202,11 +224,13 @@ level: Baltic Way
 
 
 **Topic:** [[topic_combinatoria|Combinatorics]]
-[[Quesiti/src_baltic_way_2025#q06|src_baltic_way_2025__Q06]]
+**Metodo:** [[method_grafi|Graph theory]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
 
 
-<span class="atom-split" id="q07" data-atom="q07" data-title="Quesito 7" data-tags="topic_geometria_solida"></span>
+<span class="atom-split" id="q07" data-atom="q07" data-title="Quesito 7" data-tags="topic_geometria_solida,topic_combinatoria,method_conteggio,skill_conteggio_sistematico,skill_ragionamento_geometrico"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -215,11 +239,13 @@ level: Baltic Way
 
 > Sia $n$ un intero positivo pari. Un cubo $n\times n\times n$ è formato da $n^3$ cubetti unitari. Un insieme di $n$ cubetti che forma un parallelepipedo $1\times1\times n$ si chiama *ago*; un ago può avere tre orientazioni. Determinare il più grande intero $K$ tale che sia possibile scegliere $3K$ aghi, $K$ per ciascuna orientazione, a due a due senza cubetti in comune.
 
-**Topic:** [[topic_geometria_solida|Geometria solida]]
-**Area:** [[Geometria]]
+**Topic:** [[topic_geometria_solida|Geometria solida]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_conteggio|Conteggio combinatorio]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Geometria]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** $K=\frac{n^2}{4}$
-**Fonte risposta:** soluzione ufficiale PDF p.15
-**Fonte:** apri PDF p.3 · Baltic Way 2025, Università della Lettonia (problemi con soluzioni ufficiali)
+**Fonte risposta:** [soluzione ufficiale PDF p.15](https://www.nms.lu.lv/fileadmin/user_upload/lu_portal/projekti/baltic_way_2013/BW_problems_solutions/BW2025_solutions.pdf#page=15)
+**Fonte:** [apri PDF p.3](https://www.nms.lu.lv/fileadmin/user_upload/lu_portal/projekti/baltic_way_2013/BW_problems_solutions/BW2025_solutions.pdf#page=3) · Baltic Way 2025, Università della Lettonia (problemi con soluzioni ufficiali)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -230,12 +256,14 @@ level: Baltic Way
 > Let $n$ be a positive even integer. A cube $n\times n\times n$ is made up of $n^3$ unit cubes. A set of $n$ cubes forming a $1\times1\times n$ parallelepiped is called a *needle*; a needle can have three orientations. Determine the largest integer $K$ such that it is possible to choose $3K$ needles, $K$ for each orientation, pairwise with no cubes in common.
 
 
-**Topic:** [[topic_geometria_solida|Solid geometry]]
-[[Quesiti/src_baltic_way_2025#q07|src_baltic_way_2025__Q07]]
+**Topic:** [[topic_geometria_solida|Solid geometry]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]], [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
 
 
-<span class="atom-split" id="q08" data-atom="q08" data-title="Quesito 8" data-tags="topic_funzionali"></span>
+<span class="atom-split" id="q08" data-atom="q08" data-title="Quesito 8" data-tags="topic_funzionali,topic_combinatoria,method_bigezione,method_ricorsione,skill_riconoscimento_pattern,skill_conteggio_sistematico"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -247,11 +275,13 @@ level: Baltic Way
 > per ogni $k\in\{1,\dots,n\}$, cioè se $a_k$ è uguale al numero di termini della successione maggiori o uguali a $k$, per ogni $k\in\{1,\dots,n\}$.
 > Per ogni intero positivo $n$, determinare il numero di successioni autodescrittive di lunghezza $n$.
 
-**Topic:** [[topic_funzionali|Equazioni funzionali / successioni]]
-**Area:** [[Algebra e Analisi]]
+**Topic:** [[topic_funzionali|Equazioni funzionali / successioni]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_bigezione|Bigezione / corrispondenza]], [[method_ricorsione|Ricorsione]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Algebra e Analisi]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** $2^n$
-**Fonte risposta:** soluzione ufficiale PDF p.16
-**Fonte:** apri PDF p.3 · Baltic Way 2025, Università della Lettonia (problemi con soluzioni ufficiali)
+**Fonte risposta:** [soluzione ufficiale PDF p.16](https://www.nms.lu.lv/fileadmin/user_upload/lu_portal/projekti/baltic_way_2013/BW_problems_solutions/BW2025_solutions.pdf#page=16)
+**Fonte:** [apri PDF p.3](https://www.nms.lu.lv/fileadmin/user_upload/lu_portal/projekti/baltic_way_2013/BW_problems_solutions/BW2025_solutions.pdf#page=3) · Baltic Way 2025, Università della Lettonia (problemi con soluzioni ufficiali)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -265,12 +295,14 @@ level: Baltic Way
 > For every positive integer $n$, determine the number of self-describing sequences of length $n$.
 
 
-**Topic:** [[topic_funzionali|Functional equations / sequences]]
-[[Quesiti/src_baltic_way_2025#q08|src_baltic_way_2025__Q08]]
+**Topic:** [[topic_funzionali|Functional equations / sequences]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_bigezione|Bijection / correspondence]], [[method_ricorsione|Recursion]]
+**Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]], [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
 
 
-<span class="atom-split" id="q09" data-atom="q09" data-title="Quesito 9" data-tags="topic_geometria_piana"></span>
+<span class="atom-split" id="q09" data-atom="q09" data-title="Quesito 9" data-tags="topic_geometria_piana,method_coordinate,method_congruenze,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -280,10 +312,12 @@ level: Baltic Way
 > Un *poliamante baltico* è un $n$-agono con lati di lunghezza $n, n-1, \dots, 2, 1$, esattamente in quest'ordine, e con tutti gli angoli interni di $120^\circ$ o $240^\circ$. Dimostrare che per ogni poliamante baltico $n$ è divisibile per 6.
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_coordinate|Metodo delle coordinate]], [[method_congruenze|Aritmetica modulare / congruenze]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 **Risposta:** dimostrazione — soluzione ufficiale nel PDF
-**Fonte risposta:** soluzione ufficiale PDF p.18
-**Fonte:** apri PDF p.4 · Baltic Way 2025, Università della Lettonia (problemi con soluzioni ufficiali)
+**Fonte risposta:** [soluzione ufficiale PDF p.18](https://www.nms.lu.lv/fileadmin/user_upload/lu_portal/projekti/baltic_way_2013/BW_problems_solutions/BW2025_solutions.pdf#page=18)
+**Fonte:** [apri PDF p.4](https://www.nms.lu.lv/fileadmin/user_upload/lu_portal/projekti/baltic_way_2013/BW_problems_solutions/BW2025_solutions.pdf#page=4) · Baltic Way 2025, Università della Lettonia (problemi con soluzioni ufficiali)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -295,11 +329,13 @@ level: Baltic Way
 
 
 **Topic:** [[topic_geometria_piana|Plane geometry]]
-[[Quesiti/src_baltic_way_2025#q09|src_baltic_way_2025__Q09]]
+**Metodo:** [[method_coordinate|Coordinate method]], [[method_congruenze|Modular arithmetic / congruences]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Geometria|Geometry]]
 
 
 
-<span class="atom-split" id="q10" data-atom="q10" data-title="Quesito 10" data-tags="topic_aritmetica"></span>
+<span class="atom-split" id="q10" data-atom="q10" data-title="Quesito 10" data-tags="topic_aritmetica,topic_combinatoria,method_bigezione,skill_astrazione,skill_riconoscimento_pattern"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -314,11 +350,13 @@ level: Baltic Way
 >
 > Dimostrare che il numero dei numeri meravigliosi è pari.
 
-**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Area:** [[Aritmetica e Teoria dei Numeri]]
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_bigezione|Bigezione / corrispondenza]]
+**Abilita:** [[skill_astrazione|Astrazione / generalizzazione]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** dimostrazione — soluzione ufficiale nel PDF
-**Fonte risposta:** soluzione ufficiale PDF p.21
-**Fonte:** apri PDF p.4 · Baltic Way 2025, Università della Lettonia (problemi con soluzioni ufficiali)
+**Fonte risposta:** [soluzione ufficiale PDF p.21](https://www.nms.lu.lv/fileadmin/user_upload/lu_portal/projekti/baltic_way_2013/BW_problems_solutions/BW2025_solutions.pdf#page=21)
+**Fonte:** [apri PDF p.4](https://www.nms.lu.lv/fileadmin/user_upload/lu_portal/projekti/baltic_way_2013/BW_problems_solutions/BW2025_solutions.pdf#page=4) · Baltic Way 2025, Università della Lettonia (problemi con soluzioni ufficiali)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -335,12 +373,14 @@ level: Baltic Way
 > Prove that the number of wonderful numbers is even.
 
 
-**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
-[[Quesiti/src_baltic_way_2025#q10|src_baltic_way_2025__Q10]]
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_bigezione|Bijection / correspondence]]
+**Abilita:** [[skill_astrazione|Abstraction / generalisation]], [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
 
 
-<span class="atom-split" id="q11" data-atom="q11" data-title="Quesito 11" data-tags="topic_funzionali"></span>
+<span class="atom-split" id="q11" data-atom="q11" data-title="Quesito 11" data-tags="topic_funzionali,topic_geometria_piana,method_disuguaglianze,method_estremalita,skill_ragionamento_geometrico"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -352,11 +392,13 @@ level: Baltic Way
 > dove $|PQ|$ indica la distanza euclidea tra i punti $P$ e $Q$.
 > Siano $K$ e $L$ le lunghezze di due Baltic Way sulla stessa successione di $n$ punti. Per un dato $n$, determinare il massimo valore possibile di $K/L$ al variare di tutte le possibili successioni $A_1, \dots, A_n$.
 
-**Topic:** [[topic_funzionali|Equazioni funzionali / successioni]]
-**Area:** [[Algebra e Analisi]]
+**Topic:** [[topic_funzionali|Equazioni funzionali / successioni]], [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze classiche]], [[method_estremalita|Principio di estremalita]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Algebra e Analisi]], [[Geometria]]
 **Risposta:** $\lfloor n/2\rfloor$
-**Fonte risposta:** soluzione ufficiale PDF p.22
-**Fonte:** apri PDF p.4 · Baltic Way 2025, Università della Lettonia (problemi con soluzioni ufficiali)
+**Fonte risposta:** [soluzione ufficiale PDF p.22](https://www.nms.lu.lv/fileadmin/user_upload/lu_portal/projekti/baltic_way_2013/BW_problems_solutions/BW2025_solutions.pdf#page=22)
+**Fonte:** [apri PDF p.4](https://www.nms.lu.lv/fileadmin/user_upload/lu_portal/projekti/baltic_way_2013/BW_problems_solutions/BW2025_solutions.pdf#page=4) · Baltic Way 2025, Università della Lettonia (problemi con soluzioni ufficiali)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -370,12 +412,14 @@ level: Baltic Way
 > Let $K$ and $L$ be the lengths of two Baltic Ways on the same sequence of $n$ points. For a given $n$, determine the maximum possible value of $K/L$ as the sequence $A_1, \dots, A_n$ varies over all possibilities.
 
 
-**Topic:** [[topic_funzionali|Functional equations / sequences]]
-[[Quesiti/src_baltic_way_2025#q11|src_baltic_way_2025__Q11]]
+**Topic:** [[topic_funzionali|Functional equations / sequences]], [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_disuguaglianze|Classical inequalities]], [[method_estremalita|Extremal principle]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Geometria|Geometry]]
 
 
 
-<span class="atom-split" id="q12" data-atom="q12" data-title="Quesito 12" data-tags="topic_geometria_piana"></span>
+<span class="atom-split" id="q12" data-atom="q12" data-title="Quesito 12" data-tags="topic_geometria_piana,method_trigonometria,skill_ragionamento_geometrico"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -385,10 +429,12 @@ level: Baltic Way
 > In un triangolo acutangolo $ABC$ con $AB<AC$, l'incentro è $I$ e la circonferenza circoscritta è $\omega$. La retta $AI$ interseca il lato $BC$ in $D$. Sia $T$ il punto di $\omega$ tale che $AT\parallel BC$. La retta $TI$ interseca di nuovo $\omega$ in $P$ e la circonferenza circoscritta al triangolo $APD$ di nuovo in $Q$. Dimostrare che $AI=DQ$.
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_trigonometria|Tecniche trigonometriche]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]]
 **Risposta:** dimostrazione — soluzione ufficiale nel PDF
-**Fonte risposta:** soluzione ufficiale PDF p.24
-**Fonte:** apri PDF p.4 · Baltic Way 2025, Università della Lettonia (problemi con soluzioni ufficiali)
+**Fonte risposta:** [soluzione ufficiale PDF p.24](https://www.nms.lu.lv/fileadmin/user_upload/lu_portal/projekti/baltic_way_2013/BW_problems_solutions/BW2025_solutions.pdf#page=24)
+**Fonte:** [apri PDF p.4](https://www.nms.lu.lv/fileadmin/user_upload/lu_portal/projekti/baltic_way_2013/BW_problems_solutions/BW2025_solutions.pdf#page=4) · Baltic Way 2025, Università della Lettonia (problemi con soluzioni ufficiali)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -400,11 +446,13 @@ level: Baltic Way
 
 
 **Topic:** [[topic_geometria_piana|Plane geometry]]
-[[Quesiti/src_baltic_way_2025#q12|src_baltic_way_2025__Q12]]
+**Metodo:** [[method_trigonometria|Trigonometric techniques]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
 
 
 
-<span class="atom-split" id="q13" data-atom="q13" data-title="Quesito 13" data-tags="topic_geometria_piana"></span>
+<span class="atom-split" id="q13" data-atom="q13" data-title="Quesito 13" data-tags="topic_geometria_piana,skill_ragionamento_geometrico"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -416,10 +464,11 @@ level: Baltic Way
 > Dimostrare che $PE\perp BC$.
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]]
 **Risposta:** dimostrazione — soluzione ufficiale nel PDF
-**Fonte risposta:** soluzione ufficiale PDF p.25
-**Fonte:** apri PDF p.4 · Baltic Way 2025, Università della Lettonia (problemi con soluzioni ufficiali)
+**Fonte risposta:** [soluzione ufficiale PDF p.25](https://www.nms.lu.lv/fileadmin/user_upload/lu_portal/projekti/baltic_way_2013/BW_problems_solutions/BW2025_solutions.pdf#page=25)
+**Fonte:** [apri PDF p.4](https://www.nms.lu.lv/fileadmin/user_upload/lu_portal/projekti/baltic_way_2013/BW_problems_solutions/BW2025_solutions.pdf#page=4) · Baltic Way 2025, Università della Lettonia (problemi con soluzioni ufficiali)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -433,11 +482,12 @@ level: Baltic Way
 
 
 **Topic:** [[topic_geometria_piana|Plane geometry]]
-[[Quesiti/src_baltic_way_2025#q13|src_baltic_way_2025__Q13]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
 
 
 
-<span class="atom-split" id="q14" data-atom="q14" data-title="Quesito 14" data-tags="topic_geometria_piana"></span>
+<span class="atom-split" id="q14" data-atom="q14" data-title="Quesito 14" data-tags="topic_geometria_piana,skill_ragionamento_geometrico"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -447,10 +497,11 @@ level: Baltic Way
 > In un triangolo acutangolo $ABC$ con $AB<AC$, la circonferenza circoscritta è $\omega$ e l'ortocentro è $H$. Il punto $P$ sull'arco maggiore $BC$ di $\omega$ soddisfa $\angle PCB+\angle ACB=90^\circ$. Il punto $R$ sul segmento $AC$ soddisfa $BR=CR$. Dimostrare che $\angle HPR=\angle ACB$.
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]]
 **Risposta:** dimostrazione — soluzione ufficiale nel PDF
-**Fonte risposta:** soluzione ufficiale PDF p.26
-**Fonte:** apri PDF p.4 · Baltic Way 2025, Università della Lettonia (problemi con soluzioni ufficiali)
+**Fonte risposta:** [soluzione ufficiale PDF p.26](https://www.nms.lu.lv/fileadmin/user_upload/lu_portal/projekti/baltic_way_2013/BW_problems_solutions/BW2025_solutions.pdf#page=26)
+**Fonte:** [apri PDF p.4](https://www.nms.lu.lv/fileadmin/user_upload/lu_portal/projekti/baltic_way_2013/BW_problems_solutions/BW2025_solutions.pdf#page=4) · Baltic Way 2025, Università della Lettonia (problemi con soluzioni ufficiali)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -462,11 +513,12 @@ level: Baltic Way
 
 
 **Topic:** [[topic_geometria_piana|Plane geometry]]
-[[Quesiti/src_baltic_way_2025#q14|src_baltic_way_2025__Q14]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
 
 
 
-<span class="atom-split" id="q15" data-atom="q15" data-title="Quesito 15" data-tags="topic_geometria_piana"></span>
+<span class="atom-split" id="q15" data-atom="q15" data-title="Quesito 15" data-tags="topic_geometria_piana,skill_ragionamento_geometrico"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -476,10 +528,11 @@ level: Baltic Way
 > In un triangolo acutangolo scaleno $ABC$, l'asse di $BC$ interseca $AC$ e $AB$ rispettivamente in $A_b$ e $A_c$. Si definiscano analogamente $B_c$, $B_a$, $C_a$ e $C_b$. Dimostrare che i circocentri di $ABC$, $A_bB_cC_a$ e $A_cB_aC_b$ sono allineati.
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]]
 **Risposta:** dimostrazione — soluzione ufficiale nel PDF
-**Fonte risposta:** soluzione ufficiale PDF p.27
-**Fonte:** apri PDF p.4 · Baltic Way 2025, Università della Lettonia (problemi con soluzioni ufficiali)
+**Fonte risposta:** [soluzione ufficiale PDF p.27](https://www.nms.lu.lv/fileadmin/user_upload/lu_portal/projekti/baltic_way_2013/BW_problems_solutions/BW2025_solutions.pdf#page=27)
+**Fonte:** [apri PDF p.4](https://www.nms.lu.lv/fileadmin/user_upload/lu_portal/projekti/baltic_way_2013/BW_problems_solutions/BW2025_solutions.pdf#page=4) · Baltic Way 2025, Università della Lettonia (problemi con soluzioni ufficiali)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -491,11 +544,12 @@ level: Baltic Way
 
 
 **Topic:** [[topic_geometria_piana|Plane geometry]]
-[[Quesiti/src_baltic_way_2025#q15|src_baltic_way_2025__Q15]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
 
 
 
-<span class="atom-split" id="q16" data-atom="q16" data-title="Quesito 16" data-tags="topic_aritmetica"></span>
+<span class="atom-split" id="q16" data-atom="q16" data-title="Quesito 16" data-tags="topic_aritmetica,topic_disuguaglianze,method_disuguaglianze,skill_stima,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -505,11 +559,13 @@ level: Baltic Way
 > Siano $a, b, c, n$ interi positivi tali che $abc=10^n-1$. Se $S(x)$ indica la somma delle cifre di $x$ in notazione decimale, dimostrare che
 > $$S(a)+S(b^2)+S(c^4)\ge\sqrt[3]{243n}.$$
 
-**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Area:** [[Aritmetica e Teoria dei Numeri]]
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_disuguaglianze|Disuguaglianze]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze classiche]]
+**Abilita:** [[skill_stima|Stima e approssimazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 **Risposta:** dimostrazione — soluzione ufficiale nel PDF
-**Fonte risposta:** soluzione ufficiale PDF p.28
-**Fonte:** apri PDF p.4 · Baltic Way 2025, Università della Lettonia (problemi con soluzioni ufficiali)
+**Fonte risposta:** [soluzione ufficiale PDF p.28](https://www.nms.lu.lv/fileadmin/user_upload/lu_portal/projekti/baltic_way_2013/BW_problems_solutions/BW2025_solutions.pdf#page=28)
+**Fonte:** [apri PDF p.4](https://www.nms.lu.lv/fileadmin/user_upload/lu_portal/projekti/baltic_way_2013/BW_problems_solutions/BW2025_solutions.pdf#page=4) · Baltic Way 2025, Università della Lettonia (problemi con soluzioni ufficiali)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -521,12 +577,14 @@ level: Baltic Way
 > $$S(a)+S(b^2)+S(c^4)\ge\sqrt[3]{243n}.$$
 
 
-**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
-[[Quesiti/src_baltic_way_2025#q16|src_baltic_way_2025__Q16]]
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_disuguaglianze|Inequalities]]
+**Metodo:** [[method_disuguaglianze|Classical inequalities]]
+**Abilita:** [[skill_stima|Estimation and approximation]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Algebra e Analisi|Algebra and analysis]]
 
 
 
-<span class="atom-split" id="q17" data-atom="q17" data-title="Quesito 17" data-tags="topic_aritmetica"></span>
+<span class="atom-split" id="q17" data-atom="q17" data-title="Quesito 17" data-tags="topic_aritmetica,method_casework,skill_casework_accurato,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -537,10 +595,12 @@ level: Baltic Way
 > Determinare tutti i possibili valori del numero di divisori positivi di un numero brillante.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** tutti i numeri pari maggiori o uguali a 8
-**Fonte risposta:** soluzione ufficiale PDF p.29
-**Fonte:** apri PDF p.5 · Baltic Way 2025, Università della Lettonia (problemi con soluzioni ufficiali)
+**Fonte risposta:** [soluzione ufficiale PDF p.29](https://www.nms.lu.lv/fileadmin/user_upload/lu_portal/projekti/baltic_way_2013/BW_problems_solutions/BW2025_solutions.pdf#page=29)
+**Fonte:** [apri PDF p.5](https://www.nms.lu.lv/fileadmin/user_upload/lu_portal/projekti/baltic_way_2013/BW_problems_solutions/BW2025_solutions.pdf#page=5) · Baltic Way 2025, Università della Lettonia (problemi con soluzioni ufficiali)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -553,11 +613,13 @@ level: Baltic Way
 
 
 **Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
-[[Quesiti/src_baltic_way_2025#q17|src_baltic_way_2025__Q17]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
 
 
-<span class="atom-split" id="q18" data-atom="q18" data-title="Quesito 18" data-tags="topic_aritmetica"></span>
+<span class="atom-split" id="q18" data-atom="q18" data-title="Quesito 18" data-tags="topic_aritmetica,topic_funzionali,method_casework,skill_casework_accurato,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -568,11 +630,13 @@ level: Baltic Way
 > $$\operatorname{mcm}\bigl(f(a+b),f(b)\bigr)\mid\operatorname{mcm}\bigl(a+f(b),b\bigr)$$
 > per ogni coppia di interi positivi $a, b$.
 
-**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Area:** [[Aritmetica e Teoria dei Numeri]]
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_funzionali|Equazioni funzionali / successioni]]
+**Metodo:** [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 **Risposta:** $f(x)=1$ se $x$ è dispari o $x=2$; $f(x)\in\{1,2\}$ altrimenti
-**Fonte risposta:** soluzione ufficiale PDF p.30
-**Fonte:** apri PDF p.5 · Baltic Way 2025, Università della Lettonia (problemi con soluzioni ufficiali)
+**Fonte risposta:** [soluzione ufficiale PDF p.30](https://www.nms.lu.lv/fileadmin/user_upload/lu_portal/projekti/baltic_way_2013/BW_problems_solutions/BW2025_solutions.pdf#page=30)
+**Fonte:** [apri PDF p.5](https://www.nms.lu.lv/fileadmin/user_upload/lu_portal/projekti/baltic_way_2013/BW_problems_solutions/BW2025_solutions.pdf#page=5) · Baltic Way 2025, Università della Lettonia (problemi con soluzioni ufficiali)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -585,12 +649,14 @@ level: Baltic Way
 > for every pair of positive integers $a, b$.
 
 
-**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
-[[Quesiti/src_baltic_way_2025#q18|src_baltic_way_2025__Q18]]
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_funzionali|Functional equations / sequences]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Algebra e Analisi|Algebra and analysis]]
 
 
 
-<span class="atom-split" id="q19" data-atom="q19" data-title="Quesito 19" data-tags="topic_logica"></span>
+<span class="atom-split" id="q19" data-atom="q19" data-title="Quesito 19" data-tags="topic_logica,topic_aritmetica,method_invarianti,skill_modellizzazione,skill_astrazione,skill_lettura_attenta"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -603,11 +669,13 @@ level: Baltic Way
 > - terminare il gioco con un solo numero rimasto, sia
 > - terminare il gioco con $N$ numeri rimasti.
 
-**Topic:** [[topic_logica|Logica, giochi, strategie]]
-**Area:** [[Combinatoria, Logica e Probabilita]]
+**Topic:** [[topic_logica|Logica, giochi, strategie]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_invarianti|Invarianti / monovarianti]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_astrazione|Astrazione / generalizzazione]], [[skill_lettura_attenta|Lettura attenta del testo]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** $N=99$
-**Fonte risposta:** soluzione ufficiale PDF p.31
-**Fonte:** apri PDF p.5 · Baltic Way 2025, Università della Lettonia (problemi con soluzioni ufficiali)
+**Fonte risposta:** [soluzione ufficiale PDF p.31](https://www.nms.lu.lv/fileadmin/user_upload/lu_portal/projekti/baltic_way_2013/BW_problems_solutions/BW2025_solutions.pdf#page=31)
+**Fonte:** [apri PDF p.5](https://www.nms.lu.lv/fileadmin/user_upload/lu_portal/projekti/baltic_way_2013/BW_problems_solutions/BW2025_solutions.pdf#page=5) · Baltic Way 2025, Università della Lettonia (problemi con soluzioni ufficiali)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -622,12 +690,14 @@ level: Baltic Way
 > - end the game with $N$ numbers remaining.
 
 
-**Topic:** [[topic_logica|Logic, games, strategies]]
-[[Quesiti/src_baltic_way_2025#q19|src_baltic_way_2025__Q19]]
+**Topic:** [[topic_logica|Logic, games and strategies]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_invarianti|Invariants / monovariants]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]], [[skill_astrazione|Abstraction / generalisation]], [[skill_lettura_attenta|Careful reading of the text]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
 
 
-<span class="atom-split" id="q20" data-atom="q20" data-title="Quesito 20" data-tags="topic_funzionali"></span>
+<span class="atom-split" id="q20" data-atom="q20" data-title="Quesito 20" data-tags="topic_funzionali,topic_aritmetica,topic_combinatoria,method_congruenze,method_casework,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -636,11 +706,13 @@ level: Baltic Way
 
 > Determinare tutti gli interi positivi $n$ per cui esiste una permutazione $a_1, \dots, a_n$ di $1, \dots, n$ tale che i numeri $a_1, 2a_2, \dots, na_n$ siano a due a due distinti modulo $n$.
 
-**Topic:** [[topic_funzionali|Equazioni funzionali / successioni]]
-**Area:** [[Algebra e Analisi]]
+**Topic:** [[topic_funzionali|Equazioni funzionali / successioni]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]], [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** $n=1$ e $n=2$
-**Fonte risposta:** soluzione ufficiale PDF p.32
-**Fonte:** apri PDF p.5 · Baltic Way 2025, Università della Lettonia (problemi con soluzioni ufficiali)
+**Fonte risposta:** [soluzione ufficiale PDF p.32](https://www.nms.lu.lv/fileadmin/user_upload/lu_portal/projekti/baltic_way_2013/BW_problems_solutions/BW2025_solutions.pdf#page=32)
+**Fonte:** [apri PDF p.5](https://www.nms.lu.lv/fileadmin/user_upload/lu_portal/projekti/baltic_way_2013/BW_problems_solutions/BW2025_solutions.pdf#page=5) · Baltic Way 2025, Università della Lettonia (problemi con soluzioni ufficiali)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -651,5 +723,7 @@ level: Baltic Way
 > Determine all positive integers $n$ for which there exists a permutation $a_1, \dots, a_n$ of $1, \dots, n$ such that the numbers $a_1, 2a_2, \dots, na_n$ are pairwise distinct modulo $n$.
 
 
-**Topic:** [[topic_funzionali|Functional equations / sequences]]
-[[Quesiti/src_baltic_way_2025#q20|src_baltic_way_2025__Q20]]
+**Topic:** [[topic_funzionali|Functional equations / sequences]], [[topic_aritmetica|Arithmetic / Number theory]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]], [[method_casework|Case analysis]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]

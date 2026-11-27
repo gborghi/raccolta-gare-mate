@@ -10,7 +10,7 @@ level: Concours Général
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_algebra,topic_aritmetica,method_induzione,method_fattorizzazione,skill_manipolazione_algebrica,skill_lettura_attenta,skill_riconoscimento_pattern"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_algebra,topic_aritmetica,topic_funzionali,method_induzione,method_fattorizzazione,method_casework,skill_manipolazione_algebrica,skill_lettura_attenta,skill_riconoscimento_pattern,skill_stima"></span>
 
 <div class="qlang-switch" data-default="fr"></div>
 
@@ -33,9 +33,9 @@ level: Concours Général
 >
 > Déterminer les entiers naturels non nuls $p$ tels que, quel que soit l'entier naturel non nul $n$, $S_{n,p}$ soit le carré d'un entier naturel.
 
-**Topic:** [[topic_algebra|Algèbre]], [[topic_aritmetica|Arithmétique / Théorie des nombres]]
-**Metodo:** [[method_induzione|Récurrence]], [[method_fattorizzazione|Factorisation]]
-**Abilita:** [[skill_manipolazione_algebrica|Manipulation algébrique]], [[skill_lettura_attenta|Lecture attentive]], [[skill_riconoscimento_pattern|Reconnaissance de motifs]]
+**Topic:** [[topic_algebra|Algèbre]], [[topic_aritmetica|Arithmétique / Théorie des nombres]], [[topic_funzionali|Équations fonctionnelles]]
+**Metodo:** [[method_induzione|Récurrence]], [[method_fattorizzazione|Factorisation]], [[method_casework|Disjonction de cas]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipulation algébrique]], [[skill_lettura_attenta|Lecture attentive]], [[skill_riconoscimento_pattern|Reconnaissance de motifs]], [[skill_stima|Estimation]]
 **Area:** [[Algebra e Analisi|Algèbre et analyse]], [[Aritmetica e Teoria dei Numeri|Arithmétique et théorie des nombres]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1u-mEdJF7yrrB2YNFkv9USeSkjKrJqpe7/view)
 
@@ -61,7 +61,10 @@ level: Concours Général
 >
 > Determinare gli interi positivi $p$ tali che, per ogni intero positivo $n$, $S_{n,p}$ sia il quadrato di un intero non negativo.
 
-[[Quesiti/src_cgen_1991#q01|src_cgen_1991__Q01]]
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_funzionali|Equazioni funzionali / successioni]]
+**Metodo:** [[method_induzione|Induzione]], [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]], [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta del testo]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_stima|Stima e approssimazione]]
+**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -85,11 +88,14 @@ level: Concours Général
 >
 > Determine the positive integers $p$ such that, for every positive integer $n$, $S_{n,p}$ is the square of a nonnegative integer.
 
-[[Quesiti/src_cgen_1991#q01|src_cgen_1991__Q01]]
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Arithmetic / Number theory]], [[topic_funzionali|Functional equations / sequences]]
+**Metodo:** [[method_induzione|Induction]], [[method_fattorizzazione|Factorisation / algebraic manipulation]], [[method_casework|Case analysis]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_lettura_attenta|Careful reading of the text]], [[skill_riconoscimento_pattern|Pattern recognition]], [[skill_stima|Estimation and approximation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
 
 
-<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_insiemi_funzioni,topic_algebra,method_telescoping,method_estremalita,skill_manipolazione_algebrica,skill_stima,skill_lettura_attenta"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_insiemi_funzioni,topic_algebra,method_telescoping,method_estremalita,method_fattorizzazione,skill_manipolazione_algebrica,skill_stima,skill_lettura_attenta"></span>
 
 <div class="qlang-switch" data-default="fr"></div>
 
@@ -109,7 +115,7 @@ level: Concours Général
 > 2. Déterminer la limite de la suite de terme général $f_n(n)$.
 
 **Topic:** [[topic_insiemi_funzioni|Ensembles et fonctions]], [[topic_algebra|Algèbre]]
-**Metodo:** [[method_telescoping|Télescopage]], [[method_estremalita|Extrémalité]]
+**Metodo:** [[method_telescoping|Télescopage]], [[method_estremalita|Extrémalité]], [[method_fattorizzazione|Factorisation]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipulation algébrique]], [[skill_stima|Estimation]], [[skill_lettura_attenta|Lecture attentive]]
 **Area:** [[Algebra e Analisi|Algèbre et analyse]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1u-mEdJF7yrrB2YNFkv9USeSkjKrJqpe7/view)
@@ -132,7 +138,10 @@ level: Concours Général
 >
 > 2. Determinare il limite della successione di termine generale $f_n(n)$.
 
-[[Quesiti/src_cgen_1991#q02|src_cgen_1991__Q02]]
+**Topic:** [[topic_insiemi_funzioni|Insiemi e funzioni]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_telescoping|Somme telescopiche]], [[method_estremalita|Principio di estremalita]], [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima e approssimazione]], [[skill_lettura_attenta|Lettura attenta del testo]]
+**Area:** [[Algebra e Analisi]]
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -152,14 +161,14 @@ level: Concours Général
 >
 > 2. Determine the limit of the sequence with general term $f_n(n)$.
 
-[[Quesiti/src_cgen_1991#q02|src_cgen_1991__Q02]]
+**Topic:** [[topic_insiemi_funzioni|Sets and functions]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_telescoping|Telescoping sums]], [[method_estremalita|Extremal principle]], [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_stima|Estimation and approximation]], [[skill_lettura_attenta|Careful reading of the text]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
 
 
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_geometria_solida,topic_geometria_analitica,method_coordinate,method_simmetria,skill_ragionamento_geometrico,skill_manipolazione_algebrica,skill_modellizzazione"></span>
-
-<div class="qlang-switch" data-default="fr"></div>
-
 
 *Tétraèdres inscrits dans une sphère, arêtes issues de S deux à deux orthogonales*
 
@@ -181,27 +190,20 @@ level: Concours Général
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1u-mEdJF7yrrB2YNFkv9USeSkjKrJqpe7/view)
 
 
-<div class="qlang-split" data-lang="it"></div>
 
+<span class="atom-split" id="q03__en" data-atom="q03__en" data-title="Q03__EN" data-tags=""></span>
 
-*Tetraedri inscritti in una sfera, spigoli uscenti da S a due a due ortogonali*
-
-> **Esercizio III**
->
-> Sia $S$ un punto fisso di una sfera fissa $(\Sigma)$ di centro $\Omega$.
->
-> Si considerino i tetraedri $SABC$ inscritti nella sfera $(\Sigma)$ i cui spigoli uscenti da $S$ sono a due a due ortogonali.
->
-> 1. Dimostrare che i piani $(ABC)$ passano per un punto fisso.
-> 2. Per un tale tetraedro $SABC$, il punto $S$ e il centro $\Omega$ della sfera $(\Sigma)$ si proiettano ortogonalmente sul piano $(ABC)$ rispettivamente in $H$ e in $O$. Si indichi con $R$ il raggio del cerchio circoscritto al triangolo $ABC$. Dimostrare che
->
-> $$R^2 = OH^2 + 2\, SH^2.$$
-
-[[Quesiti/src_cgen_1991#q03|src_cgen_1991__Q03]]
-
-
-<div class="qlang-split" data-lang="en"></div>
-
+---
+tipo: quesito-translation
+translation_of: src_cgen_1991__Q03
+lang: en
+secondary: true
+title: "Concours Général des Lycées 1991 — Exercise III"
+summary: "Tetrahedra inscribed in a sphere, edges from S pairwise orthogonal"
+topics: [topic_geometria_solida, topic_geometria_analitica]
+methods: [method_coordinate, method_simmetria]
+skills: [skill_ragionamento_geometrico, skill_manipolazione_algebrica, skill_modellizzazione]
+tags: [kg/translation, topic/geometria_solida, topic/geometria_analitica]---
 
 *Tetrahedra inscribed in a sphere, edges from S pairwise orthogonal*
 
@@ -216,14 +218,50 @@ level: Concours Général
 >
 > $$R^2 = OH^2 + 2\, SH^2.$$
 
+**Topic:** [[topic_geometria_solida|Solid geometry]], [[topic_geometria_analitica|Coordinate geometry]]
+**Metodo:** [[method_coordinate|Coordinate method]], [[method_simmetria|Using symmetry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Geometria|Geometry]]
+[[Quesiti/src_cgen_1991#q03|src_cgen_1991__Q03]]
+
+
+
+<span class="atom-split" id="q03__it" data-atom="q03__it" data-title="Q03__IT" data-tags=""></span>
+
+---
+tipo: quesito-translation
+translation_of: src_cgen_1991__Q03
+lang: it
+secondary: true
+title: "Concours Général des Lycées 1991 — Esercizio III"
+summary: "Tetraedri inscritti in una sfera, spigoli uscenti da S a due a due ortogonali"
+topics: [topic_geometria_solida, topic_geometria_analitica]
+methods: [method_coordinate, method_simmetria]
+skills: [skill_ragionamento_geometrico, skill_manipolazione_algebrica, skill_modellizzazione]
+tags: [kg/translation, topic/geometria_solida, topic/geometria_analitica]---
+
+*Tetraedri inscritti in una sfera, spigoli uscenti da S a due a due ortogonali*
+
+> **Esercizio III**
+>
+> Sia $S$ un punto fisso di una sfera fissa $(\Sigma)$ di centro $\Omega$.
+>
+> Si considerino i tetraedri $SABC$ inscritti nella sfera $(\Sigma)$ i cui spigoli uscenti da $S$ sono a due a due ortogonali.
+>
+> 1. Dimostrare che i piani $(ABC)$ passano per un punto fisso.
+> 2. Per un tale tetraedro $SABC$, il punto $S$ e il centro $\Omega$ della sfera $(\Sigma)$ si proiettano ortogonalmente sul piano $(ABC)$ rispettivamente in $H$ e in $O$. Si indichi con $R$ il raggio del cerchio circoscritto al triangolo $ABC$. Dimostrare che
+>
+> $$R^2 = OH^2 + 2\, SH^2.$$
+
+**Topic:** [[topic_geometria_solida|Geometria solida]], [[topic_geometria_analitica|Geometria analitica]]
+**Metodo:** [[method_coordinate|Metodo delle coordinate]], [[method_simmetria|Sfruttamento della simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
+**Area:** [[Geometria]]
 [[Quesiti/src_cgen_1991#q03|src_cgen_1991__Q03]]
 
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_combinatoria,topic_insiemi_funzioni,method_estremalita,method_casework,method_induzione,skill_conteggio_sistematico,skill_riconoscimento_pattern,skill_lettura_attenta"></span>
-
-<div class="qlang-switch" data-default="fr"></div>
-
 
 *Plus grande partie de {1,...,2^p} sans x et 2x*
 
@@ -242,24 +280,20 @@ level: Concours Général
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1u-mEdJF7yrrB2YNFkv9USeSkjKrJqpe7/view)
 
 
-<div class="qlang-split" data-lang="it"></div>
 
+<span class="atom-split" id="q04__en" data-atom="q04__en" data-title="Q04__EN" data-tags=""></span>
 
-*Massima parte di {1,...,2^p} senza x e 2x insieme*
-
-> **Esercizio IV**
->
-> Sia $p$ un intero non negativo e $n = 2^p$.
->
-> Si considerino le parti $A$ dell'insieme $E = \{1, 2, \ldots, n\}$ con la proprietà seguente: se $x$ appartiene ad $A$, allora $2x$ non appartiene ad $A$.
->
-> Determinare il numero massimo di elementi di una tale parte $A$.
-
-[[Quesiti/src_cgen_1991#q04|src_cgen_1991__Q04]]
-
-
-<div class="qlang-split" data-lang="en"></div>
-
+---
+tipo: quesito-translation
+translation_of: src_cgen_1991__Q04
+lang: en
+secondary: true
+title: "Concours Général des Lycées 1991 — Exercise IV"
+summary: "Largest subset of {1,...,2^p} containing no x together with 2x"
+topics: [topic_combinatoria, topic_insiemi_funzioni]
+methods: [method_estremalita, method_casework, method_induzione]
+skills: [skill_conteggio_sistematico, skill_riconoscimento_pattern, skill_lettura_attenta]
+tags: [kg/translation, topic/combinatoria, topic/insiemi_funzioni]---
 
 *Largest subset of {1,...,2^p} containing no x together with 2x*
 
@@ -271,11 +305,47 @@ level: Concours Général
 >
 > Determine the maximum number of elements of such a subset $A$.
 
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_insiemi_funzioni|Sets and functions]]
+**Metodo:** [[method_estremalita|Extremal principle]], [[method_casework|Case analysis]], [[method_induzione|Induction]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]], [[skill_riconoscimento_pattern|Pattern recognition]], [[skill_lettura_attenta|Careful reading of the text]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Algebra e Analisi|Algebra and analysis]]
 [[Quesiti/src_cgen_1991#q04|src_cgen_1991__Q04]]
 
 
 
-<span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_algebra,topic_geometria_piana,topic_disuguaglianze,method_estremalita,method_simmetria,method_trigonometria,skill_manipolazione_algebrica,skill_ragionamento_geometrico,skill_modellizzazione,skill_stima"></span>
+<span class="atom-split" id="q04__it" data-atom="q04__it" data-title="Q04__IT" data-tags=""></span>
+
+---
+tipo: quesito-translation
+translation_of: src_cgen_1991__Q04
+lang: it
+secondary: true
+title: "Concours Général des Lycées 1991 — Esercizio IV"
+summary: "Massima parte di {1,...,2^p} senza x e 2x insieme"
+topics: [topic_combinatoria, topic_insiemi_funzioni]
+methods: [method_estremalita, method_casework, method_induzione]
+skills: [skill_conteggio_sistematico, skill_riconoscimento_pattern, skill_lettura_attenta]
+tags: [kg/translation, topic/combinatoria, topic/insiemi_funzioni]---
+
+*Massima parte di {1,...,2^p} senza x e 2x insieme*
+
+> **Esercizio IV**
+>
+> Sia $p$ un intero non negativo e $n = 2^p$.
+>
+> Si considerino le parti $A$ dell'insieme $E = \{1, 2, \ldots, n\}$ con la proprietà seguente: se $x$ appartiene ad $A$, allora $2x$ non appartiene ad $A$.
+>
+> Determinare il numero massimo di elementi di una tale parte $A$.
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_insiemi_funzioni|Insiemi e funzioni]]
+**Metodo:** [[method_estremalita|Principio di estremalita]], [[method_casework|Analisi per casi]], [[method_induzione|Induzione]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_lettura_attenta|Lettura attenta del testo]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Algebra e Analisi]]
+[[Quesiti/src_cgen_1991#q04|src_cgen_1991__Q04]]
+
+
+
+<span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_algebra,topic_geometria_piana,topic_disuguaglianze,topic_trigonometria,method_estremalita,method_simmetria,method_trigonometria,skill_manipolazione_algebrica,skill_ragionamento_geometrico,skill_modellizzazione,skill_stima"></span>
 
 <div class="qlang-switch" data-default="fr"></div>
 
@@ -300,7 +370,7 @@ level: Concours Général
 >
 > $$SA_1 \cdot SA_2 \cdot SA_3 \cdot SA_4 \cdot SA_5 \geqslant R^5.$$
 
-**Topic:** [[topic_algebra|Algèbre]], [[topic_geometria_piana|Géométrie plane]], [[topic_disuguaglianze|Inégalités]]
+**Topic:** [[topic_algebra|Algèbre]], [[topic_geometria_piana|Géométrie plane]], [[topic_disuguaglianze|Inégalités]], [[topic_trigonometria|Trigonométrie]]
 **Metodo:** [[method_estremalita|Extrémalité]], [[method_simmetria|Symétrie]], [[method_trigonometria|Trigonométrie]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipulation algébrique]], [[skill_ragionamento_geometrico|Raisonnement géométrique]], [[skill_modellizzazione|Modélisation]], [[skill_stima|Estimation]]
 **Area:** [[Algebra e Analisi|Algèbre et analyse]], [[Geometria|Géométrie]]
@@ -330,7 +400,10 @@ level: Concours Général
 >
 > $$SA_1 \cdot SA_2 \cdot SA_3 \cdot SA_4 \cdot SA_5 \geqslant R^5.$$
 
-[[Quesiti/src_cgen_1991#q05|src_cgen_1991__Q05]]
+**Topic:** [[topic_algebra|Algebra]], [[topic_geometria_piana|Geometria piana]], [[topic_disuguaglianze|Disuguaglianze]], [[topic_trigonometria|Trigonometria]]
+**Metodo:** [[method_estremalita|Principio di estremalita]], [[method_simmetria|Sfruttamento della simmetria]], [[method_trigonometria|Tecniche trigonometriche]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_stima|Stima e approssimazione]]
+**Area:** [[Algebra e Analisi]], [[Geometria]]
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -356,4 +429,7 @@ level: Concours Général
 >
 > $$SA_1 \cdot SA_2 \cdot SA_3 \cdot SA_4 \cdot SA_5 \geqslant R^5.$$
 
-[[Quesiti/src_cgen_1991#q05|src_cgen_1991__Q05]]
+**Topic:** [[topic_algebra|Algebra]], [[topic_geometria_piana|Plane geometry]], [[topic_disuguaglianze|Inequalities]], [[topic_trigonometria|Trigonometry]]
+**Metodo:** [[method_estremalita|Extremal principle]], [[method_simmetria|Using symmetry]], [[method_trigonometria|Trigonometric techniques]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_modellizzazione|Modelling / translating the text]], [[skill_stima|Estimation and approximation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Geometria|Geometry]]

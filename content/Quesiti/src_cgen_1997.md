@@ -10,7 +10,7 @@ level: Concours Général
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_combinatoria,topic_aritmetica,method_estremalita,method_invarianti,skill_lettura_attenta,skill_conteggio_sistematico,skill_astrazione"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_combinatoria,topic_aritmetica,method_estremalita,method_invarianti,skill_lettura_attenta,skill_conteggio_sistematico,skill_astrazione,skill_riconoscimento_pattern"></span>
 
 <div class="qlang-switch" data-default="fr"></div>
 
@@ -25,7 +25,7 @@ level: Concours Général
 
 **Topic:** [[topic_combinatoria|Combinatoire]], [[topic_aritmetica|Arithmétique / Théorie des nombres]]
 **Metodo:** [[method_estremalita|Extrémalité]], [[method_invarianti|Invariants]]
-**Abilita:** [[skill_lettura_attenta|Lecture attentive]], [[skill_conteggio_sistematico|Dénombrement systématique]], [[skill_astrazione|Abstraction]]
+**Abilita:** [[skill_lettura_attenta|Lecture attentive]], [[skill_conteggio_sistematico|Dénombrement systématique]], [[skill_astrazione|Abstraction]], [[skill_riconoscimento_pattern|Reconnaissance de motifs]]
 **Area:** [[Combinatoria, Logica e Probabilita|Combinatoire, logique et probabilités]], [[Aritmetica e Teoria dei Numeri|Arithmétique et théorie des nombres]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1pKFVBDr_77MyLEG9kgjZwRVwwc89CZlc/view)
 
@@ -41,7 +41,10 @@ level: Concours Général
 >
 > Si può scegliere il vertice di partenza in modo da raccogliere tutti i gettoni? Se sì, quanti sono i modi possibili?
 
-[[Quesiti/src_cgen_1997#q01|src_cgen_1997__Q01]]
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_estremalita|Principio di estremalita]], [[method_invarianti|Invarianti / monovarianti]]
+**Abilita:** [[skill_lettura_attenta|Lettura attenta del testo]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_astrazione|Astrazione / generalizzazione]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -55,11 +58,14 @@ level: Concours Général
 >
 > Can one choose the starting vertex so as to collect all the tokens? If so, how many possible choices are there?
 
-[[Quesiti/src_cgen_1997#q01|src_cgen_1997__Q01]]
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_estremalita|Extremal principle]], [[method_invarianti|Invariants / monovariants]]
+**Abilita:** [[skill_lettura_attenta|Careful reading of the text]], [[skill_conteggio_sistematico|Systematic counting]], [[skill_astrazione|Abstraction / generalisation]], [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
 
 
-<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_geometria_solida,method_estremalita,skill_ragionamento_geometrico,skill_manipolazione_algebrica,skill_modellizzazione"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_geometria_solida,topic_insiemi_funzioni,method_estremalita,skill_ragionamento_geometrico,skill_manipolazione_algebrica,skill_modellizzazione"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -70,10 +76,10 @@ level: Concours Général
 > 
 > What is the maximal volume of a right cylinder contained in this capsule, the cylinder and the capsule having the same axis of revolution?
 
-**Topic:** [[topic_geometria_solida|Geometria solida]]
+**Topic:** [[topic_geometria_solida|Geometria solida]], [[topic_insiemi_funzioni|Sets and functions]]
 **Metodo:** [[method_estremalita|Estremalità]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]]
-**Area:** [[Geometria]]
+**Area:** [[Geometria|Geometry]], [[Algebra e Analisi|Algebra and analysis]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1pKFVBDr_77MyLEG9kgjZwRVwwc89CZlc/view)
 
 
@@ -86,11 +92,14 @@ level: Concours Général
 > 
 > Qual è il volume massimo di un cilindro destro contenuto in questa capsula, il cilindro e la capsula avendo lo stesso asse di rotazione?
 
-[[Quesiti/src_cgen_1997#q02|src_cgen_1997__Q02]]
+**Topic:** [[topic_geometria_solida|Geometria solida]], [[topic_insiemi_funzioni|Insiemi e funzioni]]
+**Metodo:** [[method_estremalita|Principio di estremalita]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
+**Area:** [[Geometria]], [[Algebra e Analisi]]
 
 
 
-<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_geometria_solida,method_estremalita,skill_ragionamento_geometrico,skill_stima"></span>
+<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_geometria_solida,topic_trigonometria,method_estremalita,method_trigonometria,skill_ragionamento_geometrico,skill_stima,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="fr"></div>
 
@@ -101,9 +110,9 @@ level: Concours Général
 >
 > $C$ est un cube d'arête $1$ et $p$ est la projection orthogonale sur un plan. Quelle est la valeur maximale de l'aire de $p(C)$ ?
 
-**Topic:** [[topic_geometria_solida|Géométrie dans l'espace]]
-**Metodo:** [[method_estremalita|Extrémalité]]
-**Abilita:** [[skill_ragionamento_geometrico|Raisonnement géométrique]], [[skill_stima|Estimation]]
+**Topic:** [[topic_geometria_solida|Géométrie dans l'espace]], [[topic_trigonometria|Trigonométrie]]
+**Metodo:** [[method_estremalita|Extrémalité]], [[method_trigonometria|Trigonométrie]]
+**Abilita:** [[skill_ragionamento_geometrico|Raisonnement géométrique]], [[skill_stima|Estimation]], [[skill_manipolazione_algebrica|Manipulation algébrique]]
 **Area:** [[Geometria|Géométrie]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1pKFVBDr_77MyLEG9kgjZwRVwwc89CZlc/view)
 
@@ -117,7 +126,10 @@ level: Concours Général
 >
 > $C$ è un cubo di spigolo $1$ e $p$ è la proiezione ortogonale su un piano. Qual è il valore massimo dell'area di $p(C)$?
 
-[[Quesiti/src_cgen_1997#q03|src_cgen_1997__Q03]]
+**Topic:** [[topic_geometria_solida|Geometria solida]], [[topic_trigonometria|Trigonometria]]
+**Metodo:** [[method_estremalita|Principio di estremalita]], [[method_trigonometria|Tecniche trigonometriche]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_stima|Stima e approssimazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -129,11 +141,14 @@ level: Concours Général
 >
 > $C$ is a cube of edge $1$ and $p$ is the orthogonal projection onto a plane. What is the maximal value of the area of $p(C)$?
 
-[[Quesiti/src_cgen_1997#q03|src_cgen_1997__Q03]]
+**Topic:** [[topic_geometria_solida|Solid geometry]], [[topic_trigonometria|Trigonometry]]
+**Metodo:** [[method_estremalita|Extremal principle]], [[method_trigonometria|Trigonometric techniques]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_stima|Estimation and approximation]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Geometria|Geometry]]
 
 
 
-<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_geometria_piana,topic_algebra,method_simmetria,skill_ragionamento_geometrico,skill_manipolazione_algebrica,skill_casework_accurato"></span>
+<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_geometria_piana,topic_algebra,topic_insiemi_funzioni,method_simmetria,skill_ragionamento_geometrico,skill_manipolazione_algebrica,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="fr"></div>
 
@@ -152,7 +167,7 @@ level: Concours Général
 > 2. Calculer la limite de $\lambda(\alpha)$ lorsque $\alpha$ tend vers $0$.
 > 3. À quelle condition portant sur $a$, $b$, $c$ le réel $\lambda(\alpha)$ est-il indépendant de $\alpha$ ?
 
-**Topic:** [[topic_geometria_piana|Géométrie plane]], [[topic_algebra|Algèbre]]
+**Topic:** [[topic_geometria_piana|Géométrie plane]], [[topic_algebra|Algèbre]], [[topic_insiemi_funzioni|Ensembles et fonctions]]
 **Metodo:** [[method_simmetria|Symétrie]]
 **Abilita:** [[skill_ragionamento_geometrico|Raisonnement géométrique]], [[skill_manipolazione_algebrica|Manipulation algébrique]], [[skill_casework_accurato|Disjonction de cas soigneuse]]
 **Area:** [[Geometria|Géométrie]], [[Algebra e Analisi|Algèbre et analyse]]
@@ -176,7 +191,10 @@ level: Concours Général
 > 2. Calcolare il limite di $\lambda(\alpha)$ quando $\alpha$ tende a $0$.
 > 3. A quale condizione su $a$, $b$, $c$ il reale $\lambda(\alpha)$ è indipendente da $\alpha$?
 
-[[Quesiti/src_cgen_1997#q04|src_cgen_1997__Q04]]
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_algebra|Algebra]], [[topic_insiemi_funzioni|Insiemi e funzioni]]
+**Metodo:** [[method_simmetria|Sfruttamento della simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Geometria]], [[Algebra e Analisi]]
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -196,11 +214,14 @@ level: Concours Général
 > 2. Compute the limit of $\lambda(\alpha)$ as $\alpha$ tends to $0$.
 > 3. Under what condition on $a$, $b$, $c$ is the real number $\lambda(\alpha)$ independent of $\alpha$?
 
-[[Quesiti/src_cgen_1997#q04|src_cgen_1997__Q04]]
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_algebra|Algebra]], [[topic_insiemi_funzioni|Sets and functions]]
+**Metodo:** [[method_simmetria|Using symmetry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Geometria|Geometry]], [[Algebra e Analisi|Algebra and analysis]]
 
 
 
-<span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_geometria_piana,topic_trigonometria,method_trigonometria,method_estremalita,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
+<span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_geometria_piana,topic_trigonometria,method_trigonometria,method_estremalita,method_simmetria,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -215,9 +236,9 @@ level: Concours Général
 > \textbf{3.} Denote by $f(\alpha)$ the minimal distance $GI$ of the previous question. Express $f(\alpha)$ in terms of $a = AB$ and $\alpha$. Determine the maximal value of $f(\alpha)$ when $\alpha$ describes $\left]\dfrac{\pi}{3};\ \pi\right[$.
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometria]]
-**Metodo:** [[method_trigonometria|Trigonometria]], [[method_estremalita|Estremalità]]
+**Metodo:** [[method_trigonometria|Trigonometria]], [[method_estremalita|Estremalità]], [[method_simmetria|Using symmetry]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
-**Area:** [[Geometria]]
+**Area:** [[Geometria|Geometry]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1pKFVBDr_77MyLEG9kgjZwRVwwc89CZlc/view)
 
 
@@ -228,4 +249,7 @@ level: Concours Général
 
 > Nel piano, $A$ e $B$ siano due punti distinti. Per ogni punto $C$ esterno alla linea $(AB)$, indicare con $G$ l'isobaricentro (centroid) del triangolo $ABC$ e con $I$ il centro del suo cerchio inciso. \textbf{1.} $\alpha$ sia un numero reale tale che $0 < \alpha < \pi$. Qual è l'insieme $\Gamma$ dei punti $C$ in modo che $$\left(\overrightarrow{CA},\ \overrightarrow{CB}\right) = \alpha + 2k\pi,$$ $k$ sia un numero intero? Quando $C$ descrive $\Gamma$, mostrare che $G$ e $I$ descrivono due archi di un cerchio, che si specificherà. \textbf{2.} Supponiamo ora che $\dfrac{\pi}{3} < \alpha < \pi$. Come si deve scegliere $C$ in $\Gamma$ in modo che la distanza $GI$ sia minima? \textbf{3.} Denotare con $f(\alpha)$ la distanza minima $GI$ della domanda precedente. Esprimere $f(\alpha)$ in termini di $a = AB$ e $\alpha$. Determinare il valore massimo di $f(\alpha)$ quando $\alpha$ descrive $\left]\dfrac{\pi}{3};\ \pi\right[$.
 
-[[Quesiti/src_cgen_1997#q05|src_cgen_1997__Q05]]
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometria]]
+**Metodo:** [[method_trigonometria|Tecniche trigonometriche]], [[method_estremalita|Principio di estremalita]], [[method_simmetria|Sfruttamento della simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]

@@ -27,7 +27,7 @@ level: OBM Nível 1
 > 
 > c) What is the area of the yellow rectangle?
 
-![[src_obm_2020_n1_fx__q01.png]]
+![[src_obm_2020_n1_fx__Q01.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
@@ -50,17 +50,15 @@ level: OBM Nível 1
 >
 > c) Qual è l'area del rettangolo giallo?
 
-![[src_obm_2020_n1_fx__q01.png]]
+![[src_obm_2020_n1_fx__Q01.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Geometria]]
 
-[[Quesiti/src_obm_2020_n1_fx#q01|src_obm_2020_n1_fx__Q01]]
 
 
-
-<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_combinatoria,topic_geometria_solida,topic_logica,method_invarianti,method_casework,skill_ragionamento_geometrico,skill_casework_accurato"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_combinatoria,topic_geometria_solida,topic_logica,method_invarianti,method_casework,skill_ragionamento_geometrico,skill_casework_accurato,skill_lettura_attenta"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -75,12 +73,12 @@ level: OBM Nível 1
 > 
 > b) Considering the die when it reaches the central cell $H$, that is, from the same viewpoint as Figure 2, what are the numbers on the other two visible faces? Justify your answer.
 
-![[src_obm_2020_n1_fx__q02.png]]
+![[src_obm_2020_n1_fx__Q02.png]]
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_geometria_solida|Geometria solida]], [[topic_logica|Logica]]
 **Metodo:** [[method_invarianti|Invarianti]], [[method_casework|Casework]]
-**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_casework_accurato|Casework accurato]]
-**Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_casework_accurato|Casework accurato]], [[skill_lettura_attenta|Careful reading of the text]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Geometria|Geometry]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1iSdaRM6CErivk-PPJ0xdts0TClcOGdZN/view)
 
 
@@ -97,18 +95,17 @@ level: OBM Nível 1
 >
 > b) Considerando il dado quando raggiunge la cella centrale $H$, cioè dallo stesso punto di vista della Figura 2, quali sono i numeri sulle altre due facce visibili? Giustifica la tua risposta.
 
-![[src_obm_2020_n1_fx__q02.png]]
+![[src_obm_2020_n1_fx__Q02.png]]
+
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_geometria_solida|Geometria solida]], [[topic_logica|Logica]]
 **Metodo:** [[method_invarianti|Invarianti]], [[method_casework|Casework]]
-**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_casework_accurato|Casework accurato]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_casework_accurato|Casework accurato]], [[skill_lettura_attenta|Lettura attenta del testo]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 
-[[Quesiti/src_obm_2020_n1_fx#q02|src_obm_2020_n1_fx__Q02]]
 
 
-
-<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_aritmetica,method_conteggio,method_casework,skill_riconoscimento_pattern,skill_conteggio_sistematico,skill_manipolazione_algebrica"></span>
+<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_aritmetica,method_conteggio,method_casework,method_congruenze,skill_riconoscimento_pattern,skill_conteggio_sistematico,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -124,9 +121,9 @@ level: OBM Nível 1
 > c) Juca observed the decimal representation of $11/41$. How many initial decimal places after the comma would Juca need to sum in order to obtain a result greater than or equal to $2021$?
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_conteggio|Conteggio]], [[method_casework|Casework]]
+**Metodo:** [[method_conteggio|Conteggio]], [[method_casework|Casework]], [[method_congruenze|Modular arithmetic / congruences]]
 **Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
-**Area:** [[Aritmetica e Teoria dei Numeri]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1iSdaRM6CErivk-PPJ0xdts0TClcOGdZN/view)
 
 
@@ -143,12 +140,11 @@ level: OBM Nível 1
 >
 > c) Juca ha osservato la rappresentazione decimale di $11/41$. Quante cifre decimali iniziali dopo la virgola dovrebbe sommare Juca per ottenere un risultato maggiore o uguale a $2021$?
 
+
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_conteggio|Conteggio]], [[method_casework|Casework]]
+**Metodo:** [[method_conteggio|Conteggio]], [[method_casework|Casework]], [[method_congruenze|Aritmetica modulare / congruenze]]
 **Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
-
-[[Quesiti/src_obm_2020_n1_fx#q03|src_obm_2020_n1_fx__Q03]]
 
 
 
@@ -198,8 +194,6 @@ level: OBM Nível 1
 **Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 
-[[Quesiti/src_obm_2020_n1_fx#q04|src_obm_2020_n1_fx__Q04]]
-
 
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_geometria_piana,topic_combinatoria,method_invarianti,method_doppio_conteggio,method_casework,skill_ragionamento_geometrico,skill_astrazione,skill_modellizzazione"></span>
@@ -219,7 +213,7 @@ level: OBM Nível 1
 > 
 > d) Make a sketch of a simple polygon with $21$ sides and $10$ lines such that these lines do not pass through any vertex and the numbers of sides cut by these lines are all distinct.
 
-![[src_obm_2020_n1_fx__q05.png]]
+![[src_obm_2020_n1_fx__Q05.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_invarianti|Invarianti]], [[method_doppio_conteggio|Doppio conteggio]], [[method_casework|Casework]]
@@ -243,11 +237,9 @@ level: OBM Nível 1
 >
 > d) Disegna uno schizzo di un poligono semplice con $21$ lati e $10$ rette tali che queste rette non passino per alcun vertice e che i numeri dei lati intersecati da tali rette siano tutti distinti.
 
-![[src_obm_2020_n1_fx__q05.png]]
+![[src_obm_2020_n1_fx__Q05.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_invarianti|Invarianti]], [[method_doppio_conteggio|Doppio conteggio]], [[method_casework|Casework]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_astrazione|Astrazione]], [[skill_modellizzazione|Modellizzazione]]
 **Area:** [[Geometria]], [[Combinatoria, Logica e Probabilita]]
-
-[[Quesiti/src_obm_2020_n1_fx#q05|src_obm_2020_n1_fx__Q05]]

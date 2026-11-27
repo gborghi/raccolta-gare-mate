@@ -10,7 +10,7 @@ level: kangourou
 
 
 
-<span class="atom-split" id="qj1" data-atom="qj1" data-title="Quesito J1" data-tags="topic_aritmetica,skill_manipolazione_algebrica"></span>
+<span class="atom-split" id="qj1" data-atom="qj1" data-title="Quesito J1" data-tags="topic_aritmetica,method_fattorizzazione,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -22,6 +22,7 @@ level: kangourou
 > di cui il primo è costituito dalla sola cifra 9, il secondo dalla cifra 9 scritta due volte, il terzo dalla cifra nove scritta tre volte e così via fino al 2008-esimo e ultimo addendo, che è costituito dalla cifra 9 scritta 2008 volte. Quante cifre ha il numero che ne costituisce il risultato?
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 2009
@@ -37,15 +38,15 @@ level: kangourou
 > $$9 + 99 + 999 + \cdots + \underbrace{99\cdots9}_{2008}$$
 > where the first addend consists of the digit 9 alone, the second consists of the digit 9 written twice, the third consists of the digit 9 written three times, and so on up to the 2008th and final addend, which consists of the digit 9 written 2008 times. How many digits does the number that is the result of this sum have?
 
+
 **Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
 **Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
-[[Quesiti/src_kangourou_2008_junior_maggio#qj1|src_kangourou_2008_junior_maggio__QJ1]]
 
 
-
-<span class="atom-split" id="qj2" data-atom="qj2" data-title="Quesito J2" data-tags="topic_combinatoria,topic_insiemi_funzioni,method_conteggio,skill_astrazione"></span>
+<span class="atom-split" id="qj2" data-atom="qj2" data-title="Quesito J2" data-tags="topic_combinatoria,topic_insiemi_funzioni,method_conteggio,method_bigezione,skill_astrazione"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -55,9 +56,9 @@ level: kangourou
 > È dato un insieme di $n$ oggetti ($n \geq 1$). Quanti sono i suoi sottoinsiemi formati da un numero dispari di elementi?
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_insiemi_funzioni|Insiemi e funzioni]]
-**Metodo:** [[method_conteggio|Conteggio combinatorio]]
+**Metodo:** [[method_conteggio|Conteggio combinatorio]], [[method_bigezione|Bigezione / corrispondenza]]
 **Abilita:** [[skill_astrazione|Astrazione / generalizzazione]]
-**Area:** [[Algebra e Analisi]], [[Combinatoria, Logica e Probabilita]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Algebra e Analisi]]
 **Risposta:** 2^(n-1)
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1uXc8-ZmBP-ZtvKTQDU0i6ugKKpgckWrF/view)
 
@@ -69,16 +70,15 @@ level: kangourou
 
 > A set of $n$ objects ($n \geq 1$) is given. How many of its subsets consist of an odd number of elements?
 
+
 **Topic:** [[topic_combinatoria|Combinatorics]], [[topic_insiemi_funzioni|Sets and functions]]
-**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Metodo:** [[method_conteggio|Combinatorial counting]], [[method_bigezione|Bijection / correspondence]]
 **Abilita:** [[skill_astrazione|Abstraction / generalisation]]
-**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
-
-[[Quesiti/src_kangourou_2008_junior_maggio#qj2|src_kangourou_2008_junior_maggio__QJ2]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Algebra e Analisi|Algebra and analysis]]
 
 
 
-<span class="atom-split" id="qj3" data-atom="qj3" data-title="Quesito J3" data-tags="topic_aritmetica,topic_insiemi_funzioni,skill_astrazione"></span>
+<span class="atom-split" id="qj3" data-atom="qj3" data-title="Quesito J3" data-tags="topic_aritmetica,topic_insiemi_funzioni,method_congruenze,skill_astrazione"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -92,8 +92,9 @@ level: kangourou
 > Trova almeno un insieme IMPERFETTO.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_insiemi_funzioni|Insiemi e funzioni]]
+**Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]]
 **Abilita:** [[skill_astrazione|Astrazione / generalizzazione]]
-**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 **Risposta:** {2^(2k+1)}
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1uXc8-ZmBP-ZtvKTQDU0i6ugKKpgckWrF/view)
 
@@ -109,15 +110,15 @@ level: kangourou
 >
 > Find at least one IMPERFETTO set.
 
+
 **Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_insiemi_funzioni|Sets and functions]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]]
 **Abilita:** [[skill_astrazione|Abstraction / generalisation]]
-**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
-
-[[Quesiti/src_kangourou_2008_junior_maggio#qj3|src_kangourou_2008_junior_maggio__QJ3]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Algebra e Analisi|Algebra and analysis]]
 
 
 
-<span class="atom-split" id="qj4" data-atom="qj4" data-title="Quesito J4" data-tags="topic_geometria_piana,topic_combinatoria,method_conteggio,skill_ragionamento_geometrico"></span>
+<span class="atom-split" id="qj4" data-atom="qj4" data-title="Quesito J4" data-tags="topic_geometria_piana,topic_combinatoria,method_conteggio,method_casework,skill_ragionamento_geometrico"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -127,9 +128,9 @@ level: kangourou
 > Si vogliono tracciare in un piano delle rette in modo tale che tra di loro si vengano sicuramente a formare angoli di ciascuna delle seguenti misure: $10^\circ$, $20^\circ$, $30^\circ$, $40^\circ$, $50^\circ$, $60^\circ$, $70^\circ$, $80^\circ$, $90^\circ$. Qual è il più piccolo numero di rette che realizza questa richiesta?
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_combinatoria|Combinatoria]]
-**Metodo:** [[method_conteggio|Conteggio combinatorio]]
+**Metodo:** [[method_conteggio|Conteggio combinatorio]], [[method_casework|Analisi per casi]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
-**Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
+**Area:** [[Geometria]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 5
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1uXc8-ZmBP-ZtvKTQDU0i6ugKKpgckWrF/view)
 
@@ -141,16 +142,15 @@ level: kangourou
 
 > We want to draw lines in a plane in such a way that angles of each of the following measures are certainly formed between them: $10^\circ$, $20^\circ$, $30^\circ$, $40^\circ$, $50^\circ$, $60^\circ$, $70^\circ$, $80^\circ$, $90^\circ$. What is the smallest number of lines that fulfills this requirement?
 
+
 **Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_combinatoria|Combinatorics]]
-**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Metodo:** [[method_conteggio|Combinatorial counting]], [[method_casework|Case analysis]]
 **Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
-**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Geometria|Geometry]]
-
-[[Quesiti/src_kangourou_2008_junior_maggio#qj4|src_kangourou_2008_junior_maggio__QJ4]]
+**Area:** [[Geometria|Geometry]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
 
 
-<span class="atom-split" id="qj5" data-atom="qj5" data-title="Quesito J5" data-tags="topic_geometria_piana,topic_combinatoria,skill_astrazione"></span>
+<span class="atom-split" id="qj5" data-atom="qj5" data-title="Quesito J5" data-tags="topic_geometria_piana,topic_combinatoria,method_estremalita,skill_astrazione,skill_ragionamento_geometrico"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -160,8 +160,9 @@ level: kangourou
 > In un piano sono assegnati alcuni punti non collineari (cioè non giacenti tutti su una stessa retta), in numero finito maggiore o uguale a tre. È vero che fra di essi ne esistono necessariamente tre tali che il cerchio delimitato dalla circonferenza passante per questi tre non contenga al suo interno alcuno dei punti rimanenti?
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_combinatoria|Combinatoria]]
-**Abilita:** [[skill_astrazione|Astrazione / generalizzazione]]
-**Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
+**Metodo:** [[method_estremalita|Principio di estremalita]]
+**Abilita:** [[skill_astrazione|Astrazione / generalizzazione]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Geometria]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** si
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1uXc8-ZmBP-ZtvKTQDU0i6ugKKpgckWrF/view)
 
@@ -173,15 +174,15 @@ level: kangourou
 
 > In a plane, some non-collinear points (that is, points not all lying on the same line) are given, in finite number and in number greater than or equal to three. Is it true that among them there must necessarily be three such that the circle bounded by the circumference passing through these three points contains none of the remaining points in its interior?
 
+
 **Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_combinatoria|Combinatorics]]
-**Abilita:** [[skill_astrazione|Abstraction / generalisation]]
-**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Geometria|Geometry]]
-
-[[Quesiti/src_kangourou_2008_junior_maggio#qj5|src_kangourou_2008_junior_maggio__QJ5]]
-
+**Metodo:** [[method_estremalita|Extremal principle]]
+**Abilita:** [[skill_astrazione|Abstraction / generalisation]], [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
 
-<span class="atom-split" id="qj6" data-atom="qj6" data-title="Quesito J6" data-tags="topic_geometria_piana,topic_combinatoria,method_estremalita,skill_astrazione"></span>
+
+<span class="atom-split" id="qj6" data-atom="qj6" data-title="Quesito J6" data-tags="topic_geometria_piana,topic_combinatoria,method_estremalita,skill_astrazione,skill_ragionamento_geometrico"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -194,8 +195,8 @@ level: kangourou
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_estremalita|Principio di estremalita]]
-**Abilita:** [[skill_astrazione|Astrazione / generalizzazione]]
-**Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
+**Abilita:** [[skill_astrazione|Astrazione / generalizzazione]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Geometria]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** dimostrazione
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1uXc8-ZmBP-ZtvKTQDU0i6ugKKpgckWrF/view)
 
@@ -209,9 +210,8 @@ level: kangourou
 >
 > Does the statement still hold if, instead of polygons, one considers arbitrary sets of points?
 
+
 **Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_combinatoria|Combinatorics]]
 **Metodo:** [[method_estremalita|Extremal principle]]
-**Abilita:** [[skill_astrazione|Abstraction / generalisation]]
-**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Geometria|Geometry]]
-
-[[Quesiti/src_kangourou_2008_junior_maggio#qj6|src_kangourou_2008_junior_maggio__QJ6]]
+**Abilita:** [[skill_astrazione|Abstraction / generalisation]], [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]

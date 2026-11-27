@@ -38,11 +38,9 @@ level: JJMO Honsen
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]]
 
-[[Quesiti/src_jjmo13mq_honsen#q01|src_jjmo13mq_honsen__Q01]]
 
 
-
-<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_algebra,topic_disuguaglianze,method_trigonometria,method_disuguaglianze,skill_manipolazione_algebrica"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_algebra,topic_disuguaglianze,topic_trigonometria,method_trigonometria,method_disuguaglianze,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -51,10 +49,10 @@ level: JJMO Honsen
 
 > As $x,y$ range over all real numbers, find the maximum value of $$\frac{(xy+x+y-1)^2}{(x^2+1)(y^2+1)}.$$
 
-**Topic:** [[topic_algebra|Algebra]], [[topic_disuguaglianze|Disuguaglianze]]
+**Topic:** [[topic_algebra|Algebra]], [[topic_disuguaglianze|Disuguaglianze]], [[topic_trigonometria|Trigonometry]]
 **Metodo:** [[method_trigonometria|Trigonometria]], [[method_disuguaglianze|Disuguaglianze]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
-**Area:** [[Algebra e Analisi]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Geometria|Geometry]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1KO6vJDo2NFREQnMe8CLBm6pqNrYJc_o-/view)
 
 
@@ -66,16 +64,15 @@ level: JJMO Honsen
 > Al variare di $x,y$ su tutti i numeri reali, trovare il valore massimo di
 > $$\frac{(xy+x+y-1)^2}{(x^2+1)(y^2+1)}.$$
 
-**Topic:** [[topic_algebra|Algebra]], [[topic_disuguaglianze|Disuguaglianze]]
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_disuguaglianze|Disuguaglianze]], [[topic_trigonometria|Trigonometria]]
 **Metodo:** [[method_trigonometria|Tecniche trigonometriche]], [[method_disuguaglianze|Disuguaglianze classiche]]
-**Abilità:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
-**Area:** [[Algebra e Analisi|Algebra e analisi]]
-
-[[Quesiti/src_jjmo13mq_honsen#q02|src_jjmo13mq_honsen__Q02]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Algebra e Analisi|Algebra e analisi]], [[Geometria]]
 
 
 
-<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_combinatoria,method_casework,method_estremalita,skill_conteggio_sistematico,skill_modellizzazione"></span>
+<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_combinatoria,method_casework,method_estremalita,skill_conteggio_sistematico,skill_modellizzazione,skill_astrazione"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -86,8 +83,8 @@ level: JJMO Honsen
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_casework|Casework]], [[method_estremalita|Estremalità]]
-**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione]]
-**Area:** [[Combinatoria, Logica e Probabilita]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione]], [[skill_astrazione|Abstraction / generalisation]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1KO6vJDo2NFREQnMe8CLBm6pqNrYJc_o-/view)
 
 
@@ -98,12 +95,11 @@ level: JJMO Honsen
 
 > Siano $n,k$ numeri interi positivi con $n \ge k$. Esiste una griglia di $n \times n$ celle, e ogni cella è colorata di bianco o di nero. Ci sono $k$ formiche. In modo ripetuto, ciascuna formica si sposta in una cella adiacente. Su una cella bianca, una formica può muoversi solo in linea retta in avanti, mentre su una cella nera una formica può scegliere liberamente in quale cella adiacente spostarsi successivamente. Supponiamo che, colorando di nero alcune $m$ celle e il resto di bianco, e scegliendo opportunamente la collocazione iniziale delle formiche e le loro direzioni iniziali di movimento, si possa organizzare la situazione in modo che ogni cella della griglia venga visitata da almeno una formica. Determinare il valore minimo possibile di $m$ per cui tale disposizione è possibile.
 
+
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_casework|Casework]], [[method_estremalita|Estremalità]]
-**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione]], [[skill_astrazione|Astrazione / generalizzazione]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
-
-[[Quesiti/src_jjmo13mq_honsen#q03|src_jjmo13mq_honsen__Q03]]
 
 
 
@@ -135,8 +131,6 @@ level: JJMO Honsen
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]]
 
-[[Quesiti/src_jjmo13mq_honsen#q04|src_jjmo13mq_honsen__Q04]]
-
 
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_combinatoria,topic_geometria_piana,method_estremalita,method_grafi,skill_ragionamento_geometrico,skill_conteggio_sistematico"></span>
@@ -166,5 +160,3 @@ level: JJMO Honsen
 **Metodo:** [[method_estremalita|Estremalità]], [[method_grafi|Grafi]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
-
-[[Quesiti/src_jjmo13mq_honsen#q05|src_jjmo13mq_honsen__Q05]]

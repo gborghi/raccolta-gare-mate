@@ -19,7 +19,7 @@ level: INMO
 
 > Let $M$ be the midpoint of side $BC$ of a triangle $ABC$. Let the median $AM$ intersect the incircle of $ABC$ at $K$ and $L$, $K$ being nearer to $A$ than $L$. If $AK = KL = LM$, prove that the sides of triangle $ABC$ are in the ratio $5 : 10 : 13$ in some order.
 
-![[src_inmo_2005__q01.png]]
+![[src_inmo_2005__Q01.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_trigonometria|Trigonometria]], [[method_coordinate|Coordinate]]
@@ -35,14 +35,12 @@ level: INMO
 
 > Sia $M$ il punto medio del lato $BC$ di un triangolo $ABC$. Sia $AM$ la mediana che interseca l'incirconferenza di $ABC$ nei punti $K$ e $L$, con $K$ più vicino a $A$ di $L$. Se $AK = KL = LM$, dimostrare che i lati del triangolo $ABC$ sono in rapporto $5 : 10 : 13$ in qualche ordine.
 
-![[src_inmo_2005__q01.png]]
+![[src_inmo_2005__Q01.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_trigonometria|Trigonometria]], [[method_coordinate|Coordinate]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
-
-[[Quesiti/src_inmo_2005#q01|src_inmo_2005__Q01]]
 
 
 
@@ -78,8 +76,6 @@ level: INMO
 **Metodo:** [[method_casework|Casework]], [[method_estremalita|Estremalità]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
-
-[[Quesiti/src_inmo_2005#q02|src_inmo_2005__Q02]]
 
 
 
@@ -119,11 +115,9 @@ level: INMO
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Algebra e Analisi]]
 
-[[Quesiti/src_inmo_2005#q03|src_inmo_2005__Q03]]
 
 
-
-<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_combinatoria,method_conteggio,method_casework,skill_conteggio_sistematico,skill_riconoscimento_pattern,skill_modellizzazione"></span>
+<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_combinatoria,method_conteggio,method_casework,method_bigezione,skill_conteggio_sistematico,skill_riconoscimento_pattern,skill_modellizzazione"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -133,9 +127,9 @@ level: INMO
 > All possible $6$-digit numbers, in each of which the digits occur in non-increasing order (from left to right, e.g., $877550$) are written as a sequence in increasing order. Find the $2005$-th number in this sequence.
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
-**Metodo:** [[method_conteggio|Conteggio]], [[method_casework|Casework]]
+**Metodo:** [[method_conteggio|Conteggio]], [[method_casework|Casework]], [[method_bigezione|Bijection / correspondence]]
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_modellizzazione|Modellizzazione]]
-**Area:** [[Combinatoria, Logica e Probabilita]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Risposta:** 864110
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1dQpL29VWOYmqDOzqi-9GbT0FQGESE5Z7/view)
 
@@ -147,16 +141,15 @@ level: INMO
 
 > Tutti i numeri possibili di $6$ cifre, ciascuno dei quali ha cifre in ordine non crescente (da sinistra a destra, ad es. $877550$), sono scritti in sequenza in ordine crescente. Determinare il $2005$-esimo numero di questa sequenza.
 
+
 **Topic:** [[topic_combinatoria|Combinatoria]]
-**Metodo:** [[method_conteggio|Conteggio]], [[method_casework|Casework]]
+**Metodo:** [[method_conteggio|Conteggio]], [[method_casework|Casework]], [[method_bigezione|Bigezione / corrispondenza]]
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_modellizzazione|Modellizzazione]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 
-[[Quesiti/src_inmo_2005#q04|src_inmo_2005__Q04]]
 
 
-
-<span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_combinatoria,topic_aritmetica,method_invarianti,method_casework,skill_ragionamento_geometrico,skill_lettura_attenta,skill_riconoscimento_pattern,skill_astrazione"></span>
+<span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_combinatoria,topic_aritmetica,method_invarianti,method_casework,method_congruenze,skill_ragionamento_geometrico,skill_lettura_attenta,skill_riconoscimento_pattern,skill_astrazione"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -168,9 +161,9 @@ level: INMO
 > (b) the sequence has infinitely many even numbers.
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_invarianti|Invarianti]], [[method_casework|Casework]]
+**Metodo:** [[method_invarianti|Invarianti]], [[method_casework|Casework]], [[method_congruenze|Modular arithmetic / congruences]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_astrazione|Astrazione]]
-**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1dQpL29VWOYmqDOzqi-9GbT0FQGESE5Z7/view)
 
 
@@ -183,12 +176,11 @@ level: INMO
 > (a) la successione contiene un numero pari;
 > (b) la successione contiene infiniti numeri pari.
 
+
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_invarianti|Invarianti]], [[method_casework|Casework]]
+**Metodo:** [[method_invarianti|Invarianti]], [[method_casework|Casework]], [[method_congruenze|Aritmetica modulare / congruenze]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_astrazione|Astrazione]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
-
-[[Quesiti/src_inmo_2005#q05|src_inmo_2005__Q05]]
 
 
 
@@ -223,5 +215,3 @@ level: INMO
 **Metodo:** [[method_casework|Casework]], [[method_backward|Backward]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_astrazione|Astrazione]]
 **Area:** [[Algebra e Analisi]]
-
-[[Quesiti/src_inmo_2005#q06|src_inmo_2005__Q06]]

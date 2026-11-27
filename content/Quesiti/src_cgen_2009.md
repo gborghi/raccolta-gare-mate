@@ -10,7 +10,7 @@ level: Concours Général
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_funzionali,topic_trigonometria,method_trigonometria,method_disuguaglianze,skill_manipolazione_algebrica,skill_astrazione,skill_lettura_attenta"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_funzionali,topic_trigonometria,topic_disuguaglianze,method_trigonometria,method_disuguaglianze,method_ricorsione,skill_manipolazione_algebrica,skill_astrazione,skill_lettura_attenta"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -27,10 +27,10 @@ level: Concours Général
 > (b) Verify the existence of an integer $N$ such that for $n \ge N$ one has $\theta_{n+1} = \frac{\theta_n}{2}$.
 > (c) Establish that $a$ is positive and that $f(x) = \cos\left(x\sqrt{2a}\right)$.
 
-**Topic:** [[topic_funzionali|Equazioni funzionali]], [[topic_trigonometria|Trigonometria]]
-**Metodo:** [[method_trigonometria|Trigonometria]], [[method_disuguaglianze|Disuguaglianze]]
+**Topic:** [[topic_funzionali|Equazioni funzionali]], [[topic_trigonometria|Trigonometria]], [[topic_disuguaglianze|Inequalities]]
+**Metodo:** [[method_trigonometria|Trigonometria]], [[method_disuguaglianze|Disuguaglianze]], [[method_ricorsione|Recursion]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]], [[skill_lettura_attenta|Lettura attenta]]
-**Area:** [[Algebra e Analisi]], [[Geometria]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Geometria|Geometry]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1D68pXdGvkXbm-KXlSsEwpd843491VqiZ/view)
 
 
@@ -45,11 +45,14 @@ level: Concours Général
 > 
 > 2. Lasciate che $f$ sia una funzione di soluzione del problema. Ci viene dato un reale $x$ e impostare, per ogni intero naturale $n$, $f\left(\frac{x}{2^n}\right) = \cos(\theta_n)$, con $\theta_n$ in $[0,\pi]$. (a) Indicare che $f$ è continuo a $0$ e che $\lim_{n \to +\infty} \theta_n = 0$. b) Verificare l'esistenza di un numero intero $N$ tale che per $n \ge N$ si trovi $\theta_{n+1} = \frac{\theta_n}{2}$. c) Stabilire che $a$ è positivo e che $f(x) = \cos\left(x\sqrt{2a}\right)$.
 
-[[Quesiti/src_cgen_2009#q01|src_cgen_2009__Q01]]
+**Topic:** [[topic_funzionali|Equazioni funzionali / successioni]], [[topic_trigonometria|Trigonometria]], [[topic_disuguaglianze|Disuguaglianze]]
+**Metodo:** [[method_trigonometria|Tecniche trigonometriche]], [[method_disuguaglianze|Disuguaglianze classiche]], [[method_ricorsione|Ricorsione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione / generalizzazione]], [[skill_lettura_attenta|Lettura attenta del testo]]
+**Area:** [[Algebra e Analisi]], [[Geometria]]
 
 
 
-<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_probabilita,method_casi_conteggio,method_conteggio,skill_conteggio_sistematico,skill_casework_accurato,skill_modellizzazione"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_probabilita,topic_logica,method_casi_conteggio,method_conteggio,skill_conteggio_sistematico,skill_casework_accurato,skill_modellizzazione"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -72,10 +75,10 @@ level: Concours Général
 > 5. I obtained $11 - 7 - 2 - 2$. I hesitate between rethrowing everything, keeping the $11$, and keeping the two $2$s. What should I do?
 > 6. Suppose that I obtained 4 different dice $a_1 > a_2 > a_3 > a_4$. Which dice should I rethrow?
 
-**Topic:** [[topic_probabilita|Probabilità]]
+**Topic:** [[topic_probabilita|Probabilità]], [[topic_logica|Logic, games and strategies]]
 **Metodo:** [[method_casi_conteggio|Casi e conteggio]], [[method_conteggio|Conteggio]]
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]], [[skill_modellizzazione|Modellizzazione]]
-**Area:** [[Combinatoria, Logica e Probabilita]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1D68pXdGvkXbm-KXlSsEwpd843491VqiZ/view)
 
 
@@ -90,11 +93,14 @@ level: Concours Général
 > 
 > Supponiamo ora che da ora in poi, dopo aver lanciato i 4 dadi, mi sia permesso di lanciare di nuovo tra $0$ e $4$ dadi per migliorare il mio punteggio. 5. Ho ottenuto $11 - 7 - 2 - 2$. Ho esitato tra gettare tutto indietro, mantenere il $11$, e mantenere i due $2$. - Cosa devo fare? 6. Supponiamo che abbia ottenuto 4 dadi diversi. Quali dadi devo gettare di nuovo?
 
-[[Quesiti/src_cgen_2009#q02|src_cgen_2009__Q02]]
+**Topic:** [[topic_probabilita|Probabilita e statistica]], [[topic_logica|Logica, giochi, strategie]]
+**Metodo:** [[method_casi_conteggio|Conteggio per casi]], [[method_conteggio|Conteggio combinatorio]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
 
 
 
-<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_aritmetica,topic_combinatoria,method_congruenze,method_estremalita,method_simmetria,skill_manipolazione_algebrica,skill_riconoscimento_pattern,skill_ragionamento_geometrico"></span>
+<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_aritmetica,topic_combinatoria,method_congruenze,method_estremalita,method_simmetria,method_bigezione,skill_manipolazione_algebrica,skill_riconoscimento_pattern,skill_ragionamento_geometrico"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -114,9 +120,9 @@ level: Concours Général
 > (b) Is the partition obtained in the previous question unique? Show that, for every $x$ of $A$, $a + b - 1 - x$ is in $A$. Which property of the sequence $V$ does this express?
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
-**Metodo:** [[method_congruenze|Congruenze]], [[method_estremalita|Estremalità]], [[method_simmetria|Simmetria]]
+**Metodo:** [[method_congruenze|Congruenze]], [[method_estremalita|Estremalità]], [[method_simmetria|Simmetria]], [[method_bigezione|Bijection / correspondence]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
-**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1D68pXdGvkXbm-KXlSsEwpd843491VqiZ/view)
 
 
@@ -133,4 +139,7 @@ level: Concours Général
 > 
 > 3. Consideriamo due integri $a$ e $b$ strettamente superiori a $1$ e coprimo. (a) Mostra che si può dividere l'intervallo $[\![1, a+b-2]\!]$ in due sottoinsiemi non vuoti $A$ e $B$ in modo tale che la sequenza $V$ pari a $1$ su $A$ e a $0$ su $B$ sia di periodi $a$ e $b$. (b) La divisione ottenuta nella domanda precedente è unica? Indicare che per ogni $x$ di $A$, $a + b - 1 - x$ è in $A$. Quale proprietà della sequenza $V$ esprime questo?
 
-[[Quesiti/src_cgen_2009#q03|src_cgen_2009__Q03]]
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]], [[method_estremalita|Principio di estremalita]], [[method_simmetria|Sfruttamento della simmetria]], [[method_bigezione|Bigezione / corrispondenza]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]

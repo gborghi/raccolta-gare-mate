@@ -10,7 +10,7 @@ level: IMO
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_algebra,topic_disuguaglianze,method_estremalita,method_casework,skill_manipolazione_algebrica,skill_lettura_attenta,skill_stima"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_algebra,topic_disuguaglianze,method_estremalita,method_casework,skill_manipolazione_algebrica,skill_lettura_attenta,skill_stima,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -27,8 +27,8 @@ level: IMO
 
 **Topic:** [[topic_algebra|Algebra]], [[topic_disuguaglianze|Disuguaglianze]]
 **Metodo:** [[method_estremalita|Estremalità]], [[method_casework|Casework]]
-**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_stima|Stima]]
-**Area:** [[Algebra e Analisi]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_stima|Stima]], [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/18zBoJL6BL0Qzw_Nb0n79SKzFnL3kZGiT/view)
 
 
@@ -45,16 +45,15 @@ level: IMO
 > $$\max\{|x_i - a_i| : 1 \le i \le n\} \ge \frac{d}{2}. \tag{*}$$
 > (b) Mostrare che esistono numeri reali $x_1 \le x_2 \le \cdots \le x_n$ tali che vale l'uguaglianza in $(*)$.
 
+
 **Topic:** [[topic_algebra|Algebra]], [[topic_disuguaglianze|Disuguaglianze]]
 **Metodo:** [[method_estremalita|Estremalità]], [[method_casework|Casework]]
-**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_stima|Stima]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_stima|Stima]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Algebra e Analisi]]
 
-[[Quesiti/src_imho_2007#q01|src_imho_2007__Q01]]
 
 
-
-<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_geometria_piana,method_trigonometria,method_coordinate,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_geometria_piana,topic_trigonometria,method_trigonometria,method_coordinate,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -63,10 +62,10 @@ level: IMO
 
 > Consider five points $A$, $B$, $C$, $D$ and $E$ such that $ABCD$ is a parallelogram and $BCED$ is a cyclic quadrilateral. Suppose that a line $\ell$ passing through $A$ intersects the interior of the segment $DC$ at $F$ and intersects line $BC$ at $G$. Suppose also that $EF = EG = EC$. Prove that $\ell$ is the bisector of angle $DAB$.
 
-**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometry]]
 **Metodo:** [[method_trigonometria|Trigonometria]], [[method_coordinate|Coordinate]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
-**Area:** [[Geometria]]
+**Area:** [[Geometria|Geometry]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/18zBoJL6BL0Qzw_Nb0n79SKzFnL3kZGiT/view)
 
 
@@ -77,16 +76,15 @@ level: IMO
 
 > Si considerino cinque punti $A$, $B$, $C$, $D$ e $E$ tali che $ABCD$ sia un parallelogramma e $BCED$ sia un quadrilatero ciclico. Si supponga che una retta $\ell$ passante per $A$ intersechi l'interno del segmento $DC$ in $F$ e intersechi la retta $BC$ in $G$. Si supponga inoltre che $EF = EG = EC$. Si dimostri che $\ell$ è la bisettrice dell'angolo $DAB$.
 
-**Topic:** [[topic_geometria_piana|Geometria piana]]
+
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometria]]
 **Metodo:** [[method_trigonometria|Trigonometria]], [[method_coordinate|Coordinate]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 
-[[Quesiti/src_imho_2007#q02|src_imho_2007__Q02]]
 
 
-
-<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_combinatoria,method_grafi,method_estremalita,method_casework,skill_ragionamento_geometrico,skill_modellizzazione,skill_astrazione,skill_casework_accurato"></span>
+<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_combinatoria,method_grafi,method_estremalita,method_casework,skill_ragionamento_geometrico,skill_modellizzazione,skill_astrazione,skill_casework_accurato,skill_lettura_attenta"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -99,8 +97,8 @@ level: IMO
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_grafi|Grafi]], [[method_estremalita|Estremalità]], [[method_casework|Casework]]
-**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]], [[skill_astrazione|Astrazione]], [[skill_casework_accurato|Casework accurato]]
-**Area:** [[Combinatoria, Logica e Probabilita]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]], [[skill_astrazione|Astrazione]], [[skill_casework_accurato|Casework accurato]], [[skill_lettura_attenta|Careful reading of the text]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/18zBoJL6BL0Qzw_Nb0n79SKzFnL3kZGiT/view)
 
 
@@ -113,16 +111,15 @@ level: IMO
 >
 > Dato che, in questa competizione, la dimensione massima di una clique è pari, dimostrare che i concorrenti possono essere disposti in due stanze in modo che la dimensione massima di una clique contenuta in una stanza sia uguale alla dimensione massima di una clique contenuta nell'altra stanza.
 
+
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_grafi|Grafi]], [[method_estremalita|Estremalità]], [[method_casework|Casework]]
-**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]], [[skill_astrazione|Astrazione]], [[skill_casework_accurato|Casework accurato]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]], [[skill_astrazione|Astrazione]], [[skill_casework_accurato|Casework accurato]], [[skill_lettura_attenta|Lettura attenta del testo]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 
-[[Quesiti/src_imho_2007#q03|src_imho_2007__Q03]]
 
 
-
-<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_geometria_piana,method_trigonometria,method_coordinate,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
+<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_geometria_piana,topic_trigonometria,method_trigonometria,method_coordinate,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -131,10 +128,10 @@ level: IMO
 
 > In triangle $ABC$ the bisector of angle $BCA$ intersects the circumcircle again at $R$, the perpendicular bisector of $BC$ at $P$, and the perpendicular bisector of $AC$ at $Q$. The midpoint of $BC$ is $K$ and the midpoint of $AC$ is $L$. Prove that the triangles $RPK$ and $RQL$ have the same area.
 
-**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometry]]
 **Metodo:** [[method_trigonometria|Trigonometria]], [[method_coordinate|Coordinate]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
-**Area:** [[Geometria]]
+**Area:** [[Geometria|Geometry]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/18zBoJL6BL0Qzw_Nb0n79SKzFnL3kZGiT/view)
 
 
@@ -145,12 +142,11 @@ level: IMO
 
 > Nel triangolo $ABC$, la bisettrice dell'angolo $BCA$ interseca nuovamente la circonferenza circoscritta in $R$, la mediatrice di $BC$ in $P$ e la mediatrice di $AC$ in $Q$. Il punto medio di $BC$ è $K$ e il punto medio di $AC$ è $L$. Dimostrare che i triangoli $RPK$ e $RQL$ hanno la stessa area.
 
-**Topic:** [[topic_geometria_piana|Geometria piana]]
+
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometria]]
 **Metodo:** [[method_trigonometria|Trigonometria]], [[method_coordinate|Coordinate]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
-
-[[Quesiti/src_imho_2007#q04|src_imho_2007__Q04]]
 
 
 
@@ -182,11 +178,9 @@ level: IMO
 **Abilità:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di schemi]], [[skill_lettura_attenta|Lettura attenta del testo]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Aritmetica e teoria dei numeri]]
 
-[[Quesiti/src_imho_2007#q05|src_imho_2007__Q05]]
 
 
-
-<span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_combinatoria,topic_geometria_solida,method_estremalita,method_induzione,method_doppio_conteggio,skill_astrazione,skill_modellizzazione,skill_conteggio_sistematico,skill_stima"></span>
+<span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_combinatoria,topic_geometria_solida,topic_geometria_analitica,method_estremalita,method_induzione,method_doppio_conteggio,method_coordinate,skill_astrazione,skill_modellizzazione,skill_conteggio_sistematico,skill_stima,skill_ragionamento_geometrico"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -197,10 +191,10 @@ level: IMO
 > $$S = \{(x,y,z) \ : \ x, y, z \in \{0, 1, \ldots, n\},\ x + y + z > 0\}$$
 > as a set of $(n+1)^3 - 1$ points in three-dimensional space. Determine the smallest possible number of planes, the union of which contains $S$ but does not include $(0, 0, 0)$.
 
-**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_geometria_solida|Geometria solida]]
-**Metodo:** [[method_estremalita|Estremalità]], [[method_induzione|Induzione]], [[method_doppio_conteggio|Doppio conteggio]]
-**Abilita:** [[skill_astrazione|Astrazione]], [[skill_modellizzazione|Modellizzazione]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_stima|Stima]]
-**Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_geometria_solida|Geometria solida]], [[topic_geometria_analitica|Coordinate geometry]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_induzione|Induzione]], [[method_doppio_conteggio|Doppio conteggio]], [[method_coordinate|Coordinate method]]
+**Abilita:** [[skill_astrazione|Astrazione]], [[skill_modellizzazione|Modellizzazione]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_stima|Stima]], [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Geometria|Geometry]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/18zBoJL6BL0Qzw_Nb0n79SKzFnL3kZGiT/view)
 
 
@@ -213,9 +207,8 @@ level: IMO
 > $$S = \{(x,y,z) \ : \ x, y, z \in \{0, 1, \ldots, n\},\ x + y + z > 0\}$$
 > come un insieme di $(n+1)^3 - 1$ punti nello spazio tridimensionale. Determinare il numero minimo possibile di piani la cui unione contenga $S$ ma non includa $(0, 0, 0)$.
 
-**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_geometria_solida|Geometria solida]]
-**Metodo:** [[method_estremalita|Estremalità]], [[method_induzione|Induzione]], [[method_doppio_conteggio|Doppio conteggio]]
-**Abilita:** [[skill_astrazione|Astrazione]], [[skill_modellizzazione|Modellizzazione]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_stima|Stima]]
-**Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 
-[[Quesiti/src_imho_2007#q06|src_imho_2007__Q06]]
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_geometria_solida|Geometria solida]], [[topic_geometria_analitica|Geometria analitica]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_induzione|Induzione]], [[method_doppio_conteggio|Doppio conteggio]], [[method_coordinate|Metodo delle coordinate]]
+**Abilita:** [[skill_astrazione|Astrazione]], [[skill_modellizzazione|Modellizzazione]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_stima|Stima]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]

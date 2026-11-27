@@ -10,7 +10,7 @@ level: TFJM²
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_combinatoria,method_conteggio,method_casework,method_casi_conteggio,skill_conteggio_sistematico,skill_casework_accurato,skill_modellizzazione"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_combinatoria,method_conteggio,method_casework,method_casi_conteggio,method_simmetria,method_colorazione,skill_conteggio_sistematico,skill_casework_accurato,skill_modellizzazione"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -47,12 +47,12 @@ level: TFJM²
 > 
 > $\textbf{7.}$ Propose and study other avenues of research.
 
-![[src_tfjm_2024__q01.png]]
+![[src_tfjm_2024__Q01.png]]
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
-**Metodo:** [[method_conteggio|Conteggio]], [[method_casework|Casework]], [[method_casi_conteggio|Casi e conteggio]]
+**Metodo:** [[method_conteggio|Conteggio]], [[method_casework|Casework]], [[method_casi_conteggio|Casi e conteggio]], [[method_simmetria|Using symmetry]], [[method_colorazione|Colouring / parity]]
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]], [[skill_modellizzazione|Modellizzazione]]
-**Area:** [[Combinatoria, Logica e Probabilita]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1o8RK8czKsvWEeJStFxHt_FNsFu2sYqMy/view)
 
 
@@ -91,13 +91,16 @@ level: TFJM²
 > 
 > $\textbf{7.}$ Proporre e studiare altre vie di ricerca.
 
-![[src_tfjm_2024__q01.png]]
+![[src_tfjm_2024__Q01.png]]
 
-[[Quesiti/src_tfjm_2024#q01|src_tfjm_2024__Q01]]
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_conteggio|Conteggio combinatorio]], [[method_casework|Analisi per casi]], [[method_casi_conteggio|Conteggio per casi]], [[method_simmetria|Sfruttamento della simmetria]], [[method_colorazione|Colorazione / parita]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
 
 
 
-<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_combinatoria,method_casework,method_estremalita,method_conteggio,skill_conteggio_sistematico,skill_astrazione,skill_modellizzazione"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_combinatoria,method_casework,method_estremalita,method_conteggio,method_doppio_conteggio,skill_conteggio_sistematico,skill_astrazione,skill_modellizzazione"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -132,12 +135,12 @@ level: TFJM²
 > 
 > $\textbf{8.}$ Propose and study other avenues of research.
 
-![[src_tfjm_2024__q02.png]]
+![[src_tfjm_2024__Q02.png]]
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
-**Metodo:** [[method_casework|Casework]], [[method_estremalita|Estremalità]], [[method_conteggio|Conteggio]]
+**Metodo:** [[method_casework|Casework]], [[method_estremalita|Estremalità]], [[method_conteggio|Conteggio]], [[method_doppio_conteggio|Double counting]]
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_astrazione|Astrazione]], [[skill_modellizzazione|Modellizzazione]]
-**Area:** [[Combinatoria, Logica e Probabilita]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1o8RK8czKsvWEeJStFxHt_FNsFu2sYqMy/view)
 
 
@@ -168,16 +171,16 @@ level: TFJM²
 > 
 > $\textbf{8.}$ Proporre e studiare altre vie di ricerca.
 
-![[src_tfjm_2024__q02.png]]
+![[src_tfjm_2024__Q02.png]]
 
-[[Quesiti/src_tfjm_2024#q02|src_tfjm_2024__Q02]]
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casework|Analisi per casi]], [[method_estremalita|Principio di estremalita]], [[method_conteggio|Conteggio combinatorio]], [[method_doppio_conteggio|Doppio conteggio]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_astrazione|Astrazione / generalizzazione]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
 
 
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_combinatoria,topic_logica,method_invarianti,method_conteggio,method_casework,skill_conteggio_sistematico,skill_riconoscimento_pattern,skill_casework_accurato"></span>
-
-<div class="qlang-switch" data-default="en"></div>
-
 
 *Ping-pong tournament: 2n players on n numbered tables, winners climb a table and losers descend; study stable configurations, reachability, and which words of wins/losses are inscriptible.*
 
@@ -206,7 +209,7 @@ level: TFJM²
 > 
 > $\textbf{8.}$ Propose and study other avenues of research.
 
-![[src_tfjm_2024__q03.png]]
+![[src_tfjm_2024__Q03.png]]
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_logica|Logica]]
 **Metodo:** [[method_invarianti|Invarianti]], [[method_conteggio|Conteggio]], [[method_casework|Casework]]
@@ -215,8 +218,20 @@ level: TFJM²
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1o8RK8czKsvWEeJStFxHt_FNsFu2sYqMy/view)
 
 
-<div class="qlang-split" data-lang="it"></div>
 
+<span class="atom-split" id="q03__it" data-atom="q03__it" data-title="Q03__IT" data-tags=""></span>
+
+---
+tipo: quesito-translation
+translation_of: src_tfjm_2024__Q03
+lang: it
+secondary: true
+title: "Tournoi Français des Jeunes Mathématiciens (TFJM2) 2024  Quesito 3"
+summary: "Torneo di ping-pong: 2n giocatori su tavoli numerati n, i vincitori saliono su una tavola e i perdenti scendono; studiano le configurazioni stabili, la raggiungibilità e quali parole di vittorie/perdite sono iscrivibili."
+topics: [topic_combinatoria, topic_logica]
+methods: [method_invarianti, method_conteggio, method_casework]
+skills: [skill_conteggio_sistematico, skill_riconoscimento_pattern, skill_casework_accurato]
+tags: [kg/translation, topic/combinatoria, topic/logica]---
 
 *Torneo di ping-pong: 2n giocatori su tavoli numerati n, i vincitori si arrampicano su una tavola e i perdenti scendono; studiano le configurazioni stabili, la raggiungibilità e quali parole di vittorie/perdite sono iscrivibili.*
 
@@ -242,16 +257,17 @@ level: TFJM²
 > 
 > $\textbf{8.}$ Proporre e studiare altre vie di ricerca.
 
-![[src_tfjm_2024__q03.png]]
+![[src_tfjm_2024__Q03.png]]
 
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_logica|Logica, giochi, strategie]]
+**Metodo:** [[method_invarianti|Invarianti / monovarianti]], [[method_conteggio|Conteggio combinatorio]], [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
 [[Quesiti/src_tfjm_2024#q03|src_tfjm_2024__Q03]]
 
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_algebra,topic_funzionali,method_ricorsione,method_casework,method_induzione,skill_manipolazione_algebrica,skill_modellizzazione,skill_stima"></span>
-
-<div class="qlang-switch" data-default="en"></div>
-
 
 *Depollution of the Seine: a discrete dynamical model of clean vs. polluted water volumes in a basin where bacteria reproduce (factor K) and die at midnight; study the recurrence v_T under several movement rules, stirring, evaporation, and weather.*
 
@@ -302,7 +318,7 @@ level: TFJM²
 > 
 > $\textbf{8.}$ Propose and study other avenues of research.
 
-![[src_tfjm_2024__q04.png]]
+![[src_tfjm_2024__Q04.png]]
 
 **Topic:** [[topic_algebra|Algebra]], [[topic_funzionali|Equazioni funzionali]]
 **Metodo:** [[method_ricorsione|Ricorsione]], [[method_casework|Casework]], [[method_induzione|Induzione]]
@@ -311,8 +327,20 @@ level: TFJM²
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1o8RK8czKsvWEeJStFxHt_FNsFu2sYqMy/view)
 
 
-<div class="qlang-split" data-lang="it"></div>
 
+<span class="atom-split" id="q04__it" data-atom="q04__it" data-title="Q04__IT" data-tags=""></span>
+
+---
+tipo: quesito-translation
+translation_of: src_tfjm_2024__Q04
+lang: it
+secondary: true
+title: "Tournoi Français des Jeunes Mathématiciens (TFJM2) 2024  Quesito 4"
+summary: "La depolluzione della Senna: un modello dinamico discreto di netto vs. volumi di acqua inquinata in un bacino in cui i batteri si riproducono (fattore K) e muoiono a mezzanotte; studiare la ricorrenza v_T in base a diverse regole di movimento, agitazione, evaporazione e tempo."
+topics: [topic_algebra, topic_funzionali]
+methods: [method_ricorsione, method_casework, method_induzione]
+skills: [skill_manipolazione_algebrica, skill_modellizzazione, skill_stima]
+tags: [kg/translation, topic/algebra, topic/funzionali]---
 
 La depolluzione della Senna: un modello dinamico discreto di netto vs. Volumi di acqua inquinata in un bacino in cui i batteri si riproducono (fattore K) e muoiono a mezzanotte; studiare la ricorrenza v_T secondo diverse regole di movimento, agitazione, evaporazione e meteo.*
 
@@ -344,16 +372,17 @@ La depolluzione della Senna: un modello dinamico discreto di netto vs. Volumi di
 > 
 > $\textbf{8.}$ Proporre e studiare altre vie di ricerca.
 
-![[src_tfjm_2024__q04.png]]
+![[src_tfjm_2024__Q04.png]]
 
+**Topic:** [[topic_algebra|Algebra]], [[topic_funzionali|Equazioni funzionali / successioni]]
+**Metodo:** [[method_ricorsione|Ricorsione]], [[method_casework|Analisi per casi]], [[method_induzione|Induzione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_stima|Stima e approssimazione]]
+**Area:** [[Algebra e Analisi]]
 [[Quesiti/src_tfjm_2024#q04|src_tfjm_2024__Q04]]
 
 
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_geometria_piana,topic_geometria_analitica,method_simmetria,method_coordinate,method_casework,skill_ragionamento_geometrico,skill_modellizzazione,skill_astrazione"></span>
-
-<div class="qlang-switch" data-default="en"></div>
-
 
 *Free electron: a charged particle moves along circular arcs of radius 1 (counterclockwise), reversing direction when a button is pressed (or reflecting off mirrors); study guiding it between points, avoiding a circle, through n points, gathering k electrons, and admirable polygons.*
 
@@ -391,7 +420,7 @@ La depolluzione della Senna: un modello dinamico discreto di netto vs. Volumi di
 > 
 > $\textbf{7.}$ Propose and study other avenues of research.
 
-![[src_tfjm_2024__q05.png]]
+![[src_tfjm_2024__Q05.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_geometria_analitica|Geometria analitica]]
 **Metodo:** [[method_simmetria|Simmetria]], [[method_coordinate|Coordinate]], [[method_casework|Casework]]
@@ -400,8 +429,20 @@ La depolluzione della Senna: un modello dinamico discreto di netto vs. Volumi di
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1o8RK8czKsvWEeJStFxHt_FNsFu2sYqMy/view)
 
 
-<div class="qlang-split" data-lang="it"></div>
 
+<span class="atom-split" id="q05__it" data-atom="q05__it" data-title="Q05__IT" data-tags=""></span>
+
+---
+tipo: quesito-translation
+translation_of: src_tfjm_2024__Q05
+lang: it
+secondary: true
+title: "Tournoi Français des Jeunes Mathématiciens (TFJM2) 2024  Quesito 5"
+summary: "L'elettrone libero: una particella carica si muove lungo archi circolari di raggio 1 (in senso antiorario), invertendo la direzione quando viene premuto un pulsante (o riflettendo dagli specchi); studiare la guida tra i punti, evitando un cerchio, attraverso n punti, raccogliendo k elettroni e poligoni ammirevoli."
+topics: [topic_geometria_piana, topic_geometria_analitica]
+methods: [method_simmetria, method_coordinate, method_casework]
+skills: [skill_ragionamento_geometrico, skill_modellizzazione, skill_astrazione]
+tags: [kg/translation, topic/geometria_piana, topic/geometria_analitica]---
 
 *L'elettrone libero: una particella carica si muove lungo archi circolari di raggio 1 (in senso antiorario), invertendo la direzione quando viene premuto un pulsante (o riflettendo gli specchi); studiare la guida tra i punti, evitando un cerchio, attraverso n punti, raccogliendo k elettroni e poligoni ammirevoli.*
 
@@ -437,16 +478,17 @@ La depolluzione della Senna: un modello dinamico discreto di netto vs. Volumi di
 > 
 > $\textbf{7.}$ Proporre e studiare altre vie di ricerca.
 
-![[src_tfjm_2024__q05.png]]
+![[src_tfjm_2024__Q05.png]]
 
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_geometria_analitica|Geometria analitica]]
+**Metodo:** [[method_simmetria|Sfruttamento della simmetria]], [[method_coordinate|Metodo delle coordinate]], [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_astrazione|Astrazione / generalizzazione]]
+**Area:** [[Geometria]]
 [[Quesiti/src_tfjm_2024#q05|src_tfjm_2024__Q05]]
 
 
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_probabilita,method_casework,method_conteggio,skill_modellizzazione,skill_stima,skill_casework_accurato"></span>
-
-<div class="qlang-switch" data-default="en"></div>
-
 
 *Rigged coins: Felix flips a coin landing heads with probability p; Clara predicts upcoming flips to maximize her guaranteed (worst-case over p) expected gain across strategies, then with two coins, guessing which coin, and a switch point K.*
 
@@ -484,7 +526,7 @@ La depolluzione della Senna: un modello dinamico discreto di netto vs. Volumi di
 > 
 > $\textbf{7.}$ Propose and study other avenues of research.
 
-![[src_tfjm_2024__q06.png]]
+![[src_tfjm_2024__Q06.png]]
 
 **Topic:** [[topic_probabilita|Probabilità]]
 **Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]]
@@ -493,8 +535,20 @@ La depolluzione della Senna: un modello dinamico discreto di netto vs. Volumi di
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1o8RK8czKsvWEeJStFxHt_FNsFu2sYqMy/view)
 
 
-<div class="qlang-split" data-lang="it"></div>
 
+<span class="atom-split" id="q06__it" data-atom="q06__it" data-title="Q06__IT" data-tags=""></span>
+
+---
+tipo: quesito-translation
+translation_of: src_tfjm_2024__Q06
+lang: it
+secondary: true
+title: "Tournoi Français des Jeunes Mathématiciens (TFJM2) 2024  Quesito 6"
+summary: "Monete truffate: Felix lancia una moneta con probabilità p; Clara prevede i prossimi lanci per massimizzare il suo guadagno garantito (nel peggiore dei casi rispetto a p) atteso attraverso le strategie, quindi con due monete, indovinando quale moneta, e un punto di cambio K."
+topics: [topic_probabilita]
+methods: [method_casework, method_conteggio]
+skills: [skill_modellizzazione, skill_stima, skill_casework_accurato]
+tags: [kg/translation, topic/probabilita]---
 
 *Monete rigidate: Felix lancia una moneta con probabilità di sbarco p; Clara predice i prossimi lanci per massimizzare il suo guadagno garantito (in peggiore dei casi rispetto a p) previsto tra le strategie, quindi con due monete, indovinando quale moneta, e un punto di svolta K.*
 
@@ -524,16 +578,17 @@ La depolluzione della Senna: un modello dinamico discreto di netto vs. Volumi di
 > 
 > $\textbf{7.}$ Proporre e studiare altre vie di ricerca.
 
-![[src_tfjm_2024__q06.png]]
+![[src_tfjm_2024__Q06.png]]
 
+**Topic:** [[topic_probabilita|Probabilita e statistica]]
+**Metodo:** [[method_casework|Analisi per casi]], [[method_conteggio|Conteggio combinatorio]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_stima|Stima e approssimazione]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
 [[Quesiti/src_tfjm_2024#q06|src_tfjm_2024__Q06]]
 
 
 
 <span class="atom-split" id="q07" data-atom="q07" data-title="Quesito 7" data-tags="topic_geometria_piana,topic_geometria_analitica,topic_insiemi_funzioni,method_coordinate,method_casework,method_estremalita,skill_ragionamento_geometrico,skill_astrazione,skill_modellizzazione"></span>
-
-<div class="qlang-switch" data-default="en"></div>
-
 
 *Funny cookies: dough deposited along segments, each point P filling a disk of radius R(P); characterize which planar shapes (disk, rectangle, triangle, annulus) are cookies / r-cookies, the dough quantity needed, and which contours bound r-cookies.*
 
@@ -579,7 +634,7 @@ La depolluzione della Senna: un modello dinamico discreto di netto vs. Volumi di
 > 
 > $\textbf{8.}$ Propose and explore other avenues of research, for example in dimension $3$.
 
-![[src_tfjm_2024__q07.png]]
+![[src_tfjm_2024__Q07.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_geometria_analitica|Geometria analitica]], [[topic_insiemi_funzioni|Insiemi e funzioni]]
 **Metodo:** [[method_coordinate|Coordinate]], [[method_casework|Casework]], [[method_estremalita|Estremalità]]
@@ -588,8 +643,20 @@ La depolluzione della Senna: un modello dinamico discreto di netto vs. Volumi di
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1o8RK8czKsvWEeJStFxHt_FNsFu2sYqMy/view)
 
 
-<div class="qlang-split" data-lang="it"></div>
 
+<span class="atom-split" id="q07__it" data-atom="q07__it" data-title="Q07__IT" data-tags=""></span>
+
+---
+tipo: quesito-translation
+translation_of: src_tfjm_2024__Q07
+lang: it
+secondary: true
+title: "Tournoi Français des Jeunes Mathématiciens (TFJM2) 2024  Quesito 7"
+summary: "Cookie divertenti: pasta depositata lungo i segmenti, ogni punto P riempendo un disco di raggio R(P); caratterizzare quali forme piane (disco, rettangolo, triangolo, annulo) sono cookie / r-cookie, la quantità di pasta necessaria, e quali contorni di r-cookie legati."
+topics: [topic_geometria_piana, topic_geometria_analitica, topic_insiemi_funzioni]
+methods: [method_coordinate, method_casework, method_estremalita]
+skills: [skill_ragionamento_geometrico, skill_astrazione, skill_modellizzazione]
+tags: [kg/translation, topic/geometria_piana, topic/geometria_analitica, topic/insiemi_funzioni]---
 
 *Cookies divertenti: pasta depositata lungo i segmenti, ogni punto P riempendo un disco di raggio R(P); caratterizzare quali forme piane (disco, rettangolo, triangolo, annulo) sono cookie / r-cookies, la quantità di pasta necessaria, e quali contorni di r-cookies legati.*
 
@@ -629,13 +696,17 @@ La depolluzione della Senna: un modello dinamico discreto di netto vs. Volumi di
 > 
 > $\textbf{8.}$ Proporre e esplorare altre vie di ricerca, ad esempio nella dimensione $3$.
 
-![[src_tfjm_2024__q07.png]]
+![[src_tfjm_2024__Q07.png]]
 
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_geometria_analitica|Geometria analitica]], [[topic_insiemi_funzioni|Insiemi e funzioni]]
+**Metodo:** [[method_coordinate|Metodo delle coordinate]], [[method_casework|Analisi per casi]], [[method_estremalita|Principio di estremalita]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_astrazione|Astrazione / generalizzazione]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
+**Area:** [[Geometria]], [[Algebra e Analisi]]
 [[Quesiti/src_tfjm_2024#q07|src_tfjm_2024__Q07]]
 
 
 
-<span class="atom-split" id="q08" data-atom="q08" data-title="Quesito 8" data-tags="topic_combinatoria,topic_aritmetica,method_congruenze,method_casework,method_fattorizzazione,skill_conteggio_sistematico,skill_astrazione,skill_riconoscimento_pattern"></span>
+<span class="atom-split" id="q08" data-atom="q08" data-title="Quesito 8" data-tags="topic_combinatoria,topic_aritmetica,method_congruenze,method_casework,method_fattorizzazione,method_grafi,skill_conteggio_sistematico,skill_astrazione,skill_riconoscimento_pattern"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -669,12 +740,12 @@ La depolluzione della Senna: un modello dinamico discreto di netto vs. Volumi di
 > 
 > $\textbf{7.}$ Propose and study other avenues of research.
 
-![[src_tfjm_2024__q08.png]]
+![[src_tfjm_2024__Q08.png]]
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_congruenze|Congruenze]], [[method_casework|Casework]], [[method_fattorizzazione|Fattorizzazione]]
+**Metodo:** [[method_congruenze|Congruenze]], [[method_casework|Casework]], [[method_fattorizzazione|Fattorizzazione]], [[method_grafi|Graph theory]]
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_astrazione|Astrazione]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
-**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1o8RK8czKsvWEeJStFxHt_FNsFu2sYqMy/view)
 
 
@@ -707,6 +778,9 @@ La depolluzione della Senna: un modello dinamico discreto di netto vs. Volumi di
 > 
 > $\textbf{7.}$ Proporre e studiare altre vie di ricerca.
 
-![[src_tfjm_2024__q08.png]]
+![[src_tfjm_2024__Q08.png]]
 
-[[Quesiti/src_tfjm_2024#q08|src_tfjm_2024__Q08]]
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]], [[method_casework|Analisi per casi]], [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]], [[method_grafi|Teoria dei grafi]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_astrazione|Astrazione / generalizzazione]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]

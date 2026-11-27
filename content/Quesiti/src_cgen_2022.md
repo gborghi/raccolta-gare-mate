@@ -10,7 +10,7 @@ level: Concours Général
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_aritmetica,topic_algebra,method_induzione,method_disuguaglianze,method_ricorsione,skill_manipolazione_algebrica,skill_lettura_attenta,skill_astrazione"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_aritmetica,topic_algebra,method_induzione,method_disuguaglianze,method_ricorsione,method_colorazione,skill_manipolazione_algebrica,skill_lettura_attenta,skill_astrazione"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -51,9 +51,9 @@ level: Concours Général
 > 13. Show that $y$ is the unique sparkling real contained in the interval $[k; k+1[$.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
-**Metodo:** [[method_induzione|Induzione]], [[method_disuguaglianze|Disuguaglianze]], [[method_ricorsione|Ricorsione]]
+**Metodo:** [[method_induzione|Induzione]], [[method_disuguaglianze|Disuguaglianze]], [[method_ricorsione|Ricorsione]], [[method_colorazione|Colouring / parity]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_astrazione|Astrazione]]
-**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Algebra e Analisi|Algebra and analysis]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1CDKdOobrMp7gzmKvpT87_FjVRxny9v1t/view)
 
 > [!warning] Estratto/tradotto da verificare con la fonte.
@@ -78,14 +78,14 @@ level: Concours Général
 > 
 > 1.3 Unicità. $y$ sia un reale scintillante contenuto nell'intervallo $[k; k+1[$. Per ogni intero $n \ge 1$, impostare $r_n = \mathrm{E}\left(y^{(2^n)}\right) + 2$. 10. Indicare che $u_n = r_n$ per ogni numero intero $n \ge 1$. 11. Con le notazioni della parte 1.2, indicare che per ogni numero intero $n \ge 1$, $a_n \le y \le b_n$. 12.a. Che $x$ e $y$ siano due reali con $x \ge y \ge 1$. Indicare che, per ogni numero intero $n \ge 1$, $x^{(2^n)} - y^{(2^n)} \ge 2^n(x - y)$. b. Indicare che le sequenze $(a_n)_n$ e $(b_n)_{n \ge 1}$ convergono allo stesso limite $y$. 13. Indicare che $y$ è il reale spumante unico contenuto nell'intervallo $[k; k+1[$.
 
-[[Quesiti/src_cgen_2022#q01|src_cgen_2022__Q01]]
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_induzione|Induzione]], [[method_disuguaglianze|Disuguaglianze classiche]], [[method_ricorsione|Ricorsione]], [[method_colorazione|Colorazione / parita]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta del testo]], [[skill_astrazione|Astrazione / generalizzazione]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_aritmetica,topic_geometria_analitica,topic_combinatoria,method_cassetti,method_coordinate,method_estremalita,method_conteggio,skill_ragionamento_geometrico,skill_manipolazione_algebrica,skill_conteggio_sistematico"></span>
-
-<div class="qlang-switch" data-default="en"></div>
-
 
 *Lattice path M_k with steps i or j; alignment of three or more points; Stern-Brocot / Farey-style tight fractions, naive mediants, principal intervals, and pigeonhole to force n aligned points*
 
@@ -156,8 +156,20 @@ level: Concours Général
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<div class="qlang-split" data-lang="it"></div>
 
+<span class="atom-split" id="q02__it" data-atom="q02__it" data-title="Q02__IT" data-tags=""></span>
+
+---
+tipo: quesito-translation
+translation_of: src_cgen_2022__Q02
+lang: it
+secondary: true
+title: "Concours Général des Lycées 2022  Matematica  Quesito 2"
+summary: "Lattice path M_k con passi i o j; allineamento di tre o più punti; frazioni strette di stile Stern-Brocot / Farey, medianti ingenui, intervalli principali e forze di piccione per forzare n punti allineati"
+topics: [topic_aritmetica, topic_geometria_analitica, topic_combinatoria]
+methods: [method_cassetti, method_coordinate, method_estremalita, method_conteggio]
+skills: [skill_ragionamento_geometrico, skill_manipolazione_algebrica, skill_conteggio_sistematico]
+tags: [kg/translation, topic/aritmetica, topic/geometria_analitica, topic/combinatoria]---
 
 *Costruzione del percorso lattice M_k con passi i o j; allineamento di tre o più punti; frazioni strette di stile Stern-Brocot/Farey, medianti ingenui, intervalli principali e forze di buco di piccione per forzare n punti allineati*
 
@@ -191,14 +203,15 @@ level: Concours Général
 > 
 > 2.7 verso l'infinito e oltre! 19. La sequenza $(M_k)_{k \ge 0}$ contiene necessariamente un infinito di punti allineati?
 
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_geometria_analitica|Geometria analitica]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_cassetti|Principio dei cassetti]], [[method_coordinate|Metodo delle coordinate]], [[method_estremalita|Principio di estremalita]], [[method_conteggio|Conteggio combinatorio]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Geometria]], [[Combinatoria, Logica e Probabilita]]
 [[Quesiti/src_cgen_2022#q02|src_cgen_2022__Q02]]
 
 
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_probabilita,topic_combinatoria,topic_algebra,method_ricorsione,method_casework,method_conteggio,method_simmetria,method_bigezione,skill_modellizzazione,skill_conteggio_sistematico,skill_manipolazione_algebrica,skill_casework_accurato"></span>
-
-<div class="qlang-switch" data-default="en"></div>
-
 
 *Probabilistic team tournament: a rigged-coin duel between two players, a regular tournament, the team elimination tournament with win probabilities a_i/(a_i+b_j), and proof via tableau transformations that A's winning probability is independent of player order*
 
@@ -262,8 +275,20 @@ level: Concours Général
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<div class="qlang-split" data-lang="it"></div>
 
+<span class="atom-split" id="q03__it" data-atom="q03__it" data-title="Q03__IT" data-tags=""></span>
+
+---
+tipo: quesito-translation
+translation_of: src_cgen_2022__Q03
+lang: it
+secondary: true
+title: "Concours Général des Lycées 2022  Matematica  Quesito 3"
+summary: "Torneo di squadra probabilistico: un duello con monete truccate tra due giocatori, un torneo regolare, il torneo di eliminazione di squadra con probabilità di vittoria a_i/(a_i+b_j), e la prova attraverso trasformazioni del tabellone che la probabilità di vittoria di A è indipendente dall'ordine dei giocatori"
+topics: [topic_probabilita, topic_combinatoria, topic_algebra]
+methods: [method_ricorsione, method_casework, method_conteggio, method_simmetria, method_bigezione]
+skills: [skill_modellizzazione, skill_conteggio_sistematico, skill_manipolazione_algebrica, skill_casework_accurato]
+tags: [kg/translation, topic/probabilita, topic/combinatoria, topic/algebra]---
 
 *Torneo di squadra probabile: un duello con monete truccate tra due giocatori, un torneo regolare, il torneo di eliminazione di squadra con probabilità di vittoria a_i/(a_i+b_j), e la prova attraverso trasformazioni del tabellone che la probabilità di vittoria di A è indipendente dall'ordine dei giocatori*
 
@@ -279,4 +304,8 @@ level: Concours Général
 > 
 > 3.4 Una generalizzazione. Abbiamo il torneo regolare descritto nella parte 3.3. Tuttavia, oltre alle partite del torneo, decidiamo di avere ogni membro della squadra $A$ giocare contro ogni membro della squadra $B$ che non ha incontrato durante il torneo, le partite supplementari sempre soddisfa proprietà $(\star)$. Questo dà un totale di corrispondenze $mn$. Codifichiamo i risultati di queste partite mediante un quadro rettangolare di righe $m$ e colonne $n$. Nella cella della riga $i$ e della colonna $j$, posizionamo un simbolo $A$ se $A_i$ ha vinto contro $B_j$, e un simbolo $B$ altrimenti. Nell'esempio del torneo presentato all'inizio della parte 3.3 con $m = n = 3$, si ottiene un quadro $3 \times 3$ le cui voci sono $A$ o $B$, dove ogni simbolo nasconde un $A$ o un $B$ a seconda del risultato della partita aggiunta al torneo. In generale, diciamo che il quadro è un risultato possibile per il team $A$. 7. In questa domanda, supponiamo $m = 2$. Indicare le possibili forme di tutte le tabelle vincenti e mostrare che, per ogni numero intero $n \ge 1$, ci sono esattamente $2^n + n\,2^{n-1}$ tabelle vincenti. 8. In questa domanda, supponiamo ancora $m = 2$. a. Indichiamo con $D$ il prodotto di tutti i termini $(a_i + b_j)$ in quanto $j$ va oltre $\{1, 2, \ldots, n\}$. Quindi $D = (a_1 + b_1)\cdots(a_1 + b_n) \times (a_2 + b_1)\cdots(a_2 + b_n)$. Si può scrivere $D = \prod_{j=1}^{n} (a_1 + b_j)(a_2 + b_j)$. Considerate un tabellone $T$, vincente o meno. Per questo quadro, indichiamo rispettivamente con $x_1$ e $x_2$ il numero di partite vinte da $A_1$ e da $A_2$, e per ogni $j$ con $y_j$ il numero di partite vinte da $B_j$. Infine, si organizza un torneo tra le squadre $A$ e $B$, e indichiamo con $\mathbb{P}_T$ la probabilità che questo tabellone sia il risultato del torneo. Esprimere $\mathbb{P}_T$ in funzione dei numeri $D, a_1, a_2, x_1, x_2, b_1, \ldots, b_n, y_1, y_2, \ldots, y_n$. b. Supponiamo che$T$ sia un tabellone vincente. Indichiamo con $k$ il numero di colonne $\left[\begin{smallmatrix} A \\ B \end{smallmatrix}\right]$ di $T$ e con $\ell$ il suo numero di colonne $\left[\begin{smallmatrix} B \\ A \end{smallmatrix}\right]$. i. giustificare che $T$ non contiene colonna $\left[\begin{smallmatrix} B \\ B \end{smallmatrix}\right]$ e che nessuna colonna $\left[\begin{smallmatrix} A \\ B \end{smallmatrix}\right]$ è a destra di una colonna $\left[\begin{smallmatrix} B \\ A \end{smallmatrix}\right]$. ii. Indichiamo con $T'$ la tabella ottenuta da $T$ nel seguente modo: conserviamo le colonne $\left[\begin{smallmatrix} A \\ A \end{smallmatrix}\right]$ e le lasciamo al loro posto; rimpiazziamo le colonne $k$ $\left[\begin{smallmatrix} A \\ B \end{smallmatrix}\right]$ e $\ell$ $\left[\begin{smallmatrix} B \\ A \end{smallmatrix}\right]$ di $T$ con le colonne $\ell$ $\left[\begin{smallmatrix} A \\ B \end{smallmatrix}\right]$ seguite dalle colonne $k$ $\left[\begin{smallmatrix} B \\ A \end{smallmatrix}\right]$. Mostrare che $T'$ è un quadro vincente. Che cosa si ottiene se si effettua la stessa trasformazione a partire da $T'$? c. Mostrare che la probabilità che la squadra $A$ vinca il torneo non dipende dall'ordine scelto per i giocatori della squadra $A$ per partecipare al torneo. 9. Torniamo al caso generale ($m$ arbitrario). Mostrare che la probabilità che la squadra $A$ vinca il torneo non dipende dall'ordine scelto per i giocatori per partecipare al torneo.
 
+**Topic:** [[topic_probabilita|Probabilita e statistica]], [[topic_combinatoria|Combinatoria]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_ricorsione|Ricorsione]], [[method_casework|Analisi per casi]], [[method_conteggio|Conteggio combinatorio]], [[method_simmetria|Sfruttamento della simmetria]], [[method_bigezione|Bigezione / corrispondenza]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Algebra e Analisi]]
 [[Quesiti/src_cgen_2022#q03|src_cgen_2022__Q03]]

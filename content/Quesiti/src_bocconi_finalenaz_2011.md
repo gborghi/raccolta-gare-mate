@@ -19,7 +19,7 @@ level: Finale Nazionale Campionati Internazionali di Giochi Matematici
 
 > In un mazzo di 52 carte, le carte sono nere e rosse e le carte nere sono tante quante le rosse. Le 52 carte sono state divise in due mazzetti di 26 carte e in quello sopra ci sono 18 carte nere. Quante carte rosse ci sono nel mazzetto di sotto?
 
-![[src_bocconi_finalenaz_2011__q01.png]]
+![[src_bocconi_finalenaz_2011__Q01.png]]
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_casework|Casework]]
@@ -36,14 +36,12 @@ level: Finale Nazionale Campionati Internazionali di Giochi Matematici
 
 > In a deck of 52 cards, the cards are black and red, and there are as many black cards as red cards. The 52 cards have been divided into two piles of 26 cards each, and the top pile contains 18 black cards. How many red cards are there in the bottom pile?
 
-![[src_bocconi_finalenaz_2011__q01.png]]
+![[src_bocconi_finalenaz_2011__Q01.png]]
 
 **Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
 **Metodo:** [[method_casework|Case analysis]]
 **Abilita:** [[skill_lettura_attenta|Careful reading of the text]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
-
-[[Quesiti/src_bocconi_finalenaz_2011#q01|src_bocconi_finalenaz_2011__Q01]]
 
 
 
@@ -58,7 +56,7 @@ level: Finale Nazionale Campionati Internazionali di Giochi Matematici
 > 
 > Anzichè quattro caselle della mini-scacchiera della figura di destra dove collocate quattro regine in modo che nessuna di loro con una mossa possa spostarsi nella casella indicata con X.
 
-![[src_bocconi_finalenaz_2011__q02.png]]
+![[src_bocconi_finalenaz_2011__Q02.png]]
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_logica|Logica]]
 **Metodo:** [[method_casework|Casework]]
@@ -77,18 +75,16 @@ level: Finale Nazionale Campionati Internazionali di Giochi Matematici
 >
 > Instead of four squares on the mini-chessboard in the figure on the right, place four queens so that none of them can, in a single move, move to the square marked X.
 
-![[src_bocconi_finalenaz_2011__q02.png]]
+![[src_bocconi_finalenaz_2011__Q02.png]]
 
 **Topic:** [[topic_combinatoria|Combinatorics]], [[topic_logica|Logic, games, strategies]]
 **Metodo:** [[method_casework|Case analysis]]
 **Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_lettura_attenta|Careful reading of the text]], [[skill_casework_accurato|Careful case analysis]]
 **Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
-[[Quesiti/src_bocconi_finalenaz_2011#q02|src_bocconi_finalenaz_2011__Q02]]
 
 
-
-<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_aritmetica,method_casework,skill_lettura_attenta,skill_conteggio_sistematico,skill_manipolazione_algebrica"></span>
+<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_aritmetica,method_casework,skill_lettura_attenta,skill_conteggio_sistematico,skill_manipolazione_algebrica,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -97,11 +93,11 @@ level: Finale Nazionale Campionati Internazionali di Giochi Matematici
 
 > Utilizzando gli otto gettoni della figura, scrivete un'addizione il cui risultato sia uguale a 2011. Elaborazione: però un gettone con il «6», girandolo, può diventare un gettone con il «9» e viceversa. Dovete usare tutti i gettoni e nessun numero può cominciare con 0.
 
-![[src_bocconi_finalenaz_2011__q03.png]]
+![[src_bocconi_finalenaz_2011__Q03.png]]
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_casework|Casework]]
-**Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 1012+999 oppure 1092+919 oppure 1099+912 (ciascuna è una sola delle quattro soluzioni)
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1851f3rdxXY9DB9nNCcrWBZrtg5a-N23A/view)
@@ -114,14 +110,13 @@ level: Finale Nazionale Campionati Internazionali di Giochi Matematici
 
 > Using the eight tokens in the figure, write an addition sum whose result is equal to 2011. Note: however, a token bearing "6" can, when turned over, become a token bearing "9", and vice versa. You must use all the tokens, and no number may begin with 0.
 
-![[src_bocconi_finalenaz_2011__q03.png]]
+![[src_bocconi_finalenaz_2011__Q03.png]]
+
 
 **Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
 **Metodo:** [[method_casework|Case analysis]]
-**Abilita:** [[skill_lettura_attenta|Careful reading of the text]], [[skill_conteggio_sistematico|Systematic counting]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Abilita:** [[skill_lettura_attenta|Careful reading of the text]], [[skill_conteggio_sistematico|Systematic counting]], [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_casework_accurato|Careful case analysis]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
-
-[[Quesiti/src_bocconi_finalenaz_2011#q03|src_bocconi_finalenaz_2011__Q03]]
 
 
 
@@ -154,11 +149,9 @@ level: Finale Nazionale Campionati Internazionali di Giochi Matematici
 **Abilita:** [[skill_lettura_attenta|Careful reading of the text]], [[skill_conteggio_sistematico|Systematic counting]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
-[[Quesiti/src_bocconi_finalenaz_2011#q04|src_bocconi_finalenaz_2011__Q04]]
 
 
-
-<span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_aritmetica,topic_combinatoria,method_conteggio,skill_conteggio_sistematico,skill_modellizzazione,skill_lettura_attenta"></span>
+<span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_aritmetica,topic_combinatoria,topic_geometria_solida,method_conteggio,skill_conteggio_sistematico,skill_modellizzazione,skill_lettura_attenta"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -167,12 +160,12 @@ level: Finale Nazionale Campionati Internazionali di Giochi Matematici
 
 > Con 111 cubetti uguali tra loro, Desiderio vuole realizzare una piramide a base quadrata dove ogni cubetto, a partire dal secondo livello dal basso, poggia su quattro cubetti del livello inferiore (come in figura). Quanti cubetti rimarranno inutilizzati?
 
-![[src_bocconi_finalenaz_2011__q05.png]]
+![[src_bocconi_finalenaz_2011__Q05.png]]
 
-**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]], [[topic_geometria_solida|Geometria solida]]
 **Metodo:** [[method_conteggio|Conteggio]]
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione]], [[skill_lettura_attenta|Lettura attenta]]
-**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 **Risposta:** Non verranno utilizzati 20 cubetti
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1851f3rdxXY9DB9nNCcrWBZrtg5a-N23A/view)
 
@@ -184,14 +177,13 @@ level: Finale Nazionale Campionati Internazionali di Giochi Matematici
 
 > With 111 identical cubes, Desiderio wants to construct a square-based pyramid in which, starting from the second layer from the bottom, each cube rests on four cubes in the layer below (as shown in the figure). How many cubes will remain unused?
 
-![[src_bocconi_finalenaz_2011__q05.png]]
+![[src_bocconi_finalenaz_2011__Q05.png]]
 
-**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_combinatoria|Combinatorics]]
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_combinatoria|Combinatorics]], [[topic_geometria_solida|Solid geometry]]
 **Metodo:** [[method_conteggio|Combinatorial counting]]
 **Abilita:** [[skill_conteggio_sistematico|Systematic counting]], [[skill_modellizzazione|Modelling / translating the text]], [[skill_lettura_attenta|Careful reading of the text]]
-**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
-
-[[Quesiti/src_bocconi_finalenaz_2011#q05|src_bocconi_finalenaz_2011__Q05]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Geometria|Geometry]]
 
 
 
@@ -204,7 +196,7 @@ level: Finale Nazionale Campionati Internazionali di Giochi Matematici
 
 > Dividete la figura in tre parti perfettamente sovrapponibili (per sovrapporle le parti della figura è possibile che qualcuna di loro vada ruotata).
 
-![[src_bocconi_finalenaz_2011__q06.png]]
+![[src_bocconi_finalenaz_2011__Q06.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_simmetria|Simmetria]], [[method_casework|Casework]]
@@ -221,18 +213,16 @@ level: Finale Nazionale Campionati Internazionali di Giochi Matematici
 
 > Divide the figure into three perfectly superimposable parts (when superimposing the parts of the figure, some of them may need to be rotated).
 
-![[src_bocconi_finalenaz_2011__q06.png]]
+![[src_bocconi_finalenaz_2011__Q06.png]]
 
 **Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_combinatoria|Combinatorics]]
 **Metodo:** [[method_simmetria|Using symmetry]], [[method_casework|Case analysis]]
 **Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_astrazione|Abstraction / generalisation]], [[skill_lettura_attenta|Careful reading of the text]]
 **Area:** [[Geometria|Geometry]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
-[[Quesiti/src_bocconi_finalenaz_2011#q06|src_bocconi_finalenaz_2011__Q06]]
 
 
-
-<span class="atom-split" id="q07" data-atom="q07" data-title="Quesito 7" data-tags="topic_combinatoria,topic_logica,method_casework,method_backward,skill_ragionamento_geometrico,skill_conteggio_sistematico,skill_lettura_attenta"></span>
+<span class="atom-split" id="q07" data-atom="q07" data-title="Quesito 7" data-tags="topic_combinatoria,topic_logica,method_casework,method_backward,method_invarianti,skill_ragionamento_geometrico,skill_conteggio_sistematico,skill_lettura_attenta"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -241,10 +231,10 @@ level: Finale Nazionale Campionati Internazionali di Giochi Matematici
 
 > In questo gioco si può spostare nella casella vuota un quadratino situato al suo fianco. Per esempio, nella situazione rappresentata nella figura di sinistra, si può spostare nella casella vuota il quadratino «3» o il quadratino «2». In quante mosse, al minimo, si può passare dalla situazione della figura di sinistra a quella della figura di destra (che sia impossibile effettuare la trasformazione precedente)?
 
-![[src_bocconi_finalenaz_2011__q07.png]]
+![[src_bocconi_finalenaz_2011__Q07.png]]
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_logica|Logica]]
-**Metodo:** [[method_casework|Casework]], [[method_backward|Backward]]
+**Metodo:** [[method_casework|Casework]], [[method_backward|Backward]], [[method_invarianti|Invarianti / monovarianti]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** Ci vorranno 10 mosse
@@ -258,18 +248,17 @@ level: Finale Nazionale Campionati Internazionali di Giochi Matematici
 
 > In this game, you can move a small square that is next to the empty cell into the empty cell. For example, in the situation shown in the left figure, you can move the small square "3" or the small square "2" into the empty cell. What is the minimum number of moves required to go from the situation in the left figure to that in the right figure (assuming that the previous transformation is impossible)?
 
-![[src_bocconi_finalenaz_2011__q07.png]]
+![[src_bocconi_finalenaz_2011__Q07.png]]
+
 
 **Topic:** [[topic_combinatoria|Combinatorics]], [[topic_logica|Logic, games, strategies]]
-**Metodo:** [[method_casework|Case analysis]], [[method_backward|Working backwards]]
+**Metodo:** [[method_casework|Case analysis]], [[method_backward|Working backwards]], [[method_invarianti|Invariants / monovariants]]
 **Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_conteggio_sistematico|Systematic counting]], [[skill_lettura_attenta|Careful reading of the text]]
 **Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
-[[Quesiti/src_bocconi_finalenaz_2011#q07|src_bocconi_finalenaz_2011__Q07]]
 
 
-
-<span class="atom-split" id="q08" data-atom="q08" data-title="Quesito 8" data-tags="topic_logica,topic_combinatoria,method_casework,skill_lettura_attenta,skill_ragionamento_geometrico,skill_casework_accurato"></span>
+<span class="atom-split" id="q08" data-atom="q08" data-title="Quesito 8" data-tags="topic_logica,topic_combinatoria,topic_aritmetica,method_casework,skill_lettura_attenta,skill_ragionamento_geometrico,skill_casework_accurato,skill_modellizzazione"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -280,10 +269,10 @@ level: Finale Nazionale Campionati Internazionali di Giochi Matematici
 > 
 > Quali erano i due numeri scelti dallo zio?
 
-**Topic:** [[topic_logica|Logica]], [[topic_combinatoria|Combinatoria]]
+**Topic:** [[topic_logica|Logica]], [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_casework|Casework]]
-**Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_casework_accurato|Casework accurato]]
-**Area:** [[Combinatoria, Logica e Probabilita]]
+**Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_casework_accurato|Casework accurato]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** (vedi soluzioni)
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1851f3rdxXY9DB9nNCcrWBZrtg5a-N23A/view)
 
@@ -297,12 +286,11 @@ level: Finale Nazionale Campionati Internazionali di Giochi Matematici
 >
 > What were the two numbers chosen by the uncle?
 
-**Topic:** [[topic_logica|Logic, games, strategies]], [[topic_combinatoria|Combinatorics]]
-**Metodo:** [[method_casework|Case analysis]]
-**Abilita:** [[skill_lettura_attenta|Careful reading of the text]], [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_casework_accurato|Careful case analysis]]
-**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
-[[Quesiti/src_bocconi_finalenaz_2011#q08|src_bocconi_finalenaz_2011__Q08]]
+**Topic:** [[topic_logica|Logic, games, strategies]], [[topic_combinatoria|Combinatorics]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_lettura_attenta|Careful reading of the text]], [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_casework_accurato|Careful case analysis]], [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
 
 
@@ -339,8 +327,6 @@ level: Finale Nazionale Campionati Internazionali di Giochi Matematici
 **Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_lettura_attenta|Careful reading of the text]], [[skill_riconoscimento_pattern|Pattern recognition]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
-[[Quesiti/src_bocconi_finalenaz_2011#q09|src_bocconi_finalenaz_2011__Q09]]
-
 
 
 <span class="atom-split" id="q10" data-atom="q10" data-title="Quesito 10" data-tags="topic_aritmetica,topic_geometria_piana,method_casework,method_coordinate,skill_modellizzazione,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
@@ -371,8 +357,6 @@ level: Finale Nazionale Campionati Internazionali di Giochi Matematici
 **Metodo:** [[method_casework|Case analysis]], [[method_coordinate|Coordinate method]]
 **Abilita:** [[skill_modellizzazione|Modelling / translating the text]], [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_lettura_attenta|Careful reading of the text]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Geometria|Geometry]]
-
-[[Quesiti/src_bocconi_finalenaz_2011#q10|src_bocconi_finalenaz_2011__Q10]]
 
 
 
@@ -405,8 +389,6 @@ level: Finale Nazionale Campionati Internazionali di Giochi Matematici
 **Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_lettura_attenta|Careful reading of the text]], [[skill_riconoscimento_pattern|Pattern recognition]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
-[[Quesiti/src_bocconi_finalenaz_2011#q11|src_bocconi_finalenaz_2011__Q11]]
-
 
 
 <span class="atom-split" id="q12" data-atom="q12" data-title="Quesito 12" data-tags="topic_geometria_piana,method_coordinate,skill_ragionamento_geometrico,skill_manipolazione_algebrica,skill_modellizzazione"></span>
@@ -437,8 +419,6 @@ level: Finale Nazionale Campionati Internazionali di Giochi Matematici
 **Metodo:** [[method_coordinate|Coordinate method]]
 **Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_modellizzazione|Modelling / translating the text]]
 **Area:** [[Geometria|Geometry]]
-
-[[Quesiti/src_bocconi_finalenaz_2011#q12|src_bocconi_finalenaz_2011__Q12]]
 
 
 
@@ -471,8 +451,6 @@ level: Finale Nazionale Campionati Internazionali di Giochi Matematici
 **Abilita:** [[skill_conteggio_sistematico|Systematic counting]], [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_lettura_attenta|Careful reading of the text]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
-[[Quesiti/src_bocconi_finalenaz_2011#q13|src_bocconi_finalenaz_2011__Q13]]
-
 
 
 <span class="atom-split" id="q14" data-atom="q14" data-title="Quesito 14" data-tags="topic_aritmetica,method_casework,method_congruenze,skill_conteggio_sistematico,skill_lettura_attenta,skill_riconoscimento_pattern"></span>
@@ -504,11 +482,9 @@ level: Finale Nazionale Campionati Internazionali di Giochi Matematici
 **Abilita:** [[skill_conteggio_sistematico|Systematic counting]], [[skill_lettura_attenta|Careful reading of the text]], [[skill_riconoscimento_pattern|Pattern recognition]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
-[[Quesiti/src_bocconi_finalenaz_2011#q14|src_bocconi_finalenaz_2011__Q14]]
 
 
-
-<span class="atom-split" id="q15" data-atom="q15" data-title="Quesito 15" data-tags="topic_geometria_piana,method_coordinate,skill_ragionamento_geometrico,skill_manipolazione_algebrica,skill_modellizzazione"></span>
+<span class="atom-split" id="q15" data-atom="q15" data-title="Quesito 15" data-tags="topic_geometria_piana,method_coordinate,method_simmetria,skill_ragionamento_geometrico,skill_manipolazione_algebrica,skill_modellizzazione"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -518,7 +494,7 @@ level: Finale Nazionale Campionati Internazionali di Giochi Matematici
 > Nel triangolo $ABC$, le mediane tracciate da $B$ e da $C$ sono rispettivamente uguali. Vale inoltre che $AB^2 + AC^2 = 500$. Calcolate in cm la distanza $BC$.
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
-**Metodo:** [[method_coordinate|Coordinate]]
+**Metodo:** [[method_coordinate|Coordinate]], [[method_simmetria|Sfruttamento della simmetria]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]]
 **Area:** [[Geometria]]
 **Risposta:** La distanza $BC$ è 10 cm
@@ -532,16 +508,15 @@ level: Finale Nazionale Campionati Internazionali di Giochi Matematici
 
 > In triangle $ABC$, the medians drawn from $B$ and from $C$ are respectively equal. It also holds that $AB^2 + AC^2 = 500$. Calculate the distance $BC$ in cm.
 
+
 **Topic:** [[topic_geometria_piana|Plane geometry]]
-**Metodo:** [[method_coordinate|Coordinate method]]
+**Metodo:** [[method_coordinate|Coordinate method]], [[method_simmetria|Using symmetry]]
 **Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_modellizzazione|Modelling / translating the text]]
 **Area:** [[Geometria|Geometry]]
 
-[[Quesiti/src_bocconi_finalenaz_2011#q15|src_bocconi_finalenaz_2011__Q15]]
 
 
-
-<span class="atom-split" id="q16" data-atom="q16" data-title="Quesito 16" data-tags="topic_aritmetica,topic_logica,method_casework,method_ricorsione,skill_lettura_attenta,skill_manipolazione_algebrica,skill_ragionamento_geometrico"></span>
+<span class="atom-split" id="q16" data-atom="q16" data-title="Quesito 16" data-tags="topic_aritmetica,topic_logica,topic_funzionali,method_casework,method_ricorsione,skill_lettura_attenta,skill_manipolazione_algebrica,skill_ragionamento_geometrico,skill_riconoscimento_pattern"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -554,10 +529,10 @@ level: Finale Nazionale Campionati Internazionali di Giochi Matematici
 > 
 > Qual è l'età del professor Renato?
 
-**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_logica|Logica]]
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_logica|Logica]], [[topic_funzionali|Equazioni funzionali / successioni]]
 **Metodo:** [[method_casework|Casework]], [[method_ricorsione|Ricorsione]]
-**Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
-**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+**Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]], [[Algebra e Analisi]]
 **Risposta:** Il prof. Renato ha 88 anni
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1851f3rdxXY9DB9nNCcrWBZrtg5a-N23A/view)
 
@@ -573,16 +548,15 @@ level: Finale Nazionale Campionati Internazionali di Giochi Matematici
 >
 > What is Professor Renato's age?
 
-**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_logica|Logic, games, strategies]]
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_logica|Logic, games, strategies]], [[topic_funzionali|Functional equations / sequences]]
 **Metodo:** [[method_casework|Case analysis]], [[method_ricorsione|Recursion]]
-**Abilita:** [[skill_lettura_attenta|Careful reading of the text]], [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_ragionamento_geometrico|Geometric reasoning]]
-**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
-
-[[Quesiti/src_bocconi_finalenaz_2011#q16|src_bocconi_finalenaz_2011__Q16]]
+**Abilita:** [[skill_lettura_attenta|Careful reading of the text]], [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Algebra e Analisi|Algebra and analysis]]
 
 
 
-<span class="atom-split" id="q17" data-atom="q17" data-title="Quesito 17" data-tags="topic_geometria_piana,method_coordinate,method_trigonometria,skill_ragionamento_geometrico,skill_modellizzazione,skill_manipolazione_algebrica"></span>
+<span class="atom-split" id="q17" data-atom="q17" data-title="Quesito 17" data-tags="topic_geometria_piana,topic_trigonometria,method_coordinate,method_trigonometria,skill_ragionamento_geometrico,skill_modellizzazione,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -591,9 +565,9 @@ level: Finale Nazionale Campionati Internazionali di Giochi Matematici
 
 > Desiderio possiede un'isola perfettamente rotonda sulla quale ha collocato quattro barriere perfettamente rettilinee. L'obiettivo di queste barriere è di coprire il bordo dell'isola. Nella figura c'è anche uno stagno, anch'esso perfettamente rotondo, tangente alle quattro barriere. La situazione è illustrata dalla figura che però non rispetta le dimensioni; sono comunque indicate le lunghezze di due barriere (33 m e 77 m) con l'ampiezza dell'angolo da loro formato ($135^\circ$). Qual è la lunghezza della barriera $AB$?
 
-![[src_bocconi_finalenaz_2011__q17.png]]
+![[src_bocconi_finalenaz_2011__Q17.png]]
 
-**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometria]]
 **Metodo:** [[method_coordinate|Coordinate]], [[method_trigonometria|Trigonometria]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
@@ -608,11 +582,10 @@ level: Finale Nazionale Campionati Internazionali di Giochi Matematici
 
 > Desiderio owns a perfectly round island on which he has placed four perfectly straight barriers. The purpose of these barriers is to cover the edge of the island. In the figure, there is also a pond, also perfectly round, tangent to the four barriers. The situation is illustrated in the figure, which, however, does not reflect the actual dimensions; nevertheless, the lengths of two barriers (33 m and 77 m) and the measure of the angle they form ($135^\circ$) are indicated. What is the length of barrier $AB$?
 
-![[src_bocconi_finalenaz_2011__q17.png]]
+![[src_bocconi_finalenaz_2011__Q17.png]]
 
-**Topic:** [[topic_geometria_piana|Plane geometry]]
+
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_trigonometria|Trigonometry]]
 **Metodo:** [[method_coordinate|Coordinate method]], [[method_trigonometria|Trigonometric techniques]]
 **Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_modellizzazione|Modelling / translating the text]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
 **Area:** [[Geometria|Geometry]]
-
-[[Quesiti/src_bocconi_finalenaz_2011#q17|src_bocconi_finalenaz_2011__Q17]]

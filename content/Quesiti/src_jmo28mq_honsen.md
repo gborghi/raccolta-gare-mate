@@ -36,7 +36,7 @@ level: JMO Honsen
 **Argomento:** [[topic_aritmetica|Aritmetica / Teoria dei numeri]]
 **Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]], [[method_invarianti|Invarianti / monovarianti]], [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
 **Abilità:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di schemi]]
-[[Quesiti/src_jmo28mq_honsen#q01|src_jmo28mq_honsen__Q01]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
 
 
 
@@ -66,11 +66,11 @@ level: JMO Honsen
 **Argomento:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_simmetria|Sfruttamento della simmetria]]
 **Abilità:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
-[[Quesiti/src_jmo28mq_honsen#q02|src_jmo28mq_honsen__Q02]]
+**Area:** [[Geometria]]
 
 
 
-<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_insiemi_funzioni,topic_aritmetica,method_ricorsione,method_congruenze,skill_astrazione,skill_riconoscimento_pattern"></span>
+<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_insiemi_funzioni,topic_aritmetica,topic_funzionali,method_ricorsione,method_congruenze,skill_astrazione,skill_riconoscimento_pattern"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -81,10 +81,10 @@ level: JMO Honsen
 > $$f^{\,n + f(n) + 1}(n) = f^{\,n f(n)}(n) = n$$
 > holds. Show that there exists an element $a \in S$ with $f(a) = a$. (Here $f^{k}(n)$ denotes $\underbrace{f(f(\cdots f(n)\cdots))}_{k}$, the $k$-fold composition of $f$.)
 
-**Topic:** [[topic_insiemi_funzioni|Insiemi e funzioni]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Topic:** [[topic_insiemi_funzioni|Insiemi e funzioni]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_funzionali|Functional equations / sequences]]
 **Metodo:** [[method_ricorsione|Ricorsione]], [[method_congruenze|Congruenze]]
 **Abilita:** [[skill_astrazione|Astrazione]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
-**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1FbU0XqFYeQTbhZOAOggiqJ27nJzT3Ibf/view)
 
 
@@ -100,9 +100,11 @@ level: JMO Honsen
 > valga. Dimostrare che esiste un elemento $a \in S$ con $f(a) = a$. (Qui $f^{k}(n)$ indica $\underbrace{f(f(\cdots f(n)\cdots))}_{k}$, la composizione $k$ volte di $f$.)
 
 **Argomento:** [[topic_insiemi_funzioni|Insiemi e funzioni]], [[topic_aritmetica|Aritmetica / Teoria dei numeri]]
+
+**Topic:** [[topic_insiemi_funzioni|Insiemi e funzioni]], [[topic_aritmetica|Aritmetica / Teoria dei numeri]], [[topic_funzionali|Equazioni funzionali / successioni]]
 **Metodo:** [[method_ricorsione|Ricorsione]], [[method_congruenze|Aritmetica modulare / congruenze]]
-**Abilità:** [[skill_astrazione|Astrazione / generalizzazione]], [[skill_riconoscimento_pattern|Riconoscimento di schemi]]
-[[Quesiti/src_jmo28mq_honsen#q03|src_jmo28mq_honsen__Q03]]
+**Abilita:** [[skill_astrazione|Astrazione / generalizzazione]], [[skill_riconoscimento_pattern|Riconoscimento di schemi]]
+**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 
 
 
@@ -142,11 +144,11 @@ level: JMO Honsen
 **Argomento:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_colorazione|Colorazione / parità]], [[method_invarianti|Invarianti / monovarianti]], [[method_casework|Analisi per casi]]
 **Abilità:** [[skill_casework_accurato|Analisi per casi accurata]], [[skill_conteggio_sistematico|Conteggio sistematico]]
-[[Quesiti/src_jmo28mq_honsen#q04|src_jmo28mq_honsen__Q04]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
 
 
 
-<span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_combinatoria,topic_aritmetica,method_doppio_conteggio,method_estremalita,skill_astrazione,skill_conteggio_sistematico,skill_modellizzazione"></span>
+<span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_combinatoria,topic_aritmetica,topic_funzionali,method_doppio_conteggio,method_estremalita,skill_astrazione,skill_conteggio_sistematico,skill_modellizzazione"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -159,10 +161,10 @@ level: JMO Honsen
 > \item For each $t = 0, 1, \ldots, T$ and every ordered pair $(k, l)$ of positive integers, $f(k + t,\, l + T - t) - f(k, l) = C_t$.
 > \end{itemize}
 
-**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_funzionali|Functional equations / sequences]]
 **Metodo:** [[method_doppio_conteggio|Doppio conteggio]], [[method_estremalita|Estremalità]]
 **Abilita:** [[skill_astrazione|Astrazione]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione]]
-**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Algebra e Analisi|Algebra and analysis]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1FbU0XqFYeQTbhZOAOggiqJ27nJzT3Ibf/view)
 
 
@@ -178,6 +180,8 @@ level: JMO Honsen
 > \end{itemize}
 
 **Argomento:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei numeri]]
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei numeri]], [[topic_funzionali|Equazioni funzionali / successioni]]
 **Metodo:** [[method_doppio_conteggio|Doppio conteggio]], [[method_estremalita|Principio di estremalità]]
-**Abilità:** [[skill_astrazione|Astrazione / generalizzazione]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
-[[Quesiti/src_jmo28mq_honsen#q05|src_jmo28mq_honsen__Q05]]
+**Abilita:** [[skill_astrazione|Astrazione / generalizzazione]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]

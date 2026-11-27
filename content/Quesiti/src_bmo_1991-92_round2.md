@@ -10,7 +10,7 @@ level: BMO Round 2
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_aritmetica,method_fattorizzazione,skill_manipolazione_algebrica"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_aritmetica,method_fattorizzazione,method_casework,skill_manipolazione_algebrica,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -20,9 +20,9 @@ level: BMO Round 2
 > Let $p$ be an odd prime number. Prove that there are unique positive integers $x, y$ such that $x^2 = y(y+p)$, and give the formulae for $x$ and $y$ in terms of $p$.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_fattorizzazione|Fattorizzazione]]
-**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
-**Area:** [[Aritmetica e Teoria dei Numeri]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_casework|Case analysis]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1WQUmzhzILjWwym4_9QHJMWN1-c9lfbmQ/view)
 
 
@@ -33,16 +33,15 @@ level: BMO Round 2
 
 > Sia $p$ un numero primo dispari. Dimostrare che esistono unici interi positivi $x, y$ tali che $x^2 = y(y+p)$, e dare le formule per $x$ e $y$ in funzione di $p$.
 
+
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_fattorizzazione|Fattorizzazione]]
-**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Aritmetica e teoria dei numeri]]
 
-[[Quesiti/src_bmo_1991-92_round2#q01|src_bmo_1991-92_round2__Q01]]
 
 
-
-<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_disuguaglianze,method_disuguaglianze,skill_manipolazione_algebrica,skill_stima"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_disuguaglianze,method_disuguaglianze,method_simmetria,skill_manipolazione_algebrica,skill_stima"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -53,9 +52,9 @@ level: BMO Round 2
 > $$\frac{12}{a+b+c+d} \le \frac{1}{a+b} + \frac{1}{a+c} + \frac{1}{a+d} + \frac{1}{b+c} + \frac{1}{b+d} + \frac{1}{c+d} \le \frac{3}{4}\left(\frac{1}{a} + \frac{1}{b} + \frac{1}{c} + \frac{1}{d}\right).$$
 
 **Topic:** [[topic_disuguaglianze|Disuguaglianze]]
-**Metodo:** [[method_disuguaglianze|Disuguaglianze]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze]], [[method_simmetria|Using symmetry]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]]
-**Area:** [[Algebra e Analisi]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1WQUmzhzILjWwym4_9QHJMWN1-c9lfbmQ/view)
 
 
@@ -67,12 +66,11 @@ level: BMO Round 2
 > Siano $a, b, c, d$ numeri reali positivi. Dimostrare che
 > $$\frac{12}{a+b+c+d} \le \frac{1}{a+b} + \frac{1}{a+c} + \frac{1}{a+d} + \frac{1}{b+c} + \frac{1}{b+d} + \frac{1}{c+d} \le \frac{3}{4}\left(\frac{1}{a} + \frac{1}{b} + \frac{1}{c} + \frac{1}{d}\right).$$
 
+
 **Topic:** [[topic_disuguaglianze|Disuguaglianze]]
-**Metodo:** [[method_disuguaglianze|Disuguaglianze]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze]], [[method_simmetria|Sfruttamento della simmetria]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]]
 **Area:** [[Algebra e Analisi|Algebra e analisi]]
-
-[[Quesiti/src_bmo_1991-92_round2#q02|src_bmo_1991-92_round2__Q02]]
 
 
 
@@ -108,11 +106,9 @@ level: BMO Round 2
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria|Geometria]]
 
-[[Quesiti/src_bmo_1991-92_round2#q03|src_bmo_1991-92_round2__Q03]]
 
 
-
-<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_combinatoria,method_invarianti,method_grafi,method_casework,skill_modellizzazione,skill_astrazione,skill_lettura_attenta"></span>
+<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_combinatoria,method_invarianti,method_grafi,method_casework,method_colorazione,skill_modellizzazione,skill_astrazione,skill_lettura_attenta"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -136,9 +132,9 @@ level: BMO Round 2
 > and that all of these friendships must be destroyed to isolate that group. Prove that $F_d, F_t, F_s$ would have to be either all even or all odd.
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
-**Metodo:** [[method_invarianti|Invarianti]], [[method_grafi|Grafi]], [[method_casework|Casework]]
+**Metodo:** [[method_invarianti|Invarianti]], [[method_grafi|Grafi]], [[method_casework|Casework]], [[method_colorazione|Colouring / parity]]
 **Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_astrazione|Astrazione]], [[skill_lettura_attenta|Lettura attenta]]
-**Area:** [[Combinatoria, Logica e Probabilita]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1WQUmzhzILjWwym4_9QHJMWN1-c9lfbmQ/view)
 
 
@@ -163,9 +159,8 @@ level: BMO Round 2
 > $$F_d \text{ doorstep friendships}, \quad F_t \text{ tea friendships}, \quad F_s \text{ supper friendships},$$
 > e che tutte queste amicizie debbano essere distrutte per isolare quel gruppo. Dimostrare che $F_d, F_t, F_s$ dovrebbero essere o tutti pari o tutti dispari.
 
+
 **Topic:** [[topic_combinatoria|Combinatoria]]
-**Metodo:** [[method_invarianti|Invarianti]], [[method_grafi|Grafi]], [[method_casework|Analisi per casi]]
+**Metodo:** [[method_invarianti|Invarianti]], [[method_grafi|Grafi]], [[method_casework|Analisi per casi]], [[method_colorazione|Colorazione / parita]]
 **Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_astrazione|Astrazione]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Combinatoria, Logica e Probabilita|Combinatoria, logica e probabilità]]
-
-[[Quesiti/src_bmo_1991-92_round2#q04|src_bmo_1991-92_round2__Q04]]

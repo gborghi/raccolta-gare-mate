@@ -10,21 +10,21 @@ level: kangourou
 
 
 
-<span class="atom-split" id="qc1" data-atom="qc1" data-title="Quesito C1" data-tags="topic_combinatoria,topic_logica,method_casework,skill_casework_accurato"></span>
+<span class="atom-split" id="qc1" data-atom="qc1" data-title="Quesito C1" data-tags="topic_combinatoria,topic_logica,topic_aritmetica,method_casework,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
 
 *Disposizione 1-9 con somme ai vertici 20*
 
-![[src_kangourou_2003_cadet_finale__probc1.png]]
+![[src_kangourou_2003_cadet_finale__probC1.png]]
 
 > La figura rappresenta un quadrato ottenuto accostando 9 quadrati più piccoli. Devi inserire tutti i numeri da $1$ a $9$, uno per ogni quadrato, in modo che la somma dei quattro numeri che circondano ciascuno dei vertici interni, segnati con un pallino nero, valga $20$. I numeri $3$ e $5$ sono già stati posizionati: inserisci i rimanenti. (vedi figura)
 
-**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_logica|Logica, giochi, strategie]]
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_logica|Logica, giochi, strategie]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_casework|Analisi per casi]]
 **Abilita:** [[skill_casework_accurato|Casework accurato]]
-**Area:** [[Combinatoria, Logica e Probabilita]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** disposizione
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/10KE9c6vQ4YhW-LfyJyirrjDRxujSek89/view)
 
@@ -34,19 +34,19 @@ level: kangourou
 
 *The remaining numbers in the square of nine squares*
 
-![[src_kangourou_2003_cadet_finale__probc1.png]]
+![[src_kangourou_2003_cadet_finale__probC1.png]]
 
 > The figure shows a square obtained by placing 9 smaller squares side by side. You must enter all the numbers from $1$ to $9$, one in each square, so that the sum of the four numbers surrounding each of the interior vertices, marked with a black dot, equals $20$. The numbers $3$ and $5$ have already been placed: enter the remaining ones. (see the figure)
 
-**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_logica|Logic, games, strategies]]
-**Method:** [[method_casework|Case analysis]]
-**Skill:** [[skill_casework_accurato|Careful case analysis]]
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_logica|Logic, games, strategies]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Answer:** disposizione
-[[Quesiti/src_kangourou_2003_cadet_finale#qc1|src_kangourou_2003_cadet_finale__QC1]]
 
 
 
-<span class="atom-split" id="qc2" data-atom="qc2" data-title="Quesito C2" data-tags="topic_combinatoria,method_cassetti,skill_casework_accurato"></span>
+<span class="atom-split" id="qc2" data-atom="qc2" data-title="Quesito C2" data-tags="topic_combinatoria,method_cassetti,skill_casework_accurato,skill_conteggio_sistematico"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -57,7 +57,7 @@ level: kangourou
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_cassetti|Principio dei cassetti]]
-**Abilita:** [[skill_casework_accurato|Casework accurato]]
+**Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 75
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/10KE9c6vQ4YhW-LfyJyirrjDRxujSek89/view)
@@ -71,14 +71,14 @@ level: kangourou
 > A box contains $100$ coloured balls. Of these, $28$ are red, $20$ green, $12$ yellow, $20$ blue, $10$ white and $10$ black. What is the smallest number of balls one must draw in order to be sure in advance of having at least $15$ of the same colour?
 
 **Topic:** [[topic_combinatoria|Combinatorics]]
-**Method:** [[method_cassetti|Pigeonhole principle]]
-**Skill:** [[skill_casework_accurato|Careful case analysis]]
+**Metodo:** [[method_cassetti|Pigeonhole principle]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]], [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** 75
-[[Quesiti/src_kangourou_2003_cadet_finale#qc2|src_kangourou_2003_cadet_finale__QC2]]
 
 
 
-<span class="atom-split" id="qc3" data-atom="qc3" data-title="Quesito C3" data-tags="topic_funzionali,skill_manipolazione_algebrica"></span>
+<span class="atom-split" id="qc3" data-atom="qc3" data-title="Quesito C3" data-tags="topic_funzionali,topic_algebra,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -87,7 +87,7 @@ level: kangourou
 
 > Un magico rettangolo di cuoio di Mirabilandia si riduce della metà in lunghezza e di un terzo in altezza ogni volta che esaudisce un desiderio del suo proprietario. Si sa che inizialmente l'altezza misurava $27$ centimetri e che, esauditi $3$ desideri, il rettangolo è diventato un quadrato. Quanto misurava inizialmente la lunghezza?
 
-**Topic:** [[topic_funzionali|Equazioni funzionali / successioni]]
+**Topic:** [[topic_funzionali|Equazioni funzionali / successioni]], [[topic_algebra|Algebra]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Algebra e Analisi]]
 **Risposta:** 64
@@ -101,21 +101,21 @@ level: kangourou
 
 > A magic leather rectangle from Mirabilandia shrinks by half in length and by a third in height every time it grants a wish of its owner. It is known that initially the height measured $27$ centimetres and that, after $3$ wishes had been granted, the rectangle became a square. What did the length measure initially?
 
-**Topic:** [[topic_funzionali|Functional equations / sequences]]
-**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Topic:** [[topic_funzionali|Functional equations / sequences]], [[topic_algebra|Algebra]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
 **Answer:** 64
-[[Quesiti/src_kangourou_2003_cadet_finale#qc3|src_kangourou_2003_cadet_finale__QC3]]
 
 
 
-<span class="atom-split" id="qc4" data-atom="qc4" data-title="Quesito C4" data-tags="topic_geometria_piana,method_simmetria,skill_ragionamento_geometrico"></span>
+<span class="atom-split" id="qc4" data-atom="qc4" data-title="Quesito C4" data-tags="topic_geometria_piana,method_simmetria,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
 
 *Somma lunghezze dei 7 segmenti paralleli*
 
-![[src_kangourou_2003_cadet_finale__probc4.png]]
+![[src_kangourou_2003_cadet_finale__probC4.png]]
 
 ```tikz
 \begin{document}
@@ -140,7 +140,7 @@ level: kangourou
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_simmetria|Sfruttamento della simmetria]]
-**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 **Risposta:** 35
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/10KE9c6vQ4YhW-LfyJyirrjDRxujSek89/view)
@@ -151,7 +151,7 @@ level: kangourou
 
 *The sum of the lengths of the seven segments*
 
-![[src_kangourou_2003_cadet_finale__probc4.png]]
+![[src_kangourou_2003_cadet_finale__probC4.png]]
 
 ```tikz
 \begin{document}
@@ -175,14 +175,14 @@ level: kangourou
 > The hypotenuse $AC$ of a right-angled triangle is divided into $8$ segments equal to one another by means of $7$ segments parallel to the leg $BC$, each having one endpoint on the leg $AB$ and the other on the hypotenuse. The leg $BC$ is $10$ metres long. What is the sum of the lengths of these $7$ segments?
 
 **Topic:** [[topic_geometria_piana|Plane geometry]]
-**Method:** [[method_simmetria|Using symmetry]]
-**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Metodo:** [[method_simmetria|Using symmetry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Geometria|Geometry]]
 **Answer:** 35
-[[Quesiti/src_kangourou_2003_cadet_finale#qc4|src_kangourou_2003_cadet_finale__QC4]]
 
 
 
-<span class="atom-split" id="qc5" data-atom="qc5" data-title="Quesito C5" data-tags="topic_aritmetica,topic_geometria_piana,skill_manipolazione_algebrica"></span>
+<span class="atom-split" id="qc5" data-atom="qc5" data-title="Quesito C5" data-tags="topic_aritmetica,topic_geometria_piana,topic_algebra,skill_manipolazione_algebrica,skill_modellizzazione"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -191,9 +191,9 @@ level: kangourou
 
 > La lancetta delle ore di un orologio compie un giro completo in $12$ ore mentre quella dei minuti compie un giro completo in un'ora. Entrambe le lancette ruotano con continuità. Vi sono alcuni istanti in cui le due lancette sono sovrapposte. Quanto tempo intercorre tra uno di questi istanti ed il successivo?
 
-**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_geometria_piana|Geometria piana]]
-**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
-**Area:** [[Aritmetica e Teoria dei Numeri]], [[Geometria]]
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_geometria_piana|Geometria piana]], [[topic_algebra|Algebra]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Geometria]], [[Algebra e Analisi]]
 **Risposta:** 1h5'27"3/11
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/10KE9c6vQ4YhW-LfyJyirrjDRxujSek89/view)
 
@@ -205,14 +205,14 @@ level: kangourou
 
 > The hour hand of a clock completes a full turn in $12$ hours, while the minute hand completes a full turn in one hour. Both hands turn continuously. There are some instants at which the two hands coincide. How much time passes between one of these instants and the next?
 
-**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_geometria_piana|Plane geometry]]
-**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_geometria_piana|Plane geometry]], [[topic_algebra|Algebra]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Geometria|Geometry]], [[Algebra e Analisi|Algebra and analysis]]
 **Answer:** 1h5'27"3/11
-[[Quesiti/src_kangourou_2003_cadet_finale#qc5|src_kangourou_2003_cadet_finale__QC5]]
 
 
 
-<span class="atom-split" id="qc6" data-atom="qc6" data-title="Quesito C6" data-tags="topic_aritmetica,method_conteggio,skill_conteggio_sistematico"></span>
+<span class="atom-split" id="qc6" data-atom="qc6" data-title="Quesito C6" data-tags="topic_aritmetica,method_conteggio,skill_conteggio_sistematico,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -223,7 +223,7 @@ level: kangourou
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_conteggio|Conteggio combinatorio]]
-**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 4493
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/10KE9c6vQ4YhW-LfyJyirrjDRxujSek89/view)
@@ -237,7 +237,7 @@ level: kangourou
 > How many positive integers of $7$ digits are divisible by $2003$?
 
 **Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
-**Method:** [[method_conteggio|Combinatorial counting]]
-**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Answer:** 4493
-[[Quesiti/src_kangourou_2003_cadet_finale#qc6|src_kangourou_2003_cadet_finale__QC6]]

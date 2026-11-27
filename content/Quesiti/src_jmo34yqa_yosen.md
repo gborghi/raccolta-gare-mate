@@ -40,8 +40,8 @@ level: JMO Yosen
 **Argomento:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei numeri]]
 **Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
 **Abilità:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta del testo]]
+**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** $\frac{122}{11}$
-[[Quesiti/src_jmo34yqa_yosen#q01|src_jmo34yqa_yosen__Q01]]
 
 
 
@@ -72,8 +72,8 @@ level: JMO Yosen
 **Argomento:** [[topic_aritmetica|Aritmetica / Teoria dei numeri]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_casework|Analisi per casi]], [[method_casi_conteggio|Conteggio per casi]]
 **Abilità:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta del testo]], [[skill_casework_accurato|Analisi per casi accurata]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 309, 311
-[[Quesiti/src_jmo34yqa_yosen#q02|src_jmo34yqa_yosen__Q02]]
 
 
 
@@ -86,7 +86,7 @@ level: JMO Yosen
 
 > Let $ABC$ be an equilateral triangle with side length $10$. A circle passing through $A$ is tangent to side $BC$ (excluding endpoints) at point $X$, and meets sides $AB$ and $AC$ again at points $D$ and $E$ (other than $A$) respectively. Given that $BX > CX$ and $AD + AE = 13$, find the length $BX$. (Here $PQ$ denotes the length of segment $PQ$.)
 
-![[src_jmo34yqa_yosen__q03.png]]
+![[src_jmo34yqa_yosen__Q03.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_trigonometria|Trigonometria]], [[method_coordinate|Coordinate]]
@@ -103,17 +103,17 @@ level: JMO Yosen
 
 > Sia $ABC$ un triangolo equilatero di lato $10$. Una circonferenza passante per $A$ è tangente al lato $BC$ (estremi esclusi) nel punto $X$, e incontra di nuovo i lati $AB$ e $AC$ rispettivamente nei punti $D$ e $E$ (diversi da $A$). Sapendo che $BX > CX$ e $AD + AE = 13$, trovare la lunghezza $BX$. (Qui $PQ$ indica la lunghezza del segmento $PQ$.)
 
-![[src_jmo34yqa_yosen__q03.png]]
+![[src_jmo34yqa_yosen__Q03.png]]
 
 **Argomento:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_trigonometria|Tecniche trigonometriche]], [[method_coordinate|Metodo delle coordinate]]
 **Abilità:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
 **Risposta:** $5 + \sqrt{10}$
-[[Quesiti/src_jmo34yqa_yosen#q03|src_jmo34yqa_yosen__Q03]]
 
 
 
-<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_combinatoria,method_invarianti,method_estremalita,method_induzione,skill_ragionamento_geometrico,skill_astrazione,skill_conteggio_sistematico"></span>
+<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_combinatoria,topic_aritmetica,method_invarianti,method_estremalita,method_induzione,method_ricorsione,skill_ragionamento_geometrico,skill_astrazione,skill_conteggio_sistematico,skill_riconoscimento_pattern"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -126,10 +126,10 @@ level: JMO Yosen
 > 
 > Find the minimum value of $n$ such that, regardless of the initial arrangement, the single remaining stone is always black.
 
-**Topic:** [[topic_combinatoria|Combinatoria]]
-**Metodo:** [[method_invarianti|Invarianti]], [[method_estremalita|Estremalità]], [[method_induzione|Induzione]]
-**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_astrazione|Astrazione]], [[skill_conteggio_sistematico|Conteggio sistematico]]
-**Area:** [[Combinatoria, Logica e Probabilita]]
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_invarianti|Invarianti]], [[method_estremalita|Estremalità]], [[method_induzione|Induzione]], [[method_ricorsione|Recursion]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_astrazione|Astrazione]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Risposta:** 2883
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1BLiurO6ycVxBaRhIQ4VIeU3sYe6dethe/view)
 
@@ -146,14 +146,16 @@ level: JMO Yosen
 > Trovare il minimo valore di $n$ tale che, qualunque sia la disposizione iniziale, l'unica pietra rimasta sia sempre nera.
 
 **Argomento:** [[topic_combinatoria|Combinatoria]]
-**Metodo:** [[method_invarianti|Invarianti / monovarianti]], [[method_estremalita|Principio di estremalità]], [[method_induzione|Induzione]]
-**Abilità:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_astrazione|Astrazione / generalizzazione]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_invarianti|Invarianti / monovarianti]], [[method_estremalita|Principio di estremalità]], [[method_induzione|Induzione]], [[method_ricorsione|Ricorsione]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_astrazione|Astrazione / generalizzazione]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 2883
-[[Quesiti/src_jmo34yqa_yosen#q04|src_jmo34yqa_yosen__Q04]]
 
 
 
-<span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_aritmetica,topic_combinatoria,method_casework,method_estremalita,skill_manipolazione_algebrica,skill_conteggio_sistematico,skill_lettura_attenta"></span>
+<span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_aritmetica,topic_combinatoria,method_casework,method_estremalita,skill_manipolazione_algebrica,skill_conteggio_sistematico,skill_lettura_attenta,skill_stima"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -166,8 +168,8 @@ level: JMO Yosen
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_casework|Casework]], [[method_estremalita|Estremalità]]
-**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]]
-**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_stima|Estimation and approximation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Risposta:** 2519
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1BLiurO6ycVxBaRhIQ4VIeU3sYe6dethe/view)
 
@@ -184,10 +186,12 @@ level: JMO Yosen
 > Qui $[r]$ indica il massimo intero che non supera il numero reale $r$ (cioè $[3.14] = 3$, $[5] = 5$).
 
 **Argomento:** [[topic_aritmetica|Aritmetica / Teoria dei numeri]], [[topic_combinatoria|Combinatoria]]
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei numeri]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_casework|Analisi per casi]], [[method_estremalita|Principio di estremalità]]
-**Abilità:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta del testo]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta del testo]], [[skill_stima|Stima e approssimazione]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 2519
-[[Quesiti/src_jmo34yqa_yosen#q05|src_jmo34yqa_yosen__Q05]]
 
 
 
@@ -218,8 +222,8 @@ level: JMO Yosen
 **Argomento:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_trigonometria|Tecniche trigonometriche]], [[method_coordinate|Metodo delle coordinate]]
 **Abilità:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
 **Risposta:** $\frac{14\sqrt{65}}{13}$
-[[Quesiti/src_jmo34yqa_yosen#q06|src_jmo34yqa_yosen__Q06]]
 
 
 
@@ -250,12 +254,12 @@ level: JMO Yosen
 **Argomento:** [[topic_aritmetica|Aritmetica / Teoria dei numeri]], [[topic_algebra|Algebra]]
 **Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]], [[method_congruenze|Aritmetica modulare / congruenze]], [[method_casework|Analisi per casi]]
 **Abilità:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di schemi]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 **Risposta:** 16
-[[Quesiti/src_jmo34yqa_yosen#q07|src_jmo34yqa_yosen__Q07]]
 
 
 
-<span class="atom-split" id="q08" data-atom="q08" data-title="Quesito 8" data-tags="topic_funzionali,topic_algebra,method_casework,method_induzione,method_invarianti,skill_manipolazione_algebrica,skill_astrazione,skill_casework_accurato"></span>
+<span class="atom-split" id="q08" data-atom="q08" data-title="Quesito 8" data-tags="topic_funzionali,topic_algebra,method_casework,method_induzione,method_invarianti,skill_manipolazione_algebrica,skill_astrazione,skill_casework_accurato,skill_riconoscimento_pattern"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -268,8 +272,8 @@ level: JMO Yosen
 
 **Topic:** [[topic_funzionali|Equazioni funzionali]], [[topic_algebra|Algebra]]
 **Metodo:** [[method_casework|Casework]], [[method_induzione|Induzione]], [[method_invarianti|Invarianti]]
-**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]], [[skill_casework_accurato|Casework accurato]]
-**Area:** [[Algebra e Analisi]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]], [[skill_casework_accurato|Casework accurato]], [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
 **Risposta:** $2^{990} + 1$
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1BLiurO6ycVxBaRhIQ4VIeU3sYe6dethe/view)
 
@@ -286,10 +290,12 @@ level: JMO Yosen
 > Quante tuple $(f(0), f(1), \ldots, f(2024))$ sono possibili?
 
 **Argomento:** [[topic_funzionali|Equazioni funzionali / successioni]], [[topic_algebra|Algebra]]
+
+**Topic:** [[topic_funzionali|Equazioni funzionali / successioni]], [[topic_algebra|Algebra]]
 **Metodo:** [[method_casework|Analisi per casi]], [[method_induzione|Induzione]], [[method_invarianti|Invarianti / monovarianti]]
-**Abilità:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione / generalizzazione]], [[skill_casework_accurato|Analisi per casi accurata]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione / generalizzazione]], [[skill_casework_accurato|Analisi per casi accurata]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Algebra e Analisi]]
 **Risposta:** $2^{990} + 1$
-[[Quesiti/src_jmo34yqa_yosen#q08|src_jmo34yqa_yosen__Q08]]
 
 
 
@@ -320,8 +326,8 @@ level: JMO Yosen
 **Argomento:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_trigonometria|Tecniche trigonometriche]], [[method_simmetria|Sfruttamento della simmetria]]
 **Abilità:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
 **Risposta:** $\frac{17}{3}$
-[[Quesiti/src_jmo34yqa_yosen#q09|src_jmo34yqa_yosen__Q09]]
 
 
 
@@ -370,12 +376,12 @@ level: JMO Yosen
 **Argomento:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_casework|Analisi per casi]], [[method_conteggio|Conteggio combinatorio]], [[method_doppio_conteggio|Doppio conteggio]]
 **Abilità:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Analisi per casi accurata]], [[skill_astrazione|Astrazione / generalizzazione]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** $\binom{198}{100} \cdot 3 \cdot 2^{100}$
-[[Quesiti/src_jmo34yqa_yosen#q10|src_jmo34yqa_yosen__Q10]]
 
 
 
-<span class="atom-split" id="q11" data-atom="q11" data-title="Quesito 11" data-tags="topic_disuguaglianze,topic_funzionali,method_estremalita,method_casework,skill_manipolazione_algebrica,skill_stima,skill_ragionamento_geometrico"></span>
+<span class="atom-split" id="q11" data-atom="q11" data-title="Quesito 11" data-tags="topic_disuguaglianze,topic_funzionali,method_estremalita,method_casework,method_disuguaglianze,skill_manipolazione_algebrica,skill_stima,skill_ragionamento_geometrico"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -385,9 +391,9 @@ level: JMO Yosen
 > A function $f$ defined on the positive integers takes positive integer values, satisfies $f(34) = 2024$, and has the property that for any positive integers $a, b, c$, a triangle with side lengths $a + f(b)$, $b + f(c)$, $c + f(a)$ exists (where three collinear points do not form a triangle). Find the minimum possible value of $f(100) + f(101) + \cdots + f(199)$.
 
 **Topic:** [[topic_disuguaglianze|Disuguaglianze]], [[topic_funzionali|Equazioni funzionali]]
-**Metodo:** [[method_estremalita|Estremalità]], [[method_casework|Casework]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_casework|Casework]], [[method_disuguaglianze|Classical inequalities]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
-**Area:** [[Algebra e Analisi]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
 **Risposta:** 102050
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1BLiurO6ycVxBaRhIQ4VIeU3sYe6dethe/view)
 
@@ -400,10 +406,12 @@ level: JMO Yosen
 > Una funzione $f$ definita sugli interi positivi assume valori interi positivi, soddisfa $f(34) = 2024$, e ha la proprietà che per qualunque interi positivi $a, b, c$ esiste un triangolo di lati $a + f(b)$, $b + f(c)$, $c + f(a)$ (tre punti allineati non formano un triangolo). Trovare il minimo valore possibile di $f(100) + f(101) + \cdots + f(199)$.
 
 **Argomento:** [[topic_disuguaglianze|Disuguaglianze]], [[topic_funzionali|Equazioni funzionali / successioni]]
-**Metodo:** [[method_estremalita|Principio di estremalità]], [[method_casework|Analisi per casi]]
-**Abilità:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima e approssimazione]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+
+**Topic:** [[topic_disuguaglianze|Disuguaglianze]], [[topic_funzionali|Equazioni funzionali / successioni]]
+**Metodo:** [[method_estremalita|Principio di estremalità]], [[method_casework|Analisi per casi]], [[method_disuguaglianze|Disuguaglianze classiche]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima e approssimazione]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Algebra e Analisi]]
 **Risposta:** 102050
-[[Quesiti/src_jmo34yqa_yosen#q11|src_jmo34yqa_yosen__Q11]]
 
 
 
@@ -440,5 +448,5 @@ level: JMO Yosen
 **Argomento:** [[topic_aritmetica|Aritmetica / Teoria dei numeri]], [[topic_algebra|Algebra]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]], [[method_doppio_conteggio|Doppio conteggio]], [[method_bigezione|Bigezione / corrispondenza]]
 **Abilità:** [[skill_astrazione|Astrazione / generalizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** $\frac{2100^{210}}{2^{164} \cdot 3^{30}}$
-[[Quesiti/src_jmo34yqa_yosen#q12|src_jmo34yqa_yosen__Q12]]

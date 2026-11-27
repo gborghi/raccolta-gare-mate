@@ -10,7 +10,7 @@ level: Olimpiade Polacca Round 3
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_geometria_piana,method_estremalita,skill_ragionamento_geometrico"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_geometria_piana,method_estremalita,method_simmetria,skill_ragionamento_geometrico"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -20,9 +20,9 @@ level: Olimpiade Polacca Round 3
 > A ray of light reflects from the rays of a given angle. A ray that enters the vertex of the angle is absorbed. Prove that there is a natural number $n$ such that any ray can reflect at most $n$ times.
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
-**Metodo:** [[method_estremalita|Estremalità]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_simmetria|Using symmetry]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
-**Area:** [[Geometria]]
+**Area:** [[Geometria|Geometry]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1AGtrG0C8tcQJU36uFC-bh5dGK0KglZ6h/view)
 
 
@@ -33,16 +33,15 @@ level: Olimpiade Polacca Round 3
 
 > Un raggio di luce si riflette a partire dai raggi di un angolo dato. Un raggio che entra nel vertice dell'angolo viene assorbito. Dimostrare che esiste un numero naturale $n$ tale che ogni raggio può riflettersi al massimo $n$ volte.
 
+
 **Topic:** [[topic_geometria_piana|Geometria piana]]
-**Metodo:** [[method_estremalita|Estremalità]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_simmetria|Sfruttamento della simmetria]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]]
 
-[[Quesiti/src_pol_1978_r3#q01|src_pol_1978_r3__Q01]]
 
 
-
-<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_combinatoria,topic_geometria_analitica,method_colorazione,method_bigezione,skill_conteggio_sistematico,skill_modellizzazione"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_combinatoria,topic_geometria_analitica,method_colorazione,method_bigezione,method_casework,method_congruenze,skill_conteggio_sistematico,skill_modellizzazione,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -54,9 +53,9 @@ level: Olimpiade Polacca Round 3
 > In other words, an infinite chessboard, whose cells with both coordinates divisible by 4 are cut out, cannot be tiled by dominoes.
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_geometria_analitica|Geometria analitica]]
-**Metodo:** [[method_colorazione|Colorazione]], [[method_bigezione|Biiezione]]
-**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione]]
-**Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
+**Metodo:** [[method_colorazione|Colorazione]], [[method_bigezione|Biiezione]], [[method_casework|Case analysis]], [[method_congruenze|Modular arithmetic / congruences]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione]], [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Geometria|Geometry]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1AGtrG0C8tcQJU36uFC-bh5dGK0KglZ6h/view)
 
 
@@ -69,12 +68,11 @@ level: Olimpiade Polacca Round 3
 >
 > In altre parole, una scacchiera infinita, in cui sono state rimosse le caselle le cui due coordinate sono entrambe divisibili per 4, non può essere coperta con i domino.
 
-**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_geometria_analitica|Geometria analitica]]
-**Metodo:** [[method_colorazione|Colorazione]], [[method_bigezione|Biiezione]]
-**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione]]
-**Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 
-[[Quesiti/src_pol_1978_r3#q02|src_pol_1978_r3__Q02]]
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_geometria_analitica|Geometria analitica]]
+**Metodo:** [[method_colorazione|Colorazione]], [[method_bigezione|Biiezione]], [[method_casework|Analisi per casi]], [[method_congruenze|Aritmetica modulare / congruenze]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 
 
 
@@ -110,8 +108,6 @@ level: Olimpiade Polacca Round 3
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]]
 **Area:** [[Algebra e Analisi]]
 
-[[Quesiti/src_pol_1978_r3#q03|src_pol_1978_r3__Q03]]
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_combinatoria,topic_insiemi_funzioni,method_doppio_conteggio,method_conteggio,skill_conteggio_sistematico,skill_riconoscimento_pattern"></span>
@@ -142,11 +138,9 @@ level: Olimpiade Polacca Round 3
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Algebra e Analisi]]
 
-[[Quesiti/src_pol_1978_r3#q04|src_pol_1978_r3__Q04]]
 
 
-
-<span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_algebra,method_trigonometria,method_ricorsione,skill_manipolazione_algebrica,skill_riconoscimento_pattern"></span>
+<span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_algebra,topic_trigonometria,topic_funzionali,method_trigonometria,method_ricorsione,skill_manipolazione_algebrica,skill_riconoscimento_pattern"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -157,10 +151,10 @@ level: Olimpiade Polacca Round 3
 > $$a_{n+1}=\begin{cases} \frac{1}{2}\left(a_n-\frac{1}{a_n}\right) & \text{if } a_n\ne 0, \\ 0 & \text{if } a_n=0. \end{cases}$$
 > Prove that the sequence $(a_n)$ contains infinitely many nonpositive terms.
 
-**Topic:** [[topic_algebra|Algebra]]
+**Topic:** [[topic_algebra|Algebra]], [[topic_trigonometria|Trigonometry]], [[topic_funzionali|Functional equations / sequences]]
 **Metodo:** [[method_trigonometria|Trigonometria]], [[method_ricorsione|Ricorsione]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
-**Area:** [[Algebra e Analisi]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Geometria|Geometry]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1AGtrG0C8tcQJU36uFC-bh5dGK0KglZ6h/view)
 
 
@@ -173,12 +167,11 @@ level: Olimpiade Polacca Round 3
 > $$a_{n+1}=\begin{cases} \frac{1}{2}\left(a_n-\frac{1}{a_n}\right) & \text{if } a_n\ne 0, \\ 0 & \text{if } a_n=0. \end{cases}$$
 > Dimostrare che la successione $(a_n)$ contiene infiniti termini non positivi.
 
-**Topic:** [[topic_algebra|Algebra]]
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_trigonometria|Trigonometria]], [[topic_funzionali|Equazioni funzionali / successioni]]
 **Metodo:** [[method_trigonometria|Trigonometria]], [[method_ricorsione|Ricorsione]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
-**Area:** [[Algebra e Analisi]]
-
-[[Quesiti/src_pol_1978_r3#q05|src_pol_1978_r3__Q05]]
+**Area:** [[Algebra e Analisi]], [[Geometria]]
 
 
 
@@ -211,5 +204,3 @@ level: Olimpiade Polacca Round 3
 **Metodo:** [[method_coordinate|Coordinate]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
-
-[[Quesiti/src_pol_1978_r3#q06|src_pol_1978_r3__Q06]]

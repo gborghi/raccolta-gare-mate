@@ -10,7 +10,7 @@ level: squadre
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_combinatoria,method_estremalita"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_combinatoria,method_estremalita,skill_riconoscimento_pattern"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -26,6 +26,7 @@ level: squadre
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_estremalita|Principio di estremalita]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 5000
 **Fonte:** [apri PDF p.16](https://drive.google.com/file/d/1KvUMoRfSg-kBSEEK_tFxTN_6Gw6YuSNH/view)
@@ -38,15 +39,15 @@ level: squadre
 
 > 10,000 Minions in a Line Krull is a super-villain criminal, but with a good heart... Today he's agitated because he thinks he still hasn't managed to steal the moon! To relax, he likes thinking about math problems. So he goes down to his laboratory and takes 10,000 Minions—his trusted helpers—numbered from 1 to 10,000. Then he decides to line them up in such a way that the smallest of the 9,999 absolute differences between the numbers of two consecutive Minions is as large as possible. What is the value of this difference?
 
+
 **Topic:** [[topic_combinatoria|Combinatorics]]
 **Metodo:** [[method_estremalita|Extremal principle]]
+**Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]]
 **Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
-[[Quesiti/src_squadre_2023_finale#q01|src_squadre_2023_finale__Q01]]
 
 
-
-<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_geometria_piana,method_coordinate"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_geometria_piana,method_coordinate,skill_ragionamento_geometrico"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -65,6 +66,7 @@ level: squadre
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_coordinate|Metodo delle coordinate]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]]
 **Risposta:** 0041
 **Fonte:** [apri PDF p.16](https://drive.google.com/file/d/1KvUMoRfSg-kBSEEK_tFxTN_6Gw6YuSNH/view)
@@ -77,15 +79,15 @@ level: squadre
 
 > Even the bad guys leave a tip. Krull is so bad that, to skip the line at the coffee shop, he freezes everyone with his freezing beam and then takes the cup of coffee from the barista, who is stunned by the scene. So Krull walks away whistling, but not before putting a circular coin with radius √3 cm into the tip jar. The jar is a right prism with a regular hexagonal base of side length 10 cm. Assuming the coin landed flat on the bottom of the jar, what fraction of the area of E can the center of the coin have landed on? Answer by giving the sum of the numerator and denominator of the fraction in lowest terms.
 
+
 **Topic:** [[topic_geometria_piana|Plane geometry]]
 **Metodo:** [[method_coordinate|Coordinate method]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
 **Area:** [[Geometria|Geometry]]
 
-[[Quesiti/src_squadre_2023_finale#q02|src_squadre_2023_finale__Q02]]
 
 
-
-<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_aritmetica,method_backward"></span>
+<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_aritmetica,topic_funzionali,method_backward,method_casework,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -102,9 +104,10 @@ level: squadre
 > 10. A questo punto il professore sta cercando di trovare i più piccoli 10 numeri iniziali di minions, maggiori di 10 e
 > diversi da 20, che permettono di avere esattamente 10 minions. Qual’è la somma di questi 10 numeri?
 
-**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_backward|Ragionamento all'indietro]]
-**Area:** [[Aritmetica e Teoria dei Numeri]]
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_funzionali|Equazioni funzionali / successioni]]
+**Metodo:** [[method_backward|Ragionamento all'indietro]], [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 **Risposta:** 0164
 **Fonte:** [apri PDF p.16](https://drive.google.com/file/d/1KvUMoRfSg-kBSEEK_tFxTN_6Gw6YuSNH/view)
 
@@ -118,15 +121,15 @@ level: squadre
 > 10. At this point, the professor is trying to find the ten smallest initial Minion numbers that are greater than 10 and
 > Different from 20, which allow you to have exactly 10 minions. What is the sum of these 10 numbers?
 
-**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
-**Metodo:** [[method_backward|Working backwards]]
-**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
-[[Quesiti/src_squadre_2023_finale#q03|src_squadre_2023_finale__Q03]]
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_funzionali|Functional equations / sequences]]
+**Metodo:** [[method_backward|Working backwards]], [[method_casework|Case analysis]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Algebra e Analisi|Algebra and analysis]]
 
 
 
-<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_aritmetica,method_casi_conteggio"></span>
+<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_aritmetica,method_casi_conteggio,method_congruenze,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -141,7 +144,8 @@ level: squadre
 > poter entrare e parlare con il direttore?
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_casi_conteggio|Conteggio per casi]]
+**Metodo:** [[method_casi_conteggio|Conteggio per casi]], [[method_congruenze|Aritmetica modulare / congruenze]]
+**Abilita:** [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 1652
 **Fonte:** [apri PDF p.16](https://drive.google.com/file/d/1KvUMoRfSg-kBSEEK_tFxTN_6Gw6YuSNH/view)
@@ -154,15 +158,15 @@ level: squadre
 
 > Guard Test After discovering that someone has managed to steal the Great Pyramid of Giza, Krull decides that it's finally time to steal the Moon! To do so, however, he needs a loan from the Crime Bank. To test his super-criminal credentials, at the bank's entrance the guard asks, "What is the sum of all perfect squares with at least two digits such that all the digits except the first from the left are 4s?" What must Krull answer in order to get in and speak with the manager?
 
+
 **Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
-**Metodo:** [[method_casi_conteggio|Counting by cases]]
+**Metodo:** [[method_casi_conteggio|Counting by cases]], [[method_congruenze|Modular arithmetic / congruences]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
-[[Quesiti/src_squadre_2023_finale#q04|src_squadre_2023_finale__Q04]]
 
 
-
-<span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_geometria_piana,method_coordinate"></span>
+<span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_geometria_piana,method_coordinate,skill_ragionamento_geometrico"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -179,6 +183,7 @@ level: squadre
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_coordinate|Metodo delle coordinate]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]]
 **Risposta:** 0027
 **Fonte:** [apri PDF p.16](https://drive.google.com/file/d/1KvUMoRfSg-kBSEEK_tFxTN_6Gw6YuSNH/view)
@@ -191,15 +196,15 @@ level: squadre
 
 > How to Steal a Pyramid In the waiting room, Krull meets Vector, the one who managed to steal the pyramid. Curious, he asks him how he did it. Smugly, Vector replies, "You have to imagine two circles Γ1 and Γ2 with radii 7 and 41, respectively, externally tangent at point P. Then take a line r that is tangent to both circles, and let Q be the point of tangency of r with Γ2 (which is different from P). Let R be the intersection of line PQ with Γ1 that is distinct from P; then consider line s, which is tangent to Γ1 at R. It would be clear to you how I managed to do it if you knew how far line s is from the center of Γ2!" "Huh? And how would that help me understand it?" Answer with the distance from s to the center of Γ2.
 
+
 **Topic:** [[topic_geometria_piana|Plane geometry]]
 **Metodo:** [[method_coordinate|Coordinate method]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
 **Area:** [[Geometria|Geometry]]
 
-[[Quesiti/src_squadre_2023_finale#q05|src_squadre_2023_finale__Q05]]
 
 
-
-<span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_combinatoria,method_conteggio"></span>
+<span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_combinatoria,method_conteggio,method_inclusione_esclusione,skill_modellizzazione,skill_conteggio_sistematico"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -215,7 +220,8 @@ level: squadre
 > parti più piccole?
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
-**Metodo:** [[method_conteggio|Conteggio combinatorio]]
+**Metodo:** [[method_conteggio|Conteggio combinatorio]], [[method_inclusione_esclusione|Inclusione-esclusione]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 7316
 **Fonte:** [apri PDF p.16](https://drive.google.com/file/d/1KvUMoRfSg-kBSEEK_tFxTN_6Gw6YuSNH/view)
@@ -230,15 +236,15 @@ level: squadre
 >
 > Welcome nibbles: 5 slices of pizza, 4 small cheese rolls, and 3 zucchini rolls. The four of them eat everything, and no one goes without food. In how many ways can they do this, knowing that the nibbles aren't divided into smaller pieces?
 
+
 **Topic:** [[topic_combinatoria|Combinatorics]]
-**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Metodo:** [[method_conteggio|Combinatorial counting]], [[method_inclusione_esclusione|Inclusion–exclusion]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]], [[skill_conteggio_sistematico|Systematic counting]]
 **Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
-[[Quesiti/src_squadre_2023_finale#q06|src_squadre_2023_finale__Q06]]
 
 
-
-<span class="atom-split" id="q07" data-atom="q07" data-title="Quesito 7" data-tags="topic_geometria_piana,method_casi_conteggio"></span>
+<span class="atom-split" id="q07" data-atom="q07" data-title="Quesito 7" data-tags="topic_geometria_piana,method_casi_conteggio,skill_ragionamento_geometrico"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -255,6 +261,7 @@ level: squadre
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_casi_conteggio|Conteggio per casi]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]]
 **Risposta:** 0004
 **Fonte:** [apri PDF p.17](https://drive.google.com/file/d/1KvUMoRfSg-kBSEEK_tFxTN_6Gw6YuSNH/view)
@@ -267,15 +274,15 @@ level: squadre
 
 > Pastime I: Gaetana and Her Wall Triangle Maria, Gaetana, and Agnese are getting bored at Krull's house, so each of them drives a nail into the wall for fun... The three nails form triangle ABC. Gaetana, who loves geometry, takes a nice black marker and draws the centroid G of the triangle on the wall, and subsequently also H, the foot of the altitude corresponding to A, and K, the foot of the perpendicular from G to BC. What is the value of the ratio GK/AH? Answer with the sum of the numerator and denominator of the fraction reduced to lowest terms.
 
+
 **Topic:** [[topic_geometria_piana|Plane geometry]]
 **Metodo:** [[method_casi_conteggio|Counting by cases]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
 **Area:** [[Geometria|Geometry]]
 
-[[Quesiti/src_squadre_2023_finale#q07|src_squadre_2023_finale__Q07]]
 
 
-
-<span class="atom-split" id="q08" data-atom="q08" data-title="Quesito 8" data-tags="topic_aritmetica"></span>
+<span class="atom-split" id="q08" data-atom="q08" data-title="Quesito 8" data-tags="topic_aritmetica,topic_algebra,method_fattorizzazione,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -288,8 +295,10 @@ level: squadre
 > rimaste nel primo barattolo; se invece le prende tutte nel secondo barattolo, le biglie nel primo risulteranno 88 volte
 > quelle rimaste nel secondo. Qual è il numero minimo di biglie che servono ad Agnese?
 
-**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Area:** [[Aritmetica e Teoria dei Numeri]]
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 **Risposta:** 2023
 **Fonte:** [apri PDF p.17](https://drive.google.com/file/d/1KvUMoRfSg-kBSEEK_tFxTN_6Gw6YuSNH/view)
 
@@ -301,14 +310,15 @@ level: squadre
 
 > Pastime II: Where does Agnese get the marbles from? Agnese finds two jars containing explosive marbles. She needs to take N marbles to go play with her sisters, and she realizes that if she takes all of them from the first jar, then in the second jar there will be 23 times as many marbles as remain in the first jar; if, on the other hand, she takes all of them from the second jar, the number of marbles in the first jar will be 88 times the number remaining in the second jar. What is the minimum number of marbles Agnese needs?
 
-**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
-**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
-[[Quesiti/src_squadre_2023_finale#q08|src_squadre_2023_finale__Q08]]
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Algebra e Analisi|Algebra and analysis]]
 
 
 
-<span class="atom-split" id="q09" data-atom="q09" data-title="Quesito 9" data-tags="topic_probabilita,method_ricorsione"></span>
+<span class="atom-split" id="q09" data-atom="q09" data-title="Quesito 9" data-tags="topic_probabilita,method_ricorsione,skill_modellizzazione,skill_astrazione"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -329,6 +339,7 @@ level: squadre
 
 **Topic:** [[topic_probabilita|Probabilita e statistica]]
 **Metodo:** [[method_ricorsione|Ricorsione]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_astrazione|Astrazione / generalizzazione]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0010
 **Fonte:** [apri PDF p.17](https://drive.google.com/file/d/1KvUMoRfSg-kBSEEK_tFxTN_6Gw6YuSNH/view)
@@ -341,15 +352,15 @@ level: squadre
 
 > Pastime III: Maria and Chess Maria is a chess enthusiast, and to pass the time she decides to play the following solitaire game, hoping it will last a long time... Place four knights at the corners of a 3×3 chessboard. Then move the knights as in chess, from one corner to another of a 2×3 sub-rectangle of the board. Initially, n = 0. On each turn, Maria performs the following operations: she moves each knight to a square that it can legally reach, chosen at random and independently with uniform probability; in this operation, it does not matter if two or more knights end up on the same square. She increments n by 1. If more than one knight ends up on the same square, she removes all but one of them. If, at the end of a turn, only one knight remains, the game ends. What is the expected value of n when the game ends?
 
+
 **Topic:** [[topic_probabilita|Probability and statistics]]
 **Metodo:** [[method_ricorsione|Recursion]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]], [[skill_astrazione|Abstraction / generalisation]]
 **Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
-[[Quesiti/src_squadre_2023_finale#q09|src_squadre_2023_finale__Q09]]
 
 
-
-<span class="atom-split" id="q10" data-atom="q10" data-title="Quesito 10" data-tags="topic_aritmetica,method_congruenze"></span>
+<span class="atom-split" id="q10" data-atom="q10" data-title="Quesito 10" data-tags="topic_aritmetica,topic_combinatoria,method_congruenze,method_casi_conteggio,skill_modellizzazione,skill_conteggio_sistematico"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -364,9 +375,10 @@ level: squadre
 > 0) a cui verrà assegnato a quel minion. Ad esempio il minion 115 = 110213 viene assegnato alla squadra 1012 = 5.
 > Quante squadre comporrà in questo modo Krull?
 
-**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]]
-**Area:** [[Aritmetica e Teoria dei Numeri]]
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]], [[method_casi_conteggio|Conteggio per casi]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0046
 **Fonte:** [apri PDF p.17](https://drive.google.com/file/d/1KvUMoRfSg-kBSEEK_tFxTN_6Gw6YuSNH/view)
 
@@ -380,15 +392,15 @@ level: squadre
 > 0) which will be assigned to that minion. For example, minion 115 = 110213 is assigned to team 1012 = 5.
 > How many teams will Krull thus form?
 
-**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
-**Metodo:** [[method_congruenze|Modular arithmetic / congruences]]
-**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
-[[Quesiti/src_squadre_2023_finale#q10|src_squadre_2023_finale__Q10]]
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]], [[method_casi_conteggio|Counting by cases]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]], [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
 
 
-<span class="atom-split" id="q11" data-atom="q11" data-title="Quesito 11" data-tags="topic_aritmetica,method_congruenze"></span>
+<span class="atom-split" id="q11" data-atom="q11" data-title="Quesito 11" data-tags="topic_aritmetica,method_congruenze,method_casi_conteggio,skill_conteggio_sistematico,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -404,7 +416,8 @@ level: squadre
 > Seconda parte: l’attuazione
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]]
+**Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]], [[method_casi_conteggio|Conteggio per casi]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 2319
 **Fonte:** [apri PDF p.17](https://drive.google.com/file/d/1KvUMoRfSg-kBSEEK_tFxTN_6Gw6YuSNH/view)
@@ -417,15 +430,15 @@ level: squadre
 
 > Bedtime ritual Since Krull doesn't read the bedtime story, to fall asleep Gaetana writes on the blackboard the squares of the natural numbers n from 10 to 2023 (so she writes 100, 121, ..., 4092529). Next, Agnese erases the last three digits (units, tens, and hundreds) of each number written. Then Maria tucks them in, and, looking at the numbers that remain, asks herself: how many natural numbers between 1 and 4092 do not appear on the blackboard? Second part: implementation
 
+
 **Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
-**Metodo:** [[method_congruenze|Modular arithmetic / congruences]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]], [[method_casi_conteggio|Counting by cases]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]], [[skill_casework_accurato|Careful case analysis]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
-[[Quesiti/src_squadre_2023_finale#q11|src_squadre_2023_finale__Q11]]
 
 
-
-<span class="atom-split" id="q12" data-atom="q12" data-title="Quesito 12" data-tags="topic_aritmetica,method_congruenze"></span>
+<span class="atom-split" id="q12" data-atom="q12" data-title="Quesito 12" data-tags="topic_aritmetica,method_congruenze,skill_modellizzazione,skill_conteggio_sistematico"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -442,6 +455,7 @@ level: squadre
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 2829
 **Fonte:** [apri PDF p.17](https://drive.google.com/file/d/1KvUMoRfSg-kBSEEK_tFxTN_6Gw6YuSNH/view)
@@ -454,11 +468,11 @@ level: squadre
 
 > A Sweet Entrance [⋆] The three girls will slip into Vector's house under the pretext of selling cookies, making him choose from 82 different types. The Minions are in charge of baking them: they prepare trays holding 68 cookies each—one tray of the first type, two trays of the second type, and so on, up to the 82nd type of cookie, for which they bake 82 trays. Dr. Nefarey procured the packages, but he misunderstood on the phone and got packages holding 83 cookies each. Knowing that each package contains cookies of only one type and that all the cookies baked are packaged, what is the minimum number of packages the Minions will have to use?
 
+
 **Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
 **Metodo:** [[method_congruenze|Modular arithmetic / congruences]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]], [[skill_conteggio_sistematico|Systematic counting]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
-
-[[Quesiti/src_squadre_2023_finale#q12|src_squadre_2023_finale__Q12]]
 
 
 
@@ -500,11 +514,9 @@ level: squadre
 **Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
 **Area:** [[Geometria|Geometry]]
 
-[[Quesiti/src_squadre_2023_finale#q13|src_squadre_2023_finale__Q13]]
 
 
-
-<span class="atom-split" id="q14" data-atom="q14" data-title="Quesito 14" data-tags="topic_combinatoria,method_estremalita"></span>
+<span class="atom-split" id="q14" data-atom="q14" data-title="Quesito 14" data-tags="topic_combinatoria,method_estremalita,skill_riconoscimento_pattern"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -519,6 +531,7 @@ level: squadre
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_estremalita|Principio di estremalita]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 6191
 **Fonte:** [apri PDF p.18](https://drive.google.com/file/d/1KvUMoRfSg-kBSEEK_tFxTN_6Gw6YuSNH/view)
@@ -531,15 +544,15 @@ level: squadre
 
 > Target Shooting To celebrate the success of the mission, Krull and the three little girls go to the amusement park. The target-shooting booth has been set up to minimize the area that can be hit. The target board consists of a series of adjacent squares; the sum of the lengths of their sides is 2023 mm, and each side length is an integer number of millimeters. Moreover, all the squares are of different sizes. What is the minimum total area of the board in mm²?
 
+
 **Topic:** [[topic_combinatoria|Combinatorics]]
 **Metodo:** [[method_estremalita|Extremal principle]]
+**Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]]
 **Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
-[[Quesiti/src_squadre_2023_finale#q14|src_squadre_2023_finale__Q14]]
 
 
-
-<span class="atom-split" id="q15" data-atom="q15" data-title="Quesito 15" data-tags="topic_geometria_piana,method_trigonometria"></span>
+<span class="atom-split" id="q15" data-atom="q15" data-title="Quesito 15" data-tags="topic_geometria_piana,method_trigonometria,method_simmetria,skill_ragionamento_geometrico"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -558,7 +571,8 @@ level: squadre
 > lunghezza complessiva percorsa dal raggio, in cm?
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
-**Metodo:** [[method_trigonometria|Tecniche trigonometriche]]
+**Metodo:** [[method_trigonometria|Tecniche trigonometriche]], [[method_simmetria|Sfruttamento della simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]]
 **Risposta:** 0360
 **Fonte:** [apri PDF p.18](https://drive.google.com/file/d/1KvUMoRfSg-kBSEEK_tFxTN_6Gw6YuSNH/view)
@@ -571,15 +585,15 @@ level: squadre
 
 > A really cute minion named Kelvin is carrying the constricting beam into the security room, which is a room with mirrored walls. The floor plan of the room is a quadrilateral ABCD such that ∠ABC = 90°, ∠CDA = 90°, ∠BCD = 36°, BC = 2.8 m, and BD = 1.8 m. Kelvin is at vertex A, and while playing with the constricting beam, he accidentally fires it aimed at side BC, parallel to the floor; after hitting wall BC once and wall CD once, the beam returns to point A, closing a triangular path and constricting the unsuspecting Kelvin. What is the total length traveled by the beam, in cm?
 
+
 **Topic:** [[topic_geometria_piana|Plane geometry]]
-**Metodo:** [[method_trigonometria|Trigonometric techniques]]
+**Metodo:** [[method_trigonometria|Trigonometric techniques]], [[method_simmetria|Using symmetry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
 **Area:** [[Geometria|Geometry]]
 
-[[Quesiti/src_squadre_2023_finale#q15|src_squadre_2023_finale__Q15]]
 
 
-
-<span class="atom-split" id="q16" data-atom="q16" data-title="Quesito 16" data-tags="topic_geometria_piana,method_coordinate"></span>
+<span class="atom-split" id="q16" data-atom="q16" data-title="Quesito 16" data-tags="topic_geometria_piana,method_coordinate,skill_ragionamento_geometrico,skill_riconoscimento_pattern,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -597,6 +611,7 @@ level: squadre
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_coordinate|Metodo delle coordinate]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 **Risposta:** 0066
 **Fonte:** [apri PDF p.18](https://drive.google.com/file/d/1KvUMoRfSg-kBSEEK_tFxTN_6Gw6YuSNH/view)
@@ -609,15 +624,15 @@ level: squadre
 
 > The Tea Ceremony The Minion Army is building the rocket that will allow Krull to steal the moon. Meanwhile, the Minions Stewart, Kelvin, and Bob are keeping the three little girls occupied. Maria, Gaetana, and Agnese are about to play at having a tea ceremony. They are located at the vertices of a triangle with sides AB = 165 cm, BC = 220 cm, and AC = 275 cm. The Minions Stewart and Kelvin are located at S, the foot of the angle bisector emanating from A, and at K, the foot of the altitude corresponding to B, respectively. Bob arrives a little late and sits on the foot of the altitude corresponding to S in triangle ACS; finally, everyone can start sipping tea! How far apart are Bob and Kelvin, in cm?
 
+
 **Topic:** [[topic_geometria_piana|Plane geometry]]
 **Metodo:** [[method_coordinate|Coordinate method]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_riconoscimento_pattern|Pattern recognition]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
 **Area:** [[Geometria|Geometry]]
 
-[[Quesiti/src_squadre_2023_finale#q16|src_squadre_2023_finale__Q16]]
 
 
-
-<span class="atom-split" id="q17" data-atom="q17" data-title="Quesito 17" data-tags="topic_aritmetica,method_doppio_conteggio"></span>
+<span class="atom-split" id="q17" data-atom="q17" data-title="Quesito 17" data-tags="topic_aritmetica,method_doppio_conteggio,method_ricorsione,skill_riconoscimento_pattern,skill_conteggio_sistematico"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -631,7 +646,8 @@ level: squadre
 > luna deve calcolare c(1)+c(2)+c(3)+...+c(2047)+c(2048). Che valore ottiene?
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_doppio_conteggio|Doppio conteggio]]
+**Metodo:** [[method_doppio_conteggio|Doppio conteggio]], [[method_ricorsione|Ricorsione]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 8420
 **Fonte:** [apri PDF p.18](https://drive.google.com/file/d/1KvUMoRfSg-kBSEEK_tFxTN_6Gw6YuSNH/view)
@@ -644,15 +660,15 @@ level: squadre
 
 > Landing Trajectory [⋆] Dr. Nefarey knows that the binary complexity c(n) of a natural number n is the minimum number of powers of 2 required to write n as a sum or difference of powers of 2. For example, c(4) = 1 since 4 = 2², c(15) = 2 since 15 = 2⁴ − 2⁰, and c(23) = 3 since, in fact, 23 = 2⁴ + 2³ − 2⁰. To set the trajectory so that the rocket reaches the Moon, he must calculate c(1)+c(2)+c(3)+...+c(2047)+c(2048). What value does he obtain?
 
+
 **Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
-**Metodo:** [[method_doppio_conteggio|Double counting]]
+**Metodo:** [[method_doppio_conteggio|Double counting]], [[method_ricorsione|Recursion]]
+**Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]], [[skill_conteggio_sistematico|Systematic counting]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
-[[Quesiti/src_squadre_2023_finale#q17|src_squadre_2023_finale__Q17]]
 
 
-
-<span class="atom-split" id="q18" data-atom="q18" data-title="Quesito 18" data-tags="topic_combinatoria,method_congruenze"></span>
+<span class="atom-split" id="q18" data-atom="q18" data-title="Quesito 18" data-tags="topic_combinatoria,method_congruenze,method_simmetria,skill_riconoscimento_pattern,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -670,7 +686,8 @@ level: squadre
 > somma dei numeri assegnati alle poltrone blu e la somma dei numeri assegnati alle poltrone arancioni?
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
-**Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]]
+**Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]], [[method_simmetria|Sfruttamento della simmetria]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0001
 **Fonte:** [apri PDF p.18](https://drive.google.com/file/d/1KvUMoRfSg-kBSEEK_tFxTN_6Gw6YuSNH/view)
@@ -683,15 +700,15 @@ level: squadre
 
 > Oddly Numbered Seats The dance performance by Maria, Gaetana, and Agnese takes place in a theater whose auditorium consists of 2022 rows, each containing 2023 seats. The numbering is peculiar and repetitive: in the first row, the numbers are, in sequence, the first and the 2022nd rows of Tartaglia's triangle (in this order); in the second row, the numbers are, again in sequence and in this order, the second and the 2021st rows of Tartaglia's triangle, and so on. Thus, for each integer j between 1 and 2022, in the jth row the seats have been numbered with the jth row and the (2023−j)th row of Tartaglia's triangle. Furthermore, seats located in even positions in an even row are orange, seats in odd positions in an odd row are blue, and the remaining seats are yellow. What is the difference between the sum of the numbers assigned to the blue seats and the sum of the numbers assigned to the orange seats?
 
+
 **Topic:** [[topic_combinatoria|Combinatorics]]
-**Metodo:** [[method_congruenze|Modular arithmetic / congruences]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]], [[method_simmetria|Using symmetry]]
+**Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
 **Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
-[[Quesiti/src_squadre_2023_finale#q18|src_squadre_2023_finale__Q18]]
 
 
-
-<span class="atom-split" id="q19" data-atom="q19" data-title="Quesito 19" data-tags="topic_algebra,method_fattorizzazione"></span>
+<span class="atom-split" id="q19" data-atom="q19" data-title="Quesito 19" data-tags="topic_algebra,method_fattorizzazione,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -707,6 +724,7 @@ level: squadre
 
 **Topic:** [[topic_algebra|Algebra]]
 **Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta del testo]]
 **Area:** [[Algebra e Analisi]]
 **Risposta:** 1632
 **Fonte:** [apri PDF p.18](https://drive.google.com/file/d/1KvUMoRfSg-kBSEEK_tFxTN_6Gw6YuSNH/view)
@@ -719,15 +737,15 @@ level: squadre
 
 > Re-entry code [⋆⋆] After recovering the moon, Krull realizes that he might still make it to the ballet of Maria, Gaetana, and Agnese. So he tries to enter the re-entry code p(10) right away, where p(x) is the polynomial (x−1)9. However, in his haste, he gets confused and instead considers f(x), the function obtained by copying the expression for p(x) and replacing each term of the form anxn with annx. What is the value of f(10), the number that Krull actually enters? Give the first 4 digits of the result.
 
+
 **Topic:** [[topic_algebra|Algebra]]
 **Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_lettura_attenta|Careful reading of the text]]
 **Area:** [[Algebra e Analisi|Algebra and analysis]]
 
-[[Quesiti/src_squadre_2023_finale#q19|src_squadre_2023_finale__Q19]]
 
 
-
-<span class="atom-split" id="q20" data-atom="q20" data-title="Quesito 20" data-tags="topic_aritmetica,method_congruenze"></span>
+<span class="atom-split" id="q20" data-atom="q20" data-title="Quesito 20" data-tags="topic_aritmetica,method_congruenze,method_casework,skill_riconoscimento_pattern,skill_manipolazione_algebrica,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -742,7 +760,8 @@ level: squadre
 > tra 1 e 100 tali che Q(n) sia un multiplo di n?
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]]
+**Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]], [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 0099
 **Fonte:** [apri PDF p.18](https://drive.google.com/file/d/1KvUMoRfSg-kBSEEK_tFxTN_6Gw6YuSNH/view)
@@ -755,15 +774,15 @@ level: squadre
 
 > The Krull ransom came too late: the ballet was over, and Vector had kidnapped the three girls. However, he left a note in which he defines Q(n) as the sum of the natural numbers less than or equal to n that have no prime factors in common with n (for example, Q(1) = 1, Q(5) = 1+2+3+4, and Q(15) = 1+2+4+7+8+11+13+14). To ransom the three girls, Krull must answer the question Vector left at the bottom of the note: how many integers n between 1 and 100 are there such that Q(n) is a multiple of n?
 
+
 **Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
-**Metodo:** [[method_congruenze|Modular arithmetic / congruences]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]], [[method_casework|Case analysis]]
+**Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]], [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_casework_accurato|Careful case analysis]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
-[[Quesiti/src_squadre_2023_finale#q20|src_squadre_2023_finale__Q20]]
 
 
-
-<span class="atom-split" id="q21" data-atom="q21" data-title="Quesito 21" data-tags="topic_algebra,method_fattorizzazione"></span>
+<span class="atom-split" id="q21" data-atom="q21" data-title="Quesito 21" data-tags="topic_algebra,topic_aritmetica,method_fattorizzazione,skill_casework_accurato,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -785,9 +804,10 @@ level: squadre
 > Soluzioni
 > Nr. Problema
 
-**Topic:** [[topic_algebra|Algebra]]
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
-**Area:** [[Algebra e Analisi]]
+**Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 0081
 **Fonte:** [apri PDF p.18](https://drive.google.com/file/d/1KvUMoRfSg-kBSEEK_tFxTN_6Gw6YuSNH/view)
 
@@ -801,8 +821,8 @@ level: squadre
 >
 > Ministry of Education and Merit XXIV National Team Competition National Final – Saturday, 6 May 2023 Solutions No. Problem
 
-**Topic:** [[topic_algebra|Algebra]]
-**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
-**Area:** [[Algebra e Analisi|Algebra and analysis]]
 
-[[Quesiti/src_squadre_2023_finale#q21|src_squadre_2023_finale__Q21]]
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]

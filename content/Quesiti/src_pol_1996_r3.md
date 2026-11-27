@@ -10,7 +10,7 @@ level: Olimpiade Polacca Round 3
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_algebra,method_congruenze,method_fattorizzazione,skill_manipolazione_algebrica,skill_riconoscimento_pattern"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_algebra,topic_aritmetica,method_congruenze,method_fattorizzazione,method_casework,skill_manipolazione_algebrica,skill_riconoscimento_pattern,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -19,10 +19,10 @@ level: Olimpiade Polacca Round 3
 
 > Determine all positive integers $n$ and real numbers $r$ such that the polynomial $2x^2+2x+1$ divides $(x+1)^n - r$.
 
-**Topic:** [[topic_algebra|Algebra]]
-**Metodo:** [[method_congruenze|Congruenze]], [[method_fattorizzazione|Fattorizzazione]]
-**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
-**Area:** [[Algebra e Analisi]]
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_congruenze|Congruenze]], [[method_fattorizzazione|Fattorizzazione]], [[method_casework|Case analysis]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1p4OIOZxA-78AWm5xdfJmUJaucuEmoV6a/view)
 
 
@@ -33,15 +33,15 @@ level: Olimpiade Polacca Round 3
 
 > Determinare tutti gli interi positivi $n$ e i numeri reali $r$ tali che il polinomio $2x^2+2x+1$ divide $(x+1)^n - r$.
 
-**Topic:** [[topic_algebra|Algebra]]
-**Metodo:** [[method_congruenze|Congruenze]], [[method_fattorizzazione|Fattorizzazione]]
-**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di schemi]]
 
-[[Quesiti/src_pol_1996_r3#q01|src_pol_1996_r3__Q01]]
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_congruenze|Congruenze]], [[method_fattorizzazione|Fattorizzazione]], [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di schemi]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 
 
 
-<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_geometria_piana,method_simmetria,skill_ragionamento_geometrico"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_geometria_piana,method_simmetria,method_trigonometria,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -51,9 +51,9 @@ level: Olimpiade Polacca Round 3
 > Let $P$ be an interior point of a triangle $ABC$ such that $\angle PBC = \angle PCA < \angle PAB$. The line $BP$ intersects the circumcircle of triangle $ABC$ again at point $E$. The circumcircle of triangle $APE$ intersects $CE$ again at $F$. Prove that $APEF$ is a convex quadrilateral and that the ratio of its area to the area of the triangle $ABP$ does not depend on the choice of $P$.
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
-**Metodo:** [[method_simmetria|Simmetria]]
-**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
-**Area:** [[Geometria]]
+**Metodo:** [[method_simmetria|Simmetria]], [[method_trigonometria|Trigonometric techniques]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Geometria|Geometry]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1p4OIOZxA-78AWm5xdfJmUJaucuEmoV6a/view)
 
 
@@ -64,15 +64,15 @@ level: Olimpiade Polacca Round 3
 
 > Sia $P$ un punto interno di un triangolo $ABC$ tale che $\angle PBC = \angle PCA < \angle PAB$. La retta $BP$ interseca di nuovo la circonferenza circoscritta al triangolo $ABC$ nel punto $E$. La circonferenza circoscritta al triangolo $APE$ interseca di nuovo $CE$ in $F$. Dimostrare che $APEF$ è un quadrilatero convesso e che il rapporto tra la sua area e l'area del triangolo $ABP$ non dipende dalla scelta di $P$.
 
+
 **Topic:** [[topic_geometria_piana|Geometria piana]]
-**Metodo:** [[method_simmetria|Simmetria]]
-**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
-
-[[Quesiti/src_pol_1996_r3#q02|src_pol_1996_r3__Q02]]
-
+**Metodo:** [[method_simmetria|Simmetria]], [[method_trigonometria|Tecniche trigonometriche]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
 
 
-<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_disuguaglianze,topic_algebra,method_disuguaglianze,skill_manipolazione_algebrica,skill_casework_accurato"></span>
+
+<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_disuguaglianze,topic_algebra,method_disuguaglianze,method_fattorizzazione,method_casework,skill_manipolazione_algebrica,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -87,9 +87,9 @@ level: Olimpiade Polacca Round 3
 > (b) In the above inequality, determine all cases of equality.
 
 **Topic:** [[topic_disuguaglianze|Disuguaglianze]], [[topic_algebra|Algebra]]
-**Metodo:** [[method_disuguaglianze|Disuguaglianze]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze]], [[method_fattorizzazione|Factorisation / algebraic manipulation]], [[method_casework|Case analysis]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Casework accurato]]
-**Area:** [[Algebra e Analisi]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1p4OIOZxA-78AWm5xdfJmUJaucuEmoV6a/view)
 
 
@@ -106,15 +106,15 @@ level: Olimpiade Polacca Round 3
 >
 > (b) Nella disuguaglianza precedente, determinare tutti i casi di uguaglianza.
 
+
 **Topic:** [[topic_disuguaglianze|Disuguaglianze]], [[topic_algebra|Algebra]]
-**Metodo:** [[method_disuguaglianze|Disuguaglianze]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze]], [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]], [[method_casework|Analisi per casi]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Analisi accurata dei casi]]
-
-[[Quesiti/src_pol_1996_r3#q03|src_pol_1996_r3__Q03]]
-
+**Area:** [[Algebra e Analisi]]
 
 
-<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_geometria_solida,skill_ragionamento_geometrico"></span>
+
+<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_geometria_solida,topic_trigonometria,method_trigonometria,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -123,9 +123,10 @@ level: Olimpiade Polacca Round 3
 
 > Suppose that a tetrahedron $ABCD$ is such that $\angle BAC = \angle ACD$ and $\angle CDB = \angle DBA$. Prove that $AB = CD$.
 
-**Topic:** [[topic_geometria_solida|Geometria solida]]
-**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
-**Area:** [[Geometria]]
+**Topic:** [[topic_geometria_solida|Geometria solida]], [[topic_trigonometria|Trigonometry]]
+**Metodo:** [[method_trigonometria|Trigonometric techniques]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Geometria|Geometry]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1p4OIOZxA-78AWm5xdfJmUJaucuEmoV6a/view)
 
 
@@ -136,10 +137,11 @@ level: Olimpiade Polacca Round 3
 
 > Si supponga che un tetraedro $ABCD$ sia tale che $\angle BAC = \angle ACD$ e $\angle CDB = \angle DBA$. Dimostrare che $AB = CD$.
 
-**Topic:** [[topic_geometria_solida|Geometria solida]]
-**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 
-[[Quesiti/src_pol_1996_r3#q04|src_pol_1996_r3__Q04]]
+**Topic:** [[topic_geometria_solida|Geometria solida]], [[topic_trigonometria|Trigonometria]]
+**Metodo:** [[method_trigonometria|Tecniche trigonometriche]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
 
 
 
@@ -175,12 +177,11 @@ level: Olimpiade Polacca Round 3
 **Topic:** [[topic_aritmetica|Aritmetica e teoria dei numeri]]
 **Metodo:** [[method_ricorsione|Ricorsione]], [[method_fattorizzazione|Fattorizzazione]]
 **Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di schemi]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
-
-[[Quesiti/src_pol_1996_r3#q05|src_pol_1996_r3__Q05]]
-
+**Area:** [[Aritmetica e Teoria dei Numeri]]
 
 
-<span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_combinatoria,topic_probabilita,method_conteggio,method_ricorsione,skill_conteggio_sistematico,skill_riconoscimento_pattern"></span>
+
+<span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_combinatoria,topic_probabilita,method_conteggio,method_ricorsione,method_casi_conteggio,skill_conteggio_sistematico,skill_riconoscimento_pattern"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -190,9 +191,9 @@ level: Olimpiade Polacca Round 3
 > Consider the collection of all permutations $f$ of the set $\{1, 2, \ldots, n\}$ which satisfy $f(i) \ge i-1$ for all $i$. Let $p_n$ be the probability that a randomly chosen permutation from this collection also satisfies $f(i) \le i+1$ for all $i$. Determine all $n$ for which $p_n > 1/3$.
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_probabilita|Probabilità]]
-**Metodo:** [[method_conteggio|Conteggio]], [[method_ricorsione|Ricorsione]]
+**Metodo:** [[method_conteggio|Conteggio]], [[method_ricorsione|Ricorsione]], [[method_casi_conteggio|Counting by cases]]
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
-**Area:** [[Combinatoria, Logica e Probabilita]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1p4OIOZxA-78AWm5xdfJmUJaucuEmoV6a/view)
 
 
@@ -203,8 +204,8 @@ level: Olimpiade Polacca Round 3
 
 > Si consideri l'insieme di tutte le permutazioni $f$ dell'insieme $\{1, 2, \ldots, n\}$ che soddisfano $f(i) \ge i-1$ per ogni $i$. Sia $p_n$ la probabilità che una permutazione scelta a caso in questo insieme soddisfi anche $f(i) \le i+1$ per ogni $i$. Determinare tutti gli $n$ per cui $p_n > 1/3$.
 
-**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_probabilita|Probabilità e statistica]]
-**Metodo:** [[method_conteggio|Conteggio]], [[method_ricorsione|Ricorsione]]
-**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di schemi]]
 
-[[Quesiti/src_pol_1996_r3#q06|src_pol_1996_r3__Q06]]
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_probabilita|Probabilità e statistica]]
+**Metodo:** [[method_conteggio|Conteggio]], [[method_ricorsione|Ricorsione]], [[method_casi_conteggio|Conteggio per casi]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di schemi]]
+**Area:** [[Combinatoria, Logica e Probabilita]]

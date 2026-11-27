@@ -40,7 +40,7 @@ level: JMO Honsen
 **Argomento:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_simmetria|Sfruttamento della simmetria]]
 **Abilità:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta del testo]]
-[[Quesiti/src_jmo20mq_honsen#q01|src_jmo20mq_honsen__Q01]]
+**Area:** [[Geometria]]
 
 
 
@@ -70,7 +70,7 @@ level: JMO Honsen
 **Argomento:** [[topic_aritmetica|Aritmetica / Teoria dei numeri]]
 **Metodo:** [[method_induzione|Induzione]], [[method_congruenze|Aritmetica modulare / congruenze]]
 **Abilità:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione / generalizzazione]]
-[[Quesiti/src_jmo20mq_honsen#q02|src_jmo20mq_honsen__Q02]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
 
 
 
@@ -116,11 +116,11 @@ level: JMO Honsen
 **Argomento:** [[topic_combinatoria|Combinatoria]], [[topic_logica|Logica, giochi, strategie]]
 **Metodo:** [[method_grafi|Teoria dei grafi]], [[method_estremalita|Principio di estremalità]]
 **Abilità:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_astrazione|Astrazione / generalizzazione]]
-[[Quesiti/src_jmo20mq_honsen#q03|src_jmo20mq_honsen__Q03]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
 
 
 
-<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_disuguaglianze,method_disuguaglianze,skill_manipolazione_algebrica"></span>
+<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_disuguaglianze,topic_algebra,method_disuguaglianze,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -130,10 +130,10 @@ level: JMO Honsen
 > For positive real numbers $x$, $y$, $z$, prove that
 > $$\frac{1+xy+xz}{(1+y+z)^2} + \frac{1+yz+yx}{(1+z+x)^2} + \frac{1+zx+zy}{(1+x+y)^2} \ge 1.$$
 
-**Topic:** [[topic_disuguaglianze|Disuguaglianze]]
+**Topic:** [[topic_disuguaglianze|Disuguaglianze]], [[topic_algebra|Algebra]]
 **Metodo:** [[method_disuguaglianze|Disuguaglianze]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
-**Area:** [[Algebra e Analisi]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1-5fGMf22vQ1jtaAwviwMBT_2MQ0Xy9uz/view)
 
 
@@ -147,13 +147,15 @@ level: JMO Honsen
 > $$\frac{1+xy+xz}{(1+y+z)^2} + \frac{1+yz+yx}{(1+z+x)^2} + \frac{1+zx+zy}{(1+x+y)^2} \ge 1.$$
 
 **Argomento:** [[topic_disuguaglianze|Disuguaglianze]]
+
+**Topic:** [[topic_disuguaglianze|Disuguaglianze]], [[topic_algebra|Algebra]]
 **Metodo:** [[method_disuguaglianze|Disuguaglianze classiche]]
-**Abilità:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
-[[Quesiti/src_jmo20mq_honsen#q04|src_jmo20mq_honsen__Q04]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Algebra e Analisi]]
 
 
 
-<span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_combinatoria,topic_geometria_piana,method_estremalita,method_conteggio,skill_conteggio_sistematico,skill_ragionamento_geometrico,skill_stima"></span>
+<span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_combinatoria,topic_geometria_piana,method_estremalita,method_conteggio,skill_conteggio_sistematico,skill_ragionamento_geometrico,skill_stima,skill_astrazione"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -166,8 +168,8 @@ level: JMO Honsen
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_estremalita|Estremalità]], [[method_conteggio|Conteggio]]
-**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_stima|Stima]]
-**Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_stima|Stima]], [[skill_astrazione|Abstraction / generalisation]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Geometria|Geometry]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1-5fGMf22vQ1jtaAwviwMBT_2MQ0Xy9uz/view)
 
 
@@ -181,6 +183,8 @@ level: JMO Honsen
 > (Per una spezzata $P_1 P_2 \cdots P_n P_{n+1}$ con $P_1 = P_{n+1}$, la chiamiamo spezzata chiusa.)
 
 **Argomento:** [[topic_combinatoria|Combinatoria]], [[topic_geometria_piana|Geometria piana]]
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_estremalita|Principio di estremalità]], [[method_conteggio|Conteggio combinatorio]]
-**Abilità:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_stima|Stima e approssimazione]]
-[[Quesiti/src_jmo20mq_honsen#q05|src_jmo20mq_honsen__Q05]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_stima|Stima e approssimazione]], [[skill_astrazione|Astrazione / generalizzazione]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]

@@ -38,8 +38,6 @@ level: Olimpiade Polacca Round 3
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_astrazione|Astrazione]]
 **Area:** [[Algebra e Analisi]]
 
-[[Quesiti/src_pol_1966_r3#q01|src_pol_1966_r3__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_aritmetica,topic_algebra,method_fattorizzazione,method_congruenze,method_casework,skill_manipolazione_algebrica,skill_conteggio_sistematico,skill_lettura_attenta"></span>
@@ -69,8 +67,6 @@ level: Olimpiade Polacca Round 3
 **Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_congruenze|Congruenze]], [[method_casework|Casework]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
-
-[[Quesiti/src_pol_1966_r3#q02|src_pol_1966_r3__Q02]]
 
 
 
@@ -104,11 +100,9 @@ level: Olimpiade Polacca Round 3
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_stima|Stima]]
 **Area:** [[Algebra e Analisi]]
 
-[[Quesiti/src_pol_1966_r3#q03|src_pol_1966_r3__Q03]]
 
 
-
-<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_geometria_solida,method_simmetria,method_disuguaglianze,skill_ragionamento_geometrico,skill_manipolazione_algebrica,skill_modellizzazione"></span>
+<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_geometria_solida,topic_geometria_analitica,method_simmetria,method_disuguaglianze,method_coordinate,skill_ragionamento_geometrico,skill_manipolazione_algebrica,skill_modellizzazione"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -117,10 +111,10 @@ level: Olimpiade Polacca Round 3
 
 > Prove that the sum of the squares of the areas of the projections of the faces of a rectangular parallelepiped on a plane is the same for all positions of the plane if and only if the parallelepiped is a cube.
 
-**Topic:** [[topic_geometria_solida|Geometria solida]]
-**Metodo:** [[method_simmetria|Simmetria]], [[method_disuguaglianze|Disuguaglianze]]
+**Topic:** [[topic_geometria_solida|Geometria solida]], [[topic_geometria_analitica|Coordinate geometry]]
+**Metodo:** [[method_simmetria|Simmetria]], [[method_disuguaglianze|Disuguaglianze]], [[method_coordinate|Coordinate method]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]]
-**Area:** [[Geometria]]
+**Area:** [[Geometria|Geometry]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1cdDIGmzl1s3W08zQNcKL0HCsVXJ-v1sZ/view)
 
 
@@ -131,16 +125,15 @@ level: Olimpiade Polacca Round 3
 
 > Dimostrare che la somma dei quadrati delle aree delle proiezioni delle facce di un parallelepipedo rettangolo su un piano è la stessa per tutte le posizioni del piano se e solo se il parallelepipedo è un cubo.
 
-**Topic:** [[topic_geometria_solida|Geometria solida]]
-**Metodo:** [[method_simmetria|Simmetria]], [[method_disuguaglianze|Disuguaglianze]]
+
+**Topic:** [[topic_geometria_solida|Geometria solida]], [[topic_geometria_analitica|Geometria analitica]]
+**Metodo:** [[method_simmetria|Simmetria]], [[method_disuguaglianze|Disuguaglianze]], [[method_coordinate|Metodo delle coordinate]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]]
 **Area:** [[Geometria]]
 
-[[Quesiti/src_pol_1966_r3#q04|src_pol_1966_r3__Q04]]
 
 
-
-<span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_geometria_piana,method_simmetria,method_estremalita,skill_ragionamento_geometrico,skill_astrazione,skill_lettura_attenta"></span>
+<span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_geometria_piana,method_simmetria,method_estremalita,method_coordinate,skill_ragionamento_geometrico,skill_astrazione,skill_lettura_attenta"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -150,9 +143,9 @@ level: Olimpiade Polacca Round 3
 > Each of the diagonals $AD$, $BE$, $CF$ of a convex hexagon $ABCDEF$ bisects the area of the hexagon. Prove that these three diagonals pass through the same point.
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
-**Metodo:** [[method_simmetria|Simmetria]], [[method_estremalita|Estremalità]]
+**Metodo:** [[method_simmetria|Simmetria]], [[method_estremalita|Estremalità]], [[method_coordinate|Coordinate method]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_astrazione|Astrazione]], [[skill_lettura_attenta|Lettura attenta]]
-**Area:** [[Geometria]]
+**Area:** [[Geometria|Geometry]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1cdDIGmzl1s3W08zQNcKL0HCsVXJ-v1sZ/view)
 
 
@@ -163,16 +156,15 @@ level: Olimpiade Polacca Round 3
 
 > Ciascuna delle diagonali $AD$, $BE$, $CF$ di un esagono convesso $ABCDEF$ biseca l'area dell'esagono. Dimostrare che queste tre diagonali passano per lo stesso punto.
 
+
 **Topic:** [[topic_geometria_piana|Geometria piana]]
-**Metodo:** [[method_simmetria|Simmetria]], [[method_estremalita|Estremalità]]
+**Metodo:** [[method_simmetria|Simmetria]], [[method_estremalita|Estremalità]], [[method_coordinate|Metodo delle coordinate]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_astrazione|Astrazione]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Geometria]]
 
-[[Quesiti/src_pol_1966_r3#q05|src_pol_1966_r3__Q05]]
 
 
-
-<span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_geometria_piana,topic_combinatoria,method_estremalita,method_casework,method_colorazione,skill_ragionamento_geometrico,skill_stima,skill_casework_accurato"></span>
+<span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_geometria_piana,topic_combinatoria,method_estremalita,method_casework,method_colorazione,method_cassetti,skill_ragionamento_geometrico,skill_stima,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -182,9 +174,9 @@ level: Olimpiade Polacca Round 3
 > On the plane are chosen six points. Prove that the ratio of the longest distance between two points to the shortest is at least $\sqrt{3}$.
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_combinatoria|Combinatoria]]
-**Metodo:** [[method_estremalita|Estremalità]], [[method_casework|Casework]], [[method_colorazione|Colorazione]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_casework|Casework]], [[method_colorazione|Colorazione]], [[method_cassetti|Pigeonhole principle]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_stima|Stima]], [[skill_casework_accurato|Casework accurato]]
-**Area:** [[Geometria]], [[Combinatoria, Logica e Probabilita]]
+**Area:** [[Geometria|Geometry]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1cdDIGmzl1s3W08zQNcKL0HCsVXJ-v1sZ/view)
 
 
@@ -195,9 +187,8 @@ level: Olimpiade Polacca Round 3
 
 > Nel piano vengono scelti sei punti. Dimostrare che il rapporto tra la distanza massima tra due punti e la distanza minima è almeno $\sqrt{3}$.
 
+
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_combinatoria|Combinatoria]]
-**Metodo:** [[method_estremalita|Estremalità]], [[method_casework|Casework]], [[method_colorazione|Colorazione]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_casework|Casework]], [[method_colorazione|Colorazione]], [[method_cassetti|Principio dei cassetti]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_stima|Stima]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Geometria]], [[Combinatoria, Logica e Probabilita]]
-
-[[Quesiti/src_pol_1966_r3#q06|src_pol_1966_r3__Q06]]

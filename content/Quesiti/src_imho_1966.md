@@ -10,7 +10,7 @@ level: IMO
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_combinatoria,topic_aritmetica,method_casework,method_inclusione_esclusione,skill_lettura_attenta,skill_modellizzazione,skill_manipolazione_algebrica"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_combinatoria,topic_aritmetica,method_casework,method_inclusione_esclusione,skill_lettura_attenta,skill_modellizzazione,skill_manipolazione_algebrica,skill_conteggio_sistematico"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -21,8 +21,8 @@ level: IMO
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_casework|Casework]], [[method_inclusione_esclusione|Inclusione-esclusione]]
-**Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_modellizzazione|Modellizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
-**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
+**Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_modellizzazione|Modellizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1YupvYjrHn75uvnAgLLRGQAZRyLX2TPis/view)
 
 
@@ -33,16 +33,15 @@ level: IMO
 
 > In una gara matematica sono stati proposti tre problemi, $A$, $B$, $C$. Tra i partecipanti c'erano 25 studenti, ciascuno dei quali ha risolto almeno un problema. Tra tutti i concorrenti che non hanno risolto il problema $A$, il numero di coloro che hanno risolto $B$ era il doppio del numero di coloro che hanno risolto $C$. Il numero di studenti che hanno risolto solo il problema $A$ era maggiore di uno rispetto al numero di studenti che hanno risolto $A$ e almeno un altro problema. Tra tutti gli studenti che hanno risolto esattamente un problema, la metà non ha risolto il problema $A$. Quanti studenti hanno risolto solo il problema $B$?
 
+
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_casework|Casework]], [[method_inclusione_esclusione|Inclusione-esclusione]]
-**Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_modellizzazione|Modellizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_modellizzazione|Modellizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 
-[[Quesiti/src_imho_1966#q01|src_imho_1966__Q01]]
 
 
-
-<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_trigonometria,topic_geometria_piana,method_trigonometria,skill_manipolazione_algebrica,skill_ragionamento_geometrico"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_trigonometria,topic_geometria_piana,method_trigonometria,method_fattorizzazione,skill_manipolazione_algebrica,skill_ragionamento_geometrico"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -54,9 +53,9 @@ level: IMO
 > the triangle is isosceles.
 
 **Topic:** [[topic_trigonometria|Trigonometria]], [[topic_geometria_piana|Geometria piana]]
-**Metodo:** [[method_trigonometria|Trigonometria]]
+**Metodo:** [[method_trigonometria|Trigonometria]], [[method_fattorizzazione|Factorisation / algebraic manipulation]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
-**Area:** [[Geometria]]
+**Area:** [[Geometria|Geometry]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1YupvYjrHn75uvnAgLLRGQAZRyLX2TPis/view)
 
 
@@ -69,16 +68,15 @@ level: IMO
 > $$a + b = \tan\frac{\gamma}{2}(a\tan\alpha + b\tan\beta),$$
 > il triangolo è isoscele.
 
+
 **Topic:** [[topic_trigonometria|Trigonometria]], [[topic_geometria_piana|Geometria piana]]
-**Metodo:** [[method_trigonometria|Trigonometria]]
+**Metodo:** [[method_trigonometria|Trigonometria]], [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]]
 
-[[Quesiti/src_imho_1966#q02|src_imho_1966__Q02]]
 
 
-
-<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_geometria_solida,topic_disuguaglianze,method_disuguaglianze,method_estremalita,skill_ragionamento_geometrico,skill_modellizzazione,skill_stima"></span>
+<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_geometria_solida,topic_disuguaglianze,method_disuguaglianze,method_estremalita,method_simmetria,skill_ragionamento_geometrico,skill_modellizzazione,skill_stima"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -88,9 +86,9 @@ level: IMO
 > Prove that the sum of the distances of the vertices of a regular tetrahedron from the center of its circumscribed sphere is less than the sum of the distances of these vertices from any other point in space.
 
 **Topic:** [[topic_geometria_solida|Geometria solida]], [[topic_disuguaglianze|Disuguaglianze]]
-**Metodo:** [[method_disuguaglianze|Disuguaglianze]], [[method_estremalita|Estremalità]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze]], [[method_estremalita|Estremalità]], [[method_simmetria|Using symmetry]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]], [[skill_stima|Stima]]
-**Area:** [[Geometria]], [[Algebra e Analisi]]
+**Area:** [[Geometria|Geometry]], [[Algebra e Analisi|Algebra and analysis]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1YupvYjrHn75uvnAgLLRGQAZRyLX2TPis/view)
 
 
@@ -101,16 +99,15 @@ level: IMO
 
 > Dimostrare che la somma delle distanze dei vertici di un tetraedro regolare dal centro della sua sfera circoscritta è minore della somma delle distanze di tali vertici da qualsiasi altro punto dello spazio.
 
+
 **Topic:** [[topic_geometria_solida|Geometria solida]], [[topic_disuguaglianze|Disuguaglianze]]
-**Metodo:** [[method_disuguaglianze|Disuguaglianze]], [[method_estremalita|Estremalità]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze]], [[method_estremalita|Estremalità]], [[method_simmetria|Sfruttamento della simmetria]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]], [[skill_stima|Stima]]
 **Area:** [[Geometria]], [[Algebra e Analisi]]
 
-[[Quesiti/src_imho_1966#q03|src_imho_1966__Q03]]
 
 
-
-<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_trigonometria,method_induzione,method_telescoping,skill_manipolazione_algebrica,skill_riconoscimento_pattern"></span>
+<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_trigonometria,method_induzione,method_telescoping,method_trigonometria,skill_manipolazione_algebrica,skill_riconoscimento_pattern"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -121,9 +118,9 @@ level: IMO
 > $$\frac{1}{\sin 2x} + \frac{1}{\sin 4x} + \cdots + \frac{1}{\sin 2^n x} = \cot x - \cot 2^n x.$$
 
 **Topic:** [[topic_trigonometria|Trigonometria]]
-**Metodo:** [[method_induzione|Induzione]], [[method_telescoping|Telescoping]]
+**Metodo:** [[method_induzione|Induzione]], [[method_telescoping|Telescoping]], [[method_trigonometria|Trigonometric techniques]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
-**Area:** [[Geometria]]
+**Area:** [[Geometria|Geometry]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1YupvYjrHn75uvnAgLLRGQAZRyLX2TPis/view)
 
 
@@ -135,12 +132,11 @@ level: IMO
 > Dimostrare che per ogni numero naturale $n$, e per ogni numero reale $x \neq \frac{k\pi}{2^t}$ ($t = 0, 1, \ldots, n$; $k$ qualsiasi intero)
 > $$\frac{1}{\sin 2x} + \frac{1}{\sin 4x} + \cdots + \frac{1}{\sin 2^n x} = \cot x - \cot 2^n x.$$
 
+
 **Topic:** [[topic_trigonometria|Trigonometria]]
-**Metodo:** [[method_induzione|Induzione]], [[method_telescoping|Telescoping]]
+**Metodo:** [[method_induzione|Induzione]], [[method_telescoping|Telescoping]], [[method_trigonometria|Tecniche trigonometriche]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Geometria]]
-
-[[Quesiti/src_imho_1966#q04|src_imho_1966__Q04]]
 
 
 
@@ -182,11 +178,9 @@ level: IMO
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Algebra e Analisi]]
 
-[[Quesiti/src_imho_1966#q05|src_imho_1966__Q05]]
 
 
-
-<span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_geometria_piana,topic_disuguaglianze,method_estremalita,method_casework,skill_ragionamento_geometrico,skill_stima,skill_modellizzazione"></span>
+<span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_geometria_piana,topic_disuguaglianze,method_estremalita,method_casework,skill_ragionamento_geometrico,skill_stima,skill_modellizzazione,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -197,8 +191,8 @@ level: IMO
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_disuguaglianze|Disuguaglianze]]
 **Metodo:** [[method_estremalita|Estremalità]], [[method_casework|Casework]]
-**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_stima|Stima]], [[skill_modellizzazione|Modellizzazione]]
-**Area:** [[Geometria]], [[Algebra e Analisi]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_stima|Stima]], [[skill_modellizzazione|Modellizzazione]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Geometria|Geometry]], [[Algebra e Analisi|Algebra and analysis]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1YupvYjrHn75uvnAgLLRGQAZRyLX2TPis/view)
 
 
@@ -209,9 +203,8 @@ level: IMO
 
 > All'interno dei lati $BC$, $CA$, $AB$ del triangolo $ABC$, vengono scelti rispettivamente dei punti qualsiasi $K$, $L$, $M$. Dimostrare che l'area di almeno uno dei triangoli $AML$, $BKM$, $CLK$ è minore o uguale a un quarto dell'area del triangolo $ABC$.
 
+
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_disuguaglianze|Disuguaglianze]]
 **Metodo:** [[method_estremalita|Estremalità]], [[method_casework|Casework]]
-**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_stima|Stima]], [[skill_modellizzazione|Modellizzazione]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_stima|Stima]], [[skill_modellizzazione|Modellizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]], [[Algebra e Analisi]]
-
-[[Quesiti/src_imho_1966#q06|src_imho_1966__Q06]]

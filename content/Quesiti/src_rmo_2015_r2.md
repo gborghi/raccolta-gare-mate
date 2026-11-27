@@ -19,7 +19,7 @@ level: RMO
 
 > Let $ABC$ be a triangle. Let $B'$ and $C'$ denote respectively the reflection of $B$ and $C$ in the internal angle bisector of $\angle A$. Show that the triangles $ABC$ and $AB'C'$ have the same incentre.
 
-![[src_rmo_2015_r2__q01.png]]
+![[src_rmo_2015_r2__Q01.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_simmetria|Simmetria]]
@@ -35,14 +35,12 @@ level: RMO
 
 > Sia $ABC$ un triangolo. Siano $B'$ e $C'$ rispettivamente la riflessione di $B$ e di $C$ rispetto alla bisettrice dell'angolo interno di $\angle A$. Dimostrare che i triangoli $ABC$ e $AB'C'$ hanno lo stesso incentro.
 
-![[src_rmo_2015_r2__q01.png]]
+![[src_rmo_2015_r2__Q01.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_simmetria|Simmetria]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
-
-[[Quesiti/src_rmo_2015_r2#q01|src_rmo_2015_r2__Q01]]
 
 
 
@@ -74,8 +72,6 @@ level: RMO
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Algebra e Analisi]]
 
-[[Quesiti/src_rmo_2015_r2#q02|src_rmo_2015_r2__Q02]]
-
 
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_aritmetica,topic_algebra,method_casework,method_fattorizzazione,skill_manipolazione_algebrica,skill_conteggio_sistematico,skill_casework_accurato"></span>
@@ -105,8 +101,6 @@ level: RMO
 **Metodo:** [[method_casework|Casework]], [[method_fattorizzazione|Fattorizzazione]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
-
-[[Quesiti/src_rmo_2015_r2#q03|src_rmo_2015_r2__Q03]]
 
 
 
@@ -138,8 +132,6 @@ level: RMO
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 
-[[Quesiti/src_rmo_2015_r2#q04|src_rmo_2015_r2__Q04]]
-
 
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_geometria_piana,method_simmetria,skill_ragionamento_geometrico,skill_lettura_attenta"></span>
@@ -151,7 +143,7 @@ level: RMO
 
 > Two circles $\Gamma$ and $\Sigma$ in the plane intersect at two distinct points $A$ and $B$, and the centre of $\Sigma$ lies on $\Gamma$. Let points $C$ and $D$ be on $\Gamma$ and $\Sigma$, respectively, such that $C$, $B$ and $D$ are collinear. Let point $E$ on $\Sigma$ be such that $DE$ is parallel to $AC$. Show that $AE = AB$.
 
-![[src_rmo_2015_r2__q05.png]]
+![[src_rmo_2015_r2__Q05.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_simmetria|Simmetria]]
@@ -167,14 +159,12 @@ level: RMO
 
 > Due cerchi $\Gamma$ e $\Sigma$ nel piano si intersecano in due punti distinti $A$ e $B$, e il centro di $\Sigma$ giace su $\Gamma$. Siano i punti $C$ e $D$ rispettivamente su $\Gamma$ e $\Sigma$, in modo che $C$, $B$ e $D$ siano allineati. Sia il punto $E$ su $\Sigma$ tale che $DE$ sia parallelo a $AC$. Dimostrare che $AE = AB$.
 
-![[src_rmo_2015_r2__q05.png]]
+![[src_rmo_2015_r2__Q05.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_simmetria|Simmetria]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Geometria]]
-
-[[Quesiti/src_rmo_2015_r2#q05|src_rmo_2015_r2__Q05]]
 
 
 
@@ -205,5 +195,3 @@ level: RMO
 **Metodo:** [[method_casework|Casework]], [[method_fattorizzazione|Fattorizzazione]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
-
-[[Quesiti/src_rmo_2015_r2#q06|src_rmo_2015_r2__Q06]]

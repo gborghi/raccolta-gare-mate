@@ -10,7 +10,7 @@ level: IMO
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_geometria_piana,topic_disuguaglianze,method_disuguaglianze"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_geometria_piana,topic_disuguaglianze,topic_trigonometria,method_disuguaglianze,method_trigonometria,skill_ragionamento_geometrico"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -27,9 +27,10 @@ level: IMO
 > 8
 > 27.
 
-**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_disuguaglianze|Disuguaglianze]]
-**Metodo:** [[method_disuguaglianze|Disuguaglianze classiche]]
-**Area:** [[Algebra e Analisi]], [[Geometria]]
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_disuguaglianze|Inequalities]], [[topic_trigonometria|Trigonometry]]
+**Metodo:** [[method_disuguaglianze|Classical inequalities]], [[method_trigonometria|Trigonometric techniques]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]], [[Algebra e Analisi|Algebra and analysis]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1xM_ANkU3j9TgvWtq9nZKkGrXElMK5J4e/view)
 
 
@@ -40,15 +41,15 @@ level: IMO
 
 > Dato un triangolo ABC, sia I il centro della sua circonferenza inscritta. Le bisettrici interne degli angoli A, B, C incontrano i lati opposti rispettivamente nei punti A′, B′, C′. Dimostrare che 1/4 < AI · BI · CI / (AA′ · BB′ · CC′) ≤ 8/27.
 
-**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_disuguaglianze|Disuguaglianze]]
-**Metodo:** [[method_disuguaglianze|Disuguaglianze classiche]]
-**Area:** [[Algebra e Analisi]], [[Geometria]]
 
-[[Quesiti/src_imo_1991#q01|src_imo_1991__Q01]]
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_disuguaglianze|Disuguaglianze]], [[topic_trigonometria|Trigonometria]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze classiche]], [[method_trigonometria|Tecniche trigonometriche]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Geometria]], [[Algebra e Analisi]]
 
 
 
-<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_aritmetica,method_congruenze"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_aritmetica,method_congruenze,method_casework,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -60,9 +61,10 @@ level: IMO
 > a2 −a1 = a3 −a2 = · · = ak −ak−1 > 0,
 > prove that n must be either a prime number or a power of 2.
 
-**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]]
-**Area:** [[Aritmetica e Teoria dei Numeri]]
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]], [[method_casework|Case analysis]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1xM_ANkU3j9TgvWtq9nZKkGrXElMK5J4e/view)
 
 
@@ -73,15 +75,15 @@ level: IMO
 
 > Sia n > 6 un numero intero e siano a1, a2, ..., ak tutti i numeri naturali minori di n e coprimi con n. Se a2 − a1 = a3 − a2 = ... = ak − ak−1 > 0, dimostrare che n deve essere o un numero primo o una potenza di 2.
 
+
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]]
+**Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]], [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 
-[[Quesiti/src_imo_1991#q02|src_imo_1991__Q02]]
 
 
-
-<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_aritmetica,topic_combinatoria,method_cassetti,method_estremalita"></span>
+<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_aritmetica,topic_combinatoria,method_cassetti,method_estremalita,skill_conteggio_sistematico"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -95,9 +97,10 @@ level: IMO
 > Time Limit: 41
 > 2 hours
 
-**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
-**Metodo:** [[method_cassetti|Principio dei cassetti]], [[method_estremalita|Principio di estremalita]]
-**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_cassetti|Pigeonhole principle]], [[method_estremalita|Extremal principle]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1xM_ANkU3j9TgvWtq9nZKkGrXElMK5J4e/view)
 
 
@@ -108,15 +111,15 @@ level: IMO
 
 > Sia S = {1, 2, 3, . . . , 280}. Determinare il più piccolo intero n tale che ogni sottoinsieme di S costituito da n elementi contenga cinque numeri coprimi a due a due. Secondo giorno, 18 luglio 1991. Tempo limite: 4 ore e 12 minuti.
 
+
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_cassetti|Principio dei cassetti]], [[method_estremalita|Principio di estremalita]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 
-[[Quesiti/src_imo_1991#q03|src_imo_1991__Q03]]
 
 
-
-<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_combinatoria,method_grafi"></span>
+<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_combinatoria,topic_aritmetica,method_grafi,method_induzione,skill_astrazione"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -127,9 +130,10 @@ level: IMO
 > 
 > [Un grafo è un insieme di punti, detti vertici, insieme a un insieme di spigoli che uniscono certe coppie di vertici distinti. Ogni coppia di vertici $u$, $v$ appartiene al più a uno spigolo. Il grafo $G$ è connesso se, per ogni coppia di vertici distinti $x$, $y$, esiste una successione di vertici $x = v_0, v_1, v_2, \ldots, v_m = y$ tale che ogni coppia $v_i, v_{i+1}$ (con $0 \leq i < m$) sia unita da uno spigolo di $G$.]
 
-**Topic:** [[topic_combinatoria|Combinatoria]]
-**Metodo:** [[method_grafi|Teoria dei grafi]]
-**Area:** [[Combinatoria, Logica e Probabilita]]
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_grafi|Teoria dei grafi]], [[method_induzione|Induzione]]
+**Abilita:** [[skill_astrazione|Astrazione / generalizzazione]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1xM_ANkU3j9TgvWtq9nZKkGrXElMK5J4e/view)
 
 
@@ -142,15 +146,15 @@ level: IMO
 >
 > [A graph is a set of points, called vertices, together with a set of edges joining certain pairs of distinct vertices. Each pair of vertices $u$, $v$ belongs to at most one edge. The graph $G$ is connected if, for every pair of distinct vertices $x$, $y$, there exists a sequence of vertices $x = v_0, v_1, v_2, \ldots, v_m = y$ such that each pair $v_i, v_{i+1}$ (with $0 \leq i < m$) is joined by an edge of $G$.]
 
-**Topic:** [[topic_combinatoria|Combinatorics]]
-**Method:** [[method_grafi|Graph theory]]
-**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
-[[Quesiti/src_imo_1991#q04|src_imo_1991__Q04]]
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_grafi|Graph theory]], [[method_induzione|Induction]]
+**Abilita:** [[skill_astrazione|Abstraction / generalisation]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
 
 
-<span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_geometria_piana,method_disuguaglianze"></span>
+<span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_geometria_piana,topic_trigonometria,method_disuguaglianze,method_trigonometria,skill_ragionamento_geometrico"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -159,8 +163,9 @@ level: IMO
 
 > Sia $ABC$ un triangolo e $P$ un punto interno ad $ABC$. Dimostrare che almeno uno degli angoli $\angle PAB$, $\angle PBC$, $\angle PCA$ è minore o uguale a $30°$.
 
-**Topic:** [[topic_geometria_piana|Geometria piana]]
-**Metodo:** [[method_disuguaglianze|Disuguaglianze classiche]]
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometria]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze classiche]], [[method_trigonometria|Tecniche trigonometriche]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1xM_ANkU3j9TgvWtq9nZKkGrXElMK5J4e/view)
 
@@ -172,15 +177,15 @@ level: IMO
 
 > Let $ABC$ be a triangle and $P$ a point inside $ABC$. Prove that at least one of the angles $\angle PAB$, $\angle PBC$, $\angle PCA$ is less than or equal to $30°$.
 
-**Topic:** [[topic_geometria_piana|Plane geometry]]
-**Method:** [[method_disuguaglianze|Classical inequalities]]
+
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_trigonometria|Trigonometry]]
+**Metodo:** [[method_disuguaglianze|Classical inequalities]], [[method_trigonometria|Trigonometric techniques]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
 **Area:** [[Geometria|Geometry]]
 
-[[Quesiti/src_imo_1991#q05|src_imo_1991__Q05]]
 
 
-
-<span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_funzionali,topic_algebra,method_ricorsione,skill_astrazione"></span>
+<span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_funzionali,topic_algebra,method_ricorsione,skill_astrazione,skill_stima"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -193,7 +198,7 @@ level: IMO
 
 **Topic:** [[topic_funzionali|Equazioni funzionali / successioni]], [[topic_algebra|Algebra]]
 **Metodo:** [[method_ricorsione|Ricorsione]]
-**Abilita:** [[skill_astrazione|Astrazione / generalizzazione]]
+**Abilita:** [[skill_astrazione|Astrazione / generalizzazione]], [[skill_stima|Stima e approssimazione]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1xM_ANkU3j9TgvWtq9nZKkGrXElMK5J4e/view)
 
@@ -207,9 +212,8 @@ level: IMO
 > $$|x_i - x_j| \cdot |i - j|^a \geq 1$$
 > for every pair of distinct non-negative integers $i$, $j$.
 
-**Topic:** [[topic_funzionali|Functional equations / sequences]], [[topic_algebra|Algebra]]
-**Method:** [[method_ricorsione|Recursion]]
-**Skill:** [[skill_astrazione|Abstraction / generalisation]]
-**Area:** [[Algebra e Analisi|Algebra and analysis]]
 
-[[Quesiti/src_imo_1991#q06|src_imo_1991__Q06]]
+**Topic:** [[topic_funzionali|Functional equations / sequences]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_ricorsione|Recursion]]
+**Abilita:** [[skill_astrazione|Abstraction / generalisation]], [[skill_stima|Estimation and approximation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]

@@ -12,9 +12,6 @@ level: Concours Général
 
 <span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_geometria_solida,topic_insiemi_funzioni,method_estremalita,skill_manipolazione_algebrica,skill_ragionamento_geometrico,skill_modellizzazione"></span>
 
-<div class="qlang-switch" data-default="fr"></div>
-
-
 *Cylindre et boule de volume maximal intérieurs à un cône, de même axe*
 
 > **Exercice 1**
@@ -32,24 +29,20 @@ level: Concours Général
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1JvsCzjRnnPAUly3v0n_ZdCtRDezRfyW_/view)
 
 
-<div class="qlang-split" data-lang="it"></div>
 
+<span class="atom-split" id="q01__en" data-atom="q01__en" data-title="Q01__EN" data-tags=""></span>
 
-*Cilindro e sfera di volume massimo interni a un cono, con lo stesso asse*
-
-> **Esercizio 1**
->
-> Qual è il volume massimo di un cilindro che ha lo stesso asse di rivoluzione di un cono dato ed è interno a questo cono?
->
-> Qual è il volume massimo di una sfera, centrata su questo asse e interna al cono?
->
-> Confrontare i due massimi trovati.
-
-[[Quesiti/src_cgen_1999#q01|src_cgen_1999__Q01]]
-
-
-<div class="qlang-split" data-lang="en"></div>
-
+---
+tipo: quesito-translation
+translation_of: src_cgen_1999__Q01
+lang: en
+secondary: true
+title: "Concours Général des Lycées 1999 — Exercise 1"
+summary: "Cylinder and ball of maximal volume inside a cone, with the same axis"
+topics: [topic_geometria_solida, topic_insiemi_funzioni]
+methods: [method_estremalita]
+skills: [skill_manipolazione_algebrica, skill_ragionamento_geometrico, skill_modellizzazione]
+tags: [kg/translation, topic/geometria_solida, topic/insiemi_funzioni]---
 
 *Cylinder and ball of maximal volume inside a cone, with the same axis*
 
@@ -61,11 +54,47 @@ level: Concours Général
 >
 > Compare the two maxima found.
 
+**Topic:** [[topic_geometria_solida|Solid geometry]], [[topic_insiemi_funzioni|Sets and functions]]
+**Metodo:** [[method_estremalita|Extremal principle]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Geometria|Geometry]], [[Algebra e Analisi|Algebra and analysis]]
 [[Quesiti/src_cgen_1999#q01|src_cgen_1999__Q01]]
 
 
 
-<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_aritmetica,topic_algebra,method_casework,method_fattorizzazione,skill_manipolazione_algebrica,skill_lettura_attenta,skill_conteggio_sistematico"></span>
+<span class="atom-split" id="q01__it" data-atom="q01__it" data-title="Q01__IT" data-tags=""></span>
+
+---
+tipo: quesito-translation
+translation_of: src_cgen_1999__Q01
+lang: it
+secondary: true
+title: "Concours Général des Lycées 1999 — Esercizio 1"
+summary: "Cilindro e sfera di volume massimo interni a un cono, con lo stesso asse"
+topics: [topic_geometria_solida, topic_insiemi_funzioni]
+methods: [method_estremalita]
+skills: [skill_manipolazione_algebrica, skill_ragionamento_geometrico, skill_modellizzazione]
+tags: [kg/translation, topic/geometria_solida, topic/insiemi_funzioni]---
+
+*Cilindro e sfera di volume massimo interni a un cono, con lo stesso asse*
+
+> **Esercizio 1**
+>
+> Qual è il volume massimo di un cilindro che ha lo stesso asse di rivoluzione di un cono dato ed è interno a questo cono?
+>
+> Qual è il volume massimo di una sfera, centrata su questo asse e interna al cono?
+>
+> Confrontare i due massimi trovati.
+
+**Topic:** [[topic_geometria_solida|Geometria solida]], [[topic_insiemi_funzioni|Insiemi e funzioni]]
+**Metodo:** [[method_estremalita|Principio di estremalita]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
+**Area:** [[Geometria]], [[Algebra e Analisi]]
+[[Quesiti/src_cgen_1999#q01|src_cgen_1999__Q01]]
+
+
+
+<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_aritmetica,topic_algebra,method_casework,method_fattorizzazione,method_disuguaglianze,skill_manipolazione_algebrica,skill_lettura_attenta,skill_conteggio_sistematico,skill_stima"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -76,9 +105,9 @@ level: Concours Général
 > $$( n+3)^{n} = \sum_{k=1}^{n+2} k^{n}$$
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
-**Metodo:** [[method_casework|Casework]], [[method_fattorizzazione|Fattorizzazione]]
-**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_conteggio_sistematico|Conteggio sistematico]]
-**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
+**Metodo:** [[method_casework|Casework]], [[method_fattorizzazione|Fattorizzazione]], [[method_disuguaglianze|Classical inequalities]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_stima|Estimation and approximation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Algebra e Analisi|Algebra and analysis]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1JvsCzjRnnPAUly3v0n_ZdCtRDezRfyW_/view)
 
 
@@ -89,14 +118,14 @@ level: Concours Général
 
 > Risolvere in $\mathbb{N}$ l'equazione in $n$: $$( n+3)^{n} = \sum_{k=1}^{n+2} k^{n}$$
 
-[[Quesiti/src_cgen_1999#q02|src_cgen_1999__Q02]]
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_casework|Analisi per casi]], [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]], [[method_disuguaglianze|Disuguaglianze classiche]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta del testo]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_stima|Stima e approssimazione]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 
 
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_geometria_piana,topic_trigonometria,method_estremalita,method_trigonometria,skill_ragionamento_geometrico,skill_manipolazione_algebrica,skill_modellizzazione"></span>
-
-<div class="qlang-switch" data-default="fr"></div>
-
 
 *Triangles acutangles maximisant le plus petit côté divisé par le rayon du cercle inscrit*
 
@@ -111,20 +140,20 @@ level: Concours Général
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1JvsCzjRnnPAUly3v0n_ZdCtRDezRfyW_/view)
 
 
-<div class="qlang-split" data-lang="it"></div>
 
+<span class="atom-split" id="q03__en" data-atom="q03__en" data-title="Q03__EN" data-tags=""></span>
 
-*Triangoli acutangoli che massimizzano il lato più piccolo diviso per l'inraggio*
-
-> **Esercizio 3**
->
-> Per quali triangoli con tutti gli angoli acuti il quoziente del lato più piccolo per il raggio del cerchio inscritto è massimo?
-
-[[Quesiti/src_cgen_1999#q03|src_cgen_1999__Q03]]
-
-
-<div class="qlang-split" data-lang="en"></div>
-
+---
+tipo: quesito-translation
+translation_of: src_cgen_1999__Q03
+lang: en
+secondary: true
+title: "Concours Général des Lycées 1999 — Exercise 3"
+summary: "Acute triangles maximising the smallest side divided by the inradius"
+topics: [topic_geometria_piana, topic_trigonometria]
+methods: [method_estremalita, method_trigonometria]
+skills: [skill_ragionamento_geometrico, skill_manipolazione_algebrica, skill_modellizzazione]
+tags: [kg/translation, topic/geometria_piana, topic/trigonometria]---
 
 *Acute triangles maximising the smallest side divided by the inradius*
 
@@ -132,14 +161,43 @@ level: Concours Général
 >
 > For which triangles with all angles acute is the quotient of the smallest side by the inradius maximal?
 
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_trigonometria|Trigonometry]]
+**Metodo:** [[method_estremalita|Extremal principle]], [[method_trigonometria|Trigonometric techniques]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Geometria|Geometry]]
+[[Quesiti/src_cgen_1999#q03|src_cgen_1999__Q03]]
+
+
+
+<span class="atom-split" id="q03__it" data-atom="q03__it" data-title="Q03__IT" data-tags=""></span>
+
+---
+tipo: quesito-translation
+translation_of: src_cgen_1999__Q03
+lang: it
+secondary: true
+title: "Concours Général des Lycées 1999 — Esercizio 3"
+summary: "Triangoli acutangoli che massimizzano il lato più piccolo diviso per l'inraggio"
+topics: [topic_geometria_piana, topic_trigonometria]
+methods: [method_estremalita, method_trigonometria]
+skills: [skill_ragionamento_geometrico, skill_manipolazione_algebrica, skill_modellizzazione]
+tags: [kg/translation, topic/geometria_piana, topic/trigonometria]---
+
+*Triangoli acutangoli che massimizzano il lato più piccolo diviso per l'inraggio*
+
+> **Esercizio 3**
+>
+> Per quali triangoli con tutti gli angoli acuti il quoziente del lato più piccolo per il raggio del cerchio inscritto è massimo?
+
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometria]]
+**Metodo:** [[method_estremalita|Principio di estremalita]], [[method_trigonometria|Tecniche trigonometriche]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
+**Area:** [[Geometria]]
 [[Quesiti/src_cgen_1999#q03|src_cgen_1999__Q03]]
 
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_probabilita,topic_combinatoria,method_invarianti,method_induzione,method_casework,skill_modellizzazione,skill_ragionamento_geometrico,skill_lettura_attenta,skill_conteggio_sistematico"></span>
-
-<div class="qlang-switch" data-default="fr"></div>
-
 
 *1999 bonbons rouges et 6661 jaunes : le dernier mangé est rouge avec quelle probabilité ?*
 
@@ -165,31 +223,20 @@ level: Concours Général
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1JvsCzjRnnPAUly3v0n_ZdCtRDezRfyW_/view)
 
 
-<div class="qlang-split" data-lang="it"></div>
 
+<span class="atom-split" id="q04__en" data-atom="q04__en" data-title="Q04__EN" data-tags=""></span>
 
-*1999 caramelle rosse e 6661 gialle: probabilità che l'ultima mangiata sia rossa*
-
-> **Esercizio 4**
->
-> Su un tavolo ci sono $1999$ caramelle rosse e $6661$ caramelle gialle, rese indistinguibili da involucri uniformi.
->
-> Un goloso applica fino a esaurimento delle scorte l'algoritmo seguente:
->
-> a) Se restano caramelle, ne pesca una a caso, ne annota il colore, la mangia e va in b);
->
-> b) Se restano caramelle, ne pesca una a caso e ne annota il colore:
->
-> - se è lo stesso dell'ultima caramella mangiata, la mangia e torna in b);
-> - altrimenti, la reimpacchetta, la posa e torna in a).
->
-> Dimostrare che tutte le caramelle saranno mangiate, e dare la probabilità che l'ultima caramella mangiata sia rossa.
-
-[[Quesiti/src_cgen_1999#q04|src_cgen_1999__Q04]]
-
-
-<div class="qlang-split" data-lang="en"></div>
-
+---
+tipo: quesito-translation
+translation_of: src_cgen_1999__Q04
+lang: en
+secondary: true
+title: "Concours Général des Lycées 1999 — Exercise 4"
+summary: "1999 red sweets and 6661 yellow ones: probability that the last one eaten is red"
+topics: [topic_probabilita, topic_combinatoria]
+methods: [method_invarianti, method_induzione, method_casework]
+skills: [skill_modellizzazione, skill_ragionamento_geometrico, skill_lettura_attenta, skill_conteggio_sistematico]
+tags: [kg/translation, topic/probabilita, topic/combinatoria]---
 
 *1999 red sweets and 6661 yellow ones: probability that the last one eaten is red*
 
@@ -208,14 +255,54 @@ level: Concours Général
 >
 > Prove that all the sweets will be eaten, and give the probability that the last sweet eaten is red.
 
+**Topic:** [[topic_probabilita|Probability and statistics]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_invarianti|Invariants / monovariants]], [[method_induzione|Induction]], [[method_casework|Case analysis]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]], [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_lettura_attenta|Careful reading of the text]], [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+[[Quesiti/src_cgen_1999#q04|src_cgen_1999__Q04]]
+
+
+
+<span class="atom-split" id="q04__it" data-atom="q04__it" data-title="Q04__IT" data-tags=""></span>
+
+---
+tipo: quesito-translation
+translation_of: src_cgen_1999__Q04
+lang: it
+secondary: true
+title: "Concours Général des Lycées 1999 — Esercizio 4"
+summary: "1999 caramelle rosse e 6661 gialle: probabilità che l'ultima mangiata sia rossa"
+topics: [topic_probabilita, topic_combinatoria]
+methods: [method_invarianti, method_induzione, method_casework]
+skills: [skill_modellizzazione, skill_ragionamento_geometrico, skill_lettura_attenta, skill_conteggio_sistematico]
+tags: [kg/translation, topic/probabilita, topic/combinatoria]---
+
+*1999 caramelle rosse e 6661 gialle: probabilità che l'ultima mangiata sia rossa*
+
+> **Esercizio 4**
+>
+> Su un tavolo ci sono $1999$ caramelle rosse e $6661$ caramelle gialle, rese indistinguibili da involucri uniformi.
+>
+> Un goloso applica fino a esaurimento delle scorte l'algoritmo seguente:
+>
+> a) Se restano caramelle, ne pesca una a caso, ne annota il colore, la mangia e va in b);
+>
+> b) Se restano caramelle, ne pesca una a caso e ne annota il colore:
+>
+> - se è lo stesso dell'ultima caramella mangiata, la mangia e torna in b);
+> - altrimenti, la reimpacchetta, la posa e torna in a).
+>
+> Dimostrare che tutte le caramelle saranno mangiate, e dare la probabilità che l'ultima caramella mangiata sia rossa.
+
+**Topic:** [[topic_probabilita|Probabilita e statistica]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_invarianti|Invarianti / monovarianti]], [[method_induzione|Induzione]], [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta del testo]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
 [[Quesiti/src_cgen_1999#q04|src_cgen_1999__Q04]]
 
 
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_geometria_piana,topic_geometria_analitica,method_coordinate,method_simmetria,skill_ragionamento_geometrico,skill_manipolazione_algebrica,skill_astrazione"></span>
-
-<div class="qlang-switch" data-default="fr"></div>
-
 
 *Symétriques des sommets alignés si et seulement si OH égale le diamètre*
 
@@ -230,20 +317,20 @@ level: Concours Général
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1JvsCzjRnnPAUly3v0n_ZdCtRDezRfyW_/view)
 
 
-<div class="qlang-split" data-lang="it"></div>
 
+<span class="atom-split" id="q05__en" data-atom="q05__en" data-title="Q05__EN" data-tags=""></span>
 
-*I simmetrici dei vertici sono allineati se e solo se OH è uguale al diametro*
-
-> **Esercizio 5**
->
-> Dimostrare che i simmetrici di ciascun vertice di un triangolo rispetto al lato opposto sono allineati se e solo se la distanza dall'ortocentro al centro del cerchio circoscritto è uguale al diametro di questo cerchio.
-
-[[Quesiti/src_cgen_1999#q05|src_cgen_1999__Q05]]
-
-
-<div class="qlang-split" data-lang="en"></div>
-
+---
+tipo: quesito-translation
+translation_of: src_cgen_1999__Q05
+lang: en
+secondary: true
+title: "Concours Général des Lycées 1999 — Exercise 5"
+summary: "Reflections of the vertices are collinear if and only if OH equals the diameter"
+topics: [topic_geometria_piana, topic_geometria_analitica]
+methods: [method_coordinate, method_simmetria]
+skills: [skill_ragionamento_geometrico, skill_manipolazione_algebrica, skill_astrazione]
+tags: [kg/translation, topic/geometria_piana, topic/geometria_analitica]---
 
 *Reflections of the vertices are collinear if and only if OH equals the diameter*
 
@@ -251,4 +338,36 @@ level: Concours Général
 >
 > Prove that the reflections of each vertex of a triangle across the opposite side are collinear if and only if the distance from the orthocentre to the circumcentre is equal to the diameter of that circle.
 
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_geometria_analitica|Coordinate geometry]]
+**Metodo:** [[method_coordinate|Coordinate method]], [[method_simmetria|Using symmetry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_astrazione|Abstraction / generalisation]]
+**Area:** [[Geometria|Geometry]]
+[[Quesiti/src_cgen_1999#q05|src_cgen_1999__Q05]]
+
+
+
+<span class="atom-split" id="q05__it" data-atom="q05__it" data-title="Q05__IT" data-tags=""></span>
+
+---
+tipo: quesito-translation
+translation_of: src_cgen_1999__Q05
+lang: it
+secondary: true
+title: "Concours Général des Lycées 1999 — Esercizio 5"
+summary: "I simmetrici dei vertici sono allineati se e solo se OH è uguale al diametro"
+topics: [topic_geometria_piana, topic_geometria_analitica]
+methods: [method_coordinate, method_simmetria]
+skills: [skill_ragionamento_geometrico, skill_manipolazione_algebrica, skill_astrazione]
+tags: [kg/translation, topic/geometria_piana, topic/geometria_analitica]---
+
+*I simmetrici dei vertici sono allineati se e solo se OH è uguale al diametro*
+
+> **Esercizio 5**
+>
+> Dimostrare che i simmetrici di ciascun vertice di un triangolo rispetto al lato opposto sono allineati se e solo se la distanza dall'ortocentro al centro del cerchio circoscritto è uguale al diametro di questo cerchio.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_geometria_analitica|Geometria analitica]]
+**Metodo:** [[method_coordinate|Metodo delle coordinate]], [[method_simmetria|Sfruttamento della simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione / generalizzazione]]
+**Area:** [[Geometria]]
 [[Quesiti/src_cgen_1999#q05|src_cgen_1999__Q05]]

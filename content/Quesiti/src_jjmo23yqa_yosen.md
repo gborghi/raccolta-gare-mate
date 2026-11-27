@@ -41,11 +41,9 @@ level: JJMO Yosen
 
 **Risposta:** 675
 
-[[Quesiti/src_jjmo23yqa_yosen#q01|src_jjmo23yqa_yosen__Q01]]
 
 
-
-<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_combinatoria,method_casework,method_conteggio,skill_conteggio_sistematico,skill_modellizzazione"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_combinatoria,method_casework,method_conteggio,method_doppio_conteggio,skill_conteggio_sistematico,skill_modellizzazione,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -54,12 +52,12 @@ level: JJMO Yosen
 
 > As shown in the figure, there are 6 lines and 8 points (marked with $\bullet$). Assign a distinct positive integer to each point (not necessarily consecutive). Count the number of ways to do this such that, for each of the 6 lines, the sum of the integers at the 3 points lying on that line equals $10$. Assignments that differ by a rotation or reflection of the figure are counted as different.
 
-![[src_jjmo23yqa_yosen__q02.png]]
+![[src_jjmo23yqa_yosen__Q02.png]]
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
-**Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]]
-**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione]]
-**Area:** [[Combinatoria, Logica e Probabilita]]
+**Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]], [[method_doppio_conteggio|Double counting]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione]], [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Risposta:** 36
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1ryLIQ7p6YVxrUfIGz0GlvSD0hn_g1ejO/view)
 
@@ -71,14 +69,13 @@ level: JJMO Yosen
 
 > Come mostrato nella figura, ci sono 6 rette e 8 punti (contrassegnati con $\bullet$). Assegna un numero intero positivo distinto a ciascun punto (non necessariamente consecutivi). Conta il numero di modi per farlo tali che, per ciascuna delle 6 rette, la somma dei numeri interi associati ai 3 punti che giacciono su quella retta sia uguale a $10$. Le assegnazioni che differiscono per una rotazione o una riflessione della figura sono considerate diverse.
 
-![[src_jjmo23yqa_yosen__q02.png]]
+![[src_jjmo23yqa_yosen__Q02.png]]
+
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
-**Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]]
-**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione]]
+**Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]], [[method_doppio_conteggio|Doppio conteggio]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
-
-[[Quesiti/src_jjmo23yqa_yosen#q02|src_jjmo23yqa_yosen__Q02]]
 
 
 
@@ -91,7 +88,7 @@ level: JJMO Yosen
 
 > Triangle $ABC$ has $AC = 5$. Point $D$ lies on side $BC$ (excluding the endpoints) with $CD = 4$. Let $E$ be the second intersection of line $AD$ with the circumcircle of triangle $ABC$ (i.e., the intersection other than $A$). Let $F$ be the intersection of the line through $D$ parallel to $BE$ with side $AB$. Given $DE = 3$ and $DF = 2$, find the length of segment $BD$. (Here $XY$ denotes the length of segment $XY$.)
 
-![[src_jjmo23yqa_yosen__q03.png]]
+![[src_jjmo23yqa_yosen__Q03.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_coordinate|Coordinate]], [[method_simmetria|Simmetria]]
@@ -108,18 +105,16 @@ level: JJMO Yosen
 
 > Il triangolo $ABC$ ha $AC = 5$. Il punto $D$ giace sul lato $BC$ (escludendo gli estremi) con $CD = 4$. Sia $E$ il secondo punto d'intersezione della retta $AD$ con la circonferenza circoscritta al triangolo $ABC$ (ossia l'intersezione diversa da $A$). Sia $F$ l'intersezione della retta passante per $D$ e parallela a $BE$ con il lato $AB$. Dati $DE = 3$ e $DF = 2$, determinare la lunghezza del segmento $BD$. (Qui $XY$ denota la lunghezza del segmento $XY$.)
 
-![[src_jjmo23yqa_yosen__q03.png]]
+![[src_jjmo23yqa_yosen__Q03.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_coordinate|Coordinate]], [[method_simmetria|Simmetria]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 
-[[Quesiti/src_jjmo23yqa_yosen#q03|src_jjmo23yqa_yosen__Q03]]
 
 
-
-<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_combinatoria,method_casework,method_conteggio,skill_conteggio_sistematico,skill_ragionamento_geometrico"></span>
+<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_combinatoria,method_casework,method_conteggio,skill_conteggio_sistematico,skill_ragionamento_geometrico,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -128,12 +123,12 @@ level: JJMO Yosen
 
 > Consider a figure composed of $48$ equilateral triangles of side length $1$, arranged as shown (forming a larger regular hexagonal shape). Count the number of ways to tile this figure with non-overlapping regular hexagons of side length $1$ (each composed of 6 unit triangles), so that every unit triangle is covered by exactly one hexagon. Tilings that differ by a rotation or reflection of the entire figure are counted as different.
 
-![[src_jjmo23yqa_yosen__q04.png]]
+![[src_jjmo23yqa_yosen__Q04.png]]
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]]
-**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
-**Area:** [[Combinatoria, Logica e Probabilita]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Risposta:** 24
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1ryLIQ7p6YVxrUfIGz0GlvSD0hn_g1ejO/view)
 
@@ -145,14 +140,13 @@ level: JJMO Yosen
 
 > Si consideri una figura composta da $48$ triangoli equilateri di lato $1$, disposti come mostrato (formando una forma esagonale regolare più grande). Si conti il numero di modi per rivestire questa figura con esagoni regolari non sovrapposti di lato $1$ (ciascuno composto da 6 triangoli unitari), in modo che ogni triangolo unitario sia coperto da esattamente un esagono. I rivestimenti che differiscono per una rotazione o una riflessione dell'intera figura sono considerati diversi.
 
-![[src_jjmo23yqa_yosen__q04.png]]
+![[src_jjmo23yqa_yosen__Q04.png]]
+
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]]
-**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
-
-[[Quesiti/src_jjmo23yqa_yosen#q04|src_jjmo23yqa_yosen__Q04]]
 
 
 
@@ -185,8 +179,6 @@ level: JJMO Yosen
 **Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_modellizzazione|Modellizzazione]], [[skill_stima|Stima]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 
-[[Quesiti/src_jjmo23yqa_yosen#q05|src_jjmo23yqa_yosen__Q05]]
-
 
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_algebra,topic_aritmetica,method_fattorizzazione,method_casework,method_conteggio,skill_manipolazione_algebrica,skill_conteggio_sistematico"></span>
@@ -217,8 +209,6 @@ level: JJMO Yosen
 **Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_casework|Casework]], [[method_conteggio|Conteggio]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
-
-[[Quesiti/src_jjmo23yqa_yosen#q06|src_jjmo23yqa_yosen__Q06]]
 
 
 
@@ -251,11 +241,9 @@ level: JJMO Yosen
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 
-[[Quesiti/src_jjmo23yqa_yosen#q07|src_jjmo23yqa_yosen__Q07]]
 
 
-
-<span class="atom-split" id="q08" data-atom="q08" data-title="Quesito 8" data-tags="topic_aritmetica,topic_combinatoria,method_congruenze,method_casework,method_estremalita,skill_manipolazione_algebrica,skill_lettura_attenta,skill_ragionamento_geometrico"></span>
+<span class="atom-split" id="q08" data-atom="q08" data-title="Quesito 8" data-tags="topic_aritmetica,topic_combinatoria,method_congruenze,method_casework,method_estremalita,skill_manipolazione_algebrica,skill_lettura_attenta,skill_ragionamento_geometrico,skill_riconoscimento_pattern"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -266,8 +254,8 @@ level: JJMO Yosen
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_congruenze|Congruenze]], [[method_casework|Casework]], [[method_estremalita|Estremalità]]
-**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
-**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Risposta:** 36
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1ryLIQ7p6YVxrUfIGz0GlvSD0hn_g1ejO/view)
 
@@ -279,12 +267,11 @@ level: JJMO Yosen
 
 > Sia $n$ un numero intero maggiore di $1$. Su ciascuna delle $n$ carte è scritto un numero intero. Si supponga che valga la seguente condizione: qualunque siano le $n - 4$ carte scelte (tra le $n$ carte), la media dei numeri interi scritti su quelle carte è un numero intero. Determinare il valore minimo di $n$ per cui vale necessariamente anche la seguente affermazione: qualunque siano le $n - 3$ carte scelte, anche la media dei numeri interi scritti su quelle carte è un numero intero.
 
+
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_congruenze|Congruenze]], [[method_casework|Casework]], [[method_estremalita|Estremalità]]
-**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
-
-[[Quesiti/src_jjmo23yqa_yosen#q08|src_jjmo23yqa_yosen__Q08]]
 
 
 
@@ -317,11 +304,9 @@ level: JJMO Yosen
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 
-[[Quesiti/src_jjmo23yqa_yosen#q09|src_jjmo23yqa_yosen__Q09]]
 
 
-
-<span class="atom-split" id="q10" data-atom="q10" data-title="Quesito 10" data-tags="topic_combinatoria,method_conteggio,method_casework,method_invarianti,skill_conteggio_sistematico,skill_modellizzazione,skill_lettura_attenta"></span>
+<span class="atom-split" id="q10" data-atom="q10" data-title="Quesito 10" data-tags="topic_combinatoria,method_conteggio,method_casework,method_invarianti,method_grafi,skill_conteggio_sistematico,skill_modellizzazione,skill_lettura_attenta,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -337,9 +322,9 @@ level: JJMO Yosen
 > Count the number of ways to color such a configuration. Colorings that are related by rotation or reflection are counted as different.
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
-**Metodo:** [[method_conteggio|Conteggio]], [[method_casework|Casework]], [[method_invarianti|Invarianti]]
-**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione]], [[skill_lettura_attenta|Lettura attenta]]
-**Area:** [[Combinatoria, Logica e Probabilita]]
+**Metodo:** [[method_conteggio|Conteggio]], [[method_casework|Casework]], [[method_invarianti|Invarianti]], [[method_grafi|Graph theory]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione]], [[skill_lettura_attenta|Lettura attenta]], [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Risposta:** 1136
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1ryLIQ7p6YVxrUfIGz0GlvSD0hn_g1ejO/view)
 
@@ -357,12 +342,11 @@ level: JJMO Yosen
 >
 > Conta il numero di modi per colorare una tale configurazione. Le colorazioni che sono correlate da rotazione o riflessione sono conteggiate come diverse.
 
-**Topic:** [[topic_combinatoria|Combinatoria]]
-**Metodo:** [[method_conteggio|Conteggio]], [[method_casework|Casework]], [[method_invarianti|Invarianti]]
-**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione]], [[skill_lettura_attenta|Lettura attenta]]
-**Area:** [[Combinatoria, Logica e Probabilita]]
 
-[[Quesiti/src_jjmo23yqa_yosen#q10|src_jjmo23yqa_yosen__Q10]]
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_conteggio|Conteggio]], [[method_casework|Casework]], [[method_invarianti|Invarianti]], [[method_grafi|Teoria dei grafi]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione]], [[skill_lettura_attenta|Lettura attenta]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
 
 
 
@@ -405,11 +389,9 @@ level: JJMO Yosen
 **Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_lettura_attenta|Lettura attenta]], [[skill_modellizzazione|Modellizzazione]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Algebra e Analisi]]
 
-[[Quesiti/src_jjmo23yqa_yosen#q11|src_jjmo23yqa_yosen__Q11]]
 
 
-
-<span class="atom-split" id="q12" data-atom="q12" data-title="Quesito 12" data-tags="topic_combinatoria,topic_probabilita,method_conteggio,method_doppio_conteggio,method_casework,skill_conteggio_sistematico,skill_modellizzazione,skill_ragionamento_geometrico"></span>
+<span class="atom-split" id="q12" data-atom="q12" data-title="Quesito 12" data-tags="topic_combinatoria,topic_probabilita,method_conteggio,method_doppio_conteggio,method_casework,method_grafi,skill_conteggio_sistematico,skill_modellizzazione,skill_ragionamento_geometrico,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -421,9 +403,9 @@ level: JJMO Yosen
 > For each integer $m \ge 3$, let $f(m)$ be the minimum number of wins that is sufficient to guarantee that there exists a good group of exactly size $m$ among the players. Let $N$ be the total number of tournament result assignments (i.e., for each match, choosing a winner) such that $f(m) \le m$ for every $m \ge 3$. Find the value of $\dfrac{N}{1003!} \pmod{\dfrac{1}{5^{197}}}$, where $1003! = 1 \times 2 \times \cdots \times 1003$.
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_probabilita|Probabilità]]
-**Metodo:** [[method_conteggio|Conteggio]], [[method_doppio_conteggio|Doppio conteggio]], [[method_casework|Casework]]
-**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
-**Area:** [[Combinatoria, Logica e Probabilita]]
+**Metodo:** [[method_conteggio|Conteggio]], [[method_doppio_conteggio|Doppio conteggio]], [[method_casework|Casework]], [[method_grafi|Graph theory]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Risposta:** $\frac{1206}{5^{197}}$
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1ryLIQ7p6YVxrUfIGz0GlvSD0hn_g1ejO/view)
 
@@ -437,9 +419,8 @@ level: JJMO Yosen
 >
 > Per ogni intero $m \ge 3$, si ponga $f(m)$ come il numero minimo di vittorie sufficiente a garantire l'esistenza di un gruppo buono di dimensione esattamente $m$ tra i giocatori. Si ponga $N$ come il numero totale di assegnazioni dei risultati del torneo (ossia, per ogni partita, la scelta di un vincitore) tali che $f(m) \le m$ per ogni $m \ge 3$. Si determini il valore di $\dfrac{N}{1003!} \pmod{\dfrac{1}{5^{197}}}$, dove $1003! = 1 \times 2 \times \cdots \times 1003$.
 
-**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_probabilita|Probabilità]]
-**Metodo:** [[method_conteggio|Conteggio]], [[method_doppio_conteggio|Doppio conteggio]], [[method_casework|Casework]]
-**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
-**Area:** [[Combinatoria, Logica e Probabilita]]
 
-[[Quesiti/src_jjmo23yqa_yosen#q12|src_jjmo23yqa_yosen__Q12]]
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_probabilita|Probabilità]]
+**Metodo:** [[method_conteggio|Conteggio]], [[method_doppio_conteggio|Doppio conteggio]], [[method_casework|Casework]], [[method_grafi|Teoria dei grafi]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Combinatoria, Logica e Probabilita]]

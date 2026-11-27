@@ -10,7 +10,7 @@ level: China Southeastern Mathematical Olympiad
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_algebra,topic_aritmetica,method_casework,method_fattorizzazione,skill_manipolazione_algebrica,skill_ragionamento_geometrico,skill_lettura_attenta"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_algebra,topic_aritmetica,method_casework,method_fattorizzazione,skill_manipolazione_algebrica,skill_ragionamento_geometrico,skill_lettura_attenta,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -21,8 +21,8 @@ level: China Southeastern Mathematical Olympiad
 
 **Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_casework|Casework]], [[method_fattorizzazione|Fattorizzazione]]
-**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
-**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1cjmD7lTT4vb3nB3ylcVCHeHucUE2rNI0/view)
 
 
@@ -33,12 +33,11 @@ level: China Southeastern Mathematical Olympiad
 
 > Siano $a$, $b$, $c \in \{0, 1, 2, \ldots, 9\}$. L'equazione quadratica $ax^2 + bx + c = 0$ ha una radice razionale. Dimostrare che il numero di tre cifre $\overline{abc}$ non è un numero primo.
 
+
 **Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_casework|Casework]], [[method_fattorizzazione|Fattorizzazione]]
-**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
-
-[[Quesiti/src_cn_csmo_2010#q01|src_cn_csmo_2010__Q01]]
 
 
 
@@ -70,8 +69,6 @@ level: China Southeastern Mathematical Olympiad
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 
-[[Quesiti/src_cn_csmo_2010#q02|src_cn_csmo_2010__Q02]]
-
 
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_geometria_piana,method_trigonometria,method_simmetria,skill_ragionamento_geometrico,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
@@ -83,7 +80,7 @@ level: China Southeastern Mathematical Olympiad
 
 > As shown in Fig. 3.1. Let the inscribed circle $I$ of $\triangle ABC$ touch $BC$ and $AB$ at $D$ and $F$, respectively. Let $I$ intersect the segments $AD$ and $CF$ at $H$ and $K$, respectively. Prove that $$\frac{FD \times HK}{FH \times DK} = 3.$$
 
-![[src_cn_csmo_b11_w277__q03.png]]
+![[src_cn_csmo_b11_w277__Q03.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_trigonometria|Trigonometria]], [[method_simmetria|Simmetria]]
@@ -99,14 +96,12 @@ level: China Southeastern Mathematical Olympiad
 
 > Come mostrato nella Fig. 3.1. Sia $I$ il cerchio inscritto in $\triangle ABC$; esso tocchi $BC$ e $AB$ rispettivamente in $D$ e $F$. Sia $I$ tale che intersechi i segmenti $AD$ e $CF$ rispettivamente in $H$ e $K$. Dimostrare che $$\frac{FD \times HK}{FH \times DK} = 3.$$
 
-![[src_cn_csmo_b11_w277__q03.png]]
+![[src_cn_csmo_b11_w277__Q03.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_trigonometria|Trigonometria]], [[method_simmetria|Simmetria]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Geometria]]
-
-[[Quesiti/src_cn_csmo_2010#q03|src_cn_csmo_2010__Q03]]
 
 
 
@@ -138,8 +133,6 @@ level: China Southeastern Mathematical Olympiad
 **Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 
-[[Quesiti/src_cn_csmo_2010#q04|src_cn_csmo_2010__Q04]]
-
 
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_geometria_piana,topic_disuguaglianze,method_disuguaglianze,method_simmetria,skill_ragionamento_geometrico,skill_manipolazione_algebrica,skill_stima"></span>
@@ -151,7 +144,7 @@ level: China Southeastern Mathematical Olympiad
 
 > As shown in Fig. 5.1. Let $C$ be the right angle of $\triangle ABC$. Let $M_1$ and $M_2$ be two arbitrary points inside $\triangle ABC$, and let $M$ be the midpoint of $M_1 M_2$. The extensions of $BM_1$, $BM_2$, and $BM$ intersect $AC$ at $N_1$, $N_2$, and $N$, respectively. Prove that $$\frac{M_1 N_1}{BM_1} + \frac{M_2 N_2}{BM_2} \ge \frac{MN}{BM}.$$
 
-![[src_cn_csmo_b11_w277__q05.png]]
+![[src_cn_csmo_b11_w277__Q05.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_disuguaglianze|Disuguaglianze]]
 **Metodo:** [[method_disuguaglianze|Disuguaglianze]], [[method_simmetria|Simmetria]]
@@ -167,18 +160,16 @@ level: China Southeastern Mathematical Olympiad
 
 > Come mostrato nella Fig. 5.1. Sia $C$ l'angolo retto di $\triangle ABC$. Siano $M_1$ e $M_2$ due punti arbitrari all'interno di $\triangle ABC$, e sia $M$ il punto medio di $M_1 M_2$. Le estensioni di $BM_1$, $BM_2$ e $BM$ intersecano $AC$ rispettivamente in $N_1$, $N_2$ e $N$. Dimostrare che $$\frac{M_1 N_1}{BM_1} + \frac{M_2 N_2}{BM_2} \ge \frac{MN}{BM}.$$
 
-![[src_cn_csmo_b11_w277__q05.png]]
+![[src_cn_csmo_b11_w277__Q05.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_disuguaglianze|Disuguaglianze]]
 **Metodo:** [[method_disuguaglianze|Disuguaglianze]], [[method_simmetria|Simmetria]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]]
 **Area:** [[Geometria]], [[Algebra e Analisi]]
 
-[[Quesiti/src_cn_csmo_2010#q05|src_cn_csmo_2010__Q05]]
 
 
-
-<span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_aritmetica,topic_algebra,method_induzione,method_telescoping,skill_manipolazione_algebrica,skill_riconoscimento_pattern"></span>
+<span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_aritmetica,topic_algebra,topic_funzionali,method_induzione,method_telescoping,skill_manipolazione_algebrica,skill_riconoscimento_pattern"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -189,10 +180,10 @@ level: China Southeastern Mathematical Olympiad
 > $$a_{n+1} = \min\left\{\lambda \,\middle|\, \frac{1}{a_1} + \frac{1}{a_2} + \cdots + \frac{1}{a_n} + \frac{1}{\lambda} < 1,\ \lambda \in \mathbf{N}^*\right\}.$$
 > Prove that $a_{n+1} = a_n^2 - a_n + 1$ for $n = 1, 2, \ldots.$
 
-**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]], [[topic_funzionali|Functional equations / sequences]]
 **Metodo:** [[method_induzione|Induzione]], [[method_telescoping|Telescoping]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
-**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Algebra e Analisi|Algebra and analysis]]
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1cjmD7lTT4vb3nB3ylcVCHeHucUE2rNI0/view)
 
 
@@ -205,12 +196,11 @@ level: China Southeastern Mathematical Olympiad
 > $$a_{n+1} = \min\left\{\lambda \,\middle|\, \frac{1}{a_1} + \frac{1}{a_2} + \cdots + \frac{1}{a_n} + \frac{1}{\lambda} < 1,\ \lambda \in \mathbf{N}^*\right\}.$$
 > Dimostrare che $a_{n+1} = a_n^2 - a_n + 1$ per $n = 1, 2, \ldots.$
 
-**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]], [[topic_funzionali|Equazioni funzionali / successioni]]
 **Metodo:** [[method_induzione|Induzione]], [[method_telescoping|Telescoping]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
-
-[[Quesiti/src_cn_csmo_2010#q06|src_cn_csmo_2010__Q06]]
 
 
 
@@ -242,11 +232,9 @@ level: China Southeastern Mathematical Olympiad
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Algebra e Analisi]]
 
-[[Quesiti/src_cn_csmo_2010#q07|src_cn_csmo_2010__Q07]]
 
 
-
-<span class="atom-split" id="q08" data-atom="q08" data-title="Quesito 8" data-tags="topic_combinatoria,method_casework,method_estremalita,method_cassetti,skill_conteggio_sistematico,skill_ragionamento_geometrico,skill_casework_accurato"></span>
+<span class="atom-split" id="q08" data-atom="q08" data-title="Quesito 8" data-tags="topic_combinatoria,method_casework,method_estremalita,method_cassetti,method_grafi,method_conteggio,skill_conteggio_sistematico,skill_ragionamento_geometrico,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -255,12 +243,12 @@ level: China Southeastern Mathematical Olympiad
 
 > Given eight points $A_1, A_2, \ldots, A_8$ on a circle, determine the smallest positive integer $n$ such that among any $n$ triangles with vertices in these eight points, there are two which have a common side.
 
-![[src_cn_csmo_b11_w285__q08.png]]
+![[src_cn_csmo_b11_w285__Q08.png]]
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
-**Metodo:** [[method_casework|Casework]], [[method_estremalita|Estremalità]], [[method_cassetti|Principio dei cassetti]]
+**Metodo:** [[method_casework|Casework]], [[method_estremalita|Estremalità]], [[method_cassetti|Principio dei cassetti]], [[method_grafi|Graph theory]], [[method_conteggio|Combinatorial counting]]
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_casework_accurato|Casework accurato]]
-**Area:** [[Combinatoria, Logica e Probabilita]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Risposta:** 9
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1cjmD7lTT4vb3nB3ylcVCHeHucUE2rNI0/view)
 
@@ -272,11 +260,10 @@ level: China Southeastern Mathematical Olympiad
 
 > Dati otto punti $A_1, A_2, \ldots, A_8$ su una circonferenza, determina il più piccolo intero positivo $n$ tale che, tra qualsiasi insieme di $n$ triangoli i cui vertici siano tra questi otto punti, vi siano due triangoli che hanno un lato in comune.
 
-![[src_cn_csmo_b11_w285__q08.png]]
+![[src_cn_csmo_b11_w285__Q08.png]]
+
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
-**Metodo:** [[method_casework|Casework]], [[method_estremalita|Estremalità]], [[method_cassetti|Principio dei cassetti]]
+**Metodo:** [[method_casework|Casework]], [[method_estremalita|Estremalità]], [[method_cassetti|Principio dei cassetti]], [[method_grafi|Teoria dei grafi]], [[method_conteggio|Conteggio combinatorio]]
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
-
-[[Quesiti/src_cn_csmo_2010#q08|src_cn_csmo_2010__Q08]]

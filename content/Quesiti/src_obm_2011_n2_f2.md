@@ -38,8 +38,6 @@ level: OBM Nível 2
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Algebra e Analisi]]
 
-[[Quesiti/src_obm_2011_n2_f2#q01|src_obm_2011_n2_f2__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_aritmetica,topic_combinatoria,method_casework,method_conteggio,skill_conteggio_sistematico,skill_casework_accurato"></span>
@@ -69,8 +67,6 @@ level: OBM Nível 2
 **Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]]
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
-
-[[Quesiti/src_obm_2011_n2_f2#q02|src_obm_2011_n2_f2__Q02]]
 
 
 
@@ -102,11 +98,9 @@ level: OBM Nível 2
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 
-[[Quesiti/src_obm_2011_n2_f2#q03|src_obm_2011_n2_f2__Q03]]
 
 
-
-<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_aritmetica,method_congruenze,method_casework,skill_riconoscimento_pattern,skill_conteggio_sistematico"></span>
+<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_aritmetica,method_congruenze,method_casework,skill_riconoscimento_pattern,skill_conteggio_sistematico,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -117,8 +111,8 @@ level: OBM Nível 2
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_congruenze|Congruenze]], [[method_casework|Casework]]
-**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_conteggio_sistematico|Conteggio sistematico]]
-**Area:** [[Aritmetica e Teoria dei Numeri]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1rTFVytZ0r4ui2fCSYnm5ciGL2P0QyY5F/view)
 
 
@@ -129,12 +123,11 @@ level: OBM Nível 2
 
 > Il numero $7$, elevato alla quarta potenza, termina con $01$: $7^4 = 2401$. Quanti numeri di due cifre, elevati alla quarta potenza, terminano con $01$?
 
+
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_congruenze|Congruenze]], [[method_casework|Casework]]
-**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
-
-[[Quesiti/src_obm_2011_n2_f2#q04|src_obm_2011_n2_f2__Q04]]
 
 
 
@@ -147,7 +140,7 @@ level: OBM Nível 2
 
 > In the figure below, triangle $ABC$ is equilateral, angle $\widehat{BDC} = 30^\circ$, and angle $\widehat{ACD} = 70^\circ$. Determine, in degrees, the measure of angle $\widehat{BAD}$.
 
-![[src_obm_2011_n2_f2__q05.png]]
+![[src_obm_2011_n2_f2__Q05.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_casework|Casework]]
@@ -163,18 +156,16 @@ level: OBM Nível 2
 
 > Nella figura sottostante, il triangolo $ABC$ è equilatero, l'angolo è $\widehat{BDC} = 30^\circ$ e l'angolo è $\widehat{ACD} = 70^\circ$. Determina, in gradi, la misura dell'angolo $\widehat{BAD}$.
 
-![[src_obm_2011_n2_f2__q05.png]]
+![[src_obm_2011_n2_f2__Q05.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_casework|Casework]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Geometria]]
 
-[[Quesiti/src_obm_2011_n2_f2#q05|src_obm_2011_n2_f2__Q05]]
 
 
-
-<span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_aritmetica,topic_logica,method_invarianti,method_backward,skill_ragionamento_geometrico,skill_riconoscimento_pattern,skill_lettura_attenta"></span>
+<span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_aritmetica,topic_logica,method_invarianti,method_backward,method_congruenze,skill_ragionamento_geometrico,skill_riconoscimento_pattern,skill_lettura_attenta,skill_astrazione"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -188,9 +179,9 @@ level: OBM Nível 2
 > (b) Is it possible to obtain the number $2011$? Do not forget to justify your answer.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_logica|Logica]]
-**Metodo:** [[method_invarianti|Invarianti]], [[method_backward|Backward]]
-**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_lettura_attenta|Lettura attenta]]
-**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+**Metodo:** [[method_invarianti|Invarianti]], [[method_backward|Backward]], [[method_congruenze|Modular arithmetic / congruences]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_lettura_attenta|Lettura attenta]], [[skill_astrazione|Abstraction / generalisation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1rTFVytZ0r4ui2fCSYnm5ciGL2P0QyY5F/view)
 
 
@@ -205,12 +196,11 @@ level: OBM Nível 2
 >
 > (b) È possibile ottenere il numero $2011$? Non dimenticare di giustificare la tua risposta.
 
-**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_logica|Logica]]
-**Metodo:** [[method_invarianti|Invarianti]], [[method_backward|Backward]]
-**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_lettura_attenta|Lettura attenta]]
-**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 
-[[Quesiti/src_obm_2011_n2_f2#q06|src_obm_2011_n2_f2__Q06]]
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_logica|Logica]]
+**Metodo:** [[method_invarianti|Invarianti]], [[method_backward|Backward]], [[method_congruenze|Aritmetica modulare / congruenze]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_lettura_attenta|Lettura attenta]], [[skill_astrazione|Astrazione / generalizzazione]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 
 
 
@@ -246,8 +236,6 @@ level: OBM Nível 2
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]]
 **Area:** [[Algebra e Analisi]]
 
-[[Quesiti/src_obm_2011_n2_f2#q07|src_obm_2011_n2_f2__Q07]]
-
 
 
 <span class="atom-split" id="q08" data-atom="q08" data-title="Quesito 8" data-tags="topic_aritmetica,topic_combinatoria,method_casework,method_congruenze,method_conteggio,skill_conteggio_sistematico,skill_casework_accurato,skill_manipolazione_algebrica"></span>
@@ -280,8 +268,6 @@ level: OBM Nível 2
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 
-[[Quesiti/src_obm_2011_n2_f2#q08|src_obm_2011_n2_f2__Q08]]
-
 
 
 <span class="atom-split" id="q09" data-atom="q09" data-title="Quesito 9" data-tags="topic_geometria_piana,method_coordinate,method_simmetria,skill_ragionamento_geometrico,skill_modellizzazione,skill_manipolazione_algebrica"></span>
@@ -293,7 +279,7 @@ level: OBM Nível 2
 
 > In a convex quadrilateral $ABCD$, the points $X$ and $Y$ divide side $AB$ into three equal segments, while the points $Z$ and $T$ divide side $DC$ into three equal segments (see figure below). If the area of quadrilateral $ABCD$ is $60$, show that the area of quadrilateral $XYZT$ does not depend on the shape of quadrilateral $ABCD$, and calculate that area.
 
-![[src_obm_2011_n2_f2__q09.png]]
+![[src_obm_2011_n2_f2__Q09.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_coordinate|Coordinate]], [[method_simmetria|Simmetria]]
@@ -309,11 +295,9 @@ level: OBM Nível 2
 
 > In un quadrilatero convesso $ABCD$, i punti $X$ e $Y$ dividono il lato $AB$ in tre segmenti uguali, mentre i punti $Z$ e $T$ dividono il lato $DC$ in tre segmenti uguali (vedi la figura sottostante). Se l'area del quadrilatero $ABCD$ è $60$, dimostrare che l'area del quadrilatero $XYZT$ non dipende dalla forma del quadrilatero $ABCD$ e calcolare tale area.
 
-![[src_obm_2011_n2_f2__q09.png]]
+![[src_obm_2011_n2_f2__Q09.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_coordinate|Coordinate]], [[method_simmetria|Simmetria]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
-
-[[Quesiti/src_obm_2011_n2_f2#q09|src_obm_2011_n2_f2__Q09]]

@@ -39,8 +39,6 @@ level: JMO Yosen
 **Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 
-[[Quesiti/src_jmo13yq_yosen#q01|src_jmo13yq_yosen__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_aritmetica,method_congruenze,skill_manipolazione_algebrica,skill_conteggio_sistematico,skill_lettura_attenta"></span>
@@ -71,11 +69,9 @@ level: JMO Yosen
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 
-[[Quesiti/src_jmo13yq_yosen#q02|src_jmo13yq_yosen__Q02]]
 
 
-
-<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_aritmetica,topic_algebra,method_congruenze,method_fattorizzazione,skill_manipolazione_algebrica,skill_lettura_attenta,skill_riconoscimento_pattern"></span>
+<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_aritmetica,topic_algebra,method_congruenze,method_fattorizzazione,method_casework,skill_manipolazione_algebrica,skill_lettura_attenta,skill_riconoscimento_pattern,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -87,9 +83,9 @@ level: JMO Yosen
 > Find all primes $p$ for which such digits exist.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
-**Metodo:** [[method_congruenze|Congruenze]], [[method_fattorizzazione|Fattorizzazione]]
-**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
-**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
+**Metodo:** [[method_congruenze|Congruenze]], [[method_fattorizzazione|Fattorizzazione]], [[method_casework|Case analysis]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Algebra e Analisi|Algebra and analysis]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1-X_f5ozp7gFpMb_ROBhItPZiJLQpRZtn/view)
 
 
@@ -102,16 +98,15 @@ level: JMO Yosen
 > $$\begin{cases} a_{m-1}\,p^{m-1} + a_{m-2}\,p^{m-2} + \cdots + a_0 = 2003, \\ a_{m-1} + a_{m-2} + \cdots + a_0 = 15. \end{cases}$$
 > Trovare tutti i numeri primi $p$ per i quali tali cifre esistono.
 
+
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
-**Metodo:** [[method_congruenze|Congruenze]], [[method_fattorizzazione|Fattorizzazione]]
-**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Metodo:** [[method_congruenze|Congruenze]], [[method_fattorizzazione|Fattorizzazione]], [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 
-[[Quesiti/src_jmo13yq_yosen#q03|src_jmo13yq_yosen__Q03]]
 
 
-
-<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_algebra,method_simmetria,skill_manipolazione_algebrica,skill_riconoscimento_pattern"></span>
+<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_algebra,method_simmetria,method_fattorizzazione,skill_manipolazione_algebrica,skill_riconoscimento_pattern"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -123,9 +118,9 @@ level: JMO Yosen
 > Find the value of $x^3 + y^3 + z^3$.
 
 **Topic:** [[topic_algebra|Algebra]]
-**Metodo:** [[method_simmetria|Simmetria]]
+**Metodo:** [[method_simmetria|Simmetria]], [[method_fattorizzazione|Factorisation / algebraic manipulation]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
-**Area:** [[Algebra e Analisi]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1-X_f5ozp7gFpMb_ROBhItPZiJLQpRZtn/view)
 
 
@@ -138,12 +133,11 @@ level: JMO Yosen
 > $$\begin{cases} x + y + z = 0, \\ x^2 + y^2 + z^2 = 3, \\ x^5 + y^5 + z^5 = 15. \end{cases}$$
 > Trova il valore di $x^3 + y^3 + z^3$.
 
+
 **Topic:** [[topic_algebra|Algebra]]
-**Metodo:** [[method_simmetria|Simmetria]]
+**Metodo:** [[method_simmetria|Simmetria]], [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Algebra e Analisi]]
-
-[[Quesiti/src_jmo13yq_yosen#q04|src_jmo13yq_yosen__Q04]]
 
 
 
@@ -175,8 +169,6 @@ level: JMO Yosen
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Geometria]]
 
-[[Quesiti/src_jmo13yq_yosen#q05|src_jmo13yq_yosen__Q05]]
-
 
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_combinatoria,topic_aritmetica,method_grafi,method_casework,skill_riconoscimento_pattern,skill_conteggio_sistematico,skill_modellizzazione"></span>
@@ -206,8 +198,6 @@ level: JMO Yosen
 **Metodo:** [[method_grafi|Grafi]], [[method_casework|Casework]]
 **Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
-
-[[Quesiti/src_jmo13yq_yosen#q06|src_jmo13yq_yosen__Q06]]
 
 
 
@@ -239,11 +229,9 @@ level: JMO Yosen
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 
-[[Quesiti/src_jmo13yq_yosen#q07|src_jmo13yq_yosen__Q07]]
 
 
-
-<span class="atom-split" id="q08" data-atom="q08" data-title="Quesito 8" data-tags="topic_aritmetica,topic_combinatoria,method_ricorsione,method_estremalita,method_casework,skill_riconoscimento_pattern,skill_conteggio_sistematico,skill_lettura_attenta"></span>
+<span class="atom-split" id="q08" data-atom="q08" data-title="Quesito 8" data-tags="topic_aritmetica,topic_combinatoria,method_ricorsione,method_estremalita,method_casework,method_backward,skill_riconoscimento_pattern,skill_conteggio_sistematico,skill_lettura_attenta"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -253,9 +241,9 @@ level: JMO Yosen
 > For a positive integer $n$, define the following operation: if $n$ is odd, replace $n$ by $n + 1$; if $n$ is even, replace $n$ by $n/2$. Starting from an integer $m \ge 2$, apply this operation repeatedly until the value first becomes $1$; let $k$ denote the number of operations required. For example, starting from $m = 10$: $10 \to 5 \to 6 \to 3 \to 4 \to 2 \to 1$, so $k = 6$. Among all integers $m$ with $2 \le m \le 2003$, find all values of $m$ for which $k$ is largest.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
-**Metodo:** [[method_ricorsione|Ricorsione]], [[method_estremalita|Estremalità]], [[method_casework|Casework]]
+**Metodo:** [[method_ricorsione|Ricorsione]], [[method_estremalita|Estremalità]], [[method_casework|Casework]], [[method_backward|Working backwards]]
 **Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]]
-**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1-X_f5ozp7gFpMb_ROBhItPZiJLQpRZtn/view)
 
 
@@ -266,16 +254,15 @@ level: JMO Yosen
 
 > Per un intero positivo $n$, si definisca la seguente operazione: se $n$ è dispari, si sostituisca $n$ con $n + 1$; se $n$ è pari, si sostituisca $n$ con $n/2$. Partendo da un intero $m \ge 2$, si applichi ripetutamente questa operazione finché il valore non diventa per la prima volta $1$; si indichi con $k$ il numero di operazioni necessarie. Ad esempio, partendo da $m = 10$: $10 \to 5 \to 6 \to 3 \to 4 \to 2 \to 1$, quindi $k = 6$. Tra tutti gli interi $m$ con $2 \le m \le 2003$, si determinino tutti i valori di $m$ per cui $k$ è massimo.
 
+
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
-**Metodo:** [[method_ricorsione|Ricorsione]], [[method_estremalita|Estremalità]], [[method_casework|Casework]]
+**Metodo:** [[method_ricorsione|Ricorsione]], [[method_estremalita|Estremalità]], [[method_casework|Casework]], [[method_backward|Ragionamento all'indietro]]
 **Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 
-[[Quesiti/src_jmo13yq_yosen#q08|src_jmo13yq_yosen__Q08]]
 
 
-
-<span class="atom-split" id="q09" data-atom="q09" data-title="Quesito 9" data-tags="topic_geometria_piana,method_trigonometria,method_estremalita,skill_ragionamento_geometrico,skill_manipolazione_algebrica,skill_stima"></span>
+<span class="atom-split" id="q09" data-atom="q09" data-title="Quesito 9" data-tags="topic_geometria_piana,topic_trigonometria,method_trigonometria,method_estremalita,skill_ragionamento_geometrico,skill_manipolazione_algebrica,skill_stima"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -284,10 +271,10 @@ level: JMO Yosen
 
 > In triangle $ABC$ with $BC = 7$, $CA = 8$, $AB = 5$, let $P$, $Q$, $R$ be points on segments $BC$, $CA$, $AB$ respectively, none at a vertex, with $\angle QPR = 60^\circ$. As $Q$ and $R$ vary subject to these conditions, find the minimum value of $QR$. (For points $X, Y$, the notation $XY$ denotes the length of segment $XY$.)
 
-**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometry]]
 **Metodo:** [[method_trigonometria|Trigonometria]], [[method_estremalita|Estremalità]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]]
-**Area:** [[Geometria]]
+**Area:** [[Geometria|Geometry]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1-X_f5ozp7gFpMb_ROBhItPZiJLQpRZtn/view)
 
 
@@ -298,12 +285,11 @@ level: JMO Yosen
 
 > Nel triangolo $ABC$ con $BC = 7$, $CA = 8$, $AB = 5$, siano $P$, $Q$, $R$ dei punti appartenenti rispettivamente ai segmenti $BC$, $CA$, $AB$, nessuno dei quali sia un vertice, con $\angle QPR = 60^\circ$. Mentre $Q$ e $R$ variano nel rispetto di queste condizioni, si determini il valore minimo di $QR$. (Per i punti $X, Y$, la notazione $XY$ indica la lunghezza del segmento $XY$.)
 
-**Topic:** [[topic_geometria_piana|Geometria piana]]
+
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometria]]
 **Metodo:** [[method_trigonometria|Trigonometria]], [[method_estremalita|Estremalità]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]]
 **Area:** [[Geometria]]
-
-[[Quesiti/src_jmo13yq_yosen#q09|src_jmo13yq_yosen__Q09]]
 
 
 
@@ -335,8 +321,6 @@ level: JMO Yosen
 **Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 
-[[Quesiti/src_jmo13yq_yosen#q10|src_jmo13yq_yosen__Q10]]
-
 
 
 <span class="atom-split" id="q11" data-atom="q11" data-title="Quesito 11" data-tags="topic_geometria_solida,topic_combinatoria,method_conteggio,method_simmetria,method_casework,skill_conteggio_sistematico,skill_ragionamento_geometrico,skill_casework_accurato"></span>
@@ -366,8 +350,6 @@ level: JMO Yosen
 **Metodo:** [[method_conteggio|Conteggio]], [[method_simmetria|Simmetria]], [[method_casework|Casework]]
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Geometria]], [[Combinatoria, Logica e Probabilita]]
-
-[[Quesiti/src_jmo13yq_yosen#q11|src_jmo13yq_yosen__Q11]]
 
 
 
@@ -402,5 +384,3 @@ level: JMO Yosen
 **Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_congruenze|Congruenze]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_astrazione|Astrazione]]
 **Area:** [[Algebra e Analisi]]
-
-[[Quesiti/src_jmo13yq_yosen#q12|src_jmo13yq_yosen__Q12]]

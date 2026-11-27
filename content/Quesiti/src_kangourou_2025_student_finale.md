@@ -41,11 +41,9 @@ level: kangourou
 **Abilita:** [[skill_astrazione|Abstraction / generalisation]]
 **Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
-[[Quesiti/src_kangourou_2025_student_finale#qs1|src_kangourou_2025_student_finale__QS1]]
 
 
-
-<span class="atom-split" id="qs2" data-atom="qs2" data-title="Quesito S2" data-tags="topic_aritmetica,method_fattorizzazione,skill_conteggio_sistematico"></span>
+<span class="atom-split" id="qs2" data-atom="qs2" data-title="Quesito S2" data-tags="topic_aritmetica,method_fattorizzazione,skill_conteggio_sistematico,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -56,7 +54,7 @@ level: kangourou
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
-**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 7
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1NjqBkCmn7HHwv4vdTCDcW5Yj2KD9K8Ly/view)
@@ -69,12 +67,11 @@ level: kangourou
 
 > In how many different ways can $270$ be obtained by adding consecutive positive integers?
 
+
 **Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
 **Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
-**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
-
-[[Quesiti/src_kangourou_2025_student_finale#qs2|src_kangourou_2025_student_finale__QS2]]
 
 
 
@@ -85,7 +82,7 @@ level: kangourou
 
 *piu lungo del diametro?*
 
-![[src_kangourou_2025_student_finale__probs3.png]]
+![[src_kangourou_2025_student_finale__probS3.png]]
 
 > Due punti sulla circonferenza di un cerchio $\Gamma$ sono estremi di un arco $\delta$ di un'altra circonferenza. L'arco $\delta$ ripartisce il cerchio $\Gamma$ in due regioni di uguale area. È necessariamente vero che $\delta$ è più lungo del diametro di $\Gamma$?
 
@@ -101,7 +98,7 @@ level: kangourou
 
 *Longer than the diameter?*
 
-![[src_kangourou_2025_student_finale__probs3.png]]
+![[src_kangourou_2025_student_finale__probS3.png]]
 
 > Two points on the circumference of a circle $\Gamma$ are the endpoints of an arc $\delta$ of another circle. The arc $\delta$ divides the circle $\Gamma$ into two regions of equal area. Is it necessarily true that $\delta$ is longer than the diameter of $\Gamma$?
 
@@ -109,11 +106,9 @@ level: kangourou
 **Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
 **Area:** [[Geometria|Geometry]]
 
-[[Quesiti/src_kangourou_2025_student_finale#qs3|src_kangourou_2025_student_finale__QS3]]
 
 
-
-<span class="atom-split" id="qs4" data-atom="qs4" data-title="Quesito S4" data-tags="topic_probabilita,topic_logica,skill_modellizzazione"></span>
+<span class="atom-split" id="qs4" data-atom="qs4" data-title="Quesito S4" data-tags="topic_probabilita,topic_logica,method_casework,skill_modellizzazione,skill_casework_accurato,skill_conteggio_sistematico"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -127,7 +122,8 @@ level: kangourou
 > b) Se entrambi possiamo scegliere il mazzo con cui giocare (e la scelta deve essere fatta prima di giocare), mi conviene essere il primo o il secondo a scegliere?
 
 **Topic:** [[topic_probabilita|Probabilita e statistica]], [[topic_logica|Logica, giochi, strategie]]
-**Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
+**Metodo:** [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_casework_accurato|Casework accurato]], [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** a)terzo b)secondo
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1NjqBkCmn7HHwv4vdTCDcW5Yj2KD9K8Ly/view)
@@ -144,15 +140,15 @@ level: kangourou
 >
 > b) If we can both choose the deck we'll play with (and the choice must be made before playing), is it better for me to be the first or the second to choose?
 
+
 **Topic:** [[topic_probabilita|Probability and statistics]], [[topic_logica|Logic, games and strategies]]
-**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]], [[skill_casework_accurato|Careful case analysis]], [[skill_conteggio_sistematico|Systematic counting]]
 **Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
-[[Quesiti/src_kangourou_2025_student_finale#qs4|src_kangourou_2025_student_finale__QS4]]
 
 
-
-<span class="atom-split" id="qs5" data-atom="qs5" data-title="Quesito S5" data-tags="topic_aritmetica,method_congruenze,skill_astrazione"></span>
+<span class="atom-split" id="qs5" data-atom="qs5" data-title="Quesito S5" data-tags="topic_aritmetica,method_congruenze,skill_astrazione,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -165,7 +161,7 @@ level: kangourou
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]]
-**Abilita:** [[skill_astrazione|Astrazione / generalizzazione]]
+**Abilita:** [[skill_astrazione|Astrazione / generalizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** vera
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1NjqBkCmn7HHwv4vdTCDcW5Yj2KD9K8Ly/view)
@@ -180,16 +176,15 @@ level: kangourou
 >
 > For every integer $n \geq 3$, there exist $n$ distinct integers such that each of them divides the sum of the remaining $n - 1$.
 
+
 **Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
 **Metodo:** [[method_congruenze|Modular arithmetic / congruences]]
-**Abilita:** [[skill_astrazione|Abstraction / generalisation]]
+**Abilita:** [[skill_astrazione|Abstraction / generalisation]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
-[[Quesiti/src_kangourou_2025_student_finale#qs5|src_kangourou_2025_student_finale__QS5]]
 
 
-
-<span class="atom-split" id="qs6" data-atom="qs6" data-title="Quesito S6" data-tags="topic_combinatoria,method_conteggio,skill_astrazione,skill_conteggio_sistematico"></span>
+<span class="atom-split" id="qs6" data-atom="qs6" data-title="Quesito S6" data-tags="topic_combinatoria,method_conteggio,method_bigezione,skill_astrazione,skill_conteggio_sistematico,skill_riconoscimento_pattern"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -199,8 +194,8 @@ level: kangourou
 > Si consideri l'insieme ordinato $S = (1, 2, \ldots, n)$ dei primi $n$ interi positivi e sia $n$ sufficientemente grande per poter realizzare quanto segue. Si vuole selezionare un sottoinsieme ordinato di $S$ (cioè che erediti l'ordine da quello di $S$) di $10$ elementi tali che il secondo disti almeno $1$ dal primo, il terzo disti almeno $2$ dal secondo, il quarto almeno $3$ dal terzo e così via fino al decimo che disti almeno $9$ dal nono. Attenzione: non si chiede che la distanza tra un numero scelto e il precedente numero scelto sia crescente al crescere del numero scelto; ad esempio il secondo potrebbe distare $5$ dal primo e il terzo potrebbe distare $2$ dal secondo. Al variare di $n$ (ammissibile), quante diverse scelte sono possibili?
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
-**Metodo:** [[method_conteggio|Conteggio combinatorio]]
-**Abilita:** [[skill_astrazione|Astrazione / generalizzazione]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Metodo:** [[method_conteggio|Conteggio combinatorio]], [[method_bigezione|Bigezione / corrispondenza]]
+**Abilita:** [[skill_astrazione|Astrazione / generalizzazione]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** (n-36)!/((n-46)!10!)
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1NjqBkCmn7HHwv4vdTCDcW5Yj2KD9K8Ly/view)
@@ -213,9 +208,8 @@ level: kangourou
 
 > Consider the ordered set $S = (1, 2, \ldots, n)$ of the first $n$ positive integers, and let $n$ be sufficiently large to enable the following. We wish to select an ordered subset of $S$ (that is, one that inherits the order from that of $S$) having $10$ elements such that the second is at least $1$ away from the first, the third is at least $2$ away from the second, the fourth is at least $3$ away from the third, and so on up to the tenth, which must be at least $9$ away from the ninth. Note: it is not required that the distance between a chosen number and the previously chosen number increase as the chosen number increases; for example, the second might be $5$ away from the first, and the third might be $2$ away from the second. As $n$ varies (within the admissible range), how many different choices are possible?
 
-**Topic:** [[topic_combinatoria|Combinatorics]]
-**Metodo:** [[method_conteggio|Combinatorial counting]]
-**Abilita:** [[skill_astrazione|Abstraction / generalisation]], [[skill_conteggio_sistematico|Systematic counting]]
-**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
-[[Quesiti/src_kangourou_2025_student_finale#qs6|src_kangourou_2025_student_finale__QS6]]
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_conteggio|Combinatorial counting]], [[method_bigezione|Bijection / correspondence]]
+**Abilita:** [[skill_astrazione|Abstraction / generalisation]], [[skill_conteggio_sistematico|Systematic counting]], [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]

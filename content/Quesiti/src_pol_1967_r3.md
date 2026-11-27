@@ -10,7 +10,7 @@ level: Olimpiade Polacca Round 3
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_algebra,method_estremalita,skill_manipolazione_algebrica,skill_ragionamento_geometrico,skill_lettura_attenta"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_algebra,topic_funzionali,topic_disuguaglianze,method_estremalita,skill_manipolazione_algebrica,skill_ragionamento_geometrico,skill_lettura_attenta"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -19,10 +19,10 @@ level: Olimpiade Polacca Round 3
 
 > Real numbers $a_1, a_2, \ldots, a_n$ ($n \ge 3$) satisfy the conditions $a_1 = a_n = 0$ and $a_{k-1} + a_{k+1} \ge 2a_k$ for $k = 2, 3, \ldots, n-1$. Prove that none of the numbers $a_1, a_2, \ldots, a_n$ is positive.
 
-**Topic:** [[topic_algebra|Algebra]]
+**Topic:** [[topic_algebra|Algebra]], [[topic_funzionali|Functional equations / sequences]], [[topic_disuguaglianze|Inequalities]]
 **Metodo:** [[method_estremalita|Estremalità]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
-**Area:** [[Algebra e Analisi]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1XOZgCbQj4f0sjxRkfqvY1uffN7E7Z8k0/view)
 
 
@@ -33,16 +33,15 @@ level: Olimpiade Polacca Round 3
 
 > I numeri reali $a_1, a_2, \ldots, a_n$ ($n \ge 3$) soddisfano le condizioni $a_1 = a_n = 0$ e $a_{k-1} + a_{k+1} \ge 2a_k$ per $k = 2, 3, \ldots, n-1$. Dimostrare che nessuno dei numeri $a_1, a_2, \ldots, a_n$ è positivo.
 
-**Topic:** [[topic_algebra|Algebra]]
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_funzionali|Equazioni funzionali / successioni]], [[topic_disuguaglianze|Disuguaglianze]]
 **Metodo:** [[method_estremalita|Estremalità]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Algebra e Analisi]]
 
-[[Quesiti/src_pol_1967_r3#q01|src_pol_1967_r3__Q01]]
 
 
-
-<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_combinatoria,method_estremalita,method_cassetti,skill_ragionamento_geometrico,skill_conteggio_sistematico,skill_lettura_attenta"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_combinatoria,method_estremalita,method_cassetti,method_grafi,skill_ragionamento_geometrico,skill_conteggio_sistematico,skill_lettura_attenta"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -52,9 +51,9 @@ level: Olimpiade Polacca Round 3
 > There are 100 persons in a hall, everyone knowing at least 66 of the others. Prove that there is a case in which among any four some two of them know each other.
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
-**Metodo:** [[method_estremalita|Estremalità]], [[method_cassetti|Principio dei cassetti]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_cassetti|Principio dei cassetti]], [[method_grafi|Graph theory]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]]
-**Area:** [[Combinatoria, Logica e Probabilita]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1XOZgCbQj4f0sjxRkfqvY1uffN7E7Z8k0/view)
 
 
@@ -65,12 +64,11 @@ level: Olimpiade Polacca Round 3
 
 > In una sala ci sono 100 persone, e ciascuna conosce almeno 66 delle altre. Dimostrare che esiste un caso in cui, tra quattro persone qualsiasi, due di esse si conoscono.
 
+
 **Topic:** [[topic_combinatoria|Combinatoria]]
-**Metodo:** [[method_estremalita|Estremalità]], [[method_cassetti|Principio dei cassetti]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_cassetti|Principio dei cassetti]], [[method_grafi|Teoria dei grafi]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
-
-[[Quesiti/src_pol_1967_r3#q02|src_pol_1967_r3__Q02]]
 
 
 
@@ -102,11 +100,9 @@ level: Olimpiade Polacca Round 3
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_modellizzazione|Modellizzazione]]
 **Area:** [[Geometria]]
 
-[[Quesiti/src_pol_1967_r3#q03|src_pol_1967_r3__Q03]]
 
 
-
-<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_combinatoria,method_estremalita,method_cassetti,method_induzione,skill_ragionamento_geometrico,skill_conteggio_sistematico,skill_lettura_attenta"></span>
+<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_combinatoria,method_estremalita,method_cassetti,method_induzione,method_grafi,skill_ragionamento_geometrico,skill_conteggio_sistematico,skill_lettura_attenta"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -116,9 +112,9 @@ level: Olimpiade Polacca Round 3
 > There are 100 persons in a hall, everyone knowing at least 67 of the others. Prove that there always exist four of them who know each other.
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
-**Metodo:** [[method_estremalita|Estremalità]], [[method_cassetti|Principio dei cassetti]], [[method_induzione|Induzione]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_cassetti|Principio dei cassetti]], [[method_induzione|Induzione]], [[method_grafi|Graph theory]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]]
-**Area:** [[Combinatoria, Logica e Probabilita]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1XOZgCbQj4f0sjxRkfqvY1uffN7E7Z8k0/view)
 
 
@@ -129,12 +125,11 @@ level: Olimpiade Polacca Round 3
 
 > In una sala ci sono 100 persone, e ciascuna conosce almeno 67 delle altre. Dimostrare che esistono sempre quattro di loro che si conoscono a vicenda.
 
+
 **Topic:** [[topic_combinatoria|Combinatoria]]
-**Metodo:** [[method_estremalita|Estremalità]], [[method_cassetti|Principio dei cassetti]], [[method_induzione|Induzione]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_cassetti|Principio dei cassetti]], [[method_induzione|Induzione]], [[method_grafi|Teoria dei grafi]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
-
-[[Quesiti/src_pol_1967_r3#q04|src_pol_1967_r3__Q04]]
 
 
 
@@ -172,8 +167,6 @@ level: Olimpiade Polacca Round 3
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Geometria]]
 
-[[Quesiti/src_pol_1967_r3#q05|src_pol_1967_r3__Q05]]
-
 
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_geometria_piana,method_simmetria,method_induzione,skill_ragionamento_geometrico,skill_lettura_attenta,skill_manipolazione_algebrica"></span>
@@ -203,5 +196,3 @@ level: Olimpiade Polacca Round 3
 **Metodo:** [[method_simmetria|Simmetria]], [[method_induzione|Induzione]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
-
-[[Quesiti/src_pol_1967_r3#q06|src_pol_1967_r3__Q06]]

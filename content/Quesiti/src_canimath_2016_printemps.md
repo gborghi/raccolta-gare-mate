@@ -10,7 +10,7 @@ level: Coupe Animath Printemps
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_geometria_piana,method_casework,skill_ragionamento_geometrico,skill_lettura_attenta"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_geometria_piana,method_casework,skill_ragionamento_geometrico,skill_lettura_attenta,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="fr"></div>
 
@@ -27,7 +27,7 @@ level: Coupe Animath Printemps
 
 **Topic:** [[topic_geometria_piana|Géométrie plane]]
 **Metodo:** [[method_casework|Disjonction de cas]]
-**Abilita:** [[skill_ragionamento_geometrico|Raisonnement géométrique]], [[skill_lettura_attenta|Lecture attentive]]
+**Abilita:** [[skill_ragionamento_geometrico|Raisonnement géométrique]], [[skill_lettura_attenta|Lecture attentive]], [[skill_manipolazione_algebrica|Manipulation algébrique]]
 **Area:** [[Geometria|Géométrie]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1zEV9ua9loSunYFO0wWax6WvRV2D57hXh/view)
 
@@ -45,7 +45,10 @@ level: Coupe Animath Printemps
 >
 > Quanto vale $XY$?
 
-[[Quesiti/src_canimath_2016_printemps#q01|src_canimath_2016_printemps__Q01]]
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta del testo]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -61,11 +64,14 @@ level: Coupe Animath Printemps
 >
 > What is $XY$?
 
-[[Quesiti/src_canimath_2016_printemps#q01|src_canimath_2016_printemps__Q01]]
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_lettura_attenta|Careful reading of the text]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Geometria|Geometry]]
 
 
 
-<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_aritmetica,method_casework,skill_manipolazione_algebrica,skill_casework_accurato"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_aritmetica,method_casework,method_fattorizzazione,method_congruenze,skill_manipolazione_algebrica,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="fr"></div>
 
@@ -77,7 +83,7 @@ level: Coupe Animath Printemps
 > Anne a conduit sa voiture pendant un nombre entier non nul d'heures, et a parcouru un nombre entier de kilomètres, à la vitesse de $55\,\mathrm{km/h}$. Au début du trajet, le compteur indiquait $abc$ kilomètres, où $abc$ est un nombre de $3$ chiffres tel que $a \geqslant 1$ et $a + b + c \leqslant 7$. À la fin du trajet, le compteur indiquait $cba$ kilomètres. Déterminer toutes les valeurs possibles du nombre $abc$.
 
 **Topic:** [[topic_aritmetica|Arithmétique / Théorie des nombres]]
-**Metodo:** [[method_casework|Disjonction de cas]]
+**Metodo:** [[method_casework|Disjonction de cas]], [[method_fattorizzazione|Factorisation]], [[method_congruenze|Congruences]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipulation algébrique]], [[skill_casework_accurato|Disjonction de cas soigneuse]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Arithmétique et théorie des nombres]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1zEV9ua9loSunYFO0wWax6WvRV2D57hXh/view)
@@ -92,7 +98,10 @@ level: Coupe Animath Printemps
 >
 > Anne ha guidato l'auto per un numero intero positivo di ore, e ha percorso un numero intero di chilometri, alla velocità di $55\,\mathrm{km/h}$. All'inizio del tragitto il contachilometri indicava $abc$ chilometri, dove $abc$ è un numero di $3$ cifre tale che $a \geqslant 1$ e $a + b + c \leqslant 7$. Alla fine del tragitto il contachilometri indicava $cba$ chilometri. Determinare tutti i valori possibili del numero $abc$.
 
-[[Quesiti/src_canimath_2016_printemps#q02|src_canimath_2016_printemps__Q02]]
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Analisi per casi]], [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]], [[method_congruenze|Aritmetica modulare / congruenze]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -104,11 +113,14 @@ level: Coupe Animath Printemps
 >
 > Anne drove her car for a positive integer number of hours, and covered an integer number of kilometres, at a speed of $55\,\mathrm{km/h}$. At the start of the trip, the odometer showed $abc$ kilometres, where $abc$ is a $3$-digit number such that $a \geqslant 1$ and $a + b + c \leqslant 7$. At the end of the trip, the odometer showed $cba$ kilometres. Determine all possible values of the number $abc$.
 
-[[Quesiti/src_canimath_2016_printemps#q02|src_canimath_2016_printemps__Q02]]
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_casework|Case analysis]], [[method_fattorizzazione|Factorisation / algebraic manipulation]], [[method_congruenze|Modular arithmetic / congruences]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
 
 
-<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_logica,topic_combinatoria,method_casework,skill_astrazione,skill_lettura_attenta"></span>
+<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_logica,topic_combinatoria,method_casework,skill_astrazione,skill_lettura_attenta,skill_casework_accurato,skill_modellizzazione"></span>
 
 <div class="qlang-switch" data-default="fr"></div>
 
@@ -123,7 +135,7 @@ level: Coupe Animath Printemps
 
 **Topic:** [[topic_logica|Logique]], [[topic_combinatoria|Combinatoire]]
 **Metodo:** [[method_casework|Disjonction de cas]]
-**Abilita:** [[skill_astrazione|Abstraction]], [[skill_lettura_attenta|Lecture attentive]]
+**Abilita:** [[skill_astrazione|Abstraction]], [[skill_lettura_attenta|Lecture attentive]], [[skill_casework_accurato|Analyse par cas soigneuse]], [[skill_modellizzazione|Modélisation]]
 **Area:** [[Combinatoria, Logica e Probabilita|Combinatoire, logique et probabilités]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1zEV9ua9loSunYFO0wWax6WvRV2D57hXh/view)
 
@@ -139,7 +151,10 @@ level: Coupe Animath Printemps
 >
 > Sapendo che ci sono strettamente più furfanti che cavalieri, come può un osservatore determinare chi è un furfante e chi è un cavaliere?
 
-[[Quesiti/src_canimath_2016_printemps#q03|src_canimath_2016_printemps__Q03]]
+**Topic:** [[topic_logica|Logica, giochi, strategie]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_astrazione|Astrazione / generalizzazione]], [[skill_lettura_attenta|Lettura attenta del testo]], [[skill_casework_accurato|Casework accurato]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -153,11 +168,14 @@ level: Coupe Animath Printemps
 >
 > Given that there are strictly more knaves than knights, how can an observer determine who is a knave and who is a knight?
 
-[[Quesiti/src_canimath_2016_printemps#q03|src_canimath_2016_printemps__Q03]]
+**Topic:** [[topic_logica|Logic, games and strategies]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_astrazione|Abstraction / generalisation]], [[skill_lettura_attenta|Careful reading of the text]], [[skill_casework_accurato|Careful case analysis]], [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
 
 
-<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_geometria_piana,topic_disuguaglianze,method_disuguaglianze,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
+<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_geometria_piana,topic_disuguaglianze,method_disuguaglianze,method_simmetria,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="fr"></div>
 
@@ -169,7 +187,7 @@ level: Coupe Animath Printemps
 > Dans le plan, on considère un trapèze $ABCD$ dont les diagonales sont de même longueur. Prouver que, pour tout point $M$ du plan, la somme des distances de $M$ à trois sommets quelconques du trapèze est toujours strictement plus grande que la distance de $M$ au quatrième sommet.
 
 **Topic:** [[topic_geometria_piana|Géométrie plane]], [[topic_disuguaglianze|Inégalités]]
-**Metodo:** [[method_disuguaglianze|Inégalités]]
+**Metodo:** [[method_disuguaglianze|Inégalités]], [[method_simmetria|Symétrie]]
 **Abilita:** [[skill_ragionamento_geometrico|Raisonnement géométrique]], [[skill_manipolazione_algebrica|Manipulation algébrique]]
 **Area:** [[Geometria|Géométrie]], [[Algebra e Analisi|Algèbre et analyse]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1zEV9ua9loSunYFO0wWax6WvRV2D57hXh/view)
@@ -184,7 +202,10 @@ level: Coupe Animath Printemps
 >
 > Nel piano si consideri un trapezio $ABCD$ le cui diagonali hanno la stessa lunghezza. Dimostrare che, per ogni punto $M$ del piano, la somma delle distanze di $M$ da tre vertici qualunque del trapezio è sempre strettamente maggiore della distanza di $M$ dal quarto vertice.
 
-[[Quesiti/src_canimath_2016_printemps#q04|src_canimath_2016_printemps__Q04]]
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_disuguaglianze|Disuguaglianze]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze classiche]], [[method_simmetria|Sfruttamento della simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]], [[Algebra e Analisi]]
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -196,14 +217,14 @@ level: Coupe Animath Printemps
 >
 > In the plane, consider a trapezium $ABCD$ whose diagonals have the same length. Prove that, for every point $M$ of the plane, the sum of the distances from $M$ to any three vertices of the trapezium is always strictly greater than the distance from $M$ to the fourth vertex.
 
-[[Quesiti/src_canimath_2016_printemps#q04|src_canimath_2016_printemps__Q04]]
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_disuguaglianze|Inequalities]]
+**Metodo:** [[method_disuguaglianze|Classical inequalities]], [[method_simmetria|Using symmetry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Geometria|Geometry]], [[Algebra e Analisi|Algebra and analysis]]
 
 
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_algebra,topic_aritmetica,method_casework,skill_manipolazione_algebrica,skill_casework_accurato"></span>
-
-<div class="qlang-switch" data-default="fr"></div>
-
 
 *Cinq réels, sommes deux à deux : retrouver e*
 
@@ -218,20 +239,20 @@ level: Coupe Animath Printemps
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1zEV9ua9loSunYFO0wWax6WvRV2D57hXh/view)
 
 
-<div class="qlang-split" data-lang="it"></div>
 
+<span class="atom-split" id="q05__en" data-atom="q05__en" data-title="Q05__EN" data-tags=""></span>
 
-*Cinque reali, somme a due a due: ritrovare e*
-
-> **Esercizio 5**
->
-> Siano $a < b < c < d < e$ numeri reali. Si calcolano tutte le somme possibili di due numeri distinti tra questi cinque. Le tre più piccole valgono $32$, $36$ e $37$, e le due più grandi valgono $48$ e $51$. Trovare tutti i valori possibili di $e$.
-
-[[Quesiti/src_canimath_2016_printemps#q05|src_canimath_2016_printemps__Q05]]
-
-
-<div class="qlang-split" data-lang="en"></div>
-
+---
+tipo: quesito-translation
+translation_of: src_canimath_2016_printemps__Q05
+lang: en
+secondary: true
+title: "Coupe Animath Printemps 2016 — Exercise 5"
+summary: "Five reals, pairwise sums: recover e"
+topics: [topic_algebra, topic_aritmetica]
+methods: [method_casework]
+skills: [skill_manipolazione_algebrica, skill_casework_accurato]
+tags: [kg/translation, topic/algebra, topic/aritmetica]---
 
 *Five reals, pairwise sums: recover e*
 
@@ -239,11 +260,43 @@ level: Coupe Animath Printemps
 >
 > Let $a < b < c < d < e$ be real numbers. All possible sums of two distinct numbers among these five are computed. The three smallest equal $32$, $36$ and $37$, and the two largest equal $48$ and $51$. Find all possible values of $e$.
 
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 [[Quesiti/src_canimath_2016_printemps#q05|src_canimath_2016_printemps__Q05]]
 
 
 
-<span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_combinatoria,topic_geometria_piana,method_conteggio,method_casework,skill_conteggio_sistematico,skill_ragionamento_geometrico"></span>
+<span class="atom-split" id="q05__it" data-atom="q05__it" data-title="Q05__IT" data-tags=""></span>
+
+---
+tipo: quesito-translation
+translation_of: src_canimath_2016_printemps__Q05
+lang: it
+secondary: true
+title: "Coupe Animath Primavera 2016 — Esercizio 5"
+summary: "Cinque reali, somme a due a due: ritrovare e"
+topics: [topic_algebra, topic_aritmetica]
+methods: [method_casework]
+skills: [skill_manipolazione_algebrica, skill_casework_accurato]
+tags: [kg/translation, topic/algebra, topic/aritmetica]---
+
+*Cinque reali, somme a due a due: ritrovare e*
+
+> **Esercizio 5**
+>
+> Siano $a < b < c < d < e$ numeri reali. Si calcolano tutte le somme possibili di due numeri distinti tra questi cinque. Le tre più piccole valgono $32$, $36$ e $37$, e le due più grandi valgono $48$ e $51$. Trovare tutti i valori possibili di $e$.
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
+[[Quesiti/src_canimath_2016_printemps#q05|src_canimath_2016_printemps__Q05]]
+
+
+
+<span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_combinatoria,topic_geometria_piana,method_conteggio,method_casework,method_doppio_conteggio,skill_conteggio_sistematico,skill_ragionamento_geometrico"></span>
 
 <div class="qlang-switch" data-default="fr"></div>
 
@@ -257,7 +310,7 @@ level: Coupe Animath Printemps
 > Est-il possible qu'exactement la moitié de ces triangles aient leurs trois côtés qui soient des diagonales ?
 
 **Topic:** [[topic_combinatoria|Combinatoire]], [[topic_geometria_piana|Géométrie plane]]
-**Metodo:** [[method_conteggio|Dénombrement]], [[method_casework|Disjonction de cas]]
+**Metodo:** [[method_conteggio|Dénombrement]], [[method_casework|Disjonction de cas]], [[method_doppio_conteggio|Double comptage]]
 **Abilita:** [[skill_conteggio_sistematico|Dénombrement systématique]], [[skill_ragionamento_geometrico|Raisonnement géométrique]]
 **Area:** [[Combinatoria, Logica e Probabilita|Combinatoire, logique et probabilités]], [[Geometria|Géométrie]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1zEV9ua9loSunYFO0wWax6WvRV2D57hXh/view)
@@ -274,7 +327,10 @@ level: Coupe Animath Printemps
 >
 > È possibile che esattamente la metà di questi triangoli abbia tutti e tre i lati che sono diagonali?
 
-[[Quesiti/src_canimath_2016_printemps#q06|src_canimath_2016_printemps__Q06]]
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_conteggio|Conteggio combinatorio]], [[method_casework|Analisi per casi]], [[method_doppio_conteggio|Doppio conteggio]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -288,11 +344,14 @@ level: Coupe Animath Printemps
 >
 > Is it possible that exactly half of these triangles have all three sides that are diagonals?
 
-[[Quesiti/src_canimath_2016_printemps#q06|src_canimath_2016_printemps__Q06]]
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_conteggio|Combinatorial counting]], [[method_casework|Case analysis]], [[method_doppio_conteggio|Double counting]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]], [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Geometria|Geometry]]
 
 
 
-<span class="atom-split" id="q07" data-atom="q07" data-title="Quesito 7" data-tags="topic_aritmetica,method_casework,method_cassetti,skill_casework_accurato,skill_riconoscimento_pattern"></span>
+<span class="atom-split" id="q07" data-atom="q07" data-title="Quesito 7" data-tags="topic_aritmetica,method_casework,method_cassetti,method_congruenze,skill_casework_accurato,skill_riconoscimento_pattern"></span>
 
 <div class="qlang-switch" data-default="fr"></div>
 
@@ -304,7 +363,7 @@ level: Coupe Animath Printemps
 > Montrer que parmi $18$ entiers consécutifs inférieurs ou égaux à $2016$, il en existe au moins un qui est divisible par la somme de ses chiffres.
 
 **Topic:** [[topic_aritmetica|Arithmétique / Théorie des nombres]]
-**Metodo:** [[method_casework|Disjonction de cas]], [[method_cassetti|Principe des tiroirs]]
+**Metodo:** [[method_casework|Disjonction de cas]], [[method_cassetti|Principe des tiroirs]], [[method_congruenze|Congruences]]
 **Abilita:** [[skill_casework_accurato|Disjonction de cas soigneuse]], [[skill_riconoscimento_pattern|Reconnaissance de motifs]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Arithmétique et théorie des nombres]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1zEV9ua9loSunYFO0wWax6WvRV2D57hXh/view)
@@ -319,7 +378,10 @@ level: Coupe Animath Printemps
 >
 > Dimostrare che tra $18$ interi consecutivi minori o uguali a $2016$ ne esiste almeno uno divisibile per la somma delle sue cifre.
 
-[[Quesiti/src_canimath_2016_printemps#q07|src_canimath_2016_printemps__Q07]]
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Analisi per casi]], [[method_cassetti|Principio dei cassetti]], [[method_congruenze|Aritmetica modulare / congruenze]]
+**Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -331,11 +393,14 @@ level: Coupe Animath Printemps
 >
 > Prove that among $18$ consecutive integers less than or equal to $2016$, there is at least one that is divisible by the sum of its digits.
 
-[[Quesiti/src_canimath_2016_printemps#q07|src_canimath_2016_printemps__Q07]]
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_casework|Case analysis]], [[method_cassetti|Pigeonhole principle]], [[method_congruenze|Modular arithmetic / congruences]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]], [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
 
 
-<span class="atom-split" id="q08" data-atom="q08" data-title="Quesito 8" data-tags="topic_combinatoria,topic_logica,method_doppio_conteggio,method_casework,skill_astrazione,skill_modellizzazione"></span>
+<span class="atom-split" id="q08" data-atom="q08" data-title="Quesito 8" data-tags="topic_combinatoria,topic_logica,method_doppio_conteggio,method_casework,skill_astrazione,skill_modellizzazione,skill_conteggio_sistematico"></span>
 
 <div class="qlang-switch" data-default="fr"></div>
 
@@ -352,7 +417,7 @@ level: Coupe Animath Printemps
 
 **Topic:** [[topic_combinatoria|Combinatoire]], [[topic_logica|Logique]]
 **Metodo:** [[method_doppio_conteggio|Double comptage]], [[method_casework|Disjonction de cas]]
-**Abilita:** [[skill_astrazione|Abstraction]], [[skill_modellizzazione|Modélisation]]
+**Abilita:** [[skill_astrazione|Abstraction]], [[skill_modellizzazione|Modélisation]], [[skill_conteggio_sistematico|Dénombrement systématique]]
 **Area:** [[Combinatoria, Logica e Probabilita|Combinatoire, logique et probabilités]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1zEV9ua9loSunYFO0wWax6WvRV2D57hXh/view)
 
@@ -370,7 +435,10 @@ level: Coupe Animath Printemps
 >
 > c) La risposta alla prima domanda sarebbe la stessa se si sostituisse ovunque «due terzi» con «sette decimi»?
 
-[[Quesiti/src_canimath_2016_printemps#q08|src_canimath_2016_printemps__Q08]]
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_logica|Logica, giochi, strategie]]
+**Metodo:** [[method_doppio_conteggio|Doppio conteggio]], [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_astrazione|Astrazione / generalizzazione]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -386,4 +454,7 @@ level: Coupe Animath Printemps
 >
 > c) Would the answer to the first question be the same if "two thirds" were replaced everywhere by "seven tenths"?
 
-[[Quesiti/src_canimath_2016_printemps#q08|src_canimath_2016_printemps__Q08]]
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_logica|Logic, games and strategies]]
+**Metodo:** [[method_doppio_conteggio|Double counting]], [[method_casework|Case analysis]]
+**Abilita:** [[skill_astrazione|Abstraction / generalisation]], [[skill_modellizzazione|Modelling / translating the text]], [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]

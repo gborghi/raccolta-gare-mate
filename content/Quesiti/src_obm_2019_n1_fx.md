@@ -50,8 +50,6 @@ level: OBM Nível 1
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 
-[[Quesiti/src_obm_2019_n1_fx#q01|src_obm_2019_n1_fx__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_combinatoria,method_casework,method_conteggio,method_casi_conteggio,skill_conteggio_sistematico,skill_casework_accurato,skill_lettura_attenta"></span>
@@ -73,7 +71,7 @@ level: OBM Nível 1
 > 
 > d) all ten tiles are placed, so that in any two small squares sharing a side there are no two black tiles?
 
-![[src_obm_2019_n1_fx__q02.png]]
+![[src_obm_2019_n1_fx__Q02.png]]
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]], [[method_casi_conteggio|Casi e conteggio]]
@@ -99,18 +97,16 @@ level: OBM Nível 1
 >
 > d) tutte e dieci le tessere sono posizionate, in modo che in qualsiasi due piccoli quadrati che condividono un lato non ci siano due tessere nere?
 
-![[src_obm_2019_n1_fx__q02.png]]
+![[src_obm_2019_n1_fx__Q02.png]]
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]], [[method_casi_conteggio|Casi e conteggio]]
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 
-[[Quesiti/src_obm_2019_n1_fx#q02|src_obm_2019_n1_fx__Q02]]
 
 
-
-<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_aritmetica,topic_geometria_piana,method_ricorsione,method_casework,skill_riconoscimento_pattern,skill_conteggio_sistematico,skill_ragionamento_geometrico,skill_lettura_attenta"></span>
+<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_aritmetica,topic_geometria_piana,method_ricorsione,method_casework,method_conteggio,method_coordinate,skill_riconoscimento_pattern,skill_conteggio_sistematico,skill_ragionamento_geometrico,skill_lettura_attenta"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -129,12 +125,12 @@ level: OBM Nível 1
 > 
 > c) Determine the legs of the triangle that could be used to calculate the distance from square $1$ to square $2019$.
 
-![[src_obm_2019_n1_fx__q03.png]]
+![[src_obm_2019_n1_fx__Q03.png]]
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_geometria_piana|Geometria piana]]
-**Metodo:** [[method_ricorsione|Ricorsione]], [[method_casework|Casework]]
+**Metodo:** [[method_ricorsione|Ricorsione]], [[method_casework|Casework]], [[method_conteggio|Combinatorial counting]], [[method_coordinate|Coordinate method]]
 **Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
-**Area:** [[Aritmetica e Teoria dei Numeri]], [[Geometria]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Geometria|Geometry]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1pakMGdmqn3t7vFmFJmF7aCi7jvCUTIEX/view)
 
 
@@ -155,18 +151,17 @@ level: OBM Nível 1
 >
 > c) Determina i cateti del triangolo che potrebbero essere utilizzati per calcolare la distanza tra il quadrato $1$ e il quadrato $2019$.
 
-![[src_obm_2019_n1_fx__q03.png]]
+![[src_obm_2019_n1_fx__Q03.png]]
+
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_geometria_piana|Geometria piana]]
-**Metodo:** [[method_ricorsione|Ricorsione]], [[method_casework|Casework]]
+**Metodo:** [[method_ricorsione|Ricorsione]], [[method_casework|Casework]], [[method_conteggio|Conteggio combinatorio]], [[method_coordinate|Metodo delle coordinate]]
 **Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Geometria]]
 
-[[Quesiti/src_obm_2019_n1_fx#q03|src_obm_2019_n1_fx__Q03]]
 
 
-
-<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_aritmetica,topic_algebra,method_casework,method_simmetria,skill_manipolazione_algebrica,skill_lettura_attenta,skill_casework_accurato,skill_conteggio_sistematico"></span>
+<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_aritmetica,topic_algebra,topic_combinatoria,method_casework,method_simmetria,skill_manipolazione_algebrica,skill_lettura_attenta,skill_casework_accurato,skill_conteggio_sistematico"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -183,12 +178,12 @@ level: OBM Nível 1
 > 
 > Find all possible values of $x + y$ and, for each value, give an example of how to fill in all the numbers.
 
-![[src_obm_2019_n1_fx__q04.png]]
+![[src_obm_2019_n1_fx__Q04.png]]
 
-**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]], [[topic_combinatoria|Combinatorics]]
 **Metodo:** [[method_casework|Casework]], [[method_simmetria|Simmetria]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_casework_accurato|Casework accurato]], [[skill_conteggio_sistematico|Conteggio sistematico]]
-**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Algebra e Analisi|Algebra and analysis]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1pakMGdmqn3t7vFmFJmF7aCi7jvCUTIEX/view)
 
 
@@ -207,18 +202,17 @@ level: OBM Nível 1
 >
 > Trovare tutti i valori possibili di $x + y$ e, per ciascun valore, fornisci un esempio di come compilare tutti i numeri.
 
-![[src_obm_2019_n1_fx__q04.png]]
+![[src_obm_2019_n1_fx__Q04.png]]
 
-**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_casework|Casework]], [[method_simmetria|Simmetria]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_casework_accurato|Casework accurato]], [[skill_conteggio_sistematico|Conteggio sistematico]]
-**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
-
-[[Quesiti/src_obm_2019_n1_fx#q04|src_obm_2019_n1_fx__Q04]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]], [[Combinatoria, Logica e Probabilita]]
 
 
 
-<span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_geometria_piana,topic_combinatoria,topic_aritmetica,method_conteggio,method_coordinate,method_casework,skill_ragionamento_geometrico,skill_modellizzazione,skill_conteggio_sistematico,skill_lettura_attenta"></span>
+<span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_geometria_piana,topic_combinatoria,topic_aritmetica,topic_geometria_analitica,method_conteggio,method_coordinate,method_casework,skill_ragionamento_geometrico,skill_modellizzazione,skill_conteggio_sistematico,skill_lettura_attenta"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -235,12 +229,12 @@ level: OBM Nível 1
 > 
 > c) Show that there exists a square with vertices on the grid that has exactly $84$ lattice points in its interior.
 
-![[src_obm_2019_n1_fx__q05.png]]
+![[src_obm_2019_n1_fx__Q05.png]]
 
-**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_geometria_analitica|Coordinate geometry]]
 **Metodo:** [[method_conteggio|Conteggio]], [[method_coordinate|Coordinate]], [[method_casework|Casework]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]]
-**Area:** [[Geometria]], [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
+**Area:** [[Geometria|Geometry]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1pakMGdmqn3t7vFmFJmF7aCi7jvCUTIEX/view)
 
 
@@ -259,11 +253,10 @@ level: OBM Nível 1
 >
 > c) Dimostrare che esiste un quadrato i cui vertici giacciono sulla griglia e che ha esattamente $84$ punti della rete nel suo interno.
 
-![[src_obm_2019_n1_fx__q05.png]]
+![[src_obm_2019_n1_fx__Q05.png]]
 
-**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_geometria_analitica|Geometria analitica]]
 **Metodo:** [[method_conteggio|Conteggio]], [[method_coordinate|Coordinate]], [[method_casework|Casework]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Geometria]], [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
-
-[[Quesiti/src_obm_2019_n1_fx#q05|src_obm_2019_n1_fx__Q05]]

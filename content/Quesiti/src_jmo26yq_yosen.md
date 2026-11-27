@@ -10,7 +10,7 @@ level: JMO Yosen
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_algebra,topic_aritmetica,method_fattorizzazione,skill_manipolazione_algebrica"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_algebra,topic_aritmetica,method_fattorizzazione,skill_manipolazione_algebrica,skill_riconoscimento_pattern"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -22,8 +22,8 @@ level: JMO Yosen
 
 **Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_fattorizzazione|Fattorizzazione]]
-**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
-**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Risposta:** 11221
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Ttr4Phm_EHRmjQHmM2PIkyFcAC0dTva0/view)
 
@@ -40,10 +40,12 @@ level: JMO Yosen
 > $$\sqrt{\dfrac{11^4 + 100^4 + 111^4}{2}}.$$
 
 **Argomento:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei numeri]]
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei numeri]]
 **Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
-**Abilità:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 11221
-[[Quesiti/src_jmo26yq_yosen#q01|src_jmo26yq_yosen__Q01]]
 
 
 
@@ -76,8 +78,8 @@ level: JMO Yosen
 **Argomento:** [[topic_aritmetica|Aritmetica / Teoria dei numeri]]
 **Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]], [[method_conteggio|Conteggio combinatorio]]
 **Abilità:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta del testo]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 600
-[[Quesiti/src_jmo26yq_yosen#q02|src_jmo26yq_yosen__Q02]]
 
 
 
@@ -110,12 +112,12 @@ level: JMO Yosen
 **Argomento:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_trigonometria|Tecniche trigonometriche]]
 **Abilità:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Geometria]]
 **Risposta:** $95^\circ$
-[[Quesiti/src_jmo26yq_yosen#q03|src_jmo26yq_yosen__Q03]]
 
 
 
-<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_combinatoria,method_casework,method_conteggio,skill_conteggio_sistematico,skill_casework_accurato"></span>
+<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_combinatoria,method_casework,method_conteggio,skill_conteggio_sistematico,skill_casework_accurato,skill_lettura_attenta"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -126,8 +128,8 @@ level: JMO Yosen
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]]
-**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]]
-**Area:** [[Combinatoria, Logica e Probabilita]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]], [[skill_lettura_attenta|Careful reading of the text]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Risposta:** 32400
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Ttr4Phm_EHRmjQHmM2PIkyFcAC0dTva0/view)
 
@@ -142,10 +144,12 @@ level: JMO Yosen
 > Una griglia $11 \times 11$ di caselle unitarie è partizionata lungo le linee della griglia in $5$ rettangoli. Tra queste partizioni, si considerino quelle in cui esattamente uno dei rettangoli ottenuti non tocca il bordo esterno della griglia (nessuno dei suoi lati sta sul bordo esterno). Quante sono tali partizioni? Due partizioni che coincidono per rotazione o riflessione si contano come distinte.
 
 **Argomento:** [[topic_combinatoria|Combinatoria]]
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_casework|Analisi per casi]], [[method_conteggio|Conteggio combinatorio]]
-**Abilità:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Analisi per casi accurata]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Analisi per casi accurata]], [[skill_lettura_attenta|Lettura attenta del testo]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 32400
-[[Quesiti/src_jmo26yq_yosen#q04|src_jmo26yq_yosen__Q04]]
 
 
 
@@ -178,12 +182,12 @@ level: JMO Yosen
 **Argomento:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_simmetria|Sfruttamento della simmetria]]
 **Abilità:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
 **Risposta:** $\dfrac{63}{4}$
-[[Quesiti/src_jmo26yq_yosen#q05|src_jmo26yq_yosen__Q05]]
 
 
 
-<span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_combinatoria,topic_aritmetica,method_doppio_conteggio,method_simmetria,skill_conteggio_sistematico"></span>
+<span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_combinatoria,topic_aritmetica,topic_probabilita,method_doppio_conteggio,method_simmetria,skill_conteggio_sistematico"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -192,10 +196,10 @@ level: JMO Yosen
 
 > The integers from $1$ to $200$ are each written exactly once on separate lottery tickets, and exactly $100$ of them are circled (chosen). For such a choice, the score is defined as the sum of the circled integers minus the sum of the $100$ integers that are not circled. Compute the average of this score over all possible choices.
 
-**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_probabilita|Probability and statistics]]
 **Metodo:** [[method_doppio_conteggio|Doppio conteggio]], [[method_simmetria|Simmetria]]
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
-**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Risposta:** 670000
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Ttr4Phm_EHRmjQHmM2PIkyFcAC0dTva0/view)
 
@@ -210,10 +214,12 @@ level: JMO Yosen
 > Gli interi da $1$ a $200$ sono scritti ciascuno esattamente una volta su biglietti della lotteria distinti, e esattamente $100$ di essi sono cerchiati (scelti). Per una tale scelta, il punteggio è la somma degli interi cerchiati meno la somma degli $100$ interi non cerchiati. Calcolare la media di questo punteggio su tutte le scelte possibili.
 
 **Argomento:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei numeri]]
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei numeri]], [[topic_probabilita|Probabilita e statistica]]
 **Metodo:** [[method_doppio_conteggio|Doppio conteggio]], [[method_simmetria|Sfruttamento della simmetria]]
-**Abilità:** [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 670000
-[[Quesiti/src_jmo26yq_yosen#q06|src_jmo26yq_yosen__Q06]]
 
 
 
@@ -252,8 +258,8 @@ level: JMO Yosen
 **Argomento:** [[topic_algebra|Algebra]], [[topic_disuguaglianze|Disuguaglianze]]
 **Metodo:** [[method_disuguaglianze|Disuguaglianze classiche]]
 **Abilità:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Algebra e Analisi]]
 **Risposta:** 7
-[[Quesiti/src_jmo26yq_yosen#q07|src_jmo26yq_yosen__Q07]]
 
 
 
@@ -286,12 +292,12 @@ level: JMO Yosen
 **Argomento:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_trigonometria|Tecniche trigonometriche]]
 **Abilità:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
 **Risposta:** $\dfrac{3\sqrt{10}}{5}$
-[[Quesiti/src_jmo26yq_yosen#q08|src_jmo26yq_yosen__Q08]]
 
 
 
-<span class="atom-split" id="q09" data-atom="q09" data-title="Quesito 9" data-tags="topic_aritmetica,method_conteggio,method_casework,skill_conteggio_sistematico"></span>
+<span class="atom-split" id="q09" data-atom="q09" data-title="Quesito 9" data-tags="topic_aritmetica,method_conteggio,method_casework,method_congruenze,skill_conteggio_sistematico,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -301,9 +307,9 @@ level: JMO Yosen
 > How many pairs of integers $(a, b)$ with $1 \le a, b \le 2015$ are there such that $a$ is a multiple of $b + 1$ and $2016 - a$ is a multiple of $b$?
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_conteggio|Conteggio]], [[method_casework|Casework]]
-**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
-**Area:** [[Aritmetica e Teoria dei Numeri]]
+**Metodo:** [[method_conteggio|Conteggio]], [[method_casework|Casework]], [[method_congruenze|Modular arithmetic / congruences]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Risposta:** 1980
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Ttr4Phm_EHRmjQHmM2PIkyFcAC0dTva0/view)
 
@@ -318,14 +324,16 @@ level: JMO Yosen
 > Quante coppie di interi $(a, b)$ con $1 \le a, b \le 2015$ sono tali che $a$ è un multiplo di $b + 1$ e $2016 - a$ è un multiplo di $b$?
 
 **Argomento:** [[topic_aritmetica|Aritmetica / Teoria dei numeri]]
-**Metodo:** [[method_conteggio|Conteggio combinatorio]], [[method_casework|Analisi per casi]]
-**Abilità:** [[skill_conteggio_sistematico|Conteggio sistematico]]
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei numeri]]
+**Metodo:** [[method_conteggio|Conteggio combinatorio]], [[method_casework|Analisi per casi]], [[method_congruenze|Aritmetica modulare / congruenze]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 1980
-[[Quesiti/src_jmo26yq_yosen#q09|src_jmo26yq_yosen__Q09]]
 
 
 
-<span class="atom-split" id="q10" data-atom="q10" data-title="Quesito 10" data-tags="topic_combinatoria,topic_geometria_piana,method_estremalita,method_casework,skill_modellizzazione,skill_stima"></span>
+<span class="atom-split" id="q10" data-atom="q10" data-title="Quesito 10" data-tags="topic_combinatoria,topic_geometria_piana,method_estremalita,method_casework,skill_modellizzazione,skill_stima,skill_ragionamento_geometrico"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -336,8 +344,8 @@ level: JMO Yosen
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_estremalita|Estremalità]], [[method_casework|Casework]]
-**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_stima|Stima]]
-**Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_stima|Stima]], [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Geometria|Geometry]]
 **Risposta:** $1 - \dfrac{1}{3 \cdot 2^{1008} - 2}$
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Ttr4Phm_EHRmjQHmM2PIkyFcAC0dTva0/view)
 
@@ -352,14 +360,16 @@ level: JMO Yosen
 > Su una circonferenza ci sono $2016$ bandiere poste in posizioni equispaziate ($2016$ punti, quelle adiacenti a distanza d'arco $1$). La persona A si muove lungo la circonferenza e vuole abbassare tutte le bandiere. Nel caso peggiore sulla posizione di partenza di A, trovare la minima distanza totale che A deve percorrere per poter abbassare tutte le bandiere. A non deve tornare al punto di partenza. (La risposta ha la forma sotto.)
 
 **Argomento:** [[topic_combinatoria|Combinatoria]], [[topic_geometria_piana|Geometria piana]]
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_estremalita|Principio di estremalità]], [[method_casework|Analisi per casi]]
-**Abilità:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_stima|Stima e approssimazione]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_stima|Stima e approssimazione]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 **Risposta:** $1 - \dfrac{1}{3 \cdot 2^{1008} - 2}$
-[[Quesiti/src_jmo26yq_yosen#q10|src_jmo26yq_yosen__Q10]]
 
 
 
-<span class="atom-split" id="q11" data-atom="q11" data-title="Quesito 11" data-tags="topic_combinatoria,topic_aritmetica,method_invarianti,method_casework,skill_conteggio_sistematico,skill_riconoscimento_pattern"></span>
+<span class="atom-split" id="q11" data-atom="q11" data-title="Quesito 11" data-tags="topic_combinatoria,topic_aritmetica,method_invarianti,method_casework,method_congruenze,skill_conteggio_sistematico,skill_riconoscimento_pattern"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -369,9 +379,9 @@ level: JMO Yosen
 > How many pairs of integers $(a, b)$ with $a, b \ge 2$ are there such that there exists a sequence $x_1, x_2, \ldots, x_{1000}$ satisfying both of the following conditions? (i) $x_1, x_2, \ldots, x_{1000}$ is a rearrangement of $1, 2, \ldots, 1000$. (ii) For every integer $i$ with $1 \le i \le 1000$ (indices taken cyclically), either $x_{i+1} = x_i + a$ or $x_{i+1} = x_i - b$ holds.
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_invarianti|Invarianti]], [[method_casework|Casework]]
+**Metodo:** [[method_invarianti|Invarianti]], [[method_casework|Casework]], [[method_congruenze|Modular arithmetic / congruences]]
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
-**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Risposta:** 2940
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Ttr4Phm_EHRmjQHmM2PIkyFcAC0dTva0/view)
 
@@ -386,14 +396,16 @@ level: JMO Yosen
 > Quante coppie di interi $(a, b)$ con $a, b \ge 2$ sono tali che esiste una successione $x_1, x_2, \ldots, x_{1000}$ che soddisfa entrambe le condizioni seguenti? (i) $x_1, x_2, \ldots, x_{1000}$ è un riordinamento di $1, 2, \ldots, 1000$. (ii) Per ogni intero $i$ con $1 \le i \le 1000$ (indici presi in modo ciclico), vale $x_{i+1} = x_i + a$ oppure $x_{i+1} = x_i - b$.
 
 **Argomento:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei numeri]]
-**Metodo:** [[method_invarianti|Invarianti / monovarianti]], [[method_casework|Analisi per casi]]
-**Abilità:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di schemi]]
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei numeri]]
+**Metodo:** [[method_invarianti|Invarianti / monovarianti]], [[method_casework|Analisi per casi]], [[method_congruenze|Aritmetica modulare / congruenze]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di schemi]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 2940
-[[Quesiti/src_jmo26yq_yosen#q11|src_jmo26yq_yosen__Q11]]
 
 
 
-<span class="atom-split" id="q12" data-atom="q12" data-title="Quesito 12" data-tags="topic_combinatoria,topic_logica,method_estremalita,method_casework,skill_modellizzazione,skill_astrazione,skill_lettura_attenta"></span>
+<span class="atom-split" id="q12" data-atom="q12" data-title="Quesito 12" data-tags="topic_combinatoria,topic_logica,method_estremalita,method_casework,skill_modellizzazione,skill_astrazione,skill_lettura_attenta,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -404,8 +416,8 @@ level: JMO Yosen
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_logica|Logica]]
 **Metodo:** [[method_estremalita|Estremalità]], [[method_casework|Casework]]
-**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_astrazione|Astrazione]], [[skill_lettura_attenta|Lettura attenta]]
-**Area:** [[Combinatoria, Logica e Probabilita]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_astrazione|Astrazione]], [[skill_lettura_attenta|Lettura attenta]], [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Risposta:** 503
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Ttr4Phm_EHRmjQHmM2PIkyFcAC0dTva0/view)
 
@@ -420,7 +432,9 @@ level: JMO Yosen
 > Nel villaggio abitano persone numerate da $1$ a $2015$; tra gli $2016$ abitanti alcuni sono onesti e alcuni sono bugiardi, e c'è almeno un abitante onesto. Un abitante onesto dice sempre la verità, mentre un bugiardo può dire il vero o il falso (non si sa che cosa faccia ciascun bugiardo, né chi sia onesto). Si sa che il numero di abitanti onesti è esattamente $T$. Ogni abitante sa, per ogni altro abitante, se quello è onesto o bugiardo. In un giorno qualunque si può dare in segreto un'istruzione a un abitante scelto; il giorno dopo quell'abitante scrive il numero di bugiardi in un insieme specificato di abitanti e, la sera del $i$-esimo giorno, consegna il foglio all'abitante $i - k_i$ (con $1 \le i \le 2016$). Un abitante onesto scrive il conteggio vero; un bugiardo può scrivere un numero qualunque. Determinare il massimo valore di $T$ per il quale esiste una strategia che, comunque si comportino i bugiardi, permette di identificare correttamente tutti gli abitanti onesti. (Nota: parti del meccanismo di questo problema sono in parte illeggibili nella scansione; la risposta finale è $503$.)
 
 **Argomento:** [[topic_combinatoria|Combinatoria]], [[topic_logica|Logica, giochi, strategie]]
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_logica|Logica, giochi, strategie]]
 **Metodo:** [[method_estremalita|Principio di estremalità]], [[method_casework|Analisi per casi]]
-**Abilità:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_astrazione|Astrazione / generalizzazione]], [[skill_lettura_attenta|Lettura attenta del testo]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_astrazione|Astrazione / generalizzazione]], [[skill_lettura_attenta|Lettura attenta del testo]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 503
-[[Quesiti/src_jmo26yq_yosen#q12|src_jmo26yq_yosen__Q12]]

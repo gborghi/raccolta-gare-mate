@@ -36,11 +36,11 @@ level: JMO Honsen
 **Argomento:** [[topic_aritmetica|Aritmetica / Teoria dei numeri]]
 **Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]], [[method_estremalita|Principio di estremalità]]
 **Abilità:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di schemi]]
-[[Quesiti/src_jmo27mq_honsen#q01|src_jmo27mq_honsen__Q01]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
 
 
 
-<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_aritmetica,topic_combinatoria,method_congruenze,method_estremalita,method_invarianti,skill_lettura_attenta,skill_riconoscimento_pattern,skill_casework_accurato"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_aritmetica,topic_combinatoria,topic_funzionali,method_congruenze,method_estremalita,method_invarianti,skill_lettura_attenta,skill_riconoscimento_pattern,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -53,10 +53,10 @@ level: JMO Honsen
 > 
 > Show that there exists a positive integer $M$ such that $a_n = a_M$ holds for all $n \ge M$.
 
-**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]], [[topic_funzionali|Functional equations / sequences]]
 **Metodo:** [[method_congruenze|Congruenze]], [[method_estremalita|Estremalità]], [[method_invarianti|Invarianti]]
 **Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_casework_accurato|Casework accurato]]
-**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Algebra e Analisi|Algebra and analysis]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1AZZX6VzFmZDx55lXzMt3R4wZfWz3QnWc/view)
 
 
@@ -72,13 +72,15 @@ level: JMO Honsen
 > Dimostrare che esiste un intero positivo $M$ tale che $a_n = a_M$ valga per tutti i $n \ge M$.
 
 **Argomento:** [[topic_aritmetica|Aritmetica / Teoria dei numeri]], [[topic_combinatoria|Combinatoria]]
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei numeri]], [[topic_combinatoria|Combinatoria]], [[topic_funzionali|Equazioni funzionali / successioni]]
 **Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]], [[method_estremalita|Principio di estremalità]], [[method_invarianti|Invarianti / monovarianti]]
-**Abilità:** [[skill_lettura_attenta|Lettura attenta del testo]], [[skill_riconoscimento_pattern|Riconoscimento di schemi]], [[skill_casework_accurato|Analisi per casi accurata]]
-[[Quesiti/src_jmo27mq_honsen#q02|src_jmo27mq_honsen__Q02]]
+**Abilita:** [[skill_lettura_attenta|Lettura attenta del testo]], [[skill_riconoscimento_pattern|Riconoscimento di schemi]], [[skill_casework_accurato|Analisi per casi accurata]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]], [[Algebra e Analisi]]
 
 
 
-<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_geometria_piana,method_coordinate,method_trigonometria,method_simmetria,skill_ragionamento_geometrico,skill_astrazione"></span>
+<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_geometria_piana,method_coordinate,method_trigonometria,method_simmetria,skill_ragionamento_geometrico,skill_astrazione,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -89,8 +91,8 @@ level: JMO Honsen
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_coordinate|Coordinate]], [[method_trigonometria|Trigonometria]], [[method_simmetria|Simmetria]]
-**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_astrazione|Astrazione]]
-**Area:** [[Geometria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_astrazione|Astrazione]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Geometria|Geometry]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1AZZX6VzFmZDx55lXzMt3R4wZfWz3QnWc/view)
 
 
@@ -102,13 +104,15 @@ level: JMO Honsen
 > Sia $ABC$ un triangolo acutangolo di circocentro $O$. Siano $D$, $E$, $F$ i piedi delle perpendicolari abbassate da $A$, $B$, $C$ rispettivamente sui lati opposti, e sia $M$ il punto medio del lato $BC$. Sia $X$ l'intersezione della retta $AD$ e della retta $EF$, e sia $Y$ l'intersezione della retta $AO$ e della retta $BC$. Sia $Z$ il punto medio del segmento $XY$. Dimostrare che i tre punti $A$, $Z$, $M$ sono allineati.
 
 **Argomento:** [[topic_geometria_piana|Geometria piana]]
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_coordinate|Metodo delle coordinate]], [[method_trigonometria|Tecniche trigonometriche]], [[method_simmetria|Sfruttamento della simmetria]]
-**Abilità:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_astrazione|Astrazione / generalizzazione]]
-[[Quesiti/src_jmo27mq_honsen#q03|src_jmo27mq_honsen__Q03]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_astrazione|Astrazione / generalizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
 
 
 
-<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_combinatoria,method_doppio_conteggio,method_conteggio,method_estremalita,skill_conteggio_sistematico,skill_modellizzazione,skill_lettura_attenta"></span>
+<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_combinatoria,method_doppio_conteggio,method_conteggio,method_estremalita,method_grafi,skill_conteggio_sistematico,skill_modellizzazione,skill_lettura_attenta"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -118,9 +122,9 @@ level: JMO Honsen
 > Let $n$ be an integer with $n \ge 3$. There are $n$ people, and every day a gathering attended by at least $3$ of them is held. At each gathering, every two of the participants shake hands exactly once each. After the gathering on the $n$-th day ends, it turns out that every two of the $n$ people had shaken hands exactly once each in total. Show that the same number of people attended every gathering.
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
-**Metodo:** [[method_doppio_conteggio|Doppio conteggio]], [[method_conteggio|Conteggio]], [[method_estremalita|Estremalità]]
+**Metodo:** [[method_doppio_conteggio|Doppio conteggio]], [[method_conteggio|Conteggio]], [[method_estremalita|Estremalità]], [[method_grafi|Graph theory]]
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione]], [[skill_lettura_attenta|Lettura attenta]]
-**Area:** [[Combinatoria, Logica e Probabilita]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1AZZX6VzFmZDx55lXzMt3R4wZfWz3QnWc/view)
 
 
@@ -132,9 +136,11 @@ level: JMO Honsen
 > Sia $n$ un intero con $n \ge 3$. Ci sono $n$ persone, e ogni giorno si tiene una riunione a cui ne partecipano almeno $3$. A ogni riunione, due partecipanti qualunque si stringono la mano esattamente una volta ciascuno. Dopo la fine della riunione del $n$-esimo giorno, risulta che due qualunque delle $n$ persone si erano stretti la mano esattamente una volta ciascuno, in tutto. Dimostrare che a ogni riunione ha partecipato lo stesso numero di persone.
 
 **Argomento:** [[topic_combinatoria|Combinatoria]]
-**Metodo:** [[method_doppio_conteggio|Doppio conteggio]], [[method_conteggio|Conteggio combinatorio]], [[method_estremalita|Principio di estremalità]]
-**Abilità:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_lettura_attenta|Lettura attenta del testo]]
-[[Quesiti/src_jmo27mq_honsen#q04|src_jmo27mq_honsen__Q04]]
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_doppio_conteggio|Doppio conteggio]], [[method_conteggio|Conteggio combinatorio]], [[method_estremalita|Principio di estremalità]], [[method_grafi|Teoria dei grafi]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_lettura_attenta|Lettura attenta del testo]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
 
 
 
@@ -164,4 +170,4 @@ level: JMO Honsen
 **Argomento:** [[topic_aritmetica|Aritmetica / Teoria dei numeri]], [[topic_algebra|Algebra]]
 **Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]], [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
 **Abilità:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione / generalizzazione]]
-[[Quesiti/src_jmo27mq_honsen#q05|src_jmo27mq_honsen__Q05]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]

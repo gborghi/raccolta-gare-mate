@@ -10,7 +10,7 @@ level: JJMO Yosen
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_geometria_piana,method_coordinate,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_geometria_piana,method_coordinate,method_simmetria,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -19,12 +19,12 @@ level: JJMO Yosen
 
 > There are two squares $ABCD$ and $MCEF$. Point $M$ is the midpoint of side $DA$, and points $D$ and $F$ lie on the same side with respect to line $CM$. When the length of segment $AB$ is $1$, find the length of segment $BF$.
 
-![[src_jjmo12yq_yosen__q01.png]]
+![[src_jjmo12yq_yosen__Q01.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
-**Metodo:** [[method_coordinate|Coordinate]]
+**Metodo:** [[method_coordinate|Coordinate]], [[method_simmetria|Using symmetry]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
-**Area:** [[Geometria]]
+**Area:** [[Geometria|Geometry]]
 **Risposta:** $\frac{3}{2}\sqrt{2}$
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1tcV9cb2hx9tXMiZWTj0aE-6zga6Pd9sP/view)
 
@@ -36,18 +36,17 @@ level: JJMO Yosen
 
 > Ci sono due quadrati $ABCD$ e $MCEF$. Il punto $M$ è il punto medio del lato $DA$, e i punti $D$ e $F$ giacciono sullo stesso lato rispetto alla retta $CM$. Quando la lunghezza del segmento $AB$ è $1$, determina la lunghezza del segmento $BF$.
 
-![[src_jjmo12yq_yosen__q01.png]]
+![[src_jjmo12yq_yosen__Q01.png]]
+
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
-**Metodo:** [[method_coordinate|Coordinate]]
+**Metodo:** [[method_coordinate|Coordinate]], [[method_simmetria|Sfruttamento della simmetria]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 
-[[Quesiti/src_jjmo12yq_yosen#q01|src_jjmo12yq_yosen__Q01]]
 
 
-
-<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_aritmetica,topic_logica,method_casework,skill_lettura_attenta,skill_casework_accurato"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_aritmetica,topic_logica,method_casework,method_congruenze,skill_lettura_attenta,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -62,9 +61,9 @@ level: JJMO Yosen
 > Among these, the statements of three of them are correct and the remaining one is wrong. Find $n$.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_logica|Logica]]
-**Metodo:** [[method_casework|Casework]]
+**Metodo:** [[method_casework|Casework]], [[method_congruenze|Modular arithmetic / congruences]]
 **Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_casework_accurato|Casework accurato]]
-**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Risposta:** 168
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1tcV9cb2hx9tXMiZWTj0aE-6zga6Pd9sP/view)
 
@@ -76,12 +75,11 @@ level: JJMO Yosen
 
 > Per un numero intero positivo $n$ non superiore a $500$, quattro persone, A, B, C e D, dicono quanto segue: A: "$n$ è divisibile per $2$ esattamente $3$ volte (cioè $2^3 \mid n$ ma $2^4 \nmid n$)." B: "$n$ è divisibile per $3$ esattamente $2$ volte." C: "$n$ è divisibile per $7$ esattamente $1$ volta." D: "La somma delle cifre di $n$ è $15$." Tra queste, le affermazioni di tre di loro sono corrette e quella della restante è errata. Trovare $n$.
 
+
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_logica|Logica]]
-**Metodo:** [[method_casework|Casework]]
+**Metodo:** [[method_casework|Casework]], [[method_congruenze|Aritmetica modulare / congruenze]]
 **Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
-
-[[Quesiti/src_jjmo12yq_yosen#q02|src_jjmo12yq_yosen__Q02]]
 
 
 
@@ -94,7 +92,7 @@ level: JJMO Yosen
 
 > Starting from the center point of the figure below and moving along an edge to an adjacent point, this is repeated $10$ times so as to return to the center point. In how many ways can this be done? Here, it is allowed to move onto the center point partway through. (The figure is a $3 \times 3$ array of points connected by horizontal and vertical edges of a grid.)
 
-![[src_jjmo12yq_yosen__q03.png]]
+![[src_jjmo12yq_yosen__Q03.png]]
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_ricorsione|Ricorsione]], [[method_conteggio|Conteggio]], [[method_grafi|Grafi]]
@@ -111,18 +109,16 @@ level: JJMO Yosen
 
 > Partendo dal punto centrale della figura sottostante e muovendosi lungo un lato fino a un punto adiacente, si ripete questa operazione $10$ volte in modo da tornare al punto centrale. In quanti modi si può fare? Qui è consentito raggiungere il punto centrale a metà percorso. (La figura è una disposizione $3 \times 3$ di punti collegati da lati orizzontali e verticali di una griglia.)
 
-![[src_jjmo12yq_yosen__q03.png]]
+![[src_jjmo12yq_yosen__Q03.png]]
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_ricorsione|Ricorsione]], [[method_conteggio|Conteggio]], [[method_grafi|Grafi]]
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 
-[[Quesiti/src_jjmo12yq_yosen#q03|src_jjmo12yq_yosen__Q03]]
 
 
-
-<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_geometria_piana,method_trigonometria,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
+<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_geometria_piana,topic_trigonometria,method_trigonometria,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -131,10 +127,10 @@ level: JJMO Yosen
 
 > There is a cyclic pentagon $ABCDE$ with $AB=2$, $BC=5$, $CD=2$, $DE=5$, $AD=8$. Find the length of segment $BE$. Here, $XY$ denotes the length of segment $XY$.
 
-**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometry]]
 **Metodo:** [[method_trigonometria|Trigonometria]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
-**Area:** [[Geometria]]
+**Area:** [[Geometria|Geometry]]
 **Risposta:** $\frac{19}{2}$
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1tcV9cb2hx9tXMiZWTj0aE-6zga6Pd9sP/view)
 
@@ -146,12 +142,11 @@ level: JJMO Yosen
 
 > Esiste un pentagono ciclico $ABCDE$ con $AB=2$, $BC=5$, $CD=2$, $DE=5$, $AD=8$. Determinare la lunghezza del segmento $BE$. Qui, $XY$ indica la lunghezza del segmento $XY$.
 
-**Topic:** [[topic_geometria_piana|Geometria piana]]
+
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometria]]
 **Metodo:** [[method_trigonometria|Trigonometria]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
-
-[[Quesiti/src_jjmo12yq_yosen#q04|src_jjmo12yq_yosen__Q04]]
 
 
 
@@ -183,8 +178,6 @@ level: JJMO Yosen
 **Metodo:** [[method_casework|Casework]], [[method_colorazione|Colorazione]]
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
-
-[[Quesiti/src_jjmo12yq_yosen#q05|src_jjmo12yq_yosen__Q05]]
 
 
 
@@ -219,8 +212,6 @@ level: JJMO Yosen
 
 **Risposta:** $33,\ 105,\ 1008$
 
-[[Quesiti/src_jjmo12yq_yosen#q06|src_jjmo12yq_yosen__Q06]]
-
 
 
 <span class="atom-split" id="q07" data-atom="q07" data-title="Quesito 7" data-tags="topic_combinatoria,method_casework,method_conteggio,skill_conteggio_sistematico,skill_casework_accurato"></span>
@@ -252,11 +243,9 @@ level: JJMO Yosen
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 
-[[Quesiti/src_jjmo12yq_yosen#q07|src_jjmo12yq_yosen__Q07]]
 
 
-
-<span class="atom-split" id="q08" data-atom="q08" data-title="Quesito 8" data-tags="topic_geometria_piana,method_coordinate,method_trigonometria,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
+<span class="atom-split" id="q08" data-atom="q08" data-title="Quesito 8" data-tags="topic_geometria_piana,topic_trigonometria,method_coordinate,method_trigonometria,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -265,10 +254,10 @@ level: JJMO Yosen
 
 > There is a trapezoid $ABCD$ with $BC \parallel AD$, satisfying $AB=1$, $BC=1$, $CD=1$, $DA=2$. Let $M$ be the midpoint of side $BC$. There are two points $E$, $F$ on side $AD$ and a point $G$ on side $CD$ satisfying $\angle EMG = \angle FGM = 90^\circ$ and $EF = \frac{3}{2}$. Find the length of segment $DG$. Here, $XY$ denotes the length of segment $XY$.
 
-**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometry]]
 **Metodo:** [[method_coordinate|Coordinate]], [[method_trigonometria|Trigonometria]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
-**Area:** [[Geometria]]
+**Area:** [[Geometria|Geometry]]
 **Risposta:** $\frac{7-\sqrt{33}}{8}$
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1tcV9cb2hx9tXMiZWTj0aE-6zga6Pd9sP/view)
 
@@ -280,12 +269,11 @@ level: JJMO Yosen
 
 > Esiste un trapezio $ABCD$ con $BC \parallel AD$, che soddisfa $AB=1$, $BC=1$, $CD=1$, $DA=2$. Sia $M$ il punto medio del lato $BC$. Ci sono due punti $E$, $F$ sul lato $AD$ e un punto $G$ sul lato $CD$, tali che valgono $\angle EMG = \angle FGM = 90^\circ$ e $EF = \frac{3}{2}$. Determinare la lunghezza del segmento $DG$. Qui, $XY$ indica la lunghezza del segmento $XY$.
 
-**Topic:** [[topic_geometria_piana|Geometria piana]]
+
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometria]]
 **Metodo:** [[method_coordinate|Coordinate]], [[method_trigonometria|Trigonometria]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
-
-[[Quesiti/src_jjmo12yq_yosen#q08|src_jjmo12yq_yosen__Q08]]
 
 
 
@@ -319,11 +307,9 @@ level: JJMO Yosen
 **Abilita:** [[skill_astrazione|Astrazione]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 
-[[Quesiti/src_jjmo12yq_yosen#q09|src_jjmo12yq_yosen__Q09]]
 
 
-
-<span class="atom-split" id="q10" data-atom="q10" data-title="Quesito 10" data-tags="topic_aritmetica,topic_algebra,method_fattorizzazione,method_casework,skill_manipolazione_algebrica,skill_casework_accurato"></span>
+<span class="atom-split" id="q10" data-atom="q10" data-title="Quesito 10" data-tags="topic_aritmetica,topic_algebra,method_fattorizzazione,method_casework,method_congruenze,skill_manipolazione_algebrica,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -333,9 +319,9 @@ level: JJMO Yosen
 > Let $x$, $y$, $z$ be positive integers whose greatest common divisor (of all three) is $1$. Find all values, among the integers at most $500$, that can be taken by $\dfrac{x^2}{y} + \dfrac{y^2}{z} + \dfrac{z^2}{x}$.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
-**Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_casework|Casework]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_casework|Casework]], [[method_congruenze|Modular arithmetic / congruences]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Casework accurato]]
-**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Algebra e Analisi|Algebra and analysis]]
 **Risposta:** $3,\ 65,\ 386$
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1tcV9cb2hx9tXMiZWTj0aE-6zga6Pd9sP/view)
 
@@ -347,16 +333,15 @@ level: JJMO Yosen
 
 > Siano $x$, $y$, $z$ numeri interi positivi il cui massimo comune divisore (di tutti e tre) è $1$. Determinare tutti i valori, tra gli interi non superiori a $500$, che $\dfrac{x^2}{y} + \dfrac{y^2}{z} + \dfrac{z^2}{x}$ può assumere.
 
+
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
-**Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_casework|Casework]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_casework|Casework]], [[method_congruenze|Aritmetica modulare / congruenze]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 
-[[Quesiti/src_jjmo12yq_yosen#q10|src_jjmo12yq_yosen__Q10]]
 
 
-
-<span class="atom-split" id="q11" data-atom="q11" data-title="Quesito 11" data-tags="topic_combinatoria,method_casework,method_conteggio,method_invarianti,skill_conteggio_sistematico,skill_astrazione"></span>
+<span class="atom-split" id="q11" data-atom="q11" data-title="Quesito 11" data-tags="topic_combinatoria,topic_funzionali,method_casework,method_conteggio,method_invarianti,method_congruenze,skill_conteggio_sistematico,skill_astrazione"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -366,10 +351,10 @@ level: JJMO Yosen
 > There are $14$ points on a circle. From each point, exactly one arrow is drawn pointing to one of the points, satisfying the condition below. In how many ways can the arrows be drawn? Here, a point may have its arrow pointing to itself, and configurations that coincide under a rotation or a reflection are counted as different.
 > Condition: For every point, the point reached by starting at it and following the arrows $20$ times coincides with the point reached by starting at the point two places clockwise from it and following the arrows once.
 
-**Topic:** [[topic_combinatoria|Combinatoria]]
-**Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]], [[method_invarianti|Invarianti]]
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_funzionali|Functional equations / sequences]]
+**Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]], [[method_invarianti|Invarianti]], [[method_congruenze|Modular arithmetic / congruences]]
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_astrazione|Astrazione]]
-**Area:** [[Combinatoria, Logica e Probabilita]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Algebra e Analisi|Algebra and analysis]]
 **Risposta:** 974
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1tcV9cb2hx9tXMiZWTj0aE-6zga6Pd9sP/view)
 
@@ -381,12 +366,11 @@ level: JJMO Yosen
 
 > Sul cerchio ci sono $14$ punti. Da ciascun punto si traccia esattamente una freccia che punta verso uno dei punti, in modo da soddisfare la condizione seguente. In quanti modi si possono tracciare le frecce? Qui un punto può avere la propria freccia che punta verso se stesso, e le configurazioni che coincidono per rotazione o riflessione sono considerate diverse. Condizione: per ogni punto, il punto raggiunto partendo da esso e seguendo le frecce $20$ volte coincide con il punto raggiunto partendo dal punto che si trova due posizioni in senso orario rispetto a esso e seguendo le frecce una volta.
 
-**Topic:** [[topic_combinatoria|Combinatoria]]
-**Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]], [[method_invarianti|Invarianti]]
-**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_astrazione|Astrazione]]
-**Area:** [[Combinatoria, Logica e Probabilita]]
 
-[[Quesiti/src_jjmo12yq_yosen#q11|src_jjmo12yq_yosen__Q11]]
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_funzionali|Equazioni funzionali / successioni]]
+**Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]], [[method_invarianti|Invarianti]], [[method_congruenze|Aritmetica modulare / congruenze]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_astrazione|Astrazione]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Algebra e Analisi]]
 
 
 
@@ -418,5 +402,3 @@ level: JJMO Yosen
 **Metodo:** [[method_trigonometria|Trigonometria]], [[method_coordinate|Coordinate]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
-
-[[Quesiti/src_jjmo12yq_yosen#q12|src_jjmo12yq_yosen__Q12]]

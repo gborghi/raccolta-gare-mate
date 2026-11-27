@@ -36,8 +36,7 @@ level: Olimpiade Polacca Round 2
 **Topic:** [[topic_aritmetica|Aritmetica e teoria dei numeri]]
 **Metodo:** [[method_casework|Analisi per casi]], [[method_congruenze|Congruenze]]
 **Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di schemi]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
-
-[[Quesiti/src_pol_2008_r2#q01|src_pol_2008_r2__Q01]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
 
 
 
@@ -67,12 +66,11 @@ level: Olimpiade Polacca Round 2
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_simmetria|Simmetria]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
-
-[[Quesiti/src_pol_2008_r2#q02|src_pol_2008_r2__Q02]]
-
+**Area:** [[Geometria]]
 
 
-<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_funzionali,topic_algebra,skill_manipolazione_algebrica,skill_astrazione"></span>
+
+<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_funzionali,topic_algebra,method_casework,skill_manipolazione_algebrica,skill_astrazione,skill_riconoscimento_pattern"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -83,8 +81,9 @@ level: Olimpiade Polacca Round 2
 > $$f(f(x) - y) = f(x) + f(f(y) - f(-x)) + x \quad \text{for all real } x, y.$$
 
 **Topic:** [[topic_funzionali|Equazioni funzionali]], [[topic_algebra|Algebra]]
-**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]]
-**Area:** [[Algebra e Analisi]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]], [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1BBqpAesfIgvgnT5yAsrIJN7zQovSRGdZ/view)
 
 
@@ -97,14 +96,15 @@ level: Olimpiade Polacca Round 2
 >
 > $$f(f(x) - y) = f(x) + f(f(y) - f(-x)) + x \quad \text{for all real } x, y.$$
 
+
 **Topic:** [[topic_funzionali|Equazioni funzionali e successioni]], [[topic_algebra|Algebra]]
-**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]]
+**Metodo:** [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Algebra e Analisi]]
 
-[[Quesiti/src_pol_2008_r2#q03|src_pol_2008_r2__Q03]]
 
 
-
-<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_combinatoria,topic_aritmetica,method_invarianti,skill_modellizzazione,skill_riconoscimento_pattern"></span>
+<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_combinatoria,topic_aritmetica,method_invarianti,method_grafi,skill_modellizzazione,skill_riconoscimento_pattern"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -114,9 +114,9 @@ level: Olimpiade Polacca Round 2
 > In every square of an $n \times n$ board there is an integer such that the sum of all integers in the board is $0$. A move consists of choosing a square and decreasing the number in it by the number of neighboring squares (by side), while increasing the numbers in each of the neighboring squares by $1$. Determine if there is an $n \ge 2$ for which we can always turn all the integers into zeros in finitely many moves.
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_invarianti|Invarianti]]
+**Metodo:** [[method_invarianti|Invarianti]], [[method_grafi|Graph theory]]
 **Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
-**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1BBqpAesfIgvgnT5yAsrIJN7zQovSRGdZ/view)
 
 
@@ -127,11 +127,11 @@ level: Olimpiade Polacca Round 2
 
 > In ogni casella di una scacchiera $n \times n$ c'è un intero, e la somma di tutti gli interi della scacchiera è $0$. Una mossa consiste nello scegliere una casella e diminuire il numero che vi sta del numero delle caselle vicine per un lato, aumentando di $1$ il numero di ciascuna casella vicina. Stabilire se esiste un $n \ge 2$ per cui, qualunque sia la disposizione iniziale, si possono ottenere tutti zeri in un numero finito di mosse.
 
-**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica e teoria dei numeri]]
-**Metodo:** [[method_invarianti|Invarianti]]
-**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_riconoscimento_pattern|Riconoscimento di schemi]]
 
-[[Quesiti/src_pol_2008_r2#q04|src_pol_2008_r2__Q04]]
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica e teoria dei numeri]]
+**Metodo:** [[method_invarianti|Invarianti]], [[method_grafi|Teoria dei grafi]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_riconoscimento_pattern|Riconoscimento di schemi]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 
 
 
@@ -164,8 +164,7 @@ level: Olimpiade Polacca Round 2
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_simmetria|Simmetria]], [[method_trigonometria|Trigonometria]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
-
-[[Quesiti/src_pol_2008_r2#q05|src_pol_2008_r2__Q05]]
+**Area:** [[Geometria]]
 
 
 
@@ -195,5 +194,4 @@ level: Olimpiade Polacca Round 2
 **Topic:** [[topic_aritmetica|Aritmetica e teoria dei numeri]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_induzione|Induzione]], [[method_congruenze|Congruenze]], [[method_cassetti|Principio dei cassetti]]
 **Abilita:** [[skill_astrazione|Astrazione]], [[skill_modellizzazione|Modellizzazione]], [[skill_riconoscimento_pattern|Riconoscimento di schemi]]
-
-[[Quesiti/src_pol_2008_r2#q06|src_pol_2008_r2__Q06]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]

@@ -10,21 +10,22 @@ level: kangourou
 
 
 
-<span class="atom-split" id="qe1" data-atom="qe1" data-title="Quesito E1" data-tags="topic_aritmetica,skill_conteggio_sistematico"></span>
+<span class="atom-split" id="qe1" data-atom="qe1" data-title="Quesito E1" data-tags="topic_aritmetica,method_ricorsione,skill_conteggio_sistematico,skill_riconoscimento_pattern"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
 
 *Quante mosse complete con 1000 spilli (gioco a tre per spillo)*
 
-![[src_kangourou_2020_ecolier_finale__probe1.png]]
+![[src_kangourou_2020_ecolier_finale__probE1.png]]
 
 > Faccio il seguente gioco con gli spilli. Metto sul tavolo uno spillo; poi, a ogni mossa successiva, accosto alla capocchia di ciascuno degli spilli deposti nella mossa precedente le punte di altri tre spilli, come suggerito dalla figura. Se ho una scatola contenente $1000$ spilli, quante mosse complete posso fare, compresa quella con cui ho deposto il primo spillo?
 > 
 > (vedi figura)
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Metodo:** [[method_ricorsione|Ricorsione]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 6
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1VUBD9s41NCMylc2DpExxWccVy-xFuGrT/view)
@@ -35,21 +36,21 @@ level: kangourou
 
 *How many complete moves with 1000 pins (three-per-pin game)?*
 
-![[src_kangourou_2020_ecolier_finale__probe1.png]]
+![[src_kangourou_2020_ecolier_finale__probE1.png]]
 
 > I play the following game with pins. I place one pin on the table; then, on each subsequent move, I bring the points of three other pins close to the heads of each of the pins placed on the previous move, as suggested by the figure. If I have a box containing $1000$ pins, how many complete moves can I make, including the move on which I placed the first pin?
 >
 > (see figure)
 
+
 **Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
-**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Metodo:** [[method_ricorsione|Recursion]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]], [[skill_riconoscimento_pattern|Pattern recognition]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
-[[Quesiti/src_kangourou_2020_ecolier_finale#qe1|src_kangourou_2020_ecolier_finale__QE1]]
 
 
-
-<span class="atom-split" id="qe2" data-atom="qe2" data-title="Quesito E2" data-tags="topic_combinatoria,method_conteggio,skill_conteggio_sistematico"></span>
+<span class="atom-split" id="qe2" data-atom="qe2" data-title="Quesito E2" data-tags="topic_combinatoria,method_conteggio,method_casework,skill_conteggio_sistematico,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -59,8 +60,8 @@ level: kangourou
 > Luisa ha molte penne: $29$ rosse, $13$ blu e $20$ nere. Vuole confezionare dei sacchetti contenenti ciascuno $4$ penne, in modo che nessun sacchetto contenga più di due penne dello stesso colore. Quanti sacchetti può confezionare al massimo?
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
-**Metodo:** [[method_conteggio|Conteggio combinatorio]]
-**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Metodo:** [[method_conteggio|Conteggio combinatorio]], [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 15
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1VUBD9s41NCMylc2DpExxWccVy-xFuGrT/view)
@@ -73,16 +74,15 @@ level: kangourou
 
 > Luisa has many pens: $29$ red, $13$ blue, and $20$ black. She wants to prepare bags, each containing $4$ pens, so that no bag contains more than two pens of the same color. What is the maximum number of bags she can prepare?
 
+
 **Topic:** [[topic_combinatoria|Combinatorics]]
-**Metodo:** [[method_conteggio|Combinatorial counting]]
-**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Metodo:** [[method_conteggio|Combinatorial counting]], [[method_casework|Case analysis]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]], [[skill_casework_accurato|Careful case analysis]]
 **Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
-[[Quesiti/src_kangourou_2020_ecolier_finale#qe2|src_kangourou_2020_ecolier_finale__QE2]]
 
 
-
-<span class="atom-split" id="qe3" data-atom="qe3" data-title="Quesito E3" data-tags="topic_logica,skill_casework_accurato"></span>
+<span class="atom-split" id="qe3" data-atom="qe3" data-title="Quesito E3" data-tags="topic_logica,method_casework,skill_casework_accurato,skill_modellizzazione"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -92,7 +92,8 @@ level: kangourou
 > Molti libri di differenti spessori sono allineati su uno scaffale. A sinistra del libro più spesso ci sono $20$ libri, a destra di quello più sottile ce ne sono $22$. Tra il libro più spesso e quello più sottile c'è il libro più antico, diverso da entrambi. Qual è il minimo numero di libri che possono essere allineati sullo scaffale?
 
 **Topic:** [[topic_logica|Logica, giochi, strategie]]
-**Abilita:** [[skill_casework_accurato|Casework accurato]]
+**Metodo:** [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 23
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1VUBD9s41NCMylc2DpExxWccVy-xFuGrT/view)
@@ -105,22 +106,22 @@ level: kangourou
 
 > Many books of different thicknesses are arranged on a shelf. To the left of the thickest book, there are $20$ books; to the right of the thinnest book, there are $22$ books. Between the thickest book and the thinnest book is the oldest book, which is different from both. What is the minimum number of books that can be arranged on the shelf?
 
+
 **Topic:** [[topic_logica|Logic, games and strategies]]
-**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]], [[skill_modellizzazione|Modelling / translating the text]]
 **Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
-[[Quesiti/src_kangourou_2020_ecolier_finale#qe3|src_kangourou_2020_ecolier_finale__QE3]]
 
 
-
-<span class="atom-split" id="qe4" data-atom="qe4" data-title="Quesito E4" data-tags="topic_aritmetica,skill_manipolazione_algebrica"></span>
+<span class="atom-split" id="qe4" data-atom="qe4" data-title="Quesito E4" data-tags="topic_aritmetica,method_fattorizzazione,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
 
 *Somma dei quattro numeri di Giulia (somme uguali sulle diagonali)*
 
-![[src_kangourou_2020_ecolier_finale__probe4.png]]
+![[src_kangourou_2020_ecolier_finale__probE4.png]]
 
 ```tikz
 \begin{document}
@@ -148,6 +149,7 @@ level: kangourou
 > (vedi figura)
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 22
@@ -159,7 +161,7 @@ level: kangourou
 
 *Sum of Giulia's four numbers (equal sums along the diagonals)*
 
-![[src_kangourou_2020_ecolier_finale__probe4.png]]
+![[src_kangourou_2020_ecolier_finale__probE4.png]]
 
 ```tikz
 \begin{document}
@@ -186,22 +188,22 @@ level: kangourou
 >
 > (see figure)
 
+
 **Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
 **Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
-[[Quesiti/src_kangourou_2020_ecolier_finale#qe4|src_kangourou_2020_ecolier_finale__QE4]]
 
 
-
-<span class="atom-split" id="qe5" data-atom="qe5" data-title="Quesito E5" data-tags="topic_combinatoria,method_conteggio,skill_conteggio_sistematico"></span>
+<span class="atom-split" id="qe5" data-atom="qe5" data-title="Quesito E5" data-tags="topic_combinatoria,method_conteggio,skill_conteggio_sistematico,skill_modellizzazione"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
 
 *Riempire griglia 6x6 con/senza numero in posizione speciale*
 
-![[src_kangourou_2020_ecolier_finale__probe5.png]]
+![[src_kangourou_2020_ecolier_finale__probE5.png]]
 
 ```tikz
 \begin{document}
@@ -222,7 +224,7 @@ level: kangourou
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_conteggio|Conteggio combinatorio]]
-**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1VUBD9s41NCMylc2DpExxWccVy-xFuGrT/view)
 
@@ -232,7 +234,7 @@ level: kangourou
 
 *Fill a 6x6 grid with/without a number in a special position*
 
-![[src_kangourou_2020_ecolier_finale__probe5.png]]
+![[src_kangourou_2020_ecolier_finale__probE5.png]]
 
 ```tikz
 \begin{document}
@@ -251,23 +253,22 @@ level: kangourou
 >
 > (see figure)
 
+
 **Topic:** [[topic_combinatoria|Combinatorics]]
 **Metodo:** [[method_conteggio|Combinatorial counting]]
-**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]], [[skill_modellizzazione|Modelling / translating the text]]
 **Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
-[[Quesiti/src_kangourou_2020_ecolier_finale#qe5|src_kangourou_2020_ecolier_finale__QE5]]
 
 
-
-<span class="atom-split" id="qe6" data-atom="qe6" data-title="Quesito E6" data-tags="topic_aritmetica,skill_modellizzazione"></span>
+<span class="atom-split" id="qe6" data-atom="qe6" data-title="Quesito E6" data-tags="topic_aritmetica,topic_geometria_piana,method_casework,skill_modellizzazione,skill_conteggio_sistematico"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
 
 *Somma dei numeri delle candeline per porzione (due tagli)*
 
-![[src_kangourou_2020_ecolier_finale__probe6.png]]
+![[src_kangourou_2020_ecolier_finale__probE6.png]]
 
 ```tikz
 \begin{document}
@@ -293,9 +294,10 @@ level: kangourou
 > 
 > (vedi figura)
 
-**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
-**Area:** [[Aritmetica e Teoria dei Numeri]]
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Geometria]]
 **Risposta:** 26
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1VUBD9s41NCMylc2DpExxWccVy-xFuGrT/view)
 
@@ -305,7 +307,7 @@ level: kangourou
 
 *Sum of the number of candles per portion (two cuts)*
 
-![[src_kangourou_2020_ecolier_finale__probe6.png]]
+![[src_kangourou_2020_ecolier_finale__probE6.png]]
 
 ```tikz
 \begin{document}
@@ -331,8 +333,8 @@ level: kangourou
 >
 > (see figure)
 
-**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
-**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
-**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
-[[Quesiti/src_kangourou_2020_ecolier_finale#qe6|src_kangourou_2020_ecolier_finale__QE6]]
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]], [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Geometria|Geometry]]

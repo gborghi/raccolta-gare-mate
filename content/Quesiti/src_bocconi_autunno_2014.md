@@ -39,8 +39,6 @@ level: Giochi d'Autunno
 **Abilita:** [[skill_lettura_attenta|Careful reading of the text]], [[skill_conteggio_sistematico|Systematic counting]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
-[[Quesiti/src_bocconi_autunno_2014#q01|src_bocconi_autunno_2014__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_combinatoria,topic_aritmetica,method_casework,method_conteggio,skill_conteggio_sistematico,skill_casework_accurato"></span>
@@ -72,8 +70,6 @@ level: Giochi d'Autunno
 **Abilita:** [[skill_conteggio_sistematico|Systematic counting]], [[skill_casework_accurato|Careful case analysis]]
 **Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
-[[Quesiti/src_bocconi_autunno_2014#q02|src_bocconi_autunno_2014__Q02]]
-
 
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_combinatoria,topic_geometria_piana,method_casework,skill_ragionamento_geometrico,skill_lettura_attenta"></span>
@@ -85,7 +81,7 @@ level: Giochi d'Autunno
 
 > Collocate nella parte ancora bianca della scacchiera i quattro pezzi attualmente alla sua destra, in modo da ricoprire completamente la scacchiera.
 
-![[src_bocconi_autunno_2014__q03.png]]
+![[src_bocconi_autunno_2014__Q03.png]]
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_casework|Casework]]
@@ -102,14 +98,12 @@ level: Giochi d'Autunno
 
 > Place the four pieces currently to its right on the still-white part of the chessboard, so as to completely cover the chessboard.
 
-![[src_bocconi_autunno_2014__q03.png]]
+![[src_bocconi_autunno_2014__Q03.png]]
 
 **Topic:** [[topic_combinatoria|Combinatorics]], [[topic_geometria_piana|Plane geometry]]
 **Metodo:** [[method_casework|Case analysis]]
 **Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_lettura_attenta|Careful reading of the text]]
 **Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Geometria|Geometry]]
-
-[[Quesiti/src_bocconi_autunno_2014#q03|src_bocconi_autunno_2014__Q03]]
 
 
 
@@ -122,7 +116,7 @@ level: Giochi d'Autunno
 
 > Collocate tutti i numeri $2, 6, 7, 8, 9, 10, 12$ e $14$ nelle caselle ancora vuote del "$5$" della figura, in modo che i numeri scritti in ognuna delle tre righe (orizzontali) di quattro caselle e in ognuna delle due colonne (verticali) di tre caselle abbiano sempre per somma $27$.
 
-![[src_bocconi_autunno_2014__q04.png]]
+![[src_bocconi_autunno_2014__Q04.png]]
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_casework|Casework]], [[method_backward|Backward]]
@@ -139,14 +133,12 @@ level: Giochi d'Autunno
 
 > Place all the numbers $2, 6, 7, 8, 9, 10, 12$ and $14$ in the still-empty cells of the "$5$" in the figure, so that the sum of the numbers written in each of the three horizontal rows of four cells and in each of the two vertical columns of three cells is always $27$.
 
-![[src_bocconi_autunno_2014__q04.png]]
+![[src_bocconi_autunno_2014__Q04.png]]
 
 **Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_combinatoria|Combinatorics]]
 **Metodo:** [[method_casework|Case analysis]], [[method_backward|Working backwards]]
 **Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_casework_accurato|Careful case analysis]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
-
-[[Quesiti/src_bocconi_autunno_2014#q04|src_bocconi_autunno_2014__Q04]]
 
 
 
@@ -159,7 +151,7 @@ level: Giochi d'Autunno
 
 > Completate le caselle ancora vuote del triangolo della figura, sapendo che il numero di ogni casella (a partire dal piano più alto) deve essere la media aritmetica dei numeri delle due caselle sottostanti su cui si appoggia.
 
-![[src_bocconi_autunno_2014__q05.png]]
+![[src_bocconi_autunno_2014__Q05.png]]
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_backward|Backward]]
@@ -176,14 +168,12 @@ level: Giochi d'Autunno
 
 > Complete the still-empty cells of the triangle in the figure, knowing that the number in each cell (starting from the top level) must be the arithmetic mean of the numbers in the two cells below it on which it rests.
 
-![[src_bocconi_autunno_2014__q05.png]]
+![[src_bocconi_autunno_2014__Q05.png]]
 
 **Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
 **Metodo:** [[method_backward|Working backwards]]
 **Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_ragionamento_geometrico|Geometric reasoning]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
-
-[[Quesiti/src_bocconi_autunno_2014#q05|src_bocconi_autunno_2014__Q05]]
 
 
 
@@ -216,8 +206,6 @@ level: Giochi d'Autunno
 **Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_lettura_attenta|Careful reading of the text]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
-[[Quesiti/src_bocconi_autunno_2014#q06|src_bocconi_autunno_2014__Q06]]
-
 
 
 <span class="atom-split" id="q07" data-atom="q07" data-title="Quesito 7" data-tags="topic_geometria_solida,topic_combinatoria,method_casework,method_estremalita,skill_ragionamento_geometrico,skill_astrazione"></span>
@@ -229,7 +217,7 @@ level: Giochi d'Autunno
 
 > In figura vedete un solido che, quando è poggiato su un tavolo, ha tutte le sue facce (piane) orizzontali o verticali. Quante facce ha, al minimo, questo solido?
 
-![[src_bocconi_autunno_2014__q07.png]]
+![[src_bocconi_autunno_2014__Q07.png]]
 
 **Topic:** [[topic_geometria_solida|Geometria solida]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_casework|Casework]], [[method_estremalita|Estremalità]]
@@ -246,18 +234,16 @@ level: Giochi d'Autunno
 
 > In the figure, you see a solid that, when placed on a table, has all its (flat) faces either horizontal or vertical. What is the minimum number of faces this solid can have?
 
-![[src_bocconi_autunno_2014__q07.png]]
+![[src_bocconi_autunno_2014__Q07.png]]
 
 **Topic:** [[topic_geometria_solida|Solid geometry]], [[topic_combinatoria|Combinatorics]]
 **Metodo:** [[method_casework|Case analysis]], [[method_estremalita|Extremal principle]]
 **Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_astrazione|Abstraction / generalisation]]
 **Area:** [[Geometria|Geometry]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
-[[Quesiti/src_bocconi_autunno_2014#q07|src_bocconi_autunno_2014__Q07]]
 
 
-
-<span class="atom-split" id="q08" data-atom="q08" data-title="Quesito 8" data-tags="topic_geometria_piana,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
+<span class="atom-split" id="q08" data-atom="q08" data-title="Quesito 8" data-tags="topic_geometria_piana,method_simmetria,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -266,9 +252,10 @@ level: Giochi d'Autunno
 
 > Per terra, nella sua camera, Jacob ha trovato il pezzo di un puzzle che vedete in figura. Qual è la sua area, sapendo che tutti gli archi di circonferenza sono delle semicirconferenze che hanno lo stesso raggio?
 
-![[src_bocconi_autunno_2014__q08.png]]
+![[src_bocconi_autunno_2014__Q08.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_simmetria|Sfruttamento della simmetria]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 **Risposta:** $32 \text{ cm}^2$
@@ -282,17 +269,17 @@ level: Giochi d'Autunno
 
 > On the floor in his room, Jacob found the piece of a puzzle shown in the figure. What is its area, given that all the circular arcs are semicircles with the same radius?
 
-![[src_bocconi_autunno_2014__q08.png]]
+![[src_bocconi_autunno_2014__Q08.png]]
+
 
 **Topic:** [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_simmetria|Using symmetry]]
 **Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
 **Area:** [[Geometria|Geometry]]
 
-[[Quesiti/src_bocconi_autunno_2014#q08|src_bocconi_autunno_2014__Q08]]
 
 
-
-<span class="atom-split" id="q09" data-atom="q09" data-title="Quesito 9" data-tags="topic_geometria_piana,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
+<span class="atom-split" id="q09" data-atom="q09" data-title="Quesito 9" data-tags="topic_geometria_piana,method_simmetria,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -305,9 +292,10 @@ level: Giochi d'Autunno
 > 3) Le aree di A e B sono uguali.
 > 4) Le informazioni date non ci permettono di dare una risposta (al confronto tra le aree di A e B).
 
-![[src_bocconi_autunno_2014__q09.png]]
+![[src_bocconi_autunno_2014__Q09.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_simmetria|Sfruttamento della simmetria]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 **Risposta:** L'affermazione vera è la 3
@@ -325,17 +313,17 @@ level: Giochi d'Autunno
 > 3) The areas of A and B are equal.
 > 4) The information given does not allow us to give an answer (to the comparison between the areas of A and B).
 
-![[src_bocconi_autunno_2014__q09.png]]
+![[src_bocconi_autunno_2014__Q09.png]]
+
 
 **Topic:** [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_simmetria|Using symmetry]]
 **Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
 **Area:** [[Geometria|Geometry]]
 
-[[Quesiti/src_bocconi_autunno_2014#q09|src_bocconi_autunno_2014__Q09]]
 
 
-
-<span class="atom-split" id="q10" data-atom="q10" data-title="Quesito 10" data-tags="topic_aritmetica,topic_combinatoria,method_casework,method_backward,skill_manipolazione_algebrica,skill_casework_accurato,skill_conteggio_sistematico"></span>
+<span class="atom-split" id="q10" data-atom="q10" data-title="Quesito 10" data-tags="topic_aritmetica,topic_combinatoria,method_casework,method_backward,method_fattorizzazione,skill_manipolazione_algebrica,skill_casework_accurato,skill_conteggio_sistematico"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -348,7 +336,7 @@ level: Giochi d'Autunno
 > sia corretta e che alla parola CINQUE corrisponda il valore numerico più grande possibile. (Nessun numero può cominciare con $0$ e, al posto di lettere diverse, vanno inserite cifre diverse.)
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
-**Metodo:** [[method_casework|Casework]], [[method_backward|Backward]]
+**Metodo:** [[method_casework|Casework]], [[method_backward|Backward]], [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Casework accurato]], [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** CINQUE $= 198530$
@@ -365,16 +353,15 @@ level: Giochi d'Autunno
 > $$2015$$
 > is correct and the word CINQUE corresponds to the largest possible numerical value. (No number may begin with $0$, and different letters must be replaced with different digits.)
 
+
 **Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_combinatoria|Combinatorics]]
-**Metodo:** [[method_casework|Case analysis]], [[method_backward|Working backwards]]
+**Metodo:** [[method_casework|Case analysis]], [[method_backward|Working backwards]], [[method_fattorizzazione|Factorisation / algebraic manipulation]]
 **Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_casework_accurato|Careful case analysis]], [[skill_conteggio_sistematico|Systematic counting]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
-[[Quesiti/src_bocconi_autunno_2014#q10|src_bocconi_autunno_2014__Q10]]
 
 
-
-<span class="atom-split" id="q11" data-atom="q11" data-title="Quesito 11" data-tags="topic_aritmetica,method_casework,method_conteggio,skill_manipolazione_algebrica,skill_conteggio_sistematico"></span>
+<span class="atom-split" id="q11" data-atom="q11" data-title="Quesito 11" data-tags="topic_aritmetica,method_casework,method_conteggio,method_congruenze,method_fattorizzazione,skill_manipolazione_algebrica,skill_conteggio_sistematico"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -383,10 +370,10 @@ level: Giochi d'Autunno
 
 > Mettete $5$ cinque gettoni in un ordine tale per cui compaia un numero di cinque cifre che sia multiplo di $2015$.
 
-![[src_bocconi_autunno_2014__q11.png]]
+![[src_bocconi_autunno_2014__Q11.png]]
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]]
+**Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]], [[method_congruenze|Aritmetica modulare / congruenze]], [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 44330
@@ -400,14 +387,13 @@ level: Giochi d'Autunno
 
 > Place $5$ five tokens in such an order that a five-digit number that is a multiple of $2015$ appears.
 
-![[src_bocconi_autunno_2014__q11.png]]
+![[src_bocconi_autunno_2014__Q11.png]]
+
 
 **Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
-**Metodo:** [[method_casework|Case analysis]], [[method_conteggio|Combinatorial counting]]
+**Metodo:** [[method_casework|Case analysis]], [[method_conteggio|Combinatorial counting]], [[method_congruenze|Modular arithmetic / congruences]], [[method_fattorizzazione|Factorisation / algebraic manipulation]]
 **Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_conteggio_sistematico|Systematic counting]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
-
-[[Quesiti/src_bocconi_autunno_2014#q11|src_bocconi_autunno_2014__Q11]]
 
 
 
@@ -420,7 +406,7 @@ level: Giochi d'Autunno
 
 > Per decorare la vetrina del suo negozio di articoli sportivi, Nando ha costruito la piramide che vedete e che è formata da $385$ palline da tennis. Ciascun livello della costruzione è un quadrato. Il livello più alto è formato da $1$ sola pallina. Quello sottostante da $4$ palline, quello ancora sottostante da $9$ ecc. Quanti piani ha la piramide?
 
-![[src_bocconi_autunno_2014__q12.png]]
+![[src_bocconi_autunno_2014__Q12.png]]
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_ricorsione|Ricorsione]], [[method_conteggio|Conteggio]]
@@ -437,18 +423,16 @@ level: Giochi d'Autunno
 
 > To decorate the window display of his sports goods store, Nando built the pyramid you see, which is made up of $385$ tennis balls. Each level of the structure is a square. The top level consists of just $1$ ball. The level below that consists of $4$ balls, the one below that of $9$, and so on. How many levels does the pyramid have?
 
-![[src_bocconi_autunno_2014__q12.png]]
+![[src_bocconi_autunno_2014__Q12.png]]
 
 **Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_combinatoria|Combinatorics]]
 **Metodo:** [[method_ricorsione|Recursion]], [[method_conteggio|Combinatorial counting]]
 **Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
-[[Quesiti/src_bocconi_autunno_2014#q12|src_bocconi_autunno_2014__Q12]]
 
 
-
-<span class="atom-split" id="q13" data-atom="q13" data-title="Quesito 13" data-tags="topic_geometria_piana,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
+<span class="atom-split" id="q13" data-atom="q13" data-title="Quesito 13" data-tags="topic_geometria_piana,method_simmetria,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -457,9 +441,10 @@ level: Giochi d'Autunno
 
 > Il quadrato grande ha un'area di $3045 \text{ cm}^2$. Guardate al suo interno la stella (più scura): è stata costruita congiungendo i vertici del quadrato grande con i centri dei quadrati più piccoli. Qual è l'area della stella?
 
-![[src_bocconi_autunno_2014__q13.png]]
+![[src_bocconi_autunno_2014__Q13.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_simmetria|Sfruttamento della simmetria]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 **Risposta:** $2030 \text{ cm}^2$
@@ -473,13 +458,13 @@ level: Giochi d'Autunno
 
 > The large square has an area of $3045 \text{ cm}^2$. Look inside it at the star (darker): it was constructed by joining the vertices of the large square to the centers of the smaller squares. What is the area of the star?
 
-![[src_bocconi_autunno_2014__q13.png]]
+![[src_bocconi_autunno_2014__Q13.png]]
+
 
 **Topic:** [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_simmetria|Using symmetry]]
 **Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
 **Area:** [[Geometria|Geometry]]
-
-[[Quesiti/src_bocconi_autunno_2014#q13|src_bocconi_autunno_2014__Q13]]
 
 
 
@@ -512,8 +497,6 @@ level: Giochi d'Autunno
 **Abilita:** [[skill_conteggio_sistematico|Systematic counting]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
 **Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
-[[Quesiti/src_bocconi_autunno_2014#q14|src_bocconi_autunno_2014__Q14]]
-
 
 
 <span class="atom-split" id="q15" data-atom="q15" data-title="Quesito 15" data-tags="topic_algebra,topic_aritmetica,method_fattorizzazione,skill_manipolazione_algebrica,skill_riconoscimento_pattern"></span>
@@ -544,8 +527,6 @@ level: Giochi d'Autunno
 **Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
 **Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_riconoscimento_pattern|Pattern recognition]]
 **Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
-
-[[Quesiti/src_bocconi_autunno_2014#q15|src_bocconi_autunno_2014__Q15]]
 
 
 
@@ -578,11 +559,9 @@ level: Giochi d'Autunno
 **Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_conteggio_sistematico|Systematic counting]]
 **Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
-[[Quesiti/src_bocconi_autunno_2014#q16|src_bocconi_autunno_2014__Q16]]
 
 
-
-<span class="atom-split" id="q17" data-atom="q17" data-title="Quesito 17" data-tags="topic_aritmetica,method_casework,method_estremalita,skill_conteggio_sistematico,skill_manipolazione_algebrica"></span>
+<span class="atom-split" id="q17" data-atom="q17" data-title="Quesito 17" data-tags="topic_aritmetica,method_casework,method_estremalita,method_congruenze,skill_conteggio_sistematico,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -592,7 +571,7 @@ level: Giochi d'Autunno
 > Qual è il più piccolo multiplo non nullo di $2015$, le cui cifre sono scritte in ordine decrescente (non necessariamente in senso stretto) da sinistra a destra?
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_casework|Casework]], [[method_estremalita|Estremalità]]
+**Metodo:** [[method_casework|Casework]], [[method_estremalita|Estremalità]], [[method_congruenze|Aritmetica modulare / congruenze]]
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 44330
@@ -606,16 +585,15 @@ level: Giochi d'Autunno
 
 > What is the smallest non-zero multiple of $2015$ whose digits are written in non-increasing order (not necessarily strictly) from left to right?
 
+
 **Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
-**Metodo:** [[method_casework|Case analysis]], [[method_estremalita|Extremal principle]]
+**Metodo:** [[method_casework|Case analysis]], [[method_estremalita|Extremal principle]], [[method_congruenze|Modular arithmetic / congruences]]
 **Abilita:** [[skill_conteggio_sistematico|Systematic counting]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
-[[Quesiti/src_bocconi_autunno_2014#q17|src_bocconi_autunno_2014__Q17]]
 
 
-
-<span class="atom-split" id="q18" data-atom="q18" data-title="Quesito 18" data-tags="topic_combinatoria,topic_logica,method_casework,method_backward,method_invarianti,skill_ragionamento_geometrico,skill_casework_accurato,skill_modellizzazione"></span>
+<span class="atom-split" id="q18" data-atom="q18" data-title="Quesito 18" data-tags="topic_combinatoria,topic_logica,topic_aritmetica,method_casework,method_backward,method_invarianti,skill_ragionamento_geometrico,skill_casework_accurato,skill_modellizzazione"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -624,10 +602,10 @@ level: Giochi d'Autunno
 
 > A turno, Carla e Milena mostrano alcune dita di una mano (una o due o tre o quattro o cinque dita). Il numero delle dita indicate si va ad aggiungere al totale precedente ma la nuova somma così ottenuta deve essere un numero primo. Per esempio, se Carla ha indicato due dita, Milena può rispondere con un dito o tre dita oppure anche con cinque dita perché $2+1=3$, $2+3=5$ e $2+5=7$ sono numeri primi. La prima (tra Carla e Milena) che, con il numero delle sue dita sommato al totale precedente, non riesce a ottenere un numero primo perde. È Milena che comincia il gioco (in questo momento il totale è $0$). Quante dita deve mostrare per essere sicura di vincere, se gioca al meglio, qualunque siano le risposte successive di Carla?
 
-**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_logica|Logica]]
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_logica|Logica]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_casework|Casework]], [[method_backward|Backward]], [[method_invarianti|Invarianti]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_casework_accurato|Casework accurato]], [[skill_modellizzazione|Modellizzazione]]
-**Area:** [[Combinatoria, Logica e Probabilita]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 5
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1PloiPSpf4_9YADREFtliPjnhVrdcFhjI/view)
 
@@ -639,9 +617,8 @@ level: Giochi d'Autunno
 
 > In turn, Carla and Milena show some fingers of one hand (one or two or three or four or five fingers). The number of fingers shown is added to the previous total, but the new sum thus obtained must be a prime number. For example, if Carla has shown two fingers, Milena can respond with one finger or three fingers or even five fingers because $2+1=3$, $2+3=5$, and $2+5=7$ are prime numbers. The first one (between Carla and Milena) who, with the number of their own fingers added to the previous total, cannot obtain a prime number loses. It is Milena who starts the game (at this moment the total is $0$). How many fingers must she show to be certain of winning, if she plays optimally, regardless of Carla's subsequent responses?
 
-**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_logica|Logic, games, strategies]]
+
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_logica|Logic, games, strategies]], [[topic_aritmetica|Arithmetic / Number theory]]
 **Metodo:** [[method_casework|Case analysis]], [[method_backward|Working backwards]], [[method_invarianti|Invariants / monovariants]]
 **Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_casework_accurato|Careful case analysis]], [[skill_modellizzazione|Modelling / translating the text]]
-**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
-
-[[Quesiti/src_bocconi_autunno_2014#q18|src_bocconi_autunno_2014__Q18]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]

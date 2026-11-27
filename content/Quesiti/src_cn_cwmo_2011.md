@@ -10,7 +10,7 @@ level: China Western Mathematical Olympiad
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_disuguaglianze,topic_algebra,method_disuguaglianze,method_estremalita,skill_manipolazione_algebrica,skill_stima,skill_lettura_attenta"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_disuguaglianze,topic_algebra,method_disuguaglianze,method_estremalita,method_simmetria,skill_manipolazione_algebrica,skill_stima,skill_lettura_attenta"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -20,9 +20,9 @@ level: China Western Mathematical Olympiad
 > Given that $0 < x$, $y < 1$, determine, with proof, the maximum value of $\frac{xy(1-x-y)}{(x+y)(1-x)(1-y)}$.
 
 **Topic:** [[topic_disuguaglianze|Disuguaglianze]], [[topic_algebra|Algebra]]
-**Metodo:** [[method_disuguaglianze|Disuguaglianze]], [[method_estremalita|Estremalità]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze]], [[method_estremalita|Estremalità]], [[method_simmetria|Using symmetry]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]], [[skill_lettura_attenta|Lettura attenta]]
-**Area:** [[Algebra e Analisi]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
 **Risposta:** $\frac{1}{8}$
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1cjmD7lTT4vb3nB3ylcVCHeHucUE2rNI0/view)
 
@@ -34,12 +34,11 @@ level: China Western Mathematical Olympiad
 
 > Dato che $0 < x$, $y < 1$, determina, con dimostrazione, il valore massimo di $\frac{xy(1-x-y)}{(x+y)(1-x)(1-y)}$.
 
+
 **Topic:** [[topic_disuguaglianze|Disuguaglianze]], [[topic_algebra|Algebra]]
-**Metodo:** [[method_disuguaglianze|Disuguaglianze]], [[method_estremalita|Estremalità]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze]], [[method_estremalita|Estremalità]], [[method_simmetria|Sfruttamento della simmetria]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Algebra e Analisi]]
-
-[[Quesiti/src_cn_cwmo_2011#q01|src_cn_cwmo_2011__Q01]]
 
 
 
@@ -71,8 +70,6 @@ level: China Western Mathematical Olympiad
 **Metodo:** [[method_estremalita|Estremalità]], [[method_induzione|Induzione]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_astrazione|Astrazione]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
-
-[[Quesiti/src_cn_cwmo_2011#q02|src_cn_cwmo_2011__Q02]]
 
 
 
@@ -113,8 +110,6 @@ level: China Western Mathematical Olympiad
 **Abilita:** [[skill_astrazione|Astrazione]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Algebra e Analisi]]
 
-[[Quesiti/src_cn_cwmo_2011#q03|src_cn_cwmo_2011__Q03]]
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_geometria_piana,method_simmetria,skill_ragionamento_geometrico,skill_lettura_attenta,skill_modellizzazione"></span>
@@ -126,7 +121,7 @@ level: China Western Mathematical Olympiad
 
 > As shown in the figure, $AB$ and $CD$ are two chords in the circle $\odot O$, meeting at point $E$, and $AB \perp CD$. $\odot I$ is tangent to $\odot O$ internally at point $F$, and is tangent to the chords $AB$ and $CD$ at points $G$ and $H$, respectively. $l$ is a line passing through $O$, meeting $AB$, $CD$ at points $P$, $Q$, respectively, such that $EP = EQ$. Line $l$ meets the line $EF$ at point $M$. Prove that the line through $M$ and parallel to the line $AB$ is tangent to the circle $\odot O$.
 
-![[src_cn_cwmo_b11_w244__q04.png]]
+![[src_cn_cwmo_b11_w244__Q04.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_simmetria|Simmetria]]
@@ -142,18 +137,16 @@ level: China Western Mathematical Olympiad
 
 > Come mostrato nella figura, $AB$ e $CD$ sono due corde della circonferenza $\odot O$, che si intersecano nel punto $E$, e $AB \perp CD$. $\odot I$ è tangente a $\odot O$ internamente nel punto $F$, ed è tangente alle corde $AB$ e $CD$ nei punti $G$ e $H$, rispettivamente. $l$ è una retta che passa per $O$ e interseca $AB$ e $CD$ nei punti $P$ e $Q$, rispettivamente, in modo che $EP = EQ$. La retta $l$ interseca la retta $EF$ nel punto $M$. Dimostrare che la retta passante per $M$ e parallela alla retta $AB$ è tangente alla circonferenza $\odot O$.
 
-![[src_cn_cwmo_b11_w244__q04.png]]
+![[src_cn_cwmo_b11_w244__Q04.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_simmetria|Simmetria]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_modellizzazione|Modellizzazione]]
 **Area:** [[Geometria]]
 
-[[Quesiti/src_cn_cwmo_2011#q04|src_cn_cwmo_2011__Q04]]
 
 
-
-<span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_aritmetica,topic_combinatoria,method_congruenze,method_casework,skill_ragionamento_geometrico,skill_lettura_attenta,skill_manipolazione_algebrica"></span>
+<span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_aritmetica,topic_combinatoria,method_congruenze,method_casework,method_fattorizzazione,skill_ragionamento_geometrico,skill_lettura_attenta,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -163,9 +156,9 @@ level: China Western Mathematical Olympiad
 > Determine, whether there is any odd integer $n \ge 3$ and $n$ distinct prime numbers $p_1, p_2, \ldots, p_n$, such that all $p_i \cdot p_{i+1}$ ($1 \le i \le n$, and $p_{n+1} = p_1$) are perfect squares.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
-**Metodo:** [[method_congruenze|Congruenze]], [[method_casework|Casework]]
+**Metodo:** [[method_congruenze|Congruenze]], [[method_casework|Casework]], [[method_fattorizzazione|Factorisation / algebraic manipulation]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
-**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Risposta:** No
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1cjmD7lTT4vb3nB3ylcVCHeHucUE2rNI0/view)
 
@@ -177,16 +170,15 @@ level: China Western Mathematical Olympiad
 
 > Determinare se esista un intero dispari $n \ge 3$ e se esistano numeri primi distinti $n$, $p_1, p_2, \ldots, p_n$, tali che tutti gli $p_i \cdot p_{i+1}$ ($1 \le i \le n$ e $p_{n+1} = p_1$) siano quadrati perfetti.
 
+
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
-**Metodo:** [[method_congruenze|Congruenze]], [[method_casework|Casework]]
+**Metodo:** [[method_congruenze|Congruenze]], [[method_casework|Casework]], [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 
-[[Quesiti/src_cn_cwmo_2011#q05|src_cn_cwmo_2011__Q05]]
 
 
-
-<span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_aritmetica,topic_combinatoria,method_congruenze,method_induzione,skill_manipolazione_algebrica,skill_ragionamento_geometrico,skill_lettura_attenta"></span>
+<span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_aritmetica,topic_combinatoria,method_congruenze,method_induzione,method_casework,skill_manipolazione_algebrica,skill_ragionamento_geometrico,skill_lettura_attenta,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -196,9 +188,9 @@ level: China Western Mathematical Olympiad
 > Determine, with proof, all pairs $(a, b)$ of integers, such that for any positive integer $n$, one has $n \mid (a^n + b^{n+1})$. (posed by Chen Yonggao)
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
-**Metodo:** [[method_congruenze|Congruenze]], [[method_induzione|Induzione]]
-**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
-**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+**Metodo:** [[method_congruenze|Congruenze]], [[method_induzione|Induzione]], [[method_casework|Case analysis]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1cjmD7lTT4vb3nB3ylcVCHeHucUE2rNI0/view)
 
 
@@ -209,9 +201,8 @@ level: China Western Mathematical Olympiad
 
 > Determinare, con dimostrazione, tutte le coppie $(a, b)$ di interi tali che, per ogni intero positivo $n$, si abbia $n \mid (a^n + b^{n+1})$. (proposto da Chen Yonggao)
 
-**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
-**Metodo:** [[method_congruenze|Congruenze]], [[method_induzione|Induzione]]
-**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
-**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 
-[[Quesiti/src_cn_cwmo_2011#q06|src_cn_cwmo_2011__Q06]]
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_congruenze|Congruenze]], [[method_induzione|Induzione]], [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]

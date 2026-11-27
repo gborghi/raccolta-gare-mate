@@ -38,8 +38,6 @@ level: Olimpiade Polacca Round 2
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Algebra e Analisi]]
 
-[[Quesiti/src_pol_1994_r2#q01|src_pol_1994_r2__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_disuguaglianze,method_disuguaglianze,skill_manipolazione_algebrica,skill_stima"></span>
@@ -70,11 +68,9 @@ level: Olimpiade Polacca Round 2
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]]
 **Area:** [[Algebra e Analisi]]
 
-[[Quesiti/src_pol_1994_r2#q02|src_pol_1994_r2__Q02]]
 
 
-
-<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_geometria_solida,method_simmetria,skill_ragionamento_geometrico,skill_astrazione"></span>
+<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_geometria_solida,topic_geometria_piana,method_simmetria,skill_ragionamento_geometrico,skill_astrazione"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -83,10 +79,10 @@ level: Olimpiade Polacca Round 2
 
 > A plane passing through the center of a cube intersects the cube in a cyclic hexagon. Show that this hexagon is regular.
 
-**Topic:** [[topic_geometria_solida|Geometria solida]]
+**Topic:** [[topic_geometria_solida|Geometria solida]], [[topic_geometria_piana|Plane geometry]]
 **Metodo:** [[method_simmetria|Simmetria]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_astrazione|Astrazione]]
-**Area:** [[Geometria]]
+**Area:** [[Geometria|Geometry]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1uA4twJvqYtpwmlzZpoJcK0hKVdyFmCqj/view)
 
 
@@ -97,16 +93,15 @@ level: Olimpiade Polacca Round 2
 
 > Un piano che passa per il centro di un cubo interseca il cubo in un esagono ciclico. Dimostrare che tale esagono è regolare.
 
-**Topic:** [[topic_geometria_solida|Geometria solida]]
+
+**Topic:** [[topic_geometria_solida|Geometria solida]], [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_simmetria|Simmetria]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_astrazione|Astrazione]]
 **Area:** [[Geometria]]
 
-[[Quesiti/src_pol_1994_r2#q03|src_pol_1994_r2__Q03]]
 
 
-
-<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_combinatoria,topic_algebra,method_casework,method_invarianti,skill_casework_accurato,skill_conteggio_sistematico"></span>
+<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_combinatoria,topic_algebra,method_casework,method_invarianti,skill_casework_accurato,skill_conteggio_sistematico,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -117,8 +112,8 @@ level: Olimpiade Polacca Round 2
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_algebra|Algebra]]
 **Metodo:** [[method_casework|Casework]], [[method_invarianti|Invarianti]]
-**Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_conteggio_sistematico|Conteggio sistematico]]
-**Area:** [[Combinatoria, Logica e Probabilita]], [[Algebra e Analisi]]
+**Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Algebra e Analisi|Algebra and analysis]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1uA4twJvqYtpwmlzZpoJcK0hKVdyFmCqj/view)
 
 
@@ -129,12 +124,11 @@ level: Olimpiade Polacca Round 2
 
 > A ciascun vertice di un cubo viene assegnato $1$ o $-1$. A ciascuna faccia viene assegnato il prodotto dei quattro numeri presenti ai suoi vertici. Determinare tutti i valori possibili che si possono ottenere come somma di tutti i numeri $14$ assegnati.
 
+
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_algebra|Algebra]]
 **Metodo:** [[method_casework|Casework]], [[method_invarianti|Invarianti]]
-**Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Algebra e Analisi]]
-
-[[Quesiti/src_pol_1994_r2#q04|src_pol_1994_r2__Q04]]
 
 
 
@@ -166,8 +160,6 @@ level: Olimpiade Polacca Round 2
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]]
 
-[[Quesiti/src_pol_1994_r2#q05|src_pol_1994_r2__Q05]]
-
 
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_aritmetica,method_congruenze,method_fattorizzazione,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
@@ -197,5 +189,3 @@ level: Olimpiade Polacca Round 2
 **Metodo:** [[method_congruenze|Congruenze]], [[method_fattorizzazione|Fattorizzazione]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
-
-[[Quesiti/src_pol_1994_r2#q06|src_pol_1994_r2__Q06]]

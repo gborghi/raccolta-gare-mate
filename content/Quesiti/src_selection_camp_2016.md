@@ -10,7 +10,7 @@ level: CAMP Selection Camp
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_geometria_piana,method_trigonometria,method_simmetria,skill_ragionamento_geometrico,skill_lettura_attenta"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_geometria_piana,topic_trigonometria,method_trigonometria,method_simmetria,skill_ragionamento_geometrico,skill_lettura_attenta"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -19,10 +19,10 @@ level: CAMP Selection Camp
 
 > Let $ABC$ be an acute triangle, and let $M$ be the midpoint of side $BC$. Let $\ell$ be the angle bisector of $\angle BAC$, and let $D$ be the intersection of $\ell$ with the tangent to the circumcircle of triangle $ABC$ at $C$. Let $H$ be a point on $\ell$ such that $\angle ABH = 90^\circ$. Let $P$ be the second intersection point (other than $C$) of the circumcircle of triangle $CDH$ and the circumcircle of triangle $ABC$. Prove that $\angle CPM = \angle ACB$.
 
-**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometry]]
 **Metodo:** [[method_trigonometria|Trigonometria]], [[method_simmetria|Simmetria]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
-**Area:** [[Geometria]]
+**Area:** [[Geometria|Geometry]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1a72nw7EV-JX-uqyuKIfdYw8bbmk98NTy/view)
 
 
@@ -33,16 +33,15 @@ level: CAMP Selection Camp
 
 > Sia $ABC$ un triangolo acutangolo, e sia $M$ il punto medio del lato $BC$. Sia $\ell$ la bisettrice dell'angolo $\angle BAC$, e sia $D$ l'intersezione di $\ell$ con la tangente alla circonferenza circoscritta al triangolo $ABC$ nel punto $C$. Sia $H$ un punto su $\ell$ tale che $\angle ABH = 90^\circ$. Sia $P$ il secondo punto d'intersezione (diverso da $C$) tra la circonferenza circoscritta al triangolo $CDH$ e la circonferenza circoscritta al triangolo $ABC$. Dimostrare che $\angle CPM = \angle ACB$.
 
-**Topic:** [[topic_geometria_piana|Geometria piana]]
+
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometria]]
 **Metodo:** [[method_trigonometria|Trigonometria]], [[method_simmetria|Simmetria]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Geometria]]
 
-[[Quesiti/src_selection_camp_2016#q01|src_selection_camp_2016__Q01]]
 
 
-
-<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_aritmetica,topic_combinatoria,method_conteggio,method_fattorizzazione,method_estremalita,skill_modellizzazione,skill_conteggio_sistematico,skill_lettura_attenta"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_aritmetica,topic_combinatoria,method_conteggio,method_fattorizzazione,method_estremalita,skill_modellizzazione,skill_conteggio_sistematico,skill_lettura_attenta,skill_riconoscimento_pattern"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -58,8 +57,8 @@ level: CAMP Selection Camp
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_conteggio|Conteggio]], [[method_fattorizzazione|Fattorizzazione]], [[method_estremalita|Estremalità]]
-**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]]
-**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1a72nw7EV-JX-uqyuKIfdYw8bbmk98NTy/view)
 
 
@@ -75,16 +74,15 @@ level: CAMP Selection Camp
 >
 > Trovare il valore minimo di $n$ tale che esista un insieme $A$ con esattamente $2015$ partizioni buone. (Qui $\emptyset$ denota l'insieme vuoto.)
 
+
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_conteggio|Conteggio]], [[method_fattorizzazione|Fattorizzazione]], [[method_estremalita|Estremalità]]
-**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 
-[[Quesiti/src_selection_camp_2016#q02|src_selection_camp_2016__Q02]]
 
 
-
-<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_algebra,topic_combinatoria,method_induzione,method_simmetria,method_invarianti,skill_manipolazione_algebrica,skill_ragionamento_geometrico,skill_astrazione"></span>
+<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_algebra,topic_combinatoria,method_induzione,method_simmetria,method_invarianti,skill_manipolazione_algebrica,skill_ragionamento_geometrico,skill_astrazione,skill_riconoscimento_pattern"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -98,8 +96,8 @@ level: CAMP Selection Camp
 
 **Topic:** [[topic_algebra|Algebra]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_induzione|Induzione]], [[method_simmetria|Simmetria]], [[method_invarianti|Invarianti]]
-**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_astrazione|Astrazione]]
-**Area:** [[Algebra e Analisi]], [[Combinatoria, Logica e Probabilita]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_astrazione|Astrazione]], [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1a72nw7EV-JX-uqyuKIfdYw8bbmk98NTy/view)
 
 
@@ -113,12 +111,11 @@ level: CAMP Selection Camp
 > (a) Dimostrare che esistono due polinomi distinti di grado $n+1$ che sono simili nell'aspetto.
 > (b) Dimostrare che non esistono due polinomi distinti di grado $n$ che siano simili nell'aspetto.
 
+
 **Topic:** [[topic_algebra|Algebra]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_induzione|Induzione]], [[method_simmetria|Simmetria]], [[method_invarianti|Invarianti]]
-**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_astrazione|Astrazione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_astrazione|Astrazione]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Algebra e Analisi]], [[Combinatoria, Logica e Probabilita]]
-
-[[Quesiti/src_selection_camp_2016#q03|src_selection_camp_2016__Q03]]
 
 
 
@@ -150,11 +147,9 @@ level: CAMP Selection Camp
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 
-[[Quesiti/src_selection_camp_2016#q04|src_selection_camp_2016__Q04]]
 
 
-
-<span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_funzionali,topic_algebra,method_casework,method_simmetria,method_invarianti,skill_manipolazione_algebrica,skill_astrazione,skill_lettura_attenta"></span>
+<span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_funzionali,topic_algebra,method_casework,method_simmetria,method_invarianti,skill_manipolazione_algebrica,skill_astrazione,skill_lettura_attenta,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -166,8 +161,8 @@ level: CAMP Selection Camp
 
 **Topic:** [[topic_funzionali|Equazioni funzionali]], [[topic_algebra|Algebra]]
 **Metodo:** [[method_casework|Casework]], [[method_simmetria|Simmetria]], [[method_invarianti|Invarianti]]
-**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]], [[skill_lettura_attenta|Lettura attenta]]
-**Area:** [[Algebra e Analisi]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]], [[skill_lettura_attenta|Lettura attenta]], [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1a72nw7EV-JX-uqyuKIfdYw8bbmk98NTy/view)
 
 
@@ -179,12 +174,11 @@ level: CAMP Selection Camp
 > Trovare tutte le coppie di funzioni $(f, g)$ definite sui numeri razionali e a valori razionali tali che, per tutti i numeri razionali $x, y$,
 > $$f(f(x) + yg(x)) = (x+1)g(y) + f(y).$$
 
+
 **Topic:** [[topic_funzionali|Equazioni funzionali]], [[topic_algebra|Algebra]]
 **Metodo:** [[method_casework|Casework]], [[method_simmetria|Simmetria]], [[method_invarianti|Invarianti]]
-**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]], [[skill_lettura_attenta|Lettura attenta]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]], [[skill_lettura_attenta|Lettura attenta]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Algebra e Analisi]]
-
-[[Quesiti/src_selection_camp_2016#q05|src_selection_camp_2016__Q05]]
 
 
 
@@ -215,8 +209,6 @@ level: CAMP Selection Camp
 **Metodo:** [[method_grafi|Grafi]], [[method_estremalita|Estremalità]], [[method_casework|Casework]]
 **Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
-
-[[Quesiti/src_selection_camp_2016#q06|src_selection_camp_2016__Q06]]
 
 
 
@@ -250,11 +242,9 @@ level: CAMP Selection Camp
 **Abilita:** [[skill_stima|Stima]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Algebra e Analisi]]
 
-[[Quesiti/src_selection_camp_2016#q07|src_selection_camp_2016__Q07]]
 
 
-
-<span class="atom-split" id="q08" data-atom="q08" data-title="Quesito 8" data-tags="topic_geometria_piana,method_coordinate,method_simmetria,method_trigonometria,skill_ragionamento_geometrico,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
+<span class="atom-split" id="q08" data-atom="q08" data-title="Quesito 8" data-tags="topic_geometria_piana,topic_trigonometria,method_coordinate,method_simmetria,method_trigonometria,skill_ragionamento_geometrico,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -263,10 +253,10 @@ level: CAMP Selection Camp
 
 > In an acute triangle $ABC$, let $M$ be the midpoint of side $AC$. A circle $\omega$ passes through $B$ and $M$, and meets sides $AB$ and $BC$ at points $P$ and $Q$ respectively (with $P \neq B$ and $Q \neq B$). Let $T$ be the point such that $BPTQ$ is a parallelogram. If $T$ lies on the circumcircle of triangle $ABC$, find the value of $\dfrac{BT}{BM}$. (Here $XY$ denotes the length of segment $XY$.)
 
-**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometry]]
 **Metodo:** [[method_coordinate|Coordinate]], [[method_simmetria|Simmetria]], [[method_trigonometria|Trigonometria]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
-**Area:** [[Geometria]]
+**Area:** [[Geometria|Geometry]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1a72nw7EV-JX-uqyuKIfdYw8bbmk98NTy/view)
 
 
@@ -277,12 +267,11 @@ level: CAMP Selection Camp
 
 > In un triangolo acuto $ABC$, sia $M$ il punto medio del lato $AC$. Una circonferenza $\omega$ passa per $B$ e $M$, e interseca i lati $AB$ e $BC$ nei punti $P$ e $Q$ rispettivamente (con $P \neq B$ e $Q \neq B$). Sia $T$ il punto tale che $BPTQ$ sia un parallelogramma. Se $T$ giace sulla circonferenza circoscritta al triangolo $ABC$, determina il valore di $\dfrac{BT}{BM}$. (Qui $XY$ denota la lunghezza del segmento $XY$.)
 
-**Topic:** [[topic_geometria_piana|Geometria piana]]
+
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometria]]
 **Metodo:** [[method_coordinate|Coordinate]], [[method_simmetria|Simmetria]], [[method_trigonometria|Trigonometria]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Geometria]]
-
-[[Quesiti/src_selection_camp_2016#q08|src_selection_camp_2016__Q08]]
 
 
 
@@ -315,8 +304,6 @@ level: CAMP Selection Camp
 **Metodo:** [[method_congruenze|Congruenze]], [[method_casework|Casework]], [[method_fattorizzazione|Fattorizzazione]]
 **Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_casework_accurato|Casework accurato]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
-
-[[Quesiti/src_selection_camp_2016#q09|src_selection_camp_2016__Q09]]
 
 
 
@@ -356,11 +343,9 @@ level: CAMP Selection Camp
 **Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 
-[[Quesiti/src_selection_camp_2016#q10|src_selection_camp_2016__Q10]]
 
 
-
-<span class="atom-split" id="q11" data-atom="q11" data-title="Quesito 11" data-tags="topic_aritmetica,topic_insiemi_funzioni,method_invarianti,method_ricorsione,method_induzione,skill_ragionamento_geometrico,skill_manipolazione_algebrica,skill_astrazione,skill_riconoscimento_pattern"></span>
+<span class="atom-split" id="q11" data-atom="q11" data-title="Quesito 11" data-tags="topic_aritmetica,topic_insiemi_funzioni,topic_funzionali,method_invarianti,method_ricorsione,method_induzione,skill_ragionamento_geometrico,skill_manipolazione_algebrica,skill_astrazione,skill_riconoscimento_pattern"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -371,10 +356,10 @@ level: CAMP Selection Camp
 > $$a_{n+1} = \gcd(a_n, b_n) + 1, \quad b_{n+1} = \operatorname{lcm}(a_n, b_n) - 1.$$
 > Prove that there exist a non-negative integer $N$ and a positive integer $t$ such that $a_{n+t} = a_n$ holds for every integer $n \ge N$. (Here $\gcd(x, y)$ and $\operatorname{lcm}(x, y)$ denote the greatest common divisor and least common multiple of positive integers $x$ and $y$, respectively.)
 
-**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_insiemi_funzioni|Insiemi e funzioni]]
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_insiemi_funzioni|Insiemi e funzioni]], [[topic_funzionali|Functional equations / sequences]]
 **Metodo:** [[method_invarianti|Invarianti]], [[method_ricorsione|Ricorsione]], [[method_induzione|Induzione]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
-**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Algebra e Analisi|Algebra and analysis]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1a72nw7EV-JX-uqyuKIfdYw8bbmk98NTy/view)
 
 
@@ -387,12 +372,11 @@ level: CAMP Selection Camp
 > $$a_{n+1} = \gcd(a_n, b_n) + 1, \quad b_{n+1} = \operatorname{lcm}(a_n, b_n) - 1.$$
 > Dimostrare che esistono un intero non negativo $N$ e un intero positivo $t$ tali che $a_{n+t} = a_n$ vale per ogni intero $n \ge N$. (Qui $\gcd(x, y)$ e $\operatorname{lcm}(x, y)$ denotano rispettivamente il massimo comune divisore e il minimo comune multiplo degli interi positivi $x$ e $y$.)
 
-**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_insiemi_funzioni|Insiemi e funzioni]]
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_insiemi_funzioni|Insiemi e funzioni]], [[topic_funzionali|Equazioni funzionali / successioni]]
 **Metodo:** [[method_invarianti|Invarianti]], [[method_ricorsione|Ricorsione]], [[method_induzione|Induzione]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
-
-[[Quesiti/src_selection_camp_2016#q11|src_selection_camp_2016__Q11]]
 
 
 
@@ -423,5 +407,3 @@ level: CAMP Selection Camp
 **Metodo:** [[method_trigonometria|Trigonometria]], [[method_simmetria|Simmetria]], [[method_coordinate|Coordinate]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_astrazione|Astrazione]]
 **Area:** [[Geometria]]
-
-[[Quesiti/src_selection_camp_2016#q12|src_selection_camp_2016__Q12]]

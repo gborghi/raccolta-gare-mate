@@ -12,9 +12,6 @@ level: Concours Général
 
 <span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_aritmetica,topic_algebra,topic_insiemi_funzioni,method_fattorizzazione,method_disuguaglianze,method_casework,method_ricorsione,skill_manipolazione_algebrica,skill_lettura_attenta,skill_casework_accurato,skill_astrazione"></span>
 
-<div class="qlang-switch" data-default="en"></div>
-
-
 *Study the function f that swaps primes and exponents in a prime factorization, and the iterated sequences f^i(n).*
 
 > Problem 1: The primes on top, the exponents on the bottom.
@@ -60,8 +57,20 @@ level: Concours Général
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1vIXYHNm7Pie0N6tpc5bYOGp1UUa2qApP/view)
 
 
-<div class="qlang-split" data-lang="it"></div>
 
+<span class="atom-split" id="q01__it" data-atom="q01__it" data-title="Q01__IT" data-tags=""></span>
+
+---
+tipo: quesito-translation
+translation_of: src_cgen_2012__Q01
+lang: it
+secondary: true
+title: "Concours Général des Lycées 2012  Matematica  Quesito 1"
+summary: "Studiare la funzione f che scambia i primi e gli esponenti in una fattorizzazione di primi, e le sequenze iterate f^i(n)."
+topics: [topic_aritmetica, topic_algebra, topic_insiemi_funzioni]
+methods: [method_fattorizzazione, method_disuguaglianze, method_casework, method_ricorsione]
+skills: [skill_manipolazione_algebrica, skill_lettura_attenta, skill_casework_accurato, skill_astrazione]
+tags: [kg/translation, topic/aritmetica, topic/algebra, topic/insiemi_funzioni]---
 
 *Studiare la funzione f che scambia i primi e gli esponenti in una fattorizzazione di primi, e le sequenze iterate f^i(n).*
 
@@ -81,11 +90,15 @@ level: Concours Général
 > 
 > 5. $E$ sia l'insieme di numeri interi $n \ge 2$ che hanno solo esponenti strettamente superiori a $1$ nella loro decomposizione in fattori primi. (a) Per ogni numero intero $a \ge 2$, indicare che esistono numeri interi naturali $\alpha$ e $\beta$ in modo tale che $a = 2\alpha + 3\beta.$ (b) dedurre da questo che se $n$ appartiene a $E$, allora esiste un elemento $m$ di $E$ in modo tale che $f(m) = n.$ (c) Indicare un elemento $m$ di $E$ in modo tale che $f(m) = 2012^{2012}.$ (d) Cosa si può dire dell'inverso di (b)?
 
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]], [[topic_insiemi_funzioni|Insiemi e funzioni]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]], [[method_disuguaglianze|Disuguaglianze classiche]], [[method_casework|Analisi per casi]], [[method_ricorsione|Ricorsione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta del testo]], [[skill_casework_accurato|Casework accurato]], [[skill_astrazione|Astrazione / generalizzazione]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 [[Quesiti/src_cgen_2012#q01|src_cgen_2012__Q01]]
 
 
 
-<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_algebra,topic_disuguaglianze,method_disuguaglianze,method_conteggio,method_estremalita,skill_manipolazione_algebrica,skill_stima,skill_astrazione"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_algebra,topic_disuguaglianze,topic_funzionali,method_disuguaglianze,method_conteggio,method_estremalita,skill_manipolazione_algebrica,skill_stima,skill_astrazione"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -96,10 +109,10 @@ level: Concours Général
 > 
 > Let $(u_n)_{n \ge 0}$ be a sequence of strictly positive real numbers such that $u_0 = 1$ and, for every integer $n \ge 1$, at least half of the terms $u_0, u_1, \ldots, u_{n-1}$ are greater than or equal to $2u_n$. Show that $u_n$ tends to $0.$
 
-**Topic:** [[topic_algebra|Algebra]], [[topic_disuguaglianze|Disuguaglianze]]
+**Topic:** [[topic_algebra|Algebra]], [[topic_disuguaglianze|Disuguaglianze]], [[topic_funzionali|Functional equations / sequences]]
 **Metodo:** [[method_disuguaglianze|Disuguaglianze]], [[method_conteggio|Conteggio]], [[method_estremalita|Estremalità]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]], [[skill_astrazione|Astrazione]]
-**Area:** [[Algebra e Analisi]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1vIXYHNm7Pie0N6tpc5bYOGp1UUa2qApP/view)
 
 
@@ -112,14 +125,14 @@ level: Concours Général
 > 
 > Che $(u_n)_{n \ge 0}$ sia una sequenza di numeri reali rigorosamente positivi in modo tale che $u_0 = 1$ e, per ogni numero intero $n \ge 1$, almeno la metà dei termini $u_0, u_1, \ldots, u_{n-1}$ siano superiori o uguali a $2u_n$. Indicare che $u_n$ tende a $0.$
 
-[[Quesiti/src_cgen_2012#q02|src_cgen_2012__Q02]]
+**Topic:** [[topic_algebra|Algebra]], [[topic_disuguaglianze|Disuguaglianze]], [[topic_funzionali|Equazioni funzionali / successioni]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze classiche]], [[method_conteggio|Conteggio combinatorio]], [[method_estremalita|Principio di estremalita]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima e approssimazione]], [[skill_astrazione|Astrazione / generalizzazione]]
+**Area:** [[Algebra e Analisi]]
 
 
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_combinatoria,topic_probabilita,method_conteggio,method_casi_conteggio,method_estremalita,method_doppio_conteggio,skill_conteggio_sistematico,skill_modellizzazione,skill_casework_accurato"></span>
-
-<div class="qlang-switch" data-default="en"></div>
-
 
 *A postman visits each of n houses in a row exactly once per trip; count trips, find min and max trip lengths, and the expected length of a random trip.*
 
@@ -149,8 +162,20 @@ level: Concours Général
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1vIXYHNm7Pie0N6tpc5bYOGp1UUa2qApP/view)
 
 
-<div class="qlang-split" data-lang="it"></div>
 
+<span class="atom-split" id="q03__it" data-atom="q03__it" data-title="Q03__IT" data-tags=""></span>
+
+---
+tipo: quesito-translation
+translation_of: src_cgen_2012__Q03
+lang: it
+secondary: true
+title: "Concours Général des Lycées 2012  Matematica  Quesito 3"
+summary: "Un postino visita ognuna delle n case in fila esattamente una volta per ogni viaggio; conta i viaggi, trova le lunghezze min e mass di viaggio e la durata attesa di un viaggio casuale."
+topics: [topic_combinatoria, topic_probabilita]
+methods: [method_conteggio, method_casi_conteggio, method_estremalita, method_doppio_conteggio]
+skills: [skill_conteggio_sistematico, skill_modellizzazione, skill_casework_accurato]
+tags: [kg/translation, topic/combinatoria, topic/probabilita]---
 
 *Un postino visita ognuna delle n case in fila esattamente una volta per ogni viaggio; conta i viaggi, trova le lunghezze min e massime del viaggio e la durata attesa di un viaggio casuale.*
 
@@ -168,4 +193,8 @@ level: Concours Général
 > 
 > 1. Quanti viaggi ci sono? 2. a) Indicare che ogni viaggio ha una lunghezza superiore o pari a $2(n-1)$. (b) Quanti viaggi di minima lunghezza ci sono? 3. a) Nel caso $n = 5$, determinare la lunghezza massima di un viaggio e fornire un esempio di un viaggio di lunghezza massima. b) Per un $n$ arbitrario, determinare la lunghezza massima di un viaggio. 4. Uno disegna un viaggio a caso (tutti i viaggi sono equiprobabili). Qual è il valore atteso della lunghezza del viaggio?
 
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_probabilita|Probabilita e statistica]]
+**Metodo:** [[method_conteggio|Conteggio combinatorio]], [[method_casi_conteggio|Conteggio per casi]], [[method_estremalita|Principio di estremalita]], [[method_doppio_conteggio|Doppio conteggio]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
 [[Quesiti/src_cgen_2012#q03|src_cgen_2012__Q03]]

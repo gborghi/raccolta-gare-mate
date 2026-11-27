@@ -10,7 +10,7 @@ level: kangourou
 
 
 
-<span class="atom-split" id="qc1" data-atom="qc1" data-title="Quesito C1" data-tags="topic_geometria_piana,skill_ragionamento_geometrico"></span>
+<span class="atom-split" id="qc1" data-atom="qc1" data-title="Quesito C1" data-tags="topic_geometria_piana,method_simmetria,skill_ragionamento_geometrico"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -20,6 +20,7 @@ level: kangourou
 > Un parallelogramma è suddiviso dalle sue diagonali in 4 triangoli, di uno dei quali conosci l'area. Ti è sufficiente questo dato per determinare l'area del parallelogramma? Giustifica la tua risposta.
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_simmetria|Sfruttamento della simmetria]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]]
 **Risposta:** si
@@ -33,11 +34,11 @@ level: kangourou
 
 > A parallelogram is divided by its diagonals into 4 triangles, and you know the area of one of them. Is this piece of information enough for you to determine the area of the parallelogram? Justify your answer.
 
+
 **Topic:** [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_simmetria|Using symmetry]]
 **Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
 **Area:** [[Geometria|Geometry]]
-
-[[Quesiti/src_kangourou_2009_cadet_maggio#qc1|src_kangourou_2009_cadet_maggio__QC1]]
 
 
 
@@ -68,11 +69,9 @@ level: kangourou
 **Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Geometria|Geometry]]
 
-[[Quesiti/src_kangourou_2009_cadet_maggio#qc2|src_kangourou_2009_cadet_maggio__QC2]]
 
 
-
-<span class="atom-split" id="qc3" data-atom="qc3" data-title="Quesito C3" data-tags="topic_aritmetica,method_congruenze,skill_manipolazione_algebrica"></span>
+<span class="atom-split" id="qc3" data-atom="qc3" data-title="Quesito C3" data-tags="topic_aritmetica,method_congruenze,method_fattorizzazione,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -82,7 +81,7 @@ level: kangourou
 > Il numero $2^{928} + 4$ è primo? Giustifica la risposta.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]]
+**Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]], [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** no
@@ -96,16 +95,15 @@ level: kangourou
 
 > Is the number $2^{928} + 4$ prime? Justify your answer.
 
+
 **Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
-**Metodo:** [[method_congruenze|Modular arithmetic / congruences]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]], [[method_fattorizzazione|Factorisation / algebraic manipulation]]
 **Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
-[[Quesiti/src_kangourou_2009_cadet_maggio#qc3|src_kangourou_2009_cadet_maggio__QC3]]
 
 
-
-<span class="atom-split" id="qc4" data-atom="qc4" data-title="Quesito C4" data-tags="topic_combinatoria,topic_aritmetica,method_invarianti,skill_astrazione"></span>
+<span class="atom-split" id="qc4" data-atom="qc4" data-title="Quesito C4" data-tags="topic_combinatoria,topic_aritmetica,method_invarianti,skill_astrazione,skill_riconoscimento_pattern"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -116,8 +114,8 @@ level: kangourou
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_invarianti|Invarianti / monovarianti]]
-**Abilita:** [[skill_astrazione|Astrazione / generalizzazione]]
-**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+**Abilita:** [[skill_astrazione|Astrazione / generalizzazione]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 2000
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/17j6HblxyyU68mGSCy1p5rhbmFO-BkmXr/view)
 
@@ -129,30 +127,29 @@ level: kangourou
 
 > Consider an ordered stack of $5998$ sheets numbered starting from $1$ (that is, the first sheet at the top bears the number $1$). Now construct a new stack as follows: take the first sheet, place the second sheet on top of the first and the third sheet below the first; then continue by iterating the procedure: the fourth sheet will go on top of the second, and the fifth sheet will go below the third, and so on. Once the operation is complete, will there be any sheets that, in the new stack, are in the same position they were in in the old stack? If so, which ones?
 
+
 **Topic:** [[topic_combinatoria|Combinatorics]], [[topic_aritmetica|Arithmetic / Number theory]]
 **Metodo:** [[method_invarianti|Invariants / monovariants]]
-**Abilita:** [[skill_astrazione|Abstraction / generalisation]]
-**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
-
-[[Quesiti/src_kangourou_2009_cadet_maggio#qc4|src_kangourou_2009_cadet_maggio__QC4]]
+**Abilita:** [[skill_astrazione|Abstraction / generalisation]], [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
 
 
-<span class="atom-split" id="qc5" data-atom="qc5" data-title="Quesito C5" data-tags="topic_geometria_solida,topic_geometria_piana,skill_ragionamento_geometrico"></span>
+<span class="atom-split" id="qc5" data-atom="qc5" data-title="Quesito C5" data-tags="topic_geometria_solida,topic_geometria_piana,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
 
 *Cammino minimo della formica e punto piu lontano*
 
-![[src_kangourou_2009_cadet_maggio__probc5.png]]
+![[src_kangourou_2009_cadet_maggio__probC5.png]]
 
 > Una formica è libera di muoversi sulla superficie di un parallelepipedo rettangolo di dimensioni $1 \times 1 \times 2$ metri, ma non di entrarvi all'interno. Partendo da un vertice, vuole raggiungere il vertice antipodale (cioè quello da esso più lontano) muovendosi lungo il cammino più breve possibile: quanta strada deve percorrere?
 > 
 > Il vertice opposto è il punto del parallelepipedo più lontano dal vertice di partenza (sempre se si è vincolati a muoversi sulla superficie)?
 
 **Topic:** [[topic_geometria_solida|Geometria solida]], [[topic_geometria_piana|Geometria piana]]
-**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 **Risposta:** sqrt8
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/17j6HblxyyU68mGSCy1p5rhbmFO-BkmXr/view)
@@ -163,21 +160,20 @@ level: kangourou
 
 *Ant's shortest path and the farthest point*
 
-![[src_kangourou_2009_cadet_maggio__probc5.png]]
+![[src_kangourou_2009_cadet_maggio__probC5.png]]
 
 > An ant is free to move on the surface of a rectangular parallelepiped measuring $1 \times 1 \times 2$ metres, but cannot enter its interior. Starting from one vertex, it wants to reach the antipodal vertex (that is, the one farthest from it) by following the shortest possible path: how far must it travel?
 >
 > Is the opposite vertex the point on the parallelepiped farthest from the starting vertex (provided one is restricted to moving on the surface)?
 
+
 **Topic:** [[topic_geometria_solida|Solid geometry]], [[topic_geometria_piana|Plane geometry]]
-**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
 **Area:** [[Geometria|Geometry]]
 
-[[Quesiti/src_kangourou_2009_cadet_maggio#qc5|src_kangourou_2009_cadet_maggio__QC5]]
 
 
-
-<span class="atom-split" id="qc6" data-atom="qc6" data-title="Quesito C6" data-tags="topic_combinatoria,topic_geometria_piana,method_estremalita,skill_casework_accurato"></span>
+<span class="atom-split" id="qc6" data-atom="qc6" data-title="Quesito C6" data-tags="topic_combinatoria,topic_geometria_piana,method_estremalita,method_cassetti,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -187,7 +183,7 @@ level: kangourou
 > Considera un poligono regolare di $21$ lati. Vuoi colorarne di rosso alcuni vertici in modo che, comunque scelte due coppie di vertici entrambi colorati di rosso, la distanza fra i vertici di una coppia sia diversa da quella fra i vertici dell'altra. Quanti vertici puoi colorare al massimo?
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_geometria_piana|Geometria piana]]
-**Metodo:** [[method_estremalita|Principio di estremalita]]
+**Metodo:** [[method_estremalita|Principio di estremalita]], [[method_cassetti|Principio dei cassetti]]
 **Abilita:** [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 **Risposta:** 5
@@ -201,9 +197,8 @@ level: kangourou
 
 > Consider a regular polygon with $21$ sides. You want to color some of its vertices red in such a way that, no matter which two pairs of vertices are both colored red, the distance between the vertices of one pair is different from the distance between the vertices of the other pair. What is the maximum number of vertices you can color?
 
+
 **Topic:** [[topic_combinatoria|Combinatorics]], [[topic_geometria_piana|Plane geometry]]
-**Metodo:** [[method_estremalita|Extremal principle]]
+**Metodo:** [[method_estremalita|Extremal principle]], [[method_cassetti|Pigeonhole principle]]
 **Abilita:** [[skill_casework_accurato|Careful case analysis]]
 **Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Geometria|Geometry]]
-
-[[Quesiti/src_kangourou_2009_cadet_maggio#qc6|src_kangourou_2009_cadet_maggio__QC6]]

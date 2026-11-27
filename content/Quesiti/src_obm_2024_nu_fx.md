@@ -10,7 +10,7 @@ level: OBM Nível Universitário
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_aritmetica,method_disuguaglianze,method_fattorizzazione,skill_manipolazione_algebrica,skill_lettura_attenta,skill_ragionamento_geometrico"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_aritmetica,topic_disuguaglianze,method_disuguaglianze,method_fattorizzazione,skill_manipolazione_algebrica,skill_lettura_attenta,skill_ragionamento_geometrico"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -20,10 +20,10 @@ level: OBM Nível Universitário
 > A positive integer $n$ is called *perfect* if the sum of its positive divisors $\sigma(n)$ equals twice $n$, i.e.\ $\sigma(n) = 2n$. For example, $6$ is a perfect number, since the sum of its positive divisors is $1+2+3+6=12$, which is the double of $6$. Prove that if $n$ is a positive perfect integer, then
 > $$\sum_{\substack{p \mid n \\ p \text{ prime}}} \frac{1}{p+1} < \ln 2 < \sum_{\substack{p \mid n \\ p \text{ prime}}} \frac{1}{p-1}.$$
 
-**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_disuguaglianze|Inequalities]]
 **Metodo:** [[method_disuguaglianze|Disuguaglianze]], [[method_fattorizzazione|Fattorizzazione]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
-**Area:** [[Aritmetica e Teoria dei Numeri]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Algebra e Analisi|Algebra and analysis]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1ASMMz2DYTBieu4G0G3yj2BJioNfgOgua/view)
 
 
@@ -35,16 +35,15 @@ level: OBM Nível Universitário
 > Un numero intero positivo $n$ è detto *perfetto* se la somma dei suoi divisori positivi $\sigma(n)$ è uguale al doppio di $n$, cioè $\sigma(n) = 2n$. Ad esempio, $6$ è un numero perfetto, poiché la somma dei suoi divisori positivi è $1+2+3+6=12$, che è il doppio di $6$. Dimostrare che, se $n$ è un numero intero positivo perfetto, allora
 > $$\sum_{\substack{p \mid n \\ p \text{ prime}}} \frac{1}{p+1} < \ln 2 < \sum_{\substack{p \mid n \\ p \text{ prime}}} \frac{1}{p-1}.$$
 
-**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_disuguaglianze|Disuguaglianze]]
 **Metodo:** [[method_disuguaglianze|Disuguaglianze]], [[method_fattorizzazione|Fattorizzazione]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
-**Area:** [[Aritmetica e Teoria dei Numeri]]
-
-[[Quesiti/src_obm_2024_nu_fx#q01|src_obm_2024_nu_fx__Q01]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 
 
 
-<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_insiemi_funzioni,topic_algebra,method_disuguaglianze,method_induzione,skill_manipolazione_algebrica,skill_ragionamento_geometrico,skill_astrazione"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_insiemi_funzioni,topic_algebra,method_disuguaglianze,method_induzione,method_simmetria,skill_manipolazione_algebrica,skill_ragionamento_geometrico,skill_astrazione"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -60,9 +59,9 @@ level: OBM Nível Universitário
 > (c) Prove that $\lambda_{jk} = \lambda_{kj}$ for any integers $j, k \ge 2$.
 
 **Topic:** [[topic_insiemi_funzioni|Insiemi e funzioni]], [[topic_algebra|Algebra]]
-**Metodo:** [[method_disuguaglianze|Disuguaglianze]], [[method_induzione|Induzione]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze]], [[method_induzione|Induzione]], [[method_simmetria|Using symmetry]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_astrazione|Astrazione]]
-**Area:** [[Algebra e Analisi]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1ASMMz2DYTBieu4G0G3yj2BJioNfgOgua/view)
 
 
@@ -79,16 +78,15 @@ level: OBM Nível Universitário
 >
 > (c) Dimostrare che $\lambda_{jk} = \lambda_{kj}$ per qualsiasi intero $j, k \ge 2$.
 
+
 **Topic:** [[topic_insiemi_funzioni|Insiemi e funzioni]], [[topic_algebra|Algebra]]
-**Metodo:** [[method_disuguaglianze|Disuguaglianze]], [[method_induzione|Induzione]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze]], [[method_induzione|Induzione]], [[method_simmetria|Sfruttamento della simmetria]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_astrazione|Astrazione]]
 **Area:** [[Algebra e Analisi]]
 
-[[Quesiti/src_obm_2024_nu_fx#q02|src_obm_2024_nu_fx__Q02]]
 
 
-
-<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_combinatoria,method_invarianti,method_casework,method_congruenze,skill_ragionamento_geometrico,skill_riconoscimento_pattern,skill_conteggio_sistematico,skill_lettura_attenta"></span>
+<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_combinatoria,topic_aritmetica,method_invarianti,method_casework,method_congruenze,skill_ragionamento_geometrico,skill_riconoscimento_pattern,skill_conteggio_sistematico,skill_lettura_attenta"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -97,10 +95,10 @@ level: OBM Nível Universitário
 
 > Consider a game on an $n \times n$ board, where each cell starts with exactly one stone. A *move* consists of choosing $5$ consecutive cells in the same row or column of the board and swapping the state of those cells (removing a stone from a cell that has one, and placing a stone in a cell that has none). For which positive integers $n \ge 5$ is it possible to make the board have exactly one stone remaining after a finite number of moves?
 
-**Topic:** [[topic_combinatoria|Combinatoria]]
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Arithmetic / Number theory]]
 **Metodo:** [[method_invarianti|Invarianti]], [[method_casework|Casework]], [[method_congruenze|Congruenze]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]]
-**Area:** [[Combinatoria, Logica e Probabilita]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1ASMMz2DYTBieu4G0G3yj2BJioNfgOgua/view)
 
 
@@ -111,16 +109,15 @@ level: OBM Nível Universitário
 
 > Si consideri un gioco su una scacchiera di dimensioni $n \times n$, in cui ogni cella inizia con esattamente una pietra. Una *mossa* consiste nel scegliere $5$ celle consecutive nella stessa riga o nella stessa colonna della scacchiera e nello scambiare lo stato di quelle celle (rimuovendo una pietra da una cella che ne contiene una e mettendo una pietra in una cella che non ne contiene alcuna). Per quali interi positivi $n \ge 5$ è possibile far sì che, dopo un numero finito di mosse, sulla scacchiera rimanga esattamente una pietra?
 
-**Topic:** [[topic_combinatoria|Combinatoria]]
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_invarianti|Invarianti]], [[method_casework|Casework]], [[method_congruenze|Congruenze]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]]
-**Area:** [[Combinatoria, Logica e Probabilita]]
-
-[[Quesiti/src_obm_2024_nu_fx#q03|src_obm_2024_nu_fx__Q03]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 
 
 
-<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_insiemi_funzioni,topic_algebra,method_simmetria,method_casework,skill_astrazione,skill_manipolazione_algebrica,skill_ragionamento_geometrico,skill_lettura_attenta"></span>
+<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_insiemi_funzioni,topic_algebra,topic_funzionali,method_simmetria,method_casework,skill_astrazione,skill_manipolazione_algebrica,skill_ragionamento_geometrico,skill_lettura_attenta"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -133,10 +130,10 @@ level: OBM Nível Universitário
 > 
 > (b) Find all polynomials $P$ with real coefficients such that the corresponding polynomial function $P : \mathbb{R} \to \mathbb{R}$ is morphically even.
 
-**Topic:** [[topic_insiemi_funzioni|Insiemi e funzioni]], [[topic_algebra|Algebra]]
+**Topic:** [[topic_insiemi_funzioni|Insiemi e funzioni]], [[topic_algebra|Algebra]], [[topic_funzionali|Functional equations / sequences]]
 **Metodo:** [[method_simmetria|Simmetria]], [[method_casework|Casework]]
 **Abilita:** [[skill_astrazione|Astrazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
-**Area:** [[Algebra e Analisi]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1ASMMz2DYTBieu4G0G3yj2BJioNfgOgua/view)
 
 
@@ -151,12 +148,11 @@ level: OBM Nível Universitário
 >
 > (b) Trovare tutti i polinomi $P$ a coefficienti reali tali che la corrispondente funzione polinomiale $P : \mathbb{R} \to \mathbb{R}$ sia morficamente pari.
 
-**Topic:** [[topic_insiemi_funzioni|Insiemi e funzioni]], [[topic_algebra|Algebra]]
+
+**Topic:** [[topic_insiemi_funzioni|Insiemi e funzioni]], [[topic_algebra|Algebra]], [[topic_funzionali|Equazioni funzionali / successioni]]
 **Metodo:** [[method_simmetria|Simmetria]], [[method_casework|Casework]]
 **Abilita:** [[skill_astrazione|Astrazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Algebra e Analisi]]
-
-[[Quesiti/src_obm_2024_nu_fx#q04|src_obm_2024_nu_fx__Q04]]
 
 
 
@@ -191,8 +187,6 @@ level: OBM Nível Universitário
 **Metodo:** [[method_casework|Casework]], [[method_congruenze|Congruenze]], [[method_fattorizzazione|Fattorizzazione]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Algebra e Analisi]]
-
-[[Quesiti/src_obm_2024_nu_fx#q05|src_obm_2024_nu_fx__Q05]]
 
 
 
@@ -239,5 +233,3 @@ level: OBM Nível Universitário
 **Metodo:** [[method_telescoping|Telescoping]], [[method_conteggio|Conteggio]], [[method_estremalita|Estremalità]]
 **Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_stima|Stima]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
-
-[[Quesiti/src_obm_2024_nu_fx#q06|src_obm_2024_nu_fx__Q06]]

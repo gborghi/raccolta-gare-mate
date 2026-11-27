@@ -38,8 +38,6 @@ level: Olimpiade Polacca Round 3
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_astrazione|Astrazione]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 
-[[Quesiti/src_pol_1983_r3#q01|src_pol_1983_r3__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_aritmetica,method_cassetti,method_estremalita,skill_manipolazione_algebrica,skill_lettura_attenta,skill_astrazione"></span>
@@ -72,11 +70,9 @@ level: Olimpiade Polacca Round 3
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_astrazione|Astrazione]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 
-[[Quesiti/src_pol_1983_r3#q02|src_pol_1983_r3__Q02]]
 
 
-
-<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_combinatoria,method_invarianti,method_colorazione,skill_modellizzazione,skill_riconoscimento_pattern,skill_astrazione"></span>
+<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_combinatoria,topic_logica,method_invarianti,method_colorazione,skill_modellizzazione,skill_riconoscimento_pattern,skill_astrazione"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -85,10 +81,10 @@ level: Olimpiade Polacca Round 3
 
 > Consider the following one-player game on an infinite chessboard. If two horizontally or vertically adjacent squares are occupied by a pawn each, and a square on the same line that is adjacent to one of them is empty, then it is allowed to remove the two pawns and place a pawn on the third (empty) square. Prove that if in the initial position all the pawns were forming a rectangle with the number of squares divisible by 3, then it is not possible to end the game with only one pawn left on the board.
 
-**Topic:** [[topic_combinatoria|Combinatoria]]
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_logica|Logic, games and strategies]]
 **Metodo:** [[method_invarianti|Invarianti]], [[method_colorazione|Colorazione]]
 **Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_astrazione|Astrazione]]
-**Area:** [[Combinatoria, Logica e Probabilita]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/11T0teEgsTglF6JeBb0ta-iaqOX3phPMX/view)
 
 
@@ -99,12 +95,11 @@ level: Olimpiade Polacca Round 3
 
 > Si consideri il seguente gioco a un solo giocatore su una scacchiera infinita. Se due caselle adiacenti orizzontalmente o verticalmente sono ciascuna occupata da un pedone, e una casella sulla stessa riga o sulla stessa colonna, adiacente a una di esse, è vuota, allora è consentito rimuovere i due pedoni e collocare un pedone sulla terza casella (vuota). Dimostrare che, se nella posizione iniziale tutti i pedoni formavano un rettangolo il cui numero di caselle era divisibile per 3, allora non è possibile concludere il gioco con un solo pedone rimasto sulla scacchiera.
 
-**Topic:** [[topic_combinatoria|Combinatoria]]
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_logica|Logica, giochi, strategie]]
 **Metodo:** [[method_invarianti|Invarianti]], [[method_colorazione|Colorazione]]
 **Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_astrazione|Astrazione]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
-
-[[Quesiti/src_pol_1983_r3#q03|src_pol_1983_r3__Q03]]
 
 
 
@@ -138,11 +133,9 @@ level: Olimpiade Polacca Round 3
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 
-[[Quesiti/src_pol_1983_r3#q04|src_pol_1983_r3__Q04]]
 
 
-
-<span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_disuguaglianze,topic_geometria_analitica,method_casework,method_estremalita,skill_manipolazione_algebrica,skill_ragionamento_geometrico,skill_stima"></span>
+<span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_disuguaglianze,topic_geometria_analitica,method_casework,method_estremalita,skill_manipolazione_algebrica,skill_ragionamento_geometrico,skill_stima,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -153,8 +146,8 @@ level: Olimpiade Polacca Round 3
 
 **Topic:** [[topic_disuguaglianze|Disuguaglianze]], [[topic_geometria_analitica|Geometria analitica]]
 **Metodo:** [[method_casework|Casework]], [[method_estremalita|Estremalità]]
-**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_stima|Stima]]
-**Area:** [[Algebra e Analisi]], [[Geometria]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_stima|Stima]], [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Geometria|Geometry]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/11T0teEgsTglF6JeBb0ta-iaqOX3phPMX/view)
 
 
@@ -165,16 +158,15 @@ level: Olimpiade Polacca Round 3
 
 > Nel piano sono dati vettori unitari $\vec{a}_1, \vec{a}_2, \vec{a}_3$. Dimostrare che si possono scegliere numeri $c_1, c_2, c_3 \in \{-1, 1\}$ tali che la lunghezza del vettore $c_1\vec{a}_1 + c_2\vec{a}_2 + c_3\vec{a}_3$ sia almeno $2$.
 
+
 **Topic:** [[topic_disuguaglianze|Disuguaglianze]], [[topic_geometria_analitica|Geometria analitica]]
 **Metodo:** [[method_casework|Casework]], [[method_estremalita|Estremalità]]
-**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_stima|Stima]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_stima|Stima]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Algebra e Analisi]], [[Geometria]]
 
-[[Quesiti/src_pol_1983_r3#q05|src_pol_1983_r3__Q05]]
 
 
-
-<span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_geometria_solida,method_casework,skill_ragionamento_geometrico,skill_lettura_attenta,skill_astrazione"></span>
+<span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_geometria_solida,method_casework,skill_ragionamento_geometrico,skill_lettura_attenta,skill_astrazione,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -185,8 +177,8 @@ level: Olimpiade Polacca Round 3
 
 **Topic:** [[topic_geometria_solida|Geometria solida]]
 **Metodo:** [[method_casework|Casework]]
-**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_astrazione|Astrazione]]
-**Area:** [[Geometria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_astrazione|Astrazione]], [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Geometria|Geometry]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/11T0teEgsTglF6JeBb0ta-iaqOX3phPMX/view)
 
 
@@ -197,9 +189,8 @@ level: Olimpiade Polacca Round 3
 
 > Dimostrare che, se tutti gli angoli diedri di un tetraedro sono acuti, allora tutte le sue facce sono triangoli acutangoli.
 
+
 **Topic:** [[topic_geometria_solida|Geometria solida]]
 **Metodo:** [[method_casework|Casework]]
-**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_astrazione|Astrazione]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_astrazione|Astrazione]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Geometria]]
-
-[[Quesiti/src_pol_1983_r3#q06|src_pol_1983_r3__Q06]]

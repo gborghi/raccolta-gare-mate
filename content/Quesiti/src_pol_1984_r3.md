@@ -10,7 +10,7 @@ level: Olimpiade Polacca Round 3
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_algebra,topic_insiemi_funzioni,topic_combinatoria,method_conteggio,method_ricorsione,skill_astrazione,skill_conteggio_sistematico,skill_lettura_attenta"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_algebra,topic_insiemi_funzioni,topic_combinatoria,method_conteggio,method_ricorsione,method_grafi,method_casi_conteggio,skill_astrazione,skill_conteggio_sistematico,skill_lettura_attenta"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -20,9 +20,9 @@ level: Olimpiade Polacca Round 3
 > Find the number of all real functions $f$ which map the sum of $n$ elements into the sum of their images, such that $f^{n-1}$ is a constant function and $f^{n-2}$ is not. Here $f^0(x)=x$ and $f^k=f\circ f^{k-1}$ for $k\ge 1$.
 
 **Topic:** [[topic_algebra|Algebra]], [[topic_insiemi_funzioni|Insiemi e funzioni]], [[topic_combinatoria|Combinatoria]]
-**Metodo:** [[method_conteggio|Conteggio]], [[method_ricorsione|Ricorsione]]
+**Metodo:** [[method_conteggio|Conteggio]], [[method_ricorsione|Ricorsione]], [[method_grafi|Graph theory]], [[method_casi_conteggio|Counting by cases]]
 **Abilita:** [[skill_astrazione|Astrazione]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]]
-**Area:** [[Algebra e Analisi]], [[Combinatoria, Logica e Probabilita]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1uJbOajHDsVJS_W8N_b349B1gwV3vlEpC/view)
 
 
@@ -33,12 +33,11 @@ level: Olimpiade Polacca Round 3
 
 > Trovare il numero di tutte le funzioni reali $f$ che associano alla somma di $n$ elementi la somma delle loro immagini, in modo che $f^{n-1}$ sia una funzione costante e $f^{n-2}$ non lo sia. Qui $f^0(x)=x$ e $f^k=f\circ f^{k-1}$ per $k\ge 1$.
 
+
 **Topic:** [[topic_algebra|Algebra]], [[topic_insiemi_funzioni|Insiemi e funzioni]], [[topic_combinatoria|Combinatoria]]
-**Metodo:** [[method_conteggio|Conteggio]], [[method_ricorsione|Ricorsione]]
+**Metodo:** [[method_conteggio|Conteggio]], [[method_ricorsione|Ricorsione]], [[method_grafi|Teoria dei grafi]], [[method_casi_conteggio|Conteggio per casi]]
 **Abilita:** [[skill_astrazione|Astrazione]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Algebra e Analisi]], [[Combinatoria, Logica e Probabilita]]
-
-[[Quesiti/src_pol_1984_r3#q01|src_pol_1984_r3__Q01]]
 
 
 
@@ -70,11 +69,9 @@ level: Olimpiade Polacca Round 3
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Casework accurato]], [[skill_astrazione|Astrazione]]
 **Area:** [[Algebra e Analisi]], [[Combinatoria, Logica e Probabilita]]
 
-[[Quesiti/src_pol_1984_r3#q02|src_pol_1984_r3__Q02]]
 
 
-
-<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_geometria_solida,topic_geometria_piana,topic_disuguaglianze,method_estremalita,method_casework,method_coordinate,skill_ragionamento_geometrico,skill_stima,skill_astrazione"></span>
+<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_geometria_solida,topic_geometria_piana,topic_disuguaglianze,method_estremalita,method_casework,method_coordinate,method_simmetria,skill_ragionamento_geometrico,skill_stima,skill_astrazione,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -84,9 +81,9 @@ level: Olimpiade Polacca Round 3
 > Let $W$ be a regular octahedron and $O$ be its center. In a plane $P$ containing $O$ circles $k_1(O,r_1)$ and $k_2(O,r_2)$ are chosen so that $k_1\subset P\cap W\subset k_2$. Prove that $\frac{r_1}{r_2}\le\frac{\sqrt{3}}{2}$.
 
 **Topic:** [[topic_geometria_solida|Geometria solida]], [[topic_geometria_piana|Geometria piana]], [[topic_disuguaglianze|Disuguaglianze]]
-**Metodo:** [[method_estremalita|Estremalità]], [[method_casework|Casework]], [[method_coordinate|Coordinate]]
-**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_stima|Stima]], [[skill_astrazione|Astrazione]]
-**Area:** [[Geometria]], [[Algebra e Analisi]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_casework|Casework]], [[method_coordinate|Coordinate]], [[method_simmetria|Using symmetry]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_stima|Stima]], [[skill_astrazione|Astrazione]], [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Geometria|Geometry]], [[Algebra e Analisi|Algebra and analysis]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1uJbOajHDsVJS_W8N_b349B1gwV3vlEpC/view)
 
 
@@ -97,16 +94,15 @@ level: Olimpiade Polacca Round 3
 
 > Sia $W$ un ottaedro regolare e $O$ il suo centro. In un piano $P$ contenente $O$, si scelgono i cerchi $k_1(O,r_1)$ e $k_2(O,r_2)$ in modo che $k_1\subset P\cap W\subset k_2$. Dimostrare che $\frac{r_1}{r_2}\le\frac{\sqrt{3}}{2}$.
 
+
 **Topic:** [[topic_geometria_solida|Geometria solida]], [[topic_geometria_piana|Geometria piana]], [[topic_disuguaglianze|Disuguaglianze]]
-**Metodo:** [[method_estremalita|Estremalità]], [[method_casework|Casework]], [[method_coordinate|Coordinate]]
-**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_stima|Stima]], [[skill_astrazione|Astrazione]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_casework|Casework]], [[method_coordinate|Coordinate]], [[method_simmetria|Sfruttamento della simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_stima|Stima]], [[skill_astrazione|Astrazione]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Geometria]], [[Algebra e Analisi]]
 
-[[Quesiti/src_pol_1984_r3#q03|src_pol_1984_r3__Q03]]
 
 
-
-<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_probabilita,topic_combinatoria,method_ricorsione,method_casework,method_conteggio,skill_modellizzazione,skill_conteggio_sistematico,skill_astrazione"></span>
+<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_probabilita,topic_combinatoria,method_ricorsione,method_casework,method_conteggio,skill_modellizzazione,skill_conteggio_sistematico,skill_astrazione,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -117,8 +113,8 @@ level: Olimpiade Polacca Round 3
 
 **Topic:** [[topic_probabilita|Probabilità]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_ricorsione|Ricorsione]], [[method_casework|Casework]], [[method_conteggio|Conteggio]]
-**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_astrazione|Astrazione]]
-**Area:** [[Combinatoria, Logica e Probabilita]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_astrazione|Astrazione]], [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1uJbOajHDsVJS_W8N_b349B1gwV3vlEpC/view)
 
 
@@ -129,12 +125,11 @@ level: Olimpiade Polacca Round 3
 
 > Una moneta viene lanciata $n$ volte e il risultato viene scritto nella forma $(a_1,a_2,\ldots,a_n)$, dove $a_i=1$ oppure $2$ a seconda che il risultato del lancio $i$-esimo sia testa o croce, rispettivamente. Si ponga $b_j=a_1+a_2+\cdots+a_j$ per $j=1,2,\ldots,n$, e si faccia in modo che $p(n)$ sia la probabilità che la sequenza $b_1,b_2,\ldots,b_n$ contenga il numero $n$. Si esprima $p(n)$ in funzione di $p(n-1)$ e $p(n-2)$.
 
+
 **Topic:** [[topic_probabilita|Probabilità]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_ricorsione|Ricorsione]], [[method_casework|Casework]], [[method_conteggio|Conteggio]]
-**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_astrazione|Astrazione]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_astrazione|Astrazione]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
-
-[[Quesiti/src_pol_1984_r3#q04|src_pol_1984_r3__Q04]]
 
 
 
@@ -166,8 +161,6 @@ level: Olimpiade Polacca Round 3
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_stima|Stima]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Geometria]], [[Combinatoria, Logica e Probabilita]]
 
-[[Quesiti/src_pol_1984_r3#q05|src_pol_1984_r3__Q05]]
-
 
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_combinatoria,topic_logica,method_grafi,method_colorazione,method_estremalita,method_cassetti,skill_astrazione,skill_modellizzazione,skill_conteggio_sistematico"></span>
@@ -197,5 +190,3 @@ level: Olimpiade Polacca Round 3
 **Metodo:** [[method_grafi|Grafi]], [[method_colorazione|Colorazione]], [[method_estremalita|Estremalità]], [[method_cassetti|Principio dei cassetti]]
 **Abilita:** [[skill_astrazione|Astrazione]], [[skill_modellizzazione|Modellizzazione]], [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
-
-[[Quesiti/src_pol_1984_r3#q06|src_pol_1984_r3__Q06]]

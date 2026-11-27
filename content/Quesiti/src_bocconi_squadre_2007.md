@@ -10,7 +10,7 @@ level: Gara a Squadre
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_aritmetica,method_casework,skill_casework_accurato,skill_manipolazione_algebrica"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_aritmetica,method_casework,skill_casework_accurato,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -23,7 +23,7 @@ level: Gara a Squadre
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_casework|Casework]]
-**Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta del testo]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1sJH9HeunGzVflS-CXw7epkUXqXOqTvV7/view)
 
@@ -37,12 +37,11 @@ level: Gara a Squadre
 > $$7 * 7 * 7 * 7 * 7 * 7 * 7 = 34$$
 > (Providing one solution is sufficient)
 
+
 **Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
 **Metodo:** [[method_casework|Case analysis]]
-**Abilita:** [[skill_casework_accurato|Careful case analysis]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]], [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_lettura_attenta|Careful reading of the text]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
-
-[[Quesiti/src_bocconi_squadre_2007#q01|src_bocconi_squadre_2007__Q01]]
 
 
 
@@ -74,11 +73,9 @@ level: Gara a Squadre
 **Abilita:** [[skill_conteggio_sistematico|Systematic counting]], [[skill_casework_accurato|Careful case analysis]]
 **Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
-[[Quesiti/src_bocconi_squadre_2007#q02|src_bocconi_squadre_2007__Q02]]
 
 
-
-<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_aritmetica,topic_combinatoria,method_casework,method_estremalita,skill_lettura_attenta,skill_conteggio_sistematico,skill_ragionamento_geometrico"></span>
+<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_aritmetica,topic_combinatoria,method_casework,method_estremalita,skill_lettura_attenta,skill_conteggio_sistematico,skill_ragionamento_geometrico,skill_modellizzazione,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -91,7 +88,7 @@ level: Gara a Squadre
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_casework|Casework]], [[method_estremalita|Estremalità]]
-**Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1sJH9HeunGzVflS-CXw7epkUXqXOqTvV7/view)
 
@@ -105,12 +102,11 @@ level: Gara a Squadre
 >
 > What are the values of a red stamp and a green stamp?
 
+
 **Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_combinatoria|Combinatorics]]
 **Metodo:** [[method_casework|Case analysis]], [[method_estremalita|Extremal principle]]
-**Abilita:** [[skill_lettura_attenta|Careful reading of the text]], [[skill_conteggio_sistematico|Systematic counting]], [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Abilita:** [[skill_lettura_attenta|Careful reading of the text]], [[skill_conteggio_sistematico|Systematic counting]], [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_modellizzazione|Modelling / translating the text]], [[skill_casework_accurato|Careful case analysis]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
-
-[[Quesiti/src_bocconi_squadre_2007#q03|src_bocconi_squadre_2007__Q03]]
 
 
 
@@ -125,7 +121,7 @@ level: Gara a Squadre
 > 
 > Determinate il valore del rapporto $S/y$.
 
-![[src_bocconi_squadre_2007__q04.png]]
+![[src_bocconi_squadre_2007__Q04.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_coordinate|Coordinate]], [[method_simmetria|Simmetria]]
@@ -143,18 +139,16 @@ level: Gara a Squadre
 >
 > Determine the value of the ratio $S/y$.
 
-![[src_bocconi_squadre_2007__q04.png]]
+![[src_bocconi_squadre_2007__Q04.png]]
 
 **Topic:** [[topic_geometria_piana|Plane geometry]]
 **Metodo:** [[method_coordinate|Coordinate method]], [[method_simmetria|Using symmetry]]
 **Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
 **Area:** [[Geometria|Geometry]]
 
-[[Quesiti/src_bocconi_squadre_2007#q04|src_bocconi_squadre_2007__Q04]]
 
 
-
-<span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_geometria_piana,topic_aritmetica,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
+<span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_geometria_piana,topic_aritmetica,skill_manipolazione_algebrica,skill_lettura_attenta,skill_ragionamento_geometrico,skill_stima"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -165,10 +159,10 @@ level: Gara a Squadre
 > 
 > Quanto misura il lato del quadro di Amerigo? (Se nel corso dei calcoli incontrate $\sqrt{2}$, $\sqrt{3}$ o $\pi$, dovete approssimarli rispettivamente con 1,41, con 1,73, con 3,14 in modo da esprimere il risultato con un numero con due cifre decimali.)
 
-![[src_bocconi_squadre_2007__q05.png]]
+![[src_bocconi_squadre_2007__Q05.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_stima|Stima e approssimazione]]
 **Area:** [[Geometria]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1sJH9HeunGzVflS-CXw7epkUXqXOqTvV7/view)
 
@@ -182,13 +176,12 @@ level: Gara a Squadre
 >
 > How long is the side of Amerigo's square? (If, during the calculations, you encounter $\sqrt{2}$, $\sqrt{3}$, or $\pi$, you must approximate them respectively with 1.41, 1.73, and 3.14 so as to express the result as a number with two decimal places.)
 
-![[src_bocconi_squadre_2007__q05.png]]
+![[src_bocconi_squadre_2007__Q05.png]]
+
 
 **Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_aritmetica|Arithmetic / Number theory]]
-**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_lettura_attenta|Careful reading of the text]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_lettura_attenta|Careful reading of the text]], [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_stima|Estimation and approximation]]
 **Area:** [[Geometria|Geometry]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
-
-[[Quesiti/src_bocconi_squadre_2007#q05|src_bocconi_squadre_2007__Q05]]
 
 
 
@@ -220,8 +213,6 @@ level: Gara a Squadre
 **Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_conteggio_sistematico|Systematic counting]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
-[[Quesiti/src_bocconi_squadre_2007#q06|src_bocconi_squadre_2007__Q06]]
-
 
 
 <span class="atom-split" id="q07" data-atom="q07" data-title="Quesito 7" data-tags="topic_aritmetica,method_congruenze,method_casework,skill_manipolazione_algebrica,skill_conteggio_sistematico"></span>
@@ -251,8 +242,6 @@ level: Gara a Squadre
 **Metodo:** [[method_congruenze|Modular arithmetic / congruences]], [[method_casework|Case analysis]]
 **Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_conteggio_sistematico|Systematic counting]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
-
-[[Quesiti/src_bocconi_squadre_2007#q07|src_bocconi_squadre_2007__Q07]]
 
 
 
@@ -288,8 +277,6 @@ level: Gara a Squadre
 **Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_conteggio_sistematico|Systematic counting]], [[skill_lettura_attenta|Careful reading of the text]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Algebra e Analisi|Algebra and analysis]]
 
-[[Quesiti/src_bocconi_squadre_2007#q08|src_bocconi_squadre_2007__Q08]]
-
 
 
 <span class="atom-split" id="q09" data-atom="q09" data-title="Quesito 9" data-tags="topic_algebra,topic_aritmetica,method_casework,skill_manipolazione_algebrica,skill_lettura_attenta,skill_modellizzazione"></span>
@@ -324,11 +311,9 @@ level: Gara a Squadre
 **Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_lettura_attenta|Careful reading of the text]], [[skill_modellizzazione|Modelling / translating the text]]
 **Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
-[[Quesiti/src_bocconi_squadre_2007#q09|src_bocconi_squadre_2007__Q09]]
 
 
-
-<span class="atom-split" id="q10" data-atom="q10" data-title="Quesito 10" data-tags="topic_probabilita,topic_combinatoria,method_casework,method_conteggio,skill_conteggio_sistematico,skill_lettura_attenta,skill_modellizzazione"></span>
+<span class="atom-split" id="q10" data-atom="q10" data-title="Quesito 10" data-tags="topic_probabilita,topic_combinatoria,method_casework,method_conteggio,skill_conteggio_sistematico,skill_lettura_attenta,skill_modellizzazione,skill_stima"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -342,7 +327,7 @@ level: Gara a Squadre
 
 **Topic:** [[topic_probabilita|Probabilità]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]]
-**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_modellizzazione|Modellizzazione]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_modellizzazione|Modellizzazione]], [[skill_stima|Stima e approssimazione]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1sJH9HeunGzVflS-CXw7epkUXqXOqTvV7/view)
 
@@ -356,16 +341,15 @@ level: Gara a Squadre
 >
 > What is the probability that among them there is a 3-year-old child and that all the others are no longer younger? (You must state the probability as a lower bound, using a number with two decimal places.)
 
+
 **Topic:** [[topic_probabilita|Probability]], [[topic_combinatoria|Combinatorics]]
 **Metodo:** [[method_casework|Case analysis]], [[method_conteggio|Combinatorial counting]]
-**Abilita:** [[skill_conteggio_sistematico|Systematic counting]], [[skill_lettura_attenta|Careful reading of the text]], [[skill_modellizzazione|Modelling / translating the text]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]], [[skill_lettura_attenta|Careful reading of the text]], [[skill_modellizzazione|Modelling / translating the text]], [[skill_stima|Estimation and approximation]]
 **Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
-[[Quesiti/src_bocconi_squadre_2007#q10|src_bocconi_squadre_2007__Q10]]
 
 
-
-<span class="atom-split" id="q11" data-atom="q11" data-title="Quesito 11" data-tags="topic_aritmetica,method_congruenze,method_casework,skill_manipolazione_algebrica,skill_lettura_attenta,skill_conteggio_sistematico"></span>
+<span class="atom-split" id="q11" data-atom="q11" data-title="Quesito 11" data-tags="topic_aritmetica,method_congruenze,method_casework,skill_manipolazione_algebrica,skill_lettura_attenta,skill_conteggio_sistematico,skill_stima"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -378,7 +362,7 @@ level: Gara a Squadre
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_congruenze|Congruenze]], [[method_casework|Casework]]
-**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_stima|Stima e approssimazione]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1sJH9HeunGzVflS-CXw7epkUXqXOqTvV7/view)
 
@@ -392,12 +376,11 @@ level: Gara a Squadre
 > $$792 \times \boxed{\phantom{00}} = 1989 \cdot 1990 \cdots$$
 > By what number was 792 multiplied?
 
+
 **Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
 **Metodo:** [[method_congruenze|Modular arithmetic / congruences]], [[method_casework|Case analysis]]
-**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_lettura_attenta|Careful reading of the text]], [[skill_conteggio_sistematico|Systematic counting]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_lettura_attenta|Careful reading of the text]], [[skill_conteggio_sistematico|Systematic counting]], [[skill_stima|Estimation and approximation]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
-
-[[Quesiti/src_bocconi_squadre_2007#q11|src_bocconi_squadre_2007__Q11]]
 
 
 
@@ -431,11 +414,9 @@ level: Gara a Squadre
 **Abilita:** [[skill_modellizzazione|Modelling / translating the text]], [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_lettura_attenta|Careful reading of the text]]
 **Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
-[[Quesiti/src_bocconi_squadre_2007#q12|src_bocconi_squadre_2007__Q12]]
 
 
-
-<span class="atom-split" id="q13" data-atom="q13" data-title="Quesito 13" data-tags="topic_geometria_solida,topic_geometria_piana,skill_ragionamento_geometrico,skill_modellizzazione,skill_manipolazione_algebrica"></span>
+<span class="atom-split" id="q13" data-atom="q13" data-title="Quesito 13" data-tags="topic_geometria_solida,topic_geometria_piana,method_coordinate,skill_ragionamento_geometrico,skill_modellizzazione,skill_manipolazione_algebrica,skill_stima"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -444,10 +425,11 @@ level: Gara a Squadre
 
 > Quanto misura il percorso più breve per una formica che si trova in $A$ e vuole raggiungere il punto $B$, muovendosi lungo le facce del parallelepipedo in figura? (Dovete approssimare la soluzione per difetto, arrotondando alla prima cifra decimale.)
 
-![[src_bocconi_squadre_2007__q13.png]]
+![[src_bocconi_squadre_2007__Q13.png]]
 
 **Topic:** [[topic_geometria_solida|Geometria solida]], [[topic_geometria_piana|Geometria piana]]
-**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Metodo:** [[method_coordinate|Metodo delle coordinate]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima e approssimazione]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1sJH9HeunGzVflS-CXw7epkUXqXOqTvV7/view)
 
@@ -459,13 +441,13 @@ level: Gara a Squadre
 
 > What is the length of the shortest path for an ant located at $A$ that wants to reach point $B$, moving along the faces of the parallelepiped shown in the figure? (You must approximate the solution by underestimation, rounding to the first decimal place.)
 
-![[src_bocconi_squadre_2007__q13.png]]
+![[src_bocconi_squadre_2007__Q13.png]]
+
 
 **Topic:** [[topic_geometria_solida|Solid geometry]], [[topic_geometria_piana|Plane geometry]]
-**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_modellizzazione|Modelling / translating the text]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Metodo:** [[method_coordinate|Coordinate method]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_modellizzazione|Modelling / translating the text]], [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_stima|Estimation and approximation]]
 **Area:** [[Geometria|Geometry]]
-
-[[Quesiti/src_bocconi_squadre_2007#q13|src_bocconi_squadre_2007__Q13]]
 
 
 
@@ -501,8 +483,6 @@ level: Gara a Squadre
 **Abilita:** [[skill_modellizzazione|Modelling / translating the text]], [[skill_lettura_attenta|Careful reading of the text]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
 **Area:** [[Algebra e Analisi|Algebra and analysis]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
-[[Quesiti/src_bocconi_squadre_2007#q14|src_bocconi_squadre_2007__Q14]]
-
 
 
 <span class="atom-split" id="q15" data-atom="q15" data-title="Quesito 15" data-tags="topic_aritmetica,topic_combinatoria,method_casework,method_conteggio,skill_conteggio_sistematico,skill_lettura_attenta"></span>
@@ -537,11 +517,9 @@ level: Gara a Squadre
 **Abilita:** [[skill_conteggio_sistematico|Systematic counting]], [[skill_lettura_attenta|Careful reading of the text]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
-[[Quesiti/src_bocconi_squadre_2007#q15|src_bocconi_squadre_2007__Q15]]
 
 
-
-<span class="atom-split" id="q16" data-atom="q16" data-title="Quesito 16" data-tags="topic_algebra,topic_logica,method_casework,method_disuguaglianze,skill_lettura_attenta,skill_modellizzazione,skill_manipolazione_algebrica"></span>
+<span class="atom-split" id="q16" data-atom="q16" data-title="Quesito 16" data-tags="topic_algebra,topic_logica,method_casework,method_disuguaglianze,skill_lettura_attenta,skill_modellizzazione,skill_manipolazione_algebrica,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -554,7 +532,7 @@ level: Gara a Squadre
 
 **Topic:** [[topic_algebra|Algebra]], [[topic_logica|Logica]]
 **Metodo:** [[method_casework|Casework]], [[method_disuguaglianze|Disuguaglianze]]
-**Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_modellizzazione|Modellizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_modellizzazione|Modellizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Algebra e Analisi]], [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1sJH9HeunGzVflS-CXw7epkUXqXOqTvV7/view)
 
@@ -568,12 +546,11 @@ level: Gara a Squadre
 >
 > In Anna and Luca's family, how many daughters are there?
 
+
 **Topic:** [[topic_algebra|Algebra]], [[topic_logica|Logic, games, strategies]]
 **Metodo:** [[method_casework|Case analysis]], [[method_disuguaglianze|Inequalities]]
-**Abilita:** [[skill_lettura_attenta|Careful reading of the text]], [[skill_modellizzazione|Modelling / translating the text]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Abilita:** [[skill_lettura_attenta|Careful reading of the text]], [[skill_modellizzazione|Modelling / translating the text]], [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_casework_accurato|Careful case analysis]]
 **Area:** [[Algebra e Analisi|Algebra and analysis]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
-
-[[Quesiti/src_bocconi_squadre_2007#q16|src_bocconi_squadre_2007__Q16]]
 
 
 
@@ -590,7 +567,7 @@ level: Gara a Squadre
 > 
 > Aiutatela a completare la figura in modo da trovare i numeri mancanti!
 
-![[src_bocconi_squadre_2007__q17.png]]
+![[src_bocconi_squadre_2007__Q17.png]]
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]]
@@ -610,18 +587,16 @@ level: Gara a Squadre
 >
 > Help her complete the figure so that the missing numbers can be found!
 
-![[src_bocconi_squadre_2007__q17.png]]
+![[src_bocconi_squadre_2007__Q17.png]]
 
 **Topic:** [[topic_combinatoria|Combinatorics]], [[topic_aritmetica|Arithmetic / Number theory]]
 **Metodo:** [[method_casework|Case analysis]], [[method_conteggio|Combinatorial counting]]
 **Abilita:** [[skill_conteggio_sistematico|Systematic counting]], [[skill_lettura_attenta|Careful reading of the text]], [[skill_casework_accurato|Careful case analysis]]
 **Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
-[[Quesiti/src_bocconi_squadre_2007#q17|src_bocconi_squadre_2007__Q17]]
 
 
-
-<span class="atom-split" id="q18" data-atom="q18" data-title="Quesito 18" data-tags="topic_geometria_piana,topic_aritmetica,method_casework,method_estremalita,skill_ragionamento_geometrico,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
+<span class="atom-split" id="q18" data-atom="q18" data-title="Quesito 18" data-tags="topic_geometria_piana,topic_aritmetica,method_casework,method_estremalita,skill_ragionamento_geometrico,skill_manipolazione_algebrica,skill_lettura_attenta,skill_conteggio_sistematico"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -632,11 +607,11 @@ level: Gara a Squadre
 > 
 > Quanto vale, al massimo, questo perimetro?
 
-![[src_bocconi_squadre_2007__q18.png]]
+![[src_bocconi_squadre_2007__Q18.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_casework|Casework]], [[method_estremalita|Estremalità]]
-**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Geometria]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1sJH9HeunGzVflS-CXw7epkUXqXOqTvV7/view)
 
@@ -650,14 +625,13 @@ level: Gara a Squadre
 >
 > What is the maximum possible value of this perimeter?
 
-![[src_bocconi_squadre_2007__q18.png]]
+![[src_bocconi_squadre_2007__Q18.png]]
+
 
 **Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_aritmetica|Arithmetic / Number theory]]
 **Metodo:** [[method_casework|Case analysis]], [[method_estremalita|Extremal principle]]
-**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_lettura_attenta|Careful reading of the text]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_lettura_attenta|Careful reading of the text]], [[skill_conteggio_sistematico|Systematic counting]]
 **Area:** [[Geometria|Geometry]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
-
-[[Quesiti/src_bocconi_squadre_2007#q18|src_bocconi_squadre_2007__Q18]]
 
 
 
@@ -672,7 +646,7 @@ level: Gara a Squadre
 > 
 > Quali sono le caselle da evitare? (Scrivetele in ordine crescente e scrivete 0 se pensate che non ci siano caselle da evitare.)
 
-![[src_bocconi_squadre_2007__q19.png]]
+![[src_bocconi_squadre_2007__Q19.png]]
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_logica|Logica]]
 **Metodo:** [[method_colorazione|Colorazione]], [[method_casework|Casework]], [[method_invarianti|Invarianti]]
@@ -690,14 +664,12 @@ level: Gara a Squadre
 >
 > Which squares should be avoided? (Write them in ascending order, and write 0 if you think there are no squares to avoid.)
 
-![[src_bocconi_squadre_2007__q19.png]]
+![[src_bocconi_squadre_2007__Q19.png]]
 
 **Topic:** [[topic_combinatoria|Combinatorics]], [[topic_logica|Logic, games, strategies]]
 **Metodo:** [[method_colorazione|Colouring / parity]], [[method_casework|Case analysis]], [[method_invarianti|Invariants / monovariants]]
 **Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_conteggio_sistematico|Systematic counting]], [[skill_lettura_attenta|Careful reading of the text]]
 **Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
-
-[[Quesiti/src_bocconi_squadre_2007#q19|src_bocconi_squadre_2007__Q19]]
 
 
 
@@ -734,5 +706,3 @@ level: Gara a Squadre
 **Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Arithmetic / Number theory]]
 **Abilita:** [[skill_modellizzazione|Modelling / translating the text]], [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_lettura_attenta|Careful reading of the text]]
 **Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
-
-[[Quesiti/src_bocconi_squadre_2007#q20|src_bocconi_squadre_2007__Q20]]

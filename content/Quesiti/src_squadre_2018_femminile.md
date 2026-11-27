@@ -10,7 +10,7 @@ level: squadre
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_aritmetica"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_aritmetica,method_casework,skill_modellizzazione"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -25,6 +25,8 @@ level: squadre
 > anni prima di poter risolvere l’enigma.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 0023
 **Fonte:** [apri PDF p.24](https://drive.google.com/file/d/152V7pITU56NJCN2xu18juXzmluVnyIym/view)
@@ -37,14 +39,15 @@ level: squadre
 
 > IBERNATED Philip J. Frege, known to his friends as Fry, is a young man who works as a pizza delivery driver in New York. On the evening of New Year's Eve in 1999, he receives an order to deliver some pizzas to the cryogenics laboratory. When he arrives at the location, he finds no one there, but he sees a note saying that Dr. Hercule Zoup's son will, in 2017, celebrate an age that will be equal to the sum of the digits of his birth year. Curious, Fry wonders how old Hercule's son will be, but he falls into a capsule and remains frozen for 1,000 years before he can solve the riddle.
 
+
 **Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
-[[Quesiti/src_squadre_2018_femminile#q01|src_squadre_2018_femminile__Q01]]
 
 
-
-<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_aritmetica,method_fattorizzazione"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_aritmetica,method_fattorizzazione,skill_conteggio_sistematico"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -58,6 +61,7 @@ level: squadre
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 7680
 **Fonte:** [apri PDF p.24](https://drive.google.com/file/d/152V7pITU56NJCN2xu18juXzmluVnyIym/view)
@@ -70,15 +74,15 @@ level: squadre
 
 > THE AWAKENING Fry wakes up in 2999. Opening his eyes, he realizes he is in a laboratory with a strange one-eyed being that blasts him with a question: "Consider the smallest number divisible by all natural numbers from 1 to 30. How many positive divisors does it have?" Surprised, Fry can't answer.
 
+
 **Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
 **Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
-[[Quesiti/src_squadre_2018_femminile#q02|src_squadre_2018_femminile__Q02]]
 
 
-
-<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_geometria_piana,method_simmetria,skill_ragionamento_geometrico"></span>
+<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_geometria_piana,method_simmetria,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -108,7 +112,7 @@ level: squadre
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_simmetria|Sfruttamento della simmetria]]
-**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 **Risposta:** 0120
 **Fonte:** [apri PDF p.24](https://drive.google.com/file/d/152V7pITU56NJCN2xu18juXzmluVnyIym/view)
@@ -134,16 +138,15 @@ level: squadre
 
 > TOWARDS FREEDOM Receiving no response, Liela Turinga—that's the name of the one-eyed girl—analyzes Fry and offers him the job of errand boy. Fry isn't having it and tries to escape from the cryogenics center. When he reaches the back of the facility, he finds a code-locked door. Someone on the adjacent wall has drawn an isosceles triangle with a base of 400 mm and a side of 290 mm, and two identical circles that are tangent to each other and each tangent to the base and to one of the sides of the triangle. On one of the circles, a diameter is marked with an X above it. Could it be that the code is exactly the value of x in mm? With an effort of memory, Fry recalls the geometry lessons he had at school and, even though he gets it wrong, after a while manages to guess the correct code. What is it?
 
+
 **Topic:** [[topic_geometria_piana|Plane geometry]]
 **Metodo:** [[method_simmetria|Using symmetry]]
-**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
 **Area:** [[Geometria|Geometry]]
 
-[[Quesiti/src_squadre_2018_femminile#q03|src_squadre_2018_femminile__Q03]]
 
 
-
-<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_combinatoria,method_ricorsione"></span>
+<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_combinatoria,method_ricorsione,skill_conteggio_sistematico,skill_lettura_attenta"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -161,6 +164,7 @@ level: squadre
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_ricorsione|Ricorsione]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta del testo]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 1683
 **Fonte:** [apri PDF p.24](https://drive.google.com/file/d/152V7pITU56NJCN2xu18juXzmluVnyIym/view)
@@ -173,15 +177,15 @@ level: squadre
 
 > BEULER'S GAME 1 During the escape, Fry mistakes a suicide booth for an old telephone booth and joins a queue, where he meets Beuler, a robot who works as a "folder". To pass the time, Beuler is solving a game featured on an advertisement poster: given a 6×6 chessboard with a pawn on the bottom-left square, how many paths are there that move the pawn to the top-right corner, if only moves are allowed that shift the pawn from its current square to one of the three squares adjacent to the starting square at its top-right corner?
 
+
 **Topic:** [[topic_combinatoria|Combinatorics]]
 **Metodo:** [[method_ricorsione|Recursion]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]], [[skill_lettura_attenta|Careful reading of the text]]
 **Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
-[[Quesiti/src_squadre_2018_femminile#q04|src_squadre_2018_femminile__Q04]]
 
 
-
-<span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_geometria_solida"></span>
+<span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_geometria_solida,method_simmetria,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -211,6 +215,8 @@ level: squadre
 > quadrati delle lunghezze in m di tutte le barre di metallo necessarie?
 
 **Topic:** [[topic_geometria_solida|Geometria solida]]
+**Metodo:** [[method_simmetria|Sfruttamento della simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 **Risposta:** 7776
 **Fonte:** [apri PDF p.24](https://drive.google.com/file/d/152V7pITU56NJCN2xu18juXzmluVnyIym/view)
@@ -238,14 +244,15 @@ level: squadre
 
 > ROOMMATES Beuler claims to hate human beings, but he likes Fry and decides to help him by suggesting that Fry come and live at his place. Beuler's apartment is a rhombohedron—that is, a parallelepiped whose six faces are all rhombi. To prevent law enforcement from detecting Fry (who lacks an identification chip), Beuler must install a metal bar along every diagonal of the faces of the rhombi that make up his apartment. If the edges of his house measure 18 m, what is the sum of the squares of the lengths, in meters, of all the metal bars required?
 
+
 **Topic:** [[topic_geometria_solida|Solid geometry]]
+**Metodo:** [[method_simmetria|Using symmetry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
 **Area:** [[Geometria|Geometry]]
 
-[[Quesiti/src_squadre_2018_femminile#q05|src_squadre_2018_femminile__Q05]]
 
 
-
-<span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_probabilita"></span>
+<span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_probabilita,topic_combinatoria,method_conteggio,skill_manipolazione_algebrica,skill_modellizzazione"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -259,7 +266,9 @@ level: squadre
 > tenta di rispondere quando, senza pensarci, stacca una calamita dal frigorifero e la attacca sulla testa di Beuler… che va in tilt e 
 > comincia a cantare Blowin’ in the Wind. Qual era la risposta all’enigma di Beuler?
 
-**Topic:** [[topic_probabilita|Probabilita e statistica]]
+**Topic:** [[topic_probabilita|Probabilita e statistica]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_conteggio|Conteggio combinatorio]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0005
 **Fonte:** [apri PDF p.24](https://drive.google.com/file/d/152V7pITU56NJCN2xu18juXzmluVnyIym/view)
@@ -272,14 +281,15 @@ level: squadre
 
 > MAGNETIC EFFECTS "Look, Fry..." Beuler says, "...to live in the 31st century, you've got to know a bit of math. Let's play a game. Watch. I have 4 cards—two hearts and two spades. Calculate the probability of drawing two cards of the same suit. Now I'll add a certain number of clubs. If the probability of drawing two cards of the same suit hasn't changed, how many cards have I added?" Fry tries to answer when, without thinking, he detaches a magnet from the fridge and sticks it on Beuler's head... and Beuler glitches out and starts singing "Blowin' in the Wind." What was the answer to Beuler's riddle?
 
-**Topic:** [[topic_probabilita|Probability and statistics]]
+
+**Topic:** [[topic_probabilita|Probability and statistics]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_modellizzazione|Modelling / translating the text]]
 **Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
-[[Quesiti/src_squadre_2018_femminile#q06|src_squadre_2018_femminile__Q06]]
 
 
-
-<span class="atom-split" id="q07" data-atom="q07" data-title="Quesito 7" data-tags="topic_aritmetica,skill_riconoscimento_pattern"></span>
+<span class="atom-split" id="q07" data-atom="q07" data-title="Quesito 7" data-tags="topic_aritmetica,method_ricorsione,skill_riconoscimento_pattern"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -299,6 +309,7 @@ level: squadre
 > n .
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_ricorsione|Ricorsione]]
 **Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 6058
@@ -312,15 +323,15 @@ level: squadre
 
 > Distant Relatives Liela manages to find Fry. She confides in him that she wants to quit her oppressive job and that her dream is to travel through space. They begin a search to find out whether, in New York in the year 3000, there is a descendant of Fry who could help them—and indeed there is one: the scientist Hubert Fredholm, Fry's very distant great-great-great-grandnephew. The only snag is that, in the year 3000, a scientist's house number is always disguised as a mathematical operation. On Fredholm's file is the sequence of numbers 16, 1156, 111556, … obtained by inserting the number 15 in the middle of the digits of the preceding number. If n is the number obtained after the 2018th insertion and S(m) is the sum of the digits of the number m, then Fredholm's house number is S(n).
 
+
 **Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_ricorsione|Recursion]]
 **Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
-[[Quesiti/src_squadre_2018_femminile#q07|src_squadre_2018_femminile__Q07]]
 
 
-
-<span class="atom-split" id="q08" data-atom="q08" data-title="Quesito 8" data-tags="topic_aritmetica,method_congruenze,method_estremalita"></span>
+<span class="atom-split" id="q08" data-atom="q08" data-title="Quesito 8" data-tags="topic_aritmetica,method_congruenze,method_estremalita,skill_modellizzazione,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -338,6 +349,7 @@ level: squadre
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]], [[method_estremalita|Principio di estremalita]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 1425
 **Fonte:** [apri PDF p.24](https://drive.google.com/file/d/152V7pITU56NJCN2xu18juXzmluVnyIym/view)
@@ -350,15 +362,15 @@ level: squadre
 
 > PLANAR EXPRESS Hubert Fredholm is a professor of "quantum neutron mathematics" at the Martian University and the most senior member of the Academy of Professors. He is a great inventor, and it was his design that was used to build all of Earth's robots. Hubert is the owner of the intergalactic transport agency Planar Express. Hubert offers Fry, Liela, and Beuler jobs as his employees—but only if they can solve a problem. Hubert writes the numbers from 1 to 2018, leaving a space between them and writing a "=" at the end. He now asks them to fill the space between two numbers with a "+" sign or a "−" sign so that the final result of the operation is 1, but to do it with as many "+" signs as possible. Fry is desperate, and Liela is about to smash something. Fortunately, Beuler has the solution. How many "+" signs will it take to turn Fry into a delivery boy in 3000?
 
+
 **Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
 **Metodo:** [[method_congruenze|Modular arithmetic / congruences]], [[method_estremalita|Extremal principle]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
-[[Quesiti/src_squadre_2018_femminile#q08|src_squadre_2018_femminile__Q08]]
 
 
-
-<span class="atom-split" id="q09" data-atom="q09" data-title="Quesito 9" data-tags="topic_probabilita,method_casework,method_fattorizzazione"></span>
+<span class="atom-split" id="q09" data-atom="q09" data-title="Quesito 9" data-tags="topic_probabilita,method_casework,method_fattorizzazione,skill_casework_accurato,skill_modellizzazione,skill_conteggio_sistematico"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -384,6 +396,7 @@ level: squadre
 
 **Topic:** [[topic_probabilita|Probabilita e statistica]]
 **Metodo:** [[method_casework|Analisi per casi]], [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
+**Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 3011
 **Fonte:** [apri PDF p.24](https://drive.google.com/file/d/152V7pITU56NJCN2xu18juXzmluVnyIym/view)
@@ -398,15 +411,15 @@ level: squadre
 >
 > 3
 
+
 **Topic:** [[topic_probabilita|Probability and statistics]]
 **Metodo:** [[method_casework|Case analysis]], [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]], [[skill_modellizzazione|Modelling / translating the text]], [[skill_conteggio_sistematico|Systematic counting]]
 **Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
-[[Quesiti/src_squadre_2018_femminile#q09|src_squadre_2018_femminile__Q09]]
 
 
-
-<span class="atom-split" id="q10" data-atom="q10" data-title="Quesito 10" data-tags="topic_algebra,method_fattorizzazione"></span>
+<span class="atom-split" id="q10" data-atom="q10" data-title="Quesito 10" data-tags="topic_algebra,method_fattorizzazione,method_ricorsione,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -436,7 +449,8 @@ level: squadre
 > recuperare il professor Fredholm e tutti gli anziani confinati sul pianeta-ospizio?
 
 **Topic:** [[topic_algebra|Algebra]]
-**Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]], [[method_ricorsione|Ricorsione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Algebra e Analisi]]
 **Risposta:** 3791
 **Fonte:** [apri PDF p.25](https://drive.google.com/file/d/152V7pITU56NJCN2xu18juXzmluVnyIym/view)
@@ -451,15 +465,15 @@ level: squadre
 >
 > parsecs from Earth, where a and b are the roots of the polynomial 2 5 x x   . How many parsecs will Fry, Liela, and Beuler have to travel to rescue Professor Fredholm and all the elderly people confined on the hospice planet?
 
+
 **Topic:** [[topic_algebra|Algebra]]
-**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]], [[method_ricorsione|Recursion]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
 **Area:** [[Algebra e Analisi|Algebra and analysis]]
 
-[[Quesiti/src_squadre_2018_femminile#q10|src_squadre_2018_femminile__Q10]]
 
 
-
-<span class="atom-split" id="q11" data-atom="q11" data-title="Quesito 11" data-tags="topic_combinatoria,method_grafi"></span>
+<span class="atom-split" id="q11" data-atom="q11" data-title="Quesito 11" data-tags="topic_combinatoria,topic_logica,method_grafi,skill_conteggio_sistematico,skill_modellizzazione"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -539,8 +553,9 @@ level: squadre
 > 
 > . Quante sono tali coppie ordinate?
 
-**Topic:** [[topic_combinatoria|Combinatoria]]
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_logica|Logica, giochi, strategie]]
 **Metodo:** [[method_grafi|Teoria dei grafi]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0082
 **Fonte:** [apri PDF p.25](https://drive.google.com/file/d/152V7pITU56NJCN2xu18juXzmluVnyIym/view)
@@ -555,15 +570,15 @@ level: squadre
 
 > THE TEAM IS GROWING: John Zornberg, an old friend of Professor Fredholm, has joined the Planar Express team. He is an alien from the planet Decapod 10, resembling a large lobster. Fry recruited him as medical officer. His expertise proved essential when, after arriving on the third planet Cese-Na-Tic to make a delivery, it was discovered that there was an infection. Zornberg managed to map the symptomatology of the disease as follows: he introduced the notation P Q  to indicate that anyone with symptom P also has symptom Q. Then he identified all the symptoms of the disease and named them A, B, C, D, E, F, G, H, I, L, M, and N. Finally, he determined the following fundamental connections: A B  , B C  , C D  , D E  , E A  , C F  , F G  , G H  , H I  , I G  , L A  , L M  , L N  , N L  , M L  , and he noted that, knowing that P Q  and Q R  , one also knows that P R  . To eradicate the terrible disease, it was necessary to calculate all ordered pairs of distinct symptoms P and Q from among the 12 listed, such that P Q  . How many such ordered pairs are there?
 
-**Topic:** [[topic_combinatoria|Combinatorics]]
+
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_logica|Logic, games and strategies]]
 **Metodo:** [[method_grafi|Graph theory]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]], [[skill_modellizzazione|Modelling / translating the text]]
 **Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
-[[Quesiti/src_squadre_2018_femminile#q11|src_squadre_2018_femminile__Q11]]
 
 
-
-<span class="atom-split" id="q12" data-atom="q12" data-title="Quesito 12" data-tags="topic_funzionali,method_ricorsione,skill_riconoscimento_pattern"></span>
+<span class="atom-split" id="q12" data-atom="q12" data-title="Quesito 12" data-tags="topic_funzionali,method_ricorsione,skill_riconoscimento_pattern,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -599,7 +614,7 @@ level: squadre
 
 **Topic:** [[topic_funzionali|Equazioni funzionali / successioni]]
 **Metodo:** [[method_ricorsione|Ricorsione]]
-**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Algebra e Analisi]]
 **Risposta:** 0004
 **Fonte:** [apri PDF p.25](https://drive.google.com/file/d/152V7pITU56NJCN2xu18juXzmluVnyIym/view)
@@ -612,16 +627,15 @@ level: squadre
 
 > SPATIAL ERRORS Amy Weil is a student at Mars University whom Professor Fredholm hired because she has the same blood type as he does. She is a rather odd girl and often a bit superficial. Yesterday, while doing exercises in preparation for an exam, she considered the Fibonacci sequence (a₀ = 0, a₁ = 1, aₙ₊₂ = aₙ₊₁ + aₙ) and decided to write down the first terms in order. Unfortunately, at a certain point, instead of writing the correct term, she erroneously increased it by 1. From that point on, she no longer made any calculation errors and decided to stop once she had written the number 1830. Conway, immediately noticing the error, promptly pointed out to her the index of the term that had been calculated incorrectly. Which index did he point out?
 
+
 **Topic:** [[topic_funzionali|Functional equations / sequences]]
 **Metodo:** [[method_ricorsione|Recursion]]
-**Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]]
+**Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
 **Area:** [[Algebra e Analisi|Algebra and analysis]]
 
-[[Quesiti/src_squadre_2018_femminile#q12|src_squadre_2018_femminile__Q12]]
 
 
-
-<span class="atom-split" id="q13" data-atom="q13" data-title="Quesito 13" data-tags="topic_algebra,method_fattorizzazione"></span>
+<span class="atom-split" id="q13" data-atom="q13" data-title="Quesito 13" data-tags="topic_algebra,method_fattorizzazione,skill_modellizzazione,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -642,6 +656,7 @@ level: squadre
 
 **Topic:** [[topic_algebra|Algebra]]
 **Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Algebra e Analisi]]
 **Risposta:** 5814
 **Fonte:** [apri PDF p.25](https://drive.google.com/file/d/152V7pITU56NJCN2xu18juXzmluVnyIym/view)
@@ -654,15 +669,15 @@ level: squadre
 
 > NEW MARS VEGAS I The members of Planar Express visit Amy, Leo, and Inez's parents, who want to build a New Mars Vegas. The idea is to take the ruin built on protected land—a parallelepipedal structure—and renovate it by increasing its three dimensions by 2 m, 3 m, and 4 m, so as to increase the structure's volume by 3 3447 m and turn it into a cube. Liela, together with a group of ecofeminists, tries to oppose this and ends up saving a small, endangered leech. What will be discovered is that the small leech is an alien who wants to destroy humanity. Fortunately, Fry's intervention sets things right. Setting off again from Mars, Beuler wonders, "What was the initial volume of the ruin before the renovation by 3 m?"
 
+
 **Topic:** [[topic_algebra|Algebra]]
 **Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
 **Area:** [[Algebra e Analisi|Algebra and analysis]]
 
-[[Quesiti/src_squadre_2018_femminile#q13|src_squadre_2018_femminile__Q13]]
 
 
-
-<span class="atom-split" id="q14" data-atom="q14" data-title="Quesito 14" data-tags="topic_logica,method_casework"></span>
+<span class="atom-split" id="q14" data-atom="q14" data-title="Quesito 14" data-tags="topic_logica,method_casework,skill_casework_accurato,skill_riconoscimento_pattern"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -681,6 +696,7 @@ level: squadre
 
 **Topic:** [[topic_logica|Logica, giochi, strategie]]
 **Metodo:** [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0650
 **Fonte:** [apri PDF p.25](https://drive.google.com/file/d/152V7pITU56NJCN2xu18juXzmluVnyIym/view)
@@ -693,15 +709,15 @@ level: squadre
 
 > PLANET SMULLYAN Fry and the Planar Express are about to make a delivery on the planet Smullyan. Liela has already warned Fry about the planet's inhabitants, who belong to two religious factions: the "erov," who are always truthful, and the "oslaf," who always lie. On arrival, the mayor appears and introduces himself by saying, "I am a …" Unfortunately, a gust of wind prevented Fry from hearing his voice. At this point, various groups of inhabitants come forward to collect the goods: the first group consists of two inhabitants, and each declares, "The other one is an oslaf." Next, a delegation of three inhabitants arrives; each declares, "The other two belong to the group of erov." Then a group of four people arrives, and each declares, "The other three in the group are oslaf." And so on, all the way to the final delegation of 50 inhabitants. Every group consisting of n inhabitants has declared that the other n-1 are "oslaf" if n is even, and "erov" if n is odd. Beuler asks Fry whether he knows how many "erov" he could have met at most.
 
+
 **Topic:** [[topic_logica|Logic, games and strategies]]
 **Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]], [[skill_riconoscimento_pattern|Pattern recognition]]
 **Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
-[[Quesiti/src_squadre_2018_femminile#q14|src_squadre_2018_femminile__Q14]]
 
 
-
-<span class="atom-split" id="q15" data-atom="q15" data-title="Quesito 15" data-tags="topic_combinatoria,method_ricorsione"></span>
+<span class="atom-split" id="q15" data-atom="q15" data-title="Quesito 15" data-tags="topic_combinatoria,method_ricorsione,skill_conteggio_sistematico,skill_modellizzazione"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -718,6 +734,7 @@ level: squadre
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_ricorsione|Ricorsione]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0127
 **Fonte:** [apri PDF p.25](https://drive.google.com/file/d/152V7pITU56NJCN2xu18juXzmluVnyIym/view)
@@ -730,15 +747,15 @@ level: squadre
 
 > BEULER'S GAME 2 Journeys on the Planar Express are boring, and Beuler, having nothing else to do, starts inventing games on the chessboard. The latest one he solved involved placing a pawn on the bottom-left square of an 8×8 chessboard and calculating how many paths exist that take the pawn to the bottom-right corner square, with the only allowed moves being those that move the pawn from one square to one of three squares located in the column to its right and in the row immediately above, or in the same row, or in the row immediately below. What number did he find?
 
+
 **Topic:** [[topic_combinatoria|Combinatorics]]
 **Metodo:** [[method_ricorsione|Recursion]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]], [[skill_modellizzazione|Modelling / translating the text]]
 **Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
-[[Quesiti/src_squadre_2018_femminile#q15|src_squadre_2018_femminile__Q15]]
 
 
-
-<span class="atom-split" id="q16" data-atom="q16" data-title="Quesito 16" data-tags="topic_geometria_piana,method_trigonometria"></span>
+<span class="atom-split" id="q16" data-atom="q16" data-title="Quesito 16" data-tags="topic_geometria_piana,method_trigonometria,method_simmetria,skill_ragionamento_geometrico"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -770,7 +787,8 @@ level: squadre
 > 4
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
-**Metodo:** [[method_trigonometria|Tecniche trigonometriche]]
+**Metodo:** [[method_trigonometria|Tecniche trigonometriche]], [[method_simmetria|Sfruttamento della simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]]
 **Risposta:** 0336
 **Fonte:** [apri PDF p.25](https://drive.google.com/file/d/152V7pITU56NJCN2xu18juXzmluVnyIym/view)
@@ -785,15 +803,15 @@ level: squadre
 
 > Fractures in Space Professor Fredholm sends an expedition to investigate the dimensional opening that has suddenly appeared in space. The computer shows an opening in ABC space shaped like an acute-angled triangle. If D is the second point of intersection of the bisector of angle BAC with the circumcircle, AB = 26 km, AC = 30 km, and AD = BD + DC, what is the area of ABC to be inspected (in km²)? 4
 
+
 **Topic:** [[topic_geometria_piana|Plane geometry]]
-**Metodo:** [[method_trigonometria|Trigonometric techniques]]
+**Metodo:** [[method_trigonometria|Trigonometric techniques]], [[method_simmetria|Using symmetry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
 **Area:** [[Geometria|Geometry]]
 
-[[Quesiti/src_squadre_2018_femminile#q16|src_squadre_2018_femminile__Q16]]
 
 
-
-<span class="atom-split" id="q17" data-atom="q17" data-title="Quesito 17" data-tags="topic_aritmetica,method_conteggio,skill_casework_accurato"></span>
+<span class="atom-split" id="q17" data-atom="q17" data-title="Quesito 17" data-tags="topic_aritmetica,topic_combinatoria,method_conteggio,method_congruenze,skill_casework_accurato,skill_conteggio_sistematico"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -808,10 +826,10 @@ level: squadre
 > per 11111?” Per tutta risposta, il piccolo divora il libro producendo una grande quantità di materia oscura. Quale risposta al 
 > problema avrebbe letto Fry se Mordaglia non avesse divorato il libro?
 
-**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_conteggio|Conteggio combinatorio]]
-**Abilita:** [[skill_casework_accurato|Casework accurato]]
-**Area:** [[Aritmetica e Teoria dei Numeri]]
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_conteggio|Conteggio combinatorio]], [[method_congruenze|Aritmetica modulare / congruenze]]
+**Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 3456
 **Fonte:** [apri PDF p.26](https://drive.google.com/file/d/152V7pITU56NJCN2xu18juXzmluVnyIym/view)
 
@@ -823,16 +841,15 @@ level: squadre
 
 > MORDAGLIA Mordaglia has become Liela's pet. It was rescued on a planet nearing extinction when it was discovered that it devours anything, turning it into dark matter used as fuel for spaceships. Fry discovered that when Mordaglia feeds on math books, the fuel lasts much longer. Now it's necessary to refuel for the next trip. Fry approaches Mordaglia and holds out a book, from which he reads: "How many ten-digit numbers, all with distinct digits, are divisible by 11111?" In response, the little creature devours the book, producing a large amount of dark matter. What answer to the problem would Fry have read if Mordaglia hadn't devoured the book?
 
-**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
-**Metodo:** [[method_conteggio|Combinatorial counting]]
-**Abilita:** [[skill_casework_accurato|Careful case analysis]]
-**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
-[[Quesiti/src_squadre_2018_femminile#q17|src_squadre_2018_femminile__Q17]]
-
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_conteggio|Combinatorial counting]], [[method_congruenze|Modular arithmetic / congruences]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]], [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
 
-<span class="atom-split" id="q18" data-atom="q18" data-title="Quesito 18" data-tags="topic_geometria_piana,method_simmetria"></span>
+
+<span class="atom-split" id="q18" data-atom="q18" data-title="Quesito 18" data-tags="topic_geometria_piana,method_simmetria,skill_ragionamento_geometrico"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -862,6 +879,7 @@ level: squadre
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_simmetria|Sfruttamento della simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]]
 **Risposta:** 0058
 **Fonte:** [apri PDF p.26](https://drive.google.com/file/d/152V7pITU56NJCN2xu18juXzmluVnyIym/view)
@@ -876,15 +894,15 @@ level: squadre
 
 > Trajectories in Space Ignoring Professor Fredholm's orders, Liela takes the Planar Express shuttle to a demolition derby to settle the score with a guy who had insulted her. Now, however, she must return to Earth and calculate the shortest trajectory. She projects the position onto the screen. The on-board computer, perhaps due to a malfunction caused by the impacts it has sustained, draws a quadrilateral ABCD. Liela notes that inside it there is a point P such that ADP and BCP are equilateral triangles. By constructing the equilateral triangles ABE and DCF externally to the quadrilateral, the on-board computer indicates that Earth is at point F and the Planar Express is at E. The computer reports only the data: AD = 20 light-years, DC = 21 light-years, and ∠FDP = 90°. With these data, will Liela be able to calculate the length of EF (in light-years) in order to get everyone home?
 
+
 **Topic:** [[topic_geometria_piana|Plane geometry]]
 **Metodo:** [[method_simmetria|Using symmetry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
 **Area:** [[Geometria|Geometry]]
 
-[[Quesiti/src_squadre_2018_femminile#q18|src_squadre_2018_femminile__Q18]]
 
 
-
-<span class="atom-split" id="q19" data-atom="q19" data-title="Quesito 19" data-tags="topic_combinatoria,method_ricorsione"></span>
+<span class="atom-split" id="q19" data-atom="q19" data-title="Quesito 19" data-tags="topic_combinatoria,method_ricorsione,method_casi_conteggio,skill_conteggio_sistematico"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -900,7 +918,8 @@ level: squadre
 > interi positivi la cui somma è n. Ad esempio il numero 3 ammette le seguenti quattro composizioni: (3) , (1;2) , (2;1)  e (1;1;1) .
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
-**Metodo:** [[method_ricorsione|Ricorsione]]
+**Metodo:** [[method_ricorsione|Ricorsione]], [[method_casi_conteggio|Conteggio per casi]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 5461
 **Fonte:** [apri PDF p.26](https://drive.google.com/file/d/152V7pITU56NJCN2xu18juXzmluVnyIym/view)
@@ -913,15 +932,15 @@ level: squadre
 
 > THE MUSEUM OF HEADS Many people have arrived in the future thanks to a technology that makes it possible to separate heads from the rest of the body and to preserve them, alive and active, indefinitely inside transparent cylindrical containers. Most of these containers are gathered inside the Museum of Heads, where one can find politicians, athletes, actors, UMI presidents, and all sorts of famous figures from the twentieth century and beyond. The Museum is able to ensure the survival of as many heads as there are compositions of 14 in which the last term (the one on the far right) is odd. A composition of an integer n is an ordered list of positive integers whose sum is n. For example, the number 3 has the following four compositions: (3), (1;2), (2;1), and (1;1;1).
 
+
 **Topic:** [[topic_combinatoria|Combinatorics]]
-**Metodo:** [[method_ricorsione|Recursion]]
+**Metodo:** [[method_ricorsione|Recursion]], [[method_casi_conteggio|Counting by cases]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
 **Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
-[[Quesiti/src_squadre_2018_femminile#q19|src_squadre_2018_femminile__Q19]]
 
 
-
-<span class="atom-split" id="q20" data-atom="q20" data-title="Quesito 20" data-tags="topic_combinatoria,method_ricorsione"></span>
+<span class="atom-split" id="q20" data-atom="q20" data-title="Quesito 20" data-tags="topic_combinatoria,method_ricorsione,method_casi_conteggio,skill_conteggio_sistematico,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -937,7 +956,8 @@ level: squadre
 > già attraversate? Oramai allenato a questi problemi, Beuler risolve l’enigma in pochi secondi. Quale soluzione ha trovato?
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
-**Metodo:** [[method_ricorsione|Ricorsione]]
+**Metodo:** [[method_ricorsione|Ricorsione]], [[method_casi_conteggio|Conteggio per casi]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 7776
 **Fonte:** [apri PDF p.26](https://drive.google.com/file/d/152V7pITU56NJCN2xu18juXzmluVnyIym/view)
@@ -950,15 +970,15 @@ level: squadre
 
 > BEULER'S GAME 3 On his return from Mars, Beuler turns to his favorite pastime. Given a 6×6 chessboard with a pawn on the bottom-left square, how many paths are there that move the pawn to the top-right corner square, if only moves are allowed that shift the pawn from one square to one of the three squares adjacent to it—above, to the right, or below—but the pawn may not return to squares it has already passed through? Now accustomed to such problems, Beuler solves the puzzle in a few seconds. What solution did he find?
 
+
 **Topic:** [[topic_combinatoria|Combinatorics]]
-**Metodo:** [[method_ricorsione|Recursion]]
+**Metodo:** [[method_ricorsione|Recursion]], [[method_casi_conteggio|Counting by cases]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]], [[skill_casework_accurato|Careful case analysis]]
 **Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
-[[Quesiti/src_squadre_2018_femminile#q20|src_squadre_2018_femminile__Q20]]
 
 
-
-<span class="atom-split" id="q21" data-atom="q21" data-title="Quesito 21" data-tags="topic_algebra,method_conteggio"></span>
+<span class="atom-split" id="q21" data-atom="q21" data-title="Quesito 21" data-tags="topic_algebra,topic_combinatoria,method_conteggio,method_casi_conteggio,skill_conteggio_sistematico"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -1009,9 +1029,10 @@ level: squadre
 > 
 > ).
 
-**Topic:** [[topic_algebra|Algebra]]
-**Metodo:** [[method_conteggio|Conteggio combinatorio]]
-**Area:** [[Algebra e Analisi]]
+**Topic:** [[topic_algebra|Algebra]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_conteggio|Conteggio combinatorio]], [[method_casi_conteggio|Conteggio per casi]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Algebra e Analisi]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0124
 **Fonte:** [apri PDF p.26](https://drive.google.com/file/d/152V7pITU56NJCN2xu18juXzmluVnyIym/view)
 
@@ -1023,15 +1044,15 @@ level: squadre
 
 > SPATIAL SOUNDS A musical motif resembling a call is tormenting the Earth. No one knows what it is, but Fry must find out. A terrible spacecraft is shattering planets in search of something. Using his positronic brain, Beuler manages to translate the music into the polynomial p(x) = 2 3 4 5 2 3 4 5 6 7 ( ) (1 )(1 )(1 ). The music will cease if it is possible to eliminate the terms of degree 11, 12, and 13 of p(x). Beuler sets up the calculation by writing p(x) = ax^11 + bx^12 + cx^13, but what are the values of a, b, and c? (Give a + b + c as your answer.)
 
-**Topic:** [[topic_algebra|Algebra]]
-**Metodo:** [[method_conteggio|Combinatorial counting]]
-**Area:** [[Algebra e Analisi|Algebra and analysis]]
 
-[[Quesiti/src_squadre_2018_femminile#q21|src_squadre_2018_femminile__Q21]]
+**Topic:** [[topic_algebra|Algebra]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_conteggio|Combinatorial counting]], [[method_casi_conteggio|Counting by cases]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
 
 
-<span class="atom-split" id="q22" data-atom="q22" data-title="Quesito 22" data-tags="topic_geometria_solida,method_coordinate"></span>
+<span class="atom-split" id="q22" data-atom="q22" data-title="Quesito 22" data-tags="topic_geometria_solida,method_coordinate,method_simmetria,method_trigonometria,skill_ragionamento_geometrico,skill_modellizzazione"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -1048,7 +1069,8 @@ level: squadre
 > m ?
 
 **Topic:** [[topic_geometria_solida|Geometria solida]]
-**Metodo:** [[method_coordinate|Metodo delle coordinate]]
+**Metodo:** [[method_coordinate|Metodo delle coordinate]], [[method_simmetria|Sfruttamento della simmetria]], [[method_trigonometria|Tecniche trigonometriche]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
 **Area:** [[Geometria]]
 **Risposta:** 1984
 **Fonte:** [apri PDF p.26](https://drive.google.com/file/d/152V7pITU56NJCN2xu18juXzmluVnyIym/view)
@@ -1063,15 +1085,15 @@ level: squadre
 
 > A Problematic Delivery The container for a food supply for Decapod 10 is tetrahedral in shape. To protect it from space travel, Amy has created a triangle with sides measuring 60 m, 50 m, and 50 m; this triangle is exactly the net of the container's total surface area. What volume does it occupy in 3 m?
 
+
 **Topic:** [[topic_geometria_solida|Solid geometry]]
-**Metodo:** [[method_coordinate|Coordinate method]]
+**Metodo:** [[method_coordinate|Coordinate method]], [[method_simmetria|Using symmetry]], [[method_trigonometria|Trigonometric techniques]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_modellizzazione|Modelling / translating the text]]
 **Area:** [[Geometria|Geometry]]
 
-[[Quesiti/src_squadre_2018_femminile#q22|src_squadre_2018_femminile__Q22]]
 
 
-
-<span class="atom-split" id="q23" data-atom="q23" data-title="Quesito 23" data-tags="topic_aritmetica,method_ricorsione,skill_conteggio_sistematico"></span>
+<span class="atom-split" id="q23" data-atom="q23" data-title="Quesito 23" data-tags="topic_aritmetica,method_ricorsione,method_casi_conteggio,skill_conteggio_sistematico,skill_riconoscimento_pattern"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -1096,8 +1118,8 @@ level: squadre
 > n. Quale potenza salverà l’equipaggio del Planar Express?
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_ricorsione|Ricorsione]]
-**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Metodo:** [[method_ricorsione|Ricorsione]], [[method_casi_conteggio|Conteggio per casi]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 7406
 **Fonte:** [apri PDF p.26](https://drive.google.com/file/d/152V7pITU56NJCN2xu18juXzmluVnyIym/view)
@@ -1110,16 +1132,15 @@ level: squadre
 
 > MURDER ON THE PLANAR EXPRESS A terrible alien monster has managed, by deception, to board the Planar Express and is devouring all the members of the team. Fry realizes that, to defeat the monster and bring his friends back to life, he will have to solve a very difficult problem. The alien will die only if struck by an energy beam with a power equal to 500 1 (2 ) 6 i P i  , where ( ) P n is the product of the non-zero digits of the natural number n. Which power will save the crew of the Planar Express?
 
+
 **Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
-**Metodo:** [[method_ricorsione|Recursion]]
-**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Metodo:** [[method_ricorsione|Recursion]], [[method_casi_conteggio|Counting by cases]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]], [[skill_riconoscimento_pattern|Pattern recognition]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
-[[Quesiti/src_squadre_2018_femminile#q23|src_squadre_2018_femminile__Q23]]
 
 
-
-<span class="atom-split" id="q24" data-atom="q24" data-title="Quesito 24" data-tags="topic_geometria_solida,method_estremalita,skill_ragionamento_geometrico"></span>
+<span class="atom-split" id="q24" data-atom="q24" data-title="Quesito 24" data-tags="topic_geometria_solida,method_estremalita,method_coordinate,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -1143,8 +1164,8 @@ level: squadre
 > GRIGLIA SOLUZIONI
 
 **Topic:** [[topic_geometria_solida|Geometria solida]]
-**Metodo:** [[method_estremalita|Principio di estremalita]]
-**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Metodo:** [[method_estremalita|Principio di estremalita]], [[method_coordinate|Metodo delle coordinate]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 **Risposta:** 2800
 **Fonte:** [apri PDF p.26](https://drive.google.com/file/d/152V7pITU56NJCN2xu18juXzmluVnyIym/view)
@@ -1161,9 +1182,8 @@ level: squadre
 >
 > Solution Grid
 
-**Topic:** [[topic_geometria_solida|Solid geometry]]
-**Metodo:** [[method_estremalita|Extremal principle]]
-**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
-**Area:** [[Geometria|Geometry]]
 
-[[Quesiti/src_squadre_2018_femminile#q24|src_squadre_2018_femminile__Q24]]
+**Topic:** [[topic_geometria_solida|Solid geometry]]
+**Metodo:** [[method_estremalita|Extremal principle]], [[method_coordinate|Coordinate method]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Geometria|Geometry]]

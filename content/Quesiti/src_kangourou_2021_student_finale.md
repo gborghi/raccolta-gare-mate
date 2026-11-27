@@ -10,7 +10,7 @@ level: kangourou
 
 
 
-<span class="atom-split" id="qs1" data-atom="qs1" data-title="Quesito S1" data-tags="topic_geometria_solida,skill_ragionamento_geometrico"></span>
+<span class="atom-split" id="qs1" data-atom="qs1" data-title="Quesito S1" data-tags="topic_geometria_solida,skill_ragionamento_geometrico,skill_modellizzazione"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -20,7 +20,7 @@ level: kangourou
 > (**5 punti**) Osservando da lontano due sfere di raggi diversi, esse ti appaiono della stessa grandezza (come, ad esempio, potrebbe accadere per il sole e per la luna). Tuttavia, la distanza della più grande da te è 100 volte la distanza della più piccola (assumi che le distanze siano stimate tra te e i centri delle sfere). Quanto vale il rapporto fra il volume della più grande e il volume della più piccola?
 
 **Topic:** [[topic_geometria_solida|Geometria solida]]
-**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
 **Area:** [[Geometria]]
 **Risposta:** 1000000
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/17UN1PocIwUt6K6J10ScIHKnTcOSXCsY5/view)
@@ -34,10 +34,9 @@ level: kangourou
 > (5 points) Looking from far away at two spheres of different radii, they appear the same size (as, for example, can happen with the sun and the moon). However, your distance from the larger one is 100 times your distance from the smaller one (assume that the distances are measured from you to the centres of the spheres). What is the ratio of the volume of the larger to the volume of the smaller?
 
 **Topic:** [[topic_geometria_solida|Solid geometry]]
-**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_modellizzazione|Modelling / translating the text]]
 **Area:** [[Geometria|Geometry]]
 **Answer:** 1000000
-[[Quesiti/src_kangourou_2021_student_finale#qs1|src_kangourou_2021_student_finale__QS1]]
 
 
 
@@ -48,7 +47,7 @@ level: kangourou
 
 *Numero massimo di travasi per ripristinare i recipienti*
 
-![[src_kangourou_2021_student_finale__probs2.png]]
+![[src_kangourou_2021_student_finale__probS2.png]]
 
 > (**7 punti**) Dieci recipienti, non necessariamente della stessa capacità, che possiamo considerare illimitata, contengono ciascuno acqua, non necessariamente nella stessa quantità. Effettuiamo dei travasi tra i recipienti; per ogni recipiente, ad ogni travaso, annotiamo la quantità di acqua immessa o prelevata. Ad esempio denotati i recipienti con A, B ecc. e usando sempre la stessa unità di misura potremmo avere un'annotazione come:
 > 
@@ -71,7 +70,7 @@ level: kangourou
 
 *How many transfers may be needed, at most?*
 
-![[src_kangourou_2021_student_finale__probs2.png]]
+![[src_kangourou_2021_student_finale__probS2.png]]
 
 > (7 points) Ten vessels, not necessarily of the same capacity, which we may regard as unlimited, each contain water, not necessarily the same amount. We make transfers between the vessels; for each vessel, at each transfer, we record the amount of water put in or taken out. For example, denoting the vessels by A, B and so on, and always using the same unit, we might have a record such as:
 >
@@ -84,18 +83,17 @@ level: kangourou
 **Skill:** [[skill_astrazione|Abstraction / generalisation]]
 **Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** 9
-[[Quesiti/src_kangourou_2021_student_finale#qs2|src_kangourou_2021_student_finale__QS2]]
 
 
 
-<span class="atom-split" id="qs3" data-atom="qs3" data-title="Quesito S3" data-tags="topic_geometria_solida,topic_combinatoria,skill_casework_accurato"></span>
+<span class="atom-split" id="qs3" data-atom="qs3" data-title="Quesito S3" data-tags="topic_geometria_solida,topic_combinatoria,method_conteggio,method_simmetria,skill_casework_accurato,skill_conteggio_sistematico,skill_ragionamento_geometrico"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
 
 *Numero di sviluppi piani distinti di un cubo*
 
-![[src_kangourou_2021_student_finale__probs3.png]]
+![[src_kangourou_2021_student_finale__probS3.png]]
 
 ```tikz
 \begin{document}
@@ -119,8 +117,9 @@ level: kangourou
 > (vedi figura)
 
 **Topic:** [[topic_geometria_solida|Geometria solida]], [[topic_combinatoria|Combinatoria]]
-**Abilita:** [[skill_casework_accurato|Casework accurato]]
-**Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
+**Metodo:** [[method_conteggio|Conteggio combinatorio]], [[method_simmetria|Sfruttamento della simmetria]]
+**Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Geometria]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 11
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/17UN1PocIwUt6K6J10ScIHKnTcOSXCsY5/view)
 
@@ -130,21 +129,21 @@ level: kangourou
 
 *How many different nets does a cube have?*
 
-![[src_kangourou_2021_student_finale__probs3.png]]
+![[src_kangourou_2021_student_finale__probS3.png]]
 
 > (11 points) The picture shows a net of a cube, that is, one possible arrangement in the plane of the faces of the cube so that the cube can be rebuilt by folding the figure along the sides shared by two faces. How many nets does a cube have that are different from one another, counting as the same two nets that can be obtained from each other by rotations and/or reflections?
 >
 > (see the picture)
 
 **Topic:** [[topic_geometria_solida|Solid geometry]], [[topic_combinatoria|Combinatorics]]
-**Skill:** [[skill_casework_accurato|Careful case analysis]]
-**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Geometria|Geometry]]
+**Metodo:** [[method_conteggio|Combinatorial counting]], [[method_simmetria|Using symmetry]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]], [[skill_conteggio_sistematico|Systematic counting]], [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** 11
-[[Quesiti/src_kangourou_2021_student_finale#qs3|src_kangourou_2021_student_finale__QS3]]
 
 
 
-<span class="atom-split" id="qs4" data-atom="qs4" data-title="Quesito S4" data-tags="topic_combinatoria,topic_aritmetica,method_invarianti,skill_astrazione"></span>
+<span class="atom-split" id="qs4" data-atom="qs4" data-title="Quesito S4" data-tags="topic_combinatoria,topic_aritmetica,method_invarianti,method_congruenze,skill_astrazione,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -158,9 +157,9 @@ level: kangourou
 > b) $m = 2020$ e $n = 2021$?
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_invarianti|Invarianti / monovarianti]]
-**Abilita:** [[skill_astrazione|Astrazione / generalizzazione]]
-**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+**Metodo:** [[method_invarianti|Invarianti / monovarianti]], [[method_congruenze|Aritmetica modulare / congruenze]]
+**Abilita:** [[skill_astrazione|Astrazione / generalizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** a) No; b) Si
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/17UN1PocIwUt6K6J10ScIHKnTcOSXCsY5/view)
 
@@ -177,15 +176,14 @@ level: kangourou
 > b) $m = 2020$ and $n = 2021$?
 
 **Topic:** [[topic_combinatoria|Combinatorics]], [[topic_aritmetica|Arithmetic / Number theory]]
-**Method:** [[method_invarianti|Invariants / monovariants]]
-**Skill:** [[skill_astrazione|Abstraction / generalisation]]
-**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+**Metodo:** [[method_invarianti|Invariants / monovariants]], [[method_congruenze|Modular arithmetic / congruences]]
+**Abilita:** [[skill_astrazione|Abstraction / generalisation]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Answer:** a) No; b) Si
-[[Quesiti/src_kangourou_2021_student_finale#qs4|src_kangourou_2021_student_finale__QS4]]
 
 
 
-<span class="atom-split" id="qs5" data-atom="qs5" data-title="Quesito S5" data-tags="topic_disuguaglianze,method_disuguaglianze,skill_astrazione"></span>
+<span class="atom-split" id="qs5" data-atom="qs5" data-title="Quesito S5" data-tags="topic_disuguaglianze,method_disuguaglianze,skill_astrazione,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -199,7 +197,7 @@ level: kangourou
 
 **Topic:** [[topic_disuguaglianze|Disuguaglianze]]
 **Metodo:** [[method_disuguaglianze|Disuguaglianze classiche]]
-**Abilita:** [[skill_astrazione|Astrazione / generalizzazione]]
+**Abilita:** [[skill_astrazione|Astrazione / generalizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Algebra e Analisi]]
 **Risposta:** VERA
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/17UN1PocIwUt6K6J10ScIHKnTcOSXCsY5/view)
@@ -219,15 +217,14 @@ level: kangourou
 > "
 
 **Topic:** [[topic_disuguaglianze|Inequalities]]
-**Method:** [[method_disuguaglianze|Classical inequalities]]
-**Skill:** [[skill_astrazione|Abstraction / generalisation]]
+**Metodo:** [[method_disuguaglianze|Classical inequalities]]
+**Abilita:** [[skill_astrazione|Abstraction / generalisation]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
 **Area:** [[Algebra e Analisi|Algebra and analysis]]
 **Answer:** VERA
-[[Quesiti/src_kangourou_2021_student_finale#qs5|src_kangourou_2021_student_finale__QS5]]
 
 
 
-<span class="atom-split" id="qs6" data-atom="qs6" data-title="Quesito S6" data-tags="topic_aritmetica,method_cassetti,skill_astrazione"></span>
+<span class="atom-split" id="qs6" data-atom="qs6" data-title="Quesito S6" data-tags="topic_aritmetica,topic_combinatoria,method_cassetti,method_congruenze,skill_astrazione,skill_modellizzazione"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -236,10 +233,10 @@ level: kangourou
 
 > (**22 punti**) Dimostra che esiste un numero intero positivo divisibile per $2021$ ed esprimibile, in notazione binaria significativa (cioè la prima cifra da sinistra non può essere $0$), usando esattamente $2021$ cifre zero e $2021$ cifre uno.
 
-**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_cassetti|Principio dei cassetti]]
-**Abilita:** [[skill_astrazione|Astrazione / generalizzazione]]
-**Area:** [[Aritmetica e Teoria dei Numeri]]
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_cassetti|Principio dei cassetti]], [[method_congruenze|Aritmetica modulare / congruenze]]
+**Abilita:** [[skill_astrazione|Astrazione / generalizzazione]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/17UN1PocIwUt6K6J10ScIHKnTcOSXCsY5/view)
 
 
@@ -250,8 +247,7 @@ level: kangourou
 
 > (22 points) Prove that there exists a positive integer divisible by $2021$ that can be written, in significant binary notation (that is, the first digit from the left cannot be $0$), using exactly $2021$ digits zero and $2021$ digits one.
 
-**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
-**Method:** [[method_cassetti|Pigeonhole principle]]
-**Skill:** [[skill_astrazione|Abstraction / generalisation]]
-**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
-[[Quesiti/src_kangourou_2021_student_finale#qs6|src_kangourou_2021_student_finale__QS6]]
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_cassetti|Pigeonhole principle]], [[method_congruenze|Modular arithmetic / congruences]]
+**Abilita:** [[skill_astrazione|Abstraction / generalisation]], [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]

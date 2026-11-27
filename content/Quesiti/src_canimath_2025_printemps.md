@@ -10,7 +10,7 @@ level: Coupe Animath Printemps
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_aritmetica,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_aritmetica,method_fattorizzazione,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -22,8 +22,9 @@ level: Coupe Animath Printemps
 > Only a simplified numerical answer is expected here.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
-**Area:** [[Aritmetica e Teoria dei Numeri]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/16rGf8kkVD1Vi5lk9GqGUdKvYaRghwaVL/view)
 
 
@@ -34,11 +35,14 @@ level: Coupe Animath Printemps
 
 > Calcolare $$\frac{13}{6} + \frac{7}{10} + \frac{2}{15}.$$ Qui si prevede una risposta numerica semplificata.
 
-[[Quesiti/src_canimath_2025_printemps#q01|src_canimath_2025_printemps__Q01]]
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta del testo]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
 
 
 
-<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_geometria_piana,skill_ragionamento_geometrico,skill_lettura_attenta"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_geometria_piana,topic_trigonometria,method_trigonometria,skill_ragionamento_geometrico,skill_lettura_attenta"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -49,9 +53,10 @@ level: Coupe Animath Printemps
 > 
 > Determine the measure of angle $\widehat{PXQ}$.
 
-**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometry]]
+**Metodo:** [[method_trigonometria|Trigonometric techniques]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
-**Area:** [[Geometria]]
+**Area:** [[Geometria|Geometry]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/16rGf8kkVD1Vi5lk9GqGUdKvYaRghwaVL/view)
 
 
@@ -64,14 +69,14 @@ level: Coupe Animath Printemps
 > 
 > Determinare la misura dell'angolo $\widehat{PXQ}$.
 
-[[Quesiti/src_canimath_2025_printemps#q02|src_canimath_2025_printemps__Q02]]
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometria]]
+**Metodo:** [[method_trigonometria|Tecniche trigonometriche]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta del testo]]
+**Area:** [[Geometria]]
 
 
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_algebra,method_fattorizzazione,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
-
-<div class="qlang-switch" data-default="en"></div>
-
 
 *Find all real pairs (a,b) satisfying two rational equations*
 
@@ -85,18 +90,34 @@ level: Coupe Animath Printemps
 **Fonte:** [apri PDF](https://drive.google.com/file/d/16rGf8kkVD1Vi5lk9GqGUdKvYaRghwaVL/view)
 
 
-<div class="qlang-split" data-lang="it"></div>
 
+<span class="atom-split" id="q03__it" data-atom="q03__it" data-title="Q03__IT" data-tags=""></span>
+
+---
+tipo: quesito-translation
+translation_of: src_canimath_2025_printemps__Q03
+lang: it
+secondary: true
+title: "Coupe Animath Primavera 2025  Quesito 3"
+summary: "Trova tutte le coppie reali (a,b) che soddisfano due equazioni razionali"
+topics: [topic_algebra]
+methods: [method_fattorizzazione]
+skills: [skill_manipolazione_algebrica, skill_lettura_attenta]
+tags: [kg/translation, topic/algebra]---
 
 *Ricerca tutte le coppie reali (a,b) che soddisfano due equazioni razionali*
 
 > Trovare tutti i numeri reali $a$ e $b$ in modo tale che $a + b \neq 0$, $3a - b \neq 0$, e entrambe le seguenti equazioni siano valide: $$a = \frac{2}{a+b} \qquad \text{and} \qquad b = \frac{2}{3a-b}.$$
 
+**Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta del testo]]
+**Area:** [[Algebra e Analisi]]
 [[Quesiti/src_canimath_2025_printemps#q03|src_canimath_2025_printemps__Q03]]
 
 
 
-<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_aritmetica,topic_combinatoria,method_invarianti,method_casework,method_congruenze,skill_lettura_attenta,skill_casework_accurato,skill_ragionamento_geometrico"></span>
+<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_aritmetica,topic_combinatoria,method_invarianti,method_casework,method_congruenze,method_cassetti,skill_lettura_attenta,skill_casework_accurato,skill_ragionamento_geometrico"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -110,9 +131,9 @@ level: Coupe Animath Printemps
 > is even.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
-**Metodo:** [[method_invarianti|Invarianti]], [[method_casework|Casework]], [[method_congruenze|Congruenze]]
+**Metodo:** [[method_invarianti|Invarianti]], [[method_casework|Casework]], [[method_congruenze|Congruenze]], [[method_cassetti|Pigeonhole principle]]
 **Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_casework_accurato|Casework accurato]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
-**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/16rGf8kkVD1Vi5lk9GqGUdKvYaRghwaVL/view)
 
 
@@ -125,14 +146,14 @@ level: Coupe Animath Printemps
 > 
 > Indicare che il prodotto $$(a_1 - b_1)(a_2 - b_2)(a_3 - b_3)(a_4 - b_4)(a_5 - b_5)$$ è pari.
 
-[[Quesiti/src_canimath_2025_printemps#q04|src_canimath_2025_printemps__Q04]]
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_invarianti|Invarianti / monovarianti]], [[method_casework|Analisi per casi]], [[method_congruenze|Aritmetica modulare / congruenze]], [[method_cassetti|Principio dei cassetti]]
+**Abilita:** [[skill_lettura_attenta|Lettura attenta del testo]], [[skill_casework_accurato|Casework accurato]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 
 
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_geometria_piana,method_simmetria,skill_ragionamento_geometrico,skill_modellizzazione"></span>
-
-<div class="qlang-switch" data-default="en"></div>
-
 
 *Prove PY = QX using incenter and equal-radius circles*
 
@@ -147,8 +168,20 @@ level: Coupe Animath Printemps
 **Fonte:** [apri PDF](https://drive.google.com/file/d/16rGf8kkVD1Vi5lk9GqGUdKvYaRghwaVL/view)
 
 
-<div class="qlang-split" data-lang="it"></div>
 
+<span class="atom-split" id="q05__it" data-atom="q05__it" data-title="Q05__IT" data-tags=""></span>
+
+---
+tipo: quesito-translation
+translation_of: src_canimath_2025_printemps__Q05
+lang: it
+secondary: true
+title: "Coupe Animath Primavera 2025  Quesito 5"
+summary: "Prove PY = QX utilizzando cerchi di incentro e di raggio uguale"
+topics: [topic_geometria_piana]
+methods: [method_simmetria]
+skills: [skill_ragionamento_geometrico, skill_modellizzazione]
+tags: [kg/translation, topic/geometria_piana]---
 
 *Prove PY = QX utilizzando cerchi di incentro e di raggio uguale*
 
@@ -156,11 +189,15 @@ level: Coupe Animath Printemps
 > 
 > Mostra che $PY = QX$.
 
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_simmetria|Sfruttamento della simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
+**Area:** [[Geometria]]
 [[Quesiti/src_canimath_2025_printemps#q05|src_canimath_2025_printemps__Q05]]
 
 
 
-<span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_aritmetica,topic_combinatoria,method_invarianti,method_congruenze,method_induzione,skill_ragionamento_geometrico,skill_riconoscimento_pattern,skill_lettura_attenta"></span>
+<span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_aritmetica,topic_combinatoria,method_invarianti,method_congruenze,method_induzione,method_colorazione,skill_ragionamento_geometrico,skill_riconoscimento_pattern,skill_lettura_attenta"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -172,9 +209,9 @@ level: Coupe Animath Printemps
 > Show that all pairwise distances between these $2n+1$ points are even integers.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
-**Metodo:** [[method_invarianti|Invarianti]], [[method_congruenze|Congruenze]], [[method_induzione|Induzione]]
+**Metodo:** [[method_invarianti|Invarianti]], [[method_congruenze|Congruenze]], [[method_induzione|Induzione]], [[method_colorazione|Colouring / parity]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_lettura_attenta|Lettura attenta]]
-**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/16rGf8kkVD1Vi5lk9GqGUdKvYaRghwaVL/view)
 
 
@@ -187,11 +224,14 @@ level: Coupe Animath Printemps
 > 
 > Mostrare che tutte le distanze in coppia tra questi punti $2n+1$ sono numeri interi.
 
-[[Quesiti/src_canimath_2025_printemps#q06|src_canimath_2025_printemps__Q06]]
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_invarianti|Invarianti / monovarianti]], [[method_congruenze|Aritmetica modulare / congruenze]], [[method_induzione|Induzione]], [[method_colorazione|Colorazione / parita]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_lettura_attenta|Lettura attenta del testo]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 
 
 
-<span class="atom-split" id="q07" data-atom="q07" data-title="Quesito 7" data-tags="topic_aritmetica,topic_combinatoria,method_estremalita,method_congruenze,method_casework,skill_conteggio_sistematico,skill_modellizzazione,skill_lettura_attenta"></span>
+<span class="atom-split" id="q07" data-atom="q07" data-title="Quesito 7" data-tags="topic_aritmetica,topic_combinatoria,method_estremalita,method_congruenze,method_casework,skill_conteggio_sistematico,skill_modellizzazione,skill_lettura_attenta,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -204,8 +244,8 @@ level: Coupe Animath Printemps
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_estremalita|Estremalità]], [[method_congruenze|Congruenze]], [[method_casework|Casework]]
-**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione]], [[skill_lettura_attenta|Lettura attenta]]
-**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione]], [[skill_lettura_attenta|Lettura attenta]], [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/16rGf8kkVD1Vi5lk9GqGUdKvYaRghwaVL/view)
 
 
@@ -218,11 +258,14 @@ level: Coupe Animath Printemps
 > 
 > Qual è il numero massimo di valori distinti che possono apparire sulla tabella?
 
-[[Quesiti/src_canimath_2025_printemps#q07|src_canimath_2025_printemps__Q07]]
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_estremalita|Principio di estremalita]], [[method_congruenze|Aritmetica modulare / congruenze]], [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_lettura_attenta|Lettura attenta del testo]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 
 
 
-<span class="atom-split" id="q08" data-atom="q08" data-title="Quesito 8" data-tags="topic_aritmetica,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
+<span class="atom-split" id="q08" data-atom="q08" data-title="Quesito 8" data-tags="topic_aritmetica,topic_algebra,method_fattorizzazione,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -233,9 +276,10 @@ level: Coupe Animath Printemps
 > $$\sqrt{\sqrt{27} \cdot \sqrt{75} + \sqrt{3} \cdot \sqrt{8} \cdot \sqrt{54}}.$$
 > Only a simplified numerical answer is expected here.
 
-**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
-**Area:** [[Aritmetica e Teoria dei Numeri]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Algebra e Analisi|Algebra and analysis]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/16rGf8kkVD1Vi5lk9GqGUdKvYaRghwaVL/view)
 
 
@@ -246,11 +290,14 @@ level: Coupe Animath Printemps
 
 > Calcolare $$\sqrt{\sqrt{27} \cdot \sqrt{75} + \sqrt{3} \cdot \sqrt{8} \cdot \sqrt{54}}.$$ Qui si prevede una risposta numerica semplificata.
 
-[[Quesiti/src_canimath_2025_printemps#q08|src_canimath_2025_printemps__Q08]]
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta del testo]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 
 
 
-<span class="atom-split" id="q09" data-atom="q09" data-title="Quesito 9" data-tags="topic_geometria_piana,skill_ragionamento_geometrico,skill_lettura_attenta"></span>
+<span class="atom-split" id="q09" data-atom="q09" data-title="Quesito 9" data-tags="topic_geometria_piana,topic_trigonometria,method_trigonometria,skill_ragionamento_geometrico,skill_lettura_attenta"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -261,9 +308,10 @@ level: Coupe Animath Printemps
 > 
 > Determine the measure of angle $\widehat{PXQ}$.
 
-**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometry]]
+**Metodo:** [[method_trigonometria|Trigonometric techniques]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
-**Area:** [[Geometria]]
+**Area:** [[Geometria|Geometry]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/16rGf8kkVD1Vi5lk9GqGUdKvYaRghwaVL/view)
 
 
@@ -276,14 +324,14 @@ level: Coupe Animath Printemps
 > 
 > Determinare la misura dell'angolo $\widehat{PXQ}$.
 
-[[Quesiti/src_canimath_2025_printemps#q09|src_canimath_2025_printemps__Q09]]
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometria]]
+**Metodo:** [[method_trigonometria|Tecniche trigonometriche]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta del testo]]
+**Area:** [[Geometria]]
 
 
 
 <span class="atom-split" id="q10" data-atom="q10" data-title="Quesito 10" data-tags="topic_combinatoria,topic_logica,method_casework,method_estremalita,method_grafi,skill_lettura_attenta,skill_ragionamento_geometrico,skill_modellizzazione"></span>
-
-<div class="qlang-switch" data-default="en"></div>
-
 
 *Max number of people in room with friendship/enmity constraint*
 
@@ -298,8 +346,20 @@ level: Coupe Animath Printemps
 **Fonte:** [apri PDF](https://drive.google.com/file/d/16rGf8kkVD1Vi5lk9GqGUdKvYaRghwaVL/view)
 
 
-<div class="qlang-split" data-lang="it"></div>
 
+<span class="atom-split" id="q10__it" data-atom="q10__it" data-title="Q10__IT" data-tags=""></span>
+
+---
+tipo: quesito-translation
+translation_of: src_canimath_2025_printemps__Q10
+lang: it
+secondary: true
+title: "Coupe Animath Primavera 2025  Quesito 10"
+summary: "Numero massimo di persone in una stanza con vincolo amicizia/inimicizia"
+topics: [topic_combinatoria, topic_logica]
+methods: [method_casework, method_estremalita, method_grafi]
+skills: [skill_lettura_attenta, skill_ragionamento_geometrico, skill_modellizzazione]
+tags: [kg/translation, topic/combinatoria, topic/logica]---
 
 *Nombre massimo di persone in una stanza con vincolo di amicizia/intimità*
 
@@ -307,14 +367,15 @@ level: Coupe Animath Printemps
 > 
 > Quante persone possono esserci nella stanza al massimo?
 
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_logica|Logica, giochi, strategie]]
+**Metodo:** [[method_casework|Analisi per casi]], [[method_estremalita|Principio di estremalita]], [[method_grafi|Teoria dei grafi]]
+**Abilita:** [[skill_lettura_attenta|Lettura attenta del testo]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
 [[Quesiti/src_canimath_2025_printemps#q10|src_canimath_2025_printemps__Q10]]
 
 
 
 <span class="atom-split" id="q11" data-atom="q11" data-title="Quesito 11" data-tags="topic_geometria_piana,method_simmetria,skill_ragionamento_geometrico,skill_modellizzazione"></span>
-
-<div class="qlang-switch" data-default="en"></div>
-
 
 *Prove PM bisects angle NPB in isosceles triangle ABC*
 
@@ -329,8 +390,20 @@ level: Coupe Animath Printemps
 **Fonte:** [apri PDF](https://drive.google.com/file/d/16rGf8kkVD1Vi5lk9GqGUdKvYaRghwaVL/view)
 
 
-<div class="qlang-split" data-lang="it"></div>
 
+<span class="atom-split" id="q11__it" data-atom="q11__it" data-title="Q11__IT" data-tags=""></span>
+
+---
+tipo: quesito-translation
+translation_of: src_canimath_2025_printemps__Q11
+lang: it
+secondary: true
+title: "Coupe Animath Primavera 2025  Quesito 11"
+summary: "Prove PM bisecta angolo NPB in triangolo ABC a pari stelle"
+topics: [topic_geometria_piana]
+methods: [method_simmetria]
+skills: [skill_ragionamento_geometrico, skill_modellizzazione]
+tags: [kg/translation, topic/geometria_piana]---
 
 *Prove che il PM divide l'angolo NPB in triangolo ABC*
 
@@ -338,11 +411,15 @@ level: Coupe Animath Printemps
 > 
 > Indicare che $[PM]$ è il bisettore angolare di $\angle NPB$.
 
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_simmetria|Sfruttamento della simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
+**Area:** [[Geometria]]
 [[Quesiti/src_canimath_2025_printemps#q11|src_canimath_2025_printemps__Q11]]
 
 
 
-<span class="atom-split" id="q12" data-atom="q12" data-title="Quesito 12" data-tags="topic_combinatoria,topic_aritmetica,method_casework,method_invarianti,skill_conteggio_sistematico,skill_riconoscimento_pattern,skill_lettura_attenta"></span>
+<span class="atom-split" id="q12" data-atom="q12" data-title="Quesito 12" data-tags="topic_combinatoria,topic_aritmetica,method_casework,method_invarianti,method_congruenze,skill_conteggio_sistematico,skill_riconoscimento_pattern,skill_lettura_attenta,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -354,9 +431,9 @@ level: Coupe Animath Printemps
 > each consist of $n$ consecutive integers.
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_casework|Casework]], [[method_invarianti|Invarianti]]
-**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_lettura_attenta|Lettura attenta]]
-**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
+**Metodo:** [[method_casework|Casework]], [[method_invarianti|Invarianti]], [[method_congruenze|Modular arithmetic / congruences]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_lettura_attenta|Lettura attenta]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/16rGf8kkVD1Vi5lk9GqGUdKvYaRghwaVL/view)
 
 
@@ -367,11 +444,14 @@ level: Coupe Animath Printemps
 
 > Determinare tutti gli enti rigorosamente positivi $n \geq 2$ per i quali esistono enti rigorosamente positivi $a_1, a_2, \ldots, a_n$ in modo tale che entrambe le serie $$\{a_1, a_2, \ldots, a_n\} \quad \text{and} \quad \{a_1+a_2,\, a_2+a_3,\, \ldots,\, a_{n-1}+a_n,\, a_n+a_1\}$$ siano ciascuna costituita da $n$ integri consecutivi.
 
-[[Quesiti/src_canimath_2025_printemps#q12|src_canimath_2025_printemps__Q12]]
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Analisi per casi]], [[method_invarianti|Invarianti / monovarianti]], [[method_congruenze|Aritmetica modulare / congruenze]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_lettura_attenta|Lettura attenta del testo]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 
 
 
-<span class="atom-split" id="q13" data-atom="q13" data-title="Quesito 13" data-tags="topic_aritmetica,topic_combinatoria,method_estremalita,method_congruenze,method_casework,skill_conteggio_sistematico,skill_modellizzazione,skill_lettura_attenta"></span>
+<span class="atom-split" id="q13" data-atom="q13" data-title="Quesito 13" data-tags="topic_aritmetica,topic_combinatoria,method_estremalita,method_congruenze,method_casework,skill_conteggio_sistematico,skill_modellizzazione,skill_lettura_attenta,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -384,8 +464,8 @@ level: Coupe Animath Printemps
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_estremalita|Estremalità]], [[method_congruenze|Congruenze]], [[method_casework|Casework]]
-**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione]], [[skill_lettura_attenta|Lettura attenta]]
-**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione]], [[skill_lettura_attenta|Lettura attenta]], [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/16rGf8kkVD1Vi5lk9GqGUdKvYaRghwaVL/view)
 
 
@@ -398,14 +478,14 @@ level: Coupe Animath Printemps
 > 
 > Qual è il numero massimo di valori distinti che possono apparire sulla tabella?
 
-[[Quesiti/src_canimath_2025_printemps#q13|src_canimath_2025_printemps__Q13]]
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_estremalita|Principio di estremalita]], [[method_congruenze|Aritmetica modulare / congruenze]], [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_lettura_attenta|Lettura attenta del testo]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 
 
 
 <span class="atom-split" id="q14" data-atom="q14" data-title="Quesito 14" data-tags="topic_combinatoria,topic_algebra,method_estremalita,method_casework,skill_conteggio_sistematico,skill_manipolazione_algebrica,skill_stima"></span>
-
-<div class="qlang-switch" data-default="en"></div>
-
 
 *Max and min of sum of consecutive absolute differences over n-permutations*
 
@@ -424,8 +504,20 @@ level: Coupe Animath Printemps
 **Fonte:** [apri PDF](https://drive.google.com/file/d/16rGf8kkVD1Vi5lk9GqGUdKvYaRghwaVL/view)
 
 
-<div class="qlang-split" data-lang="it"></div>
 
+<span class="atom-split" id="q14__it" data-atom="q14__it" data-title="Q14__IT" data-tags=""></span>
+
+---
+tipo: quesito-translation
+translation_of: src_canimath_2025_printemps__Q14
+lang: it
+secondary: true
+title: "Coupe Animath Primavera 2025  Quesito 14"
+summary: "Max e min della somma delle differenze assolute consecutive su n-permutazioni"
+topics: [topic_combinatoria, topic_algebra]
+methods: [method_estremalita, method_casework]
+skills: [skill_conteggio_sistematico, skill_manipolazione_algebrica, skill_stima]
+tags: [kg/translation, topic/combinatoria, topic/algebra]---
 
 *Max e min della somma delle differenze assolute consecutive su n-permutazioni*
 
@@ -435,11 +527,15 @@ level: Coupe Animath Printemps
 > 
 > (Qui $\lfloor x \rfloor$ indica il più grande numero intero inferiore o uguale a $x$.)
 
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_estremalita|Principio di estremalita]], [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima e approssimazione]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Algebra e Analisi]]
 [[Quesiti/src_canimath_2025_printemps#q14|src_canimath_2025_printemps__Q14]]
 
 
 
-<span class="atom-split" id="q15" data-atom="q15" data-title="Quesito 15" data-tags="topic_combinatoria,method_estremalita,method_casework,skill_conteggio_sistematico,skill_ragionamento_geometrico,skill_lettura_attenta"></span>
+<span class="atom-split" id="q15" data-atom="q15" data-title="Quesito 15" data-tags="topic_combinatoria,method_estremalita,method_casework,skill_conteggio_sistematico,skill_ragionamento_geometrico,skill_lettura_attenta,skill_modellizzazione"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -452,8 +548,8 @@ level: Coupe Animath Printemps
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_estremalita|Estremalità]], [[method_casework|Casework]]
-**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
-**Area:** [[Combinatoria, Logica e Probabilita]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/16rGf8kkVD1Vi5lk9GqGUdKvYaRghwaVL/view)
 
 
@@ -466,4 +562,7 @@ level: Coupe Animath Printemps
 > 
 > Qual è il numero minimo di spie che Martin deve mettere per poter sempre determinare quale quadrato Aurélien ha scelto?
 
-[[Quesiti/src_canimath_2025_printemps#q15|src_canimath_2025_printemps__Q15]]
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_estremalita|Principio di estremalita]], [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta del testo]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
+**Area:** [[Combinatoria, Logica e Probabilita]]

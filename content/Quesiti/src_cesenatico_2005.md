@@ -10,7 +10,7 @@ level: nazionale
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_geometria_piana,method_casework,method_simmetria,skill_ragionamento_geometrico"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_geometria_piana,method_casework,method_simmetria,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -24,7 +24,7 @@ level: nazionale
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_casework|Analisi per casi]], [[method_simmetria|Sfruttamento della simmetria]]
-**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 **Risposta:** (sqrt5-1)/2 oppure (sqrt5+1)/2
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1Tu_Mx72iGUcdFFieEcBz3H4Hqq567mPR/view)
@@ -37,16 +37,15 @@ level: nazionale
 
 > Let ABC be a right triangle with hypotenuse AC, and let H be the foot of the altitude drawn from B to AC. Given that the lengths AB, BC, and BH are the sides of a new right triangle, determine the possible values of AH and CH.
 
+
 **Topic:** [[topic_geometria_piana|Plane geometry]]
 **Metodo:** [[method_casework|Case analysis]], [[method_simmetria|Using symmetry]]
-**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
 **Area:** [[Geometria|Geometry]]
 
-[[Quesiti/src_cesenatico_2005#q01|src_cesenatico_2005__Q01]]
 
 
-
-<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_aritmetica,method_cassetti,method_congruenze"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_aritmetica,method_cassetti,method_congruenze,skill_casework_accurato,skill_stima"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -58,6 +57,7 @@ level: nazionale
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_cassetti|Principio dei cassetti]], [[method_congruenze|Aritmetica modulare / congruenze]]
+**Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_stima|Stima e approssimazione]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** dimostrato
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1Tu_Mx72iGUcdFFieEcBz3H4Hqq567mPR/view)
@@ -70,15 +70,15 @@ level: nazionale
 
 > Prove that, regardless of how 18 consecutive positive integers less than or equal to 2005 are chosen, at least one of them is divisible by the sum of its digits.
 
+
 **Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
 **Metodo:** [[method_cassetti|Pigeonhole principle]], [[method_congruenze|Modular arithmetic / congruences]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]], [[skill_stima|Estimation and approximation]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
-[[Quesiti/src_cesenatico_2005#q02|src_cesenatico_2005__Q02]]
 
 
-
-<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_combinatoria,method_casework,skill_casework_accurato"></span>
+<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_combinatoria,topic_aritmetica,method_casework,method_congruenze,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -90,10 +90,10 @@ level: nazionale
 > di tutte le 16 cifre non è multipla di 4.
 > Determinare il massimo ed il minimo valore possibile per la somma di tutte le 16 cifre.
 
-**Topic:** [[topic_combinatoria|Combinatoria]]
-**Metodo:** [[method_casework|Analisi per casi]]
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Analisi per casi]], [[method_congruenze|Aritmetica modulare / congruenze]]
 **Abilita:** [[skill_casework_accurato|Casework accurato]]
-**Area:** [[Combinatoria, Logica e Probabilita]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** massimo 30, minimo 19
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1Tu_Mx72iGUcdFFieEcBz3H4Hqq567mPR/view)
 
@@ -105,16 +105,15 @@ level: nazionale
 
 > In each cell of a 4×4 square table, either the digit 1 or the digit 2 is written. It is known that the sum of the 9 digits contained in each of the 4 3×3 squares within the table is a multiple of 4, while the sum of all 16 digits is not a multiple of 4. Determine the maximum and minimum possible values for the sum of all 16 digits.
 
-**Topic:** [[topic_combinatoria|Combinatorics]]
-**Metodo:** [[method_casework|Case analysis]]
+
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_casework|Case analysis]], [[method_congruenze|Modular arithmetic / congruences]]
 **Abilita:** [[skill_casework_accurato|Careful case analysis]]
-**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
-
-[[Quesiti/src_cesenatico_2005#q03|src_cesenatico_2005__Q03]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
 
 
-<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_aritmetica,method_conteggio,method_grafi,skill_astrazione"></span>
+<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_aritmetica,method_conteggio,method_grafi,method_estremalita,skill_astrazione,skill_stima"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -127,8 +126,8 @@ level: nazionale
 > possibile?
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_conteggio|Conteggio combinatorio]], [[method_grafi|Teoria dei grafi]]
-**Abilita:** [[skill_astrazione|Astrazione / generalizzazione]]
+**Metodo:** [[method_conteggio|Conteggio combinatorio]], [[method_grafi|Teoria dei grafi]], [[method_estremalita|Principio di estremalita]]
+**Abilita:** [[skill_astrazione|Astrazione / generalizzazione]], [[skill_stima|Stima e approssimazione]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** per ogni n>=3; con limite <5000 il massimo n e 4
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1Tu_Mx72iGUcdFFieEcBz3H4Hqq567mPR/view)
@@ -141,16 +140,15 @@ level: nazionale
 
 > Determine for which n ≥ 3 it is possible to find n positive integers such that each pair has at least one common factor different from 1, but any three of them are pairwise coprime. If the condition that all the integers are less than 5000 is added, what is the maximum possible value of n?
 
+
 **Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
-**Metodo:** [[method_conteggio|Combinatorial counting]], [[method_grafi|Graph theory]]
-**Abilita:** [[skill_astrazione|Abstraction / generalisation]]
+**Metodo:** [[method_conteggio|Combinatorial counting]], [[method_grafi|Graph theory]], [[method_estremalita|Extremal principle]]
+**Abilita:** [[skill_astrazione|Abstraction / generalisation]], [[skill_stima|Estimation and approximation]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
-[[Quesiti/src_cesenatico_2005#q04|src_cesenatico_2005__Q04]]
 
 
-
-<span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_funzionali,method_invarianti,method_ricorsione"></span>
+<span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_funzionali,topic_aritmetica,method_invarianti,method_ricorsione,method_congruenze,skill_riconoscimento_pattern"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -171,9 +169,10 @@ level: nazionale
 > (Ad esempio, se h = 27 si ha: a1 = 28, a2 = 14, a3 = 7, a4 = 34, a5 = 17, a6 = 44, ...)
 > Per quali valori di h esiste n > 0 per cui an = 1?
 
-**Topic:** [[topic_funzionali|Equazioni funzionali / successioni]]
-**Metodo:** [[method_invarianti|Invarianti / monovarianti]], [[method_ricorsione|Ricorsione]]
-**Area:** [[Algebra e Analisi]]
+**Topic:** [[topic_funzionali|Equazioni funzionali / successioni]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_invarianti|Invarianti / monovarianti]], [[method_ricorsione|Ricorsione]], [[method_congruenze|Aritmetica modulare / congruenze]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** tutti gli interi positivi dispari
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1Tu_Mx72iGUcdFFieEcBz3H4Hqq567mPR/view)
 
@@ -185,11 +184,11 @@ level: nazionale
 
 > Let h be a positive integer, and let (an) be the sequence defined recursively as follows: a0 = 1, an+1 = an² if an is even, and an + h if an is odd. (For example, if h = 27, then a1 = 28, a2 = 14, a3 = 7, a4 = 34, a5 = 17, a6 = 44, ...) For which values of h does there exist n > 0 such that an = 1?
 
-**Topic:** [[topic_funzionali|Functional equations / sequences]]
-**Metodo:** [[method_invarianti|Invariants / monovariants]], [[method_ricorsione|Recursion]]
-**Area:** [[Algebra e Analisi|Algebra and analysis]]
 
-[[Quesiti/src_cesenatico_2005#q05|src_cesenatico_2005__Q05]]
+**Topic:** [[topic_funzionali|Functional equations / sequences]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_invarianti|Invariants / monovariants]], [[method_ricorsione|Recursion]], [[method_congruenze|Modular arithmetic / congruences]]
+**Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
 
 
@@ -229,5 +228,3 @@ level: nazionale
 **Metodo:** [[method_simmetria|Using symmetry]]
 **Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
 **Area:** [[Geometria|Geometry]]
-
-[[Quesiti/src_cesenatico_2005#q06|src_cesenatico_2005__Q06]]

@@ -38,8 +38,6 @@ level: RMO
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Algebra e Analisi]]
 
-[[Quesiti/src_rmo_2012_mumbai#q01|src_rmo_2012_mumbai__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_aritmetica,method_congruenze,method_fattorizzazione,skill_manipolazione_algebrica,skill_riconoscimento_pattern"></span>
@@ -70,11 +68,9 @@ level: RMO
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 
-[[Quesiti/src_rmo_2012_mumbai#q02|src_rmo_2012_mumbai__Q02]]
 
 
-
-<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_algebra,topic_aritmetica,method_casework,skill_manipolazione_algebrica,skill_lettura_attenta,skill_casework_accurato"></span>
+<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_algebra,topic_aritmetica,topic_insiemi_funzioni,method_casework,method_fattorizzazione,skill_manipolazione_algebrica,skill_lettura_attenta,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -83,10 +79,10 @@ level: RMO
 
 > Solve the equation $2^{\lfloor x \rfloor} + \{x\} = \dfrac{5\cdot 2^{2\lfloor x \rfloor}}{2^{2\lfloor x \rfloor} - 11}$, where $\lfloor x \rfloor$ denotes the integer part of $x$ and $\{x\}$ denotes its fractional part.
 
-**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_casework|Casework]]
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_insiemi_funzioni|Sets and functions]]
+**Metodo:** [[method_casework|Casework]], [[method_fattorizzazione|Factorisation / algebraic manipulation]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_casework_accurato|Casework accurato]]
-**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Risposta:** $x = 14/5$
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1CKSQe4No7zl6iVIKpFPp7gXFs1vBhK6t/view)
 
@@ -98,12 +94,11 @@ level: RMO
 
 > Risolvi l'equazione $2^{\lfloor x \rfloor} + \{x\} = \dfrac{5\cdot 2^{2\lfloor x \rfloor}}{2^{2\lfloor x \rfloor} - 11}$, dove $\lfloor x \rfloor$ denota la parte intera di $x$ e $\{x\}$ ne denota la parte frazionaria.
 
-**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_casework|Casework]]
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_insiemi_funzioni|Insiemi e funzioni]]
+**Metodo:** [[method_casework|Casework]], [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
-
-[[Quesiti/src_rmo_2012_mumbai#q03|src_rmo_2012_mumbai__Q03]]
 
 
 
@@ -116,7 +111,7 @@ level: RMO
 
 > Let $AEB$ be such that $\angle AEB = 90^\circ$ and let $ED$ be perpendicular to $AB$. Prove that $AD \cdot DB = HD \cdot CD$, i.e.\ that $\dfrac{AD}{CD} = \dfrac{HD}{DB}$, where the points $C$, $E$, $H$, $D$ are as in the accompanying figure (with $\angle DAH = \angle BCD$ and $\angle DAH = \angle CDB$ so that triangles $ADH$ and $CDB$ are similar).
 
-![[src_rmo_2012_mumbai__q04.png]]
+![[src_rmo_2012_mumbai__Q04.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
@@ -131,17 +126,15 @@ level: RMO
 
 > Sia $AEB$ tale che $\angle AEB = 90^\circ$ e sia $ED$ perpendicolare a $AB$. Dimostrare che $AD \cdot DB = HD \cdot CD$, cioè che $\dfrac{AD}{CD} = \dfrac{HD}{DB}$, dove i punti $C$, $E$, $H$, $D$ sono come nella figura allegata (con $\angle DAH = \angle BCD$ e $\angle DAH = \angle CDB$ in modo che i triangoli $ADH$ e $CDB$ siano simili).
 
-![[src_rmo_2012_mumbai__q04.png]]
+![[src_rmo_2012_mumbai__Q04.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 
-[[Quesiti/src_rmo_2012_mumbai#q04|src_rmo_2012_mumbai__Q04]]
 
 
-
-<span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_algebra,topic_aritmetica,method_casework,skill_casework_accurato,skill_manipolazione_algebrica,skill_conteggio_sistematico"></span>
+<span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_algebra,topic_aritmetica,method_casework,method_fattorizzazione,skill_casework_accurato,skill_manipolazione_algebrica,skill_conteggio_sistematico"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -151,9 +144,9 @@ level: RMO
 > Find all triples $(a, b, c)$ of positive integers such that $a$ is a prime, $1 \le a \le b \le c$, and $$\frac{1}{a} + \frac{2}{b} + \frac{3}{c} = 1.$$
 
 **Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_casework|Casework]]
+**Metodo:** [[method_casework|Casework]], [[method_fattorizzazione|Factorisation / algebraic manipulation]]
 **Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]]
-**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Risposta:** $(a,b,c)\in\{(2,5,30),(2,6,18),(2,7,14),(2,8,12),(2,10,10),(3,4,18),(3,6,9)\}$
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1CKSQe4No7zl6iVIKpFPp7gXFs1vBhK6t/view)
 
@@ -165,12 +158,11 @@ level: RMO
 
 > Find all triples $(a, b, c)$ of positive integers such that $a$ is a prime, $1 \le a \le b \le c$, and $$\frac{1}{a} + \frac{2}{b} + \frac{3}{c} = 1.$$
 
+
 **Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_casework|Casework]]
+**Metodo:** [[method_casework|Casework]], [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
 **Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
-
-[[Quesiti/src_rmo_2012_mumbai#q05|src_rmo_2012_mumbai__Q05]]
 
 
 
@@ -203,8 +195,6 @@ level: RMO
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 
-[[Quesiti/src_rmo_2012_mumbai#q06|src_rmo_2012_mumbai__Q06]]
-
 
 
 <span class="atom-split" id="q07" data-atom="q07" data-title="Quesito 7" data-tags="topic_geometria_piana,skill_ragionamento_geometrico,skill_lettura_attenta"></span>
@@ -216,7 +206,7 @@ level: RMO
 
 > In the given configuration, $O$, $E$, $X$ are collinear, $A$, $B$, $C$, $D$ lie on a circle, and triangles $OCX$ and $CEX$ are similar so that $XC/XO = XE/XC$, i.e.\ $XC^2 = XO\cdot XE$; also $XC^2 = XB\cdot XA$, hence $XB\cdot XA = XE\cdot XO$ and so $O$, $A$, $B$, $E$ are concyclic. Given $\angle OAB = 180^\circ - \angle OEB = 40^\circ$, prove that $\angle AOB = 180^\circ - 2\,\angle OAB = 100^\circ$.
 
-![[src_rmo_2012_mumbai__q07.png]]
+![[src_rmo_2012_mumbai__Q07.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
@@ -232,17 +222,15 @@ level: RMO
 
 > Nella configurazione data, $O$, $E$, $X$ sono allineati, $A$, $B$, $C$, $D$ giacciono su una circonferenza, e i triangoli $OCX$ e $CEX$ sono simili, cosicché $XC/XO = XE/XC$, cioè $XC^2 = XO\cdot XE$; inoltre $XC^2 = XB\cdot XA$, quindi $XB\cdot XA = XE\cdot XO$ e così $O$, $A$, $B$, $E$ sono conciclici. Dato $\angle OAB = 180^\circ - \angle OEB = 40^\circ$, si dimostri che $\angle AOB = 180^\circ - 2\,\angle OAB = 100^\circ$.
 
-![[src_rmo_2012_mumbai__q07.png]]
+![[src_rmo_2012_mumbai__Q07.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Geometria]]
 
-[[Quesiti/src_rmo_2012_mumbai#q07|src_rmo_2012_mumbai__Q07]]
 
 
-
-<span class="atom-split" id="q08" data-atom="q08" data-title="Quesito 8" data-tags="topic_disuguaglianze,topic_algebra,method_disuguaglianze,skill_manipolazione_algebrica,skill_stima"></span>
+<span class="atom-split" id="q08" data-atom="q08" data-title="Quesito 8" data-tags="topic_disuguaglianze,topic_algebra,method_disuguaglianze,method_fattorizzazione,skill_manipolazione_algebrica,skill_stima"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -252,9 +240,9 @@ level: RMO
 > Let $x = 2a$, $y = 2b$, $z = 2c$ with $a, b, c > 1$ satisfying $\dfrac{1}{a} + \dfrac{1}{b} + \dfrac{1}{c} = 1$. Prove that $$\frac{1}{(a-1)(b-1)(c-1)} + \frac{8}{(a+1)(b+1)(c+1)} \le \frac{1}{4}.$$
 
 **Topic:** [[topic_disuguaglianze|Disuguaglianze]], [[topic_algebra|Algebra]]
-**Metodo:** [[method_disuguaglianze|Disuguaglianze]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze]], [[method_fattorizzazione|Factorisation / algebraic manipulation]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]]
-**Area:** [[Algebra e Analisi]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1CKSQe4No7zl6iVIKpFPp7gXFs1vBhK6t/view)
 
 
@@ -265,9 +253,8 @@ level: RMO
 
 > Let $x = 2a$, $y = 2b$, $z = 2c$ with $a, b, c > 1$ satisfying $\dfrac{1}{a} + \dfrac{1}{b} + \dfrac{1}{c} = 1$. Prove that $$\frac{1}{(a-1)(b-1)(c-1)} + \frac{8}{(a+1)(b+1)(c+1)} \le \frac{1}{4}.$$
 
+
 **Topic:** [[topic_disuguaglianze|Disuguaglianze]], [[topic_algebra|Algebra]]
-**Metodo:** [[method_disuguaglianze|Disuguaglianze]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze]], [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]]
 **Area:** [[Algebra e Analisi]]
-
-[[Quesiti/src_rmo_2012_mumbai#q08|src_rmo_2012_mumbai__Q08]]

@@ -10,7 +10,7 @@ level: OBM Nível 2
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_aritmetica,method_casework,method_estremalita,skill_lettura_attenta,skill_conteggio_sistematico,skill_stima"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_aritmetica,method_casework,method_estremalita,method_congruenze,skill_lettura_attenta,skill_conteggio_sistematico,skill_stima,skill_riconoscimento_pattern"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -20,9 +20,9 @@ level: OBM Nível 2
 > Determine the minimum possible value for the sum of the digits of a power of $2$ that has at least two digits, and justify why it is not possible to find a power of $2$ with a smaller digit sum. Find a power of $2$ whose digit sum equals the answer found.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_casework|Casework]], [[method_estremalita|Estremalità]]
-**Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_stima|Stima]]
-**Area:** [[Aritmetica e Teoria dei Numeri]]
+**Metodo:** [[method_casework|Casework]], [[method_estremalita|Estremalità]], [[method_congruenze|Modular arithmetic / congruences]]
+**Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_stima|Stima]], [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1CcXWhSqND26SnC8adQX6Fy1P4X3uridO/view)
 
 
@@ -33,16 +33,15 @@ level: OBM Nível 2
 
 > Determinare il valore minimo possibile della somma delle cifre di una potenza di $2$ che abbia almeno due cifre, e giustifica perché non è possibile trovare una potenza di $2$ con una somma delle cifre minore. Trovare una potenza di $2$ la cui somma delle cifre sia uguale alla risposta ottenuta.
 
+
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_casework|Casework]], [[method_estremalita|Estremalità]]
-**Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_stima|Stima]]
+**Metodo:** [[method_casework|Casework]], [[method_estremalita|Estremalità]], [[method_congruenze|Aritmetica modulare / congruenze]]
+**Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_stima|Stima]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 
-[[Quesiti/src_obm_2025_n2_fx#q01|src_obm_2025_n2_fx__Q01]]
 
 
-
-<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_combinatoria,topic_logica,method_invarianti,method_casework,method_simmetria,skill_ragionamento_geometrico,skill_casework_accurato,skill_modellizzazione,skill_lettura_attenta"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_combinatoria,topic_logica,method_invarianti,method_casework,method_simmetria,method_backward,skill_ragionamento_geometrico,skill_casework_accurato,skill_modellizzazione,skill_lettura_attenta"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -52,9 +51,9 @@ level: OBM Nível 2
 > Let $m$ be a positive integer. Ana and Banana play the following game on a $5 \times 5$ board, initially filled with $0$ in every cell. Alternately, they choose a cell of the board and add to the number written in that cell an integer from the set $\{1, 2, 3, 4, 5\}$, in such a way that the number written in that cell never exceeds $m$. The player who completes all five cells of a row, a column, or one of the two main diagonals with the number $m$ wins. For which positive integers $m$ does Ana, the first to play, have a winning strategy?
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_logica|Logica]]
-**Metodo:** [[method_invarianti|Invarianti]], [[method_casework|Casework]], [[method_simmetria|Simmetria]]
+**Metodo:** [[method_invarianti|Invarianti]], [[method_casework|Casework]], [[method_simmetria|Simmetria]], [[method_backward|Working backwards]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_casework_accurato|Casework accurato]], [[skill_modellizzazione|Modellizzazione]], [[skill_lettura_attenta|Lettura attenta]]
-**Area:** [[Combinatoria, Logica e Probabilita]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1CcXWhSqND26SnC8adQX6Fy1P4X3uridO/view)
 
 
@@ -65,12 +64,11 @@ level: OBM Nível 2
 
 > Sia $m$ un numero intero positivo. Ana e Banana giocano il seguente gioco su una scacchiera $5 \times 5$, inizialmente riempita con $0$ in ogni cella. A turno, scelgono una cella della scacchiera e vi aggiungono, al numero scritto in quella cella, un intero appartenente all'insieme $\{1, 2, 3, 4, 5\}$, in modo che il numero scritto in quella cella non superi mai $m$. Vince il giocatore che completa tutte e cinque le celle di una riga, di una colonna o di una delle due diagonali principali con il numero $m$. Per quali numeri interi positivi $m$ Ana, che gioca per prima, ha una strategia vincente?
 
+
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_logica|Logica]]
-**Metodo:** [[method_invarianti|Invarianti]], [[method_casework|Casework]], [[method_simmetria|Simmetria]]
+**Metodo:** [[method_invarianti|Invarianti]], [[method_casework|Casework]], [[method_simmetria|Simmetria]], [[method_backward|Ragionamento all'indietro]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_casework_accurato|Casework accurato]], [[skill_modellizzazione|Modellizzazione]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
-
-[[Quesiti/src_obm_2025_n2_fx#q02|src_obm_2025_n2_fx__Q02]]
 
 
 
@@ -101,8 +99,6 @@ level: OBM Nível 2
 **Metodo:** [[method_coordinate|Coordinate]], [[method_trigonometria|Trigonometria]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Geometria]]
-
-[[Quesiti/src_obm_2025_n2_fx#q03|src_obm_2025_n2_fx__Q03]]
 
 
 
@@ -153,8 +149,6 @@ level: OBM Nível 2
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Geometria]]
 
-[[Quesiti/src_obm_2025_n2_fx#q04|src_obm_2025_n2_fx__Q04]]
-
 
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_algebra,topic_aritmetica,method_casework,method_estremalita,skill_manipolazione_algebrica,skill_lettura_attenta,skill_stima"></span>
@@ -193,8 +187,6 @@ level: OBM Nível 2
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_stima|Stima]]
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 
-[[Quesiti/src_obm_2025_n2_fx#q05|src_obm_2025_n2_fx__Q05]]
-
 
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_combinatoria,method_estremalita,method_conteggio,method_grafi,method_induzione,skill_conteggio_sistematico,skill_ragionamento_geometrico,skill_riconoscimento_pattern,skill_astrazione"></span>
@@ -228,5 +220,3 @@ level: OBM Nível 2
 **Metodo:** [[method_estremalita|Estremalità]], [[method_conteggio|Conteggio]], [[method_grafi|Grafi]], [[method_induzione|Induzione]]
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_astrazione|Astrazione]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
-
-[[Quesiti/src_obm_2025_n2_fx#q06|src_obm_2025_n2_fx__Q06]]

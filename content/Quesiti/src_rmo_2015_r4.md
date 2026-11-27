@@ -10,7 +10,7 @@ level: RMO
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_geometria_piana,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_geometria_piana,method_simmetria,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -19,11 +19,12 @@ level: RMO
 
 > Let $ABC$ be a triangle. Let $B'$ denote the reflection of $B$ in the internal angle bisector $\ell$ of $\angle A$. Show that the circumcentre of the triangle $CB'I$ lies on the line $\ell$, where $I$ is the incentre of $ABC$.
 
-![[src_rmo_2015_r4__q01.png]]
+![[src_rmo_2015_r4__Q01.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_simmetria|Using symmetry]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
-**Area:** [[Geometria]]
+**Area:** [[Geometria|Geometry]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1x0axIPaHu87ZTGOGDG8_dBEUX9gWmh5k/view)
 
 
@@ -34,13 +35,13 @@ level: RMO
 
 > Sia $ABC$ un triangolo. Sia $B'$ la riflessione di $B$ rispetto alla bisettrice interna $\ell$ di $\angle A$. Dimostrare che il circocentro del triangolo $CB'I$ giace sulla retta $\ell$, dove $I$ è l'incentro di $ABC$.
 
-![[src_rmo_2015_r4__q01.png]]
+![[src_rmo_2015_r4__Q01.png]]
+
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_simmetria|Sfruttamento della simmetria]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
-
-[[Quesiti/src_rmo_2015_r4#q01|src_rmo_2015_r4__Q01]]
 
 
 
@@ -71,8 +72,6 @@ level: RMO
 **Metodo:** [[method_congruenze|Congruenze]], [[method_fattorizzazione|Fattorizzazione]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
-
-[[Quesiti/src_rmo_2015_r4#q02|src_rmo_2015_r4__Q02]]
 
 
 
@@ -106,8 +105,6 @@ level: RMO
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Casework accurato]], [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 
-[[Quesiti/src_rmo_2015_r4#q03|src_rmo_2015_r4__Q03]]
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_combinatoria,method_casework,method_conteggio,method_inclusione_esclusione,skill_conteggio_sistematico,skill_casework_accurato,skill_ragionamento_geometrico"></span>
@@ -138,11 +135,9 @@ level: RMO
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 
-[[Quesiti/src_rmo_2015_r4#q04|src_rmo_2015_r4__Q04]]
 
 
-
-<span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_geometria_piana,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
+<span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_geometria_piana,method_simmetria,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -151,11 +146,12 @@ level: RMO
 
 > Two circles $\Gamma$ and $\Sigma$ intersect at two distinct points $A$ and $B$. A line through $B$ intersects $\Gamma$ again at $C$ and $\Sigma$ again at $D$, respectively. Suppose that $CA = CD$. Show that the centre of $\Sigma$ lies on $\Gamma$.
 
-![[src_rmo_2015_r4__q05.png]]
+![[src_rmo_2015_r4__Q05.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_simmetria|Using symmetry]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
-**Area:** [[Geometria]]
+**Area:** [[Geometria|Geometry]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1x0axIPaHu87ZTGOGDG8_dBEUX9gWmh5k/view)
 
 
@@ -166,13 +162,13 @@ level: RMO
 
 > Due circonferenze $\Gamma$ e $\Sigma$ si intersecano in due punti distinti $A$ e $B$. Una retta passante per $B$ interseca nuovamente $\Gamma$ in $C$ e interseca nuovamente $\Sigma$ in $D$, rispettivamente. Si supponga che $CA = CD$. Dimostrare che il centro di $\Sigma$ giace su $\Gamma$.
 
-![[src_rmo_2015_r4__q05.png]]
+![[src_rmo_2015_r4__Q05.png]]
+
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_simmetria|Sfruttamento della simmetria]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
-
-[[Quesiti/src_rmo_2015_r4#q05|src_rmo_2015_r4__Q05]]
 
 
 
@@ -207,5 +203,3 @@ level: RMO
 **Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]]
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]], [[skill_stima|Stima]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
-
-[[Quesiti/src_rmo_2015_r4#q06|src_rmo_2015_r4__Q06]]

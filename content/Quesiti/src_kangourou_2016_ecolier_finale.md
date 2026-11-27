@@ -10,7 +10,7 @@ level: kangourou
 
 
 
-<span class="atom-split" id="qe1" data-atom="qe1" data-title="Quesito E1" data-tags="topic_aritmetica,skill_conteggio_sistematico"></span>
+<span class="atom-split" id="qe1" data-atom="qe1" data-title="Quesito E1" data-tags="topic_aritmetica,method_estremalita,skill_conteggio_sistematico,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -20,7 +20,8 @@ level: kangourou
 > Elisa ha scritto il più piccolo numero pari nella cui scrittura compaiono almeno una volta tutte le dieci cifre. Che numero ha scritto? Attenzione: la prima cifra non può essere 0!
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Metodo:** [[method_estremalita|Principio di estremalita]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 1023456798
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/17WfUAkrXUQQ692jH5sAM_Bsr9ebUFZPI/view)
@@ -33,15 +34,15 @@ level: kangourou
 
 > Elisa wrote the smallest even number in whose representation all ten digits appear at least once. Which number did she write? Attention: the first digit cannot be 0!
 
+
 **Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
-**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Metodo:** [[method_estremalita|Extremal principle]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]], [[skill_casework_accurato|Careful case analysis]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
-[[Quesiti/src_kangourou_2016_ecolier_finale#qe1|src_kangourou_2016_ecolier_finale__QE1]]
 
 
-
-<span class="atom-split" id="qe2" data-atom="qe2" data-title="Quesito E2" data-tags="topic_logica,skill_casework_accurato"></span>
+<span class="atom-split" id="qe2" data-atom="qe2" data-title="Quesito E2" data-tags="topic_logica,method_casework,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -51,6 +52,7 @@ level: kangourou
 > Alberto, Daniele e Martino sono sportivi. Uno dei tre gioca a calcio, un altro a basket e il rimanente a pallavolo. Il calciatore è figlio unico ed è il più giovane dei tre. Martino è più vecchio del giocatore di basket ed è amico della sorella di Alberto. Qual è il nome del giocatore di basket?
 
 **Topic:** [[topic_logica|Logica, giochi, strategie]]
+**Metodo:** [[method_casework|Analisi per casi]]
 **Abilita:** [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** Alberto
@@ -64,27 +66,27 @@ level: kangourou
 
 > Alberto, Daniele, and Martino are sportspeople. One of the three plays football, another plays basketball, and the remaining one plays volleyball. The footballer is an only child and is the youngest of the three. Martino is older than the basketball player and is a friend of Alberto's sister. What is the basketball player's name?
 
+
 **Topic:** [[topic_logica|Logic, games and strategies]]
+**Metodo:** [[method_casework|Case analysis]]
 **Abilita:** [[skill_casework_accurato|Careful case analysis]]
 **Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
-[[Quesiti/src_kangourou_2016_ecolier_finale#qe2|src_kangourou_2016_ecolier_finale__QE2]]
 
 
-
-<span class="atom-split" id="qe3" data-atom="qe3" data-title="Quesito E3" data-tags="topic_aritmetica,method_casework,skill_casework_accurato"></span>
+<span class="atom-split" id="qe3" data-atom="qe3" data-title="Quesito E3" data-tags="topic_aritmetica,method_casework,method_congruenze,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
 
 *Ultime cifre possibili se somma e prodotto coincidono*
 
-![[src_kangourou_2016_ecolier_finale__probe3.png]]
+![[src_kangourou_2016_ecolier_finale__probE3.png]]
 
 > Due numeri interi sono tali che il loro prodotto e la loro somma hanno la stessa ultima cifra (cioè quella delle unità). Tra le dieci cifre, quali possono essere l'ultima cifra della somma?
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_casework|Analisi per casi]]
+**Metodo:** [[method_casework|Analisi per casi]], [[method_congruenze|Aritmetica modulare / congruenze]]
 **Abilita:** [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 0, 2 e 4
@@ -96,20 +98,19 @@ level: kangourou
 
 *Last possible digits if the sum and the product coincide*
 
-![[src_kangourou_2016_ecolier_finale__probe3.png]]
+![[src_kangourou_2016_ecolier_finale__probE3.png]]
 
 > Two integers are such that their product and their sum have the same final digit (that is, the units digit). Among the ten digits, which digits can be the final digit of the sum?
 
+
 **Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
-**Metodo:** [[method_casework|Case analysis]]
+**Metodo:** [[method_casework|Case analysis]], [[method_congruenze|Modular arithmetic / congruences]]
 **Abilita:** [[skill_casework_accurato|Careful case analysis]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
-[[Quesiti/src_kangourou_2016_ecolier_finale#qe3|src_kangourou_2016_ecolier_finale__QE3]]
 
 
-
-<span class="atom-split" id="qe4" data-atom="qe4" data-title="Quesito E4" data-tags="topic_aritmetica,skill_riconoscimento_pattern"></span>
+<span class="atom-split" id="qe4" data-atom="qe4" data-title="Quesito E4" data-tags="topic_aritmetica,skill_riconoscimento_pattern,skill_modellizzazione,skill_lettura_attenta"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -119,7 +120,7 @@ level: kangourou
 > La moneta di Kanglandia è il kang. Il cambio euro–kang funziona così: si ottiene $1$ kang pagando $2$ euro, si ottiene $1$ euro pagando $1$ kang e proporzionalmente se si cambiano monete di valore inferiore. In entrambe le valute la moneta di valore minimo è quella da un centesimo; si può cambiare qualunque quantità di denaro e il risultato del cambio, se non è esprimibile con un numero intero di centesimi, viene arrotondato al centesimo per eccesso. Se all'inizio cambio $10$ euro in kang, poi cambio i kang ottenuti in euro, poi cambio gli euro ottenuti in kang e procedo in questo modo, posso rimanere senza denaro?
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_lettura_attenta|Lettura attenta del testo]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** No, resto con 1 centesimo
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/17WfUAkrXUQQ692jH5sAM_Bsr9ebUFZPI/view)
@@ -132,15 +133,14 @@ level: kangourou
 
 > The currency of Kanglandia is the kang. The euro–kang exchange rate works like this: you get $1$ kangs by paying $2$ euros; you get $1$ euros by paying $1$ kangs; and if you exchange currencies of lower value, the exchange is proportional. In both currencies, the smallest-denomination coin is the one-cent coin; you can exchange any amount of money, and if the result of the exchange cannot be expressed as a whole number of cents, it is rounded up to the nearest cent. If at the beginning I exchange $10$ euros for kangs, then I exchange the kangs I got for euros, then I exchange the euros I got for kangs, and I keep doing this, can I end up with no money?
 
+
 **Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
-**Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]]
+**Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]], [[skill_modellizzazione|Modelling / translating the text]], [[skill_lettura_attenta|Careful reading of the text]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
-[[Quesiti/src_kangourou_2016_ecolier_finale#qe4|src_kangourou_2016_ecolier_finale__QE4]]
 
 
-
-<span class="atom-split" id="qe5" data-atom="qe5" data-title="Quesito E5" data-tags="topic_combinatoria,topic_logica,method_conteggio,skill_conteggio_sistematico"></span>
+<span class="atom-split" id="qe5" data-atom="qe5" data-title="Quesito E5" data-tags="topic_combinatoria,topic_logica,method_conteggio,skill_conteggio_sistematico,skill_modellizzazione"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -151,7 +151,7 @@ level: kangourou
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_logica|Logica, giochi, strategie]]
 **Metodo:** [[method_conteggio|Conteggio combinatorio]]
-**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 99
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/17WfUAkrXUQQ692jH5sAM_Bsr9ebUFZPI/view)
@@ -164,16 +164,15 @@ level: kangourou
 
 > On the table there are $100$ objects whose weights are very close to one another (some might even have the same weight): I was told that the $5$ heaviest objects, listed in descending order of weight, are A, B, C, D, and E. I want to verify the claim, but I have only a two-pan balance, and only one object can be placed on each pan—so I can only compare the weights of two objects at a time. What is the minimum number of comparisons that will allow me to verify the claim?
 
+
 **Topic:** [[topic_combinatoria|Combinatorics]], [[topic_logica|Logic, games and strategies]]
 **Metodo:** [[method_conteggio|Combinatorial counting]]
-**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]], [[skill_modellizzazione|Modelling / translating the text]]
 **Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
-[[Quesiti/src_kangourou_2016_ecolier_finale#qe5|src_kangourou_2016_ecolier_finale__QE5]]
 
 
-
-<span class="atom-split" id="qe6" data-atom="qe6" data-title="Quesito E6" data-tags="topic_probabilita,skill_conteggio_sistematico"></span>
+<span class="atom-split" id="qe6" data-atom="qe6" data-title="Quesito E6" data-tags="topic_probabilita,method_conteggio,skill_conteggio_sistematico,skill_modellizzazione"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -187,7 +186,8 @@ level: kangourou
 > Fox è impreparato e pensa di rispondere a caso ai quesiti. Per cercare di essere promosso, gli conviene scegliere la busta A o la B?
 
 **Topic:** [[topic_probabilita|Probabilita e statistica]]
-**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Metodo:** [[method_conteggio|Conteggio combinatorio]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** la busta A
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/17WfUAkrXUQQ692jH5sAM_Bsr9ebUFZPI/view)
@@ -204,8 +204,8 @@ level: kangourou
 >
 > Fox is unprepared and thinks he'll answer the questions at random. To try to get promoted, should he choose envelope A or envelope B?
 
-**Topic:** [[topic_probabilita|Probability and statistics]]
-**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
-**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
-[[Quesiti/src_kangourou_2016_ecolier_finale#qe6|src_kangourou_2016_ecolier_finale__QE6]]
+**Topic:** [[topic_probabilita|Probability and statistics]]
+**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]], [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]

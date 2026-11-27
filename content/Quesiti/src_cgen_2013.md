@@ -12,9 +12,6 @@ level: Concours Général
 
 <span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_aritmetica,topic_algebra,method_casework,method_congruenze,method_induzione,skill_manipolazione_algebrica,skill_lettura_attenta,skill_conteggio_sistematico,skill_astrazione"></span>
 
-<div class="qlang-switch" data-default="en"></div>
-
-
 *Superbe sequences of positive integers where every term divides the sum of all terms; characterize lengths 2-4, distinctness, primes, arithmetic ones, infinite magnifique sequences, and extensions.*
 
 > Problem 1: Of superbe sequences.
@@ -48,8 +45,20 @@ level: Concours Général
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Pq6bo-6oCLQunkq5bIb1Od_s6bhLIKzO/view)
 
 
-<div class="qlang-split" data-lang="it"></div>
 
+<span class="atom-split" id="q01__it" data-atom="q01__it" data-title="Q01__IT" data-tags=""></span>
+
+---
+tipo: quesito-translation
+translation_of: src_cgen_2013__Q01
+lang: it
+secondary: true
+title: "Concours Général des Lycées 2013  Matematica  Quesito 1"
+summary: "Superbe sequenze di numeri interi positivi in cui ogni termine divide la somma di tutti i termini; caratterizzare lunghezze 2-4, distinzione, numeri primi, quelli aritmetici, infinite magnifique sequenze, ed estensioni."
+topics: [topic_aritmetica, topic_algebra]
+methods: [method_casework, method_congruenze, method_induzione]
+skills: [skill_manipolazione_algebrica, skill_lettura_attenta, skill_conteggio_sistematico, skill_astrazione]
+tags: [kg/translation, topic/aritmetica, topic/algebra]---
 
 *Sare sequenze di numeri interi positivi in cui ogni termine divide la somma di tutti i termini; caratterizzare lunghezze 2-4, distinzione, numeri primi, quelli aritmetici, infinite magnifique sequenze e estensioni.*
 
@@ -73,11 +82,15 @@ level: Concours Général
 > 
 > **6.** $n$ sia un numero intero maggiore o uguale a $4$, e $(a_1, a_2, \ldots, a_n)$ sia una sequenza finita, non necessariamente superba, di numeri interi strettamente positivi separati in coppia. **a.** Mostrare che è possibile estendere la sequenza per ottenere una sequenza superba. **b.** Mostrare che è possibile estendere la sequenza in modo da ottenere una sequenza superba i cui termini sono tutti distinti.
 
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_casework|Analisi per casi]], [[method_congruenze|Aritmetica modulare / congruenze]], [[method_induzione|Induzione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta del testo]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_astrazione|Astrazione / generalizzazione]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 [[Quesiti/src_cgen_2013#q01|src_cgen_2013__Q01]]
 
 
 
-<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_geometria_analitica,topic_geometria_solida,method_coordinate,skill_ragionamento_geometrico,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_geometria_analitica,topic_geometria_solida,method_coordinate,method_fattorizzazione,skill_ragionamento_geometrico,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -102,9 +115,9 @@ level: Concours Général
 > **6.** Let $D_4$ be a line that meets none of the lines $D_1, D_2, D_3$ and is not contained in $\mathscr{S}$. Show that there exist at most two lines of space cutting the four lines $D_1, D_2, D_3, D_4$.
 
 **Topic:** [[topic_geometria_analitica|Geometria analitica]], [[topic_geometria_solida|Geometria solida]]
-**Metodo:** [[method_coordinate|Coordinate]]
+**Metodo:** [[method_coordinate|Coordinate]], [[method_fattorizzazione|Factorisation / algebraic manipulation]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
-**Area:** [[Geometria]]
+**Area:** [[Geometria|Geometry]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Pq6bo-6oCLQunkq5bIb1Od_s6bhLIKzO/view)
 
 
@@ -129,14 +142,14 @@ level: Concours Général
 > 
 > **6.** $D_4$ deve essere una riga che non risponde a nessuna delle linee $D_1, D_2, D_3$ e non è contenuta in $\mathscr{S}$. Mostrare che esistono al massimo due linee di spazio che tagliano le quattro linee $D_1, D_2, D_3, D_4$.
 
-[[Quesiti/src_cgen_2013#q02|src_cgen_2013__Q02]]
+**Topic:** [[topic_geometria_analitica|Geometria analitica]], [[topic_geometria_solida|Geometria solida]]
+**Metodo:** [[method_coordinate|Metodo delle coordinate]], [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta del testo]]
+**Area:** [[Geometria]]
 
 
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_probabilita,topic_aritmetica,method_ricorsione,method_casework,method_disuguaglianze,skill_modellizzazione,skill_conteggio_sistematico,skill_stima,skill_lettura_attenta"></span>
-
-<div class="qlang-switch" data-default="en"></div>
-
 
 *Sisyphe's dice game on 106 cells: wins by reaching/passing cell 100, loses on a prime cell below 100. Probabilities p_n, the position variable X, an algorithm for P(X=k), and an estimate of the gain probability via conditional probabilities alpha_p over consecutive primes.*
 
@@ -173,8 +186,20 @@ level: Concours Général
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Pq6bo-6oCLQunkq5bIb1Od_s6bhLIKzO/view)
 
 
-<div class="qlang-split" data-lang="it"></div>
 
+<span class="atom-split" id="q03__it" data-atom="q03__it" data-title="Q03__IT" data-tags=""></span>
+
+---
+tipo: quesito-translation
+translation_of: src_cgen_2013__Q03
+lang: it
+secondary: true
+title: "Concours Général des Lycées 2013  Matematica  Quesito 3"
+summary: "Il gioco dei dadi di Sisyphe su 106 cellule: vince raggiungendo/passando la cellula 100, perde su una cellula primaria inferiore a 100. Probabilità p_n, la variabile di posizione X, un algoritmo per P(X=k), e una stima della probabilità di guadagno attraverso probabilità condizionate alfa_p su numeri primi consecutivi."
+topics: [topic_probabilita, topic_aritmetica]
+methods: [method_ricorsione, method_casework, method_disuguaglianze]
+skills: [skill_modellizzazione, skill_conteggio_sistematico, skill_stima, skill_lettura_attenta]
+tags: [kg/translation, topic/probabilita, topic/aritmetica]---
 
 Il gioco dei dadi di Sisyphe su 106 cellule: vince raggiungendo/passando la cellula 100, perde su una cellula primaria inferiore a 100. Probabilità p_n, la variabile di posizione X, un algoritmo per P(X=k), e una stima della probabilità di guadagno tramite probabilità condizionate alfa_p su numeri primi consecutivi.*
 
@@ -192,4 +217,8 @@ Il gioco dei dadi di Sisyphe su 106 cellule: vince raggiungendo/passando la cell
 > 
 > Dotato di una calcolatrice non abbastanza potente da eseguire l'algoritmo precedente, Sisyphe cerca di stimare la sua probabilità di guadagno. A tal fine, dato due numeri primi consecutivi $p < p'$, egli considera $\alpha_p$ la probabilità condizionale dell'evento $X = p'$ dato l'evento $X > p$. **a.** Quali sono i valori di $\alpha_2$ e $\alpha_3$? **b.** Indicare l'espressione della probabilità di guadagno, $\mathbb{P}(G) = \mathbb{P}(X \geqslant 100)$, in termini di numeri reali $\alpha_p$ per $p = 2, 3, 5, \ldots$ **c.** Indicare un allegato (quadramento) dei numeri $\alpha_p$ e dedurre da esso un allegato di $\mathbb{P}(G)$. (In questa domanda, il criterio di valutazione sarà la qualità dell'allegato.)
 
+**Topic:** [[topic_probabilita|Probabilita e statistica]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_ricorsione|Ricorsione]], [[method_casework|Analisi per casi]], [[method_disuguaglianze|Disuguaglianze classiche]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_stima|Stima e approssimazione]], [[skill_lettura_attenta|Lettura attenta del testo]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 [[Quesiti/src_cgen_2013#q03|src_cgen_2013__Q03]]

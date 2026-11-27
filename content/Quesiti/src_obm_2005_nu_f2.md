@@ -10,7 +10,7 @@ level: OBM Nível Universitário
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_algebra,method_fattorizzazione,skill_manipolazione_algebrica,skill_lettura_attenta,skill_astrazione"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_algebra,method_fattorizzazione,method_casework,skill_manipolazione_algebrica,skill_lettura_attenta,skill_astrazione,skill_conteggio_sistematico"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -20,9 +20,9 @@ level: OBM Nível Universitário
 > Determine, as a function of $n$, the number of possible values for the determinant of $A$, given that $A$ is a real $n \times n$ matrix such that $A^3 - A^2 - 3A + 2I = 0$, where $I$ denotes the $n \times n$ identity matrix and $0$ denotes the $n \times n$ zero matrix.
 
 **Topic:** [[topic_algebra|Algebra]]
-**Metodo:** [[method_fattorizzazione|Fattorizzazione]]
-**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_astrazione|Astrazione]]
-**Area:** [[Algebra e Analisi]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_casework|Case analysis]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_astrazione|Astrazione]], [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1B-VoDPg_AHX_VA8woSsj9mylOr9Jg297/view)
 
 
@@ -33,16 +33,15 @@ level: OBM Nível Universitário
 
 > Determinare, in funzione di $n$, il numero di valori possibili per il determinante di $A$, sapendo che $A$ è una matrice reale $n \times n$ tale che $A^3 - A^2 - 3A + 2I = 0$, dove $I$ denota la matrice identità $n \times n$ e $0$ denota la matrice nulla $n \times n$.
 
+
 **Topic:** [[topic_algebra|Algebra]]
-**Metodo:** [[method_fattorizzazione|Fattorizzazione]]
-**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_astrazione|Astrazione]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_astrazione|Astrazione]], [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Algebra e Analisi]]
 
-[[Quesiti/src_obm_2005_nu_f2#q01|src_obm_2005_nu_f2__Q01]]
 
 
-
-<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_insiemi_funzioni,topic_algebra,method_disuguaglianze,skill_manipolazione_algebrica,skill_astrazione,skill_lettura_attenta"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_insiemi_funzioni,topic_algebra,topic_disuguaglianze,method_disuguaglianze,skill_manipolazione_algebrica,skill_astrazione,skill_lettura_attenta"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -51,10 +50,10 @@ level: OBM Nível Universitário
 
 > Let $f$ and $g$ be distinct continuous functions from $[0,1]$ to $(0,+\infty)$ such that $\int_0^1 f(x)\,dx = \int_0^1 g(x)\,dx$. For $n \ge 0$, define $$y_n = \int_0^1 \frac{f(x)^{n+1}}{g(x)^n}\,dx.$$ Prove that the sequence $(y_n)_{n \ge 0}$ is increasing and divergent.
 
-**Topic:** [[topic_insiemi_funzioni|Insiemi e funzioni]], [[topic_algebra|Algebra]]
+**Topic:** [[topic_insiemi_funzioni|Insiemi e funzioni]], [[topic_algebra|Algebra]], [[topic_disuguaglianze|Inequalities]]
 **Metodo:** [[method_disuguaglianze|Disuguaglianze]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]], [[skill_lettura_attenta|Lettura attenta]]
-**Area:** [[Algebra e Analisi]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1B-VoDPg_AHX_VA8woSsj9mylOr9Jg297/view)
 
 
@@ -65,16 +64,15 @@ level: OBM Nível Universitário
 
 > Let $f$ and $g$ be distinct continuous functions from $[0,1]$ to $(0,+\infty)$ such that $\int_0^1 f(x)\,dx = \int_0^1 g(x)\,dx$. For $n \ge 0$, define $$y_n = \int_0^1 \frac{f(x)^{n+1}}{g(x)^n}\,dx.$$ Prove that the sequence $(y_n)_{n \ge 0}$ is increasing and divergent.
 
-**Topic:** [[topic_insiemi_funzioni|Insiemi e funzioni]], [[topic_algebra|Algebra]]
+
+**Topic:** [[topic_insiemi_funzioni|Insiemi e funzioni]], [[topic_algebra|Algebra]], [[topic_disuguaglianze|Disuguaglianze]]
 **Metodo:** [[method_disuguaglianze|Disuguaglianze]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Algebra e Analisi]]
 
-[[Quesiti/src_obm_2005_nu_f2#q02|src_obm_2005_nu_f2__Q02]]
 
 
-
-<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_combinatoria,topic_geometria_piana,method_estremalita,method_casework,skill_astrazione,skill_ragionamento_geometrico,skill_modellizzazione"></span>
+<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_combinatoria,topic_geometria_piana,method_estremalita,method_casework,method_induzione,skill_astrazione,skill_ragionamento_geometrico,skill_modellizzazione"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -84,9 +82,9 @@ level: OBM Nível Universitário
 > Let $v_1, v_2, \ldots, v_n$ be vectors in $\mathbb{R}^2$ such that $|v_i| \le 1$ for $1 \le i \le n$ and $\sum_{i=1}^n v_i = 0$. Prove that there exists a permutation $\sigma$ of $\{1, 2, \ldots, n\}$ such that $$\left|\sum_{j=1}^k v_{\sigma(j)}\right| \le \sqrt{5}$$ for every $k$ with $1 \le k \le n$. (Note: if $v = (x,y) \in \mathbb{R}^2$, then $|v| = \sqrt{x^2+y^2}$ denotes the Euclidean norm of $v$.)
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_geometria_piana|Geometria piana]]
-**Metodo:** [[method_estremalita|Estremalità]], [[method_casework|Casework]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_casework|Casework]], [[method_induzione|Induction]]
 **Abilita:** [[skill_astrazione|Astrazione]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]]
-**Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Geometria|Geometry]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1B-VoDPg_AHX_VA8woSsj9mylOr9Jg297/view)
 
 
@@ -97,16 +95,15 @@ level: OBM Nível Universitário
 
 > Let $v_1, v_2, \ldots, v_n$ be vectors in $\mathbb{R}^2$ such that $|v_i| \le 1$ for $1 \le i \le n$ and $\sum_{i=1}^n v_i = 0$. Prove that there exists a permutation $\sigma$ of $\{1, 2, \ldots, n\}$ such that $$\left|\sum_{j=1}^k v_{\sigma(j)}\right| \le \sqrt{5}$$ for every $k$ with $1 \le k \le n$. (Note: if $v = (x,y) \in \mathbb{R}^2$, then $|v| = \sqrt{x^2+y^2}$ denotes the Euclidean norm of $v$.)
 
+
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_geometria_piana|Geometria piana]]
-**Metodo:** [[method_estremalita|Estremalità]], [[method_casework|Casework]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_casework|Casework]], [[method_induzione|Induzione]]
 **Abilita:** [[skill_astrazione|Astrazione]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 
-[[Quesiti/src_obm_2005_nu_f2#q03|src_obm_2005_nu_f2__Q03]]
 
 
-
-<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_algebra,topic_aritmetica,method_telescoping,method_disuguaglianze,skill_manipolazione_algebrica,skill_stima,skill_lettura_attenta"></span>
+<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_algebra,topic_aritmetica,topic_funzionali,method_telescoping,method_disuguaglianze,skill_manipolazione_algebrica,skill_stima,skill_lettura_attenta"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -115,10 +112,10 @@ level: OBM Nível Universitário
 
 > Consider the sequence $(a_n)_{n \ge 1}$ defined by $a_1 = 1$, $a_{n+1} = a_n + \dfrac{1}{a_n^{2005}}$, for all $n \ge 1$. Prove that the series $\displaystyle\sum_{n=1}^{\infty} \frac{1}{n \cdot a_n}$ converges.
 
-**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_funzionali|Functional equations / sequences]]
 **Metodo:** [[method_telescoping|Telescoping]], [[method_disuguaglianze|Disuguaglianze]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]], [[skill_lettura_attenta|Lettura attenta]]
-**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1B-VoDPg_AHX_VA8woSsj9mylOr9Jg297/view)
 
 
@@ -129,16 +126,15 @@ level: OBM Nível Universitário
 
 > Si consideri la successione $(a_n)_{n \ge 1}$ definita da $a_1 = 1$, $a_{n+1} = a_n + \dfrac{1}{a_n^{2005}}$, per ogni $n \ge 1$. Si dimostri che la serie $\displaystyle\sum_{n=1}^{\infty} \frac{1}{n \cdot a_n}$ converge.
 
-**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_funzionali|Equazioni funzionali / successioni]]
 **Metodo:** [[method_telescoping|Telescoping]], [[method_disuguaglianze|Disuguaglianze]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 
-[[Quesiti/src_obm_2005_nu_f2#q04|src_obm_2005_nu_f2__Q04]]
 
 
-
-<span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_algebra,topic_insiemi_funzioni,method_ricorsione,skill_manipolazione_algebrica,skill_astrazione,skill_lettura_attenta"></span>
+<span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_algebra,topic_insiemi_funzioni,method_ricorsione,skill_manipolazione_algebrica,skill_astrazione,skill_lettura_attenta,skill_riconoscimento_pattern"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -149,8 +145,8 @@ level: OBM Nível Universitário
 
 **Topic:** [[topic_algebra|Algebra]], [[topic_insiemi_funzioni|Insiemi e funzioni]]
 **Metodo:** [[method_ricorsione|Ricorsione]]
-**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]], [[skill_lettura_attenta|Lettura attenta]]
-**Area:** [[Algebra e Analisi]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]], [[skill_lettura_attenta|Lettura attenta]], [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1B-VoDPg_AHX_VA8woSsj9mylOr9Jg297/view)
 
 
@@ -161,12 +157,11 @@ level: OBM Nível Universitário
 
 > Prove that $$\sum_{n=1}^{\infty} \frac{1}{n^n} = \int_0^1 x^{-x}\,dx.$$
 
+
 **Topic:** [[topic_algebra|Algebra]], [[topic_insiemi_funzioni|Insiemi e funzioni]]
 **Metodo:** [[method_ricorsione|Ricorsione]]
-**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]], [[skill_lettura_attenta|Lettura attenta]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]], [[skill_lettura_attenta|Lettura attenta]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Algebra e Analisi]]
-
-[[Quesiti/src_obm_2005_nu_f2#q05|src_obm_2005_nu_f2__Q05]]
 
 
 
@@ -197,5 +192,3 @@ level: OBM Nível Universitário
 **Metodo:** [[method_induzione|Induzione]], [[method_doppio_conteggio|Doppio conteggio]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Algebra e Analisi]]
-
-[[Quesiti/src_obm_2005_nu_f2#q06|src_obm_2005_nu_f2__Q06]]

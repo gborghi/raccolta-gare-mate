@@ -43,11 +43,9 @@ level: Semifinale Campionati Internazionali di Giochi Matematici
 **Abilita:** [[skill_conteggio_sistematico|Systematic counting]], [[skill_lettura_attenta|Careful reading of the text]]
 **Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
-[[Quesiti/src_bocconi_semifinale_2013#q01|src_bocconi_semifinale_2013__Q01]]
 
 
-
-<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_combinatoria,topic_aritmetica,method_casework,method_conteggio,skill_conteggio_sistematico,skill_lettura_attenta"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_combinatoria,topic_aritmetica,method_casework,method_conteggio,method_colorazione,skill_conteggio_sistematico,skill_lettura_attenta"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -60,10 +58,10 @@ level: Semifinale Campionati Internazionali di Giochi Matematici
 > 
 > I gettoni mostrano i numeri 1, 2, 3, 4, 5.
 
-![[src_bocconi_semifinale_2013__q02.png]]
+![[src_bocconi_semifinale_2013__Q02.png]]
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]]
+**Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]], [[method_colorazione|Colorazione / parita]]
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 4
@@ -81,18 +79,17 @@ level: Semifinale Campionati Internazionali di Giochi Matematici
 >
 > The tokens show the numbers 1, 2, 3, 4, 5.
 
-![[src_bocconi_semifinale_2013__q02.png]]
+![[src_bocconi_semifinale_2013__Q02.png]]
+
 
 **Topic:** [[topic_combinatoria|Combinatorics]], [[topic_aritmetica|Arithmetic / Number theory]]
-**Metodo:** [[method_casework|Case analysis]], [[method_conteggio|Combinatorial counting]]
+**Metodo:** [[method_casework|Case analysis]], [[method_conteggio|Combinatorial counting]], [[method_colorazione|Colouring / parity]]
 **Abilita:** [[skill_conteggio_sistematico|Systematic counting]], [[skill_lettura_attenta|Careful reading of the text]]
 **Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
-[[Quesiti/src_bocconi_semifinale_2013#q02|src_bocconi_semifinale_2013__Q02]]
 
 
-
-<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_combinatoria,topic_geometria_piana,method_casework,skill_ragionamento_geometrico,skill_stima"></span>
+<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_combinatoria,topic_geometria_piana,method_casework,method_ricorsione,skill_ragionamento_geometrico,skill_stima,skill_riconoscimento_pattern"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -104,8 +101,8 @@ level: Semifinale Campionati Internazionali di Giochi Matematici
 > Quante parti (non necessariamente della stessa forma o dello stesso peso) otterrà al massimo?
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_geometria_piana|Geometria piana]]
-**Metodo:** [[method_casework|Casework]]
-**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_stima|Stima]]
+**Metodo:** [[method_casework|Casework]], [[method_ricorsione|Ricorsione]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_stima|Stima]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 **Risposta:** 7
 **Fonte:** [apri PDF](https://drive.google.com/file/d/12Zmu1rAb6lQ8oFDFCy8dEn3VSmbyNmKz/view)
@@ -120,16 +117,15 @@ level: Semifinale Campionati Internazionali di Giochi Matematici
 >
 > What is the maximum number of pieces (not necessarily the same shape or the same weight) he will get?
 
+
 **Topic:** [[topic_combinatoria|Combinatorics]], [[topic_geometria_piana|Plane geometry]]
-**Metodo:** [[method_casework|Case analysis]]
-**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_stima|Estimation and approximation]]
+**Metodo:** [[method_casework|Case analysis]], [[method_ricorsione|Recursion]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_stima|Estimation and approximation]], [[skill_riconoscimento_pattern|Pattern recognition]]
 **Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Geometria|Geometry]]
 
-[[Quesiti/src_bocconi_semifinale_2013#q03|src_bocconi_semifinale_2013__Q03]]
 
 
-
-<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_aritmetica,topic_combinatoria,method_casework,method_conteggio,skill_lettura_attenta,skill_conteggio_sistematico"></span>
+<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_aritmetica,topic_combinatoria,method_casework,method_conteggio,skill_lettura_attenta,skill_conteggio_sistematico,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -142,7 +138,7 @@ level: Semifinale Campionati Internazionali di Giochi Matematici
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]]
-**Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 7
 **Fonte:** [apri PDF](https://drive.google.com/file/d/12Zmu1rAb6lQ8oFDFCy8dEn3VSmbyNmKz/view)
@@ -157,12 +153,11 @@ level: Semifinale Campionati Internazionali di Giochi Matematici
 >
 > How many "nice" days are there in 2013, from January 1 to December 31, inclusive of March 12?
 
+
 **Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_combinatoria|Combinatorics]]
 **Metodo:** [[method_casework|Case analysis]], [[method_conteggio|Combinatorial counting]]
-**Abilita:** [[skill_lettura_attenta|Careful reading of the text]], [[skill_conteggio_sistematico|Systematic counting]]
+**Abilita:** [[skill_lettura_attenta|Careful reading of the text]], [[skill_conteggio_sistematico|Systematic counting]], [[skill_casework_accurato|Careful case analysis]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
-
-[[Quesiti/src_bocconi_semifinale_2013#q04|src_bocconi_semifinale_2013__Q04]]
 
 
 
@@ -179,7 +174,7 @@ level: Semifinale Campionati Internazionali di Giochi Matematici
 > 
 > I tetramini in figura sono etichettati A, B, C, D, E.
 
-![[src_bocconi_semifinale_2013__q05.png]]
+![[src_bocconi_semifinale_2013__Q05.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_casework|Casework]], [[method_colorazione|Colorazione]]
@@ -200,14 +195,12 @@ level: Semifinale Campionati Internazionali di Giochi Matematici
 >
 > The tetrominoes in the figure are labeled A, B, C, D, E.
 
-![[src_bocconi_semifinale_2013__q05.png]]
+![[src_bocconi_semifinale_2013__Q05.png]]
 
 **Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_combinatoria|Combinatorics]]
 **Metodo:** [[method_casework|Case analysis]], [[method_colorazione|Colouring / parity]]
 **Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_lettura_attenta|Careful reading of the text]]
 **Area:** [[Geometria|Geometry]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
-
-[[Quesiti/src_bocconi_semifinale_2013#q05|src_bocconi_semifinale_2013__Q05]]
 
 
 
@@ -224,7 +217,7 @@ level: Semifinale Campionati Internazionali di Giochi Matematici
 > 
 > La configurazione di sinistra mostra le lettere A-I-L-A-T-I e quella di destra mostra I-T-A-L-I-A, ciascuna in una casella di una griglia orizzontale.
 
-![[src_bocconi_semifinale_2013__q06.png]]
+![[src_bocconi_semifinale_2013__Q06.png]]
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_logica|Logica]]
 **Metodo:** [[method_invarianti|Invarianti]], [[method_backward|Backward]]
@@ -245,14 +238,12 @@ level: Semifinale Campionati Internazionali di Giochi Matematici
 >
 > The left configuration shows the letters A-I-L-A-T-I, and the right configuration shows I-T-A-L-I-A, each letter in a cell of a horizontal grid.
 
-![[src_bocconi_semifinale_2013__q06.png]]
+![[src_bocconi_semifinale_2013__Q06.png]]
 
 **Topic:** [[topic_combinatoria|Combinatorics]], [[topic_logica|Logic, games, strategies]]
 **Metodo:** [[method_invarianti|Invariants / monovariants]], [[method_backward|Working backwards]]
 **Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_conteggio_sistematico|Systematic counting]]
 **Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
-
-[[Quesiti/src_bocconi_semifinale_2013#q06|src_bocconi_semifinale_2013__Q06]]
 
 
 
@@ -289,11 +280,9 @@ level: Semifinale Campionati Internazionali di Giochi Matematici
 **Abilita:** [[skill_conteggio_sistematico|Systematic counting]], [[skill_lettura_attenta|Careful reading of the text]]
 **Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
-[[Quesiti/src_bocconi_semifinale_2013#q07|src_bocconi_semifinale_2013__Q07]]
 
 
-
-<span class="atom-split" id="q08" data-atom="q08" data-title="Quesito 8" data-tags="topic_aritmetica,topic_algebra,method_casework,method_fattorizzazione,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
+<span class="atom-split" id="q08" data-atom="q08" data-title="Quesito 8" data-tags="topic_aritmetica,topic_algebra,method_casework,method_fattorizzazione,method_congruenze,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -303,7 +292,7 @@ level: Semifinale Campionati Internazionali di Giochi Matematici
 > Trovate un numero di due cifre tale che il doppio del suo contrario (il contrario di un numero è il numero stesso, scritto al contrario nel senso del disegno) sia uguale al numero iniziale aumentato di 1.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
-**Metodo:** [[method_casework|Casework]], [[method_fattorizzazione|Fattorizzazione]]
+**Metodo:** [[method_casework|Casework]], [[method_fattorizzazione|Fattorizzazione]], [[method_congruenze|Aritmetica modulare / congruenze]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 **Risposta:** 73
@@ -317,16 +306,15 @@ level: Semifinale Campionati Internazionali di Giochi Matematici
 
 > Find a two-digit number such that twice its reverse (the reverse of a number is the number itself written in reverse order in the sense of the diagram) equals the original number increased by 1.
 
+
 **Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_algebra|Algebra]]
-**Metodo:** [[method_casework|Case analysis]], [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Metodo:** [[method_casework|Case analysis]], [[method_fattorizzazione|Factorisation / algebraic manipulation]], [[method_congruenze|Modular arithmetic / congruences]]
 **Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_lettura_attenta|Careful reading of the text]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Algebra e Analisi|Algebra and analysis]]
 
-[[Quesiti/src_bocconi_semifinale_2013#q08|src_bocconi_semifinale_2013__Q08]]
 
 
-
-<span class="atom-split" id="q09" data-atom="q09" data-title="Quesito 9" data-tags="topic_aritmetica,topic_combinatoria,method_casework,method_simmetria,skill_manipolazione_algebrica,skill_conteggio_sistematico"></span>
+<span class="atom-split" id="q09" data-atom="q09" data-title="Quesito 9" data-tags="topic_aritmetica,topic_combinatoria,method_casework,method_simmetria,method_doppio_conteggio,skill_manipolazione_algebrica,skill_conteggio_sistematico"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -339,10 +327,10 @@ level: Semifinale Campionati Internazionali di Giochi Matematici
 > 
 > (In figura si vede una stella a 6 punte con un nodo centrale e nodi alle punte, dove ogni linea passante per il centro contiene 3 numeri.)
 
-![[src_bocconi_semifinale_2013__q09.png]]
+![[src_bocconi_semifinale_2013__Q09.png]]
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
-**Metodo:** [[method_casework|Casework]], [[method_simmetria|Simmetria]]
+**Metodo:** [[method_casework|Casework]], [[method_simmetria|Simmetria]], [[method_doppio_conteggio|Doppio conteggio]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** tre soluzioni: 13, 14, 15
@@ -360,18 +348,17 @@ level: Semifinale Campionati Internazionali di Giochi Matematici
 >
 > (In the figure, a six-pointed star is shown, with a central node and nodes at the points; each line passing through the center contains 3 numbers.)
 
-![[src_bocconi_semifinale_2013__q09.png]]
+![[src_bocconi_semifinale_2013__Q09.png]]
+
 
 **Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_combinatoria|Combinatorics]]
-**Metodo:** [[method_casework|Case analysis]], [[method_simmetria|Using symmetry]]
+**Metodo:** [[method_casework|Case analysis]], [[method_simmetria|Using symmetry]], [[method_doppio_conteggio|Double counting]]
 **Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_conteggio_sistematico|Systematic counting]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
-[[Quesiti/src_bocconi_semifinale_2013#q09|src_bocconi_semifinale_2013__Q09]]
 
 
-
-<span class="atom-split" id="q10" data-atom="q10" data-title="Quesito 10" data-tags="topic_geometria_piana,topic_algebra,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
+<span class="atom-split" id="q10" data-atom="q10" data-title="Quesito 10" data-tags="topic_geometria_piana,topic_algebra,method_fattorizzazione,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -383,7 +370,8 @@ level: Semifinale Campionati Internazionali di Giochi Matematici
 > Qual è il raggio di questo cerchio particolare?
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_algebra|Algebra]]
-**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta del testo]]
 **Area:** [[Geometria]], [[Algebra e Analisi]]
 **Risposta:** 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/12Zmu1rAb6lQ8oFDFCy8dEn3VSmbyNmKz/view)
@@ -398,11 +386,11 @@ level: Semifinale Campionati Internazionali di Giochi Matematici
 >
 > What is the radius of this particular circle?
 
+
 **Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
 **Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_lettura_attenta|Careful reading of the text]]
 **Area:** [[Geometria|Geometry]], [[Algebra e Analisi|Algebra and analysis]]
-
-[[Quesiti/src_bocconi_semifinale_2013#q10|src_bocconi_semifinale_2013__Q10]]
 
 
 
@@ -417,7 +405,7 @@ level: Semifinale Campionati Internazionali di Giochi Matematici
 > 
 > Trovate le misure degli angoli del piccolo triangolo grigio.
 
-![[src_bocconi_semifinale_2013__q11.png]]
+![[src_bocconi_semifinale_2013__Q11.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_simmetria|Simmetria]]
@@ -436,18 +424,16 @@ level: Semifinale Campionati Internazionali di Giochi Matematici
 >
 > Find the measures of the angles of the small grey triangle.
 
-![[src_bocconi_semifinale_2013__q11.png]]
+![[src_bocconi_semifinale_2013__Q11.png]]
 
 **Topic:** [[topic_geometria_piana|Plane geometry]]
 **Metodo:** [[method_simmetria|Using symmetry]]
 **Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
 **Area:** [[Geometria|Geometry]]
 
-[[Quesiti/src_bocconi_semifinale_2013#q11|src_bocconi_semifinale_2013__Q11]]
 
 
-
-<span class="atom-split" id="q12" data-atom="q12" data-title="Quesito 12" data-tags="topic_aritmetica,topic_algebra,method_casework,method_fattorizzazione,skill_manipolazione_algebrica,skill_conteggio_sistematico"></span>
+<span class="atom-split" id="q12" data-atom="q12" data-title="Quesito 12" data-tags="topic_aritmetica,topic_algebra,method_casework,method_fattorizzazione,skill_manipolazione_algebrica,skill_conteggio_sistematico,skill_lettura_attenta,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -459,7 +445,7 @@ level: Semifinale Campionati Internazionali di Giochi Matematici
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
 **Metodo:** [[method_casework|Casework]], [[method_fattorizzazione|Fattorizzazione]]
-**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta del testo]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 **Risposta:** due soluzioni: $124 \times 36$ e $214 \times 21$
 **Fonte:** [apri PDF](https://drive.google.com/file/d/12Zmu1rAb6lQ8oFDFCy8dEn3VSmbyNmKz/view)
@@ -473,16 +459,15 @@ level: Semifinale Campionati Internazionali di Giochi Matematici
 > Help Liliana—her calculator is faulty and only prints the digit "4"—complete the following writing by substituting appropriate digits for the symbol $*$:
 > $$\frac{* * 4 \times}{* *} = \frac{4}{4 * 4}$$
 
+
 **Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_algebra|Algebra]]
 **Metodo:** [[method_casework|Case analysis]], [[method_fattorizzazione|Factorisation / algebraic manipulation]]
-**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_conteggio_sistematico|Systematic counting]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_conteggio_sistematico|Systematic counting]], [[skill_lettura_attenta|Careful reading of the text]], [[skill_casework_accurato|Careful case analysis]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Algebra e Analisi|Algebra and analysis]]
 
-[[Quesiti/src_bocconi_semifinale_2013#q12|src_bocconi_semifinale_2013__Q12]]
 
 
-
-<span class="atom-split" id="q13" data-atom="q13" data-title="Quesito 13" data-tags="topic_aritmetica,topic_combinatoria,method_casework,method_simmetria,skill_conteggio_sistematico,skill_manipolazione_algebrica"></span>
+<span class="atom-split" id="q13" data-atom="q13" data-title="Quesito 13" data-tags="topic_aritmetica,topic_combinatoria,method_casework,method_simmetria,method_doppio_conteggio,skill_conteggio_sistematico,skill_manipolazione_algebrica,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -493,11 +478,11 @@ level: Semifinale Campionati Internazionali di Giochi Matematici
 > 
 > (In figura si vede un grafo con nodi collegati da segmenti, dove ogni tripletta allineata deve sommare a 24.)
 
-![[src_bocconi_semifinale_2013__q13.png]]
+![[src_bocconi_semifinale_2013__Q13.png]]
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
-**Metodo:** [[method_casework|Casework]], [[method_simmetria|Simmetria]]
-**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Metodo:** [[method_casework|Casework]], [[method_simmetria|Simmetria]], [[method_doppio_conteggio|Doppio conteggio]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** (vedi figura nella soluzione)
 **Fonte:** [apri PDF](https://drive.google.com/file/d/12Zmu1rAb6lQ8oFDFCy8dEn3VSmbyNmKz/view)
@@ -512,18 +497,17 @@ level: Semifinale Campionati Internazionali di Giochi Matematici
 >
 > (In the figure, a graph is shown with nodes connected by line segments, where each aligned triple must sum to 24.)
 
-![[src_bocconi_semifinale_2013__q13.png]]
+![[src_bocconi_semifinale_2013__Q13.png]]
+
 
 **Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_combinatoria|Combinatorics]]
-**Metodo:** [[method_casework|Case analysis]], [[method_simmetria|Using symmetry]]
-**Abilita:** [[skill_conteggio_sistematico|Systematic counting]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Metodo:** [[method_casework|Case analysis]], [[method_simmetria|Using symmetry]], [[method_doppio_conteggio|Double counting]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]], [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_casework_accurato|Careful case analysis]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
-[[Quesiti/src_bocconi_semifinale_2013#q13|src_bocconi_semifinale_2013__Q13]]
 
 
-
-<span class="atom-split" id="q14" data-atom="q14" data-title="Quesito 14" data-tags="topic_algebra,topic_aritmetica,method_fattorizzazione,method_casework,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
+<span class="atom-split" id="q14" data-atom="q14" data-title="Quesito 14" data-tags="topic_algebra,topic_aritmetica,method_fattorizzazione,method_casework,skill_manipolazione_algebrica,skill_lettura_attenta,skill_modellizzazione,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -536,7 +520,7 @@ level: Semifinale Campionati Internazionali di Giochi Matematici
 
 **Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_casework|Casework]]
-**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** due soluzioni: $5 \times 20$ e $6 \times 12$
 **Fonte:** [apri PDF](https://drive.google.com/file/d/12Zmu1rAb6lQ8oFDFCy8dEn3VSmbyNmKz/view)
@@ -551,16 +535,15 @@ level: Semifinale Campionati Internazionali di Giochi Matematici
 >
 > What are the dimensions of the special rectangle?
 
+
 **Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Arithmetic / Number theory]]
 **Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]], [[method_casework|Case analysis]]
-**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_lettura_attenta|Careful reading of the text]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_lettura_attenta|Careful reading of the text]], [[skill_modellizzazione|Modelling / translating the text]], [[skill_casework_accurato|Careful case analysis]]
 **Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
-[[Quesiti/src_bocconi_semifinale_2013#q14|src_bocconi_semifinale_2013__Q14]]
 
 
-
-<span class="atom-split" id="q15" data-atom="q15" data-title="Quesito 15" data-tags="topic_logica,topic_combinatoria,method_casework,method_invarianti,skill_ragionamento_geometrico,skill_lettura_attenta,skill_casework_accurato"></span>
+<span class="atom-split" id="q15" data-atom="q15" data-title="Quesito 15" data-tags="topic_logica,topic_combinatoria,method_casework,method_invarianti,method_backward,skill_ragionamento_geometrico,skill_lettura_attenta,skill_casework_accurato,skill_modellizzazione"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -574,8 +557,8 @@ level: Semifinale Campionati Internazionali di Giochi Matematici
 > Quanti sono stati i concorrenti che non hanno barato?
 
 **Topic:** [[topic_logica|Logica]], [[topic_combinatoria|Combinatoria]]
-**Metodo:** [[method_casework|Casework]], [[method_invarianti|Invarianti]]
-**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_casework_accurato|Casework accurato]]
+**Metodo:** [[method_casework|Casework]], [[method_invarianti|Invarianti]], [[method_backward|Ragionamento all'indietro]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_casework_accurato|Casework accurato]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 15
 **Fonte:** [apri PDF](https://drive.google.com/file/d/12Zmu1rAb6lQ8oFDFCy8dEn3VSmbyNmKz/view)
@@ -592,12 +575,11 @@ level: Semifinale Campionati Internazionali di Giochi Matematici
 >
 > How many competitors did not cheat?
 
-**Topic:** [[topic_logica|Logic, games, strategies]], [[topic_combinatoria|Combinatorics]]
-**Metodo:** [[method_casework|Case analysis]], [[method_invarianti|Invariants / monovariants]]
-**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_lettura_attenta|Careful reading of the text]], [[skill_casework_accurato|Careful case analysis]]
-**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
-[[Quesiti/src_bocconi_semifinale_2013#q15|src_bocconi_semifinale_2013__Q15]]
+**Topic:** [[topic_logica|Logic, games, strategies]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_casework|Case analysis]], [[method_invarianti|Invariants / monovariants]], [[method_backward|Working backwards]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_lettura_attenta|Careful reading of the text]], [[skill_casework_accurato|Careful case analysis]], [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
 
 
@@ -612,7 +594,7 @@ level: Semifinale Campionati Internazionali di Giochi Matematici
 > 
 > Trovate il rapporto tra l'area della stella bianca e l'area della stella grigia.
 
-![[src_bocconi_semifinale_2013__q16.png]]
+![[src_bocconi_semifinale_2013__Q16.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_algebra|Algebra]]
 **Metodo:** [[method_simmetria|Simmetria]], [[method_coordinate|Coordinate]]
@@ -631,11 +613,9 @@ level: Semifinale Campionati Internazionali di Giochi Matematici
 >
 > Find the ratio of the area of the white star to the area of the grey star.
 
-![[src_bocconi_semifinale_2013__q16.png]]
+![[src_bocconi_semifinale_2013__Q16.png]]
 
 **Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_algebra|Algebra]]
 **Metodo:** [[method_simmetria|Using symmetry]], [[method_coordinate|Coordinate method]]
 **Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
 **Area:** [[Geometria|Geometry]], [[Algebra e Analisi|Algebra and analysis]]
-
-[[Quesiti/src_bocconi_semifinale_2013#q16|src_bocconi_semifinale_2013__Q16]]

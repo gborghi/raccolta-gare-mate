@@ -17,7 +17,7 @@ level: kangourou
 
 *Misura dell'angolo evidenziato con tre quadrati accostati*
 
-![[src_kangourou_2022_cadet_finale__probc1.png]]
+![[src_kangourou_2022_cadet_finale__probC1.png]]
 
 ```tikz
 \begin{document}
@@ -50,7 +50,7 @@ level: kangourou
 
 *How many degrees does the highlighted angle measure?*
 
-![[src_kangourou_2022_cadet_finale__probc1.png]]
+![[src_kangourou_2022_cadet_finale__probC1.png]]
 
 > In the picture three squares appear placed side by side. How many degrees does the highlighted angle measure? (see the picture)
 
@@ -58,11 +58,10 @@ level: kangourou
 **Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
 **Area:** [[Geometria|Geometry]]
 **Answer:** 90
-[[Quesiti/src_kangourou_2022_cadet_finale#qc1|src_kangourou_2022_cadet_finale__QC1]]
 
 
 
-<span class="atom-split" id="qc2" data-atom="qc2" data-title="Quesito C2" data-tags="topic_aritmetica,topic_combinatoria,method_casework,skill_casework_accurato"></span>
+<span class="atom-split" id="qc2" data-atom="qc2" data-title="Quesito C2" data-tags="topic_aritmetica,topic_combinatoria,method_casework,method_estremalita,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -72,7 +71,7 @@ level: kangourou
 > 10 ciclisti terminano una gara con tempi di arrivo tutti diversi fra loro. Dopo qualche tempo, un giornalista chiede a ciascuno di loro di comunicargli il proprio ordine di arrivo in quella gara, ovviamente con un numero compreso fra 1 e 10. Il giornalista somma le risposte fornitegli ed ottiene 36. Ne deduce che certamente alcuni hanno mentito: quanti, almeno?
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
-**Metodo:** [[method_casework|Analisi per casi]]
+**Metodo:** [[method_casework|Analisi per casi]], [[method_estremalita|Principio di estremalita]]
 **Abilita:** [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 3
@@ -87,15 +86,14 @@ level: kangourou
 > 10 cyclists finish a race with finishing times all different from one another. Some time later, a journalist asks each of them to tell him his own finishing place in that race, of course with a number between 1 and 10. The journalist adds up the answers he is given and obtains 36. He deduces that some of them certainly lied: how many, at least?
 
 **Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_combinatoria|Combinatorics]]
-**Method:** [[method_casework|Case analysis]]
-**Skill:** [[skill_casework_accurato|Careful case analysis]]
+**Metodo:** [[method_casework|Case analysis]], [[method_estremalita|Extremal principle]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** 3
-[[Quesiti/src_kangourou_2022_cadet_finale#qc2|src_kangourou_2022_cadet_finale__QC2]]
 
 
 
-<span class="atom-split" id="qc3" data-atom="qc3" data-title="Quesito C3" data-tags="topic_geometria_solida,topic_combinatoria,method_conteggio,skill_ragionamento_geometrico"></span>
+<span class="atom-split" id="qc3" data-atom="qc3" data-title="Quesito C3" data-tags="topic_geometria_solida,topic_combinatoria,method_conteggio,skill_ragionamento_geometrico,skill_conteggio_sistematico"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -106,8 +104,8 @@ level: kangourou
 
 **Topic:** [[topic_geometria_solida|Geometria solida]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_conteggio|Conteggio combinatorio]]
-**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
-**Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Geometria]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 8
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1wbo9K2jytgSW3Apd8Ui4HwgiuetWkwYM/view)
 
@@ -120,15 +118,14 @@ level: kangourou
 > Of the triangles obtained by joining three vertices of one and the same cube, how many are equilateral?
 
 **Topic:** [[topic_geometria_solida|Solid geometry]], [[topic_combinatoria|Combinatorics]]
-**Method:** [[method_conteggio|Combinatorial counting]]
-**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
-**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Geometria|Geometry]]
+**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Geometria|Geometry]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** 8
-[[Quesiti/src_kangourou_2022_cadet_finale#qc3|src_kangourou_2022_cadet_finale__QC3]]
 
 
 
-<span class="atom-split" id="qc4" data-atom="qc4" data-title="Quesito C4" data-tags="topic_aritmetica,method_congruenze,skill_manipolazione_algebrica"></span>
+<span class="atom-split" id="qc4" data-atom="qc4" data-title="Quesito C4" data-tags="topic_aritmetica,method_congruenze,method_induzione,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -138,7 +135,7 @@ level: kangourou
 > Considera la sequenza di interi i cui primi due termini sono, nell'ordine, $1007$ e $10017$ e ogni termine successivo è ottenuto dal precedente inserendo una ulteriore cifra $1$ dopo le tre cifre iniziali $100$ (dunque $1007$, $10017$, $100117$, $1001117$, $\ldots$). Dimostra che ogni intero della sequenza è divisibile per $53$.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]]
+**Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]], [[method_induzione|Induzione]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1wbo9K2jytgSW3Apd8Ui4HwgiuetWkwYM/view)
@@ -152,14 +149,13 @@ level: kangourou
 > Consider the sequence of integers whose first two terms are, in order, $1007$ and $10017$, and every later term is obtained from the previous one by inserting one further digit $1$ after the three initial digits $100$ (so $1007$, $10017$, $100117$, $1001117$, $\ldots$). Prove that every integer of the sequence is divisible by $53$.
 
 **Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
-**Method:** [[method_congruenze|Modular arithmetic / congruences]]
-**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]], [[method_induzione|Induction]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
-[[Quesiti/src_kangourou_2022_cadet_finale#qc4|src_kangourou_2022_cadet_finale__QC4]]
 
 
 
-<span class="atom-split" id="qc5" data-atom="qc5" data-title="Quesito C5" data-tags="topic_combinatoria,method_grafi,skill_astrazione"></span>
+<span class="atom-split" id="qc5" data-atom="qc5" data-title="Quesito C5" data-tags="topic_combinatoria,method_grafi,method_doppio_conteggio,skill_astrazione"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -169,7 +165,7 @@ level: kangourou
 > Per allenarsi, i 12 giocatori di una squadra di pallacanestro ogni giorno si ripartiscono in due squadre, ciascuna di 6 giocatori, che disputano una partita una contro l'altra. Qual è il minimo numero di partite che consente a ciascun giocatore di disputare almeno un incontro nella stessa squadra con ognuno degli altri?
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
-**Metodo:** [[method_grafi|Teoria dei grafi]]
+**Metodo:** [[method_grafi|Teoria dei grafi]], [[method_doppio_conteggio|Doppio conteggio]]
 **Abilita:** [[skill_astrazione|Astrazione / generalizzazione]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 3
@@ -184,11 +180,10 @@ level: kangourou
 > To train, the 12 players of a basketball team split each day into two teams, each of 6 players, who play a match against each other. What is the least number of matches that lets each player play at least one match on the same team as every other player?
 
 **Topic:** [[topic_combinatoria|Combinatorics]]
-**Method:** [[method_grafi|Graph theory]]
-**Skill:** [[skill_astrazione|Abstraction / generalisation]]
+**Metodo:** [[method_grafi|Graph theory]], [[method_doppio_conteggio|Double counting]]
+**Abilita:** [[skill_astrazione|Abstraction / generalisation]]
 **Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** 3
-[[Quesiti/src_kangourou_2022_cadet_finale#qc5|src_kangourou_2022_cadet_finale__QC5]]
 
 
 
@@ -221,4 +216,3 @@ level: kangourou
 **Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Answer:** 27
-[[Quesiti/src_kangourou_2022_cadet_finale#qc6|src_kangourou_2022_cadet_finale__QC6]]

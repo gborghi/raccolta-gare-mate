@@ -42,8 +42,6 @@ level: Olimpiade Polacca Round 3
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]]
 **Area:** [[Algebra e Analisi]]
 
-[[Quesiti/src_pol_1972_r3#q01|src_pol_1972_r3__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_geometria_piana,topic_combinatoria,method_estremalita,skill_ragionamento_geometrico,skill_astrazione"></span>
@@ -74,11 +72,9 @@ level: Olimpiade Polacca Round 3
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_astrazione|Astrazione]]
 **Area:** [[Geometria]], [[Combinatoria, Logica e Probabilita]]
 
-[[Quesiti/src_pol_1972_r3#q02|src_pol_1972_r3__Q02]]
 
 
-
-<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_algebra,skill_manipolazione_algebrica,skill_stima"></span>
+<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_algebra,method_fattorizzazione,skill_manipolazione_algebrica,skill_stima"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -88,8 +84,9 @@ level: Olimpiade Polacca Round 3
 > Prove that there is a polynomial $P(x)$ with integer coefficients such that for all $x$ in the interval $\left[\frac{1}{10}, \frac{2}{10}\right]$ we have $\left|P(x) - \frac{1}{2}\right| < \frac{1}{1000}$.
 
 **Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]]
-**Area:** [[Algebra e Analisi]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1u10PZn1Xtd_4pvaqg5qH_EntPwiPBjmg/view)
 
 
@@ -100,11 +97,11 @@ level: Olimpiade Polacca Round 3
 
 > Dimostrare che esiste un polinomio $P(x)$ a coefficienti interi tale che, per ogni $x$ nell'intervallo $\left[\frac{1}{10}, \frac{2}{10}\right]$, si ha $\left|P(x) - \frac{1}{2}\right| < \frac{1}{1000}$.
 
+
 **Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]]
 **Area:** [[Algebra e Analisi]]
-
-[[Quesiti/src_pol_1972_r3#q03|src_pol_1972_r3__Q03]]
 
 
 
@@ -136,11 +133,9 @@ level: Olimpiade Polacca Round 3
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]]
 
-[[Quesiti/src_pol_1972_r3#q04|src_pol_1972_r3__Q04]]
 
 
-
-<span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_combinatoria,topic_insiemi_funzioni,method_induzione,method_bigezione,skill_conteggio_sistematico,skill_astrazione"></span>
+<span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_combinatoria,topic_insiemi_funzioni,method_induzione,method_bigezione,method_ricorsione,skill_conteggio_sistematico,skill_astrazione"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -150,9 +145,9 @@ level: Olimpiade Polacca Round 3
 > Prove that all subsets of a finite set can be arranged in a sequence in which every two successive subsets differ in exactly one element.
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_insiemi_funzioni|Insiemi e funzioni]]
-**Metodo:** [[method_induzione|Induzione]], [[method_bigezione|Biiezione]]
+**Metodo:** [[method_induzione|Induzione]], [[method_bigezione|Biiezione]], [[method_ricorsione|Recursion]]
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_astrazione|Astrazione]]
-**Area:** [[Combinatoria, Logica e Probabilita]], [[Algebra e Analisi]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Algebra e Analisi|Algebra and analysis]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1u10PZn1Xtd_4pvaqg5qH_EntPwiPBjmg/view)
 
 
@@ -163,12 +158,11 @@ level: Olimpiade Polacca Round 3
 
 > Dimostrare che tutti i sottoinsiemi di un insieme finito possono essere disposti in una successione in cui ogni due sottoinsiemi consecutivi differiscono per esattamente un elemento.
 
+
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_insiemi_funzioni|Insiemi e funzioni]]
-**Metodo:** [[method_induzione|Induzione]], [[method_bigezione|Biiezione]]
+**Metodo:** [[method_induzione|Induzione]], [[method_bigezione|Biiezione]], [[method_ricorsione|Ricorsione]]
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_astrazione|Astrazione]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Algebra e Analisi]]
-
-[[Quesiti/src_pol_1972_r3#q05|src_pol_1972_r3__Q05]]
 
 
 
@@ -199,5 +193,3 @@ level: Olimpiade Polacca Round 3
 **Metodo:** [[method_congruenze|Congruenze]], [[method_estremalita|Estremalità]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
-
-[[Quesiti/src_pol_1972_r3#q06|src_pol_1972_r3__Q06]]

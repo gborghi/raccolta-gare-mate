@@ -10,7 +10,7 @@ level: China Mathematical Competition
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_trigonometria,topic_algebra,method_fattorizzazione,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_trigonometria,topic_algebra,method_fattorizzazione,method_trigonometria,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -22,9 +22,9 @@ level: China Mathematical Competition
 > (A) $\dfrac{\pi}{6}$ \quad (B) $\dfrac{\pi}{12}$ \quad (C) $\dfrac{5\pi}{6}$ \quad (D) $\dfrac{5\pi}{12}$
 
 **Topic:** [[topic_trigonometria|Trigonometria]], [[topic_algebra|Algebra]]
-**Metodo:** [[method_fattorizzazione|Fattorizzazione]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_trigonometria|Trigonometric techniques]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
-**Area:** [[Geometria]], [[Algebra e Analisi]]
+**Area:** [[Geometria|Geometry]], [[Algebra e Analisi|Algebra and analysis]]
 **Risposta:** B
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1Bie5BlTQQyjdGifDyOeZ-kZzNFzUwbxT/view)
 
@@ -38,16 +38,15 @@ level: China Mathematical Competition
 >
 > (A) $\dfrac{\pi}{6}$ \quad (B) $\dfrac{\pi}{12}$ \quad (C) $\dfrac{5\pi}{6}$ \quad (D) $\dfrac{5\pi}{12}$
 
+
 **Topic:** [[topic_trigonometria|Trigonometria]], [[topic_algebra|Algebra]]
-**Metodo:** [[method_fattorizzazione|Fattorizzazione]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_trigonometria|Tecniche trigonometriche]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Geometria]], [[Algebra e Analisi]]
 
-[[Quesiti/src_cn_cmc_2004#q01|src_cn_cmc_2004__Q01]]
 
 
-
-<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_geometria_analitica,topic_algebra,method_coordinate,method_casework,skill_manipolazione_algebrica,skill_ragionamento_geometrico"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_geometria_analitica,topic_algebra,method_coordinate,method_casework,method_disuguaglianze,skill_manipolazione_algebrica,skill_ragionamento_geometrico"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -59,9 +58,9 @@ level: China Mathematical Competition
 > (A) $\left[-\dfrac{\sqrt{6}}{2},\, \dfrac{\sqrt{6}}{2}\right]$ \quad (B) $\left(-\dfrac{\sqrt{6}}{2},\, \dfrac{\sqrt{6}}{2}\right)$ \quad (C) $\left(-\dfrac{\sqrt{6}}{2},\, \dfrac{\sqrt{6}}{2}\right]$ \quad (D) $\left[-\dfrac{2\sqrt{3}}{3},\, \dfrac{2\sqrt{3}}{3}\right]$
 
 **Topic:** [[topic_geometria_analitica|Geometria analitica]], [[topic_algebra|Algebra]]
-**Metodo:** [[method_coordinate|Coordinate]], [[method_casework|Casework]]
+**Metodo:** [[method_coordinate|Coordinate]], [[method_casework|Casework]], [[method_disuguaglianze|Classical inequalities]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
-**Area:** [[Geometria]], [[Algebra e Analisi]]
+**Area:** [[Geometria|Geometry]], [[Algebra e Analisi|Algebra and analysis]]
 **Risposta:** A
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1Bie5BlTQQyjdGifDyOeZ-kZzNFzUwbxT/view)
 
@@ -75,16 +74,15 @@ level: China Mathematical Competition
 >
 > (A) $\left[-\dfrac{\sqrt{6}}{2},\, \dfrac{\sqrt{6}}{2}\right]$ \quad (B) $\left(-\dfrac{\sqrt{6}}{2},\, \dfrac{\sqrt{6}}{2}\right)$ \quad (C) $\left(-\dfrac{\sqrt{6}}{2},\, \dfrac{\sqrt{6}}{2}\right]$ \quad (D) $\left[-\dfrac{2\sqrt{3}}{3},\, \dfrac{2\sqrt{3}}{3}\right]$
 
+
 **Topic:** [[topic_geometria_analitica|Geometria analitica]], [[topic_algebra|Algebra]]
-**Metodo:** [[method_coordinate|Coordinate]], [[method_casework|Casework]]
+**Metodo:** [[method_coordinate|Coordinate]], [[method_casework|Casework]], [[method_disuguaglianze|Disuguaglianze classiche]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]], [[Algebra e Analisi]]
 
-[[Quesiti/src_cn_cmc_2004#q02|src_cn_cmc_2004__Q02]]
 
 
-
-<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_algebra,topic_insiemi_funzioni,method_casework,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
+<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_algebra,topic_insiemi_funzioni,method_casework,skill_manipolazione_algebrica,skill_lettura_attenta,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -97,8 +95,8 @@ level: China Mathematical Competition
 
 **Topic:** [[topic_algebra|Algebra]], [[topic_insiemi_funzioni|Insiemi e funzioni]]
 **Metodo:** [[method_casework|Casework]]
-**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
-**Area:** [[Algebra e Analisi]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
 **Risposta:** C
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1Bie5BlTQQyjdGifDyOeZ-kZzNFzUwbxT/view)
 
@@ -112,12 +110,11 @@ level: China Mathematical Competition
 >
 > (A) $[2,\, 3)$ \quad (B) $(2,\, 3]$ \quad (C) $[2,\, 4)$ \quad (D) $(2,\, 4]$
 
+
 **Topic:** [[topic_algebra|Algebra]], [[topic_insiemi_funzioni|Insiemi e funzioni]]
 **Metodo:** [[method_casework|Casework]]
-**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Algebra e Analisi]]
-
-[[Quesiti/src_cn_cmc_2004#q03|src_cn_cmc_2004__Q03]]
 
 
 
@@ -154,11 +151,9 @@ level: China Mathematical Competition
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]], [[Algebra e Analisi]]
 
-[[Quesiti/src_cn_cmc_2004#q04|src_cn_cmc_2004__Q04]]
 
 
-
-<span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_combinatoria,topic_aritmetica,method_casework,method_conteggio,skill_conteggio_sistematico,skill_casework_accurato"></span>
+<span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_combinatoria,topic_aritmetica,topic_geometria_piana,method_casework,method_conteggio,skill_conteggio_sistematico,skill_casework_accurato,skill_modellizzazione"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -169,10 +164,10 @@ level: China Mathematical Competition
 > 
 > (A) $45$ \quad (B) $81$ \quad (C) $165$ \quad (D) $216$
 
-**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_geometria_piana|Plane geometry]]
 **Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]]
-**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]]
-**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]], [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Geometria|Geometry]]
 **Risposta:** C
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1Bie5BlTQQyjdGifDyOeZ-kZzNFzUwbxT/view)
 
@@ -186,16 +181,15 @@ level: China Mathematical Competition
 >
 > (A) $45$ \quad (B) $81$ \quad (C) $165$ \quad (D) $216$
 
-**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]]
-**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]]
-**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
-
-[[Quesiti/src_cn_cmc_2004#q05|src_cn_cmc_2004__Q05]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]], [[Geometria]]
 
 
 
-<span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_geometria_solida,method_coordinate,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
+<span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_geometria_solida,topic_geometria_piana,method_coordinate,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -206,12 +200,12 @@ level: China Mathematical Competition
 > 
 > (A) $\dfrac{\sqrt{5}}{2}$ \quad (B) $\dfrac{\sqrt{3}}{2}$ \quad (C) $\dfrac{2\sqrt{5}}{3}$ \quad (D) $\dfrac{2\sqrt{6}}{3}$
 
-![[src_cn_cmc_2004__q06.png]]
+![[src_cn_cmc_2004__Q06.png]]
 
-**Topic:** [[topic_geometria_solida|Geometria solida]]
+**Topic:** [[topic_geometria_solida|Geometria solida]], [[topic_geometria_piana|Plane geometry]]
 **Metodo:** [[method_coordinate|Coordinate]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
-**Area:** [[Geometria]]
+**Area:** [[Geometria|Geometry]]
 **Risposta:** D
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1Bie5BlTQQyjdGifDyOeZ-kZzNFzUwbxT/view)
 
@@ -225,18 +219,17 @@ level: China Mathematical Competition
 >
 > (A) $\dfrac{\sqrt{5}}{2}$ \quad (B) $\dfrac{\sqrt{3}}{2}$ \quad (C) $\dfrac{2\sqrt{5}}{3}$ \quad (D) $\dfrac{2\sqrt{6}}{3}$
 
-![[src_cn_cmc_2004__q06.png]]
+![[src_cn_cmc_2004__Q06.png]]
 
-**Topic:** [[topic_geometria_solida|Geometria solida]]
+
+**Topic:** [[topic_geometria_solida|Geometria solida]], [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_coordinate|Coordinate]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 
-[[Quesiti/src_cn_cmc_2004#q06|src_cn_cmc_2004__Q06]]
 
 
-
-<span class="atom-split" id="q07" data-atom="q07" data-title="Quesito 7" data-tags="topic_trigonometria,topic_insiemi_funzioni,method_simmetria,skill_manipolazione_algebrica,skill_ragionamento_geometrico"></span>
+<span class="atom-split" id="q07" data-atom="q07" data-title="Quesito 7" data-tags="topic_trigonometria,topic_insiemi_funzioni,method_simmetria,method_trigonometria,skill_manipolazione_algebrica,skill_ragionamento_geometrico,skill_riconoscimento_pattern"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -246,9 +239,9 @@ level: China Mathematical Competition
 > In a planar rectangular system $xOy$, the area enclosed by the graphs of the function $f(x) = a\sin x + \cos x$ $(a > 0)$ defined on an interval with the least positive period and by the graph of the function $g(x) = \sqrt{a^2 + 1}$ is ___.
 
 **Topic:** [[topic_trigonometria|Trigonometria]], [[topic_insiemi_funzioni|Insiemi e funzioni]]
-**Metodo:** [[method_simmetria|Simmetria]]
-**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
-**Area:** [[Geometria]], [[Algebra e Analisi]]
+**Metodo:** [[method_simmetria|Simmetria]], [[method_trigonometria|Trigonometric techniques]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Geometria|Geometry]], [[Algebra e Analisi|Algebra and analysis]]
 **Risposta:** $4\pi$
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1Bie5BlTQQyjdGifDyOeZ-kZzNFzUwbxT/view)
 
@@ -260,12 +253,11 @@ level: China Mathematical Competition
 
 > In un sistema rettangolare planare $xOy$, l'area delimitata dai grafici della funzione $f(x) = a\sin x + \cos x$ $(a > 0)$ definita su un intervallo con il minimo periodo positivo e dal grafico della funzione $g(x) = \sqrt{a^2 + 1}$ è ___.
 
-**Topic:** [[topic_trigonometria|Trigonometria]], [[topic_insiemi_funzioni|Insiemi e funzioni]]
-**Metodo:** [[method_simmetria|Simmetria]]
-**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
-**Area:** [[Geometria]], [[Algebra e Analisi]]
 
-[[Quesiti/src_cn_cmc_2004#q07|src_cn_cmc_2004__Q07]]
+**Topic:** [[topic_trigonometria|Trigonometria]], [[topic_insiemi_funzioni|Insiemi e funzioni]]
+**Metodo:** [[method_simmetria|Simmetria]], [[method_trigonometria|Tecniche trigonometriche]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Geometria]], [[Algebra e Analisi]]
 
 
 
@@ -302,11 +294,9 @@ level: China Mathematical Competition
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Algebra e Analisi]]
 
-[[Quesiti/src_cn_cmc_2004#q08|src_cn_cmc_2004__Q08]]
 
 
-
-<span class="atom-split" id="q09" data-atom="q09" data-title="Quesito 9" data-tags="topic_geometria_solida,method_coordinate,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
+<span class="atom-split" id="q09" data-atom="q09" data-title="Quesito 9" data-tags="topic_geometria_solida,topic_trigonometria,method_coordinate,method_trigonometria,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -315,12 +305,12 @@ level: China Mathematical Competition
 
 > In the diagram, $ABCD$-$A_1B_1C_1D_1$ is a cube. Draw line segments $\overline{D_1C}$ and $\overline{D_1B}$. Draw $CE$ such that $CE \perp D_1B$ and $CE$ intersects $\overline{D_1B}$ at $F$. $AE$ intersects $\overline{D_1B}$ at $G$. The dihedral angle $A$-$BD_1$-$A_1$ in degrees is ___.
 
-![[src_cn_cmc_2004__q09.png]]
+![[src_cn_cmc_2004__Q09.png]]
 
-**Topic:** [[topic_geometria_solida|Geometria solida]]
-**Metodo:** [[method_coordinate|Coordinate]]
+**Topic:** [[topic_geometria_solida|Geometria solida]], [[topic_trigonometria|Trigonometry]]
+**Metodo:** [[method_coordinate|Coordinate]], [[method_trigonometria|Trigonometric techniques]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
-**Area:** [[Geometria]]
+**Area:** [[Geometria|Geometry]]
 **Risposta:** $120^\circ$
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1Bie5BlTQQyjdGifDyOeZ-kZzNFzUwbxT/view)
 
@@ -332,14 +322,13 @@ level: China Mathematical Competition
 
 > Nel diagramma, $ABCD$-$A_1B_1C_1D_1$ è un cubo. Traccia i segmenti di retta $\overline{D_1C}$ e $\overline{D_1B}$. Traccia $CE$ in modo che $CE \perp D_1B$ e $CE$ intersecano $\overline{D_1B}$ in $F$. $AE$ interseca $\overline{D_1B}$ in $G$. L'angolo diedro $A$-$BD_1$-$A_1$, in gradi, è ___.
 
-![[src_cn_cmc_2004__q09.png]]
+![[src_cn_cmc_2004__Q09.png]]
 
-**Topic:** [[topic_geometria_solida|Geometria solida]]
-**Metodo:** [[method_coordinate|Coordinate]]
+
+**Topic:** [[topic_geometria_solida|Geometria solida]], [[topic_trigonometria|Trigonometria]]
+**Metodo:** [[method_coordinate|Coordinate]], [[method_trigonometria|Tecniche trigonometriche]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
-
-[[Quesiti/src_cn_cmc_2004#q09|src_cn_cmc_2004__Q09]]
 
 
 
@@ -372,11 +361,9 @@ level: China Mathematical Competition
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 
-[[Quesiti/src_cn_cmc_2004#q10|src_cn_cmc_2004__Q10]]
 
 
-
-<span class="atom-split" id="q11" data-atom="q11" data-title="Quesito 11" data-tags="topic_algebra,method_telescoping,method_ricorsione,skill_manipolazione_algebrica,skill_riconoscimento_pattern"></span>
+<span class="atom-split" id="q11" data-atom="q11" data-title="Quesito 11" data-tags="topic_algebra,topic_funzionali,method_telescoping,method_ricorsione,skill_manipolazione_algebrica,skill_riconoscimento_pattern"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -385,10 +372,10 @@ level: China Mathematical Competition
 
 > Let $a_0,\, a_1,\, a_2,\, \cdots,\, a_n,\, \cdots$ be a sequence of numbers satisfying $(3 - a_{n+1}) \cdot (6 + a_n) = 18$ and $a_0 = 3$. Then $\displaystyle\sum_{i=0}^{n} \frac{1}{a_i}$ equals ___.
 
-**Topic:** [[topic_algebra|Algebra]]
+**Topic:** [[topic_algebra|Algebra]], [[topic_funzionali|Functional equations / sequences]]
 **Metodo:** [[method_telescoping|Telescoping]], [[method_ricorsione|Ricorsione]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
-**Area:** [[Algebra e Analisi]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
 **Risposta:** $\dfrac{1}{3}\left[2(2^{n+1}-1) - (n+1)\right]$
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1Bie5BlTQQyjdGifDyOeZ-kZzNFzUwbxT/view)
 
@@ -400,12 +387,11 @@ level: China Mathematical Competition
 
 > Sia $a_0,\, a_1,\, a_2,\, \cdots,\, a_n,\, \cdots$ una successione di numeri che soddisfa $(3 - a_{n+1}) \cdot (6 + a_n) = 18$ e $a_0 = 3$. Allora $\displaystyle\sum_{i=0}^{n} \frac{1}{a_i}$ è uguale a ___.
 
-**Topic:** [[topic_algebra|Algebra]]
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_funzionali|Equazioni funzionali / successioni]]
 **Metodo:** [[method_telescoping|Telescoping]], [[method_ricorsione|Ricorsione]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Algebra e Analisi]]
-
-[[Quesiti/src_cn_cmc_2004#q11|src_cn_cmc_2004__Q11]]
 
 
 
@@ -437,8 +423,6 @@ level: China Mathematical Competition
 **Metodo:** [[method_coordinate|Coordinate]], [[method_estremalita|Estremalità]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
-
-[[Quesiti/src_cn_cmc_2004#q12|src_cn_cmc_2004__Q12]]
 
 
 
@@ -478,11 +462,9 @@ level: China Mathematical Competition
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 
-[[Quesiti/src_cn_cmc_2004#q13|src_cn_cmc_2004__Q13]]
 
 
-
-<span class="atom-split" id="q14" data-atom="q14" data-title="Quesito 14" data-tags="topic_geometria_analitica,topic_geometria_piana,method_coordinate,method_casework,skill_ragionamento_geometrico,skill_manipolazione_algebrica,skill_modellizzazione"></span>
+<span class="atom-split" id="q14" data-atom="q14" data-title="Quesito 14" data-tags="topic_geometria_analitica,topic_geometria_piana,method_coordinate,method_casework,method_simmetria,skill_ragionamento_geometrico,skill_manipolazione_algebrica,skill_modellizzazione"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -496,9 +478,9 @@ level: China Mathematical Competition
 > (2) If line $L$ passes through the incentre (say, $D$) of $\triangle ABC$ and has exactly 3 common points with the locus of point $P$, determine all values of the slope $k$ of line $L$.
 
 **Topic:** [[topic_geometria_analitica|Geometria analitica]], [[topic_geometria_piana|Geometria piana]]
-**Metodo:** [[method_coordinate|Coordinate]], [[method_casework|Casework]]
+**Metodo:** [[method_coordinate|Coordinate]], [[method_casework|Casework]], [[method_simmetria|Using symmetry]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]]
-**Area:** [[Geometria]]
+**Area:** [[Geometria|Geometry]]
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1Bie5BlTQQyjdGifDyOeZ-kZzNFzUwbxT/view)
 
 
@@ -513,16 +495,15 @@ level: China Mathematical Competition
 >
 > (2) Se la retta $L$ passa per l'incentro (sia esso $D$) di $\triangle ABC$ e ha esattamente 3 punti comuni con il luogo geometrico del punto $P$, determinare tutti i valori del coefficiente angolare $k$ della retta $L$.
 
+
 **Topic:** [[topic_geometria_analitica|Geometria analitica]], [[topic_geometria_piana|Geometria piana]]
-**Metodo:** [[method_coordinate|Coordinate]], [[method_casework|Casework]]
+**Metodo:** [[method_coordinate|Coordinate]], [[method_casework|Casework]], [[method_simmetria|Sfruttamento della simmetria]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]]
 **Area:** [[Geometria]]
 
-[[Quesiti/src_cn_cmc_2004#q14|src_cn_cmc_2004__Q14]]
 
 
-
-<span class="atom-split" id="q15" data-atom="q15" data-title="Quesito 15" data-tags="topic_algebra,topic_trigonometria,topic_disuguaglianze,method_estremalita,method_disuguaglianze,method_trigonometria,skill_manipolazione_algebrica,skill_stima,skill_ragionamento_geometrico"></span>
+<span class="atom-split" id="q15" data-atom="q15" data-title="Quesito 15" data-tags="topic_algebra,topic_trigonometria,topic_disuguaglianze,topic_insiemi_funzioni,method_estremalita,method_disuguaglianze,method_trigonometria,skill_manipolazione_algebrica,skill_stima,skill_ragionamento_geometrico"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -536,10 +517,10 @@ level: China Mathematical Competition
 > (2) Prove that for $u_i \in \left(0,\, \dfrac{\pi}{2}\right)$ ($i = 1,\, 2,\, 3$), if $\sin u_1 + \sin u_2 + \sin u_3 = 1$, then
 > $$\frac{1}{g(\tan u_1)} + \frac{1}{g(\tan u_2)} + \frac{1}{g(\tan u_3)} < \frac{3}{4}\sqrt{6}.$$
 
-**Topic:** [[topic_algebra|Algebra]], [[topic_trigonometria|Trigonometria]], [[topic_disuguaglianze|Disuguaglianze]]
+**Topic:** [[topic_algebra|Algebra]], [[topic_trigonometria|Trigonometria]], [[topic_disuguaglianze|Disuguaglianze]], [[topic_insiemi_funzioni|Sets and functions]]
 **Metodo:** [[method_estremalita|Estremalità]], [[method_disuguaglianze|Disuguaglianze]], [[method_trigonometria|Trigonometria]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
-**Area:** [[Algebra e Analisi]], [[Geometria]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Geometria|Geometry]]
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1Bie5BlTQQyjdGifDyOeZ-kZzNFzUwbxT/view)
 
 
@@ -555,9 +536,8 @@ level: China Mathematical Competition
 > (2) Dimostrare che, per $u_i \in \left(0,\, \dfrac{\pi}{2}\right)$ ($i = 1,\, 2,\, 3$), se $\sin u_1 + \sin u_2 + \sin u_3 = 1$, allora
 > $$\frac{1}{g(\tan u_1)} + \frac{1}{g(\tan u_2)} + \frac{1}{g(\tan u_3)} < \frac{3}{4}\sqrt{6}.$$
 
-**Topic:** [[topic_algebra|Algebra]], [[topic_trigonometria|Trigonometria]], [[topic_disuguaglianze|Disuguaglianze]]
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_trigonometria|Trigonometria]], [[topic_disuguaglianze|Disuguaglianze]], [[topic_insiemi_funzioni|Insiemi e funzioni]]
 **Metodo:** [[method_estremalita|Estremalità]], [[method_disuguaglianze|Disuguaglianze]], [[method_trigonometria|Trigonometria]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Algebra e Analisi]], [[Geometria]]
-
-[[Quesiti/src_cn_cmc_2004#q15|src_cn_cmc_2004__Q15]]

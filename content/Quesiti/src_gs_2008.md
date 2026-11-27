@@ -10,7 +10,7 @@ level: squadre
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_algebra,skill_manipolazione_algebrica"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_algebra,method_backward,skill_manipolazione_algebrica,skill_modellizzazione"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -29,7 +29,8 @@ level: squadre
 > Quanto è costato, in centesimi di euro, il pasto più caro?
 
 **Topic:** [[topic_algebra|Algebra]]
-**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Metodo:** [[method_backward|Ragionamento all'indietro]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1jq4eULd2vApX_sKjUmlSdExuIjvhEcyU/view)
 
@@ -42,15 +43,15 @@ level: squadre
 > The Lunch of the Horsemen of the Apocalypse
 > (points 20) The Four Horsemen of the Apocalypse—Famine, War, Death, and Pollution (Plague resigned in 1936 after the invention of penicillin)—are about to eat together when Death realizes he has no money. The others decide to each give him the same amount of money. So Famine gives Death a fifth of the money he has in his pocket; War gives him a quarter of the money he has in his pocket; and Pollution gives him a third of what he has. After each of them has paid for their own meal, they realize they've been lucky because they've all ended up with no money: the one who paid the least of the four paid 6.80. In cents of euro, how much did the most expensive meal cost?
 
+
 **Topic:** [[topic_algebra|Algebra]]
-**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Metodo:** [[method_backward|Working backwards]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_modellizzazione|Modelling / translating the text]]
 **Area:** [[Algebra e Analisi|Algebra and analysis]]
 
-[[Quesiti/src_gs_2008#q01|src_gs_2008__Q01]]
 
 
-
-<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_algebra,method_inclusione_esclusione"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_algebra,topic_insiemi_funzioni,method_inclusione_esclusione,skill_modellizzazione,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -64,8 +65,9 @@ level: squadre
 > di almeno uno dei due cori sono 7869.
 > Quanti sono i membri del coro degli atlantidi?
 
-**Topic:** [[topic_algebra|Algebra]]
+**Topic:** [[topic_algebra|Algebra]], [[topic_insiemi_funzioni|Insiemi e funzioni]]
 **Metodo:** [[method_inclusione_esclusione|Inclusione-esclusione]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1jq4eULd2vApX_sKjUmlSdExuIjvhEcyU/view)
 
@@ -78,15 +80,15 @@ level: squadre
 > The Two Choirs
 > (Point 20) 30% of the members of the Tibetan choir are also members of the Atlantean choir; 80% of the members of the Atlantean choir are also members of the Tibetan choir. There are 7869 people who are members of at least one of the two choirs. How many members are there in the Atlantean choir?
 
-**Topic:** [[topic_algebra|Algebra]]
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_insiemi_funzioni|Sets and functions]]
 **Metodo:** [[method_inclusione_esclusione|Inclusion–exclusion]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
 **Area:** [[Algebra e Analisi|Algebra and analysis]]
 
-[[Quesiti/src_gs_2008#q02|src_gs_2008__Q02]]
 
 
-
-<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_aritmetica,method_casework"></span>
+<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_aritmetica,method_casework,method_congruenze,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -103,7 +105,8 @@ level: squadre
 > Qual è il più grande dei due?
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_casework|Analisi per casi]]
+**Metodo:** [[method_casework|Analisi per casi]], [[method_congruenze|Aritmetica modulare / congruenze]]
+**Abilita:** [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1jq4eULd2vApX_sKjUmlSdExuIjvhEcyU/view)
 
@@ -116,15 +119,15 @@ level: squadre
 > The Numbers of the Apocalypse
 > (points 20) Metatron had announced the two numbers of the Apocalypse; Aziraphale, the angel of expulsion, had written them on a sheet of paper, but Crowley, the devil of the apple, had made them vanish at once. When the two realize that it is advisable to know them in order to prevent the Apocalypse from happening, Aziraphale understands that he can retrieve them, because Metatron, in one of his usual bouts of logorrheic excess, had explained to him that they were two four-digit numbers, each written using the digits 2, 4, 5, and 7 exactly once, and that one was a multiple of the other. Which of the two is the larger?
 
+
 **Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
-**Metodo:** [[method_casework|Case analysis]]
+**Metodo:** [[method_casework|Case analysis]], [[method_congruenze|Modular arithmetic / congruences]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
-[[Quesiti/src_gs_2008#q03|src_gs_2008__Q03]]
 
 
-
-<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_combinatoria,method_estremalita"></span>
+<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_combinatoria,method_estremalita,skill_modellizzazione"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -142,6 +145,7 @@ level: squadre
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_estremalita|Principio di estremalita]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1jq4eULd2vApX_sKjUmlSdExuIjvhEcyU/view)
 
@@ -154,15 +158,15 @@ level: squadre
 > The Stones of the Underworld
 > (Point 25) Ligur, the head of the underground quarry, must have 100 tonnes of stones, each weighing less than 1 tonne, transported from the quarry to a storage depot. He has only one truck with a maximum load capacity of 1 tonne. The truck is always operated at its maximum load—that is, on each trip, no additional stone can be added without exceeding the maximum load capacity. What is the maximum possible number of trips from the quarry to the depot that the truck will have to make to transport all the stones?
 
+
 **Topic:** [[topic_combinatoria|Combinatorics]]
 **Metodo:** [[method_estremalita|Extremal principle]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
 **Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
-[[Quesiti/src_gs_2008#q04|src_gs_2008__Q04]]
 
 
-
-<span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_algebra,skill_modellizzazione"></span>
+<span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_algebra,skill_modellizzazione,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -180,7 +184,7 @@ level: squadre
 > Gara a squadre – Testi dei problemi – Pag. 1 di 5
 
 **Topic:** [[topic_algebra|Algebra]]
-**Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1jq4eULd2vApX_sKjUmlSdExuIjvhEcyU/view)
 
@@ -194,15 +198,14 @@ level: squadre
 > (points 25) The recipe for the cocktail Crowley is about to drink calls for using 2 parts of a spirit at 45 degrees, 1 part of a liqueur at 40 degrees, and 1 part of juice at 0 degrees. What is the alcohol strength of the cocktail? Provide the solution by writing the alcohol strength multiplied by 10. [N.B. Recall that alcohol strength is the ratio, multiplied by 100, of the volume of pure alcohol to the total volume of the liquid.]
 > Team Competition – Problem Statements – Page 1 of 5
 
+
 **Topic:** [[topic_algebra|Algebra]]
-**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
 **Area:** [[Algebra e Analisi|Algebra and analysis]]
 
-[[Quesiti/src_gs_2008#q05|src_gs_2008__Q05]]
 
 
-
-<span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_logica,method_casework"></span>
+<span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_logica,method_casework,skill_casework_accurato,skill_lettura_attenta"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -226,6 +229,7 @@ level: squadre
 
 **Topic:** [[topic_logica|Logica, giochi, strategie]]
 **Metodo:** [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_lettura_attenta|Lettura attenta del testo]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1jq4eULd2vApX_sKjUmlSdExuIjvhEcyU/view)
 
@@ -238,15 +242,15 @@ level: squadre
 > At Tadfield Zoo, I
 > (points 25) In the zoo of Tadfield, the cheerful little town where the Apocalypse will begin, there are five monkeys named Alberto, Berto, Certo, Derto, and Erto. Sylvier, the zoo curator, has taught the monkeys to wear T-shirts. The monkeys really like showing off their new skill, but none of them would ever wear a T-shirt in a color they detest: Alberto detests red and blue, Berto detests green; Certo detests red and green, Derto detests red, and Erto hates blue and green. Sylvier is unaware of their color aversions: they bought yellow, blue, green, and red T-shirts and left them in the monkeys' playroom, hoping that each of them would come out wearing a T-shirt—which is indeed what happens. The monkeys have perched on a branch in alphabetical order by name: two are wearing red T-shirts, and the monkey in a blue T-shirt is next to a monkey in a green T-shirt. Determine what colors Berto, Certo, Derto, and Erto are wearing, writing in order the codes of the colors they are wearing, using the following code: 1=yellow, 2=blue, 3=green, 4=red.
 
+
 **Topic:** [[topic_logica|Logic, games and strategies]]
 **Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]], [[skill_lettura_attenta|Careful reading of the text]]
 **Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
-[[Quesiti/src_gs_2008#q06|src_gs_2008__Q06]]
 
 
-
-<span class="atom-split" id="q07" data-atom="q07" data-title="Quesito 7" data-tags="topic_geometria_piana,skill_ragionamento_geometrico"></span>
+<span class="atom-split" id="q07" data-atom="q07" data-title="Quesito 7" data-tags="topic_geometria_piana,method_coordinate,skill_ragionamento_geometrico"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -262,6 +266,7 @@ level: squadre
 > Qual è la lunghezza in centimetri del percorso dell’estasi più lungo?
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_coordinate|Metodo delle coordinate]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1jq4eULd2vApX_sKjUmlSdExuIjvhEcyU/view)
@@ -275,15 +280,15 @@ level: squadre
 > The Divine Quadrilateral
 > (30 points) In Tadfield, the Divine Quad is a right trapezoidal square with parallel sides measuring 66 m and 84 m, and a side perpendicular to these sides measuring 135 m. The diagonals of the trapezoid are drawn on the square's pavement. The four line segments from the intersection point of the diagonals to each of the square's corners are called paths of ecstasy. What is the length, in centimetres, of the longest path of ecstasy?
 
+
 **Topic:** [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_coordinate|Coordinate method]]
 **Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
 **Area:** [[Geometria|Geometry]]
 
-[[Quesiti/src_gs_2008#q07|src_gs_2008__Q07]]
 
 
-
-<span class="atom-split" id="q08" data-atom="q08" data-title="Quesito 8" data-tags="topic_geometria_solida,skill_ragionamento_geometrico"></span>
+<span class="atom-split" id="q08" data-atom="q08" data-title="Quesito 8" data-tags="topic_geometria_solida,method_invarianti,skill_ragionamento_geometrico,skill_astrazione"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -303,7 +308,8 @@ level: squadre
 > Qual è l’area coperta dalla vernice in dm2, comprese le basi?
 
 **Topic:** [[topic_geometria_solida|Geometria solida]]
-**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Metodo:** [[method_invarianti|Invarianti / monovarianti]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_astrazione|Astrazione / generalizzazione]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1jq4eULd2vApX_sKjUmlSdExuIjvhEcyU/view)
 
@@ -316,15 +322,15 @@ level: squadre
 > In front of the Ell laboratory, I
 > (30 points) In front of the Ell wood artists' workshop stands a structure shaped like a letter, created by cutting and gluing: a wooden cylinder 6 m high with a base diameter of 2 m is taken and cut into two equal parts by sawing it with a single cut inclined at 45° to the cylinder's axis; the two sections are then joined, fitted perfectly together, to form the . The one in front of the workshop is painted entirely with phosphorescent paint. What is the area covered by the paint in dm², including the bases?
 
+
 **Topic:** [[topic_geometria_solida|Solid geometry]]
-**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Metodo:** [[method_invarianti|Invariants / monovariants]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_astrazione|Abstraction / generalisation]]
 **Area:** [[Geometria|Geometry]]
 
-[[Quesiti/src_gs_2008#q08|src_gs_2008__Q08]]
 
 
-
-<span class="atom-split" id="q09" data-atom="q09" data-title="Quesito 9" data-tags="topic_geometria_piana,skill_ragionamento_geometrico"></span>
+<span class="atom-split" id="q09" data-atom="q09" data-title="Quesito 9" data-tags="topic_geometria_piana,method_simmetria,skill_ragionamento_geometrico"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -339,6 +345,7 @@ level: squadre
 > Qual è l’ampiezza in gradi di uno dei quattro angoli in punta uguali?
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_simmetria|Sfruttamento della simmetria]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1jq4eULd2vApX_sKjUmlSdExuIjvhEcyU/view)
@@ -352,15 +359,15 @@ level: squadre
 > Adam's Star
 > (points 35) Adam draws a five-pointed star by joining five points with five line segments. Four of the angles at the points are of the same measure; the measure of the angle at the point that is different from the others is 12°. What is the measure, in degrees, of one of the four equal angles at the points?
 
+
 **Topic:** [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_simmetria|Using symmetry]]
 **Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
 **Area:** [[Geometria|Geometry]]
 
-[[Quesiti/src_gs_2008#q09|src_gs_2008__Q09]]
 
 
-
-<span class="atom-split" id="q10" data-atom="q10" data-title="Quesito 10" data-tags="topic_aritmetica,method_backward"></span>
+<span class="atom-split" id="q10" data-atom="q10" data-title="Quesito 10" data-tags="topic_aritmetica,method_backward,method_casework,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -379,7 +386,8 @@ level: squadre
 > Gara a squadre – Testi dei problemi – Pag. 2 di 5
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_backward|Ragionamento all'indietro]]
+**Metodo:** [[method_backward|Ragionamento all'indietro]], [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1jq4eULd2vApX_sKjUmlSdExuIjvhEcyU/view)
 
@@ -393,15 +401,15 @@ level: squadre
 > (points 35) Pepper takes a sheet, folds it in half along its long side, and cuts it along the fold. He takes one of the two parts, folds it in half along its long side, and cuts it along the fold. He repeats the same operation three more times (five cuts in total), and obtains a small sheet measuring 62 mm × 88 mm. What was the maximum possible length of the long side of the sheet he started with? What was the minimum possible length? Give as the answer the difference between the two measurements in millimetres.
 > Team Competition – Problem Statements – Page 2 of 5
 
+
 **Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
-**Metodo:** [[method_backward|Working backwards]]
+**Metodo:** [[method_backward|Working backwards]], [[method_casework|Case analysis]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
-[[Quesiti/src_gs_2008#q10|src_gs_2008__Q10]]
 
 
-
-<span class="atom-split" id="q11" data-atom="q11" data-title="Quesito 11" data-tags="topic_geometria_piana,skill_ragionamento_geometrico"></span>
+<span class="atom-split" id="q11" data-atom="q11" data-title="Quesito 11" data-tags="topic_geometria_piana,method_simmetria,skill_ragionamento_geometrico,skill_lettura_attenta"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -419,7 +427,8 @@ level: squadre
 > Qual è l’area della W in cm2?
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
-**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Metodo:** [[method_simmetria|Sfruttamento della simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta del testo]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1jq4eULd2vApX_sKjUmlSdExuIjvhEcyU/view)
 
@@ -432,15 +441,15 @@ level: squadre
 > The initial of Wensleydale
 > (points 40) Wensleydale took a sheet measuring 12 cm × 8 cm and folded it in half along the long side. He marked three points on the folded sheet: point X at the midpoint of the fold, and points A and B, each 2 cm from the fold on each of the folded sides. He then made two cuts: one along segment XA, and the other from B, parallel to the first cut, so that it reached the vertex. When he unfolded the sheet, he realized he had produced a V. He made another identical V and superimposed them on an isosceles triangle in which the side different from the other two measures 4 cm, to obtain a W. What is the area of the W in cm²?
 
+
 **Topic:** [[topic_geometria_piana|Plane geometry]]
-**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Metodo:** [[method_simmetria|Using symmetry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_lettura_attenta|Careful reading of the text]]
 **Area:** [[Geometria|Geometry]]
 
-[[Quesiti/src_gs_2008#q11|src_gs_2008__Q11]]
 
 
-
-<span class="atom-split" id="q12" data-atom="q12" data-title="Quesito 12" data-tags="topic_aritmetica,method_fattorizzazione"></span>
+<span class="atom-split" id="q12" data-atom="q12" data-title="Quesito 12" data-tags="topic_aritmetica,method_fattorizzazione,method_casework,skill_manipolazione_algebrica,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -454,7 +463,8 @@ level: squadre
 > Qual è il più grande numero intero n che Brian può trovare?
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]], [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1jq4eULd2vApX_sKjUmlSdExuIjvhEcyU/view)
 
@@ -467,15 +477,15 @@ level: squadre
 > Brian's pastime
 > (points 40) Brian is looking for some integer n such that the sum 22008 + 23599 + 2n is a perfect square. What is the largest integer n that Brian can find?
 
+
 **Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
-**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]], [[method_casework|Case analysis]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_casework_accurato|Careful case analysis]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
-[[Quesiti/src_gs_2008#q12|src_gs_2008__Q12]]
 
 
-
-<span class="atom-split" id="q13" data-atom="q13" data-title="Quesito 13" data-tags="topic_probabilita,method_conteggio,skill_conteggio_sistematico"></span>
+<span class="atom-split" id="q13" data-atom="q13" data-title="Quesito 13" data-tags="topic_probabilita,topic_combinatoria,method_conteggio,skill_conteggio_sistematico,skill_modellizzazione"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -488,9 +498,9 @@ level: squadre
 > giorni diversi della settimana? Si dia come risposta la somma di numeratore e denominatore
 > della frazione ottenuta dopo aver semplificato tutti i fattori comuni.
 
-**Topic:** [[topic_probabilita|Probabilita e statistica]]
+**Topic:** [[topic_probabilita|Probabilita e statistica]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_conteggio|Conteggio combinatorio]]
-**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1jq4eULd2vApX_sKjUmlSdExuIjvhEcyU/view)
 
@@ -503,16 +513,15 @@ level: squadre
 > Their birthdays
 > (points 40) What is the probability that the birthdays of Adam, Pepper, Wensleydale, and Brian fall on 4 different days of the week? State as the answer the sum of the numerator and denominator of the fraction obtained after simplifying all common factors.
 
-**Topic:** [[topic_probabilita|Probability and statistics]]
+
+**Topic:** [[topic_probabilita|Probability and statistics]], [[topic_combinatoria|Combinatorics]]
 **Metodo:** [[method_conteggio|Combinatorial counting]]
-**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]], [[skill_modellizzazione|Modelling / translating the text]]
 **Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
-[[Quesiti/src_gs_2008#q13|src_gs_2008__Q13]]
 
 
-
-<span class="atom-split" id="q14" data-atom="q14" data-title="Quesito 14" data-tags="topic_aritmetica,method_congruenze"></span>
+<span class="atom-split" id="q14" data-atom="q14" data-title="Quesito 14" data-tags="topic_aritmetica,method_congruenze,method_casework,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -527,7 +536,8 @@ level: squadre
 > Qual è il più grande numero di quattro cifre che può essere la combinazione cercata da Newton?
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]]
+**Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]], [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1jq4eULd2vApX_sKjUmlSdExuIjvhEcyU/view)
 
@@ -540,15 +550,15 @@ level: squadre
 > The Witch's Casket
 > (points 45) Newton Pulsifer is trying to determine a four-digit combination to open the lock on a chest. After torturing the witch who owns the chest, Newton has discovered that the combination is a perfect square whose second-to-last digit is 5. What is the largest four-digit number that could be the combination Newton is looking for?
 
+
 **Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
-**Metodo:** [[method_congruenze|Modular arithmetic / congruences]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]], [[method_casework|Case analysis]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
-[[Quesiti/src_gs_2008#q14|src_gs_2008__Q14]]
 
 
-
-<span class="atom-split" id="q15" data-atom="q15" data-title="Quesito 15" data-tags="topic_aritmetica,method_congruenze,method_conteggio"></span>
+<span class="atom-split" id="q15" data-atom="q15" data-title="Quesito 15" data-tags="topic_aritmetica,method_congruenze,method_conteggio,method_casework,skill_lettura_attenta,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -564,7 +574,8 @@ level: squadre
 > deve cercare il predestinato.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]], [[method_conteggio|Conteggio combinatorio]]
+**Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]], [[method_conteggio|Conteggio combinatorio]], [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_lettura_attenta|Lettura attenta del testo]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1jq4eULd2vApX_sKjUmlSdExuIjvhEcyU/view)
 
@@ -577,11 +588,11 @@ level: squadre
 > The Search for Aziraphale
 > (point 45) Metatron explained to Aziraphale that he must look for the predestined newborn in those hospital rooms whose four-digit numbers have the property that, by replacing at most 3 digits in any way, one never obtains a positive multiple of 1792. Write the difference between the smallest and the largest of the room numbers in which Aziraphale must look for the predestined one.
 
-**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
-**Metodo:** [[method_congruenze|Modular arithmetic / congruences]], [[method_conteggio|Combinatorial counting]]
-**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
-[[Quesiti/src_gs_2008#q15|src_gs_2008__Q15]]
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]], [[method_conteggio|Combinatorial counting]], [[method_casework|Case analysis]]
+**Abilita:** [[skill_lettura_attenta|Careful reading of the text]], [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
 
 
@@ -620,11 +631,9 @@ level: squadre
 **Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
 **Area:** [[Geometria|Geometry]]
 
-[[Quesiti/src_gs_2008#q16|src_gs_2008__Q16]]
 
 
-
-<span class="atom-split" id="q17" data-atom="q17" data-title="Quesito 17" data-tags="topic_combinatoria,method_casework,method_conteggio"></span>
+<span class="atom-split" id="q17" data-atom="q17" data-title="Quesito 17" data-tags="topic_combinatoria,method_casework,method_conteggio,skill_conteggio_sistematico,skill_casework_accurato,skill_lettura_attenta"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -641,6 +650,7 @@ level: squadre
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_casework|Analisi per casi]], [[method_conteggio|Conteggio combinatorio]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]], [[skill_lettura_attenta|Lettura attenta del testo]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1jq4eULd2vApX_sKjUmlSdExuIjvhEcyU/view)
 
@@ -654,15 +664,15 @@ level: squadre
 > (50 points) Sylvier had indeed bought 1 yellow T-shirt, 2 blue ones, 2 green ones, and 3 red ones, leaving them in the room of the five monkeys. In how many ways could the monkeys Alberto, Berto, Certo, Derto, and Erto have worn the T-shirts, taking their aversions to colors into account?
 > Team Competition – Problem Statements – Page 3 of 5
 
+
 **Topic:** [[topic_combinatoria|Combinatorics]]
 **Metodo:** [[method_casework|Case analysis]], [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]], [[skill_casework_accurato|Careful case analysis]], [[skill_lettura_attenta|Careful reading of the text]]
 **Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
-[[Quesiti/src_gs_2008#q17|src_gs_2008__Q17]]
 
 
-
-<span class="atom-split" id="q18" data-atom="q18" data-title="Quesito 18" data-tags="topic_geometria_solida,skill_ragionamento_geometrico"></span>
+<span class="atom-split" id="q18" data-atom="q18" data-title="Quesito 18" data-tags="topic_geometria_solida,method_coordinate,skill_ragionamento_geometrico"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -679,6 +689,7 @@ level: squadre
 > l’altra?
 
 **Topic:** [[topic_geometria_solida|Geometria solida]]
+**Metodo:** [[method_coordinate|Metodo delle coordinate]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1jq4eULd2vApX_sKjUmlSdExuIjvhEcyU/view)
@@ -692,15 +703,15 @@ level: squadre
 > In front of the Ell, II laboratory
 > (50 points) One ant is at the center of the circle at the top of the front of the Ell. laboratory. Another ant is at the center of the other circle on the . How many millimeters long is the shortest path that allows one ant to reach the other?
 
+
 **Topic:** [[topic_geometria_solida|Solid geometry]]
+**Metodo:** [[method_coordinate|Coordinate method]]
 **Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
 **Area:** [[Geometria|Geometry]]
 
-[[Quesiti/src_gs_2008#q18|src_gs_2008__Q18]]
 
 
-
-<span class="atom-split" id="q19" data-atom="q19" data-title="Quesito 19" data-tags="topic_aritmetica,skill_stima"></span>
+<span class="atom-split" id="q19" data-atom="q19" data-title="Quesito 19" data-tags="topic_aritmetica,method_congruenze,skill_stima"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -714,6 +725,7 @@ level: squadre
 > Qual è il numero intero positivo che Warlock ha elevato alla quattordicesima potenza?
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]]
 **Abilita:** [[skill_stima|Stima e approssimazione]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1jq4eULd2vApX_sKjUmlSdExuIjvhEcyU/view)
@@ -727,15 +739,15 @@ level: squadre
 > Warlock's Pastime
 > (60 points) To pass the time, Warlock calculates the fourteenth power of a positive integer and obtains 114197726928752863294965276721. What is the positive integer that Warlock raised to the fourteenth power?
 
+
 **Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]]
 **Abilita:** [[skill_stima|Estimation and approximation]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
-[[Quesiti/src_gs_2008#q19|src_gs_2008__Q19]]
 
 
-
-<span class="atom-split" id="q20" data-atom="q20" data-title="Quesito 20" data-tags="topic_geometria_piana,skill_ragionamento_geometrico"></span>
+<span class="atom-split" id="q20" data-atom="q20" data-title="Quesito 20" data-tags="topic_geometria_piana,topic_geometria_solida,skill_ragionamento_geometrico,skill_modellizzazione,skill_lettura_attenta"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -758,8 +770,8 @@ level: squadre
 > tocchi il megalito vicino.
 > Qual è il massimo numero possibile di megaliti posati sulla striscia nella grande pianura?
 
-**Topic:** [[topic_geometria_piana|Geometria piana]]
-**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_geometria_solida|Geometria solida]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_lettura_attenta|Lettura attenta del testo]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1jq4eULd2vApX_sKjUmlSdExuIjvhEcyU/view)
 
@@ -772,15 +784,14 @@ level: squadre
 > The Megaliths of the Apocalypse
 > (60 points) In the vast plain south of Tadfield, two parallel white chalk lines are drawn 240 cm apart, forming a strip of land 20 km long. Within the strip, identical megaliths (large stones) are placed—it is said that they were left by the Horsemen of the Apocalypse as a warning. All the megaliths have the same right-prism shape, and each is 3 m tall. Each base is a right trapezoid: the parallel sides measure 58 cm and 128 cm, and the side perpendicular to these measures 240 cm. The megaliths are placed so that the longer bases of the trapezoids are all aligned along one of the two white lines, and the non-parallel sides of the trapezoids are parallel to one another. One megalith has fallen, rotating on the non-parallel side of its base, and now, on the ground, it just barely touches the nearby megalith. In fact, there is always enough distance between two megaliths so that, if a megalith falls while rotating on its non-parallel side, it does not touch the nearby megalith. What is the maximum possible number of megaliths placed on the strip in the vast plain?
 
-**Topic:** [[topic_geometria_piana|Plane geometry]]
-**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_geometria_solida|Solid geometry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_modellizzazione|Modelling / translating the text]], [[skill_lettura_attenta|Careful reading of the text]]
 **Area:** [[Geometria|Geometry]]
 
-[[Quesiti/src_gs_2008#q20|src_gs_2008__Q20]]
 
 
-
-<span class="atom-split" id="q21" data-atom="q21" data-title="Quesito 21" data-tags="topic_combinatoria,method_conteggio,method_ricorsione"></span>
+<span class="atom-split" id="q21" data-atom="q21" data-title="Quesito 21" data-tags="topic_combinatoria,method_conteggio,method_ricorsione,method_casework,method_simmetria,skill_conteggio_sistematico,skill_modellizzazione,skill_lettura_attenta"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -799,7 +810,8 @@ level: squadre
 > conteggio.]
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
-**Metodo:** [[method_conteggio|Conteggio combinatorio]], [[method_ricorsione|Ricorsione]]
+**Metodo:** [[method_conteggio|Conteggio combinatorio]], [[method_ricorsione|Ricorsione]], [[method_casework|Analisi per casi]], [[method_simmetria|Sfruttamento della simmetria]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_lettura_attenta|Lettura attenta del testo]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/1jq4eULd2vApX_sKjUmlSdExuIjvhEcyU/view)
 
@@ -812,11 +824,11 @@ level: squadre
 > The Ineffable Poker
 > (70 points) Ten supernatural entities, tired of playing dice with the universe, decide to play poker. Seated around a round table, they agree that, halfway through the evening, they will all stand up and sit back down in strict accordance with this rule: each entity may sit back down in the seat it occupied previously or in one of the two adjacent seats. How many possible configurations of the gaming table, different from the initial one, are there after all the entities have stood up and sat back down? [N.B. Two configurations that differ only by a rotation are to be regarded as the same for the purposes of counting.]
 
-**Topic:** [[topic_combinatoria|Combinatorics]]
-**Metodo:** [[method_conteggio|Combinatorial counting]], [[method_ricorsione|Recursion]]
-**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
-[[Quesiti/src_gs_2008#q21|src_gs_2008__Q21]]
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_conteggio|Combinatorial counting]], [[method_ricorsione|Recursion]], [[method_casework|Case analysis]], [[method_simmetria|Using symmetry]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]], [[skill_modellizzazione|Modelling / translating the text]], [[skill_lettura_attenta|Careful reading of the text]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
 
 
@@ -860,11 +872,9 @@ level: squadre
 **Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
 **Area:** [[Geometria|Geometry]]
 
-[[Quesiti/src_gs_2008#q22|src_gs_2008__Q22]]
 
 
-
-<span class="atom-split" id="q23" data-atom="q23" data-title="Quesito 23" data-tags="topic_combinatoria,method_conteggio,skill_conteggio_sistematico"></span>
+<span class="atom-split" id="q23" data-atom="q23" data-title="Quesito 23" data-tags="topic_combinatoria,method_conteggio,method_casework,skill_conteggio_sistematico,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -877,8 +887,8 @@ level: squadre
 > le magliette che Sylvier aveva comprato, se non avessero avuto avversione ad alcun colore?
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
-**Metodo:** [[method_conteggio|Conteggio combinatorio]]
-**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Metodo:** [[method_conteggio|Conteggio combinatorio]], [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF p.7](https://drive.google.com/file/d/1jq4eULd2vApX_sKjUmlSdExuIjvhEcyU/view)
 
@@ -891,16 +901,15 @@ level: squadre
 > At Tadfield Zoo, III
 > (80 points) In how many ways could the monkeys Alberto, Berto, Certo, Derto, and Erto have worn the T-shirts that Sylvier had bought, if they had not been averse to any color?
 
+
 **Topic:** [[topic_combinatoria|Combinatorics]]
-**Metodo:** [[method_conteggio|Combinatorial counting]]
-**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Metodo:** [[method_conteggio|Combinatorial counting]], [[method_casework|Case analysis]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]], [[skill_casework_accurato|Careful case analysis]]
 **Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
-[[Quesiti/src_gs_2008#q23|src_gs_2008__Q23]]
 
 
-
-<span class="atom-split" id="q24" data-atom="q24" data-title="Quesito 24" data-tags="topic_logica,method_casework,skill_casework_accurato"></span>
+<span class="atom-split" id="q24" data-atom="q24" data-title="Quesito 24" data-tags="topic_logica,method_casework,skill_casework_accurato,skill_lettura_attenta"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -915,7 +924,7 @@ level: squadre
 
 **Topic:** [[topic_logica|Logica, giochi, strategie]]
 **Metodo:** [[method_casework|Analisi per casi]]
-**Abilita:** [[skill_casework_accurato|Casework accurato]]
+**Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_lettura_attenta|Lettura attenta del testo]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF p.7](https://drive.google.com/file/d/1jq4eULd2vApX_sKjUmlSdExuIjvhEcyU/view)
 
@@ -928,9 +937,8 @@ level: squadre
 > The Prophecy of Agnes Nutter
 > (80 points) Agnes Nutter's prophecy made it possible to determine precisely what the AD year N would be for the events of the Apocalypse. In the prophecy, Agnes declared that the Apocalypse would occur before AD 10,000 and that the following clues were certainly false or true:
 
+
 **Topic:** [[topic_logica|Logic, games and strategies]]
 **Metodo:** [[method_casework|Case analysis]]
-**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]], [[skill_lettura_attenta|Careful reading of the text]]
 **Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
-
-[[Quesiti/src_gs_2008#q24|src_gs_2008__Q24]]

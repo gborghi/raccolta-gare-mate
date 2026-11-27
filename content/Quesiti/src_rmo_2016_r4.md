@@ -10,7 +10,7 @@ level: RMO
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_geometria_piana,method_trigonometria,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_geometria_piana,method_trigonometria,method_simmetria,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -20,9 +20,9 @@ level: RMO
 > Let $ABC$ be an isosceles triangle with $AB = AC$. Let $\Gamma$ be its circumcircle and let $O$ be the centre of $\Gamma$. Let $CO$ meet $\Gamma$ in $D$. Draw a line parallel to $AC$ through $D$. Let it intersect $AB$ at $E$. $AE : EB = 2 : 1$. Prove that $ABC$ is an equilateral triangle.
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
-**Metodo:** [[method_trigonometria|Trigonometria]]
+**Metodo:** [[method_trigonometria|Trigonometria]], [[method_simmetria|Using symmetry]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
-**Area:** [[Geometria]]
+**Area:** [[Geometria|Geometry]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1nLwmoR34Kvy_obEKxxqlzF7zGjUJNCHa/view)
 
 
@@ -33,12 +33,11 @@ level: RMO
 
 > Sia $ABC$ un triangolo isoscele con $AB = AC$. Sia $\Gamma$ la sua circonferenza circoscritta e sia $O$ il centro di $\Gamma$. Sia $CO$ che incontra $\Gamma$ in $D$. Traccia una retta parallela a $AC$ passante per $D$. Sia essa che interseca $AB$ in $E$. $AE : EB = 2 : 1$. Dimostrare che $ABC$ è un triangolo equilatero.
 
+
 **Topic:** [[topic_geometria_piana|Geometria piana]]
-**Metodo:** [[method_trigonometria|Trigonometria]]
+**Metodo:** [[method_trigonometria|Trigonometria]], [[method_simmetria|Sfruttamento della simmetria]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
-
-[[Quesiti/src_rmo_2016_r4#q01|src_rmo_2016_r4__Q01]]
 
 
 
@@ -70,8 +69,6 @@ level: RMO
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]]
 **Area:** [[Algebra e Analisi]]
 
-[[Quesiti/src_rmo_2016_r4#q02|src_rmo_2016_r4__Q02]]
-
 
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_aritmetica,topic_algebra,method_casework,method_congruenze,skill_manipolazione_algebrica,skill_lettura_attenta,skill_casework_accurato"></span>
@@ -102,11 +99,9 @@ level: RMO
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 
-[[Quesiti/src_rmo_2016_r4#q03|src_rmo_2016_r4__Q03]]
 
 
-
-<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_combinatoria,topic_aritmetica,method_invarianti,method_casework,skill_riconoscimento_pattern,skill_modellizzazione,skill_lettura_attenta"></span>
+<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_combinatoria,topic_aritmetica,method_invarianti,method_casework,method_colorazione,skill_riconoscimento_pattern,skill_modellizzazione,skill_lettura_attenta,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -116,9 +111,9 @@ level: RMO
 > A box contains 4032 answer scripts out of which exactly half have an odd number of marks. We choose 2 scripts randomly and, if the scores on both of them are odd, we put one script back in the box and keep the other script outside. If both scripts have even scores, we put back one of them and keep the other script outside. If there is one script with even score and the other with odd score, we put back the script with the odd score and keep the other script outside. After following this procedure a number of times, there are 3 scripts left among which there is at least one script each with odd and even scores. Find, with proof, the number of scripts with odd scores among the three left.
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_invarianti|Invarianti]], [[method_casework|Casework]]
-**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_modellizzazione|Modellizzazione]], [[skill_lettura_attenta|Lettura attenta]]
-**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
+**Metodo:** [[method_invarianti|Invarianti]], [[method_casework|Casework]], [[method_colorazione|Colouring / parity]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_modellizzazione|Modellizzazione]], [[skill_lettura_attenta|Lettura attenta]], [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1nLwmoR34Kvy_obEKxxqlzF7zGjUJNCHa/view)
 
 
@@ -129,12 +124,11 @@ level: RMO
 
 > Una scatola contiene 4032 compiti, dei quali esattamente la metà ha un numero dispari di punteggi. Scegliamo a caso 2 compiti e, se i punteggi di entrambi sono dispari, rimettiamo un compito nella scatola e teniamo l'altro fuori. Se entrambi i compiti hanno punteggi pari, rimettiamo uno di essi nella scatola e teniamo l'altro fuori. Se un compito ha punteggio pari e l'altro ha punteggio dispari, rimettiamo nella scatola il compito con il punteggio dispari e teniamo l'altro fuori. Dopo aver seguito questa procedura un certo numero di volte, restano 3 compiti, tra i quali c'è almeno un compito con punteggio dispari e almeno un compito con punteggio pari. Determinare, con dimostrazione, il numero di compiti con punteggio dispari tra i tre rimasti.
 
-**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_invarianti|Invarianti]], [[method_casework|Casework]]
-**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_modellizzazione|Modellizzazione]], [[skill_lettura_attenta|Lettura attenta]]
-**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 
-[[Quesiti/src_rmo_2016_r4#q04|src_rmo_2016_r4__Q04]]
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_invarianti|Invarianti]], [[method_casework|Casework]], [[method_colorazione|Colorazione / parita]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_modellizzazione|Modellizzazione]], [[skill_lettura_attenta|Lettura attenta]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 
 
 
@@ -166,11 +160,9 @@ level: RMO
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 
-[[Quesiti/src_rmo_2016_r4#q05|src_rmo_2016_r4__Q05]]
 
 
-
-<span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_aritmetica,topic_algebra,method_congruenze,method_induzione,skill_riconoscimento_pattern,skill_manipolazione_algebrica,skill_modellizzazione"></span>
+<span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_aritmetica,topic_algebra,method_congruenze,method_induzione,method_fattorizzazione,skill_riconoscimento_pattern,skill_manipolazione_algebrica,skill_modellizzazione"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -182,9 +174,9 @@ level: RMO
 > (ii) Find, with justification, an infinite sequence of strictly increasing positive integers in arithmetic progression which does not have any cube.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
-**Metodo:** [[method_congruenze|Congruenze]], [[method_induzione|Induzione]]
+**Metodo:** [[method_congruenze|Congruenze]], [[method_induzione|Induzione]], [[method_fattorizzazione|Factorisation / algebraic manipulation]]
 **Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]]
-**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Algebra e Analisi|Algebra and analysis]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1nLwmoR34Kvy_obEKxxqlzF7zGjUJNCHa/view)
 
 
@@ -197,9 +189,8 @@ level: RMO
 >
 > (ii) Trovare, con giustificazione, una successione infinita di numeri interi positivi strettamente crescenti in progressione aritmetica che non contenga alcun cubo.
 
+
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
-**Metodo:** [[method_congruenze|Congruenze]], [[method_induzione|Induzione]]
+**Metodo:** [[method_congruenze|Congruenze]], [[method_induzione|Induzione]], [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
 **Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
-
-[[Quesiti/src_rmo_2016_r4#q06|src_rmo_2016_r4__Q06]]

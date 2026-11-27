@@ -38,11 +38,9 @@ level: JJMO Yosen
 **Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_lettura_attenta|Lettura attenta]], [[skill_stima|Stima]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 
-[[Quesiti/src_jjmo9yq_yosen#q01|src_jjmo9yq_yosen__Q01]]
 
 
-
-<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_geometria_piana,method_trigonometria,method_coordinate,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_geometria_piana,topic_trigonometria,method_trigonometria,method_coordinate,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -51,12 +49,12 @@ level: JJMO Yosen
 
 > In quadrilateral $ABCD$, $\angle DAB = 90^\circ$, $\angle ABC = \angle BCD = 60^\circ$, $AB = 5$, $CD = 4$. Find $BC$. (Here $XY$ denotes the length of segment $XY$.)
 
-![[src_jjmo9yq_yosen__q02.png]]
+![[src_jjmo9yq_yosen__Q02.png]]
 
-**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometry]]
 **Metodo:** [[method_trigonometria|Trigonometria]], [[method_coordinate|Coordinate]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
-**Area:** [[Geometria]]
+**Area:** [[Geometria|Geometry]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1qMJjxU0l_DxfEY-9HMozDgyKBaM5GpnZ/view)
 
 
@@ -67,14 +65,13 @@ level: JJMO Yosen
 
 > Nel quadrilatero $ABCD$, $\angle DAB = 90^\circ$, $\angle ABC = \angle BCD = 60^\circ$, $AB = 5$, $CD = 4$. Trovare $BC$. (Qui $XY$ denota la lunghezza del segmento $XY$.)
 
-![[src_jjmo9yq_yosen__q02.png]]
+![[src_jjmo9yq_yosen__Q02.png]]
 
-**Topic:** [[topic_geometria_piana|Geometria piana]]
+
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometria]]
 **Metodo:** [[method_trigonometria|Trigonometria]], [[method_coordinate|Coordinate]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
-
-[[Quesiti/src_jjmo9yq_yosen#q02|src_jjmo9yq_yosen__Q02]]
 
 
 
@@ -106,8 +103,6 @@ level: JJMO Yosen
 **Abilità:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Aritmetica e teoria dei numeri]]
 
-[[Quesiti/src_jjmo9yq_yosen#q03|src_jjmo9yq_yosen__Q03]]
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_geometria_piana,method_simmetria,method_casework,skill_ragionamento_geometrico,skill_manipolazione_algebrica,skill_modellizzazione"></span>
@@ -119,7 +114,7 @@ level: JJMO Yosen
 
 > In triangle $ABC$, let $D$ be a point on side $AB$ and $E$ a point on side $AC$ such that line $DE$ is parallel to $BC$. Let $M$ be the midpoint of $BD$ and $N$ the midpoint of $CE$. Given that the area of quadrilateral $DMNE$ is $1$ and the area of quadrilateral $MBCN$ is $2$, find the area of triangle $ADE$.
 
-![[src_jjmo9yq_yosen__q04.png]]
+![[src_jjmo9yq_yosen__Q04.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_simmetria|Simmetria]], [[method_casework|Casework]]
@@ -135,18 +130,16 @@ level: JJMO Yosen
 
 > Nel triangolo $ABC$, sia $D$ un punto sul lato $AB$ e $E$ un punto sul lato $AC$ tali che la retta $DE$ sia parallela a $BC$. Sia $M$ il punto medio di $BD$ e $N$ il punto medio di $CE$. Sapendo che l'area del quadrilatero $DMNE$ è $1$ e l'area del quadrilatero $MBCN$ è $2$, determina l'area del triangolo $ADE$.
 
-![[src_jjmo9yq_yosen__q04.png]]
+![[src_jjmo9yq_yosen__Q04.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_simmetria|Simmetria]], [[method_casework|Casework]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]]
 **Area:** [[Geometria]]
 
-[[Quesiti/src_jjmo9yq_yosen#q04|src_jjmo9yq_yosen__Q04]]
 
 
-
-<span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_combinatoria,topic_algebra,method_invarianti,method_casework,method_congruenze,skill_modellizzazione,skill_lettura_attenta,skill_manipolazione_algebrica,skill_casework_accurato"></span>
+<span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_combinatoria,topic_algebra,topic_aritmetica,method_invarianti,method_casework,method_congruenze,skill_modellizzazione,skill_lettura_attenta,skill_manipolazione_algebrica,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -155,10 +148,10 @@ level: JJMO Yosen
 
 > A magician can use any of the following three spells any number of times:\n\nSpell A: Change 1 mandarin and 1 grape into 2 apples.\nSpell B: Change 1 grape and 1 apple into 3 mandarins.\nSpell C: Change 1 apple and 1 mandarin into 4 grapes.\n\nStarting from a state with $2011$ apples, $2011$ mandarins, and $2011$ grapes, the magician uses the spells (each at least once) and ends up with exactly $2011$ apples, exactly $2011$ grapes, and at least $2011$ mandarins. What is the minimum number of mandarins at the end?
 
-**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_algebra|Algebra]]
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_algebra|Algebra]], [[topic_aritmetica|Arithmetic / Number theory]]
 **Metodo:** [[method_invarianti|Invarianti]], [[method_casework|Casework]], [[method_congruenze|Congruenze]]
 **Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_lettura_attenta|Lettura attenta]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Casework accurato]]
-**Area:** [[Combinatoria, Logica e Probabilita]], [[Algebra e Analisi]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1qMJjxU0l_DxfEY-9HMozDgyKBaM5GpnZ/view)
 
 
@@ -169,16 +162,15 @@ level: JJMO Yosen
 
 > Un mago può usare qualsiasi delle seguenti tre formule magiche un numero qualsiasi di volte:  Formula magica A: trasforma 1 mandarino e 1 uva in 2 mele. Formula magica B: trasforma 1 uva e 1 mela in 3 mandarini. Formula magica C: trasforma 1 mela e 1 mandarino in 4 uve.  Partendo da uno stato in cui ci sono $2011$ mele, $2011$ mandarini e $2011$ uve, il mago usa le formule magiche (ciascuna almeno una volta) e alla fine si ritrova con esattamente $2011$ mele, esattamente $2011$ uve e almeno $2011$ mandarini. Qual è il numero minimo di mandarini alla fine?
 
-**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_algebra|Algebra]]
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_invarianti|Invarianti]], [[method_casework|Casework]], [[method_congruenze|Congruenze]]
 **Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_lettura_attenta|Lettura attenta]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Casework accurato]]
-**Area:** [[Combinatoria, Logica e Probabilita]], [[Algebra e Analisi]]
-
-[[Quesiti/src_jjmo9yq_yosen#q05|src_jjmo9yq_yosen__Q05]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 
 
 
-<span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_combinatoria,topic_aritmetica,method_casework,method_conteggio,skill_casework_accurato,skill_conteggio_sistematico,skill_lettura_attenta"></span>
+<span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_combinatoria,topic_aritmetica,method_casework,method_conteggio,skill_casework_accurato,skill_conteggio_sistematico,skill_lettura_attenta,skill_riconoscimento_pattern,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -189,8 +181,8 @@ level: JJMO Yosen
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]]
-**Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]]
-**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
+**Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_riconoscimento_pattern|Pattern recognition]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1qMJjxU0l_DxfEY-9HMozDgyKBaM5GpnZ/view)
 
 
@@ -201,16 +193,15 @@ level: JJMO Yosen
 
 > Ci sono 4 carte, ciascuna con scritto un numero intero positivo a una cifra, distinto dagli altri. Quando si scelgono 2 qualsiasi delle 4 carte e si sommano i loro numeri, in totale si possono ottenere esattamente $4$ somme distinte. Quando si scelgono 2 qualsiasi delle 4 carte e si moltiplicano i loro numeri, in totale si possono ottenere esattamente $3$ prodotti distinti. Trovare tutti gli insiemi possibili di 4 numeri interi che potrebbero essere scritti sulle carte.
 
+
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]]
-**Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]]
+**Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 
-[[Quesiti/src_jjmo9yq_yosen#q06|src_jjmo9yq_yosen__Q06]]
 
 
-
-<span class="atom-split" id="q07" data-atom="q07" data-title="Quesito 7" data-tags="topic_aritmetica,topic_combinatoria,method_casework,method_conteggio,skill_conteggio_sistematico,skill_manipolazione_algebrica,skill_stima"></span>
+<span class="atom-split" id="q07" data-atom="q07" data-title="Quesito 7" data-tags="topic_aritmetica,topic_combinatoria,topic_algebra,method_casework,method_conteggio,skill_conteggio_sistematico,skill_manipolazione_algebrica,skill_stima"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -219,10 +210,10 @@ level: JJMO Yosen
 
 > Find the smallest positive integer $n \ge 11$ such that among the integers $n, n+1, n+2, \ldots, n+2011$, there are exactly $23$ perfect squares.
 
-**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]], [[topic_algebra|Algebra]]
 **Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]]
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]]
-**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Algebra e Analisi|Algebra and analysis]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1qMJjxU0l_DxfEY-9HMozDgyKBaM5GpnZ/view)
 
 
@@ -233,12 +224,11 @@ level: JJMO Yosen
 
 > Trovare il più piccolo intero positivo $n \ge 11$ tale che, tra gli interi $n, n+1, n+2, \ldots, n+2011$, vi siano esattamente $23$ quadrati perfetti.
 
-**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]], [[topic_algebra|Algebra]]
 **Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]]
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]]
-**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
-
-[[Quesiti/src_jjmo9yq_yosen#q07|src_jjmo9yq_yosen__Q07]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]], [[Algebra e Analisi]]
 
 
 
@@ -251,7 +241,7 @@ level: JJMO Yosen
 
 > Triangle $ABC$ and triangle $PQR$ are both right isosceles triangles with $\angle ACB = \angle PQR = 90^\circ$, $AB = 5$, $PR = 3$. The three points $B$, $Q$, $R$ are collinear, and the three points $A$, $P$, $C$ are collinear. Find the area of triangle $ABQ$. (Here $XY$ denotes the length of segment $XY$.)
 
-![[src_jjmo9yq_yosen__q08.png]]
+![[src_jjmo9yq_yosen__Q08.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_coordinate|Coordinate]], [[method_trigonometria|Trigonometria]]
@@ -267,14 +257,12 @@ level: JJMO Yosen
 
 > Il triangolo $ABC$ e il triangolo $PQR$ sono entrambi triangoli rettangoli isosceli con $\angle ACB = \angle PQR = 90^\circ$, $AB = 5$, $PR = 3$. I tre punti $B$, $Q$, $R$ sono allineati, e i tre punti $A$, $P$, $C$ sono allineati. Determinare l'area del triangolo $ABQ$. (Qui $XY$ denota la lunghezza del segmento $XY$.)
 
-![[src_jjmo9yq_yosen__q08.png]]
+![[src_jjmo9yq_yosen__Q08.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_coordinate|Coordinate]], [[method_trigonometria|Trigonometria]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]]
 **Area:** [[Geometria]]
-
-[[Quesiti/src_jjmo9yq_yosen#q08|src_jjmo9yq_yosen__Q08]]
 
 
 
@@ -306,11 +294,9 @@ level: JJMO Yosen
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 
-[[Quesiti/src_jjmo9yq_yosen#q09|src_jjmo9yq_yosen__Q09]]
 
 
-
-<span class="atom-split" id="q10" data-atom="q10" data-title="Quesito 10" data-tags="topic_aritmetica,topic_combinatoria,method_casework,method_conteggio,skill_conteggio_sistematico,skill_lettura_attenta,skill_casework_accurato"></span>
+<span class="atom-split" id="q10" data-atom="q10" data-title="Quesito 10" data-tags="topic_aritmetica,topic_combinatoria,method_casework,method_conteggio,method_congruenze,skill_conteggio_sistematico,skill_lettura_attenta,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -320,9 +306,9 @@ level: JJMO Yosen
 > How many positive integers not exceeding $1000$ have the property that the sum of their digits does not change when the number is multiplied by $5$?
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
-**Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]]
+**Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]], [[method_congruenze|Modular arithmetic / congruences]]
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_casework_accurato|Casework accurato]]
-**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1qMJjxU0l_DxfEY-9HMozDgyKBaM5GpnZ/view)
 
 
@@ -333,16 +319,15 @@ level: JJMO Yosen
 
 > Quanti numeri interi positivi non superiori a $1000$ hanno la proprietà che la somma delle loro cifre non cambia quando il numero viene moltiplicato per $5$?
 
+
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
-**Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]]
+**Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]], [[method_congruenze|Aritmetica modulare / congruenze]]
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 
-[[Quesiti/src_jjmo9yq_yosen#q10|src_jjmo9yq_yosen__Q10]]
 
 
-
-<span class="atom-split" id="q11" data-atom="q11" data-title="Quesito 11" data-tags="topic_combinatoria,method_casework,method_simmetria,method_conteggio,skill_conteggio_sistematico,skill_ragionamento_geometrico,skill_casework_accurato"></span>
+<span class="atom-split" id="q11" data-atom="q11" data-title="Quesito 11" data-tags="topic_combinatoria,method_casework,method_simmetria,method_conteggio,skill_conteggio_sistematico,skill_ragionamento_geometrico,skill_casework_accurato,skill_riconoscimento_pattern"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -353,8 +338,8 @@ level: JJMO Yosen
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_casework|Casework]], [[method_simmetria|Simmetria]], [[method_conteggio|Conteggio]]
-**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_casework_accurato|Casework accurato]]
-**Area:** [[Combinatoria, Logica e Probabilita]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_casework_accurato|Casework accurato]], [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1qMJjxU0l_DxfEY-9HMozDgyKBaM5GpnZ/view)
 
 
@@ -365,16 +350,15 @@ level: JJMO Yosen
 
 > Quadrati unitari di lato $1$ sono disposti in $8$ righe e $8$ colonne per formare un quadrato $8 \times 8$ $ABCD$. Alcuni di questi quadrati unitari devono essere colorati (dipinti) secondo le seguenti tre condizioni:\n\n$\bullet$ La disposizione dei quadrati colorati è simmetrica rispetto a entrambe le diagonali $AC$ e $BD$ del quadrato.\n$\bullet$ In ogni riga, al massimo un quadrato unitario è colorato.\n$\bullet$ In ogni colonna, al massimo un quadrato unitario è colorato.\n\nQuante di tali colorazioni sono possibili (inclusa la colorazione in cui nessun quadrato è colorato)?
 
+
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_casework|Casework]], [[method_simmetria|Simmetria]], [[method_conteggio|Conteggio]]
-**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_casework_accurato|Casework accurato]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_casework_accurato|Casework accurato]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 
-[[Quesiti/src_jjmo9yq_yosen#q11|src_jjmo9yq_yosen__Q11]]
 
 
-
-<span class="atom-split" id="q12" data-atom="q12" data-title="Quesito 12" data-tags="topic_geometria_piana,method_trigonometria,method_coordinate,skill_ragionamento_geometrico,skill_manipolazione_algebrica,skill_modellizzazione"></span>
+<span class="atom-split" id="q12" data-atom="q12" data-title="Quesito 12" data-tags="topic_geometria_piana,topic_trigonometria,method_trigonometria,method_coordinate,skill_ragionamento_geometrico,skill_manipolazione_algebrica,skill_modellizzazione"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -383,10 +367,10 @@ level: JJMO Yosen
 
 > Let $I$ be the incenter and $O$ the circumcenter of triangle $ABC$. Given $AB = 2$, $AC = 3$, and $\angle AIO = 90^\circ$, find the area of triangle $ABC$. (Here $XY$ denotes the length of segment $XY$.)
 
-**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometry]]
 **Metodo:** [[method_trigonometria|Trigonometria]], [[method_coordinate|Coordinate]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]]
-**Area:** [[Geometria]]
+**Area:** [[Geometria|Geometry]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1qMJjxU0l_DxfEY-9HMozDgyKBaM5GpnZ/view)
 
 
@@ -397,9 +381,8 @@ level: JJMO Yosen
 
 > Sia $I$ l'incentro e $O$ il circocentro del triangolo $ABC$. Dati $AB = 2$, $AC = 3$ e $\angle AIO = 90^\circ$, determina l'area del triangolo $ABC$. (Qui $XY$ denota la lunghezza del segmento $XY$.)
 
-**Topic:** [[topic_geometria_piana|Geometria piana]]
+
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometria]]
 **Metodo:** [[method_trigonometria|Trigonometria]], [[method_coordinate|Coordinate]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]]
 **Area:** [[Geometria]]
-
-[[Quesiti/src_jjmo9yq_yosen#q12|src_jjmo9yq_yosen__Q12]]

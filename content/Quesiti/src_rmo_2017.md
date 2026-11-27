@@ -38,11 +38,9 @@ level: RMO
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]]
 **Area:** [[Geometria]]
 
-[[Quesiti/src_rmo_2017#q01|src_rmo_2017__Q01]]
 
 
-
-<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_aritmetica,topic_algebra,method_congruenze,method_fattorizzazione,skill_manipolazione_algebrica,skill_ragionamento_geometrico"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_aritmetica,topic_algebra,method_congruenze,method_fattorizzazione,method_casework,skill_manipolazione_algebrica,skill_ragionamento_geometrico,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -52,9 +50,9 @@ level: RMO
 > Show that $$a^2 + (a+1)^2 + (a+2)^2 + (a+3)^2 + (a+4)^2 + (a+5)^2 + (a+6)^2 = b^2 + (b+1)^2$$ has no solutions in integers $a$, $b$.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
-**Metodo:** [[method_congruenze|Congruenze]], [[method_fattorizzazione|Fattorizzazione]]
-**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
-**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
+**Metodo:** [[method_congruenze|Congruenze]], [[method_fattorizzazione|Fattorizzazione]], [[method_casework|Case analysis]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Algebra e Analisi|Algebra and analysis]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1aTvWjjCyaztnP6zBTHomfMlYOKdjp_YI/view)
 
 
@@ -65,16 +63,15 @@ level: RMO
 
 > Show that $$a^2 + (a+1)^2 + (a+2)^2 + (a+3)^2 + (a+4)^2 + (a+5)^2 + (a+6)^2 = b^2 + (b+1)^2$$ has no solutions in integers $a$, $b$.
 
+
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
-**Metodo:** [[method_congruenze|Congruenze]], [[method_fattorizzazione|Fattorizzazione]]
-**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Metodo:** [[method_congruenze|Congruenze]], [[method_fattorizzazione|Fattorizzazione]], [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 
-[[Quesiti/src_rmo_2017#q02|src_rmo_2017__Q02]]
 
 
-
-<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_algebra,method_fattorizzazione,method_casework,skill_manipolazione_algebrica,skill_riconoscimento_pattern"></span>
+<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_algebra,topic_funzionali,method_fattorizzazione,method_casework,skill_manipolazione_algebrica,skill_riconoscimento_pattern,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -83,10 +80,10 @@ level: RMO
 
 > Let $P(x) = x^2 + \frac{1}{2}x + b$ and $Q(x) = x^2 + cx + d$ be two polynomials with real coefficients such that $P(x)Q(x) = Q(P(x))$ for all real $x$. Find all the real roots of $P(Q(x)) = 0$.
 
-**Topic:** [[topic_algebra|Algebra]]
+**Topic:** [[topic_algebra|Algebra]], [[topic_funzionali|Functional equations / sequences]]
 **Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_casework|Casework]]
-**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
-**Area:** [[Algebra e Analisi]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1aTvWjjCyaztnP6zBTHomfMlYOKdjp_YI/view)
 
 
@@ -97,16 +94,15 @@ level: RMO
 
 > Siano $P(x) = x^2 + \frac{1}{2}x + b$ e $Q(x) = x^2 + cx + d$ due polinomi a coefficienti reali tali che $P(x)Q(x) = Q(P(x))$ per ogni $x$ reale. Determinare tutte le radici reali di $P(Q(x)) = 0$.
 
-**Topic:** [[topic_algebra|Algebra]]
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_funzionali|Equazioni funzionali / successioni]]
 **Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_casework|Casework]]
-**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Algebra e Analisi]]
 
-[[Quesiti/src_rmo_2017#q03|src_rmo_2017__Q03]]
 
 
-
-<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_combinatoria,method_colorazione,method_grafi,method_casework,skill_conteggio_sistematico,skill_ragionamento_geometrico,skill_riconoscimento_pattern"></span>
+<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_combinatoria,method_colorazione,method_grafi,method_casework,method_conteggio,skill_conteggio_sistematico,skill_ragionamento_geometrico,skill_riconoscimento_pattern"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -116,9 +112,9 @@ level: RMO
 > Consider $n^2$ unit squares in the $xy$-plane centred at point $(i, j)$ with integer coordinates, $1 \le i \le n$, $1 \le j \le n$. It is required to colour each unit square using one of $k$ colours so that any two squares with centres at distance equal to $\sqrt{5}$ from each other have distinct colours. What is the least possible $k$?
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
-**Metodo:** [[method_colorazione|Colorazione]], [[method_grafi|Grafi]], [[method_casework|Casework]]
+**Metodo:** [[method_colorazione|Colorazione]], [[method_grafi|Grafi]], [[method_casework|Casework]], [[method_conteggio|Combinatorial counting]]
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
-**Area:** [[Combinatoria, Logica e Probabilita]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1aTvWjjCyaztnP6zBTHomfMlYOKdjp_YI/view)
 
 
@@ -129,12 +125,11 @@ level: RMO
 
 > Si considerino $n^2$ quadrati unitari nel piano $xy$, centrati nel punto $(i, j)$ avente coordinate intere $1 \le i \le n$, $1 \le j \le n$. Si deve colorare ciascun quadrato unitario usando uno dei $k$ colori in modo che due quadrati qualsiasi i cui centri siano distanti $\sqrt{5}$ l'uno dall'altro abbiano colori diversi. Qual è il minimo possibile di $k$?
 
+
 **Topic:** [[topic_combinatoria|Combinatoria]]
-**Metodo:** [[method_colorazione|Colorazione]], [[method_grafi|Grafi]], [[method_casework|Casework]]
+**Metodo:** [[method_colorazione|Colorazione]], [[method_grafi|Grafi]], [[method_casework|Casework]], [[method_conteggio|Conteggio combinatorio]]
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
-
-[[Quesiti/src_rmo_2017#q04|src_rmo_2017__Q04]]
 
 
 
@@ -166,11 +161,9 @@ level: RMO
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Geometria]]
 
-[[Quesiti/src_rmo_2017#q05|src_rmo_2017__Q05]]
 
 
-
-<span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_disuguaglianze,topic_algebra,method_disuguaglianze,method_simmetria,skill_manipolazione_algebrica,skill_stima"></span>
+<span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_disuguaglianze,topic_algebra,method_disuguaglianze,method_simmetria,method_fattorizzazione,skill_manipolazione_algebrica,skill_stima"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -180,9 +173,9 @@ level: RMO
 > Let $x, y, z$ be real numbers, each greater than $1$. Prove that $$\frac{x+1}{y+1} + \frac{y+1}{z+1} + \frac{z+1}{x+1} \le \frac{x-1}{y-1} + \frac{y-1}{z-1} + \frac{z-1}{x-1}.$$
 
 **Topic:** [[topic_disuguaglianze|Disuguaglianze]], [[topic_algebra|Algebra]]
-**Metodo:** [[method_disuguaglianze|Disuguaglianze]], [[method_simmetria|Simmetria]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze]], [[method_simmetria|Simmetria]], [[method_fattorizzazione|Factorisation / algebraic manipulation]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]]
-**Area:** [[Algebra e Analisi]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1aTvWjjCyaztnP6zBTHomfMlYOKdjp_YI/view)
 
 
@@ -193,9 +186,8 @@ level: RMO
 
 > Let $x, y, z$ be real numbers, each greater than $1$. Prove that $$\frac{x+1}{y+1} + \frac{y+1}{z+1} + \frac{z+1}{x+1} \le \frac{x-1}{y-1} + \frac{y-1}{z-1} + \frac{z-1}{x-1}.$$
 
+
 **Topic:** [[topic_disuguaglianze|Disuguaglianze]], [[topic_algebra|Algebra]]
-**Metodo:** [[method_disuguaglianze|Disuguaglianze]], [[method_simmetria|Simmetria]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze]], [[method_simmetria|Simmetria]], [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]]
 **Area:** [[Algebra e Analisi]]
-
-[[Quesiti/src_rmo_2017#q06|src_rmo_2017__Q06]]

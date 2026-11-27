@@ -12,9 +12,6 @@ level: Coupe Animath Printemps
 
 <span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_aritmetica,topic_algebra,method_telescoping,skill_manipolazione_algebrica,skill_riconoscimento_pattern"></span>
 
-<div class="qlang-switch" data-default="en"></div>
-
-
 *Compute the alternating sum 0-1+2-3+...-49+50*
 
 > Give the value of $0 - 1 + 2 - 3 + 4 - 5 + \ldots - 49 + 50$.
@@ -29,8 +26,20 @@ level: Coupe Animath Printemps
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1_vhrn_EAwqwxRAFhr5kf1B1CemCKlZdi/view)
 
 
-<div class="qlang-split" data-lang="it"></div>
 
+<span class="atom-split" id="q01__it" data-atom="q01__it" data-title="Q01__IT" data-tags=""></span>
+
+---
+tipo: quesito-translation
+translation_of: src_canimath_2020_printemps__Q01
+lang: it
+secondary: true
+title: "Coupe Animath Primavera 2020  Quesito 1"
+summary: "Calcolare la somma alternata 0-1+2-3+...-49+50"
+topics: [topic_aritmetica, topic_algebra]
+methods: [method_telescoping]
+skills: [skill_manipolazione_algebrica, skill_riconoscimento_pattern]
+tags: [kg/translation, topic/aritmetica, topic/algebra]---
 
 *Calcolare la somma alternata 0-1+2-3+...-49+50*
 
@@ -38,15 +47,16 @@ level: Coupe Animath Printemps
 > 
 > *Solo una risposta numerica è prevista qui.*
 
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_telescoping|Somme telescopiche]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 **Risposta:** 25
 [[Quesiti/src_canimath_2020_printemps#q01|src_canimath_2020_printemps__Q01]]
 
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_combinatoria,method_conteggio,method_casework,skill_conteggio_sistematico"></span>
-
-<div class="qlang-switch" data-default="en"></div>
-
 
 *Count 5-card hands containing four cards of the same value*
 
@@ -61,8 +71,20 @@ level: Coupe Animath Printemps
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1_vhrn_EAwqwxRAFhr5kf1B1CemCKlZdi/view)
 
 
-<div class="qlang-split" data-lang="it"></div>
 
+<span class="atom-split" id="q02__it" data-atom="q02__it" data-title="Q02__IT" data-tags=""></span>
+
+---
+tipo: quesito-translation
+translation_of: src_canimath_2020_printemps__Q02
+lang: it
+secondary: true
+title: "Coupe Animath Primavera 2020  Quesito 2"
+summary: "Contare le mani a 5 carte contenenti quattro carte dello stesso valore"
+topics: [topic_combinatoria]
+methods: [method_conteggio, method_casework]
+skills: [skill_conteggio_sistematico]
+tags: [kg/translation, topic/combinatoria]---
 
 *Conta le mani a 5 carte contenenti quattro carte dello stesso valore*
 
@@ -70,11 +92,15 @@ level: Coupe Animath Printemps
 > 
 > *Solo una risposta numerica è prevista qui.*
 
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_conteggio|Conteggio combinatorio]], [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
 [[Quesiti/src_canimath_2020_printemps#q02|src_canimath_2020_printemps__Q02]]
 
 
 
-<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_geometria_piana,skill_ragionamento_geometrico"></span>
+<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_geometria_piana,method_simmetria,skill_ragionamento_geometrico"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -84,8 +110,9 @@ level: Coupe Animath Printemps
 > Let $ABC$ be a triangle isosceles at $A$. The bisector of the angle $\widehat{ABC}$ meets the side $[AC]$ at $D$. Suppose that $BD = DA$. Determine the angles of the triangle.
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_simmetria|Using symmetry]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
-**Area:** [[Geometria]]
+**Area:** [[Geometria|Geometry]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1_vhrn_EAwqwxRAFhr5kf1B1CemCKlZdi/view)
 
 
@@ -96,11 +123,14 @@ level: Coupe Animath Printemps
 
 > $ABC$ sia un triangolo a uguale scala a $A$. Il bisettore dell'angolo $\widehat{ABC}$ incontra il lato $[AC]$ a $D$. Supponiamo che $BD = DA$. Determinare gli angoli del triangolo.
 
-[[Quesiti/src_canimath_2020_printemps#q03|src_canimath_2020_printemps__Q03]]
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_simmetria|Sfruttamento della simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Geometria]]
 
 
 
-<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_algebra,topic_aritmetica,method_ricorsione,skill_riconoscimento_pattern,skill_manipolazione_algebrica"></span>
+<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_algebra,topic_aritmetica,topic_funzionali,method_ricorsione,method_fattorizzazione,skill_riconoscimento_pattern,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -109,10 +139,10 @@ level: Coupe Animath Printemps
 
 > A number appears on a computer screen. We know that if $x$ appears on the screen, then the number $x^2 - 2x + 1$ appears just afterwards. If the first number to appear is $2$, what is the $2020$th number to appear?
 
-**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_ricorsione|Ricorsione]]
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_funzionali|Functional equations / sequences]]
+**Metodo:** [[method_ricorsione|Ricorsione]], [[method_fattorizzazione|Factorisation / algebraic manipulation]]
 **Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
-**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1_vhrn_EAwqwxRAFhr5kf1B1CemCKlZdi/view)
 
 
@@ -123,14 +153,14 @@ level: Coupe Animath Printemps
 
 > Un numero appare su uno schermo del computer. Sappiamo che se $x$ appare sullo schermo, allora il numero $x^2 - 2x + 1$ appare subito dopo. Se il primo numero che appare è $2$, quale è il numero $2020$ che appare?
 
-[[Quesiti/src_canimath_2020_printemps#q04|src_canimath_2020_printemps__Q04]]
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_funzionali|Equazioni funzionali / successioni]]
+**Metodo:** [[method_ricorsione|Ricorsione]], [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 
 
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_geometria_piana,method_simmetria,skill_ragionamento_geometrico,skill_lettura_attenta"></span>
-
-<div class="qlang-switch" data-default="en"></div>
-
 
 *Acute triangle: D foot of altitude from A, E reflection of D across line AC; prove FBC isosceles at B*
 
@@ -143,21 +173,34 @@ level: Coupe Animath Printemps
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1_vhrn_EAwqwxRAFhr5kf1B1CemCKlZdi/view)
 
 
-<div class="qlang-split" data-lang="it"></div>
 
+<span class="atom-split" id="q05__it" data-atom="q05__it" data-title="Q05__IT" data-tags=""></span>
+
+---
+tipo: quesito-translation
+translation_of: src_canimath_2020_printemps__Q05
+lang: it
+secondary: true
+title: "Coupe Animath Primavera 2020  Quesito 5"
+summary: "Triangolo acuto: D piede di altitudine da A, E riflessione di D attraverso la linea AC; dimostrare gli isosceli FBC a B"
+topics: [topic_geometria_piana]
+methods: [method_simmetria]
+skills: [skill_ragionamento_geometrico, skill_lettura_attenta]
+tags: [kg/translation, topic/geometria_piana]---
 
 *Triangolo acuto: D piede di altitudine da A, E riflessione di D attraverso la linea AC; dimostrare gli isosceli di FBC a B*
 
 > Lasciate che $ABC$ sia un triangolo i cui angoli sono tutti acuti. $D$ sia il piede dell'altitudine dal vertice $A$. Il punto $E$ deve essere il riflesso del punto $D$ rispetto alla riga $(AC)$. La perpendicolare alla linea $(AE)$ che attraversa $B$ incontra la linea $(AC)$ in un punto indicato $F$. Indicare che il triangolo $FBC$ è uguale a $B$.
 
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_simmetria|Sfruttamento della simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta del testo]]
+**Area:** [[Geometria]]
 [[Quesiti/src_canimath_2020_printemps#q05|src_canimath_2020_printemps__Q05]]
 
 
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_combinatoria,topic_aritmetica,method_colorazione,method_casework,skill_conteggio_sistematico,skill_casework_accurato"></span>
-
-<div class="qlang-switch" data-default="en"></div>
-
 
 *Smallest number of colours to colour 2..8 then 2..31 so multiples differ*
 
@@ -171,18 +214,34 @@ level: Coupe Animath Printemps
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1_vhrn_EAwqwxRAFhr5kf1B1CemCKlZdi/view)
 
 
-<div class="qlang-split" data-lang="it"></div>
 
+<span class="atom-split" id="q06__it" data-atom="q06__it" data-title="Q06__IT" data-tags=""></span>
+
+---
+tipo: quesito-translation
+translation_of: src_canimath_2020_printemps__Q06
+lang: it
+secondary: true
+title: "Coupe Animath Primavera 2020  Quesito 6"
+summary: "Il numero più piccolo di colori per colore 2,8, poi 2,31 così i multipli differiscono"
+topics: [topic_combinatoria, topic_aritmetica]
+methods: [method_colorazione, method_casework]
+skills: [skill_conteggio_sistematico, skill_casework_accurato]
+tags: [kg/translation, topic/combinatoria, topic/aritmetica]---
 
 *Il numero minimo di colori per colore 2,8 e poi 2,31 in modo che i multipli differiscano*
 
 > 1) Alice desidera colorare i numeri interi tra $2$ e $8$ (inclusivo) usando i colori $k$. Desidera che, se $m$ e $n$ sono due numeri interi tra $2$ e $8$ in modo tale che $m$ sia un multiple di $n$ e $m \ne n$, allora $m$ e $n$ siano di colori diversi. Determinare il numero intero $k$ più piccolo per il quale Alice può colorare i numeri interi $2, 3, \ldots, 8$ utilizzando i colori $k$. 2) Alice desidera colorare i numeri interi tra $2$ e $31$ (inclusi) utilizzando i colori $k$. Desidera che, se $m$ e $n$ sono due numeri interi tra $2$ e $31$ in modo tale che $m$ sia un multiple di $n$ e $m \ne n$, allora $m$ e $n$ siano di colori diversi. Determinare il numero intero $k$ più piccolo per il quale Alice può colorare i numeri interi $2, 3, \ldots, 31$ utilizzando i colori $k$.
 
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_colorazione|Colorazione / parita]], [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 [[Quesiti/src_canimath_2020_printemps#q06|src_canimath_2020_printemps__Q06]]
 
 
 
-<span class="atom-split" id="q07" data-atom="q07" data-title="Quesito 7" data-tags="topic_combinatoria,topic_algebra,method_estremalita,method_simmetria,skill_modellizzazione,skill_lettura_attenta"></span>
+<span class="atom-split" id="q07" data-atom="q07" data-title="Quesito 7" data-tags="topic_combinatoria,topic_algebra,topic_disuguaglianze,method_estremalita,method_simmetria,method_disuguaglianze,skill_modellizzazione,skill_lettura_attenta"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -195,10 +254,10 @@ level: Coupe Animath Printemps
 > 1) Is it possible to have $M' < M$?
 > 2) Is it possible to have $M' > M$?
 
-**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_algebra|Algebra]]
-**Metodo:** [[method_estremalita|Estremalità]], [[method_simmetria|Simmetria]]
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_algebra|Algebra]], [[topic_disuguaglianze|Inequalities]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_simmetria|Simmetria]], [[method_disuguaglianze|Classical inequalities]]
 **Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_lettura_attenta|Lettura attenta]]
-**Area:** [[Combinatoria, Logica e Probabilita]], [[Algebra e Analisi]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Algebra e Analisi|Algebra and analysis]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1_vhrn_EAwqwxRAFhr5kf1B1CemCKlZdi/view)
 
 
@@ -211,14 +270,14 @@ level: Coupe Animath Printemps
 > 
 > Successivamente, i giocatori ridistribuiscono le carte rosse come segue: il giocatore che detiene la carta verde del numero più piccolo riceve la carta rossa del numero più grande; poi il giocatore che detiene la carta verde del secondo numero più piccolo riceve la carta rossa del secondo numero più grande; e così via. Ogni giocatore calcola di nuovo la somma dei numeri delle sue due carte, e indichiamo con $M'$ la somma più grande tra le somme dei giocatori $n$. 1) È possibile avere $M' < M$? 2) È possibile avere $M' > M$?
 
-[[Quesiti/src_canimath_2020_printemps#q07|src_canimath_2020_printemps__Q07]]
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_algebra|Algebra]], [[topic_disuguaglianze|Disuguaglianze]]
+**Metodo:** [[method_estremalita|Principio di estremalita]], [[method_simmetria|Sfruttamento della simmetria]], [[method_disuguaglianze|Disuguaglianze classiche]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_lettura_attenta|Lettura attenta del testo]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Algebra e Analisi]]
 
 
 
 <span class="atom-split" id="q08" data-atom="q08" data-title="Quesito 8" data-tags="topic_aritmetica,method_fattorizzazione,method_casework,skill_casework_accurato,skill_manipolazione_algebrica"></span>
-
-<div class="qlang-switch" data-default="en"></div>
-
 
 *Find m,n,k where intermediate divisors of n are one more than those of m*
 
@@ -231,21 +290,34 @@ level: Coupe Animath Printemps
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1_vhrn_EAwqwxRAFhr5kf1B1CemCKlZdi/view)
 
 
-<div class="qlang-split" data-lang="it"></div>
 
+<span class="atom-split" id="q08__it" data-atom="q08__it" data-title="Q08__IT" data-tags=""></span>
+
+---
+tipo: quesito-translation
+translation_of: src_canimath_2020_printemps__Q08
+lang: it
+secondary: true
+title: "Coupe Animath Primavera 2020  Quesito 8"
+summary: "Trova m,n,k dove i divisori intermedi di n sono uno in più di quelli di m"
+topics: [topic_aritmetica]
+methods: [method_fattorizzazione, method_casework]
+skills: [skill_casework_accurato, skill_manipolazione_algebrica]
+tags: [kg/translation, topic/aritmetica]---
 
 *Ricerca m,n,k dove i divisori intermedi di n sono uno in più di quelli di m*
 
 > Determinare i numeri interi $m \ge 2$, $n \ge 2$ e $k \ge 3$ che hanno la seguente proprietà: $m$ e $n$ hanno ognuno dei divisori positivi $k$, e se $d_1 < \ldots < d_k$ sono i divisori positivi di $m$ (con $d_1 = 1$ e $d_k = m$) e $d_1' < \ldots < d_k'$ sono i divisori positivi di $n$ (con $d_1' = 1$ e $d_k' = n$), allora $d_i' = d_i + 1$ per ogni numero intero $i$ tale che $2 \le i \le k - 1$.
 
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]], [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
 [[Quesiti/src_canimath_2020_printemps#q08|src_canimath_2020_printemps__Q08]]
 
 
 
 <span class="atom-split" id="q09" data-atom="q09" data-title="Quesito 9" data-tags="topic_combinatoria,method_conteggio,method_casework,skill_conteggio_sistematico"></span>
-
-<div class="qlang-switch" data-default="en"></div>
-
 
 *Count 5-card hands containing four cards of the same value (lycee)*
 
@@ -260,8 +332,20 @@ level: Coupe Animath Printemps
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1_vhrn_EAwqwxRAFhr5kf1B1CemCKlZdi/view)
 
 
-<div class="qlang-split" data-lang="it"></div>
 
+<span class="atom-split" id="q09__it" data-atom="q09__it" data-title="Q09__IT" data-tags=""></span>
+
+---
+tipo: quesito-translation
+translation_of: src_canimath_2020_printemps__Q09
+lang: it
+secondary: true
+title: "Coupe Animath Primavera 2020  Quesito 9"
+summary: "Contare le mani a 5 carte contenenti quattro carte dello stesso valore (lycee)"
+topics: [topic_combinatoria]
+methods: [method_conteggio, method_casework]
+skills: [skill_conteggio_sistematico]
+tags: [kg/translation, topic/combinatoria]---
 
 *Conta le mani a 5 carte contenenti quattro carte dello stesso valore (lycee)*
 
@@ -269,11 +353,15 @@ level: Coupe Animath Printemps
 > 
 > *Solo una risposta numerica è prevista qui.*
 
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_conteggio|Conteggio combinatorio]], [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
 [[Quesiti/src_canimath_2020_printemps#q09|src_canimath_2020_printemps__Q09]]
 
 
 
-<span class="atom-split" id="q10" data-atom="q10" data-title="Quesito 10" data-tags="topic_geometria_piana,skill_ragionamento_geometrico"></span>
+<span class="atom-split" id="q10" data-atom="q10" data-title="Quesito 10" data-tags="topic_geometria_piana,method_simmetria,skill_ragionamento_geometrico"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -283,8 +371,9 @@ level: Coupe Animath Printemps
 > Let $ABC$ be a triangle isosceles at $A$. The bisector of the angle $\widehat{ABC}$ meets the side $[AC]$ at $D$. Suppose that $BD = DA$. Determine the angles of the triangle $ABC$.
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_simmetria|Using symmetry]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
-**Area:** [[Geometria]]
+**Area:** [[Geometria|Geometry]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1_vhrn_EAwqwxRAFhr5kf1B1CemCKlZdi/view)
 
 
@@ -295,14 +384,14 @@ level: Coupe Animath Printemps
 
 > $ABC$ sia un triangolo a uguale scala a $A$. Il bisettore dell'angolo $\widehat{ABC}$ incontra il lato $[AC]$ a $D$. Supponiamo che $BD = DA$. Determinare gli angoli del triangolo $ABC$.
 
-[[Quesiti/src_canimath_2020_printemps#q10|src_canimath_2020_printemps__Q10]]
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_simmetria|Sfruttamento della simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Geometria]]
 
 
 
 <span class="atom-split" id="q11" data-atom="q11" data-title="Quesito 11" data-tags="topic_combinatoria,topic_aritmetica,method_colorazione,method_casework,skill_conteggio_sistematico,skill_casework_accurato"></span>
-
-<div class="qlang-switch" data-default="en"></div>
-
 
 *Smallest number of colours to colour 2..8 then 2..31 so multiples differ (lycee)*
 
@@ -316,21 +405,34 @@ level: Coupe Animath Printemps
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1_vhrn_EAwqwxRAFhr5kf1B1CemCKlZdi/view)
 
 
-<div class="qlang-split" data-lang="it"></div>
 
+<span class="atom-split" id="q11__it" data-atom="q11__it" data-title="Q11__IT" data-tags=""></span>
+
+---
+tipo: quesito-translation
+translation_of: src_canimath_2020_printemps__Q11
+lang: it
+secondary: true
+title: "Coupe Animath Primavera 2020  Quesito 11"
+summary: "Numero minore di colori per colore 2,8, poi 2,31 in modo che i moltipli differiscano (lycee)"
+topics: [topic_combinatoria, topic_aritmetica]
+methods: [method_colorazione, method_casework]
+skills: [skill_conteggio_sistematico, skill_casework_accurato]
+tags: [kg/translation, topic/combinatoria, topic/aritmetica]---
 
 *Il numero minimo di colori per il colore 2,8 e poi 2,31 in modo che i moltipli differiscano (licee)*
 
 > 1) Alice desidera colorare i numeri interi tra $2$ e $8$ (inclusivo) usando i colori $k$. Desidera che, se $m$ e $n$ sono due numeri interi tra $2$ e $8$ in modo tale che $m$ sia un multiple di $n$ e $m \ne n$, allora $m$ e $n$ siano di colori diversi. Determinare il numero intero $k$ più piccolo per il quale Alice può colorare i numeri interi $2, 3, \ldots, 8$ utilizzando i colori $k$. 2) Alice desidera colorare i numeri interi tra $2$ e $31$ (inclusi) utilizzando i colori $k$. Desidera che, se $m$ e $n$ sono due numeri interi tra $2$ e $31$ in modo tale che $m$ sia un multiple di $n$ e $m \ne n$, allora $m$ e $n$ siano di colori diversi. Determinare il numero intero $k$ più piccolo per il quale Alice può colorare i numeri interi $2, 3, \ldots, 31$ utilizzando i colori $k$.
 
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_colorazione|Colorazione / parita]], [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 [[Quesiti/src_canimath_2020_printemps#q11|src_canimath_2020_printemps__Q11]]
 
 
 
 <span class="atom-split" id="q12" data-atom="q12" data-title="Quesito 12" data-tags="topic_disuguaglianze,topic_algebra,method_disuguaglianze,method_estremalita,skill_manipolazione_algebrica,skill_stima"></span>
-
-<div class="qlang-switch" data-default="en"></div>
-
 
 *With min x_i >= max y_i, prove P <= G <= 2P for P=max(x_i-y_i), G=max x_i - min y_i*
 
@@ -345,8 +447,20 @@ level: Coupe Animath Printemps
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1_vhrn_EAwqwxRAFhr5kf1B1CemCKlZdi/view)
 
 
-<div class="qlang-split" data-lang="it"></div>
 
+<span class="atom-split" id="q12__it" data-atom="q12__it" data-title="Q12__IT" data-tags=""></span>
+
+---
+tipo: quesito-translation
+translation_of: src_canimath_2020_printemps__Q12
+lang: it
+secondary: true
+title: "Coupe Animath Primavera 2020  Quesito 12"
+summary: "Con min x_i >= max y_i, provare P <= G <= 2P per P=max(x_i-y_i), G=max x_i - min y_i"
+topics: [topic_disuguaglianze, topic_algebra]
+methods: [method_disuguaglianze, method_estremalita]
+skills: [skill_manipolazione_algebrica, skill_stima]
+tags: [kg/translation, topic/disuguaglianze, topic/algebra]---
 
 *Con min x_i >= max y_i, provare P <= G <= 2P per P=max(x_i-y_i), G=max x_i - min y_i*
 
@@ -354,11 +468,15 @@ level: Coupe Animath Printemps
 > 
 > *Dati i numeri reali $a_1, a_2, \ldots, a_n$, il numero $\min_{1 \le i \le n} a_i$ indica il numero reale più piccolo tra i numeri $a_1, a_2, \ldots, a_n$. Il numero $\max_{1 \le i \le n} a_i$ indica il più grande reale tra i numeri $a_1, a_2, \ldots, a_n$.*
 
+**Topic:** [[topic_disuguaglianze|Disuguaglianze]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze classiche]], [[method_estremalita|Principio di estremalita]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima e approssimazione]]
+**Area:** [[Algebra e Analisi]]
 [[Quesiti/src_canimath_2020_printemps#q12|src_canimath_2020_printemps__Q12]]
 
 
 
-<span class="atom-split" id="q13" data-atom="q13" data-title="Quesito 13" data-tags="topic_aritmetica,method_casework,method_estremalita,skill_casework_accurato,skill_stima"></span>
+<span class="atom-split" id="q13" data-atom="q13" data-title="Quesito 13" data-tags="topic_aritmetica,method_casework,method_estremalita,method_congruenze,skill_casework_accurato,skill_stima"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -368,9 +486,9 @@ level: Coupe Animath Printemps
 > For every integer $n \ge 0$, let $s(n)$ denote the sum of the digits of $n$. Determine all integers $n$ such that $n = 2s(n)$.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_casework|Casework]], [[method_estremalita|Estremalità]]
+**Metodo:** [[method_casework|Casework]], [[method_estremalita|Estremalità]], [[method_congruenze|Modular arithmetic / congruences]]
 **Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_stima|Stima]]
-**Area:** [[Aritmetica e Teoria dei Numeri]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1_vhrn_EAwqwxRAFhr5kf1B1CemCKlZdi/view)
 
 
@@ -381,14 +499,14 @@ level: Coupe Animath Printemps
 
 > Per ogni numero intero $n \ge 0$, $s(n)$ indica la somma delle cifre di $n$. Determinare tutti gli integri $n$ in modo tale che $n = 2s(n)$.
 
-[[Quesiti/src_canimath_2020_printemps#q13|src_canimath_2020_printemps__Q13]]
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Analisi per casi]], [[method_estremalita|Principio di estremalita]], [[method_congruenze|Aritmetica modulare / congruenze]]
+**Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_stima|Stima e approssimazione]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
 
 
 
 <span class="atom-split" id="q14" data-atom="q14" data-title="Quesito 14" data-tags="topic_aritmetica,method_fattorizzazione,method_casework,skill_casework_accurato,skill_manipolazione_algebrica"></span>
-
-<div class="qlang-switch" data-default="en"></div>
-
 
 *Find m,n,k where intermediate divisors of n are one more than those of m (lycee)*
 
@@ -401,21 +519,34 @@ level: Coupe Animath Printemps
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1_vhrn_EAwqwxRAFhr5kf1B1CemCKlZdi/view)
 
 
-<div class="qlang-split" data-lang="it"></div>
 
+<span class="atom-split" id="q14__it" data-atom="q14__it" data-title="Q14__IT" data-tags=""></span>
+
+---
+tipo: quesito-translation
+translation_of: src_canimath_2020_printemps__Q14
+lang: it
+secondary: true
+title: "Coupe Animath Primavera 2020  Quesito 14"
+summary: "Trova m,n,k dove i divisori intermedi di n sono uno in più di quelli di m (licee)"
+topics: [topic_aritmetica]
+methods: [method_fattorizzazione, method_casework]
+skills: [skill_casework_accurato, skill_manipolazione_algebrica]
+tags: [kg/translation, topic/aritmetica]---
 
 *Ricerca m,n,k dove i divisori intermedi di n sono uno in più di quelli di m (lycee)*
 
 > Determinare i numeri interi $m \ge 2$, $n \ge 2$ e $k \ge 3$ che hanno la seguente proprietà: $m$ e $n$ hanno ognuno dei divisori positivi $k$, e se $d_1 < \ldots < d_k$ sono i divisori positivi di $m$ (con $d_1 = 1$ e $d_k = m$) e $d_1' < \ldots < d_k'$ sono i divisori positivi di $n$ (con $d_1' = 1$ e $d_k' = n$), allora $d_i' = d_i + 1$ per ogni numero intero $i$ tale che $2 \le i \le k - 1$.
 
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]], [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
 [[Quesiti/src_canimath_2020_printemps#q14|src_canimath_2020_printemps__Q14]]
 
 
 
 <span class="atom-split" id="q15" data-atom="q15" data-title="Quesito 15" data-tags="topic_geometria_piana,method_simmetria,method_coordinate,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
-
-<div class="qlang-switch" data-default="en"></div>
-
 
 *Square ABCD with exterior equilateral triangle BCS; N,H,P midpoints; compute angles BPN and NHC*
 
@@ -430,21 +561,34 @@ level: Coupe Animath Printemps
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1_vhrn_EAwqwxRAFhr5kf1B1CemCKlZdi/view)
 
 
-<div class="qlang-split" data-lang="it"></div>
 
+<span class="atom-split" id="q15__it" data-atom="q15__it" data-title="Q15__IT" data-tags=""></span>
+
+---
+tipo: quesito-translation
+translation_of: src_canimath_2020_printemps__Q15
+lang: it
+secondary: true
+title: "Coupe Animath Primavera 2020  Quesito 15"
+summary: "ABCD quadrato con triangolo equilaterale esterno BCS; punti di mezzo N,H,P; angoli di calcolo BPN e NHC"
+topics: [topic_geometria_piana]
+methods: [method_simmetria, method_coordinate]
+skills: [skill_ragionamento_geometrico, skill_manipolazione_algebrica]
+tags: [kg/translation, topic/geometria_piana]---
 
 *ABCD quadrato con triangolo esterno equilaterale BCS; punti di mezzo N,H,P; angoli di calcolo BPN e NHC*
 
 > Che $ABCD$ sia un quadrato e che $S$ sia un punto all'esterno del quadrato $ABCD$ in modo tale che il triangolo $BCS$ sia equilaterale. Il $N$ deve essere il punto medio del segmento $[AS]$ e il $H$ il punto medio del segmento $[CD]$. Il segmento $[BS]$ deve essere il punto medio del segmento $P$. 1) Calcolare l'angolo $\widehat{BPN}$. 2) Calcolare l'angolo $\widehat{NHC}$.
 
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_simmetria|Sfruttamento della simmetria]], [[method_coordinate|Metodo delle coordinate]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
 [[Quesiti/src_canimath_2020_printemps#q15|src_canimath_2020_printemps__Q15]]
 
 
 
 <span class="atom-split" id="q16" data-atom="q16" data-title="Quesito 16" data-tags="topic_combinatoria,topic_aritmetica,method_estremalita,method_casework,skill_modellizzazione,skill_casework_accurato,skill_stima"></span>
-
-<div class="qlang-switch" data-default="en"></div>
-
 
 *Find all S so that positive integers each <=10 summing to S can always be split into two groups each <=70*
 
@@ -457,21 +601,34 @@ level: Coupe Animath Printemps
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1_vhrn_EAwqwxRAFhr5kf1B1CemCKlZdi/view)
 
 
-<div class="qlang-split" data-lang="it"></div>
 
+<span class="atom-split" id="q16__it" data-atom="q16__it" data-title="Q16__IT" data-tags=""></span>
+
+---
+tipo: quesito-translation
+translation_of: src_canimath_2020_printemps__Q16
+lang: it
+secondary: true
+title: "Coupe Animath Primavera 2020  Quesito 16"
+summary: "Trova tutte le S in modo che i numeri interi positivi ogni <=10 sommando a S possa sempre essere diviso in due gruppi ciascuno <=70"
+topics: [topic_combinatoria, topic_aritmetica]
+methods: [method_estremalita, method_casework]
+skills: [skill_modellizzazione, skill_casework_accurato, skill_stima]
+tags: [kg/translation, topic/combinatoria, topic/aritmetica]---
 
 *Trova tutti gli S in modo che i numeri interi positivi ogni <=10 sommando a S possa sempre essere diviso in due gruppi ciascuno <=70*
 
 > La somma di alcuni integri positivi (non necessariamente distinti), ognuno inferiore o uguale a $10$, è uguale a $S$. Trova tutti i valori di $S$ in modo tale che, qualunque siano questi enti, essi possano **sempre** essere suddivisi in due gruppi, ognuno di somma inferiore o uguale a $70$.
 
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_estremalita|Principio di estremalita]], [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_casework_accurato|Casework accurato]], [[skill_stima|Stima e approssimazione]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 [[Quesiti/src_canimath_2020_printemps#q16|src_canimath_2020_printemps__Q16]]
 
 
 
 <span class="atom-split" id="q17" data-atom="q17" data-title="Quesito 17" data-tags="topic_combinatoria,method_estremalita,method_casework,skill_conteggio_sistematico,skill_modellizzazione,skill_ragionamento_geometrico"></span>
-
-<div class="qlang-switch" data-default="en"></div>
-
 
 *Smallest n to place black cells in an n x n grid, k per row and column, no two sharing a side or corner*
 
@@ -484,11 +641,27 @@ level: Coupe Animath Printemps
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1_vhrn_EAwqwxRAFhr5kf1B1CemCKlZdi/view)
 
 
-<div class="qlang-split" data-lang="it"></div>
 
+<span class="atom-split" id="q17__it" data-atom="q17__it" data-title="Q17__IT" data-tags=""></span>
+
+---
+tipo: quesito-translation
+translation_of: src_canimath_2020_printemps__Q17
+lang: it
+secondary: true
+title: "Coupe Animath Primavera 2020  Quesito 17"
+summary: "N più piccolo per posizionare le celle nere in una griglia n x n, k per riga e colonna, non due che condividono un lato o un angolo"
+topics: [topic_combinatoria]
+methods: [method_estremalita, method_casework]
+skills: [skill_conteggio_sistematico, skill_modellizzazione, skill_ragionamento_geometrico]
+tags: [kg/translation, topic/combinatoria]---
 
 *Meno n per posizionare le celle nere in una griglia n x n, k per riga e colonna, non due che condividono un lato o un angolo*
 
 > $k > 1$ sia un numero intero positivo. Determinare il numero intero $n$ più piccolo per il quale si possono colorare alcune celle di una tavola $n \times n$ in nero in modo tale che non esistano due celle nere che condividano un lato o un angolo, e che ogni riga e ogni colonna contengano esattamente $k$ celle nere.
 
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_estremalita|Principio di estremalita]], [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
 [[Quesiti/src_canimath_2020_printemps#q17|src_canimath_2020_printemps__Q17]]

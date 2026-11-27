@@ -10,7 +10,7 @@ level: Concours Général
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_algebra,topic_combinatoria,method_estremalita,method_casework,method_disuguaglianze,skill_manipolazione_algebrica,skill_casework_accurato,skill_stima,skill_astrazione"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_algebra,topic_combinatoria,topic_disuguaglianze,method_estremalita,method_casework,method_disuguaglianze,skill_manipolazione_algebrica,skill_casework_accurato,skill_stima,skill_astrazione"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -48,10 +48,10 @@ level: Concours Général
 >    d. Deduce that $C\le2I$.
 >    e. Determine $n$ reals $x_1,x_2,\ldots,x_n$ such that $C=2I$.
 
-**Topic:** [[topic_algebra|Algebra]], [[topic_combinatoria|Combinatoria]]
+**Topic:** [[topic_algebra|Algebra]], [[topic_combinatoria|Combinatoria]], [[topic_disuguaglianze|Inequalities]]
 **Metodo:** [[method_estremalita|Estremalità]], [[method_casework|Casework]], [[method_disuguaglianze|Disuguaglianze]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Casework accurato]], [[skill_stima|Stima]], [[skill_astrazione|Astrazione]]
-**Area:** [[Algebra e Analisi]], [[Combinatoria, Logica e Probabilita]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1mpuoT_Bn4czxgorxXLmkmdqsNnb4j2Av/view)
 
 > [!warning] Estratto/tradotto da verificare con la fonte.
@@ -76,14 +76,14 @@ level: Concours Général
 > 
 > 5. Che $n$ sia un numero intero maggiore o uguale a $4$ e che $(x_1,x_2,\ldots,x_n)$ sia la sequenza finita data a Isabelle e Clara. Un insieme: $$M=\max(|x_1|,|x_2|,\ldots,|x_n|)\qquad S=|x_1+x_2+\cdots+x_n|\qquad N=\max(M,S)$$ In altre parole, $M$ è il più grande dei numeri $|x_1|,|x_2|,\ldots,|x_n|$. Allo stesso modo, $N$ è il più grande dei numeri $M$ e $S$. a. Mostra che $S\le I$. b. Mostra che $M\le2I$. c. Mostra che $C\le N$. d. Riduzione di $C\le2I$. e. Determinare i valori $n$ $x_1,x_2,\ldots,x_n$ tali da $C=2I$.
 
-[[Quesiti/src_cgen_2021#q01|src_cgen_2021__Q01]]
+**Topic:** [[topic_algebra|Algebra]], [[topic_combinatoria|Combinatoria]], [[topic_disuguaglianze|Disuguaglianze]]
+**Metodo:** [[method_estremalita|Principio di estremalita]], [[method_casework|Analisi per casi]], [[method_disuguaglianze|Disuguaglianze classiche]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Casework accurato]], [[skill_stima|Stima e approssimazione]], [[skill_astrazione|Astrazione / generalizzazione]]
+**Area:** [[Algebra e Analisi]], [[Combinatoria, Logica e Probabilita]]
 
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_geometria_solida,topic_geometria_analitica,method_coordinate,method_simmetria,method_casework,skill_ragionamento_geometrico,skill_manipolazione_algebrica,skill_astrazione"></span>
-
-<div class="qlang-switch" data-default="en"></div>
-
 
 *Tetrahedra: properties of a tetrahedron ABCD; existence of the centroid G and of the circumscribed sphere; concurrency of altitudes (in O, in G, necessarily) and characterisation of regular tetrahedra; a criterion for concurrency of altitudes via dot products of unit direction vectors.*
 
@@ -113,8 +113,20 @@ level: Concours Général
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<div class="qlang-split" data-lang="it"></div>
 
+<span class="atom-split" id="q02__it" data-atom="q02__it" data-title="Q02__IT" data-tags=""></span>
+
+---
+tipo: quesito-translation
+translation_of: src_cgen_2021__Q02
+lang: it
+secondary: true
+title: "Concours Général des Lycées 2021  Matematica  Quesito 2"
+summary: "Tetraedri: proprietà di un tetraedro ABCD; esistenza del centroide G e della sfera circonscrita; concomitanza di altitudini (in O, in G, necessariamente) e caratterizzazione di tetraedri regolari; criterio per la concomitanza di altitudini attraverso i prodotti dotati di vettori di direzione unitaria."
+topics: [topic_geometria_solida, topic_geometria_analitica]
+methods: [method_coordinate, method_simmetria, method_casework]
+skills: [skill_ragionamento_geometrico, skill_manipolazione_algebrica, skill_astrazione]
+tags: [kg/translation, topic/geometria_solida, topic/geometria_analitica]---
 
 *Tetraedri: proprietà di un tetraedro ABCD; esistenza del centroide G e della sfera circoscritta; concomitanza di altitudini (in O, in G, necessariamente) e caratterizzazione di tetraedri regolari; un criterio per la concomitanza di altitudini tramite prodotti dotati di vettori di direzione unità.*
 
@@ -128,11 +140,15 @@ level: Concours Général
 > 
 > 4. In quanto segue, il prodotto del punto di due vettori $\vec{v}$ e $\vec{w}$ è indicato $\vec{v}\cdot\vec{w}$. Le linee $\Delta_1,\ldots,\Delta_4$ devono essere quattro linee non coplanarie distinte, che sono simultanee in un punto $H$. Per $1\le i\le4$ si sceglie un vettore di direzione unitaria $\vec{u}_i$ di $\Delta_i$ e, per $1\le i,j\le4$, una nota $c_{ij}=\vec{u}_i\cdot\vec{u}_j$. a. Si suppone che esista un tetraedro $A_1A_2A_3A_4$ le cui altitudini sono simultanee a $H$ e tale che $A_j\in\Delta_j$ per tutti $j\in\{1,2,3,4\}$. Mostrare che $c_{12}c_{34}=c_{13}c_{24}=c_{14}c_{23}$. b. Al contrario, se $c_{12}c_{34}=c_{13}c_{24}=c_{14}c_{23}\ne0$, dimostrare che esiste un tetraedro $A_1A_2A_3A_4$ le cui altitudini sono simultanee a $H$ e tale che $A_j\in\Delta_j$ per tutti $j\in\{1,2,3,4\}$.
 
+**Topic:** [[topic_geometria_solida|Geometria solida]], [[topic_geometria_analitica|Geometria analitica]]
+**Metodo:** [[method_coordinate|Metodo delle coordinate]], [[method_simmetria|Sfruttamento della simmetria]], [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione / generalizzazione]]
+**Area:** [[Geometria]]
 [[Quesiti/src_cgen_2021#q02|src_cgen_2021__Q02]]
 
 
 
-<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_probabilita,topic_combinatoria,method_casework,method_ricorsione,method_induzione,method_conteggio,method_simmetria,skill_modellizzazione,skill_casework_accurato,skill_conteggio_sistematico,skill_stima"></span>
+<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_probabilita,topic_combinatoria,method_casework,method_ricorsione,method_induzione,method_conteggio,method_simmetria,skill_modellizzazione,skill_casework_accurato,skill_conteggio_sistematico,skill_stima,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -178,8 +194,8 @@ level: Concours Général
 
 **Topic:** [[topic_probabilita|Probabilità]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_casework|Casework]], [[method_ricorsione|Ricorsione]], [[method_induzione|Induzione]], [[method_conteggio|Conteggio]], [[method_simmetria|Simmetria]]
-**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_casework_accurato|Casework accurato]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_stima|Stima]]
-**Area:** [[Combinatoria, Logica e Probabilita]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_casework_accurato|Casework accurato]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_stima|Stima]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1mpuoT_Bn4czxgorxXLmkmdqsNnb4j2Av/view)
 
 > [!warning] Estratto/tradotto da verificare con la fonte.
@@ -216,14 +232,14 @@ level: Concours Général
 > 
 > 17. Indicare $\mathscr{P}_n$.
 
-[[Quesiti/src_cgen_2021#q03|src_cgen_2021__Q03]]
+**Topic:** [[topic_probabilita|Probabilita e statistica]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casework|Analisi per casi]], [[method_ricorsione|Ricorsione]], [[method_induzione|Induzione]], [[method_conteggio|Conteggio combinatorio]], [[method_simmetria|Sfruttamento della simmetria]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_casework_accurato|Casework accurato]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_stima|Stima e approssimazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
 
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_algebra,topic_disuguaglianze,topic_insiemi_funzioni,topic_trigonometria,method_disuguaglianze,method_casework,method_trigonometria,method_fattorizzazione,skill_manipolazione_algebrica,skill_astrazione,skill_riconoscimento_pattern,skill_ragionamento_geometrico"></span>
-
-<div class="qlang-switch" data-default="en"></div>
-
 
 *Que la force soit avec f!: a positive function f on an interval I subset of [0,+inf) is called k-strong or k-weak depending on the sign of (y^k f(y) - x^k f(x))(f(y)/y^k - f(x)/x^k); examples, equivalent criteria, monotonicity of g_k=x^k f and h_k=f/x^k, derivative criteria, products/compositions, and applications to inequalities (a,b,c power means and a sin/tan inequality).*
 
@@ -287,8 +303,20 @@ level: Concours Général
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<div class="qlang-split" data-lang="it"></div>
 
+<span class="atom-split" id="q04__it" data-atom="q04__it" data-title="Q04__IT" data-tags=""></span>
+
+---
+tipo: quesito-translation
+translation_of: src_cgen_2021__Q04
+lang: it
+secondary: true
+title: "Concours Général des Lycées 2021  Matematica  Quesito 4"
+summary: "Que la force soit avec f!: una funzione positiva f in un intervallo I sottoinsieme di [0,+inf) è chiamata k-forte o k-fragile a seconda del segno di (y^k f(y) - x^k f(x)) (f(y)/y^k - f(x)/x^k); esempi, criteri equivalenti, monotonia di g_k=x^k f e h_k=f/x^k, criteri derivati, prodotti/composti e applicazioni alle disuguaglianze (a,b,c mezzi di potenza e una disuguaglianza sin/tan)."
+topics: [topic_algebra, topic_disuguaglianze, topic_insiemi_funzioni, topic_trigonometria]
+methods: [method_disuguaglianze, method_casework, method_trigonometria, method_fattorizzazione]
+skills: [skill_manipolazione_algebrica, skill_astrazione, skill_riconoscimento_pattern, skill_ragionamento_geometrico]
+tags: [kg/translation, topic/algebra, topic/disuguaglianze, topic/insiemi_funzioni, topic/trigonometria]---
 
 *Que la force soit avec f!: una funzione positiva f su un sottoinsieme di intervalli I di [0,+inf) è chiamata k-forte o k-fragile a seconda del segno di (y^k f(y) - x^k f(x)) f(y)/y^k - f(x)/x^k); esempi, criteri equivalenti, monotonia di g_k=x^k f e h_k=f/x^k, criteri derivati, prodotti/composti e applicazioni alle disuguaglianze (a,b,c mezzi di potenza e una disuguaglianza sin/tanc).*
 
@@ -302,4 +330,8 @@ level: Concours Général
 > 
 > 3.4 Applicazione alla dimostrazione delle disuguaglianze. 14. Lasciate che $a,b$ e $c$ siano tre reali strettamente positivi e $n$ un intero naturale non zero. Mostra che: $$\left(\frac{a+c}{b+c}\right)^n+\left(\frac{b+c}{a+c}\right)^n\le\left(\frac{a}{b}\right)^n+\left(\frac{b}{a}\right)^n$$ 15. In questa domanda si può usare il fatto che le funzioni $\cos$ e $\sin$ sono differenziabili su $]0,\frac{\pi}{2}[$ con derivati rispettivamente $\cos'=-\sin$ e $\sin'=\cos$. La funzione $\tan$ è definita su $]0,\frac{\pi}{2}[$ da $\tan(x)=\frac{\sin(x)}{\cos(x)}$. Che $a$ e $b$ siano due numeri reali dell'intervallo $]0,\frac{\pi}{2}[$, mostrando che: $$\frac{\sin(a)}{\sin(b)}+\frac{\sin(b)}{\sin(a)}\le\frac{a}{b}+\frac{b}{a}\le\frac{\tan(a)}{\tan(b)}+\frac{\tan(b)}{\tan(a)}$$
 
+**Topic:** [[topic_algebra|Algebra]], [[topic_disuguaglianze|Disuguaglianze]], [[topic_insiemi_funzioni|Insiemi e funzioni]], [[topic_trigonometria|Trigonometria]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze classiche]], [[method_casework|Analisi per casi]], [[method_trigonometria|Tecniche trigonometriche]], [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione / generalizzazione]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Algebra e Analisi]], [[Geometria]]
 [[Quesiti/src_cgen_2021#q04|src_cgen_2021__Q04]]

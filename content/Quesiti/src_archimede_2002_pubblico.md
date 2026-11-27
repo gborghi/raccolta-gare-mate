@@ -10,7 +10,7 @@ level: gara del pubblico
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_geometria_piana,skill_ragionamento_geometrico"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_geometria_piana,method_simmetria,skill_ragionamento_geometrico"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -22,6 +22,7 @@ level: gara del pubblico
 > Nel giardino della villa del Professor Abacus c'è una piscina circolare circondata da quattro vialetti rettilinei che formano un quadrilatero. La piscina tocca ciascuno dei quattro vialetti e inoltre due vialetti opposti sono paralleli, mentre gli altri due hanno la stessa lunghezza. Sapendo che i due paralleli misurano rispettivamente 800 e 200 centimetri, quanti centimetri misura il raggio della piscina?
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_simmetria|Sfruttamento della simmetria]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]]
 **Risposta:** 0200
@@ -39,12 +40,13 @@ level: gara del pubblico
 
 
 **Topic:** [[topic_geometria_piana|Plane geometry]]
-**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
-[[Quesiti/src_archimede_2002_pubblico#q01|src_archimede_2002_pubblico__Q01]]
+**Metodo:** [[method_simmetria|Using symmetry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
 
 
 
-<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_combinatoria,method_conteggio,skill_conteggio_sistematico"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_combinatoria,topic_probabilita,method_conteggio,skill_conteggio_sistematico,skill_modellizzazione,skill_lettura_attenta"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -55,9 +57,9 @@ level: gara del pubblico
 > 
 > I tre nipoti del Professor Abacus (Anna, Bernardo e Carla) giocano al seguente gioco: in un'urna ci sono tre fogliettini con su scritto i tre nomi dei bambini. Si estrae un fogliettino, si annota quale nome è stato estratto e si rimette il fogliettino nell'urna, ripetendo l'operazione finché un nome non viene estratto due volte. A questo punto il giocatore in questione viene eliminato e proseguono gli altri due mettendo solo due foglietti nell'urna. Quando il nome di uno dei due rimasti è stato estratto due volte (contando anche le estrazioni già effettuate prima) viene proclamato vincitore l'altro. Qual è la probabilità che il gioco termini esattamente dopo 4 estrazioni? (Calcolate la probabilità in percentuale e riportate la parte intera del risultato)
 
-**Topic:** [[topic_combinatoria|Combinatoria]]
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_probabilita|Probabilita e statistica]]
 **Metodo:** [[method_conteggio|Conteggio combinatorio]]
-**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_lettura_attenta|Lettura attenta del testo]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0038
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1e28I45oFZBy8LbZDPWATOGcSFnMwr5ZH/view)
@@ -73,14 +75,14 @@ level: gara del pubblico
 > The Professor Abacus's three grandchildren (Anna, Bernardo and Carla) play the following game: in an urn there are three slips of paper with the three children's names written on them. A slip is drawn, the name drawn is recorded, and the slip is put back in the urn, repeating the operation until a name is drawn twice. At this point the player in question is eliminated and the other two continue, putting only two slips in the urn. When the name of one of the two remaining players has been drawn twice (counting also the draws already made before), the other is proclaimed the winner. What is the probability that the game ends exactly after 4 draws? (Calculate the probability in percentage and report the integer part of the result)
 
 
-**Topic:** [[topic_combinatoria|Combinatorics]]
-**Method:** [[method_conteggio|Combinatorial counting]]
-**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
-[[Quesiti/src_archimede_2002_pubblico#q02|src_archimede_2002_pubblico__Q02]]
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_probabilita|Probability and statistics]]
+**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]], [[skill_modellizzazione|Modelling / translating the text]], [[skill_lettura_attenta|Careful reading of the text]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
 
 
-<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_aritmetica,topic_funzionali,method_ricorsione,skill_riconoscimento_pattern"></span>
+<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_aritmetica,topic_funzionali,topic_combinatoria,method_ricorsione,method_conteggio,skill_riconoscimento_pattern,skill_conteggio_sistematico,skill_lettura_attenta"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -91,10 +93,10 @@ level: gara del pubblico
 > 
 > Durante una noiosa ora di lezione Anna fa il seguente gioco. Scrive su un foglio un intero $a_0$, poi scrive una successione di interi $a_i$: ogni volta prendendo come $a_{i+1}$ o la somma delle cifre del numero precedente o il loro prodotto. Dopo un po' si accorge che tutti i numeri che ha scritto sono dispari. Quanti sono i numeri $a_i$ con meno di sei cifre per cui in qualsiasi momento Anna si fermi e comunque decida di calcolare $a_{i+1}$ secondo le regole di sopra troverà sempre e solo numeri dispari?
 
-**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_funzionali|Equazioni funzionali / successioni]]
-**Metodo:** [[method_ricorsione|Ricorsione]]
-**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
-**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_funzionali|Equazioni funzionali / successioni]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_ricorsione|Ricorsione]], [[method_conteggio|Conteggio combinatorio]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta del testo]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0039
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1e28I45oFZBy8LbZDPWATOGcSFnMwr5ZH/view)
 
@@ -109,10 +111,10 @@ level: gara del pubblico
 > During a boring lesson Anna plays the following game. She writes an integer $a_0$ on a sheet, then writes a sequence of integers $a_i$: each time taking as $a_{i+1}$ either the sum of the digits of the previous number or their product. After a while she notices that all the numbers she has written are odd. How many of the numbers $a_i$ with fewer than six digits are such that, whenever Anna stops and however she decides to calculate $a_{i+1}$ according to the rules above, she will always find only odd numbers?
 
 
-**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_funzionali|Functional equations / sequences]]
-**Method:** [[method_ricorsione|Recursion]]
-**Skill:** [[skill_riconoscimento_pattern|Pattern recognition]]
-[[Quesiti/src_archimede_2002_pubblico#q03|src_archimede_2002_pubblico__Q03]]
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_funzionali|Functional equations / sequences]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_ricorsione|Recursion]], [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]], [[skill_conteggio_sistematico|Systematic counting]], [[skill_lettura_attenta|Careful reading of the text]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Algebra e Analisi|Algebra and analysis]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
 
 
@@ -470,11 +472,11 @@ level: gara del pubblico
 **Topic:** [[topic_algebra|Algebra]], [[topic_disuguaglianze|Inequalities]]
 **Method:** [[method_disuguaglianze|Classical inequalities]]
 **Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
-[[Quesiti/src_archimede_2002_pubblico#q04|src_archimede_2002_pubblico__Q04]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
 
 
 
-<span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_aritmetica,method_congruenze,skill_riconoscimento_pattern"></span>
+<span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_aritmetica,method_congruenze,skill_riconoscimento_pattern,skill_modellizzazione,skill_lettura_attenta"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -493,7 +495,7 @@ level: gara del pubblico
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]]
-**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_lettura_attenta|Lettura attenta del testo]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 3984
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1e28I45oFZBy8LbZDPWATOGcSFnMwr5ZH/view)
@@ -516,13 +518,13 @@ level: gara del pubblico
 
 
 **Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
-**Method:** [[method_congruenze|Modular arithmetic / congruences]]
-**Skill:** [[skill_riconoscimento_pattern|Pattern recognition]]
-[[Quesiti/src_archimede_2002_pubblico#q05|src_archimede_2002_pubblico__Q05]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]]
+**Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]], [[skill_modellizzazione|Modelling / translating the text]], [[skill_lettura_attenta|Careful reading of the text]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
 
 
-<span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_geometria_solida,topic_geometria_analitica,skill_ragionamento_geometrico"></span>
+<span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_geometria_solida,topic_geometria_analitica,method_coordinate,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -534,7 +536,8 @@ level: gara del pubblico
 > Il figlio del Professor Abacus è un ingegnere aerospaziale. In questi giorni sta progettando un pezzo di una stazione orbitante: l'intelaiatura del pezzo è un parallelepipedo formato da due cubetti che hanno una faccia in comune. Sulla rappresentazione tridimensionale che il suo computer dà del parallelepipedo in un riferimento cartesiano tre vertici di esso hanno coordinate $(3, 6, 2)$, $(5, 2, 6)$, $(7, 7, 1)$. Quanto misura in $m^2$ la superficie totale del pezzo sapendo che sugli assi ciascuna unità rappresenta un metro?
 
 **Topic:** [[topic_geometria_solida|Geometria solida]], [[topic_geometria_analitica|Geometria analitica]]
-**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Metodo:** [[method_coordinate|Metodo delle coordinate]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 **Risposta:** 0090
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1e28I45oFZBy8LbZDPWATOGcSFnMwr5ZH/view)
@@ -550,13 +553,14 @@ level: gara del pubblico
 > The son of Professor Abacus is an aerospace engineer. These days he is designing a piece of an orbiting station: the frame of the piece is a parallelepiped made of two cubes that share a face. On the three-dimensional representation that his computer gives of the parallelepiped in a Cartesian reference frame, three vertices of it have coordinates $(3, 6, 2)$, $(5, 2, 6)$, $(7, 7, 1)$. What is the total surface area of the piece in $m^2$, knowing that on the axes each unit represents one metre?
 
 
-**Topic:** [[topic_geometria_solida|Solid geometry]], [[topic_geometria_analitica|Analytic geometry]]
-**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
-[[Quesiti/src_archimede_2002_pubblico#q06|src_archimede_2002_pubblico__Q06]]
+**Topic:** [[topic_geometria_solida|Solid geometry]], [[topic_geometria_analitica|Coordinate geometry]]
+**Metodo:** [[method_coordinate|Coordinate method]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Geometria|Geometry]]
 
 
 
-<span class="atom-split" id="q07" data-atom="q07" data-title="Quesito 7" data-tags="topic_probabilita,skill_modellizzazione"></span>
+<span class="atom-split" id="q07" data-atom="q07" data-title="Quesito 7" data-tags="topic_probabilita,topic_combinatoria,method_conteggio,skill_modellizzazione,skill_conteggio_sistematico,skill_lettura_attenta"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -567,8 +571,9 @@ level: gara del pubblico
 > 
 > Il professor Abacus e un suo collega entrano in un tram in cui ci sono 6 persone. Il professor Abacus nota che, tra i passeggeri già presenti, ci sono esattamente 2 persone con i capelli biondi e il suo collega nota che, tra i passeggeri già presenti, ci sono esattamente 2 persone che indossano una giacca blu. Qual è la probabilità che ci sia almeno un biondo che indossa una giacca blu? (Calcolate la probabilità in percentuale supponendo che i due eventi "avere capelli biondi" e "indossare una giacca blu" siano indipendenti, e riportate la parte intera del risultato)
 
-**Topic:** [[topic_probabilita|Probabilita e statistica]]
-**Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
+**Topic:** [[topic_probabilita|Probabilita e statistica]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_conteggio|Conteggio combinatorio]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta del testo]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0060
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1e28I45oFZBy8LbZDPWATOGcSFnMwr5ZH/view)
@@ -584,13 +589,14 @@ level: gara del pubblico
 > Professor Abacus and a colleague enter a tram in which there are 6 people. Professor Abacus notices that, among the passengers already present, there are exactly 2 people with blond hair and his colleague notices that, among the passengers already present, there are exactly 2 people wearing a blue jacket. What is the probability that there is at least one blond person wearing a blue jacket? (Calculate the probability in percentage assuming that the two events "having blond hair" and "wearing a blue jacket" are independent, and report the integer part of the result)
 
 
-**Topic:** [[topic_probabilita|Probability and statistics]]
-**Skill:** [[skill_modellizzazione|Modelling / translating the text]]
-[[Quesiti/src_archimede_2002_pubblico#q07|src_archimede_2002_pubblico__Q07]]
+**Topic:** [[topic_probabilita|Probability and statistics]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]], [[skill_conteggio_sistematico|Systematic counting]], [[skill_lettura_attenta|Careful reading of the text]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
 
 
-<span class="atom-split" id="q08" data-atom="q08" data-title="Quesito 8" data-tags="topic_aritmetica,topic_logica,method_invarianti,skill_modellizzazione"></span>
+<span class="atom-split" id="q08" data-atom="q08" data-title="Quesito 8" data-tags="topic_aritmetica,topic_logica,topic_funzionali,method_invarianti,method_telescoping,skill_modellizzazione,skill_manipolazione_algebrica,skill_riconoscimento_pattern"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -601,10 +607,10 @@ level: gara del pubblico
 > 
 > Nel giardino della villa del professor Abacus ci sono due rane. In questo momento esse si trovano in uno dei vialetti vicino alla piscina, procedendo in direzione di raggiungere la rana $B$ dalla rana $A$. La rana $A$ si trova a 40 centimetri dalla pozza, mentre la rana $B$ si trova dietro la $A$ a un metro dalla pozza. La rana $B$ ad ogni salto copre la metà della distanza che c'è in quel momento tra lei e la pozza d'acqua. La rana $A$ al primo salto copre la metà della distanza, al secondo copre un terzo, al terzo copre un quarto e così via. Dopo quanti salti $B$ supera $A$, sapendo che le rane saltano sempre contemporaneamente?
 
-**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_logica|Logica, giochi, strategie]]
-**Metodo:** [[method_invarianti|Invarianti / monovarianti]]
-**Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
-**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_logica|Logica, giochi, strategie]], [[topic_funzionali|Equazioni funzionali / successioni]]
+**Metodo:** [[method_invarianti|Invarianti / monovarianti]], [[method_telescoping|Somme telescopiche]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]], [[Algebra e Analisi]]
 **Risposta:** 0004
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1e28I45oFZBy8LbZDPWATOGcSFnMwr5ZH/view)
 
@@ -619,14 +625,14 @@ level: gara del pubblico
 > In the garden of Professor Abacus's villa there are two frogs. At this moment they are in one of the paths near the pool, proceeding in the direction of reaching frog $B$ from frog $A$. Frog $A$ is 40 centimetres from the pond, while frog $B$ is behind $A$ at one metre from the pond. Frog $B$ at each jump covers half of the distance that is at that moment between it and the water pond. Frog $A$ at the first jump covers half of the distance, at the second covers one third, at the third covers one quarter and so on. After how many jumps does $B$ overtake $A$, knowing that the frogs always jump simultaneously?
 
 
-**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_logica|Logic, games, strategies]]
-**Method:** [[method_invarianti|Invariants / monovariants]]
-**Skill:** [[skill_modellizzazione|Modelling / translating the text]]
-[[Quesiti/src_archimede_2002_pubblico#q08|src_archimede_2002_pubblico__Q08]]
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_logica|Logic, games, strategies]], [[topic_funzionali|Functional equations / sequences]]
+**Metodo:** [[method_invarianti|Invariants / monovariants]], [[method_telescoping|Telescoping sums]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]], [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Algebra e Analisi|Algebra and analysis]]
 
 
 
-<span class="atom-split" id="q09" data-atom="q09" data-title="Quesito 9" data-tags="topic_combinatoria,topic_aritmetica,method_congruenze,skill_conteggio_sistematico"></span>
+<span class="atom-split" id="q09" data-atom="q09" data-title="Quesito 9" data-tags="topic_combinatoria,topic_aritmetica,topic_funzionali,method_congruenze,skill_conteggio_sistematico,skill_riconoscimento_pattern,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -637,10 +643,10 @@ level: gara del pubblico
 > 
 > Nella casa del professor Abacus c'è una strana roulette. In questa roulette ci sono in circolo 50 caselle, su ciascuna è scritto un numero intero. Ad ogni modo prendendo 20 caselle consecutive la somma dei numeri scritti in esse è sempre uguale a 500. C'è inoltre una casella in cui appare il numero 1 e si numerano le altre in senso orario a partire da essa, nella 19-esima appare il numero 19 e nella 50-esima il numero 50. Quale numero è scritto nella 56-esima casella?
 
-**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_funzionali|Equazioni funzionali / successioni]]
 **Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]]
-**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
-**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 **Risposta:** 0030
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1e28I45oFZBy8LbZDPWATOGcSFnMwr5ZH/view)
 
@@ -655,14 +661,14 @@ level: gara del pubblico
 > In Professor Abacus's house there is a strange roulette. In this roulette there are 50 boxes in a circle, each with an integer written on it. In any case, taking 20 consecutive boxes, the sum of the numbers written in them is always equal to 500. There is also a box in which the number 1 appears, and the others are numbered clockwise starting from it, with the number 19 appearing in the 19th and the number 50 in the 50th. What number is written in the 56th box?
 
 
-**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_aritmetica|Arithmetic / Number theory]]
-**Method:** [[method_congruenze|Modular arithmetic / congruences]]
-**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
-[[Quesiti/src_archimede_2002_pubblico#q09|src_archimede_2002_pubblico__Q09]]
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_aritmetica|Arithmetic / Number theory]], [[topic_funzionali|Functional equations / sequences]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]], [[skill_riconoscimento_pattern|Pattern recognition]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Algebra e Analisi|Algebra and analysis]]
 
 
 
-<span class="atom-split" id="q10" data-atom="q10" data-title="Quesito 10" data-tags="topic_aritmetica,method_congruenze,skill_conteggio_sistematico"></span>
+<span class="atom-split" id="q10" data-atom="q10" data-title="Quesito 10" data-tags="topic_aritmetica,topic_funzionali,method_congruenze,method_telescoping,skill_conteggio_sistematico,skill_manipolazione_algebrica,skill_riconoscimento_pattern"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -673,10 +679,10 @@ level: gara del pubblico
 > 
 > Anna è stata scoperta dal professore mentre durante la lezione invece di seguire faceva il suo strano gioco. Pertanto per punizione le viene assegnato di calcolare quanto fa la metà di 1000 più 1 due quarti di 1000, più 1 $3/8$ di 1000, più 1 $4/16$ di 1000 e così via andando avanti fino a fermarsi a $20/2^{20}$-esimi di 1000. Ma il professore si accorge dopo qualche minuto che i calcoli sono troppi e la punizione è troppo pesante. Pertanto dice ad Anna: "Ti risparmierò tutti questi calcoli se saprai dirmi qual è il numero intero per cui puoi spaventarti continuando a sommare $n/2^n$-esimi di 1000". Sapreste darle un valido suggerimento?
 
-**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]]
-**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
-**Area:** [[Aritmetica e Teoria dei Numeri]]
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_funzionali|Equazioni funzionali / successioni]]
+**Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]], [[method_telescoping|Somme telescopiche]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 **Risposta:** 1999
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1e28I45oFZBy8LbZDPWATOGcSFnMwr5ZH/view)
 
@@ -691,14 +697,14 @@ level: gara del pubblico
 > Anna was caught by the professor while during the lesson instead of following she was playing her strange game. Therefore for punishment she is assigned to calculate what is half of 1000 plus 1 quarter of 1000, plus 1 $3/8$ of 1000, plus 1 $4/16$ of 1000 and so on going on until stopping at $20/2^{20}$-th of 1000. But the professor notices after a few minutes that the calculations are too many and the punishment is too heavy. Therefore he says to Anna: "I will save you all these calculations if you can tell me what is the integer for which you can be scared continuing to sum $n/2^n$-th of 1000". Could you give her a valid suggestion?
 
 
-**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
-**Method:** [[method_congruenze|Modular arithmetic / congruences]]
-**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
-[[Quesiti/src_archimede_2002_pubblico#q10|src_archimede_2002_pubblico__Q10]]
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_funzionali|Functional equations / sequences]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]], [[method_telescoping|Telescoping sums]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]], [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Algebra e Analisi|Algebra and analysis]]
 
 
 
-<span class="atom-split" id="q11" data-atom="q11" data-title="Quesito 11" data-tags="topic_combinatoria,method_conteggio,skill_conteggio_sistematico"></span>
+<span class="atom-split" id="q11" data-atom="q11" data-title="Quesito 11" data-tags="topic_combinatoria,topic_aritmetica,method_conteggio,method_fattorizzazione,skill_conteggio_sistematico,skill_modellizzazione,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -709,10 +715,10 @@ level: gara del pubblico
 > 
 > Nel giardino della villa del Professor Abacus, Carla sta giocando con dei sassolini. In questo momento ha $n$ mucchietti, formati da $1, 2, 3, \ldots, n$ sassolini. Carla si accorge che può raggruppare un po' di mucchietti da una parte e un po' dall'altra in modo tale che il numero dei sassolini che si trovano da una delle due parti è uguale al numero di sassolini che si trovano dall'altra parte, e sposta un certo mucchietto da una parte all'altra, quella con più sassolini ne ha esattamente il doppio dell'altra. Carla, che per essere piccola è già molto brava in matematica, si accorge che se avesse $m$ mucchietti fatti come sopra ma con $m > n$ la cosa non si sarebbe potuta verificare. Quanto vale $n$?
 
-**Topic:** [[topic_combinatoria|Combinatoria]]
-**Metodo:** [[method_conteggio|Conteggio combinatorio]]
-**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
-**Area:** [[Combinatoria, Logica e Probabilita]]
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_conteggio|Conteggio combinatorio]], [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 0011
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1e28I45oFZBy8LbZDPWATOGcSFnMwr5ZH/view)
 
@@ -727,14 +733,14 @@ level: gara del pubblico
 > In the garden of Professor Abacus's villa, Carla is playing with some pebbles. At this moment she has $n$ little piles, made up of $1, 2, 3, \ldots, n$ pebbles. Carla notices that she can group a few little piles on one side and a few on the other so that the number of pebbles on one of the two sides equals the number of pebbles on the other side, and then moves a certain little pile from one side to the other, the side with more pebbles having exactly twice as many as the other. Carla, who is already very good at mathematics for being small, notices that if she had $m$ little piles made as above but with $m > n$, this would not have been possible. What is the value of $n$?
 
 
-**Topic:** [[topic_combinatoria|Combinatorics]]
-**Method:** [[method_conteggio|Combinatorial counting]]
-**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
-[[Quesiti/src_archimede_2002_pubblico#q11|src_archimede_2002_pubblico__Q11]]
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_conteggio|Combinatorial counting]], [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]], [[skill_modellizzazione|Modelling / translating the text]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
 
 
-<span class="atom-split" id="q12" data-atom="q12" data-title="Quesito 12" data-tags="topic_geometria_analitica,topic_combinatoria,method_conteggio,method_coordinate,skill_conteggio_sistematico"></span>
+<span class="atom-split" id="q12" data-atom="q12" data-title="Quesito 12" data-tags="topic_geometria_analitica,topic_combinatoria,topic_aritmetica,method_conteggio,method_coordinate,skill_conteggio_sistematico,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -745,10 +751,10 @@ level: gara del pubblico
 > 
 > Sul suo quaderno quadrettato Bernardo sta per disegnare un triangolo di coordinate $(0, 0)$, $(1, n)$ e $(n, 1)$. Qual è il più piccolo $n$ che deve scegliere perché ci siano almeno 1000 punti a coordinate intere interni al triangolo?
 
-**Topic:** [[topic_geometria_analitica|Geometria analitica]], [[topic_combinatoria|Combinatoria]]
+**Topic:** [[topic_geometria_analitica|Geometria analitica]], [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_conteggio|Conteggio combinatorio]], [[method_coordinate|Metodo delle coordinate]]
-**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
-**Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]], [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 0046
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1e28I45oFZBy8LbZDPWATOGcSFnMwr5ZH/view)
 
@@ -763,14 +769,14 @@ level: gara del pubblico
 > On his squared notebook Bernardo is about to draw a triangle with coordinates $(0, 0)$, $(1, n)$ and $(n, 1)$. What is the smallest $n$ he must choose so that there are at least 1000 integer-coordinate points inside the triangle?
 
 
-**Topic:** [[topic_geometria_analitica|Analytic geometry]], [[topic_combinatoria|Combinatorics]]
-**Method:** [[method_conteggio|Combinatorial counting]], [[method_coordinate|Coordinate method]]
-**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
-[[Quesiti/src_archimede_2002_pubblico#q12|src_archimede_2002_pubblico__Q12]]
+**Topic:** [[topic_geometria_analitica|Analytic geometry]], [[topic_combinatoria|Combinatorics]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_conteggio|Combinatorial counting]], [[method_coordinate|Coordinate method]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]], [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Geometria|Geometry]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
 
 
-<span class="atom-split" id="q13" data-atom="q13" data-title="Quesito 13" data-tags="topic_geometria_piana,method_coordinate,skill_ragionamento_geometrico"></span>
+<span class="atom-split" id="q13" data-atom="q13" data-title="Quesito 13" data-tags="topic_geometria_piana,topic_trigonometria,method_coordinate,method_trigonometria,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -781,9 +787,9 @@ level: gara del pubblico
 > 
 > La piazza che si trova davanti alla casa del professor Abacus è un ottagono regolare $ABCDEFGH$. Sapendo che la distanza tra il centro della piazza e uno qualsiasi dei vertici è 4, calcolate le prime quattro cifre del prodotto delle misure (in metri) dei segmenti che congiungono $A$ con tutti gli altri vertici.
 
-**Topic:** [[topic_geometria_piana|Geometria piana]]
-**Metodo:** [[method_coordinate|Metodo delle coordinate]]
-**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometria]]
+**Metodo:** [[method_coordinate|Metodo delle coordinate]], [[method_trigonometria|Tecniche trigonometriche]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 **Risposta:** 8000
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1e28I45oFZBy8LbZDPWATOGcSFnMwr5ZH/view)
@@ -799,14 +805,14 @@ level: gara del pubblico
 > The square in front of Professor Abacus's house is a regular octagon $ABCDEFGH$. Knowing that the distance between the centre of the square and any one of the vertices is 4, calculate the first four digits of the product of the measures (in metres) of the segments joining $A$ to all the other vertices.
 
 
-**Topic:** [[topic_geometria_piana|Plane geometry]]
-**Method:** [[method_coordinate|Coordinate method]]
-**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
-[[Quesiti/src_archimede_2002_pubblico#q13|src_archimede_2002_pubblico__Q13]]
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_trigonometria|Trigonometry]]
+**Metodo:** [[method_coordinate|Coordinate method]], [[method_trigonometria|Trigonometric techniques]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Geometria|Geometry]]
 
 
 
-<span class="atom-split" id="q14" data-atom="q14" data-title="Quesito 14" data-tags="topic_aritmetica,skill_modellizzazione"></span>
+<span class="atom-split" id="q14" data-atom="q14" data-title="Quesito 14" data-tags="topic_aritmetica,topic_combinatoria,topic_algebra,method_fattorizzazione,method_casework,skill_modellizzazione,skill_manipolazione_algebrica,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -817,9 +823,10 @@ level: gara del pubblico
 > 
 > Questa volta Carla sta giocando con un po' di biglie colorate. Le ha appena divise in un certo numero di mucchi, che chiameremo $A_i$, tutti contenenti almeno due biglie. Poi le osserva bonariamente mentre legge il giornale, fissa il mucchietto $A_i$ e distrattamente calcola il numero $c_i$ di tutte le coppie di biglie che appartengono entrambe ad $A_i$. Si accorge poi che la somma di tutti i $c_i$ fa 28 e che la stessa cosa succede considerando le terne. Saprete dire quante sono le biglie di Carla?
 
-**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
-**Area:** [[Aritmetica e Teoria dei Numeri]]
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]], [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]], [[Algebra e Analisi]]
 **Risposta:** 0016
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1e28I45oFZBy8LbZDPWATOGcSFnMwr5ZH/view)
 
@@ -834,13 +841,14 @@ level: gara del pubblico
 > This time Carla is playing with some coloured marbles. She has just divided them into a certain number of piles, which we will call $A_i$, each containing at least two marbles. Then she watches her kindly while she reads the newspaper, fixes on the pile $A_i$ and absent-mindedly calculates the number $c_i$ of all pairs of marbles that both belong to $A_i$. She then notices that the sum of all the $c_i$ is 28 and that the same thing happens when considering the triples. Can you say how many marbles Carla has?
 
 
-**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
-**Skill:** [[skill_modellizzazione|Modelling / translating the text]]
-[[Quesiti/src_archimede_2002_pubblico#q14|src_archimede_2002_pubblico__Q14]]
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_combinatoria|Combinatorics]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]], [[method_casework|Case analysis]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]], [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Algebra e Analisi|Algebra and analysis]]
 
 
 
-<span class="atom-split" id="q15" data-atom="q15" data-title="Quesito 15" data-tags="topic_combinatoria,method_conteggio,skill_conteggio_sistematico"></span>
+<span class="atom-split" id="q15" data-atom="q15" data-title="Quesito 15" data-tags="topic_combinatoria,method_conteggio,method_cassetti,skill_conteggio_sistematico,skill_modellizzazione"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -852,8 +860,8 @@ level: gara del pubblico
 > Il Professor Abacus organizza ogni anno la gara del pubblico di Matelandia. Quest'anno ci sono 25 quesiti e una singola squadra del pubblico può totalizzare in ciascun quesito 0, 3 o 1, 0 punti. Qual è il numero minimo di squadre del pubblico che devono partecipare perché ce ne siano necessariamente due a pari merito?
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
-**Metodo:** [[method_conteggio|Conteggio combinatorio]]
-**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Metodo:** [[method_conteggio|Conteggio combinatorio]], [[method_cassetti|Principio dei cassetti]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0076
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1e28I45oFZBy8LbZDPWATOGcSFnMwr5ZH/view)
@@ -870,13 +878,13 @@ level: gara del pubblico
 
 
 **Topic:** [[topic_combinatoria|Combinatorics]]
-**Method:** [[method_conteggio|Combinatorial counting]]
-**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
-[[Quesiti/src_archimede_2002_pubblico#q15|src_archimede_2002_pubblico__Q15]]
+**Metodo:** [[method_conteggio|Combinatorial counting]], [[method_cassetti|Pigeonhole principle]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]], [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
 
 
-<span class="atom-split" id="q16" data-atom="q16" data-title="Quesito 16" data-tags="topic_geometria_piana,skill_ragionamento_geometrico"></span>
+<span class="atom-split" id="q16" data-atom="q16" data-title="Quesito 16" data-tags="topic_geometria_piana,topic_probabilita,topic_combinatoria,method_casi_conteggio,method_conteggio,skill_ragionamento_geometrico,skill_modellizzazione,skill_conteggio_sistematico"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -887,9 +895,10 @@ level: gara del pubblico
 > 
 > Come già sapete il Professor Abacus organizza ogni anno la gara del pubblico di Matelandia. Come al solito, anche quest'anno è in pensato ritardo: deve ancora inserire tre problemi per completare la gara. Pertanto, disperato, comincia a cercare in rete dei problemi che possano opportunamente modificare per la gara. Il Professor Abacus stesso ha stimato che per ogni problema che guarda ha $1/2$ di probabilità che sia adatto per la gara del pubblico. Gli rimane ancora un'ora: supponendo che ci metta quindici minuti a esaminare un problema, che probabilità ha di riuscire a completare il resto della gara in tempo? (Calcolate la probabilità in percentuale assumendo che la probabilità che un certo problema vada bene sia indipendente dalla bontà dei problemi precedenti, e date nella risposta la parte intera del risultato)
 
-**Topic:** [[topic_geometria_piana|Geometria piana]]
-**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
-**Area:** [[Geometria]]
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_probabilita|Probabilita e statistica]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casi_conteggio|Conteggio per casi]], [[method_conteggio|Conteggio combinatorio]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Geometria]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0031
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1e28I45oFZBy8LbZDPWATOGcSFnMwr5ZH/view)
 
@@ -904,9 +913,10 @@ level: gara del pubblico
 > As you already know, Professor Abacus organises the public contest of Matelandia every year. As usual, this year he is also running late: he still has to insert three problems to complete the contest. Therefore, desperate, he starts looking on the web for problems that he can suitably modify for the contest. Professor Abacus himself has estimated that for each problem he looks at, there is a $1/2$ probability that it is suitable for the public contest. He still has one hour left: assuming that he takes fifteen minutes to examine a problem, what is the probability that he manages to complete the rest of the contest in time? (Calculate the probability in percentage, assuming that the probability that a given problem is suitable is independent of the suitability of the previous problems, and give the integer part of the result in the answer)
 
 
-**Topic:** [[topic_geometria_piana|Plane geometry]]
-**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
-[[Quesiti/src_archimede_2002_pubblico#q16|src_archimede_2002_pubblico__Q16]]
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_probabilita|Probability and statistics]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_casi_conteggio|Counting by cases]], [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_modellizzazione|Modelling / translating the text]], [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Geometria|Geometry]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
 
 
@@ -940,11 +950,11 @@ level: gara del pubblico
 
 **Topic:** [[topic_geometria_piana|Plane geometry]]
 **Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
-[[Quesiti/src_archimede_2002_pubblico#q17|src_archimede_2002_pubblico__Q17]]
+**Area:** [[Geometria|Geometry]]
 
 
 
-<span class="atom-split" id="q18" data-atom="q18" data-title="Quesito 18" data-tags="topic_combinatoria,topic_logica,method_conteggio,skill_casework_accurato"></span>
+<span class="atom-split" id="q18" data-atom="q18" data-title="Quesito 18" data-tags="topic_combinatoria,topic_logica,topic_aritmetica,method_conteggio,method_fattorizzazione,skill_casework_accurato,skill_riconoscimento_pattern"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -955,10 +965,10 @@ level: gara del pubblico
 > 
 > Il professor Abacus prende il tram 32 per andare a lavorare all'Università. Tuttavia stamattina è in ritardo e si trova costretto a prendere il tram 28. "Buffo" — pensa Abacus — "il più piccolo quadrato perfetto che è multiplo di 28 è il numero civico di casa mia". Qual è il numero civico dell'edificio in cui abita il professore?
 
-**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_logica|Logica, giochi, strategie]]
-**Metodo:** [[method_conteggio|Conteggio combinatorio]]
-**Abilita:** [[skill_casework_accurato|Casework accurato]]
-**Area:** [[Combinatoria, Logica e Probabilita]]
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_logica|Logica, giochi, strategie]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_conteggio|Conteggio combinatorio]], [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
+**Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 0196
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1e28I45oFZBy8LbZDPWATOGcSFnMwr5ZH/view)
 
@@ -973,10 +983,10 @@ level: gara del pubblico
 > Professor Abacus takes tram 32 to go to work at the university. However this morning he is late and is forced to take tram 28. "Funny" — thinks Abacus — "the smallest perfect square that is a multiple of 28 is the house number of my home". What is the house number of the building where the professor lives?
 
 
-**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_logica|Logic, games, strategies]]
-**Method:** [[method_conteggio|Combinatorial counting]]
-**Skill:** [[skill_casework_accurato|Careful casework]]
-[[Quesiti/src_archimede_2002_pubblico#q18|src_archimede_2002_pubblico__Q18]]
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_logica|Logic, games, strategies]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_conteggio|Combinatorial counting]], [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_casework_accurato|Careful casework]], [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
 
 
@@ -1010,11 +1020,11 @@ level: gara del pubblico
 
 **Topic:** [[topic_geometria_piana|Plane geometry]]
 **Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
-[[Quesiti/src_archimede_2002_pubblico#q19|src_archimede_2002_pubblico__Q19]]
+**Area:** [[Geometria|Geometry]]
 
 
 
-<span class="atom-split" id="q20" data-atom="q20" data-title="Quesito 20" data-tags="topic_geometria_solida,skill_ragionamento_geometrico"></span>
+<span class="atom-split" id="q20" data-atom="q20" data-title="Quesito 20" data-tags="topic_geometria_solida,method_inclusione_esclusione,skill_ragionamento_geometrico"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -1026,6 +1036,7 @@ level: gara del pubblico
 > Il Professor Abacus ha realizzato una scultura nella scultura astratta. Da un cubo di lato 10 centimetri ricava una scultura che è data dall'unione di due tetraedri. Il primo ha come vertici dei vertici del cubo che stanno su una diagonale $d$ di una faccia e due vertici che stanno sulla diagonale $d'$ della faccia opposta che non è parallela a $d$. I vertici del secondo tetraedro sono i rimanenti quattro vertici del cubo. Qual è il volume della scultura in $\text{cm}^3$?
 
 **Topic:** [[topic_geometria_solida|Geometria solida]]
+**Metodo:** [[method_inclusione_esclusione|Inclusione-esclusione]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]]
 **Risposta:** 0500
@@ -1043,12 +1054,13 @@ level: gara del pubblico
 
 
 **Topic:** [[topic_geometria_solida|Solid geometry]]
-**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
-[[Quesiti/src_archimede_2002_pubblico#q20|src_archimede_2002_pubblico__Q20]]
+**Metodo:** [[method_inclusione_esclusione|Inclusion–exclusion]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
 
 
 
-<span class="atom-split" id="q21" data-atom="q21" data-title="Quesito 21" data-tags="topic_combinatoria,method_conteggio,skill_conteggio_sistematico"></span>
+<span class="atom-split" id="q21" data-atom="q21" data-title="Quesito 21" data-tags="topic_combinatoria,topic_logica,method_conteggio,method_casework,skill_conteggio_sistematico,skill_modellizzazione"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -1059,9 +1071,9 @@ level: gara del pubblico
 > 
 > Il Professor Abacus è candidato per diventare presidente della Società dei Matematici. La commissione che elegge il presidente è composta da nove persone e sceglie tra i tre candidati presidenti nel seguente modo: ogni elettore scrive il nome dei tre candidati in ordine di preferenza assegnando 3 punti al primo, 2 al secondo e 1 al terzo. Successivamente si sommano i punti ottenuti da ogni candidato e si stila la graduatoria finale. Alla fine delle elezioni ogni candidato ha ricevuto un punteggio diverso e purtroppo il professor Abacus è arrivato terzo. Come se non bastasse osserva mestamente che se l'elezione fosse avvenuta al solito modo (cioè se ogni elettore avesse assegnato un solo punto al candidato preferito) la graduatoria sarebbe stata esattamente il contrario! Scrivete il punteggio ottenuto dal professor Abacus.
 
-**Topic:** [[topic_combinatoria|Combinatoria]]
-**Metodo:** [[method_conteggio|Conteggio combinatorio]]
-**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_logica|Logica, giochi, strategie]]
+**Metodo:** [[method_conteggio|Conteggio combinatorio]], [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0017
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1e28I45oFZBy8LbZDPWATOGcSFnMwr5ZH/view)
@@ -1077,14 +1089,14 @@ level: gara del pubblico
 > Professor Abacus is a candidate to become president of the Society of Mathematicians. The committee that elects the president is made up of nine people and chooses among the three presidential candidates in the following way: each voter writes the names of the three candidates in order of preference, assigning 3 points to the first, 2 to the second and 1 to the third. Then the points obtained by each candidate are added up and the final ranking is drawn up. At the end of the elections each candidate has received a different score and unfortunately Professor Abacus came third. As if that were not enough, he sadly observes that if the election had taken place in the usual way (that is, if each voter had assigned only one point to the preferred candidate) the ranking would have been exactly the opposite! Write the score obtained by Professor Abacus.
 
 
-**Topic:** [[topic_combinatoria|Combinatorics]]
-**Method:** [[method_conteggio|Combinatorial counting]]
-**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
-[[Quesiti/src_archimede_2002_pubblico#q21|src_archimede_2002_pubblico__Q21]]
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_logica|Logic, games and strategies]]
+**Metodo:** [[method_conteggio|Combinatorial counting]], [[method_casework|Case analysis]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]], [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
 
 
-<span class="atom-split" id="q22" data-atom="q22" data-title="Quesito 22" data-tags="topic_combinatoria,method_conteggio,skill_conteggio_sistematico"></span>
+<span class="atom-split" id="q22" data-atom="q22" data-title="Quesito 22" data-tags="topic_combinatoria,method_conteggio,method_congruenze,method_casi_conteggio,skill_conteggio_sistematico,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -1101,8 +1113,8 @@ level: gara del pubblico
 > Quante combinazioni restano da provare al professore?
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
-**Metodo:** [[method_conteggio|Conteggio combinatorio]]
-**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Metodo:** [[method_conteggio|Conteggio combinatorio]], [[method_congruenze|Aritmetica modulare / congruenze]], [[method_casi_conteggio|Conteggio per casi]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0028
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1e28I45oFZBy8LbZDPWATOGcSFnMwr5ZH/view)
@@ -1124,13 +1136,13 @@ level: gara del pubblico
 
 
 **Topic:** [[topic_combinatoria|Combinatorics]]
-**Method:** [[method_conteggio|Combinatorial counting]]
-**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
-[[Quesiti/src_archimede_2002_pubblico#q22|src_archimede_2002_pubblico__Q22]]
+**Metodo:** [[method_conteggio|Combinatorial counting]], [[method_congruenze|Modular arithmetic / congruences]], [[method_casi_conteggio|Counting by cases]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]], [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
 
 
-<span class="atom-split" id="q23" data-atom="q23" data-title="Quesito 23" data-tags="topic_geometria_piana,skill_ragionamento_geometrico"></span>
+<span class="atom-split" id="q23" data-atom="q23" data-title="Quesito 23" data-tags="topic_geometria_piana,topic_combinatoria,method_casi_conteggio,skill_ragionamento_geometrico,skill_conteggio_sistematico"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -1141,9 +1153,10 @@ level: gara del pubblico
 > 
 > Anna ha appena disegnato un triangolo usando il suo righello e lo ha fatto in modo che ciascun lato fosse un numero dispari di centimetri. Quanti triangoli del genere può disegnare se il suo righello non le permette di misurare più di 15 centimetri? (NB: Due triangoli vengono considerati diversi solo se non sono congruenti)
 
-**Topic:** [[topic_geometria_piana|Geometria piana]]
-**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
-**Area:** [[Geometria]]
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casi_conteggio|Conteggio per casi]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Geometria]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0070
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1e28I45oFZBy8LbZDPWATOGcSFnMwr5ZH/view)
 
@@ -1158,13 +1171,14 @@ level: gara del pubblico
 > Anna has just drawn a triangle using her ruler, and she did so so that each side was an odd number of centimetres. How many triangles of this kind can she draw if her ruler does not allow her to measure more than 15 centimetres? (NB: Two triangles are considered different only if they are not congruent)
 
 
-**Topic:** [[topic_geometria_piana|Plane geometry]]
-**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
-[[Quesiti/src_archimede_2002_pubblico#q23|src_archimede_2002_pubblico__Q23]]
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_casi_conteggio|Counting by cases]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Geometria|Geometry]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
 
 
-<span class="atom-split" id="q24" data-atom="q24" data-title="Quesito 24" data-tags="topic_combinatoria,method_conteggio,skill_conteggio_sistematico"></span>
+<span class="atom-split" id="q24" data-atom="q24" data-title="Quesito 24" data-tags="topic_combinatoria,topic_algebra,method_conteggio,method_fattorizzazione,skill_conteggio_sistematico,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -1175,10 +1189,10 @@ level: gara del pubblico
 > 
 > Bernardo sta giocando col meccano. Prima costruisce due cubi di lati che, in centimetri, misurano $a$ e $b$. Poi smonta i suoi cubi e mettendo insieme i vari lati dei suoi precedenti costruisce un cubo più grande, di lato $c = a + b$. Il volume del nuovo cubo eccede di $3000 \text{ cm}^3$ la somma dei volumi degli altri 2. Infine Bernardo smonta di nuovo ciò che ha costruito e monta un parallelepipedo rettangolo i cui lati misurano $a$, $b$ e $c$. Quanto misura (in $\text{cm}^3$) il volume del parallelepipedo?
 
-**Topic:** [[topic_combinatoria|Combinatoria]]
-**Metodo:** [[method_conteggio|Conteggio combinatorio]]
-**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
-**Area:** [[Combinatoria, Logica e Probabilita]]
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_conteggio|Conteggio combinatorio]], [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Algebra e Analisi]]
 **Risposta:** 1000
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1e28I45oFZBy8LbZDPWATOGcSFnMwr5ZH/view)
 
@@ -1193,14 +1207,14 @@ level: gara del pubblico
 > Bernardo is playing with his construction set. First he builds two cubes with side lengths, in centimetres, $a$ and $b$. Then he takes apart his cubes and, putting together the various sides of his previous constructions, builds a larger cube with side $c = a + b$. The volume of the new cube exceeds by $3000 \text{ cm}^3$ the sum of the volumes of the other 2. Finally Bernardo takes apart again what he has built and assembles a rectangular parallelepiped whose side lengths measure $a$, $b$ and $c$. What is the volume (in $\text{cm}^3$) of the parallelepiped?
 
 
-**Topic:** [[topic_combinatoria|Combinatorics]]
-**Method:** [[method_conteggio|Combinatorial counting]]
-**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
-[[Quesiti/src_archimede_2002_pubblico#q24|src_archimede_2002_pubblico__Q24]]
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_conteggio|Combinatorial counting]], [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Algebra e Analisi|Algebra and analysis]]
 
 
 
-<span class="atom-split" id="q25" data-atom="q25" data-title="Quesito 25" data-tags="topic_combinatoria,method_conteggio,skill_conteggio_sistematico"></span>
+<span class="atom-split" id="q25" data-atom="q25" data-title="Quesito 25" data-tags="topic_combinatoria,topic_algebra,method_conteggio,skill_conteggio_sistematico,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -1211,10 +1225,10 @@ level: gara del pubblico
 > 
 > Carla è stata un'appassionata di trenini elettrici. In questo momento sta maneggiando 5 binari di lunghezza diversa. Prendendo via via tutte le possibili coppie di binari e sommando le lunghezze degli elementi di ciascuna coppia si ottengono i numeri 41, 44, 45, 48, 49, 50, 51, 52, 54 e 58. Qual è la lunghezza del binario più corto?
 
-**Topic:** [[topic_combinatoria|Combinatoria]]
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_algebra|Algebra]]
 **Metodo:** [[method_conteggio|Conteggio combinatorio]]
-**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
-**Area:** [[Combinatoria, Logica e Probabilita]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Algebra e Analisi]]
 **Risposta:** 0020
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1e28I45oFZBy8LbZDPWATOGcSFnMwr5ZH/view)
 
@@ -1229,7 +1243,7 @@ level: gara del pubblico
 > Carla has been a passionate enthusiast of electric trains. At the moment she is handling 5 tracks of different lengths. Taking each possible pair of tracks in turn and adding the lengths of the elements of each pair gives the numbers 41, 44, 45, 48, 49, 50, 51, 52, 54 and 58. What is the length of the shortest track?
 
 
-**Topic:** [[topic_combinatoria|Combinatorics]]
-**Method:** [[method_conteggio|Combinatorial counting]]
-**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
-[[Quesiti/src_archimede_2002_pubblico#q25|src_archimede_2002_pubblico__Q25]]
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Algebra e Analisi|Algebra and analysis]]

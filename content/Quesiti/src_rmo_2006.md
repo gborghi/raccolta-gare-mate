@@ -10,7 +10,7 @@ level: RMO
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_geometria_piana,skill_ragionamento_geometrico,skill_lettura_attenta"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_geometria_piana,method_coordinate,skill_ragionamento_geometrico,skill_lettura_attenta,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -19,11 +19,12 @@ level: RMO
 
 > Let $ABC$ be an acute-angled triangle and let $D$, $E$, $F$ be the feet of perpendiculars from $A$, $B$, $C$ respectively to $BC$, $CA$, $AB$. Let the perpendiculars from $F$ to $CB$, $CA$, $AD$, $BE$ meet them in $P$, $Q$, $M$, $N$ respectively. Prove that $P$, $Q$, $M$, $N$ are collinear.
 
-![[src_rmo_2006__q01.png]]
+![[src_rmo_2006__Q01.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
-**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
-**Area:** [[Geometria]]
+**Metodo:** [[method_coordinate|Coordinate method]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Geometria|Geometry]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1_x8mSKi8az-E9y0hgi-GtUGedgCLYpQ8/view)
 
 
@@ -34,13 +35,13 @@ level: RMO
 
 > Sia $ABC$ un triangolo acutangolo e siano $D$, $E$, $F$ i piedi delle perpendicolari condotte rispettivamente da $A$, $B$, $C$ alle rette $BC$, $CA$, $AB$. Siano $P$, $Q$, $M$, $N$ i punti in cui le perpendicolari condotte da $F$ alle rette $CB$, $CA$, $AD$, $BE$ le intersecano rispettivamente. Dimostrare che $P$, $Q$, $M$, $N$ sono allineati.
 
-![[src_rmo_2006__q01.png]]
+![[src_rmo_2006__Q01.png]]
+
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
-**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
+**Metodo:** [[method_coordinate|Metodo delle coordinate]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
-
-[[Quesiti/src_rmo_2006#q01|src_rmo_2006__Q01]]
 
 
 
@@ -71,8 +72,6 @@ level: RMO
 **Metodo:** [[method_congruenze|Congruenze]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
-
-[[Quesiti/src_rmo_2006#q02|src_rmo_2006__Q02]]
 
 
 
@@ -106,11 +105,9 @@ level: RMO
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Algebra e Analisi]]
 
-[[Quesiti/src_rmo_2006#q03|src_rmo_2006__Q03]]
 
 
-
-<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_combinatoria,method_casework,method_estremalita,skill_conteggio_sistematico,skill_ragionamento_geometrico,skill_lettura_attenta"></span>
+<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_combinatoria,topic_geometria_piana,method_casework,method_estremalita,method_cassetti,skill_conteggio_sistematico,skill_ragionamento_geometrico,skill_lettura_attenta"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -119,10 +116,10 @@ level: RMO
 
 > A $6 \times 6$ square is dissected into 9 rectangles by lines parallel to its sides such that all these rectangles have integer sides. Prove that there are always two congruent rectangles.
 
-**Topic:** [[topic_combinatoria|Combinatoria]]
-**Metodo:** [[method_casework|Casework]], [[method_estremalita|Estremalità]]
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_casework|Casework]], [[method_estremalita|Estremalità]], [[method_cassetti|Pigeonhole principle]]
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
-**Area:** [[Combinatoria, Logica e Probabilita]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Geometria|Geometry]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1_x8mSKi8az-E9y0hgi-GtUGedgCLYpQ8/view)
 
 
@@ -133,12 +130,11 @@ level: RMO
 
 > Un quadrato $6 \times 6$ viene suddiviso in 9 rettangoli mediante rette parallele ai suoi lati, in modo che tutti questi rettangoli abbiano i lati interi. Dimostrare che ci sono sempre due rettangoli congruenti.
 
-**Topic:** [[topic_combinatoria|Combinatoria]]
-**Metodo:** [[method_casework|Casework]], [[method_estremalita|Estremalità]]
-**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
-**Area:** [[Combinatoria, Logica e Probabilita]]
 
-[[Quesiti/src_rmo_2006#q04|src_rmo_2006__Q04]]
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_casework|Casework]], [[method_estremalita|Estremalità]], [[method_cassetti|Principio dei cassetti]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 
 
 
@@ -151,7 +147,7 @@ level: RMO
 
 > Let $ABCD$ be a quadrilateral in which $AB$ is parallel to $CD$ and perpendicular to $AD$; $AB = 3CD$; and the area of the quadrilateral is 4. If a circle can be drawn touching all the sides of the quadrilateral, find its radius.
 
-![[src_rmo_2006__q05.png]]
+![[src_rmo_2006__Q05.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_coordinate|Coordinate]]
@@ -167,14 +163,12 @@ level: RMO
 
 > Sia $ABCD$ un quadrilatero in cui $AB$ è parallelo a $CD$ e perpendicolare a $AD$; $AB = 3CD$; e l'area del quadrilatero è 4. Se si può tracciare una circonferenza tangente a tutti i lati del quadrilatero, determina il suo raggio.
 
-![[src_rmo_2006__q05.png]]
+![[src_rmo_2006__Q05.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_coordinate|Coordinate]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
-
-[[Quesiti/src_rmo_2006#q05|src_rmo_2006__Q05]]
 
 
 
@@ -206,11 +200,9 @@ level: RMO
 **Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 
-[[Quesiti/src_rmo_2006#q06|src_rmo_2006__Q06]]
 
 
-
-<span class="atom-split" id="q07" data-atom="q07" data-title="Quesito 7" data-tags="topic_funzionali,skill_manipolazione_algebrica,skill_riconoscimento_pattern,skill_lettura_attenta"></span>
+<span class="atom-split" id="q07" data-atom="q07" data-title="Quesito 7" data-tags="topic_funzionali,method_invarianti,skill_manipolazione_algebrica,skill_riconoscimento_pattern,skill_lettura_attenta"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -220,8 +212,9 @@ level: RMO
 > Let $X$ be the set of all positive integers greater than or equal to 8 and let $f : X \to X$ be a function such that $f(x + y) = f(xy)$ for all $x \ge 4$, $y \ge 4$. If $f(8) = 9$, determine $f(9)$.
 
 **Topic:** [[topic_funzionali|Equazioni funzionali]]
+**Metodo:** [[method_invarianti|Invariants / monovariants]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_lettura_attenta|Lettura attenta]]
-**Area:** [[Algebra e Analisi]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1_x8mSKi8az-E9y0hgi-GtUGedgCLYpQ8/view)
 
 
@@ -232,8 +225,8 @@ level: RMO
 
 > Sia $X$ l'insieme di tutti gli interi positivi maggiori o uguali a 8 e sia $f : X \to X$ una funzione tale che $f(x + y) = f(xy)$ per ogni $x \ge 4$, $y \ge 4$. Se $f(8) = 9$, determina $f(9)$.
 
+
 **Topic:** [[topic_funzionali|Equazioni funzionali]]
+**Metodo:** [[method_invarianti|Invarianti / monovarianti]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Algebra e Analisi]]
-
-[[Quesiti/src_rmo_2006#q07|src_rmo_2006__Q07]]

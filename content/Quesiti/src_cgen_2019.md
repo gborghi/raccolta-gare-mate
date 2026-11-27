@@ -12,9 +12,6 @@ level: Concours Général
 
 <span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_funzionali,topic_insiemi_funzioni,topic_algebra,topic_probabilita,method_induzione,method_casework,method_fattorizzazione,skill_astrazione,skill_lettura_attenta,skill_manipolazione_algebrica"></span>
 
-<div class="qlang-switch" data-default="en"></div>
-
-
 *Remarkable families of functions on [0,+inf): show the set of polynomial functions is contained in / characterized by sets closed under sum, composition, difference and product (properties P1-P6).*
 
 > We denote by $\mathscr{P}$ the set of functions defined on $[0,+\infty[$ with values in $[0,+\infty[$. For $f$ and $g$ in $\mathscr{P}$, one defines the function $h = f \circ g$ by setting, for every real number $x \ge 0$:
@@ -73,8 +70,20 @@ level: Concours Général
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<div class="qlang-split" data-lang="it"></div>
 
+<span class="atom-split" id="q01__it" data-atom="q01__it" data-title="Q01__IT" data-tags=""></span>
+
+---
+tipo: quesito-translation
+translation_of: src_cgen_2019__Q01
+lang: it
+secondary: true
+title: "Concours Général des Lycées 2019  Matematica  Quesito 1"
+summary: "Famiglie notevoli di funzioni su [0, + inf): mostrare che l'insieme di funzioni polinomiche è contenuto in / caratterizzato dainsiemi chiusi sotto somma, composizione, differenza e prodotto (proprietà P1-P6)."
+topics: [topic_funzionali, topic_insiemi_funzioni, topic_algebra, topic_probabilita]
+methods: [method_induzione, method_casework, method_fattorizzazione]
+skills: [skill_astrazione, skill_lettura_attenta, skill_manipolazione_algebrica]
+tags: [kg/translation, topic/funzionali, topic/insiemi_funzioni, topic/algebra, topic/probabilita]---
 
 *Notabili famiglie di funzioni su [0,+inf): mostrare che l'insieme di funzioni polinomiche è contenuto in / caratterizzato da gruppi chiusi sotto somma, composizione, differenza e prodotto (proprietà P1-P6).*
 
@@ -94,11 +103,15 @@ level: Concours Général
 > 
 > $\textbf{a.}$ $a$ sia un intero naturale. Un set, per ogni numero reale $x \ge 0$, la funzione definita da: $$Q_a(x) = (x+1)^a - 1.$$ Mostra che $Q_a \in \mathscr{F}$. $\textbf{b.}$ $a$ sia un intero naturale. Dimostrare che esistono integri $a_1, \ldots, a_d$ superiori o uguali a $0$ in modo tale che: $$(x+1)^a = a_d x^d + a_{d-1} x^{d-1} + \cdots + a_1 x + 1.$$ Dato un numero reale $x \ge 0$, si introduce una variabile casuale $X$ seguendo la legge binomica dei parametri $d$ e $\frac{x}{x+1}$. $\textbf{c.}$ $f$ sia una funzione polinomial di $\mathscr{P}$ tale che $f(0) = 0$. Mostrare che esiste un numero reale $c \ge 0$ e un intero naturale $d$ in modo tale che la funzione $$c\big(x + x^2 + \cdots + x^d\big) - f(x)$$ sia una funzione polinomica i cui coefficienti sono tutti positivi o zero. $\textbf{d.}$ Deduce che se $f$ è una funzione polinomial di $\mathscr{P}$ tale che $f(0) = 0$, allora $f$ appartiene a $\mathscr{F}$. $\textbf{e.}$ $f$ deve essere una funzione di $\mathscr{P}$. $\bullet$ Si dice $f$ è $\textit{segmentary}$ se verifica la proprietà: per ogni numero reale $a > 0$ esiste un numero reale $b > 0$ tale che, per tutte le $x$ che verificano $0 \le x \le a$, si ha $0 \le f(x) \le b$. $\bullet$ Si dice $f$ è $\textit{bounded}$ se verifica la proprietà: esiste un numero reale $b > 0$ tale che, per ogni numero reale $x \ge 0$, si ha $0 \le f(x) \le b$. Ora uno denota con $\mathscr{S}$ l'insieme delle funzioni segmentarie e $\mathscr{B}$ l'insieme delle funzioni limitate. $\textbf{i.}$ $f$ deve essere una funzione di $\mathscr{B}$. Indicare che $f$ è segmentato. È vero il contrario? $\textbf{ii.}$ Indicare che $\mathscr{S}$ soddisfa le proprietà $\textbf{(P1)}$ a $\textbf{(P6)}$. Indicare che $\mathscr{B}$ soddisfa le proprietà $\textbf{(P1)}$, $\textbf{(P2)}$, $\textbf{(P4)}$, $\textbf{(P5)}$ e $\textbf{(P6)}$, ma non soddisfa la proprietà $\textbf{(P3)}$. $\textbf{f.}$ Una funzione polinomial di $\mathscr{P}$ è necessariamente in $\mathscr{F}$?
 
+**Topic:** [[topic_funzionali|Equazioni funzionali / successioni]], [[topic_insiemi_funzioni|Insiemi e funzioni]], [[topic_algebra|Algebra]], [[topic_probabilita|Probabilita e statistica]]
+**Metodo:** [[method_induzione|Induzione]], [[method_casework|Analisi per casi]], [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
+**Abilita:** [[skill_astrazione|Astrazione / generalizzazione]], [[skill_lettura_attenta|Lettura attenta del testo]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Algebra e Analisi]], [[Combinatoria, Logica e Probabilita]]
 [[Quesiti/src_cgen_2019#q01|src_cgen_2019__Q01]]
 
 
 
-<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_aritmetica,topic_algebra,topic_combinatoria,method_induzione,method_estremalita,method_ricorsione,method_fattorizzazione,skill_manipolazione_algebrica,skill_lettura_attenta,skill_riconoscimento_pattern"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_aritmetica,topic_algebra,topic_combinatoria,method_induzione,method_estremalita,method_ricorsione,method_fattorizzazione,skill_manipolazione_algebrica,skill_lettura_attenta,skill_riconoscimento_pattern,skill_astrazione"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -156,8 +169,8 @@ level: Concours Général
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_induzione|Induzione]], [[method_estremalita|Estremalità]], [[method_ricorsione|Ricorsione]], [[method_fattorizzazione|Fattorizzazione]]
-**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
-**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]], [[Combinatoria, Logica e Probabilita]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_astrazione|Abstraction / generalisation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Algebra e Analisi|Algebra and analysis]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1K8ucW3mLigvc0hWdO6997kun_qEZQEkB/view)
 
 > [!warning] Estratto/tradotto da verificare con la fonte.
@@ -178,11 +191,14 @@ level: Concours Général
 > 
 > Nelle seguenti domande, si considera un intero $n \ge 2$, si suppone che la proprietà $\mathscr{H}_{a-1}$ sia vera. Si considerano i numeri interi strettamente positivi $x_1, \ldots, x_n$ e un numero razionale strettamente positivo $a$ in modo tale che: $$x_1 < x_2 < \cdots < x_n \le a \quad \text{and} \quad \frac{1}{x_1} + \cdots + \frac{1}{x_n} + \frac{1}{a} = 1.$$ $\textbf{2.}$ Mostri che $x_1 \ge 2$ e che $a < x_1 x_2 \cdots x_n$. In questa domanda si suppone che $\frac{1}{x_1} + \cdots + \frac{1}{x_{n-1}} + \frac{1}{q} = 1$ e $x_n \ge x_{n-1}$. $\textbf{a.}$ Mostra che esiste un intero rigorosamente positivo $q$ tale che: $$\frac{1}{x_1} + \cdots + \frac{1}{x_{n-1}} + \frac{1}{q} = 1.$$ $\textbf{b.}$ Mostra che $x_n - 1 \le q$. $\textbf{c.}$ Deduci quel $q + 1 \le v_n$ e poi quel $x_1 \cdots x_n \le v_1 v_2 \cdots v_n x_n$. $\textbf{d.}$ Indicare che $a + 1 \le v_{n+1}$ e $x_1 \cdots x_n \le v_1 v_2 \cdots v_{n+1}$. In questa domanda si suppone che $\frac{1}{x_1} + \cdots + \frac{1}{x_{n-1}} + \frac{1}{x_n} < 1$. $\textbf{a.}$ Mostra che $x_n \ge a$. $\textbf{b.}$ Mostra che esistono due numeri razionali unici strettamente positivi $r$ e $t$ in modo tale che: $$\frac{1}{x_n} + \frac{1}{x_n - 1} + \frac{1}{x_n - 2} + r = 1 \quad \text{and} \quad \frac{1}{x_1} + \cdots + \frac{1}{x_{n-2}} + \frac{1}{t} = 1.$$ $\textbf{c.}$ Mostra che $r = x_n + 1 + \frac{x_n - 2}{x_n^2 - 2x_n + 2}$ e quindi che $(x_n - 2)(r + 1) \ge x_n^2$. $\textbf{d.}$ Mostra che $t \ge r \ge x_n$. $\textbf{e.}$ Deduce che $a + 1 \le v_{n+1}$ e $x_1 \cdots x_n \le v_1 v_2 \cdots v_{n+1}$. In questa domanda si suppone che $\frac{1}{x_1} + \cdots + \frac{1}{x_{n-1}} < 1$. Indicare che esiste un numero razionale rigorosamente positivo $b$ tale che: $$\frac{1}{x_1} + \cdots + \frac{1}{x_{n-1}} + \frac{1}{b} = 1.$$ $\textbf{b.}$ Indicare che $(x_n - 1)(b + 1) \ge x_n(a + 1)$. $\textbf{6.}$ Deduce che la proposizione $\mathscr{H}_a$ sia vera. $\textit{Hint: In the case where } \frac{1}{x_1} + \cdots + \frac{1}{x_{n-1}} + \frac{1}{x_n} < 1, \text{ one may try to replace } x_n \text{ by } x_n - 1 \text{ and } a \text{ by } b.$ $\textbf{7.}$ Indicare, per ogni intero $n \ge 3$, che $u_n$ è il più grande intero giovial dell'ordine $n$.
 
-[[Quesiti/src_cgen_2019#q02|src_cgen_2019__Q02]]
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_induzione|Induzione]], [[method_estremalita|Principio di estremalita]], [[method_ricorsione|Ricorsione]], [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta del testo]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_astrazione|Astrazione / generalizzazione]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]], [[Combinatoria, Logica e Probabilita]]
 
 
 
-<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_probabilita,topic_combinatoria,topic_algebra,method_induzione,method_conteggio,method_casework,method_ricorsione,skill_conteggio_sistematico,skill_modellizzazione,skill_lettura_attenta"></span>
+<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_probabilita,topic_combinatoria,topic_algebra,topic_funzionali,method_induzione,method_conteggio,method_casework,method_ricorsione,skill_conteggio_sistematico,skill_modellizzazione,skill_lettura_attenta"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -227,10 +243,10 @@ level: Concours Général
 > $\textbf{a.}$ Show that the properties $\mathscr{N}_3$ and $\mathscr{N}_4$ are true.
 > $\textbf{b.}$ Show, for every integer $n \ge 3$, that the assertion $\mathscr{N}_n$ is true.
 
-**Topic:** [[topic_probabilita|Probabilità]], [[topic_combinatoria|Combinatoria]], [[topic_algebra|Algebra]]
+**Topic:** [[topic_probabilita|Probabilità]], [[topic_combinatoria|Combinatoria]], [[topic_algebra|Algebra]], [[topic_funzionali|Functional equations / sequences]]
 **Metodo:** [[method_induzione|Induzione]], [[method_conteggio|Conteggio]], [[method_casework|Casework]], [[method_ricorsione|Ricorsione]]
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione]], [[skill_lettura_attenta|Lettura attenta]]
-**Area:** [[Combinatoria, Logica e Probabilita]], [[Algebra e Analisi]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Algebra e Analisi|Algebra and analysis]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1K8ucW3mLigvc0hWdO6997kun_qEZQEkB/view)
 
 > [!warning] Estratto/tradotto da verificare con la fonte.
@@ -299,4 +315,7 @@ level: Concours Général
 > $\textbf{b.}$
 > Si dimostri, per ogni intero positivo $n \ge 3$, che l’affermazione $\mathscr{N}_n$ è vera.
 
-[[Quesiti/src_cgen_2019#q03|src_cgen_2019__Q03]]
+**Topic:** [[topic_probabilita|Probabilita e statistica]], [[topic_combinatoria|Combinatoria]], [[topic_algebra|Algebra]], [[topic_funzionali|Equazioni funzionali / successioni]]
+**Metodo:** [[method_induzione|Induzione]], [[method_conteggio|Conteggio combinatorio]], [[method_casework|Analisi per casi]], [[method_ricorsione|Ricorsione]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_lettura_attenta|Lettura attenta del testo]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Algebra e Analisi]]

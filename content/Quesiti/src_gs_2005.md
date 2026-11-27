@@ -10,7 +10,7 @@ level: squadre
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags=""></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_aritmetica,method_casework,method_fattorizzazione,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -26,9 +26,13 @@ level: squadre
 > Sapendo che Stefano è nato nel 1986, determinare la somma
 > dei 5 anni in cui sono nati Stefano ed i suoi 4 fratelli.
 
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Analisi per casi]], [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
+**Abilita:** [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 9930
-**Fonte risposta:** soluzione ufficiale, PDF p.1
-**Fonte:** apri PDF p.1 · fairmath.it (Coppa Fermat 2005)
+**Fonte risposta:** soluzione ufficiale, [PDF p.1](https://www.fairmath.it/genova/fermat/2005-soluzioni.pdf#page=1)
+**Fonte:** [apri PDF p.1](https://www.fairmath.it/genova/fermat/2005-soluzioni.pdf#page=1) · fairmath.it (Coppa Fermat 2005)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -41,11 +45,14 @@ level: squadre
 > One cake for five: Stefano and his 4 brothers
 > They all celebrate their birthday on March 18 every year, but they were all born in different years. Multiplying the four numbers representing the age differences (always taken as positive) between Stefano and his siblings gives 25. Given that Stefano was born in 1986, determine the sum of the five years in which Stefano and his four siblings were born.
 
-[[Quesiti/src_gs_2005#q01|src_gs_2005__Q01]]
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_casework|Case analysis]], [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
 
 
-<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_probabilita,topic_combinatoria"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_probabilita,topic_combinatoria,topic_logica,method_casework,skill_lettura_attenta,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -70,10 +77,12 @@ level: squadre
 > scatola centrale, il numero della scatola che contiene la carta J, il
 > numero della scatola che contiene la carta Q.
 
-**Topic:** [[topic_probabilita|Probabilita e statistica]], [[topic_combinatoria|Combinatoria]]
+**Topic:** [[topic_probabilita|Probabilita e statistica]], [[topic_combinatoria|Combinatoria]], [[topic_logica|Logica, giochi, strategie]]
+**Metodo:** [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_lettura_attenta|Lettura attenta del testo]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 2131
-**Fonte:** apri PDF p.1 · fairmath.it (Coppa Fermat 2005)
+**Fonte:** [apri PDF p.1](https://www.fairmath.it/genova/fermat/2005-soluzioni.pdf#page=1) · fairmath.it (Coppa Fermat 2005)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -86,14 +95,15 @@ level: squadre
 > The three-card game: the 3 cards J, Q, K are
 > Place them at random into 3 numbered boxes labeled 1, 2, and 3 (one card per box). Next, the 3 boxes are placed at random in front of an observer. It is known that: • box number 2 is to the left of box number 3; • the Q card is to the left of the J card; • box 1 is to the right of the K card; • the J card is not in box 1. Determine the arrangement of the boxes and of the cards inside them. "Is to the left" does not mean "is exactly to the left"; the same applies to "to the right". In your answer, indicate, from left to right: the number of the leftmost box, the number of the middle box, the number of the box containing the J card, and the number of the box containing the Q card.
 
-**Topic:** [[topic_probabilita|Probability and statistics]], [[topic_combinatoria|Combinatorics]]
+
+**Topic:** [[topic_probabilita|Probability and statistics]], [[topic_combinatoria|Combinatorics]], [[topic_logica|Logic, games and strategies]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_lettura_attenta|Careful reading of the text]], [[skill_casework_accurato|Careful case analysis]]
 **Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
-[[Quesiti/src_gs_2005#q02|src_gs_2005__Q02]]
 
 
-
-<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_geometria_solida"></span>
+<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_geometria_solida,topic_aritmetica,method_fattorizzazione,skill_modellizzazione,skill_lettura_attenta"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -114,11 +124,13 @@ level: squadre
 > centimetro e mezzo, determinare quanti km dovrà essere alta
 > la pila del misterioso benefattore.
 
-**Topic:** [[topic_geometria_solida|Geometria solida]]
-**Area:** [[Geometria]]
+**Topic:** [[topic_geometria_solida|Geometria solida]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_lettura_attenta|Lettura attenta del testo]]
+**Area:** [[Geometria]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 9450
-**Fonte risposta:** soluzione ufficiale, PDF p.1
-**Fonte:** apri PDF p.1 · fairmath.it (Coppa Fermat 2005)
+**Fonte risposta:** soluzione ufficiale, [PDF p.1](https://www.fairmath.it/genova/fermat/2005-soluzioni.pdf#page=1)
+**Fonte:** [apri PDF p.1](https://www.fairmath.it/genova/fermat/2005-soluzioni.pdf#page=1) · fairmath.it (Coppa Fermat 2005)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -131,14 +143,15 @@ level: squadre
 > Cancel the debt. According to the latest data, to pay
 > If the debts incurred by the organizers of this competition were to be borne by each of the 56 million inhabitants of our country, each person would have to pay out 9,000 euros. A very wealthy foreigner has offered to cover this stratospheric sum on his own, paying in cash with a stack of $10 bills. The wealthy financier will then establish an organization that will oversee the event in the years to come. Knowing that, at the current exchange rate, one dollar is worth 80 cents of a euro and that a stack of 100 $10 bills is one and a half centimeters high, determine how many kilometers high the stack belonging to the mysterious benefactor will have to be.
 
-**Topic:** [[topic_geometria_solida|Solid geometry]]
-**Area:** [[Geometria|Geometry]]
 
-[[Quesiti/src_gs_2005#q03|src_gs_2005__Q03]]
+**Topic:** [[topic_geometria_solida|Solid geometry]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]], [[skill_lettura_attenta|Careful reading of the text]]
+**Area:** [[Geometria|Geometry]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
 
 
-<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_geometria_piana"></span>
+<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_geometria_piana,method_disuguaglianze,skill_manipolazione_algebrica,skill_ragionamento_geometrico"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -156,10 +169,12 @@ level: squadre
 > Determinare la lunghezza in metri del perimetro del terreno.
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze classiche]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]]
 **Risposta:** 0408
-**Fonte risposta:** soluzione ufficiale, PDF p.1
-**Fonte:** apri PDF p.1 · fairmath.it (Coppa Fermat 2005)
+**Fonte risposta:** soluzione ufficiale, [PDF p.1](https://www.fairmath.it/genova/fermat/2005-soluzioni.pdf#page=1)
+**Fonte:** [apri PDF p.1](https://www.fairmath.it/genova/fermat/2005-soluzioni.pdf#page=1) · fairmath.it (Coppa Fermat 2005)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -172,14 +187,15 @@ level: squadre
 > An additional plot of land To build its future headquarters,
 > The entity has acquired a plot of land whose shape, viewed from above, resembles a + symbol formed by appropriately placing 5 identical squares side by side, each with a side length that is an integer number of meters. The area of the plot is greater than 5500 m² but less than 6000 m². Determine the length, in meters, of the perimeter of the plot.
 
+
 **Topic:** [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_disuguaglianze|Classical inequalities]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_ragionamento_geometrico|Geometric reasoning]]
 **Area:** [[Geometria|Geometry]]
 
-[[Quesiti/src_gs_2005#q04|src_gs_2005__Q04]]
 
 
-
-<span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_aritmetica"></span>
+<span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_aritmetica,method_fattorizzazione,skill_modellizzazione,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -201,10 +217,12 @@ level: squadre
 > (nel formato da 00 a 23) e le rimanenti per indicare i minuti.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 1336
-**Fonte risposta:** soluzione ufficiale, PDF p.2
-**Fonte:** apri PDF p.2 · fairmath.it (Coppa Fermat 2005)
+**Fonte risposta:** soluzione ufficiale, [PDF p.2](https://www.fairmath.it/genova/fermat/2005-soluzioni.pdf#page=2)
+**Fonte:** [apri PDF p.2](https://www.fairmath.it/genova/fermat/2005-soluzioni.pdf#page=2) · fairmath.it (Coppa Fermat 2005)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -217,19 +235,20 @@ level: squadre
 > Bureaucracy: Soon, bureaucracy had taken hold
 > Of the organization, to the extent that 2 employees have been hired whose only task is to stamp a mountain of envelopes! The first arrives at the office at 9:00 and starts work at a rate of 30 envelopes every 2 minutes. The second arrives an hour later and also starts stamping, at a rate of 50 envelopes every 3 minutes. Working without breaks, the first employee finishes their work at 13:00. The second worker also takes no breaks and has the same number of envelopes to stamp as the first. Determine what time the second employee will finish. In the answer, use the 2 digits on the left to indicate the hours (in the format from 00 to 23) and the remaining digits to indicate the minutes.
 
+
 **Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
-[[Quesiti/src_gs_2005#q05|src_gs_2005__Q05]]
 
 
-
-<span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_geometria_piana"></span>
+<span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_geometria_piana,method_simmetria,method_casework,skill_ragionamento_geometrico,skill_casework_accurato,skill_lettura_attenta"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
 
-*Combinazione geometrica La liquidità dell’Ente è*
+*Combinazione della cassaforte a manopola pentagonale*
 
 ![[src_gs_2005__prob6.png]]
 
@@ -247,30 +266,33 @@ level: squadre
 > aprire la cassaforte.
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_simmetria|Sfruttamento della simmetria]], [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_casework_accurato|Casework accurato]], [[skill_lettura_attenta|Lettura attenta del testo]]
 **Area:** [[Geometria]]
 **Risposta:** 0252
-**Fonte risposta:** soluzione ufficiale, PDF p.2
-**Fonte:** apri PDF p.2 · fairmath.it (Coppa Fermat 2005)
+**Fonte risposta:** soluzione ufficiale, [PDF p.2](https://www.fairmath.it/genova/fermat/2005-soluzioni.pdf#page=2)
+**Fonte:** [apri PDF p.2](https://www.fairmath.it/genova/fermat/2005-soluzioni.pdf#page=2) · fairmath.it (Coppa Fermat 2005)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Geometric combination The liquidity of the Entity is*
+*Combination of the wall safe with a regular-pentagon knob*
 
 ![[src_gs_2005__prob6.png]]
 
 > Geometric combination The liquidity of the Entity is
 > It is kept in a wall-mounted safe that has a knob shaped like a regular pentagon. The center of the pentagon is connected to the vertices, thereby ideally dividing the knob into 5 triangles—4 silver and 1 gold. When the safe is closed, the knob must be positioned so that the gold triangle is at the bottom with its base horizontal. To open the safe, the knob must be turned counterclockwise by less than one full turn until the pentagon appears with one side at the top oriented horizontally and the gold triangle on the left in the upper part. Determine by how many degrees the knob must be turned to open the safe.
 
+
 **Topic:** [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_simmetria|Using symmetry]], [[method_casework|Case analysis]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_casework_accurato|Careful case analysis]], [[skill_lettura_attenta|Careful reading of the text]]
 **Area:** [[Geometria|Geometry]]
 
-[[Quesiti/src_gs_2005#q06|src_gs_2005__Q06]]
 
 
-
-<span class="atom-split" id="q07" data-atom="q07" data-title="Quesito 7" data-tags=""></span>
+<span class="atom-split" id="q07" data-atom="q07" data-title="Quesito 7" data-tags="topic_aritmetica,method_estremalita,skill_modellizzazione,skill_lettura_attenta,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -290,9 +312,13 @@ level: squadre
 > Determinare quanto potrà valere, al massimo, la somma delle
 > età degli spettatori presenti quest’anno.
 
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_estremalita|Principio di estremalita]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_lettura_attenta|Lettura attenta del testo]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 4184
-**Fonte risposta:** soluzione ufficiale, PDF p.2
-**Fonte:** apri PDF p.2 · fairmath.it (Coppa Fermat 2005)
+**Fonte risposta:** soluzione ufficiale, [PDF p.2](https://www.fairmath.it/genova/fermat/2005-soluzioni.pdf#page=2)
+**Fonte:** [apri PDF p.2](https://www.fairmath.it/genova/fermat/2005-soluzioni.pdf#page=2) · fairmath.it (Coppa Fermat 2005)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -304,11 +330,14 @@ level: squadre
 
 > We Are Increasing in Number At the first edition of this team competition, held on 2 April 2003, 57 spectators attended; curiously, the sum of their ages was 2003. The next edition, held on 2 April 2004, was attended by 63 spectators, all or some of whom were different from those at the previous edition; curiously, the sum of their ages was 2004. This year, it is expected that the audience will consist of exactly and solely those who attended at least one of the previous editions. Determine the maximum possible value of the sum of the ages of the spectators present this year.
 
-[[Quesiti/src_gs_2005#q07|src_gs_2005__Q07]]
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_estremalita|Extremal principle]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]], [[skill_lettura_attenta|Careful reading of the text]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
 
 
-<span class="atom-split" id="q08" data-atom="q08" data-title="Quesito 8" data-tags="topic_combinatoria"></span>
+<span class="atom-split" id="q08" data-atom="q08" data-title="Quesito 8" data-tags="topic_combinatoria,topic_logica,method_backward,skill_modellizzazione,skill_lettura_attenta"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -329,11 +358,13 @@ level: squadre
 > Nella risposta si utilizzino le 2 cifre a sinistra per indicare le ore
 > (nel formato da 00 a 23) e le rimanenti per indicare i minuti.
 
-**Topic:** [[topic_combinatoria|Combinatoria]]
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_logica|Logica, giochi, strategie]]
+**Metodo:** [[method_backward|Ragionamento all'indietro]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_lettura_attenta|Lettura attenta del testo]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0812
-**Fonte risposta:** soluzione ufficiale, PDF p.2
-**Fonte:** apri PDF p.2 · fairmath.it (Coppa Fermat 2005)
+**Fonte risposta:** soluzione ufficiale, [PDF p.2](https://www.fairmath.it/genova/fermat/2005-soluzioni.pdf#page=2)
+**Fonte:** [apri PDF p.2](https://www.fairmath.it/genova/fermat/2005-soluzioni.pdf#page=2) · fairmath.it (Coppa Fermat 2005)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -346,14 +377,15 @@ level: squadre
 > A demanding customer. In the organization's canteen, the cook
 > They do not have clocks or timers at their disposal, but only two hourglasses, one lasting 7 minutes and the other 4 minutes; the hourglasses can be turned only when all the sand has passed to the other side. The Great Chief arrives at 7:55 and, for breakfast, orders an egg cooked for exactly 9 minutes. At 7:56, the cook starts working (the times are those shown by the Chief's clock, which, of course, the cook cannot consult). Assuming that the cook makes the best use of their resources, determine what time the egg will be ready. In the answer, use the two digits on the left to indicate the hours (in the 00 to 23 format) and the remaining digits to indicate the minutes.
 
-**Topic:** [[topic_combinatoria|Combinatorics]]
+
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_logica|Logic, games and strategies]]
+**Metodo:** [[method_backward|Working backwards]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]], [[skill_lettura_attenta|Careful reading of the text]]
 **Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
-[[Quesiti/src_gs_2005#q08|src_gs_2005__Q08]]
 
 
-
-<span class="atom-split" id="q09" data-atom="q09" data-title="Quesito 9" data-tags="topic_aritmetica"></span>
+<span class="atom-split" id="q09" data-atom="q09" data-title="Quesito 9" data-tags="topic_aritmetica,topic_combinatoria,method_bigezione,skill_conteggio_sistematico"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -371,11 +403,13 @@ level: squadre
 > Determinare quanti sono i numeri di 4 cifre che sono maggiori
 > del proprio simmetrico.
 
-**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Area:** [[Aritmetica e Teoria dei Numeri]]
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_bigezione|Bigezione / corrispondenza]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 4005
-**Fonte risposta:** soluzione ufficiale, PDF p.2
-**Fonte:** apri PDF p.2 · fairmath.it (Coppa Fermat 2005)
+**Fonte risposta:** soluzione ufficiale, [PDF p.2](https://www.fairmath.it/genova/fermat/2005-soluzioni.pdf#page=2)
+**Fonte:** [apri PDF p.2](https://www.fairmath.it/genova/fermat/2005-soluzioni.pdf#page=2) · fairmath.it (Coppa Fermat 2005)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -388,14 +422,15 @@ level: squadre
 > The mirror . . . loses weight A four-digit number
 > A number is said to be greater than its reverse if it is not divisible by 10 and is strictly greater than the number obtained by reading its digits from right to left. For example, 6752 is greater than its reverse (since 6752 > 2576), whereas 3546 and 3850 are not. Determine how many 4-digit numbers are greater than their reverse.
 
-**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
-**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
-[[Quesiti/src_gs_2005#q09|src_gs_2005__Q09]]
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_bigezione|Bijection / correspondence]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
 
 
-<span class="atom-split" id="q10" data-atom="q10" data-title="Quesito 10" data-tags="topic_combinatoria"></span>
+<span class="atom-split" id="q10" data-atom="q10" data-title="Quesito 10" data-tags="topic_combinatoria,method_conteggio,method_casework,skill_modellizzazione,skill_conteggio_sistematico,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -417,10 +452,12 @@ level: squadre
 > possono sedersi Roberto e i suoi amici attorno al tavolo.
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_conteggio|Conteggio combinatorio]], [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0480
-**Fonte risposta:** soluzione ufficiale, PDF p.2
-**Fonte:** apri PDF p.2 · fairmath.it (Coppa Fermat 2005)
+**Fonte risposta:** soluzione ufficiale, [PDF p.2](https://www.fairmath.it/genova/fermat/2005-soluzioni.pdf#page=2)
+**Fonte:** [apri PDF p.2](https://www.fairmath.it/genova/fermat/2005-soluzioni.pdf#page=2) · fairmath.it (Coppa Fermat 2005)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -433,14 +470,15 @@ level: squadre
 > The social dinner Roberto, the captain of his
 > The team has organized a dinner with the other 6 starters and the 2 substitutes, and for this purpose has reserved a table for 9 people: one seat at the head of the table and 4 seats on each of the long sides. Having arrived at the restaurant first, Roberto naturally sits at the head of the table. As the others arrive, they sit around him: the first two sit on his sides, and in turn the others arrange themselves so as to be as close as possible to Roberto. Knowing that Daniela (the deliverer) always arrives immediately after Roberto, while Ilaria and Pierluigi (the two substitutes) always arrive last, determine in how many different ways Roberto and his friends can sit around the table.
 
+
 **Topic:** [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_conteggio|Combinatorial counting]], [[method_casework|Case analysis]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]], [[skill_conteggio_sistematico|Systematic counting]], [[skill_casework_accurato|Careful case analysis]]
 **Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
-[[Quesiti/src_gs_2005#q10|src_gs_2005__Q10]]
 
 
-
-<span class="atom-split" id="q11" data-atom="q11" data-title="Quesito 11" data-tags="topic_combinatoria"></span>
+<span class="atom-split" id="q11" data-atom="q11" data-title="Quesito 11" data-tags="topic_combinatoria,topic_algebra,method_fattorizzazione,skill_modellizzazione,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -456,11 +494,13 @@ level: squadre
 > minuti in meno rispetto all’andata.
 > Determinare la lunghezza in metri del percorso in salita.
 
-**Topic:** [[topic_combinatoria|Combinatoria]]
-**Area:** [[Combinatoria, Logica e Probabilita]]
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Algebra e Analisi]]
 **Risposta:** 9000
-**Fonte risposta:** soluzione ufficiale, PDF p.3
-**Fonte:** apri PDF p.3 · fairmath.it (Coppa Fermat 2005)
+**Fonte risposta:** soluzione ufficiale, [PDF p.3](https://www.fairmath.it/genova/fermat/2005-soluzioni.pdf#page=3)
+**Fonte:** [apri PDF p.3](https://www.fairmath.it/genova/fermat/2005-soluzioni.pdf#page=3) · fairmath.it (Coppa Fermat 2005)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -472,19 +512,20 @@ level: squadre
 
 > Trekking: A tourist tackled an uphill climb in the mountains and then returned to the valley via a different trail that was 6 km longer. Both the ascent and the descent lasted exactly 3 hours. The tourist maintained a constant pace both on the way up and on the way back, but on the return trip, each kilometre was covered 8 minutes faster than on the way up. Determine the length, in metres, of the uphill route.
 
-**Topic:** [[topic_combinatoria|Combinatorics]]
-**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
-[[Quesiti/src_gs_2005#q11|src_gs_2005__Q11]]
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Algebra e Analisi|Algebra and analysis]]
 
 
 
-<span class="atom-split" id="q12" data-atom="q12" data-title="Quesito 12" data-tags="topic_probabilita"></span>
+<span class="atom-split" id="q12" data-atom="q12" data-title="Quesito 12" data-tags="topic_probabilita,topic_aritmetica,method_casi_conteggio,method_fattorizzazione,skill_modellizzazione,skill_conteggio_sistematico,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
 
-*Inviti golosi La gara a squadre dell’anno scorso si*
+*Inviti golosi alla festa della gara a squadre*
 
 ![[src_gs_2005__prob12.png]]
 
@@ -501,31 +542,34 @@ level: squadre
 > per indicare il numero di ragazze e le 2 cifre di destra per indicare
 > il numero di ragazzi.
 
-**Topic:** [[topic_probabilita|Probabilita e statistica]]
-**Area:** [[Combinatoria, Logica e Probabilita]]
+**Topic:** [[topic_probabilita|Probabilita e statistica]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casi_conteggio|Conteggio per casi]], [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 7765
-**Fonte risposta:** soluzione ufficiale, PDF p.3
-**Fonte:** apri PDF p.3 · fairmath.it (Coppa Fermat 2005)
+**Fonte risposta:** soluzione ufficiale, [PDF p.3](https://www.fairmath.it/genova/fermat/2005-soluzioni.pdf#page=3)
+**Fonte:** [apri PDF p.3](https://www.fairmath.it/genova/fermat/2005-soluzioni.pdf#page=3) · fairmath.it (Coppa Fermat 2005)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Tasty invitations Last year's team competition was*
+*Tasty invitations at last year's team-contest party*
 
 ![[src_gs_2005__prob12.png]]
 
 > Tasty invitations Last year's team competition was
 > It ended with a big party. The number of girls who took part was greater than the number of boys but less than one and a half times the number of boys. At the beginning, to break the ice, each girl gave a chocolate to every boy she knew; then each boy gave a chocolate to every girl he did not know. Anyone who received chocolates ate them immediately. Knowing that a total of 5005 chocolates were eaten, determine how many girls and how many boys took part in the party. Assume that acquaintance is symmetric—that is, if A knows B, then B knows A. In the answer, use the two digits on the left to indicate the number of girls and the two digits on the right to indicate the number of boys.
 
-**Topic:** [[topic_probabilita|Probability and statistics]]
-**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
-[[Quesiti/src_gs_2005#q12|src_gs_2005__Q12]]
+**Topic:** [[topic_probabilita|Probability and statistics]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_casi_conteggio|Counting by cases]], [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]], [[skill_conteggio_sistematico|Systematic counting]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
 
 
-<span class="atom-split" id="q13" data-atom="q13" data-title="Quesito 13" data-tags="topic_aritmetica"></span>
+<span class="atom-split" id="q13" data-atom="q13" data-title="Quesito 13" data-tags="topic_aritmetica,method_fattorizzazione,skill_modellizzazione,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -547,10 +591,12 @@ level: squadre
 > (nel formato da 00 a 23) e le rimanenti per indicare i minuti.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 1933 *(calcolata)*
-**Fonte risposta:** calcolata (non riportata nella fonte); impostazione in PDF p.3
-**Fonte:** apri PDF p.3 · fairmath.it (Coppa Fermat 2005)
+**Fonte risposta:** calcolata (non riportata nella fonte); impostazione in [PDF p.3](https://www.fairmath.it/genova/fermat/2005-soluzioni.pdf#page=3)
+**Fonte:** [apri PDF p.3](https://www.fairmath.it/genova/fermat/2005-soluzioni.pdf#page=3) · fairmath.it (Coppa Fermat 2005)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -563,14 +609,15 @@ level: squadre
 > Satellites To broadcast the competitions worldwide,
 > The agency has launched 2 satellites, which now orbit the Earth in the same direction along 2 coplanar circular orbits of different radii. The first satellite takes 3 hours and 50 minutes to complete one full revolution; the second takes 4 hours and 15 minutes. At the control center, it is observed that, at the stroke of midnight on a given day, the 2 satellites are at their closest distance to each other. Determine what time they will first be at their greatest distance from each other (all times are given with reference to the time zone of the control center). In the answer, use the 2 digits on the left to indicate the hours (in the 00 to 23 format) and the remaining digits to indicate the minutes.
 
+
 **Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
-[[Quesiti/src_gs_2005#q13|src_gs_2005__Q13]]
 
 
-
-<span class="atom-split" id="q14" data-atom="q14" data-title="Quesito 14" data-tags="topic_combinatoria"></span>
+<span class="atom-split" id="q14" data-atom="q14" data-title="Quesito 14" data-tags="topic_combinatoria,topic_geometria_piana,method_simmetria,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -592,11 +639,13 @@ level: squadre
 > rossa presente sul pavimento.
 > Determinare a quanti euro ammonta la penale.
 
-**Topic:** [[topic_combinatoria|Combinatoria]]
-**Area:** [[Combinatoria, Logica e Probabilita]]
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_simmetria|Sfruttamento della simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 **Risposta:** 6950
-**Fonte risposta:** soluzione ufficiale, PDF p.3
-**Fonte:** apri PDF p.3 · fairmath.it (Coppa Fermat 2005)
+**Fonte risposta:** soluzione ufficiale, [PDF p.3](https://www.fairmath.it/genova/fermat/2005-soluzioni.pdf#page=3)
+**Fonte:** [apri PDF p.3](https://www.fairmath.it/genova/fermat/2005-soluzioni.pdf#page=3) · fairmath.it (Coppa Fermat 2005)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -608,14 +657,15 @@ level: squadre
 
 > Whoever makes a mistake pays. The new head of the Agency wanted the flooring in the hall of the old headquarters to be redone. This is a square room 20 metres on each side; its floor was to be tiled with square black-and-white tiles whose diagonal measured 30 cm. The tiles were to be laid in a checkerboard pattern and diagonally (at 45°) relative to the walls, so that the centre of the room would be the vertex where four tiles met. Since the black tiles proved extremely difficult to cut, the contracting company decided to replace the black tiles that would have had to be cut with red tiles. At the end of the work, the Big Boss deemed the result unsightly, and after a lengthy legal dispute, the company was ordered to pay a penalty of 10 cents of a euro for every square centimetre of red tile on the floor. Determine how many euros the penalty amounts to.
 
-**Topic:** [[topic_combinatoria|Combinatorics]]
-**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
-[[Quesiti/src_gs_2005#q14|src_gs_2005__Q14]]
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_simmetria|Using symmetry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Geometria|Geometry]]
 
 
 
-<span class="atom-split" id="q15" data-atom="q15" data-title="Quesito 15" data-tags="topic_combinatoria"></span>
+<span class="atom-split" id="q15" data-atom="q15" data-title="Quesito 15" data-tags="topic_combinatoria,topic_aritmetica,method_congruenze,method_fattorizzazione,skill_conteggio_sistematico,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -637,11 +687,13 @@ level: squadre
 > Determinare il minimo numero di tesserine che resteranno
 > inutilizzate.
 
-**Topic:** [[topic_combinatoria|Combinatoria]]
-**Area:** [[Combinatoria, Logica e Probabilita]]
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]], [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 3338
-**Fonte risposta:** soluzione ufficiale, PDF p.3
-**Fonte:** apri PDF p.3 · fairmath.it (Coppa Fermat 2005)
+**Fonte risposta:** soluzione ufficiale, [PDF p.3](https://www.fairmath.it/genova/fermat/2005-soluzioni.pdf#page=3)
+**Fonte:** [apri PDF p.3](https://www.fairmath.it/genova/fermat/2005-soluzioni.pdf#page=3) · fairmath.it (Coppa Fermat 2005)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -653,14 +705,15 @@ level: squadre
 
 > Square Boulevard The authorities have decided to renew the paving of the large boulevard leading to the future headquarters of the Agency, enriching it with a particular ornamental pattern composed as follows: first, a square with sides 1 cm long; then, continuing, a square with sides 2 cm long; then one with sides 3 cm long; and so on up to the last square, whose side will be a full 10 metres long. All the squares must be different colours, and each must be made as a mosaic using square tiles, 1 cm on a side, of the same colour. Unfortunately, the tiles in the various colours, which are very valuable, are sold in packs of 9; so, even with careful management of purchases, quite a few tiles will end up left over. Determine the minimum number of tiles that will remain unused.
 
-**Topic:** [[topic_combinatoria|Combinatorics]]
-**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
-[[Quesiti/src_gs_2005#q15|src_gs_2005__Q15]]
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]], [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
 
 
-<span class="atom-split" id="q16" data-atom="q16" data-title="Quesito 16" data-tags="topic_geometria_piana"></span>
+<span class="atom-split" id="q16" data-atom="q16" data-title="Quesito 16" data-tags="topic_geometria_piana,method_coordinate,method_casework,skill_ragionamento_geometrico,skill_casework_accurato,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -687,10 +740,12 @@ level: squadre
 > informazioni.
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_coordinate|Metodo delle coordinate]], [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_casework_accurato|Casework accurato]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 **Risposta:** 0005
-**Fonte risposta:** soluzione ufficiale, PDF p.4
-**Fonte:** apri PDF p.4 · fairmath.it (Coppa Fermat 2005)
+**Fonte risposta:** soluzione ufficiale, [PDF p.4](https://www.fairmath.it/genova/fermat/2005-soluzioni.pdf#page=4)
+**Fonte:** [apri PDF p.4](https://www.fairmath.it/genova/fermat/2005-soluzioni.pdf#page=4) · fairmath.it (Coppa Fermat 2005)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -703,14 +758,15 @@ level: squadre
 > Radio-boe 1 To improve communications with the
 > For launched satellites, the Agency must position three radio beacons near a lighthouse on a small island. The first must be 3 km east and 4 km north of the lighthouse; the second must be 1900 metres east and 2 km south of the lighthouse, again relative to the lighthouse. To enable certain types of transception, the third beacon must be placed so that the three beacons are the vertices of an isosceles triangle. Taking these constraints into account, the technicians begin discussing what the best position for the third beacon would be. "In my opinion, it should be placed on the line of points that are 1 km east of the lighthouse," observes the first technician. "Will this condition alone be enough to uniquely determine the position of the third beacon?" asks a colleague of his with a background in mathematics. Determine how many positions are compatible with this information.
 
+
 **Topic:** [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_coordinate|Coordinate method]], [[method_casework|Case analysis]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_casework_accurato|Careful case analysis]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
 **Area:** [[Geometria|Geometry]]
 
-[[Quesiti/src_gs_2005#q16|src_gs_2005__Q16]]
 
 
-
-<span class="atom-split" id="q17" data-atom="q17" data-title="Quesito 17" data-tags="topic_geometria_piana"></span>
+<span class="atom-split" id="q17" data-atom="q17" data-title="Quesito 17" data-tags="topic_geometria_piana,topic_combinatoria,method_doppio_conteggio,method_casework,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -729,11 +785,13 @@ level: squadre
 > crescente. Se sono più di 4, indicare solo i 4 più piccoli; se sono
 > meno di 4, completare le caselle rimanenti a destra con degli zeri.
 
-**Topic:** [[topic_geometria_piana|Geometria piana]]
-**Area:** [[Geometria]]
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_doppio_conteggio|Doppio conteggio]], [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Geometria]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 1234
-**Fonte risposta:** soluzione ufficiale, PDF p.4
-**Fonte:** apri PDF p.4 · fairmath.it (Coppa Fermat 2005)
+**Fonte risposta:** soluzione ufficiale, [PDF p.4](https://www.fairmath.it/genova/fermat/2005-soluzioni.pdf#page=4)
+**Fonte:** [apri PDF p.4](https://www.fairmath.it/genova/fermat/2005-soluzioni.pdf#page=4) · fairmath.it (Coppa Fermat 2005)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -745,14 +803,15 @@ level: squadre
 
 > Equidistribution: Three suitably drawn straight lines divide a circle into 7 regions. We now want to place in each region an integer between 1 and 7, so that each integer is used exactly once and so that, for each line, the sum of the numbers in the two half-planes delimited by that line is the same. Determine which integers can end up in the central triangle. In the answer, list those integers from left to right in increasing order. If there are more than 4, list only the 4 smallest; if there are fewer than 4, fill the remaining boxes to the right with zeros.
 
-**Topic:** [[topic_geometria_piana|Plane geometry]]
-**Area:** [[Geometria|Geometry]]
 
-[[Quesiti/src_gs_2005#q17|src_gs_2005__Q17]]
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_doppio_conteggio|Double counting]], [[method_casework|Case analysis]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Geometria|Geometry]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
 
 
-<span class="atom-split" id="q18" data-atom="q18" data-title="Quesito 18" data-tags="topic_geometria_solida"></span>
+<span class="atom-split" id="q18" data-atom="q18" data-title="Quesito 18" data-tags="topic_geometria_solida,method_coordinate,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -772,10 +831,12 @@ level: squadre
 > compresa tra il vertice favorito del ragno e la tela.
 
 **Topic:** [[topic_geometria_solida|Geometria solida]]
+**Metodo:** [[method_coordinate|Metodo delle coordinate]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 **Risposta:** 0346
-**Fonte risposta:** soluzione ufficiale, PDF p.4
-**Fonte:** apri PDF p.4 · fairmath.it (Coppa Fermat 2005)
+**Fonte risposta:** soluzione ufficiale, [PDF p.4](https://www.fairmath.it/genova/fermat/2005-soluzioni.pdf#page=4)
+**Fonte:** [apri PDF p.4](https://www.fairmath.it/genova/fermat/2005-soluzioni.pdf#page=4) · fairmath.it (Coppa Fermat 2005)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -787,14 +848,15 @@ level: squadre
 
 > Small but suitable for me In the organization's archive, a spider found a cubic box with sides 60 cm long, open at the top, and chose it as its home. It then selected one of the vertices of the lower base, deciding that it would retire there to rest. To have a more private environment, it therefore built a triangular web by joining the other endpoints of the three edges of the cube that start from its favorite vertex. Finally, it spun a straight thread that starts from its favorite vertex and, passing through the web, reaches the opposite vertex of the upper base, thus running along an entire internal diagonal of the cube. Determine the length, in millimetres, of the portion of the thread that lies between the spider's favorite vertex and the web.
 
+
 **Topic:** [[topic_geometria_solida|Solid geometry]]
+**Metodo:** [[method_coordinate|Coordinate method]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
 **Area:** [[Geometria|Geometry]]
 
-[[Quesiti/src_gs_2005#q18|src_gs_2005__Q18]]
 
 
-
-<span class="atom-split" id="q19" data-atom="q19" data-title="Quesito 19" data-tags="topic_probabilita"></span>
+<span class="atom-split" id="q19" data-atom="q19" data-title="Quesito 19" data-tags="topic_probabilita,method_conteggio,skill_modellizzazione,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -817,10 +879,12 @@ level: squadre
 > nella risposta m + n.
 
 **Topic:** [[topic_probabilita|Probabilita e statistica]]
+**Metodo:** [[method_conteggio|Conteggio combinatorio]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0681
-**Fonte risposta:** soluzione ufficiale, PDF p.4
-**Fonte:** apri PDF p.4 · fairmath.it (Coppa Fermat 2005)
+**Fonte risposta:** soluzione ufficiale, [PDF p.4](https://www.fairmath.it/genova/fermat/2005-soluzioni.pdf#page=4)
+**Fonte:** [apri PDF p.4](https://www.fairmath.it/genova/fermat/2005-soluzioni.pdf#page=4) · fairmath.it (Coppa Fermat 2005)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -833,14 +897,15 @@ level: squadre
 > Scansafatiche . . . random To save time,
 > A university lecturer who is actively involved in managing team competitions gives very brief exams. He poses a question to the student whose answer can only be "True" or "False": if the student answers correctly, they have passed the exam; otherwise, they have not. Three friends, also wanting to save time, decide to show up for the first exam sitting completely unprepared and try to answer at random; those who do not pass will come back for the second sitting to try their luck again, and so on. Determine the probability that at least one of the three friends has to appear for the fourth sitting. Express the probability as an irreducible fraction m/n, and state m + n in the answer.
 
+
 **Topic:** [[topic_probabilita|Probability and statistics]]
+**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
 **Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
-[[Quesiti/src_gs_2005#q19|src_gs_2005__Q19]]
 
 
-
-<span class="atom-split" id="q20" data-atom="q20" data-title="Quesito 20" data-tags=""></span>
+<span class="atom-split" id="q20" data-atom="q20" data-title="Quesito 20" data-tags="topic_algebra,topic_geometria_analitica,method_coordinate,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -859,8 +924,12 @@ level: squadre
 > Determinare, alla lunga, a quanti millimetri di distanza dal
 > punto iniziale verrà a trovarsi la puntina.
 
+**Topic:** [[topic_algebra|Algebra]], [[topic_geometria_analitica|Geometria analitica]]
+**Metodo:** [[method_coordinate|Metodo delle coordinate]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Algebra e Analisi]], [[Geometria]]
 **Risposta:** 0894
-**Fonte:** apri PDF p.4 · fairmath.it (Coppa Fermat 2005)
+**Fonte:** [apri PDF p.4](https://www.fairmath.it/genova/fermat/2005-soluzioni.pdf#page=4) · fairmath.it (Coppa Fermat 2005)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -872,11 +941,14 @@ level: squadre
 
 > And who can stop it now! A large plotter has been programmed to draw on an enormous sheet of paper: starting from a predetermined point, the pen tip moves one metre to the right, then 50 cm upwards, then 25 cm to the left, and then 12.5 cm downwards. Then it continues moving alternately to the right, upwards, to the left, and downwards, halving the length of each line segment drawn each time. Due to a software flaw, the plotter no longer stops. Determine, in the long run, how many millimetres away from the starting point the pen tip will end up.
 
-[[Quesiti/src_gs_2005#q20|src_gs_2005__Q20]]
+**Topic:** [[topic_algebra|Algebra]], [[topic_geometria_analitica|Coordinate geometry]]
+**Metodo:** [[method_coordinate|Coordinate method]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Geometria|Geometry]]
 
 
 
-<span class="atom-split" id="q21" data-atom="q21" data-title="Quesito 21" data-tags=""></span>
+<span class="atom-split" id="q21" data-atom="q21" data-title="Quesito 21" data-tags="topic_aritmetica,topic_disuguaglianze,method_estremalita,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -892,9 +964,13 @@ level: squadre
 > In base a questa condizione, determinare quanti studenti
 > partecipano, come minimo, alle gare a squadre di quest’anno.
 
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_disuguaglianze|Disuguaglianze]]
+**Metodo:** [[method_estremalita|Principio di estremalita]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta del testo]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 **Risposta:** 1003
-**Fonte risposta:** soluzione ufficiale, PDF p.5
-**Fonte:** apri PDF p.5 · fairmath.it (Coppa Fermat 2005)
+**Fonte risposta:** soluzione ufficiale, [PDF p.5](https://www.fairmath.it/genova/fermat/2005-soluzioni.pdf#page=5)
+**Fonte:** [apri PDF p.5](https://www.fairmath.it/genova/fermat/2005-soluzioni.pdf#page=5) · fairmath.it (Coppa Fermat 2005)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -907,16 +983,19 @@ level: squadre
 > Do you speak German? Among the participants in the
 > In this year's team competitions, those studying German are strictly fewer than one third but strictly more than 33.3%. Based on this condition, determine the minimum number of students who participate in this year's team competitions.
 
-[[Quesiti/src_gs_2005#q21|src_gs_2005__Q21]]
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_disuguaglianze|Inequalities]]
+**Metodo:** [[method_estremalita|Extremal principle]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_lettura_attenta|Careful reading of the text]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Algebra e Analisi|Algebra and analysis]]
 
 
 
-<span class="atom-split" id="q22" data-atom="q22" data-title="Quesito 22" data-tags="topic_combinatoria"></span>
+<span class="atom-split" id="q22" data-atom="q22" data-title="Quesito 22" data-tags="topic_combinatoria,topic_aritmetica,method_fattorizzazione,method_congruenze,skill_manipolazione_algebrica,skill_casework_accurato,skill_lettura_attenta"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
 
-*Queste stampanti! Il grande capo ha stabilito che il*
+*Budget pari a 34! e calcolo del socio sulle stampanti*
 
 ![[src_gs_2005__prob22.png]]
 
@@ -931,30 +1010,33 @@ level: squadre
 > Nella risposta scrivere le quattro cifre mancanti nello stesso ordine
 > in cui dovrebbero comparire nello stampato.
 
-**Topic:** [[topic_combinatoria|Combinatoria]]
-**Area:** [[Combinatoria, Logica e Probabilita]]
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]], [[method_congruenze|Aritmetica modulare / congruenze]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Casework accurato]], [[skill_lettura_attenta|Lettura attenta del testo]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 0320
-**Fonte:** apri PDF p.5 · fairmath.it (Coppa Fermat 2005)
+**Fonte:** [apri PDF p.5](https://www.fairmath.it/genova/fermat/2005-soluzioni.pdf#page=5) · fairmath.it (Coppa Fermat 2005)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*These printers! The big boss has decided that the*
+*Budget equal to 34! and the member's printer calculation*
 
 ![[src_gs_2005__prob22.png]]
 
 > These printers! The big boss has decided that the
 > The budget available to the Organization will be a number of euros equal to 34!, that is, the product of all integers from 1 to 34. A member performs the calculation with the help of a computer and obtains the following printout: 34! = 295 232 799 ∗∗9 604 140 847 618 609 643 5 ∗∗000 000. Unfortunately, as can be seen, the printer has replaced 4 of the digits with asterisks. Determine the missing digits. In the answer, write the four missing digits in the same order in which they should appear in the printout.
 
-**Topic:** [[topic_combinatoria|Combinatorics]]
-**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
-[[Quesiti/src_gs_2005#q22|src_gs_2005__Q22]]
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]], [[method_congruenze|Modular arithmetic / congruences]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_casework_accurato|Careful case analysis]], [[skill_lettura_attenta|Careful reading of the text]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
 
 
-<span class="atom-split" id="q23" data-atom="q23" data-title="Quesito 23" data-tags=""></span>
+<span class="atom-split" id="q23" data-atom="q23" data-title="Quesito 23" data-tags="topic_geometria_piana,method_coordinate,method_casework,method_estremalita,skill_ragionamento_geometrico,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -972,9 +1054,13 @@ level: squadre
 > Determinare a quanti metri di distanza dal faro sarà piazzata
 > la terza boa.
 
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_coordinate|Metodo delle coordinate]], [[method_casework|Analisi per casi]], [[method_estremalita|Principio di estremalita]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Geometria]]
 **Risposta:** 1100
-**Fonte risposta:** soluzione ufficiale, PDF p.5
-**Fonte:** apri PDF p.5 · fairmath.it (Coppa Fermat 2005)
+**Fonte risposta:** soluzione ufficiale, [PDF p.5](https://www.fairmath.it/genova/fermat/2005-soluzioni.pdf#page=5)
+**Fonte:** [apri PDF p.5](https://www.fairmath.it/genova/fermat/2005-soluzioni.pdf#page=5) · fairmath.it (Coppa Fermat 2005)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -986,11 +1072,14 @@ level: squadre
 
 > Radio-buoy 2: The discussion among the technicians who were supposed to place the radio buoys in an earlier problem went on for quite a while yet. In the end, the idea of placing the third buoy on the line of points 1 km east of the lighthouse was abandoned, and instead it was decided to place the buoy as close as possible to the lighthouse, subject to the other constraints. "Now there is certainly only one possible point," confirms the technical mathematician. Determine how many metres from the lighthouse the third buoy will be placed.
 
-[[Quesiti/src_gs_2005#q23|src_gs_2005__Q23]]
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_coordinate|Coordinate method]], [[method_casework|Case analysis]], [[method_estremalita|Extremal principle]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Geometria|Geometry]]
 
 
 
-<span class="atom-split" id="q24" data-atom="q24" data-title="Quesito 24" data-tags="topic_probabilita"></span>
+<span class="atom-split" id="q24" data-atom="q24" data-title="Quesito 24" data-tags="topic_probabilita,topic_aritmetica,method_fattorizzazione,method_casework,method_estremalita,skill_manipolazione_algebrica,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -1018,10 +1107,12 @@ level: squadre
 > Determinare a quanto ammonterà, al massimo, il compenso
 > del cuoco.
 
-**Topic:** [[topic_probabilita|Probabilita e statistica]]
-**Area:** [[Combinatoria, Logica e Probabilita]]
+**Topic:** [[topic_probabilita|Probabilita e statistica]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]], [[method_casework|Analisi per casi]], [[method_estremalita|Principio di estremalita]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 8517
-**Fonte:** apri PDF p.5 · fairmath.it (Coppa Fermat 2005)
+**Fonte:** [apri PDF p.5](https://www.fairmath.it/genova/fermat/2005-soluzioni.pdf#page=5) · fairmath.it (Coppa Fermat 2005)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -1034,7 +1125,8 @@ level: squadre
 > Median remuneration Now that the team competitions
 > They are managed by a wealthy organization; finally, all the collaborators will receive generous remuneration. The amounts in euros of the various remunerations will all be median four-digit numbers. According to the definition given by the Big Boss, a four-digit number is called median if its digits are not in arithmetic progression, but the number formed by its two middle digits is the arithmetic mean of the number formed by the two leading digits and of the number formed by the two trailing digits. Thus, for example, 3581 is a median number (indeed, (35 + 81)/2 = 58), whereas 3333, 3579, or 6420 are not, since their digits are in arithmetic progression. The highest remuneration naturally goes to the Big Boss; the radio-beacon technicians receive a little less (all of them are paid the same amount); the two clerks who have to stamp the envelopes receive even less (they too are paid the same); and the canteen cook receives even less, having been accused of taking too long to cook a simple egg. Determine the maximum amount that the cook's remuneration will come to.
 
-**Topic:** [[topic_probabilita|Probability and statistics]]
-**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
-[[Quesiti/src_gs_2005#q24|src_gs_2005__Q24]]
+**Topic:** [[topic_probabilita|Probability and statistics]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]], [[method_casework|Case analysis]], [[method_estremalita|Extremal principle]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]

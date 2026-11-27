@@ -36,8 +36,7 @@ level: Olimpiade Polacca Round 2
 **Topic:** [[topic_aritmetica|Aritmetica e teoria dei numeri]]
 **Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_casework|Analisi per casi]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di schemi]], [[skill_lettura_attenta|Lettura attenta]]
-
-[[Quesiti/src_pol_2005_r2#q01|src_pol_2005_r2__Q01]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
 
 
 
@@ -67,12 +66,11 @@ level: Olimpiade Polacca Round 2
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_trigonometria|Trigonometria]], [[method_simmetria|Simmetria]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
-
-[[Quesiti/src_pol_2005_r2#q02|src_pol_2005_r2__Q02]]
-
+**Area:** [[Geometria]]
 
 
-<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_combinatoria,method_disuguaglianze,method_doppio_conteggio,method_conteggio,skill_conteggio_sistematico,skill_stima,skill_ragionamento_geometrico"></span>
+
+<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_combinatoria,topic_disuguaglianze,method_disuguaglianze,method_doppio_conteggio,method_conteggio,method_grafi,skill_conteggio_sistematico,skill_stima,skill_ragionamento_geometrico"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -81,10 +79,10 @@ level: Olimpiade Polacca Round 2
 
 > In space are given $n \ge 2$ points, no four of which are coplanar. Some of these points are connected by segments. Let $K$ be the number of segments ($K > 1$) and $T$ be the number of formed triangles. Prove that $9T^2 < 2K^3$.
 
-**Topic:** [[topic_combinatoria|Combinatoria]]
-**Metodo:** [[method_disuguaglianze|Disuguaglianze]], [[method_doppio_conteggio|Doppio conteggio]], [[method_conteggio|Conteggio]]
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_disuguaglianze|Inequalities]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze]], [[method_doppio_conteggio|Doppio conteggio]], [[method_conteggio|Conteggio]], [[method_grafi|Graph theory]]
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_stima|Stima]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
-**Area:** [[Combinatoria, Logica e Probabilita]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Algebra e Analisi|Algebra and analysis]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1TdHFWiGU9cO5g7t9suf-adbCUDeE_k7A/view)
 
 
@@ -95,11 +93,11 @@ level: Olimpiade Polacca Round 2
 
 > Nello spazio sono dati $n \ge 2$ punti, quattro dei quali non sono mai complanari. Alcuni di questi punti sono congiunti da segmenti. Sia $K$ il numero dei segmenti ($K > 1$) e $T$ il numero dei triangoli formati. Dimostrare che $9T^2 < 2K^3$.
 
-**Topic:** [[topic_combinatoria|Combinatoria]]
-**Metodo:** [[method_disuguaglianze|Disuguaglianze]], [[method_doppio_conteggio|Doppio conteggio]], [[method_conteggio|Conteggio]]
-**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_stima|Stima]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 
-[[Quesiti/src_pol_2005_r2#q03|src_pol_2005_r2__Q03]]
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_disuguaglianze|Disuguaglianze]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze]], [[method_doppio_conteggio|Doppio conteggio]], [[method_conteggio|Conteggio]], [[method_grafi|Teoria dei grafi]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_stima|Stima]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Algebra e Analisi]]
 
 
 
@@ -129,12 +127,11 @@ level: Olimpiade Polacca Round 2
 **Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica e teoria dei numeri]]
 **Metodo:** [[method_congruenze|Congruenze]], [[method_fattorizzazione|Fattorizzazione]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]], [[skill_lettura_attenta|Lettura attenta]]
-
-[[Quesiti/src_pol_2005_r2#q04|src_pol_2005_r2__Q04]]
-
+**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 
 
-<span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_geometria_piana,method_trigonometria,method_simmetria,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
+
+<span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_geometria_piana,method_trigonometria,method_simmetria,skill_ragionamento_geometrico,skill_manipolazione_algebrica,skill_riconoscimento_pattern"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -145,8 +142,8 @@ level: Olimpiade Polacca Round 2
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_trigonometria|Trigonometria]], [[method_simmetria|Simmetria]]
-**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
-**Area:** [[Geometria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Geometria|Geometry]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1TdHFWiGU9cO5g7t9suf-adbCUDeE_k7A/view)
 
 
@@ -157,11 +154,11 @@ level: Olimpiade Polacca Round 2
 
 > È dato un rombo $ABCD$ con $\angle BAD = 60^\circ$. I punti $E$ sul lato $AB$ e $F$ sul lato $AD$ sono tali che $\angle ECF = \angle ABD$. Le rette $CE$ e $CF$ incontrano rispettivamente la retta $BD$ in $P$ e $Q$. Dimostrare che $\frac{PQ}{EF} = \frac{AB}{BD}$.
 
+
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_trigonometria|Trigonometria]], [[method_simmetria|Simmetria]]
-**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
-
-[[Quesiti/src_pol_2005_r2#q05|src_pol_2005_r2__Q05]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Geometria]]
 
 
 
@@ -194,5 +191,4 @@ level: Olimpiade Polacca Round 2
 **Topic:** [[topic_disuguaglianze|Disuguaglianze]]
 **Metodo:** [[method_disuguaglianze|Disuguaglianze]], [[method_casework|Analisi per casi]], [[method_estremalita|Estremalità]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]]
-
-[[Quesiti/src_pol_2005_r2#q06|src_pol_2005_r2__Q06]]
+**Area:** [[Algebra e Analisi]]

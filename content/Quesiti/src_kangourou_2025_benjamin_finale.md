@@ -10,7 +10,7 @@ level: kangourou
 
 
 
-<span class="atom-split" id="qb1" data-atom="qb1" data-title="Quesito B1" data-tags="topic_aritmetica,skill_riconoscimento_pattern"></span>
+<span class="atom-split" id="qb1" data-atom="qb1" data-title="Quesito B1" data-tags="topic_aritmetica,method_estremalita,skill_riconoscimento_pattern"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -20,6 +20,7 @@ level: kangourou
 > Qual è il più piccolo numero intero positivo la somma delle cui cifre è $100$? Spiega come l'hai determinato.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_estremalita|Principio di estremalita]]
 **Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 199999999999
@@ -33,11 +34,11 @@ level: kangourou
 
 > What is the smallest positive integer whose digit sum is $100$? Explain how you determined it.
 
+
 **Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_estremalita|Extremal principle]]
 **Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
-
-[[Quesiti/src_kangourou_2025_benjamin_finale#qb1|src_kangourou_2025_benjamin_finale__QB1]]
 
 
 
@@ -70,11 +71,9 @@ level: kangourou
 **Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
-[[Quesiti/src_kangourou_2025_benjamin_finale#qb2|src_kangourou_2025_benjamin_finale__QB2]]
 
 
-
-<span class="atom-split" id="qb3" data-atom="qb3" data-title="Quesito B3" data-tags="topic_logica,topic_combinatoria,method_estremalita,skill_casework_accurato"></span>
+<span class="atom-split" id="qb3" data-atom="qb3" data-title="Quesito B3" data-tags="topic_logica,topic_combinatoria,method_estremalita,method_backward,method_casework,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -92,7 +91,7 @@ level: kangourou
 > (vedi figura)
 
 **Topic:** [[topic_logica|Logica, giochi, strategie]], [[topic_combinatoria|Combinatoria]]
-**Metodo:** [[method_estremalita|Principio di estremalita]]
+**Metodo:** [[method_estremalita|Principio di estremalita]], [[method_backward|Ragionamento all'indietro]], [[method_casework|Analisi per casi]]
 **Abilita:** [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** a)260 b)60
@@ -114,16 +113,15 @@ level: kangourou
 >
 > (see figure)
 
+
 **Topic:** [[topic_logica|Logic, games and strategies]], [[topic_combinatoria|Combinatorics]]
-**Metodo:** [[method_estremalita|Extremal principle]]
+**Metodo:** [[method_estremalita|Extremal principle]], [[method_backward|Working backwards]], [[method_casework|Case analysis]]
 **Abilita:** [[skill_casework_accurato|Careful case analysis]]
 **Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
-[[Quesiti/src_kangourou_2025_benjamin_finale#qb3|src_kangourou_2025_benjamin_finale__QB3]]
 
 
-
-<span class="atom-split" id="qb4" data-atom="qb4" data-title="Quesito B4" data-tags="topic_aritmetica,topic_logica,skill_modellizzazione"></span>
+<span class="atom-split" id="qb4" data-atom="qb4" data-title="Quesito B4" data-tags="topic_aritmetica,topic_logica,method_congruenze,skill_modellizzazione,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -133,7 +131,8 @@ level: kangourou
 > Un parco circolare è circondato da un sentiero illuminato da lampioni. Simona e Tania hanno contato i lampioni, ma separatamente, partendo da punti diversi e muovendosi entrambe nello stesso verso. Quello che è stato il $20$-esimo lampione per Simona è stato il $7$-mo per Tania, quello che è stato il $7$-mo per Simona è stato il $94$-esimo per Tania. Quanti sono complessivamente i lampioni?
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_logica|Logica, giochi, strategie]]
-**Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
+**Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 100
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1hvCMhKmXAjUOFEJWwvFFJ29ZPfkhmm4P/view)
@@ -146,15 +145,15 @@ level: kangourou
 
 > A circular park is surrounded by a path lit by street lamps. Simona and Tania counted the street lamps, but separately, starting from different points and both moving in the same direction. The lamp that was the $20$-th lamp for Simona was the $7$-th for Tania; the lamp that was the $7$-th for Simona was the $94$-th for Tania. How many street lamps are there in total?
 
+
 **Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_logica|Logic, games and strategies]]
-**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
-[[Quesiti/src_kangourou_2025_benjamin_finale#qb4|src_kangourou_2025_benjamin_finale__QB4]]
 
 
-
-<span class="atom-split" id="qb5" data-atom="qb5" data-title="Quesito B5" data-tags="topic_combinatoria,topic_aritmetica,method_estremalita,skill_casework_accurato"></span>
+<span class="atom-split" id="qb5" data-atom="qb5" data-title="Quesito B5" data-tags="topic_combinatoria,topic_aritmetica,method_estremalita,method_casework,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -164,9 +163,9 @@ level: kangourou
 > A ogni numero intero tra $1$ e $9$ inclusi è assegnato uno e uno solo dei colori rosso, blu, verde in modo che ogni numero rosso sia la somma di un numero verde e di un numero blu. Quanti possono essere al massimo i numeri rossi?
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_estremalita|Principio di estremalita]]
+**Metodo:** [[method_estremalita|Principio di estremalita]], [[method_casework|Analisi per casi]]
 **Abilita:** [[skill_casework_accurato|Casework accurato]]
-**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 4
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1hvCMhKmXAjUOFEJWwvFFJ29ZPfkhmm4P/view)
 
@@ -178,23 +177,22 @@ level: kangourou
 
 > To each integer between $1$ and $9$ inclusive, exactly one of the colors red, blue, and green is assigned, in such a way that every red number is the sum of a green number and a blue number. What is the maximum possible number of red numbers?
 
+
 **Topic:** [[topic_combinatoria|Combinatorics]], [[topic_aritmetica|Arithmetic / Number theory]]
-**Metodo:** [[method_estremalita|Extremal principle]]
+**Metodo:** [[method_estremalita|Extremal principle]], [[method_casework|Case analysis]]
 **Abilita:** [[skill_casework_accurato|Careful case analysis]]
-**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
-
-[[Quesiti/src_kangourou_2025_benjamin_finale#qb5|src_kangourou_2025_benjamin_finale__QB5]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
 
 
-<span class="atom-split" id="qb6" data-atom="qb6" data-title="Quesito B6" data-tags="topic_logica,topic_combinatoria,method_estremalita,skill_ragionamento_geometrico"></span>
+<span class="atom-split" id="qb6" data-atom="qb6" data-title="Quesito B6" data-tags="topic_logica,topic_combinatoria,method_estremalita,method_grafi,method_colorazione,skill_ragionamento_geometrico,skill_modellizzazione"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
 
 *Massimo cavalieri su griglia 4x4 con dichiarazioni*
 
-![[src_kangourou_2025_benjamin_finale__probb6.png]]
+![[src_kangourou_2025_benjamin_finale__probB6.png]]
 
 ```tikz
 \begin{document}
@@ -221,8 +219,8 @@ level: kangourou
 > **NOTA:** Due mattonelle sono adiacenti se hanno un intero lato in comune.
 
 **Topic:** [[topic_logica|Logica, giochi, strategie]], [[topic_combinatoria|Combinatoria]]
-**Metodo:** [[method_estremalita|Principio di estremalita]]
-**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Metodo:** [[method_estremalita|Principio di estremalita]], [[method_grafi|Teoria dei grafi]], [[method_colorazione|Colorazione / parita]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 4
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1hvCMhKmXAjUOFEJWwvFFJ29ZPfkhmm4P/view)
@@ -233,7 +231,7 @@ level: kangourou
 
 *Maximum riders on a 4x4 grid with declarations*
 
-![[src_kangourou_2025_benjamin_finale__probb6.png]]
+![[src_kangourou_2025_benjamin_finale__probB6.png]]
 
 ```tikz
 \begin{document}
@@ -259,9 +257,8 @@ level: kangourou
 >
 > **NOTE:** Two tiles are adjacent if they share an entire side.
 
-**Topic:** [[topic_logica|Logic, games and strategies]], [[topic_combinatoria|Combinatorics]]
-**Metodo:** [[method_estremalita|Extremal principle]]
-**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
-**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
-[[Quesiti/src_kangourou_2025_benjamin_finale#qb6|src_kangourou_2025_benjamin_finale__QB6]]
+**Topic:** [[topic_logica|Logic, games and strategies]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_estremalita|Extremal principle]], [[method_grafi|Graph theory]], [[method_colorazione|Colouring / parity]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]

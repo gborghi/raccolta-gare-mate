@@ -10,7 +10,7 @@ level: squadre
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_algebra"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_algebra,method_fattorizzazione,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -35,6 +35,8 @@ level: squadre
 > dire che, dopo pochi secondi, Ferb aveva la soluzione. Che valore ha trovato?
 
 **Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Algebra e Analisi]]
 **Risposta:** 228
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1Azjufv9S23pC-fbiG_I21ZB1y25hJLl9/view)
@@ -47,14 +49,15 @@ level: squadre
 
 > THE LAST ASSIGNMENT (Carlo Càssola) Ferb hasn't finished his holiday homework yet. All he has left to do is find the value of k for which the polynomial 3 2 167 54 –1 kx x x   is divisible by 57 1 x . Phineas has decided to wait for Ferb before deciding what to do today. Needless to say, within a few seconds Ferb had the solution. What value did he find?
 
+
 **Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
 **Area:** [[Algebra e Analisi|Algebra and analysis]]
 
-[[Quesiti/src_squadre_2025_femminile#q01|src_squadre_2025_femminile__Q01]]
 
 
-
-<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_geometria_piana"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_geometria_piana,topic_funzionali,method_ricorsione,skill_ragionamento_geometrico,skill_manipolazione_algebrica,skill_riconoscimento_pattern"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -87,8 +90,10 @@ level: squadre
 > cm ), si aprirà il portale per Marte. Con questa invenzione Baljeet vincerà la 
 > Fiera della Scienza. Ma quanta corrente gli servirà per alimentare il portale?
 
-**Topic:** [[topic_geometria_piana|Geometria piana]]
-**Area:** [[Geometria]]
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_funzionali|Equazioni funzionali / successioni]]
+**Metodo:** [[method_ricorsione|Ricorsione]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Geometria]], [[Algebra e Analisi]]
 **Risposta:** 2700
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1Azjufv9S23pC-fbiG_I21ZB1y25hJLl9/view)
 
@@ -100,14 +105,15 @@ level: squadre
 
 > What Are We Doing Today? (Carlo Càssola) Phineas and Ferb help Baljeet build a portal to Mars. The task is to draw on a metal surface an arbitrary triangle ABC with an area of 2 2025 cm². Then take 1A, the midpoint of side AC, and 1B, the midpoint of BC, and draw triangle 1 1 A B C. Continue in the same way, constructing 2 A as the midpoint of 1AC and 2 B as the midpoint of 1B C, and drawing triangle 2 2 A B C. If this process is carried on indefinitely and the whole setup is powered by an amount of current equal to the sum of the areas of all the triangles drawn (in 2 cm), the portal to Mars will open. With this invention, Baljeet will win the Science Fair. But how much current will he need to power the portal?
 
-**Topic:** [[topic_geometria_piana|Plane geometry]]
-**Area:** [[Geometria|Geometry]]
 
-[[Quesiti/src_squadre_2025_femminile#q02|src_squadre_2025_femminile__Q02]]
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_funzionali|Functional equations / sequences]]
+**Metodo:** [[method_ricorsione|Recursion]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Geometria|Geometry]], [[Algebra e Analisi|Algebra and analysis]]
 
 
 
-<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_geometria_solida,method_coordinate"></span>
+<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_geometria_solida,method_coordinate,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -120,6 +126,7 @@ level: squadre
 
 **Topic:** [[topic_geometria_solida|Geometria solida]]
 **Metodo:** [[method_coordinate|Metodo delle coordinate]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 **Risposta:** 1267
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1Azjufv9S23pC-fbiG_I21ZB1y25hJLl9/view)
@@ -132,15 +139,15 @@ level: squadre
 
 > Hey, where's Perry? (Santina De Monte) Meanwhile, Dr. Doofenshmirtz is testing his Volcano Bicarbonator with the intention of making it erupt until it covers the entire city of Danville. Fortunately, Agent P. is already on the case. The volcano is a tetrahedron $ABCV$ with $AV = BV = CV = 6\text{ m}$ and $\widehat{AVB} = \widehat{BVC} = \widehat{CVA} = 90^\circ$. Perry must find a sphere to fit inside it to prevent the eruption. What will be the radius, in millimeters, of the sphere perfectly inscribed in the volcano that will allow Agent P. to save the city?
 
+
 **Topic:** [[topic_geometria_solida|Solid geometry]]
 **Metodo:** [[method_coordinate|Coordinate method]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
 **Area:** [[Geometria|Geometry]]
 
-[[Quesiti/src_squadre_2025_femminile#q03|src_squadre_2025_femminile__Q03]]
 
 
-
-<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_combinatoria,method_conteggio"></span>
+<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_combinatoria,method_conteggio,method_simmetria,skill_conteggio_sistematico,skill_riconoscimento_pattern"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -158,7 +165,8 @@ level: squadre
 > dovranno essere realizzate?
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
-**Metodo:** [[method_conteggio|Conteggio combinatorio]]
+**Metodo:** [[method_conteggio|Conteggio combinatorio]], [[method_simmetria|Sfruttamento della simmetria]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 128
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1Azjufv9S23pC-fbiG_I21ZB1y25hJLl9/view)
@@ -171,15 +179,15 @@ level: squadre
 
 > This Time You've Really Been Caught! (Michelangelo Sabatini) Candace is in her room, on the phone with her friend Stacy, when, leaning out the window, she sees Phineas and Ferb in the garden building a rocket. She then goes down to the living room to tell her mom about them, but Mom is busy: she's coloring 5×5 square grids. She colors each cell either red or green in such a way that, when the grid is rotated about the central cell by an angle of 90°, 180°, or 270°, the grid remains colored as if it hadn't been rotated. Mom won't pay attention to Candace until she's finished. How many grids will have to be made?
 
+
 **Topic:** [[topic_combinatoria|Combinatorics]]
-**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Metodo:** [[method_conteggio|Combinatorial counting]], [[method_simmetria|Using symmetry]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]], [[skill_riconoscimento_pattern|Pattern recognition]]
 **Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
-[[Quesiti/src_squadre_2025_femminile#q04|src_squadre_2025_femminile__Q04]]
 
 
-
-<span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_aritmetica,method_congruenze"></span>
+<span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_aritmetica,topic_combinatoria,method_congruenze,method_conteggio,skill_conteggio_sistematico,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -195,9 +203,10 @@ level: squadre
 > Ma quanti erano? Erano tanti quanti i numeri di 5 cifre che danno resto 3  se divisi per 4  e, quando sono scritti al 
 > contrario, danno resto 3 se divisi per 5. Quanti erano i nanetti rubati da Doofenshmirtz?
 
-**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]]
-**Area:** [[Aritmetica e Teoria dei Numeri]]
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]], [[method_conteggio|Conteggio combinatorio]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 5000
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1Azjufv9S23pC-fbiG_I21ZB1y25hJLl9/view)
 
@@ -209,15 +218,15 @@ level: squadre
 
 > GARDEN GNOMES (Carlo Càssola) Summer and the heat are making themselves felt more and more: Phineas and Ferb decide to set up a big beach where they can invite anyone who wants to have fun. Meanwhile, Agent P is busy stopping Doofenshmirtz, who this time wants to eliminate all the garden gnomes in the world, since he is tormented by unpleasant memories tied to his childhood. Perry manages to destroy the Gnome-Sucker by destroying it while it's in operation, so all the little gnomes rain down from the sky onto the beach. But how many were there? There were as many as the five-digit numbers that leave a remainder of 3 when divided by 4 and, when written in reverse, leave a remainder of 3 when divided by 5. How many little gnomes did Doofenshmirtz steal?
 
-**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
-**Metodo:** [[method_congruenze|Modular arithmetic / congruences]]
-**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
-[[Quesiti/src_squadre_2025_femminile#q05|src_squadre_2025_femminile__Q05]]
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]], [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]], [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
 
 
-<span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_combinatoria,method_cassetti"></span>
+<span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_combinatoria,topic_logica,topic_geometria_piana,method_cassetti,method_casework,skill_casework_accurato,skill_ragionamento_geometrico"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -234,9 +243,10 @@ level: squadre
 > già calcolato che non ci vorranno molte mosse. Qual è il minimo numero di mosse che occorreranno a Phineas, 
 > supponendo che Candace giochi nella maniera più intelligente possibile per non farlo vincere?
 
-**Topic:** [[topic_combinatoria|Combinatoria]]
-**Metodo:** [[method_cassetti|Principio dei cassetti]]
-**Area:** [[Combinatoria, Logica e Probabilita]]
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_logica|Logica, giochi, strategie]], [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_cassetti|Principio dei cassetti]], [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 **Risposta:** 7
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1Azjufv9S23pC-fbiG_I21ZB1y25hJLl9/view)
 
@@ -248,15 +258,15 @@ level: squadre
 
 > The Best Day of Doing Absolutely Nothing (Michelangelo Sabatini) For the very first time ever, Phineas and Ferb decide to do absolutely nothing. But Candace suspects something and, worried that she might lose her "job" as a spy, decides to provoke her brothers. Phineas challenges Candace to a game. He takes an infinite tiling of the plane made up of congruent equilateral triangles. On each move, Phineas chooses a vertex of a triangle, and Candace can decide whether to color it red or blue. Phineas wins the game if he can get three points in the plane—points that are vertices of some equilateral triangle—colored the same color. Ferb has already calculated that it won't take many moves. What is the minimum number of moves Phineas will need, assuming Candace plays in the smartest possible way to keep him from winning?
 
-**Topic:** [[topic_combinatoria|Combinatorics]]
-**Metodo:** [[method_cassetti|Pigeonhole principle]]
-**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
-[[Quesiti/src_squadre_2025_femminile#q06|src_squadre_2025_femminile__Q06]]
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_logica|Logic, games and strategies]], [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_cassetti|Pigeonhole principle]], [[method_casework|Case analysis]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]], [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Geometria|Geometry]]
 
 
 
-<span class="atom-split" id="q07" data-atom="q07" data-title="Quesito 7" data-tags="topic_geometria_piana,method_trigonometria,skill_ragionamento_geometrico"></span>
+<span class="atom-split" id="q07" data-atom="q07" data-title="Quesito 7" data-tags="topic_geometria_piana,topic_trigonometria,method_trigonometria,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -273,9 +283,9 @@ level: squadre
 > , 
 > quanto misura AB , sempre in dm?
 
-**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometria]]
 **Metodo:** [[method_trigonometria|Tecniche trigonometriche]]
-**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 **Risposta:** 56
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1Azjufv9S23pC-fbiG_I21ZB1y25hJLl9/view)
@@ -288,16 +298,15 @@ level: squadre
 
 > MINI-GOLF, MAXI-PASSION (Simona Pieri) The kids are sad because the minigolf course in Danville is closed; so they decide to build one. For the first hole, they construct triangle ABC, with the hole at H, the orthocenter, and the starting point at O, the circumcenter of the triangle. Between O and H, they place an obstacle but arrange for HO to be parallel to AB with a distance of 10 dm. If HO = 22 dm, how long is AB, also in dm?
 
-**Topic:** [[topic_geometria_piana|Plane geometry]]
+
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_trigonometria|Trigonometry]]
 **Metodo:** [[method_trigonometria|Trigonometric techniques]]
-**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
 **Area:** [[Geometria|Geometry]]
 
-[[Quesiti/src_squadre_2025_femminile#q07|src_squadre_2025_femminile__Q07]]
 
 
-
-<span class="atom-split" id="q08" data-atom="q08" data-title="Quesito 8" data-tags="topic_combinatoria,method_conteggio"></span>
+<span class="atom-split" id="q08" data-atom="q08" data-title="Quesito 8" data-tags="topic_combinatoria,topic_geometria_piana,method_conteggio,method_casi_conteggio,skill_conteggio_sistematico,skill_ragionamento_geometrico"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -312,9 +321,10 @@ level: squadre
 > alla bisettrice del primo e terzo quadrante e 5 parallele alla bisettrice del secondo e quarto quadrante. La risposta che 
 > ottengono è corretta. Ora potranno scoprire il regalo adatto per la mamma. Che risposta ha dato il supercomputer?
 
-**Topic:** [[topic_combinatoria|Combinatoria]]
-**Metodo:** [[method_conteggio|Conteggio combinatorio]]
-**Area:** [[Combinatoria, Logica e Probabilita]]
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_conteggio|Conteggio combinatorio]], [[method_casi_conteggio|Conteggio per casi]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 **Risposta:** 500
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1Azjufv9S23pC-fbiG_I21ZB1y25hJLl9/view)
 
@@ -326,15 +336,15 @@ level: squadre
 
 > THE SUPERCOMPUTER (Simone Bertone) The two brothers build a computer that knows everything about everyone in order to find out what will please their mother most as a birthday gift. To test it, they ask it how many distinct right-angled triangles are formed by drawing 20 lines in the Cartesian plane: 5 parallel to the x-axis, 5 parallel to the y-axis, 5 parallel to the bisector of the first and third quadrants, and 5 parallel to the bisector of the second and fourth quadrants. The answer they get is correct. Now they will be able to find the right gift for their mother. What answer did the supercomputer give?
 
-**Topic:** [[topic_combinatoria|Combinatorics]]
-**Metodo:** [[method_conteggio|Combinatorial counting]]
-**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
-[[Quesiti/src_squadre_2025_femminile#q08|src_squadre_2025_femminile__Q08]]
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_conteggio|Combinatorial counting]], [[method_casi_conteggio|Counting by cases]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]], [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Geometria|Geometry]]
 
 
 
-<span class="atom-split" id="q09" data-atom="q09" data-title="Quesito 9" data-tags="topic_combinatoria"></span>
+<span class="atom-split" id="q09" data-atom="q09" data-title="Quesito 9" data-tags="topic_combinatoria,method_conteggio,method_fattorizzazione,skill_modellizzazione,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -351,6 +361,8 @@ level: squadre
 > rispetto a quante ce ne sono state tra i mancini. Quanti sono gli amici mancini di Phineas?
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_conteggio|Conteggio combinatorio]], [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 15
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1Azjufv9S23pC-fbiG_I21ZB1y25hJLl9/view)
@@ -363,14 +375,15 @@ level: squadre
 
 > A Birthday Well Worth Seeing (Michelangelo Sabatini) It's Phineas's birthday, and his 50 friends decide to throw him a surprise party, recreating in a video the funniest moments they've experienced up to that point. Candace would like to seize the video and give it to Mom, but a strange beam from Dr. Doofenshmirtz, deflected by Perry, accidentally destroys the video. At the time of goodbyes, Phineas notices that, within the group of 50 friends, each right-handed person shakes hands with all and only the other right-handed people, while each left-handed person shakes hands with all and only the other left-handed people. Ferb reveals that there were 490 more handshakes among the right-handed people than among the left-handed people. How many of Phineas's friends are left-handed?
 
+
 **Topic:** [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_conteggio|Combinatorial counting]], [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
 **Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
-[[Quesiti/src_squadre_2025_femminile#q09|src_squadre_2025_femminile__Q09]]
 
 
-
-<span class="atom-split" id="q10" data-atom="q10" data-title="Quesito 10" data-tags="topic_funzionali"></span>
+<span class="atom-split" id="q10" data-atom="q10" data-title="Quesito 10" data-tags="topic_funzionali,method_fattorizzazione,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -401,6 +414,8 @@ level: squadre
 > atto il suo piano diabolico?
 
 **Topic:** [[topic_funzionali|Equazioni funzionali / successioni]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Algebra e Analisi]]
 **Risposta:** 2026
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1Azjufv9S23pC-fbiG_I21ZB1y25hJLl9/view)
@@ -413,14 +428,15 @@ level: squadre
 
 > DIVINE JUSTICE (Simona Pieri) Meanwhile, Doofenshmirtz decides to use his Swap-Places-Inator to put hair on bald heads by taking hair away from those who have it, so that he can sell his new hair-regrowth product. To make the machine work, however, he must calculate the smallest n for which 1 na , where na is the nth term of a geometric progression with a positive common ratio, a first term greater than 1, and such that   3 1361 32 a a . He hadn't reckoned with Agent P, who steps in promptly to thwart his plans. What value would have been of use to Dr. Doofenshmirtz in carrying out his diabolical plan?
 
+
 **Topic:** [[topic_funzionali|Functional equations / sequences]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
 **Area:** [[Algebra e Analisi|Algebra and analysis]]
 
-[[Quesiti/src_squadre_2025_femminile#q10|src_squadre_2025_femminile__Q10]]
 
 
-
-<span class="atom-split" id="q11" data-atom="q11" data-title="Quesito 11" data-tags="topic_probabilita"></span>
+<span class="atom-split" id="q11" data-atom="q11" data-title="Quesito 11" data-tags="topic_probabilita,topic_algebra,method_conteggio,method_fattorizzazione,skill_modellizzazione,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -438,8 +454,10 @@ level: squadre
 > distrugge la Spa. Quante palline verdi ha inserito Perry? (Dare come risposta la somma dei quadrati di tutte le possibili 
 > soluzioni.)
 
-**Topic:** [[topic_probabilita|Probabilita e statistica]]
-**Area:** [[Combinatoria, Logica e Probabilita]]
+**Topic:** [[topic_probabilita|Probabilita e statistica]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_conteggio|Conteggio combinatorio]], [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Algebra e Analisi]]
 **Risposta:** 4321
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1Azjufv9S23pC-fbiG_I21ZB1y25hJLl9/view)
 
@@ -451,14 +469,15 @@ level: squadre
 
 > A Day at the Wellness Center (Carlo Càssola) While Phineas, Ferb, and their friends build a spa, Doofenshmirtz adopts a kitten and decides to name it Calzoncino Pelosetto. However, the kitten causes him a series of accidents, including clouding the sky with the Cloudifier; Perry is sent to investigate what happened. The agent discovers that the kitten has a box containing 45 red balls. To distract the cat, Perry decides to put a certain number of phosphorescent green balls into the box so that the probability of drawing two balls of the same color at the same time is equal to the probability of drawing two balls of different colors. Calzoncino Pelosetto is impressed by the balls and inadvertently activates a beam that destroys the spa. How many green balls did Perry put in? (Give as the answer the sum of the squares of all possible solutions.)
 
-**Topic:** [[topic_probabilita|Probability and statistics]]
-**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
-[[Quesiti/src_squadre_2025_femminile#q11|src_squadre_2025_femminile__Q11]]
+**Topic:** [[topic_probabilita|Probability and statistics]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_conteggio|Combinatorial counting]], [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Algebra e Analisi|Algebra and analysis]]
 
 
 
-<span class="atom-split" id="q12" data-atom="q12" data-title="Quesito 12" data-tags="topic_algebra,skill_modellizzazione"></span>
+<span class="atom-split" id="q12" data-atom="q12" data-title="Quesito 12" data-tags="topic_algebra,skill_modellizzazione,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -474,7 +493,7 @@ level: squadre
 > numero massimo di mucche che potrebbero pascolare per sempre, senza restare mai senza erba?
 
 **Topic:** [[topic_algebra|Algebra]]
-**Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Algebra e Analisi]]
 **Risposta:** 74
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1Azjufv9S23pC-fbiG_I21ZB1y25hJLl9/view)
@@ -487,15 +506,14 @@ level: squadre
 
 > The Grass of the Nearby Meadow (Sandro Campigotto) Phineas suggests turning the meadow behind the house into a pasture. After two quick calculations, Ferb has concluded that the grass that's there now, plus the grass that grows every day, would be enough for 100 cows, which could eat for 40 days before all the grass ran out. Phineas then recalculates and finds that 90 cows could graze for 65 days. Assuming each cow eats at the same constant rate and the grass also grows at a constant rate, what is the maximum number of cows that could graze forever without ever running out of grass?
 
+
 **Topic:** [[topic_algebra|Algebra]]
-**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
 **Area:** [[Algebra e Analisi|Algebra and analysis]]
 
-[[Quesiti/src_squadre_2025_femminile#q12|src_squadre_2025_femminile__Q12]]
 
 
-
-<span class="atom-split" id="q13" data-atom="q13" data-title="Quesito 13" data-tags="topic_funzionali,method_simmetria"></span>
+<span class="atom-split" id="q13" data-atom="q13" data-title="Quesito 13" data-tags="topic_funzionali,topic_algebra,method_simmetria,skill_manipolazione_algebrica,skill_riconoscimento_pattern"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -537,8 +555,9 @@ level: squadre
 > macchina facendola precipitare e distruggendola. Quale valore avrebbe permesso al dott. Doofenshmirtz di vedere 
 > l’intero mondo festeggiare il suo compleanno?
 
-**Topic:** [[topic_funzionali|Equazioni funzionali / successioni]]
+**Topic:** [[topic_funzionali|Equazioni funzionali / successioni]], [[topic_algebra|Algebra]]
 **Metodo:** [[method_simmetria|Sfruttamento della simmetria]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Algebra e Analisi]]
 **Risposta:** 200
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1Azjufv9S23pC-fbiG_I21ZB1y25hJLl9/view)
@@ -551,15 +570,15 @@ level: squadre
 
 > DOWN WITH BULLIES (Simone Bertone) One afternoon at the ice cream parlor, Phineas drops his ice cream cone onto Buford's pants, unleashing the bully's fury. Buford therefore decides to challenge Phineas to a thumb-wrestling tournament. Meanwhile, Doofenshmirtz has built a hypnotizing machine to control people's minds and force them to celebrate his birthday. Only Agent P can save humanity! While Doofenshmirtz would like to activate the machine by entering the value (14) p of a polynomial ( ) p x such that 2 2 ( ) ( ) (2 ) x p x p x p x   , knowing only that   10 100 p  , Perry unscrews the base of the machine, causing it to plunge and be destroyed. Which value would have allowed Dr. Doofenshmirtz to see the whole world celebrating his birthday?
 
-**Topic:** [[topic_funzionali|Functional equations / sequences]]
+
+**Topic:** [[topic_funzionali|Functional equations / sequences]], [[topic_algebra|Algebra]]
 **Metodo:** [[method_simmetria|Using symmetry]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_riconoscimento_pattern|Pattern recognition]]
 **Area:** [[Algebra e Analisi|Algebra and analysis]]
 
-[[Quesiti/src_squadre_2025_femminile#q13|src_squadre_2025_femminile__Q13]]
 
 
-
-<span class="atom-split" id="q14" data-atom="q14" data-title="Quesito 14" data-tags="topic_probabilita,method_casework,method_conteggio"></span>
+<span class="atom-split" id="q14" data-atom="q14" data-title="Quesito 14" data-tags="topic_probabilita,topic_algebra,topic_aritmetica,method_casework,method_conteggio,method_fattorizzazione,skill_casework_accurato,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -585,9 +604,10 @@ level: squadre
 > subconscio dei due fratelli che danno assieme la risposta corretta. Che risposta hanno dato alla sorella? 
 > (Dare come risultato la somma tra numeratore e denominatore della frazione ridotta ai minimi termini.)
 
-**Topic:** [[topic_probabilita|Probabilita e statistica]]
-**Metodo:** [[method_casework|Analisi per casi]], [[method_conteggio|Conteggio combinatorio]]
-**Area:** [[Combinatoria, Logica e Probabilita]]
+**Topic:** [[topic_probabilita|Probabilita e statistica]], [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Analisi per casi]], [[method_conteggio|Conteggio combinatorio]], [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
+**Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 106
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1Azjufv9S23pC-fbiG_I21ZB1y25hJLl9/view)
 
@@ -599,15 +619,15 @@ level: squadre
 
 > What's Gotten Into You, Guys? (Santina de Monte) Struck by one of Doofenshmirtz's rays, Phineas and Ferb lose their creativity. Candace tries to help them regain it by exposing them to various creative stimuli. In desperation, she writes the polynomial 3 2 10 x ax bx    and states that a and b can only be distinct integers with an absolute value less than or equal to 7. She asks the two brothers to calculate the probability that the polynomial has 3 distinct integer roots. Something awakens in the subconscious of the two brothers, and together they give the correct answer. What answer did they give their sister? (Give as the result the sum of the numerator and denominator of the fraction reduced to lowest terms.)
 
-**Topic:** [[topic_probabilita|Probability and statistics]]
-**Metodo:** [[method_casework|Case analysis]], [[method_conteggio|Combinatorial counting]]
-**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
-[[Quesiti/src_squadre_2025_femminile#q14|src_squadre_2025_femminile__Q14]]
+**Topic:** [[topic_probabilita|Probability and statistics]], [[topic_algebra|Algebra]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_casework|Case analysis]], [[method_conteggio|Combinatorial counting]], [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
 
 
-<span class="atom-split" id="q15" data-atom="q15" data-title="Quesito 15" data-tags="topic_geometria_piana,skill_ragionamento_geometrico"></span>
+<span class="atom-split" id="q15" data-atom="q15" data-title="Quesito 15" data-tags="topic_geometria_piana,method_trigonometria,skill_ragionamento_geometrico"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -629,6 +649,7 @@ level: squadre
 > HCK ?
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_trigonometria|Tecniche trigonometriche]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]]
 **Risposta:** 45
@@ -642,15 +663,15 @@ level: squadre
 
 > SMALL IS BEAUTIFUL (Simona Pieri) On a rainy day, Phineas and Ferb build a shrinker so they can become small and play hide-and-seek with their friends. The beam works thanks to a triangular component ABC: a right triangle at C, in which the angle bisectors of ∠BAC and ∠ABC intersect BC and AC at P and Q, respectively. Let H and K be the feet of the perpendiculars from P and Q to AB; the beam starts at H, reaches C, and returns to K. What is the measure of ∠HCK?
 
+
 **Topic:** [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_trigonometria|Trigonometric techniques]]
 **Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
 **Area:** [[Geometria|Geometry]]
 
-[[Quesiti/src_squadre_2025_femminile#q15|src_squadre_2025_femminile__Q15]]
 
 
-
-<span class="atom-split" id="q16" data-atom="q16" data-title="Quesito 16" data-tags="topic_geometria_solida,skill_astrazione"></span>
+<span class="atom-split" id="q16" data-atom="q16" data-title="Quesito 16" data-tags="topic_geometria_solida,method_coordinate,skill_astrazione,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -699,7 +720,8 @@ level: squadre
 > 71 m ?
 
 **Topic:** [[topic_geometria_solida|Geometria solida]]
-**Abilita:** [[skill_astrazione|Astrazione / generalizzazione]]
+**Metodo:** [[method_coordinate|Metodo delle coordinate]]
+**Abilita:** [[skill_astrazione|Astrazione / generalizzazione]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 **Risposta:** 1704
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1Azjufv9S23pC-fbiG_I21ZB1y25hJLl9/view)
@@ -712,15 +734,15 @@ level: squadre
 
 > ESCAPE FROM THE TOWER: PHINEAS (Simona Pieri) Phineas and Ferb build a triangular-based pyramid ABC with vertex V, capable of creating every kind of trap. To test it, they put themselves to the test by trying to get out of the pyramid. Unfortunately, a cutting beam from Doofenshmirtz cuts off the tip of the pyramid. If the plane generated by the cutting beam passes through the points A', B', and C', which lie on the edges AV, BV, and CV respectively, with 1/2 AV' = AV, 1/3 BV' = BV, and 1/4 CV' = CV, what is the volume of pyramid ABCV, given that the volume of the part VA'B'C' removed by the cutting beam is 71 m³?
 
+
 **Topic:** [[topic_geometria_solida|Solid geometry]]
-**Abilita:** [[skill_astrazione|Abstraction / generalisation]]
+**Metodo:** [[method_coordinate|Coordinate method]]
+**Abilita:** [[skill_astrazione|Abstraction / generalisation]], [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
 **Area:** [[Geometria|Geometry]]
 
-[[Quesiti/src_squadre_2025_femminile#q16|src_squadre_2025_femminile__Q16]]
 
 
-
-<span class="atom-split" id="q17" data-atom="q17" data-title="Quesito 17" data-tags="topic_geometria_piana,method_coordinate,skill_ragionamento_geometrico"></span>
+<span class="atom-split" id="q17" data-atom="q17" data-title="Quesito 17" data-tags="topic_geometria_piana,method_coordinate,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -749,7 +771,7 @@ level: squadre
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_coordinate|Metodo delle coordinate]]
-**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 **Risposta:** 120
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1Azjufv9S23pC-fbiG_I21ZB1y25hJLl9/view)
@@ -762,16 +784,15 @@ level: squadre
 
 > AN AWESOME PHONE (Santina de Monte) Candace breaks her mobile phone yet again, and Phineas builds her a new one with a special shape. He takes triangle ABC with acute angles at B and C, where AB = 10.6 cm and AC = 20.6 cm. He draws semicircle γ with diameter AB, which meets side BC at D, and measures BD = 7 cm. Then he draws semicircle γ′ with diameter AC, which intersects γ. He takes the common tangent to the two semicircles, which touches them at points P and Q, and places the antenna exactly on PQ. The phone that has been built also has a teleportation function… which will surely lead Candace to get into some trouble. How long is Candace's phone's antenna in mm?
 
+
 **Topic:** [[topic_geometria_piana|Plane geometry]]
 **Metodo:** [[method_coordinate|Coordinate method]]
-**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
 **Area:** [[Geometria|Geometry]]
 
-[[Quesiti/src_squadre_2025_femminile#q17|src_squadre_2025_femminile__Q17]]
 
 
-
-<span class="atom-split" id="q18" data-atom="q18" data-title="Quesito 18" data-tags="topic_probabilita,method_ricorsione"></span>
+<span class="atom-split" id="q18" data-atom="q18" data-title="Quesito 18" data-tags="topic_probabilita,method_ricorsione,method_casework,skill_modellizzazione,skill_manipolazione_algebrica,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -790,7 +811,8 @@ level: squadre
 > la somma tra numeratore e denominatore della frazione ridotta ai minimi termini.)
 
 **Topic:** [[topic_probabilita|Probabilita e statistica]]
-**Metodo:** [[method_ricorsione|Ricorsione]]
+**Metodo:** [[method_ricorsione|Ricorsione]], [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 1996
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1Azjufv9S23pC-fbiG_I21ZB1y25hJLl9/view)
@@ -803,15 +825,15 @@ level: squadre
 
 > FINALLY (Simona Pieri) Candace finally manages to get Phineas and Ferb punished by showing her mother the machine that the boys have turned into the "Flying Machine of the Future." The two brothers are sent to the school/reform school "Smile Gone," where they are brainwashed. They are then forced to play a game in which they take turns rolling a die, according to the following rules: the player who first gets a 6 wins the round. The round continues until one player wins. The loser of the round goes first in the next turn. Phineas goes first. At the end of the third round, Candace and Jeremy burst into the school to rescue Phineas and Ferb. Perry wakes up and realizes he dreamed it all. What is the probability that Phineas was the first to roll the die at the start of the fourth round? (Give as the result the sum of the numerator and denominator of the fraction reduced to lowest terms.)
 
+
 **Topic:** [[topic_probabilita|Probability and statistics]]
-**Metodo:** [[method_ricorsione|Recursion]]
+**Metodo:** [[method_ricorsione|Recursion]], [[method_casework|Case analysis]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]], [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_casework_accurato|Careful case analysis]]
 **Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
-[[Quesiti/src_squadre_2025_femminile#q18|src_squadre_2025_femminile__Q18]]
 
 
-
-<span class="atom-split" id="q19" data-atom="q19" data-title="Quesito 19" data-tags="topic_combinatoria,method_conteggio"></span>
+<span class="atom-split" id="q19" data-atom="q19" data-title="Quesito 19" data-tags="topic_combinatoria,method_conteggio,method_casi_conteggio,skill_conteggio_sistematico,skill_modellizzazione"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -829,7 +851,8 @@ level: squadre
 > l’estate a Danville. In quanti modi diversi la macchina del gelato poteva distribuire fino a 20  palline?
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
-**Metodo:** [[method_conteggio|Conteggio combinatorio]]
+**Metodo:** [[method_conteggio|Conteggio combinatorio]], [[method_casi_conteggio|Conteggio per casi]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 241
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1Azjufv9S23pC-fbiG_I21ZB1y25hJLl9/view)
@@ -842,15 +865,15 @@ level: squadre
 
 > WINTER OR INSTANT? (Sandro Campigotto) Phineas and Ferb decide to modify Dad's ice cream machine to create a winter paradise where they can cool off from the scorching summer. After snowing the entire yard, they modify the machine to dispense scoops of ice cream to all their friends. Ferb programs the machine to dispense up to 20 scoops of ice cream at a time, so that the first person gets fewer scoops than the second (possibly 0), who in turn gets fewer than the third, while the fourth gets more scoops than everyone else. Meanwhile, Doofenshmirtz has built a laser beam to melt all the chocolate in the world. Candace calls Mom, but a moment before Mom arrives, the laser beam melts the snow and the ice creams and brings summer back to Danville. In how many different ways could the ice cream machine have dispensed up to 20 scoops?
 
+
 **Topic:** [[topic_combinatoria|Combinatorics]]
-**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Metodo:** [[method_conteggio|Combinatorial counting]], [[method_casi_conteggio|Counting by cases]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]], [[skill_modellizzazione|Modelling / translating the text]]
 **Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
-[[Quesiti/src_squadre_2025_femminile#q19|src_squadre_2025_femminile__Q19]]
 
 
-
-<span class="atom-split" id="q20" data-atom="q20" data-title="Quesito 20" data-tags="topic_combinatoria,method_conteggio,method_ricorsione"></span>
+<span class="atom-split" id="q20" data-atom="q20" data-title="Quesito 20" data-tags="topic_combinatoria,method_conteggio,method_ricorsione,skill_riconoscimento_pattern,skill_astrazione"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -869,6 +892,7 @@ level: squadre
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_conteggio|Conteggio combinatorio]], [[method_ricorsione|Ricorsione]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_astrazione|Astrazione / generalizzazione]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 4862
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1Azjufv9S23pC-fbiG_I21ZB1y25hJLl9/view)
@@ -881,15 +905,15 @@ level: squadre
 
 > TOP MODEL FOR A MINUTE (Claudia Manotti) Candace is determined at all costs to become a supermodel, but she doesn't know that in the meantime her siblings are creating a clothing line called "It's Always Summer". The kids design beach sarongs starting from a piece of fabric shaped like an isosceles right triangle. They then draw some altitudes using the following strategy: first, they draw the altitude relative to the base of the large triangle; then they draw one of the altitudes (again relative to the base) of any one of the isosceles right triangles in the figure, and they continue in this way until they have divided the initial triangle into exactly 10 isosceles right triangles. The idea is immediately copied by a famous fashion designer and becomes a success. How many different garments made in this way can be created?
 
+
 **Topic:** [[topic_combinatoria|Combinatorics]]
 **Metodo:** [[method_conteggio|Combinatorial counting]], [[method_ricorsione|Recursion]]
+**Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]], [[skill_astrazione|Abstraction / generalisation]]
 **Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
-[[Quesiti/src_squadre_2025_femminile#q20|src_squadre_2025_femminile__Q20]]
 
 
-
-<span class="atom-split" id="q21" data-atom="q21" data-title="Quesito 21" data-tags="topic_geometria_analitica,method_coordinate"></span>
+<span class="atom-split" id="q21" data-atom="q21" data-title="Quesito 21" data-tags="topic_geometria_analitica,method_coordinate,method_simmetria,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -931,7 +955,8 @@ level: squadre
 > Candace? (Dare come risposta il prodotto di ascisse e ordinate di tutti i punti possibili.)
 
 **Topic:** [[topic_geometria_analitica|Geometria analitica]]
-**Metodo:** [[method_coordinate|Metodo delle coordinate]]
+**Metodo:** [[method_coordinate|Metodo delle coordinate]], [[method_simmetria|Sfruttamento della simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 **Risposta:** 216
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1Azjufv9S23pC-fbiG_I21ZB1y25hJLl9/view)
@@ -944,8 +969,8 @@ level: squadre
 
 > POP STAR FOR A DAY (Claudia Manotti) Phineas, Ferb, and Candace discover that auditions to become pop stars will be held at the mall. While the boys compose a song, Candace waits in line for the audition. When the show begins, the three siblings sing “Gitchi-Gitchi-Goo”. Imagining the stage as a Cartesian coordinate plane, the choreography calls for Candace to start at point C(0,12), Phineas at P(5,0), and Ferb at F(0,0). With each verse of the song, only one of the three moves across the stage (or, if they wish, stays still), following as their path the ellipse whose foci are the other two siblings. At the end of the song, Ferb is at point (1,9), Phineas is at (11,9), and Candace must position herself at any of the points that maximize the area of the triangle formed by the three kids. Seeing the trio’s performance, the record executive decides to make money by selling the video the kids have just recorded. But a strange green beam, produced by a machine belonging to Dr. Doofenshmirtz and just destroyed by Agent P., erases all trace of the video. What coordinates might Candace be at? (Give as the answer the product of the abscissas and ordinates of all possible points.)
 
-**Topic:** [[topic_geometria_analitica|Coordinate geometry]]
-**Metodo:** [[method_coordinate|Coordinate method]]
-**Area:** [[Geometria|Geometry]]
 
-[[Quesiti/src_squadre_2025_femminile#q21|src_squadre_2025_femminile__Q21]]
+**Topic:** [[topic_geometria_analitica|Coordinate geometry]]
+**Metodo:** [[method_coordinate|Coordinate method]], [[method_simmetria|Using symmetry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Geometria|Geometry]]

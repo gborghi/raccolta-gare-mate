@@ -10,7 +10,7 @@ level: Concours Général
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_algebra,topic_geometria_analitica,topic_probabilita,method_coordinate,method_casework,method_conteggio,skill_manipolazione_algebrica,skill_ragionamento_geometrico,skill_astrazione"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_algebra,topic_geometria_analitica,topic_probabilita,method_coordinate,method_casework,method_conteggio,method_ricorsione,method_induzione,skill_manipolazione_algebrica,skill_ragionamento_geometrico,skill_astrazione"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -58,12 +58,12 @@ level: Concours Général
 > 
 > 4. What could be the geometric nature of this Bezier curve of degree $2$? Justify your answer.
 
-![[src_cgen_2018__q01.png]]
+![[src_cgen_2018__Q01.png]]
 
 **Topic:** [[topic_algebra|Algebra]], [[topic_geometria_analitica|Geometria analitica]], [[topic_probabilita|Probabilità]]
-**Metodo:** [[method_coordinate|Coordinate]], [[method_casework|Casework]], [[method_conteggio|Conteggio]]
+**Metodo:** [[method_coordinate|Coordinate]], [[method_casework|Casework]], [[method_conteggio|Conteggio]], [[method_ricorsione|Recursion]], [[method_induzione|Induction]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_astrazione|Astrazione]]
-**Area:** [[Algebra e Analisi]], [[Geometria]], [[Combinatoria, Logica e Probabilita]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Geometria|Geometry]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1ndY2rTBhYsNW1k5eeouIHRqR2THD_a96/view)
 
 
@@ -96,16 +96,16 @@ level: Concours Général
 > 
 > 4. Qual potrebbe essere la natura geometrica di questa curva di Bezier di grado $2$? Giustifica la tua risposta.
 
-![[src_cgen_2018__q01.png]]
+![[src_cgen_2018__Q01.png]]
 
-[[Quesiti/src_cgen_2018#q01|src_cgen_2018__Q01]]
+**Topic:** [[topic_algebra|Algebra]], [[topic_geometria_analitica|Geometria analitica]], [[topic_probabilita|Probabilita e statistica]]
+**Metodo:** [[method_coordinate|Metodo delle coordinate]], [[method_casework|Analisi per casi]], [[method_conteggio|Conteggio combinatorio]], [[method_ricorsione|Ricorsione]], [[method_induzione|Induzione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_astrazione|Astrazione / generalizzazione]]
+**Area:** [[Algebra e Analisi]], [[Geometria]], [[Combinatoria, Logica e Probabilita]]
 
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_combinatoria,topic_funzionali,topic_algebra,method_induzione,method_grafi,method_estremalita,method_casework,skill_astrazione,skill_modellizzazione,skill_manipolazione_algebrica"></span>
-
-<div class="qlang-switch" data-default="en"></div>
-
 
 *Discrete Dirichlet problem on a connected graph: assign reals to blue points so each equals the average of its neighbors, with given values at yellow points; existence (monotone iteration) and uniqueness of the solution.*
 
@@ -161,7 +161,7 @@ level: Concours Général
 >    c. Deduce that $f=g$.
 > 6. What can be said about $f$ if there is only one yellow point?
 
-![[src_cgen_2018__q02.png]]
+![[src_cgen_2018__Q02.png]]
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_funzionali|Equazioni funzionali]], [[topic_algebra|Algebra]]
 **Metodo:** [[method_induzione|Induzione]], [[method_grafi|Grafi]], [[method_estremalita|Estremalità]], [[method_casework|Casework]]
@@ -170,8 +170,20 @@ level: Concours Général
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1ndY2rTBhYsNW1k5eeouIHRqR2THD_a96/view)
 
 
-<div class="qlang-split" data-lang="it"></div>
 
+<span class="atom-split" id="q02__it" data-atom="q02__it" data-title="Q02__IT" data-tags=""></span>
+
+---
+tipo: quesito-translation
+translation_of: src_cgen_2018__Q02
+lang: it
+secondary: true
+title: "Concours Général des Lycées 2018  Matematica  Quesito 2"
+summary: "Discreto problema Dirichlet su un grafico collegato: assegnare reali ai punti blu in modo che ciascuno sia uguale alla media dei suoi vicini, con dati valori ai punti gialli; esistenza (iterazione monotone) e unicità della soluzione."
+topics: [topic_combinatoria, topic_funzionali, topic_algebra]
+methods: [method_induzione, method_grafi, method_estremalita, method_casework]
+skills: [skill_astrazione, skill_modellizzazione, skill_manipolazione_algebrica]
+tags: [kg/translation, topic/combinatoria, topic/funzionali, topic/algebra]---
 
 *Discrete Dirichlet problema su un grafico connesso: assegnare reali a punti blu in modo che ciascuno è uguale alla media dei suoi vicini, con dati valori a punti gialli; esistenza (iteration monotone) e unicità della soluzione.*
 
@@ -197,13 +209,17 @@ level: Concours Général
 > 
 > Parte 2.4 - Unicità della soluzione. Supponiamo che in questa sottoparte abbiamo una soluzione $f$ per questa attribuzione $k$. 4. Prove che per ogni punto $M\in\mathscr{S}$, uno ha $f(M)\le K$. 5. Supponiamo che $g$ sia anche una soluzione per l'attribuzione $k$. a. giustificare che la funzione $f-g$ soddisfi la condizione (2). b. Che cos'è $f-g$ su $\mathscr{J}$? c. Riduzione di $f=g$. 6. Cosa si può dire di $f$ se c'è solo un punto giallo?
 
-![[src_cgen_2018__q02.png]]
+![[src_cgen_2018__Q02.png]]
 
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_funzionali|Equazioni funzionali / successioni]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_induzione|Induzione]], [[method_grafi|Teoria dei grafi]], [[method_estremalita|Principio di estremalita]], [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_astrazione|Astrazione / generalizzazione]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Algebra e Analisi]]
 [[Quesiti/src_cgen_2018#q02|src_cgen_2018__Q02]]
 
 
 
-<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_aritmetica,topic_algebra,topic_insiemi_funzioni,method_induzione,method_ricorsione,method_casework,skill_manipolazione_algebrica,skill_riconoscimento_pattern,skill_astrazione"></span>
+<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_aritmetica,topic_algebra,topic_insiemi_funzioni,method_induzione,method_ricorsione,method_casework,method_fattorizzazione,skill_manipolazione_algebrica,skill_riconoscimento_pattern,skill_astrazione"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -244,12 +260,12 @@ level: Concours Général
 > 4. Show that a golden real necessarily has a pure golden representation.
 > 5. Show that there exist strictly positive reals that are not golden.
 
-![[src_cgen_2018__q03.png]]
+![[src_cgen_2018__Q03.png]]
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]], [[topic_insiemi_funzioni|Insiemi e funzioni]]
-**Metodo:** [[method_induzione|Induzione]], [[method_ricorsione|Ricorsione]], [[method_casework|Casework]]
+**Metodo:** [[method_induzione|Induzione]], [[method_ricorsione|Ricorsione]], [[method_casework|Casework]], [[method_fattorizzazione|Factorisation / algebraic manipulation]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_astrazione|Astrazione]]
-**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Algebra e Analisi|Algebra and analysis]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1ndY2rTBhYsNW1k5eeouIHRqR2THD_a96/view)
 
 
@@ -266,6 +282,9 @@ level: Concours Général
 > 
 > Parte 3.2 - Rappresentazione dorata e pura. Diciamo che una rappresentazione $x\triangleright a_p a_{p-1}\cdots a_0,a_{-1}\cdots a_{-q}$ di un numero $x$ è di puro oro ('en o pur') se per tutti $i$, $$a_i\,a_{i+1}=0$$ In altre parole, una rappresentazione di $x$ è di puro oro se e solo se non contiene mai due $1$ consecutivi. Se $x$ è un reale non-zero, se $x\triangleright a_p a_{p-1}\cdots a_0,a_{-1}\cdots a_{-q}$, si definisce il contenuto dorato ("teneur en or") della rappresentazione come uguale all' esponente della potenza più grande di $\varphi$ il cui coefficiente è uguale a $1$, nell'uguaglianza $x=a_p\varphi^p+\ldots+a_{-q}\varphi^{-q}$. Ad esempio, il contenuto dorato della rappresentazione $1101,1001$ è uguale a $3$ e quello di $0,0010$ è uguale a $-3$. 1. Indicare una rappresentazione in oro puro degli integri $2$, $3$, $4$ e $5$. 2. Il $x$ deve essere un reale che abbia una rappresentazione di oro puro del contenuto dorato pari a $n$. a. Mostra che $\varphi^n\le x<\varphi^{n+1}$. b. Mostrate che la pura rappresentazione d'oro di un reale, se esiste, è unica. 3. Lasciate che $x$ sia un reale non-zero con una rappresentazione di oro puro. a. Esprimere il contenuto dorato della rappresentazione dorata pura di $x$ con l'aiuto del logaritmo naturale e delle funzioni di parte integrale. b. Scrivi un algoritmo che permetta di determinare questa rappresentazione. c. Applicare l'algoritmo per $x=2018$. 4. Mostrate che una reale d'oro ha necessariamente una rappresentazione d'oro puro. 5. Mostrate che esistono realtà strettamente positive che non sono d'oro.
 
-![[src_cgen_2018__q03.png]]
+![[src_cgen_2018__Q03.png]]
 
-[[Quesiti/src_cgen_2018#q03|src_cgen_2018__Q03]]
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]], [[topic_insiemi_funzioni|Insiemi e funzioni]]
+**Metodo:** [[method_induzione|Induzione]], [[method_ricorsione|Ricorsione]], [[method_casework|Analisi per casi]], [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_astrazione|Astrazione / generalizzazione]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]

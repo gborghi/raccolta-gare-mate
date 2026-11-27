@@ -10,14 +10,14 @@ level: kangourou
 
 
 
-<span class="atom-split" id="qb1" data-atom="qb1" data-title="Quesito B1" data-tags="topic_logica,topic_combinatoria,method_estremalita,skill_astrazione"></span>
+<span class="atom-split" id="qb1" data-atom="qb1" data-title="Quesito B1" data-tags="topic_logica,topic_combinatoria,method_estremalita,skill_astrazione,skill_modellizzazione,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
 
 *Minimo numero di chiavi e disposizione fra quattro amici*
 
-![[src_kangourou_2024_benjamin_finale__probb1.png]]
+![[src_kangourou_2024_benjamin_finale__probB1.png]]
 
 ```tikz
 \begin{document}
@@ -47,7 +47,7 @@ level: kangourou
 
 **Topic:** [[topic_logica|Logica, giochi, strategie]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_estremalita|Principio di estremalita]]
-**Abilita:** [[skill_astrazione|Astrazione / generalizzazione]]
+**Abilita:** [[skill_astrazione|Astrazione / generalizzazione]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1yfwrv2r59EZD9BNqD2rssm5Ubv6rpykv/view)
 
@@ -57,7 +57,7 @@ level: kangourou
 
 *Minimum number of keys and arrangement among four friends*
 
-![[src_kangourou_2024_benjamin_finale__probb1.png]]
+![[src_kangourou_2024_benjamin_finale__probB1.png]]
 
 ```tikz
 \begin{document}
@@ -85,16 +85,15 @@ level: kangourou
 
 > Four friends live alone, each in a house different from the others'. The four are never all away from home at the same time, and they want that, if something happens in one of their houses while its occupant is away, at least one of the other three, who is at home in their own house, can step in by entering with a key. They therefore decide to leave a key with at least one friend, who will keep it at their own home in a place known to all four. What is the minimum number of keys to their own house that each must leave with their friends, considered as a group? And how should the keys that are left be arranged?
 
+
 **Topic:** [[topic_logica|Logic, games and strategies]], [[topic_combinatoria|Combinatorics]]
 **Metodo:** [[method_estremalita|Extremal principle]]
-**Abilita:** [[skill_astrazione|Abstraction / generalisation]]
+**Abilita:** [[skill_astrazione|Abstraction / generalisation]], [[skill_modellizzazione|Modelling / translating the text]], [[skill_casework_accurato|Careful case analysis]]
 **Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
-[[Quesiti/src_kangourou_2024_benjamin_finale#qb1|src_kangourou_2024_benjamin_finale__QB1]]
 
 
-
-<span class="atom-split" id="qb2" data-atom="qb2" data-title="Quesito B2" data-tags="topic_logica,skill_lettura_attenta"></span>
+<span class="atom-split" id="qb2" data-atom="qb2" data-title="Quesito B2" data-tags="topic_logica,method_casework,skill_lettura_attenta,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -104,7 +103,8 @@ level: kangourou
 > Nella strana lingua di Kanglandia, le parole "sì" e "no" si traducono in "KAB" e "BAK", ma non necessariamente in quest'ordine. Incontri una persona, della quale ti puoi fidare, che conosce sia l'italiano sia la lingua di Kanglandia e le chiedi: «È vero che KAB significa "sì"?». La persona risponde: "KAB". Puoi dedurre se "KAB" significa "sì" oppure "no"?
 
 **Topic:** [[topic_logica|Logica, giochi, strategie]]
-**Abilita:** [[skill_lettura_attenta|Lettura attenta del testo]]
+**Metodo:** [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_lettura_attenta|Lettura attenta del testo]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1yfwrv2r59EZD9BNqD2rssm5Ubv6rpykv/view)
 
@@ -116,15 +116,15 @@ level: kangourou
 
 > In the strange language of Kanglandia, the words "yes" and "no" translate to "KAB" and "BAK", but not necessarily in that order. You meet a person you can trust who knows both Italian and the language of Kanglandia, and you ask them: "Is it true that KAB means 'yes'?" The person replies: "KAB". Can you deduce whether "KAB" means "yes" or "no"?
 
+
 **Topic:** [[topic_logica|Logic, games and strategies]]
-**Abilita:** [[skill_lettura_attenta|Careful reading]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_lettura_attenta|Careful reading]], [[skill_casework_accurato|Careful case analysis]]
 **Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
-[[Quesiti/src_kangourou_2024_benjamin_finale#qb2|src_kangourou_2024_benjamin_finale__QB2]]
 
 
-
-<span class="atom-split" id="qb3" data-atom="qb3" data-title="Quesito B3" data-tags="topic_combinatoria,method_conteggio,skill_conteggio_sistematico"></span>
+<span class="atom-split" id="qb3" data-atom="qb3" data-title="Quesito B3" data-tags="topic_combinatoria,method_conteggio,method_casi_conteggio,skill_conteggio_sistematico,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -134,8 +134,8 @@ level: kangourou
 > Otto oggetti sono allineati. Vanno dipinti quattro in rosso, tre in blu e uno in giallo, ma in modo che oggetti adiacenti ricevano colori diversi. Quante diverse colorazioni sono ammissibili?
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
-**Metodo:** [[method_conteggio|Conteggio combinatorio]]
-**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Metodo:** [[method_conteggio|Conteggio combinatorio]], [[method_casi_conteggio|Conteggio per casi]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1yfwrv2r59EZD9BNqD2rssm5Ubv6rpykv/view)
 
@@ -147,12 +147,11 @@ level: kangourou
 
 > Eight objects are arranged in a line. Four of them are to be painted red, three blue, and one yellow, but in such a way that adjacent objects receive different colors. How many different colorings are admissible?
 
-**Topic:** [[topic_combinatoria|Combinatorics]]
-**Metodo:** [[method_conteggio|Combinatorial counting]]
-**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
-**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
-[[Quesiti/src_kangourou_2024_benjamin_finale#qb3|src_kangourou_2024_benjamin_finale__QB3]]
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_conteggio|Combinatorial counting]], [[method_casi_conteggio|Counting by cases]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]], [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
 
 
@@ -184,11 +183,9 @@ level: kangourou
 **Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
-[[Quesiti/src_kangourou_2024_benjamin_finale#qb4|src_kangourou_2024_benjamin_finale__QB4]]
 
 
-
-<span class="atom-split" id="qb5" data-atom="qb5" data-title="Quesito B5" data-tags="topic_geometria_piana,skill_ragionamento_geometrico"></span>
+<span class="atom-split" id="qb5" data-atom="qb5" data-title="Quesito B5" data-tags="topic_geometria_piana,method_estremalita,skill_ragionamento_geometrico"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -198,6 +195,7 @@ level: kangourou
 > Tre abitazioni sono ai vertici di un triangolo isoscele i cui lati misurano $80$, $80$ e $120$ metri. Utilizzando un'unica antenna, si vuole rendere possibile la ricezione di internet nelle tre abitazioni. Qual è, in metri, la minima distanza che può avere l'antenna dall'abitazione che le risulterà più lontana?
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_estremalita|Principio di estremalita]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1yfwrv2r59EZD9BNqD2rssm5Ubv6rpykv/view)
@@ -210,15 +208,15 @@ level: kangourou
 
 > Three houses are located at the vertices of an isosceles triangle whose sides measure $80$, $80$, and $120$ metres. Using a single antenna, the aim is to make it possible to receive internet in all three houses. In metres, what is the minimum distance the antenna can be from the house that will turn out to be the farthest away?
 
+
 **Topic:** [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_estremalita|Extremal principle]]
 **Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
 **Area:** [[Geometria|Geometry]]
 
-[[Quesiti/src_kangourou_2024_benjamin_finale#qb5|src_kangourou_2024_benjamin_finale__QB5]]
 
 
-
-<span class="atom-split" id="qb6" data-atom="qb6" data-title="Quesito B6" data-tags="topic_aritmetica,method_fattorizzazione,skill_manipolazione_algebrica"></span>
+<span class="atom-split" id="qb6" data-atom="qb6" data-title="Quesito B6" data-tags="topic_aritmetica,topic_algebra,method_fattorizzazione,skill_manipolazione_algebrica,skill_modellizzazione"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -227,10 +225,10 @@ level: kangourou
 
 > Marco prova ad eseguire le seguenti operazioni: sceglie un numero di tre cifre tutte diverse fra loro, scrive il numero che ottiene invertendo l'ordine delle cifre e calcola la differenza fra il maggiore e il minore dei due numeri. Se questa differenza ha solo due cifre, premette a questa differenza la cifra $0$, altrimenti la lascia inalterata. Infine, somma al numero così ottenuto il numero che ricava invertendo l'ordine delle sue cifre. Quale risultato ottiene? La nostra domanda lascia intendere che il risultato non dipende dal numero che Marco ha scelto inizialmente: spiega il motivo.
 
-**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
 **Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
-**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
-**Area:** [[Aritmetica e Teoria dei Numeri]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1yfwrv2r59EZD9BNqD2rssm5Ubv6rpykv/view)
 
 
@@ -241,9 +239,8 @@ level: kangourou
 
 > Marco tries to carry out the following operations: he chooses a three-digit number whose digits are all different, writes the number obtained by reversing the order of the digits, and calculates the difference between the larger and the smaller of the two numbers. If this difference has only two digits, he prefixes the digit $0$ to this difference; otherwise, he leaves it unchanged. Finally, he adds to the number thus obtained the number he gets by reversing the order of its digits. What result does he obtain? Our question implies that the result does not depend on the number Marco chose initially: explain why.
 
-**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
-**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
-**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
-**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
-[[Quesiti/src_kangourou_2024_benjamin_finale#qb6|src_kangourou_2024_benjamin_finale__QB6]]
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Algebra e Analisi|Algebra and analysis]]

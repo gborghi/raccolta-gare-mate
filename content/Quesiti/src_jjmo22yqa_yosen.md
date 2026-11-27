@@ -10,7 +10,7 @@ level: JJMO Yosen
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_aritmetica,method_casework,skill_conteggio_sistematico,skill_lettura_attenta"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_aritmetica,method_casework,method_congruenze,skill_conteggio_sistematico,skill_lettura_attenta,skill_riconoscimento_pattern"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -20,9 +20,9 @@ level: JJMO Yosen
 > A positive integer is called a **number of this year** if its digit sum equals $8$ and adding $1$ to it yields a perfect square. For example, $2024$ is such a number. Find the smallest 5-digit number of this year.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_casework|Casework]]
-**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]]
-**Area:** [[Aritmetica e Teoria dei Numeri]]
+**Metodo:** [[method_casework|Casework]], [[method_congruenze|Modular arithmetic / congruences]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Risposta:** 10403
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1MpOoffmNfAlSJnrNvYxGLF27kPgwbEmW/view)
 
@@ -34,12 +34,11 @@ level: JJMO Yosen
 
 > Un numero intero positivo è detto **numero di quest'anno** se la somma delle sue cifre è uguale a $8$ e se, sommando $1$ a tale numero, si ottiene un quadrato perfetto. Ad esempio, $2024$ è un numero di questo tipo. Trovare il più piccolo numero di 5 cifre di quest'anno.
 
-**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_casework|Casework]]
-**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]]
-**Area:** [[Aritmetica e Teoria dei Numeri]]
 
-[[Quesiti/src_jjmo22yqa_yosen#q01|src_jjmo22yqa_yosen__Q01]]
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Casework]], [[method_congruenze|Aritmetica modulare / congruenze]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
 
 
 
@@ -52,7 +51,7 @@ level: JJMO Yosen
 
 > As shown in the figure below, there are two circles $\Gamma_1$ and $\Gamma_2$ with center $O$. Let $A$ and $B$ be two distinct points on $\Gamma_1$. The segment $AB$ meets $\Gamma_2$ at two distinct points; let $C$ be the one closer to $B$. There is also a point $D$ on $\Gamma_2$ such that the line $AD$ is tangent to $\Gamma_2$. Given that $AC = 9$ and $AD = 6$, find the length $BC$. (Here $XY$ denotes the length of segment $XY$.)
 
-![[src_jjmo22yqa_yosen__q02.png]]
+![[src_jjmo22yqa_yosen__Q02.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_coordinate|Coordinate]]
@@ -69,14 +68,12 @@ level: JJMO Yosen
 
 > Come mostrato nella figura sottostante, ci sono due cerchi $\Gamma_1$ e $\Gamma_2$ con centro $O$. Siano $A$ e $B$ due punti distinti su $\Gamma_1$. Il segmento $AB$ incontra $\Gamma_2$ in due punti distinti; sia $C$ quello più vicino a $B$. C'è anche un punto $D$ su $\Gamma_2$ tale che la retta $AD$ è tangente a $\Gamma_2$. Dati $AC = 9$ e $AD = 6$, determina la lunghezza $BC$. (Qui $XY$ denota la lunghezza del segmento $XY$.)
 
-![[src_jjmo22yqa_yosen__q02.png]]
+![[src_jjmo22yqa_yosen__Q02.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_coordinate|Coordinate]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
-
-[[Quesiti/src_jjmo22yqa_yosen#q02|src_jjmo22yqa_yosen__Q02]]
 
 
 
@@ -108,8 +105,6 @@ level: JJMO Yosen
 **Metodo:** [[method_conteggio|Conteggio]], [[method_simmetria|Simmetria]]
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
-
-[[Quesiti/src_jjmo22yqa_yosen#q03|src_jjmo22yqa_yosen__Q03]]
 
 
 
@@ -146,8 +141,6 @@ level: JJMO Yosen
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 
-[[Quesiti/src_jjmo22yqa_yosen#q04|src_jjmo22yqa_yosen__Q04]]
-
 
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_geometria_piana,method_coordinate,method_simmetria,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
@@ -178,8 +171,6 @@ level: JJMO Yosen
 **Metodo:** [[method_coordinate|Coordinate]], [[method_simmetria|Simmetria]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
-
-[[Quesiti/src_jjmo22yqa_yosen#q05|src_jjmo22yqa_yosen__Q05]]
 
 
 
@@ -215,8 +206,6 @@ level: JJMO Yosen
 **Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_conteggio|Conteggio]], [[method_congruenze|Congruenze]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
-
-[[Quesiti/src_jjmo22yqa_yosen#q06|src_jjmo22yqa_yosen__Q06]]
 
 
 
@@ -257,11 +246,9 @@ level: JJMO Yosen
 **Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 
-[[Quesiti/src_jjmo22yqa_yosen#q07|src_jjmo22yqa_yosen__Q07]]
 
 
-
-<span class="atom-split" id="q08" data-atom="q08" data-title="Quesito 8" data-tags="topic_combinatoria,method_casework,method_conteggio,method_invarianti,skill_conteggio_sistematico,skill_ragionamento_geometrico,skill_riconoscimento_pattern"></span>
+<span class="atom-split" id="q08" data-atom="q08" data-title="Quesito 8" data-tags="topic_combinatoria,method_casework,method_conteggio,method_invarianti,skill_conteggio_sistematico,skill_ragionamento_geometrico,skill_riconoscimento_pattern,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -277,8 +264,8 @@ level: JJMO Yosen
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]], [[method_invarianti|Invarianti]]
-**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
-**Area:** [[Combinatoria, Logica e Probabilita]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Risposta:** $3 \cdot 2^{1013} - 6$
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1MpOoffmNfAlSJnrNvYxGLF27kPgwbEmW/view)
 
@@ -295,16 +282,15 @@ level: JJMO Yosen
 >
 > (Le disposizioni che coincidono dopo una rotazione o una riflessione sono considerate distinte.)
 
+
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]], [[method_invarianti|Invarianti]]
-**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 
-[[Quesiti/src_jjmo22yqa_yosen#q08|src_jjmo22yqa_yosen__Q08]]
 
 
-
-<span class="atom-split" id="q09" data-atom="q09" data-title="Quesito 9" data-tags="topic_combinatoria,method_casework,method_grafi,method_conteggio,skill_conteggio_sistematico,skill_modellizzazione,skill_casework_accurato"></span>
+<span class="atom-split" id="q09" data-atom="q09" data-title="Quesito 9" data-tags="topic_combinatoria,method_casework,method_grafi,method_conteggio,method_colorazione,skill_conteggio_sistematico,skill_modellizzazione,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -322,12 +308,12 @@ level: JJMO Yosen
 > 
 > (Here cells $0$ and $2025$ represent cells $2024$ and $1$, respectively.)
 
-![[src_jjmo22yqa_yosen__q09.png]]
+![[src_jjmo22yqa_yosen__Q09.png]]
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
-**Metodo:** [[method_casework|Casework]], [[method_grafi|Grafi]], [[method_conteggio|Conteggio]]
+**Metodo:** [[method_casework|Casework]], [[method_grafi|Grafi]], [[method_conteggio|Conteggio]], [[method_colorazione|Colouring / parity]]
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione]], [[skill_casework_accurato|Casework accurato]]
-**Area:** [[Combinatoria, Logica e Probabilita]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Risposta:** 2026
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1MpOoffmNfAlSJnrNvYxGLF27kPgwbEmW/view)
 
@@ -348,14 +334,13 @@ level: JJMO Yosen
 >
 > (Qui le celle $0$ e $2025$ rappresentano rispettivamente le celle $2024$ e $1$.)
 
-![[src_jjmo22yqa_yosen__q09.png]]
+![[src_jjmo22yqa_yosen__Q09.png]]
+
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
-**Metodo:** [[method_casework|Casework]], [[method_grafi|Grafi]], [[method_conteggio|Conteggio]]
+**Metodo:** [[method_casework|Casework]], [[method_grafi|Grafi]], [[method_conteggio|Conteggio]], [[method_colorazione|Colorazione / parita]]
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
-
-[[Quesiti/src_jjmo22yqa_yosen#q09|src_jjmo22yqa_yosen__Q09]]
 
 
 
@@ -387,8 +372,6 @@ level: JJMO Yosen
 **Metodo:** [[method_coordinate|Coordinate]], [[method_trigonometria|Trigonometria]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
-
-[[Quesiti/src_jjmo22yqa_yosen#q10|src_jjmo22yqa_yosen__Q10]]
 
 
 
@@ -428,8 +411,6 @@ level: JJMO Yosen
 **Metodo:** [[method_doppio_conteggio|Doppio conteggio]], [[method_conteggio|Conteggio]], [[method_casework|Casework]]
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Algebra e Analisi]]
-
-[[Quesiti/src_jjmo22yqa_yosen#q11|src_jjmo22yqa_yosen__Q11]]
 
 
 
@@ -475,5 +456,3 @@ level: JJMO Yosen
 **Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_congruenze|Congruenze]], [[method_casework|Casework]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]], [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
-
-[[Quesiti/src_jjmo22yqa_yosen#q12|src_jjmo22yqa_yosen__Q12]]

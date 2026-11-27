@@ -23,7 +23,7 @@ level: OBM Nível 2
 > 
 > Compute the area of the triangle $X'Y'Z'$.
 
-![[src_obm_2002_n2_f3__q01.png]]
+![[src_obm_2002_n2_f3__Q01.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_coordinate|Coordinate]], [[method_simmetria|Simmetria]]
@@ -43,14 +43,12 @@ level: OBM Nível 2
 >
 > Calcola l'area del triangolo $X'Y'Z'$.
 
-![[src_obm_2002_n2_f3__q01.png]]
+![[src_obm_2002_n2_f3__Q01.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_coordinate|Coordinate]], [[method_simmetria|Simmetria]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
-
-[[Quesiti/src_obm_2002_n2_f3#q01|src_obm_2002_n2_f3__Q01]]
 
 
 
@@ -82,11 +80,9 @@ level: OBM Nível 2
 **Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 
-[[Quesiti/src_obm_2002_n2_f3#q02|src_obm_2002_n2_f3__Q02]]
 
 
-
-<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_combinatoria,topic_logica,method_casework,method_simmetria,skill_modellizzazione,skill_astrazione"></span>
+<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_combinatoria,topic_logica,method_casework,method_simmetria,skill_modellizzazione,skill_astrazione,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -99,8 +95,8 @@ level: OBM Nível 2
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_logica|Logica]]
 **Metodo:** [[method_casework|Casework]], [[method_simmetria|Simmetria]]
-**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_astrazione|Astrazione]]
-**Area:** [[Combinatoria, Logica e Probabilita]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_astrazione|Astrazione]], [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1nXOkuveTEgG-AREkbRruZntjlbpxTLWP/view)
 
 
@@ -113,16 +109,15 @@ level: OBM Nível 2
 >
 > Vince il giocatore che per primo riesce a completare una casella $1 \times 1$ con i stuzzicadenti. Supponendo che nessuno dei due giocatori commetta errori, quale dei due giocatori possiede la strategia vincente, cioè può vincere indipendentemente da come gioca l'avversario?
 
+
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_logica|Logica]]
 **Metodo:** [[method_casework|Casework]], [[method_simmetria|Simmetria]]
-**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_astrazione|Astrazione]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_astrazione|Astrazione]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 
-[[Quesiti/src_obm_2002_n2_f3#q03|src_obm_2002_n2_f3__Q03]]
 
 
-
-<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_algebra,topic_aritmetica,skill_manipolazione_algebrica,skill_modellizzazione"></span>
+<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_algebra,topic_aritmetica,method_fattorizzazione,skill_manipolazione_algebrica,skill_modellizzazione"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -132,8 +127,9 @@ level: OBM Nível 2
 > One mixture has the components $A$ and $B$ in the ratio $3 : 5$, a second mixture has the components $B$ and $C$ in the ratio $1 : 2$, and a third mixture has the components $A$ and $C$ in the ratio $2 : 3$. In what ratio must we combine the 1st, 2nd and 3rd mixtures so that the components $A$, $B$ and $C$ appear in the ratio $3 : 5 : 2$?
 
 **Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]]
-**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1nXOkuveTEgG-AREkbRruZntjlbpxTLWP/view)
 
 
@@ -144,11 +140,11 @@ level: OBM Nível 2
 
 > Una miscela ha i componenti $A$ e $B$ nel rapporto $3 : 5$, una seconda miscela ha i componenti $B$ e $C$ nel rapporto $1 : 2$, e una terza miscela ha i componenti $A$ e $C$ nel rapporto $2 : 3$. In quale rapporto dobbiamo combinare la 1ª, la 2ª e la 3ª miscela affinché i componenti $A$, $B$ e $C$ compaiano nel rapporto $3 : 5 : 2$?
 
+
 **Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]]
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
-
-[[Quesiti/src_obm_2002_n2_f3#q04|src_obm_2002_n2_f3__Q04]]
 
 
 
@@ -192,8 +188,6 @@ level: OBM Nível 2
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]]
 
-[[Quesiti/src_obm_2002_n2_f3#q05|src_obm_2002_n2_f3__Q05]]
-
 
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_aritmetica,method_induzione,method_fattorizzazione,skill_manipolazione_algebrica,skill_astrazione"></span>
@@ -227,5 +221,3 @@ level: OBM Nível 2
 **Metodo:** [[method_induzione|Induzione]], [[method_fattorizzazione|Fattorizzazione]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
-
-[[Quesiti/src_obm_2002_n2_f3#q06|src_obm_2002_n2_f3__Q06]]

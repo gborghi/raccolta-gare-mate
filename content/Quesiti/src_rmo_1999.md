@@ -36,8 +36,7 @@ level: RMO
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_aritmetica|Aritmetica e teoria dei numeri]]
 **Metodo:** [[method_fattorizzazione|Fattorizzazione]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
-
-[[Quesiti/src_rmo_1999#q01|src_rmo_1999__Q01]]
+**Area:** [[Geometria]], [[Aritmetica e Teoria dei Numeri]]
 
 
 
@@ -67,8 +66,7 @@ level: RMO
 **Topic:** [[topic_aritmetica|Aritmetica e teoria dei numeri]]
 **Metodo:** [[method_conteggio|Conteggio]], [[method_fattorizzazione|Fattorizzazione]]
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
-
-[[Quesiti/src_rmo_1999#q02|src_rmo_1999__Q02]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
 
 
 
@@ -98,8 +96,7 @@ level: RMO
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_trigonometria|Trigonometria]], [[method_simmetria|Simmetria]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
-
-[[Quesiti/src_rmo_1999#q03|src_rmo_1999__Q03]]
+**Area:** [[Geometria]]
 
 
 
@@ -129,12 +126,11 @@ level: RMO
 **Topic:** [[topic_algebra|Algebra]]
 **Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_simmetria|Simmetria]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
-
-[[Quesiti/src_rmo_1999#q04|src_rmo_1999__Q04]]
-
+**Area:** [[Algebra e Analisi]]
 
 
-<span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_disuguaglianze,method_disuguaglianze,method_simmetria,skill_manipolazione_algebrica,skill_stima"></span>
+
+<span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_disuguaglianze,topic_geometria_piana,method_disuguaglianze,method_simmetria,skill_manipolazione_algebrica,skill_stima"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -144,10 +140,10 @@ level: RMO
 > If $a, b, c$ are the sides of a triangle prove the following inequality:
 > $$\frac{a}{c+a-b} + \frac{b}{a+b-c} + \frac{c}{b+c-a} \ge 3.$$
 
-**Topic:** [[topic_disuguaglianze|Disuguaglianze]]
+**Topic:** [[topic_disuguaglianze|Disuguaglianze]], [[topic_geometria_piana|Plane geometry]]
 **Metodo:** [[method_disuguaglianze|Disuguaglianze]], [[method_simmetria|Simmetria]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]]
-**Area:** [[Algebra e Analisi]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Geometria|Geometry]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1aVueqGzgTBFm2YWPkdVpaNOhDYF_ZzH8/view)
 
 
@@ -160,11 +156,11 @@ level: RMO
 >
 > $$\frac{a}{c+a-b} + \frac{b}{a+b-c} + \frac{c}{b+c-a} \ge 3.$$
 
-**Topic:** [[topic_disuguaglianze|Disuguaglianze]]
+
+**Topic:** [[topic_disuguaglianze|Disuguaglianze]], [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_disuguaglianze|Disuguaglianze]], [[method_simmetria|Simmetria]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]]
-
-[[Quesiti/src_rmo_1999#q05|src_rmo_1999__Q05]]
+**Area:** [[Algebra e Analisi]], [[Geometria]]
 
 
 
@@ -197,8 +193,7 @@ level: RMO
 **Topic:** [[topic_aritmetica|Aritmetica e teoria dei numeri]], [[topic_algebra|Algebra]]
 **Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_congruenze|Congruenze]], [[method_casework|Analisi per casi]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]]
-
-[[Quesiti/src_rmo_1999#q06|src_rmo_1999__Q06]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 
 
 
@@ -235,5 +230,4 @@ level: RMO
 **Topic:** [[topic_algebra|Algebra]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_conteggio|Conteggio]], [[method_casework|Analisi per casi]]
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
-
-[[Quesiti/src_rmo_1999#q07|src_rmo_1999__Q07]]
+**Area:** [[Algebra e Analisi]], [[Combinatoria, Logica e Probabilita]]

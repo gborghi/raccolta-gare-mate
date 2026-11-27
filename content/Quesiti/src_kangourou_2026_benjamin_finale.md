@@ -10,7 +10,7 @@ level: kangourou
 
 
 
-<span class="atom-split" id="qb1" data-atom="qb1" data-title="Quesito B1" data-tags="topic_logica,skill_casework_accurato"></span>
+<span class="atom-split" id="qb1" data-atom="qb1" data-title="Quesito B1" data-tags="topic_logica,method_casework,skill_casework_accurato,skill_lettura_attenta"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -20,7 +20,8 @@ level: kangourou
 > Un commissario di polizia ha interrogato tre persone A, B, C sospettate di aver commesso un furto. A: «Io non sono il ladro, il ladro è C». B: «Il ladro è A e C è innocente». C: «Io non sono il ladro e B è innocente». Uno ha detto la verità, un altro due cose false, un terzo una cosa vera e una falsa. Chi è il ladro?
 
 **Topic:** [[topic_logica|Logica]]
-**Abilita:** [[skill_casework_accurato|Casework accurato]]
+**Metodo:** [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_lettura_attenta|Lettura attenta del testo]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** C
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/10LFLugBm5kid-a6x29itDvnVOd0WEskG/view)
@@ -33,15 +34,15 @@ level: kangourou
 
 > A police commissioner interrogated three people, A, B, and C, suspected of having committed a theft. A: "I am not the thief; C is the thief." B: "A is the thief, and C is innocent." C: "I am not the thief, and B is innocent." One of them told the truth, another said two false things, and the third said one true thing and one false thing. Who is the thief?
 
+
 **Topic:** [[topic_logica|Logic, games, strategies]]
-**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]], [[skill_lettura_attenta|Careful reading of the text]]
 **Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
-[[Quesiti/src_kangourou_2026_benjamin_finale#qb1|src_kangourou_2026_benjamin_finale__QB1]]
 
 
-
-<span class="atom-split" id="qb2" data-atom="qb2" data-title="Quesito B2" data-tags="topic_aritmetica,skill_modellizzazione"></span>
+<span class="atom-split" id="qb2" data-atom="qb2" data-title="Quesito B2" data-tags="topic_aritmetica,method_casework,skill_modellizzazione,skill_manipolazione_algebrica,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -51,7 +52,8 @@ level: kangourou
 > Ci sono 4 sacchi e ognuno pesa un numero intero di chili. Se ne scegliamo 3 in ognuno dei quattro modi possibili, il peso complessivo dei 3 scelti è o 50 o 60 chili. Quante sono le possibili differenze di peso tra il sacco più pesante e quello più leggero?
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Abilita:** [[skill_modellizzazione|Modellizzazione]]
+**Metodo:** [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 1
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/10LFLugBm5kid-a6x29itDvnVOd0WEskG/view)
@@ -64,15 +66,15 @@ level: kangourou
 
 > There are 4 sacks, and each weighs a whole number of kilograms. If we choose 3 sacks in each of the four possible ways, the total weight of the 3 chosen sacks is either 50 or 60 kilograms. How many possible differences in weight are there between the heaviest sack and the lightest sack?
 
+
 **Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
-**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]], [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_casework_accurato|Careful case analysis]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
-[[Quesiti/src_kangourou_2026_benjamin_finale#qb2|src_kangourou_2026_benjamin_finale__QB2]]
 
 
-
-<span class="atom-split" id="qb3" data-atom="qb3" data-title="Quesito B3" data-tags="topic_aritmetica,skill_riconoscimento_pattern"></span>
+<span class="atom-split" id="qb3" data-atom="qb3" data-title="Quesito B3" data-tags="topic_aritmetica,method_congruenze,skill_riconoscimento_pattern,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -82,7 +84,8 @@ level: kangourou
 > Il resto della divisione per 5 di un numero intero positivo è 3; il resto della divisione per 4 di quello stesso numero è 2. Qual è il resto della divisione per 10 di quel numero?
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 8
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/10LFLugBm5kid-a6x29itDvnVOd0WEskG/view)
@@ -95,11 +98,11 @@ level: kangourou
 
 > The remainder when a positive integer is divided by 5 is 3; the remainder when that same number is divided by 4 is 2. What is the remainder when that number is divided by 10?
 
-**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
-**Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]]
-**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
-[[Quesiti/src_kangourou_2026_benjamin_finale#qb3|src_kangourou_2026_benjamin_finale__QB3]]
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]]
+**Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
 
 
@@ -130,11 +133,9 @@ level: kangourou
 **Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
 **Area:** [[Geometria|Geometry]]
 
-[[Quesiti/src_kangourou_2026_benjamin_finale#qb4|src_kangourou_2026_benjamin_finale__QB4]]
 
 
-
-<span class="atom-split" id="qb5" data-atom="qb5" data-title="Quesito B5" data-tags="topic_geometria_piana,skill_ragionamento_geometrico"></span>
+<span class="atom-split" id="qb5" data-atom="qb5" data-title="Quesito B5" data-tags="topic_geometria_piana,method_coordinate,method_simmetria,skill_ragionamento_geometrico"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -144,6 +145,7 @@ level: kangourou
 > È assegnato un rettangolo $R$. Esternamente a $R$, su ogni lato di $R$ si costruisce un quadrato, un lato del quale coincide con tale lato di $R$. Che cosa si può dire sul poligono che ha come vertici i centri dei quattro quadrati?
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_coordinate|Metodo delle coordinate]], [[method_simmetria|Sfruttamento della simmetria]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]]
 **Risposta:** è un quadrato
@@ -157,15 +159,15 @@ level: kangourou
 
 > A rectangle $R$ is given. Outside $R$, on each side of $R$, a square is constructed, one side of which coincides with that side of $R$. What can be said about the polygon whose vertices are the centers of the four squares?
 
+
 **Topic:** [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_coordinate|Coordinate method]], [[method_simmetria|Using symmetry]]
 **Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
 **Area:** [[Geometria|Geometry]]
 
-[[Quesiti/src_kangourou_2026_benjamin_finale#qb5|src_kangourou_2026_benjamin_finale__QB5]]
 
 
-
-<span class="atom-split" id="qb6" data-atom="qb6" data-title="Quesito B6" data-tags="topic_combinatoria,method_conteggio,skill_conteggio_sistematico"></span>
+<span class="atom-split" id="qb6" data-atom="qb6" data-title="Quesito B6" data-tags="topic_combinatoria,method_conteggio,method_cassetti,skill_conteggio_sistematico,skill_casework_accurato,skill_modellizzazione"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -175,8 +177,8 @@ level: kangourou
 > In un sacchetto ci sono 46 biglie verdi, rosse o gialle. So che, estraendole a caso, per essere certo di averne almeno 10 di uno stesso colore ne devo estrarre 26. Quante devo preventivare di estrarne per essere certo di averne almeno 20 di uno stesso colore?
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
-**Metodo:** [[method_conteggio|Conteggio combinatorio]]
-**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Metodo:** [[method_conteggio|Conteggio combinatorio]], [[method_cassetti|Principio dei cassetti]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 46, tutte
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/10LFLugBm5kid-a6x29itDvnVOd0WEskG/view)
@@ -189,9 +191,8 @@ level: kangourou
 
 > There are 46 green, red, or yellow marbles in a bag. I know that, if I draw them at random, I must draw 26 marbles to be certain of having at least 10 marbles of the same color. How many marbles should I expect to draw to be certain of having at least 20 marbles of the same color?
 
-**Topic:** [[topic_combinatoria|Combinatorics]]
-**Metodo:** [[method_conteggio|Combinatorial counting]]
-**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
-**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
-[[Quesiti/src_kangourou_2026_benjamin_finale#qb6|src_kangourou_2026_benjamin_finale__QB6]]
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_conteggio|Combinatorial counting]], [[method_cassetti|Pigeonhole principle]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]], [[skill_casework_accurato|Careful case analysis]], [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]

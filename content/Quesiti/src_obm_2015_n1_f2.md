@@ -19,7 +19,7 @@ level: OBM Nível 1
 
 > In a square of perimeter $48$ cm, $M$ and $N$ are midpoints of two adjacent sides. $O$ is the center and $A$ is a vertex. By cutting the square along the dashed lines and rearranging the three pieces, a rectangle is formed with the same area as the original square but a different perimeter. What is this perimeter?
 
-![[src_obm_2015_n1_f2__q01.png]]
+![[src_obm_2015_n1_f2__Q01.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_casework|Casework]]
@@ -35,14 +35,12 @@ level: OBM Nível 1
 
 > In un quadrato di perimetro $48$ cm, $M$ e $N$ sono i punti medi di due lati adiacenti. $O$ è il centro e $A$ è un vertice. Tagliando il quadrato lungo le linee tratteggiate e riassemblando i tre pezzi, si ottiene un rettangolo avente la stessa area del quadrato originale ma un perimetro diverso. Qual è questo perimetro?
 
-![[src_obm_2015_n1_f2__q01.png]]
+![[src_obm_2015_n1_f2__Q01.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_casework|Casework]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Geometria]], [[Aritmetica e Teoria dei Numeri]]
-
-[[Quesiti/src_obm_2015_n1_f2#q01|src_obm_2015_n1_f2__Q01]]
 
 
 
@@ -72,11 +70,9 @@ level: OBM Nível 1
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 
-[[Quesiti/src_obm_2015_n1_f2#q02|src_obm_2015_n1_f2__Q02]]
 
 
-
-<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_aritmetica,topic_geometria_piana,method_casework,skill_modellizzazione,skill_lettura_attenta,skill_ragionamento_geometrico"></span>
+<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_aritmetica,topic_geometria_piana,method_casework,skill_modellizzazione,skill_lettura_attenta,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -87,12 +83,12 @@ level: OBM Nível 1
 > 
 > (The strip shows alternating black-and-white rectangular pieces arranged in a row of total length $100$ cm.)
 
-![[src_obm_2015_n1_f2__q03.png]]
+![[src_obm_2015_n1_f2__Q03.png]]
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_casework|Casework]]
-**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_lettura_attenta|Lettura attenta]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
-**Area:** [[Aritmetica e Teoria dei Numeri]], [[Geometria]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_lettura_attenta|Lettura attenta]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Geometria|Geometry]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/11_qL1O85P8NoFBftRDdedaPTfAL72hXz/view)
 
 
@@ -105,18 +101,17 @@ level: OBM Nível 1
 >
 > (La striscia mostra pezzi rettangolari bianchi e neri alternati, disposti in una riga della lunghezza totale di $100$ cm.)
 
-![[src_obm_2015_n1_f2__q03.png]]
+![[src_obm_2015_n1_f2__Q03.png]]
+
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_casework|Casework]]
-**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_lettura_attenta|Lettura attenta]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_lettura_attenta|Lettura attenta]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Geometria]]
 
-[[Quesiti/src_obm_2015_n1_f2#q03|src_obm_2015_n1_f2__Q03]]
 
 
-
-<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_logica,topic_combinatoria,method_invarianti,method_casework,skill_ragionamento_geometrico,skill_riconoscimento_pattern,skill_lettura_attenta"></span>
+<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_logica,topic_combinatoria,method_invarianti,method_casework,skill_ragionamento_geometrico,skill_riconoscimento_pattern,skill_lettura_attenta,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -127,8 +122,8 @@ level: OBM Nível 1
 
 **Topic:** [[topic_logica|Logica]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_invarianti|Invarianti]], [[method_casework|Casework]]
-**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_lettura_attenta|Lettura attenta]]
-**Area:** [[Combinatoria, Logica e Probabilita]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_lettura_attenta|Lettura attenta]], [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/11_qL1O85P8NoFBftRDdedaPTfAL72hXz/view)
 
 
@@ -139,12 +134,11 @@ level: OBM Nível 1
 
 > Intorno a un tavolo circolare sono sedute $2015$ persone. Ciascuna di esse è o onesta (dice sempre la verità) o disonesta (mente sempre). Ognuna delle persone fa la seguente affermazione: "Uno dei miei due vicini (quello a sinistra o quello a destra) è onesto, e l'altro vicino è disonesto." Qual è il numero di persone oneste nel gruppo?
 
+
 **Topic:** [[topic_logica|Logica]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_invarianti|Invarianti]], [[method_casework|Casework]]
-**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_lettura_attenta|Lettura attenta]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_lettura_attenta|Lettura attenta]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
-
-[[Quesiti/src_obm_2015_n1_f2#q04|src_obm_2015_n1_f2__Q04]]
 
 
 
@@ -161,7 +155,7 @@ level: OBM Nível 1
 > 
 > In Figure $30$, how many more gray squares are there than white squares?
 
-![[src_obm_2015_n1_f2__q05.png]]
+![[src_obm_2015_n1_f2__Q05.png]]
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_ricorsione|Ricorsione]], [[method_induzione|Induzione]]
@@ -181,14 +175,12 @@ level: OBM Nível 1
 >
 > Nella Figura $30$, quante caselle grigie in più ci sono rispetto alle caselle bianche?
 
-![[src_obm_2015_n1_f2__q05.png]]
+![[src_obm_2015_n1_f2__Q05.png]]
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_ricorsione|Ricorsione]], [[method_induzione|Induzione]]
 **Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
-
-[[Quesiti/src_obm_2015_n1_f2#q05|src_obm_2015_n1_f2__Q05]]
 
 
 
@@ -201,7 +193,7 @@ level: OBM Nível 1
 
 > In the figure there are $12$ squares. Matilu wants to paint the vertices of these $12$ squares using three colors — green, yellow, and blue — so that each square has exactly $2$ green vertices and $2$ yellow vertices. In how many different ways can these vertices be painted?
 
-![[src_obm_2015_n1_f2__q06.png]]
+![[src_obm_2015_n1_f2__Q06.png]]
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]]
@@ -217,18 +209,16 @@ level: OBM Nível 1
 
 > Nella figura ci sono $12$ quadrati. Matilu vuole colorare i vertici di questi $12$ quadrati usando tre colori — verde, giallo e blu — in modo che ciascun quadrato abbia esattamente $2$ vertici verdi e $2$ vertici gialli. In quanti modi diversi si possono colorare questi vertici?
 
-![[src_obm_2015_n1_f2__q06.png]]
+![[src_obm_2015_n1_f2__Q06.png]]
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]]
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 
-[[Quesiti/src_obm_2015_n1_f2#q06|src_obm_2015_n1_f2__Q06]]
 
 
-
-<span class="atom-split" id="q07" data-atom="q07" data-title="Quesito 7" data-tags="topic_aritmetica,topic_algebra,method_casework,method_estremalita,skill_lettura_attenta,skill_conteggio_sistematico,skill_manipolazione_algebrica,skill_casework_accurato"></span>
+<span class="atom-split" id="q07" data-atom="q07" data-title="Quesito 7" data-tags="topic_aritmetica,topic_algebra,method_casework,method_estremalita,method_congruenze,skill_lettura_attenta,skill_conteggio_sistematico,skill_manipolazione_algebrica,skill_casework_accurato,skill_riconoscimento_pattern"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -248,9 +238,9 @@ level: OBM Nível 1
 > c) Which digits can appear as the last (tenth) digit?
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
-**Metodo:** [[method_casework|Casework]], [[method_estremalita|Estremalità]]
-**Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Casework accurato]]
-**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
+**Metodo:** [[method_casework|Casework]], [[method_estremalita|Estremalità]], [[method_congruenze|Modular arithmetic / congruences]]
+**Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Casework accurato]], [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Algebra e Analisi|Algebra and analysis]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/11_qL1O85P8NoFBftRDdedaPTfAL72hXz/view)
 
 
@@ -271,12 +261,11 @@ level: OBM Nível 1
 >
 > c) Quali cifre possono comparire come ultima (decima) cifra?
 
-**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
-**Metodo:** [[method_casework|Casework]], [[method_estremalita|Estremalità]]
-**Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Casework accurato]]
-**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 
-[[Quesiti/src_obm_2015_n1_f2#q07|src_obm_2015_n1_f2__Q07]]
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_casework|Casework]], [[method_estremalita|Estremalità]], [[method_congruenze|Aritmetica modulare / congruenze]]
+**Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Casework accurato]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 
 
 
@@ -297,7 +286,7 @@ level: OBM Nível 1
 > 
 > d) What is the area, in $\text{cm}^2$, of the triangle whose vertices are the midpoints of sides $AB$, $CD$, and $EF$?
 
-![[src_obm_2015_n1_f2__q08.png]]
+![[src_obm_2015_n1_f2__Q08.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_coordinate|Coordinate]], [[method_simmetria|Simmetria]]
@@ -321,14 +310,12 @@ level: OBM Nível 1
 >
 > d) Qual è l'area, in $\text{cm}^2$, del triangolo i cui vertici sono i punti medi dei lati $AB$, $CD$ e $EF$?
 
-![[src_obm_2015_n1_f2__q08.png]]
+![[src_obm_2015_n1_f2__Q08.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_coordinate|Coordinate]], [[method_simmetria|Simmetria]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Geometria]]
-
-[[Quesiti/src_obm_2015_n1_f2#q08|src_obm_2015_n1_f2__Q08]]
 
 
 
@@ -367,5 +354,3 @@ level: OBM Nível 1
 **Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]]
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_casework_accurato|Casework accurato]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Geometria]], [[Combinatoria, Logica e Probabilita]]
-
-[[Quesiti/src_obm_2015_n1_f2#q09|src_obm_2015_n1_f2__Q09]]

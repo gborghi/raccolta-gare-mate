@@ -42,11 +42,9 @@ level: squadre
 **Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
-[[Quesiti/src_squadre_2026_semifinale_cd#q01|src_squadre_2026_semifinale_cd__Q01]]
 
 
-
-<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_probabilita,topic_aritmetica,method_congruenze,skill_conteggio_sistematico"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_probabilita,topic_aritmetica,method_congruenze,method_casi_conteggio,skill_conteggio_sistematico"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -63,9 +61,9 @@ level: squadre
 > frazione ridotta ai minimi termini.
 
 **Topic:** [[topic_probabilita|Probabilita e statistica]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]]
+**Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]], [[method_casi_conteggio|Conteggio per casi]]
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
-**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 0131
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1xJcBV7zza5jtyy2EFIZ1XhOIFmjz_tMy/view)
 
@@ -77,12 +75,11 @@ level: squadre
 
 > Divination Gaia Fuselli The Divination teacher at the Higher Matemagical School, Sibilla Riemann, takes 3 magic cards: 1, 2, 3; she shuffles them and asks Hermita to draw a card at random and write down the value of the card drawn; she reshuffles the cards and asks Hermita to draw again, noting the number drawn as b; she then repeats the procedure to find the numbers c and d as well. While Hermita is drawing, she asks the other students to predict the number ab + bcd + d². What is the probability that the number to be predicted is odd? Answer with the sum of the numerator and denominator of the fraction reduced to lowest terms.
 
-**Topic:** [[topic_probabilita|Probability and statistics]], [[topic_aritmetica|Arithmetic / Number theory]]
-**Metodo:** [[method_congruenze|Modular arithmetic / congruences]]
-**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
-**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
-[[Quesiti/src_squadre_2026_semifinale_cd#q02|src_squadre_2026_semifinale_cd__Q02]]
+**Topic:** [[topic_probabilita|Probability and statistics]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]], [[method_casi_conteggio|Counting by cases]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
 
 
@@ -165,11 +162,9 @@ level: squadre
 **Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
 **Area:** [[Algebra e Analisi|Algebra and analysis]]
 
-[[Quesiti/src_squadre_2026_semifinale_cd#q03|src_squadre_2026_semifinale_cd__Q03]]
 
 
-
-<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_geometria_piana,method_coordinate,method_trigonometria,skill_ragionamento_geometrico"></span>
+<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_geometria_piana,topic_trigonometria,method_coordinate,method_trigonometria,skill_ragionamento_geometrico"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -234,7 +229,7 @@ level: squadre
 > G
 > O
 
-**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometria]]
 **Metodo:** [[method_coordinate|Metodo delle coordinate]], [[method_trigonometria|Tecniche trigonometriche]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]]
@@ -291,16 +286,15 @@ level: squadre
 
 > The Geomancy Spell by Pietro Scaglioni In carrying out the Geomancy task, Hardy draws a square ABCD with side length 10 millibacchettes; Ron constructs two equilateral triangles, ABE and BCF, external to the square. Hermita completes the configuration by adding the equilateral triangle EFG, with G on the side of B opposite EF. The spell will be activated by declaring the value of BG² (in square millibacchettes). What must the three friends say? 150° A B C D E F G O
 
-**Topic:** [[topic_geometria_piana|Plane geometry]]
+
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_trigonometria|Trigonometry]]
 **Metodo:** [[method_coordinate|Coordinate method]], [[method_trigonometria|Trigonometric techniques]]
 **Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
 **Area:** [[Geometria|Geometry]]
 
-[[Quesiti/src_squadre_2026_semifinale_cd#q04|src_squadre_2026_semifinale_cd__Q04]]
 
 
-
-<span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_aritmetica,topic_combinatoria,method_grafi,skill_casework_accurato"></span>
+<span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_aritmetica,topic_combinatoria,method_grafi,method_backward,skill_casework_accurato,skill_modellizzazione"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -319,8 +313,8 @@ level: squadre
 > usando più di un passaggio segreto?
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
-**Metodo:** [[method_grafi|Teoria dei grafi]]
-**Abilita:** [[skill_casework_accurato|Casework accurato]]
+**Metodo:** [[method_grafi|Teoria dei grafi]], [[method_backward|Ragionamento all'indietro]]
+**Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0040
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1xJcBV7zza5jtyy2EFIZ1XhOIFmjz_tMy/view)
@@ -333,12 +327,11 @@ level: squadre
 
 > Destinations with No Return Gaia Fuselli From the Higher Matemagical School, identified by the number 1, 110 secret passages (one-way only) lead to an equal number of destinations, numbered 0 and from 2 to 110. The Perelman twins know all of them and know that destinations 2 through 9 are close enough to the school to always allow a return trip; destination 0, however, is the fearsome Arctan Prison, from which no one has ever escaped. The other destinations follow different rules: if the number x of a destination is prime or ends in zero, there are no secret passages from that destination to other destinations; otherwise, let u be the units digit of x; from destination x there is a passage to destination x − 2u − 2. How many destinations (including the school) are there from which it is possible to return to the school, possibly using more than one secret passage?
 
-**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_combinatoria|Combinatorics]]
-**Metodo:** [[method_grafi|Graph theory]]
-**Abilita:** [[skill_casework_accurato|Careful case analysis]]
-**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
-[[Quesiti/src_squadre_2026_semifinale_cd#q05|src_squadre_2026_semifinale_cd__Q05]]
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_grafi|Graph theory]], [[method_backward|Working backwards]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]], [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
 
 
@@ -385,11 +378,9 @@ level: squadre
 **Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
 **Area:** [[Geometria|Geometry]]
 
-[[Quesiti/src_squadre_2026_semifinale_cd#q06|src_squadre_2026_semifinale_cd__Q06]]
 
 
-
-<span class="atom-split" id="q07" data-atom="q07" data-title="Quesito 7" data-tags="topic_funzionali,topic_algebra,method_induzione,method_ricorsione,skill_astrazione"></span>
+<span class="atom-split" id="q07" data-atom="q07" data-title="Quesito 7" data-tags="topic_funzionali,topic_algebra,method_induzione,method_ricorsione,skill_astrazione,skill_manipolazione_algebrica,skill_riconoscimento_pattern"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -402,7 +393,7 @@ level: squadre
 
 **Topic:** [[topic_funzionali|Equazioni funzionali / successioni]], [[topic_algebra|Algebra]]
 **Metodo:** [[method_induzione|Induzione]], [[method_ricorsione|Ricorsione]]
-**Abilita:** [[skill_astrazione|Astrazione / generalizzazione]]
+**Abilita:** [[skill_astrazione|Astrazione / generalizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Algebra e Analisi]]
 **Risposta:** 6142
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1xJcBV7zza5jtyy2EFIZ1XhOIFmjz_tMy/view)
@@ -417,16 +408,15 @@ level: squadre
 >
 > To communicate secretly with his godfather Sirius Black, Hardy agreed to set a password for the twin mirrors. Given $p_0(x) = x$ and $p_{n+1}(x) = 1 - p_n(x)^2$ for each natural $n$, the password is the number of real roots, counted with multiplicity, of the polynomial $p_{22}(x)$. What is the password?
 
+
 **Topic:** [[topic_funzionali|Functional equations / sequences]], [[topic_algebra|Algebra]]
 **Metodo:** [[method_induzione|Induction]], [[method_ricorsione|Recursion]]
-**Abilita:** [[skill_astrazione|Abstraction / generalisation]]
+**Abilita:** [[skill_astrazione|Abstraction / generalisation]], [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_riconoscimento_pattern|Pattern recognition]]
 **Area:** [[Algebra e Analisi|Algebra and analysis]]
 
-[[Quesiti/src_squadre_2026_semifinale_cd#q07|src_squadre_2026_semifinale_cd__Q07]]
 
 
-
-<span class="atom-split" id="q08" data-atom="q08" data-title="Quesito 8" data-tags="topic_algebra,skill_manipolazione_algebrica"></span>
+<span class="atom-split" id="q08" data-atom="q08" data-title="Quesito 8" data-tags="topic_algebra,method_conteggio,method_fattorizzazione,skill_manipolazione_algebrica,skill_modellizzazione"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -444,7 +434,8 @@ level: squadre
 > numero permette a Ron di scontare la sua pena?
 
 **Topic:** [[topic_algebra|Algebra]]
-**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Metodo:** [[method_conteggio|Conteggio combinatorio]], [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
 **Area:** [[Algebra e Analisi]]
 **Risposta:** 1210
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1xJcBV7zza5jtyy2EFIZ1XhOIFmjz_tMy/view)
@@ -457,15 +448,15 @@ level: squadre
 
 > One Square After Another – Giuseppe Mascellani Once again, Ron must serve the punishment imposed by Professor Dolores Unboundrige. Patiently, Ron takes his notebook of squared parchment sheets and begins drawing a different square on each sheet of parchment. Square Q1 has a side of 1 square, square Q2 has a side of 2, and so on up to Q10, which has a side of 10. Then he starts over from the first sheet of parchment: in square Q1, Ron writes 10; in the four small squares of Q2, he writes 9; in each 1×1 small square contained in Q3, he writes the number 8; and so on until he writes 1 in all the small squares of Q10. The wicked Professor Unboundrige will be satisfied only when Ron tells her the sum of all the numbers written in the small squares. Which number allows Ron to serve out his punishment?
 
+
 **Topic:** [[topic_algebra|Algebra]]
-**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Metodo:** [[method_conteggio|Combinatorial counting]], [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_modellizzazione|Modelling / translating the text]]
 **Area:** [[Algebra e Analisi|Algebra and analysis]]
 
-[[Quesiti/src_squadre_2026_semifinale_cd#q08|src_squadre_2026_semifinale_cd__Q08]]
 
 
-
-<span class="atom-split" id="q09" data-atom="q09" data-title="Quesito 9" data-tags="topic_geometria_piana,skill_ragionamento_geometrico"></span>
+<span class="atom-split" id="q09" data-atom="q09" data-title="Quesito 9" data-tags="topic_geometria_piana,method_trigonometria,skill_ragionamento_geometrico"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -535,6 +526,7 @@ level: squadre
 > quest’ultimo (in gradi)?
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_trigonometria|Tecniche trigonometriche]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]]
 **Risposta:** 0039
@@ -588,15 +580,15 @@ level: squadre
 
 > A Matter of Points of View [⋆] Leonardo Franchi 19° 19° 70° 70° 78° 32° A B C D E The room of the pub Tre Manici Topologici has a triangular floor plan ABC, with angles ∠A = 110°, ∠B = 38°, ∠C = 32°. The bar counter is placed at point E on BC such that ∠AEB = 102°. Let D be the point on AC that is the foot of the angle bisector from B; the barmaid knows that she can keep an eye on the entrance from the angle ∠AED. What is the measure of this angle (in degrees)?
 
+
 **Topic:** [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_trigonometria|Trigonometric techniques]]
 **Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
 **Area:** [[Geometria|Geometry]]
 
-[[Quesiti/src_squadre_2026_semifinale_cd#q09|src_squadre_2026_semifinale_cd__Q09]]
 
 
-
-<span class="atom-split" id="q10" data-atom="q10" data-title="Quesito 10" data-tags="topic_combinatoria,method_conteggio,method_ricorsione,skill_conteggio_sistematico"></span>
+<span class="atom-split" id="q10" data-atom="q10" data-title="Quesito 10" data-tags="topic_combinatoria,method_conteggio,method_ricorsione,skill_conteggio_sistematico,skill_modellizzazione"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -617,7 +609,7 @@ level: squadre
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_conteggio|Conteggio combinatorio]], [[method_ricorsione|Ricorsione]]
-**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 6434
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1xJcBV7zza5jtyy2EFIZ1XhOIFmjz_tMy/view)
@@ -632,16 +624,15 @@ level: squadre
 
 > Solitary Doubts Angelo Giustiniani Ron is waiting for his friend Hardy to challenge him to a game of Magic-Force-4, a game played with tokens that are dropped into a vertical grid with 8 columns; in each column, at most 7 tokens can be stacked one on top of another. While waiting, Ron drops the first token into the leftmost column, and it occupies the bottom-left spot. When he places a new token, if there is already a token in the spot to the left of the token just inserted, then the move is valid. Another valid move is to insert a new token into the leftmost column. Ron can stop whenever he wants. How many configurations can Ron obtain by making only valid moves (bearing in mind that he has already placed one token)?
 
+
 **Topic:** [[topic_combinatoria|Combinatorics]]
 **Metodo:** [[method_conteggio|Combinatorial counting]], [[method_ricorsione|Recursion]]
-**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]], [[skill_modellizzazione|Modelling / translating the text]]
 **Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
-[[Quesiti/src_squadre_2026_semifinale_cd#q10|src_squadre_2026_semifinale_cd__Q10]]
 
 
-
-<span class="atom-split" id="q11" data-atom="q11" data-title="Quesito 11" data-tags="topic_geometria_solida,method_coordinate,skill_ragionamento_geometrico"></span>
+<span class="atom-split" id="q11" data-atom="q11" data-title="Quesito 11" data-tags="topic_geometria_solida,topic_geometria_piana,method_coordinate,skill_ragionamento_geometrico"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -658,7 +649,7 @@ level: squadre
 > un vertice e piegando poi gli esagoni verso l’interno, lungo la diagonale maggiore parallela ai lati del quadrato. In
 > questo modo la coppa, che ha un foro quadrato in cima, è pronta. Qual è il suo volume (in cm3)?
 
-**Topic:** [[topic_geometria_solida|Geometria solida]]
+**Topic:** [[topic_geometria_solida|Geometria solida]], [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_coordinate|Metodo delle coordinate]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]]
@@ -675,16 +666,15 @@ level: squadre
 
 > Modellismo Luca Lamanna Ron is so excited about the awarding of the Cup of the Houses that he wants to build a cardboard replica of it. He starts by cutting out the net of the cup: a square with sides 6 cm long, on each of whose sides a regular hexagon is constructed outside the square. Ron then assembles it by fitting together the sides of the hexagons that share a vertex and then folding the hexagons inward along the longer diagonal parallel to the sides of the square. In this way, the cup, which has a square hole at the top, is ready. What is its volume (in cm³)?
 
-**Topic:** [[topic_geometria_solida|Solid geometry]]
+
+**Topic:** [[topic_geometria_solida|Solid geometry]], [[topic_geometria_piana|Plane geometry]]
 **Metodo:** [[method_coordinate|Coordinate method]]
 **Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
 **Area:** [[Geometria|Geometry]]
 
-[[Quesiti/src_squadre_2026_semifinale_cd#q11|src_squadre_2026_semifinale_cd__Q11]]
 
 
-
-<span class="atom-split" id="q12" data-atom="q12" data-title="Quesito 12" data-tags="topic_funzionali,topic_aritmetica,method_fattorizzazione,method_ricorsione,skill_riconoscimento_pattern"></span>
+<span class="atom-split" id="q12" data-atom="q12" data-title="Quesito 12" data-tags="topic_funzionali,topic_aritmetica,topic_algebra,method_fattorizzazione,method_ricorsione,method_induzione,skill_riconoscimento_pattern,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -698,9 +688,9 @@ level: squadre
 > Chiede poi di determinare la somma di tutti gli interi positivi n per cui è possibile che Kn = 4096. Cosa devono
 > rispondere i seguaci, per aver salva la vita?
 
-**Topic:** [[topic_funzionali|Equazioni funzionali / successioni]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]], [[method_ricorsione|Ricorsione]]
-**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Topic:** [[topic_funzionali|Equazioni funzionali / successioni]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]], [[method_ricorsione|Ricorsione]], [[method_induzione|Induzione]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 0034
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1xJcBV7zza5jtyy2EFIZ1XhOIFmjz_tMy/view)
@@ -713,16 +703,15 @@ level: squadre
 
 > Among the villains, Giuseppe Mascellani—the wickedest math magician ever, the One-Who-Cannot-Be-Proven—tests the loyalty of his followers by posing the following question. Given a positive integer a, he defines K0 = 1 and, for every n ≥ 0, Kn+1 = Kn + aKn−1 + ... + anK0. He then asks for the sum of all positive integers n for which it is possible that Kn = 4096. What must the followers answer in order to have their lives spared?
 
-**Topic:** [[topic_funzionali|Functional equations / sequences]], [[topic_aritmetica|Arithmetic / Number theory]]
-**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]], [[method_ricorsione|Recursion]]
-**Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]]
+
+**Topic:** [[topic_funzionali|Functional equations / sequences]], [[topic_aritmetica|Arithmetic / Number theory]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]], [[method_ricorsione|Recursion]], [[method_induzione|Induction]]
+**Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
 **Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
-[[Quesiti/src_squadre_2026_semifinale_cd#q12|src_squadre_2026_semifinale_cd__Q12]]
 
 
-
-<span class="atom-split" id="q13" data-atom="q13" data-title="Quesito 13" data-tags="topic_aritmetica,topic_algebra,method_congruenze,method_invarianti,skill_modellizzazione"></span>
+<span class="atom-split" id="q13" data-atom="q13" data-title="Quesito 13" data-tags="topic_aritmetica,topic_algebra,method_congruenze,method_invarianti,skill_modellizzazione,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -741,8 +730,8 @@ level: squadre
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
 **Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]], [[method_invarianti|Invarianti / monovarianti]]
-**Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
-**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 **Risposta:** 1273
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1xJcBV7zza5jtyy2EFIZ1XhOIFmjz_tMy/view)
 
@@ -754,16 +743,15 @@ level: squadre
 
 > So many days for a wonderful order: Alessandro Lombardo Pomona Springer, a herbology lecturer, tends his precious 2026 mandrakes in a secret greenhouse; initially, all of them are 109 nanosticks (nb) tall—that is, one wand. Each day, he waters exactly 101 distinct mandrakes. At the end of the day, the mandrakes that were watered that day grow by 1 nb, while the others shrink by 1 nb. One day, before watering the mandrakes, Prof. Springer decides to arrange the pots of the mandrakes in order from the shortest to the tallest. While doing this, she notices that all the plants are of different heights and that the height difference between two consecutive plants remains constant. How many days have passed, at minimum, since that day when she began tending the mandrakes?
 
+
 **Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_algebra|Algebra]]
 **Metodo:** [[method_congruenze|Modular arithmetic / congruences]], [[method_invarianti|Invariants / monovariants]]
-**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
-**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
-
-[[Quesiti/src_squadre_2026_semifinale_cd#q13|src_squadre_2026_semifinale_cd__Q13]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Algebra e Analisi|Algebra and analysis]]
 
 
 
-<span class="atom-split" id="q14" data-atom="q14" data-title="Quesito 14" data-tags="topic_combinatoria,method_conteggio,skill_conteggio_sistematico"></span>
+<span class="atom-split" id="q14" data-atom="q14" data-title="Quesito 14" data-tags="topic_combinatoria,method_conteggio,method_casi_conteggio,skill_conteggio_sistematico,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -781,8 +769,8 @@ level: squadre
 > adiacenti, esattamente 15 sono formate da scudi dello stesso colore. Quante sono le possibili colorazioni degli scudi?
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
-**Metodo:** [[method_conteggio|Conteggio combinatorio]]
-**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Metodo:** [[method_conteggio|Conteggio combinatorio]], [[method_casi_conteggio|Conteggio per casi]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 3552
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/1xJcBV7zza5jtyy2EFIZ1XhOIFmjz_tMy/view)
@@ -797,16 +785,15 @@ level: squadre
 
 > Rapportaureo vs Perognesiste Eugenio Trovarelli It is the day of the eagerly awaited Quamditch match between the Rapportaureo team and the Perognesiste team, captained by Cedric Villany. Hardy notes that at the far end of the playing field, 20 shields are hung in a row, each painted in the color of one of the two houses (red or yellow), and that the number of yellow shields is strictly greater than the number of red shields. Before climbing onto his broomstick, Hardy, a little nervous, glances and observes that, among all the pairs of adjacent shields, exactly 15 are made up of shields of the same color. How many possible colorings of the shields are there?
 
+
 **Topic:** [[topic_combinatoria|Combinatorics]]
-**Metodo:** [[method_conteggio|Combinatorial counting]]
-**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Metodo:** [[method_conteggio|Combinatorial counting]], [[method_casi_conteggio|Counting by cases]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]], [[skill_casework_accurato|Careful case analysis]]
 **Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
-[[Quesiti/src_squadre_2026_semifinale_cd#q14|src_squadre_2026_semifinale_cd__Q14]]
 
 
-
-<span class="atom-split" id="q15" data-atom="q15" data-title="Quesito 15" data-tags="topic_geometria_piana,method_trigonometria,skill_ragionamento_geometrico"></span>
+<span class="atom-split" id="q15" data-atom="q15" data-title="Quesito 15" data-tags="topic_geometria_piana,topic_trigonometria,method_trigonometria,method_simmetria,skill_ragionamento_geometrico"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -832,8 +819,8 @@ level: squadre
 > di C rispetto alla retta AB. Sapendo che EF misura 100 bacchette,
 > determinare GC +FC (in bacchette).
 
-**Topic:** [[topic_geometria_piana|Geometria piana]]
-**Metodo:** [[method_trigonometria|Tecniche trigonometriche]]
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometria]]
+**Metodo:** [[method_trigonometria|Tecniche trigonometriche]], [[method_simmetria|Sfruttamento della simmetria]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]]
 **Risposta:** 0141
@@ -849,16 +836,15 @@ level: squadre
 
 > The condition for scoring: at Guido Lido, in the Quamditch field, two baskets are placed at C and D, and then two referees at A and B, so that ACD and BCD are equilateral but not coincident. The Rapportaureo team (composed of Hardy, Hermita, Ron, and Norris) must score at C. However, to score a valid point, the shooter must have a pivot player such that the shooter and the pivot are aligned with B, that they form an equilateral triangle with A, and that the shooter is closer to basket C than the pivot is. Hardy and Hermita (placed at E and G) are ready to shoot, with Ron and Norris (placed at F and H) as their respective pivots. We also know that ∠ABE = 45° and ∠ABH = 75°, and that E and G are on the same side of C relative to line AB. Given that EF measures 100 rods, determine GC + FC (in rods).
 
-**Topic:** [[topic_geometria_piana|Plane geometry]]
-**Metodo:** [[method_trigonometria|Trigonometric techniques]]
+
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_trigonometria|Trigonometry]]
+**Metodo:** [[method_trigonometria|Trigonometric techniques]], [[method_simmetria|Using symmetry]]
 **Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
 **Area:** [[Geometria|Geometry]]
 
-[[Quesiti/src_squadre_2026_semifinale_cd#q15|src_squadre_2026_semifinale_cd__Q15]]
 
 
-
-<span class="atom-split" id="q16" data-atom="q16" data-title="Quesito 16" data-tags="topic_aritmetica,method_fattorizzazione,skill_manipolazione_algebrica"></span>
+<span class="atom-split" id="q16" data-atom="q16" data-title="Quesito 16" data-tags="topic_aritmetica,method_fattorizzazione,method_casework,skill_manipolazione_algebrica,skill_riconoscimento_pattern"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -873,8 +859,8 @@ level: squadre
 > numeri n ha trovato Luna?
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
-**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]], [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 0801
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/1xJcBV7zza5jtyy2EFIZ1XhOIFmjz_tMy/view)
@@ -887,9 +873,8 @@ level: squadre
 
 > Integers as Differences by Gaia Fuselli In the Room of Necessary Conditions, there is everything a mathmago needs. Luna Lovegödel was looking for the integers n between −400 and 400, inclusive, that can be written as the difference between the sum of two squares and the sum of two other squares (squares of suitable integers, which may even be equal). How many different numbers n did Luna find?
 
-**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
-**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
-**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
-**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
-[[Quesiti/src_squadre_2026_semifinale_cd#q16|src_squadre_2026_semifinale_cd__Q16]]
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]], [[method_casework|Case analysis]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]

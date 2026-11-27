@@ -38,8 +38,6 @@ level: OBM Nível 2
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 
-[[Quesiti/src_obm_2013_n2_f2#q01|src_obm_2013_n2_f2__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_aritmetica,method_fattorizzazione,method_casework,skill_manipolazione_algebrica,skill_lettura_attenta,skill_conteggio_sistematico"></span>
@@ -82,8 +80,6 @@ level: OBM Nível 2
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 
-[[Quesiti/src_obm_2013_n2_f2#q02|src_obm_2013_n2_f2__Q02]]
-
 
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_aritmetica,topic_combinatoria,method_casework,method_conteggio,skill_conteggio_sistematico,skill_lettura_attenta,skill_riconoscimento_pattern"></span>
@@ -114,8 +110,6 @@ level: OBM Nível 2
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 
-[[Quesiti/src_obm_2013_n2_f2#q03|src_obm_2013_n2_f2__Q03]]
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_geometria_piana,method_coordinate,method_simmetria,skill_ragionamento_geometrico,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
@@ -127,7 +121,7 @@ level: OBM Nível 2
 
 > The square $ABCD$ is inscribed in a circle of radius $30$. The chord $AM$ intersects the diagonal $BD$ at point $P$. If $AM = 50$, determine the length of segment $AP$.
 
-![[src_obm_2013_n2_f2__q04.png]]
+![[src_obm_2013_n2_f2__Q04.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_coordinate|Coordinate]], [[method_simmetria|Simmetria]]
@@ -143,14 +137,12 @@ level: OBM Nível 2
 
 > Il quadrato $ABCD$ è inscritto in una circonferenza di raggio $30$. La corda $AM$ interseca la diagonale $BD$ nel punto $P$. Se $AM = 50$, determina la lunghezza del segmento $AP$.
 
-![[src_obm_2013_n2_f2__q04.png]]
+![[src_obm_2013_n2_f2__Q04.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_coordinate|Coordinate]], [[method_simmetria|Simmetria]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Geometria]]
-
-[[Quesiti/src_obm_2013_n2_f2#q04|src_obm_2013_n2_f2__Q04]]
 
 
 
@@ -163,7 +155,7 @@ level: OBM Nível 2
 
 > A \textit{bispo} (bishop) is a chess piece that can only make diagonal moves; that is, it can move any number of squares diagonally. In the figure below, the possible directions of movement of a bishop from a given square of the board are indicated. We say that two bishops \textit{attack each other} when one of them is in a square that can be reached by the other. What is the maximum number of bishops that can be placed on an $8 \times 8$ chessboard such that no two bishops attack each other?
 
-![[src_obm_2013_n2_f2__q05.png]]
+![[src_obm_2013_n2_f2__Q05.png]]
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_colorazione|Colorazione]], [[method_estremalita|Estremalità]], [[method_casework|Casework]]
@@ -179,18 +171,16 @@ level: OBM Nível 2
 
 > Un \textit{alfiere} è un pezzo degli scacchi che può muoversi solo in diagonale; cioè, può spostarsi di qualsiasi numero di caselle in diagonale. Nella figura sottostante sono indicate le possibili direzioni di movimento di un alfiere da una data casella della scacchiera. Diciamo che due alfieri \textit{si attaccano a vicenda} quando uno di essi si trova in una casella raggiungibile dall'altro. Qual è il numero massimo di alfieri che si possono collocare su una scacchiera $8 \times 8$ in modo che nessun paio di alfieri si attacchi a vicenda?
 
-![[src_obm_2013_n2_f2__q05.png]]
+![[src_obm_2013_n2_f2__Q05.png]]
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_colorazione|Colorazione]], [[method_estremalita|Estremalità]], [[method_casework|Casework]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 
-[[Quesiti/src_obm_2013_n2_f2#q05|src_obm_2013_n2_f2__Q05]]
 
 
-
-<span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_aritmetica,topic_algebra,method_ricorsione,method_invarianti,method_telescoping,skill_riconoscimento_pattern,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
+<span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_aritmetica,topic_algebra,topic_funzionali,method_ricorsione,method_invarianti,method_telescoping,skill_riconoscimento_pattern,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -213,10 +203,10 @@ level: OBM Nível 2
 > 
 > b) What is the sum of the numbers that appear on row $21$?
 
-**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]], [[topic_funzionali|Functional equations / sequences]]
 **Metodo:** [[method_ricorsione|Ricorsione]], [[method_invarianti|Invarianti]], [[method_telescoping|Telescoping]]
 **Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
-**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Algebra e Analisi|Algebra and analysis]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/16jz8AX5epqRi_4AzCthzju1jrj_ZupO7/view)
 
 
@@ -241,12 +231,11 @@ level: OBM Nível 2
 >
 > b) Qual è la somma dei numeri che compaiono nella riga $21$?
 
-**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]], [[topic_funzionali|Equazioni funzionali / successioni]]
 **Metodo:** [[method_ricorsione|Ricorsione]], [[method_invarianti|Invarianti]], [[method_telescoping|Telescoping]]
 **Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
-
-[[Quesiti/src_obm_2013_n2_f2#q06|src_obm_2013_n2_f2__Q06]]
 
 
 
@@ -280,11 +269,9 @@ level: OBM Nível 2
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 
-[[Quesiti/src_obm_2013_n2_f2#q07|src_obm_2013_n2_f2__Q07]]
 
 
-
-<span class="atom-split" id="q08" data-atom="q08" data-title="Quesito 8" data-tags="topic_combinatoria,method_cassetti,method_estremalita,method_casework,skill_modellizzazione,skill_ragionamento_geometrico,skill_conteggio_sistematico,skill_lettura_attenta"></span>
+<span class="atom-split" id="q08" data-atom="q08" data-title="Quesito 8" data-tags="topic_combinatoria,method_cassetti,method_estremalita,method_casework,method_grafi,skill_modellizzazione,skill_ragionamento_geometrico,skill_conteggio_sistematico,skill_lettura_attenta"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -294,9 +281,9 @@ level: OBM Nível 2
 > Led, a famous game hero, has a new challenge: to open the dragon's portal. The portal has $10$ distinct padlocks. To open the portal, Led must have at least one key for each padlock. There are $45$ boxes in the game, and each box contains exactly $2$ distinct keys, with keys in the same box opening the same padlock. Moreover, the $10$ padlocks all have different keys, and there are no two boxes with the same pair of keys. What is the minimum number of boxes that Led must carry in order to guarantee opening the portal?
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
-**Metodo:** [[method_cassetti|Principio dei cassetti]], [[method_estremalita|Estremalità]], [[method_casework|Casework]]
+**Metodo:** [[method_cassetti|Principio dei cassetti]], [[method_estremalita|Estremalità]], [[method_casework|Casework]], [[method_grafi|Graph theory]]
 **Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]]
-**Area:** [[Combinatoria, Logica e Probabilita]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/16jz8AX5epqRi_4AzCthzju1jrj_ZupO7/view)
 
 
@@ -307,12 +294,11 @@ level: OBM Nível 2
 
 > Led, un celebre eroe dei videogiochi, ha una nuova sfida: aprire il portale del drago. Il portale ha $10$ lucchetti distinti. Per aprire il portale, Led deve disporre di almeno una chiave per ciascun lucchetto. Nel gioco ci sono $45$ scatole, e ciascuna scatola contiene esattamente $2$ chiavi distinte; le chiavi presenti nella stessa scatola aprono lo stesso lucchetto. Inoltre, i $10$ lucchetti hanno tutti chiavi diverse, e non esistono due scatole con la stessa coppia di chiavi. Qual è il numero minimo di scatole che Led deve portare con sé per garantire di poter aprire il portale?
 
+
 **Topic:** [[topic_combinatoria|Combinatoria]]
-**Metodo:** [[method_cassetti|Principio dei cassetti]], [[method_estremalita|Estremalità]], [[method_casework|Casework]]
+**Metodo:** [[method_cassetti|Principio dei cassetti]], [[method_estremalita|Estremalità]], [[method_casework|Casework]], [[method_grafi|Teoria dei grafi]]
 **Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
-
-[[Quesiti/src_obm_2013_n2_f2#q08|src_obm_2013_n2_f2__Q08]]
 
 
 
@@ -343,5 +329,3 @@ level: OBM Nível 2
 **Metodo:** [[method_trigonometria|Trigonometria]], [[method_casework|Casework]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Geometria]]
-
-[[Quesiti/src_obm_2013_n2_f2#q09|src_obm_2013_n2_f2__Q09]]

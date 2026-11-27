@@ -10,7 +10,7 @@ level: Concours Général
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_aritmetica,topic_combinatoria,method_fattorizzazione,method_congruenze,method_conteggio,method_disuguaglianze,method_telescoping,method_induzione,skill_manipolazione_algebrica,skill_lettura_attenta,skill_conteggio_sistematico,skill_stima,skill_astrazione"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_aritmetica,topic_combinatoria,topic_disuguaglianze,method_fattorizzazione,method_congruenze,method_conteggio,method_disuguaglianze,method_telescoping,method_induzione,skill_manipolazione_algebrica,skill_lettura_attenta,skill_conteggio_sistematico,skill_stima,skill_astrazione"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -90,10 +90,10 @@ level: Concours Général
 > 17. Deduce that there exists a natural number $k$ inferior or equal to $2\delta n$ such that each of the integers $mk+1, mk+2, \ldots, m(k+1)$ is pointed.
 > 18. Prove the property $\mathscr{P}$ introduced in the preamble of the statement.
 
-**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]], [[topic_disuguaglianze|Inequalities]]
 **Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_congruenze|Congruenze]], [[method_conteggio|Conteggio]], [[method_disuguaglianze|Disuguaglianze]], [[method_telescoping|Telescoping]], [[method_induzione|Induzione]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_stima|Stima]], [[skill_astrazione|Astrazione]]
-**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Algebra e Analisi|Algebra and analysis]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1gqclWWaTQPwXGISec96nuFGo_EJgQbQL/view)
 
 > [!warning] Estratto/tradotto da verificare con la fonte.
@@ -120,14 +120,14 @@ level: Concours Général
 > 
 > 1.4 Molti numeri puntati. In questa parte, consideriamo un numero naturale fisso non zero $n$. 14. Mostrare che esiste un intero $\ell \geq 2$ tale che, per ogni intero $n \geq 1$, l'insieme $D_\ell$ abbia al massimo $n$ elementi inferiori o uguali a $3$ (inferiori o uguali a $3\delta n$). In quanto segue, consideriamo tale numero intero $\ell$. 15. a. $n$ sia un numero naturale non zero. Indicare che, se $n$ non è puntato, allora $n$ appartiene a $A_\ell$ o a $D_\ell$. b. Mostrare che esistono almeno $n/2$ numeri naturali inferiori o uguali a $n$ che non sono puntati (inferiori o uguali a $3\delta n$). 16. Indicare che esiste un numero intero $n \geq 1$ tale da $\exp(\delta n)$ per ogni $n \geq 1$. 17. Deduire che esiste un numero naturale $k$ inferiore o uguale a $2\delta n$ in modo tale che ciascuno dei numeri interi $mk+1, mk+2, \ldots, m(k+1)$ sia puntato. 18. Provare la proprietà $\mathscr{P}$ introdotta nel preambolo della dichiarazione.
 
-[[Quesiti/src_cgen_2020#q01|src_cgen_2020__Q01]]
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]], [[topic_disuguaglianze|Disuguaglianze]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]], [[method_congruenze|Aritmetica modulare / congruenze]], [[method_conteggio|Conteggio combinatorio]], [[method_disuguaglianze|Disuguaglianze classiche]], [[method_telescoping|Somme telescopiche]], [[method_induzione|Induzione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta del testo]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_stima|Stima e approssimazione]], [[skill_astrazione|Astrazione / generalizzazione]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]], [[Algebra e Analisi]]
 
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_algebra,topic_funzionali,topic_insiemi_funzioni,method_disuguaglianze,method_estremalita,method_ricorsione,method_backward,skill_manipolazione_algebrica,skill_lettura_attenta,skill_astrazione,skill_stima"></span>
-
-<div class="qlang-switch" data-default="en"></div>
-
 
 *An explosive number: the sequence x_{n+1}=(1+1/x_n)^n with x_1=a; the function f_n(x)=(1+1/x)^n; an explosivity criterion; proving there is a unique explosive number via a contraction argument.*
 
@@ -200,8 +200,20 @@ level: Concours Général
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<div class="qlang-split" data-lang="it"></div>
 
+<span class="atom-split" id="q02__it" data-atom="q02__it" data-title="Q02__IT" data-tags=""></span>
+
+---
+tipo: quesito-translation
+translation_of: src_cgen_2020__Q02
+lang: it
+secondary: true
+title: "Concours Général des Lycées 2020  Matematica  Quesito 2"
+summary: "Numero esplosivo: la sequenza x_{n+1}=(1+1/x_n)^n con x_1=a; la funzione f_n(x)=(1+1/x)^n; un criterio di esplosività; dimostrando l'esistenza di un numero esplosivo unico tramite un argomento di contrazione."
+topics: [topic_algebra, topic_funzionali, topic_insiemi_funzioni]
+methods: [method_disuguaglianze, method_estremalita, method_ricorsione, method_backward]
+skills: [skill_manipolazione_algebrica, skill_lettura_attenta, skill_astrazione, skill_stima]
+tags: [kg/translation, topic/algebra, topic/funzionali, topic/insiemi_funzioni]---
 
 *Un numero esplosivo: la sequenza x_{n+1}=(1+1/x_n)^n con x_1=a; la funzione f_n(x)=(1+1/x)^n; un criterio di esplosività; dimostrando l'esistenza di un numero esplosivo unico tramite un argomento di contrazione.*
 
@@ -217,4 +229,8 @@ level: Concours Général
 > 
 > 2.3 Numero esplosivo unico. Lasciate che $r$ e $s$ siano due funzioni definite su $\mathbb{R}_+^*$ e tali che $s(x) > 0$ per tutte le $x > 0$. Indichiamo con $r \circ s$ la funzione definita su $\mathbb{R}_+^*$ con $r \circ s(x) = r(s(x))$ per tutti $x > 0$. Quindi impostamo $h_1 = f_1$ e $$h_n = f_n \circ h_{n-1} \quad \text{for every integer } n \geq 2.$$ Inoltre, indichiamo con $h_n[\mathbb{R}_+^*]$ l'insieme di reali $h_n(x)$ come $x$ corre su $\mathbb{R}_+^*$. 8. a. Indicare esplicitamente l'espressione di $h_2(x)$ per ogni $x > 0$ reale. b. Mostra che per ogni numero intero $n \geq 1$, la funzione $h_n$ è continua su $\mathbb{R}_+^*$. 9. a. Mostra che per ogni numero intero $n \geq 1$, la funzione $h_n$ è strettamente monotona su $\mathbb{R}_+^*$. b. Con l'aiuto del calcolatore e senza ulteriori giustificazioni, determinare valori approssimativi a $10^{-3}$ dei valori reali $a$ e $b$ in modo tale che $h_8[\mathbb{R}_+^*]$ sia l'intervallo corrispondente. Verificare che $a < e$ e $b > e$. c. Mostrare che per ogni intero $n \geq 9$, uno ha $e \in ]c, n] \subset h_{n-1}[\mathbb{R}_+^*]$. d. Deduci che, per ogni intero $n \geq 9$, uno ha $]a, n] \subset h_{n-1}[\mathbb{R}_+^*]$. Per ogni reale $n \geq 9$, imponiamo $J_n = [y_{n-1}, n/\ln(y_n)]$ e denonizziamo con $I_n$ l'insieme di reali rigorosamente positivi come $h_{n-1}(x) \in J_n$. 10. a. Mostrare che per ogni numero intero $n \geq 9$ esistono valori reali $a_n$ e $b_n$ tali da $J_n = ]a_n, b_n]$. b. Mostrare che per ogni numero intero $n \geq 9$, uno ha $J_{n+1} \subset J_n$. 11. a. Indicare che $a$ e $\beta$ sono esplosivi. b. Indicare che un singolo $x > 0$ è esplosivo se e solo se $a \leq x \leq b$. 12. a. Mostrare che per ogni intero $n \geq 9$ e per ogni reale $x \in I_n$, si ha $$|f_n'(x)| \geq \left|f_n\!\left(\frac{n}{\ln(x)}\right)\right|.$$ b. Deduci che, per ogni intero $n \geq 9$ e per ogni reale $x \in I_n$, si ha $$|f_n'(x)| \geq \frac{y_n\,[\ln(y_n)]^2}{n}\exp\!\left(-\frac{1 + \ln(y_n)}{n + \ln(y_n)}\ln(y_n)\right).$$ c. Indicare che $\displaystyle\lim_{n \to +\infty} \frac{y_n \ln(n)}{n} = 1$ e $\displaystyle\lim_{n \to +\infty} \frac{\ln(y_n)}{\ln(n)} = 1$. d. Deduci che esiste un $N > 9$ reale in modo tale che, per ogni intero $n \geq N$ e per ogni reale $x \in I_n$, si abbia $|f_n'(x)| \geq 2$. 13. In questa domanda, indichiamo con $N$ un tale intero. a. Dalla domanda 12.d si deduce che per ogni intero $n \geq N$ e per ogni reale $x \in I_n$ si ha $$|f_n(x) - f_n(y)| \geq 2|x - y|.$$ b. Mostrare che, se $a < \beta$, allora esiste un reale $C$ strettamente positivo tale che $|a_n - \beta_n| \geq C \times 2^n$ per ogni intero $n \geq N$. 14. a. Mostrare che esiste un numero esplosivo unico. b. Con l'aiuto del calcolatore e indicando l'algoritmo utilizzato, indicare un valore approssimativo di $a$ all'interno di $10^{-2}$.
 
+**Topic:** [[topic_algebra|Algebra]], [[topic_funzionali|Equazioni funzionali / successioni]], [[topic_insiemi_funzioni|Insiemi e funzioni]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze classiche]], [[method_estremalita|Principio di estremalita]], [[method_ricorsione|Ricorsione]], [[method_backward|Ragionamento all'indietro]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta del testo]], [[skill_astrazione|Astrazione / generalizzazione]], [[skill_stima|Stima e approssimazione]]
+**Area:** [[Algebra e Analisi]]
 [[Quesiti/src_cgen_2020#q02|src_cgen_2020__Q02]]

@@ -12,9 +12,6 @@ level: Concours Général
 
 <span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_geometria_piana,method_simmetria,skill_ragionamento_geometrico,skill_lettura_attenta"></span>
 
-<div class="qlang-switch" data-default="en"></div>
-
-
 *Geometric configuration: circles of diameter [AC] and [BC] tangent at C, homotheties between three circles, collinearity and radius relation*
 
 > Problem 1: A geometric configuration.
@@ -44,8 +41,20 @@ level: Concours Général
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<div class="qlang-split" data-lang="it"></div>
 
+<span class="atom-split" id="q01__it" data-atom="q01__it" data-title="Q01__IT" data-tags=""></span>
+
+---
+tipo: quesito-translation
+translation_of: src_cgen_2010__Q01
+lang: it
+secondary: true
+title: "Concours Général des Lycées 2010  Matematica  Quesito 1"
+summary: "Configurazione geometrica: cerchi di diametro [AC] e [BC] tangenti a C, omogeneità tra tre cerchi, collinearità e rapporto di raggio"
+topics: [topic_geometria_piana]
+methods: [method_simmetria]
+skills: [skill_ragionamento_geometrico, skill_lettura_attenta]
+tags: [kg/translation, topic/geometria_piana]---
 
 *Configurazione geometrica: cerchi di diametro [AC] e [BC] tangenti a C, omogeneità tra tre cerchi, collinearità e rapporto di raggio*
 
@@ -67,11 +76,15 @@ level: Concours Général
 > 
 > (Nota: la dichiarazione stampata utilizza diverse etichette di punti/cerchi che sono parzialmente illeggibili nella scansione sorgente; vedi avvertenze.)
 
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_simmetria|Sfruttamento della simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta del testo]]
+**Area:** [[Geometria]]
 [[Quesiti/src_cgen_2010#q01|src_cgen_2010__Q01]]
 
 
 
-<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_combinatoria,topic_geometria_piana,method_estremalita,method_conteggio,method_casework,skill_conteggio_sistematico,skill_riconoscimento_pattern,skill_lettura_attenta"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_combinatoria,topic_geometria_piana,method_estremalita,method_conteggio,method_casework,skill_conteggio_sistematico,skill_riconoscimento_pattern,skill_lettura_attenta,skill_ragionamento_geometrico"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -104,8 +117,8 @@ level: Concours Général
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_estremalita|Estremalità]], [[method_conteggio|Conteggio]], [[method_casework|Casework]]
-**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_lettura_attenta|Lettura attenta]]
-**Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_lettura_attenta|Lettura attenta]], [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Geometria|Geometry]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1un5c72q0Dhvv-U-lXEfjcCDMxsLeoLaa/view)
 
 > [!warning] Estratto/tradotto da verificare con la fonte.
@@ -140,11 +153,14 @@ level: Concours Général
 > 
 > (Nota: la formulazione precisa delle due condizioni è parzialmente illeggibile nella scansione sorgente; vedere gli avvertimenti.)
 
-[[Quesiti/src_cgen_2010#q02|src_cgen_2010__Q02]]
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_estremalita|Principio di estremalita]], [[method_conteggio|Conteggio combinatorio]], [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_lettura_attenta|Lettura attenta del testo]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 
 
 
-<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_probabilita,topic_algebra,topic_disuguaglianze,method_ricorsione,method_disuguaglianze,method_induzione,skill_manipolazione_algebrica,skill_modellizzazione,skill_lettura_attenta"></span>
+<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_probabilita,topic_algebra,topic_disuguaglianze,topic_funzionali,method_ricorsione,method_disuguaglianze,method_induzione,skill_manipolazione_algebrica,skill_modellizzazione,skill_lettura_attenta"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -197,10 +213,10 @@ level: Concours Général
 > 
 >    e. Which scenario seems to you the most pertinent?
 
-**Topic:** [[topic_probabilita|Probabilità]], [[topic_algebra|Algebra]], [[topic_disuguaglianze|Disuguaglianze]]
+**Topic:** [[topic_probabilita|Probabilità]], [[topic_algebra|Algebra]], [[topic_disuguaglianze|Disuguaglianze]], [[topic_funzionali|Functional equations / sequences]]
 **Metodo:** [[method_ricorsione|Ricorsione]], [[method_disuguaglianze|Disuguaglianze]], [[method_induzione|Induzione]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]], [[skill_lettura_attenta|Lettura attenta]]
-**Area:** [[Combinatoria, Logica e Probabilita]], [[Algebra e Analisi]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Algebra e Analisi|Algebra and analysis]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1un5c72q0Dhvv-U-lXEfjcCDMxsLeoLaa/view)
 
 > [!warning] Estratto/tradotto da verificare con la fonte.
@@ -253,4 +269,7 @@ level: Concours Général
 > 
 > e. Quale scenario ti sembra più pertinente?
 
-[[Quesiti/src_cgen_2010#q03|src_cgen_2010__Q03]]
+**Topic:** [[topic_probabilita|Probabilita e statistica]], [[topic_algebra|Algebra]], [[topic_disuguaglianze|Disuguaglianze]], [[topic_funzionali|Equazioni funzionali / successioni]]
+**Metodo:** [[method_ricorsione|Ricorsione]], [[method_disuguaglianze|Disuguaglianze classiche]], [[method_induzione|Induzione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_lettura_attenta|Lettura attenta del testo]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Algebra e Analisi]]

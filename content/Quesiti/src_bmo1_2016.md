@@ -10,7 +10,7 @@ level: BMO Round 1
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_aritmetica,topic_combinatoria,method_conteggio,method_casework,skill_lettura_attenta,skill_conteggio_sistematico"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_aritmetica,topic_combinatoria,method_conteggio,method_casework,method_congruenze,skill_lettura_attenta,skill_conteggio_sistematico"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -20,9 +20,9 @@ level: BMO Round 1
 > On Thursday 1st January 2015, Anna buys one book and one shelf. For the next two years, she buys one book every day and one shelf on alternate Thursdays, so she next buys a shelf on 15th January 2015. On how many days in the period Thursday 1st January 2015 until (and including) Saturday 31st December 2016 is it possible for Anna to put all her books on all her shelves, so that there is an equal number of books on each shelf?
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
-**Metodo:** [[method_conteggio|Conteggio]], [[method_casework|Casework]]
+**Metodo:** [[method_conteggio|Conteggio]], [[method_casework|Casework]], [[method_congruenze|Modular arithmetic / congruences]]
 **Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_conteggio_sistematico|Conteggio sistematico]]
-**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1mjMtuRlIxdxe_-PeWIk5ryhq3kUPxaMn/view)
 
 
@@ -33,12 +33,11 @@ level: BMO Round 1
 
 > Giovedì 1° gennaio 2015 Anna compra un libro e uno scaffale. Per i due anni successivi compra un libro ogni giorno e uno scaffale a giovedì alterni, così il prossimo scaffale lo compra il 15 gennaio 2015. In quanti giorni, nel periodo da giovedì 1° gennaio 2015 fino a sabato 31 dicembre 2016 compreso, è possibile che Anna metta tutti i suoi libri su tutti i suoi scaffali, con lo stesso numero di libri su ciascuno scaffale?
 
+
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
-**Metodo:** [[method_conteggio|Conteggio]], [[method_casework|Analisi per casi]]
+**Metodo:** [[method_conteggio|Conteggio]], [[method_casework|Analisi per casi]], [[method_congruenze|Aritmetica modulare / congruenze]]
 **Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Aritmetica e teoria dei numeri]], [[Combinatoria, Logica e Probabilita|Combinatoria, logica e probabilità]]
-
-[[Quesiti/src_bmo1_2016#q01|src_bmo1_2016__Q01]]
 
 
 
@@ -70,11 +69,9 @@ level: BMO Round 1
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria|Geometria]]
 
-[[Quesiti/src_bmo1_2016#q02|src_bmo1_2016__Q02]]
 
 
-
-<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_algebra,topic_aritmetica,method_fattorizzazione,method_ricorsione,skill_manipolazione_algebrica,skill_riconoscimento_pattern"></span>
+<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_algebra,topic_aritmetica,topic_funzionali,method_fattorizzazione,method_ricorsione,skill_manipolazione_algebrica,skill_riconoscimento_pattern"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -83,10 +80,10 @@ level: BMO Round 1
 
 > Suppose that a sequence $t_0, t_1, t_2, \ldots$ is defined by a formula $t_n = An^2 + Bn + C$ for all integers $n \ge 0$. Here $A$, $B$ and $C$ are real constants with $A \neq 0$. Determine values of $A$, $B$ and $C$ which give the greatest possible number of successive terms of the sequence which are also successive terms of the Fibonacci sequence. The Fibonacci sequence is defined by $F_0 = 0$, $F_1 = 1$ and $F_m = F_{m-1} + F_{m-2}$ for $m \ge 2$.
 
-**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_funzionali|Functional equations / sequences]]
 **Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_ricorsione|Ricorsione]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
-**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1mjMtuRlIxdxe_-PeWIk5ryhq3kUPxaMn/view)
 
 
@@ -97,16 +94,15 @@ level: BMO Round 1
 
 > Si supponga che una successione $t_0, t_1, t_2, \ldots$ sia definita da una formula $t_n = An^2 + Bn + C$ per ogni intero $n \ge 0$. Qui $A$, $B$ e $C$ sono costanti reali con $A \neq 0$. Determinare valori di $A$, $B$ e $C$ che diano il massimo numero possibile di termini successivi della successione che siano anche termini successivi della successione di Fibonacci. La successione di Fibonacci è definita da $F_0 = 0$, $F_1 = 1$ e $F_m = F_{m-1} + F_{m-2}$ per $m \ge 2$.
 
-**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_funzionali|Equazioni funzionali / successioni]]
 **Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_ricorsione|Ricorsione]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Algebra e Analisi|Algebra e analisi]], [[Aritmetica e Teoria dei Numeri|Aritmetica e teoria dei numeri]]
 
-[[Quesiti/src_bmo1_2016#q03|src_bmo1_2016__Q03]]
 
 
-
-<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_combinatoria,method_estremalita,method_casework,skill_conteggio_sistematico,skill_astrazione"></span>
+<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_combinatoria,topic_logica,method_estremalita,method_casework,method_grafi,skill_conteggio_sistematico,skill_astrazione"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -121,10 +117,10 @@ level: BMO Round 1
 > 
 > What is the maximum number of moves that James can make?
 
-**Topic:** [[topic_combinatoria|Combinatoria]]
-**Metodo:** [[method_estremalita|Estremalità]], [[method_casework|Casework]]
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_logica|Logic, games and strategies]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_casework|Casework]], [[method_grafi|Graph theory]]
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_astrazione|Astrazione]]
-**Area:** [[Combinatoria, Logica e Probabilita]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1mjMtuRlIxdxe_-PeWIk5ryhq3kUPxaMn/view)
 
 
@@ -141,12 +137,11 @@ level: BMO Round 1
 >
 > Qual è il massimo numero di mosse che James può fare?
 
-**Topic:** [[topic_combinatoria|Combinatoria]]
-**Metodo:** [[method_estremalita|Estremalità]], [[method_casework|Analisi per casi]]
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_logica|Logica, giochi, strategie]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_casework|Analisi per casi]], [[method_grafi|Teoria dei grafi]]
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_astrazione|Astrazione]]
 **Area:** [[Combinatoria, Logica e Probabilita|Combinatoria, logica e probabilità]]
-
-[[Quesiti/src_bmo1_2016#q04|src_bmo1_2016__Q04]]
 
 
 
@@ -178,8 +173,6 @@ level: BMO Round 1
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria|Geometria]]
 
-[[Quesiti/src_bmo1_2016#q05|src_bmo1_2016__Q05]]
-
 
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_aritmetica,topic_combinatoria,method_induzione,method_casework,skill_manipolazione_algebrica,skill_conteggio_sistematico"></span>
@@ -209,5 +202,3 @@ level: BMO Round 1
 **Metodo:** [[method_induzione|Induzione]], [[method_casework|Analisi per casi]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Aritmetica e teoria dei numeri]], [[Combinatoria, Logica e Probabilita|Combinatoria, logica e probabilità]]
-
-[[Quesiti/src_bmo1_2016#q06|src_bmo1_2016__Q06]]

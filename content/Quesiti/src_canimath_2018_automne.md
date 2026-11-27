@@ -10,7 +10,7 @@ level: Coupe Animath Automne
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_aritmetica,topic_combinatoria,method_casework,method_estremalita,skill_modellizzazione,skill_lettura_attenta,skill_ragionamento_geometrico"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_aritmetica,topic_combinatoria,method_casework,method_estremalita,method_cassetti,skill_modellizzazione,skill_lettura_attenta,skill_ragionamento_geometrico"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -20,9 +20,9 @@ level: Coupe Animath Automne
 > We distribute $2018$ pieces into $b$ boxes, and then distribute these $b$ boxes into $n$ houses, in such a way that each house receives strictly fewer than $b$ boxes. Is it possible that each box contains at least $n$ pieces?
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
-**Metodo:** [[method_casework|Casework]], [[method_estremalita|Estremalità]]
+**Metodo:** [[method_casework|Casework]], [[method_estremalita|Estremalità]], [[method_cassetti|Pigeonhole principle]]
 **Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_lettura_attenta|Lettura attenta]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
-**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1FvpmKLPI8AJUJp8i-Em3rSHft0JO6cZN/view)
 
 
@@ -33,14 +33,14 @@ Distribuire i pezzi 2018 nelle scatole b in n case; la scatola contiene almeno n
 
 > Distribuiamo i pezzi $2018$ in scatole $b$, e poi distribuiamo queste scatole $b$ in case $n$, in modo tale che ogni casa riceva strettamente meno di scatole $b$. È possibile che ciascuna scatola contenga almeno $n$ pezzi?
 
-[[Quesiti/src_canimath_2018_automne#q01|src_canimath_2018_automne__Q01]]
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casework|Analisi per casi]], [[method_estremalita|Principio di estremalita]], [[method_cassetti|Principio dei cassetti]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_lettura_attenta|Lettura attenta del testo]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_geometria_piana,topic_aritmetica,method_coordinate,method_simmetria,skill_ragionamento_geometrico,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
-
-<div class="qlang-switch" data-default="en"></div>
-
 
 *Triangle ABC, interior point O, sum of three parallel-line ratios equals 1*
 
@@ -55,22 +55,35 @@ Distribuire i pezzi 2018 nelle scatole b in n case; la scatola contiene almeno n
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1FvpmKLPI8AJUJp8i-Em3rSHft0JO6cZN/view)
 
 
-<div class="qlang-split" data-lang="it"></div>
 
+<span class="atom-split" id="q02__it" data-atom="q02__it" data-title="Q02__IT" data-tags=""></span>
+
+---
+tipo: quesito-translation
+translation_of: src_canimath_2018_automne__Q02
+lang: it
+secondary: true
+title: "Coupe Animath Automne 2018  Quesito 2"
+summary: "Triangolo ABC, punto interno O, somma di tre rapporti di linea parallela uguale a 1"
+topics: [topic_geometria_piana, topic_aritmetica]
+methods: [method_coordinate, method_simmetria]
+skills: [skill_ragionamento_geometrico, skill_manipolazione_algebrica, skill_lettura_attenta]
+tags: [kg/translation, topic/geometria_piana, topic/aritmetica]---
 
 *Triangolo ABC, punto interno O, somma di tre rapporti di linea parallela uguale a 1*
 
 > Che $ABC$ sia un triangolo e $O$ un punto all'interno di questo triangolo. La linea parallela a $(BC)$ che attraversa $O$ incontra $(CA)$ a $D$ e $(AB)$ a $E$. La linea parallela a $(CA)$ che attraversa $O$ incontra $(BC)$ a $F$. Qual è il valore della somma seguente? $$\frac{BF}{BC} + \frac{AE}{AB} + \frac{CD}{AC}$$
 
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_coordinate|Metodo delle coordinate]], [[method_simmetria|Sfruttamento della simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta del testo]]
+**Area:** [[Geometria]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 1
 [[Quesiti/src_canimath_2018_automne#q02|src_canimath_2018_automne__Q02]]
 
 
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_aritmetica,method_congruenze,method_casework,skill_manipolazione_algebrica,skill_conteggio_sistematico,skill_lettura_attenta"></span>
-
-<div class="qlang-switch" data-default="en"></div>
-
 
 *9-digit number 30x070y03 divisible by 37, find digit pairs (x,y)*
 
@@ -83,18 +96,34 @@ Distribuire i pezzi 2018 nelle scatole b in n case; la scatola contiene almeno n
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1FvpmKLPI8AJUJp8i-Em3rSHft0JO6cZN/view)
 
 
-<div class="qlang-split" data-lang="it"></div>
 
+<span class="atom-split" id="q03__it" data-atom="q03__it" data-title="Q03__IT" data-tags=""></span>
+
+---
+tipo: quesito-translation
+translation_of: src_canimath_2018_automne__Q03
+lang: it
+secondary: true
+title: "Coupe Animath Automne 2018  Quesito 3"
+summary: "Numero a 9 cifre 30x070y03 divisibile per 37, trovare coppie di cifre (x,y)"
+topics: [topic_aritmetica]
+methods: [method_congruenze, method_casework]
+skills: [skill_manipolazione_algebrica, skill_conteggio_sistematico, skill_lettura_attenta]
+tags: [kg/translation, topic/aritmetica]---
 
 *numero a 9 cifre 30x070y03 divisibile per 37, trovare coppie di cifre (x,y)*
 
 > Considerare il numero $N$ scritto come $\overline{30x070y03}$, dove $x$ e $y$ sono numeri da $0$ a $9$. Per quali valori di $(x, y)$ è $N$ divisibile da $37$?
 
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]], [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta del testo]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
 [[Quesiti/src_canimath_2018_automne#q03|src_canimath_2018_automne__Q03]]
 
 
 
-<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_combinatoria,method_doppio_conteggio,method_estremalita,method_grafi,skill_modellizzazione,skill_ragionamento_geometrico,skill_riconoscimento_pattern,skill_lettura_attenta"></span>
+<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_combinatoria,method_doppio_conteggio,method_estremalita,method_grafi,method_colorazione,skill_modellizzazione,skill_ragionamento_geometrico,skill_riconoscimento_pattern,skill_lettura_attenta"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -104,9 +133,9 @@ Distribuire i pezzi 2018 nelle scatole b in n case; la scatola contiene almeno n
 > Grey, white, and brown rabbits are seated in a circle. Alice asks all white rabbits that have at least one brown neighbour to give $20$ moustaches to each of their brown neighbours; she asks all grey rabbits that have at least one white neighbour to give $25$ moustaches to each of their white neighbours. Show that one of the rabbits that moved its moustaches actually has two brown neighbours.
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
-**Metodo:** [[method_doppio_conteggio|Doppio conteggio]], [[method_estremalita|Estremalità]], [[method_grafi|Grafi]]
+**Metodo:** [[method_doppio_conteggio|Doppio conteggio]], [[method_estremalita|Estremalità]], [[method_grafi|Grafi]], [[method_colorazione|Colouring / parity]]
 **Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_lettura_attenta|Lettura attenta]]
-**Area:** [[Combinatoria, Logica e Probabilita]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1FvpmKLPI8AJUJp8i-Em3rSHft0JO6cZN/view)
 
 
@@ -117,14 +146,14 @@ Distribuire i pezzi 2018 nelle scatole b in n case; la scatola contiene almeno n
 
 > I conigli grigi, bianchi e marroni sono seduti in cerchio. Alice chiede a tutti i conigli bianchi che hanno almeno un vicino marrone di dare i baffi $20$ a ciascuno dei loro vicini marroni; chiede a tutti i conigli grigi che hanno almeno un vicino bianco di dare i baffi $25$ a ciascuno dei loro vicini bianchi. Mostrate che uno dei conigli che ha spostato i baffi ha in realtà due vicini marroni.
 
-[[Quesiti/src_canimath_2018_automne#q04|src_canimath_2018_automne__Q04]]
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_doppio_conteggio|Doppio conteggio]], [[method_estremalita|Principio di estremalita]], [[method_grafi|Teoria dei grafi]], [[method_colorazione|Colorazione / parita]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_lettura_attenta|Lettura attenta del testo]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
 
 
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_geometria_piana,method_simmetria,method_trigonometria,skill_ragionamento_geometrico,skill_lettura_attenta,skill_manipolazione_algebrica"></span>
-
-<div class="qlang-switch" data-default="en"></div>
-
 
 *Convex quadrilateral ABCD, specific angles, MD=NB; find angle MNB*
 
@@ -137,21 +166,34 @@ Distribuire i pezzi 2018 nelle scatole b in n case; la scatola contiene almeno n
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1FvpmKLPI8AJUJp8i-Em3rSHft0JO6cZN/view)
 
 
-<div class="qlang-split" data-lang="it"></div>
 
+<span class="atom-split" id="q05__it" data-atom="q05__it" data-title="Q05__IT" data-tags=""></span>
+
+---
+tipo: quesito-translation
+translation_of: src_canimath_2018_automne__Q05
+lang: it
+secondary: true
+title: "Coupe Animath Automne 2018  Quesito 5"
+summary: "ABCD quadrilaterale convexa, angoli specifici, MD=NB; angolo di ricerca MNB"
+topics: [topic_geometria_piana]
+methods: [method_simmetria, method_trigonometria]
+skills: [skill_ragionamento_geometrico, skill_lettura_attenta, skill_manipolazione_algebrica]
+tags: [kg/translation, topic/geometria_piana]---
 
 *ABCD quadrilaterale convexa, angoli specifici, MD=NB; angolo di ricerca MNB*
 
 > Il $ABCD$ deve essere un quadrilaterale convesso con $\widehat{ABC} = 90^\circ$, $\widehat{BAD} = \widehat{ADC} = 80^\circ$. Il punto $M$ e il punto $N$ devono essere punti su $[AD]$ e $[BC]$ rispettivamente in modo tale che $\widehat{CDN} = \widehat{ABM} = 20^\circ$. Supponiamo inoltre che $MD = NB$. Che cos'è $\widehat{MNB}$?
 
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_simmetria|Sfruttamento della simmetria]], [[method_trigonometria|Tecniche trigonometriche]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta del testo]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
 [[Quesiti/src_canimath_2018_automne#q05|src_canimath_2018_automne__Q05]]
 
 
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_aritmetica,method_fattorizzazione,method_induzione,method_congruenze,skill_manipolazione_algebrica,skill_lettura_attenta,skill_astrazione"></span>
-
-<div class="qlang-switch" data-default="en"></div>
-
 
 *Prime p divides product of (k^3+1); prove p ≤ n+1*
 
@@ -166,21 +208,34 @@ Distribuire i pezzi 2018 nelle scatole b in n case; la scatola contiene almeno n
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1FvpmKLPI8AJUJp8i-Em3rSHft0JO6cZN/view)
 
 
-<div class="qlang-split" data-lang="it"></div>
 
+<span class="atom-split" id="q06__it" data-atom="q06__it" data-title="Q06__IT" data-tags=""></span>
+
+---
+tipo: quesito-translation
+translation_of: src_canimath_2018_automne__Q06
+lang: it
+secondary: true
+title: "Coupe Animath Automne 2018  Quesito 6"
+summary: "Prima p divide il prodotto di (k^3+1); prova p ≤ n+1"
+topics: [topic_aritmetica]
+methods: [method_fattorizzazione, method_induzione, method_congruenze]
+skills: [skill_manipolazione_algebrica, skill_lettura_attenta, skill_astrazione]
+tags: [kg/translation, topic/aritmetica]---
 
 *Il primo p divide il prodotto di (k^3+1); prova p ≤ n+1*
 
 > $n$ sia un numero intero rigorosamente positivo. $p$ sia un numero primo tale che $$p \mid (1^3 + 1)(2^3 + 1)(3^3 + 1)\cdots((n-1)^3 + 1)(n^3 + 1).$$ Mostri che $p \le n + 1$.
 
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]], [[method_induzione|Induzione]], [[method_congruenze|Aritmetica modulare / congruenze]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta del testo]], [[skill_astrazione|Astrazione / generalizzazione]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
 [[Quesiti/src_canimath_2018_automne#q06|src_canimath_2018_automne__Q06]]
 
 
 
 <span class="atom-split" id="q07" data-atom="q07" data-title="Quesito 7" data-tags="topic_combinatoria,topic_logica,method_invarianti,method_colorazione,method_casework,skill_modellizzazione,skill_ragionamento_geometrico,skill_riconoscimento_pattern,skill_lettura_attenta"></span>
-
-<div class="qlang-switch" data-default="en"></div>
-
 
 *Fly vs k spiders on 2018×2018 grid; safe starting cells for fly*
 
@@ -197,8 +252,20 @@ Distribuire i pezzi 2018 nelle scatole b in n case; la scatola contiene almeno n
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1FvpmKLPI8AJUJp8i-Em3rSHft0JO6cZN/view)
 
 
-<div class="qlang-split" data-lang="it"></div>
 
+<span class="atom-split" id="q07__it" data-atom="q07__it" data-title="Q07__IT" data-tags=""></span>
+
+---
+tipo: quesito-translation
+translation_of: src_canimath_2018_automne__Q07
+lang: it
+secondary: true
+title: "Coupe Animath Automne 2018  Quesito 7"
+summary: "Fly vs k ragni sulla griglia 2018×2018; cellule di partenza sicure per la mosca"
+topics: [topic_combinatoria, topic_logica]
+methods: [method_invarianti, method_colorazione, method_casework]
+skills: [skill_modellizzazione, skill_ragionamento_geometrico, skill_riconoscimento_pattern, skill_lettura_attenta]
+tags: [kg/translation, topic/combinatoria, topic/logica]---
 
 *Fly vs k spider sulla griglia 2018×2018; cellule di partenza sicure per le mosche*
 
@@ -208,14 +275,15 @@ Distribuire i pezzi 2018 nelle scatole b in n case; la scatola contiene almeno n
 > 
 > (b) Se si sostituisce la griglia $2018 \times 2018$ con una griglia $2018 \times 2018 \times 2018$ (cellule adiacenti quando si condivide una faccia), cosa cambia?
 
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_logica|Logica, giochi, strategie]]
+**Metodo:** [[method_invarianti|Invarianti / monovarianti]], [[method_colorazione|Colorazione / parita]], [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_lettura_attenta|Lettura attenta del testo]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
 [[Quesiti/src_canimath_2018_automne#q07|src_canimath_2018_automne__Q07]]
 
 
 
 <span class="atom-split" id="q08" data-atom="q08" data-title="Quesito 8" data-tags="topic_insiemi_funzioni,topic_disuguaglianze,topic_funzionali,method_casework,method_simmetria,method_estremalita,skill_manipolazione_algebrica,skill_astrazione,skill_lettura_attenta"></span>
-
-<div class="qlang-switch" data-default="en"></div>
-
 
 *Find all functions f: R∗→R satisfying af(x/y)+af(x/z)−f(x)f((y+z)/2)≥a²*
 
@@ -229,11 +297,27 @@ Distribuire i pezzi 2018 nelle scatole b in n case; la scatola contiene almeno n
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1FvpmKLPI8AJUJp8i-Em3rSHft0JO6cZN/view)
 
 
-<div class="qlang-split" data-lang="it"></div>
 
+<span class="atom-split" id="q08__it" data-atom="q08__it" data-title="Q08__IT" data-tags=""></span>
+
+---
+tipo: quesito-translation
+translation_of: src_canimath_2018_automne__Q08
+lang: it
+secondary: true
+title: "Coupe Animath Automne 2018  Quesito 8"
+summary: "Trova tutte le funzioni f: R*→R soddisfacendo af(x/y) +af(x/z)−f(x)f(y+z)/2)≥a2"
+topics: [topic_insiemi_funzioni, topic_disuguaglianze, topic_funzionali]
+methods: [method_casework, method_simmetria, method_estremalita]
+skills: [skill_manipolazione_algebrica, skill_astrazione, skill_lettura_attenta]
+tags: [kg/translation, topic/insiemi_funzioni, topic/disuguaglianze, topic/funzionali]---
 
 *Ricerca tutte le funzioni f: R∗→R soddisfacente af(x/y) +af(x/z)−f(x) f(y+z)/2)≥a2*
 
 > Let $a \in \mathbb{R}$. Trova tutte le funzioni $f : \mathbb{R}^* \to \mathbb{R}$ in modo tale che, per tutte $x, y, z \in \mathbb{R}^*$, $$af\!\left(\frac{x}{y}\right) + af\!\left(\frac{x}{z}\right) - f(x)\,f\!\left(\frac{y+z}{2}\right) \ge a^2.$$
 
+**Topic:** [[topic_insiemi_funzioni|Insiemi e funzioni]], [[topic_disuguaglianze|Disuguaglianze]], [[topic_funzionali|Equazioni funzionali / successioni]]
+**Metodo:** [[method_casework|Analisi per casi]], [[method_simmetria|Sfruttamento della simmetria]], [[method_estremalita|Principio di estremalita]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione / generalizzazione]], [[skill_lettura_attenta|Lettura attenta del testo]]
+**Area:** [[Algebra e Analisi]]
 [[Quesiti/src_canimath_2018_automne#q08|src_canimath_2018_automne__Q08]]

@@ -21,7 +21,7 @@ level: Giochi d'Autunno
 > Francesco vuole andare dal punto A al punto B del labirinto del disegno seguendo il percorso più corto possibile e potendosi muovere solo in orizzontale o in verticale. Non può naturalmente attraversare i muri (segnati con una linea più grossa nel disegno) e dei muri devono restare al di fuori.
 > Quanti quadratini dovrà allora attraversare (senza contare quelli di A e di B)?
 
-![[src_bocconi_autunno_2010__q01.png]]
+![[src_bocconi_autunno_2010__Q01.png]]
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_logica|Logica]]
 **Metodo:** [[method_conteggio|Conteggio]], [[method_casework|Casework]]
@@ -39,18 +39,16 @@ level: Giochi d'Autunno
 > The Labyrinth of 2011
 > Francesco wants to go from point A to point B in the drawing's maze, following the shortest possible path and being able to move only horizontally or vertically. Naturally, he cannot pass through the walls (marked with a thicker line in the drawing), and some walls must remain outside. How many small squares will he then have to cross (not counting those at A and B)?
 
-![[src_bocconi_autunno_2010__q01.png]]
+![[src_bocconi_autunno_2010__Q01.png]]
 
 **Topic:** [[topic_combinatoria|Combinatorics]], [[topic_logica|Logic, games, strategies]]
 **Metodo:** [[method_conteggio|Combinatorial counting]], [[method_casework|Case analysis]]
 **Abilita:** [[skill_conteggio_sistematico|Systematic counting]], [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_lettura_attenta|Careful reading of the text]]
 **Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
-[[Quesiti/src_bocconi_autunno_2010#q01|src_bocconi_autunno_2010__Q01]]
 
 
-
-<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_aritmetica,method_fattorizzazione,method_casework,skill_riconoscimento_pattern,skill_manipolazione_algebrica"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_aritmetica,method_fattorizzazione,method_casework,skill_riconoscimento_pattern,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -63,7 +61,7 @@ level: Giochi d'Autunno
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_casework|Casework]]
-**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta del testo]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 7
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1emH1RgLOF76eK0UsDESoK-QkReDUWdtV/view)
@@ -77,12 +75,11 @@ level: Giochi d'Autunno
 > Chiara's Age
 > Chiara has two younger brothers. The product of the ages of the three children is 35, and their sum is 13. How old is Chiara?
 
+
 **Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
 **Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]], [[method_casework|Case analysis]]
-**Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]], [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_lettura_attenta|Careful reading of the text]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
-
-[[Quesiti/src_bocconi_autunno_2010#q02|src_bocconi_autunno_2010__Q02]]
 
 
 
@@ -121,8 +118,6 @@ level: Giochi d'Autunno
 **Abilita:** [[skill_lettura_attenta|Careful reading of the text]], [[skill_casework_accurato|Careful case analysis]]
 **Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
-[[Quesiti/src_bocconi_autunno_2010#q03|src_bocconi_autunno_2010__Q03]]
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_combinatoria,topic_aritmetica,method_ricorsione,method_conteggio,skill_riconoscimento_pattern,skill_conteggio_sistematico,skill_lettura_attenta"></span>
@@ -136,7 +131,7 @@ level: Giochi d'Autunno
 > Debora si è appassionata ad un gioco con i fiammiferi in cui segue meticolosamente alcune regole. Alla prima mossa mette un fiammifero sul tavolo. Nella seconda, alle sue estremità appoggia due nuovi fiammiferi (sul loro punto di mezzo). Con la terza mossa, appoggia (sempre nel loro punto medio) 4 nuovi fiammiferi alle 4 estremità libere. Quando due estremità risultano molto vicine, come per esempio nelle situazioni indicate sulla figura con delle frecce, queste non possono quindi "ospitare" nuovi fiammiferi. Nella quarta mossa continua il gioco con 4 nuovi fiammiferi.
 > Quanti fiammiferi ci saranno sul tavolo dopo la sesta mossa?
 
-![[src_bocconi_autunno_2010__q04.png]]
+![[src_bocconi_autunno_2010__Q04.png]]
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_ricorsione|Ricorsione]], [[method_conteggio|Conteggio]]
@@ -154,18 +149,16 @@ level: Giochi d'Autunno
 > WITH MATCHES
 > Debora has become fond of a matchstick game in which she meticulously follows certain rules. On the first move, she places one matchstick on the table. On the second move, she places two new matchsticks on its ends (at their midpoints). On the third move, she places 4 new matchsticks (again at their midpoints) on the 4 free ends. When two ends end up very close to each other—as, for example, in the situations indicated by arrows in the figure—they cannot therefore "host" new matchsticks. On the fourth move, she continues the game with 4 new matchsticks. How many matchsticks will be on the table after the sixth move?
 
-![[src_bocconi_autunno_2010__q04.png]]
+![[src_bocconi_autunno_2010__Q04.png]]
 
 **Topic:** [[topic_combinatoria|Combinatorics]], [[topic_aritmetica|Arithmetic / Number theory]]
 **Metodo:** [[method_ricorsione|Recursion]], [[method_conteggio|Combinatorial counting]]
 **Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]], [[skill_conteggio_sistematico|Systematic counting]], [[skill_lettura_attenta|Careful reading of the text]]
 **Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
-[[Quesiti/src_bocconi_autunno_2010#q04|src_bocconi_autunno_2010__Q04]]
 
 
-
-<span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_combinatoria,topic_aritmetica,method_casework,skill_conteggio_sistematico,skill_casework_accurato"></span>
+<span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_combinatoria,topic_aritmetica,method_casework,skill_conteggio_sistematico,skill_casework_accurato,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -178,11 +171,11 @@ level: Giochi d'Autunno
 > • la somma dei quattro numeri di ogni riga sia sempre la stessa;
 > • i numeri della riga superiore siano ordinati dal minore al maggiore (da sinistra a destra).
 
-![[src_bocconi_autunno_2010__q05.png]]
+![[src_bocconi_autunno_2010__Q05.png]]
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_casework|Casework]]
-**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** riga superiore 1 4 6 7; riga inferiore 8 5 3 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1emH1RgLOF76eK0UsDESoK-QkReDUWdtV/view)
@@ -196,18 +189,17 @@ level: Giochi d'Autunno
 > A Magic Rectangle
 > Write all the integers from 1 to 8 in the boxes of the rectangle so that: • the sum of the two numbers in each column is always the same; • the sum of the four numbers in each row is always the same; • the numbers in the top row are arranged from smallest to largest (from left to right).
 
-![[src_bocconi_autunno_2010__q05.png]]
+![[src_bocconi_autunno_2010__Q05.png]]
+
 
 **Topic:** [[topic_combinatoria|Combinatorics]], [[topic_aritmetica|Arithmetic / Number theory]]
 **Metodo:** [[method_casework|Case analysis]]
-**Abilita:** [[skill_conteggio_sistematico|Systematic counting]], [[skill_casework_accurato|Careful case analysis]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]], [[skill_casework_accurato|Careful case analysis]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
 **Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
-[[Quesiti/src_bocconi_autunno_2010#q05|src_bocconi_autunno_2010__Q05]]
 
 
-
-<span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_aritmetica,topic_combinatoria,method_casework,skill_conteggio_sistematico,skill_casework_accurato"></span>
+<span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_aritmetica,topic_combinatoria,method_casework,skill_conteggio_sistematico,skill_casework_accurato,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -221,7 +213,7 @@ level: Giochi d'Autunno
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_casework|Casework]]
-**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 59 o 68
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1emH1RgLOF76eK0UsDESoK-QkReDUWdtV/view)
@@ -235,12 +227,11 @@ level: Giochi d'Autunno
 > Two Equal Sums
 > $103 + \_\ \_ = \_\ 2 + \_\ \_ + 4$ In the two sides of the equation, replace the dashes with all the digits from 5 to 9 in such a way that the equation holds. What number should be added to 103? (The problem has more than one solution; only one must be given.)
 
+
 **Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_combinatoria|Combinatorics]]
 **Metodo:** [[method_casework|Case analysis]]
-**Abilita:** [[skill_conteggio_sistematico|Systematic counting]], [[skill_casework_accurato|Careful case analysis]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]], [[skill_casework_accurato|Careful case analysis]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
-
-[[Quesiti/src_bocconi_autunno_2010#q06|src_bocconi_autunno_2010__Q06]]
 
 
 
@@ -281,8 +272,6 @@ level: Giochi d'Autunno
 **Abilita:** [[skill_lettura_attenta|Careful reading of the text]], [[skill_casework_accurato|Careful case analysis]]
 **Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
-[[Quesiti/src_bocconi_autunno_2010#q07|src_bocconi_autunno_2010__Q07]]
-
 
 
 <span class="atom-split" id="q08" data-atom="q08" data-title="Quesito 8" data-tags="topic_algebra,topic_aritmetica,skill_manipolazione_algebrica,skill_modellizzazione"></span>
@@ -315,8 +304,6 @@ level: Giochi d'Autunno
 **Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_modellizzazione|Modelling / translating the text]]
 **Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
-[[Quesiti/src_bocconi_autunno_2010#q08|src_bocconi_autunno_2010__Q08]]
-
 
 
 <span class="atom-split" id="q09" data-atom="q09" data-title="Quesito 9" data-tags="topic_geometria_piana,topic_combinatoria,method_simmetria,method_casework,skill_ragionamento_geometrico,skill_astrazione"></span>
@@ -329,7 +316,7 @@ level: Giochi d'Autunno
 > IL DÉCOUPAGE DELL'AUTUNNO 2010
 > Forza! Dividete la figura in tre parti della stessa forma e di uguale dimensione (le tre parti devono cioè essere completamente sovrapponibili, anche eventualmente mediante qualche rotazione o ribaltamento).
 
-![[src_bocconi_autunno_2010__q09.png]]
+![[src_bocconi_autunno_2010__Q09.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_simmetria|Simmetria]], [[method_casework|Casework]]
@@ -346,14 +333,12 @@ level: Giochi d'Autunno
 > The Scheduling for Autumn 2010
 > Come on! Divide the figure into three parts of the same shape and the same size (that is, the three parts must be completely superposable, possibly by means of some rotation or reflection).
 
-![[src_bocconi_autunno_2010__q09.png]]
+![[src_bocconi_autunno_2010__Q09.png]]
 
 **Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_combinatoria|Combinatorics]]
 **Metodo:** [[method_simmetria|Using symmetry]], [[method_casework|Case analysis]]
 **Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_astrazione|Abstraction / generalisation]]
 **Area:** [[Geometria|Geometry]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
-
-[[Quesiti/src_bocconi_autunno_2010#q09|src_bocconi_autunno_2010__Q09]]
 
 
 
@@ -388,8 +373,6 @@ level: Giochi d'Autunno
 **Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]], [[skill_casework_accurato|Careful case analysis]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
-[[Quesiti/src_bocconi_autunno_2010#q10|src_bocconi_autunno_2010__Q10]]
-
 
 
 <span class="atom-split" id="q11" data-atom="q11" data-title="Quesito 11" data-tags="topic_aritmetica,topic_algebra,skill_manipolazione_algebrica,skill_modellizzazione"></span>
@@ -421,8 +404,6 @@ level: Giochi d'Autunno
 **Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_algebra|Algebra]]
 **Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_modellizzazione|Modelling / translating the text]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Algebra e Analisi|Algebra and analysis]]
-
-[[Quesiti/src_bocconi_autunno_2010#q11|src_bocconi_autunno_2010__Q11]]
 
 
 
@@ -458,8 +439,6 @@ level: Giochi d'Autunno
 **Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_modellizzazione|Modelling / translating the text]], [[skill_stima|Estimation and approximation]]
 **Area:** [[Geometria|Geometry]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
-[[Quesiti/src_bocconi_autunno_2010#q12|src_bocconi_autunno_2010__Q12]]
-
 
 
 <span class="atom-split" id="q13" data-atom="q13" data-title="Quesito 13" data-tags="topic_geometria_piana,topic_aritmetica,method_congruenze,method_casework,skill_ragionamento_geometrico,skill_riconoscimento_pattern"></span>
@@ -473,7 +452,7 @@ level: Giochi d'Autunno
 > Partendo da A, tracciate come in figura un segmento di 5 cm. Poi, rispetto a questa direzione, "girate" in senso orario di x gradi sessagesimali (con x numero intero positivo). Tracciate un altro segmento di 5 cm e ripetete, come in figura, l'operazione di "girare" in senso orario di x gradi. Continuate così fino a ritornare al punto A.
 > Quanto vale, al massimo, x ?
 
-![[src_bocconi_autunno_2010__q13.png]]
+![[src_bocconi_autunno_2010__Q13.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_congruenze|Congruenze]], [[method_casework|Casework]]
@@ -491,14 +470,12 @@ level: Giochi d'Autunno
 > Polygonal Traces
 > Starting from A, draw a 5 cm line segment as shown in the figure. Then, relative to this direction, "rotate" clockwise by x sexagesimal degrees (where x is a positive integer). Draw another 5 cm line segment and, as shown in the figure, repeat the operation of "rotating" clockwise by x degrees. Continue in this way until you return to point A. What is the maximum possible value of x?
 
-![[src_bocconi_autunno_2010__q13.png]]
+![[src_bocconi_autunno_2010__Q13.png]]
 
 **Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_aritmetica|Arithmetic / Number theory]]
 **Metodo:** [[method_congruenze|Modular arithmetic / congruences]], [[method_casework|Case analysis]]
 **Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_riconoscimento_pattern|Pattern recognition]]
 **Area:** [[Geometria|Geometry]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
-
-[[Quesiti/src_bocconi_autunno_2010#q13|src_bocconi_autunno_2010__Q13]]
 
 
 
@@ -531,11 +508,9 @@ level: Giochi d'Autunno
 **Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_ragionamento_geometrico|Geometric reasoning]]
 **Area:** [[Geometria|Geometry]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
-[[Quesiti/src_bocconi_autunno_2010#q14|src_bocconi_autunno_2010__Q14]]
 
 
-
-<span class="atom-split" id="q15" data-atom="q15" data-title="Quesito 15" data-tags="topic_combinatoria,topic_aritmetica,method_estremalita,method_casework,skill_conteggio_sistematico,skill_casework_accurato"></span>
+<span class="atom-split" id="q15" data-atom="q15" data-title="Quesito 15" data-tags="topic_combinatoria,topic_aritmetica,method_estremalita,method_casework,skill_conteggio_sistematico,skill_casework_accurato,skill_riconoscimento_pattern"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -548,7 +523,7 @@ level: Giochi d'Autunno
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_estremalita|Estremalità]], [[method_casework|Casework]]
-**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 30
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1emH1RgLOF76eK0UsDESoK-QkReDUWdtV/view)
@@ -562,16 +537,15 @@ level: Giochi d'Autunno
 > SECURE TOKENS
 > Renato has 1,000 tokens at his disposal, and on each token he can read all the numbers from 1 to 1,000. What is the minimum number of tokens he must remove to be certain that, among the remaining tokens, none has a number equal to the product of the numbers on two other remaining tokens?
 
+
 **Topic:** [[topic_combinatoria|Combinatorics]], [[topic_aritmetica|Arithmetic / Number theory]]
 **Metodo:** [[method_estremalita|Extremal principle]], [[method_casework|Case analysis]]
-**Abilita:** [[skill_conteggio_sistematico|Systematic counting]], [[skill_casework_accurato|Careful case analysis]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]], [[skill_casework_accurato|Careful case analysis]], [[skill_riconoscimento_pattern|Pattern recognition]]
 **Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
-[[Quesiti/src_bocconi_autunno_2010#q15|src_bocconi_autunno_2010__Q15]]
 
 
-
-<span class="atom-split" id="q16" data-atom="q16" data-title="Quesito 16" data-tags="topic_combinatoria,topic_aritmetica,method_simmetria,method_casework,skill_conteggio_sistematico,skill_casework_accurato"></span>
+<span class="atom-split" id="q16" data-atom="q16" data-title="Quesito 16" data-tags="topic_combinatoria,topic_aritmetica,method_simmetria,method_casework,skill_conteggio_sistematico,skill_casework_accurato,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -584,11 +558,11 @@ level: Giochi d'Autunno
 > • la somma dei cinque numeri di ogni riga sia sempre la stessa;
 > • la somma dei due numeri disposti simmetricamente rispetto alla casella centrale sia sempre la stessa.
 
-![[src_bocconi_autunno_2010__q16.png]]
+![[src_bocconi_autunno_2010__Q16.png]]
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_simmetria|Simmetria]], [[method_casework|Casework]]
-**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** riga sup. 5 14 4 7 10; riga centr. 13 1 8 15 3; riga inf. 6 9 12 2 11
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1emH1RgLOF76eK0UsDESoK-QkReDUWdtV/view)
@@ -602,18 +576,17 @@ level: Giochi d'Autunno
 > The Magic Rectangle
 > Write all the integers from 1 to 15 (except the two that have already been entered) in the cells of the rectangle so that: • the sum of the three numbers in each column is always the same; • the sum of the five numbers in each row is always the same; • the sum of the two numbers positioned symmetrically with respect to the central cell is always the same.
 
-![[src_bocconi_autunno_2010__q16.png]]
+![[src_bocconi_autunno_2010__Q16.png]]
+
 
 **Topic:** [[topic_combinatoria|Combinatorics]], [[topic_aritmetica|Arithmetic / Number theory]]
 **Metodo:** [[method_simmetria|Using symmetry]], [[method_casework|Case analysis]]
-**Abilita:** [[skill_conteggio_sistematico|Systematic counting]], [[skill_casework_accurato|Careful case analysis]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]], [[skill_casework_accurato|Careful case analysis]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
 **Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
-[[Quesiti/src_bocconi_autunno_2010#q16|src_bocconi_autunno_2010__Q16]]
 
 
-
-<span class="atom-split" id="q17" data-atom="q17" data-title="Quesito 17" data-tags="topic_geometria_piana,topic_trigonometria,method_trigonometria,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
+<span class="atom-split" id="q17" data-atom="q17" data-title="Quesito 17" data-tags="topic_geometria_piana,topic_trigonometria,method_trigonometria,skill_ragionamento_geometrico,skill_manipolazione_algebrica,skill_riconoscimento_pattern"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -626,7 +599,7 @@ level: Giochi d'Autunno
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometria]]
 **Metodo:** [[method_trigonometria|Trigonometria]]
-**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Geometria]]
 **Risposta:** $120^\circ$
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1emH1RgLOF76eK0UsDESoK-QkReDUWdtV/view)
@@ -640,12 +613,11 @@ level: Giochi d'Autunno
 > THE TRIANGLE
 > Desiderio is dealing with a triangle whose sides measure 8 cm, 25.6 cm, and 30.4 cm, respectively. What is the measure (in degrees) of the largest angle of the triangle?
 
+
 **Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_trigonometria|Trigonometric techniques]]
 **Metodo:** [[method_trigonometria|Trigonometric techniques]]
-**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_riconoscimento_pattern|Pattern recognition]]
 **Area:** [[Geometria|Geometry]]
-
-[[Quesiti/src_bocconi_autunno_2010#q17|src_bocconi_autunno_2010__Q17]]
 
 
 
@@ -680,5 +652,3 @@ level: Giochi d'Autunno
 **Metodo:** [[method_telescoping|Telescoping sums]], [[method_fattorizzazione|Factorisation / algebraic manipulation]]
 **Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_riconoscimento_pattern|Pattern recognition]]
 **Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
-
-[[Quesiti/src_bocconi_autunno_2010#q18|src_bocconi_autunno_2010__Q18]]

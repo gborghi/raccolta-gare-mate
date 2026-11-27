@@ -10,7 +10,7 @@ level: Olimpiade Polacca Round 2
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_funzionali,method_simmetria,method_invarianti,skill_manipolazione_algebrica,skill_astrazione"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_funzionali,method_simmetria,method_invarianti,skill_manipolazione_algebrica,skill_astrazione,skill_riconoscimento_pattern"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -23,8 +23,8 @@ level: Olimpiade Polacca Round 2
 
 **Topic:** [[topic_funzionali|Equazioni funzionali]]
 **Metodo:** [[method_simmetria|Simmetria]], [[method_invarianti|Invarianti]]
-**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]]
-**Area:** [[Algebra e Analisi]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]], [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1jU9r-WBc_lrQ5IY9m00_E7KFGVcR9W3o/view)
 
 
@@ -39,11 +39,11 @@ level: Olimpiade Polacca Round 2
 >
 > sono periodiche.
 
+
 **Topic:** [[topic_funzionali|Equazioni funzionali e successioni]]
 **Metodo:** [[method_simmetria|Simmetria]], [[method_invarianti|Invarianti]]
-**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]]
-
-[[Quesiti/src_pol_2002_r2#q01|src_pol_2002_r2__Q01]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Algebra e Analisi]]
 
 
 
@@ -79,8 +79,7 @@ level: Olimpiade Polacca Round 2
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_trigonometria|Trigonometria]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
-
-[[Quesiti/src_pol_2002_r2#q02|src_pol_2002_r2__Q02]]
+**Area:** [[Geometria]]
 
 
 
@@ -110,8 +109,7 @@ level: Olimpiade Polacca Round 2
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_cassetti|Principio dei cassetti]], [[method_doppio_conteggio|Doppio conteggio]], [[method_estremalita|Estremalità]]
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_stima|Stima]]
-
-[[Quesiti/src_pol_2002_r2#q03|src_pol_2002_r2__Q03]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
 
 
 
@@ -147,12 +145,11 @@ level: Olimpiade Polacca Round 2
 **Topic:** [[topic_aritmetica|Aritmetica e teoria dei numeri]]
 **Metodo:** [[method_casework|Analisi per casi]], [[method_congruenze|Congruenze]]
 **Abilita:** [[skill_casework_accurato|Analisi accurata dei casi]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
-
-[[Quesiti/src_pol_2002_r2#q04|src_pol_2002_r2__Q04]]
-
+**Area:** [[Aritmetica e Teoria dei Numeri]]
 
 
-<span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_geometria_solida,method_trigonometria,method_disuguaglianze,skill_ragionamento_geometrico,skill_manipolazione_algebrica,skill_stima"></span>
+
+<span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_geometria_solida,topic_geometria_piana,method_trigonometria,method_disuguaglianze,skill_ragionamento_geometrico,skill_manipolazione_algebrica,skill_stima"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -163,10 +160,10 @@ level: Olimpiade Polacca Round 2
 > $$AD=BD \quad \text{and} \quad AB=CD.$$
 > Prove that $\angle ACD \ge 30^\circ$.
 
-**Topic:** [[topic_geometria_solida|Geometria solida]]
+**Topic:** [[topic_geometria_solida|Geometria solida]], [[topic_geometria_piana|Plane geometry]]
 **Metodo:** [[method_trigonometria|Trigonometria]], [[method_disuguaglianze|Disuguaglianze]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]]
-**Area:** [[Geometria]]
+**Area:** [[Geometria|Geometry]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1jU9r-WBc_lrQ5IY9m00_E7KFGVcR9W3o/view)
 
 
@@ -181,15 +178,15 @@ level: Olimpiade Polacca Round 2
 >
 > Dimostrare che $\angle ACD \ge 30^\circ$.
 
-**Topic:** [[topic_geometria_solida|Geometria solida]]
+
+**Topic:** [[topic_geometria_solida|Geometria solida]], [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_trigonometria|Trigonometria]], [[method_disuguaglianze|Disuguaglianze]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]]
-
-[[Quesiti/src_pol_2002_r2#q05|src_pol_2002_r2__Q05]]
-
+**Area:** [[Geometria]]
 
 
-<span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_disuguaglianze,topic_algebra,method_induzione,method_casework,skill_manipolazione_algebrica,skill_riconoscimento_pattern"></span>
+
+<span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_disuguaglianze,topic_algebra,method_induzione,method_casework,method_disuguaglianze,skill_manipolazione_algebrica,skill_riconoscimento_pattern,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -201,9 +198,9 @@ level: Olimpiade Polacca Round 2
 > holds.
 
 **Topic:** [[topic_disuguaglianze|Disuguaglianze]], [[topic_algebra|Algebra]]
-**Metodo:** [[method_induzione|Induzione]], [[method_casework|Casework]]
-**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
-**Area:** [[Algebra e Analisi]]
+**Metodo:** [[method_induzione|Induzione]], [[method_casework|Casework]], [[method_disuguaglianze|Classical inequalities]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1jU9r-WBc_lrQ5IY9m00_E7KFGVcR9W3o/view)
 
 
@@ -216,8 +213,8 @@ level: Olimpiade Polacca Round 2
 >
 > $$x_1x_2\ldots x_n + y_1y_2\ldots y_n \le \sqrt{x_1^2+y_1^2}\cdot\sqrt{x_2^2+y_2^2}\cdot\ldots\cdot\sqrt{x_n^2+y_n^2}$$
 
-**Topic:** [[topic_disuguaglianze|Disuguaglianze]], [[topic_algebra|Algebra]]
-**Metodo:** [[method_induzione|Induzione]], [[method_casework|Analisi per casi]]
-**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di schemi]]
 
-[[Quesiti/src_pol_2002_r2#q06|src_pol_2002_r2__Q06]]
+**Topic:** [[topic_disuguaglianze|Disuguaglianze]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_induzione|Induzione]], [[method_casework|Analisi per casi]], [[method_disuguaglianze|Disuguaglianze classiche]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di schemi]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Algebra e Analisi]]

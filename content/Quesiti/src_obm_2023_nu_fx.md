@@ -10,7 +10,7 @@ level: OBM Nível Universitário
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_aritmetica,topic_insiemi_funzioni,method_induzione,method_estremalita,skill_manipolazione_algebrica,skill_ragionamento_geometrico,skill_lettura_attenta"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_aritmetica,topic_insiemi_funzioni,topic_funzionali,method_induzione,method_estremalita,skill_manipolazione_algebrica,skill_ragionamento_geometrico,skill_lettura_attenta,skill_stima"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -19,10 +19,10 @@ level: OBM Nível Universitário
 
 > Let $p$ be the *potency function* of positive integers, defined by $p(1)=1$ and $p(n+1)=p(n)$ if $n+1$ is a perfect power, and $p(n+1)=(n+1)\cdot p(n)$ otherwise. A positive integer $n$ is a *perfect power* if there exist integers $a,b\ge 2$ such that $n=a^b$. Does there exist a positive integer $N$ such that $p(n)>2^n$ for all $n>N$? Prove your answer.
 
-**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_insiemi_funzioni|Insiemi e funzioni]]
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_insiemi_funzioni|Insiemi e funzioni]], [[topic_funzionali|Functional equations / sequences]]
 **Metodo:** [[method_induzione|Induzione]], [[method_estremalita|Estremalità]]
-**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
-**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_stima|Estimation and approximation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Algebra e Analisi|Algebra and analysis]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1D2uKOjM5LORTG-XuYGOlbcGVoglly6yl/view)
 
 
@@ -33,12 +33,11 @@ level: OBM Nível Universitário
 
 > Sia $p$ la *funzione di potenza* degli interi positivi, definita da $p(1)=1$ e $p(n+1)=p(n)$ se $n+1$ è una potenza perfetta, e da $p(n+1)=(n+1)\cdot p(n)$ altrimenti. Un intero positivo $n$ è una *potenza perfetta* se esistono interi $a,b\ge 2$ tali che $n=a^b$. Esiste un intero positivo $N$ tale che $p(n)>2^n$ per tutti gli $n>N$? Dimostra la tua risposta.
 
-**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_insiemi_funzioni|Insiemi e funzioni]]
-**Metodo:** [[method_induzione|Induzione]], [[method_estremalita|Estremalità]]
-**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
-**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 
-[[Quesiti/src_obm_2023_nu_fx#q01|src_obm_2023_nu_fx__Q01]]
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_insiemi_funzioni|Insiemi e funzioni]], [[topic_funzionali|Equazioni funzionali / successioni]]
+**Metodo:** [[method_induzione|Induzione]], [[method_estremalita|Estremalità]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_stima|Stima e approssimazione]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 
 
 
@@ -78,8 +77,6 @@ level: OBM Nível Universitário
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Algebra e Analisi]]
 
-[[Quesiti/src_obm_2023_nu_fx#q02|src_obm_2023_nu_fx__Q02]]
-
 
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_algebra,topic_disuguaglianze,method_disuguaglianze,method_estremalita,skill_manipolazione_algebrica,skill_stima,skill_lettura_attenta"></span>
@@ -112,11 +109,9 @@ level: OBM Nível Universitário
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Algebra e Analisi]]
 
-[[Quesiti/src_obm_2023_nu_fx#q03|src_obm_2023_nu_fx__Q03]]
 
 
-
-<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_algebra,method_casework,method_fattorizzazione,skill_manipolazione_algebrica,skill_astrazione,skill_lettura_attenta"></span>
+<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_algebra,topic_aritmetica,method_casework,method_fattorizzazione,skill_manipolazione_algebrica,skill_astrazione,skill_lettura_attenta"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -128,10 +123,10 @@ level: OBM Nível Universitário
 > where $I\in M_2(\mathbb{Z})$ and $0\in M_2(\mathbb{Z})$ denote the identity and zero matrices, respectively. Prove that there exists an invertible matrix $C\in M_2(\mathbb{Z})$ with $C^{-1}\in M_2(\mathbb{Z})$ such that
 > $$CAC^{-1}=\begin{pmatrix}1&2\\-3&-1\end{pmatrix}\quad\text{or}\quad CAC^{-1}=\begin{pmatrix}0&1\\-5&0\end{pmatrix}.$$
 
-**Topic:** [[topic_algebra|Algebra]]
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Arithmetic / Number theory]]
 **Metodo:** [[method_casework|Casework]], [[method_fattorizzazione|Fattorizzazione]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]], [[skill_lettura_attenta|Lettura attenta]]
-**Area:** [[Algebra e Analisi]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1D2uKOjM5LORTG-XuYGOlbcGVoglly6yl/view)
 
 
@@ -145,16 +140,15 @@ level: OBM Nível Universitário
 > dove $I\in M_2(\mathbb{Z})$ e $0\in M_2(\mathbb{Z})$ denotano rispettivamente la matrice identità e la matrice nulla. Dimostrare che esiste una matrice invertibile $C\in M_2(\mathbb{Z})$ tale che $C^{-1}\in M_2(\mathbb{Z})$, con
 > $$CAC^{-1}=\begin{pmatrix}1&2\\-3&-1\end{pmatrix}\quad\text{or}\quad CAC^{-1}=\begin{pmatrix}0&1\\-5&0\end{pmatrix}.$$
 
-**Topic:** [[topic_algebra|Algebra]]
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_casework|Casework]], [[method_fattorizzazione|Fattorizzazione]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]], [[skill_lettura_attenta|Lettura attenta]]
-**Area:** [[Algebra e Analisi]]
-
-[[Quesiti/src_obm_2023_nu_fx#q04|src_obm_2023_nu_fx__Q04]]
+**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 
 
 
-<span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_probabilita,topic_combinatoria,method_congruenze,method_conteggio,method_simmetria,skill_conteggio_sistematico,skill_modellizzazione,skill_riconoscimento_pattern"></span>
+<span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_probabilita,topic_combinatoria,method_congruenze,method_conteggio,method_simmetria,skill_conteggio_sistematico,skill_modellizzazione,skill_riconoscimento_pattern,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -167,8 +161,8 @@ level: OBM Nível Universitário
 
 **Topic:** [[topic_probabilita|Probabilità]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_congruenze|Congruenze]], [[method_conteggio|Conteggio]], [[method_simmetria|Simmetria]]
-**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
-**Area:** [[Combinatoria, Logica e Probabilita]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1D2uKOjM5LORTG-XuYGOlbcGVoglly6yl/view)
 
 
@@ -181,16 +175,15 @@ level: OBM Nível Universitário
 > $$(a,b)\to(a\pm 1,\, b\pm 2),\qquad (a,b)\to(a\pm 2,\, b\pm 1)$$
 > Sono ugualmente probabili. Sapendo che il cavallo parte da $(0,0)$, calcola la probabilità che, dopo $2023$ mosse, si trovi su una casella $(a,b)$ con $a\equiv 4\pmod{8}$ e $b\equiv 5\pmod{8}$.
 
+
 **Topic:** [[topic_probabilita|Probabilità]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_congruenze|Congruenze]], [[method_conteggio|Conteggio]], [[method_simmetria|Simmetria]]
-**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 
-[[Quesiti/src_obm_2023_nu_fx#q05|src_obm_2023_nu_fx__Q05]]
 
 
-
-<span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_algebra,topic_insiemi_funzioni,method_ricorsione,method_disuguaglianze,method_estremalita,skill_manipolazione_algebrica,skill_astrazione,skill_modellizzazione"></span>
+<span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_algebra,topic_insiemi_funzioni,topic_funzionali,topic_disuguaglianze,method_ricorsione,method_disuguaglianze,method_estremalita,method_casework,skill_manipolazione_algebrica,skill_astrazione,skill_modellizzazione,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -200,10 +193,10 @@ level: OBM Nível Universitário
 > Determine all pairs $(c,d)\in\mathbb{R}^2$ of real constants such that there exists a sequence $(a_n)_{n\ge 1}$ of positive real numbers satisfying, for all $n\ge 1$,
 > $$a_n \ge c\cdot a_{n+1} + d\cdot\sum_{1\le j < n} a_j.$$
 
-**Topic:** [[topic_algebra|Algebra]], [[topic_insiemi_funzioni|Insiemi e funzioni]]
-**Metodo:** [[method_ricorsione|Ricorsione]], [[method_disuguaglianze|Disuguaglianze]], [[method_estremalita|Estremalità]]
-**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]], [[skill_modellizzazione|Modellizzazione]]
-**Area:** [[Algebra e Analisi]]
+**Topic:** [[topic_algebra|Algebra]], [[topic_insiemi_funzioni|Insiemi e funzioni]], [[topic_funzionali|Functional equations / sequences]], [[topic_disuguaglianze|Inequalities]]
+**Metodo:** [[method_ricorsione|Ricorsione]], [[method_disuguaglianze|Disuguaglianze]], [[method_estremalita|Estremalità]], [[method_casework|Case analysis]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]], [[skill_modellizzazione|Modellizzazione]], [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1D2uKOjM5LORTG-XuYGOlbcGVoglly6yl/view)
 
 
@@ -215,9 +208,8 @@ level: OBM Nível Universitário
 > Determinare tutte le coppie $(c,d)\in\mathbb{R}^2$ di costanti reali tali che esista una successione $(a_n)_{n\ge 1}$ di numeri reali positivi che soddisfi, per ogni $n\ge 1$,
 > $$a_n \ge c\cdot a_{n+1} + d\cdot\sum_{1\le j < n} a_j.$$
 
-**Topic:** [[topic_algebra|Algebra]], [[topic_insiemi_funzioni|Insiemi e funzioni]]
-**Metodo:** [[method_ricorsione|Ricorsione]], [[method_disuguaglianze|Disuguaglianze]], [[method_estremalita|Estremalità]]
-**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]], [[skill_modellizzazione|Modellizzazione]]
-**Area:** [[Algebra e Analisi]]
 
-[[Quesiti/src_obm_2023_nu_fx#q06|src_obm_2023_nu_fx__Q06]]
+**Topic:** [[topic_algebra|Algebra]], [[topic_insiemi_funzioni|Insiemi e funzioni]], [[topic_funzionali|Equazioni funzionali / successioni]], [[topic_disuguaglianze|Disuguaglianze]]
+**Metodo:** [[method_ricorsione|Ricorsione]], [[method_disuguaglianze|Disuguaglianze]], [[method_estremalita|Estremalità]], [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]], [[skill_modellizzazione|Modellizzazione]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Algebra e Analisi]]

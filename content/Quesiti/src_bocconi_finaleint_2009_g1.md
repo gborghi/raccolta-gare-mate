@@ -24,7 +24,7 @@ level: Finale Internazionale Campionati Internazionali di Giochi Matematici (Par
 > 1 - I QUADRAMINI (coefficiente 1)
 > Mathias dispone di una scacchiera rettangolare di $6 \times 5$ caselle e di un gioco di pezzi identici aventi la forma rappresentata in grigio nella figura (un tetramino a L). Quanti pezzi può al massimo collocare Mathias, senza sovrapposizioni, all'interno della scacchiera? Nota: si possono ruotare i pezzi.
 
-![[src_bocconi_finaleint_2009_g1__q01.png]]
+![[src_bocconi_finaleint_2009_g1__Q01.png]]
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_casework|Casework]], [[method_estremalita|Estremalità]]
@@ -42,18 +42,16 @@ level: Finale Internazionale Campionati Internazionali di Giochi Matematici (Par
 > 1 - I QUADRAMINI (coefficient 1)
 > Mathias has a rectangular chessboard with $6 \times 5$ squares and a set of identical pieces having the shape shown in grey in the figure (an L tetromino). What is the maximum number of pieces Mathias can place inside the chessboard without overlaps? Note: the pieces can be rotated.
 
-![[src_bocconi_finaleint_2009_g1__q01.png]]
+![[src_bocconi_finaleint_2009_g1__Q01.png]]
 
 **Topic:** [[topic_combinatoria|Combinatorics]], [[topic_geometria_piana|Plane geometry]]
 **Metodo:** [[method_casework|Case analysis]], [[method_estremalita|Extremal principle]]
 **Abilita:** [[skill_modellizzazione|Modelling / translating the text]], [[skill_conteggio_sistematico|Systematic counting]], [[skill_ragionamento_geometrico|Geometric reasoning]]
 **Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Geometria|Geometry]]
 
-[[Quesiti/src_bocconi_finaleint_2009_g1#q01|src_bocconi_finaleint_2009_g1__Q01]]
 
 
-
-<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_algebra,topic_aritmetica,method_casework,skill_lettura_attenta,skill_manipolazione_algebrica,skill_modellizzazione"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_algebra,topic_aritmetica,method_casework,method_fattorizzazione,skill_lettura_attenta,skill_manipolazione_algebrica,skill_modellizzazione"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -64,7 +62,7 @@ level: Finale Internazionale Campionati Internazionali di Giochi Matematici (Par
 > Mathias aveva piu di 20 biglie, ma meno di 30. Ne da un certo numero a Mathilde e le dice: «Addiziono il triplo del numero di biglie che ti ho appena dato e la meta del numero di biglie che mi rimane. Il risultato e esattamente uguale al numero di biglie che avevo prima di dartele.» Quante biglie aveva Mathias prima di dargliene?
 
 **Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_casework|Casework]]
+**Metodo:** [[method_casework|Casework]], [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
 **Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]]
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 25
@@ -79,16 +77,15 @@ level: Finale Internazionale Campionati Internazionali di Giochi Matematici (Par
 > 2 - THE BALLS (coefficient 2)
 > Mathias had more than 20 marbles but fewer than 30. He gave a certain number to Mathilde and said to her, "I'm adding three times the number of marbles I just gave you and half the number of marbles I have left. The result is exactly equal to the number of marbles I had before I gave them to you." How many marbles did Mathias have before he gave any to her?
 
+
 **Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Arithmetic / Number theory]]
-**Metodo:** [[method_casework|Case analysis]]
+**Metodo:** [[method_casework|Case analysis]], [[method_fattorizzazione|Factorisation / algebraic manipulation]]
 **Abilita:** [[skill_lettura_attenta|Careful reading of the text]], [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_modellizzazione|Modelling / translating the text]]
 **Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
-[[Quesiti/src_bocconi_finaleint_2009_g1#q02|src_bocconi_finaleint_2009_g1__Q02]]
 
 
-
-<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_aritmetica,method_ricorsione,skill_riconoscimento_pattern,skill_conteggio_sistematico,skill_lettura_attenta"></span>
+<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_aritmetica,topic_funzionali,method_ricorsione,skill_riconoscimento_pattern,skill_conteggio_sistematico,skill_lettura_attenta"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -98,10 +95,10 @@ level: Finale Internazionale Campionati Internazionali di Giochi Matematici (Par
 > 3 - L'ETA DI MATHILDE (coefficiente 3)
 > Mathilde ha 11 anni oggi, il suo fratellino ne ha 7 e sua madre 37. Mathilde scrive la sua eta: 11. Addiziona le cifre di questo numero, poi moltiplica il risultato per 7 e scrive il risultato della moltiplicazione: 14. Ricomincia poi a partire dall'ultimo numero scritto: addiziona le cifre di questo numero, poi moltiplica il risultato per 7 e scrive il risultato della moltiplicazione: 35. I primi tre numeri scritti sono 11; 14 e 35. Quale sara il $37^\circ$ numero che scrivera Mathilde?
 
-**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_funzionali|Equazioni funzionali / successioni]]
 **Metodo:** [[method_ricorsione|Ricorsione]]
 **Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]]
-**Area:** [[Aritmetica e Teoria dei Numeri]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 **Risposta:** 119
 **Fonte:** [apri PDF](https://drive.google.com/file/d/16BeuL7zOBSXfhXBKcAV-KaXZzpog_ipL/view)
 
@@ -114,12 +111,11 @@ level: Finale Internazionale Campionati Internazionali di Giochi Matematici (Par
 > 3 - MATHILDE'S AGE (coefficient 3)
 > Today Mathilde is 11 years old, her little brother is 7, and her mother is 37. Mathilde writes her age: 11. She adds the digits of this number, then multiplies the result by 7 and writes the result of the multiplication: 14. She then starts over from the last number she wrote: she adds the digits of this number, then multiplies the result by 7 and writes the result of the multiplication: 35. The first three numbers written are 11, 14, and 35. What will be the $37^\circ$ number that Mathilde will write?
 
-**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_funzionali|Functional equations / sequences]]
 **Metodo:** [[method_ricorsione|Recursion]]
 **Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]], [[skill_conteggio_sistematico|Systematic counting]], [[skill_lettura_attenta|Careful reading of the text]]
-**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
-
-[[Quesiti/src_bocconi_finaleint_2009_g1#q03|src_bocconi_finaleint_2009_g1__Q03]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Algebra e Analisi|Algebra and analysis]]
 
 
 
@@ -153,8 +149,6 @@ level: Finale Internazionale Campionati Internazionali di Giochi Matematici (Par
 **Metodo:** [[method_casework|Case analysis]], [[method_estremalita|Extremal principle]]
 **Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_modellizzazione|Modelling / translating the text]]
 **Area:** [[Geometria|Geometry]]
-
-[[Quesiti/src_bocconi_finaleint_2009_g1#q04|src_bocconi_finaleint_2009_g1__Q04]]
 
 
 
@@ -194,11 +188,9 @@ level: Finale Internazionale Campionati Internazionali di Giochi Matematici (Par
 **Abilita:** [[skill_lettura_attenta|Careful reading of the text]], [[skill_casework_accurato|Careful case analysis]], [[skill_conteggio_sistematico|Systematic counting]]
 **Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
-[[Quesiti/src_bocconi_finaleint_2009_g1#q05|src_bocconi_finaleint_2009_g1__Q05]]
 
 
-
-<span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_aritmetica,topic_combinatoria,method_casework,method_estremalita,skill_modellizzazione,skill_conteggio_sistematico,skill_lettura_attenta"></span>
+<span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_aritmetica,topic_combinatoria,method_casework,method_estremalita,method_fattorizzazione,skill_modellizzazione,skill_conteggio_sistematico,skill_lettura_attenta,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -208,11 +200,11 @@ level: Finale Internazionale Campionati Internazionali di Giochi Matematici (Par
 > 6 - LA STELLA (coefficiente 6)
 > Collocate i numeri 5, 6, 7 e 9 sui quattro vertici della stella diversi da quello dove e gia collocato il 3 (vedi figura). Per ciascuno dei cinque segmenti, si calcola la somma dei due numeri alle sue estremita. I cinque numeri cosi ottenuti devono essere cinque numeri consecutivi.
 
-![[src_bocconi_finaleint_2009_g1__q06.png]]
+![[src_bocconi_finaleint_2009_g1__Q06.png]]
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
-**Metodo:** [[method_casework|Casework]], [[method_estremalita|Estremalità]]
-**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]]
+**Metodo:** [[method_casework|Casework]], [[method_estremalita|Estremalità]], [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 2 soluzioni (es. con 3 in alto: 5 e 6 in alto ai lati, 7 e 9 in basso); le cinque somme sono cinque numeri consecutivi
 **Fonte:** [apri PDF](https://drive.google.com/file/d/16BeuL7zOBSXfhXBKcAV-KaXZzpog_ipL/view)
@@ -226,14 +218,13 @@ level: Finale Internazionale Campionati Internazionali di Giochi Matematici (Par
 > 6 - THE STAR (coefficient 6)
 > Place the numbers 5, 6, 7, and 9 on the four vertices of the star other than the one where 3 is already placed (see figure). For each of the five line segments, calculate the sum of the two numbers at its ends. The five numbers thus obtained must be five consecutive numbers.
 
-![[src_bocconi_finaleint_2009_g1__q06.png]]
+![[src_bocconi_finaleint_2009_g1__Q06.png]]
+
 
 **Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_combinatoria|Combinatorics]]
-**Metodo:** [[method_casework|Case analysis]], [[method_estremalita|Extremal principle]]
-**Abilita:** [[skill_modellizzazione|Modelling / translating the text]], [[skill_conteggio_sistematico|Systematic counting]], [[skill_lettura_attenta|Careful reading of the text]]
+**Metodo:** [[method_casework|Case analysis]], [[method_estremalita|Extremal principle]], [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]], [[skill_conteggio_sistematico|Systematic counting]], [[skill_lettura_attenta|Careful reading of the text]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
-
-[[Quesiti/src_bocconi_finaleint_2009_g1#q06|src_bocconi_finaleint_2009_g1__Q06]]
 
 
 
@@ -268,8 +259,6 @@ level: Finale Internazionale Campionati Internazionali di Giochi Matematici (Par
 **Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_casework_accurato|Careful case analysis]], [[skill_conteggio_sistematico|Systematic counting]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
-[[Quesiti/src_bocconi_finaleint_2009_g1#q07|src_bocconi_finaleint_2009_g1__Q07]]
-
 
 
 <span class="atom-split" id="q08" data-atom="q08" data-title="Quesito 8" data-tags="topic_combinatoria,topic_geometria_piana,method_colorazione,method_estremalita,method_casework,skill_modellizzazione,skill_conteggio_sistematico,skill_ragionamento_geometrico"></span>
@@ -282,7 +271,7 @@ level: Finale Internazionale Campionati Internazionali di Giochi Matematici (Par
 > 8 - SENZA TRIANGOLO EQUILATERO (coefficiente 8)
 > Su ciascuno dei 9 vertici del reticolo si puo collocare o un pione bianco o un pione nero, oppure lasciare il posto vuoto. Non si devono mai collocare tre pioni dello stesso colore ai vertici di uno stesso triangolo equilatero, qualunque siano la sua dimensione e il suo orientamento. Un pione bianco e gia stato collocato (vedi figura). Collocate il piu grande numero possibile di pioni.
 
-![[src_bocconi_finaleint_2009_g1__q08.png]]
+![[src_bocconi_finaleint_2009_g1__Q08.png]]
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_colorazione|Colorazione]], [[method_estremalita|Estremalità]], [[method_casework|Casework]]
@@ -300,18 +289,16 @@ level: Finale Internazionale Campionati Internazionali di Giochi Matematici (Par
 > 8 - WITHOUT AN EQUILATERAL TRIANGLE (coefficient 8)
 > At each of the 9 vertices of the lattice, one can place either a white pawn or a black pawn, or leave the spot empty. One must never place three pawns of the same color at the vertices of the same equilateral triangle, regardless of its size or orientation. One white pawn has already been placed (see figure). Place as many pawns as possible.
 
-![[src_bocconi_finaleint_2009_g1__q08.png]]
+![[src_bocconi_finaleint_2009_g1__Q08.png]]
 
 **Topic:** [[topic_combinatoria|Combinatorics]], [[topic_geometria_piana|Plane geometry]]
 **Metodo:** [[method_colorazione|Colouring / parity]], [[method_estremalita|Extremal principle]], [[method_casework|Case analysis]]
 **Abilita:** [[skill_modellizzazione|Modelling / translating the text]], [[skill_conteggio_sistematico|Systematic counting]], [[skill_ragionamento_geometrico|Geometric reasoning]]
 **Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Geometria|Geometry]]
 
-[[Quesiti/src_bocconi_finaleint_2009_g1#q08|src_bocconi_finaleint_2009_g1__Q08]]
 
 
-
-<span class="atom-split" id="q09" data-atom="q09" data-title="Quesito 9" data-tags="topic_aritmetica,topic_combinatoria,method_estremalita,method_casework,skill_modellizzazione,skill_ragionamento_geometrico,skill_stima,skill_conteggio_sistematico"></span>
+<span class="atom-split" id="q09" data-atom="q09" data-title="Quesito 9" data-tags="topic_aritmetica,topic_combinatoria,topic_geometria_solida,method_estremalita,method_casework,skill_modellizzazione,skill_ragionamento_geometrico,skill_stima,skill_conteggio_sistematico"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -321,10 +308,10 @@ level: Finale Internazionale Campionati Internazionali di Giochi Matematici (Par
 > 9 - IL CUBO DI DADI (coefficiente 9)
 > Si forma un cubo $3 \times 3 \times 3$ assemblando 27 dadi identici. Le facce di un dado portano tutte le cifre da 1 a 6 e la somma dei punti su due facce opposte vale sempre 7. Qual e, al minimo, la somma di tutti i punti visibili sulla superficie del cubo?
 
-**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]], [[topic_geometria_solida|Geometria solida]]
 **Metodo:** [[method_estremalita|Estremalità]], [[method_casework|Casework]]
 **Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_stima|Stima]], [[skill_conteggio_sistematico|Conteggio sistematico]]
-**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 **Risposta:** 90
 **Fonte:** [apri PDF](https://drive.google.com/file/d/16BeuL7zOBSXfhXBKcAV-KaXZzpog_ipL/view)
 
@@ -337,12 +324,11 @@ level: Finale Internazionale Campionati Internazionali di Giochi Matematici (Par
 > 9 - THE DICE CUBE (coefficient 9)
 > A cube $3 \times 3 \times 3$ is formed by assembling 27 identical dice. Each face of a die bears all the numbers from 1 to 6, and the sum of the dots on two opposite faces is always 7. What is the minimum possible sum of all the dots visible on the surface of the cube?
 
-**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_combinatoria|Combinatorics]]
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_combinatoria|Combinatorics]], [[topic_geometria_solida|Solid geometry]]
 **Metodo:** [[method_estremalita|Extremal principle]], [[method_casework|Case analysis]]
 **Abilita:** [[skill_modellizzazione|Modelling / translating the text]], [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_stima|Estimation and approximation]], [[skill_conteggio_sistematico|Systematic counting]]
-**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
-
-[[Quesiti/src_bocconi_finaleint_2009_g1#q09|src_bocconi_finaleint_2009_g1__Q09]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Geometria|Geometry]]
 
 
 
@@ -377,11 +363,9 @@ level: Finale Internazionale Campionati Internazionali di Giochi Matematici (Par
 **Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_modellizzazione|Modelling / translating the text]], [[skill_lettura_attenta|Careful reading of the text]]
 **Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
-[[Quesiti/src_bocconi_finaleint_2009_g1#q10|src_bocconi_finaleint_2009_g1__Q10]]
 
 
-
-<span class="atom-split" id="q11" data-atom="q11" data-title="Quesito 11" data-tags="topic_geometria_piana,topic_combinatoria,method_casework,skill_ragionamento_geometrico,skill_modellizzazione,skill_lettura_attenta"></span>
+<span class="atom-split" id="q11" data-atom="q11" data-title="Quesito 11" data-tags="topic_geometria_piana,topic_combinatoria,topic_aritmetica,method_casework,skill_ragionamento_geometrico,skill_modellizzazione,skill_lettura_attenta"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -391,12 +375,12 @@ level: Finale Internazionale Campionati Internazionali di Giochi Matematici (Par
 > 11 - DAL RETTANGOLO AL QUADRATO (coefficiente 11)
 > Si ritaglia il rettangolo lungo i sette tratti puntinati. Tutti i segmenti del taglio hanno per lunghezza dei numeri interi di centimetri. Facendo scivolare i due pezzi cosi ottenuti, senza capovolgerli, si puo ricostituire, senza buchi ne sovrapposizioni, un quadrato il cui lato misura un numero intero di centimetri. Qual e, al minimo, in cm, la lunghezza totale del taglio? Nota: la figura non rispetta le proporzioni.
 
-![[src_bocconi_finaleint_2009_g1__q11.png]]
+![[src_bocconi_finaleint_2009_g1__Q11.png]]
 
-**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_combinatoria|Combinatoria]]
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_casework|Casework]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]], [[skill_lettura_attenta|Lettura attenta]]
-**Area:** [[Geometria]], [[Combinatoria, Logica e Probabilita]]
+**Area:** [[Geometria]], [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 31 cm
 **Fonte:** [apri PDF](https://drive.google.com/file/d/16BeuL7zOBSXfhXBKcAV-KaXZzpog_ipL/view)
 
@@ -409,14 +393,13 @@ level: Finale Internazionale Campionati Internazionali di Giochi Matematici (Par
 > 11 - FROM RECTANGLE TO SQUARE (coefficient 11)
 > Cut out the rectangle along the seven dotted lines. All the segments of the cut have lengths that are whole numbers of centimeters. By sliding the two pieces thus obtained, without turning them over, one can reassemble, with no gaps or overlaps, a square whose side measures a whole number of centimeters. What is the minimum total length of the cut, in cm? Note: the figure is not drawn to scale.
 
-![[src_bocconi_finaleint_2009_g1__q11.png]]
+![[src_bocconi_finaleint_2009_g1__Q11.png]]
 
-**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_combinatoria|Combinatorics]]
+
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_combinatoria|Combinatorics]], [[topic_aritmetica|Arithmetic / Number theory]]
 **Metodo:** [[method_casework|Case analysis]]
 **Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_modellizzazione|Modelling / translating the text]], [[skill_lettura_attenta|Careful reading of the text]]
-**Area:** [[Geometria|Geometry]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
-
-[[Quesiti/src_bocconi_finaleint_2009_g1#q11|src_bocconi_finaleint_2009_g1__Q11]]
+**Area:** [[Geometria|Geometry]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
 
 
@@ -451,11 +434,9 @@ level: Finale Internazionale Campionati Internazionali di Giochi Matematici (Par
 **Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_modellizzazione|Modelling / translating the text]]
 **Area:** [[Geometria|Geometry]]
 
-[[Quesiti/src_bocconi_finaleint_2009_g1#q12|src_bocconi_finaleint_2009_g1__Q12]]
 
 
-
-<span class="atom-split" id="q13" data-atom="q13" data-title="Quesito 13" data-tags="topic_geometria_piana,topic_aritmetica,method_casework,skill_manipolazione_algebrica,skill_ragionamento_geometrico,skill_modellizzazione"></span>
+<span class="atom-split" id="q13" data-atom="q13" data-title="Quesito 13" data-tags="topic_geometria_piana,topic_aritmetica,topic_algebra,method_casework,method_fattorizzazione,skill_manipolazione_algebrica,skill_ragionamento_geometrico,skill_modellizzazione"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -465,10 +446,10 @@ level: Finale Internazionale Campionati Internazionali di Giochi Matematici (Par
 > 13 - DOPPIA COPERTURA (coefficiente 13)
 > Collocando un quadrato di 4 cm di lato su un triangolo, si puo coprire fino a due terzi della superficie del triangolo. Collocando il triangolo sul quadrato, si puo coprire fino a tre quarti della superficie del quadrato. Qual e l'area del triangolo, in cm$^2$?
 
-**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_casework|Casework]]
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_casework|Casework]], [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]]
-**Area:** [[Geometria]], [[Aritmetica e Teoria dei Numeri]]
+**Area:** [[Geometria]], [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 **Risposta:** 18 cm$^2$
 **Fonte:** [apri PDF](https://drive.google.com/file/d/16BeuL7zOBSXfhXBKcAV-KaXZzpog_ipL/view)
 
@@ -481,12 +462,11 @@ level: Finale Internazionale Campionati Internazionali di Giochi Matematici (Par
 > 13 - DOUBLE COVERAGE (coefficient 13)
 > By placing a square with sides 4 cm long on a triangle, it is possible to cover up to two-thirds of the triangle's area. By placing the triangle on the square, it is possible to cover up to three-quarters of the square's area. What is the area of the triangle, in cm$^2$?
 
-**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_aritmetica|Arithmetic / Number theory]]
-**Metodo:** [[method_casework|Case analysis]]
-**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_modellizzazione|Modelling / translating the text]]
-**Area:** [[Geometria|Geometry]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
-[[Quesiti/src_bocconi_finaleint_2009_g1#q13|src_bocconi_finaleint_2009_g1__Q13]]
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_aritmetica|Arithmetic / Number theory]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_casework|Case analysis]], [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Geometria|Geometry]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Algebra e Analisi|Algebra and analysis]]
 
 
 
@@ -521,11 +501,9 @@ level: Finale Internazionale Campionati Internazionali di Giochi Matematici (Par
 **Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_lettura_attenta|Careful reading of the text]], [[skill_conteggio_sistematico|Systematic counting]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Algebra e Analisi|Algebra and analysis]]
 
-[[Quesiti/src_bocconi_finaleint_2009_g1#q14|src_bocconi_finaleint_2009_g1__Q14]]
 
 
-
-<span class="atom-split" id="q15" data-atom="q15" data-title="Quesito 15" data-tags="topic_geometria_solida,topic_combinatoria,method_casework,method_simmetria,skill_ragionamento_geometrico,skill_conteggio_sistematico,skill_modellizzazione"></span>
+<span class="atom-split" id="q15" data-atom="q15" data-title="Quesito 15" data-tags="topic_geometria_solida,topic_combinatoria,method_casework,method_simmetria,skill_ragionamento_geometrico,skill_conteggio_sistematico,skill_modellizzazione,skill_astrazione"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -537,7 +515,7 @@ level: Finale Internazionale Campionati Internazionali di Giochi Matematici (Par
 
 **Topic:** [[topic_geometria_solida|Geometria solida]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_casework|Casework]], [[method_simmetria|Simmetria]]
-**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione]], [[skill_astrazione|Astrazione / generalizzazione]]
 **Area:** [[Geometria]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 8
 **Fonte:** [apri PDF](https://drive.google.com/file/d/16BeuL7zOBSXfhXBKcAV-KaXZzpog_ipL/view)
@@ -551,12 +529,11 @@ level: Finale Internazionale Campionati Internazionali di Giochi Matematici (Par
 > 15 - THE CUBES (coefficient 15)
 > Mathias has a large number of identical white cubes. On each face of each cube, he draws a diagonal. What is the maximum number of different cubes he will end up with?
 
+
 **Topic:** [[topic_geometria_solida|Solid geometry]], [[topic_combinatoria|Combinatorics]]
 **Metodo:** [[method_casework|Case analysis]], [[method_simmetria|Using symmetry]]
-**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_conteggio_sistematico|Systematic counting]], [[skill_modellizzazione|Modelling / translating the text]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_conteggio_sistematico|Systematic counting]], [[skill_modellizzazione|Modelling / translating the text]], [[skill_astrazione|Abstraction / generalisation]]
 **Area:** [[Geometria|Geometry]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
-
-[[Quesiti/src_bocconi_finaleint_2009_g1#q15|src_bocconi_finaleint_2009_g1__Q15]]
 
 
 
@@ -591,11 +568,9 @@ level: Finale Internazionale Campionati Internazionali di Giochi Matematici (Par
 **Abilita:** [[skill_modellizzazione|Modelling / translating the text]], [[skill_conteggio_sistematico|Systematic counting]], [[skill_ragionamento_geometrico|Geometric reasoning]]
 **Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Geometria|Geometry]]
 
-[[Quesiti/src_bocconi_finaleint_2009_g1#q16|src_bocconi_finaleint_2009_g1__Q16]]
 
 
-
-<span class="atom-split" id="q17" data-atom="q17" data-title="Quesito 17" data-tags="topic_geometria_piana,method_coordinate,method_casework,skill_ragionamento_geometrico,skill_manipolazione_algebrica,skill_modellizzazione"></span>
+<span class="atom-split" id="q17" data-atom="q17" data-title="Quesito 17" data-tags="topic_geometria_piana,topic_aritmetica,method_coordinate,method_casework,method_simmetria,skill_ragionamento_geometrico,skill_manipolazione_algebrica,skill_modellizzazione"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -605,12 +580,12 @@ level: Finale Internazionale Campionati Internazionali di Giochi Matematici (Par
 > 17 - IL BLASONE (coefficiente 17)
 > Il blasone di Maths-Chateau possiede un asse di simmetria verticale. I quattro archi di cerchio hanno lo stesso raggio. Messi uno di seguito all'altro, un arco piccolo e un arco grande formano esattamente un quarto di cerchio. La tangente all'arco grande e perpendicolare al segmento orizzontale e l'arco piccolo e tangente a ciascuna estremita di questo segmento. Tutti i punti di tangenza e di contatto sono perfetti. I raggi dei due cerchi misurano un numero intero di millimetri. Qual e il rapporto fra il piu grande e il piu piccolo? Si rispondera sotto forma di frazione irriducibile.
 
-![[src_bocconi_finaleint_2009_g1__q17.png]]
+![[src_bocconi_finaleint_2009_g1__Q17.png]]
 
-**Topic:** [[topic_geometria_piana|Geometria piana]]
-**Metodo:** [[method_coordinate|Coordinate]], [[method_casework|Casework]]
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_coordinate|Coordinate]], [[method_casework|Casework]], [[method_simmetria|Sfruttamento della simmetria]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]]
-**Area:** [[Geometria]]
+**Area:** [[Geometria]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** $\frac{39}{20}$
 **Fonte:** [apri PDF](https://drive.google.com/file/d/16BeuL7zOBSXfhXBKcAV-KaXZzpog_ipL/view)
 
@@ -623,18 +598,17 @@ level: Finale Internazionale Campionati Internazionali di Giochi Matematici (Par
 > 17 - THE COAT OF ARMS (coefficient 17)
 > The coat of arms of Maths-Chateau has a vertical axis of symmetry. The four circular arcs have the same radius. When placed one after another, a small arc and a large arc together form exactly a quarter of a circle. The tangent to the large arc is perpendicular to the horizontal segment, and the small arc is tangent to each end of this segment. All points of tangency and contact are perfect. The radii of the two circles measure a whole number of millimetres. What is the ratio of the largest to the smallest? The answer should be given as an irreducible fraction.
 
-![[src_bocconi_finaleint_2009_g1__q17.png]]
+![[src_bocconi_finaleint_2009_g1__Q17.png]]
 
-**Topic:** [[topic_geometria_piana|Plane geometry]]
-**Metodo:** [[method_coordinate|Coordinate method]], [[method_casework|Case analysis]]
+
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_coordinate|Coordinate method]], [[method_casework|Case analysis]], [[method_simmetria|Using symmetry]]
 **Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_modellizzazione|Modelling / translating the text]]
-**Area:** [[Geometria|Geometry]]
-
-[[Quesiti/src_bocconi_finaleint_2009_g1#q17|src_bocconi_finaleint_2009_g1__Q17]]
+**Area:** [[Geometria|Geometry]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
 
 
-<span class="atom-split" id="q18" data-atom="q18" data-title="Quesito 18" data-tags="topic_aritmetica,topic_combinatoria,method_casework,method_simmetria,method_estremalita,skill_modellizzazione,skill_conteggio_sistematico,skill_manipolazione_algebrica"></span>
+<span class="atom-split" id="q18" data-atom="q18" data-title="Quesito 18" data-tags="topic_aritmetica,topic_combinatoria,method_casework,method_simmetria,method_estremalita,method_doppio_conteggio,skill_modellizzazione,skill_conteggio_sistematico,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -644,10 +618,10 @@ level: Finale Internazionale Campionati Internazionali di Giochi Matematici (Par
 > 18 - DA 2 A 16 (coefficiente 18)
 > Collocate tutti i numeri da 2 a 16, in ragione di uno solo per disco. La somma dei numeri su ciascuna delle 9 linee tracciate deve essere sempre la stessa. Ai vertici del triangolo, i numeri devono essere collocati in modo che $a < b < c$.
 
-![[src_bocconi_finaleint_2009_g1__q18.png]]
+![[src_bocconi_finaleint_2009_g1__Q18.png]]
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
-**Metodo:** [[method_casework|Casework]], [[method_simmetria|Simmetria]], [[method_estremalita|Estremalità]]
+**Metodo:** [[method_casework|Casework]], [[method_simmetria|Simmetria]], [[method_estremalita|Estremalità]], [[method_doppio_conteggio|Doppio conteggio]]
 **Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 2 soluzioni
@@ -662,11 +636,10 @@ level: Finale Internazionale Campionati Internazionali di Giochi Matematici (Par
 > 18 - DA 2 TO 16 (coefficient 18)
 > Place all the numbers from 2 to 16, with exactly one number per disc. The sum of the numbers on each of the 9 drawn lines must always be the same. At the vertices of the triangle, the numbers must be placed so that $a < b < c$.
 
-![[src_bocconi_finaleint_2009_g1__q18.png]]
+![[src_bocconi_finaleint_2009_g1__Q18.png]]
+
 
 **Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_combinatoria|Combinatorics]]
-**Metodo:** [[method_casework|Case analysis]], [[method_simmetria|Using symmetry]], [[method_estremalita|Extremal principle]]
+**Metodo:** [[method_casework|Case analysis]], [[method_simmetria|Using symmetry]], [[method_estremalita|Extremal principle]], [[method_doppio_conteggio|Double counting]]
 **Abilita:** [[skill_modellizzazione|Modelling / translating the text]], [[skill_conteggio_sistematico|Systematic counting]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
-
-[[Quesiti/src_bocconi_finaleint_2009_g1#q18|src_bocconi_finaleint_2009_g1__Q18]]

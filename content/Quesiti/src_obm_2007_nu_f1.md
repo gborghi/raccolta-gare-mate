@@ -43,11 +43,9 @@ level: OBM Nível Universitário
 **Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 
-[[Quesiti/src_obm_2007_nu_f1#q01|src_obm_2007_nu_f1__Q01]]
 
 
-
-<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_funzionali,topic_trigonometria,method_trigonometria,skill_manipolazione_algebrica,skill_astrazione"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_funzionali,topic_trigonometria,topic_aritmetica,method_trigonometria,method_congruenze,skill_manipolazione_algebrica,skill_astrazione"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -56,10 +54,10 @@ level: OBM Nível Universitário
 
 > Let $f$ be the function $f(x) = \sum_{k=1}^{n}\left(\dfrac{a_k}{2}z^k + \dfrac{a_k}{2}z^{-k}\right)$ with $z = e^{ix}$. Determine the smallest positive period of $f$. (The official solution shows that $\dfrac{2\pi}{m}$ is a period and is indeed the smallest one: writing $z = e^{ix}$ and $w = e^{ip}$, $f(x+p) = \sum_{k=1}^{n}\left(\dfrac{a_k w^k}{2}z^k + \dfrac{a_k w^{-k}}{2}z^{-k}\right)$; two rational functions equal for all complex numbers of modulus $1$ have equal coefficients, so $a_k w^k = a_k$ for $k=1,\ldots,n$; hence whenever $a_k \neq 0$ one needs $\dfrac{kp}{2\pi}\in\mathbb{Z}$, and $p$ must be a multiple of $\dfrac{2\pi}{m}$, where $m = \gcd\{k : a_k \neq 0\}$.) Statement reconstructed from the official solution.
 
-**Topic:** [[topic_funzionali|Equazioni funzionali]], [[topic_trigonometria|Trigonometria]]
-**Metodo:** [[method_trigonometria|Trigonometria]]
+**Topic:** [[topic_funzionali|Equazioni funzionali]], [[topic_trigonometria|Trigonometria]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_trigonometria|Trigonometria]], [[method_congruenze|Modular arithmetic / congruences]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]]
-**Area:** [[Algebra e Analisi]], [[Geometria]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Geometria|Geometry]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Risposta:** 2*pi/m
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1lOJCEY5_AKOF2CG2hkgyD8fhqvhk5Tjs/view)
 
@@ -75,12 +73,11 @@ level: OBM Nível Universitário
 
 > [!warning] Estratto/tradotto: da verificare con la fonte.
 
-**Topic:** [[topic_funzionali|Equazioni funzionali]], [[topic_trigonometria|Trigonometria]]
-**Metodo:** [[method_trigonometria|Trigonometria]]
-**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]]
-**Area:** [[Algebra e Analisi]], [[Geometria]]
 
-[[Quesiti/src_obm_2007_nu_f1#q02|src_obm_2007_nu_f1__Q02]]
+**Topic:** [[topic_funzionali|Equazioni funzionali]], [[topic_trigonometria|Trigonometria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_trigonometria|Trigonometria]], [[method_congruenze|Aritmetica modulare / congruenze]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]]
+**Area:** [[Algebra e Analisi]], [[Geometria]], [[Aritmetica e Teoria dei Numeri]]
 
 
 
@@ -129,8 +126,6 @@ level: OBM Nível Universitário
 **Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]]
 
-[[Quesiti/src_obm_2007_nu_f1#q03|src_obm_2007_nu_f1__Q03]]
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_aritmetica,method_congruenze,method_fattorizzazione,skill_manipolazione_algebrica,skill_casework_accurato,skill_lettura_attenta"></span>
@@ -164,8 +159,6 @@ level: OBM Nível Universitário
 **Metodo:** [[method_congruenze|Congruenze]], [[method_fattorizzazione|Fattorizzazione]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Casework accurato]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
-
-[[Quesiti/src_obm_2007_nu_f1#q04|src_obm_2007_nu_f1__Q04]]
 
 
 
@@ -202,11 +195,9 @@ level: OBM Nível Universitário
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Algebra e Analisi]]
 
-[[Quesiti/src_obm_2007_nu_f1#q05|src_obm_2007_nu_f1__Q05]]
 
 
-
-<span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_algebra,topic_trigonometria,method_ricorsione,method_telescoping,skill_manipolazione_algebrica,skill_riconoscimento_pattern,skill_lettura_attenta"></span>
+<span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_algebra,topic_trigonometria,topic_funzionali,method_ricorsione,method_telescoping,skill_manipolazione_algebrica,skill_riconoscimento_pattern,skill_lettura_attenta"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -217,10 +208,10 @@ level: OBM Nível Universitário
 > $$a_{n+2} = \dfrac{1}{(n+1)(n+2)}\big(c_n - b_0 a_n - 2b_1 a_{n-1} - \cdots - (n+1)b_0 a_{n+1} - 3a_{n+1}\big),$$
 > where the initial data is $a_N \neq 0$ and $a_m = 0$ for $0 < m < N$. Find the smallest such $\widetilde{N}$ and the value of $\displaystyle\lim_{t \to 0}\dfrac{t\,y'}{y - 1}$. (Official solution: using $2\sin t + \tan t = 3t + \dfrac{3t^3}{20} + \cdots$ one finds $\widetilde{N} = 5$, whence $\displaystyle\lim_{t \to 0}\dfrac{t\,y'}{y - 1} = 7$.) Statement reconstructed from the official solution; several intermediate terms are partly illegible in the source.
 
-**Topic:** [[topic_algebra|Algebra]], [[topic_trigonometria|Trigonometria]]
+**Topic:** [[topic_algebra|Algebra]], [[topic_trigonometria|Trigonometria]], [[topic_funzionali|Functional equations / sequences]]
 **Metodo:** [[method_ricorsione|Ricorsione]], [[method_telescoping|Telescoping]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_lettura_attenta|Lettura attenta]]
-**Area:** [[Algebra e Analisi]], [[Geometria]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Geometria|Geometry]]
 **Risposta:** limit = 7 (with N = 5)
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1lOJCEY5_AKOF2CG2hkgyD8fhqvhk5Tjs/view)
 
@@ -238,9 +229,8 @@ level: OBM Nível Universitário
 
 > [!warning] Estratto/tradotto: da verificare con la fonte.
 
-**Topic:** [[topic_algebra|Algebra]], [[topic_trigonometria|Trigonometria]]
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_trigonometria|Trigonometria]], [[topic_funzionali|Equazioni funzionali / successioni]]
 **Metodo:** [[method_ricorsione|Ricorsione]], [[method_telescoping|Telescoping]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Algebra e Analisi]], [[Geometria]]
-
-[[Quesiti/src_obm_2007_nu_f1#q06|src_obm_2007_nu_f1__Q06]]

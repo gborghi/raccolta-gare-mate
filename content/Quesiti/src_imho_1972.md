@@ -38,8 +38,6 @@ level: IMO
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]], [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 
-[[Quesiti/src_imho_1972#q01|src_imho_1972__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_geometria_piana,method_induzione,method_casework,skill_ragionamento_geometrico,skill_astrazione,skill_lettura_attenta"></span>
@@ -69,8 +67,6 @@ level: IMO
 **Metodo:** [[method_induzione|Induzione]], [[method_casework|Casework]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_astrazione|Astrazione]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Geometria]]
-
-[[Quesiti/src_imho_1972#q02|src_imho_1972__Q02]]
 
 
 
@@ -105,8 +101,6 @@ level: IMO
 **Metodo:** [[method_induzione|Induzione]], [[method_congruenze|Aritmetica modulare / congruenze]], [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
 **Abilità:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di schemi]], [[skill_lettura_attenta|Lettura attenta del testo]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Aritmetica e teoria dei numeri]], [[Combinatoria, Logica e Probabilita|Combinatoria, logica e probabilità]]
-
-[[Quesiti/src_imho_1972#q03|src_imho_1972__Q03]]
 
 
 
@@ -152,11 +146,9 @@ level: IMO
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Algebra e Analisi]]
 
-[[Quesiti/src_imho_1972#q04|src_imho_1972__Q04]]
 
 
-
-<span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_funzionali,topic_algebra,method_backward,method_disuguaglianze,skill_manipolazione_algebrica,skill_astrazione,skill_lettura_attenta"></span>
+<span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_funzionali,topic_algebra,method_backward,method_disuguaglianze,method_ricorsione,skill_manipolazione_algebrica,skill_astrazione,skill_lettura_attenta"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -168,9 +160,9 @@ level: IMO
 > for all $x, y$. Prove that if $f(x)$ is not identically zero, and if $|f(x)| \le 1$ for all $x$, then $|g(y)| \le 1$ for all $y$.
 
 **Topic:** [[topic_funzionali|Equazioni funzionali]], [[topic_algebra|Algebra]]
-**Metodo:** [[method_backward|Backward]], [[method_disuguaglianze|Disuguaglianze]]
+**Metodo:** [[method_backward|Backward]], [[method_disuguaglianze|Disuguaglianze]], [[method_ricorsione|Recursion]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]], [[skill_lettura_attenta|Lettura attenta]]
-**Area:** [[Algebra e Analisi]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1qZGmOEFJdiQpu2t9ImsxTEXzfpVAznwW/view)
 
 
@@ -183,12 +175,11 @@ level: IMO
 > $$f(x + y) + f(x - y) = 2f(x)g(y)$$
 > per ogni $x, y$. Dimostrare che, se $f(x)$ non è identicamente nulla e se $|f(x)| \le 1$ per ogni $x$, allora $|g(y)| \le 1$ per ogni $y$.
 
+
 **Topic:** [[topic_funzionali|Equazioni funzionali]], [[topic_algebra|Algebra]]
-**Metodo:** [[method_backward|Backward]], [[method_disuguaglianze|Disuguaglianze]]
+**Metodo:** [[method_backward|Backward]], [[method_disuguaglianze|Disuguaglianze]], [[method_ricorsione|Ricorsione]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Algebra e Analisi]]
-
-[[Quesiti/src_imho_1972#q05|src_imho_1972__Q05]]
 
 
 
@@ -219,5 +210,3 @@ level: IMO
 **Metodo:** [[method_estremalita|Principio di estremalità]], [[method_simmetria|Sfruttamento della simmetria]]
 **Abilità:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_astrazione|Astrazione / generalizzazione]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
 **Area:** [[Geometria|Geometria]]
-
-[[Quesiti/src_imho_1972#q06|src_imho_1972__Q06]]

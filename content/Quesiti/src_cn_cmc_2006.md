@@ -43,11 +43,9 @@ level: China Mathematical Competition
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]], [[Algebra e Analisi]]
 
-[[Quesiti/src_cn_cmc_2006#q01|src_cn_cmc_2006__Q01]]
 
 
-
-<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_algebra,topic_insiemi_funzioni,method_casework,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_algebra,topic_insiemi_funzioni,topic_disuguaglianze,method_casework,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -58,10 +56,10 @@ level: China Mathematical Competition
 > 
 > (A) $\frac{1}{2} < x < 1$\quad (B) $x > \frac{1}{2}$ and $x \ne 1$\quad (C) $x > 1$\quad (D) $0 < x < 1$
 
-**Topic:** [[topic_algebra|Algebra]], [[topic_insiemi_funzioni|Insiemi e funzioni]]
+**Topic:** [[topic_algebra|Algebra]], [[topic_insiemi_funzioni|Insiemi e funzioni]], [[topic_disuguaglianze|Inequalities]]
 **Metodo:** [[method_casework|Casework]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
-**Area:** [[Algebra e Analisi]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
 **Risposta:** B
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1A6F-Sk42BaQt80ts_sFXZiDY4uHJtL3I/view)
 
@@ -75,12 +73,11 @@ level: China Mathematical Competition
 >
 > (A) $\frac{1}{2} < x < 1$\quad (B) $x > \frac{1}{2}$ e $x \ne 1$\quad (C) $x > 1$\quad (D) $0 < x < 1$
 
-**Topic:** [[topic_algebra|Algebra]], [[topic_insiemi_funzioni|Insiemi e funzioni]]
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_insiemi_funzioni|Insiemi e funzioni]], [[topic_disuguaglianze|Disuguaglianze]]
 **Metodo:** [[method_casework|Casework]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Algebra e Analisi]]
-
-[[Quesiti/src_cn_cmc_2006#q02|src_cn_cmc_2006__Q02]]
 
 
 
@@ -117,8 +114,6 @@ level: China Mathematical Competition
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Algebra e Analisi]], [[Combinatoria, Logica e Probabilita]]
 
-[[Quesiti/src_cn_cmc_2006#q03|src_cn_cmc_2006__Q03]]
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_geometria_solida,topic_algebra,method_coordinate,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
@@ -154,11 +149,9 @@ level: China Mathematical Competition
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]], [[Algebra e Analisi]]
 
-[[Quesiti/src_cn_cmc_2006#q04|src_cn_cmc_2006__Q04]]
 
 
-
-<span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_insiemi_funzioni,topic_algebra,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
+<span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_insiemi_funzioni,topic_algebra,method_simmetria,skill_manipolazione_algebrica,skill_lettura_attenta,skill_riconoscimento_pattern"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -170,8 +163,9 @@ level: China Mathematical Competition
 > (A) necessary and sufficient\quad (B) not necessary but sufficient\quad (C) necessary but not sufficient\quad (D) neither necessary nor sufficient
 
 **Topic:** [[topic_insiemi_funzioni|Insiemi e funzioni]], [[topic_algebra|Algebra]]
-**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
-**Area:** [[Algebra e Analisi]]
+**Metodo:** [[method_simmetria|Using symmetry]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
 **Risposta:** A
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1A6F-Sk42BaQt80ts_sFXZiDY4uHJtL3I/view)
 
@@ -185,11 +179,11 @@ level: China Mathematical Competition
 >
 > (A) necessaria e sufficiente\quad (B) non necessaria ma sufficiente\quad (C) necessaria ma non sufficiente\quad (D) né necessaria né sufficiente
 
-**Topic:** [[topic_insiemi_funzioni|Insiemi e funzioni]], [[topic_algebra|Algebra]]
-**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
-**Area:** [[Algebra e Analisi]]
 
-[[Quesiti/src_cn_cmc_2006#q05|src_cn_cmc_2006__Q05]]
+**Topic:** [[topic_insiemi_funzioni|Insiemi e funzioni]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_simmetria|Sfruttamento della simmetria]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Algebra e Analisi]]
 
 
 
@@ -232,11 +226,9 @@ level: China Mathematical Competition
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 
-[[Quesiti/src_cn_cmc_2006#q06|src_cn_cmc_2006__Q06]]
 
 
-
-<span class="atom-split" id="q07" data-atom="q07" data-title="Quesito 7" data-tags="topic_trigonometria,topic_insiemi_funzioni,skill_manipolazione_algebrica,skill_riconoscimento_pattern"></span>
+<span class="atom-split" id="q07" data-atom="q07" data-title="Quesito 7" data-tags="topic_trigonometria,topic_insiemi_funzioni,topic_algebra,method_trigonometria,skill_manipolazione_algebrica,skill_riconoscimento_pattern"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -245,9 +237,10 @@ level: China Mathematical Competition
 
 > Let $f(x) = \sin^4 x - \sin x \cos x + \cos^4 x$. The range of $f(x)$ is ________.
 
-**Topic:** [[topic_trigonometria|Trigonometria]], [[topic_insiemi_funzioni|Insiemi e funzioni]]
+**Topic:** [[topic_trigonometria|Trigonometria]], [[topic_insiemi_funzioni|Insiemi e funzioni]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_trigonometria|Trigonometric techniques]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
-**Area:** [[Geometria]], [[Algebra e Analisi]]
+**Area:** [[Geometria|Geometry]], [[Algebra e Analisi|Algebra and analysis]]
 **Risposta:** $\left[0,\, \dfrac{9}{8}\right]$
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1A6F-Sk42BaQt80ts_sFXZiDY4uHJtL3I/view)
 
@@ -259,15 +252,15 @@ level: China Mathematical Competition
 
 > Sia $f(x) = \sin^4 x - \sin x \cos x + \cos^4 x$. L'intervallo di $f(x)$ è ________.
 
-**Topic:** [[topic_trigonometria|Trigonometria]], [[topic_insiemi_funzioni|Insiemi e funzioni]]
+
+**Topic:** [[topic_trigonometria|Trigonometria]], [[topic_insiemi_funzioni|Insiemi e funzioni]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_trigonometria|Tecniche trigonometriche]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Geometria]], [[Algebra e Analisi]]
 
-[[Quesiti/src_cn_cmc_2006#q07|src_cn_cmc_2006__Q07]]
 
 
-
-<span class="atom-split" id="q08" data-atom="q08" data-title="Quesito 8" data-tags="topic_algebra,topic_insiemi_funzioni,method_disuguaglianze,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
+<span class="atom-split" id="q08" data-atom="q08" data-title="Quesito 8" data-tags="topic_algebra,topic_insiemi_funzioni,topic_trigonometria,method_disuguaglianze,method_trigonometria,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -276,10 +269,10 @@ level: China Mathematical Competition
 
 > Let complex number $z = (a + \cos\theta) + (2a - \sin\theta)\mathrm{i}$. If $|z| \le 2$ for any $\theta \in \mathbf{R}$, then the range of real number $a$ is ________.
 
-**Topic:** [[topic_algebra|Algebra]], [[topic_insiemi_funzioni|Insiemi e funzioni]]
-**Metodo:** [[method_disuguaglianze|Disuguaglianze]]
+**Topic:** [[topic_algebra|Algebra]], [[topic_insiemi_funzioni|Insiemi e funzioni]], [[topic_trigonometria|Trigonometry]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze]], [[method_trigonometria|Trigonometric techniques]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
-**Area:** [[Algebra e Analisi]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Geometria|Geometry]]
 **Risposta:** $\left[-\dfrac{\sqrt{5}}{5},\, \dfrac{\sqrt{5}}{5}\right]$
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1A6F-Sk42BaQt80ts_sFXZiDY4uHJtL3I/view)
 
@@ -291,16 +284,15 @@ level: China Mathematical Competition
 
 > Sia $z = (a + \cos\theta) + (2a - \sin\theta)\mathrm{i}$ un numero complesso. Se $|z| \le 2$ per ogni $\theta \in \mathbf{R}$, allora l'intervallo del numero reale $a$ è ________.
 
-**Topic:** [[topic_algebra|Algebra]], [[topic_insiemi_funzioni|Insiemi e funzioni]]
-**Metodo:** [[method_disuguaglianze|Disuguaglianze]]
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_insiemi_funzioni|Insiemi e funzioni]], [[topic_trigonometria|Trigonometria]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze]], [[method_trigonometria|Tecniche trigonometriche]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
-**Area:** [[Algebra e Analisi]]
-
-[[Quesiti/src_cn_cmc_2006#q08|src_cn_cmc_2006__Q08]]
+**Area:** [[Algebra e Analisi]], [[Geometria]]
 
 
 
-<span class="atom-split" id="q09" data-atom="q09" data-title="Quesito 9" data-tags="topic_geometria_analitica,topic_geometria_piana,method_coordinate,method_trigonometria,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
+<span class="atom-split" id="q09" data-atom="q09" data-title="Quesito 9" data-tags="topic_geometria_analitica,topic_geometria_piana,method_coordinate,method_trigonometria,method_estremalita,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -310,9 +302,9 @@ level: China Mathematical Competition
 > Suppose points $F_1$, $F_2$ are the left and right foci of the ellipse $\dfrac{x^2}{a^2} + \dfrac{y^2}{b^2} = 1$ (where $a > b > 0$, $b = 2$) respectively, and $P$ is a point on line $l_1$. When $\angle F_1 P F_2$ reaches the maximum, the value of ratio $\left|\dfrac{PF_1}{PF_2}\right|$ is ________.
 
 **Topic:** [[topic_geometria_analitica|Geometria analitica]], [[topic_geometria_piana|Geometria piana]]
-**Metodo:** [[method_coordinate|Coordinate]], [[method_trigonometria|Trigonometria]]
+**Metodo:** [[method_coordinate|Coordinate]], [[method_trigonometria|Trigonometria]], [[method_estremalita|Extremal principle]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
-**Area:** [[Geometria]]
+**Area:** [[Geometria|Geometry]]
 **Risposta:** $\sqrt{5} - 1$
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1A6F-Sk42BaQt80ts_sFXZiDY4uHJtL3I/view)
 
@@ -324,16 +316,15 @@ level: China Mathematical Competition
 
 > Si supponga che i punti $F_1$, $F_2$ siano rispettivamente il fuoco sinistro e il fuoco destro dell'ellisse $\dfrac{x^2}{a^2} + \dfrac{y^2}{b^2} = 1$ (dove $a > b > 0$, $b = 2$), e che $P$ sia un punto sulla retta $l_1$. Quando $\angle F_1 P F_2$ raggiunge il valore massimo, il valore del rapporto $\left|\dfrac{PF_1}{PF_2}\right|$ è ________.
 
+
 **Topic:** [[topic_geometria_analitica|Geometria analitica]], [[topic_geometria_piana|Geometria piana]]
-**Metodo:** [[method_coordinate|Coordinate]], [[method_trigonometria|Trigonometria]]
+**Metodo:** [[method_coordinate|Coordinate]], [[method_trigonometria|Trigonometria]], [[method_estremalita|Principio di estremalita]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 
-[[Quesiti/src_cn_cmc_2006#q09|src_cn_cmc_2006__Q09]]
 
 
-
-<span class="atom-split" id="q10" data-atom="q10" data-title="Quesito 10" data-tags="topic_algebra,topic_aritmetica,method_fattorizzazione,method_congruenze,skill_manipolazione_algebrica,skill_riconoscimento_pattern,skill_lettura_attenta"></span>
+<span class="atom-split" id="q10" data-atom="q10" data-title="Quesito 10" data-tags="topic_algebra,topic_aritmetica,topic_funzionali,method_fattorizzazione,method_congruenze,skill_manipolazione_algebrica,skill_riconoscimento_pattern,skill_lettura_attenta"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -342,10 +333,10 @@ level: China Mathematical Competition
 
 > Let $\{a_n\}$ be an arithmetic progression with common difference $d$ ($d \neq 0$) and $\{b_n\}$ be a geometric progression with common ratio $q$, where $q$ is a positive rational number less than $1$. If $a_1 = d$, $b_1 = d^2$ and $\frac{a_1^2 + a_2^2 + a_3^2}{b_1 + b_2 + b_3}$ is a positive integer, then $q$ equals $\underline{\hspace{2cm}}$.
 
-**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_funzionali|Functional equations / sequences]]
 **Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_congruenze|Congruenze]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_lettura_attenta|Lettura attenta]]
-**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Risposta:** $\frac{1}{2}$
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1A6F-Sk42BaQt80ts_sFXZiDY4uHJtL3I/view)
 
@@ -357,16 +348,15 @@ level: China Mathematical Competition
 
 > Sia $\{a_n\}$ una progressione aritmetica con ragione $d$ ($d \neq 0$) e sia $\{b_n\}$ una progressione geometrica con rapporto $q$, dove $q$ è un numero razionale positivo minore di $1$. Se $a_1 = d$, $b_1 = d^2$ e $\frac{a_1^2 + a_2^2 + a_3^2}{b_1 + b_2 + b_3}$ sono un numero intero positivo, allora $q$ è uguale a $\underline{\hspace{2cm}}$.
 
-**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_funzionali|Equazioni funzionali / successioni]]
 **Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_congruenze|Congruenze]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 
-[[Quesiti/src_cn_cmc_2006#q10|src_cn_cmc_2006__Q10]]
 
 
-
-<span class="atom-split" id="q11" data-atom="q11" data-title="Quesito 11" data-tags="topic_algebra,topic_trigonometria,method_trigonometria,skill_manipolazione_algebrica,skill_stima,skill_lettura_attenta"></span>
+<span class="atom-split" id="q11" data-atom="q11" data-title="Quesito 11" data-tags="topic_algebra,topic_trigonometria,topic_insiemi_funzioni,method_trigonometria,skill_manipolazione_algebrica,skill_stima,skill_lettura_attenta"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -375,10 +365,10 @@ level: China Mathematical Competition
 
 > Given $f(x) = \frac{\sin(\pi x) - \cos(\pi x) + 2}{\sqrt{x}}$ for $\frac{1}{4} \le x \le \frac{5}{4}$, the minimum of $f(x)$ is $\underline{\hspace{2cm}}$.
 
-**Topic:** [[topic_algebra|Algebra]], [[topic_trigonometria|Trigonometria]]
+**Topic:** [[topic_algebra|Algebra]], [[topic_trigonometria|Trigonometria]], [[topic_insiemi_funzioni|Sets and functions]]
 **Metodo:** [[method_trigonometria|Trigonometria]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]], [[skill_lettura_attenta|Lettura attenta]]
-**Area:** [[Algebra e Analisi]], [[Geometria]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Geometria|Geometry]]
 **Risposta:** $\frac{4\sqrt{5}}{5}$
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1A6F-Sk42BaQt80ts_sFXZiDY4uHJtL3I/view)
 
@@ -390,12 +380,11 @@ level: China Mathematical Competition
 
 > Dato $f(x) = \frac{\sin(\pi x) - \cos(\pi x) + 2}{\sqrt{x}}$ per $\frac{1}{4} \le x \le \frac{5}{4}$, il minimo di $f(x)$ è $\underline{\hspace{2cm}}$.
 
-**Topic:** [[topic_algebra|Algebra]], [[topic_trigonometria|Trigonometria]]
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_trigonometria|Trigonometria]], [[topic_insiemi_funzioni|Insiemi e funzioni]]
 **Metodo:** [[method_trigonometria|Trigonometria]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Algebra e Analisi]], [[Geometria]]
-
-[[Quesiti/src_cn_cmc_2006#q11|src_cn_cmc_2006__Q11]]
 
 
 
@@ -408,7 +397,7 @@ level: China Mathematical Competition
 
 > Four letters, two $a$'s and two $b$'s, are filled into $16$ cells of a matrix as shown in the figure. It is required that each row contains at most one letter, and each row or column cannot contain the same letters. Then there are $\underline{\hspace{2cm}}$ different ways that the matrix can be filled. (A numerical answer is needed.)
 
-![[src_cn_b07_w46__q12.png]]
+![[src_cn_b07_w46__Q12.png]]
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_conteggio|Conteggio]], [[method_inclusione_esclusione|Inclusione-esclusione]], [[method_casi_conteggio|Casi e conteggio]]
@@ -425,18 +414,16 @@ level: China Mathematical Competition
 
 > Quattro lettere, due $a$ e due $b$, vengono inserite nelle celle $16$ di una matrice come mostrato nella figura. Si richiede che ogni riga contenga al più una lettera e che né ogni riga né ogni colonna possano contenere le stesse lettere. Allora ci sono $\underline{\hspace{2cm}}$ modi diversi di riempire la matrice. (È richiesta una risposta numerica.)
 
-![[src_cn_b07_w46__q12.png]]
+![[src_cn_b07_w46__Q12.png]]
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_conteggio|Conteggio]], [[method_inclusione_esclusione|Inclusione-esclusione]], [[method_casi_conteggio|Casi e conteggio]]
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 
-[[Quesiti/src_cn_cmc_2006#q12|src_cn_cmc_2006__Q12]]
 
 
-
-<span class="atom-split" id="q13" data-atom="q13" data-title="Quesito 13" data-tags="topic_algebra,topic_combinatoria,method_induzione,method_ricorsione,skill_manipolazione_algebrica,skill_ragionamento_geometrico"></span>
+<span class="atom-split" id="q13" data-atom="q13" data-title="Quesito 13" data-tags="topic_algebra,topic_combinatoria,topic_geometria_analitica,topic_funzionali,topic_aritmetica,method_induzione,method_ricorsione,method_fattorizzazione,skill_manipolazione_algebrica,skill_ragionamento_geometrico,skill_riconoscimento_pattern"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -445,10 +432,10 @@ level: China Mathematical Competition
 
 > Given an integer $n \ge 2$, define $M_k(x_k, y_k)$ to be an intersection point of the parabola $y^2 = kx - 1$ and the line $y = x$. Prove that for any positive integer $m$, $k_m = x_m + \dfrac{1}{x_m}$ is a positive integer, where $k_0 = n$ and $k_{m+1} = k_m^2 - k_{m-1}$ (with $k_1 = n^2 - 2$).
 
-**Topic:** [[topic_algebra|Algebra]], [[topic_combinatoria|Combinatoria]]
-**Metodo:** [[method_induzione|Induzione]], [[method_ricorsione|Ricorsione]]
-**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
-**Area:** [[Algebra e Analisi]], [[Combinatoria, Logica e Probabilita]]
+**Topic:** [[topic_algebra|Algebra]], [[topic_combinatoria|Combinatoria]], [[topic_geometria_analitica|Coordinate geometry]], [[topic_funzionali|Functional equations / sequences]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_induzione|Induzione]], [[method_ricorsione|Ricorsione]], [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Geometria|Geometry]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1A6F-Sk42BaQt80ts_sFXZiDY4uHJtL3I/view)
 
 
@@ -459,16 +446,15 @@ level: China Mathematical Competition
 
 > Dato un intero $n \ge 2$, si definisca $M_k(x_k, y_k)$ come un punto d'intersezione della parabola $y^2 = kx - 1$ e della retta $y = x$. Si dimostri che, per ogni intero positivo $m$, $k_m = x_m + \dfrac{1}{x_m}$ è un intero positivo, dove $k_0 = n$ e $k_{m+1} = k_m^2 - k_{m-1}$ (con $k_1 = n^2 - 2$).
 
-**Topic:** [[topic_algebra|Algebra]], [[topic_combinatoria|Combinatoria]]
-**Metodo:** [[method_induzione|Induzione]], [[method_ricorsione|Ricorsione]]
-**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
-**Area:** [[Algebra e Analisi]], [[Combinatoria, Logica e Probabilita]]
 
-[[Quesiti/src_cn_cmc_2006#q13|src_cn_cmc_2006__Q13]]
-
+**Topic:** [[topic_algebra|Algebra]], [[topic_combinatoria|Combinatoria]], [[topic_geometria_analitica|Geometria analitica]], [[topic_funzionali|Equazioni funzionali / successioni]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_induzione|Induzione]], [[method_ricorsione|Ricorsione]], [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Algebra e Analisi]], [[Combinatoria, Logica e Probabilita]], [[Geometria]], [[Aritmetica e Teoria dei Numeri]]
 
 
-<span class="atom-split" id="q14" data-atom="q14" data-title="Quesito 14" data-tags="topic_algebra,topic_disuguaglianze,method_estremalita,method_disuguaglianze,skill_manipolazione_algebrica,skill_casework_accurato,skill_stima"></span>
+
+<span class="atom-split" id="q14" data-atom="q14" data-title="Quesito 14" data-tags="topic_algebra,topic_disuguaglianze,topic_aritmetica,method_estremalita,method_disuguaglianze,method_fattorizzazione,method_casework,skill_manipolazione_algebrica,skill_casework_accurato,skill_stima"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -479,10 +465,10 @@ level: China Mathematical Competition
 > (1) What value of $x_1, x_2, x_3, x_4, x_5$ will make $S$ the maximum?
 > (2) Further, if $|x_i - x_j| < 3$ for any $1 \le i, j \le 5$, what value of $x_1, x_2, x_3, x_4, x_5$ will make $S$ the minimum? Please give your answer.
 
-**Topic:** [[topic_algebra|Algebra]], [[topic_disuguaglianze|Disuguaglianze]]
-**Metodo:** [[method_estremalita|Estremalità]], [[method_disuguaglianze|Disuguaglianze]]
+**Topic:** [[topic_algebra|Algebra]], [[topic_disuguaglianze|Disuguaglianze]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_disuguaglianze|Disuguaglianze]], [[method_fattorizzazione|Factorisation / algebraic manipulation]], [[method_casework|Case analysis]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Casework accurato]], [[skill_stima|Stima]]
-**Area:** [[Algebra e Analisi]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1A6F-Sk42BaQt80ts_sFXZiDY4uHJtL3I/view)
 
 
@@ -493,16 +479,15 @@ level: China Mathematical Competition
 
 > Sia 2006 espresso come somma di cinque interi positivi $x_1, x_2, x_3, x_4, x_5$ e $S = \displaystyle\sum_{1 \le i < j \le 5} x_i x_j$. Si chiede: (1) Quale valore di $x_1, x_2, x_3, x_4, x_5$ renderà $S$ massimo? (2) Inoltre, se $|x_i - x_j| < 3$ per qualsiasi $1 \le i, j \le 5$, quale valore di $x_1, x_2, x_3, x_4, x_5$ renderà $S$ minimo? Si fornisca la risposta.
 
-**Topic:** [[topic_algebra|Algebra]], [[topic_disuguaglianze|Disuguaglianze]]
-**Metodo:** [[method_estremalita|Estremalità]], [[method_disuguaglianze|Disuguaglianze]]
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_disuguaglianze|Disuguaglianze]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_disuguaglianze|Disuguaglianze]], [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]], [[method_casework|Analisi per casi]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Casework accurato]], [[skill_stima|Stima]]
-**Area:** [[Algebra e Analisi]]
-
-[[Quesiti/src_cn_cmc_2006#q14|src_cn_cmc_2006__Q14]]
+**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 
 
 
-<span class="atom-split" id="q15" data-atom="q15" data-title="Quesito 15" data-tags="topic_insiemi_funzioni,topic_algebra,topic_trigonometria,method_simmetria,method_fattorizzazione,skill_astrazione,skill_manipolazione_algebrica,skill_ragionamento_geometrico"></span>
+<span class="atom-split" id="q15" data-atom="q15" data-title="Quesito 15" data-tags="topic_insiemi_funzioni,topic_algebra,topic_trigonometria,method_simmetria,method_fattorizzazione,method_trigonometria,skill_astrazione,skill_manipolazione_algebrica,skill_ragionamento_geometrico"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -512,9 +497,9 @@ level: China Mathematical Competition
 > Suppose $f(x + 2\pi) = f(x)$ for any $x \in \mathbb{R}$. Prove: there are $f_i(x)$ ($i = 1, 2, 3, 4$) such that\n(1) $f_i(x)$ ($i = 1, 2, 3, 4$) is an even function, and $f_i(x + \pi) = f_i(x)$ for any $x \in \mathbb{R}$;\n(2) $f(x) = f_1(x) + f_2(x)\cos x + f_3(x)\sin x + f_4(x)\sin 2x$ for any $x \in \mathbb{R}$.
 
 **Topic:** [[topic_insiemi_funzioni|Insiemi e funzioni]], [[topic_algebra|Algebra]], [[topic_trigonometria|Trigonometria]]
-**Metodo:** [[method_simmetria|Simmetria]], [[method_fattorizzazione|Fattorizzazione]]
+**Metodo:** [[method_simmetria|Simmetria]], [[method_fattorizzazione|Fattorizzazione]], [[method_trigonometria|Trigonometric techniques]]
 **Abilita:** [[skill_astrazione|Astrazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
-**Area:** [[Algebra e Analisi]], [[Geometria]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Geometria|Geometry]]
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1A6F-Sk42BaQt80ts_sFXZiDY4uHJtL3I/view)
 
 
@@ -525,9 +510,8 @@ level: China Mathematical Competition
 
 > Sia $f(x + 2\pi) = f(x)$ per ogni $x \in \mathbb{R}$. Dimostrare: esistono $f_i(x)$ ($i = 1, 2, 3, 4$) tali che\n(1) $f_i(x)$ ($i = 1, 2, 3, 4$) è una funzione pari, e $f_i(x + \pi) = f_i(x)$ per ogni $x \in \mathbb{R}$;\n(2) $f(x) = f_1(x) + f_2(x)\cos x + f_3(x)\sin x + f_4(x)\sin 2x$ per ogni $x \in \mathbb{R}$.
 
+
 **Topic:** [[topic_insiemi_funzioni|Insiemi e funzioni]], [[topic_algebra|Algebra]], [[topic_trigonometria|Trigonometria]]
-**Metodo:** [[method_simmetria|Simmetria]], [[method_fattorizzazione|Fattorizzazione]]
+**Metodo:** [[method_simmetria|Simmetria]], [[method_fattorizzazione|Fattorizzazione]], [[method_trigonometria|Tecniche trigonometriche]]
 **Abilita:** [[skill_astrazione|Astrazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Algebra e Analisi]], [[Geometria]]
-
-[[Quesiti/src_cn_cmc_2006#q15|src_cn_cmc_2006__Q15]]

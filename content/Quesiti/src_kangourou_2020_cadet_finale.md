@@ -10,19 +10,20 @@ level: kangourou
 
 
 
-<span class="atom-split" id="qc1" data-atom="qc1" data-title="Quesito C1" data-tags="topic_geometria_piana,skill_ragionamento_geometrico"></span>
+<span class="atom-split" id="qc1" data-atom="qc1" data-title="Quesito C1" data-tags="topic_geometria_piana,method_simmetria,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
 
 *Area della regione delimitata da quattro archi uguali*
 
-![[src_kangourou_2020_cadet_finale__probc1.png]]
+![[src_kangourou_2020_cadet_finale__probC1.png]]
 
 > I quattro archi che delimitano la regione ombreggiata hanno tutti la stessa lunghezza, uguale alla lunghezza dei due archi tratteggiati. Questa lunghezza è un quarto della lunghezza di una circonferenza di raggio 1 cm. Quanti centimetri quadrati misura l'area della regione ombreggiata? (vedi figura)
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
-**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Metodo:** [[method_simmetria|Sfruttamento della simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 **Risposta:** 2
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1USVAWxQY6y2E_COFv5RMawnN3IdAjH49/view)
@@ -33,19 +34,19 @@ level: kangourou
 
 *Area of the region bounded by four equal arcs*
 
-![[src_kangourou_2020_cadet_finale__probc1.png]]
+![[src_kangourou_2020_cadet_finale__probC1.png]]
 
 > The four arcs that bound the shaded region are all of the same length, which is equal to the length of the two dashed arcs. This length is one quarter of the circumference of a circle with a radius of 1 cm. How many square centimetres is the area of the shaded region? (see figure)
 
+
 **Topic:** [[topic_geometria_piana|Plane geometry]]
-**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Metodo:** [[method_simmetria|Using symmetry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
 **Area:** [[Geometria|Geometry]]
 
-[[Quesiti/src_kangourou_2020_cadet_finale#qc1|src_kangourou_2020_cadet_finale__QC1]]
 
 
-
-<span class="atom-split" id="qc2" data-atom="qc2" data-title="Quesito C2" data-tags="topic_geometria_analitica,method_simmetria,skill_ragionamento_geometrico"></span>
+<span class="atom-split" id="qc2" data-atom="qc2" data-title="Quesito C2" data-tags="topic_geometria_analitica,method_simmetria,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -56,7 +57,7 @@ level: kangourou
 
 **Topic:** [[topic_geometria_analitica|Geometria analitica]]
 **Metodo:** [[method_simmetria|Sfruttamento della simmetria]]
-**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 **Risposta:** 2020
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1USVAWxQY6y2E_COFv5RMawnN3IdAjH49/view)
@@ -69,12 +70,11 @@ level: kangourou
 
 > On the Cartesian plane, how long is the shortest path connecting point $(808, 808)$ to point $(404, -808)$ while touching the $y$-axis at least once?
 
+
 **Topic:** [[topic_geometria_analitica|Coordinate geometry]]
 **Metodo:** [[method_simmetria|Using symmetry]]
-**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
 **Area:** [[Geometria|Geometry]]
-
-[[Quesiti/src_kangourou_2020_cadet_finale#qc2|src_kangourou_2020_cadet_finale__QC2]]
 
 
 
@@ -107,11 +107,9 @@ level: kangourou
 **Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
-[[Quesiti/src_kangourou_2020_cadet_finale#qc3|src_kangourou_2020_cadet_finale__QC3]]
 
 
-
-<span class="atom-split" id="qc4" data-atom="qc4" data-title="Quesito C4" data-tags="topic_combinatoria,method_casework,skill_astrazione"></span>
+<span class="atom-split" id="qc4" data-atom="qc4" data-title="Quesito C4" data-tags="topic_combinatoria,method_casework,method_estremalita,skill_astrazione,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -127,8 +125,8 @@ level: kangourou
 > c) relativamente ad ogni modo di riempire la griglia esiste al più un numero speciale.
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
-**Metodo:** [[method_casework|Analisi per casi]]
-**Abilita:** [[skill_astrazione|Astrazione / generalizzazione]]
+**Metodo:** [[method_casework|Analisi per casi]], [[method_estremalita|Principio di estremalita]]
+**Abilita:** [[skill_astrazione|Astrazione / generalizzazione]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** aF bV cV
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1USVAWxQY6y2E_COFv5RMawnN3IdAjH49/view)
@@ -147,23 +145,22 @@ level: kangourou
 >
 > c) For each way of filling the grid, there is at most one special number.
 
+
 **Topic:** [[topic_combinatoria|Combinatorics]]
-**Metodo:** [[method_casework|Case analysis]]
-**Abilita:** [[skill_astrazione|Abstraction / generalisation]]
+**Metodo:** [[method_casework|Case analysis]], [[method_estremalita|Extremal principle]]
+**Abilita:** [[skill_astrazione|Abstraction / generalisation]], [[skill_casework_accurato|Careful case analysis]]
 **Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
-[[Quesiti/src_kangourou_2020_cadet_finale#qc4|src_kangourou_2020_cadet_finale__QC4]]
 
 
-
-<span class="atom-split" id="qc5" data-atom="qc5" data-title="Quesito C5" data-tags="topic_combinatoria,skill_conteggio_sistematico"></span>
+<span class="atom-split" id="qc5" data-atom="qc5" data-title="Quesito C5" data-tags="topic_combinatoria,method_conteggio,skill_conteggio_sistematico"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
 
 *Piu poligoni convessi che contengono p o che non lo contengono*
 
-![[src_kangourou_2020_cadet_finale__probc5.png]]
+![[src_kangourou_2020_cadet_finale__probC5.png]]
 
 ```tikz
 \begin{document}
@@ -180,6 +177,7 @@ level: kangourou
 > Su una circonferenza sono marcati 10 punti a due a due distinti fra loro. Si considerino tutti i possibili poligoni convessi (cioè poligoni non intrecciati che abbiano tutti gli angoli interni di misura inferiore a $180°$) i cui vertici siano alcuni dei punti marcati. Sia $p$ uno qualsiasi dei punti marcati. Sono di più i poligoni che contengono $p$ o quelli che non lo contengono, o sono in ugual numero? (vedi figura)
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_conteggio|Conteggio combinatorio]]
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** piu p
@@ -191,7 +189,7 @@ level: kangourou
 
 *More convex polygons that contain p or that do not contain p*
 
-![[src_kangourou_2020_cadet_finale__probc5.png]]
+![[src_kangourou_2020_cadet_finale__probC5.png]]
 
 ```tikz
 \begin{document}
@@ -207,15 +205,15 @@ level: kangourou
 
 > On a circle, 10 points are marked, with no two of them the same. Consider all possible convex polygons (that is, non-self-intersecting polygons in which all interior angles are less than $180°$) whose vertices are some of the marked points. Let $p$ be any one of the marked points. Are there more polygons that contain $p$ than those that do not contain it, or are there an equal number of each? (see figure)
 
+
 **Topic:** [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_conteggio|Combinatorial counting]]
 **Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
 **Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
-[[Quesiti/src_kangourou_2020_cadet_finale#qc5|src_kangourou_2020_cadet_finale__QC5]]
 
 
-
-<span class="atom-split" id="qc6" data-atom="qc6" data-title="Quesito C6" data-tags="topic_aritmetica,method_fattorizzazione,skill_manipolazione_algebrica"></span>
+<span class="atom-split" id="qc6" data-atom="qc6" data-title="Quesito C6" data-tags="topic_aritmetica,method_fattorizzazione,method_casework,skill_manipolazione_algebrica,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -225,8 +223,8 @@ level: kangourou
 > Quante sono le coppie ordinate $(x, y)$ di numeri interi (non necessariamente positivi) tali che $x^2 + 7y = xy$?
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
-**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]], [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 6
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1USVAWxQY6y2E_COFv5RMawnN3IdAjH49/view)
@@ -239,9 +237,8 @@ level: kangourou
 
 > How many ordered pairs $(x, y)$ of integers (not necessarily positive) are there such that $x^2 + 7y = xy$?
 
-**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
-**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
-**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
-**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
-[[Quesiti/src_kangourou_2020_cadet_finale#qc6|src_kangourou_2020_cadet_finale__QC6]]
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]], [[method_casework|Case analysis]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]

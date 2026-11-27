@@ -10,7 +10,7 @@ level: Olimpiade Polacca Round 3
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_geometria_piana,method_disuguaglianze,skill_ragionamento_geometrico,skill_lettura_attenta"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_geometria_piana,topic_disuguaglianze,method_disuguaglianze,skill_ragionamento_geometrico,skill_lettura_attenta"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -19,10 +19,10 @@ level: Olimpiade Polacca Round 3
 
 > Point $D$ is taken on the side $BC$ of a triangle $ABC$ such that $AD > BC$. Let $E$ be a point on the side $AC$ such that $\frac{AE}{EC} = \frac{BD}{AD - BC}$. Show that $AD > BE$.
 
-**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_disuguaglianze|Inequalities]]
 **Metodo:** [[method_disuguaglianze|Disuguaglianze]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
-**Area:** [[Geometria]]
+**Area:** [[Geometria|Geometry]], [[Algebra e Analisi|Algebra and analysis]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1ROAUIuy9-bXiyz6CZTN9mjOsmZlsxMYt/view)
 
 
@@ -33,11 +33,11 @@ level: Olimpiade Polacca Round 3
 
 > Sul lato $BC$ di un triangolo $ABC$ si prende un punto $D$ tale che $AD > BC$. Sia $E$ un punto del lato $AC$ tale che $\frac{AE}{EC} = \frac{BD}{AD - BC}$. Dimostrare che $AD > BE$.
 
-**Topic:** [[topic_geometria_piana|Geometria piana]]
+
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_disuguaglianze|Disuguaglianze]]
 **Metodo:** [[method_disuguaglianze|Disuguaglianze]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
-
-[[Quesiti/src_pol_1999_r3#q01|src_pol_1999_r3__Q01]]
+**Area:** [[Geometria]], [[Algebra e Analisi]]
 
 
 
@@ -67,12 +67,11 @@ level: Olimpiade Polacca Round 3
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica e teoria dei numeri]]
 **Metodo:** [[method_cassetti|Principio dei cassetti]], [[method_congruenze|Congruenze]]
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]]
-
-[[Quesiti/src_pol_1999_r3#q02|src_pol_1999_r3__Q02]]
-
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 
 
-<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_aritmetica,method_casework,skill_riconoscimento_pattern,skill_lettura_attenta"></span>
+
+<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_aritmetica,method_casework,method_cassetti,skill_riconoscimento_pattern,skill_lettura_attenta,skill_conteggio_sistematico"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -83,9 +82,9 @@ level: Olimpiade Polacca Round 3
 > $$n_1 + S(n_1) = n_2 + S(n_2) = \cdots = n_{50} + S(n_{50}).$$
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_casework|Casework]]
-**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_lettura_attenta|Lettura attenta]]
-**Area:** [[Aritmetica e Teoria dei Numeri]]
+**Metodo:** [[method_casework|Casework]], [[method_cassetti|Pigeonhole principle]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_lettura_attenta|Lettura attenta]], [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1ROAUIuy9-bXiyz6CZTN9mjOsmZlsxMYt/view)
 
 
@@ -98,11 +97,11 @@ level: Olimpiade Polacca Round 3
 >
 > $$n_1 + S(n_1) = n_2 + S(n_2) = \cdots = n_{50} + S(n_{50}).$$
 
-**Topic:** [[topic_aritmetica|Aritmetica e teoria dei numeri]]
-**Metodo:** [[method_casework|Analisi per casi]]
-**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di schemi]], [[skill_lettura_attenta|Lettura attenta]]
 
-[[Quesiti/src_pol_1999_r3#q03|src_pol_1999_r3__Q03]]
+**Topic:** [[topic_aritmetica|Aritmetica e teoria dei numeri]]
+**Metodo:** [[method_casework|Analisi per casi]], [[method_cassetti|Principio dei cassetti]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di schemi]], [[skill_lettura_attenta|Lettura attenta]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
 
 
 
@@ -135,12 +134,11 @@ level: Olimpiade Polacca Round 3
 **Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica e teoria dei numeri]]
 **Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_casework|Analisi per casi]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Analisi accurata dei casi]]
-
-[[Quesiti/src_pol_1999_r3#q04|src_pol_1999_r3__Q04]]
-
+**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 
 
-<span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_disuguaglianze,topic_combinatoria,method_doppio_conteggio,method_disuguaglianze,skill_manipolazione_algebrica,skill_astrazione"></span>
+
+<span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_disuguaglianze,topic_combinatoria,method_doppio_conteggio,method_disuguaglianze,skill_manipolazione_algebrica,skill_astrazione,skill_conteggio_sistematico"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -152,8 +150,8 @@ level: Olimpiade Polacca Round 3
 
 **Topic:** [[topic_disuguaglianze|Disuguaglianze]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_doppio_conteggio|Doppio conteggio]], [[method_disuguaglianze|Disuguaglianze]]
-**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]]
-**Area:** [[Algebra e Analisi]], [[Combinatoria, Logica e Probabilita]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]], [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1ROAUIuy9-bXiyz6CZTN9mjOsmZlsxMYt/view)
 
 
@@ -166,11 +164,11 @@ level: Olimpiade Polacca Round 3
 >
 > $$\sum_{1 \le i < j \le n} \left( |a_i - a_j| + |b_i - b_j| \right) \le \sum_{1 \le i, j \le n} |a_i - b_j|.$$
 
+
 **Topic:** [[topic_disuguaglianze|Disuguaglianze]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_doppio_conteggio|Doppio conteggio]], [[method_disuguaglianze|Disuguaglianze]]
-**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]]
-
-[[Quesiti/src_pol_1999_r3#q05|src_pol_1999_r3__Q05]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Algebra e Analisi]], [[Combinatoria, Logica e Probabilita]]
 
 
 
@@ -209,5 +207,4 @@ level: Olimpiade Polacca Round 3
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_trigonometria|Trigonometria]], [[method_simmetria|Simmetria]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
-
-[[Quesiti/src_pol_1999_r3#q06|src_pol_1999_r3__Q06]]
+**Area:** [[Geometria]]

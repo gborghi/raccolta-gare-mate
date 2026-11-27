@@ -12,9 +12,6 @@ level: Concours Général
 
 <span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_aritmetica,topic_algebra,method_congruenze,method_disuguaglianze,method_fattorizzazione,method_conteggio,skill_manipolazione_algebrica,skill_lettura_attenta,skill_riconoscimento_pattern,skill_conteggio_sistematico"></span>
 
-<div class="qlang-switch" data-default="en"></div>
-
-
 *Sums of cubes: study of the sets S, S_d, S_i of integers expressible as sums of cubes of (distinct, distinct odd) positive integers, building arbitrarily long arithmetic progressions inside S.*
 
 > Problem 1: Sums of cubes.
@@ -57,8 +54,20 @@ level: Concours Général
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<div class="qlang-split" data-lang="it"></div>
 
+<span class="atom-split" id="q01__it" data-atom="q01__it" data-title="Q01__IT" data-tags=""></span>
+
+---
+tipo: quesito-translation
+translation_of: src_cgen_2016__Q01
+lang: it
+secondary: true
+title: "Concours Général des Lycées 2016  Matematica  Quesito 1"
+summary: "Somme di cubi: studio degli insiemi S, S_d, S_i di numeri interi espressi come somme di cubi di (distinti, distinti odd) numeri interi positivi, costruendo progressioni aritmetiche arbitrariamente lunghe all'interno di S."
+topics: [topic_aritmetica, topic_algebra]
+methods: [method_congruenze, method_disuguaglianze, method_fattorizzazione, method_conteggio]
+skills: [skill_manipolazione_algebrica, skill_lettura_attenta, skill_riconoscimento_pattern, skill_conteggio_sistematico]
+tags: [kg/translation, topic/aritmetica, topic/algebra]---
 
 *Summe di cubi: studio degli insiemi S, S_d, S_i di numeri interi espressi come somme di cubi di numeri interi positivi (distinti, unici distinti), costruendo progressioni aritmetiche arbitrariamente lunghe all'interno di S.*
 
@@ -86,11 +95,15 @@ level: Concours Général
 > 
 > \textbf{5.} Ammettiamo la relazione, per ogni reale $x$, $$(2x+12)^3 + (2x+4)^3 + (2x+2)^3 - (2x+10)^3 - (2x+6)^3 - (2x)^3 = 288.$$
 
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]], [[method_disuguaglianze|Disuguaglianze classiche]], [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]], [[method_conteggio|Conteggio combinatorio]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta del testo]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 [[Quesiti/src_cgen_2016#q01|src_cgen_2016__Q01]]
 
 
 
-<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_geometria_analitica,topic_aritmetica,method_coordinate,method_congruenze,method_simmetria,method_casework,skill_ragionamento_geometrico,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_geometria_analitica,topic_aritmetica,topic_geometria_piana,method_coordinate,method_congruenze,method_simmetria,method_casework,method_colorazione,skill_ragionamento_geometrico,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -125,12 +138,12 @@ level: Concours Général
 > 
 > \textbf{6.} Conclude that if the observer sees the forest through the first row, then he sees out of the forest.
 
-![[src_cgen_2016__q02.png]]
+![[src_cgen_2016__Q02.png]]
 
-**Topic:** [[topic_geometria_analitica|Geometria analitica]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_coordinate|Coordinate]], [[method_congruenze|Congruenze]], [[method_simmetria|Simmetria]], [[method_casework|Casework]]
+**Topic:** [[topic_geometria_analitica|Geometria analitica]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_coordinate|Coordinate]], [[method_congruenze|Congruenze]], [[method_simmetria|Simmetria]], [[method_casework|Casework]], [[method_colorazione|Colouring / parity]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
-**Area:** [[Geometria]], [[Aritmetica e Teoria dei Numeri]]
+**Area:** [[Geometria|Geometry]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1b8k3BWxLPQrKuemqOCqKmgPkVkBfx4Ea/view)
 
 > [!warning] Estratto/tradotto da verificare con la fonte.
@@ -169,13 +182,16 @@ level: Concours Général
 > 
 > Concludere che se l'osservatore vede la foresta attraverso la prima riga, allora vede fuori dalla foresta.
 
-![[src_cgen_2016__q02.png]]
+![[src_cgen_2016__Q02.png]]
 
-[[Quesiti/src_cgen_2016#q02|src_cgen_2016__Q02]]
+**Topic:** [[topic_geometria_analitica|Geometria analitica]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_coordinate|Metodo delle coordinate]], [[method_congruenze|Aritmetica modulare / congruenze]], [[method_simmetria|Sfruttamento della simmetria]], [[method_casework|Analisi per casi]], [[method_colorazione|Colorazione / parita]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta del testo]]
+**Area:** [[Geometria]], [[Aritmetica e Teoria dei Numeri]]
 
 
 
-<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_probabilita,topic_algebra,method_conteggio,method_casework,method_ricorsione,skill_conteggio_sistematico,skill_manipolazione_algebrica,skill_riconoscimento_pattern,skill_astrazione"></span>
+<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_probabilita,topic_algebra,method_conteggio,method_casework,method_ricorsione,skill_conteggio_sistematico,skill_manipolazione_algebrica,skill_riconoscimento_pattern,skill_astrazione,skill_modellizzazione"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -239,8 +255,8 @@ level: Concours Général
 
 **Topic:** [[topic_probabilita|Probabilità]], [[topic_algebra|Algebra]]
 **Metodo:** [[method_conteggio|Conteggio]], [[method_casework|Casework]], [[method_ricorsione|Ricorsione]]
-**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_astrazione|Astrazione]]
-**Area:** [[Combinatoria, Logica e Probabilita]], [[Algebra e Analisi]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_astrazione|Astrazione]], [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Algebra e Analisi|Algebra and analysis]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1b8k3BWxLPQrKuemqOCqKmgPkVkBfx4Ea/view)
 
 > [!warning] Estratto/tradotto da verificare con la fonte.
@@ -305,4 +321,7 @@ level: Concours Général
 > 
 > Conclusione.
 
-[[Quesiti/src_cgen_2016#q03|src_cgen_2016__Q03]]
+**Topic:** [[topic_probabilita|Probabilita e statistica]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_conteggio|Conteggio combinatorio]], [[method_casework|Analisi per casi]], [[method_ricorsione|Ricorsione]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_astrazione|Astrazione / generalizzazione]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Algebra e Analisi]]

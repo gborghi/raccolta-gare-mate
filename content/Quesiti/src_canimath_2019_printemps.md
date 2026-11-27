@@ -12,9 +12,6 @@ level: Coupe Animath Printemps
 
 <span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_algebra,topic_aritmetica,method_casework,method_fattorizzazione,skill_manipolazione_algebrica,skill_casework_accurato,skill_lettura_attenta"></span>
 
-<div class="qlang-switch" data-default="en"></div>
-
-
 *Floor times fractional part equals 2019x; find all x*
 
 > For any real number $x$, we denote by $\lfloor x \rfloor$ its integer part, i.e., the greatest integer less than or equal to $x$, and by $\{x\}$ its fractional part, i.e., $\{x\} = x - \lfloor x \rfloor$. For example, $\lfloor 3.1 \rfloor = 3$, $\lfloor -2.7 \rfloor = -3$, and $\{3.1\} = 0.1$, $\{-2.7\} = 0.3$.
@@ -28,8 +25,20 @@ level: Coupe Animath Printemps
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1EilxH82a9-oMrZv2jVOx78wHwxbF-PaQ/view)
 
 
-<div class="qlang-split" data-lang="it"></div>
 
+<span class="atom-split" id="q01__it" data-atom="q01__it" data-title="Q01__IT" data-tags=""></span>
+
+---
+tipo: quesito-translation
+translation_of: src_canimath_2019_printemps__Q01
+lang: it
+secondary: true
+title: "Coupe Animath Primavera 2019  Quesito 1"
+summary: "Piano volte frazione è uguale a 2019x; trovare tutti x"
+topics: [topic_algebra, topic_aritmetica]
+methods: [method_casework, method_fattorizzazione]
+skills: [skill_manipolazione_algebrica, skill_casework_accurato, skill_lettura_attenta]
+tags: [kg/translation, topic/algebra, topic/aritmetica]---
 
 *Floor times fractional part = 2019x; trova tutte le x*
 
@@ -37,11 +46,15 @@ level: Coupe Animath Printemps
 > 
 > Trova tutti i numeri reali $x$ in modo tale che $\lfloor x \rfloor \times \{x\} = 2019 \times x$.
 
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Analisi per casi]], [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Casework accurato]], [[skill_lettura_attenta|Lettura attenta del testo]]
+**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 [[Quesiti/src_canimath_2019_printemps#q01|src_canimath_2019_printemps__Q01]]
 
 
 
-<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_aritmetica,topic_combinatoria,method_casework,method_congruenze,method_conteggio,skill_conteggio_sistematico,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_aritmetica,topic_combinatoria,method_casework,method_congruenze,method_conteggio,skill_conteggio_sistematico,skill_manipolazione_algebrica,skill_lettura_attenta,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -52,8 +65,8 @@ level: Coupe Animath Printemps
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_casework|Casework]], [[method_congruenze|Congruenze]], [[method_conteggio|Conteggio]]
-**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
-**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1EilxH82a9-oMrZv2jVOx78wHwxbF-PaQ/view)
 
 
@@ -64,14 +77,14 @@ level: Coupe Animath Printemps
 
 > Quanti sono i numeri a 8 cifre la cui espansione decimale ha la forma $\overline{ab2019cd}$ (dove $a$, $b$, $c$, $d$ sono cifre) e che sono divisibili da $360$?
 
-[[Quesiti/src_canimath_2019_printemps#q02|src_canimath_2019_printemps__Q02]]
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casework|Analisi per casi]], [[method_congruenze|Aritmetica modulare / congruenze]], [[method_conteggio|Conteggio combinatorio]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta del testo]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 
 
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_geometria_piana,method_coordinate,method_simmetria,skill_ragionamento_geometrico,skill_manipolazione_algebrica,skill_modellizzazione"></span>
-
-<div class="qlang-switch" data-default="en"></div>
-
 
 *Rectangle with cevians; show a+b=c for areas of four regions*
 
@@ -86,8 +99,20 @@ level: Coupe Animath Printemps
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1EilxH82a9-oMrZv2jVOx78wHwxbF-PaQ/view)
 
 
-<div class="qlang-split" data-lang="it"></div>
 
+<span class="atom-split" id="q03__it" data-atom="q03__it" data-title="Q03__IT" data-tags=""></span>
+
+---
+tipo: quesito-translation
+translation_of: src_canimath_2019_printemps__Q03
+lang: it
+secondary: true
+title: "Coupe Animath Primavera 2019  Quesito 3"
+summary: "Rettangolo con ceviani; mostrare a+b=c per le aree di quattro regioni"
+topics: [topic_geometria_piana]
+methods: [method_coordinate, method_simmetria]
+skills: [skill_ragionamento_geometrico, skill_manipolazione_algebrica, skill_modellizzazione]
+tags: [kg/translation, topic/geometria_piana]---
 
 *Rettangolo con ceviani; indicare a+b=c per le aree di quattro regioni*
 
@@ -95,14 +120,15 @@ level: Coupe Animath Printemps
 > 
 > Indicare che l'area del quadrilaterale $DXYZ$ soddisfa $a + b = c$.
 
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_coordinate|Metodo delle coordinate]], [[method_simmetria|Sfruttamento della simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
+**Area:** [[Geometria]]
 [[Quesiti/src_canimath_2019_printemps#q03|src_canimath_2019_printemps__Q03]]
 
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_combinatoria,method_invarianti,method_estremalita,method_casework,skill_modellizzazione,skill_ragionamento_geometrico,skill_stima,skill_riconoscimento_pattern"></span>
-
-<div class="qlang-switch" data-default="en"></div>
-
 
 *Frogs on 10x10 grid; visible sums hit 10^1,...,10^10; find largest k*
 
@@ -117,8 +143,20 @@ level: Coupe Animath Printemps
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1EilxH82a9-oMrZv2jVOx78wHwxbF-PaQ/view)
 
 
-<div class="qlang-split" data-lang="it"></div>
 
+<span class="atom-split" id="q04__it" data-atom="q04__it" data-title="Q04__IT" data-tags=""></span>
+
+---
+tipo: quesito-translation
+translation_of: src_canimath_2019_printemps__Q04
+lang: it
+secondary: true
+title: "Coupe Animath Primavera 2019  Quesito 4"
+summary: "Rane sulla griglia 10x10; somme visibili raggiungono 10^1,...,10^10; trovare k più grande"
+topics: [topic_combinatoria]
+methods: [method_invarianti, method_estremalita, method_casework]
+skills: [skill_modellizzazione, skill_ragionamento_geometrico, skill_stima, skill_riconoscimento_pattern]
+tags: [kg/translation, topic/combinatoria]---
 
 *Righe su griglia 10x10; somma visibile raggiunge 10^1,...,10^10; trovare k più grande*
 
@@ -126,11 +164,15 @@ level: Coupe Animath Printemps
 > 
 > Supponiamo che la somma dei numeri visibili a tutte e cinque le rane sia $10^1$ all'istante $1$, $10^2$ all'istante $2$, $10^3$ all'istante $3$, e in generale $10^k$ all'istante $k$. Qual è il valore più grande possibile di $k$ per il quale la somma può essere uguale a $10^k$?
 
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_invarianti|Invarianti / monovarianti]], [[method_estremalita|Principio di estremalita]], [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_stima|Stima e approssimazione]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
 [[Quesiti/src_canimath_2019_printemps#q04|src_canimath_2019_printemps__Q04]]
 
 
 
-<span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_aritmetica,topic_algebra,method_fattorizzazione,method_induzione,skill_manipolazione_algebrica,skill_lettura_attenta,skill_riconoscimento_pattern"></span>
+<span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_aritmetica,topic_algebra,method_fattorizzazione,method_induzione,method_casework,skill_manipolazione_algebrica,skill_lettura_attenta,skill_riconoscimento_pattern,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -142,9 +184,9 @@ level: Coupe Animath Printemps
 > Suppose that $x$ is a positive real number such that $\lfloor x^2 \rfloor = \lfloor x \rfloor^2$. Show that $\lfloor x^2 \rfloor$, $\lfloor x^3 \rfloor$, and $\lfloor x^4 \rfloor$ are all perfect squares of integers.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
-**Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_induzione|Induzione]]
-**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
-**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_induzione|Induzione]], [[method_casework|Case analysis]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Algebra e Analisi|Algebra and analysis]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1EilxH82a9-oMrZv2jVOx78wHwxbF-PaQ/view)
 
 
@@ -157,14 +199,14 @@ Se il pavimento x^2) = pavimento x^2, mostrare il pavimento x^2), il pavimento x
 > 
 > Supponiamo che $x$ sia un numero reale positivo tale che $\lfloor x^2 \rfloor = \lfloor x \rfloor^2$. Mostrare che $\lfloor x^2 \rfloor$, $\lfloor x^3 \rfloor$ e $\lfloor x^4 \rfloor$ sono tutti quadrati perfetti di numeri interi.
 
-[[Quesiti/src_canimath_2019_printemps#q05|src_canimath_2019_printemps__Q05]]
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]], [[method_induzione|Induzione]], [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta del testo]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 
 
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_geometria_piana,method_coordinate,method_simmetria,skill_ragionamento_geometrico,skill_manipolazione_algebrica,skill_modellizzazione"></span>
-
-<div class="qlang-switch" data-default="en"></div>
-
 
 *Parallelogram; CP=CB; midpoints M of AP, N of CD; show BP perpendicular to MN*
 
@@ -179,8 +221,20 @@ Se il pavimento x^2) = pavimento x^2, mostrare il pavimento x^2), il pavimento x
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1EilxH82a9-oMrZv2jVOx78wHwxbF-PaQ/view)
 
 
-<div class="qlang-split" data-lang="it"></div>
 
+<span class="atom-split" id="q06__it" data-atom="q06__it" data-title="Q06__IT" data-tags=""></span>
+
+---
+tipo: quesito-translation
+translation_of: src_canimath_2019_printemps__Q06
+lang: it
+secondary: true
+title: "Coupe Animath Primavera 2019  Quesito 6"
+summary: "Paralelogramma; CP=CB; punti di mezzo M di AP, N di CD; mostrare la BP perpendicolare a MN"
+topics: [topic_geometria_piana]
+methods: [method_coordinate, method_simmetria]
+skills: [skill_ragionamento_geometrico, skill_manipolazione_algebrica, skill_modellizzazione]
+tags: [kg/translation, topic/geometria_piana]---
 
 *Parallelogramma; CP=CB; punti medi M di AP, N di CD; mostrare la BP perpendicolare a MN*
 
@@ -188,11 +242,15 @@ Se il pavimento x^2) = pavimento x^2, mostrare il pavimento x^2), il pavimento x
 > 
 > Indicare che le linee $(BP)$ e $(MN)$ sono perpendicolari.
 
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_coordinate|Metodo delle coordinate]], [[method_simmetria|Sfruttamento della simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
+**Area:** [[Geometria]]
 [[Quesiti/src_canimath_2019_printemps#q06|src_canimath_2019_printemps__Q06]]
 
 
 
-<span class="atom-split" id="q07" data-atom="q07" data-title="Quesito 7" data-tags="topic_aritmetica,method_induzione,method_invarianti,method_fattorizzazione,skill_riconoscimento_pattern,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
+<span class="atom-split" id="q07" data-atom="q07" data-title="Quesito 7" data-tags="topic_aritmetica,topic_funzionali,method_induzione,method_invarianti,method_fattorizzazione,skill_riconoscimento_pattern,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -203,10 +261,10 @@ Se il pavimento x^2) = pavimento x^2, mostrare il pavimento x^2), il pavimento x
 > 
 > Show that there exists $N$ such that for all $n > N$, the integer $u_n$ is divisible by $3^{2019}$.
 
-**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_funzionali|Functional equations / sequences]]
 **Metodo:** [[method_induzione|Induzione]], [[method_invarianti|Invarianti]], [[method_fattorizzazione|Fattorizzazione]]
 **Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
-**Area:** [[Aritmetica e Teoria dei Numeri]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Algebra e Analisi|Algebra and analysis]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1EilxH82a9-oMrZv2jVOx78wHwxbF-PaQ/view)
 
 
@@ -219,11 +277,14 @@ Se il pavimento x^2) = pavimento x^2, mostrare il pavimento x^2), il pavimento x
 > 
 > Indicare che esiste $N$ in modo tale che per tutti $n > N$, il numero intero $u_n$ sia divisibile da $3^{2019}$.
 
-[[Quesiti/src_canimath_2019_printemps#q07|src_canimath_2019_printemps__Q07]]
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_funzionali|Equazioni funzionali / successioni]]
+**Metodo:** [[method_induzione|Induzione]], [[method_invarianti|Invarianti / monovarianti]], [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta del testo]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 
 
 
-<span class="atom-split" id="q08" data-atom="q08" data-title="Quesito 8" data-tags="topic_combinatoria,method_estremalita,method_doppio_conteggio,method_casework,skill_conteggio_sistematico,skill_modellizzazione,skill_stima,skill_riconoscimento_pattern"></span>
+<span class="atom-split" id="q08" data-atom="q08" data-title="Quesito 8" data-tags="topic_combinatoria,method_estremalita,method_doppio_conteggio,method_casework,skill_conteggio_sistematico,skill_modellizzazione,skill_stima,skill_riconoscimento_pattern,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -236,8 +297,8 @@ Se il pavimento x^2) = pavimento x^2, mostrare il pavimento x^2), il pavimento x
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_estremalita|Estremalità]], [[method_doppio_conteggio|Doppio conteggio]], [[method_casework|Casework]]
-**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione]], [[skill_stima|Stima]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
-**Area:** [[Combinatoria, Logica e Probabilita]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione]], [[skill_stima|Stima]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1EilxH82a9-oMrZv2jVOx78wHwxbF-PaQ/view)
 
 
@@ -250,4 +311,7 @@ Se il pavimento x^2) = pavimento x^2, mostrare il pavimento x^2), il pavimento x
 > 
 > Qual è il valore più grande possibile di $A + B$?
 
-[[Quesiti/src_canimath_2019_printemps#q08|src_canimath_2019_printemps__Q08]]
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_estremalita|Principio di estremalita]], [[method_doppio_conteggio|Doppio conteggio]], [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_stima|Stima e approssimazione]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Combinatoria, Logica e Probabilita]]

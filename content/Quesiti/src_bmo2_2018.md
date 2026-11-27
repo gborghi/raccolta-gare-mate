@@ -38,11 +38,9 @@ level: BMO Round 2
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Geometria|Geometria]]
 
-[[Quesiti/src_bmo2_2018#q01|src_bmo2_2018__Q01]]
 
 
-
-<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_combinatoria,topic_aritmetica,method_invarianti,method_casework,method_congruenze,skill_modellizzazione,skill_conteggio_sistematico,skill_lettura_attenta,skill_ragionamento_geometrico"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_combinatoria,topic_aritmetica,topic_logica,method_invarianti,method_casework,method_congruenze,skill_modellizzazione,skill_conteggio_sistematico,skill_lettura_attenta,skill_ragionamento_geometrico"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -51,10 +49,10 @@ level: BMO Round 2
 
 > There are $n$ places set around a circular table, and every place has a small cake on a plate. Alice arrives first, sits at the table, and eats her cake (but it isn't very nice). Next the Mad Hatter arrives, and tells Alice that it is certainly a lovely tea party, and that she must keep on changing her seat, and each time she must eat the cake in front of her (if it hasn't yet been eaten). In fact the Mad Hatter is very bossy, and tells Alice that, for $i = 1, 2, \ldots, n-1$, when she moves for the $i$-th time, she must move $a_i$ places and he hands Alice the list of instructions $a_1, a_2, \ldots, a_{n-1}$. Alice does not like the cakes, and she is free to choose the direction to move, whether clockwise or anticlockwise. For which values of $n$ can the Mad Hatter force Alice to eat all the cakes?
 
-**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_logica|Logic, games and strategies]]
 **Metodo:** [[method_invarianti|Invarianti]], [[method_casework|Casework]], [[method_congruenze|Congruenze]]
 **Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
-**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1uspeJo3bktF-kiQR5tne5ytV0YEfkRCN/view)
 
 
@@ -65,12 +63,11 @@ level: BMO Round 2
 
 > Ci sono $n$ posti intorno a un tavolo circolare, e ogni posto ha una tortina su un piatto. Alice arriva per prima, si siede al tavolo e mangia la sua torta (ma non è granché). Poi arriva il Cappellaio Matto e dice ad Alice che è certamente un tè delizioso, e che deve continuare a cambiare posto, e ogni volta deve mangiare la torta che ha davanti (se non è già stata mangiata). In effetti il Cappellaio Matto è molto autoritario, e dice ad Alice che, per $i = 1, 2, \ldots, n-1$, quando si sposta per l'$i$-esima volta, deve spostarsi di $a_i$ posti, e le consegna la lista di istruzioni $a_1, a_2, \ldots, a_{n-1}$. Ad Alice le torte non piacciono, ed è libera di scegliere il verso in cui muoversi, orario o antiorario. Per quali valori di $n$ il Cappellaio Matto può costringere Alice a mangiare tutte le torte?
 
-**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_logica|Logica, giochi, strategie]]
 **Metodo:** [[method_invarianti|Invarianti]], [[method_casework|Analisi per casi]], [[method_congruenze|Congruenze]]
 **Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Combinatoria, Logica e Probabilita|Combinatoria, logica e probabilità]], [[Aritmetica e Teoria dei Numeri|Aritmetica e teoria dei numeri]]
-
-[[Quesiti/src_bmo2_2018#q02|src_bmo2_2018__Q02]]
 
 
 
@@ -109,8 +106,6 @@ level: BMO Round 2
 **Metodo:** [[method_congruenze|Congruenze]], [[method_fattorizzazione|Fattorizzazione]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Aritmetica e teoria dei numeri]], [[Algebra e Analisi|Algebra e analisi]]
-
-[[Quesiti/src_bmo2_2018#q03|src_bmo2_2018__Q03]]
 
 
 
@@ -153,5 +148,3 @@ level: BMO Round 2
 **Metodo:** [[method_casework|Analisi per casi]], [[method_backward|Ragionamento all'indietro]]
 **Abilita:** [[skill_astrazione|Astrazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_modellizzazione|Modellizzazione]]
 **Area:** [[Algebra e Analisi|Algebra e analisi]]
-
-[[Quesiti/src_bmo2_2018#q04|src_bmo2_2018__Q04]]

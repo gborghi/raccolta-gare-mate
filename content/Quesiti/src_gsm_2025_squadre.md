@@ -58,11 +58,9 @@ level: squadre
 
 **Answer:** 0135
 
-[[Quesiti/src_gsm_2025_squadre#q01|src_gsm_2025_squadre__Q01]]
 
 
-
-<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_aritmetica,topic_aritmetica,skill_riconoscimento_pattern,skill_riconoscimento_pattern"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_aritmetica,topic_aritmetica,skill_riconoscimento_pattern,skill_riconoscimento_pattern,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -79,7 +77,7 @@ level: squadre
 > : 9313
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 0000
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1Upc7N8tNrNrvoo4qqZHsK2OkyDqXIkiU/view)
@@ -95,17 +93,15 @@ level: squadre
 > Write the odd numbers according to the following scheme: in the first row write the number 1; in the second row write the next two odd numbers, 3 and 5; in the third the next three odd numbers, 7, 9 and 11, and so on. Which number do you write at the start of the 97th row?
 > : 9313
 
-**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_aritmetica|Arithmetic / Number theory]]
-**Skill:** [[skill_riconoscimento_pattern|Pattern recognition]], [[skill_riconoscimento_pattern|Pattern recognition]]
-**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]], [[skill_riconoscimento_pattern|Pattern recognition]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Answer:** 0000
 
-[[Quesiti/src_gsm_2025_squadre#q02|src_gsm_2025_squadre__Q02]]
 
 
-
-<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_aritmetica,topic_aritmetica,method_fattorizzazione,skill_manipolazione_algebrica"></span>
+<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_aritmetica,topic_aritmetica,method_fattorizzazione,method_casework,skill_manipolazione_algebrica,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -125,8 +121,8 @@ level: squadre
 > : 0084
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
-**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]], [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 0064
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1Upc7N8tNrNrvoo4qqZHsK2OkyDqXIkiU/view)
@@ -142,18 +138,16 @@ level: squadre
 > A square-based parallelepiped has edges all of integer length in cm; in particular its height has length (𝑝2 + 𝑝+ 4) cm, with 𝑝 a non-negative integer. The volume of the parallelepiped in cm3 equals the area in cm2 of a square whose sides have integer length. What are the possible heights of the parallelepiped? [Give as the answer the sum of the possible heights, in cm.]
 > : 0084
 
-**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_aritmetica|Arithmetic / Number theory]]
-**Method:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
-**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
-**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]], [[method_casework|Case analysis]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Answer:** 0064
 
-[[Quesiti/src_gsm_2025_squadre#q03|src_gsm_2025_squadre__Q03]]
 
 
-
-<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_geometria_piana,topic_combinatoria,topic_geometria_piana,method_conteggio,skill_casework_accurato,skill_conteggio_sistematico"></span>
+<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_geometria_piana,topic_combinatoria,topic_geometria_piana,method_conteggio,skill_casework_accurato,skill_conteggio_sistematico,skill_ragionamento_geometrico"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -183,8 +177,8 @@ level: squadre
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_combinatoria|Combinatoria]], [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_conteggio|Conteggio combinatorio]]
-**Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_conteggio_sistematico|Conteggio sistematico]]
-**Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
+**Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Geometria]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0016
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1Upc7N8tNrNrvoo4qqZHsK2OkyDqXIkiU/view)
 
@@ -194,23 +188,23 @@ level: squadre
 
 *How many triangles in a construction on a rectangle*
 
+![[src_gsm_2025_squadre__prob4.png]]
+
 > Triangles and rectangles
 > Giuseppe Rosolini
 > Take a rectangle 𝐴𝐵𝐶𝐷 with 𝐴𝐵 of length 30 cm and 𝐵𝐶 of length 12 cm, draw the two diagonals 𝐴𝐶 and 𝐵𝐷 and the two segments joining the midpoints of opposite sides: the segment 𝐸𝐹 joining the midpoint 𝐸 of 𝐴𝐵 and the midpoint 𝐹 of 𝐶𝐷; the segment 𝐺𝐻 joining the midpoint 𝐺 of 𝐵𝐶 and the midpoint 𝐻 of 𝐷𝐴. Then divide each side of the rectangle into six equal parts: on the side 𝐴𝐵 mark the segments 𝐴𝑃1 = 𝑃1𝑃2 = 𝑃2𝐸= 𝐸𝑃3 = 𝑃3𝑃4 = 𝑃4𝐵; do the same for the side 𝐶𝐷 using the points 𝑄1, 𝑄2, 𝑄3 and 𝑄4, and likewise for the other two sides 𝐵𝐶 and 𝐷𝐴, using respectively the four points 𝑅1, 𝑅2, 𝑅3 and 𝑅4, and the four points 𝑆1, 𝑆2, 𝑆3 and 𝑆4. Finally, from each of these 16 points draw the segment perpendicular to the side it lies on, joining it to the nearest diagonal of the rectangle. How many triangles have you drawn?
 > : 0016
 
-**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_combinatoria|Combinatorics]], [[topic_geometria_piana|Plane geometry]]
-**Method:** [[method_conteggio|Combinatorial counting]]
-**Skill:** [[skill_casework_accurato|Careful casework]], [[skill_conteggio_sistematico|Systematic counting]]
-**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Geometria|Geometry]]
 
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_combinatoria|Combinatorics]], [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_casework_accurato|Careful casework]], [[skill_conteggio_sistematico|Systematic counting]], [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** 0016
 
-[[Quesiti/src_gsm_2025_squadre#q04|src_gsm_2025_squadre__Q04]]
 
 
-
-<span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_aritmetica,topic_aritmetica,method_fattorizzazione"></span>
+<span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_aritmetica,method_fattorizzazione,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -222,8 +216,9 @@ level: squadre
 > Quanti sono i divisori positivi di 246246?
 > : 0048
 
-**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 0016
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1Upc7N8tNrNrvoo4qqZHsK2OkyDqXIkiU/view)
@@ -239,17 +234,16 @@ level: squadre
 > How many positive divisors does 246246 have?
 > : 0048
 
-**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_aritmetica|Arithmetic / Number theory]]
-**Method:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
-**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Answer:** 0016
 
-[[Quesiti/src_gsm_2025_squadre#q05|src_gsm_2025_squadre__Q05]]
 
 
-
-<span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_aritmetica,topic_aritmetica,method_congruenze,skill_conteggio_sistematico,skill_lettura_attenta"></span>
+<span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_aritmetica,topic_aritmetica,method_congruenze,skill_conteggio_sistematico,skill_lettura_attenta,skill_riconoscimento_pattern"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -266,7 +260,7 @@ level: squadre
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]]
-**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta del testo]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta del testo]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 0335
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1Upc7N8tNrNrvoo4qqZHsK2OkyDqXIkiU/view)
@@ -285,18 +279,16 @@ level: squadre
 > which, added all together, give 3000?
 > : 0333
 
-**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_aritmetica|Arithmetic / Number theory]]
-**Method:** [[method_congruenze|Modular arithmetic / congruences]]
-**Skill:** [[skill_conteggio_sistematico|Systematic counting]], [[skill_lettura_attenta|Careful reading of the text]]
-**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]], [[skill_lettura_attenta|Careful reading of the text]], [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Answer:** 0335
 
-[[Quesiti/src_gsm_2025_squadre#q06|src_gsm_2025_squadre__Q06]]
 
 
-
-<span class="atom-split" id="q07" data-atom="q07" data-title="Quesito 7" data-tags="topic_aritmetica,topic_combinatoria,topic_aritmetica,topic_combinatoria,method_conteggio,skill_conteggio_sistematico"></span>
+<span class="atom-split" id="q07" data-atom="q07" data-title="Quesito 7" data-tags="topic_aritmetica,topic_combinatoria,topic_aritmetica,topic_combinatoria,method_conteggio,method_fattorizzazione,skill_conteggio_sistematico,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -311,8 +303,8 @@ level: squadre
 > : 0048
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
-**Metodo:** [[method_conteggio|Conteggio combinatorio]]
-**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Metodo:** [[method_conteggio|Conteggio combinatorio]], [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0020
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1Upc7N8tNrNrvoo4qqZHsK2OkyDqXIkiU/view)
@@ -328,18 +320,16 @@ level: squadre
 > There are 630 identical little cubes. Using all of them, you can arrange them so as to form a parallelepiped. How many different parallelepipeds can you obtain?
 > : 0048
 
-**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_combinatoria|Combinatorics]], [[topic_aritmetica|Arithmetic / Number theory]], [[topic_combinatoria|Combinatorics]]
-**Method:** [[method_conteggio|Combinatorial counting]]
-**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
-**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_combinatoria|Combinatorics]], [[topic_aritmetica|Arithmetic / Number theory]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_conteggio|Combinatorial counting]], [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** 0020
 
-[[Quesiti/src_gsm_2025_squadre#q07|src_gsm_2025_squadre__Q07]]
 
 
-
-<span class="atom-split" id="q08" data-atom="q08" data-title="Quesito 8" data-tags="topic_probabilita,topic_probabilita,method_ricorsione,skill_casework_accurato"></span>
+<span class="atom-split" id="q08" data-atom="q08" data-title="Quesito 8" data-tags="topic_probabilita,topic_probabilita,method_ricorsione,method_casework,skill_casework_accurato,skill_modellizzazione"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -365,8 +355,8 @@ level: squadre
 > : 9375
 
 **Topic:** [[topic_probabilita|Probabilita e statistica]], [[topic_probabilita|Probabilita e statistica]]
-**Metodo:** [[method_ricorsione|Ricorsione]]
-**Abilita:** [[skill_casework_accurato|Casework accurato]]
+**Metodo:** [[method_ricorsione|Ricorsione]], [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 4375
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1Upc7N8tNrNrvoo4qqZHsK2OkyDqXIkiU/view)
@@ -382,18 +372,16 @@ level: squadre
 > The cinema, with numbered seats only, is almost full: four seats remain free, with their tickets still available. The film is about to start. A cinemagoer arrives, buys a ticket, enters the auditorium and sits in the first free seat they see, without checking which seat is printed on their ticket. One after another, three further cinemagoers arrive; they know the auditorium is almost full and the film is about to start. Each of them, respecting the rules, therefore decides to sit in the seat printed on their ticket, provided that seat is free. Otherwise they will settle for sitting at random. What is the probability that the last cinemagoer sits in the seat printed on their ticket? [Give as the answer the probability multiplied by 10000.]
 > : 9375
 
-**Topic:** [[topic_probabilita|Probability and statistics]], [[topic_probabilita|Probability and statistics]]
-**Method:** [[method_ricorsione|Recursion]]
-**Skill:** [[skill_casework_accurato|Careful casework]]
-**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
+**Topic:** [[topic_probabilita|Probability and statistics]], [[topic_probabilita|Probability and statistics]]
+**Metodo:** [[method_ricorsione|Recursion]], [[method_casework|Case analysis]]
+**Abilita:** [[skill_casework_accurato|Careful casework]], [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** 4375
 
-[[Quesiti/src_gsm_2025_squadre#q08|src_gsm_2025_squadre__Q08]]
 
 
-
-<span class="atom-split" id="q09" data-atom="q09" data-title="Quesito 9" data-tags="topic_probabilita,topic_geometria_analitica,topic_probabilita,topic_geometria_analitica,method_colorazione,method_invarianti,skill_riconoscimento_pattern,skill_modellizzazione"></span>
+<span class="atom-split" id="q09" data-atom="q09" data-title="Quesito 9" data-tags="topic_probabilita,topic_geometria_analitica,topic_probabilita,topic_geometria_analitica,method_colorazione,method_invarianti,method_conteggio,skill_riconoscimento_pattern,skill_modellizzazione,skill_conteggio_sistematico"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -438,8 +426,8 @@ level: squadre
 > Gara a squadre miste 2025 – Testi dei problemi – Pag. 1 di 2
 
 **Topic:** [[topic_probabilita|Probabilita e statistica]], [[topic_geometria_analitica|Geometria analitica]], [[topic_probabilita|Probabilita e statistica]], [[topic_geometria_analitica|Geometria analitica]]
-**Metodo:** [[method_colorazione|Colorazione / parita]], [[method_invarianti|Invarianti / monovarianti]]
-**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
+**Metodo:** [[method_colorazione|Colorazione / parita]], [[method_invarianti|Invarianti / monovarianti]], [[method_conteggio|Conteggio combinatorio]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 **Risposta:** 2367
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1Upc7N8tNrNrvoo4qqZHsK2OkyDqXIkiU/view)
@@ -460,18 +448,16 @@ level: squadre
 > : 0833
 > Mixed team competition 2025 – Problem texts – Page 1 of 2
 
-**Topic:** [[topic_probabilita|Probability and statistics]], [[topic_geometria_analitica|Coordinate geometry]], [[topic_probabilita|Probability and statistics]], [[topic_geometria_analitica|Coordinate geometry]]
-**Method:** [[method_colorazione|Colouring / parity]], [[method_invarianti|Invariants / monovariants]]
-**Skill:** [[skill_riconoscimento_pattern|Pattern recognition]], [[skill_modellizzazione|Modelling / translating the text]]
-**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Geometria|Geometry]]
 
+**Topic:** [[topic_probabilita|Probability and statistics]], [[topic_geometria_analitica|Coordinate geometry]], [[topic_probabilita|Probability and statistics]], [[topic_geometria_analitica|Coordinate geometry]]
+**Metodo:** [[method_colorazione|Colouring / parity]], [[method_invarianti|Invariants / monovariants]], [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]], [[skill_modellizzazione|Modelling / translating the text]], [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Geometria|Geometry]]
 **Answer:** 2367
 
-[[Quesiti/src_gsm_2025_squadre#q09|src_gsm_2025_squadre__Q09]]
 
 
-
-<span class="atom-split" id="q10" data-atom="q10" data-title="Quesito 10" data-tags="topic_aritmetica,topic_aritmetica,method_inclusione_esclusione,skill_casework_accurato,skill_casework_accurato"></span>
+<span class="atom-split" id="q10" data-atom="q10" data-title="Quesito 10" data-tags="topic_aritmetica,topic_aritmetica,topic_combinatoria,method_inclusione_esclusione,skill_casework_accurato,skill_casework_accurato,skill_conteggio_sistematico"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -485,10 +471,10 @@ level: squadre
 > le cifre 1 e 9 scritte di seguito, come ad esempio in 1192?
 > : 0114
 
-**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_inclusione_esclusione|Inclusione-esclusione]]
-**Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_casework_accurato|Casework accurato]]
-**Area:** [[Aritmetica e Teoria dei Numeri]]
+**Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_casework_accurato|Casework accurato]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0123
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1Upc7N8tNrNrvoo4qqZHsK2OkyDqXIkiU/view)
 
@@ -503,18 +489,16 @@ level: squadre
 > How many integers between 1 and 2025 are divisible by 19, as for example 38, or contain within them the digits 1 and 9 written in a row, as for example in 1192?
 > : 0114
 
-**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_aritmetica|Arithmetic / Number theory]]
-**Method:** [[method_inclusione_esclusione|Inclusion–exclusion]]
-**Skill:** [[skill_casework_accurato|Careful casework]], [[skill_casework_accurato|Careful casework]]
-**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_aritmetica|Arithmetic / Number theory]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_inclusione_esclusione|Inclusion–exclusion]]
+**Abilita:** [[skill_casework_accurato|Careful casework]], [[skill_casework_accurato|Careful casework]], [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** 0123
 
-[[Quesiti/src_gsm_2025_squadre#q10|src_gsm_2025_squadre__Q10]]
 
 
-
-<span class="atom-split" id="q11" data-atom="q11" data-title="Quesito 11" data-tags="topic_aritmetica,topic_aritmetica,topic_combinatoria,method_ricorsione,skill_casework_accurato,skill_casework_accurato"></span>
+<span class="atom-split" id="q11" data-atom="q11" data-title="Quesito 11" data-tags="topic_aritmetica,topic_aritmetica,topic_combinatoria,topic_geometria_piana,method_ricorsione,method_conteggio,skill_casework_accurato,skill_casework_accurato,skill_modellizzazione"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -550,10 +534,10 @@ level: squadre
 > rettangoli?
 > : 0060
 
-**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
-**Metodo:** [[method_ricorsione|Ricorsione]]
-**Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_casework_accurato|Casework accurato]]
-**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]], [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_ricorsione|Ricorsione]], [[method_conteggio|Conteggio combinatorio]]
+**Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_casework_accurato|Casework accurato]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 **Risposta:** 0052
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1Upc7N8tNrNrvoo4qqZHsK2OkyDqXIkiU/view)
 
@@ -571,18 +555,16 @@ level: squadre
 > To choose the measures of the angles of the parallelogram one considers the product 𝑝 of the numbers read before the first zero and after the third—in the example above, 𝑝= 123 ⋅5 = 615. The two measures in degrees 𝑛 and 𝑚 of the angles of the parallelogram must be positive integers whose product is 𝑝. How many eight-digit numbers can generate rectangles?
 > : 0060
 
-**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_aritmetica|Arithmetic / Number theory]], [[topic_combinatoria|Combinatorics]]
-**Method:** [[method_ricorsione|Recursion]]
-**Skill:** [[skill_casework_accurato|Careful casework]], [[skill_casework_accurato|Careful casework]]
-**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_aritmetica|Arithmetic / Number theory]], [[topic_combinatoria|Combinatorics]], [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_ricorsione|Recursion]], [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_casework_accurato|Careful casework]], [[skill_casework_accurato|Careful casework]], [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Geometria|Geometry]]
 **Answer:** 0052
 
-[[Quesiti/src_gsm_2025_squadre#q11|src_gsm_2025_squadre__Q11]]
 
 
-
-<span class="atom-split" id="q12" data-atom="q12" data-title="Quesito 12" data-tags="topic_probabilita,topic_probabilita,method_conteggio,skill_conteggio_sistematico,skill_conteggio_sistematico"></span>
+<span class="atom-split" id="q12" data-atom="q12" data-title="Quesito 12" data-tags="topic_probabilita,topic_probabilita,method_conteggio,method_casi_conteggio,skill_conteggio_sistematico,skill_conteggio_sistematico,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -598,8 +580,8 @@ level: squadre
 > : 0693
 
 **Topic:** [[topic_probabilita|Probabilita e statistica]], [[topic_probabilita|Probabilita e statistica]]
-**Metodo:** [[method_conteggio|Conteggio combinatorio]]
-**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Metodo:** [[method_conteggio|Conteggio combinatorio]], [[method_casi_conteggio|Conteggio per casi]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 1390
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1Upc7N8tNrNrvoo4qqZHsK2OkyDqXIkiU/view)
@@ -615,18 +597,16 @@ level: squadre
 > What is the probability that, on rolling three fair dice, the number on any one of the three equals the sum of the other two? [Give as the answer the probability multiplied by 10000.]
 > : 0693
 
-**Topic:** [[topic_probabilita|Probability and statistics]], [[topic_probabilita|Probability and statistics]]
-**Method:** [[method_conteggio|Combinatorial counting]]
-**Skill:** [[skill_conteggio_sistematico|Systematic counting]], [[skill_conteggio_sistematico|Systematic counting]]
-**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
+**Topic:** [[topic_probabilita|Probability and statistics]], [[topic_probabilita|Probability and statistics]]
+**Metodo:** [[method_conteggio|Combinatorial counting]], [[method_casi_conteggio|Counting by cases]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]], [[skill_conteggio_sistematico|Systematic counting]], [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** 1390
 
-[[Quesiti/src_gsm_2025_squadre#q12|src_gsm_2025_squadre__Q12]]
 
 
-
-<span class="atom-split" id="q13" data-atom="q13" data-title="Quesito 13" data-tags="topic_funzionali,topic_funzionali,method_telescoping,skill_manipolazione_algebrica"></span>
+<span class="atom-split" id="q13" data-atom="q13" data-title="Quesito 13" data-tags="topic_funzionali,topic_funzionali,method_telescoping,method_ricorsione,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -646,7 +626,7 @@ level: squadre
 > : 0001
 
 **Topic:** [[topic_funzionali|Equazioni funzionali / successioni]], [[topic_funzionali|Equazioni funzionali / successioni]]
-**Metodo:** [[method_telescoping|Somme telescopiche]]
+**Metodo:** [[method_telescoping|Somme telescopiche]], [[method_ricorsione|Ricorsione]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Algebra e Analisi]]
 **Risposta:** 4049
@@ -669,18 +649,16 @@ level: squadre
 > ?
 > : 0001
 
-**Topic:** [[topic_funzionali|Functional equations / sequences]], [[topic_funzionali|Functional equations / sequences]]
-**Method:** [[method_telescoping|Telescoping sums]]
-**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
-**Area:** [[Algebra e Analisi|Algebra and analysis]]
 
+**Topic:** [[topic_funzionali|Functional equations / sequences]], [[topic_funzionali|Functional equations / sequences]]
+**Metodo:** [[method_telescoping|Telescoping sums]], [[method_ricorsione|Recursion]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
 **Answer:** 4049
 
-[[Quesiti/src_gsm_2025_squadre#q13|src_gsm_2025_squadre__Q13]]
 
 
-
-<span class="atom-split" id="q14" data-atom="q14" data-title="Quesito 14" data-tags="topic_geometria_piana,topic_geometria_piana,method_conteggio,skill_ragionamento_geometrico,skill_ragionamento_geometrico"></span>
+<span class="atom-split" id="q14" data-atom="q14" data-title="Quesito 14" data-tags="topic_geometria_piana,topic_geometria_piana,method_conteggio,skill_ragionamento_geometrico,skill_ragionamento_geometrico,skill_riconoscimento_pattern,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -709,7 +687,7 @@ level: squadre
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_conteggio|Conteggio combinatorio]]
-**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 **Risposta:** 3988
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1Upc7N8tNrNrvoo4qqZHsK2OkyDqXIkiU/view)
@@ -720,19 +698,19 @@ level: squadre
 
 *Length of AP998 in a triangulation of an equilateral triangle*
 
+![[src_gsm_2025_squadre__prob14.png]]
+
 > Triangles
 > Lorenzo Mazza
 > A triangulation is a subdivision of a plane figure into triangles. Consider the following triangulation of the equilateral triangle 𝐴𝐵𝐶: it is divided into 999 triangles obtained as follows. One triangle has a vertex at 𝐵, another is the point 𝑃1 on the side 𝐵𝐶, the third is the point 𝑃2 on the side 𝐴𝐵; another triangle, of twice the area of 𝐵𝑃1𝑃2, has a vertex at 𝑃1, another at 𝑃2, and its third vertex is the point 𝑃3 on the side 𝐵𝐶; another triangle, of three times the area of 𝐵𝑃1𝑃2, has a vertex at 𝑃2, another at 𝑃3, and the third is the point 𝑃4 on the side 𝐴𝐵. And so on, until one reaches the 999th triangle, of area 999 times that of 𝐵𝑃1𝑃2, which has a vertex at 𝑃998 on the side 𝐴𝐵, the other two vertices being 𝐶 and 𝐴. The length of the segment 𝐵𝑃1 is 20 m. What is the length of the segment 𝐴𝑃998 in cm?
 > : 0008
 
+
 **Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_geometria_piana|Plane geometry]]
-**Method:** [[method_conteggio|Combinatorial counting]]
-**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_riconoscimento_pattern|Pattern recognition]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
 **Area:** [[Geometria|Geometry]]
-
 **Answer:** 3988
-
-[[Quesiti/src_gsm_2025_squadre#q14|src_gsm_2025_squadre__Q14]]
 
 
 
@@ -774,11 +752,9 @@ level: squadre
 
 **Answer:** 0004
 
-[[Quesiti/src_gsm_2025_squadre#q15|src_gsm_2025_squadre__Q15]]
 
 
-
-<span class="atom-split" id="q16" data-atom="q16" data-title="Quesito 16" data-tags="topic_funzionali,topic_funzionali,method_ricorsione,skill_riconoscimento_pattern"></span>
+<span class="atom-split" id="q16" data-atom="q16" data-title="Quesito 16" data-tags="topic_funzionali,topic_funzionali,method_ricorsione,method_casework,skill_riconoscimento_pattern,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -796,8 +772,8 @@ level: squadre
 > : 0603
 
 **Topic:** [[topic_funzionali|Equazioni funzionali / successioni]], [[topic_funzionali|Equazioni funzionali / successioni]]
-**Metodo:** [[method_ricorsione|Ricorsione]]
-**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Metodo:** [[method_ricorsione|Ricorsione]], [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Algebra e Analisi]]
 **Risposta:** 1616
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1Upc7N8tNrNrvoo4qqZHsK2OkyDqXIkiU/view)
@@ -818,18 +794,16 @@ level: squadre
 > What is the value of 𝑎100?
 > : 0603
 
-**Topic:** [[topic_funzionali|Functional equations / sequences]], [[topic_funzionali|Functional equations / sequences]]
-**Method:** [[method_ricorsione|Recursion]]
-**Skill:** [[skill_riconoscimento_pattern|Pattern recognition]]
-**Area:** [[Algebra e Analisi|Algebra and analysis]]
 
+**Topic:** [[topic_funzionali|Functional equations / sequences]], [[topic_funzionali|Functional equations / sequences]]
+**Metodo:** [[method_ricorsione|Recursion]], [[method_casework|Case analysis]]
+**Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]], [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
 **Answer:** 1616
 
-[[Quesiti/src_gsm_2025_squadre#q16|src_gsm_2025_squadre__Q16]]
 
 
-
-<span class="atom-split" id="q17" data-atom="q17" data-title="Quesito 17" data-tags="topic_geometria_piana,topic_geometria_piana,method_coordinate,skill_ragionamento_geometrico,skill_ragionamento_geometrico"></span>
+<span class="atom-split" id="q17" data-atom="q17" data-title="Quesito 17" data-tags="topic_geometria_piana,topic_geometria_piana,method_coordinate,skill_ragionamento_geometrico,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -849,7 +823,7 @@ level: squadre
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_coordinate|Metodo delle coordinate]]
-**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 **Risposta:** 6833
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1Upc7N8tNrNrvoo4qqZHsK2OkyDqXIkiU/view)
@@ -860,23 +834,23 @@ level: squadre
 
 *Area of a quadrilateral between squares on a right triangle*
 
+![[src_gsm_2025_squadre__prob17.png]]
+
 > In the right triangle
 > Carlo Càssola
 > In the triangle 𝐴𝐵𝐶, right-angled at the vertex 𝐴, the hypotenuse 𝐵𝐶 is 65 cm long, and the leg 𝐴𝐶 is 16 cm long. Externally to the triangle one constructs the square 𝐴𝑁𝑀𝐵 on the leg and the square 𝐵𝑄𝑃𝐶 on the hypotenuse. What is the area of the quadrilateral 𝐴𝑀𝑄𝑃 in cm2?
 > : 0256
 
-**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_geometria_piana|Plane geometry]]
-**Method:** [[method_coordinate|Coordinate method]]
-**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_ragionamento_geometrico|Geometric reasoning]]
-**Area:** [[Geometria|Geometry]]
 
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_coordinate|Coordinate method]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Geometria|Geometry]]
 **Answer:** 6833
 
-[[Quesiti/src_gsm_2025_squadre#q17|src_gsm_2025_squadre__Q17]]
 
 
-
-<span class="atom-split" id="q18" data-atom="q18" data-title="Quesito 18" data-tags="topic_probabilita,topic_aritmetica,topic_probabilita,method_casework,skill_casework_accurato"></span>
+<span class="atom-split" id="q18" data-atom="q18" data-title="Quesito 18" data-tags="topic_probabilita,topic_aritmetica,topic_probabilita,method_casework,method_backward,method_fattorizzazione,skill_casework_accurato,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -905,9 +879,9 @@ level: squadre
 > : 0003
 
 **Topic:** [[topic_probabilita|Probabilita e statistica]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_probabilita|Probabilita e statistica]]
-**Metodo:** [[method_casework|Analisi per casi]]
-**Abilita:** [[skill_casework_accurato|Casework accurato]]
-**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+**Metodo:** [[method_casework|Analisi per casi]], [[method_backward|Ragionamento all'indietro]], [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
+**Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 1351
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1Upc7N8tNrNrvoo4qqZHsK2OkyDqXIkiU/view)
 
@@ -929,18 +903,16 @@ level: squadre
 > What is the probability that the number 2026 appears in the sequence, given that the operation “multiply by the factor 4” has been used at most once? [Give as the answer the number of divisors of the denominator of the fraction in lowest terms.]
 > : 0003
 
-**Topic:** [[topic_probabilita|Probability and statistics]], [[topic_aritmetica|Arithmetic / Number theory]], [[topic_probabilita|Probability and statistics]]
-**Method:** [[method_casework|Case analysis]]
-**Skill:** [[skill_casework_accurato|Careful casework]]
-**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
+**Topic:** [[topic_probabilita|Probability and statistics]], [[topic_aritmetica|Arithmetic / Number theory]], [[topic_probabilita|Probability and statistics]]
+**Metodo:** [[method_casework|Case analysis]], [[method_backward|Working backwards]], [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_casework_accurato|Careful casework]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Answer:** 1351
 
-[[Quesiti/src_gsm_2025_squadre#q18|src_gsm_2025_squadre__Q18]]
 
 
-
-<span class="atom-split" id="q19" data-atom="q19" data-title="Quesito 19" data-tags="topic_geometria_piana,topic_geometria_piana,method_coordinate,skill_ragionamento_geometrico,skill_ragionamento_geometrico"></span>
+<span class="atom-split" id="q19" data-atom="q19" data-title="Quesito 19" data-tags="topic_geometria_piana,topic_geometria_piana,method_coordinate,skill_ragionamento_geometrico,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -959,7 +931,7 @@ level: squadre
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_coordinate|Metodo delle coordinate]]
-**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 **Risposta:** 0285
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1Upc7N8tNrNrvoo4qqZHsK2OkyDqXIkiU/view)
@@ -970,23 +942,23 @@ level: squadre
 
 *Radius of a circle tangent to two sides of a triangle, centre on the third*
 
+![[src_gsm_2025_squadre__prob19.png]]
+
 > In the triangle
 > Carlo Càssola
 > In the triangle 𝐴𝐵𝐶, the side 𝐴𝐵 is 17 m long, the side 𝐵𝐶 is 26 m long, and the side 𝐶𝐴 is 25 m long. Draw a circle with centre on the side 𝐵𝐶, tangent to the other two sides. What is its radius in mm?
 > : 9999
 
-**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_geometria_piana|Plane geometry]]
-**Method:** [[method_coordinate|Coordinate method]]
-**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_ragionamento_geometrico|Geometric reasoning]]
-**Area:** [[Geometria|Geometry]]
 
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_coordinate|Coordinate method]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Geometria|Geometry]]
 **Answer:** 0285
 
-[[Quesiti/src_gsm_2025_squadre#q19|src_gsm_2025_squadre__Q19]]
 
 
-
-<span class="atom-split" id="q20" data-atom="q20" data-title="Quesito 20" data-tags="topic_probabilita,topic_probabilita,method_casework,skill_conteggio_sistematico,skill_lettura_attenta"></span>
+<span class="atom-split" id="q20" data-atom="q20" data-title="Quesito 20" data-tags="topic_probabilita,topic_probabilita,method_casework,method_conteggio,skill_conteggio_sistematico,skill_lettura_attenta,skill_modellizzazione"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -1006,8 +978,8 @@ level: squadre
 > : 0625
 
 **Topic:** [[topic_probabilita|Probabilita e statistica]], [[topic_probabilita|Probabilita e statistica]]
-**Metodo:** [[method_casework|Analisi per casi]]
-**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta del testo]]
+**Metodo:** [[method_casework|Analisi per casi]], [[method_conteggio|Conteggio combinatorio]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta del testo]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 1682
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1Upc7N8tNrNrvoo4qqZHsK2OkyDqXIkiU/view)
@@ -1023,18 +995,16 @@ level: squadre
 > Andrea rolls a die and gets a 6, then leaves the room. Barbara rolls two further dice on the same table, does not look at the result, and leaves the room. Carlo enters the room and covers a die at random. The two dice left on the table both show the face 6. What is the probability that the covered die has value 6? [Give as the answer the probability multiplied by 10000.]
 > : 0625
 
-**Topic:** [[topic_probabilita|Probability and statistics]], [[topic_probabilita|Probability and statistics]]
-**Method:** [[method_casework|Case analysis]]
-**Skill:** [[skill_conteggio_sistematico|Systematic counting]], [[skill_lettura_attenta|Careful reading of the text]]
-**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
+**Topic:** [[topic_probabilita|Probability and statistics]], [[topic_probabilita|Probability and statistics]]
+**Metodo:** [[method_casework|Case analysis]], [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]], [[skill_lettura_attenta|Careful reading of the text]], [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** 1682
 
-[[Quesiti/src_gsm_2025_squadre#q20|src_gsm_2025_squadre__Q20]]
 
 
-
-<span class="atom-split" id="q21" data-atom="q21" data-title="Quesito 21" data-tags="topic_geometria_solida,topic_geometria_solida,skill_ragionamento_geometrico,skill_ragionamento_geometrico"></span>
+<span class="atom-split" id="q21" data-atom="q21" data-title="Quesito 21" data-tags="topic_geometria_solida,topic_geometria_piana,method_simmetria,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -1057,8 +1027,9 @@ level: squadre
 > Gara di matematica a squadre miste 2025
 > Soluzioni
 
-**Topic:** [[topic_geometria_solida|Geometria solida]], [[topic_geometria_solida|Geometria solida]]
-**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Topic:** [[topic_geometria_solida|Geometria solida]], [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_simmetria|Sfruttamento della simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 **Risposta:** 0673
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1Upc7N8tNrNrvoo4qqZHsK2OkyDqXIkiU/view)
@@ -1078,10 +1049,9 @@ level: squadre
 > Mixed team mathematics competition 2025
 > Solutions
 
-**Topic:** [[topic_geometria_solida|Solid geometry]], [[topic_geometria_solida|Solid geometry]]
-**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_ragionamento_geometrico|Geometric reasoning]]
+
+**Topic:** [[topic_geometria_solida|Solid geometry]], [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_simmetria|Using symmetry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
 **Area:** [[Geometria|Geometry]]
-
 **Answer:** 0673
-
-[[Quesiti/src_gsm_2025_squadre#q21|src_gsm_2025_squadre__Q21]]

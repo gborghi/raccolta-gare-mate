@@ -37,10 +37,9 @@ level: PRMO
 **Topic:** [[topic_aritmetica|Aritmetica e teoria dei numeri]]
 **Metodo:** [[method_fattorizzazione|Fattorizzazione]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di schemi]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
 
 **Risposta:** 1
-
-[[Quesiti/src_prmo_2013#q01|src_prmo_2013__Q01]]
 
 
 
@@ -70,8 +69,7 @@ level: PRMO
 **Topic:** [[topic_algebra|Algebra]]
 **Metodo:** [[method_telescoping|Somme telescopiche]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di schemi]]
-
-[[Quesiti/src_prmo_2013#q02|src_prmo_2013__Q02]]
+**Area:** [[Algebra e Analisi]]
 
 
 
@@ -102,14 +100,13 @@ level: PRMO
 **Topic:** [[topic_algebra|Algebra]]
 **Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_casework|Analisi per casi]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Algebra e Analisi]]
 
 **Risposta:** 0
 
-[[Quesiti/src_prmo_2013#q03|src_prmo_2013__Q03]]
 
 
-
-<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_geometria_piana,method_casework,skill_casework_accurato,skill_lettura_attenta"></span>
+<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_geometria_piana,method_casework,skill_casework_accurato,skill_lettura_attenta,skill_ragionamento_geometrico"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -120,8 +117,8 @@ level: PRMO
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_casework|Casework]]
-**Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_lettura_attenta|Lettura attenta]]
-**Area:** [[Geometria]]
+**Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_lettura_attenta|Lettura attenta]], [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
 **Risposta:** 91
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1WI-N4TMgHCpZ1mMw32LYWzNY3Xnlv3SY/view)
 
@@ -133,13 +130,12 @@ level: PRMO
 
 > Tre punti $X$, $Y$, $Z$ stanno su una retta, in modo che $XY = 10$ e $XZ = 3$. Qual è il prodotto di tutti i valori possibili di $YZ$?
 
+
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_casework|Analisi per casi]]
-**Abilita:** [[skill_casework_accurato|Analisi accurata dei casi]], [[skill_lettura_attenta|Lettura attenta]]
-
+**Abilita:** [[skill_casework_accurato|Analisi accurata dei casi]], [[skill_lettura_attenta|Lettura attenta]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Geometria]]
 **Risposta:** 91
-
-[[Quesiti/src_prmo_2013#q04|src_prmo_2013__Q04]]
 
 
 
@@ -170,14 +166,13 @@ level: PRMO
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_conteggio|Conteggio]], [[method_casework|Analisi per casi]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
 
 **Risposta:** 10
 
-[[Quesiti/src_prmo_2013#q05|src_prmo_2013__Q05]]
 
 
-
-<span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_aritmetica,method_casework,skill_manipolazione_algebrica,skill_stima,skill_lettura_attenta"></span>
+<span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_aritmetica,method_casework,skill_manipolazione_algebrica,skill_stima,skill_lettura_attenta,skill_riconoscimento_pattern"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -188,8 +183,8 @@ level: PRMO
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_casework|Casework]]
-**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]], [[skill_lettura_attenta|Lettura attenta]]
-**Area:** [[Aritmetica e Teoria dei Numeri]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]], [[skill_lettura_attenta|Lettura attenta]], [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1WI-N4TMgHCpZ1mMw32LYWzNY3Xnlv3SY/view)
 
 
@@ -200,15 +195,15 @@ level: PRMO
 
 > Sia $S(M)$ la somma delle cifre di un intero positivo $M$ scritto in base 10. Sia $N$ il minimo intero positivo tale che $S(N) = 2013$. Qual è il valore di $S(5N + 2013)$?
 
+
 **Topic:** [[topic_aritmetica|Aritmetica e teoria dei numeri]]
 **Metodo:** [[method_casework|Analisi per casi]]
-**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]], [[skill_lettura_attenta|Lettura attenta]]
-
-[[Quesiti/src_prmo_2013#q06|src_prmo_2013__Q06]]
-
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]], [[skill_lettura_attenta|Lettura attenta]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
 
 
-<span class="atom-split" id="q07" data-atom="q07" data-title="Quesito 7" data-tags="topic_algebra,method_casework,skill_modellizzazione,skill_manipolazione_algebrica"></span>
+
+<span class="atom-split" id="q07" data-atom="q07" data-title="Quesito 7" data-tags="topic_algebra,topic_aritmetica,method_casework,method_congruenze,skill_modellizzazione,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -217,10 +212,10 @@ level: PRMO
 
 > Let Akbar and Birbal together have $n$ marbles, where $n > 0$. Akbar says to Birbal, "If I give you some marbles then you will have twice as many marbles as I will have." Birbal says to Akbar, "If I give you some marbles then you will have three times as many marbles as I will have." What is the minimum possible value of $n$ for which the above statements are both true?
 
-**Topic:** [[topic_algebra|Algebra]]
-**Metodo:** [[method_casework|Casework]]
-**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
-**Area:** [[Algebra e Analisi]]
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_casework|Casework]], [[method_congruenze|Modular arithmetic / congruences]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Careful reading of the text]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Risposta:** 9
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1WI-N4TMgHCpZ1mMw32LYWzNY3Xnlv3SY/view)
 
@@ -232,17 +227,16 @@ level: PRMO
 
 > Akbar e Birbal hanno insieme $n$ biglie, con $n > 0$. Akbar dice a Birbal: «Se ti do alcune biglie, tu ne avrai il doppio di quante ne avrò io». Birbal dice ad Akbar: «Se ti do alcune biglie, tu ne avrai il triplo di quante ne avrò io». Qual è il minimo valore possibile di $n$ per cui entrambe le affermazioni sono vere?
 
-**Topic:** [[topic_algebra|Algebra]]
-**Metodo:** [[method_casework|Analisi per casi]]
-**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Analisi per casi]], [[method_congruenze|Aritmetica modulare / congruenze]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta del testo]]
+**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 9
 
-[[Quesiti/src_prmo_2013#q07|src_prmo_2013__Q07]]
 
 
-
-<span class="atom-split" id="q08" data-atom="q08" data-title="Quesito 8" data-tags="topic_geometria_piana,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
+<span class="atom-split" id="q08" data-atom="q08" data-title="Quesito 8" data-tags="topic_geometria_piana,method_coordinate,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -252,8 +246,9 @@ level: PRMO
 > Let $AB$ and $BC$ be the parallel sides of a trapezium $ABCD$. Let $P$ and $Q$ be the midpoints of the diagonals $AC$ and $BD$. If $AD = 16$ and $BC = 20$, what is the length of $PQ$?
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_coordinate|Coordinate method]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
-**Area:** [[Geometria]]
+**Area:** [[Geometria|Geometry]]
 **Risposta:** 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1WI-N4TMgHCpZ1mMw32LYWzNY3Xnlv3SY/view)
 
@@ -265,12 +260,12 @@ level: PRMO
 
 > Siano $AB$ e $BC$ i lati paralleli di un trapezio $ABCD$. Siano $P$ e $Q$ i punti medi delle diagonali $AC$ e $BD$. Se $AD = 16$ e $BC = 20$, qual è la lunghezza di $PQ$?
 
+
 **Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_coordinate|Metodo delle coordinate]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
-
+**Area:** [[Geometria]]
 **Risposta:** 2
-
-[[Quesiti/src_prmo_2013#q08|src_prmo_2013__Q08]]
 
 
 
@@ -298,12 +293,11 @@ level: PRMO
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
-
-[[Quesiti/src_prmo_2013#q09|src_prmo_2013__Q09]]
-
+**Area:** [[Geometria]]
 
 
-<span class="atom-split" id="q10" data-atom="q10" data-title="Quesito 10" data-tags="topic_algebra,method_casework,skill_modellizzazione,skill_manipolazione_algebrica"></span>
+
+<span class="atom-split" id="q10" data-atom="q10" data-title="Quesito 10" data-tags="topic_algebra,method_casework,skill_modellizzazione,skill_manipolazione_algebrica,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -314,8 +308,8 @@ level: PRMO
 
 **Topic:** [[topic_algebra|Algebra]]
 **Metodo:** [[method_casework|Casework]]
-**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
-**Area:** [[Algebra e Analisi]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1WI-N4TMgHCpZ1mMw32LYWzNY3Xnlv3SY/view)
 
 
@@ -326,15 +320,15 @@ level: PRMO
 
 > A Carol furono dati tre numeri e le fu chiesto di sommare il più grande al prodotto degli altri due. Invece lei moltiplicò il più grande per la somma degli altri due, e ottenne comunque la risposta giusta. Qual è la somma dei tre numeri?
 
+
 **Topic:** [[topic_algebra|Algebra]]
 **Metodo:** [[method_casework|Analisi per casi]]
-**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
-
-[[Quesiti/src_prmo_2013#q10|src_prmo_2013__Q10]]
-
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Algebra e Analisi]]
 
 
-<span class="atom-split" id="q11" data-atom="q11" data-title="Quesito 11" data-tags="topic_algebra,method_disuguaglianze,skill_manipolazione_algebrica,skill_riconoscimento_pattern"></span>
+
+<span class="atom-split" id="q11" data-atom="q11" data-title="Quesito 11" data-tags="topic_algebra,topic_disuguaglianze,method_disuguaglianze,method_fattorizzazione,skill_manipolazione_algebrica,skill_riconoscimento_pattern"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -343,10 +337,10 @@ level: PRMO
 
 > Three real numbers $x$, $y$, $z$ are such that $x^2 + 6y = -17$, $y^2 + 4z = 1$ and $z^2 + 2x = 2$. What is the value of $x^2 + y^2 + z^2$?
 
-**Topic:** [[topic_algebra|Algebra]]
-**Metodo:** [[method_disuguaglianze|Disuguaglianze]]
+**Topic:** [[topic_algebra|Algebra]], [[topic_disuguaglianze|Inequalities]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze]], [[method_fattorizzazione|Factorisation / algebraic manipulation]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
-**Area:** [[Algebra e Analisi]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1WI-N4TMgHCpZ1mMw32LYWzNY3Xnlv3SY/view)
 
 
@@ -357,15 +351,15 @@ level: PRMO
 
 > Tre numeri reali $x$, $y$, $z$ sono tali che $x^2 + 6y = -17$, $y^2 + 4z = 1$ e $z^2 + 2x = 2$. Qual è il valore di $x^2 + y^2 + z^2$?
 
-**Topic:** [[topic_algebra|Algebra]]
-**Metodo:** [[method_disuguaglianze|Disuguaglianze]]
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_disuguaglianze|Disuguaglianze]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze]], [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di schemi]]
-
-[[Quesiti/src_prmo_2013#q11|src_prmo_2013__Q11]]
-
+**Area:** [[Algebra e Analisi]]
 
 
-<span class="atom-split" id="q12" data-atom="q12" data-title="Quesito 12" data-tags="topic_geometria_piana,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
+
+<span class="atom-split" id="q12" data-atom="q12" data-title="Quesito 12" data-tags="topic_geometria_piana,topic_trigonometria,method_simmetria,method_trigonometria,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -374,9 +368,10 @@ level: PRMO
 
 > Let $ABC$ be an equilateral triangle. Let $P$ and $S$ be points on $AB$ and $AC$, respectively, and let $Q$ and $R$ be points on $BC$ such that $PQRS$ is a rectangle. If $PQ = \sqrt{3}\,PS$ and the area of $PQRS$ is $28\sqrt{3}$, what is the length of $PC$?
 
-**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometry]]
+**Metodo:** [[method_simmetria|Using symmetry]], [[method_trigonometria|Trigonometric techniques]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
-**Area:** [[Geometria]]
+**Area:** [[Geometria|Geometry]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1WI-N4TMgHCpZ1mMw32LYWzNY3Xnlv3SY/view)
 
 
@@ -387,14 +382,15 @@ level: PRMO
 
 > Sia $ABC$ un triangolo equilatero. Siano $P$ e $S$ punti su $AB$ e $AC$ rispettivamente, e siano $Q$ e $R$ punti su $BC$ tali che $PQRS$ sia un rettangolo. Se $PQ = \sqrt{3}\,PS$ e l'area di $PQRS$ è $28\sqrt{3}$, qual è la lunghezza di $PC$?
 
-**Topic:** [[topic_geometria_piana|Geometria piana]]
+
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometria]]
+**Metodo:** [[method_simmetria|Sfruttamento della simmetria]], [[method_trigonometria|Tecniche trigonometriche]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
-
-[[Quesiti/src_prmo_2013#q12|src_prmo_2013__Q12]]
-
+**Area:** [[Geometria]]
 
 
-<span class="atom-split" id="q13" data-atom="q13" data-title="Quesito 13" data-tags="topic_combinatoria,method_colorazione,method_casework,skill_conteggio_sistematico,skill_ragionamento_geometrico"></span>
+
+<span class="atom-split" id="q13" data-atom="q13" data-title="Quesito 13" data-tags="topic_combinatoria,topic_aritmetica,method_colorazione,method_casework,method_congruenze,skill_conteggio_sistematico,skill_ragionamento_geometrico"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -403,10 +399,10 @@ level: PRMO
 
 > To each element of the set $S = \{1, 2, \ldots, 1000\}$ a colour is assigned. Suppose that for any two elements $a$, $b$ of $S$, if $15$ divides $a + b$ then they are both assigned the same colour. What is the maximum number of distinct colours used?
 
-**Topic:** [[topic_combinatoria|Combinatoria]]
-**Metodo:** [[method_colorazione|Colorazione]], [[method_casework|Casework]]
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_colorazione|Colorazione]], [[method_casework|Casework]], [[method_congruenze|Modular arithmetic / congruences]]
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
-**Area:** [[Combinatoria, Logica e Probabilita]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Risposta:** 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1WI-N4TMgHCpZ1mMw32LYWzNY3Xnlv3SY/view)
 
@@ -418,13 +414,12 @@ level: PRMO
 
 > A ogni elemento dell'insieme $S = \{1, 2, \ldots, 1000\}$ si assegna un colore. Si supponga che, per ogni coppia di elementi $a$, $b$ di $S$, se $15$ divide $a + b$ allora a entrambi è assegnato lo stesso colore. Qual è il massimo numero di colori distinti usati?
 
-**Topic:** [[topic_combinatoria|Combinatoria]]
-**Metodo:** [[method_colorazione|Colorazione]], [[method_casework|Analisi per casi]]
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_colorazione|Colorazione]], [[method_casework|Analisi per casi]], [[method_congruenze|Aritmetica modulare / congruenze]]
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
-
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 3
-
-[[Quesiti/src_prmo_2013#q13|src_prmo_2013__Q13]]
 
 
 
@@ -454,8 +449,7 @@ level: PRMO
 **Topic:** [[topic_aritmetica|Aritmetica e teoria dei numeri]]
 **Metodo:** [[method_congruenze|Congruenze]], [[method_casework|Analisi per casi]]
 **Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di schemi]], [[skill_conteggio_sistematico|Conteggio sistematico]]
-
-[[Quesiti/src_prmo_2013#q14|src_prmo_2013__Q14]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
 
 
 
@@ -485,8 +479,7 @@ level: PRMO
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_simmetria|Simmetria]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
-
-[[Quesiti/src_prmo_2013#q15|src_prmo_2013__Q15]]
+**Area:** [[Geometria]]
 
 
 
@@ -516,12 +509,11 @@ level: PRMO
 **Topic:** [[topic_algebra|Algebra]]
 **Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_casework|Analisi per casi]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di schemi]]
-
-[[Quesiti/src_prmo_2013#q16|src_prmo_2013__Q16]]
-
+**Area:** [[Algebra e Analisi]]
 
 
-<span class="atom-split" id="q17" data-atom="q17" data-title="Quesito 17" data-tags="topic_geometria_piana,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
+
+<span class="atom-split" id="q17" data-atom="q17" data-title="Quesito 17" data-tags="topic_geometria_piana,topic_trigonometria,method_coordinate,method_trigonometria,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -530,9 +522,10 @@ level: PRMO
 
 > Let $S$ be a circle with centre $O$. A chord $AB$, not a diameter, divides $S$ into two regions $R_1$ and $R_2$ such that $O$ belongs to $R_2$. Let $S_1$ be a circle with centre in $R_1$, touching $AB$ at $X$ and $S$ internally. Let $S_2$ be a circle with centre in $R_2$, touching $AB$ at $Y$, the circle $S$ internally and passing through the centre of $S$. The point $X$ lies on the diameter passing through the centre of $S_2$ and $Y$. If $\angle YXO = 30^\circ$ and the radius of $S_2$ is 100, then what is the radius of $S_1$?
 
-**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometry]]
+**Metodo:** [[method_coordinate|Coordinate method]], [[method_trigonometria|Trigonometric techniques]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
-**Area:** [[Geometria]]
+**Area:** [[Geometria|Geometry]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1WI-N4TMgHCpZ1mMw32LYWzNY3Xnlv3SY/view)
 
 
@@ -543,10 +536,11 @@ level: PRMO
 
 > Sia $S$ una circonferenza di centro $O$. Una corda $AB$, che non è un diametro, divide $S$ in due regioni $R_1$ e $R_2$ tali che $O$ appartiene a $R_2$. Sia $S_1$ una circonferenza con centro in $R_1$, tangente a $AB$ in $X$ e a $S$ internamente. Sia $S_2$ una circonferenza con centro in $R_2$, tangente a $AB$ in $Y$, alla circonferenza $S$ internamente e passante per il centro di $S$. Il punto $X$ giace sul diametro passante per il centro di $S_2$ e per $Y$. Se $\angle YXO = 30^\circ$ e il raggio di $S_2$ è 100, qual è il raggio di $S_1$?
 
-**Topic:** [[topic_geometria_piana|Geometria piana]]
-**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 
-[[Quesiti/src_prmo_2013#q17|src_prmo_2013__Q17]]
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometria]]
+**Metodo:** [[method_coordinate|Metodo delle coordinate]], [[method_trigonometria|Tecniche trigonometriche]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
 
 
 
@@ -577,10 +571,9 @@ level: PRMO
 **Topic:** [[topic_aritmetica|Aritmetica e teoria dei numeri]]
 **Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_casework|Analisi per casi]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
 
 **Risposta:** 61
-
-[[Quesiti/src_prmo_2013#q18|src_prmo_2013__Q18]]
 
 
 
@@ -610,8 +603,7 @@ level: PRMO
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_coordinate|Coordinate]], [[method_casework|Analisi per casi]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
-
-[[Quesiti/src_prmo_2013#q19|src_prmo_2013__Q19]]
+**Area:** [[Geometria]]
 
 
 
@@ -641,5 +633,4 @@ level: PRMO
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica e teoria dei numeri]]
 **Metodo:** [[method_conteggio|Conteggio]], [[method_simmetria|Simmetria]]
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
-
-[[Quesiti/src_prmo_2013#q20|src_prmo_2013__Q20]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]

@@ -38,11 +38,9 @@ level: China National Team Selection Test
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Geometria]]
 
-[[Quesiti/src_cn_ctst_2010#q01|src_cn_ctst_2010__Q01]]
 
 
-
-<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_algebra,topic_combinatoria,method_induzione,method_simmetria,skill_manipolazione_algebrica,skill_astrazione"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_algebra,topic_combinatoria,method_induzione,method_simmetria,method_fattorizzazione,skill_manipolazione_algebrica,skill_astrazione"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -54,9 +52,9 @@ level: China National Team Selection Test
 > holds for every $n = 1, 2, \ldots, 2010$. Prove that $A = B$.
 
 **Topic:** [[topic_algebra|Algebra]], [[topic_combinatoria|Combinatoria]]
-**Metodo:** [[method_induzione|Induzione]], [[method_simmetria|Simmetria]]
+**Metodo:** [[method_induzione|Induzione]], [[method_simmetria|Simmetria]], [[method_fattorizzazione|Factorisation / algebraic manipulation]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]]
-**Area:** [[Algebra e Analisi]], [[Combinatoria, Logica e Probabilita]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1WZGXm4nA5dcZd9asSbnzGZkeWDSjqbF6/view)
 
 
@@ -69,16 +67,15 @@ level: China National Team Selection Test
 > $$\sum_{1 \le i < j \le 2010}(a_i + a_j)^n = \sum_{1 \le i < j \le 2010}(b_i + b_j)^n$$
 > vale per ogni $n = 1, 2, \ldots, 2010$. Dimostrare che $A = B$.
 
+
 **Topic:** [[topic_algebra|Algebra]], [[topic_combinatoria|Combinatoria]]
-**Metodo:** [[method_induzione|Induzione]], [[method_simmetria|Simmetria]]
+**Metodo:** [[method_induzione|Induzione]], [[method_simmetria|Simmetria]], [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]]
 **Area:** [[Algebra e Analisi]], [[Combinatoria, Logica e Probabilita]]
 
-[[Quesiti/src_cn_ctst_2010#q02|src_cn_ctst_2010__Q02]]
 
 
-
-<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_combinatoria,topic_aritmetica,method_estremalita,method_induzione,skill_conteggio_sistematico,skill_stima,skill_lettura_attenta"></span>
+<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_combinatoria,topic_aritmetica,method_estremalita,method_induzione,method_grafi,skill_conteggio_sistematico,skill_stima,skill_lettura_attenta,skill_modellizzazione"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -91,9 +88,9 @@ level: China National Team Selection Test
 > Find the minimum value of $\displaystyle\sum_{i=1}^{k} S(n_i)$, where $S(m)$ denotes the sum of digits of $m$ in decimal representation.
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_estremalita|Estremalità]], [[method_induzione|Induzione]]
-**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_stima|Stima]], [[skill_lettura_attenta|Lettura attenta]]
-**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_induzione|Induzione]], [[method_grafi|Graph theory]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_stima|Stima]], [[skill_lettura_attenta|Lettura attenta]], [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Risposta:** 179
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1WZGXm4nA5dcZd9asSbnzGZkeWDSjqbF6/view)
 
@@ -105,16 +102,15 @@ level: China National Team Selection Test
 
 > Sia $n_1, n_2, \ldots, n_k$ un insieme di interi positivi tutti distinti a due a due, tali che: (1) Nella rappresentazione decimale di ciascun $n_i$, ogni cifra appartiene a $\{1, 2\}$. (2) Per ogni $i \ne j$, $n_i$ non può essere ottenuto da $n_j$ aggiungendo alcune cifre alla destra. Determinare il valore minimo di $\displaystyle\sum_{i=1}^{k} S(n_i)$, dove $S(m)$ denota la somma delle cifre di $m$ nella rappresentazione decimale.
 
+
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_estremalita|Estremalità]], [[method_induzione|Induzione]]
-**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_stima|Stima]], [[skill_lettura_attenta|Lettura attenta]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_induzione|Induzione]], [[method_grafi|Teoria dei grafi]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_stima|Stima]], [[skill_lettura_attenta|Lettura attenta]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 
-[[Quesiti/src_cn_ctst_2010#q03|src_cn_ctst_2010__Q03]]
 
 
-
-<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_combinatoria,topic_insiemi_funzioni,method_estremalita,method_induzione,skill_astrazione,skill_ragionamento_geometrico,skill_modellizzazione"></span>
+<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_combinatoria,topic_insiemi_funzioni,method_estremalita,method_induzione,method_grafi,skill_astrazione,skill_ragionamento_geometrico,skill_modellizzazione"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -127,9 +123,9 @@ level: China National Team Selection Test
 > Let $m(G) = \min\{\displaystyle\sum_{v} |f(v)| : f \text{ is good}\}$. Show that $m(G) \le n!$.
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_insiemi_funzioni|Insiemi e funzioni]]
-**Metodo:** [[method_estremalita|Estremalità]], [[method_induzione|Induzione]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_induzione|Induzione]], [[method_grafi|Graph theory]]
 **Abilita:** [[skill_astrazione|Astrazione]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]]
-**Area:** [[Combinatoria, Logica e Probabilita]], [[Algebra e Analisi]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Algebra e Analisi|Algebra and analysis]]
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1WZGXm4nA5dcZd9asSbnzGZkeWDSjqbF6/view)
 
 
@@ -140,16 +136,15 @@ level: China National Team Selection Test
 
 > Sia $G = G(V, E)$ un grafo semplice con insieme dei vertici $V$ e insieme degli archi $E$, e si supponga che $|V| = n$. Una mappa $f: V \to \mathbb{Z}$ si dice buona se soddisfa: (1) $\displaystyle\sum_{v \in V} f(v) = |E|$; (2) Se si colorano arbitrariamente alcuni vertici di rosso, esiste un vertice rosso $v$ tale che $f(v)$ non è maggiore del numero di vertici adiacenti a $v$ che non sono colorati di rosso. Sia $m(G) = \min\{\displaystyle\sum_{v} |f(v)| : f \text{ is good}\}$. Dimostrare che $m(G) \le n!$.
 
+
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_insiemi_funzioni|Insiemi e funzioni]]
-**Metodo:** [[method_estremalita|Estremalità]], [[method_induzione|Induzione]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_induzione|Induzione]], [[method_grafi|Teoria dei grafi]]
 **Abilita:** [[skill_astrazione|Astrazione]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Algebra e Analisi]]
 
-[[Quesiti/src_cn_ctst_2010#q04|src_cn_ctst_2010__Q04]]
 
 
-
-<span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_aritmetica,topic_combinatoria,method_induzione,method_casework,skill_riconoscimento_pattern,skill_manipolazione_algebrica,skill_ragionamento_geometrico"></span>
+<span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_aritmetica,topic_combinatoria,method_induzione,method_casework,method_estremalita,skill_riconoscimento_pattern,skill_manipolazione_algebrica,skill_ragionamento_geometrico"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -159,9 +154,9 @@ level: China National Team Selection Test
 > Given integer $a_1 \ge 2$, for $n \ge 2$, define $a_n$ to be the least positive integer not coprime to $a_{n-1}$ and not equal to $a_1, a_2, \ldots, a_{n-1}$. Prove that every integer except $1$ appears in the sequence $\{a_n\}$.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
-**Metodo:** [[method_induzione|Induzione]], [[method_casework|Casework]]
+**Metodo:** [[method_induzione|Induzione]], [[method_casework|Casework]], [[method_estremalita|Extremal principle]]
 **Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
-**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1WZGXm4nA5dcZd9asSbnzGZkeWDSjqbF6/view)
 
 
@@ -172,12 +167,11 @@ level: China National Team Selection Test
 
 > Dato l'intero $a_1 \ge 2$, per $n \ge 2$, si definisca $a_n$ come il più piccolo intero positivo non coprimo con $a_{n-1}$ e diverso da $a_1, a_2, \ldots, a_{n-1}$. Dimostrare che ogni intero tranne $1$ compare nella successione $\{a_n\}$.
 
+
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
-**Metodo:** [[method_induzione|Induzione]], [[method_casework|Casework]]
+**Metodo:** [[method_induzione|Induzione]], [[method_casework|Casework]], [[method_estremalita|Principio di estremalita]]
 **Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
-
-[[Quesiti/src_cn_ctst_2010#q05|src_cn_ctst_2010__Q05]]
 
 
 
@@ -211,5 +205,3 @@ level: China National Team Selection Test
 **Metodo:** [[method_induzione|Induzione]], [[method_casework|Casework]], [[method_estremalita|Estremalità]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Algebra e Analisi]], [[Combinatoria, Logica e Probabilita]]
-
-[[Quesiti/src_cn_ctst_2010#q06|src_cn_ctst_2010__Q06]]

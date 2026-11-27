@@ -39,8 +39,6 @@ level: Giochi d'Autunno
 **Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_casework_accurato|Careful case analysis]], [[skill_lettura_attenta|Careful reading of the text]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
-[[Quesiti/src_bocconi_autunno_2009#q01|src_bocconi_autunno_2009__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_aritmetica,topic_algebra,method_casework,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
@@ -72,8 +70,6 @@ level: Giochi d'Autunno
 **Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_lettura_attenta|Careful reading of the text]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Algebra e Analisi|Algebra and analysis]]
 
-[[Quesiti/src_bocconi_autunno_2009#q02|src_bocconi_autunno_2009__Q02]]
-
 
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_geometria_piana,topic_combinatoria,method_casework,skill_ragionamento_geometrico,skill_astrazione"></span>
@@ -85,7 +81,7 @@ level: Giochi d'Autunno
 
 > I 12 fiammiferi della figura formano 5 quadrati (quello grande e quattro piccoli). Trovate un modo di spostare 2 di questi fiammiferi così da formare adesso 7 quadrati. (Disegnate la nuova figura nel foglio risposte).
 
-![[src_bocconi_autunno_2009__q03.png]]
+![[src_bocconi_autunno_2009__Q03.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_casework|Casework]]
@@ -102,14 +98,12 @@ level: Giochi d'Autunno
 
 > The 12 matchsticks in the figure form 5 squares (the large one and four small ones). Find a way to move 2 of these matchsticks so that 7 squares are formed now. (Draw the new figure on the answer sheet.)
 
-![[src_bocconi_autunno_2009__q03.png]]
+![[src_bocconi_autunno_2009__Q03.png]]
 
 **Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_combinatoria|Combinatorics]]
 **Metodo:** [[method_casework|Case analysis]]
 **Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_astrazione|Abstraction / generalisation]]
 **Area:** [[Geometria|Geometry]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
-
-[[Quesiti/src_bocconi_autunno_2009#q03|src_bocconi_autunno_2009__Q03]]
 
 
 
@@ -142,11 +136,9 @@ level: Giochi d'Autunno
 **Abilita:** [[skill_conteggio_sistematico|Systematic counting]], [[skill_lettura_attenta|Careful reading of the text]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
-[[Quesiti/src_bocconi_autunno_2009#q04|src_bocconi_autunno_2009__Q04]]
 
 
-
-<span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_aritmetica,method_estremalita,method_casework,skill_conteggio_sistematico,skill_ragionamento_geometrico,skill_lettura_attenta"></span>
+<span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_aritmetica,method_estremalita,method_casework,method_congruenze,skill_conteggio_sistematico,skill_ragionamento_geometrico,skill_lettura_attenta,skill_manipolazione_algebrica,skill_stima"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -156,8 +148,8 @@ level: Giochi d'Autunno
 > Trovate il più piccolo numero intero (positivo) che sia uguale a 16 volte la somma delle sue cifre.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_estremalita|Estremalità]], [[method_casework|Casework]]
-**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_casework|Casework]], [[method_congruenze|Aritmetica modulare / congruenze]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima e approssimazione]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 144
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1ejIgLSJk8H73mn-3aVLvjy_fMjsJlBO-/view)
@@ -170,12 +162,11 @@ level: Giochi d'Autunno
 
 > Find the smallest positive integer that is equal to 16 times the sum of its digits.
 
-**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
-**Metodo:** [[method_estremalita|Extremal principle]], [[method_casework|Case analysis]]
-**Abilita:** [[skill_conteggio_sistematico|Systematic counting]], [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_lettura_attenta|Careful reading of the text]]
-**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
-[[Quesiti/src_bocconi_autunno_2009#q05|src_bocconi_autunno_2009__Q05]]
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_estremalita|Extremal principle]], [[method_casework|Case analysis]], [[method_congruenze|Modular arithmetic / congruences]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]], [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_lettura_attenta|Careful reading of the text]], [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_stima|Estimation and approximation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
 
 
@@ -191,7 +182,7 @@ level: Giochi d'Autunno
 > $$- \; - \; - \; = $$
 > $$2 \; 0 \; 1 \; 0$$
 
-![[src_bocconi_autunno_2009__q06.png]]
+![[src_bocconi_autunno_2009__Q06.png]]
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_casework|Casework]]
@@ -211,18 +202,16 @@ level: Giochi d'Autunno
 > $$- \; - \; - \; = $$
 > $$2 \; 0 \; 1 \; 0$$
 
-![[src_bocconi_autunno_2009__q06.png]]
+![[src_bocconi_autunno_2009__Q06.png]]
 
 **Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_combinatoria|Combinatorics]]
 **Metodo:** [[method_casework|Case analysis]]
 **Abilita:** [[skill_conteggio_sistematico|Systematic counting]], [[skill_lettura_attenta|Careful reading of the text]], [[skill_casework_accurato|Careful case analysis]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
-[[Quesiti/src_bocconi_autunno_2009#q06|src_bocconi_autunno_2009__Q06]]
 
 
-
-<span class="atom-split" id="q07" data-atom="q07" data-title="Quesito 7" data-tags="topic_combinatoria,topic_geometria_piana,method_conteggio,skill_conteggio_sistematico,skill_ragionamento_geometrico"></span>
+<span class="atom-split" id="q07" data-atom="q07" data-title="Quesito 7" data-tags="topic_combinatoria,topic_geometria_piana,method_conteggio,method_casi_conteggio,skill_conteggio_sistematico,skill_ragionamento_geometrico"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -231,10 +220,10 @@ level: Giochi d'Autunno
 
 > Quanti quadrati riuscite a vedere in figura?
 
-![[src_bocconi_autunno_2009__q07.png]]
+![[src_bocconi_autunno_2009__Q07.png]]
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_geometria_piana|Geometria piana]]
-**Metodo:** [[method_conteggio|Conteggio]]
+**Metodo:** [[method_conteggio|Conteggio]], [[method_casi_conteggio|Conteggio per casi]]
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 **Risposta:** 20
@@ -248,18 +237,17 @@ level: Giochi d'Autunno
 
 > How many squares can you see in the figure?
 
-![[src_bocconi_autunno_2009__q07.png]]
+![[src_bocconi_autunno_2009__Q07.png]]
+
 
 **Topic:** [[topic_combinatoria|Combinatorics]], [[topic_geometria_piana|Plane geometry]]
-**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Metodo:** [[method_conteggio|Combinatorial counting]], [[method_casi_conteggio|Counting by cases]]
 **Abilita:** [[skill_conteggio_sistematico|Systematic counting]], [[skill_ragionamento_geometrico|Geometric reasoning]]
 **Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Geometria|Geometry]]
 
-[[Quesiti/src_bocconi_autunno_2009#q07|src_bocconi_autunno_2009__Q07]]
 
 
-
-<span class="atom-split" id="q08" data-atom="q08" data-title="Quesito 8" data-tags="topic_aritmetica,topic_combinatoria,method_casework,method_estremalita,skill_casework_accurato,skill_lettura_attenta,skill_manipolazione_algebrica"></span>
+<span class="atom-split" id="q08" data-atom="q08" data-title="Quesito 8" data-tags="topic_aritmetica,topic_combinatoria,method_casework,method_estremalita,method_congruenze,skill_casework_accurato,skill_lettura_attenta,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -269,7 +257,7 @@ level: Giochi d'Autunno
 > Nell'addizione: $\text{TER} + \text{TER} = \text{SEX}$ sostituite delle cifre al posto delle lettere. Attenzione: ad una stessa lettera corrisponde sempre la stessa cifra e a due lettere diverse devono corrispondere due cifre diverse. Inoltre, nessun numero può cominciare per 0. Quale è il valore più grande che si può sostituire alla parola SEX?
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
-**Metodo:** [[method_casework|Casework]], [[method_estremalita|Estremalità]]
+**Metodo:** [[method_casework|Casework]], [[method_estremalita|Estremalità]], [[method_congruenze|Aritmetica modulare / congruenze]]
 **Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_lettura_attenta|Lettura attenta]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 806
@@ -283,12 +271,11 @@ level: Giochi d'Autunno
 
 > In the addition: $\text{TER} + \text{TER} = \text{SEX}$ replace the letters with digits. Note: the same letter always corresponds to the same digit, and two different letters must correspond to two different digits. Moreover, no number may start with 0. What is the largest value that can be substituted for the word SEX?
 
+
 **Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_combinatoria|Combinatorics]]
-**Metodo:** [[method_casework|Case analysis]], [[method_estremalita|Extremal principle]]
+**Metodo:** [[method_casework|Case analysis]], [[method_estremalita|Extremal principle]], [[method_congruenze|Modular arithmetic / congruences]]
 **Abilita:** [[skill_casework_accurato|Careful case analysis]], [[skill_lettura_attenta|Careful reading of the text]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
-
-[[Quesiti/src_bocconi_autunno_2009#q08|src_bocconi_autunno_2009__Q08]]
 
 
 
@@ -323,8 +310,6 @@ level: Giochi d'Autunno
 **Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_riconoscimento_pattern|Pattern recognition]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Algebra e Analisi|Algebra and analysis]]
 
-[[Quesiti/src_bocconi_autunno_2009#q09|src_bocconi_autunno_2009__Q09]]
-
 
 
 <span class="atom-split" id="q10" data-atom="q10" data-title="Quesito 10" data-tags="topic_aritmetica,topic_algebra,method_backward,method_ricorsione,skill_manipolazione_algebrica,skill_ragionamento_geometrico"></span>
@@ -337,7 +322,7 @@ level: Giochi d'Autunno
 > Scrivete il risultato dell'espressione indicata sotto forma di frazione irriducibile (non più semplificabile).
 > $$1 + \cfrac{1}{1 + \cfrac{1}{1 + \cfrac{1}{1 + \cfrac{1}{1 + \frac{1}{4}}}}}$$
 
-![[src_bocconi_autunno_2009__q10.png]]
+![[src_bocconi_autunno_2009__Q10.png]]
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
 **Metodo:** [[method_backward|Backward]], [[method_ricorsione|Ricorsione]]
@@ -355,14 +340,12 @@ level: Giochi d'Autunno
 > Write the result of the given expression as an irreducible fraction (one that cannot be simplified further).
 > $$1 + \cfrac{1}{1 + \cfrac{1}{1 + \cfrac{1}{1 + \cfrac{1}{1 + \frac{1}{4}}}}}$$
 
-![[src_bocconi_autunno_2009__q10.png]]
+![[src_bocconi_autunno_2009__Q10.png]]
 
 **Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_algebra|Algebra]]
 **Metodo:** [[method_backward|Working backwards]], [[method_ricorsione|Recursion]]
 **Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_ragionamento_geometrico|Geometric reasoning]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Algebra e Analisi|Algebra and analysis]]
-
-[[Quesiti/src_bocconi_autunno_2009#q10|src_bocconi_autunno_2009__Q10]]
 
 
 
@@ -375,7 +358,7 @@ level: Giochi d'Autunno
 
 > Dividete la figura in due parti sovrapponibili (eventualmente mediante qualche rotazione e qualche ribaltamento).
 
-![[src_bocconi_autunno_2009__q11.png]]
+![[src_bocconi_autunno_2009__Q11.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_simmetria|Simmetria]]
@@ -392,14 +375,12 @@ level: Giochi d'Autunno
 
 > Divide the figure into two congruent parts (possibly by means of some rotations and some reflections).
 
-![[src_bocconi_autunno_2009__q11.png]]
+![[src_bocconi_autunno_2009__Q11.png]]
 
 **Topic:** [[topic_geometria_piana|Plane geometry]]
 **Metodo:** [[method_simmetria|Using symmetry]]
 **Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_astrazione|Abstraction / generalisation]]
 **Area:** [[Geometria|Geometry]]
-
-[[Quesiti/src_bocconi_autunno_2009#q11|src_bocconi_autunno_2009__Q11]]
 
 
 
@@ -432,8 +413,6 @@ level: Giochi d'Autunno
 **Abilita:** [[skill_conteggio_sistematico|Systematic counting]], [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_modellizzazione|Modelling / translating the text]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Geometria|Geometry]]
 
-[[Quesiti/src_bocconi_autunno_2009#q12|src_bocconi_autunno_2009__Q12]]
-
 
 
 <span class="atom-split" id="q13" data-atom="q13" data-title="Quesito 13" data-tags="topic_algebra,topic_aritmetica,method_backward,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
@@ -464,8 +443,6 @@ level: Giochi d'Autunno
 **Metodo:** [[method_backward|Working backwards]]
 **Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_lettura_attenta|Careful reading of the text]]
 **Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
-
-[[Quesiti/src_bocconi_autunno_2009#q13|src_bocconi_autunno_2009__Q13]]
 
 
 
@@ -498,8 +475,6 @@ level: Giochi d'Autunno
 **Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_lettura_attenta|Careful reading of the text]], [[skill_casework_accurato|Careful case analysis]]
 **Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
-[[Quesiti/src_bocconi_autunno_2009#q14|src_bocconi_autunno_2009__Q14]]
-
 
 
 <span class="atom-split" id="q15" data-atom="q15" data-title="Quesito 15" data-tags="topic_aritmetica,topic_geometria_analitica,method_ricorsione,skill_riconoscimento_pattern,skill_conteggio_sistematico,skill_modellizzazione"></span>
@@ -511,7 +486,7 @@ level: Giochi d'Autunno
 
 > Abbiamo cominciato a scrivere i numeri interi (a partire da 0, 1, 2, ecc.) a spirale, come potete vedere in figura. Potete anche vedere che, rispetto agli assi indicati, il numero 25 ad esempio ha coordinate (3;2). Nello stesso sistema di riferimento, quali saranno le coordinate del numero 2010?
 
-![[src_bocconi_autunno_2009__q15.png]]
+![[src_bocconi_autunno_2009__Q15.png]]
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_geometria_analitica|Geometria analitica]]
 **Metodo:** [[method_ricorsione|Ricorsione]]
@@ -528,18 +503,16 @@ level: Giochi d'Autunno
 
 > We have started writing the whole numbers (beginning with 0, 1, 2, etc.) in a spiral, as you can see in the figure. You can also see that, relative to the indicated axes, the number 25, for example, has coordinates (3;2). In the same reference system, what will the coordinates of the number 2010 be?
 
-![[src_bocconi_autunno_2009__q15.png]]
+![[src_bocconi_autunno_2009__Q15.png]]
 
 **Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_geometria_analitica|Coordinate geometry]]
 **Metodo:** [[method_ricorsione|Recursion]]
 **Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]], [[skill_conteggio_sistematico|Systematic counting]], [[skill_modellizzazione|Modelling / translating the text]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Geometria|Geometry]]
 
-[[Quesiti/src_bocconi_autunno_2009#q15|src_bocconi_autunno_2009__Q15]]
 
 
-
-<span class="atom-split" id="q16" data-atom="q16" data-title="Quesito 16" data-tags="topic_aritmetica,topic_combinatoria,method_casework,skill_casework_accurato,skill_lettura_attenta,skill_conteggio_sistematico"></span>
+<span class="atom-split" id="q16" data-atom="q16" data-title="Quesito 16" data-tags="topic_aritmetica,topic_combinatoria,method_casework,skill_casework_accurato,skill_lettura_attenta,skill_conteggio_sistematico,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -552,7 +525,7 @@ level: Giochi d'Autunno
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_casework|Casework]]
-**Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_lettura_attenta|Lettura attenta]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_lettura_attenta|Lettura attenta]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** $\frac{46}{92} = \frac{185}{370}$ oppure $\frac{45}{90} = \frac{186}{372}$
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1ejIgLSJk8H73mn-3aVLvjy_fMjsJlBO-/view)
@@ -567,12 +540,11 @@ level: Giochi d'Autunno
 > $$\frac{-\,-}{-\,-} = \frac{1}{3} \cdot \cdot = \frac{-}{3\,-\,-}$$
 > Note: the problem may have more than one solution; it is sufficient to give one.
 
+
 **Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_combinatoria|Combinatorics]]
 **Metodo:** [[method_casework|Case analysis]]
-**Abilita:** [[skill_casework_accurato|Careful case analysis]], [[skill_lettura_attenta|Careful reading of the text]], [[skill_conteggio_sistematico|Systematic counting]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]], [[skill_lettura_attenta|Careful reading of the text]], [[skill_conteggio_sistematico|Systematic counting]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
-
-[[Quesiti/src_bocconi_autunno_2009#q16|src_bocconi_autunno_2009__Q16]]
 
 
 
@@ -585,7 +557,7 @@ level: Giochi d'Autunno
 
 > In un cartone quadrato di lato $x + 1$, è stato intagliato un quadrato di lato $x$ (come potete vedere in figura). Nel pezzo di cartone rimasto, si traccia un quarto di circonferenza con centro nel punto A. Quanto vale al massimo $x$ perché la costruzione sia possibile (l'intero quarto di circonferenza sta nel pezzo di cartone rimasto)? Si può sostituire $1{,}414$ a $\sqrt{2}$.
 
-![[src_bocconi_autunno_2009__q17.png]]
+![[src_bocconi_autunno_2009__Q17.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_algebra|Algebra]]
 **Metodo:** [[method_coordinate|Coordinate]], [[method_estremalita|Estremalità]]
@@ -602,18 +574,16 @@ level: Giochi d'Autunno
 
 > In a square piece of cardboard with side $x + 1$, a square with side $x$ has been cut out (as you can see in the figure). In the remaining piece of cardboard, a quarter of a circle is drawn with center at point A. What is the maximum value of $x$ for the construction to be possible (the entire quarter of a circle lies within the remaining piece of cardboard)? $1{,}414$ can be substituted for $\sqrt{2}$.
 
-![[src_bocconi_autunno_2009__q17.png]]
+![[src_bocconi_autunno_2009__Q17.png]]
 
 **Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_algebra|Algebra]]
 **Metodo:** [[method_coordinate|Coordinate method]], [[method_estremalita|Extremal principle]]
 **Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_modellizzazione|Modelling / translating the text]]
 **Area:** [[Geometria|Geometry]], [[Algebra e Analisi|Algebra and analysis]]
 
-[[Quesiti/src_bocconi_autunno_2009#q17|src_bocconi_autunno_2009__Q17]]
 
 
-
-<span class="atom-split" id="q18" data-atom="q18" data-title="Quesito 18" data-tags="topic_aritmetica,method_fattorizzazione,skill_manipolazione_algebrica,skill_ragionamento_geometrico,skill_riconoscimento_pattern"></span>
+<span class="atom-split" id="q18" data-atom="q18" data-title="Quesito 18" data-tags="topic_aritmetica,method_fattorizzazione,skill_manipolazione_algebrica,skill_ragionamento_geometrico,skill_riconoscimento_pattern,skill_stima"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -624,7 +594,7 @@ level: Giochi d'Autunno
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_fattorizzazione|Fattorizzazione]]
-**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_stima|Stima e approssimazione]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 70 cifre
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1ejIgLSJk8H73mn-3aVLvjy_fMjsJlBO-/view)
@@ -636,9 +606,8 @@ level: Giochi d'Autunno
 *Number of digits of 5 raised to a large power*
 > If $2^{300}$ is a 31-digit number, how many digits does $5^{300}$ consist of?
 
+
 **Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
 **Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
-**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_riconoscimento_pattern|Pattern recognition]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_riconoscimento_pattern|Pattern recognition]], [[skill_stima|Estimation and approximation]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
-
-[[Quesiti/src_bocconi_autunno_2009#q18|src_bocconi_autunno_2009__Q18]]

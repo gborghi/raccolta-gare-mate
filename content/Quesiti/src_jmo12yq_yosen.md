@@ -39,8 +39,6 @@ level: JMO Yosen
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 
-[[Quesiti/src_jmo12yq_yosen#q01|src_jmo12yq_yosen__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_combinatoria,method_conteggio,method_casework,skill_conteggio_sistematico"></span>
@@ -71,8 +69,6 @@ level: JMO Yosen
 **Metodo:** [[method_conteggio|Conteggio]], [[method_casework|Casework]]
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
-
-[[Quesiti/src_jmo12yq_yosen#q02|src_jmo12yq_yosen__Q02]]
 
 
 
@@ -105,11 +101,9 @@ level: JMO Yosen
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 
-[[Quesiti/src_jmo12yq_yosen#q03|src_jmo12yq_yosen__Q03]]
 
 
-
-<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_geometria_solida,skill_ragionamento_geometrico"></span>
+<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_geometria_solida,method_coordinate,skill_ragionamento_geometrico"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -119,8 +113,9 @@ level: JMO Yosen
 > How many times the volume of a regular tetrahedron with edge length $1$ is the volume of a regular octahedron with edge length $1$?
 
 **Topic:** [[topic_geometria_solida|Geometria solida]]
+**Metodo:** [[method_coordinate|Coordinate method]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
-**Area:** [[Geometria]]
+**Area:** [[Geometria|Geometry]]
 **Risposta:** 4
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1WpcMHSRWydHTNqwDM4S4rwTtUxRVnLbW/view)
 
@@ -132,15 +127,15 @@ level: JMO Yosen
 
 > Quante volte il volume di un tetraedro regolare con spigolo di lunghezza $1$ è il volume di un ottaedro regolare con spigolo di lunghezza $1$?
 
+
 **Topic:** [[topic_geometria_solida|Geometria solida]]
+**Metodo:** [[method_coordinate|Metodo delle coordinate]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]]
 
-[[Quesiti/src_jmo12yq_yosen#q04|src_jmo12yq_yosen__Q04]]
 
 
-
-<span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_aritmetica,topic_algebra,method_casework,skill_manipolazione_algebrica,skill_casework_accurato"></span>
+<span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_aritmetica,topic_algebra,method_casework,method_fattorizzazione,method_congruenze,skill_manipolazione_algebrica,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -150,9 +145,9 @@ level: JMO Yosen
 > Let $m$ be a natural number. Both $(m-2)^2$ and $m^2-1$ are 3-digit natural numbers, and swapping the hundreds digit and the units digit of one of them yields the other. Find all possible values of $m$.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
-**Metodo:** [[method_casework|Casework]]
+**Metodo:** [[method_casework|Casework]], [[method_fattorizzazione|Factorisation / algebraic manipulation]], [[method_congruenze|Modular arithmetic / congruences]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Casework accurato]]
-**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Algebra e Analisi|Algebra and analysis]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1WpcMHSRWydHTNqwDM4S4rwTtUxRVnLbW/view)
 
 
@@ -163,12 +158,11 @@ level: JMO Yosen
 
 > Sia $m$ un numero naturale. Sia $(m-2)^2$ che $m^2-1$ sono numeri naturali di tre cifre, e scambiando la cifra delle centinaia con la cifra delle unità di uno di essi si ottiene l'altro. Determinare tutti i valori possibili di $m$.
 
+
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
-**Metodo:** [[method_casework|Casework]]
+**Metodo:** [[method_casework|Casework]], [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]], [[method_congruenze|Aritmetica modulare / congruenze]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
-
-[[Quesiti/src_jmo12yq_yosen#q05|src_jmo12yq_yosen__Q05]]
 
 
 
@@ -201,8 +195,6 @@ level: JMO Yosen
 **Metodo:** [[method_disuguaglianze|Disuguaglianze classiche]]
 **Abilità:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Algebra e Analisi|Algebra e analisi]]
-
-[[Quesiti/src_jmo12yq_yosen#q06|src_jmo12yq_yosen__Q06]]
 
 
 
@@ -238,11 +230,9 @@ level: JMO Yosen
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 
-[[Quesiti/src_jmo12yq_yosen#q07|src_jmo12yq_yosen__Q07]]
 
 
-
-<span class="atom-split" id="q08" data-atom="q08" data-title="Quesito 8" data-tags="topic_geometria_piana,method_trigonometria,skill_ragionamento_geometrico"></span>
+<span class="atom-split" id="q08" data-atom="q08" data-title="Quesito 8" data-tags="topic_geometria_piana,topic_trigonometria,method_trigonometria,skill_ragionamento_geometrico"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -251,10 +241,10 @@ level: JMO Yosen
 
 > There is a triangle $ABC$. Let $D$ be the intersection of the bisector of $\angle BAC$ with side $BC$. We have $\angle BAC : \angle BCA = 2 : 3$, and moreover $AB + CD = AC$. Find the measure of $\angle BAC$ in degrees. Here, for two points $X, Y$, the length of segment $XY$ is denoted by $XY$.
 
-**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometry]]
 **Metodo:** [[method_trigonometria|Trigonometria]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
-**Area:** [[Geometria]]
+**Area:** [[Geometria|Geometry]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1WpcMHSRWydHTNqwDM4S4rwTtUxRVnLbW/view)
 
 
@@ -265,12 +255,11 @@ level: JMO Yosen
 
 > C'è un triangolo $ABC$. Sia $D$ l'intersezione della bisettrice di $\angle BAC$ con il lato $BC$. Si ha $\angle BAC : \angle BCA = 2 : 3$, e inoltre $AB + CD = AC$. Determinare la misura di $\angle BAC$ in gradi. Qui, per due punti $X, Y$, la lunghezza del segmento $XY$ è indicata con $XY$.
 
-**Topic:** [[topic_geometria_piana|Geometria piana]]
+
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometria]]
 **Metodo:** [[method_trigonometria|Trigonometria]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]]
-
-[[Quesiti/src_jmo12yq_yosen#q08|src_jmo12yq_yosen__Q08]]
 
 
 
@@ -304,11 +293,9 @@ level: JMO Yosen
 **Abilità:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Analisi accurata per casi]]
 **Area:** [[Algebra e Analisi|Algebra e analisi]], [[Aritmetica e Teoria dei Numeri|Aritmetica e teoria dei numeri]]
 
-[[Quesiti/src_jmo12yq_yosen#q09|src_jmo12yq_yosen__Q09]]
 
 
-
-<span class="atom-split" id="q10" data-atom="q10" data-title="Quesito 10" data-tags="topic_combinatoria,topic_logica,method_doppio_conteggio,method_estremalita,skill_conteggio_sistematico,skill_modellizzazione"></span>
+<span class="atom-split" id="q10" data-atom="q10" data-title="Quesito 10" data-tags="topic_combinatoria,topic_logica,method_doppio_conteggio,method_estremalita,method_grafi,skill_conteggio_sistematico,skill_modellizzazione"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -318,9 +305,9 @@ level: JMO Yosen
 > When $14$ people play a round-robin tournament of shogi (each person plays exactly one game against each of the other $13$ people), at most how many "three-way cycles" (sansukumi) can there be? Here, a "three-way cycle" means a set of $3$ people satisfying the following condition: among these $3$ people, the results are such that each of the $3$ has exactly one win and one loss. Assume that no game ends in a draw.
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_logica|Logica]]
-**Metodo:** [[method_doppio_conteggio|Doppio conteggio]], [[method_estremalita|Estremalità]]
+**Metodo:** [[method_doppio_conteggio|Doppio conteggio]], [[method_estremalita|Estremalità]], [[method_grafi|Graph theory]]
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione]]
-**Area:** [[Combinatoria, Logica e Probabilita]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1WpcMHSRWydHTNqwDM4S4rwTtUxRVnLbW/view)
 
 
@@ -331,16 +318,15 @@ level: JMO Yosen
 
 > Quando $14$ persone disputano un torneo all'italiana di shogi (ciascuna persona gioca esattamente una partita contro ciascuna delle altre $13$ persone), al massimo quante "cicli a tre" (sansukumi) possono esserci? Qui, un "ciclo a tre" indica un insieme di $3$ persone che soddisfa la seguente condizione: tra queste $3$ persone, i risultati sono tali che ciascuna delle $3$ ha esattamente una vittoria e una sconfitta. Si supponga che nessuna partita termini in parità.
 
+
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_logica|Logica]]
-**Metodo:** [[method_doppio_conteggio|Doppio conteggio]], [[method_estremalita|Estremalità]]
+**Metodo:** [[method_doppio_conteggio|Doppio conteggio]], [[method_estremalita|Estremalità]], [[method_grafi|Teoria dei grafi]]
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 
-[[Quesiti/src_jmo12yq_yosen#q10|src_jmo12yq_yosen__Q10]]
 
 
-
-<span class="atom-split" id="q11" data-atom="q11" data-title="Quesito 11" data-tags="topic_combinatoria,method_colorazione,method_conteggio,method_simmetria,skill_conteggio_sistematico"></span>
+<span class="atom-split" id="q11" data-atom="q11" data-title="Quesito 11" data-tags="topic_combinatoria,method_colorazione,method_conteggio,method_simmetria,method_casework,skill_conteggio_sistematico"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -359,9 +345,9 @@ level: JMO Yosen
 ```
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
-**Metodo:** [[method_colorazione|Colorazione]], [[method_conteggio|Conteggio]], [[method_simmetria|Simmetria]]
+**Metodo:** [[method_colorazione|Colorazione]], [[method_conteggio|Conteggio]], [[method_simmetria|Simmetria]], [[method_casework|Case analysis]]
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
-**Area:** [[Combinatoria, Logica e Probabilita]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1WpcMHSRWydHTNqwDM4S4rwTtUxRVnLbW/view)
 
 
@@ -381,16 +367,15 @@ level: JMO Yosen
 \end{tikzpicture}
 ```
 
+
 **Topic:** [[topic_combinatoria|Combinatoria]]
-**Metodo:** [[method_colorazione|Colorazione]], [[method_conteggio|Conteggio]], [[method_simmetria|Simmetria]]
+**Metodo:** [[method_colorazione|Colorazione]], [[method_conteggio|Conteggio]], [[method_simmetria|Simmetria]], [[method_casework|Analisi per casi]]
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 
-[[Quesiti/src_jmo12yq_yosen#q11|src_jmo12yq_yosen__Q11]]
 
 
-
-<span class="atom-split" id="q12" data-atom="q12" data-title="Quesito 12" data-tags="topic_funzionali,skill_manipolazione_algebrica,skill_astrazione"></span>
+<span class="atom-split" id="q12" data-atom="q12" data-title="Quesito 12" data-tags="topic_funzionali,method_induzione,method_simmetria,skill_manipolazione_algebrica,skill_astrazione"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -410,8 +395,9 @@ level: JMO Yosen
 > Under these conditions, find all rational numbers $x$ satisfying $f(x) = 2002$.
 
 **Topic:** [[topic_funzionali|Equazioni funzionali]]
+**Metodo:** [[method_induzione|Induction]], [[method_simmetria|Using symmetry]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]]
-**Area:** [[Algebra e Analisi]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1WpcMHSRWydHTNqwDM4S4rwTtUxRVnLbW/view)
 
 
@@ -432,8 +418,8 @@ level: JMO Yosen
 >
 > In queste condizioni, determinare tutti i numeri razionali $x$ che soddisfano $f(x) = 2002$.
 
+
 **Topic:** [[topic_funzionali|Equazioni funzionali]]
+**Metodo:** [[method_induzione|Induzione]], [[method_simmetria|Sfruttamento della simmetria]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]]
 **Area:** [[Algebra e Analisi]]
-
-[[Quesiti/src_jmo12yq_yosen#q12|src_jmo12yq_yosen__Q12]]

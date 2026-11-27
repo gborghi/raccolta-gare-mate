@@ -43,8 +43,6 @@ level: OBM Nível 3
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 
-[[Quesiti/src_obm_2007_n3_f2#q01|src_obm_2007_n3_f2__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_probabilita,topic_geometria_analitica,method_coordinate,skill_modellizzazione,skill_manipolazione_algebrica,skill_ragionamento_geometrico"></span>
@@ -80,11 +78,9 @@ level: OBM Nível 3
 **Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 
-[[Quesiti/src_obm_2007_n3_f2#q02|src_obm_2007_n3_f2__Q02]]
 
 
-
-<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_aritmetica,topic_algebra,method_estremalita,skill_manipolazione_algebrica,skill_stima,skill_riconoscimento_pattern"></span>
+<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_aritmetica,topic_algebra,method_estremalita,method_fattorizzazione,skill_manipolazione_algebrica,skill_stima,skill_riconoscimento_pattern"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -94,9 +90,9 @@ level: OBM Nível 3
 > Consider the number $\underbrace{11\ldots1}_{1000\ \text{ones}} = \dfrac{10^{1000} - 1}{9}$ consisting of one thousand digits all equal to $1$. Determine the sum of the digits of the integer that is nearest to $\sqrt{\underbrace{11\ldots1}_{1000\ \text{ones}}}$.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
-**Metodo:** [[method_estremalita|Estremalità]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_fattorizzazione|Factorisation / algebraic manipulation]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
-**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Algebra e Analisi|Algebra and analysis]]
 **Risposta:** 1500
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1zX7z5wzrS24GDIg6SjMeYYN4pu7op9WA/view)
 
@@ -112,16 +108,15 @@ level: OBM Nível 3
 
 > [!warning] Estratto/tradotto: da verificare con la fonte.
 
+
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
-**Metodo:** [[method_estremalita|Estremalità]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 
-[[Quesiti/src_obm_2007_n3_f2#q03|src_obm_2007_n3_f2__Q03]]
 
 
-
-<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_geometria_piana,skill_ragionamento_geometrico"></span>
+<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_geometria_piana,method_coordinate,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -130,11 +125,12 @@ level: OBM Nível 3
 
 > The triangle $ABC$ is right-angled at $B$. Let $I$ be the center of the circle inscribed in $ABC$ and let $O$ be the midpoint of the side $AC$. If $\angle AOI = 45^\circ$, how many degrees does the angle $\angle ACB$ measure?
 
-![[src_obm_2007_n3_f2__q04.png]]
+![[src_obm_2007_n3_f2__Q04.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
-**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
-**Area:** [[Geometria]]
+**Metodo:** [[method_coordinate|Coordinate method]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Geometria|Geometry]]
 **Risposta:** 30
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1zX7z5wzrS24GDIg6SjMeYYN4pu7op9WA/view)
 
@@ -148,15 +144,15 @@ level: OBM Nível 3
 
 > Il triangolo $ABC$ è rettangolo in $B$. Sia $I$ il centro della circonferenza inscritta in $ABC$ e sia $O$ il punto medio del lato $AC$. Se $\angle AOI = 45^\circ$, quanti gradi misura l'angolo $\angle ACB$?
 
-![[src_obm_2007_n3_f2__q04.png]]
+![[src_obm_2007_n3_f2__Q04.png]]
 
 > [!warning] Estratto/tradotto: da verificare con la fonte.
 
-**Topic:** [[topic_geometria_piana|Geometria piana]]
-**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
-**Area:** [[Geometria]]
 
-[[Quesiti/src_obm_2007_n3_f2#q04|src_obm_2007_n3_f2__Q04]]
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_coordinate|Metodo delle coordinate]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
 
 
 
@@ -169,7 +165,7 @@ level: OBM Nível 3
 
 > Each cell of a board is to be coloured using one of the two letters $V$ or $A$. A colouring of the first row is any assignment of one of these letters to each of its cells. Once the first row is coloured, every other cell of the board is forced according to the filling rule of the board, and a colouring is valid only if no two consecutive cells in the first row carry the same letter, with the analogous condition propagating through the rest of the board. For the board in question, determine the total number of valid colourings. In general, for an $n \times n$ board the number of such colourings is $2^{n+1} - 2$.
 
-![[src_obm_2007_n3_f2__q05.png]]
+![[src_obm_2007_n3_f2__Q05.png]]
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]], [[method_ricorsione|Ricorsione]]
@@ -188,7 +184,7 @@ level: OBM Nível 3
 
 > Ogni cella di una griglia deve essere colorata usando una delle due lettere $V$ o $A$. Una colorazione della prima riga è qualsiasi assegnazione di una di queste lettere a ciascuna delle sue celle. Una volta colorata la prima riga, tutte le altre celle della griglia sono determinate in modo forzato secondo la regola di compilazione della griglia, e una colorazione è valida solo se non vi sono due celle consecutive nella prima riga che portino la stessa lettera, con la condizione analoga che si propaga nel resto della griglia. Per la griglia in questione, determinare il numero totale di colorazioni valide. In generale, per una griglia $n \times n$ il numero di tali colorazioni è $2^{n+1} - 2$.
 
-![[src_obm_2007_n3_f2__q05.png]]
+![[src_obm_2007_n3_f2__Q05.png]]
 
 > [!warning] Estratto/tradotto: da verificare con la fonte.
 
@@ -196,8 +192,6 @@ level: OBM Nível 3
 **Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]], [[method_ricorsione|Ricorsione]]
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
-
-[[Quesiti/src_obm_2007_n3_f2#q05|src_obm_2007_n3_f2__Q05]]
 
 
 
@@ -234,8 +228,6 @@ level: OBM Nível 3
 **Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 
-[[Quesiti/src_obm_2007_n3_f2#q06|src_obm_2007_n3_f2__Q06]]
-
 
 
 <span class="atom-split" id="q07" data-atom="q07" data-title="Quesito 7" data-tags="topic_aritmetica,method_casework,method_congruenze,method_fattorizzazione,skill_casework_accurato,skill_conteggio_sistematico"></span>
@@ -271,8 +263,6 @@ level: OBM Nível 3
 **Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 
-[[Quesiti/src_obm_2007_n3_f2#q07|src_obm_2007_n3_f2__Q07]]
-
 
 
 <span class="atom-split" id="q08" data-atom="q08" data-title="Quesito 8" data-tags="topic_geometria_piana,method_trigonometria,method_simmetria,method_coordinate,skill_ragionamento_geometrico"></span>
@@ -284,7 +274,7 @@ level: OBM Nível 3
 
 > In the given configuration, the points $A$, $B$, $C$, $D$, $E$, $F$ are associated with a circle, with $AD = BC$, $ED = EB$, and $\angle CDE = \angle FCE = \alpha$, so that $\angle ADE = \angle BCE = 180^\circ - \alpha$. The lines $AD$ and $BC$ are extended until they meet at the point $F$, and $\angle AFB = 60^\circ = \angle DEC$. Show that triangle $ADE$ is congruent to triangle $BCE$, hence $EA = EB$ and $\angle AEB = \angle DEC = 60^\circ$, so that triangle $ABE$ is equilateral with side $8$. Compute the area of triangle $ABE$.
 
-![[src_obm_2007_n3_f2__q08.png]]
+![[src_obm_2007_n3_f2__Q08.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_trigonometria|Trigonometria]], [[method_simmetria|Simmetria]], [[method_coordinate|Coordinate]]
@@ -303,7 +293,7 @@ level: OBM Nível 3
 
 > Nella configurazione data, i punti $A$, $B$, $C$, $D$, $E$, $F$ sono associati a una circonferenza, insieme a $AD = BC$, $ED = EB$ e $\angle CDE = \angle FCE = \alpha$, in modo che $\angle ADE = \angle BCE = 180^\circ - \alpha$. Le rette $AD$ e $BC$ vengono prolungate finché non si incontrano nel punto $F$, e $\angle AFB = 60^\circ = \angle DEC$. Dimostrare che il triangolo $ADE$ è congruente al triangolo $BCE$, quindi $EA = EB$ e $\angle AEB = \angle DEC = 60^\circ$, in modo che il triangolo $ABE$ sia equilatero con lato $8$. Calcolare l'area del triangolo $ABE$.
 
-![[src_obm_2007_n3_f2__q08.png]]
+![[src_obm_2007_n3_f2__Q08.png]]
 
 > [!warning] Estratto/tradotto: da verificare con la fonte.
 
@@ -311,8 +301,6 @@ level: OBM Nível 3
 **Metodo:** [[method_trigonometria|Trigonometria]], [[method_simmetria|Simmetria]], [[method_coordinate|Coordinate]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]]
-
-[[Quesiti/src_obm_2007_n3_f2#q08|src_obm_2007_n3_f2__Q08]]
 
 
 
@@ -348,5 +336,3 @@ level: OBM Nível 3
 **Metodo:** [[method_grafi|Grafi]], [[method_disuguaglianze|Disuguaglianze]], [[method_estremalita|Estremalità]]
 **Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
-
-[[Quesiti/src_obm_2007_n3_f2#q09|src_obm_2007_n3_f2__Q09]]

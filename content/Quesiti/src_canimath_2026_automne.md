@@ -10,7 +10,7 @@ level: Coupe Animath Automne
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_aritmetica"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_aritmetica,method_fattorizzazione,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -23,11 +23,13 @@ level: Coupe Animath Automne
 >
 > *Only a simplified numerical answer is expected here.*
 
-**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Area:** [[Aritmetica e Teoria dei Numeri]]
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Risposta:** 7
-**Fonte risposta:** corrigé commenté ufficiale PDF p.3
-**Fonte:** apri PDF p.3 · Coupe Animath Automne 2026 (Animath / POFM, maths-olympiques.fr)
+**Fonte risposta:** [corrigé commenté ufficiale PDF p.3](https://maths-olympiques.fr/wp-content/uploads/2026/10/Corrige-commente-Coupe-Animath-Automne-2026.pdf#page=3)
+**Fonte:** [apri PDF p.3](https://maths-olympiques.fr/wp-content/uploads/2026/10/Sujet-Coupe-Animath-Automne-2026.pdf#page=3) · Coupe Animath Automne 2026 (Animath / POFM, maths-olympiques.fr)
 
 
 <div class="qlang-split" data-lang="it"></div>
@@ -41,13 +43,15 @@ level: Coupe Animath Automne
 >
 > *Qui è richiesta solo la risposta numerica semplificata.*
 
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 7
 
-[[Quesiti/src_canimath_2026_automne#q01|src_canimath_2026_automne__Q01]]
 
 
-
-<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_geometria_piana"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_geometria_piana,method_simmetria,skill_ragionamento_geometrico,skill_lettura_attenta"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -59,10 +63,12 @@ level: Coupe Animath Automne
 > What is the measure of the angle $\widehat{DEF}$?
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
-**Area:** [[Geometria]]
+**Metodo:** [[method_simmetria|Using symmetry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_lettura_attenta|Careful reading of the text]]
+**Area:** [[Geometria|Geometry]]
 **Risposta:** $90^\circ$
-**Fonte risposta:** corrigé commenté ufficiale PDF p.4
-**Fonte:** apri PDF p.3 · Coupe Animath Automne 2026 (Animath / POFM, maths-olympiques.fr)
+**Fonte risposta:** [corrigé commenté ufficiale PDF p.4](https://maths-olympiques.fr/wp-content/uploads/2026/10/Corrige-commente-Coupe-Animath-Automne-2026.pdf#page=4)
+**Fonte:** [apri PDF p.3](https://maths-olympiques.fr/wp-content/uploads/2026/10/Sujet-Coupe-Animath-Automne-2026.pdf#page=3) · Coupe Animath Automne 2026 (Animath / POFM, maths-olympiques.fr)
 
 
 <div class="qlang-split" data-lang="it"></div>
@@ -74,13 +80,15 @@ level: Coupe Animath Automne
 >
 > Quanto misura l'angolo $\widehat{DEF}$?
 
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_simmetria|Sfruttamento della simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta del testo]]
+**Area:** [[Geometria]]
 **Risposta:** $90^\circ$
 
-[[Quesiti/src_canimath_2026_automne#q02|src_canimath_2026_automne__Q02]]
 
 
-
-<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_combinatoria"></span>
+<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_combinatoria,topic_aritmetica,method_casework,method_congruenze,skill_casework_accurato,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -91,11 +99,13 @@ level: Coupe Animath Automne
 >
 > What is the smallest value of $n$ for which this is possible?
 
-**Topic:** [[topic_combinatoria|Combinatoria]]
-**Area:** [[Combinatoria, Logica e Probabilita]]
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_casework|Case analysis]], [[method_congruenze|Modular arithmetic / congruences]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Risposta:** $n=7$
-**Fonte risposta:** corrigé commenté ufficiale PDF p.6
-**Fonte:** apri PDF p.3 · Coupe Animath Automne 2026 (Animath / POFM, maths-olympiques.fr)
+**Fonte risposta:** [corrigé commenté ufficiale PDF p.6](https://maths-olympiques.fr/wp-content/uploads/2026/10/Corrige-commente-Coupe-Animath-Automne-2026.pdf#page=6)
+**Fonte:** [apri PDF p.3](https://maths-olympiques.fr/wp-content/uploads/2026/10/Sujet-Coupe-Animath-Automne-2026.pdf#page=3) · Coupe Animath Automne 2026 (Animath / POFM, maths-olympiques.fr)
 
 
 <div class="qlang-split" data-lang="it"></div>
@@ -107,13 +117,15 @@ level: Coupe Animath Automne
 >
 > Qual è il più piccolo valore di $n$ per cui ciò è possibile?
 
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Analisi per casi]], [[method_congruenze|Aritmetica modulare / congruenze]]
+**Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** $n=7$
 
-[[Quesiti/src_canimath_2026_automne#q03|src_canimath_2026_automne__Q03]]
 
 
-
-<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_aritmetica"></span>
+<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_aritmetica,method_casework,method_fattorizzazione,skill_casework_accurato,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -122,11 +134,13 @@ level: Coupe Animath Automne
 
 > Determine all non-negative integers $a,b,c$ for which the numbers $a^2+a+b+c$, $b^2+a+b+c$ and $c^2+a+b+c$ are all three prime numbers.
 
-**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Area:** [[Aritmetica e Teoria dei Numeri]]
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_casework|Case analysis]], [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Risposta:** $(a,b,c)=(0,1,1),\ (1,0,1),\ (1,1,0)$
-**Fonte risposta:** corrigé commenté ufficiale PDF p.8
-**Fonte:** apri PDF p.3 · Coupe Animath Automne 2026 (Animath / POFM, maths-olympiques.fr)
+**Fonte risposta:** [corrigé commenté ufficiale PDF p.8](https://maths-olympiques.fr/wp-content/uploads/2026/10/Corrige-commente-Coupe-Animath-Automne-2026.pdf#page=8)
+**Fonte:** [apri PDF p.3](https://maths-olympiques.fr/wp-content/uploads/2026/10/Sujet-Coupe-Animath-Automne-2026.pdf#page=3) · Coupe Animath Automne 2026 (Animath / POFM, maths-olympiques.fr)
 
 
 <div class="qlang-split" data-lang="it"></div>
@@ -136,13 +150,15 @@ level: Coupe Animath Automne
 
 > Determinare tutti gli interi $a,b,c$ positivi o nulli per cui i numeri $a^2+a+b+c$, $b^2+a+b+c$ e $c^2+a+b+c$ sono tutti e tre numeri primi.
 
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Analisi per casi]], [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
+**Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** $(a,b,c)=(0,1,1),\ (1,0,1),\ (1,1,0)$
 
-[[Quesiti/src_canimath_2026_automne#q04|src_canimath_2026_automne__Q04]]
 
 
-
-<span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_geometria_piana"></span>
+<span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_geometria_piana,method_simmetria,skill_ragionamento_geometrico"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -154,10 +170,12 @@ level: Coupe Animath Automne
 > Prove that the lines $(EM)$ and $(AC)$ are parallel.
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
-**Area:** [[Geometria]]
+**Metodo:** [[method_simmetria|Using symmetry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
 **Risposta:** proof — official solution in the corrigé
-**Fonte risposta:** corrigé commenté ufficiale PDF p.9
-**Fonte:** apri PDF p.3 · Coupe Animath Automne 2026 (Animath / POFM, maths-olympiques.fr)
+**Fonte risposta:** [corrigé commenté ufficiale PDF p.9](https://maths-olympiques.fr/wp-content/uploads/2026/10/Corrige-commente-Coupe-Animath-Automne-2026.pdf#page=9)
+**Fonte:** [apri PDF p.3](https://maths-olympiques.fr/wp-content/uploads/2026/10/Sujet-Coupe-Animath-Automne-2026.pdf#page=3) · Coupe Animath Automne 2026 (Animath / POFM, maths-olympiques.fr)
 
 
 <div class="qlang-split" data-lang="it"></div>
@@ -169,13 +187,15 @@ level: Coupe Animath Automne
 >
 > Dimostrare che le rette $(EM)$ e $(AC)$ sono parallele.
 
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_simmetria|Sfruttamento della simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Geometria]]
 **Risposta:** dimostrazione — soluzione ufficiale nel corrigé
 
-[[Quesiti/src_canimath_2026_automne#q05|src_canimath_2026_automne__Q05]]
 
 
-
-<span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_algebra"></span>
+<span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_algebra,method_fattorizzazione,method_casework,method_simmetria,skill_manipolazione_algebrica,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -187,10 +207,12 @@ level: Coupe Animath Automne
 > Determine the real numbers $a,b,c$ for which this is possible.
 
 **Topic:** [[topic_algebra|Algebra]]
-**Area:** [[Algebra e Analisi]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]], [[method_casework|Case analysis]], [[method_simmetria|Using symmetry]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
 **Risposta:** only $a=b=c=2$
-**Fonte risposta:** corrigé commenté ufficiale PDF p.10
-**Fonte:** apri PDF p.3 · Coupe Animath Automne 2026 (Animath / POFM, maths-olympiques.fr)
+**Fonte risposta:** [corrigé commenté ufficiale PDF p.10](https://maths-olympiques.fr/wp-content/uploads/2026/10/Corrige-commente-Coupe-Animath-Automne-2026.pdf#page=10)
+**Fonte:** [apri PDF p.3](https://maths-olympiques.fr/wp-content/uploads/2026/10/Sujet-Coupe-Animath-Automne-2026.pdf#page=3) · Coupe Animath Automne 2026 (Animath / POFM, maths-olympiques.fr)
 
 
 <div class="qlang-split" data-lang="it"></div>
@@ -202,13 +224,15 @@ level: Coupe Animath Automne
 >
 > Determinare i numeri reali $a,b,c$ per cui ciò è possibile.
 
+**Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]], [[method_casework|Analisi per casi]], [[method_simmetria|Sfruttamento della simmetria]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Algebra e Analisi]]
 **Risposta:** solo $a=b=c=2$
 
-[[Quesiti/src_canimath_2026_automne#q06|src_canimath_2026_automne__Q06]]
 
 
-
-<span class="atom-split" id="q07" data-atom="q07" data-title="Quesito 7" data-tags="topic_combinatoria"></span>
+<span class="atom-split" id="q07" data-atom="q07" data-title="Quesito 7" data-tags="topic_combinatoria,method_invarianti,skill_modellizzazione,skill_conteggio_sistematico"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -219,11 +243,13 @@ level: Coupe Animath Automne
 >
 > What is the minimum number of moves Raphaël needs to reach a position with a white stone on each cell of the top row and a black stone on each cell of the bottom row?
 
-**Topic:** [[topic_combinatoria|Combinatoria]]
-**Area:** [[Combinatoria, Logica e Probabilita]]
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_invarianti|Invariants / monovariants]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]], [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Risposta:** 120
-**Fonte risposta:** corrigé commenté ufficiale PDF p.12
-**Fonte:** apri PDF p.3 · Coupe Animath Automne 2026 (Animath / POFM, maths-olympiques.fr)
+**Fonte risposta:** [corrigé commenté ufficiale PDF p.12](https://maths-olympiques.fr/wp-content/uploads/2026/10/Corrige-commente-Coupe-Animath-Automne-2026.pdf#page=12)
+**Fonte:** [apri PDF p.3](https://maths-olympiques.fr/wp-content/uploads/2026/10/Sujet-Coupe-Animath-Automne-2026.pdf#page=3) · Coupe Animath Automne 2026 (Animath / POFM, maths-olympiques.fr)
 
 
 <div class="qlang-split" data-lang="it"></div>
@@ -235,13 +261,15 @@ level: Coupe Animath Automne
 >
 > Qual è il numero minimo di mosse necessarie a Raphaël per arrivare a una situazione in cui c'è una pietra bianca su ogni casella della riga in alto e una pietra nera su ogni casella della riga in basso?
 
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_invarianti|Invarianti / monovarianti]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 120
 
-[[Quesiti/src_canimath_2026_automne#q07|src_canimath_2026_automne__Q07]]
 
 
-
-<span class="atom-split" id="q08" data-atom="q08" data-title="Quesito 8" data-tags="topic_aritmetica"></span>
+<span class="atom-split" id="q08" data-atom="q08" data-title="Quesito 8" data-tags="topic_aritmetica,topic_geometria_piana,method_fattorizzazione,skill_riconoscimento_pattern,skill_ragionamento_geometrico"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -254,11 +282,13 @@ level: Coupe Animath Automne
 >
 > *Only a simplified numerical answer is expected here.*
 
-**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Area:** [[Aritmetica e Teoria dei Numeri]]
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]], [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Geometria|Geometry]]
 **Risposta:** 5
-**Fonte risposta:** corrigé commenté ufficiale PDF p.14
-**Fonte:** apri PDF p.4 · Coupe Animath Automne 2026 (Animath / POFM, maths-olympiques.fr)
+**Fonte risposta:** [corrigé commenté ufficiale PDF p.14](https://maths-olympiques.fr/wp-content/uploads/2026/10/Corrige-commente-Coupe-Animath-Automne-2026.pdf#page=14)
+**Fonte:** [apri PDF p.4](https://maths-olympiques.fr/wp-content/uploads/2026/10/Sujet-Coupe-Animath-Automne-2026.pdf#page=4) · Coupe Animath Automne 2026 (Animath / POFM, maths-olympiques.fr)
 
 
 <div class="qlang-split" data-lang="it"></div>
@@ -272,13 +302,15 @@ level: Coupe Animath Automne
 >
 > *Qui è richiesta solo la risposta numerica semplificata.*
 
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Geometria]]
 **Risposta:** 5
 
-[[Quesiti/src_canimath_2026_automne#q08|src_canimath_2026_automne__Q08]]
 
 
-
-<span class="atom-split" id="q09" data-atom="q09" data-title="Quesito 9" data-tags="topic_combinatoria"></span>
+<span class="atom-split" id="q09" data-atom="q09" data-title="Quesito 9" data-tags="topic_combinatoria,topic_aritmetica,method_congruenze,method_casework,skill_casework_accurato,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -289,11 +321,13 @@ level: Coupe Animath Automne
 >
 > What is the smallest value of $n$ for which this is possible?
 
-**Topic:** [[topic_combinatoria|Combinatoria]]
-**Area:** [[Combinatoria, Logica e Probabilita]]
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]], [[method_casework|Case analysis]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Risposta:** $n=7$
-**Fonte risposta:** corrigé commenté ufficiale PDF p.15
-**Fonte:** apri PDF p.4 · Coupe Animath Automne 2026 (Animath / POFM, maths-olympiques.fr)
+**Fonte risposta:** [corrigé commenté ufficiale PDF p.15](https://maths-olympiques.fr/wp-content/uploads/2026/10/Corrige-commente-Coupe-Animath-Automne-2026.pdf#page=15)
+**Fonte:** [apri PDF p.4](https://maths-olympiques.fr/wp-content/uploads/2026/10/Sujet-Coupe-Animath-Automne-2026.pdf#page=4) · Coupe Animath Automne 2026 (Animath / POFM, maths-olympiques.fr)
 
 
 <div class="qlang-split" data-lang="it"></div>
@@ -305,13 +339,15 @@ level: Coupe Animath Automne
 >
 > Qual è il più piccolo valore di $n$ per cui ciò è possibile?
 
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]], [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** $n=7$
 
-[[Quesiti/src_canimath_2026_automne#q09|src_canimath_2026_automne__Q09]]
 
 
-
-<span class="atom-split" id="q10" data-atom="q10" data-title="Quesito 10" data-tags="topic_aritmetica"></span>
+<span class="atom-split" id="q10" data-atom="q10" data-title="Quesito 10" data-tags="topic_aritmetica,method_fattorizzazione,method_casework,skill_casework_accurato,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -320,11 +356,13 @@ level: Coupe Animath Automne
 
 > Determine all non-negative integers $a,b,c$ for which the numbers $a^2+a+b+c$, $b^2+a+b+c$ and $c^2+a+b+c$ are all three prime numbers.
 
-**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Area:** [[Aritmetica e Teoria dei Numeri]]
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]], [[method_casework|Case analysis]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Risposta:** $(a,b,c)=(0,1,1),\ (1,0,1),\ (1,1,0)$
-**Fonte risposta:** corrigé commenté ufficiale PDF p.17
-**Fonte:** apri PDF p.4 · Coupe Animath Automne 2026 (Animath / POFM, maths-olympiques.fr)
+**Fonte risposta:** [corrigé commenté ufficiale PDF p.17](https://maths-olympiques.fr/wp-content/uploads/2026/10/Corrige-commente-Coupe-Animath-Automne-2026.pdf#page=17)
+**Fonte:** [apri PDF p.4](https://maths-olympiques.fr/wp-content/uploads/2026/10/Sujet-Coupe-Animath-Automne-2026.pdf#page=4) · Coupe Animath Automne 2026 (Animath / POFM, maths-olympiques.fr)
 
 
 <div class="qlang-split" data-lang="it"></div>
@@ -334,13 +372,15 @@ level: Coupe Animath Automne
 
 > Determinare tutti gli interi $a,b,c$ positivi o nulli per cui i numeri $a^2+a+b+c$, $b^2+a+b+c$ e $c^2+a+b+c$ sono tutti e tre numeri primi.
 
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]], [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** $(a,b,c)=(0,1,1),\ (1,0,1),\ (1,1,0)$
 
-[[Quesiti/src_canimath_2026_automne#q10|src_canimath_2026_automne__Q10]]
 
 
-
-<span class="atom-split" id="q11" data-atom="q11" data-title="Quesito 11" data-tags="topic_geometria_piana"></span>
+<span class="atom-split" id="q11" data-atom="q11" data-title="Quesito 11" data-tags="topic_geometria_piana,topic_algebra,method_fattorizzazione,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -351,11 +391,13 @@ level: Coupe Animath Automne
 >
 > Determine the area of the quadrilateral $ABCD$.
 
-**Topic:** [[topic_geometria_piana|Geometria piana]]
-**Area:** [[Geometria]]
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Geometria|Geometry]], [[Algebra e Analisi|Algebra and analysis]]
 **Risposta:** $\frac14$
-**Fonte risposta:** corrigé commenté ufficiale PDF p.18
-**Fonte:** apri PDF p.4 · Coupe Animath Automne 2026 (Animath / POFM, maths-olympiques.fr)
+**Fonte risposta:** [corrigé commenté ufficiale PDF p.18](https://maths-olympiques.fr/wp-content/uploads/2026/10/Corrige-commente-Coupe-Animath-Automne-2026.pdf#page=18)
+**Fonte:** [apri PDF p.4](https://maths-olympiques.fr/wp-content/uploads/2026/10/Sujet-Coupe-Animath-Automne-2026.pdf#page=4) · Coupe Animath Automne 2026 (Animath / POFM, maths-olympiques.fr)
 
 
 <div class="qlang-split" data-lang="it"></div>
@@ -367,13 +409,15 @@ level: Coupe Animath Automne
 >
 > Determinare l'area del quadrilatero $ABCD$.
 
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]], [[Algebra e Analisi]]
 **Risposta:** $\frac14$
 
-[[Quesiti/src_canimath_2026_automne#q11|src_canimath_2026_automne__Q11]]
 
 
-
-<span class="atom-split" id="q12" data-atom="q12" data-title="Quesito 12" data-tags="topic_combinatoria"></span>
+<span class="atom-split" id="q12" data-atom="q12" data-title="Quesito 12" data-tags="topic_combinatoria,method_grafi,method_colorazione,skill_modellizzazione,skill_conteggio_sistematico"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -384,11 +428,13 @@ level: Coupe Animath Automne
 >
 > What is the minimum value of $k$ for which Théo can organise his bike trip?
 
-**Topic:** [[topic_combinatoria|Combinatoria]]
-**Area:** [[Combinatoria, Logica e Probabilita]]
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_grafi|Graph theory]], [[method_colorazione|Colouring / parity]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]], [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Risposta:** $k=7$
-**Fonte risposta:** corrigé commenté ufficiale PDF p.19
-**Fonte:** apri PDF p.4 · Coupe Animath Automne 2026 (Animath / POFM, maths-olympiques.fr)
+**Fonte risposta:** [corrigé commenté ufficiale PDF p.19](https://maths-olympiques.fr/wp-content/uploads/2026/10/Corrige-commente-Coupe-Animath-Automne-2026.pdf#page=19)
+**Fonte:** [apri PDF p.4](https://maths-olympiques.fr/wp-content/uploads/2026/10/Sujet-Coupe-Animath-Automne-2026.pdf#page=4) · Coupe Animath Automne 2026 (Animath / POFM, maths-olympiques.fr)
 
 
 <div class="qlang-split" data-lang="it"></div>
@@ -400,13 +446,15 @@ level: Coupe Animath Automne
 >
 > Qual è il valore minimo di $k$ per cui Théo può organizzare il suo viaggio in bicicletta?
 
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_grafi|Teoria dei grafi]], [[method_colorazione|Colorazione / parita]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** $k=7$
 
-[[Quesiti/src_canimath_2026_automne#q12|src_canimath_2026_automne__Q12]]
 
 
-
-<span class="atom-split" id="q13" data-atom="q13" data-title="Quesito 13" data-tags="topic_aritmetica"></span>
+<span class="atom-split" id="q13" data-atom="q13" data-title="Quesito 13" data-tags="topic_aritmetica,topic_algebra,method_fattorizzazione,method_casework,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -415,11 +463,13 @@ level: Coupe Animath Automne
 
 > Determine all positive integers $n$ such that $\dfrac{\sqrt n}{2}+\dfrac{10}{\sqrt n}$ is an integer.
 
-**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Area:** [[Aritmetica e Teoria dei Numeri]]
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]], [[method_casework|Case analysis]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Algebra e Analisi|Algebra and analysis]]
 **Risposta:** $n=4$ and $n=100$
-**Fonte risposta:** corrigé commenté ufficiale PDF p.20
-**Fonte:** apri PDF p.4 · Coupe Animath Automne 2026 (Animath / POFM, maths-olympiques.fr)
+**Fonte risposta:** [corrigé commenté ufficiale PDF p.20](https://maths-olympiques.fr/wp-content/uploads/2026/10/Corrige-commente-Coupe-Animath-Automne-2026.pdf#page=20)
+**Fonte:** [apri PDF p.4](https://maths-olympiques.fr/wp-content/uploads/2026/10/Sujet-Coupe-Animath-Automne-2026.pdf#page=4) · Coupe Animath Automne 2026 (Animath / POFM, maths-olympiques.fr)
 
 
 <div class="qlang-split" data-lang="it"></div>
@@ -429,13 +479,15 @@ level: Coupe Animath Automne
 
 > Determinare tutti gli interi strettamente positivi $n$ tali che $\dfrac{\sqrt n}{2}+\dfrac{10}{\sqrt n}$ sia un numero intero.
 
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]], [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 **Risposta:** $n=4$ e $n=100$
 
-[[Quesiti/src_canimath_2026_automne#q13|src_canimath_2026_automne__Q13]]
 
 
-
-<span class="atom-split" id="q14" data-atom="q14" data-title="Quesito 14" data-tags="topic_disuguaglianze"></span>
+<span class="atom-split" id="q14" data-atom="q14" data-title="Quesito 14" data-tags="topic_disuguaglianze,method_cassetti,method_disuguaglianze,skill_manipolazione_algebrica,skill_stima"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -449,10 +501,12 @@ level: Coupe Animath Automne
 > Prove that Antoine can circle two of these fractions, call them $a$ and $b$, such that $|a-b|\leqslant\dfrac1{\sqrt{30}}$.
 
 **Topic:** [[topic_disuguaglianze|Disuguaglianze]]
-**Area:** [[Algebra e Analisi]]
+**Metodo:** [[method_cassetti|Pigeonhole principle]], [[method_disuguaglianze|Classical inequalities]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_stima|Estimation and approximation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
 **Risposta:** proof — official solution in the corrigé
-**Fonte risposta:** corrigé commenté ufficiale PDF p.22
-**Fonte:** apri PDF p.4 · Coupe Animath Automne 2026 (Animath / POFM, maths-olympiques.fr)
+**Fonte risposta:** [corrigé commenté ufficiale PDF p.22](https://maths-olympiques.fr/wp-content/uploads/2026/10/Corrige-commente-Coupe-Animath-Automne-2026.pdf#page=22)
+**Fonte:** [apri PDF p.4](https://maths-olympiques.fr/wp-content/uploads/2026/10/Sujet-Coupe-Animath-Automne-2026.pdf#page=4) · Coupe Animath Automne 2026 (Animath / POFM, maths-olympiques.fr)
 
 
 <div class="qlang-split" data-lang="it"></div>
@@ -466,13 +520,15 @@ level: Coupe Animath Automne
 >
 > Dimostrare che Antoine può cerchiare due di queste frazioni, indicate con $a$ e $b$, tali che $|a-b|\leqslant\dfrac1{\sqrt{30}}$.
 
+**Topic:** [[topic_disuguaglianze|Disuguaglianze]]
+**Metodo:** [[method_cassetti|Principio dei cassetti]], [[method_disuguaglianze|Disuguaglianze classiche]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima e approssimazione]]
+**Area:** [[Algebra e Analisi]]
 **Risposta:** dimostrazione — soluzione ufficiale nel corrigé
 
-[[Quesiti/src_canimath_2026_automne#q14|src_canimath_2026_automne__Q14]]
 
 
-
-<span class="atom-split" id="q15" data-atom="q15" data-title="Quesito 15" data-tags="topic_geometria_piana"></span>
+<span class="atom-split" id="q15" data-atom="q15" data-title="Quesito 15" data-tags="topic_geometria_piana,method_coordinate,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -484,10 +540,12 @@ level: Coupe Animath Automne
 > Prove that $\widehat{AOG}=90^\circ$.
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
-**Area:** [[Geometria]]
+**Metodo:** [[method_coordinate|Coordinate method]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Geometria|Geometry]]
 **Risposta:** proof — official solution in the corrigé
-**Fonte risposta:** corrigé commenté ufficiale PDF p.23
-**Fonte:** apri PDF p.4 · Coupe Animath Automne 2026 (Animath / POFM, maths-olympiques.fr)
+**Fonte risposta:** [corrigé commenté ufficiale PDF p.23](https://maths-olympiques.fr/wp-content/uploads/2026/10/Corrige-commente-Coupe-Animath-Automne-2026.pdf#page=23)
+**Fonte:** [apri PDF p.4](https://maths-olympiques.fr/wp-content/uploads/2026/10/Sujet-Coupe-Animath-Automne-2026.pdf#page=4) · Coupe Animath Automne 2026 (Animath / POFM, maths-olympiques.fr)
 
 
 <div class="qlang-split" data-lang="it"></div>
@@ -499,6 +557,8 @@ level: Coupe Animath Automne
 >
 > Dimostrare che $\widehat{AOG}=90^\circ$.
 
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_coordinate|Metodo delle coordinate]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
 **Risposta:** dimostrazione — soluzione ufficiale nel corrigé
-
-[[Quesiti/src_canimath_2026_automne#q15|src_canimath_2026_automne__Q15]]

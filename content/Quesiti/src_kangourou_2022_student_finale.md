@@ -10,14 +10,14 @@ level: kangourou
 
 
 
-<span class="atom-split" id="qs1" data-atom="qs1" data-title="Quesito S1" data-tags="topic_combinatoria,topic_geometria_piana,method_colorazione,skill_casework_accurato"></span>
+<span class="atom-split" id="qs1" data-atom="qs1" data-title="Quesito S1" data-tags="topic_combinatoria,topic_geometria_piana,method_colorazione,skill_casework_accurato,skill_conteggio_sistematico"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
 
 *Tessere 2×1 al massimo su regione di 36 quadratini*
 
-![[src_kangourou_2022_student_finale__probs1.png]]
+![[src_kangourou_2022_student_finale__probS1.png]]
 
 ```tikz
 \begin{document}
@@ -41,7 +41,7 @@ level: kangourou
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_colorazione|Colorazione / parita]]
-**Abilita:** [[skill_casework_accurato|Casework accurato]]
+**Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 **Risposta:** 15
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1xkM8usCvbEkYYISsMrLicq6kvtHNww5g/view)
@@ -52,32 +52,31 @@ level: kangourou
 
 *How many tiles of this kind can you place in the region at most?*
 
-![[src_kangourou_2022_student_finale__probs1.png]]
+![[src_kangourou_2022_student_finale__probS1.png]]
 
 > In the picture you see a region of the plane obtained by placing 36 little squares, all equal to one another, side by side, and a tile obtained by placing side by side two little squares identical to those of the region. How many tiles of this kind can you place in the region at most so that each covers exactly two little squares of the region and they do not overlap (not even partly)? You may use the picture to show how to place the tiles, but remember that you must also justify why you cannot place a greater number. (see the picture)
 
 **Topic:** [[topic_combinatoria|Combinatorics]], [[topic_geometria_piana|Plane geometry]]
-**Method:** [[method_colorazione|Colouring / parity]]
-**Skill:** [[skill_casework_accurato|Careful case analysis]]
+**Metodo:** [[method_colorazione|Colouring / parity]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]], [[skill_conteggio_sistematico|Systematic counting]]
 **Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Geometria|Geometry]]
 **Answer:** 15
-[[Quesiti/src_kangourou_2022_student_finale#qs1|src_kangourou_2022_student_finale__QS1]]
 
 
 
-<span class="atom-split" id="qs2" data-atom="qs2" data-title="Quesito S2" data-tags="topic_geometria_piana,method_doppio_conteggio,skill_ragionamento_geometrico"></span>
+<span class="atom-split" id="qs2" data-atom="qs2" data-title="Quesito S2" data-tags="topic_geometria_piana,method_doppio_conteggio,method_simmetria,skill_ragionamento_geometrico"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
 
 *lati rossi=verdi*
 
-![[src_kangourou_2022_student_finale__probs2.png]]
+![[src_kangourou_2022_student_finale__probS2.png]]
 
 > Due quadrati congruenti, uno con bordo rosso e l'altro con bordo verde, sono disposti nel piano in modo tale che la loro intersezione sia un ottagono (i centri dei due quadrati possono non coincidere). Dimostra che la somma delle lunghezze dei lati rossi dell'ottagono coincide con la somma delle lunghezze dei lati verdi. (vedi figura)
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
-**Metodo:** [[method_doppio_conteggio|Doppio conteggio]]
+**Metodo:** [[method_doppio_conteggio|Doppio conteggio]], [[method_simmetria|Sfruttamento della simmetria]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]]
 **Risposta:** dimostrazione
@@ -89,16 +88,15 @@ level: kangourou
 
 *Prove that the sum of the lengths of the red sides of the octagon equals the sum of the lengths of the green sides.*
 
-![[src_kangourou_2022_student_finale__probs2.png]]
+![[src_kangourou_2022_student_finale__probS2.png]]
 
 > Two congruent squares, one with a red border and the other with a green border, are placed in the plane so that their intersection is an octagon (the centres of the two squares need not coincide). Prove that the sum of the lengths of the red sides of the octagon equals the sum of the lengths of the green sides. (see the picture)
 
 **Topic:** [[topic_geometria_piana|Plane geometry]]
-**Method:** [[method_doppio_conteggio|Double counting]]
-**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Metodo:** [[method_doppio_conteggio|Double counting]], [[method_simmetria|Using symmetry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
 **Area:** [[Geometria|Geometry]]
 **Answer:** dimostrazione
-[[Quesiti/src_kangourou_2022_student_finale#qs2|src_kangourou_2022_student_finale__QS2]]
 
 
 
@@ -131,18 +129,17 @@ level: kangourou
 **Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Answer:** dimostrazione
-[[Quesiti/src_kangourou_2022_student_finale#qs3|src_kangourou_2022_student_finale__QS3]]
 
 
 
-<span class="atom-split" id="qs4" data-atom="qs4" data-title="Quesito S4" data-tags="topic_geometria_piana,skill_ragionamento_geometrico"></span>
+<span class="atom-split" id="qs4" data-atom="qs4" data-title="Quesito S4" data-tags="topic_geometria_piana,topic_trigonometria,method_trigonometria,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
 
 *Area punti del pentagono a distanza >1 da un vertice*
 
-![[src_kangourou_2022_student_finale__probs4.png]]
+![[src_kangourou_2022_student_finale__probS4.png]]
 
 ```tikz
 \begin{document}
@@ -172,8 +169,9 @@ level: kangourou
 
 > Determina l'area della regione luogo dei punti interni ad un pentagono regolare di lato 1 che sono a distanza maggiore di 1 da almeno uno dei vertici. (vedi figura)
 
-**Topic:** [[topic_geometria_piana|Geometria piana]]
-**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometria]]
+**Metodo:** [[method_trigonometria|Tecniche trigonometriche]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 **Risposta:** √3/2 - π/3
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1xkM8usCvbEkYYISsMrLicq6kvtHNww5g/view)
@@ -184,26 +182,26 @@ level: kangourou
 
 *Determine the area of the region.*
 
-![[src_kangourou_2022_student_finale__probs4.png]]
+![[src_kangourou_2022_student_finale__probS4.png]]
 
 > Determine the area of the region that is the locus of the points inside a regular pentagon of side 1 that are at a distance greater than 1 from at least one of the vertices. (see the picture)
 
-**Topic:** [[topic_geometria_piana|Plane geometry]]
-**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_trigonometria|Trigonometry]]
+**Metodo:** [[method_trigonometria|Trigonometric techniques]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
 **Area:** [[Geometria|Geometry]]
 **Answer:** √3/2 - π/3
-[[Quesiti/src_kangourou_2022_student_finale#qs4|src_kangourou_2022_student_finale__QS4]]
 
 
 
-<span class="atom-split" id="qs5" data-atom="qs5" data-title="Quesito S5" data-tags="topic_geometria_analitica,topic_insiemi_funzioni,method_coordinate,skill_astrazione"></span>
+<span class="atom-split" id="qs5" data-atom="qs5" data-title="Quesito S5" data-tags="topic_geometria_analitica,topic_insiemi_funzioni,method_coordinate,method_casework,skill_astrazione,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
 
 *Asse di un segmento con metrica del max (distanza Chebyshev)*
 
-![[src_kangourou_2022_student_finale__probs5.png]]
+![[src_kangourou_2022_student_finale__probS5.png]]
 
 ```tikz
 \begin{document}
@@ -234,9 +232,9 @@ level: kangourou
 > Nel piano dotato di un sistema cartesiano ortogonale monometrico $Oxy$, introduciamo una nuova nozione di distanza: la distanza del punto $(x, y)$ dal punto $(a, b)$ è il maggiore fra i numeri $|x-a|$ e $|y-b|$ (che possono coincidere). L'asse di un segmento viene definito, rispetto a questa nuova nozione di distanza, nel modo usuale, cioè come luogo dei punti equidistanti dagli estremi del segmento. Descrivi l'asse del segmento di estremi $(-1, 0)$ e $(1, 0)$ rispetto alla nuova nozione di distanza (NON rispetto alla distanza euclidea). (vedi figura)
 
 **Topic:** [[topic_geometria_analitica|Geometria analitica]], [[topic_insiemi_funzioni|Insiemi e funzioni]]
-**Metodo:** [[method_coordinate|Metodo delle coordinate]]
-**Abilita:** [[skill_astrazione|Astrazione / generalizzazione]]
-**Area:** [[Algebra e Analisi]], [[Geometria]]
+**Metodo:** [[method_coordinate|Metodo delle coordinate]], [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_astrazione|Astrazione / generalizzazione]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Geometria]], [[Algebra e Analisi]]
 **Risposta:** descrizione luogo
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1xkM8usCvbEkYYISsMrLicq6kvtHNww5g/view)
 
@@ -246,16 +244,15 @@ level: kangourou
 
 *Describe the perpendicular bisector of the segment with endpoints (−1, 0) and (1, 0) under the new notion of distance.*
 
-![[src_kangourou_2022_student_finale__probs5.png]]
+![[src_kangourou_2022_student_finale__probS5.png]]
 
 > In the plane equipped with a Cartesian coordinate system $Oxy$ with equal units on the axes, we introduce a new notion of distance: the distance of the point $(x, y)$ from the point $(a, b)$ is the greater of the numbers $|x-a|$ and $|y-b|$ (which may coincide). The perpendicular bisector of a segment is defined, with respect to this new notion of distance, in the usual way, that is, as the locus of the points equidistant from the endpoints of the segment. Describe the perpendicular bisector of the segment with endpoints $(-1, 0)$ and $(1, 0)$ with respect to the new notion of distance (NOT with respect to the Euclidean distance). (see the picture)
 
 **Topic:** [[topic_geometria_analitica|Coordinate geometry]], [[topic_insiemi_funzioni|Sets and functions]]
-**Method:** [[method_coordinate|Coordinate method]]
-**Skill:** [[skill_astrazione|Abstraction / generalisation]]
-**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Geometria|Geometry]]
+**Metodo:** [[method_coordinate|Coordinate method]], [[method_casework|Case analysis]]
+**Abilita:** [[skill_astrazione|Abstraction / generalisation]], [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Geometria|Geometry]], [[Algebra e Analisi|Algebra and analysis]]
 **Answer:** descrizione luogo
-[[Quesiti/src_kangourou_2022_student_finale#qs5|src_kangourou_2022_student_finale__QS5]]
 
 
 
@@ -288,4 +285,3 @@ level: kangourou
 **Skill:** [[skill_astrazione|Abstraction / generalisation]]
 **Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Answer:** dimostrazione
-[[Quesiti/src_kangourou_2022_student_finale#qs6|src_kangourou_2022_student_finale__QS6]]

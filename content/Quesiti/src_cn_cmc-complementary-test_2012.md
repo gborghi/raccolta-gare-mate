@@ -19,7 +19,7 @@ level: China Mathematical Competition (Complementary Test)
 
 > (40 marks) As seen in Fig. 1.1, in acute triangle $\triangle ABC$, $AB > AC$. $M$, $N$ are two different points on $BC$ such that $\angle BAM = \angle CAN$, and $O_1$, $O_2$ are the circumcenters of $\triangle ABC$, $\triangle AMN$, respectively. Prove that $O_1$, $O_2$, $A$ are collinear.
 
-![[src_cn_cmc-complementary-test_b11_w77__q01.png]]
+![[src_cn_cmc-complementary-test_b11_w77__Q01.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_trigonometria|Trigonometria]], [[method_coordinate|Coordinate]]
@@ -35,14 +35,12 @@ level: China Mathematical Competition (Complementary Test)
 
 > (40 punti) Come si vede nella Fig. 1.1, in un triangolo acuto $\triangle ABC$, $AB > AC$. $M$, $N$ sono due punti distinti su $BC$ tali che $\angle BAM = \angle CAN$, e $O_1$, $O_2$ sono i circocentri di $\triangle ABC$, $\triangle AMN$, rispettivamente. Dimostrare che $O_1$, $O_2$, $A$ sono allineati.
 
-![[src_cn_cmc-complementary-test_b11_w77__q01.png]]
+![[src_cn_cmc-complementary-test_b11_w77__Q01.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_trigonometria|Trigonometria]], [[method_coordinate|Coordinate]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_astrazione|Astrazione]]
 **Area:** [[Geometria]]
-
-[[Quesiti/src_cn_cmc-complementary-test_2012#q01|src_cn_cmc-complementary-test_2012__Q01]]
 
 
 
@@ -76,8 +74,6 @@ level: China Mathematical Competition (Complementary Test)
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_stima|Stima]]
 **Area:** [[Geometria]], [[Algebra e Analisi]]
 
-[[Quesiti/src_cn_cmc-complementary-test_2012#q03|src_cn_cmc-complementary-test_2012__Q03]]
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_aritmetica,topic_insiemi_funzioni,method_induzione,method_estremalita,method_telescoping,skill_manipolazione_algebrica,skill_stima,skill_ragionamento_geometrico"></span>
@@ -107,5 +103,3 @@ level: China Mathematical Competition (Complementary Test)
 **Metodo:** [[method_induzione|Induzione]], [[method_estremalita|Estremalità]], [[method_telescoping|Telescoping]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
-
-[[Quesiti/src_cn_cmc-complementary-test_2012#q04|src_cn_cmc-complementary-test_2012__Q04]]

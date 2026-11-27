@@ -10,7 +10,7 @@ level: kangourou
 
 
 
-<span class="atom-split" id="qb1" data-atom="qb1" data-title="Quesito B1" data-tags="topic_logica,skill_casework_accurato"></span>
+<span class="atom-split" id="qb1" data-atom="qb1" data-title="Quesito B1" data-tags="topic_logica,method_casework,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -20,6 +20,7 @@ level: kangourou
 > Sei naufragato sulla spiaggia di Mirabilandia che è abitata da due famiglie di pirati: quella dei Sinceri (che dicono sempre la verità) e quella dei Bugiardi (che mentono sempre). Incontri due pirati di nome Martedì e Mercoledì e vorresti sapere per ciascuno di loro a quale famiglia appartiene. Martedì afferma "noi apparteniamo a due famiglie diverse", ma Mercoledì ribatte "non è vero!". Che cosa concludi?
 
 **Topic:** [[topic_logica|Logica, giochi, strategie]]
+**Metodo:** [[method_casework|Analisi per casi]]
 **Abilita:** [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** Martedi sincero
@@ -34,13 +35,14 @@ level: kangourou
 > You have been shipwrecked on the beach of Mirabilandia, which is inhabited by two families of pirates: that of the Truth-tellers (who always tell the truth) and that of the Liars (who always lie). You meet two pirates named Martedì and Mercoledì and you would like to know, for each of them, which family he belongs to. Martedì states "we belong to two different families", but Mercoledì replies "that is not true!". What do you conclude?
 
 **Topic:** [[topic_logica|Logic, games, strategies]]
-**Skill:** [[skill_casework_accurato|Careful case analysis]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** Martedi sincero
-[[Quesiti/src_kangourou_2004_benjamin_finale#qb1|src_kangourou_2004_benjamin_finale__QB1]]
 
 
 
-<span class="atom-split" id="qb2" data-atom="qb2" data-title="Quesito B2" data-tags="topic_logica,topic_combinatoria,method_invarianti,skill_astrazione"></span>
+<span class="atom-split" id="qb2" data-atom="qb2" data-title="Quesito B2" data-tags="topic_logica,topic_combinatoria,topic_aritmetica,method_invarianti,skill_astrazione,skill_modellizzazione"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -49,10 +51,10 @@ level: kangourou
 
 > Stefano e Giovanni hanno a disposizione una corda rossa ed una blu (lunghe più di 20 centimetri). Essi intendono giocare nel modo seguente: a turno taglieranno da una delle estremità di una delle due corde uno spezzone che dovrà essere lungo $4$ centimetri se il giocatore sceglie la corda rossa oppure $5$ centimetri se il giocatore sceglie la corda blu. Perderà il primo dei due che non potrà più effettuare il taglio, cioè che si ritroverà con la corda rossa lunga meno di $4$ centimetri e la corda blu lunga meno di $5$ centimetri. Inizierà il gioco Stefano. In che modo, conoscendo la lunghezza delle due corde, si può sapere fin dall'inizio se vincerà Stefano o Giovanni?
 
-**Topic:** [[topic_logica|Logica, giochi, strategie]], [[topic_combinatoria|Combinatoria]]
+**Topic:** [[topic_logica|Logica, giochi, strategie]], [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_invarianti|Invarianti / monovarianti]]
-**Abilita:** [[skill_astrazione|Astrazione / generalizzazione]]
-**Area:** [[Combinatoria, Logica e Probabilita]]
+**Abilita:** [[skill_astrazione|Astrazione / generalizzazione]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** parita tagli
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1DTuTa9-8gf07gHbV5tJLp1dknhFcY163/view)
 
@@ -64,15 +66,15 @@ level: kangourou
 
 > Stefano and Giovanni have a red rope and a blue one (each longer than 20 centimetres). They mean to play as follows: in turn they will cut from one of the ends of one of the two ropes a piece that must be $4$ centimetres long if the player chooses the red rope, or $5$ centimetres long if the player chooses the blue rope. The first of the two who can no longer make the cut will lose, that is, who finds himself with the red rope shorter than $4$ centimetres and the blue rope shorter than $5$ centimetres. Stefano will start the game. How, knowing the lengths of the two ropes, can one tell from the start whether Stefano or Giovanni will win?
 
-**Topic:** [[topic_logica|Logic, games, strategies]], [[topic_combinatoria|Combinatorics]]
-**Method:** [[method_invarianti|Invariants / monovariants]]
-**Skill:** [[skill_astrazione|Abstraction / generalisation]]
+**Topic:** [[topic_logica|Logic, games, strategies]], [[topic_combinatoria|Combinatorics]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_invarianti|Invariants / monovariants]]
+**Abilita:** [[skill_astrazione|Abstraction / generalisation]], [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Answer:** parita tagli
-[[Quesiti/src_kangourou_2004_benjamin_finale#qb2|src_kangourou_2004_benjamin_finale__QB2]]
 
 
 
-<span class="atom-split" id="qb3" data-atom="qb3" data-title="Quesito B3" data-tags="topic_geometria_piana,topic_insiemi_funzioni,skill_casework_accurato"></span>
+<span class="atom-split" id="qb3" data-atom="qb3" data-title="Quesito B3" data-tags="topic_geometria_piana,topic_insiemi_funzioni,method_casework,skill_casework_accurato,skill_ragionamento_geometrico,skill_astrazione"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -82,8 +84,9 @@ level: kangourou
 > Considera tutti i possibili quadrilateri nel piano. Chiama $A$ l'insieme di tutti i quadrilateri aventi almeno una coppia di lati opposti della stessa lunghezza; $B$ l'insieme di tutti i quadrilateri aventi almeno una coppia di lati adiacenti della stessa lunghezza; $C$ l'insieme di tutti i quadrilateri aventi i quattro lati della stessa lunghezza; $D$ l'insieme di tutti i quadrilateri aventi almeno una coppia di lati opposti paralleli e della stessa lunghezza. Alcuni di questi insiemi ne contengono uno o più degli altri. Per ogni insieme precisa gli eventuali altri insiemi che esso contiene.
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_insiemi_funzioni|Insiemi e funzioni]]
-**Abilita:** [[skill_casework_accurato|Casework accurato]]
-**Area:** [[Algebra e Analisi]], [[Geometria]]
+**Metodo:** [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_astrazione|Astrazione / generalizzazione]]
+**Area:** [[Geometria]], [[Algebra e Analisi]]
 **Risposta:** C in D,B; D in A
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1DTuTa9-8gf07gHbV5tJLp1dknhFcY163/view)
 
@@ -96,26 +99,28 @@ level: kangourou
 > Consider all possible quadrilaterals in the plane. Call $A$ the set of all quadrilaterals that have at least one pair of opposite sides of the same length; $B$ the set of all quadrilaterals that have at least one pair of adjacent sides of the same length; $C$ the set of all quadrilaterals that have all four sides of the same length; $D$ the set of all quadrilaterals that have at least one pair of opposite sides that are parallel and of the same length. Some of these sets contain one or more of the others. For each set, state any other sets that it contains.
 
 **Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_insiemi_funzioni|Sets and functions]]
-**Skill:** [[skill_casework_accurato|Careful case analysis]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]], [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_astrazione|Abstraction / generalisation]]
+**Area:** [[Geometria|Geometry]], [[Algebra e Analisi|Algebra and analysis]]
 **Answer:** C in D,B; D in A
-[[Quesiti/src_kangourou_2004_benjamin_finale#qb3|src_kangourou_2004_benjamin_finale__QB3]]
 
 
 
-<span class="atom-split" id="qb4" data-atom="qb4" data-title="Quesito B4" data-tags="topic_geometria_piana,topic_aritmetica,skill_casework_accurato"></span>
+<span class="atom-split" id="qb4" data-atom="qb4" data-title="Quesito B4" data-tags="topic_geometria_piana,topic_aritmetica,method_casework,skill_casework_accurato,skill_ragionamento_geometrico"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
 
 *Lato min/max del quadrato Q piastrellato*
 
-![[src_kangourou_2004_benjamin_finale__probb4.png]]
+![[src_kangourou_2004_benjamin_finale__probB4.png]]
 
 > Un quadrato $Q$ è piastrellato da $34$ quadrati più piccoli, sui quali si sa solo che per $33$ di essi il lato misura $1$ cm. Quali sono il valore minimo e il valore massimo possibili per la lunghezza del lato del quadrato $Q$?
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Abilita:** [[skill_casework_accurato|Casework accurato]]
-**Area:** [[Aritmetica e Teoria dei Numeri]], [[Geometria]]
+**Metodo:** [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Geometria]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** min 7 max 17
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1DTuTa9-8gf07gHbV5tJLp1dknhFcY163/view)
 
@@ -125,18 +130,19 @@ level: kangourou
 
 *The least and greatest possible side lengths of the square Q*
 
-![[src_kangourou_2004_benjamin_finale__probb4.png]]
+![[src_kangourou_2004_benjamin_finale__probB4.png]]
 
 > A square $Q$ is tiled by $34$ smaller squares, of which one knows only that for $33$ of them the side measures $1$ cm. What are the least possible value and the greatest possible value of the side length of the square $Q$?
 
 **Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_aritmetica|Arithmetic / Number theory]]
-**Skill:** [[skill_casework_accurato|Careful case analysis]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]], [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Answer:** min 7 max 17
-[[Quesiti/src_kangourou_2004_benjamin_finale#qb4|src_kangourou_2004_benjamin_finale__QB4]]
 
 
 
-<span class="atom-split" id="qb5" data-atom="qb5" data-title="Quesito B5" data-tags="topic_combinatoria,topic_logica,method_conteggio,skill_conteggio_sistematico"></span>
+<span class="atom-split" id="qb5" data-atom="qb5" data-title="Quesito B5" data-tags="topic_combinatoria,topic_logica,method_conteggio,method_casework,skill_conteggio_sistematico,skill_lettura_attenta"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -150,8 +156,8 @@ level: kangourou
 > Quante sono le coppie regolari (se non tengo conto dell'ordine in cui scrivo i due numeri)?
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_logica|Logica, giochi, strategie]]
-**Metodo:** [[method_conteggio|Conteggio combinatorio]]
-**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Metodo:** [[method_conteggio|Conteggio combinatorio]], [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta del testo]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 9
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1DTuTa9-8gf07gHbV5tJLp1dknhFcY163/view)
@@ -169,14 +175,14 @@ level: kangourou
 > How many regular pairs are there (if I do not take into account the order in which I write the two numbers)?
 
 **Topic:** [[topic_combinatoria|Combinatorics]], [[topic_logica|Logic, games, strategies]]
-**Method:** [[method_conteggio|Combinatorial counting]]
-**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+**Metodo:** [[method_conteggio|Combinatorial counting]], [[method_casework|Case analysis]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]], [[skill_lettura_attenta|Careful reading of the text]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** 9
-[[Quesiti/src_kangourou_2004_benjamin_finale#qb5|src_kangourou_2004_benjamin_finale__QB5]]
 
 
 
-<span class="atom-split" id="qb6" data-atom="qb6" data-title="Quesito B6" data-tags="topic_aritmetica,topic_algebra,skill_modellizzazione"></span>
+<span class="atom-split" id="qb6" data-atom="qb6" data-title="Quesito B6" data-tags="topic_aritmetica,topic_algebra,method_congruenze,method_casework,skill_modellizzazione,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -186,8 +192,9 @@ level: kangourou
 > Ho $8{,}22$ euro con cui voglio comprare due dolcetti per ciascuno dei miei $9$ amici: possono essere ghiaccioli o cioccolate, ma tutti i miei amici preferiscono avere un ghiacciolo e una cioccolata e io intendo accontentare il maggior numero possibile di loro. Le cioccolate hanno tutte lo stesso prezzo come pure i ghiaccioli e ogni cioccolata costa $6$ centesimi più di un ghiacciolo. Quanto deve costare come minimo un ghiacciolo, se spendo esattamente la cifra disponibile?
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
-**Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
-**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
+**Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]], [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 **Risposta:** 43
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1DTuTa9-8gf07gHbV5tJLp1dknhFcY163/view)
 
@@ -200,6 +207,7 @@ level: kangourou
 > I have $8{,}22$ euros with which I want to buy two sweets for each of my $9$ friends: they may be ice lollies or chocolate bars, but all my friends prefer to have an ice lolly and a chocolate bar, and I mean to please as many of them as possible. The chocolate bars all have the same price, as do the ice lollies, and each chocolate bar costs $6$ cents more than an ice lolly. What is the least an ice lolly must cost, if I spend exactly the money available?
 
 **Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_algebra|Algebra]]
-**Skill:** [[skill_modellizzazione|Modelling / translating the text]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]], [[method_casework|Case analysis]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Algebra e Analisi|Algebra and analysis]]
 **Answer:** 43
-[[Quesiti/src_kangourou_2004_benjamin_finale#qb6|src_kangourou_2004_benjamin_finale__QB6]]

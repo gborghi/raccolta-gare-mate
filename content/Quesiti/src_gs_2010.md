@@ -10,7 +10,7 @@ level: squadre
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_algebra,skill_modellizzazione"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_algebra,skill_modellizzazione,skill_lettura_attenta"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -28,7 +28,7 @@ level: squadre
 > in in hm.
 
 **Topic:** [[topic_algebra|Algebra]]
-**Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_lettura_attenta|Lettura attenta del testo]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1F5hYElKJVvVL5UBvovBuFza8mlgxYsxe/view)
 
@@ -41,15 +41,14 @@ level: squadre
 > The stroll
 > (points 20) Frank takes the dog for a walk along the eastern wall of the prison—a perfectly straight wall 9 km long. They set off from the prison gate, right at the beginning of the eastern wall, side by side, and start a game: Frank throws the ball, the dog brings it back, Frank immediately retrieves it, and just as instantly the dog sets off again after the ball. Throughout the game, Frank walks at 6 km/h and the dog at 12 km/h. When they reach the end of the wall, they turn back, continuing the game all the way to the gate. What is the maximum distance Frank can get the dog to cover by throwing the ball appropriately? Give the answer in hectometres.
 
+
 **Topic:** [[topic_algebra|Algebra]]
-**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]], [[skill_lettura_attenta|Careful reading of the text]]
 **Area:** [[Algebra e Analisi|Algebra and analysis]]
 
-[[Quesiti/src_gs_2010#q01|src_gs_2010__Q01]]
 
 
-
-<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_aritmetica,method_conteggio,skill_lettura_attenta"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_aritmetica,method_conteggio,skill_lettura_attenta,skill_modellizzazione"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -67,7 +66,7 @@ level: squadre
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_conteggio|Conteggio combinatorio]]
-**Abilita:** [[skill_lettura_attenta|Lettura attenta del testo]]
+**Abilita:** [[skill_lettura_attenta|Lettura attenta del testo]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1F5hYElKJVvVL5UBvovBuFza8mlgxYsxe/view)
 
@@ -80,16 +79,15 @@ level: squadre
 > The tail
 > (Point 20) The machine that prints waiting tickets in the municipal offices in Chicago produces numbered tickets from 1 to 99; the number is preceded by a letter of the alphabet, and the letter changes in alphabetical order every 99 prints. To speed things up, it is decided that, for each number called, as many people as the value indicated on their ticket may accompany the person to the counters. For example, the person with ticket D7 brings along D8, D9, D10... up to D14. Jake has collected ticket Q3, and the person with ticket L75 has just been called. How many people, including Jake, will go to the counter together with Jake?
 
+
 **Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
 **Metodo:** [[method_conteggio|Combinatorial counting]]
-**Abilita:** [[skill_lettura_attenta|Careful reading]]
+**Abilita:** [[skill_lettura_attenta|Careful reading]], [[skill_modellizzazione|Modelling / translating the text]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
-[[Quesiti/src_gs_2010#q02|src_gs_2010__Q02]]
 
 
-
-<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_logica,method_casework"></span>
+<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_logica,method_casework,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -117,6 +115,7 @@ level: squadre
 
 **Topic:** [[topic_logica|Logica, giochi, strategie]]
 **Metodo:** [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1F5hYElKJVvVL5UBvovBuFza8mlgxYsxe/view)
 
@@ -129,15 +128,15 @@ level: squadre
 > The running race, I
 > (points 20) Alan, Bob, Claire, and Duncan are having a race. Afterwards, they are interviewed, and each says their piece: Alan: <<Bob is not near Duncan (in finishing position).>> Bob: <<Alan is not last.>> Claire: <<I am not right after Bob (in finishing position).>> Duncan: <<Neither I nor Bob have won.>> However, exactly one of them is a liar. Elwood knows who is lying and, while listening to these statements, thinks: <<I know the finishing order of the players with absolute certainty.>> State who the liar is and, following that, the order of the players on the podium, using 1 to indicate Alan, 2 to indicate Bob, 3 to indicate Claire, and 4 to indicate Duncan.
 
+
 **Topic:** [[topic_logica|Logic, games and strategies]]
 **Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
 **Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
-[[Quesiti/src_gs_2010#q03|src_gs_2010__Q03]]
 
 
-
-<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_algebra,skill_modellizzazione"></span>
+<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_algebra,skill_modellizzazione,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -157,7 +156,7 @@ level: squadre
 > Gara a squadre – Testi dei problemi – Pag. 1 di 6
 
 **Topic:** [[topic_algebra|Algebra]]
-**Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1F5hYElKJVvVL5UBvovBuFza8mlgxYsxe/view)
 
@@ -171,15 +170,14 @@ level: squadre
 > (points 20) Murph explains to the three Magic Tones how the money due to them for their performance will be divided, as provided for in the regulations of the Musicians' Union. Murph explains: "Half of the money will be divided among you equally, and the other half will be allocated to you in proportion to your ages in years." Knowing that, all things considered, the oldest musician will receive 40 dollars and that his age is the sum of the ages of the other two, what is the total amount to be split, in hundredths of a dollar?
 > Team Competition – Problem Statements – Page 1 of 6
 
+
 **Topic:** [[topic_algebra|Algebra]]
-**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
 **Area:** [[Algebra e Analisi|Algebra and analysis]]
 
-[[Quesiti/src_gs_2010#q04|src_gs_2010__Q04]]
 
 
-
-<span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_aritmetica,method_fattorizzazione"></span>
+<span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_aritmetica,method_fattorizzazione,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -198,6 +196,7 @@ level: squadre
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1F5hYElKJVvVL5UBvovBuFza8mlgxYsxe/view)
 
@@ -210,15 +209,15 @@ level: squadre
 > The votes
 > (30 points) Very satisfied with the results of her 11 pupils, the Mother Superior, director of the Institute of St. Helen of the Blessed Shroud, assigns each of them a different number between 7 and 17 and puts them to the test with a problem: she writes the number 360360 on the blackboard. Then she explains: "This is the product of the numbers corresponding to the pupils who got 10; all the others got 8." What is the sum of the numbers assigned to the pupils who did not get 10?
 
+
 **Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
 **Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
-[[Quesiti/src_gs_2010#q05|src_gs_2010__Q05]]
 
 
-
-<span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_geometria_piana,skill_ragionamento_geometrico"></span>
+<span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_geometria_piana,method_simmetria,skill_ragionamento_geometrico"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -234,6 +233,7 @@ level: squadre
 > quanti sono i metri quadrati dell’area del terreno incolto?
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_simmetria|Sfruttamento della simmetria]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1F5hYElKJVvVL5UBvovBuFza8mlgxYsxe/view)
@@ -247,15 +247,15 @@ level: squadre
 > The lake in the park
 > (30 points) A park contains a square-shaped lake, each bank of which forms the base of an equilateral-triangle-shaped flower bed. The four vertices of the flower beds that are not on the lake are joined in pairs by straight fences. The land between the flower beds and the fences is left uncultivated. The area of the lake is 9747 square metres; how many square metres is the area of the uncultivated land?
 
+
 **Topic:** [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_simmetria|Using symmetry]]
 **Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
 **Area:** [[Geometria|Geometry]]
 
-[[Quesiti/src_gs_2010#q06|src_gs_2010__Q06]]
 
 
-
-<span class="atom-split" id="q07" data-atom="q07" data-title="Quesito 7" data-tags="topic_combinatoria,method_conteggio"></span>
+<span class="atom-split" id="q07" data-atom="q07" data-title="Quesito 7" data-tags="topic_combinatoria,method_conteggio,method_casi_conteggio,skill_riconoscimento_pattern,skill_conteggio_sistematico"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -277,7 +277,8 @@ level: squadre
 > vincitore alla fine?
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
-**Metodo:** [[method_conteggio|Conteggio combinatorio]]
+**Metodo:** [[method_conteggio|Conteggio combinatorio]], [[method_casi_conteggio|Conteggio per casi]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1F5hYElKJVvVL5UBvovBuFza8mlgxYsxe/view)
 
@@ -290,15 +291,15 @@ level: squadre
 > A Gamble, I
 > (30 points) Jake and Sline play a gambling game: they split a deck of 4020 Pokwer cards between themselves, each card bearing either a red suit or a black suit. Each places their deck of 2010 cards face down on the table, and they begin to play. Together they reveal one card: if the suits of the two cards are different colors, Sline pays Jake one dollar; if both cards have red suits, nothing happens; if both cards have black suits, Jake pays Sline 2 dollars. By a fortunate coincidence in the shuffling, Jake's cards form a sequence of one red-suit card followed by one black-suit card (that is, red, black, red, black, red...), while Sline's cards form a sequence of one black-suit card followed by two red-suit cards (that is, black, red, red, black, red, red, black...). Knowing that they start the game with 2010 dollars each, how many dollars does the winner have at the end?
 
+
 **Topic:** [[topic_combinatoria|Combinatorics]]
-**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Metodo:** [[method_conteggio|Combinatorial counting]], [[method_casi_conteggio|Counting by cases]]
+**Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]], [[skill_conteggio_sistematico|Systematic counting]]
 **Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
-[[Quesiti/src_gs_2010#q07|src_gs_2010__Q07]]
 
 
-
-<span class="atom-split" id="q08" data-atom="q08" data-title="Quesito 8" data-tags="topic_aritmetica,method_congruenze"></span>
+<span class="atom-split" id="q08" data-atom="q08" data-title="Quesito 8" data-tags="topic_aritmetica,method_congruenze,skill_riconoscimento_pattern,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -318,6 +319,7 @@ level: squadre
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1F5hYElKJVvVL5UBvovBuFza8mlgxYsxe/view)
 
@@ -330,15 +332,15 @@ level: squadre
 > Chickpea soup
 > (30 points) Slim is very superstitious when preparing chickpea soup. He buys the chickpeas and then divides them between two dishes so that there are exactly the same number in each. He gives the leftovers (and only the leftovers) to his parrot Fuzz. Then he evenly divides all the chickpeas he has kept among six dishes, and, as before, Fuzz eats the leftovers. At this point, he repeats the same procedure with thirty dishes, then with 210 dishes, and then with 2310 dishes. Given that today he wants to buy enough so that the parrot can eat as many as possible but without spending more than necessary, how many chickpeas must he buy?
 
+
 **Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
 **Metodo:** [[method_congruenze|Modular arithmetic / congruences]]
+**Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
-[[Quesiti/src_gs_2010#q08|src_gs_2010__Q08]]
 
 
-
-<span class="atom-split" id="q09" data-atom="q09" data-title="Quesito 9" data-tags="topic_combinatoria,method_ricorsione"></span>
+<span class="atom-split" id="q09" data-atom="q09" data-title="Quesito 9" data-tags="topic_combinatoria,method_ricorsione,method_conteggio,skill_riconoscimento_pattern,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -356,7 +358,8 @@ level: squadre
 > Gara a squadre – Testi dei problemi – Pag. 2 di 6
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
-**Metodo:** [[method_ricorsione|Ricorsione]]
+**Metodo:** [[method_ricorsione|Ricorsione]], [[method_conteggio|Conteggio combinatorio]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1F5hYElKJVvVL5UBvovBuFza8mlgxYsxe/view)
 
@@ -370,15 +373,15 @@ level: squadre
 > (points 40) Jake and Sline had noticed that the two decks had a strange sequence of suit colors when they had played for the first time. They decide to have a rematch using exactly the same sequence, but they will stop only when one of them is left with half the money (obviously, if there aren't enough cards, they put the used ones back in the exact same sequence). As before, each starts with $2010. After how many turns does the game end?
 > Team Competition – Problem Statements – Page 2 of 6
 
+
 **Topic:** [[topic_combinatoria|Combinatorics]]
-**Metodo:** [[method_ricorsione|Recursion]]
+**Metodo:** [[method_ricorsione|Recursion]], [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
 **Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
-[[Quesiti/src_gs_2010#q09|src_gs_2010__Q09]]
 
 
-
-<span class="atom-split" id="q10" data-atom="q10" data-title="Quesito 10" data-tags="topic_logica,method_invarianti"></span>
+<span class="atom-split" id="q10" data-atom="q10" data-title="Quesito 10" data-tags="topic_logica,topic_aritmetica,method_invarianti,method_congruenze,skill_riconoscimento_pattern"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -394,9 +397,10 @@ level: squadre
 > sarà la minima quantità di fagioli superiore a 2010 che Sam dovrà scegliere per
 > assicurarsi la vittoria?
 
-**Topic:** [[topic_logica|Logica, giochi, strategie]]
-**Metodo:** [[method_invarianti|Invarianti / monovarianti]]
-**Area:** [[Combinatoria, Logica e Probabilita]]
+**Topic:** [[topic_logica|Logica, giochi, strategie]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_invarianti|Invarianti / monovarianti]], [[method_congruenze|Aritmetica modulare / congruenze]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1F5hYElKJVvVL5UBvovBuFza8mlgxYsxe/view)
 
 
@@ -408,15 +412,15 @@ level: squadre
 > Beans
 > (40 points) Sam and Dave have a bag containing thousands of beans. The two play a game in which, taking turns, they each take a number of beans between 1 and 8. The person who draws the last bean wins. Sam decides how many beans to put in the bag, and Dave starts drawing; from then on, they draw alternately. What will be the smallest number of beans greater than 2010 that Sam must choose in order to guarantee victory?
 
-**Topic:** [[topic_logica|Logic, games and strategies]]
-**Metodo:** [[method_invarianti|Invariants / monovariants]]
-**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
-[[Quesiti/src_gs_2010#q10|src_gs_2010__Q10]]
+**Topic:** [[topic_logica|Logic, games and strategies]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_invarianti|Invariants / monovariants]], [[method_congruenze|Modular arithmetic / congruences]]
+**Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
 
 
-<span class="atom-split" id="q11" data-atom="q11" data-title="Quesito 11" data-tags="topic_algebra,method_ricorsione"></span>
+<span class="atom-split" id="q11" data-atom="q11" data-title="Quesito 11" data-tags="topic_algebra,method_ricorsione,method_backward,skill_modellizzazione,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -437,7 +441,8 @@ level: squadre
 > Quanti dollari devono pagare?
 
 **Topic:** [[topic_algebra|Algebra]]
-**Metodo:** [[method_ricorsione|Ricorsione]]
+**Metodo:** [[method_ricorsione|Ricorsione]], [[method_backward|Ragionamento all'indietro]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1F5hYElKJVvVL5UBvovBuFza8mlgxYsxe/view)
 
@@ -450,15 +455,15 @@ level: squadre
 > The Jazz Festival
 > (points 40) Matt and Lou jointly organize a party for jazz musicians, renting a venue that costs 8 dollars per person present per hour. All the guests arrive, and after dancing, drinking, and playing music for 5 consecutive hours, one tenth of those present leave the party. When the next hour begins, one ninth of those remaining leave. After another 60 minutes, one eighth of those still there abandon the party, and so on according to this pattern, until half of those still present leave. At this point, only Matt and Lou are left; they stay for another hour eating what's left and settle the bill with the venue. How many dollars do they have to pay?
 
+
 **Topic:** [[topic_algebra|Algebra]]
-**Metodo:** [[method_ricorsione|Recursion]]
+**Metodo:** [[method_ricorsione|Recursion]], [[method_backward|Working backwards]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
 **Area:** [[Algebra e Analisi|Algebra and analysis]]
 
-[[Quesiti/src_gs_2010#q11|src_gs_2010__Q11]]
 
 
-
-<span class="atom-split" id="q12" data-atom="q12" data-title="Quesito 12" data-tags="topic_logica,method_casework"></span>
+<span class="atom-split" id="q12" data-atom="q12" data-title="Quesito 12" data-tags="topic_logica,method_casework,skill_casework_accurato,skill_lettura_attenta"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -481,6 +486,7 @@ level: squadre
 
 **Topic:** [[topic_logica|Logica, giochi, strategie]]
 **Metodo:** [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_lettura_attenta|Lettura attenta del testo]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1F5hYElKJVvVL5UBvovBuFza8mlgxYsxe/view)
 
@@ -493,15 +499,15 @@ level: squadre
 > The books
 > (40 points) Alan, Bob, Claire, and Duncan are classmates. They study three science subjects: Science, Physics, and Geometry, and five humanities subjects: Latin, Greek, Literature, History, and Philosophy. Since the schoolbags are too heavy, they agree that each of them will carry four books from four subjects with different initials, at least one of which is a science subject, and in such a way that in total they will have two books for each subject. It is also known that: • Alan and Duncan have at least two subjects in common; • Bob carries Philosophy and Literature; • Claire has all the science subjects; • Alan and Bob have only Greek in common; Write, in alphabetical order, the subjects that Duncan carries, indicating the subjects, in alphabetical order, with the numbers 1 to 8.
 
+
 **Topic:** [[topic_logica|Logic, games and strategies]]
 **Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]], [[skill_lettura_attenta|Careful reading of the text]]
 **Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
-[[Quesiti/src_gs_2010#q12|src_gs_2010__Q12]]
 
 
-
-<span class="atom-split" id="q13" data-atom="q13" data-title="Quesito 13" data-tags="topic_combinatoria,method_congruenze,method_conteggio"></span>
+<span class="atom-split" id="q13" data-atom="q13" data-title="Quesito 13" data-tags="topic_combinatoria,topic_aritmetica,method_congruenze,method_conteggio,skill_astrazione"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -519,9 +525,10 @@ level: squadre
 > disegnare se segna 2011 vertici sulla circonferenza?
 > Gara a squadre – Testi dei problemi – Pag. 3 di 6
 
-**Topic:** [[topic_combinatoria|Combinatoria]]
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]], [[method_conteggio|Conteggio combinatorio]]
-**Area:** [[Combinatoria, Logica e Probabilita]]
+**Abilita:** [[skill_astrazione|Astrazione / generalizzazione]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1F5hYElKJVvVL5UBvovBuFza8mlgxYsxe/view)
 
 
@@ -534,15 +541,15 @@ level: squadre
 > (50 points) Reverend Cleophus James prepares colored paper stars to decorate Triple Rock Church. To draw a five-pointed star, mark 5 distinct points on a circle and join them with 5 line segments without ever lifting the pen from the paper. In this way, he can draw only one type of star. With 7 vertices, however, he can draw two different types by connecting the vertices while skipping one or two vertices at a time, respectively. How many different types of stars can he draw if he marks 2011 vertices on the circle?
 > Team Competition – Problem Statements – Page 3 of 6
 
-**Topic:** [[topic_combinatoria|Combinatorics]]
+
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_aritmetica|Arithmetic / Number theory]]
 **Metodo:** [[method_congruenze|Modular arithmetic / congruences]], [[method_conteggio|Combinatorial counting]]
-**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
-
-[[Quesiti/src_gs_2010#q13|src_gs_2010__Q13]]
-
+**Abilita:** [[skill_astrazione|Abstraction / generalisation]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
 
-<span class="atom-split" id="q14" data-atom="q14" data-title="Quesito 14" data-tags="topic_aritmetica,method_conteggio,method_fattorizzazione"></span>
+
+<span class="atom-split" id="q14" data-atom="q14" data-title="Quesito 14" data-tags="topic_aritmetica,method_conteggio,method_fattorizzazione,method_casi_conteggio,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -557,7 +564,8 @@ level: squadre
 > distinti come differenza di quadrati perfetti. Che numero ha trovato?
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_conteggio|Conteggio combinatorio]], [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
+**Metodo:** [[method_conteggio|Conteggio combinatorio]], [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]], [[method_casi_conteggio|Conteggio per casi]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1F5hYElKJVvVL5UBvovBuFza8mlgxYsxe/view)
 
@@ -570,15 +578,15 @@ level: squadre
 > Screwed in and pop
 > (50 points) Locked inside the Curl up and Dye beauty salon, Carrie concentrates on mentally calculating long sums. The last sum she calculated was the sum of those positive odd integers less than 100 that can be expressed in at least two different ways as the difference of perfect squares. What number did she find?
 
+
 **Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
-**Metodo:** [[method_conteggio|Combinatorial counting]], [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Metodo:** [[method_conteggio|Combinatorial counting]], [[method_fattorizzazione|Factorisation / algebraic manipulation]], [[method_casi_conteggio|Counting by cases]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
-[[Quesiti/src_gs_2010#q14|src_gs_2010__Q14]]
 
 
-
-<span class="atom-split" id="q15" data-atom="q15" data-title="Quesito 15" data-tags="topic_geometria_piana"></span>
+<span class="atom-split" id="q15" data-atom="q15" data-title="Quesito 15" data-tags="topic_geometria_piana,topic_trigonometria,method_trigonometria,skill_stima"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -597,7 +605,9 @@ level: squadre
 > 1
 > 22010 m?
 
-**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometria]]
+**Metodo:** [[method_trigonometria|Tecniche trigonometriche]]
+**Abilita:** [[skill_stima|Stima e approssimazione]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1F5hYElKJVvVL5UBvovBuFza8mlgxYsxe/view)
 
@@ -610,14 +620,15 @@ level: squadre
 > Inscribed polygons
 > (50 points) In a circle of radius 1 m, the diameter is drawn as the first step. As the second step, the midpoints of each of the two arcs thus formed are marked, and the endpoints of the diameter and the two midpoints are joined to obtain a square. The process continues by bisecting each arc formed in the previous step and by joining the points marked on the circumference to obtain a regular polygon. How many steps must be taken at least for the side of the resulting polygon to be shorter than 1/22010 m?
 
-**Topic:** [[topic_geometria_piana|Plane geometry]]
+
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_trigonometria|Trigonometry]]
+**Metodo:** [[method_trigonometria|Trigonometric techniques]]
+**Abilita:** [[skill_stima|Estimation and approximation]]
 **Area:** [[Geometria|Geometry]]
 
-[[Quesiti/src_gs_2010#q15|src_gs_2010__Q15]]
 
 
-
-<span class="atom-split" id="q16" data-atom="q16" data-title="Quesito 16" data-tags="topic_probabilita,method_conteggio,skill_stima"></span>
+<span class="atom-split" id="q16" data-atom="q16" data-title="Quesito 16" data-tags="topic_probabilita,topic_combinatoria,method_conteggio,skill_stima,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -633,9 +644,9 @@ level: squadre
 > ciascuna estrazione che intende fare. Quanti dollari deve pagare Jake per avere
 > una probabilità superiore al 50% di vincere?
 
-**Topic:** [[topic_probabilita|Probabilita e statistica]]
+**Topic:** [[topic_probabilita|Probabilita e statistica]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_conteggio|Conteggio combinatorio]]
-**Abilita:** [[skill_stima|Stima e approssimazione]]
+**Abilita:** [[skill_stima|Stima e approssimazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1F5hYElKJVvVL5UBvovBuFza8mlgxYsxe/view)
 
@@ -648,16 +659,15 @@ level: squadre
 > A marble game
 > (50 points) A gambling game is played with a bag containing 2010 marbles—2 red and all the rest black. You win if, by drawing marbles one after another as many times as you like, you draw all the red marbles (it doesn't matter how many black ones you draw). Before starting the sequence of draws, a player must pay $1 for each draw they intend to make. How many dollars must Jake pay to have a probability of winning greater than 50%?
 
-**Topic:** [[topic_probabilita|Probability and statistics]]
+
+**Topic:** [[topic_probabilita|Probability and statistics]], [[topic_combinatoria|Combinatorics]]
 **Metodo:** [[method_conteggio|Combinatorial counting]]
-**Abilita:** [[skill_stima|Estimation and approximation]]
+**Abilita:** [[skill_stima|Estimation and approximation]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
 **Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
-[[Quesiti/src_gs_2010#q16|src_gs_2010__Q16]]
 
 
-
-<span class="atom-split" id="q17" data-atom="q17" data-title="Quesito 17" data-tags="topic_aritmetica,method_congruenze"></span>
+<span class="atom-split" id="q17" data-atom="q17" data-title="Quesito 17" data-tags="topic_aritmetica,method_congruenze,method_casework,method_fattorizzazione,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -683,7 +693,8 @@ level: squadre
 > Gara a squadre – Testi dei problemi – Pag. 4 di 6
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]]
+**Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]], [[method_casework|Analisi per casi]], [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
+**Abilita:** [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1F5hYElKJVvVL5UBvovBuFza8mlgxYsxe/view)
 
@@ -697,15 +708,15 @@ level: squadre
 > (50 points) The combination for the Cook County safe consists of five digits. Steven remembers that: • The first digit is 1; • All numbers formed by considering each pair of adjacent digits, taken in the same order in which they appear in the combination, are divisible by 2; • All numbers formed by considering each triplet of adjacent digits, taken in the same order in which they appear in the combination, are divisible by 3; • All numbers formed by considering each group of four adjacent digits, taken in the same order in which they appear in the combination, are divisible by 42; • When read as a five-digit number, the combination is divisible by 5. Write the last four digits of the combination in order.
 > Team Competition – Problem Statements – Page 4 of 6
 
+
 **Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
-**Metodo:** [[method_congruenze|Modular arithmetic / congruences]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]], [[method_casework|Case analysis]], [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
-[[Quesiti/src_gs_2010#q17|src_gs_2010__Q17]]
 
 
-
-<span class="atom-split" id="q18" data-atom="q18" data-title="Quesito 18" data-tags="topic_logica,method_casework"></span>
+<span class="atom-split" id="q18" data-atom="q18" data-title="Quesito 18" data-tags="topic_logica,method_casework,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -720,6 +731,7 @@ level: squadre
 
 **Topic:** [[topic_logica|Logica, giochi, strategie]]
 **Metodo:** [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/1F5hYElKJVvVL5UBvovBuFza8mlgxYsxe/view)
 
@@ -732,15 +744,15 @@ level: squadre
 > The Running Race, II
 > (50 points) Perhaps Elwood was wrong about who the liar was in the race among Alan, Bob, Claire, and Duncan. Knowing only that exactly one of the four is a liar but that the winner does not lie, to say:
 
+
 **Topic:** [[topic_logica|Logic, games and strategies]]
 **Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
 **Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
-[[Quesiti/src_gs_2010#q18|src_gs_2010__Q18]]
 
 
-
-<span class="atom-split" id="q19" data-atom="q19" data-title="Quesito 19" data-tags="topic_geometria_solida,skill_manipolazione_algebrica"></span>
+<span class="atom-split" id="q19" data-atom="q19" data-title="Quesito 19" data-tags="topic_geometria_solida,topic_algebra,method_fattorizzazione,skill_manipolazione_algebrica,skill_ragionamento_geometrico"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -749,9 +761,10 @@ level: squadre
 
 > 19. Il mausoleo (punti 50) Il comandante del gruppo degli Illinois Nazis si è fatto costruire un mausoleo, costruito con blocchi di pietra cubici, di lato 1 m. Formato da 10 gradoni, sembra una ziqqurat: ogni gradone è un parallelepipedo a base quadrata, e tutti i gradoni sono poggiati uno sull’altro. La cima del mausoleo è un gradone di lato 2 m e altezza 2520 m. Ma la principale peculiarità del mausoleo consiste nel fatto che ogni gradone ha il lato del quadrato di base inferiore di 2 metri esatti di quello sottostante e le superfici laterali di ogni gradone sono sempre uguali. Quanti metri è alto il mausoleo?
 
-**Topic:** [[topic_geometria_solida|Geometria solida]]
-**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
-**Area:** [[Geometria]]
+**Topic:** [[topic_geometria_solida|Geometria solida]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Geometria]], [[Algebra e Analisi]]
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/1F5hYElKJVvVL5UBvovBuFza8mlgxYsxe/view)
 
 
@@ -762,11 +775,11 @@ level: squadre
 
 > 19. The Mausoleum (points 50) The commander of the Illinois Nazis group had a mausoleum built for himself; it was constructed from cubic stone blocks with sides 1 m long. Consisting of 10 terraces, it looks like a ziggurat: each terrace is a rectangular parallelepiped with a square base, and all the terraces are stacked on top of one another. The top of the mausoleum is a terrace 2 m on a side and 2520 m high. But the mausoleum's main peculiarity is that, for each terrace, the side length of its square base is exactly 2 meters less than that of the base of the terrace below it, and the lateral surfaces of each terrace are always the same. How many meters high is the mausoleum?
 
-**Topic:** [[topic_geometria_solida|Solid geometry]]
-**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
-**Area:** [[Geometria|Geometry]]
 
-[[Quesiti/src_gs_2010#q19|src_gs_2010__Q19]]
+**Topic:** [[topic_geometria_solida|Solid geometry]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]], [[Algebra e Analisi|Algebra and analysis]]
 
 
 
@@ -798,11 +811,9 @@ level: squadre
 **Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
-[[Quesiti/src_gs_2010#q20|src_gs_2010__Q20]]
 
 
-
-<span class="atom-split" id="q21" data-atom="q21" data-title="Quesito 21" data-tags="topic_combinatoria,method_conteggio"></span>
+<span class="atom-split" id="q21" data-atom="q21" data-title="Quesito 21" data-tags="topic_combinatoria,method_conteggio,method_casi_conteggio,skill_conteggio_sistematico,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -812,7 +823,8 @@ level: squadre
 > 21. I drappelli (punti 60) Per rintracciare i Blues Brothers, il comandante degli Illinois Nazis vuole for- mare 3 drappelli da un gruppo di 9 volontari. Conoscendo la loro incapacità innata, il comandante designa 3 capitani di drappello tra i 9 volontari: Al, Bruno e Cal. Inoltre, vuole che, in ciascun drappello, ci sia almeno un altro componente, oltre al capitano. Quante terne di drappelli diverse può formare il comandante? Gara a squadre – Testi dei problemi – Pag. 5 di 6
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
-**Metodo:** [[method_conteggio|Conteggio combinatorio]]
+**Metodo:** [[method_conteggio|Conteggio combinatorio]], [[method_casi_conteggio|Conteggio per casi]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/1F5hYElKJVvVL5UBvovBuFza8mlgxYsxe/view)
 
@@ -824,15 +836,15 @@ level: squadre
 
 > 21. Parties (points 60) To track down the Blues Brothers, the commander of the Illinois Nazis wants to form 3 parties from a group of 9 volunteers. Knowing their innate incompetence, the commander appoints 3 party leaders from among the 9 volunteers: Al, Bruno, and Cal. Furthermore, the commander wants each party to have at least one other member in addition to the leader. How many different sets of three parties can the commander form? Team competition – Problem statements – Page 5 of 6
 
+
 **Topic:** [[topic_combinatoria|Combinatorics]]
-**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Metodo:** [[method_conteggio|Combinatorial counting]], [[method_casi_conteggio|Counting by cases]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]], [[skill_casework_accurato|Careful case analysis]]
 **Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
-[[Quesiti/src_gs_2010#q21|src_gs_2010__Q21]]
 
 
-
-<span class="atom-split" id="q22" data-atom="q22" data-title="Quesito 22" data-tags="topic_funzionali,method_ricorsione"></span>
+<span class="atom-split" id="q22" data-atom="q22" data-title="Quesito 22" data-tags="topic_funzionali,method_ricorsione,method_induzione,skill_riconoscimento_pattern,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -842,7 +854,8 @@ level: squadre
 > 22. Le regole del motel, I (punti 60) All’ingresso del motel, Twiggy ha trovato le regole seguenti 0⋆ 0 = 1 0 ⋆ (m + 1) = 0 ( n + 1)⋆ 0 = (n + 1)× (n⋆ 0) ((n + 1)⋆ (m + 1)) = (n + 1)× [((n + 1)⋆m ) + (n⋆ (m + 1))]. Capisce che permettono di calcolare il valore della scrittura n⋆m per ogni coppia di numeri interi positivi o nulli: Aspettando Elwood, Twiggy calcola quanto vale 5⋆ 5 1000. Che numero trova?
 
 **Topic:** [[topic_funzionali|Equazioni funzionali / successioni]]
-**Metodo:** [[method_ricorsione|Ricorsione]]
+**Metodo:** [[method_ricorsione|Ricorsione]], [[method_induzione|Induzione]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/1F5hYElKJVvVL5UBvovBuFza8mlgxYsxe/view)
 
@@ -854,15 +867,15 @@ level: squadre
 
 > 22. The Motel Rules, I (points 60) At the motel entrance, Twiggy found the following rules: 0⋆0 = 1, 0⋆(m + 1) = 0, (n + 1)⋆0 = (n + 1)×(n⋆0), ((n + 1)⋆(m + 1)) = (n + 1)×[((n + 1)⋆m) + (n⋆(m + 1))]. Twiggy understands that these rules make it possible to calculate the value of the expression n⋆m for every pair of non-negative integers: While waiting for Elwood, Twiggy calculates what 5⋆5 1000 equals. What number does Twiggy find?
 
+
 **Topic:** [[topic_funzionali|Functional equations / sequences]]
-**Metodo:** [[method_ricorsione|Recursion]]
+**Metodo:** [[method_ricorsione|Recursion]], [[method_induzione|Induction]]
+**Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
 **Area:** [[Algebra e Analisi|Algebra and analysis]]
 
-[[Quesiti/src_gs_2010#q22|src_gs_2010__Q22]]
 
 
-
-<span class="atom-split" id="q23" data-atom="q23" data-title="Quesito 23" data-tags="topic_probabilita,method_conteggio"></span>
+<span class="atom-split" id="q23" data-atom="q23" data-title="Quesito 23" data-tags="topic_probabilita,topic_combinatoria,method_conteggio,method_simmetria,skill_modellizzazione,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -871,8 +884,9 @@ level: squadre
 
 > 23. Un altro gioco di biglie (punti 70) Un altro gioco d’azzardo si gioca sempre con un sacchetto contenente 2010 biglie, 7 rosse e tutte le altre nere. Le regole prevedono di estrarre le biglie una alla volta fino a che non siano uscite tutte le rosse: a quel punto il gioco è finito. Elwood si chiede mediamente quante estrazioni duri il gioco. Jake non capisce esattamente cosa intenda suo fratello, ma Ray, che la sa lunga, gli spiega che tra i tanti modi di definire il numero medio di estrazioni del gioco (tutti che portano allo stesso risultato) quello più interessante è la somma delle probabilità pk dove, per ogni numero naturale 0 ≤k ≤2010, pk è la probabilità che, dopo la k-esima estrazione, non siano uscite tutte le 7 biglie rosse. Qual è il numero medio di estrazioni?
 
-**Topic:** [[topic_probabilita|Probabilita e statistica]]
-**Metodo:** [[method_conteggio|Conteggio combinatorio]]
+**Topic:** [[topic_probabilita|Probabilita e statistica]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_conteggio|Conteggio combinatorio]], [[method_simmetria|Sfruttamento della simmetria]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF p.7](https://drive.google.com/file/d/1F5hYElKJVvVL5UBvovBuFza8mlgxYsxe/view)
 
@@ -884,15 +898,15 @@ level: squadre
 
 > 23. Another Marbles Game (70 points) Another gambling game is always played with a bag containing 2010 marbles—7 red and all the rest black. The rules require drawing the marbles one at a time until all the red ones have been drawn; at that point, the game is over. Elwood wonders, on average, how many draws the game will last. Jake doesn't quite understand what his brother means, but Ray, who knows a thing or two, explains to him that among the many ways of defining the average number of draws in the game (all of which lead to the same result), the most interesting one is the sum of the probabilities pk, where, for every natural number 0 ≤ k ≤ 2010, pk is the probability that, after the k-th draw, not all 7 red marbles have been drawn. What is the average number of draws?
 
-**Topic:** [[topic_probabilita|Probability and statistics]]
-**Metodo:** [[method_conteggio|Combinatorial counting]]
+
+**Topic:** [[topic_probabilita|Probability and statistics]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_conteggio|Combinatorial counting]], [[method_simmetria|Using symmetry]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
 **Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
-[[Quesiti/src_gs_2010#q23|src_gs_2010__Q23]]
 
 
-
-<span class="atom-split" id="q24" data-atom="q24" data-title="Quesito 24" data-tags="topic_funzionali,method_congruenze,method_ricorsione"></span>
+<span class="atom-split" id="q24" data-atom="q24" data-title="Quesito 24" data-tags="topic_funzionali,topic_aritmetica,method_congruenze,method_ricorsione,skill_riconoscimento_pattern,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -901,9 +915,10 @@ level: squadre
 
 > 24. Le regole del motel, II (punti 70) Elwood non arriva. Per passare il tempo, Twiggy cerca il più piccolo numero n tale che 3 ⋆n sia multiplo di 73. Qual è il numero n? Gara a squadre – Testi dei problemi – Pag. 6 di 6
 
-**Topic:** [[topic_funzionali|Equazioni funzionali / successioni]]
+**Topic:** [[topic_funzionali|Equazioni funzionali / successioni]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]], [[method_ricorsione|Ricorsione]]
-**Area:** [[Algebra e Analisi]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF p.7](https://drive.google.com/file/d/1F5hYElKJVvVL5UBvovBuFza8mlgxYsxe/view)
 
 
@@ -914,8 +929,8 @@ level: squadre
 
 > 24. Motel Rules, II (points 70) Elwood doesn't arrive. To pass the time, Twiggy looks for the smallest number n such that 3 ⋆ n is a multiple of 73. What is the number n? Team Competition – Problem Statements – Page 6 of 6
 
-**Topic:** [[topic_funzionali|Functional equations / sequences]]
-**Metodo:** [[method_congruenze|Modular arithmetic / congruences]], [[method_ricorsione|Recursion]]
-**Area:** [[Algebra e Analisi|Algebra and analysis]]
 
-[[Quesiti/src_gs_2010#q24|src_gs_2010__Q24]]
+**Topic:** [[topic_funzionali|Functional equations / sequences]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]], [[method_ricorsione|Recursion]]
+**Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]

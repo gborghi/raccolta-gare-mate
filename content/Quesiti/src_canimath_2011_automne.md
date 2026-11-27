@@ -12,9 +12,6 @@ level: Coupe Animath Automne
 
 <span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_geometria_piana,skill_ragionamento_geometrico"></span>
 
-<div class="qlang-switch" data-default="en"></div>
-
-
 *Isosceles triangle, point on minor arc, circumcircle of BDE gives parallel lines*
 
 > Let $ABC$ be an isosceles triangle in which $AB = AC$. On the circumscribed circle of this triangle, take a point $D$ belonging to the smaller arc joining $A$ to $B$; finally take a point $E$ belonging to the line $(AD)$, outside the segment $[AD]$, and such that the points $A$ and $E$ lie in the same half-plane bounded by the line $(BC)$. The circumscribed circle of triangle $BDE$ meets the line $(AB)$ again at $F$; show that the lines $(EF)$ and $(BC)$ are parallel.
@@ -25,21 +22,32 @@ level: Coupe Animath Automne
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1RNbKxAOZfG-sQiSBuoqFicWeAHpoWhNB/view)
 
 
-<div class="qlang-split" data-lang="it"></div>
 
+<span class="atom-split" id="q01__it" data-atom="q01__it" data-title="Q01__IT" data-tags=""></span>
+
+---
+tipo: quesito-translation
+translation_of: src_canimath_2011_automne__Q01
+lang: it
+secondary: true
+title: "Coupe Animath Automne 2011  Quesito 1"
+summary: "Triangolo isosceles, punto su arco minore, circoncircolo di BDE dà linee parallele"
+topics: [topic_geometria_piana]
+skills: [skill_ragionamento_geometrico]
+tags: [kg/translation, topic/geometria_piana]---
 
 *Triangolo isosceles, punto su arco minore, circoncircolo di BDE dà linee parallele*
 
 > $ABC$ sia un triangolo di uguali dimensioni in cui $AB = AC$. Sul cerchio circonscritto di questo triangolo, prendere un punto $D$ appartenente all'arco più piccolo che unisce $A$ a $B$; infine prendere un punto $E$ appartenente alla linea $(AD)$, al di fuori del segmento $[AD]$, e tale che i punti $A$ e $E$ si trovino nello stesso semiplano delimitato dalla linea $(BC)$. Il cerchio circonscritto del triangolo $BDE$ incontra di nuovo la linea $(AB)$ a $F$; mostra che le linee $(EF)$ e $(BC)$ sono parallele.
 
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Geometria]]
 [[Quesiti/src_canimath_2011_automne#q01|src_canimath_2011_automne__Q01]]
 
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_algebra,method_fattorizzazione,skill_manipolazione_algebrica"></span>
-
-<div class="qlang-switch" data-default="en"></div>
-
 
 *Quadratic f with f(t)=f(f(f(t)))=0, show f(0)×f(1)=0*
 
@@ -52,18 +60,34 @@ level: Coupe Animath Automne
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1RNbKxAOZfG-sQiSBuoqFicWeAHpoWhNB/view)
 
 
-<div class="qlang-split" data-lang="it"></div>
 
+<span class="atom-split" id="q02__it" data-atom="q02__it" data-title="Q02__IT" data-tags=""></span>
+
+---
+tipo: quesito-translation
+translation_of: src_canimath_2011_automne__Q02
+lang: it
+secondary: true
+title: "Coupe Animath Automne 2011  Quesito 2"
+summary: "Quadratica f con f(t) = f(f(f(t)))=0, mostrare f(0)*f(1)=0"
+topics: [topic_algebra]
+methods: [method_fattorizzazione]
+skills: [skill_manipolazione_algebrica]
+tags: [kg/translation, topic/algebra]---
 
 *Quadratico f con f(t)=f(f(f(t)))=0, mostrare f(0) ×f(1)=0*
 
 > $a$, $b$ siano due numeri reali e $f$ la funzione da $\mathbb{R}$ a $\mathbb{R}$ che a $x$ associa $x^2 + ax + b$. Supponiamo che esista un numero reale $t$ tale che $f(t) = f(f(f(t))) = 0$. Mostra che $f(0) \times f(1) = 0$.
 
+**Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Algebra e Analisi]]
 [[Quesiti/src_canimath_2011_automne#q02|src_canimath_2011_automne__Q02]]
 
 
 
-<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_logica,topic_aritmetica,method_casework,skill_lettura_attenta,skill_casework_accurato"></span>
+<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_logica,topic_aritmetica,method_casework,skill_lettura_attenta,skill_casework_accurato,skill_modellizzazione"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -75,8 +99,8 @@ level: Coupe Animath Automne
 
 **Topic:** [[topic_logica|Logica]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_casework|Casework]]
-**Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_casework_accurato|Casework accurato]]
-**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
+**Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_casework_accurato|Casework accurato]], [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1RNbKxAOZfG-sQiSBuoqFicWeAHpoWhNB/view)
 
 
@@ -87,11 +111,14 @@ level: Coupe Animath Automne
 
 > Dodici candidati al sindaco partecipano a un dibattito televisivo. Dopo un po' uno di loro dichiara: "Finora abbiamo mentito una volta". Un secondo dice: "Ora, questo fa due volte". Un terzo poi esclama "Tre volte, ora", e così via fino al dodicesimo, che afferma che prima di lui ci sono state dodici menzogne. Il presentatore interrompe poi la discussione. Sapendo che almeno uno dei candidati ha annunciato correttamente quante volte ha mentito prima del suo turno di parlare, determinare quante persone hanno mentito in totale.
 
-[[Quesiti/src_canimath_2011_automne#q03|src_canimath_2011_automne__Q03]]
+**Topic:** [[topic_logica|Logica, giochi, strategie]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_lettura_attenta|Lettura attenta del testo]], [[skill_casework_accurato|Casework accurato]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 
 
 
-<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_funzionali,skill_manipolazione_algebrica"></span>
+<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_funzionali,method_simmetria,skill_manipolazione_algebrica,skill_riconoscimento_pattern"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -100,9 +127,10 @@ level: Coupe Animath Automne
 
 > Find all functions $f : \mathbb{R}^* \to \mathbb{R}^*$ that satisfy $x f\left(\frac{x}{2}\right) - f\left(\frac{2}{x}\right) = 1$ for every nonzero real number $x$.
 
-**Topic:** [[topic_funzionali|Equazioni funzionali]]
-**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
-**Area:** [[Algebra e Analisi]]
+**Topic:** [[topic_funzionali|Functional equations / sequences]]
+**Metodo:** [[method_simmetria|Using symmetry]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1RNbKxAOZfG-sQiSBuoqFicWeAHpoWhNB/view)
 
 
@@ -113,11 +141,14 @@ level: Coupe Animath Automne
 
 > Trova tutte le funzioni $f : \mathbb{R}^* \to \mathbb{R}^*$ che soddisfano $x f\left(\frac{x}{2}\right) - f\left(\frac{2}{x}\right) = 1$ per ogni numero reale non zero $x$.
 
-[[Quesiti/src_canimath_2011_automne#q04|src_canimath_2011_automne__Q04]]
+**Topic:** [[topic_funzionali|Equazioni funzionali / successioni]]
+**Metodo:** [[method_simmetria|Sfruttamento della simmetria]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Algebra e Analisi]]
 
 
 
-<span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_geometria_piana,topic_trigonometria,method_trigonometria,skill_ragionamento_geometrico"></span>
+<span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_geometria_piana,topic_trigonometria,method_trigonometria,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -128,8 +159,8 @@ level: Coupe Animath Automne
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometria]]
 **Metodo:** [[method_trigonometria|Trigonometria]]
-**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
-**Area:** [[Geometria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Geometria|Geometry]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1RNbKxAOZfG-sQiSBuoqFicWeAHpoWhNB/view)
 
 
@@ -140,11 +171,14 @@ level: Coupe Animath Automne
 
 > Il $ABC$ deve essere un triangolo rettangolo a $A$ con $AB < AC$, $M$ il punto medio di $[BC]$, $D$ l'intersezione di $(AC)$ con il perpendicolare a $(BC)$ che attraversa $M$, e $E$ il punto di intersezione della linea parallela a $(AC)$ che attraversa $M$ con il perpendicolare a $(BD)$ che attraversa $B$. Indicare che i triangoli $AEM$ e $MCA$ sono simili se e solo se $\angle ABC = 60^\circ$.
 
-[[Quesiti/src_canimath_2011_automne#q05|src_canimath_2011_automne__Q05]]
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometria]]
+**Metodo:** [[method_trigonometria|Tecniche trigonometriche]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
 
 
 
-<span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_combinatoria,method_estremalita,skill_astrazione"></span>
+<span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_combinatoria,method_estremalita,method_grafi,skill_astrazione"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -154,9 +188,9 @@ level: Coupe Animath Automne
 > At a ball, no boy has danced with all the girls, and each girl has danced with at least one boy. Prove that one can find boys $g$ and $g'$, and girls $f$ and $f'$, such that $g$ has danced with $f$ but not with $f'$, and $g'$ has danced with $f'$ but not with $f$.
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
-**Metodo:** [[method_estremalita|Estremalità]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_grafi|Graph theory]]
 **Abilita:** [[skill_astrazione|Astrazione]]
-**Area:** [[Combinatoria, Logica e Probabilita]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1RNbKxAOZfG-sQiSBuoqFicWeAHpoWhNB/view)
 
 
@@ -167,11 +201,14 @@ Ballo: nessun ragazzo ha ballato con tutte le ragazze; trova un paio di ragazzi 
 
 > A un ballo, nessun ragazzo ha ballato con tutte le ragazze, e ogni ragazza ha ballato con almeno un ragazzo. Prova che si possono trovare ragazzi $g$ e $g'$, e ragazze $f$ e $f'$, in modo tale che $g$ abbia ballato con $f$ ma non con $f'$, e $g'$ abbia ballato con $f'$ ma non con $f$.
 
-[[Quesiti/src_canimath_2011_automne#q06|src_canimath_2011_automne__Q06]]
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_estremalita|Principio di estremalita]], [[method_grafi|Teoria dei grafi]]
+**Abilita:** [[skill_astrazione|Astrazione / generalizzazione]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
 
 
 
-<span class="atom-split" id="q07" data-atom="q07" data-title="Quesito 7" data-tags="topic_aritmetica,method_fattorizzazione,method_congruenze,skill_manipolazione_algebrica"></span>
+<span class="atom-split" id="q07" data-atom="q07" data-title="Quesito 7" data-tags="topic_aritmetica,method_fattorizzazione,method_congruenze,method_casework,skill_manipolazione_algebrica,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -181,9 +218,9 @@ Ballo: nessun ragazzo ha ballato con tutte le ragazze; trova un paio di ragazzi 
 > Find all triples of positive integers $(p, n, m)$ such that $p$ is prime and $p^n + 144 = m^2$.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_congruenze|Congruenze]]
-**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
-**Area:** [[Aritmetica e Teoria dei Numeri]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_congruenze|Congruenze]], [[method_casework|Case analysis]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1RNbKxAOZfG-sQiSBuoqFicWeAHpoWhNB/view)
 
 
@@ -194,14 +231,14 @@ Ballo: nessun ragazzo ha ballato con tutte le ragazze; trova un paio di ragazzi 
 
 > Trova tutti i triples di numeri interi positivi $(p, n, m)$ in modo tale che $p$ sia primo e $p^n + 144 = m^2$.
 
-[[Quesiti/src_canimath_2011_automne#q07|src_canimath_2011_automne__Q07]]
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]], [[method_congruenze|Aritmetica modulare / congruenze]], [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
 
 
 
 <span class="atom-split" id="q08" data-atom="q08" data-title="Quesito 8" data-tags="topic_disuguaglianze,topic_algebra,method_estremalita,method_casework,skill_manipolazione_algebrica,skill_casework_accurato"></span>
-
-<div class="qlang-switch" data-default="en"></div>
-
 
 *x,y,z in [0,1] with (1-x)(1-y)(1-z)=xyz; one of three products >=1/4 and one <=1/4*
 
@@ -217,11 +254,27 @@ Ballo: nessun ragazzo ha ballato con tutte le ragazze; trova un paio di ragazzi 
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1RNbKxAOZfG-sQiSBuoqFicWeAHpoWhNB/view)
 
 
-<div class="qlang-split" data-lang="it"></div>
 
+<span class="atom-split" id="q08__it" data-atom="q08__it" data-title="Q08__IT" data-tags=""></span>
+
+---
+tipo: quesito-translation
+translation_of: src_canimath_2011_automne__Q08
+lang: it
+secondary: true
+title: "Coupe Animath Automne 2011  Quesito 8"
+summary: "x,y,z in [0,1] con (1-x) ((1-y) ((1-z) = xyz; uno dei tre prodotti >=1/4 e uno <=1/4"
+topics: [topic_disuguaglianze, topic_algebra]
+methods: [method_estremalita, method_casework]
+skills: [skill_manipolazione_algebrica, skill_casework_accurato]
+tags: [kg/translation, topic/disuguaglianze, topic/algebra]---
 
 *x,y,z in [0,1] con (1-x)(1-y)(1-z) = xyz; uno dei tre prodotti >=1/4 e uno <=1/4*
 
 > $x$, $y$, $z$ siano tre numeri reali appartenenti all'intervallo $[0, 1]$ che soddisfano $$(1-x)(1-y)(1-z) = xyz.$$ 1. Indicare che, tra i tre numeri reali $(1-x)y$, $(1-y)z$, $(1-z)x$, almeno uno è maggiore o uguale a $\frac{1}{4}$. 2. Mostra che, tra i tre numeri reali $(1-x)y$, $(1-y)z$, $(1-z)x$, almeno uno è inferiore o uguale a $\frac{1}{4}$.
 
+**Topic:** [[topic_disuguaglianze|Disuguaglianze]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_estremalita|Principio di estremalita]], [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Algebra e Analisi]]
 [[Quesiti/src_canimath_2011_automne#q08|src_canimath_2011_automne__Q08]]

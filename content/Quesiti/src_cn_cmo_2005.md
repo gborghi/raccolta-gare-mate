@@ -10,7 +10,7 @@ level: China Mathematical Olympiad
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_trigonometria,topic_disuguaglianze,method_disuguaglianze,method_casework,skill_manipolazione_algebrica,skill_lettura_attenta,skill_ragionamento_geometrico"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_trigonometria,topic_disuguaglianze,method_disuguaglianze,method_casework,method_trigonometria,skill_manipolazione_algebrica,skill_lettura_attenta,skill_ragionamento_geometrico,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -25,9 +25,9 @@ level: China Mathematical Olympiad
 > (Posed by Li Shenghong)
 
 **Topic:** [[topic_trigonometria|Trigonometria]], [[topic_disuguaglianze|Disuguaglianze]]
-**Metodo:** [[method_disuguaglianze|Disuguaglianze]], [[method_casework|Casework]]
-**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
-**Area:** [[Geometria]], [[Algebra e Analisi]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze]], [[method_casework|Casework]], [[method_trigonometria|Trigonometric techniques]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Geometria|Geometry]], [[Algebra e Analisi|Algebra and analysis]]
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1Bie5BlTQQyjdGifDyOeZ-kZzNFzUwbxT/view)
 
 
@@ -43,16 +43,15 @@ level: China Mathematical Olympiad
 > $$\sum_{i=1}^{4} \sin^2\theta_i \leq 2\left(1 + \prod_{i=1}^{4} \sin\theta_i + \prod_{i=1}^{4} \cos\theta_i\right).$$
 > (Proposto da Li Shenghong)
 
+
 **Topic:** [[topic_trigonometria|Trigonometria]], [[topic_disuguaglianze|Disuguaglianze]]
-**Metodo:** [[method_disuguaglianze|Disuguaglianze]], [[method_casework|Casework]]
-**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze]], [[method_casework|Casework]], [[method_trigonometria|Tecniche trigonometriche]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Geometria]], [[Algebra e Analisi]]
 
-[[Quesiti/src_cn_cmo_2005#q01|src_cn_cmo_2005__Q01]]
 
 
-
-<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_geometria_piana,method_trigonometria,skill_ragionamento_geometrico,skill_lettura_attenta"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_geometria_piana,method_trigonometria,skill_ragionamento_geometrico,skill_lettura_attenta,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -61,12 +60,12 @@ level: China Mathematical Olympiad
 
 > A circle intersects sides $BC$, $CA$, $AB$ of $\triangle ABC$ at two points for each side in the following order: $(D_1, D_2)$, $(E_1, E_2)$, $(F_1, F_2)$. Line segments $E_1F_2$ and $E_2F_1$ intersect at point $L$, $F_1D_2$ and $F_2D_1$ intersect at point $M$, $D_1E_2$ and $D_2E_1$ intersect at point $N$. Prove that $AL$, $BM$ and $CN$ are concurrent. (Posed by Ye Zhonghao)
 
-![[src_cn_cmo_2005__q02.png]]
+![[src_cn_cmo_2005__Q02.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_trigonometria|Trigonometria]]
-**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
-**Area:** [[Geometria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Geometria|Geometry]]
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1Bie5BlTQQyjdGifDyOeZ-kZzNFzUwbxT/view)
 
 
@@ -77,14 +76,13 @@ level: China Mathematical Olympiad
 
 > Un cerchio interseca i lati $BC$, $CA$, $AB$ di $\triangle ABC$ in due punti per ciascun lato, nell'ordine seguente: $(D_1, D_2)$, $(E_1, E_2)$, $(F_1, F_2)$. I segmenti di retta $E_1F_2$ e $E_2F_1$ si intersecano nel punto $L$; $F_1D_2$ e $F_2D_1$ si intersecano nel punto $M$; $D_1E_2$ e $D_2E_1$ si intersecano nel punto $N$. Dimostrare che $AL$, $BM$ e $CN$ sono concorrenti. (Proposto da Ye Zhonghao)
 
-![[src_cn_cmo_2005__q02.png]]
+![[src_cn_cmo_2005__Q02.png]]
+
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_trigonometria|Trigonometria]]
-**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
-
-[[Quesiti/src_cn_cmo_2005#q02|src_cn_cmo_2005__Q02]]
 
 
 
@@ -97,7 +95,7 @@ level: China Mathematical Olympiad
 
 > As seen in Figure 3, a circular pool is divided into $2n$ ($n \geq 5$) "grids". Two grids are said to be neighbors if they have a common side or an arc. When frogs jump simultaneously into the grids (with at least one frog per grid), an "eruption" occurs in a grid if there are at least three frogs in it. After an eruption in a grid, one frog jumps from that grid into each of its neighboring grids. Prove that after finitely many steps, the distribution of frogs will be in equilibrium (i.e., no eruption occurs). (Posed by Su Chun)
 
-![[src_cn_cmo_2005__q03.png]]
+![[src_cn_cmo_2005__Q03.png]]
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_invarianti|Invarianti]], [[method_estremalita|Estremalità]]
@@ -113,18 +111,16 @@ level: China Mathematical Olympiad
 
 > Come si vede nella Figura 3, una piscina circolare è divisa in $2n$ ($n \geq 5$) "griglie". Due griglie si dicono vicine se hanno un lato o un arco in comune. Quando le rane saltano simultaneamente nelle griglie (con almeno una rana per griglia), in una griglia si verifica un'"eruzione" se in essa ci sono almeno tre rane. Dopo un'eruzione in una griglia, una rana salta da quella griglia in ciascuna delle griglie vicine. Dimostrare che, dopo un numero finito di passi, la distribuzione delle rane sarà in equilibrio (cioè non si verificherà alcuna eruzione). (Proposto da Su Chun)
 
-![[src_cn_cmo_2005__q03.png]]
+![[src_cn_cmo_2005__Q03.png]]
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_invarianti|Invarianti]], [[method_estremalita|Estremalità]]
 **Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 
-[[Quesiti/src_cn_cmo_2005#q03|src_cn_cmo_2005__Q03]]
 
 
-
-<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_algebra,topic_disuguaglianze,method_disuguaglianze,method_induzione,skill_manipolazione_algebrica,skill_stima,skill_lettura_attenta"></span>
+<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_algebra,topic_disuguaglianze,topic_funzionali,method_disuguaglianze,method_induzione,method_ricorsione,skill_manipolazione_algebrica,skill_stima,skill_lettura_attenta"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -137,10 +133,10 @@ level: China Mathematical Olympiad
 > $$\left(a_n + \frac{3}{2^{n+3}}\right)^{\frac{1}{m}}\left(m - \left(\frac{2}{3}\right)^{\frac{n(m-1)}{m}}\right) < \frac{m^2 - 1}{m - n + 1}.$$
 > (Posed by Zhu Huawei)
 
-**Topic:** [[topic_algebra|Algebra]], [[topic_disuguaglianze|Disuguaglianze]]
-**Metodo:** [[method_disuguaglianze|Disuguaglianze]], [[method_induzione|Induzione]]
+**Topic:** [[topic_algebra|Algebra]], [[topic_disuguaglianze|Disuguaglianze]], [[topic_funzionali|Functional equations / sequences]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze]], [[method_induzione|Induzione]], [[method_ricorsione|Recursion]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]], [[skill_lettura_attenta|Lettura attenta]]
-**Area:** [[Algebra e Analisi]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1Bie5BlTQQyjdGifDyOeZ-kZzNFzUwbxT/view)
 
 
@@ -155,16 +151,15 @@ level: China Mathematical Olympiad
 > $$\left(a_n + \frac{3}{2^{n+3}}\right)^{\frac{1}{m}}\left(m - \left(\frac{2}{3}\right)^{\frac{n(m-1)}{m}}\right) < \frac{m^2 - 1}{m - n + 1}.$$
 > (Proposto da Zhu Huawei)
 
-**Topic:** [[topic_algebra|Algebra]], [[topic_disuguaglianze|Disuguaglianze]]
-**Metodo:** [[method_disuguaglianze|Disuguaglianze]], [[method_induzione|Induzione]]
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_disuguaglianze|Disuguaglianze]], [[topic_funzionali|Equazioni funzionali / successioni]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze]], [[method_induzione|Induzione]], [[method_ricorsione|Ricorsione]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Algebra e Analisi]]
 
-[[Quesiti/src_cn_cmo_2005#q04|src_cn_cmo_2005__Q04]]
 
 
-
-<span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_combinatoria,topic_geometria_piana,method_estremalita,method_casework,method_doppio_conteggio,skill_ragionamento_geometrico,skill_conteggio_sistematico,skill_stima"></span>
+<span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_combinatoria,topic_geometria_piana,method_estremalita,method_casework,method_doppio_conteggio,skill_ragionamento_geometrico,skill_conteggio_sistematico,skill_stima,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -175,8 +170,8 @@ level: China Mathematical Olympiad
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_estremalita|Estremalità]], [[method_casework|Casework]], [[method_doppio_conteggio|Doppio conteggio]]
-**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_stima|Stima]]
-**Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_stima|Stima]], [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Geometria|Geometry]]
 **Risposta:** 2
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1Bie5BlTQQyjdGifDyOeZ-kZzNFzUwbxT/view)
 
@@ -188,16 +183,15 @@ level: China Mathematical Olympiad
 
 > In un rettangolo $ABCD$ di area unitaria (incluso il suo bordo) vi sono 5 punti tali che nessun tre di essi siano allineati. Determinare il numero minimo di triangoli aventi area non superiore a $\dfrac{1}{4}$ e i cui vertici siano scelti tra questi 5 punti. (Proposto da Leng Gangsong)
 
+
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_estremalita|Estremalità]], [[method_casework|Casework]], [[method_doppio_conteggio|Doppio conteggio]]
-**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_stima|Stima]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_stima|Stima]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 
-[[Quesiti/src_cn_cmo_2005#q05|src_cn_cmo_2005__Q05]]
 
 
-
-<span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_aritmetica,method_congruenze,method_casework,skill_manipolazione_algebrica,skill_casework_accurato,skill_lettura_attenta"></span>
+<span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_aritmetica,method_congruenze,method_casework,method_fattorizzazione,skill_manipolazione_algebrica,skill_casework_accurato,skill_lettura_attenta"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -209,9 +203,9 @@ level: China Mathematical Olympiad
 > (Posed by Chen Yonggao)
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_congruenze|Congruenze]], [[method_casework|Casework]]
+**Metodo:** [[method_congruenze|Congruenze]], [[method_casework|Casework]], [[method_fattorizzazione|Factorisation / algebraic manipulation]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Casework accurato]], [[skill_lettura_attenta|Lettura attenta]]
-**Area:** [[Aritmetica e Teoria dei Numeri]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Risposta:** $(1,0,0,0),(3,0,1,0),(1,1,0,1),(5,1,1,0)$
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1Bie5BlTQQyjdGifDyOeZ-kZzNFzUwbxT/view)
 
@@ -225,9 +219,8 @@ level: China Mathematical Olympiad
 > $$2^x - 3^y \cdot 5^z \cdot 7^w = 1.$$
 > (Proposto da Chen Yonggao)
 
+
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_congruenze|Congruenze]], [[method_casework|Casework]]
+**Metodo:** [[method_congruenze|Congruenze]], [[method_casework|Casework]], [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Casework accurato]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
-
-[[Quesiti/src_cn_cmo_2005#q06|src_cn_cmo_2005__Q06]]

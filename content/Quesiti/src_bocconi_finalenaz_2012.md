@@ -51,11 +51,9 @@ level: Finale Nazionale Campionati Internazionali di Giochi Matematici
 **Abilita:** [[skill_lettura_attenta|Careful reading of the text]], [[skill_conteggio_sistematico|Systematic counting]]
 **Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
-[[Quesiti/src_bocconi_finalenaz_2012#q01|src_bocconi_finalenaz_2012__Q01]]
 
 
-
-<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_aritmetica,skill_lettura_attenta,skill_manipolazione_algebrica"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_aritmetica,skill_lettura_attenta,skill_manipolazione_algebrica,skill_modellizzazione"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -65,7 +63,7 @@ level: Finale Nazionale Campionati Internazionali di Giochi Matematici
 > Renato ha le gambe lunghe e, ogni due passi, avanza di un metro e mezzo. Andando da casa a scuola, ha l'abitudine di contare i passi; a metà strada, si ferma e pensa: "ho già fatto 800 passi". Qual è la distanza in metri tra la casa di Renato e la scuola?
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 1200
 **Fonte:** [apri PDF](https://drive.google.com/file/d/17vJWLlaZCIwNUg2cAWMYW2OhjYYM4-_Y/view)
@@ -82,15 +80,14 @@ level: Finale Nazionale Campionati Internazionali di Giochi Matematici
 
 > [!warning] Excerpt to be verified against the source.
 
+
 **Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
-**Abilita:** [[skill_lettura_attenta|Careful reading of the text]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Abilita:** [[skill_lettura_attenta|Careful reading of the text]], [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_modellizzazione|Modelling / translating the text]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
-[[Quesiti/src_bocconi_finalenaz_2012#q02|src_bocconi_finalenaz_2012__Q02]]
 
 
-
-<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_aritmetica,skill_lettura_attenta,skill_ragionamento_geometrico"></span>
+<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_aritmetica,method_conteggio,skill_lettura_attenta,skill_ragionamento_geometrico,skill_conteggio_sistematico,skill_modellizzazione"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -100,7 +97,8 @@ level: Finale Nazionale Campionati Internazionali di Giochi Matematici
 > Carla ha notato che passano 6 secondi, dal primo all'ultimo colpo, quando l'orologio della chiesa del suo paese batte le 6 di mattina. Quanti secondi passano (dal primo all'ultimo colpo) quando lo stesso orologio, cinque ore dopo, batte le 11?
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Metodo:** [[method_conteggio|Conteggio combinatorio]]
+**Abilita:** [[skill_lettura_attenta|Lettura attenta del testo]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 12
 **Fonte:** [apri PDF](https://drive.google.com/file/d/17vJWLlaZCIwNUg2cAWMYW2OhjYYM4-_Y/view)
@@ -117,11 +115,11 @@ level: Finale Nazionale Campionati Internazionali di Giochi Matematici
 
 > [!warning] Excerpt to be verified against the source.
 
-**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
-**Abilita:** [[skill_lettura_attenta|Careful reading of the text]], [[skill_ragionamento_geometrico|Geometric reasoning]]
-**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
-[[Quesiti/src_bocconi_finalenaz_2012#q03|src_bocconi_finalenaz_2012__Q03]]
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_lettura_attenta|Careful reading of the text]], [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_conteggio_sistematico|Systematic counting]], [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
 
 
@@ -158,11 +156,9 @@ level: Finale Nazionale Campionati Internazionali di Giochi Matematici
 **Abilita:** [[skill_lettura_attenta|Careful reading of the text]], [[skill_conteggio_sistematico|Systematic counting]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
-[[Quesiti/src_bocconi_finalenaz_2012#q04|src_bocconi_finalenaz_2012__Q04]]
 
 
-
-<span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_aritmetica,topic_combinatoria,method_casework,method_simmetria,skill_conteggio_sistematico,skill_ragionamento_geometrico,skill_modellizzazione"></span>
+<span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_aritmetica,topic_combinatoria,method_casework,method_simmetria,method_doppio_conteggio,skill_conteggio_sistematico,skill_ragionamento_geometrico,skill_modellizzazione"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -171,10 +167,10 @@ level: Finale Nazionale Campionati Internazionali di Giochi Matematici
 
 > Completate le caselle del diagramma con l'aiuto di tutti i numeri naturali da $1$ a $10$ (in modo che $5$ e $10$ siano già stati collocati in figura) in modo che gli allineamenti da tre caselle, i due allineamenti da tre caselle, e i sei caselli posti sulla circonferenza abbiano la stessa somma. Qual è questa somma?
 
-![[src_bocconi_finalenaz_2012__q05.png]]
+![[src_bocconi_finalenaz_2012__Q05.png]]
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
-**Metodo:** [[method_casework|Casework]], [[method_simmetria|Simmetria]]
+**Metodo:** [[method_casework|Casework]], [[method_simmetria|Simmetria]], [[method_doppio_conteggio|Doppio conteggio]]
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** (due soluzioni mostrate in figura)
@@ -190,16 +186,15 @@ level: Finale Nazionale Campionati Internazionali di Giochi Matematici
 
 > Fill in the boxes of the diagram using all the natural numbers from $1$ to $10$ (so that $5$ and $10$ have already been placed in the figure) in such a way that the three-box alignments, the two three-box alignments, and the six boxes on the circumference all have the same sum. What is this sum?
 
-![[src_bocconi_finalenaz_2012__q05.png]]
+![[src_bocconi_finalenaz_2012__Q05.png]]
 
 > [!warning] Excerpt to be verified against the source.
 
+
 **Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_combinatoria|Combinatorics]]
-**Metodo:** [[method_casework|Case analysis]], [[method_simmetria|Using symmetry]]
+**Metodo:** [[method_casework|Case analysis]], [[method_simmetria|Using symmetry]], [[method_doppio_conteggio|Double counting]]
 **Abilita:** [[skill_conteggio_sistematico|Systematic counting]], [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_modellizzazione|Modelling / translating the text]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
-
-[[Quesiti/src_bocconi_finalenaz_2012#q05|src_bocconi_finalenaz_2012__Q05]]
 
 
 
@@ -213,7 +208,7 @@ level: Finale Nazionale Campionati Internazionali di Giochi Matematici
 > Inserite dei segni "+" e "-" tra le cifre che vedete sopra (senza cambiare il loro ordine) in modo che le operazioni che diano come risultato 2012.
 > $$1 \quad 2 \quad 3 \quad 4 \quad 5 \quad 6 \quad 7 \quad 8 \quad 9$$
 
-![[src_bocconi_finalenaz_2012__q06.png]]
+![[src_bocconi_finalenaz_2012__Q06.png]]
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_casework|Casework]]
@@ -233,7 +228,7 @@ level: Finale Nazionale Campionati Internazionali di Giochi Matematici
 > Insert "+" and "-" signs between the digits you see above (without changing their order) so that the calculations yield 2012.
 > $$1 \quad 2 \quad 3 \quad 4 \quad 5 \quad 6 \quad 7 \quad 8 \quad 9$$
 
-![[src_bocconi_finalenaz_2012__q06.png]]
+![[src_bocconi_finalenaz_2012__Q06.png]]
 
 > [!warning] Excerpt to be verified against the source.
 
@@ -241,8 +236,6 @@ level: Finale Nazionale Campionati Internazionali di Giochi Matematici
 **Metodo:** [[method_casework|Case analysis]]
 **Abilita:** [[skill_lettura_attenta|Careful reading of the text]], [[skill_conteggio_sistematico|Systematic counting]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
-
-[[Quesiti/src_bocconi_finalenaz_2012#q06|src_bocconi_finalenaz_2012__Q06]]
 
 
 
@@ -279,8 +272,6 @@ level: Finale Nazionale Campionati Internazionali di Giochi Matematici
 **Abilita:** [[skill_conteggio_sistematico|Systematic counting]], [[skill_modellizzazione|Modelling / translating the text]], [[skill_lettura_attenta|Careful reading of the text]]
 **Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
-[[Quesiti/src_bocconi_finalenaz_2012#q07|src_bocconi_finalenaz_2012__Q07]]
-
 
 
 <span class="atom-split" id="q08" data-atom="q08" data-title="Quesito 8" data-tags="topic_combinatoria,topic_geometria_piana,method_grafi,method_casework,skill_ragionamento_geometrico,skill_modellizzazione,skill_conteggio_sistematico"></span>
@@ -292,7 +283,7 @@ level: Finale Nazionale Campionati Internazionali di Giochi Matematici
 
 > (Problema con figura di grafo) Completate le caselle del diagramma in modo che ogni nodo sia connesso agli altri secondo le regole indicate in figura. Qual è la somma?
 
-![[src_bocconi_finalenaz_2012__q08.png]]
+![[src_bocconi_finalenaz_2012__Q08.png]]
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_grafi|Grafi]], [[method_casework|Casework]]
@@ -311,7 +302,7 @@ level: Finale Nazionale Campionati Internazionali di Giochi Matematici
 
 > (Problem with graph figure) Complete the boxes in the diagram so that each node is connected to the others according to the rules shown in the figure. What is the sum?
 
-![[src_bocconi_finalenaz_2012__q08.png]]
+![[src_bocconi_finalenaz_2012__Q08.png]]
 
 > [!warning] Excerpt to be verified against the source.
 
@@ -319,8 +310,6 @@ level: Finale Nazionale Campionati Internazionali di Giochi Matematici
 **Metodo:** [[method_grafi|Graph theory]], [[method_casework|Case analysis]]
 **Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_modellizzazione|Modelling / translating the text]], [[skill_conteggio_sistematico|Systematic counting]]
 **Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Geometria|Geometry]]
-
-[[Quesiti/src_bocconi_finalenaz_2012#q08|src_bocconi_finalenaz_2012__Q08]]
 
 
 
@@ -335,7 +324,7 @@ level: Finale Nazionale Campionati Internazionali di Giochi Matematici
 > $$\clubsuit \clubsuit \clubsuit \times 7 = \spadesuit \spadesuit \spadesuit$$
 > Quale è il primo fattore?
 
-![[src_bocconi_finalenaz_2012__q09.png]]
+![[src_bocconi_finalenaz_2012__Q09.png]]
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_casework|Casework]]
@@ -356,7 +345,7 @@ level: Finale Nazionale Campionati Internazionali di Giochi Matematici
 > $$\clubsuit \clubsuit \clubsuit \times 7 = \spadesuit \spadesuit \spadesuit$$
 > What is the first factor?
 
-![[src_bocconi_finalenaz_2012__q09.png]]
+![[src_bocconi_finalenaz_2012__Q09.png]]
 
 > [!warning] Excerpt to be verified against the source.
 
@@ -364,8 +353,6 @@ level: Finale Nazionale Campionati Internazionali di Giochi Matematici
 **Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]], [[method_casework|Case analysis]]
 **Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_lettura_attenta|Careful reading of the text]], [[skill_conteggio_sistematico|Systematic counting]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
-
-[[Quesiti/src_bocconi_finalenaz_2012#q09|src_bocconi_finalenaz_2012__Q09]]
 
 
 
@@ -378,7 +365,7 @@ level: Finale Nazionale Campionati Internazionali di Giochi Matematici
 
 > Desiderate dividere la superficie che vedete in figura in due parti che abbiano la stessa area, completando con un segmento che non esca dalla superficie: due tra i punti della sua frontiera indicati in figura con un "pallino". Come fare? (Tracciare nel foglio risposta il segmento in questione)
 
-![[src_bocconi_finalenaz_2012__q10.png]]
+![[src_bocconi_finalenaz_2012__Q10.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_simmetria|Simmetria]], [[method_casework|Casework]]
@@ -397,7 +384,7 @@ level: Finale Nazionale Campionati Internazionali di Giochi Matematici
 
 > You want to divide the surface shown in the figure into two parts of equal area, using a line segment that does not extend outside the surface to complete the division: the segment should join two of the points on its boundary marked with a "dot" in the figure. How can you do this? (Draw the line segment in question on the answer sheet.)
 
-![[src_bocconi_finalenaz_2012__q10.png]]
+![[src_bocconi_finalenaz_2012__Q10.png]]
 
 > [!warning] Excerpt to be verified against the source.
 
@@ -405,8 +392,6 @@ level: Finale Nazionale Campionati Internazionali di Giochi Matematici
 **Metodo:** [[method_simmetria|Using symmetry]], [[method_casework|Case analysis]]
 **Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_modellizzazione|Modelling / translating the text]]
 **Area:** [[Geometria|Geometry]]
-
-[[Quesiti/src_bocconi_finalenaz_2012#q10|src_bocconi_finalenaz_2012__Q10]]
 
 
 
@@ -440,8 +425,6 @@ level: Finale Nazionale Campionati Internazionali di Giochi Matematici
 **Topic:** [[topic_algebra|Algebra]]
 **Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_lettura_attenta|Careful reading of the text]], [[skill_modellizzazione|Modelling / translating the text]]
 **Area:** [[Algebra e Analisi|Algebra and analysis]]
-
-[[Quesiti/src_bocconi_finalenaz_2012#q11|src_bocconi_finalenaz_2012__Q11]]
 
 
 
@@ -482,8 +465,6 @@ level: Finale Nazionale Campionati Internazionali di Giochi Matematici
 **Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_lettura_attenta|Careful reading of the text]], [[skill_conteggio_sistematico|Systematic counting]]
 **Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
-[[Quesiti/src_bocconi_finalenaz_2012#q12|src_bocconi_finalenaz_2012__Q12]]
-
 
 
 <span class="atom-split" id="q13" data-atom="q13" data-title="Quesito 13" data-tags="topic_geometria_piana,method_coordinate,method_simmetria,skill_ragionamento_geometrico,skill_manipolazione_algebrica,skill_modellizzazione"></span>
@@ -495,7 +476,7 @@ level: Finale Nazionale Campionati Internazionali di Giochi Matematici
 
 > Nel quadrato della figura sono stati tracciati dei segmenti che congiungono alcuni vertici opposti e il punto medio di un lato. Si è formata così la parte più scura della figura. Qual è la frazione di superficie più scura rispetto a quella di tutto il quadrato?
 
-![[src_bocconi_finalenaz_2012__q13.png]]
+![[src_bocconi_finalenaz_2012__Q13.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_coordinate|Coordinate]], [[method_simmetria|Simmetria]]
@@ -514,7 +495,7 @@ level: Finale Nazionale Campionati Internazionali di Giochi Matematici
 
 > In the square in the figure, line segments have been drawn connecting certain opposite vertices and the midpoint of one side. This has formed the darkest part of the figure. What fraction of the area is the darkest part relative to the area of the whole square?
 
-![[src_bocconi_finalenaz_2012__q13.png]]
+![[src_bocconi_finalenaz_2012__Q13.png]]
 
 > [!warning] Excerpt to be verified against the source.
 
@@ -522,8 +503,6 @@ level: Finale Nazionale Campionati Internazionali di Giochi Matematici
 **Metodo:** [[method_coordinate|Coordinate method]], [[method_simmetria|Using symmetry]]
 **Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_modellizzazione|Modelling / translating the text]]
 **Area:** [[Geometria|Geometry]]
-
-[[Quesiti/src_bocconi_finalenaz_2012#q13|src_bocconi_finalenaz_2012__Q13]]
 
 
 
@@ -558,11 +537,9 @@ level: Finale Nazionale Campionati Internazionali di Giochi Matematici
 **Abilita:** [[skill_modellizzazione|Modelling / translating the text]], [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_lettura_attenta|Careful reading of the text]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Algebra e Analisi|Algebra and analysis]]
 
-[[Quesiti/src_bocconi_finalenaz_2012#q14|src_bocconi_finalenaz_2012__Q14]]
 
 
-
-<span class="atom-split" id="q15" data-atom="q15" data-title="Quesito 15" data-tags="topic_geometria_analitica,topic_aritmetica,method_coordinate,skill_ragionamento_geometrico,skill_manipolazione_algebrica,skill_modellizzazione"></span>
+<span class="atom-split" id="q15" data-atom="q15" data-title="Quesito 15" data-tags="topic_geometria_analitica,topic_aritmetica,topic_geometria_piana,method_coordinate,skill_ragionamento_geometrico,skill_manipolazione_algebrica,skill_modellizzazione"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -571,9 +548,9 @@ level: Finale Nazionale Campionati Internazionali di Giochi Matematici
 
 > Le città di Mathpolis, Analys, Geometry e Logix sono situate ai vertici di un quadrato il cui lato misura 60 km. Ci sono poi le città di Arithmeville e Algebra, allineate con Logix e Geometry. Sapendo che la distanza tra Mathpolis e Algebra è di 156 km, qual è quella tra Arithmeville e Geometry?
 
-![[src_bocconi_finalenaz_2012__q15.png]]
+![[src_bocconi_finalenaz_2012__Q15.png]]
 
-**Topic:** [[topic_geometria_analitica|Geometria analitica]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Topic:** [[topic_geometria_analitica|Geometria analitica]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_coordinate|Coordinate]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]]
 **Area:** [[Geometria]], [[Aritmetica e Teoria dei Numeri]]
@@ -590,20 +567,19 @@ level: Finale Nazionale Campionati Internazionali di Giochi Matematici
 
 > The cities of Mathpolis, Analys, Geometry, and Logix are located at the vertices of a square whose side measures 60 km. There are also the cities of Arithmeville and Algebra, which lie on the same line as Logix and Geometry. Given that the distance between Mathpolis and Algebra is 156 km, what is the distance between Arithmeville and Geometry?
 
-![[src_bocconi_finalenaz_2012__q15.png]]
+![[src_bocconi_finalenaz_2012__Q15.png]]
 
 > [!warning] Excerpt to be verified against the source.
 
-**Topic:** [[topic_geometria_analitica|Coordinate geometry]], [[topic_aritmetica|Arithmetic / Number theory]]
+
+**Topic:** [[topic_geometria_analitica|Coordinate geometry]], [[topic_aritmetica|Arithmetic / Number theory]], [[topic_geometria_piana|Plane geometry]]
 **Metodo:** [[method_coordinate|Coordinate method]]
 **Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_modellizzazione|Modelling / translating the text]]
 **Area:** [[Geometria|Geometry]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
-[[Quesiti/src_bocconi_finalenaz_2012#q15|src_bocconi_finalenaz_2012__Q15]]
 
 
-
-<span class="atom-split" id="q16" data-atom="q16" data-title="Quesito 16" data-tags="topic_geometria_piana,method_trigonometria,skill_ragionamento_geometrico,skill_manipolazione_algebrica,skill_modellizzazione"></span>
+<span class="atom-split" id="q16" data-atom="q16" data-title="Quesito 16" data-tags="topic_geometria_piana,topic_trigonometria,method_trigonometria,skill_ragionamento_geometrico,skill_manipolazione_algebrica,skill_modellizzazione"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -612,9 +588,9 @@ level: Finale Nazionale Campionati Internazionali di Giochi Matematici
 
 > I tre cerchi della figura, tangenti a due a due, hanno lo stesso raggio. Il triangolo curvilineo, colorato in figura, ha il "lato" di $106$ cm. Qual è la sua area?
 
-![[src_bocconi_finalenaz_2012__q16.png]]
+![[src_bocconi_finalenaz_2012__Q16.png]]
 
-**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometria]]
 **Metodo:** [[method_trigonometria|Trigonometria]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]]
 **Area:** [[Geometria]]
@@ -631,20 +607,19 @@ level: Finale Nazionale Campionati Internazionali di Giochi Matematici
 
 > The three circles in the figure, each pair of which is tangent to one another, have the same radius. The curvilinear triangle, colored in the figure, has a "side" of $106$ cm. What is its area?
 
-![[src_bocconi_finalenaz_2012__q16.png]]
+![[src_bocconi_finalenaz_2012__Q16.png]]
 
 > [!warning] Excerpt to be verified against the source.
 
-**Topic:** [[topic_geometria_piana|Plane geometry]]
+
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_trigonometria|Trigonometry]]
 **Metodo:** [[method_trigonometria|Trigonometric techniques]]
 **Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_modellizzazione|Modelling / translating the text]]
 **Area:** [[Geometria|Geometry]]
 
-[[Quesiti/src_bocconi_finalenaz_2012#q16|src_bocconi_finalenaz_2012__Q16]]
 
 
-
-<span class="atom-split" id="q17" data-atom="q17" data-title="Quesito 17" data-tags="topic_aritmetica,topic_algebra,method_casework,method_estremalita,skill_conteggio_sistematico,skill_manipolazione_algebrica,skill_modellizzazione"></span>
+<span class="atom-split" id="q17" data-atom="q17" data-title="Quesito 17" data-tags="topic_aritmetica,topic_algebra,method_casework,method_estremalita,skill_conteggio_sistematico,skill_manipolazione_algebrica,skill_modellizzazione,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -653,11 +628,11 @@ level: Finale Nazionale Campionati Internazionali di Giochi Matematici
 
 > Scrivete un numero naturale (non nullo) in ciascuna delle caselle bianche in modo che la loro somma sia la più piccola possibile. Attenzione, però: alle seguenti regole: il numero della casella $b$ deve essere compreso tra quello della casella $a$ e quello della casella $c$; ciascuna casella colorata è immediatamente connessa da una circonferenza con due caselle bianche con le quali è immediatamente connessa e questa somma deve essere un quadrato perfetto.
 
-![[src_bocconi_finalenaz_2012__q17.png]]
+![[src_bocconi_finalenaz_2012__Q17.png]]
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
 **Metodo:** [[method_casework|Casework]], [[method_estremalita|Estremalità]]
-**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 **Risposta:** a=6, b=19, c=30
 **Fonte:** [apri PDF](https://drive.google.com/file/d/17vJWLlaZCIwNUg2cAWMYW2OhjYYM4-_Y/view)
@@ -672,20 +647,19 @@ level: Finale Nazionale Campionati Internazionali di Giochi Matematici
 
 > Write a (non-zero) natural number in each of the white boxes so that their sum is as small as possible. However, pay attention to the following rules: the number in box $b$ must lie between the number in box $a$ and the number in box $c$; each colored box is directly connected by a circle to two white boxes with which it is directly connected, and this sum must be a perfect square.
 
-![[src_bocconi_finalenaz_2012__q17.png]]
+![[src_bocconi_finalenaz_2012__Q17.png]]
 
 > [!warning] Excerpt to be verified against the source.
 
+
 **Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_algebra|Algebra]]
 **Metodo:** [[method_casework|Case analysis]], [[method_estremalita|Extremal principle]]
-**Abilita:** [[skill_conteggio_sistematico|Systematic counting]], [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_modellizzazione|Modelling / translating the text]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]], [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_modellizzazione|Modelling / translating the text]], [[skill_casework_accurato|Careful case analysis]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Algebra e Analisi|Algebra and analysis]]
 
-[[Quesiti/src_bocconi_finalenaz_2012#q17|src_bocconi_finalenaz_2012__Q17]]
 
 
-
-<span class="atom-split" id="q18" data-atom="q18" data-title="Quesito 18" data-tags="topic_aritmetica,topic_combinatoria,method_ricorsione,method_induzione,skill_riconoscimento_pattern,skill_conteggio_sistematico,skill_modellizzazione"></span>
+<span class="atom-split" id="q18" data-atom="q18" data-title="Quesito 18" data-tags="topic_aritmetica,topic_combinatoria,topic_funzionali,method_ricorsione,method_induzione,skill_riconoscimento_pattern,skill_conteggio_sistematico,skill_modellizzazione"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -694,12 +668,12 @@ level: Finale Nazionale Campionati Internazionali di Giochi Matematici
 
 > A 1 anno, Nando aveva già piantato un albero nella sua foresta privata. A 2 anni, aveva piantato degli altri alberi in modo da formare un triangolo regolare, di lati con due alberi per lato e il primo albero situato in un vertice. A 3 anni, Nando pianta ancora altri alberi in modo da formare un nuovo poligono regolare (sempre di $n$ lati) con tre alberi per lato e due lati che prolungano quelli del poligono dell'anno precedente. E così via. La figura illustra i nei casi in cui $n$ vale $3, 4, 6$ le successive foreste, fino all'età di 4 anni. Oggi, nella foresta coinvolto nei successivi compleanno di Nando, ci sarebbero 969 alberi. Qual è l'età di Nando (ha più di 4 anni e meno di 100)?
 
-![[src_bocconi_finalenaz_2012__q18.png]]
+![[src_bocconi_finalenaz_2012__Q18.png]]
 
-**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]], [[topic_funzionali|Equazioni funzionali / successioni]]
 **Metodo:** [[method_ricorsione|Ricorsione]], [[method_induzione|Induzione]]
 **Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione]]
-**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]], [[Algebra e Analisi]]
 **Risposta:** 17
 **Fonte:** [apri PDF](https://drive.google.com/file/d/17vJWLlaZCIwNUg2cAWMYW2OhjYYM4-_Y/view)
 
@@ -713,20 +687,19 @@ level: Finale Nazionale Campionati Internazionali di Giochi Matematici
 
 > At 1 year old, Nando had already planted a tree in his private forest. At 2 years old, he had planted some other trees so as to form a regular triangle, with two trees per side and the first tree located at a vertex. At 3 years old, Nando plants yet more trees so as to form a new regular polygon (still with $n$ sides), with three trees per side and two sides that extend those of the polygon from the previous year. And so on. The figure illustrates, in the cases where $n$ equals $3, 4, 6$, the successive forests up to the age of 4. Today, in the forest involved in Nando's subsequent birthdays, there would be 969 trees. What is Nando's age? (He is more than 4 years old and less than 100.)
 
-![[src_bocconi_finalenaz_2012__q18.png]]
+![[src_bocconi_finalenaz_2012__Q18.png]]
 
 > [!warning] Excerpt to be verified against the source.
 
-**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_combinatoria|Combinatorics]]
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_combinatoria|Combinatorics]], [[topic_funzionali|Functional equations / sequences]]
 **Metodo:** [[method_ricorsione|Recursion]], [[method_induzione|Induction]]
 **Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]], [[skill_conteggio_sistematico|Systematic counting]], [[skill_modellizzazione|Modelling / translating the text]]
-**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
-
-[[Quesiti/src_bocconi_finalenaz_2012#q18|src_bocconi_finalenaz_2012__Q18]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Algebra e Analisi|Algebra and analysis]]
 
 
 
-<span class="atom-split" id="q19" data-atom="q19" data-title="Quesito 19" data-tags="topic_combinatoria,topic_aritmetica,method_invarianti,method_induzione,method_telescoping,skill_riconoscimento_pattern,skill_manipolazione_algebrica,skill_modellizzazione"></span>
+<span class="atom-split" id="q19" data-atom="q19" data-title="Quesito 19" data-tags="topic_combinatoria,topic_aritmetica,method_invarianti,method_induzione,method_telescoping,method_doppio_conteggio,skill_riconoscimento_pattern,skill_manipolazione_algebrica,skill_modellizzazione"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -736,7 +709,7 @@ level: Finale Nazionale Campionati Internazionali di Giochi Matematici
 > Con 2012 pietre, formate due mucchi e scrivete il prodotto del numero di pietre contenute nel primo mucchio moltiplicato per il numero di pietre del secondo mucchio. Dividete poi uno dei due mucchi in due nuovi mucchi e scrivete il prodotto dei numeri di pietre contenute rispettivamente in questi nuovi mucchi. Dividete ora uno dei tre mucchi che avete ottenuto, scrivete il prodotto ecc. fino a quando non avete tutti i mucchi formati da una sola pietra. Quante vale la somma dei 2011 prodotti che avete scritto?
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_invarianti|Invarianti]], [[method_induzione|Induzione]], [[method_telescoping|Telescoping]]
+**Metodo:** [[method_invarianti|Invarianti]], [[method_induzione|Induzione]], [[method_telescoping|Telescoping]], [[method_doppio_conteggio|Doppio conteggio]]
 **Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 2 023 066
@@ -754,12 +727,11 @@ level: Finale Nazionale Campionati Internazionali di Giochi Matematici
 
 > [!warning] Excerpt to be verified against the source.
 
+
 **Topic:** [[topic_combinatoria|Combinatorics]], [[topic_aritmetica|Arithmetic / Number theory]]
-**Metodo:** [[method_invarianti|Invariants / monovariants]], [[method_induzione|Induction]], [[method_telescoping|Telescoping sums]]
+**Metodo:** [[method_invarianti|Invariants / monovariants]], [[method_induzione|Induction]], [[method_telescoping|Telescoping sums]], [[method_doppio_conteggio|Double counting]]
 **Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]], [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_modellizzazione|Modelling / translating the text]]
 **Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
-
-[[Quesiti/src_bocconi_finalenaz_2012#q19|src_bocconi_finalenaz_2012__Q19]]
 
 
 
@@ -772,7 +744,7 @@ level: Finale Nazionale Campionati Internazionali di Giochi Matematici
 
 > In un circuito naturale $a$, ci sono $b$ nodi, nelle $c$ celle della figura. Attenzione, però, ogni nodo deve essere collegato (dal più piccolo al più grande, dunque) una volta con un tratto o con una freccia) a ciascuno degli altri numeri. Inoltre, ogni freccia deve essere orientata verso il più grande dei due numeri che collega (dal più piccolo al più grande, dunque).
 
-![[src_bocconi_finalenaz_2012__q20.png]]
+![[src_bocconi_finalenaz_2012__Q20.png]]
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_grafi|Grafi]], [[method_casework|Casework]]
@@ -791,7 +763,7 @@ level: Finale Nazionale Campionati Internazionali di Giochi Matematici
 
 > In a natural circuit $a$, there are $b$ nodes in the $c$ cells in the figure. However, note that each node must be connected (thus, from the smallest to the largest) once—by a line segment or an arrow—to each of the other numbers. Furthermore, each arrow must be directed toward the larger of the two numbers it connects (thus, from the smallest to the largest).
 
-![[src_bocconi_finalenaz_2012__q20.png]]
+![[src_bocconi_finalenaz_2012__Q20.png]]
 
 > [!warning] Excerpt to be verified against the source.
 
@@ -799,5 +771,3 @@ level: Finale Nazionale Campionati Internazionali di Giochi Matematici
 **Metodo:** [[method_grafi|Graph theory]], [[method_casework|Case analysis]]
 **Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_modellizzazione|Modelling / translating the text]], [[skill_conteggio_sistematico|Systematic counting]]
 **Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Geometria|Geometry]]
-
-[[Quesiti/src_bocconi_finalenaz_2012#q20|src_bocconi_finalenaz_2012__Q20]]

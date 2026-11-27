@@ -10,7 +10,7 @@ level: OBM Nível 2
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_aritmetica,topic_combinatoria,method_casework,method_conteggio,skill_conteggio_sistematico,skill_lettura_attenta,skill_casework_accurato"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_aritmetica,topic_combinatoria,method_casework,method_conteggio,method_bigezione,skill_conteggio_sistematico,skill_lettura_attenta,skill_casework_accurato,skill_riconoscimento_pattern"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -20,9 +20,9 @@ level: OBM Nível 2
 > Natasha is superstitious and, when numbering the 200 pages of her diary starting from 1, she skipped all page numbers containing the digits 1 or 3 (in any order). For example, the numbers 31 and 137 do not appear, but 103 does appear. What is the number Natasha wrote on the last page of her diary?
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
-**Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]]
-**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_casework_accurato|Casework accurato]]
-**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+**Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]], [[method_bigezione|Bijection / correspondence]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_casework_accurato|Casework accurato]], [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1VdFN5q0gijqkii9miw8ameJ6ubvEtjNX/view)
 
 
@@ -33,12 +33,11 @@ level: OBM Nível 2
 
 > Natasha è superstiziosa e, quando ha numerato le 200 pagine del suo diario partendo da 1, ha saltato tutti i numeri di pagina che contenevano le cifre 1 o 3 (in qualsiasi ordine). Per esempio, i numeri 31 e 137 non compaiono, ma 103 compare. Qual è il numero che Natasha ha scritto sull'ultima pagina del suo diario?
 
-**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
-**Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]]
-**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_casework_accurato|Casework accurato]]
-**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 
-[[Quesiti/src_obm_2005_n2_f2#q01|src_obm_2005_n2_f2__Q01]]
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]], [[method_bigezione|Bigezione / corrispondenza]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_casework_accurato|Casework accurato]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 
 
 
@@ -51,7 +50,7 @@ level: OBM Nível 2
 
 > Four equal pieces, each in the shape of a triangle, were arranged in two different ways, as shown in the figures below. The squares $ABCD$ and $EFGH$ have sides equal to $3\,\text{cm}$ and $9\,\text{cm}$, respectively. Determine the side length of square $IJKL$.
 
-![[src_obm_2005_n2_f2__q02.png]]
+![[src_obm_2005_n2_f2__Q02.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_simmetria|Simmetria]]
@@ -67,14 +66,12 @@ level: OBM Nível 2
 
 > Quattro pezzi uguali, ciascuno a forma di triangolo, sono stati disposti in due modi diversi, come mostrato nelle figure sottostanti. I quadrati $ABCD$ e $EFGH$ hanno lati rispettivamente uguali a $3\,\text{cm}$ e $9\,\text{cm}$. Determinare la lunghezza del lato del quadrato $IJKL$.
 
-![[src_obm_2005_n2_f2__q02.png]]
+![[src_obm_2005_n2_f2__Q02.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_simmetria|Simmetria]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]]
 **Area:** [[Geometria]]
-
-[[Quesiti/src_obm_2005_n2_f2#q02|src_obm_2005_n2_f2__Q02]]
 
 
 
@@ -89,7 +86,7 @@ level: OBM Nível 2
 > 
 > (The figure shows the staircase arrangement: column $1$ has $1$ square, column $2$ has $2$ squares, column $3$ has $3$ squares, and so on, with the squares numbered $1, 2, 3, \ldots$ from top to bottom within each column and columns ordered left to right.)
 
-![[src_obm_2005_n2_f2__q03.png]]
+![[src_obm_2005_n2_f2__Q03.png]]
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_conteggio|Conteggio]], [[method_ricorsione|Ricorsione]]
@@ -107,14 +104,12 @@ level: OBM Nível 2
 >
 > (La figura mostra la disposizione delle scale: la colonna $1$ ha $1$ quadrati, la colonna $2$ ha $2$ quadrati, la colonna $3$ ha $3$ quadrati, e così via; all'interno di ciascuna colonna i quadrati sono numerati $1, 2, 3, \ldots$ dall'alto verso il basso, e le colonne sono ordinate da sinistra a destra.)
 
-![[src_obm_2005_n2_f2__q03.png]]
+![[src_obm_2005_n2_f2__Q03.png]]
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_conteggio|Conteggio]], [[method_ricorsione|Ricorsione]]
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_modellizzazione|Modellizzazione]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
-
-[[Quesiti/src_obm_2005_n2_f2#q03|src_obm_2005_n2_f2__Q03]]
 
 
 
@@ -127,7 +122,7 @@ level: OBM Nível 2
 
 > A quadrilateral plot of land was divided into four smaller lots by two straight lines connecting the midpoints of opposite sides. The areas of three of the four lots are indicated in the map below (in square meters): $200$, $210$, and $250$. What is the area of the fourth lot (represented by the dark region on the map)?
 
-![[src_obm_2005_n2_f2__q04.png]]
+![[src_obm_2005_n2_f2__Q04.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_geometria_analitica|Geometria analitica]]
 **Metodo:** [[method_coordinate|Coordinate]], [[method_simmetria|Simmetria]]
@@ -143,14 +138,12 @@ level: OBM Nível 2
 
 > Un terreno di forma quadrilatera è stato suddiviso in quattro lotti più piccoli da due rette che congiungono i punti medi dei lati opposti. Le aree di tre dei quattro lotti sono indicate nella mappa sottostante (in metri quadrati): $200$, $210$ e $250$. Qual è l'area del quarto lotto (rappresentato dalla regione scura nella mappa)?
 
-![[src_obm_2005_n2_f2__q04.png]]
+![[src_obm_2005_n2_f2__Q04.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_geometria_analitica|Geometria analitica]]
 **Metodo:** [[method_coordinate|Coordinate]], [[method_simmetria|Simmetria]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
-
-[[Quesiti/src_obm_2005_n2_f2#q04|src_obm_2005_n2_f2__Q04]]
 
 
 
@@ -182,11 +175,9 @@ level: OBM Nível 2
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 
-[[Quesiti/src_obm_2005_n2_f2#q05|src_obm_2005_n2_f2__Q05]]
 
 
-
-<span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_aritmetica,topic_algebra,method_casework,skill_manipolazione_algebrica,skill_modellizzazione,skill_lettura_attenta"></span>
+<span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_aritmetica,topic_algebra,method_casework,method_fattorizzazione,skill_manipolazione_algebrica,skill_modellizzazione,skill_lettura_attenta"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -198,9 +189,9 @@ level: OBM Nível 2
 > (Note: this is Parte B, Problema 1, worth 10 points each.)
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
-**Metodo:** [[method_casework|Casework]]
+**Metodo:** [[method_casework|Casework]], [[method_fattorizzazione|Factorisation / algebraic manipulation]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]], [[skill_lettura_attenta|Lettura attenta]]
-**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Algebra e Analisi|Algebra and analysis]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1VdFN5q0gijqkii9miw8ameJ6ubvEtjNX/view)
 
 
@@ -213,12 +204,11 @@ level: OBM Nível 2
 >
 > (Nota: questa è la Parte B, Problema 1, da 10 punti ciascuno.)
 
+
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
-**Metodo:** [[method_casework|Casework]]
+**Metodo:** [[method_casework|Casework]], [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
-
-[[Quesiti/src_obm_2005_n2_f2#q06|src_obm_2005_n2_f2__Q06]]
 
 
 
@@ -231,7 +221,7 @@ level: OBM Nível 2
 
 > A right triangle is cut from a square piece of cardboard. The sum of the lengths of the two legs of the cut triangle equals the side length of the square. Find the value of the sum of the angles $\alpha + \beta$ marked in the figure, where the triangle has a $27^\circ$ angle and $\alpha$, $\beta$ are angles formed between the sides of the triangle and the sides of the remaining cardboard.
 
-![[src_obm_2005_n2_f2__q07.png]]
+![[src_obm_2005_n2_f2__Q07.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_simmetria|Simmetria]]
@@ -247,14 +237,12 @@ level: OBM Nível 2
 
 > Da un pezzo di cartone quadrato si taglia un triangolo rettangolo. La somma delle lunghezze dei due cateti del triangolo tagliato è uguale alla lunghezza del lato del quadrato. Determinare il valore della somma degli angoli $\alpha + \beta$ indicati nella figura, dove il triangolo ha un angolo $27^\circ$ e $\alpha$, $\beta$ sono gli angoli formati tra i lati del triangolo e i lati del cartone rimanente.
 
-![[src_obm_2005_n2_f2__q07.png]]
+![[src_obm_2005_n2_f2__Q07.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_simmetria|Simmetria]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Geometria]]
-
-[[Quesiti/src_obm_2005_n2_f2#q07|src_obm_2005_n2_f2__Q07]]
 
 
 
@@ -290,8 +278,6 @@ level: OBM Nível 2
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 
-[[Quesiti/src_obm_2005_n2_f2#q08|src_obm_2005_n2_f2__Q08]]
-
 
 
 <span class="atom-split" id="q09" data-atom="q09" data-title="Quesito 9" data-tags="topic_combinatoria,topic_logica,method_grafi,method_casework,method_invarianti,skill_conteggio_sistematico,skill_ragionamento_geometrico,skill_riconoscimento_pattern,skill_astrazione"></span>
@@ -307,7 +293,7 @@ level: OBM Nível 2
 > 
 > (b) Explain why it is not possible to do the same with all $10$ pieces formed using only the numbers $1$, $2$, $3$, and $4$.
 
-![[src_obm_2005_n2_f2__q09.png]]
+![[src_obm_2005_n2_f2__Q09.png]]
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_logica|Logica]]
 **Metodo:** [[method_grafi|Grafi]], [[method_casework|Casework]], [[method_invarianti|Invarianti]]
@@ -327,11 +313,9 @@ level: OBM Nível 2
 >
 > (b) Spiega perché non è possibile fare lo stesso con tutti i pezzi $10$ formati utilizzando soltanto i numeri $1$, $2$, $3$ e $4$.
 
-![[src_obm_2005_n2_f2__q09.png]]
+![[src_obm_2005_n2_f2__Q09.png]]
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_logica|Logica]]
 **Metodo:** [[method_grafi|Grafi]], [[method_casework|Casework]], [[method_invarianti|Invarianti]]
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_astrazione|Astrazione]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
-
-[[Quesiti/src_obm_2005_n2_f2#q09|src_obm_2005_n2_f2__Q09]]

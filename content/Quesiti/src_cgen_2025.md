@@ -10,7 +10,7 @@ level: Concours Général
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_geometria_analitica,topic_aritmetica,topic_algebra,method_coordinate,method_fattorizzazione,method_congruenze,method_telescoping,skill_ragionamento_geometrico,skill_manipolazione_algebrica,skill_astrazione,skill_lettura_attenta"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_geometria_analitica,topic_aritmetica,topic_algebra,topic_funzionali,method_coordinate,method_fattorizzazione,method_congruenze,method_telescoping,skill_ragionamento_geometrico,skill_manipolazione_algebrica,skill_astrazione,skill_lettura_attenta"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -73,10 +73,10 @@ level: Concours Général
 > 
 > 9. Let $A$ again be the point of coordinates $(3\,;\,9)$ and let $(A_n)$ be the recurrent sequence associated to $A$. For every natural integer $n$, one sets $t_n = \frac{h(A_n)}{2^n}$. Show that the sequence $(t_n)$ converges.
 
-**Topic:** [[topic_geometria_analitica|Geometria analitica]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+**Topic:** [[topic_geometria_analitica|Geometria analitica]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]], [[topic_funzionali|Functional equations / sequences]]
 **Metodo:** [[method_coordinate|Coordinate]], [[method_fattorizzazione|Fattorizzazione]], [[method_congruenze|Congruenze]], [[method_telescoping|Telescoping]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]], [[skill_lettura_attenta|Lettura attenta]]
-**Area:** [[Geometria]], [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
+**Area:** [[Geometria|Geometry]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Algebra e Analisi|Algebra and analysis]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1RJQcrE2LoxqUG0FX5qFL59QY5bS7h8dG/view)
 
 
@@ -123,11 +123,14 @@ level: Concours Général
 > 
 > 9. Let $A$ essere nuovamente il punto delle coordinate $(3\,;\,9)$ e let $(A_n)$ essere la sequenza ricorrente associata a $A$. Per ogni intero naturale $n$, un insieme $t_n = \frac{h(A_n)}{2^n}$. Indicare che la sequenza $(t_n)$ converge.
 
-[[Quesiti/src_cgen_2025#q01|src_cgen_2025__Q01]]
+**Topic:** [[topic_geometria_analitica|Geometria analitica]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]], [[topic_funzionali|Equazioni funzionali / successioni]]
+**Metodo:** [[method_coordinate|Metodo delle coordinate]], [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]], [[method_congruenze|Aritmetica modulare / congruenze]], [[method_telescoping|Somme telescopiche]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione / generalizzazione]], [[skill_lettura_attenta|Lettura attenta del testo]]
+**Area:** [[Geometria]], [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 
 
 
-<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_algebra,topic_disuguaglianze,topic_insiemi_funzioni,method_ricorsione,method_disuguaglianze,method_induzione,method_estremalita,skill_manipolazione_algebrica,skill_casework_accurato,skill_astrazione,skill_lettura_attenta"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_algebra,topic_disuguaglianze,topic_insiemi_funzioni,topic_funzionali,method_ricorsione,method_disuguaglianze,method_induzione,method_estremalita,method_casework,skill_manipolazione_algebrica,skill_casework_accurato,skill_astrazione,skill_lettura_attenta"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -191,10 +194,10 @@ level: Concours Général
 > 
 > 9. Which are the reals $\alpha$ that verify the property $\mathscr{B}$?
 
-**Topic:** [[topic_algebra|Algebra]], [[topic_disuguaglianze|Disuguaglianze]], [[topic_insiemi_funzioni|Insiemi e funzioni]]
-**Metodo:** [[method_ricorsione|Ricorsione]], [[method_disuguaglianze|Disuguaglianze]], [[method_induzione|Induzione]], [[method_estremalita|Estremalità]]
+**Topic:** [[topic_algebra|Algebra]], [[topic_disuguaglianze|Disuguaglianze]], [[topic_insiemi_funzioni|Insiemi e funzioni]], [[topic_funzionali|Functional equations / sequences]]
+**Metodo:** [[method_ricorsione|Ricorsione]], [[method_disuguaglianze|Disuguaglianze]], [[method_induzione|Induzione]], [[method_estremalita|Estremalità]], [[method_casework|Case analysis]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Casework accurato]], [[skill_astrazione|Astrazione]], [[skill_lettura_attenta|Lettura attenta]]
-**Area:** [[Algebra e Analisi]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1RJQcrE2LoxqUG0FX5qFL59QY5bS7h8dG/view)
 
 
@@ -229,14 +232,14 @@ level: Concours Général
 > 
 > 9. Quali sono i reals $\alpha$ che verificano la proprietà $\mathscr{B}$?
 
-[[Quesiti/src_cgen_2025#q02|src_cgen_2025__Q02]]
+**Topic:** [[topic_algebra|Algebra]], [[topic_disuguaglianze|Disuguaglianze]], [[topic_insiemi_funzioni|Insiemi e funzioni]], [[topic_funzionali|Equazioni funzionali / successioni]]
+**Metodo:** [[method_ricorsione|Ricorsione]], [[method_disuguaglianze|Disuguaglianze classiche]], [[method_induzione|Induzione]], [[method_estremalita|Principio di estremalita]], [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Casework accurato]], [[skill_astrazione|Astrazione / generalizzazione]], [[skill_lettura_attenta|Lettura attenta del testo]]
+**Area:** [[Algebra e Analisi]]
 
 
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_funzionali,topic_insiemi_funzioni,method_simmetria,method_ricorsione,skill_astrazione,skill_manipolazione_algebrica,skill_riconoscimento_pattern"></span>
-
-<div class="qlang-switch" data-default="en"></div>
-
 
 *Functional equation f(x+1)=1/2+sqrt(f(x)-f(x)^2): exhibit a continuous solution, prove every solution is periodic, and produce infinitely many continuous solutions with f(0)=1/2.*
 
@@ -260,8 +263,20 @@ level: Concours Général
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1RJQcrE2LoxqUG0FX5qFL59QY5bS7h8dG/view)
 
 
-<div class="qlang-split" data-lang="it"></div>
 
+<span class="atom-split" id="q03__it" data-atom="q03__it" data-title="Q03__IT" data-tags=""></span>
+
+---
+tipo: quesito-translation
+translation_of: src_cgen_2025__Q03
+lang: it
+secondary: true
+title: "Concours Général des Lycées 2025  Matematica  Quesito 3"
+summary: "Equazione funzionale f(x+1)=1/2+sqrt(f(x)-f(x)^2): esprimere una soluzione continua, dimostrare che ogni soluzione è periodica, e produrre infinite soluzioni continue con f(0)=1/2."
+topics: [topic_funzionali, topic_insiemi_funzioni]
+methods: [method_simmetria, method_ricorsione]
+skills: [skill_astrazione, skill_manipolazione_algebrica, skill_riconoscimento_pattern]
+tags: [kg/translation, topic/funzionali, topic/insiemi_funzioni]---
 
 *Equazione funzionale f(x+1)=1/2+sqrt(f(x)-f(x)^2): mostrare una soluzione continua, dimostrare che ogni soluzione è periodica, e produrre infinite soluzioni continue con f(0)=1/2.*
 
@@ -275,4 +290,8 @@ level: Concours Général
 > 
 > 3. Proporre un'infinità di funzioni continue $f$ che verificano $\mathscr{E}$ e che $f(0) = \frac{1}{2}$.
 
+**Topic:** [[topic_funzionali|Equazioni funzionali / successioni]], [[topic_insiemi_funzioni|Insiemi e funzioni]]
+**Metodo:** [[method_simmetria|Sfruttamento della simmetria]], [[method_ricorsione|Ricorsione]]
+**Abilita:** [[skill_astrazione|Astrazione / generalizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Algebra e Analisi]]
 [[Quesiti/src_cgen_2025#q03|src_cgen_2025__Q03]]

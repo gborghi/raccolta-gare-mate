@@ -46,8 +46,6 @@ level: OBM Nível 1
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 
-[[Quesiti/src_obm_2004_n1_f3#q01|src_obm_2004_n1_f3__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_combinatoria,method_casework,method_conteggio,method_simmetria,skill_conteggio_sistematico,skill_ragionamento_geometrico,skill_casework_accurato"></span>
@@ -59,7 +57,7 @@ level: OBM Nível 1
 
 > With four equilateral triangles of side $1$ it is possible to form a piece in the shape of an equilateral triangle of side $2$, as shown in the figure. The four small triangles making up the piece are colored in three possible colors: white, black, and gray. Two pieces are considered equal when one can be obtained from the other by rotation. How many different pieces can be formed under the given conditions?
 
-![[src_obm_2004_n1_f3__q02.png]]
+![[src_obm_2004_n1_f3__Q02.png]]
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]], [[method_simmetria|Simmetria]]
@@ -75,14 +73,12 @@ level: OBM Nível 1
 
 > Con quattro triangoli equilateri di lato $1$ è possibile formare un pezzo a forma di triangolo equilatero di lato $2$, come mostrato nella figura. I quattro piccoli triangoli che compongono il pezzo sono colorati con tre colori possibili: bianco, nero e grigio. Due pezzi si considerano uguali quando uno può essere ottenuto dall'altro mediante una rotazione. Quanti pezzi diversi si possono formare nelle condizioni date?
 
-![[src_obm_2004_n1_f3__q02.png]]
+![[src_obm_2004_n1_f3__Q02.png]]
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]], [[method_simmetria|Simmetria]]
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
-
-[[Quesiti/src_obm_2004_n1_f3#q02|src_obm_2004_n1_f3__Q02]]
 
 
 
@@ -122,11 +118,9 @@ level: OBM Nível 1
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 
-[[Quesiti/src_obm_2004_n1_f3#q03|src_obm_2004_n1_f3__Q03]]
 
 
-
-<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_combinatoria,topic_logica,method_invarianti,method_simmetria,method_casework,skill_ragionamento_geometrico,skill_astrazione,skill_modellizzazione"></span>
+<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_combinatoria,topic_logica,method_invarianti,method_simmetria,method_casework,skill_ragionamento_geometrico,skill_astrazione,skill_modellizzazione,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -141,12 +135,12 @@ level: OBM Nível 1
 > \item[(b)] $n = 2005$?
 > \end{enumerate}
 
-![[src_obm_2004_n1_f3__q04.png]]
+![[src_obm_2004_n1_f3__Q04.png]]
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_logica|Logica]]
 **Metodo:** [[method_invarianti|Invarianti]], [[method_simmetria|Simmetria]], [[method_casework|Casework]]
-**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_astrazione|Astrazione]], [[skill_modellizzazione|Modellizzazione]]
-**Area:** [[Combinatoria, Logica e Probabilita]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_astrazione|Astrazione]], [[skill_modellizzazione|Modellizzazione]], [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1R228CrSgz-4pDVGh_rR1ta6PyL78pr17/view)
 
 
@@ -162,14 +156,13 @@ level: OBM Nível 1
 > \item[(a)] $n = 2004$? \item[(b)] $n = 2005$?
 > \end{enumerate}
 
-![[src_obm_2004_n1_f3__q04.png]]
+![[src_obm_2004_n1_f3__Q04.png]]
+
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_logica|Logica]]
 **Metodo:** [[method_invarianti|Invarianti]], [[method_simmetria|Simmetria]], [[method_casework|Casework]]
-**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_astrazione|Astrazione]], [[skill_modellizzazione|Modellizzazione]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_astrazione|Astrazione]], [[skill_modellizzazione|Modellizzazione]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
-
-[[Quesiti/src_obm_2004_n1_f3#q04|src_obm_2004_n1_f3__Q04]]
 
 
 
@@ -186,7 +179,7 @@ level: OBM Nível 1
 > 
 > Is there a $13$-sided polygon with which it is possible to tile the entire plane using its copies without overlaps? If yes, exhibit such a polygon. If not, explain why not.
 
-![[src_obm_2004_n1_f3__q05.png]]
+![[src_obm_2004_n1_f3__Q05.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_casework|Casework]], [[method_simmetria|Simmetria]], [[method_invarianti|Invarianti]]
@@ -206,11 +199,9 @@ level: OBM Nível 1
 >
 > Esiste un poligono con $13$ lati con cui sia possibile tassellare l'intero piano utilizzando le sue copie senza sovrapposizioni? In caso affermativo, si mostri un tale poligono. In caso negativo, si spieghi perché no.
 
-![[src_obm_2004_n1_f3__q05.png]]
+![[src_obm_2004_n1_f3__Q05.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_casework|Casework]], [[method_simmetria|Simmetria]], [[method_invarianti|Invarianti]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]], [[skill_astrazione|Astrazione]]
 **Area:** [[Geometria]], [[Combinatoria, Logica e Probabilita]]
-
-[[Quesiti/src_obm_2004_n1_f3#q05|src_obm_2004_n1_f3__Q05]]

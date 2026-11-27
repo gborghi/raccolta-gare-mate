@@ -23,7 +23,7 @@ level: Semifinale Campionati Internazionali di Giochi Matematici
 > 
 > Quale era il numero di targa della macchina rossa?
 
-![[src_bocconi_semifinale_2012__q01.png]]
+![[src_bocconi_semifinale_2012__Q01.png]]
 
 **Topic:** [[topic_logica|Logica]]
 **Metodo:** [[method_simmetria|Simmetria]]
@@ -44,14 +44,12 @@ level: Semifinale Campionati Internazionali di Giochi Matematici
 >
 > What was the license plate number of the red car?
 
-![[src_bocconi_semifinale_2012__q01.png]]
+![[src_bocconi_semifinale_2012__Q01.png]]
 
 **Topic:** [[topic_logica|Logic, games, strategies]]
 **Metodo:** [[method_simmetria|Using symmetry]]
 **Abilita:** [[skill_lettura_attenta|Careful reading of the text]], [[skill_ragionamento_geometrico|Geometric reasoning]]
 **Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
-
-[[Quesiti/src_bocconi_semifinale_2012#q01|src_bocconi_semifinale_2012__Q01]]
 
 
 
@@ -68,7 +66,7 @@ level: Semifinale Campionati Internazionali di Giochi Matematici
 > 
 > Nota: ci sono due possibili soluzioni; basta che ne indichiate una.
 
-![[src_bocconi_semifinale_2012__q02.png]]
+![[src_bocconi_semifinale_2012__Q02.png]]
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]], [[topic_logica|Logica]]
 **Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]]
@@ -89,14 +87,12 @@ level: Semifinale Campionati Internazionali di Giochi Matematici
 >
 > Note: there are two possible solutions; you only need to indicate one of them.
 
-![[src_bocconi_semifinale_2012__q02.png]]
+![[src_bocconi_semifinale_2012__Q02.png]]
 
 **Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_combinatoria|Combinatorics]], [[topic_logica|Logic, games, strategies]]
 **Metodo:** [[method_casework|Case analysis]], [[method_conteggio|Combinatorial counting]]
 **Abilita:** [[skill_casework_accurato|Careful case analysis]], [[skill_riconoscimento_pattern|Pattern recognition]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
-
-[[Quesiti/src_bocconi_semifinale_2012#q02|src_bocconi_semifinale_2012__Q02]]
 
 
 
@@ -137,11 +133,9 @@ level: Semifinale Campionati Internazionali di Giochi Matematici
 **Abilita:** [[skill_lettura_attenta|Careful reading of the text]], [[skill_modellizzazione|Modelling / translating the text]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
-[[Quesiti/src_bocconi_semifinale_2012#q03|src_bocconi_semifinale_2012__Q03]]
 
 
-
-<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_combinatoria,topic_logica,topic_geometria_piana,method_conteggio,method_ricorsione,skill_ragionamento_geometrico,skill_conteggio_sistematico"></span>
+<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_combinatoria,topic_logica,topic_geometria_piana,method_conteggio,method_ricorsione,skill_ragionamento_geometrico,skill_conteggio_sistematico,skill_riconoscimento_pattern"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -154,11 +148,11 @@ level: Semifinale Campionati Internazionali di Giochi Matematici
 > 
 > Quante volte, allora, era passato a fianco della tribuna (indicata con un pallino nero in figura)?
 
-![[src_bocconi_semifinale_2012__q04.png]]
+![[src_bocconi_semifinale_2012__Q04.png]]
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_logica|Logica]], [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_conteggio|Conteggio]], [[method_ricorsione|Ricorsione]]
-**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 **Risposta:** 16
 **Fonte:** [apri PDF](https://drive.google.com/file/d/13Vmm4CQ0xmSiVQj4z_Lrn9wlIu_58b9h/view)
@@ -175,14 +169,13 @@ level: Semifinale Campionati Internazionali di Giochi Matematici
 >
 > So how many times had he passed alongside the grandstand (indicated by a black dot in the figure)?
 
-![[src_bocconi_semifinale_2012__q04.png]]
+![[src_bocconi_semifinale_2012__Q04.png]]
+
 
 **Topic:** [[topic_combinatoria|Combinatorics]], [[topic_logica|Logic, games, strategies]], [[topic_geometria_piana|Plane geometry]]
 **Metodo:** [[method_conteggio|Combinatorial counting]], [[method_ricorsione|Recursion]]
-**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_conteggio_sistematico|Systematic counting]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_conteggio_sistematico|Systematic counting]], [[skill_riconoscimento_pattern|Pattern recognition]]
 **Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Geometria|Geometry]]
-
-[[Quesiti/src_bocconi_semifinale_2012#q04|src_bocconi_semifinale_2012__Q04]]
 
 
 
@@ -223,11 +216,9 @@ level: Semifinale Campionati Internazionali di Giochi Matematici
 **Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
 **Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
-[[Quesiti/src_bocconi_semifinale_2012#q05|src_bocconi_semifinale_2012__Q05]]
 
 
-
-<span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_combinatoria,topic_logica,method_estremalita,method_casework,skill_conteggio_sistematico,skill_casework_accurato"></span>
+<span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_combinatoria,topic_logica,method_estremalita,method_casework,method_doppio_conteggio,skill_conteggio_sistematico,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -240,10 +231,10 @@ level: Semifinale Campionati Internazionali di Giochi Matematici
 > 
 > Qual è il numero minimo di uova complessivamente depositate perché ciascuna delle otto cassette abbia almeno un uovo e ciascun lato del pollaio contenga esattamente 10 uova?
 
-![[src_bocconi_semifinale_2012__q06.png]]
+![[src_bocconi_semifinale_2012__Q06.png]]
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_logica|Logica]]
-**Metodo:** [[method_estremalita|Estremalità]], [[method_casework|Casework]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_casework|Casework]], [[method_doppio_conteggio|Doppio conteggio]]
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 22
@@ -261,18 +252,17 @@ level: Semifinale Campionati Internazionali di Giochi Matematici
 >
 > What is the minimum total number of eggs laid so that each of the eight boxes has at least one egg and each side of the henhouse contains exactly 10 eggs?
 
-![[src_bocconi_semifinale_2012__q06.png]]
+![[src_bocconi_semifinale_2012__Q06.png]]
+
 
 **Topic:** [[topic_combinatoria|Combinatorics]], [[topic_logica|Logic, games, strategies]]
-**Metodo:** [[method_estremalita|Extremal principle]], [[method_casework|Case analysis]]
+**Metodo:** [[method_estremalita|Extremal principle]], [[method_casework|Case analysis]], [[method_doppio_conteggio|Double counting]]
 **Abilita:** [[skill_conteggio_sistematico|Systematic counting]], [[skill_casework_accurato|Careful case analysis]]
 **Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
-[[Quesiti/src_bocconi_semifinale_2012#q06|src_bocconi_semifinale_2012__Q06]]
 
 
-
-<span class="atom-split" id="q07" data-atom="q07" data-title="Quesito 7" data-tags="topic_combinatoria,method_estremalita,method_colorazione,method_casework,skill_conteggio_sistematico,skill_ragionamento_geometrico"></span>
+<span class="atom-split" id="q07" data-atom="q07" data-title="Quesito 7" data-tags="topic_combinatoria,method_estremalita,method_colorazione,method_casework,skill_conteggio_sistematico,skill_ragionamento_geometrico,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -285,11 +275,11 @@ level: Semifinale Campionati Internazionali di Giochi Matematici
 > 
 > Quante, al massimo?
 
-![[src_bocconi_semifinale_2012__q07.png]]
+![[src_bocconi_semifinale_2012__Q07.png]]
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_estremalita|Estremalità]], [[method_colorazione|Colorazione]], [[method_casework|Casework]]
-**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 15
 **Fonte:** [apri PDF](https://drive.google.com/file/d/13Vmm4CQ0xmSiVQj4z_Lrn9wlIu_58b9h/view)
@@ -306,18 +296,17 @@ level: Semifinale Campionati Internazionali di Giochi Matematici
 >
 > What's the maximum number?
 
-![[src_bocconi_semifinale_2012__q07.png]]
+![[src_bocconi_semifinale_2012__Q07.png]]
+
 
 **Topic:** [[topic_combinatoria|Combinatorics]]
 **Metodo:** [[method_estremalita|Extremal principle]], [[method_colorazione|Colouring / parity]], [[method_casework|Case analysis]]
-**Abilita:** [[skill_conteggio_sistematico|Systematic counting]], [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]], [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_casework_accurato|Careful case analysis]]
 **Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
-[[Quesiti/src_bocconi_semifinale_2012#q07|src_bocconi_semifinale_2012__Q07]]
 
 
-
-<span class="atom-split" id="q08" data-atom="q08" data-title="Quesito 8" data-tags="topic_aritmetica,topic_combinatoria,method_estremalita,method_casework,skill_stima,skill_conteggio_sistematico"></span>
+<span class="atom-split" id="q08" data-atom="q08" data-title="Quesito 8" data-tags="topic_aritmetica,topic_combinatoria,method_estremalita,method_casework,method_congruenze,skill_stima,skill_conteggio_sistematico,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -331,8 +320,8 @@ level: Semifinale Campionati Internazionali di Giochi Matematici
 > Dopo averla accesa, quante volte Luca ha schiacciato al minimo i tasti della calcolatrice del papà (quelli che funzionano) per vedere poi scritto 2012?
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
-**Metodo:** [[method_estremalita|Estremalità]], [[method_casework|Casework]]
-**Abilita:** [[skill_stima|Stima]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_casework|Casework]], [[method_congruenze|Aritmetica modulare / congruenze]]
+**Abilita:** [[skill_stima|Stima]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 16
 **Fonte:** [apri PDF](https://drive.google.com/file/d/13Vmm4CQ0xmSiVQj4z_Lrn9wlIu_58b9h/view)
@@ -349,16 +338,15 @@ level: Semifinale Campionati Internazionali di Giochi Matematici
 >
 > After turning it on, how many times at minimum did Luca press the keys on his dad's calculator (the ones that work) to then see 2012 displayed?
 
+
 **Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_combinatoria|Combinatorics]]
-**Metodo:** [[method_estremalita|Extremal principle]], [[method_casework|Case analysis]]
-**Abilita:** [[skill_stima|Estimation and approximation]], [[skill_conteggio_sistematico|Systematic counting]]
+**Metodo:** [[method_estremalita|Extremal principle]], [[method_casework|Case analysis]], [[method_congruenze|Modular arithmetic / congruences]]
+**Abilita:** [[skill_stima|Estimation and approximation]], [[skill_conteggio_sistematico|Systematic counting]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
-[[Quesiti/src_bocconi_semifinale_2012#q08|src_bocconi_semifinale_2012__Q08]]
 
 
-
-<span class="atom-split" id="q09" data-atom="q09" data-title="Quesito 9" data-tags="topic_algebra,topic_aritmetica,topic_logica,method_casework,skill_manipolazione_algebrica,skill_casework_accurato"></span>
+<span class="atom-split" id="q09" data-atom="q09" data-title="Quesito 9" data-tags="topic_algebra,topic_aritmetica,topic_logica,method_casework,method_doppio_conteggio,skill_manipolazione_algebrica,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -371,10 +359,10 @@ level: Semifinale Campionati Internazionali di Giochi Matematici
 > 
 > Trovate quella della terza riga.
 
-![[src_bocconi_semifinale_2012__q09.png]]
+![[src_bocconi_semifinale_2012__Q09.png]]
 
 **Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_logica|Logica]]
-**Metodo:** [[method_casework|Casework]]
+**Metodo:** [[method_casework|Casework]], [[method_doppio_conteggio|Doppio conteggio]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 11
@@ -392,18 +380,17 @@ level: Semifinale Campionati Internazionali di Giochi Matematici
 >
 > Find the sum for the third row.
 
-![[src_bocconi_semifinale_2012__q09.png]]
+![[src_bocconi_semifinale_2012__Q09.png]]
+
 
 **Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Arithmetic / Number theory]], [[topic_logica|Logic, games, strategies]]
-**Metodo:** [[method_casework|Case analysis]]
+**Metodo:** [[method_casework|Case analysis]], [[method_doppio_conteggio|Double counting]]
 **Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_casework_accurato|Careful case analysis]]
 **Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
-[[Quesiti/src_bocconi_semifinale_2012#q09|src_bocconi_semifinale_2012__Q09]]
 
 
-
-<span class="atom-split" id="q10" data-atom="q10" data-title="Quesito 10" data-tags="topic_logica,topic_aritmetica,method_casework,skill_casework_accurato,skill_riconoscimento_pattern"></span>
+<span class="atom-split" id="q10" data-atom="q10" data-title="Quesito 10" data-tags="topic_logica,topic_aritmetica,method_casework,skill_casework_accurato,skill_riconoscimento_pattern,skill_lettura_attenta"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -420,7 +407,7 @@ level: Semifinale Campionati Internazionali di Giochi Matematici
 
 **Topic:** [[topic_logica|Logica]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_casework|Casework]]
-**Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_lettura_attenta|Lettura attenta del testo]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** Due soluzioni: "15 numeri … 4 multipli di 5" e "15 numeri … 5 multipli di 5".
 **Fonte:** [apri PDF](https://drive.google.com/file/d/13Vmm4CQ0xmSiVQj4z_Lrn9wlIu_58b9h/view)
@@ -439,12 +426,11 @@ level: Semifinale Campionati Internazionali di Giochi Matematici
 >
 > Complete the box (by writing the missing numbers in digits) so that the statement is true.
 
+
 **Topic:** [[topic_logica|Logic, games, strategies]], [[topic_aritmetica|Arithmetic / Number theory]]
 **Metodo:** [[method_casework|Case analysis]]
-**Abilita:** [[skill_casework_accurato|Careful case analysis]], [[skill_riconoscimento_pattern|Pattern recognition]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]], [[skill_riconoscimento_pattern|Pattern recognition]], [[skill_lettura_attenta|Careful reading of the text]]
 **Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
-
-[[Quesiti/src_bocconi_semifinale_2012#q10|src_bocconi_semifinale_2012__Q10]]
 
 
 
@@ -461,7 +447,7 @@ level: Semifinale Campionati Internazionali di Giochi Matematici
 > 
 > Qual è l'ultimo numero (che indicherete con le ordinarie cifre decimali) che Milena è riuscita a scrivere completamente?
 
-![[src_bocconi_semifinale_2012__q11.png]]
+![[src_bocconi_semifinale_2012__Q11.png]]
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_conteggio|Conteggio]], [[method_casework|Casework]]
@@ -482,18 +468,16 @@ level: Semifinale Campionati Internazionali di Giochi Matematici
 >
 > What is the last number (which you will indicate using ordinary decimal digits) that Milena managed to write in full?
 
-![[src_bocconi_semifinale_2012__q11.png]]
+![[src_bocconi_semifinale_2012__Q11.png]]
 
 **Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_combinatoria|Combinatorics]]
 **Metodo:** [[method_conteggio|Combinatorial counting]], [[method_casework|Case analysis]]
 **Abilita:** [[skill_conteggio_sistematico|Systematic counting]], [[skill_lettura_attenta|Careful reading of the text]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
-[[Quesiti/src_bocconi_semifinale_2012#q11|src_bocconi_semifinale_2012__Q11]]
 
 
-
-<span class="atom-split" id="q12" data-atom="q12" data-title="Quesito 12" data-tags="topic_aritmetica,topic_combinatoria,topic_logica,method_casework,method_estremalita,skill_casework_accurato,skill_conteggio_sistematico"></span>
+<span class="atom-split" id="q12" data-atom="q12" data-title="Quesito 12" data-tags="topic_aritmetica,topic_combinatoria,topic_logica,method_casework,method_estremalita,method_doppio_conteggio,skill_casework_accurato,skill_conteggio_sistematico,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -506,11 +490,11 @@ level: Semifinale Campionati Internazionali di Giochi Matematici
 > 
 > Quali sono i numeri della prima riga?
 
-![[src_bocconi_semifinale_2012__q12.png]]
+![[src_bocconi_semifinale_2012__Q12.png]]
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]], [[topic_logica|Logica]]
-**Metodo:** [[method_casework|Casework]], [[method_estremalita|Estremalità]]
-**Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Metodo:** [[method_casework|Casework]], [[method_estremalita|Estremalità]], [[method_doppio_conteggio|Doppio conteggio]]
+**Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** Due soluzioni: $1 - 7 - 8$ e $2 - 6 - 9$.
 **Fonte:** [apri PDF](https://drive.google.com/file/d/13Vmm4CQ0xmSiVQj4z_Lrn9wlIu_58b9h/view)
@@ -527,18 +511,17 @@ level: Semifinale Campionati Internazionali di Giochi Matematici
 >
 > What are the numbers in the first row?
 
-![[src_bocconi_semifinale_2012__q12.png]]
+![[src_bocconi_semifinale_2012__Q12.png]]
+
 
 **Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_combinatoria|Combinatorics]], [[topic_logica|Logic, games, strategies]]
-**Metodo:** [[method_casework|Case analysis]], [[method_estremalita|Extremal principle]]
-**Abilita:** [[skill_casework_accurato|Careful case analysis]], [[skill_conteggio_sistematico|Systematic counting]]
+**Metodo:** [[method_casework|Case analysis]], [[method_estremalita|Extremal principle]], [[method_doppio_conteggio|Double counting]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]], [[skill_conteggio_sistematico|Systematic counting]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
-[[Quesiti/src_bocconi_semifinale_2012#q12|src_bocconi_semifinale_2012__Q12]]
 
 
-
-<span class="atom-split" id="q13" data-atom="q13" data-title="Quesito 13" data-tags="topic_geometria_piana,method_coordinate,method_estremalita,skill_ragionamento_geometrico,skill_stima"></span>
+<span class="atom-split" id="q13" data-atom="q13" data-title="Quesito 13" data-tags="topic_geometria_piana,topic_aritmetica,method_coordinate,method_estremalita,skill_ragionamento_geometrico,skill_stima,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -551,12 +534,12 @@ level: Semifinale Campionati Internazionali di Giochi Matematici
 > 
 > Qual è al minimo la superficie del quadrato (in cm$^2$)?
 
-![[src_bocconi_semifinale_2012__q13.png]]
+![[src_bocconi_semifinale_2012__Q13.png]]
 
-**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_coordinate|Coordinate]], [[method_estremalita|Estremalità]]
-**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_stima|Stima]]
-**Area:** [[Geometria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_stima|Stima]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 20
 **Fonte:** [apri PDF](https://drive.google.com/file/d/13Vmm4CQ0xmSiVQj4z_Lrn9wlIu_58b9h/view)
 
@@ -572,14 +555,13 @@ level: Semifinale Campionati Internazionali di Giochi Matematici
 >
 > What is the minimum area of the square (in cm$^2$)?
 
-![[src_bocconi_semifinale_2012__q13.png]]
+![[src_bocconi_semifinale_2012__Q13.png]]
 
-**Topic:** [[topic_geometria_piana|Plane geometry]]
+
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_aritmetica|Arithmetic / Number theory]]
 **Metodo:** [[method_coordinate|Coordinate method]], [[method_estremalita|Extremal principle]]
-**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_stima|Estimation and approximation]]
-**Area:** [[Geometria|Geometry]]
-
-[[Quesiti/src_bocconi_semifinale_2012#q13|src_bocconi_semifinale_2012__Q13]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_stima|Estimation and approximation]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Geometria|Geometry]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
 
 
@@ -620,11 +602,9 @@ level: Semifinale Campionati Internazionali di Giochi Matematici
 **Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_stima|Estimation and approximation]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
-[[Quesiti/src_bocconi_semifinale_2012#q14|src_bocconi_semifinale_2012__Q14]]
 
 
-
-<span class="atom-split" id="q15" data-atom="q15" data-title="Quesito 15" data-tags="topic_combinatoria,topic_logica,method_estremalita,method_casework,method_grafi,skill_conteggio_sistematico,skill_ragionamento_geometrico"></span>
+<span class="atom-split" id="q15" data-atom="q15" data-title="Quesito 15" data-tags="topic_combinatoria,topic_logica,method_estremalita,method_casework,method_grafi,method_invarianti,skill_conteggio_sistematico,skill_ragionamento_geometrico"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -637,10 +617,10 @@ level: Semifinale Campionati Internazionali di Giochi Matematici
 > 
 > Quanto vale al massimo questo numero?
 
-![[src_bocconi_semifinale_2012__q15.png]]
+![[src_bocconi_semifinale_2012__Q15.png]]
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_logica|Logica]]
-**Metodo:** [[method_estremalita|Estremalità]], [[method_casework|Casework]], [[method_grafi|Grafi]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_casework|Casework]], [[method_grafi|Grafi]], [[method_invarianti|Invarianti / monovarianti]]
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 10
@@ -658,18 +638,17 @@ level: Semifinale Campionati Internazionali di Giochi Matematici
 >
 > What is the maximum possible value of this number?
 
-![[src_bocconi_semifinale_2012__q15.png]]
+![[src_bocconi_semifinale_2012__Q15.png]]
+
 
 **Topic:** [[topic_combinatoria|Combinatorics]], [[topic_logica|Logic, games, strategies]]
-**Metodo:** [[method_estremalita|Extremal principle]], [[method_casework|Case analysis]], [[method_grafi|Graph theory]]
+**Metodo:** [[method_estremalita|Extremal principle]], [[method_casework|Case analysis]], [[method_grafi|Graph theory]], [[method_invarianti|Invariants / monovariants]]
 **Abilita:** [[skill_conteggio_sistematico|Systematic counting]], [[skill_ragionamento_geometrico|Geometric reasoning]]
 **Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
-[[Quesiti/src_bocconi_semifinale_2012#q15|src_bocconi_semifinale_2012__Q15]]
 
 
-
-<span class="atom-split" id="q16" data-atom="q16" data-title="Quesito 16" data-tags="topic_geometria_piana,topic_trigonometria,method_trigonometria,method_coordinate,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
+<span class="atom-split" id="q16" data-atom="q16" data-title="Quesito 16" data-tags="topic_geometria_piana,topic_trigonometria,method_trigonometria,method_coordinate,method_simmetria,skill_ragionamento_geometrico,skill_manipolazione_algebrica,skill_stima"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -684,11 +663,11 @@ level: Semifinale Campionati Internazionali di Giochi Matematici
 > 
 > Nota: se necessario, per scrivere il risultato finale si prenderà $1{,}414$ per $\sqrt{2}$ ; $1{,}732$ per $\sqrt{3}$ ; $2{,}236$ per $\sqrt{5}$.
 
-![[src_bocconi_semifinale_2012__q16.png]]
+![[src_bocconi_semifinale_2012__Q16.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometria]]
-**Metodo:** [[method_trigonometria|Trigonometria]], [[method_coordinate|Coordinate]]
-**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Metodo:** [[method_trigonometria|Trigonometria]], [[method_coordinate|Coordinate]], [[method_simmetria|Sfruttamento della simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima e approssimazione]]
 **Area:** [[Geometria]]
 **Risposta:** 505
 **Fonte:** [apri PDF](https://drive.google.com/file/d/13Vmm4CQ0xmSiVQj4z_Lrn9wlIu_58b9h/view)
@@ -707,18 +686,17 @@ level: Semifinale Campionati Internazionali di Giochi Matematici
 >
 > Note: if necessary, to write the final result, $1{,}414$ will be used for $\sqrt{2}$; $1{,}732$ for $\sqrt{3}$; $2{,}236$ for $\sqrt{5}$.
 
-![[src_bocconi_semifinale_2012__q16.png]]
+![[src_bocconi_semifinale_2012__Q16.png]]
+
 
 **Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_trigonometria|Trigonometric techniques]]
-**Metodo:** [[method_trigonometria|Trigonometric techniques]], [[method_coordinate|Coordinate method]]
-**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Metodo:** [[method_trigonometria|Trigonometric techniques]], [[method_coordinate|Coordinate method]], [[method_simmetria|Using symmetry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_stima|Estimation and approximation]]
 **Area:** [[Geometria|Geometry]]
 
-[[Quesiti/src_bocconi_semifinale_2012#q16|src_bocconi_semifinale_2012__Q16]]
 
 
-
-<span class="atom-split" id="q17" data-atom="q17" data-title="Quesito 17" data-tags="topic_combinatoria,topic_aritmetica,topic_logica,method_ricorsione,method_conteggio,method_casework,skill_conteggio_sistematico,skill_riconoscimento_pattern"></span>
+<span class="atom-split" id="q17" data-atom="q17" data-title="Quesito 17" data-tags="topic_combinatoria,topic_aritmetica,topic_logica,method_ricorsione,method_conteggio,method_casework,method_congruenze,skill_conteggio_sistematico,skill_riconoscimento_pattern"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -731,10 +709,10 @@ level: Semifinale Campionati Internazionali di Giochi Matematici
 > 
 > Per N=2012, qual è la carta eliminata subito dopo quella che ha il numero 2012? (Rispondete 0 se pensate che la carta 2012 sia quella che rimane alla fine del gioco).
 
-![[src_bocconi_semifinale_2012__q17.png]]
+![[src_bocconi_semifinale_2012__Q17.png]]
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_logica|Logica]]
-**Metodo:** [[method_ricorsione|Ricorsione]], [[method_conteggio|Conteggio]], [[method_casework|Casework]]
+**Metodo:** [[method_ricorsione|Ricorsione]], [[method_conteggio|Conteggio]], [[method_casework|Casework]], [[method_congruenze|Aritmetica modulare / congruenze]]
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 14
@@ -752,11 +730,10 @@ level: Semifinale Campionati Internazionali di Giochi Matematici
 >
 > For N = 2012, which card is removed immediately after the one numbered 2012? (Answer 0 if you think that card 2012 is the one left at the end of the game.)
 
-![[src_bocconi_semifinale_2012__q17.png]]
+![[src_bocconi_semifinale_2012__Q17.png]]
+
 
 **Topic:** [[topic_combinatoria|Combinatorics]], [[topic_aritmetica|Arithmetic / Number theory]], [[topic_logica|Logic, games, strategies]]
-**Metodo:** [[method_ricorsione|Recursion]], [[method_conteggio|Combinatorial counting]], [[method_casework|Case analysis]]
+**Metodo:** [[method_ricorsione|Recursion]], [[method_conteggio|Combinatorial counting]], [[method_casework|Case analysis]], [[method_congruenze|Modular arithmetic / congruences]]
 **Abilita:** [[skill_conteggio_sistematico|Systematic counting]], [[skill_riconoscimento_pattern|Pattern recognition]]
 **Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
-
-[[Quesiti/src_bocconi_semifinale_2012#q17|src_bocconi_semifinale_2012__Q17]]

@@ -10,7 +10,7 @@ level: Olimpiade Polacca Round 1
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_algebra,method_simmetria,method_casework,skill_manipolazione_algebrica"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_algebra,method_simmetria,method_casework,method_fattorizzazione,skill_manipolazione_algebrica,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -21,9 +21,9 @@ level: Olimpiade Polacca Round 1
 > $$\begin{cases} x^3 = 5y^3 - 4z \\ y^3 = 5z^3 - 4x \\ z^3 = 5x^3 - 4y \end{cases}$$
 
 **Topic:** [[topic_algebra|Algebra]]
-**Metodo:** [[method_simmetria|Simmetria]], [[method_casework|Casework]]
-**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
-**Area:** [[Algebra e Analisi]]
+**Metodo:** [[method_simmetria|Simmetria]], [[method_casework|Casework]], [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1NcqpT7NgALFbu6hjQlDwKC6rvg-wYI3W/view)
 
 
@@ -36,11 +36,11 @@ level: Olimpiade Polacca Round 1
 >
 > $$\begin{cases} x^3 = 5y^3 - 4z \\ y^3 = 5z^3 - 4x \\ z^3 = 5x^3 - 4y \end{cases}$$
 
-**Topic:** [[topic_algebra|Algebra]]
-**Metodo:** [[method_simmetria|Simmetria]], [[method_casework|Analisi per casi]]
-**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 
-[[Quesiti/src_pol_2008_r1#q01|src_pol_2008_r1__Q01]]
+**Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_simmetria|Simmetria]], [[method_casework|Analisi per casi]], [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Algebra e Analisi]]
 
 
 
@@ -70,12 +70,11 @@ level: Olimpiade Polacca Round 1
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_estremalita|Estremalità]], [[method_simmetria|Simmetria]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
-
-[[Quesiti/src_pol_2008_r1#q02|src_pol_2008_r1__Q02]]
-
+**Area:** [[Geometria]]
 
 
-<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_aritmetica,method_congruenze,method_ricorsione,method_induzione,skill_riconoscimento_pattern"></span>
+
+<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_aritmetica,topic_funzionali,method_congruenze,method_ricorsione,method_induzione,skill_riconoscimento_pattern,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -86,10 +85,10 @@ level: Olimpiade Polacca Round 1
 > $$a_n = 3a_{n-1} + 5a_{n-2} \quad \text{for } n = 3, 4, 5, \ldots .$$
 > Does there exist an integer $k \ge 2$ for which $k$ divides $a_n$ for all $n = 1, 2, \ldots$?
 
-**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_funzionali|Functional equations / sequences]]
 **Metodo:** [[method_congruenze|Congruenze]], [[method_ricorsione|Ricorsione]], [[method_induzione|Induzione]]
-**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
-**Area:** [[Aritmetica e Teoria dei Numeri]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Algebra e Analisi|Algebra and analysis]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1NcqpT7NgALFbu6hjQlDwKC6rvg-wYI3W/view)
 
 
@@ -104,11 +103,11 @@ level: Olimpiade Polacca Round 1
 >
 > Esiste un intero $k \ge 2$ per cui $k$ divide $a_n$ per ogni $n = 1, 2, \ldots$?
 
-**Topic:** [[topic_aritmetica|Aritmetica e teoria dei numeri]]
-**Metodo:** [[method_congruenze|Congruenze]], [[method_ricorsione|Ricorsione]], [[method_induzione|Induzione]]
-**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di schemi]]
 
-[[Quesiti/src_pol_2008_r1#q03|src_pol_2008_r1__Q03]]
+**Topic:** [[topic_aritmetica|Aritmetica e teoria dei numeri]], [[topic_funzionali|Equazioni funzionali / successioni]]
+**Metodo:** [[method_congruenze|Congruenze]], [[method_ricorsione|Ricorsione]], [[method_induzione|Induzione]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di schemi]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 
 
 
@@ -138,12 +137,11 @@ level: Olimpiade Polacca Round 1
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_doppio_conteggio|Doppio conteggio]], [[method_conteggio|Conteggio]], [[method_simmetria|Simmetria]]
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
-
-[[Quesiti/src_pol_2008_r1#q04|src_pol_2008_r1__Q04]]
-
+**Area:** [[Combinatoria, Logica e Probabilita]]
 
 
-<span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_aritmetica,method_fattorizzazione,method_congruenze,method_casework,skill_manipolazione_algebrica"></span>
+
+<span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_aritmetica,topic_algebra,method_fattorizzazione,method_congruenze,method_casework,skill_manipolazione_algebrica,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -154,10 +152,10 @@ level: Olimpiade Polacca Round 1
 > $$pq + qr + rp \quad \text{and} \quad p^3 + q^3 + r^3 - 2pqr$$
 > are divisible by $p + q + r$.
 
-**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
 **Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_congruenze|Congruenze]], [[method_casework|Casework]]
-**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
-**Area:** [[Aritmetica e Teoria dei Numeri]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Algebra e Analisi|Algebra and analysis]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1NcqpT7NgALFbu6hjQlDwKC6rvg-wYI3W/view)
 
 
@@ -172,15 +170,15 @@ level: Olimpiade Polacca Round 1
 >
 > sono divisibili per $p + q + r$.
 
-**Topic:** [[topic_aritmetica|Aritmetica e teoria dei numeri]]
+
+**Topic:** [[topic_aritmetica|Aritmetica e teoria dei numeri]], [[topic_algebra|Algebra]]
 **Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_congruenze|Congruenze]], [[method_casework|Analisi per casi]]
-**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
-
-[[Quesiti/src_pol_2008_r1#q05|src_pol_2008_r1__Q05]]
-
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 
 
-<span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_algebra,method_fattorizzazione,skill_manipolazione_algebrica,skill_astrazione"></span>
+
+<span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_algebra,topic_funzionali,method_fattorizzazione,method_casework,skill_manipolazione_algebrica,skill_astrazione"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -189,10 +187,10 @@ level: Olimpiade Polacca Round 1
 
 > Find all polynomials $W(x)$ with real coefficients such that $W(x^2) W(x^3) = W(x)^5$ holds for every real number $x$.
 
-**Topic:** [[topic_algebra|Algebra]]
-**Metodo:** [[method_fattorizzazione|Fattorizzazione]]
+**Topic:** [[topic_algebra|Algebra]], [[topic_funzionali|Functional equations / sequences]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_casework|Case analysis]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]]
-**Area:** [[Algebra e Analisi]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1NcqpT7NgALFbu6hjQlDwKC6rvg-wYI3W/view)
 
 
@@ -203,15 +201,15 @@ level: Olimpiade Polacca Round 1
 
 > Trovare tutti i polinomi $W(x)$ a coefficienti reali tali che $W(x^2) W(x^3) = W(x)^5$ valga per ogni numero reale $x$.
 
-**Topic:** [[topic_algebra|Algebra]]
-**Metodo:** [[method_fattorizzazione|Fattorizzazione]]
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_funzionali|Equazioni funzionali / successioni]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_casework|Analisi per casi]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]]
-
-[[Quesiti/src_pol_2008_r1#q06|src_pol_2008_r1__Q06]]
-
+**Area:** [[Algebra e Analisi]]
 
 
-<span class="atom-split" id="q07" data-atom="q07" data-title="Quesito 7" data-tags="topic_combinatoria,topic_insiemi_funzioni,method_conteggio,method_casework,skill_conteggio_sistematico,skill_astrazione"></span>
+
+<span class="atom-split" id="q07" data-atom="q07" data-title="Quesito 7" data-tags="topic_combinatoria,topic_insiemi_funzioni,method_conteggio,method_casework,method_bigezione,method_induzione,skill_conteggio_sistematico,skill_astrazione"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -221,9 +219,9 @@ level: Olimpiade Polacca Round 1
 > In a set of $n$ people, $2^n - 1$ companies are formed (a company is a nonempty subset of the people). Each company should elect a leader, according to the following rule: If a company $C$ is the union $A \cup B$ of two companies $A$ and $B$, then the leader of $C$ is also the leader of at least one of the companies $A$ and $B$. Find the number of possible choices of leaders.
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_insiemi_funzioni|Insiemi e funzioni]]
-**Metodo:** [[method_conteggio|Conteggio]], [[method_casework|Casework]]
+**Metodo:** [[method_conteggio|Conteggio]], [[method_casework|Casework]], [[method_bigezione|Bijection / correspondence]], [[method_induzione|Induction]]
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_astrazione|Astrazione]]
-**Area:** [[Combinatoria, Logica e Probabilita]], [[Algebra e Analisi]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Algebra e Analisi|Algebra and analysis]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1NcqpT7NgALFbu6hjQlDwKC6rvg-wYI3W/view)
 
 
@@ -234,11 +232,11 @@ level: Olimpiade Polacca Round 1
 
 > In un insieme di $n$ persone si formano $2^n - 1$ compagnie: una compagnia è un sottoinsieme non vuoto delle persone. Ogni compagnia elegge un capo, con la regola seguente: se una compagnia $C$ è l'unione $A \cup B$ di due compagnie $A$ e $B$, allora il capo di $C$ è anche il capo di almeno una delle compagnie $A$ e $B$. Trovare il numero delle scelte possibili dei capi.
 
-**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_insiemi_funzioni|Insiemi e funzioni]]
-**Metodo:** [[method_conteggio|Conteggio]], [[method_casework|Analisi per casi]]
-**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_astrazione|Astrazione]]
 
-[[Quesiti/src_pol_2008_r1#q07|src_pol_2008_r1__Q07]]
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_insiemi_funzioni|Insiemi e funzioni]]
+**Metodo:** [[method_conteggio|Conteggio]], [[method_casework|Analisi per casi]], [[method_bigezione|Bigezione / corrispondenza]], [[method_induzione|Induzione]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_astrazione|Astrazione]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Algebra e Analisi]]
 
 
 
@@ -268,12 +266,11 @@ level: Olimpiade Polacca Round 1
 **Topic:** [[topic_geometria_solida|Geometria solida]], [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_simmetria|Simmetria]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
-
-[[Quesiti/src_pol_2008_r1#q08|src_pol_2008_r1__Q08]]
-
+**Area:** [[Geometria]]
 
 
-<span class="atom-split" id="q09" data-atom="q09" data-title="Quesito 9" data-tags="topic_disuguaglianze,method_disuguaglianze,method_estremalita,skill_stima,skill_manipolazione_algebrica"></span>
+
+<span class="atom-split" id="q09" data-atom="q09" data-title="Quesito 9" data-tags="topic_disuguaglianze,method_disuguaglianze,method_estremalita,method_fattorizzazione,skill_stima,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -283,9 +280,9 @@ level: Olimpiade Polacca Round 1
 > Determine the smallest number $a$ having the following property: For any real numbers $x, y, z \ge a$ satisfying $x + y + z = 3$, it holds that $x^3 + y^3 + z^3 \ge 3$.
 
 **Topic:** [[topic_disuguaglianze|Disuguaglianze]]
-**Metodo:** [[method_disuguaglianze|Disuguaglianze]], [[method_estremalita|Estremalità]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze]], [[method_estremalita|Estremalità]], [[method_fattorizzazione|Factorisation / algebraic manipulation]]
 **Abilita:** [[skill_stima|Stima]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
-**Area:** [[Algebra e Analisi]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1NcqpT7NgALFbu6hjQlDwKC6rvg-wYI3W/view)
 
 
@@ -296,15 +293,15 @@ level: Olimpiade Polacca Round 1
 
 > Determinare il minimo numero $a$ con la proprietà seguente: per tutti i numeri reali $x, y, z \ge a$ che soddisfano $x + y + z = 3$, vale $x^3 + y^3 + z^3 \ge 3$.
 
+
 **Topic:** [[topic_disuguaglianze|Disuguaglianze]]
-**Metodo:** [[method_disuguaglianze|Disuguaglianze]], [[method_estremalita|Estremalità]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze]], [[method_estremalita|Estremalità]], [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
 **Abilita:** [[skill_stima|Stima]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
-
-[[Quesiti/src_pol_2008_r1#q09|src_pol_2008_r1__Q09]]
-
+**Area:** [[Algebra e Analisi]]
 
 
-<span class="atom-split" id="q10" data-atom="q10" data-title="Quesito 10" data-tags="topic_aritmetica,method_ricorsione,method_invarianti,skill_riconoscimento_pattern,skill_stima"></span>
+
+<span class="atom-split" id="q10" data-atom="q10" data-title="Quesito 10" data-tags="topic_aritmetica,method_ricorsione,method_invarianti,skill_riconoscimento_pattern,skill_stima,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -317,8 +314,8 @@ level: Olimpiade Polacca Round 1
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_ricorsione|Ricorsione]], [[method_invarianti|Invarianti]]
-**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_stima|Stima]]
-**Area:** [[Aritmetica e Teoria dei Numeri]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_stima|Stima]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1NcqpT7NgALFbu6hjQlDwKC6rvg-wYI3W/view)
 
 
@@ -333,11 +330,11 @@ level: Olimpiade Polacca Round 1
 >
 > Dimostrare che in questa successione c'è un termine che è la $p$-esima potenza di un intero.
 
+
 **Topic:** [[topic_aritmetica|Aritmetica e teoria dei numeri]]
 **Metodo:** [[method_ricorsione|Ricorsione]], [[method_invarianti|Invarianti]]
-**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di schemi]], [[skill_stima|Stima]]
-
-[[Quesiti/src_pol_2008_r1#q10|src_pol_2008_r1__Q10]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di schemi]], [[skill_stima|Stima]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
 
 
 
@@ -373,12 +370,11 @@ level: Olimpiade Polacca Round 1
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_trigonometria|Trigonometria]], [[method_simmetria|Simmetria]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
-
-[[Quesiti/src_pol_2008_r1#q11|src_pol_2008_r1__Q11]]
-
+**Area:** [[Geometria]]
 
 
-<span class="atom-split" id="q12" data-atom="q12" data-title="Quesito 12" data-tags="topic_combinatoria,topic_aritmetica,method_colorazione,method_casework,method_estremalita,skill_conteggio_sistematico,skill_astrazione"></span>
+
+<span class="atom-split" id="q12" data-atom="q12" data-title="Quesito 12" data-tags="topic_combinatoria,topic_aritmetica,method_colorazione,method_casework,method_estremalita,skill_conteggio_sistematico,skill_astrazione,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -389,8 +385,8 @@ level: Olimpiade Polacca Round 1
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_colorazione|Colorazione]], [[method_casework|Casework]], [[method_estremalita|Estremalità]]
-**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_astrazione|Astrazione]]
-**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_astrazione|Astrazione]], [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1NcqpT7NgALFbu6hjQlDwKC6rvg-wYI3W/view)
 
 
@@ -401,8 +397,8 @@ level: Olimpiade Polacca Round 1
 
 > Sia dato un intero $m \ge 2$. Trovare il minimo intero $n \ge m$ con la proprietà seguente: per ogni partizione dell'insieme $\{m, m+1, \ldots, n\}$ in due sottoinsiemi, uno dei due contiene tre numeri $a, b, c$, non necessariamente distinti, con $ab = c$.
 
+
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica e teoria dei numeri]]
 **Metodo:** [[method_colorazione|Colorazione]], [[method_casework|Analisi per casi]], [[method_estremalita|Estremalità]]
-**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_astrazione|Astrazione]]
-
-[[Quesiti/src_pol_2008_r1#q12|src_pol_2008_r1__Q12]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_astrazione|Astrazione]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]

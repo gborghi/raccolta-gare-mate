@@ -45,7 +45,7 @@ level: JMO Honsen
 **Argomento:** [[topic_algebra|Algebra]], [[topic_disuguaglianze|Disuguaglianze]]
 **Metodo:** [[method_disuguaglianze|Disuguaglianze classiche]], [[method_estremalita|Principio di estremalità]], [[method_simmetria|Sfruttamento della simmetria]]
 **Abilità:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima e approssimazione]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
-[[Quesiti/src_jmo35hq_honsen#q01|src_jmo35hq_honsen__Q01]]
+**Area:** [[Algebra e Analisi]]
 
 
 
@@ -75,7 +75,7 @@ level: JMO Honsen
 **Argomento:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_coordinate|Metodo delle coordinate]], [[method_trigonometria|Tecniche trigonometriche]]
 **Abilità:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta del testo]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
-[[Quesiti/src_jmo35hq_honsen#q02|src_jmo35hq_honsen__Q02]]
+**Area:** [[Geometria]]
 
 
 
@@ -113,7 +113,7 @@ level: JMO Honsen
 **Argomento:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_casework|Analisi per casi]], [[method_conteggio|Conteggio combinatorio]], [[method_estremalita|Principio di estremalità]], [[method_cassetti|Principio dei cassetti]]
 **Abilità:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_riconoscimento_pattern|Riconoscimento di schemi]], [[skill_lettura_attenta|Lettura attenta del testo]]
-[[Quesiti/src_jmo35hq_honsen#q03|src_jmo35hq_honsen__Q03]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
 
 
 
@@ -151,7 +151,7 @@ level: JMO Honsen
 **Argomento:** [[topic_aritmetica|Aritmetica / Teoria dei numeri]]
 **Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]], [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]], [[method_casework|Analisi per casi]]
 **Abilità:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta del testo]]
-[[Quesiti/src_jmo35hq_honsen#q04|src_jmo35hq_honsen__Q04]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
 
 
 
@@ -201,4 +201,4 @@ level: JMO Honsen
 **Argomento:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_simmetria|Sfruttamento della simmetria]], [[method_coordinate|Metodo delle coordinate]], [[method_trigonometria|Tecniche trigonometriche]]
 **Abilità:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta del testo]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
-[[Quesiti/src_jmo35hq_honsen#q05|src_jmo35hq_honsen__Q05]]
+**Area:** [[Geometria]]

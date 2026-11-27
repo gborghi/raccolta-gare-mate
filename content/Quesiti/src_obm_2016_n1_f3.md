@@ -38,8 +38,6 @@ level: OBM Nível 1
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_astrazione|Astrazione]]
 **Area:** [[Geometria]]
 
-[[Quesiti/src_obm_2016_n1_f3#q01|src_obm_2016_n1_f3__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_combinatoria,topic_aritmetica,method_cassetti,method_congruenze,skill_conteggio_sistematico,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
@@ -70,11 +68,9 @@ level: OBM Nível 1
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 
-[[Quesiti/src_obm_2016_n1_f3#q02|src_obm_2016_n1_f3__Q02]]
 
 
-
-<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_combinatoria,topic_aritmetica,method_invarianti,method_induzione,method_casework,skill_lettura_attenta,skill_ragionamento_geometrico,skill_riconoscimento_pattern,skill_conteggio_sistematico"></span>
+<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_combinatoria,topic_aritmetica,topic_logica,method_invarianti,method_induzione,method_casework,skill_lettura_attenta,skill_ragionamento_geometrico,skill_riconoscimento_pattern,skill_conteggio_sistematico"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -83,10 +79,10 @@ level: OBM Nível 1
 
 > Let $N_0$ be a fixed positive integer. Alberto and Beraldo play the following game starting from $N_0$: they alternately perform the following operation — given a number $n$, replace it by a number $m$ such that $m < n$ and, in their base-$2$ representations, $m$ and $n$ differ in exactly $\ell$ digits for some $\ell$ with $1 \le \ell \le k$. The player who cannot move loses. We say that a player receiving $n$ has a winning strategy if they can always choose a move that leads to a win regardless of the opponent's play; otherwise we say they lose. Prove that, for every positive integer $N$, the number of non-negative losing integers less than $2^N$ is at most $2^N - \lfloor \log_2(\lfloor N/1 \rfloor) \rfloor$. (Observation: $\lfloor x \rfloor$ denotes the greatest integer less than or equal to $x$. For example, $\lfloor 3.14 \rfloor = 3$, $\lfloor 2 \rfloor = 2$, $\lfloor -4.6 \rfloor = -5$.)
 
-**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_logica|Logic, games and strategies]]
 **Metodo:** [[method_invarianti|Invarianti]], [[method_induzione|Induzione]], [[method_casework|Casework]]
 **Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_conteggio_sistematico|Conteggio sistematico]]
-**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1FTPhBzZbiZWvXsDRSCaClgLp-YMTQevY/view)
 
 
@@ -97,12 +93,11 @@ level: OBM Nível 1
 
 > Sia $N_0$ un intero positivo fisso. Alberto e Beraldo giocano il seguente gioco partendo da $N_0$: eseguono a turno l'operazione seguente — dato un numero $n$, lo si sostituisce con un numero $m$ tale che $m < n$ e, nelle loro rappresentazioni in base $2$, $m$ e $n$ differiscono in esattamente $\ell$ cifre per un certo $\ell$ con $1 \le \ell \le k$. Perde il giocatore che non può muoversi. Diciamo che un giocatore che riceve $n$ ha una strategia vincente se può sempre scegliere una mossa che porti alla vittoria indipendentemente dalle mosse dell'avversario; altrimenti diciamo che perde. Dimostrare che, per ogni intero positivo $N$, il numero di interi non negativi perdenti minori di $2^N$ è al più $2^N - \lfloor \log_2(\lfloor N/1 \rfloor) \rfloor$. (Osservazione: $\lfloor x \rfloor$ denota il più grande intero minore o uguale a $x$. Ad esempio, $\lfloor 3.14 \rfloor = 3$, $\lfloor 2 \rfloor = 2$, $\lfloor -4.6 \rfloor = -5$.)
 
-**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_logica|Logica, giochi, strategie]]
 **Metodo:** [[method_invarianti|Invarianti]], [[method_induzione|Induzione]], [[method_casework|Casework]]
 **Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
-
-[[Quesiti/src_obm_2016_n1_f3#q03|src_obm_2016_n1_f3__Q03]]
 
 
 
@@ -134,11 +129,9 @@ level: OBM Nível 1
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 
-[[Quesiti/src_obm_2016_n1_f3#q04|src_obm_2016_n1_f3__Q04]]
 
 
-
-<span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_algebra,topic_aritmetica,method_induzione,method_fattorizzazione,method_estremalita,skill_manipolazione_algebrica,skill_ragionamento_geometrico,skill_lettura_attenta,skill_stima"></span>
+<span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_algebra,topic_aritmetica,topic_funzionali,method_induzione,method_fattorizzazione,method_estremalita,method_ricorsione,skill_manipolazione_algebrica,skill_ragionamento_geometrico,skill_lettura_attenta,skill_stima"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -151,10 +144,10 @@ level: OBM Nível 1
 > 
 > (b) Determine the number of integers $m$ such that $P_n(m) < 0$ for infinitely many positive integers $n$.
 
-**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_induzione|Induzione]], [[method_fattorizzazione|Fattorizzazione]], [[method_estremalita|Estremalità]]
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_funzionali|Functional equations / sequences]]
+**Metodo:** [[method_induzione|Induzione]], [[method_fattorizzazione|Fattorizzazione]], [[method_estremalita|Estremalità]], [[method_ricorsione|Recursion]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_stima|Stima]]
-**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1FTPhBzZbiZWvXsDRSCaClgLp-YMTQevY/view)
 
 
@@ -169,12 +162,11 @@ level: OBM Nível 1
 >
 > (b) Determina il numero degli interi $m$ tali che $P_n(m) < 0$ per infiniti interi positivi $n$.
 
-**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_induzione|Induzione]], [[method_fattorizzazione|Fattorizzazione]], [[method_estremalita|Estremalità]]
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_funzionali|Equazioni funzionali / successioni]]
+**Metodo:** [[method_induzione|Induzione]], [[method_fattorizzazione|Fattorizzazione]], [[method_estremalita|Estremalità]], [[method_ricorsione|Ricorsione]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_stima|Stima]]
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
-
-[[Quesiti/src_obm_2016_n1_f3#q05|src_obm_2016_n1_f3__Q05]]
 
 
 
@@ -205,5 +197,3 @@ level: OBM Nível 1
 **Metodo:** [[method_coordinate|Coordinate]], [[method_simmetria|Simmetria]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_astrazione|Astrazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
-
-[[Quesiti/src_obm_2016_n1_f3#q06|src_obm_2016_n1_f3__Q06]]

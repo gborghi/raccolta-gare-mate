@@ -10,7 +10,7 @@ level: RMO
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_geometria_piana,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_geometria_piana,method_coordinate,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -19,11 +19,12 @@ level: RMO
 
 > Consider in the plane a circle $\Gamma$ with center $O$ and a line $l$ not intersecting circle $\Gamma$. Prove that there is a unique point $Q$ on the perpendicular drawn from $O$ to the line $l$, such that for any point $P$ on the line $l$, $PQ$ represents the length of the tangent from $P$ to the circle $\Gamma$.
 
-![[src_rmo_2004__q01.png]]
+![[src_rmo_2004__Q01.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_coordinate|Coordinate method]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
-**Area:** [[Geometria]]
+**Area:** [[Geometria|Geometry]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/12PH5-bvLqESBobr80FptiJm1tzcFEiAQ/view)
 
 
@@ -34,13 +35,13 @@ level: RMO
 
 > Si consideri nel piano una circonferenza $\Gamma$ con centro $O$ e una retta $l$ che non interseca la circonferenza $\Gamma$. Dimostrare che esiste un unico punto $Q$ sulla perpendicolare condotta da $O$ alla retta $l$, tale che, per ogni punto $P$ sulla retta $l$, $PQ$ rappresenti la lunghezza della tangente condotta da $P$ alla circonferenza $\Gamma$.
 
-![[src_rmo_2004__q01.png]]
+![[src_rmo_2004__Q01.png]]
+
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_coordinate|Metodo delle coordinate]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
-
-[[Quesiti/src_rmo_2004#q01|src_rmo_2004__Q01]]
 
 
 
@@ -72,11 +73,9 @@ level: RMO
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 
-[[Quesiti/src_rmo_2004#q02|src_rmo_2004__Q02]]
 
 
-
-<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_algebra,topic_aritmetica,method_induzione,method_ricorsione,method_congruenze,skill_manipolazione_algebrica,skill_riconoscimento_pattern,skill_lettura_attenta"></span>
+<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_algebra,topic_aritmetica,topic_funzionali,method_induzione,method_ricorsione,method_congruenze,skill_manipolazione_algebrica,skill_riconoscimento_pattern,skill_lettura_attenta"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -89,10 +88,10 @@ level: RMO
 > 
 > (b) $\gcd(\lambda_n, \lambda_{n+1}) = 1$.
 
-**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_funzionali|Functional equations / sequences]]
 **Metodo:** [[method_induzione|Induzione]], [[method_ricorsione|Ricorsione]], [[method_congruenze|Congruenze]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_lettura_attenta|Lettura attenta]]
-**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/12PH5-bvLqESBobr80FptiJm1tzcFEiAQ/view)
 
 
@@ -107,12 +106,11 @@ level: RMO
 >
 > (b) $\gcd(\lambda_n, \lambda_{n+1}) = 1$.
 
-**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_funzionali|Equazioni funzionali / successioni]]
 **Metodo:** [[method_induzione|Induzione]], [[method_ricorsione|Ricorsione]], [[method_congruenze|Congruenze]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
-
-[[Quesiti/src_rmo_2004#q03|src_rmo_2004__Q03]]
 
 
 
@@ -125,7 +123,7 @@ level: RMO
 
 > Prove that the number of triples $(A, B, C)$ where $A$, $B$, $C$ are subsets of $\{1, 2, \cdots, n\}$ such that $A \cap B \cap C = \emptyset$, $A \cap B \ne \emptyset$, $B \cap C \ne \emptyset$ is $7^n - 6^n + 5^n$.
 
-![[src_rmo_2004__q04.png]]
+![[src_rmo_2004__Q04.png]]
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_conteggio|Conteggio]], [[method_inclusione_esclusione|Inclusione-esclusione]], [[method_casework|Casework]]
@@ -141,14 +139,12 @@ level: RMO
 
 > Dimostrare che il numero di triple $(A, B, C)$ in cui $A$, $B$, $C$ sono sottoinsiemi di $\{1, 2, \cdots, n\}$ tali che $A \cap B \cap C = \emptyset$, $A \cap B \ne \emptyset$, $B \cap C \ne \emptyset$ è $7^n - 6^n + 5^n$.
 
-![[src_rmo_2004__q04.png]]
+![[src_rmo_2004__Q04.png]]
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_conteggio|Conteggio]], [[method_inclusione_esclusione|Inclusione-esclusione]], [[method_casework|Casework]]
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
-
-[[Quesiti/src_rmo_2004#q04|src_rmo_2004__Q04]]
 
 
 
@@ -165,7 +161,7 @@ level: RMO
 > 
 > (b) the areas of the quadrilaterals $APOS$, $BQOP$, $CROQ$, $DSOR$ are all equal.
 
-![[src_rmo_2004__q05.png]]
+![[src_rmo_2004__Q05.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_simmetria|Simmetria]]
@@ -185,18 +181,16 @@ level: RMO
 >
 > (b) Le aree dei quadrilateri $APOS$, $BQOP$, $CROQ$, $DSOR$ sono tutte uguali.
 
-![[src_rmo_2004__q05.png]]
+![[src_rmo_2004__Q05.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_simmetria|Simmetria]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 
-[[Quesiti/src_rmo_2004#q05|src_rmo_2004__Q05]]
 
 
-
-<span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_aritmetica,method_induzione,method_congruenze,method_casework,skill_manipolazione_algebrica,skill_ragionamento_geometrico,skill_riconoscimento_pattern"></span>
+<span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_aritmetica,topic_funzionali,method_induzione,method_congruenze,method_casework,skill_manipolazione_algebrica,skill_ragionamento_geometrico,skill_riconoscimento_pattern,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -205,10 +199,10 @@ level: RMO
 
 > Let $(p_1, p_2, p_3, \cdots)$ be a sequence of primes defined by $p_1 = 2$ and for $n \ge 1$, $p_{n+1}$ is the largest prime factor of $p_1 p_2 p_3 \cdots p_n + 1$. Prove that $p_n \ne 5$ for any $n$.
 
-**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_funzionali|Functional equations / sequences]]
 **Metodo:** [[method_induzione|Induzione]], [[method_congruenze|Congruenze]], [[method_casework|Casework]]
-**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
-**Area:** [[Aritmetica e Teoria dei Numeri]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Algebra e Analisi|Algebra and analysis]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/12PH5-bvLqESBobr80FptiJm1tzcFEiAQ/view)
 
 
@@ -219,12 +213,11 @@ level: RMO
 
 > Sia $(p_1, p_2, p_3, \cdots)$ una successione di numeri primi definita da $p_1 = 2$ e, per $n \ge 1$, $p_{n+1}$ è il più grande fattore primo di $p_1 p_2 p_3 \cdots p_n + 1$. Dimostrare che $p_n \ne 5$ per ogni $n$.
 
-**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_induzione|Induzione]], [[method_congruenze|Congruenze]], [[method_casework|Casework]]
-**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
-**Area:** [[Aritmetica e Teoria dei Numeri]]
 
-[[Quesiti/src_rmo_2004#q06|src_rmo_2004__Q06]]
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_funzionali|Equazioni funzionali / successioni]]
+**Metodo:** [[method_induzione|Induzione]], [[method_congruenze|Congruenze]], [[method_casework|Casework]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 
 
 
@@ -263,5 +256,3 @@ level: RMO
 **Metodo:** [[method_disuguaglianze|Disuguaglianze]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Algebra e Analisi]]
-
-[[Quesiti/src_rmo_2004#q07|src_rmo_2004__Q07]]

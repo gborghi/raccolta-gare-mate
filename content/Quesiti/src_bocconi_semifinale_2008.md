@@ -19,7 +19,7 @@ level: Semifinale Campionati Internazionali di Giochi Matematici
 
 > Quanti quadrati si possono contare nel disegno?
 
-![[src_bocconi_semifinale_2008__q01.png]]
+![[src_bocconi_semifinale_2008__Q01.png]]
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_conteggio|Conteggio]], [[method_casework|Casework]]
@@ -35,14 +35,12 @@ level: Semifinale Campionati Internazionali di Giochi Matematici
 *Squares that can be counted in a grid drawing*
 > How many squares can be counted in the drawing?
 
-![[src_bocconi_semifinale_2008__q01.png]]
+![[src_bocconi_semifinale_2008__Q01.png]]
 
 **Topic:** [[topic_combinatoria|Combinatorics]], [[topic_geometria_piana|Plane geometry]]
 **Metodo:** [[method_conteggio|Combinatorial counting]], [[method_casework|Case analysis]]
 **Abilita:** [[skill_conteggio_sistematico|Systematic counting]], [[skill_lettura_attenta|Careful reading of the text]]
 **Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Geometria|Geometry]]
-
-[[Quesiti/src_bocconi_semifinale_2008#q01|src_bocconi_semifinale_2008__Q01]]
 
 
 
@@ -75,11 +73,9 @@ level: Semifinale Campionati Internazionali di Giochi Matematici
 **Abilita:** [[skill_lettura_attenta|Careful reading of the text]], [[skill_ragionamento_geometrico|Geometric reasoning]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
-[[Quesiti/src_bocconi_semifinale_2008#q02|src_bocconi_semifinale_2008__Q02]]
 
 
-
-<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_aritmetica,method_casework,method_congruenze,skill_manipolazione_algebrica,skill_conteggio_sistematico"></span>
+<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_aritmetica,method_casework,method_congruenze,skill_manipolazione_algebrica,skill_conteggio_sistematico,skill_modellizzazione"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -90,7 +86,7 @@ level: Semifinale Campionati Internazionali di Giochi Matematici
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_casework|Casework]], [[method_congruenze|Congruenze]]
-**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 6
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1V3nnmwLa0O3xGWdfIjbMWNcLZXNT-8E0/view)
@@ -103,16 +99,15 @@ level: Semifinale Campionati Internazionali di Giochi Matematici
 
 > Carla sent a package to her friend Milena, with a birthday gift inside. To cover the postage costs, she put only stamps worth $0{,}60$ euros and $0{,}80$ euros on the package, for a total value of $6{,}60$ euros. In total, Carla used fewer than $10$ stamps. How many stamps worth $0{,}80$ euros did she use?
 
+
 **Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
 **Metodo:** [[method_casework|Case analysis]], [[method_congruenze|Modular arithmetic / congruences]]
-**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_conteggio_sistematico|Systematic counting]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_conteggio_sistematico|Systematic counting]], [[skill_modellizzazione|Modelling / translating the text]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
-[[Quesiti/src_bocconi_semifinale_2008#q03|src_bocconi_semifinale_2008__Q03]]
 
 
-
-<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_aritmetica,topic_logica,method_backward,method_casework,skill_ragionamento_geometrico,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
+<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_aritmetica,topic_logica,method_backward,method_casework,method_congruenze,skill_ragionamento_geometrico,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -122,7 +117,7 @@ level: Semifinale Campionati Internazionali di Giochi Matematici
 > Questa calcolatrice ha solo due tasti: il tasto $\text{``-1''}$ (meno 1) e il tasto $\text{``3''}$ (diviso 3). Al momento dell'accensione, sullo schermo compare il numero $2008$. Quante volte bisogna premere complessivamente, al minimo, i tasti $\text{``-1''}$ e $\text{``3''}$ per poter leggere il risultato $\text{``1''}$ sullo schermo?
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_logica|Logica]]
-**Metodo:** [[method_backward|Backward]], [[method_casework|Casework]]
+**Metodo:** [[method_backward|Backward]], [[method_casework|Casework]], [[method_congruenze|Aritmetica modulare / congruenze]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 13
@@ -136,12 +131,11 @@ level: Semifinale Campionati Internazionali di Giochi Matematici
 
 > This calculator has only two keys: the $\text{``-1''}$ key (minus 1) and the $\text{``3''}$ key (divide by 3). When it is turned on, the number $2008$ appears on the screen. At minimum, how many times in total must the $\text{``-1''}$ and $\text{``3''}$ keys be pressed in order to be able to read the result $\text{``1''}$ on the screen?
 
+
 **Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_logica|Logic, games, strategies]]
-**Metodo:** [[method_backward|Working backwards]], [[method_casework|Case analysis]]
+**Metodo:** [[method_backward|Working backwards]], [[method_casework|Case analysis]], [[method_congruenze|Modular arithmetic / congruences]]
 **Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_lettura_attenta|Careful reading of the text]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
-
-[[Quesiti/src_bocconi_semifinale_2008#q04|src_bocconi_semifinale_2008__Q04]]
 
 
 
@@ -154,7 +148,7 @@ level: Semifinale Campionati Internazionali di Giochi Matematici
 
 > Guardate che strano pesce ha trovato Desiderio tra i suoi vecchi giocattoli! Sulle squame, sono riportate le cifre da 1 a 7. Desiderio nota che, quelle figure che sono direttamente collegate da una linea (retta o curva), non sono mai consecutive (come, per esempio, 1 e 2 o 5 e 4). Mettete le cifre da $1$ a $5$.
 
-![[src_bocconi_semifinale_2008__q05.png]]
+![[src_bocconi_semifinale_2008__Q05.png]]
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_logica|Logica]]
 **Metodo:** [[method_casework|Casework]], [[method_grafi|Grafi]]
@@ -171,18 +165,16 @@ level: Semifinale Campionati Internazionali di Giochi Matematici
 
 > Look at the strange fish Desiderio found among his old toys! The numbers from 1 to 7 are marked on the scales. Desiderio notices that the figures directly connected by a line (straight or curved) are never consecutive (such as 1 and 2 or 5 and 4, for example). Place the numbers from $1$ to $5$.
 
-![[src_bocconi_semifinale_2008__q05.png]]
+![[src_bocconi_semifinale_2008__Q05.png]]
 
 **Topic:** [[topic_combinatoria|Combinatorics]], [[topic_logica|Logic, games, strategies]]
 **Metodo:** [[method_casework|Case analysis]], [[method_grafi|Graph theory]]
 **Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_conteggio_sistematico|Systematic counting]], [[skill_lettura_attenta|Careful reading of the text]]
 **Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
-[[Quesiti/src_bocconi_semifinale_2008#q05|src_bocconi_semifinale_2008__Q05]]
 
 
-
-<span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_geometria_solida,topic_aritmetica,method_conteggio,method_casework,skill_conteggio_sistematico,skill_modellizzazione,skill_ragionamento_geometrico"></span>
+<span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_geometria_solida,topic_aritmetica,method_conteggio,method_casework,method_inclusione_esclusione,skill_conteggio_sistematico,skill_modellizzazione,skill_ragionamento_geometrico"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -191,10 +183,10 @@ level: Semifinale Campionati Internazionali di Giochi Matematici
 
 > Questo grande cubo è formato da $4 \times 4 \times 4$ cubetti incollati tra di loro. Partendo dalle tre facce visibili, abbiamo attraversato il cubo da una parte all'altra, levando delle file intere di cubetti (nella direzione indicata dalle frecce). Se questo cubo bucato pesa $10$ grammi, qual è il peso del "cubo bucato" (cioè dei cubetti rimasti)?
 
-![[src_bocconi_semifinale_2008__q06.png]]
+![[src_bocconi_semifinale_2008__Q06.png]]
 
 **Topic:** [[topic_geometria_solida|Geometria solida]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_conteggio|Conteggio]], [[method_casework|Casework]]
+**Metodo:** [[method_conteggio|Conteggio]], [[method_casework|Casework]], [[method_inclusione_esclusione|Inclusione-esclusione]]
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 440
@@ -208,18 +200,17 @@ level: Semifinale Campionati Internazionali di Giochi Matematici
 
 > This large cube is made up of $4 \times 4 \times 4$ small cubes glued together. Starting from the three visible faces, we went through the cube from one side to the other, removing entire rows of small cubes (in the direction indicated by the arrows). If this hollowed-out cube weighs $10$ grams, what is the weight of the "hollowed-out cube" (that is, of the small cubes that remain)?
 
-![[src_bocconi_semifinale_2008__q06.png]]
+![[src_bocconi_semifinale_2008__Q06.png]]
+
 
 **Topic:** [[topic_geometria_solida|Solid geometry]], [[topic_aritmetica|Arithmetic / Number theory]]
-**Metodo:** [[method_conteggio|Combinatorial counting]], [[method_casework|Case analysis]]
+**Metodo:** [[method_conteggio|Combinatorial counting]], [[method_casework|Case analysis]], [[method_inclusione_esclusione|Inclusion–exclusion]]
 **Abilita:** [[skill_conteggio_sistematico|Systematic counting]], [[skill_modellizzazione|Modelling / translating the text]], [[skill_ragionamento_geometrico|Geometric reasoning]]
 **Area:** [[Geometria|Geometry]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
-[[Quesiti/src_bocconi_semifinale_2008#q06|src_bocconi_semifinale_2008__Q06]]
 
 
-
-<span class="atom-split" id="q07" data-atom="q07" data-title="Quesito 7" data-tags="topic_geometria_piana,topic_aritmetica,skill_manipolazione_algebrica,skill_ragionamento_geometrico"></span>
+<span class="atom-split" id="q07" data-atom="q07" data-title="Quesito 7" data-tags="topic_geometria_piana,topic_aritmetica,method_fattorizzazione,skill_manipolazione_algebrica,skill_ragionamento_geometrico"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -229,6 +220,7 @@ level: Semifinale Campionati Internazionali di Giochi Matematici
 > La base di un rettangolo è il doppio della sua altezza. Possiamo suddividere questo rettangolo in $200$ quadrati uguali aventi ognuno un'area di $4 \text{ cm}^2$. Qual è il perimetro del rettangolo?
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 120
@@ -242,11 +234,11 @@ level: Semifinale Campionati Internazionali di Giochi Matematici
 
 > The base of a rectangle is twice its height. We can divide this rectangle into $200$ equal squares, each with an area of $4 \text{ cm}^2$. What is the perimeter of the rectangle?
 
+
 **Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
 **Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_ragionamento_geometrico|Geometric reasoning]]
 **Area:** [[Geometria|Geometry]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
-
-[[Quesiti/src_bocconi_semifinale_2008#q07|src_bocconi_semifinale_2008__Q07]]
 
 
 
@@ -279,8 +271,6 @@ level: Semifinale Campionati Internazionali di Giochi Matematici
 **Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_riconoscimento_pattern|Pattern recognition]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
-[[Quesiti/src_bocconi_semifinale_2008#q08|src_bocconi_semifinale_2008__Q08]]
-
 
 
 <span class="atom-split" id="q09" data-atom="q09" data-title="Quesito 9" data-tags="topic_geometria_solida,topic_aritmetica,method_casework,method_fattorizzazione,skill_manipolazione_algebrica,skill_ragionamento_geometrico"></span>
@@ -311,8 +301,6 @@ level: Semifinale Campionati Internazionali di Giochi Matematici
 **Metodo:** [[method_casework|Case analysis]], [[method_fattorizzazione|Factorisation / algebraic manipulation]]
 **Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_ragionamento_geometrico|Geometric reasoning]]
 **Area:** [[Geometria|Geometry]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
-
-[[Quesiti/src_bocconi_semifinale_2008#q09|src_bocconi_semifinale_2008__Q09]]
 
 
 
@@ -345,8 +333,6 @@ level: Semifinale Campionati Internazionali di Giochi Matematici
 **Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_casework_accurato|Careful case analysis]], [[skill_lettura_attenta|Careful reading of the text]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
-[[Quesiti/src_bocconi_semifinale_2008#q10|src_bocconi_semifinale_2008__Q10]]
-
 
 
 <span class="atom-split" id="q11" data-atom="q11" data-title="Quesito 11" data-tags="topic_logica,topic_combinatoria,method_estremalita,method_casework,skill_ragionamento_geometrico,skill_modellizzazione,skill_lettura_attenta"></span>
@@ -377,8 +363,6 @@ level: Semifinale Campionati Internazionali di Giochi Matematici
 **Metodo:** [[method_estremalita|Extremal principle]], [[method_casework|Case analysis]]
 **Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_modellizzazione|Modelling / translating the text]], [[skill_lettura_attenta|Careful reading of the text]]
 **Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
-
-[[Quesiti/src_bocconi_semifinale_2008#q11|src_bocconi_semifinale_2008__Q11]]
 
 
 
@@ -411,8 +395,6 @@ level: Semifinale Campionati Internazionali di Giochi Matematici
 **Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_conteggio_sistematico|Systematic counting]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
-[[Quesiti/src_bocconi_semifinale_2008#q12|src_bocconi_semifinale_2008__Q12]]
-
 
 
 <span class="atom-split" id="q13" data-atom="q13" data-title="Quesito 13" data-tags="topic_combinatoria,method_conteggio,method_inclusione_esclusione,method_casework,skill_conteggio_sistematico,skill_modellizzazione,skill_ragionamento_geometrico"></span>
@@ -424,7 +406,7 @@ level: Semifinale Campionati Internazionali di Giochi Matematici
 
 > Una formica si sposta su questo schema a maglie quadrate per andare dal punto $D$ al punto $A$, seguendo il percorso più breve. Deve però evitare ad ogni costo la trappola rappresentata, in nero, in figura. In quanti modi diversi può effettuare questo spostamento? Nota: la formica si sposta unicamente sui segmenti (trattini) orizzontali e verticali.
 
-![[src_bocconi_semifinale_2008__q13.png]]
+![[src_bocconi_semifinale_2008__Q13.png]]
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_conteggio|Conteggio]], [[method_inclusione_esclusione|Inclusione-esclusione]], [[method_casework|Casework]]
@@ -441,18 +423,16 @@ level: Semifinale Campionati Internazionali di Giochi Matematici
 
 > An ant moves across this square-grid diagram to go from point $D$ to point $A$, following the shortest path. However, it must at all costs avoid the trap shown in black in the figure. In how many different ways can it make this move? Note: the ant moves only along the horizontal and vertical line segments (dashes).
 
-![[src_bocconi_semifinale_2008__q13.png]]
+![[src_bocconi_semifinale_2008__Q13.png]]
 
 **Topic:** [[topic_combinatoria|Combinatorics]]
 **Metodo:** [[method_conteggio|Combinatorial counting]], [[method_inclusione_esclusione|Inclusion–exclusion]], [[method_casework|Case analysis]]
 **Abilita:** [[skill_conteggio_sistematico|Systematic counting]], [[skill_modellizzazione|Modelling / translating the text]], [[skill_ragionamento_geometrico|Geometric reasoning]]
 **Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
-[[Quesiti/src_bocconi_semifinale_2008#q13|src_bocconi_semifinale_2008__Q13]]
 
 
-
-<span class="atom-split" id="q14" data-atom="q14" data-title="Quesito 14" data-tags="topic_geometria_piana,topic_combinatoria,method_casework,method_conteggio,skill_conteggio_sistematico,skill_ragionamento_geometrico,skill_casework_accurato"></span>
+<span class="atom-split" id="q14" data-atom="q14" data-title="Quesito 14" data-tags="topic_geometria_piana,topic_combinatoria,topic_aritmetica,method_casework,method_conteggio,method_congruenze,skill_conteggio_sistematico,skill_ragionamento_geometrico,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -461,10 +441,10 @@ level: Semifinale Campionati Internazionali di Giochi Matematici
 
 > In un foglio quadrato, di cui lato misura un numero intero di centimetri maggiore o uguale a 3, si ritaglia il più grande numero possibile di rettangoli di cm $2$ per cm $3$. Se rimangono uno o più pezzi, qual è la loro area totale? Nota: il quesito ammette più soluzioni. Bisogna indicarle tutte.
 
-**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_combinatoria|Combinatoria]]
-**Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]]
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]], [[method_congruenze|Aritmetica modulare / congruenze]]
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_casework_accurato|Casework accurato]]
-**Area:** [[Geometria]], [[Combinatoria, Logica e Probabilita]]
+**Area:** [[Geometria]], [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** $1 - 3 - 4 \text{ cm}^2$
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1V3nnmwLa0O3xGWdfIjbMWNcLZXNT-8E0/view)
 
@@ -476,16 +456,15 @@ level: Semifinale Campionati Internazionali di Giochi Matematici
 
 > On a square sheet whose side measures an integer number of centimeters greater than or equal to 3, the greatest possible number of rectangles measuring $2$ cm by $3$ cm is cut out. If one or more pieces remain, what is their total area? Note: the problem has multiple solutions. All of them must be stated.
 
-**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_combinatoria|Combinatorics]]
-**Metodo:** [[method_casework|Case analysis]], [[method_conteggio|Combinatorial counting]]
+
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_combinatoria|Combinatorics]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_casework|Case analysis]], [[method_conteggio|Combinatorial counting]], [[method_congruenze|Modular arithmetic / congruences]]
 **Abilita:** [[skill_conteggio_sistematico|Systematic counting]], [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_casework_accurato|Careful case analysis]]
-**Area:** [[Geometria|Geometry]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
-
-[[Quesiti/src_bocconi_semifinale_2008#q14|src_bocconi_semifinale_2008__Q14]]
+**Area:** [[Geometria|Geometry]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
 
 
-<span class="atom-split" id="q15" data-atom="q15" data-title="Quesito 15" data-tags="topic_combinatoria,method_ricorsione,method_conteggio,method_doppio_conteggio,skill_conteggio_sistematico,skill_riconoscimento_pattern,skill_modellizzazione"></span>
+<span class="atom-split" id="q15" data-atom="q15" data-title="Quesito 15" data-tags="topic_combinatoria,method_ricorsione,method_conteggio,method_doppio_conteggio,method_casi_conteggio,skill_conteggio_sistematico,skill_riconoscimento_pattern,skill_modellizzazione"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -495,7 +474,7 @@ level: Semifinale Campionati Internazionali di Giochi Matematici
 > Quando in una gara ci sono solo due cavalli, ci sono tre piazzamenti possibili: due in cui c'è partì a e uno in cui i due cavalli arrivano a pari merito. Questa è la gara è fra tre cavalli, ci sono i seguenti piazzamenti possibili: sei in cui non c'è alcuna parità, sei in cui due cavalli sono a pari merito (essendo il terzo davanti o dietro a loro) e uno in cui i tre cavalli sono tutti a pari merito. Quando corrono cinque cavalli, quanti piazzamenti possibili ci sono?
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
-**Metodo:** [[method_ricorsione|Ricorsione]], [[method_conteggio|Conteggio]], [[method_doppio_conteggio|Doppio conteggio]]
+**Metodo:** [[method_ricorsione|Ricorsione]], [[method_conteggio|Conteggio]], [[method_doppio_conteggio|Doppio conteggio]], [[method_casi_conteggio|Conteggio per casi]]
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_modellizzazione|Modellizzazione]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 541
@@ -509,12 +488,11 @@ level: Semifinale Campionati Internazionali di Giochi Matematici
 
 > When there are only two horses in a race, there are three possible placings: two in which there is a tie, and one in which the two horses finish level. In a race involving three horses, the following placings are possible: six in which there is no tie, six in which two horses are level (with the third either ahead of or behind them), and one in which all three horses are level. When five horses race, how many possible placings are there?
 
+
 **Topic:** [[topic_combinatoria|Combinatorics]]
-**Metodo:** [[method_ricorsione|Recursion]], [[method_conteggio|Combinatorial counting]], [[method_doppio_conteggio|Double counting]]
+**Metodo:** [[method_ricorsione|Recursion]], [[method_conteggio|Combinatorial counting]], [[method_doppio_conteggio|Double counting]], [[method_casi_conteggio|Counting by cases]]
 **Abilita:** [[skill_conteggio_sistematico|Systematic counting]], [[skill_riconoscimento_pattern|Pattern recognition]], [[skill_modellizzazione|Modelling / translating the text]]
 **Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
-
-[[Quesiti/src_bocconi_semifinale_2008#q15|src_bocconi_semifinale_2008__Q15]]
 
 
 
@@ -527,7 +505,7 @@ level: Semifinale Campionati Internazionali di Giochi Matematici
 
 > Abbiamo a disposizione delle piastrelle rettangolari la cui larghezza e lunghezza misurano, rispettivamente, $7$ e $10$ centimetri. La figura illustra come la più piccola superficie quadrata che può contenere tre piastrelle può contenere anche una in più. Qual è il minimo numero dispari (maggiore di 1) tale che la più piccola superficie quadrata che può contenere questo numero di piastrelle non possa contenerne anche una in più?
 
-![[src_bocconi_semifinale_2008__q16.png]]
+![[src_bocconi_semifinale_2008__Q16.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_estremalita|Estremalità]], [[method_casework|Casework]], [[method_conteggio|Conteggio]]
@@ -544,11 +522,9 @@ level: Semifinale Campionati Internazionali di Giochi Matematici
 
 > We have rectangular tiles whose width and length measure $7$ and $10$ centimeters, respectively. The figure illustrates how the smallest square region that can contain three tiles can also contain one more tile. What is the smallest odd number greater than 1 such that the smallest square region that can contain this number of tiles cannot also contain one more tile?
 
-![[src_bocconi_semifinale_2008__q16.png]]
+![[src_bocconi_semifinale_2008__Q16.png]]
 
 **Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_combinatoria|Combinatorics]]
 **Metodo:** [[method_estremalita|Extremal principle]], [[method_casework|Case analysis]], [[method_conteggio|Combinatorial counting]]
 **Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_conteggio_sistematico|Systematic counting]], [[skill_modellizzazione|Modelling / translating the text]]
 **Area:** [[Geometria|Geometry]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
-
-[[Quesiti/src_bocconi_semifinale_2008#q16|src_bocconi_semifinale_2008__Q16]]

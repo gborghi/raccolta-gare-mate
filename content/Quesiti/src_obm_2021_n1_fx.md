@@ -46,8 +46,6 @@ level: OBM Nível 1
 **Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 
-[[Quesiti/src_obm_2021_n1_fx#q01|src_obm_2021_n1_fx__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_aritmetica,topic_combinatoria,method_casework,method_conteggio,skill_conteggio_sistematico,skill_casework_accurato,skill_lettura_attenta"></span>
@@ -78,8 +76,6 @@ level: OBM Nível 1
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 
-[[Quesiti/src_obm_2021_n1_fx#q02|src_obm_2021_n1_fx__Q02]]
-
 
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_geometria_piana,topic_aritmetica,method_casework,skill_ragionamento_geometrico,skill_manipolazione_algebrica,skill_modellizzazione,skill_lettura_attenta"></span>
@@ -97,7 +93,7 @@ level: OBM Nível 1
 > 
 > c) Pedro wants to give the lots to his two sons, José and João. Since José does not want the lawn, but João wants a passage of width $x$ through José's lot, as indicated in the figure, leaving the rest of the lawn to João. Pedro will build a fence, calculating $x$ in such a way that the areas of the two lots remain equal. What should the value of $x$ be?
 
-![[src_obm_2021_n1_fx__q03.png]]
+![[src_obm_2021_n1_fx__Q03.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_casework|Casework]]
@@ -119,18 +115,16 @@ level: OBM Nível 1
 >
 > c) Pedro vuole dare i lotti ai suoi due figli, José e João. Poiché José non vuole il prato, ma João vuole un passaggio di larghezza $x$ attraverso il lotto di José, come indicato nella figura, lasciando a João il resto del prato. Pedro costruirà una recinzione, calcolando $x$ in modo che le aree dei due lotti rimangano uguali. Quale dovrebbe essere il valore di $x$?
 
-![[src_obm_2021_n1_fx__q03.png]]
+![[src_obm_2021_n1_fx__Q03.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_casework|Casework]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Geometria]], [[Aritmetica e Teoria dei Numeri]]
 
-[[Quesiti/src_obm_2021_n1_fx#q03|src_obm_2021_n1_fx__Q03]]
 
 
-
-<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_aritmetica,topic_combinatoria,method_casework,method_congruenze,method_invarianti,skill_riconoscimento_pattern,skill_conteggio_sistematico,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
+<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_aritmetica,topic_combinatoria,method_casework,method_congruenze,method_invarianti,method_fattorizzazione,skill_riconoscimento_pattern,skill_conteggio_sistematico,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -148,9 +142,9 @@ level: OBM Nível 1
 > c) After all 2021 students have passed, how many lockers are open?
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
-**Metodo:** [[method_casework|Casework]], [[method_congruenze|Congruenze]], [[method_invarianti|Invarianti]]
+**Metodo:** [[method_casework|Casework]], [[method_congruenze|Congruenze]], [[method_invarianti|Invarianti]], [[method_fattorizzazione|Factorisation / algebraic manipulation]]
 **Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
-**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/10RcAE6sTt-lvUTcmg157vdVd4ZjysYzW/view)
 
 
@@ -169,12 +163,11 @@ level: OBM Nível 1
 >
 > c) Dopo che tutti gli studenti del 2021 hanno superato l'esame, quante armadietti sono aperti?
 
+
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
-**Metodo:** [[method_casework|Casework]], [[method_congruenze|Congruenze]], [[method_invarianti|Invarianti]]
+**Metodo:** [[method_casework|Casework]], [[method_congruenze|Congruenze]], [[method_invarianti|Invarianti]], [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
 **Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
-
-[[Quesiti/src_obm_2021_n1_fx#q04|src_obm_2021_n1_fx__Q04]]
 
 
 
@@ -229,5 +222,3 @@ level: OBM Nível 1
 **Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]], [[method_estremalita|Estremalità]]
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_modellizzazione|Modellizzazione]], [[skill_astrazione|Astrazione]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
-
-[[Quesiti/src_obm_2021_n1_fx#q05|src_obm_2021_n1_fx__Q05]]

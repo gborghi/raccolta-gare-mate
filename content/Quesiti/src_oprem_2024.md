@@ -47,7 +47,7 @@ level: Olympiades Première
 > 
 > **10.** A table of $n$ rows and $p$ columns contains real numbers. We rearrange each row from left to right in increasing order, then each column in turn from bottom to top in increasing order (here $n=3$ and $p=5$). Demonstrate that after this second operation each row remains sorted, always in increasing order from left to right.
 
-![[src_oprem_2024__q01.png]]
+![[src_oprem_2024__Q01.png]]
 
 **Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_geometria_piana|Geometria piana]], [[topic_geometria_solida|Geometria solida]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_casework|Casework]], [[method_estremalita|Estremalità]], [[method_simmetria|Simmetria]], [[method_conteggio|Conteggio]], [[method_coordinate|Coordinate]]
@@ -93,7 +93,7 @@ level: Olympiades Première
 >
 > **10.** Una tabella con $n$ righe e $p$ colonne contiene numeri reali. Riordiniamo ciascuna riga da sinistra a destra in ordine crescente, poi ciascuna colonna a turno dal basso verso l'alto in ordine crescente (qui $n=3$ e $p=5$). Dimostriamo che, dopo questa seconda operazione, ciascuna riga rimane ordinata, sempre in ordine crescente da sinistra a destra.
 
-![[src_oprem_2024__q01.png]]
+![[src_oprem_2024__Q01.png]]
 
 > [!warning] Estratto/tradotto: da verificare con la fonte.
 
@@ -102,11 +102,9 @@ level: Olympiades Première
 **Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_stima|Stima]]
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]], [[Geometria]], [[Combinatoria, Logica e Probabilita]]
 
-[[Quesiti/src_oprem_2024#q01|src_oprem_2024__Q01]]
 
 
-
-<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_aritmetica,topic_combinatoria,topic_probabilita,topic_insiemi_funzioni,topic_algebra,topic_disuguaglianze,method_induzione,method_ricorsione,method_conteggio,method_disuguaglianze,method_casework,skill_astrazione,skill_manipolazione_algebrica,skill_conteggio_sistematico,skill_lettura_attenta,skill_modellizzazione"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_aritmetica,topic_combinatoria,topic_probabilita,topic_insiemi_funzioni,topic_algebra,topic_disuguaglianze,method_induzione,method_ricorsione,method_conteggio,method_disuguaglianze,method_casework,skill_astrazione,skill_manipolazione_algebrica,skill_conteggio_sistematico,skill_lettura_attenta,skill_modellizzazione,skill_stima"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -183,12 +181,12 @@ level: Olympiades Première
 > 
 > **d.** Propose a value of $n\ge 2$ for which this inequality furnishes a lower bound larger than that of question **11.b**.
 
-![[src_oprem_2024__q02.png]]
+![[src_oprem_2024__Q02.png]]
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]], [[topic_probabilita|Probabilità]], [[topic_insiemi_funzioni|Insiemi e funzioni]], [[topic_algebra|Algebra]], [[topic_disuguaglianze|Disuguaglianze]]
 **Metodo:** [[method_induzione|Induzione]], [[method_ricorsione|Ricorsione]], [[method_conteggio|Conteggio]], [[method_disuguaglianze|Disuguaglianze]], [[method_casework|Casework]]
-**Abilita:** [[skill_astrazione|Astrazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_modellizzazione|Modellizzazione]]
-**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]], [[Algebra e Analisi]]
+**Abilita:** [[skill_astrazione|Astrazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_modellizzazione|Modellizzazione]], [[skill_stima|Estimation and approximation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Algebra e Analisi|Algebra and analysis]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1zCUBghOB28ZpdNrjC68r0u1mIzIpp_46/view)
 
 > [!warning] Estratto/tradotto da verificare con la fonte.
@@ -269,20 +267,19 @@ level: Olympiades Première
 >
 > **d.** Proponi un valore di $n\ge 2$ per cui questa disuguaglianza fornisca un minorante maggiore di quello della domanda **11.b**.
 
-![[src_oprem_2024__q02.png]]
+![[src_oprem_2024__Q02.png]]
 
 > [!warning] Estratto/tradotto: da verificare con la fonte.
 
+
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]], [[topic_probabilita|Probabilità]], [[topic_insiemi_funzioni|Insiemi e funzioni]], [[topic_algebra|Algebra]], [[topic_disuguaglianze|Disuguaglianze]]
 **Metodo:** [[method_induzione|Induzione]], [[method_ricorsione|Ricorsione]], [[method_conteggio|Conteggio]], [[method_disuguaglianze|Disuguaglianze]], [[method_casework|Casework]]
-**Abilita:** [[skill_astrazione|Astrazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_modellizzazione|Modellizzazione]]
+**Abilita:** [[skill_astrazione|Astrazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_modellizzazione|Modellizzazione]], [[skill_stima|Stima e approssimazione]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]], [[Algebra e Analisi]]
 
-[[Quesiti/src_oprem_2024#q02|src_oprem_2024__Q02]]
 
 
-
-<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_combinatoria,topic_aritmetica,topic_geometria_piana,method_estremalita,method_casework,method_conteggio,method_induzione,skill_ragionamento_geometrico,skill_conteggio_sistematico,skill_astrazione,skill_riconoscimento_pattern,skill_lettura_attenta"></span>
+<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_combinatoria,topic_aritmetica,topic_geometria_piana,method_estremalita,method_casework,method_conteggio,method_induzione,skill_ragionamento_geometrico,skill_conteggio_sistematico,skill_astrazione,skill_riconoscimento_pattern,skill_lettura_attenta,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -323,12 +320,12 @@ level: Olympiades Première
 > 
 > **c.** Conclude by considering the equilateral triangle whose bottom base is composed of the $n-2$ leftmost numbers of the last line.
 
-![[src_oprem_2024__q03.png]]
+![[src_oprem_2024__Q03.png]]
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_estremalita|Estremalità]], [[method_casework|Casework]], [[method_conteggio|Conteggio]], [[method_induzione|Induzione]]
-**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_astrazione|Astrazione]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_lettura_attenta|Lettura attenta]]
-**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]], [[Geometria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_astrazione|Astrazione]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_lettura_attenta|Lettura attenta]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Geometria|Geometry]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1zCUBghOB28ZpdNrjC68r0u1mIzIpp_46/view)
 
 > [!warning] Estratto/tradotto da verificare con la fonte.
@@ -373,13 +370,12 @@ level: Olympiades Première
 >
 > **c.** Concludi considerando il triangolo equilatero la cui base inferiore è composta dai $n-2$ numeri più a sinistra dell'ultima riga.
 
-![[src_oprem_2024__q03.png]]
+![[src_oprem_2024__Q03.png]]
 
 > [!warning] Estratto/tradotto: da verificare con la fonte.
 
+
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_estremalita|Estremalità]], [[method_casework|Casework]], [[method_conteggio|Conteggio]], [[method_induzione|Induzione]]
-**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_astrazione|Astrazione]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_lettura_attenta|Lettura attenta]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_astrazione|Astrazione]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_lettura_attenta|Lettura attenta]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]], [[Geometria]]
-
-[[Quesiti/src_oprem_2024#q03|src_oprem_2024__Q03]]

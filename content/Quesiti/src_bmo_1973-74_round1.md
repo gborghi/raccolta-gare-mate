@@ -19,7 +19,7 @@ level: BMO Round 1
 
 > The curves $A$, $B$ and $C$ are related in such a way that $B$ "bisects" the area between $A$ and $C$, that is, the area of the region $V$ is equal to the area of the region $W$ at all points of the curve $B$. Find the equation of curve $C$ given that the equation of curve $A$ is $y = \frac{x}{x_0}$ and that the equation of curve $B$ is $y = \frac{x}{x_0^2}$.
 
-![[src_bmo_1973-74_round1__q01.png]]
+![[src_bmo_1973-74_round1__Q01.png]]
 
 **Topic:** [[topic_geometria_analitica|Geometria analitica]], [[topic_algebra|Algebra]]
 **Metodo:** [[method_coordinate|Coordinate]]
@@ -33,7 +33,7 @@ level: BMO Round 1
 
 *L'equazione della curva $C$ se $B$ biseca l'area fra $A$ e $C$*
 
-![[src_bmo_1973-74_round1__q01.png]]
+![[src_bmo_1973-74_round1__Q01.png]]
 
 > Le curve $A$, $B$ e $C$ sono legate in modo che $B$ «biseca» l'area fra $A$ e $C$, cioè l'area della regione $V$ è uguale all'area della regione $W$ in tutti i punti della curva $B$. Trovare l'equazione della curva $C$ sapendo che l'equazione della curva $A$ è $y = \frac{x}{x_0}$ e che l'equazione della curva $B$ è $y = \frac{x}{x_0^2}$.
 
@@ -42,11 +42,9 @@ level: BMO Round 1
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria|Geometria]], [[Algebra e Analisi|Algebra e analisi]]
 
-[[Quesiti/src_bmo_1973-74_round1#q01|src_bmo_1973-74_round1__Q01]]
 
 
-
-<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_combinatoria,method_conteggio,method_casework,skill_conteggio_sistematico,skill_casework_accurato"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_combinatoria,method_conteggio,method_casework,method_grafi,skill_conteggio_sistematico,skill_casework_accurato,skill_modellizzazione"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -56,9 +54,9 @@ level: BMO Round 1
 > A domino is an unordered pair of integers. The set of all 15 dominoes containing two integers from $1, 2, 3, 4, 5$ is partitioned into three subsets of five dominoes. The dominoes in each subset form a closed chain, that is $(a_1,b_1)(a_2,b_2)(a_3,b_3)(a_4,b_4)(a_5,b_5)$ where $a_2 = b_1$, $a_3 = b_2$, $a_4 = b_3$, $a_5 = b_4$, $a_1 = b_5$ (and $a_i$, $b_i$ need not all be different). How many such partitions are there? (The order of the three subsets in the partition is immaterial.)
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
-**Metodo:** [[method_conteggio|Conteggio]], [[method_casework|Casework]]
-**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]]
-**Area:** [[Combinatoria, Logica e Probabilita]]
+**Metodo:** [[method_conteggio|Conteggio]], [[method_casework|Casework]], [[method_grafi|Graph theory]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]], [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1CaunYJwpF91WiVYpFeF-ytX3cVGPZI1-/view)
 
 
@@ -69,16 +67,15 @@ level: BMO Round 1
 
 > Un domino è una coppia non ordinata di interi. L'insieme di tutti i 15 domino che contengono due interi fra $1, 2, 3, 4, 5$ è ripartito in tre sottoinsiemi di cinque domino. I domino di ciascun sottoinsieme formano una catena chiusa, cioè $(a_1,b_1)(a_2,b_2)(a_3,b_3)(a_4,b_4)(a_5,b_5)$ dove $a_2 = b_1$, $a_3 = b_2$, $a_4 = b_3$, $a_5 = b_4$, $a_1 = b_5$ (e $a_i$, $b_i$ non devono essere tutti diversi). Quante sono tali partizioni? (L'ordine dei tre sottoinsiemi nella partizione è irrilevante.)
 
+
 **Topic:** [[topic_combinatoria|Combinatoria]]
-**Metodo:** [[method_conteggio|Conteggio]], [[method_casework|Analisi per casi]]
-**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Analisi accurata dei casi]]
+**Metodo:** [[method_conteggio|Conteggio]], [[method_casework|Analisi per casi]], [[method_grafi|Teoria dei grafi]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Analisi accurata dei casi]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
 **Area:** [[Combinatoria, Logica e Probabilita|Combinatoria, logica e probabilità]]
 
-[[Quesiti/src_bmo_1973-74_round1#q02|src_bmo_1973-74_round1__Q02]]
 
 
-
-<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_geometria_solida,topic_combinatoria,method_invarianti,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
+<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_geometria_solida,topic_combinatoria,method_invarianti,method_doppio_conteggio,skill_ragionamento_geometrico,skill_manipolazione_algebrica,skill_conteggio_sistematico"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -88,9 +85,9 @@ level: BMO Round 1
 > Prove that it is impossible for all the faces of a convex polyhedron to be hexagons.
 
 **Topic:** [[topic_geometria_solida|Geometria solida]], [[topic_combinatoria|Combinatoria]]
-**Metodo:** [[method_invarianti|Invarianti]]
-**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
-**Area:** [[Geometria]], [[Combinatoria, Logica e Probabilita]]
+**Metodo:** [[method_invarianti|Invarianti]], [[method_doppio_conteggio|Double counting]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Geometria|Geometry]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1CaunYJwpF91WiVYpFeF-ytX3cVGPZI1-/view)
 
 
@@ -101,16 +98,15 @@ level: BMO Round 1
 
 > Dimostrare che è impossibile che tutte le facce di un poliedro convesso siano esagoni.
 
+
 **Topic:** [[topic_geometria_solida|Geometria solida]], [[topic_combinatoria|Combinatoria]]
-**Metodo:** [[method_invarianti|Invarianti]]
-**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Metodo:** [[method_invarianti|Invarianti]], [[method_doppio_conteggio|Doppio conteggio]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Geometria|Geometria]], [[Combinatoria, Logica e Probabilita|Combinatoria, logica e probabilità]]
 
-[[Quesiti/src_bmo_1973-74_round1#q03|src_bmo_1973-74_round1__Q03]]
 
 
-
-<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_algebra,method_casework,skill_manipolazione_algebrica,skill_ragionamento_geometrico"></span>
+<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_algebra,method_casework,method_fattorizzazione,skill_manipolazione_algebrica,skill_ragionamento_geometrico,skill_riconoscimento_pattern"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -120,9 +116,9 @@ level: BMO Round 1
 > $M$ is a $16 \times 16$ matrix. Each element in the leading diagonal and each element in the last row (the 16th row) is $1$. Every other element of the matrix is $0$. Find the inverse of $M$.
 
 **Topic:** [[topic_algebra|Algebra]]
-**Metodo:** [[method_casework|Casework]]
-**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
-**Area:** [[Algebra e Analisi]]
+**Metodo:** [[method_casework|Casework]], [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1CaunYJwpF91WiVYpFeF-ytX3cVGPZI1-/view)
 
 
@@ -133,12 +129,11 @@ level: BMO Round 1
 
 > $M$ è una matrice $16 \times 16$. Ogni elemento della diagonale principale e ogni elemento dell'ultima riga (la 16ª riga) è $1$. Ogni altro elemento della matrice è $0$. Trovare l'inversa di $M$.
 
-**Topic:** [[topic_algebra|Algebra]]
-**Metodo:** [[method_casework|Analisi per casi]]
-**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
-**Area:** [[Algebra e Analisi|Algebra e analisi]]
 
-[[Quesiti/src_bmo_1973-74_round1#q04|src_bmo_1973-74_round1__Q04]]
+**Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_casework|Analisi per casi]], [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Algebra e Analisi|Algebra e analisi]]
 
 
 
@@ -170,8 +165,6 @@ level: BMO Round 1
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Combinatoria, Logica e Probabilita|Combinatoria, logica e probabilità]]
 
-[[Quesiti/src_bmo_1973-74_round1#q05|src_bmo_1973-74_round1__Q05]]
-
 
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_geometria_piana,method_coordinate,method_trigonometria,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
@@ -201,8 +194,6 @@ level: BMO Round 1
 **Metodo:** [[method_coordinate|Coordinate]], [[method_trigonometria|Trigonometria]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria|Geometria]]
-
-[[Quesiti/src_bmo_1973-74_round1#q06|src_bmo_1973-74_round1__Q06]]
 
 
 
@@ -238,11 +229,9 @@ level: BMO Round 1
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Algebra e Analisi|Algebra e analisi]]
 
-[[Quesiti/src_bmo_1973-74_round1#q07|src_bmo_1973-74_round1__Q07]]
 
 
-
-<span class="atom-split" id="q08" data-atom="q08" data-title="Quesito 8" data-tags="topic_aritmetica,topic_algebra,method_induzione,method_congruenze,method_fattorizzazione,skill_manipolazione_algebrica,skill_ragionamento_geometrico,skill_astrazione"></span>
+<span class="atom-split" id="q08" data-atom="q08" data-title="Quesito 8" data-tags="topic_aritmetica,topic_algebra,method_induzione,method_congruenze,method_fattorizzazione,skill_manipolazione_algebrica,skill_ragionamento_geometrico,skill_astrazione,skill_lettura_attenta"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -272,8 +261,8 @@ level: BMO Round 1
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
 **Metodo:** [[method_induzione|Induzione]], [[method_congruenze|Congruenze]], [[method_fattorizzazione|Fattorizzazione]]
-**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_astrazione|Astrazione]]
-**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_astrazione|Astrazione]], [[skill_lettura_attenta|Careful reading of the text]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Algebra e Analisi|Algebra and analysis]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1CaunYJwpF91WiVYpFeF-ytX3cVGPZI1-/view)
 
 
@@ -303,16 +292,15 @@ level: BMO Round 1
 > \end{itemize}
 > ($p \mid q$ significa che $p$ divide $q$ senza resto.)
 
+
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
 **Metodo:** [[method_induzione|Induzione]], [[method_congruenze|Congruenze]], [[method_fattorizzazione|Fattorizzazione]]
-**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_astrazione|Astrazione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_astrazione|Astrazione]], [[skill_lettura_attenta|Lettura attenta del testo]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Aritmetica e teoria dei numeri]], [[Algebra e Analisi|Algebra e analisi]]
 
-[[Quesiti/src_bmo_1973-74_round1#q08|src_bmo_1973-74_round1__Q08]]
 
 
-
-<span class="atom-split" id="q09" data-atom="q09" data-title="Quesito 9" data-tags="topic_algebra,topic_funzionali,skill_manipolazione_algebrica,skill_modellizzazione"></span>
+<span class="atom-split" id="q09" data-atom="q09" data-title="Quesito 9" data-tags="topic_algebra,topic_funzionali,topic_trigonometria,method_trigonometria,skill_manipolazione_algebrica,skill_modellizzazione"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -323,9 +311,10 @@ level: BMO Round 1
 > 
 > [You may quote the result $\displaystyle\int (\operatorname{cosec} x)\,dx = \log|\tan \tfrac{1}{2}x|$ if you wish.]
 
-**Topic:** [[topic_algebra|Algebra]], [[topic_funzionali|Equazioni funzionali]]
+**Topic:** [[topic_algebra|Algebra]], [[topic_funzionali|Equazioni funzionali]], [[topic_trigonometria|Trigonometry]]
+**Metodo:** [[method_trigonometria|Trigonometric techniques]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]]
-**Area:** [[Algebra e Analisi]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Geometria|Geometry]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1CaunYJwpF91WiVYpFeF-ytX3cVGPZI1-/view)
 
 
@@ -338,15 +327,15 @@ level: BMO Round 1
 >
 > [Si può citare il risultato $\displaystyle\int (\operatorname{cosec} x)\,dx = \log|\tan \tfrac{1}{2}x|$ se si vuole.]
 
-**Topic:** [[topic_algebra|Algebra]], [[topic_funzionali|Equazioni funzionali]]
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_funzionali|Equazioni funzionali]], [[topic_trigonometria|Trigonometria]]
+**Metodo:** [[method_trigonometria|Tecniche trigonometriche]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]]
-**Area:** [[Algebra e Analisi|Algebra e analisi]]
-
-[[Quesiti/src_bmo_1973-74_round1#q09|src_bmo_1973-74_round1__Q09]]
+**Area:** [[Algebra e Analisi|Algebra e analisi]], [[Geometria]]
 
 
 
-<span class="atom-split" id="q10" data-atom="q10" data-title="Quesito 10" data-tags="topic_geometria_solida,topic_algebra,method_coordinate,skill_manipolazione_algebrica,skill_modellizzazione,skill_ragionamento_geometrico"></span>
+<span class="atom-split" id="q10" data-atom="q10" data-title="Quesito 10" data-tags="topic_geometria_solida,topic_algebra,method_coordinate,method_simmetria,method_trigonometria,skill_manipolazione_algebrica,skill_modellizzazione,skill_ragionamento_geometrico"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -359,9 +348,9 @@ level: BMO Round 1
 > $$\tfrac{3}{2}GM(1+\cos\alpha)\,/\,(a^2 + ab + b^2).$$
 
 **Topic:** [[topic_geometria_solida|Geometria solida]], [[topic_algebra|Algebra]]
-**Metodo:** [[method_coordinate|Coordinate]]
+**Metodo:** [[method_coordinate|Coordinate]], [[method_simmetria|Using symmetry]], [[method_trigonometria|Trigonometric techniques]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
-**Area:** [[Geometria]], [[Algebra e Analisi]]
+**Area:** [[Geometria|Geometry]], [[Algebra e Analisi|Algebra and analysis]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1CaunYJwpF91WiVYpFeF-ytX3cVGPZI1-/view)
 
 
@@ -375,9 +364,8 @@ level: BMO Round 1
 > Sapendo che l'attrazione gravitazionale che una massa puntiforme $m$ in $P$ esercita sull'unità di massa in $O$ è $(Gm/OP^3)\overrightarrow{OP}$, dimostrare che il modulo dell'attrazione gravitazionale di questo solido sull'unità di massa in $V$ è
 > $$\tfrac{3}{2}GM(1+\cos\alpha)\,/\,(a^2 + ab + b^2).$$
 
+
 **Topic:** [[topic_geometria_solida|Geometria solida]], [[topic_algebra|Algebra]]
-**Metodo:** [[method_coordinate|Coordinate]]
+**Metodo:** [[method_coordinate|Coordinate]], [[method_simmetria|Sfruttamento della simmetria]], [[method_trigonometria|Tecniche trigonometriche]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria|Geometria]], [[Algebra e Analisi|Algebra e analisi]]
-
-[[Quesiti/src_bmo_1973-74_round1#q10|src_bmo_1973-74_round1__Q10]]

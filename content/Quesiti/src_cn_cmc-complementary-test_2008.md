@@ -10,7 +10,7 @@ level: China Mathematical Competition (Complementary Test)
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_geometria_piana,topic_trigonometria,method_trigonometria,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_geometria_piana,topic_trigonometria,method_trigonometria,method_estremalita,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -24,12 +24,12 @@ level: China Mathematical Competition (Complementary Test)
 > $$\frac{AE}{AB} = \frac{\sqrt{3}}{2}, \quad \frac{BC}{EC} = \sqrt{3} - 1, \quad \angle ECB = \frac{1}{2}\angle ECA;$$
 > furthermore, $DA$, $DC$ are tangent to $\odot O$, $AC = \sqrt{2}$. Find the minimum of $f(P)$.
 
-![[src_cn_cmc-complementary-test_2008__q01.png]]
+![[src_cn_cmc-complementary-test_2008__Q01.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometria]]
-**Metodo:** [[method_trigonometria|Trigonometria]]
+**Metodo:** [[method_trigonometria|Trigonometria]], [[method_estremalita|Extremal principle]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
-**Area:** [[Geometria]]
+**Area:** [[Geometria|Geometry]]
 **Risposta:** $f(P)_{\min} = \sqrt{10}$
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1WZGXm4nA5dcZd9asSbnzGZkeWDSjqbF6/view)
 
@@ -47,16 +47,15 @@ level: China Mathematical Competition (Complementary Test)
 > $$\frac{AE}{AB} = \frac{\sqrt{3}}{2}, \quad \frac{BC}{EC} = \sqrt{3} - 1, \quad \angle ECB = \frac{1}{2}\angle ECA;$$
 > Inoltre, $DA$ e $DC$ sono tangenti a $\odot O$ e $AC = \sqrt{2}$. Trovare il minimo di $f(P)$.
 
-![[src_cn_cmc-complementary-test_2008__q01.png]]
+![[src_cn_cmc-complementary-test_2008__Q01.png]]
 
 > [!warning] Estratto da verificare con la fonte.
 
+
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometria]]
-**Metodo:** [[method_trigonometria|Trigonometria]]
+**Metodo:** [[method_trigonometria|Trigonometria]], [[method_estremalita|Principio di estremalita]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
-
-[[Quesiti/src_cn_cmc-complementary-test_2008#q01|src_cn_cmc-complementary-test_2008__Q01]]
 
 
 
@@ -94,11 +93,9 @@ level: China Mathematical Competition (Complementary Test)
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]]
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 
-[[Quesiti/src_cn_cmc-complementary-test_2008#q02|src_cn_cmc-complementary-test_2008__Q02]]
 
 
-
-<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_algebra,topic_disuguaglianze,method_telescoping,method_estremalita,skill_manipolazione_algebrica,skill_stima"></span>
+<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_algebra,topic_disuguaglianze,topic_funzionali,method_telescoping,method_estremalita,method_ricorsione,skill_manipolazione_algebrica,skill_stima"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -110,10 +107,10 @@ level: China Mathematical Competition (Complementary Test)
 > (2) $\lim_{n \to \infty} x_n$ exists;
 > (3) $x_n - x_{n-1} = \sum_{k=1}^{2008} a_k(x_{n+k} - x_{n+k-1})$, $n = 1, 2, 3, \ldots$
 
-**Topic:** [[topic_algebra|Algebra]], [[topic_disuguaglianze|Disuguaglianze]]
-**Metodo:** [[method_telescoping|Telescoping]], [[method_estremalita|Estremalità]]
+**Topic:** [[topic_algebra|Algebra]], [[topic_disuguaglianze|Disuguaglianze]], [[topic_funzionali|Functional equations / sequences]]
+**Metodo:** [[method_telescoping|Telescoping]], [[method_estremalita|Estremalità]], [[method_ricorsione|Recursion]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]]
-**Area:** [[Algebra e Analisi]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1WZGXm4nA5dcZd9asSbnzGZkeWDSjqbF6/view)
 
 > [!warning] Estratto da verificare con la fonte.
@@ -128,9 +125,8 @@ level: China Mathematical Competition (Complementary Test)
 
 > [!warning] Estratto da verificare con la fonte.
 
-**Topic:** [[topic_algebra|Algebra]], [[topic_disuguaglianze|Disuguaglianze]]
-**Metodo:** [[method_telescoping|Telescoping]], [[method_estremalita|Estremalità]]
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_disuguaglianze|Disuguaglianze]], [[topic_funzionali|Equazioni funzionali / successioni]]
+**Metodo:** [[method_telescoping|Telescoping]], [[method_estremalita|Estremalità]], [[method_ricorsione|Ricorsione]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]]
 **Area:** [[Algebra e Analisi]]
-
-[[Quesiti/src_cn_cmc-complementary-test_2008#q03|src_cn_cmc-complementary-test_2008__Q03]]

@@ -10,7 +10,7 @@ level: JJMO Honsen
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_combinatoria,topic_aritmetica,method_casework,method_estremalita,method_conteggio,skill_lettura_attenta,skill_modellizzazione,skill_conteggio_sistematico"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_combinatoria,topic_aritmetica,method_casework,method_estremalita,method_conteggio,method_colorazione,skill_lettura_attenta,skill_modellizzazione,skill_conteggio_sistematico"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -20,9 +20,9 @@ level: JJMO Honsen
 > Let $n$ be a positive integer. $n$ chairs are placed at equal intervals around a circular table, with one person sitting in each chair. Each person may move to an adjacent chair (moving $0$ or $1$ chair in either direction along the circle), so that after all movements every chair is occupied by exactly one person. Note that a person who stays in their original chair counts as having moved $0$ steps, and the length of each move is at most $1$. Let $S$ denote the total number of steps (sum of individual moves) walked by all $n$ people. Find the maximum possible value of $S$.
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_casework|Casework]], [[method_estremalita|Estremalità]], [[method_conteggio|Conteggio]]
+**Metodo:** [[method_casework|Casework]], [[method_estremalita|Estremalità]], [[method_conteggio|Conteggio]], [[method_colorazione|Colouring / parity]]
 **Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_modellizzazione|Modellizzazione]], [[skill_conteggio_sistematico|Conteggio sistematico]]
-**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Ho2le-gwPvbBiq_sWgDwI8cp--nm23DX/view)
 
 
@@ -33,12 +33,11 @@ level: JJMO Honsen
 
 > Sia $n$ un numero intero positivo. $n$ sedie sono disposte a intervalli uguali attorno a un tavolo circolare, con una persona seduta su ciascuna sedia. Ogni persona può spostarsi su una sedia adiacente (spostandosi di $0$ o $1$ sedie in entrambe le direzioni lungo il cerchio), in modo che, dopo tutti gli spostamenti, ogni sedia sia occupata da esattamente una persona. Si noti che una persona che rimane sulla propria sedia originale conta come se avesse compiuto uno spostamento di $0$ passi, e la lunghezza di ciascuno spostamento è al più $1$. Sia $S$ il numero totale di passi (somma degli spostamenti individuali) percorsi da tutte le $n$ persone. Determinare il valore massimo possibile di $S$.
 
+
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_casework|Casework]], [[method_estremalita|Estremalità]], [[method_conteggio|Conteggio]]
+**Metodo:** [[method_casework|Casework]], [[method_estremalita|Estremalità]], [[method_conteggio|Conteggio]], [[method_colorazione|Colorazione / parita]]
 **Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_modellizzazione|Modellizzazione]], [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
-
-[[Quesiti/src_jjmo15mq_honsen#q01|src_jjmo15mq_honsen__Q01]]
 
 
 
@@ -70,11 +69,9 @@ level: JJMO Honsen
 **Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 
-[[Quesiti/src_jjmo15mq_honsen#q02|src_jjmo15mq_honsen__Q02]]
 
 
-
-<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_algebra,topic_disuguaglianze,method_induzione,method_casework,method_disuguaglianze,skill_manipolazione_algebrica,skill_lettura_attenta,skill_ragionamento_geometrico"></span>
+<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_algebra,topic_disuguaglianze,method_induzione,method_casework,method_disuguaglianze,skill_manipolazione_algebrica,skill_lettura_attenta,skill_ragionamento_geometrico,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -87,8 +84,8 @@ level: JJMO Honsen
 
 **Topic:** [[topic_algebra|Algebra]], [[topic_disuguaglianze|Disuguaglianze]]
 **Metodo:** [[method_induzione|Induzione]], [[method_casework|Casework]], [[method_disuguaglianze|Disuguaglianze]]
-**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
-**Area:** [[Algebra e Analisi]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Ho2le-gwPvbBiq_sWgDwI8cp--nm23DX/view)
 
 
@@ -101,16 +98,15 @@ level: JJMO Honsen
 > $$nS + (n+1)T \ge 0.$$
 > Nota: quando tra i numeri assegnati non esiste alcun valore positivo, si ponga $S = 0$; quando non esiste alcun valore negativo, si ponga $T = 0$.
 
+
 **Topic:** [[topic_algebra|Algebra]], [[topic_disuguaglianze|Disuguaglianze]]
 **Metodo:** [[method_induzione|Induzione]], [[method_casework|Casework]], [[method_disuguaglianze|Disuguaglianze]]
-**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Algebra e Analisi]]
 
-[[Quesiti/src_jjmo15mq_honsen#q03|src_jjmo15mq_honsen__Q03]]
 
 
-
-<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_combinatoria,topic_geometria_analitica,method_estremalita,method_casework,method_cassetti,skill_modellizzazione,skill_stima,skill_conteggio_sistematico"></span>
+<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_combinatoria,topic_geometria_analitica,method_estremalita,method_casework,method_cassetti,skill_modellizzazione,skill_stima,skill_conteggio_sistematico,skill_ragionamento_geometrico"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -121,8 +117,8 @@ level: JJMO Honsen
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_geometria_analitica|Geometria analitica]]
 **Metodo:** [[method_estremalita|Estremalità]], [[method_casework|Casework]], [[method_cassetti|Principio dei cassetti]]
-**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_stima|Stima]], [[skill_conteggio_sistematico|Conteggio sistematico]]
-**Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_stima|Stima]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Geometria|Geometry]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Ho2le-gwPvbBiq_sWgDwI8cp--nm23DX/view)
 
 
@@ -133,12 +129,11 @@ level: JJMO Honsen
 
 > Nel piano $xy$, ci sono due curve $y = f(x)$ e $y = g(x)$ che non si intersecano, e per ogni punto appartenente a una delle due curve la coordinata $y$ è almeno $1$. Tra qualsiasi insieme di $5$ punti scelti su queste due curve (con almeno $2$ punti su ciascuna curva), si considerino tutti i rettangoli allineati agli assi, i cui lati sono paralleli agli assi coordinati e i cui vertici opposti sono due dei punti scelti che giacciono su curve diverse; ciascuno di tali rettangoli ha area almeno $1$. Sia $M$ il massimo area di tali rettangoli su tutte le scelte dei $5$ punti. Si determini il valore minimo possibile di $M$.
 
+
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_geometria_analitica|Geometria analitica]]
 **Metodo:** [[method_estremalita|Estremalità]], [[method_casework|Casework]], [[method_cassetti|Principio dei cassetti]]
-**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_stima|Stima]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_stima|Stima]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
-
-[[Quesiti/src_jjmo15mq_honsen#q04|src_jjmo15mq_honsen__Q04]]
 
 
 
@@ -169,5 +164,3 @@ level: JJMO Honsen
 **Metodo:** [[method_trigonometria|Trigonometria]], [[method_coordinate|Coordinate]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
-
-[[Quesiti/src_jjmo15mq_honsen#q05|src_jjmo15mq_honsen__Q05]]

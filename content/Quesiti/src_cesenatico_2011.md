@@ -10,7 +10,7 @@ level: nazionale
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_geometria_piana,skill_ragionamento_geometrico"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_geometria_piana,topic_algebra,method_casework,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -23,9 +23,10 @@ level: nazionale
 > area. Determinare il minimo valore possibile per m + n e le lunghezze dei tagli da effettuare per realizzare tale
 > minimo valore.
 
-**Topic:** [[topic_geometria_piana|Geometria piana]]
-**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
-**Area:** [[Geometria]]
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]], [[Algebra e Analisi]]
 **Risposta:** 15 (tagli lunghi sqrt2..sqrt15)
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1ZgCq2k5aOrXSuhhzvdkr8guHFAKG9sju/view)
 
@@ -37,14 +38,15 @@ level: nazionale
 
 > A trapezium is given, with bases of lengths 1 and 4 respectively. We divide it into two trapeziums by a cut parallel to the bases, of length 3. We now wish to divide the two new trapeziums, again by cuts parallel to the bases, into m and n trapeziums respectively, so that all the m + n trapeziums obtained have the same area. Determine the least possible value of m + n, and the lengths of the cuts to be made in order to achieve that least value.
 
-**Topic:** [[topic_geometria_piana|Plane geometry]]
-**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
 
-[[Quesiti/src_cesenatico_2011#q01|src_cesenatico_2011__Q01]]
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Geometria|Geometry]], [[Algebra e Analisi|Algebra and analysis]]
 
 
 
-<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_aritmetica,method_induzione,skill_astrazione"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_aritmetica,method_induzione,method_congruenze,skill_astrazione"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -61,7 +63,7 @@ level: nazionale
 > di 1.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_induzione|Induzione]]
+**Metodo:** [[method_induzione|Induzione]], [[method_congruenze|Aritmetica modulare / congruenze]]
 **Abilita:** [[skill_astrazione|Astrazione / generalizzazione]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1ZgCq2k5aOrXSuhhzvdkr8guHFAKG9sju/view)
@@ -76,15 +78,15 @@ level: nazionale
 > (a) Prove that for every positive integer n there exist two ladders of length n, with no element in common, a1, a2, . . . , an and b1, b2, . . . , bn, such that for every i between 1 and n the highest common factor of ai and bi equals 1.
 > (b) Prove that for every positive integer n there exist two ladders of length n, with no element in common, a1, a2, . . . , an and b1, b2, . . . , bn, such that for every i between 1 and n the highest common factor of ai and bi is greater than 1.
 
+
 **Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
-**Method:** [[method_induzione|Induction]]
-**Skill:** [[skill_astrazione|Abstraction / generalisation]]
-
-[[Quesiti/src_cesenatico_2011#q02|src_cesenatico_2011__Q02]]
-
+**Metodo:** [[method_induzione|Induction]], [[method_congruenze|Modular arithmetic / congruences]]
+**Abilita:** [[skill_astrazione|Abstraction / generalisation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
 
-<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_combinatoria,method_invarianti,skill_astrazione"></span>
+
+<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_combinatoria,method_invarianti,method_congruenze,skill_astrazione"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -104,7 +106,7 @@ level: nazionale
 > di mosse utilizzata.
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
-**Metodo:** [[method_invarianti|Invarianti / monovarianti]]
+**Metodo:** [[method_invarianti|Invarianti / monovarianti]], [[method_congruenze|Aritmetica modulare / congruenze]]
 **Abilita:** [[skill_astrazione|Astrazione / generalizzazione]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1ZgCq2k5aOrXSuhhzvdkr8guHFAKG9sju/view)
@@ -122,11 +124,11 @@ level: nazionale
 > • erase a 1, a 2, a 3, a 4, a 5, a 6 and a 7, writing nothing in their place.
 > Prove that, if it is possible to find a sequence of moves which, starting from the initial situation, leads to having a single number on the blackboard (written once only), then this number does not depend on the sequence of moves used.
 
-**Topic:** [[topic_combinatoria|Combinatorics]]
-**Method:** [[method_invarianti|Invariants / monovariants]]
-**Skill:** [[skill_astrazione|Abstraction / generalisation]]
 
-[[Quesiti/src_cesenatico_2011#q03|src_cesenatico_2011__Q03]]
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_invarianti|Invariants / monovariants]], [[method_congruenze|Modular arithmetic / congruences]]
+**Abilita:** [[skill_astrazione|Abstraction / generalisation]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
 
 
@@ -163,12 +165,13 @@ level: nazionale
 **Topic:** [[topic_geometria_piana|Plane geometry]]
 **Method:** [[method_simmetria|Using symmetry]]
 **Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
 
 [[src_cesenatico_2011__prob4.png]]
 
 
 
-<span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_aritmetica,method_casework,method_fattorizzazione,skill_manipolazione_algebrica"></span>
+<span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_aritmetica,method_casework,method_fattorizzazione,method_congruenze,skill_manipolazione_algebrica,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -180,8 +183,8 @@ level: nazionale
 > dove p è un numero primo e n è un numero intero.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_casework|Analisi per casi]], [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
-**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Metodo:** [[method_casework|Analisi per casi]], [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]], [[method_congruenze|Aritmetica modulare / congruenze]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** (2,1) e (37,11)
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1ZgCq2k5aOrXSuhhzvdkr8guHFAKG9sju/view)
@@ -196,15 +199,15 @@ level: nazionale
 > n3 = p2 −p −1
 > where p is a prime number and n is an integer.
 
+
 **Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
-**Method:** [[method_casework|Case analysis]], [[method_fattorizzazione|Factorisation / algebraic manipulation]]
-**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
-
-[[Quesiti/src_cesenatico_2011#q05|src_cesenatico_2011__Q05]]
-
+**Metodo:** [[method_casework|Case analysis]], [[method_fattorizzazione|Factorisation / algebraic manipulation]], [[method_congruenze|Modular arithmetic / congruences]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
 
-<span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_combinatoria,method_colorazione,skill_casework_accurato"></span>
+
+<span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_combinatoria,method_colorazione,method_cassetti,skill_casework_accurato,skill_astrazione"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -218,8 +221,8 @@ level: nazionale
 > (b) 3 colori non sono sufficienti.
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
-**Metodo:** [[method_colorazione|Colorazione / parita]]
-**Abilita:** [[skill_casework_accurato|Casework accurato]]
+**Metodo:** [[method_colorazione|Colorazione / parita]], [[method_cassetti|Principio dei cassetti]]
+**Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_astrazione|Astrazione / generalizzazione]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1ZgCq2k5aOrXSuhhzvdkr8guHFAKG9sju/view)
 
@@ -234,8 +237,8 @@ level: nazionale
 > (a) 4 colours are sufficient;
 > (b) 3 colours are not sufficient.
 
-**Topic:** [[topic_combinatoria|Combinatorics]]
-**Method:** [[method_colorazione|Colouring / parity]]
-**Skill:** [[skill_casework_accurato|Careful case analysis]]
 
-[[Quesiti/src_cesenatico_2011#q06|src_cesenatico_2011__Q06]]
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_colorazione|Colouring / parity]], [[method_cassetti|Pigeonhole principle]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]], [[skill_astrazione|Abstraction / generalisation]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]

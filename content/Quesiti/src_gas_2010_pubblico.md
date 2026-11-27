@@ -10,7 +10,7 @@ level: squadre
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_aritmetica,topic_logica,method_casework,skill_lettura_attenta"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_aritmetica,topic_logica,method_casework,skill_lettura_attenta,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -27,7 +27,7 @@ level: squadre
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_logica|Logica, giochi, strategie]]
 **Metodo:** [[method_casework|Analisi per casi]]
-**Abilita:** [[skill_lettura_attenta|Lettura attenta del testo]]
+**Abilita:** [[skill_lettura_attenta|Lettura attenta del testo]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0032
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1i4414ajFgE0yMTXcr3OLax-vaU4TE_PE/view)
@@ -42,16 +42,15 @@ level: squadre
 > [20]
 > At dawn on May 8, 1726, Jack Disparrow, Bourbakossa, and Elizabeth Somm are sitting drunk at a bar table when a young man with an innocent air shows up and says he has heard that, to become a π-rat, he must approach the three π-rats with imposing looks at that bar. Half-seriously and half-jokingly, the three friends pose a π-rat-like question to him: "How many years from now until 2726 are multiples of the answer to this question?"
 
+
 **Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_logica|Logic, games and strategies]]
 **Metodo:** [[method_casework|Case analysis]]
-**Abilita:** [[skill_lettura_attenta|Careful reading]]
+**Abilita:** [[skill_lettura_attenta|Careful reading]], [[skill_casework_accurato|Careful case analysis]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
-[[Quesiti/src_gas_2010_pubblico#q01|src_gas_2010_pubblico__Q01]]
 
 
-
-<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_probabilita,topic_combinatoria,method_conteggio,method_inclusione_esclusione,skill_conteggio_sistematico"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_probabilita,topic_combinatoria,method_conteggio,method_inclusione_esclusione,method_casi_conteggio,skill_conteggio_sistematico,skill_ragionamento_geometrico"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -67,8 +66,8 @@ level: squadre
 > [Come risultato fornire il prodotto di numeratore e denominatore della frazione ridotta ai minimi termini]
 
 **Topic:** [[topic_probabilita|Probabilita e statistica]], [[topic_combinatoria|Combinatoria]]
-**Metodo:** [[method_conteggio|Conteggio combinatorio]], [[method_inclusione_esclusione|Inclusione-esclusione]]
-**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Metodo:** [[method_conteggio|Conteggio combinatorio]], [[method_inclusione_esclusione|Inclusione-esclusione]], [[method_casi_conteggio|Conteggio per casi]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0024
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1i4414ajFgE0yMTXcr3OLax-vaU4TE_PE/view)
@@ -83,16 +82,15 @@ level: squadre
 > [40]
 > At the end of a tasty dinner, 8 pirates decide to split the bill as follows: they take a cubic crate of rum, and each one chooses one of the 8 vertices and sticks the receipt for their meal to it. Then they randomly choose one of the 24 rotations of the crate, and each pirate pays the amount on the receipt that ends up on their vertex after the rotation. What is the probability that at least 2 pirates pay for the meal they themselves ate? [As the result, provide the product of the numerator and denominator of the fraction in lowest terms]
 
+
 **Topic:** [[topic_probabilita|Probability and statistics]], [[topic_combinatoria|Combinatorics]]
-**Metodo:** [[method_conteggio|Combinatorial counting]], [[method_inclusione_esclusione|Inclusion–exclusion]]
-**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Metodo:** [[method_conteggio|Combinatorial counting]], [[method_inclusione_esclusione|Inclusion–exclusion]], [[method_casi_conteggio|Counting by cases]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]], [[skill_ragionamento_geometrico|Geometric reasoning]]
 **Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
-[[Quesiti/src_gas_2010_pubblico#q02|src_gas_2010_pubblico__Q02]]
 
 
-
-<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_logica,method_casework,skill_casework_accurato"></span>
+<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_logica,method_casework,skill_casework_accurato,skill_lettura_attenta,skill_modellizzazione"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -111,7 +109,7 @@ level: squadre
 
 **Topic:** [[topic_logica|Logica, giochi, strategie]]
 **Metodo:** [[method_casework|Analisi per casi]]
-**Abilita:** [[skill_casework_accurato|Casework accurato]]
+**Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_lettura_attenta|Lettura attenta del testo]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 8994
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1i4414ajFgE0yMTXcr3OLax-vaU4TE_PE/view)
@@ -126,16 +124,15 @@ level: squadre
 > [30]
 > On Tortuga, Will met a small group of 9 savages. The archipelago they come from consists of 3 islands with a total population of 10,000, including themselves. It is known that the inhabitants of Isla Cruces are always truthful (but also cannibals), that the inhabitants of Isla de Muerta always lie, and that the inhabitants of Isla de Mono may be truthful or lie. The nine line up, and in turn, the n-th person in the line states: "My island has no fewer than n thousand inhabitants." It is also known that there are 3 people from each island in the line and that at least one person from Isla de Mono told the truth. What is the maximum possible difference between the populations of Isla Cruces and Isla de Muerta?
 
+
 **Topic:** [[topic_logica|Logic, games and strategies]]
 **Metodo:** [[method_casework|Case analysis]]
-**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]], [[skill_lettura_attenta|Careful reading of the text]], [[skill_modellizzazione|Modelling / translating the text]]
 **Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
-[[Quesiti/src_gas_2010_pubblico#q03|src_gas_2010_pubblico__Q03]]
 
 
-
-<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_algebra,skill_manipolazione_algebrica"></span>
+<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_algebra,method_fattorizzazione,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -155,6 +152,7 @@ level: squadre
 > Gara a Squadre 2010 – Gara del pubblico – Testi dei problemi
 
 **Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Algebra e Analisi]]
 **Risposta:** 6770
@@ -172,11 +170,11 @@ level: squadre
 >
 > 2/3 Team Competition 2010 – Public Vote Round – Problem Statements
 
+
 **Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
 **Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
 **Area:** [[Algebra e Analisi|Algebra and analysis]]
-
-[[Quesiti/src_gas_2010_pubblico#q04|src_gas_2010_pubblico__Q04]]
 
 
 
@@ -217,11 +215,9 @@ level: squadre
 **Abilita:** [[skill_astrazione|Abstraction / generalisation]]
 **Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
-[[Quesiti/src_gas_2010_pubblico#q05|src_gas_2010_pubblico__Q05]]
 
 
-
-<span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_aritmetica,method_congruenze,skill_manipolazione_algebrica"></span>
+<span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_aritmetica,method_congruenze,skill_manipolazione_algebrica,skill_lettura_attenta,skill_modellizzazione"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -238,7 +234,7 @@ level: squadre
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]]
-**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta del testo]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 2520
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1i4414ajFgE0yMTXcr3OLax-vaU4TE_PE/view)
@@ -253,16 +249,15 @@ level: squadre
 > [35]
 > Jack Sparrow's compass almost never points north. At midnight on a given day, the compass points north and begins to move according to this algorithm: every 15 minutes, the needle suddenly moves forward by 90 degrees and then just as instantly moves back by a number of degrees equal to 6 times the number of minutes that have elapsed up to that point, counting from midnight. For how many minutes over the course of a week does the compass point exactly north?
 
+
 **Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
 **Metodo:** [[method_congruenze|Modular arithmetic / congruences]]
-**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_lettura_attenta|Careful reading of the text]], [[skill_modellizzazione|Modelling / translating the text]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
-[[Quesiti/src_gas_2010_pubblico#q06|src_gas_2010_pubblico__Q06]]
 
 
-
-<span class="atom-split" id="q07" data-atom="q07" data-title="Quesito 7" data-tags="topic_geometria_piana,skill_ragionamento_geometrico"></span>
+<span class="atom-split" id="q07" data-atom="q07" data-title="Quesito 7" data-tags="topic_geometria_piana,method_fattorizzazione,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -275,7 +270,8 @@ level: squadre
 > misurano 25, 153 e 160 cm. Quanti cm2 misura la sua area?
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
-**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 **Risposta:** 2496
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1i4414ajFgE0yMTXcr3OLax-vaU4TE_PE/view)
@@ -290,15 +286,15 @@ level: squadre
 > [60]
 > The dorsal fin of the hammerhead shark that is part of Davy Jensen's crew is a large triangle whose medians measure 25, 153, and 160 cm. What are its area in square centimeters?
 
+
 **Topic:** [[topic_geometria_piana|Plane geometry]]
-**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
 **Area:** [[Geometria|Geometry]]
 
-[[Quesiti/src_gas_2010_pubblico#q07|src_gas_2010_pubblico__Q07]]
 
 
-
-<span class="atom-split" id="q08" data-atom="q08" data-title="Quesito 8" data-tags="topic_probabilita,method_simmetria,skill_conteggio_sistematico"></span>
+<span class="atom-split" id="q08" data-atom="q08" data-title="Quesito 8" data-tags="topic_probabilita,topic_aritmetica,method_simmetria,method_conteggio,skill_conteggio_sistematico"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -318,10 +314,10 @@ level: squadre
 > naturale k = 0,1,2,..., pk è la probabilità che gli anni vinti siano k. Qual è il numero medio di anni vinti?
 > [Come risultato fornire il prodotto di numeratore e denominatore della frazione ridotta ai minimi termini]
 
-**Topic:** [[topic_probabilita|Probabilita e statistica]]
-**Metodo:** [[method_simmetria|Sfruttamento della simmetria]]
+**Topic:** [[topic_probabilita|Probabilita e statistica]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_simmetria|Sfruttamento della simmetria]], [[method_conteggio|Conteggio combinatorio]]
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
-**Area:** [[Combinatoria, Logica e Probabilita]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 0012
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1i4414ajFgE0yMTXcr3OLax-vaU4TE_PE/view)
 
@@ -335,16 +331,15 @@ level: squadre
 > [65]
 > The cursed π-rat Davy Jensen has a bag containing 90 white bingo tiles (numbered from 1 to 90), plus 1 single blood-red tile. Anyone who asks him for his favors, in order to find out for how many years they will be able to enjoy them, must take part in the following game: they draw the tiles at random one at a time until the red tile comes up. The person playing will enjoy the favors for as many years as the number of white tiles with a prime number that come up before the red tile. Bill “Fire-Spitter” Turing, who is watching from the sidelines, wonders, on average, how many years are won in this way. Jack doesn't quite understand what his π-rat colleague means, but his son Will, who has studied, explains to him that among the many ways of defining the average number of years won (all of which lead to the same result), the most common one is the sum of the numbers k · pk, where, for each natural number k = 0,1,2,..., pk is the probability that the number of years won is k. What is the average number of years won? [As the result, give the product of the numerator and denominator of the fraction reduced to lowest terms]
 
-**Topic:** [[topic_probabilita|Probability and statistics]]
-**Metodo:** [[method_simmetria|Using symmetry]]
+
+**Topic:** [[topic_probabilita|Probability and statistics]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_simmetria|Using symmetry]], [[method_conteggio|Combinatorial counting]]
 **Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
-**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
-
-[[Quesiti/src_gas_2010_pubblico#q08|src_gas_2010_pubblico__Q08]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
 
 
-<span class="atom-split" id="q09" data-atom="q09" data-title="Quesito 9" data-tags="topic_aritmetica,method_casework,skill_casework_accurato"></span>
+<span class="atom-split" id="q09" data-atom="q09" data-title="Quesito 9" data-tags="topic_aritmetica,method_casework,method_fattorizzazione,skill_casework_accurato,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -359,8 +354,8 @@ level: squadre
 > del terreno di Jack non arriva a 300 metri, quanto può misurare, al massimo?
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_casework|Analisi per casi]]
-**Abilita:** [[skill_casework_accurato|Casework accurato]]
+**Metodo:** [[method_casework|Analisi per casi]], [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
+**Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 0156
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1i4414ajFgE0yMTXcr3OLax-vaU4TE_PE/view)
@@ -375,16 +370,15 @@ level: squadre
 > [50]
 > Jack and Elizabeth, shipwrecked on the small island, each claim a square plot of land. The sides of the two squares are whole numbers of meters, but according to Jack, his is larger: "Aah! The area of my territory, in square meters, has the same digits as yours, but each digit is increased by 1." Knowing that the side of Jack's plot is less than 300 meters, what is its maximum possible length?
 
+
 **Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
-**Metodo:** [[method_casework|Case analysis]]
-**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Metodo:** [[method_casework|Case analysis]], [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
-[[Quesiti/src_gas_2010_pubblico#q09|src_gas_2010_pubblico__Q09]]
 
 
-
-<span class="atom-split" id="q10" data-atom="q10" data-title="Quesito 10" data-tags="topic_geometria_solida,method_coordinate,skill_ragionamento_geometrico"></span>
+<span class="atom-split" id="q10" data-atom="q10" data-title="Quesito 10" data-tags="topic_geometria_solida,topic_geometria_piana,method_coordinate,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -400,9 +394,9 @@ level: squadre
 > dovranno giacere su piani ortogonali, e dovranno toccarsi in due punti distanti 40 cm. Quanti millimetri
 > dovrà misurare il diametro della sfera di creta?
 
-**Topic:** [[topic_geometria_solida|Geometria solida]]
+**Topic:** [[topic_geometria_solida|Geometria solida]], [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_coordinate|Metodo delle coordinate]]
-**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 **Risposta:** 0780
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1i4414ajFgE0yMTXcr3OLax-vaU4TE_PE/view)
@@ -417,16 +411,15 @@ level: squadre
 > [50]
 > Jack is increasingly terrified of Cramer; he senses Cramer's presence everywhere and ceaselessly searches for Cramer's ship. The Voodoo Lady Tria Geome, using her Geomistic powers, will help him create a talisman that can keep the creature at bay. She explains to him that he will have to make a clay sphere and draw two mystical circles on its surface. These circles must have diameters of 50 and 72 cm, must lie in mutually perpendicular planes, and must touch at two points 40 cm apart. How many millimeters must the diameter of the clay sphere measure?
 
-**Topic:** [[topic_geometria_solida|Solid geometry]]
+
+**Topic:** [[topic_geometria_solida|Solid geometry]], [[topic_geometria_piana|Plane geometry]]
 **Metodo:** [[method_coordinate|Coordinate method]]
-**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
 **Area:** [[Geometria|Geometry]]
 
-[[Quesiti/src_gas_2010_pubblico#q10|src_gas_2010_pubblico__Q10]]
 
 
-
-<span class="atom-split" id="q11" data-atom="q11" data-title="Quesito 11" data-tags="topic_funzionali,topic_aritmetica,method_congruenze,skill_manipolazione_algebrica"></span>
+<span class="atom-split" id="q11" data-atom="q11" data-title="Quesito 11" data-tags="topic_funzionali,topic_aritmetica,method_congruenze,method_ricorsione,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -445,7 +438,7 @@ level: squadre
 > 3/3
 
 **Topic:** [[topic_funzionali|Equazioni funzionali / successioni]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]]
+**Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]], [[method_ricorsione|Ricorsione]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 0513
@@ -463,16 +456,15 @@ level: squadre
 >
 > 2010 Team Competition – Public Vote Round – Problem Statements 3/3
 
+
 **Topic:** [[topic_funzionali|Functional equations / sequences]], [[topic_aritmetica|Arithmetic / Number theory]]
-**Metodo:** [[method_congruenze|Modular arithmetic / congruences]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]], [[method_ricorsione|Recursion]]
 **Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
 **Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
-[[Quesiti/src_gas_2010_pubblico#q11|src_gas_2010_pubblico__Q11]]
 
 
-
-<span class="atom-split" id="q12" data-atom="q12" data-title="Quesito 12" data-tags="topic_logica,topic_combinatoria,method_casework,skill_casework_accurato"></span>
+<span class="atom-split" id="q12" data-atom="q12" data-title="Quesito 12" data-tags="topic_logica,topic_combinatoria,method_casework,skill_casework_accurato,skill_modellizzazione"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -490,7 +482,7 @@ level: squadre
 
 **Topic:** [[topic_logica|Logica, giochi, strategie]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_casework|Analisi per casi]]
-**Abilita:** [[skill_casework_accurato|Casework accurato]]
+**Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 9494
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1i4414ajFgE0yMTXcr3OLax-vaU4TE_PE/view)
@@ -505,16 +497,15 @@ level: squadre
 > [50]
 > The crew of the Perla Vera is divided into two factions: those loyal to Jack, who always tell the truth, and those loyal to Bourbakossa, who always lie. Everyone lines up on the deck in a rectangle measuring 1726 × 11, and each person says aloud, for each of the people next to them, either "He serves Jack" or "He serves Bourbakossa", pointing at them (so those at the corners will say 2 sentences, those on the sides will say 3, and those on the inside will say 4). Given that each person says "He serves Jack" exactly once, what is the maximum number of people loyal to Jack?
 
+
 **Topic:** [[topic_logica|Logic, games and strategies]], [[topic_combinatoria|Combinatorics]]
 **Metodo:** [[method_casework|Case analysis]]
-**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]], [[skill_modellizzazione|Modelling / translating the text]]
 **Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
-[[Quesiti/src_gas_2010_pubblico#q12|src_gas_2010_pubblico__Q12]]
 
 
-
-<span class="atom-split" id="q13" data-atom="q13" data-title="Quesito 13" data-tags="topic_probabilita,topic_combinatoria,method_conteggio,skill_conteggio_sistematico"></span>
+<span class="atom-split" id="q13" data-atom="q13" data-title="Quesito 13" data-tags="topic_probabilita,topic_combinatoria,method_conteggio,method_casi_conteggio,skill_conteggio_sistematico"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -531,7 +522,7 @@ level: squadre
 > [Come risultato fornire il prodotto di numeratore e denominatore della frazione ridotta ai minimi termini]
 
 **Topic:** [[topic_probabilita|Probabilita e statistica]], [[topic_combinatoria|Combinatoria]]
-**Metodo:** [[method_conteggio|Conteggio combinatorio]]
+**Metodo:** [[method_conteggio|Conteggio combinatorio]], [[method_casi_conteggio|Conteggio per casi]]
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0006
@@ -547,16 +538,15 @@ level: squadre
 > [80]
 > Will, Elizabeth, Captain Disparrow, and Captain Bourbakossa cannot agree on the route to follow and decide to leave the choice to chance. The cabin boy Filibunacci prepares 7 sticks measuring 1, 2, 3, 5, 8, 13, and 21 cm. Captain Disparrow wins if he draws the shortest stick among all the sticks drawn, or if the sum of the length of his stick and the length of Elizabeth's stick is greater than the sum of the lengths of the other two sticks drawn. What is the probability that Captain Disparrow wins? [As the result, provide the product of the numerator and denominator of the fraction reduced to lowest terms.]
 
+
 **Topic:** [[topic_probabilita|Probability and statistics]], [[topic_combinatoria|Combinatorics]]
-**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Metodo:** [[method_conteggio|Combinatorial counting]], [[method_casi_conteggio|Counting by cases]]
 **Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
 **Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
-[[Quesiti/src_gas_2010_pubblico#q13|src_gas_2010_pubblico__Q13]]
 
 
-
-<span class="atom-split" id="q14" data-atom="q14" data-title="Quesito 14" data-tags="topic_funzionali,method_ricorsione,skill_manipolazione_algebrica"></span>
+<span class="atom-split" id="q14" data-atom="q14" data-title="Quesito 14" data-tags="topic_funzionali,method_ricorsione,method_estremalita,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -572,7 +562,7 @@ level: squadre
 > perché ha perso il minimo possibile. Quanti dobloni ha vinto Will?
 
 **Topic:** [[topic_funzionali|Equazioni funzionali / successioni]]
-**Metodo:** [[method_ricorsione|Ricorsione]]
+**Metodo:** [[method_ricorsione|Ricorsione]], [[method_estremalita|Principio di estremalita]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Algebra e Analisi]]
 **Risposta:** 8615
@@ -588,16 +578,15 @@ level: squadre
 > [65]
 > Will Turing never got over his defeat in the duel with Jack Disparrow when they first met. Every month for 7 years, they meet and duel: both stake the same amount of money, and in the end one of them wins and takes the whole pot. In the first month, the stake is a1 = 1726 doblons; in the following months, they stake an amount given by the formula an+1 = 2an + 2n−1, for n = 1, 2, ... . At the end of this great 7-year challenge, Will turns out to be the one who has won the most doblons, but Jack is still happy because he lost as little as possible. How many doblons did Will win?
 
+
 **Topic:** [[topic_funzionali|Functional equations / sequences]]
-**Metodo:** [[method_ricorsione|Recursion]]
+**Metodo:** [[method_ricorsione|Recursion]], [[method_estremalita|Extremal principle]]
 **Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
 **Area:** [[Algebra e Analisi|Algebra and analysis]]
 
-[[Quesiti/src_gas_2010_pubblico#q14|src_gas_2010_pubblico__Q14]]
 
 
-
-<span class="atom-split" id="q15" data-atom="q15" data-title="Quesito 15" data-tags="topic_probabilita,topic_combinatoria,method_inclusione_esclusione,skill_conteggio_sistematico"></span>
+<span class="atom-split" id="q15" data-atom="q15" data-title="Quesito 15" data-tags="topic_probabilita,topic_combinatoria,method_inclusione_esclusione,method_conteggio,skill_conteggio_sistematico"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -614,7 +603,7 @@ level: squadre
 > numeri vicini (se il gioco non è truccato)?
 
 **Topic:** [[topic_probabilita|Probabilita e statistica]], [[topic_combinatoria|Combinatoria]]
-**Metodo:** [[method_inclusione_esclusione|Inclusione-esclusione]]
+**Metodo:** [[method_inclusione_esclusione|Inclusione-esclusione]], [[method_conteggio|Conteggio combinatorio]]
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 5173
@@ -630,16 +619,15 @@ level: squadre
 > [70]
 > Ragetti, the mate with the wooden eye, is very skeptical about the π-ratesco lottery. He has noticed that it happens unusually often for two "adjacent" numbers to be drawn—that is, numbers whose difference is less than or equal to 2 (for example, 17 and 19, or 27 and 28, but not 46 and 49). Being well acquainted with the tricks of piracy, he believes this is an indication that the game is rigged. Knowing that in the π-ratesco lottery six numbers are drawn from 1 to 90, could you say in how many out of 10,000 draws we should expect at least two adjacent numbers to come up (if the game isn't rigged)?
 
+
 **Topic:** [[topic_probabilita|Probability and statistics]], [[topic_combinatoria|Combinatorics]]
-**Metodo:** [[method_inclusione_esclusione|Inclusion–exclusion]]
+**Metodo:** [[method_inclusione_esclusione|Inclusion–exclusion]], [[method_conteggio|Combinatorial counting]]
 **Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
 **Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
-[[Quesiti/src_gas_2010_pubblico#q15|src_gas_2010_pubblico__Q15]]
 
 
-
-<span class="atom-split" id="q16" data-atom="q16" data-title="Quesito 16" data-tags="topic_geometria_piana,skill_ragionamento_geometrico"></span>
+<span class="atom-split" id="q16" data-atom="q16" data-title="Quesito 16" data-tags="topic_geometria_piana,method_fattorizzazione,skill_ragionamento_geometrico,skill_modellizzazione,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -661,7 +649,8 @@ level: squadre
 > Quanti m2 misura sulla cartina la parte dell’isola nella quale secondo la leggenda si può trovare il tesoro?
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
-**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 **Risposta:** 6156
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1i4414ajFgE0yMTXcr3OLax-vaU4TE_PE/view)
@@ -676,8 +665,8 @@ level: squadre
 > [80]
 > All π-rats with a few years under their belts have heard of the fabulous treasure hidden on the lost Isla de Mono; legend has it that the treasure is buried at a point on the island where the elevation is at least 4 metres. Tria Geome may possess the only map of the island, from which it can be deduced that: the plan is a circumscribable pentagon (that is, a pentagon that admits an inscribed circle tangent to all its sides); the depth of the sea around the island is √π times the minimum distance from the shore measured on the map, while the elevation of every point on the island's surface is √π/2 multiplied by the minimum distance of that point from the water, measured on the map; the area on the map enclosed by the points at a depth of 14 metres is 10456 m², while the area enclosed by the points at a depth of 24 metres is 12736 m². How many square metres on the map does the part of the island in which, according to legend, the treasure can be found measure?
 
-**Topic:** [[topic_geometria_piana|Plane geometry]]
-**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
-**Area:** [[Geometria|Geometry]]
 
-[[Quesiti/src_gas_2010_pubblico#q16|src_gas_2010_pubblico__Q16]]
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_modellizzazione|Modelling / translating the text]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Geometria|Geometry]]

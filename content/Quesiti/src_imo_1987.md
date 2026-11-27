@@ -45,11 +45,9 @@ level: IMO
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 
-[[Quesiti/src_imo_1987#q01|src_imo_1987__Q01]]
 
 
-
-<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_geometria_piana,skill_ragionamento_geometrico"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_geometria_piana,method_trigonometria,skill_ragionamento_geometrico"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -63,8 +61,9 @@ level: IMO
 > ABC have equal areas.
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_trigonometria|Trigonometric techniques]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
-**Area:** [[Geometria]]
+**Area:** [[Geometria|Geometry]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1-fxIkBHZcvFGtlPqKKsLE1ZvQ6P5A4K4/view)
 
 
@@ -75,15 +74,15 @@ level: IMO
 
 > In un triangolo acutangolo ABC, la bisettrice interna dell'angolo A interseca BC in L e interseca nuovamente la circonferenza circoscritta a ABC in N. Dal punto L si tracciano le perpendicolari ad AB e ad AC; i piedi di queste perpendicolari sono rispettivamente K e M. Dimostrare che il quadrilatero AKNM e il triangolo ABC hanno aree uguali.
 
+
 **Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_trigonometria|Tecniche trigonometriche]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]]
 
-[[Quesiti/src_imo_1987#q02|src_imo_1987__Q02]]
 
 
-
-<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_algebra,method_cassetti"></span>
+<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_algebra,method_cassetti,skill_conteggio_sistematico,skill_astrazione,skill_stima"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -106,8 +105,9 @@ level: IMO
 > July 11, 1987
 
 **Topic:** [[topic_algebra|Algebra]]
-**Metodo:** [[method_cassetti|Principio dei cassetti]]
-**Area:** [[Algebra e Analisi]]
+**Metodo:** [[method_cassetti|Pigeonhole principle]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]], [[skill_astrazione|Abstraction / generalisation]], [[skill_stima|Estimation and approximation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1-fxIkBHZcvFGtlPqKKsLE1ZvQ6P5A4K4/view)
 
 
@@ -124,15 +124,15 @@ level: IMO
 >
 > 28ª Olimpiade Internazionale di Matematica, L'Avana, Cuba, Seconda giornata, 11 luglio 1987
 
+
 **Topic:** [[topic_algebra|Algebra]]
 **Metodo:** [[method_cassetti|Principio dei cassetti]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_astrazione|Astrazione / generalizzazione]], [[skill_stima|Stima e approssimazione]]
 **Area:** [[Algebra e Analisi]]
 
-[[Quesiti/src_imo_1987#q03|src_imo_1987__Q03]]
 
 
-
-<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_funzionali,method_invarianti"></span>
+<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_funzionali,method_invarianti,method_congruenze,skill_astrazione"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -142,9 +142,10 @@ level: IMO
 > Prove that there is no function f from the set of non-negative integers into itself
 > such that f(f(n)) = n + 1987 for every n.
 
-**Topic:** [[topic_funzionali|Equazioni funzionali / successioni]]
-**Metodo:** [[method_invarianti|Invarianti / monovarianti]]
-**Area:** [[Algebra e Analisi]]
+**Topic:** [[topic_funzionali|Functional equations / sequences]]
+**Metodo:** [[method_invarianti|Invariants / monovariants]], [[method_congruenze|Modular arithmetic / congruences]]
+**Abilita:** [[skill_astrazione|Abstraction / generalisation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1-fxIkBHZcvFGtlPqKKsLE1ZvQ6P5A4K4/view)
 
 
@@ -155,15 +156,15 @@ level: IMO
 
 > Dimostrare che non esiste una funzione f dall'insieme degli interi non negativi in sé tale che f(f(n)) = n + 1987 per ogni n.
 
+
 **Topic:** [[topic_funzionali|Equazioni funzionali / successioni]]
-**Metodo:** [[method_invarianti|Invarianti / monovarianti]]
-**Area:** [[Algebra e Analisi|Algebra e analisi]]
-
-[[Quesiti/src_imo_1987#q04|src_imo_1987__Q04]]
-
+**Metodo:** [[method_invarianti|Invarianti / monovarianti]], [[method_congruenze|Aritmetica modulare / congruenze]]
+**Abilita:** [[skill_astrazione|Astrazione / generalizzazione]]
+**Area:** [[Algebra e Analisi]]
 
 
-<span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_geometria_piana,topic_aritmetica,method_coordinate"></span>
+
+<span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_geometria_piana,topic_aritmetica,topic_geometria_analitica,method_coordinate,skill_modellizzazione,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -175,9 +176,10 @@ level: IMO
 > and each set of three points determines a non-degenerate triangle with rational
 > area.
 
-**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_coordinate|Metodo delle coordinate]]
-**Area:** [[Aritmetica e Teoria dei Numeri]], [[Geometria]]
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_aritmetica|Arithmetic / Number theory]], [[topic_geometria_analitica|Coordinate geometry]]
+**Metodo:** [[method_coordinate|Coordinate method]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Geometria|Geometry]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1-fxIkBHZcvFGtlPqKKsLE1ZvQ6P5A4K4/view)
 
 
@@ -188,15 +190,15 @@ level: IMO
 
 > Sia n un numero intero maggiore o uguale a 3. Dimostrare che esiste un insieme di n punti nel piano tale che la distanza tra due punti qualsiasi sia irrazionale e che ogni insieme di tre punti determini un triangolo non degenero avente area razionale.
 
-**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_geometria_analitica|Geometria analitica]]
 **Metodo:** [[method_coordinate|Metodo delle coordinate]]
-**Area:** [[Aritmetica e Teoria dei Numeri]], [[Geometria]]
-
-[[Quesiti/src_imo_1987#q05|src_imo_1987__Q05]]
-
+**Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]], [[Aritmetica e Teoria dei Numeri]]
 
 
-<span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_aritmetica,method_congruenze"></span>
+
+<span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_aritmetica,method_congruenze,method_fattorizzazione,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -209,9 +211,10 @@ level: IMO
 > n/3, then k2 + k + n is prime for all
 > integers k such that 0 ≤k ≤n −2.
 
-**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]]
-**Area:** [[Aritmetica e Teoria dei Numeri]]
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]], [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1-fxIkBHZcvFGtlPqKKsLE1ZvQ6P5A4K4/view)
 
 
@@ -222,8 +225,8 @@ level: IMO
 
 > Sia n un intero maggiore o uguale a 2. Dimostrare che, se k² + k + n è primo per tutti gli interi k tali che 0 ≤ k ≤ p n/3, allora k² + k + n è primo per tutti gli interi k tali che 0 ≤ k ≤ n − 2.
 
-**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]]
-**Area:** [[Aritmetica e Teoria dei Numeri]]
 
-[[Quesiti/src_imo_1987#q06|src_imo_1987__Q06]]
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]], [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]

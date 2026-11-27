@@ -10,7 +10,7 @@ level: Coupe Animath Automne
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_combinatoria,topic_aritmetica,method_conteggio,skill_modellizzazione,skill_lettura_attenta,skill_stima"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_combinatoria,topic_aritmetica,method_conteggio,skill_modellizzazione,skill_lettura_attenta,skill_stima,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -21,8 +21,8 @@ level: Coupe Animath Automne
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_conteggio|Conteggio]]
-**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_lettura_attenta|Lettura attenta]], [[skill_stima|Stima]]
-**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_lettura_attenta|Lettura attenta]], [[skill_stima|Stima]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Risposta:** 10
 **Fonte:** [apri PDF](https://drive.google.com/file/d/15vtKOtQa9ehL1Qp64ICOkTx6pQqg0n_e/view)
 
@@ -36,15 +36,15 @@ level: Coupe Animath Automne
 
 > Un ristorante offre tre dessert, e esattamente il doppio dei piatti iniziali rispetto ai piatti principali. Una cena consiste in un piatto iniziale, un piatto principale e un dessert. Qual è il numero minimo di piatti principali che il ristorante deve offrire affinché un cliente possa mangiare una cena diversa ogni sera del 2014?
 
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_conteggio|Conteggio combinatorio]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_lettura_attenta|Lettura attenta del testo]], [[skill_stima|Stima e approssimazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 10
-[[Quesiti/src_canimath_2014_automne#q01|src_canimath_2014_automne__Q01]]
 
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_geometria_piana,method_coordinate,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
-
-<div class="qlang-switch" data-default="en"></div>
-
 
 *Square ABCD, E on AD and F on BC with BE=EF=FD=1; find the area*
 
@@ -59,21 +59,34 @@ level: Coupe Animath Automne
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<div class="qlang-split" data-lang="it"></div>
 
+<span class="atom-split" id="q02__it" data-atom="q02__it" data-title="Q02__IT" data-tags=""></span>
+
+---
+tipo: quesito-translation
+translation_of: src_canimath_2014_automne__Q02
+lang: it
+secondary: true
+title: "Coupe Animath Automne 2014  Quesito 2"
+summary: "ABCD quadrato, E su AD e F su BC con BE=EF=FD=1; trovare l'area"
+topics: [topic_geometria_piana]
+methods: [method_coordinate]
+skills: [skill_ragionamento_geometrico, skill_manipolazione_algebrica]
+tags: [kg/translation, topic/geometria_piana]---
 
 *Quadrato ABCD, E su AD e F su BC con BE=EF=FD=1; trovare l'area*
 
 > Lasciate che $ABCD$ sia quadrato. Supponiamo che esista un punto $E$ sul segmento $[AD]$ e un punto $F$ sul segmento $[BC]$ tale che $BE = EF = FD = 1$. Quanto è l'area della piazza?
 
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_coordinate|Metodo delle coordinate]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
 [[Quesiti/src_canimath_2014_automne#q02|src_canimath_2014_automne__Q02]]
 
 
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_aritmetica,method_congruenze,method_fattorizzazione,skill_riconoscimento_pattern,skill_manipolazione_algebrica"></span>
-
-<div class="qlang-switch" data-default="en"></div>
-
 
 *Divisibility by 81 of 2016, of 20162016, and of '2016' repeated 2016 times*
 
@@ -90,8 +103,20 @@ level: Coupe Animath Automne
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<div class="qlang-split" data-lang="it"></div>
 
+<span class="atom-split" id="q03__it" data-atom="q03__it" data-title="Q03__IT" data-tags=""></span>
+
+---
+tipo: quesito-translation
+translation_of: src_canimath_2014_automne__Q03
+lang: it
+secondary: true
+title: "Coupe Animath Automne 2014  Quesito 3"
+summary: "Divisibilità entro il 81 del 2016, del 2016-2016 e del 2016 ripetuto 2016 volte"
+topics: [topic_aritmetica]
+methods: [method_congruenze, method_fattorizzazione]
+skills: [skill_riconoscimento_pattern, skill_manipolazione_algebrica]
+tags: [kg/translation, topic/aritmetica]---
 
 *Divisibilità entro il 81 del 2016, del 20162016 e del 2016 ripetute nel 2016*
 
@@ -99,11 +124,15 @@ level: Coupe Animath Automne
 > 
 > b) Indicare che il numero intero $N = 2016\cdots 2016$ ("$2016$" scritto $2016$ volte) è divisibile da $81$.
 
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]], [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
 [[Quesiti/src_canimath_2014_automne#q03|src_canimath_2014_automne__Q03]]
 
 
 
-<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_algebra,method_ricorsione,skill_riconoscimento_pattern,skill_manipolazione_algebrica"></span>
+<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_algebra,topic_funzionali,method_ricorsione,skill_riconoscimento_pattern,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -112,10 +141,10 @@ level: Coupe Animath Automne
 
 > Let $a_1, a_2, a_3, \ldots$ be a sequence of real numbers such that $a_1 = 2$, $a_2 = 3$, and $a_n = \dfrac{a_{n-1}}{a_{n-2}}$ for every integer $n \ge 3$. For example, $a_3 = a_2/a_1 = 3/2$. Determine the value of $a_{2014}$.
 
-**Topic:** [[topic_algebra|Algebra]]
+**Topic:** [[topic_algebra|Algebra]], [[topic_funzionali|Functional equations / sequences]]
 **Metodo:** [[method_ricorsione|Ricorsione]]
 **Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
-**Area:** [[Algebra e Analisi]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
 **Risposta:** 3/2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/15vtKOtQa9ehL1Qp64ICOkTx6pQqg0n_e/view)
 
@@ -129,15 +158,15 @@ level: Coupe Animath Automne
 
 > Che $a_1, a_2, a_3, \ldots$ sia una sequenza di numeri reali come $a_1 = 2$, $a_2 = 3$ e $a_n = \dfrac{a_{n-1}}{a_{n-2}}$ per ogni intero $n \ge 3$. Per esempio, $a_3 = a_2/a_1 = 3/2$. Determinare il valore di $a_{2014}$.
 
+**Topic:** [[topic_algebra|Algebra]], [[topic_funzionali|Equazioni funzionali / successioni]]
+**Metodo:** [[method_ricorsione|Ricorsione]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Algebra e Analisi]]
 **Risposta:** 3/2
-[[Quesiti/src_canimath_2014_automne#q04|src_canimath_2014_automne__Q04]]
 
 
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_combinatoria,method_grafi,method_estremalita,skill_astrazione,skill_modellizzazione,skill_ragionamento_geometrico"></span>
-
-<div class="qlang-switch" data-default="en"></div>
-
 
 *10 villages, one-way non-crossing roads with no return possible; graph results*
 
@@ -158,8 +187,20 @@ level: Coupe Animath Automne
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<div class="qlang-split" data-lang="it"></div>
 
+<span class="atom-split" id="q05__it" data-atom="q05__it" data-title="Q05__IT" data-tags=""></span>
+
+---
+tipo: quesito-translation
+translation_of: src_canimath_2014_automne__Q05
+lang: it
+secondary: true
+title: "Coupe Animath Automne 2014  Quesito 5"
+summary: "10 villaggi, strade a senso unico senza incrocio senza possibilità di ritorno; risultati del grafico"
+topics: [topic_combinatoria]
+methods: [method_grafi, method_estremalita]
+skills: [skill_astrazione, skill_modellizzazione, skill_ragionamento_geometrico]
+tags: [kg/translation, topic/combinatoria]---
 
 *10 villaggi, strade a senso unico senza incrocio senza possibilità di ritorno; risultati del grafico*
 
@@ -171,14 +212,15 @@ level: Coupe Animath Automne
 > 
 > c) Concludere: sarebbe sufficiente, come minimo, cambiare l'orientamento delle strade in modo da poter andare da qualsiasi luogo a qualsiasi altro luogo (possibilmente in diverse fasi)? Non dare le tue conclusioni senza prove: non passerebbero la prova.
 
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_grafi|Teoria dei grafi]], [[method_estremalita|Principio di estremalita]]
+**Abilita:** [[skill_astrazione|Astrazione / generalizzazione]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
 [[Quesiti/src_canimath_2014_automne#q05|src_canimath_2014_automne__Q05]]
 
 
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_geometria_piana,method_trigonometria,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
-
-<div class="qlang-switch" data-default="en"></div>
-
 
 *Equilateral triangle of same perimeter as a square; compare the areas*
 
@@ -193,21 +235,34 @@ level: Coupe Animath Automne
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<div class="qlang-split" data-lang="it"></div>
 
+<span class="atom-split" id="q06__it" data-atom="q06__it" data-title="Q06__IT" data-tags=""></span>
+
+---
+tipo: quesito-translation
+translation_of: src_canimath_2014_automne__Q06
+lang: it
+secondary: true
+title: "Coupe Animath Automne 2014  Quesito 6"
+summary: "Triangolo equilaterale dello stesso perimetro di un quadrato; confronta le aree"
+topics: [topic_geometria_piana]
+methods: [method_trigonometria]
+skills: [skill_ragionamento_geometrico, skill_manipolazione_algebrica]
+tags: [kg/translation, topic/geometria_piana]---
 
 *Triangolo equilaterale dello stesso perimetro di un quadrato; confronta le aree*
 
 > Lasciate che $C$ sia quadrato. Costruciamo un triangolo equilaterale dello stesso perimetro del quadrato. Quanto differiscono l'area del triangolo equilaterale e l'area del quadrato?
 
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_trigonometria|Tecniche trigonometriche]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
 [[Quesiti/src_canimath_2014_automne#q06|src_canimath_2014_automne__Q06]]
 
 
 
 <span class="atom-split" id="q07" data-atom="q07" data-title="Quesito 7" data-tags="topic_aritmetica,topic_combinatoria,method_invarianti,method_casework,skill_riconoscimento_pattern,skill_lettura_attenta,skill_casework_accurato"></span>
-
-<div class="qlang-switch" data-default="en"></div>
-
 
 *Digit-rule sequence; can a_0 be chosen so the sequence is infinite?*
 
@@ -229,8 +284,20 @@ level: Coupe Animath Automne
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<div class="qlang-split" data-lang="it"></div>
 
+<span class="atom-split" id="q07__it" data-atom="q07__it" data-title="Q07__IT" data-tags=""></span>
+
+---
+tipo: quesito-translation
+translation_of: src_canimath_2014_automne__Q07
+lang: it
+secondary: true
+title: "Coupe Animath Automne 2014  Quesito 7"
+summary: "Sequenza di regola digitali; può essere scelto a_0 in modo che la sequenza sia infinita?"
+topics: [topic_aritmetica, topic_combinatoria]
+methods: [method_invarianti, method_casework]
+skills: [skill_riconoscimento_pattern, skill_lettura_attenta, skill_casework_accurato]
+tags: [kg/translation, topic/aritmetica, topic/combinatoria]---
 
 *Sequenza di regola digitali; può essere scelto a_0 in modo che la sequenza sia infinita?*
 
@@ -242,14 +309,15 @@ level: Coupe Animath Automne
 > 
 > Si può scegliere $a_0$ in modo che la sequenza così costruita sia infinita?
 
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_invarianti|Invarianti / monovarianti]], [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_lettura_attenta|Lettura attenta del testo]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 [[Quesiti/src_canimath_2014_automne#q07|src_canimath_2014_automne__Q07]]
 
 
 
 <span class="atom-split" id="q08" data-atom="q08" data-title="Quesito 8" data-tags="topic_geometria_piana,method_trigonometria,method_simmetria,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
-
-<div class="qlang-switch" data-default="en"></div>
-
 
 *Triangle, M,N on BC with angle BAM = angle NAC; O1, O2, A are collinear*
 
@@ -264,21 +332,34 @@ level: Coupe Animath Automne
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<div class="qlang-split" data-lang="it"></div>
 
+<span class="atom-split" id="q08__it" data-atom="q08__it" data-title="Q08__IT" data-tags=""></span>
+
+---
+tipo: quesito-translation
+translation_of: src_canimath_2014_automne__Q08
+lang: it
+secondary: true
+title: "Coupe Animath Automne 2014  Quesito 8"
+summary: "Triangolo, M, N su BC con angolo BAM = angolo NAC; O1, O2, A sono collineari"
+topics: [topic_geometria_piana]
+methods: [method_trigonometria, method_simmetria]
+skills: [skill_ragionamento_geometrico, skill_manipolazione_algebrica]
+tags: [kg/translation, topic/geometria_piana]---
 
 *Triangolo, M, N su BC con angolo BAM = angolo NAC; O1, O2, A sono collineari*
 
 > Lasciate che $ABC$ sia un triangolo. Le dimensioni $M$ e $N$ siano due punti su $[BC]$ in modo tale che gli angoli $\widehat{BAM}$ e $\widehat{NAC}$ siano uguali. $O_1$ sia il centro del cerchio circondato dal triangolo $ABC$ e $O_2$ il centro del cerchio circondato dal triangolo $AMN$. Indicare che i punti $O_1$, $O_2$ e $A$ sono collineari.
 
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_trigonometria|Tecniche trigonometriche]], [[method_simmetria|Sfruttamento della simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
 [[Quesiti/src_canimath_2014_automne#q08|src_canimath_2014_automne__Q08]]
 
 
 
 <span class="atom-split" id="q09" data-atom="q09" data-title="Quesito 9" data-tags="topic_combinatoria,topic_algebra,method_estremalita,method_casework,skill_astrazione,skill_conteggio_sistematico,skill_ragionamento_geometrico"></span>
-
-<div class="qlang-switch" data-default="en"></div>
-
 
 *25 distinct positive numbers; pick two whose sum/difference equals no other*
 
@@ -293,18 +374,34 @@ level: Coupe Animath Automne
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<div class="qlang-split" data-lang="it"></div>
 
+<span class="atom-split" id="q09__it" data-atom="q09__it" data-title="Q09__IT" data-tags=""></span>
+
+---
+tipo: quesito-translation
+translation_of: src_canimath_2014_automne__Q09
+lang: it
+secondary: true
+title: "Coupe Animath Automne 2014  Quesito 9"
+summary: "25 numeri positivi distinti; scegliete due la cui somma/differenza non è uguale a nessun altro"
+topics: [topic_combinatoria, topic_algebra]
+methods: [method_estremalita, method_casework]
+skills: [skill_astrazione, skill_conteggio_sistematico, skill_ragionamento_geometrico]
+tags: [kg/translation, topic/combinatoria, topic/algebra]---
 
 *25 numeri positivi distinti; scegliete due la cui somma/differenza non è uguale a nessun altro*
 
 > Dati $25$ numeri distinti strettamente positivi, mostrare che si può scegliere due di loro in modo che nessuno degli altri numeri $23$ è uguale alla somma o alla differenza dei due numeri scelti.
 
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_estremalita|Principio di estremalita]], [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_astrazione|Astrazione / generalizzazione]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Algebra e Analisi]]
 [[Quesiti/src_canimath_2014_automne#q09|src_canimath_2014_automne__Q09]]
 
 
 
-<span class="atom-split" id="q10" data-atom="q10" data-title="Quesito 10" data-tags="topic_combinatoria,topic_logica,topic_aritmetica,method_casework,method_simmetria,skill_casework_accurato,skill_ragionamento_geometrico,skill_modellizzazione"></span>
+<span class="atom-split" id="q10" data-atom="q10" data-title="Quesito 10" data-tags="topic_combinatoria,topic_logica,topic_aritmetica,method_casework,method_simmetria,method_congruenze,skill_casework_accurato,skill_ragionamento_geometrico,skill_modellizzazione"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -314,9 +411,9 @@ level: Coupe Animath Automne
 > $22$ cards bearing the numbers $1, 2, \ldots, 22$ are on the table. Alcindor and Benoît remove cards in turn, each taking one card of their choice from the table, until none remain. It is Alcindor who begins. Then each one computes the units digit of the sum of his cards. The winner is the one whose result is the highest. Does one of the two players have a way to win for sure? If so, determine which one.
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_logica|Logica]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_casework|Casework]], [[method_simmetria|Simmetria]]
+**Metodo:** [[method_casework|Casework]], [[method_simmetria|Simmetria]], [[method_congruenze|Modular arithmetic / congruences]]
 **Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]]
-**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/15vtKOtQa9ehL1Qp64ICOkTx6pQqg0n_e/view)
 
 > [!warning] Estratto/tradotto da verificare con la fonte.
@@ -329,4 +426,7 @@ level: Coupe Animath Automne
 
 > Le schede $22$ con i numeri $1, 2, \ldots, 22$ sono presenti sul tavolo. Alcindor e Benoît togliono le carte a turno, ognuno prendendo una carta di loro scelta dal tavolo, finché non rimane nessuna. E' Alcindor che inizia. Poi ciascuno calcola la cifra di unità della somma delle sue carte. Il vincitore è colui il cui risultato è più alto. Uno dei due giocatori ha un modo per vincere con certezza? In tal caso, decidete quale.
 
-[[Quesiti/src_canimath_2014_automne#q10|src_canimath_2014_automne__Q10]]
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_logica|Logica, giochi, strategie]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Analisi per casi]], [[method_simmetria|Sfruttamento della simmetria]], [[method_congruenze|Aritmetica modulare / congruenze]]
+**Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]

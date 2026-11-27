@@ -10,7 +10,7 @@ level: INMO
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_geometria_piana,method_estremalita,method_trigonometria,method_disuguaglianze,skill_ragionamento_geometrico,skill_manipolazione_algebrica,skill_stima"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_geometria_piana,topic_trigonometria,topic_disuguaglianze,method_estremalita,method_trigonometria,method_disuguaglianze,skill_ragionamento_geometrico,skill_manipolazione_algebrica,skill_stima"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -19,12 +19,12 @@ level: INMO
 
 > Let $ABCD$ be a quadrilateral inscribed in a circle. Suppose $AB = \sqrt{2 + \sqrt{2}}$ and $AB$ subtends $135^\circ$ at the centre of the circle. Find the maximum possible area of $ABCD$.
 
-![[src_inmo_2012__q01.png]]
+![[src_inmo_2012__Q01.png]]
 
-**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometry]], [[topic_disuguaglianze|Inequalities]]
 **Metodo:** [[method_estremalita|Estremalità]], [[method_trigonometria|Trigonometria]], [[method_disuguaglianze|Disuguaglianze]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]]
-**Area:** [[Geometria]]
+**Area:** [[Geometria|Geometry]], [[Algebra e Analisi|Algebra and analysis]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Yo2mg-kxvVgZBQrmg9vQdyiD2EizSWJt/view)
 
 
@@ -35,14 +35,13 @@ level: INMO
 
 > Sia $ABCD$ un quadrilatero inscritto in una circonferenza. Si supponga che $AB = \sqrt{2 + \sqrt{2}}$ e $AB$ sottendano $135^\circ$ al centro della circonferenza. Determinare l'area massima possibile di $ABCD$.
 
-![[src_inmo_2012__q01.png]]
+![[src_inmo_2012__Q01.png]]
 
-**Topic:** [[topic_geometria_piana|Geometria piana]]
+
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometria]], [[topic_disuguaglianze|Disuguaglianze]]
 **Metodo:** [[method_estremalita|Estremalità]], [[method_trigonometria|Trigonometria]], [[method_disuguaglianze|Disuguaglianze]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]]
-**Area:** [[Geometria]]
-
-[[Quesiti/src_inmo_2012#q01|src_inmo_2012__Q01]]
+**Area:** [[Geometria]], [[Algebra e Analisi]]
 
 
 
@@ -74,11 +73,9 @@ level: INMO
 **Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 
-[[Quesiti/src_inmo_2012#q02|src_inmo_2012__Q02]]
 
 
-
-<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_algebra,method_induzione,method_ricorsione,skill_manipolazione_algebrica,skill_riconoscimento_pattern,skill_ragionamento_geometrico"></span>
+<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_algebra,topic_funzionali,method_induzione,method_ricorsione,skill_manipolazione_algebrica,skill_riconoscimento_pattern,skill_ragionamento_geometrico"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -89,10 +86,10 @@ level: INMO
 > $$f_0(x) = 1, \quad f_1(x) = x, \quad (f_n(x))^2 - 1 = f_{n+1}(x)f_{n-1}(x), \quad \text{for } n \ge 1.$$
 > Prove that each $f_n(x)$ is a polynomial with integer coefficients.
 
-**Topic:** [[topic_algebra|Algebra]]
+**Topic:** [[topic_algebra|Algebra]], [[topic_funzionali|Functional equations / sequences]]
 **Metodo:** [[method_induzione|Induzione]], [[method_ricorsione|Ricorsione]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
-**Area:** [[Algebra e Analisi]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Yo2mg-kxvVgZBQrmg9vQdyiD2EizSWJt/view)
 
 
@@ -105,16 +102,15 @@ level: INMO
 > $$f_0(x) = 1, \quad f_1(x) = x, \quad (f_n(x))^2 - 1 = f_{n+1}(x)f_{n-1}(x), \quad \text{for } n \ge 1.$$
 > Dimostrare che ciascuna $f_n(x)$ è un polinomio a coefficienti interi.
 
-**Topic:** [[topic_algebra|Algebra]]
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_funzionali|Equazioni funzionali / successioni]]
 **Metodo:** [[method_induzione|Induzione]], [[method_ricorsione|Ricorsione]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Algebra e Analisi]]
 
-[[Quesiti/src_inmo_2012#q03|src_inmo_2012__Q03]]
 
 
-
-<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_combinatoria,topic_geometria_piana,method_conteggio,method_doppio_conteggio,method_coordinate,skill_ragionamento_geometrico,skill_conteggio_sistematico,skill_modellizzazione,skill_astrazione"></span>
+<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_combinatoria,topic_geometria_piana,method_conteggio,method_doppio_conteggio,method_coordinate,method_casi_conteggio,skill_ragionamento_geometrico,skill_conteggio_sistematico,skill_modellizzazione,skill_astrazione"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -124,9 +120,9 @@ level: INMO
 > Let $ABC$ be a triangle. An interior point $P$ of $ABC$ is said to be **good** if we can find exactly 27 rays emanating from $P$ intersecting the sides of the triangle $ABC$ such that the triangle is divided by these rays into 27 smaller triangles of equal area. Determine the number of **good** points for a given triangle $ABC$.
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_geometria_piana|Geometria piana]]
-**Metodo:** [[method_conteggio|Conteggio]], [[method_doppio_conteggio|Doppio conteggio]], [[method_coordinate|Coordinate]]
+**Metodo:** [[method_conteggio|Conteggio]], [[method_doppio_conteggio|Doppio conteggio]], [[method_coordinate|Coordinate]], [[method_casi_conteggio|Counting by cases]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione]], [[skill_astrazione|Astrazione]]
-**Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Geometria|Geometry]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Yo2mg-kxvVgZBQrmg9vQdyiD2EizSWJt/view)
 
 
@@ -137,12 +133,11 @@ level: INMO
 
 > Sia $ABC$ un triangolo. Un punto interno $P$ di $ABC$ si dice **buono** se si possono trovare esattamente 27 raggi uscenti da $P$ che intersecano i lati del triangolo $ABC$, in modo che il triangolo venga diviso da questi raggi in 27 triangoli più piccoli di area uguale. Determinare il numero di punti **buoni** per un dato triangolo $ABC$.
 
+
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_geometria_piana|Geometria piana]]
-**Metodo:** [[method_conteggio|Conteggio]], [[method_doppio_conteggio|Doppio conteggio]], [[method_coordinate|Coordinate]]
+**Metodo:** [[method_conteggio|Conteggio]], [[method_doppio_conteggio|Doppio conteggio]], [[method_coordinate|Coordinate]], [[method_casi_conteggio|Conteggio per casi]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione]], [[skill_astrazione|Astrazione]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
-
-[[Quesiti/src_inmo_2012#q04|src_inmo_2012__Q04]]
 
 
 
@@ -155,7 +150,7 @@ level: INMO
 
 > Let $ABC$ be an acute-angled triangle, and let $D$, $E$, $F$ be points on $BC$, $CA$, $AB$ respectively such that $AD$ is the median, $BE$ is the internal angle bisector and $CF$ is the altitude. Suppose $\angle FDE = \angle C$, $\angle DEF = \angle A$ and $\angle EFD = \angle B$. Prove that $ABC$ is equilateral.
 
-![[src_inmo_2012__q05.png]]
+![[src_inmo_2012__Q05.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometria]]
 **Metodo:** [[method_trigonometria|Trigonometria]], [[method_casework|Casework]]
@@ -171,18 +166,16 @@ level: INMO
 
 > Sia $ABC$ un triangolo acutangolo, e siano $D$, $E$, $F$ punti rispettivamente su $BC$, $CA$, $AB$ tali che $AD$ sia la mediana, $BE$ sia la bisettrice interna e $CF$ sia l'altezza. Si supponga che valgano $\angle FDE = \angle C$, $\angle DEF = \angle A$ e $\angle EFD = \angle B$. Dimostrare che $ABC$ è equilatero.
 
-![[src_inmo_2012__q05.png]]
+![[src_inmo_2012__Q05.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometria]]
 **Metodo:** [[method_trigonometria|Trigonometria]], [[method_casework|Casework]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Geometria]]
 
-[[Quesiti/src_inmo_2012#q05|src_inmo_2012__Q05]]
 
 
-
-<span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_insiemi_funzioni,topic_algebra,method_casework,method_induzione,skill_manipolazione_algebrica,skill_lettura_attenta,skill_riconoscimento_pattern,skill_ragionamento_geometrico"></span>
+<span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_insiemi_funzioni,topic_algebra,topic_funzionali,method_casework,method_induzione,method_fattorizzazione,skill_manipolazione_algebrica,skill_lettura_attenta,skill_riconoscimento_pattern,skill_ragionamento_geometrico"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -200,10 +193,10 @@ level: INMO
 > \item[(b)] If $f(0) \neq 0$ and $f(2) = 0$, find the set of all integers $n$ such that $f(n) \neq 0$.
 > \end{enumerate}
 
-**Topic:** [[topic_insiemi_funzioni|Insiemi e funzioni]], [[topic_algebra|Algebra]]
-**Metodo:** [[method_casework|Casework]], [[method_induzione|Induzione]]
+**Topic:** [[topic_insiemi_funzioni|Insiemi e funzioni]], [[topic_algebra|Algebra]], [[topic_funzionali|Functional equations / sequences]]
+**Metodo:** [[method_casework|Casework]], [[method_induzione|Induzione]], [[method_fattorizzazione|Factorisation / algebraic manipulation]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
-**Area:** [[Algebra e Analisi]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Yo2mg-kxvVgZBQrmg9vQdyiD2EizSWJt/view)
 
 
@@ -221,9 +214,8 @@ level: INMO
 > \item[(a)] Determina l'insieme di tutti i valori possibili della funzione $f$. \item[(b)] Se $f(0) \neq 0$ e $f(2) = 0$, determina l'insieme di tutti gli interi $n$ tali che $f(n) \neq 0$.
 > \end{enumerate}
 
-**Topic:** [[topic_insiemi_funzioni|Insiemi e funzioni]], [[topic_algebra|Algebra]]
-**Metodo:** [[method_casework|Casework]], [[method_induzione|Induzione]]
+
+**Topic:** [[topic_insiemi_funzioni|Insiemi e funzioni]], [[topic_algebra|Algebra]], [[topic_funzionali|Equazioni funzionali / successioni]]
+**Metodo:** [[method_casework|Casework]], [[method_induzione|Induzione]], [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Algebra e Analisi]]
-
-[[Quesiti/src_inmo_2012#q06|src_inmo_2012__Q06]]

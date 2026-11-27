@@ -37,7 +37,7 @@ level: BMO Round 1
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_simmetria|Sfruttamento della simmetria]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_astrazione|Astrazione / generalizzazione]]
-[[Quesiti/src_bmo1_1984#q01|src_bmo1_1984__Q01]]
+**Area:** [[Geometria]]
 
 
 
@@ -68,11 +68,11 @@ level: BMO Round 1
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_induzione|Induzione]], [[method_congruenze|Aritmetica modulare / congruenze]], [[method_conteggio|Conteggio combinatorio]]
 **Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]]
-[[Quesiti/src_bmo1_1984#q02|src_bmo1_1984__Q02]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 
 
 
-<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_disuguaglianze,method_induzione,method_disuguaglianze,skill_manipolazione_algebrica,skill_stima,skill_ragionamento_geometrico"></span>
+<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_disuguaglianze,topic_algebra,method_induzione,method_disuguaglianze,skill_manipolazione_algebrica,skill_stima,skill_ragionamento_geometrico"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -85,10 +85,10 @@ level: BMO Round 1
 > (ii) Prove that if $a$, $b$, $c$, $d$, $e$ are positive real numbers then
 > $$\left(\frac{a}{b}\right)^a \cdot \left(\frac{b}{c}\right)^b \cdot \left(\frac{c}{d}\right)^c \cdot \left(\frac{d}{e}\right)^d \cdot \left(\frac{e}{a}\right)^e \ge \frac{a}{b} + \frac{b}{c} + \frac{c}{d} + \frac{d}{e} + \frac{e}{a}.$$
 
-**Topic:** [[topic_disuguaglianze|Disuguaglianze]]
+**Topic:** [[topic_disuguaglianze|Disuguaglianze]], [[topic_algebra|Algebra]]
 **Metodo:** [[method_induzione|Induzione]], [[method_disuguaglianze|Disuguaglianze]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
-**Area:** [[Algebra e Analisi]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1XDLojO-09KKZUWx372qDAVoyg0E2EMKS/view)
 
 
@@ -104,10 +104,10 @@ level: BMO Round 1
 > $$\left(\frac{a}{b}\right)^a \cdot \left(\frac{b}{c}\right)^b \cdot \left(\frac{c}{d}\right)^c \cdot \left(\frac{d}{e}\right)^d \cdot \left(\frac{e}{a}\right)^e \ge \frac{a}{b} + \frac{b}{c} + \frac{c}{d} + \frac{d}{e} + \frac{e}{a}.$$
 
 
-**Topic:** [[topic_disuguaglianze|Disuguaglianze]]
+**Topic:** [[topic_disuguaglianze|Disuguaglianze]], [[topic_algebra|Algebra]]
 **Metodo:** [[method_induzione|Induzione]], [[method_disuguaglianze|Disuguaglianze classiche]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima e approssimazione]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
-[[Quesiti/src_bmo1_1984#q03|src_bmo1_1984__Q03]]
+**Area:** [[Algebra e Analisi]]
 
 
 
@@ -146,7 +146,7 @@ level: BMO Round 1
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
 **Metodo:** [[method_casework|Analisi per casi]], [[method_congruenze|Aritmetica modulare / congruenze]]
 **Abilita:** [[skill_lettura_attenta|Lettura attenta del testo]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Casework accurato]]
-[[Quesiti/src_bmo1_1984#q04|src_bmo1_1984__Q04]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 
 
 
@@ -177,7 +177,7 @@ level: BMO Round 1
 
 **Topic:** [[topic_geometria_solida|Geometria solida]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_astrazione|Astrazione / generalizzazione]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
-[[Quesiti/src_bmo1_1984#q05|src_bmo1_1984__Q05]]
+**Area:** [[Geometria]]
 
 
 
@@ -208,7 +208,7 @@ level: BMO Round 1
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]], [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta del testo]]
-[[Quesiti/src_bmo1_1984#q06|src_bmo1_1984__Q06]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
 
 
 
@@ -245,4 +245,4 @@ level: BMO Round 1
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometria]]
 **Metodo:** [[method_trigonometria|Tecniche trigonometriche]], [[method_simmetria|Sfruttamento della simmetria]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta del testo]]
-[[Quesiti/src_bmo1_1984#q07|src_bmo1_1984__Q07]]
+**Area:** [[Geometria]]

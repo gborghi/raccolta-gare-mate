@@ -10,7 +10,7 @@ level: OBM Nível 1
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_aritmetica,topic_algebra,method_ricorsione,method_conteggio,skill_riconoscimento_pattern,skill_conteggio_sistematico"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_aritmetica,topic_algebra,method_ricorsione,method_conteggio,skill_riconoscimento_pattern,skill_conteggio_sistematico,skill_modellizzazione"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -19,12 +19,12 @@ level: OBM Nível 1
 
 > The figure alongside shows houses of cards of $1$, $2$ and $3$ tiers. To build these houses of cards, $2$, $7$ and $15$ cards were used, respectively. How many cards will be needed to build a house of cards of $5$ tiers?
 
-![[src_obm_2009_n1_f2__q01.png]]
+![[src_obm_2009_n1_f2__Q01.png]]
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
 **Metodo:** [[method_ricorsione|Ricorsione]], [[method_conteggio|Conteggio]]
-**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_conteggio_sistematico|Conteggio sistematico]]
-**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Algebra e Analisi|Algebra and analysis]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1yqR4kFXiNS-fLCkeDRYOk8J6RO6JsMcg/view)
 
 
@@ -35,21 +35,17 @@ level: OBM Nível 1
 
 > La figura accanto mostra case di carte a $1$, $2$ e $3$ livelli. Per costruire queste case di carte, sono state utilizzate rispettivamente $2$, $7$ e $15$ carte. Quante carte saranno necessarie per costruire una casa di carte a $5$ livelli?
 
-![[src_obm_2009_n1_f2__q01.png]]
+![[src_obm_2009_n1_f2__Q01.png]]
+
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
 **Metodo:** [[method_ricorsione|Ricorsione]], [[method_conteggio|Conteggio]]
-**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
-
-[[Quesiti/src_obm_2009_n1_f2#q01|src_obm_2009_n1_f2__Q01]]
 
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_aritmetica,topic_algebra,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
-
-<div class="qlang-switch" data-default="en"></div>
-
 
 *6th grade class: of every 11 students 4 are girls and there are 15 more boys than girls; total students*
 
@@ -61,8 +57,19 @@ level: OBM Nível 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1yqR4kFXiNS-fLCkeDRYOk8J6RO6JsMcg/view)
 
 
-<div class="qlang-split" data-lang="it"></div>
 
+<span class="atom-split" id="q02__it" data-atom="q02__it" data-title="Q02__IT" data-tags=""></span>
+
+---
+tipo: quesito-translation
+translation_of: src_obm_2009_n1_f2__Q02
+lang: it
+secondary: true
+title: "Olimpíada Brasileira de Matemática 2009 — Nível 1 — Fase 2 — Quesito 2"
+summary: "In una classe di sesta, su ogni 11 studenti 4 sono ragazze e ci sono 15 maschi in più delle ragazze; totale degli studenti"
+topics: [topic_aritmetica, topic_algebra]
+skills: [skill_manipolazione_algebrica, skill_lettura_attenta]
+tags: [kg/translation, topic/aritmetica, topic/algebra]---
 
 *In una classe di sesta, su ogni 11 studenti 4 sono ragazze e ci sono 15 maschi in più delle ragazze; totale degli studenti*
 
@@ -75,7 +82,7 @@ level: OBM Nível 1
 
 
 
-<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_aritmetica,topic_combinatoria,method_doppio_conteggio,skill_lettura_attenta,skill_modellizzazione,skill_stima"></span>
+<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_aritmetica,topic_combinatoria,method_doppio_conteggio,skill_lettura_attenta,skill_modellizzazione,skill_stima,skill_conteggio_sistematico"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -92,8 +99,8 @@ level: OBM Nível 1
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_doppio_conteggio|Doppio conteggio]]
-**Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_modellizzazione|Modellizzazione]], [[skill_stima|Stima]]
-**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+**Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_modellizzazione|Modellizzazione]], [[skill_stima|Stima]], [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1yqR4kFXiNS-fLCkeDRYOk8J6RO6JsMcg/view)
 
 
@@ -110,12 +117,11 @@ level: OBM Nível 1
 >
 > Ogni studente è stato assente esattamente due giorni. Nel giorno con la più bassa presenza, quale percentuale del totale delle assenze si è verificata in quel giorno?
 
+
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_doppio_conteggio|Doppio conteggio]]
-**Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_modellizzazione|Modellizzazione]], [[skill_stima|Stima]]
+**Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_modellizzazione|Modellizzazione]], [[skill_stima|Stima]], [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
-
-[[Quesiti/src_obm_2009_n1_f2#q03|src_obm_2009_n1_f2__Q03]]
 
 
 
@@ -128,7 +134,7 @@ level: OBM Nível 1
 
 > Mariazinha wants to cover the top of a rectangular table measuring $88$ cm by $95$ cm with square sheets of cardstock of side $10$ cm, starting from one corner, as shown in the figure. The sheets are cut from a roll $10$ cm wide and placed in rows, without superpositions, up to reaching the borders. Since the sheets must not surpass the edges, they are folded over the borders, forming rectangular regions with two thicknesses of sheets (gray region) and a rectangular region with four thicknesses of sheets (dark gray region). What is the area of the region covered by four sheets?
 
-![[src_obm_2009_n1_f2__q04.png]]
+![[src_obm_2009_n1_f2__Q04.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_casework|Casework]]
@@ -144,18 +150,16 @@ level: OBM Nível 1
 
 > Mariazinha vuole coprire la superficie superiore di un tavolo rettangolare dalle dimensioni di $88$ cm per $95$ cm con fogli quadrati di cartoncino di lato $10$ cm, partendo da un angolo, come mostrato nella figura. I fogli vengono tagliati da un rotolo largo $10$ cm e disposti in file, senza sovrapposizioni, fino a raggiungere i bordi. Poiché i fogli non devono superare i bordi, vengono piegati oltre i bordi, formando regioni rettangolari con due spessori di fogli (regione grigia) e una regione rettangolare con quattro spessori di fogli (regione grigio scuro). Qual è l'area della regione coperta da quattro fogli?
 
-![[src_obm_2009_n1_f2__q04.png]]
+![[src_obm_2009_n1_f2__Q04.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_casework|Casework]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Geometria]], [[Aritmetica e Teoria dei Numeri]]
 
-[[Quesiti/src_obm_2009_n1_f2#q04|src_obm_2009_n1_f2__Q04]]
 
 
-
-<span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_aritmetica,method_estremalita,method_conteggio,skill_conteggio_sistematico,skill_lettura_attenta,skill_stima"></span>
+<span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_aritmetica,method_estremalita,method_conteggio,skill_conteggio_sistematico,skill_lettura_attenta,skill_stima,skill_riconoscimento_pattern"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -166,8 +170,8 @@ level: OBM Nível 1
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_estremalita|Estremalità]], [[method_conteggio|Conteggio]]
-**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_stima|Stima]]
-**Area:** [[Aritmetica e Teoria dei Numeri]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_stima|Stima]], [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1yqR4kFXiNS-fLCkeDRYOk8J6RO6JsMcg/view)
 
 
@@ -178,12 +182,11 @@ level: OBM Nível 1
 
 > Il numero $200920092009\ldots 2009$ ha $2008$ cifre. Qual è il numero minimo di cifre che devono essere cancellate affinché la somma delle cifre rimanenti sia $2008$?
 
+
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_estremalita|Estremalità]], [[method_conteggio|Conteggio]]
-**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_stima|Stima]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_stima|Stima]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
-
-[[Quesiti/src_obm_2009_n1_f2#q05|src_obm_2009_n1_f2__Q05]]
 
 
 
@@ -215,8 +218,6 @@ level: OBM Nível 1
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 
-[[Quesiti/src_obm_2009_n1_f2#q06|src_obm_2009_n1_f2__Q06]]
-
 
 
 <span class="atom-split" id="q07" data-atom="q07" data-title="Quesito 7" data-tags="topic_geometria_piana,method_casework,method_estremalita,skill_ragionamento_geometrico,skill_casework_accurato,skill_lettura_attenta"></span>
@@ -232,7 +233,7 @@ level: OBM Nível 1
 > 
 > b) With figures of three triangles, what is the largest perimeter that can be obtained?
 
-![[src_obm_2009_n1_f2__q07.png]]
+![[src_obm_2009_n1_f2__Q07.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_casework|Casework]], [[method_estremalita|Estremalità]]
@@ -252,14 +253,12 @@ level: OBM Nível 1
 >
 > b) Con figure composte da tre triangoli, qual è il perimetro massimo che si può ottenere?
 
-![[src_obm_2009_n1_f2__q07.png]]
+![[src_obm_2009_n1_f2__Q07.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_casework|Casework]], [[method_estremalita|Estremalità]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_casework_accurato|Casework accurato]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Geometria]]
-
-[[Quesiti/src_obm_2009_n1_f2#q07|src_obm_2009_n1_f2__Q07]]
 
 
 
@@ -299,11 +298,9 @@ level: OBM Nível 1
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Casework accurato]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 
-[[Quesiti/src_obm_2009_n1_f2#q08|src_obm_2009_n1_f2__Q08]]
 
 
-
-<span class="atom-split" id="q09" data-atom="q09" data-title="Quesito 9" data-tags="topic_combinatoria,topic_logica,method_casework,method_conteggio,skill_casework_accurato,skill_modellizzazione,skill_lettura_attenta"></span>
+<span class="atom-split" id="q09" data-atom="q09" data-title="Quesito 9" data-tags="topic_combinatoria,topic_logica,method_casework,method_conteggio,method_cassetti,method_doppio_conteggio,skill_casework_accurato,skill_modellizzazione,skill_lettura_attenta"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -317,9 +314,9 @@ level: OBM Nível 1
 > b) At the end of the third round, is it possible for all players to have different scores? Explain.
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_logica|Logica]]
-**Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]]
+**Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]], [[method_cassetti|Pigeonhole principle]], [[method_doppio_conteggio|Double counting]]
 **Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_modellizzazione|Modellizzazione]], [[skill_lettura_attenta|Lettura attenta]]
-**Area:** [[Combinatoria, Logica e Probabilita]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1yqR4kFXiNS-fLCkeDRYOk8J6RO6JsMcg/view)
 
 
@@ -334,9 +331,8 @@ level: OBM Nível 1
 >
 > b) Alla fine del terzo round, è possibile che tutti i giocatori abbiano punteggi diversi? Spiega.
 
+
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_logica|Logica]]
-**Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]]
+**Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]], [[method_cassetti|Principio dei cassetti]], [[method_doppio_conteggio|Doppio conteggio]]
 **Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_modellizzazione|Modellizzazione]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
-
-[[Quesiti/src_obm_2009_n1_f2#q09|src_obm_2009_n1_f2__Q09]]

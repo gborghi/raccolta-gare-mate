@@ -10,7 +10,7 @@ level: OBM Nível Universitário
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_funzionali"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_funzionali,method_ricorsione,skill_riconoscimento_pattern,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -25,11 +25,13 @@ level: OBM Nível Universitário
 >
 > Prove that there exists $a\in\mathbb R$ such that $f(x)=ax$ for every $x\in\mathbb R$.
 
-**Topic:** [[topic_funzionali|Equazioni funzionali]]
-**Area:** [[Algebra e Analisi]]
+**Topic:** [[topic_funzionali|Functional equations / sequences]]
+**Metodo:** [[method_ricorsione|Recursion]]
+**Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
 **Risposta:** nessuna soluzione ufficiale pubblicata (problema dimostrativo / a risposta aperta).
 **Fonte risposta:** OBM, «Provas e gabaritos» — per la prova 2026 è pubblicato solo il testo ([pagina OBM](<https://www.obm.org.br/como-se-preparar/provas-e-gabaritos>)).
-**Fonte:** apri PDF p.1
+**Fonte:** [apri PDF p.1](https://www.obm.org.br/content/uploads/2026/10/prova_2026_nivel_universitario.pdf#page=1)
 
 
 <div class="qlang-split" data-lang="it"></div>
@@ -45,14 +47,15 @@ level: OBM Nível Universitário
 >
 > Dimostrare che esiste $a\in\mathbb R$ tale che $f(x)=ax$ per ogni $x\in\mathbb R$.
 
-**Topic:** [[topic_funzionali|Equazioni funzionali]]
+
+**Topic:** [[topic_funzionali|Equazioni funzionali / successioni]]
+**Metodo:** [[method_ricorsione|Ricorsione]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Algebra e Analisi]]
 
-[[Quesiti/src_obm_2026_nu_fx#q01|src_obm_2026_nu_fx__Q01]]
 
 
-
-<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_funzionali"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_funzionali,method_fattorizzazione,method_casework,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -63,11 +66,13 @@ level: OBM Nível Universitário
 >
 > $$\int_0^x f(t)\,dt=f(x)^k+f(x)\quad\text{for every } x\in[0,1].$$
 
-**Topic:** [[topic_funzionali|Equazioni funzionali]]
-**Area:** [[Algebra e Analisi]]
+**Topic:** [[topic_funzionali|Functional equations / sequences]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]], [[method_casework|Case analysis]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
 **Risposta:** nessuna soluzione ufficiale pubblicata (problema dimostrativo / a risposta aperta).
 **Fonte risposta:** OBM, «Provas e gabaritos» — per la prova 2026 è pubblicato solo il testo ([pagina OBM](<https://www.obm.org.br/como-se-preparar/provas-e-gabaritos>)).
-**Fonte:** apri PDF p.1
+**Fonte:** [apri PDF p.1](https://www.obm.org.br/content/uploads/2026/10/prova_2026_nivel_universitario.pdf#page=1)
 
 
 <div class="qlang-split" data-lang="it"></div>
@@ -79,14 +84,15 @@ level: OBM Nível Universitário
 >
 > $$\int_0^x f(t)\,dt=f(x)^k+f(x)\quad\text{for every } x\in[0,1].$$
 
-**Topic:** [[topic_funzionali|Equazioni funzionali]]
+
+**Topic:** [[topic_funzionali|Equazioni funzionali / successioni]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]], [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Algebra e Analisi]]
 
-[[Quesiti/src_obm_2026_nu_fx#q02|src_obm_2026_nu_fx__Q02]]
 
 
-
-<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_aritmetica,topic_algebra"></span>
+<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_aritmetica,topic_algebra,method_disuguaglianze,method_conteggio,skill_stima,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -101,11 +107,13 @@ level: OBM Nível Universitário
 >
 > $$\#\{x\in\mathbb Q:\ P(x)\in\mathbb Q,\ |P(x)|\le n,\ \operatorname{den}(P(x))\le n\}\le c\cdot n^{3/k}.$$
 
-**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
-**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_disuguaglianze|Classical inequalities]], [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_stima|Estimation and approximation]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Algebra e Analisi|Algebra and analysis]]
 **Risposta:** nessuna soluzione ufficiale pubblicata (problema dimostrativo / a risposta aperta).
 **Fonte risposta:** OBM, «Provas e gabaritos» — per la prova 2026 è pubblicato solo il testo ([pagina OBM](<https://www.obm.org.br/como-se-preparar/provas-e-gabaritos>)).
-**Fonte:** apri PDF p.1
+**Fonte:** [apri PDF p.1](https://www.obm.org.br/content/uploads/2026/10/prova_2026_nivel_universitario.pdf#page=1)
 
 
 <div class="qlang-split" data-lang="it"></div>
@@ -121,21 +129,22 @@ level: OBM Nível Universitário
 >
 > $$\#\{x\in\mathbb Q:\ P(x)\in\mathbb Q,\ |P(x)|\le n,\ \operatorname{den}(P(x))\le n\}\le c\cdot n^{3/k}.$$
 
+
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze classiche]], [[method_conteggio|Conteggio combinatorio]]
+**Abilita:** [[skill_stima|Stima e approssimazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 
-[[Quesiti/src_obm_2026_nu_fx#q03|src_obm_2026_nu_fx__Q03]]
 
 
-
-<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_geometria_piana,topic_aritmetica"></span>
+<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_geometria_piana,topic_aritmetica,topic_combinatoria,method_simmetria,method_conteggio,method_congruenze,skill_modellizzazione,skill_ragionamento_geometrico,skill_conteggio_sistematico"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
 
 *Light ray entering an equilateral triangle at a vertex, n reflections, exiting at a vertex; number of paths for n = 2026, 2027.*
 
-![[src_obm_2026_nu_fx__q04.png]]
+![[src_obm_2026_nu_fx__Q04.png]]
 
 > Consider an equilateral triangle $ABC$.
 >
@@ -147,11 +156,13 @@ level: OBM Nível Universitário
 >
 > *Remark.* An elastic reflection is one in which the angle of incidence equals the angle of reflection, as illustrated in the figure.
 
-**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Area:** [[Geometria]], [[Aritmetica e Teoria dei Numeri]]
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_aritmetica|Arithmetic / Number theory]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_simmetria|Using symmetry]], [[method_conteggio|Combinatorial counting]], [[method_congruenze|Modular arithmetic / congruences]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]], [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Geometria|Geometry]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Risposta:** nessuna soluzione ufficiale pubblicata (problema dimostrativo / a risposta aperta).
 **Fonte risposta:** OBM, «Provas e gabaritos» — per la prova 2026 è pubblicato solo il testo ([pagina OBM](<https://www.obm.org.br/como-se-preparar/provas-e-gabaritos>)).
-**Fonte:** apri PDF p.2
+**Fonte:** [apri PDF p.2](https://www.obm.org.br/content/uploads/2026/10/prova_2026_nivel_universitario.pdf#page=2)
 
 
 <div class="qlang-split" data-lang="it"></div>
@@ -159,7 +170,7 @@ level: OBM Nível Universitário
 
 *Raggio di luce che entra in un triangolo equilatero in un vertice, n riflessioni, esce in un vertice; numero di percorsi per n = 2026, 2027.*
 
-![[src_obm_2026_nu_fx__q04.png]]
+![[src_obm_2026_nu_fx__Q04.png]]
 
 > Si consideri un triangolo equilatero $ABC$.
 >
@@ -171,14 +182,15 @@ level: OBM Nível Universitário
 >
 > *Osservazione.* Una riflessione elastica è quella in cui l'angolo di incidenza è uguale all'angolo di riflessione, come illustrato nella figura.
 
-**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Area:** [[Geometria]], [[Aritmetica e Teoria dei Numeri]]
 
-[[Quesiti/src_obm_2026_nu_fx#q04|src_obm_2026_nu_fx__Q04]]
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_simmetria|Sfruttamento della simmetria]], [[method_conteggio|Conteggio combinatorio]], [[method_congruenze|Aritmetica modulare / congruenze]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Geometria]], [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 
 
 
-<span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_aritmetica,topic_algebra"></span>
+<span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_aritmetica,topic_algebra,method_congruenze,method_fattorizzazione,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -191,11 +203,13 @@ level: OBM Nível Universitário
 >
 > Prove that $\alpha-\beta\notin\mathbb Q$.
 
-**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
-**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]], [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Algebra e Analisi|Algebra and analysis]]
 **Risposta:** nessuna soluzione ufficiale pubblicata (problema dimostrativo / a risposta aperta).
 **Fonte risposta:** OBM, «Provas e gabaritos» — per la prova 2026 è pubblicato solo il testo ([pagina OBM](<https://www.obm.org.br/como-se-preparar/provas-e-gabaritos>)).
-**Fonte:** apri PDF p.2
+**Fonte:** [apri PDF p.2](https://www.obm.org.br/content/uploads/2026/10/prova_2026_nivel_universitario.pdf#page=2)
 
 
 <div class="qlang-split" data-lang="it"></div>
@@ -209,14 +223,15 @@ level: OBM Nível Universitário
 >
 > Dimostrare che $\alpha-\beta\notin\mathbb Q$.
 
+
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]], [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 
-[[Quesiti/src_obm_2026_nu_fx#q05|src_obm_2026_nu_fx__Q05]]
 
 
-
-<span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_funzionali"></span>
+<span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_funzionali,method_ricorsione,method_disuguaglianze,skill_stima"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -237,11 +252,13 @@ level: OBM Nível Universitário
 >
 > Prove that there are constants $C>0$ and $\alpha>1$ such that $|y|\le C|x|^\alpha$ for every $(x,y)\in X$.
 
-**Topic:** [[topic_funzionali|Equazioni funzionali]]
-**Area:** [[Algebra e Analisi]]
+**Topic:** [[topic_funzionali|Functional equations / sequences]]
+**Metodo:** [[method_ricorsione|Recursion]], [[method_disuguaglianze|Classical inequalities]]
+**Abilita:** [[skill_stima|Estimation and approximation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
 **Risposta:** nessuna soluzione ufficiale pubblicata (problema dimostrativo / a risposta aperta).
 **Fonte risposta:** OBM, «Provas e gabaritos» — per la prova 2026 è pubblicato solo il testo ([pagina OBM](<https://www.obm.org.br/como-se-preparar/provas-e-gabaritos>)).
-**Fonte:** apri PDF p.2
+**Fonte:** [apri PDF p.2](https://www.obm.org.br/content/uploads/2026/10/prova_2026_nivel_universitario.pdf#page=2)
 
 
 <div class="qlang-split" data-lang="it"></div>
@@ -263,7 +280,8 @@ level: OBM Nível Universitário
 >
 > Dimostrare che esistono delle costanti $C>0$ e $\alpha>1$ tali che $|y|\le C|x|^\alpha$ per ogni $(x,y)\in X$.
 
-**Topic:** [[topic_funzionali|Equazioni funzionali]]
-**Area:** [[Algebra e Analisi]]
 
-[[Quesiti/src_obm_2026_nu_fx#q06|src_obm_2026_nu_fx__Q06]]
+**Topic:** [[topic_funzionali|Equazioni funzionali / successioni]]
+**Metodo:** [[method_ricorsione|Ricorsione]], [[method_disuguaglianze|Disuguaglianze classiche]]
+**Abilita:** [[skill_stima|Stima e approssimazione]]
+**Area:** [[Algebra e Analisi]]

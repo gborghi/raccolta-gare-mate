@@ -19,7 +19,7 @@ level: RMO
 
 > Let $ABCD$ be a convex quadrilateral; $P$, $Q$, $R$, $S$ be the midpoints of $AB$, $BC$, $CD$, $DA$ respectively such that triangles $AQR$ and $CSP$ are equilateral. Prove that $ABCD$ is a rhombus. Determine its angles.
 
-![[src_rmo_2005__q01.png]]
+![[src_rmo_2005__Q01.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_simmetria|Simmetria]]
@@ -35,14 +35,12 @@ level: RMO
 
 > Sia $ABCD$ un quadrilatero convesso; siano $P$, $Q$, $R$, $S$ i punti medi di $AB$, $BC$, $CD$, $DA$ rispettivamente, in modo che i triangoli $AQR$ e $CSP$ siano equilateri. Dimostrare che $ABCD$ è un rombo. Determinare i suoi angoli.
 
-![[src_rmo_2005__q01.png]]
+![[src_rmo_2005__Q01.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_simmetria|Simmetria]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
-
-[[Quesiti/src_rmo_2005#q01|src_rmo_2005__Q01]]
 
 
 
@@ -74,11 +72,9 @@ level: RMO
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 
-[[Quesiti/src_rmo_2005#q02|src_rmo_2005__Q02]]
 
 
-
-<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_algebra,topic_disuguaglianze,method_casework,method_disuguaglianze,skill_manipolazione_algebrica,skill_ragionamento_geometrico"></span>
+<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_algebra,topic_disuguaglianze,method_casework,method_disuguaglianze,skill_manipolazione_algebrica,skill_ragionamento_geometrico,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -89,8 +85,8 @@ level: RMO
 
 **Topic:** [[topic_algebra|Algebra]], [[topic_disuguaglianze|Disuguaglianze]]
 **Metodo:** [[method_casework|Casework]], [[method_disuguaglianze|Disuguaglianze]]
-**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
-**Area:** [[Algebra e Analisi]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/14uHfQGAx1Ql7Gxjfhz36KBTCxECJwRQt/view)
 
 
@@ -101,16 +97,15 @@ level: RMO
 
 > Se $a$, $b$, $c$ sono tre numeri reali tali che $|a - b| \ge |c|$, $|b - c| \ge |a|$, $|c - a| \ge |b|$, allora dimostrare che uno di $a$, $b$, $c$ è la somma degli altri due.
 
+
 **Topic:** [[topic_algebra|Algebra]], [[topic_disuguaglianze|Disuguaglianze]]
 **Metodo:** [[method_casework|Casework]], [[method_disuguaglianze|Disuguaglianze]]
-**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Algebra e Analisi]]
 
-[[Quesiti/src_rmo_2005#q03|src_rmo_2005__Q03]]
 
 
-
-<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_aritmetica,topic_combinatoria,method_casework,method_conteggio,skill_conteggio_sistematico,skill_casework_accurato,skill_lettura_attenta"></span>
+<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_aritmetica,topic_combinatoria,method_casework,method_conteggio,method_congruenze,skill_conteggio_sistematico,skill_casework_accurato,skill_lettura_attenta"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -120,9 +115,9 @@ level: RMO
 > Find the number of all 5-digit numbers (in base 10) each of which contains the block 15 and is divisible by 15. (For example, 34545 and 34155 are two such numbers.)
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
-**Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]]
+**Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]], [[method_congruenze|Modular arithmetic / congruences]]
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]], [[skill_lettura_attenta|Lettura attenta]]
-**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/14uHfQGAx1Ql7Gxjfhz36KBTCxECJwRQt/view)
 
 
@@ -133,12 +128,11 @@ level: RMO
 
 > Determinare il numero di tutti i numeri di 5 cifre (in base 10) ciascuno dei quali contiene il blocco 15 ed è divisibile per 15. (Ad esempio, 34545 e 34155 sono due numeri di questo tipo.)
 
+
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
-**Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]]
+**Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]], [[method_congruenze|Aritmetica modulare / congruenze]]
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
-
-[[Quesiti/src_rmo_2005#q04|src_rmo_2005__Q04]]
 
 
 
@@ -151,7 +145,7 @@ level: RMO
 
 > In triangle $ABC$, let $D$ be the midpoint of $BC$. If $\angle ACD = 45^\circ$ and $\angle ADC = 30^\circ$, determine $\angle BAD$.
 
-![[src_rmo_2005__q05.png]]
+![[src_rmo_2005__Q05.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometria]]
 **Metodo:** [[method_trigonometria|Trigonometria]], [[method_casework|Casework]]
@@ -167,14 +161,12 @@ level: RMO
 
 > Nel triangolo $ABC$, sia $D$ il punto medio di $BC$. Se $\angle ACD = 45^\circ$ e $\angle ADC = 30^\circ$, determina $\angle BAD$.
 
-![[src_rmo_2005__q05.png]]
+![[src_rmo_2005__Q05.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometria]]
 **Metodo:** [[method_trigonometria|Trigonometria]], [[method_casework|Casework]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
-
-[[Quesiti/src_rmo_2005#q05|src_rmo_2005__Q05]]
 
 
 
@@ -207,8 +199,6 @@ level: RMO
 **Metodo:** [[method_casework|Casework]], [[method_fattorizzazione|Fattorizzazione]], [[method_estremalita|Estremalità]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Casework accurato]], [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
-
-[[Quesiti/src_rmo_2005#q06|src_rmo_2005__Q06]]
 
 
 
@@ -243,5 +233,3 @@ level: RMO
 **Metodo:** [[method_disuguaglianze|Disuguaglianze]], [[method_estremalita|Estremalità]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Algebra e Analisi]]
-
-[[Quesiti/src_rmo_2005#q07|src_rmo_2005__Q07]]

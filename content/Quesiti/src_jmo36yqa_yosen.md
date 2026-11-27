@@ -10,7 +10,7 @@ level: JMO Yosen
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_aritmetica,method_casework,method_fattorizzazione,skill_casework_accurato,skill_conteggio_sistematico,skill_lettura_attenta"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_aritmetica,topic_algebra,method_casework,method_fattorizzazione,skill_casework_accurato,skill_conteggio_sistematico,skill_lettura_attenta,skill_stima"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -20,10 +20,10 @@ level: JMO Yosen
 > Find all triples $(a, b, c)$ of non-negative integers satisfying
 > $$a^{20} + b^2 + c^6 = 2026.$$
 
-**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
 **Metodo:** [[method_casework|Casework]], [[method_fattorizzazione|Fattorizzazione]]
-**Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]]
-**Area:** [[Aritmetica e Teoria dei Numeri]]
+**Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_stima|Estimation and approximation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Algebra e Analisi|Algebra and analysis]]
 **Risposta:** (1,36,3)
 **Fonte:** [apri PDF](https://drive.google.com/file/d/11PbvxqGQjzQuBNakcUel5lpFkMjv0NnX/view)
 
@@ -38,10 +38,12 @@ level: JMO Yosen
 > $$a^{20} + b^2 + c^6 = 2026.$$
 
 **Argomento:** [[topic_aritmetica|Aritmetica / Teoria dei numeri]]
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei numeri]], [[topic_algebra|Algebra]]
 **Metodo:** [[method_casework|Analisi per casi]], [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
-**Abilità:** [[skill_casework_accurato|Analisi per casi accurata]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta del testo]]
+**Abilita:** [[skill_casework_accurato|Analisi per casi accurata]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta del testo]], [[skill_stima|Stima e approssimazione]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 **Risposta:** (1,36,3)
-[[Quesiti/src_jmo36yqa_yosen#q01|src_jmo36yqa_yosen__Q01]]
 
 
 
@@ -72,8 +74,8 @@ level: JMO Yosen
 **Argomento:** [[topic_aritmetica|Aritmetica / Teoria dei numeri]]
 **Metodo:** [[method_casework|Analisi per casi]], [[method_estremalita|Principio di estremalità]]
 **Abilità:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Analisi per casi accurata]], [[skill_stima|Stima e approssimazione]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 91
-[[Quesiti/src_jmo36yqa_yosen#q02|src_jmo36yqa_yosen__Q02]]
 
 
 
@@ -86,7 +88,7 @@ level: JMO Yosen
 
 > On a circle there are five points $A$, $B$, $C$, $D$, $E$ in this order. Let $P$ and $Q$ be the intersections of chord $BE$ with chord $AC$, and of chord $BE$ with chord $AD$, respectively. Suppose $BP = PQ = QE$ holds. The areas of triangles $BCP$, $APQ$, and $DEQ$ are $2$, $9$, and $3$, respectively. Find the value of $\dfrac{AC}{AD}$, where $XY$ denotes the length of segment $XY$.
 
-![[src_jmo36yqa_yosen__q03.png]]
+![[src_jmo36yqa_yosen__Q03.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_simmetria|Simmetria]], [[method_coordinate|Coordinate]]
@@ -103,13 +105,13 @@ level: JMO Yosen
 
 > Su una circonferenza ci sono cinque punti $A$, $B$, $C$, $D$, $E$, in quest'ordine. Siano $P$ e $Q$ le intersezioni della corda $BE$ con la corda $AC$, e della corda $BE$ con la corda $AD$, rispettivamente. Si supponga che valga $BP = PQ = QE$. Le aree dei triangoli $BCP$, $APQ$ e $DEQ$ sono rispettivamente $2$, $9$ e $3$. Trovare il valore di $\dfrac{AC}{AD}$, dove $XY$ indica la lunghezza del segmento $XY$.
 
-![[src_jmo36yqa_yosen__q03.png]]
+![[src_jmo36yqa_yosen__Q03.png]]
 
 **Argomento:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_simmetria|Sfruttamento della simmetria]], [[method_coordinate|Metodo delle coordinate]]
 **Abilità:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta del testo]]
+**Area:** [[Geometria]]
 **Risposta:** $\dfrac{11\sqrt{6}}{24}$
-[[Quesiti/src_jmo36yqa_yosen#q03|src_jmo36yqa_yosen__Q03]]
 
 
 
@@ -148,8 +150,8 @@ level: JMO Yosen
 **Argomento:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei numeri]]
 **Metodo:** [[method_casework|Analisi per casi]], [[method_estremalita|Principio di estremalità]]
 **Abilità:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_casework_accurato|Analisi per casi accurata]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 729
-[[Quesiti/src_jmo36yqa_yosen#q04|src_jmo36yqa_yosen__Q04]]
 
 
 
@@ -183,8 +185,8 @@ level: JMO Yosen
 **Argomento:** [[topic_aritmetica|Aritmetica / Teoria dei numeri]]
 **Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]], [[method_casework|Analisi per casi]]
 **Abilità:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Analisi per casi accurata]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** (4,12,5), (17,12,5)
-[[Quesiti/src_jmo36yqa_yosen#q05|src_jmo36yqa_yosen__Q05]]
 
 
 
@@ -215,12 +217,12 @@ level: JMO Yosen
 **Argomento:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_coordinate|Metodo delle coordinate]], [[method_simmetria|Sfruttamento della simmetria]]
 **Abilità:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta del testo]]
+**Area:** [[Geometria]]
 **Risposta:** $\sqrt{41}-3$
-[[Quesiti/src_jmo36yqa_yosen#q06|src_jmo36yqa_yosen__Q06]]
 
 
 
-<span class="atom-split" id="q07" data-atom="q07" data-title="Quesito 7" data-tags="topic_combinatoria,method_casework,method_conteggio,method_bigezione,skill_conteggio_sistematico,skill_modellizzazione,skill_riconoscimento_pattern"></span>
+<span class="atom-split" id="q07" data-atom="q07" data-title="Quesito 7" data-tags="topic_combinatoria,topic_aritmetica,method_casework,method_conteggio,method_bigezione,method_congruenze,skill_conteggio_sistematico,skill_modellizzazione,skill_riconoscimento_pattern"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -233,10 +235,10 @@ level: JMO Yosen
 > 
 > When all students have finished moving, the total number of students on benches turns out to be exactly $2000$. Find the number of possible seating arrangements at that point.
 
-**Topic:** [[topic_combinatoria|Combinatoria]]
-**Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]], [[method_bigezione|Biiezione]]
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]], [[method_bigezione|Biiezione]], [[method_congruenze|Modular arithmetic / congruences]]
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
-**Area:** [[Combinatoria, Logica e Probabilita]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Risposta:** $2 \cdot \binom{2026}{52}$
 **Fonte:** [apri PDF](https://drive.google.com/file/d/11PbvxqGQjzQuBNakcUel5lpFkMjv0NnX/view)
 
@@ -253,14 +255,16 @@ level: JMO Yosen
 > Quando tutti gli studenti hanno finito di spostarsi, il numero totale di studenti sulle panchine risulta esattamente $2000$. Trovare il numero di disposizioni possibili a quel punto.
 
 **Argomento:** [[topic_combinatoria|Combinatoria]]
-**Metodo:** [[method_casework|Analisi per casi]], [[method_conteggio|Conteggio combinatorio]], [[method_bigezione|Bigezione / corrispondenza]]
-**Abilità:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_riconoscimento_pattern|Riconoscimento di schemi]]
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Analisi per casi]], [[method_conteggio|Conteggio combinatorio]], [[method_bigezione|Bigezione / corrispondenza]], [[method_congruenze|Aritmetica modulare / congruenze]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_riconoscimento_pattern|Riconoscimento di schemi]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** $2 \cdot \binom{2026}{52}$
-[[Quesiti/src_jmo36yqa_yosen#q07|src_jmo36yqa_yosen__Q07]]
 
 
 
-<span class="atom-split" id="q08" data-atom="q08" data-title="Quesito 8" data-tags="topic_algebra,topic_aritmetica,method_ricorsione,method_congruenze,method_induzione,skill_riconoscimento_pattern,skill_manipolazione_algebrica,skill_ragionamento_geometrico"></span>
+<span class="atom-split" id="q08" data-atom="q08" data-title="Quesito 8" data-tags="topic_algebra,topic_aritmetica,topic_funzionali,method_ricorsione,method_congruenze,method_induzione,skill_riconoscimento_pattern,skill_manipolazione_algebrica,skill_ragionamento_geometrico"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -273,10 +277,10 @@ level: JMO Yosen
 > 
 > Here, an integer $x$ is said to **divide** an integer $y$ if there exists an integer $m$ such that $y = mx$. Find $a_{20}$.
 
-**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_funzionali|Functional equations / sequences]]
 **Metodo:** [[method_ricorsione|Ricorsione]], [[method_congruenze|Congruenze]], [[method_induzione|Induzione]]
 **Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
-**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Risposta:** 48000
 **Fonte:** [apri PDF](https://drive.google.com/file/d/11PbvxqGQjzQuBNakcUel5lpFkMjv0NnX/view)
 
@@ -293,14 +297,16 @@ level: JMO Yosen
 > Qui si dice che un intero $x$ **divide** un intero $y$ se esiste un intero $m$ tale che $y = mx$. Trovare $a_{20}$.
 
 **Argomento:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei numeri]]
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei numeri]], [[topic_funzionali|Equazioni funzionali / successioni]]
 **Metodo:** [[method_ricorsione|Ricorsione]], [[method_congruenze|Aritmetica modulare / congruenze]], [[method_induzione|Induzione]]
-**Abilità:** [[skill_riconoscimento_pattern|Riconoscimento di schemi]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di schemi]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 48000
-[[Quesiti/src_jmo36yqa_yosen#q08|src_jmo36yqa_yosen__Q08]]
 
 
 
-<span class="atom-split" id="q09" data-atom="q09" data-title="Quesito 9" data-tags="topic_geometria_piana,method_coordinate,method_trigonometria,skill_ragionamento_geometrico,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
+<span class="atom-split" id="q09" data-atom="q09" data-title="Quesito 9" data-tags="topic_geometria_piana,topic_trigonometria,method_coordinate,method_trigonometria,skill_ragionamento_geometrico,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -309,10 +315,10 @@ level: JMO Yosen
 
 > In triangle $ABC$, $AB = AC$ and $BC = 21$. On sides $BC$, $CA$, $AB$ (excluding endpoints) there are points $D$, $E$, $F$ respectively such that $\angle EDF = 180^\circ - \dfrac{1}{2}\angle BAC$. Let $P$ be the intersection of the perpendicular bisector of $BD$ and line $DE$, and let $Q$ be the intersection of the perpendicular bisector of $CD$ and line $DF$. Given that $FP = 16$, $FQ = 12$, and $AB = 6\sqrt{7}$, find the area of triangle $DPQ$. Here, $XY$ denotes the length of segment $XY$.
 
-**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometry]]
 **Metodo:** [[method_coordinate|Coordinate]], [[method_trigonometria|Trigonometria]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
-**Area:** [[Geometria]]
+**Area:** [[Geometria|Geometry]]
 **Risposta:** $\dfrac{48\sqrt{7}}{25}$
 **Fonte:** [apri PDF](https://drive.google.com/file/d/11PbvxqGQjzQuBNakcUel5lpFkMjv0NnX/view)
 
@@ -325,10 +331,12 @@ level: JMO Yosen
 > Nel triangolo $ABC$, $AB = AC$ e $BC = 21$. Sui lati $BC$, $CA$, $AB$ (estremi esclusi) ci sono rispettivamente i punti $D$, $E$, $F$ tali che $\angle EDF = 180^\circ - \dfrac{1}{2}\angle BAC$. Sia $P$ l'intersezione dell'asse del segmento $BD$ e della retta $DE$, e sia $Q$ l'intersezione dell'asse del segmento $CD$ e della retta $DF$. Sapendo che $FP = 16$, $FQ = 12$ e $AB = 6\sqrt{7}$, trovare l'area del triangolo $DPQ$. Qui $XY$ indica la lunghezza del segmento $XY$.
 
 **Argomento:** [[topic_geometria_piana|Geometria piana]]
+
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometria]]
 **Metodo:** [[method_coordinate|Metodo delle coordinate]], [[method_trigonometria|Tecniche trigonometriche]]
-**Abilità:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta del testo]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta del testo]]
+**Area:** [[Geometria]]
 **Risposta:** $\dfrac{48\sqrt{7}}{25}$
-[[Quesiti/src_jmo36yqa_yosen#q09|src_jmo36yqa_yosen__Q09]]
 
 
 
@@ -367,8 +375,8 @@ level: JMO Yosen
 **Argomento:** [[topic_combinatoria|Combinatoria]], [[topic_geometria_analitica|Geometria analitica]]
 **Metodo:** [[method_estremalita|Principio di estremalità]], [[method_casework|Analisi per casi]], [[method_coordinate|Metodo delle coordinate]]
 **Abilità:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 **Risposta:** 650
-[[Quesiti/src_jmo36yqa_yosen#q10|src_jmo36yqa_yosen__Q10]]
 
 
 
@@ -402,12 +410,12 @@ level: JMO Yosen
 **Argomento:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei numeri]]
 **Metodo:** [[method_conteggio|Conteggio combinatorio]], [[method_casework|Analisi per casi]], [[method_ricorsione|Ricorsione]]
 **Abilità:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_riconoscimento_pattern|Riconoscimento di schemi]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** $9980 \cdot 19^{23}$
-[[Quesiti/src_jmo36yqa_yosen#q11|src_jmo36yqa_yosen__Q11]]
 
 
 
-<span class="atom-split" id="q12" data-atom="q12" data-title="Quesito 12" data-tags="topic_aritmetica,topic_algebra,method_fattorizzazione,method_congruenze,method_estremalita,skill_manipolazione_algebrica,skill_conteggio_sistematico,skill_casework_accurato"></span>
+<span class="atom-split" id="q12" data-atom="q12" data-title="Quesito 12" data-tags="topic_aritmetica,topic_algebra,method_fattorizzazione,method_congruenze,method_estremalita,method_casework,skill_manipolazione_algebrica,skill_conteggio_sistematico,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -417,9 +425,9 @@ level: JMO Yosen
 > Let $x$, $y$, $z$ be positive integers satisfying $x^y \cdot y^z = 2^{20x + 20y}$. Given that $\dfrac{y}{20}$ is an integer and $\dfrac{z}{20}$ is not an integer, find the minimum possible value of $z$.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
-**Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_congruenze|Congruenze]], [[method_estremalita|Estremalità]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_congruenze|Congruenze]], [[method_estremalita|Estremalità]], [[method_casework|Case analysis]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]]
-**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Algebra e Analisi|Algebra and analysis]]
 **Risposta:** $2^{127} \cdot 641^{641}$
 **Fonte:** [apri PDF](https://drive.google.com/file/d/11PbvxqGQjzQuBNakcUel5lpFkMjv0NnX/view)
 
@@ -432,7 +440,9 @@ level: JMO Yosen
 > Siano $x$, $y$, $z$ interi positivi che soddisfano $x^y \cdot y^z = 2^{20x + 20y}$. Sapendo che $\dfrac{y}{20}$ è un intero e $\dfrac{z}{20}$ non è un intero, trovare il minimo valore possibile di $z$.
 
 **Argomento:** [[topic_aritmetica|Aritmetica / Teoria dei numeri]], [[topic_algebra|Algebra]]
-**Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]], [[method_congruenze|Aritmetica modulare / congruenze]], [[method_estremalita|Principio di estremalità]]
-**Abilità:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Analisi per casi accurata]]
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei numeri]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]], [[method_congruenze|Aritmetica modulare / congruenze]], [[method_estremalita|Principio di estremalità]], [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Analisi per casi accurata]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 **Risposta:** $2^{127} \cdot 641^{641}$
-[[Quesiti/src_jmo36yqa_yosen#q12|src_jmo36yqa_yosen__Q12]]

@@ -38,8 +38,6 @@ level: Olimpiade Polacca Round 3
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 
-[[Quesiti/src_pol_1977_r3#q01|src_pol_1977_r3__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_geometria_piana,method_estremalita,skill_ragionamento_geometrico,skill_stima"></span>
@@ -69,8 +67,6 @@ level: Olimpiade Polacca Round 3
 **Metodo:** [[method_estremalita|Estremalità]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_stima|Stima]]
 **Area:** [[Geometria]]
-
-[[Quesiti/src_pol_1977_r3#q02|src_pol_1977_r3__Q02]]
 
 
 
@@ -102,11 +98,9 @@ level: Olimpiade Polacca Round 3
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 
-[[Quesiti/src_pol_1977_r3#q03|src_pol_1977_r3__Q03]]
 
 
-
-<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_funzionali,topic_algebra,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
+<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_funzionali,topic_algebra,skill_manipolazione_algebrica,skill_lettura_attenta,skill_astrazione"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -116,8 +110,8 @@ level: Olimpiade Polacca Round 3
 > A function $h: \mathbb{R} \to \mathbb{R}$ is differentiable and satisfies $h(a + x) = h(a) \cdot h(x)$ for all $x$, where $a$ and $b$ are given positive real numbers and $b \ne 1$. Suppose that $h'(0) > 0$ and the function $h'$ is continuous at $x = 0$. Prove that $a = b$ and that there is a real number $c$ such that $h(x) = c^x$ for all $x$.
 
 **Topic:** [[topic_funzionali|Equazioni funzionali]], [[topic_algebra|Algebra]]
-**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
-**Area:** [[Algebra e Analisi]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_astrazione|Abstraction / generalisation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1ihJu65X9h_5nFSLWEBnWr2rsJ1UTiKwI/view)
 
 
@@ -128,11 +122,10 @@ level: Olimpiade Polacca Round 3
 
 > Una funzione $h: \mathbb{R} \to \mathbb{R}$ è derivabile e soddisfa $h(a + x) = h(a) \cdot h(x)$ per ogni $x$, dove $a$ e $b$ sono numeri reali positivi dati e $b \ne 1$. Si supponga che $h'(0) > 0$ e che la funzione $h'$ sia continua in $x = 0$. Dimostrare che $a = b$ e che esiste un numero reale $c$ tale che $h(x) = c^x$ per ogni $x$.
 
-**Topic:** [[topic_funzionali|Equazioni funzionali]], [[topic_algebra|Algebra]]
-**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
-**Area:** [[Algebra e Analisi]]
 
-[[Quesiti/src_pol_1977_r3#q04|src_pol_1977_r3__Q04]]
+**Topic:** [[topic_funzionali|Equazioni funzionali]], [[topic_algebra|Algebra]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_astrazione|Astrazione / generalizzazione]]
+**Area:** [[Algebra e Analisi]]
 
 
 
@@ -164,8 +157,6 @@ level: Olimpiade Polacca Round 3
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_stima|Stima]]
 **Area:** [[Geometria]]
 
-[[Quesiti/src_pol_1977_r3#q05|src_pol_1977_r3__Q05]]
-
 
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_algebra,method_fattorizzazione,method_induzione,skill_manipolazione_algebrica,skill_ragionamento_geometrico"></span>
@@ -195,5 +186,3 @@ level: Olimpiade Polacca Round 3
 **Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_induzione|Induzione]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Algebra e Analisi]]
-
-[[Quesiti/src_pol_1977_r3#q06|src_pol_1977_r3__Q06]]

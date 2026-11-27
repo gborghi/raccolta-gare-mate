@@ -10,7 +10,7 @@ level: OBM Nível 1
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_aritmetica,topic_logica,method_casework,skill_lettura_attenta,skill_manipolazione_algebrica,skill_stima"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_aritmetica,topic_logica,method_casework,method_backward,skill_lettura_attenta,skill_manipolazione_algebrica,skill_stima,skill_modellizzazione"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -26,9 +26,9 @@ level: OBM Nível 1
 > b) From lap $17$ until the end of the race, the first three drivers manage to keep their per-lap durations: PRE does each lap in $2\text{ min }01\text{ s}$, SAP does each lap in $1\text{ min }59\text{ s}$, and BET does each lap in $1\text{ min }58\text{ s}$. At the end of lap $17$, SAP was $15\text{ s}$ behind PRE and BET was $18\text{ s}$ behind PRE. Considering that these three drivers made up the podium and that the faster driver always managed to overtake a slower driver in front of him, explain who won the race and which drivers took second and third place.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_logica|Logica]]
-**Metodo:** [[method_casework|Casework]]
-**Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]]
-**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+**Metodo:** [[method_casework|Casework]], [[method_backward|Working backwards]]
+**Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]], [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1_6dp56Wlc9cGlBDEM_l2CECvfw_ugAWe/view)
 
 
@@ -45,12 +45,11 @@ level: OBM Nível 1
 >
 > b) Dal giro $17$ fino alla fine della gara, i primi tre piloti riescono a mantenere i propri tempi per giro: PRE completa ogni giro in $2\text{ min }01\text{ s}$, SAP completa ogni giro in $1\text{ min }59\text{ s}$ e BET completa ogni giro in $1\text{ min }58\text{ s}$. Al termine del giro $17$, SAP era $15\text{ s}$ dietro a PRE e BET era $18\text{ s}$ dietro a PRE. Considerando che questi tre piloti hanno occupato il podio e che il pilota più veloce è sempre riuscito a sorpassare un pilota più lento davanti a sé, spiega chi ha vinto la gara e quali piloti si sono classificati al secondo e al terzo posto.
 
-**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_logica|Logica]]
-**Metodo:** [[method_casework|Casework]]
-**Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]]
-**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 
-[[Quesiti/src_obm_2017_n1_f3#q01|src_obm_2017_n1_f3__Q01]]
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_logica|Logica]]
+**Metodo:** [[method_casework|Casework]], [[method_backward|Ragionamento all'indietro]]
+**Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 
 
 
@@ -67,7 +66,7 @@ level: OBM Nível 1
 > 
 > b) In how many different ways can she obtain a cube with volume $64\text{ cm}^3$?
 
-![[src_obm_2017_n1_f3__q02.png]]
+![[src_obm_2017_n1_f3__Q02.png]]
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_geometria_solida|Geometria solida]]
 **Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]]
@@ -87,14 +86,12 @@ level: OBM Nível 1
 >
 > b) In quanti modi diversi può ottenere un cubo di volume $64\text{ cm}^3$?
 
-![[src_obm_2017_n1_f3__q02.png]]
+![[src_obm_2017_n1_f3__Q02.png]]
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_geometria_solida|Geometria solida]]
 **Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]]
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]], [[Geometria]]
-
-[[Quesiti/src_obm_2017_n1_f3#q02|src_obm_2017_n1_f3__Q02]]
 
 
 
@@ -140,11 +137,9 @@ level: OBM Nível 1
 **Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_astrazione|Astrazione]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 
-[[Quesiti/src_obm_2017_n1_f3#q03|src_obm_2017_n1_f3__Q03]]
 
 
-
-<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_geometria_piana,topic_algebra,topic_aritmetica,method_casework,skill_ragionamento_geometrico,skill_manipolazione_algebrica,skill_modellizzazione"></span>
+<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_geometria_piana,topic_algebra,topic_aritmetica,method_casework,method_fattorizzazione,skill_ragionamento_geometrico,skill_manipolazione_algebrica,skill_modellizzazione"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -160,9 +155,9 @@ level: OBM Nível 1
 > c) If the perimeter of your rectangle is $780\text{ cm}$, what can be the values of the perimeter of the square formed after the new arrangement of the parts?
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_casework|Casework]]
+**Metodo:** [[method_casework|Casework]], [[method_fattorizzazione|Factorisation / algebraic manipulation]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]]
-**Area:** [[Geometria]], [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
+**Area:** [[Geometria|Geometry]], [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1_6dp56Wlc9cGlBDEM_l2CECvfw_ugAWe/view)
 
 
@@ -179,16 +174,15 @@ level: OBM Nível 1
 >
 > c) Se il perimetro del tuo rettangolo è $780\text{ cm}$, quali possono essere i valori del perimetro del quadrato che si forma dopo la nuova disposizione delle parti?
 
+
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_casework|Casework]]
+**Metodo:** [[method_casework|Casework]], [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]]
 **Area:** [[Geometria]], [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 
-[[Quesiti/src_obm_2017_n1_f3#q04|src_obm_2017_n1_f3__Q04]]
 
 
-
-<span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_combinatoria,topic_geometria_piana,topic_logica,method_casework,method_conteggio,skill_lettura_attenta,skill_conteggio_sistematico,skill_casework_accurato,skill_ragionamento_geometrico"></span>
+<span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_combinatoria,topic_geometria_piana,topic_logica,method_casework,method_conteggio,method_grafi,skill_lettura_attenta,skill_conteggio_sistematico,skill_casework_accurato,skill_ragionamento_geometrico"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -213,12 +207,12 @@ level: OBM Nível 1
 > 
 > c) How many different passwords of four digits have two collinear segments (segments that lie on the same line)?
 
-![[src_obm_2017_n1_f3__q05.png]]
+![[src_obm_2017_n1_f3__Q05.png]]
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_geometria_piana|Geometria piana]], [[topic_logica|Logica]]
-**Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]]
+**Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]], [[method_grafi|Graph theory]]
 **Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
-**Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Geometria|Geometry]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1_6dp56Wlc9cGlBDEM_l2CECvfw_ugAWe/view)
 
 
@@ -245,11 +239,10 @@ level: OBM Nível 1
 >
 > c) Quante password diverse di quattro cifre hanno due segmenti collineari (segmenti che giacciono sulla stessa retta)?
 
-![[src_obm_2017_n1_f3__q05.png]]
+![[src_obm_2017_n1_f3__Q05.png]]
+
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_geometria_piana|Geometria piana]], [[topic_logica|Logica]]
-**Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]]
+**Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]], [[method_grafi|Teoria dei grafi]]
 **Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
-
-[[Quesiti/src_obm_2017_n1_f3#q05|src_obm_2017_n1_f3__Q05]]

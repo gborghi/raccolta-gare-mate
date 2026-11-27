@@ -38,8 +38,6 @@ level: BMO Round 2
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_astrazione|Astrazione]]
 **Area:** [[Geometria]]
 
-[[Quesiti/src_bmo_2010-11_round2#q01|src_bmo_2010-11_round2__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_aritmetica,topic_funzionali,method_ricorsione,method_casework,method_conteggio,skill_riconoscimento_pattern,skill_conteggio_sistematico,skill_manipolazione_algebrica"></span>
@@ -80,8 +78,6 @@ level: BMO Round 2
 **Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 
-[[Quesiti/src_bmo_2010-11_round2#q02|src_bmo_2010-11_round2__Q02]]
-
 
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_aritmetica,topic_algebra,method_congruenze,method_fattorizzazione,method_casework,skill_manipolazione_algebrica,skill_lettura_attenta,skill_conteggio_sistematico"></span>
@@ -114,11 +110,9 @@ level: BMO Round 2
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 
-[[Quesiti/src_bmo_2010-11_round2#q03|src_bmo_2010-11_round2__Q03]]
 
 
-
-<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_combinatoria,topic_geometria_analitica,method_estremalita,method_doppio_conteggio,method_conteggio,skill_astrazione,skill_conteggio_sistematico,skill_modellizzazione,skill_stima"></span>
+<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_combinatoria,topic_geometria_analitica,method_estremalita,method_doppio_conteggio,method_conteggio,method_cassetti,skill_astrazione,skill_conteggio_sistematico,skill_modellizzazione,skill_stima"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -128,9 +122,9 @@ level: BMO Round 2
 > Let $G$ be the set of points $(x, y)$ in the plane such that $x$ and $y$ are integers in the range $1 \le x, y \le 2011$. A subset $S$ of $G$ is said to be parallelogram-free if there is no proper parallelogram with all its vertices in $S$. Determine the largest parallelogram-free subset of $G$. Note: a proper parallelogram is one where the vertices do not all lie on the same line.
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_geometria_analitica|Geometria analitica]]
-**Metodo:** [[method_estremalita|Estremalità]], [[method_doppio_conteggio|Doppio conteggio]], [[method_conteggio|Conteggio]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_doppio_conteggio|Doppio conteggio]], [[method_conteggio|Conteggio]], [[method_cassetti|Pigeonhole principle]]
 **Abilita:** [[skill_astrazione|Astrazione]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione]], [[skill_stima|Stima]]
-**Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Geometria|Geometry]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/14seLXr6DJIlaqxnLOHlZ_AKgh-xYbFYR/view)
 
 
@@ -141,9 +135,8 @@ level: BMO Round 2
 
 > Sia $G$ l'insieme dei punti $(x, y)$ nel piano tali che $x$ e $y$ siano interi nell'intervallo $1 \le x, y \le 2011$. Un sottoinsieme $S$ di $G$ si dice privo di parallelogrammi se non esiste alcun parallelogramma proprio i cui vertici siano tutti in $S$. Determinare il più grande sottoinsieme privo di parallelogrammi di $G$. Nota: un parallelogramma proprio è un parallelogramma i cui vertici non giacciono tutti sulla stessa retta.
 
+
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_geometria_analitica|Geometria analitica]]
-**Metodo:** [[method_estremalita|Estremalità]], [[method_doppio_conteggio|Doppio conteggio]], [[method_conteggio|Conteggio]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_doppio_conteggio|Doppio conteggio]], [[method_conteggio|Conteggio]], [[method_cassetti|Principio dei cassetti]]
 **Abilita:** [[skill_astrazione|Astrazione]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione]], [[skill_stima|Stima]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
-
-[[Quesiti/src_bmo_2010-11_round2#q04|src_bmo_2010-11_round2__Q04]]

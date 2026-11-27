@@ -19,7 +19,7 @@ level: China Mathematical Competition (Complementary Test)
 
 > (40 marks) As seen in Fig. 1.1, points $P$, $Q$ are, respectively, the midpoints of $AC$, $BD$ — the two diagonals of cyclic quadrilateral $ABCD$. Let $\angle BPA = \angle DPA$. Prove $\angle AQB = \angle CQD$.
 
-![[src_cn_cmc-complementary-test_b11_w69__q01.png]]
+![[src_cn_cmc-complementary-test_b11_w69__Q01.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_simmetria|Simmetria]]
@@ -35,14 +35,12 @@ level: China Mathematical Competition (Complementary Test)
 
 > (40 punti) Come si vede nella Fig. 1.1, i punti $P$, $Q$ sono rispettivamente i punti medi di $AC$, $BD$ — le due diagonali del quadrilatero ciclico $ABCD$. Sia $\angle BPA = \angle DPA$. Dimostrare $\angle AQB = \angle CQD$.
 
-![[src_cn_cmc-complementary-test_b11_w69__q01.png]]
+![[src_cn_cmc-complementary-test_b11_w69__Q01.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_simmetria|Simmetria]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Geometria]]
-
-[[Quesiti/src_cn_cmc-complementary-test_2011#q01|src_cn_cmc-complementary-test_2011__Q01]]
 
 
 
@@ -60,7 +58,7 @@ level: China Mathematical Competition (Complementary Test)
 > (2) For any positive integer $a$ and arbitrary $b$ ($b \ge 2$) positive integers $r_1, r_2, \ldots, r_b$ that are different from each other, we have
 > $$f(a) \ne f(r_1)f(r_2)\cdots f(r_b).$$
 
-![[src_cn_cmc-complementary-test_b11_w69__q02.png]]
+![[src_cn_cmc-complementary-test_b11_w69__Q02.png]]
 
 **Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_estremalita|Estremalità]], [[method_fattorizzazione|Fattorizzazione]]
@@ -79,14 +77,12 @@ level: China Mathematical Competition (Complementary Test)
 > con le seguenti proprietà: (1) $a_0, a_1, \ldots, a_{n-1}$ sono tutti numeri interi positivi; (2) Per qualsiasi numero intero positivo $a$ e per arbitrari $b$ ($b \ge 2$) numeri interi positivi $r_1, r_2, \ldots, r_b$ tutti diversi tra loro, si ha
 > $$f(a) \ne f(r_1)f(r_2)\cdots f(r_b).$$
 
-![[src_cn_cmc-complementary-test_b11_w69__q02.png]]
+![[src_cn_cmc-complementary-test_b11_w69__Q02.png]]
 
 **Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_estremalita|Estremalità]], [[method_fattorizzazione|Fattorizzazione]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]], [[skill_astrazione|Astrazione]]
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
-
-[[Quesiti/src_cn_cmc-complementary-test_2011#q02|src_cn_cmc-complementary-test_2011__Q02]]
 
 
 
@@ -132,11 +128,9 @@ level: China Mathematical Competition (Complementary Test)
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]], [[skill_modellizzazione|Modellizzazione]]
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 
-[[Quesiti/src_cn_cmc-complementary-test_2011#q03|src_cn_cmc-complementary-test_2011__Q03]]
 
 
-
-<span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_combinatoria,method_estremalita,method_casework,method_congruenze,skill_conteggio_sistematico,skill_casework_accurato,skill_ragionamento_geometrico"></span>
+<span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_combinatoria,topic_aritmetica,method_estremalita,method_casework,method_congruenze,skill_conteggio_sistematico,skill_casework_accurato,skill_ragionamento_geometrico"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -145,10 +139,10 @@ level: China Mathematical Competition (Complementary Test)
 
 > (20 marks) Given a $3 \times 9$ array $A$ with each cell containing a positive integer, we say an $m \times n$ ($1 \leq m \leq 3$, $1 \leq n \leq 9$) subarray of $A$ is a "good rectangle" if every number in its cells is a multiple of $10$. A cell of $A$ is "bad" if it is not contained in any "good rectangle". Find the maximum number of "bad cells" in $A$.
 
-**Topic:** [[topic_combinatoria|Combinatoria]]
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Arithmetic / Number theory]]
 **Metodo:** [[method_estremalita|Estremalità]], [[method_casework|Casework]], [[method_congruenze|Congruenze]]
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
-**Area:** [[Combinatoria, Logica e Probabilita]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Risposta:** 25
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1cjmD7lTT4vb3nB3ylcVCHeHucUE2rNI0/view)
 
@@ -160,9 +154,8 @@ level: China Mathematical Competition (Complementary Test)
 
 > (20 punti) Dato un array $3 \times 9$ $A$ in cui ogni cella contiene un numero intero positivo, diciamo che un sottodarray $m \times n$ ($1 \leq m \leq 3$, $1 \leq n \leq 9$) di $A$ è un "rettangolo buono" se ogni numero contenuto nelle sue celle è un multiplo di $10$. Una cella di $A$ è "cattiva" se non è contenuta in alcun "rettangolo buono". Determinare il numero massimo di "celle cattive" in $A$.
 
-**Topic:** [[topic_combinatoria|Combinatoria]]
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_estremalita|Estremalità]], [[method_casework|Casework]], [[method_congruenze|Congruenze]]
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
-**Area:** [[Combinatoria, Logica e Probabilita]]
-
-[[Quesiti/src_cn_cmc-complementary-test_2011#q05|src_cn_cmc-complementary-test_2011__Q05]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]

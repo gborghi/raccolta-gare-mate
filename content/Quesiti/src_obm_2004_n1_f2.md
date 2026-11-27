@@ -41,8 +41,6 @@ level: OBM Nível 1
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 
-[[Quesiti/src_obm_2004_n1_f2#q01|src_obm_2004_n1_f2__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_aritmetica,skill_modellizzazione,skill_manipolazione_algebrica"></span>
@@ -71,8 +69,6 @@ level: OBM Nível 1
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
-
-[[Quesiti/src_obm_2004_n1_f2#q02|src_obm_2004_n1_f2__Q02]]
 
 
 
@@ -105,8 +101,6 @@ level: OBM Nível 1
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 
-[[Quesiti/src_obm_2004_n1_f2#q03|src_obm_2004_n1_f2__Q03]]
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_aritmetica,topic_combinatoria,method_casework,method_conteggio,skill_conteggio_sistematico,skill_lettura_attenta,skill_riconoscimento_pattern"></span>
@@ -137,8 +131,6 @@ level: OBM Nível 1
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 
-[[Quesiti/src_obm_2004_n1_f2#q04|src_obm_2004_n1_f2__Q04]]
-
 
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_geometria_solida,topic_aritmetica,skill_ragionamento_geometrico,skill_modellizzazione,skill_manipolazione_algebrica"></span>
@@ -150,7 +142,7 @@ level: OBM Nível 1
 
 > Using the highlighted part of a rectangular sheet of paper as a net, one can assemble a cube. If the area of the sheet is $300\,\text{cm}^2$, what is the volume of this cube, in $\text{cm}^3$?
 
-![[src_obm_2004_n1_f2__q05.png]]
+![[src_obm_2004_n1_f2__Q05.png]]
 
 **Topic:** [[topic_geometria_solida|Geometria solida]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
@@ -166,13 +158,11 @@ level: OBM Nível 1
 
 > Utilizzando la parte evidenziata di un foglio di carta rettangolare come sviluppo, si può assemblare un cubo. Se l'area del foglio è $300\,\text{cm}^2$, qual è il volume di questo cubo, in $\text{cm}^3$?
 
-![[src_obm_2004_n1_f2__q05.png]]
+![[src_obm_2004_n1_f2__Q05.png]]
 
 **Topic:** [[topic_geometria_solida|Geometria solida]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]], [[Aritmetica e Teoria dei Numeri]]
-
-[[Quesiti/src_obm_2004_n1_f2#q05|src_obm_2004_n1_f2__Q05]]
 
 
 
@@ -185,7 +175,7 @@ level: OBM Nível 1
 
 > In the table below, write the numbers from 1 to 9 in each column so that the sum of the numbers written in the 9 rows is the same, equal to $Y$. $X$ is the sum of the numbers in each column. Find $X + Y$.
 
-![[src_obm_2004_n1_f2__q06.png]]
+![[src_obm_2004_n1_f2__Q06.png]]
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_doppio_conteggio|Doppio conteggio]]
@@ -201,14 +191,12 @@ level: OBM Nível 1
 
 > Nella tabella sottostante, scrivi i numeri da 1 a 9 in ciascuna colonna in modo che la somma dei numeri scritti nelle 9 righe sia la stessa, pari a $Y$. $X$ è la somma dei numeri in ciascuna colonna. Trovare $X + Y$.
 
-![[src_obm_2004_n1_f2__q06.png]]
+![[src_obm_2004_n1_f2__Q06.png]]
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_doppio_conteggio|Doppio conteggio]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_modellizzazione|Modellizzazione]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
-
-[[Quesiti/src_obm_2004_n1_f2#q06|src_obm_2004_n1_f2__Q06]]
 
 
 
@@ -248,8 +236,6 @@ level: OBM Nível 1
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 
-[[Quesiti/src_obm_2004_n1_f2#q07|src_obm_2004_n1_f2__Q07]]
-
 
 
 <span class="atom-split" id="q08" data-atom="q08" data-title="Quesito 8" data-tags="topic_geometria_piana,topic_combinatoria,method_estremalita,method_casework,skill_ragionamento_geometrico,skill_conteggio_sistematico,skill_modellizzazione"></span>
@@ -265,7 +251,7 @@ level: OBM Nível 1
 > 
 > (b) By coloring other squares, we can increase the area of this figure without changing its perimeter. What is the maximum area we can achieve?
 
-![[src_obm_2004_n1_f2__q08.png]]
+![[src_obm_2004_n1_f2__Q08.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_estremalita|Estremalità]], [[method_casework|Casework]]
@@ -285,18 +271,16 @@ level: OBM Nível 1
 >
 > (b) Colorando altri quadratini, possiamo aumentare l'area di questa figura senza modificarne il perimetro. Qual è l'area massima che possiamo ottenere?
 
-![[src_obm_2004_n1_f2__q08.png]]
+![[src_obm_2004_n1_f2__Q08.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_estremalita|Estremalità]], [[method_casework|Casework]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione]]
 **Area:** [[Geometria]], [[Combinatoria, Logica e Probabilita]]
 
-[[Quesiti/src_obm_2004_n1_f2#q08|src_obm_2004_n1_f2__Q08]]
 
 
-
-<span class="atom-split" id="q09" data-atom="q09" data-title="Quesito 9" data-tags="topic_combinatoria,topic_aritmetica,method_ricorsione,method_invarianti,method_casework,skill_riconoscimento_pattern,skill_lettura_attenta,skill_conteggio_sistematico,skill_ragionamento_geometrico"></span>
+<span class="atom-split" id="q09" data-atom="q09" data-title="Quesito 9" data-tags="topic_combinatoria,topic_aritmetica,topic_funzionali,method_ricorsione,method_invarianti,method_casework,skill_riconoscimento_pattern,skill_lettura_attenta,skill_conteggio_sistematico,skill_ragionamento_geometrico"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -309,10 +293,10 @@ level: OBM Nível 1
 > 
 > (b) Esmeralda liked this and decided to repeat the process on several sheets, starting with 01 on the first line of the first sheet. Which are the first two digits from the left that she typed on the $2006^{\text{th}}$ line?
 
-**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_funzionali|Functional equations / sequences]]
 **Metodo:** [[method_ricorsione|Ricorsione]], [[method_invarianti|Invarianti]], [[method_casework|Casework]]
 **Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_lettura_attenta|Lettura attenta]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
-**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Algebra e Analisi|Algebra and analysis]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1y7WlDnVemjZ3hQ_miSEh-MI-_YElHC7c/view)
 
 
@@ -327,9 +311,8 @@ level: OBM Nível 1
 >
 > (b) A Esmeralda è piaciuto e ha deciso di ripetere il processo su diverse schede, partendo da 01 sulla prima riga della prima scheda. Quali sono le prime due cifre da sinistra che ha digitato sulla riga $2006^{\text{th}}$?
 
-**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_funzionali|Equazioni funzionali / successioni]]
 **Metodo:** [[method_ricorsione|Ricorsione]], [[method_invarianti|Invarianti]], [[method_casework|Casework]]
 **Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_lettura_attenta|Lettura attenta]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
-**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
-
-[[Quesiti/src_obm_2004_n1_f2#q09|src_obm_2004_n1_f2__Q09]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]

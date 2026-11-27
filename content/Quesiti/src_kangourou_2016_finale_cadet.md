@@ -17,7 +17,7 @@ level: kangourou
 
 *lato del triangolo piu grande*
 
-![[src_kangourou_2016_finale_cadet__probc1.png]]
+![[src_kangourou_2016_finale_cadet__probC1.png]]
 
 ```tikz
 \begin{document}
@@ -48,7 +48,7 @@ level: kangourou
 
 *Side of the larger triangle*
 
-![[src_kangourou_2016_finale_cadet__probc1.png]]
+![[src_kangourou_2016_finale_cadet__probC1.png]]
 
 ```tikz
 \begin{document}
@@ -71,11 +71,9 @@ level: kangourou
 **Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
 **Area:** [[Geometria|Geometry]]
 
-[[Quesiti/src_kangourou_2016_finale_cadet#qc1|src_kangourou_2016_finale_cadet__QC1]]
 
 
-
-<span class="atom-split" id="qc2" data-atom="qc2" data-title="Quesito C2" data-tags="topic_aritmetica,topic_logica,skill_modellizzazione"></span>
+<span class="atom-split" id="qc2" data-atom="qc2" data-title="Quesito C2" data-tags="topic_aritmetica,topic_logica,method_casework,skill_modellizzazione,skill_lettura_attenta"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -85,7 +83,8 @@ level: kangourou
 > La moneta di Kanglandia è il kang. A Kangcity il cambio euro - kang funziona così: si ottiene $1$ kang pagando $1{,}20$ euro, si ottiene $1$ euro pagando $1$ kang e proporzionalmente se si cambiano monete di valore inferiore. In entrambe le valute la moneta di valore minimo è quella da un centesimo; si può cambiare qualunque quantità di denaro e il risultato del cambio, se non è esprimibile con un numero intero di centesimi, viene arrotondato al centesimo per eccesso. Sono a Kangcity e ho solo euro. Esiste un modo (lecito) di acquistare un gelato che costa $2$ kang spendendo solo $2$ euro? In caso affermativo, qual è il minimo numero di cambi che mi consente di farlo?
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_logica|Logica, giochi, strategie]]
-**Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
+**Metodo:** [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_lettura_attenta|Lettura attenta del testo]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** si, 40
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1oqrEh6WLA1jn7meM9kqx809sdukOIBbT/view)
@@ -98,15 +97,15 @@ level: kangourou
 
 > The currency of Kanglandia is the kang. In Kangcity, the euro-to-kang exchange rate works as follows: you get $1$ kangs by paying $1{,}20$ euros; you get $1$ euros by paying $1$ kangs; and proportionally, if you exchange currencies of lower value. In both currencies, the smallest-denomination coin is the one worth one cent; you can exchange any amount of money, and if the result of the exchange cannot be expressed as a whole number of cents, it is rounded up to the nearest cent. I am in Kangcity and I have only euros. Is there a (lawful) way to buy an ice cream that costs $2$ kangs while spending only $2$ euros? If so, what is the minimum number of exchanges that will allow me to do it?
 
+
 **Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_logica|Logic, games and strategies]]
-**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]], [[skill_lettura_attenta|Careful reading of the text]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
-[[Quesiti/src_kangourou_2016_finale_cadet#qc2|src_kangourou_2016_finale_cadet__QC2]]
 
 
-
-<span class="atom-split" id="qc3" data-atom="qc3" data-title="Quesito C3" data-tags="topic_probabilita,topic_combinatoria,skill_conteggio_sistematico"></span>
+<span class="atom-split" id="qc3" data-atom="qc3" data-title="Quesito C3" data-tags="topic_probabilita,topic_combinatoria,method_casi_conteggio,skill_conteggio_sistematico,skill_modellizzazione"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -119,7 +118,8 @@ level: kangourou
 > Fox è impreparato e pensa di rispondere a caso ai quesiti. Se vuole essere promosso, gli conviene scegliere la busta A o la B?
 
 **Topic:** [[topic_probabilita|Probabilita e statistica]], [[topic_combinatoria|Combinatoria]]
-**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Metodo:** [[method_casi_conteggio|Conteggio per casi]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** busta B
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1oqrEh6WLA1jn7meM9kqx809sdukOIBbT/view)
@@ -135,22 +135,22 @@ level: kangourou
 > - Envelope B, which contains $3$ questions, each with $6$ answers.
 > Fox is unprepared and thinks he'll just answer the questions at random. If he wants to be promoted, should he opt for envelope A or envelope B?
 
+
 **Topic:** [[topic_probabilita|Probability and statistics]], [[topic_combinatoria|Combinatorics]]
-**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Metodo:** [[method_casi_conteggio|Counting by cases]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]], [[skill_modellizzazione|Modelling / translating the text]]
 **Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
-[[Quesiti/src_kangourou_2016_finale_cadet#qc3|src_kangourou_2016_finale_cadet__QC3]]
 
 
-
-<span class="atom-split" id="qc4" data-atom="qc4" data-title="Quesito C4" data-tags="topic_aritmetica,topic_geometria_piana,skill_riconoscimento_pattern"></span>
+<span class="atom-split" id="qc4" data-atom="qc4" data-title="Quesito C4" data-tags="topic_aritmetica,topic_geometria_piana,method_congruenze,skill_riconoscimento_pattern,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
 
 *diametro intero della moneta B*
 
-![[src_kangourou_2016_finale_cadet__probc4.png]]
+![[src_kangourou_2016_finale_cadet__probC4.png]]
 
 ```tikz
 \begin{document}
@@ -169,7 +169,8 @@ level: kangourou
 > In figura sono schematizzate due monete circolari sul bordo di ciascuna delle quali c'è una tacca; le due monete si toccano in corrispondenza delle tacche. Il diametro della moneta A, la più grande, misura $18$ mm. Se la moneta B inizia a ruotare attorno alla moneta A, rimanendole sempre a contatto, deve compiere esattamente due giri attorno alla A perché si ripresenti per la prima volta la situazione in figura (cioè le due monete vengano a toccarsi ancora in corrispondenza delle tacche). Sapendo che anche il diametro della moneta B misura un numero intero di millimetri, che cosa si può dire di tale lunghezza? (vedi figura)
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_geometria_piana|Geometria piana]]
-**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Geometria]]
 **Risposta:** 4 o 12
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1oqrEh6WLA1jn7meM9kqx809sdukOIBbT/view)
@@ -180,7 +181,7 @@ level: kangourou
 
 *Total diameter of coin B*
 
-![[src_kangourou_2016_finale_cadet__probc4.png]]
+![[src_kangourou_2016_finale_cadet__probC4.png]]
 
 ```tikz
 \begin{document}
@@ -198,22 +199,22 @@ level: kangourou
 
 > The figure schematically shows two circular coins, each having a notch on its rim; the two coins touch at the notches. The diameter of coin A, the larger one, is $18$ mm. If coin B starts rotating around coin A while always remaining in contact with it, it must complete exactly two revolutions around A for the situation shown in the figure to reappear for the first time (that is, for the two coins to come into contact again at the notches). Given that the diameter of coin B is also an integer number of millimetres, what can be said about this length? (see figure)
 
+
 **Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_geometria_piana|Plane geometry]]
-**Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]]
+**Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Geometria|Geometry]]
 
-[[Quesiti/src_kangourou_2016_finale_cadet#qc4|src_kangourou_2016_finale_cadet__QC4]]
 
 
-
-<span class="atom-split" id="qc5" data-atom="qc5" data-title="Quesito C5" data-tags="topic_geometria_piana,skill_ragionamento_geometrico"></span>
+<span class="atom-split" id="qc5" data-atom="qc5" data-title="Quesito C5" data-tags="topic_geometria_piana,method_coordinate,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
 
 *distanza CD*
 
-![[src_kangourou_2016_finale_cadet__probc5.png]]
+![[src_kangourou_2016_finale_cadet__probC5.png]]
 
 ```tikz
 \begin{document}
@@ -233,7 +234,8 @@ level: kangourou
 > In figura vedi una semi-circonferenza di diametro $8$. I punti $A$ e $D$ ne sono gli estremi, i punti $B$ e $C$ sono altri due punti della semi-circonferenza che distano $2$ rispettivamente dal punto $A$ e dal punto $B$. Quanto dista il punto $C$ dal punto $D$? (vedi figura)
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
-**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Metodo:** [[method_coordinate|Metodo delle coordinate]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 **Risposta:** 7
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1oqrEh6WLA1jn7meM9kqx809sdukOIBbT/view)
@@ -244,7 +246,7 @@ level: kangourou
 
 *distance CD*
 
-![[src_kangourou_2016_finale_cadet__probc5.png]]
+![[src_kangourou_2016_finale_cadet__probC5.png]]
 
 ```tikz
 \begin{document}
@@ -263,15 +265,15 @@ level: kangourou
 
 > In the figure, you see a semicircle with diameter $8$. The points $A$ and $D$ are its endpoints; the points $B$ and $C$ are two other points on the semicircle, and they are $2$ away from point $A$ and point $B$, respectively. How far is point $C$ from point $D$? (see figure)
 
+
 **Topic:** [[topic_geometria_piana|Plane geometry]]
-**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Metodo:** [[method_coordinate|Coordinate method]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
 **Area:** [[Geometria|Geometry]]
 
-[[Quesiti/src_kangourou_2016_finale_cadet#qc5|src_kangourou_2016_finale_cadet__QC5]]
 
 
-
-<span class="atom-split" id="qc6" data-atom="qc6" data-title="Quesito C6" data-tags="topic_aritmetica,skill_casework_accurato"></span>
+<span class="atom-split" id="qc6" data-atom="qc6" data-title="Quesito C6" data-tags="topic_aritmetica,method_casework,method_congruenze,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -281,6 +283,7 @@ level: kangourou
 > Nella strana repubblica di Kang gli anni durano $3000$ giorni, numerati da $1$ a $3000$. I giorni festivi sono quelli il cui numero è divisibile per $6$ oppure è un numero primo; gli altri sono giorni lavorativi. Se venisse aggiunto ai giorni festivi anche ogni giorno di "ponte", cioè giorno lavorativo preceduto e seguito da un giorno festivo, quanti giorni festivi in più ci sarebbero in ogni anno?
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Analisi per casi]], [[method_congruenze|Aritmetica modulare / congruenze]]
 **Abilita:** [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 2
@@ -294,8 +297,8 @@ level: kangourou
 
 > In the strange Republic of Kang, years last $3000$ days, numbered from $1$ to $3000$. Holiday days are those whose number is divisible by $6$ or is a prime number; the others are working days. If every "bridge" day—that is, a working day preceded and followed by a holiday day—were also added to the holiday days, how many more holiday days would there be in each year?
 
+
 **Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_casework|Case analysis]], [[method_congruenze|Modular arithmetic / congruences]]
 **Abilita:** [[skill_casework_accurato|Careful case analysis]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
-
-[[Quesiti/src_kangourou_2016_finale_cadet#qc6|src_kangourou_2016_finale_cadet__QC6]]

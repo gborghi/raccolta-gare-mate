@@ -10,7 +10,7 @@ level: China Mathematical Competition
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_algebra,topic_insiemi_funzioni,method_disuguaglianze,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_algebra,topic_insiemi_funzioni,topic_disuguaglianze,method_disuguaglianze,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -21,10 +21,10 @@ level: China Mathematical Competition
 > 
 > (A) 0 \quad (B) 1 \quad (C) 2 \quad (D) 3
 
-**Topic:** [[topic_algebra|Algebra]], [[topic_insiemi_funzioni|Insiemi e funzioni]]
+**Topic:** [[topic_algebra|Algebra]], [[topic_insiemi_funzioni|Insiemi e funzioni]], [[topic_disuguaglianze|Inequalities]]
 **Metodo:** [[method_disuguaglianze|Disuguaglianze]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
-**Area:** [[Algebra e Analisi]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
 **Risposta:** C
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1WZGXm4nA5dcZd9asSbnzGZkeWDSjqbF6/view)
 
@@ -38,16 +38,15 @@ level: China Mathematical Competition
 >
 > (A) 0 \quad (B) 1 \quad (C) 2 \quad (D) 3
 
-**Topic:** [[topic_algebra|Algebra]], [[topic_insiemi_funzioni|Insiemi e funzioni]]
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_insiemi_funzioni|Insiemi e funzioni]], [[topic_disuguaglianze|Disuguaglianze]]
 **Metodo:** [[method_disuguaglianze|Disuguaglianze]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Algebra e Analisi]]
 
-[[Quesiti/src_cn_cmc_2008#q01|src_cn_cmc_2008__Q01]]
 
 
-
-<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_algebra,topic_insiemi_funzioni,method_casework,method_disuguaglianze,skill_manipolazione_algebrica,skill_ragionamento_geometrico"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_algebra,topic_insiemi_funzioni,topic_disuguaglianze,method_casework,method_disuguaglianze,skill_manipolazione_algebrica,skill_ragionamento_geometrico,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -58,10 +57,10 @@ level: China Mathematical Competition
 > 
 > (A) $[-1, 2)$ \quad (B) $[1, 2]$ \quad (C) $[0, 3]$ \quad (D) $[0, 3)$
 
-**Topic:** [[topic_algebra|Algebra]], [[topic_insiemi_funzioni|Insiemi e funzioni]]
+**Topic:** [[topic_algebra|Algebra]], [[topic_insiemi_funzioni|Insiemi e funzioni]], [[topic_disuguaglianze|Inequalities]]
 **Metodo:** [[method_casework|Casework]], [[method_disuguaglianze|Disuguaglianze]]
-**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
-**Area:** [[Algebra e Analisi]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
 **Risposta:** D
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1WZGXm4nA5dcZd9asSbnzGZkeWDSjqbF6/view)
 
@@ -75,12 +74,11 @@ level: China Mathematical Competition
 >
 > (A) $[-1, 2)$ \quad (B) $[1, 2]$ \quad (C) $[0, 3]$ \quad (D) $[0, 3)$
 
-**Topic:** [[topic_algebra|Algebra]], [[topic_insiemi_funzioni|Insiemi e funzioni]]
-**Metodo:** [[method_casework|Casework]], [[method_disuguaglianze|Disuguaglianze]]
-**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
-**Area:** [[Algebra e Analisi]]
 
-[[Quesiti/src_cn_cmc_2008#q02|src_cn_cmc_2008__Q02]]
+**Topic:** [[topic_algebra|Algebra]], [[topic_insiemi_funzioni|Insiemi e funzioni]], [[topic_disuguaglianze|Disuguaglianze]]
+**Metodo:** [[method_casework|Casework]], [[method_disuguaglianze|Disuguaglianze]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Algebra e Analisi]]
 
 
 
@@ -117,11 +115,9 @@ level: China Mathematical Competition
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 
-[[Quesiti/src_cn_cmc_2008#q03|src_cn_cmc_2008__Q03]]
 
 
-
-<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_aritmetica,topic_combinatoria,method_casework,method_fattorizzazione,skill_conteggio_sistematico,skill_manipolazione_algebrica"></span>
+<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_aritmetica,topic_combinatoria,method_casework,method_fattorizzazione,skill_conteggio_sistematico,skill_manipolazione_algebrica,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -134,8 +130,8 @@ level: China Mathematical Competition
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_casework|Casework]], [[method_fattorizzazione|Fattorizzazione]]
-**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
-**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Risposta:** A
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1WZGXm4nA5dcZd9asSbnzGZkeWDSjqbF6/view)
 
@@ -149,12 +145,11 @@ level: China Mathematical Competition
 >
 > (A) 764 cm$^3$ o 586 cm$^3$ \quad (B) 764 cm$^3$ \quad (C) 386 cm$^3$ \quad (D) 586 cm$^3$
 
+
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_casework|Casework]], [[method_fattorizzazione|Fattorizzazione]]
-**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
-
-[[Quesiti/src_cn_cmc_2008#q04|src_cn_cmc_2008__Q04]]
 
 
 
@@ -195,11 +190,9 @@ level: China Mathematical Competition
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Algebra e Analisi]]
 
-[[Quesiti/src_cn_cmc_2008#q05|src_cn_cmc_2008__Q05]]
 
 
-
-<span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_trigonometria,topic_geometria_piana,method_disuguaglianze,method_trigonometria,skill_manipolazione_algebrica,skill_ragionamento_geometrico"></span>
+<span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_trigonometria,topic_geometria_piana,topic_disuguaglianze,method_disuguaglianze,method_trigonometria,skill_manipolazione_algebrica,skill_ragionamento_geometrico"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -210,10 +203,10 @@ level: China Mathematical Competition
 > 
 > (A) $(0, +\infty)$ \quad (B) $\left(0, \dfrac{\sqrt{5}+1}{2}\right)$ \quad (C) $\left(\dfrac{\sqrt{5}-1}{2}, \dfrac{\sqrt{5}+1}{2}\right)$ \quad (D) $\left(\dfrac{\sqrt{5}-1}{2}, +\infty\right)$
 
-**Topic:** [[topic_trigonometria|Trigonometria]], [[topic_geometria_piana|Geometria piana]]
+**Topic:** [[topic_trigonometria|Trigonometria]], [[topic_geometria_piana|Geometria piana]], [[topic_disuguaglianze|Inequalities]]
 **Metodo:** [[method_disuguaglianze|Disuguaglianze]], [[method_trigonometria|Trigonometria]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
-**Area:** [[Geometria]]
+**Area:** [[Geometria|Geometry]], [[Algebra e Analisi|Algebra and analysis]]
 **Risposta:** C
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1WZGXm4nA5dcZd9asSbnzGZkeWDSjqbF6/view)
 
@@ -227,16 +220,15 @@ level: China Mathematical Competition
 >
 > (A) $(0, +\infty)$ \quad (B) $\left(0, \dfrac{\sqrt{5}+1}{2}\right)$ \quad (C) $\left(\dfrac{\sqrt{5}-1}{2}, \dfrac{\sqrt{5}+1}{2}\right)$ \quad (D) $\left(\dfrac{\sqrt{5}-1}{2}, +\infty\right)$
 
-**Topic:** [[topic_trigonometria|Trigonometria]], [[topic_geometria_piana|Geometria piana]]
+
+**Topic:** [[topic_trigonometria|Trigonometria]], [[topic_geometria_piana|Geometria piana]], [[topic_disuguaglianze|Disuguaglianze]]
 **Metodo:** [[method_disuguaglianze|Disuguaglianze]], [[method_trigonometria|Trigonometria]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
-**Area:** [[Geometria]]
-
-[[Quesiti/src_cn_cmc_2008#q06|src_cn_cmc_2008__Q06]]
+**Area:** [[Geometria]], [[Algebra e Analisi]]
 
 
 
-<span class="atom-split" id="q07" data-atom="q07" data-title="Quesito 7" data-tags="topic_algebra,topic_insiemi_funzioni,method_ricorsione,method_fattorizzazione,skill_riconoscimento_pattern,skill_manipolazione_algebrica"></span>
+<span class="atom-split" id="q07" data-atom="q07" data-title="Quesito 7" data-tags="topic_algebra,topic_insiemi_funzioni,topic_funzionali,method_ricorsione,method_fattorizzazione,skill_riconoscimento_pattern,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -245,10 +237,10 @@ level: China Mathematical Competition
 
 > Let $f(x) = ax + b$, with $a, b$ real numbers; $f_1(x) = f(x)$, $f_{n+1}(x) = f(f_n(x))$, $n = 1, 2, \ldots$ If $f_7(x) = 128x + 381$, then $a + b = $ ________.
 
-**Topic:** [[topic_algebra|Algebra]], [[topic_insiemi_funzioni|Insiemi e funzioni]]
+**Topic:** [[topic_algebra|Algebra]], [[topic_insiemi_funzioni|Insiemi e funzioni]], [[topic_funzionali|Functional equations / sequences]]
 **Metodo:** [[method_ricorsione|Ricorsione]], [[method_fattorizzazione|Fattorizzazione]]
 **Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
-**Area:** [[Algebra e Analisi]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
 **Risposta:** 5
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1WZGXm4nA5dcZd9asSbnzGZkeWDSjqbF6/view)
 
@@ -260,16 +252,15 @@ level: China Mathematical Competition
 
 > Sia $f(x) = ax + b$, con $a, b$ numeri reali; $f_1(x) = f(x)$, $f_{n+1}(x) = f(f_n(x))$, $n = 1, 2, \ldots$ Se $f_7(x) = 128x + 381$, allora $a + b = $ ________.
 
-**Topic:** [[topic_algebra|Algebra]], [[topic_insiemi_funzioni|Insiemi e funzioni]]
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_insiemi_funzioni|Insiemi e funzioni]], [[topic_funzionali|Equazioni funzionali / successioni]]
 **Metodo:** [[method_ricorsione|Ricorsione]], [[method_fattorizzazione|Fattorizzazione]]
 **Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Algebra e Analisi]]
 
-[[Quesiti/src_cn_cmc_2008#q07|src_cn_cmc_2008__Q07]]
 
 
-
-<span class="atom-split" id="q08" data-atom="q08" data-title="Quesito 8" data-tags="topic_trigonometria,topic_algebra,method_disuguaglianze,method_casework,skill_manipolazione_algebrica,skill_casework_accurato"></span>
+<span class="atom-split" id="q08" data-atom="q08" data-title="Quesito 8" data-tags="topic_trigonometria,topic_algebra,method_disuguaglianze,method_casework,method_trigonometria,skill_manipolazione_algebrica,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -279,9 +270,9 @@ level: China Mathematical Competition
 > Suppose that the minimum of $f(x) = \cos 2x - 4a(1 + \cos x)$ is $-\dfrac{1}{2}$. Then $a = $ ________.
 
 **Topic:** [[topic_trigonometria|Trigonometria]], [[topic_algebra|Algebra]]
-**Metodo:** [[method_disuguaglianze|Disuguaglianze]], [[method_casework|Casework]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze]], [[method_casework|Casework]], [[method_trigonometria|Trigonometric techniques]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Casework accurato]]
-**Area:** [[Geometria]], [[Algebra e Analisi]]
+**Area:** [[Geometria|Geometry]], [[Algebra e Analisi|Algebra and analysis]]
 **Risposta:** $-2+\sqrt{3}$
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1WZGXm4nA5dcZd9asSbnzGZkeWDSjqbF6/view)
 
@@ -293,12 +284,11 @@ level: China Mathematical Competition
 
 > Supponiamo che il minimo di $f(x) = \cos 2x - 4a(1 + \cos x)$ sia $-\dfrac{1}{2}$. Allora $a = $ ________.
 
+
 **Topic:** [[topic_trigonometria|Trigonometria]], [[topic_algebra|Algebra]]
-**Metodo:** [[method_disuguaglianze|Disuguaglianze]], [[method_casework|Casework]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze]], [[method_casework|Casework]], [[method_trigonometria|Tecniche trigonometriche]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Geometria]], [[Algebra e Analisi]]
-
-[[Quesiti/src_cn_cmc_2008#q08|src_cn_cmc_2008__Q08]]
 
 
 
@@ -331,11 +321,9 @@ level: China Mathematical Competition
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 
-[[Quesiti/src_cn_cmc_2008#q09|src_cn_cmc_2008__Q09]]
 
 
-
-<span class="atom-split" id="q10" data-atom="q10" data-title="Quesito 10" data-tags="topic_algebra,method_ricorsione,method_telescoping,skill_manipolazione_algebrica,skill_riconoscimento_pattern"></span>
+<span class="atom-split" id="q10" data-atom="q10" data-title="Quesito 10" data-tags="topic_algebra,topic_funzionali,method_ricorsione,method_telescoping,skill_manipolazione_algebrica,skill_riconoscimento_pattern"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -346,10 +334,10 @@ level: China Mathematical Competition
 > $$S_n + a_n = \frac{n-1}{n(n+1)}, \quad n = 1, 2, \ldots$$
 > Then $a_n = $ ________.
 
-**Topic:** [[topic_algebra|Algebra]]
+**Topic:** [[topic_algebra|Algebra]], [[topic_funzionali|Functional equations / sequences]]
 **Metodo:** [[method_ricorsione|Ricorsione]], [[method_telescoping|Telescoping]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
-**Area:** [[Algebra e Analisi]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
 **Risposta:** $\dfrac{1}{2^n} - \dfrac{1}{n(n+1)}$
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1WZGXm4nA5dcZd9asSbnzGZkeWDSjqbF6/view)
 
@@ -363,16 +351,15 @@ level: China Mathematical Competition
 > $$S_n + a_n = \frac{n-1}{n(n+1)}, \quad n = 1, 2, \ldots$$
 > Allora $a_n = $ ________.
 
-**Topic:** [[topic_algebra|Algebra]]
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_funzionali|Equazioni funzionali / successioni]]
 **Metodo:** [[method_ricorsione|Ricorsione]], [[method_telescoping|Telescoping]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Algebra e Analisi]]
 
-[[Quesiti/src_cn_cmc_2008#q10|src_cn_cmc_2008__Q10]]
 
 
-
-<span class="atom-split" id="q11" data-atom="q11" data-title="Quesito 11" data-tags="topic_algebra,topic_insiemi_funzioni,method_telescoping,method_disuguaglianze,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
+<span class="atom-split" id="q11" data-atom="q11" data-title="Quesito 11" data-tags="topic_algebra,topic_insiemi_funzioni,topic_funzionali,topic_disuguaglianze,method_telescoping,method_disuguaglianze,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -384,10 +371,10 @@ level: China Mathematical Competition
 > $$f(x+6) - f(x) \ge 63 \times 2^x.$$
 > Then $f(2008) = $ ________.
 
-**Topic:** [[topic_algebra|Algebra]], [[topic_insiemi_funzioni|Insiemi e funzioni]]
+**Topic:** [[topic_algebra|Algebra]], [[topic_insiemi_funzioni|Insiemi e funzioni]], [[topic_funzionali|Functional equations / sequences]], [[topic_disuguaglianze|Inequalities]]
 **Metodo:** [[method_telescoping|Telescoping]], [[method_disuguaglianze|Disuguaglianze]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
-**Area:** [[Algebra e Analisi]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
 **Risposta:** $2^{2008} + 2007$
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1WZGXm4nA5dcZd9asSbnzGZkeWDSjqbF6/view)
 
@@ -402,16 +389,15 @@ level: China Mathematical Competition
 > $$f(x+6) - f(x) \ge 63 \times 2^x.$$
 > Allora $f(2008) = $ ________.
 
-**Topic:** [[topic_algebra|Algebra]], [[topic_insiemi_funzioni|Insiemi e funzioni]]
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_insiemi_funzioni|Insiemi e funzioni]], [[topic_funzionali|Equazioni funzionali / successioni]], [[topic_disuguaglianze|Disuguaglianze]]
 **Metodo:** [[method_telescoping|Telescoping]], [[method_disuguaglianze|Disuguaglianze]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Algebra e Analisi]]
 
-[[Quesiti/src_cn_cmc_2008#q11|src_cn_cmc_2008__Q11]]
 
 
-
-<span class="atom-split" id="q12" data-atom="q12" data-title="Quesito 12" data-tags="topic_geometria_solida,method_coordinate,method_estremalita,skill_ragionamento_geometrico,skill_modellizzazione"></span>
+<span class="atom-split" id="q12" data-atom="q12" data-title="Quesito 12" data-tags="topic_geometria_solida,topic_geometria_piana,method_coordinate,method_estremalita,method_simmetria,skill_ragionamento_geometrico,skill_modellizzazione"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -420,10 +406,10 @@ level: China Mathematical Competition
 
 > Suppose that a ball of radius 1 moves freely inside a regular tetrahedron with edge length $4\sqrt{6}$. Then the area of the inner surface of the container which the ball can never touch is ________.
 
-**Topic:** [[topic_geometria_solida|Geometria solida]]
-**Metodo:** [[method_coordinate|Coordinate]], [[method_estremalita|Estremalità]]
+**Topic:** [[topic_geometria_solida|Geometria solida]], [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_coordinate|Coordinate]], [[method_estremalita|Estremalità]], [[method_simmetria|Using symmetry]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]]
-**Area:** [[Geometria]]
+**Area:** [[Geometria|Geometry]]
 **Risposta:** $72\sqrt{3}$
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1WZGXm4nA5dcZd9asSbnzGZkeWDSjqbF6/view)
 
@@ -435,16 +421,15 @@ level: China Mathematical Competition
 
 > Supponiamo che una sfera di raggio 1 si muova liberamente all'interno di un tetraedro regolare con lato di lunghezza $4\sqrt{6}$. Allora l'area della superficie interna del contenitore che la sfera non potrà mai toccare è ________.
 
-**Topic:** [[topic_geometria_solida|Geometria solida]]
-**Metodo:** [[method_coordinate|Coordinate]], [[method_estremalita|Estremalità]]
+
+**Topic:** [[topic_geometria_solida|Geometria solida]], [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_coordinate|Coordinate]], [[method_estremalita|Estremalità]], [[method_simmetria|Sfruttamento della simmetria]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]]
 **Area:** [[Geometria]]
 
-[[Quesiti/src_cn_cmc_2008#q12|src_cn_cmc_2008__Q12]]
 
 
-
-<span class="atom-split" id="q13" data-atom="q13" data-title="Quesito 13" data-tags="topic_trigonometria,topic_algebra,method_disuguaglianze,method_trigonometria,skill_manipolazione_algebrica,skill_ragionamento_geometrico"></span>
+<span class="atom-split" id="q13" data-atom="q13" data-title="Quesito 13" data-tags="topic_trigonometria,topic_algebra,topic_geometria_analitica,method_disuguaglianze,method_trigonometria,skill_manipolazione_algebrica,skill_ragionamento_geometrico"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -454,10 +439,10 @@ level: China Mathematical Competition
 > It is known that the curve $f(x) = |\sin x|$ intercepts the line $y = kx$ ($k > 0$) at exactly three points, the maximum $x$ coordinate of these points being $a$. Prove that
 > $$\frac{\cos a}{\sin a - a\cos a} = \frac{1 - a^2}{4a}.$$
 
-**Topic:** [[topic_trigonometria|Trigonometria]], [[topic_algebra|Algebra]]
+**Topic:** [[topic_trigonometria|Trigonometria]], [[topic_algebra|Algebra]], [[topic_geometria_analitica|Coordinate geometry]]
 **Metodo:** [[method_disuguaglianze|Disuguaglianze]], [[method_trigonometria|Trigonometria]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
-**Area:** [[Geometria]], [[Algebra e Analisi]]
+**Area:** [[Geometria|Geometry]], [[Algebra e Analisi|Algebra and analysis]]
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1WZGXm4nA5dcZd9asSbnzGZkeWDSjqbF6/view)
 
 
@@ -469,12 +454,11 @@ level: China Mathematical Competition
 > È noto che la curva $f(x) = |\sin x|$ interseca la retta $y = kx$ ($k > 0$) in esattamente tre punti, e che la coordinata $x$ massima di tali punti è $a$. Dimostrare che
 > $$\frac{\cos a}{\sin a - a\cos a} = \frac{1 - a^2}{4a}.$$
 
-**Topic:** [[topic_trigonometria|Trigonometria]], [[topic_algebra|Algebra]]
+
+**Topic:** [[topic_trigonometria|Trigonometria]], [[topic_algebra|Algebra]], [[topic_geometria_analitica|Geometria analitica]]
 **Metodo:** [[method_disuguaglianze|Disuguaglianze]], [[method_trigonometria|Trigonometria]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]], [[Algebra e Analisi]]
-
-[[Quesiti/src_cn_cmc_2008#q13|src_cn_cmc_2008__Q13]]
 
 
 
@@ -509,8 +493,6 @@ level: China Mathematical Competition
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Algebra e Analisi]]
 
-[[Quesiti/src_cn_cmc_2008#q14|src_cn_cmc_2008__Q14]]
-
 
 
 <span class="atom-split" id="q15" data-atom="q15" data-title="Quesito 15" data-tags="topic_geometria_analitica,topic_geometria_piana,method_coordinate,method_estremalita,method_disuguaglianze,skill_ragionamento_geometrico,skill_manipolazione_algebrica,skill_modellizzazione"></span>
@@ -522,7 +504,7 @@ level: China Mathematical Competition
 
 > As is shown in the figure, $P$ is a moving point on the parabola $y^2 = 2x$, points $B$, $C$ are on the $y$ axis, and the circle $(x-1)^2 + y^2 = 1$ is internally tangent to $\triangle PBC$. Find the minimum value of the area of $\triangle PBC$.
 
-![[src_cn_cmc_2008__q15.png]]
+![[src_cn_cmc_2008__Q15.png]]
 
 **Topic:** [[topic_geometria_analitica|Geometria analitica]], [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_coordinate|Coordinate]], [[method_estremalita|Estremalità]], [[method_disuguaglianze|Disuguaglianze]]
@@ -538,11 +520,9 @@ level: China Mathematical Competition
 
 > Come mostrato nella figura, $P$ è un punto mobile sulla parabola $y^2 = 2x$; i punti $B$, $C$ giacciono sull'asse $y$, e il cerchio $(x-1)^2 + y^2 = 1$ è tangente internamente a $\triangle PBC$. Determinare il valore minimo dell'area di $\triangle PBC$.
 
-![[src_cn_cmc_2008__q15.png]]
+![[src_cn_cmc_2008__Q15.png]]
 
 **Topic:** [[topic_geometria_analitica|Geometria analitica]], [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_coordinate|Coordinate]], [[method_estremalita|Estremalità]], [[method_disuguaglianze|Disuguaglianze]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]]
 **Area:** [[Geometria]]
-
-[[Quesiti/src_cn_cmc_2008#q15|src_cn_cmc_2008__Q15]]

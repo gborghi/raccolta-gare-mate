@@ -10,7 +10,7 @@ level: kangourou
 
 
 
-<span class="atom-split" id="qj1" data-atom="qj1" data-title="Quesito J1" data-tags="topic_aritmetica,skill_manipolazione_algebrica"></span>
+<span class="atom-split" id="qj1" data-atom="qj1" data-title="Quesito J1" data-tags="topic_aritmetica,topic_algebra,method_fattorizzazione,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -19,9 +19,10 @@ level: kangourou
 
 > Esistono basi in cui l'espressione $15 \times 15 = 321$ risulta corretta?
 
-**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
-**Area:** [[Aritmetica e Teoria dei Numeri]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 **Risposta:** base 6
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1zhN_ZIEqgp2HEtGPhjwQn1kisd4lL2x7/view)
 
@@ -33,14 +34,15 @@ level: kangourou
 
 > Are there bases in which the expression $15 \times 15 = 321$ is correct?
 
-**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
-**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Algebra e Analisi|Algebra and analysis]]
 **Answer:** base 6
-[[Quesiti/src_kangourou_2004_junior_finale#qj1|src_kangourou_2004_junior_finale__QJ1]]
 
 
 
-<span class="atom-split" id="qj2" data-atom="qj2" data-title="Quesito J2" data-tags="topic_algebra,topic_aritmetica,method_casework,skill_manipolazione_algebrica"></span>
+<span class="atom-split" id="qj2" data-atom="qj2" data-title="Quesito J2" data-tags="topic_algebra,topic_aritmetica,method_casework,method_fattorizzazione,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -50,7 +52,7 @@ level: kangourou
 > Per quali coppie $(x, y)$ di numeri interi relativi è vero che $x^2 + y^2 + xy = 1$?
 
 **Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_casework|Analisi per casi]]
+**Metodo:** [[method_casework|Analisi per casi]], [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 6 coppie
@@ -65,14 +67,14 @@ level: kangourou
 > For which pairs $(x, y)$ of integers is it true that $x^2 + y^2 + xy = 1$?
 
 **Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Arithmetic / Number theory]]
-**Method:** [[method_casework|Case analysis]]
-**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Metodo:** [[method_casework|Case analysis]], [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Answer:** 6 coppie
-[[Quesiti/src_kangourou_2004_junior_finale#qj2|src_kangourou_2004_junior_finale__QJ2]]
 
 
 
-<span class="atom-split" id="qj3" data-atom="qj3" data-title="Quesito J3" data-tags="topic_algebra,topic_aritmetica,skill_manipolazione_algebrica"></span>
+<span class="atom-split" id="qj3" data-atom="qj3" data-title="Quesito J3" data-tags="topic_algebra,topic_aritmetica,method_doppio_conteggio,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -82,6 +84,7 @@ level: kangourou
 > Ho scritto su 5 foglietti altrettanti numeri interi positivi. Sommandoli a due a due in tutti i modi possibili, ottengo i seguenti dieci risultati: $17, 20, 28, 14, 36, 28, 25, 31, 39$ e $42$. Quali numeri ho scritto?
 
 **Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_doppio_conteggio|Doppio conteggio]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 3,11,14,17,25
@@ -96,9 +99,10 @@ level: kangourou
 > I wrote on 5 slips as many positive integers. Adding them two at a time in every possible way, I obtain the following ten results: $17, 20, 28, 14, 36, 28, 25, 31, 39$ and $42$. Which numbers did I write?
 
 **Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Arithmetic / Number theory]]
-**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Metodo:** [[method_doppio_conteggio|Double counting]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Answer:** 3,11,14,17,25
-[[Quesiti/src_kangourou_2004_junior_finale#qj3|src_kangourou_2004_junior_finale__QJ3]]
 
 
 
@@ -180,11 +184,10 @@ level: kangourou
 **Method:** [[method_simmetria|Using symmetry]]
 **Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
 **Answer:** 3
-[[Quesiti/src_kangourou_2004_junior_finale#qj4|src_kangourou_2004_junior_finale__QJ4]]
 
 
 
-<span class="atom-split" id="qj5" data-atom="qj5" data-title="Quesito J5" data-tags="topic_combinatoria,topic_algebra,skill_astrazione"></span>
+<span class="atom-split" id="qj5" data-atom="qj5" data-title="Quesito J5" data-tags="topic_combinatoria,topic_algebra,method_estremalita,skill_astrazione"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -198,8 +201,9 @@ level: kangourou
 > È vero che dopo un numero opportuno di queste mosse, ogni riga è formata da elementi la cui somma non è negativa ed così pure ogni colonna? Motiva.
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_estremalita|Principio di estremalita]]
 **Abilita:** [[skill_astrazione|Astrazione / generalizzazione]]
-**Area:** [[Algebra e Analisi]], [[Combinatoria, Logica e Probabilita]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Algebra e Analisi]]
 **Risposta:** si
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1zhN_ZIEqgp2HEtGPhjwQn1kisd4lL2x7/view)
 
@@ -216,13 +220,14 @@ level: kangourou
 > Is it true that after a suitable number of these moves, every row consists of entries whose sum is not negative, and likewise every column? Justify.
 
 **Topic:** [[topic_combinatoria|Combinatorics]], [[topic_algebra|Algebra]]
-**Skill:** [[skill_astrazione|Abstraction / generalisation]]
+**Metodo:** [[method_estremalita|Extremal principle]]
+**Abilita:** [[skill_astrazione|Abstraction / generalisation]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Algebra e Analisi|Algebra and analysis]]
 **Answer:** si
-[[Quesiti/src_kangourou_2004_junior_finale#qj5|src_kangourou_2004_junior_finale__QJ5]]
 
 
 
-<span class="atom-split" id="qj6" data-atom="qj6" data-title="Quesito J6" data-tags="topic_aritmetica,topic_combinatoria,method_casework,skill_casework_accurato"></span>
+<span class="atom-split" id="qj6" data-atom="qj6" data-title="Quesito J6" data-tags="topic_aritmetica,topic_combinatoria,method_casework,method_congruenze,skill_casework_accurato,skill_riconoscimento_pattern"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -232,8 +237,8 @@ level: kangourou
 > È possibile permutare le cifre $1, 2, 3, 4, 5, 6, 7, 8, 9$ in modo che per ogni $n \in \{1, 2, \ldots, 8, 9\}$ il numero formato dalle prime $n$ cifre (partendo da sinistra) sia divisibile per $n$? In caso affermativo, la permutazione è unica?
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
-**Metodo:** [[method_casework|Analisi per casi]]
-**Abilita:** [[skill_casework_accurato|Casework accurato]]
+**Metodo:** [[method_casework|Analisi per casi]], [[method_congruenze|Aritmetica modulare / congruenze]]
+**Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 381654729 unica
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1zhN_ZIEqgp2HEtGPhjwQn1kisd4lL2x7/view)
@@ -247,7 +252,7 @@ level: kangourou
 > Is it possible to permute the digits $1, 2, 3, 4, 5, 6, 7, 8, 9$ so that for every $n \in \{1, 2, \ldots, 8, 9\}$ the number formed by the first $n$ digits (starting from the left) is divisible by $n$? If so, is the permutation unique?
 
 **Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_combinatoria|Combinatorics]]
-**Method:** [[method_casework|Case analysis]]
-**Skill:** [[skill_casework_accurato|Careful case analysis]]
+**Metodo:** [[method_casework|Case analysis]], [[method_congruenze|Modular arithmetic / congruences]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]], [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** 381654729 unica
-[[Quesiti/src_kangourou_2004_junior_finale#qj6|src_kangourou_2004_junior_finale__QJ6]]

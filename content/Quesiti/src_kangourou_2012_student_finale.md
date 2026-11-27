@@ -10,7 +10,7 @@ level: kangourou
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_geometria_solida,skill_ragionamento_geometrico"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_geometria_solida,topic_geometria_piana,method_estremalita,skill_ragionamento_geometrico"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -19,7 +19,8 @@ level: kangourou
 
 > Assegnati tre punti non allineati nello spazio, quante sfere passano per questi tre punti? Nel caso ne possa passare più di una, come si può determinare il raggio di quella che ha raggio minore?
 
-**Topic:** [[topic_geometria_solida|Geometria solida]]
+**Topic:** [[topic_geometria_solida|Geometria solida]], [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_estremalita|Principio di estremalita]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1rKSJWGHm_XWTb26mxPxi9wK1JSuPHAZs/view)
@@ -32,15 +33,15 @@ level: kangourou
 
 > Given three non-collinear points in space, how many spheres pass through these three points? If more than one can pass through them, how can one determine the radius of the one with the smaller radius?
 
-**Topic:** [[topic_geometria_solida|Solid geometry]]
-**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Topic:** [[topic_geometria_solida|Solid geometry]], [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_estremalita|Extremal principle]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
 **Area:** [[Geometria|Geometry]]
 **Source:** [open PDF p.1](https://drive.google.com/file/d/1rKSJWGHm_XWTb26mxPxi9wK1JSuPHAZs/view)
-[[Quesiti/src_kangourou_2012_student_finale#q01|src_kangourou_2012_student_finale__Q01]]
 
 
 
-<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_aritmetica,topic_logica,skill_modellizzazione"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_aritmetica,topic_logica,method_invarianti,method_congruenze,skill_modellizzazione,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -52,7 +53,8 @@ level: kangourou
 > Pietro vuole mettere in fila un certo numero di dadi tradizionali (la somma dei punti su facce opposte è sempre 7), come ti mostra la figura. Incolla due facce insieme solo se il numero di punti sulle due facce è uguale, e vuole ottenere una fila in modo che la somma dei punti su tutte le facce esposte sia $2012$. Può riuscirci e, in caso affermativo, quanti dadi deve usare? (vedi figura)
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_logica|Logica, giochi, strategie]]
-**Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
+**Metodo:** [[method_invarianti|Invarianti / monovarianti]], [[method_congruenze|Aritmetica modulare / congruenze]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1rKSJWGHm_XWTb26mxPxi9wK1JSuPHAZs/view)
 
@@ -66,15 +68,15 @@ level: kangourou
 
 > Pietro wants to line up a certain number of traditional dice (the sum of the dots on opposite faces is always 7), as shown in the figure. He glues two faces together only if the number of dots on the two faces is equal, and he wants to end up with a row such that the sum of the dots on all the exposed faces is $2012$. Can he succeed? If so, how many dice must he use? (see figure)
 
+
 **Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_logica|Logic, games and strategies]]
-**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
+**Metodo:** [[method_invarianti|Invariants / monovariants]], [[method_congruenze|Modular arithmetic / congruences]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
-[[Quesiti/src_kangourou_2012_student_finale#q02|src_kangourou_2012_student_finale__Q02]]
 
 
-
-<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_combinatoria,method_colorazione,skill_casework_accurato"></span>
+<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_combinatoria,method_colorazione,method_casework,skill_casework_accurato,skill_conteggio_sistematico"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -84,8 +86,8 @@ level: kangourou
 > Venti tessere sono numerate con gli interi da $1$ a $20$. Vogliamo colorare ogni tessera di un solo colore, bianco o nero, in modo che sia rispettata la seguente regola: se due (diverse) tessere di numeri $m$ e $n$ hanno lo stesso colore e $m + n < 21$, allora anche la tessera di numero $m + n$ deve avere quel colore. In quanti modi diversi possiamo attribuire i colori?
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
-**Metodo:** [[method_colorazione|Colorazione / parita]]
-**Abilita:** [[skill_casework_accurato|Casework accurato]]
+**Metodo:** [[method_colorazione|Colorazione / parita]], [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1rKSJWGHm_XWTb26mxPxi9wK1JSuPHAZs/view)
 
@@ -97,16 +99,15 @@ level: kangourou
 
 > Twenty tiles are numbered with the integers from $1$ to $20$. We want to color each tile with a single color, either white or black, so that the following rule is obeyed: if two (distinct) tiles with numbers $m$ and $n$ have the same color and $m + n < 21$, then the tile with number $m + n$ must also have that color. In how many different ways can we assign the colors?
 
+
 **Topic:** [[topic_combinatoria|Combinatorics]]
-**Metodo:** [[method_colorazione|Colouring / parity]]
-**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Metodo:** [[method_colorazione|Colouring / parity]], [[method_casework|Case analysis]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]], [[skill_conteggio_sistematico|Systematic counting]]
 **Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
-[[Quesiti/src_kangourou_2012_student_finale#q03|src_kangourou_2012_student_finale__Q03]]
 
 
-
-<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_geometria_solida,topic_combinatoria,method_cassetti,skill_astrazione"></span>
+<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_geometria_solida,topic_combinatoria,method_cassetti,skill_astrazione,skill_ragionamento_geometrico"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -119,8 +120,8 @@ level: kangourou
 
 **Topic:** [[topic_geometria_solida|Geometria solida]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_cassetti|Principio dei cassetti]]
-**Abilita:** [[skill_astrazione|Astrazione / generalizzazione]]
-**Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
+**Abilita:** [[skill_astrazione|Astrazione / generalizzazione]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Geometria]], [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1rKSJWGHm_XWTb26mxPxi9wK1JSuPHAZs/view)
 
 
@@ -134,11 +135,10 @@ level: kangourou
 > Prove that every polyhedron (a solid whose surface consists of a finite number of polygons) has at least two faces with the same number of edges. Are there polyhedra that do not have three faces with the same number of edges?
 
 **Topic:** [[topic_geometria_solida|Solid geometry]], [[topic_combinatoria|Combinatorics]]
-**Method:** [[method_cassetti|Pigeonhole principle]]
-**Skill:** [[skill_astrazione|Abstraction / generalisation]]
-**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Geometria|Geometry]]
+**Metodo:** [[method_cassetti|Pigeonhole principle]]
+**Abilita:** [[skill_astrazione|Abstraction / generalisation]], [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Source:** [open PDF p.1](https://drive.google.com/file/d/1rKSJWGHm_XWTb26mxPxi9wK1JSuPHAZs/view)
-[[Quesiti/src_kangourou_2012_student_finale#q04|src_kangourou_2012_student_finale__Q04]]
 
 
 
@@ -170,11 +170,9 @@ level: kangourou
 **Abilita:** [[skill_astrazione|Abstraction / generalisation]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
-[[Quesiti/src_kangourou_2012_student_finale#q05|src_kangourou_2012_student_finale__Q05]]
 
 
-
-<span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_insiemi_funzioni,skill_astrazione"></span>
+<span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_insiemi_funzioni,method_bigezione,skill_astrazione"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -184,6 +182,7 @@ level: kangourou
 > Denotiamo con $\mathbb{N}$ l'insieme degli interi positivi. È noto che l'insieme dei sottoinsiemi di $\mathbb{N}$ non può essere messo in corrispondenza biunivoca con $\mathbb{N}$, ma può essere messo in corrispondenza biunivoca con qualsiasi intervallo (non banale) dell'asse reale. Diciamo che due sottoinsiemi infiniti di $\mathbb{N}$ sono "quasi-disgiunti" se hanno in comune al più un numero finito di elementi. Provare che esiste un insieme infinito che non può essere messo in corrispondenza biunivoca con $\mathbb{N}$, i cui elementi sono sottoinsiemi di $\mathbb{N}$ a due a due quasi-disgiunti.
 
 **Topic:** [[topic_insiemi_funzioni|Insiemi e funzioni]]
+**Metodo:** [[method_bigezione|Bigezione / corrispondenza]]
 **Abilita:** [[skill_astrazione|Astrazione / generalizzazione]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1rKSJWGHm_XWTb26mxPxi9wK1JSuPHAZs/view)
@@ -197,7 +196,7 @@ level: kangourou
 > We denote by $\mathbb{N}$ the set of positive integers. It is known that the set of subsets of $\mathbb{N}$ cannot be put in one-to-one correspondence with $\mathbb{N}$, but can be put in one-to-one correspondence with any (non-trivial) interval of the real line. We say that two infinite subsets of $\mathbb{N}$ are "almost disjoint" if they have at most a finite number of elements in common. Prove that there exists an infinite set that cannot be put in one-to-one correspondence with $\mathbb{N}$, and whose elements are pairwise almost-disjoint subsets of $\mathbb{N}$.
 
 **Topic:** [[topic_insiemi_funzioni|Sets and functions]]
-**Skill:** [[skill_astrazione|Abstraction / generalisation]]
+**Metodo:** [[method_bigezione|Bijection / correspondence]]
+**Abilita:** [[skill_astrazione|Abstraction / generalisation]]
 **Area:** [[Algebra e Analisi|Algebra and analysis]]
 **Source:** [open PDF p.1](https://drive.google.com/file/d/1rKSJWGHm_XWTb26mxPxi9wK1JSuPHAZs/view)
-[[Quesiti/src_kangourou_2012_student_finale#q06|src_kangourou_2012_student_finale__Q06]]

@@ -10,7 +10,7 @@ level: Concours Général
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_algebra,topic_aritmetica,topic_trigonometria,method_casework,method_fattorizzazione,method_trigonometria,skill_astrazione,skill_manipolazione_algebrica,skill_casework_accurato,skill_lettura_attenta"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_algebra,topic_aritmetica,topic_trigonometria,topic_insiemi_funzioni,method_casework,method_fattorizzazione,method_trigonometria,skill_astrazione,skill_manipolazione_algebrica,skill_casework_accurato,skill_lettura_attenta"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -64,10 +64,10 @@ level: Concours Général
 > \textbf{5.} Give an example of a subset $\mathscr{A}$ of type $S$ such that $b(\mathscr{A}) > 8$.
 > \textbf{6.} What are the possible values for $b(\mathscr{A})$?
 
-**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_trigonometria|Trigonometria]]
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_trigonometria|Trigonometria]], [[topic_insiemi_funzioni|Sets and functions]]
 **Metodo:** [[method_casework|Casework]], [[method_fattorizzazione|Fattorizzazione]], [[method_trigonometria|Trigonometria]]
 **Abilita:** [[skill_astrazione|Astrazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Casework accurato]], [[skill_lettura_attenta|Lettura attenta]]
-**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]], [[Geometria]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Geometria|Geometry]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1EHAMpK1by8Xia4t4AWdCzG755ysDEYJL/view)
 
 > [!warning] Estratto/tradotto da verificare con la fonte.
@@ -140,11 +140,14 @@ level: Concours Général
 >
 > \textbf{6.} Quali sono i possibili valori di $b(\mathscr{A})$?
 
-[[Quesiti/src_cgen_2017#q01|src_cgen_2017__Q01]]
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_trigonometria|Trigonometria]], [[topic_insiemi_funzioni|Insiemi e funzioni]]
+**Metodo:** [[method_casework|Analisi per casi]], [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]], [[method_trigonometria|Tecniche trigonometriche]]
+**Abilita:** [[skill_astrazione|Astrazione / generalizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Casework accurato]], [[skill_lettura_attenta|Lettura attenta del testo]]
+**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]], [[Geometria]]
 
 
 
-<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_probabilita,topic_combinatoria,method_casework,method_conteggio,skill_modellizzazione,skill_manipolazione_algebrica,skill_casework_accurato,skill_lettura_attenta"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_probabilita,topic_combinatoria,method_casework,method_conteggio,method_disuguaglianze,skill_modellizzazione,skill_manipolazione_algebrica,skill_casework_accurato,skill_lettura_attenta"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -182,9 +185,9 @@ level: Concours Général
 > \textbf{4.} Determine, according to the value of $p$, the best strategy for Franck.
 
 **Topic:** [[topic_probabilita|Probabilità]], [[topic_combinatoria|Combinatoria]]
-**Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]]
+**Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]], [[method_disuguaglianze|Classical inequalities]]
 **Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Casework accurato]], [[skill_lettura_attenta|Lettura attenta]]
-**Area:** [[Combinatoria, Logica e Probabilita]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1EHAMpK1by8Xia4t4AWdCzG755ysDEYJL/view)
 
 > [!warning] Estratto/tradotto da verificare con la fonte.
@@ -217,11 +220,14 @@ level: Concours Général
 > 
 > \textbf{1.} Prova che, per qualsiasi numero intero $k$ che verifica $1 \le k \le 13$, si ha $P_{2k-1} \ge P_{2k}$. \textbf{2.} Dimostra che, per qualsiasi intero $k$ verificando $0 \le k \le 12$, si ha $$P_{2k+1} = \sum_{j=k+1}^{2k+1} \binom{2k+1}{j} p^j (1-p)^{2k+1-j}.$$ \textbf{3.} Dimostra che, per qualsiasi intero $k$ verificando $0 \le k \le 11$, si ha $$P_{2k+3} - P_{2k+1} = \binom{2k+1}{k+1} p^{k+1}(1-p)^{k+1} (\,p - (1-p)\,).$$ Si può liberamente utilizzare l'identità di Pascal: per $0 < m < n$, $\binom{n}{m} = \binom{n-1}{m} + \binom{n-1}{m-1}$. [Nota: il lato destro preciso della formula di 2.2.3 è parzialmente illeggibile nella fonte.] \textbf{4.} Determinare, in base al valore di $p$, la strategia migliore per Franck.
 
-[[Quesiti/src_cgen_2017#q02|src_cgen_2017__Q02]]
+**Topic:** [[topic_probabilita|Probabilita e statistica]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casework|Analisi per casi]], [[method_conteggio|Conteggio combinatorio]], [[method_disuguaglianze|Disuguaglianze classiche]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Casework accurato]], [[skill_lettura_attenta|Lettura attenta del testo]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
 
 
 
-<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_geometria_solida,topic_geometria_analitica,topic_aritmetica,method_coordinate,method_congruenze,method_casework,method_fattorizzazione,skill_ragionamento_geometrico,skill_manipolazione_algebrica,skill_astrazione,skill_lettura_attenta"></span>
+<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_geometria_solida,topic_geometria_analitica,topic_aritmetica,topic_geometria_piana,topic_trigonometria,method_coordinate,method_congruenze,method_casework,method_fattorizzazione,method_trigonometria,skill_ragionamento_geometrico,skill_manipolazione_algebrica,skill_astrazione,skill_lettura_attenta"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -272,10 +278,10 @@ level: Concours Général
 > \textit{Remark:} One may freely use the following identity, valid for all reals $a$, $b$, $c$, $d$, $e$ and $f$:
 > $$(a^2 + b^2 + c^2)(d^2 + e^2 + f^2) - (ad + be + cf)^2 = (ae - bd)^2 + (af - cd)^2 + (bf - ce)^2.$$
 
-**Topic:** [[topic_geometria_solida|Geometria solida]], [[topic_geometria_analitica|Geometria analitica]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_coordinate|Coordinate]], [[method_congruenze|Congruenze]], [[method_casework|Casework]], [[method_fattorizzazione|Fattorizzazione]]
+**Topic:** [[topic_geometria_solida|Geometria solida]], [[topic_geometria_analitica|Geometria analitica]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_geometria_piana|Plane geometry]], [[topic_trigonometria|Trigonometry]]
+**Metodo:** [[method_coordinate|Coordinate]], [[method_congruenze|Congruenze]], [[method_casework|Casework]], [[method_fattorizzazione|Fattorizzazione]], [[method_trigonometria|Trigonometric techniques]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]], [[skill_lettura_attenta|Lettura attenta]]
-**Area:** [[Geometria]], [[Aritmetica e Teoria dei Numeri]]
+**Area:** [[Geometria|Geometry]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1EHAMpK1by8Xia4t4AWdCzG755ysDEYJL/view)
 
 > [!warning] Estratto/tradotto da verificare con la fonte.
@@ -308,4 +314,7 @@ level: Concours Général
 > 
 > \textbf{1.} Determina un triangolo equilaterale le cui vertici sono punti interi dello spazio $\mathscr{E}$. \textbf{2.} $T$ sia un triangolo le cui tre cime sono punti interi di $\mathscr{E}$. \textbf{a.} Prova che, per qualsiasi angolo non retto $\theta$ di $T$, il numero $\tan^2(\theta)$ è razionale. \textbf{b.} Prova che esiste un intero unico $k \ge 1$, libero da quadrati, in modo che per qualsiasi angolo $\theta$ di $T$, il numero $\tan(\theta)$ possa essere scritto nella forma $r\sqrt{k}$, dove $r$ è un numero razionale non zero. \textbf{c.} Usando la domanda \textbf{1.}, dimostrare che esistono integri $a_1, a_2, a_3, u_1, u_2$ e $u_3$, non tutti zero, soddisfacendo il sistema $$E(k,k) \;:\; \begin{cases} k\,(a_1^2 + a_2^2 + a_3^2) = u_1^2 + u_2^2 + u_3^2 \\ a_1 u_1 + a_2 u_2 + a_3 u_3 = 0 \end{cases}$$ (Ricorda: l'intero $k$ è quello trovato in questione \textbf{2.b.}) [Nota: la forma esatta del sistema $E(\cdot,\cdot)$ e i suoi parametri sono parzialmente ricostruiti da una fonte parzialmente illeggibile.] \textbf{3.} $k$ sia un intero a quadrato libero strettamente positivo. Supponiamo che esistano integri $a_1, a_2, a_3, u_1, u_2$ e $u_3$, non tutti zero, che soddisfano il sistema $E(3,k)$. $T$ sia un triangolo dello spazio $\mathscr{E}$. Supponiamo che, per qualsiasi angolo non retto $\theta$ di $T$, il numero $\tan(\theta)$ possa essere scritto nella forma $r\sqrt{k}$, dove $r$ è un numero razionale non zero. Mostrare che esiste un triangolo le cui tre vertici sono numeri interi e che hanno gli stessi angoli di $T$. - Sì, signore. a.} Il $T$ deve essere un triangolo a uguali dimensioni dello spazio $\mathscr{E}$ i cui lati sono di lunghezza $3$, $3$ e $2$. C'è un triangolo dello spazio $\mathscr{E}$ le cui tre vertici sono numeri interi e hanno gli stessi angoli di $T$? \textbf{b.} $T$ sia un triangolo a uguali dimensioni dello spazio $\mathscr{E}$ i cui lati sono di lunghezza $2$, $2$ e $3$. C'è un triangolo dello spazio $\mathscr{E}$ le cui tre vertici sono numeri interi e hanno gli stessi angoli di $T$? \textit{Rimarca:} Si può liberamente utilizzare la seguente identità, valida per tutti i veri $a$, $b$, $c$, $d$, $e$ e $f$: $$(a^2 + b^2 + c^2)(d^2 + e^2 + f^2) - (ad + be + cf)^2 = (ae - bd)^2 + (af - cd)^2 + (bf - ce)^2.$$
 
-[[Quesiti/src_cgen_2017#q03|src_cgen_2017__Q03]]
+**Topic:** [[topic_geometria_solida|Geometria solida]], [[topic_geometria_analitica|Geometria analitica]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometria]]
+**Metodo:** [[method_coordinate|Metodo delle coordinate]], [[method_congruenze|Aritmetica modulare / congruenze]], [[method_casework|Analisi per casi]], [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]], [[method_trigonometria|Tecniche trigonometriche]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione / generalizzazione]], [[skill_lettura_attenta|Lettura attenta del testo]]
+**Area:** [[Geometria]], [[Aritmetica e Teoria dei Numeri]]

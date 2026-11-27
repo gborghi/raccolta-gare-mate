@@ -10,7 +10,7 @@ level: squadre
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_algebra,topic_algebra,method_fattorizzazione,skill_manipolazione_algebrica,skill_manipolazione_algebrica"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_algebra,topic_algebra,topic_aritmetica,method_fattorizzazione,skill_manipolazione_algebrica,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -22,10 +22,10 @@ level: squadre
 > √
 > 17⌟= 4;
 
-**Topic:** [[topic_algebra|Algebra]], [[topic_algebra|Algebra]]
+**Topic:** [[topic_algebra|Algebra]], [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
-**Area:** [[Algebra e Analisi]]
+**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 4041
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1uh8KMH_owQ8jSOT2JMCZ-ibEUr0PIMVy/view)
 
@@ -40,14 +40,12 @@ level: squadre
 > √
 > 17⌟= 4;
 
-**Topic:** [[topic_algebra|Algebra]], [[topic_algebra|Algebra]]
-**Method:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
-**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
-**Area:** [[Algebra e Analisi|Algebra and analysis]]
 
+**Topic:** [[topic_algebra|Algebra]], [[topic_algebra|Algebra]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Answer:** 4041
-
-[[Quesiti/src_gsm_2022_squadre#q01|src_gsm_2022_squadre__Q01]]
 
 
 
@@ -84,8 +82,6 @@ level: squadre
 
 **Answer:** 4365
 
-[[Quesiti/src_gsm_2022_squadre#q02|src_gsm_2022_squadre__Q02]]
-
 
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_geometria_piana,topic_geometria_piana,method_congruenze,skill_ragionamento_geometrico,skill_ragionamento_geometrico"></span>
@@ -113,6 +109,8 @@ level: squadre
 
 *Definition of a perfect square*
 
+![[src_gsm_2022_squadre__prob3.png]]
+
 > a perfect square is an integer that is the square of an integer—for
 > example 16 is a perfect square, 22 is not a perfect square;
 
@@ -123,11 +121,9 @@ level: squadre
 
 **Answer:** 0225
 
-[[Quesiti/src_gsm_2022_squadre#q03|src_gsm_2022_squadre__Q03]]
 
 
-
-<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_aritmetica,topic_aritmetica,method_conteggio,skill_casework_accurato,skill_lettura_attenta"></span>
+<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_aritmetica,topic_aritmetica,method_conteggio,method_congruenze,skill_casework_accurato,skill_lettura_attenta"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -401,7 +397,7 @@ level: squadre
 > 1?
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_conteggio|Conteggio combinatorio]]
+**Metodo:** [[method_conteggio|Conteggio combinatorio]], [[method_congruenze|Aritmetica modulare / congruenze]]
 **Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_lettura_attenta|Lettura attenta del testo]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 4012
@@ -672,18 +668,16 @@ level: squadre
 > and the first term is at most
 > 1?
 
-**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_aritmetica|Arithmetic / Number theory]]
-**Method:** [[method_conteggio|Combinatorial counting]]
-**Skill:** [[skill_casework_accurato|Careful casework]], [[skill_lettura_attenta|Careful reading of the text]]
-**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_conteggio|Combinatorial counting]], [[method_congruenze|Modular arithmetic / congruences]]
+**Abilita:** [[skill_casework_accurato|Careful casework]], [[skill_lettura_attenta|Careful reading of the text]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Answer:** 4012
 
-[[Quesiti/src_gsm_2022_squadre#q04|src_gsm_2022_squadre__Q04]]
 
 
-
-<span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_geometria_piana,topic_geometria_piana,skill_ragionamento_geometrico,skill_ragionamento_geometrico"></span>
+<span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_geometria_piana,method_trigonometria,method_simmetria,skill_ragionamento_geometrico"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -694,8 +688,9 @@ level: squadre
 
 > Siano date due circonferenze concentriche: una di raggio $20$ cm; l'altra di raggio $40$ cm. Siano $r$ e $s$ due rette tangenti alla circonferenza interna rispettivamente nei punti $A$ e $B$ e incidenti tra loro nel punto $C$ appartenente alla circonferenza esterna. Siano detti $E$ e $F$ i punti di intersezione della circonferenza esterna rispettivamente con $r$ e con $s$. Quanto vale l'area del quadrilatero $ABFE$?
 
-**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_geometria_piana|Geometria piana]]
-**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_trigonometria|Tecniche trigonometriche]], [[method_simmetria|Sfruttamento della simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]]
 **Risposta:** 1558
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1uh8KMH_owQ8jSOT2JMCZ-ibEUr0PIMVy/view)
@@ -706,19 +701,20 @@ level: squadre
 
 *Area of the quadrilateral cut by two tangents to the inner of two concentric circles*
 
+![[src_gsm_2022_squadre__prob5.png]]
+
 > Two concentric circles are given: one of radius $20$ cm; the other of radius $40$ cm. Let $r$ and $s$ be two lines tangent to the inner circle at the points $A$ and $B$ respectively, and meeting at the point $C$ on the outer circle. Let $E$ and $F$ be the points where the outer circle meets $r$ and $s$ respectively. What is the area of the quadrilateral $ABFE$?
 
-**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_geometria_piana|Plane geometry]]
-**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_ragionamento_geometrico|Geometric reasoning]]
-**Area:** [[Geometria|Geometry]]
 
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_trigonometria|Trigonometric techniques]], [[method_simmetria|Using symmetry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
 **Answer:** 1558
 
-[[Quesiti/src_gsm_2022_squadre#q05|src_gsm_2022_squadre__Q05]]
 
 
-
-<span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_aritmetica,topic_aritmetica,method_estremalita,skill_manipolazione_algebrica"></span>
+<span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_aritmetica,topic_aritmetica,method_estremalita,method_fattorizzazione,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -728,7 +724,7 @@ level: squadre
 > Consideriamo un intero positivo $a > 1$. Scriviamo due volte di seguito il numero $a$ ottenendo un numero $b$—cioè, supponendo che $a$ sia un numero con $\ell$ cifre, in altre parole è $10^{\ell-1} \le a < 10^\ell$, il numero $b$ è $a + a \cdot 10^\ell$. Qual è il più piccolo valore di $a$ tale che $b = k a^2$ per un opportuno $k$ intero positivo?
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_estremalita|Principio di estremalita]]
+**Metodo:** [[method_estremalita|Principio di estremalita]], [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 0143
@@ -742,18 +738,16 @@ level: squadre
 
 > Consider a positive integer $a > 1$. Write the number $a$ twice in a row, obtaining a number $b$—that is, supposing that $a$ has $\ell$ digits, in other words $10^{\ell-1} \le a < 10^\ell$, the number $b$ is $a + a \cdot 10^\ell$. What is the least value of $a$ such that $b = k a^2$ for a suitable positive integer $k$?
 
-**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_aritmetica|Arithmetic / Number theory]]
-**Method:** [[method_estremalita|Extremal principle]]
-**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
-**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_estremalita|Extremal principle]], [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Answer:** 0143
 
-[[Quesiti/src_gsm_2022_squadre#q06|src_gsm_2022_squadre__Q06]]
 
 
-
-<span class="atom-split" id="q07" data-atom="q07" data-title="Quesito 7" data-tags="topic_probabilita,topic_probabilita,skill_modellizzazione,skill_modellizzazione"></span>
+<span class="atom-split" id="q07" data-atom="q07" data-title="Quesito 7" data-tags="topic_probabilita,method_casework,skill_modellizzazione,skill_lettura_attenta"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -764,8 +758,9 @@ level: squadre
 > 
 > [Dare come risposta le prime quattro cifre decimali della probabilità.]
 
-**Topic:** [[topic_probabilita|Probabilita e statistica]], [[topic_probabilita|Probabilita e statistica]]
-**Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
+**Topic:** [[topic_probabilita|Probabilita e statistica]]
+**Metodo:** [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_lettura_attenta|Lettura attenta del testo]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 5294
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1uh8KMH_owQ8jSOT2JMCZ-ibEUr0PIMVy/view)
@@ -780,17 +775,16 @@ level: squadre
 >
 > [Give as the answer the first four decimal digits of the probability.]
 
-**Topic:** [[topic_probabilita|Probability and statistics]], [[topic_probabilita|Probability and statistics]]
-**Skill:** [[skill_modellizzazione|Modelling / translating the text]], [[skill_modellizzazione|Modelling / translating the text]]
-**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
+**Topic:** [[topic_probabilita|Probability and statistics]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]], [[skill_lettura_attenta|Careful reading of the text]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** 5294
 
-[[Quesiti/src_gsm_2022_squadre#q07|src_gsm_2022_squadre__Q07]]
 
 
-
-<span class="atom-split" id="q08" data-atom="q08" data-title="Quesito 8" data-tags="topic_aritmetica,topic_aritmetica,method_estremalita,skill_modellizzazione"></span>
+<span class="atom-split" id="q08" data-atom="q08" data-title="Quesito 8" data-tags="topic_aritmetica,topic_aritmetica,method_estremalita,method_congruenze,skill_modellizzazione"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -800,7 +794,7 @@ level: squadre
 > In un campeggio tutti gli iscritti sono gemelli tranne $40$, tutti gli iscritti sono trigemini tranne $41$, e tutti gli iscritti sono quadrigemini tranne $42$. Quanti sono, come minimo, gli iscritti al campeggio?
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_estremalita|Principio di estremalita]]
+**Metodo:** [[method_estremalita|Principio di estremalita]], [[method_congruenze|Aritmetica modulare / congruenze]]
 **Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 0050
@@ -814,18 +808,16 @@ level: squadre
 
 > At a campsite everyone enrolled is a twin except $40$, everyone enrolled is a triplet except $41$, and everyone enrolled is a quadruplet except $42$. What is the least possible number of people enrolled at the campsite?
 
-**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_aritmetica|Arithmetic / Number theory]]
-**Method:** [[method_estremalita|Extremal principle]]
-**Skill:** [[skill_modellizzazione|Modelling / translating the text]]
-**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_estremalita|Extremal principle]], [[method_congruenze|Modular arithmetic / congruences]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Answer:** 0050
 
-[[Quesiti/src_gsm_2022_squadre#q08|src_gsm_2022_squadre__Q08]]
 
 
-
-<span class="atom-split" id="q09" data-atom="q09" data-title="Quesito 9" data-tags="topic_aritmetica,topic_aritmetica,skill_astrazione,skill_astrazione"></span>
+<span class="atom-split" id="q09" data-atom="q09" data-title="Quesito 9" data-tags="topic_aritmetica,method_casework,method_fattorizzazione,skill_astrazione,skill_riconoscimento_pattern"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -834,8 +826,9 @@ level: squadre
 
 > 9 . La probabilità che un italiano sia non-vaccinato e si ammali è p(u) = 1 9· y. Dunque la probabilità richiesta è p(u|a) = p(u) p(a) = 1 8 x y + 1 = 1 8 9 + 1 = 9 17≈ 0,5294. La risposta è5294. 2 Soluzione del problema 8. Indichiamo con s il numero degli iscritti che sono singoli, con
 
-**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Abilita:** [[skill_astrazione|Astrazione / generalizzazione]], [[skill_astrazione|Astrazione / generalizzazione]]
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Analisi per casi]], [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
+**Abilita:** [[skill_astrazione|Astrazione / generalizzazione]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 8883
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1uh8KMH_owQ8jSOT2JMCZ-ibEUr0PIMVy/view)
@@ -848,13 +841,12 @@ level: squadre
 
 > 9 . The probability that an Italian is unvaccinated and falls ill is p(u) = 1 9· y. Hence the required probability is p(u|a) = p(u) p(a) = 1 8 x y + 1 = 1 8 9 + 1 = 9 17≈ 0,5294. The answer is5294. 2 Solution of problem 8. Let s be the number of people enrolled who are single, with
 
-**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_aritmetica|Arithmetic / Number theory]]
-**Skill:** [[skill_astrazione|Abstraction / generalisation]], [[skill_astrazione|Abstraction / generalisation]]
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_casework|Case analysis]], [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_astrazione|Abstraction / generalisation]], [[skill_riconoscimento_pattern|Pattern recognition]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
-
 **Answer:** 8883
-
-[[Quesiti/src_gsm_2022_squadre#q09|src_gsm_2022_squadre__Q09]]
 
 
 
@@ -889,11 +881,9 @@ level: squadre
 
 **Answer:** 0006
 
-[[Quesiti/src_gsm_2022_squadre#q10|src_gsm_2022_squadre__Q10]]
 
 
-
-<span class="atom-split" id="q11" data-atom="q11" data-title="Quesito 11" data-tags="topic_probabilita,topic_probabilita,method_ricorsione,skill_modellizzazione"></span>
+<span class="atom-split" id="q11" data-atom="q11" data-title="Quesito 11" data-tags="topic_probabilita,topic_probabilita,method_ricorsione,method_casework,skill_modellizzazione,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -909,8 +899,8 @@ level: squadre
 > [Dare come risposta la somma di numeratore e denominatore della frazione ridotta ai minimi termini.]
 
 **Topic:** [[topic_probabilita|Probabilita e statistica]], [[topic_probabilita|Probabilita e statistica]]
-**Metodo:** [[method_ricorsione|Ricorsione]]
-**Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
+**Metodo:** [[method_ricorsione|Ricorsione]], [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0016
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1uh8KMH_owQ8jSOT2JMCZ-ibEUr0PIMVy/view)
@@ -929,18 +919,16 @@ level: squadre
 >
 > [Give as the answer the sum of the numerator and the denominator of the fraction in lowest terms.]
 
-**Topic:** [[topic_probabilita|Probability and statistics]], [[topic_probabilita|Probability and statistics]]
-**Method:** [[method_ricorsione|Recursion]]
-**Skill:** [[skill_modellizzazione|Modelling / translating the text]]
-**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
+**Topic:** [[topic_probabilita|Probability and statistics]], [[topic_probabilita|Probability and statistics]]
+**Metodo:** [[method_ricorsione|Recursion]], [[method_casework|Case analysis]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]], [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** 0016
 
-[[Quesiti/src_gsm_2022_squadre#q11|src_gsm_2022_squadre__Q11]]
 
 
-
-<span class="atom-split" id="q12" data-atom="q12" data-title="Quesito 12" data-tags="topic_aritmetica,topic_aritmetica,method_congruenze"></span>
+<span class="atom-split" id="q12" data-atom="q12" data-title="Quesito 12" data-tags="topic_aritmetica,method_congruenze,method_fattorizzazione,skill_astrazione"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -949,8 +937,9 @@ level: squadre
 
 > Qual è il minimo numero di interi positivi consecutivi il cui prodotto è sempre divisibile per $2022$?
 
-**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]]
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]], [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
+**Abilita:** [[skill_astrazione|Astrazione / generalizzazione]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 0337
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1uh8KMH_owQ8jSOT2JMCZ-ibEUr0PIMVy/view)
@@ -963,17 +952,16 @@ level: squadre
 
 > What is the least number of consecutive positive integers whose product is always divisible by $2022$?
 
-**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_aritmetica|Arithmetic / Number theory]]
-**Method:** [[method_congruenze|Modular arithmetic / congruences]]
-**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]], [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_astrazione|Abstraction / generalisation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Answer:** 0337
 
-[[Quesiti/src_gsm_2022_squadre#q12|src_gsm_2022_squadre__Q12]]
 
 
-
-<span class="atom-split" id="q13" data-atom="q13" data-title="Quesito 13" data-tags="topic_geometria_solida,topic_geometria_solida,skill_ragionamento_geometrico,skill_ragionamento_geometrico"></span>
+<span class="atom-split" id="q13" data-atom="q13" data-title="Quesito 13" data-tags="topic_geometria_solida,topic_geometria_piana,method_estremalita,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -982,8 +970,9 @@ level: squadre
 
 > All'interno di un cilindro di altezza $h$ e raggio di base $r$, stanno due piramidi rette con base coincidente. I vertici delle due piramidi toccano ciascuna una diversa base del cilindro nel suo centro. La base delle due piramidi è un triangolo equilatero i cui vertici toccano tutti la superficie laterale del cilindro. Sapendo che il prodotto $rh = 100$ e che $r$ e $h$ assumono solo valori interi, quanto vale la differenza tra il volume massimo e il volume minimo occupato dalle due piramidi?
 
-**Topic:** [[topic_geometria_solida|Geometria solida]], [[topic_geometria_solida|Geometria solida]]
-**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Topic:** [[topic_geometria_solida|Geometria solida]], [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_estremalita|Principio di estremalita]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 **Risposta:** 4286
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1uh8KMH_owQ8jSOT2JMCZ-ibEUr0PIMVy/view)
@@ -996,17 +985,16 @@ level: squadre
 
 > Inside a cylinder of height $h$ and base radius $r$ stand two right pyramids with the same base. The apex of each pyramid touches a different base of the cylinder at its centre. The common base of the two pyramids is an equilateral triangle whose vertices all touch the lateral surface of the cylinder. Given that the product $rh = 100$ and that $r$ and $h$ take only integer values, what is the difference between the greatest volume and the least volume occupied by the two pyramids?
 
-**Topic:** [[topic_geometria_solida|Solid geometry]], [[topic_geometria_solida|Solid geometry]]
-**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_ragionamento_geometrico|Geometric reasoning]]
-**Area:** [[Geometria|Geometry]]
 
+**Topic:** [[topic_geometria_solida|Solid geometry]], [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_estremalita|Extremal principle]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Geometria|Geometry]]
 **Answer:** 4286
 
-[[Quesiti/src_gsm_2022_squadre#q13|src_gsm_2022_squadre__Q13]]
 
 
-
-<span class="atom-split" id="q14" data-atom="q14" data-title="Quesito 14" data-tags="topic_combinatoria,topic_combinatoria,method_conteggio,skill_astrazione,skill_astrazione"></span>
+<span class="atom-split" id="q14" data-atom="q14" data-title="Quesito 14" data-tags="topic_combinatoria,topic_combinatoria,method_conteggio,method_bigezione,skill_astrazione,skill_astrazione,skill_riconoscimento_pattern"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -1016,8 +1004,8 @@ level: squadre
 > In quanti modi il numero $2022$ può essere scritto come somma di due o più interi positivi posti in ordine non decrescente ed in modo tale che la differenza fra l'ultimo e il primo termine sia al più $1$?
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_combinatoria|Combinatoria]]
-**Metodo:** [[method_conteggio|Conteggio combinatorio]]
-**Abilita:** [[skill_astrazione|Astrazione / generalizzazione]], [[skill_astrazione|Astrazione / generalizzazione]]
+**Metodo:** [[method_conteggio|Conteggio combinatorio]], [[method_bigezione|Bigezione / corrispondenza]]
+**Abilita:** [[skill_astrazione|Astrazione / generalizzazione]], [[skill_astrazione|Astrazione / generalizzazione]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 2021
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1uh8KMH_owQ8jSOT2JMCZ-ibEUr0PIMVy/view)
@@ -1030,18 +1018,16 @@ level: squadre
 
 > In how many ways can the number $2022$ be written as a sum of two or more positive integers in non-decreasing order, so that the difference between the last term and the first is at most $1$?
 
-**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_combinatoria|Combinatorics]]
-**Method:** [[method_conteggio|Combinatorial counting]]
-**Skill:** [[skill_astrazione|Abstraction / generalisation]], [[skill_astrazione|Abstraction / generalisation]]
-**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_conteggio|Combinatorial counting]], [[method_bigezione|Bijection / correspondence]]
+**Abilita:** [[skill_astrazione|Abstraction / generalisation]], [[skill_astrazione|Abstraction / generalisation]], [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** 2021
 
-[[Quesiti/src_gsm_2022_squadre#q14|src_gsm_2022_squadre__Q14]]
 
 
-
-<span class="atom-split" id="q15" data-atom="q15" data-title="Quesito 15" data-tags="topic_geometria_solida,topic_geometria_solida,method_coordinate,skill_ragionamento_geometrico,skill_ragionamento_geometrico"></span>
+<span class="atom-split" id="q15" data-atom="q15" data-title="Quesito 15" data-tags="topic_geometria_solida,topic_geometria_solida,topic_geometria_piana,method_coordinate,skill_ragionamento_geometrico,skill_ragionamento_geometrico"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -1052,7 +1038,7 @@ level: squadre
 
 > Su un parallelepipedo a base quadrata di spigolo $5$ cm e alto $10$ cm, una formica parte da un vertice $A$ della base quadrata e si reca inizialmente sul vertice $B$ diametralmente opposto sull'altra base. Poi si reca al centro di quella base e da lì ritorna in $A$. Qual è la lunghezza minima in mm di tale tragitto?
 
-**Topic:** [[topic_geometria_solida|Geometria solida]], [[topic_geometria_solida|Geometria solida]]
+**Topic:** [[topic_geometria_solida|Geometria solida]], [[topic_geometria_solida|Geometria solida]], [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_coordinate|Metodo delle coordinate]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]]
@@ -1065,20 +1051,20 @@ level: squadre
 
 *Shortest path of an ant on a square-based box*
 
+![[src_gsm_2022_squadre__prob15.png]]
+
 > On a square-based parallelepiped of edge $5$ cm and height $10$ cm, an ant starts from a vertex $A$ of the square base and first goes to the vertex $B$ diametrically opposite on the other base. It then goes to the centre of that base and from there returns to $A$. What is the least length, in mm, of such a path?
 
-**Topic:** [[topic_geometria_solida|Solid geometry]], [[topic_geometria_solida|Solid geometry]]
-**Method:** [[method_coordinate|Coordinate method]]
-**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_ragionamento_geometrico|Geometric reasoning]]
-**Area:** [[Geometria|Geometry]]
 
+**Topic:** [[topic_geometria_solida|Solid geometry]], [[topic_geometria_solida|Solid geometry]], [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_coordinate|Coordinate method]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
 **Answer:** 0304
 
-[[Quesiti/src_gsm_2022_squadre#q15|src_gsm_2022_squadre__Q15]]
 
 
-
-<span class="atom-split" id="q16" data-atom="q16" data-title="Quesito 16" data-tags="topic_algebra,topic_algebra,method_disuguaglianze,skill_manipolazione_algebrica,skill_manipolazione_algebrica"></span>
+<span class="atom-split" id="q16" data-atom="q16" data-title="Quesito 16" data-tags="topic_algebra,topic_algebra,method_disuguaglianze,method_fattorizzazione,skill_manipolazione_algebrica,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -1091,7 +1077,7 @@ level: squadre
 > $$\frac{1}{32a^5} + a^5$$?
 
 **Topic:** [[topic_algebra|Algebra]], [[topic_algebra|Algebra]]
-**Metodo:** [[method_disuguaglianze|Disuguaglianze classiche]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze classiche]], [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Algebra e Analisi]]
 **Risposta:** 0179
@@ -1109,14 +1095,12 @@ level: squadre
 > $$\frac{1}{32a^5} + a^5$$
 > ?
 
+
 **Topic:** [[topic_algebra|Algebra]], [[topic_algebra|Algebra]]
-**Method:** [[method_disuguaglianze|Classical inequalities]]
-**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Metodo:** [[method_disuguaglianze|Classical inequalities]], [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
 **Area:** [[Algebra e Analisi|Algebra and analysis]]
-
 **Answer:** 0179
-
-[[Quesiti/src_gsm_2022_squadre#q16|src_gsm_2022_squadre__Q16]]
 
 
 
@@ -1144,6 +1128,8 @@ level: squadre
 
 *Area of the square on AK in a construction inside a square*
 
+![[src_gsm_2022_squadre__prob17.png]]
+
 > In a square $ABCD$ of side $2$ cm, draw the incircle. Let $M$ be the midpoint of the side $BC$. The segment $MD$ meets the circle again at a point $K$, besides the point $M$. What is the area of the square built on $AK$, in $\text{mm}^2$?
 
 **Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_geometria_piana|Plane geometry]]
@@ -1153,11 +1139,9 @@ level: squadre
 
 **Answer:** 0340
 
-[[Quesiti/src_gsm_2022_squadre#q17|src_gsm_2022_squadre__Q17]]
 
 
-
-<span class="atom-split" id="q18" data-atom="q18" data-title="Quesito 18" data-tags="topic_combinatoria,topic_combinatoria,method_estremalita,skill_casework_accurato,skill_casework_accurato"></span>
+<span class="atom-split" id="q18" data-atom="q18" data-title="Quesito 18" data-tags="topic_combinatoria,topic_combinatoria,method_estremalita,method_invarianti,skill_casework_accurato,skill_casework_accurato,skill_modellizzazione"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -1167,8 +1151,8 @@ level: squadre
 > Intorno a una tavola rotonda sono sedute $2022$ persone. Chiacchierando tra di loro, scoprono che il valore assoluto della differenza di soldi nei portafogli di due persone sedute vicine è sempre di $4\text{€}$ o di $5\text{€}$. Notano anche che nessuna coppia di persone possiede la stessa quantità di soldi. Qual è la massima differenza di soldi posseduti fra due persone?
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_combinatoria|Combinatoria]]
-**Metodo:** [[method_estremalita|Principio di estremalita]]
-**Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_casework_accurato|Casework accurato]]
+**Metodo:** [[method_estremalita|Principio di estremalita]], [[method_invarianti|Invarianti / monovarianti]]
+**Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_casework_accurato|Casework accurato]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 5054
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1uh8KMH_owQ8jSOT2JMCZ-ibEUr0PIMVy/view)
@@ -1181,18 +1165,16 @@ level: squadre
 
 > Around a round table sit $2022$ people. Chatting, they discover that the absolute value of the difference in the money in the wallets of two people sitting next to each other is always $4\text{€}$ or $5\text{€}$. They also notice that no two people have the same amount of money. What is the greatest difference in money held by two people?
 
-**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_combinatoria|Combinatorics]]
-**Method:** [[method_estremalita|Extremal principle]]
-**Skill:** [[skill_casework_accurato|Careful casework]], [[skill_casework_accurato|Careful casework]]
-**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_estremalita|Extremal principle]], [[method_invarianti|Invariants / monovariants]]
+**Abilita:** [[skill_casework_accurato|Careful casework]], [[skill_casework_accurato|Careful casework]], [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** 5054
 
-[[Quesiti/src_gsm_2022_squadre#q18|src_gsm_2022_squadre__Q18]]
 
 
-
-<span class="atom-split" id="q19" data-atom="q19" data-title="Quesito 19" data-tags="topic_aritmetica,topic_aritmetica,method_fattorizzazione,skill_astrazione"></span>
+<span class="atom-split" id="q19" data-atom="q19" data-title="Quesito 19" data-tags="topic_aritmetica,topic_aritmetica,method_fattorizzazione,method_estremalita,skill_astrazione"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -1210,7 +1192,7 @@ level: squadre
 > Quante sono tali terne pitagoriche?
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]], [[method_estremalita|Principio di estremalita]]
 **Abilita:** [[skill_astrazione|Astrazione / generalizzazione]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 0000
@@ -1232,18 +1214,16 @@ level: squadre
 >
 > How many such Pythagorean triples are there?
 
-**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_aritmetica|Arithmetic / Number theory]]
-**Method:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
-**Skill:** [[skill_astrazione|Abstraction / generalisation]]
-**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]], [[method_estremalita|Extremal principle]]
+**Abilita:** [[skill_astrazione|Abstraction / generalisation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Answer:** 0000
 
-[[Quesiti/src_gsm_2022_squadre#q19|src_gsm_2022_squadre__Q19]]
 
 
-
-<span class="atom-split" id="q20" data-atom="q20" data-title="Quesito 20" data-tags="topic_geometria_piana,topic_geometria_piana,method_trigonometria,skill_ragionamento_geometrico,skill_ragionamento_geometrico"></span>
+<span class="atom-split" id="q20" data-atom="q20" data-title="Quesito 20" data-tags="topic_geometria_piana,topic_geometria_piana,topic_trigonometria,method_trigonometria,skill_ragionamento_geometrico,skill_ragionamento_geometrico"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -1254,7 +1234,7 @@ level: squadre
 
 > Siano $M$ e $N$ rispettivamente i punti medi dei lati $AB$ e $CD$ di un quadrato $ABCD$. Si consideri il punto $P$, appartenente al prolungamento di $BD$ dalla parte di $D$; sia $H$ l'intersezione di $PM$ con $AD$ e $K$ l'intersezione di $HN$ con $BD$. L'ampiezza dell'angolo $\widehat{DKH}$ è $81°$. Qual è l'ampiezza dell'angolo $\widehat{PND}$?
 
-**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_geometria_piana|Geometria piana]]
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometria]]
 **Metodo:** [[method_trigonometria|Tecniche trigonometriche]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]]
@@ -1267,20 +1247,20 @@ level: squadre
 
 *Measure of angle PND given angle DKH in a square*
 
+![[src_gsm_2022_squadre__prob20.png]]
+
 > Let $M$ and $N$ be the midpoints of the sides $AB$ and $CD$ respectively of a square $ABCD$. Consider the point $P$ on the extension of $BD$ beyond $D$; let $H$ be the intersection of $PM$ with $AD$ and $K$ the intersection of $HN$ with $BD$. The measure of the angle $\widehat{DKH}$ is $81°$. What is the measure of the angle $\widehat{PND}$?
 
-**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_geometria_piana|Plane geometry]]
-**Method:** [[method_trigonometria|Trigonometric techniques]]
-**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_ragionamento_geometrico|Geometric reasoning]]
-**Area:** [[Geometria|Geometry]]
 
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_geometria_piana|Plane geometry]], [[topic_trigonometria|Trigonometry]]
+**Metodo:** [[method_trigonometria|Trigonometric techniques]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
 **Answer:** 0036
 
-[[Quesiti/src_gsm_2022_squadre#q20|src_gsm_2022_squadre__Q20]]
 
 
-
-<span class="atom-split" id="q21" data-atom="q21" data-title="Quesito 21" data-tags="topic_combinatoria,topic_insiemi_funzioni,topic_insiemi_funzioni,topic_combinatoria,method_congruenze,method_conteggio,skill_conteggio_sistematico"></span>
+<span class="atom-split" id="q21" data-atom="q21" data-title="Quesito 21" data-tags="topic_combinatoria,topic_insiemi_funzioni,topic_insiemi_funzioni,topic_combinatoria,method_congruenze,method_conteggio,skill_conteggio_sistematico,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -1295,8 +1275,8 @@ level: squadre
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_insiemi_funzioni|Insiemi e funzioni]], [[topic_insiemi_funzioni|Insiemi e funzioni]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]], [[method_conteggio|Conteggio combinatorio]]
-**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
-**Area:** [[Algebra e Analisi]], [[Combinatoria, Logica e Probabilita]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Algebra e Analisi]]
 **Risposta:** 0440
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1uh8KMH_owQ8jSOT2JMCZ-ibEUr0PIMVy/view)
 
@@ -1312,11 +1292,9 @@ level: squadre
 >
 > How many pairs of numbers $(m, n)$, with $m$ and $n$ between $1$ and $30$ inclusive, are such that the number of injections from the set $\{1, 2, \ldots, n\}$ to the set $\{1, 2, \ldots, m\}$ is a perfect square?
 
+
 **Topic:** [[topic_combinatoria|Combinatorics]], [[topic_insiemi_funzioni|Sets and functions]], [[topic_insiemi_funzioni|Sets and functions]], [[topic_combinatoria|Combinatorics]]
-**Method:** [[method_congruenze|Modular arithmetic / congruences]], [[method_conteggio|Combinatorial counting]]
-**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
-**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
-
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]], [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Algebra e Analisi|Algebra and analysis]]
 **Answer:** 0440
-
-[[Quesiti/src_gsm_2022_squadre#q21|src_gsm_2022_squadre__Q21]]

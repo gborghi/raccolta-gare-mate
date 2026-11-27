@@ -10,7 +10,7 @@ level: squadre
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_geometria_piana"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_geometria_piana,method_inclusione_esclusione,skill_ragionamento_geometrico"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -30,9 +30,11 @@ level: squadre
 > faccia della bandiera.
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_inclusione_esclusione|Inclusione-esclusione]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]]
 **Risposta:** 9200
-**Fonte:** apri PDF p.3 · fairmath.it (Coppa Fermat 2003)
+**Fonte:** [apri PDF p.3](https://www.fairmath.it/genova/fermat/CF2003-soluzioni.pdf#page=3) · fairmath.it (Coppa Fermat 2003)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -45,14 +47,15 @@ level: squadre
 > Municipal flag, 15 points
 > The flag of Genoa consists of a red cross on a white background. The arms of the cross are parallel to the sides of the flag and extend across the flag in its full length and full width. The Mayor of Genoa commissions a large flag to be flown from the Town Hall. It must be three metres long and one metre eighty centimetres high, while the arms of the cross must be twenty centimetres wide. Determine how many square centimetres the area of the red surface on one side of the flag will be.
 
+
 **Topic:** [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_inclusione_esclusione|Inclusion–exclusion]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
 **Area:** [[Geometria|Geometry]]
 
-[[Quesiti/src_gs_2003#q01|src_gs_2003__Q01]]
 
 
-
-<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_aritmetica"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_aritmetica,method_congruenze,skill_manipolazione_algebrica,skill_riconoscimento_pattern"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -71,9 +74,11 @@ level: squadre
 > da destra verso sinistra (come ad esempio 313 e 851158).
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 1881
-**Fonte:** apri PDF p.3 · fairmath.it (Coppa Fermat 2003)
+**Fonte:** [apri PDF p.3](https://www.fairmath.it/genova/fermat/CF2003-soluzioni.pdf#page=3) · fairmath.it (Coppa Fermat 2003)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -86,14 +91,15 @@ level: squadre
 > Palindromic victory: 15 points
 > From a newspaper dated 3003: "This year, the usual team competition in Genoa was won by Liceo 'Rosolini'. The captain of the winning team immediately pointed out that the score achieved is the smallest four-digit integer that is simultaneously a palindrome and divisible by 9." Determine how many points Liceo 'Rosolini' scored. Note: a number is called a palindrome if it remains unchanged when read from left to right or from right to left (for example, 313 and 851158).
 
+
 **Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_riconoscimento_pattern|Pattern recognition]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
-[[Quesiti/src_gs_2003#q02|src_gs_2003__Q02]]
 
 
-
-<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_aritmetica"></span>
+<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_aritmetica,method_backward,skill_lettura_attenta"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -120,9 +126,11 @@ level: squadre
 > Determinare in quale posizione si è piazzato veramente il Liceo ‘Rosolini’.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_backward|Ragionamento all'indietro]]
+**Abilita:** [[skill_lettura_attenta|Lettura attenta del testo]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 5998
-**Fonte:** apri PDF p.3 · fairmath.it (Coppa Fermat 2003)
+**Fonte:** [apri PDF p.3](https://www.fairmath.it/genova/fermat/CF2003-soluzioni.pdf#page=3) · fairmath.it (Coppa Fermat 2003)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -135,14 +143,15 @@ level: squadre
 > It's always the journalists' fault — 15 points
 > From a newspaper dated 4003: "This year, the usual team competition in Genoa saw the participation of as many as 9999 teams. The complete standings for the competition are given in the table below [of which, for brevity, we present only the beginning here!]: Team Name Liceo 'Scoglio' Liceo 'Boskov' Istituto Spaziale 'Mancini' Ginnasio Astronavale 'Skuhravy' Note in particular that Liceo 'Rosolini', which last won exactly 1000 years ago, this year is only in the row marked with the number 4003." However, the table was compiled rather hastily and contains two glaring errors: the first is that the entry 'Team Name' corresponds to number 1; the second error is that the standings were printed in reverse, so Liceo 'Scoglio' actually came last, Liceo 'Boskov' came second-to-last, and so on. Determine the position in which Liceo 'Rosolini' actually finished.
 
+
 **Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_backward|Working backwards]]
+**Abilita:** [[skill_lettura_attenta|Careful reading of the text]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
-[[Quesiti/src_gs_2003#q03|src_gs_2003__Q03]]
 
 
-
-<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags=""></span>
+<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_geometria_piana,method_casework,skill_ragionamento_geometrico,skill_casework_accurato,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -159,8 +168,12 @@ level: squadre
 > a scatti).
 > Determinare quanti “cucù!” emette l’orologio nell’arco di 24 ore.
 
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_casework_accurato|Casework accurato]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
 **Risposta:** 2832
-**Fonte:** apri PDF p.4 · fairmath.it (Coppa Fermat 2003)
+**Fonte:** [apri PDF p.4](https://www.fairmath.it/genova/fermat/CF2003-soluzioni.pdf#page=4) · fairmath.it (Coppa Fermat 2003)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -173,11 +186,14 @@ level: squadre
 > The Crazy Cuckoo 20 Points
 > In the office of the Rector of the University of Genoa, there is an old cuckoo clock. Unfortunately, recently the mechanism has broken down, and instead of chiming the hours, the clock lets out a "cuckoo!" every time the second hand and the minute hand are perpendicular to each other (the second hand moves continuously, not in discrete steps). Determine how many "cuckoo!"s the clock lets out over the course of 24 hours.
 
-[[Quesiti/src_gs_2003#q04|src_gs_2003__Q04]]
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_casework_accurato|Careful case analysis]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Geometria|Geometry]]
 
 
 
-<span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_aritmetica"></span>
+<span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_aritmetica,method_estremalita,method_casework,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -193,9 +209,11 @@ level: squadre
 > Determinare quanti euro guadagna, come minimo, il concessionario.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_estremalita|Principio di estremalita]], [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 0247
-**Fonte:** apri PDF p.4 · fairmath.it (Coppa Fermat 2003)
+**Fonte:** [apri PDF p.4](https://www.fairmath.it/genova/fermat/CF2003-soluzioni.pdf#page=4) · fairmath.it (Coppa Fermat 2003)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -208,14 +226,15 @@ level: squadre
 > But how much does he gain? 25 points
 > A car dealer buys a used car and resells it at an increased price. The two prices—the purchase price and the resale price—are whole numbers of euros, each four digits long, and to write them, all the digits from 1 to 8 are used exactly once. Determine the minimum number of euros the dealer makes.
 
+
 **Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_estremalita|Extremal principle]], [[method_casework|Case analysis]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
-[[Quesiti/src_gs_2003#q05|src_gs_2003__Q05]]
 
 
-
-<span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags=""></span>
+<span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_funzionali,method_ricorsione,skill_riconoscimento_pattern,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -232,8 +251,12 @@ level: squadre
 > Inoltre nel 1923 sono nati 3291 bambini, e nel 1977 ne sono nati 7791.
 > Determinare quanti bambini sono nati nel 2001.
 
+**Topic:** [[topic_funzionali|Equazioni funzionali / successioni]]
+**Metodo:** [[method_ricorsione|Ricorsione]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Algebra e Analisi]]
 **Risposta:** 7791
-**Fonte:** apri PDF p.4 · fairmath.it (Coppa Fermat 2003)
+**Fonte:** [apri PDF p.4](https://www.fairmath.it/genova/fermat/CF2003-soluzioni.pdf#page=4) · fairmath.it (Coppa Fermat 2003)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -246,11 +269,14 @@ level: squadre
 > Strange coincidences at the civil registry: 25 points
 > Upon examining the data from the Genoa civil registry for the years from 1900 to 2002, some peculiar coincidences have emerged. First of all, regardless of which period of four consecutive years is chosen, the total number of children born in those four years is always the same. Furthermore, 3,291 children were born in 1923, and 7,791 children were born in 1977. Determine how many children were born in 2001.
 
-[[Quesiti/src_gs_2003#q06|src_gs_2003__Q06]]
+**Topic:** [[topic_funzionali|Functional equations / sequences]]
+**Metodo:** [[method_ricorsione|Recursion]]
+**Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
 
 
 
-<span class="atom-split" id="q07" data-atom="q07" data-title="Quesito 7" data-tags="topic_aritmetica"></span>
+<span class="atom-split" id="q07" data-atom="q07" data-title="Quesito 7" data-tags="topic_aritmetica,method_disuguaglianze,method_congruenze,skill_manipolazione_algebrica,skill_modellizzazione"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -273,9 +299,11 @@ level: squadre
 > le vacanze.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze classiche]], [[method_congruenze|Aritmetica modulare / congruenze]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 0276
-**Fonte:** apri PDF p.4 · fairmath.it (Coppa Fermat 2003)
+**Fonte:** [apri PDF p.4](https://www.fairmath.it/genova/fermat/CF2003-soluzioni.pdf#page=4) · fairmath.it (Coppa Fermat 2003)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -288,14 +316,15 @@ level: squadre
 > Work, folks, work! 30 points
 > Given the abysmal standard of the class, a teacher loaded her students with holiday exercises. Damiano, Giovanni, and Michele then decided to work hard during the first few days so that they would have a free summer afterward. On the first day, Damiano therefore did 1/6 of the exercises, and on the second day he did as many as 100. Giovanni, by contrast, did half of the exercises on the first day but only 9 on the second. Finally, Michele did 1/4 of the assigned exercises on the first day, while on the second day he did 79. Knowing that over the first two days Damiano did fewer exercises than Giovanni, who in turn did fewer exercises than Michele, and that all three boys did a whole number of exercises each day, determine how many exercises were assigned for the holiday.
 
+
 **Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_disuguaglianze|Classical inequalities]], [[method_congruenze|Modular arithmetic / congruences]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_modellizzazione|Modelling / translating the text]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
-[[Quesiti/src_gs_2003#q07|src_gs_2003__Q07]]
 
 
-
-<span class="atom-split" id="q08" data-atom="q08" data-title="Quesito 8" data-tags=""></span>
+<span class="atom-split" id="q08" data-atom="q08" data-title="Quesito 8" data-tags="topic_algebra,method_casework,skill_casework_accurato,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -312,8 +341,12 @@ level: squadre
 > (contati sempre con il segno positivo) è di 300 grammi.
 > Determinare quanti grammi pesa la torta.
 
+**Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Algebra e Analisi]]
 **Risposta:** 5130
-**Fonte:** apri PDF p.4 · fairmath.it (Coppa Fermat 2003)
+**Fonte:** [apri PDF p.4](https://www.fairmath.it/genova/fermat/CF2003-soluzioni.pdf#page=4) · fairmath.it (Coppa Fermat 2003)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -326,11 +359,14 @@ level: squadre
 > Victory cake 30 points
 > To celebrate their school's victory in this competition, the teachers at the institution decided to treat their students to a large cake. Trying to guess how many grams the cake weighs, the seven contestants said, respectively, 5040, 5060, 5110, 5120, 5150, 5170, and 5180. None of them got the exact weight, and the sum of all the errors (always counted as positive) is 300 grams. Determine how many grams the cake weighs.
 
-[[Quesiti/src_gs_2003#q08|src_gs_2003__Q08]]
+**Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
 
 
 
-<span class="atom-split" id="q09" data-atom="q09" data-title="Quesito 9" data-tags="topic_geometria_solida"></span>
+<span class="atom-split" id="q09" data-atom="q09" data-title="Quesito 9" data-tags="topic_geometria_solida,topic_geometria_piana,method_coordinate,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -350,10 +386,12 @@ level: squadre
 > essere, rispettivamente, 90 metri e 20 metri.
 > Sapendo che l’impresa richiede mezzo euro per ogni metro quadrato da pulire, determinare quanti euro costerà la pulizia dell’intera superficie del grattacielo.
 
-**Topic:** [[topic_geometria_solida|Geometria solida]]
+**Topic:** [[topic_geometria_solida|Geometria solida]], [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_coordinate|Metodo delle coordinate]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 **Risposta:** 8400
-**Fonte:** apri PDF p.5 · fairmath.it (Coppa Fermat 2003)
+**Fonte:** [apri PDF p.5](https://www.fairmath.it/genova/fermat/CF2003-soluzioni.pdf#page=5) · fairmath.it (Coppa Fermat 2003)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -366,14 +404,15 @@ level: squadre
 > But how much does it cost to clean the "Matitone"! 35 points
 > The "Matitone" is the sixth-tallest skyscraper in Italy and is located in Genoa. It consists of a right prism with an octagonal base, surmounted by a right pyramid with an octagonal base that coincides with the prism's upper base. A cleaning company is commissioned to clean the exterior surface of the Matitone. An worker then measures that the length of a taut cord extending from the top of the skyscraper, passing through the midpoint of one side of the octagon and reaching the ground, is 120 metres. Subsequently, the worker measures the height of the prism and the side length of the octagon; these are found to be 90 metres and 20 metres, respectively. Given that the company charges half a euro per square metre to be cleaned, determine how many euros the cleaning of the entire surface of the skyscraper will cost.
 
-**Topic:** [[topic_geometria_solida|Solid geometry]]
+
+**Topic:** [[topic_geometria_solida|Solid geometry]], [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_coordinate|Coordinate method]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
 **Area:** [[Geometria|Geometry]]
 
-[[Quesiti/src_gs_2003#q09|src_gs_2003__Q09]]
 
 
-
-<span class="atom-split" id="q10" data-atom="q10" data-title="Quesito 10" data-tags="topic_probabilita,topic_logica"></span>
+<span class="atom-split" id="q10" data-atom="q10" data-title="Quesito 10" data-tags="topic_probabilita,topic_logica,topic_geometria_piana,method_casework,skill_ragionamento_geometrico,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -392,10 +431,12 @@ level: squadre
 > distanza tra le barche di Genova ed Imperia è di 96 metri, determinare la distanza tra
 > le barche di Genova e Savona.
 
-**Topic:** [[topic_probabilita|Probabilita e statistica]], [[topic_logica|Logica, giochi, strategie]]
-**Area:** [[Combinatoria, Logica e Probabilita]]
+**Topic:** [[topic_probabilita|Probabilita e statistica]], [[topic_logica|Logica, giochi, strategie]], [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 **Risposta:** 0073
-**Fonte:** apri PDF p.5 · fairmath.it (Coppa Fermat 2003)
+**Fonte:** [apri PDF p.5](https://www.fairmath.it/genova/fermat/CF2003-soluzioni.pdf#page=5) · fairmath.it (Coppa Fermat 2003)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -408,14 +449,15 @@ level: squadre
 > The 35-point regatta
 > The four provinces of Liguria have decided to compete against one another in a sailing regatta. At a certain point during the television commentary, computer-generated graphics show the positions of the four boats from above. A spectator with a pronounced mathematical bent immediately notes that the Savona boat is at the midpoint between the La Spezia boat and the Imperia boat, and that both the triangle formed by Genoa, Savona, and La Spezia and the triangle formed by Genoa, Savona, and Imperia are isosceles. Given that the distance between the Genoa and La Spezia boats is 110 metres, while the distance between the Genoa and Imperia boats is 96 metres, determine the distance between the Genoa and Savona boats.
 
-**Topic:** [[topic_probabilita|Probability and statistics]], [[topic_logica|Logic, games and strategies]]
-**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
-[[Quesiti/src_gs_2003#q10|src_gs_2003__Q10]]
+**Topic:** [[topic_probabilita|Probability and statistics]], [[topic_logica|Logic, games and strategies]], [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Geometria|Geometry]]
 
 
 
-<span class="atom-split" id="q11" data-atom="q11" data-title="Quesito 11" data-tags=""></span>
+<span class="atom-split" id="q11" data-atom="q11" data-title="Quesito 11" data-tags="topic_aritmetica,topic_funzionali,method_fattorizzazione,skill_manipolazione_algebrica,skill_riconoscimento_pattern"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -435,8 +477,12 @@ level: squadre
 > precedente.
 > Determinare quanti batteri ci sono nella coltura al secondo conteggio.
 
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_funzionali|Equazioni funzionali / successioni]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 **Risposta:** 2187
-**Fonte:** apri PDF p.5 · fairmath.it (Coppa Fermat 2003)
+**Fonte:** [apri PDF p.5](https://www.fairmath.it/genova/fermat/CF2003-soluzioni.pdf#page=5) · fairmath.it (Coppa Fermat 2003)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -449,11 +495,14 @@ level: squadre
 > The fertile bacterium 35 points
 > In the biotechnology laboratories at the University of Genoa, researchers want to study a dangerous type of bacterium, with the peculiarity that after a fixed period of time, each bacterium divides into three! Since there is a single specimen at the beginning, a researcher decides to place it in a culture and wait for it to reproduce a sufficient number of times. After a certain period, the researcher re-examines the culture and counts the number of bacteria, but this number is still insufficient to carry out the studies. After a little more time has passed, the researcher counts the bacteria again and notes that there are now 2106 more bacteria than in the previous count. Determine how many bacteria are in the culture at the second count.
 
-[[Quesiti/src_gs_2003#q11|src_gs_2003__Q11]]
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_funzionali|Functional equations / sequences]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Algebra e Analisi|Algebra and analysis]]
 
 
 
-<span class="atom-split" id="q12" data-atom="q12" data-title="Quesito 12" data-tags="topic_geometria_piana"></span>
+<span class="atom-split" id="q12" data-atom="q12" data-title="Quesito 12" data-tags="topic_geometria_piana,method_coordinate,skill_ragionamento_geometrico"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -472,9 +521,11 @@ level: squadre
 > Determinare quanti metri quadrati ha a disposizione il bambino.
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_coordinate|Metodo delle coordinate]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]]
 **Risposta:** 1250
-**Fonte:** apri PDF p.5 · fairmath.it (Coppa Fermat 2003)
+**Fonte:** [apri PDF p.5](https://www.fairmath.it/genova/fermat/CF2003-soluzioni.pdf#page=5) · fairmath.it (Coppa Fermat 2003)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -487,14 +538,15 @@ level: squadre
 > Specially Monitored 40 Points
 > A child, accompanied by their parents and a grandfather, wants to play in a square plaza with sides 100 meters long. Knowing the child's precocious mathematical abilities, the three adults—in order to keep better track of the child—take positions at three distinct vertices of the plaza and tell the child that they may run around freely within the plaza provided that, at every instant, the quadrilateral having the four of them as vertices has an area less than or equal to one quarter of the plaza's area. Determine how many square meters are available to the child.
 
+
 **Topic:** [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_coordinate|Coordinate method]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
 **Area:** [[Geometria|Geometry]]
 
-[[Quesiti/src_gs_2003#q12|src_gs_2003__Q12]]
 
 
-
-<span class="atom-split" id="q13" data-atom="q13" data-title="Quesito 13" data-tags="topic_aritmetica"></span>
+<span class="atom-split" id="q13" data-atom="q13" data-title="Quesito 13" data-tags="topic_aritmetica,method_congruenze,method_casework,skill_casework_accurato,skill_lettura_attenta"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -511,9 +563,11 @@ level: squadre
 > Determinare la differenza tra il codice di Giovanni e quello di Damiano.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]], [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_lettura_attenta|Lettura attenta del testo]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 7500
-**Fonte:** apri PDF p.6 · fairmath.it (Coppa Fermat 2003)
+**Fonte:** [apri PDF p.6](https://www.fairmath.it/genova/fermat/CF2003-soluzioni.pdf#page=6) · fairmath.it (Coppa Fermat 2003)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -526,14 +580,15 @@ level: squadre
 > Codes divisible by 40 points
 > To recall the code for his VideoBank, Giovanni noted that it is a four-digit number with distinct digits, all of which are different from 0 and 1, and that it is divisible by all four of these digits. Moreover, it is the largest four-digit number with this property. Curiously, Damiano's VideoBank number has the same property as Giovanni's, except that it is the smallest four-digit number with this property. Determine the difference between Giovanni's code and Damiano's code.
 
+
 **Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]], [[method_casework|Case analysis]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]], [[skill_lettura_attenta|Careful reading of the text]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
-[[Quesiti/src_gs_2003#q13|src_gs_2003__Q13]]
 
 
-
-<span class="atom-split" id="q14" data-atom="q14" data-title="Quesito 14" data-tags="topic_geometria_piana"></span>
+<span class="atom-split" id="q14" data-atom="q14" data-title="Quesito 14" data-tags="topic_geometria_piana,method_trigonometria,skill_ragionamento_geometrico"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -549,9 +604,11 @@ level: squadre
 > Determinare, in metri quadrati, l’area del nuovo palazzetto.
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_trigonometria|Tecniche trigonometriche]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]]
 **Risposta:** 7577
-**Fonte:** apri PDF p.6 · fairmath.it (Coppa Fermat 2003)
+**Fonte:** [apri PDF p.6](https://www.fairmath.it/genova/fermat/CF2003-soluzioni.pdf#page=6) · fairmath.it (Coppa Fermat 2003)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -564,14 +621,15 @@ level: squadre
 > Pentagon of match 45 points
 > In the future, it is planned to significantly increase the number of teams invited to this competition. For this reason, the university has provided for the construction of a dedicated pentagonal indoor arena. The design calls for two consecutive sides to be 100 meters long, and for the other three sides to be 50 meters long and to form two angles of 120 degrees between them. Determine, in square meters, the area of the new arena.
 
+
 **Topic:** [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_trigonometria|Trigonometric techniques]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
 **Area:** [[Geometria|Geometry]]
 
-[[Quesiti/src_gs_2003#q14|src_gs_2003__Q14]]
 
 
-
-<span class="atom-split" id="q15" data-atom="q15" data-title="Quesito 15" data-tags="topic_probabilita"></span>
+<span class="atom-split" id="q15" data-atom="q15" data-title="Quesito 15" data-tags="topic_probabilita,topic_combinatoria,method_conteggio,skill_conteggio_sistematico,skill_modellizzazione"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -591,10 +649,12 @@ level: squadre
 > Determinare quante bandiere con il giusto ordine dei colori saranno state confezionate
 > mediamente fino a quel momento.
 
-**Topic:** [[topic_probabilita|Probabilita e statistica]]
+**Topic:** [[topic_probabilita|Probabilita e statistica]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_conteggio|Conteggio combinatorio]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0080
-**Fonte:** apri PDF p.6 · fairmath.it (Coppa Fermat 2003)
+**Fonte:** [apri PDF p.6](https://www.fairmath.it/genova/fermat/CF2003-soluzioni.pdf#page=6) · fairmath.it (Coppa Fermat 2003)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -607,14 +667,15 @@ level: squadre
 > Random flags 45 points
 > A Sampdoria flag consists of six horizontal colored stripes, from top to bottom: blue, white, red, black, white, and blue. A factory produces Sampdoria flags, but due to an error, after selecting two blue stripes, two white stripes, one red stripe, and one black stripe, the machines sew the six fabric strips together one after another at random, and then attach the whole thing to the pole so that the stripes are horizontal. After 14,400 flags have been made using this method, a worker notices the error and stops production. Determine, on average, how many flags with the correct color order will have been made by that point.
 
-**Topic:** [[topic_probabilita|Probability and statistics]]
+
+**Topic:** [[topic_probabilita|Probability and statistics]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]], [[skill_modellizzazione|Modelling / translating the text]]
 **Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
-[[Quesiti/src_gs_2003#q15|src_gs_2003__Q15]]
 
 
-
-<span class="atom-split" id="q16" data-atom="q16" data-title="Quesito 16" data-tags=""></span>
+<span class="atom-split" id="q16" data-atom="q16" data-title="Quesito 16" data-tags="topic_geometria_piana,topic_algebra,method_fattorizzazione,skill_manipolazione_algebrica,skill_modellizzazione"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -629,8 +690,12 @@ level: squadre
 > Visto il budget ridotto, la cancellata non potrà essere più lunga di 300 metri.
 > Determinare, in metri quadrati, quanto potrà essere, al massimo, la superficie del parco.
 
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
+**Area:** [[Geometria]], [[Algebra e Analisi]]
 **Risposta:** 5625
-**Fonte:** apri PDF p.6 · fairmath.it (Coppa Fermat 2003)
+**Fonte:** [apri PDF p.6](https://www.fairmath.it/genova/fermat/CF2003-soluzioni.pdf#page=6) · fairmath.it (Coppa Fermat 2003)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -643,11 +708,14 @@ level: squadre
 > Counted money: 50 points
 > In Piazza della Vittoria, they want to build a small park shaped like a circular sector, surrounded by an artistic wrought-iron fence along both radii and along the arc. Given the limited budget, the fence cannot be longer than 300 metres. Determine, in square metres, the maximum possible area of the park.
 
-[[Quesiti/src_gs_2003#q16|src_gs_2003__Q16]]
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Geometria|Geometry]], [[Algebra e Analisi|Algebra and analysis]]
 
 
 
-<span class="atom-split" id="q17" data-atom="q17" data-title="Quesito 17" data-tags=""></span>
+<span class="atom-split" id="q17" data-atom="q17" data-title="Quesito 17" data-tags="topic_algebra,method_fattorizzazione,skill_modellizzazione"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -667,8 +735,12 @@ level: squadre
 > al secondo, determinare il numero di persone contemporaneamente presenti in via XX
 > Settembre.
 
+**Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
+**Area:** [[Algebra e Analisi]]
 **Risposta:** 2040
-**Fonte:** apri PDF p.6 · fairmath.it (Coppa Fermat 2003)
+**Fonte:** [apri PDF p.6](https://www.fairmath.it/genova/fermat/CF2003-soluzioni.pdf#page=6) · fairmath.it (Coppa Fermat 2003)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -681,11 +753,14 @@ level: squadre
 > Sundays on Foot 50 points
 > On a Sunday afternoon when car traffic is banned in central Genoa, a large crowd strolls along Via XX Settembre. To estimate how many people are on the street at a given moment, Gianmarco draws an imaginary straight line perpendicular to the street and counts that, in one minute, 150 people cross this line in either direction. Knowing that Via XX Settembre is 816 meters long, and assuming that the flow of people is constant and that everyone is walking parallel to the street at a speed of one meter per second, determine the number of people present on Via XX Settembre at the same time.
 
-[[Quesiti/src_gs_2003#q17|src_gs_2003__Q17]]
+**Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
 
 
 
-<span class="atom-split" id="q18" data-atom="q18" data-title="Quesito 18" data-tags=""></span>
+<span class="atom-split" id="q18" data-atom="q18" data-title="Quesito 18" data-tags="topic_funzionali,topic_aritmetica,method_simmetria,skill_riconoscimento_pattern,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -702,8 +777,12 @@ level: squadre
 > Sapendo che nelle vasche con il numero dispari ci sono in tutto 3336 pesci, determinare
 > quanti pesci ci sono in totale all’acquario di Genova.
 
+**Topic:** [[topic_funzionali|Equazioni funzionali / successioni]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_simmetria|Sfruttamento della simmetria]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 6533
-**Fonte:** apri PDF p.7 · fairmath.it (Coppa Fermat 2003)
+**Fonte:** [apri PDF p.7](https://www.fairmath.it/genova/fermat/CF2003-soluzioni.pdf#page=7) · fairmath.it (Coppa Fermat 2003)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -716,11 +795,14 @@ level: squadre
 > The Aquarium 55 Points
 > At the Genoa Aquarium, there are 47 tanks, each containing a different number of fish. The number of fish in the various tanks increases steadily from tank number 1 to tank number 47 (that is, the difference between the number of fish in one tank and the number in the preceding tank is always the same). Given that there are 3336 fish in total in the tanks with odd numbers, determine the total number of fish at the Genoa Aquarium.
 
-[[Quesiti/src_gs_2003#q18|src_gs_2003__Q18]]
+**Topic:** [[topic_funzionali|Functional equations / sequences]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_simmetria|Using symmetry]]
+**Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
 
 
-<span class="atom-split" id="q19" data-atom="q19" data-title="Quesito 19" data-tags="topic_aritmetica"></span>
+<span class="atom-split" id="q19" data-atom="q19" data-title="Quesito 19" data-tags="topic_aritmetica,topic_algebra,method_casework,method_congruenze,skill_casework_accurato,skill_lettura_attenta"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -736,10 +818,12 @@ level: squadre
 > diverse. Inoltre nessun numero inizia con una cifra zero.
 > Determinare il massimo valore che può assumere SAMP.
 
-**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Area:** [[Aritmetica e Teoria dei Numeri]]
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_casework|Analisi per casi]], [[method_congruenze|Aritmetica modulare / congruenze]]
+**Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_lettura_attenta|Lettura attenta del testo]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 **Risposta:** 9761
-**Fonte:** apri PDF p.7 · fairmath.it (Coppa Fermat 2003)
+**Fonte:** [apri PDF p.7](https://www.fairmath.it/genova/fermat/CF2003-soluzioni.pdf#page=7) · fairmath.it (Coppa Fermat 2003)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -752,14 +836,15 @@ level: squadre
 > Fantacalcio? 55 points
 > In a Ligurian puzzle magazine, the following algebraic expression appeared: GENOA + SAMP = SERIE - A, where identical letters represent identical digits and different letters represent different digits. Furthermore, no number begins with the digit zero. Determine the maximum value that SAMP can take.
 
-**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
-**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
-[[Quesiti/src_gs_2003#q19|src_gs_2003__Q19]]
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_casework|Case analysis]], [[method_congruenze|Modular arithmetic / congruences]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]], [[skill_lettura_attenta|Careful reading of the text]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Algebra e Analisi|Algebra and analysis]]
 
 
 
-<span class="atom-split" id="q20" data-atom="q20" data-title="Quesito 20" data-tags="topic_geometria_solida,topic_logica"></span>
+<span class="atom-split" id="q20" data-atom="q20" data-title="Quesito 20" data-tags="topic_geometria_solida,topic_logica,method_grafi,skill_modellizzazione,skill_astrazione,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -785,9 +870,11 @@ level: squadre
 > assuma inoltre che nessun tifoso includa se stesso tra le persone che conosce.
 
 **Topic:** [[topic_geometria_solida|Geometria solida]], [[topic_logica|Logica, giochi, strategie]]
+**Metodo:** [[method_grafi|Teoria dei grafi]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_astrazione|Astrazione / generalizzazione]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Geometria]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 2002
-**Fonte:** apri PDF p.7 · fairmath.it (Coppa Fermat 2003)
+**Fonte:** [apri PDF p.7](https://www.fairmath.it/genova/fermat/CF2003-soluzioni.pdf#page=7) · fairmath.it (Coppa Fermat 2003)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -800,14 +887,15 @@ level: squadre
 > "Safe Stadiums" Operation: 60 points
 > 2003 fans would like to take part in an away trip. Some of them are peaceful and always tell the truth; unfortunately, others are violent and always lie. Each fan knows at least one other fan. All 2003 fans have a homepage, on which, in the days preceding the away trip, everyone writes the sentence: “The number of violent fans I know is strictly greater than the number of peaceful fans I know.” Concerned by the situation, the authorities of the city where the match is supposed to take place have a suspected fan arrested, thereby preventing that fan from taking part in the away trip. At this point, all 2002 remaining fans write on their homepage: “Among the remaining fans, the number of violent fans I know is strictly less than the number of peaceful fans I know,” and the 2002 can set off undisturbed. Determine how many violent fans initially wanted to take part in the away trip. Assume that knowledge is symmetric (that is, if A knows B, then B knows A); also assume that no fan includes themselves among the people they know.
 
+
 **Topic:** [[topic_geometria_solida|Solid geometry]], [[topic_logica|Logic, games and strategies]]
+**Metodo:** [[method_grafi|Graph theory]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]], [[skill_astrazione|Abstraction / generalisation]], [[skill_casework_accurato|Careful case analysis]]
 **Area:** [[Geometria|Geometry]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
-[[Quesiti/src_gs_2003#q20|src_gs_2003__Q20]]
 
 
-
-<span class="atom-split" id="q21" data-atom="q21" data-title="Quesito 21" data-tags="topic_geometria_solida"></span>
+<span class="atom-split" id="q21" data-atom="q21" data-title="Quesito 21" data-tags="topic_geometria_solida,method_coordinate,method_simmetria,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -826,9 +914,11 @@ level: squadre
 > Determinare, in millimetri, il raggio delle sfere di gomma usate per l’imballaggio.
 
 **Topic:** [[topic_geometria_solida|Geometria solida]]
+**Metodo:** [[method_coordinate|Metodo delle coordinate]], [[method_simmetria|Sfruttamento della simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 **Risposta:** 0170
-**Fonte:** apri PDF p.7 · fairmath.it (Coppa Fermat 2003)
+**Fonte:** [apri PDF p.7](https://www.fairmath.it/genova/fermat/CF2003-soluzioni.pdf#page=7) · fairmath.it (Coppa Fermat 2003)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -841,14 +931,15 @@ level: squadre
 > The Seer 65 points
 > To find out in advance who would win this team competition, a fortune-teller ordered a crystal sphere with a radius of 40 centimetres. The sphere was transported in a cubic box one metre on each side. Given the fragility of the object, inside the box the sphere was held in place by eight identical rubber balls positioned at the vertices of the cube so as to prevent any movement of the crystal sphere. Determine, in millimetres, the radius of the rubber balls used for packing.
 
+
 **Topic:** [[topic_geometria_solida|Solid geometry]]
+**Metodo:** [[method_coordinate|Coordinate method]], [[method_simmetria|Using symmetry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
 **Area:** [[Geometria|Geometry]]
 
-[[Quesiti/src_gs_2003#q21|src_gs_2003__Q21]]
 
 
-
-<span class="atom-split" id="q22" data-atom="q22" data-title="Quesito 22" data-tags="topic_combinatoria"></span>
+<span class="atom-split" id="q22" data-atom="q22" data-title="Quesito 22" data-tags="topic_combinatoria,topic_aritmetica,method_casework,skill_modellizzazione,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -869,10 +960,12 @@ level: squadre
 > si affrontano a due a due in partite di andata ritorno, in cui vengono assegnati 3 punti per la
 > vittoria, 1 punto per il pareggio e 0 punti per la sconfitta.
 
-**Topic:** [[topic_combinatoria|Combinatoria]]
-**Area:** [[Combinatoria, Logica e Probabilita]]
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 0101
-**Fonte:** apri PDF p.8 · fairmath.it (Coppa Fermat 2003)
+**Fonte:** [apri PDF p.8](https://www.fairmath.it/genova/fermat/CF2003-soluzioni.pdf#page=8) · fairmath.it (Coppa Fermat 2003)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -885,14 +978,15 @@ level: squadre
 > Hope dies last... 65 points
 > At the end of a finally thrilling Serie B season, Genoa and Sampdoria finish with the same points total at the top of the standings. The statistics show that the two teams achieved their points total in two different ways (that is, they recorded different numbers of wins, draws, and defeats), and moreover, these were the only two ways of achieving that points total. Given that the two derbies ended in draws and that both teams lost in the difficult away match at Livorno, determine how many points Genoa and Sampdoria had when they won the league. Assume that the league is still played according to the current rules—that is, with 20 teams facing each other in home-and-away matches, with 3 points awarded for a win, 1 point for a draw, and 0 points for a defeat.
 
-**Topic:** [[topic_combinatoria|Combinatorics]]
-**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
-[[Quesiti/src_gs_2003#q22|src_gs_2003__Q22]]
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]], [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
 
 
-<span class="atom-split" id="q23" data-atom="q23" data-title="Quesito 23" data-tags="topic_aritmetica"></span>
+<span class="atom-split" id="q23" data-atom="q23" data-title="Quesito 23" data-tags="topic_aritmetica,method_congruenze,method_casework,skill_casework_accurato,skill_lettura_attenta,skill_riconoscimento_pattern"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -923,9 +1017,11 @@ level: squadre
 > Determinare l’anno di nascita di Michele.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]], [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_lettura_attenta|Lettura attenta del testo]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 1977
-**Fonte:** apri PDF p.8 · fairmath.it (Coppa Fermat 2003)
+**Fonte:** [apri PDF p.8](https://www.fairmath.it/genova/fermat/CF2003-soluzioni.pdf#page=8) · fairmath.it (Coppa Fermat 2003)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -938,14 +1034,15 @@ level: squadre
 > The crucinumber 70 points
 > This year, Michele found a crucinumber in an old book of math problems: it is a kind of crossword puzzle consisting of a 4 × 4 grid with a single black cell in the third cell of the first row. The 15 white cells must be filled with digits so that the numbers read in the various rows and columns never begin with a zero and conform to the definitions given below. • First row (first two cells): has exactly 12 positive divisors (including 1 and itself). • Second row: the smallest positive integer that can be written as the sum of two positive perfect cubes in two different ways. • Third row: a multiple of 13. • Fourth row: a prime number. • First column: a power of two. • Second column: is divisible by 102. • Third column: the largest prime number less than 300. Unfortunately, the last definition, corresponding to the fourth column, has been nibbled by moths, but after solving the rest of the crucinumber, Michele realizes that he can write his own year of birth in the last column without this contradicting the other definitions. Determine Michele's year of birth.
 
+
 **Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]], [[method_casework|Case analysis]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]], [[skill_lettura_attenta|Careful reading of the text]], [[skill_riconoscimento_pattern|Pattern recognition]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
-[[Quesiti/src_gs_2003#q23|src_gs_2003__Q23]]
 
 
-
-<span class="atom-split" id="q24" data-atom="q24" data-title="Quesito 24" data-tags=""></span>
+<span class="atom-split" id="q24" data-atom="q24" data-title="Quesito 24" data-tags="topic_combinatoria,method_grafi,method_invarianti,skill_modellizzazione,skill_astrazione"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -962,8 +1059,12 @@ level: squadre
 > Determinare la somma del massimo e del minimo numero di frutti che può avere un
 > albero di questo giardino.
 
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_grafi|Teoria dei grafi]], [[method_invarianti|Invarianti / monovarianti]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_astrazione|Astrazione / generalizzazione]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 3006
-**Fonte:** apri PDF p.8 · fairmath.it (Coppa Fermat 2003)
+**Fonte:** [apri PDF p.8](https://www.fairmath.it/genova/fermat/CF2003-soluzioni.pdf#page=8) · fairmath.it (Coppa Fermat 2003)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -976,4 +1077,7 @@ level: squadre
 > Fruit trees 80 points
 > All the trees in the garden of Villa Pallavicini have some strange characteristics. First of all, all of them consist of 2003 branches; moreover, each branch either forks into two other branches, or ends in one fruit, or ends in two fruits; finally, all the trees have a single trunk (to be regarded as a branch). Determine the sum of the maximum and minimum numbers of fruits that a tree in this garden can have.
 
-[[Quesiti/src_gs_2003#q24|src_gs_2003__Q24]]
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_grafi|Graph theory]], [[method_invarianti|Invariants / monovariants]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]], [[skill_astrazione|Abstraction / generalisation]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]

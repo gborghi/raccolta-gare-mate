@@ -19,7 +19,7 @@ level: Semifinale Campionati Internazionali di Giochi Matematici
 
 > Completate il quadrato in modo che ogni riga e ogni colonna contenga uno "0", due "1" e un "2".
 
-![[src_bocconi_semifinale_2011__q01.png]]
+![[src_bocconi_semifinale_2011__Q01.png]]
 
 **Topic:** [[topic_logica|Logica]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_casework|Casework]]
@@ -36,14 +36,12 @@ level: Semifinale Campionati Internazionali di Giochi Matematici
 
 > Complete the square so that each row and each column contains one "0", two "1"s, and one "2".
 
-![[src_bocconi_semifinale_2011__q01.png]]
+![[src_bocconi_semifinale_2011__Q01.png]]
 
 **Topic:** [[topic_logica|Logic, games, strategies]], [[topic_combinatoria|Combinatorics]]
 **Metodo:** [[method_casework|Case analysis]]
 **Abilita:** [[skill_casework_accurato|Careful case analysis]], [[skill_lettura_attenta|Careful reading of the text]]
 **Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
-
-[[Quesiti/src_bocconi_semifinale_2011#q01|src_bocconi_semifinale_2011__Q01]]
 
 
 
@@ -56,7 +54,7 @@ level: Semifinale Campionati Internazionali di Giochi Matematici
 
 > Collocate tutti i numeri interi da 1 a 8 nella griglia della figura (in realtà, 3,6,8 sono stati già inseriti) in modo che due interi consecutivi non occupino mai caselle che hanno un lato o un vertice in comune.
 
-![[src_bocconi_semifinale_2011__q02.png]]
+![[src_bocconi_semifinale_2011__Q02.png]]
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_logica|Logica]]
 **Metodo:** [[method_casework|Casework]]
@@ -73,18 +71,16 @@ level: Semifinale Campionati Internazionali di Giochi Matematici
 
 > Place all the integers from 1 to 8 in the grid in the figure (in fact, 3, 6, and 8 have already been placed) so that two consecutive integers never occupy cells that share a side or a vertex.
 
-![[src_bocconi_semifinale_2011__q02.png]]
+![[src_bocconi_semifinale_2011__Q02.png]]
 
 **Topic:** [[topic_combinatoria|Combinatorics]], [[topic_logica|Logic, games, strategies]]
 **Metodo:** [[method_casework|Case analysis]]
 **Abilita:** [[skill_casework_accurato|Careful case analysis]], [[skill_lettura_attenta|Careful reading of the text]]
 **Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
-[[Quesiti/src_bocconi_semifinale_2011#q02|src_bocconi_semifinale_2011__Q02]]
 
 
-
-<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_combinatoria,topic_logica,method_casework,method_estremalita,skill_conteggio_sistematico,skill_modellizzazione"></span>
+<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_combinatoria,topic_logica,method_casework,method_estremalita,skill_conteggio_sistematico,skill_modellizzazione,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -93,11 +89,11 @@ level: Semifinale Campionati Internazionali di Giochi Matematici
 
 > Con ciascuna mossa Anna sposta un cubo, dal piedistallo dove si trova, a quello vicino (alla sua destra o alla sua sinistra). Mai però, in nessuna fase del gioco, il cubo "2" può trovarsi sopra al cubo "1". Quante mosse sono necessarie ad Anna, al minimo, per ricostruire la torre sul piedistallo C?
 
-![[src_bocconi_semifinale_2011__q03.png]]
+![[src_bocconi_semifinale_2011__Q03.png]]
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_logica|Logica]]
 **Metodo:** [[method_casework|Casework]], [[method_estremalita|Estremalità]]
-**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 8 mosse
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1b28WjRaVNW0Ab0zCOuWfAvR0pSZh7tEs/view)
@@ -110,14 +106,13 @@ level: Semifinale Campionati Internazionali di Giochi Matematici
 
 > With each move, Anna moves a cube from the pedestal where it is located to the adjacent pedestal (to her right or to her left). However, at no point during the game may cube "2" be on top of cube "1". What is the minimum number of moves Anna needs to reassemble the tower on pedestal C?
 
-![[src_bocconi_semifinale_2011__q03.png]]
+![[src_bocconi_semifinale_2011__Q03.png]]
+
 
 **Topic:** [[topic_combinatoria|Combinatorics]], [[topic_logica|Logic, games, strategies]]
 **Metodo:** [[method_casework|Case analysis]], [[method_estremalita|Extremal principle]]
-**Abilita:** [[skill_conteggio_sistematico|Systematic counting]], [[skill_modellizzazione|Modelling / translating the text]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]], [[skill_modellizzazione|Modelling / translating the text]], [[skill_casework_accurato|Careful case analysis]]
 **Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
-
-[[Quesiti/src_bocconi_semifinale_2011#q03|src_bocconi_semifinale_2011__Q03]]
 
 
 
@@ -150,8 +145,6 @@ level: Semifinale Campionati Internazionali di Giochi Matematici
 **Abilita:** [[skill_conteggio_sistematico|Systematic counting]], [[skill_casework_accurato|Careful case analysis]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
-[[Quesiti/src_bocconi_semifinale_2011#q04|src_bocconi_semifinale_2011__Q04]]
-
 
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_aritmetica,topic_logica,method_casework,method_estremalita,skill_casework_accurato,skill_manipolazione_algebrica"></span>
@@ -163,7 +156,7 @@ level: Semifinale Campionati Internazionali di Giochi Matematici
 
 > Collocate tutte le cifre 1,2,3,4 nelle caselle della figura in modo da ottenere il più piccolo risultato possibile. La figura è $\big(\ \square\,\square - \square\ \big) \times \square$.
 
-![[src_bocconi_semifinale_2011__q05.png]]
+![[src_bocconi_semifinale_2011__Q05.png]]
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_logica|Logica]]
 **Metodo:** [[method_casework|Casework]], [[method_estremalita|Estremalità]]
@@ -180,18 +173,16 @@ level: Semifinale Campionati Internazionali di Giochi Matematici
 
 > Place all the digits 1, 2, 3, 4 in the cells of the figure so as to obtain the smallest possible result. The figure is $\big(\ \square\,\square - \square\ \big) \times \square$.
 
-![[src_bocconi_semifinale_2011__q05.png]]
+![[src_bocconi_semifinale_2011__Q05.png]]
 
 **Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_logica|Logic, games, strategies]]
 **Metodo:** [[method_casework|Case analysis]], [[method_estremalita|Extremal principle]]
 **Abilita:** [[skill_casework_accurato|Careful case analysis]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
-[[Quesiti/src_bocconi_semifinale_2011#q05|src_bocconi_semifinale_2011__Q05]]
 
 
-
-<span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_aritmetica,topic_combinatoria,method_ricorsione,method_conteggio,skill_conteggio_sistematico,skill_riconoscimento_pattern"></span>
+<span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_aritmetica,topic_combinatoria,topic_funzionali,method_ricorsione,method_conteggio,skill_conteggio_sistematico,skill_riconoscimento_pattern"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -200,10 +191,10 @@ level: Semifinale Campionati Internazionali di Giochi Matematici
 
 > Debora scrive il numero 1, gli aggiunge 70 e ottiene 71. Poi (invertendo le sue cifre) scrive 17, gli aggiunge 70 e trova 87. Riparte, invertendo le cifre dell'ultimo risultato ottenuto: scrive 78, gli aggiunge 70 e trova 148. Così facendo e continuando, scrive (compreso quello iniziale) i numeri 1,71,87,148,911,…. Quanti sono i numeri di questa sequenza necessari per arrivare a scrivere 2011 (compreso 2011)?
 
-**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]], [[topic_funzionali|Equazioni funzionali / successioni]]
 **Metodo:** [[method_ricorsione|Ricorsione]], [[method_conteggio|Conteggio]]
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
-**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]], [[Algebra e Analisi]]
 **Risposta:** 22 numeri
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1b28WjRaVNW0Ab0zCOuWfAvR0pSZh7tEs/view)
 
@@ -215,16 +206,15 @@ level: Semifinale Campionati Internazionali di Giochi Matematici
 
 > Debora writes the number 1, adds 70 to it, and gets 71. Then (reversing its digits) she writes 17, adds 70 to it, and gets 87. She starts again, reversing the digits of the last result obtained: she writes 78, adds 70 to it, and gets 148. By doing this and continuing, she writes (including the initial one) the numbers 1, 71, 87, 148, 911, …. How many numbers in this sequence are needed to get to writing 2011 (including 2011)?
 
-**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_combinatoria|Combinatorics]]
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_combinatoria|Combinatorics]], [[topic_funzionali|Functional equations / sequences]]
 **Metodo:** [[method_ricorsione|Recursion]], [[method_conteggio|Combinatorial counting]]
 **Abilita:** [[skill_conteggio_sistematico|Systematic counting]], [[skill_riconoscimento_pattern|Pattern recognition]]
-**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
-
-[[Quesiti/src_bocconi_semifinale_2011#q06|src_bocconi_semifinale_2011__Q06]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Algebra e Analisi|Algebra and analysis]]
 
 
 
-<span class="atom-split" id="q07" data-atom="q07" data-title="Quesito 7" data-tags="topic_logica,topic_aritmetica,method_casework,skill_lettura_attenta,skill_modellizzazione"></span>
+<span class="atom-split" id="q07" data-atom="q07" data-title="Quesito 7" data-tags="topic_logica,topic_aritmetica,method_casework,skill_lettura_attenta,skill_modellizzazione,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -235,7 +225,7 @@ level: Semifinale Campionati Internazionali di Giochi Matematici
 
 **Topic:** [[topic_logica|Logica]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_casework|Casework]]
-**Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_modellizzazione|Modellizzazione]]
+**Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_modellizzazione|Modellizzazione]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 15 ore
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1b28WjRaVNW0Ab0zCOuWfAvR0pSZh7tEs/view)
@@ -248,16 +238,15 @@ level: Semifinale Campionati Internazionali di Giochi Matematici
 
 > Three individuals live in our condominium. The first is a stingy sort and every evening turns on the light in his room for only an hour, from 8 p.m. to 9 p.m. The second, on the other hand, suffers from insomnia and keeps the light in his room on from 11 p.m. to 5 a.m. the following morning—a full six hours. The third is a curious sort: he keeps the light in his room on when the light in at least one of the other two rooms is on, or when one of those lights was switched off no more than an hour ago. Over the course of a day (a 24-hour period), for how many hours are the lights in all three rooms off?
 
+
 **Topic:** [[topic_logica|Logic, games, strategies]], [[topic_aritmetica|Arithmetic / Number theory]]
 **Metodo:** [[method_casework|Case analysis]]
-**Abilita:** [[skill_lettura_attenta|Careful reading of the text]], [[skill_modellizzazione|Modelling / translating the text]]
+**Abilita:** [[skill_lettura_attenta|Careful reading of the text]], [[skill_modellizzazione|Modelling / translating the text]], [[skill_casework_accurato|Careful case analysis]]
 **Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
-[[Quesiti/src_bocconi_semifinale_2011#q07|src_bocconi_semifinale_2011__Q07]]
 
 
-
-<span class="atom-split" id="q08" data-atom="q08" data-title="Quesito 8" data-tags="topic_aritmetica,topic_logica,method_casework,skill_casework_accurato,skill_manipolazione_algebrica"></span>
+<span class="atom-split" id="q08" data-atom="q08" data-title="Quesito 8" data-tags="topic_aritmetica,topic_logica,topic_algebra,method_casework,method_fattorizzazione,skill_casework_accurato,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -266,10 +255,10 @@ level: Semifinale Campionati Internazionali di Giochi Matematici
 
 > Carla e Milena prendono, ciascuna, due gettoni tra i nove che sono sul tavolo e che sono individuati dalle cifre 1,2,3,4,5,6,7,8,9. Tra i quattro gettoni scelti, quello con la cifra più grande l'ha preso Carla. Succede poi un fatto molto strano: il prodotto delle cifre dei due gettoni di Milena è uguale alla somma di quelle dei gettoni di Carla e il prodotto di queste ultime è uguale alla somma delle cifre dei gettoni di Milena. Quali sono le cifre dei gettoni scelti da Carla?
 
-**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_logica|Logica]]
-**Metodo:** [[method_casework|Casework]]
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_logica|Logica]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_casework|Casework]], [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
 **Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
-**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]], [[Algebra e Analisi]]
 **Risposta:** 1 e 5 (o viceversa)
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1b28WjRaVNW0Ab0zCOuWfAvR0pSZh7tEs/view)
 
@@ -281,16 +270,15 @@ level: Semifinale Campionati Internazionali di Giochi Matematici
 
 > Carla and Milena each take two tokens from the nine tokens on the table, which are marked with the digits 1, 2, 3, 4, 5, 6, 7, 8, and 9. Among the four tokens chosen, Carla took the one with the largest digit. Then a very strange thing happens: the product of the digits on Milena's two tokens equals the sum of the digits on Carla's tokens, and the product of Carla's digits equals the sum of the digits on Milena's tokens. What are the digits on the tokens chosen by Carla?
 
-**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_logica|Logic, games, strategies]]
-**Metodo:** [[method_casework|Case analysis]]
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_logica|Logic, games, strategies]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_casework|Case analysis]], [[method_fattorizzazione|Factorisation / algebraic manipulation]]
 **Abilita:** [[skill_casework_accurato|Careful case analysis]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
-**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
-
-[[Quesiti/src_bocconi_semifinale_2011#q08|src_bocconi_semifinale_2011__Q08]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Algebra e Analisi|Algebra and analysis]]
 
 
 
-<span class="atom-split" id="q09" data-atom="q09" data-title="Quesito 9" data-tags="topic_geometria_piana,topic_aritmetica,method_fattorizzazione,skill_manipolazione_algebrica"></span>
+<span class="atom-split" id="q09" data-atom="q09" data-title="Quesito 9" data-tags="topic_geometria_piana,topic_aritmetica,topic_combinatoria,method_fattorizzazione,skill_manipolazione_algebrica,skill_modellizzazione"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -299,10 +287,10 @@ level: Semifinale Campionati Internazionali di Giochi Matematici
 
 > Nel nostro poligono (convesso), il numero delle diagonali è 13 volte quello dei lati. Quanti lati ha il nostro poligono?
 
-**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_fattorizzazione|Fattorizzazione]]
-**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
-**Area:** [[Geometria]], [[Aritmetica e Teoria dei Numeri]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
+**Area:** [[Geometria]], [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 29 lati
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1b28WjRaVNW0Ab0zCOuWfAvR0pSZh7tEs/view)
 
@@ -314,16 +302,15 @@ level: Semifinale Campionati Internazionali di Giochi Matematici
 
 > In our polygon (convex), the number of diagonals is 13 times the number of sides. How many sides does our polygon have?
 
-**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_aritmetica|Arithmetic / Number theory]]
+
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_aritmetica|Arithmetic / Number theory]], [[topic_combinatoria|Combinatorics]]
 **Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
-**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
-**Area:** [[Geometria|Geometry]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
-
-[[Quesiti/src_bocconi_semifinale_2011#q09|src_bocconi_semifinale_2011__Q09]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Geometria|Geometry]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
 
 
-<span class="atom-split" id="q10" data-atom="q10" data-title="Quesito 10" data-tags="topic_aritmetica,topic_algebra,skill_manipolazione_algebrica,skill_modellizzazione"></span>
+<span class="atom-split" id="q10" data-atom="q10" data-title="Quesito 10" data-tags="topic_aritmetica,topic_algebra,method_fattorizzazione,skill_manipolazione_algebrica,skill_modellizzazione"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -333,6 +320,7 @@ level: Semifinale Campionati Internazionali di Giochi Matematici
 > Desiderio, il papà di Nadia, ha 58 anni. Jacob (il fratello di Nadia) ha 27 anni mentre la mamma, Fausta, ne ha 22 più della figlia. Quando Desiderio avrà il doppio dell'età di Jacob, Fausta e Nadia avranno complessivamente 100 anni. Quanti anni ha oggi Nadia?
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 **Risposta:** 35 anni
@@ -346,11 +334,11 @@ level: Semifinale Campionati Internazionali di Giochi Matematici
 
 > Desiderio, Nadia's father, is 58 years old. Jacob (Nadia's brother) is 27 years old, while their mother, Fausta, is 22 years older than her daughter. When Desiderio is twice Jacob's age, Fausta and Nadia will together be 100 years old. How old is Nadia today?
 
+
 **Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
 **Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_modellizzazione|Modelling / translating the text]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Algebra e Analisi|Algebra and analysis]]
-
-[[Quesiti/src_bocconi_semifinale_2011#q10|src_bocconi_semifinale_2011__Q10]]
 
 
 
@@ -383,8 +371,6 @@ level: Semifinale Campionati Internazionali di Giochi Matematici
 **Abilita:** [[skill_conteggio_sistematico|Systematic counting]], [[skill_casework_accurato|Careful case analysis]], [[skill_ragionamento_geometrico|Geometric reasoning]]
 **Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
-[[Quesiti/src_bocconi_semifinale_2011#q11|src_bocconi_semifinale_2011__Q11]]
-
 
 
 <span class="atom-split" id="q12" data-atom="q12" data-title="Quesito 12" data-tags="topic_aritmetica,method_casework,method_fattorizzazione,skill_riconoscimento_pattern,skill_conteggio_sistematico"></span>
@@ -415,8 +401,6 @@ level: Semifinale Campionati Internazionali di Giochi Matematici
 **Metodo:** [[method_casework|Case analysis]], [[method_fattorizzazione|Factorisation / algebraic manipulation]]
 **Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]], [[skill_conteggio_sistematico|Systematic counting]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
-
-[[Quesiti/src_bocconi_semifinale_2011#q12|src_bocconi_semifinale_2011__Q12]]
 
 
 
@@ -449,8 +433,6 @@ level: Semifinale Campionati Internazionali di Giochi Matematici
 **Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_stima|Estimation and approximation]]
 **Area:** [[Geometria|Geometry]]
 
-[[Quesiti/src_bocconi_semifinale_2011#q13|src_bocconi_semifinale_2011__Q13]]
-
 
 
 <span class="atom-split" id="q14" data-atom="q14" data-title="Quesito 14" data-tags="topic_aritmetica,topic_algebra,method_estremalita,skill_modellizzazione,skill_manipolazione_algebrica"></span>
@@ -482,11 +464,9 @@ level: Semifinale Campionati Internazionali di Giochi Matematici
 **Abilita:** [[skill_modellizzazione|Modelling / translating the text]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Algebra e Analisi|Algebra and analysis]]
 
-[[Quesiti/src_bocconi_semifinale_2011#q14|src_bocconi_semifinale_2011__Q14]]
 
 
-
-<span class="atom-split" id="q15" data-atom="q15" data-title="Quesito 15" data-tags="topic_aritmetica,topic_algebra,method_casework,skill_casework_accurato,skill_manipolazione_algebrica"></span>
+<span class="atom-split" id="q15" data-atom="q15" data-title="Quesito 15" data-tags="topic_aritmetica,topic_algebra,method_casework,method_fattorizzazione,skill_casework_accurato,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -496,7 +476,7 @@ level: Semifinale Campionati Internazionali di Giochi Matematici
 > Luca considera due numeri interi e positivi. Poi li somma, li moltiplica tra loro, ne fa la differenza (il maggiore meno il minore) e quindi ne calcola la potenza, elevando il primo all'esponente rappresentato dal secondo. Alla fine, Luca somma i quattro risultati così ottenuti e trova 88. Quali erano i due numeri inizialmente considerati da Luca?
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
-**Metodo:** [[method_casework|Casework]]
+**Metodo:** [[method_casework|Casework]], [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
 **Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 **Risposta:** Tre soluzioni: $(2,6) - (22,1) - (1,29)$
@@ -510,16 +490,15 @@ level: Semifinale Campionati Internazionali di Giochi Matematici
 
 > Luca considers two positive integers. Then he adds them, multiplies them together, finds their difference (the larger minus the smaller), and then calculates their power by raising the first to the exponent represented by the second. Finally, Luca adds the four results thus obtained and gets 88. What were the two numbers that Luca initially considered?
 
+
 **Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_algebra|Algebra]]
-**Metodo:** [[method_casework|Case analysis]]
+**Metodo:** [[method_casework|Case analysis]], [[method_fattorizzazione|Factorisation / algebraic manipulation]]
 **Abilita:** [[skill_casework_accurato|Careful case analysis]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Algebra e Analisi|Algebra and analysis]]
 
-[[Quesiti/src_bocconi_semifinale_2011#q15|src_bocconi_semifinale_2011__Q15]]
 
 
-
-<span class="atom-split" id="q16" data-atom="q16" data-title="Quesito 16" data-tags="topic_geometria_solida,topic_geometria_analitica,method_coordinate,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
+<span class="atom-split" id="q16" data-atom="q16" data-title="Quesito 16" data-tags="topic_geometria_solida,topic_geometria_analitica,method_coordinate,skill_ragionamento_geometrico,skill_manipolazione_algebrica,skill_stima"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -530,7 +509,7 @@ level: Semifinale Campionati Internazionali di Giochi Matematici
 
 **Topic:** [[topic_geometria_solida|Geometria solida]], [[topic_geometria_analitica|Geometria analitica]]
 **Metodo:** [[method_coordinate|Coordinate]]
-**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima e approssimazione]]
 **Area:** [[Geometria]]
 **Risposta:** cm 4,14
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1b28WjRaVNW0Ab0zCOuWfAvR0pSZh7tEs/view)
@@ -543,12 +522,11 @@ level: Semifinale Campionati Internazionali di Giochi Matematici
 
 > The witch Liliana has received as a gift some new crystal spheres with which to practice reading the future. The spheres received as a gift are four and equal to one another. They rest on the bottom of a cylindrical box, which has a base diameter of 20 cm, and their centers form a square. They are tangent to one another (pairwise), tangent to the lateral surface of the box and tangent to the lid of the same when the box is closed. The box also contains a fifth, smaller sphere, resting (on top) on the four previous ones and tangent to the lid of the box when it is closed. What is the diameter of the smallest of the five spheres of the witch Liliana? (give the answer in cm, replacing $\sqrt{2}$ with $1.414$ and rounding the second decimal digit of the result to the nearest hundredth).
 
+
 **Topic:** [[topic_geometria_solida|Solid geometry]], [[topic_geometria_analitica|Coordinate geometry]]
 **Metodo:** [[method_coordinate|Coordinate method]]
-**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_stima|Estimation and approximation]]
 **Area:** [[Geometria|Geometry]]
-
-[[Quesiti/src_bocconi_semifinale_2011#q16|src_bocconi_semifinale_2011__Q16]]
 
 
 
@@ -580,11 +558,9 @@ level: Semifinale Campionati Internazionali di Giochi Matematici
 **Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_stima|Estimation and approximation]]
 **Area:** [[Geometria|Geometry]]
 
-[[Quesiti/src_bocconi_semifinale_2011#q17|src_bocconi_semifinale_2011__Q17]]
 
 
-
-<span class="atom-split" id="q18" data-atom="q18" data-title="Quesito 18" data-tags="topic_combinatoria,topic_logica,method_invarianti,method_estremalita,skill_modellizzazione,skill_riconoscimento_pattern"></span>
+<span class="atom-split" id="q18" data-atom="q18" data-title="Quesito 18" data-tags="topic_combinatoria,topic_logica,method_invarianti,method_estremalita,method_backward,skill_modellizzazione,skill_riconoscimento_pattern"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -594,7 +570,7 @@ level: Semifinale Campionati Internazionali di Giochi Matematici
 > Consiste in una striscia illimitata di caselle numerate : 0,1,2,3 … . C'è anche un numero illimitato di gettoni e, a sua volta, ogni casella può contenere un numero illimitato di gettoni. All'inizio del gioco, però, è presente un solo gettone collocato nella casella con il numero 1. Sono possibili due tipi di mosse : si "raddoppia" un gettone (non situato nella casella con il numero 0) sostituendolo con due gettoni collocati nelle caselle adiacenti (uno alla sua sinistra, uno alla sua destra); si elimina un gettone, "raggruppandone" due e sostituendoli con un gettone posto nell'unica casella compresa tra le due. Si vince quando si riesce ad avere un solo gettone e questo è posto nella casella con il numero 2011. Con quante mosse, al minimo, si può vincere? (rispondete 0 se pensate che la domanda sia impossibile).
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_logica|Logica]]
-**Metodo:** [[method_invarianti|Invarianti]], [[method_estremalita|Estremalità]]
+**Metodo:** [[method_invarianti|Invarianti]], [[method_estremalita|Estremalità]], [[method_backward|Ragionamento all'indietro]]
 **Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 5362 mosse
@@ -608,9 +584,8 @@ level: Semifinale Campionati Internazionali di Giochi Matematici
 
 > It consists of an unlimited row of numbered boxes: 0, 1, 2, 3, …. There are also an unlimited number of tokens, and each box can in turn hold an unlimited number of tokens. At the beginning of the game, however, there is only a single token placed in the box numbered 1. Two types of moves are possible: one "doubles" a token (one not in the box numbered 0) by replacing it with two tokens placed in the adjacent boxes (one to its left, one to its right); one removes a token by "grouping" two tokens and replacing them with a single token placed in the only box between the two. You win when you manage to have a single token and that token is in the box numbered 2011. What is the minimum number of moves with which you can win? (Answer 0 if you think the question is impossible.)
 
+
 **Topic:** [[topic_combinatoria|Combinatorics]], [[topic_logica|Logic, games, strategies]]
-**Metodo:** [[method_invarianti|Invariants / monovariants]], [[method_estremalita|Extremal principle]]
+**Metodo:** [[method_invarianti|Invariants / monovariants]], [[method_estremalita|Extremal principle]], [[method_backward|Working backwards]]
 **Abilita:** [[skill_modellizzazione|Modelling / translating the text]], [[skill_riconoscimento_pattern|Pattern recognition]]
 **Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
-
-[[Quesiti/src_bocconi_semifinale_2011#q18|src_bocconi_semifinale_2011__Q18]]

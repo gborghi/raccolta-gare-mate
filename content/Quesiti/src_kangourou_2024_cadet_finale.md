@@ -10,7 +10,7 @@ level: kangourou
 
 
 
-<span class="atom-split" id="qc1" data-atom="qc1" data-title="Quesito C1" data-tags="topic_logica,skill_lettura_attenta"></span>
+<span class="atom-split" id="qc1" data-atom="qc1" data-title="Quesito C1" data-tags="topic_logica,method_casework,skill_lettura_attenta,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -20,7 +20,8 @@ level: kangourou
 > Nella strana lingua di Kanglandia, le parole "sì" e "no" si traducono in "KAB" e "BAK", ma non necessariamente in quest'ordine. Incontri una persona, della quale ti puoi fidare, che conosce sia l'italiano sia la lingua di Kanglandia e le chiedi: «È vero che KAB significa "sì"?». La persona risponde: "KAB". Puoi dedurre se "KAB" significa "sì" oppure "no"?
 
 **Topic:** [[topic_logica|Logica, giochi, strategie]]
-**Abilita:** [[skill_lettura_attenta|Lettura attenta del testo]]
+**Metodo:** [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_lettura_attenta|Lettura attenta del testo]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/16FQ8MPWp2IWl5VhCnTs1Tu04wEUMR6UE/view)
 
@@ -32,15 +33,15 @@ level: kangourou
 
 > In the strange language of Kanglandia, the words "yes" and "no" are translated as "KAB" and "BAK", but not necessarily in that order. You meet a person you can trust who knows both Italian and the language of Kanglandia, and you ask them: "Is it true that KAB means 'yes'?" The person replies: "KAB". Can you deduce whether "KAB" means "yes" or "no"?
 
+
 **Topic:** [[topic_logica|Logic, games and strategies]]
-**Abilita:** [[skill_lettura_attenta|Careful reading]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_lettura_attenta|Careful reading]], [[skill_casework_accurato|Careful case analysis]]
 **Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
-[[Quesiti/src_kangourou_2024_cadet_finale#qc1|src_kangourou_2024_cadet_finale__QC1]]
 
 
-
-<span class="atom-split" id="qc2" data-atom="qc2" data-title="Quesito C2" data-tags="topic_aritmetica,method_conteggio,skill_conteggio_sistematico"></span>
+<span class="atom-split" id="qc2" data-atom="qc2" data-title="Quesito C2" data-tags="topic_aritmetica,topic_combinatoria,method_conteggio,skill_conteggio_sistematico"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -49,10 +50,10 @@ level: kangourou
 
 > Considera tutte le possibili frazioni di valore minore di $1$, nelle quali sia il numeratore sia il denominatore sono numeri interi tra $1$ e $12$ inclusi. Sono di più le frazioni riducibili o quelle irriducibili?
 
-**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_conteggio|Conteggio combinatorio]]
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
-**Area:** [[Aritmetica e Teoria dei Numeri]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/16FQ8MPWp2IWl5VhCnTs1Tu04wEUMR6UE/view)
 
 
@@ -63,23 +64,22 @@ level: kangourou
 
 > Consider all possible fractions with a value less than $1$, in which both the numerator and the denominator are integers between $1$ and $12$, inclusive. Are there more reducible fractions or more irreducible fractions?
 
-**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_combinatoria|Combinatorics]]
 **Metodo:** [[method_conteggio|Combinatorial counting]]
 **Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
-**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
-
-[[Quesiti/src_kangourou_2024_cadet_finale#qc2|src_kangourou_2024_cadet_finale__QC2]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
 
 
-<span class="atom-split" id="qc3" data-atom="qc3" data-title="Quesito C3" data-tags="topic_geometria_piana,method_casework,skill_ragionamento_geometrico"></span>
+<span class="atom-split" id="qc3" data-atom="qc3" data-title="Quesito C3" data-tags="topic_geometria_piana,method_casework,skill_ragionamento_geometrico,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
 
 *Due triangoli con due lati e un'altezza uguali sono congruenti*
 
-![[src_kangourou_2024_cadet_finale__probc3.png]]
+![[src_kangourou_2024_cadet_finale__probC3.png]]
 
 ```tikz
 \begin{document}
@@ -103,7 +103,7 @@ level: kangourou
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_casework|Analisi per casi]]
-**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/16FQ8MPWp2IWl5VhCnTs1Tu04wEUMR6UE/view)
 
@@ -113,7 +113,7 @@ level: kangourou
 
 *Two triangles with two equal sides and an equal height are congruent*
 
-![[src_kangourou_2024_cadet_finale__probc3.png]]
+![[src_kangourou_2024_cadet_finale__probC3.png]]
 
 ```tikz
 \begin{document}
@@ -135,16 +135,15 @@ level: kangourou
 
 > Two triangles are given. The lengths of two of the sides of one triangle coincide with the lengths of two of the sides of the other triangle, and the altitude corresponding to the third side of one triangle coincides with the altitude corresponding to the third side of the other triangle. Are the two triangles necessarily congruent? (see figure)
 
+
 **Topic:** [[topic_geometria_piana|Plane geometry]]
 **Metodo:** [[method_casework|Case analysis]]
-**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_casework_accurato|Careful case analysis]]
 **Area:** [[Geometria|Geometry]]
 
-[[Quesiti/src_kangourou_2024_cadet_finale#qc3|src_kangourou_2024_cadet_finale__QC3]]
 
 
-
-<span class="atom-split" id="qc4" data-atom="qc4" data-title="Quesito C4" data-tags="topic_geometria_piana,skill_ragionamento_geometrico"></span>
+<span class="atom-split" id="qc4" data-atom="qc4" data-title="Quesito C4" data-tags="topic_geometria_piana,method_estremalita,skill_ragionamento_geometrico,skill_modellizzazione"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -154,7 +153,8 @@ level: kangourou
 > Tre abitazioni sono ai vertici di un triangolo isoscele i cui lati misurano $80$, $80$ e $120$ metri. Utilizzando un'unica antenna, si vuole rendere possibile la ricezione di internet nelle tre abitazioni. Qual è, in metri, la minima distanza che può avere l'antenna dall'abitazione che le risulterà più lontana?
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
-**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Metodo:** [[method_estremalita|Principio di estremalita]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/16FQ8MPWp2IWl5VhCnTs1Tu04wEUMR6UE/view)
 
@@ -166,15 +166,15 @@ level: kangourou
 
 > Three houses are located at the vertices of an isosceles triangle whose sides measure $80$, $80$, and $120$ metres. Using a single antenna, the aim is to make it possible for internet to be received at all three houses. In metres, what is the minimum distance the antenna can be from the house that turns out to be the farthest from it?
 
+
 **Topic:** [[topic_geometria_piana|Plane geometry]]
-**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Metodo:** [[method_estremalita|Extremal principle]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_modellizzazione|Modelling / translating the text]]
 **Area:** [[Geometria|Geometry]]
 
-[[Quesiti/src_kangourou_2024_cadet_finale#qc4|src_kangourou_2024_cadet_finale__QC4]]
 
 
-
-<span class="atom-split" id="qc5" data-atom="qc5" data-title="Quesito C5" data-tags="topic_aritmetica,method_fattorizzazione,skill_manipolazione_algebrica"></span>
+<span class="atom-split" id="qc5" data-atom="qc5" data-title="Quesito C5" data-tags="topic_aritmetica,topic_algebra,method_fattorizzazione,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -183,10 +183,10 @@ level: kangourou
 
 > Marco prova ad eseguire le seguenti operazioni: sceglie un numero di tre cifre tutte diverse fra loro, scrive il numero che ottiene invertendo l'ordine delle cifre e calcola la differenza fra il maggiore e il minore dei due numeri. Se questa differenza ha solo due cifre, premette a questa differenza la cifra $0$, altrimenti la lascia inalterata. Infine, somma al numero così ottenuto il numero che ricava invertendo l'ordine delle sue cifre. Quale risultato ottiene? La nostra domanda lascia intendere che il risultato non dipende dal numero che Marco ha scelto inizialmente: spiega il motivo.
 
-**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
 **Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
-**Area:** [[Aritmetica e Teoria dei Numeri]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/16FQ8MPWp2IWl5VhCnTs1Tu04wEUMR6UE/view)
 
 
@@ -197,16 +197,15 @@ level: kangourou
 
 > Marco tries to carry out the following operations: he chooses a three-digit number whose digits are all different, writes the number obtained by reversing the order of the digits, and calculates the difference between the larger and the smaller of the two numbers. If this difference has only two digits, he prefixes the digit $0$ to this difference; otherwise, he leaves it unchanged. Finally, he adds to the number thus obtained the number he gets by reversing the order of its digits. What result does he obtain? Our question implies that the result does not depend on the number Marco chose initially: explain why.
 
-**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_algebra|Algebra]]
 **Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
 **Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
-**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
-
-[[Quesiti/src_kangourou_2024_cadet_finale#qc5|src_kangourou_2024_cadet_finale__QC5]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Algebra e Analisi|Algebra and analysis]]
 
 
 
-<span class="atom-split" id="qc6" data-atom="qc6" data-title="Quesito C6" data-tags="topic_combinatoria,topic_geometria_analitica,method_estremalita,skill_astrazione"></span>
+<span class="atom-split" id="qc6" data-atom="qc6" data-title="Quesito C6" data-tags="topic_combinatoria,topic_geometria_analitica,method_estremalita,method_conteggio,skill_astrazione,skill_ragionamento_geometrico"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -216,8 +215,8 @@ level: kangourou
 > Su un enorme foglio quadrato $2024 \times 2024$ di carta a quadretti si vogliono tracciare delle rette, nessuna parallela a quelle che delimitano i quadretti, in modo che tutti i vertici dei quadretti che appaiono sul foglio vengano coperti da almeno una retta. Qual è il più piccolo numero di rette che è sufficiente tracciare?
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_geometria_analitica|Geometria analitica]]
-**Metodo:** [[method_estremalita|Principio di estremalita]]
-**Abilita:** [[skill_astrazione|Astrazione / generalizzazione]]
+**Metodo:** [[method_estremalita|Principio di estremalita]], [[method_conteggio|Conteggio combinatorio]]
+**Abilita:** [[skill_astrazione|Astrazione / generalizzazione]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/16FQ8MPWp2IWl5VhCnTs1Tu04wEUMR6UE/view)
 
@@ -229,9 +228,8 @@ level: kangourou
 
 > On an enormous square sheet $2024 \times 2024$ of graph paper, one wants to draw straight lines—none of which are parallel to the lines that bound the squares—so that all the vertices of the squares visible on the sheet are covered by at least one line. What is the smallest number of lines that suffices to draw?
 
-**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_geometria_analitica|Coordinate geometry]]
-**Metodo:** [[method_estremalita|Extremal principle]]
-**Abilita:** [[skill_astrazione|Abstraction / generalisation]]
-**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Geometria|Geometry]]
 
-[[Quesiti/src_kangourou_2024_cadet_finale#qc6|src_kangourou_2024_cadet_finale__QC6]]
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_geometria_analitica|Coordinate geometry]]
+**Metodo:** [[method_estremalita|Extremal principle]], [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_astrazione|Abstraction / generalisation]], [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Geometria|Geometry]]

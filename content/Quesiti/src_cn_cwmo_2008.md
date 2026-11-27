@@ -10,7 +10,7 @@ level: China Western Mathematical Olympiad
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_algebra,topic_aritmetica,method_induzione,method_telescoping,skill_manipolazione_algebrica,skill_riconoscimento_pattern"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_algebra,topic_aritmetica,topic_funzionali,method_induzione,method_telescoping,method_ricorsione,skill_manipolazione_algebrica,skill_riconoscimento_pattern"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -19,10 +19,10 @@ level: China Western Mathematical Olympiad
 
 > A sequence of real numbers $a_1, a_2, \ldots$ is defined by $a_1 \neq 0, 1$, $a_2 = 1 - a_1$, $a_{n+1} = 1 - a_n(a_{n-1} \cdots a_1)$, $n = 1, 2, \ldots$. Prove that for any positive integer $n$, $a_1 a_2 \cdots a_n \left(\frac{1}{a_1} + \frac{1}{a_1 a_2} + \cdots + \frac{1}{a_1 a_2 \cdots a_n}\right) = 1.$ (Posed by Li Shenghong)
 
-**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_induzione|Induzione]], [[method_telescoping|Telescoping]]
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_funzionali|Functional equations / sequences]]
+**Metodo:** [[method_induzione|Induzione]], [[method_telescoping|Telescoping]], [[method_ricorsione|Recursion]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
-**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1WZGXm4nA5dcZd9asSbnzGZkeWDSjqbF6/view)
 
 > [!warning] Estratto da verificare con la fonte.
@@ -37,12 +37,11 @@ level: China Western Mathematical Olympiad
 
 > [!warning] Estratto da verificare con la fonte.
 
-**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_induzione|Induzione]], [[method_telescoping|Telescoping]]
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_funzionali|Equazioni funzionali / successioni]]
+**Metodo:** [[method_induzione|Induzione]], [[method_telescoping|Telescoping]], [[method_ricorsione|Ricorsione]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
-
-[[Quesiti/src_cn_cwmo_2008#q01|src_cn_cwmo_2008__Q01]]
 
 
 
@@ -58,7 +57,7 @@ level: China Western Mathematical Olympiad
 > (2) $\frac{EM}{EN} = \frac{BD}{BP}$.
 > (Posed by Bian Hongping)
 
-![[src_cn_cwmo_2008__q02.png]]
+![[src_cn_cwmo_2008__Q02.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_trigonometria|Trigonometria]]
@@ -76,7 +75,7 @@ level: China Western Mathematical Olympiad
 
 > In $\triangle ABC$, $AB = AC$, il cerchio inscritto $I$ è tangente a $BC$, $CA$ e $AB$ nei punti $D$, $E$ e $F$ rispettivamente. $P$ è un punto sull'arco $\widehat{EF}$ (che non contiene $D$). La retta $BP$ interseca il cerchio $I$ in un altro punto, $Q$, e le rette $EP$, $EQ$ incontrano la retta $BC$ in $M$, $N$ rispettivamente. Dimostrare che (1) $P$, $F$, $B$, $M$ sono concyclici. (2) $\frac{EM}{EN} = \frac{BD}{BP}$. (Proposto da Bian Hongping)
 
-![[src_cn_cwmo_2008__q02.png]]
+![[src_cn_cwmo_2008__Q02.png]]
 
 > [!warning] Estratto da verificare con la fonte.
 
@@ -84,8 +83,6 @@ level: China Western Mathematical Olympiad
 **Metodo:** [[method_trigonometria|Trigonometria]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]]
-
-[[Quesiti/src_cn_cwmo_2008#q02|src_cn_cwmo_2008__Q02]]
 
 
 
@@ -121,11 +118,9 @@ level: China Western Mathematical Olympiad
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 
-[[Quesiti/src_cn_cwmo_2008#q03|src_cn_cwmo_2008__Q03]]
 
 
-
-<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_algebra,topic_disuguaglianze,method_disuguaglianze,method_estremalita,method_casework,skill_manipolazione_algebrica,skill_casework_accurato,skill_stima"></span>
+<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_algebra,topic_disuguaglianze,topic_funzionali,method_disuguaglianze,method_estremalita,method_casework,method_ricorsione,skill_manipolazione_algebrica,skill_casework_accurato,skill_stima"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -137,10 +132,10 @@ level: China Western Mathematical Olympiad
 > (2) When $b < 0$ and $n$ is odd, or when $b > 0$, the sequence $\{x_n\}$ is bounded if and only if $ab^{n-1} \leqslant \frac{(n-1)^{n-1}}{n^n}$.
 > (Posed by Zhu Huawei and Fu Yunhao)
 
-**Topic:** [[topic_algebra|Algebra]], [[topic_disuguaglianze|Disuguaglianze]]
-**Metodo:** [[method_disuguaglianze|Disuguaglianze]], [[method_estremalita|Estremalità]], [[method_casework|Casework]]
+**Topic:** [[topic_algebra|Algebra]], [[topic_disuguaglianze|Disuguaglianze]], [[topic_funzionali|Functional equations / sequences]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze]], [[method_estremalita|Estremalità]], [[method_casework|Casework]], [[method_ricorsione|Recursion]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Casework accurato]], [[skill_stima|Stima]]
-**Area:** [[Algebra e Analisi]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1WZGXm4nA5dcZd9asSbnzGZkeWDSjqbF6/view)
 
 > [!warning] Estratto da verificare con la fonte.
@@ -155,16 +150,15 @@ level: China Western Mathematical Olympiad
 
 > [!warning] Estratto da verificare con la fonte.
 
-**Topic:** [[topic_algebra|Algebra]], [[topic_disuguaglianze|Disuguaglianze]]
-**Metodo:** [[method_disuguaglianze|Disuguaglianze]], [[method_estremalita|Estremalità]], [[method_casework|Casework]]
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_disuguaglianze|Disuguaglianze]], [[topic_funzionali|Equazioni funzionali / successioni]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze]], [[method_estremalita|Estremalità]], [[method_casework|Casework]], [[method_ricorsione|Ricorsione]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Casework accurato]], [[skill_stima|Stima]]
 **Area:** [[Algebra e Analisi]]
 
-[[Quesiti/src_cn_cwmo_2008#q04|src_cn_cwmo_2008__Q04]]
 
 
-
-<span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_combinatoria,method_invarianti,method_simmetria,skill_modellizzazione,skill_astrazione"></span>
+<span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_combinatoria,topic_aritmetica,method_invarianti,method_simmetria,method_congruenze,skill_modellizzazione,skill_astrazione,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -173,10 +167,10 @@ level: China Western Mathematical Olympiad
 
 > Four frogs are positioned at four points on a straight line so that the distances between any two neighboring frogs are all equal to one unit of length. A frog may jump and reach a new point that is the reflection of its original position, by taking any one of the other three frogs as the reference point. Prove that there is no case where the distances between any two neighboring points, where the frogs stay, will equal to $2008$ units of length. (Posed by Liu Shixiong)
 
-**Topic:** [[topic_combinatoria|Combinatoria]]
-**Metodo:** [[method_invarianti|Invarianti]], [[method_simmetria|Simmetria]]
-**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_astrazione|Astrazione]]
-**Area:** [[Combinatoria, Logica e Probabilita]]
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_invarianti|Invarianti]], [[method_simmetria|Simmetria]], [[method_congruenze|Modular arithmetic / congruences]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_astrazione|Astrazione]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1WZGXm4nA5dcZd9asSbnzGZkeWDSjqbF6/view)
 
 > [!warning] Estratto da verificare con la fonte.
@@ -191,12 +185,11 @@ level: China Western Mathematical Olympiad
 
 > [!warning] Estratto da verificare con la fonte.
 
-**Topic:** [[topic_combinatoria|Combinatoria]]
-**Metodo:** [[method_invarianti|Invarianti]], [[method_simmetria|Simmetria]]
-**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_astrazione|Astrazione]]
-**Area:** [[Combinatoria, Logica e Probabilita]]
 
-[[Quesiti/src_cn_cwmo_2008#q05|src_cn_cwmo_2008__Q05]]
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_invarianti|Invarianti]], [[method_simmetria|Simmetria]], [[method_congruenze|Aritmetica modulare / congruenze]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_astrazione|Astrazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 
 
 
@@ -233,8 +226,6 @@ level: China Western Mathematical Olympiad
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]]
 **Area:** [[Algebra e Analisi]]
 
-[[Quesiti/src_cn_cwmo_2008#q06|src_cn_cwmo_2008__Q06]]
-
 
 
 <span class="atom-split" id="q07" data-atom="q07" data-title="Quesito 7" data-tags="topic_combinatoria,topic_aritmetica,method_conteggio,method_estremalita,method_casework,skill_conteggio_sistematico,skill_astrazione"></span>
@@ -270,11 +261,9 @@ level: China Western Mathematical Olympiad
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_astrazione|Astrazione]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 
-[[Quesiti/src_cn_cwmo_2008#q07|src_cn_cwmo_2008__Q07]]
 
 
-
-<span class="atom-split" id="q08" data-atom="q08" data-title="Quesito 8" data-tags="topic_geometria_piana,method_disuguaglianze,method_simmetria,skill_ragionamento_geometrico,skill_stima"></span>
+<span class="atom-split" id="q08" data-atom="q08" data-title="Quesito 8" data-tags="topic_geometria_piana,topic_disuguaglianze,method_disuguaglianze,method_simmetria,skill_ragionamento_geometrico,skill_stima"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -283,10 +272,10 @@ level: China Western Mathematical Olympiad
 
 > Let $P$ be an interior point of a regular $n$-gon $A_1 A_2 \cdots A_n$, the lines $A_i P$ meet the regular $n$-gon $A_1 A_2 \cdots A_n$ at another point $B_i$, where $i = 1, 2, \ldots, n$. Prove that $\sum_{i=1}^{n} PA_i \geqslant \sum_{i=1}^{n} PB_i.$ (Posed by Feng Zhigang)
 
-**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_disuguaglianze|Inequalities]]
 **Metodo:** [[method_disuguaglianze|Disuguaglianze]], [[method_simmetria|Simmetria]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_stima|Stima]]
-**Area:** [[Geometria]]
+**Area:** [[Geometria|Geometry]], [[Algebra e Analisi|Algebra and analysis]]
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1WZGXm4nA5dcZd9asSbnzGZkeWDSjqbF6/view)
 
 > [!warning] Estratto da verificare con la fonte.
@@ -301,9 +290,8 @@ level: China Western Mathematical Olympiad
 
 > [!warning] Estratto da verificare con la fonte.
 
-**Topic:** [[topic_geometria_piana|Geometria piana]]
+
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_disuguaglianze|Disuguaglianze]]
 **Metodo:** [[method_disuguaglianze|Disuguaglianze]], [[method_simmetria|Simmetria]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_stima|Stima]]
-**Area:** [[Geometria]]
-
-[[Quesiti/src_cn_cwmo_2008#q08|src_cn_cwmo_2008__Q08]]
+**Area:** [[Geometria]], [[Algebra e Analisi]]

@@ -10,7 +10,7 @@ level: OBM Nível 2
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_geometria_piana,method_coordinate,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_geometria_piana,topic_geometria_analitica,method_coordinate,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -19,12 +19,12 @@ level: OBM Nível 2
 
 > In the drawing alongside, square $ABCD$ has area $30\,\text{cm}^2$ and square $FHIJ$ has area $20\,\text{cm}^2$. The vertices $A$, $D$, $E$, $H$ and $I$ of the two squares lie on a same straight line. Calculate the area of square $BEFG$.
 
-![[src_obm_2003_n2_f2__q01.png]]
+![[src_obm_2003_n2_f2__Q01.png]]
 
-**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_geometria_analitica|Coordinate geometry]]
 **Metodo:** [[method_coordinate|Coordinate]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
-**Area:** [[Geometria]]
+**Area:** [[Geometria|Geometry]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1sARgZdHvMaU-7zLZ37YU31RP3OKsBQ1b/view)
 
 > [!warning] Estratto/tradotto da verificare con la fonte.
@@ -37,15 +37,16 @@ level: OBM Nível 2
 
 > Nel disegno a lato il quadrato $ABCD$ ha area $30\,\text{cm}^2$ e il quadrato $FHIJ$ ha area $20\,\text{cm}^2$. I vertici $A$, $D$, $E$, $H$ e $I$ dei due quadrati stanno sulla stessa retta. Calcolare l'area del quadrato $BEFG$.
 
-![[src_obm_2003_n2_f2__q01.png]]
+![[src_obm_2003_n2_f2__Q01.png]]
 
 **Argomento:** [[topic_geometria_piana|Geometria piana]]
 
+
+
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_geometria_analitica|Geometria analitica]]
 **Metodo:** [[method_coordinate|Coordinate]]
-
-**Abilità:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
-
-[[Quesiti/src_obm_2003_n2_f2#q01|src_obm_2003_n2_f2__Q01]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
 
 
 
@@ -83,12 +84,11 @@ level: OBM Nível 2
 **Metodo:** [[method_casework|Analisi per casi]], [[method_fattorizzazione|Fattorizzazione]]
 
 **Abilità:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_casework_accurato|Analisi accurata dei casi]]
-
-[[Quesiti/src_obm_2003_n2_f2#q02|src_obm_2003_n2_f2__Q02]]
-
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 
 
-<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_geometria_piana,method_coordinate,skill_ragionamento_geometrico,skill_modellizzazione"></span>
+
+<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_geometria_piana,method_coordinate,method_simmetria,skill_ragionamento_geometrico,skill_modellizzazione"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -97,12 +97,12 @@ level: OBM Nível 2
 
 > A rectangular sheet $ABCD$ of area $300\,\text{cm}^2$ was folded in half and then unfolded (segment $MN$); it was folded again and unfolded (segment $MC$) and finally folded and unfolded along the diagonal $BD$. Calculate the area of the piece of paper bounded by the dotted lines (the dark region in the figure).
 
-![[src_obm_2003_n2_f2__q03.png]]
+![[src_obm_2003_n2_f2__Q03.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
-**Metodo:** [[method_coordinate|Coordinate]]
+**Metodo:** [[method_coordinate|Coordinate]], [[method_simmetria|Using symmetry]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]]
-**Area:** [[Geometria]]
+**Area:** [[Geometria|Geometry]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1sARgZdHvMaU-7zLZ37YU31RP3OKsBQ1b/view)
 
 > [!warning] Estratto/tradotto da verificare con la fonte.
@@ -115,15 +115,16 @@ level: OBM Nível 2
 
 > Un foglio rettangolare $ABCD$ di area $300\,\text{cm}^2$ è stato piegato a metà e poi riaperto (segmento $MN$); piegato di nuovo e riaperto (segmento $MC$) e infine piegato e riaperto lungo la diagonale $BD$. Calcolare l'area del pezzo di carta delimitato dalle linee punteggiate (la regione scura in figura).
 
-![[src_obm_2003_n2_f2__q03.png]]
+![[src_obm_2003_n2_f2__Q03.png]]
 
 **Argomento:** [[topic_geometria_piana|Geometria piana]]
 
-**Metodo:** [[method_coordinate|Coordinate]]
 
-**Abilità:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]]
 
-[[Quesiti/src_obm_2003_n2_f2#q03|src_obm_2003_n2_f2__Q03]]
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_coordinate|Coordinate]], [[method_simmetria|Sfruttamento della simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Geometria]]
 
 
 
@@ -157,12 +158,11 @@ level: OBM Nível 2
 **Metodo:** [[method_casework|Analisi per casi]], [[method_fattorizzazione|Fattorizzazione]]
 
 **Abilità:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
-
-[[Quesiti/src_obm_2003_n2_f2#q04|src_obm_2003_n2_f2__Q04]]
-
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 
 
-<span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_funzionali,topic_algebra,skill_manipolazione_algebrica,skill_astrazione,skill_lettura_attenta"></span>
+
+<span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_funzionali,topic_algebra,method_simmetria,method_fattorizzazione,skill_manipolazione_algebrica,skill_astrazione,skill_lettura_attenta"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -174,8 +174,9 @@ level: OBM Nível 2
 > (b) Find a formula for $f(x)$.
 
 **Topic:** [[topic_funzionali|Equazioni funzionali]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_simmetria|Using symmetry]], [[method_fattorizzazione|Factorisation / algebraic manipulation]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]], [[skill_lettura_attenta|Lettura attenta]]
-**Area:** [[Algebra e Analisi]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1sARgZdHvMaU-7zLZ37YU31RP3OKsBQ1b/view)
 
 > [!warning] Estratto/tradotto da verificare con la fonte.
@@ -192,9 +193,11 @@ level: OBM Nível 2
 
 **Argomento:** [[topic_funzionali|Equazioni funzionali]], [[topic_algebra|Algebra]]
 
-**Abilità:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]], [[skill_lettura_attenta|Lettura attenta]]
 
-[[Quesiti/src_obm_2003_n2_f2#q05|src_obm_2003_n2_f2__Q05]]
+**Topic:** [[topic_funzionali|Equazioni funzionali]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_simmetria|Sfruttamento della simmetria]], [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Algebra e Analisi]]
 
 
 
@@ -232,5 +235,4 @@ level: OBM Nível 2
 **Metodo:** [[method_casework|Analisi per casi]], [[method_fattorizzazione|Fattorizzazione]]
 
 **Abilità:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_conteggio_sistematico|Conteggio sistematico]]
-
-[[Quesiti/src_obm_2003_n2_f2#q06|src_obm_2003_n2_f2__Q06]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]

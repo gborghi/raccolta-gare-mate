@@ -17,7 +17,7 @@ level: kangourou
 
 *Giri di B perche le tre tacche tornino allineate*
 
-![[src_kangourou_2018_cadet_finale__probc1.png]]
+![[src_kangourou_2018_cadet_finale__probC1.png]]
 
 > Un ingranaggio è composto da tre ruote dentate $A$, $B$ e $C$. $A$ ha 16 denti, $B$ ne ha 20 e $C$ ne ha 30. Come suggerisce la figura, $B$ è a contatto sia con $A$ sia con $C$ (cioè i denti di $B$ agganciano sia quelli di $A$ sia quelli di $C$), ma $A$ non è a contatto con $C$. Ogni ruota ha una tacca. In questo istante l'ingranaggio si mette in moto: quanti giri dovrà fare la ruota $B$ prima che tutte e tre le tacche ritornino contemporaneamente, per la prima volta, nella posizione attuale? (vedi figura)
 
@@ -34,7 +34,7 @@ level: kangourou
 
 *Turn B so that the three notches are back in alignment*
 
-![[src_kangourou_2018_cadet_finale__probc1.png]]
+![[src_kangourou_2018_cadet_finale__probC1.png]]
 
 > A gear assembly consists of three gears $A$, $B$, and $C$. $A$ has 16 teeth, $B$ has 20 teeth, and $C$ has 30 teeth. As the figure suggests, $B$ is in contact with both $A$ and $C$ (that is, the teeth of $B$ mesh with both those of $A$ and those of $C$), but $A$ is not in contact with $C$. Each gear has a notch. At this moment, the gear assembly starts moving: how many revolutions must gear $B$ make before all three notches return simultaneously to their current position for the first time? (see figure)
 
@@ -43,11 +43,9 @@ level: kangourou
 **Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
-[[Quesiti/src_kangourou_2018_cadet_finale#qc1|src_kangourou_2018_cadet_finale__QC1]]
 
 
-
-<span class="atom-split" id="qc2" data-atom="qc2" data-title="Quesito C2" data-tags="topic_aritmetica,skill_astrazione"></span>
+<span class="atom-split" id="qc2" data-atom="qc2" data-title="Quesito C2" data-tags="topic_aritmetica,method_congruenze,skill_astrazione"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -57,6 +55,7 @@ level: kangourou
 > Eugenio fa il magazziniere. Sa che domani alcuni coltivatori gli porteranno ciascuno lo stesso numero di cassette di mele e che lui dovrà ripartire le cassette su 7 furgoni, in modo che tutti i furgoni viaggino con lo stesso numero di cassette. Il numero dei coltivatori coincide con il numero di cassette che ciascun coltivatore gli porterà. Eugenio sa che se, dopo che avrà distribuito il maggior numero possibile di cassette sui 7 furgoni, avanzerà qualche cassetta, potrà tenerla per sé. Quante cassette potrebbe capitargli di tenere per sé, al massimo?
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]]
 **Abilita:** [[skill_astrazione|Astrazione / generalizzazione]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 4
@@ -70,15 +69,15 @@ level: kangourou
 
 > Eugenio works as a warehouseman. He knows that tomorrow some farmers will each bring him the same number of crates of apples, and that he will have to distribute the crates across 7 vans so that all the vans travel with the same number of crates. The number of farmers is the same as the number of crates each farmer will bring him. Eugenio knows that if, after he has distributed as many crates as possible across the 7 vans, some crates are left over, he can keep one for himself. At most, how many crates might he end up keeping for himself?
 
+
 **Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]]
 **Abilita:** [[skill_astrazione|Abstraction / generalisation]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
-[[Quesiti/src_kangourou_2018_cadet_finale#qc2|src_kangourou_2018_cadet_finale__QC2]]
 
 
-
-<span class="atom-split" id="qc3" data-atom="qc3" data-title="Quesito C3" data-tags="topic_combinatoria,topic_aritmetica,method_conteggio,skill_conteggio_sistematico"></span>
+<span class="atom-split" id="qc3" data-atom="qc3" data-title="Quesito C3" data-tags="topic_combinatoria,topic_aritmetica,method_conteggio,method_simmetria,skill_conteggio_sistematico"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -88,9 +87,9 @@ level: kangourou
 > A Kanglandia circolano esattamente un milione di auto. Le loro targhe, tutte diverse fra loro, hanno sei cifre: i numeri sono dunque compresi fra $000000$ e $999999$. Per ogni auto si sommano le cifre della targa e si ripartiscono le auto in gruppi, in modo che tutte le auto di uno stesso gruppo forniscano la stessa somma e gruppi diversi siano relativi a somme diverse. Quante auto hanno complessivamente i sei gruppi meno numerosi?
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_conteggio|Conteggio combinatorio]]
+**Metodo:** [[method_conteggio|Conteggio combinatorio]], [[method_simmetria|Sfruttamento della simmetria]]
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
-**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 56
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1awWRc26fxuhAuA2B9ihEhXsIlMGONtXu/view)
 
@@ -102,16 +101,15 @@ level: kangourou
 
 > In Kanglandia, exactly one million cars are in circulation. Their license plates, all different from one another, have six digits: the numbers therefore lie between $000000$ and $999999$. For each car, the digits on its license plate are added together, and the cars are divided into groups so that all the cars in the same group yield the same sum and different groups correspond to different sums. How many cars are there in total in the six smallest groups?
 
+
 **Topic:** [[topic_combinatoria|Combinatorics]], [[topic_aritmetica|Arithmetic / Number theory]]
-**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Metodo:** [[method_conteggio|Combinatorial counting]], [[method_simmetria|Using symmetry]]
 **Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
-**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
-
-[[Quesiti/src_kangourou_2018_cadet_finale#qc3|src_kangourou_2018_cadet_finale__QC3]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
 
 
-<span class="atom-split" id="qc4" data-atom="qc4" data-title="Quesito C4" data-tags="topic_probabilita,method_casework,skill_conteggio_sistematico"></span>
+<span class="atom-split" id="qc4" data-atom="qc4" data-title="Quesito C4" data-tags="topic_probabilita,method_casework,skill_conteggio_sistematico,skill_modellizzazione"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -122,7 +120,7 @@ level: kangourou
 
 **Topic:** [[topic_probabilita|Probabilita e statistica]]
 **Metodo:** [[method_casework|Analisi per casi]]
-**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 7 e 1
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1awWRc26fxuhAuA2B9ihEhXsIlMGONtXu/view)
@@ -135,16 +133,15 @@ level: kangourou
 
 > Antonia and Luca are flipping a fair coin to decide who will get 8 euros. They agree that the money will go to the first of them to have 6 flips in their favor. However, when the score is 5 for Antonia and 3 for Luca, they are forced to stop playing and discuss how to split the 8 euros (which neither has won so far). What is a fair way to split them (that is, a way that takes into account the probability of winning each of them has at the time the game is interrupted)?
 
+
 **Topic:** [[topic_probabilita|Probability and statistics]]
 **Metodo:** [[method_casework|Case analysis]]
-**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]], [[skill_modellizzazione|Modelling / translating the text]]
 **Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
-[[Quesiti/src_kangourou_2018_cadet_finale#qc4|src_kangourou_2018_cadet_finale__QC4]]
 
 
-
-<span class="atom-split" id="qc5" data-atom="qc5" data-title="Quesito C5" data-tags="topic_probabilita,topic_combinatoria,skill_manipolazione_algebrica"></span>
+<span class="atom-split" id="qc5" data-atom="qc5" data-title="Quesito C5" data-tags="topic_probabilita,topic_combinatoria,method_conteggio,method_fattorizzazione,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -154,6 +151,7 @@ level: kangourou
 > Da un mazzo standard di 52 carte, Chiara ha scartato alcune carte, assicurandosi che nel mazzo residuo restassero tutti e quattro gli assi. Ora estrae quattro carte a caso da questo mazzo ridotto. Se la probabilità di estrarre esattamente i quattro assi è $\dfrac{1}{1001}$, quante carte ha buttato via?
 
 **Topic:** [[topic_probabilita|Probabilita e statistica]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_conteggio|Conteggio combinatorio]], [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 38
@@ -167,11 +165,11 @@ level: kangourou
 
 > From a standard 52-card deck, Chiara discarded some cards, making sure that all four aces remained in the remaining deck. She now draws four cards at random from this reduced deck. If the probability of drawing exactly the four aces is $\dfrac{1}{1001}$, how many cards did she throw away?
 
+
 **Topic:** [[topic_probabilita|Probability and statistics]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_conteggio|Combinatorial counting]], [[method_fattorizzazione|Factorisation / algebraic manipulation]]
 **Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
 **Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
-
-[[Quesiti/src_kangourou_2018_cadet_finale#qc5|src_kangourou_2018_cadet_finale__QC5]]
 
 
 
@@ -182,7 +180,7 @@ level: kangourou
 
 *Area B in funzione di A nel pentagono regolare*
 
-![[src_kangourou_2018_cadet_finale__probc6.png]]
+![[src_kangourou_2018_cadet_finale__probC6.png]]
 
 ```tikz
 \begin{document}
@@ -226,7 +224,7 @@ level: kangourou
 
 *Area B as a function of A in the regular pentagon*
 
-![[src_kangourou_2018_cadet_finale__probc6.png]]
+![[src_kangourou_2018_cadet_finale__probC6.png]]
 
 ```tikz
 \begin{document}
@@ -261,5 +259,3 @@ level: kangourou
 **Metodo:** [[method_simmetria|Using symmetry]]
 **Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
 **Area:** [[Geometria|Geometry]]
-
-[[Quesiti/src_kangourou_2018_cadet_finale#qc6|src_kangourou_2018_cadet_finale__QC6]]

@@ -19,7 +19,7 @@ level: RMO
 
 > Let $AC$ be a line segment in the plane and $B$ a point between $A$ and $C$. Construct isosceles triangles $PAB$ and $QBC$ on one side of the segment $AC$ such that $\angle APB = \angle BQC = 120^\circ$, and an isosceles triangle $RAC$ on the other side of $AC$ such that $\angle ARC = 120^\circ$. Show that $PQR$ is an equilateral triangle.
 
-![[src_rmo_2000__q01.png]]
+![[src_rmo_2000__Q01.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_simmetria|Simmetria]]
@@ -35,17 +35,16 @@ level: RMO
 
 > Sia $AC$ un segmento del piano e $B$ un punto fra $A$ e $C$. Si costruiscano i triangoli isosceli $PAB$ e $QBC$ da una parte del segmento $AC$ in modo che $\angle APB = \angle BQC = 120^\circ$, e un triangolo isoscele $RAC$ dall'altra parte di $AC$ in modo che $\angle ARC = 120^\circ$. Dimostrare che $PQR$ è un triangolo equilatero.
 
-![[src_rmo_2000__q01.png]]
+![[src_rmo_2000__Q01.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_simmetria|Simmetria]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
-
-[[Quesiti/src_rmo_2000#q01|src_rmo_2000__Q01]]
-
+**Area:** [[Geometria]]
 
 
-<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_algebra,topic_aritmetica,method_fattorizzazione,method_casework,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
+
+<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_algebra,topic_aritmetica,method_fattorizzazione,method_casework,skill_manipolazione_algebrica,skill_lettura_attenta,skill_stima"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -56,8 +55,8 @@ level: RMO
 
 **Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_casework|Casework]]
-**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
-**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_stima|Estimation and approximation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/12rUdRsFDdXuqpCuHRpFpmWSAWCuy3oU3/view)
 
 
@@ -68,15 +67,15 @@ level: RMO
 
 > Risolvere l'equazione $y^3 = x^3 + 8x^2 - 6x + 8$ negli interi positivi $x$ e $y$.
 
+
 **Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica e teoria dei numeri]]
 **Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_casework|Analisi per casi]]
-**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
-
-[[Quesiti/src_rmo_2000#q02|src_rmo_2000__Q02]]
-
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_stima|Stima e approssimazione]]
+**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 
 
-<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_algebra,topic_disuguaglianze,method_telescoping,method_disuguaglianze,skill_manipolazione_algebrica,skill_stima,skill_ragionamento_geometrico"></span>
+
+<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_algebra,topic_disuguaglianze,topic_funzionali,method_telescoping,method_disuguaglianze,skill_manipolazione_algebrica,skill_stima,skill_ragionamento_geometrico"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -88,10 +87,10 @@ level: RMO
 > Show that for all $k$ the following inequality is satisfied:
 > $$\frac{x_1}{1} + \frac{x_2}{2} + \frac{x_3}{3} + \cdots + \frac{x_k}{k} < 3.$$
 
-**Topic:** [[topic_algebra|Algebra]], [[topic_disuguaglianze|Disuguaglianze]]
+**Topic:** [[topic_algebra|Algebra]], [[topic_disuguaglianze|Disuguaglianze]], [[topic_funzionali|Functional equations / sequences]]
 **Metodo:** [[method_telescoping|Telescoping]], [[method_disuguaglianze|Disuguaglianze]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
-**Area:** [[Algebra e Analisi]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/12rUdRsFDdXuqpCuHRpFpmWSAWCuy3oU3/view)
 
 
@@ -108,11 +107,11 @@ level: RMO
 >
 > $$\frac{x_1}{1} + \frac{x_2}{2} + \frac{x_3}{3} + \cdots + \frac{x_k}{k} < 3.$$
 
-**Topic:** [[topic_algebra|Algebra]], [[topic_disuguaglianze|Disuguaglianze]]
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_disuguaglianze|Disuguaglianze]], [[topic_funzionali|Equazioni funzionali / successioni]]
 **Metodo:** [[method_telescoping|Somme telescopiche]], [[method_disuguaglianze|Disuguaglianze]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
-
-[[Quesiti/src_rmo_2000#q03|src_rmo_2000__Q03]]
+**Area:** [[Algebra e Analisi]]
 
 
 
@@ -142,8 +141,7 @@ level: RMO
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica e teoria dei numeri]]
 **Metodo:** [[method_conteggio|Conteggio]], [[method_casework|Analisi per casi]]
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
-
-[[Quesiti/src_rmo_2000#q04|src_rmo_2000__Q04]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 
 
 
@@ -156,7 +154,7 @@ level: RMO
 
 > The internal bisector of angle $A$ in a triangle $ABC$ with $AC > AB$, meets the circumcircle $\Gamma$ of the triangle in $D$. Join $D$ to the centre $O$ of the circle $\Gamma$ and suppose $DO$ meets $AC$ in $E$, possibly when extended. Show that $BE$ is perpendicular to $AD$, show that $AO$ is parallel to $BD$.
 
-![[src_rmo_2000__q05.png]]
+![[src_rmo_2000__Q05.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_simmetria|Simmetria]]
@@ -172,13 +170,12 @@ level: RMO
 
 > La bisettrice interna dell'angolo $A$ in un triangolo $ABC$ con $AC > AB$ incontra la circonferenza circoscritta $\Gamma$ del triangolo in $D$. Si congiunga $D$ con il centro $O$ della circonferenza $\Gamma$ e si supponga che $DO$ incontri $AC$ in $E$, eventualmente prolungata. Dimostrare che $BE$ è perpendicolare a $AD$, e dimostrare che $AO$ è parallela a $BD$.
 
-![[src_rmo_2000__q05.png]]
+![[src_rmo_2000__Q05.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_simmetria|Simmetria]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
-
-[[Quesiti/src_rmo_2000#q05|src_rmo_2000__Q05]]
+**Area:** [[Geometria]]
 
 
 
@@ -212,8 +209,7 @@ level: RMO
 **Topic:** [[topic_aritmetica|Aritmetica e teoria dei numeri]], [[topic_algebra|Algebra]]
 **Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_casework|Analisi per casi]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_conteggio_sistematico|Conteggio sistematico]]
-
-[[Quesiti/src_rmo_2000#q06|src_rmo_2000__Q06]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 
 
 
@@ -243,5 +239,4 @@ level: RMO
 **Topic:** [[topic_algebra|Algebra]]
 **Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_disuguaglianze|Disuguaglianze]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di schemi]], [[skill_lettura_attenta|Lettura attenta]]
-
-[[Quesiti/src_rmo_2000#q07|src_rmo_2000__Q07]]
+**Area:** [[Algebra e Analisi]]

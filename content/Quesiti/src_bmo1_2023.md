@@ -38,11 +38,9 @@ level: BMO Round 1
 **Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Aritmetica e teoria dei numeri]]
 
-[[Quesiti/src_bmo1_2023#q01|src_bmo1_2023__Q01]]
 
 
-
-<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_aritmetica,topic_algebra,method_casework,method_ricorsione,method_induzione,skill_riconoscimento_pattern,skill_manipolazione_algebrica,skill_conteggio_sistematico"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_aritmetica,topic_algebra,topic_funzionali,method_casework,method_ricorsione,method_induzione,method_fattorizzazione,skill_riconoscimento_pattern,skill_manipolazione_algebrica,skill_conteggio_sistematico"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -53,10 +51,10 @@ level: BMO Round 1
 > $$a_{2n+1} = a_{2n} a_{2n-1}, \quad a_{2n+2} = a_{2n+1} + 4.$$
 > Exactly $m$ of the numbers $a_1, a_2, a_3, \ldots, a_{2022}$ are square numbers. What is the maximum possible value of $m$? Note that $m$ depends on $a$ and $b$, so the maximum is over all possible choices of $a$ and $b$.
 
-**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
-**Metodo:** [[method_casework|Casework]], [[method_ricorsione|Ricorsione]], [[method_induzione|Induzione]]
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]], [[topic_funzionali|Functional equations / sequences]]
+**Metodo:** [[method_casework|Casework]], [[method_ricorsione|Ricorsione]], [[method_induzione|Induzione]], [[method_fattorizzazione|Factorisation / algebraic manipulation]]
 **Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]]
-**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Algebra e Analisi|Algebra and analysis]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1njK1RhTg8-hDVoAcpVf4UE2i63p0CPWw/view)
 
 
@@ -69,12 +67,11 @@ level: BMO Round 1
 > $$a_{2n+1} = a_{2n} a_{2n-1}, \quad a_{2n+2} = a_{2n+1} + 4.$$
 > Esattamente $m$ fra i numeri $a_1, a_2, a_3, \ldots, a_{2022}$ sono quadrati. Qual è il massimo valore possibile di $m$? Si noti che $m$ dipende da $a$ e da $b$, così il massimo è su tutte le scelte possibili di $a$ e di $b$.
 
-**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
-**Metodo:** [[method_casework|Analisi per casi]], [[method_ricorsione|Ricorsione]], [[method_induzione|Induzione]]
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]], [[topic_funzionali|Equazioni funzionali / successioni]]
+**Metodo:** [[method_casework|Analisi per casi]], [[method_ricorsione|Ricorsione]], [[method_induzione|Induzione]], [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
 **Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Aritmetica e teoria dei numeri]], [[Algebra e Analisi|Algebra e analisi]]
-
-[[Quesiti/src_bmo1_2023#q02|src_bmo1_2023__Q02]]
 
 
 
@@ -106,11 +103,9 @@ level: BMO Round 1
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Geometria|Geometria]]
 
-[[Quesiti/src_bmo1_2023#q03|src_bmo1_2023__Q03]]
 
 
-
-<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_combinatoria,method_invarianti,method_casework,method_estremalita,skill_ragionamento_geometrico,skill_modellizzazione,skill_conteggio_sistematico"></span>
+<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_combinatoria,topic_logica,method_invarianti,method_casework,method_estremalita,method_colorazione,skill_ragionamento_geometrico,skill_modellizzazione,skill_conteggio_sistematico"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -119,10 +114,10 @@ level: BMO Round 1
 
 > Alex and Katy play a game on an $8 \times 8$ square grid made of $64$ unit cells. They take it in turns to play, with Alex going first. On Alex's turn, he writes 'A' in an empty cell. On Katy's turn, she writes 'K' in two empty cells that share an edge. The game ends when one player cannot move. Katy's score is the number of Ks on the grid at the end of the game. What is the highest score Katy can be sure to get if she plays well, no matter what Alex does?
 
-**Topic:** [[topic_combinatoria|Combinatoria]]
-**Metodo:** [[method_invarianti|Invarianti]], [[method_casework|Casework]], [[method_estremalita|Estremalità]]
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_logica|Logic, games and strategies]]
+**Metodo:** [[method_invarianti|Invarianti]], [[method_casework|Casework]], [[method_estremalita|Estremalità]], [[method_colorazione|Colouring / parity]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]], [[skill_conteggio_sistematico|Conteggio sistematico]]
-**Area:** [[Combinatoria, Logica e Probabilita]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1njK1RhTg8-hDVoAcpVf4UE2i63p0CPWw/view)
 
 
@@ -133,12 +128,11 @@ level: BMO Round 1
 
 > Alex e Katy giocano su una griglia quadrata $8 \times 8$ fatta di $64$ celle unitarie. Giocano a turno, e Alex comincia. Al turno di Alex, lui scrive «A» in una cella vuota. Al turno di Katy, lei scrive «K» in due celle vuote che hanno un lato in comune. La partita finisce quando un giocatore non può muovere. Il punteggio di Katy è il numero di K sulla griglia alla fine. Qual è il punteggio più alto che Katy può garantirsi se gioca bene, qualunque cosa faccia Alex?
 
-**Topic:** [[topic_combinatoria|Combinatoria]]
-**Metodo:** [[method_invarianti|Invarianti]], [[method_casework|Analisi per casi]], [[method_estremalita|Estremalità]]
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_logica|Logica, giochi, strategie]]
+**Metodo:** [[method_invarianti|Invarianti]], [[method_casework|Analisi per casi]], [[method_estremalita|Estremalità]], [[method_colorazione|Colorazione / parita]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]], [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Combinatoria, Logica e Probabilita|Combinatoria, logica e probabilità]]
-
-[[Quesiti/src_bmo1_2023#q04|src_bmo1_2023__Q04]]
 
 
 
@@ -174,11 +168,9 @@ level: BMO Round 1
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_astrazione|Astrazione]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Aritmetica e teoria dei numeri]], [[Combinatoria, Logica e Probabilita|Combinatoria, logica e probabilità]]
 
-[[Quesiti/src_bmo1_2023#q05|src_bmo1_2023__Q05]]
 
 
-
-<span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_geometria_piana,topic_combinatoria,method_invarianti,method_casework,method_simmetria,skill_ragionamento_geometrico,skill_modellizzazione,skill_astrazione,skill_riconoscimento_pattern"></span>
+<span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_geometria_piana,topic_combinatoria,method_invarianti,method_casework,method_simmetria,method_cassetti,skill_ragionamento_geometrico,skill_modellizzazione,skill_astrazione,skill_riconoscimento_pattern"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -188,9 +180,9 @@ level: BMO Round 1
 > A circle $\Gamma$ has radius $1$. A line $l$ is such that the perpendicular distance from $l$ to the centre of $\Gamma$ is strictly between $0$ and $2$. A frog chooses a point on $\Gamma$ whose perpendicular distance from $l$ is less than $1$ and sits on that point. It then performs a sequence of jumps. Each jump has length $1$ and if a jump starts on $\Gamma$ it must end on $l$ and vice versa. Prove that after some finite number of jumps the frog returns to a point it has been on before.
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_combinatoria|Combinatoria]]
-**Metodo:** [[method_invarianti|Invarianti]], [[method_casework|Casework]], [[method_simmetria|Simmetria]]
+**Metodo:** [[method_invarianti|Invarianti]], [[method_casework|Casework]], [[method_simmetria|Simmetria]], [[method_cassetti|Pigeonhole principle]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]], [[skill_astrazione|Astrazione]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
-**Area:** [[Geometria]], [[Combinatoria, Logica e Probabilita]]
+**Area:** [[Geometria|Geometry]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1njK1RhTg8-hDVoAcpVf4UE2i63p0CPWw/view)
 
 
@@ -201,9 +193,8 @@ level: BMO Round 1
 
 > Una circonferenza $\Gamma$ ha raggio $1$. Una retta $l$ è tale che la distanza perpendicolare da $l$ al centro di $\Gamma$ è strettamente compresa fra $0$ e $2$. Una rana sceglie un punto di $\Gamma$ la cui distanza perpendicolare da $l$ è minore di $1$ e vi si siede. Poi fa una successione di salti. Ogni salto ha lunghezza $1$ e, se un salto comincia su $\Gamma$, deve finire su $l$, e viceversa. Dimostrare che dopo un numero finito di salti la rana torna su un punto su cui è già stata.
 
+
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_combinatoria|Combinatoria]]
-**Metodo:** [[method_invarianti|Invarianti]], [[method_casework|Analisi per casi]], [[method_simmetria|Simmetria]]
+**Metodo:** [[method_invarianti|Invarianti]], [[method_casework|Analisi per casi]], [[method_simmetria|Simmetria]], [[method_cassetti|Principio dei cassetti]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]], [[skill_astrazione|Astrazione]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Geometria|Geometria]], [[Combinatoria, Logica e Probabilita|Combinatoria, logica e probabilità]]
-
-[[Quesiti/src_bmo1_2023#q06|src_bmo1_2023__Q06]]

@@ -21,7 +21,7 @@ level: OBM Nível 2
 > 
 > (A) $\dfrac{3}{5}$ \quad (B) $\dfrac{4}{5}$ \quad (C) $1$ \quad (D) $\dfrac{5}{4}$ \quad (E) $\dfrac{5}{3}$
 
-![[src_obm_2008_n2_f1__q01.png]]
+![[src_obm_2008_n2_f1__Q01.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
@@ -39,17 +39,15 @@ level: OBM Nível 2
 >
 > (A) $\dfrac{3}{5}$ \quad (B) $\dfrac{4}{5}$ \quad (C) $1$ \quad (D) $\dfrac{5}{4}$ \quad (E) $\dfrac{5}{3}$
 
-![[src_obm_2008_n2_f1__q01.png]]
+![[src_obm_2008_n2_f1__Q01.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]]
 
-[[Quesiti/src_obm_2008_n2_f1#q01|src_obm_2008_n2_f1__Q01]]
 
 
-
-<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_aritmetica,skill_stima"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_aritmetica,method_fattorizzazione,skill_stima,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -61,8 +59,9 @@ level: OBM Nível 2
 > (A) $1$ \quad (B) $2$ \quad (C) $3$ \quad (D) $4$ \quad (E) $5$
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Abilita:** [[skill_stima|Stima]]
-**Area:** [[Aritmetica e Teoria dei Numeri]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_stima|Stima]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Risposta:** C
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1IGK7LGVAKxlscEUb7h9lhQKIGb7_R1RC/view)
 
@@ -76,11 +75,11 @@ level: OBM Nível 2
 > $$3\sqrt{11},\ 4\sqrt{7},\ 5\sqrt{5},\ 6\sqrt{3},\ 7\sqrt{2}$$
 > (A) $1$ \quad (B) $2$ \quad (C) $3$ \quad (D) $4$ \quad (E) $5$
 
-**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Abilita:** [[skill_stima|Stima]]
-**Area:** [[Aritmetica e Teoria dei Numeri]]
 
-[[Quesiti/src_obm_2008_n2_f1#q02|src_obm_2008_n2_f1__Q02]]
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
+**Abilita:** [[skill_stima|Stima]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
 
 
 
@@ -115,11 +114,9 @@ level: OBM Nível 2
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 
-[[Quesiti/src_obm_2008_n2_f1#q03|src_obm_2008_n2_f1__Q03]]
 
 
-
-<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_aritmetica,topic_insiemi_funzioni,method_inclusione_esclusione,skill_modellizzazione"></span>
+<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_aritmetica,topic_insiemi_funzioni,method_inclusione_esclusione,skill_modellizzazione,skill_lettura_attenta"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -131,8 +128,8 @@ level: OBM Nível 2
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_insiemi_funzioni|Insiemi e funzioni]]
 **Metodo:** [[method_inclusione_esclusione|Inclusione-esclusione]]
-**Abilita:** [[skill_modellizzazione|Modellizzazione]]
-**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_lettura_attenta|Careful reading of the text]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Algebra e Analisi|Algebra and analysis]]
 **Risposta:** D
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1IGK7LGVAKxlscEUb7h9lhQKIGb7_R1RC/view)
 
@@ -145,12 +142,11 @@ level: OBM Nível 2
 > Una grande azienda ha $84$ dipendenti, tutti i quali parlano almeno una delle due lingue, il portoghese e l'inglese. Inoltre, $20\%$ di coloro che parlano portoghese parlano anche inglese, e $80\%$ di coloro che parlano inglese parlano anche portoghese. Quanti dipendenti parlano entrambe le lingue?
 > (A) $12$ \quad (B) $14$ \quad (C) $15$ \quad (D) $16$ \quad (E) $18$
 
+
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_insiemi_funzioni|Insiemi e funzioni]]
 **Metodo:** [[method_inclusione_esclusione|Inclusione-esclusione]]
-**Abilita:** [[skill_modellizzazione|Modellizzazione]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_lettura_attenta|Lettura attenta del testo]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
-
-[[Quesiti/src_obm_2008_n2_f1#q04|src_obm_2008_n2_f1__Q04]]
 
 
 
@@ -184,8 +180,6 @@ level: OBM Nível 2
 **Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_modellizzazione|Modellizzazione]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 
-[[Quesiti/src_obm_2008_n2_f1#q05|src_obm_2008_n2_f1__Q05]]
-
 
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_aritmetica,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
@@ -216,11 +210,9 @@ level: OBM Nível 2
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 
-[[Quesiti/src_obm_2008_n2_f1#q06|src_obm_2008_n2_f1__Q06]]
 
 
-
-<span class="atom-split" id="q07" data-atom="q07" data-title="Quesito 7" data-tags="topic_combinatoria,topic_geometria_piana,method_conteggio,method_casework,skill_conteggio_sistematico"></span>
+<span class="atom-split" id="q07" data-atom="q07" data-title="Quesito 7" data-tags="topic_combinatoria,topic_geometria_piana,method_conteggio,method_casework,skill_conteggio_sistematico,skill_ragionamento_geometrico"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -230,12 +222,12 @@ level: OBM Nível 2
 > How many squares have as vertices the points of the dotted grid (reticulado) shown beside?
 > (A) $6$ \quad (B) $7$ \quad (C) $8$ \quad (D) $9$ \quad (E) $10$
 
-![[src_obm_2008_n2_f1__q07.png]]
+![[src_obm_2008_n2_f1__Q07.png]]
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_conteggio|Conteggio]], [[method_casework|Casework]]
-**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
-**Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Geometria|Geometry]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1IGK7LGVAKxlscEUb7h9lhQKIGb7_R1RC/view)
 
 
@@ -247,18 +239,17 @@ level: OBM Nível 2
 > Quanti quadrati hanno come vertici i punti della griglia a puntini mostrata accanto?
 > (A) $6$ \quad (B) $7$ \quad (C) $8$ \quad (D) $9$ \quad (E) $10$
 
-![[src_obm_2008_n2_f1__q07.png]]
+![[src_obm_2008_n2_f1__Q07.png]]
+
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_conteggio|Conteggio]], [[method_casework|Casework]]
-**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 
-[[Quesiti/src_obm_2008_n2_f1#q07|src_obm_2008_n2_f1__Q07]]
 
 
-
-<span class="atom-split" id="q08" data-atom="q08" data-title="Quesito 8" data-tags="topic_aritmetica,topic_combinatoria,method_congruenze,method_casework,skill_conteggio_sistematico"></span>
+<span class="atom-split" id="q08" data-atom="q08" data-title="Quesito 8" data-tags="topic_aritmetica,topic_combinatoria,method_congruenze,method_casework,skill_conteggio_sistematico,skill_lettura_attenta"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -270,8 +261,8 @@ level: OBM Nível 2
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_congruenze|Congruenze]], [[method_casework|Casework]]
-**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
-**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Careful reading of the text]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1IGK7LGVAKxlscEUb7h9lhQKIGb7_R1RC/view)
 
 
@@ -283,16 +274,15 @@ level: OBM Nível 2
 > La prima fase dell'OBM si svolge il 14 giugno, un sabato dell'anno bisestile $2008$. Da ora in poi, tra quanti anni il 14 giugno sarà di nuovo un sabato?
 > (A) $4$ \quad (B) $5$ \quad (C) $6$ \quad (D) $7$ \quad (E) $8$
 
+
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_congruenze|Congruenze]], [[method_casework|Casework]]
-**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta del testo]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 
-[[Quesiti/src_obm_2008_n2_f1#q08|src_obm_2008_n2_f1__Q08]]
 
 
-
-<span class="atom-split" id="q09" data-atom="q09" data-title="Quesito 9" data-tags="topic_aritmetica,method_casework,skill_riconoscimento_pattern,skill_casework_accurato"></span>
+<span class="atom-split" id="q09" data-atom="q09" data-title="Quesito 9" data-tags="topic_aritmetica,method_casework,method_fattorizzazione,skill_riconoscimento_pattern,skill_casework_accurato,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -303,9 +293,9 @@ level: OBM Nível 2
 > (A) $19$ \quad (B) $17$ \quad (C) $37$ \quad (D) $29$ \quad (E) $59$
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_casework|Casework]]
-**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_casework_accurato|Casework accurato]]
-**Area:** [[Aritmetica e Teoria dei Numeri]]
+**Metodo:** [[method_casework|Casework]], [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_casework_accurato|Casework accurato]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1IGK7LGVAKxlscEUb7h9lhQKIGb7_R1RC/view)
 
 
@@ -317,16 +307,15 @@ level: OBM Nível 2
 > Le cifre $a$, $b$ e $c$ sono tali che i numeri di due cifre $\overline{aa}$, $\overline{bc}$ e $\overline{cb}$ sono numeri primi, e $\overline{aa}+\overline{bc}+\overline{cb}=\overline{aaa}$. Se $c<a$, allora $\overline{bc}$ è uguale a:
 > (A) $19$ \quad (B) $17$ \quad (C) $37$ \quad (D) $29$ \quad (E) $59$
 
+
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_casework|Casework]]
-**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_casework_accurato|Casework accurato]]
+**Metodo:** [[method_casework|Casework]], [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_casework_accurato|Casework accurato]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 
-[[Quesiti/src_obm_2008_n2_f1#q09|src_obm_2008_n2_f1__Q09]]
 
 
-
-<span class="atom-split" id="q10" data-atom="q10" data-title="Quesito 10" data-tags="topic_algebra,topic_aritmetica,method_fattorizzazione,method_casework,skill_manipolazione_algebrica"></span>
+<span class="atom-split" id="q10" data-atom="q10" data-title="Quesito 10" data-tags="topic_algebra,topic_aritmetica,method_fattorizzazione,method_casework,skill_manipolazione_algebrica,skill_riconoscimento_pattern"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -344,8 +333,8 @@ level: OBM Nível 2
 
 **Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_casework|Casework]]
-**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
-**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1IGK7LGVAKxlscEUb7h9lhQKIGb7_R1RC/view)
 
 
@@ -363,16 +352,15 @@ level: OBM Nível 2
 > Quanto vale $a+b+c+d+e$?
 > (A) $9$ \quad (B) $16$ \quad (C) $25$ \quad (D) $36$ \quad (E) $49$
 
+
 **Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_casework|Casework]]
-**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 
-[[Quesiti/src_obm_2008_n2_f1#q10|src_obm_2008_n2_f1__Q10]]
 
 
-
-<span class="atom-split" id="q11" data-atom="q11" data-title="Quesito 11" data-tags="topic_geometria_piana,skill_ragionamento_geometrico"></span>
+<span class="atom-split" id="q11" data-atom="q11" data-title="Quesito 11" data-tags="topic_geometria_piana,method_simmetria,skill_ragionamento_geometrico"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -385,8 +373,9 @@ level: OBM Nível 2
 > (A) $5$ \quad (B) $6$ \quad (C) $7$ \quad (D) $8$ \quad (E) $9$
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_simmetria|Using symmetry]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
-**Area:** [[Geometria]]
+**Area:** [[Geometria|Geometry]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1IGK7LGVAKxlscEUb7h9lhQKIGb7_R1RC/view)
 
 
@@ -400,15 +389,15 @@ level: OBM Nível 2
 > \textit{Osservazione:} Il triangolo ortico di un triangolo è il triangolo i cui vertici sono gli incroci delle altezze del triangolo con i lati rispettivi. Si può dimostrare che le altezze di un qualsiasi triangolo sono sempre le bisettrici del suo triangolo ortico (essendo l'ortocentro il punto di incontro delle altezze del triangolo originale).
 > (A) $5$ \quad (B) $6$ \quad (C) $7$ \quad (D) $8$ \quad (E) $9$
 
+
 **Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_simmetria|Sfruttamento della simmetria]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]]
 
-[[Quesiti/src_obm_2008_n2_f1#q11|src_obm_2008_n2_f1__Q11]]
 
 
-
-<span class="atom-split" id="q12" data-atom="q12" data-title="Quesito 12" data-tags="topic_aritmetica,topic_combinatoria,method_fattorizzazione,method_casework,skill_conteggio_sistematico"></span>
+<span class="atom-split" id="q12" data-atom="q12" data-title="Quesito 12" data-tags="topic_aritmetica,topic_combinatoria,method_fattorizzazione,method_casework,skill_conteggio_sistematico,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -420,8 +409,8 @@ level: OBM Nível 2
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_casework|Casework]]
-**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
-**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1IGK7LGVAKxlscEUb7h9lhQKIGb7_R1RC/view)
 
 
@@ -433,12 +422,11 @@ level: OBM Nível 2
 > Quanti numeri interi positivi minori di $500$ hanno esattamente $15$ divisori interi positivi distinti?
 > (A) $0$ \quad (B) $1$ \quad (C) $2$ \quad (D) $3$ \quad (E) $4$
 
+
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_casework|Casework]]
-**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
-
-[[Quesiti/src_obm_2008_n2_f1#q12|src_obm_2008_n2_f1__Q12]]
 
 
 
@@ -472,11 +460,9 @@ level: OBM Nível 2
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 
-[[Quesiti/src_obm_2008_n2_f1#q13|src_obm_2008_n2_f1__Q13]]
 
 
-
-<span class="atom-split" id="q14" data-atom="q14" data-title="Quesito 14" data-tags="topic_aritmetica,topic_combinatoria,method_casework,method_conteggio,skill_conteggio_sistematico"></span>
+<span class="atom-split" id="q14" data-atom="q14" data-title="Quesito 14" data-tags="topic_aritmetica,topic_combinatoria,method_casework,method_conteggio,method_congruenze,skill_conteggio_sistematico,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -487,9 +473,9 @@ level: OBM Nível 2
 > (A) $15$ \quad (B) $16$ \quad (C) $17$ \quad (D) $18$ \quad (E) $19$
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
-**Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]]
-**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
-**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+**Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]], [[method_congruenze|Modular arithmetic / congruences]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1IGK7LGVAKxlscEUb7h9lhQKIGb7_R1RC/view)
 
 
@@ -501,12 +487,11 @@ level: OBM Nível 2
 > In quanti modi possiamo dividere R\$10.00 into coins of $10$ centavos and of $25$ centavos, utilizzando almeno una moneta di ogni tipo?
 > (A) $15$ \quad (B) $16$ \quad (C) $17$ \quad (D) $18$ \quad (E) $19$
 
-**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
-**Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]]
-**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
-**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 
-[[Quesiti/src_obm_2008_n2_f1#q14|src_obm_2008_n2_f1__Q14]]
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]], [[method_congruenze|Aritmetica modulare / congruenze]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 
 
 
@@ -540,11 +525,9 @@ level: OBM Nível 2
 **Abilita:** [[skill_stima|Stima]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 
-[[Quesiti/src_obm_2008_n2_f1#q15|src_obm_2008_n2_f1__Q15]]
 
 
-
-<span class="atom-split" id="q16" data-atom="q16" data-title="Quesito 16" data-tags="topic_aritmetica,topic_combinatoria,skill_manipolazione_algebrica"></span>
+<span class="atom-split" id="q16" data-atom="q16" data-title="Quesito 16" data-tags="topic_aritmetica,topic_combinatoria,method_doppio_conteggio,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -555,8 +538,9 @@ level: OBM Nível 2
 > (A) $175$ \quad (B) $2450$ \quad (C) $1225$ \quad (D) $190$ \quad (E) $100$
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_doppio_conteggio|Double counting]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
-**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1IGK7LGVAKxlscEUb7h9lhQKIGb7_R1RC/view)
 
 
@@ -568,11 +552,11 @@ level: OBM Nível 2
 > La figura sottostante è un esempio di quadrato magico di ordine $4$. La somma dei $4$ numeri in ogni riga, colonna o diagonale è $34$. Diciamo allora che la somma magica di questo quadrato magico è $34$. Supponiamo che esista un quadrato magico di ordine $7$, formato dagli interi da $1$ a $49$. Determinare la sua somma magica.
 > (A) $175$ \quad (B) $2450$ \quad (C) $1225$ \quad (D) $190$ \quad (E) $100$
 
+
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_doppio_conteggio|Doppio conteggio]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
-
-[[Quesiti/src_obm_2008_n2_f1#q16|src_obm_2008_n2_f1__Q16]]
 
 
 
@@ -614,11 +598,9 @@ level: OBM Nível 2
 **Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 
-[[Quesiti/src_obm_2008_n2_f1#q17|src_obm_2008_n2_f1__Q17]]
 
 
-
-<span class="atom-split" id="q18" data-atom="q18" data-title="Quesito 18" data-tags="topic_aritmetica,skill_manipolazione_algebrica"></span>
+<span class="atom-split" id="q18" data-atom="q18" data-title="Quesito 18" data-tags="topic_aritmetica,method_fattorizzazione,skill_manipolazione_algebrica,skill_modellizzazione"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -629,8 +611,9 @@ level: OBM Nível 2
 > (A) $450$ \quad (B) $785$ \quad (C) $630$ \quad (D) $471$ \quad (E) $525$
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
-**Area:** [[Aritmetica e Teoria dei Numeri]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1IGK7LGVAKxlscEUb7h9lhQKIGb7_R1RC/view)
 
 
@@ -642,15 +625,15 @@ level: OBM Nível 2
 > Un certo numero di tre cifre è $629$ volte più piccolo della somma di tutti gli altri numeri di tre cifre. Questo numero è:
 > (A) $450$ \quad (B) $785$ \quad (C) $630$ \quad (D) $471$ \quad (E) $525$
 
+
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 
-[[Quesiti/src_obm_2008_n2_f1#q18|src_obm_2008_n2_f1__Q18]]
 
 
-
-<span class="atom-split" id="q19" data-atom="q19" data-title="Quesito 19" data-tags="topic_combinatoria,topic_geometria_solida,method_simmetria,method_casework,method_conteggio,skill_conteggio_sistematico,skill_ragionamento_geometrico"></span>
+<span class="atom-split" id="q19" data-atom="q19" data-title="Quesito 19" data-tags="topic_combinatoria,topic_geometria_solida,method_simmetria,method_casework,method_conteggio,skill_conteggio_sistematico,skill_ragionamento_geometrico,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -660,12 +643,12 @@ level: OBM Nível 2
 > Soninha has cards in the shape of cubes, all equal, with a different design on each of the six faces. She will use five colors (green, yellow, blue, vermilion and orange) to paint each card, in such a way that no two faces of the same card are painted the same color. The figure below, for example, shows two cards that are equal, but appear different because one of them was rotated to be obtained from the other. How many different cards can Soninha produce?
 > (A) $16$ \quad (B) $25$ \quad (C) $30$ \quad (D) $60$ \quad (E) $90$
 
-![[src_obm_2008_n2_f1__q19.png]]
+![[src_obm_2008_n2_f1__Q19.png]]
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_geometria_solida|Geometria solida]]
 **Metodo:** [[method_simmetria|Simmetria]], [[method_casework|Casework]], [[method_conteggio|Conteggio]]
-**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
-**Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Geometria|Geometry]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1IGK7LGVAKxlscEUb7h9lhQKIGb7_R1RC/view)
 
 
@@ -677,14 +660,13 @@ level: OBM Nível 2
 > Soninha ha delle carte a forma di cubo, tutte uguali, con un motivo diverso su ciascuna delle sei facce. Userà cinque colori (verde, giallo, blu, vermiglio e arancione) per dipingere ogni carta, in modo che nessuna delle due facce di una stessa carta sia dipinta dello stesso colore. La figura sottostante, ad esempio, mostra due carte uguali, ma che appaiono diverse perché una di esse è stata ruotata per ottenere l'altra. Quante carte diverse può produrre Soninha?
 > (A) $16$ \quad (B) $25$ \quad (C) $30$ \quad (D) $60$ \quad (E) $90$
 
-![[src_obm_2008_n2_f1__q19.png]]
+![[src_obm_2008_n2_f1__Q19.png]]
+
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_geometria_solida|Geometria solida]]
 **Metodo:** [[method_simmetria|Simmetria]], [[method_casework|Casework]], [[method_conteggio|Conteggio]]
-**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
-
-[[Quesiti/src_obm_2008_n2_f1#q19|src_obm_2008_n2_f1__Q19]]
 
 
 
@@ -715,8 +697,6 @@ level: OBM Nível 2
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]]
-
-[[Quesiti/src_obm_2008_n2_f1#q20|src_obm_2008_n2_f1__Q20]]
 
 
 
@@ -750,8 +730,6 @@ level: OBM Nível 2
 **Abilita:** [[skill_stima|Stima]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 
-[[Quesiti/src_obm_2008_n2_f1#q21|src_obm_2008_n2_f1__Q21]]
-
 
 
 <span class="atom-split" id="q22" data-atom="q22" data-title="Quesito 22" data-tags="topic_geometria_piana,skill_ragionamento_geometrico"></span>
@@ -764,7 +742,7 @@ level: OBM Nível 2
 > In the figure below the points $A$, $B$, $C$ are collinear, as are the points $D$, $E$, $F$. The two lines $ABC$ and $DEF$ are parallel. Letting $A_1$, $A_2$ and $A_3$ be the areas of the highlighted regions in the figure, we may state that:
 > (A) $A_3=2A_1=2A_2$ \quad (B) $A_2=A_3-A_1$ \quad (C) $A_3=A_2+A_3$ \quad (D) $A_3=A_1+A_2$ \quad (E) $A_2^{2}=A_1\cdot A_3$
 
-![[src_obm_2008_n2_f1__q22.png]]
+![[src_obm_2008_n2_f1__Q22.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
@@ -780,17 +758,15 @@ level: OBM Nível 2
 > Nella figura sottostante, i punti $A$, $B$, $C$ sono allineati, così come i punti $D$, $E$, $F$. Le due rette $ABC$ e $DEF$ sono parallele. Indicando con $A_1$, $A_2$ e $A_3$ le aree delle regioni evidenziate nella figura, possiamo affermare che:
 > (A) $A_3=2A_1=2A_2$ \quad (B) $A_2=A_3-A_1$ \quad (C) $A_3=A_2+A_3$ \quad (D) $A_3=A_1+A_2$ \quad (E) $A_2^{2}=A_1\cdot A_3$
 
-![[src_obm_2008_n2_f1__q22.png]]
+![[src_obm_2008_n2_f1__Q22.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]]
 
-[[Quesiti/src_obm_2008_n2_f1#q22|src_obm_2008_n2_f1__Q22]]
 
 
-
-<span class="atom-split" id="q23" data-atom="q23" data-title="Quesito 23" data-tags="topic_combinatoria,topic_logica,method_casework,skill_casework_accurato,skill_lettura_attenta"></span>
+<span class="atom-split" id="q23" data-atom="q23" data-title="Quesito 23" data-tags="topic_combinatoria,topic_logica,method_casework,skill_casework_accurato,skill_lettura_attenta,skill_modellizzazione"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -806,12 +782,12 @@ level: OBM Nível 2
 > \textit{Observation:} In the group, each team plays the others once; a victory gives $3$ points, a tie gives $1$ point to each, and the loser gains nothing; or, if there is a tie, each team gains $1$ point.
 > (A) $1\times 0$ \quad (B) $2\times 1$ \quad (C) $2\times 0$ \quad (D) $0\times 0$ \quad (E) It is not possible to know.
 
-![[src_obm_2008_n2_f1__q23.png]]
+![[src_obm_2008_n2_f1__Q23.png]]
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_logica|Logica]]
 **Metodo:** [[method_casework|Casework]]
-**Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_lettura_attenta|Lettura attenta]]
-**Area:** [[Combinatoria, Logica e Probabilita]]
+**Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_lettura_attenta|Lettura attenta]], [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1IGK7LGVAKxlscEUb7h9lhQKIGb7_R1RC/view)
 
 
@@ -829,18 +805,17 @@ level: OBM Nível 2
 > \textit{Osservazione:} Nel gruppo, ogni squadra affronta le altre una volta; una vittoria vale $3$ punti, un pareggio vale $1$ punto per ciascuna, mentre la sconfitta non porta alcun punto; oppure, in caso di pareggio, ogni squadra ottiene $1$ punti.
 > (A) $1\times 0$ \quad (B) $2\times 1$ \quad (C) $2\times 0$ \quad (D) $0\times 0$ \quad (E) Non è possibile saperlo.
 
-![[src_obm_2008_n2_f1__q23.png]]
+![[src_obm_2008_n2_f1__Q23.png]]
+
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_logica|Logica]]
 **Metodo:** [[method_casework|Casework]]
-**Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_lettura_attenta|Lettura attenta]]
+**Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_lettura_attenta|Lettura attenta]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 
-[[Quesiti/src_obm_2008_n2_f1#q23|src_obm_2008_n2_f1__Q23]]
 
 
-
-<span class="atom-split" id="q24" data-atom="q24" data-title="Quesito 24" data-tags="topic_aritmetica,topic_logica,method_casework,method_fattorizzazione,skill_casework_accurato,skill_lettura_attenta"></span>
+<span class="atom-split" id="q24" data-atom="q24" data-title="Quesito 24" data-tags="topic_aritmetica,topic_logica,method_casework,method_fattorizzazione,skill_casework_accurato,skill_lettura_attenta,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -850,12 +825,12 @@ level: OBM Nível 2
 > Below we have a multiplicative magic square, that is, the product of the numbers in each line, column and diagonal is the same. $\overline{ABCD}$ is a four-digit number, each letter representing a one-digit number, and $\overline{AC}$ represents the two-digit number whose digits are $A$ and $C$. Some cells of the square contain the given entries $4$, $\overline{AC}$, $C$ and $24$. The sum $A+B+C+D$ is:
 > (A) $17$ \quad (B) $18$ \quad (C) $19$ \quad (D) $20$ \quad (E) $21$
 
-![[src_obm_2008_n2_f1__q24.png]]
+![[src_obm_2008_n2_f1__Q24.png]]
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_logica|Logica]]
 **Metodo:** [[method_casework|Casework]], [[method_fattorizzazione|Fattorizzazione]]
-**Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_lettura_attenta|Lettura attenta]]
-**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+**Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_lettura_attenta|Lettura attenta]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1IGK7LGVAKxlscEUb7h9lhQKIGb7_R1RC/view)
 
 
@@ -867,18 +842,17 @@ level: OBM Nível 2
 > Qui sotto abbiamo un quadrato magico moltiplicativo, cioè il prodotto dei numeri in ogni riga, colonna e diagonale è lo stesso. $\overline{ABCD}$ è un numero di quattro cifre, ogni lettera rappresenta un numero di una cifra, e $\overline{AC}$ rappresenta il numero di due cifre le cui cifre sono $A$ e $C$. Alcune caselle del quadrato contengono i valori assegnati $4$, $\overline{AC}$, $C$ e $24$. La somma $A+B+C+D$ è:
 > (A) $17$ \quad (B) $18$ \quad (C) $19$ \quad (D) $20$ \quad (E) $21$
 
-![[src_obm_2008_n2_f1__q24.png]]
+![[src_obm_2008_n2_f1__Q24.png]]
+
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_logica|Logica]]
 **Metodo:** [[method_casework|Casework]], [[method_fattorizzazione|Fattorizzazione]]
-**Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_lettura_attenta|Lettura attenta]]
+**Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_lettura_attenta|Lettura attenta]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 
-[[Quesiti/src_obm_2008_n2_f1#q24|src_obm_2008_n2_f1__Q24]]
 
 
-
-<span class="atom-split" id="q25" data-atom="q25" data-title="Quesito 25" data-tags="topic_combinatoria,topic_geometria_solida,method_casework,method_conteggio,skill_ragionamento_geometrico,skill_conteggio_sistematico"></span>
+<span class="atom-split" id="q25" data-atom="q25" data-title="Quesito 25" data-tags="topic_combinatoria,topic_geometria_solida,method_casework,method_conteggio,skill_ragionamento_geometrico,skill_conteggio_sistematico,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -890,8 +864,8 @@ level: OBM Nível 2
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_geometria_solida|Geometria solida]]
 **Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]]
-**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_conteggio_sistematico|Conteggio sistematico]]
-**Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Geometria|Geometry]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1IGK7LGVAKxlscEUb7h9lhQKIGb7_R1RC/view)
 
 
@@ -903,9 +877,8 @@ level: OBM Nível 2
 > Ho un cubo di legno con tre facce rosse e tre facce blu. Viene tagliato in $3\times 3\times 3=27$ cubetti più piccoli. Quanti di questi cubetti più piccoli hanno almeno una faccia rossa e almeno una faccia blu?
 > (A) $6$ \quad (B) $12$ \quad (C) $14$ \quad (D) $16$ \quad (E) Dipende dalla disposizione delle facce rosse e delle facce blu.
 
+
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_geometria_solida|Geometria solida]]
 **Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]]
-**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
-
-[[Quesiti/src_obm_2008_n2_f1#q25|src_obm_2008_n2_f1__Q25]]

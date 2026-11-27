@@ -41,6 +41,8 @@ level: 2 livello
 
 *Which of the five shapes shows the white face*
 
+![[src_archimede_1997_2livello__prob1.png]]
+
 > There are five identical cardboard shapes, white on one side and black on the other.
 > Placed on a table, they are in the positions shown in the figure, four showing the black face and one
 > the white face. Which is the white shape?
@@ -54,11 +56,11 @@ level: 2 livello
 
 **Topic:** [[topic_logica|Logic, games, strategies]]
 **Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
-[[Quesiti/src_archimede_1997_2livello#q01|src_archimede_1997_2livello__Q01]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
 
 
-<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_logica,skill_lettura_attenta"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_logica,topic_aritmetica,skill_lettura_attenta"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -77,9 +79,9 @@ level: 2 livello
 > - **(D)** Ha guadagnato un milione
 > - **(E)** Nessuna delle precedenti
 
-**Topic:** [[topic_logica|Logica, giochi, strategie]]
+**Topic:** [[topic_logica|Logica, giochi, strategie]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Abilita:** [[skill_lettura_attenta|Lettura attenta del testo]]
-**Area:** [[Combinatoria, Logica e Probabilita]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** D
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1s6UyQ15nCr6Jb0xSTXHYJl6BSsatJ-nt/view)
 
@@ -102,58 +104,18 @@ level: 2 livello
 > - **(E)** none of the above
 
 
-**Topic:** [[topic_logica|Logic, games, strategies]]
-**Skill:** [[skill_lettura_attenta|Careful reading]]
-[[Quesiti/src_archimede_1997_2livello#q02|src_archimede_1997_2livello__Q02]]
+**Topic:** [[topic_logica|Logic, games, strategies]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Abilita:** [[skill_lettura_attenta|Careful reading]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
 
 
-<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_algebra"></span>
+<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_algebra,topic_geometria_solida,method_fattorizzazione,skill_modellizzazione,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
 
 *Sbarra acciaio-gomma con stesso peso invertendo i materiali*
-
-> 100 delegati sono riuniti in congresso. Non tutti portano la cravatta, ma si sa che comunque se ne scelgano due, almeno uno dei due la porta. Quanti sono i congressisti con cravatta?
->
-> - **(A)** Almeno 2, ma possono essere meno di 50
-> - **(B)** Esattamente 50
-> - **(C)** Più di 50, ma non si può dire esattamente quanti
-> - **(D)** La situazione descritta è impossibile
-> - **(E)** Nessuna delle precedenti
-
-**Topic:** [[topic_algebra|Algebra]]
-**Area:** [[Algebra e Analisi]]
-**Risposta:** C
-**Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1s6UyQ15nCr6Jb0xSTXHYJl6BSsatJ-nt/view)
-
-
-<div class="qlang-split" data-lang="en"></div>
-
-
-*Steel-and-rubber bar of unchanged weight when the materials are swapped*
-
-> 100 delegates are gathered at a congress. Not all of them wear a tie, but it is known that, however two of them are chosen, at least one of the two is wearing one. How many of the delegates wear a tie?
->
-> - **(A)** at least 2, but there may be fewer than 50
-> - **(B)** exactly 50
-> - **(C)** more than 50, but it cannot be said exactly how many
-> - **(D)** the situation described is impossible
-> - **(E)** none of the above
-
-
-**Topic:** [[topic_algebra|Algebra]]
-[[Quesiti/src_archimede_1997_2livello#q03|src_archimede_1997_2livello__Q03]]
-
-
-
-<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_logica"></span>
-
-<div class="qlang-switch" data-default="it"></div>
-
-
-*Quanti congressisti su 100 portano la cravatta*
 
 > Una striscia è costituita da un cilindro interno di acciaio di raggio $1$ cm rivestito da uno strato di gomma leggera di spessore costante. Sapendo che invertendo i materiali il peso della striscia resta invariato, determinare lo spessore del rivestimento.
 >
@@ -163,7 +125,52 @@ level: 2 livello
 > - **(D)** Dipende dalla lunghezza della striscia
 > - **(E)** Nessuna delle precedenti
 
+**Topic:** [[topic_algebra|Algebra]], [[topic_geometria_solida|Geometria solida]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Algebra e Analisi]], [[Geometria]]
+**Risposta:** C
+**Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1s6UyQ15nCr6Jb0xSTXHYJl6BSsatJ-nt/view)
+
+
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Steel-and-rubber bar of unchanged weight when the materials are swapped*
+
+> A strip consists of an inner steel cylinder of radius $1$ cm, coated with a layer of light rubber of constant thickness. Given that swapping the materials leaves the weight of the strip unchanged, determine the thickness of the coating.
+>
+> - **(A)** $1$ cm
+> - **(B)** $\sqrt{2}$ cm
+> - **(C)** $(\sqrt{2}-1)$ cm
+> - **(D)** it depends on the length of the strip
+> - **(E)** none of the above
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_geometria_solida|Solid geometry]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Geometria|Geometry]]
+
+
+
+<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_logica,method_casework,skill_casework_accurato,skill_lettura_attenta"></span>
+
+<div class="qlang-switch" data-default="it"></div>
+
+
+*Quanti congressisti su 100 portano la cravatta*
+
+> 100 delegati sono riuniti in congresso. Non tutti portano la cravatta, ma si sa che comunque se ne scelgano due, almeno uno dei due la porta. Quanti sono i congressisti con cravatta?
+>
+> - **(A)** Almeno 2, ma possono essere meno di 50
+> - **(B)** Esattamente 50
+> - **(C)** Più di 50, ma non si può dire esattamente quanti
+> - **(D)** La situazione descritta è impossibile
+> - **(E)** Nessuna delle precedenti
+
 **Topic:** [[topic_logica|Logica, giochi, strategie]]
+**Metodo:** [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_lettura_attenta|Lettura attenta del testo]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** E
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1s6UyQ15nCr6Jb0xSTXHYJl6BSsatJ-nt/view)
@@ -174,21 +181,22 @@ level: 2 livello
 
 *How many of 100 delegates wear a tie*
 
-> A strip consists of an inner steel cylinder of radius $1$ cm, coated with a layer of light rubber of constant thickness. Given that swapping the materials leaves the weight of the strip unchanged, determine the thickness of the coating.
+> 100 delegates are gathered at a congress. Not all of them wear a tie, but it is known that, however two of them are chosen, at least one of the two is wearing one. How many of the delegates wear a tie?
 >
-> - **(A)** $1$ cm
-> - **(B)** $\sqrt{2}$ cm
-> - **(C)** $(\sqrt{2}-1)$ cm
-> - **(D)** it depends on the length of the strip
+> - **(A)** at least 2, but there may be fewer than 50
+> - **(B)** exactly 50
+> - **(C)** more than 50, but it cannot be said exactly how many
+> - **(D)** the situation described is impossible
 > - **(E)** none of the above
 
-
 **Topic:** [[topic_logica|Logic, games, strategies]]
-[[Quesiti/src_archimede_1997_2livello#q04|src_archimede_1997_2livello__Q04]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]], [[skill_lettura_attenta|Careful reading of the text]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
 
 
-<span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_aritmetica,skill_riconoscimento_pattern"></span>
+<span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_aritmetica,method_congruenze,skill_riconoscimento_pattern"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -209,6 +217,7 @@ level: 2 livello
 > - **(E)** Nessuna delle precedenti 100 delegati sono riuniti in congresso. Non tutti portano la cravatta, ma si sa che comunque se ne scelgano due, almeno uno dei due la porta. Quanti sono i congressisti con cravatta? (A) Almeno 2, ma possono essere meno di 50 (B) Esattamente 50 (C) Più di 50, ma non si può dire esattamente quanti (D) La situazione descritta è impossible (E) Nessuna delle precedenti
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]]
 **Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** B
@@ -230,12 +239,13 @@ level: 2 livello
 
 
 **Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
-**Skill:** [[skill_riconoscimento_pattern|Pattern recognition]]
-[[Quesiti/src_archimede_1997_2livello#q05|src_archimede_1997_2livello__Q05]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]]
+**Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
 
 
-<span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_geometria_solida,skill_ragionamento_geometrico"></span>
+<span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_geometria_solida,topic_geometria_piana,skill_ragionamento_geometrico"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -252,7 +262,7 @@ level: 2 livello
 > (A) 24 c m
 > (B) 30 cm
 
-**Topic:** [[topic_geometria_solida|Geometria solida]]
+**Topic:** [[topic_geometria_solida|Geometria solida]], [[topic_geometria_piana|Geometria piana]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]]
 **Risposta:** D
@@ -264,19 +274,21 @@ level: 2 livello
 
 *A sphere rolling along two rails*
 
+![[src_archimede_1997_2livello__prob6.png]]
+
 > A sphere of radius $r = 15$ cm is
 > resting on two rails spaced 24 cm apart as in the figure. If the sphere makes one complete rotation, how far does it advance along the rails?
 > (A) 24 cm
 > (B) 30 cm
 
 
-**Topic:** [[topic_geometria_solida|Solid geometry]]
-**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
-[[Quesiti/src_archimede_1997_2livello#q06|src_archimede_1997_2livello__Q06]]
+**Topic:** [[topic_geometria_solida|Solid geometry]], [[topic_geometria_piana|Plane geometry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
 
 
 
-<span class="atom-split" id="q07" data-atom="q07" data-title="Quesito 7" data-tags="topic_aritmetica,method_fattorizzazione"></span>
+<span class="atom-split" id="q07" data-atom="q07" data-title="Quesito 7" data-tags="topic_aritmetica,method_fattorizzazione,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -293,6 +305,7 @@ level: 2 livello
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** E
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1s6UyQ15nCr6Jb0xSTXHYJl6BSsatJ-nt/view)
@@ -313,12 +326,13 @@ level: 2 livello
 
 
 **Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
-**Method:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
-[[Quesiti/src_archimede_1997_2livello#q07|src_archimede_1997_2livello__Q07]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
 
 
-<span class="atom-split" id="q08" data-atom="q08" data-title="Quesito 8" data-tags="topic_algebra,method_congruenze,skill_conteggio_sistematico"></span>
+<span class="atom-split" id="q08" data-atom="q08" data-title="Quesito 8" data-tags="topic_algebra,topic_aritmetica,method_congruenze,skill_conteggio_sistematico,skill_riconoscimento_pattern,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -338,10 +352,10 @@ level: 2 livello
 > - **(D)** 999 quadretti a Nord e 999 quadretti a Ovest di O
 > - **(E)** 998 quadretti a Est e 998 quadretti a Sud di O
 
-**Topic:** [[topic_algebra|Algebra]]
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]]
-**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
-**Area:** [[Algebra e Analisi]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** B
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1s6UyQ15nCr6Jb0xSTXHYJl6BSsatJ-nt/view)
 
@@ -350,6 +364,8 @@ level: 2 livello
 
 
 *Position after 1997 steps on squared paper*
+
+![[src_archimede_1997_2livello__prob8.png]]
 
 > Fix a point O at the intersection of two lines on a sheet of squared paper, and label the four directions parallel to the lines as North, South, East and West (North at the top). Starting from O, move one square East, then two North, three West, four South, five East, and so on. After 1997 steps, where are we relative to the starting point O?
 >
@@ -360,14 +376,14 @@ level: 2 livello
 > - **(E)** 998 squares East and 998 squares South of O
 
 
-**Topic:** [[topic_algebra|Algebra]]
-**Method:** [[method_congruenze|Modular arithmetic / congruences]]
-**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
-[[Quesiti/src_archimede_1997_2livello#q08|src_archimede_1997_2livello__Q08]]
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]], [[skill_riconoscimento_pattern|Pattern recognition]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
 
 
-<span class="atom-split" id="q09" data-atom="q09" data-title="Quesito 9" data-tags="topic_combinatoria,method_conteggio,skill_conteggio_sistematico"></span>
+<span class="atom-split" id="q09" data-atom="q09" data-title="Quesito 9" data-tags="topic_combinatoria,method_conteggio,method_casi_conteggio,skill_conteggio_sistematico,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -384,8 +400,8 @@ level: 2 livello
 > - **(E)** Nessuna delle precedenti
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
-**Metodo:** [[method_conteggio|Conteggio combinatorio]]
-**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Metodo:** [[method_conteggio|Conteggio combinatorio]], [[method_casi_conteggio|Conteggio per casi]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** C
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1s6UyQ15nCr6Jb0xSTXHYJl6BSsatJ-nt/view)
@@ -406,13 +422,13 @@ level: 2 livello
 
 
 **Topic:** [[topic_combinatoria|Combinatorics]]
-**Method:** [[method_conteggio|Combinatorial counting]]
-**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
-[[Quesiti/src_archimede_1997_2livello#q09|src_archimede_1997_2livello__Q09]]
+**Metodo:** [[method_conteggio|Combinatorial counting]], [[method_casi_conteggio|Counting by cases]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]], [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
 
 
-<span class="atom-split" id="q10" data-atom="q10" data-title="Quesito 10" data-tags="topic_geometria_analitica,method_coordinate"></span>
+<span class="atom-split" id="q10" data-atom="q10" data-title="Quesito 10" data-tags="topic_geometria_analitica,method_coordinate,skill_ragionamento_geometrico,skill_lettura_attenta"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -425,6 +441,7 @@ level: 2 livello
 
 **Topic:** [[topic_geometria_analitica|Geometria analitica]]
 **Metodo:** [[method_coordinate|Metodo delle coordinate]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta del testo]]
 **Area:** [[Geometria]]
 **Risposta:** D
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1s6UyQ15nCr6Jb0xSTXHYJl6BSsatJ-nt/view)
@@ -435,12 +452,15 @@ level: 2 livello
 
 *Inequality with the drawn hexagon as its solution*
 
+![[src_archimede_1997_2livello__prob10.png]]
+
 > Which of the following inequalities has the set drawn in the figure as its solution?
 
 
-**Topic:** [[topic_geometria_analitica|Analytic geometry]]
-**Method:** [[method_coordinate|Coordinate method]]
-[[Quesiti/src_archimede_1997_2livello#q10|src_archimede_1997_2livello__Q10]]
+**Topic:** [[topic_geometria_analitica|Coordinate geometry]]
+**Metodo:** [[method_coordinate|Coordinate method]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_lettura_attenta|Careful reading of the text]]
+**Area:** [[Geometria|Geometry]]
 
 
 
@@ -471,6 +491,8 @@ level: 2 livello
 
 *Area of the hatched figure with six small circles*
 
+![[src_archimede_1997_2livello__prob11.png]]
+
 > In the figure alongside, the radius of the small circles is 1. What is the area of the hatched figure?
 > (D)
 > (E) None of the previous answers
@@ -478,11 +500,11 @@ level: 2 livello
 
 **Topic:** [[topic_geometria_piana|Plane geometry]]
 **Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
-[[Quesiti/src_archimede_1997_2livello#q11|src_archimede_1997_2livello__Q11]]
+**Area:** [[Geometria|Geometry]]
 
 
 
-<span class="atom-split" id="q12" data-atom="q12" data-title="Quesito 12" data-tags="topic_aritmetica"></span>
+<span class="atom-split" id="q12" data-atom="q12" data-title="Quesito 12" data-tags="topic_aritmetica,method_casework,skill_stima,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -498,6 +520,8 @@ level: 2 livello
 > (E) Nessuna delle precedenti
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_stima|Stima e approssimazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** B
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1s6UyQ15nCr6Jb0xSTXHYJl6BSsatJ-nt/view)
@@ -518,11 +542,13 @@ level: 2 livello
 
 
 **Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
-[[Quesiti/src_archimede_1997_2livello#q12|src_archimede_1997_2livello__Q12]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_stima|Estimation and approximation]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
 
 
-<span class="atom-split" id="q13" data-atom="q13" data-title="Quesito 13" data-tags="topic_probabilita,method_casework"></span>
+<span class="atom-split" id="q13" data-atom="q13" data-title="Quesito 13" data-tags="topic_probabilita,topic_combinatoria,method_casework,skill_casework_accurato,skill_modellizzazione"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -534,8 +560,9 @@ level: 2 livello
 > Qual è la probabilità che il gioco non si debba interrompere entro cinque partite poiché uno dei
 > giocatori rimane senza gettoni?
 
-**Topic:** [[topic_probabilita|Probabilita e statistica]]
+**Topic:** [[topic_probabilita|Probabilita e statistica]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** A
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1s6UyQ15nCr6Jb0xSTXHYJl6BSsatJ-nt/view)
@@ -551,13 +578,14 @@ level: 2 livello
 > What is the probability that the game does not have to be stopped within five games because one of the players runs out of tokens?
 
 
-**Topic:** [[topic_probabilita|Probability and statistics]]
-**Method:** [[method_casework|Case analysis]]
-[[Quesiti/src_archimede_1997_2livello#q13|src_archimede_1997_2livello__Q13]]
+**Topic:** [[topic_probabilita|Probability and statistics]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]], [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
 
 
-<span class="atom-split" id="q14" data-atom="q14" data-title="Quesito 14" data-tags="topic_geometria_piana,method_estremalita"></span>
+<span class="atom-split" id="q14" data-atom="q14" data-title="Quesito 14" data-tags="topic_geometria_piana,method_estremalita,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -569,6 +597,7 @@ level: 2 livello
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_estremalita|Principio di estremalita]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 **Risposta:** D
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1s6UyQ15nCr6Jb0xSTXHYJl6BSsatJ-nt/view)
@@ -583,12 +612,13 @@ level: 2 livello
 
 
 **Topic:** [[topic_geometria_piana|Plane geometry]]
-**Method:** [[method_estremalita|Extremal principle]]
-[[Quesiti/src_archimede_1997_2livello#q14|src_archimede_1997_2livello__Q14]]
+**Metodo:** [[method_estremalita|Extremal principle]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Geometria|Geometry]]
 
 
 
-<span class="atom-split" id="q15" data-atom="q15" data-title="Quesito 15" data-tags="topic_aritmetica,method_estremalita"></span>
+<span class="atom-split" id="q15" data-atom="q15" data-title="Quesito 15" data-tags="topic_aritmetica,method_estremalita,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -609,6 +639,7 @@ level: 2 livello
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_estremalita|Principio di estremalita]]
+**Abilita:** [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1s6UyQ15nCr6Jb0xSTXHYJl6BSsatJ-nt/view)
 
@@ -632,8 +663,9 @@ level: 2 livello
 
 
 **Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
-**Method:** [[method_estremalita|Extremal principle]]
-[[Quesiti/src_archimede_1997_2livello#q15|src_archimede_1997_2livello__Q15]]
+**Metodo:** [[method_estremalita|Extremal principle]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
 
 
@@ -662,11 +694,11 @@ level: 2 livello
 
 **Topic:** [[topic_geometria_piana|Plane geometry]]
 **Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
-[[Quesiti/src_archimede_1997_2livello#q16|src_archimede_1997_2livello__Q16]]
+**Area:** [[Geometria|Geometry]]
 
 
 
-<span class="atom-split" id="q17" data-atom="q17" data-title="Quesito 17" data-tags="topic_aritmetica,method_fattorizzazione,skill_manipolazione_algebrica"></span>
+<span class="atom-split" id="q17" data-atom="q17" data-title="Quesito 17" data-tags="topic_aritmetica,method_fattorizzazione,method_casework,skill_manipolazione_algebrica,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -677,8 +709,8 @@ level: 2 livello
 > $$\frac{1}{m} + \frac{1}{n} = \frac{1}{p}$$
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
-**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]], [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** (2p,2p), (p²+p,p+1), (p+1,p²+p)
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/1s6UyQ15nCr6Jb0xSTXHYJl6BSsatJ-nt/view)
@@ -694,6 +726,6 @@ level: 2 livello
 
 
 **Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
-**Method:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
-**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
-[[Quesiti/src_archimede_1997_2livello#q17|src_archimede_1997_2livello__Q17]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]], [[method_casework|Case analysis]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]

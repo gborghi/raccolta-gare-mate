@@ -10,7 +10,7 @@ level: kangourou
 
 
 
-<span class="atom-split" id="qe1" data-atom="qe1" data-title="Quesito E1" data-tags="topic_aritmetica,skill_modellizzazione"></span>
+<span class="atom-split" id="qe1" data-atom="qe1" data-title="Quesito E1" data-tags="topic_aritmetica,method_casework,skill_modellizzazione,skill_lettura_attenta"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -20,7 +20,8 @@ level: kangourou
 > (*5 punti*) Per preparare 4 litri di sciroppo occorrono esattamente 3 litri d'acqua, 1 litro di succo concentrato e 500 grammi di zucchero. Hai a disposizione 18 litri d'acqua, 5 litri di succo concentrato e 2 chili di zucchero. Quanti litri di sciroppo puoi preparare al massimo?
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
+**Metodo:** [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_lettura_attenta|Lettura attenta del testo]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 16
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1f1h1TJscOH5tK9jr84T2t5qStr4PB-2H/view)
@@ -33,22 +34,22 @@ level: kangourou
 
 > (*5 points*) To prepare 4 litres of syrup, you need exactly 3 litres of water, 1 litre of concentrated juice, and 500 grams of sugar. You have 18 litres of water, 5 litres of concentrated juice, and 2 kilograms of sugar available. What is the maximum number of litres of syrup you can prepare?
 
+
 **Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
-**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]], [[skill_lettura_attenta|Careful reading of the text]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
-[[Quesiti/src_kangourou_2009_ecolier_maggio#qe1|src_kangourou_2009_ecolier_maggio__QE1]]
 
 
-
-<span class="atom-split" id="qe2" data-atom="qe2" data-title="Quesito E2" data-tags="topic_combinatoria,topic_logica,skill_casework_accurato"></span>
+<span class="atom-split" id="qe2" data-atom="qe2" data-title="Quesito E2" data-tags="topic_combinatoria,topic_logica,method_casework,skill_casework_accurato,skill_ragionamento_geometrico"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
 
 *Minimo numero di carte rimaste levandone due*
 
-![[src_kangourou_2009_ecolier_maggio__probe2.png]]
+![[src_kangourou_2009_ecolier_maggio__probE2.png]]
 
 ```tikz
 \begin{document}
@@ -84,7 +85,8 @@ level: kangourou
 > Se una carta (che non sia la prima in alto) sparisce dal tavolo, devono sparire anche le carte che sono a contatto con essa nella riga superiore. Ha levato due carte in modo che rimanesse il minor numero di carte possibile: qual è questo numero? (vedi figura)
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_logica|Logica, giochi, strategie]]
-**Abilita:** [[skill_casework_accurato|Casework accurato]]
+**Metodo:** [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 3
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1f1h1TJscOH5tK9jr84T2t5qStr4PB-2H/view)
@@ -95,7 +97,7 @@ level: kangourou
 
 *Minimum number of cards left after removing two*
 
-![[src_kangourou_2009_ecolier_maggio__probe2.png]]
+![[src_kangourou_2009_ecolier_maggio__probE2.png]]
 
 ```tikz
 \begin{document}
@@ -130,22 +132,22 @@ level: kangourou
 >
 > If a card (other than the topmost one) disappears from the table, the cards that are in contact with it in the top row must also disappear. Two cards were removed so that the fewest possible cards remained: what is this number? (see figure)
 
+
 **Topic:** [[topic_combinatoria|Combinatorics]], [[topic_logica|Logic, games and strategies]]
-**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]], [[skill_ragionamento_geometrico|Geometric reasoning]]
 **Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
-[[Quesiti/src_kangourou_2009_ecolier_maggio#qe2|src_kangourou_2009_ecolier_maggio__QE2]]
 
 
-
-<span class="atom-split" id="qe3" data-atom="qe3" data-title="Quesito E3" data-tags="topic_combinatoria,method_conteggio,skill_casework_accurato"></span>
+<span class="atom-split" id="qe3" data-atom="qe3" data-title="Quesito E3" data-tags="topic_combinatoria,method_conteggio,method_casework,skill_casework_accurato,skill_conteggio_sistematico"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
 
 *Quanti modi di sistemare 4 monete su scacchiera 4x4*
 
-![[src_kangourou_2009_ecolier_maggio__probe3.png]]
+![[src_kangourou_2009_ecolier_maggio__probE3.png]]
 
 ```tikz
 \begin{document}
@@ -172,8 +174,8 @@ level: kangourou
 > In quanti modi diversi puoi realizzare il progetto?
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
-**Metodo:** [[method_conteggio|Conteggio combinatorio]]
-**Abilita:** [[skill_casework_accurato|Casework accurato]]
+**Metodo:** [[method_conteggio|Conteggio combinatorio]], [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 2
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1f1h1TJscOH5tK9jr84T2t5qStr4PB-2H/view)
@@ -184,7 +186,7 @@ level: kangourou
 
 *How many ways are there to arrange 4 coins on a 4x4 chessboard?*
 
-![[src_kangourou_2009_ecolier_maggio__probe3.png]]
+![[src_kangourou_2009_ecolier_maggio__probE3.png]]
 
 ```tikz
 \begin{document}
@@ -210,16 +212,15 @@ level: kangourou
 >
 > In how many different ways can you accomplish the task?
 
+
 **Topic:** [[topic_combinatoria|Combinatorics]]
-**Metodo:** [[method_conteggio|Combinatorial counting]]
-**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Metodo:** [[method_conteggio|Combinatorial counting]], [[method_casework|Case analysis]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]], [[skill_conteggio_sistematico|Systematic counting]]
 **Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
-[[Quesiti/src_kangourou_2009_ecolier_maggio#qe3|src_kangourou_2009_ecolier_maggio__QE3]]
 
 
-
-<span class="atom-split" id="qe4" data-atom="qe4" data-title="Quesito E4" data-tags="topic_aritmetica,skill_modellizzazione"></span>
+<span class="atom-split" id="qe4" data-atom="qe4" data-title="Quesito E4" data-tags="topic_aritmetica,method_casework,method_fattorizzazione,skill_modellizzazione,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -229,7 +230,8 @@ level: kangourou
 > (*14 punti*) Una ditta produce cioccolatini tutti dello stesso peso e li vuole vendere in confezioni da 36, 28, 24 o 16 pezzi. Su ogni confezione va apposta un'etichetta che riporta il peso netto del contenuto; sono state già preparate etichette indicanti 630 grammi e altre indicanti 360 grammi. Quali pesi dovranno indicare le etichette ancora da preparare?
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
+**Metodo:** [[method_casework|Analisi per casi]], [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 810,540
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1f1h1TJscOH5tK9jr84T2t5qStr4PB-2H/view)
@@ -242,15 +244,15 @@ level: kangourou
 
 > (*14 points*) A company produces chocolates all of the same weight and wants to sell them in packs of 36, 28, 24, or 16 pieces. Each pack must have a label showing the net weight of the contents; labels indicating 630 grams and others indicating 360 grams have already been prepared. What weights must the labels that still need to be prepared indicate?
 
+
 **Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
-**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
+**Metodo:** [[method_casework|Case analysis]], [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
-[[Quesiti/src_kangourou_2009_ecolier_maggio#qe4|src_kangourou_2009_ecolier_maggio__QE4]]
 
 
-
-<span class="atom-split" id="qe5" data-atom="qe5" data-title="Quesito E5" data-tags="topic_combinatoria,topic_aritmetica,skill_casework_accurato"></span>
+<span class="atom-split" id="qe5" data-atom="qe5" data-title="Quesito E5" data-tags="topic_combinatoria,topic_aritmetica,method_casework,method_fattorizzazione,skill_casework_accurato,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -262,8 +264,9 @@ level: kangourou
 > Qual è il prodotto dei tre numeri che stanno nei triangoli ombreggiati che, uniti a quelli bianchi, formano un esagono? (vedi figura)
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Abilita:** [[skill_casework_accurato|Casework accurato]]
-**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+**Metodo:** [[method_casework|Analisi per casi]], [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
+**Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 40
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1f1h1TJscOH5tK9jr84T2t5qStr4PB-2H/view)
 
@@ -277,15 +280,15 @@ level: kangourou
 >
 > What is the product of the three numbers in the shaded triangles that, together with the white triangles, form a hexagon? (see figure)
 
+
 **Topic:** [[topic_combinatoria|Combinatorics]], [[topic_aritmetica|Arithmetic / Number theory]]
-**Abilita:** [[skill_casework_accurato|Careful case analysis]]
-**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
-
-[[Quesiti/src_kangourou_2009_ecolier_maggio#qe5|src_kangourou_2009_ecolier_maggio__QE5]]
-
+**Metodo:** [[method_casework|Case analysis]], [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
 
-<span class="atom-split" id="qe6" data-atom="qe6" data-title="Quesito E6" data-tags="topic_combinatoria,topic_logica,skill_modellizzazione"></span>
+
+<span class="atom-split" id="qe6" data-atom="qe6" data-title="Quesito E6" data-tags="topic_combinatoria,topic_logica,method_casework,skill_modellizzazione,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -295,7 +298,8 @@ level: kangourou
 > (*22 punti*) Quattro barche $A$, $B$, $C$, $D$ possono attraversare un fiume da una sponda all'altra nei due sensi; il tempo impiegato da ogni barca non dipende dal senso. La barca $A$ impiega 2 minuti per la traversata, la barca $B$ ne impiega 4, la barca $C$ ne impiega 8 e la barca $D$ ne impiega 16. Le quattro barche si trovano ormeggiate insieme sulla sponda sinistra, devono essere tutte traghettate sulla sponda destra ed è disponibile un solo timoniere. Una barca può trascinarsi al più un'altra, ma in questo caso il convoglio delle due barche impiega il tempo di traversata della barca più lenta fra le due. Una volta effettuata una traversata, il timoniere può ritornare al punto di partenza solo utilizzando una delle quattro barche. Trovate il tempo minore (in minuti) che consente di effettuare l'operazione, trascurando il tempo necessario ad agganciare e sganciare le barche e a trasbordare da una all'altra.
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_logica|Logica, giochi, strategie]]
-**Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
+**Metodo:** [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 30
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1f1h1TJscOH5tK9jr84T2t5qStr4PB-2H/view)
@@ -308,8 +312,8 @@ level: kangourou
 
 > (*22 points*) Four boats $A$, $B$, $C$, $D$ can cross a river from one bank to the other in both directions; the time taken by each boat does not depend on the direction. Boat $A$ takes 2 minutes to cross, boat $B$ takes 4 minutes, boat $C$ takes 8 minutes, and boat $D$ takes 16 minutes. The four boats are moored together on the left bank; all of them must be ferried to the right bank, and only one helmsman is available. A boat can tow at most one other boat, but in that case the two-boat convoy takes as long to cross as the slower of the two boats. Once a crossing has been completed, the helmsman can return to the starting point only by using one of the four boats. Find the minimum time (in minutes) that makes the operation possible, ignoring the time needed to attach and detach the boats and to transfer from one boat to another.
 
-**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_logica|Logic, games and strategies]]
-**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
-**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
-[[Quesiti/src_kangourou_2009_ecolier_maggio#qe6|src_kangourou_2009_ecolier_maggio__QE6]]
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_logica|Logic, games and strategies]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]], [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]

@@ -19,7 +19,7 @@ level: Semifinale Campionati Internazionali di Giochi Matematici
 
 > Eliminate due fiammiferi dalla figura in modo che l'addizione risulti esatta. (Nel foglio risposte, mettere una crocetta sui due fiammiferi da eliminare)
 
-![[src_bocconi_semifinale_2010__q01.png]]
+![[src_bocconi_semifinale_2010__Q01.png]]
 
 **Topic:** [[topic_logica|Logica]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_casework|Casework]]
@@ -36,14 +36,12 @@ level: Semifinale Campionati Internazionali di Giochi Matematici
 
 > Remove two matchsticks from the figure so that the addition is exact. (On the answer sheet, put a cross next to the two matchsticks to be removed.)
 
-![[src_bocconi_semifinale_2010__q01.png]]
+![[src_bocconi_semifinale_2010__Q01.png]]
 
 **Topic:** [[topic_logica|Logic, games, strategies]], [[topic_aritmetica|Arithmetic / Number theory]]
 **Metodo:** [[method_casework|Case analysis]]
 **Abilita:** [[skill_lettura_attenta|Careful reading of the text]], [[skill_casework_accurato|Careful case analysis]]
 **Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
-
-[[Quesiti/src_bocconi_semifinale_2010#q01|src_bocconi_semifinale_2010__Q01]]
 
 
 
@@ -56,7 +54,7 @@ level: Semifinale Campionati Internazionali di Giochi Matematici
 
 > Nel labirinto della figura, una formica comincia il suo percorso partendo da $A$. Il regolamento della camminata prevede che possa passare più volte dallo stesso incrocio ma che non possa invece imboccare più di una volta lo stesso corridoio. Quale distanza al massimo può percorrere la formica (rispettando le regole)? Attenzione: la formica non deve obbligatoriamente tornare dove ha cominciato camminando al punto $A$; ogni tratto rettilineo (come indicato in figura) è di $1$ cm.
 
-![[src_bocconi_semifinale_2010__q02.png]]
+![[src_bocconi_semifinale_2010__Q02.png]]
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_logica|Logica]]
 **Metodo:** [[method_grafi|Grafi]], [[method_estremalita|Estremalità]]
@@ -73,14 +71,12 @@ level: Semifinale Campionati Internazionali di Giochi Matematici
 
 > In the labyrinth of the figure, an ant begins its journey from $A$. The rules of the walk stipulate that the ant may pass through the same junction multiple times but may not take the same corridor more than once. What is the maximum distance the ant can travel (while following the rules)? Note: the ant is not required to return to where it started by walking to point $A$; each straight segment (as indicated in the figure) is $1$ cm long.
 
-![[src_bocconi_semifinale_2010__q02.png]]
+![[src_bocconi_semifinale_2010__Q02.png]]
 
 **Topic:** [[topic_combinatoria|Combinatorics]], [[topic_logica|Logic, games, strategies]]
 **Metodo:** [[method_grafi|Graph theory]], [[method_estremalita|Extremal principle]]
 **Abilita:** [[skill_modellizzazione|Modelling / translating the text]], [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_conteggio_sistematico|Systematic counting]]
 **Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
-
-[[Quesiti/src_bocconi_semifinale_2010#q02|src_bocconi_semifinale_2010__Q02]]
 
 
 
@@ -93,7 +89,7 @@ level: Semifinale Campionati Internazionali di Giochi Matematici
 
 > Le due scatole della figura contengono ognuna 6 numeri. Luca vuole riuscire a rendere uguali le somme delle due scatole, togliendo meno numeri possibili. Quali numeri deve togliere Luca?
 
-![[src_bocconi_semifinale_2010__q03.png]]
+![[src_bocconi_semifinale_2010__Q03.png]]
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_casework|Casework]], [[method_casi_conteggio|Casi e conteggio]]
@@ -110,14 +106,12 @@ level: Semifinale Campionati Internazionali di Giochi Matematici
 
 > The two boxes in the figure each contain 6 numbers. Luca wants to make the sums of the two boxes equal by removing as few numbers as possible. Which numbers must Luca remove?
 
-![[src_bocconi_semifinale_2010__q03.png]]
+![[src_bocconi_semifinale_2010__Q03.png]]
 
 **Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
 **Metodo:** [[method_casework|Case analysis]], [[method_casi_conteggio|Counting by cases]]
 **Abilita:** [[skill_lettura_attenta|Careful reading of the text]], [[skill_conteggio_sistematico|Systematic counting]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
-
-[[Quesiti/src_bocconi_semifinale_2010#q03|src_bocconi_semifinale_2010__Q03]]
 
 
 
@@ -130,7 +124,7 @@ level: Semifinale Campionati Internazionali di Giochi Matematici
 
 > Un quadrato magico $3 \times 3$ è uno schema quadrato di 9 caselle disposte su tre righe e tre colonne tale che la somma dei numeri di qualsiasi riga, di qualsiasi colonna e di ognuna delle due diagonali è sempre uguale. Un quadrato magico di questo tipo è stato scomposto in cinque pezzi, come indicato in figura. Ricostruite il quadrato magico, senza girare i pezzi.
 
-![[src_bocconi_semifinale_2010__q04.png]]
+![[src_bocconi_semifinale_2010__Q04.png]]
 
 **Topic:** [[topic_logica|Logica]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_casework|Casework]], [[method_invarianti|Invarianti]]
@@ -147,14 +141,12 @@ level: Semifinale Campionati Internazionali di Giochi Matematici
 
 > A magic square $3 \times 3$ is a square arrangement of 9 cells arranged in three rows and three columns such that the sum of the numbers in any row, any column, and each of the two diagonals is always the same. A magic square of this type has been divided into five pieces, as shown in the figure. Reconstruct the magic square without rotating the pieces.
 
-![[src_bocconi_semifinale_2010__q04.png]]
+![[src_bocconi_semifinale_2010__Q04.png]]
 
 **Topic:** [[topic_logica|Logic, games, strategies]], [[topic_aritmetica|Arithmetic / Number theory]]
 **Metodo:** [[method_casework|Case analysis]], [[method_invarianti|Invariants / monovariants]]
 **Abilita:** [[skill_lettura_attenta|Careful reading of the text]], [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_conteggio_sistematico|Systematic counting]]
 **Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
-
-[[Quesiti/src_bocconi_semifinale_2010#q04|src_bocconi_semifinale_2010__Q04]]
 
 
 
@@ -187,8 +179,6 @@ level: Semifinale Campionati Internazionali di Giochi Matematici
 **Abilita:** [[skill_modellizzazione|Modelling / translating the text]], [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_lettura_attenta|Careful reading of the text]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Algebra e Analisi|Algebra and analysis]]
 
-[[Quesiti/src_bocconi_semifinale_2010#q05|src_bocconi_semifinale_2010__Q05]]
-
 
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_geometria_piana,topic_combinatoria,method_estremalita,method_casework,skill_modellizzazione,skill_ragionamento_geometrico,skill_conteggio_sistematico"></span>
@@ -219,8 +209,6 @@ level: Semifinale Campionati Internazionali di Giochi Matematici
 **Metodo:** [[method_estremalita|Extremal principle]], [[method_casework|Case analysis]]
 **Abilita:** [[skill_modellizzazione|Modelling / translating the text]], [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_conteggio_sistematico|Systematic counting]]
 **Area:** [[Geometria|Geometry]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
-
-[[Quesiti/src_bocconi_semifinale_2010#q06|src_bocconi_semifinale_2010__Q06]]
 
 
 
@@ -253,8 +241,6 @@ level: Semifinale Campionati Internazionali di Giochi Matematici
 **Abilita:** [[skill_lettura_attenta|Careful reading of the text]], [[skill_modellizzazione|Modelling / translating the text]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
-[[Quesiti/src_bocconi_semifinale_2010#q07|src_bocconi_semifinale_2010__Q07]]
-
 
 
 <span class="atom-split" id="q08" data-atom="q08" data-title="Quesito 8" data-tags="topic_aritmetica,topic_logica,method_casework,method_congruenze,skill_lettura_attenta,skill_manipolazione_algebrica,skill_conteggio_sistematico"></span>
@@ -286,8 +272,6 @@ level: Semifinale Campionati Internazionali di Giochi Matematici
 **Abilita:** [[skill_lettura_attenta|Careful reading of the text]], [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_conteggio_sistematico|Systematic counting]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
-[[Quesiti/src_bocconi_semifinale_2010#q08|src_bocconi_semifinale_2010__Q08]]
-
 
 
 <span class="atom-split" id="q09" data-atom="q09" data-title="Quesito 9" data-tags="topic_geometria_piana,topic_logica,method_simmetria,method_casework,skill_ragionamento_geometrico,skill_lettura_attenta"></span>
@@ -299,7 +283,7 @@ level: Semifinale Campionati Internazionali di Giochi Matematici
 
 > Dividete la figura (seguendo le linee tratteggiate) in due pezzi sovrapponibili. Attenzione: uno dei due pezzi potrà eventualmente essere ribaltato.
 
-![[src_bocconi_semifinale_2010__q09.png]]
+![[src_bocconi_semifinale_2010__Q09.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_logica|Logica]]
 **Metodo:** [[method_simmetria|Simmetria]], [[method_casework|Casework]]
@@ -316,18 +300,16 @@ level: Semifinale Campionati Internazionali di Giochi Matematici
 
 > Divide the figure (along the dashed lines) into two pieces that can be superimposed. Note: one of the two pieces may possibly be flipped over.
 
-![[src_bocconi_semifinale_2010__q09.png]]
+![[src_bocconi_semifinale_2010__Q09.png]]
 
 **Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_logica|Logic, games, strategies]]
 **Metodo:** [[method_simmetria|Using symmetry]], [[method_casework|Case analysis]]
 **Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_lettura_attenta|Careful reading of the text]]
 **Area:** [[Geometria|Geometry]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
-[[Quesiti/src_bocconi_semifinale_2010#q09|src_bocconi_semifinale_2010__Q09]]
 
 
-
-<span class="atom-split" id="q10" data-atom="q10" data-title="Quesito 10" data-tags="topic_geometria_piana,topic_trigonometria,method_trigonometria,method_casework,skill_manipolazione_algebrica,skill_ragionamento_geometrico"></span>
+<span class="atom-split" id="q10" data-atom="q10" data-title="Quesito 10" data-tags="topic_geometria_piana,topic_trigonometria,topic_algebra,method_trigonometria,method_casework,method_fattorizzazione,skill_manipolazione_algebrica,skill_ragionamento_geometrico"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -336,10 +318,10 @@ level: Semifinale Campionati Internazionali di Giochi Matematici
 
 > In un triangolo rettangolo, il prodotto delle lunghezze dei tre lati è il doppio del prodotto delle tre altezze. Quale è la misura (in gradi) di uno dei due angoli acuti di questo triangolo rettangolo?
 
-**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometria]]
-**Metodo:** [[method_trigonometria|Trigonometria]], [[method_casework|Casework]]
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometria]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_trigonometria|Trigonometria]], [[method_casework|Casework]], [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
-**Area:** [[Geometria]]
+**Area:** [[Geometria]], [[Algebra e Analisi]]
 **Risposta:** $45^\circ$
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1u9tAv5YwicYzWnUzgD5wqJRjEQfsH9OR/view)
 
@@ -351,12 +333,11 @@ level: Semifinale Campionati Internazionali di Giochi Matematici
 
 > In a right triangle, the product of the lengths of the three sides is twice the product of the three altitudes. What is the measure (in degrees) of one of the two acute angles of this right triangle?
 
-**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_trigonometria|Trigonometric techniques]]
-**Metodo:** [[method_trigonometria|Trigonometric techniques]], [[method_casework|Case analysis]]
-**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_ragionamento_geometrico|Geometric reasoning]]
-**Area:** [[Geometria|Geometry]]
 
-[[Quesiti/src_bocconi_semifinale_2010#q10|src_bocconi_semifinale_2010__Q10]]
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_trigonometria|Trigonometric techniques]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_trigonometria|Trigonometric techniques]], [[method_casework|Case analysis]], [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]], [[Algebra e Analisi|Algebra and analysis]]
 
 
 
@@ -389,11 +370,9 @@ level: Semifinale Campionati Internazionali di Giochi Matematici
 **Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_conteggio_sistematico|Systematic counting]], [[skill_lettura_attenta|Careful reading of the text]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
-[[Quesiti/src_bocconi_semifinale_2010#q11|src_bocconi_semifinale_2010__Q11]]
 
 
-
-<span class="atom-split" id="q12" data-atom="q12" data-title="Quesito 12" data-tags="topic_combinatoria,topic_aritmetica,method_conteggio,method_inclusione_esclusione,skill_modellizzazione,skill_manipolazione_algebrica,skill_conteggio_sistematico"></span>
+<span class="atom-split" id="q12" data-atom="q12" data-title="Quesito 12" data-tags="topic_combinatoria,topic_aritmetica,method_conteggio,method_inclusione_esclusione,method_casework,skill_modellizzazione,skill_manipolazione_algebrica,skill_conteggio_sistematico,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -403,8 +382,8 @@ level: Semifinale Campionati Internazionali di Giochi Matematici
 > Al torneo di scacchi di Mathcity, ogni giocatore doveva confrontarsi con ognuno degli altri partecipanti. Due giocatori, influenzati, hanno però potuto disputare solo 3 partite ciascuno. Le altre, che questi giocatori avrebbero dovuto disputare, sono state quindi annullate. In totale, ci sono state 83 partite. Quanti giocatori erano iscritti al torneo, compresi i due malati?
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_conteggio|Conteggio]], [[method_inclusione_esclusione|Inclusione-esclusione]]
-**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Metodo:** [[method_conteggio|Conteggio]], [[method_inclusione_esclusione|Inclusione-esclusione]], [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 15 giocatori
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1u9tAv5YwicYzWnUzgD5wqJRjEQfsH9OR/view)
@@ -417,12 +396,11 @@ level: Semifinale Campionati Internazionali di Giochi Matematici
 
 > At the Mathcity chess tournament, each player had to face each of the other participants. However, two players who were affected were able to play only 3 games each. The other games that these players would have had to play were therefore cancelled. In total, there were 83 games. How many players were registered for the tournament, including the two ill players?
 
-**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_aritmetica|Arithmetic / Number theory]]
-**Metodo:** [[method_conteggio|Combinatorial counting]], [[method_inclusione_esclusione|Inclusion–exclusion]]
-**Abilita:** [[skill_modellizzazione|Modelling / translating the text]], [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_conteggio_sistematico|Systematic counting]]
-**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
-[[Quesiti/src_bocconi_semifinale_2010#q12|src_bocconi_semifinale_2010__Q12]]
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_conteggio|Combinatorial counting]], [[method_inclusione_esclusione|Inclusion–exclusion]], [[method_casework|Case analysis]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]], [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_conteggio_sistematico|Systematic counting]], [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
 
 
@@ -435,7 +413,7 @@ level: Semifinale Campionati Internazionali di Giochi Matematici
 
 > La somma di 13 numeri positivi è 2010. Qual è il più grande Massimo Comun Divisore dei 13 numeri?
 
-![[src_bocconi_semifinale_2010__q13.png]]
+![[src_bocconi_semifinale_2010__Q13.png]]
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_estremalita|Estremalità]]
@@ -452,14 +430,12 @@ level: Semifinale Campionati Internazionali di Giochi Matematici
 
 > The sum of 13 positive numbers is 2010. What is the greatest possible greatest common divisor of the 13 numbers?
 
-![[src_bocconi_semifinale_2010__q13.png]]
+![[src_bocconi_semifinale_2010__Q13.png]]
 
 **Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
 **Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]], [[method_estremalita|Extremal principle]]
 **Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_conteggio_sistematico|Systematic counting]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
-
-[[Quesiti/src_bocconi_semifinale_2010#q13|src_bocconi_semifinale_2010__Q13]]
 
 
 
@@ -492,11 +468,9 @@ level: Semifinale Campionati Internazionali di Giochi Matematici
 **Abilita:** [[skill_conteggio_sistematico|Systematic counting]], [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_riconoscimento_pattern|Pattern recognition]]
 **Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Geometria|Geometry]]
 
-[[Quesiti/src_bocconi_semifinale_2010#q14|src_bocconi_semifinale_2010__Q14]]
 
 
-
-<span class="atom-split" id="q15" data-atom="q15" data-title="Quesito 15" data-tags="topic_aritmetica,method_fattorizzazione,method_casework,skill_manipolazione_algebrica,skill_conteggio_sistematico,skill_lettura_attenta"></span>
+<span class="atom-split" id="q15" data-atom="q15" data-title="Quesito 15" data-tags="topic_aritmetica,method_fattorizzazione,method_casework,skill_manipolazione_algebrica,skill_conteggio_sistematico,skill_lettura_attenta,skill_stima"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -507,7 +481,7 @@ level: Semifinale Campionati Internazionali di Giochi Matematici
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_casework|Casework]]
-**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_stima|Stima e approssimazione]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** $N = 27$
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1u9tAv5YwicYzWnUzgD5wqJRjEQfsH9OR/view)
@@ -520,16 +494,15 @@ level: Semifinale Campionati Internazionali di Giochi Matematici
 
 > The sixth power of a positive integer $N$ is a 9-digit number. When these digits are arranged in descending order, the result is 987744320. What was the initial number $N$?
 
+
 **Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
 **Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]], [[method_casework|Case analysis]]
-**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_conteggio_sistematico|Systematic counting]], [[skill_lettura_attenta|Careful reading of the text]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_conteggio_sistematico|Systematic counting]], [[skill_lettura_attenta|Careful reading of the text]], [[skill_stima|Estimation and approximation]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
-[[Quesiti/src_bocconi_semifinale_2010#q15|src_bocconi_semifinale_2010__Q15]]
 
 
-
-<span class="atom-split" id="q16" data-atom="q16" data-title="Quesito 16" data-tags="topic_combinatoria,topic_logica,method_conteggio,method_cassetti,method_estremalita,skill_modellizzazione,skill_conteggio_sistematico,skill_ragionamento_geometrico"></span>
+<span class="atom-split" id="q16" data-atom="q16" data-title="Quesito 16" data-tags="topic_combinatoria,topic_logica,method_conteggio,method_cassetti,method_estremalita,method_bigezione,skill_modellizzazione,skill_conteggio_sistematico,skill_ragionamento_geometrico"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -542,7 +515,7 @@ level: Semifinale Campionati Internazionali di Giochi Matematici
 > quante serrature, al minimo, ha la cassaforte? (Ogni chiave apre una sola serratura e naturalmente la cassaforte si apre solo quando tutte le serrature sono aperte.)
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_logica|Logica]]
-**Metodo:** [[method_conteggio|Conteggio]], [[method_cassetti|Principio dei cassetti]], [[method_estremalita|Estremalità]]
+**Metodo:** [[method_conteggio|Conteggio]], [[method_cassetti|Principio dei cassetti]], [[method_estremalita|Estremalità]], [[method_bigezione|Bigezione / corrispondenza]]
 **Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 504 chiavi
@@ -559,9 +532,8 @@ level: Semifinale Campionati Internazionali di Giochi Matematici
 > - any 6 jury members can open the safe;
 > how many locks does the safe have, at minimum? (Each key opens only one lock, and, of course, the safe opens only when all the locks are opened.)
 
+
 **Topic:** [[topic_combinatoria|Combinatorics]], [[topic_logica|Logic, games, strategies]]
-**Metodo:** [[method_conteggio|Combinatorial counting]], [[method_cassetti|Pigeonhole principle]], [[method_estremalita|Extremal principle]]
+**Metodo:** [[method_conteggio|Combinatorial counting]], [[method_cassetti|Pigeonhole principle]], [[method_estremalita|Extremal principle]], [[method_bigezione|Bijection / correspondence]]
 **Abilita:** [[skill_modellizzazione|Modelling / translating the text]], [[skill_conteggio_sistematico|Systematic counting]], [[skill_ragionamento_geometrico|Geometric reasoning]]
 **Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
-
-[[Quesiti/src_bocconi_semifinale_2010#q16|src_bocconi_semifinale_2010__Q16]]

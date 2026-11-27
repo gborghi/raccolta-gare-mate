@@ -38,11 +38,9 @@ level: OBM Nível 3
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 
-[[Quesiti/src_obm_2001_n3_f2#q01|src_obm_2001_n3_f2__Q01]]
 
 
-
-<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_geometria_piana,topic_aritmetica,method_casework,skill_manipolazione_algebrica,skill_modellizzazione,skill_lettura_attenta"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_geometria_piana,topic_aritmetica,method_casework,skill_manipolazione_algebrica,skill_modellizzazione,skill_lettura_attenta,skill_ragionamento_geometrico"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -51,12 +49,12 @@ level: OBM Nível 3
 
 > A rectangle is divided into 9 squares $A, B, C, D, E, F, G, H$ and $I$. Square $A$ has side length $1$. What is the side length of square $I$?
 
-![[src_obm_2001_n3_f2__q02.png]]
+![[src_obm_2001_n3_f2__Q02.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_casework|Casework]]
-**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]], [[skill_lettura_attenta|Lettura attenta]]
-**Area:** [[Geometria]], [[Aritmetica e Teoria dei Numeri]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]], [[skill_lettura_attenta|Lettura attenta]], [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1yM40u2ZxHFdkZSGVKT8nDEDRXMocfMKg/view)
 
 
@@ -67,14 +65,13 @@ level: OBM Nível 3
 
 > Un rettangolo è diviso in 9 quadrati $A, B, C, D, E, F, G, H$ e $I$. Il quadrato $A$ ha lato di lunghezza $1$. Qual è la lunghezza del lato del quadrato $I$?
 
-![[src_obm_2001_n3_f2__q02.png]]
+![[src_obm_2001_n3_f2__Q02.png]]
+
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_casework|Casework]]
-**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]], [[skill_lettura_attenta|Lettura attenta]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]], [[skill_lettura_attenta|Lettura attenta]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]], [[Aritmetica e Teoria dei Numeri]]
-
-[[Quesiti/src_obm_2001_n3_f2#q02|src_obm_2001_n3_f2__Q02]]
 
 
 
@@ -87,7 +84,7 @@ level: OBM Nível 3
 
 > Trapezoid $ABCD$ has bases $AB \parallel CD$. Side $DA$ has length $x$ and side $BC$ has length $2x$. The sum of angles $\angle DAB + \angle ABC = 120^\circ$. Determine angle $\angle DAB$.
 
-![[src_obm_2001_n3_f2__q03.png]]
+![[src_obm_2001_n3_f2__Q03.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_trigonometria|Trigonometria]], [[method_simmetria|Simmetria]]
@@ -103,18 +100,16 @@ level: OBM Nível 3
 
 > Il trapezio $ABCD$ ha basi $AB \parallel CD$. Il lato $DA$ ha lunghezza $x$ e il lato $BC$ ha lunghezza $2x$. La somma degli angoli è $\angle DAB + \angle ABC = 120^\circ$. Determinare l'angolo $\angle DAB$.
 
-![[src_obm_2001_n3_f2__q03.png]]
+![[src_obm_2001_n3_f2__Q03.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_trigonometria|Trigonometria]], [[method_simmetria|Simmetria]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Geometria]]
 
-[[Quesiti/src_obm_2001_n3_f2#q03|src_obm_2001_n3_f2__Q03]]
 
 
-
-<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_combinatoria,topic_aritmetica,method_casework,method_estremalita,skill_modellizzazione,skill_casework_accurato,skill_lettura_attenta,skill_conteggio_sistematico"></span>
+<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_combinatoria,topic_aritmetica,method_casework,method_estremalita,method_conteggio,skill_modellizzazione,skill_casework_accurato,skill_lettura_attenta,skill_conteggio_sistematico"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -128,9 +123,9 @@ level: OBM Nível 3
 > b) Determine the smallest $n$ such that if Vulcano FC accumulates \emph{at least} $n$ points in the second round, this guarantees Vulcano FC a place in the final (independent of how many points the opponent accumulates and what the scores of the other teams are).
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_casework|Casework]], [[method_estremalita|Estremalità]]
+**Metodo:** [[method_casework|Casework]], [[method_estremalita|Estremalità]], [[method_conteggio|Combinatorial counting]]
 **Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_casework_accurato|Casework accurato]], [[skill_lettura_attenta|Lettura attenta]], [[skill_conteggio_sistematico|Conteggio sistematico]]
-**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1yM40u2ZxHFdkZSGVKT8nDEDRXMocfMKg/view)
 
 
@@ -145,12 +140,11 @@ level: OBM Nível 3
 >
 > b) Determina il più piccolo $n$ tale che, se il Vulcano FC accumula \emph{almeno} $n$ punti nel secondo turno, ciò garantisca al Vulcano FC un posto nella finale (indipendentemente da quanti punti accumuli l'avversario e da quali siano i risultati delle altre squadre).
 
+
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_casework|Casework]], [[method_estremalita|Estremalità]]
+**Metodo:** [[method_casework|Casework]], [[method_estremalita|Estremalità]], [[method_conteggio|Conteggio combinatorio]]
 **Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_casework_accurato|Casework accurato]], [[skill_lettura_attenta|Lettura attenta]], [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
-
-[[Quesiti/src_obm_2001_n3_f2#q04|src_obm_2001_n3_f2__Q04]]
 
 
 
@@ -185,8 +179,6 @@ level: OBM Nível 3
 **Metodo:** [[method_telescoping|Telescoping]], [[method_fattorizzazione|Fattorizzazione]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
-
-[[Quesiti/src_obm_2001_n3_f2#q05|src_obm_2001_n3_f2__Q05]]
 
 
 
@@ -225,5 +217,3 @@ level: OBM Nível 3
 **Metodo:** [[method_invarianti|Invarianti]], [[method_induzione|Induzione]], [[method_ricorsione|Ricorsione]]
 **Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_modellizzazione|Modellizzazione]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
-
-[[Quesiti/src_obm_2001_n3_f2#q06|src_obm_2001_n3_f2__Q06]]

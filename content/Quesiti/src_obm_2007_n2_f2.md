@@ -39,8 +39,6 @@ level: OBM Nível 2
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Casework accurato]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 
-[[Quesiti/src_obm_2007_n2_f2#q01|src_obm_2007_n2_f2__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_aritmetica,skill_lettura_attenta"></span>
@@ -69,8 +67,6 @@ level: OBM Nível 2
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Abilita:** [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
-
-[[Quesiti/src_obm_2007_n2_f2#q02|src_obm_2007_n2_f2__Q02]]
 
 
 
@@ -103,8 +99,6 @@ level: OBM Nível 2
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Geometria]]
 
-[[Quesiti/src_obm_2007_n2_f2#q03|src_obm_2007_n2_f2__Q03]]
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_aritmetica,skill_lettura_attenta"></span>
@@ -134,11 +128,9 @@ level: OBM Nível 2
 **Abilita:** [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 
-[[Quesiti/src_obm_2007_n2_f2#q04|src_obm_2007_n2_f2__Q04]]
 
 
-
-<span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_aritmetica,topic_combinatoria,method_invarianti,method_ricorsione,skill_riconoscimento_pattern,skill_lettura_attenta"></span>
+<span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_aritmetica,topic_combinatoria,topic_funzionali,method_invarianti,method_ricorsione,skill_riconoscimento_pattern,skill_lettura_attenta"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -147,10 +139,10 @@ level: OBM Nível 2
 
 > Consider the iterative process applied to a four-digit number (the Kaprekar routine). Determine the value to which the resulting sequence eventually becomes constant. [Source is the solutions sheet; the only printed text is 'From the seventh term on, all are equal to 6174.' The exact original statement is NOT present. Answer per the gabarito: 6174.]
 
-**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]], [[topic_funzionali|Functional equations / sequences]]
 **Metodo:** [[method_invarianti|Invarianti]], [[method_ricorsione|Ricorsione]]
 **Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_lettura_attenta|Lettura attenta]]
-**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Algebra e Analisi|Algebra and analysis]]
 **Risposta:** 6174
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1OgjS6boTZbpyNmqt1yhiem7eONSU7h_P/view)
 
@@ -162,12 +154,11 @@ level: OBM Nível 2
 
 > Si consideri il processo iterativo applicato a un numero di quattro cifre (la routine di Kaprekar). Si determini il valore a cui la successione risultante diventa infine costante. [La fonte è il foglio delle soluzioni; l'unico testo stampato è "A partire dal settimo termine, tutti sono uguali a 6174". L'enunciato originale esatto NON è presente. Risposta secondo il gabarito: 6174.]
 
-**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]], [[topic_funzionali|Equazioni funzionali / successioni]]
 **Metodo:** [[method_invarianti|Invarianti]], [[method_ricorsione|Ricorsione]]
 **Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_lettura_attenta|Lettura attenta]]
-**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
-
-[[Quesiti/src_obm_2007_n2_f2#q05|src_obm_2007_n2_f2__Q05]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]], [[Algebra e Analisi]]
 
 
 
@@ -180,7 +171,7 @@ level: OBM Nível 2
 
 > (Part B, Problem 1.) Let $ABC$ be a right triangle, and let $O$ be a point with $AO=BO=CO$ (so $O$ is the midpoint of the hypotenuse / circumcenter). A point $I$ satisfies $\angle BAI=\angle OAI=45^\circ$. Since triangle $ABC$ is right-angled, one has $AO=BO=CO$, and from $\angle BAI=\angle OAI=45^\circ$ together with the common side $AI$ the triangles $ABI$ and $AOI$ are congruent (ASA), giving $AB=BO$; with $AB=BO=AO$ the triangle $ABO$ is equilateral. Conclude the measure of $\angle ACB$. [Source is the solutions sheet; statement reconstructed from the solution, which concludes $\angle ACB=30^\circ$.]
 
-![[src_obm_2007_n2_f2__q06.png]]
+![[src_obm_2007_n2_f2__Q06.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_simmetria|Simmetria]]
@@ -197,14 +188,12 @@ level: OBM Nível 2
 
 > (Parte B, Problema 1.) Sia $ABC$ un triangolo rettangolo, e sia $O$ un punto tale che $AO=BO=CO$ (quindi $O$ è il punto medio dell'ipotenusa / il circocentro). Un punto $I$ soddisfa $\angle BAI=\angle OAI=45^\circ$. Poiché il triangolo $ABC$ è rettangolo, si ha $AO=BO=CO$, e da $\angle BAI=\angle OAI=45^\circ$ insieme al lato comune $AI$ i triangoli $ABI$ e $AOI$ sono congruenti (ASA), il che dà $AB=BO$; con $AB=BO=AO$ il triangolo $ABO$ è equilatero. Si determini la misura di $\angle ACB$. [La fonte è il foglio delle soluzioni; l'enunciato è stato ricostruito a partire dalla soluzione, la quale conclude $\angle ACB=30^\circ$.]
 
-![[src_obm_2007_n2_f2__q06.png]]
+![[src_obm_2007_n2_f2__Q06.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_simmetria|Simmetria]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]]
-
-[[Quesiti/src_obm_2007_n2_f2#q06|src_obm_2007_n2_f2__Q06]]
 
 
 
@@ -237,11 +226,9 @@ level: OBM Nível 2
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Algebra e Analisi]]
 
-[[Quesiti/src_obm_2007_n2_f2#q07|src_obm_2007_n2_f2__Q07]]
 
 
-
-<span class="atom-split" id="q08" data-atom="q08" data-title="Quesito 8" data-tags="topic_aritmetica,method_fattorizzazione,method_congruenze,method_casework,skill_manipolazione_algebrica,skill_casework_accurato"></span>
+<span class="atom-split" id="q08" data-atom="q08" data-title="Quesito 8" data-tags="topic_aritmetica,method_fattorizzazione,method_congruenze,method_casework,skill_manipolazione_algebrica,skill_casework_accurato,skill_conteggio_sistematico"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -252,8 +239,8 @@ level: OBM Nível 2
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_congruenze|Congruenze]], [[method_casework|Casework]]
-**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Casework accurato]]
-**Area:** [[Aritmetica e Teoria dei Numeri]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Casework accurato]], [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Risposta:** 192
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1OgjS6boTZbpyNmqt1yhiem7eONSU7h_P/view)
 
@@ -265,12 +252,11 @@ level: OBM Nível 2
 
 > (Parte B, Problema 3.) a) Sia $N=23^5-23=23\cdot(23^4-1)=23\cdot(23^2+1)(23^2-1)=23\cdot(23^2+1)(23+1)(23-1)=23\cdot530\cdot24\cdot22=2^5\cdot3\cdot5\cdot11\cdot23\cdot53$. Determinare il numero di divisori positivi di $N$ (che è $6\times2\times2\times2\times2=192$). b) Sia $N=n^3-n=n(n-1)(n+1)$. Dimostrare che $N$ è sempre un multiplo di $30$. (Tra i tre numeri interi consecutivi $n-1,n,n+1$, uno è pari e uno è un multiplo di $3$; se nessuno è un multiplo di $5$, allora $n\equiv2$ oppure $3\pmod5$, e $n^2+1$ è un multiplo di $5$, quindi $n^3-n$ è un multiplo di $5$. Pertanto $N$ è un multiplo di $2\cdot3\cdot5=30$.) [La fonte è il foglio delle soluzioni; l'enunciato è stato ricostruito a partire dalla soluzione. L'OCR della parte a ha omesso un fattore primo; il numero di divisori 192 implica $N=2^5\cdot3\cdot5\cdot11\cdot23\cdot53$.]
 
+
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_congruenze|Congruenze]], [[method_casework|Casework]]
-**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Casework accurato]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Casework accurato]], [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
-
-[[Quesiti/src_obm_2007_n2_f2#q08|src_obm_2007_n2_f2__Q08]]
 
 
 
@@ -302,5 +288,3 @@ level: OBM Nível 2
 **Metodo:** [[method_conteggio|Conteggio]], [[method_casework|Casework]], [[method_colorazione|Colorazione]]
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
-
-[[Quesiti/src_obm_2007_n2_f2#q09|src_obm_2007_n2_f2__Q09]]

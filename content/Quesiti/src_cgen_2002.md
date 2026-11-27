@@ -12,9 +12,6 @@ level: Concours Général
 
 <span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_geometria_piana,topic_geometria_analitica,topic_trigonometria,method_coordinate,method_trigonometria,method_simmetria,skill_ragionamento_geometrico,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
 
-<div class="qlang-switch" data-default="en"></div>
-
-
 *Premiere partie: characterizations of a pseudo-rectangle triangle and complex-plane loci.*
 
 > Let $ABC$ be a triangle. Denote by $P$ the orthogonal projection of the point $A$ onto the line $(BC)$, and by $D$ the reflection of the point $C$ across the line $(AP)$.
@@ -44,8 +41,20 @@ level: Concours Général
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1lVQd2O4k5TRxqRMW1VeIqgQiGW7QRGQs/view)
 
 
-<div class="qlang-split" data-lang="it"></div>
 
+<span class="atom-split" id="q01__it" data-atom="q01__it" data-title="Q01__IT" data-tags=""></span>
+
+---
+tipo: quesito-translation
+translation_of: src_cgen_2002__Q01
+lang: it
+secondary: true
+title: "Concours Général des Lycées 2002  Matematica  Quesito 1"
+summary: "Premiere partie: caratteristiche di un triangolo pseudo rettangolare e loci di piano complesso."
+topics: [topic_geometria_piana, topic_geometria_analitica, topic_trigonometria]
+methods: [method_coordinate, method_trigonometria, method_simmetria]
+skills: [skill_ragionamento_geometrico, skill_manipolazione_algebrica, skill_lettura_attenta]
+tags: [kg/translation, topic/geometria_piana, topic/geometria_analitica, topic/trigonometria]---
 
 *Premiere partie: caratteristiche di un triangolo pseudo rettangolare e di loci di piano complesso.*
 
@@ -65,14 +74,15 @@ level: Concours Général
 > 
 > **6.** Nel piano complesso associato alla cornice ortonormale diretta $(O;\vec{\imath},\vec{\jmath})$, $\alpha$, $\beta$, $\gamma$ siano gli affissi dei punti non collineari $A$, $B$, $C$. a. Indicare una condizione necessaria e sufficiente su $\dfrac{(\alpha-\beta)(\alpha-\gamma)}{(\beta-\gamma)^2}$ affinché il triangolo $ABC$ sia pseudo rettangolo a $A$. b. Supponiamo $\beta = -\gamma = e^{i\frac{\pi}{4}}$. Determinare l'insieme $(E_1)$ dei punti $A$ del piano in modo tale che il triangolo $ABC$ sia pseudo rettangolo a $A$. c. Supponiamo $\beta = -\gamma = 1$. Determinare l'insieme $(E_2)$ dei punti $A$ del piano in modo tale che il triangolo $ABC$ sia pseudo rettangolo a $A$. d. Con quale semplice trasformazione geometrica si passa da $(E_2)$ a $(E_1)$?
 
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_geometria_analitica|Geometria analitica]], [[topic_trigonometria|Trigonometria]]
+**Metodo:** [[method_coordinate|Metodo delle coordinate]], [[method_trigonometria|Tecniche trigonometriche]], [[method_simmetria|Sfruttamento della simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta del testo]]
+**Area:** [[Geometria]]
 [[Quesiti/src_cgen_2002#q01|src_cgen_2002__Q01]]
 
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_aritmetica,topic_trigonometria,topic_geometria_piana,topic_algebra,method_trigonometria,method_fattorizzazione,method_congruenze,method_casework,skill_manipolazione_algebrica,skill_riconoscimento_pattern,skill_casework_accurato"></span>
-
-<div class="qlang-switch" data-default="en"></div>
-
 
 *Deuxieme partie: equivalent conditions for a pseudo-rectangle triangle, rational/integer side triples, and related Diophantine equations.*
 
@@ -112,8 +122,20 @@ level: Concours Général
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1lVQd2O4k5TRxqRMW1VeIqgQiGW7QRGQs/view)
 
 
-<div class="qlang-split" data-lang="it"></div>
 
+<span class="atom-split" id="q02__it" data-atom="q02__it" data-title="Q02__IT" data-tags=""></span>
+
+---
+tipo: quesito-translation
+translation_of: src_cgen_2002__Q02
+lang: it
+secondary: true
+title: "Concours Général des Lycées 2002  Matematica  Quesito 2"
+summary: "Deuxieme partie: condizioni equivalenti per un triangolo pseudo rettangolare, tripli laterali razionali/integrali e le relative equazioni diofantine."
+topics: [topic_aritmetica, topic_trigonometria, topic_geometria_piana, topic_algebra]
+methods: [method_trigonometria, method_fattorizzazione, method_congruenze, method_casework]
+skills: [skill_manipolazione_algebrica, skill_riconoscimento_pattern, skill_casework_accurato]
+tags: [kg/translation, topic/aritmetica, topic/trigonometria, topic/geometria_piana, topic/algebra]---
 
 *Deuxieme partie: condizioni equivalenti per un triangolo pseudo rettangolare, tripli laterali razionali/inti e le relative equazioni diofantine.*
 
@@ -135,14 +157,15 @@ level: Concours Général
 > 
 > **7.** Risolvi in $\mathbb{N}^*$ l'equazione $x^2\,(y^2 - z^2)^2 = (y^2 + z^2)^3$.
 
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_trigonometria|Trigonometria]], [[topic_geometria_piana|Geometria piana]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_trigonometria|Tecniche trigonometriche]], [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]], [[method_congruenze|Aritmetica modulare / congruenze]], [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Geometria]], [[Algebra e Analisi]]
 [[Quesiti/src_cgen_2002#q02|src_cgen_2002__Q02]]
 
 
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_geometria_analitica,topic_geometria_piana,method_coordinate,method_simmetria,method_estremalita,skill_ragionamento_geometrico,skill_manipolazione_algebrica,skill_stima"></span>
-
-<div class="qlang-switch" data-default="en"></div>
-
 
 *Troisieme partie: area under the hyperbola branch y=sqrt(x^2-1) via a Fermat-style trapezoid decomposition, and a limiting area ratio.*
 
@@ -167,8 +190,20 @@ level: Concours Général
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1lVQd2O4k5TRxqRMW1VeIqgQiGW7QRGQs/view)
 
 
-<div class="qlang-split" data-lang="it"></div>
 
+<span class="atom-split" id="q03__it" data-atom="q03__it" data-title="Q03__IT" data-tags=""></span>
+
+---
+tipo: quesito-translation
+translation_of: src_cgen_2002__Q03
+lang: it
+secondary: true
+title: "Concours Général des Lycées 2002  Matematica  Quesito 3"
+summary: "Troisieme partie: superficie sotto il ramo dell'iperbola y=sqrt(x^2-1) attraverso una decomposizione trapezoide di stile Fermat, e un rapporto di superficie limitante."
+topics: [topic_geometria_analitica, topic_geometria_piana]
+methods: [method_coordinate, method_simmetria, method_estremalita]
+skills: [skill_ragionamento_geometrico, skill_manipolazione_algebrica, skill_stima]
+tags: [kg/translation, topic/geometria_analitica, topic/geometria_piana]---
 
 *Troisieme partie: superficie sotto il ramo dell'iperbola y=sqrt(x^2-1) attraverso una decomposizione trapezoide di stile Fermat, e un rapporto di superficie limitante.*
 
@@ -182,11 +217,15 @@ level: Concours Général
 > 
 > **3.** $B$ e $C$ siano i punti delle rispettive coordinate $(1,0)$ e $(-1,0)$ e $A$ un punto delle coordinate $(x,y)$ con $x \ge 0$ e $y \ge 0$ in modo tale che il triangolo $ABC$ sia pseudo rettangolo a $A$. Indicare con $S$ la superficie del triangolo $ABC$ e con $S'$ la superficie della parte del piano costituita dai punti della piastra triangolare definiti dal triangolo $ABC$ le cui coordinate $(X,Y)$ soddisfano $Y^2 \le X^2 - 1$. Studiare il limite possibile, poiché $x$ tende all' infinito, del rapporto $\dfrac{S'}{S}$.
 
+**Topic:** [[topic_geometria_analitica|Geometria analitica]], [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_coordinate|Metodo delle coordinate]], [[method_simmetria|Sfruttamento della simmetria]], [[method_estremalita|Principio di estremalita]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima e approssimazione]]
+**Area:** [[Geometria]]
 [[Quesiti/src_cgen_2002#q03|src_cgen_2002__Q03]]
 
 
 
-<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_geometria_solida,topic_geometria_analitica,topic_aritmetica,method_coordinate,method_congruenze,method_fattorizzazione,method_conteggio,skill_ragionamento_geometrico,skill_casework_accurato,skill_conteggio_sistematico"></span>
+<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_geometria_solida,topic_geometria_analitica,topic_aritmetica,method_coordinate,method_congruenze,method_fattorizzazione,method_conteggio,skill_ragionamento_geometrico,skill_casework_accurato,skill_conteggio_sistematico,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -213,8 +252,8 @@ level: Concours Général
 
 **Topic:** [[topic_geometria_solida|Geometria solida]], [[topic_geometria_analitica|Geometria analitica]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_coordinate|Coordinate]], [[method_congruenze|Congruenze]], [[method_fattorizzazione|Fattorizzazione]], [[method_conteggio|Conteggio]]
-**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_casework_accurato|Casework accurato]], [[skill_conteggio_sistematico|Conteggio sistematico]]
-**Area:** [[Geometria]], [[Aritmetica e Teoria dei Numeri]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_casework_accurato|Casework accurato]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Geometria|Geometry]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1lVQd2O4k5TRxqRMW1VeIqgQiGW7QRGQs/view)
 
 
@@ -233,4 +272,7 @@ level: Concours Général
 > 
 > **3.** Quest'ultima domanda riguarda i punti interi dell'insieme $(H)$, cioè gli elementi di $(H)$ le cui tre coordinate sono interi. a. Che $(x,y,z)$ sia il triplo delle coordinate di tale punto. Indicare che $x$ o $y$ è strano. Da ora in poi, indicare con $\mathcal{S}$ l'insieme di triples $(x,y,z)$ di enti interi naturali rigorosamente positivi in modo tale che $x$ sia impar e $x^2 + y^2 = z^2 + 1$. b. Che $d$ sia un numero intero rigorosamente positivo fisso. Prova che l'insieme di elementi $(x,y,z)$ di $\mathcal{S}$ in modo tale che $\gcd(x+1, y+z) = d$ sia vuoto se $d$ è pari, e un insieme infinito se $d$ è pari. c. Il $m$ deve essere un intero naturale parziale superiore o uguale a $3$. Quanti elementi $(x,y,z)$ di $\mathcal{S}$ sono tali da $x = m$? Determinare questi elementi quando $m = 3, 5, 7, 9$.
 
-[[Quesiti/src_cgen_2002#q04|src_cgen_2002__Q04]]
+**Topic:** [[topic_geometria_solida|Geometria solida]], [[topic_geometria_analitica|Geometria analitica]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_coordinate|Metodo delle coordinate]], [[method_congruenze|Aritmetica modulare / congruenze]], [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]], [[method_conteggio|Conteggio combinatorio]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_casework_accurato|Casework accurato]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]], [[Aritmetica e Teoria dei Numeri]]

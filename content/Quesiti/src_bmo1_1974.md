@@ -19,7 +19,7 @@ level: BMO Round 1
 
 > The curves $A$, $B$ and $C$ are related in such a way that $B$ "bisects" the area between $A$ and $C$, that is, the area of the region between $B$ and $C$ is equal to the area of the region $Y$ at all points to the left of the curve $B$. Find the equation of the curve $B$ given that the equation of curve $A$ is $y = \frac{4}{3}x^2$ and that the equation of curve $C$ is $y = \frac{4}{3}x^{\frac{1}{2}}$.
 
-![[src_bmo1_1974__q01.png]]
+![[src_bmo1_1974__Q01.png]]
 
 **Topic:** [[topic_geometria_analitica|Geometria analitica]], [[topic_algebra|Algebra]]
 **Metodo:** [[method_coordinate|Coordinate]]
@@ -35,13 +35,13 @@ level: BMO Round 1
 
 > Le curve $A$, $B$ e $C$ sono legate in modo tale che $B$ "biseca" l'area compresa tra $A$ e $C$, cioè l'area della regione compresa tra $B$ e $C$ è uguale all'area della regione $Y$ in tutti i punti a sinistra della curva $B$. Trovare l'equazione della curva $B$ sapendo che l'equazione della curva $A$ è $y = \frac{4}{3}x^2$ e che l'equazione della curva $C$ è $y = \frac{4}{3}x^{\frac{1}{2}}$.
 >
-> ![[src_bmo1_1974__q01.png]]
+> ![[src_bmo1_1974__Q01.png]]
 
 
 **Topic:** [[topic_geometria_analitica|Geometria analitica]], [[topic_algebra|Algebra]]
 **Metodo:** [[method_coordinate|Metodo delle coordinate]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta del testo]]
-[[Quesiti/src_bmo1_1974#q01|src_bmo1_1974__Q01]]
+**Area:** [[Geometria]], [[Algebra e Analisi]]
 
 
 
@@ -72,11 +72,11 @@ level: BMO Round 1
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_casework|Analisi per casi]], [[method_conteggio|Conteggio combinatorio]], [[method_grafi|Teoria dei grafi]]
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
-[[Quesiti/src_bmo1_1974#q02|src_bmo1_1974__Q02]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
 
 
 
-<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_geometria_solida,topic_combinatoria,method_invarianti,skill_ragionamento_geometrico,skill_manipolazione_algebrica,skill_astrazione"></span>
+<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_geometria_solida,topic_combinatoria,method_invarianti,method_doppio_conteggio,skill_ragionamento_geometrico,skill_manipolazione_algebrica,skill_astrazione,skill_conteggio_sistematico"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -86,9 +86,9 @@ level: BMO Round 1
 > Prove that it is impossible for all the faces of a convex polyhedron to be hexagons.
 
 **Topic:** [[topic_geometria_solida|Geometria solida]], [[topic_combinatoria|Combinatoria]]
-**Metodo:** [[method_invarianti|Invarianti]]
-**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]]
-**Area:** [[Geometria]], [[Combinatoria, Logica e Probabilita]]
+**Metodo:** [[method_invarianti|Invarianti]], [[method_doppio_conteggio|Double counting]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]], [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Geometria|Geometry]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1CaunYJwpF91WiVYpFeF-ytX3cVGPZI1-/view)
 
 
@@ -101,9 +101,9 @@ level: BMO Round 1
 
 
 **Topic:** [[topic_geometria_solida|Geometria solida]], [[topic_combinatoria|Combinatoria]]
-**Metodo:** [[method_invarianti|Invarianti / monovarianti]]
-**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione / generalizzazione]]
-[[Quesiti/src_bmo1_1974#q03|src_bmo1_1974__Q03]]
+**Metodo:** [[method_invarianti|Invarianti / monovarianti]], [[method_doppio_conteggio|Doppio conteggio]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione / generalizzazione]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Geometria]], [[Combinatoria, Logica e Probabilita]]
 
 
 
@@ -134,7 +134,7 @@ level: BMO Round 1
 **Topic:** [[topic_algebra|Algebra]]
 **Metodo:** [[method_casework|Analisi per casi]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta del testo]]
-[[Quesiti/src_bmo1_1974#q04|src_bmo1_1974__Q04]]
+**Area:** [[Algebra e Analisi]]
 
 
 
@@ -165,7 +165,7 @@ level: BMO Round 1
 **Topic:** [[topic_probabilita|Probabilita e statistica]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_conteggio|Conteggio combinatorio]], [[method_inclusione_esclusione|Inclusione-esclusione]]
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
-[[Quesiti/src_bmo1_1974#q05|src_bmo1_1974__Q05]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
 
 
 
@@ -196,7 +196,7 @@ level: BMO Round 1
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_coordinate|Metodo delle coordinate]], [[method_simmetria|Sfruttamento della simmetria]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta del testo]]
-[[Quesiti/src_bmo1_1974#q06|src_bmo1_1974__Q06]]
+**Area:** [[Geometria]]
 
 
 
@@ -231,7 +231,7 @@ level: BMO Round 1
 **Topic:** [[topic_algebra|Algebra]]
 **Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]], [[method_simmetria|Sfruttamento della simmetria]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_lettura_attenta|Lettura attenta del testo]]
-[[Quesiti/src_bmo1_1974#q07|src_bmo1_1974__Q07]]
+**Area:** [[Algebra e Analisi]]
 
 
 
@@ -294,11 +294,11 @@ level: BMO Round 1
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
 **Metodo:** [[method_induzione|Induzione]], [[method_congruenze|Aritmetica modulare / congruenze]], [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_astrazione|Astrazione / generalizzazione]], [[skill_lettura_attenta|Lettura attenta del testo]]
-[[Quesiti/src_bmo1_1974#q08|src_bmo1_1974__Q08]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 
 
 
-<span class="atom-split" id="q09" data-atom="q09" data-title="Quesito 9" data-tags="topic_algebra,skill_modellizzazione,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
+<span class="atom-split" id="q09" data-atom="q09" data-title="Quesito 9" data-tags="topic_algebra,topic_trigonometria,method_trigonometria,skill_modellizzazione,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -309,9 +309,10 @@ level: BMO Round 1
 > 
 > [You may quote the result $\int (\operatorname{cosec}\, x)\,dx = \log|\tan \tfrac{1}{2}x|$ if you wish.]
 
-**Topic:** [[topic_algebra|Algebra]]
-**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
-**Area:** [[Algebra e Analisi]]
+**Topic:** [[topic_algebra|Algebra]], [[topic_trigonometria|Trigonometry]]
+**Metodo:** [[method_trigonometria|Trigonometric techniques]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]], [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_lettura_attenta|Careful reading of the text]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Geometria|Geometry]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1CaunYJwpF91WiVYpFeF-ytX3cVGPZI1-/view)
 
 
@@ -325,13 +326,14 @@ level: BMO Round 1
 > [È consentito citare il risultato $\int (\operatorname{cosec}\, x)\,dx = \log|\tan \tfrac{1}{2}x|$ se lo si desidera.]
 
 
-**Topic:** [[topic_algebra|Algebra]]
+**Topic:** [[topic_algebra|Algebra]], [[topic_trigonometria|Trigonometria]]
+**Metodo:** [[method_trigonometria|Tecniche trigonometriche]]
 **Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta del testo]]
-[[Quesiti/src_bmo1_1974#q09|src_bmo1_1974__Q09]]
+**Area:** [[Algebra e Analisi]], [[Geometria]]
 
 
 
-<span class="atom-split" id="q10" data-atom="q10" data-title="Quesito 10" data-tags="topic_geometria_solida,topic_algebra,method_coordinate,skill_modellizzazione,skill_manipolazione_algebrica,skill_ragionamento_geometrico,skill_lettura_attenta"></span>
+<span class="atom-split" id="q10" data-atom="q10" data-title="Quesito 10" data-tags="topic_geometria_solida,topic_algebra,method_coordinate,method_simmetria,skill_modellizzazione,skill_manipolazione_algebrica,skill_ragionamento_geometrico,skill_lettura_attenta"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -344,9 +346,9 @@ level: BMO Round 1
 > $$\tfrac{3}{2}GM(1 + \cos\alpha) \,/\, (a^2 + ab + b^2).$$
 
 **Topic:** [[topic_geometria_solida|Geometria solida]], [[topic_algebra|Algebra]]
-**Metodo:** [[method_coordinate|Coordinate]]
+**Metodo:** [[method_coordinate|Coordinate]], [[method_simmetria|Using symmetry]]
 **Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
-**Area:** [[Geometria]], [[Algebra e Analisi]]
+**Area:** [[Geometria|Geometry]], [[Algebra e Analisi|Algebra and analysis]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1CaunYJwpF91WiVYpFeF-ytX3cVGPZI1-/view)
 
 
@@ -362,6 +364,6 @@ level: BMO Round 1
 
 
 **Topic:** [[topic_geometria_solida|Geometria solida]], [[topic_algebra|Algebra]]
-**Metodo:** [[method_coordinate|Metodo delle coordinate]]
+**Metodo:** [[method_coordinate|Metodo delle coordinate]], [[method_simmetria|Sfruttamento della simmetria]]
 **Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta del testo]]
-[[Quesiti/src_bmo1_1974#q10|src_bmo1_1974__Q10]]
+**Area:** [[Geometria]], [[Algebra e Analisi]]

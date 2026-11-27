@@ -10,7 +10,7 @@ level: BMO Round 1
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_algebra,topic_aritmetica,method_casework,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_algebra,topic_aritmetica,method_casework,method_congruenze,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -20,9 +20,9 @@ level: BMO Round 1
 > One number is removed from the set of integers from $1$ to $n$. The average of the remaining numbers is $40\frac{3}{4}$. Which integer was removed?
 
 **Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_casework|Casework]]
+**Metodo:** [[method_casework|Casework]], [[method_congruenze|Modular arithmetic / congruences]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
-**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1vEtMpaaF-vQ1SR8STVSRdjMnYYwdC7by/view)
 
 
@@ -33,16 +33,15 @@ level: BMO Round 1
 
 > Si toglie un numero dall'insieme degli interi da $1$ a $n$. La media dei numeri rimasti è $40\frac{3}{4}$. Quale intero è stato tolto?
 
+
 **Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_casework|Analisi per casi]]
+**Metodo:** [[method_casework|Analisi per casi]], [[method_congruenze|Aritmetica modulare / congruenze]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Algebra e Analisi|Algebra e analisi]], [[Aritmetica e Teoria dei Numeri|Aritmetica e teoria dei numeri]]
 
-[[Quesiti/src_bmo1_2011#q01|src_bmo1_2011__Q01]]
 
 
-
-<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_algebra,topic_geometria_solida,method_casework,method_fattorizzazione,skill_manipolazione_algebrica,skill_modellizzazione"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_algebra,topic_geometria_solida,method_casework,method_fattorizzazione,skill_manipolazione_algebrica,skill_modellizzazione,skill_ragionamento_geometrico,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -53,8 +52,8 @@ level: BMO Round 1
 
 **Topic:** [[topic_algebra|Algebra]], [[topic_geometria_solida|Geometria solida]]
 **Metodo:** [[method_casework|Casework]], [[method_fattorizzazione|Fattorizzazione]]
-**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]]
-**Area:** [[Algebra e Analisi]], [[Geometria]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]], [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Geometria|Geometry]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1vEtMpaaF-vQ1SR8STVSRdjMnYYwdC7by/view)
 
 
@@ -65,12 +64,11 @@ level: BMO Round 1
 
 > Sia $s$ un intero maggiore di $6$. Un cubo solido di lato $s$ ha un foro quadrato di lato $x < 6$ praticato da una faccia alla faccia opposta (il trapano asporta un parallelepipedo). Il volume del solido restante è numericamente uguale all'area totale della superficie del solido restante. Determinare tutti i valori interi possibili di $x$.
 
+
 **Topic:** [[topic_algebra|Algebra]], [[topic_geometria_solida|Geometria solida]]
 **Metodo:** [[method_casework|Analisi per casi]], [[method_fattorizzazione|Fattorizzazione]]
-**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Algebra e Analisi|Algebra e analisi]], [[Geometria|Geometria]]
-
-[[Quesiti/src_bmo1_2011#q02|src_bmo1_2011__Q02]]
 
 
 
@@ -102,11 +100,9 @@ level: BMO Round 1
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria|Geometria]]
 
-[[Quesiti/src_bmo1_2011#q03|src_bmo1_2011__Q03]]
 
 
-
-<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_combinatoria,method_conteggio,method_casi_conteggio,skill_conteggio_sistematico,skill_riconoscimento_pattern"></span>
+<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_combinatoria,method_conteggio,method_casi_conteggio,method_colorazione,skill_conteggio_sistematico,skill_riconoscimento_pattern"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -116,9 +112,9 @@ level: BMO Round 1
 > Isaac has a large supply of counters, and places one in each of the $1 \times 1$ squares of an $8 \times 8$ chessboard. Each counter is either red, white or blue. A particular pattern of coloured counters is called an $\textit{arrangement}$. Determine whether there are more arrangements which contain an even number of red counters or more arrangements which contain an odd number of red counters. $\textit{Note that }0\textit{ is an even number.}$
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
-**Metodo:** [[method_conteggio|Conteggio]], [[method_casi_conteggio|Casi e conteggio]]
+**Metodo:** [[method_conteggio|Conteggio]], [[method_casi_conteggio|Casi e conteggio]], [[method_colorazione|Colouring / parity]]
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
-**Area:** [[Combinatoria, Logica e Probabilita]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1vEtMpaaF-vQ1SR8STVSRdjMnYYwdC7by/view)
 
 
@@ -129,12 +125,11 @@ level: BMO Round 1
 
 > Isaac ha una grande scorta di pedine e ne pone una in ciascuno dei quadrati $1 \times 1$ di una scacchiera $8 \times 8$. Ogni pedina è rossa, bianca o blu. Una particolare disposizione di pedine colorate si chiama $\textit{arrangement}$. Stabilire se ci sono più disposizioni che contengono un numero pari di pedine rosse o più disposizioni che ne contengono un numero dispari. $\textit{Note that }0\textit{ is an even number.}$
 
+
 **Topic:** [[topic_combinatoria|Combinatoria]]
-**Metodo:** [[method_conteggio|Conteggio]], [[method_casi_conteggio|Casi e conteggio]]
+**Metodo:** [[method_conteggio|Conteggio]], [[method_casi_conteggio|Casi e conteggio]], [[method_colorazione|Colorazione / parita]]
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Combinatoria, Logica e Probabilita|Combinatoria, logica e probabilità]]
-
-[[Quesiti/src_bmo1_2011#q04|src_bmo1_2011__Q04]]
 
 
 
@@ -166,11 +161,9 @@ level: BMO Round 1
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria|Geometria]]
 
-[[Quesiti/src_bmo1_2011#q05|src_bmo1_2011__Q05]]
 
 
-
-<span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_algebra,topic_disuguaglianze,method_disuguaglianze,skill_manipolazione_algebrica"></span>
+<span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_algebra,topic_disuguaglianze,topic_geometria_piana,method_disuguaglianze,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -179,10 +172,10 @@ level: BMO Round 1
 
 > Let $a$, $b$ and $c$ be the lengths of the sides of a triangle. Suppose that $ab + bc + ca = 1$. Show that $(a+1)(b+1)(c+1) < 4$.
 
-**Topic:** [[topic_algebra|Algebra]], [[topic_disuguaglianze|Disuguaglianze]]
+**Topic:** [[topic_algebra|Algebra]], [[topic_disuguaglianze|Disuguaglianze]], [[topic_geometria_piana|Plane geometry]]
 **Metodo:** [[method_disuguaglianze|Disuguaglianze]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
-**Area:** [[Algebra e Analisi]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Geometria|Geometry]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1vEtMpaaF-vQ1SR8STVSRdjMnYYwdC7by/view)
 
 
@@ -193,9 +186,8 @@ level: BMO Round 1
 
 > Siano $a$, $b$ e $c$ le lunghezze dei lati di un triangolo. Si supponga che $ab + bc + ca = 1$. Dimostrare che $(a+1)(b+1)(c+1) < 4$.
 
-**Topic:** [[topic_algebra|Algebra]], [[topic_disuguaglianze|Disuguaglianze]]
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_disuguaglianze|Disuguaglianze]], [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_disuguaglianze|Disuguaglianze]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
-**Area:** [[Algebra e Analisi|Algebra e analisi]]
-
-[[Quesiti/src_bmo1_2011#q06|src_bmo1_2011__Q06]]
+**Area:** [[Algebra e Analisi|Algebra e analisi]], [[Geometria]]

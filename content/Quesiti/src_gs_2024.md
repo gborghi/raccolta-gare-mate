@@ -10,7 +10,7 @@ level: squadre
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_geometria_piana"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_geometria_piana,method_inclusione_esclusione,skill_ragionamento_geometrico"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -25,9 +25,11 @@ level: squadre
 > l’area ricoperta dai due cerchi?
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_inclusione_esclusione|Inclusione-esclusione]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]]
 **Risposta:** 8105
-**Fonte:** apri PDF p.2 · phiquadro.it, Archivio gare ufficiali 2024 (= fairmath.it, Coppa Gauss 2024)
+**Fonte:** [apri PDF p.2](https://www.phiquadro.it/archivio/2024_1%20marzo%20-%20Gara%20.pdf#page=2) · phiquadro.it, Archivio gare ufficiali 2024 (= fairmath.it, Coppa Gauss 2024)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -40,14 +42,15 @@ level: squadre
 > Cerchi Sandro Campigotto
 > The area where two circles with radii 10 cm and 50 cm overlap is 20π cm². What is the area covered by the two circles, in cm²?
 
+
 **Topic:** [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_inclusione_esclusione|Inclusion–exclusion]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
 **Area:** [[Geometria|Geometry]]
 
-[[Quesiti/src_gs_2024#q01|src_gs_2024__Q01]]
 
 
-
-<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags=""></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_algebra,method_fattorizzazione,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -59,8 +62,12 @@ level: squadre
 > Quadrati Carlo Càssola
 > Qual è il quadrato di √2023 + √112?
 
+**Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Algebra e Analisi]]
 **Risposta:** 3087
-**Fonte:** apri PDF p.2 · phiquadro.it, Archivio gare ufficiali 2024 (= fairmath.it, Coppa Gauss 2024)
+**Fonte:** [apri PDF p.2](https://www.phiquadro.it/archivio/2024_1%20marzo%20-%20Gara%20.pdf#page=2) · phiquadro.it, Archivio gare ufficiali 2024 (= fairmath.it, Coppa Gauss 2024)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -73,11 +80,14 @@ level: squadre
 > Quadrati Carlo Càssola
 > What is the square of √2023 + √112?
 
-[[Quesiti/src_gs_2024#q02|src_gs_2024__Q02]]
+**Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
 
 
 
-<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_algebra"></span>
+<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_algebra,method_fattorizzazione,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -94,9 +104,11 @@ level: squadre
 > [Dare come risposta il prodotto dei tre numeri.]
 
 **Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Algebra e Analisi]]
 **Risposta:** 1122
-**Fonte:** apri PDF p.2 · phiquadro.it, Archivio gare ufficiali 2024 (= fairmath.it, Coppa Gauss 2024)
+**Fonte:** [apri PDF p.2](https://www.phiquadro.it/archivio/2024_1%20marzo%20-%20Gara%20.pdf#page=2) · phiquadro.it, Archivio gare ufficiali 2024 (= fairmath.it, Coppa Gauss 2024)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -109,14 +121,15 @@ level: squadre
 > Reali Carlo Càssola
 > Three positive real numbers a, b, and c satisfy the condition that the product of a and b equals the square of c. Their sum is 102, while the sum of their reciprocals is 17/18, and a < b. What are the three numbers a, b, and c? [Give the product of the three numbers as the answer.]
 
+
 **Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
 **Area:** [[Algebra e Analisi|Algebra and analysis]]
 
-[[Quesiti/src_gs_2024#q03|src_gs_2024__Q03]]
 
 
-
-<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_aritmetica"></span>
+<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_aritmetica,method_congruenze,skill_modellizzazione,skill_riconoscimento_pattern"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -134,9 +147,11 @@ level: squadre
 > la minima età che il nonno può avere oggi?
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 0121
-**Fonte:** apri PDF p.2 · phiquadro.it, Archivio gare ufficiali 2024 (= fairmath.it, Coppa Gauss 2024)
+**Fonte:** [apri PDF p.2](https://www.phiquadro.it/archivio/2024_1%20marzo%20-%20Gara%20.pdf#page=2) · phiquadro.it, Archivio gare ufficiali 2024 (= fairmath.it, Coppa Gauss 2024)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -149,14 +164,15 @@ level: squadre
 > Birthdays of Carlo Càssola
 > A supercentenarian grandfather and his grandchild have birthdays on the same day (but are different ages). The grandfather notes that his age is an integer multiple of his grandchild's age and that it will also be a multiple of his grandchild's age for the next five years. What is the minimum age the grandfather can have today?
 
+
 **Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]], [[skill_riconoscimento_pattern|Pattern recognition]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
-[[Quesiti/src_gs_2024#q04|src_gs_2024__Q04]]
 
 
-
-<span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_aritmetica"></span>
+<span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_aritmetica,topic_logica,method_congruenze,method_casework,skill_casework_accurato,skill_lettura_attenta"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -176,10 +192,12 @@ level: squadre
 > univocamente il PIN della cassaforte. Qual è il
 > numero maggiore che Marta dovrà provare come PIN?
 
-**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Area:** [[Aritmetica e Teoria dei Numeri]]
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_logica|Logica, giochi, strategie]]
+**Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]], [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_lettura_attenta|Lettura attenta del testo]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 2970
-**Fonte:** apri PDF p.2 · phiquadro.it, Archivio gare ufficiali 2024 (= fairmath.it, Coppa Gauss 2024)
+**Fonte:** [apri PDF p.2](https://www.phiquadro.it/archivio/2024_1%20marzo%20-%20Gara%20.pdf#page=2) · phiquadro.it, Archivio gare ufficiali 2024 (= fairmath.it, Coppa Gauss 2024)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -192,14 +210,15 @@ level: squadre
 > Cifre Lorenzo Mazza
 > Dante and Marta both want to open a safe protected by a four-digit PIN. Both have learned that the first digit is 2 and that the PIN is a multiple of 9. Moreover, Marta knows that Dante also knows the second and third digits of the PIN. Marta also knows that the PIN is an even number. She sees that Dante is unable to determine the safe's PIN uniquely. What is the largest number that Marta will have to try as the PIN?
 
-**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
-**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
-[[Quesiti/src_gs_2024#q05|src_gs_2024__Q05]]
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_logica|Logic, games and strategies]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]], [[method_casework|Case analysis]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]], [[skill_lettura_attenta|Careful reading of the text]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
 
 
-<span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_geometria_piana"></span>
+<span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_geometria_piana,method_simmetria,skill_ragionamento_geometrico"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -216,9 +235,11 @@ level: squadre
 > sessagesimali vale l’angolo in una punta della stella?
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_simmetria|Sfruttamento della simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]]
 **Risposta:** 0167
-**Fonte:** apri PDF p.2 · phiquadro.it, Archivio gare ufficiali 2024 (= fairmath.it, Coppa Gauss 2024)
+**Fonte:** [apri PDF p.2](https://www.phiquadro.it/archivio/2024_1%20marzo%20-%20Gara%20.pdf#page=2) · phiquadro.it, Archivio gare ufficiali 2024 (= fairmath.it, Coppa Gauss 2024)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -231,14 +252,15 @@ level: squadre
 > Neighbors Pietro Donatis
 > In a regular 59-sided polygon, from each vertex, the two diagonals connecting it to its second-nearest vertices are drawn. In this way, a 59-pointed star is formed. How many sexagesimal degrees is the angle at one point of the star?
 
+
 **Topic:** [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_simmetria|Using symmetry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
 **Area:** [[Geometria|Geometry]]
 
-[[Quesiti/src_gs_2024#q06|src_gs_2024__Q06]]
 
 
-
-<span class="atom-split" id="q07" data-atom="q07" data-title="Quesito 7" data-tags="topic_probabilita,topic_combinatoria"></span>
+<span class="atom-split" id="q07" data-atom="q07" data-title="Quesito 7" data-tags="topic_probabilita,topic_combinatoria,topic_aritmetica,method_casi_conteggio,skill_conteggio_sistematico"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -255,10 +277,12 @@ level: squadre
 > totalmente e immediatamente. In quanti modi
 > diversi può spendere il suo premio?
 
-**Topic:** [[topic_probabilita|Probabilita e statistica]], [[topic_combinatoria|Combinatoria]]
-**Area:** [[Combinatoria, Logica e Probabilita]]
+**Topic:** [[topic_probabilita|Probabilita e statistica]], [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casi_conteggio|Conteggio per casi]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 0168
-**Fonte:** apri PDF p.2 · phiquadro.it, Archivio gare ufficiali 2024 (= fairmath.it, Coppa Gauss 2024)
+**Fonte:** [apri PDF p.2](https://www.phiquadro.it/archivio/2024_1%20marzo%20-%20Gara%20.pdf#page=2) · phiquadro.it, Archivio gare ufficiali 2024 (= fairmath.it, Coppa Gauss 2024)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -271,14 +295,15 @@ level: squadre
 > Carlo Càssola Cakes and Biscuits
 > In the patisserie, chocolate biscuits are available at €1 each, pastries at €2 each, and cakes at €11 each. The thousandth customer of the patisserie receives a prize of €79 to spend in full and immediately. In how many different ways can they spend their prize?
 
-**Topic:** [[topic_probabilita|Probability and statistics]], [[topic_combinatoria|Combinatorics]]
-**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
-[[Quesiti/src_gs_2024#q07|src_gs_2024__Q07]]
+**Topic:** [[topic_probabilita|Probability and statistics]], [[topic_combinatoria|Combinatorics]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_casi_conteggio|Counting by cases]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
 
 
-<span class="atom-split" id="q08" data-atom="q08" data-title="Quesito 8" data-tags="topic_aritmetica"></span>
+<span class="atom-split" id="q08" data-atom="q08" data-title="Quesito 8" data-tags="topic_aritmetica,method_casi_conteggio,skill_conteggio_sistematico"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -292,9 +317,11 @@ level: squadre
 > foglio. Quante cifre ci sono scritte in totale?
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casi_conteggio|Conteggio per casi]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 8894
-**Fonte:** apri PDF p.2 · phiquadro.it, Archivio gare ufficiali 2024 (= fairmath.it, Coppa Gauss 2024)
+**Fonte:** [apri PDF p.2](https://www.phiquadro.it/archivio/2024_1%20marzo%20-%20Gara%20.pdf#page=2) · phiquadro.it, Archivio gare ufficiali 2024 (= fairmath.it, Coppa Gauss 2024)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -307,14 +334,15 @@ level: squadre
 > Interi Carlo Càssola
 > All the integers from 1 to 10000 appear on the sheet. How many digits are written in total?
 
+
 **Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_casi_conteggio|Counting by cases]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
-[[Quesiti/src_gs_2024#q08|src_gs_2024__Q08]]
 
 
-
-<span class="atom-split" id="q09" data-atom="q09" data-title="Quesito 9" data-tags="topic_geometria_piana"></span>
+<span class="atom-split" id="q09" data-atom="q09" data-title="Quesito 9" data-tags="topic_geometria_piana,method_disuguaglianze,method_estremalita,skill_modellizzazione,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -335,9 +363,11 @@ level: squadre
 > piastrelle mancano?
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze classiche]], [[method_estremalita|Principio di estremalita]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 **Risposta:** 0024
-**Fonte:** apri PDF p.2 · phiquadro.it, Archivio gare ufficiali 2024 (= fairmath.it, Coppa Gauss 2024)
+**Fonte:** [apri PDF p.2](https://www.phiquadro.it/archivio/2024_1%20marzo%20-%20Gara%20.pdf#page=2) · phiquadro.it, Archivio gare ufficiali 2024 (= fairmath.it, Coppa Gauss 2024)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -350,14 +380,15 @@ level: squadre
 > Pavimenti Anna Ulivi
 > A rectangular floor with sides of integer length in decimeters must be completely covered with square tiles measuring 1 dm on each side. There are 1000 tiles available. All the tiles have been laid along the edge of the floor: there are 124 of them. If all 1000 tiles are used, the floor is not completely covered. In fact, the number of missing tiles is the maximum possible given the available data. How many tiles are missing?
 
+
 **Topic:** [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_disuguaglianze|Classical inequalities]], [[method_estremalita|Extremal principle]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
 **Area:** [[Geometria|Geometry]]
 
-[[Quesiti/src_gs_2024#q09|src_gs_2024__Q09]]
 
 
-
-<span class="atom-split" id="q10" data-atom="q10" data-title="Quesito 10" data-tags="topic_aritmetica"></span>
+<span class="atom-split" id="q10" data-atom="q10" data-title="Quesito 10" data-tags="topic_aritmetica,method_congruenze,method_casework,skill_casework_accurato,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -375,9 +406,11 @@ level: squadre
 > mirati?
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]], [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 0021
-**Fonte:** apri PDF p.2 · phiquadro.it, Archivio gare ufficiali 2024 (= fairmath.it, Coppa Gauss 2024)
+**Fonte:** [apri PDF p.2](https://www.phiquadro.it/archivio/2024_1%20marzo%20-%20Gara%20.pdf#page=2) · phiquadro.it, Archivio gare ufficiali 2024 (= fairmath.it, Coppa Gauss 2024)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -390,14 +423,15 @@ level: squadre
 > Triple Carlo Càssola
 > An ordered triple of integers greater than 9 and less than 100 is "targeted" when, for any two components of it, their sum equals the remaining number in the triple written with its digits reversed. How many ordered triples of targeted numbers are there?
 
+
 **Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]], [[method_casework|Case analysis]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
-[[Quesiti/src_gs_2024#q10|src_gs_2024__Q10]]
 
 
-
-<span class="atom-split" id="q11" data-atom="q11" data-title="Quesito 11" data-tags="topic_probabilita"></span>
+<span class="atom-split" id="q11" data-atom="q11" data-title="Quesito 11" data-tags="topic_probabilita,topic_combinatoria,method_casi_conteggio,skill_conteggio_sistematico"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -421,10 +455,12 @@ level: squadre
 > [Dare come risposta la probabilità moltiplicata per
 > 10000.]
 
-**Topic:** [[topic_probabilita|Probabilita e statistica]]
+**Topic:** [[topic_probabilita|Probabilita e statistica]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casi_conteggio|Conteggio per casi]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0148
-**Fonte:** apri PDF p.2 · phiquadro.it, Archivio gare ufficiali 2024 (= fairmath.it, Coppa Gauss 2024)
+**Fonte:** [apri PDF p.2](https://www.phiquadro.it/archivio/2024_1%20marzo%20-%20Gara%20.pdf#page=2) · phiquadro.it, Archivio gare ufficiali 2024 (= fairmath.it, Coppa Gauss 2024)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -437,14 +473,15 @@ level: squadre
 > Tessere Sandro Campigotto
 > Three friends, Andrea, Barbara, and Claudio, have filled a bag with 100 cards, each marked with a number (from 1 to 100; each of the hundred numbers appears on at least one card). Andrea draws a number, looks at it, and puts it back in the bag. Then Claudio draws a number, looks at it, and puts it back in the bag. Finally, Barbara draws a number, looks at it, and puts it back in the bag. What is the probability that one of the three has drawn the number that is exactly the sum of the two numbers drawn by their friends? [Give as the answer the probability multiplied by 10000.]
 
-**Topic:** [[topic_probabilita|Probability and statistics]]
+
+**Topic:** [[topic_probabilita|Probability and statistics]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_casi_conteggio|Counting by cases]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
 **Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
-[[Quesiti/src_gs_2024#q11|src_gs_2024__Q11]]
 
 
-
-<span class="atom-split" id="q12" data-atom="q12" data-title="Quesito 12" data-tags="topic_combinatoria"></span>
+<span class="atom-split" id="q12" data-atom="q12" data-title="Quesito 12" data-tags="topic_combinatoria,method_conteggio,skill_conteggio_sistematico"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -465,9 +502,11 @@ level: squadre
 > decrescente?
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_conteggio|Conteggio combinatorio]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 1680
-**Fonte:** apri PDF p.2 · phiquadro.it, Archivio gare ufficiali 2024 (= fairmath.it, Coppa Gauss 2024)
+**Fonte:** [apri PDF p.2](https://www.phiquadro.it/archivio/2024_1%20marzo%20-%20Gara%20.pdf#page=2) · phiquadro.it, Archivio gare ufficiali 2024 (= fairmath.it, Coppa Gauss 2024)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -482,14 +521,15 @@ level: squadre
 > 9) Towards the outside, the digits should be arranged in order.
 > Decreasing?
 
+
 **Topic:** [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
 **Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
-[[Quesiti/src_gs_2024#q12|src_gs_2024__Q12]]
 
 
-
-<span class="atom-split" id="q13" data-atom="q13" data-title="Quesito 13" data-tags="topic_geometria_piana"></span>
+<span class="atom-split" id="q13" data-atom="q13" data-title="Quesito 13" data-tags="topic_geometria_piana,method_simmetria,skill_ragionamento_geometrico"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -506,9 +546,11 @@ level: squadre
 > dell’angolo OL̂M?
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_simmetria|Sfruttamento della simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]]
 **Risposta:** 0048
-**Fonte:** apri PDF p.2 · phiquadro.it, Archivio gare ufficiali 2024 (= fairmath.it, Coppa Gauss 2024)
+**Fonte:** [apri PDF p.2](https://www.phiquadro.it/archivio/2024_1%20marzo%20-%20Gara%20.pdf#page=2) · phiquadro.it, Archivio gare ufficiali 2024 (= fairmath.it, Coppa Gauss 2024)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -521,14 +563,15 @@ level: squadre
 > In a triangle Lorenzo Mazza
 > In triangle ABC, angle ACB is 42°. Points L, M, and N, on sides AB, BC, and CA respectively, satisfy LB = LM and LA = LN. Let O be the circumcenter of triangle MNC. What is the measure, in degrees, of angle OLM?
 
+
 **Topic:** [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_simmetria|Using symmetry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
 **Area:** [[Geometria|Geometry]]
 
-[[Quesiti/src_gs_2024#q13|src_gs_2024__Q13]]
 
 
-
-<span class="atom-split" id="q14" data-atom="q14" data-title="Quesito 14" data-tags="topic_aritmetica"></span>
+<span class="atom-split" id="q14" data-atom="q14" data-title="Quesito 14" data-tags="topic_aritmetica,method_fattorizzazione,skill_modellizzazione,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -546,9 +589,11 @@ level: squadre
 > originariamente?
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 0210
-**Fonte:** apri PDF p.3 · phiquadro.it, Archivio gare ufficiali 2024 (= fairmath.it, Coppa Gauss 2024)
+**Fonte:** [apri PDF p.3](https://www.phiquadro.it/archivio/2024_1%20marzo%20-%20Gara%20.pdf#page=3) · phiquadro.it, Archivio gare ufficiali 2024 (= fairmath.it, Coppa Gauss 2024)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -561,14 +606,15 @@ level: squadre
 > Torn Pages Carlo Càssola
 > On every page of a book, page numbers are printed, all in Arabic numerals. One sheet is torn out of the book (the sheet contains two consecutive pages). The sum of the page numbers of the remaining pages is 22000. How many pages did the book originally have?
 
+
 **Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
-[[Quesiti/src_gs_2024#q14|src_gs_2024__Q14]]
 
 
-
-<span class="atom-split" id="q15" data-atom="q15" data-title="Quesito 15" data-tags="topic_geometria_piana"></span>
+<span class="atom-split" id="q15" data-atom="q15" data-title="Quesito 15" data-tags="topic_geometria_piana,topic_geometria_solida,method_inclusione_esclusione,skill_ragionamento_geometrico"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -590,10 +636,12 @@ level: squadre
 > agli altri. Qual è il valore in cm^2 dell’area del
 > pacchetto non coperta dai nastri?
 
-**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_geometria_solida|Geometria solida]]
+**Metodo:** [[method_inclusione_esclusione|Inclusione-esclusione]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]]
 **Risposta:** 5242
-**Fonte:** apri PDF p.3 · phiquadro.it, Archivio gare ufficiali 2024 (= fairmath.it, Coppa Gauss 2024)
+**Fonte:** [apri PDF p.3](https://www.phiquadro.it/archivio/2024_1%20marzo%20-%20Gara%20.pdf#page=3) · phiquadro.it, Archivio gare ufficiali 2024 (= fairmath.it, Coppa Gauss 2024)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -606,14 +654,15 @@ level: squadre
 > The Simon Ghizzo gift
 > Gianfilippo must wrap the birthday gift for his friend Pieralfredo. The package is a rectangular prism measuring 25 cm × 30 cm × 50 cm. Gianfilippo decides to close the wrapping of the package using two ribbons: one red ribbon 3 cm wide and one yellow ribbon 7 cm wide. He then uses the ribbons to encircle the package, forming crosses on each of its faces, with the yellow ribbon placed perpendicular to the 30 cm sides and the red ribbon perpendicular to the other sides. What is the area, in cm², of the part of the package not covered by the ribbons?
 
-**Topic:** [[topic_geometria_piana|Plane geometry]]
+
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_geometria_solida|Solid geometry]]
+**Metodo:** [[method_inclusione_esclusione|Inclusion–exclusion]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
 **Area:** [[Geometria|Geometry]]
 
-[[Quesiti/src_gs_2024#q15|src_gs_2024__Q15]]
 
 
-
-<span class="atom-split" id="q16" data-atom="q16" data-title="Quesito 16" data-tags="topic_geometria_piana"></span>
+<span class="atom-split" id="q16" data-atom="q16" data-title="Quesito 16" data-tags="topic_geometria_piana,method_ricorsione,skill_riconoscimento_pattern,skill_ragionamento_geometrico"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -633,9 +682,11 @@ level: squadre
 > perimetro del quadrilatero A\_(11)B\_(11)C\_(11)D\_(11)?
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_ricorsione|Ricorsione]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]]
 **Risposta:** 3354
-**Fonte:** apri PDF p.3 · phiquadro.it, Archivio gare ufficiali 2024 (= fairmath.it, Coppa Gauss 2024)
+**Fonte:** [apri PDF p.3](https://www.phiquadro.it/archivio/2024_1%20marzo%20-%20Gara%20.pdf#page=3) · phiquadro.it, Archivio gare ufficiali 2024 (= fairmath.it, Coppa Gauss 2024)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -648,14 +699,15 @@ level: squadre
 > Nested Quadrilaterals Anna Ulivi
 > Let ABCD be a rectangle with a base of 48 m and a height of 24 m. Take the four midpoints of the sides: A₁ on AB, B₁ on BC, C₁ on CD, and D₁ on DA; then consider the quadrilateral A₁B₁C₁D₁. On this quadrilateral, take the four midpoints of its sides, and consider the quadrilateral thus obtained. Continue until the quadrilateral A_(11)B_(11)C_(11)D_(11) is reached. What is the perimeter of the quadrilateral A_(11)B_(11)C_(11)D_(11), in mm?
 
+
 **Topic:** [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_ricorsione|Recursion]]
+**Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]], [[skill_ragionamento_geometrico|Geometric reasoning]]
 **Area:** [[Geometria|Geometry]]
 
-[[Quesiti/src_gs_2024#q16|src_gs_2024__Q16]]
 
 
-
-<span class="atom-split" id="q17" data-atom="q17" data-title="Quesito 17" data-tags="topic_probabilita,topic_logica"></span>
+<span class="atom-split" id="q17" data-atom="q17" data-title="Quesito 17" data-tags="topic_probabilita,topic_logica,method_casi_conteggio,skill_modellizzazione,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -687,9 +739,11 @@ level: squadre
 > 10000.]
 
 **Topic:** [[topic_probabilita|Probabilita e statistica]], [[topic_logica|Logica, giochi, strategie]]
+**Metodo:** [[method_casi_conteggio|Conteggio per casi]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 8559
-**Fonte:** apri PDF p.3 · phiquadro.it, Archivio gare ufficiali 2024 (= fairmath.it, Coppa Gauss 2024)
+**Fonte:** [apri PDF p.3](https://www.phiquadro.it/archivio/2024_1%20marzo%20-%20Gara%20.pdf#page=3) · phiquadro.it, Archivio gare ufficiali 2024 (= fairmath.it, Coppa Gauss 2024)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -702,14 +756,15 @@ level: squadre
 > Sinner and Medvedev Andrea Giusto
 > Sinner and Medvedev are playing the final match of a tennis tournament. A tennis match between two players is divided into games. In a game, the players try to win points; each point is won by one of the players; the players play one point at a time. A game ends with one of the players winning when that player is the first to win at least 4 points and at least 2 more points than their opponent. For example, possible scores for a game win are 4 points to 1, 5 to 3, 8 to 6. A game does not end when the score is, for example, 3 points to 0, 4 to 3, 8 to 7. Impossible scores are, for example, 5 to 1, 8 to 5. Reports of previous encounters between Sinner and Medvedev show that Sinner wins a point with probability 2/3—consequently, Medvedev wins it with probability 1/3. Based on the reports, what is the probability that Sinner wins a game? [Give as the answer the probability multiplied by 10000.]
 
+
 **Topic:** [[topic_probabilita|Probability and statistics]], [[topic_logica|Logic, games and strategies]]
+**Metodo:** [[method_casi_conteggio|Counting by cases]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
 **Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
-[[Quesiti/src_gs_2024#q17|src_gs_2024__Q17]]
 
 
-
-<span class="atom-split" id="q18" data-atom="q18" data-title="Quesito 18" data-tags="topic_aritmetica"></span>
+<span class="atom-split" id="q18" data-atom="q18" data-title="Quesito 18" data-tags="topic_aritmetica,method_fattorizzazione,skill_manipolazione_algebrica,skill_riconoscimento_pattern"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -725,9 +780,11 @@ level: squadre
 > 2 ≤k≤1000. Quanti dei numeri n sono primi?
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 0001
-**Fonte:** apri PDF p.3 · phiquadro.it, Archivio gare ufficiali 2024 (= fairmath.it, Coppa Gauss 2024)
+**Fonte:** [apri PDF p.3](https://www.phiquadro.it/archivio/2024_1%20marzo%20-%20Gara%20.pdf#page=3) · phiquadro.it, Archivio gare ufficiali 2024 (= fairmath.it, Coppa Gauss 2024)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -740,14 +797,15 @@ level: squadre
 > Decimali Lorenzo Mazza
 > Consider the decimal representation n = 101010 … 101 obtained by alternating the digits 1 and 0, with the digit 1 appearing k times and the digit 0 appearing k−1 times, where 2 ≤ k ≤ 1000. How many of the numbers n are prime?
 
+
 **Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_riconoscimento_pattern|Pattern recognition]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
-[[Quesiti/src_gs_2024#q18|src_gs_2024__Q18]]
 
 
-
-<span class="atom-split" id="q19" data-atom="q19" data-title="Quesito 19" data-tags="topic_logica"></span>
+<span class="atom-split" id="q19" data-atom="q19" data-title="Quesito 19" data-tags="topic_logica,topic_aritmetica,method_congruenze,method_casework,skill_casework_accurato,skill_lettura_attenta"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -788,10 +846,12 @@ level: squadre
 > scrittura in base 10 del minimo numero n che Eva
 > poteva avere utilizzato?
 
-**Topic:** [[topic_logica|Logica, giochi, strategie]]
-**Area:** [[Combinatoria, Logica e Probabilita]]
+**Topic:** [[topic_logica|Logica, giochi, strategie]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]], [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_lettura_attenta|Lettura attenta del testo]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 0386
-**Fonte:** apri PDF p.3 · phiquadro.it, Archivio gare ufficiali 2024 (= fairmath.it, Coppa Gauss 2024)
+**Fonte:** [apri PDF p.3](https://www.phiquadro.it/archivio/2024_1%20marzo%20-%20Gara%20.pdf#page=3) · phiquadro.it, Archivio gare ufficiali 2024 (= fairmath.it, Coppa Gauss 2024)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -804,14 +864,15 @@ level: squadre
 > A Game by Matteo Littardi
 > Eva invents a simple pastime: she writes a positive integer on the blackboard and replaces it with the sum of its digits, continuing until she has a single digit. However, playing in base 10 bores her very quickly: she then decides to repeat the same game, always with the same number n but in different bases, possibly using some of the 26 letters of the English alphabet as higher digits. If, for example, she has to write a number in base 11, after the ten usual digits Eva uses the letter A as the eleventh digit. If she has to write a number in base 36, she uses all the letters of the English alphabet: thus J will be the twentieth digit, K the twenty-first, W the thirty-third, X the thirty-fourth, and Y the thirty-fifth. Having an engagement, Eva interrupts the game and writes down the results obtained on a sheet of paper, which she leaves in the room, and erases all the calculations on the blackboard. Shortly afterward, Roberto enters and adds some entries to the sheet. On the sheet it now says: • In base 11 I got 6. • In base 29 I got S. • In base 7 I got 2. • In base 15 I got 8. • In base 36 I got Z. • In base 19 I got 8. • In base 13 I got 2. In fact, Roberto has inserted two lines, and both of the results he indicated are incorrect. What is the base-10 representation of the smallest number n that Eva could have used?
 
-**Topic:** [[topic_logica|Logic, games and strategies]]
-**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
-[[Quesiti/src_gs_2024#q19|src_gs_2024__Q19]]
+**Topic:** [[topic_logica|Logic, games and strategies]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]], [[method_casework|Case analysis]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]], [[skill_lettura_attenta|Careful reading of the text]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
 
 
-<span class="atom-split" id="q20" data-atom="q20" data-title="Quesito 20" data-tags="topic_geometria_solida"></span>
+<span class="atom-split" id="q20" data-atom="q20" data-title="Quesito 20" data-tags="topic_geometria_solida,topic_geometria_piana,method_coordinate,skill_ragionamento_geometrico"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -830,10 +891,12 @@ level: squadre
 > tetraedro dato che M, N e P sono i punti medi dei lati
 > di ABC. Qual è il volume del tetraedro in cm^3?
 
-**Topic:** [[topic_geometria_solida|Geometria solida]]
+**Topic:** [[topic_geometria_solida|Geometria solida]], [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_coordinate|Metodo delle coordinate]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]]
 **Risposta:** 0408
-**Fonte:** apri PDF p.3 · phiquadro.it, Archivio gare ufficiali 2024 (= fairmath.it, Coppa Gauss 2024)
+**Fonte:** [apri PDF p.3](https://www.phiquadro.it/archivio/2024_1%20marzo%20-%20Gara%20.pdf#page=3) · phiquadro.it, Archivio gare ufficiali 2024 (= fairmath.it, Coppa Gauss 2024)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -846,14 +909,15 @@ level: squadre
 > Origami Carlo Càssola
 > Given an isosceles triangle ABC with a base 24 cm long and legs 38 cm long, the midpoints M, N, and P of the sides are marked, and the three line segments joining them are drawn. Triangle ABC is thus divided into four disjoint triangles. By folding ABC along the sides of MNP, a tetrahedron can be formed since M, N, and P are the midpoints of the sides of ABC. What is the volume of the tetrahedron in cm³?
 
-**Topic:** [[topic_geometria_solida|Solid geometry]]
+
+**Topic:** [[topic_geometria_solida|Solid geometry]], [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_coordinate|Coordinate method]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
 **Area:** [[Geometria|Geometry]]
 
-[[Quesiti/src_gs_2024#q20|src_gs_2024__Q20]]
 
 
-
-<span class="atom-split" id="q21" data-atom="q21" data-title="Quesito 21" data-tags="topic_aritmetica,topic_funzionali"></span>
+<span class="atom-split" id="q21" data-atom="q21" data-title="Quesito 21" data-tags="topic_aritmetica,topic_funzionali,topic_combinatoria,method_ricorsione,skill_riconoscimento_pattern"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -875,10 +939,12 @@ level: squadre
 > a\_(12) = 378, a\_(13) = 661, e a\_(14) = 1152. Ma quanto vale
 > a\_(15)?
 
-**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_funzionali|Equazioni funzionali / successioni]]
-**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_funzionali|Equazioni funzionali / successioni]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_ricorsione|Ricorsione]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 2024
-**Fonte:** apri PDF p.3 · phiquadro.it, Archivio gare ufficiali 2024 (= fairmath.it, Coppa Gauss 2024)
+**Fonte:** [apri PDF p.3](https://www.phiquadro.it/archivio/2024_1%20marzo%20-%20Gara%20.pdf#page=3) · phiquadro.it, Archivio gare ufficiali 2024 (= fairmath.it, Coppa Gauss 2024)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -891,7 +957,8 @@ level: squadre
 > Somme Fabrizio Conca
 > For n ≥ 0, let a_n be the number of ways in which n can be written as an ordered sum of positive integers such that no two adjacent addends are ever equal. For example, a_1 = 1 clearly, and so is a_2 = 1. Moreover, 5 can be written as 5, 1 + 4, 4 + 1, 2 + 3, 3 + 2, 2 + 1 + 2, 1 + 3 + 1, but not as 1 + 1 + 3 or 1 + 2 + 2: so a_5 = 7. Some other values of a_n are a_9 = 71, a_(10) = 124, a_(11) = 214, a_(12) = 378, a_(13) = 661, and a_(14) = 1152. But what is a_(15)?
 
-**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_funzionali|Functional equations / sequences]]
-**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Algebra e Analisi|Algebra and analysis]]
 
-[[Quesiti/src_gs_2024#q21|src_gs_2024__Q21]]
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_funzionali|Functional equations / sequences]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_ricorsione|Recursion]]
+**Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Algebra e Analisi|Algebra and analysis]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]

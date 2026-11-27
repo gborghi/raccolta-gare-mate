@@ -10,7 +10,7 @@ level: squadre
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_algebra,topic_logica,method_fattorizzazione,skill_lettura_attenta"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_algebra,topic_logica,method_fattorizzazione,skill_lettura_attenta,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -24,7 +24,7 @@ level: squadre
 
 **Topic:** [[topic_algebra|Algebra]], [[topic_logica|Logica, giochi, strategie]]
 **Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
-**Abilita:** [[skill_lettura_attenta|Lettura attenta del testo]]
+**Abilita:** [[skill_lettura_attenta|Lettura attenta del testo]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Algebra e Analisi]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0003
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1VSVaSgW0Vf754kXK3PuVc2Wk7HP70F0F/view)
@@ -37,12 +37,11 @@ level: squadre
 
 > Two ships, each carrying a π-rata, sank in 1602; in (1, 2, 1), three ships sank, carrying one, two, and one π-rata respectively, and so on. The superstitious Master Gibbs explains that, of these, only those with an odd-sized crew became ghost ships. How many ghost ships appeared during this period?
 
+
 **Topic:** [[topic_algebra|Algebra]], [[topic_logica|Logic, games and strategies]]
 **Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
-**Abilita:** [[skill_lettura_attenta|Careful reading]]
+**Abilita:** [[skill_lettura_attenta|Careful reading]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
 **Area:** [[Algebra e Analisi|Algebra and analysis]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
-
-[[Quesiti/src_gas_2010_semifinale_b#q01|src_gas_2010_semifinale_b__Q01]]
 
 
 
@@ -75,11 +74,9 @@ level: squadre
 **Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
 **Area:** [[Geometria|Geometry]]
 
-[[Quesiti/src_gas_2010_semifinale_b#q02|src_gas_2010_semifinale_b__Q02]]
 
 
-
-<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_logica,method_casework,skill_casework_accurato"></span>
+<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_logica,method_casework,method_colorazione,skill_casework_accurato,skill_riconoscimento_pattern"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -89,8 +86,8 @@ level: squadre
 > 3. La resa dei conti La ciurma della Perla Vera è divisa in due fazioni: i π-rati reclutati da Capitan Jack Disparrow, che dicono sempre la verità, e quelli arruolati dal temibile Bourbakossa, che mentono sempre e stanno tramando di ammutinarsi. Alla resa dei conti finale, ben 7776 membri della ciurma si dispongono in cerchio sul ponte della nave. Ognuno di essi dice ad alta voce: “Dei miei due vicini uno è stato reclutato da Jack e l’altro da Bourbakossa”. Sapendo che nel cerchio è presente anche Mastro Gibbs, che è stato il primo ad essere reclutato da Jack, quanti saranno in totale quelli che non si ammutineranno?
 
 **Topic:** [[topic_logica|Logica, giochi, strategie]]
-**Metodo:** [[method_casework|Analisi per casi]]
-**Abilita:** [[skill_casework_accurato|Casework accurato]]
+**Metodo:** [[method_casework|Analisi per casi]], [[method_colorazione|Colorazione / parita]]
+**Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 5184
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1VSVaSgW0Vf754kXK3PuVc2Wk7HP70F0F/view)
@@ -103,16 +100,15 @@ level: squadre
 
 > 3. The Showdown  The crew of the Perla Vera is divided into two factions: the π-pirates recruited by Captain Jack Disparrow, who always tell the truth, and those enlisted by the formidable Bourbakossa, who always lie and are plotting mutiny. At the final showdown, a full 7776 crew members form a circle on the ship's deck. Each of them says aloud, "Of my two neighbors, one was recruited by Jack and the other by Bourbakossa." Knowing that Master Gibbs, who was the first to be recruited by Jack, is also in the circle, how many in total will not mutiny?
 
+
 **Topic:** [[topic_logica|Logic, games and strategies]]
-**Metodo:** [[method_casework|Case analysis]]
-**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Metodo:** [[method_casework|Case analysis]], [[method_colorazione|Colouring / parity]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]], [[skill_riconoscimento_pattern|Pattern recognition]]
 **Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
-[[Quesiti/src_gas_2010_semifinale_b#q03|src_gas_2010_semifinale_b__Q03]]
 
 
-
-<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_algebra,skill_modellizzazione"></span>
+<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_algebra,method_fattorizzazione,skill_modellizzazione,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -122,7 +118,8 @@ level: squadre
 > 4. A vele spiegate La bussola del pirata $Tom^{2}$, oltre a indicare sempre la direzione del tesoro, fornisce anche l’ora di arrivo stimata ipotizzando che la nave viaggi direttamente verso la meta alla velocità costante di 12 nodi (un nodo di velocità corrisponde a 1 miglio all’ora). L’Olandese Secante, il vascello su cui è imbarcato $Tom^{2}$, sta andando dritta filata verso il tesoro alla sua massima velocità. Sapendo che l’orario di arrivo stimato dalla bussola cala di 1 minuto ogni 8 miglia percorse, a quanti nodi di velocità va la nave? [Come risultato fornire il prodotto di numeratore e denominatore della frazione ridotta ai minimi termini] Gara a Squadre 2010 – Semifinale B – Testi dei problemi – 1/3
 
 **Topic:** [[topic_algebra|Algebra]]
-**Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Algebra e Analisi]]
 **Risposta:** 2080
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1VSVaSgW0Vf754kXK3PuVc2Wk7HP70F0F/view)
@@ -135,15 +132,15 @@ level: squadre
 
 > 4. As explained to you, the Pirate's Compass $Tom^{2}$, besides always indicating the direction to the treasure, also provides the estimated time of arrival, assuming that the ship travels directly toward the destination at a constant speed of 12 knots (one knot of speed corresponds to 1 mile per hour). The Flying Dutchman Secant, the vessel on which $Tom^{2}$ is aboard, is heading straight for the treasure at its maximum speed. Knowing that the estimated time of arrival given by the compass decreases by 1 minute for every 8 miles traveled, at how many knots is the ship traveling? [As the result, provide the product of the numerator and denominator of the fraction reduced to lowest terms] Team Competition 2010 – Semifinal B – Problem Texts – 1/3
 
+
 **Topic:** [[topic_algebra|Algebra]]
-**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
 **Area:** [[Algebra e Analisi|Algebra and analysis]]
 
-[[Quesiti/src_gas_2010_semifinale_b#q04|src_gas_2010_semifinale_b__Q04]]
 
 
-
-<span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_combinatoria,topic_aritmetica,method_conteggio,skill_conteggio_sistematico"></span>
+<span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_combinatoria,topic_aritmetica,method_conteggio,method_congruenze,skill_conteggio_sistematico,skill_riconoscimento_pattern"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -153,9 +150,9 @@ level: squadre
 > 5. Bandiera al vento Purtroppo l’ammutinamento è riuscito, Jack Disparrow è stato abbandonato su un’isoletta deserta e la Perla Vera è caduta nelle mani di Bourbakossa, che fa issare le sue insegne: la sua bandiera è un grosso triangolo nero su cui sono rappresentati tante volte tre simboli pirateschi. Sulla prima riga è rappresentata una scim- mia. Sulla seconda riga una scimmia ed un forziere. Sulla terza riga una scimmia, un forziere ed una mela. Sulla quarta riga ancora una scimmia, un forziere, una mela ed un’altra scimmia, e così via: sull’n-esima riga ci sono n simboli ottenuti ripetendo nell’ordine scimmia, forziere e mela. Il triangolo conta in tutto 2010 righe: qual è la differenza tra il numero di scimmie ed il numero di mele?
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_conteggio|Conteggio combinatorio]]
-**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
-**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+**Metodo:** [[method_conteggio|Conteggio combinatorio]], [[method_congruenze|Aritmetica modulare / congruenze]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 1340
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1VSVaSgW0Vf754kXK3PuVc2Wk7HP70F0F/view)
 
@@ -167,16 +164,15 @@ level: squadre
 
 > 5. Flag in the Wind Unfortunately, the mutiny succeeded: Jack Sparrow was marooned on a deserted islet, and the True Pearl fell into Bourbakossa's hands; he had his ensigns hoisted: his flag is a large black triangle bearing, repeated many times, three pirate symbols. On the first row, a monkey is depicted. On the second row, a monkey and a chest. On the third row, a monkey, a chest, and an apple. On the fourth row, again a monkey, a chest, an apple, and another monkey, and so on: on the n-th row, there are n symbols obtained by repeating, in order, monkey, chest, and apple. The triangle has a total of 2010 rows: what is the difference between the number of monkeys and the number of apples?
 
+
 **Topic:** [[topic_combinatoria|Combinatorics]], [[topic_aritmetica|Arithmetic / Number theory]]
-**Metodo:** [[method_conteggio|Combinatorial counting]]
-**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
-**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
-
-[[Quesiti/src_gas_2010_semifinale_b#q05|src_gas_2010_semifinale_b__Q05]]
+**Metodo:** [[method_conteggio|Combinatorial counting]], [[method_congruenze|Modular arithmetic / congruences]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]], [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
 
 
-<span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_combinatoria,topic_aritmetica,method_conteggio,skill_riconoscimento_pattern"></span>
+<span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_combinatoria,topic_aritmetica,method_conteggio,method_congruenze,skill_riconoscimento_pattern"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -186,9 +182,9 @@ level: squadre
 > 6. Il triangolo di Tortuga Sull’isola di Tortuga ha grande importanza una targa commemorativa detta il Triangolo di Tortuga. È apparentemente identica al triangolo di Tartaglia, ma ogni sua riga è dedicata ad un anno dal 1600 al 1726 e i numeri riportati rappresentano il numero di π-rati imbarcati per ciascuna delle navi π-rata che sono affondate in quell’anno. Ad esempio nel 1600 (1) è affondata una sola nave con un solo π-rata, nel 1601 (1,
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_conteggio|Conteggio combinatorio]]
+**Metodo:** [[method_conteggio|Conteggio combinatorio]], [[method_congruenze|Aritmetica modulare / congruenze]]
 **Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
-**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 2059
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1VSVaSgW0Vf754kXK3PuVc2Wk7HP70F0F/view)
 
@@ -200,16 +196,15 @@ level: squadre
 
 > 6. The Tortuga Triangle On Tortuga Island, a commemorative plaque known as the Tortuga Triangle is of great importance. It appears to be identical to Tartaglia's triangle, but each of its rows is dedicated to a year from 1600 to 1726, and the numbers given represent the number of π-rates embarked on each of the π-rate ships that sank in that year. For example, in 1600 (1), only one ship with a single π-rate sank; in 1601 (1,
 
+
 **Topic:** [[topic_combinatoria|Combinatorics]], [[topic_aritmetica|Arithmetic / Number theory]]
-**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Metodo:** [[method_conteggio|Combinatorial counting]], [[method_congruenze|Modular arithmetic / congruences]]
 **Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]]
-**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
-
-[[Quesiti/src_gas_2010_semifinale_b#q06|src_gas_2010_semifinale_b__Q06]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
 
 
-<span class="atom-split" id="q07" data-atom="q07" data-title="Quesito 7" data-tags="topic_aritmetica,method_fattorizzazione,skill_manipolazione_algebrica"></span>
+<span class="atom-split" id="q07" data-atom="q07" data-title="Quesito 7" data-tags="topic_aritmetica,method_fattorizzazione,method_casework,skill_manipolazione_algebrica,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -225,8 +220,8 @@ level: squadre
 > di un intero dispari.” Quante monete devono cercare i π-rati di Bourbakossa?
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
-**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]], [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 5625
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1VSVaSgW0Vf754kXK3PuVc2Wk7HP70F0F/view)
@@ -240,16 +235,15 @@ level: squadre
 > The Aztec chest
 > The chest containing the Aztec gold is empty, and all the ancient coins will have to be recovered before the curse is lifted. The ghost pirate Bourbakossa has sent his men scouring everywhere, while he tries to remember how many coins there were when the chest was found. The only clue is a note in Captain Jack Disparrow's ship's log that reads: "...the Aztec coins number as many as the smallest positive integer a = n5 + 4n4, where n is a natural number and a is the square of an odd integer." How many coins must Bourbakossa's pirates look for?
 
+
 **Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
-**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
-**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]], [[method_casework|Case analysis]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_casework_accurato|Careful case analysis]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
-[[Quesiti/src_gas_2010_semifinale_b#q07|src_gas_2010_semifinale_b__Q07]]
 
 
-
-<span class="atom-split" id="q08" data-atom="q08" data-title="Quesito 8" data-tags="topic_algebra,topic_aritmetica,method_fattorizzazione,skill_manipolazione_algebrica"></span>
+<span class="atom-split" id="q08" data-atom="q08" data-title="Quesito 8" data-tags="topic_algebra,topic_aritmetica,method_fattorizzazione,method_casework,skill_manipolazione_algebrica,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -261,8 +255,8 @@ level: squadre
 > più grande intero positivo a tale che a2 +200a+1 sia un quadrato perfetto. Cosa deve rispondere?
 
 **Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
-**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]], [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 4900
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1VSVaSgW0Vf754kXK3PuVc2Wk7HP70F0F/view)
@@ -275,16 +269,15 @@ level: squadre
 
 > Optimiser! When the beautiful Elizabeth Somm ends up a prisoner of Bourbakossa, she invokes the “optimiser” to be spared, but to her regret she discovers that, in order to make it effective with real π-rats, she is asked to find the greatest positive integer a such that a² + 200a + 1 is a perfect square. What must she reply?
 
+
 **Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Arithmetic / Number theory]]
-**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
-**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]], [[method_casework|Case analysis]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_casework_accurato|Careful case analysis]]
 **Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
-[[Quesiti/src_gas_2010_semifinale_b#q08|src_gas_2010_semifinale_b__Q08]]
 
 
-
-<span class="atom-split" id="q09" data-atom="q09" data-title="Quesito 9" data-tags="topic_combinatoria,topic_aritmetica,method_conteggio,skill_conteggio_sistematico"></span>
+<span class="atom-split" id="q09" data-atom="q09" data-title="Quesito 9" data-tags="topic_combinatoria,topic_aritmetica,method_conteggio,skill_conteggio_sistematico,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -300,8 +293,8 @@ level: squadre
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_conteggio|Conteggio combinatorio]]
-**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
-**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 8251
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1VSVaSgW0Vf754kXK3PuVc2Wk7HP70F0F/view)
 
@@ -314,16 +307,15 @@ level: squadre
 > Laborious Escape
 > With Will's help, Jack Disparrow has escaped from his cell, which is located on the lowest floor of the prison tower, and wants to make his way up to the top floor, from where he hopes to manage to escape. The prison has 222 floors, numbered from 1 to 222 and connected by a certain number of staircases. From floor 1 to floor 2, there is only one staircase with a single step. From floor 2 to floor 3, there are two staircases with 1 and 2 steps respectively; from floor 3 to floor 4, there are three staircases with 1, 2, and 3 steps; and so on. On average, how many steps are there between one floor and the next?
 
+
 **Topic:** [[topic_combinatoria|Combinatorics]], [[topic_aritmetica|Arithmetic / Number theory]]
 **Metodo:** [[method_conteggio|Combinatorial counting]]
-**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
-**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
-
-[[Quesiti/src_gas_2010_semifinale_b#q09|src_gas_2010_semifinale_b__Q09]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
 
 
-<span class="atom-split" id="q10" data-atom="q10" data-title="Quesito 10" data-tags="topic_aritmetica,method_congruenze,skill_manipolazione_algebrica"></span>
+<span class="atom-split" id="q10" data-atom="q10" data-title="Quesito 10" data-tags="topic_aritmetica,method_congruenze,method_fattorizzazione,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -342,7 +334,7 @@ level: squadre
 > 3/3
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]]
+**Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]], [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 1144
@@ -359,16 +351,15 @@ level: squadre
 >
 > 2010 Team Competition – Semifinal B – Problem Statements 3/3
 
+
 **Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
-**Metodo:** [[method_congruenze|Modular arithmetic / congruences]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]], [[method_fattorizzazione|Factorisation / algebraic manipulation]]
 **Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
-[[Quesiti/src_gas_2010_semifinale_b#q10|src_gas_2010_semifinale_b__Q10]]
 
 
-
-<span class="atom-split" id="q11" data-atom="q11" data-title="Quesito 11" data-tags="topic_probabilita,method_conteggio,skill_conteggio_sistematico"></span>
+<span class="atom-split" id="q11" data-atom="q11" data-title="Quesito 11" data-tags="topic_probabilita,method_conteggio,skill_conteggio_sistematico,skill_modellizzazione,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -390,7 +381,7 @@ level: squadre
 
 **Topic:** [[topic_probabilita|Probabilita e statistica]]
 **Metodo:** [[method_conteggio|Conteggio combinatorio]]
-**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0004
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1VSVaSgW0Vf754kXK3PuVc2Wk7HP70F0F/view)
@@ -403,16 +394,15 @@ level: squadre
 
 > Are you afraid of Davy Jensen's bingo? The cursed π-rat Davy Jensen has a bag containing 90 white bingo tiles plus 1 single blood-red tile. Every prisoner on his ship, the Secant Dutchman, takes part in the following game to find out how many years they will have to serve on the ship: they draw the tiles at random one at a time and arrange them in a triangle (1, then 2, then 3, ..., up to 13). The unlucky soul will have to serve as many years as the number of rows of the triangle that are longer than the row in which the red tile appears. Bill "Fire-Spitter" Turing, who is watching from the sidelines, wonders, on average, how many years of service fall to each person in this way. Jack doesn't quite understand what his π-rat colleague means, but his son Will, who has studied, explains to him that among the many ways of defining the average number of years of service (all of which lead to the same result), the most common one is the sum of the numbers k·pk, where, for each natural number 0 ≤ k ≤ 12, pk is the probability that the number of years of service is k. What is the average number of years of service? [As the result, give the product of the numerator and the denominator of the fraction reduced to lowest terms.]
 
+
 **Topic:** [[topic_probabilita|Probability and statistics]]
 **Metodo:** [[method_conteggio|Combinatorial counting]]
-**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]], [[skill_modellizzazione|Modelling / translating the text]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
 **Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
-[[Quesiti/src_gas_2010_semifinale_b#q11|src_gas_2010_semifinale_b__Q11]]
 
 
-
-<span class="atom-split" id="q12" data-atom="q12" data-title="Quesito 12" data-tags="topic_aritmetica,topic_combinatoria,method_casework,skill_casework_accurato"></span>
+<span class="atom-split" id="q12" data-atom="q12" data-title="Quesito 12" data-tags="topic_aritmetica,topic_combinatoria,method_casework,method_congruenze,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -427,7 +417,7 @@ level: squadre
 > siano i più piccoli possibili. Quali sono le ultime 4 cifre del minore dei due?
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
-**Metodo:** [[method_casework|Analisi per casi]]
+**Metodo:** [[method_casework|Analisi per casi]], [[method_congruenze|Aritmetica modulare / congruenze]]
 **Abilita:** [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 3485
@@ -442,16 +432,15 @@ level: squadre
 > The Capture of Cauchypso
 > The Brotherhood of the π-rats consists of the 9 noble π-rats plus Teague Disparrow, Jack's father. Each member possesses one of the cards in a deck of 10 magic tarot cards numbered from 0 to 9. To capture Cauchypso in human form, the π-rats must arrange all the cards so as to form, with them, two 5-digit numbers (neither of which starts with zero) such that one is twice the other and the numbers are as small as possible. What are the last 4 digits of the smaller of the two?
 
+
 **Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_combinatoria|Combinatorics]]
-**Metodo:** [[method_casework|Case analysis]]
+**Metodo:** [[method_casework|Case analysis]], [[method_congruenze|Modular arithmetic / congruences]]
 **Abilita:** [[skill_casework_accurato|Careful case analysis]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
-[[Quesiti/src_gas_2010_semifinale_b#q12|src_gas_2010_semifinale_b__Q12]]
 
 
-
-<span class="atom-split" id="q13" data-atom="q13" data-title="Quesito 13" data-tags="topic_algebra,method_disuguaglianze,skill_modellizzazione"></span>
+<span class="atom-split" id="q13" data-atom="q13" data-title="Quesito 13" data-tags="topic_algebra,method_disuguaglianze,skill_modellizzazione,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -468,7 +457,7 @@ level: squadre
 
 **Topic:** [[topic_algebra|Algebra]]
 **Metodo:** [[method_disuguaglianze|Disuguaglianze classiche]]
-**Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Algebra e Analisi]]
 **Risposta:** 6500
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1VSVaSgW0Vf754kXK3PuVc2Wk7HP70F0F/view)
@@ -482,16 +471,15 @@ level: squadre
 > An avid buccaneer
 > The swords made by the young Will Turing are renowned for their quality and can be sold at a high price. Will wants to finance his next adventure by selling his swords in Tortuga, but he must decide how many to make and at what price to sell them. If he asks for a price of 70 doubloons or less, he can be sure that all 10,000 pirates of Tortuga will want one. If, however, he sets a higher price, for each additional doubloon he will sell 50 fewer swords. Knowing that making each sword costs him 10 doubloons, and assuming he sets a price that maximizes his profits, how many pirates will buy their sword from Will?
 
+
 **Topic:** [[topic_algebra|Algebra]]
 **Metodo:** [[method_disuguaglianze|Classical inequalities]]
-**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
 **Area:** [[Algebra e Analisi|Algebra and analysis]]
 
-[[Quesiti/src_gas_2010_semifinale_b#q13|src_gas_2010_semifinale_b__Q13]]
 
 
-
-<span class="atom-split" id="q14" data-atom="q14" data-title="Quesito 14" data-tags="topic_geometria_piana,topic_algebra,method_trigonometria,skill_modellizzazione"></span>
+<span class="atom-split" id="q14" data-atom="q14" data-title="Quesito 14" data-tags="topic_geometria_piana,topic_algebra,topic_trigonometria,method_trigonometria,skill_modellizzazione,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -507,10 +495,10 @@ level: squadre
 > più a sud della nave e si muove verso nord a velocità costante. Qual è la massima velocità del Cramer che
 > permette alla Perla Vera di arrivare all’isola per prima? Rispondere in cm/s.
 
-**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_algebra|Algebra]]
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_algebra|Algebra]], [[topic_trigonometria|Trigonometria]]
 **Metodo:** [[method_trigonometria|Tecniche trigonometriche]]
-**Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
-**Area:** [[Algebra e Analisi]], [[Geometria]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]], [[Algebra e Analisi]]
 **Risposta:** 0588
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1VSVaSgW0Vf754kXK3PuVc2Wk7HP70F0F/view)
 
@@ -523,16 +511,15 @@ level: squadre
 > An ingenious route
 > The Perla Vera is being hunted by Cramer, the terrible sea monster unleashed by Davy Jensen, and is trying to reach land before him. The nearest island is a point exactly 10 miles north of the ship. Since the wind is not astern but slightly abeam, Captain Disparrow sets a course that continuously alternates between two different directions: heading northeast (30 degrees from north), the ship travels at 5 m/s, while heading northwest (60 degrees from north), the ship travels at 3 m/s. Cramer starts from a point 10 miles south of the ship and moves north at a constant speed. What is the maximum speed of Cramer that allows the Perla Vera to reach the island first? Answer in cm/s.
 
-**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_algebra|Algebra]]
+
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_algebra|Algebra]], [[topic_trigonometria|Trigonometry]]
 **Metodo:** [[method_trigonometria|Trigonometric techniques]]
-**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
-**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Geometria|Geometry]]
-
-[[Quesiti/src_gas_2010_semifinale_b#q14|src_gas_2010_semifinale_b__Q14]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]], [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Geometria|Geometry]], [[Algebra e Analisi|Algebra and analysis]]
 
 
 
-<span class="atom-split" id="q15" data-atom="q15" data-title="Quesito 15" data-tags="topic_combinatoria,method_conteggio,skill_conteggio_sistematico"></span>
+<span class="atom-split" id="q15" data-atom="q15" data-title="Quesito 15" data-tags="topic_combinatoria,method_conteggio,skill_conteggio_sistematico,skill_lettura_attenta"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -549,7 +536,7 @@ level: squadre
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_conteggio|Conteggio combinatorio]]
-**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta del testo]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0540
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1VSVaSgW0Vf754kXK3PuVc2Wk7HP70F0F/view)
@@ -563,16 +550,15 @@ level: squadre
 > The Spectral Chest
 > It's not easy to open the chest that holds Davy Jensen's heart: the valiant Will Turing already has the key, but now he's in a bind because he's discovered that the chest has a full four locks—one on each side. Fortunately, the key he has fits all the locks, but to unlock the mechanism that opens the chest, each lock must be turned twice, in a precise order that Will doesn't know; he only knows that the first turn (but not the second) must be made on the front lock. At most, how many times will Will have to try to unlock the mechanism to be sure of opening the chest?
 
+
 **Topic:** [[topic_combinatoria|Combinatorics]]
 **Metodo:** [[method_conteggio|Combinatorial counting]]
-**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]], [[skill_lettura_attenta|Careful reading of the text]]
 **Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
-[[Quesiti/src_gas_2010_semifinale_b#q15|src_gas_2010_semifinale_b__Q15]]
 
 
-
-<span class="atom-split" id="q16" data-atom="q16" data-title="Quesito 16" data-tags="topic_geometria_piana,method_coordinate,method_trigonometria,skill_ragionamento_geometrico"></span>
+<span class="atom-split" id="q16" data-atom="q16" data-title="Quesito 16" data-tags="topic_geometria_piana,topic_trigonometria,method_coordinate,method_trigonometria,skill_ragionamento_geometrico"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -587,7 +573,7 @@ level: squadre
 > vedetta non è sicura. Sapendo che AD misura 48 m, quanti metri quadrati può misurare, al massimo, l’area
 > del vortice?
 
-**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometria]]
 **Metodo:** [[method_coordinate|Metodo delle coordinate]], [[method_trigonometria|Tecniche trigonometriche]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]]
@@ -603,9 +589,8 @@ level: squadre
 > Clash Among the Waves
 > La Perla Vera risks being swallowed by a vortex! This vortex is shaped like the quadrilateral OABC, all of which lies within a semicircle with center O and diameter AD. Point B lies on the semicircumference, and angle BOA measures 60 degrees. The Dutch Secant puts up a fight from a point E on the semicircumference such that angle EOD measures 30 degrees. Point C belongs either to segment DE or to arc EB, but unfortunately the lookout is not sure. Given that AD measures 48 m, what is the maximum possible area of the vortex in square metres?
 
-**Topic:** [[topic_geometria_piana|Plane geometry]]
+
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_trigonometria|Trigonometry]]
 **Metodo:** [[method_coordinate|Coordinate method]], [[method_trigonometria|Trigonometric techniques]]
 **Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
 **Area:** [[Geometria|Geometry]]
-
-[[Quesiti/src_gas_2010_semifinale_b#q16|src_gas_2010_semifinale_b__Q16]]

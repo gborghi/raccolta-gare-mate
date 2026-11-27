@@ -25,7 +25,7 @@ level: OBM Nível 3
 > 
 > Show that lines $AA'$ and $AB'$ divide the angle $\alpha$ into three equal parts.
 
-![[src_obm_2000_n3_f3__q01.png]]
+![[src_obm_2000_n3_f3__Q01.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometria]]
 **Metodo:** [[method_simmetria|Simmetria]]
@@ -47,18 +47,16 @@ level: OBM Nível 3
 >
 > Dimostrare che le rette $AA'$ e $AB'$ dividono l'angolo $\alpha$ in tre parti uguali.
 
-![[src_obm_2000_n3_f3__q01.png]]
+![[src_obm_2000_n3_f3__Q01.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometria]]
 **Metodo:** [[method_simmetria|Simmetria]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 
-[[Quesiti/src_obm_2000_n3_f3#q01|src_obm_2000_n3_f3__Q01]]
 
 
-
-<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_aritmetica,method_congruenze,method_telescoping,skill_manipolazione_algebrica,skill_ragionamento_geometrico,skill_lettura_attenta"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_aritmetica,method_congruenze,method_telescoping,method_casework,method_fattorizzazione,skill_manipolazione_algebrica,skill_ragionamento_geometrico,skill_lettura_attenta"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -72,9 +70,9 @@ level: OBM Nível 3
 > Prove that $n$ is quasi-perfect if and only if $s(n) = s(n-1)$.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_congruenze|Congruenze]], [[method_telescoping|Telescoping]]
+**Metodo:** [[method_congruenze|Congruenze]], [[method_telescoping|Telescoping]], [[method_casework|Case analysis]], [[method_fattorizzazione|Factorisation / algebraic manipulation]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
-**Area:** [[Aritmetica e Teoria dei Numeri]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1bbLSZPSHLZykQc7t2hMsUzyk6vyY9HcN/view)
 
 
@@ -89,16 +87,15 @@ level: OBM Nível 3
 >
 > Dimostrare che $n$ è quasi-perfetto se e solo se $s(n) = s(n-1)$.
 
+
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_congruenze|Congruenze]], [[method_telescoping|Telescoping]]
+**Metodo:** [[method_congruenze|Congruenze]], [[method_telescoping|Telescoping]], [[method_casework|Analisi per casi]], [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 
-[[Quesiti/src_obm_2000_n3_f3#q02|src_obm_2000_n3_f3__Q02]]
 
 
-
-<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_aritmetica,topic_combinatoria,method_ricorsione,method_induzione,skill_riconoscimento_pattern,skill_manipolazione_algebrica,skill_conteggio_sistematico"></span>
+<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_aritmetica,topic_combinatoria,method_ricorsione,method_induzione,method_conteggio,skill_riconoscimento_pattern,skill_manipolazione_algebrica,skill_conteggio_sistematico"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -110,9 +107,9 @@ level: OBM Nível 3
 > Determine the smallest positive integer $n$ such that $f(1) + f(2) + \cdots + f(n) \ge 123456$.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
-**Metodo:** [[method_ricorsione|Ricorsione]], [[method_induzione|Induzione]]
+**Metodo:** [[method_ricorsione|Ricorsione]], [[method_induzione|Induzione]], [[method_conteggio|Combinatorial counting]]
 **Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]]
-**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Risposta:** 24710
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1bbLSZPSHLZykQc7t2hMsUzyk6vyY9HcN/view)
 
@@ -126,16 +123,15 @@ level: OBM Nível 3
 >
 > Determinare il più piccolo intero positivo $n$ tale che $f(1) + f(2) + \cdots + f(n) \ge 123456$.
 
+
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
-**Metodo:** [[method_ricorsione|Ricorsione]], [[method_induzione|Induzione]]
+**Metodo:** [[method_ricorsione|Ricorsione]], [[method_induzione|Induzione]], [[method_conteggio|Conteggio combinatorio]]
 **Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 
-[[Quesiti/src_obm_2000_n3_f3#q03|src_obm_2000_n3_f3__Q03]]
 
 
-
-<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_aritmetica,topic_algebra,method_casework,method_congruenze,skill_modellizzazione,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
+<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_aritmetica,topic_algebra,method_casework,method_congruenze,skill_modellizzazione,skill_ragionamento_geometrico,skill_manipolazione_algebrica,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -148,8 +144,8 @@ level: OBM Nível 3
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
 **Metodo:** [[method_casework|Casework]], [[method_congruenze|Congruenze]]
-**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
-**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Algebra e Analisi|Algebra and analysis]]
 **Risposta:** $v = \dfrac{20}{k}$ m/s for every positive integer $k$
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1bbLSZPSHLZykQc7t2hMsUzyk6vyY9HcN/view)
 
@@ -163,16 +159,15 @@ level: OBM Nível 3
 >
 > Per quali valori di $v$ è possibile che l'auto passi attraverso un numero arbitrariamente grande di semafori senza fermarsi a nessuno di essi?
 
+
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
 **Metodo:** [[method_casework|Casework]], [[method_congruenze|Congruenze]]
-**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 
-[[Quesiti/src_obm_2000_n3_f3#q04|src_obm_2000_n3_f3__Q04]]
 
 
-
-<span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_combinatoria,topic_insiemi_funzioni,method_bigezione,method_conteggio,skill_astrazione,skill_conteggio_sistematico,skill_ragionamento_geometrico"></span>
+<span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_combinatoria,topic_insiemi_funzioni,method_bigezione,method_conteggio,method_casework,method_simmetria,skill_astrazione,skill_conteggio_sistematico,skill_ragionamento_geometrico"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -182,9 +177,9 @@ level: OBM Nível 3
 > Let $X$ be the set of all sequences $\underline{a} = (a_1, a_2, \ldots, a_{2000})$ such that $a_i \in \{0,1,2\}$ for $1 \le i \le 1000$ and $a_i \in \{0,1\}$ for $1001 \le i \le 2000$. Given $\underline{a}$ and $\underline{b}$ in $X$, define the distance $d(\underline{a},\underline{b})$ between $\underline{a}$ and $\underline{b}$ as the number of indices $i$, $1 \le i \le 2000$, such that $a_i \ne b_i$. Determine the number of functions $f : X \to X$ that preserve distance, that is, such that $d(f(\underline{a}), f(\underline{b})) = d(\underline{a}, \underline{b})$ for all $\underline{a}$ and $\underline{b}$ in $X$.
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_insiemi_funzioni|Insiemi e funzioni]]
-**Metodo:** [[method_bigezione|Biiezione]], [[method_conteggio|Conteggio]]
+**Metodo:** [[method_bigezione|Biiezione]], [[method_conteggio|Conteggio]], [[method_casework|Case analysis]], [[method_simmetria|Using symmetry]]
 **Abilita:** [[skill_astrazione|Astrazione]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
-**Area:** [[Combinatoria, Logica e Probabilita]], [[Algebra e Analisi]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Algebra e Analisi|Algebra and analysis]]
 **Risposta:** $1000! \cdot 1000! \cdot 2^{1000} \cdot (1\times 2^{1000} \cdot 3^{1000})$
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1bbLSZPSHLZykQc7t2hMsUzyk6vyY9HcN/view)
 
@@ -196,16 +191,15 @@ level: OBM Nível 3
 
 > Sia $X$ l'insieme di tutte le successioni $\underline{a} = (a_1, a_2, \ldots, a_{2000})$ tali che $a_i \in \{0,1,2\}$ per $1 \le i \le 1000$ e $a_i \in \{0,1\}$ per $1001 \le i \le 2000$. Dati $\underline{a}$ e $\underline{b}$ in $X$, si definisca la distanza $d(\underline{a},\underline{b})$ tra $\underline{a}$ e $\underline{b}$ come il numero di indici $i$, $1 \le i \le 2000$ tali che $a_i \ne b_i$. Si determini il numero di funzioni $f : X \to X$ che preservano la distanza, cioè tali che $d(f(\underline{a}), f(\underline{b})) = d(\underline{a}, \underline{b})$ per tutti gli $\underline{a}$ e $\underline{b}$ in $X$.
 
+
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_insiemi_funzioni|Insiemi e funzioni]]
-**Metodo:** [[method_bigezione|Biiezione]], [[method_conteggio|Conteggio]]
+**Metodo:** [[method_bigezione|Biiezione]], [[method_conteggio|Conteggio]], [[method_casework|Analisi per casi]], [[method_simmetria|Sfruttamento della simmetria]]
 **Abilita:** [[skill_astrazione|Astrazione]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Algebra e Analisi]]
 
-[[Quesiti/src_obm_2000_n3_f3#q05|src_obm_2000_n3_f3__Q05]]
 
 
-
-<span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_geometria_solida,topic_combinatoria,method_casework,method_conteggio,skill_ragionamento_geometrico,skill_astrazione,skill_conteggio_sistematico"></span>
+<span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_geometria_solida,topic_combinatoria,method_casework,method_conteggio,method_simmetria,skill_ragionamento_geometrico,skill_astrazione,skill_conteggio_sistematico"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -217,9 +211,9 @@ level: OBM Nível 3
 > **Note:** Given two points $A$ and $B$ in space, the perpendicular bisector plane of $A$ and $B$ is the set of points in space equidistant from $A$ and $B$. In other words, it is the plane perpendicular to segment $AB$ passing through the midpoint of $AB$.
 
 **Topic:** [[topic_geometria_solida|Geometria solida]], [[topic_combinatoria|Combinatoria]]
-**Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]]
+**Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]], [[method_simmetria|Using symmetry]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_astrazione|Astrazione]], [[skill_conteggio_sistematico|Conteggio sistematico]]
-**Area:** [[Geometria]], [[Combinatoria, Logica e Probabilita]]
+**Area:** [[Geometria|Geometry]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Risposta:** 96
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1bbLSZPSHLZykQc7t2hMsUzyk6vyY9HcN/view)
 
@@ -233,9 +227,8 @@ level: OBM Nível 3
 >
 > **Note:** Dati due punti $A$ e $B$ nello spazio, il piano mediatore di $A$ e $B$ è l'insieme dei punti dello spazio equidistanti da $A$ e $B$. In altre parole, è il piano perpendicolare al segmento $AB$ e passante per il punto medio di $AB$.
 
+
 **Topic:** [[topic_geometria_solida|Geometria solida]], [[topic_combinatoria|Combinatoria]]
-**Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]]
+**Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]], [[method_simmetria|Sfruttamento della simmetria]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_astrazione|Astrazione]], [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Geometria]], [[Combinatoria, Logica e Probabilita]]
-
-[[Quesiti/src_obm_2000_n3_f3#q06|src_obm_2000_n3_f3__Q06]]

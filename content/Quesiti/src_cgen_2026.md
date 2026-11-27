@@ -10,7 +10,7 @@ level: Concours Général
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_algebra"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_algebra,topic_aritmetica,topic_funzionali,method_telescoping,method_induzione,method_ricorsione,skill_manipolazione_algebrica,skill_astrazione"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -83,10 +83,12 @@ level: Concours Général
 > 12) Prove that if $\ell$ is rational, then there is an index $k_0$ such that, for all $k\geqslant k_0$,
 > $$a_{k+1}-1=(a_k-1)^2.$$
 
-**Topic:** [[topic_algebra|Algebra]]
-**Area:** [[Algebra e Analisi]]
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Arithmetic / Number theory]], [[topic_funzionali|Functional equations / sequences]]
+**Metodo:** [[method_telescoping|Telescoping sums]], [[method_induzione|Induction]], [[method_ricorsione|Recursion]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_astrazione|Abstraction / generalisation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Risposta:** nessuna soluzione ufficiale pubblicata (prova a dimostrazione / a risposta aperta).
-**Fonte:** apri PDF p.2 · Concours Général des Lycées 2026 (soggetto ufficiale, copia su vmaths.fr)
+**Fonte:** [apri PDF p.2](https://www.vmaths.fr/wp-content/uploads/CG/Concours_General_2026_enonce.pdf#page=2) · Concours Général des Lycées 2026 (soggetto ufficiale, copia su vmaths.fr)
 
 
 <div class="qlang-split" data-lang="it"></div>
@@ -160,13 +162,15 @@ level: Concours Général
 > 12) Dimostrare che, se $\ell$ è razionale, allora esiste un indice $k_0$ tale che, per ogni $k\geqslant k_0$,
 > $$a_{k+1}-1=(a_k-1)^2.$$
 
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_funzionali|Equazioni funzionali / successioni]]
+**Metodo:** [[method_telescoping|Somme telescopiche]], [[method_induzione|Induzione]], [[method_ricorsione|Ricorsione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione / generalizzazione]]
+**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** nessuna soluzione ufficiale pubblicata (prova a dimostrazione / a risposta aperta).
 
-[[Quesiti/src_cgen_2026#q01|src_cgen_2026__Q01]]
 
 
-
-<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_aritmetica,topic_algebra"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_aritmetica,topic_algebra,method_induzione,method_congruenze,skill_astrazione,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -283,10 +287,12 @@ level: Concours Général
 > Prove that for every $M\geqslant1$ there exist an integer $n\geqslant1$ and signs $\varepsilon_1,\dots,\varepsilon_n$ such that
 > $$M=\varepsilon_1P(1)+\varepsilon_2P(2)+\cdots+\varepsilon_nP(n).$$
 
-**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
-**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_induzione|Induction]], [[method_congruenze|Modular arithmetic / congruences]]
+**Abilita:** [[skill_astrazione|Abstraction / generalisation]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Algebra e Analisi|Algebra and analysis]]
 **Risposta:** nessuna soluzione ufficiale pubblicata (prova a dimostrazione / a risposta aperta).
-**Fonte:** apri PDF p.4 · Concours Général des Lycées 2026 (soggetto ufficiale, copia su vmaths.fr)
+**Fonte:** [apri PDF p.4](https://www.vmaths.fr/wp-content/uploads/CG/Concours_General_2026_enonce.pdf#page=4) · Concours Général des Lycées 2026 (soggetto ufficiale, copia su vmaths.fr)
 
 
 <div class="qlang-split" data-lang="it"></div>
@@ -404,13 +410,15 @@ level: Concours Général
 > Dimostrare che per ogni $M\geqslant1$ esistono un intero $n\geqslant1$ e dei segni $\varepsilon_1,\dots,\varepsilon_n$ tali che
 > $$M=\varepsilon_1P(1)+\varepsilon_2P(2)+\cdots+\varepsilon_nP(n).$$
 
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_induzione|Induzione]], [[method_congruenze|Aritmetica modulare / congruenze]]
+**Abilita:** [[skill_astrazione|Astrazione / generalizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 **Risposta:** nessuna soluzione ufficiale pubblicata (prova a dimostrazione / a risposta aperta).
 
-[[Quesiti/src_cgen_2026#q02|src_cgen_2026__Q02]]
 
 
-
-<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_geometria_piana,topic_combinatoria"></span>
+<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_geometria_piana,topic_combinatoria,topic_logica,method_casework,method_estremalita,skill_ragionamento_geometrico,skill_modellizzazione,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -439,10 +447,12 @@ level: Concours Général
 >
 > 6) Answer question 2) again under these new conditions.
 
-**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_combinatoria|Combinatoria]]
-**Area:** [[Geometria]], [[Combinatoria, Logica e Probabilita]]
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_combinatoria|Combinatoria]], [[topic_logica|Logic, games and strategies]]
+**Metodo:** [[method_casework|Case analysis]], [[method_estremalita|Extremal principle]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_modellizzazione|Modelling / translating the text]], [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Geometria|Geometry]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Risposta:** nessuna soluzione ufficiale pubblicata (prova a dimostrazione / a risposta aperta).
-**Fonte:** apri PDF p.7 · Concours Général des Lycées 2026 (soggetto ufficiale, copia su vmaths.fr)
+**Fonte:** [apri PDF p.7](https://www.vmaths.fr/wp-content/uploads/CG/Concours_General_2026_enonce.pdf#page=7) · Concours Général des Lycées 2026 (soggetto ufficiale, copia su vmaths.fr)
 
 
 <div class="qlang-split" data-lang="it"></div>
@@ -472,6 +482,8 @@ level: Concours Général
 >
 > 6) Riprendere la domanda 2) in queste nuove condizioni.
 
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_combinatoria|Combinatoria]], [[topic_logica|Logica, giochi, strategie]]
+**Metodo:** [[method_casework|Analisi per casi]], [[method_estremalita|Principio di estremalita]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Geometria]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** nessuna soluzione ufficiale pubblicata (prova a dimostrazione / a risposta aperta).
-
-[[Quesiti/src_cgen_2026#q03|src_cgen_2026__Q03]]

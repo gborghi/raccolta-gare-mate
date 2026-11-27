@@ -19,7 +19,7 @@ level: OBM Nível 3
 
 > Let $ABCDE$ be a regular pentagon such that the star $ACEBD$ has area $1$. Let $P$ be the intersection of $AC$ and $BE$, and $Q$ the intersection of $BD$ and $CE$. Determine the area of $APQD$.
 
-![[src_obm_1999_n3_f3__q01.png]]
+![[src_obm_1999_n3_f3__Q01.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_simmetria|Simmetria]]
@@ -36,18 +36,16 @@ level: OBM Nível 3
 
 > Sia $ABCDE$ un pentagono regolare tale che la stella $ACEBD$ abbia area $1$. Sia $P$ l'intersezione di $AC$ e $BE$, e $Q$ l'intersezione di $BD$ e $CE$. Determinare l'area di $APQD$.
 
-![[src_obm_1999_n3_f3__q01.png]]
+![[src_obm_1999_n3_f3__Q01.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_simmetria|Simmetria]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 
-[[Quesiti/src_obm_1999_n3_f3#q01|src_obm_1999_n3_f3__Q01]]
 
 
-
-<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_aritmetica,method_backward,skill_ragionamento_geometrico,skill_manipolazione_algebrica,skill_stima"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_aritmetica,topic_disuguaglianze,method_backward,method_disuguaglianze,skill_ragionamento_geometrico,skill_manipolazione_algebrica,skill_stima"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -56,10 +54,10 @@ level: OBM Nível 3
 
 > Prove that there exists at least one decimal digit different from zero among the digits of $\sqrt{2}$ between the $1{,}000{,}000$th and the $3{,}000{,}000$th decimal place after the decimal point.
 
-**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_backward|Backward]]
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_disuguaglianze|Inequalities]]
+**Metodo:** [[method_backward|Backward]], [[method_disuguaglianze|Classical inequalities]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]]
-**Area:** [[Aritmetica e Teoria dei Numeri]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Algebra e Analisi|Algebra and analysis]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/17yibfSyhuhmSwDbCsRV7EjaJIGuB8esS/view)
 
 
@@ -70,12 +68,11 @@ level: OBM Nível 3
 
 > Dimostrare che tra la $1{,}000{,}000$-esima e la $3{,}000{,}000$-esima cifra decimale dopo la virgola, tra le cifre di $\sqrt{2}$, esiste almeno una cifra decimale diversa da zero.
 
-**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_backward|Backward]]
-**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]]
-**Area:** [[Aritmetica e Teoria dei Numeri]]
 
-[[Quesiti/src_obm_1999_n3_f3#q02|src_obm_1999_n3_f3__Q02]]
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_disuguaglianze|Disuguaglianze]]
+**Metodo:** [[method_backward|Backward]], [[method_disuguaglianze|Disuguaglianze classiche]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 
 
 
@@ -108,11 +105,9 @@ level: OBM Nível 3
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 
-[[Quesiti/src_obm_1999_n3_f3#q03|src_obm_1999_n3_f3__Q03]]
 
 
-
-<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_combinatoria,method_invarianti,method_grafi,method_casework,skill_modellizzazione,skill_ragionamento_geometrico,skill_lettura_attenta"></span>
+<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_combinatoria,method_invarianti,method_grafi,method_casework,method_simmetria,skill_modellizzazione,skill_ragionamento_geometrico,skill_lettura_attenta"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -126,9 +121,9 @@ level: OBM Nível 3
 > More precisely: prove that there exist two antipodal cities where the price of $\textit{Kriptonita}$ differs by at most $100$ $\textit{Urghs}$.
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
-**Metodo:** [[method_invarianti|Invarianti]], [[method_grafi|Grafi]], [[method_casework|Casework]]
+**Metodo:** [[method_invarianti|Invarianti]], [[method_grafi|Grafi]], [[method_casework|Casework]], [[method_simmetria|Using symmetry]]
 **Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
-**Area:** [[Combinatoria, Logica e Probabilita]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/17yibfSyhuhmSwDbCsRV7EjaJIGuB8esS/view)
 
 
@@ -143,16 +138,15 @@ level: OBM Nível 3
 >
 > Più precisamente: dimostrare che esistono due città antipodali in cui il prezzo di $\textit{Kriptonita}$ differisce di al più $100$ $\textit{Urghs}$.
 
+
 **Topic:** [[topic_combinatoria|Combinatoria]]
-**Metodo:** [[method_invarianti|Invarianti]], [[method_grafi|Grafi]], [[method_casework|Casework]]
+**Metodo:** [[method_invarianti|Invarianti]], [[method_grafi|Grafi]], [[method_casework|Casework]], [[method_simmetria|Sfruttamento della simmetria]]
 **Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 
-[[Quesiti/src_obm_1999_n3_f3#q04|src_obm_1999_n3_f3__Q04]]
 
 
-
-<span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_combinatoria,method_casework,method_conteggio,skill_modellizzazione,skill_conteggio_sistematico,skill_ragionamento_geometrico"></span>
+<span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_combinatoria,method_casework,method_conteggio,method_grafi,skill_modellizzazione,skill_conteggio_sistematico,skill_ragionamento_geometrico"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -162,9 +156,9 @@ level: OBM Nível 3
 > In $\textit{Tumbolia}$ there are $n$ football teams. A round-robin championship is to be organized so that each team plays exactly once against each of the others. All games are played on Sundays, and a team cannot play more than once on the same Sunday. Determine the minimum positive integer $n$ for which it is possible to hold such a championship in $n$ Sundays.
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
-**Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]]
+**Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]], [[method_grafi|Graph theory]]
 **Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
-**Area:** [[Combinatoria, Logica e Probabilita]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Risposta:** $n = 2k-1 \text{ if } n=2k, \text{ and } n \text{ if } n \text{ is odd}$
 **Fonte:** [apri PDF](https://drive.google.com/file/d/17yibfSyhuhmSwDbCsRV7EjaJIGuB8esS/view)
 
@@ -176,16 +170,15 @@ level: OBM Nível 3
 
 > In $\textit{Tumbolia}$ ci sono $n$ squadre di calcio. Si deve organizzare un campionato all'italiana in modo che ogni squadra affronti ciascuna delle altre esattamente una volta. Tutte le partite si disputano di domenica, e una squadra non può giocare più di una partita nello stesso giorno di domenica. Determinare il minimo intero positivo $n$ per cui è possibile svolgere un tale campionato in $n$ domeniche.
 
+
 **Topic:** [[topic_combinatoria|Combinatoria]]
-**Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]]
+**Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]], [[method_grafi|Teoria dei grafi]]
 **Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 
-[[Quesiti/src_obm_1999_n3_f3#q05|src_obm_1999_n3_f3__Q05]]
 
 
-
-<span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_geometria_piana,method_estremalita,method_trigonometria,skill_ragionamento_geometrico,skill_modellizzazione,skill_manipolazione_algebrica"></span>
+<span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_geometria_piana,topic_trigonometria,method_estremalita,method_trigonometria,skill_ragionamento_geometrico,skill_modellizzazione,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -195,12 +188,12 @@ level: OBM Nível 3
 > Given triangle $ABC$, show how to construct with straightedge and compass a triangle $A'B'C'$ of minimum area such that $C' \in AC$, $A' \in AB$, $B' \in BC$, and
 > $$\angle B'A'C' = \angle BAC, \quad \angle A'C'B' = \angle ABC, \quad \angle A'B'C' = \angle ACB.$$
 
-![[src_obm_1999_n3_f3__q06.png]]
+![[src_obm_1999_n3_f3__Q06.png]]
 
-**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometry]]
 **Metodo:** [[method_estremalita|Estremalità]], [[method_trigonometria|Trigonometria]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
-**Area:** [[Geometria]]
+**Area:** [[Geometria|Geometry]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/17yibfSyhuhmSwDbCsRV7EjaJIGuB8esS/view)
 
 
@@ -212,11 +205,10 @@ level: OBM Nível 3
 > Dato il triangolo $ABC$, mostra come costruire con riga e compasso un triangolo $A'B'C'$ di area minima tale che $C' \in AC$, $A' \in AB$, $B' \in BC$, e
 > $$\angle B'A'C' = \angle BAC, \quad \angle A'C'B' = \angle ABC, \quad \angle A'B'C' = \angle ACB.$$
 
-![[src_obm_1999_n3_f3__q06.png]]
+![[src_obm_1999_n3_f3__Q06.png]]
 
-**Topic:** [[topic_geometria_piana|Geometria piana]]
+
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometria]]
 **Metodo:** [[method_estremalita|Estremalità]], [[method_trigonometria|Trigonometria]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
-
-[[Quesiti/src_obm_1999_n3_f3#q06|src_obm_1999_n3_f3__Q06]]

@@ -47,8 +47,6 @@ level: Finale Internazionale Campionati Internazionali di Giochi Matematici (Par
 **Abilita:** [[skill_conteggio_sistematico|Systematic counting]], [[skill_lettura_attenta|Careful reading of the text]]
 **Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
-[[Quesiti/src_bocconi_finaleint_2007_g2#q01|src_bocconi_finaleint_2007_g2__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_aritmetica,method_casework,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
@@ -84,11 +82,9 @@ level: Finale Internazionale Campionati Internazionali di Giochi Matematici (Par
 **Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_lettura_attenta|Careful reading of the text]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
-[[Quesiti/src_bocconi_finaleint_2007_g2#q02|src_bocconi_finaleint_2007_g2__Q02]]
 
 
-
-<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_aritmetica,method_conteggio,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
+<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_aritmetica,method_conteggio,skill_manipolazione_algebrica,skill_lettura_attenta,skill_modellizzazione"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -101,7 +97,7 @@ level: Finale Internazionale Campionati Internazionali di Giochi Matematici (Par
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_conteggio|Conteggio]]
-**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Ql9xQ-e5xytGlZTTveTqhm66M4i7szXQ/view)
 
@@ -115,16 +111,15 @@ level: Finale Internazionale Campionati Internazionali di Giochi Matematici (Par
 >
 > **How many buttons are missing from the order?**
 
+
 **Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
 **Metodo:** [[method_conteggio|Combinatorial counting]]
-**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_lettura_attenta|Careful reading of the text]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_lettura_attenta|Careful reading of the text]], [[skill_modellizzazione|Modelling / translating the text]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
-[[Quesiti/src_bocconi_finaleint_2007_g2#q03|src_bocconi_finaleint_2007_g2__Q03]]
 
 
-
-<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_aritmetica,topic_combinatoria,method_casework,method_conteggio,skill_conteggio_sistematico,skill_lettura_attenta"></span>
+<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_aritmetica,topic_combinatoria,method_casework,method_conteggio,skill_conteggio_sistematico,skill_lettura_attenta,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -138,7 +133,7 @@ level: Finale Internazionale Campionati Internazionali di Giochi Matematici (Par
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]]
-**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 2
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Ql9xQ-e5xytGlZTTveTqhm66M4i7szXQ/view)
@@ -154,16 +149,15 @@ level: Finale Internazionale Campionati Internazionali di Giochi Matematici (Par
 > Using one or more of these four stamps, **for how many of the following values is Timothée able to obtain exactly that value?**
 > $$0{,}40\,€\;;\;0{,}50\,€\;;\;0{,}80\,€\;;\;0{,}90\,€\;;\;1{,}00\,€\;;\;1{,}10\,€\;;\;1{,}20\,€\;;\;1{,}30\,€\;;\;1{,}40\,€\;;\;1{,}50\,€\;;\;1{,}60\,€$$
 
+
 **Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_combinatoria|Combinatorics]]
 **Metodo:** [[method_casework|Case analysis]], [[method_conteggio|Combinatorial counting]]
-**Abilita:** [[skill_conteggio_sistematico|Systematic counting]], [[skill_lettura_attenta|Careful reading of the text]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]], [[skill_lettura_attenta|Careful reading of the text]], [[skill_casework_accurato|Careful case analysis]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
-[[Quesiti/src_bocconi_finaleint_2007_g2#q04|src_bocconi_finaleint_2007_g2__Q04]]
 
 
-
-<span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_geometria_solida,method_conteggio,skill_ragionamento_geometrico,skill_modellizzazione"></span>
+<span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_geometria_solida,method_conteggio,skill_ragionamento_geometrico,skill_modellizzazione,skill_conteggio_sistematico"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -174,11 +168,11 @@ level: Finale Internazionale Campionati Internazionali di Giochi Matematici (Par
 > 
 > **Quanti chili di vernice ci vogliono per dipingere interamente il secondo solido?**
 
-![[src_bocconi_finaleint_2007_g2__q05.png]]
+![[src_bocconi_finaleint_2007_g2__Q05.png]]
 
 **Topic:** [[topic_geometria_solida|Geometria solida]]
 **Metodo:** [[method_conteggio|Conteggio]]
-**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]], [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Geometria]]
 **Risposta:** 4 kg
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Ql9xQ-e5xytGlZTTveTqhm66M4i7szXQ/view)
@@ -193,14 +187,13 @@ level: Finale Internazionale Campionati Internazionali di Giochi Matematici (Par
 >
 > **How many kilograms of paint are needed to paint the second solid entirely?**
 
-![[src_bocconi_finaleint_2007_g2__q05.png]]
+![[src_bocconi_finaleint_2007_g2__Q05.png]]
+
 
 **Topic:** [[topic_geometria_solida|Solid geometry]]
 **Metodo:** [[method_conteggio|Combinatorial counting]]
-**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_modellizzazione|Modelling / translating the text]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_modellizzazione|Modelling / translating the text]], [[skill_conteggio_sistematico|Systematic counting]]
 **Area:** [[Geometria|Geometry]]
-
-[[Quesiti/src_bocconi_finaleint_2007_g2#q05|src_bocconi_finaleint_2007_g2__Q05]]
 
 
 
@@ -237,8 +230,6 @@ level: Finale Internazionale Campionati Internazionali di Giochi Matematici (Par
 **Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_lettura_attenta|Careful reading of the text]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
-[[Quesiti/src_bocconi_finaleint_2007_g2#q06|src_bocconi_finaleint_2007_g2__Q06]]
-
 
 
 <span class="atom-split" id="q07" data-atom="q07" data-title="Quesito 7" data-tags="topic_logica,topic_aritmetica,method_casework,skill_ragionamento_geometrico,skill_casework_accurato,skill_lettura_attenta"></span>
@@ -254,7 +245,7 @@ level: Finale Internazionale Campionati Internazionali di Giochi Matematici (Par
 > 
 > I numeri $1$, $2$ e $10$ sono già piazzati. **A voi di piazzare gli altri.**
 
-![[src_bocconi_finaleint_2007_g2__q07.png]]
+![[src_bocconi_finaleint_2007_g2__Q07.png]]
 
 **Topic:** [[topic_logica|Logica]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_casework|Casework]]
@@ -275,14 +266,12 @@ level: Finale Internazionale Campionati Internazionali di Giochi Matematici (Par
 >
 > The numbers $1$, $2$, and $10$ are already placed. **It's up to you to place the others.**
 
-![[src_bocconi_finaleint_2007_g2__q07.png]]
+![[src_bocconi_finaleint_2007_g2__Q07.png]]
 
 **Topic:** [[topic_logica|Logic, games, strategies]], [[topic_aritmetica|Arithmetic / Number theory]]
 **Metodo:** [[method_casework|Case analysis]]
 **Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_casework_accurato|Careful case analysis]], [[skill_lettura_attenta|Careful reading of the text]]
 **Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
-
-[[Quesiti/src_bocconi_finaleint_2007_g2#q07|src_bocconi_finaleint_2007_g2__Q07]]
 
 
 
@@ -325,11 +314,9 @@ level: Finale Internazionale Campionati Internazionali di Giochi Matematici (Par
 **Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]], [[skill_astrazione|Abstraction / generalisation]]
 **Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
-[[Quesiti/src_bocconi_finaleint_2007_g2#q08|src_bocconi_finaleint_2007_g2__Q08]]
 
 
-
-<span class="atom-split" id="q09" data-atom="q09" data-title="Quesito 9" data-tags="topic_combinatoria,topic_aritmetica,method_conteggio,method_casework,skill_conteggio_sistematico,skill_riconoscimento_pattern"></span>
+<span class="atom-split" id="q09" data-atom="q09" data-title="Quesito 9" data-tags="topic_combinatoria,topic_aritmetica,method_conteggio,method_casework,skill_conteggio_sistematico,skill_riconoscimento_pattern,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -340,11 +327,11 @@ level: Finale Internazionale Campionati Internazionali di Giochi Matematici (Par
 > 
 > Fino a $2007$ incluso, **quanti nombrabars esistono il cui numero totale di barrette è uguale a $20$?**
 
-![[src_bocconi_finaleint_2007_g2__q09.png]]
+![[src_bocconi_finaleint_2007_g2__Q09.png]]
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_conteggio|Conteggio]], [[method_casework|Casework]]
-**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 93
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Ql9xQ-e5xytGlZTTveTqhm66M4i7szXQ/view)
@@ -359,18 +346,17 @@ level: Finale Internazionale Campionati Internazionali di Giochi Matematici (Par
 >
 > Up to and including $2007$, **how many nombrabars are there whose total number of bars is equal to $20$?**
 
-![[src_bocconi_finaleint_2007_g2__q09.png]]
+![[src_bocconi_finaleint_2007_g2__Q09.png]]
+
 
 **Topic:** [[topic_combinatoria|Combinatorics]], [[topic_aritmetica|Arithmetic / Number theory]]
 **Metodo:** [[method_conteggio|Combinatorial counting]], [[method_casework|Case analysis]]
-**Abilita:** [[skill_conteggio_sistematico|Systematic counting]], [[skill_riconoscimento_pattern|Pattern recognition]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]], [[skill_riconoscimento_pattern|Pattern recognition]], [[skill_casework_accurato|Careful case analysis]]
 **Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
-[[Quesiti/src_bocconi_finaleint_2007_g2#q09|src_bocconi_finaleint_2007_g2__Q09]]
 
 
-
-<span class="atom-split" id="q10" data-atom="q10" data-title="Quesito 10" data-tags="topic_aritmetica,method_casework,method_congruenze,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
+<span class="atom-split" id="q10" data-atom="q10" data-title="Quesito 10" data-tags="topic_aritmetica,method_casework,method_congruenze,skill_manipolazione_algebrica,skill_lettura_attenta,skill_modellizzazione"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -383,7 +369,7 @@ level: Finale Internazionale Campionati Internazionali di Giochi Matematici (Par
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_casework|Casework]], [[method_congruenze|Congruenze]]
-**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 1,03 €
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Ql9xQ-e5xytGlZTTveTqhm66M4i7szXQ/view)
@@ -398,16 +384,15 @@ level: Finale Internazionale Campionati Internazionali di Giochi Matematici (Par
 >
 > **What was this amount, expressed in euros and cents?**
 
+
 **Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
 **Metodo:** [[method_casework|Case analysis]], [[method_congruenze|Modular arithmetic / congruences]]
-**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_lettura_attenta|Careful reading of the text]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_lettura_attenta|Careful reading of the text]], [[skill_modellizzazione|Modelling / translating the text]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
-[[Quesiti/src_bocconi_finaleint_2007_g2#q10|src_bocconi_finaleint_2007_g2__Q10]]
 
 
-
-<span class="atom-split" id="q11" data-atom="q11" data-title="Quesito 11" data-tags="topic_aritmetica,method_casework,method_fattorizzazione,skill_manipolazione_algebrica,skill_casework_accurato"></span>
+<span class="atom-split" id="q11" data-atom="q11" data-title="Quesito 11" data-tags="topic_aritmetica,method_casework,method_fattorizzazione,method_congruenze,skill_manipolazione_algebrica,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -419,7 +404,7 @@ level: Finale Internazionale Campionati Internazionali di Giochi Matematici (Par
 > **Qual è il più grande di questi due numeri?**
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_casework|Casework]], [[method_fattorizzazione|Fattorizzazione]]
+**Metodo:** [[method_casework|Casework]], [[method_fattorizzazione|Fattorizzazione]], [[method_congruenze|Aritmetica modulare / congruenze]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 534 ; 546 ; 654
@@ -435,16 +420,15 @@ level: Finale Internazionale Campionati Internazionali di Giochi Matematici (Par
 >
 > **Which of these two numbers is the larger one?**
 
+
 **Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
-**Metodo:** [[method_casework|Case analysis]], [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Metodo:** [[method_casework|Case analysis]], [[method_fattorizzazione|Factorisation / algebraic manipulation]], [[method_congruenze|Modular arithmetic / congruences]]
 **Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_casework_accurato|Careful case analysis]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
-[[Quesiti/src_bocconi_finaleint_2007_g2#q11|src_bocconi_finaleint_2007_g2__Q11]]
 
 
-
-<span class="atom-split" id="q12" data-atom="q12" data-title="Quesito 12" data-tags="topic_combinatoria,topic_logica,method_cassetti,method_estremalita,skill_conteggio_sistematico,skill_casework_accurato"></span>
+<span class="atom-split" id="q12" data-atom="q12" data-title="Quesito 12" data-tags="topic_combinatoria,topic_logica,method_cassetti,method_estremalita,skill_conteggio_sistematico,skill_casework_accurato,skill_lettura_attenta"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -457,7 +441,7 @@ level: Finale Internazionale Campionati Internazionali di Giochi Matematici (Par
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_logica|Logica]]
 **Metodo:** [[method_cassetti|Principio dei cassetti]], [[method_estremalita|Estremalità]]
-**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]], [[skill_lettura_attenta|Lettura attenta del testo]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 67
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Ql9xQ-e5xytGlZTTveTqhm66M4i7szXQ/view)
@@ -472,16 +456,15 @@ level: Finale Internazionale Campionati Internazionali di Giochi Matematici (Par
 >
 > **How many marbles must Bill randomly draw, at minimum, to be certain of having marbles of at least $3$ different colors?**
 
+
 **Topic:** [[topic_combinatoria|Combinatorics]], [[topic_logica|Logic, games, strategies]]
 **Metodo:** [[method_cassetti|Pigeonhole principle]], [[method_estremalita|Extremal principle]]
-**Abilita:** [[skill_conteggio_sistematico|Systematic counting]], [[skill_casework_accurato|Careful case analysis]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]], [[skill_casework_accurato|Careful case analysis]], [[skill_lettura_attenta|Careful reading of the text]]
 **Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
-[[Quesiti/src_bocconi_finaleint_2007_g2#q12|src_bocconi_finaleint_2007_g2__Q12]]
 
 
-
-<span class="atom-split" id="q13" data-atom="q13" data-title="Quesito 13" data-tags="topic_combinatoria,topic_geometria_solida,topic_logica,method_casework,method_colorazione,skill_casework_accurato,skill_ragionamento_geometrico"></span>
+<span class="atom-split" id="q13" data-atom="q13" data-title="Quesito 13" data-tags="topic_combinatoria,topic_geometria_solida,topic_logica,method_casework,method_colorazione,skill_casework_accurato,skill_ragionamento_geometrico,skill_lettura_attenta"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -494,11 +477,11 @@ level: Finale Internazionale Campionati Internazionali di Giochi Matematici (Par
 > 
 > **Completate il patron del cubo.** Nota: sul disegno, i colori sono rappresentati dalle cifre da $1$ a $4$. Due patron differenti di uno stesso cubo saranno considerati come una sola e medesima soluzione.
 
-![[src_bocconi_finaleint_2007_g2__q13.png]]
+![[src_bocconi_finaleint_2007_g2__Q13.png]]
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_geometria_solida|Geometria solida]], [[topic_logica|Logica]]
 **Metodo:** [[method_casework|Casework]], [[method_colorazione|Colorazione]]
-**Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta del testo]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 **Risposta:** 2 soluzioni
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Ql9xQ-e5xytGlZTTveTqhm66M4i7szXQ/view)
@@ -515,14 +498,13 @@ level: Finale Internazionale Campionati Internazionali di Giochi Matematici (Par
 >
 > **Complete the cube pattern.** Note: in the drawing, the colors are represented by the digits from $1$ to $4$. Two different patterns of the same cube will be regarded as a single, identical solution.
 
-![[src_bocconi_finaleint_2007_g2__q13.png]]
+![[src_bocconi_finaleint_2007_g2__Q13.png]]
+
 
 **Topic:** [[topic_combinatoria|Combinatorics]], [[topic_geometria_solida|Solid geometry]], [[topic_logica|Logic, games, strategies]]
 **Metodo:** [[method_casework|Case analysis]], [[method_colorazione|Colouring / parity]]
-**Abilita:** [[skill_casework_accurato|Careful case analysis]], [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]], [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_lettura_attenta|Careful reading of the text]]
 **Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Geometria|Geometry]]
-
-[[Quesiti/src_bocconi_finaleint_2007_g2#q13|src_bocconi_finaleint_2007_g2__Q13]]
 
 
 
@@ -535,7 +517,7 @@ level: Finale Internazionale Campionati Internazionali di Giochi Matematici (Par
 
 > I due cerchi hanno lo stesso raggio. Nel cerchio di sinistra, ogni casella misura ... Quelle è l'area del grande quadrato grigio nel cerchio di destra?
 
-![[src_bocconi_finaleint_2007_g2__q14.png]]
+![[src_bocconi_finaleint_2007_g2__Q14.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_coordinate|Coordinate]]
@@ -552,18 +534,16 @@ level: Finale Internazionale Campionati Internazionali di Giochi Matematici (Par
 
 > The two circles have the same radius. In the left circle, each cell measures ... What is the area of the large gray square in the right circle?
 
-![[src_bocconi_finaleint_2007_g2__q14.png]]
+![[src_bocconi_finaleint_2007_g2__Q14.png]]
 
 **Topic:** [[topic_geometria_piana|Plane geometry]]
 **Metodo:** [[method_coordinate|Coordinate method]]
 **Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
 **Area:** [[Geometria|Geometry]]
 
-[[Quesiti/src_bocconi_finaleint_2007_g2#q14|src_bocconi_finaleint_2007_g2__Q14]]
 
 
-
-<span class="atom-split" id="q15" data-atom="q15" data-title="Quesito 15" data-tags="topic_geometria_piana,topic_aritmetica,method_casework,method_fattorizzazione,skill_ragionamento_geometrico,skill_casework_accurato"></span>
+<span class="atom-split" id="q15" data-atom="q15" data-title="Quesito 15" data-tags="topic_geometria_piana,topic_aritmetica,method_casework,method_fattorizzazione,skill_ragionamento_geometrico,skill_casework_accurato,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -574,11 +554,11 @@ level: Finale Internazionale Campionati Internazionali di Giochi Matematici (Par
 > 
 > **Qual è la somma delle ipotenuse dei due triangoli rettangoli, espressa in metri?**
 
-![[src_bocconi_finaleint_2007_g2__q15.png]]
+![[src_bocconi_finaleint_2007_g2__Q15.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_casework|Casework]], [[method_fattorizzazione|Fattorizzazione]]
-**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_casework_accurato|Casework accurato]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_casework_accurato|Casework accurato]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 350 m
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Ql9xQ-e5xytGlZTTveTqhm66M4i7szXQ/view)
@@ -593,14 +573,13 @@ level: Finale Internazionale Campionati Internazionali di Giochi Matematici (Par
 >
 > **What is the sum of the hypotenuses of the two right-angled triangles, expressed in meters?**
 
-![[src_bocconi_finaleint_2007_g2__q15.png]]
+![[src_bocconi_finaleint_2007_g2__Q15.png]]
+
 
 **Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_aritmetica|Arithmetic / Number theory]]
 **Metodo:** [[method_casework|Case analysis]], [[method_fattorizzazione|Factorisation / algebraic manipulation]]
-**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_casework_accurato|Careful case analysis]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_casework_accurato|Careful case analysis]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
 **Area:** [[Geometria|Geometry]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
-
-[[Quesiti/src_bocconi_finaleint_2007_g2#q15|src_bocconi_finaleint_2007_g2__Q15]]
 
 
 
@@ -637,8 +616,6 @@ level: Finale Internazionale Campionati Internazionali di Giochi Matematici (Par
 **Abilita:** [[skill_casework_accurato|Careful case analysis]], [[skill_astrazione|Abstraction / generalisation]]
 **Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
-[[Quesiti/src_bocconi_finaleint_2007_g2#q16|src_bocconi_finaleint_2007_g2__Q16]]
-
 
 
 <span class="atom-split" id="q17" data-atom="q17" data-title="Quesito 17" data-tags="topic_geometria_solida,topic_geometria_piana,method_coordinate,method_estremalita,skill_ragionamento_geometrico,skill_stima"></span>
@@ -670,11 +647,9 @@ level: Finale Internazionale Campionati Internazionali di Giochi Matematici (Par
 **Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_stima|Estimation and approximation]]
 **Area:** [[Geometria|Geometry]]
 
-[[Quesiti/src_bocconi_finaleint_2007_g2#q17|src_bocconi_finaleint_2007_g2__Q17]]
 
 
-
-<span class="atom-split" id="q18" data-atom="q18" data-title="Quesito 18" data-tags="topic_combinatoria,topic_geometria_piana,method_casework,method_conteggio,skill_conteggio_sistematico,skill_casework_accurato"></span>
+<span class="atom-split" id="q18" data-atom="q18" data-title="Quesito 18" data-tags="topic_combinatoria,topic_geometria_piana,topic_aritmetica,method_casework,method_conteggio,method_doppio_conteggio,skill_conteggio_sistematico,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -685,10 +660,10 @@ level: Finale Internazionale Campionati Internazionali di Giochi Matematici (Par
 > 
 > **In un albero, quante cavallette ci sono, al massimo?**
 
-**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_geometria_piana|Geometria piana]]
-**Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]]
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_geometria_piana|Geometria piana]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]], [[method_doppio_conteggio|Doppio conteggio]]
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]]
-**Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 188
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Ql9xQ-e5xytGlZTTveTqhm66M4i7szXQ/view)
 
@@ -702,9 +677,8 @@ level: Finale Internazionale Campionati Internazionali di Giochi Matematici (Par
 >
 > **In one tree, what is the maximum number of locusts there can be?**
 
-**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_geometria_piana|Plane geometry]]
-**Metodo:** [[method_casework|Case analysis]], [[method_conteggio|Combinatorial counting]]
-**Abilita:** [[skill_conteggio_sistematico|Systematic counting]], [[skill_casework_accurato|Careful case analysis]]
-**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Geometria|Geometry]]
 
-[[Quesiti/src_bocconi_finaleint_2007_g2#q18|src_bocconi_finaleint_2007_g2__Q18]]
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_geometria_piana|Plane geometry]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_casework|Case analysis]], [[method_conteggio|Combinatorial counting]], [[method_doppio_conteggio|Double counting]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]], [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Geometria|Geometry]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]

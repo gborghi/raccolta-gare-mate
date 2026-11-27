@@ -19,7 +19,7 @@ level: JMO Yosen
 
 > Circle $C_1$ contains circle $C_2$ internally, with the two circles internally tangent. Let $O$ be the centre of $C_2$. Let $A$ be the point of internal tangency of $C_1$ and $C_2$. Let $P$ be a point on $C_1$. The ray from $O$ through $P$ meets $C_2$ at point $Q$ (so $Q$ lies between $O$ and $P$). The tangent to $C_1$ at $A$ meets the line $OP$ extended beyond $P$ at point $R$. Given that $PQ = QR$ and that the radius of $C_2$ is $9$, find the length of segment $PQ$. (Here $\overline{XY}$ denotes the length of segment $XY$.)
 
-![[src_jmo24yq_yosen__q01.png]]
+![[src_jmo24yq_yosen__Q01.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_coordinate|Coordinate]]
@@ -36,13 +36,13 @@ level: JMO Yosen
 
 > La circonferenza $C_1$ contiene internamente la circonferenza $C_2$, e le due circonferenze sono tangenti internamente. Sia $O$ il centro di $C_2$. Sia $A$ il punto di tangenza interna di $C_1$ e $C_2$. Sia $P$ un punto di $C_1$. Il raggio uscente da $O$ e passante per $P$ incontra $C_2$ nel punto $Q$ (così $Q$ sta fra $O$ e $P$). La tangente a $C_1$ in $A$ incontra la retta $OP$ prolungata oltre $P$ nel punto $R$. Sapendo che $PQ = QR$ e che il raggio di $C_2$ è $9$, trovare la lunghezza del segmento $PQ$. (Qui $\overline{XY}$ indica la lunghezza del segmento $XY$.)
 
-![[src_jmo24yq_yosen__q01.png]]
+![[src_jmo24yq_yosen__Q01.png]]
 
 **Argomento:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_coordinate|Metodo delle coordinate]]
 **Abilità:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
 **Risposta:** 3
-[[Quesiti/src_jmo24yq_yosen#q01|src_jmo24yq_yosen__Q01]]
 
 
 
@@ -81,12 +81,12 @@ level: JMO Yosen
 **Argomento:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_casework|Analisi per casi]], [[method_conteggio|Conteggio combinatorio]]
 **Abilità:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Analisi per casi accurata]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 576
-[[Quesiti/src_jmo24yq_yosen#q02|src_jmo24yq_yosen__Q02]]
 
 
 
-<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_algebra,topic_aritmetica,method_simmetria,method_telescoping,skill_manipolazione_algebrica,skill_riconoscimento_pattern"></span>
+<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_algebra,topic_aritmetica,method_simmetria,method_telescoping,method_fattorizzazione,skill_manipolazione_algebrica,skill_riconoscimento_pattern"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -98,9 +98,9 @@ level: JMO Yosen
 > where the sum runs over all positive divisors $d$ of $10$.
 
 **Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_simmetria|Simmetria]], [[method_telescoping|Telescoping]]
+**Metodo:** [[method_simmetria|Simmetria]], [[method_telescoping|Telescoping]], [[method_fattorizzazione|Factorisation / algebraic manipulation]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
-**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Risposta:** $\dfrac{3}{16\sqrt{7}}$
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1x7Lo8dauLtt2Jv9o-QDvyYqVs__MTED1/view)
 
@@ -117,10 +117,12 @@ level: JMO Yosen
 > dove la somma è estesa a tutti i divisori positivi $d$ di $10$.
 
 **Argomento:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei numeri]]
-**Metodo:** [[method_simmetria|Sfruttamento della simmetria]], [[method_telescoping|Somme telescopiche]]
-**Abilità:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di schemi]]
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei numeri]]
+**Metodo:** [[method_simmetria|Sfruttamento della simmetria]], [[method_telescoping|Somme telescopiche]], [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di schemi]]
+**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** $\dfrac{3}{16\sqrt{7}}$
-[[Quesiti/src_jmo24yq_yosen#q03|src_jmo24yq_yosen__Q03]]
 
 
 
@@ -151,8 +153,8 @@ level: JMO Yosen
 **Argomento:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_coordinate|Metodo delle coordinate]]
 **Abilità:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
 **Risposta:** $\dfrac{15}{8}$
-[[Quesiti/src_jmo24yq_yosen#q04|src_jmo24yq_yosen__Q04]]
 
 
 
@@ -189,12 +191,12 @@ level: JMO Yosen
 **Argomento:** [[topic_combinatoria|Combinatoria]], [[topic_algebra|Algebra]]
 **Metodo:** [[method_doppio_conteggio|Doppio conteggio]], [[method_conteggio|Conteggio combinatorio]]
 **Abilità:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di schemi]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Algebra e Analisi]]
 **Risposta:** 2349060
-[[Quesiti/src_jmo24yq_yosen#q05|src_jmo24yq_yosen__Q05]]
 
 
 
-<span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_combinatoria,method_estremalita,method_casework,skill_modellizzazione,skill_conteggio_sistematico"></span>
+<span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_combinatoria,method_estremalita,method_casework,method_grafi,skill_modellizzazione,skill_conteggio_sistematico,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -204,9 +206,9 @@ level: JMO Yosen
 > Blackboard $A$ and blackboard $B$ each contain some distinct integers chosen from $\{2, 3, \ldots, 20\}$. It is given that no matter how one attempts to pair each integer on board $A$ with a distinct integer on board $B$ such that the two paired integers differ by at most $1$, this pairing is always possible (i.e.\ a perfect matching always exists under the difference-at-most-$1$ constraint). Under this condition, find the maximum possible value of the product $|A| \times |B|$, where $|A|$ and $|B|$ denote the number of integers on boards $A$ and $B$ respectively.
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
-**Metodo:** [[method_estremalita|Estremalità]], [[method_casework|Casework]]
-**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_conteggio_sistematico|Conteggio sistematico]]
-**Area:** [[Combinatoria, Logica e Probabilita]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_casework|Casework]], [[method_grafi|Graph theory]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Risposta:** 65
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1x7Lo8dauLtt2Jv9o-QDvyYqVs__MTED1/view)
 
@@ -219,10 +221,12 @@ level: JMO Yosen
 > La lavagna $A$ e la lavagna $B$ contengono ciascuna alcuni interi distinti scelti da $\{2, 3, \ldots, 20\}$. È dato che, comunque si tenti di accoppiare ogni intero della lavagna $A$ con un intero distinto della lavagna $B$ in modo che i due interi accoppiati differiscano al più di $1$, questo accoppiamento è sempre possibile (cioè esiste sempre un accoppiamento perfetto sotto il vincolo di differenza al più $1$). Sotto questa condizione, trovare il massimo valore possibile del prodotto $|A| \times |B|$, dove $|A|$ e $|B|$ indicano il numero di interi sulle lavagne $A$ e $B$ rispettivamente.
 
 **Argomento:** [[topic_combinatoria|Combinatoria]]
-**Metodo:** [[method_estremalita|Principio di estremalità]], [[method_casework|Analisi per casi]]
-**Abilità:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_estremalita|Principio di estremalità]], [[method_casework|Analisi per casi]], [[method_grafi|Teoria dei grafi]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 65
-[[Quesiti/src_jmo24yq_yosen#q06|src_jmo24yq_yosen__Q06]]
 
 
 
@@ -253,12 +257,12 @@ level: JMO Yosen
 **Argomento:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_casework|Analisi per casi]], [[method_conteggio|Conteggio combinatorio]]
 **Abilità:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Analisi per casi accurata]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 936
-[[Quesiti/src_jmo24yq_yosen#q07|src_jmo24yq_yosen__Q07]]
 
 
 
-<span class="atom-split" id="q08" data-atom="q08" data-title="Quesito 8" data-tags="topic_aritmetica,topic_combinatoria,method_casework,method_conteggio,skill_conteggio_sistematico,skill_lettura_attenta,skill_manipolazione_algebrica"></span>
+<span class="atom-split" id="q08" data-atom="q08" data-title="Quesito 8" data-tags="topic_aritmetica,topic_combinatoria,method_casework,method_conteggio,skill_conteggio_sistematico,skill_lettura_attenta,skill_manipolazione_algebrica,skill_riconoscimento_pattern"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -269,8 +273,8 @@ level: JMO Yosen
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]]
-**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
-**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Risposta:** 939
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1x7Lo8dauLtt2Jv9o-QDvyYqVs__MTED1/view)
 
@@ -283,10 +287,12 @@ level: JMO Yosen
 > Per interi positivi $m$ e $n$, sia $\left\lfloor \dfrac{m}{n} \right\rfloor$ la parte intera di $\dfrac{m}{n}$. Per un intero positivo fissato $n \le 1000$, sia $f(n)$ il numero di interi positivi $m \le 1000$ per i quali $\left\lfloor \dfrac{m}{n} \right\rfloor$ è dispari. Trovare il massimo valore di $f(n)$ su tutti gli interi positivi $n \le 1000$.
 
 **Argomento:** [[topic_aritmetica|Aritmetica / Teoria dei numeri]], [[topic_combinatoria|Combinatoria]]
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei numeri]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_casework|Analisi per casi]], [[method_conteggio|Conteggio combinatorio]]
-**Abilità:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta del testo]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta del testo]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 939
-[[Quesiti/src_jmo24yq_yosen#q08|src_jmo24yq_yosen__Q08]]
 
 
 
@@ -317,8 +323,8 @@ level: JMO Yosen
 **Argomento:** [[topic_geometria_piana|Geometria piana]], [[topic_geometria_analitica|Geometria analitica]]
 **Metodo:** [[method_coordinate|Metodo delle coordinate]]
 **Abilità:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
 **Risposta:** $\dfrac{60}{23}$
-[[Quesiti/src_jmo24yq_yosen#q09|src_jmo24yq_yosen__Q09]]
 
 
 
@@ -359,12 +365,12 @@ level: JMO Yosen
 **Argomento:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_invarianti|Invarianti / monovarianti]], [[method_estremalita|Principio di estremalità]]
 **Abilità:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 784
-[[Quesiti/src_jmo24yq_yosen#q10|src_jmo24yq_yosen__Q10]]
 
 
 
-<span class="atom-split" id="q11" data-atom="q11" data-title="Quesito 11" data-tags="topic_combinatoria,topic_algebra,method_casework,method_conteggio,skill_conteggio_sistematico,skill_astrazione,skill_lettura_attenta"></span>
+<span class="atom-split" id="q11" data-atom="q11" data-title="Quesito 11" data-tags="topic_combinatoria,topic_algebra,topic_funzionali,topic_insiemi_funzioni,method_casework,method_conteggio,skill_conteggio_sistematico,skill_astrazione,skill_lettura_attenta"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -377,10 +383,10 @@ level: JMO Yosen
 > \item For every $i, k$ with $1 \le i, k \le 6$: $f_{f_i(k)}(j) = f_i(f_k(j))$ for all $j$ with $1 \le j \le 6$.
 > \end{itemize}
 
-**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_algebra|Algebra]]
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_algebra|Algebra]], [[topic_funzionali|Functional equations / sequences]], [[topic_insiemi_funzioni|Sets and functions]]
 **Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]]
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_astrazione|Astrazione]], [[skill_lettura_attenta|Lettura attenta]]
-**Area:** [[Combinatoria, Logica e Probabilita]], [[Algebra e Analisi]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Algebra e Analisi|Algebra and analysis]]
 **Risposta:** 122
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1x7Lo8dauLtt2Jv9o-QDvyYqVs__MTED1/view)
 
@@ -397,10 +403,12 @@ level: JMO Yosen
 > \end{itemize}
 
 **Argomento:** [[topic_combinatoria|Combinatoria]], [[topic_algebra|Algebra]]
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_algebra|Algebra]], [[topic_funzionali|Equazioni funzionali / successioni]], [[topic_insiemi_funzioni|Insiemi e funzioni]]
 **Metodo:** [[method_casework|Analisi per casi]], [[method_conteggio|Conteggio combinatorio]]
-**Abilità:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_astrazione|Astrazione / generalizzazione]], [[skill_lettura_attenta|Lettura attenta del testo]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_astrazione|Astrazione / generalizzazione]], [[skill_lettura_attenta|Lettura attenta del testo]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Algebra e Analisi]]
 **Risposta:** 122
-[[Quesiti/src_jmo24yq_yosen#q11|src_jmo24yq_yosen__Q11]]
 
 
 
@@ -434,5 +442,5 @@ level: JMO Yosen
 **Argomento:** [[topic_disuguaglianze|Disuguaglianze]], [[topic_algebra|Algebra]]
 **Metodo:** [[method_estremalita|Principio di estremalità]], [[method_disuguaglianze|Disuguaglianze classiche]]
 **Abilità:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione / generalizzazione]], [[skill_stima|Stima e approssimazione]]
+**Area:** [[Algebra e Analisi]]
 **Risposta:** 496503
-[[Quesiti/src_jmo24yq_yosen#q12|src_jmo24yq_yosen__Q12]]

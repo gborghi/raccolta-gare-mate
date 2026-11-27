@@ -43,8 +43,6 @@ level: OBM Nível 1
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 
-[[Quesiti/src_obm_2007_n1_f2#q01|src_obm_2007_n1_f2__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_geometria_piana,method_simmetria,skill_ragionamento_geometrico,skill_lettura_attenta"></span>
@@ -56,7 +54,7 @@ level: OBM Nível 1
 
 > A square sheet of paper, of area $300\text{ cm}^2$, is folded along a first fold and then along a second fold, as shown in the figures (left: before the first fold; right: after the folds). One can verify that $CE=EA$ and $CF=FA$, and by a property of the fold the segment $FE$ is perpendicular to the segment $AC$; these segments cross at their midpoints, so the triangles $EBC$ and $AECF$-parts are congruent and the quadrilateral $AECF$ is composed of congruent triangles. Determine the area, in $\text{cm}^2$, of the resulting convex pentagon $BEFE'B'$ (the requested value equals $\dfrac{15\times 20}{2}=150\text{ cm}^2$).
 
-![[src_obm_2007_n1_f2__q02.png]]
+![[src_obm_2007_n1_f2__Q02.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_simmetria|Simmetria]]
@@ -75,7 +73,7 @@ level: OBM Nível 1
 
 > Un foglio di carta quadrato, di area $300\text{ cm}^2$, viene piegato lungo una prima piega e poi lungo una seconda piega, come mostrato nelle figure (a sinistra: prima della prima piega; a destra: dopo le pieghe). Si può verificare che $CE=EA$ e $CF=FA$, e, per una proprietà della piega, il segmento $FE$ è perpendicolare al segmento $AC$; questi segmenti si intersecano nei rispettivi punti medi, quindi i triangoli $EBC$ e le parti $AECF$ sono congruenti e il quadrilatero $AECF$ è composto da triangoli congruenti. Determinare l'area, in $\text{cm}^2$, del pentagono convesso risultante $BEFE'B'$ (il valore richiesto è uguale a $\dfrac{15\times 20}{2}=150\text{ cm}^2$).
 
-![[src_obm_2007_n1_f2__q02.png]]
+![[src_obm_2007_n1_f2__Q02.png]]
 
 > [!warning] Estratto/tradotto: da verificare con la fonte.
 
@@ -83,8 +81,6 @@ level: OBM Nível 1
 **Metodo:** [[method_simmetria|Simmetria]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Geometria]]
-
-[[Quesiti/src_obm_2007_n1_f2#q02|src_obm_2007_n1_f2__Q02]]
 
 
 
@@ -121,8 +117,6 @@ level: OBM Nível 1
 **Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 
-[[Quesiti/src_obm_2007_n1_f2#q03|src_obm_2007_n1_f2__Q03]]
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_geometria_piana,topic_aritmetica,skill_ragionamento_geometrico,skill_lettura_attenta"></span>
@@ -156,8 +150,6 @@ level: OBM Nível 1
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Geometria]], [[Aritmetica e Teoria dei Numeri]]
 
-[[Quesiti/src_obm_2007_n1_f2#q04|src_obm_2007_n1_f2__Q04]]
-
 
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_geometria_solida,topic_aritmetica,skill_modellizzazione,skill_ragionamento_geometrico"></span>
@@ -169,7 +161,7 @@ level: OBM Nível 1
 
 > The volume of each wooden block is $0.2\times 0.3\times 1.60=0.096\text{ m}^3$. The part of each block submerged in the liquid has volume $0.80\times 0.096\text{ m}^3$. The volume of liquid displaced by the $25$ blocks equals $25\times 0.80\times 0.096=1.92\text{ m}^3$. The reservoir is a cube of side $2\text{ m}$, so its base area is $4\text{ m}^2$; hence the rise of the level $h$ satisfies $4h=1.92\iff h=\dfrac{1.92}{4}=0.48\text{ m}=48\text{ cm}$. If the initial liquid level was $100\text{ cm}$, determine the new level of the liquid (it is $148\text{ cm}$).
 
-![[src_obm_2007_n1_f2__q05.png]]
+![[src_obm_2007_n1_f2__Q05.png]]
 
 **Topic:** [[topic_geometria_solida|Geometria solida]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
@@ -187,15 +179,13 @@ level: OBM Nível 1
 
 > Il volume di ciascun blocco di legno è $0.2\times 0.3\times 1.60=0.096\text{ m}^3$. La parte di ciascun blocco immersa nel liquido ha volume $0.80\times 0.096\text{ m}^3$. Il volume di liquido spostato dai $25$ blocchi è uguale a $25\times 0.80\times 0.096=1.92\text{ m}^3$. Il serbatoio è un cubo di lato $2\text{ m}$, quindi la sua area di base è $4\text{ m}^2$; pertanto l'innalzamento del livello $h$ soddisfa $4h=1.92\iff h=\dfrac{1.92}{4}=0.48\text{ m}=48\text{ cm}$. Se il livello iniziale del liquido era $100\text{ cm}$, determina il nuovo livello del liquido (è $148\text{ cm}$).
 
-![[src_obm_2007_n1_f2__q05.png]]
+![[src_obm_2007_n1_f2__Q05.png]]
 
 > [!warning] Estratto/tradotto: da verificare con la fonte.
 
 **Topic:** [[topic_geometria_solida|Geometria solida]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]], [[Aritmetica e Teoria dei Numeri]]
-
-[[Quesiti/src_obm_2007_n1_f2#q05|src_obm_2007_n1_f2__Q05]]
 
 
 
@@ -236,8 +226,6 @@ level: OBM Nível 1
 **Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 
-[[Quesiti/src_obm_2007_n1_f2#q06|src_obm_2007_n1_f2__Q06]]
-
 
 
 <span class="atom-split" id="q07" data-atom="q07" data-title="Quesito 7" data-tags="topic_geometria_piana,method_simmetria,skill_ragionamento_geometrico,skill_astrazione"></span>
@@ -251,7 +239,7 @@ level: OBM Nível 1
 > (a) Show that $\text{area }\triangle ABF=\text{area }\triangle FMC+\text{area }\triangle ABCM$, and, since $\text{area }\triangle FMC=\text{area }\triangle AMD$, conclude that $\text{area }\triangle ABF=\text{area }\triangle AMD+\text{area }\triangle ABCM=\text{area } ABCD=300\text{ cm}^2$.
 > (b) Since $AD=FC$, $CD$ is a common side, and $\hat{C}$ and $\hat{D}$ are right angles, conclude that triangles $FCD$ and $ADC$ are congruent, so $\text{area }\triangle FCD=\dfrac{\text{area } ABCD}{2}$, and show that the area of triangle $ADF$ equals $\dfrac{300}{2}=150\text{ cm}^2$.
 
-![[src_obm_2007_n1_f2__q07.png]]
+![[src_obm_2007_n1_f2__Q07.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_simmetria|Simmetria]]
@@ -271,7 +259,7 @@ level: OBM Nível 1
 > (a) Dimostrare che $\text{area }\triangle ABF=\text{area }\triangle FMC+\text{area }\triangle ABCM$ e, poiché $\text{area }\triangle FMC=\text{area }\triangle AMD$, concludi che $\text{area }\triangle ABF=\text{area }\triangle AMD+\text{area }\triangle ABCM=\text{area } ABCD=300\text{ cm}^2$.
 > (b) Poiché $AD=FC$, $CD$ è un lato comune e $\hat{C}$ e $\hat{D}$ sono angoli retti, si concluda che i triangoli $FCD$ e $ADC$ sono congruenti, quindi $\text{area }\triangle FCD=\dfrac{\text{area } ABCD}{2}$, e si dimostri che l'area del triangolo $ADF$ è uguale a $\dfrac{300}{2}=150\text{ cm}^2$.
 
-![[src_obm_2007_n1_f2__q07.png]]
+![[src_obm_2007_n1_f2__Q07.png]]
 
 > [!warning] Estratto/tradotto: da verificare con la fonte.
 
@@ -279,8 +267,6 @@ level: OBM Nível 1
 **Metodo:** [[method_simmetria|Simmetria]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_astrazione|Astrazione]]
 **Area:** [[Geometria]]
-
-[[Quesiti/src_obm_2007_n1_f2#q07|src_obm_2007_n1_f2__Q07]]
 
 
 
@@ -316,8 +302,6 @@ level: OBM Nível 1
 **Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]]
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
-
-[[Quesiti/src_obm_2007_n1_f2#q08|src_obm_2007_n1_f2__Q08]]
 
 
 
@@ -356,5 +340,3 @@ level: OBM Nível 1
 **Metodo:** [[method_conteggio|Conteggio]], [[method_congruenze|Congruenze]]
 **Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]], [[Combinatoria, Logica e Probabilita]]
-
-[[Quesiti/src_obm_2007_n1_f2#q09|src_obm_2007_n1_f2__Q09]]

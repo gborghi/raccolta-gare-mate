@@ -19,7 +19,7 @@ level: RMO
 
 > Let $ABCD$ be a unit square. Draw a quadrant of a circle with $A$ as centre and $B$, $D$ as end points of the arc. Similarly, draw a quadrant of a circle with $B$ as centre and $A$, $C$ as end points of the arc. Inscribe a circle $\Gamma$ touching the arc $AC$ externally, the arc $BD$ internally and also touching the side $AD$. Find the radius of the circle $\Gamma$.
 
-![[src_rmo_2012_r4__q01.png]]
+![[src_rmo_2012_r4__Q01.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_coordinate|Coordinate]]
@@ -35,14 +35,12 @@ level: RMO
 
 > Sia $ABCD$ un quadrato unitario. Traccia un quadrante di cerchio con centro in $A$ e con $B$, $D$ come estremi dell'arco. Analogamente, traccia un quadrante di cerchio con centro in $B$ e con $A$, $C$ come estremi dell'arco. Inscrivi un cerchio $\Gamma$ che tocchi esternamente l'arco $AC$, internamente l'arco $BD$ e tocchi anche il lato $AD$. Determinare il raggio del cerchio $\Gamma$.
 
-![[src_rmo_2012_r4__q01.png]]
+![[src_rmo_2012_r4__Q01.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_coordinate|Coordinate]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
-
-[[Quesiti/src_rmo_2012_r4#q01|src_rmo_2012_r4__Q01]]
 
 
 
@@ -74,8 +72,6 @@ level: RMO
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 
-[[Quesiti/src_rmo_2012_r4#q02|src_rmo_2012_r4__Q02]]
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_combinatoria,topic_insiemi_funzioni,method_conteggio,method_casework,skill_conteggio_sistematico,skill_lettura_attenta"></span>
@@ -106,8 +102,6 @@ level: RMO
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Algebra e Analisi]]
 
-[[Quesiti/src_rmo_2012_r4#q04|src_rmo_2012_r4__Q04]]
-
 
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_geometria_piana,method_coordinate,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
@@ -119,7 +113,7 @@ level: RMO
 
 > Let $ABC$ be a triangle. Let $E$ be a point on the segment $BC$ such that $BE = 2EC$. Let $F$ be the mid-point of $AC$. Let $BF$ intersect $AE$ in $Q$. Determine $BQ/QF$.
 
-![[src_rmo_2012_r4__q05.png]]
+![[src_rmo_2012_r4__Q05.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_coordinate|Coordinate]]
@@ -135,18 +129,16 @@ level: RMO
 
 > Sia $ABC$ un triangolo. Sia $E$ un punto sul segmento $BC$ tale che $BE = 2EC$. Sia $F$ il punto medio di $AC$. Sia $BF$ a intersecare $AE$ in $Q$. Determinare $BQ/QF$.
 
-![[src_rmo_2012_r4__q05.png]]
+![[src_rmo_2012_r4__Q05.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_coordinate|Coordinate]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 
-[[Quesiti/src_rmo_2012_r4#q05|src_rmo_2012_r4__Q05]]
 
 
-
-<span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_algebra,method_simmetria,method_casework,skill_manipolazione_algebrica,skill_casework_accurato"></span>
+<span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_algebra,method_simmetria,method_casework,method_fattorizzazione,skill_manipolazione_algebrica,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -157,9 +149,9 @@ level: RMO
 > $$\frac{1}{xy} = \frac{x}{z} + 1, \quad \frac{1}{yz} = \frac{y}{x} + 1, \quad \frac{1}{zx} = \frac{z}{y} + 1.$$
 
 **Topic:** [[topic_algebra|Algebra]]
-**Metodo:** [[method_simmetria|Simmetria]], [[method_casework|Casework]]
+**Metodo:** [[method_simmetria|Simmetria]], [[method_casework|Casework]], [[method_fattorizzazione|Factorisation / algebraic manipulation]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Casework accurato]]
-**Area:** [[Algebra e Analisi]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1RynHYch6pmp09Vp_PVUFTCMGvoAuqZ22/view)
 
 
@@ -171,9 +163,8 @@ level: RMO
 > Risolvi il sistema di equazioni per numeri reali positivi:
 > $$\frac{1}{xy} = \frac{x}{z} + 1, \quad \frac{1}{yz} = \frac{y}{x} + 1, \quad \frac{1}{zx} = \frac{z}{y} + 1.$$
 
+
 **Topic:** [[topic_algebra|Algebra]]
-**Metodo:** [[method_simmetria|Simmetria]], [[method_casework|Casework]]
+**Metodo:** [[method_simmetria|Simmetria]], [[method_casework|Casework]], [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Algebra e Analisi]]
-
-[[Quesiti/src_rmo_2012_r4#q06|src_rmo_2012_r4__Q06]]

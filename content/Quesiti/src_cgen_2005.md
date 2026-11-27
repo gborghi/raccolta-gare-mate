@@ -10,7 +10,7 @@ level: Concours Général
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_geometria_piana,topic_algebra,topic_trigonometria,method_trigonometria,method_simmetria,method_coordinate,skill_ragionamento_geometrico,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_geometria_piana,topic_algebra,topic_trigonometria,topic_geometria_analitica,method_trigonometria,method_simmetria,method_coordinate,skill_ragionamento_geometrico,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -67,10 +67,10 @@ level: Concours Général
 > 
 > **3.** Draw, then look for being extremely precise, the set of points $M$ such that the triangle $M_2M_3M_4$ defined in part 2 has a circumscribed circle of radius $1$.
 
-**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_algebra|Algebra]], [[topic_trigonometria|Trigonometria]]
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_algebra|Algebra]], [[topic_trigonometria|Trigonometria]], [[topic_geometria_analitica|Coordinate geometry]]
 **Metodo:** [[method_trigonometria|Trigonometria]], [[method_simmetria|Simmetria]], [[method_coordinate|Coordinate]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
-**Area:** [[Geometria]], [[Algebra e Analisi]]
+**Area:** [[Geometria|Geometry]], [[Algebra e Analisi|Algebra and analysis]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1rEB9uBD886_GOlWlnaWMbpsJf-6HZvT3/view)
 
 > [!warning] Estratto/tradotto da verificare con la fonte.
@@ -131,11 +131,14 @@ level: Concours Général
 > 
 > **3.** Disegna, poi cerca di essere estremamente preciso, l'insieme dei punti $M$ in modo tale che il triangolo $M_2M_3M_4$ definito nella parte 2 abbia un cerchio circonscritto di raggio $1$.
 
-[[Quesiti/src_cgen_2005#q01|src_cgen_2005__Q01]]
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_algebra|Algebra]], [[topic_trigonometria|Trigonometria]], [[topic_geometria_analitica|Geometria analitica]]
+**Metodo:** [[method_trigonometria|Tecniche trigonometriche]], [[method_simmetria|Sfruttamento della simmetria]], [[method_coordinate|Metodo delle coordinate]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta del testo]]
+**Area:** [[Geometria]], [[Algebra e Analisi]]
 
 
 
-<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_insiemi_funzioni,topic_algebra,method_casework,skill_astrazione,skill_lettura_attenta"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_insiemi_funzioni,topic_algebra,method_casework,skill_astrazione,skill_lettura_attenta,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -150,8 +153,8 @@ level: Concours Général
 
 **Topic:** [[topic_insiemi_funzioni|Insiemi e funzioni]], [[topic_algebra|Algebra]]
 **Metodo:** [[method_casework|Casework]]
-**Abilita:** [[skill_astrazione|Astrazione]], [[skill_lettura_attenta|Lettura attenta]]
-**Area:** [[Algebra e Analisi]]
+**Abilita:** [[skill_astrazione|Astrazione]], [[skill_lettura_attenta|Lettura attenta]], [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1rEB9uBD886_GOlWlnaWMbpsJf-6HZvT3/view)
 
 > [!warning] Estratto/tradotto da verificare con la fonte.
@@ -168,14 +171,14 @@ level: Concours Général
 > 
 > **2.** Date un esempio di una funzione $f$ che verifica le ipotesi; possiamo accontentarci di una rappresentazione grafica chiara.
 
-[[Quesiti/src_cgen_2005#q02|src_cgen_2005__Q02]]
+**Topic:** [[topic_insiemi_funzioni|Insiemi e funzioni]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_astrazione|Astrazione / generalizzazione]], [[skill_lettura_attenta|Lettura attenta del testo]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Algebra e Analisi]]
 
 
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_geometria_piana,method_ricorsione,method_estremalita,skill_ragionamento_geometrico,skill_astrazione"></span>
-
-<div class="qlang-switch" data-default="en"></div>
-
 
 *Iterating the incenter (then later the orthocenter) of a triangle from three non-collinear points; prove convergence of the sequence of points and study what changes when using the orthocenter.*
 
@@ -194,8 +197,20 @@ level: Concours Général
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<div class="qlang-split" data-lang="it"></div>
 
+<span class="atom-split" id="q03__it" data-atom="q03__it" data-title="Q03__IT" data-tags=""></span>
+
+---
+tipo: quesito-translation
+translation_of: src_cgen_2005__Q03
+lang: it
+secondary: true
+title: "Concours Général des Lycées 2005  Matematica  Quesito 3"
+summary: "Iterare l'incentro (poi più tardi l'ortocentro) di un triangolo da tre punti non collineari; dimostrare la convergenza della sequenza di punti e studiare cosa cambia quando si usa l'ortocentro."
+topics: [topic_geometria_piana]
+methods: [method_ricorsione, method_estremalita]
+skills: [skill_ragionamento_geometrico, skill_astrazione]
+tags: [kg/translation, topic/geometria_piana]---
 
 *Iterare l'incentro (poi più tardi l'ortocentro) di un triangolo da tre punti non collineari; dimostrare la convergenza della sequenza di punti e studiare quali cambiamenti si verificano con l'uso dell'ortocentro.*
 
@@ -205,14 +220,15 @@ level: Concours Général
 > 
 > **2.** Che cosa succede al risultato precedente se, ad ogni passo, per $i=0,1,2,\ldots$, prendiamo $A_{i+1}$ per essere l'ortocentro del triangolo $A_iBC$ invece del centro del cerchio inciso?
 
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_ricorsione|Ricorsione]], [[method_estremalita|Principio di estremalita]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_astrazione|Astrazione / generalizzazione]]
+**Area:** [[Geometria]]
 [[Quesiti/src_cgen_2005#q03|src_cgen_2005__Q03]]
 
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_aritmetica,topic_algebra,topic_probabilita,method_congruenze,method_conteggio,method_fattorizzazione,skill_manipolazione_algebrica,skill_conteggio_sistematico,skill_lettura_attenta"></span>
-
-<div class="qlang-switch" data-default="en"></div>
-
 
 *Discrete logarithm modulo a prime: primitive roots, definition and existence of the discrete log, an elementary algorithm, and Adleman's index-calculus method with a probabilistic complexity analysis.*
 
@@ -284,8 +300,20 @@ level: Concours Général
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<div class="qlang-split" data-lang="it"></div>
 
+<span class="atom-split" id="q04__it" data-atom="q04__it" data-title="Q04__IT" data-tags=""></span>
+
+---
+tipo: quesito-translation
+translation_of: src_cgen_2005__Q04
+lang: it
+secondary: true
+title: "Concours Général des Lycées 2005  Matematica  Quesito 4"
+summary: "Logaritmo discreto modulo a primo: radici primitive, definizione e esistenza del registro discreto, un algoritmo elementare e il metodo di calcolo dell'indice di Adleman con un'analisi di complessità probabilistica."
+topics: [topic_aritmetica, topic_algebra, topic_probabilita]
+methods: [method_congruenze, method_conteggio, method_fattorizzazione]
+skills: [skill_manipolazione_algebrica, skill_conteggio_sistematico, skill_lettura_attenta]
+tags: [kg/translation, topic/aritmetica, topic/algebra, topic/probabilita]---
 
 *Logaritmo discreto modulo a primo: radici primitive, definizione e esistenza del registro discreto, un algoritmo elementare e il metodo di calcolo dell'indice di Adleman con un'analisi di complessità probabilistica.*
 
@@ -331,4 +359,8 @@ level: Concours Général
 > 
 > Ritorniamo al caso generale. **a.** Qual è il numero di integri di $[1;p-1]$ che sono una potenza di $p_1$? **b.** Ridurre la probabilità che un intero $s\in[0;p-2]$ sia tale che $(g^s A \bmod p)$ sia una potenza di $p_1$. **c.** Mostra che la probabilità $P$ per un intero $s\in[0;p-2]$ è tale che $(g^s A \bmod p)$ fattorizza con l'aiuto di $p_1$ e $p_2$ verifica in modo unico: $$\frac{(\ln(p-1))^2}{2(p-1)\big(\ln p_1\big)\big(\ln p_2\big)}\leq P\leq\frac{1}{p-1}\left(\frac{\ln(p-1)}{\ln p_1}+1\right)\left(\frac{\ln(p-1)}{\ln p_2}+1\right).$$ **.** Generalizza il risultato al caso di $n$ numeri primi $p_1,\ldots,p_n$.
 
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]], [[topic_probabilita|Probabilita e statistica]]
+**Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]], [[method_conteggio|Conteggio combinatorio]], [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta del testo]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]], [[Combinatoria, Logica e Probabilita]]
 [[Quesiti/src_cgen_2005#q04|src_cgen_2005__Q04]]

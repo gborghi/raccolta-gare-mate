@@ -10,7 +10,7 @@ level: China Girls' Mathematical Olympiad
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_geometria_piana,method_trigonometria,method_simmetria,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_geometria_piana,topic_trigonometria,method_trigonometria,method_simmetria,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -19,12 +19,12 @@ level: China Girls' Mathematical Olympiad
 
 > As shown in the following figure, point $P$ lies on the circumcircle of triangle $ABC$. Lines $AB$ and $CP$ meet at $E$, and lines $AC$ and $BP$ meet at $F$. The perpendicular bisector of line segment $AB$ meets line segment $AC$ at $K$, and the perpendicular bisector of line segment $AC$ meets line segment $AB$ at $J$. Prove that $$\frac{CE}{BF} = \frac{AJ}{AK}.$$
 
-![[src_cn_cgmo_2005__q01.png]]
+![[src_cn_cgmo_2005__Q01.png]]
 
-**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometry]]
 **Metodo:** [[method_trigonometria|Trigonometria]], [[method_simmetria|Simmetria]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
-**Area:** [[Geometria]]
+**Area:** [[Geometria|Geometry]]
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1Bie5BlTQQyjdGifDyOeZ-kZzNFzUwbxT/view)
 
 
@@ -35,14 +35,13 @@ level: China Girls' Mathematical Olympiad
 
 > Come mostrato nella figura seguente, il punto $P$ giace sulla circonferenza circoscritta al triangolo $ABC$. Le rette $AB$ e $CP$ si incontrano in $E$, e le rette $AC$ e $BP$ si incontrano in $F$. La mediatrice del segmento $AB$ incontra il segmento $AC$ in $K$, e la mediatrice del segmento $AC$ incontra il segmento $AB$ in $J$. Dimostrare che $$\frac{CE}{BF} = \frac{AJ}{AK}.$$
 
-![[src_cn_cgmo_2005__q01.png]]
+![[src_cn_cgmo_2005__Q01.png]]
 
-**Topic:** [[topic_geometria_piana|Geometria piana]]
+
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometria]]
 **Metodo:** [[method_trigonometria|Trigonometria]], [[method_simmetria|Simmetria]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
-
-[[Quesiti/src_cn_cgmo_2005#q01|src_cn_cgmo_2005__Q01]]
 
 
 
@@ -75,11 +74,9 @@ level: China Girls' Mathematical Olympiad
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Algebra e Analisi]]
 
-[[Quesiti/src_cn_cgmo_2005#q02|src_cn_cgmo_2005__Q02]]
 
 
-
-<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_combinatoria,topic_geometria_solida,method_casework,method_invarianti,skill_ragionamento_geometrico,skill_lettura_attenta,skill_astrazione"></span>
+<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_combinatoria,topic_geometria_solida,method_casework,method_invarianti,method_grafi,skill_ragionamento_geometrico,skill_lettura_attenta,skill_astrazione"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -90,12 +87,12 @@ level: China Girls' Mathematical Olympiad
 > (1) it has 12 edges, 6 faces and 8 vertices;
 > (2) it has 4 faces with each pair of them sharing a common edge of the polyhedron.
 
-![[src_cn_cgmo_2005__q03.png]]
+![[src_cn_cgmo_2005__Q03.png]]
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_geometria_solida|Geometria solida]]
-**Metodo:** [[method_casework|Casework]], [[method_invarianti|Invarianti]]
+**Metodo:** [[method_casework|Casework]], [[method_invarianti|Invarianti]], [[method_grafi|Graph theory]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_astrazione|Astrazione]]
-**Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Geometria|Geometry]]
 **Risposta:** Yes
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1Bie5BlTQQyjdGifDyOeZ-kZzNFzUwbxT/view)
 
@@ -108,18 +105,17 @@ level: China Girls' Mathematical Olympiad
 > Determinare se esista un poliedro convesso tale che
 > (1) ha 12 spigoli, 6 facce e 8 vertici; (2) ha 4 facce, e ciascuna coppia di esse condivide uno spigolo comune del poliedro.
 
-![[src_cn_cgmo_2005__q03.png]]
+![[src_cn_cgmo_2005__Q03.png]]
+
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_geometria_solida|Geometria solida]]
-**Metodo:** [[method_casework|Casework]], [[method_invarianti|Invarianti]]
+**Metodo:** [[method_casework|Casework]], [[method_invarianti|Invarianti]], [[method_grafi|Teoria dei grafi]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_astrazione|Astrazione]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 
-[[Quesiti/src_cn_cgmo_2005#q03|src_cn_cgmo_2005__Q03]]
 
 
-
-<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_combinatoria,topic_insiemi_funzioni,method_conteggio,method_estremalita,method_induzione,skill_modellizzazione,skill_astrazione,skill_conteggio_sistematico"></span>
+<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_combinatoria,topic_insiemi_funzioni,method_conteggio,method_estremalita,method_induzione,skill_modellizzazione,skill_astrazione,skill_conteggio_sistematico,skill_lettura_attenta"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -134,8 +130,8 @@ level: China Girls' Mathematical Olympiad
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_insiemi_funzioni|Insiemi e funzioni]]
 **Metodo:** [[method_conteggio|Conteggio]], [[method_estremalita|Estremalità]], [[method_induzione|Induzione]]
-**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_astrazione|Astrazione]], [[skill_conteggio_sistematico|Conteggio sistematico]]
-**Area:** [[Combinatoria, Logica e Probabilita]], [[Algebra e Analisi]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_astrazione|Astrazione]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Careful reading of the text]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Algebra e Analisi|Algebra and analysis]]
 **Risposta:** $0 < a < 2$
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1Bie5BlTQQyjdGifDyOeZ-kZzNFzUwbxT/view)
 
@@ -147,16 +143,15 @@ level: China Girls' Mathematical Olympiad
 
 > Determinare tutti i numeri reali positivi $a$ tali che esistano un numero intero positivo $n$ e degli insiemi $A_1, A_2, \cdots, A_n$ che soddisfino le seguenti condizioni: (1) ogni insieme $A_i$ ha un numero finito di elementi; (2) ogni coppia di insiemi distinti $A_i$ e $A_j$ non ha alcun elemento in comune; (3) l'unione degli insiemi $A_1, A_2, \cdots, A_n$ è l'insieme di tutti gli interi; (4) per ogni insieme $A_i$, la differenza positiva di qualsiasi coppia di elementi in $A_i$ è almeno $a^i$.
 
+
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_insiemi_funzioni|Insiemi e funzioni]]
 **Metodo:** [[method_conteggio|Conteggio]], [[method_estremalita|Estremalità]], [[method_induzione|Induzione]]
-**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_astrazione|Astrazione]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_astrazione|Astrazione]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta del testo]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Algebra e Analisi]]
 
-[[Quesiti/src_cn_cgmo_2005#q04|src_cn_cgmo_2005__Q04]]
 
 
-
-<span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_disuguaglianze,topic_algebra,method_disuguaglianze,method_estremalita,skill_manipolazione_algebrica,skill_stima,skill_ragionamento_geometrico"></span>
+<span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_disuguaglianze,topic_algebra,method_disuguaglianze,method_estremalita,method_fattorizzazione,skill_manipolazione_algebrica,skill_stima,skill_ragionamento_geometrico"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -166,9 +161,9 @@ level: China Girls' Mathematical Olympiad
 > Let $x, y$ be positive real numbers with $x^2 + 4y^2 = x - y$. Prove that $x^2 + 4y^2 \le \dfrac{2}{9}$.
 
 **Topic:** [[topic_disuguaglianze|Disuguaglianze]], [[topic_algebra|Algebra]]
-**Metodo:** [[method_disuguaglianze|Disuguaglianze]], [[method_estremalita|Estremalità]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze]], [[method_estremalita|Estremalità]], [[method_fattorizzazione|Factorisation / algebraic manipulation]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
-**Area:** [[Algebra e Analisi]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1Bie5BlTQQyjdGifDyOeZ-kZzNFzUwbxT/view)
 
 
@@ -179,16 +174,15 @@ level: China Girls' Mathematical Olympiad
 
 > Siano $x, y$ numeri reali positivi con $x^2 + 4y^2 = x - y$. Dimostrare che $x^2 + 4y^2 \le \dfrac{2}{9}$.
 
+
 **Topic:** [[topic_disuguaglianze|Disuguaglianze]], [[topic_algebra|Algebra]]
-**Metodo:** [[method_disuguaglianze|Disuguaglianze]], [[method_estremalita|Estremalità]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze]], [[method_estremalita|Estremalità]], [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Algebra e Analisi]]
 
-[[Quesiti/src_cn_cgmo_2005#q05|src_cn_cgmo_2005__Q05]]
 
 
-
-<span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_combinatoria,topic_geometria_analitica,method_grafi,method_conteggio,method_casework,skill_astrazione,skill_modellizzazione,skill_ragionamento_geometrico,skill_riconoscimento_pattern"></span>
+<span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_combinatoria,topic_geometria_analitica,topic_aritmetica,method_grafi,method_conteggio,method_casework,skill_astrazione,skill_modellizzazione,skill_ragionamento_geometrico,skill_riconoscimento_pattern"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -199,10 +193,10 @@ level: China Girls' Mathematical Olympiad
 > (1) Determine the minimum good number.
 > (2) Determine if 2005 is a good number.
 
-**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_geometria_analitica|Geometria analitica]]
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_geometria_analitica|Geometria analitica]], [[topic_aritmetica|Arithmetic / Number theory]]
 **Metodo:** [[method_grafi|Grafi]], [[method_conteggio|Conteggio]], [[method_casework|Casework]]
 **Abilita:** [[skill_astrazione|Astrazione]], [[skill_modellizzazione|Modellizzazione]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
-**Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Geometria|Geometry]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Risposta:** Minimum good number is 5; 2005 is a good number.
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1Bie5BlTQQyjdGifDyOeZ-kZzNFzUwbxT/view)
 
@@ -214,12 +208,11 @@ level: China Girls' Mathematical Olympiad
 
 > Un numero intero $n$ è detto numero buono se $n \ge 3$ e esistono $n$ punti della griglia $P_1, P_2, \cdots, P_n$ nel piano cartesiano che soddisfano le seguenti condizioni. Se il segmento di retta $P_iP_j$ ha lunghezza razionale (irrazionale), allora $P_i$ è tale che entrambi i segmenti di retta $P_iP_k$ e $P_iP_l$ hanno lunghezza irrazionale; e se il segmento di retta $P_iP_j$ ha lunghezza irrazionale, allora esiste $P_k$ tale che entrambi i segmenti di retta $P_kP_i$ e $P_kP_j$ hanno lunghezza razionale. (Un punto del piano cartesiano è un punto della griglia se entrambe le sue coordinate sono numeri interi.) (1) Determina il numero buono minimo. (2) Determina se 2005 è un numero buono.
 
-**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_geometria_analitica|Geometria analitica]]
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_geometria_analitica|Geometria analitica]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_grafi|Grafi]], [[method_conteggio|Conteggio]], [[method_casework|Casework]]
 **Abilita:** [[skill_astrazione|Astrazione]], [[skill_modellizzazione|Modellizzazione]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
-**Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
-
-[[Quesiti/src_cn_cgmo_2005#q06|src_cn_cgmo_2005__Q06]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]], [[Aritmetica e Teoria dei Numeri]]
 
 
 
@@ -251,11 +244,9 @@ level: China Girls' Mathematical Olympiad
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 
-[[Quesiti/src_cn_cgmo_2005#q07|src_cn_cgmo_2005__Q07]]
 
 
-
-<span class="atom-split" id="q08" data-atom="q08" data-title="Quesito 8" data-tags="topic_geometria_piana,method_estremalita,method_coordinate,method_simmetria,skill_ragionamento_geometrico,skill_stima,skill_modellizzazione"></span>
+<span class="atom-split" id="q08" data-atom="q08" data-title="Quesito 8" data-tags="topic_geometria_piana,topic_trigonometria,method_estremalita,method_coordinate,method_simmetria,method_trigonometria,skill_ragionamento_geometrico,skill_stima,skill_modellizzazione"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -264,10 +255,10 @@ level: China Girls' Mathematical Olympiad
 
 > Given an $a \times b$ rectangle with $a > b > 0$, determine the minimum length of a square that covers the rectangle. (A square covers the rectangle if each point in the rectangle lies inside the square.)
 
-**Topic:** [[topic_geometria_piana|Geometria piana]]
-**Metodo:** [[method_estremalita|Estremalità]], [[method_coordinate|Coordinate]], [[method_simmetria|Simmetria]]
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometry]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_coordinate|Coordinate]], [[method_simmetria|Simmetria]], [[method_trigonometria|Trigonometric techniques]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_stima|Stima]], [[skill_modellizzazione|Modellizzazione]]
-**Area:** [[Geometria]]
+**Area:** [[Geometria|Geometry]]
 **Risposta:** $\min\!\left\{a,\, \dfrac{\sqrt{2}}{2}(a+b)\right\}$
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1Bie5BlTQQyjdGifDyOeZ-kZzNFzUwbxT/view)
 
@@ -279,9 +270,8 @@ level: China Girls' Mathematical Olympiad
 
 > Dato un rettangolo $a \times b$ con $a > b > 0$, determina la lunghezza minima di un quadrato che ricopra il rettangolo. (Un quadrato ricopre il rettangolo se ogni punto del rettangolo giace all'interno del quadrato.)
 
-**Topic:** [[topic_geometria_piana|Geometria piana]]
-**Metodo:** [[method_estremalita|Estremalità]], [[method_coordinate|Coordinate]], [[method_simmetria|Simmetria]]
+
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometria]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_coordinate|Coordinate]], [[method_simmetria|Simmetria]], [[method_trigonometria|Tecniche trigonometriche]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_stima|Stima]], [[skill_modellizzazione|Modellizzazione]]
 **Area:** [[Geometria]]
-
-[[Quesiti/src_cn_cgmo_2005#q08|src_cn_cgmo_2005__Q08]]

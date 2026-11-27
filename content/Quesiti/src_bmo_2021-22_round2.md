@@ -50,8 +50,6 @@ level: BMO Round 2
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 
-[[Quesiti/src_bmo_2021-22_round2#q01|src_bmo_2021-22_round2__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_funzionali,topic_algebra,method_casework,method_backward,skill_manipolazione_algebrica,skill_lettura_attenta,skill_astrazione"></span>
@@ -84,11 +82,9 @@ level: BMO Round 2
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_astrazione|Astrazione]]
 **Area:** [[Algebra e Analisi]]
 
-[[Quesiti/src_bmo_2021-22_round2#q02|src_bmo_2021-22_round2__Q02]]
 
 
-
-<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_combinatoria,method_invarianti,method_doppio_conteggio,method_casework,skill_astrazione,skill_modellizzazione,skill_riconoscimento_pattern,skill_conteggio_sistematico"></span>
+<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_combinatoria,method_invarianti,method_doppio_conteggio,method_casework,method_cassetti,skill_astrazione,skill_modellizzazione,skill_riconoscimento_pattern,skill_conteggio_sistematico"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -98,9 +94,9 @@ level: BMO Round 2
 > The cards from $s$ identical decks of cards are put into boxes. Each deck contains 50 cards, labelled from $1$ to $50$. Each box can contain at most $2022$ cards. A pile of boxes is called *regular* if that pile contains equal numbers of cards with each label. Show that there exists some $N$ such that if $n \ge N$, then the boxes can be divided into two non-empty regular piles.
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
-**Metodo:** [[method_invarianti|Invarianti]], [[method_doppio_conteggio|Doppio conteggio]], [[method_casework|Casework]]
+**Metodo:** [[method_invarianti|Invarianti]], [[method_doppio_conteggio|Doppio conteggio]], [[method_casework|Casework]], [[method_cassetti|Pigeonhole principle]]
 **Abilita:** [[skill_astrazione|Astrazione]], [[skill_modellizzazione|Modellizzazione]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_conteggio_sistematico|Conteggio sistematico]]
-**Area:** [[Combinatoria, Logica e Probabilita]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/16y4Ne9fLIQNcbli54a5IbNlDbIPQeawo/view)
 
 
@@ -111,12 +107,11 @@ level: BMO Round 2
 
 > Le carte provenienti da mazzi di carte identici, in numero di $s$, vengono messe nelle scatole. Ogni mazzo contiene 50 carte, etichettate da $1$ a $50$. Ogni scatola può contenere al massimo $2022$ carte. Un mucchio di scatole si dice *regolare* se in quel mucchio c'è lo stesso numero di carte per ogni etichetta. Dimostrare che esiste un certo $N$ tale che, se $n \ge N$, allora le scatole possono essere divise in due mucchi regolari non vuoti.
 
+
 **Topic:** [[topic_combinatoria|Combinatoria]]
-**Metodo:** [[method_invarianti|Invarianti]], [[method_doppio_conteggio|Doppio conteggio]], [[method_casework|Casework]]
+**Metodo:** [[method_invarianti|Invarianti]], [[method_doppio_conteggio|Doppio conteggio]], [[method_casework|Casework]], [[method_cassetti|Principio dei cassetti]]
 **Abilita:** [[skill_astrazione|Astrazione]], [[skill_modellizzazione|Modellizzazione]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
-
-[[Quesiti/src_bmo_2021-22_round2#q03|src_bmo_2021-22_round2__Q03]]
 
 
 
@@ -155,5 +150,3 @@ level: BMO Round 2
 **Metodo:** [[method_coordinate|Coordinate]], [[method_trigonometria|Trigonometria]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Geometria]]
-
-[[Quesiti/src_bmo_2021-22_round2#q04|src_bmo_2021-22_round2__Q04]]

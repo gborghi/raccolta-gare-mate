@@ -10,7 +10,7 @@ level: OBM Nível 2
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_aritmetica,skill_lettura_attenta,skill_manipolazione_algebrica"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_aritmetica,method_casework,skill_lettura_attenta,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -25,8 +25,9 @@ level: OBM Nível 2
 > E) "Take five and pay four"
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Case analysis]]
 **Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
-**Area:** [[Aritmetica e Teoria dei Numeri]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Risposta:** D
 **Fonte:** [apri PDF](https://drive.google.com/file/d/167dTgeiNJWCfw7mZFeAHtA0QE9-mHLFf/view)
 
@@ -43,11 +44,11 @@ level: OBM Nível 2
 > D) "Prendi quattro e paga tre"
 > E) "Prendine cinque e pagane quattro"
 
+
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Analisi per casi]]
 **Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
-
-[[Quesiti/src_obm_2005_n2_f1#q01|src_obm_2005_n2_f1__Q01]]
 
 
 
@@ -80,11 +81,9 @@ level: OBM Nível 2
 **Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 
-[[Quesiti/src_obm_2005_n2_f1#q02|src_obm_2005_n2_f1__Q02]]
 
 
-
-<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_geometria_piana,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
+<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_geometria_piana,topic_algebra,method_fattorizzazione,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -94,11 +93,12 @@ level: OBM Nível 2
 > Six identical rectangles are joined to form a larger rectangle as indicated in the figure. What is the area of this larger rectangle? (The vertical side of the larger rectangle measures $21\,\text{cm}$.)
 > A) $210\,\text{cm}^2$ \quad B) $280\,\text{cm}^2$ \quad C) $430\,\text{cm}^2$ \quad D) $504\,\text{cm}^2$ \quad E) $588\,\text{cm}^2$
 
-![[src_obm_2005_n2_f1__q03.png]]
+![[src_obm_2005_n2_f1__Q03.png]]
 
-**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
-**Area:** [[Geometria]]
+**Area:** [[Geometria|Geometry]], [[Algebra e Analisi|Algebra and analysis]]
 **Risposta:** E
 **Fonte:** [apri PDF](https://drive.google.com/file/d/167dTgeiNJWCfw7mZFeAHtA0QE9-mHLFf/view)
 
@@ -111,13 +111,13 @@ level: OBM Nível 2
 > Sei rettangoli identici vengono uniti per formare un rettangolo più grande, come indicato nella figura. Qual è l'area di questo rettangolo più grande? (Il lato verticale del rettangolo più grande misura $21\,\text{cm}$.)
 > A) $210\,\text{cm}^2$ \quad B) $280\,\text{cm}^2$ \quad C) $430\,\text{cm}^2$ \quad D) $504\,\text{cm}^2$ \quad E) $588\,\text{cm}^2$
 
-![[src_obm_2005_n2_f1__q03.png]]
+![[src_obm_2005_n2_f1__Q03.png]]
 
-**Topic:** [[topic_geometria_piana|Geometria piana]]
+
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
-**Area:** [[Geometria]]
-
-[[Quesiti/src_obm_2005_n2_f1#q03|src_obm_2005_n2_f1__Q03]]
+**Area:** [[Geometria]], [[Algebra e Analisi]]
 
 
 
@@ -150,11 +150,9 @@ level: OBM Nível 2
 **Abilita:** [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 
-[[Quesiti/src_obm_2005_n2_f1#q04|src_obm_2005_n2_f1__Q04]]
 
 
-
-<span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_aritmetica,topic_combinatoria,method_inclusione_esclusione,method_conteggio,skill_conteggio_sistematico"></span>
+<span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_aritmetica,topic_combinatoria,method_inclusione_esclusione,method_conteggio,skill_conteggio_sistematico,skill_lettura_attenta"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -166,8 +164,8 @@ level: OBM Nível 2
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_inclusione_esclusione|Inclusione-esclusione]], [[method_conteggio|Conteggio]]
-**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
-**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Careful reading of the text]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Risposta:** D
 **Fonte:** [apri PDF](https://drive.google.com/file/d/167dTgeiNJWCfw7mZFeAHtA0QE9-mHLFf/view)
 
@@ -180,12 +178,11 @@ level: OBM Nível 2
 > A causa di un difetto di stampa, in un libro di $600$ pagine tutte le pagine il cui numero è multiplo di $3$ o di $4$ risultano bianche. Quante pagine sono stampate?
 > A) $100$ \quad B) $150$ \quad C) $250$ \quad D) $300$ \quad E) $430$
 
+
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_inclusione_esclusione|Inclusione-esclusione]], [[method_conteggio|Conteggio]]
-**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta del testo]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
-
-[[Quesiti/src_obm_2005_n2_f1#q05|src_obm_2005_n2_f1__Q05]]
 
 
 
@@ -226,11 +223,9 @@ level: OBM Nível 2
 **Abilita:** [[skill_stima|Stima]], [[skill_modellizzazione|Modellizzazione]]
 **Area:** [[Geometria]], [[Aritmetica e Teoria dei Numeri]]
 
-[[Quesiti/src_obm_2005_n2_f1#q06|src_obm_2005_n2_f1__Q06]]
 
 
-
-<span class="atom-split" id="q07" data-atom="q07" data-title="Quesito 7" data-tags="topic_algebra,topic_aritmetica,method_ricorsione,skill_manipolazione_algebrica,skill_riconoscimento_pattern"></span>
+<span class="atom-split" id="q07" data-atom="q07" data-title="Quesito 7" data-tags="topic_algebra,topic_aritmetica,topic_funzionali,method_ricorsione,skill_manipolazione_algebrica,skill_riconoscimento_pattern"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -240,10 +235,10 @@ level: OBM Nível 2
 > In a sequence, each term, starting from the third, is the sum of the two nearest preceding terms. The second term equals $1$ and the fifth term equals $2005$. What is the sixth term?
 > A) $3\,002$ \quad B) $3\,008$ \quad C) $3\,010$ \quad D) $4\,002$ \quad E) $5\,004$
 
-**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_funzionali|Functional equations / sequences]]
 **Metodo:** [[method_ricorsione|Ricorsione]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
-**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Risposta:** B
 **Fonte:** [apri PDF](https://drive.google.com/file/d/167dTgeiNJWCfw7mZFeAHtA0QE9-mHLFf/view)
 
@@ -256,12 +251,11 @@ level: OBM Nível 2
 > In una successione, ogni termine, a partire dal terzo, è la somma dei due termini precedenti più vicini. Il secondo termine è uguale a $1$ e il quinto termine è uguale a $2005$. Qual è il sesto termine?
 > A) $3\,002$ \quad B) $3\,008$ \quad C) $3\,010$ \quad D) $4\,002$ \quad E) $5\,004$
 
-**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_funzionali|Equazioni funzionali / successioni]]
 **Metodo:** [[method_ricorsione|Ricorsione]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
-
-[[Quesiti/src_obm_2005_n2_f1#q07|src_obm_2005_n2_f1__Q07]]
 
 
 
@@ -275,7 +269,7 @@ level: OBM Nível 2
 > Figures with the same shape represent objects of the same mass. How many squares are needed for the last balance to be in equilibrium?
 > A) $7$ \quad B) $8$ \quad C) $9$ \quad D) $10$ \quad E) $12$
 
-![[src_obm_2005_n2_f1__q08.png]]
+![[src_obm_2005_n2_f1__Q08.png]]
 
 **Topic:** [[topic_algebra|Algebra]], [[topic_logica|Logica]]
 **Metodo:** [[method_casework|Casework]]
@@ -292,18 +286,16 @@ level: OBM Nível 2
 > Le figure della stessa forma rappresentano oggetti della stessa massa. Quanti quadrati servono perché l'ultima bilancia sia in equilibrio?
 > A) $7$ \quad B) $8$ \quad C) $9$ \quad D) $10$ \quad E) $12$
 
-![[src_obm_2005_n2_f1__q08.png]]
+![[src_obm_2005_n2_f1__Q08.png]]
 
 **Topic:** [[topic_algebra|Algebra]], [[topic_logica|Logica]]
 **Metodo:** [[method_casework|Casework]]
 **Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Algebra e Analisi]], [[Combinatoria, Logica e Probabilita]]
 
-[[Quesiti/src_obm_2005_n2_f1#q08|src_obm_2005_n2_f1__Q08]]
 
 
-
-<span class="atom-split" id="q09" data-atom="q09" data-title="Quesito 9" data-tags="topic_aritmetica,topic_combinatoria,method_conteggio,method_casework,skill_conteggio_sistematico,skill_manipolazione_algebrica"></span>
+<span class="atom-split" id="q09" data-atom="q09" data-title="Quesito 9" data-tags="topic_aritmetica,topic_combinatoria,method_conteggio,method_casework,skill_conteggio_sistematico,skill_manipolazione_algebrica,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -315,8 +307,8 @@ level: OBM Nível 2
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_conteggio|Conteggio]], [[method_casework|Casework]]
-**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
-**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Risposta:** A
 **Fonte:** [apri PDF](https://drive.google.com/file/d/167dTgeiNJWCfw7mZFeAHtA0QE9-mHLFf/view)
 
@@ -329,12 +321,11 @@ level: OBM Nível 2
 > Tra tredici numeri reali non nulli, i numeri positivi sono più dei numeri negativi. Tra i $\dfrac{13\times 12}{2}=78$ prodotti di due dei tredici numeri, $22$ sono negativi. Quanti dei tredici numeri dati sono negativi?
 > A) $2$ \quad B) $7$ \quad C) $8$ \quad D) $9$ \quad E) $10$
 
+
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_conteggio|Conteggio]], [[method_casework|Casework]]
-**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
-
-[[Quesiti/src_obm_2005_n2_f1#q09|src_obm_2005_n2_f1__Q09]]
 
 
 
@@ -348,7 +339,7 @@ level: OBM Nível 2
 > The drawing alongside shows a piece of cardboard that will be folded and glued along the edges to form a rectangular box. The angles at the corners of the cardboard are all right angles. What will be the volume of the box, in $\text{cm}^3$?
 > A) $1\,500$ \quad B) $3\,000$ \quad C) $4\,500$ \quad D) $6\,000$ \quad E) $12\,000$
 
-![[src_obm_2005_n2_f1__q10.png]]
+![[src_obm_2005_n2_f1__Q10.png]]
 
 **Topic:** [[topic_geometria_solida|Geometria solida]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]]
@@ -365,17 +356,15 @@ level: OBM Nível 2
 > Il disegno accanto mostra un pezzo di cartone che verrà piegato e incollato lungo i bordi per formare una scatola rettangolare. Gli angoli agli spigoli del cartone sono tutti angoli retti. Quale sarà il volume della scatola, in $\text{cm}^3$?
 > A) $1\,500$ \quad B) $3\,000$ \quad C) $4\,500$ \quad D) $6\,000$ \quad E) $12\,000$
 
-![[src_obm_2005_n2_f1__q10.png]]
+![[src_obm_2005_n2_f1__Q10.png]]
 
 **Topic:** [[topic_geometria_solida|Geometria solida]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]]
 **Area:** [[Geometria]]
 
-[[Quesiti/src_obm_2005_n2_f1#q10|src_obm_2005_n2_f1__Q10]]
 
 
-
-<span class="atom-split" id="q11" data-atom="q11" data-title="Quesito 11" data-tags="topic_algebra,skill_manipolazione_algebrica,skill_astrazione"></span>
+<span class="atom-split" id="q11" data-atom="q11" data-title="Quesito 11" data-tags="topic_algebra,method_fattorizzazione,method_casework,skill_manipolazione_algebrica,skill_astrazione"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -390,8 +379,9 @@ level: OBM Nível 2
 > E) $a+b+c=0$
 
 **Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]], [[method_casework|Case analysis]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]]
-**Area:** [[Algebra e Analisi]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
 **Risposta:** D
 **Fonte:** [apri PDF](https://drive.google.com/file/d/167dTgeiNJWCfw7mZFeAHtA0QE9-mHLFf/view)
 
@@ -408,11 +398,11 @@ level: OBM Nível 2
 > D) $a+b+c=1$ o $a=0$
 > E) $a+b+c=0$
 
+
 **Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]], [[method_casework|Analisi per casi]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]]
 **Area:** [[Algebra e Analisi]]
-
-[[Quesiti/src_obm_2005_n2_f1#q11|src_obm_2005_n2_f1__Q11]]
 
 
 
@@ -447,8 +437,6 @@ level: OBM Nível 2
 **Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 
-[[Quesiti/src_obm_2005_n2_f1#q12|src_obm_2005_n2_f1__Q12]]
-
 
 
 <span class="atom-split" id="q13" data-atom="q13" data-title="Quesito 13" data-tags="topic_geometria_piana,skill_ragionamento_geometrico"></span>
@@ -461,7 +449,7 @@ level: OBM Nível 2
 > In the figure, the two triangles are equilateral. What is the value of the angle $x$? (The triangles stand on a horizontal line, making angles of $75^\circ$ and $65^\circ$ with it; $x$ is the angle at their intersection at the top.)
 > A) $30^\circ$ \quad B) $40^\circ$ \quad C) $50^\circ$ \quad D) $60^\circ$ \quad E) $70^\circ$
 
-![[src_obm_2005_n2_f1__q13.png]]
+![[src_obm_2005_n2_f1__Q13.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
@@ -478,13 +466,11 @@ level: OBM Nível 2
 > Nella figura, i due triangoli sono equilateri. Qual è il valore dell'angolo $x$? (I triangoli poggiano su una linea orizzontale, formando con essa gli angoli $75^\circ$ e $65^\circ$; $x$ è l'angolo al loro punto di intersezione in alto.)
 > A) $30^\circ$ \quad B) $40^\circ$ \quad C) $50^\circ$ \quad D) $60^\circ$ \quad E) $70^\circ$
 
-![[src_obm_2005_n2_f1__q13.png]]
+![[src_obm_2005_n2_f1__Q13.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]]
-
-[[Quesiti/src_obm_2005_n2_f1#q13|src_obm_2005_n2_f1__Q13]]
 
 
 
@@ -519,8 +505,6 @@ level: OBM Nível 2
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 
-[[Quesiti/src_obm_2005_n2_f1#q14|src_obm_2005_n2_f1__Q14]]
-
 
 
 <span class="atom-split" id="q15" data-atom="q15" data-title="Quesito 15" data-tags="topic_geometria_piana,topic_combinatoria,method_conteggio,skill_ragionamento_geometrico,skill_riconoscimento_pattern,skill_conteggio_sistematico"></span>
@@ -533,7 +517,7 @@ level: OBM Nível 2
 > A locksmith welds metal rods to produce equal pieces that will be joined to form the panel below. The drawing alongside shows the measurements, in centimetres, of one of these pieces (an S/zig-zag shape with segments $10$, $5$, $5$, $10$). The locksmith uses exactly $20$ metres of rod to do his work. Which of the drawings below represents the end of the panel?
 > (Options A-E are drawings.)
 
-![[src_obm_2005_n2_f1__q15.png]]
+![[src_obm_2005_n2_f1__Q15.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_conteggio|Conteggio]]
@@ -549,18 +533,16 @@ level: OBM Nível 2
 
 > Un fabbro salda delle barre di metallo per ottenere pezzi uguali che verranno uniti per formare il pannello qui sotto. Il disegno accanto mostra le misure, in centimetri, di uno di questi pezzi (una forma a S/zig-zag con i segmenti $10$, $5$, $5$, $10$). Il fabbro utilizza esattamente $20$ metri di barra per svolgere il suo lavoro. Quale dei disegni qui sotto rappresenta l'estremità del pannello? (Le opzioni A-E sono disegni.)
 
-![[src_obm_2005_n2_f1__q15.png]]
+![[src_obm_2005_n2_f1__Q15.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_conteggio|Conteggio]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Geometria]], [[Combinatoria, Logica e Probabilita]]
 
-[[Quesiti/src_obm_2005_n2_f1#q15|src_obm_2005_n2_f1__Q15]]
 
 
-
-<span class="atom-split" id="q16" data-atom="q16" data-title="Quesito 16" data-tags="topic_combinatoria,topic_aritmetica,method_casework,method_conteggio,skill_conteggio_sistematico,skill_casework_accurato"></span>
+<span class="atom-split" id="q16" data-atom="q16" data-title="Quesito 16" data-tags="topic_combinatoria,topic_aritmetica,method_casework,method_conteggio,skill_conteggio_sistematico,skill_casework_accurato,skill_modellizzazione"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -572,8 +554,8 @@ level: OBM Nível 2
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]]
-**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]]
-**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]], [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Risposta:** C
 **Fonte:** [apri PDF](https://drive.google.com/file/d/167dTgeiNJWCfw7mZFeAHtA0QE9-mHLFf/view)
 
@@ -586,16 +568,15 @@ level: OBM Nível 2
 > In un anno, al massimo, quanti mesi hanno cinque domeniche?
 > A) $3$ \quad B) $4$ \quad C) $5$ \quad D) $6$ \quad E) $7$
 
+
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]]
-**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 
-[[Quesiti/src_obm_2005_n2_f1#q16|src_obm_2005_n2_f1__Q16]]
 
 
-
-<span class="atom-split" id="q17" data-atom="q17" data-title="Quesito 17" data-tags="topic_combinatoria,method_conteggio,method_casework,skill_conteggio_sistematico,skill_lettura_attenta"></span>
+<span class="atom-split" id="q17" data-atom="q17" data-title="Quesito 17" data-tags="topic_combinatoria,method_conteggio,method_casework,skill_conteggio_sistematico,skill_lettura_attenta,skill_riconoscimento_pattern"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -607,8 +588,8 @@ level: OBM Nível 2
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_conteggio|Conteggio]], [[method_casework|Casework]]
-**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]]
-**Area:** [[Combinatoria, Logica e Probabilita]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/167dTgeiNJWCfw7mZFeAHtA0QE9-mHLFf/view)
 
 
@@ -620,16 +601,15 @@ level: OBM Nível 2
 > Quanti numeri compresi tra $10$ e $13000$, letti da sinistra a destra, sono formati da cifre consecutive in ordine crescente? Ad esempio, $456$ è un numero di questo tipo, ma $7890$ non lo è.
 > A) $10$ \quad B) $13$ \quad C) $18$ \quad D) $22$ \quad E) $25$
 
+
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_conteggio|Conteggio]], [[method_casework|Casework]]
-**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 
-[[Quesiti/src_obm_2005_n2_f1#q17|src_obm_2005_n2_f1__Q17]]
 
 
-
-<span class="atom-split" id="q18" data-atom="q18" data-title="Quesito 18" data-tags="topic_aritmetica,topic_disuguaglianze,method_estremalita,method_casework,skill_stima,skill_casework_accurato"></span>
+<span class="atom-split" id="q18" data-atom="q18" data-title="Quesito 18" data-tags="topic_aritmetica,topic_disuguaglianze,method_estremalita,method_casework,skill_stima,skill_casework_accurato,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -645,8 +625,8 @@ level: OBM Nível 2
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_disuguaglianze|Disuguaglianze]]
 **Metodo:** [[method_estremalita|Estremalità]], [[method_casework|Casework]]
-**Abilita:** [[skill_stima|Stima]], [[skill_casework_accurato|Casework accurato]]
-**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
+**Abilita:** [[skill_stima|Stima]], [[skill_casework_accurato|Casework accurato]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Algebra e Analisi|Algebra and analysis]]
 **Risposta:** C
 **Fonte:** [apri PDF](https://drive.google.com/file/d/167dTgeiNJWCfw7mZFeAHtA0QE9-mHLFf/view)
 
@@ -663,16 +643,15 @@ level: OBM Nível 2
 > D) maggiore o uguale a $15$ ore e minore o uguale a $18$ ore
 > E) maggiore o uguale a $18$ ore
 
+
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_disuguaglianze|Disuguaglianze]]
 **Metodo:** [[method_estremalita|Estremalità]], [[method_casework|Casework]]
-**Abilita:** [[skill_stima|Stima]], [[skill_casework_accurato|Casework accurato]]
+**Abilita:** [[skill_stima|Stima]], [[skill_casework_accurato|Casework accurato]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 
-[[Quesiti/src_obm_2005_n2_f1#q18|src_obm_2005_n2_f1__Q18]]
 
 
-
-<span class="atom-split" id="q19" data-atom="q19" data-title="Quesito 19" data-tags="topic_geometria_piana,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
+<span class="atom-split" id="q19" data-atom="q19" data-title="Quesito 19" data-tags="topic_geometria_piana,method_simmetria,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -682,11 +661,12 @@ level: OBM Nível 2
 > In the figure, all the smaller circles have the same radius $r$ and the centres of the circles that touch the larger circle are the vertices of a square. Let $a$ and $b$ be the grey areas indicated in the figure. Then the ratio $\dfrac{a}{b}$ equals:
 > A) $\dfrac{1}{2}$ \quad B) $\dfrac{2}{3}$ \quad C) $1$ \quad D) $\dfrac{3}{2}$ \quad E) $2$
 
-![[src_obm_2005_n2_f1__q19.png]]
+![[src_obm_2005_n2_f1__Q19.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_simmetria|Using symmetry]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
-**Area:** [[Geometria]]
+**Area:** [[Geometria|Geometry]]
 **Risposta:** C
 **Fonte:** [apri PDF](https://drive.google.com/file/d/167dTgeiNJWCfw7mZFeAHtA0QE9-mHLFf/view)
 
@@ -699,13 +679,13 @@ level: OBM Nível 2
 > Nella figura, tutti i cerchi più piccoli hanno lo stesso raggio $r$ e i centri dei cerchi che toccano il cerchio più grande sono i vertici di un quadrato. Siano $a$ e $b$ le aree grigie indicate nella figura. Allora il rapporto $\dfrac{a}{b}$ è uguale a:
 > A) $\dfrac{1}{2}$ \quad B) $\dfrac{2}{3}$ \quad C) $1$ \quad D) $\dfrac{3}{2}$ \quad E) $2$
 
-![[src_obm_2005_n2_f1__q19.png]]
+![[src_obm_2005_n2_f1__Q19.png]]
+
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_simmetria|Sfruttamento della simmetria]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
-
-[[Quesiti/src_obm_2005_n2_f1#q19|src_obm_2005_n2_f1__Q19]]
 
 
 
@@ -740,11 +720,9 @@ level: OBM Nível 2
 **Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 
-[[Quesiti/src_obm_2005_n2_f1#q20|src_obm_2005_n2_f1__Q20]]
 
 
-
-<span class="atom-split" id="q21" data-atom="q21" data-title="Quesito 21" data-tags="topic_aritmetica,topic_combinatoria,method_conteggio,method_casework,skill_modellizzazione,skill_conteggio_sistematico"></span>
+<span class="atom-split" id="q21" data-atom="q21" data-title="Quesito 21" data-tags="topic_aritmetica,topic_combinatoria,method_conteggio,method_casework,skill_modellizzazione,skill_conteggio_sistematico,skill_lettura_attenta"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -756,8 +734,8 @@ level: OBM Nível 2
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_conteggio|Conteggio]], [[method_casework|Casework]]
-**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_conteggio_sistematico|Conteggio sistematico]]
-**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Careful reading of the text]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Risposta:** B
 **Fonte:** [apri PDF](https://drive.google.com/file/d/167dTgeiNJWCfw7mZFeAHtA0QE9-mHLFf/view)
 
@@ -770,12 +748,11 @@ level: OBM Nível 2
 > Un orologio, con lancette delle ore, dei minuti e dei secondi, compie un $plim$ ogni volta che una lancetta supera un'altra sul quadrante. Il numero di $plins$ registrati in un determinato giorno, nel periodo compreso tra le $12$ ore e le $1$ secondi e le $23$ ore, $59$ minuti e $59$ secondi, è:
 > A) $732$ \quad B) $1438$ \quad C) $1440$ \quad D) $1446$ \quad E) $1452$
 
+
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_conteggio|Conteggio]], [[method_casework|Casework]]
-**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta del testo]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
-
-[[Quesiti/src_obm_2005_n2_f1#q21|src_obm_2005_n2_f1__Q21]]
 
 
 
@@ -789,7 +766,7 @@ level: OBM Nível 2
 > In the figure, the line $PQ$ touches at $N$ the circle that passes through $L$, $M$ and $N$. The line $LM$ cuts the line $PQ$ at $R$. If $LM=LN$ and the measure of the angle $PNL$ is $\alpha$, $\alpha<60^\circ$, what is the measure of the angle $LRP$?
 > A) $3\alpha-180^\circ$ \quad B) $180^\circ-2\alpha$ \quad C) $180^\circ-\alpha$ \quad D) $90^\circ-\alpha/2$ \quad E) $\alpha$
 
-![[src_obm_2005_n2_f1__q22.png]]
+![[src_obm_2005_n2_f1__Q22.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
@@ -806,17 +783,15 @@ level: OBM Nível 2
 > Nella figura, la retta $PQ$ tocca, in $N$, la circonferenza che passa per $L$, $M$ e $N$. La retta $LM$ interseca la retta $PQ$ in $R$. Se $LM=LN$ e la misura dell'angolo $PNL$ è $\alpha$, $\alpha<60^\circ$, qual è la misura dell'angolo $LRP$?
 > A) $3\alpha-180^\circ$ \quad B) $180^\circ-2\alpha$ \quad C) $180^\circ-\alpha$ \quad D) $90^\circ-\alpha/2$ \quad E) $\alpha$
 
-![[src_obm_2005_n2_f1__q22.png]]
+![[src_obm_2005_n2_f1__Q22.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]]
 
-[[Quesiti/src_obm_2005_n2_f1#q22|src_obm_2005_n2_f1__Q22]]
 
 
-
-<span class="atom-split" id="q23" data-atom="q23" data-title="Quesito 23" data-tags="topic_algebra,method_fattorizzazione,skill_manipolazione_algebrica"></span>
+<span class="atom-split" id="q23" data-atom="q23" data-title="Quesito 23" data-tags="topic_algebra,topic_aritmetica,method_fattorizzazione,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -828,10 +803,10 @@ level: OBM Nível 2
 > Which of the alternatives presents a possible value of $y$?
 > A) $5$ \quad B) $6$ \quad C) $7$ \quad D) $8$ \quad E) $9$
 
-**Topic:** [[topic_algebra|Algebra]]
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Arithmetic / Number theory]]
 **Metodo:** [[method_fattorizzazione|Fattorizzazione]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
-**Area:** [[Algebra e Analisi]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Risposta:** D
 **Fonte:** [apri PDF](https://drive.google.com/file/d/167dTgeiNJWCfw7mZFeAHtA0QE9-mHLFf/view)
 
@@ -846,12 +821,11 @@ level: OBM Nível 2
 > Quale delle alternative presenta un valore possibile di $y$?
 > A) $5$ \quad B) $6$ \quad C) $7$ \quad D) $8$ \quad E) $9$
 
-**Topic:** [[topic_algebra|Algebra]]
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_fattorizzazione|Fattorizzazione]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
-**Area:** [[Algebra e Analisi]]
-
-[[Quesiti/src_obm_2005_n2_f1#q23|src_obm_2005_n2_f1__Q23]]
+**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 
 
 
@@ -865,7 +839,7 @@ level: OBM Nível 2
 > Among the numbers $1, 2, 3, 4, 5, 6, 7, 8, 9$ and $10$, choose some and place them in the white circles so that the sum of the numbers in two neighbouring circles is always a perfect square. Note: the $2$ has already been placed in one of the circles, and repeated numbers are not allowed; moreover, circles separated by the black rectangle are not neighbours. The sum of the numbers placed in all the white circles is:
 > A) $36$ \quad B) $46$ \quad C) $47$ \quad D) $49$ \quad E) $55$
 
-![[src_obm_2005_n2_f1__q24.png]]
+![[src_obm_2005_n2_f1__Q24.png]]
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_logica|Logica]]
 **Metodo:** [[method_casework|Casework]], [[method_grafi|Grafi]]
@@ -882,14 +856,12 @@ level: OBM Nível 2
 > Tra i numeri $1, 2, 3, 4, 5, 6, 7, 8, 9$ e $10$, scegline alcuni e collocali nei cerchi bianchi in modo che la somma dei numeri in due cerchi adiacenti sia sempre un quadrato perfetto. Nota: l'$2$ è già stato collocato in uno dei cerchi, non sono ammessi numeri ripetuti; inoltre, i cerchi separati dal rettangolo nero non sono adiacenti. La somma dei numeri collocati in tutti i cerchi bianchi è:
 > A) $36$ \quad B) $46$ \quad C) $47$ \quad D) $49$ \quad E) $55$
 
-![[src_obm_2005_n2_f1__q24.png]]
+![[src_obm_2005_n2_f1__Q24.png]]
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_logica|Logica]]
 **Metodo:** [[method_casework|Casework]], [[method_grafi|Grafi]]
 **Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
-
-[[Quesiti/src_obm_2005_n2_f1#q24|src_obm_2005_n2_f1__Q24]]
 
 
 
@@ -903,7 +875,7 @@ level: OBM Nível 2
 > A block of dimensions $1\times 2\times 3$ is placed on an $8\times 8$ board, as the figure shows, with a face $X$ of dimensions $1\times 2$ turned downward. We roll the block around one of its edges so that face $Y$ is turned downward. Then we roll it again, this time so that face $Z$ is turned downward. We roll the block more times, in various directions on the board, so that the faces $X$, $Y$ and $Z$ are turned downward, always in this order. How many different little squares of the board can be in contact with the block?
 > A) $18$ \quad B) $19$ \quad C) $20$ \quad D) $21$ \quad E) $22$
 
-![[src_obm_2005_n2_f1__q25.png]]
+![[src_obm_2005_n2_f1__Q25.png]]
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_geometria_solida|Geometria solida]]
 **Metodo:** [[method_casework|Casework]], [[method_invarianti|Invarianti]]
@@ -920,11 +892,9 @@ level: OBM Nível 2
 > Un blocco di dimensioni $1\times 2\times 3$ viene collocato su una tavola $8\times 8$, come mostra la figura, con una faccia $X$ di dimensioni $1\times 2$ rivolta verso il basso. Facciamo rotolare il blocco attorno a uno dei suoi spigoli in modo che la faccia $Y$ risulti rivolta verso il basso. Poi lo facciamo rotolare di nuovo, questa volta in modo che la faccia $Z$ risulti rivolta verso il basso. Facciamo rotolare il blocco altre volte, in varie direzioni sulla tavola, in modo che le facce $X$, $Y$ e $Z$ risultino rivolte verso il basso, sempre in questo ordine. Quante diverse piccole caselle della tavola possono essere a contatto con il blocco?
 > A) $18$ \quad B) $19$ \quad C) $20$ \quad D) $21$ \quad E) $22$
 
-![[src_obm_2005_n2_f1__q25.png]]
+![[src_obm_2005_n2_f1__Q25.png]]
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_geometria_solida|Geometria solida]]
 **Metodo:** [[method_casework|Casework]], [[method_invarianti|Invarianti]]
 **Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
-
-[[Quesiti/src_obm_2005_n2_f1#q25|src_obm_2005_n2_f1__Q25]]

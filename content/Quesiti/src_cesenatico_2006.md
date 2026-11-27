@@ -10,7 +10,7 @@ level: nazionale
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_logica,skill_modellizzazione"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_logica,topic_aritmetica,method_invarianti,method_congruenze,skill_modellizzazione"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -19,9 +19,10 @@ level: nazionale
 
 > Rosa e Savino fanno il seguente gioco con le carte napoletane (40 carte numerate da 1 a 10 di 4 semi diversi): inizialmente si dividono le 40 carte (20 per ciascuno), poi a turno appoggiano sul tavolo una carta. Quando alcune delle carte presenti sul tavolo hanno dei valori la cui somma fa esattamente 15, queste carte vengono eliminate dal gioco (se ci sono più modi di ottenere somma 15, il giocatore che ha appoggiato l'ultima carta decide quali sono le carte con somma di valori uguale a 15 da eliminare). Alla fine della partita sono rimaste 2 carte in mano a Savino (un 5 ed un 3), una carta sul tavolo (un 9) e una carta in mano a Rosa. Qual è il valore della carta di Rosa?
 
-**Topic:** [[topic_logica|Logica, giochi, strategie]]
+**Topic:** [[topic_logica|Logica, giochi, strategie]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_invarianti|Invarianti / monovarianti]], [[method_congruenze|Aritmetica modulare / congruenze]]
 **Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
-**Area:** [[Combinatoria, Logica e Probabilita]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 34
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1a5Lshf2bV_5u5VJu3USrqJtBqyLicefL/view)
 
@@ -33,15 +34,15 @@ level: nazionale
 
 > Rosa and Savino play the following game with Neapolitan cards (40 cards numbered from 1 to 10 in 4 different suits): initially, the 40 cards are divided (20 each), and then, in turn, they place one card on the table. When some of the cards on the table have values whose sum is exactly 15, these cards are removed from the game (if there are multiple ways to get a sum of 15, the player who placed the last card decides which cards with a total value of 15 are to be removed). At the end of the game, Savino has 2 cards in hand (a 5 and a 3), there is one card on the table (a 9), and Rosa has one card in hand. What is the value of Rosa's card?
 
-**Topic:** [[topic_logica|Logic, games and strategies]]
+
+**Topic:** [[topic_logica|Logic, games and strategies]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_invarianti|Invariants / monovariants]], [[method_congruenze|Modular arithmetic / congruences]]
 **Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
-**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
-
-[[Quesiti/src_cesenatico_2006#q01|src_cesenatico_2006__Q01]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
 
 
-<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_aritmetica"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_aritmetica,method_fattorizzazione,method_casework,skill_manipolazione_algebrica,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -51,6 +52,8 @@ level: nazionale
 > Determinare tutti i valori di $m$, $n$ tali che $p^n + 144 = m^2$, dove $m$ ed $n$ sono interi positivi e $p$ è un numero primo.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]], [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** (20,2,40),(4,3,12),(12,1,12)
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1a5Lshf2bV_5u5VJu3USrqJtBqyLicefL/view)
@@ -63,14 +66,15 @@ level: nazionale
 
 > Determine all values of $m$, $n$ such that $p^n + 144 = m^2$, where $m$ and $n$ are positive integers and $p$ is a prime number.
 
+
 **Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]], [[method_casework|Case analysis]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_casework_accurato|Careful case analysis]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
-[[Quesiti/src_cesenatico_2006#q02|src_cesenatico_2006__Q02]]
 
 
-
-<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_geometria_piana,skill_ragionamento_geometrico"></span>
+<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_geometria_piana,method_coordinate,method_simmetria,skill_ragionamento_geometrico"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -82,6 +86,7 @@ level: nazionale
 > Sia $\Gamma$ una circonferenza e siano $A$ e $B$ due punti distinti di $\Gamma$ non diametralmente opposti. Sia $P$ un punto variabile in $\Gamma$ diverso da $A$ e da $B$ e sia $H$ l'ortocentro del triangolo $ABP$. Determinare il luogo descritto da $H$ al variare di $P$.
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_coordinate|Metodo delle coordinate]], [[method_simmetria|Sfruttamento della simmetria]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]]
 **Risposta:** dimostrato (proprieta del baricentro)
@@ -97,15 +102,15 @@ level: nazionale
 
 > Let $\Gamma$ be a circle, and let $A$ and $B$ be two distinct points on $\Gamma$ that are not diametrically opposite. Let $P$ be a variable point in $\Gamma$, different from $A$ and $B$, and let $H$ be the orthocenter of the triangle $ABP$. Determine the locus described by $H$ as $P$ varies.
 
+
 **Topic:** [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_coordinate|Coordinate method]], [[method_simmetria|Using symmetry]]
 **Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
 **Area:** [[Geometria|Geometry]]
 
-[[Quesiti/src_cesenatico_2006#q03|src_cesenatico_2006__Q03]]
 
 
-
-<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_combinatoria,method_invarianti"></span>
+<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_combinatoria,topic_aritmetica,method_invarianti,method_congruenze,method_casework,skill_riconoscimento_pattern,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -120,9 +125,10 @@ level: nazionale
 > 
 > (b) Determinare se esistono semirette a 2 a 2 disgiunte, le cui caselle non contengono numeri multipli di 3.
 
-**Topic:** [[topic_combinatoria|Combinatoria]]
-**Metodo:** [[method_invarianti|Invarianti / monovarianti]]
-**Area:** [[Combinatoria, Logica e Probabilita]]
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_invarianti|Invarianti / monovarianti]], [[method_congruenze|Aritmetica modulare / congruenze]], [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** dimostrato
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1a5Lshf2bV_5u5VJu3USrqJtBqyLicefL/view)
 
@@ -140,15 +146,15 @@ level: nazionale
 >
 > (b) Determine whether there exist pairwise disjoint right rays whose squares do not contain multiples of 3.
 
-**Topic:** [[topic_combinatoria|Combinatorics]]
-**Metodo:** [[method_invarianti|Invariants / monovariants]]
-**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
-[[Quesiti/src_cesenatico_2006#q04|src_cesenatico_2006__Q04]]
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_invarianti|Invariants / monovariants]], [[method_congruenze|Modular arithmetic / congruences]], [[method_casework|Case analysis]]
+**Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]], [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
 
 
-<span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_disuguaglianze,method_disuguaglianze"></span>
+<span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_disuguaglianze,method_disuguaglianze,method_fattorizzazione,method_casework,skill_manipolazione_algebrica,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -163,7 +169,8 @@ level: nazionale
 > (b) Determinare per quali $n \geq 3$ è vera per ogni possibile scelta di numeri reali $x_1, x_2, \ldots, x_n$.
 
 **Topic:** [[topic_disuguaglianze|Disuguaglianze]]
-**Metodo:** [[method_disuguaglianze|Disuguaglianze classiche]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze classiche]], [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]], [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Algebra e Analisi]]
 **Risposta:** (a) vera per n>=4; (b) falsa per n piccolo
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1a5Lshf2bV_5u5VJu3USrqJtBqyLicefL/view)
@@ -181,15 +188,15 @@ level: nazionale
 >
 > (b) Determine for which $n \geq 3$ it holds for every possible choice of real numbers $x_1, x_2, \ldots, x_n$.
 
+
 **Topic:** [[topic_disuguaglianze|Inequalities]]
-**Metodo:** [[method_disuguaglianze|Classical inequalities]]
+**Metodo:** [[method_disuguaglianze|Classical inequalities]], [[method_fattorizzazione|Factorisation / algebraic manipulation]], [[method_casework|Case analysis]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_casework_accurato|Careful case analysis]]
 **Area:** [[Algebra e Analisi|Algebra and analysis]]
 
-[[Quesiti/src_cesenatico_2006#q05|src_cesenatico_2006__Q05]]
 
 
-
-<span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_logica,method_invarianti"></span>
+<span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_logica,method_invarianti,skill_riconoscimento_pattern,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -207,6 +214,7 @@ level: nazionale
 
 **Topic:** [[topic_logica|Logica, giochi, strategie]]
 **Metodo:** [[method_invarianti|Invarianti / monovarianti]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** dimostrata strategia vincente
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1a5Lshf2bV_5u5VJu3USrqJtBqyLicefL/view)
@@ -226,8 +234,8 @@ level: nazionale
 >
 > Let $C_0, C_1, C_2, \ldots$ be the configurations of piles present at the start of the game, after the first move, after the second move, and so on. For each configuration $C_i$, let $s_i$ be the number of piles that have a number of tokens $a_1, a_2, \ldots, a_k$ greater than 1, and let $e_i$ be the number of piles with exactly one token. Let then $m_i = (a_1 - 1) + \cdots + (a_k - 1)$. Prove that Barbara has a winning strategy if $m_0$ and $s_0$ are both even, and that Alberto has a winning strategy in all other cases. The winning strategy is to leave the opponent, on each move, with a configuration $C_i$ such that $m_i$ and $s_i$ are both even.
 
+
 **Topic:** [[topic_logica|Logic, games and strategies]]
 **Metodo:** [[method_invarianti|Invariants / monovariants]]
+**Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]], [[skill_casework_accurato|Careful case analysis]]
 **Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
-
-[[Quesiti/src_cesenatico_2006#q06|src_cesenatico_2006__Q06]]

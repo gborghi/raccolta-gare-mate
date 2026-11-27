@@ -10,7 +10,7 @@ level: OBM Nível Universitário
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_algebra,topic_trigonometria,method_disuguaglianze,skill_manipolazione_algebrica,skill_stima"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_algebra,topic_trigonometria,method_disuguaglianze,method_trigonometria,skill_manipolazione_algebrica,skill_stima"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -23,9 +23,9 @@ level: OBM Nível Universitário
 > $$\prod_{j=0}^{k-1} |\sin(2^j x)| = |\sin(x) \cdot \sin(2x) \cdots \sin(2^{k-1} x)| \le \left(\frac{\sqrt{3}}{2}\right)^k.$$
 
 **Topic:** [[topic_algebra|Algebra]], [[topic_trigonometria|Trigonometria]]
-**Metodo:** [[method_disuguaglianze|Disuguaglianze]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze]], [[method_trigonometria|Trigonometric techniques]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]]
-**Area:** [[Algebra e Analisi]], [[Geometria]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Geometria|Geometry]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1VJG3lcmttXkoTtSX_ZbVy5feO9Uy-VFe/view)
 
 
@@ -39,12 +39,11 @@ level: OBM Nível Universitário
 > **b)** Dimostrare che, per ogni numero intero positivo $k$, se $x = \dfrac{2\pi r}{2^k - 1}$ con $r \in \mathbb{Z}$, allora
 > $$\prod_{j=0}^{k-1} |\sin(2^j x)| = |\sin(x) \cdot \sin(2x) \cdots \sin(2^{k-1} x)| \le \left(\frac{\sqrt{3}}{2}\right)^k.$$
 
+
 **Topic:** [[topic_algebra|Algebra]], [[topic_trigonometria|Trigonometria]]
-**Metodo:** [[method_disuguaglianze|Disuguaglianze]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze]], [[method_trigonometria|Tecniche trigonometriche]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]]
 **Area:** [[Algebra e Analisi]], [[Geometria]]
-
-[[Quesiti/src_obm_2012_nu_f1#q01|src_obm_2012_nu_f1__Q01]]
 
 
 
@@ -84,8 +83,6 @@ level: OBM Nível Universitário
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Algebra e Analisi]]
 
-[[Quesiti/src_obm_2012_nu_f1#q02|src_obm_2012_nu_f1__Q02]]
-
 
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_algebra,method_fattorizzazione,skill_manipolazione_algebrica,skill_astrazione"></span>
@@ -116,11 +113,9 @@ level: OBM Nível Universitário
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]]
 **Area:** [[Algebra e Analisi]]
 
-[[Quesiti/src_obm_2012_nu_f1#q03|src_obm_2012_nu_f1__Q03]]
 
 
-
-<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_aritmetica,topic_combinatoria,method_ricorsione,method_estremalita,skill_lettura_attenta,skill_riconoscimento_pattern,skill_stima"></span>
+<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_aritmetica,topic_combinatoria,topic_funzionali,method_ricorsione,method_estremalita,skill_lettura_attenta,skill_riconoscimento_pattern,skill_stima"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -129,10 +124,10 @@ level: OBM Nível Universitário
 
 > Let $(x_n)$ and $(y_n)$ be two sequences defined by $x_1 = 2$, $y_1 = 2012$, $x_{n+1} = (x_n)!$, and $y_{n+1} = (y_n)!$, for all $n \ge 1$. Determine the smallest positive integer $k$ such that $x_k > y_{2012}$.
 
-**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]], [[topic_funzionali|Functional equations / sequences]]
 **Metodo:** [[method_ricorsione|Ricorsione]], [[method_estremalita|Estremalità]]
 **Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_stima|Stima]]
-**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Algebra e Analisi|Algebra and analysis]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1VJG3lcmttXkoTtSX_ZbVy5feO9Uy-VFe/view)
 
 
@@ -143,12 +138,11 @@ level: OBM Nível Universitário
 
 > Siano $(x_n)$ e $(y_n)$ due successioni definite da $x_1 = 2$, $y_1 = 2012$, $x_{n+1} = (x_n)!$ e $y_{n+1} = (y_n)!$, per ogni $n \ge 1$. Determinare il più piccolo intero positivo $k$ tale che $x_k > y_{2012}$.
 
-**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]], [[topic_funzionali|Equazioni funzionali / successioni]]
 **Metodo:** [[method_ricorsione|Ricorsione]], [[method_estremalita|Estremalità]]
 **Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_stima|Stima]]
-**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
-
-[[Quesiti/src_obm_2012_nu_f1#q04|src_obm_2012_nu_f1__Q04]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]], [[Algebra e Analisi]]
 
 
 
@@ -180,8 +174,6 @@ level: OBM Nível Universitário
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Casework accurato]], [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Algebra e Analisi]]
 
-[[Quesiti/src_obm_2012_nu_f1#q05|src_obm_2012_nu_f1__Q05]]
-
 
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_geometria_analitica,topic_algebra,method_telescoping,method_disuguaglianze,skill_modellizzazione,skill_manipolazione_algebrica,skill_stima,skill_ragionamento_geometrico"></span>
@@ -211,5 +203,3 @@ level: OBM Nível Universitário
 **Metodo:** [[method_telescoping|Telescoping]], [[method_disuguaglianze|Disuguaglianze]]
 **Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]], [[Algebra e Analisi]]
-
-[[Quesiti/src_obm_2012_nu_f1#q06|src_obm_2012_nu_f1__Q06]]

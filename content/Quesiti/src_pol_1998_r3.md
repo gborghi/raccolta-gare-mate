@@ -39,12 +39,11 @@ level: Olimpiade Polacca Round 3
 **Topic:** [[topic_aritmetica|Aritmetica e teoria dei numeri]], [[topic_algebra|Algebra]]
 **Metodo:** [[method_casework|Analisi per casi]], [[method_fattorizzazione|Fattorizzazione]], [[method_estremalita|Estremalità]]
 **Abilita:** [[skill_casework_accurato|Analisi accurata dei casi]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]]
-
-[[Quesiti/src_pol_1998_r3#q01|src_pol_1998_r3__Q01]]
-
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 
 
-<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_aritmetica,topic_algebra,method_ricorsione,method_induzione,method_congruenze,skill_riconoscimento_pattern,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
+
+<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_aritmetica,topic_algebra,topic_funzionali,method_ricorsione,method_induzione,method_congruenze,skill_riconoscimento_pattern,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -55,10 +54,10 @@ level: Olimpiade Polacca Round 3
 > $$a_0 = \frac{F_0}{F_n}, \quad a_{k+1} = \begin{cases} \dfrac{2a_k}{1 - a_k} & \text{for } a_k \ne 1, \\ a_k & \text{for } a_k = 1, \end{cases} \quad k = 0, 1, 2, \ldots$$
 > Find all integers $n \ge 4$ for which the number $1$ is a member of the sequence $(a_k)$.
 
-**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]], [[topic_funzionali|Functional equations / sequences]]
 **Metodo:** [[method_ricorsione|Ricorsione]], [[method_induzione|Induzione]], [[method_congruenze|Congruenze]]
 **Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
-**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Algebra e Analisi|Algebra and analysis]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1HNzsYtp4f53ox4csFAmBEErk9uGCnNXP/view)
 
 
@@ -73,11 +72,11 @@ level: Olimpiade Polacca Round 3
 >
 > Trovare tutti gli interi $n \ge 4$ per cui il numero $1$ appartiene alla successione $(a_k)$.
 
-**Topic:** [[topic_aritmetica|Aritmetica e teoria dei numeri]], [[topic_algebra|Algebra]]
+
+**Topic:** [[topic_aritmetica|Aritmetica e teoria dei numeri]], [[topic_algebra|Algebra]], [[topic_funzionali|Equazioni funzionali / successioni]]
 **Metodo:** [[method_ricorsione|Ricorsione]], [[method_induzione|Induzione]], [[method_congruenze|Congruenze]]
 **Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di schemi]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
-
-[[Quesiti/src_pol_1998_r3#q02|src_pol_1998_r3__Q02]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 
 
 
@@ -107,8 +106,7 @@ level: Olimpiade Polacca Round 3
 **Topic:** [[topic_geometria_solida|Geometria solida]], [[topic_geometria_analitica|Geometria analitica]]
 **Metodo:** [[method_coordinate|Coordinate]], [[method_simmetria|Simmetria]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]], [[skill_astrazione|Astrazione]]
-
-[[Quesiti/src_pol_1998_r3#q03|src_pol_1998_r3__Q03]]
+**Area:** [[Geometria]]
 
 
 
@@ -138,12 +136,11 @@ level: Olimpiade Polacca Round 3
 **Topic:** [[topic_aritmetica|Aritmetica e teoria dei numeri]]
 **Metodo:** [[method_congruenze|Congruenze]], [[method_ricorsione|Ricorsione]], [[method_invarianti|Invarianti]], [[method_cassetti|Principio dei cassetti]]
 **Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di schemi]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
-
-[[Quesiti/src_pol_1998_r3#q04|src_pol_1998_r3__Q04]]
-
+**Area:** [[Aritmetica e Teoria dei Numeri]]
 
 
-<span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_geometria_piana,method_trigonometria,method_simmetria,skill_ragionamento_geometrico,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
+
+<span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_geometria_piana,topic_trigonometria,method_trigonometria,method_simmetria,skill_ragionamento_geometrico,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -154,10 +151,10 @@ level: Olimpiade Polacca Round 3
 > $$\frac{AD}{DB} = \frac{AE}{EB} = \frac{AC^2}{CB^2}.$$
 > Prove that $\angle ACD = \angle BCE$.
 
-**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometry]]
 **Metodo:** [[method_trigonometria|Trigonometria]], [[method_simmetria|Simmetria]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
-**Area:** [[Geometria]]
+**Area:** [[Geometria|Geometry]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1HNzsYtp4f53ox4csFAmBEErk9uGCnNXP/view)
 
 
@@ -172,15 +169,15 @@ level: Olimpiade Polacca Round 3
 >
 > Dimostrare che $\angle ACD = \angle BCE$.
 
-**Topic:** [[topic_geometria_piana|Geometria piana]]
+
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometria]]
 **Metodo:** [[method_trigonometria|Trigonometria]], [[method_simmetria|Simmetria]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
-
-[[Quesiti/src_pol_1998_r3#q05|src_pol_1998_r3__Q05]]
-
+**Area:** [[Geometria]]
 
 
-<span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_combinatoria,topic_algebra,method_invarianti,method_colorazione,method_casework,skill_astrazione,skill_riconoscimento_pattern,skill_modellizzazione,skill_ragionamento_geometrico"></span>
+
+<span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_combinatoria,topic_algebra,method_invarianti,method_colorazione,method_casework,method_congruenze,skill_astrazione,skill_riconoscimento_pattern,skill_modellizzazione,skill_ragionamento_geometrico"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -190,9 +187,9 @@ level: Olimpiade Polacca Round 3
 > Consider unit squares in the plane whose vertices have integer coordinates. Let $S$ be the chessboard consisting of all unit squares lying entirely inside the circle $x^2 + y^2 \le 1998^2$. In every square of the chessboard $S$ a number is written. In every move, we may change the sign of all numbers in a row, column, or diagonal of $S$ (a diagonal consists of all unit squares lying on a line which forms an angle of $45^\circ$ with the axes). Is it possible to have $-1$ in exactly one unit square of $S$ after finitely many moves?
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_algebra|Algebra]]
-**Metodo:** [[method_invarianti|Invarianti]], [[method_colorazione|Colorazione]], [[method_casework|Casework]]
+**Metodo:** [[method_invarianti|Invarianti]], [[method_colorazione|Colorazione]], [[method_casework|Casework]], [[method_congruenze|Modular arithmetic / congruences]]
 **Abilita:** [[skill_astrazione|Astrazione]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_modellizzazione|Modellizzazione]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
-**Area:** [[Combinatoria, Logica e Probabilita]], [[Algebra e Analisi]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Algebra e Analisi|Algebra and analysis]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1HNzsYtp4f53ox4csFAmBEErk9uGCnNXP/view)
 
 
@@ -203,8 +200,8 @@ level: Olimpiade Polacca Round 3
 
 > Si considerino i quadrati unitari del piano i cui vertici hanno coordinate intere. Sia $S$ la scacchiera formata da tutti i quadrati unitari interamente contenuti nel cerchio $x^2 + y^2 \le 1998^2$. In ogni quadrato della scacchiera $S$ è scritto un numero. A ogni mossa si può cambiare il segno di tutti i numeri di una riga, di una colonna o di una diagonale di $S$ (una diagonale è l'insieme dei quadrati unitari che giacciono su una retta che forma un angolo di $45^\circ$ con gli assi). È possibile ottenere $-1$ in esattamente un quadrato unitario di $S$ dopo un numero finito di mosse?
 
-**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_algebra|Algebra]]
-**Metodo:** [[method_invarianti|Invarianti]], [[method_colorazione|Colorazione]], [[method_casework|Analisi per casi]]
-**Abilita:** [[skill_astrazione|Astrazione]], [[skill_riconoscimento_pattern|Riconoscimento di schemi]], [[skill_modellizzazione|Modellizzazione]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 
-[[Quesiti/src_pol_1998_r3#q06|src_pol_1998_r3__Q06]]
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_invarianti|Invarianti]], [[method_colorazione|Colorazione]], [[method_casework|Analisi per casi]], [[method_congruenze|Aritmetica modulare / congruenze]]
+**Abilita:** [[skill_astrazione|Astrazione]], [[skill_riconoscimento_pattern|Riconoscimento di schemi]], [[skill_modellizzazione|Modellizzazione]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Algebra e Analisi]]

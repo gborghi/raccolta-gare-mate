@@ -37,8 +37,6 @@ level: kangourou
 **Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
-[[Quesiti/src_kangourou_2007_ecolier_maggio#qe1|src_kangourou_2007_ecolier_maggio__QE1]]
-
 
 
 <span class="atom-split" id="qe2" data-atom="qe2" data-title="Quesito E2" data-tags="topic_geometria_piana,method_invarianti,skill_ragionamento_geometrico"></span>
@@ -48,7 +46,7 @@ level: kangourou
 
 *Area del tappeto quadrato di sbieco*
 
-![[src_kangourou_2007_ecolier_maggio__probe2.png]]
+![[src_kangourou_2007_ecolier_maggio__probE2.png]]
 
 > 2) Puoi rimanere con un solo gettone? In che modo (o, in caso negativo, perché no)?
 
@@ -65,7 +63,7 @@ level: kangourou
 
 *Area of the diagonal of the square carpet*
 
-![[src_kangourou_2007_ecolier_maggio__probe2.png]]
+![[src_kangourou_2007_ecolier_maggio__probE2.png]]
 
 > 2) Can you stay with only one token? How (or, if not, why not)?
 
@@ -73,8 +71,6 @@ level: kangourou
 **Metodo:** [[method_invarianti|Invariants / monovariants]]
 **Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
 **Area:** [[Geometria|Geometry]]
-
-[[Quesiti/src_kangourou_2007_ecolier_maggio#qe2|src_kangourou_2007_ecolier_maggio__QE2]]
 
 
 
@@ -85,7 +81,7 @@ level: kangourou
 
 *Modi di scegliere tre pezzi per quadrato 3x3*
 
-![[src_kangourou_2007_ecolier_maggio__probe3.png]]
+![[src_kangourou_2007_ecolier_maggio__probE3.png]]
 
 > 3) Puoi eliminare tutti i gettoni? In che modo (o, in caso negativo, perché no)? E6. (22 punti ) Alcuni fra i numeri interi che hanno 6 come cifra delle unità hanno anche questa proprietà: se sposti la cifra 6 delle unità davanti alla prima cifra del numero, ottieni un nuovo numero che è il prodotto del numero di partenza per 4. Trova il più piccolo numero intero con questa proprietà. • Trovane poi altri. •
 
@@ -102,7 +98,7 @@ level: kangourou
 
 *Ways to choose three pieces for a 3x3 square*
 
-![[src_kangourou_2007_ecolier_maggio__probe3.png]]
+![[src_kangourou_2007_ecolier_maggio__probE3.png]]
 
 > 3) Can you remove all the tokens? How? (Or, if not, why not?) E6. (22 points) Some of the integers that have 6 as their units digit also have this property: if you move the 6 in the units place to the front of the first digit of the number, you get a new number that is the product of the original number and 4. Find the smallest integer with this property. • Then find others. •
 
@@ -111,11 +107,9 @@ level: kangourou
 **Abilita:** [[skill_casework_accurato|Careful case analysis]]
 **Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
-[[Quesiti/src_kangourou_2007_ecolier_maggio#qe3|src_kangourou_2007_ecolier_maggio__QE3]]
 
 
-
-<span class="atom-split" id="qe4" data-atom="qe4" data-title="Quesito E4" data-tags="topic_aritmetica,method_doppio_conteggio,skill_modellizzazione"></span>
+<span class="atom-split" id="qe4" data-atom="qe4" data-title="Quesito E4" data-tags="topic_aritmetica,topic_combinatoria,method_doppio_conteggio,method_fattorizzazione,skill_modellizzazione,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -124,10 +118,10 @@ level: kangourou
 
 > In una classe in cui ci sono almeno due maschi e due femmine, ogni ragazzo stringe una volta la mano a ogni ragazza. In totale sono state effettuate 65 strette di mano. Quanti sono gli allievi (senza distinguere tra maschi e femmine) di quella classe?
 
-**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_doppio_conteggio|Doppio conteggio]]
-**Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
-**Area:** [[Aritmetica e Teoria dei Numeri]]
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_doppio_conteggio|Doppio conteggio]], [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 18
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1fZINTJ5guIb2ezsX6JthVc7FkvQfrpis/view)
 
@@ -139,12 +133,11 @@ level: kangourou
 
 > In a class containing at least two boys and two girls, each boy shakes hands with each girl once. In total, 65 handshakes have taken place. How many students are there in that class (without distinguishing between boys and girls)?
 
-**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
-**Metodo:** [[method_doppio_conteggio|Double counting]]
-**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
-**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
-[[Quesiti/src_kangourou_2007_ecolier_maggio#qe4|src_kangourou_2007_ecolier_maggio__QE4]]
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_doppio_conteggio|Double counting]], [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]], [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
 
 
@@ -197,11 +190,9 @@ level: kangourou
 **Abilita:** [[skill_astrazione|Abstraction / generalisation]]
 **Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
-[[Quesiti/src_kangourou_2007_ecolier_maggio#qe5|src_kangourou_2007_ecolier_maggio__QE5]]
 
 
-
-<span class="atom-split" id="qe6" data-atom="qe6" data-title="Quesito E6" data-tags="topic_aritmetica,method_congruenze,skill_riconoscimento_pattern"></span>
+<span class="atom-split" id="qe6" data-atom="qe6" data-title="Quesito E6" data-tags="topic_aritmetica,topic_algebra,method_congruenze,method_fattorizzazione,skill_riconoscimento_pattern,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -213,10 +204,10 @@ level: kangourou
 > - Trova il più piccolo numero intero con questa proprietà.
 > - Trovane poi altri.
 
-**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]]
-**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
-**Area:** [[Aritmetica e Teoria dei Numeri]]
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]], [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 **Risposta:** 153846
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1fZINTJ5guIb2ezsX6JthVc7FkvQfrpis/view)
 
@@ -231,9 +222,8 @@ level: kangourou
 > - Find the smallest integer with this property.
 > - Then find some others.
 
-**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
-**Metodo:** [[method_congruenze|Modular arithmetic / congruences]]
-**Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]]
-**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
-[[Quesiti/src_kangourou_2007_ecolier_maggio#qe6|src_kangourou_2007_ecolier_maggio__QE6]]
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]], [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Algebra e Analisi|Algebra and analysis]]

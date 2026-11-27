@@ -10,7 +10,7 @@ level: squadre
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_geometria_piana"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_geometria_piana,method_estremalita,skill_modellizzazione,skill_ragionamento_geometrico"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -31,9 +31,11 @@ level: squadre
 > Papà Beldar Quanto misura in mm^2 al minimo l’area dello scontrino piegato?
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_estremalita|Principio di estremalita]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]]
 **Risposta:** 6171
-**Fonte:** apri PDF p.2 · phiquadro.it, Archivio gare ufficiali 2017 (= fairmath.it, Coppa Gauss 2017)
+**Fonte:** [apri PDF p.2](https://www.phiquadro.it/archivio/2017_3%20marzo%20-%20Gara%20.pdf#page=2) · phiquadro.it, Archivio gare ufficiali 2017 (= fairmath.it, Coppa Gauss 2017)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -46,14 +48,15 @@ level: squadre
 > The Conehead Family
 > Connie: I went grocery shopping. At the supermarket checkout, they handed me a rectangular receipt; I measured its sides. They are 8 cm and 54 cm long. I put it in my pocket, but it got a lot of creases. Daddy Beldar: What is the area of the folded receipt? Connie: I don't know! Daddy Beldar: Use this nail and pierce all the layers of the folded receipt. How many times did you pierce the paper? Connie: Seven. Daddy Beldar: What is the minimum area of the folded receipt in mm²?
 
+
 **Topic:** [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_estremalita|Extremal principle]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]], [[skill_ragionamento_geometrico|Geometric reasoning]]
 **Area:** [[Geometria|Geometry]]
 
-[[Quesiti/src_gs_2017#q01|src_gs_2017__Q01]]
 
 
-
-<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags=""></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_algebra,topic_aritmetica,method_congruenze,skill_modellizzazione,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -76,8 +79,12 @@ level: squadre
 > folli!
 > Voce fuori campo Quanto ha pagato Fox in centesimi?
 
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 1450
-**Fonte:** apri PDF p.2 · phiquadro.it, Archivio gare ufficiali 2017 (= fairmath.it, Coppa Gauss 2017)
+**Fonte:** [apri PDF p.2](https://www.phiquadro.it/archivio/2017_3%20marzo%20-%20Gara%20.pdf#page=2) · phiquadro.it, Archivio gare ufficiali 2017 (= fairmath.it, Coppa Gauss 2017)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -90,11 +97,14 @@ level: squadre
 > The Festrunks Brothers
 > Yortuk The bill for the pizzas is 45.10$. Georg La mia pizza costava meno della sua. Fox Ma non mi offrite nemmeno la pizza?!? Yortuk Facciamo così: Fox paga 1\$ per person wearing a black T-shirt and present in the bar, 0.50$ per ogni persona con una maglietta rossa; Georg paga 1, 30\$ per person wearing a red T-shirt and present in the bar, and 0.50$ per ogni persona con una maglietta nera; io pago 0, 50\$ per every other person (that is, a person present in the bar who is wearing neither a red nor a black T-shirt). They pay and leave the bar. Fox How did you know we would pay exactly the bill? Yortuk Because there were 50 people in the bar. (Together with Georg) We're two spontaneous, crazy guys! Off-screen voice How many cents did Fox pay?
 
-[[Quesiti/src_gs_2017#q02|src_gs_2017__Q02]]
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
 
 
-<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_geometria_solida"></span>
+<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_geometria_solida,skill_modellizzazione,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -117,9 +127,10 @@ level: squadre
 > Voce fuori campo Quanti recipienti gialli riempie Julia?
 
 **Topic:** [[topic_geometria_solida|Geometria solida]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta del testo]]
 **Area:** [[Geometria]]
 **Risposta:** 0006
-**Fonte:** apri PDF p.2 · phiquadro.it, Archivio gare ufficiali 2017 (= fairmath.it, Coppa Gauss 2017)
+**Fonte:** [apri PDF p.2](https://www.phiquadro.it/archivio/2017_3%20marzo%20-%20Gara%20.pdf#page=2) · phiquadro.it, Archivio gare ufficiali 2017 (= fairmath.it, Coppa Gauss 2017)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -132,14 +143,14 @@ level: squadre
 > In the Kitchen with Julia
 > Julia (Speaking to the camera in a very decisive but cheerful tone): Dear friends, look at this white cylindrical container full of sauce—you might think it's blood (She dips a ladle into the container and pulls it out all red), but it's actually tomato sauce. I made it by squeezing 43 tomatoes and then straining them very carefully, just as I learned to do in Paris. You always have to pay close attention to the dimensions of containers: this white one has a base diameter of 20 cm and a height of 24 cm. Those yellow cylindrical containers you see over there have a base diameter of 12 cm and a height of 10 cm. So—just to show those stupid chauvinist males who think women can't do math—we know how many containers we'll be able to fill completely, because then we'll have to seal them airtight. (The TV broadcast cuts off abruptly.) Off-screen voice: How many yellow containers does Julia fill?
 
+
 **Topic:** [[topic_geometria_solida|Solid geometry]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]], [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_lettura_attenta|Careful reading of the text]]
 **Area:** [[Geometria|Geometry]]
 
-[[Quesiti/src_gs_2017#q03|src_gs_2017__Q03]]
 
 
-
-<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags=""></span>
+<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_aritmetica,method_congruenze,skill_casework_accurato,skill_modellizzazione,skill_conteggio_sistematico"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -159,8 +170,12 @@ level: squadre
 > Voce fuori campo Quante mele raccoglierà Samurai Futaba da oggi, venerdì 3
 > marzo 2017, al 31 dicembre di quest’anno?
 
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]]
+**Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 0302
-**Fonte:** apri PDF p.2 · phiquadro.it, Archivio gare ufficiali 2017 (= fairmath.it, Coppa Gauss 2017)
+**Fonte:** [apri PDF p.2](https://www.phiquadro.it/archivio/2017_3%20marzo%20-%20Gara%20.pdf#page=2) · phiquadro.it, Archivio gare ufficiali 2017 (= fairmath.it, Coppa Gauss 2017)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -173,11 +188,14 @@ level: squadre
 > Samurai Farm
 > Every day except Mondays, Samurai Futaba passes by an apple tree on which a new apple grows each night. Each day, Samurai Futaba carries different small fruit containers: on Tuesdays, containers holding 2 apples each; on Wednesdays, containers holding 3 apples each; on Thursdays, containers holding 4 apples each; on Fridays, containers holding 5 apples each; on Saturdays, containers holding 6 apples each; and on Sundays, containers holding 7 apples each. Samurai Futaba picks the apples from the tree exactly when there are enough apples to fill the containers he has with him that day with no empty spaces (for example, if on a Tuesday there are 5 apples on the tree, Samurai Futaba picks none; if there are 6, he picks all of them). Today, there is one apple on the tree.. Voice-over: How many apples will Samurai Futaba pick from today, Friday, March 3, 2017, to December 31 of this year?
 
-[[Quesiti/src_gs_2017#q04|src_gs_2017__Q04]]
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]], [[skill_modellizzazione|Modelling / translating the text]], [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
 
 
-<span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_geometria_piana"></span>
+<span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_geometria_piana,topic_algebra,method_congruenze,skill_modellizzazione,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -192,10 +210,12 @@ level: squadre
 > Connie Quanti minuti ci vorranno come minimo perché la lancetta delle ore e quella dei minuti
 > formino un angolo di 24°?
 
-**Topic:** [[topic_geometria_piana|Geometria piana]]
-**Area:** [[Geometria]]
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta del testo]]
+**Area:** [[Geometria]], [[Algebra e Analisi]]
 **Risposta:** 0192
-**Fonte:** apri PDF p.2 · phiquadro.it, Archivio gare ufficiali 2017 (= fairmath.it, Coppa Gauss 2017)
+**Fonte:** [apri PDF p.2](https://www.phiquadro.it/archivio/2017_3%20marzo%20-%20Gara%20.pdf#page=2) · phiquadro.it, Archivio gare ufficiali 2017 (= fairmath.it, Coppa Gauss 2017)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -208,14 +228,15 @@ level: squadre
 > Connie counts the minutes
 > Connie: Dad, look at that clock on the wall. The hands jump forward every minute. Dad Beldar: It's noon now. Connie: How many minutes will it take at minimum for the hour hand and the minute hand to form an angle of 24°?
 
-**Topic:** [[topic_geometria_piana|Plane geometry]]
-**Area:** [[Geometria|Geometry]]
 
-[[Quesiti/src_gs_2017#q05|src_gs_2017__Q05]]
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]], [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_lettura_attenta|Careful reading of the text]]
+**Area:** [[Geometria|Geometry]], [[Algebra e Analisi|Algebra and analysis]]
 
 
 
-<span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_geometria_solida,topic_probabilita"></span>
+<span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_geometria_solida,topic_probabilita,method_ricorsione,skill_modellizzazione,skill_riconoscimento_pattern,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -238,9 +259,11 @@ level: squadre
 > termini.]
 
 **Topic:** [[topic_geometria_solida|Geometria solida]], [[topic_probabilita|Probabilita e statistica]]
+**Metodo:** [[method_ricorsione|Ricorsione]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 1513
-**Fonte:** apri PDF p.3 · phiquadro.it, Archivio gare ufficiali 2017 (= fairmath.it, Coppa Gauss 2017)
+**Fonte:** [apri PDF p.3](https://www.phiquadro.it/archivio/2017_3%20marzo%20-%20Gara%20.pdf#page=3) · phiquadro.it, Archivio gare ufficiali 2017 (= fairmath.it, Coppa Gauss 2017)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -253,14 +276,15 @@ level: squadre
 > The Conehead family's hen
 > Papa Beldar is at the front door of the house and is looking at his very rare hen. The hen lays eggs only at 8 a.m. and not every day. The probability that she will lay an egg at 8 a.m. is n/(n + 1), where n is the number of days that have passed since the last egg was laid. He turns toward the inside.. Papa Beldar: It's 9 a.m. on Friday; an hour ago, the hen laid an egg. I'm leaving now and will be back exactly at 9 a.m. next Friday. Bye! (He touches Mamma Prymaat's and Connie's heads with his conical head.) Voice-over: What is the probability of finding at least 5 new eggs when he returns? [Give as the answer the sum of the numerator and denominator of the fraction reduced to its lowest terms.]
 
+
 **Topic:** [[topic_geometria_solida|Solid geometry]], [[topic_probabilita|Probability and statistics]]
+**Metodo:** [[method_ricorsione|Recursion]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]], [[skill_riconoscimento_pattern|Pattern recognition]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
 **Area:** [[Geometria|Geometry]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
-[[Quesiti/src_gs_2017#q06|src_gs_2017__Q06]]
 
 
-
-<span class="atom-split" id="q07" data-atom="q07" data-title="Quesito 7" data-tags="topic_funzionali"></span>
+<span class="atom-split" id="q07" data-atom="q07" data-title="Quesito 7" data-tags="topic_funzionali,method_ricorsione,skill_riconoscimento_pattern,skill_lettura_attenta"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -286,9 +310,11 @@ level: squadre
 > Voce fuori campo Che numero ha scritto ora Connie?
 
 **Topic:** [[topic_funzionali|Equazioni funzionali / successioni]]
+**Metodo:** [[method_ricorsione|Ricorsione]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_lettura_attenta|Lettura attenta del testo]]
 **Area:** [[Algebra e Analisi]]
 **Risposta:** 7763
-**Fonte:** apri PDF p.3 · phiquadro.it, Archivio gare ufficiali 2017 (= fairmath.it, Coppa Gauss 2017)
+**Fonte:** [apri PDF p.3](https://www.phiquadro.it/archivio/2017_3%20marzo%20-%20Gara%20.pdf#page=3) · phiquadro.it, Archivio gare ufficiali 2017 (= fairmath.it, Coppa Gauss 2017)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -301,14 +327,15 @@ level: squadre
 > The Italian figures
 > Dad Beldar: Shall we play the Italian numerals game? Connie: YES! Dad Beldar: Remember: l_d(n) denotes the number of letters in the Italian word that is the tens digit of the number n. For example, l_d(10) = 3. Connie: Whereas l_d(40) = 7. In Italian, there are 4 numerals with three letters, 3 numerals with four letters, one with five letters, one with six letters, and one with seven letters; right, Dad? Dad Beldar: Yes, well done! Now consider the sequence defined recursively by a_1 = 10, a_(n+1) = a_n + l_d(a_n). Connie: Now I'll write it all out (she starts writing very quickly on a sheet of paper). Ten minutes pass. Mom Prymaat comes in. Mom Prymaat: You're playing a game with Italian numerals. Connie, what number did you write just now? Connie: a_(2017). Off-screen voice: What number did Connie write just now?
 
+
 **Topic:** [[topic_funzionali|Functional equations / sequences]]
+**Metodo:** [[method_ricorsione|Recursion]]
+**Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]], [[skill_lettura_attenta|Careful reading of the text]]
 **Area:** [[Algebra e Analisi|Algebra and analysis]]
 
-[[Quesiti/src_gs_2017#q07|src_gs_2017__Q07]]
 
 
-
-<span class="atom-split" id="q08" data-atom="q08" data-title="Quesito 8" data-tags="topic_logica"></span>
+<span class="atom-split" id="q08" data-atom="q08" data-title="Quesito 8" data-tags="topic_logica,topic_algebra,method_casework,skill_casework_accurato,skill_modellizzazione,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -336,10 +363,12 @@ level: squadre
 > in atto il suo piano e che una persona ha vinto, qual è la durata effettiva
 > del viaggio in minuti? (Ogni sosta è compresa nel tempo di viaggio.)
 
-**Topic:** [[topic_logica|Logica, giochi, strategie]]
-**Area:** [[Combinatoria, Logica e Probabilita]]
+**Topic:** [[topic_logica|Logica, giochi, strategie]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta del testo]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Algebra e Analisi]]
 **Risposta:** 0090
-**Fonte:** apri PDF p.3 · phiquadro.it, Archivio gare ufficiali 2017 (= fairmath.it, Coppa Gauss 2017)
+**Fonte:** [apri PDF p.3](https://www.phiquadro.it/archivio/2017_3%20marzo%20-%20Gara%20.pdf#page=3) · phiquadro.it, Archivio gare ufficiali 2017 (= fairmath.it, Coppa Gauss 2017)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -352,14 +381,15 @@ level: squadre
 > The Journey of the Conehead Family
 > Outside, on Long Island. The Conehead family, as on every first day of the month, has to drive to Grandma's house. Each time, the trip lasts exactly an hour because Daddy always maintains the same speed—just a little below the limit. This time they've decided to play a game: starting at exactly 10:00 on the car's clock, each of them will bet on what time the same clock will show on arrival. But each of them has a strategy. Daddy Beldar (speaking to the camera before getting into the car to take the wheel): I've bet on 10:30. To win, I'll watch the odometer and drive at twice my usual speed. Mommy Prymaat: I've bet on 11:10. During the trip, I'll force them to stop for exactly 10 minutes by pretending to be unwell. Connie: I've bet on 10:40, and during the trip, when no one's looking, I'll set the clock back 20 minutes. Frank: I've bet on 11:20. To win, I'll modify the car's odometer so that it always shows one-third more than the actual speed. Voice-over: Knowing that exactly one of the four can't carry out their plan and that one person has won, what is the actual duration of the trip in minutes? (Each stop is included in the travel time.)
 
-**Topic:** [[topic_logica|Logic, games and strategies]]
-**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
-[[Quesiti/src_gs_2017#q08|src_gs_2017__Q08]]
+**Topic:** [[topic_logica|Logic, games and strategies]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]], [[skill_modellizzazione|Modelling / translating the text]], [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_lettura_attenta|Careful reading of the text]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Algebra e Analisi|Algebra and analysis]]
 
 
 
-<span class="atom-split" id="q09" data-atom="q09" data-title="Quesito 9" data-tags="topic_algebra"></span>
+<span class="atom-split" id="q09" data-atom="q09" data-title="Quesito 9" data-tags="topic_algebra,topic_aritmetica,method_fattorizzazione,method_conteggio,skill_manipolazione_algebrica,skill_conteggio_sistematico"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -376,10 +406,12 @@ level: squadre
 > allora sai dirmi per quanti valori interi del parametro a l’equazione x^2 + ax + 2017^(2017) ha
 > due radici intere?
 
-**Topic:** [[topic_algebra|Algebra]]
-**Area:** [[Algebra e Analisi]]
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]], [[method_conteggio|Conteggio combinatorio]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 2018
-**Fonte:** apri PDF p.3 · phiquadro.it, Archivio gare ufficiali 2017 (= fairmath.it, Coppa Gauss 2017)
+**Fonte:** [apri PDF p.3](https://www.phiquadro.it/archivio/2017_3%20marzo%20-%20Gara%20.pdf#page=3) · phiquadro.it, Archivio gare ufficiali 2017 (= fairmath.it, Coppa Gauss 2017)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -392,14 +424,15 @@ level: squadre
 > Phone call in Canada
 > Blond President Steve, shall we call Canada? Steve: Why not, Mr. President? Blond President (On the phone): Hello, Justin. This is the President speaking. Maybe you're too young to know about quadratic equations? (Indistinct noises on the other end of the line) Good: so can you tell me for how many integer values of the parameter a the equation x^2 + ax + 2017^(2017) has two integer roots?
 
-**Topic:** [[topic_algebra|Algebra]]
-**Area:** [[Algebra e Analisi|Algebra and analysis]]
 
-[[Quesiti/src_gs_2017#q09|src_gs_2017__Q09]]
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]], [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
 
 
-<span class="atom-split" id="q10" data-atom="q10" data-title="Quesito 10" data-tags="topic_aritmetica"></span>
+<span class="atom-split" id="q10" data-atom="q10" data-title="Quesito 10" data-tags="topic_aritmetica,topic_combinatoria,method_casi_conteggio,method_congruenze,skill_conteggio_sistematico"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -417,10 +450,12 @@ level: squadre
 > silenzio continua) Sveglia!!! Il Colosseo non sta più in piedi, l’Italia va a pezzi, l’America è
 > la migliore! Preparati alla guerra! (Sbatte giù la cornetta.)
 
-**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Area:** [[Aritmetica e Teoria dei Numeri]]
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casi_conteggio|Conteggio per casi]], [[method_congruenze|Aritmetica modulare / congruenze]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0018
-**Fonte:** apri PDF p.4 · phiquadro.it, Archivio gare ufficiali 2017 (= fairmath.it, Coppa Gauss 2017)
+**Fonte:** [apri PDF p.4](https://www.phiquadro.it/archivio/2017_3%20marzo%20-%20Gara%20.pdf#page=4) · phiquadro.it, Archivio gare ufficiali 2017 (= fairmath.it, Coppa Gauss 2017)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -433,14 +468,15 @@ level: squadre
 > Italy goes to war
 > Blond President Steve, who shall I call now? Steve: Let's try an easy ally, Mr. President; let's call Italy. Blond President (on the phone): Hello, Paolo! How many six-digit numbers are there that are not divisible by 7 and have a digit sum of 3? (Silence) But can't you even count? Are you people the ones who keep carrying out that stupid division between the two cultures? (The silence continues) Wake up!!! The Colosseum is no longer standing, Italy is falling apart, America is the best! Get ready for war! (He slams the receiver down.)
 
-**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
-**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
-[[Quesiti/src_gs_2017#q10|src_gs_2017__Q10]]
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_casi_conteggio|Counting by cases]], [[method_congruenze|Modular arithmetic / congruences]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
 
 
-<span class="atom-split" id="q11" data-atom="q11" data-title="Quesito 11" data-tags="topic_aritmetica"></span>
+<span class="atom-split" id="q11" data-atom="q11" data-title="Quesito 11" data-tags="topic_aritmetica,method_casework,method_fattorizzazione,skill_casework_accurato,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -461,9 +497,11 @@ level: squadre
 > Steve Lo zero è il PRIMO numero naturale, presidente!
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Analisi per casi]], [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
+**Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 0010
-**Fonte:** apri PDF p.4 · phiquadro.it, Archivio gare ufficiali 2017 (= fairmath.it, Coppa Gauss 2017)
+**Fonte:** [apri PDF p.4](https://www.phiquadro.it/archivio/2017_3%20marzo%20-%20Gara%20.pdf#page=4) · phiquadro.it, Archivio gare ufficiali 2017 (= fairmath.it, Coppa Gauss 2017)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -476,14 +514,15 @@ level: squadre
 > Australia goes to war
 > Blond President Steve, shall we call Australia? After all, what could possibly go wrong? Steve: Sure, Mr. President. Blond President (On the phone): Hello, Malcolm. This is the President speaking. How many natural numbers are equal to the sum of their digits plus the product of their digits? (An indistinct murmur is heard from the receiver.) You don't know?!? America is the best—Australia sucks! Get ready for war! (He slams the receiver down.) Steve: How many numbers are there, Mr. President? Blond President: Including zero? Steve: Zero is the FIRST natural number, Mr. President!
 
+
 **Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_casework|Case analysis]], [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
-[[Quesiti/src_gs_2017#q11|src_gs_2017__Q11]]
 
 
-
-<span class="atom-split" id="q12" data-atom="q12" data-title="Quesito 12" data-tags="topic_geometria_piana"></span>
+<span class="atom-split" id="q12" data-atom="q12" data-title="Quesito 12" data-tags="topic_geometria_piana,skill_ragionamento_geometrico"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -506,9 +545,10 @@ level: squadre
 > lungo e quello più corto nella croce? Io sono l’unico ancora vivo a chiedermi questa domanda; perché? (Si rasserena, getta il bastone, inizia a ballare.) Perché sono un matematico.
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]]
 **Risposta:** 0014
-**Fonte:** apri PDF p.4 · phiquadro.it, Archivio gare ufficiali 2017 (= fairmath.it, Coppa Gauss 2017)
+**Fonte:** [apri PDF p.4](https://www.phiquadro.it/archivio/2017_3%20marzo%20-%20Gara%20.pdf#page=4) · phiquadro.it, Archivio gare ufficiali 2017 (= fairmath.it, Coppa Gauss 2017)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -521,14 +561,14 @@ level: squadre
 > Remembers with anger
 > Cemetery: graves marked only by a single stone stele distinguishing the mounds. John (white hair, leaning on a cane): Everyone's here; they're buried here: Jane, Garrett, Gilda, Bill... And Dan: he wanted the stele to be trapezoidal—who knows why? He didn't even know what a trapezoid was. Then the marble craftsman went to town: he marked the midpoints of the non-parallel sides, drew the line segment joining them, and produced a cross by also drawing the height of the trapezoid from a vertex of the shorter base and a circle to represent the sun touching the cross at its four vertices. On top of that, he enclosed a number in the stele: the ratio of the two line segments that form the cross. I was told that the area of the trapezoid is 5600 dm² and that the product of the lengths of the two horizontal arms of the cross is 100 dm². But what is the value of the ratio of the longest segment to the shortest segment in the cross? I'm the only one still alive asking this question—why? (He brightens up, throws away the cane, and starts dancing.) Because I'm a mathematician.
 
+
 **Topic:** [[topic_geometria_piana|Plane geometry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
 **Area:** [[Geometria|Geometry]]
 
-[[Quesiti/src_gs_2017#q12|src_gs_2017__Q12]]
 
 
-
-<span class="atom-split" id="q13" data-atom="q13" data-title="Quesito 13" data-tags="topic_probabilita,topic_combinatoria"></span>
+<span class="atom-split" id="q13" data-atom="q13" data-title="Quesito 13" data-tags="topic_probabilita,topic_combinatoria,method_inclusione_esclusione,skill_conteggio_sistematico,skill_lettura_attenta,skill_modellizzazione"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -557,9 +597,11 @@ level: squadre
 > termini]
 
 **Topic:** [[topic_probabilita|Probabilita e statistica]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_inclusione_esclusione|Inclusione-esclusione]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta del testo]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0079
-**Fonte:** apri PDF p.4 · phiquadro.it, Archivio gare ufficiali 2017 (= fairmath.it, Coppa Gauss 2017)
+**Fonte:** [apri PDF p.4](https://www.phiquadro.it/archivio/2017_3%20marzo%20-%20Gara%20.pdf#page=4) · phiquadro.it, Archivio gare ufficiali 2017 (= fairmath.it, Coppa Gauss 2017)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -572,14 +614,15 @@ level: squadre
 > Lone Samurai
 > Samurai Futaba is playing a solitaire using the 10 spade cards, from ace to 10. The other 42 cards from the deck can be seen, cut in half and scattered on the table. Carefully shuffle the 10 intact cards. Place the facedown deck on the table. Samurai Futaba (lifts the card on top of the facedown deck) 8 (turns it over—it's the 3—places the face-up card on the table. Lifts the card now on top of the facedown deck) 9 (turns it over—it's the 7—places the face-up card on the table. Lifts the card on top of the facedown deck) 10 (turns it over—it's the ace—places the face-up card on the table. Lifts the card on top of the facedown deck) 8 (turns it over—it's the 10—places the face-up card on the table. Lifts the card on top of the facedown deck) 9 (turns it over—it's the 9—places the face-up card on the table. Shakes his head despondently, looking at the camera) Hicotushi nopetiti hacasumai. (Subtitles roll: "I can't complete this solitaire.") Maracatoni petele machì 8, 9 atuti 10 manupiro ducató 8, 9, 10, 8, 9, 10, 8, 9, 10, 8 anacogiro minicotù. (More subtitles: "The solitaire is completed if the 8, 9, or 10 cards are not turned over at the moment when the same number is called in the sequence 8, 9, 10, 8, 9, 10, 8, 9, 10, 8.") Off-screen voice: What is the probability of successfully completing the solitaire? [Give the answer as the sum of the numerator and denominator of the fraction reduced to lowest terms]
 
+
 **Topic:** [[topic_probabilita|Probability and statistics]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_inclusione_esclusione|Inclusion–exclusion]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]], [[skill_lettura_attenta|Careful reading of the text]], [[skill_modellizzazione|Modelling / translating the text]]
 **Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
-[[Quesiti/src_gs_2017#q13|src_gs_2017__Q13]]
 
 
-
-<span class="atom-split" id="q14" data-atom="q14" data-title="Quesito 14" data-tags="topic_geometria_piana"></span>
+<span class="atom-split" id="q14" data-atom="q14" data-title="Quesito 14" data-tags="topic_geometria_piana,method_simmetria,skill_ragionamento_geometrico,skill_lettura_attenta"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -598,9 +641,11 @@ level: squadre
 > che avvolge il blocco?
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_simmetria|Sfruttamento della simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta del testo]]
 **Area:** [[Geometria]]
 **Risposta:** 4570
-**Fonte:** apri PDF p.5 · phiquadro.it, Archivio gare ufficiali 2017 (= fairmath.it, Coppa Gauss 2017)
+**Fonte:** [apri PDF p.5](https://www.phiquadro.it/archivio/2017_3%20marzo%20-%20Gara%20.pdf#page=5) · phiquadro.it, Archivio gare ufficiali 2017 (= fairmath.it, Coppa Gauss 2017)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -613,14 +658,15 @@ level: squadre
 > The Dilemma of the Festrunks Brothers
 > Yortuk: We have to transport these seven tubes—how are we going to do it? Georg: They're all 3 m long and have the same circular cross-section with a diameter of 50 cm. We're two spontaneous, crazy guys: we'll fasten them all together—one in the center with the other six around it—and we'll secure them with these three elastic bands. Yortuk: You're right; that way, each of the six outer tubes is tangent to the central tube and to two other outer tubes. (Looks satisfied at the assembly.) How many millimeters long is each elastic band that wraps around the assembly?
 
+
 **Topic:** [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_simmetria|Using symmetry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_lettura_attenta|Careful reading of the text]]
 **Area:** [[Geometria|Geometry]]
 
-[[Quesiti/src_gs_2017#q14|src_gs_2017__Q14]]
 
 
-
-<span class="atom-split" id="q15" data-atom="q15" data-title="Quesito 15" data-tags="topic_logica"></span>
+<span class="atom-split" id="q15" data-atom="q15" data-title="Quesito 15" data-tags="topic_logica,topic_aritmetica,method_cassetti,method_congruenze,skill_modellizzazione"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -643,10 +689,12 @@ level: squadre
 > Voce fuori campo Qual è il più piccolo numero che Enrique deve dire per vincere
 > la scommessa?
 
-**Topic:** [[topic_logica|Logica, giochi, strategie]]
-**Area:** [[Combinatoria, Logica e Probabilita]]
+**Topic:** [[topic_logica|Logica, giochi, strategie]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_cassetti|Principio dei cassetti]], [[method_congruenze|Aritmetica modulare / congruenze]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 5002
-**Fonte:** apri PDF p.5 · phiquadro.it, Archivio gare ufficiali 2017 (= fairmath.it, Coppa Gauss 2017)
+**Fonte:** [apri PDF p.5](https://www.phiquadro.it/archivio/2017_3%20marzo%20-%20Gara%20.pdf#page=5) · phiquadro.it, Archivio gare ufficiali 2017 (= fairmath.it, Coppa Gauss 2017)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -659,14 +707,15 @@ level: squadre
 > Mexico goes to war
 > Blond President: Great, Steve! What fun I'm having—I've got an idea for making Mexico pay for building the wall. I'll call him now. Steve: Okay, Mr. President. Blond President (on the phone): Hello, Enrique! I'm proposing a bet: you tell me how many natural numbers to write; I'll write as many as you said—the ones I want. You win if at least two of the numbers I've written are such that their sum or their difference is divisible by 10000. The loser pays for building the wall. Steve: The bet isn't fair, Mr. President. Blond President: I know. Steve: He wins! Off-screen voice: What's the smallest number Enrique has to name to win the bet?
 
-**Topic:** [[topic_logica|Logic, games and strategies]]
-**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
-[[Quesiti/src_gs_2017#q15|src_gs_2017__Q15]]
+**Topic:** [[topic_logica|Logic, games and strategies]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_cassetti|Pigeonhole principle]], [[method_congruenze|Modular arithmetic / congruences]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
 
 
-<span class="atom-split" id="q16" data-atom="q16" data-title="Quesito 16" data-tags="topic_geometria_piana"></span>
+<span class="atom-split" id="q16" data-atom="q16" data-title="Quesito 16" data-tags="topic_geometria_piana,skill_ragionamento_geometrico,skill_lettura_attenta,skill_modellizzazione"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -691,9 +740,10 @@ level: squadre
 > Papà Beldar Sì! Quanto vale in mm il perimetro della “T” che hai costruito?
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta del testo]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
 **Area:** [[Geometria]]
 **Risposta:** 0560
-**Fonte:** apri PDF p.5 · phiquadro.it, Archivio gare ufficiali 2017 (= fairmath.it, Coppa Gauss 2017)
+**Fonte:** [apri PDF p.5](https://www.phiquadro.it/archivio/2017_3%20marzo%20-%20Gara%20.pdf#page=5) · phiquadro.it, Archivio gare ufficiali 2017 (= fairmath.it, Coppa Gauss 2017)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -706,14 +756,14 @@ level: squadre
 > Connie writes a T
 > Connie is playing with five wooden shapes. Papa Beldar: Earthlings love simple plane figures. All the acute angles of those five shapes you're playing with are 45°. Connie: You're right, Papa! They're really simple: two are isosceles right triangles, two are right trapezoids, and one is a parallelogram. I've measured the essential dimensions: the legs of the right triangles are 5 cm long, which is the same length as the heights of the quadrilaterals. Each trapezoid has bases 3 cm and 8 cm long; the shorter side of the parallelogram is 7 cm. Papa Beldar: Did you know that the figure you made by putting the five shapes together is an Earthly T? Connie: Do you mean that two rectangles—one perpendicular to the other, with equal shorter sides—spell "T"? Papa Beldar: Yes! What is the perimeter, in mm, of the "T" you made?
 
+
 **Topic:** [[topic_geometria_piana|Plane geometry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_lettura_attenta|Careful reading of the text]], [[skill_modellizzazione|Modelling / translating the text]]
 **Area:** [[Geometria|Geometry]]
 
-[[Quesiti/src_gs_2017#q16|src_gs_2017__Q16]]
 
 
-
-<span class="atom-split" id="q17" data-atom="q17" data-title="Quesito 17" data-tags="topic_logica"></span>
+<span class="atom-split" id="q17" data-atom="q17" data-title="Quesito 17" data-tags="topic_logica,topic_probabilita,topic_combinatoria,method_casework,method_backward,skill_modellizzazione,skill_casework_accurato,skill_conteggio_sistematico"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -737,10 +787,12 @@ level: squadre
 > Voce fuori campo Qual è la somma tra numeratore e denominatore della frazione
 > scritta da Samurai Futaba?
 
-**Topic:** [[topic_logica|Logica, giochi, strategie]]
+**Topic:** [[topic_logica|Logica, giochi, strategie]], [[topic_probabilita|Probabilita e statistica]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casework|Analisi per casi]], [[method_backward|Ragionamento all'indietro]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_casework_accurato|Casework accurato]], [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 9652
-**Fonte:** apri PDF p.5 · phiquadro.it, Archivio gare ufficiali 2017 (= fairmath.it, Coppa Gauss 2017)
+**Fonte:** [apri PDF p.5](https://www.phiquadro.it/archivio/2017_3%20marzo%20-%20Gara%20.pdf#page=5) · phiquadro.it, Archivio gare ufficiali 2017 (= fairmath.it, Coppa Gauss 2017)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -753,14 +805,15 @@ level: squadre
 > Samurai Scarta
 > Mr. Dantley: The game is played with a deck of 16 cards, divided into 2 suits—hearts and spades—with numbers from 1 to 8 in each suit. In turn, each of us discards one card from our hand onto the table: it must be the consecutive number (either the preceding or the following one) to the last card played (the suit doesn't matter). (Mr. Dantley deals the cards evenly and at random between himself and Samurai Futaba.) The person among us who holds the 1 of spades starts by playing it on the table. The winner is the one who forces the opponent to be unable to play any more cards; however, if both players run out of cards, it is declared a draw and no one wins. Just to make sure I've made myself clear, assuming we both play using the best possible strategy, before I look at the cards, you tell me what your probability of winning is. (Samurai Futaba draws the katana and, with a few slashes, writes on the wall the fraction, reduced to lowest terms, that is the probability required by Mr. Dantley.) Voice-over: What is the sum of the numerator and the denominator of the fraction written by Samurai Futaba?
 
-**Topic:** [[topic_logica|Logic, games and strategies]]
+
+**Topic:** [[topic_logica|Logic, games and strategies]], [[topic_probabilita|Probability and statistics]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_casework|Case analysis]], [[method_backward|Working backwards]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]], [[skill_casework_accurato|Careful case analysis]], [[skill_conteggio_sistematico|Systematic counting]]
 **Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
-[[Quesiti/src_gs_2017#q17|src_gs_2017__Q17]]
 
 
-
-<span class="atom-split" id="q18" data-atom="q18" data-title="Quesito 18" data-tags="topic_aritmetica"></span>
+<span class="atom-split" id="q18" data-atom="q18" data-title="Quesito 18" data-tags="topic_aritmetica,topic_disuguaglianze,method_estremalita,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -775,10 +828,12 @@ level: squadre
 > se non uso numeri molto grandi.
 > Mamma Prymaat Qual è il più piccolo che puoi usare in un elenco del genere?
 
-**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Area:** [[Aritmetica e Teoria dei Numeri]]
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_disuguaglianze|Disuguaglianze]]
+**Metodo:** [[method_estremalita|Principio di estremalita]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 **Risposta:** 0101
-**Fonte:** apri PDF p.5 · phiquadro.it, Archivio gare ufficiali 2017 (= fairmath.it, Coppa Gauss 2017)
+**Fonte:** [apri PDF p.5](https://www.phiquadro.it/archivio/2017_3%20marzo%20-%20Gara%20.pdf#page=5) · phiquadro.it, Archivio gare ufficiali 2017 (= fairmath.it, Coppa Gauss 2017)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -791,14 +846,15 @@ level: squadre
 > The 21 issues of Connie
 > Connie Mamma, I'm writing a list of 21 distinct integers such that the sum of any 11 of them is greater than the sum of the other 10. But it doesn't work unless I use very large numbers. Mamma Prymaat: What's the smallest one you can use in a list like that?
 
-**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
-**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
-[[Quesiti/src_gs_2017#q18|src_gs_2017__Q18]]
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_disuguaglianze|Inequalities]]
+**Metodo:** [[method_estremalita|Extremal principle]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Algebra e Analisi|Algebra and analysis]]
 
 
 
-<span class="atom-split" id="q19" data-atom="q19" data-title="Quesito 19" data-tags="topic_algebra"></span>
+<span class="atom-split" id="q19" data-atom="q19" data-title="Quesito 19" data-tags="topic_algebra,topic_disuguaglianze,method_fattorizzazione,method_casework,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -829,10 +885,12 @@ level: squadre
 > cornetta.)
 > [Dare la risposta alla domanda con la somma di tutte le somme di terne che sono soluzione.]
 
-**Topic:** [[topic_algebra|Algebra]]
+**Topic:** [[topic_algebra|Algebra]], [[topic_disuguaglianze|Disuguaglianze]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]], [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Algebra e Analisi]]
 **Risposta:** 0008
-**Fonte:** apri PDF p.6 · phiquadro.it, Archivio gare ufficiali 2017 (= fairmath.it, Coppa Gauss 2017)
+**Fonte:** [apri PDF p.6](https://www.phiquadro.it/archivio/2017_3%20marzo%20-%20Gara%20.pdf#page=6) · phiquadro.it, Archivio gare ufficiali 2017 (= fairmath.it, Coppa Gauss 2017)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -852,14 +910,15 @@ level: squadre
 >
 > b + c ≥ 7. What real numbers satisfy it, Angela? Angela Anghela, my name is pronounced Anghela. The blond president (shouting into the phone): Don't even try to correct me! Your wall has fallen, Germany sucks, America is the best! Get ready for war! (Slams the phone down.) [Give the answer to the question as the sum of all sums of triples that are solutions.]
 
-**Topic:** [[topic_algebra|Algebra]]
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_disuguaglianze|Inequalities]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]], [[method_casework|Case analysis]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
 **Area:** [[Algebra e Analisi|Algebra and analysis]]
 
-[[Quesiti/src_gs_2017#q19|src_gs_2017__Q19]]
 
 
-
-<span class="atom-split" id="q20" data-atom="q20" data-title="Quesito 20" data-tags="topic_logica"></span>
+<span class="atom-split" id="q20" data-atom="q20" data-title="Quesito 20" data-tags="topic_logica,topic_probabilita,topic_aritmetica,method_casework,skill_modellizzazione,skill_conteggio_sistematico"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -879,10 +938,12 @@ level: squadre
 > [Dare la risposta come somma di numeratore e denominatore della frazione ridotta ai minimi
 > termini]
 
-**Topic:** [[topic_logica|Logica, giochi, strategie]]
-**Area:** [[Combinatoria, Logica e Probabilita]]
+**Topic:** [[topic_logica|Logica, giochi, strategie]], [[topic_probabilita|Probabilita e statistica]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 0637
-**Fonte:** apri PDF p.6 · phiquadro.it, Archivio gare ufficiali 2017 (= fairmath.it, Coppa Gauss 2017)
+**Fonte:** [apri PDF p.6](https://www.phiquadro.it/archivio/2017_3%20marzo%20-%20Gara%20.pdf#page=6) · phiquadro.it, Archivio gare ufficiali 2017 (= fairmath.it, Coppa Gauss 2017)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -895,14 +956,15 @@ level: squadre
 > Samurai Craps
 > Mr. Dantley: Let's play Samurai Craps. A die is rolled. . . (Samurai Futaba looks at Mr. Dantley suspiciously, drawing his katana slightly) Don't worry—it's not rigged. I roll a 20-sided die numbered from 2 to 21, read the result, and, entirely at random, tell you a divisor of that number other than 1. You win if you can guess the number that came up without looking at the die. Off-screen voice: Assuming Samurai Futaba uses the best possible strategy to win, what is the probability that this will happen? [Give the answer as the sum of the numerator and denominator of the fraction in lowest terms]
 
-**Topic:** [[topic_logica|Logic, games and strategies]]
-**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
-[[Quesiti/src_gs_2017#q20|src_gs_2017__Q20]]
+**Topic:** [[topic_logica|Logic, games and strategies]], [[topic_probabilita|Probability and statistics]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]], [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
 
 
-<span class="atom-split" id="q21" data-atom="q21" data-title="Quesito 21" data-tags="topic_combinatoria,topic_logica"></span>
+<span class="atom-split" id="q21" data-atom="q21" data-title="Quesito 21" data-tags="topic_combinatoria,topic_logica,method_casi_conteggio,skill_conteggio_sistematico,skill_lettura_attenta"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -928,9 +990,11 @@ level: squadre
 > mentre carte dello stesso tipo sono indistinguibili.]
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_logica|Logica, giochi, strategie]]
+**Metodo:** [[method_casi_conteggio|Conteggio per casi]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta del testo]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0779
-**Fonte:** apri PDF p.6 · phiquadro.it, Archivio gare ufficiali 2017 (= fairmath.it, Coppa Gauss 2017)
+**Fonte:** [apri PDF p.6](https://www.phiquadro.it/archivio/2017_3%20marzo%20-%20Gara%20.pdf#page=6) · phiquadro.it, Archivio gare ufficiali 2017 (= fairmath.it, Coppa Gauss 2017)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -943,14 +1007,15 @@ level: squadre
 > Samurai Blackjack
 > Mr. Dantley: The game is played with a deck of 52 cards: there are 13 types of cards, 4 of each type. The types are the ace, the cards from 2 to 10, and the three face cards: the Jack, the Queen, and the King. In the game, the cards have the value printed on them, except for the ace, which has a value of 1, and the face cards, which have a value of 10. The goal of the game is to draw cards from the deck and, by adding up the values of the cards drawn, try to reach a score of 21 without going over. Break the deck. (Samurai Futaba draws the katana and breaks the deck in two by cutting it vertically. Mr. Dantley, without batting an eye, throws away the deck broken in two and takes another one.) Mr. Dantley: I always play the same way: I keep drawing cards until the score I get becomes 17 or exceeds that value. For example, if I have drawn 2, 6, and 10, I stop drawing cards; but if I have drawn 2, 5, and 9, I draw another card. Voice-over: How many sequences of cards are there in which Mr. Dantley reaches 21 using at most 4 cards? [Two sequences are distinct even when they differ in the order in which the cards are drawn, whereas cards of the same type are indistinguishable.]
 
+
 **Topic:** [[topic_combinatoria|Combinatorics]], [[topic_logica|Logic, games and strategies]]
+**Metodo:** [[method_casi_conteggio|Counting by cases]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]], [[skill_lettura_attenta|Careful reading of the text]]
 **Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
-[[Quesiti/src_gs_2017#q21|src_gs_2017__Q21]]
 
 
-
-<span class="atom-split" id="q22" data-atom="q22" data-title="Quesito 22" data-tags="topic_geometria_piana"></span>
+<span class="atom-split" id="q22" data-atom="q22" data-title="Quesito 22" data-tags="topic_geometria_piana,topic_geometria_analitica,method_coordinate,method_estremalita,skill_ragionamento_geometrico"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -981,10 +1046,12 @@ level: squadre
 > Steve (Parlando sorridente al presidente smarrito) Poteva andare peggio. Ha calcolato
 > quanti km^2 è l’area massima?
 
-**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_geometria_analitica|Geometria analitica]]
+**Metodo:** [[method_coordinate|Metodo delle coordinate]], [[method_estremalita|Principio di estremalita]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]]
 **Risposta:** 1550
-**Fonte:** apri PDF p.7 · phiquadro.it, Archivio gare ufficiali 2017 (= fairmath.it, Coppa Gauss 2017)
+**Fonte:** [apri PDF p.7](https://www.phiquadro.it/archivio/2017_3%20marzo%20-%20Gara%20.pdf#page=7) · phiquadro.it, Archivio gare ufficiali 2017 (= fairmath.it, Coppa Gauss 2017)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -997,14 +1064,15 @@ level: squadre
 > Zimbabwe goes to war
 > Blond President Steve, our allies aren't listening to us... Steve, let's call some small country and show them who's in charge. (He pauses for a moment to think) Let's call Zimbabwe. Blond President: Okay. (He calls the dictator of Zimbabwe on the phone) There's a new boss around. Robert: Who's speaking? Is that Donald? Blond President: (Pleased to be recognized) Yes! Robert: (Firmly) But who do you think you are? You think you know everything? Listen to this—it's complicated; you'd better ask Steve for help; he's right there beside you, isn't he? (Blond President opens his mouth in disbelief) Take rectangle ABCD with AB 90 km long and BC 80 km long; draw two circles inside the rectangle that are tangent to each other; moreover, the circle with center P is tangent to sides AD and DC, and the circle with center Q is tangent to sides AB and BC. Are you still there? (Blond President opens his mouth even wider) We're preparing a weapon of those dimensions that will sweep away your insignificant little country. But we have to arrange the two circles so that the area of triangle APQ is as large as possible, and then cover the whole thing with human biological material. And do you know what we'll use? We'll use (speaking confidently) your fat, old body, chopped into such tiny pieces that not even the CIA could put it back together. And don't call me again! (He slams the receiver down.) Steve: (Speaking with a smile to the bewildered president) It could have been worse. Did he calculate how many square kilometers the maximum area is?
 
-**Topic:** [[topic_geometria_piana|Plane geometry]]
+
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_geometria_analitica|Coordinate geometry]]
+**Metodo:** [[method_coordinate|Coordinate method]], [[method_estremalita|Extremal principle]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
 **Area:** [[Geometria|Geometry]]
 
-[[Quesiti/src_gs_2017#q22|src_gs_2017__Q22]]
 
 
-
-<span class="atom-split" id="q23" data-atom="q23" data-title="Quesito 23" data-tags="topic_aritmetica"></span>
+<span class="atom-split" id="q23" data-atom="q23" data-title="Quesito 23" data-tags="topic_aritmetica,method_casework,method_fattorizzazione,skill_casework_accurato,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -1024,9 +1092,11 @@ level: squadre
 > Voce fuori campo Quanto può valere al massimo un codice?
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Analisi per casi]], [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
+**Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta del testo]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 0386
-**Fonte:** apri PDF p.7 · phiquadro.it, Archivio gare ufficiali 2017 (= fairmath.it, Coppa Gauss 2017)
+**Fonte:** [apri PDF p.7](https://www.phiquadro.it/archivio/2017_3%20marzo%20-%20Gara%20.pdf#page=7) · phiquadro.it, Archivio gare ufficiali 2017 (= fairmath.it, Coppa Gauss 2017)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -1039,14 +1109,15 @@ level: squadre
 > The strange question
 > Yortuk and Georg knock on the Coneheads' door; the Coneheads open it and invite them in.. Yortuk: We're two spontaneous, crazy guys, but we can't do arithmetic. We need to know the sum and the product of our two codes—can you calculate them? (She hands over a little note, which the Coneheads read.) Connie: Sure! The sum of the two codes is 110, and the product of the two codes is 9263. Dad Beldar: Watch out! Connie's a bit absent-minded—at most one digit in the sum and at most one digit in the product might be wrong. Off-screen voice: What's the maximum possible value of a code?
 
+
 **Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_casework|Case analysis]], [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]], [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_lettura_attenta|Careful reading of the text]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
-[[Quesiti/src_gs_2017#q23|src_gs_2017__Q23]]
 
 
-
-<span class="atom-split" id="q24" data-atom="q24" data-title="Quesito 24" data-tags="topic_combinatoria,topic_logica"></span>
+<span class="atom-split" id="q24" data-atom="q24" data-title="Quesito 24" data-tags="topic_combinatoria,topic_logica,method_casework,skill_casework_accurato,skill_lettura_attenta,skill_conteggio_sistematico,skill_modellizzazione"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -1067,9 +1138,11 @@ level: squadre
 > mischiato da Connie?
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_logica|Logica, giochi, strategie]]
+**Metodo:** [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_lettura_attenta|Lettura attenta del testo]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 1016
-**Fonte:** apri PDF p.7 · phiquadro.it, Archivio gare ufficiali 2017 (= fairmath.it, Coppa Gauss 2017)
+**Fonte:** [apri PDF p.7](https://www.phiquadro.it/archivio/2017_3%20marzo%20-%20Gara%20.pdf#page=7) · phiquadro.it, Archivio gare ufficiali 2017 (= fairmath.it, Coppa Gauss 2017)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -1082,7 +1155,8 @@ level: squadre
 > Connie's cards
 > Connie is playing with a deck of 18 alien cards, divided into 2 suits; each suit consists of a King, a Queen, a Jack, and the cards numbered 2 through 7—there are no Aces. After shuffling the deck, each of the 18 cards speaks. A card marked with the number n: at least n cards of my own suit follow me. A card not marked with a number: the cards attached to me are of my own suit. Connie (dejected): The two Kings always lie. Thank goodness all the other cards always tell the truth. Off-screen voice: In how many ways can the cards in the deck shuffled by Connie be arranged?
 
-**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_logica|Logic, games and strategies]]
-**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
-[[Quesiti/src_gs_2017#q24|src_gs_2017__Q24]]
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_logica|Logic, games and strategies]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]], [[skill_lettura_attenta|Careful reading of the text]], [[skill_conteggio_sistematico|Systematic counting]], [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]

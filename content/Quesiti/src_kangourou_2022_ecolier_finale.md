@@ -10,14 +10,14 @@ level: kangourou
 
 
 
-<span class="atom-split" id="qe1" data-atom="qe1" data-title="Quesito E1" data-tags="topic_combinatoria,topic_logica,skill_casework_accurato"></span>
+<span class="atom-split" id="qe1" data-atom="qe1" data-title="Quesito E1" data-tags="topic_combinatoria,topic_logica,method_invarianti,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
 
 *Minimo mosse per uniformare i 9 gettoni bicolori*
 
-![[src_kangourou_2022_ecolier_finale__probe1.png]]
+![[src_kangourou_2022_ecolier_finale__probE1.png]]
 
 ```tikz
 \begin{document}
@@ -38,6 +38,7 @@ level: kangourou
 > Su un tavolo ci sono 9 gettoni, colorati di bianco su una faccia e di nero sull'altra. I gettoni sono disposti a quadrato su tre file e mostrano le loro facce come indica la figura. Un gioco consiste nel tentare di ottenere che tutti i gettoni mostrino le facce dello stesso colore, bianco o nero, eseguendo solo mosse che consistono nel capovolgere tutti i tre gettoni di una stessa riga o di una stessa colonna o di una stessa diagonale, potendo scegliere da mossa a mossa. Qual è il più piccolo numero di mosse che consente di terminare il gioco? (vedi figura)
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_logica|Logica, giochi, strategie]]
+**Metodo:** [[method_invarianti|Invarianti / monovarianti]]
 **Abilita:** [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 2
@@ -49,19 +50,19 @@ level: kangourou
 
 *What is the smallest number of moves that lets the game be finished?*
 
-![[src_kangourou_2022_ecolier_finale__probe1.png]]
+![[src_kangourou_2022_ecolier_finale__probE1.png]]
 
 > On a table there are 9 counters, coloured white on one face and black on the other. The counters are arranged in a square in three rows and show their faces as the picture indicates. A game consists in trying to get all the counters to show faces of the same colour, white or black, by making only moves that consist in turning over all three counters of one and the same row, or of one and the same column, or of one and the same diagonal, the choice being free from move to move. What is the smallest number of moves that lets the game be finished? (see the picture)
 
 **Topic:** [[topic_combinatoria|Combinatorics]], [[topic_logica|Logic, games and strategies]]
-**Skill:** [[skill_casework_accurato|Careful case analysis]]
+**Metodo:** [[method_invarianti|Invariants / monovariants]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
 **Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** 2
-[[Quesiti/src_kangourou_2022_ecolier_finale#qe1|src_kangourou_2022_ecolier_finale__QE1]]
 
 
 
-<span class="atom-split" id="qe2" data-atom="qe2" data-title="Quesito E2" data-tags="topic_algebra,skill_modellizzazione"></span>
+<span class="atom-split" id="qe2" data-atom="qe2" data-title="Quesito E2" data-tags="topic_algebra,skill_modellizzazione,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -71,7 +72,7 @@ level: kangourou
 > Un fiume è attraversato da un ponte A e da un ponte B e il fiume scorre da A verso B. Stefano entra nel fiume in corrispondenza del ponte A e si lascia trasportare passivamente dalla corrente fino al ponte B, che raggiunge in 6 minuti; poi dal ponte B, nuotando contro-corrente, raggiunge il ponte A, ancora in 6 minuti. Se Stefano nuotasse dal ponte A al ponte B consumando la stessa energia utilizzata nel suo tragitto contro-corrente, quanto impiegherebbe per raggiungere il ponte B partendo dal ponte A?
 
 **Topic:** [[topic_algebra|Algebra]]
-**Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Algebra e Analisi]]
 **Risposta:** 2 minuti
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1lnWvkdpnfTxUGj7YWNHSp26wzPxzgKoE/view)
@@ -85,14 +86,13 @@ level: kangourou
 > A river is crossed by a bridge A and a bridge B, and the river flows from A towards B. Stefano enters the river at bridge A and lets himself be carried passively by the current to bridge B, which he reaches in 6 minutes; then from bridge B, swimming against the current, he reaches bridge A, again in 6 minutes. If Stefano swam from bridge A to bridge B using the same energy as on his trip against the current, how long would he take to reach bridge B starting from bridge A?
 
 **Topic:** [[topic_algebra|Algebra]]
-**Skill:** [[skill_modellizzazione|Modelling / translating the text]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
 **Area:** [[Algebra e Analisi|Algebra and analysis]]
 **Answer:** 2 minuti
-[[Quesiti/src_kangourou_2022_ecolier_finale#qe2|src_kangourou_2022_ecolier_finale__QE2]]
 
 
 
-<span class="atom-split" id="qe3" data-atom="qe3" data-title="Quesito E3" data-tags="topic_aritmetica,topic_logica,skill_casework_accurato"></span>
+<span class="atom-split" id="qe3" data-atom="qe3" data-title="Quesito E3" data-tags="topic_aritmetica,topic_logica,method_casework,skill_casework_accurato,skill_modellizzazione,skill_lettura_attenta"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -102,7 +102,8 @@ level: kangourou
 > A una gara di marcia campestre partecipano tre studenti per ogni classe della scuola. Nella classifica finale, Sara risulta esattamente a metà classifica (cioè vi è lo stesso numero di partecipanti che la precedono e che la seguono), mentre Gino la segue al 19-esimo posto e Pino la segue al 28-esimo posto. Sapendo che non ci sono stati pari-merito, quale posto occupa Sara?
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_logica|Logica, giochi, strategie]]
-**Abilita:** [[skill_casework_accurato|Casework accurato]]
+**Metodo:** [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_lettura_attenta|Lettura attenta del testo]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 17
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1lnWvkdpnfTxUGj7YWNHSp26wzPxzgKoE/view)
@@ -116,26 +117,27 @@ level: kangourou
 > Three pupils from each class of the school take part in a cross-country walking race. In the final ranking, Sara is exactly halfway (that is, the same number of participants are ahead of her as behind her), while Gino is behind her in 19th place and Pino is behind her in 28th place. Given that there were no ties, which place does Sara occupy?
 
 **Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_logica|Logic, games and strategies]]
-**Skill:** [[skill_casework_accurato|Careful case analysis]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]], [[skill_modellizzazione|Modelling / translating the text]], [[skill_lettura_attenta|Careful reading of the text]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** 17
-[[Quesiti/src_kangourou_2022_ecolier_finale#qe3|src_kangourou_2022_ecolier_finale__QE3]]
 
 
 
-<span class="atom-split" id="qe4" data-atom="qe4" data-title="Quesito E4" data-tags="topic_aritmetica,topic_logica,skill_casework_accurato"></span>
+<span class="atom-split" id="qe4" data-atom="qe4" data-title="Quesito E4" data-tags="topic_aritmetica,topic_logica,method_casework,skill_casework_accurato,skill_modellizzazione"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
 
 *Quali cassette contengono banane dai pesi*
 
-![[src_kangourou_2022_ecolier_finale__probe4.png]]
+![[src_kangourou_2022_ecolier_finale__probE4.png]]
 
 > Un fruttivendolo vende solo mele, banane e arance. Ha ricevuto l'ordine di comporre 5 cassette, nessuna delle quali contenga sia mele sia banane. Ha usato complessivamente 4 arance, ciascuna del peso di due etti e mezzo; il peso complessivo delle mele che ha usato è tre volte quello delle banane che ha usato. Ecco il peso del contenuto delle 5 cassette: cassetta 1: 8 kg, cassetta 2: 5 kg, cassetta 3: 6 kg, cassetta 4: 2 kg, cassetta 5: 16 kg. Quale o quali cassette contengono banane?
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_logica|Logica, giochi, strategie]]
-**Abilita:** [[skill_casework_accurato|Casework accurato]]
+**Metodo:** [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** la 1 e la 4
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1lnWvkdpnfTxUGj7YWNHSp26wzPxzgKoE/view)
@@ -146,15 +148,15 @@ level: kangourou
 
 *Which crate or crates contain bananas?*
 
-![[src_kangourou_2022_ecolier_finale__probe4.png]]
+![[src_kangourou_2022_ecolier_finale__probE4.png]]
 
 > A greengrocer sells only apples, bananas and oranges. He was ordered to make up 5 crates, none of which contains both apples and bananas. He used 4 oranges in all, each weighing two and a half hectograms; the total weight of the apples he used is three times that of the bananas he used. Here is the weight of the contents of the 5 crates: crate 1: 8 kg, crate 2: 5 kg, crate 3: 6 kg, crate 4: 2 kg, crate 5: 16 kg. Which crate or crates contain bananas?
 
 **Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_logica|Logic, games and strategies]]
-**Skill:** [[skill_casework_accurato|Careful case analysis]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]], [[skill_modellizzazione|Modelling / translating the text]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** la 1 e la 4
-[[Quesiti/src_kangourou_2022_ecolier_finale#qe4|src_kangourou_2022_ecolier_finale__QE4]]
 
 
 
@@ -187,11 +189,10 @@ level: kangourou
 **Skill:** [[skill_casework_accurato|Careful case analysis]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Answer:** 12 o 13 o 14
-[[Quesiti/src_kangourou_2022_ecolier_finale#qe5|src_kangourou_2022_ecolier_finale__QE5]]
 
 
 
-<span class="atom-split" id="qe6" data-atom="qe6" data-title="Quesito E6" data-tags="topic_aritmetica,topic_combinatoria,method_casework,skill_casework_accurato"></span>
+<span class="atom-split" id="qe6" data-atom="qe6" data-title="Quesito E6" data-tags="topic_aritmetica,topic_combinatoria,method_casework,method_estremalita,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -201,7 +202,7 @@ level: kangourou
 > 10 ciclisti terminano una gara con tempi di arrivo tutti diversi fra loro. Dopo qualche tempo, un giornalista chiede a ciascuno di loro di comunicargli il proprio ordine di arrivo in quella gara, ovviamente con un numero compreso fra 1 e 10. Il giornalista somma le risposte fornitegli ed ottiene 36. Ne deduce che certamente alcuni hanno mentito: quanti, almeno?
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
-**Metodo:** [[method_casework|Analisi per casi]]
+**Metodo:** [[method_casework|Analisi per casi]], [[method_estremalita|Principio di estremalita]]
 **Abilita:** [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 3
@@ -216,8 +217,7 @@ level: kangourou
 > 10 cyclists finish a race with finishing times all different from one another. Some time later, a journalist asks each of them to tell him his own finishing place in that race, of course with a number between 1 and 10. The journalist adds up the answers he is given and obtains 36. He deduces that some of them certainly lied: how many, at least?
 
 **Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_combinatoria|Combinatorics]]
-**Method:** [[method_casework|Case analysis]]
-**Skill:** [[skill_casework_accurato|Careful case analysis]]
+**Metodo:** [[method_casework|Case analysis]], [[method_estremalita|Extremal principle]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** 3
-[[Quesiti/src_kangourou_2022_ecolier_finale#qe6|src_kangourou_2022_ecolier_finale__QE6]]

@@ -40,8 +40,6 @@ level: OBM Nível Universitário
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Algebra e Analisi]]
 
-[[Quesiti/src_obm_2006_nu_f2#q01|src_obm_2006_nu_f2__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_aritmetica,topic_combinatoria,method_congruenze,method_conteggio,method_inclusione_esclusione,skill_conteggio_sistematico,skill_manipolazione_algebrica,skill_riconoscimento_pattern"></span>
@@ -74,8 +72,6 @@ level: OBM Nível Universitário
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 
-[[Quesiti/src_obm_2006_nu_f2#q02|src_obm_2006_nu_f2__Q02]]
-
 
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_geometria_piana,topic_geometria_analitica,method_simmetria,method_trigonometria,skill_ragionamento_geometrico,skill_modellizzazione,skill_lettura_attenta"></span>
@@ -106,11 +102,9 @@ level: OBM Nível Universitário
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Geometria]]
 
-[[Quesiti/src_obm_2006_nu_f2#q03|src_obm_2006_nu_f2__Q03]]
 
 
-
-<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_algebra,topic_aritmetica,method_fattorizzazione,method_induzione,skill_manipolazione_algebrica,skill_astrazione,skill_lettura_attenta"></span>
+<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_algebra,topic_aritmetica,method_fattorizzazione,method_induzione,method_simmetria,skill_manipolazione_algebrica,skill_astrazione,skill_lettura_attenta"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -120,9 +114,9 @@ level: OBM Nível Universitário
 > Let $p$ be an irreducible polynomial in $\mathbb{Q}[x]$ with rational coefficients and degree greater than $1$. Prove that if $p$ has two roots $r$ and $s$ whose product is $1$ (i.e., $rs = 1$), then the degree of $p$ is even.
 
 **Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_induzione|Induzione]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_induzione|Induzione]], [[method_simmetria|Using symmetry]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]], [[skill_lettura_attenta|Lettura attenta]]
-**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/18lHsUkA6TjiVCKvRGHHFZ98nGkOcKHvM/view)
 
 
@@ -133,16 +127,15 @@ level: OBM Nível Universitário
 
 > Sia $p$ un polinomio irriducibile in $\mathbb{Q}[x]$ a coefficienti razionali e di grado maggiore di $1$. Dimostrare che, se $p$ ha due radici $r$ e $s$ il cui prodotto è $1$ (cioè $rs = 1$), allora il grado di $p$ è pari.
 
+
 **Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_induzione|Induzione]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_induzione|Induzione]], [[method_simmetria|Sfruttamento della simmetria]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 
-[[Quesiti/src_obm_2006_nu_f2#q04|src_obm_2006_nu_f2__Q04]]
 
 
-
-<span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_insiemi_funzioni,topic_algebra,method_telescoping,method_disuguaglianze,skill_manipolazione_algebrica,skill_astrazione,skill_ragionamento_geometrico"></span>
+<span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_insiemi_funzioni,topic_algebra,topic_disuguaglianze,method_telescoping,method_disuguaglianze,skill_manipolazione_algebrica,skill_astrazione,skill_ragionamento_geometrico"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -151,10 +144,10 @@ level: OBM Nível Universitário
 
 > Let $f : [0, +\infty) \to [0, +\infty)$ be an increasing and bijective function. Prove that the series $\displaystyle\sum_{n=1}^{\infty} \frac{1}{f(n)}$ converges if and only if the series $\displaystyle\sum_{n=1}^{\infty} \frac{f^{-1}(n)}{n^2}$ converges, where $f^{-1}$ denotes the inverse function of $f$.
 
-**Topic:** [[topic_insiemi_funzioni|Insiemi e funzioni]], [[topic_algebra|Algebra]]
+**Topic:** [[topic_insiemi_funzioni|Insiemi e funzioni]], [[topic_algebra|Algebra]], [[topic_disuguaglianze|Inequalities]]
 **Metodo:** [[method_telescoping|Telescoping]], [[method_disuguaglianze|Disuguaglianze]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
-**Area:** [[Algebra e Analisi]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/18lHsUkA6TjiVCKvRGHHFZ98nGkOcKHvM/view)
 
 
@@ -165,12 +158,11 @@ level: OBM Nível Universitário
 
 > Sia $f : [0, +\infty) \to [0, +\infty)$ una funzione crescente e biiettiva. Dimostrare che la serie $\displaystyle\sum_{n=1}^{\infty} \frac{1}{f(n)}$ converge se e solo se la serie $\displaystyle\sum_{n=1}^{\infty} \frac{f^{-1}(n)}{n^2}$ converge, dove $f^{-1}$ denota la funzione inversa di $f$.
 
-**Topic:** [[topic_insiemi_funzioni|Insiemi e funzioni]], [[topic_algebra|Algebra]]
+
+**Topic:** [[topic_insiemi_funzioni|Insiemi e funzioni]], [[topic_algebra|Algebra]], [[topic_disuguaglianze|Disuguaglianze]]
 **Metodo:** [[method_telescoping|Telescoping]], [[method_disuguaglianze|Disuguaglianze]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Algebra e Analisi]]
-
-[[Quesiti/src_obm_2006_nu_f2#q05|src_obm_2006_nu_f2__Q05]]
 
 
 
@@ -209,5 +201,3 @@ level: OBM Nível Universitário
 **Metodo:** [[method_invarianti|Invarianti]], [[method_induzione|Induzione]]
 **Abilita:** [[skill_astrazione|Astrazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Algebra e Analisi]], [[Combinatoria, Logica e Probabilita]]
-
-[[Quesiti/src_obm_2006_nu_f2#q06|src_obm_2006_nu_f2__Q06]]

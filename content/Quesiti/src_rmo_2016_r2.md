@@ -10,7 +10,7 @@ level: RMO
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_geometria_piana,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_geometria_piana,method_coordinate,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -20,8 +20,9 @@ level: RMO
 > Let $ABC$ be a right-angled triangle with $\angle B = 90^\circ$. Let $I$ be the incentre of $ABC$. Let $AI$ extended intersect $BC$ at $F$. Draw a line perpendicular to $AI$ at $I$. Let it intersect $AC$ at $E$. Prove that $IE = IF$.
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_coordinate|Coordinate method]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
-**Area:** [[Geometria]]
+**Area:** [[Geometria|Geometry]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1cLh55MQ0c8qEjsnuwrJEj-kLk6kRe8sD/view)
 
 
@@ -32,11 +33,11 @@ level: RMO
 
 > Sia $ABC$ un triangolo rettangolo con $\angle B = 90^\circ$. Sia $I$ l'incentro di $ABC$. Sia $AI$ prolungato in modo da intersecare $BC$ in $F$. Traccia una retta perpendicolare a $AI$ in $I$. Sia essa ad intersecare $AC$ in $E$. Dimostrare che $IE = IF$.
 
+
 **Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_coordinate|Metodo delle coordinate]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
-
-[[Quesiti/src_rmo_2016_r2#q01|src_rmo_2016_r2__Q01]]
 
 
 
@@ -72,11 +73,9 @@ level: RMO
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]]
 **Area:** [[Algebra e Analisi]]
 
-[[Quesiti/src_rmo_2016_r2#q02|src_rmo_2016_r2__Q02]]
 
 
-
-<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_aritmetica,method_congruenze,method_casework,skill_manipolazione_algebrica,skill_lettura_attenta,skill_riconoscimento_pattern"></span>
+<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_aritmetica,method_congruenze,method_casework,method_fattorizzazione,skill_manipolazione_algebrica,skill_lettura_attenta,skill_riconoscimento_pattern,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -86,9 +85,9 @@ level: RMO
 > For any natural number $n$, expressed in base 10, let $S(n)$ denote the sum of all digits of $n$. Find all natural numbers $n$ such that $n^3 = 8S(n)^3 + 4S(n) + 1$.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_congruenze|Congruenze]], [[method_casework|Casework]]
-**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
-**Area:** [[Aritmetica e Teoria dei Numeri]]
+**Metodo:** [[method_congruenze|Congruenze]], [[method_casework|Casework]], [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1cLh55MQ0c8qEjsnuwrJEj-kLk6kRe8sD/view)
 
 
@@ -99,12 +98,11 @@ level: RMO
 
 > Per ogni numero naturale $n$, espresso in base 10, si indichi con $S(n)$ la somma di tutte le cifre di $n$. Determinare tutti i numeri naturali $n$ tali che $n^3 = 8S(n)^3 + 4S(n) + 1$.
 
-**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_congruenze|Congruenze]], [[method_casework|Casework]]
-**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
-**Area:** [[Aritmetica e Teoria dei Numeri]]
 
-[[Quesiti/src_rmo_2016_r2#q03|src_rmo_2016_r2__Q03]]
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_congruenze|Congruenze]], [[method_casework|Casework]], [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
 
 
 
@@ -136,11 +134,9 @@ level: RMO
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 
-[[Quesiti/src_rmo_2016_r2#q04|src_rmo_2016_r2__Q04]]
 
 
-
-<span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_geometria_piana,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
+<span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_geometria_piana,method_simmetria,method_trigonometria,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -150,8 +146,9 @@ level: RMO
 > Let $ABC$ be a right-angled triangle with $\angle B = 90^\circ$. Let $AD$ be the bisector of $\angle A$ with $D$ on $BC$. Let the circumcircle of triangle $ACD$ intersect $AB$ again in $E$, and let the circumcircle of triangle $ABD$ intersect $AC$ again in $F$. Let $K$ be the reflection of $E$ in the line $BC$. Prove that $FK = BC$.
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_simmetria|Using symmetry]], [[method_trigonometria|Trigonometric techniques]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
-**Area:** [[Geometria]]
+**Area:** [[Geometria|Geometry]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1cLh55MQ0c8qEjsnuwrJEj-kLk6kRe8sD/view)
 
 
@@ -162,15 +159,15 @@ level: RMO
 
 > Sia $ABC$ un triangolo rettangolo con $\angle B = 90^\circ$. Sia $AD$ la bisettrice di $\angle A$, con $D$ su $BC$. Sia $E$ il secondo punto d'intersezione della circonferenza circoscritta al triangolo $ACD$ con $AB$, e sia $F$ il secondo punto d'intersezione della circonferenza circoscritta al triangolo $ABD$ con $AC$. Sia $K$ la riflessione di $E$ rispetto alla retta $BC$. Dimostrare che $FK = BC$.
 
+
 **Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_simmetria|Sfruttamento della simmetria]], [[method_trigonometria|Tecniche trigonometriche]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 
-[[Quesiti/src_rmo_2016_r2#q05|src_rmo_2016_r2__Q05]]
 
 
-
-<span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_algebra,topic_aritmetica,method_induzione,method_ricorsione,skill_riconoscimento_pattern,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
+<span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_algebra,topic_aritmetica,topic_funzionali,method_induzione,method_ricorsione,skill_riconoscimento_pattern,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -180,10 +177,10 @@ level: RMO
 > Show that the infinite arithmetic progression $\{1, 4, 7, 10, \ldots\}$ has infinitely many 3-term subsequences in harmonic progression such that for any two such triples $(a_1, a_2, a_3)$ and $(b_1, b_2, b_3)$ in harmonic progression, one has
 > $$\frac{a_1}{b_1} = \frac{a_2}{b_2}.$$
 
-**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_funzionali|Functional equations / sequences]]
 **Metodo:** [[method_induzione|Induzione]], [[method_ricorsione|Ricorsione]]
 **Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
-**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1cLh55MQ0c8qEjsnuwrJEj-kLk6kRe8sD/view)
 
 
@@ -195,9 +192,8 @@ level: RMO
 > Dimostrare che la progressione aritmetica infinita $\{1, 4, 7, 10, \ldots\}$ possiede infiniti sottosequenze di tre termini in progressione armonica tali che, per qualsiasi coppia di tali triple $(a_1, a_2, a_3)$ e $(b_1, b_2, b_3)$ in progressione armonica, si ha
 > $$\frac{a_1}{b_1} = \frac{a_2}{b_2}.$$
 
-**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_funzionali|Equazioni funzionali / successioni]]
 **Metodo:** [[method_induzione|Induzione]], [[method_ricorsione|Ricorsione]]
 **Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
-
-[[Quesiti/src_rmo_2016_r2#q06|src_rmo_2016_r2__Q06]]

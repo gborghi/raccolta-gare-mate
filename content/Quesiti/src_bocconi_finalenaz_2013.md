@@ -21,7 +21,7 @@ level: Finale Nazionale Campionati Internazionali di Giochi Matematici
 > 
 > Quale risultato ottenete (tenendo presenti le condizioni)?
 
-![[src_bocconi_finalenaz_2013__q01.png]]
+![[src_bocconi_finalenaz_2013__Q01.png]]
 
 **Topic:** [[topic_logica|Logica]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_casework|Casework]]
@@ -40,14 +40,12 @@ level: Finale Nazionale Campionati Internazionali di Giochi Matematici
 >
 > What result do you obtain (taking the conditions into account)?
 
-![[src_bocconi_finalenaz_2013__q01.png]]
+![[src_bocconi_finalenaz_2013__Q01.png]]
 
 **Topic:** [[topic_logica|Logic, games, strategies]], [[topic_aritmetica|Arithmetic / Number theory]]
 **Metodo:** [[method_casework|Case analysis]]
 **Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_lettura_attenta|Careful reading of the text]], [[skill_casework_accurato|Careful case analysis]]
 **Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
-
-[[Quesiti/src_bocconi_finalenaz_2013#q01|src_bocconi_finalenaz_2013__Q01]]
 
 
 
@@ -62,7 +60,7 @@ level: Finale Nazionale Campionati Internazionali di Giochi Matematici
 > 
 > Quale numero leggerà Milena, leggendo le cifre riportate nelle facce opposte a quelle visibili a Carla?
 
-![[src_bocconi_finalenaz_2013__q02.png]]
+![[src_bocconi_finalenaz_2013__Q02.png]]
 
 **Topic:** [[topic_logica|Logica]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_casework|Casework]]
@@ -81,14 +79,12 @@ level: Finale Nazionale Campionati Internazionali di Giochi Matematici
 >
 > What number will Milena read when she reads the digits marked on the faces opposite those visible to Carla?
 
-![[src_bocconi_finalenaz_2013__q02.png]]
+![[src_bocconi_finalenaz_2013__Q02.png]]
 
 **Topic:** [[topic_logica|Logic, games, strategies]], [[topic_aritmetica|Arithmetic / Number theory]]
 **Metodo:** [[method_casework|Case analysis]]
 **Abilita:** [[skill_lettura_attenta|Careful reading of the text]], [[skill_ragionamento_geometrico|Geometric reasoning]]
 **Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
-
-[[Quesiti/src_bocconi_finalenaz_2013#q02|src_bocconi_finalenaz_2013__Q02]]
 
 
 
@@ -125,11 +121,9 @@ level: Finale Nazionale Campionati Internazionali di Giochi Matematici
 **Abilita:** [[skill_lettura_attenta|Careful reading of the text]], [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
-[[Quesiti/src_bocconi_finalenaz_2013#q03|src_bocconi_finalenaz_2013__Q03]]
 
 
-
-<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_algebra,topic_aritmetica,method_casework,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
+<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_algebra,topic_aritmetica,method_casework,skill_manipolazione_algebrica,skill_lettura_attenta,skill_modellizzazione"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -142,7 +136,7 @@ level: Finale Nazionale Campionati Internazionali di Giochi Matematici
 
 **Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_casework|Casework]]
-**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 515 Euro
 **Fonte:** [apri PDF](https://drive.google.com/file/d/11cQFBAsLyrO1W20YPhmvDKRHQZAZR_wz/view)
@@ -157,12 +151,11 @@ level: Finale Nazionale Campionati Internazionali di Giochi Matematici
 >
 > How much did Anna spend on her first cousin?
 
+
 **Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Arithmetic / Number theory]]
 **Metodo:** [[method_casework|Case analysis]]
-**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_lettura_attenta|Careful reading of the text]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_lettura_attenta|Careful reading of the text]], [[skill_modellizzazione|Modelling / translating the text]]
 **Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
-
-[[Quesiti/src_bocconi_finalenaz_2013#q04|src_bocconi_finalenaz_2013__Q04]]
 
 
 
@@ -177,7 +170,7 @@ level: Finale Nazionale Campionati Internazionali di Giochi Matematici
 > 
 > Quale numero Luca vede allo specchio? (Tenete presente che i fabbricanti di t-shirt non sono molto competenti in matematica e tra l'altro non sanno che un numero con più cifre non può cominciare con uno "0".)
 
-![[src_bocconi_finalenaz_2013__q05.png]]
+![[src_bocconi_finalenaz_2013__Q05.png]]
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_logica|Logica]]
 **Metodo:** [[method_casework|Casework]], [[method_fattorizzazione|Fattorizzazione]]
@@ -196,18 +189,16 @@ level: Finale Nazionale Campionati Internazionali di Giochi Matematici
 >
 > What number does Luca see in the mirror? (Keep in mind that T-shirt manufacturers aren't very good at mathematics and, moreover, don't know that a number with more than one digit can't start with a "0".)
 
-![[src_bocconi_finalenaz_2013__q05.png]]
+![[src_bocconi_finalenaz_2013__Q05.png]]
 
 **Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_logica|Logic, games, strategies]]
 **Metodo:** [[method_casework|Case analysis]], [[method_fattorizzazione|Factorisation / algebraic manipulation]]
 **Abilita:** [[skill_lettura_attenta|Careful reading of the text]], [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
-[[Quesiti/src_bocconi_finalenaz_2013#q05|src_bocconi_finalenaz_2013__Q05]]
 
 
-
-<span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_combinatoria,topic_aritmetica,method_conteggio,method_casework,skill_conteggio_sistematico,skill_lettura_attenta"></span>
+<span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_combinatoria,topic_aritmetica,method_conteggio,method_casework,skill_conteggio_sistematico,skill_lettura_attenta,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -220,7 +211,7 @@ level: Finale Nazionale Campionati Internazionali di Giochi Matematici
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_conteggio|Conteggio]], [[method_casework|Casework]]
-**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 75
 **Fonte:** [apri PDF](https://drive.google.com/file/d/11cQFBAsLyrO1W20YPhmvDKRHQZAZR_wz/view)
@@ -235,12 +226,11 @@ level: Finale Nazionale Campionati Internazionali di Giochi Matematici
 >
 > How many birthdays (day and month) can be written while respecting the same condition?
 
+
 **Topic:** [[topic_combinatoria|Combinatorics]], [[topic_aritmetica|Arithmetic / Number theory]]
 **Metodo:** [[method_conteggio|Combinatorial counting]], [[method_casework|Case analysis]]
-**Abilita:** [[skill_conteggio_sistematico|Systematic counting]], [[skill_lettura_attenta|Careful reading of the text]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]], [[skill_lettura_attenta|Careful reading of the text]], [[skill_casework_accurato|Careful case analysis]]
 **Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
-
-[[Quesiti/src_bocconi_finalenaz_2013#q06|src_bocconi_finalenaz_2013__Q06]]
 
 
 
@@ -255,7 +245,7 @@ level: Finale Nazionale Campionati Internazionali di Giochi Matematici
 > 
 > Quale è la distanza tra due aeroporti vicini sapendo che Desiderio, quando è tornato in A per la prima volta, ha percorso 45.000 km?
 
-![[src_bocconi_finalenaz_2013__q07.png]]
+![[src_bocconi_finalenaz_2013__Q07.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_logica|Logica]]
 **Metodo:** [[method_casework|Casework]], [[method_simmetria|Simmetria]]
@@ -274,14 +264,12 @@ level: Finale Nazionale Campionati Internazionali di Giochi Matematici
 >
 > What is the distance between two nearby airports, given that when Desiderio returned to A for the first time, he had traveled 45,000 km?
 
-![[src_bocconi_finalenaz_2013__q07.png]]
+![[src_bocconi_finalenaz_2013__Q07.png]]
 
 **Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_logica|Logic, games, strategies]]
 **Metodo:** [[method_casework|Case analysis]], [[method_simmetria|Using symmetry]]
 **Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_lettura_attenta|Careful reading of the text]], [[skill_modellizzazione|Modelling / translating the text]]
 **Area:** [[Geometria|Geometry]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
-
-[[Quesiti/src_bocconi_finalenaz_2013#q07|src_bocconi_finalenaz_2013__Q07]]
 
 
 
@@ -294,7 +282,7 @@ level: Finale Nazionale Campionati Internazionali di Giochi Matematici
 
 > Amerigo vuole dividere il blocco che vediamo in figura nei suoi 21 cubetti (tutti uguali tra loro). Con quanti tagli ottiene il minimo, sapendo che tra un taglio e l'altro può riassemblare i pezzi ottenuti come vuole?
 
-![[src_bocconi_finalenaz_2013__q08.png]]
+![[src_bocconi_finalenaz_2013__Q08.png]]
 
 **Topic:** [[topic_geometria_solida|Geometria solida]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_estremalita|Estremalità]], [[method_casework|Casework]]
@@ -311,14 +299,12 @@ level: Finale Nazionale Campionati Internazionali di Giochi Matematici
 
 > Amerigo wants to divide the block shown in the figure into its 21 little cubes (all of which are identical). With how many cuts will he achieve the minimum number of cuts, knowing that between one cut and the next he can reassemble the pieces obtained however he likes?
 
-![[src_bocconi_finalenaz_2013__q08.png]]
+![[src_bocconi_finalenaz_2013__Q08.png]]
 
 **Topic:** [[topic_geometria_solida|Solid geometry]], [[topic_combinatoria|Combinatorics]]
 **Metodo:** [[method_estremalita|Extremal principle]], [[method_casework|Case analysis]]
 **Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_modellizzazione|Modelling / translating the text]], [[skill_stima|Estimation and approximation]]
 **Area:** [[Geometria|Geometry]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
-
-[[Quesiti/src_bocconi_finalenaz_2013#q08|src_bocconi_finalenaz_2013__Q08]]
 
 
 
@@ -355,8 +341,6 @@ level: Finale Nazionale Campionati Internazionali di Giochi Matematici
 **Abilita:** [[skill_conteggio_sistematico|Systematic counting]], [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_lettura_attenta|Careful reading of the text]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Algebra e Analisi|Algebra and analysis]]
 
-[[Quesiti/src_bocconi_finalenaz_2013#q09|src_bocconi_finalenaz_2013__Q09]]
-
 
 
 <span class="atom-split" id="q10" data-atom="q10" data-title="Quesito 10" data-tags="topic_aritmetica,topic_algebra,method_congruenze,method_casework,skill_manipolazione_algebrica,skill_lettura_attenta,skill_conteggio_sistematico"></span>
@@ -391,8 +375,6 @@ level: Finale Nazionale Campionati Internazionali di Giochi Matematici
 **Metodo:** [[method_congruenze|Modular arithmetic / congruences]], [[method_casework|Case analysis]]
 **Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_lettura_attenta|Careful reading of the text]], [[skill_conteggio_sistematico|Systematic counting]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Algebra e Analisi|Algebra and analysis]]
-
-[[Quesiti/src_bocconi_finalenaz_2013#q10|src_bocconi_finalenaz_2013__Q10]]
 
 
 
@@ -429,8 +411,6 @@ level: Finale Nazionale Campionati Internazionali di Giochi Matematici
 **Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_riconoscimento_pattern|Pattern recognition]], [[skill_conteggio_sistematico|Systematic counting]]
 **Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
-[[Quesiti/src_bocconi_finalenaz_2013#q11|src_bocconi_finalenaz_2013__Q11]]
-
 
 
 <span class="atom-split" id="q12" data-atom="q12" data-title="Quesito 12" data-tags="topic_geometria_piana,method_coordinate,method_casework,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
@@ -465,8 +445,6 @@ level: Finale Nazionale Campionati Internazionali di Giochi Matematici
 **Metodo:** [[method_coordinate|Coordinate method]], [[method_casework|Case analysis]]
 **Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
 **Area:** [[Geometria|Geometry]]
-
-[[Quesiti/src_bocconi_finalenaz_2013#q12|src_bocconi_finalenaz_2013__Q12]]
 
 
 
@@ -511,11 +489,9 @@ level: Finale Nazionale Campionati Internazionali di Giochi Matematici
 **Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_lettura_attenta|Careful reading of the text]], [[skill_riconoscimento_pattern|Pattern recognition]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
-[[Quesiti/src_bocconi_finalenaz_2013#q13|src_bocconi_finalenaz_2013__Q13]]
 
 
-
-<span class="atom-split" id="q14" data-atom="q14" data-title="Quesito 14" data-tags="topic_combinatoria,topic_logica,method_conteggio,method_casework,skill_conteggio_sistematico,skill_lettura_attenta,skill_ragionamento_geometrico"></span>
+<span class="atom-split" id="q14" data-atom="q14" data-title="Quesito 14" data-tags="topic_combinatoria,topic_logica,method_conteggio,method_casework,method_estremalita,skill_conteggio_sistematico,skill_lettura_attenta,skill_ragionamento_geometrico,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -527,8 +503,8 @@ level: Finale Nazionale Campionati Internazionali di Giochi Matematici
 > Quanti lanci della moneta ha compiuto al massimo Gian Italo?
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_logica|Logica]]
-**Metodo:** [[method_conteggio|Conteggio]], [[method_casework|Casework]]
-**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Metodo:** [[method_conteggio|Conteggio]], [[method_casework|Casework]], [[method_estremalita|Principio di estremalita]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 12
 **Fonte:** [apri PDF](https://drive.google.com/file/d/11cQFBAsLyrO1W20YPhmvDKRHQZAZR_wz/view)
@@ -543,12 +519,11 @@ level: Finale Nazionale Campionati Internazionali di Giochi Matematici
 >
 > What is the maximum number of coin tosses Gian Italo could have made?
 
-**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_logica|Logic, games, strategies]]
-**Metodo:** [[method_conteggio|Combinatorial counting]], [[method_casework|Case analysis]]
-**Abilita:** [[skill_conteggio_sistematico|Systematic counting]], [[skill_lettura_attenta|Careful reading of the text]], [[skill_ragionamento_geometrico|Geometric reasoning]]
-**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
-[[Quesiti/src_bocconi_finalenaz_2013#q14|src_bocconi_finalenaz_2013__Q14]]
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_logica|Logic, games, strategies]]
+**Metodo:** [[method_conteggio|Combinatorial counting]], [[method_casework|Case analysis]], [[method_estremalita|Extremal principle]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]], [[skill_lettura_attenta|Careful reading of the text]], [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
 
 
@@ -585,8 +560,6 @@ level: Finale Nazionale Campionati Internazionali di Giochi Matematici
 **Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]], [[skill_conteggio_sistematico|Systematic counting]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
-[[Quesiti/src_bocconi_finalenaz_2013#q15|src_bocconi_finalenaz_2013__Q15]]
-
 
 
 <span class="atom-split" id="q16" data-atom="q16" data-title="Quesito 16" data-tags="topic_aritmetica,topic_algebra,method_fattorizzazione,method_casework,skill_manipolazione_algebrica,skill_riconoscimento_pattern,skill_lettura_attenta"></span>
@@ -621,8 +594,6 @@ level: Finale Nazionale Campionati Internazionali di Giochi Matematici
 **Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]], [[method_casework|Case analysis]]
 **Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_riconoscimento_pattern|Pattern recognition]], [[skill_lettura_attenta|Careful reading of the text]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Algebra e Analisi|Algebra and analysis]]
-
-[[Quesiti/src_bocconi_finalenaz_2013#q16|src_bocconi_finalenaz_2013__Q16]]
 
 
 
@@ -667,8 +638,6 @@ level: Finale Nazionale Campionati Internazionali di Giochi Matematici
 **Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]], [[skill_modellizzazione|Modelling / translating the text]], [[skill_conteggio_sistematico|Systematic counting]]
 **Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
-[[Quesiti/src_bocconi_finalenaz_2013#q17|src_bocconi_finalenaz_2013__Q17]]
-
 
 
 <span class="atom-split" id="q18" data-atom="q18" data-title="Quesito 18" data-tags="topic_geometria_piana,topic_combinatoria,method_estremalita,method_simmetria,skill_ragionamento_geometrico,skill_modellizzazione,skill_stima"></span>
@@ -703,5 +672,3 @@ level: Finale Nazionale Campionati Internazionali di Giochi Matematici
 **Metodo:** [[method_estremalita|Extremal principle]], [[method_simmetria|Using symmetry]]
 **Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_modellizzazione|Modelling / translating the text]], [[skill_stima|Estimation and approximation]]
 **Area:** [[Geometria|Geometry]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
-
-[[Quesiti/src_bocconi_finalenaz_2013#q18|src_bocconi_finalenaz_2013__Q18]]

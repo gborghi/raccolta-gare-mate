@@ -42,11 +42,9 @@ level: BMO Round 2
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 
-[[Quesiti/src_bmo_2018-19_round2#q01|src_bmo_2018-19_round2__Q01]]
 
 
-
-<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_combinatoria,method_invarianti,method_casework,method_colorazione,skill_modellizzazione,skill_riconoscimento_pattern,skill_conteggio_sistematico"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_combinatoria,topic_aritmetica,method_invarianti,method_casework,method_colorazione,skill_modellizzazione,skill_riconoscimento_pattern,skill_conteggio_sistematico"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -55,10 +53,10 @@ level: BMO Round 2
 
 > For some integer $n$, a set of $n^2$ magical chess pieces arrange themselves on a square $n^2 \times n^2$ chessboard composed of $n^4$ unit squares. At a signal, the chess pieces all teleport to another square of the chessboard such that the distance between the centres of their old and new squares is $n$. The chess pieces win if, both before and after the signal, there are no two chess pieces in the same row or column. For which values of $n$ can the chess pieces win?
 
-**Topic:** [[topic_combinatoria|Combinatoria]]
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Arithmetic / Number theory]]
 **Metodo:** [[method_invarianti|Invarianti]], [[method_casework|Casework]], [[method_colorazione|Colorazione]]
 **Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_conteggio_sistematico|Conteggio sistematico]]
-**Area:** [[Combinatoria, Logica e Probabilita]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1jUZmLCHSs55rdCMtkd0VDjc9FE08zlaC/view)
 
 
@@ -69,12 +67,11 @@ level: BMO Round 2
 
 > Per un certo intero $n$, un insieme di $n^2$ pezzi di scacchi magici si dispone su una scacchiera quadrata $n^2 \times n^2$ composta da $n^4$ caselle unitarie. Al segnale, tutti i pezzi di scacchi si teletrasportano in un'altra casella della scacchiera in modo che la distanza tra i centri delle loro caselle originarie e di quelle nuove sia $n$. I pezzi di scacchi vincono se, sia prima sia dopo il segnale, non ci sono due pezzi nella stessa riga o nella stessa colonna. Per quali valori di $n$ i pezzi di scacchi possono vincere?
 
-**Topic:** [[topic_combinatoria|Combinatoria]]
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_invarianti|Invarianti]], [[method_casework|Casework]], [[method_colorazione|Colorazione]]
 **Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_conteggio_sistematico|Conteggio sistematico]]
-**Area:** [[Combinatoria, Logica e Probabilita]]
-
-[[Quesiti/src_bmo_2018-19_round2#q02|src_bmo_2018-19_round2__Q02]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 
 
 
@@ -111,8 +108,6 @@ level: BMO Round 2
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 
-[[Quesiti/src_bmo_2018-19_round2#q03|src_bmo_2018-19_round2__Q03]]
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_funzionali,topic_algebra,method_backward,method_casework,skill_manipolazione_algebrica,skill_lettura_attenta,skill_astrazione"></span>
@@ -147,5 +142,3 @@ level: BMO Round 2
 **Metodo:** [[method_backward|Backward]], [[method_casework|Casework]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_astrazione|Astrazione]]
 **Area:** [[Algebra e Analisi]]
-
-[[Quesiti/src_bmo_2018-19_round2#q04|src_bmo_2018-19_round2__Q04]]

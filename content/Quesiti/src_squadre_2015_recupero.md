@@ -10,7 +10,7 @@ level: squadre
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_geometria_piana,topic_algebra"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_geometria_piana,topic_algebra,method_simmetria,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -29,9 +29,11 @@ level: squadre
 > superficie della sala esagonale ABGHDE da pavimentare?
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_simmetria|Sfruttamento della simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]], [[Algebra e Analisi]]
 **Risposta:** 0114
-**Fonte:** apri PDF p.2 · phiquadro.it, Archivio gare ufficiali 2015 (Gara di Recupero - Qualificazione)
+**Fonte:** [apri PDF p.2](https://www.phiquadro.it/archivio/2015_31%20marzo%20-%20Gara.pdf#page=2) · phiquadro.it, Archivio gare ufficiali 2015 (Gara di Recupero - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -43,14 +45,15 @@ level: squadre
 
 > Opening of Ratatouille. The restaurant "Da Gusteau" has closed; Linguini and Colette have opened a new one: "Il Ratatouille". It is a much smaller establishment, but if set up properly, it will suit them. They immediately decide to make a few improvements to make it more inviting. The dining room will be created by knocking down the internal partition walls. Once the walls are knocked down, they realize that these walls form equilateral triangles ABC, DEF, and GHI, where C and F lie on BD, F and I lie on EG, and C and I lie on AH. Furthermore, AB = 2·FC, DE = 3·FC, and GH = 4·FC. Finally, the area of the small room FCI is 3 m². How many square metres is the area of the hexagonal room ABGHDE that is to be floored?
 
+
 **Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_simmetria|Using symmetry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
 **Area:** [[Geometria|Geometry]], [[Algebra e Analisi|Algebra and analysis]]
 
-[[Quesiti/src_squadre_2015_recupero#q01|src_squadre_2015_recupero__Q01]]
 
 
-
-<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_probabilita,topic_aritmetica"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_probabilita,topic_aritmetica,method_fattorizzazione,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -64,9 +67,11 @@ level: squadre
 > numeri interi positivi tali che a · b = 57 e b · c = 62, quanto vale la somma a^2 + b^2 + c^2?
 
 **Topic:** [[topic_probabilita|Probabilita e statistica]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 7094
-**Fonte:** apri PDF p.2 · phiquadro.it, Archivio gare ufficiali 2015 (Gara di Recupero - Qualificazione)
+**Fonte:** [apri PDF p.2](https://www.phiquadro.it/archivio/2015_31%20marzo%20-%20Gara.pdf#page=2) · phiquadro.it, Archivio gare ufficiali 2015 (Gara di Recupero - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -78,14 +83,15 @@ level: squadre
 
 > Mathematical Pastimes 1. This morning, while waiting to open the establishment to customers, Linguini passed the time by tackling a math problem he happened to find in the latest issue of the cooking magazine "Ai fornelli con Gusteau". Given that a, b, and c are three positive integers such that a · b = 57 and b · c = 62, what is the value of a^2 + b^2 + c^2?
 
+
 **Topic:** [[topic_probabilita|Probability and statistics]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
 **Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
-[[Quesiti/src_squadre_2015_recupero#q02|src_squadre_2015_recupero__Q02]]
 
 
-
-<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_aritmetica"></span>
+<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_aritmetica,method_fattorizzazione,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -103,9 +109,11 @@ level: squadre
 > entrambi quadrati di numeri interi?
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 2013
-**Fonte:** apri PDF p.2 · phiquadro.it, Archivio gare ufficiali 2015 (Gara di Recupero - Qualificazione)
+**Fonte:** [apri PDF p.2](https://www.phiquadro.it/archivio/2015_31%20marzo%20-%20Gara.pdf#page=2) · phiquadro.it, Archivio gare ufficiali 2015 (Gara di Recupero - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -117,14 +125,15 @@ level: squadre
 
 > Gluttonous Emile. If it were up to Emile, the pantry in Ratatouille would always be empty! So, to keep his gluttonous brother in check, Rémy has come up with a trick. Every evening, he gives Emile a problem: if Emile solves it, then Rémy will serve him a nice chunk of delicious cheese from the pantry; otherwise, Emile has to make do with the restaurant leftovers. The latest puzzle is really difficult, and Emile is fed up with the leftovers! With your help, maybe tonight he'll get his nice chunk of cheese. Here's the puzzle: what is the only natural number n such that both n + 12 and n − 77 are squares of integers?
 
+
 **Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
-[[Quesiti/src_squadre_2015_recupero#q03|src_squadre_2015_recupero__Q03]]
 
 
-
-<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_algebra"></span>
+<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_algebra,topic_funzionali,method_fattorizzazione,skill_riconoscimento_pattern,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -140,10 +149,12 @@ level: squadre
 > f(x)f(y) − f(xy) = x + y
 > Quanti ristoranti saranno stati aperti dopo 5400 giorni?
 
-**Topic:** [[topic_algebra|Algebra]]
+**Topic:** [[topic_algebra|Algebra]], [[topic_funzionali|Equazioni funzionali / successioni]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Algebra e Analisi]]
 **Risposta:** 5401
-**Fonte:** apri PDF p.2 · phiquadro.it, Archivio gare ufficiali 2015 (Gara di Recupero - Qualificazione)
+**Fonte:** [apri PDF p.2](https://www.phiquadro.it/archivio/2015_31%20marzo%20-%20Gara.pdf#page=2) · phiquadro.it, Archivio gare ufficiali 2015 (Gara di Recupero - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -155,14 +166,15 @@ level: squadre
 
 > Everyone's out to dinner. In recent years, the procedure for opening a new restaurant has been streamlined, and a survey has revealed that, if we denote by f(x) the number of new restaurants opened in Paris x days after the founding of the Club of Restaurant Mice, then this function satisfies the following property: f(x)f(y) − f(xy) = x + y. How many restaurants will have been opened after 5400 days?
 
-**Topic:** [[topic_algebra|Algebra]]
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_funzionali|Functional equations / sequences]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
 **Area:** [[Algebra e Analisi|Algebra and analysis]]
 
-[[Quesiti/src_squadre_2015_recupero#q04|src_squadre_2015_recupero__Q04]]
 
 
-
-<span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_probabilita,topic_combinatoria"></span>
+<span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_probabilita,topic_combinatoria,method_conteggio,skill_conteggio_sistematico,skill_riconoscimento_pattern"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -181,9 +193,11 @@ level: squadre
 > amici?
 
 **Topic:** [[topic_probabilita|Probabilita e statistica]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_conteggio|Conteggio combinatorio]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0924
-**Fonte:** apri PDF p.2 · phiquadro.it, Archivio gare ufficiali 2015 (Gara di Recupero - Qualificazione)
+**Fonte:** [apri PDF p.2](https://www.phiquadro.it/archivio/2015_31%20marzo%20-%20Gara.pdf#page=2) · phiquadro.it, Archivio gare ufficiali 2015 (Gara di Recupero - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -195,14 +209,15 @@ level: squadre
 
 > The friends are arriving. Rémy wants to introduce Linguini to his 12 closest friends, but... they all look the same, and he's afraid Linguini will get them mixed up. So he has them put on T-shirts with a nice large number printed on the front: the numbers are all different and range from 1 to 12. He arranges the friends all in a single row with the number on their T-shirt clearly visible, but not at random—rather, using the following rule: if you look only at those with odd numbers, they are arranged in ascending order from left to right; if you look only at those with even numbers, they are also arranged in ascending order from left to right. In how many ways can Rémy line up his friends?
 
+
 **Topic:** [[topic_probabilita|Probability and statistics]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]], [[skill_riconoscimento_pattern|Pattern recognition]]
 **Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
-[[Quesiti/src_squadre_2015_recupero#q05|src_squadre_2015_recupero__Q05]]
 
 
-
-<span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_geometria_piana"></span>
+<span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_geometria_piana,method_simmetria,skill_ragionamento_geometrico"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -217,9 +232,11 @@ level: squadre
 > rispettivamente. Quanto misura l’area di base dell’intera torta, espressa in cm^2?
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_simmetria|Sfruttamento della simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]]
 **Risposta:** 1280
-**Fonte:** apri PDF p.2 · phiquadro.it, Archivio gare ufficiali 2015 (Gara di Recupero - Qualificazione)
+**Fonte:** [apri PDF p.2](https://www.phiquadro.it/archivio/2015_31%20marzo%20-%20Gara.pdf#page=2) · phiquadro.it, Archivio gare ufficiali 2015 (Gara di Recupero - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -231,14 +248,15 @@ level: squadre
 
 > Happy birthday, Emile! To celebrate Emile's birthday, Rémy has prepared a cake with triangular base ABC, and to cut the slices, he shows off his mathematical knowledge. The slice intended for Emile has a triangular base with an area of 80 cm² and is obtained by cutting the cake along the segments CQ and QN, where M, N, P, and Q are the midpoints of BC, AC, AM, and CP, respectively. What is the area of the base of the whole cake, expressed in cm²?
 
+
 **Topic:** [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_simmetria|Using symmetry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
 **Area:** [[Geometria|Geometry]]
 
-[[Quesiti/src_squadre_2015_recupero#q06|src_squadre_2015_recupero__Q06]]
 
 
-
-<span class="atom-split" id="q07" data-atom="q07" data-title="Quesito 7" data-tags="topic_aritmetica"></span>
+<span class="atom-split" id="q07" data-atom="q07" data-title="Quesito 7" data-tags="topic_aritmetica,method_congruenze,method_conteggio,skill_conteggio_sistematico,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -255,9 +273,11 @@ level: squadre
 > 1221 è un numero palindromo di quattro cifre).
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]], [[method_conteggio|Conteggio combinatorio]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 0005
-**Fonte:** apri PDF p.3 · phiquadro.it, Archivio gare ufficiali 2015 (Gara di Recupero - Qualificazione)
+**Fonte:** [apri PDF p.3](https://www.phiquadro.it/archivio/2015_31%20marzo%20-%20Gara.pdf#page=3) · phiquadro.it, Archivio gare ufficiali 2015 (Gara di Recupero - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -269,14 +289,15 @@ level: squadre
 
 > House numbering problem. Rue des Rats, the street where Ratatouille is located, has a strange numbering system: only four-digit palindromic numbers are used, in ascending order. Rémy knows that restaurants can have only a house number that is a multiple of 17. What is the maximum number of restaurants on Rue des Rats? (An integer is palindromic if it is the same when read from right to left; for example, 1221 is a four-digit palindromic number.)
 
+
 **Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]], [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
-[[Quesiti/src_squadre_2015_recupero#q07|src_squadre_2015_recupero__Q07]]
 
 
-
-<span class="atom-split" id="q08" data-atom="q08" data-title="Quesito 8" data-tags="topic_geometria_piana"></span>
+<span class="atom-split" id="q08" data-atom="q08" data-title="Quesito 8" data-tags="topic_geometria_piana,topic_geometria_solida,method_coordinate,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -290,10 +311,12 @@ level: squadre
 > Sulla perpendicolare al piano del rombo passante per D si prenda un punto V tale che V D = 4
 > m. Calcolare la distanza (in cm) del vertice B dal piano su cui giace il triangolo AV C.
 
-**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_geometria_solida|Geometria solida]]
+**Metodo:** [[method_coordinate|Metodo delle coordinate]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 **Risposta:** 0240
-**Fonte:** apri PDF p.3 · phiquadro.it, Archivio gare ufficiali 2015 (Gara di Recupero - Qualificazione)
+**Fonte:** [apri PDF p.3](https://www.phiquadro.it/archivio/2015_31%20marzo%20-%20Gara.pdf#page=3) · phiquadro.it, Archivio gare ufficiali 2015 (Gara di Recupero - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -305,14 +328,15 @@ level: squadre
 
 > Mathematical Pastimes 2. Perhaps geometry suits him better, and the problem that Linguini is about to solve is as follows: let ABCD be a rhombus with ∠DAB = 60° and side AB = 6 m. On the line perpendicular to the plane of the rhombus and passing through D, take a point V such that VD = 4 m. Calculate the distance (in cm) from vertex B to the plane containing triangle AVC.
 
-**Topic:** [[topic_geometria_piana|Plane geometry]]
+
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_geometria_solida|Solid geometry]]
+**Metodo:** [[method_coordinate|Coordinate method]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
 **Area:** [[Geometria|Geometry]]
 
-[[Quesiti/src_squadre_2015_recupero#q08|src_squadre_2015_recupero__Q08]]
 
 
-
-<span class="atom-split" id="q09" data-atom="q09" data-title="Quesito 9" data-tags="topic_aritmetica"></span>
+<span class="atom-split" id="q09" data-atom="q09" data-title="Quesito 9" data-tags="topic_aritmetica,method_casework,method_congruenze,skill_casework_accurato,skill_stima"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -328,9 +352,11 @@ level: squadre
 > alla Gusteau?
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Analisi per casi]], [[method_congruenze|Aritmetica modulare / congruenze]]
+**Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_stima|Stima e approssimazione]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 0108
-**Fonte:** apri PDF p.3 · phiquadro.it, Archivio gare ufficiali 2015 (Gara di Recupero - Qualificazione)
+**Fonte:** [apri PDF p.3](https://www.phiquadro.it/archivio/2015_31%20marzo%20-%20Gara.pdf#page=3) · phiquadro.it, Archivio gare ufficiali 2015 (Gara di Recupero - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -342,14 +368,15 @@ level: squadre
 
 > Gusteau's Secret. Yesterday, Colette decided to cook the Gusteau roast by consulting the chef's secret recipe book. To her great surprise, she found that the cooking time was hidden by a riddle: the ideal cooking time, in minutes, is the largest positive integer equal to 12 times the sum of its digits. What is the cooking time (in minutes) for the Gusteau roast?
 
+
 **Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_casework|Case analysis]], [[method_congruenze|Modular arithmetic / congruences]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]], [[skill_stima|Estimation and approximation]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
-[[Quesiti/src_squadre_2015_recupero#q09|src_squadre_2015_recupero__Q09]]
 
 
-
-<span class="atom-split" id="q10" data-atom="q10" data-title="Quesito 10" data-tags=""></span>
+<span class="atom-split" id="q10" data-atom="q10" data-title="Quesito 10" data-tags="topic_aritmetica,method_congruenze,skill_manipolazione_algebrica,skill_modellizzazione"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -363,8 +390,12 @@ level: squadre
 > centesimi. Colette si accorge di avere acquistato più pere che mele. Scrivere il prodotto del
 > numero di mele e del numero di pere acquistate da Colette.
 
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 0560
-**Fonte:** apri PDF p.3 · phiquadro.it, Archivio gare ufficiali 2015 (Gara di Recupero - Qualificazione)
+**Fonte:** [apri PDF p.3](https://www.phiquadro.it/archivio/2015_31%20marzo%20-%20Gara.pdf#page=3) · phiquadro.it, Archivio gare ufficiali 2015 (Gara di Recupero - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -376,11 +407,14 @@ level: squadre
 
 > You save money at the market. This morning, Colette went to the market to stock up on apples and pears and spent 13.30 euros. An apple costs 15 cents, while a pear costs 28 cents. Colette realizes that she bought more pears than apples. Write the product of the number of apples and the number of pears that Colette bought.
 
-[[Quesiti/src_squadre_2015_recupero#q10|src_squadre_2015_recupero__Q10]]
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
 
 
-<span class="atom-split" id="q11" data-atom="q11" data-title="Quesito 11" data-tags="topic_geometria_piana,topic_combinatoria"></span>
+<span class="atom-split" id="q11" data-atom="q11" data-title="Quesito 11" data-tags="topic_geometria_piana,topic_combinatoria,method_simmetria,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -399,9 +433,11 @@ level: squadre
 > le 25 tovaglie?
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_simmetria|Sfruttamento della simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 7776
-**Fonte:** apri PDF p.3 · phiquadro.it, Archivio gare ufficiali 2015 (Gara di Recupero - Qualificazione)
+**Fonte:** [apri PDF p.3](https://www.phiquadro.it/archivio/2015_31%20marzo%20-%20Gara.pdf#page=3) · phiquadro.it, Archivio gare ufficiali 2015 (Gara di Recupero - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -413,14 +449,15 @@ level: squadre
 
 > Tablecloth problems. The creative Colette wants to put a new tablecloth on each of the tables in the restaurant. To save money, she buys fabric of a uniform color and decides to create vividly colored prints on the tablecloths. She has at her disposal two circular templates with radii of 36 cm and 48 cm; fortunately, they are just right for her. Each tablecloth is in the shape of a rectangle ABCD. Let E be the midpoint of BC. Colette positions the smaller template so that it is inscribed in triangle AED, and the larger template so that it is inscribed in triangle ABE. How many square decimeters of fabric are needed to make the 25 tablecloths?
 
+
 **Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_simmetria|Using symmetry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
 **Area:** [[Geometria|Geometry]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
-[[Quesiti/src_squadre_2015_recupero#q11|src_squadre_2015_recupero__Q11]]
 
 
-
-<span class="atom-split" id="q12" data-atom="q12" data-title="Quesito 12" data-tags="topic_aritmetica"></span>
+<span class="atom-split" id="q12" data-atom="q12" data-title="Quesito 12" data-tags="topic_aritmetica,method_casework,skill_manipolazione_algebrica,skill_casework_accurato,skill_riconoscimento_pattern"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -439,9 +476,11 @@ level: squadre
 > vuol dire 100 · A + 10 · B + C. Quanti cucchiai di zucchero si devono utilizzare?
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Casework accurato]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 0236
-**Fonte:** apri PDF p.3 · phiquadro.it, Archivio gare ufficiali 2015 (Gara di Recupero - Qualificazione)
+**Fonte:** [apri PDF p.3](https://www.phiquadro.it/archivio/2015_31%20marzo%20-%20Gara.pdf#page=3) · phiquadro.it, Archivio gare ufficiali 2015 (Gara di Recupero - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -453,14 +492,15 @@ level: squadre
 
 > Chocolate. Gusteau's cookbook titled "Anyone Can Cook" is very original. In fact, to be able to read some of the recipes, one also has to "know some math." In one of his famous recipes, Gusteau suggests how to prepare a delicious chocolate drink and gives the measurements for 100 servings. Everything is very clear, but when it comes to specifying how many tablespoons of sugar should be used, he says that the number ABC satisfies the equation ABC = D^2 + E^2 + F^2 + G^2 + H^2 + I^2, where A, B, C, D, E, F, G, H, and I are all the digits from 1 to 9, each written exactly once, and ABC means 100 · A + 10 · B + C. How many tablespoons of sugar should be used?
 
+
 **Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_casework_accurato|Careful case analysis]], [[skill_riconoscimento_pattern|Pattern recognition]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
-[[Quesiti/src_squadre_2015_recupero#q12|src_squadre_2015_recupero__Q12]]
 
 
-
-<span class="atom-split" id="q13" data-atom="q13" data-title="Quesito 13" data-tags="topic_aritmetica"></span>
+<span class="atom-split" id="q13" data-atom="q13" data-title="Quesito 13" data-tags="topic_aritmetica,method_casework,skill_riconoscimento_pattern,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -478,9 +518,11 @@ level: squadre
 > sarà assunto. Qual è la soluzione corretta?
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 0099
-**Fonte:** apri PDF p.4 · phiquadro.it, Archivio gare ufficiali 2015 (Gara di Recupero - Qualificazione)
+**Fonte:** [apri PDF p.4](https://www.phiquadro.it/archivio/2015_31%20marzo%20-%20Gara.pdf#page=4) · phiquadro.it, Archivio gare ufficiali 2015 (Gara di Recupero - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -492,14 +534,15 @@ level: squadre
 
 > The Accountant. At the restaurant, Colette and Rémy are in charge of the kitchen, while shy Linguini handles table service. Unfortunately, though, no one is responsible for collecting payment at Ratatouille... so it is decided to hire an accountant. To choose among the candidates, Rémy asked them to calculate the following sum: 1/(2·[√1] + 1) + 1/(2·[√2] + 1) + · · + 1/(2·[√9999] + 1), where [x] represents the integer part of the real number x. The first person to give the correct solution will be hired. What is the correct solution?
 
+
 **Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
-[[Quesiti/src_squadre_2015_recupero#q13|src_squadre_2015_recupero__Q13]]
 
 
-
-<span class="atom-split" id="q14" data-atom="q14" data-title="Quesito 14" data-tags="topic_combinatoria"></span>
+<span class="atom-split" id="q14" data-atom="q14" data-title="Quesito 14" data-tags="topic_combinatoria,method_ricorsione,method_conteggio,skill_conteggio_sistematico,skill_riconoscimento_pattern"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -516,9 +559,11 @@ level: squadre
 > costretta ad usare una decorazione per la seconda volta?
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_ricorsione|Ricorsione]], [[method_conteggio|Conteggio combinatorio]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0880
-**Fonte:** apri PDF p.4 · phiquadro.it, Archivio gare ufficiali 2015 (Gara di Recupero - Qualificazione)
+**Fonte:** [apri PDF p.4](https://www.phiquadro.it/archivio/2015_31%20marzo%20-%20Gara.pdf#page=4) · phiquadro.it, Archivio gare ufficiali 2015 (Gara di Recupero - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -530,14 +575,15 @@ level: squadre
 
 > Colette's Spices. Colette has stocked up heavily on chili peppers and saffron. She has decided to decorate a shelf using ten glass jars: each day, she fills each jar with either chili peppers or saffron and lines the jars up on the shelf. Since she likes the color of saffron, she always makes sure that at least two saffron jars are next to each other. Colette also makes sure that the arrangement is different every day. After how many days will she be forced to use the same arrangement a second time?
 
+
 **Topic:** [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_ricorsione|Recursion]], [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]], [[skill_riconoscimento_pattern|Pattern recognition]]
 **Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
-[[Quesiti/src_squadre_2015_recupero#q14|src_squadre_2015_recupero__Q14]]
 
 
-
-<span class="atom-split" id="q15" data-atom="q15" data-title="Quesito 15" data-tags="topic_aritmetica"></span>
+<span class="atom-split" id="q15" data-atom="q15" data-title="Quesito 15" data-tags="topic_aritmetica,method_fattorizzazione,method_casework,skill_manipolazione_algebrica,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -554,9 +600,11 @@ level: squadre
 > quadrato di un numero intero. Qual è il più grande valore del prodotto a · b · c · d?
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]], [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 0600
-**Fonte:** apri PDF p.4 · phiquadro.it, Archivio gare ufficiali 2015 (Gara di Recupero - Qualificazione)
+**Fonte:** [apri PDF p.4](https://www.phiquadro.it/archivio/2015_31%20marzo%20-%20Gara.pdf#page=4) · phiquadro.it, Archivio gare ufficiali 2015 (Gara di Recupero - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -568,14 +616,15 @@ level: squadre
 
 > Clumsy cashier! The diligent cashier at Ratatouille records all cash receipts in the ledger and usually, on Sundays, totals the week's receipts. Unfortunately, he has lost the ledger, and when Luigini asks him for the amounts received over the past two weeks, he is mortified: he only remembers that they were two particular numbers, m = abab and n = cdcd—four-digit numbers in decimal notation. However, he had noticed an oddity: m + n was the square of an integer. What is the greatest value of the product a · b · c · d?
 
+
 **Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]], [[method_casework|Case analysis]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_casework_accurato|Careful case analysis]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
-[[Quesiti/src_squadre_2015_recupero#q15|src_squadre_2015_recupero__Q15]]
 
 
-
-<span class="atom-split" id="q16" data-atom="q16" data-title="Quesito 16" data-tags="topic_combinatoria"></span>
+<span class="atom-split" id="q16" data-atom="q16" data-title="Quesito 16" data-tags="topic_combinatoria,method_casi_conteggio,skill_conteggio_sistematico,skill_casework_accurato,skill_lettura_attenta"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -591,9 +640,11 @@ level: squadre
 > essere stato servito?
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casi_conteggio|Conteggio per casi]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]], [[skill_lettura_attenta|Lettura attenta del testo]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0210
-**Fonte:** apri PDF p.4 · phiquadro.it, Archivio gare ufficiali 2015 (Gara di Recupero - Qualificazione)
+**Fonte:** [apri PDF p.4](https://www.phiquadro.it/archivio/2015_31%20marzo%20-%20Gara.pdf#page=4) · phiquadro.it, Archivio gare ufficiali 2015 (Gara di Recupero - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -605,14 +656,15 @@ level: squadre
 
 > Appetizers for Ratatouille. Last night, the famous food critic Ego dined at the restaurant. The daily menu listed 7 different specialties with (all different) prices ranging from 3 to 9 euros. Ego had 5 of the 7 available dishes (not necessarily different ones) brought to him one at a time, and spent exactly 39 euros. In how many different ways could they have been served?
 
+
 **Topic:** [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_casi_conteggio|Counting by cases]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]], [[skill_casework_accurato|Careful case analysis]], [[skill_lettura_attenta|Careful reading of the text]]
 **Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
-[[Quesiti/src_squadre_2015_recupero#q16|src_squadre_2015_recupero__Q16]]
 
 
-
-<span class="atom-split" id="q17" data-atom="q17" data-title="Quesito 17" data-tags="topic_geometria_piana"></span>
+<span class="atom-split" id="q17" data-atom="q17" data-title="Quesito 17" data-tags="topic_geometria_piana,topic_trigonometria,method_trigonometria,skill_ragionamento_geometrico"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -626,10 +678,12 @@ level: squadre
 > colpo d’occhio: sia ABC un triangolo rettangolo con ipotenusa BC, siano D, E ∈ AB tali che
 > AD = 3, DE = 9, EB = 8, DĈE = AB̂C. Qual è l’area del triangolo CDE?
 
-**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometria]]
+**Metodo:** [[method_trigonometria|Tecniche trigonometriche]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]]
 **Risposta:** 0054
-**Fonte:** apri PDF p.4 · phiquadro.it, Archivio gare ufficiali 2015 (Gara di Recupero - Qualificazione)
+**Fonte:** [apri PDF p.4](https://www.phiquadro.it/archivio/2015_31%20marzo%20-%20Gara.pdf#page=4) · phiquadro.it, Archivio gare ufficiali 2015 (Gara di Recupero - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -641,14 +695,15 @@ level: squadre
 
 > It's time for new hires! Colette needs another kitchen helper, and so she subjects prospective "assistant cooks" to a geometry test to assess . . . their visual estimation: let ABC be a right triangle with hypotenuse BC; let D, E ∈ AB such that AD = 3, DE = 9, EB = 8, and ∠DCE = ∠ABC. What is the area of triangle CDE?
 
-**Topic:** [[topic_geometria_piana|Plane geometry]]
+
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_trigonometria|Trigonometry]]
+**Metodo:** [[method_trigonometria|Trigonometric techniques]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
 **Area:** [[Geometria|Geometry]]
 
-[[Quesiti/src_squadre_2015_recupero#q17|src_squadre_2015_recupero__Q17]]
 
 
-
-<span class="atom-split" id="q18" data-atom="q18" data-title="Quesito 18" data-tags="topic_aritmetica"></span>
+<span class="atom-split" id="q18" data-atom="q18" data-title="Quesito 18" data-tags="topic_aritmetica,method_casework,method_congruenze,skill_modellizzazione,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -665,9 +720,11 @@ level: squadre
 > come risposta il prodotto dei tre numeri trovati.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Analisi per casi]], [[method_congruenze|Aritmetica modulare / congruenze]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 0495
-**Fonte:** apri PDF p.4 · phiquadro.it, Archivio gare ufficiali 2015 (Gara di Recupero - Qualificazione)
+**Fonte:** [apri PDF p.4](https://www.phiquadro.it/archivio/2015_31%20marzo%20-%20Gara.pdf#page=4) · phiquadro.it, Archivio gare ufficiali 2015 (Gara di Recupero - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -679,14 +736,15 @@ level: squadre
 
 > At Ratatouille, the food is good and the price is low. Last night, a cheerful group of 41 people—made up of men, women, and children—had dinner at Ratatouille. They paid a total of 160 euros. If each man paid 16 euros, each woman paid 12 euros, and each group of 3 children had dinner for 4 euros, we want to find out how many men, women, and children were in the group, knowing that the number of children is a multiple of 3. Give as the answer the product of the three numbers found.
 
+
 **Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_casework|Case analysis]], [[method_congruenze|Modular arithmetic / congruences]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
-[[Quesiti/src_squadre_2015_recupero#q18|src_squadre_2015_recupero__Q18]]
 
 
-
-<span class="atom-split" id="q19" data-atom="q19" data-title="Quesito 19" data-tags="topic_combinatoria"></span>
+<span class="atom-split" id="q19" data-atom="q19" data-title="Quesito 19" data-tags="topic_combinatoria,method_casi_conteggio,method_conteggio,skill_conteggio_sistematico,skill_modellizzazione"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -703,9 +761,11 @@ level: squadre
 > pareggio.]
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casi_conteggio|Conteggio per casi]], [[method_conteggio|Conteggio combinatorio]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 1278
-**Fonte:** apri PDF p.5 · phiquadro.it, Archivio gare ufficiali 2015 (Gara di Recupero - Qualificazione)
+**Fonte:** [apri PDF p.5](https://www.phiquadro.it/archivio/2015_31%20marzo%20-%20Gara.pdf#page=5) · phiquadro.it, Archivio gare ufficiali 2015 (Gara di Recupero - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -717,14 +777,15 @@ level: squadre
 
 > Chess tournament at Ratatouille. The Ratatouille restaurant organized "Chess Week," inviting its most loyal customers to take part. In the tournament, each win is worth 3 points, each draw is worth 1 point, and each loss is worth 0 points. Rémy scored a total of 20 points and suffered no losses, but it is unknown how many games he played. How many ordered sequences of results could Rémy have achieved? [Two possibilities, for example, are: (W, W, D, D, W, W, W, W) and (W, D, W, D, W, D, W, W, D, D), where W denotes a win and D denotes a draw.]
 
+
 **Topic:** [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_casi_conteggio|Counting by cases]], [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]], [[skill_modellizzazione|Modelling / translating the text]]
 **Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
-[[Quesiti/src_squadre_2015_recupero#q19|src_squadre_2015_recupero__Q19]]
 
 
-
-<span class="atom-split" id="q20" data-atom="q20" data-title="Quesito 20" data-tags="topic_aritmetica"></span>
+<span class="atom-split" id="q20" data-atom="q20" data-title="Quesito 20" data-tags="topic_aritmetica,method_congruenze,skill_modellizzazione,skill_lettura_attenta"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -744,9 +805,11 @@ level: squadre
 > il numero pronunciato da Colette. Qual è tale numero?
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_lettura_attenta|Lettura attenta del testo]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 0275
-**Fonte:** apri PDF p.5 · phiquadro.it, Archivio gare ufficiali 2015 (Gara di Recupero - Qualificazione)
+**Fonte:** [apri PDF p.5](https://www.phiquadro.it/archivio/2015_31%20marzo%20-%20Gara.pdf#page=5) · phiquadro.it, Archivio gare ufficiali 2015 (Gara di Recupero - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -758,14 +821,15 @@ level: squadre
 
 > Meeting at Ratatouille. Yesterday was Tuesday, and Skinner and Ego were at Ratatouille, but unfortunately Colette, their favorite cook, wasn't in the kitchen. Colette is a very busy cook and only goes to cook at Ratatouille in person every 5 days, leaving her apprentice assistant to handle things on the other days. Today Ego called the restaurant; Colette answered and he asked her to reserve a table for the first Friday on which everyone would be there: Skinner, Ego, and Colette—cooking, of course! Colette, who knows that Ego comes to the restaurant every 3 days and Skinner comes every 4 days, promptly replied, "We'll see each other as soon as possible, in . . . days." Unfortunately, a noise from the kitchen drowned out the number Colette said. What is that number?
 
+
 **Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]], [[skill_lettura_attenta|Careful reading of the text]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
-[[Quesiti/src_squadre_2015_recupero#q20|src_squadre_2015_recupero__Q20]]
 
 
-
-<span class="atom-split" id="q21" data-atom="q21" data-title="Quesito 21" data-tags="topic_geometria_solida"></span>
+<span class="atom-split" id="q21" data-atom="q21" data-title="Quesito 21" data-tags="topic_geometria_solida,topic_algebra,method_fattorizzazione,skill_manipolazione_algebrica,skill_ragionamento_geometrico"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -781,10 +845,12 @@ level: squadre
 > xy + xz = 17, xy + yz = 20, xz + yz = 27
 > quanti decimetri di nastro adesivo deve usare?
 
-**Topic:** [[topic_geometria_solida|Geometria solida]]
-**Area:** [[Geometria]]
+**Topic:** [[topic_geometria_solida|Geometria solida]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Geometria]], [[Algebra e Analisi]]
 **Risposta:** 0042
-**Fonte:** apri PDF p.5 · phiquadro.it, Archivio gare ufficiali 2015 (Gara di Recupero - Qualificazione)
+**Fonte:** [apri PDF p.5](https://www.phiquadro.it/archivio/2015_31%20marzo%20-%20Gara.pdf#page=5) · phiquadro.it, Archivio gare ufficiali 2015 (Gara di Recupero - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -796,14 +862,15 @@ level: squadre
 
 > Gift package! Linguini, to thank Rémy for all the help he has given him, decides to give him a nice gift. The container is shaped like a cuboid with dimensions x, y, z (measured in decimetres), and since the box isn't very sturdy, he decides to reinforce it by running adhesive tape along all the edges. Knowing that xy + xz = 17, xy + yz = 20, and xz + yz = 27, how many decimetres of adhesive tape must he use?
 
-**Topic:** [[topic_geometria_solida|Solid geometry]]
-**Area:** [[Geometria|Geometry]]
 
-[[Quesiti/src_squadre_2015_recupero#q21|src_squadre_2015_recupero__Q21]]
+**Topic:** [[topic_geometria_solida|Solid geometry]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]], [[Algebra e Analisi|Algebra and analysis]]
 
 
 
-<span class="atom-split" id="q22" data-atom="q22" data-title="Quesito 22" data-tags="topic_combinatoria"></span>
+<span class="atom-split" id="q22" data-atom="q22" data-title="Quesito 22" data-tags="topic_combinatoria,method_casi_conteggio,skill_conteggio_sistematico"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -819,9 +886,11 @@ level: squadre
 > strofinacci. In quanti modi possono essere riposti gli strofinacci?
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casi_conteggio|Conteggio per casi]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 1107
-**Fonte:** apri PDF p.5 · phiquadro.it, Archivio gare ufficiali 2015 (Gara di Recupero - Qualificazione)
+**Fonte:** [apri PDF p.5](https://www.phiquadro.it/archivio/2015_31%20marzo%20-%20Gara.pdf#page=5) · phiquadro.it, Archivio gare ufficiali 2015 (Gara di Recupero - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -833,14 +902,15 @@ level: squadre
 
 > Let's get the kitchen in order. From today on, Colette has insisted that the kitchen be kept strictly tidy—otherwise... goodbye, Michelin stars! The dishcloths that used to be left lying around haphazardly will from now on always have to be put away in drawers. There are 8 red dishcloths and 8 green ones to be placed in 8 drawers so that each drawer contains exactly two dishcloths. In how many ways can the dishcloths be arranged?
 
+
 **Topic:** [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_casi_conteggio|Counting by cases]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
 **Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
-[[Quesiti/src_squadre_2015_recupero#q22|src_squadre_2015_recupero__Q22]]
 
 
-
-<span class="atom-split" id="q23" data-atom="q23" data-title="Quesito 23" data-tags=""></span>
+<span class="atom-split" id="q23" data-atom="q23" data-title="Quesito 23" data-tags="topic_combinatoria,topic_logica,method_invarianti,skill_modellizzazione,skill_riconoscimento_pattern"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -855,8 +925,12 @@ level: squadre
 > posto. Qual è il minimo numero possibile di scambi affinchè ciascun marito sia seduto al fianco
 > della propria moglie?
 
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_logica|Logica, giochi, strategie]]
+**Metodo:** [[method_invarianti|Invarianti / monovarianti]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0066
-**Fonte:** apri PDF p.5 · phiquadro.it, Archivio gare ufficiali 2015 (Gara di Recupero - Qualificazione)
+**Fonte:** [apri PDF p.5](https://www.phiquadro.it/archivio/2015_31%20marzo%20-%20Gara.pdf#page=5) · phiquadro.it, Archivio gare ufficiali 2015 (Gara di Recupero - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -868,11 +942,14 @@ level: squadre
 
 > A cheerful group seated around a table. Twelve couples (husband and wife) are sitting at a round table so that all the men are seated together and each woman is seated opposite her own husband on the other side of the table. A woman and a man sitting next to each other can swap places. What is the minimum possible number of swaps needed for each husband to be sitting next to his own wife?
 
-[[Quesiti/src_squadre_2015_recupero#q23|src_squadre_2015_recupero__Q23]]
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_logica|Logic, games and strategies]]
+**Metodo:** [[method_invarianti|Invariants / monovariants]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]], [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
 
 
-<span class="atom-split" id="q24" data-atom="q24" data-title="Quesito 24" data-tags="topic_aritmetica"></span>
+<span class="atom-split" id="q24" data-atom="q24" data-title="Quesito 24" data-tags="topic_aritmetica,method_fattorizzazione,method_casework,skill_casework_accurato,skill_riconoscimento_pattern"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -887,9 +964,11 @@ level: squadre
 > Qual è la somma delle cifre di tale numero?
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]], [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 0038
-**Fonte:** apri PDF p.5 · phiquadro.it, Archivio gare ufficiali 2015 (Gara di Recupero - Qualificazione)
+**Fonte:** [apri PDF p.5](https://www.phiquadro.it/archivio/2015_31%20marzo%20-%20Gara.pdf#page=5) · phiquadro.it, Archivio gare ufficiali 2015 (Gara di Recupero - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -901,7 +980,8 @@ level: squadre
 
 > The Grand Prize. A big rapid-calculation contest at the "Ratatouille" restaurant: a free dinner for two for the first person to find the smallest integer greater than 1 that is not a power of a prime and whose prime factorization can be written using only one digit. What is the sum of the digits of this number?
 
-**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
-**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
-[[Quesiti/src_squadre_2015_recupero#q24|src_squadre_2015_recupero__Q24]]
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]], [[method_casework|Case analysis]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]], [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]

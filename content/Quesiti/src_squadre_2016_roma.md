@@ -10,7 +10,7 @@ level: squadre
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags=""></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_combinatoria,method_ricorsione,skill_modellizzazione"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -25,8 +25,12 @@ level: squadre
 > di risposta contenente la somma dei due numeri ricevuti. Quanti giorni servono, al minimo, per calcolare la somma dei 230
 > numeri?
 
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_ricorsione|Ricorsione]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0009
-**Fonte:** apri PDF p.1 · phiquadro.it, Archivio gare ufficiali 2016 (Roma Tor Vergata - Qualificazione)
+**Fonte:** [apri PDF p.1](https://www.phiquadro.it/archivio/2016_17%20marzo%20-%20Roma.pdf#page=1) · phiquadro.it, Archivio gare ufficiali 2016 (Roma Tor Vergata - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -38,11 +42,14 @@ level: squadre
 
 > Professor Celletti, director of the Department of Mathematics at the University of Rome Tor Vergata, needs to add together 230 very large numbers but has broken the computer. She therefore asks her departmental colleagues for help; there are 80 of them. They decide that each of them, if in the morning they receive an email from the director containing two numbers, will undertake to write a reply email by midnight containing the sum of the two numbers received. What is the minimum number of days needed to calculate the sum of the 230 numbers?
 
-[[Quesiti/src_squadre_2016_roma#q01|src_squadre_2016_roma__Q01]]
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_ricorsione|Recursion]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
 
 
-<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags=""></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_algebra,method_fattorizzazione,skill_manipolazione_algebrica,skill_modellizzazione"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -56,8 +63,12 @@ level: squadre
 > giorni mentre, se fosse da sola Samantha che è più minuta, il cibo le basterebbe per 1617 giorni.
 > Mangiando entrambi, per quanti giorni durerà il cibo?
 
+**Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
+**Area:** [[Algebra e Analisi]]
 **Risposta:** 0588
-**Fonte:** apri PDF p.1 · phiquadro.it, Archivio gare ufficiali 2016 (Roma Tor Vergata - Qualificazione)
+**Fonte:** [apri PDF p.1](https://www.phiquadro.it/archivio/2016_17%20marzo%20-%20Roma.pdf#page=1) · phiquadro.it, Archivio gare ufficiali 2016 (Roma Tor Vergata - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -69,11 +80,14 @@ level: squadre
 
 > Luca and Samantha, the two astronauts sent to Mars by the Italian Space Agency in 2025, are taking inventory of the remaining food in preparation for their return to Earth. They have calculated that if Luca were on his own, the food would last him 924 days, whereas if Samantha—who is slighter—were on her own, the food would last her 1617 days. If they both eat, how many days will the food last?
 
-[[Quesiti/src_squadre_2016_roma#q02|src_squadre_2016_roma__Q02]]
+**Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
 
 
 
-<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_aritmetica"></span>
+<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_aritmetica,topic_combinatoria,method_inclusione_esclusione,method_casi_conteggio,skill_conteggio_sistematico"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -87,10 +101,12 @@ level: squadre
 > 3, 6, 9, 12, 13, 15, 18, 21, 23, . . .
 > Qual è il 2016-esimo termine di tale sequenza?
 
-**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Area:** [[Aritmetica e Teoria dei Numeri]]
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_inclusione_esclusione|Inclusione-esclusione]], [[method_casi_conteggio|Conteggio per casi]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 3474
-**Fonte:** apri PDF p.1 · phiquadro.it, Archivio gare ufficiali 2016 (Roma Tor Vergata - Qualificazione)
+**Fonte:** [apri PDF p.1](https://www.phiquadro.it/archivio/2016_17%20marzo%20-%20Roma.pdf#page=1) · phiquadro.it, Archivio gare ufficiali 2016 (Roma Tor Vergata - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -102,14 +118,15 @@ level: squadre
 
 > Consider the sequence, in increasing order, of positive integers that are divisible by 3 or have at least one 3 in their digits: 3, 6, 9, 12, 13, 15, 18, 21, 23, ... What is the 2016th term of this sequence?
 
-**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
-**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
-[[Quesiti/src_squadre_2016_roma#q03|src_squadre_2016_roma__Q03]]
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_inclusione_esclusione|Inclusion–exclusion]], [[method_casi_conteggio|Counting by cases]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
 
 
-<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_aritmetica"></span>
+<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_aritmetica,method_casework,skill_riconoscimento_pattern,skill_lettura_attenta"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -130,9 +147,11 @@ level: squadre
 > Se si esegue il procedimento con n = 10000, qual è l’ultimo numero che viene tolto?
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_lettura_attenta|Lettura attenta del testo]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 9991
-**Fonte:** apri PDF p.1 · phiquadro.it, Archivio gare ufficiali 2016 (Roma Tor Vergata - Qualificazione)
+**Fonte:** [apri PDF p.1](https://www.phiquadro.it/archivio/2016_17%20marzo%20-%20Roma.pdf#page=1) · phiquadro.it, Archivio gare ufficiali 2016 (Roma Tor Vergata - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -150,14 +169,15 @@ level: squadre
 > (d) Step (c) is repeated until every number on the list has been removed or circled in red.
 > The numbers that end up circled in red are the prime numbers less than or equal to n. If the procedure is carried out with n = 10000, what is the last number that is removed?
 
+
 **Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]], [[skill_lettura_attenta|Careful reading of the text]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
-[[Quesiti/src_squadre_2016_roma#q04|src_squadre_2016_roma__Q04]]
 
 
-
-<span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_geometria_piana"></span>
+<span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_geometria_piana,skill_ragionamento_geometrico"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -171,9 +191,10 @@ level: squadre
 > l’intersezione di AC e BD.
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]]
 **Risposta:** 0712
-**Fonte:** apri PDF p.1 · phiquadro.it, Archivio gare ufficiali 2016 (Roma Tor Vergata - Qualificazione)
+**Fonte:** [apri PDF p.1](https://www.phiquadro.it/archivio/2016_17%20marzo%20-%20Roma.pdf#page=1) · phiquadro.it, Archivio gare ufficiali 2016 (Roma Tor Vergata - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -185,14 +206,14 @@ level: squadre
 
 > Let ABCD be a convex quadrilateral and let P be a point on side AB different from B. We know that AB = AC = BD = 3AD = 3BC = 3CP and that, if Q is the intersection of CP and BD, the area of triangle PBQ is 17. Find the area of APQT, where T is the intersection of AC and BD.
 
+
 **Topic:** [[topic_geometria_piana|Plane geometry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
 **Area:** [[Geometria|Geometry]]
 
-[[Quesiti/src_squadre_2016_roma#q05|src_squadre_2016_roma__Q05]]
 
 
-
-<span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_geometria_piana"></span>
+<span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_geometria_piana,topic_trigonometria,method_trigonometria,skill_ragionamento_geometrico"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -203,10 +224,12 @@ level: squadre
 
 > Nel rombo ABCD si ha AB = 2016 e ∠ABC = 72°. Quanto dista da D un punto P che sia equidistante da A, B e C?
 
-**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometria]]
+**Metodo:** [[method_trigonometria|Tecniche trigonometriche]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]]
 **Risposta:** 2016
-**Fonte:** apri PDF p.1 · phiquadro.it, Archivio gare ufficiali 2016 (Roma Tor Vergata - Qualificazione)
+**Fonte:** [apri PDF p.1](https://www.phiquadro.it/archivio/2016_17%20marzo%20-%20Roma.pdf#page=1) · phiquadro.it, Archivio gare ufficiali 2016 (Roma Tor Vergata - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -218,14 +241,15 @@ level: squadre
 
 > In parallelogram ABCD, AB = 2016 and ∠ABC = 72°. How far is a point P, which is equidistant from A, B, and C, from D?
 
-**Topic:** [[topic_geometria_piana|Plane geometry]]
+
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_trigonometria|Trigonometry]]
+**Metodo:** [[method_trigonometria|Trigonometric techniques]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
 **Area:** [[Geometria|Geometry]]
 
-[[Quesiti/src_squadre_2016_roma#q06|src_squadre_2016_roma__Q06]]
 
 
-
-<span class="atom-split" id="q07" data-atom="q07" data-title="Quesito 7" data-tags="topic_geometria_solida"></span>
+<span class="atom-split" id="q07" data-atom="q07" data-title="Quesito 7" data-tags="topic_geometria_solida,topic_combinatoria,method_simmetria,method_conteggio,method_casi_conteggio,skill_conteggio_sistematico,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -239,10 +263,12 @@ level: squadre
 > sbilanciati si possono costruire? (due distribuzioni di numeri vanno considerate identiche, e quindi contate una sola volta, se
 > esiste una rotazione nello spazio che le sovrappone)
 
-**Topic:** [[topic_geometria_solida|Geometria solida]]
-**Area:** [[Geometria]]
+**Topic:** [[topic_geometria_solida|Geometria solida]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_simmetria|Sfruttamento della simmetria]], [[method_conteggio|Conteggio combinatorio]], [[method_casi_conteggio|Conteggio per casi]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Geometria]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 9504
-**Fonte:** apri PDF p.1 · phiquadro.it, Archivio gare ufficiali 2016 (Roma Tor Vergata - Qualificazione)
+**Fonte:** [apri PDF p.1](https://www.phiquadro.it/archivio/2016_17%20marzo%20-%20Roma.pdf#page=1) · phiquadro.it, Archivio gare ufficiali 2016 (Roma Tor Vergata - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -254,14 +280,15 @@ level: squadre
 
 > To construct an unbalanced dodecahedral die, take a regular dodecahedron and write a number from 1 to 6 on each of its faces so that all the numbers appear at least once and one of them appears 7 times. How many different unbalanced dodecahedral dice can be constructed? (Two number distributions are to be regarded as identical and therefore counted only once if there exists a rotation in space that superimposes them.)
 
-**Topic:** [[topic_geometria_solida|Solid geometry]]
-**Area:** [[Geometria|Geometry]]
 
-[[Quesiti/src_squadre_2016_roma#q07|src_squadre_2016_roma__Q07]]
+**Topic:** [[topic_geometria_solida|Solid geometry]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_simmetria|Using symmetry]], [[method_conteggio|Combinatorial counting]], [[method_casi_conteggio|Counting by cases]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]], [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Geometria|Geometry]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
 
 
-<span class="atom-split" id="q08" data-atom="q08" data-title="Quesito 8" data-tags="topic_algebra"></span>
+<span class="atom-split" id="q08" data-atom="q08" data-title="Quesito 8" data-tags="topic_algebra,topic_aritmetica,method_casework,method_fattorizzazione,skill_riconoscimento_pattern,skill_conteggio_sistematico"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -273,10 +300,12 @@ level: squadre
 > Per ogni intero positivo n indichiamo con R\_n l’intero più vicino alla sua radice quadrata. Dire con quanti zeri termina il
 > prodotto R\_1 · R\_2 · R\_3 · R\_4 · . . . · R\_(2016).
 
-**Topic:** [[topic_algebra|Algebra]]
-**Area:** [[Algebra e Analisi]]
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Analisi per casi]], [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 0446
-**Fonte:** apri PDF p.1 · phiquadro.it, Archivio gare ufficiali 2016 (Roma Tor Vergata - Qualificazione)
+**Fonte:** [apri PDF p.1](https://www.phiquadro.it/archivio/2016_17%20marzo%20-%20Roma.pdf#page=1) · phiquadro.it, Archivio gare ufficiali 2016 (Roma Tor Vergata - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -288,14 +317,15 @@ level: squadre
 
 > For each positive integer n, let R_n denote the integer closest to the square root of n. State how many zeros the product R_1 · R_2 · R_3 · R_4 · ... · R_(2016) ends with.
 
-**Topic:** [[topic_algebra|Algebra]]
-**Area:** [[Algebra e Analisi|Algebra and analysis]]
 
-[[Quesiti/src_squadre_2016_roma#q08|src_squadre_2016_roma__Q08]]
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_casework|Case analysis]], [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]], [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
 
 
-<span class="atom-split" id="q09" data-atom="q09" data-title="Quesito 9" data-tags="topic_geometria_solida"></span>
+<span class="atom-split" id="q09" data-atom="q09" data-title="Quesito 9" data-tags="topic_geometria_solida,topic_trigonometria,method_trigonometria,skill_ragionamento_geometrico,skill_modellizzazione"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -310,10 +340,12 @@ level: squadre
 > raggiungere il polo nord è minore o uguale di 500 Km. Sapendo che le coste del continente sono lunghe 3000 Km, dire quanto
 > misura, in chilometri, l’equatore.
 
-**Topic:** [[topic_geometria_solida|Geometria solida]]
+**Topic:** [[topic_geometria_solida|Geometria solida]], [[topic_trigonometria|Trigonometria]]
+**Metodo:** [[method_trigonometria|Tecniche trigonometriche]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
 **Area:** [[Geometria]]
 **Risposta:** 6000
-**Fonte:** apri PDF p.1 · phiquadro.it, Archivio gare ufficiali 2016 (Roma Tor Vergata - Qualificazione)
+**Fonte:** [apri PDF p.1](https://www.phiquadro.it/archivio/2016_17%20marzo%20-%20Roma.pdf#page=1) · phiquadro.it, Archivio gare ufficiali 2016 (Roma Tor Vergata - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -325,14 +357,15 @@ level: squadre
 
 > The Remote Probe sent by the Italian Space Agency to explore the planet Terminus in anticipation of its colonization has revealed that the planet's surface is perfectly spherical and is largely covered by water. Indeed, there is a single continent, entirely contained within the Northern Hemisphere, consisting of all and only those points on the planet for which the distance to the North Pole is less than or equal to 500 km. Given that the continent's coastlines total 3000 km in length, state the length, in kilometers, of the equator.
 
-**Topic:** [[topic_geometria_solida|Solid geometry]]
+
+**Topic:** [[topic_geometria_solida|Solid geometry]], [[topic_trigonometria|Trigonometry]]
+**Metodo:** [[method_trigonometria|Trigonometric techniques]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_modellizzazione|Modelling / translating the text]]
 **Area:** [[Geometria|Geometry]]
 
-[[Quesiti/src_squadre_2016_roma#q09|src_squadre_2016_roma__Q09]]
 
 
-
-<span class="atom-split" id="q10" data-atom="q10" data-title="Quesito 10" data-tags="topic_geometria_piana"></span>
+<span class="atom-split" id="q10" data-atom="q10" data-title="Quesito 10" data-tags="topic_geometria_piana,topic_trigonometria,method_trigonometria,skill_ragionamento_geometrico"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -343,10 +376,12 @@ level: squadre
 
 > Il triangolo ABC è rettangolo in B ed ha Â = 30°. La bisettrice di Â divide il triangolo in due parti, la minore delle quali ha area 2738 cm^2. Quanti centimetri misura tale bisettrice?
 
-**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometria]]
+**Metodo:** [[method_trigonometria|Tecniche trigonometriche]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]]
 **Risposta:** 0148
-**Fonte:** apri PDF p.1 · phiquadro.it, Archivio gare ufficiali 2016 (Roma Tor Vergata - Qualificazione)
+**Fonte:** [apri PDF p.1](https://www.phiquadro.it/archivio/2016_17%20marzo%20-%20Roma.pdf#page=1) · phiquadro.it, Archivio gare ufficiali 2016 (Roma Tor Vergata - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -358,14 +393,15 @@ level: squadre
 
 > Triangle ABC is right-angled at B and has angle A = 30°. The bisector of angle A divides the triangle into two parts, the smaller of which has an area of 2738 cm². How many centimetres long is this bisector?
 
-**Topic:** [[topic_geometria_piana|Plane geometry]]
+
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_trigonometria|Trigonometry]]
+**Metodo:** [[method_trigonometria|Trigonometric techniques]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
 **Area:** [[Geometria|Geometry]]
 
-[[Quesiti/src_squadre_2016_roma#q10|src_squadre_2016_roma__Q10]]
 
 
-
-<span class="atom-split" id="q11" data-atom="q11" data-title="Quesito 11" data-tags="topic_aritmetica"></span>
+<span class="atom-split" id="q11" data-atom="q11" data-title="Quesito 11" data-tags="topic_aritmetica,method_congruenze,method_fattorizzazione,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -377,9 +413,11 @@ level: squadre
 > Sia n = 15328471582, che resto si ottiene dividendo n^(10) per 495?
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]], [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 0199
-**Fonte:** apri PDF p.1 · phiquadro.it, Archivio gare ufficiali 2016 (Roma Tor Vergata - Qualificazione)
+**Fonte:** [apri PDF p.1](https://www.phiquadro.it/archivio/2016_17%20marzo%20-%20Roma.pdf#page=1) · phiquadro.it, Archivio gare ufficiali 2016 (Roma Tor Vergata - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -391,14 +429,15 @@ level: squadre
 
 > Let n = 15328471582; what remainder is obtained when n^10 is divided by 495?
 
+
 **Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]], [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
-[[Quesiti/src_squadre_2016_roma#q11|src_squadre_2016_roma__Q11]]
 
 
-
-<span class="atom-split" id="q12" data-atom="q12" data-title="Quesito 12" data-tags="topic_aritmetica"></span>
+<span class="atom-split" id="q12" data-atom="q12" data-title="Quesito 12" data-tags="topic_aritmetica,method_fattorizzazione,method_casework,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -410,9 +449,11 @@ level: squadre
 > Del numero intero positivo n sappiamo che ha 144 divisori. Quanti ne ha, al massimo, il suo quadrato?
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]], [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 2025
-**Fonte:** apri PDF p.1 · phiquadro.it, Archivio gare ufficiali 2016 (Roma Tor Vergata - Qualificazione)
+**Fonte:** [apri PDF p.1](https://www.phiquadro.it/archivio/2016_17%20marzo%20-%20Roma.pdf#page=1) · phiquadro.it, Archivio gare ufficiali 2016 (Roma Tor Vergata - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -424,14 +465,15 @@ level: squadre
 
 > Of the positive integer n, we know that it has 144 divisors. At most, how many divisors does its square have?
 
+
 **Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]], [[method_casework|Case analysis]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
-[[Quesiti/src_squadre_2016_roma#q12|src_squadre_2016_roma__Q12]]
 
 
-
-<span class="atom-split" id="q13" data-atom="q13" data-title="Quesito 13" data-tags="topic_combinatoria"></span>
+<span class="atom-split" id="q13" data-atom="q13" data-title="Quesito 13" data-tags="topic_combinatoria,method_inclusione_esclusione,skill_conteggio_sistematico"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -443,9 +485,11 @@ level: squadre
 > Quanti sono gli anagrammi della parola VENTOTTO che non hanno mai due lettere adiacenti uguali?
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_inclusione_esclusione|Inclusione-esclusione]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0960
-**Fonte:** apri PDF p.1 · phiquadro.it, Archivio gare ufficiali 2016 (Roma Tor Vergata - Qualificazione)
+**Fonte:** [apri PDF p.1](https://www.phiquadro.it/archivio/2016_17%20marzo%20-%20Roma.pdf#page=1) · phiquadro.it, Archivio gare ufficiali 2016 (Roma Tor Vergata - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -457,14 +501,15 @@ level: squadre
 
 > How many anagrams of the word VENTOTTO have no two adjacent letters that are the same?
 
+
 **Topic:** [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_inclusione_esclusione|Inclusion–exclusion]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
 **Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
-[[Quesiti/src_squadre_2016_roma#q13|src_squadre_2016_roma__Q13]]
 
 
-
-<span class="atom-split" id="q14" data-atom="q14" data-title="Quesito 14" data-tags="topic_geometria_piana"></span>
+<span class="atom-split" id="q14" data-atom="q14" data-title="Quesito 14" data-tags="topic_geometria_piana,method_trigonometria,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -476,9 +521,11 @@ level: squadre
 > I lati del triangolo T\_1 misurano 21, 20 e 13. La circonferenza inscritta in T\_1 tocca i suoi lati in 3 punti che sono vertici di un triangolo T\_2. Sia m/n la frazione, ridotta ai minimi termini, che rappresenta l’area di T\_2. Quanto vale m + n?
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_trigonometria|Tecniche trigonometriche]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 **Risposta:** 1829
-**Fonte:** apri PDF p.2 · phiquadro.it, Archivio gare ufficiali 2016 (Roma Tor Vergata - Qualificazione)
+**Fonte:** [apri PDF p.2](https://www.phiquadro.it/archivio/2016_17%20marzo%20-%20Roma.pdf#page=2) · phiquadro.it, Archivio gare ufficiali 2016 (Roma Tor Vergata - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -490,14 +537,15 @@ level: squadre
 
 > The sides of triangle T_1 measure 21, 20, and 13. The incircle of T_1 touches its sides at 3 points that are the vertices of triangle T_2. Let m/n be the fraction, in lowest terms, representing the area of T_2. What is the value of m + n?
 
+
 **Topic:** [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_trigonometria|Trigonometric techniques]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
 **Area:** [[Geometria|Geometry]]
 
-[[Quesiti/src_squadre_2016_roma#q14|src_squadre_2016_roma__Q14]]
 
 
-
-<span class="atom-split" id="q15" data-atom="q15" data-title="Quesito 15" data-tags="topic_geometria_piana"></span>
+<span class="atom-split" id="q15" data-atom="q15" data-title="Quesito 15" data-tags="topic_geometria_piana,topic_geometria_analitica,method_coordinate,skill_manipolazione_algebrica,skill_ragionamento_geometrico"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -508,10 +556,12 @@ level: squadre
 
 > Nel piano cartesiano la retta y = x interseca l’ellisse x^2/576 + y^2/441 = 1 nei punti P e Q. Calcolare l’area del quadrilatero ABCD circoscritto all’ellisse e tale che BC e DA sono paralleli a PQ mentre AB e CD sono tangenti all’ellisse rispettivamente nei punti P e Q.
 
-**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_geometria_analitica|Geometria analitica]]
+**Metodo:** [[method_coordinate|Metodo delle coordinate]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]]
 **Risposta:** 2016
-**Fonte:** apri PDF p.2 · phiquadro.it, Archivio gare ufficiali 2016 (Roma Tor Vergata - Qualificazione)
+**Fonte:** [apri PDF p.2](https://www.phiquadro.it/archivio/2016_17%20marzo%20-%20Roma.pdf#page=2) · phiquadro.it, Archivio gare ufficiali 2016 (Roma Tor Vergata - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -523,14 +573,15 @@ level: squadre
 
 > In the Cartesian plane, the line y = x intersects the ellipse x^2/576 + y^2/441 = 1 at points P and Q. Calculate the area of quadrilateral ABCD, which is circumscribed about the ellipse and has BC and DA parallel to PQ while AB and CD are tangent to the ellipse at points P and Q, respectively.
 
-**Topic:** [[topic_geometria_piana|Plane geometry]]
+
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_geometria_analitica|Coordinate geometry]]
+**Metodo:** [[method_coordinate|Coordinate method]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_ragionamento_geometrico|Geometric reasoning]]
 **Area:** [[Geometria|Geometry]]
 
-[[Quesiti/src_squadre_2016_roma#q15|src_squadre_2016_roma__Q15]]
 
 
-
-<span class="atom-split" id="q16" data-atom="q16" data-title="Quesito 16" data-tags="topic_geometria_solida"></span>
+<span class="atom-split" id="q16" data-atom="q16" data-title="Quesito 16" data-tags="topic_geometria_solida,method_coordinate,method_estremalita,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -544,9 +595,11 @@ level: squadre
 > volume massimo. Quanto vale il quadrato della lunghezza della quarta mediana?
 
 **Topic:** [[topic_geometria_solida|Geometria solida]]
+**Metodo:** [[method_coordinate|Metodo delle coordinate]], [[method_estremalita|Principio di estremalita]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 **Risposta:** 2036
-**Fonte:** apri PDF p.2 · phiquadro.it, Archivio gare ufficiali 2016 (Roma Tor Vergata - Qualificazione)
+**Fonte:** [apri PDF p.2](https://www.phiquadro.it/archivio/2016_17%20marzo%20-%20Roma.pdf#page=2) · phiquadro.it, Archivio gare ufficiali 2016 (Roma Tor Vergata - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -558,14 +611,15 @@ level: squadre
 
 > In a tetrahedron, a median is a line segment joining a vertex to the centroid of the opposite face. We know that a tetrahedron has three medians of lengths 24, 26, and 28, and that, moreover, among all tetrahedra with three medians of those lengths, this one has the greatest volume. What is the square of the length of the fourth median?
 
+
 **Topic:** [[topic_geometria_solida|Solid geometry]]
+**Metodo:** [[method_coordinate|Coordinate method]], [[method_estremalita|Extremal principle]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
 **Area:** [[Geometria|Geometry]]
 
-[[Quesiti/src_squadre_2016_roma#q16|src_squadre_2016_roma__Q16]]
 
 
-
-<span class="atom-split" id="q17" data-atom="q17" data-title="Quesito 17" data-tags="topic_combinatoria"></span>
+<span class="atom-split" id="q17" data-atom="q17" data-title="Quesito 17" data-tags="topic_combinatoria,method_conteggio,skill_conteggio_sistematico,skill_modellizzazione"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -581,9 +635,11 @@ level: squadre
 > figura 1
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_conteggio|Conteggio combinatorio]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 5741
-**Fonte:** apri PDF p.2 · phiquadro.it, Archivio gare ufficiali 2016 (Roma Tor Vergata - Qualificazione)
+**Fonte:** [apri PDF p.2](https://www.phiquadro.it/archivio/2016_17%20marzo%20-%20Roma.pdf#page=2) · phiquadro.it, Archivio gare ufficiali 2016 (Roma Tor Vergata - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -595,14 +651,15 @@ level: squadre
 
 > We want to write the integers from 1 to 20, each exactly once, into the 20 cells of Figure 1 so that the following property holds: if two cells share a part of a vertical side, then the number written in the cell farther to the right is larger. In how many ways can we do this? Figure 1
 
+
 **Topic:** [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]], [[skill_modellizzazione|Modelling / translating the text]]
 **Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
-[[Quesiti/src_squadre_2016_roma#q17|src_squadre_2016_roma__Q17]]
 
 
-
-<span class="atom-split" id="q18" data-atom="q18" data-title="Quesito 18" data-tags="topic_algebra"></span>
+<span class="atom-split" id="q18" data-atom="q18" data-title="Quesito 18" data-tags="topic_algebra,topic_aritmetica,method_casework,skill_riconoscimento_pattern,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -615,10 +672,12 @@ level: squadre
 > si ritiene che i dati siano insufficienti a rispondere, dare come risposta 0. Se non esiste alcun polinomio con le caratteristiche
 > richieste dare come risposta 9999.)
 
-**Topic:** [[topic_algebra|Algebra]]
-**Area:** [[Algebra e Analisi]]
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 8115
-**Fonte:** apri PDF p.2 · phiquadro.it, Archivio gare ufficiali 2016 (Roma Tor Vergata - Qualificazione)
+**Fonte:** [apri PDF p.2](https://www.phiquadro.it/archivio/2016_17%20marzo%20-%20Roma.pdf#page=2) · phiquadro.it, Archivio gare ufficiali 2016 (Roma Tor Vergata - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -630,14 +689,15 @@ level: squadre
 
 > Let P(x) be a polynomial with non-negative integer coefficients such that P(0) = 33, P(1) = 40, and P(9) = 60000. What is the value of P(6)? (If you believe the data are insufficient to answer, give 0 as the answer. If no polynomial with the required properties exists, give 9999 as the answer.)
 
-**Topic:** [[topic_algebra|Algebra]]
-**Area:** [[Algebra e Analisi|Algebra and analysis]]
 
-[[Quesiti/src_squadre_2016_roma#q18|src_squadre_2016_roma__Q18]]
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
 
 
-<span class="atom-split" id="q19" data-atom="q19" data-title="Quesito 19" data-tags="topic_combinatoria"></span>
+<span class="atom-split" id="q19" data-atom="q19" data-title="Quesito 19" data-tags="topic_combinatoria,method_casework,method_backward,skill_casework_accurato,skill_modellizzazione"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -657,9 +717,11 @@ level: squadre
 > figura 2
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casework|Analisi per casi]], [[method_backward|Ragionamento all'indietro]]
+**Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 4290
-**Fonte:** apri PDF p.2 · phiquadro.it, Archivio gare ufficiali 2016 (Roma Tor Vergata - Qualificazione)
+**Fonte:** [apri PDF p.2](https://www.phiquadro.it/archivio/2016_17%20marzo%20-%20Roma.pdf#page=2) · phiquadro.it, Archivio gare ufficiali 2016 (Roma Tor Vergata - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -671,14 +733,15 @@ level: squadre
 
 > In each of the cells of the table in Figure 2, a digit from 1 to 9 is written so that, whatever two adjacent cells are chosen, the digit written in the right-hand cell is greater than or equal to the digit in the left-hand cell. I place a flea on any cell and instruct it: "Each time I clap my hands, look at the number written in the cell where you are, and jump to the cell whose position, counting from the left, is exactly that number. For example, if the number 1 is written in your cell, you must jump to the first cell; if 2 is written, you must jump to the second cell, and so on." I find that the following happens: whatever cell I initially place the flea in, after 2016 claps it always ends up in one of the two cells at the ends of the table. In how many different ways can the numbers be written on the table? Figure 2
 
+
 **Topic:** [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_casework|Case analysis]], [[method_backward|Working backwards]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]], [[skill_modellizzazione|Modelling / translating the text]]
 **Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
-[[Quesiti/src_squadre_2016_roma#q19|src_squadre_2016_roma__Q19]]
 
 
-
-<span class="atom-split" id="q20" data-atom="q20" data-title="Quesito 20" data-tags="topic_logica"></span>
+<span class="atom-split" id="q20" data-atom="q20" data-title="Quesito 20" data-tags="topic_logica,method_invarianti,method_backward,skill_astrazione,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -699,9 +762,11 @@ level: squadre
 > Quante sono le possibili mosse che gli permettono di farlo?
 
 **Topic:** [[topic_logica|Logica, giochi, strategie]]
+**Metodo:** [[method_invarianti|Invarianti / monovarianti]], [[method_backward|Ragionamento all'indietro]]
+**Abilita:** [[skill_astrazione|Astrazione / generalizzazione]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 9520
-**Fonte:** apri PDF p.2 · phiquadro.it, Archivio gare ufficiali 2016 (Roma Tor Vergata - Qualificazione)
+**Fonte:** [apri PDF p.2](https://www.phiquadro.it/archivio/2016_17%20marzo%20-%20Roma.pdf#page=2) · phiquadro.it, Archivio gare ufficiali 2016 (Roma Tor Vergata - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -718,7 +783,8 @@ level: squadre
 > (c) loses whoever no longer has any moves left to make—which happens as soon as all 3 pieces on the table have length.
 > Less than or equal to 2. At a certain point, there are 3 sticks on the table measuring 2016, 2017, and 2018, and it's Prof. Natalini's turn; he realizes that he can force a win. How many possible moves allow him to do so?
 
-**Topic:** [[topic_logica|Logic, games and strategies]]
-**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
-[[Quesiti/src_squadre_2016_roma#q20|src_squadre_2016_roma__Q20]]
+**Topic:** [[topic_logica|Logic, games and strategies]]
+**Metodo:** [[method_invarianti|Invariants / monovariants]], [[method_backward|Working backwards]]
+**Abilita:** [[skill_astrazione|Abstraction / generalisation]], [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]

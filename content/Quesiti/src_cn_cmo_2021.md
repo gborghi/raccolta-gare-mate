@@ -10,7 +10,7 @@ level: China Mathematical Olympiad
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_geometria_piana,method_coordinate,skill_ragionamento_geometrico,skill_modellizzazione"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_geometria_piana,topic_geometria_analitica,method_coordinate,skill_ragionamento_geometrico,skill_modellizzazione,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -19,10 +19,10 @@ level: China Mathematical Olympiad
 
 > Given positive numbers $a$, $b$ and segment $AB$ of length $a$ on a plane, suppose two moving points $C$, $D$ in this plane satisfy that $ABCD$ is a non-degenerate convex quadrilateral with $BC = CD = b$, $DA = a$. It is easy to see that there exists circle $I$ tangent to all the four sides of quadrilateral $ABCD$. Find the trajectory of center $I$.
 
-**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_geometria_analitica|Coordinate geometry]]
 **Metodo:** [[method_coordinate|Coordinate]]
-**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]]
-**Area:** [[Geometria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Geometria|Geometry]]
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1OFC5fmTEMyWQSx2doV1_Jplo27sQCZ_A/view)
 
 
@@ -33,16 +33,15 @@ level: China Mathematical Olympiad
 
 > Dati i numeri positivi $a$, $b$ e il segmento $AB$ di lunghezza $a$ in un piano, si supponga che due punti mobili $C$, $D$ di questo piano soddisfino la condizione che $ABCD$ sia un quadrilatero convesso non degenerato con $BC = CD = b$, $DA = a$. È facile vedere che esiste la circonferenza $I$ tangente a tutti e quattro i lati del quadrilatero $ABCD$. Determinare la traiettoria del centro $I$.
 
-**Topic:** [[topic_geometria_piana|Geometria piana]]
+
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_geometria_analitica|Geometria analitica]]
 **Metodo:** [[method_coordinate|Coordinate]]
-**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 
-[[Quesiti/src_cn_cmo_2021#q01|src_cn_cmo_2021__Q01]]
 
 
-
-<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_algebra,method_disuguaglianze,method_estremalita,skill_manipolazione_algebrica,skill_ragionamento_geometrico,skill_stima"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_algebra,topic_disuguaglianze,method_disuguaglianze,method_estremalita,skill_manipolazione_algebrica,skill_ragionamento_geometrico,skill_stima"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -51,10 +50,10 @@ level: China Mathematical Olympiad
 
 > Find the maximum real number $\lambda$ that satisfies the following condition: for any positive real numbers $p, q, r, s$ and a complex number $z = a + bi$ ($a, b \in \mathbb{R}$) such that $|b| \geq \lambda|a|$, $pz^3 + 2qz^2 + 2rz + s \neq 0$.
 
-**Topic:** [[topic_algebra|Algebra]]
+**Topic:** [[topic_algebra|Algebra]], [[topic_disuguaglianze|Inequalities]]
 **Metodo:** [[method_disuguaglianze|Disuguaglianze]], [[method_estremalita|Estremalità]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_stima|Stima]]
-**Area:** [[Algebra e Analisi]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
 **Risposta:** $\sqrt{3}$
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1OFC5fmTEMyWQSx2doV1_Jplo27sQCZ_A/view)
 
@@ -66,16 +65,15 @@ level: China Mathematical Olympiad
 
 > Trovare il numero reale massimo $\lambda$ che soddisfa la seguente condizione: per qualsiasi numero reale positivo $p, q, r, s$ e qualsiasi numero complesso $z = a + bi$ ($a, b \in \mathbb{R}$) tali che $|b| \geq \lambda|a|$, $pz^3 + 2qz^2 + 2rz + s \neq 0$.
 
-**Topic:** [[topic_algebra|Algebra]]
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_disuguaglianze|Disuguaglianze]]
 **Metodo:** [[method_disuguaglianze|Disuguaglianze]], [[method_estremalita|Estremalità]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_stima|Stima]]
 **Area:** [[Algebra e Analisi]]
 
-[[Quesiti/src_cn_cmo_2021#q02|src_cn_cmo_2021__Q02]]
 
 
-
-<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_aritmetica,topic_combinatoria,method_congruenze,method_casework,skill_manipolazione_algebrica,skill_conteggio_sistematico,skill_riconoscimento_pattern"></span>
+<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_aritmetica,topic_combinatoria,method_congruenze,method_casework,method_bigezione,skill_manipolazione_algebrica,skill_conteggio_sistematico,skill_riconoscimento_pattern"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -85,9 +83,9 @@ level: China Mathematical Olympiad
 > Find all integers $a$ satisfying the following condition: there exists a set $X$ of $6$ integers such that for each $k = 1, 2, \ldots, 36$, there exist $x, y \in X$ such that $ax + y \equiv k \pmod{37}$.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
-**Metodo:** [[method_congruenze|Congruenze]], [[method_casework|Casework]]
+**Metodo:** [[method_congruenze|Congruenze]], [[method_casework|Casework]], [[method_bigezione|Bijection / correspondence]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
-**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1OFC5fmTEMyWQSx2doV1_Jplo27sQCZ_A/view)
 
 
@@ -98,12 +96,11 @@ level: China Mathematical Olympiad
 
 > Trovare tutti gli interi $a$ che soddisfano la seguente condizione: esiste un insieme $X$ di $6$ interi tale che, per ogni $k = 1, 2, \ldots, 36$, esistono $x, y \in X$ tali che $ax + y \equiv k \pmod{37}$.
 
+
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
-**Metodo:** [[method_congruenze|Congruenze]], [[method_casework|Casework]]
+**Metodo:** [[method_congruenze|Congruenze]], [[method_casework|Casework]], [[method_bigezione|Bigezione / corrispondenza]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
-
-[[Quesiti/src_cn_cmo_2021#q03|src_cn_cmo_2021__Q03]]
 
 
 
@@ -135,11 +132,9 @@ level: China Mathematical Olympiad
 **Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_astrazione|Astrazione]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Algebra e Analisi]]
 
-[[Quesiti/src_cn_cmo_2021#q04|src_cn_cmo_2021__Q04]]
 
 
-
-<span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_geometria_piana,topic_aritmetica,method_backward,method_casework,skill_ragionamento_geometrico,skill_modellizzazione,skill_conteggio_sistematico"></span>
+<span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_geometria_piana,topic_aritmetica,method_backward,method_casework,method_fattorizzazione,skill_ragionamento_geometrico,skill_modellizzazione,skill_conteggio_sistematico"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -149,9 +144,9 @@ level: China Mathematical Olympiad
 > It is known that there are only two types of one-dimensional geometric objects, circles and lines, that appear in ruler-and-compass construction. Let there be two points marked on a paper with a distance of $1$. Prove that a line and two points on this line with a distance of $\sqrt{2021}$ can be drawn on the paper with ruler-and-compass, such that the total number of different circles and lines that appear in the drawing process does not exceed $10$.
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_backward|Backward]], [[method_casework|Casework]]
+**Metodo:** [[method_backward|Backward]], [[method_casework|Casework]], [[method_fattorizzazione|Factorisation / algebraic manipulation]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]], [[skill_conteggio_sistematico|Conteggio sistematico]]
-**Area:** [[Geometria]], [[Aritmetica e Teoria dei Numeri]]
+**Area:** [[Geometria|Geometry]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1OFC5fmTEMyWQSx2doV1_Jplo27sQCZ_A/view)
 
 
@@ -162,16 +157,15 @@ level: China Mathematical Olympiad
 
 > È noto che nella costruzione con riga e compasso compaiono solo due tipi di oggetti geometrici unidimensionali: i cerchi e le rette. Siano segnati su un foglio due punti distanti $1$. Dimostrare che con riga e compasso si possono tracciare su un foglio una retta e due punti su tale retta distanti $\sqrt{2021}$, in modo che il numero totale di cerchi e rette distinti che compaiono nel processo di disegno non superi $10$.
 
+
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_backward|Backward]], [[method_casework|Casework]]
+**Metodo:** [[method_backward|Backward]], [[method_casework|Casework]], [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]], [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Geometria]], [[Aritmetica e Teoria dei Numeri]]
 
-[[Quesiti/src_cn_cmo_2021#q05|src_cn_cmo_2021__Q05]]
 
 
-
-<span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_combinatoria,topic_aritmetica,method_induzione,method_congruenze,method_doppio_conteggio,skill_manipolazione_algebrica,skill_conteggio_sistematico,skill_riconoscimento_pattern,skill_astrazione"></span>
+<span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_combinatoria,topic_aritmetica,topic_algebra,method_induzione,method_congruenze,method_doppio_conteggio,skill_manipolazione_algebrica,skill_conteggio_sistematico,skill_riconoscimento_pattern,skill_astrazione"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -182,10 +176,10 @@ level: China Mathematical Olympiad
 > (1) There exist infinitely many positive integers $n$ such that $F(n) \geq \dfrac{n-1}{3}$.
 > (2) For any positive integer $n$, there is $F(n) \leq \dfrac{n-1}{2}$.
 
-**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
 **Metodo:** [[method_induzione|Induzione]], [[method_congruenze|Congruenze]], [[method_doppio_conteggio|Doppio conteggio]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_astrazione|Astrazione]]
-**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Algebra e Analisi|Algebra and analysis]]
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1OFC5fmTEMyWQSx2doV1_Jplo27sQCZ_A/view)
 
 
@@ -196,9 +190,8 @@ level: China Mathematical Olympiad
 
 > Per gli interi $0 \leq s \leq n$, si indichi con $f(n, s)$ il numero di coefficienti nello sviluppo di $(x + 1)^s(x + 2)^{n-s}$ che sono divisibili per $3$. Ad esempio, $(x+1)^2(x+2)^0 = x^2 + 2x + 1$, quindi $f(2, 2) = 2$. Per un intero positivo $n$, si definisca $F(n)$ come il minimo di $f(n, 0), f(n, 1), \ldots, f(n, n)$. Dimostrare: (1) Esistono infiniti interi positivi $n$ tali che $F(n) \geq \dfrac{n-1}{3}$. (2) Per ogni intero positivo $n$, esiste $F(n) \leq \dfrac{n-1}{2}$.
 
-**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
 **Metodo:** [[method_induzione|Induzione]], [[method_congruenze|Congruenze]], [[method_doppio_conteggio|Doppio conteggio]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_astrazione|Astrazione]]
-**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
-
-[[Quesiti/src_cn_cmo_2021#q06|src_cn_cmo_2021__Q06]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]

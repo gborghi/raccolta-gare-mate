@@ -10,7 +10,7 @@ level: kangourou
 
 
 
-<span class="atom-split" id="qc1" data-atom="qc1" data-title="Quesito C1" data-tags="topic_aritmetica,skill_manipolazione_algebrica"></span>
+<span class="atom-split" id="qc1" data-atom="qc1" data-title="Quesito C1" data-tags="topic_aritmetica,method_casework,skill_manipolazione_algebrica,skill_casework_accurato,skill_modellizzazione"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -20,7 +20,8 @@ level: kangourou
 > Cinque ragazze e quattro ragazzi hanno partecipato ad una gara dove non erano previste posizioni di pari merito. Il primo posto in classifica è toccato ad una ragazza; sommando i numeri delle posizioni delle ragazze si ottiene il doppio della somma dei numeri delle posizioni dei ragazzi. In che posizione si è classificato l'ultimo dei ragazzi?
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Metodo:** [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Casework accurato]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 6 (sesta)
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1bJuiCbcoel8J7cfRIkcf2rQAovPdj2GI/view)
@@ -34,14 +35,14 @@ level: kangourou
 > Five girls and four boys took part in a race in which ties were not provided for. First place went to a girl; adding the numbers of the girls' places gives twice the sum of the numbers of the boys' places. In what place did the last of the boys finish?
 
 **Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
-**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_casework_accurato|Careful case analysis]], [[skill_modellizzazione|Modelling / translating the text]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Answer:** 6 (sesta)
-[[Quesiti/src_kangourou_2023_cadet_finale#qc1|src_kangourou_2023_cadet_finale__QC1]]
 
 
 
-<span class="atom-split" id="qc2" data-atom="qc2" data-title="Quesito C2" data-tags="topic_combinatoria,skill_casework_accurato"></span>
+<span class="atom-split" id="qc2" data-atom="qc2" data-title="Quesito C2" data-tags="topic_combinatoria,method_estremalita,method_casework,skill_casework_accurato,skill_modellizzazione"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -51,7 +52,8 @@ level: kangourou
 > Si vogliono collocare alcuni gettoni in altrettante celle quadrate di una griglia $2 \times 9$ in modo che ogni cella o contenga un gettone o condivida un lato con qualche cella che contenga un gettone. Qual è il minimo numero di gettoni che consente di raggiungere lo scopo?
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
-**Abilita:** [[skill_casework_accurato|Casework accurato]]
+**Metodo:** [[method_estremalita|Principio di estremalita]], [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 5
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1bJuiCbcoel8J7cfRIkcf2rQAovPdj2GI/view)
@@ -65,14 +67,14 @@ level: kangourou
 > One wants to place some counters in as many square cells of a $2 \times 9$ grid so that every cell either contains a counter or shares a side with some cell that contains a counter. What is the least number of counters that lets the aim be achieved?
 
 **Topic:** [[topic_combinatoria|Combinatorics]]
-**Skill:** [[skill_casework_accurato|Careful case analysis]]
+**Metodo:** [[method_estremalita|Extremal principle]], [[method_casework|Case analysis]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]], [[skill_modellizzazione|Modelling / translating the text]]
 **Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** 5
-[[Quesiti/src_kangourou_2023_cadet_finale#qc2|src_kangourou_2023_cadet_finale__QC2]]
 
 
 
-<span class="atom-split" id="qc3" data-atom="qc3" data-title="Quesito C3" data-tags="topic_aritmetica,skill_manipolazione_algebrica"></span>
+<span class="atom-split" id="qc3" data-atom="qc3" data-title="Quesito C3" data-tags="topic_aritmetica,method_congruenze,skill_manipolazione_algebrica,skill_modellizzazione"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -82,7 +84,8 @@ level: kangourou
 > Ho a disposizione una gran quantità di oggetti di ciascuno dei seguenti pesi: 1, 2, 3, 4 e 5 chili. Con questi ho composto un insieme $S$ contenente oggetti di almeno tre pesi diversi: il peso medio degli oggetti di $S$ è un numero intero di chili. Il peso medio degli oggetti di $S$ rimarrebbe comunque un numero intero di chili se sostituissi ogni oggetto di $S$ che pesi 2, 3 o 4 chili, rispettivamente con un oggetto che pesi 1, 2 o 3 chili, senza compiere ulteriori sostituzioni. Qual è il peso medio degli oggetti di $S$?
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 3
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1bJuiCbcoel8J7cfRIkcf2rQAovPdj2GI/view)
@@ -96,14 +99,14 @@ level: kangourou
 > I have a large quantity of objects of each of the following weights: 1, 2, 3, 4 and 5 kilograms. With these I made up a set $S$ containing objects of at least three different weights: the average weight of the objects in $S$ is a whole number of kilograms. The average weight of the objects in $S$ would still be a whole number of kilograms if I replaced every object in $S$ that weighs 2, 3 or 4 kilograms with an object that weighs 1, 2 or 3 kilograms respectively, without making any further replacements. What is the average weight of the objects in $S$?
 
 **Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
-**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_modellizzazione|Modelling / translating the text]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Answer:** 3
-[[Quesiti/src_kangourou_2023_cadet_finale#qc3|src_kangourou_2023_cadet_finale__QC3]]
 
 
 
-<span class="atom-split" id="qc4" data-atom="qc4" data-title="Quesito C4" data-tags="topic_aritmetica,topic_logica,skill_casework_accurato"></span>
+<span class="atom-split" id="qc4" data-atom="qc4" data-title="Quesito C4" data-tags="topic_aritmetica,topic_logica,method_congruenze,skill_casework_accurato,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -113,7 +116,8 @@ level: kangourou
 > Per formare un codice segreto, le 21 lettere dell'alfabeto italiano (dunque senza le lettere K, J, X, Y, W), scritte nell'ordine dell'alfabeto, sono state numerate progressivamente partendo da una lettera che non è necessariamente la A e ricominciando con la A dopo la Z (ad esempio, se la lettera E fosse la numero 1, la F sarebbe la numero 2, la Z la numero 17 e la A la numero 18 fino ad arrivare alla D, la numero 21). La somma dei numeri assegnati alle lettere P, R, T è 24. Il codice $(3, 1, 11)$ corrisponde ad una parola di senso compiuto, cioè presente nel vocabolario italiano: quale?
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_logica|Logica, giochi, strategie]]
-**Abilita:** [[skill_casework_accurato|Casework accurato]]
+**Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]]
+**Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** TRE
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1bJuiCbcoel8J7cfRIkcf2rQAovPdj2GI/view)
@@ -127,26 +131,27 @@ level: kangourou
 > To form a secret code, the 21 letters of the Italian alphabet (so without the letters K, J, X, Y, W), written in alphabetical order, have been numbered in sequence starting from a letter that is not necessarily A, and starting again with A after Z (for example, if the letter E were number 1, F would be number 2, Z number 17 and A number 18, up to D, number 21). The sum of the numbers assigned to the letters P, R, T is 24. The code $(3, 1, 11)$ corresponds to a word that makes sense, that is, one present in the Italian dictionary: which one?
 
 **Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_logica|Logic, games and strategies]]
-**Skill:** [[skill_casework_accurato|Careful case analysis]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** TRE
-[[Quesiti/src_kangourou_2023_cadet_finale#qc4|src_kangourou_2023_cadet_finale__QC4]]
 
 
 
-<span class="atom-split" id="qc5" data-atom="qc5" data-title="Quesito C5" data-tags="topic_logica,topic_combinatoria,skill_casework_accurato"></span>
+<span class="atom-split" id="qc5" data-atom="qc5" data-title="Quesito C5" data-tags="topic_logica,topic_combinatoria,method_grafi,method_estremalita,skill_casework_accurato,skill_modellizzazione"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
 
 *max mentitori*
 
-![[src_kangourou_2023_cadet_finale__probc5.png]]
+![[src_kangourou_2023_cadet_finale__probC5.png]]
 
 > Un'isola è ripartita in 15 regioni come indicato nella figura. In ogni regione vive uno e un solo abitante che o dice sempre la verità o mente sempre. Ogni abitante afferma: «Tra i miei vicini c'è almeno una persona che mente sempre». Quanti possono essere al massimo gli abitanti che mentono sempre? (Due abitanti si intendono vicini quando le loro regioni condividono un segmento del loro bordo, non necessariamente un intero lato di una delle due.) (vedi figura)
 
 **Topic:** [[topic_logica|Logica, giochi, strategie]], [[topic_combinatoria|Combinatoria]]
-**Abilita:** [[skill_casework_accurato|Casework accurato]]
+**Metodo:** [[method_grafi|Teoria dei grafi]], [[method_estremalita|Principio di estremalita]]
+**Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 6
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1bJuiCbcoel8J7cfRIkcf2rQAovPdj2GI/view)
@@ -157,15 +162,15 @@ level: kangourou
 
 *How many inhabitants who always lie can there be, at most?*
 
-![[src_kangourou_2023_cadet_finale__probc5.png]]
+![[src_kangourou_2023_cadet_finale__probC5.png]]
 
 > An island is divided into 15 regions as indicated in the picture. In each region there lives one and only one inhabitant, who either always tells the truth or always lies. Each inhabitant states: "Among my neighbours there is at least one person who always lies." How many inhabitants who always lie can there be, at most? (Two inhabitants are regarded as neighbours when their regions share a segment of their border, not necessarily a whole side of one of the two.) (see the picture)
 
 **Topic:** [[topic_logica|Logic, games and strategies]], [[topic_combinatoria|Combinatorics]]
-**Skill:** [[skill_casework_accurato|Careful case analysis]]
+**Metodo:** [[method_grafi|Graph theory]], [[method_estremalita|Extremal principle]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]], [[skill_modellizzazione|Modelling / translating the text]]
 **Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** 6
-[[Quesiti/src_kangourou_2023_cadet_finale#qc5|src_kangourou_2023_cadet_finale__QC5]]
 
 
 
@@ -176,7 +181,7 @@ level: kangourou
 
 *lunghezza traiettoria di P*
 
-![[src_kangourou_2023_cadet_finale__probc6.png]]
+![[src_kangourou_2023_cadet_finale__probC6.png]]
 
 ```tikz
 \begin{document}
@@ -211,7 +216,7 @@ level: kangourou
 
 *Give a qualitative drawing of the path of the point P that can make clear how it was determined, and calculate its length.*
 
-![[src_kangourou_2023_cadet_finale__probc6.png]]
+![[src_kangourou_2023_cadet_finale__probC6.png]]
 
 > Look at the picture. The segment $AK$ is 5 long, the side of the square $ABCD$ is 1 long and the point $P$ is the midpoint of the side $AB$. We rotate the square with pivot at the vertex $B$ until the vertex $C$ comes to fall (for the first time) on the segment $AK$; starting from this position of the square, we now carry out the same operation with pivot at $C$, and so on, until the side $AB$ comes to lie again (for the first time after the first rotation) in the segment $AK$. Give a qualitative drawing of the path of the point $P$ that can make clear how it was determined, and calculate its length. (see the picture)
 
@@ -219,4 +224,3 @@ level: kangourou
 **Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
 **Area:** [[Geometria|Geometry]]
 **Answer:** (π/2)(1+√5)
-[[Quesiti/src_kangourou_2023_cadet_finale#qc6|src_kangourou_2023_cadet_finale__QC6]]

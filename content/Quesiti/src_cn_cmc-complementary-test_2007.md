@@ -41,5 +41,3 @@ level: China Mathematical Competition (Complementary Test)
 **Metodo:** [[method_backward|Backward]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]]
-
-[[Quesiti/src_cn_cmc-complementary-test_2007#q04|src_cn_cmc-complementary-test_2007__Q04]]

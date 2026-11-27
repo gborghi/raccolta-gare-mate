@@ -10,7 +10,7 @@ level: OBM Nível 2
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_aritmetica,topic_geometria_solida,method_casework,skill_lettura_attenta,skill_ragionamento_geometrico"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_aritmetica,topic_geometria_solida,topic_algebra,method_casework,skill_lettura_attenta,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -19,12 +19,12 @@ level: OBM Nível 2
 
 > Numbers are written at the vertices of a tetrahedron. It is given that on certain edges/faces appear the numbers $2$ and $7$ (as shown in the figure), and that the faces containing the number $2$ satisfy $2+x+7=2+7+y=x+2+7$, which forces $x=y=7$, so the sum of the numbers at the vertices of each face equals $2+7+7=16$, and the number at the lower vertex is found to be $2$. What is the sum of the numbers written at all the vertices of the tetrahedron? (Note: original multiple-choice options are not reproduced in the source gabarito.)
 
-![[src_obm_2016_n2_f1__q01.png]]
+![[src_obm_2016_n2_f1__Q01.png]]
 
-**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_geometria_solida|Geometria solida]]
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_geometria_solida|Geometria solida]], [[topic_algebra|Algebra]]
 **Metodo:** [[method_casework|Casework]]
-**Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
-**Area:** [[Aritmetica e Teoria dei Numeri]], [[Geometria]]
+**Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Geometria|Geometry]], [[Algebra e Analisi|Algebra and analysis]]
 **Risposta:** C
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1vTnBrvEyoyPE0zha1bHWQNy2kvb2rFLt/view)
 
@@ -38,16 +38,15 @@ level: OBM Nível 2
 
 > I numeri sono scritti sui vertici di un tetraedro. È dato che su alcuni spigoli/facce compaiono i numeri $2$ e $7$ (come mostrato nella figura), e che le facce che contengono il numero $2$ soddisfano $2+x+7=2+7+y=x+2+7$, il che implica $x=y=7$; pertanto la somma dei numeri ai vertici di ciascuna faccia è uguale a $2+7+7=16$, e si trova che il numero al vertice inferiore è $2$. Qual è la somma dei numeri scritti su tutti i vertici del tetraedro? (Nota: le opzioni originali a scelta multipla non sono riprodotte nel gabarito sorgente.)
 
-![[src_obm_2016_n2_f1__q01.png]]
+![[src_obm_2016_n2_f1__Q01.png]]
 
 > [!warning] Estratto/tradotto: da verificare con la fonte.
 
-**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_geometria_solida|Geometria solida]]
-**Metodo:** [[method_casework|Casework]]
-**Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
-**Area:** [[Aritmetica e Teoria dei Numeri]], [[Geometria]]
 
-[[Quesiti/src_obm_2016_n2_f1#q01|src_obm_2016_n2_f1__Q01]]
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_geometria_solida|Geometria solida]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_casework|Casework]]
+**Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Geometria]], [[Algebra e Analisi]]
 
 
 
@@ -81,8 +80,6 @@ level: OBM Nível 2
 **Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Abilita:** [[skill_modellizzazione|Modellizzazione]]
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
-
-[[Quesiti/src_obm_2016_n2_f1#q02|src_obm_2016_n2_f1__Q02]]
 
 
 
@@ -119,8 +116,6 @@ level: OBM Nível 2
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 
-[[Quesiti/src_obm_2016_n2_f1#q03|src_obm_2016_n2_f1__Q03]]
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_combinatoria,topic_logica,method_casework,skill_casework_accurato,skill_lettura_attenta"></span>
@@ -132,7 +127,7 @@ level: OBM Nível 2
 
 > The grid is filled with the letters O, B, M (as shown). The following examples show that any one of the letters can occupy the grey cell. Which letter can be placed in the grey cell? (Note: original multiple-choice options are not reproduced in the source gabarito; the answer key indicates all three letters O, B and M are possible.)
 
-![[src_obm_2016_n2_f1__q04.png]]
+![[src_obm_2016_n2_f1__Q04.png]]
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_logica|Logica]]
 **Metodo:** [[method_casework|Casework]]
@@ -151,7 +146,7 @@ level: OBM Nível 2
 
 > La griglia è riempita con le lettere O, B, M (come mostrato). Gli esempi seguenti dimostrano che una qualsiasi delle lettere può occupare la cella grigia. Quale lettera può essere inserita nella cella grigia? (Nota: le opzioni originali a scelta multipla non sono riprodotte nel gabarito di partenza; la chiave di risposta indica che tutte e tre le lettere, O, B e M, sono possibili.)
 
-![[src_obm_2016_n2_f1__q04.png]]
+![[src_obm_2016_n2_f1__Q04.png]]
 
 > [!warning] Estratto/tradotto: da verificare con la fonte.
 
@@ -159,8 +154,6 @@ level: OBM Nível 2
 **Metodo:** [[method_casework|Casework]]
 **Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
-
-[[Quesiti/src_obm_2016_n2_f1#q04|src_obm_2016_n2_f1__Q04]]
 
 
 
@@ -197,8 +190,6 @@ level: OBM Nível 2
 **Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 
-[[Quesiti/src_obm_2016_n2_f1#q05|src_obm_2016_n2_f1__Q05]]
-
 
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_algebra,method_fattorizzazione,skill_manipolazione_algebrica"></span>
@@ -233,8 +224,6 @@ level: OBM Nível 2
 **Metodo:** [[method_fattorizzazione|Fattorizzazione]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Algebra e Analisi]]
-
-[[Quesiti/src_obm_2016_n2_f1#q06|src_obm_2016_n2_f1__Q06]]
 
 
 
@@ -271,11 +260,9 @@ level: OBM Nível 2
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]]
 
-[[Quesiti/src_obm_2016_n2_f1#q07|src_obm_2016_n2_f1__Q07]]
 
 
-
-<span class="atom-split" id="q08" data-atom="q08" data-title="Quesito 8" data-tags="topic_aritmetica,method_conteggio,skill_lettura_attenta,skill_stima"></span>
+<span class="atom-split" id="q08" data-atom="q08" data-title="Quesito 8" data-tags="topic_aritmetica,topic_probabilita,method_conteggio,skill_lettura_attenta,skill_stima"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -284,10 +271,10 @@ level: OBM Nível 2
 
 > The table shows the sum of the grades of the students of classes A and B on the Mathematics and Portuguese tests: Class A Mathematics $6\cdot 20=120$, Class B Mathematics $9\cdot 30=270$, Class A Portuguese $8\cdot 20=160$, Class B Portuguese $5\cdot 30=150$. Analysing the data shows items (a) and (b) are false; the joint Mathematics average of the two classes is $\frac{120+270}{50}$, so (c) is false; the averages of the two tests are $280/40=7$ and $420/60=7$, making (d) false; and (e) is true since the overall average is $$\frac{120+160+270+150}{20+20+30+30}=7.$$ Which statement is correct? (Note: original multiple-choice options are not reproduced in the source gabarito.)
 
-**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_probabilita|Probability and statistics]]
 **Metodo:** [[method_conteggio|Conteggio]]
 **Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_stima|Stima]]
-**Area:** [[Aritmetica e Teoria dei Numeri]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Risposta:** E
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1vTnBrvEyoyPE0zha1bHWQNy2kvb2rFLt/view)
 
@@ -303,16 +290,15 @@ level: OBM Nível 2
 
 > [!warning] Estratto/tradotto: da verificare con la fonte.
 
-**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_probabilita|Probabilita e statistica]]
 **Metodo:** [[method_conteggio|Conteggio]]
 **Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_stima|Stima]]
-**Area:** [[Aritmetica e Teoria dei Numeri]]
-
-[[Quesiti/src_obm_2016_n2_f1#q08|src_obm_2016_n2_f1__Q08]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 
 
 
-<span class="atom-split" id="q09" data-atom="q09" data-title="Quesito 9" data-tags="topic_geometria_piana,skill_ragionamento_geometrico"></span>
+<span class="atom-split" id="q09" data-atom="q09" data-title="Quesito 9" data-tags="topic_geometria_piana,method_simmetria,skill_ragionamento_geometrico"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -322,8 +308,9 @@ level: OBM Nível 2
 > Since arc $CA$ measures $44^\circ$ and $CD$ and $AB$ are parallel, the arcs $DB$, $CE$ and $FD$ are congruent and also measure $44^\circ$. Since $CB$ is a diameter, arc $EF$ measures $180^\circ-44^\circ-44^\circ=48^\circ$. Finally $\angle ECF$ is the inscribed angle determined by arc $EF$, so its value is $48^\circ/2=24^\circ$. What is the value of $\angle ECF$? (Note: original multiple-choice options are not reproduced in the source gabarito.)
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_simmetria|Using symmetry]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
-**Area:** [[Geometria]]
+**Area:** [[Geometria|Geometry]]
 **Risposta:** C
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1vTnBrvEyoyPE0zha1bHWQNy2kvb2rFLt/view)
 
@@ -339,11 +326,11 @@ level: OBM Nível 2
 
 > [!warning] Estratto/tradotto: da verificare con la fonte.
 
+
 **Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_simmetria|Sfruttamento della simmetria]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]]
-
-[[Quesiti/src_obm_2016_n2_f1#q09|src_obm_2016_n2_f1__Q09]]
 
 
 
@@ -380,11 +367,9 @@ level: OBM Nível 2
 **Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 
-[[Quesiti/src_obm_2016_n2_f1#q10|src_obm_2016_n2_f1__Q10]]
 
 
-
-<span class="atom-split" id="q11" data-atom="q11" data-title="Quesito 11" data-tags="topic_geometria_analitica,topic_combinatoria,method_coordinate,skill_astrazione,skill_ragionamento_geometrico"></span>
+<span class="atom-split" id="q11" data-atom="q11" data-title="Quesito 11" data-tags="topic_geometria_analitica,topic_combinatoria,method_coordinate,skill_astrazione,skill_ragionamento_geometrico,skill_modellizzazione"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -393,12 +378,12 @@ level: OBM Nível 2
 
 > Divide the video-game screen into four equal rectangles $A$, $B$, $C$, $D$, and consider the rectangle $R$ formed by the centres of these four rectangles. The video-game distance is always less than or equal to the usual Euclidean distance on the screen, and swapping the positions of two of these rectangles sharing a common side does not change the video-game distance between the others (a rotated figure keeps its Euclidean distance). One can suppose there are two points whose distance equals the diagonal of a video-game rectangle. Since the largest distance in $R$ is its diagonal, measuring $\frac{\sqrt{2^2+4^2}}{2}=2.5$, no minimal video-game distance exceeds $2.5$; moreover the video-game distance between the centre of the screen and any corner is $2.5$. What is this distance? (Note: original multiple-choice options are not reproduced in the source gabarito.)
 
-![[src_obm_2016_n2_f1__q11.png]]
+![[src_obm_2016_n2_f1__Q11.png]]
 
 **Topic:** [[topic_geometria_analitica|Geometria analitica]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_coordinate|Coordinate]]
-**Abilita:** [[skill_astrazione|Astrazione]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
-**Area:** [[Geometria]], [[Combinatoria, Logica e Probabilita]]
+**Abilita:** [[skill_astrazione|Astrazione]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Geometria|Geometry]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Risposta:** B
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1vTnBrvEyoyPE0zha1bHWQNy2kvb2rFLt/view)
 
@@ -412,20 +397,19 @@ level: OBM Nível 2
 
 > Dividi lo schermo del videogioco in quattro rettangoli uguali $A$, $B$, $C$, $D$, e considera il rettangolo $R$ formato dai centri di questi quattro rettangoli. La distanza del videogioco è sempre minore o uguale alla consueta distanza euclidea sullo schermo, e lo scambio delle posizioni di due di questi rettangoli che condividono un lato comune non modifica la distanza del videogioco tra gli altri (una figura ruotata conserva la propria distanza euclidea). Si può supporre che esistano due punti la cui distanza sia uguale alla diagonale di un rettangolo del videogioco. Poiché la distanza massima in $R$ è la sua diagonale, di misura $\frac{\sqrt{2^2+4^2}}{2}=2.5$, nessuna distanza del videogioco minima supera $2.5$; inoltre, la distanza del videogioco tra il centro dello schermo e qualsiasi angolo è $2.5$. Qual è questa distanza? (Nota: le opzioni originali a scelta multipla non sono riprodotte nel gabarito sorgente.)
 
-![[src_obm_2016_n2_f1__q11.png]]
+![[src_obm_2016_n2_f1__Q11.png]]
 
 > [!warning] Estratto/tradotto: da verificare con la fonte.
 
+
 **Topic:** [[topic_geometria_analitica|Geometria analitica]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_coordinate|Coordinate]]
-**Abilita:** [[skill_astrazione|Astrazione]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Abilita:** [[skill_astrazione|Astrazione]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
 **Area:** [[Geometria]], [[Combinatoria, Logica e Probabilita]]
 
-[[Quesiti/src_obm_2016_n2_f1#q11|src_obm_2016_n2_f1__Q11]]
 
 
-
-<span class="atom-split" id="q12" data-atom="q12" data-title="Quesito 12" data-tags="topic_aritmetica,method_congruenze,skill_manipolazione_algebrica"></span>
+<span class="atom-split" id="q12" data-atom="q12" data-title="Quesito 12" data-tags="topic_aritmetica,method_congruenze,method_casework,skill_manipolazione_algebrica,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -435,9 +419,9 @@ level: OBM Nível 2
 > By the divisibility criterion for $11$, for $\overline{ab2016}$ to be divisible by $11$ we need $11\mid (a+2+1)-(b+0+6)=a-b-3$. Also, since the number has many digits, $9\mid a+b+2+0+1+6=a+b+9$. As $a+b\le 18$, the possibilities are $a+b=9$ or $a+b=18$, leading to $a-b=3$. Determine the digits $a$ and $b$. (Note: original multiple-choice options are not reproduced in the source gabarito; the answer key gives $(a,b)=(6,3)$.)
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_congruenze|Congruenze]]
-**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
-**Area:** [[Aritmetica e Teoria dei Numeri]]
+**Metodo:** [[method_congruenze|Congruenze]], [[method_casework|Case analysis]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Risposta:** C
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1vTnBrvEyoyPE0zha1bHWQNy2kvb2rFLt/view)
 
@@ -453,16 +437,15 @@ level: OBM Nível 2
 
 > [!warning] Estratto/tradotto: da verificare con la fonte.
 
+
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_congruenze|Congruenze]]
-**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Metodo:** [[method_congruenze|Congruenze]], [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 
-[[Quesiti/src_obm_2016_n2_f1#q12|src_obm_2016_n2_f1__Q12]]
 
 
-
-<span class="atom-split" id="q13" data-atom="q13" data-title="Quesito 13" data-tags="topic_geometria_piana,skill_ragionamento_geometrico"></span>
+<span class="atom-split" id="q13" data-atom="q13" data-title="Quesito 13" data-tags="topic_geometria_piana,method_simmetria,skill_ragionamento_geometrico"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -472,8 +455,9 @@ level: OBM Nível 2
 > Let $p$ and $q$ be the measures of angles $\angle BAD$ and $\angle EAC$ respectively. Since $BA=DE$, $\angle ABE=\angle BAE=p$; analogously since $AC=DC$, $\angle DAC=\angle ADC=x+q$. By the converse of the Pythagorean Theorem, since $BC^2=AB^2+AC^2$, one gets $p+q+x=90^\circ$. Analysing the angle sum of triangle $DAE$, $180^\circ=(p+x)+(q+x)=90^\circ+2x$, so $x=45^\circ$. What is the value of $x$? (Note: original multiple-choice options are not reproduced in the source gabarito.)
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_simmetria|Using symmetry]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
-**Area:** [[Geometria]]
+**Area:** [[Geometria|Geometry]]
 **Risposta:** D
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1vTnBrvEyoyPE0zha1bHWQNy2kvb2rFLt/view)
 
@@ -489,15 +473,15 @@ level: OBM Nível 2
 
 > [!warning] Estratto/tradotto: da verificare con la fonte.
 
+
 **Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_simmetria|Sfruttamento della simmetria]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]]
 
-[[Quesiti/src_obm_2016_n2_f1#q13|src_obm_2016_n2_f1__Q13]]
 
 
-
-<span class="atom-split" id="q14" data-atom="q14" data-title="Quesito 14" data-tags="topic_logica,method_invarianti,skill_ragionamento_geometrico"></span>
+<span class="atom-split" id="q14" data-atom="q14" data-title="Quesito 14" data-tags="topic_logica,method_invarianti,skill_ragionamento_geometrico,skill_lettura_attenta,skill_riconoscimento_pattern"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -508,8 +492,8 @@ level: OBM Nível 2
 
 **Topic:** [[topic_logica|Logica]]
 **Metodo:** [[method_invarianti|Invarianti]]
-**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
-**Area:** [[Combinatoria, Logica e Probabilita]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Careful reading of the text]], [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Risposta:** E
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1vTnBrvEyoyPE0zha1bHWQNy2kvb2rFLt/view)
 
@@ -525,16 +509,15 @@ level: OBM Nível 2
 
 > [!warning] Estratto/tradotto: da verificare con la fonte.
 
+
 **Topic:** [[topic_logica|Logica]]
 **Metodo:** [[method_invarianti|Invarianti]]
-**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta del testo]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 
-[[Quesiti/src_obm_2016_n2_f1#q14|src_obm_2016_n2_f1__Q14]]
 
 
-
-<span class="atom-split" id="q15" data-atom="q15" data-title="Quesito 15" data-tags="topic_aritmetica,topic_algebra,method_ricorsione,skill_modellizzazione"></span>
+<span class="atom-split" id="q15" data-atom="q15" data-title="Quesito 15" data-tags="topic_aritmetica,topic_algebra,method_ricorsione,skill_modellizzazione,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -545,8 +528,8 @@ level: OBM Nível 2
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
 **Metodo:** [[method_ricorsione|Ricorsione]]
-**Abilita:** [[skill_modellizzazione|Modellizzazione]]
-**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Algebra e Analisi|Algebra and analysis]]
 **Risposta:** D
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1vTnBrvEyoyPE0zha1bHWQNy2kvb2rFLt/view)
 
@@ -562,16 +545,15 @@ level: OBM Nível 2
 
 > [!warning] Estratto/tradotto: da verificare con la fonte.
 
+
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
 **Metodo:** [[method_ricorsione|Ricorsione]]
-**Abilita:** [[skill_modellizzazione|Modellizzazione]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 
-[[Quesiti/src_obm_2016_n2_f1#q15|src_obm_2016_n2_f1__Q15]]
 
 
-
-<span class="atom-split" id="q16" data-atom="q16" data-title="Quesito 16" data-tags="topic_geometria_piana,skill_ragionamento_geometrico"></span>
+<span class="atom-split" id="q16" data-atom="q16" data-title="Quesito 16" data-tags="topic_geometria_piana,method_simmetria,skill_ragionamento_geometrico"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -581,8 +563,9 @@ level: OBM Nível 2
 > The interior angle of any regular polygon with $n$ sides is $\frac{180^\circ(n-2)}{n}$. Consequently $\angle ABL=90^\circ$, $\angle LBC=135^\circ$, $\angle ABC=135^\circ$, $\angle CBI=27^\circ$. Since $LB=BC=BI$, the triangles $LBC$ and $CBI$ are isosceles with bases $LC$ and $CI$. Hence $$x=\angle LCB+\angle BCI=\frac{180^\circ-135^\circ}{2}+\frac{180^\circ-27^\circ}{2}=99^\circ.$$ What is the value of $x$? (Note: original multiple-choice options are not reproduced in the source gabarito.)
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_simmetria|Using symmetry]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
-**Area:** [[Geometria]]
+**Area:** [[Geometria|Geometry]]
 **Risposta:** D
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1vTnBrvEyoyPE0zha1bHWQNy2kvb2rFLt/view)
 
@@ -598,15 +581,15 @@ level: OBM Nível 2
 
 > [!warning] Estratto/tradotto: da verificare con la fonte.
 
+
 **Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_simmetria|Sfruttamento della simmetria]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]]
 
-[[Quesiti/src_obm_2016_n2_f1#q16|src_obm_2016_n2_f1__Q16]]
 
 
-
-<span class="atom-split" id="q17" data-atom="q17" data-title="Quesito 17" data-tags="topic_combinatoria,topic_aritmetica,method_conteggio,method_fattorizzazione,skill_conteggio_sistematico"></span>
+<span class="atom-split" id="q17" data-atom="q17" data-title="Quesito 17" data-tags="topic_combinatoria,topic_aritmetica,method_conteggio,method_fattorizzazione,method_casework,skill_conteggio_sistematico"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -616,9 +599,9 @@ level: OBM Nível 2
 > The total sum of the stones is $1+2+3+\dots+9+11=56$. For the piles to have a common value $k$, this must divide $56$; and since some piles already have $11$ stones, each final pile has at least $11$, so the possible values are $14$, $28$ or $56$. Obtaining piles of $28$ takes two operations, piles of $56$ fewer, and piles of $14$ take $6$ operations, which can be executed as $$(11+3),(9+5),(8+6),(7+4+2+1).$$ What is the minimum number of operations? (Note: original multiple-choice options are not reproduced in the source gabarito.)
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_conteggio|Conteggio]], [[method_fattorizzazione|Fattorizzazione]]
+**Metodo:** [[method_conteggio|Conteggio]], [[method_fattorizzazione|Fattorizzazione]], [[method_casework|Case analysis]]
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
-**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Risposta:** D
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1vTnBrvEyoyPE0zha1bHWQNy2kvb2rFLt/view)
 
@@ -634,12 +617,11 @@ level: OBM Nível 2
 
 > [!warning] Estratto/tradotto: da verificare con la fonte.
 
+
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_conteggio|Conteggio]], [[method_fattorizzazione|Fattorizzazione]]
+**Metodo:** [[method_conteggio|Conteggio]], [[method_fattorizzazione|Fattorizzazione]], [[method_casework|Analisi per casi]]
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
-
-[[Quesiti/src_obm_2016_n2_f1#q17|src_obm_2016_n2_f1__Q17]]
 
 
 
@@ -676,11 +658,9 @@ level: OBM Nível 2
 **Abilita:** [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Geometria]]
 
-[[Quesiti/src_obm_2016_n2_f1#q18|src_obm_2016_n2_f1__Q18]]
 
 
-
-<span class="atom-split" id="q19" data-atom="q19" data-title="Quesito 19" data-tags="topic_geometria_piana,method_trigonometria,skill_ragionamento_geometrico"></span>
+<span class="atom-split" id="q19" data-atom="q19" data-title="Quesito 19" data-tags="topic_geometria_piana,topic_trigonometria,method_trigonometria,skill_ragionamento_geometrico"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -689,12 +669,12 @@ level: OBM Nível 2
 
 > Let $I$ be the intersection of $AD$ and $BF$ and $O$ the centre of the circle. Since $FA=AB=AY=AX$, $FB$ is parallel to $XY$, so triangles $RSA$ and $XYA$ are similar and $$\frac{SR}{2}=\frac{SR}{XY}=\frac{AI}{AO}=\frac{1\cdot(\sin\angle ABI)}{1}=\frac12,$$ since $\angle ABI=30^\circ$ and $AB=AO=OB$. Thus $SR=1$. What is the value of $SR$? (Note: original multiple-choice options are not reproduced in the source gabarito.)
 
-![[src_obm_2016_n2_f1__q19.png]]
+![[src_obm_2016_n2_f1__Q19.png]]
 
-**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometry]]
 **Metodo:** [[method_trigonometria|Trigonometria]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
-**Area:** [[Geometria]]
+**Area:** [[Geometria|Geometry]]
 **Risposta:** A
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1vTnBrvEyoyPE0zha1bHWQNy2kvb2rFLt/view)
 
@@ -708,16 +688,15 @@ level: OBM Nível 2
 
 > Let $I$ be the intersection of $AD$ and $BF$ and $O$ the centre of the circle. Since $FA=AB=AY=AX$, $FB$ is parallel to $XY$, so triangles $RSA$ and $XYA$ are similar and $$\frac{SR}{2}=\frac{SR}{XY}=\frac{AI}{AO}=\frac{1\cdot(\sin\angle ABI)}{1}=\frac12,$$ since $\angle ABI=30^\circ$ and $AB=AO=OB$. Thus $SR=1$. What is the value of $SR$? (Note: original multiple-choice options are not reproduced in the source gabarito.)
 
-![[src_obm_2016_n2_f1__q19.png]]
+![[src_obm_2016_n2_f1__Q19.png]]
 
 > [!warning] Estratto/tradotto: da verificare con la fonte.
 
-**Topic:** [[topic_geometria_piana|Geometria piana]]
+
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometria]]
 **Metodo:** [[method_trigonometria|Trigonometria]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]]
-
-[[Quesiti/src_obm_2016_n2_f1#q19|src_obm_2016_n2_f1__Q19]]
 
 
 
@@ -754,11 +733,9 @@ level: OBM Nível 2
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Algebra e Analisi]]
 
-[[Quesiti/src_obm_2016_n2_f1#q20|src_obm_2016_n2_f1__Q20]]
 
 
-
-<span class="atom-split" id="q21" data-atom="q21" data-title="Quesito 21" data-tags="topic_geometria_piana,skill_ragionamento_geometrico"></span>
+<span class="atom-split" id="q21" data-atom="q21" data-title="Quesito 21" data-tags="topic_geometria_piana,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -768,8 +745,8 @@ level: OBM Nível 2
 > With square side $6$, $DM=MC=CE=3$. Triangles $CEH$ and $DEA$ are similar, so $\frac{CH}{DA}=\frac{CE}{DE}=\frac{3}{9}=\frac13$, giving $CH=2$ and $HB=CB-CH=4$. The area $[CHAM]=[ACH]+[ACM]=\frac{3\cdot 6}{2}+\frac{2\cdot 6}{2}=15$. By the Pythagorean Theorem in triangle $ADE$, $[AEFG]=AE^2=AD^2+DE^2=117$. Hence $\frac{[CHAM]}{[AEFG]}=\frac{15}{117}=\frac{5}{39}$. What is this ratio? (Note: original multiple-choice options are not reproduced in the source gabarito.)
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
-**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
-**Area:** [[Geometria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Geometria|Geometry]]
 **Risposta:** A
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1vTnBrvEyoyPE0zha1bHWQNy2kvb2rFLt/view)
 
@@ -785,11 +762,10 @@ level: OBM Nível 2
 
 > [!warning] Estratto/tradotto: da verificare con la fonte.
 
-**Topic:** [[topic_geometria_piana|Geometria piana]]
-**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
-**Area:** [[Geometria]]
 
-[[Quesiti/src_obm_2016_n2_f1#q21|src_obm_2016_n2_f1__Q21]]
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
 
 
 
@@ -802,7 +778,7 @@ level: OBM Nível 2
 
 > Since all the digits are nonzero, the repeated terms can be cancelled. In the first case $I^2=4$ so $I=2$, with possibilities $(S,I)=(1,2),(1,3),(2,1)$. Since $E$ differs from $I$ and $S$, there are $7$ choices for it. Building the table of resulting products $P$ and values $Z$ and excluding combinations where $Z$ equals an already chosen letter, there are $12$ distinct values for $P$: $6,10,12,14,15,16,18,20,21,24,28,36$. How many distinct values are there? (Note: original multiple-choice options are not reproduced in the source gabarito.)
 
-![[src_obm_2016_n2_f1__q22.png]]
+![[src_obm_2016_n2_f1__Q22.png]]
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_casi_conteggio|Casi e conteggio]], [[method_conteggio|Conteggio]]
@@ -821,7 +797,7 @@ level: OBM Nível 2
 
 > Poiché tutte le cifre sono diverse da zero, i termini ripetuti possono essere cancellati. Nel primo caso $I^2=4$ quindi $I=2$, con possibilità $(S,I)=(1,2),(1,3),(2,1)$. Poiché $E$ differisce da $I$ e da $S$, per esso ci sono $7$ scelte. Costruendo la tabella dei prodotti risultanti $P$ e dei valori $Z$ e escludendo le combinazioni in cui $Z$ è uguale a una lettera già scelta, ci sono $12$ valori distinti per $P$: $6,10,12,14,15,16,18,20,21,24,28,36$. Quanti valori distinti ci sono? (Nota: le opzioni originali a scelta multipla non sono riprodotte nel gabarito sorgente.)
 
-![[src_obm_2016_n2_f1__q22.png]]
+![[src_obm_2016_n2_f1__Q22.png]]
 
 > [!warning] Estratto/tradotto: da verificare con la fonte.
 
@@ -830,11 +806,9 @@ level: OBM Nível 2
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 
-[[Quesiti/src_obm_2016_n2_f1#q22|src_obm_2016_n2_f1__Q22]]
 
 
-
-<span class="atom-split" id="q23" data-atom="q23" data-title="Quesito 23" data-tags="topic_aritmetica,topic_logica,method_congruenze,method_casework,skill_casework_accurato,skill_lettura_attenta"></span>
+<span class="atom-split" id="q23" data-atom="q23" data-title="Quesito 23" data-tags="topic_aritmetica,topic_logica,topic_algebra,method_congruenze,method_casework,skill_casework_accurato,skill_lettura_attenta,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -843,10 +817,10 @@ level: OBM Nível 2
 
 > Note a month has $4$ or $5$ Saturdays and $365=7\cdot 52+1$, so a year has $52$ complete weeks plus $1$ or $2$ extra days, depending on whether it is a leap year. Calling $x$ a counting variable, $5x+4(12-x)=52\Rightarrow x=4$ and $5x+4(12-x)=53\Rightarrow x=5$. A year has $53$ Saturdays when $1$ January is a Saturday, or when $2$ January is a Saturday and the year is a leap year (as in $2016$). Tabulating $1$ January of successive years: 2016 Saturday, 2017 Sunday, 2018 Monday, 2019 Tuesday, 2020 Wednesday, 2021 Friday, 2022 Saturday. Therefore the next year with $53$ Saturdays is $2022$. What is the next year with $53$ Saturdays? (Note: original multiple-choice options are not reproduced in the source gabarito.)
 
-**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_logica|Logica]]
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_logica|Logica]], [[topic_algebra|Algebra]]
 **Metodo:** [[method_congruenze|Congruenze]], [[method_casework|Casework]]
-**Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_lettura_attenta|Lettura attenta]]
-**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+**Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_lettura_attenta|Lettura attenta]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Algebra e Analisi|Algebra and analysis]]
 **Risposta:** E
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1vTnBrvEyoyPE0zha1bHWQNy2kvb2rFLt/view)
 
@@ -862,16 +836,15 @@ level: OBM Nível 2
 
 > [!warning] Estratto/tradotto: da verificare con la fonte.
 
-**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_logica|Logica]]
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_logica|Logica]], [[topic_algebra|Algebra]]
 **Metodo:** [[method_congruenze|Congruenze]], [[method_casework|Casework]]
-**Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_lettura_attenta|Lettura attenta]]
-**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
-
-[[Quesiti/src_obm_2016_n2_f1#q23|src_obm_2016_n2_f1__Q23]]
+**Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_lettura_attenta|Lettura attenta]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]], [[Algebra e Analisi]]
 
 
 
-<span class="atom-split" id="q24" data-atom="q24" data-title="Quesito 24" data-tags="topic_aritmetica,topic_combinatoria,method_casi_conteggio,method_congruenze,skill_manipolazione_algebrica,skill_conteggio_sistematico"></span>
+<span class="atom-split" id="q24" data-atom="q24" data-title="Quesito 24" data-tags="topic_aritmetica,topic_combinatoria,method_casi_conteggio,method_congruenze,method_fattorizzazione,skill_manipolazione_algebrica,skill_conteggio_sistematico,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -881,9 +854,9 @@ level: OBM Nível 2
 > Consider a number of at most four digits $\overline{abcd}$ and the difference $\overline{abcd}-(a+b+c+d)=999a+99b+9c$. Analysing the possible digit choices and counting those for which the difference is the same value modulo the required condition, one finds there are exactly $100$ such numbers. How many such numbers are there? (Note: the source solution text for this item is partly garbled; statement reconstructed from context. Original multiple-choice options are not reproduced; the answer key gives $100$.)
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
-**Metodo:** [[method_casi_conteggio|Casi e conteggio]], [[method_congruenze|Congruenze]]
-**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]]
-**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+**Metodo:** [[method_casi_conteggio|Casi e conteggio]], [[method_congruenze|Congruenze]], [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Risposta:** C
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1vTnBrvEyoyPE0zha1bHWQNy2kvb2rFLt/view)
 
@@ -899,12 +872,11 @@ level: OBM Nível 2
 
 > [!warning] Estratto/tradotto: da verificare con la fonte.
 
-**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
-**Metodo:** [[method_casi_conteggio|Casi e conteggio]], [[method_congruenze|Congruenze]]
-**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]]
-**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 
-[[Quesiti/src_obm_2016_n2_f1#q24|src_obm_2016_n2_f1__Q24]]
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casi_conteggio|Casi e conteggio]], [[method_congruenze|Congruenze]], [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 
 
 
@@ -940,5 +912,3 @@ level: OBM Nível 2
 **Metodo:** [[method_casework|Casework]], [[method_cassetti|Principio dei cassetti]]
 **Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
-
-[[Quesiti/src_obm_2016_n2_f1#q25|src_obm_2016_n2_f1__Q25]]

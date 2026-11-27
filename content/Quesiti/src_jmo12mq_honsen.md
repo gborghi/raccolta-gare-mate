@@ -10,7 +10,7 @@ level: JMO Honsen
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_geometria_piana,method_trigonometria,skill_ragionamento_geometrico,skill_lettura_attenta"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_geometria_piana,topic_trigonometria,method_trigonometria,skill_ragionamento_geometrico,skill_lettura_attenta"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -19,10 +19,10 @@ level: JMO Honsen
 
 > On the circumference of a circle $C_0$ there are three distinct points $A$, $M$, $B$ with $AM = MB$. On the arc $AB$ lying on the opposite side of line $AB$ from $M$, take a point $P$. Let $C_1$ be the circle that is internally tangent to $C_0$ at $P$ and tangent to the chord $AB$, and let $Q$ be the point of tangency of $C_1$ with the chord $AB$. Show that, regardless of the choice of the point $P$, the product $MP \cdot MQ$ of $MP$ and $MQ$ is constant. (Here, for two points $X$, $Y$, the length of the segment $XY$ is denoted by $XY$.)
 
-**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometry]]
 **Metodo:** [[method_trigonometria|Trigonometria]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
-**Area:** [[Geometria]]
+**Area:** [[Geometria|Geometry]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1YrNWkJmp2GKUzDWPIYjtBxfRgAmfdLOX/view)
 
 
@@ -33,12 +33,11 @@ level: JMO Honsen
 
 > Sulla circonferenza di un cerchio $C_0$ vi sono tre punti distinti $A$, $M$, $B$ tali che $AM = MB$. Sull'arco $AB$ che giace sul lato della retta $AB$ opposto a quello in cui si trova $M$, si prenda un punto $P$. Sia $C_1$ il cerchio tangente internamente a $C_0$ in $P$ e tangente alla corda $AB$; sia inoltre $Q$ il punto di tangenza di $C_1$ con la corda $AB$. Dimostrare che, indipendentemente dalla scelta del punto $P$, il prodotto $MP \cdot MQ$ di $MP$ e $MQ$ è costante. (Qui, per due punti $X$, $Y$, la lunghezza del segmento $XY$ è denotata con $XY$.)
 
-**Topic:** [[topic_geometria_piana|Geometria piana]]
+
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometria]]
 **Metodo:** [[method_trigonometria|Trigonometria]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Geometria]]
-
-[[Quesiti/src_jmo12mq_honsen#q01|src_jmo12mq_honsen__Q01]]
 
 
 
@@ -70,8 +69,6 @@ level: JMO Honsen
 **Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_astrazione|Astrazione]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 
-[[Quesiti/src_jmo12mq_honsen#q02|src_jmo12mq_honsen__Q02]]
-
 
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_aritmetica,topic_combinatoria,method_casework,method_conteggio,skill_riconoscimento_pattern,skill_conteggio_sistematico"></span>
@@ -101,8 +98,6 @@ level: JMO Honsen
 **Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]]
 **Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
-
-[[Quesiti/src_jmo12mq_honsen#q03|src_jmo12mq_honsen__Q03]]
 
 
 
@@ -134,11 +129,9 @@ level: JMO Honsen
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]]
 **Area:** [[Algebra e Analisi]]
 
-[[Quesiti/src_jmo12mq_honsen#q04|src_jmo12mq_honsen__Q04]]
 
 
-
-<span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_combinatoria,topic_geometria_analitica,method_estremalita,method_casework,skill_conteggio_sistematico,skill_modellizzazione"></span>
+<span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_combinatoria,topic_geometria_analitica,method_estremalita,method_casework,method_doppio_conteggio,skill_conteggio_sistematico,skill_modellizzazione"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -148,9 +141,9 @@ level: JMO Honsen
 > On the $xy$-plane, place a set $S$ consisting of $2002$ points so as to satisfy the following condition. Condition: among the points of $S$, any two distinct points have distinct $x$-coordinates and also distinct $y$-coordinates. For two distinct points $P$, $Q$ of $S$, consider the rectangle having the segment $PQ$ as a diagonal and with each side parallel to the $x$-axis or the $y$-axis, and let $W_{PQ}$ be the number of points of $S$ lying in its interior (the points $P$, $Q$ not included). Find the largest natural number $n$ such that, no matter how the set $S$ is placed (subject to the above condition), there always exists at least one pair of points $P$, $Q$ of $S$ with $W_{PQ} \ge n$.
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_geometria_analitica|Geometria analitica]]
-**Metodo:** [[method_estremalita|Estremalità]], [[method_casework|Casework]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_casework|Casework]], [[method_doppio_conteggio|Double counting]]
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione]]
-**Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Geometria|Geometry]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1YrNWkJmp2GKUzDWPIYjtBxfRgAmfdLOX/view)
 
 
@@ -161,9 +154,8 @@ level: JMO Honsen
 
 > Nel piano $xy$, colloca un insieme $S$ costituito da $2002$ punti in modo da soddisfare la seguente condizione. Condizione: tra i punti di $S$, due punti distinti qualsiasi hanno coordinate $x$ distinte e anche coordinate $y$ distinte. Per due punti distinti $P$, $Q$ di $S$, si consideri il rettangolo che ha il segmento $PQ$ come diagonale e il cui lato è parallelo all'asse $x$ oppure all'asse $y$; si ponga $W_{PQ}$ il numero dei punti di $S$ che giacciono all'interno di tale rettangolo (i punti $P$, $Q$ non inclusi). Determinare il più grande numero naturale $n$ tale che, indipendentemente da come viene collocato l'insieme $S$ (nel rispetto della condizione sopra indicata), esista sempre almeno una coppia di punti $P$, $Q$ di $S$ con $W_{PQ} \ge n$.
 
+
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_geometria_analitica|Geometria analitica]]
-**Metodo:** [[method_estremalita|Estremalità]], [[method_casework|Casework]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_casework|Casework]], [[method_doppio_conteggio|Doppio conteggio]]
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
-
-[[Quesiti/src_jmo12mq_honsen#q05|src_jmo12mq_honsen__Q05]]

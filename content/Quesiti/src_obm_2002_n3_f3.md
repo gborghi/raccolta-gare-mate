@@ -50,8 +50,7 @@ level: OBM Nível 3
 **Metodo:** [[method_casework|Analisi per casi]], [[method_estremalita|Estremalità]]
 
 **Abilità:** [[skill_modellizzazione|Modellizzazione]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
-
-[[Quesiti/src_obm_2002_n3_f3#q01|src_obm_2002_n3_f3__Q01]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 
 
 
@@ -83,12 +82,11 @@ level: OBM Nível 3
 **Metodo:** [[method_simmetria|Simmetria]]
 
 **Abilità:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
-
-[[Quesiti/src_obm_2002_n3_f3#q02|src_obm_2002_n3_f3__Q02]]
-
+**Area:** [[Geometria]]
 
 
-<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_combinatoria,method_invarianti,method_casework,skill_ragionamento_geometrico,skill_conteggio_sistematico,skill_lettura_attenta"></span>
+
+<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_combinatoria,method_invarianti,method_casework,method_grafi,skill_ragionamento_geometrico,skill_conteggio_sistematico,skill_lettura_attenta"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -98,9 +96,9 @@ level: OBM Nível 3
 > We number the cells of a quadrille (grid) board of $m \times n$, where $m, n \ge 2$, with the integers $1, 2, 3, \ldots, mn$ in such a way that, for every $t \le mn - 1$, the cells $t$ and $t+1$ have at least one side in common. Show that there exists $i \le mn - 3$ such that the cells $i$ and $i + 3$ have at least one side in common.
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
-**Metodo:** [[method_invarianti|Invarianti]], [[method_casework|Casework]]
+**Metodo:** [[method_invarianti|Invarianti]], [[method_casework|Casework]], [[method_grafi|Graph theory]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]]
-**Area:** [[Combinatoria, Logica e Probabilita]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1P0nci9SiA7xXrHnMSEaRv6-dmdjZQyLj/view)
 
 
@@ -113,11 +111,12 @@ level: OBM Nível 3
 
 **Argomento:** [[topic_combinatoria|Combinatoria]]
 
-**Metodo:** [[method_invarianti|Invarianti]], [[method_casework|Analisi per casi]]
 
-**Abilità:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]]
 
-[[Quesiti/src_obm_2002_n3_f3#q03|src_obm_2002_n3_f3__Q03]]
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_invarianti|Invarianti]], [[method_casework|Analisi per casi]], [[method_grafi|Teoria dei grafi]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
 
 
 
@@ -149,8 +148,7 @@ level: OBM Nível 3
 **Metodo:** [[method_doppio_conteggio|Doppio conteggio]], [[method_conteggio|Conteggio]]
 
 **Abilità:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
-
-[[Quesiti/src_obm_2002_n3_f3#q04|src_obm_2002_n3_f3__Q04]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 
 
 
@@ -186,8 +184,7 @@ level: OBM Nível 3
 **Metodo:** [[method_estremalita|Estremalità]], [[method_casework|Analisi per casi]]
 
 **Abilità:** [[skill_modellizzazione|Modellizzazione]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_stima|Stima]]
-
-[[Quesiti/src_obm_2002_n3_f3#q05|src_obm_2002_n3_f3__Q05]]
+**Area:** [[Geometria]], [[Combinatoria, Logica e Probabilita]]
 
 
 
@@ -223,5 +220,4 @@ level: OBM Nível 3
 **Metodo:** [[method_doppio_conteggio|Doppio conteggio]], [[method_inclusione_esclusione|Inclusione-esclusione]], [[method_cassetti|Principio dei cassetti]]
 
 **Abilità:** [[skill_modellizzazione|Modellizzazione]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
-
-[[Quesiti/src_obm_2002_n3_f3#q06|src_obm_2002_n3_f3__Q06]]
+**Area:** [[Combinatoria, Logica e Probabilita]]

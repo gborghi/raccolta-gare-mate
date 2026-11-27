@@ -10,7 +10,7 @@ level: JMO Honsen
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_geometria_piana,method_trigonometria,method_coordinate,skill_ragionamento_geometrico"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_geometria_piana,method_trigonometria,method_coordinate,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -21,8 +21,8 @@ level: JMO Honsen
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_trigonometria|Trigonometria]], [[method_coordinate|Coordinate]]
-**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
-**Area:** [[Geometria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Geometria|Geometry]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1suYUMYpD2iGEGY-rmTJaUSXMpm2mVi_0/view)
 
 
@@ -34,13 +34,15 @@ level: JMO Honsen
 > Sia $O$ il circocentro del triangolo $ABC$. Sia $\ell$ la retta passante per il punto medio del lato $BC$ e perpendicolare alla bisettrice di $\angle BAC$. Quando $\ell$ passa per il punto medio del segmento $AO$, trovare la misura di $\angle BAC$.
 
 **Argomento:** [[topic_geometria_piana|Geometria piana]]
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_trigonometria|Tecniche trigonometriche]], [[method_coordinate|Metodo delle coordinate]]
-**Abilità:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
-[[Quesiti/src_jmo24mq_honsen#q01|src_jmo24mq_honsen__Q01]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
 
 
 
-<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_aritmetica,method_congruenze,method_casework,skill_casework_accurato"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_aritmetica,method_congruenze,method_casework,method_fattorizzazione,skill_casework_accurato,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -50,9 +52,9 @@ level: JMO Honsen
 > Find all triples $(a,b,c)$ of positive integers satisfying $2^a + 3^b + 1 = 6^c$.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_congruenze|Congruenze]], [[method_casework|Casework]]
-**Abilita:** [[skill_casework_accurato|Casework accurato]]
-**Area:** [[Aritmetica e Teoria dei Numeri]]
+**Metodo:** [[method_congruenze|Congruenze]], [[method_casework|Casework]], [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1suYUMYpD2iGEGY-rmTJaUSXMpm2mVi_0/view)
 
 
@@ -64,9 +66,11 @@ level: JMO Honsen
 > Determinare tutte le terne $(a,b,c)$ di interi positivi che soddisfano $2^a + 3^b + 1 = 6^c$.
 
 **Argomento:** [[topic_aritmetica|Aritmetica / Teoria dei numeri]]
-**Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]], [[method_casework|Analisi per casi]]
-**Abilità:** [[skill_casework_accurato|Analisi per casi accurata]]
-[[Quesiti/src_jmo24mq_honsen#q02|src_jmo24mq_honsen__Q02]]
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei numeri]]
+**Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]], [[method_casework|Analisi per casi]], [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
+**Abilita:** [[skill_casework_accurato|Analisi per casi accurata]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
 
 
 
@@ -102,7 +106,7 @@ level: JMO Honsen
 **Argomento:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_grafi|Teoria dei grafi]], [[method_estremalita|Principio di estremalità]], [[method_colorazione|Colorazione / parità]]
 **Abilità:** [[skill_astrazione|Astrazione / generalizzazione]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
-[[Quesiti/src_jmo24mq_honsen#q03|src_jmo24mq_honsen__Q03]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
 
 
 
@@ -132,11 +136,11 @@ level: JMO Honsen
 **Argomento:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_simmetria|Sfruttamento della simmetria]]
 **Abilità:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta del testo]]
-[[Quesiti/src_jmo24mq_honsen#q04|src_jmo24mq_honsen__Q04]]
+**Area:** [[Geometria]]
 
 
 
-<span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_disuguaglianze,method_estremalita,method_disuguaglianze,skill_manipolazione_algebrica,skill_stima"></span>
+<span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_disuguaglianze,method_estremalita,method_disuguaglianze,method_simmetria,method_casework,skill_manipolazione_algebrica,skill_stima"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -146,9 +150,9 @@ level: JMO Honsen
 > Find the largest value of the real number $k$ such that the inequality $$\frac{a}{1+9bc+k(b-c)^2} + \frac{b}{1+9ca+k(c-a)^2} + \frac{c}{1+9ab+k(a-b)^2} \ge \frac{1}{2}$$ holds for all nonnegative real numbers $a, b, c$ satisfying $a+b+c=1$.
 
 **Topic:** [[topic_disuguaglianze|Disuguaglianze]]
-**Metodo:** [[method_estremalita|Estremalità]], [[method_disuguaglianze|Disuguaglianze]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_disuguaglianze|Disuguaglianze]], [[method_simmetria|Using symmetry]], [[method_casework|Case analysis]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]]
-**Area:** [[Algebra e Analisi]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1suYUMYpD2iGEGY-rmTJaUSXMpm2mVi_0/view)
 
 
@@ -162,6 +166,8 @@ level: JMO Honsen
 > valga per tutti i numeri reali non negativi $a, b, c$ che soddisfano $a+b+c=1$.
 
 **Argomento:** [[topic_disuguaglianze|Disuguaglianze]]
-**Metodo:** [[method_estremalita|Principio di estremalità]], [[method_disuguaglianze|Disuguaglianze classiche]]
-**Abilità:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima e approssimazione]]
-[[Quesiti/src_jmo24mq_honsen#q05|src_jmo24mq_honsen__Q05]]
+
+**Topic:** [[topic_disuguaglianze|Disuguaglianze]]
+**Metodo:** [[method_estremalita|Principio di estremalità]], [[method_disuguaglianze|Disuguaglianze classiche]], [[method_simmetria|Sfruttamento della simmetria]], [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima e approssimazione]]
+**Area:** [[Algebra e Analisi]]

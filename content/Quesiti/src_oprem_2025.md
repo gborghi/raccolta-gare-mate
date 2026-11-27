@@ -27,7 +27,7 @@ level: Olympiades Première
 > 
 > **(b)** How should $n$ be chosen so that, this time, $1 + 12 = 2$? Draw a corresponding clock.
 
-![[src_oprem_2025__q01.png]]
+![[src_oprem_2025__Q01.png]]
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_logica|Logica]]
 **Metodo:** [[method_congruenze|Congruenze]]
@@ -51,14 +51,12 @@ level: Olympiades Première
 >
 > **(b)** Come si dovrebbe scegliere $n$ affinché, questa volta, $1 + 12 = 2$? Disegna un orologio corrispondente.
 
-![[src_oprem_2025__q01.png]]
+![[src_oprem_2025__Q01.png]]
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_logica|Logica]]
 **Metodo:** [[method_congruenze|Congruenze]]
 **Abilita:** [[skill_astrazione|Astrazione]], [[skill_lettura_attenta|Lettura attenta]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
-
-[[Quesiti/src_oprem_2025#q01|src_oprem_2025__Q01]]
 
 
 
@@ -100,11 +98,9 @@ level: Olympiades Première
 **Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_astrazione|Astrazione]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 
-[[Quesiti/src_oprem_2025#q02|src_oprem_2025__Q02]]
 
 
-
-<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_geometria_solida,skill_ragionamento_geometrico,skill_modellizzazione,skill_manipolazione_algebrica"></span>
+<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_geometria_solida,method_simmetria,skill_ragionamento_geometrico,skill_modellizzazione,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -115,11 +111,12 @@ level: Olympiades Première
 > 
 > **3. And to do mathematics is not what does us harm.** A champagne coupe has a conical shape. Several identical coupes are filled, each up to half of its height $h$. How many coupes can be filled in this way?
 
-![[src_oprem_2025__q03.png]]
+![[src_oprem_2025__Q03.png]]
 
 **Topic:** [[topic_geometria_solida|Geometria solida]]
+**Metodo:** [[method_simmetria|Using symmetry]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
-**Area:** [[Geometria]]
+**Area:** [[Geometria|Geometry]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1HsE1DBbBvOrtVhIU9-kZBY7SbmdMBHbu/view)
 
 
@@ -132,17 +129,17 @@ level: Olympiades Première
 >
 > **3. E fare matematica non è ciò che ci fa male.** Una coppa da champagne ha forma conica. Diverse coppe identiche vengono riempite, ciascuna fino alla metà della propria altezza $h$. Quante coppe si possono riempire in questo modo?
 
-![[src_oprem_2025__q03.png]]
+![[src_oprem_2025__Q03.png]]
+
 
 **Topic:** [[topic_geometria_solida|Geometria solida]]
+**Metodo:** [[method_simmetria|Sfruttamento della simmetria]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 
-[[Quesiti/src_oprem_2025#q03|src_oprem_2025__Q03]]
 
 
-
-<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_geometria_solida,topic_trigonometria,topic_geometria_piana,method_trigonometria,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
+<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_geometria_solida,topic_trigonometria,topic_geometria_piana,method_trigonometria,skill_ragionamento_geometrico,skill_manipolazione_algebrica,skill_modellizzazione"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -153,12 +150,12 @@ level: Olympiades Première
 > 
 > **4. Or rather, a little.** A glass is formed by a hemisphere (represented opposite in cross-section by a semicircle for the drawing). The glass is filled up to half of its height $h$. What is the maximum angle of inclination at which one can tilt the glass without spilling the liquid?
 
-![[src_oprem_2025__q04.png]]
+![[src_oprem_2025__Q04.png]]
 
 **Topic:** [[topic_geometria_solida|Geometria solida]], [[topic_trigonometria|Trigonometria]], [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_trigonometria|Trigonometria]]
-**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
-**Area:** [[Geometria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Geometria|Geometry]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1HsE1DBbBvOrtVhIU9-kZBY7SbmdMBHbu/view)
 
 
@@ -171,18 +168,17 @@ level: Olympiades Première
 >
 > **4. O meglio, un po'.** Un bicchiere è costituito da un emisfero (rappresentato di fronte, in sezione trasversale, da un semicerchio ai fini del disegno). Il bicchiere è riempito fino a metà della sua altezza $h$. Qual è l'angolo massimo di inclinazione con cui si può inclinare il bicchiere senza far fuoriuscire il liquido?
 
-![[src_oprem_2025__q04.png]]
+![[src_oprem_2025__Q04.png]]
+
 
 **Topic:** [[topic_geometria_solida|Geometria solida]], [[topic_trigonometria|Trigonometria]], [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_trigonometria|Trigonometria]]
-**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
 **Area:** [[Geometria]]
 
-[[Quesiti/src_oprem_2025#q04|src_oprem_2025__Q04]]
 
 
-
-<span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_algebra,topic_aritmetica,method_estremalita,method_casework,skill_modellizzazione,skill_manipolazione_algebrica,skill_stima"></span>
+<span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_algebra,topic_aritmetica,method_estremalita,method_casework,skill_modellizzazione,skill_manipolazione_algebrica,skill_stima,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -199,8 +195,8 @@ level: Olympiades Première
 
 **Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_estremalita|Estremalità]], [[method_casework|Casework]]
-**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]]
-**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]], [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1HsE1DBbBvOrtVhIU9-kZBY7SbmdMBHbu/view)
 
 
@@ -217,12 +213,11 @@ level: Olympiades Première
 >
 > **(b)** Il gruppo ottiene un sussidio statale di 1000 euro. Quanto paga ciascuno quando vengono solo 90 persone? Quando vengono 120 persone? E quanti persone devono venire esattamente affinché il prezzo pagato da ciascuno sia minimo?
 
+
 **Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_estremalita|Estremalità]], [[method_casework|Casework]]
-**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
-
-[[Quesiti/src_oprem_2025#q05|src_oprem_2025__Q05]]
 
 
 
@@ -237,7 +232,7 @@ level: Olympiades Première
 > 
 > **6. And to take a dessert.** Consider a portion of tart represented by an angular sector having the shape of a quarter of a disc (angular opening $\frac{\pi}{2}$). One wishes to divide it into two equal parts. But in an original way: by cutting it not along the angular bisector, but along the axis of symmetry, so that the area of the right piece would equal the area of the left piece. Where should the cut be made? (One will introduce all the variables necessary to solve the problem.)
 
-![[src_oprem_2025__q06.png]]
+![[src_oprem_2025__Q06.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_geometria_analitica|Geometria analitica]]
 **Metodo:** [[method_coordinate|Coordinate]]
@@ -255,14 +250,12 @@ level: Olympiades Première
 >
 > **6. E per prendere un dessert.** Si consideri una porzione di torta rappresentata da un settore angolare avente la forma di un quarto di disco (apertura angolare $\frac{\pi}{2}$). Si vuole dividerla in due parti uguali. Ma in modo originale: tagliandola non lungo la bisettrice dell'angolo, bensì lungo l'asse di simmetria, in modo che l'area della parte destra sia uguale all'area della parte sinistra. Dove si deve effettuare il taglio? (Si introdurranno tutte le variabili necessarie per risolvere il problema.)
 
-![[src_oprem_2025__q06.png]]
+![[src_oprem_2025__Q06.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_geometria_analitica|Geometria analitica]]
 **Metodo:** [[method_coordinate|Coordinate]]
 **Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]]
-
-[[Quesiti/src_oprem_2025#q06|src_oprem_2025__Q06]]
 
 
 
@@ -277,7 +270,7 @@ level: Olympiades Première
 > 
 > **7. 3D Pythagoras (de Gua's theorem).** Show that, in a trirectangular tetrahedron (three right angles at one vertex), that is to say a corner of a rectangular parallelepiped, the square of the area of the oblique face equals the sum of the squares of the areas of the three other faces.
 
-![[src_oprem_2025__q07.png]]
+![[src_oprem_2025__Q07.png]]
 
 **Topic:** [[topic_geometria_solida|Geometria solida]]
 **Metodo:** [[method_coordinate|Coordinate]]
@@ -295,14 +288,12 @@ level: Olympiades Première
 >
 > **7. Pitagora nello spazio (teorema di de Gua).** Dimostrare che, in un tetraedro trirettangolo (con tre angoli retti in un unico vertice), vale a dire in un angolo di un parallelepipedo rettangolo, il quadrato dell'area della faccia obliqua è uguale alla somma dei quadrati delle aree delle altre tre facce.
 
-![[src_oprem_2025__q07.png]]
+![[src_oprem_2025__Q07.png]]
 
 **Topic:** [[topic_geometria_solida|Geometria solida]]
 **Metodo:** [[method_coordinate|Coordinate]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_astrazione|Astrazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
-
-[[Quesiti/src_oprem_2025#q07|src_oprem_2025__Q07]]
 
 
 
@@ -377,11 +368,9 @@ level: Olympiades Première
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 
-[[Quesiti/src_oprem_2025#q08|src_oprem_2025__Q08]]
 
 
-
-<span class="atom-split" id="q09" data-atom="q09" data-title="Quesito 9" data-tags="topic_aritmetica,topic_algebra,method_fattorizzazione,skill_manipolazione_algebrica,skill_astrazione"></span>
+<span class="atom-split" id="q09" data-atom="q09" data-title="Quesito 9" data-tags="topic_aritmetica,topic_algebra,method_fattorizzazione,method_congruenze,skill_manipolazione_algebrica,skill_astrazione"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -399,9 +388,9 @@ level: Olympiades Première
 > **(c)** Conclude that $n$ is a balanced number if and only if $8n^2 + 1$ is a perfect square.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
-**Metodo:** [[method_fattorizzazione|Fattorizzazione]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_congruenze|Modular arithmetic / congruences]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]]
-**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Algebra e Analisi|Algebra and analysis]]
 **Risposta:** $n is balanced iff 8n^2+1 is a perfect square$
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1HsE1DBbBvOrtVhIU9-kZBY7SbmdMBHbu/view)
 
@@ -421,12 +410,11 @@ level: Olympiades Première
 >
 > **(c)** Concludi che $n$ è un numero bilanciato se e solo se $8n^2 + 1$ è un quadrato perfetto.
 
+
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
-**Metodo:** [[method_fattorizzazione|Fattorizzazione]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_congruenze|Aritmetica modulare / congruenze]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
-
-[[Quesiti/src_oprem_2025#q09|src_oprem_2025__Q09]]
 
 
 
@@ -499,8 +487,6 @@ level: Olympiades Première
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]], [[skill_stima|Stima]]
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 
-[[Quesiti/src_oprem_2025#q10|src_oprem_2025__Q10]]
-
 
 
 <span class="atom-split" id="q11" data-atom="q11" data-title="Quesito 11" data-tags="topic_aritmetica,topic_algebra,method_ricorsione,method_conteggio,skill_lettura_attenta,skill_modellizzazione,skill_manipolazione_algebrica"></span>
@@ -558,11 +544,9 @@ level: Olympiades Première
 **Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_modellizzazione|Modellizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 
-[[Quesiti/src_oprem_2025#q11|src_oprem_2025__Q11]]
 
 
-
-<span class="atom-split" id="q12" data-atom="q12" data-title="Quesito 12" data-tags="topic_aritmetica,topic_combinatoria,method_conteggio,method_ricorsione,skill_conteggio_sistematico,skill_modellizzazione"></span>
+<span class="atom-split" id="q12" data-atom="q12" data-title="Quesito 12" data-tags="topic_aritmetica,topic_combinatoria,method_conteggio,method_ricorsione,skill_conteggio_sistematico,skill_modellizzazione,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -575,8 +559,8 @@ level: Olympiades Première
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_conteggio|Conteggio]], [[method_ricorsione|Ricorsione]]
-**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione]]
-**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1HsE1DBbBvOrtVhIU9-kZBY7SbmdMBHbu/view)
 
 
@@ -589,12 +573,11 @@ level: Olympiades Première
 >
 > **5. Generazione dei numeri bilanciati in linguaggio Python.** Scrivere una funzione `liste_equilibres(n)` che prenda come argomento un intero $n$ almeno pari a 2 e restituisca la lista dei numeri bilanciati minori o uguali a $n$. Si ricordi che `[]` è la lista vuota e che, dati una lista `L` e un intero `i`, il comando `L.append(i)` aggiunge l'elemento `i` alla lista `L` collocandolo alla fine.
 
+
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_conteggio|Conteggio]], [[method_ricorsione|Ricorsione]]
-**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
-
-[[Quesiti/src_oprem_2025#q12|src_oprem_2025__Q12]]
 
 
 
@@ -679,11 +662,9 @@ level: Olympiades Première
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 
-[[Quesiti/src_oprem_2025#q13|src_oprem_2025__Q13]]
 
 
-
-<span class="atom-split" id="q14" data-atom="q14" data-title="Quesito 14" data-tags="topic_aritmetica,topic_algebra,method_fattorizzazione,skill_manipolazione_algebrica,skill_astrazione"></span>
+<span class="atom-split" id="q14" data-atom="q14" data-title="Quesito 14" data-tags="topic_aritmetica,topic_algebra,method_fattorizzazione,method_congruenze,skill_manipolazione_algebrica,skill_astrazione"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -701,9 +682,9 @@ level: Olympiades Première
 > **(c)** Conclude that $n$ is a balanced number if and only if $8n^2 + 1$ is a perfect square.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
-**Metodo:** [[method_fattorizzazione|Fattorizzazione]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_congruenze|Modular arithmetic / congruences]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]]
-**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Algebra e Analisi|Algebra and analysis]]
 **Risposta:** $n is balanced iff 8n^2+1 is a perfect square$
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1HsE1DBbBvOrtVhIU9-kZBY7SbmdMBHbu/view)
 
@@ -723,12 +704,11 @@ level: Olympiades Première
 >
 > **(c)** Concludi che $n$ è un numero bilanciato se e solo se $8n^2 + 1$ è un quadrato perfetto.
 
+
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
-**Metodo:** [[method_fattorizzazione|Fattorizzazione]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_congruenze|Aritmetica modulare / congruenze]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
-
-[[Quesiti/src_oprem_2025#q14|src_oprem_2025__Q14]]
 
 
 
@@ -782,11 +762,9 @@ level: Olympiades Première
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_astrazione|Astrazione]]
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 
-[[Quesiti/src_oprem_2025#q15|src_oprem_2025__Q15]]
 
 
-
-<span class="atom-split" id="q16" data-atom="q16" data-title="Quesito 16" data-tags="topic_aritmetica,topic_combinatoria,method_conteggio,method_ricorsione,skill_conteggio_sistematico,skill_modellizzazione"></span>
+<span class="atom-split" id="q16" data-atom="q16" data-title="Quesito 16" data-tags="topic_aritmetica,topic_combinatoria,method_conteggio,method_ricorsione,skill_conteggio_sistematico,skill_modellizzazione,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -799,8 +777,8 @@ level: Olympiades Première
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_conteggio|Conteggio]], [[method_ricorsione|Ricorsione]]
-**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione]]
-**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1HsE1DBbBvOrtVhIU9-kZBY7SbmdMBHbu/view)
 
 
@@ -813,9 +791,8 @@ level: Olympiades Première
 >
 > **6. Generazione dei numeri bilanciati in linguaggio Python.** Scrivere una funzione `liste_equilibres(n)` che accetti come argomento un intero $n$ almeno pari a 2 e restituisca la lista dei numeri bilanciati minori o uguali a $n$. Si ricordi che `[]` è la lista vuota e che, dati una lista `L` e un intero `i`, il comando `L.append(i)` aggiunge l'elemento `i` alla lista `L`, collocandolo alla fine. Si userà l'istruzione `sqrt()` per codificare la funzione radice quadrata.
 
+
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_conteggio|Conteggio]], [[method_ricorsione|Ricorsione]]
-**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
-
-[[Quesiti/src_oprem_2025#q16|src_oprem_2025__Q16]]

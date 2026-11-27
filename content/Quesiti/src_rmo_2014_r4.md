@@ -38,8 +38,6 @@ level: RMO
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 
-[[Quesiti/src_rmo_2014_r4#q01|src_rmo_2014_r4__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_disuguaglianze,method_disuguaglianze,skill_manipolazione_algebrica,skill_ragionamento_geometrico"></span>
@@ -71,8 +69,6 @@ level: RMO
 **Metodo:** [[method_disuguaglianze|Disuguaglianze]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Algebra e Analisi]]
-
-[[Quesiti/src_rmo_2014_r4#q02|src_rmo_2014_r4__Q02]]
 
 
 
@@ -106,11 +102,9 @@ level: RMO
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 
-[[Quesiti/src_rmo_2014_r4#q03|src_rmo_2014_r4__Q03]]
 
 
-
-<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_geometria_piana,topic_disuguaglianze,method_disuguaglianze,method_estremalita,skill_manipolazione_algebrica,skill_ragionamento_geometrico,skill_stima"></span>
+<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_geometria_piana,topic_disuguaglianze,method_disuguaglianze,method_estremalita,method_fattorizzazione,skill_manipolazione_algebrica,skill_ragionamento_geometrico,skill_stima"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -119,12 +113,12 @@ level: RMO
 
 > What is the minimal area of a right-angled triangle whose inradius is $1$ unit?
 
-![[src_rmo_2014_r4__q04.png]]
+![[src_rmo_2014_r4__Q04.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_disuguaglianze|Disuguaglianze]]
-**Metodo:** [[method_disuguaglianze|Disuguaglianze]], [[method_estremalita|Estremalità]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze]], [[method_estremalita|Estremalità]], [[method_fattorizzazione|Factorisation / algebraic manipulation]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_stima|Stima]]
-**Area:** [[Geometria]], [[Algebra e Analisi]]
+**Area:** [[Geometria|Geometry]], [[Algebra e Analisi|Algebra and analysis]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1_5EQ0vtFoy1yZU5H1bqM3-h79HcTmDgT/view)
 
 
@@ -135,14 +129,13 @@ level: RMO
 
 > Qual è l'area minima di un triangolo rettangolo il cui raggio incircoscritto è $1$ unità?
 
-![[src_rmo_2014_r4__q04.png]]
+![[src_rmo_2014_r4__Q04.png]]
+
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_disuguaglianze|Disuguaglianze]]
-**Metodo:** [[method_disuguaglianze|Disuguaglianze]], [[method_estremalita|Estremalità]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze]], [[method_estremalita|Estremalità]], [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_stima|Stima]]
 **Area:** [[Geometria]], [[Algebra e Analisi]]
-
-[[Quesiti/src_rmo_2014_r4#q04|src_rmo_2014_r4__Q04]]
 
 
 
@@ -155,7 +148,7 @@ level: RMO
 
 > Let $ABC$ be an acute-angled triangle and let $I$ be its incentre. Let the incircle of triangle $ABC$ touch $BC$ in $D$. The incircle of triangle $ABD$ touches $AB$ in $E$; the incircle of triangle $ACD$ touches $AC$ in $F$. Prove that $B, E, I, F$ are concyclic.
 
-![[src_rmo_2014_r4__q05.png]]
+![[src_rmo_2014_r4__Q05.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
@@ -170,17 +163,15 @@ level: RMO
 
 > Sia $ABC$ un triangolo acutangolo e sia $I$ il suo incentro. Sia $D$ il punto di tangenza tra l'incirconferenza del triangolo $ABC$ e $BC$. L'incirconferenza del triangolo $ABD$ tocca $AB$ in $E$; l'incirconferenza del triangolo $ACD$ tocca $AC$ in $F$. Dimostrare che $B, E, I, F$ sono conciclici.
 
-![[src_rmo_2014_r4__q05.png]]
+![[src_rmo_2014_r4__Q05.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Geometria]]
 
-[[Quesiti/src_rmo_2014_r4#q05|src_rmo_2014_r4__Q05]]
 
 
-
-<span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_combinatoria,topic_aritmetica,method_colorazione,method_congruenze,method_casework,skill_conteggio_sistematico,skill_riconoscimento_pattern,skill_modellizzazione"></span>
+<span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_combinatoria,topic_aritmetica,method_colorazione,method_congruenze,method_casework,method_doppio_conteggio,skill_conteggio_sistematico,skill_riconoscimento_pattern,skill_modellizzazione"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -189,12 +180,12 @@ level: RMO
 
 > In the adjacent figure, can the numbers $1, 2, 3, 4, \cdots, 18$ be placed, one on each line segment, such that the sum of the numbers on the three line segments meeting at each point is divisible by $3$?
 
-![[src_rmo_2014_r4__q06.png]]
+![[src_rmo_2014_r4__Q06.png]]
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_colorazione|Colorazione]], [[method_congruenze|Congruenze]], [[method_casework|Casework]]
+**Metodo:** [[method_colorazione|Colorazione]], [[method_congruenze|Congruenze]], [[method_casework|Casework]], [[method_doppio_conteggio|Double counting]]
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_modellizzazione|Modellizzazione]]
-**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1_5EQ0vtFoy1yZU5H1bqM3-h79HcTmDgT/view)
 
 
@@ -205,11 +196,10 @@ level: RMO
 
 > Nella figura adiacente, è possibile collocare i numeri $1, 2, 3, 4, \cdots, 18$, uno su ciascun segmento di retta, in modo che la somma dei numeri sui tre segmenti di retta che si incontrano in ciascun punto sia divisibile per $3$?
 
-![[src_rmo_2014_r4__q06.png]]
+![[src_rmo_2014_r4__Q06.png]]
+
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_colorazione|Colorazione]], [[method_congruenze|Congruenze]], [[method_casework|Casework]]
+**Metodo:** [[method_colorazione|Colorazione]], [[method_congruenze|Congruenze]], [[method_casework|Casework]], [[method_doppio_conteggio|Doppio conteggio]]
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_modellizzazione|Modellizzazione]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
-
-[[Quesiti/src_rmo_2014_r4#q06|src_rmo_2014_r4__Q06]]

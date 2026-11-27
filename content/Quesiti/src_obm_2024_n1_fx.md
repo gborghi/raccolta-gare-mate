@@ -46,8 +46,6 @@ level: OBM Nível 1
 **Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 
-[[Quesiti/src_obm_2024_n1_fx#q01|src_obm_2024_n1_fx__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_combinatoria,topic_logica,method_casework,method_conteggio,skill_conteggio_sistematico,skill_ragionamento_geometrico,skill_casework_accurato,skill_lettura_attenta"></span>
@@ -71,7 +69,7 @@ level: OBM Nível 1
 > 
 > b) How many different complete configurations exist on a $3 \times 3$ board using exactly one rook and two knights? Configurations obtained from each other by rotations or reflections are considered different. For example, the four configurations shown below are all considered distinct.
 
-![[src_obm_2024_n1_fx__q02.png]]
+![[src_obm_2024_n1_fx__Q02.png]]
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_logica|Logica]]
 **Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]]
@@ -99,14 +97,12 @@ level: OBM Nível 1
 >
 > b) Quante configurazioni complete distinte esistono su una scacchiera $3 \times 3$ utilizzando esattamente una torre e due cavalli? Le configurazioni che si ottengono l'una dall'altra mediante rotazioni o riflessioni sono considerate diverse. Ad esempio, le quattro configurazioni mostrate di seguito sono tutte considerate distinte.
 
-![[src_obm_2024_n1_fx__q02.png]]
+![[src_obm_2024_n1_fx__Q02.png]]
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_logica|Logica]]
 **Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]]
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_casework_accurato|Casework accurato]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
-
-[[Quesiti/src_obm_2024_n1_fx#q02|src_obm_2024_n1_fx__Q02]]
 
 
 
@@ -127,7 +123,7 @@ level: OBM Nível 1
 > 
 > \emph{In this problem, you may wish to use the Pythagorean Theorem: in a right triangle with legs $a$ and $b$ and hypotenuse $c$ (the side opposite the $90^\circ$ angle), the relation $a^2 + b^2 = c^2$ holds.}
 
-![[src_obm_2024_n1_fx__q03.png]]
+![[src_obm_2024_n1_fx__Q03.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_coordinate|Coordinate]], [[method_casework|Casework]]
@@ -151,18 +147,16 @@ level: OBM Nível 1
 >
 > \emph{In questo problema, potresti voler utilizzare il teorema di Pitagora: in un triangolo rettangolo con i cateti $a$ e $b$ e l'ipotenusa $c$ (il lato opposto all'angolo $90^\circ$), vale la relazione $a^2 + b^2 = c^2$.}
 
-![[src_obm_2024_n1_fx__q03.png]]
+![[src_obm_2024_n1_fx__Q03.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_coordinate|Coordinate]], [[method_casework|Casework]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Geometria]], [[Aritmetica e Teoria dei Numeri]]
 
-[[Quesiti/src_obm_2024_n1_fx#q03|src_obm_2024_n1_fx__Q03]]
 
 
-
-<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_aritmetica,topic_algebra,method_fattorizzazione,method_congruenze,method_ricorsione,skill_riconoscimento_pattern,skill_manipolazione_algebrica,skill_ragionamento_geometrico,skill_conteggio_sistematico"></span>
+<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_aritmetica,topic_algebra,topic_funzionali,method_fattorizzazione,method_congruenze,method_ricorsione,skill_riconoscimento_pattern,skill_manipolazione_algebrica,skill_ragionamento_geometrico,skill_conteggio_sistematico"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -179,10 +173,10 @@ level: OBM Nível 1
 > 
 > c) Find an initial value $N$ less than $1{,}000{,}000$ (one million) such that the sequence starting from $N$ has exactly 10 terms.
 
-**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]], [[topic_funzionali|Functional equations / sequences]]
 **Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_congruenze|Congruenze]], [[method_ricorsione|Ricorsione]]
 **Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_conteggio_sistematico|Conteggio sistematico]]
-**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Algebra e Analisi|Algebra and analysis]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1SMFA1YxpKz5Gw3k7ra45Thbg-GPJnX_8/view)
 
 
@@ -201,16 +195,15 @@ level: OBM Nível 1
 >
 > c) Trova un valore iniziale $N$ minore di $1{,}000{,}000$ (un milione) tale che la successione che parte da $N$ abbia esattamente 10 termini.
 
-**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]], [[topic_funzionali|Equazioni funzionali / successioni]]
 **Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_congruenze|Congruenze]], [[method_ricorsione|Ricorsione]]
 **Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 
-[[Quesiti/src_obm_2024_n1_fx#q04|src_obm_2024_n1_fx__Q04]]
 
 
-
-<span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_combinatoria,topic_aritmetica,method_casework,method_estremalita,skill_modellizzazione,skill_conteggio_sistematico,skill_stima,skill_casework_accurato"></span>
+<span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_combinatoria,topic_aritmetica,method_casework,method_estremalita,method_conteggio,skill_modellizzazione,skill_conteggio_sistematico,skill_stima,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -220,9 +213,9 @@ level: OBM Nível 1
 > A championship is played among six football teams, with each team playing each of the other five teams exactly once. The winner of each match earns 3 points and the loser earns 0 points; if the match ends in a draw, both teams earn 1 point. It is known that, at the end of the championship, the six teams had pairwise different point totals. What is the smallest possible value for the number of points of the team with the most points?
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_casework|Casework]], [[method_estremalita|Estremalità]]
+**Metodo:** [[method_casework|Casework]], [[method_estremalita|Estremalità]], [[method_conteggio|Combinatorial counting]]
 **Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_stima|Stima]], [[skill_casework_accurato|Casework accurato]]
-**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1SMFA1YxpKz5Gw3k7ra45Thbg-GPJnX_8/view)
 
 
@@ -233,9 +226,8 @@ level: OBM Nível 1
 
 > Un campionato si disputa tra sei squadre di calcio, e ciascuna squadra affronta ciascuna delle altre cinque esattamente una volta. La vincitrice di ogni partita ottiene 3 punti, la sconfitta 0 punti; in caso di pareggio, entrambe le squadre ottengono 1 punto. Si sa che, al termine del campionato, i totali di punti delle sei squadre erano tutti diversi tra loro. Qual è il valore minimo possibile del numero di punti della squadra con il maggior numero di punti?
 
+
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_casework|Casework]], [[method_estremalita|Estremalità]]
+**Metodo:** [[method_casework|Casework]], [[method_estremalita|Estremalità]], [[method_conteggio|Conteggio combinatorio]]
 **Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_stima|Stima]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
-
-[[Quesiti/src_obm_2024_n1_fx#q05|src_obm_2024_n1_fx__Q05]]

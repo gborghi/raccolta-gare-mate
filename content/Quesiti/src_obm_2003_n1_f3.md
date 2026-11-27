@@ -38,12 +38,11 @@ level: OBM Nível 1
 **Metodo:** [[method_casework|Analisi per casi]], [[method_conteggio|Conteggio]]
 
 **Abilità:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Analisi accurata dei casi]]
-
-[[Quesiti/src_obm_2003_n1_f3#q01|src_obm_2003_n1_f3__Q01]]
-
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 
 
-<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_aritmetica,method_backward,method_casework,skill_lettura_attenta,skill_conteggio_sistematico,skill_riconoscimento_pattern"></span>
+
+<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_aritmetica,topic_funzionali,method_backward,method_casework,skill_lettura_attenta,skill_conteggio_sistematico,skill_riconoscimento_pattern"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -56,10 +55,10 @@ level: OBM Nível 1
 > 
 > **Note:** the longest sequence is the one with the greatest number of terms.
 
-**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_funzionali|Functional equations / sequences]]
 **Metodo:** [[method_backward|Backward]], [[method_casework|Casework]]
 **Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
-**Area:** [[Aritmetica e Teoria dei Numeri]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Algebra e Analisi|Algebra and analysis]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Fq2BnouPlZNYB4q3xeQVFACfj-3dDnnn/view)
 
 
@@ -76,15 +75,16 @@ level: OBM Nível 1
 
 **Argomento:** [[topic_aritmetica|Aritmetica / Teoria dei numeri]]
 
+
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei numeri]], [[topic_funzionali|Equazioni funzionali / successioni]]
 **Metodo:** [[method_backward|Ragionamento all'indietro]], [[method_casework|Analisi per casi]]
-
-**Abilità:** [[skill_lettura_attenta|Lettura attenta]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
-
-[[Quesiti/src_obm_2003_n1_f3#q02|src_obm_2003_n1_f3__Q02]]
+**Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 
 
 
-<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_aritmetica,topic_geometria_piana,method_casework,method_conteggio,skill_modellizzazione,skill_ragionamento_geometrico,skill_riconoscimento_pattern"></span>
+<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_aritmetica,topic_geometria_piana,method_casework,method_conteggio,skill_modellizzazione,skill_ragionamento_geometrico,skill_riconoscimento_pattern,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -99,8 +99,8 @@ level: OBM Nível 1
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]]
-**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
-**Area:** [[Aritmetica e Teoria dei Numeri]], [[Geometria]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Geometria|Geometry]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Fq2BnouPlZNYB4q3xeQVFACfj-3dDnnn/view)
 
 
@@ -117,11 +117,12 @@ level: OBM Nível 1
 
 **Argomento:** [[topic_aritmetica|Aritmetica / Teoria dei numeri]], [[topic_geometria_piana|Geometria piana]]
 
+
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei numeri]], [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_casework|Analisi per casi]], [[method_conteggio|Conteggio]]
-
-**Abilità:** [[skill_modellizzazione|Modellizzazione]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
-
-[[Quesiti/src_obm_2003_n1_f3#q03|src_obm_2003_n1_f3__Q03]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Geometria]]
 
 
 
@@ -138,7 +139,7 @@ level: OBM Nível 1
 > 
 > b) In the following figure, the parallelogram has sides of measure $12$ cm and $4$ cm and area $40$ cm$^2$. Let $P$, $Q$, $R$ and $S$ be the centers of the squares constructed externally on the four sides of this parallelogram. Knowing that the quadrilateral $PQRS$ is a square, calculate its area.
 
-![[src_obm_2003_n1_f3__q04.png]]
+![[src_obm_2003_n1_f3__Q04.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_coordinate|Coordinate]], [[method_simmetria|Simmetria]]
@@ -158,15 +159,14 @@ level: OBM Nível 1
 >
 > b) Nella figura seguente il parallelogramma ha lati di misura $12$ cm e $4$ cm e area $40$ cm$^2$. Siano $P$, $Q$, $R$ e $S$ i centri dei quadrati costruiti esternamente sui quattro lati di questo parallelogramma. Sapendo che il quadrilatero $PQRS$ è un quadrato, calcolarne l'area.
 
-![[src_obm_2003_n1_f3__q04.png]]
+![[src_obm_2003_n1_f3__Q04.png]]
 
 **Argomento:** [[topic_geometria_piana|Geometria piana]]
 
 **Metodo:** [[method_coordinate|Coordinate]], [[method_simmetria|Simmetria]]
 
 **Abilità:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
-
-[[Quesiti/src_obm_2003_n1_f3#q04|src_obm_2003_n1_f3__Q04]]
+**Area:** [[Geometria]]
 
 
 
@@ -206,5 +206,4 @@ level: OBM Nível 1
 **Metodo:** [[method_casework|Analisi per casi]], [[method_estremalita|Estremalità]]
 
 **Abilità:** [[skill_modellizzazione|Modellizzazione]], [[skill_astrazione|Astrazione]], [[skill_lettura_attenta|Lettura attenta]]
-
-[[Quesiti/src_obm_2003_n1_f3#q05|src_obm_2003_n1_f3__Q05]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]

@@ -10,7 +10,7 @@ level: Coupe Animath Printemps
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_aritmetica"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_aritmetica,method_fattorizzazione,skill_riconoscimento_pattern"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -21,11 +21,13 @@ level: Coupe Animath Printemps
 >
 > *Only a numerical answer is expected here.*
 
-**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Area:** [[Aritmetica e Teoria dei Numeri]]
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Risposta:** 2021
-**Fonte risposta:** corrigé commenté ufficiale PDF p.3
-**Fonte:** apri PDF p.3 · Coupe Animath Printemps 2026 (Animath / POFM, maths-olympiques.fr)
+**Fonte risposta:** [corrigé commenté ufficiale PDF p.3](https://maths-olympiques.fr/wp-content/uploads/2026/06/Corrige-commente-Coupe-Animath-Printemps-2026.pdf#page=3)
+**Fonte:** [apri PDF p.3](https://maths-olympiques.fr/wp-content/uploads/2026/06/Sujet-Coupe-Animath-Printemps-2026.pdf#page=3) · Coupe Animath Printemps 2026 (Animath / POFM, maths-olympiques.fr)
 
 
 <div class="qlang-split" data-lang="it"></div>
@@ -37,13 +39,15 @@ level: Coupe Animath Printemps
 >
 > *Qui è richiesta solo la risposta numerica.*
 
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 2021
 
-[[Quesiti/src_canimath_2026_printemps#q01|src_canimath_2026_printemps__Q01]]
 
 
-
-<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_geometria_piana"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_geometria_piana,method_trigonometria,skill_ragionamento_geometrico"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -54,11 +58,13 @@ level: Coupe Animath Printemps
 >
 > What is the measure of the angle $\widehat{PCB}$?
 
-**Topic:** [[topic_geometria_piana|Geometria piana]]
-**Area:** [[Geometria]]
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_trigonometria|Trigonometric techniques]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
 **Risposta:** $22.5^\circ$
-**Fonte risposta:** corrigé commenté ufficiale PDF p.4
-**Fonte:** apri PDF p.3 · Coupe Animath Printemps 2026 (Animath / POFM, maths-olympiques.fr)
+**Fonte risposta:** [corrigé commenté ufficiale PDF p.4](https://maths-olympiques.fr/wp-content/uploads/2026/06/Corrige-commente-Coupe-Animath-Printemps-2026.pdf#page=4)
+**Fonte:** [apri PDF p.3](https://maths-olympiques.fr/wp-content/uploads/2026/06/Sujet-Coupe-Animath-Printemps-2026.pdf#page=3) · Coupe Animath Printemps 2026 (Animath / POFM, maths-olympiques.fr)
 
 
 <div class="qlang-split" data-lang="it"></div>
@@ -70,13 +76,15 @@ level: Coupe Animath Printemps
 >
 > Quanto misura l'angolo $\widehat{PCB}$?
 
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_trigonometria|Tecniche trigonometriche]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Geometria]]
 **Risposta:** $22{,}5^\circ$
 
-[[Quesiti/src_canimath_2026_printemps#q02|src_canimath_2026_printemps__Q02]]
 
 
-
-<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_aritmetica"></span>
+<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_aritmetica,method_colorazione,method_cassetti,skill_riconoscimento_pattern"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -87,11 +95,13 @@ level: Coupe Animath Printemps
 >
 > What is the largest value of $n$ for which this is possible?
 
-**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Area:** [[Aritmetica e Teoria dei Numeri]]
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_colorazione|Colouring / parity]], [[method_cassetti|Pigeonhole principle]]
+**Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Risposta:** $n=2$
-**Fonte risposta:** corrigé commenté ufficiale PDF p.5
-**Fonte:** apri PDF p.3 · Coupe Animath Printemps 2026 (Animath / POFM, maths-olympiques.fr)
+**Fonte risposta:** [corrigé commenté ufficiale PDF p.5](https://maths-olympiques.fr/wp-content/uploads/2026/06/Corrige-commente-Coupe-Animath-Printemps-2026.pdf#page=5)
+**Fonte:** [apri PDF p.3](https://maths-olympiques.fr/wp-content/uploads/2026/06/Sujet-Coupe-Animath-Printemps-2026.pdf#page=3) · Coupe Animath Printemps 2026 (Animath / POFM, maths-olympiques.fr)
 
 
 <div class="qlang-split" data-lang="it"></div>
@@ -103,13 +113,15 @@ level: Coupe Animath Printemps
 >
 > Qual è il più grande valore di $n$ per cui ciò è possibile?
 
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_colorazione|Colorazione / parita]], [[method_cassetti|Principio dei cassetti]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** $n=2$
 
-[[Quesiti/src_canimath_2026_printemps#q03|src_canimath_2026_printemps__Q03]]
 
 
-
-<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_algebra,topic_disuguaglianze"></span>
+<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_algebra,topic_disuguaglianze,method_cassetti,method_casework,skill_casework_accurato,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -120,11 +132,13 @@ level: Coupe Animath Printemps
 >
 > For which values of $n$ is it true that, whatever real numbers Aline writes, Emilhan can find three pairwise distinct real numbers $a$, $b$ and $c$ among the $n$ numbers on the board such that $ab+bc+ca\geqslant0$?
 
-**Topic:** [[topic_algebra|Algebra]], [[topic_disuguaglianze|Disuguaglianze]]
-**Area:** [[Algebra e Analisi]]
+**Topic:** [[topic_algebra|Algebra]], [[topic_disuguaglianze|Inequalities]]
+**Metodo:** [[method_cassetti|Pigeonhole principle]], [[method_casework|Case analysis]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
 **Risposta:** exactly for $n\geqslant5$
-**Fonte risposta:** corrigé commenté ufficiale PDF p.6
-**Fonte:** apri PDF p.3 · Coupe Animath Printemps 2026 (Animath / POFM, maths-olympiques.fr)
+**Fonte risposta:** [corrigé commenté ufficiale PDF p.6](https://maths-olympiques.fr/wp-content/uploads/2026/06/Corrige-commente-Coupe-Animath-Printemps-2026.pdf#page=6)
+**Fonte:** [apri PDF p.3](https://maths-olympiques.fr/wp-content/uploads/2026/06/Sujet-Coupe-Animath-Printemps-2026.pdf#page=3) · Coupe Animath Printemps 2026 (Animath / POFM, maths-olympiques.fr)
 
 
 <div class="qlang-split" data-lang="it"></div>
@@ -136,13 +150,15 @@ level: Coupe Animath Printemps
 >
 > Per quali valori di $n$ accade che, qualunque siano i numeri reali scritti da Aline, Emilhan riesca a trovare tre numeri reali a due a due distinti $a$, $b$ e $c$ tra gli $n$ numeri alla lavagna tali che $ab+bc+ca\geqslant0$?
 
+**Topic:** [[topic_algebra|Algebra]], [[topic_disuguaglianze|Disuguaglianze]]
+**Metodo:** [[method_cassetti|Principio dei cassetti]], [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Algebra e Analisi]]
 **Risposta:** esattamente per $n\geqslant5$
 
-[[Quesiti/src_canimath_2026_printemps#q04|src_canimath_2026_printemps__Q04]]
 
 
-
-<span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_combinatoria"></span>
+<span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_combinatoria,method_colorazione,method_invarianti,skill_riconoscimento_pattern,skill_modellizzazione"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -155,11 +171,13 @@ level: Coupe Animath Printemps
 >
 > 2. Determine the maximum number of distinct numbers Maxime wrote in the grid if his piece is the following one, made of 2 cells: a domino (two cells side by side).
 
-**Topic:** [[topic_combinatoria|Combinatoria]]
-**Area:** [[Combinatoria, Logica e Probabilita]]
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_colorazione|Colouring / parity]], [[method_invarianti|Invariants / monovariants]]
+**Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]], [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Risposta:** 1) 1 number; 2) 2 distinct numbers
-**Fonte risposta:** corrigé commenté ufficiale PDF p.7
-**Fonte:** apri PDF p.3 · Coupe Animath Printemps 2026 (Animath / POFM, maths-olympiques.fr)
+**Fonte risposta:** [corrigé commenté ufficiale PDF p.7](https://maths-olympiques.fr/wp-content/uploads/2026/06/Corrige-commente-Coupe-Animath-Printemps-2026.pdf#page=7)
+**Fonte:** [apri PDF p.3](https://maths-olympiques.fr/wp-content/uploads/2026/06/Sujet-Coupe-Animath-Printemps-2026.pdf#page=3) · Coupe Animath Printemps 2026 (Animath / POFM, maths-olympiques.fr)
 
 
 <div class="qlang-split" data-lang="it"></div>
@@ -173,13 +191,15 @@ level: Coupe Animath Printemps
 >
 > 2. Determinare il massimo numero di numeri distinti che Maxime ha scritto nella griglia se il pezzo che possiede è il seguente, formato da 2 caselle: un domino (due caselle affiancate).
 
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_colorazione|Colorazione / parita]], [[method_invarianti|Invarianti / monovarianti]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 1) 1 numero; 2) 2 numeri distinti
 
-[[Quesiti/src_canimath_2026_printemps#q05|src_canimath_2026_printemps__Q05]]
 
 
-
-<span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_algebra,topic_aritmetica"></span>
+<span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_algebra,topic_aritmetica,method_fattorizzazione,method_casework,skill_manipolazione_algebrica,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -190,11 +210,13 @@ level: Coupe Animath Printemps
 >
 > $$\begin{cases}x^2=yz+1,\\ y^2=zx+1,\\ z^2=xy+1.\end{cases}$$
 
-**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]], [[method_casework|Case analysis]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Risposta:** $(-1,0,1)$ and all its permutations
-**Fonte risposta:** corrigé commenté ufficiale PDF p.9
-**Fonte:** apri PDF p.3 · Coupe Animath Printemps 2026 (Animath / POFM, maths-olympiques.fr)
+**Fonte risposta:** [corrigé commenté ufficiale PDF p.9](https://maths-olympiques.fr/wp-content/uploads/2026/06/Corrige-commente-Coupe-Animath-Printemps-2026.pdf#page=9)
+**Fonte:** [apri PDF p.3](https://maths-olympiques.fr/wp-content/uploads/2026/06/Sujet-Coupe-Animath-Printemps-2026.pdf#page=3) · Coupe Animath Printemps 2026 (Animath / POFM, maths-olympiques.fr)
 
 
 <div class="qlang-split" data-lang="it"></div>
@@ -206,13 +228,15 @@ level: Coupe Animath Printemps
 >
 > $$\begin{cases}x^2=yz+1,\\ y^2=zx+1,\\ z^2=xy+1.\end{cases}$$
 
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]], [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** $(-1,0,1)$ e tutte le sue permutazioni
 
-[[Quesiti/src_canimath_2026_printemps#q06|src_canimath_2026_printemps__Q06]]
 
 
-
-<span class="atom-split" id="q07" data-atom="q07" data-title="Quesito 7" data-tags="topic_geometria_piana"></span>
+<span class="atom-split" id="q07" data-atom="q07" data-title="Quesito 7" data-tags="topic_geometria_piana,method_simmetria,skill_ragionamento_geometrico"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -223,11 +247,13 @@ level: Coupe Animath Printemps
 >
 > Prove that the lines $(AP)$, $(QR)$ and $(DE)$ meet at a single point.
 
-**Topic:** [[topic_geometria_piana|Geometria piana]]
-**Area:** [[Geometria]]
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_simmetria|Using symmetry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
 **Risposta:** proof — official solution in the corrigé
-**Fonte risposta:** corrigé commenté ufficiale PDF p.12
-**Fonte:** apri PDF p.3 · Coupe Animath Printemps 2026 (Animath / POFM, maths-olympiques.fr)
+**Fonte risposta:** [corrigé commenté ufficiale PDF p.12](https://maths-olympiques.fr/wp-content/uploads/2026/06/Corrige-commente-Coupe-Animath-Printemps-2026.pdf#page=12)
+**Fonte:** [apri PDF p.3](https://maths-olympiques.fr/wp-content/uploads/2026/06/Sujet-Coupe-Animath-Printemps-2026.pdf#page=3) · Coupe Animath Printemps 2026 (Animath / POFM, maths-olympiques.fr)
 
 
 <div class="qlang-split" data-lang="it"></div>
@@ -239,13 +265,15 @@ level: Coupe Animath Printemps
 >
 > Dimostrare che le rette $(AP)$, $(QR)$ e $(DE)$ passano per uno stesso punto.
 
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_simmetria|Sfruttamento della simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Geometria]]
 **Risposta:** dimostrazione — soluzione ufficiale nel corrigé
 
-[[Quesiti/src_canimath_2026_printemps#q07|src_canimath_2026_printemps__Q07]]
 
 
-
-<span class="atom-split" id="q08" data-atom="q08" data-title="Quesito 8" data-tags="topic_aritmetica"></span>
+<span class="atom-split" id="q08" data-atom="q08" data-title="Quesito 8" data-tags="topic_aritmetica,method_fattorizzazione,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -258,11 +286,13 @@ level: Coupe Animath Printemps
 >
 > *For example, the decimal representation of the number 2020 has 4 digits.*
 
-**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Area:** [[Aritmetica e Teoria dei Numeri]]
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Risposta:** 2023
-**Fonte risposta:** corrigé commenté ufficiale PDF p.13
-**Fonte:** apri PDF p.4 · Coupe Animath Printemps 2026 (Animath / POFM, maths-olympiques.fr)
+**Fonte risposta:** [corrigé commenté ufficiale PDF p.13](https://maths-olympiques.fr/wp-content/uploads/2026/06/Corrige-commente-Coupe-Animath-Printemps-2026.pdf#page=13)
+**Fonte:** [apri PDF p.4](https://maths-olympiques.fr/wp-content/uploads/2026/06/Sujet-Coupe-Animath-Printemps-2026.pdf#page=4) · Coupe Animath Printemps 2026 (Animath / POFM, maths-olympiques.fr)
 
 
 <div class="qlang-split" data-lang="it"></div>
@@ -276,13 +306,15 @@ level: Coupe Animath Printemps
 >
 > *Per esempio, la scrittura decimale del numero 2020 ha 4 cifre.*
 
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 2023
 
-[[Quesiti/src_canimath_2026_printemps#q08|src_canimath_2026_printemps__Q08]]
 
 
-
-<span class="atom-split" id="q09" data-atom="q09" data-title="Quesito 9" data-tags="topic_combinatoria"></span>
+<span class="atom-split" id="q09" data-atom="q09" data-title="Quesito 9" data-tags="topic_combinatoria,method_estremalita,method_casework,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -291,11 +323,13 @@ level: Coupe Animath Printemps
 
 > In a $4\times4$ grid, two of the sixteen cells are coloured black and the other fourteen white. Determine the largest positive integer $k$ such that, whichever cells are coloured black, one can always find a rectangle made of $k$ whole cells, with sides parallel to the sides of the grid, containing no black cell.
 
-**Topic:** [[topic_combinatoria|Combinatoria]]
-**Area:** [[Combinatoria, Logica e Probabilita]]
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_estremalita|Extremal principle]], [[method_casework|Case analysis]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Risposta:** 4
-**Fonte risposta:** corrigé commenté ufficiale PDF p.14
-**Fonte:** apri PDF p.4 · Coupe Animath Printemps 2026 (Animath / POFM, maths-olympiques.fr)
+**Fonte risposta:** [corrigé commenté ufficiale PDF p.14](https://maths-olympiques.fr/wp-content/uploads/2026/06/Corrige-commente-Coupe-Animath-Printemps-2026.pdf#page=14)
+**Fonte:** [apri PDF p.4](https://maths-olympiques.fr/wp-content/uploads/2026/06/Sujet-Coupe-Animath-Printemps-2026.pdf#page=4) · Coupe Animath Printemps 2026 (Animath / POFM, maths-olympiques.fr)
 
 
 <div class="qlang-split" data-lang="it"></div>
@@ -305,13 +339,15 @@ level: Coupe Animath Printemps
 
 > In una griglia $4\times4$, due delle sedici caselle sono colorate di nero e le altre quattordici di bianco. Determinare il più grande intero positivo $k$ tale che, comunque siano scelte le caselle nere, si possa sempre trovare un rettangolo formato da $k$ caselle intere, con i lati paralleli ai lati della griglia, che non contenga alcuna casella nera.
 
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_estremalita|Principio di estremalita]], [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 4
 
-[[Quesiti/src_canimath_2026_printemps#q09|src_canimath_2026_printemps__Q09]]
 
 
-
-<span class="atom-split" id="q10" data-atom="q10" data-title="Quesito 10" data-tags="topic_geometria_piana"></span>
+<span class="atom-split" id="q10" data-atom="q10" data-title="Quesito 10" data-tags="topic_geometria_piana,method_trigonometria,skill_ragionamento_geometrico"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -322,11 +358,13 @@ level: Coupe Animath Printemps
 >
 > Prove that $DX=DY$.
 
-**Topic:** [[topic_geometria_piana|Geometria piana]]
-**Area:** [[Geometria]]
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_trigonometria|Trigonometric techniques]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
 **Risposta:** proof — official solution in the corrigé
-**Fonte risposta:** corrigé commenté ufficiale PDF p.15
-**Fonte:** apri PDF p.4 · Coupe Animath Printemps 2026 (Animath / POFM, maths-olympiques.fr)
+**Fonte risposta:** [corrigé commenté ufficiale PDF p.15](https://maths-olympiques.fr/wp-content/uploads/2026/06/Corrige-commente-Coupe-Animath-Printemps-2026.pdf#page=15)
+**Fonte:** [apri PDF p.4](https://maths-olympiques.fr/wp-content/uploads/2026/06/Sujet-Coupe-Animath-Printemps-2026.pdf#page=4) · Coupe Animath Printemps 2026 (Animath / POFM, maths-olympiques.fr)
 
 
 <div class="qlang-split" data-lang="it"></div>
@@ -338,13 +376,15 @@ level: Coupe Animath Printemps
 >
 > Dimostrare che $DX=DY$.
 
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_trigonometria|Tecniche trigonometriche]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Geometria]]
 **Risposta:** dimostrazione — soluzione ufficiale nel corrigé
 
-[[Quesiti/src_canimath_2026_printemps#q10|src_canimath_2026_printemps__Q10]]
 
 
-
-<span class="atom-split" id="q11" data-atom="q11" data-title="Quesito 11" data-tags="topic_aritmetica"></span>
+<span class="atom-split" id="q11" data-atom="q11" data-title="Quesito 11" data-tags="topic_aritmetica,method_congruenze,method_casework,skill_casework_accurato,skill_manipolazione_algebrica,skill_riconoscimento_pattern"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -359,11 +399,13 @@ level: Coupe Animath Printemps
 >
 > What is the largest number of numbers Théo can write on the board?
 
-**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Area:** [[Aritmetica e Teoria dei Numeri]]
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]], [[method_casework|Case analysis]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]], [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Risposta:** 3
-**Fonte risposta:** corrigé commenté ufficiale PDF p.16
-**Fonte:** apri PDF p.4 · Coupe Animath Printemps 2026 (Animath / POFM, maths-olympiques.fr)
+**Fonte risposta:** [corrigé commenté ufficiale PDF p.16](https://maths-olympiques.fr/wp-content/uploads/2026/06/Corrige-commente-Coupe-Animath-Printemps-2026.pdf#page=16)
+**Fonte:** [apri PDF p.4](https://maths-olympiques.fr/wp-content/uploads/2026/06/Sujet-Coupe-Animath-Printemps-2026.pdf#page=4) · Coupe Animath Printemps 2026 (Animath / POFM, maths-olympiques.fr)
 
 
 <div class="qlang-split" data-lang="it"></div>
@@ -379,13 +421,15 @@ level: Coupe Animath Printemps
 >
 > Qual è il massimo numero di numeri che Théo può scrivere alla lavagna?
 
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]], [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 3
 
-[[Quesiti/src_canimath_2026_printemps#q11|src_canimath_2026_printemps__Q11]]
 
 
-
-<span class="atom-split" id="q12" data-atom="q12" data-title="Quesito 12" data-tags="topic_geometria_piana"></span>
+<span class="atom-split" id="q12" data-atom="q12" data-title="Quesito 12" data-tags="topic_geometria_piana,method_simmetria,method_coordinate,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -397,10 +441,12 @@ level: Coupe Animath Printemps
 > Prove that the lines $(AP)$, $(QR)$ and $(DE)$ meet at a single point.
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
-**Area:** [[Geometria]]
+**Metodo:** [[method_simmetria|Using symmetry]], [[method_coordinate|Coordinate method]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Geometria|Geometry]]
 **Risposta:** proof — official solution in the corrigé
-**Fonte risposta:** corrigé commenté ufficiale PDF p.17
-**Fonte:** apri PDF p.4 · Coupe Animath Printemps 2026 (Animath / POFM, maths-olympiques.fr)
+**Fonte risposta:** [corrigé commenté ufficiale PDF p.17](https://maths-olympiques.fr/wp-content/uploads/2026/06/Corrige-commente-Coupe-Animath-Printemps-2026.pdf#page=17)
+**Fonte:** [apri PDF p.4](https://maths-olympiques.fr/wp-content/uploads/2026/06/Sujet-Coupe-Animath-Printemps-2026.pdf#page=4) · Coupe Animath Printemps 2026 (Animath / POFM, maths-olympiques.fr)
 
 
 <div class="qlang-split" data-lang="it"></div>
@@ -412,13 +458,15 @@ level: Coupe Animath Printemps
 >
 > Dimostrare che le rette $(AP)$, $(QR)$ e $(DE)$ passano per uno stesso punto.
 
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_simmetria|Sfruttamento della simmetria]], [[method_coordinate|Metodo delle coordinate]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
 **Risposta:** dimostrazione — soluzione ufficiale nel corrigé
 
-[[Quesiti/src_canimath_2026_printemps#q12|src_canimath_2026_printemps__Q12]]
 
 
-
-<span class="atom-split" id="q13" data-atom="q13" data-title="Quesito 13" data-tags="topic_algebra"></span>
+<span class="atom-split" id="q13" data-atom="q13" data-title="Quesito 13" data-tags="topic_algebra,topic_aritmetica,method_casework,skill_manipolazione_algebrica,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -431,11 +479,13 @@ level: Coupe Animath Printemps
 >
 > *Recall that $\lfloor y\rfloor$ denotes the integer part of the real number $y$, that is, the largest integer less than or equal to $y$, and that $\{y\}$ denotes the fractional part of $y$, that is, $\{y\}=y-\lfloor y\rfloor$.*
 
-**Topic:** [[topic_algebra|Algebra]]
-**Area:** [[Algebra e Analisi]]
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Risposta:** no: there are only finitely many such $x$
-**Fonte risposta:** corrigé commenté ufficiale PDF p.18
-**Fonte:** apri PDF p.4 · Coupe Animath Printemps 2026 (Animath / POFM, maths-olympiques.fr)
+**Fonte risposta:** [corrigé commenté ufficiale PDF p.18](https://maths-olympiques.fr/wp-content/uploads/2026/06/Corrige-commente-Coupe-Animath-Printemps-2026.pdf#page=18)
+**Fonte:** [apri PDF p.4](https://maths-olympiques.fr/wp-content/uploads/2026/06/Sujet-Coupe-Animath-Printemps-2026.pdf#page=4) · Coupe Animath Printemps 2026 (Animath / POFM, maths-olympiques.fr)
 
 
 <div class="qlang-split" data-lang="it"></div>
@@ -449,13 +499,15 @@ level: Coupe Animath Printemps
 >
 > *Si ricorda che $\lfloor y\rfloor$ indica la parte intera del reale $y$, cioè il più grande intero minore o uguale a $y$, e che $\{y\}$ indica la parte frazionaria di $y$, cioè $\{y\}=y-\lfloor y\rfloor$.*
 
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** no: le soluzioni sono in numero finito
 
-[[Quesiti/src_canimath_2026_printemps#q13|src_canimath_2026_printemps__Q13]]
 
 
-
-<span class="atom-split" id="q14" data-atom="q14" data-title="Quesito 14" data-tags="topic_aritmetica"></span>
+<span class="atom-split" id="q14" data-atom="q14" data-title="Quesito 14" data-tags="topic_aritmetica,method_fattorizzazione,method_casework,skill_stima,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -466,11 +518,13 @@ level: Coupe Animath Printemps
 >
 > Prove that $n$ has at least 150 digits in its decimal representation.
 
-**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Area:** [[Aritmetica e Teoria dei Numeri]]
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]], [[method_casework|Case analysis]]
+**Abilita:** [[skill_stima|Estimation and approximation]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Risposta:** proof — official solution in the corrigé
-**Fonte risposta:** corrigé commenté ufficiale PDF p.19
-**Fonte:** apri PDF p.4 · Coupe Animath Printemps 2026 (Animath / POFM, maths-olympiques.fr)
+**Fonte risposta:** [corrigé commenté ufficiale PDF p.19](https://maths-olympiques.fr/wp-content/uploads/2026/06/Corrige-commente-Coupe-Animath-Printemps-2026.pdf#page=19)
+**Fonte:** [apri PDF p.4](https://maths-olympiques.fr/wp-content/uploads/2026/06/Sujet-Coupe-Animath-Printemps-2026.pdf#page=4) · Coupe Animath Printemps 2026 (Animath / POFM, maths-olympiques.fr)
 
 
 <div class="qlang-split" data-lang="it"></div>
@@ -482,13 +536,15 @@ level: Coupe Animath Printemps
 >
 > Dimostrare che $n$ ha almeno 150 cifre nella sua scrittura decimale.
 
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]], [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_stima|Stima e approssimazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** dimostrazione — soluzione ufficiale nel corrigé
 
-[[Quesiti/src_canimath_2026_printemps#q14|src_canimath_2026_printemps__Q14]]
 
 
-
-<span class="atom-split" id="q15" data-atom="q15" data-title="Quesito 15" data-tags="topic_combinatoria"></span>
+<span class="atom-split" id="q15" data-atom="q15" data-title="Quesito 15" data-tags="topic_combinatoria,method_grafi,method_estremalita,skill_modellizzazione,skill_astrazione"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -499,11 +555,13 @@ level: Coupe Animath Printemps
 >
 > What is the largest value of $n$ such that, however the cities are joined, there exists a cycle of length at least $n$?
 
-**Topic:** [[topic_combinatoria|Combinatoria]]
-**Area:** [[Combinatoria, Logica e Probabilita]]
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_grafi|Graph theory]], [[method_estremalita|Extremal principle]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]], [[skill_astrazione|Abstraction / generalisation]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Risposta:** 4
-**Fonte risposta:** corrigé commenté ufficiale PDF p.21
-**Fonte:** apri PDF p.4 · Coupe Animath Printemps 2026 (Animath / POFM, maths-olympiques.fr)
+**Fonte risposta:** [corrigé commenté ufficiale PDF p.21](https://maths-olympiques.fr/wp-content/uploads/2026/06/Corrige-commente-Coupe-Animath-Printemps-2026.pdf#page=21)
+**Fonte:** [apri PDF p.4](https://maths-olympiques.fr/wp-content/uploads/2026/06/Sujet-Coupe-Animath-Printemps-2026.pdf#page=4) · Coupe Animath Printemps 2026 (Animath / POFM, maths-olympiques.fr)
 
 
 <div class="qlang-split" data-lang="it"></div>
@@ -515,6 +573,8 @@ level: Coupe Animath Printemps
 >
 > Qual è il più grande valore di $n$ tale che, comunque siano collegate le città, esista un ciclo di lunghezza almeno $n$?
 
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_grafi|Teoria dei grafi]], [[method_estremalita|Principio di estremalita]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_astrazione|Astrazione / generalizzazione]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 4
-
-[[Quesiti/src_canimath_2026_printemps#q15|src_canimath_2026_printemps__Q15]]

@@ -38,11 +38,9 @@ level: China National Team Selection Test
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Geometria]]
 
-[[Quesiti/src_cn_ctst_2008#q01|src_cn_ctst_2008__Q01]]
 
 
-
-<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_aritmetica,method_congruenze,method_induzione,skill_manipolazione_algebrica,skill_riconoscimento_pattern,skill_lettura_attenta"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_aritmetica,topic_funzionali,topic_algebra,method_congruenze,method_induzione,skill_manipolazione_algebrica,skill_riconoscimento_pattern,skill_lettura_attenta"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -51,10 +49,10 @@ level: China National Team Selection Test
 
 > The sequence $\{x_n\}$ is defined by $x_1 = 2$, $x_2 = 12$, $x_{n+2} = 6x_{n+1} - x_n$, $n = 1, 2, \cdots$. Let $p$ be an odd prime number, and $q$ be a prime such that $q \mid x_p$. Prove that $q \ge 2p - 1$.
 
-**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_funzionali|Functional equations / sequences]], [[topic_algebra|Algebra]]
 **Metodo:** [[method_congruenze|Congruenze]], [[method_induzione|Induzione]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_lettura_attenta|Lettura attenta]]
-**Area:** [[Aritmetica e Teoria dei Numeri]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Algebra e Analisi|Algebra and analysis]]
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1A6F-Sk42BaQt80ts_sFXZiDY4uHJtL3I/view)
 
 
@@ -65,16 +63,15 @@ level: China National Team Selection Test
 
 > La successione $\{x_n\}$ è definita da $x_1 = 2$, $x_2 = 12$, $x_{n+2} = 6x_{n+1} - x_n$, $n = 1, 2, \cdots$. Sia $p$ un numero primo dispari, e sia $q$ un numero primo tale che $q \mid x_p$. Dimostrare che $q \ge 2p - 1$.
 
-**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_funzionali|Equazioni funzionali / successioni]], [[topic_algebra|Algebra]]
 **Metodo:** [[method_congruenze|Congruenze]], [[method_induzione|Induzione]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_lettura_attenta|Lettura attenta]]
-**Area:** [[Aritmetica e Teoria dei Numeri]]
-
-[[Quesiti/src_cn_ctst_2008#q02|src_cn_ctst_2008__Q02]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 
 
 
-<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_combinatoria,method_colorazione,method_induzione,method_casework,skill_astrazione,skill_ragionamento_geometrico,skill_modellizzazione"></span>
+<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_combinatoria,method_colorazione,method_induzione,method_casework,method_cassetti,skill_astrazione,skill_ragionamento_geometrico,skill_modellizzazione"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -84,9 +81,9 @@ level: China National Team Selection Test
 > Every positive integer is colored by blue or red. Prove that there is a sequence $\{a_n\}$ which has infinite terms, and $a_1 < a_2 < \cdots$ are positive integers, such that $a_1, \frac{a_1+a_2}{2}, a_2, \frac{a_2+a_3}{2}, a_3, \cdots$ is a positive integer sequence with all terms of the same color.
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
-**Metodo:** [[method_colorazione|Colorazione]], [[method_induzione|Induzione]], [[method_casework|Casework]]
+**Metodo:** [[method_colorazione|Colorazione]], [[method_induzione|Induzione]], [[method_casework|Casework]], [[method_cassetti|Pigeonhole principle]]
 **Abilita:** [[skill_astrazione|Astrazione]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]]
-**Area:** [[Combinatoria, Logica e Probabilita]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1A6F-Sk42BaQt80ts_sFXZiDY4uHJtL3I/view)
 
 
@@ -97,12 +94,11 @@ level: China National Team Selection Test
 
 > Ogni numero intero positivo è colorato di blu o di rosso. Dimostrare che esiste una successione $\{a_n\}$ che ha infiniti termini, e che $a_1 < a_2 < \cdots$ sono numeri interi positivi, tale che $a_1, \frac{a_1+a_2}{2}, a_2, \frac{a_2+a_3}{2}, a_3, \cdots$ è una successione di numeri interi positivi i cui termini sono tutti dello stesso colore.
 
+
 **Topic:** [[topic_combinatoria|Combinatoria]]
-**Metodo:** [[method_colorazione|Colorazione]], [[method_induzione|Induzione]], [[method_casework|Casework]]
+**Metodo:** [[method_colorazione|Colorazione]], [[method_induzione|Induzione]], [[method_casework|Casework]], [[method_cassetti|Principio dei cassetti]]
 **Abilita:** [[skill_astrazione|Astrazione]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
-
-[[Quesiti/src_cn_ctst_2008#q03|src_cn_ctst_2008__Q03]]
 
 
 
@@ -134,11 +130,9 @@ level: China National Team Selection Test
 **Abilita:** [[skill_astrazione|Astrazione]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 
-[[Quesiti/src_cn_ctst_2008#q04|src_cn_ctst_2008__Q04]]
 
 
-
-<span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_algebra,topic_disuguaglianze,method_disuguaglianze,method_estremalita,skill_manipolazione_algebrica,skill_stima,skill_lettura_attenta"></span>
+<span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_algebra,topic_disuguaglianze,method_disuguaglianze,method_estremalita,method_simmetria,skill_manipolazione_algebrica,skill_stima,skill_lettura_attenta"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -149,9 +143,9 @@ level: China National Team Selection Test
 > $$f = \frac{n\sum_{i=1}^{n}\left(\sum_{j=1}^{m} a_{ij}\right)^2 + m\sum_{j=1}^{m}\left(\sum_{i=1}^{n} a_{ij}\right)^2}{\left(\sum_{i=1}^{n}\sum_{j=1}^{m} a_{ij}\right)^2 + mn\sum_{i=1}^{n}\sum_{j=1}^{m} a_{ij}^2}.$$
 
 **Topic:** [[topic_algebra|Algebra]], [[topic_disuguaglianze|Disuguaglianze]]
-**Metodo:** [[method_disuguaglianze|Disuguaglianze]], [[method_estremalita|Estremalità]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze]], [[method_estremalita|Estremalità]], [[method_simmetria|Using symmetry]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]], [[skill_lettura_attenta|Lettura attenta]]
-**Area:** [[Algebra e Analisi]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
 **Risposta:** maximum 1, minimum $\frac{m+n}{mn+\min(m,n)}$
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1A6F-Sk42BaQt80ts_sFXZiDY4uHJtL3I/view)
 
@@ -164,16 +158,15 @@ level: China National Team Selection Test
 > Siano $m, n \in \mathbb{N}^*$, $m, n > 1$, $a_{ij}$ ($i = 1, 2, \cdots, n$, $j = 1, 2, \cdots, m$) numeri reali non negativi (non tutti nulli). Determinare i valori massimo e minimo di
 > $$f = \frac{n\sum_{i=1}^{n}\left(\sum_{j=1}^{m} a_{ij}\right)^2 + m\sum_{j=1}^{m}\left(\sum_{i=1}^{n} a_{ij}\right)^2}{\left(\sum_{i=1}^{n}\sum_{j=1}^{m} a_{ij}\right)^2 + mn\sum_{i=1}^{n}\sum_{j=1}^{m} a_{ij}^2}.$$
 
+
 **Topic:** [[topic_algebra|Algebra]], [[topic_disuguaglianze|Disuguaglianze]]
-**Metodo:** [[method_disuguaglianze|Disuguaglianze]], [[method_estremalita|Estremalità]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze]], [[method_estremalita|Estremalità]], [[method_simmetria|Sfruttamento della simmetria]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Algebra e Analisi]]
 
-[[Quesiti/src_cn_ctst_2008#q05|src_cn_ctst_2008__Q05]]
 
 
-
-<span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_algebra,topic_disuguaglianze,method_estremalita,method_disuguaglianze,skill_manipolazione_algebrica,skill_stima,skill_ragionamento_geometrico"></span>
+<span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_algebra,topic_disuguaglianze,topic_funzionali,method_estremalita,method_disuguaglianze,skill_manipolazione_algebrica,skill_stima,skill_ragionamento_geometrico"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -185,10 +178,10 @@ level: China National Team Selection Test
 > (b) $a_k^2 \leq 1 + \sum_{i=1}^{k} a_i b_i$, $k = 1, 2, \cdots, n$,
 > (c) $a_n = M$.
 
-**Topic:** [[topic_algebra|Algebra]], [[topic_disuguaglianze|Disuguaglianze]]
+**Topic:** [[topic_algebra|Algebra]], [[topic_disuguaglianze|Disuguaglianze]], [[topic_funzionali|Functional equations / sequences]]
 **Metodo:** [[method_estremalita|Estremalità]], [[method_disuguaglianze|Disuguaglianze]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
-**Area:** [[Algebra e Analisi]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1A6F-Sk42BaQt80ts_sFXZiDY4uHJtL3I/view)
 
 
@@ -202,9 +195,8 @@ level: China National Team Selection Test
 > (b) $a_k^2 \leq 1 + \sum_{i=1}^{k} a_i b_i$, $k = 1, 2, \cdots, n$,
 > (c) $a_n = M$.
 
-**Topic:** [[topic_algebra|Algebra]], [[topic_disuguaglianze|Disuguaglianze]]
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_disuguaglianze|Disuguaglianze]], [[topic_funzionali|Equazioni funzionali / successioni]]
 **Metodo:** [[method_estremalita|Estremalità]], [[method_disuguaglianze|Disuguaglianze]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Algebra e Analisi]]
-
-[[Quesiti/src_cn_ctst_2008#q06|src_cn_ctst_2008__Q06]]

@@ -10,7 +10,7 @@ level: squadre
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_trigonometria,method_trigonometria"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_trigonometria,method_trigonometria,skill_ragionamento_geometrico"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -29,6 +29,7 @@ level: squadre
 
 **Topic:** [[topic_trigonometria|Trigonometria]]
 **Metodo:** [[method_trigonometria|Tecniche trigonometriche]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1giFNtxzHUhzmmjcVeDMTydS1K9uFgvwb/view)
 
@@ -41,15 +42,15 @@ level: squadre
 > The light on the summit
 > (points 20) The paranoid robot Marvin is on the edge of the parapet of Tower A at Megadodo Publications, the publishing house of The Hitchhiker's Guide to the Galaxy (G2AS), at a height of 78 metres; he has just finished an existential discussion with the Frogstar Robot Tank and is looking toward the summit of the only hill on Ursa Minor B. In fact, he is looking precisely at the light at the top of the antenna on the hilltop: to do so, he raises his head by 30 degrees. Knowing that the hill is 856 m high, the antenna is 6 m high, and Marvin's eyes are 2 m from the parapet, what is the distance in metres between Marvin's eyes and the top of the antenna?
 
-**Topic:** [[topic_trigonometria|Trigonometric techniques]]
+
+**Topic:** [[topic_trigonometria|Trigonometry]]
 **Metodo:** [[method_trigonometria|Trigonometric techniques]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
 **Area:** [[Geometria|Geometry]]
 
-[[Quesiti/src_gs_2009#q01|src_gs_2009__Q01]]
 
 
-
-<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_combinatoria,method_conteggio,skill_conteggio_sistematico"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_combinatoria,method_conteggio,method_casi_conteggio,skill_conteggio_sistematico"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -64,7 +65,7 @@ level: squadre
 > verticale o in diagonale. Quanti tentativi al massimo deve fare per attivare il quadro comandi?
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
-**Metodo:** [[method_conteggio|Conteggio combinatorio]]
+**Metodo:** [[method_conteggio|Conteggio combinatorio]], [[method_casi_conteggio|Conteggio per casi]]
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1giFNtxzHUhzmmjcVeDMTydS1K9uFgvwb/view)
@@ -78,16 +79,15 @@ level: squadre
 > The control panel
 > (points 20) To activate the control panel of the spacecraft Heart of Gold, which consists of 8 rows of 20 buttons each, Zaphod Beeblebrox, the former President of the Galaxy, must press 4 consecutive buttons in any order, but he does not know which buttons they are, nor whether they are arranged horizontally, vertically, or diagonally. What is the maximum number of attempts he must make to activate the control panel?
 
+
 **Topic:** [[topic_combinatoria|Combinatorics]]
-**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Metodo:** [[method_conteggio|Combinatorial counting]], [[method_casi_conteggio|Counting by cases]]
 **Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
 **Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
-[[Quesiti/src_gs_2009#q02|src_gs_2009__Q02]]
 
 
-
-<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_combinatoria,method_estremalita"></span>
+<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_combinatoria,method_estremalita,skill_modellizzazione"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -105,6 +105,7 @@ level: squadre
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_estremalita|Principio di estremalita]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1giFNtxzHUhzmmjcVeDMTydS1K9uFgvwb/view)
 
@@ -117,15 +118,15 @@ level: squadre
 > At the Hypergalactic Station
 > (Point 20) At a hypergalactic station near Arcturus, travelers form a single queue to access the ticket counters, and it is always the person at the front of the queue who approaches one of the available counters. Nine travelers are in the queue, and three counters are in operation; once at a counter, they take different amounts of time to buy their tickets: 4, 6, 9, 11, 15, 36, 38, 40, and 45 minutes. With the conditions described, the time taken to complete the purchasing process was as short as possible. What was the time taken?
 
+
 **Topic:** [[topic_combinatoria|Combinatorics]]
 **Metodo:** [[method_estremalita|Extremal principle]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
 **Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
-[[Quesiti/src_gs_2009#q03|src_gs_2009__Q03]]
 
 
-
-<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_geometria_solida,skill_ragionamento_geometrico"></span>
+<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_geometria_solida,method_simmetria,skill_ragionamento_geometrico,skill_lettura_attenta"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -143,7 +144,8 @@ level: squadre
 > inferiore?
 
 **Topic:** [[topic_geometria_solida|Geometria solida]]
-**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Metodo:** [[method_simmetria|Sfruttamento della simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta del testo]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1giFNtxzHUhzmmjcVeDMTydS1K9uFgvwb/view)
 
@@ -156,15 +158,15 @@ level: squadre
 > The Time of Deep Thought
 > (points 20) To account for the processing time required by Deep Thought to produce the Answer to the Ultimate Question of Life, the Universe, and Everything, the Single Union of Other Thinkers' Philosophies (SUFAP) has set up a water hourglass consisting of two cones joined at their apices. Water fills the lower cone. The hourglass is turned upside down, and the water begins to flow down; after 2009 years, the water is exactly halfway up the lower cone. The water continues to fall at a steady rate. How many years after the SUFAP hourglass was turned upside down will all the water be in the lower cone?
 
+
 **Topic:** [[topic_geometria_solida|Solid geometry]]
-**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Metodo:** [[method_simmetria|Using symmetry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_lettura_attenta|Careful reading of the text]]
 **Area:** [[Geometria|Geometry]]
 
-[[Quesiti/src_gs_2009#q04|src_gs_2009__Q04]]
 
 
-
-<span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_aritmetica,method_casework,method_fattorizzazione"></span>
+<span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_aritmetica,method_casework,method_fattorizzazione,skill_casework_accurato,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -184,6 +186,7 @@ level: squadre
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_casework|Analisi per casi]], [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
+**Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1giFNtxzHUhzmmjcVeDMTydS1K9uFgvwb/view)
 
@@ -197,15 +200,15 @@ level: squadre
 > (30 points) While waiting for Zaphod to return, Trillian and Arthur play this game. Trillian chooses five distinct numbers from among 1, 2, 3, 4, 5, 6, and 7, multiplies the five numbers together, and tells Arthur the result; Arthur must then say whether the sum of the five numbers is even or odd. What is the largest number Trillian can state such that Arthur cannot determine the answer with certainty? (For example, if Trillian said 1680, from the prime factorization 1680 = 2^4 × 3 × 5 × 7, Arthur would even realize that the numbers chosen must be 2, 4, 6, 5, and 7; thus, Arthur would be able to answer with certainty that the sum is even.)
 > Team Competition – Problem Statements – Page 1 of 5
 
+
 **Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
 **Metodo:** [[method_casework|Case analysis]], [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
-[[Quesiti/src_gs_2009#q05|src_gs_2009__Q05]]
 
 
-
-<span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_aritmetica,method_congruenze"></span>
+<span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_aritmetica,method_congruenze,skill_modellizzazione"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -226,6 +229,7 @@ level: squadre
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1giFNtxzHUhzmmjcVeDMTydS1K9uFgvwb/view)
 
@@ -238,15 +242,15 @@ level: squadre
 > The Three Clocks
 > (points 30) According to G2AS, in the headquarters of the Geo-Temporal Galactic Control, on enormous walls, there are clocks that show the exact time on many planets. In one corner, there are analog clocks with hands, showing the time on the only three planets in the universe where the day is divided into 12 hours of 60 minutes each: Fallia, Ciceronicus, and Bethselamin. When Trillian looks at the clocks, the clock for Fallia reads 7, the one for Bethselamin reads 11, and the one for Ciceronicus reads 2. But while one hour passes on the Fallia clock, the Ciceronicus clock moves forward by one hour and 20 minutes, and while the Bethselamin clock counts 12 hours, the Fallia clock counts 36 hours. What time will the Fallia clock show the first time the Bethselamin and Ciceronicus clocks show the same time? Give the answer using the first two digits for the hour and the last two digits for the minutes.
 
+
 **Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
 **Metodo:** [[method_congruenze|Modular arithmetic / congruences]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
-[[Quesiti/src_gs_2009#q06|src_gs_2009__Q06]]
 
 
-
-<span class="atom-split" id="q07" data-atom="q07" data-title="Quesito 7" data-tags="topic_geometria_piana,method_coordinate,skill_ragionamento_geometrico"></span>
+<span class="atom-split" id="q07" data-atom="q07" data-title="Quesito 7" data-tags="topic_geometria_piana,method_coordinate,method_simmetria,skill_ragionamento_geometrico"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -260,7 +264,7 @@ level: squadre
 > sovrapposte. Qual è il valore in cm2 dell’area del poligono ottenuto?
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
-**Metodo:** [[method_coordinate|Metodo delle coordinate]]
+**Metodo:** [[method_coordinate|Metodo delle coordinate]], [[method_simmetria|Sfruttamento della simmetria]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1giFNtxzHUhzmmjcVeDMTydS1K9uFgvwb/view)
@@ -274,12 +278,11 @@ level: squadre
 > A Problem of Aesthetics, I
 > (30 points) While discussing aesthetics with the Blagulon Kappa Computer, the paranoid robot Marvin takes a rectangular sheet of paper measuring 16 cm by 25 cm, folds it along a diagonal, and then glues the overlapping parts together. What is the area, in cm², of the polygon obtained?
 
+
 **Topic:** [[topic_geometria_piana|Plane geometry]]
-**Metodo:** [[method_coordinate|Coordinate method]]
+**Metodo:** [[method_coordinate|Coordinate method]], [[method_simmetria|Using symmetry]]
 **Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
 **Area:** [[Geometria|Geometry]]
-
-[[Quesiti/src_gs_2009#q07|src_gs_2009__Q07]]
 
 
 
@@ -319,8 +322,6 @@ level: squadre
 **Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
 **Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
-[[Quesiti/src_gs_2009#q08|src_gs_2009__Q08]]
-
 
 
 <span class="atom-split" id="q09" data-atom="q09" data-title="Quesito 9" data-tags="topic_geometria_solida,method_coordinate,skill_ragionamento_geometrico"></span>
@@ -356,11 +357,9 @@ level: squadre
 **Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
 **Area:** [[Geometria|Geometry]]
 
-[[Quesiti/src_gs_2009#q09|src_gs_2009__Q09]]
 
 
-
-<span class="atom-split" id="q10" data-atom="q10" data-title="Quesito 10" data-tags="topic_combinatoria,topic_geometria_piana,method_casework,method_conteggio"></span>
+<span class="atom-split" id="q10" data-atom="q10" data-title="Quesito 10" data-tags="topic_combinatoria,topic_geometria_piana,method_casework,method_conteggio,skill_ragionamento_geometrico,skill_conteggio_sistematico"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -376,6 +375,7 @@ level: squadre
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_casework|Analisi per casi]], [[method_conteggio|Conteggio combinatorio]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1giFNtxzHUhzmmjcVeDMTydS1K9uFgvwb/view)
 
@@ -388,11 +388,11 @@ level: squadre
 > The SCS polygon
 > (Point 40) In the lobby of the Sirius Cybernetics Corporation, a decorative panel consists of a regular 33-sided polygon inscribed in a circle. As an exercise, the robot Marvin checks all trapezoids (including parallelograms) that can be formed using 4 of the 33 vertices of the polygon. How many trapezoids did Marvin check?
 
+
 **Topic:** [[topic_combinatoria|Combinatorics]], [[topic_geometria_piana|Plane geometry]]
 **Metodo:** [[method_casework|Case analysis]], [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_conteggio_sistematico|Systematic counting]]
 **Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Geometria|Geometry]]
-
-[[Quesiti/src_gs_2009#q10|src_gs_2009__Q10]]
 
 
 
@@ -430,11 +430,9 @@ level: squadre
 **Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
 **Area:** [[Geometria|Geometry]]
 
-[[Quesiti/src_gs_2009#q11|src_gs_2009__Q11]]
 
 
-
-<span class="atom-split" id="q12" data-atom="q12" data-title="Quesito 12" data-tags="topic_combinatoria,method_fattorizzazione"></span>
+<span class="atom-split" id="q12" data-atom="q12" data-title="Quesito 12" data-tags="topic_combinatoria,topic_algebra,method_fattorizzazione,skill_modellizzazione,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -449,9 +447,10 @@ level: squadre
 > contadini ci sono sull’isola?
 > Gara a squadre – Testi dei problemi – Pag. 2 di 5
 
-**Topic:** [[topic_combinatoria|Combinatoria]]
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_algebra|Algebra]]
 **Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
-**Area:** [[Combinatoria, Logica e Probabilita]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Algebra e Analisi]]
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1giFNtxzHUhzmmjcVeDMTydS1K9uFgvwb/view)
 
 
@@ -464,15 +463,15 @@ level: squadre
 > (40 points) On an island in Damogran, there are very quarrelsome farmers. Each of them is in dispute with all the others over territorial matters; for this reason, they have turned to a justice of the peace, who has opened a case file for each dispute. Knowing that the judge has 438,516 case files in his office, how many farmers are there on the island?
 > Team Competition – Problem Statements – Page 2 of 5
 
-**Topic:** [[topic_combinatoria|Combinatorics]]
+
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_algebra|Algebra]]
 **Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
-**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
-
-[[Quesiti/src_gs_2009#q12|src_gs_2009__Q12]]
-
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Algebra e Analisi|Algebra and analysis]]
 
 
-<span class="atom-split" id="q13" data-atom="q13" data-title="Quesito 13" data-tags="topic_aritmetica,method_congruenze,skill_manipolazione_algebrica"></span>
+
+<span class="atom-split" id="q13" data-atom="q13" data-title="Quesito 13" data-tags="topic_aritmetica,method_congruenze,skill_manipolazione_algebrica,skill_lettura_attenta,skill_modellizzazione"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -493,7 +492,7 @@ level: squadre
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]]
-**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta del testo]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1giFNtxzHUhzmmjcVeDMTydS1K9uFgvwb/view)
 
@@ -506,16 +505,15 @@ level: squadre
 > The Charity of Neo-Mathematicians
 > (50 points) A hundred neo-mathematicians from the laboratories of Sirius Cybernetics Corporation devised a system for winning at the casino on Santraginus 5. Hooloovoo, the leader, puts in the 3 Altarian dollars with which the group of neo-mathematicians starts playing; each evening they play, the group triples its capital. To avoid raising suspicions, they play once every two weeks, always on Thursdays. They started on Thursday, March 20, 2008; they stopped yesterday. After returning to Hooloovoo the 3 dollars he had invested at the beginning, the hundred neo-mathematicians divided the total winnings equally, rounding to a whole number of dollars, and donated the remainder to charity. How many Altarian dollars did they donate to charity?
 
+
 **Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
 **Metodo:** [[method_congruenze|Modular arithmetic / congruences]]
-**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_lettura_attenta|Careful reading of the text]], [[skill_modellizzazione|Modelling / translating the text]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
-[[Quesiti/src_gs_2009#q13|src_gs_2009__Q13]]
 
 
-
-<span class="atom-split" id="q14" data-atom="q14" data-title="Quesito 14" data-tags="topic_aritmetica,method_casework"></span>
+<span class="atom-split" id="q14" data-atom="q14" data-title="Quesito 14" data-tags="topic_aritmetica,method_casework,skill_casework_accurato,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -545,6 +543,7 @@ level: squadre
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1giFNtxzHUhzmmjcVeDMTydS1K9uFgvwb/view)
 
@@ -557,15 +556,15 @@ level: squadre
 > The alarm on Eadrax
 > (50 points) On the planet Eadrax, a day lasts 100 hours, an hour lasts 100 minutes, and a minute lasts 100 seconds. In the main square of the capital, at the top of a very tall tower, there is a large, clearly visible digital clock divided into 3 fields: hh mm ss. Having the opportunity to always see the large digital clock, the workers have become very methodical: they all wake up, eat, and go to bed at the same time all the time. • They all wake up at the same moment between 7 and 8; at that exact moment, the time shown on the large clock has three distinct numbers. • They all start eating lunch at the same moment when the large digital clock indicates a time that, as a 6-digit number, is exactly three times the wake-up time; the three numbers in the clock's fields are the same as those in the wake-up time, but clearly arranged differently. • They all go to bed at the same moment when the large digital clock indicates a time that, as a 6-digit number, is exactly three times the time when lunch began; again, the three numbers in the clock's fields are the same as those at wake-up time (and at lunch time), but arranged differently. What is the wake-up time? Give the answer by writing the minutes and seconds.
 
+
 **Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
 **Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
-[[Quesiti/src_gs_2009#q14|src_gs_2009__Q14]]
 
 
-
-<span class="atom-split" id="q15" data-atom="q15" data-title="Quesito 15" data-tags="topic_geometria_piana,method_coordinate,skill_casework_accurato"></span>
+<span class="atom-split" id="q15" data-atom="q15" data-title="Quesito 15" data-tags="topic_geometria_piana,method_coordinate,method_casework,skill_casework_accurato,skill_ragionamento_geometrico,skill_lettura_attenta"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -591,8 +590,8 @@ level: squadre
 > Gara a squadre – Testi dei problemi – Pag. 3 di 5
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
-**Metodo:** [[method_coordinate|Metodo delle coordinate]]
-**Abilita:** [[skill_casework_accurato|Casework accurato]]
+**Metodo:** [[method_coordinate|Metodo delle coordinate]], [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta del testo]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1giFNtxzHUhzmmjcVeDMTydS1K9uFgvwb/view)
 
@@ -606,16 +605,15 @@ level: squadre
 > (50 points) On Magrathea, it is known that in remote past times many temples were built: rectangular ones in honor of the sun Soulianis, and circular ones in honor of the other sun, Rahm. While excavating an archaeological site, remains of 9 columns are unearthed. The archaeologists determine precisely the positions of their centers: 7 lie on the perimeter of a large rectangle (100 m by 11.44 m), occupying its 4 vertices plus 3 other points; 6 lie on the perimeter of a smaller rectangle (14.3 m by 6 m), occupying its 4 vertices plus 2 other points—necessarily, 4 of these points belong to both perimeters. The two rectangles have no parallel sides. Furthermore, it is observed that one long side of the smaller rectangle has both endpoints on the perimeter of the larger rectangle, one endpoint coinciding with a vertex and the other not. The other long side, however, has both vertices outside the larger rectangle. The archaeologists are trying to determine whether they have found traces of a circular temple dedicated to the sun Rahm. To search for traces with a higher probability of success, they decide to excavate all those circular furrows that pass through at least 4 of the 9 columns they have already found. Once the circumferences that the archaeologists intend to excavate have been identified, for each of the 9 columns, count how many of these circumferences it belongs to; give as the answer the sum of the product of those 9 numbers and the sum of those 9 numbers.
 > Team Competition – Problem Statements – Page 3 of 5
 
+
 **Topic:** [[topic_geometria_piana|Plane geometry]]
-**Metodo:** [[method_coordinate|Coordinate method]]
-**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Metodo:** [[method_coordinate|Coordinate method]], [[method_casework|Case analysis]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]], [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_lettura_attenta|Careful reading of the text]]
 **Area:** [[Geometria|Geometry]]
 
-[[Quesiti/src_gs_2009#q15|src_gs_2009__Q15]]
 
 
-
-<span class="atom-split" id="q16" data-atom="q16" data-title="Quesito 16" data-tags="topic_combinatoria,method_invarianti"></span>
+<span class="atom-split" id="q16" data-atom="q16" data-title="Quesito 16" data-tags="topic_combinatoria,method_invarianti,skill_riconoscimento_pattern,skill_astrazione"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -633,6 +631,7 @@ level: squadre
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_invarianti|Invarianti / monovarianti]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_astrazione|Astrazione / generalizzazione]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1giFNtxzHUhzmmjcVeDMTydS1K9uFgvwb/view)
 
@@ -645,15 +644,15 @@ level: squadre
 > The variable cost of a cocktail
 > (50 points) To pay for a Pan Galactic Gargle Blaster at the Illegale Bistro, take 50 Altarian dollars, divide the 50 coins into two piles, count the coins in each of the two piles, and write down the product of the two counts. Then take one of the piles that contains more than one coin and divide it into two piles, count the coins in each pile, and write down the product of the two counts. Continue until all piles contain exactly one coin. Add up all the products. Pay the final sum obtained (not 50 Altarian dollars). What is the maximum sum that might have to be paid?
 
+
 **Topic:** [[topic_combinatoria|Combinatorics]]
 **Metodo:** [[method_invarianti|Invariants / monovariants]]
+**Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]], [[skill_astrazione|Abstraction / generalisation]]
 **Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
-[[Quesiti/src_gs_2009#q16|src_gs_2009__Q16]]
 
 
-
-<span class="atom-split" id="q17" data-atom="q17" data-title="Quesito 17" data-tags="topic_algebra,skill_modellizzazione"></span>
+<span class="atom-split" id="q17" data-atom="q17" data-title="Quesito 17" data-tags="topic_algebra,topic_geometria_piana,skill_modellizzazione,skill_manipolazione_algebrica,skill_ragionamento_geometrico"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -676,9 +675,9 @@ level: squadre
 > sensi opposti, uno in marcia rapida, l’altro in marcia normale? Nella risposta si scriva il rapporto
 > moltiplicato per 100.
 
-**Topic:** [[topic_algebra|Algebra]]
-**Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
-**Area:** [[Algebra e Analisi]]
+**Topic:** [[topic_algebra|Algebra]], [[topic_geometria_piana|Geometria piana]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Algebra e Analisi]], [[Geometria]]
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1giFNtxzHUhzmmjcVeDMTydS1K9uFgvwb/view)
 
 
@@ -690,15 +689,14 @@ level: squadre
 > The Monorails of Ursa Minor Beta
 > (60 points) On the planet Ursa Minor Beta, there is a very long straight railway line with two monorails; thanks to a sophisticated computerized system, trains can travel in both directions on each monorail. Along the entire straight section, no two trains ever travel on the same monorail. The distance between the two monorails is 1.9 m. The trains travel at constant, predetermined speeds: when converted to the metric decimal system, the most commonly used speeds for fast and normal service are 295.4 km/h and 147.7 km/h, respectively. At the front of each train there is a small antenna (of negligible size) that, when necessary, emits a radio signal. When the antennas of two trains are at a distance of 749.25 m or less, they emit a continuous radio signal to indicate their relative positions. Railway engineers have realized that the signal is transmitted for a longer time when two trains are traveling in the same direction than when two trains are traveling in opposite directions. What is the ratio of the signal transmission duration between two trains traveling in the same direction—one at fast speed and the other at normal speed—to the signal transmission duration between two trains traveling in opposite directions—one at fast speed and the other at normal speed? In the answer, write the ratio multiplied by 100.
 
-**Topic:** [[topic_algebra|Algebra]]
-**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
-**Area:** [[Algebra e Analisi|Algebra and analysis]]
 
-[[Quesiti/src_gs_2009#q17|src_gs_2009__Q17]]
-
+**Topic:** [[topic_algebra|Algebra]], [[topic_geometria_piana|Plane geometry]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]], [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Geometria|Geometry]]
 
 
-<span class="atom-split" id="q18" data-atom="q18" data-title="Quesito 18" data-tags="topic_logica,method_colorazione"></span>
+
+<span class="atom-split" id="q18" data-atom="q18" data-title="Quesito 18" data-tags="topic_logica,method_colorazione,method_casework,skill_casework_accurato,skill_modellizzazione"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -722,7 +720,8 @@ level: squadre
 > soldati del reggimento dell’ECA, quanti sono sinceri?
 
 **Topic:** [[topic_logica|Logica, giochi, strategie]]
-**Metodo:** [[method_colorazione|Colorazione / parita]]
+**Metodo:** [[method_colorazione|Colorazione / parita]], [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1giFNtxzHUhzmmjcVeDMTydS1K9uFgvwb/view)
 
@@ -735,15 +734,15 @@ level: squadre
 > The Army of Apparent Contradiction
 > (Points: 60) The Army of Apparent Contradiction (ECA) of Altair recruits only people who are willing to always tell the truth or always tell lies. They have extremely powerful, almost paradoxical weapons that can annihilate vast territories in a single, absurd blow. A regiment of 2009 soldiers consists of truth-tellers and liars. A colonel (one does not become a colonel in the ECA unless one always tells the truth) orders the 2009 soldiers of the regiment to form up for inspection in a rectangle with 41 ranks. At that point, each soldier exclaims: "Among those around me, there is exactly one liar." The colonel checks that the soldiers are perfectly aligned and that there are 8 soldiers around each soldier, excluding those on the sides of the inspection rectangle. As a final check, he asks the soldiers in the first rank to state how many liars they have beside them in the rank. Each of the soldiers in the first rank declares: "Beside me, in the first rank, there is exactly one liar." Among the 2009 soldiers of the ECA regiment, how many are truth-tellers?
 
+
 **Topic:** [[topic_logica|Logic, games and strategies]]
-**Metodo:** [[method_colorazione|Colouring / parity]]
+**Metodo:** [[method_colorazione|Colouring / parity]], [[method_casework|Case analysis]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]], [[skill_modellizzazione|Modelling / translating the text]]
 **Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
-[[Quesiti/src_gs_2009#q18|src_gs_2009__Q18]]
 
 
-
-<span class="atom-split" id="q19" data-atom="q19" data-title="Quesito 19" data-tags="topic_geometria_piana,method_coordinate,skill_ragionamento_geometrico"></span>
+<span class="atom-split" id="q19" data-atom="q19" data-title="Quesito 19" data-tags="topic_geometria_piana,method_coordinate,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -758,7 +757,7 @@ level: squadre
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_coordinate|Metodo delle coordinate]]
-**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1giFNtxzHUhzmmjcVeDMTydS1K9uFgvwb/view)
 
@@ -771,16 +770,15 @@ level: squadre
 > The Temples of Magrathea, II
 > (60 points) Of all the circular grooves that are to be dug in Problem 15, the first one to be dug will be the one for the smallest circle. How many cm long is the diameter of this circle?
 
+
 **Topic:** [[topic_geometria_piana|Plane geometry]]
 **Metodo:** [[method_coordinate|Coordinate method]]
-**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
 **Area:** [[Geometria|Geometry]]
 
-[[Quesiti/src_gs_2009#q19|src_gs_2009__Q19]]
 
 
-
-<span class="atom-split" id="q20" data-atom="q20" data-title="Quesito 20" data-tags="topic_funzionali,method_ricorsione,skill_astrazione"></span>
+<span class="atom-split" id="q20" data-atom="q20" data-title="Quesito 20" data-tags="topic_funzionali,topic_aritmetica,method_ricorsione,skill_astrazione,skill_riconoscimento_pattern"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -797,10 +795,10 @@ level: squadre
 > tutti gli n da 1 a 2008. Qual è il valore massimo calcolato da Marvin?
 > Gara a squadre – Testi dei problemi – Pag. 4 di 5
 
-**Topic:** [[topic_funzionali|Equazioni funzionali / successioni]]
+**Topic:** [[topic_funzionali|Equazioni funzionali / successioni]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_ricorsione|Ricorsione]]
-**Abilita:** [[skill_astrazione|Astrazione / generalizzazione]]
-**Area:** [[Algebra e Analisi]]
+**Abilita:** [[skill_astrazione|Astrazione / generalizzazione]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1giFNtxzHUhzmmjcVeDMTydS1K9uFgvwb/view)
 
 
@@ -813,16 +811,15 @@ level: squadre
 > (points 70) Analyzing itself, the paranoid robot Marvin finds, in the recesses of its digital circuits, an operation ⊠ on natural numbers with the following properties: a ⊠(a + b) = a ⊠b, a ⊠b = b ⊠a, a ⊠0 = a for any natural numbers a, b. To pass the time, Marvin calculates the value of n ⊠2009 for all n from 1 to 2008. What is the maximum value calculated by Marvin?
 > Team Competition – Problem Statements – Page 4 of 5
 
-**Topic:** [[topic_funzionali|Functional equations / sequences]]
+
+**Topic:** [[topic_funzionali|Functional equations / sequences]], [[topic_aritmetica|Arithmetic / Number theory]]
 **Metodo:** [[method_ricorsione|Recursion]]
-**Abilita:** [[skill_astrazione|Abstraction / generalisation]]
-**Area:** [[Algebra e Analisi|Algebra and analysis]]
-
-[[Quesiti/src_gs_2009#q20|src_gs_2009__Q20]]
+**Abilita:** [[skill_astrazione|Abstraction / generalisation]], [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
 
 
-<span class="atom-split" id="q21" data-atom="q21" data-title="Quesito 21" data-tags="topic_probabilita,method_ricorsione"></span>
+<span class="atom-split" id="q21" data-atom="q21" data-title="Quesito 21" data-tags="topic_probabilita,method_ricorsione,skill_modellizzazione,skill_manipolazione_algebrica,skill_astrazione"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -844,6 +841,7 @@ level: squadre
 
 **Topic:** [[topic_probabilita|Probabilita e statistica]]
 **Metodo:** [[method_ricorsione|Ricorsione]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione / generalizzazione]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/1giFNtxzHUhzmmjcVeDMTydS1K9uFgvwb/view)
 
@@ -856,15 +854,15 @@ level: squadre
 > The Double Heads and Tails Game
 > (points 70) In the taverns of Traal, the double heads-and-tails game is played with a coin between two teams of two players each. A player from the first team tosses the coin: if tails comes up, that player is eliminated from the game; if heads comes up, nothing happens. Now a player from the other team tosses a coin: if tails comes up, that player is eliminated; if heads comes up, that player eliminates one of the players from the first team. Play then passes back to the first team, and it continues as at the beginning. The team that runs out of players first loses. What is the probability that the first team wins? Give the answer by writing the first four digits of the result that are different from 0, 1, and 9, in the order in which they appear. (For example, if the result were 5 7 = 0.714285714..., one should write 7428.)
 
+
 **Topic:** [[topic_probabilita|Probability and statistics]]
 **Metodo:** [[method_ricorsione|Recursion]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]], [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_astrazione|Abstraction / generalisation]]
 **Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
-[[Quesiti/src_gs_2009#q21|src_gs_2009__Q21]]
 
 
-
-<span class="atom-split" id="q22" data-atom="q22" data-title="Quesito 22" data-tags="topic_combinatoria,method_cassetti"></span>
+<span class="atom-split" id="q22" data-atom="q22" data-title="Quesito 22" data-tags="topic_combinatoria,method_cassetti,skill_astrazione,skill_conteggio_sistematico"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -883,6 +881,7 @@ level: squadre
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_cassetti|Principio dei cassetti]]
+**Abilita:** [[skill_astrazione|Astrazione / generalizzazione]], [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/1giFNtxzHUhzmmjcVeDMTydS1K9uFgvwb/view)
 
@@ -895,15 +894,15 @@ level: squadre
 > The Paranormal Psychiatrist
 > (points 70) To demonstrate his ultra-psychiatric abilities to clients, Dr. Gag Halfrunt has the patient carry out an easy experiment: he tells the patient to draw a certain number of balls from a box containing 2009 balls numbered from 1 to 2009. While speaking to the patient, he will ensure that, among the balls drawn, at least two have numbers such that one is three times the other. The thing is that Gag always has the minimum number of balls drawn that guarantees he will achieve the result. What is the minimum number n such that, no matter which n balls numbered from 1 to 2009 are drawn, two of them have numbers where one is three times the other?
 
+
 **Topic:** [[topic_combinatoria|Combinatorics]]
 **Metodo:** [[method_cassetti|Pigeonhole principle]]
+**Abilita:** [[skill_astrazione|Abstraction / generalisation]], [[skill_conteggio_sistematico|Systematic counting]]
 **Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
-[[Quesiti/src_gs_2009#q22|src_gs_2009__Q22]]
 
 
-
-<span class="atom-split" id="q23" data-atom="q23" data-title="Quesito 23" data-tags="topic_logica,method_backward,method_invarianti"></span>
+<span class="atom-split" id="q23" data-atom="q23" data-title="Quesito 23" data-tags="topic_logica,method_backward,method_invarianti,method_simmetria,skill_astrazione"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -921,7 +920,8 @@ level: squadre
 > diverso da 2009 e da 9002 di uno dei lati del pezzo di cioccolata che deve mangiare.
 
 **Topic:** [[topic_logica|Logica, giochi, strategie]]
-**Metodo:** [[method_backward|Ragionamento all'indietro]], [[method_invarianti|Invarianti / monovarianti]]
+**Metodo:** [[method_backward|Ragionamento all'indietro]], [[method_invarianti|Invarianti / monovarianti]], [[method_simmetria|Sfruttamento della simmetria]]
+**Abilita:** [[skill_astrazione|Astrazione / generalizzazione]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/1giFNtxzHUhzmmjcVeDMTydS1K9uFgvwb/view)
 
@@ -934,15 +934,15 @@ level: squadre
 > The chocolate bar
 > (points 80) After drinking three Pan Galactic Gargle Blasters, Ford and Zaphod had the Nutrimatic Food Synthesizer generate an enormous rectangular slab of chocolate divided into squares: 9002 columns, each consisting of 2009 chocolate squares. They decide to play a game: they spread mayonnaise on the square at one corner; then, taking turns, each of them will break the slab (or whatever is left of it) into two rectangular pieces along one of the grooves between the squares, eating one of the two parts. The one who eats the square with the mayonnaise loses. Ford plays first. Which rectangle must he eat on his first move to be certain of winning? In your answer, state the number of squares—different from 2009 and 9002—on one of the sides of the piece of chocolate he must eat.
 
+
 **Topic:** [[topic_logica|Logic, games and strategies]]
-**Metodo:** [[method_backward|Working backwards]], [[method_invarianti|Invariants / monovariants]]
+**Metodo:** [[method_backward|Working backwards]], [[method_invarianti|Invariants / monovariants]], [[method_simmetria|Using symmetry]]
+**Abilita:** [[skill_astrazione|Abstraction / generalisation]]
 **Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
-[[Quesiti/src_gs_2009#q23|src_gs_2009__Q23]]
 
 
-
-<span class="atom-split" id="q24" data-atom="q24" data-title="Quesito 24" data-tags="topic_combinatoria,topic_aritmetica,method_congruenze,method_conteggio"></span>
+<span class="atom-split" id="q24" data-atom="q24" data-title="Quesito 24" data-tags="topic_combinatoria,topic_aritmetica,method_congruenze,method_conteggio,method_fattorizzazione,skill_conteggio_sistematico"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -968,8 +968,9 @@ level: squadre
 > Gara a squadre – Testi dei problemi – Pag. 5 di 5
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]], [[method_conteggio|Conteggio combinatorio]]
-**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+**Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]], [[method_conteggio|Conteggio combinatorio]], [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/1giFNtxzHUhzmmjcVeDMTydS1K9uFgvwb/view)
 
 
@@ -982,8 +983,8 @@ level: squadre
 > (80 points) The planets taking part in the MCD Galactic Championship Tournament must enter two teams in the tournament; each team plays once and only once against all the teams from the other registered planets, but does not play against the other team from its own planet. MCD is a very peculiar game: this year, it provides that a match ends when the sum of the points scored by the two teams is 2009, but with one important exception. When the sum reaches 2009, if the greatest common divisor of the two teams' scores is not 1, the score of the leading team is reset to zero and the match continues. Given that all matches ended with different scores (2008-1 and 1-2008 are considered the same scores), what was the maximum possible number of teams? For more information, one can consult The Hitchhiker's Guide to the Galaxy, as transcribed by Douglas Adams—the rights to the characters and places mentioned belong to Adams's heirs, and ∞ thanks are due to his mind for the excellent transcription.
 > Team Competition – Problem Statements – Page 5 of 5
 
-**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_aritmetica|Arithmetic / Number theory]]
-**Metodo:** [[method_congruenze|Modular arithmetic / congruences]], [[method_conteggio|Combinatorial counting]]
-**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
-[[Quesiti/src_gs_2009#q24|src_gs_2009__Q24]]
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]], [[method_conteggio|Combinatorial counting]], [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]

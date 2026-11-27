@@ -10,7 +10,7 @@ level: kangourou
 
 
 
-<span class="atom-split" id="qj1" data-atom="qj1" data-title="Quesito J1" data-tags="topic_geometria_piana,skill_ragionamento_geometrico"></span>
+<span class="atom-split" id="qj1" data-atom="qj1" data-title="Quesito J1" data-tags="topic_geometria_piana,method_coordinate,skill_ragionamento_geometrico"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -20,6 +20,7 @@ level: kangourou
 > In un quadrato, 4 segmenti da un punto interno ai punti medi dei lati. Aree $200$, $320$, $160$. Area del quarto?
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_coordinate|Metodo delle coordinate]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]]
 **Risposta:** 280
@@ -33,15 +34,15 @@ level: kangourou
 
 > In a square, 4 line segments from an interior point to the midpoints of the sides. Areas $200$, $320$, $160$. What is the area of the fourth?
 
+
 **Topic:** [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_coordinate|Coordinate method]]
 **Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
 **Area:** [[Geometria|Geometry]]
 
-[[Quesiti/src_kangourou_2026_junior_finale#qj1|src_kangourou_2026_junior_finale__QJ1]]
 
 
-
-<span class="atom-split" id="qj2" data-atom="qj2" data-title="Quesito J2" data-tags="topic_combinatoria,skill_astrazione"></span>
+<span class="atom-split" id="qj2" data-atom="qj2" data-title="Quesito J2" data-tags="topic_combinatoria,topic_logica,method_ricorsione,skill_astrazione,skill_modellizzazione"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -50,8 +51,9 @@ level: kangourou
 
 > Monete tutte uguali tranne una falsa più leggera. Bilancia a due piatti, al più 6 confronti. Massimo numero di monete?
 
-**Topic:** [[topic_combinatoria|Combinatoria]]
-**Abilita:** [[skill_astrazione|Astrazione]]
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_logica|Logica, giochi, strategie]]
+**Metodo:** [[method_ricorsione|Ricorsione]]
+**Abilita:** [[skill_astrazione|Astrazione]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 729
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1Kq0h2ivtEyUX-qXZVkgskxB6VYPHmzIC/view)
@@ -64,15 +66,15 @@ level: kangourou
 
 > All the coins are identical except for one counterfeit, which is lighter. A two-pan balance, at most 6 comparisons. What is the maximum number of coins?
 
-**Topic:** [[topic_combinatoria|Combinatorics]]
-**Abilita:** [[skill_astrazione|Abstraction / generalisation]]
+
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_logica|Logic, games and strategies]]
+**Metodo:** [[method_ricorsione|Recursion]]
+**Abilita:** [[skill_astrazione|Abstraction / generalisation]], [[skill_modellizzazione|Modelling / translating the text]]
 **Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
-[[Quesiti/src_kangourou_2026_junior_finale#qj2|src_kangourou_2026_junior_finale__QJ2]]
 
 
-
-<span class="atom-split" id="qj3" data-atom="qj3" data-title="Quesito J3" data-tags="topic_aritmetica,topic_combinatoria,method_conteggio,skill_conteggio_sistematico"></span>
+<span class="atom-split" id="qj3" data-atom="qj3" data-title="Quesito J3" data-tags="topic_aritmetica,topic_combinatoria,method_conteggio,method_casi_conteggio,skill_conteggio_sistematico,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -82,9 +84,9 @@ level: kangourou
 > Quante coppie non ordinate di palindromi di 4 cifre hanno somma palindroma di 5 cifre?
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
-**Metodo:** [[method_conteggio|Conteggio combinatorio]]
-**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
-**Area:** [[Aritmetica e Teoria dei Numeri]]
+**Metodo:** [[method_conteggio|Conteggio combinatorio]], [[method_casi_conteggio|Conteggio per casi]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 36
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1Kq0h2ivtEyUX-qXZVkgskxB6VYPHmzIC/view)
 
@@ -96,16 +98,15 @@ level: kangourou
 
 > How many unordered pairs of 4-digit palindromes have a 5-digit palindromic sum?
 
+
 **Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_combinatoria|Combinatorics]]
-**Metodo:** [[method_conteggio|Combinatorial counting]]
-**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
-**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
-
-[[Quesiti/src_kangourou_2026_junior_finale#qj3|src_kangourou_2026_junior_finale__QJ3]]
+**Metodo:** [[method_conteggio|Combinatorial counting]], [[method_casi_conteggio|Counting by cases]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]], [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
 
 
-<span class="atom-split" id="qj4" data-atom="qj4" data-title="Quesito J4" data-tags="topic_geometria_piana,skill_ragionamento_geometrico"></span>
+<span class="atom-split" id="qj4" data-atom="qj4" data-title="Quesito J4" data-tags="topic_geometria_piana,skill_ragionamento_geometrico,skill_modellizzazione"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -115,7 +116,7 @@ level: kangourou
 > Un pentagono convesso con angoli interni tutti maggiori di $90^\circ$ è circoscritto a una circonferenza di raggio $10$ cm e ha perimetro $75$ cm. Una moneta circolare di raggio $1$ cm viene traslata in modo che il suo centro rimanga sempre sul bordo del pentagono. Di quanti centimetri quadrati è l'area della regione contenuta nel pentagono e coperta dalla moneta?
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
-**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
 **Area:** [[Geometria]]
 **Risposta:** 71,25
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1Kq0h2ivtEyUX-qXZVkgskxB6VYPHmzIC/view)
@@ -128,15 +129,14 @@ level: kangourou
 
 > A convex pentagon with all interior angles greater than $90^\circ$ is circumscribed about a circle of radius $10$ cm and has a perimeter of $75$ cm. A circular coin with a radius of $1$ cm is translated so that its center always remains on the edge of the pentagon. By how many square centimeters is the area of the region contained within the pentagon and covered by the coin?
 
+
 **Topic:** [[topic_geometria_piana|Plane geometry]]
-**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_modellizzazione|Modelling / translating the text]]
 **Area:** [[Geometria|Geometry]]
 
-[[Quesiti/src_kangourou_2026_junior_finale#qj4|src_kangourou_2026_junior_finale__QJ4]]
 
 
-
-<span class="atom-split" id="qj5" data-atom="qj5" data-title="Quesito J5" data-tags="topic_aritmetica,skill_astrazione"></span>
+<span class="atom-split" id="qj5" data-atom="qj5" data-title="Quesito J5" data-tags="topic_aritmetica,skill_astrazione,skill_riconoscimento_pattern"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -146,7 +146,7 @@ level: kangourou
 > Considera il prodotto $1!\times 2!\times\cdots\times 2026!$. Qual è il minimo numero di fattori del tipo $n!$ eliminando i quali il prodotto dei rimanenti risulta un quadrato perfetto?
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Abilita:** [[skill_astrazione|Astrazione]]
+**Abilita:** [[skill_astrazione|Astrazione]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 2
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1Kq0h2ivtEyUX-qXZVkgskxB6VYPHmzIC/view)
@@ -159,15 +159,14 @@ level: kangourou
 
 > Consider the product $1!\times 2!\times\cdots\times 2026!$. What is the minimum number of factors of the type $n!$ that must be removed so that the product of the remaining factors is a perfect square?
 
+
 **Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
-**Abilita:** [[skill_astrazione|Abstraction / generalisation]]
+**Abilita:** [[skill_astrazione|Abstraction / generalisation]], [[skill_riconoscimento_pattern|Pattern recognition]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
-[[Quesiti/src_kangourou_2026_junior_finale#qj5|src_kangourou_2026_junior_finale__QJ5]]
 
 
-
-<span class="atom-split" id="qj6" data-atom="qj6" data-title="Quesito J6" data-tags="topic_geometria_piana,topic_disuguaglianze,skill_astrazione"></span>
+<span class="atom-split" id="qj6" data-atom="qj6" data-title="Quesito J6" data-tags="topic_geometria_piana,topic_disuguaglianze,method_disuguaglianze,skill_astrazione"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -177,8 +176,9 @@ level: kangourou
 > Qual è il più piccolo numero reale $K>1$ tale che, in ogni triangolo non degenere, ci siano due lati il rapporto delle cui lunghezze sia compreso fra $1$ e $K$?
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_disuguaglianze|Disuguaglianze]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze classiche]]
 **Abilita:** [[skill_astrazione|Astrazione]]
-**Area:** [[Geometria]]
+**Area:** [[Geometria]], [[Algebra e Analisi]]
 **Risposta:** $(1+\sqrt{5})/2$
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1Kq0h2ivtEyUX-qXZVkgskxB6VYPHmzIC/view)
 
@@ -190,8 +190,8 @@ level: kangourou
 
 > What is the smallest real number $K>1$ such that, in every non-degenerate triangle, there are two sides whose length ratio lies between $1$ and $K$?
 
-**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_disuguaglianze|Inequalities]]
-**Abilita:** [[skill_astrazione|Abstraction / generalisation]]
-**Area:** [[Geometria|Geometry]]
 
-[[Quesiti/src_kangourou_2026_junior_finale#qj6|src_kangourou_2026_junior_finale__QJ6]]
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_disuguaglianze|Inequalities]]
+**Metodo:** [[method_disuguaglianze|Classical inequalities]]
+**Abilita:** [[skill_astrazione|Abstraction / generalisation]]
+**Area:** [[Geometria|Geometry]], [[Algebra e Analisi|Algebra and analysis]]

@@ -10,7 +10,7 @@ level: China Mathematical Competition (Extra Test)
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_geometria_piana,skill_ragionamento_geometrico,skill_lettura_attenta"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_geometria_piana,method_simmetria,method_trigonometria,skill_ragionamento_geometrico,skill_lettura_attenta"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -19,11 +19,12 @@ level: China Mathematical Competition (Extra Test)
 
 > From point $P$, outside a circle, draw two tangents to the circle touching at points $A$ and $B$. Draw a secant line intersecting the circle at points $C$ and $D$, with $C$ between $P$ and $D$. Choose point $Q$ on the chord $CD$ such that $\angle DAQ = \angle PBC$. Prove that $\angle DBQ = \angle PAC$.
 
-![[src_cn_cmc-extra-test_2003__q01.png]]
+![[src_cn_cmc-extra-test_2003__Q01.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_simmetria|Using symmetry]], [[method_trigonometria|Trigonometric techniques]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
-**Area:** [[Geometria]]
+**Area:** [[Geometria|Geometry]]
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1Bie5BlTQQyjdGifDyOeZ-kZzNFzUwbxT/view)
 
 
@@ -34,13 +35,13 @@ level: China Mathematical Competition (Extra Test)
 
 > Dal punto $P$, esterno a una circonferenza, traccia due tangenti alla circonferenza che la toccano nei punti $A$ e $B$. Traccia una secante che interseca la circonferenza nei punti $C$ e $D$, con $C$ compreso tra $P$ e $D$. Scegli il punto $Q$ sulla corda $CD$ in modo che $\angle DAQ = \angle PBC$. Dimostrare che $\angle DBQ = \angle PAC$.
 
-![[src_cn_cmc-extra-test_2003__q01.png]]
+![[src_cn_cmc-extra-test_2003__Q01.png]]
+
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_simmetria|Sfruttamento della simmetria]], [[method_trigonometria|Tecniche trigonometriche]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Geometria]]
-
-[[Quesiti/src_cn_cmc-extra-test_2003#q01|src_cn_cmc-extra-test_2003__Q01]]
 
 
 
@@ -73,8 +74,6 @@ level: China Mathematical Competition (Extra Test)
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 
-[[Quesiti/src_cn_cmc-extra-test_2003#q02|src_cn_cmc-extra-test_2003__Q02]]
-
 
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_combinatoria,topic_geometria_solida,method_grafi,method_induzione,method_estremalita,method_doppio_conteggio,skill_modellizzazione,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
@@ -104,5 +103,3 @@ level: China Mathematical Competition (Extra Test)
 **Metodo:** [[method_grafi|Grafi]], [[method_induzione|Induzione]], [[method_estremalita|Estremalità]], [[method_doppio_conteggio|Doppio conteggio]]
 **Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
-
-[[Quesiti/src_cn_cmc-extra-test_2003#q03|src_cn_cmc-extra-test_2003__Q03]]

@@ -60,8 +60,6 @@ level: BMO Round 2
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_astrazione|Astrazione]]
 **Area:** [[Algebra e Analisi|Algebra e analisi]]
 
-[[Quesiti/src_bmo2_1975#q01|src_bmo2_1975__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_aritmetica,topic_combinatoria,method_induzione,method_casework,skill_riconoscimento_pattern,skill_manipolazione_algebrica,skill_conteggio_sistematico"></span>
@@ -96,8 +94,6 @@ level: BMO Round 2
 **Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Aritmetica e teoria dei numeri]], [[Combinatoria, Logica e Probabilita|Combinatoria, logica e probabilità]]
 
-[[Quesiti/src_bmo2_1975#q02|src_bmo2_1975__Q02]]
-
 
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_probabilita,topic_combinatoria,method_conteggio,method_induzione,method_simmetria,skill_modellizzazione,skill_conteggio_sistematico,skill_ragionamento_geometrico,skill_lettura_attenta"></span>
@@ -128,8 +124,6 @@ level: BMO Round 2
 **Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Combinatoria, Logica e Probabilita|Combinatoria, logica e probabilità]]
 
-[[Quesiti/src_bmo2_1975#q03|src_bmo2_1975__Q03]]
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_geometria_solida,method_coordinate,method_simmetria,skill_ragionamento_geometrico,skill_modellizzazione,skill_astrazione"></span>
@@ -143,7 +137,7 @@ level: BMO Round 2
 > 
 > Prove that such a configuration of 12 circles exists on the surface of a sphere with all the 12 circles having equal radii.
 
-![[src_bmo2_1975__q04.png]]
+![[src_bmo2_1975__Q04.png]]
 
 **Topic:** [[topic_geometria_solida|Geometria solida]]
 **Metodo:** [[method_coordinate|Coordinate]], [[method_simmetria|Simmetria]]
@@ -157,7 +151,7 @@ level: BMO Round 2
 
 *Esiste una configurazione di 12 circonferenze uguali su una sfera*
 
-![[src_bmo2_1975__q04.png]]
+![[src_bmo2_1975__Q04.png]]
 
 > La figura illustra una configurazione di 12 circonferenze. L'insieme $S$ di 12 circonferenze contiene tre sottoinsiemi $S_3$, $S_4$, $S_5$, ciascuno di 4 circonferenze, tali che ciascuna delle 4 circonferenze di $S_r$ è tangente a $r$ circonferenze di $S$.
 >
@@ -167,5 +161,3 @@ level: BMO Round 2
 **Metodo:** [[method_coordinate|Coordinate]], [[method_simmetria|Simmetria]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]], [[skill_astrazione|Astrazione]]
 **Area:** [[Geometria|Geometria]]
-
-[[Quesiti/src_bmo2_1975#q04|src_bmo2_1975__Q04]]

@@ -39,11 +39,9 @@ level: kangourou
 **Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
-[[Quesiti/src_kangourou_2025_cadet_finale#qc1|src_kangourou_2025_cadet_finale__QC1]]
 
 
-
-<span class="atom-split" id="qc2" data-atom="qc2" data-title="Quesito C2" data-tags="topic_aritmetica,topic_logica,skill_modellizzazione"></span>
+<span class="atom-split" id="qc2" data-atom="qc2" data-title="Quesito C2" data-tags="topic_aritmetica,topic_logica,method_congruenze,skill_modellizzazione,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -53,7 +51,8 @@ level: kangourou
 > Un parco circolare è circondato da un sentiero illuminato da lampioni. Simona e Tania hanno contato i lampioni, ma separatamente, partendo da punti diversi e muovendosi entrambe nello stesso verso. Quello che è stato il 20-esimo lampione per Simona è stato il 7-mo per Tania, quello che è stato il 7-mo per Simona è stato il 94-esimo per Tania. Quanti sono complessivamente i lampioni?
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_logica|Logica, giochi, strategie]]
-**Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
+**Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 100
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1PQuJedCWTXWhrFhpDRxzkn1D0caSD99m/view)
@@ -66,15 +65,15 @@ level: kangourou
 
 > A circular park is surrounded by a path lit by street lamps. Simona and Tania counted the street lamps, but separately, starting from different points and both moving in the same direction. The lamp that was the 20th for Simona was the 7th for Tania; the lamp that was the 7th for Simona was the 94th for Tania. How many street lamps are there in total?
 
+
 **Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_logica|Logic, games and strategies]]
-**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
-[[Quesiti/src_kangourou_2025_cadet_finale#qc2|src_kangourou_2025_cadet_finale__QC2]]
 
 
-
-<span class="atom-split" id="qc3" data-atom="qc3" data-title="Quesito C3" data-tags="topic_aritmetica,method_fattorizzazione,skill_manipolazione_algebrica"></span>
+<span class="atom-split" id="qc3" data-atom="qc3" data-title="Quesito C3" data-tags="topic_aritmetica,method_fattorizzazione,method_casework,skill_manipolazione_algebrica,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -84,8 +83,8 @@ level: kangourou
 > Due interi positivi $a$ e $b$ sono tali che la loro somma è uguale al prodotto dei due numeri primi 283 e 353. Per quali coppie $(a, b)$ si ha che $b$ divide $a$?
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
-**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]], [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** tre coppie
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1PQuJedCWTXWhrFhpDRxzkn1D0caSD99m/view)
@@ -98,16 +97,15 @@ level: kangourou
 
 > Two positive integers $a$ and $b$ are such that their sum equals the product of the two prime numbers 283 and 353. For which pairs $(a, b)$ does $b$ divide $a$?
 
+
 **Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
-**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
-**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]], [[method_casework|Case analysis]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_casework_accurato|Careful case analysis]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
-[[Quesiti/src_kangourou_2025_cadet_finale#qc3|src_kangourou_2025_cadet_finale__QC3]]
 
 
-
-<span class="atom-split" id="qc4" data-atom="qc4" data-title="Quesito C4" data-tags="topic_aritmetica,topic_geometria_piana,skill_casework_accurato"></span>
+<span class="atom-split" id="qc4" data-atom="qc4" data-title="Quesito C4" data-tags="topic_aritmetica,topic_geometria_piana,method_casework,skill_casework_accurato,skill_manipolazione_algebrica,skill_modellizzazione"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -117,7 +115,8 @@ level: kangourou
 > Un orto botanico rettangolare di dimensioni $52 \times 24$ metri è ripartito in appezzamenti quadrati tutti della stessa dimensione e tutti con i lati paralleli a quelli dell'orto. Internamente all'orto gli appezzamenti sono separati da reticolati; la lunghezza complessiva dei reticolati è 1.172 metri. Quanti sono gli appezzamenti quadrati?
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_geometria_piana|Geometria piana]]
-**Abilita:** [[skill_casework_accurato|Casework accurato]]
+**Metodo:** [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Geometria]]
 **Risposta:** 312
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1PQuJedCWTXWhrFhpDRxzkn1D0caSD99m/view)
@@ -130,22 +129,22 @@ level: kangourou
 
 > A rectangular botanical garden measuring $52 \times 24$ metres is divided into square plots, all of the same size and all with sides parallel to those of the garden. Within the garden, the plots are separated by grid lines; the total length of the grid lines is 1,172 metres. How many square plots are there?
 
+
 **Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_geometria_piana|Plane geometry]]
-**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]], [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_modellizzazione|Modelling / translating the text]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Geometria|Geometry]]
 
-[[Quesiti/src_kangourou_2025_cadet_finale#qc4|src_kangourou_2025_cadet_finale__QC4]]
 
 
-
-<span class="atom-split" id="qc5" data-atom="qc5" data-title="Quesito C5" data-tags="topic_logica,topic_combinatoria,method_conteggio,skill_casework_accurato"></span>
+<span class="atom-split" id="qc5" data-atom="qc5" data-title="Quesito C5" data-tags="topic_logica,topic_combinatoria,method_conteggio,method_grafi,method_colorazione,skill_casework_accurato,skill_modellizzazione"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
 
 *Quante disposizioni cavalieri/furfanti su griglia 5x5*
 
-![[src_kangourou_2025_cadet_finale__probc5.png]]
+![[src_kangourou_2025_cadet_finale__probC5.png]]
 
 ```tikz
 \begin{document}
@@ -172,8 +171,8 @@ level: kangourou
 > NOTA: Due mattonelle sono adiacenti se hanno un intero lato in comune. Due disposizioni sono diverse se, per almeno un numero, la corrispondente mattonella è occupata in una disposizione da un Cavaliere, nell'altra da un Furfante.
 
 **Topic:** [[topic_logica|Logica, giochi, strategie]], [[topic_combinatoria|Combinatoria]]
-**Metodo:** [[method_conteggio|Conteggio combinatorio]]
-**Abilita:** [[skill_casework_accurato|Casework accurato]]
+**Metodo:** [[method_conteggio|Conteggio combinatorio]], [[method_grafi|Teoria dei grafi]], [[method_colorazione|Colorazione / parita]]
+**Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 6
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1PQuJedCWTXWhrFhpDRxzkn1D0caSD99m/view)
@@ -184,7 +183,7 @@ level: kangourou
 
 *How many knight/knave arrangements on a 5x5 grid?*
 
-![[src_kangourou_2025_cadet_finale__probc5.png]]
+![[src_kangourou_2025_cadet_finale__probC5.png]]
 
 ```tikz
 \begin{document}
@@ -210,12 +209,11 @@ level: kangourou
 >
 > NOTE: Two tiles are adjacent if they share an entire side. Two arrangements are different if, for at least one number, the corresponding tile is occupied by a Knight in one arrangement and by a Scoundrel in the other.
 
-**Topic:** [[topic_logica|Logic, games and strategies]], [[topic_combinatoria|Combinatorics]]
-**Metodo:** [[method_conteggio|Combinatorial counting]]
-**Abilita:** [[skill_casework_accurato|Careful case analysis]]
-**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
-[[Quesiti/src_kangourou_2025_cadet_finale#qc5|src_kangourou_2025_cadet_finale__QC5]]
+**Topic:** [[topic_logica|Logic, games and strategies]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_conteggio|Combinatorial counting]], [[method_grafi|Graph theory]], [[method_colorazione|Colouring / parity]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]], [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
 
 
@@ -226,7 +224,7 @@ level: kangourou
 
 *piu lungo del diametro?*
 
-![[src_kangourou_2025_cadet_finale__probc6.png]]
+![[src_kangourou_2025_cadet_finale__probC6.png]]
 
 > Due punti sulla circonferenza di un cerchio $\Gamma$ sono estremi di un arco $\delta$ di un'altra circonferenza. L'arco $\delta$ ripartisce il cerchio $\Gamma$ in due regioni di uguale area. È necessariamente vero che $\delta$ è più lungo del diametro di $\Gamma$?
 
@@ -242,12 +240,10 @@ level: kangourou
 
 *Longer than the diameter?*
 
-![[src_kangourou_2025_cadet_finale__probc6.png]]
+![[src_kangourou_2025_cadet_finale__probC6.png]]
 
 > Two points on the circumference of a circle $\Gamma$ are the endpoints of an arc $\delta$ of another circumference. The arc $\delta$ divides the circle $\Gamma$ into two regions of equal area. Is it necessarily true that $\delta$ is longer than the diameter of $\Gamma$?
 
 **Topic:** [[topic_geometria_piana|Plane geometry]]
 **Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
 **Area:** [[Geometria|Geometry]]
-
-[[Quesiti/src_kangourou_2025_cadet_finale#qc6|src_kangourou_2025_cadet_finale__QC6]]

@@ -19,7 +19,7 @@ level: Finale Nazionale Campionati Internazionali di Giochi Matematici
 
 > Luca ha disegnato per terra tre figure geometriche: una rettangolare, una triangolare e una ovale. Ha preso poi il suo sacchettino di biglie colorate e ne ha messe 33 nelle sue figure, come nel disegno. Quante biglie si possono contare che appartengono a due qualsiasi delle tre figure, ma non a tutte e tre?
 
-![[src_bocconi_finalenaz_2008__q01.png]]
+![[src_bocconi_finalenaz_2008__Q01.png]]
 
 **Topic:** [[topic_insiemi_funzioni|Insiemi e funzioni]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_inclusione_esclusione|Inclusione-esclusione]], [[method_conteggio|Conteggio]]
@@ -36,14 +36,12 @@ level: Finale Nazionale Campionati Internazionali di Giochi Matematici
 
 > Luca drew three geometric shapes on the ground: one rectangular, one triangular, and one oval. He then took his little bag of colored marbles and put 33 marbles into his shapes, as in the drawing. How many marbles can be counted that belong to any two of the three shapes but not to all three?
 
-![[src_bocconi_finalenaz_2008__q01.png]]
+![[src_bocconi_finalenaz_2008__Q01.png]]
 
 **Topic:** [[topic_insiemi_funzioni|Sets and functions]], [[topic_combinatoria|Combinatorics]]
 **Metodo:** [[method_inclusione_esclusione|Inclusion–exclusion]], [[method_conteggio|Combinatorial counting]]
 **Abilita:** [[skill_conteggio_sistematico|Systematic counting]], [[skill_lettura_attenta|Careful reading of the text]]
 **Area:** [[Algebra e Analisi|Algebra and analysis]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
-
-[[Quesiti/src_bocconi_finalenaz_2008#q01|src_bocconi_finalenaz_2008__Q01]]
 
 
 
@@ -76,8 +74,6 @@ level: Finale Nazionale Campionati Internazionali di Giochi Matematici
 **Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]], [[skill_lettura_attenta|Careful reading of the text]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
-[[Quesiti/src_bocconi_finalenaz_2008#q02|src_bocconi_finalenaz_2008__Q02]]
-
 
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_aritmetica,method_casework,skill_lettura_attenta,skill_conteggio_sistematico"></span>
@@ -109,8 +105,6 @@ level: Finale Nazionale Campionati Internazionali di Giochi Matematici
 **Abilita:** [[skill_lettura_attenta|Careful reading of the text]], [[skill_conteggio_sistematico|Systematic counting]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
-[[Quesiti/src_bocconi_finalenaz_2008#q03|src_bocconi_finalenaz_2008__Q03]]
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_geometria_solida,method_conteggio,skill_ragionamento_geometrico,skill_conteggio_sistematico"></span>
@@ -122,7 +116,7 @@ level: Finale Nazionale Campionati Internazionali di Giochi Matematici
 
 > Sara ha trovato nel solaio del nonno una piramide di legno regolare a base quadrata, riprodotta nella figura di sinistra : chissà a cosa sarà servita? Appassionata di bricolage, decide di "decapitare"tutti i vertici della piramide intervenendo ogni volta a una distanza dal vertice pari a $1/3$ della lunghezza degli spigoli originali (come nella figura di destra). Quanti spigoli avrà l'ex-piramide del nonno quando Sara sarà intervenuta su tutti i suoi vertici ?
 
-![[src_bocconi_finalenaz_2008__q04.png]]
+![[src_bocconi_finalenaz_2008__Q04.png]]
 
 **Topic:** [[topic_geometria_solida|Geometria solida]]
 **Metodo:** [[method_conteggio|Conteggio]]
@@ -139,14 +133,12 @@ level: Finale Nazionale Campionati Internazionali di Giochi Matematici
 
 > In her grandfather's attic, Sara found a regular square-based wooden pyramid, shown in the figure on the left: I wonder what it was used for? Being fond of DIY, she decides to "decapitate" all the vertices of the pyramid, each time cutting at a distance from the vertex equal to $1/3$ of the length of the original edges (as in the figure on the right). How many edges will the former pyramid belonging to the grandfather have once Sara has acted on all its vertices?
 
-![[src_bocconi_finalenaz_2008__q04.png]]
+![[src_bocconi_finalenaz_2008__Q04.png]]
 
 **Topic:** [[topic_geometria_solida|Solid geometry]]
 **Metodo:** [[method_conteggio|Combinatorial counting]]
 **Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_conteggio_sistematico|Systematic counting]]
 **Area:** [[Geometria|Geometry]]
-
-[[Quesiti/src_bocconi_finalenaz_2008#q04|src_bocconi_finalenaz_2008__Q04]]
 
 
 
@@ -179,11 +171,9 @@ level: Finale Nazionale Campionati Internazionali di Giochi Matematici
 **Abilita:** [[skill_lettura_attenta|Careful reading of the text]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Algebra e Analisi|Algebra and analysis]]
 
-[[Quesiti/src_bocconi_finalenaz_2008#q05|src_bocconi_finalenaz_2008__Q05]]
 
 
-
-<span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_aritmetica,method_backward,skill_conteggio_sistematico,skill_lettura_attenta"></span>
+<span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_aritmetica,method_backward,skill_conteggio_sistematico,skill_lettura_attenta,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -194,7 +184,7 @@ level: Finale Nazionale Campionati Internazionali di Giochi Matematici
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_backward|Backward]]
-**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 3 fette
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1si2d_eBxleyEpK7S_YihktYDt6fcQm8I/view)
@@ -207,12 +197,11 @@ level: Finale Nazionale Campionati Internazionali di Giochi Matematici
 
 > For Angelo's birthday, Rosi baked a huge cake and divided it into 20 equal slices. Angelo arrived first and took one fifth of the cake plus one slice. Davide regretted this, so he took one fifth of what was left of the cake plus one slice. Now it was Carla's turn: at first, she took one slice and then added one fifth of what remained. Milena took one quarter of what was left of the cake plus one slice. Finally, Arianna took one fifth of what was left of the cake plus one slice. How many slices of cake were left for Rosi?
 
+
 **Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
 **Metodo:** [[method_backward|Working backwards]]
-**Abilita:** [[skill_conteggio_sistematico|Systematic counting]], [[skill_lettura_attenta|Careful reading of the text]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]], [[skill_lettura_attenta|Careful reading of the text]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
-
-[[Quesiti/src_bocconi_finalenaz_2008#q06|src_bocconi_finalenaz_2008__Q06]]
 
 
 
@@ -245,11 +234,9 @@ level: Finale Nazionale Campionati Internazionali di Giochi Matematici
 **Abilita:** [[skill_conteggio_sistematico|Systematic counting]], [[skill_casework_accurato|Careful case analysis]]
 **Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
-[[Quesiti/src_bocconi_finalenaz_2008#q07|src_bocconi_finalenaz_2008__Q07]]
 
 
-
-<span class="atom-split" id="q08" data-atom="q08" data-title="Quesito 8" data-tags="topic_aritmetica,skill_manipolazione_algebrica"></span>
+<span class="atom-split" id="q08" data-atom="q08" data-title="Quesito 8" data-tags="topic_aritmetica,topic_algebra,method_fattorizzazione,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -258,9 +245,10 @@ level: Finale Nazionale Campionati Internazionali di Giochi Matematici
 
 > Renato ha scritto un numero di due cifre. Scrive poi un 2 a destra della seconda cifra, ottenendo così un numero a tre cifre. Il nuovo numero vale 335 in più del numero iniziale (di 2 cifre). Qual era il numero di due cifre?
 
-**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
-**Area:** [[Aritmetica e Teoria dei Numeri]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 **Risposta:** 37
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1si2d_eBxleyEpK7S_YihktYDt6fcQm8I/view)
 
@@ -272,15 +260,15 @@ level: Finale Nazionale Campionati Internazionali di Giochi Matematici
 
 > Renato wrote a two-digit number. He then wrote a 2 to the right of the second digit, thus obtaining a three-digit number. The new number is 335 more than the initial (two-digit) number. What was the two-digit number?
 
-**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
 **Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
-**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
-
-[[Quesiti/src_bocconi_finalenaz_2008#q08|src_bocconi_finalenaz_2008__Q08]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Algebra e Analisi|Algebra and analysis]]
 
 
 
-<span class="atom-split" id="q09" data-atom="q09" data-title="Quesito 9" data-tags="topic_aritmetica,topic_logica,method_casework,skill_casework_accurato,skill_riconoscimento_pattern"></span>
+<span class="atom-split" id="q09" data-atom="q09" data-title="Quesito 9" data-tags="topic_aritmetica,topic_logica,method_casework,skill_casework_accurato,skill_riconoscimento_pattern,skill_lettura_attenta"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -289,11 +277,11 @@ level: Finale Nazionale Campionati Internazionali di Giochi Matematici
 
 > In questa addizione per scrivere i tre addendi di tre cifre, si possono utilizzare le cifre da 1 a 9, prese ciascuna una sola volta (7 e 9 sono state già impiegate). In ogni colonna le cifre degli addendi sono sistemate, dall'alto verso il basso, dalla più piccola alla più grande. Completate l'addizione, scrivendo in particolare il primo addendo.
 
-![[src_bocconi_finalenaz_2008__q09.png]]
+![[src_bocconi_finalenaz_2008__Q09.png]]
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_logica|Logica]]
 **Metodo:** [[method_casework|Casework]]
-**Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_lettura_attenta|Lettura attenta del testo]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** primo addendo 135
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1si2d_eBxleyEpK7S_YihktYDt6fcQm8I/view)
@@ -306,18 +294,17 @@ level: Finale Nazionale Campionati Internazionali di Giochi Matematici
 
 > In this addition, to write the three three-digit addends, the digits from 1 to 9 can be used, each only once (7 and 9 have already been used). In each column, the digits of the addends are arranged from top to bottom, from smallest to largest. Complete the addition, writing in particular the first addend.
 
-![[src_bocconi_finalenaz_2008__q09.png]]
+![[src_bocconi_finalenaz_2008__Q09.png]]
+
 
 **Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_logica|Logic, games, strategies]]
 **Metodo:** [[method_casework|Case analysis]]
-**Abilita:** [[skill_casework_accurato|Careful case analysis]], [[skill_riconoscimento_pattern|Pattern recognition]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]], [[skill_riconoscimento_pattern|Pattern recognition]], [[skill_lettura_attenta|Careful reading of the text]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
-[[Quesiti/src_bocconi_finalenaz_2008#q09|src_bocconi_finalenaz_2008__Q09]]
 
 
-
-<span class="atom-split" id="q10" data-atom="q10" data-title="Quesito 10" data-tags="topic_logica,topic_combinatoria,method_casework,method_invarianti,skill_riconoscimento_pattern,skill_casework_accurato"></span>
+<span class="atom-split" id="q10" data-atom="q10" data-title="Quesito 10" data-tags="topic_logica,topic_combinatoria,method_casework,method_invarianti,skill_riconoscimento_pattern,skill_casework_accurato,skill_ragionamento_geometrico"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -326,11 +313,11 @@ level: Finale Nazionale Campionati Internazionali di Giochi Matematici
 
 > Gli acini di un grappolo d'uva (rappresentati in figura, nel piano, da piccoli cerchi) possono essere di tre qualità : A, B o C. Quando tre cerchi si toccano a due a due, formano un piccolo triangolo (vedi i due esempi tratteggiati in figura). In ognuno di questi triangoli, le tre qualità di acini possono essere o identiche o tutte diverse. Completate la figura scrivendo in particolare (nell'ordine, da sinistra a destra) le lettere degli acini della riga superiore.
 
-![[src_bocconi_finalenaz_2008__q10.png]]
+![[src_bocconi_finalenaz_2008__Q10.png]]
 
 **Topic:** [[topic_logica|Logica]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_casework|Casework]], [[method_invarianti|Invarianti]]
-**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_casework_accurato|Casework accurato]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_casework_accurato|Casework accurato]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** CBACB
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1si2d_eBxleyEpK7S_YihktYDt6fcQm8I/view)
@@ -343,18 +330,17 @@ level: Finale Nazionale Campionati Internazionali di Giochi Matematici
 
 > The grapes on a bunch of grapes (represented in the figure, in the plane, by small circles) can be of three qualities: A, B, or C. When three circles touch each other in pairs, they form a small triangle (see the two dashed examples in the figure). In each of these triangles, the three qualities of the grapes can either all be the same or all be different. Complete the figure by writing, in particular, the letters of the grapes in the top row (in order, from left to right).
 
-![[src_bocconi_finalenaz_2008__q10.png]]
+![[src_bocconi_finalenaz_2008__Q10.png]]
+
 
 **Topic:** [[topic_logica|Logic, games, strategies]], [[topic_combinatoria|Combinatorics]]
 **Metodo:** [[method_casework|Case analysis]], [[method_invarianti|Invariants / monovariants]]
-**Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]], [[skill_casework_accurato|Careful case analysis]]
+**Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]], [[skill_casework_accurato|Careful case analysis]], [[skill_ragionamento_geometrico|Geometric reasoning]]
 **Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
-[[Quesiti/src_bocconi_finalenaz_2008#q10|src_bocconi_finalenaz_2008__Q10]]
 
 
-
-<span class="atom-split" id="q11" data-atom="q11" data-title="Quesito 11" data-tags="topic_aritmetica,topic_combinatoria,method_casework,method_casi_conteggio,skill_casework_accurato,skill_stima"></span>
+<span class="atom-split" id="q11" data-atom="q11" data-title="Quesito 11" data-tags="topic_aritmetica,topic_combinatoria,method_casework,method_casi_conteggio,skill_casework_accurato,skill_stima,skill_conteggio_sistematico,skill_modellizzazione"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -365,7 +351,7 @@ level: Finale Nazionale Campionati Internazionali di Giochi Matematici
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_casework|Casework]], [[method_casi_conteggio|Casi e conteggio]]
-**Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_stima|Stima]]
+**Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_stima|Stima]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 6, 7 o 8
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1si2d_eBxleyEpK7S_YihktYDt6fcQm8I/view)
@@ -378,16 +364,15 @@ level: Finale Nazionale Campionati Internazionali di Giochi Matematici
 
 > The "par" of a minigolf hole is the average number of strokes a good player needs to get the ball into that hole. Math City's minigolf course has eighteen holes: nine have a "par" of 2 and nine have a "par" of 3. Desiderio has just finished the 18-hole course. On none of the holes was the number of his strokes equal to the hole's "par". Nevertheless, in total he took as many strokes as a good player would have taken: 45. Only on one hole did Desiderio manage to take just one stroke. On how many holes did Desiderio have to take 3 strokes?
 
+
 **Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_combinatoria|Combinatorics]]
 **Metodo:** [[method_casework|Case analysis]], [[method_casi_conteggio|Counting by cases]]
-**Abilita:** [[skill_casework_accurato|Careful case analysis]], [[skill_stima|Estimation and approximation]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]], [[skill_stima|Estimation and approximation]], [[skill_conteggio_sistematico|Systematic counting]], [[skill_modellizzazione|Modelling / translating the text]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
-[[Quesiti/src_bocconi_finalenaz_2008#q11|src_bocconi_finalenaz_2008__Q11]]
 
 
-
-<span class="atom-split" id="q12" data-atom="q12" data-title="Quesito 12" data-tags="topic_geometria_piana,method_simmetria,method_coordinate,skill_ragionamento_geometrico,skill_riconoscimento_pattern"></span>
+<span class="atom-split" id="q12" data-atom="q12" data-title="Quesito 12" data-tags="topic_geometria_piana,method_simmetria,method_coordinate,skill_ragionamento_geometrico,skill_riconoscimento_pattern,skill_stima"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -398,7 +383,7 @@ level: Finale Nazionale Campionati Internazionali di Giochi Matematici
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_simmetria|Simmetria]], [[method_coordinate|Coordinate]]
-**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_stima|Stima e approssimazione]]
 **Area:** [[Geometria]]
 **Risposta:** $1{,}5\sqrt{2}$ m, circa 2,12 m
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1si2d_eBxleyEpK7S_YihktYDt6fcQm8I/view)
@@ -411,16 +396,15 @@ level: Finale Nazionale Campionati Internazionali di Giochi Matematici
 
 > Amerigo plays billiards on a rectangular billiard table measuring 2.06 m by 3.06 m. His ball (6 cm in diameter) is placed at the midpoint of one of the two long sides of the table, and Amerigo rolls it, with no spin, at an angle of $45^\circ$ relative to the side of the table. Assuming Amerigo struck it hard enough, how far from the starting point will the center of the ball be at the moment of the $59^\circ$ bounce? Give the answer in metres, rounded to the nearest centimetre. In the final expression for the result, if necessary, $1{,}414$ will be taken for $\sqrt{2}$; $2{,}236$ for $\sqrt{5}$; $3{,}162$ for $\sqrt{10}$; $3{,}606$ for $\sqrt{13}$; and $4{,}123$ for $\sqrt{17}$.
 
+
 **Topic:** [[topic_geometria_piana|Plane geometry]]
 **Metodo:** [[method_simmetria|Using symmetry]], [[method_coordinate|Coordinate method]]
-**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_riconoscimento_pattern|Pattern recognition]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_riconoscimento_pattern|Pattern recognition]], [[skill_stima|Estimation and approximation]]
 **Area:** [[Geometria|Geometry]]
 
-[[Quesiti/src_bocconi_finalenaz_2008#q12|src_bocconi_finalenaz_2008__Q12]]
 
 
-
-<span class="atom-split" id="q13" data-atom="q13" data-title="Quesito 13" data-tags="topic_algebra,topic_aritmetica,method_disuguaglianze,skill_manipolazione_algebrica,skill_stima"></span>
+<span class="atom-split" id="q13" data-atom="q13" data-title="Quesito 13" data-tags="topic_algebra,topic_aritmetica,topic_disuguaglianze,method_disuguaglianze,method_fattorizzazione,skill_manipolazione_algebrica,skill_stima"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -429,8 +413,8 @@ level: Finale Nazionale Campionati Internazionali di Giochi Matematici
 
 > Abbiamo diminuito la larghezza e aumentato la lunghezza di un rettangolo di una stessa percentuale intera. Dopo questa deformazione, l'area del rettangolo è diminuita di una percentuale compresa tra il 2% e il 3%. Di quale percentuale sono state modificate la larghezza e la lunghezza originarie ?
 
-**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_disuguaglianze|Disuguaglianze]]
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_disuguaglianze|Disuguaglianze]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze]], [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]]
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 15%, 16% e 17%
@@ -444,16 +428,15 @@ level: Finale Nazionale Campionati Internazionali di Giochi Matematici
 
 > We reduced the width and increased the length of a rectangle by the same whole percentage. After this deformation, the area of the rectangle decreased by a percentage between 2% and 3%. By what percentage were the original width and length changed?
 
-**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Arithmetic / Number theory]]
-**Metodo:** [[method_disuguaglianze|Inequalities]]
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Arithmetic / Number theory]], [[topic_disuguaglianze|Inequalities]]
+**Metodo:** [[method_disuguaglianze|Inequalities]], [[method_fattorizzazione|Factorisation / algebraic manipulation]]
 **Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_stima|Estimation and approximation]]
 **Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
-[[Quesiti/src_bocconi_finalenaz_2008#q13|src_bocconi_finalenaz_2008__Q13]]
 
 
-
-<span class="atom-split" id="q14" data-atom="q14" data-title="Quesito 14" data-tags="topic_aritmetica,topic_combinatoria,method_casework,method_casi_conteggio,skill_casework_accurato,skill_conteggio_sistematico"></span>
+<span class="atom-split" id="q14" data-atom="q14" data-title="Quesito 14" data-tags="topic_aritmetica,topic_combinatoria,method_casework,method_casi_conteggio,skill_casework_accurato,skill_conteggio_sistematico,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -464,7 +447,7 @@ level: Finale Nazionale Campionati Internazionali di Giochi Matematici
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_casework|Casework]], [[method_casi_conteggio|Casi e conteggio]]
-**Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 2469
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1si2d_eBxleyEpK7S_YihktYDt6fcQm8I/view)
@@ -477,12 +460,11 @@ level: Finale Nazionale Campionati Internazionali di Giochi Matematici
 
 > Multiply an integer by 4. Then multiply the same integer by 5. You will thus find that, in total, the results of the two multiplications use each digit from 1 to 9 exactly once. What is the integer you started with?
 
+
 **Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_combinatoria|Combinatorics]]
 **Metodo:** [[method_casework|Case analysis]], [[method_casi_conteggio|Counting by cases]]
-**Abilita:** [[skill_casework_accurato|Careful case analysis]], [[skill_conteggio_sistematico|Systematic counting]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]], [[skill_conteggio_sistematico|Systematic counting]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
-
-[[Quesiti/src_bocconi_finalenaz_2008#q14|src_bocconi_finalenaz_2008__Q14]]
 
 
 
@@ -515,11 +497,9 @@ level: Finale Nazionale Campionati Internazionali di Giochi Matematici
 **Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
 **Area:** [[Geometria|Geometry]]
 
-[[Quesiti/src_bocconi_finalenaz_2008#q15|src_bocconi_finalenaz_2008__Q15]]
 
 
-
-<span class="atom-split" id="q16" data-atom="q16" data-title="Quesito 16" data-tags="topic_algebra,topic_aritmetica,skill_modellizzazione,skill_manipolazione_algebrica"></span>
+<span class="atom-split" id="q16" data-atom="q16" data-title="Quesito 16" data-tags="topic_algebra,topic_aritmetica,method_simmetria,skill_modellizzazione,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -529,7 +509,8 @@ level: Finale Nazionale Campionati Internazionali di Giochi Matematici
 > Nando abita in un paese fantastico, dove i monti e le valli hanno i nomi delle note musicali ! Quando va in macchina da DO a SI, scende da DO a MI a 72 Km/h; va da MI a SOL a 63 Km/h e sale da SOL a SI a 56 Km/h. In totale, ci mette 4 ore. Al ritorno, quando va da SI a DO, Nando scende da SI a SOL a 72 Km/h, va da SOL a MI a 63 Km/h e sale da MI a DO a 56 Km/h. In totale, al ritorno, ci mette 4 ore e 40 minuti. Qual è, in chilometri, la distanza stradale tra DO e SI ?
 
 **Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Metodo:** [[method_simmetria|Sfruttamento della simmetria]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 273 km
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1si2d_eBxleyEpK7S_YihktYDt6fcQm8I/view)
@@ -542,15 +523,15 @@ level: Finale Nazionale Campionati Internazionali di Giochi Matematici
 
 > Nando lives in a fantastic town, where the mountains and valleys have the names of musical notes! When he drives from DO to SI, he descends from DO to MI at 72 km/h; he travels from MI to SOL at 63 km/h and ascends from SOL to SI at 56 km/h. In total, it takes him 4 hours. On the way back, when he drives from SI to DO, Nando descends from SI to SOL at 72 km/h, travels from SOL to MI at 63 km/h, and ascends from MI to DO at 56 km/h. In total, on the way back, it takes him 4 hours and 40 minutes. What is the road distance between DO and SI, in kilometers?
 
+
 **Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_simmetria|Using symmetry]]
 **Abilita:** [[skill_modellizzazione|Modelling / translating the text]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
 **Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
-[[Quesiti/src_bocconi_finalenaz_2008#q16|src_bocconi_finalenaz_2008__Q16]]
 
 
-
-<span class="atom-split" id="q17" data-atom="q17" data-title="Quesito 17" data-tags="topic_logica,topic_combinatoria,method_casework,method_colorazione,skill_casework_accurato,skill_ragionamento_geometrico"></span>
+<span class="atom-split" id="q17" data-atom="q17" data-title="Quesito 17" data-tags="topic_logica,topic_combinatoria,method_casework,method_colorazione,skill_casework_accurato,skill_ragionamento_geometrico,skill_lettura_attenta"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -559,11 +540,11 @@ level: Finale Nazionale Campionati Internazionali di Giochi Matematici
 
 > Il disegno rappresenta uno schema di pavimentazione composto da sedici grandi quadrati. Ognuno dei quadrati grandi è a sua volta diviso in quattro quadratini colorati di bianco e di grigio. I quadrati grandi, orientati, sono tutti diversi. Nel disegno sono stati già inseriti cinque quadratini grigi. I quadratini a contatto in due quadrati grandi devono essere identici. Inoltre, l'ultima riga (in basso) deve essere identica alla prima (in alto) e la prima colonna di quadratini (a sinistra) deve essere identica all'ultima (a destra). Terminare la colorazione dello schema.
 
-![[src_bocconi_finalenaz_2008__q17.png]]
+![[src_bocconi_finalenaz_2008__Q17.png]]
 
 **Topic:** [[topic_logica|Logica]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_casework|Casework]], [[method_colorazione|Colorazione]]
-**Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta del testo]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1si2d_eBxleyEpK7S_YihktYDt6fcQm8I/view)
 
@@ -575,18 +556,17 @@ level: Finale Nazionale Campionati Internazionali di Giochi Matematici
 
 > The drawing shows a paving pattern consisting of sixteen large squares. Each of the large squares is in turn divided into four small squares colored white and gray. The oriented large squares are all different. Five gray small squares have already been placed in the drawing. The small squares that touch each other in two large squares must be identical. Furthermore, the last row (at the bottom) must be identical to the first row (at the top), and the first column of small squares (on the left) must be identical to the last column (on the right). Complete the coloring of the pattern.
 
-![[src_bocconi_finalenaz_2008__q17.png]]
+![[src_bocconi_finalenaz_2008__Q17.png]]
+
 
 **Topic:** [[topic_logica|Logic, games, strategies]], [[topic_combinatoria|Combinatorics]]
 **Metodo:** [[method_casework|Case analysis]], [[method_colorazione|Colouring / parity]]
-**Abilita:** [[skill_casework_accurato|Careful case analysis]], [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]], [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_lettura_attenta|Careful reading of the text]]
 **Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
-[[Quesiti/src_bocconi_finalenaz_2008#q17|src_bocconi_finalenaz_2008__Q17]]
 
 
-
-<span class="atom-split" id="q18" data-atom="q18" data-title="Quesito 18" data-tags="topic_geometria_piana,topic_aritmetica,method_ricorsione,method_fattorizzazione,skill_ragionamento_geometrico,skill_riconoscimento_pattern"></span>
+<span class="atom-split" id="q18" data-atom="q18" data-title="Quesito 18" data-tags="topic_geometria_piana,topic_aritmetica,method_ricorsione,method_fattorizzazione,skill_ragionamento_geometrico,skill_riconoscimento_pattern,skill_manipolazione_algebrica,skill_stima"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -595,11 +575,11 @@ level: Finale Nazionale Campionati Internazionali di Giochi Matematici
 
 > La rete della metropolitana di Math City conta nove stazioni (rappresentate dai punti disegnati sul piano). Su ognuno dei nove tratti rettilinei che collegano tre stazioni, il rapporto tra la distanza maggiore e quella minore è sempre lo stesso. L'area del triangolo equilatero più piccolo è di 1 Km$^2$. Qual è in Km$^2$ (arrotondata al Km$^2$ più vicino) l'area del triangolo equilatero più grande ? Si prenderà, se necessario, $1{,}414$ per $\sqrt{2}$ ; $1{,}732$ per $\sqrt{3}$ ; $2{,}236$ per $\sqrt{5}$ ; $2{,}646$ per $\sqrt{7}$.
 
-![[src_bocconi_finalenaz_2008__q18.png]]
+![[src_bocconi_finalenaz_2008__Q18.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_ricorsione|Ricorsione]], [[method_fattorizzazione|Fattorizzazione]]
-**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima e approssimazione]]
 **Area:** [[Geometria]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 47
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1si2d_eBxleyEpK7S_YihktYDt6fcQm8I/view)
@@ -612,11 +592,10 @@ level: Finale Nazionale Campionati Internazionali di Giochi Matematici
 
 > The subway network of Math City has nine stations (represented by the points drawn on the plane). On each of the nine straight segments connecting three stations, the ratio of the greatest distance to the smallest distance is always the same. The area of the smallest equilateral triangle is 1 Km$^2$. In Km$^2$ (rounded to the nearest Km$^2$), what is the area of the largest equilateral triangle? If necessary, $1{,}414$ will be taken for $\sqrt{2}$; $1{,}732$ for $\sqrt{3}$; $2{,}236$ for $\sqrt{5}$; $2{,}646$ for $\sqrt{7}$.
 
-![[src_bocconi_finalenaz_2008__q18.png]]
+![[src_bocconi_finalenaz_2008__Q18.png]]
+
 
 **Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_aritmetica|Arithmetic / Number theory]]
 **Metodo:** [[method_ricorsione|Recursion]], [[method_fattorizzazione|Factorisation / algebraic manipulation]]
-**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_riconoscimento_pattern|Pattern recognition]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_riconoscimento_pattern|Pattern recognition]], [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_stima|Estimation and approximation]]
 **Area:** [[Geometria|Geometry]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
-
-[[Quesiti/src_bocconi_finalenaz_2008#q18|src_bocconi_finalenaz_2008__Q18]]

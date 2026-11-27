@@ -10,7 +10,7 @@ level: OBM Nível 1
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_aritmetica,method_casework,skill_lettura_attenta,skill_conteggio_sistematico"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_aritmetica,method_casework,skill_lettura_attenta,skill_conteggio_sistematico,skill_riconoscimento_pattern"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -21,8 +21,8 @@ level: OBM Nível 1
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_casework|Casework]]
-**Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_conteggio_sistematico|Conteggio sistematico]]
-**Area:** [[Aritmetica e Teoria dei Numeri]]
+**Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Risposta:** 98
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1hoYpRl3Dh9n6jOGnmy1uEG2UVnt3-DWI/view)
 
@@ -34,19 +34,17 @@ level: OBM Nível 1
 
 > Quante volte compare la cifra $9$ nel risultato dell'operazione $10^{100} - 2003$?
 
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei numeri]]
+**Metodo:** [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 98
 
 **Argomento:** [[topic_aritmetica|Aritmetica / Teoria dei numeri]]
 
-**Metodo:** [[method_casework|Analisi per casi]]
-
-**Abilità:** [[skill_lettura_attenta|Lettura attenta]], [[skill_conteggio_sistematico|Conteggio sistematico]]
-
-[[Quesiti/src_obm_2003_n1_f2#q01|src_obm_2003_n1_f2__Q01]]
 
 
-
-<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_aritmetica,method_conteggio,skill_conteggio_sistematico,skill_manipolazione_algebrica"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_aritmetica,method_conteggio,method_fattorizzazione,skill_conteggio_sistematico,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -56,9 +54,9 @@ level: OBM Nível 1
 > How many positive integers greater than $2003^2$ and less than $2004^2$ are multiples of $100$?
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_conteggio|Conteggio]]
+**Metodo:** [[method_conteggio|Conteggio]], [[method_fattorizzazione|Factorisation / algebraic manipulation]]
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
-**Area:** [[Aritmetica e Teoria dei Numeri]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Risposta:** 40
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1hoYpRl3Dh9n6jOGnmy1uEG2UVnt3-DWI/view)
 
@@ -70,15 +68,13 @@ level: OBM Nível 1
 
 > Quanti interi positivi maggiori di $2003^2$ e minori di $2004^2$ sono multipli di $100$?
 
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei numeri]]
+**Metodo:** [[method_conteggio|Conteggio]], [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 40
 
 **Argomento:** [[topic_aritmetica|Aritmetica / Teoria dei numeri]]
-
-**Metodo:** [[method_conteggio|Conteggio]]
-
-**Abilità:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
-
-[[Quesiti/src_obm_2003_n1_f2#q02|src_obm_2003_n1_f2__Q02]]
 
 
 
@@ -91,7 +87,7 @@ level: OBM Nível 1
 
 > How many triangles are there whose sides lie on some of the segments drawn in the figure to the side?
 
-![[src_obm_2003_n1_f2__q03.png]]
+![[src_obm_2003_n1_f2__Q03.png]]
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]]
@@ -108,7 +104,7 @@ level: OBM Nível 1
 
 > Quanti triangoli hanno i lati su qualcuno dei segmenti disegnati nella figura a lato?
 
-![[src_obm_2003_n1_f2__q03.png]]
+![[src_obm_2003_n1_f2__Q03.png]]
 
 **Risposta:** 17
 
@@ -117,8 +113,7 @@ level: OBM Nível 1
 **Metodo:** [[method_casework|Analisi per casi]], [[method_conteggio|Conteggio]]
 
 **Abilità:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
-
-[[Quesiti/src_obm_2003_n1_f2#q03|src_obm_2003_n1_f2__Q03]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 
 
 
@@ -131,7 +126,7 @@ level: OBM Nível 1
 
 > A student with lots of free time and curiosity decided to do the following: every minute, when changing the hour on his digital clock, he would mark an $X$ in his notebook for each digit $7$ that appeared on the display. So if his clock showed $\mathbf{02{:}07}$ he marked $X$, and when it showed $\mathbf{07{:}17}$ he marked $XX$. He started doing this when the clock showed $\mathbf{01{:}00}$ and stopped almost twelve hours later, when the clock showed $\mathbf{12{:}59}$. Calculate half the number of $X$'s he marked in his notebook.
 
-![[src_obm_2003_n1_f2__q04.png]]
+![[src_obm_2003_n1_f2__Q04.png]]
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]]
@@ -148,7 +143,7 @@ level: OBM Nível 1
 
 > Uno studente con molto tempo libero e molta curiosità decise di fare così: ogni minuto, al cambio dell'ora sul suo orologio digitale, segnava una $X$ sul quaderno per ogni cifra $7$ che compariva sul display. Se l'orologio mostrava $\mathbf{02{:}07}$ segnava $X$, e quando mostrava $\mathbf{07{:}17}$ segnava $XX$. Cominciò quando l'orologio mostrava $\mathbf{01{:}00}$ e smise quasi dodici ore dopo, quando mostrava $\mathbf{12{:}59}$. Calcolare la metà del numero di $X$ che ha segnato sul quaderno.
 
-![[src_obm_2003_n1_f2__q04.png]]
+![[src_obm_2003_n1_f2__Q04.png]]
 
 **Risposta:** 66
 
@@ -157,12 +152,11 @@ level: OBM Nível 1
 **Metodo:** [[method_casework|Analisi per casi]], [[method_conteggio|Conteggio]]
 
 **Abilità:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]]
-
-[[Quesiti/src_obm_2003_n1_f2#q04|src_obm_2003_n1_f2__Q04]]
-
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 
 
-<span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_aritmetica,topic_combinatoria,method_casework,skill_modellizzazione,skill_lettura_attenta"></span>
+
+<span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_aritmetica,topic_combinatoria,method_casework,method_congruenze,skill_modellizzazione,skill_lettura_attenta,skill_ragionamento_geometrico"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -171,12 +165,12 @@ level: OBM Nível 1
 
 > The great attraction of OBM Park is a giant Ferris wheel (the figure shows a giant Ferris wheel, but with a smaller number of cabins). The cabins are numbered $1, 2, 3, \ldots$ in clockwise order. When cabin $25$ is at the lowest position of the Ferris wheel, cabin $8$ is at the highest position. How many cabins does the Ferris wheel have?
 
-![[src_obm_2003_n1_f2__q05.png]]
+![[src_obm_2003_n1_f2__Q05.png]]
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
-**Metodo:** [[method_casework|Casework]]
-**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_lettura_attenta|Lettura attenta]]
-**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+**Metodo:** [[method_casework|Casework]], [[method_congruenze|Modular arithmetic / congruences]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_lettura_attenta|Lettura attenta]], [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Risposta:** 34
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1hoYpRl3Dh9n6jOGnmy1uEG2UVnt3-DWI/view)
 
@@ -188,17 +182,15 @@ level: OBM Nível 1
 
 > La grande attrazione del parco dell'OBM è una ruota panoramica gigante (la figura ne mostra una, ma con meno cabine). Le cabine sono numerate $1, 2, 3, \ldots$ in senso orario. Quando la cabina $25$ è nel punto più basso della ruota, la cabina $8$ è nel punto più alto. Quante cabine ha la ruota?
 
-![[src_obm_2003_n1_f2__q05.png]]
+![[src_obm_2003_n1_f2__Q05.png]]
 
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casework|Analisi per casi]], [[method_congruenze|Aritmetica modulare / congruenze]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_lettura_attenta|Lettura attenta]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 34
 
 **Argomento:** [[topic_aritmetica|Aritmetica / Teoria dei numeri]], [[topic_combinatoria|Combinatoria]]
-
-**Metodo:** [[method_casework|Analisi per casi]]
-
-**Abilità:** [[skill_modellizzazione|Modellizzazione]], [[skill_lettura_attenta|Lettura attenta]]
-
-[[Quesiti/src_obm_2003_n1_f2#q05|src_obm_2003_n1_f2__Q05]]
 
 
 
@@ -233,12 +225,11 @@ level: OBM Nível 1
 **Metodo:** [[method_conteggio|Conteggio]], [[method_inclusione_esclusione|Inclusione-esclusione]]
 
 **Abilità:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]]
-
-[[Quesiti/src_obm_2003_n1_f2#q06|src_obm_2003_n1_f2__Q06]]
-
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 
 
-<span class="atom-split" id="q07" data-atom="q07" data-title="Quesito 7" data-tags="topic_aritmetica,topic_combinatoria,method_estremalita,method_casework,skill_modellizzazione,skill_ragionamento_geometrico,skill_stima"></span>
+
+<span class="atom-split" id="q07" data-atom="q07" data-title="Quesito 7" data-tags="topic_aritmetica,topic_combinatoria,method_estremalita,method_casework,skill_modellizzazione,skill_ragionamento_geometrico,skill_stima,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -247,12 +238,12 @@ level: OBM Nível 1
 
 > On a standard die the sum of dots on opposite faces is always $7$. Beatriz built a tower with $4$ identical dice, gluing the faces together as shown in the figure. What is the minimum number of dots that Beatriz can obtain by summing all the dots on the exposed faces of the tower?
 
-![[src_obm_2003_n1_f2__q07.png]]
+![[src_obm_2003_n1_f2__Q07.png]]
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_estremalita|Estremalità]], [[method_casework|Casework]]
-**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_stima|Stima]]
-**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_stima|Stima]], [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Risposta:** 58
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1hoYpRl3Dh9n6jOGnmy1uEG2UVnt3-DWI/view)
 
@@ -264,21 +255,19 @@ level: OBM Nível 1
 
 > Su un dado ordinario la somma dei pallini di due facce opposte è sempre $7$. Beatriz ha costruito una torre con $4$ dadi identici, incollando le facce come in figura. Qual è il minimo numero di pallini che Beatriz può ottenere sommando tutti i pallini sulle facce esposte della torre?
 
-![[src_obm_2003_n1_f2__q07.png]]
+![[src_obm_2003_n1_f2__Q07.png]]
 
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_stima|Stima]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 58
 
 **Argomento:** [[topic_aritmetica|Aritmetica / Teoria dei numeri]], [[topic_combinatoria|Combinatoria]]
 
-**Metodo:** [[method_estremalita|Estremalità]], [[method_casework|Analisi per casi]]
-
-**Abilità:** [[skill_modellizzazione|Modellizzazione]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_stima|Stima]]
-
-[[Quesiti/src_obm_2003_n1_f2#q07|src_obm_2003_n1_f2__Q07]]
 
 
-
-<span class="atom-split" id="q08" data-atom="q08" data-title="Quesito 8" data-tags="topic_aritmetica,method_casework,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
+<span class="atom-split" id="q08" data-atom="q08" data-title="Quesito 8" data-tags="topic_aritmetica,method_casework,method_congruenze,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -290,9 +279,9 @@ level: OBM Nível 1
 > Calculate $b + c + d$.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_casework|Casework]]
+**Metodo:** [[method_casework|Casework]], [[method_congruenze|Modular arithmetic / congruences]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
-**Area:** [[Aritmetica e Teoria dei Numeri]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Risposta:** 15
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1hoYpRl3Dh9n6jOGnmy1uEG2UVnt3-DWI/view)
 
@@ -312,15 +301,13 @@ $$\begin{array}{r} 45 \\ \times\; a3 \\ \hline 3bcd \end{array}$$
 >
 > Calcolare $b + c + d$.
 
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei numeri]]
+**Metodo:** [[method_casework|Analisi per casi]], [[method_congruenze|Aritmetica modulare / congruenze]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 15
 
 **Argomento:** [[topic_aritmetica|Aritmetica / Teoria dei numeri]]
-
-**Metodo:** [[method_casework|Analisi per casi]]
-
-**Abilità:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
-
-[[Quesiti/src_obm_2003_n1_f2#q08|src_obm_2003_n1_f2__Q08]]
 
 
 
@@ -355,8 +342,7 @@ $$\begin{array}{r} 45 \\ \times\; a3 \\ \hline 3bcd \end{array}$$
 **Metodo:** [[method_estremalita|Estremalità]]
 
 **Abilità:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]]
-
-[[Quesiti/src_obm_2003_n1_f2#q09|src_obm_2003_n1_f2__Q09]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 
 
 
@@ -369,7 +355,7 @@ $$\begin{array}{r} 45 \\ \times\; a3 \\ \hline 3bcd \end{array}$$
 
 > Nine different domino pieces are placed on a table, partially covered by a piece of paper. The dominoes touch each other so that $1$ dot is adjacent to $1$ dot, $2$ dots are adjacent to $2$ dots, etc. What is the total number of dots hidden by the paper?
 
-![[src_obm_2003_n1_f2__q10.png]]
+![[src_obm_2003_n1_f2__Q10.png]]
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_logica|Logica]]
 **Metodo:** [[method_casework|Casework]], [[method_invarianti|Invarianti]]
@@ -386,7 +372,7 @@ $$\begin{array}{r} 45 \\ \times\; a3 \\ \hline 3bcd \end{array}$$
 
 > Nove tessere di domino diverse sono sul tavolo, in parte coperte da un foglio. Si toccano in modo che $1$ pallino sia adiacente a $1$ pallino, $2$ pallini siano adiacenti a $2$ pallini, e così via. Qual è il numero totale di pallini nascosti dal foglio?
 
-![[src_obm_2003_n1_f2__q10.png]]
+![[src_obm_2003_n1_f2__Q10.png]]
 
 **Risposta:** 22
 
@@ -395,12 +381,11 @@ $$\begin{array}{r} 45 \\ \times\; a3 \\ \hline 3bcd \end{array}$$
 **Metodo:** [[method_casework|Analisi per casi]], [[method_invarianti|Invarianti]]
 
 **Abilità:** [[skill_lettura_attenta|Lettura attenta]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_conteggio_sistematico|Conteggio sistematico]]
-
-[[Quesiti/src_obm_2003_n1_f2#q10|src_obm_2003_n1_f2__Q10]]
-
+**Area:** [[Combinatoria, Logica e Probabilita]]
 
 
-<span class="atom-split" id="q11" data-atom="q11" data-title="Quesito 11" data-tags="topic_aritmetica,topic_combinatoria,method_casework,method_conteggio,skill_conteggio_sistematico,skill_riconoscimento_pattern,skill_manipolazione_algebrica"></span>
+
+<span class="atom-split" id="q11" data-atom="q11" data-title="Quesito 11" data-tags="topic_aritmetica,topic_combinatoria,method_casework,method_conteggio,method_bigezione,skill_conteggio_sistematico,skill_riconoscimento_pattern,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -410,9 +395,9 @@ $$\begin{array}{r} 45 \\ \times\; a3 \\ \hline 3bcd \end{array}$$
 > Which positive integers less than $120$ can be written as a sum of two or more distinct powers of $3$ with non-negative exponents? For example, $12 = 3^1 + 3^2$ is one such number, but $18 = 3^1 + 3^2 + 3^1$ is not (the exponent $1$ is repeated). Find all such numbers.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
-**Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]]
+**Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]], [[method_bigezione|Bijection / correspondence]]
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
-**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1hoYpRl3Dh9n6jOGnmy1uEG2UVnt3-DWI/view)
 
 
@@ -425,11 +410,12 @@ $$\begin{array}{r} 45 \\ \times\; a3 \\ \hline 3bcd \end{array}$$
 
 **Argomento:** [[topic_aritmetica|Aritmetica / Teoria dei numeri]], [[topic_combinatoria|Combinatoria]]
 
-**Metodo:** [[method_casework|Analisi per casi]], [[method_conteggio|Conteggio]]
 
-**Abilità:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 
-[[Quesiti/src_obm_2003_n1_f2#q11|src_obm_2003_n1_f2__Q11]]
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casework|Analisi per casi]], [[method_conteggio|Conteggio]], [[method_bigezione|Bigezione / corrispondenza]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 
 
 
@@ -442,7 +428,7 @@ $$\begin{array}{r} 45 \\ \times\; a3 \\ \hline 3bcd \end{array}$$
 
 > In the figure, square $ABCD$ has area $64\text{ cm}^2$ and square $FHIJ$ has area $36\text{ cm}^2$. The vertices $A$, $D$, $E$, $H$, and $I$ lie on the same straight line. Calculate the area of square $BEFG$.
 
-![[src_obm_2003_n1_f2__q12.png]]
+![[src_obm_2003_n1_f2__Q12.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_coordinate|Coordinate]]
@@ -459,7 +445,7 @@ $$\begin{array}{r} 45 \\ \times\; a3 \\ \hline 3bcd \end{array}$$
 
 > Nella figura il quadrato $ABCD$ ha area $64\text{ cm}^2$ e il quadrato $FHIJ$ ha area $36\text{ cm}^2$. I vertici $A$, $D$, $E$, $H$ e $I$ stanno sulla stessa retta. Calcolare l'area del quadrato $BEFG$.
 
-![[src_obm_2003_n1_f2__q12.png]]
+![[src_obm_2003_n1_f2__Q12.png]]
 
 **Risposta:** 100
 
@@ -468,8 +454,7 @@ $$\begin{array}{r} 45 \\ \times\; a3 \\ \hline 3bcd \end{array}$$
 **Metodo:** [[method_coordinate|Coordinate]]
 
 **Abilità:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
-
-[[Quesiti/src_obm_2003_n1_f2#q12|src_obm_2003_n1_f2__Q12]]
+**Area:** [[Geometria]]
 
 
 
@@ -501,5 +486,4 @@ $$\begin{array}{r} 45 \\ \times\; a3 \\ \hline 3bcd \end{array}$$
 **Metodo:** [[method_casework|Analisi per casi]], [[method_fattorizzazione|Fattorizzazione]]
 
 **Abilità:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
-
-[[Quesiti/src_obm_2003_n1_f2#q13|src_obm_2003_n1_f2__Q13]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]

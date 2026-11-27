@@ -54,11 +54,9 @@ level: BMO Round 2
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Algebra e Analisi|Algebra e analisi]]
 
-[[Quesiti/src_bmo2_1977#q01|src_bmo2_1977__Q01]]
 
 
-
-<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_geometria_piana,topic_geometria_solida,method_simmetria,skill_ragionamento_geometrico,skill_lettura_attenta"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_geometria_piana,topic_geometria_solida,method_simmetria,skill_ragionamento_geometrico,skill_lettura_attenta,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -69,8 +67,8 @@ level: BMO Round 2
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_geometria_solida|Geometria solida]]
 **Metodo:** [[method_simmetria|Simmetria]]
-**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
-**Area:** [[Geometria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Geometria|Geometry]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1PfHyGgG6orc2O_4a738MuIYaBULKOH3v/view)
 
 
@@ -81,12 +79,11 @@ level: BMO Round 2
 
 > Una piramide si ottiene congiungendo i vertici di un quadrilatero piano $ABCD$, la «base», a un punto $V$ fuori dal suo piano. Si trova che le circonferenze inscritte di ogni coppia di facce triangolari adiacenti sono tangenti fra loro. Dimostrare che i punti di contatto delle circonferenze inscritte con la base della piramide stanno su una circonferenza.
 
+
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_geometria_solida|Geometria solida]]
 **Metodo:** [[method_simmetria|Simmetria]]
-**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria|Geometria]]
-
-[[Quesiti/src_bmo2_1977#q02|src_bmo2_1977__Q02]]
 
 
 
@@ -130,11 +127,9 @@ level: BMO Round 2
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Aritmetica e teoria dei numeri]]
 
-[[Quesiti/src_bmo2_1977#q03|src_bmo2_1977__Q03]]
 
 
-
-<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_combinatoria,method_conteggio,method_induzione,method_casework,skill_conteggio_sistematico,skill_modellizzazione,skill_riconoscimento_pattern,skill_astrazione"></span>
+<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_combinatoria,method_conteggio,method_induzione,method_casework,method_grafi,skill_conteggio_sistematico,skill_modellizzazione,skill_riconoscimento_pattern,skill_astrazione"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -144,9 +139,9 @@ level: BMO Round 2
 > Prove that for each integer $n > 1$ it is possible to construct a necklace having $2n!$ beads in all, these beads in $n$ different colours, in such a way that for each pair of different colours there is at least one pair of adjacent beads of these two colours. Is it possible to do the same using $2^{n-1}$ beads in all? Give a reason for your answer. (A "necklace" is a circular arrangement of beads, with no fastener intervening; an ample supply of beads of all the colours is assumed to be available.)
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
-**Metodo:** [[method_conteggio|Conteggio]], [[method_induzione|Induzione]], [[method_casework|Casework]]
+**Metodo:** [[method_conteggio|Conteggio]], [[method_induzione|Induzione]], [[method_casework|Casework]], [[method_grafi|Graph theory]]
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_astrazione|Astrazione]]
-**Area:** [[Combinatoria, Logica e Probabilita]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1PfHyGgG6orc2O_4a738MuIYaBULKOH3v/view)
 
 
@@ -157,9 +152,8 @@ level: BMO Round 2
 
 > Dimostrare che per ogni intero $n > 1$ è possibile costruire una collana con $2n!$ perline in tutto, queste perline in $n$ colori diversi, in modo che per ogni coppia di colori diversi ci sia almeno una coppia di perline adiacenti di quei due colori. È possibile fare lo stesso usando $2^{n-1}$ perline in tutto? Motivare la risposta. (Una «collana» è una disposizione circolare di perline, senza fermaglio interposto; si assume disponibile una scorta ampia di perline di tutti i colori.)
 
+
 **Topic:** [[topic_combinatoria|Combinatoria]]
-**Metodo:** [[method_conteggio|Conteggio]], [[method_induzione|Induzione]], [[method_casework|Analisi per casi]]
+**Metodo:** [[method_conteggio|Conteggio]], [[method_induzione|Induzione]], [[method_casework|Analisi per casi]], [[method_grafi|Teoria dei grafi]]
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_astrazione|Astrazione]]
 **Area:** [[Combinatoria, Logica e Probabilita|Combinatoria, logica e probabilità]]
-
-[[Quesiti/src_bmo2_1977#q04|src_bmo2_1977__Q04]]

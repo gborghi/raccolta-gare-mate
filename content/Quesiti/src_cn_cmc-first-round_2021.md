@@ -10,7 +10,7 @@ level: China Mathematical Competition (First Round)
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_algebra,skill_manipolazione_algebrica"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_algebra,topic_funzionali,method_fattorizzazione,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -19,9 +19,10 @@ level: China Mathematical Competition (First Round)
 
 > [Test Paper A, Problem 1] Suppose that arithmetic sequence $\{a_n\}$ satisfies $a_{2021}=a_{20}+a_{21}=1$. Then the first term $a_1$ is ______.
 
-**Topic:** [[topic_algebra|Algebra]]
+**Topic:** [[topic_algebra|Algebra]], [[topic_funzionali|Functional equations / sequences]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
-**Area:** [[Algebra e Analisi]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
 **Risposta:** $a_1=\dfrac{1981}{4001}$
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1OFC5fmTEMyWQSx2doV1_Jplo27sQCZ_A/view)
 
@@ -37,15 +38,15 @@ level: China Mathematical Competition (First Round)
 
 > [!warning] Estratto da verificare con la fonte.
 
-**Topic:** [[topic_algebra|Algebra]]
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_funzionali|Equazioni funzionali / successioni]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Algebra e Analisi]]
 
-[[Quesiti/src_cn_cmc-first-round_2021#q01|src_cn_cmc-first-round_2021__Q01]]
 
 
-
-<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_insiemi_funzioni,topic_algebra,method_casework,skill_casework_accurato"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_insiemi_funzioni,topic_algebra,method_casework,skill_casework_accurato,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -56,8 +57,8 @@ level: China Mathematical Competition (First Round)
 
 **Topic:** [[topic_insiemi_funzioni|Insiemi e funzioni]], [[topic_algebra|Algebra]]
 **Metodo:** [[method_casework|Casework]]
-**Abilita:** [[skill_casework_accurato|Casework accurato]]
-**Area:** [[Algebra e Analisi]]
+**Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_lettura_attenta|Careful reading of the text]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
 **Risposta:** -8
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1OFC5fmTEMyWQSx2doV1_Jplo27sQCZ_A/view)
 
@@ -73,12 +74,11 @@ level: China Mathematical Competition (First Round)
 
 > [!warning] Estratto da verificare con la fonte.
 
+
 **Topic:** [[topic_insiemi_funzioni|Insiemi e funzioni]], [[topic_algebra|Algebra]]
 **Metodo:** [[method_casework|Casework]]
-**Abilita:** [[skill_casework_accurato|Casework accurato]]
+**Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta del testo]]
 **Area:** [[Algebra e Analisi]]
-
-[[Quesiti/src_cn_cmc-first-round_2021#q02|src_cn_cmc-first-round_2021__Q02]]
 
 
 
@@ -115,8 +115,6 @@ level: China Mathematical Competition (First Round)
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Algebra e Analisi]]
 
-[[Quesiti/src_cn_cmc-first-round_2021#q03|src_cn_cmc-first-round_2021__Q03]]
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_funzionali,topic_trigonometria,method_casework,method_trigonometria,skill_manipolazione_algebrica,skill_casework_accurato"></span>
@@ -151,8 +149,6 @@ level: China Mathematical Competition (First Round)
 **Metodo:** [[method_casework|Casework]], [[method_trigonometria|Trigonometria]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Algebra e Analisi]], [[Geometria]]
-
-[[Quesiti/src_cn_cmc-first-round_2021#q04|src_cn_cmc-first-round_2021__Q04]]
 
 
 
@@ -189,8 +185,6 @@ level: China Mathematical Competition (First Round)
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 
-[[Quesiti/src_cn_cmc-first-round_2021#q05|src_cn_cmc-first-round_2021__Q05]]
-
 
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_geometria_analitica,method_coordinate,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
@@ -224,8 +218,6 @@ level: China Mathematical Competition (First Round)
 **Metodo:** [[method_coordinate|Coordinate]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
-
-[[Quesiti/src_cn_cmc-first-round_2021#q06|src_cn_cmc-first-round_2021__Q06]]
 
 
 
@@ -262,11 +254,9 @@ level: China Mathematical Competition (First Round)
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 
-[[Quesiti/src_cn_cmc-first-round_2021#q07|src_cn_cmc-first-round_2021__Q07]]
 
 
-
-<span class="atom-split" id="q08" data-atom="q08" data-title="Quesito 8" data-tags="topic_aritmetica,topic_combinatoria,method_fattorizzazione,method_conteggio,skill_conteggio_sistematico,skill_riconoscimento_pattern"></span>
+<span class="atom-split" id="q08" data-atom="q08" data-title="Quesito 8" data-tags="topic_aritmetica,topic_combinatoria,method_fattorizzazione,method_conteggio,method_casi_conteggio,skill_conteggio_sistematico,skill_riconoscimento_pattern"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -276,9 +266,9 @@ level: China Mathematical Competition (First Round)
 > [Test Paper A, Problem 8] Given rational number $r=\dfrac{p}{q}\in(0,1)$, $p,q$ are coprime positive integers, and $pq$ divides $3600$. The number of such rational numbers $r$ is ______.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
-**Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_conteggio|Conteggio]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_conteggio|Conteggio]], [[method_casi_conteggio|Counting by cases]]
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
-**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1OFC5fmTEMyWQSx2doV1_Jplo27sQCZ_A/view)
 
 > [!warning] Estratto da verificare con la fonte.
@@ -293,16 +283,15 @@ level: China Mathematical Competition (First Round)
 
 > [!warning] Estratto da verificare con la fonte.
 
+
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
-**Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_conteggio|Conteggio]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_conteggio|Conteggio]], [[method_casi_conteggio|Conteggio per casi]]
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 
-[[Quesiti/src_cn_cmc-first-round_2021#q08|src_cn_cmc-first-round_2021__Q08]]
 
 
-
-<span class="atom-split" id="q09" data-atom="q09" data-title="Quesito 9" data-tags="topic_algebra,method_ricorsione,method_induzione,skill_manipolazione_algebrica,skill_riconoscimento_pattern"></span>
+<span class="atom-split" id="q09" data-atom="q09" data-title="Quesito 9" data-tags="topic_algebra,topic_funzionali,method_ricorsione,method_induzione,skill_manipolazione_algebrica,skill_riconoscimento_pattern"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -311,10 +300,10 @@ level: China Mathematical Competition (First Round)
 
 > [Test Paper A, Problem 9] (16 marks) Let complex sequence $\{z_n\}$ satisfy $$z_1=\frac{\sqrt{3}}{2},\quad z_{n+1}=\overline{z_n}(1+z_n\mathrm{i})\quad(n=1,2,\ldots),$$ where $\mathrm{i}$ is the imaginary unit. Find the value of $z_{2021}$.
 
-**Topic:** [[topic_algebra|Algebra]]
+**Topic:** [[topic_algebra|Algebra]], [[topic_funzionali|Functional equations / sequences]]
 **Metodo:** [[method_ricorsione|Ricorsione]], [[method_induzione|Induzione]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
-**Area:** [[Algebra e Analisi]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
 **Risposta:** $z_{2021}=\dfrac{\sqrt{3}}{2}+\left(\dfrac{1}{2}+\dfrac{1}{2^{2^{2020}}}\right)\mathrm{i}$
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1OFC5fmTEMyWQSx2doV1_Jplo27sQCZ_A/view)
 
@@ -330,12 +319,11 @@ level: China Mathematical Competition (First Round)
 
 > [!warning] Estratto da verificare con la fonte.
 
-**Topic:** [[topic_algebra|Algebra]]
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_funzionali|Equazioni funzionali / successioni]]
 **Metodo:** [[method_ricorsione|Ricorsione]], [[method_induzione|Induzione]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Algebra e Analisi]]
-
-[[Quesiti/src_cn_cmc-first-round_2021#q09|src_cn_cmc-first-round_2021__Q09]]
 
 
 
@@ -371,11 +359,9 @@ level: China Mathematical Competition (First Round)
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Geometria]], [[Algebra e Analisi]]
 
-[[Quesiti/src_cn_cmc-first-round_2021#q10|src_cn_cmc-first-round_2021__Q10]]
 
 
-
-<span class="atom-split" id="q11" data-atom="q11" data-title="Quesito 11" data-tags="topic_geometria_solida,topic_trigonometria,method_coordinate,method_disuguaglianze,method_trigonometria,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
+<span class="atom-split" id="q11" data-atom="q11" data-title="Quesito 11" data-tags="topic_geometria_solida,topic_trigonometria,topic_disuguaglianze,method_coordinate,method_disuguaglianze,method_trigonometria,method_estremalita,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -384,12 +370,12 @@ level: China Mathematical Competition (First Round)
 
 > [Test Paper A, Problem 11] (20 marks) The edge length of cube $ABCD-EFGH$ is $2$. Take any point $P_1$ on the incircle of square $ABFE$, take any point $P_2$ on the incircle of square $BCGF$, and take any point $P_3$ on the incircle of square $EFGH$. Find the minimum and maximum of $|P_1P_2|+|P_2P_3|+|P_3P_1|$.
 
-![[src_cn_cmc-first-round_2021__q11.png]]
+![[src_cn_cmc-first-round_2021__Q11.png]]
 
-**Topic:** [[topic_geometria_solida|Geometria solida]], [[topic_trigonometria|Trigonometria]]
-**Metodo:** [[method_coordinate|Coordinate]], [[method_disuguaglianze|Disuguaglianze]], [[method_trigonometria|Trigonometria]]
+**Topic:** [[topic_geometria_solida|Geometria solida]], [[topic_trigonometria|Trigonometria]], [[topic_disuguaglianze|Inequalities]]
+**Metodo:** [[method_coordinate|Coordinate]], [[method_disuguaglianze|Disuguaglianze]], [[method_trigonometria|Trigonometria]], [[method_estremalita|Extremal principle]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
-**Area:** [[Geometria]]
+**Area:** [[Geometria|Geometry]], [[Algebra e Analisi|Algebra and analysis]]
 **Risposta:** $\text{min } 3\sqrt{2}-3,\ \text{max } 3\sqrt{6}$
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1OFC5fmTEMyWQSx2doV1_Jplo27sQCZ_A/view)
 
@@ -403,20 +389,19 @@ level: China Mathematical Competition (First Round)
 
 > [Esercizio A, Problema 11] (20 punti) Il lato del cubo $ABCD-EFGH$ misura $2$. Si prenda un punto qualsiasi $P_1$ sull'incirconferenza del quadrato $ABFE$, un punto qualsiasi $P_2$ sull'incirconferenza del quadrato $BCGF$ e un punto qualsiasi $P_3$ sull'incirconferenza del quadrato $EFGH$. Si determinino il minimo e il massimo di $|P_1P_2|+|P_2P_3|+|P_3P_1|$.
 
-![[src_cn_cmc-first-round_2021__q11.png]]
+![[src_cn_cmc-first-round_2021__Q11.png]]
 
 > [!warning] Estratto da verificare con la fonte.
 
-**Topic:** [[topic_geometria_solida|Geometria solida]], [[topic_trigonometria|Trigonometria]]
-**Metodo:** [[method_coordinate|Coordinate]], [[method_disuguaglianze|Disuguaglianze]], [[method_trigonometria|Trigonometria]]
+
+**Topic:** [[topic_geometria_solida|Geometria solida]], [[topic_trigonometria|Trigonometria]], [[topic_disuguaglianze|Disuguaglianze]]
+**Metodo:** [[method_coordinate|Coordinate]], [[method_disuguaglianze|Disuguaglianze]], [[method_trigonometria|Trigonometria]], [[method_estremalita|Principio di estremalita]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
-**Area:** [[Geometria]]
-
-[[Quesiti/src_cn_cmc-first-round_2021#q11|src_cn_cmc-first-round_2021__Q11]]
+**Area:** [[Geometria]], [[Algebra e Analisi]]
 
 
 
-<span class="atom-split" id="q12" data-atom="q12" data-title="Quesito 12" data-tags="topic_insiemi_funzioni,method_conteggio,skill_conteggio_sistematico"></span>
+<span class="atom-split" id="q12" data-atom="q12" data-title="Quesito 12" data-tags="topic_insiemi_funzioni,method_conteggio,method_casework,skill_conteggio_sistematico,skill_casework_accurato,skill_lettura_attenta"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -426,9 +411,9 @@ level: China Mathematical Competition (First Round)
 > [Test Paper A1, Problem 1] Suppose that $A=\{1,2,3\}$, $B=\{2x+y\mid x,y\in A,\ x<y\}$, $C=\{2x+y\mid x,y\in A,\ x>y\}$. Then the sum of all the elements of $B\cap C$ is ______.
 
 **Topic:** [[topic_insiemi_funzioni|Insiemi e funzioni]]
-**Metodo:** [[method_conteggio|Conteggio]]
-**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
-**Area:** [[Algebra e Analisi]]
+**Metodo:** [[method_conteggio|Conteggio]], [[method_casework|Case analysis]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Careful case analysis]], [[skill_lettura_attenta|Careful reading of the text]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
 **Risposta:** 12
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1OFC5fmTEMyWQSx2doV1_Jplo27sQCZ_A/view)
 
@@ -444,16 +429,15 @@ level: China Mathematical Competition (First Round)
 
 > [!warning] Estratto da verificare con la fonte.
 
+
 **Topic:** [[topic_insiemi_funzioni|Insiemi e funzioni]]
-**Metodo:** [[method_conteggio|Conteggio]]
-**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Metodo:** [[method_conteggio|Conteggio]], [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]], [[skill_lettura_attenta|Lettura attenta del testo]]
 **Area:** [[Algebra e Analisi]]
 
-[[Quesiti/src_cn_cmc-first-round_2021#q12|src_cn_cmc-first-round_2021__Q12]]
 
 
-
-<span class="atom-split" id="q13" data-atom="q13" data-title="Quesito 13" data-tags="topic_algebra,topic_geometria_analitica,method_disuguaglianze,skill_manipolazione_algebrica"></span>
+<span class="atom-split" id="q13" data-atom="q13" data-title="Quesito 13" data-tags="topic_algebra,topic_geometria_analitica,topic_disuguaglianze,method_disuguaglianze,method_fattorizzazione,skill_manipolazione_algebrica,skill_riconoscimento_pattern"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -462,10 +446,10 @@ level: China Mathematical Competition (First Round)
 
 > [Test Paper A1, Problem 2] Given vectors $\vec{a}=(1+2^m,1-2^m)$, $\vec{b}=(4^m-3,4^m+5)$, suppose $m$ is real. Then the minimum of the dot product $\vec{a}\cdot\vec{b}$ is ______.
 
-**Topic:** [[topic_algebra|Algebra]], [[topic_geometria_analitica|Geometria analitica]]
-**Metodo:** [[method_disuguaglianze|Disuguaglianze]]
-**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
-**Area:** [[Algebra e Analisi]], [[Geometria]]
+**Topic:** [[topic_algebra|Algebra]], [[topic_geometria_analitica|Geometria analitica]], [[topic_disuguaglianze|Inequalities]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze]], [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Geometria|Geometry]]
 **Risposta:** -6
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1OFC5fmTEMyWQSx2doV1_Jplo27sQCZ_A/view)
 
@@ -481,16 +465,15 @@ level: China Mathematical Competition (First Round)
 
 > [!warning] Estratto da verificare con la fonte.
 
-**Topic:** [[topic_algebra|Algebra]], [[topic_geometria_analitica|Geometria analitica]]
-**Metodo:** [[method_disuguaglianze|Disuguaglianze]]
-**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_geometria_analitica|Geometria analitica]], [[topic_disuguaglianze|Disuguaglianze]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze]], [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Algebra e Analisi]], [[Geometria]]
 
-[[Quesiti/src_cn_cmc-first-round_2021#q13|src_cn_cmc-first-round_2021__Q13]]
 
 
-
-<span class="atom-split" id="q14" data-atom="q14" data-title="Quesito 14" data-tags="topic_trigonometria,topic_geometria_piana,method_trigonometria,skill_manipolazione_algebrica"></span>
+<span class="atom-split" id="q14" data-atom="q14" data-title="Quesito 14" data-tags="topic_trigonometria,topic_geometria_piana,topic_algebra,method_trigonometria,skill_manipolazione_algebrica,skill_ragionamento_geometrico"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -499,10 +482,10 @@ level: China Mathematical Competition (First Round)
 
 > [Test Paper A1, Problem 3] In $\triangle ABC$, $\tan A$ and $\tan B$ are the two roots of equation $x^2-10x+6=0$. Then the value of $\cos C$ is ______.
 
-**Topic:** [[topic_trigonometria|Trigonometria]], [[topic_geometria_piana|Geometria piana]]
+**Topic:** [[topic_trigonometria|Trigonometria]], [[topic_geometria_piana|Geometria piana]], [[topic_algebra|Algebra]]
 **Metodo:** [[method_trigonometria|Trigonometria]]
-**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
-**Area:** [[Geometria]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]], [[Algebra e Analisi|Algebra and analysis]]
 **Risposta:** $\dfrac{\sqrt{5}}{5}$
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1OFC5fmTEMyWQSx2doV1_Jplo27sQCZ_A/view)
 
@@ -518,12 +501,11 @@ level: China Mathematical Competition (First Round)
 
 > [!warning] Estratto da verificare con la fonte.
 
-**Topic:** [[topic_trigonometria|Trigonometria]], [[topic_geometria_piana|Geometria piana]]
-**Metodo:** [[method_trigonometria|Trigonometria]]
-**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
-**Area:** [[Geometria]]
 
-[[Quesiti/src_cn_cmc-first-round_2021#q14|src_cn_cmc-first-round_2021__Q14]]
+**Topic:** [[topic_trigonometria|Trigonometria]], [[topic_geometria_piana|Geometria piana]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_trigonometria|Trigonometria]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Geometria]], [[Algebra e Analisi]]
 
 
 
@@ -560,11 +542,9 @@ level: China Mathematical Competition (First Round)
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 
-[[Quesiti/src_cn_cmc-first-round_2021#q15|src_cn_cmc-first-round_2021__Q15]]
 
 
-
-<span class="atom-split" id="q16" data-atom="q16" data-title="Quesito 16" data-tags="topic_algebra,method_induzione,method_ricorsione,skill_riconoscimento_pattern,skill_manipolazione_algebrica"></span>
+<span class="atom-split" id="q16" data-atom="q16" data-title="Quesito 16" data-tags="topic_algebra,topic_funzionali,method_induzione,method_ricorsione,skill_riconoscimento_pattern,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -573,10 +553,10 @@ level: China Mathematical Competition (First Round)
 
 > [Test Paper A1, Problem 5] Let sequence $\{a_n\}$ satisfy $a_1=1$, $a_n=\dfrac{1}{4a_{n-1}}+\dfrac{1}{n}\ (n\ge 2)$. Then the value of $a_{100}$ is ______.
 
-**Topic:** [[topic_algebra|Algebra]]
+**Topic:** [[topic_algebra|Algebra]], [[topic_funzionali|Functional equations / sequences]]
 **Metodo:** [[method_induzione|Induzione]], [[method_ricorsione|Ricorsione]]
 **Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
-**Area:** [[Algebra e Analisi]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
 **Risposta:** $\dfrac{101}{200}$
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1OFC5fmTEMyWQSx2doV1_Jplo27sQCZ_A/view)
 
@@ -592,16 +572,15 @@ level: China Mathematical Competition (First Round)
 
 > [!warning] Estratto da verificare con la fonte.
 
-**Topic:** [[topic_algebra|Algebra]]
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_funzionali|Equazioni funzionali / successioni]]
 **Metodo:** [[method_induzione|Induzione]], [[method_ricorsione|Ricorsione]]
 **Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Algebra e Analisi]]
 
-[[Quesiti/src_cn_cmc-first-round_2021#q16|src_cn_cmc-first-round_2021__Q16]]
 
 
-
-<span class="atom-split" id="q17" data-atom="q17" data-title="Quesito 17" data-tags="topic_geometria_solida,method_coordinate,skill_ragionamento_geometrico"></span>
+<span class="atom-split" id="q17" data-atom="q17" data-title="Quesito 17" data-tags="topic_geometria_solida,method_coordinate,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -612,8 +591,8 @@ level: China Mathematical Competition (First Round)
 
 **Topic:** [[topic_geometria_solida|Geometria solida]]
 **Metodo:** [[method_coordinate|Coordinate]]
-**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
-**Area:** [[Geometria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Geometria|Geometry]]
 **Risposta:** $\dfrac{\sqrt{38}}{19}$
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1OFC5fmTEMyWQSx2doV1_Jplo27sQCZ_A/view)
 
@@ -629,12 +608,11 @@ level: China Mathematical Competition (First Round)
 
 > [!warning] Estratto da verificare con la fonte.
 
+
 **Topic:** [[topic_geometria_solida|Geometria solida]]
 **Metodo:** [[method_coordinate|Coordinate]]
-**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
-
-[[Quesiti/src_cn_cmc-first-round_2021#q17|src_cn_cmc-first-round_2021__Q17]]
 
 
 
@@ -671,11 +649,9 @@ level: China Mathematical Competition (First Round)
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 
-[[Quesiti/src_cn_cmc-first-round_2021#q18|src_cn_cmc-first-round_2021__Q18]]
 
 
-
-<span class="atom-split" id="q19" data-atom="q19" data-title="Quesito 19" data-tags="topic_geometria_analitica,topic_disuguaglianze,topic_trigonometria,method_coordinate,method_trigonometria,skill_modellizzazione,skill_ragionamento_geometrico"></span>
+<span class="atom-split" id="q19" data-atom="q19" data-title="Quesito 19" data-tags="topic_geometria_analitica,topic_disuguaglianze,topic_trigonometria,method_coordinate,method_trigonometria,skill_modellizzazione,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -686,8 +662,8 @@ level: China Mathematical Competition (First Round)
 
 **Topic:** [[topic_geometria_analitica|Geometria analitica]], [[topic_disuguaglianze|Disuguaglianze]], [[topic_trigonometria|Trigonometria]]
 **Metodo:** [[method_coordinate|Coordinate]], [[method_trigonometria|Trigonometria]]
-**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
-**Area:** [[Geometria]], [[Algebra e Analisi]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Geometria|Geometry]], [[Algebra e Analisi|Algebra and analysis]]
 **Risposta:** $\sqrt{5}$
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1OFC5fmTEMyWQSx2doV1_Jplo27sQCZ_A/view)
 
@@ -703,16 +679,15 @@ level: China Mathematical Competition (First Round)
 
 > [!warning] Estratto da verificare con la fonte.
 
+
 **Topic:** [[topic_geometria_analitica|Geometria analitica]], [[topic_disuguaglianze|Disuguaglianze]], [[topic_trigonometria|Trigonometria]]
 **Metodo:** [[method_coordinate|Coordinate]], [[method_trigonometria|Trigonometria]]
-**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]], [[Algebra e Analisi]]
 
-[[Quesiti/src_cn_cmc-first-round_2021#q19|src_cn_cmc-first-round_2021__Q19]]
 
 
-
-<span class="atom-split" id="q20" data-atom="q20" data-title="Quesito 20" data-tags="topic_funzionali,topic_algebra,method_casework,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
+<span class="atom-split" id="q20" data-atom="q20" data-title="Quesito 20" data-tags="topic_funzionali,topic_algebra,method_casework,skill_manipolazione_algebrica,skill_lettura_attenta,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -723,8 +698,8 @@ level: China Mathematical Competition (First Round)
 
 **Topic:** [[topic_funzionali|Equazioni funzionali]], [[topic_algebra|Algebra]]
 **Metodo:** [[method_casework|Casework]]
-**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
-**Area:** [[Algebra e Analisi]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
 **Risposta:** 9
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1OFC5fmTEMyWQSx2doV1_Jplo27sQCZ_A/view)
 
@@ -740,16 +715,15 @@ level: China Mathematical Competition (First Round)
 
 > [!warning] Estratto da verificare con la fonte.
 
+
 **Topic:** [[topic_funzionali|Equazioni funzionali]], [[topic_algebra|Algebra]]
 **Metodo:** [[method_casework|Casework]]
-**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Algebra e Analisi]]
 
-[[Quesiti/src_cn_cmc-first-round_2021#q20|src_cn_cmc-first-round_2021__Q20]]
 
 
-
-<span class="atom-split" id="q21" data-atom="q21" data-title="Quesito 21" data-tags="topic_algebra,topic_geometria_analitica,method_coordinate,method_casework,skill_manipolazione_algebrica,skill_ragionamento_geometrico"></span>
+<span class="atom-split" id="q21" data-atom="q21" data-title="Quesito 21" data-tags="topic_algebra,topic_geometria_analitica,method_coordinate,method_casework,method_simmetria,skill_manipolazione_algebrica,skill_ragionamento_geometrico,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -759,9 +733,9 @@ level: China Mathematical Competition (First Round)
 > [Test Paper A1, Problem 10] (20 marks) Suppose $a,b\in\mathbb{R}$. If equation $$(z^2+az+b)(z^2+az+2b)=0$$ about $z$ has four mutually different complex roots $z_1,z_2,z_3,z_4$ and their corresponding points in the complex plane are exactly four vertices of a square with side length $1$, then find the value of $|z_1|+|z_2|+|z_3|+|z_4|$.
 
 **Topic:** [[topic_algebra|Algebra]], [[topic_geometria_analitica|Geometria analitica]]
-**Metodo:** [[method_coordinate|Coordinate]], [[method_casework|Casework]]
-**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
-**Area:** [[Algebra e Analisi]], [[Geometria]]
+**Metodo:** [[method_coordinate|Coordinate]], [[method_casework|Casework]], [[method_simmetria|Using symmetry]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Geometria|Geometry]]
 **Risposta:** $\sqrt{6}+2\sqrt{2}$
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1OFC5fmTEMyWQSx2doV1_Jplo27sQCZ_A/view)
 
@@ -777,12 +751,11 @@ level: China Mathematical Competition (First Round)
 
 > [!warning] Estratto da verificare con la fonte.
 
-**Topic:** [[topic_algebra|Algebra]], [[topic_geometria_analitica|Geometria analitica]]
-**Metodo:** [[method_coordinate|Coordinate]], [[method_casework|Casework]]
-**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
-**Area:** [[Algebra e Analisi]], [[Geometria]]
 
-[[Quesiti/src_cn_cmc-first-round_2021#q21|src_cn_cmc-first-round_2021__Q21]]
+**Topic:** [[topic_algebra|Algebra]], [[topic_geometria_analitica|Geometria analitica]]
+**Metodo:** [[method_coordinate|Coordinate]], [[method_casework|Casework]], [[method_simmetria|Sfruttamento della simmetria]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Algebra e Analisi]], [[Geometria]]
 
 
 
@@ -819,11 +792,9 @@ level: China Mathematical Competition (First Round)
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 
-[[Quesiti/src_cn_cmc-first-round_2021#q22|src_cn_cmc-first-round_2021__Q22]]
 
 
-
-<span class="atom-split" id="q23" data-atom="q23" data-title="Quesito 23" data-tags="topic_algebra,skill_manipolazione_algebrica"></span>
+<span class="atom-split" id="q23" data-atom="q23" data-title="Quesito 23" data-tags="topic_algebra,topic_funzionali,method_fattorizzazione,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -832,9 +803,10 @@ level: China Mathematical Competition (First Round)
 
 > [Test Paper A2, Problem 1] Suppose that geometric sequence $\{a_n\}$ satisfies $a_1-a_2=3$, $a_1-a_3=2$. Then the common ratio of $\{a_n\}$ is ______.
 
-**Topic:** [[topic_algebra|Algebra]]
+**Topic:** [[topic_algebra|Algebra]], [[topic_funzionali|Functional equations / sequences]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
-**Area:** [[Algebra e Analisi]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1OFC5fmTEMyWQSx2doV1_Jplo27sQCZ_A/view)
 
 > [!warning] Estratto da verificare con la fonte.
@@ -849,11 +821,11 @@ level: China Mathematical Competition (First Round)
 
 > [!warning] Estratto da verificare con la fonte.
 
-**Topic:** [[topic_algebra|Algebra]]
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_funzionali|Equazioni funzionali / successioni]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Algebra e Analisi]]
-
-[[Quesiti/src_cn_cmc-first-round_2021#q23|src_cn_cmc-first-round_2021__Q23]]
 
 
 
@@ -890,11 +862,9 @@ level: China Mathematical Competition (First Round)
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]], [[Algebra e Analisi]]
 
-[[Quesiti/src_cn_cmc-first-round_2021#q24|src_cn_cmc-first-round_2021__Q24]]
 
 
-
-<span class="atom-split" id="q25" data-atom="q25" data-title="Quesito 25" data-tags="topic_algebra,method_ricorsione,method_congruenze,skill_riconoscimento_pattern,skill_manipolazione_algebrica"></span>
+<span class="atom-split" id="q25" data-atom="q25" data-title="Quesito 25" data-tags="topic_algebra,topic_funzionali,method_ricorsione,method_congruenze,skill_riconoscimento_pattern,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -903,10 +873,10 @@ level: China Mathematical Competition (First Round)
 
 > [Test Paper A2, Problem 3] Complex numbers $z_1,z_2,\ldots,z_{100}$ satisfy $z_1=3+2\mathrm{i}$, $z_{n+1}=\overline{z_n}\cdot\mathrm{i}^n\ (n=1,2,\ldots,99)$, with $\mathrm{i}$ as the imaginary unit. Then the value of $z_{99}+z_{100}$ is ______.
 
-**Topic:** [[topic_algebra|Algebra]]
+**Topic:** [[topic_algebra|Algebra]], [[topic_funzionali|Functional equations / sequences]]
 **Metodo:** [[method_ricorsione|Ricorsione]], [[method_congruenze|Congruenze]]
 **Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
-**Area:** [[Algebra e Analisi]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
 **Risposta:** $-5+5\mathrm{i}$
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1OFC5fmTEMyWQSx2doV1_Jplo27sQCZ_A/view)
 
@@ -922,12 +892,11 @@ level: China Mathematical Competition (First Round)
 
 > [!warning] Estratto da verificare con la fonte.
 
-**Topic:** [[topic_algebra|Algebra]]
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_funzionali|Equazioni funzionali / successioni]]
 **Metodo:** [[method_ricorsione|Ricorsione]], [[method_congruenze|Congruenze]]
 **Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Algebra e Analisi]]
-
-[[Quesiti/src_cn_cmc-first-round_2021#q25|src_cn_cmc-first-round_2021__Q25]]
 
 
 
@@ -964,11 +933,9 @@ level: China Mathematical Competition (First Round)
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 
-[[Quesiti/src_cn_cmc-first-round_2021#q26|src_cn_cmc-first-round_2021__Q26]]
 
 
-
-<span class="atom-split" id="q27" data-atom="q27" data-title="Quesito 27" data-tags="topic_algebra,method_ricorsione,method_congruenze,skill_riconoscimento_pattern,skill_manipolazione_algebrica"></span>
+<span class="atom-split" id="q27" data-atom="q27" data-title="Quesito 27" data-tags="topic_algebra,topic_funzionali,method_ricorsione,method_congruenze,skill_riconoscimento_pattern,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -977,10 +944,10 @@ level: China Mathematical Competition (First Round)
 
 > [Test Paper A2, Problem 5] Complex numbers $z_1,z_2,\ldots,z_{100}$ satisfy $z_1=3+2\mathrm{i}$, $z_{n+1}=\overline{z_n}\cdot\mathrm{i}^n\ (n=1,2,\ldots,99)$, with $\mathrm{i}$ as the imaginary unit. Then the value of $z_{99}+z_{100}$ is ______.
 
-**Topic:** [[topic_algebra|Algebra]]
+**Topic:** [[topic_algebra|Algebra]], [[topic_funzionali|Functional equations / sequences]]
 **Metodo:** [[method_ricorsione|Ricorsione]], [[method_congruenze|Congruenze]]
 **Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
-**Area:** [[Algebra e Analisi]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
 **Risposta:** $-5+5\mathrm{i}$
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1OFC5fmTEMyWQSx2doV1_Jplo27sQCZ_A/view)
 
@@ -996,16 +963,15 @@ level: China Mathematical Competition (First Round)
 
 > [!warning] Estratto da verificare con la fonte.
 
-**Topic:** [[topic_algebra|Algebra]]
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_funzionali|Equazioni funzionali / successioni]]
 **Metodo:** [[method_ricorsione|Ricorsione]], [[method_congruenze|Congruenze]]
 **Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Algebra e Analisi]]
 
-[[Quesiti/src_cn_cmc-first-round_2021#q27|src_cn_cmc-first-round_2021__Q27]]
 
 
-
-<span class="atom-split" id="q28" data-atom="q28" data-title="Quesito 28" data-tags="topic_funzionali,method_ricorsione,method_casework,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
+<span class="atom-split" id="q28" data-atom="q28" data-title="Quesito 28" data-tags="topic_funzionali,topic_algebra,method_ricorsione,method_casework,skill_manipolazione_algebrica,skill_lettura_attenta,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -1014,10 +980,10 @@ level: China Mathematical Competition (First Round)
 
 > [Test Paper A2, Problem 6] Function $f(x)$ with domain $\mathbb{R}$ satisfies: when $x\in[0,1)$, $f(x)=2^x-x$, and for any real number $x$, there is $f(x)+f(x+1)=1$. Denote $a=\log_2 3$, and then the value of expression $f(a)+f(2a)+f(3a)$ is ______.
 
-**Topic:** [[topic_funzionali|Equazioni funzionali]]
+**Topic:** [[topic_funzionali|Equazioni funzionali]], [[topic_algebra|Algebra]]
 **Metodo:** [[method_ricorsione|Ricorsione]], [[method_casework|Casework]]
-**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
-**Area:** [[Algebra e Analisi]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
 **Risposta:** $\dfrac{17}{16}$
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1OFC5fmTEMyWQSx2doV1_Jplo27sQCZ_A/view)
 
@@ -1033,12 +999,11 @@ level: China Mathematical Competition (First Round)
 
 > [!warning] Estratto da verificare con la fonte.
 
-**Topic:** [[topic_funzionali|Equazioni funzionali]]
-**Metodo:** [[method_ricorsione|Ricorsione]], [[method_casework|Casework]]
-**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
-**Area:** [[Algebra e Analisi]]
 
-[[Quesiti/src_cn_cmc-first-round_2021#q28|src_cn_cmc-first-round_2021__Q28]]
+**Topic:** [[topic_funzionali|Equazioni funzionali]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_ricorsione|Ricorsione]], [[method_casework|Casework]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Algebra e Analisi]]
 
 
 
@@ -1075,11 +1040,9 @@ level: China Mathematical Competition (First Round)
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Algebra e Analisi]]
 
-[[Quesiti/src_cn_cmc-first-round_2021#q29|src_cn_cmc-first-round_2021__Q29]]
 
 
-
-<span class="atom-split" id="q30" data-atom="q30" data-title="Quesito 30" data-tags="topic_geometria_analitica,method_coordinate,method_casework,skill_ragionamento_geometrico,skill_casework_accurato"></span>
+<span class="atom-split" id="q30" data-atom="q30" data-title="Quesito 30" data-tags="topic_geometria_analitica,method_coordinate,method_casework,skill_ragionamento_geometrico,skill_casework_accurato,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -1090,8 +1053,8 @@ level: China Mathematical Competition (First Round)
 
 **Topic:** [[topic_geometria_analitica|Geometria analitica]]
 **Metodo:** [[method_coordinate|Coordinate]], [[method_casework|Casework]]
-**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_casework_accurato|Casework accurato]]
-**Area:** [[Geometria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_casework_accurato|Casework accurato]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Geometria|Geometry]]
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1OFC5fmTEMyWQSx2doV1_Jplo27sQCZ_A/view)
 
 > [!warning] Estratto da verificare con la fonte.
@@ -1106,12 +1069,11 @@ level: China Mathematical Competition (First Round)
 
 > [!warning] Estratto da verificare con la fonte.
 
+
 **Topic:** [[topic_geometria_analitica|Geometria analitica]]
 **Metodo:** [[method_coordinate|Coordinate]], [[method_casework|Casework]]
-**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_casework_accurato|Casework accurato]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_casework_accurato|Casework accurato]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
-
-[[Quesiti/src_cn_cmc-first-round_2021#q30|src_cn_cmc-first-round_2021__Q30]]
 
 
 
@@ -1147,11 +1109,9 @@ level: China Mathematical Competition (First Round)
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 
-[[Quesiti/src_cn_cmc-first-round_2021#q31|src_cn_cmc-first-round_2021__Q31]]
 
 
-
-<span class="atom-split" id="q32" data-atom="q32" data-title="Quesito 32" data-tags="topic_geometria_analitica,method_coordinate,method_disuguaglianze,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
+<span class="atom-split" id="q32" data-atom="q32" data-title="Quesito 32" data-tags="topic_geometria_analitica,topic_disuguaglianze,method_coordinate,method_disuguaglianze,method_simmetria,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -1160,10 +1120,10 @@ level: China Mathematical Competition (First Round)
 
 > [Test Paper A2, Problem 10] (20 marks) In a plane rectangular coordinate system $xOy$, given ellipse $$\Gamma:\dfrac{x^2}{a^2}+\dfrac{y^2}{b^2}=1\quad(a>b>0),$$ let $A$ be one of the vertices of its major axis, $B$ be one of the vertices of its minor axis, and $F$ be one of its foci. It is known that there exist two points $P$ and $Q$ on $\Gamma$ that are symmetric about $O$ such that $$\overrightarrow{FP}\cdot\overrightarrow{FQ}+\overrightarrow{FA}\cdot\overrightarrow{FB}=|AB|^2.$$ (1) Prove that the focal point $F$ lies on the extension of $AO$; (2) find the range of the eccentricity of $\Gamma$.
 
-**Topic:** [[topic_geometria_analitica|Geometria analitica]]
-**Metodo:** [[method_coordinate|Coordinate]], [[method_disuguaglianze|Disuguaglianze]]
+**Topic:** [[topic_geometria_analitica|Geometria analitica]], [[topic_disuguaglianze|Inequalities]]
+**Metodo:** [[method_coordinate|Coordinate]], [[method_disuguaglianze|Disuguaglianze]], [[method_simmetria|Using symmetry]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
-**Area:** [[Geometria]]
+**Area:** [[Geometria|Geometry]], [[Algebra e Analisi|Algebra and analysis]]
 **Risposta:** $e\in\left[\dfrac{3}{4},\dfrac{-1+\sqrt{37}}{6}\right]$
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1OFC5fmTEMyWQSx2doV1_Jplo27sQCZ_A/view)
 
@@ -1179,16 +1139,15 @@ level: China Mathematical Competition (First Round)
 
 > [!warning] Estratto da verificare con la fonte.
 
-**Topic:** [[topic_geometria_analitica|Geometria analitica]]
-**Metodo:** [[method_coordinate|Coordinate]], [[method_disuguaglianze|Disuguaglianze]]
+
+**Topic:** [[topic_geometria_analitica|Geometria analitica]], [[topic_disuguaglianze|Disuguaglianze]]
+**Metodo:** [[method_coordinate|Coordinate]], [[method_disuguaglianze|Disuguaglianze]], [[method_simmetria|Sfruttamento della simmetria]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
-**Area:** [[Geometria]]
-
-[[Quesiti/src_cn_cmc-first-round_2021#q32|src_cn_cmc-first-round_2021__Q32]]
+**Area:** [[Geometria]], [[Algebra e Analisi]]
 
 
 
-<span class="atom-split" id="q33" data-atom="q33" data-title="Quesito 33" data-tags="topic_algebra,topic_disuguaglianze,method_disuguaglianze,method_fattorizzazione,skill_manipolazione_algebrica,skill_stima"></span>
+<span class="atom-split" id="q33" data-atom="q33" data-title="Quesito 33" data-tags="topic_algebra,topic_disuguaglianze,method_disuguaglianze,method_fattorizzazione,method_estremalita,skill_manipolazione_algebrica,skill_stima"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -1198,9 +1157,9 @@ level: China Mathematical Competition (First Round)
 > [Test Paper A2, Problem 11] (20 marks) Let $a,b$ be real numbers and function $f(x)=x^3+ax^2+bx$. If there exist three real numbers $x_1,x_2,x_3$ satisfying $x_1+1\le x_2\le x_3-1$ and $f(x_1)=f(x_2)=f(x_3)$. Find the minimum of $|a|+2|b|$.
 
 **Topic:** [[topic_algebra|Algebra]], [[topic_disuguaglianze|Disuguaglianze]]
-**Metodo:** [[method_disuguaglianze|Disuguaglianze]], [[method_fattorizzazione|Fattorizzazione]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze]], [[method_fattorizzazione|Fattorizzazione]], [[method_estremalita|Extremal principle]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]]
-**Area:** [[Algebra e Analisi]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
 **Risposta:** $\sqrt{3}$
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1OFC5fmTEMyWQSx2doV1_Jplo27sQCZ_A/view)
 
@@ -1216,16 +1175,15 @@ level: China Mathematical Competition (First Round)
 
 > [!warning] Estratto da verificare con la fonte.
 
+
 **Topic:** [[topic_algebra|Algebra]], [[topic_disuguaglianze|Disuguaglianze]]
-**Metodo:** [[method_disuguaglianze|Disuguaglianze]], [[method_fattorizzazione|Fattorizzazione]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze]], [[method_fattorizzazione|Fattorizzazione]], [[method_estremalita|Principio di estremalita]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]]
 **Area:** [[Algebra e Analisi]]
 
-[[Quesiti/src_cn_cmc-first-round_2021#q33|src_cn_cmc-first-round_2021__Q33]]
 
 
-
-<span class="atom-split" id="q34" data-atom="q34" data-title="Quesito 34" data-tags="topic_algebra,skill_manipolazione_algebrica"></span>
+<span class="atom-split" id="q34" data-atom="q34" data-title="Quesito 34" data-tags="topic_algebra,topic_funzionali,method_fattorizzazione,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -1234,9 +1192,10 @@ level: China Mathematical Competition (First Round)
 
 > [Test Paper B, Problem 1] Given arithmetic sequence $\{a_n\}$ with common difference $d\ne 0$ and $a_{2021}=a_{20}+a_{21}$, then the value of $\dfrac{a_1}{d}$ is ______.
 
-**Topic:** [[topic_algebra|Algebra]]
+**Topic:** [[topic_algebra|Algebra]], [[topic_funzionali|Functional equations / sequences]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
-**Area:** [[Algebra e Analisi]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
 **Risposta:** 1981
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1OFC5fmTEMyWQSx2doV1_Jplo27sQCZ_A/view)
 
@@ -1252,15 +1211,15 @@ level: China Mathematical Competition (First Round)
 
 > [!warning] Estratto da verificare con la fonte.
 
-**Topic:** [[topic_algebra|Algebra]]
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_funzionali|Equazioni funzionali / successioni]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Algebra e Analisi]]
 
-[[Quesiti/src_cn_cmc-first-round_2021#q34|src_cn_cmc-first-round_2021__Q34]]
 
 
-
-<span class="atom-split" id="q35" data-atom="q35" data-title="Quesito 35" data-tags="topic_algebra,skill_manipolazione_algebrica"></span>
+<span class="atom-split" id="q35" data-atom="q35" data-title="Quesito 35" data-tags="topic_algebra,method_fattorizzazione,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -1270,8 +1229,9 @@ level: China Mathematical Competition (First Round)
 > [Test Paper B, Problem 2] Suppose $m$ is a real number, and complex numbers $z_1=1+2\mathrm{i}$, $z_2=m+3\mathrm{i}$, where $\mathrm{i}$ is the imaginary unit. If $z_1\cdot\overline{z_2}$ is purely imaginary, then the value of $|z_1+z_2|$ is ______.
 
 **Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
-**Area:** [[Algebra e Analisi]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
 **Risposta:** $5\sqrt{2}$
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1OFC5fmTEMyWQSx2doV1_Jplo27sQCZ_A/view)
 
@@ -1287,15 +1247,15 @@ level: China Mathematical Competition (First Round)
 
 > [!warning] Estratto da verificare con la fonte.
 
+
 **Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Algebra e Analisi]]
 
-[[Quesiti/src_cn_cmc-first-round_2021#q35|src_cn_cmc-first-round_2021__Q35]]
 
 
-
-<span class="atom-split" id="q36" data-atom="q36" data-title="Quesito 36" data-tags="topic_trigonometria,method_trigonometria,skill_manipolazione_algebrica"></span>
+<span class="atom-split" id="q36" data-atom="q36" data-title="Quesito 36" data-tags="topic_trigonometria,topic_insiemi_funzioni,method_trigonometria,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -1304,10 +1264,10 @@ level: China Mathematical Competition (First Round)
 
 > [Test Paper B, Problem 3] The range of $y=\sin^2 x+\sqrt{3}\sin x\cos x$ when $\dfrac{\pi}{4}\le x\le\dfrac{\pi}{2}$ is ______.
 
-**Topic:** [[topic_trigonometria|Trigonometria]]
+**Topic:** [[topic_trigonometria|Trigonometria]], [[topic_insiemi_funzioni|Sets and functions]]
 **Metodo:** [[method_trigonometria|Trigonometria]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
-**Area:** [[Geometria]]
+**Area:** [[Geometria|Geometry]], [[Algebra e Analisi|Algebra and analysis]]
 **Risposta:** $\left[1,\dfrac{3}{2}\right]$
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1OFC5fmTEMyWQSx2doV1_Jplo27sQCZ_A/view)
 
@@ -1323,16 +1283,15 @@ level: China Mathematical Competition (First Round)
 
 > [!warning] Estratto da verificare con la fonte.
 
-**Topic:** [[topic_trigonometria|Trigonometria]]
+
+**Topic:** [[topic_trigonometria|Trigonometria]], [[topic_insiemi_funzioni|Insiemi e funzioni]]
 **Metodo:** [[method_trigonometria|Trigonometria]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
-**Area:** [[Geometria]]
-
-[[Quesiti/src_cn_cmc-first-round_2021#q36|src_cn_cmc-first-round_2021__Q36]]
+**Area:** [[Geometria]], [[Algebra e Analisi]]
 
 
 
-<span class="atom-split" id="q37" data-atom="q37" data-title="Quesito 37" data-tags="topic_funzionali,topic_algebra,skill_manipolazione_algebrica"></span>
+<span class="atom-split" id="q37" data-atom="q37" data-title="Quesito 37" data-tags="topic_funzionali,topic_algebra,method_fattorizzazione,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -1342,8 +1301,9 @@ level: China Mathematical Competition (First Round)
 > [Test Paper B, Problem 4] Suppose the domain of function $f(x)$ is $D=(-\infty,0)\cup(0,+\infty)$ and there is $f(x)=\dfrac{f(1)\cdot x^2+f(2)\cdot x-1}{x}$ for any $x\in D$. Then the sum of all the zeros of $f(x)$ is ______.
 
 **Topic:** [[topic_funzionali|Equazioni funzionali]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
-**Area:** [[Algebra e Analisi]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
 **Risposta:** -4
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1OFC5fmTEMyWQSx2doV1_Jplo27sQCZ_A/view)
 
@@ -1359,15 +1319,15 @@ level: China Mathematical Competition (First Round)
 
 > [!warning] Estratto da verificare con la fonte.
 
+
 **Topic:** [[topic_funzionali|Equazioni funzionali]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Algebra e Analisi]]
 
-[[Quesiti/src_cn_cmc-first-round_2021#q37|src_cn_cmc-first-round_2021__Q37]]
 
 
-
-<span class="atom-split" id="q38" data-atom="q38" data-title="Quesito 38" data-tags="topic_algebra,skill_manipolazione_algebrica"></span>
+<span class="atom-split" id="q38" data-atom="q38" data-title="Quesito 38" data-tags="topic_algebra,method_fattorizzazione,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -1377,8 +1337,9 @@ level: China Mathematical Competition (First Round)
 > [Test Paper B, Problem 5] Suppose $a,b,c>1$ and $(a^2 b)^{\log_a c}=a\cdot(ac)^{\log_a b}$ is satisfied. Then the value of $\log_c(ab)$ is ______.
 
 **Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
-**Area:** [[Algebra e Analisi]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
 **Risposta:** 2
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1OFC5fmTEMyWQSx2doV1_Jplo27sQCZ_A/view)
 
@@ -1394,11 +1355,11 @@ level: China Mathematical Competition (First Round)
 
 > [!warning] Estratto da verificare con la fonte.
 
+
 **Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Algebra e Analisi]]
-
-[[Quesiti/src_cn_cmc-first-round_2021#q38|src_cn_cmc-first-round_2021__Q38]]
 
 
 
@@ -1435,8 +1396,6 @@ level: China Mathematical Competition (First Round)
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 
-[[Quesiti/src_cn_cmc-first-round_2021#q39|src_cn_cmc-first-round_2021__Q39]]
-
 
 
 <span class="atom-split" id="q40" data-atom="q40" data-title="Quesito 40" data-tags="topic_geometria_analitica,method_coordinate,method_simmetria,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
@@ -1472,8 +1431,6 @@ level: China Mathematical Competition (First Round)
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 
-[[Quesiti/src_cn_cmc-first-round_2021#q40|src_cn_cmc-first-round_2021__Q40]]
-
 
 
 <span class="atom-split" id="q41" data-atom="q41" data-title="Quesito 41" data-tags="topic_probabilita,topic_combinatoria,method_conteggio,method_inclusione_esclusione,skill_conteggio_sistematico,skill_casework_accurato"></span>
@@ -1508,11 +1465,9 @@ level: China Mathematical Competition (First Round)
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 
-[[Quesiti/src_cn_cmc-first-round_2021#q41|src_cn_cmc-first-round_2021__Q41]]
 
 
-
-<span class="atom-split" id="q42" data-atom="q42" data-title="Quesito 42" data-tags="topic_algebra,method_ricorsione,method_telescoping,skill_manipolazione_algebrica,skill_riconoscimento_pattern"></span>
+<span class="atom-split" id="q42" data-atom="q42" data-title="Quesito 42" data-tags="topic_algebra,topic_funzionali,method_ricorsione,method_telescoping,skill_manipolazione_algebrica,skill_riconoscimento_pattern"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -1521,10 +1476,10 @@ level: China Mathematical Competition (First Round)
 
 > [Test Paper B, Problem 9] (16 marks) Sequence $\{a_n\}$ satisfies $a_1=a_2=a_3$. Let $$b_n=a_n+a_{n+1}+a_{n+2}\ (n\in\mathbb{N}_+).$$ If $\{b_n\}$ is a geometric sequence with common ratio $3$, find the value of $a_{100}$.
 
-**Topic:** [[topic_algebra|Algebra]]
+**Topic:** [[topic_algebra|Algebra]], [[topic_funzionali|Functional equations / sequences]]
 **Metodo:** [[method_ricorsione|Ricorsione]], [[method_telescoping|Telescoping]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
-**Area:** [[Algebra e Analisi]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
 **Risposta:** $a_{100}=\dfrac{3^{100}+10}{13}$
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1OFC5fmTEMyWQSx2doV1_Jplo27sQCZ_A/view)
 
@@ -1540,12 +1495,11 @@ level: China Mathematical Competition (First Round)
 
 > [!warning] Estratto da verificare con la fonte.
 
-**Topic:** [[topic_algebra|Algebra]]
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_funzionali|Equazioni funzionali / successioni]]
 **Metodo:** [[method_ricorsione|Ricorsione]], [[method_telescoping|Telescoping]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Algebra e Analisi]]
-
-[[Quesiti/src_cn_cmc-first-round_2021#q42|src_cn_cmc-first-round_2021__Q42]]
 
 
 
@@ -1582,11 +1536,9 @@ level: China Mathematical Competition (First Round)
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]], [[Algebra e Analisi]]
 
-[[Quesiti/src_cn_cmc-first-round_2021#q43|src_cn_cmc-first-round_2021__Q43]]
 
 
-
-<span class="atom-split" id="q44" data-atom="q44" data-title="Quesito 44" data-tags="topic_geometria_solida,topic_trigonometria,method_trigonometria,method_coordinate,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
+<span class="atom-split" id="q44" data-atom="q44" data-title="Quesito 44" data-tags="topic_geometria_solida,topic_trigonometria,method_trigonometria,method_coordinate,method_simmetria,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -1596,9 +1548,9 @@ level: China Mathematical Competition (First Round)
 > [Test Paper B, Problem 11] (20 marks) In regular pyramid $P-A_1A_2\cdots A_n\ (n\ge 3)$, $O$ is the centre of the regular $n$-sided polygon $A_1A_2\cdots A_n$ base and $B$ is the midpoint of edge $A_1A_n$. (1) Prove that $PO^2\sin\dfrac{\pi}{n}+PA_1^2\cos^2\dfrac{\pi}{n}=PB^2$; (2) For regular pyramid $P-A_1A_2\cdots A_n$, let the angle formed by the lateral edge and the base be $\alpha$ and the angle formed by the lateral face and the base be $\beta$. Try to determine the magnitude relation between $\dfrac{1}{n}\sum_{i=1}^{n}\cos\angle A_iPB$ and $\sin\alpha\sin\beta$, and then prove it.
 
 **Topic:** [[topic_geometria_solida|Geometria solida]], [[topic_trigonometria|Trigonometria]]
-**Metodo:** [[method_trigonometria|Trigonometria]], [[method_coordinate|Coordinate]]
+**Metodo:** [[method_trigonometria|Trigonometria]], [[method_coordinate|Coordinate]], [[method_simmetria|Using symmetry]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
-**Area:** [[Geometria]]
+**Area:** [[Geometria|Geometry]]
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1OFC5fmTEMyWQSx2doV1_Jplo27sQCZ_A/view)
 
 > [!warning] Estratto da verificare con la fonte.
@@ -1613,16 +1565,15 @@ level: China Mathematical Competition (First Round)
 
 > [!warning] Estratto da verificare con la fonte.
 
+
 **Topic:** [[topic_geometria_solida|Geometria solida]], [[topic_trigonometria|Trigonometria]]
-**Metodo:** [[method_trigonometria|Trigonometria]], [[method_coordinate|Coordinate]]
+**Metodo:** [[method_trigonometria|Trigonometria]], [[method_coordinate|Coordinate]], [[method_simmetria|Sfruttamento della simmetria]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 
-[[Quesiti/src_cn_cmc-first-round_2021#q44|src_cn_cmc-first-round_2021__Q44]]
 
 
-
-<span class="atom-split" id="q45" data-atom="q45" data-title="Quesito 45" data-tags="topic_funzionali,skill_manipolazione_algebrica"></span>
+<span class="atom-split" id="q45" data-atom="q45" data-title="Quesito 45" data-tags="topic_funzionali,topic_insiemi_funzioni,method_simmetria,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -1631,9 +1582,10 @@ level: China Mathematical Competition (First Round)
 
 > [Test Paper B1, Problem 1] Suppose $f(x)$ is an odd function with domain $\mathbb{R}$. If $f(1)=2$, $f(2)=3$, then the value of $f(f(-1))$ is ______.
 
-**Topic:** [[topic_funzionali|Equazioni funzionali]]
+**Topic:** [[topic_funzionali|Equazioni funzionali]], [[topic_insiemi_funzioni|Sets and functions]]
+**Metodo:** [[method_simmetria|Using symmetry]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
-**Area:** [[Algebra e Analisi]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
 **Risposta:** -3
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1OFC5fmTEMyWQSx2doV1_Jplo27sQCZ_A/view)
 
@@ -1649,15 +1601,15 @@ level: China Mathematical Competition (First Round)
 
 > [!warning] Estratto da verificare con la fonte.
 
-**Topic:** [[topic_funzionali|Equazioni funzionali]]
+
+**Topic:** [[topic_funzionali|Equazioni funzionali]], [[topic_insiemi_funzioni|Insiemi e funzioni]]
+**Metodo:** [[method_simmetria|Sfruttamento della simmetria]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Algebra e Analisi]]
 
-[[Quesiti/src_cn_cmc-first-round_2021#q45|src_cn_cmc-first-round_2021__Q45]]
 
 
-
-<span class="atom-split" id="q46" data-atom="q46" data-title="Quesito 46" data-tags="topic_algebra,skill_manipolazione_algebrica"></span>
+<span class="atom-split" id="q46" data-atom="q46" data-title="Quesito 46" data-tags="topic_algebra,method_fattorizzazione,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -1667,8 +1619,9 @@ level: China Mathematical Competition (First Round)
 > [Test Paper B1, Problem 2] Let $m$ be a real number. If the real and imaginary parts of complex $z=1+\mathrm{i}+\dfrac{m}{1+\mathrm{i}}$, with $\mathrm{i}$ being the imaginary unit, are greater than zero, then the range of $m$ is ______.
 
 **Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
-**Area:** [[Algebra e Analisi]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
 **Risposta:** -2<m<2
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1OFC5fmTEMyWQSx2doV1_Jplo27sQCZ_A/view)
 
@@ -1684,11 +1637,11 @@ level: China Mathematical Competition (First Round)
 
 > [!warning] Estratto da verificare con la fonte.
 
+
 **Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Algebra e Analisi]]
-
-[[Quesiti/src_cn_cmc-first-round_2021#q46|src_cn_cmc-first-round_2021__Q46]]
 
 
 
@@ -1725,8 +1678,6 @@ level: China Mathematical Competition (First Round)
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Algebra e Analisi]]
 
-[[Quesiti/src_cn_cmc-first-round_2021#q47|src_cn_cmc-first-round_2021__Q47]]
-
 
 
 <span class="atom-split" id="q48" data-atom="q48" data-title="Quesito 48" data-tags="topic_geometria_analitica,method_coordinate,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
@@ -1762,11 +1713,9 @@ level: China Mathematical Competition (First Round)
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 
-[[Quesiti/src_cn_cmc-first-round_2021#q48|src_cn_cmc-first-round_2021__Q48]]
 
 
-
-<span class="atom-split" id="q49" data-atom="q49" data-title="Quesito 49" data-tags="topic_algebra,method_ricorsione,method_induzione,skill_riconoscimento_pattern,skill_manipolazione_algebrica"></span>
+<span class="atom-split" id="q49" data-atom="q49" data-title="Quesito 49" data-tags="topic_algebra,topic_funzionali,method_ricorsione,method_induzione,skill_riconoscimento_pattern,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -1775,10 +1724,10 @@ level: China Mathematical Competition (First Round)
 
 > [Test Paper B1, Problem 5] Sequence $\{a_n\}$ satisfies $a_1=2$ and $a_{n+1}=(n+1)a_n-n$, $n=1,2,\ldots$. Then the general term formula of $\{a_n\}$ is ______.
 
-**Topic:** [[topic_algebra|Algebra]]
+**Topic:** [[topic_algebra|Algebra]], [[topic_funzionali|Functional equations / sequences]]
 **Metodo:** [[method_ricorsione|Ricorsione]], [[method_induzione|Induzione]]
 **Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
-**Area:** [[Algebra e Analisi]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
 **Risposta:** $a_n=n!+1$
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1OFC5fmTEMyWQSx2doV1_Jplo27sQCZ_A/view)
 
@@ -1794,16 +1743,15 @@ level: China Mathematical Competition (First Round)
 
 > [!warning] Estratto da verificare con la fonte.
 
-**Topic:** [[topic_algebra|Algebra]]
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_funzionali|Equazioni funzionali / successioni]]
 **Metodo:** [[method_ricorsione|Ricorsione]], [[method_induzione|Induzione]]
 **Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Algebra e Analisi]]
 
-[[Quesiti/src_cn_cmc-first-round_2021#q49|src_cn_cmc-first-round_2021__Q49]]
 
 
-
-<span class="atom-split" id="q50" data-atom="q50" data-title="Quesito 50" data-tags="topic_geometria_solida,method_coordinate,skill_ragionamento_geometrico"></span>
+<span class="atom-split" id="q50" data-atom="q50" data-title="Quesito 50" data-tags="topic_geometria_solida,method_coordinate,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -1814,8 +1762,8 @@ level: China Mathematical Competition (First Round)
 
 **Topic:** [[topic_geometria_solida|Geometria solida]]
 **Metodo:** [[method_coordinate|Coordinate]]
-**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
-**Area:** [[Geometria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Geometria|Geometry]]
 **Risposta:** $\dfrac{1}{2}$
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1OFC5fmTEMyWQSx2doV1_Jplo27sQCZ_A/view)
 
@@ -1831,12 +1779,11 @@ level: China Mathematical Competition (First Round)
 
 > [!warning] Estratto da verificare con la fonte.
 
+
 **Topic:** [[topic_geometria_solida|Geometria solida]]
 **Metodo:** [[method_coordinate|Coordinate]]
-**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
-
-[[Quesiti/src_cn_cmc-first-round_2021#q50|src_cn_cmc-first-round_2021__Q50]]
 
 
 
@@ -1873,11 +1820,9 @@ level: China Mathematical Competition (First Round)
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Geometria]], [[Algebra e Analisi]]
 
-[[Quesiti/src_cn_cmc-first-round_2021#q51|src_cn_cmc-first-round_2021__Q51]]
 
 
-
-<span class="atom-split" id="q52" data-atom="q52" data-title="Quesito 52" data-tags="topic_combinatoria,method_casework,method_conteggio,skill_conteggio_sistematico,skill_casework_accurato"></span>
+<span class="atom-split" id="q52" data-atom="q52" data-title="Quesito 52" data-tags="topic_combinatoria,method_casework,method_conteggio,skill_conteggio_sistematico,skill_casework_accurato,skill_riconoscimento_pattern"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -1888,8 +1833,8 @@ level: China Mathematical Competition (First Round)
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]]
-**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]]
-**Area:** [[Combinatoria, Logica e Probabilita]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]], [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Risposta:** 3070
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1OFC5fmTEMyWQSx2doV1_Jplo27sQCZ_A/view)
 
@@ -1905,16 +1850,15 @@ level: China Mathematical Competition (First Round)
 
 > [!warning] Estratto da verificare con la fonte.
 
+
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]]
-**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 
-[[Quesiti/src_cn_cmc-first-round_2021#q52|src_cn_cmc-first-round_2021__Q52]]
 
 
-
-<span class="atom-split" id="q53" data-atom="q53" data-title="Quesito 53" data-tags="topic_geometria_analitica,topic_algebra,method_disuguaglianze,skill_manipolazione_algebrica,skill_riconoscimento_pattern"></span>
+<span class="atom-split" id="q53" data-atom="q53" data-title="Quesito 53" data-tags="topic_geometria_analitica,topic_algebra,topic_trigonometria,method_disuguaglianze,method_trigonometria,skill_manipolazione_algebrica,skill_riconoscimento_pattern"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -1923,10 +1867,10 @@ level: China Mathematical Competition (First Round)
 
 > [Test Paper B1, Problem 9] (16 marks) Suppose the included angle between non-zero vectors $\vec{a}$ and $\vec{b}$ in the plane is $\dfrac{\pi}{3}$. If $|\vec{a}|,|\vec{b}|,|\vec{a}+\vec{b}|$ form arithmetic sequence in order, find the value of $|\vec{a}|:|\vec{b}|:|\vec{a}+\vec{b}|$.
 
-**Topic:** [[topic_geometria_analitica|Geometria analitica]], [[topic_algebra|Algebra]]
-**Metodo:** [[method_disuguaglianze|Disuguaglianze]]
+**Topic:** [[topic_geometria_analitica|Geometria analitica]], [[topic_algebra|Algebra]], [[topic_trigonometria|Trigonometry]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze]], [[method_trigonometria|Trigonometric techniques]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
-**Area:** [[Geometria]], [[Algebra e Analisi]]
+**Area:** [[Geometria|Geometry]], [[Algebra e Analisi|Algebra and analysis]]
 **Risposta:** 3:5:7
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1OFC5fmTEMyWQSx2doV1_Jplo27sQCZ_A/view)
 
@@ -1942,16 +1886,15 @@ level: China Mathematical Competition (First Round)
 
 > [!warning] Estratto da verificare con la fonte.
 
-**Topic:** [[topic_geometria_analitica|Geometria analitica]], [[topic_algebra|Algebra]]
-**Metodo:** [[method_disuguaglianze|Disuguaglianze]]
+
+**Topic:** [[topic_geometria_analitica|Geometria analitica]], [[topic_algebra|Algebra]], [[topic_trigonometria|Trigonometria]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze]], [[method_trigonometria|Tecniche trigonometriche]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Geometria]], [[Algebra e Analisi]]
 
-[[Quesiti/src_cn_cmc-first-round_2021#q53|src_cn_cmc-first-round_2021__Q53]]
 
 
-
-<span class="atom-split" id="q54" data-atom="q54" data-title="Quesito 54" data-tags="topic_funzionali,topic_algebra,method_casework,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
+<span class="atom-split" id="q54" data-atom="q54" data-title="Quesito 54" data-tags="topic_funzionali,topic_algebra,method_casework,method_simmetria,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -1961,9 +1904,9 @@ level: China Mathematical Competition (First Round)
 > [Test Paper B1, Problem 10] (20 marks) Given function $f(x)=|2-\log_3 x|$, positive real numbers $a,b,c$ satisfy $a<b<c$ and $f(a)=2f(b)=2f(c)$. Find the minimum of $\dfrac{ac}{b}$.
 
 **Topic:** [[topic_funzionali|Equazioni funzionali]], [[topic_algebra|Algebra]]
-**Metodo:** [[method_casework|Casework]]
+**Metodo:** [[method_casework|Casework]], [[method_simmetria|Using symmetry]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
-**Area:** [[Algebra e Analisi]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
 **Risposta:** 9
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1OFC5fmTEMyWQSx2doV1_Jplo27sQCZ_A/view)
 
@@ -1979,12 +1922,11 @@ level: China Mathematical Competition (First Round)
 
 > [!warning] Estratto da verificare con la fonte.
 
+
 **Topic:** [[topic_funzionali|Equazioni funzionali]], [[topic_algebra|Algebra]]
-**Metodo:** [[method_casework|Casework]]
+**Metodo:** [[method_casework|Casework]], [[method_simmetria|Sfruttamento della simmetria]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Algebra e Analisi]]
-
-[[Quesiti/src_cn_cmc-first-round_2021#q54|src_cn_cmc-first-round_2021__Q54]]
 
 
 
@@ -2020,5 +1962,3 @@ level: China Mathematical Competition (First Round)
 **Metodo:** [[method_coordinate|Coordinate]], [[method_disuguaglianze|Disuguaglianze]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
-
-[[Quesiti/src_cn_cmc-first-round_2021#q55|src_cn_cmc-first-round_2021__Q55]]

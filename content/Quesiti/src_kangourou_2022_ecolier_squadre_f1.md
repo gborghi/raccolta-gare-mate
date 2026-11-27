@@ -10,7 +10,7 @@ level: squadre
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_aritmetica,topic_logica,skill_lettura_attenta"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_aritmetica,topic_logica,method_casework,skill_lettura_attenta,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -22,10 +22,11 @@ level: squadre
 > che si scrive con le stesse cifre, ma ognuna in un posto diverso. Quante pagine mancano nel libro?
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_logica|Logica, giochi, strategie]]
-**Abilita:** [[skill_lettura_attenta|Lettura attenta del testo]]
+**Metodo:** [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_lettura_attenta|Lettura attenta del testo]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0082
-**Fonte:** apri PDF p.1
+**Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1ro6yjsB2uHlm-BKKvhVUKMlJroeJ2Yhr/view)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -38,14 +39,14 @@ level: squadre
 > In a book many consecutive pages are missing: the first page that is missing is page 231, and the last is the one written with the same digits, but each in a different place. How many pages are missing from the book?
 
 **Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_logica|Logic, games and strategies]]
-**Skill:** [[skill_lettura_attenta|Careful reading]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_lettura_attenta|Careful reading]], [[skill_casework_accurato|Careful case analysis]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** 0082
-[[Quesiti/src_kangourou_2022_ecolier_squadre_f1#q01|src_kangourou_2022_ecolier_squadre_f1__Q01]]
 
 
 
-<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_aritmetica,topic_combinatoria,method_conteggio,skill_conteggio_sistematico"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_aritmetica,topic_combinatoria,method_conteggio,skill_conteggio_sistematico,skill_riconoscimento_pattern"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -58,10 +59,10 @@ level: squadre
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_conteggio|Conteggio combinatorio]]
-**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 4041
-**Fonte:** apri PDF p.1
+**Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1ro6yjsB2uHlm-BKKvhVUKMlJroeJ2Yhr/view)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -74,15 +75,14 @@ level: squadre
 > Consider all the integers from 1 to 2022 inclusive and all the possible sums of two different ones among them. How many values, all different from one another, do you obtain by making these sums?
 
 **Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_combinatoria|Combinatorics]]
-**Method:** [[method_conteggio|Combinatorial counting]]
-**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]], [[skill_riconoscimento_pattern|Pattern recognition]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** 4041
-[[Quesiti/src_kangourou_2022_ecolier_squadre_f1#q02|src_kangourou_2022_ecolier_squadre_f1__Q02]]
 
 
 
-<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_aritmetica,skill_modellizzazione"></span>
+<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_aritmetica,method_casi_conteggio,skill_modellizzazione,skill_conteggio_sistematico,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -96,10 +96,11 @@ level: squadre
 > necessarie 1152 cifre. Quanti millimetri è spesso l’intero libro?
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
+**Metodo:** [[method_casi_conteggio|Conteggio per casi]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 0030
-**Fonte:** apri PDF p.1
+**Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1ro6yjsB2uHlm-BKKvhVUKMlJroeJ2Yhr/view)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -112,14 +113,14 @@ level: squadre
 > A mathematics book is divided into two parts: theory and exercises. To tell them apart, the edges of the pages of the theory part are coloured red: the total thickness of the pages with a red edge is 5 mm. The theory pages are numbered from 1 to 70. To number the pages of the whole book, 1152 digits were needed. How many millimetres thick is the whole book?
 
 **Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
-**Skill:** [[skill_modellizzazione|Modelling / translating the text]]
+**Metodo:** [[method_casi_conteggio|Counting by cases]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]], [[skill_conteggio_sistematico|Systematic counting]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Answer:** 0030
-[[Quesiti/src_kangourou_2022_ecolier_squadre_f1#q03|src_kangourou_2022_ecolier_squadre_f1__Q03]]
 
 
 
-<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_combinatoria,topic_aritmetica,method_conteggio,skill_conteggio_sistematico"></span>
+<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_combinatoria,topic_aritmetica,method_conteggio,method_casi_conteggio,skill_conteggio_sistematico"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -131,11 +132,11 @@ level: squadre
 > due cifre (quella delle centinaia e quella delle decine) è uguale alla terza cifra (quella delle unità)?
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_conteggio|Conteggio combinatorio]]
+**Metodo:** [[method_conteggio|Conteggio combinatorio]], [[method_casi_conteggio|Conteggio per casi]]
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
-**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 0045
-**Fonte:** apri PDF p.1
+**Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1ro6yjsB2uHlm-BKKvhVUKMlJroeJ2Yhr/view)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -148,15 +149,14 @@ level: squadre
 > How many three-digit integers (not necessarily with distinct digits) are such that the sum of the first two digits (the hundreds digit and the tens digit) is equal to the third digit (the units digit)?
 
 **Topic:** [[topic_combinatoria|Combinatorics]], [[topic_aritmetica|Arithmetic / Number theory]]
-**Method:** [[method_conteggio|Combinatorial counting]]
-**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
-**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+**Metodo:** [[method_conteggio|Combinatorial counting]], [[method_casi_conteggio|Counting by cases]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Answer:** 0045
-[[Quesiti/src_kangourou_2022_ecolier_squadre_f1#q04|src_kangourou_2022_ecolier_squadre_f1__Q04]]
 
 
 
-<span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_geometria_solida,skill_ragionamento_geometrico"></span>
+<span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_geometria_solida,skill_ragionamento_geometrico,skill_lettura_attenta"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -171,10 +171,10 @@ level: squadre
 > lungo, in totale, il nastro?
 
 **Topic:** [[topic_geometria_solida|Geometria solida]]
-**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta del testo]]
 **Area:** [[Geometria]]
 **Risposta:** 0157
-**Fonte:** apri PDF p.1
+**Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1ro6yjsB2uHlm-BKKvhVUKMlJroeJ2Yhr/view)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -187,10 +187,9 @@ level: squadre
 > In the picture you see a present tied with a ribbon. The box has the shape of a rectangular parallelepiped (of the "shoe box" kind), whose measurements in centimetres are shown. The part of the ribbon used for the knot and the bow is 47 cm long in all. How many centimetres long, in total, is the ribbon?
 
 **Topic:** [[topic_geometria_solida|Solid geometry]]
-**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_lettura_attenta|Careful reading of the text]]
 **Area:** [[Geometria|Geometry]]
 **Answer:** 0157
-[[Quesiti/src_kangourou_2022_ecolier_squadre_f1#q05|src_kangourou_2022_ecolier_squadre_f1__Q05]]
 
 
 
@@ -212,7 +211,7 @@ level: squadre
 **Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 3444
-**Fonte:** apri PDF p.1
+**Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1ro6yjsB2uHlm-BKKvhVUKMlJroeJ2Yhr/view)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -229,11 +228,10 @@ level: squadre
 **Skill:** [[skill_riconoscimento_pattern|Pattern recognition]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** 3444
-[[Quesiti/src_kangourou_2022_ecolier_squadre_f1#q06|src_kangourou_2022_ecolier_squadre_f1__Q06]]
 
 
 
-<span class="atom-split" id="q07" data-atom="q07" data-title="Quesito 7" data-tags="topic_combinatoria,topic_geometria_piana,method_conteggio,skill_conteggio_sistematico"></span>
+<span class="atom-split" id="q07" data-atom="q07" data-title="Quesito 7" data-tags="topic_combinatoria,topic_geometria_piana,method_conteggio,skill_conteggio_sistematico,skill_ragionamento_geometrico"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -245,10 +243,10 @@ level: squadre
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_conteggio|Conteggio combinatorio]]
-**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 **Risposta:** 0018
-**Fonte:** apri PDF p.1
+**Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1ro6yjsB2uHlm-BKKvhVUKMlJroeJ2Yhr/view)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -261,15 +259,14 @@ level: squadre
 > How many different squares can you see in this picture?
 
 **Topic:** [[topic_combinatoria|Combinatorics]], [[topic_geometria_piana|Plane geometry]]
-**Method:** [[method_conteggio|Combinatorial counting]]
-**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]], [[skill_ragionamento_geometrico|Geometric reasoning]]
 **Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Geometria|Geometry]]
 **Answer:** 0018
-[[Quesiti/src_kangourou_2022_ecolier_squadre_f1#q07|src_kangourou_2022_ecolier_squadre_f1__Q07]]
 
 
 
-<span class="atom-split" id="q08" data-atom="q08" data-title="Quesito 8" data-tags="topic_algebra,topic_aritmetica,skill_casework_accurato"></span>
+<span class="atom-split" id="q08" data-atom="q08" data-title="Quesito 8" data-tags="topic_algebra,topic_aritmetica,method_casework,method_congruenze,skill_casework_accurato,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -283,10 +280,11 @@ level: squadre
 > aggiunto la cifra 0 in coda?
 
 **Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Abilita:** [[skill_casework_accurato|Casework accurato]]
+**Metodo:** [[method_casework|Analisi per casi]], [[method_congruenze|Aritmetica modulare / congruenze]]
+**Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 0015
-**Fonte:** apri PDF p.2
+**Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1ro6yjsB2uHlm-BKKvhVUKMlJroeJ2Yhr/view)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -299,14 +297,14 @@ level: squadre
 > Alice wrote 5 consecutive integers, then added the digit 0 to the right of one of them and, thus modified, added it to the other 4: the sum is 210 (for example, if she had written 9, 10, 11, 12, 13 and had added 0 to 10, the sum would be 9 + 100 + 11 + 12 + 13 = 145). To which number did Alice add the digit 0 at the end?
 
 **Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Arithmetic / Number theory]]
-**Skill:** [[skill_casework_accurato|Careful case analysis]]
+**Metodo:** [[method_casework|Case analysis]], [[method_congruenze|Modular arithmetic / congruences]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
 **Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Answer:** 0015
-[[Quesiti/src_kangourou_2022_ecolier_squadre_f1#q08|src_kangourou_2022_ecolier_squadre_f1__Q08]]
 
 
 
-<span class="atom-split" id="q09" data-atom="q09" data-title="Quesito 9" data-tags="topic_algebra,topic_logica,skill_modellizzazione"></span>
+<span class="atom-split" id="q09" data-atom="q09" data-title="Quesito 9" data-tags="topic_algebra,topic_logica,method_backward,method_casework,skill_modellizzazione,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -320,10 +318,11 @@ level: squadre
 > nella cisterna ci sono 300 litri d’acqua. Quanti ce n’erano prima che venisse aperto il primo rubinetto?
 
 **Topic:** [[topic_algebra|Algebra]], [[topic_logica|Logica, giochi, strategie]]
-**Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
+**Metodo:** [[method_backward|Ragionamento all'indietro]], [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Algebra e Analisi]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 1650
-**Fonte:** apri PDF p.2
+**Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1ro6yjsB2uHlm-BKKvhVUKMlJroeJ2Yhr/view)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -336,14 +335,14 @@ level: squadre
 > The water in a cistern of capacity 2.000 litres can be drawn off by opening two taps: one lets you draw off two and a half litres a second, the other only 1 litre a second. The two taps were opened, one (we do not know which) 10 minutes ago, the other exactly 5 minutes later. Now there are 300 litres of water in the cistern. How many litres were there before the first tap was opened?
 
 **Topic:** [[topic_algebra|Algebra]], [[topic_logica|Logic, games and strategies]]
-**Skill:** [[skill_modellizzazione|Modelling / translating the text]]
+**Metodo:** [[method_backward|Working backwards]], [[method_casework|Case analysis]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]], [[skill_casework_accurato|Careful case analysis]]
 **Area:** [[Algebra e Analisi|Algebra and analysis]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** 1650
-[[Quesiti/src_kangourou_2022_ecolier_squadre_f1#q09|src_kangourou_2022_ecolier_squadre_f1__Q09]]
 
 
 
-<span class="atom-split" id="q10" data-atom="q10" data-title="Quesito 10" data-tags="topic_aritmetica,topic_combinatoria,method_doppio_conteggio,skill_conteggio_sistematico"></span>
+<span class="atom-split" id="q10" data-atom="q10" data-title="Quesito 10" data-tags="topic_aritmetica,topic_combinatoria,method_doppio_conteggio,method_fattorizzazione,skill_conteggio_sistematico,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -355,11 +354,11 @@ level: squadre
 > il prodotto delle sue due cifre e infine ha sommato tutti questi prodotti. Che somma ha ottenuto?
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
-**Metodo:** [[method_doppio_conteggio|Doppio conteggio]]
-**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Metodo:** [[method_doppio_conteggio|Doppio conteggio]], [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 2025
-**Fonte:** apri PDF p.2
+**Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1ro6yjsB2uHlm-BKKvhVUKMlJroeJ2Yhr/view)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -372,15 +371,14 @@ level: squadre
 > Michele wrote on a sheet all the 90 two-digit integers. Then, for each of them, he calculated the product of its two digits and finally added all these products. What sum did he obtain?
 
 **Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_combinatoria|Combinatorics]]
-**Method:** [[method_doppio_conteggio|Double counting]]
-**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+**Metodo:** [[method_doppio_conteggio|Double counting]], [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** 2025
-[[Quesiti/src_kangourou_2022_ecolier_squadre_f1#q10|src_kangourou_2022_ecolier_squadre_f1__Q10]]
 
 
 
-<span class="atom-split" id="q11" data-atom="q11" data-title="Quesito 11" data-tags="topic_aritmetica,method_conteggio,skill_conteggio_sistematico"></span>
+<span class="atom-split" id="q11" data-atom="q11" data-title="Quesito 11" data-tags="topic_aritmetica,topic_combinatoria,method_conteggio,skill_conteggio_sistematico"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -392,12 +390,12 @@ level: squadre
 > (Attenzione: due somme in cui gli addendi siano gli stessi, ma in ordine opposto, vanno considerate
 > come un modo solo.)
 
-**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_conteggio|Conteggio combinatorio]]
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
-**Area:** [[Aritmetica e Teoria dei Numeri]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0506
-**Fonte:** apri PDF p.2
+**Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1ro6yjsB2uHlm-BKKvhVUKMlJroeJ2Yhr/view)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -409,16 +407,15 @@ level: squadre
 >
 > In how many different ways can the number 2022 be written as a sum of two odd integers? (Note: two sums whose addends are the same, but in the opposite order, are to be counted as one way only.)
 
-**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
-**Method:** [[method_conteggio|Combinatorial counting]]
-**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
-**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** 0506
-[[Quesiti/src_kangourou_2022_ecolier_squadre_f1#q11|src_kangourou_2022_ecolier_squadre_f1__Q11]]
 
 
 
-<span class="atom-split" id="q12" data-atom="q12" data-title="Quesito 12" data-tags="topic_algebra,skill_modellizzazione"></span>
+<span class="atom-split" id="q12" data-atom="q12" data-title="Quesito 12" data-tags="topic_algebra,skill_modellizzazione,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -435,10 +432,10 @@ level: squadre
 > a B?
 
 **Topic:** [[topic_algebra|Algebra]]
-**Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Algebra e Analisi]]
 **Risposta:** 0090
-**Fonte:** apri PDF p.2
+**Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1ro6yjsB2uHlm-BKKvhVUKMlJroeJ2Yhr/view)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -451,10 +448,9 @@ level: squadre
 > A cat and a tortoise set off together from a point A to reach a point B along one and the same path, each walking at its own speed, which stays the same throughout the path. When the cat, which is faster, arrives at B, it immediately goes back along the path and meets the tortoise exactly halfway along the path. It then turns round again and arrives at B, where the tortoise catches up with it exactly three quarters of an hour later. By how many minutes do the time the cat takes and the time the tortoise takes differ, to cover the path from A to B once?
 
 **Topic:** [[topic_algebra|Algebra]]
-**Skill:** [[skill_modellizzazione|Modelling / translating the text]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
 **Area:** [[Algebra e Analisi|Algebra and analysis]]
 **Answer:** 0090
-[[Quesiti/src_kangourou_2022_ecolier_squadre_f1#q12|src_kangourou_2022_ecolier_squadre_f1__Q12]]
 
 
 
@@ -474,7 +470,7 @@ level: squadre
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0019
-**Fonte:** apri PDF p.2
+**Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1ro6yjsB2uHlm-BKKvhVUKMlJroeJ2Yhr/view)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -491,7 +487,6 @@ level: squadre
 **Skill:** [[skill_conteggio_sistematico|Systematic counting]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** 0019
-[[Quesiti/src_kangourou_2022_ecolier_squadre_f1#q13|src_kangourou_2022_ecolier_squadre_f1__Q13]]
 
 
 
@@ -511,7 +506,7 @@ level: squadre
 **Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 6144
-**Fonte:** apri PDF p.2
+**Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1ro6yjsB2uHlm-BKKvhVUKMlJroeJ2Yhr/view)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -528,7 +523,6 @@ level: squadre
 **Skill:** [[skill_riconoscimento_pattern|Pattern recognition]]
 **Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Answer:** 6144
-[[Quesiti/src_kangourou_2022_ecolier_squadre_f1#q14|src_kangourou_2022_ecolier_squadre_f1__Q14]]
 
 
 
@@ -550,7 +544,7 @@ level: squadre
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0024
-**Fonte:** apri PDF p.2
+**Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1ro6yjsB2uHlm-BKKvhVUKMlJroeJ2Yhr/view)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -567,4 +561,3 @@ level: squadre
 **Skill:** [[skill_conteggio_sistematico|Systematic counting]]
 **Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** 0024
-[[Quesiti/src_kangourou_2022_ecolier_squadre_f1#q15|src_kangourou_2022_ecolier_squadre_f1__Q15]]

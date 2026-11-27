@@ -17,7 +17,7 @@ level: kangourou
 
 *Area del triangolo ADE (parallelogramma)*
 
-![[src_kangourou_2007_benjamin_maggio__probb1.png]]
+![[src_kangourou_2007_benjamin_maggio__probB1.png]]
 
 ```tikz
 \begin{document}
@@ -53,7 +53,7 @@ level: kangourou
 
 *Area of triangle ADE (parallelogram)*
 
-![[src_kangourou_2007_benjamin_maggio__probb1.png]]
+![[src_kangourou_2007_benjamin_maggio__probB1.png]]
 
 ```tikz
 \begin{document}
@@ -81,22 +81,21 @@ level: kangourou
 **Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
 **Area:** [[Geometria|Geometry]]
 
-[[Quesiti/src_kangourou_2007_benjamin_maggio#qb1|src_kangourou_2007_benjamin_maggio__QB1]]
 
 
-
-<span class="atom-split" id="qb2" data-atom="qb2" data-title="Quesito B2" data-tags="topic_aritmetica,skill_riconoscimento_pattern"></span>
+<span class="atom-split" id="qb2" data-atom="qb2" data-title="Quesito B2" data-tags="topic_aritmetica,method_casework,skill_riconoscimento_pattern"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
 
 *Minimo monete per triangolo e quadrato*
 
-![[src_kangourou_2007_benjamin_maggio__probb2.png]]
+![[src_kangourou_2007_benjamin_maggio__probB2.png]]
 
 > Puoi appoggiare 15 monete uguali su un tavolo in modo che «formino un triangolo equilatero» (vedi figura), ma non puoi farlo in modo che «formino un quadrato» (manca una moneta). Qual è il minimo numero di monete con cui puoi formare sia un triangolo sia un quadrato?
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Analisi per casi]]
 **Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 36
@@ -108,19 +107,19 @@ level: kangourou
 
 *Minimum coins for triangle and square*
 
-![[src_kangourou_2007_benjamin_maggio__probb2.png]]
+![[src_kangourou_2007_benjamin_maggio__probB2.png]]
 
 > You can place 15 identical coins on a table so that they "form an equilateral triangle" (see figure), but you cannot do so that they "form a square" (one coin is missing). What is the minimum number of coins with which you can form both a triangle and a square?
 
+
 **Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_casework|Case analysis]]
 **Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
-[[Quesiti/src_kangourou_2007_benjamin_maggio#qb2|src_kangourou_2007_benjamin_maggio__QB2]]
 
 
-
-<span class="atom-split" id="qb3" data-atom="qb3" data-title="Quesito B3" data-tags="topic_aritmetica,method_conteggio,skill_modellizzazione"></span>
+<span class="atom-split" id="qb3" data-atom="qb3" data-title="Quesito B3" data-tags="topic_aritmetica,method_conteggio,method_fattorizzazione,skill_modellizzazione,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -130,8 +129,8 @@ level: kangourou
 > In una classe in cui ci sono almeno due maschi e due femmine, ogni ragazzo stringe una volta la mano a ogni ragazza. In totale sono state effettuate 91 strette di mano. Se i maschi sono meno delle femmine, quanti sono gli allievi maschi di quella classe?
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_conteggio|Conteggio combinatorio]]
-**Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
+**Metodo:** [[method_conteggio|Conteggio combinatorio]], [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 7
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1wbmAAkHVqbo7EOEVBYt8x1-cdr8_snEU/view)
@@ -144,16 +143,15 @@ level: kangourou
 
 > In a class with at least two boys and two girls, each boy shakes hands with each girl once. In total, 91 handshakes have taken place. If there are fewer boys than girls, how many male students are there in that class?
 
+
 **Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
-**Metodo:** [[method_conteggio|Combinatorial counting]]
-**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
+**Metodo:** [[method_conteggio|Combinatorial counting]], [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
-[[Quesiti/src_kangourou_2007_benjamin_maggio#qb3|src_kangourou_2007_benjamin_maggio__QB3]]
 
 
-
-<span class="atom-split" id="qb4" data-atom="qb4" data-title="Quesito B4" data-tags="topic_logica,method_invarianti,skill_astrazione"></span>
+<span class="atom-split" id="qb4" data-atom="qb4" data-title="Quesito B4" data-tags="topic_logica,method_invarianti,method_congruenze,skill_astrazione"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -172,7 +170,7 @@ level: kangourou
 > [Attenzione: se rispondi positivamente, devi mostrare che non si può ottenere un altro risultato; in caso contrario, devi indicare due procedimenti ciascuno dei quali permetta di produrre una sola molecola e le due molecole prodotte siano diverse].
 
 **Topic:** [[topic_logica|Logica, giochi, strategie]]
-**Metodo:** [[method_invarianti|Invarianti / monovarianti]]
+**Metodo:** [[method_invarianti|Invarianti / monovarianti]], [[method_congruenze|Aritmetica modulare / congruenze]]
 **Abilita:** [[skill_astrazione|Astrazione / generalizzazione]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** Anti-X
@@ -195,16 +193,15 @@ level: kangourou
 >
 > [Attention: if you answer in the affirmative, you must show that no other result can be obtained; otherwise, you must specify two procedures, each of which allows a single molecule to be produced, and the two molecules produced must be different].
 
+
 **Topic:** [[topic_logica|Logic, games and strategies]]
-**Metodo:** [[method_invarianti|Invariants / monovariants]]
+**Metodo:** [[method_invarianti|Invariants / monovariants]], [[method_congruenze|Modular arithmetic / congruences]]
 **Abilita:** [[skill_astrazione|Abstraction / generalisation]]
 **Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
-[[Quesiti/src_kangourou_2007_benjamin_maggio#qb4|src_kangourou_2007_benjamin_maggio__QB4]]
 
 
-
-<span class="atom-split" id="qb5" data-atom="qb5" data-title="Quesito B5" data-tags="topic_combinatoria,method_conteggio,skill_casework_accurato"></span>
+<span class="atom-split" id="qb5" data-atom="qb5" data-title="Quesito B5" data-tags="topic_combinatoria,topic_geometria_piana,method_conteggio,method_casework,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -217,10 +214,10 @@ level: kangourou
 > 
 > Quanti differenti triangoli possono consegnargli i suoi alunni, se si considerano uguali due triangoli quando per ogni lato di uno dei due c'è un lato dell'altro che ha la stessa misura?
 
-**Topic:** [[topic_combinatoria|Combinatoria]]
-**Metodo:** [[method_conteggio|Conteggio combinatorio]]
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_conteggio|Conteggio combinatorio]], [[method_casework|Analisi per casi]]
 **Abilita:** [[skill_casework_accurato|Casework accurato]]
-**Area:** [[Combinatoria, Logica e Probabilita]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 **Risposta:** 12
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1wbmAAkHVqbo7EOEVBYt8x1-cdr8_snEU/view)
 
@@ -236,16 +233,15 @@ level: kangourou
 >
 > How many different triangles can his pupils hand in to him, if two triangles are considered identical when, for each side of one of them, there is a side of the other with the same length?
 
-**Topic:** [[topic_combinatoria|Combinatorics]]
-**Metodo:** [[method_conteggio|Combinatorial counting]]
+
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_conteggio|Combinatorial counting]], [[method_casework|Case analysis]]
 **Abilita:** [[skill_casework_accurato|Careful case analysis]]
-**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
-
-[[Quesiti/src_kangourou_2007_benjamin_maggio#qb5|src_kangourou_2007_benjamin_maggio__QB5]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Geometria|Geometry]]
 
 
 
-<span class="atom-split" id="qb6" data-atom="qb6" data-title="Quesito B6" data-tags="topic_combinatoria,method_conteggio,skill_conteggio_sistematico"></span>
+<span class="atom-split" id="qb6" data-atom="qb6" data-title="Quesito B6" data-tags="topic_combinatoria,topic_algebra,method_conteggio,method_fattorizzazione,skill_conteggio_sistematico,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -254,10 +250,10 @@ level: kangourou
 
 > Ho in tasca delle caramelle tutte diverse tra loro e il numero dei modi in cui posso sceglierne tre è il doppio del numero dei modi in cui posso sceglierne due. Quante caramelle ho in tasca?
 
-**Topic:** [[topic_combinatoria|Combinatoria]]
-**Metodo:** [[method_conteggio|Conteggio combinatorio]]
-**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
-**Area:** [[Combinatoria, Logica e Probabilita]]
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_conteggio|Conteggio combinatorio]], [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Algebra e Analisi]]
 **Risposta:** 8
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1wbmAAkHVqbo7EOEVBYt8x1-cdr8_snEU/view)
 
@@ -269,9 +265,8 @@ level: kangourou
 
 > I have all sorts of different candies in my pocket, and the number of ways I can choose three of them is twice the number of ways I can choose two of them. How many candies do I have in my pocket?
 
-**Topic:** [[topic_combinatoria|Combinatorics]]
-**Metodo:** [[method_conteggio|Combinatorial counting]]
-**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
-**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
-[[Quesiti/src_kangourou_2007_benjamin_maggio#qb6|src_kangourou_2007_benjamin_maggio__QB6]]
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_conteggio|Combinatorial counting]], [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Algebra e Analisi|Algebra and analysis]]

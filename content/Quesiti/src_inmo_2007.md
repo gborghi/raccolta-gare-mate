@@ -10,7 +10,7 @@ level: INMO
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_geometria_piana,topic_trigonometria,method_trigonometria,method_casework,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_geometria_piana,topic_trigonometria,method_trigonometria,method_casework,skill_ragionamento_geometrico,skill_manipolazione_algebrica,skill_stima"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -20,12 +20,12 @@ level: INMO
 > In a triangle $ABC$ right-angled at $C$, the median through $B$ bisects the angle between $BA$ and the bisector of $\angle B$. Prove that
 > $$\frac{5}{2} < \frac{AB}{BC} < 3.$$
 
-![[src_inmo_2007__q01.png]]
+![[src_inmo_2007__Q01.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometria]]
 **Metodo:** [[method_trigonometria|Trigonometria]], [[method_casework|Casework]]
-**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
-**Area:** [[Geometria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Estimation and approximation]]
+**Area:** [[Geometria|Geometry]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1GDB9h1f2j9Id2KXkRQkP-aK4nL-Se5hG/view)
 
 
@@ -37,18 +37,17 @@ level: INMO
 > In un triangolo $ABC$ rettangolo in $C$, la mediana passante per $B$ biseca l'angolo compreso tra $BA$ e la bisettrice di $\angle B$. Dimostrare che
 > $$\frac{5}{2} < \frac{AB}{BC} < 3.$$
 
-![[src_inmo_2007__q01.png]]
+![[src_inmo_2007__Q01.png]]
+
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometria]]
 **Metodo:** [[method_trigonometria|Trigonometria]], [[method_casework|Casework]]
-**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima e approssimazione]]
 **Area:** [[Geometria]]
 
-[[Quesiti/src_inmo_2007#q01|src_inmo_2007__Q01]]
 
 
-
-<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_aritmetica,topic_algebra,method_fattorizzazione,method_congruenze,skill_manipolazione_algebrica,skill_riconoscimento_pattern"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_aritmetica,topic_algebra,method_fattorizzazione,method_congruenze,method_casework,skill_manipolazione_algebrica,skill_riconoscimento_pattern"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -60,9 +59,9 @@ level: INMO
 > where $p_i$'s, $q_i$'s, $r_i$'s are all **nonzero** integers. Further, if $3$ does **not** divide at least one of $a, b, c$, prove that $9n$ can be expressed in the form $x^2 + y^2 + z^2$, where $x, y, z$ are natural numbers **none** of which is divisible by $3$.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
-**Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_congruenze|Congruenze]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_congruenze|Congruenze]], [[method_casework|Case analysis]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
-**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Algebra e Analisi|Algebra and analysis]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1GDB9h1f2j9Id2KXkRQkP-aK4nL-Se5hG/view)
 
 
@@ -75,12 +74,11 @@ level: INMO
 > $$9n = (p_1 a + q_1 b + r_1 c)^2 + (p_2 a + q_2 b + r_2 c)^2 + (p_3 a + q_3 b + r_3 c)^2,$$
 > dove gli $p_i$, gli $q_i$ e gli $r_i$ sono tutti interi **diversi da zero**. Inoltre, se $3$ **non** divide almeno uno degli $a, b, c$, dimostrare che $9n$ può essere espresso nella forma $x^2 + y^2 + z^2$, dove gli $x, y, z$ sono numeri naturali **nessuno** dei quali è divisibile per $3$.
 
+
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
-**Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_congruenze|Congruenze]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_congruenze|Congruenze]], [[method_casework|Analisi per casi]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
-
-[[Quesiti/src_inmo_2007#q02|src_inmo_2007__Q02]]
 
 
 
@@ -111,8 +109,6 @@ level: INMO
 **Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_casework|Casework]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
-
-[[Quesiti/src_inmo_2007#q03|src_inmo_2007__Q03]]
 
 
 
@@ -145,11 +141,9 @@ level: INMO
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 
-[[Quesiti/src_inmo_2007#q04|src_inmo_2007__Q04]]
 
 
-
-<span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_geometria_piana,topic_algebra,method_coordinate,method_trigonometria,skill_ragionamento_geometrico,skill_manipolazione_algebrica,skill_modellizzazione"></span>
+<span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_geometria_piana,topic_algebra,topic_disuguaglianze,method_coordinate,method_trigonometria,method_disuguaglianze,skill_ragionamento_geometrico,skill_manipolazione_algebrica,skill_modellizzazione"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -162,12 +156,12 @@ level: INMO
 > $$z^2 - (\lambda^3 - \lambda^2 - 2)z + 1 = 0.$$
 > Hence show that $\lambda \ge 2$ and $\lambda = 2$ if and only if $ABC$ is equilateral.
 
-![[src_inmo_2007__q05.png]]
+![[src_inmo_2007__Q05.png]]
 
-**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_algebra|Algebra]]
-**Metodo:** [[method_coordinate|Coordinate]], [[method_trigonometria|Trigonometria]]
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_algebra|Algebra]], [[topic_disuguaglianze|Inequalities]]
+**Metodo:** [[method_coordinate|Coordinate]], [[method_trigonometria|Trigonometria]], [[method_disuguaglianze|Classical inequalities]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]]
-**Area:** [[Geometria]], [[Algebra e Analisi]]
+**Area:** [[Geometria|Geometry]], [[Algebra e Analisi|Algebra and analysis]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1GDB9h1f2j9Id2KXkRQkP-aK4nL-Se5hG/view)
 
 
@@ -182,14 +176,13 @@ level: INMO
 > $$z^2 - (\lambda^3 - \lambda^2 - 2)z + 1 = 0.$$
 > Pertanto, mostrare che $\lambda \ge 2$ e $\lambda = 2$ se e solo se $ABC$ è equilatero.
 
-![[src_inmo_2007__q05.png]]
+![[src_inmo_2007__Q05.png]]
 
-**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_algebra|Algebra]]
-**Metodo:** [[method_coordinate|Coordinate]], [[method_trigonometria|Trigonometria]]
+
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_algebra|Algebra]], [[topic_disuguaglianze|Disuguaglianze]]
+**Metodo:** [[method_coordinate|Coordinate]], [[method_trigonometria|Trigonometria]], [[method_disuguaglianze|Disuguaglianze classiche]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]]
 **Area:** [[Geometria]], [[Algebra e Analisi]]
-
-[[Quesiti/src_inmo_2007#q05|src_inmo_2007__Q05]]
 
 
 
@@ -222,5 +215,3 @@ level: INMO
 **Metodo:** [[method_disuguaglianze|Disuguaglianze]], [[method_simmetria|Simmetria]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Algebra e Analisi]]
-
-[[Quesiti/src_inmo_2007#q06|src_inmo_2007__Q06]]

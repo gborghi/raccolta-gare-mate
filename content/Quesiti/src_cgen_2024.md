@@ -10,7 +10,7 @@ level: Concours Général
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_algebra,topic_insiemi_funzioni,method_induzione,method_disuguaglianze,skill_manipolazione_algebrica,skill_lettura_attenta,skill_stima"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_algebra,topic_insiemi_funzioni,topic_funzionali,method_induzione,method_disuguaglianze,method_ricorsione,skill_manipolazione_algebrica,skill_lettura_attenta,skill_stima"></span>
 
 <div class="qlang-switch" data-default="fr"></div>
 
@@ -53,10 +53,10 @@ level: Concours Général
 >
 > 10. Déterminer la limite de $\dfrac{u_n - 1 - \dfrac{2}{n}}{\dfrac{1}{n}}$ quand $n$ tend vers $+\infty$.
 
-**Topic:** [[topic_algebra|Algebra]], [[topic_insiemi_funzioni|Insiemi e funzioni]]
-**Metodo:** [[method_induzione|Induzione]], [[method_disuguaglianze|Disuguaglianze]]
+**Topic:** [[topic_algebra|Algebra]], [[topic_insiemi_funzioni|Insiemi e funzioni]], [[topic_funzionali|Équations fonctionnelles]]
+**Metodo:** [[method_induzione|Induzione]], [[method_disuguaglianze|Disuguaglianze]], [[method_ricorsione|Récursion]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_stima|Stima]]
-**Area:** [[Algebra e Analisi]]
+**Area:** [[Algebra e Analisi|Algèbre et analyse]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1c1cSoVwqMLgL0IF4BNA5JRS_DbCgZRxy/view)
 
 
@@ -102,10 +102,10 @@ level: Concours Général
 > 10. Determinare il limite di $\dfrac{u_n - 1 - \dfrac{2}{n}}{\dfrac{1}{n}}$ quando $n$ tende a $+\infty$.
 
 
-**Topic:** [[topic_algebra|Algebra]], [[topic_insiemi_funzioni|Insiemi e funzioni]]
-**Metodo:** [[method_induzione|Induzione]], [[method_disuguaglianze|Disuguaglianze classiche]]
+**Topic:** [[topic_algebra|Algebra]], [[topic_insiemi_funzioni|Insiemi e funzioni]], [[topic_funzionali|Equazioni funzionali / successioni]]
+**Metodo:** [[method_induzione|Induzione]], [[method_disuguaglianze|Disuguaglianze classiche]], [[method_ricorsione|Ricorsione]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta del testo]], [[skill_stima|Stima e approssimazione]]
-[[Quesiti/src_cgen_2024#q01|src_cgen_2024__Q01]]
+**Area:** [[Algebra e Analisi]]
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -150,14 +150,14 @@ level: Concours Général
 > 10. Determine the limit of $\dfrac{u_n - 1 - \dfrac{2}{n}}{\dfrac{1}{n}}$ as $n$ tends to $+\infty$.
 
 
-**Topic:** [[topic_algebra|Algebra]], [[topic_insiemi_funzioni|Sets and functions]]
-**Method:** [[method_induzione|Induction]], [[method_disuguaglianze|Classical inequalities]]
-**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_lettura_attenta|Careful reading]], [[skill_stima|Estimation and approximation]]
-[[Quesiti/src_cgen_2024#q01|src_cgen_2024__Q01]]
+**Topic:** [[topic_algebra|Algebra]], [[topic_insiemi_funzioni|Sets and functions]], [[topic_funzionali|Functional equations / sequences]]
+**Metodo:** [[method_induzione|Induction]], [[method_disuguaglianze|Classical inequalities]], [[method_ricorsione|Recursion]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_lettura_attenta|Careful reading]], [[skill_stima|Estimation and approximation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
 
 
 
-<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_probabilita,topic_combinatoria,method_casework,method_conteggio,method_ricorsione,skill_modellizzazione,skill_casework_accurato,skill_lettura_attenta"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_probabilita,topic_combinatoria,topic_logica,method_casework,method_conteggio,method_ricorsione,skill_modellizzazione,skill_casework_accurato,skill_lettura_attenta,skill_conteggio_sistematico"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -222,10 +222,10 @@ level: Concours Général
 > 
 > 9. For which values of $n \ge 3$ can Sophie and Germain devise a common strategy that ensures Sophie finds the box with the packet?
 
-**Topic:** [[topic_probabilita|Probabilità]], [[topic_combinatoria|Combinatoria]]
+**Topic:** [[topic_probabilita|Probabilità]], [[topic_combinatoria|Combinatoria]], [[topic_logica|Logic, games and strategies]]
 **Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]], [[method_ricorsione|Ricorsione]]
-**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_casework_accurato|Casework accurato]], [[skill_lettura_attenta|Lettura attenta]]
-**Area:** [[Combinatoria, Logica e Probabilita]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_casework_accurato|Casework accurato]], [[skill_lettura_attenta|Lettura attenta]], [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1c1cSoVwqMLgL0IF4BNA5JRS_DbCgZRxy/view)
 
 > [!warning] Estratto/tradotto da verificare con la fonte.
@@ -280,14 +280,14 @@ Gioco di probabilità con scatole opache che nascondono dolci; scelte in stile M
 > 
 > 9. Per quali valori di $n \ge 3$ possono Sophie e Germain ideare una strategia comune che assicuri che Sophie trovi la scatola con il pacchetto?
 
-[[Quesiti/src_cgen_2024#q02|src_cgen_2024__Q02]]
+**Topic:** [[topic_probabilita|Probabilita e statistica]], [[topic_combinatoria|Combinatoria]], [[topic_logica|Logica, giochi, strategie]]
+**Metodo:** [[method_casework|Analisi per casi]], [[method_conteggio|Conteggio combinatorio]], [[method_ricorsione|Ricorsione]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_casework_accurato|Casework accurato]], [[skill_lettura_attenta|Lettura attenta del testo]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
 
 
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_aritmetica,topic_insiemi_funzioni,topic_geometria_analitica,method_casework,method_coordinate,method_estremalita,method_induzione,method_cassetti,skill_astrazione,skill_manipolazione_algebrica,skill_ragionamento_geometrico,skill_lettura_attenta"></span>
-
-<div class="qlang-switch" data-default="en"></div>
-
 
 *Sets E(x)={ent(k/x): k in N∗} of integer parts; characterize reals alpha,beta whose sets have empty intersection (P-cap) or union N∗ (P-cup); Beatty-type theorems via a geometric lattice argument*
 
@@ -405,8 +405,20 @@ Gioco di probabilità con scatole opache che nascondono dolci; scelte in stile M
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<div class="qlang-split" data-lang="it"></div>
 
+<span class="atom-split" id="q03__it" data-atom="q03__it" data-title="Q03__IT" data-tags=""></span>
+
+---
+tipo: quesito-translation
+translation_of: src_cgen_2024__Q03
+lang: it
+secondary: true
+title: "Concours Général des Lycées 2024  Matematica  Quesito 3"
+summary: "Set E(x)={ent(k/x): k in N*} di parti integri; caratterizzare i reali alfa,beta i cui set hanno intersezione vuota (P-cap) o unione N* (P-cup); teoremi di tipo Beatty tramite un argomento di rete geometrica"
+topics: [topic_aritmetica, topic_insiemi_funzioni, topic_geometria_analitica]
+methods: [method_casework, method_coordinate, method_estremalita, method_induzione, method_cassetti]
+skills: [skill_astrazione, skill_manipolazione_algebrica, skill_ragionamento_geometrico, skill_lettura_attenta]
+tags: [kg/translation, topic/aritmetica, topic/insiemi_funzioni, topic/geometria_analitica]---
 
 *insiemi E(x)={ent(k/x): k in N∗} di parti integri; caratterizzare i reali alfa,beta i cui insiemi hanno intersezione vuota (P-cap) o unione N∗ (P-cup); teoremi di tipo Beatty tramite un argomento di reticola geometrica*
 
@@ -478,4 +490,8 @@ Gioco di probabilità con scatole opache che nascondono dolci; scelte in stile M
 > 
 > 21. Esistono tre valori rigorosamente positivi $\alpha$, $\beta$ e $\gamma$ per i quali gli insiemi $\mathcal{E}(\alpha)$, $\mathcal{E}(\beta)$ e $\mathcal{E}(\gamma)$ sono disconnessi in coppia?
 
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_insiemi_funzioni|Insiemi e funzioni]], [[topic_geometria_analitica|Geometria analitica]]
+**Metodo:** [[method_casework|Analisi per casi]], [[method_coordinate|Metodo delle coordinate]], [[method_estremalita|Principio di estremalita]], [[method_induzione|Induzione]], [[method_cassetti|Principio dei cassetti]]
+**Abilita:** [[skill_astrazione|Astrazione / generalizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta del testo]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]], [[Geometria]]
 [[Quesiti/src_cgen_2024#q03|src_cgen_2024__Q03]]

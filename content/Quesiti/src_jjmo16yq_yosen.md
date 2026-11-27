@@ -19,7 +19,7 @@ level: JJMO Yosen
 
 > An equilateral triangle $ABC$ is divided by drawing one line segment parallel to each of the three sides, as shown in the figure. The numbers in the figure represent the areas of the three inner equilateral triangles formed. Find the area of the equilateral triangle $ABC$.
 
-![[src_jjmo16yq_yosen__q01.png]]
+![[src_jjmo16yq_yosen__Q01.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_simmetria|Simmetria]]
@@ -36,18 +36,16 @@ level: JJMO Yosen
 
 > Un triangolo equilatero $ABC$ viene suddiviso tracciando un segmento di retta parallelo a ciascuno dei tre lati, come mostrato nella figura. I numeri presenti nella figura rappresentano le aree dei tre triangoli equilateri interni che si formano. Determinare l'area del triangolo equilatero $ABC$.
 
-![[src_jjmo16yq_yosen__q01.png]]
+![[src_jjmo16yq_yosen__Q01.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_simmetria|Simmetria]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 
-[[Quesiti/src_jjmo16yq_yosen#q01|src_jjmo16yq_yosen__Q01]]
 
 
-
-<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_aritmetica,method_casework,method_conteggio,skill_conteggio_sistematico,skill_lettura_attenta"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_aritmetica,method_casework,method_conteggio,method_fattorizzazione,skill_conteggio_sistematico,skill_lettura_attenta,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -57,9 +55,9 @@ level: JJMO Yosen
 > How many positive integers $n$ are there such that the remainder when $109$ is divided by $n$ is at least $0$ and at most $30$?
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]]
-**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]]
-**Area:** [[Aritmetica e Teoria dei Numeri]]
+**Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]], [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Risposta:** 80
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1kd1TVGSchFgfQoYWGu97jdlpAwS4ecq_/view)
 
@@ -71,14 +69,12 @@ level: JJMO Yosen
 
 > Quanti interi positivi $n$ esistono tali che il resto della divisione di $109$ per $n$ sia almeno $0$ e al più $30$?
 
+
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei numeri]]
-**Metodo:** [[method_casework|Analisi per casi]], [[method_conteggio|Conteggio combinatorio]]
-**Abilità:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta del testo]]
+**Metodo:** [[method_casework|Analisi per casi]], [[method_conteggio|Conteggio combinatorio]], [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta del testo]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Aritmetica e teoria dei numeri]]
-
 **Risposta:** 80
-
-[[Quesiti/src_jjmo16yq_yosen#q02|src_jjmo16yq_yosen__Q02]]
 
 
 
@@ -111,11 +107,9 @@ level: JJMO Yosen
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 
-[[Quesiti/src_jjmo16yq_yosen#q03|src_jjmo16yq_yosen__Q03]]
 
 
-
-<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_aritmetica,method_conteggio,method_fattorizzazione,skill_conteggio_sistematico,skill_manipolazione_algebrica"></span>
+<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_aritmetica,method_conteggio,method_fattorizzazione,method_casework,skill_conteggio_sistematico,skill_manipolazione_algebrica,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -125,9 +119,9 @@ level: JJMO Yosen
 > How many positive divisors of $5040$ have exactly $6$ divisors?
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_conteggio|Conteggio]], [[method_fattorizzazione|Fattorizzazione]]
-**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
-**Area:** [[Aritmetica e Teoria dei Numeri]]
+**Metodo:** [[method_conteggio|Conteggio]], [[method_fattorizzazione|Fattorizzazione]], [[method_casework|Case analysis]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Risposta:** 10
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1kd1TVGSchFgfQoYWGu97jdlpAwS4ecq_/view)
 
@@ -139,14 +133,12 @@ level: JJMO Yosen
 
 > Quanti divisori positivi di $5040$ hanno esattamente $6$ divisori?
 
+
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei numeri]]
-**Metodo:** [[method_conteggio|Conteggio combinatorio]], [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
-**Abilità:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Metodo:** [[method_conteggio|Conteggio combinatorio]], [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]], [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Aritmetica e teoria dei numeri]]
-
 **Risposta:** 10
-
-[[Quesiti/src_jjmo16yq_yosen#q04|src_jjmo16yq_yosen__Q04]]
 
 
 
@@ -179,8 +171,6 @@ level: JJMO Yosen
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 
-[[Quesiti/src_jjmo16yq_yosen#q05|src_jjmo16yq_yosen__Q05]]
-
 
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_combinatoria,method_casework,method_colorazione,method_simmetria,skill_conteggio_sistematico,skill_casework_accurato"></span>
@@ -192,7 +182,7 @@ level: JJMO Yosen
 
 > On a grid plane, place $12$ tiles of the L-shaped tromino type shown (each covering $4$ unit squares in an L-shape) without overlap so that they exactly cover the cross-shaped region shown in the figure. How many ways are there? (Tiles may be rotated or flipped. Two tilings are considered the same if one can be obtained from the other by rotation or reflection of the entire board.)
 
-![[src_jjmo16yq_yosen__q06.png]]
+![[src_jjmo16yq_yosen__Q06.png]]
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_casework|Casework]], [[method_colorazione|Colorazione]], [[method_simmetria|Simmetria]]
@@ -209,14 +199,12 @@ level: JJMO Yosen
 
 > Su un piano a griglia, disponi $12$ tessere del tipo tromino a forma di L mostrato (ciascuna copre $4$ quadrati unitari a forma di L) senza sovrapposizioni, in modo che coprano esattamente la regione a forma di croce mostrata nella figura. Quante sono le possibilità? (Le tessere possono essere ruotate o ribaltate. Due pavimentazioni si considerano identiche se una può essere ottenuta dall'altra mediante rotazione o riflessione dell'intero tabellone.)
 
-![[src_jjmo16yq_yosen__q06.png]]
+![[src_jjmo16yq_yosen__Q06.png]]
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_casework|Casework]], [[method_colorazione|Colorazione]], [[method_simmetria|Simmetria]]
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
-
-[[Quesiti/src_jjmo16yq_yosen#q06|src_jjmo16yq_yosen__Q06]]
 
 
 
@@ -249,11 +237,9 @@ level: JJMO Yosen
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 
-[[Quesiti/src_jjmo16yq_yosen#q07|src_jjmo16yq_yosen__Q07]]
 
 
-
-<span class="atom-split" id="q08" data-atom="q08" data-title="Quesito 8" data-tags="topic_algebra,method_fattorizzazione,method_casework,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
+<span class="atom-split" id="q08" data-atom="q08" data-title="Quesito 8" data-tags="topic_algebra,topic_aritmetica,method_fattorizzazione,method_casework,skill_manipolazione_algebrica,skill_lettura_attenta,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -262,10 +248,10 @@ level: JJMO Yosen
 
 > Let $a$, $b$, $c$ be integers. Suppose the polynomial $P(x) = ax^2 - bx + c$ satisfies $P(16) = 59$, $P(30) = 59$, and $P(n) = 2018$ for some integer $n \ge 17$. Find all possible values of $a$.
 
-**Topic:** [[topic_algebra|Algebra]]
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Arithmetic / Number theory]]
 **Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_casework|Casework]]
-**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
-**Area:** [[Algebra e Analisi]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Risposta:** -70, 341
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1kd1TVGSchFgfQoYWGu97jdlpAwS4ecq_/view)
 
@@ -277,16 +263,15 @@ level: JJMO Yosen
 
 > Siano $a$, $b$, $c$ numeri interi. Si supponga che il polinomio $P(x) = ax^2 - bx + c$ soddisfi $P(16) = 59$, $P(30) = 59$ e $P(n) = 2018$ per un certo numero intero $n \ge 17$. Determinare tutti i valori possibili di $a$.
 
-**Topic:** [[topic_algebra|Algebra]]
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_casework|Casework]]
-**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
-**Area:** [[Algebra e Analisi]]
-
-[[Quesiti/src_jjmo16yq_yosen#q08|src_jjmo16yq_yosen__Q08]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 
 
 
-<span class="atom-split" id="q09" data-atom="q09" data-title="Quesito 9" data-tags="topic_combinatoria,method_casework,method_colorazione,method_simmetria,skill_casework_accurato,skill_conteggio_sistematico"></span>
+<span class="atom-split" id="q09" data-atom="q09" data-title="Quesito 9" data-tags="topic_combinatoria,method_casework,method_colorazione,method_simmetria,skill_casework_accurato,skill_conteggio_sistematico,skill_ragionamento_geometrico"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -297,8 +282,8 @@ level: JJMO Yosen
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_casework|Casework]], [[method_colorazione|Colorazione]], [[method_simmetria|Simmetria]]
-**Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_conteggio_sistematico|Conteggio sistematico]]
-**Area:** [[Combinatoria, Logica e Probabilita]]
+**Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Risposta:** 55
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1kd1TVGSchFgfQoYWGu97jdlpAwS4ecq_/view)
 
@@ -310,12 +295,11 @@ level: JJMO Yosen
 
 > Ci sono $8$ cubi unitari. Ogni faccia di ciascun cubo è dipinta di rosso o di giallo. Conta il numero di modi per dipingere tutte le facce (ossia per assegnare un colore a ciascuna faccia di ciascuno dei $8$ cubi) in modo che entrambe le seguenti condizioni possano essere soddisfatte simultaneamente:  (i) I $8$ cubi possono essere assemblati in un cubo $2 \times 2 \times 2$ tale che il cubo grande risultante abbia esattamente $5$ facce rosse e $1$ facce gialle sulla superficie.  (ii) I $8$ cubi possono essere assemblati (eventualmente in una disposizione diversa) in un cubo $2 \times 2 \times 2$ tale che il cubo grande risultante abbia esattamente $1$ facce rosse e $5$ facce gialle sulla superficie.  Due colorazioni si considerano identiche se una può essere ottenuta dall'altra ruotando uno dei cubi unitari. Due disposizioni di assemblaggio che differiscono solo per una rotazione o una riflessione dell'intero cubo $2 \times 2 \times 2$ si considerano identiche.
 
+
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_casework|Casework]], [[method_colorazione|Colorazione]], [[method_simmetria|Simmetria]]
-**Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
-
-[[Quesiti/src_jjmo16yq_yosen#q09|src_jjmo16yq_yosen__Q09]]
 
 
 
@@ -348,8 +332,6 @@ level: JJMO Yosen
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 
-[[Quesiti/src_jjmo16yq_yosen#q10|src_jjmo16yq_yosen__Q10]]
-
 
 
 <span class="atom-split" id="q11" data-atom="q11" data-title="Quesito 11" data-tags="topic_geometria_piana,method_coordinate,method_trigonometria,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
@@ -381,11 +363,9 @@ level: JJMO Yosen
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 
-[[Quesiti/src_jjmo16yq_yosen#q11|src_jjmo16yq_yosen__Q11]]
 
 
-
-<span class="atom-split" id="q12" data-atom="q12" data-title="Quesito 12" data-tags="topic_combinatoria,topic_logica,method_grafi,method_estremalita,skill_ragionamento_geometrico,skill_modellizzazione,skill_stima"></span>
+<span class="atom-split" id="q12" data-atom="q12" data-title="Quesito 12" data-tags="topic_combinatoria,topic_logica,method_grafi,method_estremalita,method_simmetria,skill_ragionamento_geometrico,skill_modellizzazione,skill_stima"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -395,9 +375,9 @@ level: JJMO Yosen
 > The JJMO railway runs a circular line with $2018$ stations arranged in a circle. Currently, local trains (stopping at every station) run in both directions around the circle, and each train travels exactly $1$ minute between consecutive stations. The president plans to introduce express trains that stop only at a designated subset of stations (chosen by the president), also traveling $1$ minute between consecutive express stops. Find the minimum positive integer $m$ such that the president can choose the express stops so that the following condition holds:\n\nCondition: For any two distinct stations $A$ and $B$, it is possible to travel from $A$ to $B$ in at most $m$ minutes (transfers are allowed any number of times; waiting times and transfer times are ignored).
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_logica|Logica]]
-**Metodo:** [[method_grafi|Grafi]], [[method_estremalita|Estremalità]]
+**Metodo:** [[method_grafi|Grafi]], [[method_estremalita|Estremalità]], [[method_simmetria|Using symmetry]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]], [[skill_stima|Stima]]
-**Area:** [[Combinatoria, Logica e Probabilita]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Risposta:** 124
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1kd1TVGSchFgfQoYWGu97jdlpAwS4ecq_/view)
 
@@ -409,9 +389,8 @@ level: JJMO Yosen
 
 > La ferrovia JJMO gestisce una linea circolare con $2018$ stazioni disposte in cerchio. Attualmente, i treni locali (che fermano in ogni stazione) circolano in entrambe le direzioni lungo il percorso circolare, e ogni treno impiega esattamente $1$ minuti tra stazioni consecutive. Il presidente intende introdurre treni espressi che fermano solo in un sottoinsieme designato di stazioni (scelto dal presidente), i quali percorrono anch'essi $1$ minuti tra fermate espresse consecutive. Determinare il minimo intero positivo $m$ tale che il presidente possa scegliere le fermate espresse in modo che valga la seguente condizione:  Condizione: Per qualsiasi coppia di stazioni distinte $A$ e $B$, è possibile spostarsi da $A$ a $B$ in non più di $m$ minuti (sono ammessi cambi un numero qualsiasi di volte; i tempi di attesa e i tempi di cambio vengono trascurati).
 
+
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_logica|Logica]]
-**Metodo:** [[method_grafi|Grafi]], [[method_estremalita|Estremalità]]
+**Metodo:** [[method_grafi|Grafi]], [[method_estremalita|Estremalità]], [[method_simmetria|Sfruttamento della simmetria]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]], [[skill_stima|Stima]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
-
-[[Quesiti/src_jjmo16yq_yosen#q12|src_jjmo16yq_yosen__Q12]]

@@ -10,7 +10,7 @@ level: BMO Round 2
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_geometria_piana,topic_aritmetica,method_casework,method_estremalita,skill_ragionamento_geometrico,skill_conteggio_sistematico,skill_lettura_attenta"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_geometria_piana,topic_aritmetica,method_casework,method_estremalita,skill_ragionamento_geometrico,skill_conteggio_sistematico,skill_lettura_attenta,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -23,12 +23,12 @@ level: BMO Round 2
 > 
 > Find the smallest possible value of $a + b + c$ for which such an angle unit can be chosen, and mark the corresponding values of the angles $a$ to $\ell$ in the diagram.
 
-![[src_bmo_1992-93_round2__q01.png]]
+![[src_bmo_1992-93_round2__Q01.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_casework|Casework]], [[method_estremalita|Estremalità]]
-**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]]
-**Area:** [[Geometria]], [[Aritmetica e Teoria dei Numeri]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Geometria|Geometry]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1aFT9G_ZKn1J7Wpj9P28kBqV5xurU7n--/view)
 
 
@@ -37,7 +37,7 @@ level: BMO Round 2
 
 *Il minimo valore possibile di $a + b + c$, con gli angoli tutti distinti*
 
-![[src_bmo_1992-93_round2__q01.png]]
+![[src_bmo_1992-93_round2__Q01.png]]
 
 > Di solito si misurano gli angoli in gradi, ma si può usare qualunque altra unità. Per esempio, se si usa $30^\circ$ come nuova unità, allora gli angoli di un triangolo di $30^\circ$, $60^\circ$, $90^\circ$ sarebbero uguali rispettivamente a $1$, $2$, $3$ nuove unità.
 >
@@ -45,12 +45,11 @@ level: BMO Round 2
 >
 > Trovare il minimo valore possibile di $a + b + c$ per cui si possa scegliere una tale unità angolare, e segnare nella figura i valori corrispondenti degli angoli da $a$ a $\ell$.
 
+
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_casework|Analisi per casi]], [[method_estremalita|Estremalità]]
-**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Geometria|Geometria]], [[Aritmetica e Teoria dei Numeri|Aritmetica e teoria dei numeri]]
-
-[[Quesiti/src_bmo_1992-93_round2#q01|src_bmo_1992-93_round2__Q01]]
 
 
 
@@ -81,8 +80,6 @@ level: BMO Round 2
 **Metodo:** [[method_congruenze|Congruenze]], [[method_fattorizzazione|Fattorizzazione]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Aritmetica e teoria dei numeri]]
-
-[[Quesiti/src_bmo_1992-93_round2#q02|src_bmo_1992-93_round2__Q02]]
 
 
 
@@ -120,8 +117,6 @@ level: BMO Round 2
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria|Geometria]]
 
-[[Quesiti/src_bmo_1992-93_round2#q03|src_bmo_1992-93_round2__Q03]]
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_combinatoria,topic_aritmetica,method_doppio_conteggio,method_conteggio,skill_conteggio_sistematico,skill_manipolazione_algebrica,skill_ragionamento_geometrico"></span>
@@ -151,5 +146,3 @@ level: BMO Round 2
 **Metodo:** [[method_doppio_conteggio|Doppio conteggio]], [[method_conteggio|Conteggio]]
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Combinatoria, Logica e Probabilita|Combinatoria, logica e probabilità]], [[Aritmetica e Teoria dei Numeri|Aritmetica e teoria dei numeri]]
-
-[[Quesiti/src_bmo_1992-93_round2#q04|src_bmo_1992-93_round2__Q04]]

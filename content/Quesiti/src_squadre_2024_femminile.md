@@ -10,21 +10,19 @@ level: squadre
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_geometria_piana,method_coordinate"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_geometria_piana,method_coordinate,skill_ragionamento_geometrico,skill_manipolazione_algebrica,skill_modellizzazione"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
 
 *Area unione tre rettangoli, AB=20 BC=40*
 
-> Festa al castello
-> SherLog Hodge, il famoso detective, osserva di nascosto i 33 partecipanti ad una festa. Sa che alcuni sono dalla
-> sua parte, gli altri invece sono fedeli al suo acerrimo nemico Mongearty. Alcuni partecipanti si stringono la mano,
-> ma solo se non si conoscevano prima. Sapendo che gli appartenenti ad una stessa fazione già si conoscevano, al
-> massimo quante strette di mano ha potuto osservare SherLog?
+> 1. Non si smette mai di imparare
+> Vennma, Daφne, Fredmath, S-Higgs con il loro fidato amico Scoobe-Zout sono in viaggio per raggiungere i genitori di Fredmath e partire per una rilassante crociera per festeggiare il suo compleanno. Durante il viaggio, tra una chiacchiera e l'altra, Vennma disegna sul suo quadernino un rettangolo $ABCD$ con $AB = 20\,\mathrm{mm}$ e $BC = 40\,\mathrm{mm}$. Sulla diagonale $AC$ costruisce un rettangolo in modo tale che $AC$ sia un lato ed il lato ad esso opposto passi per $B$. Allo stesso modo su $BD$ costruisce un rettangolo passante per $A$. Daφne prende il rossetto e colora tutta la figura e infine esclama: «Ora è molto meglio!». Calcolare l'area colorata ovvero l'area dell'unione dei tre rettangoli.
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_coordinate|Metodo delle coordinate]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF p.12](https://drive.google.com/file/d/1LYb7-JiMkNOnEUYTq8RqYAtoct6AiMph/view)
 
@@ -34,32 +32,30 @@ level: squadre
 
 *Area of the union of three rectangles, AB=20 BC=40*
 
-> Party at the Castle SherLog Hodge, the famous detective, secretly observes the 33 attendees at a party. He knows that some are on his side, while the others are loyal to his arch-enemy Mongearty. Some attendees shake hands, but only if they did not know each other beforehand. Knowing that members of the same faction already knew each other, at most how many handshakes could SherLog have observed?
+> 1. One never stops learning
+> Vennma, Daφne, Fredmath and S-Higgs, with their trusty friend Scoobe-Zout, are travelling to meet Fredmath's parents and set off on a relaxing cruise for his birthday. Along the way, between one chat and the next, Vennma draws a rectangle $ABCD$ in her notebook with $AB = 20\,\mathrm{mm}$ and $BC = 40\,\mathrm{mm}$. On the diagonal $AC$ she builds a rectangle so that $AC$ is one side and the opposite side passes through $B$. In the same way she builds on $BD$ a rectangle that passes through $A$. Daφne takes her lipstick, colours the whole figure and exclaims: «That is much better now!». Find the coloured area, that is, the area of the union of the three rectangles.
 
 **Topic:** [[topic_geometria_piana|Plane geometry]]
 **Metodo:** [[method_coordinate|Coordinate method]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_modellizzazione|Modelling / translating the text]]
 **Area:** [[Geometria|Geometry]]
 
-[[Quesiti/src_squadre_2024_femminile#q01|src_squadre_2024_femminile__Q01]]
 
 
-
-<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_algebra,method_ricorsione"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_algebra,topic_funzionali,method_ricorsione,skill_lettura_attenta,skill_manipolazione_algebrica,skill_riconoscimento_pattern"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
 
 *p(12) con p(2R)=2p(R)+2R^2-1 e somma coefficienti 2*
 
-> Tentativo di cattura
-> SherLog Hodge ed il fido Wolfram costruiscono una trappola per incastrare Mongearty. Si tratta di un rettangolo
-> ABCD con AB lungo 48dm e BC lungo 20dm. Sulla diagonale AC viene costruito un rettangolo in modo tale che
-> AC sia un lato ed il lato ad esso opposto passi per B. Allo stesso modo su BD si costruisce un rettangolo passante
-> per A. Se Mongearty entrerà nell’area costituita dall’unione dei tre rettangoli, la trappola scatterà. Wolfram si
-> chiede se l’area sia sufficiente. Quanto vale l’area, in dm2?
+> 2. Viva il mare
+> Summy li saluta dando loro il biglietto da visita del Capitano Kronecker. Sul biglietto è scritta un'espressione letterale. Fredmath osserva che l'espressione è un polinomio e la somma dei coefficienti è 2. Vennma fa notare a tutti che il polinomio calcolato nel doppio NON è uguale al doppio del polinomio. La differenza è il doppio del quadrato della variabile diminuito di 1. Allora Daφne annota $p(2R) = 2p(R) + 2R^2 - 1$.
+> Summy ricorda che per poter incontrare il Capitano Kronecker dovranno trovare il valore del polinomio calcolato in 12. Quale numero permetterà loro di incontrare il capitano?
 
-**Topic:** [[topic_algebra|Algebra]]
+**Topic:** [[topic_algebra|Algebra]], [[topic_funzionali|Equazioni funzionali / successioni]]
 **Metodo:** [[method_ricorsione|Ricorsione]]
+**Abilita:** [[skill_lettura_attenta|Lettura attenta del testo]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF p.12](https://drive.google.com/file/d/1LYb7-JiMkNOnEUYTq8RqYAtoct6AiMph/view)
 
@@ -69,30 +65,30 @@ level: squadre
 
 *p(12) with p(2R)=2p(R)+2R^2-1 and sum of coefficients 2*
 
-> Attempt to Capture: SherLog Hodge and the loyal Wolfram set a trap to frame Mongearty. It is a rectangle ABCD with AB measuring 48 dm and BC measuring 20 dm. On the diagonal AC, a rectangle is constructed such that AC is one side and the side opposite it passes through B. Similarly, on BD, a rectangle passing through A is constructed. If Mongearty enters the region formed by the union of the three rectangles, the trap will spring. Wolfram wonders whether the area is sufficient. What is the area, in dm²?
+> 2. Long live the sea
+> Summy greets them and hands them Captain Kronecker's visiting card. A literal expression is written on the card. Fredmath notices that the expression is a polynomial and that the sum of its coefficients is 2. Vennma points out that the polynomial evaluated at twice the variable is NOT equal to twice the polynomial. The difference is twice the square of the variable, minus 1. So Daφne writes down $p(2R) = 2p(R) + 2R^2 - 1$.
+> Summy reminds them that, in order to meet Captain Kronecker, they must find the value of the polynomial at 12. Which number will let them meet the captain?
 
-**Topic:** [[topic_algebra|Algebra]]
+**Topic:** [[topic_algebra|Algebra]], [[topic_funzionali|Functional equations / sequences]]
 **Metodo:** [[method_ricorsione|Recursion]]
+**Abilita:** [[skill_lettura_attenta|Careful reading of the text]], [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_riconoscimento_pattern|Pattern recognition]]
 **Area:** [[Algebra e Analisi|Algebra and analysis]]
 
-[[Quesiti/src_squadre_2024_femminile#q02|src_squadre_2024_femminile__Q02]]
 
 
-
-<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_aritmetica,method_congruenze"></span>
+<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_aritmetica,method_congruenze,method_fattorizzazione,skill_manipolazione_algebrica,skill_conteggio_sistematico"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
 
 *Somma interi 20ab divisibili per ab-1*
 
-> Quesito nel romanzo
-> La nota scrittrice di libri gialli Jessica Fourier ama piazzare qualche quesito matematico nei suoi romanzi. Nella sua
-> ultima fatica chiede al lettore quante siano le coppie (x,y) di interi con |y| ≤4000 per cui esiste un intero positivo k
-> che soddisfa la relazione x2 +y2 +22k−1 +2kx−2ky = 0. Qual è la risposta?
+> 3. Domande scomode
+> Vennma è appassionata di coincidenze numeriche e nota che 2024 è divisibile per 23. Si chiede allora quali siano gli interi tra 2001 e 2099, diciamo $20ab$, che sono divisibili per $ab - 1$ (nel senso di $10a + b - 1$). Daφne risponde prontamente con la somma di tali numeri: qual è?
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]]
+**Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]], [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF p.12](https://drive.google.com/file/d/1LYb7-JiMkNOnEUYTq8RqYAtoct6AiMph/view)
 
@@ -102,33 +98,30 @@ level: squadre
 
 *Sum of all integers 20ab divisible by ab-1*
 
-> Problem in the novel: The well-known crime novelist Jessica Fourier likes to slip a few math problems into her novels. In her latest work, she asks the reader how many pairs (x, y) of integers with |y| ≤ 4000 there are such that there exists a positive integer k satisfying the relation x² + y² + 22k−1 + 2kx − 2ky = 0. What is the answer?
+> 3. Awkward questions
+> Vennma loves numerical coincidences and notices that 2024 is divisible by 23. She then asks which integers between 2001 and 2099, written $20ab$, are divisible by $ab - 1$ (meaning $10a + b - 1$). Daφne promptly answers with the sum of those numbers: what is it?
 
 **Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
-**Metodo:** [[method_congruenze|Modular arithmetic / congruences]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]], [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_conteggio_sistematico|Systematic counting]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
-[[Quesiti/src_squadre_2024_femminile#q03|src_squadre_2024_femminile__Q03]]
 
 
-
-<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_algebra,method_congruenze"></span>
+<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_algebra,topic_aritmetica,method_congruenze,method_fattorizzazione,skill_manipolazione_algebrica,skill_astrazione"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
 
 *Massimo intero che divide p(2024) con p(1)=7 p(2)=15*
 
-> La strada verso il rifugio
-> L’ispettore Gauget si trova alla base di una montagna conica di apotema lungo 600 m e raggio di base 150 m. Deve
-> catturare un fuggitivo, nascosto nel rifugio che si trova sul lato della montagna a esattamente 150 m da lui verso
-> la vetta della montagna. Per arrivare al rifugio, l’ispettore percorre la strada più corta che faccia anche un giro
-> completo intorno alla montagna; osserva che curiosamente, la strada percorsa è per un primo tratto in salita e poi
-> in discesa. Quanti metri è lungo il tratto in salita?
+> 4. Osso sepolto
+> Un giorno Scoobe-Zout, mentre scava per recuperare un osso seppellito da tempo, trova un foglietto con un polinomio a coefficienti interi $p(x)$. Non si legge quasi niente, tranne che $p(1) = 7$ e $p(2) = 15$. S-Higgs si chiede: «Quale può essere il più grande intero che divide sicuramente $p(2024)$?»
 
-**Topic:** [[topic_algebra|Algebra]]
-**Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]]
-**Area:** [[Algebra e Analisi]]
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]], [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione / generalizzazione]]
+**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF p.12](https://drive.google.com/file/d/1LYb7-JiMkNOnEUYTq8RqYAtoct6AiMph/view)
 
 
@@ -137,30 +130,29 @@ level: squadre
 
 *The greatest integer that divides p(2024), where p(1)=7 and p(2)=15*
 
-> The Road to the Shelter Inspector Gauget is at the base of a conical mountain with an apothem of 600 m and a base radius of 150 m. He must capture a fugitive hiding in the shelter located on the mountainside, exactly 150 m from him in the direction of the mountain's summit. To reach the shelter, the inspector follows the shortest path that also makes a complete circuit around the mountain; he notes that, curiously, the path he takes goes uphill for an initial stretch and then downhill. How many metres long is the uphill stretch?
+> 4. A buried bone
+> One day Scoobe-Zout, digging up a bone he buried long ago, finds a slip of paper with an integer-coefficient polynomial $p(x)$. Almost nothing can be read, except that $p(1) = 7$ and $p(2) = 15$. S-Higgs asks: «What is the largest integer that is sure to divide $p(2024)$?»
 
-**Topic:** [[topic_algebra|Algebra]]
-**Metodo:** [[method_congruenze|Modular arithmetic / congruences]]
-**Area:** [[Algebra e Analisi|Algebra and analysis]]
-
-[[Quesiti/src_squadre_2024_femminile#q04|src_squadre_2024_femminile__Q04]]
-
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]], [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_astrazione|Abstraction / generalisation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
 
-<span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_combinatoria,method_conteggio"></span>
+
+<span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_combinatoria,method_conteggio,method_casework,skill_modellizzazione,skill_casework_accurato,skill_conteggio_sistematico"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
 
 *Scritture di 7 caratteri con esattamente 210 anagrammi*
 
-> Pizzini per MontyHallbano
-> Il boss dei Sin(agra) impartisce ordini in codice utilizzando sequenze di esattamente tre lettere, tutte distinte, prese
-> da un alfabeto che ha in tutto n lettere. Il commissario MontyHallbano non sa tradurre gli ordini scritti sui pizzini,
-> ma sa che il numero totale di possibili sequenze è multiplo di 11 e di 19. Quanto vale n, come minimo?
+> 5. Il palombaro
+> Il cattivo palombaro cercando di scappare da Fredmath, sul fondo del mare trova delle incisioni di una civiltà azteca. Tale lingua ha un alfabeto di 7 caratteri. Il palombaro calcola quante siano le scritture di 7 caratteri, eventualmente ripetuti, che abbiano esattamente 210 anagrammi. Che risultato ha ottenuto?
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
-**Metodo:** [[method_conteggio|Conteggio combinatorio]]
+**Metodo:** [[method_conteggio|Conteggio combinatorio]], [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_casework_accurato|Casework accurato]], [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF p.12](https://drive.google.com/file/d/1LYb7-JiMkNOnEUYTq8RqYAtoct6AiMph/view)
 
@@ -170,30 +162,29 @@ level: squadre
 
 *7-character writings with exactly 210 anagrams*
 
-> Pizzini for MontyHallbano The boss of the Sin(agra) gives orders in code using sequences of exactly three distinct letters drawn from an alphabet with a total of n letters. Commissioner MontyHallbano cannot translate the orders written on the pizzini, but he knows that the total number of possible sequences is a multiple of 11 and of 19. What is the minimum possible value of n?
+> 5. The diver
+> The villainous diver, trying to escape Fredmath, finds carvings of an Aztec civilisation on the sea floor. That language has an alphabet of 7 characters. The diver computes how many strings of 7 characters, repetitions allowed, have exactly 210 anagrams. What result did he obtain?
 
 **Topic:** [[topic_combinatoria|Combinatorics]]
-**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Metodo:** [[method_conteggio|Combinatorial counting]], [[method_casework|Case analysis]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]], [[skill_casework_accurato|Careful case analysis]], [[skill_conteggio_sistematico|Systematic counting]]
 **Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
-[[Quesiti/src_squadre_2024_femminile#q05|src_squadre_2024_femminile__Q05]]
 
 
-
-<span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_funzionali,topic_aritmetica,method_ricorsione"></span>
+<span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_funzionali,topic_aritmetica,method_ricorsione,skill_riconoscimento_pattern,skill_manipolazione_algebrica,skill_astrazione"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
 
 *Somma n×a_n^2024 con a_n opposto somma divisori propri*
 
-> La generosità di Zenonigata
-> Zenonigata è talmente ossessionato da Lupin/3 che ha promesso che, quando lo catturerà, regalerà ai colleghi tanti
-> MathYen quanto vale la somma delle cifre della somma delle cifre della somma delle cifre di 20232024. Quanti
-> MathYen sono?
+> 6. Una funzione mistica
+> Fredmath non capisce come calcolare il termine $a_n$ della successione su cui sta indagando Vennma. Lei gli risponde che basta prendere l'opposto della somma dei termini $a_d$ con $d$ divisore positivo di $n$ e più piccolo strettamente di $n$. «Sì, ma da dove si parte?» chiede Fredmath. «Da $a_1 = 1$, ovviamente!» risponde Vennma e conclude con il quesito: «Noi dobbiamo calcolare la somma dei prodotti $n \cdot a_n^{2024}$ per $n$ da 1 a 100.» Quanto vale?
 
 **Topic:** [[topic_funzionali|Equazioni funzionali / successioni]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_ricorsione|Ricorsione]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione / generalizzazione]]
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF p.12](https://drive.google.com/file/d/1LYb7-JiMkNOnEUYTq8RqYAtoct6AiMph/view)
 
@@ -203,32 +194,30 @@ level: squadre
 
 *Sum n*a_n^2024, where a_n is the opposite of the sum of proper divisors*
 
-> Zenonigata's generosity: Zenonigata is so obsessed with Lupin/3 that he has promised that, when he catches him, he will give his colleagues as many MathYen as the sum of the digits of the sum of the digits of the sum of the digits of 20232024 is worth. How many MathYen is that?
+> 6. A mystic function
+> Fredmath cannot see how to compute the term $a_n$ of the sequence Vennma is studying. She tells him to take the opposite of the sum of the terms $a_d$ where $d$ is a positive divisor of $n$ strictly smaller than $n$. «Yes, but where do we start?» asks Fredmath. «From $a_1 = 1$, of course!» Vennma replies, and she ends with the question: «We have to compute the sum of the products $n \cdot a_n^{2024}$ for $n$ from 1 to 100.» What is that sum?
 
 **Topic:** [[topic_funzionali|Functional equations / sequences]], [[topic_aritmetica|Arithmetic / Number theory]]
 **Metodo:** [[method_ricorsione|Recursion]]
+**Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]], [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_astrazione|Abstraction / generalisation]]
 **Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
-[[Quesiti/src_squadre_2024_femminile#q06|src_squadre_2024_femminile__Q06]]
 
 
-
-<span class="atom-split" id="q07" data-atom="q07" data-title="Quesito 7" data-tags="topic_probabilita,topic_combinatoria,method_conteggio"></span>
+<span class="atom-split" id="q07" data-atom="q07" data-title="Quesito 7" data-tags="topic_probabilita,topic_combinatoria,method_conteggio,skill_modellizzazione,skill_conteggio_sistematico,skill_riconoscimento_pattern"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
 
 *Probabilita evitare caselle (k,k+2) su griglia 2024*
 
-> La sfida di Jessica Fourier
-> Jessica Fourier ha il classico blocco dello scrittore matematico. Per distrarsi sfida il Dr. Sette: entrambi hanno un
-> foglio con disegnata un’identica circonferenza e devono ritagliare un quadrilatero. Entrambi i quadrilateri devono
-> avere la stessa area. Il Dr. Sette ritaglia il quadrato inscritto nella circonferenza. Jessica invece traccia una corda
-> AB a distanza 400mm dal centro C e le tangenti nei punti A e B alla circonferenza che si intersecano in P. Quindi
-> ritaglia il quadrilatero CAPB. Quanto misura il raggio delle due circonferenze identiche in mm?
+> 7. Labirinto misterioso
+> Il labirinto dove si sono intrufolati Scoobe-Zout e S-Higgs mentre scappavano dalla mummia ha la forma di una tabella $2024 \times 2024$. Presi dal panico, scelgono a caso un percorso più breve possibile, muovendosi nelle caselle della tabella, dall'angolo $(1,1)$ all'angolo $(2024,2024)$. Se toccano una casella di coordinate $(k, k+2)$ per qualche $k$ rimangono intrappolati e la mummia li cattura. Qual è la probabilità che riescano a scappare?
+> Rispondere con la somma di numeratore e denominatore della frazione ridotta ai minimi termini.
 
 **Topic:** [[topic_probabilita|Probabilita e statistica]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_conteggio|Conteggio combinatorio]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF p.12](https://drive.google.com/file/d/1LYb7-JiMkNOnEUYTq8RqYAtoct6AiMph/view)
 
@@ -238,36 +227,30 @@ level: squadre
 
 *Probability of avoiding cells (k,k+2) on a 2024 grid*
 
-> Jessica Fourier's Challenge Jessica Fourier has the classic block of the mathematical writer. To distract herself, she challenges Dr. Sette: both have a sheet of paper with an identical circle drawn on it, and they must cut out a quadrilateral. Both quadrilaterals must have the same area. Dr. Sette cuts out the square inscribed in the circle. Jessica, on the other hand, draws a chord AB at a distance of 400 mm from the center C, and draws the tangents to the circle at points A and B; these tangents intersect at P. She then cuts out the quadrilateral CAPB. What is the radius of the two identical circles, in mm?
+> 7. A mysterious labyrinth
+> The labyrinth into which Scoobe-Zout and S-Higgs have slipped while fleeing the mummy is a $2024 \times 2024$ grid. In a panic they choose at random a shortest possible path, moving through the cells from the corner $(1,1)$ to the corner $(2024,2024)$. If they touch a cell of coordinates $(k, k+2)$ for some $k$, they are trapped and the mummy catches them. What is the probability that they escape?
+> Answer with the sum of the numerator and the denominator of the fraction in lowest terms.
 
 **Topic:** [[topic_probabilita|Probability and statistics]], [[topic_combinatoria|Combinatorics]]
 **Metodo:** [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]], [[skill_conteggio_sistematico|Systematic counting]], [[skill_riconoscimento_pattern|Pattern recognition]]
 **Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
-[[Quesiti/src_squadre_2024_femminile#q07|src_squadre_2024_femminile__Q07]]
 
 
-
-<span class="atom-split" id="q08" data-atom="q08" data-title="Quesito 8" data-tags="topic_geometria_piana,method_trigonometria"></span>
+<span class="atom-split" id="q08" data-atom="q08" data-title="Quesito 8" data-tags="topic_geometria_piana,topic_trigonometria,method_trigonometria,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
 
 *Lunghezza DA quadrilatero ciclico con AEB=60*
 
-> Vicini di tavola
-> Attorno ad una tavola rotonda siedono 10000 persone, ma purtroppo ognuna di esse potrebbe essere un membro
-> della famigerata Organizzazione Nera. Di queste persone, 4248 pronunciano la seguente frase: “Tra me e le due
-> Gara a Squadre 2024 – Semifinale 1 – Testi dei problemi – 1/2
-> 
-> persone al mio fianco si nascondono almeno due membri dell’Organizzazione”; tutte le altre invece dichiarano :“Tra
-> me e le due persone al mio fianco si nasconde al più un membro dell’Organizzazione”. Il detective Kolmogoro, dietro
-> “suggerimento” di coNaN, conclude: “Assumendo che i membri dell’Organizzazione mentano sempre e che tutti gli
-> altri dicano sempre la verità, è possibile che il numero di membri dell’Organizzazione sia...”.
-> Con quanti numeri diversi Kolmogoro avrebbe potuto terminare la frase?
+> 8. Vela in lontananza
+> Fredmath avvista una barca alla deriva. Essa ha una vela con forma di un quadrilatero $ABCD$ inscrivibile in una circonferenza ha le diagonali che si incontrano in $E$. Fredmath osserva che $A\hat{E}B = 60$ gradi, $AB = 80$, $BC = 85$ e $CD = 19$. Qual è la lunghezza di $DA$?
 
-**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometria]]
 **Metodo:** [[method_trigonometria|Tecniche trigonometriche]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF p.13](https://drive.google.com/file/d/1LYb7-JiMkNOnEUYTq8RqYAtoct6AiMph/view)
 
@@ -277,36 +260,30 @@ level: squadre
 
 *Length DA of a cyclic quadrilateral with AEB = 60°*
 
-> Table Neighbors Around a round table, 10,000 people are seated, but unfortunately each of them could be a member of the notorious Black Organization. Of these people, 4,248 utter the following sentence: “Between me and the two Team Competition 2024 – Semifinal 1 – Problem Statements – 1/2
->
-> "At least two members of the Organization are hiding beside me"; all the others, however, declare: "At most one member of the Organization is hiding between me and the two people beside me." Detective Kolmogoro, following coNaN's "suggestion", concludes: "Assuming that the members of the Organization always lie and that all the others always tell the truth, it is possible that the number of members of the Organization is...". With how many different numbers could Kolmogoro have ended the sentence?
+> 8. A sail in the distance
+> Fredmath sights a boat adrift. Its sail has the shape of a quadrilateral $ABCD$ which can be inscribed in a circle and whose diagonals meet at $E$. Fredmath observes that $A\hat{E}B = 60$ degrees, $AB = 80$, $BC = 85$ and $CD = 19$. What is the length of $DA$?
 
-**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_trigonometria|Trigonometry]]
 **Metodo:** [[method_trigonometria|Trigonometric techniques]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
 **Area:** [[Geometria|Geometry]]
 
-[[Quesiti/src_squadre_2024_femminile#q08|src_squadre_2024_femminile__Q08]]
 
 
-
-<span class="atom-split" id="q09" data-atom="q09" data-title="Quesito 9" data-tags="topic_funzionali,method_trigonometria"></span>
+<span class="atom-split" id="q09" data-atom="q09" data-title="Quesito 9" data-tags="topic_funzionali,topic_aritmetica,method_ricorsione,method_congruenze,skill_manipolazione_algebrica,skill_riconoscimento_pattern"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
 
 *Ultime 4 cifre di c_2024 con tre successioni concatenate*
 
-> Il disegno di Fuzzy [⋆]
-> L’ispettore Giuseppe Fuzzy, collaboratore di MontyHallbano, disegna un triangolo ABC isoscele in A. Prende poi i
-> punti D ed E rispettivamente sui lati AC e AB tali che DE è parallelo a BC. Detta P l’intersezione fra i segmenti
-> BD e CE, osserva che \
-> BPC = 60°. Sa, inoltre, che le circonferenze inscritte nel quadrilatero ADPE e nel triangolo
-> BPC hanno raggi congruenti, e che l’altezza del triangolo ABC relativa al vertice A misura 1200. Chiede quindi al
-> commissario MontyHallbano: quanto misura il lato AC?
+> 9. Mistero triplo
+> I nostri eroi incappano in tre misteri collegati tra loro. Daφne si imbatte nel primo: una successione definita per ricorrenza tale che $a_1 = 1$ e $3a_n = 3a_{n-1} + 10n^4 - 20n^3 + 23n^2 - 13n + 3$. Vennma trova il mistero numero due: una successione definita da $b_n = a_1 + \cdots + a_n$. Infine Fredmath fronteggia il terzo: un'altra successione data da $c_n = \sqrt{b_n}$. Per risolvere il triplo mistero devono dichiarare quanto valgono le ultime 4 cifre di $c_{2024}$. Cosa rispondono?
 
-**Topic:** [[topic_funzionali|Equazioni funzionali / successioni]]
-**Metodo:** [[method_trigonometria|Tecniche trigonometriche]]
-**Area:** [[Algebra e Analisi]]
+**Topic:** [[topic_funzionali|Equazioni funzionali / successioni]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_ricorsione|Ricorsione]], [[method_congruenze|Aritmetica modulare / congruenze]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF p.13](https://drive.google.com/file/d/1LYb7-JiMkNOnEUYTq8RqYAtoct6AiMph/view)
 
 
@@ -315,31 +292,29 @@ level: squadre
 
 *Last 4 digits of c_2024 with three concatenated sequences*
 
-> Fuzzy's Diagram [⋆] Inspector Giuseppe Fuzzy, a collaborator of MontyHallbano, draws an isosceles triangle ABC with the equal sides meeting at A. He then takes points D and E on sides AC and AB, respectively, such that DE is parallel to BC. Let P be the intersection of segments BD and CE; he observes that ∠BPC = 60°. He also knows that the incircles of quadrilateral ADPE and triangle BPC have equal radii, and that the altitude of triangle ABC from vertex A measures 1200. He therefore asks Commissioner MontyHallbano: how long is side AC?
+> 9. A triple mystery
+> Our heroes run into three mysteries tied together. Daφne meets the first: a sequence defined by the recurrence $a_1 = 1$ and $3a_n = 3a_{n-1} + 10n^4 - 20n^3 + 23n^2 - 13n + 3$. Vennma finds mystery number two: a sequence defined by $b_n = a_1 + \cdots + a_n$. Finally Fredmath faces the third: another sequence given by $c_n = \sqrt{b_n}$. To solve the triple mystery they must state the last 4 digits of $c_{2024}$. What do they answer?
 
-**Topic:** [[topic_funzionali|Functional equations / sequences]]
-**Metodo:** [[method_trigonometria|Trigonometric techniques]]
-**Area:** [[Algebra e Analisi|Algebra and analysis]]
-
-[[Quesiti/src_squadre_2024_femminile#q09|src_squadre_2024_femminile__Q09]]
-
+**Topic:** [[topic_funzionali|Functional equations / sequences]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_ricorsione|Recursion]], [[method_congruenze|Modular arithmetic / congruences]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
 
-<span class="atom-split" id="q10" data-atom="q10" data-title="Quesito 10" data-tags="topic_combinatoria,method_conteggio,skill_conteggio_sistematico"></span>
+
+<span class="atom-split" id="q10" data-atom="q10" data-title="Quesito 10" data-tags="topic_combinatoria,method_conteggio,method_bigezione,skill_conteggio_sistematico,skill_modellizzazione,skill_ragionamento_geometrico"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
 
 *Numero triangoli da terne di travi tra 10 punti su cerchio*
 
-> Il quesito del tenente
-> Il tenente Coulomb ha già capito chi è il colpevole, per cui gioca di psicologia per farlo confessare. La domanda che
-> Coulomb pone, e che fa crollare il sospettato, è la seguente: in quanti dei sottoinsiemi non vuoti di {1,2,...,12} il
-> prodotto degli elementi ha zero come cifra delle unità?
+> 10. Al luna park
+> Mentre vaga per il luna park, Scoobe-Zout vede una ruota panoramica che è formata da 10 punti su una circonferenza, in modo che per ogni coppia di questi punti ci sia una trave a forma di segmento. Scoobe-Zout nota che non ci sono 3 travi passanti per uno stesso punto (interno alla trave). S-Higgs allora si mette a contare il numero di triangoli tracciati da una terna di travi. Quanti ne vede in tutto?
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
-**Metodo:** [[method_conteggio|Conteggio combinatorio]]
-**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Metodo:** [[method_conteggio|Conteggio combinatorio]], [[method_bigezione|Bigezione / corrispondenza]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF p.13](https://drive.google.com/file/d/1LYb7-JiMkNOnEUYTq8RqYAtoct6AiMph/view)
 
@@ -349,34 +324,30 @@ level: squadre
 
 *Number of triangles formed from sets of three beams among 10 points on a circle*
 
-> The Lieutenant's Question Lieutenant Coulomb has already figured out who the culprit is, so he is using psychological tactics to get the culprit to confess. The question Coulomb poses—the one that breaks down the suspect—is as follows: In how many of the non-empty subsets of {1,2,...,12} is the units digit of the product of the elements zero?
+> 10. At the funfair
+> Wandering through the funfair, Scoobe-Zout sees a Ferris wheel made of 10 points on a circle, with a beam in the shape of a segment for every pair of these points. Scoobe-Zout notices that no 3 beams pass through the same point (in the interior of a beam). S-Higgs then counts the triangles traced by a triple of beams. How many does he see in all?
 
 **Topic:** [[topic_combinatoria|Combinatorics]]
-**Metodo:** [[method_conteggio|Combinatorial counting]]
-**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Metodo:** [[method_conteggio|Combinatorial counting]], [[method_bigezione|Bijection / correspondence]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]], [[skill_modellizzazione|Modelling / translating the text]], [[skill_ragionamento_geometrico|Geometric reasoning]]
 **Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
-[[Quesiti/src_squadre_2024_femminile#q10|src_squadre_2024_femminile__Q10]]
 
 
-
-<span class="atom-split" id="q11" data-atom="q11" data-title="Quesito 11" data-tags="topic_aritmetica,method_casework,method_conteggio,skill_casework_accurato"></span>
+<span class="atom-split" id="q11" data-atom="q11" data-title="Quesito 11" data-tags="topic_aritmetica,method_casework,method_conteggio,skill_casework_accurato,skill_manipolazione_algebrica,skill_conteggio_sistematico"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
 
 *Possibili prodotti di n interi con cifra aggiunta a sinistra*
 
-> Gioco perverso [⋆]
-> Mongearty ha catturato il povero Wolfram e lo ha piazzato nel centro di un poligono regolare di 2024 vertici. Per
-> deridere SherLog Hodge, Mongearty fa un gioco perverso: sceglie a caso un sottoinsieme C di 100 vertici tali che
-> non ve ne siano due opposti rispetto al centro del poligono. Poi costruisce tutti i possibili triangoli con vertici in C:
-> se Wolfram è esterno a tutti questi triangoli avrà salva la vita. SherLog ha già calcolato quale sia la frazione f,
-> ridotta ai minimi termini, corrispondente alla probabilità che Wolfram sopravviva. Quanto vale il numeratore di f?
+> 11. I fantasmi
+> Camminando per le strade di Mathville, S-Higgs incontra una successione di $n$ fantasmi ciascuno recante un numero (sovran)naturale $x_1, x_2, \ldots, x_n$. Il numero $x_i$, per $i = 2, \ldots, n$, ha $i$ cifre ed è ottenuto da $x_{i-1}$ aggiungendo una cifra a sinistra (come ad esempio 3, 23, 723, 6723, se $n = 4$).
+> Preso dalla disperazione, S-Higgs calcola il prodotto degli $n$ interi. Sapendo che ha ottenuto un numero di 4, 5 o 6 cifre, quanti sono i possibili risultati trovati?
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_casework|Analisi per casi]], [[method_conteggio|Conteggio combinatorio]]
-**Abilita:** [[skill_casework_accurato|Casework accurato]]
+**Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF p.13](https://drive.google.com/file/d/1LYb7-JiMkNOnEUYTq8RqYAtoct6AiMph/view)
 
@@ -386,70 +357,30 @@ level: squadre
 
 *Possible products of n integers with a digit added to the left*
 
-> Perverse Game [⋆] Mongearty has captured poor Wolfram and placed him at the center of a regular polygon with 2024 vertices. To mock SherLog Hodge, Mongearty plays a perverse game: he randomly chooses a subset C of 100 vertices such that no two of them are opposite with respect to the center of the polygon. Then he constructs all possible triangles whose vertices lie in C: if Wolfram lies outside all these triangles, his life will be spared. SherLog has already calculated the fraction f, in lowest terms, corresponding to the probability that Wolfram will survive. What is the numerator of f?
+> 11. The ghosts
+> Walking the streets of Mathville, S-Higgs meets a sequence of $n$ ghosts, each carrying a (sovereign) natural number $x_1, x_2, \ldots, x_n$. The number $x_i$, for $i = 2, \ldots, n$, has $i$ digits and is obtained from $x_{i-1}$ by adding one digit on the left (as in 3, 23, 723, 6723, if $n = 4$).
+> In desperation, S-Higgs computes the product of the $n$ integers. Knowing that he obtained a number with 4, 5 or 6 digits, how many possible results are there?
 
 **Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
 **Metodo:** [[method_casework|Case analysis]], [[method_conteggio|Combinatorial counting]]
-**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]], [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_conteggio_sistematico|Systematic counting]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
-[[Quesiti/src_squadre_2024_femminile#q11|src_squadre_2024_femminile__Q11]]
 
 
-
-<span class="atom-split" id="q12" data-atom="q12" data-title="Quesito 12" data-tags="topic_geometria_solida,method_casework"></span>
+<span class="atom-split" id="q12" data-atom="q12" data-title="Quesito 12" data-tags="topic_geometria_solida,method_casework,skill_ragionamento_geometrico,skill_casework_accurato,skill_astrazione"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
 
 *Numero deltaedri convessi a facce triangoli equilateri lato 1*
 
-> Foglietto con indizio
-> Sulla scena del crimine, Hermite Poinsot trova un foglietto recante una sequenza di numeri: il primo termine è 1
-> mentre l’n-esimo termine è la somma del k-esimo termine (dove k è la parte intera della radice di n) e del valore
-> assoluto della differenza tra n e il quadrato perfetto ad esso più vicino. Hercule nota che la differenza tra gli ultimi
-> due numeri è 10: quanto è lunga al minimo la sequenza? Fornire l’esponente di 2 nella fattorizzazione in fattori
-> primi.
-> 13. Scansionando numeri
-> Un numero n ha una scrittura consecutiva se esiste una sequenza di almeno due interi positivi consecutivi tali
-> che la loro somma sia n. Tra i vari gadget dell’ispettore Gauget vi è il consecutivometro: dato un numero n, il
-> consecutivometro restituisce il numero di scritture consecutive di n. Per risolvere l’ultimo caso l’ispettore usa il
-> consecutivometro su tutti i numeri da 1 a 101 e somma tutti i valori ottenuti. Quanto vale questa somma?
-> 14. Chiamate gli artificieri!
-> MontyHallbano ha avuto una soffiata: una cella terroristica ha nascosto una bomba in una rotonda circolare. Il
-> Commissario è già riuscito a localizzare la rotonda, perché sa che sui bordi ci sono 3 angeli: A e B agli estremi di
-> un diametro e l’altro angelo X forma un angolo \
-> XAB = 30°. Inoltre, con gli indizi raccolti, Fuzzy sta disegnando
-> la mappa: traccia un altro diametro XY = 18m e chiama C,D rispettivamente le intersezioni tra le rette AX e AY
-> con la tangente alla rotonda condotta da B. M e N sono i punti medi di BX e BY . La bomba è stata piazzata
-> nell’intersezione delle rette CM e DN. Gli artificieri hanno bisogno di conoscere la distanza precisa di A dalla
-> bomba. Quanto vale questa distanza in cm?
-> 15. Palline magiche
-> Il sospettato che Hermite Poinsot sorveglia ha inscenato un gioco di magia per confondere il detective. Inizialmente
-> ha in mano 2 palline rosse; ad ogni passaggio compie una tra le seguenti mosse:
-> aggiunge una pallina blu ed una pallina rossa;
-> aggiunge una pallina blu e toglie una pallina rossa;
-> aggiunge due palline verdi.
-> Dichiara che quando avrà in mano 11 palline blu, 9 rosse e 4 verdi sparirà, inoltre vuole raggiungere l’obiettivo
-> usando il numero minimo possibile di mosse. In quanti modi può farlo?
-> 16. Neanche stavolta
-> L’ispettore Zenonigata ha messo Lupin/3 all’angolo proponendogli la successione an, che rispetta la seguente legge:
-> per ogni n > 1 si ha che an = an−1 +2an−2 +3an−3 +...+(n−1)a1 e inoltre a1 = k per qualche k intero. Zenonigata
-> chiede beffardo se Lupin/3 sappia calcolare la somma di tutti i valori di k per i quali esiste n tale che an = 2024.
-> Il ladro, altrettanto beffardo, risponde correttamente e scappa, lasciando Zenonigata a mangiarsi le mani per
-> l’occasione sprecata. Cosa ha risposto Lupin/3?
-> Gara a Squadre 2024 – Semifinale 1 – Testi dei problemi – 2/2
-> 
-> XXV Gara Nazionale
-> a Squadre
-> Semifinale 1 – Venerdì 3 Maggio 2024
-> Ministero dell’Istruzione
-> e del Merito
-> Soluzioni
-> Nr. Problema
+> 12. Giocando col destino
+> Dentro la tana del mostro misterioso Fredmath trova delle figure alquanto strane. Esse sono dei poliedri convessi, senza facce complanari, che hanno come facce solo triangoli equilateri di lato 1. Ne trova una per tipo, quante sono?
 
 **Topic:** [[topic_geometria_solida|Geometria solida]]
 **Metodo:** [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_casework_accurato|Casework accurato]], [[skill_astrazione|Astrazione / generalizzazione]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF p.13](https://drive.google.com/file/d/1LYb7-JiMkNOnEUYTq8RqYAtoct6AiMph/view)
 
@@ -459,20 +390,10 @@ level: squadre
 
 *Number of convex deltahedra with equilateral triangular faces of side length 1*
 
-> Note with a clue At the crime scene, Hermite Poinsot finds a note bearing a sequence of numbers: the first term is 1, while the n-th term is the sum of the k-th term (where k is the integer part of the square root of n) and the absolute value of the difference between n and the nearest perfect square to n. Hercule notes that the difference between the last two numbers is 10: what is the minimum length of the sequence? Provide the exponent of 2 in the prime factorization.
-> 13. Scanning numbers
-> A number n has a consecutive representation if there exists a sequence of at least two consecutive positive integers whose sum is n. Among Inspector Gauget's various gadgets is the Consecutivometer: given a number n, the Consecutivometer returns the number of consecutive representations of n. To solve the last case, the inspector uses the Consecutivometer on all numbers from 1 to 101 and adds up all the values obtained. What is the value of this sum?
-> 14. Call the bomb disposal experts!
-> MontyHallbano has received a tip: a terrorist cell has hidden a bomb in a circular roundabout. The Commissioner has already managed to locate the roundabout, because he knows that there are 3 angels on its edge: A and B at the ends of a diameter, and the other angel, X, forms an angle XAB = 30°. Moreover, using the clues gathered, Fuzzy is drawing the map: he draws another diameter XY = 18 m and calls C and D, respectively, the intersections of the lines AX and AY with the tangent to the roundabout drawn from B. M and N are the midpoints of BX and BY. The bomb has been placed at the intersection of the lines CM and DN. The bomb disposal experts need to know the exact distance from A to the bomb. What is this distance in cm?
-> 15. Magic Balls
-> The suspect whom Hermite Poinsot is watching has staged a magic trick to confuse the detective. Initially, they have 2 red balls in their hands; with each move, they perform one of the following actions: add one blue ball and one red ball; add one blue ball and remove one red ball; add two green balls. They state that when they have 11 blue balls, 9 red balls, and 4 green balls in their hands, they will disappear; moreover, they want to achieve the goal using the fewest possible moves. In how many ways can they do this?
-> 16. Not this time either
-> Inspector Zenonigata cornered Lupin/3 by proposing the sequence an to him, which obeys the following rule: for every n > 1, an = an−1 + 2an−2 + 3an−3 + ... + (n−1)a1, and moreover a1 = k for some integer k. Zenonigata asked mockingly whether Lupin/3 could calculate the sum of all values of k for which there exists an n such that an = 2024. The thief, equally mockingly, answered correctly and fled, leaving Zenonigata to gnaw his fingers in regret over the wasted opportunity. What did Lupin/3 answer? Team Competition 2024 – Semifinal 1 – Problem Statements – 2/2
->
-> XXV National Team Competition Semifinal 1 – Friday, 3 May 2024 Ministry of Education and Merit Solutions No. Problem
+> 12. Playing with fate
+> Inside the mysterious monster's lair Fredmath finds some rather strange figures. They are convex polyhedra, with no coplanar faces, whose faces are all equilateral triangles of side 1. He finds one of each type: how many are there?
 
 **Topic:** [[topic_geometria_solida|Solid geometry]]
 **Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_casework_accurato|Careful case analysis]], [[skill_astrazione|Abstraction / generalisation]]
 **Area:** [[Geometria|Geometry]]
-
-[[Quesiti/src_squadre_2024_femminile#q12|src_squadre_2024_femminile__Q12]]

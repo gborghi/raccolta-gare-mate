@@ -10,7 +10,7 @@ level: kangourou
 
 
 
-<span class="atom-split" id="qc1" data-atom="qc1" data-title="Quesito C1" data-tags="topic_aritmetica,skill_modellizzazione"></span>
+<span class="atom-split" id="qc1" data-atom="qc1" data-title="Quesito C1" data-tags="topic_aritmetica,skill_modellizzazione,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -20,7 +20,7 @@ level: kangourou
 > Prima che venisse impiegato il lettore ottico, le schede-risposta di Kangourou venivano esaminate a mano. Un correttore umano esaminava in media 2 schede al minuto. Alle undici del mattino di un dato giorno aveva esaminato la metà delle schede che gli erano state assegnate per quel giorno. A mezzogiorno ne aveva esaminati i due terzi. Se non si fosse mai fermato e avesse continuato allo stesso ritmo, quante schede gli sarebbero rimaste da esaminare alla una di pomeriggio di quel giorno?
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 120
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1xu5y5JpzGNUIyhivHcF8Vczu7vpaLZFN/view)
@@ -33,15 +33,14 @@ level: kangourou
 
 > Before the optical reader was used, Kangourou answer sheets were checked by hand. A human grader checked an average of 2 sheets per minute. At eleven a.m. on a given day, the grader had checked half of the sheets assigned to them for that day. By noon, they had checked two-thirds of them. If they had never stopped and had continued at the same pace, how many sheets would still have remained for them to check at one p.m. on that day?
 
+
 **Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
-**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
-[[Quesiti/src_kangourou_2005_cadet_finale#qc1|src_kangourou_2005_cadet_finale__QC1]]
 
 
-
-<span class="atom-split" id="qc2" data-atom="qc2" data-title="Quesito C2" data-tags="topic_combinatoria,method_colorazione,skill_astrazione"></span>
+<span class="atom-split" id="qc2" data-atom="qc2" data-title="Quesito C2" data-tags="topic_combinatoria,method_colorazione,method_doppio_conteggio,skill_astrazione"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -51,7 +50,7 @@ level: kangourou
 > Considera una scacchiera $7 \times 7$ e chiama croce greca ogni configurazione di 5 sue caselle disposte a croce in modo che ogni casella abbia in comune almeno un lato con un'altra casella della croce (quindi ogni croce ha 4 bracci uguali ciascuno costituito da una casella). Si possono disporre 49 numeri interi, non necessariamente tutti uguali fra loro, sulle 49 caselle, uno per casella, in modo che la somma totale di questi interi sia negativa, ma la somma dei numeri corrispondenti alle caselle ricoperte da una qualsiasi croce greca sia positiva?
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
-**Metodo:** [[method_colorazione|Colorazione / parita]]
+**Metodo:** [[method_colorazione|Colorazione / parita]], [[method_doppio_conteggio|Doppio conteggio]]
 **Abilita:** [[skill_astrazione|Astrazione / generalizzazione]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** Si
@@ -65,12 +64,11 @@ level: kangourou
 
 > Consider a chessboard $7 \times 7$, and call a Greek cross any configuration of 5 of its squares arranged in the shape of a cross such that each square shares at least one side with another square of the cross (so each cross has 4 equal arms, each consisting of a single square). Is it possible to place 49 integers—not necessarily all equal to one another—on the 49 squares, one integer per square, in such a way that the total sum of these integers is negative, but the sum of the numbers corresponding to the squares covered by any Greek cross is positive?
 
+
 **Topic:** [[topic_combinatoria|Combinatorics]]
-**Metodo:** [[method_colorazione|Colouring / parity]]
+**Metodo:** [[method_colorazione|Colouring / parity]], [[method_doppio_conteggio|Double counting]]
 **Abilita:** [[skill_astrazione|Abstraction / generalisation]]
 **Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
-
-[[Quesiti/src_kangourou_2005_cadet_finale#qc2|src_kangourou_2005_cadet_finale__QC2]]
 
 
 
@@ -81,7 +79,7 @@ level: kangourou
 
 *Area rettangolo ombreggiato in triangolo rettangolo*
 
-![[src_kangourou_2005_cadet_finale__probc3.png]]
+![[src_kangourou_2005_cadet_finale__probC3.png]]
 
 ```tikz
 \begin{document}
@@ -112,7 +110,7 @@ level: kangourou
 
 *Area of the shaded rectangle in a right triangle*
 
-![[src_kangourou_2005_cadet_finale__probc3.png]]
+![[src_kangourou_2005_cadet_finale__probC3.png]]
 
 ```tikz
 \begin{document}
@@ -135,25 +133,23 @@ level: kangourou
 **Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
 **Area:** [[Geometria|Geometry]]
 
-[[Quesiti/src_kangourou_2005_cadet_finale#qc3|src_kangourou_2005_cadet_finale__QC3]]
 
 
-
-<span class="atom-split" id="qc4" data-atom="qc4" data-title="Quesito C4" data-tags="topic_aritmetica,topic_funzionali,method_congruenze,skill_modellizzazione"></span>
+<span class="atom-split" id="qc4" data-atom="qc4" data-title="Quesito C4" data-tags="topic_aritmetica,topic_funzionali,method_congruenze,skill_modellizzazione,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
 
 *Prossima eclissi di due pianeti in rotazione*
 
-![[src_kangourou_2005_cadet_finale__probc4.png]]
+![[src_kangourou_2005_cadet_finale__probC4.png]]
 
 > Kang è una stella immaginaria che possiede due pianeti: Enigma e Math. Essi si muovono in uno stesso piano, descrivendo ciascuno un'orbita circolare centrata in Kang con velocità angolare costante, ma diversa l'uno dall'altro. Infatti Enigma, il più lontano, ruota attorno a Kang in senso orario in 7 giorni, mentre Math impiega 5 giorni, ruotando in senso antiorario. In questo istante si può osservare un'eclissi di Enigma da parte di Math (osserva la figura). Tra quanto tempo si verificherà la prossima eclissi? (vedi figura)
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_funzionali|Equazioni funzionali / successioni]]
 **Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]]
-**Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
-**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 **Risposta:** 3 giorni meno 2 ore
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1xu5y5JpzGNUIyhivHcF8Vczu7vpaLZFN/view)
 
@@ -163,20 +159,19 @@ level: kangourou
 
 *Next eclipse of two rotating planets*
 
-![[src_kangourou_2005_cadet_finale__probc4.png]]
+![[src_kangourou_2005_cadet_finale__probC4.png]]
 
 > Kang is an imaginary star that has two planets: Enigma and Math. They move in the same plane, each tracing a circular orbit centered on Kang with constant but different angular velocities. Indeed, Enigma, the farther one, orbits Kang clockwise in 7 days, while Math takes 5 days, orbiting counterclockwise. At this moment, an eclipse of Enigma by Math can be observed (see the figure). How much time will pass before the next eclipse occurs? (see the figure)
 
+
 **Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_funzionali|Functional equations / sequences]]
 **Metodo:** [[method_congruenze|Modular arithmetic / congruences]]
-**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
-**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
-
-[[Quesiti/src_kangourou_2005_cadet_finale#qc4|src_kangourou_2005_cadet_finale__QC4]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Algebra e Analisi|Algebra and analysis]]
 
 
 
-<span class="atom-split" id="qc5" data-atom="qc5" data-title="Quesito C5" data-tags="topic_algebra,topic_aritmetica,method_fattorizzazione,skill_manipolazione_algebrica"></span>
+<span class="atom-split" id="qc5" data-atom="qc5" data-title="Quesito C5" data-tags="topic_algebra,topic_aritmetica,method_fattorizzazione,method_casi_conteggio,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -188,7 +183,7 @@ level: kangourou
 > quanti sono i possibili valori della somma $x + y$?
 
 **Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]], [[method_casi_conteggio|Conteggio per casi]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** uno, 18
@@ -204,16 +199,15 @@ level: kangourou
 > $$x + y + xy = 90,$$
 > how many possible values does the sum $x + y$ have?
 
+
 **Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Arithmetic / Number theory]]
-**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]], [[method_casi_conteggio|Counting by cases]]
 **Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
 **Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
-[[Quesiti/src_kangourou_2005_cadet_finale#qc5|src_kangourou_2005_cadet_finale__QC5]]
 
 
-
-<span class="atom-split" id="qc6" data-atom="qc6" data-title="Quesito C6" data-tags="topic_aritmetica,method_conteggio,skill_casework_accurato"></span>
+<span class="atom-split" id="qc6" data-atom="qc6" data-title="Quesito C6" data-tags="topic_aritmetica,method_conteggio,skill_casework_accurato,skill_stima"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -228,7 +222,7 @@ level: kangourou
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_conteggio|Conteggio combinatorio]]
-**Abilita:** [[skill_casework_accurato|Casework accurato]]
+**Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_stima|Stima e approssimazione]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 3435
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1xu5y5JpzGNUIyhivHcF8Vczu7vpaLZFN/view)
@@ -245,9 +239,8 @@ level: kangourou
 >
 > Using these clues, determine how many finalists the fortune-teller predicts for that memorable edition of Kangourou.
 
+
 **Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
 **Metodo:** [[method_conteggio|Combinatorial counting]]
-**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]], [[skill_stima|Estimation and approximation]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
-
-[[Quesiti/src_kangourou_2005_cadet_finale#qc6|src_kangourou_2005_cadet_finale__QC6]]

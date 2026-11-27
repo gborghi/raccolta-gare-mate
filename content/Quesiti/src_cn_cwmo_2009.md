@@ -10,7 +10,7 @@ level: China Western Mathematical Olympiad
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_algebra,topic_insiemi_funzioni,skill_manipolazione_algebrica,skill_astrazione,skill_modellizzazione"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_algebra,topic_insiemi_funzioni,skill_manipolazione_algebrica,skill_astrazione,skill_modellizzazione,skill_lettura_attenta"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -20,8 +20,8 @@ level: China Western Mathematical Olympiad
 > Let $M$ be a subset of $\mathbb{R}$ obtained by deleting finitely many real numbers from $\mathbb{R}$. Prove that for any given positive number $n$, there exists a polynomial $f(x)$ of degree $n$ such that all its coefficients and its $n$ real roots are in $M$.
 
 **Topic:** [[topic_algebra|Algebra]], [[topic_insiemi_funzioni|Insiemi e funzioni]]
-**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]], [[skill_modellizzazione|Modellizzazione]]
-**Area:** [[Algebra e Analisi]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]], [[skill_modellizzazione|Modellizzazione]], [[skill_lettura_attenta|Careful reading of the text]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1WZGXm4nA5dcZd9asSbnzGZkeWDSjqbF6/view)
 
 
@@ -32,11 +32,10 @@ level: China Western Mathematical Olympiad
 
 > Sia $M$ un sottoinsieme di $\mathbb{R}$ ottenuto cancellando un numero finito di numeri reali da $\mathbb{R}$. Dimostrare che, per ogni numero positivo dato $n$, esiste un polinomio $f(x)$ di grado $n$ tale che tutti i suoi coefficienti e le sue $n$ radici reali appartengono a $M$.
 
-**Topic:** [[topic_algebra|Algebra]], [[topic_insiemi_funzioni|Insiemi e funzioni]]
-**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]], [[skill_modellizzazione|Modellizzazione]]
-**Area:** [[Algebra e Analisi]]
 
-[[Quesiti/src_cn_cwmo_2009#q01|src_cn_cwmo_2009__Q01]]
+**Topic:** [[topic_algebra|Algebra]], [[topic_insiemi_funzioni|Insiemi e funzioni]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]], [[skill_modellizzazione|Modellizzazione]], [[skill_lettura_attenta|Lettura attenta del testo]]
+**Area:** [[Algebra e Analisi]]
 
 
 
@@ -69,11 +68,9 @@ level: China Western Mathematical Olympiad
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Algebra e Analisi]]
 
-[[Quesiti/src_cn_cwmo_2009#q02|src_cn_cwmo_2009__Q02]]
 
 
-
-<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_geometria_piana,method_trigonometria,method_coordinate,skill_ragionamento_geometrico,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
+<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_geometria_piana,method_trigonometria,method_coordinate,method_simmetria,skill_ragionamento_geometrico,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -82,12 +79,12 @@ level: China Western Mathematical Olympiad
 
 > Let $H$ be the orthocenter of an acute triangle $ABC$, and $D$ be the midpoint of the side $BC$. A line passing through the point $H$ meets the sides $AB$, $AC$ at the points $F$, $E$ respectively, such that $AE = AF$. The line $EF$ meets the circumcircle of $\triangle ABC$ at the point $P$. Prove that $P$, $A$, $E$, $F$ are concyclic.
 
-![[src_cn_cwmo_2009__q03.png]]
+![[src_cn_cwmo_2009__Q03.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
-**Metodo:** [[method_trigonometria|Trigonometria]], [[method_coordinate|Coordinate]]
+**Metodo:** [[method_trigonometria|Trigonometria]], [[method_coordinate|Coordinate]], [[method_simmetria|Using symmetry]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
-**Area:** [[Geometria]]
+**Area:** [[Geometria|Geometry]]
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1WZGXm4nA5dcZd9asSbnzGZkeWDSjqbF6/view)
 
 
@@ -98,14 +95,13 @@ level: China Western Mathematical Olympiad
 
 > Sia $H$ l'ortocentro di un triangolo acuto $ABC$, e sia $D$ il punto medio del lato $BC$. Una retta passante per il punto $H$ interseca i lati $AB$, $AC$ nei punti $F$, $E$ rispettivamente, in modo che $AE = AF$. La retta $EF$ interseca la circonferenza circoscritta di $\triangle ABC$ nel punto $P$. Dimostrare che $P$, $A$, $E$, $F$ sono concyclici.
 
-![[src_cn_cwmo_2009__q03.png]]
+![[src_cn_cwmo_2009__Q03.png]]
+
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
-**Metodo:** [[method_trigonometria|Trigonometria]], [[method_coordinate|Coordinate]]
+**Metodo:** [[method_trigonometria|Trigonometria]], [[method_coordinate|Coordinate]], [[method_simmetria|Sfruttamento della simmetria]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Geometria]]
-
-[[Quesiti/src_cn_cwmo_2009#q03|src_cn_cwmo_2009__Q03]]
 
 
 
@@ -136,8 +132,6 @@ level: China Western Mathematical Olympiad
 **Metodo:** [[method_congruenze|Congruenze]], [[method_induzione|Induzione]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_modellizzazione|Modellizzazione]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
-
-[[Quesiti/src_cn_cwmo_2009#q04|src_cn_cwmo_2009__Q04]]
 
 
 
@@ -170,8 +164,6 @@ level: China Western Mathematical Olympiad
 **Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 
-[[Quesiti/src_cn_cwmo_2009#q05|src_cn_cwmo_2009__Q05]]
-
 
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_geometria_piana,method_coordinate,method_trigonometria,skill_ragionamento_geometrico,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
@@ -183,7 +175,7 @@ level: China Western Mathematical Olympiad
 
 > Let $D$ be a point on the side $BC$ of an acute triangle $ABC$. The circle with diameter $BD$ meets the lines $AB$ and $AD$ respectively at the points $Y$ and $Q$, which are different from the points $B$ and $D$. The circle with diameter $CD$ meets the lines $AC$ and $AD$ respectively at the points $P$ and $X$, which are different from the points $C$ and $D$. Through the point $A$ draw two lines which are perpendicular to $PX$ and $QY$ with the feet of perpendicular $M$ and $N$ respectively. Prove that $\triangle AMN \odot \triangle ABC$ if and only if $AD$ passes through the circumcenter of $\triangle ABC$.
 
-![[src_cn_cwmo_2009__q06.png]]
+![[src_cn_cwmo_2009__Q06.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_coordinate|Coordinate]], [[method_trigonometria|Trigonometria]]
@@ -199,14 +191,12 @@ level: China Western Mathematical Olympiad
 
 > Sia $D$ un punto sul lato $BC$ di un triangolo acutangolo $ABC$. La circonferenza avente come diametro $BD$ interseca le rette $AB$ e $AD$ rispettivamente nei punti $Y$ e $Q$, i quali sono diversi dai punti $B$ e $D$. La circonferenza avente come diametro $CD$ interseca le rette $AC$ e $AD$ rispettivamente nei punti $P$ e $X$, i quali sono diversi dai punti $C$ e $D$. Passando per il punto $A$, si traccino due rette perpendicolari rispettivamente a $PX$ e a $QY$, con i piedi delle perpendicolari $M$ e $N$ rispettivamente. Dimostrare che $\triangle AMN \odot \triangle ABC$ se e solo se $AD$ passa per il circocentro di $\triangle ABC$.
 
-![[src_cn_cwmo_2009__q06.png]]
+![[src_cn_cwmo_2009__Q06.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_coordinate|Coordinate]], [[method_trigonometria|Trigonometria]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Geometria]]
-
-[[Quesiti/src_cn_cwmo_2009#q06|src_cn_cwmo_2009__Q06]]
 
 
 
@@ -239,11 +229,9 @@ level: China Western Mathematical Olympiad
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]], [[skill_modellizzazione|Modellizzazione]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 
-[[Quesiti/src_cn_cwmo_2009#q07|src_cn_cwmo_2009__Q07]]
 
 
-
-<span class="atom-split" id="q08" data-atom="q08" data-title="Quesito 8" data-tags="topic_algebra,topic_disuguaglianze,method_estremalita,method_telescoping,method_induzione,skill_manipolazione_algebrica,skill_stima,skill_ragionamento_geometrico"></span>
+<span class="atom-split" id="q08" data-atom="q08" data-title="Quesito 8" data-tags="topic_algebra,topic_disuguaglianze,topic_funzionali,method_estremalita,method_telescoping,method_induzione,skill_manipolazione_algebrica,skill_stima,skill_ragionamento_geometrico"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -252,10 +240,10 @@ level: China Western Mathematical Olympiad
 
 > Let $a_1, a_2, \ldots, a_n$ ($n \geq 3$) be real numbers satisfying $a_1 + a_2 + \cdots + a_n = 0$ and $2a_k \leq a_{k-1} + a_{k+1}$ for $k = 2, 3, \ldots, n-1$. Determine the smallest $\lambda(n)$, such that for any $k \in \{1, 2, \ldots, n\}$, one has $$|a_k| \leq \lambda(n) \cdot \max\{|a_1|,\ |a_n|\}.$$
 
-**Topic:** [[topic_algebra|Algebra]], [[topic_disuguaglianze|Disuguaglianze]]
+**Topic:** [[topic_algebra|Algebra]], [[topic_disuguaglianze|Disuguaglianze]], [[topic_funzionali|Functional equations / sequences]]
 **Metodo:** [[method_estremalita|Estremalità]], [[method_telescoping|Telescoping]], [[method_induzione|Induzione]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
-**Area:** [[Algebra e Analisi]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
 **Risposta:** $\frac{n+1}{n-1}$
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1WZGXm4nA5dcZd9asSbnzGZkeWDSjqbF6/view)
 
@@ -267,9 +255,8 @@ level: China Western Mathematical Olympiad
 
 > Sia $a_1, a_2, \ldots, a_n$ ($n \geq 3$) un numero reale che soddisfa $a_1 + a_2 + \cdots + a_n = 0$ e $2a_k \leq a_{k-1} + a_{k+1}$ per $k = 2, 3, \ldots, n-1$. Determinare il più piccolo $\lambda(n)$ tale che, per ogni $k \in \{1, 2, \ldots, n\}$, si abbia $$|a_k| \leq \lambda(n) \cdot \max\{|a_1|,\ |a_n|\}.$$
 
-**Topic:** [[topic_algebra|Algebra]], [[topic_disuguaglianze|Disuguaglianze]]
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_disuguaglianze|Disuguaglianze]], [[topic_funzionali|Equazioni funzionali / successioni]]
 **Metodo:** [[method_estremalita|Estremalità]], [[method_telescoping|Telescoping]], [[method_induzione|Induzione]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Algebra e Analisi]]
-
-[[Quesiti/src_cn_cwmo_2009#q08|src_cn_cwmo_2009__Q08]]

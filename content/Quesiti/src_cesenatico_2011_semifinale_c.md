@@ -10,7 +10,7 @@ level: nazionale
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_algebra,skill_stima"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_algebra,method_disuguaglianze,skill_stima,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -23,7 +23,8 @@ level: nazionale
 > 4 cifre significative dell’unica radice positiva di x2011 −x−1.” Cosa dovrà rispondere Borelix?
 
 **Topic:** [[topic_algebra|Algebra]]
-**Abilita:** [[skill_stima|Stima e approssimazione]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze classiche]]
+**Abilita:** [[skill_stima|Stima e approssimazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Algebra e Analisi]]
 **Risposta:** 1000
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1cvTvz_HhflU1pi7Ye4kuHwak7EowWV8y/view)
@@ -37,14 +38,15 @@ level: nazionale
 > Sins of gluttony
 > Borelix is so greedy for the potion prepared by Parabolix that he tries in every way to get a little taste of it, even though he fell into it when he was a child. The druid turns to Borelix: "I will give you a sip of the potion only if you can find the first 4 significant digits of the unique positive root of x2011 −x−1." What will Borelix have to reply?
 
+
 **Topic:** [[topic_algebra|Algebra]]
-**Skill:** [[skill_stima|Estimation and approximation]]
+**Metodo:** [[method_disuguaglianze|Classical inequalities]]
+**Abilita:** [[skill_stima|Estimation and approximation]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
 
-[[Quesiti/src_cesenatico_2011_semifinale_c#q01|src_cesenatico_2011_semifinale_c__Q01]]
 
 
-
-<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_probabilita,topic_geometria_piana,skill_stima"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_probabilita,topic_geometria_piana,method_simmetria,skill_stima,skill_modellizzazione,skill_ragionamento_geometrico"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -58,7 +60,8 @@ level: nazionale
 > battaglia, quanti saranno colpiti in media?
 
 **Topic:** [[topic_probabilita|Probabilita e statistica]], [[topic_geometria_piana|Geometria piana]]
-**Abilita:** [[skill_stima|Stima e approssimazione]]
+**Metodo:** [[method_simmetria|Sfruttamento della simmetria]]
+**Abilita:** [[skill_stima|Stima e approssimazione]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 **Risposta:** 0101
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1cvTvz_HhflU1pi7Ye4kuHwak7EowWV8y/view)
@@ -72,14 +75,15 @@ level: nazionale
 > Unerring archers
 > The Gauls have been surrounded! The Roman archers have taken up position at the vertices of a battlefield in the shape of a regular octagon, and the zones covered by the range of their unerring bows are identical circles, tangent to one another. The archers are sure to hit every enemy who enters the zone covered by their bows. If 208 Gauls are all at random points of the battlefield, how many will be hit on average?
 
+
 **Topic:** [[topic_probabilita|Probability and statistics]], [[topic_geometria_piana|Plane geometry]]
-**Skill:** [[skill_stima|Estimation and approximation]]
+**Metodo:** [[method_simmetria|Using symmetry]]
+**Abilita:** [[skill_stima|Estimation and approximation]], [[skill_modellizzazione|Modelling / translating the text]], [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Geometria|Geometry]]
 
-[[Quesiti/src_cesenatico_2011_semifinale_c#q02|src_cesenatico_2011_semifinale_c__Q02]]
 
 
-
-<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_aritmetica,method_congruenze,skill_casework_accurato"></span>
+<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_aritmetica,method_congruenze,method_casework,skill_casework_accurato,skill_riconoscimento_pattern"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -94,8 +98,8 @@ level: nazionale
 > apre il lucchetto. Che combinazione aveva scelto Giulio Cesare?
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]]
-**Abilita:** [[skill_casework_accurato|Casework accurato]]
+**Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]], [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 1900
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1cvTvz_HhflU1pi7Ye4kuHwak7EowWV8y/view)
@@ -109,15 +113,15 @@ level: nazionale
 > A forgetful emperor
 > Julius Caesar has locked the chest in which he hides his strategies of war with a padlock whose combination is a number between 0000 and 9999. The emperor knows that the combination he chose is the product of the two-digit numbers whose square has units digit and tens digit equal to the respective digits of the starting number (which lies between 10 and 99). But, as everyone knows, too much glory goes to the head, and Julius Caesar has forgotten the combination. He therefore orders Abacus to be summoned, and as soon as he arrives he opens the padlock for him. What combination had Julius Caesar chosen?
 
+
 **Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
-**Method:** [[method_congruenze|Modular arithmetic / congruences]]
-**Skill:** [[skill_casework_accurato|Careful case analysis]]
-
-[[Quesiti/src_cesenatico_2011_semifinale_c#q03|src_cesenatico_2011_semifinale_c__Q03]]
-
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]], [[method_casework|Case analysis]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]], [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
 
-<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_aritmetica,skill_conteggio_sistematico"></span>
+
+<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_aritmetica,method_casework,method_ricorsione,skill_conteggio_sistematico,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -131,7 +135,8 @@ level: nazionale
 > Quanti millilitri di pozione prepara Parabolix?
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Metodo:** [[method_casework|Analisi per casi]], [[method_ricorsione|Ricorsione]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 7065
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1cvTvz_HhflU1pi7Ye4kuHwak7EowWV8y/view)
@@ -145,14 +150,15 @@ level: nazionale
 > Potion first
 > While preparing the magic potion, Parabolix reveals to Borelix that this time, to defeat the Romans, a quantity (in millilitres) equal to the sum of the first three four-digit numbers with the following property will suffice: the number formed by the first digit is prime, the one formed by the first two digits is prime, and so on (for example 3797, since 3, 37, 379 and 3797 are prime). How many millilitres of potion does Parabolix prepare?
 
+
 **Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
-**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+**Metodo:** [[method_casework|Case analysis]], [[method_ricorsione|Recursion]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]], [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
-[[Quesiti/src_cesenatico_2011_semifinale_c#q04|src_cesenatico_2011_semifinale_c__Q04]]
 
 
-
-<span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_probabilita,method_congruenze,skill_riconoscimento_pattern"></span>
+<span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_probabilita,method_congruenze,skill_riconoscimento_pattern,skill_modellizzazione"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -167,7 +173,7 @@ level: nazionale
 
 **Topic:** [[topic_probabilita|Probabilita e statistica]]
 **Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]]
-**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0000
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1cvTvz_HhflU1pi7Ye4kuHwak7EowWV8y/view)
@@ -181,15 +187,15 @@ level: nazionale
 > Idealix's circle
 > Left alone by Borelix, engaged as usual in a raid against the Romans, the dog Idealix decides to pass the time by jumping on the points of a circle of length 6. At each jump he has probability 1/2 of moving clockwise or anticlockwise, and the length of the jump (measured along the circle) increases gradually: the nth jump has length n+1. What is the probability that after 2011 jumps he is back at the starting point? Write the first four digits after the decimal point.
 
+
 **Topic:** [[topic_probabilita|Probability and statistics]]
-**Method:** [[method_congruenze|Modular arithmetic / congruences]]
-**Skill:** [[skill_riconoscimento_pattern|Pattern recognition]]
-
-[[Quesiti/src_cesenatico_2011_semifinale_c#q05|src_cesenatico_2011_semifinale_c__Q05]]
-
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]]
+**Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]], [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
 
-<span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_geometria_piana,method_coordinate,skill_ragionamento_geometrico"></span>
+
+<span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_geometria_piana,method_coordinate,skill_ragionamento_geometrico,skill_modellizzazione"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -205,7 +211,7 @@ level: nazionale
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_coordinate|Metodo delle coordinate]]
-**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
 **Area:** [[Geometria]]
 **Risposta:** 0135
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1cvTvz_HhflU1pi7Ye4kuHwak7EowWV8y/view)
@@ -219,15 +225,15 @@ level: nazionale
 > Abelix and the magic plant
 > Parabolix has to prepare a new magic potion, and to do so he needs a plant that grows beyond the forest of Sternbrocaud. He therefore sends Abelix to gather this plant. Abelix knows that the plant is 20 km away from him, while halfway there lies the centre of the forest of Sternbrocaud, which has the shape of a circle of radius 5 km. Abelix also knows that inside the forest he proceeds at 5 km/h, while outside he travels at 10 km/h. What is the minimum time, in minutes, that Abelix takes to reach the plant?
 
+
 **Topic:** [[topic_geometria_piana|Plane geometry]]
-**Method:** [[method_coordinate|Coordinate method]]
-**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
-
-[[Quesiti/src_cesenatico_2011_semifinale_c#q06|src_cesenatico_2011_semifinale_c__Q06]]
-
+**Metodo:** [[method_coordinate|Coordinate method]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Geometria|Geometry]]
 
 
-<span class="atom-split" id="q07" data-atom="q07" data-title="Quesito 7" data-tags="topic_combinatoria,topic_logica,method_casework,skill_casework_accurato"></span>
+
+<span class="atom-split" id="q07" data-atom="q07" data-title="Quesito 7" data-tags="topic_combinatoria,topic_logica,method_casework,method_estremalita,skill_casework_accurato,skill_lettura_attenta,skill_modellizzazione"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -249,8 +255,8 @@ level: nazionale
 > Gara a Squadre 2011 – Semifinale C – Testi dei problemi
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_logica|Logica, giochi, strategie]]
-**Metodo:** [[method_casework|Analisi per casi]]
-**Abilita:** [[skill_casework_accurato|Casework accurato]]
+**Metodo:** [[method_casework|Analisi per casi]], [[method_estremalita|Principio di estremalita]]
+**Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_lettura_attenta|Lettura attenta del testo]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0013
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1cvTvz_HhflU1pi7Ye4kuHwak7EowWV8y/view)
@@ -264,15 +270,15 @@ level: nazionale
 > Abelix's party
 > At Abelix's party, which all the Gauls of the village attend, there are 64 guests seated at 8 identical rectangular tables, so that on each of the two short sides there is a single person and on each of the long sides there are three. Lessicografix must seat the diners in order: every child must be next to at least one other child and, if seated beside an adult, there must be at least one druid at the same table; every druid must sit next to another druid and next to an adult; an adult may have another adult beside him only if the same table has both male and female adults; every woman must have a child beside her and never another woman; every man, finally, if he is beside a child, then also has a woman nearby. Knowing that the druids present are 14 and that every woman of the village has two children, what is the maximum number of women seated on the short sides of the tables? (Druids, in particular, are adult males.)
 
+
 **Topic:** [[topic_combinatoria|Combinatorics]], [[topic_logica|Logic, games and strategies]]
-**Method:** [[method_casework|Case analysis]]
-**Skill:** [[skill_casework_accurato|Careful case analysis]]
-
-[[Quesiti/src_cesenatico_2011_semifinale_c#q07|src_cesenatico_2011_semifinale_c__Q07]]
-
+**Metodo:** [[method_casework|Case analysis]], [[method_estremalita|Extremal principle]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]], [[skill_lettura_attenta|Careful reading of the text]], [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
 
-<span class="atom-split" id="q08" data-atom="q08" data-title="Quesito 8" data-tags="topic_geometria_piana,method_simmetria,skill_ragionamento_geometrico"></span>
+
+<span class="atom-split" id="q08" data-atom="q08" data-title="Quesito 8" data-tags="topic_geometria_piana,topic_trigonometria,method_simmetria,method_trigonometria,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -286,9 +292,9 @@ level: nazionale
 > DE = FG. Chiamando P l’intersezione tra DG e EF, e sapendo che AB = 91, che l’area del triangolo è 4173 e che l’angolo
 > BCA misura 45°, sapreste calcolare l’area del poligono AFPD?
 
-**Topic:** [[topic_geometria_piana|Geometria piana]]
-**Metodo:** [[method_simmetria|Sfruttamento della simmetria]]
-**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometria]]
+**Metodo:** [[method_simmetria|Sfruttamento della simmetria]], [[method_trigonometria|Tecniche trigonometriche]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 **Risposta:** 1391
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1cvTvz_HhflU1pi7Ye4kuHwak7EowWV8y/view)
@@ -302,11 +308,11 @@ level: nazionale
 > A Gaulish hourglass
 > An object particularly precious to the Gauls is a curious hourglass, situated inside a triangle. Calling that triangle ABC, the hourglass in question was built as follows: two points D and E were taken, on AC and BC respectively, such that DE was parallel to AB, and two points F and G on AB such that DG was parallel to BC, EF parallel to AC, and DE = FG. Calling P the intersection of DG and EF, and knowing that AB = 91, that the area of the triangle is 4173 and that angle BCA measures 45°, could you calculate the area of the polygon AFPD?
 
-**Topic:** [[topic_geometria_piana|Plane geometry]]
-**Method:** [[method_simmetria|Using symmetry]]
-**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
 
-[[Quesiti/src_cesenatico_2011_semifinale_c#q08|src_cesenatico_2011_semifinale_c__Q08]]
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_trigonometria|Trigonometry]]
+**Metodo:** [[method_simmetria|Using symmetry]], [[method_trigonometria|Trigonometric techniques]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Geometria|Geometry]]
 
 
 
@@ -342,12 +348,11 @@ level: nazionale
 **Topic:** [[topic_combinatoria|Combinatorics]], [[topic_logica|Logic, games and strategies]]
 **Method:** [[method_ricorsione|Recursion]]
 **Skill:** [[skill_riconoscimento_pattern|Pattern recognition]]
-
-[[Quesiti/src_cesenatico_2011_semifinale_c#q09|src_cesenatico_2011_semifinale_c__Q09]]
-
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
 
-<span class="atom-split" id="q10" data-atom="q10" data-title="Quesito 10" data-tags="topic_combinatoria,method_casi_conteggio,skill_conteggio_sistematico"></span>
+
+<span class="atom-split" id="q10" data-atom="q10" data-title="Quesito 10" data-tags="topic_combinatoria,topic_aritmetica,method_casi_conteggio,skill_conteggio_sistematico"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -358,10 +363,10 @@ level: nazionale
 > Il piccolo Unosuix, uno dei più promettenti allievi di Parabolix, per passare il tempo si mette a scrivere tutti i numeri interi
 > positivi minori di 2011. Quante volte userà la cifra 8?
 
-**Topic:** [[topic_combinatoria|Combinatoria]]
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_casi_conteggio|Conteggio per casi]]
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
-**Area:** [[Combinatoria, Logica e Probabilita]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 0601
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1cvTvz_HhflU1pi7Ye4kuHwak7EowWV8y/view)
 
@@ -374,15 +379,15 @@ level: nazionale
 > Child's play
 > Little Unosuix, one of Parabolix's most promising pupils, to pass the time sets about writing all the positive integers less than 2011. How many times will he use the digit 8?
 
-**Topic:** [[topic_combinatoria|Combinatorics]]
-**Method:** [[method_casi_conteggio|Counting by cases]]
-**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
 
-[[Quesiti/src_cesenatico_2011_semifinale_c#q10|src_cesenatico_2011_semifinale_c__Q10]]
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_casi_conteggio|Counting by cases]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
 
 
-<span class="atom-split" id="q11" data-atom="q11" data-title="Quesito 11" data-tags="topic_funzionali,method_ricorsione,skill_manipolazione_algebrica"></span>
+<span class="atom-split" id="q11" data-atom="q11" data-title="Quesito 11" data-tags="topic_funzionali,method_ricorsione,skill_manipolazione_algebrica,skill_riconoscimento_pattern"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -398,7 +403,7 @@ level: nazionale
 
 **Topic:** [[topic_funzionali|Equazioni funzionali / successioni]]
 **Metodo:** [[method_ricorsione|Ricorsione]]
-**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Algebra e Analisi]]
 **Risposta:** 1171
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1cvTvz_HhflU1pi7Ye4kuHwak7EowWV8y/view)
@@ -414,15 +419,15 @@ level: nazionale
 > 1−x) = x, x ̸= 0,1. Determine f(10).
 > Reply with the sum of the numerator and the denominator of the fraction in lowest terms.
 
+
 **Topic:** [[topic_funzionali|Functional equations / sequences]]
-**Method:** [[method_ricorsione|Recursion]]
-**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
-
-[[Quesiti/src_cesenatico_2011_semifinale_c#q11|src_cesenatico_2011_semifinale_c__Q11]]
-
+**Metodo:** [[method_ricorsione|Recursion]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
 
 
-<span class="atom-split" id="q12" data-atom="q12" data-title="Quesito 12" data-tags="topic_funzionali,skill_manipolazione_algebrica"></span>
+
+<span class="atom-split" id="q12" data-atom="q12" data-title="Quesito 12" data-tags="topic_funzionali,method_telescoping,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -436,6 +441,7 @@ level: nazionale
 > Quanto vale a2011?
 
 **Topic:** [[topic_funzionali|Equazioni funzionali / successioni]]
+**Metodo:** [[method_telescoping|Somme telescopiche]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Algebra e Analisi]]
 **Risposta:** 4021
@@ -450,14 +456,15 @@ level: nazionale
 > Numeroprimus and boredom arrange a truce
 > The Romans have decided to take turns attacking the village, so that every legionary can recover from bruises and bumps. The long days of waiting, however, have to be fought too. The legionary Numeroprimus, for example, has taken up mathematics and is writing a sequence of integers a1, a2, ... such that the average of the first n numbers is exactly n, for every n. What is a2011?
 
+
 **Topic:** [[topic_funzionali|Functional equations / sequences]]
-**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Metodo:** [[method_telescoping|Telescoping sums]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
 
-[[Quesiti/src_cesenatico_2011_semifinale_c#q12|src_cesenatico_2011_semifinale_c__Q12]]
 
 
-
-<span class="atom-split" id="q13" data-atom="q13" data-title="Quesito 13" data-tags="topic_probabilita,skill_stima"></span>
+<span class="atom-split" id="q13" data-atom="q13" data-title="Quesito 13" data-tags="topic_probabilita,skill_stima,skill_modellizzazione,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -474,7 +481,7 @@ level: nazionale
 > probabilità in questo caso? Fornire come risposta le prime 4 cifre dopo la virgola.
 
 **Topic:** [[topic_probabilita|Probabilita e statistica]]
-**Abilita:** [[skill_stima|Stima e approssimazione]]
+**Abilita:** [[skill_stima|Stima e approssimazione]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 7346
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1cvTvz_HhflU1pi7Ye4kuHwak7EowWV8y/view)
@@ -490,14 +497,14 @@ level: nazionale
 > 10
 > d where d is the distance (in paces) of the ram from the walls. The Romans send the rams one at a time; they want a probability greater than 50% of getting at least one ram to the walls, and they build the least number of rams that allows this. What is the probability in this case? Give as the answer the first 4 digits after the decimal point.
 
+
 **Topic:** [[topic_probabilita|Probability and statistics]]
-**Skill:** [[skill_stima|Estimation and approximation]]
-
-[[Quesiti/src_cesenatico_2011_semifinale_c#q13|src_cesenatico_2011_semifinale_c__Q13]]
-
+**Abilita:** [[skill_stima|Estimation and approximation]], [[skill_modellizzazione|Modelling / translating the text]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
 
-<span class="atom-split" id="q14" data-atom="q14" data-title="Quesito 14" data-tags="topic_combinatoria,topic_aritmetica,method_conteggio,skill_conteggio_sistematico"></span>
+
+<span class="atom-split" id="q14" data-atom="q14" data-title="Quesito 14" data-tags="topic_combinatoria,topic_aritmetica,method_conteggio,skill_conteggio_sistematico,skill_modellizzazione,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -515,8 +522,8 @@ level: nazionale
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_conteggio|Conteggio combinatorio]]
-**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
-**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 0990
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1cvTvz_HhflU1pi7Ye4kuHwak7EowWV8y/view)
 
@@ -529,15 +536,15 @@ level: nazionale
 > An intoxicating transport
 > The Romans are looking for a barrel of magic potion lost among a whole cellar of identical barrels of wine. To carry the barrels to the camp, where the centurion will taste them one by one, a circular caravan 1196 paces long is organised, with the cellar and the camp diametrically opposite. Numerous carts, all alike, make up the caravan at 26 paces from one another, going with the barrels and returning empty. To allow the centurion to work off the wine, between two carts carrying barrels an increasing number of carts are left empty: first 1, then 2, 3, 4, .... When the first cart that set off arrives back empty at the cellar, the number of barrels still to be loaded is 4/5 of the total. How many empty carts arrive in all at the camp between the first and the last barrel? (The carts that are not empty each carry the same number of barrels.)
 
+
 **Topic:** [[topic_combinatoria|Combinatorics]], [[topic_aritmetica|Arithmetic / Number theory]]
-**Method:** [[method_conteggio|Combinatorial counting]]
-**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
-
-[[Quesiti/src_cesenatico_2011_semifinale_c#q14|src_cesenatico_2011_semifinale_c__Q14]]
-
+**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]], [[skill_modellizzazione|Modelling / translating the text]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
 
-<span class="atom-split" id="q15" data-atom="q15" data-title="Quesito 15" data-tags="topic_aritmetica,method_congruenze,skill_casework_accurato"></span>
+
+<span class="atom-split" id="q15" data-atom="q15" data-title="Quesito 15" data-tags="topic_aritmetica,method_congruenze,method_fattorizzazione,skill_casework_accurato,skill_modellizzazione"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -556,8 +563,8 @@ level: nazionale
 > tutto sono più di 10000 ma meno di 11000, in quante file saranno disposti?
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]]
-**Abilita:** [[skill_casework_accurato|Casework accurato]]
+**Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]], [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
+**Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 0593
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1cvTvz_HhflU1pi7Ye4kuHwak7EowWV8y/view)
@@ -572,15 +579,15 @@ level: nazionale
 > The centurion Gruppus Abelianus has been charged with preparing a cohort of legionaries for the next attack on the Gauls' village. His task is to arrange all the legionaries in a tight rectangle, made up of rows all equal and of the least possible length (but greater than 1).
 > After some hours of work with no result, Abelianus goes to Julius Caesar and complains: "Supreme Julius Caesar, I have tried to arrange the soldiers in rows of 2, of 3, of 4, of 5, and so on up to rows of 10, but in every case one legionary was left over. What am I to do?" Julius Caesar replies without hesitation: "Centurion Abelianus, the number of legionaries to be placed in each row will certainly have to be greater than 10, and Julius Caesar is sure — Julius Caesar always speaks of himself in the third person — that it is possible to arrange the legionaries so that none is left over." Knowing that the legionaries in all are more than 10000 but fewer than 11000, in how many rows will they be arranged?
 
+
 **Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
-**Method:** [[method_congruenze|Modular arithmetic / congruences]]
-**Skill:** [[skill_casework_accurato|Careful case analysis]]
-
-[[Quesiti/src_cesenatico_2011_semifinale_c#q15|src_cesenatico_2011_semifinale_c__Q15]]
-
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]], [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]], [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
 
-<span class="atom-split" id="q16" data-atom="q16" data-title="Quesito 16" data-tags="topic_combinatoria,method_estremalita,skill_casework_accurato"></span>
+
+<span class="atom-split" id="q16" data-atom="q16" data-title="Quesito 16" data-tags="topic_combinatoria,topic_geometria_piana,method_estremalita,method_casework,skill_casework_accurato,skill_ragionamento_geometrico"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -599,10 +606,10 @@ level: nazionale
 > Semifinale C – Soluzioni – 6 Maggio 2011
 > Nr. Problema
 
-**Topic:** [[topic_combinatoria|Combinatoria]]
-**Metodo:** [[method_estremalita|Principio di estremalita]]
-**Abilita:** [[skill_casework_accurato|Casework accurato]]
-**Area:** [[Combinatoria, Logica e Probabilita]]
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_estremalita|Principio di estremalita]], [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 **Risposta:** 0010
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1cvTvz_HhflU1pi7Ye4kuHwak7EowWV8y/view)
 
@@ -615,8 +622,8 @@ level: nazionale
 > A cunning plan of attack
 > Julius Caesar explains to the centurion Caius Tatticus how he intends to dispose his troops in a future engagement. To do so he shows them a diagram in which there are 16 points arranged in a 4×4 square lattice. One can draw 20 squares having as vertices 4 of these points. Julius Caesar wants to choose n points so that no square has all its vertices among them. What is the greatest n can be?
 
-**Topic:** [[topic_combinatoria|Combinatorics]]
-**Method:** [[method_estremalita|Extremal principle]]
-**Skill:** [[skill_casework_accurato|Careful case analysis]]
 
-[[Quesiti/src_cesenatico_2011_semifinale_c#q16|src_cesenatico_2011_semifinale_c__Q16]]
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_estremalita|Extremal principle]], [[method_casework|Case analysis]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]], [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Geometria|Geometry]]

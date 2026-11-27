@@ -10,7 +10,7 @@ level: Concours Général
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_aritmetica,method_congruenze,method_ricorsione,method_casework,skill_lettura_attenta,skill_manipolazione_algebrica,skill_riconoscimento_pattern"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_aritmetica,topic_funzionali,method_congruenze,method_ricorsione,method_casework,skill_lettura_attenta,skill_manipolazione_algebrica,skill_riconoscimento_pattern,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -31,10 +31,10 @@ level: Concours Général
 > 5. For which values of $q$ does the function $f_q$ have fixed points (that is, integers $m$ such that $f_q(m) = m$) other than $p$? What are these fixed points in that case?
 > 6. Show that, for suitable choices of $q$, the study of the sequence $(n_k)$ associated to an integer $n$ provides divisibility criteria of $n$ by $9$, $19$, $29$, $13$, $49$ and $7$. State these criteria.
 
-**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_funzionali|Functional equations / sequences]]
 **Metodo:** [[method_congruenze|Congruenze]], [[method_ricorsione|Ricorsione]], [[method_casework|Casework]]
-**Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
-**Area:** [[Aritmetica e Teoria dei Numeri]]
+**Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Algebra e Analisi|Algebra and analysis]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1g6KpfZ2CgV1vLC5RFzksxLovNhazAWfz/view)
 
 
@@ -47,14 +47,14 @@ level: Concours Général
 > 
 > 1. Verificare che $f_q(n) = \frac{n + p a_0}{10}$. Riduzione di $f_q(p) = p$. 2. a. Indicare che, se $m > p$, allora $f_q(m) < m$. b. Deduci che per ogni numero intero $n$, esiste un numero intero $j$ tale che $n_j \le p$. 3. a. Indicare che, se $m < p$, allora $f_q(m) < p$. b. Deduci che per ogni numero intero $n$, la sequenza $(n_k)$ è periodica da un certo rango su, cioè esistono numeri interi $k$ e $T$ ($T > 0$) tali che $n_{j+T} = n_j$ per tutti $j \ge k$. 4. Stabilire che, per ogni numero intero $n$, $f_q(n)$ è congruente a $q \times n$ modulo $p$. 5. Per quali valori di $q$ la funzione $f_q$ ha punti fissi (cioè enti $m$ tali che $f_q(m) = m$) diversi da $p$? Quali sono questi punti fissi in quel caso? 6. Indicare che, per le scelte appropriate di $q$, lo studio della sequenza $(n_k)$ associata a un numero intero $n$ fornisce criteri di divisibilità di $n$ da $9$, $19$, $29$, $13$, $49$ e $7$. Indicare questi criteri.
 
-[[Quesiti/src_cgen_2006#q01|src_cgen_2006__Q01]]
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_funzionali|Equazioni funzionali / successioni]]
+**Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]], [[method_ricorsione|Ricorsione]], [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_lettura_attenta|Lettura attenta del testo]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_geometria_piana,topic_geometria_analitica,topic_disuguaglianze,method_induzione,method_disuguaglianze,method_simmetria,method_telescoping,skill_ragionamento_geometrico,skill_manipolazione_algebrica,skill_modellizzazione"></span>
-
-<div class="qlang-switch" data-default="en"></div>
-
 
 *Hyperbola-type curve (1-x)(1-y)=a inside the unit square: nature, range of x+y and x^2+y^2, incircle/exscribed-circle radii of a triangle and an inequality involving the natural logarithm*
 
@@ -120,8 +120,20 @@ level: Concours Général
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1g6KpfZ2CgV1vLC5RFzksxLovNhazAWfz/view)
 
 
-<div class="qlang-split" data-lang="it"></div>
 
+<span class="atom-split" id="q02__it" data-atom="q02__it" data-title="Q02__IT" data-tags=""></span>
+
+---
+tipo: quesito-translation
+translation_of: src_cgen_2006__Q02
+lang: it
+secondary: true
+title: "Concours Général des Lycées 2006  Matematica  Quesito 2"
+summary: "Curva di tipo iperbolare (1-x) ((1-y) = a all'interno del quadrato unitario: natura, intervallo di x+y e x^2+y^2, radii circolari/circolari di un triangolo e una disuguaglianza che coinvolge il logaritmo naturale"
+topics: [topic_geometria_piana, topic_geometria_analitica, topic_disuguaglianze]
+methods: [method_induzione, method_disuguaglianze, method_simmetria, method_telescoping]
+skills: [skill_ragionamento_geometrico, skill_manipolazione_algebrica, skill_modellizzazione]
+tags: [kg/translation, topic/geometria_piana, topic/geometria_analitica, topic/disuguaglianze]---
 
 *Curva di tipo iperbola (1-x)(1-y) = a all'interno del quadrato unitario: natura, intervallo di x+y e x^2+y^2, radii di circolo/circolo escritto di un triangolo e una disuguaglianza che coinvolge il logaritmo naturale*
 
@@ -131,11 +143,15 @@ level: Concours Général
 > 
 > PARTE 3 Conservare le notazioni $ABC$, $h$, $r$ indicate nella seconda parte. - La prima domanda. e 2, per ogni punto $D$ di $]BC[$, i radii dei cerchi inseriti nei triangoli $ABD$ e $ACD$ sono indicati $r_1(D)$ e $r_2(D)$, o semplicemente $r_1$ e $r_2$ quando non vi è ambiguità. 1. Indicare che esiste un punto unico $E$ di $]BC[$ tale da $r_1(E) = r_2(E)$. 2. a. Indicare che $E$ è il punto di $]BC[$ per il quale $r_1 + r_2$ è massimo. b. Indicare che $E$ è il punto di $]BC[$ per il quale $r_1^2 + r_2^2$ è minimo se e solo se $8r \le 3h$. 3. In questa domanda, $n$ indica un numero naturale non zero e uno scrive $N = 2^n$. Considerare $N+1$ punti distinti $D_0, D_1, \ldots, D_{N-1}, D_N$ inseriti in questo ordine sul segmento $[BC]$: in altre parole, per ogni numero intero $i$ in $[1, N-1]$, il punto $D_i$ appartiene a $]D_{i-1} D_{i+1}[$. Si suppone inoltre che $D_0 = B$ e $D_N = C$. Per ogni numero intero $i$ in $[1, N]$, scrivere $r_i$ per il raggio del cerchio inserito nel triangolo $A D_{i-1} D_i$. a. Con $n$ indicato, determinare il valore massimo di $r_1 + r_2 + \cdots + r_N$ quando $D_1, \ldots, D_{N-1}$ varia in $[BC]$ rispettando le condizioni sopra indicate. Si mostrerà, ad esempio, mediante l'induzione su $n$, che questo valore massimo viene raggiunto quando $r_1 = r_2 = \ldots = r_N$. b. Scrivere $u_n$ per il valore massimo trovato in a. Esprimere $u_n$ come funzione di $r$, $n$, $h$. Indicare che la sequenza $(u_n)$ converge a un limite da esprimere come funzione di $r$ e $h$. c. Supponiamo $8r \le 3h$. Con il numero intero $n$ indicato, determinare il valore minimo $v_n$ di $r_1^2 + \cdots + r_N^2$. Indicare che la sequenza $(2^n v_n)$ converge.
 
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_geometria_analitica|Geometria analitica]], [[topic_disuguaglianze|Disuguaglianze]]
+**Metodo:** [[method_induzione|Induzione]], [[method_disuguaglianze|Disuguaglianze classiche]], [[method_simmetria|Sfruttamento della simmetria]], [[method_telescoping|Somme telescopiche]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
+**Area:** [[Geometria]], [[Algebra e Analisi]]
 [[Quesiti/src_cgen_2006#q02|src_cgen_2006__Q02]]
 
 
 
-<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_geometria_solida,topic_geometria_analitica,topic_disuguaglianze,method_coordinate,method_casework,method_disuguaglianze,method_simmetria,skill_ragionamento_geometrico,skill_manipolazione_algebrica,skill_casework_accurato"></span>
+<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_geometria_solida,topic_geometria_analitica,topic_disuguaglianze,topic_trigonometria,method_coordinate,method_casework,method_disuguaglianze,method_simmetria,skill_ragionamento_geometrico,skill_manipolazione_algebrica,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -201,12 +217,12 @@ level: Concours Général
 >       $$24 \le g(u, v) \le 32$$
 >       Deduce, in this case of figure, the best possible bound on the area of $\mathscr{A}$ when $x$ and $y$ vary.
 
-![[src_cgen_2006__q03.png]]
+![[src_cgen_2006__Q03.png]]
 
-**Topic:** [[topic_geometria_solida|Geometria solida]], [[topic_geometria_analitica|Geometria analitica]], [[topic_disuguaglianze|Disuguaglianze]]
+**Topic:** [[topic_geometria_solida|Geometria solida]], [[topic_geometria_analitica|Geometria analitica]], [[topic_disuguaglianze|Disuguaglianze]], [[topic_trigonometria|Trigonometry]]
 **Metodo:** [[method_coordinate|Coordinate]], [[method_casework|Casework]], [[method_disuguaglianze|Disuguaglianze]], [[method_simmetria|Simmetria]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Casework accurato]]
-**Area:** [[Geometria]], [[Algebra e Analisi]]
+**Area:** [[Geometria|Geometry]], [[Algebra e Analisi|Algebra and analysis]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1g6KpfZ2CgV1vLC5RFzksxLovNhazAWfz/view)
 
 
@@ -225,6 +241,9 @@ level: Concours Général
 > 
 > 3.2.3 Piani $\mathscr{P}$ che incontrano 6 bordi di $\mathscr{K}$ Considera un piano $\mathscr{P}$ che incontra il bordo $[AB]$ in un punto $M$ delle coordinate $(x, 1, 1)$ e il bordo $[BC]$ in un punto $N$ delle coordinate $(-1, y, 1)$. 1. Indicare che $\mathscr{P}$ incontra il bordo $[C'A]$ in un punto $R$ delle coordinate $(-1, -1, z)$. Indicare, su uno schizzo a mano libera, la costruzione geometrica del punto $R$, con i punti $M$ e $N$. 2. Stabilire che i tre numeri reali $x$, $y$ e $z$ sono legati dalla relazione: $$(1) \qquad x + y + z + xyz = 0$$ 3. Disegnare il poligono $\mathscr{A}$ per $x = y = z = 0$ e calcolare la sua superficie. 4. Indicare che l'area $S$ di $\mathscr{A}$ soddisfa la relazione: $$S^2 = (3 - x + y + xy)^2 + (3 + x - z + xz)^2 + (3 - y + z + yz)^2$$ Una serie da ora in poi: $$f(x, y, z) = (3 - x + y + xy)^2 + (3 + x - z + xz)^2 + (3 - y + z + yz)^2$$ 5. Determinare l'insieme dei valori di $S$ quando i punti $M$ e $N$ variano in modo tale che $x + y = 0$. 6. Date le valori rigorosamente positive $u$, $v$ e $w$, impostate $x = \frac{u-1}{u+1}$, $y = \frac{v-1}{v+1}$ e $z = \frac{w-1}{w+1}$. a. Verificare che, quando il triplo $(x, y, z)$ soddisfa la relazione $(1)$, si abbia $uvw = 1$ e $z = \frac{1 - uv}{1 + uv}$. b. Un insieme: $$g(u, v) = f\left(\frac{u-1}{u+1}, \frac{v-1}{v+1}, \frac{1-uv}{1+uv}\right)$$ e uno ammette che si ha la relazione: $$g(u, v) = 32 \frac{(1 + v + uv)^2 \left(1 + u + u^2 + uv + u^2 v + u^2 v^2\right)}{(1 + u)^2 (1 + v)^2 (1 + uv)^2}$$ Mostra che si ha, per ogni coppia $(u, v)$ di reali strettamente positivi, il limite: $$24 \le g(u, v) \le 32$$ Ridurre, in questo caso di figura, il limite migliore possibile sull'area di $\mathscr{A}$ quando $x$ e $y$ variano.
 
-![[src_cgen_2006__q03.png]]
+![[src_cgen_2006__Q03.png]]
 
-[[Quesiti/src_cgen_2006#q03|src_cgen_2006__Q03]]
+**Topic:** [[topic_geometria_solida|Geometria solida]], [[topic_geometria_analitica|Geometria analitica]], [[topic_disuguaglianze|Disuguaglianze]], [[topic_trigonometria|Trigonometria]]
+**Metodo:** [[method_coordinate|Metodo delle coordinate]], [[method_casework|Analisi per casi]], [[method_disuguaglianze|Disuguaglianze classiche]], [[method_simmetria|Sfruttamento della simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Geometria]], [[Algebra e Analisi]]

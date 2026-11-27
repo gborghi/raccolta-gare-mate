@@ -10,7 +10,7 @@ level: CAMP Selection Camp
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_combinatoria,topic_aritmetica"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_combinatoria,topic_aritmetica,method_invarianti,method_estremalita,skill_astrazione,skill_riconoscimento_pattern"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -27,10 +27,12 @@ level: CAMP Selection Camp
 >
 > > when the $k$-th operation is over, the sequence obtained by arranging the $n$ numbers on A in increasing order is an arithmetic progression, and the sequence obtained by arranging the $n$ numbers on B in decreasing order is also an arithmetic progression.
 
-**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_invarianti|Invariants / monovariants]], [[method_estremalita|Extremal principle]]
+**Abilita:** [[skill_astrazione|Abstraction / generalisation]], [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Risposta:** nessuna soluzione ufficiale pubblicata (problema dimostrativo / a risposta aperta).
-**Fonte:** apri PDF p.1 · Japan Mathematical Olympiad Foundation (testo ufficiale in giapponese)
+**Fonte:** [apri PDF p.1](https://www.imojp.org/archive/mo2026/selection_camp/problems/2026.pdf#page=1) · Japan Mathematical Olympiad Foundation (testo ufficiale in giapponese)
 
 
 <div class="qlang-split" data-lang="it"></div>
@@ -48,14 +50,15 @@ level: CAMP Selection Camp
 >
 > Quando l'$k$-esima operazione è terminata, la successione ottenuta ordinando in ordine crescente i $n$ numeri su A è una progressione aritmetica, e anche la successione ottenuta ordinando in ordine decrescente i $n$ numeri su B è una progressione aritmetica.
 
+
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_invarianti|Invarianti / monovarianti]], [[method_estremalita|Principio di estremalita]]
+**Abilita:** [[skill_astrazione|Astrazione / generalizzazione]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 
-[[Quesiti/src_selection_camp_2026#q01|src_selection_camp_2026__Q01]]
 
 
-
-<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_combinatoria"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_combinatoria,method_colorazione,method_conteggio,method_estremalita,skill_astrazione,skill_conteggio_sistematico"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -66,10 +69,12 @@ level: CAMP Selection Camp
 >
 > > Let $n$ be any positive integer and $a_1,a_2,\dots,a_n$ any sequence of pairwise distinct integers. Let $A$ be the number of pairs of integers $(i,j)$ with $1\leqq i<j\leqq n$ and $a_i>a_j$, and let $B$ be the number of those pairs for which, in addition, $j-i$ is odd. Then $B\geqq tA$.
 
-**Topic:** [[topic_combinatoria|Combinatoria]]
-**Area:** [[Combinatoria, Logica e Probabilita]]
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_colorazione|Colouring / parity]], [[method_conteggio|Combinatorial counting]], [[method_estremalita|Extremal principle]]
+**Abilita:** [[skill_astrazione|Abstraction / generalisation]], [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Risposta:** nessuna soluzione ufficiale pubblicata (problema dimostrativo / a risposta aperta).
-**Fonte:** apri PDF p.1 · Japan Mathematical Olympiad Foundation (testo ufficiale in giapponese)
+**Fonte:** [apri PDF p.1](https://www.imojp.org/archive/mo2026/selection_camp/problems/2026.pdf#page=1) · Japan Mathematical Olympiad Foundation (testo ufficiale in giapponese)
 
 
 <div class="qlang-split" data-lang="it"></div>
@@ -81,14 +86,15 @@ level: CAMP Selection Camp
 >
 > > Sia $n$ un qualsiasi intero positivo e $a_1,a_2,\dots,a_n$ una qualsiasi successione di interi tutti distinti tra loro. Sia $A$ il numero di coppie di interi $(i,j)$ tali che $1\leqq i<j\leqq n$ e $a_i>a_j$, e sia $B$ il numero di tali coppie per cui, inoltre, $j-i$ è dispari. Allora $B\geqq tA$.
 
+
 **Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_colorazione|Colorazione / parita]], [[method_conteggio|Conteggio combinatorio]], [[method_estremalita|Principio di estremalita]]
+**Abilita:** [[skill_astrazione|Astrazione / generalizzazione]], [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 
-[[Quesiti/src_selection_camp_2026#q02|src_selection_camp_2026__Q02]]
 
 
-
-<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_geometria_piana"></span>
+<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_geometria_piana,method_simmetria,skill_ragionamento_geometrico,skill_lettura_attenta"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -99,10 +105,12 @@ level: CAMP Selection Camp
 >
 > Here $UV$ denotes the length of the segment $UV$.
 
-**Topic:** [[topic_geometria_piana|Geometria piana]]
-**Area:** [[Geometria]]
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_simmetria|Using symmetry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_lettura_attenta|Careful reading of the text]]
+**Area:** [[Geometria|Geometry]]
 **Risposta:** nessuna soluzione ufficiale pubblicata (problema dimostrativo / a risposta aperta).
-**Fonte:** apri PDF p.1 · Japan Mathematical Olympiad Foundation (testo ufficiale in giapponese)
+**Fonte:** [apri PDF p.1](https://www.imojp.org/archive/mo2026/selection_camp/problems/2026.pdf#page=1) · Japan Mathematical Olympiad Foundation (testo ufficiale in giapponese)
 
 
 <div class="qlang-split" data-lang="it"></div>
@@ -114,14 +122,15 @@ level: CAMP Selection Camp
 >
 > Qui $UV$ denota la lunghezza del segmento $UV$.
 
+
 **Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_simmetria|Sfruttamento della simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta del testo]]
 **Area:** [[Geometria]]
 
-[[Quesiti/src_selection_camp_2026#q03|src_selection_camp_2026__Q03]]
 
 
-
-<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_combinatoria"></span>
+<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_combinatoria,method_invarianti,method_induzione,method_casework,skill_astrazione,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -136,10 +145,12 @@ level: CAMP Selection Camp
 >
 > > however 2025 white balls and 2025 black balls are arranged in a row, it is possible, by performing at most $N$ fair operations in succession, to have exactly $2k$ balls left.
 
-**Topic:** [[topic_combinatoria|Combinatoria]]
-**Area:** [[Combinatoria, Logica e Probabilita]]
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_invarianti|Invariants / monovariants]], [[method_induzione|Induction]], [[method_casework|Case analysis]]
+**Abilita:** [[skill_astrazione|Abstraction / generalisation]], [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Risposta:** nessuna soluzione ufficiale pubblicata (problema dimostrativo / a risposta aperta).
-**Fonte:** apri PDF p.2 · Japan Mathematical Olympiad Foundation (testo ufficiale in giapponese)
+**Fonte:** [apri PDF p.2](https://www.imojp.org/archive/mo2026/selection_camp/problems/2026.pdf#page=2) · Japan Mathematical Olympiad Foundation (testo ufficiale in giapponese)
 
 
 <div class="qlang-split" data-lang="it"></div>
@@ -155,14 +166,15 @@ level: CAMP Selection Camp
 >
 > > Tuttavia, le 2025 sfere bianche e le 2025 sfere nere sono disposte in fila; è possibile, eseguendo al massimo $N$ operazioni corrette in successione, far sì che rimangano esattamente $2k$ sfere.
 
+
 **Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_invarianti|Invarianti / monovarianti]], [[method_induzione|Induzione]], [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_astrazione|Astrazione / generalizzazione]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 
-[[Quesiti/src_selection_camp_2026#q04|src_selection_camp_2026__Q04]]
 
 
-
-<span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_funzionali"></span>
+<span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_funzionali,method_ricorsione,method_induzione,method_casework,skill_riconoscimento_pattern,skill_astrazione,skill_lettura_attenta"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -175,10 +187,12 @@ level: CAMP Selection Camp
 >
 > Here $f^k(n)$ denotes $\underbrace{f(f(\cdots f}_{k}(n)\cdots))$.
 
-**Topic:** [[topic_funzionali|Equazioni funzionali / successioni]]
-**Area:** [[Algebra e Analisi]]
+**Topic:** [[topic_funzionali|Functional equations / sequences]]
+**Metodo:** [[method_ricorsione|Recursion]], [[method_induzione|Induction]], [[method_casework|Case analysis]]
+**Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]], [[skill_astrazione|Abstraction / generalisation]], [[skill_lettura_attenta|Careful reading of the text]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
 **Risposta:** nessuna soluzione ufficiale pubblicata (problema dimostrativo / a risposta aperta).
-**Fonte:** apri PDF p.2 · Japan Mathematical Olympiad Foundation (testo ufficiale in giapponese)
+**Fonte:** [apri PDF p.2](https://www.imojp.org/archive/mo2026/selection_camp/problems/2026.pdf#page=2) · Japan Mathematical Olympiad Foundation (testo ufficiale in giapponese)
 
 
 <div class="qlang-split" data-lang="it"></div>
@@ -192,14 +206,15 @@ level: CAMP Selection Camp
 >
 > Qui $f^k(n)$ denota $\underbrace{f(f(\cdots f}_{k}(n)\cdots))$.
 
+
 **Topic:** [[topic_funzionali|Equazioni funzionali / successioni]]
+**Metodo:** [[method_ricorsione|Ricorsione]], [[method_induzione|Induzione]], [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_astrazione|Astrazione / generalizzazione]], [[skill_lettura_attenta|Lettura attenta del testo]]
 **Area:** [[Algebra e Analisi]]
 
-[[Quesiti/src_selection_camp_2026#q05|src_selection_camp_2026__Q05]]
 
 
-
-<span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_aritmetica"></span>
+<span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_aritmetica,method_congruenze,skill_astrazione,skill_stima,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -212,10 +227,12 @@ level: CAMP Selection Camp
 >
 > Here $\phi(n)$ denotes the number of integers between 1 and $n$ inclusive that are coprime to $n$.
 
-**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Area:** [[Aritmetica e Teoria dei Numeri]]
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]]
+**Abilita:** [[skill_astrazione|Abstraction / generalisation]], [[skill_stima|Estimation and approximation]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Risposta:** nessuna soluzione ufficiale pubblicata (problema dimostrativo / a risposta aperta).
-**Fonte:** apri PDF p.2 · Japan Mathematical Olympiad Foundation (testo ufficiale in giapponese)
+**Fonte:** [apri PDF p.2](https://www.imojp.org/archive/mo2026/selection_camp/problems/2026.pdf#page=2) · Japan Mathematical Olympiad Foundation (testo ufficiale in giapponese)
 
 
 <div class="qlang-split" data-lang="it"></div>
@@ -229,14 +246,15 @@ level: CAMP Selection Camp
 >
 > Qui $\phi(n)$ denota il numero di interi compresi tra 1 e $n$, estremi inclusi, che sono coprimi con $n$.
 
+
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]]
+**Abilita:** [[skill_astrazione|Astrazione / generalizzazione]], [[skill_stima|Stima e approssimazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 
-[[Quesiti/src_selection_camp_2026#q06|src_selection_camp_2026__Q06]]
 
 
-
-<span class="atom-split" id="q07" data-atom="q07" data-title="Quesito 7" data-tags="topic_geometria_piana"></span>
+<span class="atom-split" id="q07" data-atom="q07" data-title="Quesito 7" data-tags="topic_geometria_piana,method_simmetria,method_trigonometria,skill_ragionamento_geometrico,skill_lettura_attenta"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -247,10 +265,12 @@ level: CAMP Selection Camp
 >
 > Here $UV$ denotes the length of the segment $UV$.
 
-**Topic:** [[topic_geometria_piana|Geometria piana]]
-**Area:** [[Geometria]]
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_simmetria|Using symmetry]], [[method_trigonometria|Trigonometric techniques]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_lettura_attenta|Careful reading of the text]]
+**Area:** [[Geometria|Geometry]]
 **Risposta:** nessuna soluzione ufficiale pubblicata (problema dimostrativo / a risposta aperta).
-**Fonte:** apri PDF p.3 · Japan Mathematical Olympiad Foundation (testo ufficiale in giapponese)
+**Fonte:** [apri PDF p.3](https://www.imojp.org/archive/mo2026/selection_camp/problems/2026.pdf#page=3) · Japan Mathematical Olympiad Foundation (testo ufficiale in giapponese)
 
 
 <div class="qlang-split" data-lang="it"></div>
@@ -262,14 +282,15 @@ level: CAMP Selection Camp
 >
 > Qui $UV$ indica la lunghezza del segmento $UV$.
 
+
 **Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_simmetria|Sfruttamento della simmetria]], [[method_trigonometria|Tecniche trigonometriche]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta del testo]]
 **Area:** [[Geometria]]
 
-[[Quesiti/src_selection_camp_2026#q07|src_selection_camp_2026__Q07]]
 
 
-
-<span class="atom-split" id="q08" data-atom="q08" data-title="Quesito 8" data-tags="topic_aritmetica"></span>
+<span class="atom-split" id="q08" data-atom="q08" data-title="Quesito 8" data-tags="topic_aritmetica,method_estremalita,method_congruenze,skill_astrazione,skill_manipolazione_algebrica,skill_stima"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -278,10 +299,12 @@ level: CAMP Selection Camp
 
 > Prove that there is no tuple $(a_1,a_2,\dots,a_{2025})$ of integers greater than $2^{2025}$ such that, for every integer $i$ with $1\leqslant i\leqslant2025$, $a_i$ divides $a_{i-1}+a_{i+1}-1$. Here $a_0=a_{2025}$ and $a_{2026}=a_1$.
 
-**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Area:** [[Aritmetica e Teoria dei Numeri]]
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_estremalita|Extremal principle]], [[method_congruenze|Modular arithmetic / congruences]]
+**Abilita:** [[skill_astrazione|Abstraction / generalisation]], [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_stima|Estimation and approximation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Risposta:** nessuna soluzione ufficiale pubblicata (problema dimostrativo / a risposta aperta).
-**Fonte:** apri PDF p.3 · Japan Mathematical Olympiad Foundation (testo ufficiale in giapponese)
+**Fonte:** [apri PDF p.3](https://www.imojp.org/archive/mo2026/selection_camp/problems/2026.pdf#page=3) · Japan Mathematical Olympiad Foundation (testo ufficiale in giapponese)
 
 
 <div class="qlang-split" data-lang="it"></div>
@@ -291,14 +314,15 @@ level: CAMP Selection Camp
 
 > Dimostrare che non esiste una tupla $(a_1,a_2,\dots,a_{2025})$ di interi maggiori di $2^{2025}$ tale che, per ogni intero $i$ con $1\leqslant i\leqslant2025$, $a_i$ divida $a_{i-1}+a_{i+1}-1$. Qui $a_0=a_{2025}$ e $a_{2026}=a_1$.
 
+
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_estremalita|Principio di estremalita]], [[method_congruenze|Aritmetica modulare / congruenze]]
+**Abilita:** [[skill_astrazione|Astrazione / generalizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima e approssimazione]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 
-[[Quesiti/src_selection_camp_2026#q08|src_selection_camp_2026__Q08]]
 
 
-
-<span class="atom-split" id="q09" data-atom="q09" data-title="Quesito 9" data-tags="topic_combinatoria"></span>
+<span class="atom-split" id="q09" data-atom="q09" data-title="Quesito 9" data-tags="topic_combinatoria,method_grafi,method_induzione,skill_astrazione,skill_modellizzazione"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -313,10 +337,12 @@ level: CAMP Selection Camp
 >
 > The cell where the rabbit starts is considered to be the first cell visited by the rabbit.
 
-**Topic:** [[topic_combinatoria|Combinatoria]]
-**Area:** [[Combinatoria, Logica e Probabilita]]
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_grafi|Graph theory]], [[method_induzione|Induction]]
+**Abilita:** [[skill_astrazione|Abstraction / generalisation]], [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Risposta:** nessuna soluzione ufficiale pubblicata (problema dimostrativo / a risposta aperta).
-**Fonte:** apri PDF p.3 · Japan Mathematical Olympiad Foundation (testo ufficiale in giapponese)
+**Fonte:** [apri PDF p.3](https://www.imojp.org/archive/mo2026/selection_camp/problems/2026.pdf#page=3) · Japan Mathematical Olympiad Foundation (testo ufficiale in giapponese)
 
 
 <div class="qlang-split" data-lang="it"></div>
@@ -332,14 +358,15 @@ level: CAMP Selection Camp
 >
 > La cella in cui il coniglio parte è considerata la prima cella visitata dal coniglio.
 
+
 **Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_grafi|Teoria dei grafi]], [[method_induzione|Induzione]]
+**Abilita:** [[skill_astrazione|Astrazione / generalizzazione]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 
-[[Quesiti/src_selection_camp_2026#q09|src_selection_camp_2026__Q09]]
 
 
-
-<span class="atom-split" id="q10" data-atom="q10" data-title="Quesito 10" data-tags="topic_aritmetica,topic_funzionali"></span>
+<span class="atom-split" id="q10" data-atom="q10" data-title="Quesito 10" data-tags="topic_aritmetica,topic_funzionali,method_congruenze,method_casework,skill_casework_accurato,skill_astrazione"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -350,10 +377,12 @@ level: CAMP Selection Camp
 >
 > > there exists a positive divisor $e$ of $n$ such that $d+f(e)$ is divisible by $n$.
 
-**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_funzionali|Equazioni funzionali / successioni]]
-**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_funzionali|Functional equations / sequences]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]], [[method_casework|Case analysis]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]], [[skill_astrazione|Abstraction / generalisation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Algebra e Analisi|Algebra and analysis]]
 **Risposta:** nessuna soluzione ufficiale pubblicata (problema dimostrativo / a risposta aperta).
-**Fonte:** apri PDF p.4 · Japan Mathematical Olympiad Foundation (testo ufficiale in giapponese)
+**Fonte:** [apri PDF p.4](https://www.imojp.org/archive/mo2026/selection_camp/problems/2026.pdf#page=4) · Japan Mathematical Olympiad Foundation (testo ufficiale in giapponese)
 
 
 <div class="qlang-split" data-lang="it"></div>
@@ -365,14 +394,15 @@ level: CAMP Selection Camp
 >
 > > Esiste un divisore positivo $e$ di $n$ tale che $d+f(e)$ è divisibile per $n$.
 
+
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_funzionali|Equazioni funzionali / successioni]]
+**Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]], [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_astrazione|Astrazione / generalizzazione]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 
-[[Quesiti/src_selection_camp_2026#q10|src_selection_camp_2026__Q10]]
 
 
-
-<span class="atom-split" id="q11" data-atom="q11" data-title="Quesito 11" data-tags="topic_geometria_piana"></span>
+<span class="atom-split" id="q11" data-atom="q11" data-title="Quesito 11" data-tags="topic_geometria_piana,method_simmetria,method_trigonometria,skill_ragionamento_geometrico,skill_lettura_attenta"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -383,10 +413,12 @@ level: CAMP Selection Camp
 >
 > Here $UV$ denotes the length of the segment $UV$.
 
-**Topic:** [[topic_geometria_piana|Geometria piana]]
-**Area:** [[Geometria]]
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_simmetria|Using symmetry]], [[method_trigonometria|Trigonometric techniques]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_lettura_attenta|Careful reading of the text]]
+**Area:** [[Geometria|Geometry]]
 **Risposta:** nessuna soluzione ufficiale pubblicata (problema dimostrativo / a risposta aperta).
-**Fonte:** apri PDF p.4 · Japan Mathematical Olympiad Foundation (testo ufficiale in giapponese)
+**Fonte:** [apri PDF p.4](https://www.imojp.org/archive/mo2026/selection_camp/problems/2026.pdf#page=4) · Japan Mathematical Olympiad Foundation (testo ufficiale in giapponese)
 
 
 <div class="qlang-split" data-lang="it"></div>
@@ -398,14 +430,15 @@ level: CAMP Selection Camp
 >
 > Qui $UV$ denota la lunghezza del segmento $UV$.
 
+
 **Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_simmetria|Sfruttamento della simmetria]], [[method_trigonometria|Tecniche trigonometriche]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta del testo]]
 **Area:** [[Geometria]]
 
-[[Quesiti/src_selection_camp_2026#q11|src_selection_camp_2026__Q11]]
 
 
-
-<span class="atom-split" id="q12" data-atom="q12" data-title="Quesito 12" data-tags="topic_algebra,topic_combinatoria"></span>
+<span class="atom-split" id="q12" data-atom="q12" data-title="Quesito 12" data-tags="topic_algebra,topic_combinatoria,topic_logica,method_invarianti,skill_astrazione,skill_modellizzazione"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -420,10 +453,12 @@ level: CAMP Selection Camp
 >
 > Is it possible for A, whatever B does, to write the initial real numbers on the cards and keep playing so that the game never ends?
 
-**Topic:** [[topic_algebra|Algebra]], [[topic_combinatoria|Combinatoria]]
-**Area:** [[Algebra e Analisi]], [[Combinatoria, Logica e Probabilita]]
+**Topic:** [[topic_algebra|Algebra]], [[topic_combinatoria|Combinatorics]], [[topic_logica|Logic, games and strategies]]
+**Metodo:** [[method_invarianti|Invariants / monovariants]]
+**Abilita:** [[skill_astrazione|Abstraction / generalisation]], [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Risposta:** nessuna soluzione ufficiale pubblicata (problema dimostrativo / a risposta aperta).
-**Fonte:** apri PDF p.4 · Japan Mathematical Olympiad Foundation (testo ufficiale in giapponese)
+**Fonte:** [apri PDF p.4](https://www.imojp.org/archive/mo2026/selection_camp/problems/2026.pdf#page=4) · Japan Mathematical Olympiad Foundation (testo ufficiale in giapponese)
 
 
 <div class="qlang-split" data-lang="it"></div>
@@ -439,7 +474,8 @@ level: CAMP Selection Camp
 >
 > È possibile che A, qualunque cosa faccia B, scriva i numeri reali iniziali sulle carte e continui a giocare in modo che il gioco non finisca mai?
 
-**Topic:** [[topic_algebra|Algebra]], [[topic_combinatoria|Combinatoria]]
-**Area:** [[Algebra e Analisi]], [[Combinatoria, Logica e Probabilita]]
 
-[[Quesiti/src_selection_camp_2026#q12|src_selection_camp_2026__Q12]]
+**Topic:** [[topic_algebra|Algebra]], [[topic_combinatoria|Combinatoria]], [[topic_logica|Logica, giochi, strategie]]
+**Metodo:** [[method_invarianti|Invarianti / monovarianti]]
+**Abilita:** [[skill_astrazione|Astrazione / generalizzazione]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
+**Area:** [[Algebra e Analisi]], [[Combinatoria, Logica e Probabilita]]

@@ -10,7 +10,7 @@ level: JJMO Honsen
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_combinatoria,topic_aritmetica,method_estremalita,method_casework,method_invarianti,skill_lettura_attenta,skill_conteggio_sistematico,skill_riconoscimento_pattern"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_combinatoria,topic_aritmetica,method_estremalita,method_casework,method_invarianti,method_congruenze,skill_lettura_attenta,skill_conteggio_sistematico,skill_riconoscimento_pattern"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -22,9 +22,9 @@ level: JJMO Honsen
 > We start with two chosen good points and apply a sequence of operations. Among all the good points found (including the initial two), consider those that lie on a single vertical line $x = c$ for some fixed integer $c$. Find the minimum possible value of this count, over all choices of the initial two good points and all finite sequences of valid operations, given that at least one operation has been successfully applied.
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_estremalita|Estremalità]], [[method_casework|Casework]], [[method_invarianti|Invarianti]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_casework|Casework]], [[method_invarianti|Invarianti]], [[method_congruenze|Modular arithmetic / congruences]]
 **Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
-**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/19vi3nVIVUo2o9eKwSqYkHbpBfPtGDN5B/view)
 
 
@@ -37,12 +37,11 @@ level: JJMO Honsen
 >
 > Partiamo da due punti buoni scelti e applichiamo una sequenza di operazioni. Tra tutti i punti buoni trovati (inclusi i due iniziali), si considerino quelli che giacciono su un'unica retta verticale $x = c$ per un certo intero fisso $c$. Si determini il valore minimo possibile di questo numero, considerando tutte le scelte dei due punti buoni iniziali e tutte le sequenze finite di operazioni valide, sapendo che è stata applicata con successo almeno un'operazione.
 
+
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_estremalita|Estremalità]], [[method_casework|Casework]], [[method_invarianti|Invarianti]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_casework|Casework]], [[method_invarianti|Invarianti]], [[method_congruenze|Aritmetica modulare / congruenze]]
 **Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
-
-[[Quesiti/src_jjmo23hq_honsen#q01|src_jjmo23hq_honsen__Q01]]
 
 
 
@@ -83,8 +82,6 @@ level: JJMO Honsen
 **Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Algebra e Analisi]], [[Combinatoria, Logica e Probabilita]]
 
-[[Quesiti/src_jjmo23hq_honsen#q02|src_jjmo23hq_honsen__Q02]]
-
 
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_geometria_piana,method_trigonometria,skill_ragionamento_geometrico,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
@@ -114,8 +111,6 @@ level: JJMO Honsen
 **Metodo:** [[method_trigonometria|Trigonometria]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Geometria]]
-
-[[Quesiti/src_jjmo23hq_honsen#q03|src_jjmo23hq_honsen__Q03]]
 
 
 
@@ -154,8 +149,6 @@ level: JJMO Honsen
 **Metodo:** [[method_congruenze|Congruenze]], [[method_casework|Casework]], [[method_fattorizzazione|Fattorizzazione]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
-
-[[Quesiti/src_jjmo23hq_honsen#q04|src_jjmo23hq_honsen__Q04]]
 
 
 
@@ -200,5 +193,3 @@ level: JJMO Honsen
 **Metodo:** [[method_doppio_conteggio|Doppio conteggio]], [[method_estremalita|Estremalità]], [[method_cassetti|Principio dei cassetti]]
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Algebra e Analisi]]
-
-[[Quesiti/src_jjmo23hq_honsen#q05|src_jjmo23hq_honsen__Q05]]

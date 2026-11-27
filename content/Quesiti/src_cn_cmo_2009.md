@@ -21,7 +21,7 @@ level: China Mathematical Olympiad
 > (1) Prove that if $A$, $B$, $C$, $D$ are concyclic, then $EM \times FN = EN \times FM$.
 > (2) Are the four points $A$, $B$, $C$, $D$ always concyclic if $EM \times FN = EN \times FM$? Prove your answer.
 
-![[src_cn_cmo_2009__q01.png]]
+![[src_cn_cmo_2009__Q01.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_trigonometria|Trigonometria]]
@@ -37,18 +37,16 @@ level: China Mathematical Olympiad
 
 > Sia dato un triangolo acuto $PBC$, $PB \neq PC$. Siano i punti $A$, $D$ posti sui lati $PB$ e $PC$, rispettivamente. Siano $M$, $N$ i punti medi dei segmenti $BC$ e $AD$, rispettivamente. Le rette $AC$ e $BD$ si intersecano nel punto $O$. Si tracci $OE \perp AB$ nel punto $E$ e $OF \perp CD$ nel punto $F$. (1) Dimostrare che, se $A$, $B$, $C$, $D$ sono concyclici, allora $EM \times FN = EN \times FM$. (2) I quattro punti $A$, $B$, $C$, $D$ sono sempre concyclici se $EM \times FN = EN \times FM$? Dimostrare la risposta.
 
-![[src_cn_cmo_2009__q01.png]]
+![[src_cn_cmo_2009__Q01.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_trigonometria|Trigonometria]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 
-[[Quesiti/src_cn_cmo_2009#q01|src_cn_cmo_2009__Q01]]
 
 
-
-<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_aritmetica,method_congruenze,method_casework,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_aritmetica,method_congruenze,method_casework,method_fattorizzazione,skill_manipolazione_algebrica,skill_lettura_attenta,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -58,9 +56,9 @@ level: China Mathematical Olympiad
 > Find all pairs $(p, q)$ of prime numbers such that $pq \mid 5^p + 5^q$. (Posed by Fu Yunhao)
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_congruenze|Congruenze]], [[method_casework|Casework]]
-**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
-**Area:** [[Aritmetica e Teoria dei Numeri]]
+**Metodo:** [[method_congruenze|Congruenze]], [[method_casework|Casework]], [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1WZGXm4nA5dcZd9asSbnzGZkeWDSjqbF6/view)
 
 
@@ -71,16 +69,15 @@ level: China Mathematical Olympiad
 
 > Trovare tutte le coppie $(p, q)$ di numeri primi tali che $pq \mid 5^p + 5^q$. (Proposto da Fu Yunhao)
 
+
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_congruenze|Congruenze]], [[method_casework|Casework]]
-**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Metodo:** [[method_congruenze|Congruenze]], [[method_casework|Casework]], [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 
-[[Quesiti/src_cn_cmo_2009#q02|src_cn_cmo_2009__Q02]]
 
 
-
-<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_combinatoria,topic_geometria_piana,method_conteggio,method_casework,skill_conteggio_sistematico,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
+<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_combinatoria,topic_geometria_piana,method_conteggio,method_casework,skill_conteggio_sistematico,skill_ragionamento_geometrico,skill_manipolazione_algebrica,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -91,8 +88,8 @@ level: China Mathematical Olympiad
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_conteggio|Conteggio]], [[method_casework|Casework]]
-**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
-**Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Geometria|Geometry]]
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1WZGXm4nA5dcZd9asSbnzGZkeWDSjqbF6/view)
 
 
@@ -103,16 +100,15 @@ level: China Mathematical Olympiad
 
 > Siano $m$, $s$ numeri interi con $4 < m < s$, e siano $A_0$, $A_1$, $A_2$, $\ldots$, $A_{2s}$ i vertici di un $(2s+1)$-gono regolare. Inoltre, sia $P = \{A_1, A_2, \ldots, A_{2s}\}$. Determinare il numero di $m$-goni convessi con esattamente due angoli interni acuti, i cui vertici sono tutti in $P$. (Proposto da Leng Gangsong)
 
+
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_conteggio|Conteggio]], [[method_casework|Casework]]
-**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 
-[[Quesiti/src_cn_cmo_2009#q03|src_cn_cmo_2009__Q03]]
 
 
-
-<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_algebra,topic_disuguaglianze,method_estremalita,method_simmetria,skill_manipolazione_algebrica,skill_stima,skill_lettura_attenta"></span>
+<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_algebra,topic_disuguaglianze,method_estremalita,method_simmetria,method_disuguaglianze,skill_manipolazione_algebrica,skill_stima,skill_lettura_attenta"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -122,9 +118,9 @@ level: China Mathematical Olympiad
 > Let $n \geq 3$ be a given integer, and $a_1, a_2, \ldots, a_n$ be real numbers satisfying $\min_{1 \leq i < k \leq n} |a_i - a_k| \geq 1$. Find the minimum value of $\displaystyle\sum_{i=1}^{n} |a_i|^3$. (Posed by Zhu Huawei)
 
 **Topic:** [[topic_algebra|Algebra]], [[topic_disuguaglianze|Disuguaglianze]]
-**Metodo:** [[method_estremalita|Estremalità]], [[method_simmetria|Simmetria]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_simmetria|Simmetria]], [[method_disuguaglianze|Classical inequalities]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]], [[skill_lettura_attenta|Lettura attenta]]
-**Area:** [[Algebra e Analisi]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1WZGXm4nA5dcZd9asSbnzGZkeWDSjqbF6/view)
 
 
@@ -135,16 +131,15 @@ level: China Mathematical Olympiad
 
 > Sia $n \geq 3$ un intero dato, e siano $a_1, a_2, \ldots, a_n$ numeri reali che soddisfano $\min_{1 \leq i < k \leq n} |a_i - a_k| \geq 1$. Determinare il valore minimo di $\displaystyle\sum_{i=1}^{n} |a_i|^3$. (Proposto da Zhu Huawei)
 
+
 **Topic:** [[topic_algebra|Algebra]], [[topic_disuguaglianze|Disuguaglianze]]
-**Metodo:** [[method_estremalita|Estremalità]], [[method_simmetria|Simmetria]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_simmetria|Simmetria]], [[method_disuguaglianze|Disuguaglianze classiche]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Algebra e Analisi]]
 
-[[Quesiti/src_cn_cmo_2009#q04|src_cn_cmo_2009__Q04]]
 
 
-
-<span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_combinatoria,method_colorazione,method_casework,method_doppio_conteggio,skill_conteggio_sistematico,skill_ragionamento_geometrico,skill_lettura_attenta"></span>
+<span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_combinatoria,method_colorazione,method_casework,method_doppio_conteggio,method_grafi,skill_conteggio_sistematico,skill_ragionamento_geometrico,skill_lettura_attenta"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -157,9 +152,9 @@ level: China Mathematical Olympiad
 > (Posed by Su Chan)
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
-**Metodo:** [[method_colorazione|Colorazione]], [[method_casework|Casework]], [[method_doppio_conteggio|Doppio conteggio]]
+**Metodo:** [[method_colorazione|Colorazione]], [[method_casework|Casework]], [[method_doppio_conteggio|Doppio conteggio]], [[method_grafi|Graph theory]]
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
-**Area:** [[Combinatoria, Logica e Probabilita]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Risposta:** Any odd number $n \geq 1$
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1WZGXm4nA5dcZd9asSbnzGZkeWDSjqbF6/view)
 
@@ -171,12 +166,11 @@ level: China Mathematical Olympiad
 
 > Trovare tutti gli interi $n$ tali che si possano colorare tutti i lati e le diagonali di un $n$-gono convesso con $n$ colori dati, soddisfacendo le seguenti condizioni: (1) Ciascun lato o ciascuna diagonale è colorato con un solo colore; (2) Per qualsiasi terna di colori distinti, esiste un triangolo i cui vertici sono vertici dell'$n$-gono e i cui tre lati sono colorati con questi tre colori. (Proposto da Su Chan)
 
+
 **Topic:** [[topic_combinatoria|Combinatoria]]
-**Metodo:** [[method_colorazione|Colorazione]], [[method_casework|Casework]], [[method_doppio_conteggio|Doppio conteggio]]
+**Metodo:** [[method_colorazione|Colorazione]], [[method_casework|Casework]], [[method_doppio_conteggio|Doppio conteggio]], [[method_grafi|Teoria dei grafi]]
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
-
-[[Quesiti/src_cn_cmo_2009#q05|src_cn_cmo_2009__Q05]]
 
 
 
@@ -207,5 +201,3 @@ level: China Mathematical Olympiad
 **Metodo:** [[method_congruenze|Congruenze]], [[method_induzione|Induzione]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]], [[skill_astrazione|Astrazione]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
-
-[[Quesiti/src_cn_cmo_2009#q06|src_cn_cmo_2009__Q06]]

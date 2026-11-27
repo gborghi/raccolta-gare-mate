@@ -23,7 +23,7 @@ level: China Mathematical Competition (Complementary Test)
 > 
 > (2) For an arbitrary point $Q$ ($Q \neq A, T, B$) on arc $\widehat{AB}$ (not containing $C$), denote the inner centers of $\triangle AQC$, $\triangle QCB$ by $I_1$, $I_2$ respectively. Prove that $Q$, $I_1$, $I_2$, $T$ are concyclic.
 
-![[src_cn_cmc-complementary-test_2009__q01.png]]
+![[src_cn_cmc-complementary-test_2009__Q01.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_trigonometria|Trigonometria]], [[method_simmetria|Simmetria]]
@@ -43,14 +43,12 @@ level: China Mathematical Competition (Complementary Test)
 >
 > (2) Per un punto arbitrario $Q$ ($Q \neq A, T, B$) sull'arco $\widehat{AB}$ (che non contiene $C$), si indichino con $I_1$, $I_2$ rispettivamente i centri interni di $\triangle AQC$, $\triangle QCB$. Dimostrare che $Q$, $I_1$, $I_2$, $T$ sono concyclici.
 
-![[src_cn_cmc-complementary-test_2009__q01.png]]
+![[src_cn_cmc-complementary-test_2009__Q01.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_trigonometria|Trigonometria]], [[method_simmetria|Simmetria]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Geometria]]
-
-[[Quesiti/src_cn_cmc-complementary-test_2009#q01|src_cn_cmc-complementary-test_2009__Q01]]
 
 
 
@@ -84,8 +82,6 @@ level: China Mathematical Competition (Complementary Test)
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]]
 **Area:** [[Algebra e Analisi]]
 
-[[Quesiti/src_cn_cmc-complementary-test_2009#q02|src_cn_cmc-complementary-test_2009__Q02]]
-
 
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_aritmetica,topic_combinatoria,method_congruenze,method_fattorizzazione,skill_manipolazione_algebrica,skill_astrazione"></span>
@@ -115,8 +111,6 @@ level: China Mathematical Competition (Complementary Test)
 **Metodo:** [[method_congruenze|Congruenze]], [[method_fattorizzazione|Fattorizzazione]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
-
-[[Quesiti/src_cn_cmc-complementary-test_2009#q03|src_cn_cmc-complementary-test_2009__Q03]]
 
 
 
@@ -185,5 +179,3 @@ level: China Mathematical Competition (Complementary Test)
 **Metodo:** [[method_estremalita|Estremalità]], [[method_cassetti|Principio dei cassetti]], [[method_casework|Casework]]
 **Abilita:** [[skill_astrazione|Astrazione]], [[skill_modellizzazione|Modellizzazione]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Algebra e Analisi]]
-
-[[Quesiti/src_cn_cmc-complementary-test_2009#q04|src_cn_cmc-complementary-test_2009__Q04]]

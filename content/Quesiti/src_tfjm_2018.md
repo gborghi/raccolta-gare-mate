@@ -10,7 +10,7 @@ level: TFJM²
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_combinatoria,topic_aritmetica,method_casework,method_conteggio,method_simmetria,skill_conteggio_sistematico,skill_casework_accurato,skill_modellizzazione"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_combinatoria,topic_aritmetica,method_casework,method_conteggio,method_simmetria,skill_conteggio_sistematico,skill_casework_accurato,skill_modellizzazione,skill_astrazione"></span>
 
 <div class="qlang-switch" data-default="fr"></div>
 
@@ -46,11 +46,11 @@ level: TFJM²
 >
 > 7. Proposer et étudier d’autres directions de recherche.
 
-![[src_tfjm_2018__q01.png]]
+![[src_tfjm_2018__Q01.png]]
 
 **Topic:** [[topic_combinatoria|Combinatoire]], [[topic_aritmetica|Arithmétique / théorie des nombres]]
 **Metodo:** [[method_casework|Analyse par cas]], [[method_conteggio|Dénombrement]], [[method_simmetria|Exploitation de la symétrie]]
-**Abilita:** [[skill_conteggio_sistematico|Dénombrement systématique]], [[skill_casework_accurato|Analyse par cas soigneuse]], [[skill_modellizzazione|Modélisation]]
+**Abilita:** [[skill_conteggio_sistematico|Dénombrement systématique]], [[skill_casework_accurato|Analyse par cas soigneuse]], [[skill_modellizzazione|Modélisation]], [[skill_astrazione|Abstraction]]
 **Area:** [[Combinatoria, Logica e Probabilita|Combinatoire, logique et probabilités]], [[Aritmetica e Teoria dei Numeri|Arithmétique et théorie des nombres]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/11s6VA0qcuZC6fCiR7BZhQG4Gmbsu3Kv1/view)
 
@@ -89,7 +89,12 @@ level: TFJM²
 >
 > 7. Si propongano e si studino altre direzioni di ricerca.
 
-[[Quesiti/src_tfjm_2018#q01|src_tfjm_2018__Q01]]
+![[src_tfjm_2018__Q01.png]]
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Analisi per casi]], [[method_conteggio|Conteggio combinatorio]], [[method_simmetria|Sfruttamento della simmetria]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_astrazione|Astrazione / generalizzazione]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -126,11 +131,16 @@ level: TFJM²
 >
 > 7. Propose and study other lines of inquiry.
 
-[[Quesiti/src_tfjm_2018#q01|src_tfjm_2018__Q01]]
+![[src_tfjm_2018__Q01.png]]
+
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_casework|Case analysis]], [[method_conteggio|Combinatorial counting]], [[method_simmetria|Using symmetry]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]], [[skill_casework_accurato|Careful case analysis]], [[skill_modellizzazione|Modelling / translating the text]], [[skill_astrazione|Abstraction / generalisation]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
 
 
-<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_aritmetica,topic_algebra,method_congruenze,method_ricorsione,method_estremalita,method_casework,skill_manipolazione_algebrica,skill_riconoscimento_pattern,skill_lettura_attenta"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_aritmetica,topic_algebra,topic_funzionali,method_congruenze,method_ricorsione,method_estremalita,method_casework,method_induzione,skill_manipolazione_algebrica,skill_riconoscimento_pattern,skill_lettura_attenta"></span>
 
 <div class="qlang-switch" data-default="fr"></div>
 
@@ -176,10 +186,10 @@ level: TFJM²
 >
 > 9. Proposer et étudier d’autres directions de recherche.
 
-![[src_tfjm_2018__q02.png]]
+![[src_tfjm_2018__Q02.png]]
 
-**Topic:** [[topic_aritmetica|Arithmétique / théorie des nombres]], [[topic_algebra|Algèbre]]
-**Metodo:** [[method_congruenze|Arithmétique modulaire / congruences]], [[method_ricorsione|Récursion]], [[method_estremalita|Principe d'extrémalité]], [[method_casework|Analyse par cas]]
+**Topic:** [[topic_aritmetica|Arithmétique / théorie des nombres]], [[topic_algebra|Algèbre]], [[topic_funzionali|Équations fonctionnelles]]
+**Metodo:** [[method_congruenze|Arithmétique modulaire / congruences]], [[method_ricorsione|Récursion]], [[method_estremalita|Principe d'extrémalité]], [[method_casework|Analyse par cas]], [[method_induzione|Récurrence]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipulation algébrique]], [[skill_riconoscimento_pattern|Reconnaissance de motifs]], [[skill_lettura_attenta|Lecture attentive de l'énoncé]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Arithmétique et théorie des nombres]], [[Algebra e Analisi|Algèbre et analyse]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/11s6VA0qcuZC6fCiR7BZhQG4Gmbsu3Kv1/view)
@@ -229,7 +239,12 @@ level: TFJM²
 >
 > 9. Si propongano e si studino altre direzioni di ricerca.
 
-[[Quesiti/src_tfjm_2018#q02|src_tfjm_2018__Q02]]
+![[src_tfjm_2018__Q02.png]]
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]], [[topic_funzionali|Equazioni funzionali / successioni]]
+**Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]], [[method_ricorsione|Ricorsione]], [[method_estremalita|Principio di estremalita]], [[method_casework|Analisi per casi]], [[method_induzione|Induzione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_lettura_attenta|Lettura attenta del testo]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -276,14 +291,16 @@ level: TFJM²
 >
 > 9. Propose and study other lines of inquiry.
 
-[[Quesiti/src_tfjm_2018#q02|src_tfjm_2018__Q02]]
+![[src_tfjm_2018__Q02.png]]
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_algebra|Algebra]], [[topic_funzionali|Functional equations / sequences]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]], [[method_ricorsione|Recursion]], [[method_estremalita|Extremal principle]], [[method_casework|Case analysis]], [[method_induzione|Induction]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_riconoscimento_pattern|Pattern recognition]], [[skill_lettura_attenta|Careful reading of the text]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Algebra e Analisi|Algebra and analysis]]
 
 
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_combinatoria,topic_logica,method_casework,method_estremalita,method_backward,skill_modellizzazione,skill_casework_accurato,skill_ragionamento_geometrico"></span>
-
-<div class="qlang-switch" data-default="fr"></div>
-
 
 *Immeubles en bord de mer : deux promotrices placent des tours de hauteur imposée, et l’on étudie l’avantage et le score des étages qui voient la mer.*
 
@@ -317,7 +334,7 @@ level: TFJM²
 >
 > 5. Proposer et étudier d’autres directions de recherche.
 
-![[src_tfjm_2018__q03.png]]
+![[src_tfjm_2018__Q03.png]]
 
 **Topic:** [[topic_combinatoria|Combinatoire]], [[topic_logica|Logique, jeux, stratégies]]
 **Metodo:** [[method_casework|Analyse par cas]], [[method_estremalita|Principe d'extrémalité]], [[method_backward|Raisonnement à rebours]]
@@ -326,46 +343,20 @@ level: TFJM²
 **Fonte:** [apri PDF](https://drive.google.com/file/d/11s6VA0qcuZC6fCiR7BZhQG4Gmbsu3Kv1/view)
 
 
-<div class="qlang-split" data-lang="it"></div>
 
+<span class="atom-split" id="q03__en" data-atom="q03__en" data-title="Q03__EN" data-tags=""></span>
 
-*Palazzi sul mare: due promotrici piazzano torri di altezza fissata, e si studia il vantaggio e il punteggio dei piani che vedono il mare.*
-
-> 3. Vista sul mare
->
-> Nella località balneare di Vecteur-les-Bains la concorrenza tra i promotori immobiliari è feroce. Ciascuno vuole palazzi con il maggior numero possibile di piani che vedano il mare.
->
-> Si fissano due interi $n$ e $k$ tali che $1 \leqslant k \leqslant n$. Cécile ed Eva costruiscono su un terreno di $n$ lotti, numerati da $1$ a $n$. Il lotto $1$ è sul mare, il lotto $2$ è subito dietro, e così via fino al lotto $n$. Sul lotto $i$ si può costruire soltanto un palazzo di esattamente $i$ piani. Un piano vede il mare se e solo se nessun palazzo posto tra esso e il mare raggiunge l’altezza di quel piano (si veda la Figura 2).
->
-> Figura 2. Cécile ha costruito sul lotto $5$, Eva sul lotto $3$. I tre piani del palazzo di Eva vedono il mare, come i due piani più alti del palazzo di Cécile (gli altri tre sono coperti dal palazzo di Eva).
->
-> Cécile piazza un primo palazzo sul lotto che sceglie, poi Eva ne piazza uno su un altro lotto, poi di nuovo Cécile, e così via finché non sono stati piazzati $k$ palazzi in tutto. Per ciascuna promotrice il punteggio è il numero di piani delle sue costruzioni che vedono il mare, e il vantaggio è la differenza tra il suo punteggio e quello dell’altra.
->
-> 1. Qual è il miglior vantaggio che Cécile può garantirsi quando:
-> a) $k = 1, 2, 3$?
-> b) $k = n$ e $k = n - 1$?
-> c) $k$ è arbitrario?
->
-> 2. Cécile ed Eva hanno fatto la pace: ciascuna cerca ora di massimizzare il proprio punteggio, senza curarsi di quello dell’altra. Se una promotrice ha più modi di garantirsi lo stesso punteggio, sceglie quello che dà all’altra il punteggio finale più alto.
-> a) Qual è il massimo punteggio che Cécile può garantirsi? Si può cominciare dagli stessi valori particolari di $k$ della domanda 1.
-> b) La stessa domanda per Eva.
->
-> 3. La normativa cambia. Si fissano due interi non negativi $k_C$ e $k_E$, con $k_C + k_E \leqslant n$. Cécile ed Eva giocano rispettivamente $k_C$ e $k_E$ mosse, in un ordine deciso dalla legge. Si riprendano le domande precedenti quando:
-> a) $k_E = 1$, $k_C$ è arbitrario, ed Eva gioca dopo che Cécile ha piazzato i suoi $k_C$ palazzi;
-> b) $k_C$ e $k_E$ sono arbitrari, Cécile piazza i suoi $k_C$ palazzi e poi Eva piazza i suoi $k_E$ palazzi;
-> c) $k_C$ e $k_E$ sono arbitrari e Cécile sceglie l’ordine in cui le due giocano.
->
-> 4. Per il riscaldamento climatico il livello del mare è salito e Vecteur-les-Bains è diventata un’isola. È formata da una fila di $2n - 1$ lotti ed è bagnata dal mare dai due lati. A distanza $k$ dal braccio di mare più vicino si può costruire un palazzo di taglia $k$ (si veda la Figura 3). Ogni piano è diviso in $2$ appartamenti (uno a sinistra e uno a destra), e il punteggio di una promotrice è il numero di appartamenti delle sue costruzioni che vedono il mare. Si riprendano le domande precedenti in questo quadro.
->
-> Figura 3. Il punteggio di Cécile è $5$: quattro appartamenti vedono il mare a sinistra e uno a destra. Quello di Eva è $3$: tre appartamenti vedono il mare a destra.
->
-> 5. Si propongano e si studino altre direzioni di ricerca.
-
-[[Quesiti/src_tfjm_2018#q03|src_tfjm_2018__Q03]]
-
-
-<div class="qlang-split" data-lang="en"></div>
-
+---
+tipo: quesito-translation
+translation_of: src_tfjm_2018__Q03
+lang: en
+secondary: true
+title: "Tournoi Français des Jeunes Mathématiciens (TFJM²) 2018 — Question 3"
+summary: "Buildings by the sea: two developers place towers of prescribed height, and one studies the advantage and the score of floors with a sea view."
+topics: [topic_combinatoria, topic_logica]
+methods: [method_casework, method_estremalita, method_backward]
+skills: [skill_modellizzazione, skill_casework_accurato, skill_ragionamento_geometrico]
+tags: [kg/translation, topic/combinatoria, topic/logica]---
 
 *Buildings by the sea: two developers place towers of prescribed height, and one studies the advantage and the score of floors with a sea view.*
 
@@ -399,11 +390,73 @@ level: TFJM²
 >
 > 5. Propose and study other lines of inquiry.
 
+![[src_tfjm_2018__Q03.png]]
+
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_logica|Logic, games and strategies]]
+**Metodo:** [[method_casework|Case analysis]], [[method_estremalita|Extremal principle]], [[method_backward|Working backwards]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]], [[skill_casework_accurato|Careful case analysis]], [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 [[Quesiti/src_tfjm_2018#q03|src_tfjm_2018__Q03]]
 
 
 
-<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_probabilita,topic_combinatoria,method_casework,method_conteggio,skill_modellizzazione,skill_casework_accurato,skill_stima"></span>
+<span class="atom-split" id="q03__it" data-atom="q03__it" data-title="Q03__IT" data-tags=""></span>
+
+---
+tipo: quesito-translation
+translation_of: src_tfjm_2018__Q03
+lang: it
+secondary: true
+title: "Tournoi Français des Jeunes Mathématiciens (TFJM²) 2018, quesito 3"
+summary: "Palazzi sul mare: due promotrici piazzano torri di altezza fissata, e si studia il vantaggio e il punteggio dei piani che vedono il mare."
+topics: [topic_combinatoria, topic_logica]
+methods: [method_casework, method_estremalita, method_backward]
+skills: [skill_modellizzazione, skill_casework_accurato, skill_ragionamento_geometrico]
+tags: [kg/translation, topic/combinatoria, topic/logica]---
+
+*Palazzi sul mare: due promotrici piazzano torri di altezza fissata, e si studia il vantaggio e il punteggio dei piani che vedono il mare.*
+
+> 3. Vista sul mare
+>
+> Nella località balneare di Vecteur-les-Bains la concorrenza tra i promotori immobiliari è feroce. Ciascuno vuole palazzi con il maggior numero possibile di piani che vedano il mare.
+>
+> Si fissano due interi $n$ e $k$ tali che $1 \leqslant k \leqslant n$. Cécile ed Eva costruiscono su un terreno di $n$ lotti, numerati da $1$ a $n$. Il lotto $1$ è sul mare, il lotto $2$ è subito dietro, e così via fino al lotto $n$. Sul lotto $i$ si può costruire soltanto un palazzo di esattamente $i$ piani. Un piano vede il mare se e solo se nessun palazzo posto tra esso e il mare raggiunge l’altezza di quel piano (si veda la Figura 2).
+>
+> Figura 2. Cécile ha costruito sul lotto $5$, Eva sul lotto $3$. I tre piani del palazzo di Eva vedono il mare, come i due piani più alti del palazzo di Cécile (gli altri tre sono coperti dal palazzo di Eva).
+>
+> Cécile piazza un primo palazzo sul lotto che sceglie, poi Eva ne piazza uno su un altro lotto, poi di nuovo Cécile, e così via finché non sono stati piazzati $k$ palazzi in tutto. Per ciascuna promotrice il punteggio è il numero di piani delle sue costruzioni che vedono il mare, e il vantaggio è la differenza tra il suo punteggio e quello dell’altra.
+>
+> 1. Qual è il miglior vantaggio che Cécile può garantirsi quando:
+> a) $k = 1, 2, 3$?
+> b) $k = n$ e $k = n - 1$?
+> c) $k$ è arbitrario?
+>
+> 2. Cécile ed Eva hanno fatto la pace: ciascuna cerca ora di massimizzare il proprio punteggio, senza curarsi di quello dell’altra. Se una promotrice ha più modi di garantirsi lo stesso punteggio, sceglie quello che dà all’altra il punteggio finale più alto.
+> a) Qual è il massimo punteggio che Cécile può garantirsi? Si può cominciare dagli stessi valori particolari di $k$ della domanda 1.
+> b) La stessa domanda per Eva.
+>
+> 3. La normativa cambia. Si fissano due interi non negativi $k_C$ e $k_E$, con $k_C + k_E \leqslant n$. Cécile ed Eva giocano rispettivamente $k_C$ e $k_E$ mosse, in un ordine deciso dalla legge. Si riprendano le domande precedenti quando:
+> a) $k_E = 1$, $k_C$ è arbitrario, ed Eva gioca dopo che Cécile ha piazzato i suoi $k_C$ palazzi;
+> b) $k_C$ e $k_E$ sono arbitrari, Cécile piazza i suoi $k_C$ palazzi e poi Eva piazza i suoi $k_E$ palazzi;
+> c) $k_C$ e $k_E$ sono arbitrari e Cécile sceglie l’ordine in cui le due giocano.
+>
+> 4. Per il riscaldamento climatico il livello del mare è salito e Vecteur-les-Bains è diventata un’isola. È formata da una fila di $2n - 1$ lotti ed è bagnata dal mare dai due lati. A distanza $k$ dal braccio di mare più vicino si può costruire un palazzo di taglia $k$ (si veda la Figura 3). Ogni piano è diviso in $2$ appartamenti (uno a sinistra e uno a destra), e il punteggio di una promotrice è il numero di appartamenti delle sue costruzioni che vedono il mare. Si riprendano le domande precedenti in questo quadro.
+>
+> Figura 3. Il punteggio di Cécile è $5$: quattro appartamenti vedono il mare a sinistra e uno a destra. Quello di Eva è $3$: tre appartamenti vedono il mare a destra.
+>
+> 5. Si propongano e si studino altre direzioni di ricerca.
+
+![[src_tfjm_2018__Q03.png]]
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_logica|Logica, giochi, strategie]]
+**Metodo:** [[method_casework|Analisi per casi]], [[method_estremalita|Principio di estremalita]], [[method_backward|Ragionamento all'indietro]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_casework_accurato|Casework accurato]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
+[[Quesiti/src_tfjm_2018#q03|src_tfjm_2018__Q03]]
+
+
+
+<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_probabilita,topic_combinatoria,method_casework,method_conteggio,skill_modellizzazione,skill_casework_accurato,skill_stima,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="fr"></div>
 
@@ -436,11 +489,11 @@ level: TFJM²
 >
 > 6. Proposer et étudier d’autres directions de recherche.
 
-![[src_tfjm_2018__q04.png]]
+![[src_tfjm_2018__Q04.png]]
 
 **Topic:** [[topic_probabilita|Probabilités et statistique]], [[topic_combinatoria|Combinatoire]]
 **Metodo:** [[method_casework|Analyse par cas]], [[method_conteggio|Dénombrement]]
-**Abilita:** [[skill_modellizzazione|Modélisation]], [[skill_casework_accurato|Analyse par cas soigneuse]], [[skill_stima|Estimation et approximation]]
+**Abilita:** [[skill_modellizzazione|Modélisation]], [[skill_casework_accurato|Analyse par cas soigneuse]], [[skill_stima|Estimation et approximation]], [[skill_manipolazione_algebrica|Manipulation algébrique]]
 **Area:** [[Combinatoria, Logica e Probabilita|Combinatoire, logique et probabilités]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/11s6VA0qcuZC6fCiR7BZhQG4Gmbsu3Kv1/view)
 
@@ -476,7 +529,12 @@ level: TFJM²
 >
 > 6. Si propongano e si studino altre direzioni di ricerca.
 
-[[Quesiti/src_tfjm_2018#q04|src_tfjm_2018__Q04]]
+![[src_tfjm_2018__Q04.png]]
+
+**Topic:** [[topic_probabilita|Probabilita e statistica]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casework|Analisi per casi]], [[method_conteggio|Conteggio combinatorio]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_casework_accurato|Casework accurato]], [[skill_stima|Stima e approssimazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -510,14 +568,16 @@ level: TFJM²
 >
 > 6. Propose and study other lines of inquiry.
 
-[[Quesiti/src_tfjm_2018#q04|src_tfjm_2018__Q04]]
+![[src_tfjm_2018__Q04.png]]
+
+**Topic:** [[topic_probabilita|Probability and statistics]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_casework|Case analysis]], [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]], [[skill_casework_accurato|Careful case analysis]], [[skill_stima|Estimation and approximation]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
 
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_geometria_piana,topic_trigonometria,topic_geometria_analitica,method_trigonometria,method_coordinate,method_casework,method_simmetria,skill_ragionamento_geometrico,skill_astrazione,skill_casework_accurato"></span>
-
-<div class="qlang-switch" data-default="fr"></div>
-
 
 *Chaîne rouillée dont les angles orientés restent dans un intervalle : ensemble des points atteints par l’extrémité libre, et variante avec des angles proches de $\pi/2$.*
 
@@ -548,7 +608,7 @@ level: TFJM²
 >
 > 6. Proposer et étudier d’autres directions de recherche.
 
-![[src_tfjm_2018__q05.png]]
+![[src_tfjm_2018__Q05.png]]
 
 **Topic:** [[topic_geometria_piana|Géométrie plane]], [[topic_trigonometria|Trigonométrie]], [[topic_geometria_analitica|Géométrie analytique]]
 **Metodo:** [[method_trigonometria|Techniques trigonométriques]], [[method_coordinate|Méthode des coordonnées]], [[method_casework|Analyse par cas]], [[method_simmetria|Exploitation de la symétrie]]
@@ -557,43 +617,20 @@ level: TFJM²
 **Fonte:** [apri PDF](https://drive.google.com/file/d/11s6VA0qcuZC6fCiR7BZhQG4Gmbsu3Kv1/view)
 
 
-<div class="qlang-split" data-lang="it"></div>
 
+<span class="atom-split" id="q05__en" data-atom="q05__en" data-title="Q05__EN" data-tags=""></span>
 
-*Catena arrugginita i cui angoli orientati restano in un intervallo: insieme dei punti raggiunti dall’estremo libero, e variante con angoli vicini a $\pi/2$.*
-
-> 5. Catena arrugginita
->
-> Siano $n \in \mathbb{N}^{*}$ e $\alpha \in [0, \pi]$. Colin gioca con una catena arrugginita. La catena è una successione di punti $A_0, \ldots, A_n$, uniti da maglie di lunghezza $1$. In altre parole, $A_i A_{i+1} = 1$ per ogni $0 \leqslant i \leqslant n - 1$ (i segmenti $[A_i A_{i+1}]$ possono incrociarsi). È fissata in $A_0$. Essendo arrugginita, l’angolo tra due maglie consecutive può assumere solo certi valori. Per ogni $1 \leqslant i \leqslant n - 1$, l’angolo orientato $\left(\overrightarrow{A_{i-1} A_i}, \overrightarrow{A_i A_{i+1}}\right)$ deve restare nell’intervallo $[-\alpha, \alpha]$ (si veda la Figura 4). Si indica con $\mathcal{B}_n^{\alpha}$ l’insieme dei punti che può raggiungere l’estremo $A_n$.
->
-> Figura 4. Catena i cui angoli sono bloccati tra $-\dfrac{\pi}{4}$ e $\dfrac{\pi}{4}$, con $n = 6$. Gli archi di circonferenza indicano gli angoli possibili di ogni maglia.
->
-> 1. In funzione di $n$ e di $\alpha$, si ha $A_0 \in \mathcal{B}_n^{\alpha}$? Si possono studiare i casi seguenti:
-> a) $\alpha = \pi$ (catena non arrugginita);
-> b) $\alpha = \dfrac{\pi}{2}$;
-> c) $n = 2$;
-> d) $n = 3$;
-> e) $n$ e $\alpha$ arbitrari.
->
-> 2. Descrivere $\mathcal{B}_n^{\alpha}$ nel modo più preciso possibile e calcolarne l’area nei casi della domanda 1.
->
-> Nelle domande 3 e 4 anche il punto $A_1$ è fissato, a distanza $1$ da $A_0$. Si indica con $\mathcal{C}_n^{\alpha}$ l’insieme dei punti che può raggiungere l’altro estremo $A_n$.
->
-> 3. Descrivere $\mathcal{C}_n^{\alpha}$ negli stessi casi della domanda 1.
->
-> 4. In funzione di $n$ e di $\alpha$, quali sono i valori possibili dell’angolo orientato $\left(\overrightarrow{A_0 A_1}, \overrightarrow{A_1 A_n}\right)$? È vero che per tutti i punti $X, Y \in \mathcal{C}_n^{\alpha}$ tali che $A_1 X = A_1 Y$ esiste un arco di circonferenza centrato in $A_1$, tra $X$ e $Y$, interamente contenuto in $\mathcal{C}_n^{\alpha}$?
->
-> 5. Sia $\varepsilon \in \left[0, \dfrac{\pi}{2}\right]$. Stanco della prima catena, Colin ne trova un’altra, bloccata con angoli vicini a $\dfrac{\pi}{2}$. Più precisamente, per ogni $1 \leqslant i \leqslant n - 1$ l’angolo orientato $\left(\overrightarrow{A_{i-1} A_i}, \overrightarrow{A_i A_{i+1}}\right)$ deve restare in
-> $$I_{\varepsilon} = \left[\dfrac{\pi}{2} - \varepsilon, \dfrac{\pi}{2} + \varepsilon\right] \cup \left[-\dfrac{\pi}{2} - \varepsilon, -\dfrac{\pi}{2} + \varepsilon\right].$$
-> Si riprendano le domande 1, 2 e 3 in questo quadro.
->
-> 6. Si propongano e si studino altre direzioni di ricerca.
-
-[[Quesiti/src_tfjm_2018#q05|src_tfjm_2018__Q05]]
-
-
-<div class="qlang-split" data-lang="en"></div>
-
+---
+tipo: quesito-translation
+translation_of: src_tfjm_2018__Q05
+lang: en
+secondary: true
+title: "Tournoi Français des Jeunes Mathématiciens (TFJM²) 2018 — Question 5"
+summary: "A rusty chain whose oriented angles stay in an interval: the set of points reached by the free end, and a variant with angles near $\\pi/2$."
+topics: [topic_geometria_piana, topic_trigonometria, topic_geometria_analitica]
+methods: [method_trigonometria, method_coordinate, method_casework, method_simmetria]
+skills: [skill_ragionamento_geometrico, skill_astrazione, skill_casework_accurato]
+tags: [kg/translation, topic/geometria_piana, topic/trigonometria, topic/geometria_analitica]---
 
 *A rusty chain whose oriented angles stay in an interval: the set of points reached by the free end, and a variant with angles near $\pi/2$.*
 
@@ -624,11 +661,70 @@ level: TFJM²
 >
 > 6. Propose and study other lines of inquiry.
 
+![[src_tfjm_2018__Q05.png]]
+
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_trigonometria|Trigonometry]], [[topic_geometria_analitica|Coordinate geometry]]
+**Metodo:** [[method_trigonometria|Trigonometric techniques]], [[method_coordinate|Coordinate method]], [[method_casework|Case analysis]], [[method_simmetria|Using symmetry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_astrazione|Abstraction / generalisation]], [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Geometria|Geometry]]
 [[Quesiti/src_tfjm_2018#q05|src_tfjm_2018__Q05]]
 
 
 
-<span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_combinatoria,topic_logica,method_casework,method_estremalita,method_backward,method_simmetria,skill_modellizzazione,skill_casework_accurato,skill_conteggio_sistematico"></span>
+<span class="atom-split" id="q05__it" data-atom="q05__it" data-title="Q05__IT" data-tags=""></span>
+
+---
+tipo: quesito-translation
+translation_of: src_tfjm_2018__Q05
+lang: it
+secondary: true
+title: "Tournoi Français des Jeunes Mathématiciens (TFJM²) 2018, quesito 5"
+summary: "Catena arrugginita i cui angoli orientati restano in un intervallo: insieme dei punti raggiunti dall’estremo libero, e variante con angoli vicini a $\\pi/2$."
+topics: [topic_geometria_piana, topic_trigonometria, topic_geometria_analitica]
+methods: [method_trigonometria, method_coordinate, method_casework, method_simmetria]
+skills: [skill_ragionamento_geometrico, skill_astrazione, skill_casework_accurato]
+tags: [kg/translation, topic/geometria_piana, topic/trigonometria, topic/geometria_analitica]---
+
+*Catena arrugginita i cui angoli orientati restano in un intervallo: insieme dei punti raggiunti dall’estremo libero, e variante con angoli vicini a $\pi/2$.*
+
+> 5. Catena arrugginita
+>
+> Siano $n \in \mathbb{N}^{*}$ e $\alpha \in [0, \pi]$. Colin gioca con una catena arrugginita. La catena è una successione di punti $A_0, \ldots, A_n$, uniti da maglie di lunghezza $1$. In altre parole, $A_i A_{i+1} = 1$ per ogni $0 \leqslant i \leqslant n - 1$ (i segmenti $[A_i A_{i+1}]$ possono incrociarsi). È fissata in $A_0$. Essendo arrugginita, l’angolo tra due maglie consecutive può assumere solo certi valori. Per ogni $1 \leqslant i \leqslant n - 1$, l’angolo orientato $\left(\overrightarrow{A_{i-1} A_i}, \overrightarrow{A_i A_{i+1}}\right)$ deve restare nell’intervallo $[-\alpha, \alpha]$ (si veda la Figura 4). Si indica con $\mathcal{B}_n^{\alpha}$ l’insieme dei punti che può raggiungere l’estremo $A_n$.
+>
+> Figura 4. Catena i cui angoli sono bloccati tra $-\dfrac{\pi}{4}$ e $\dfrac{\pi}{4}$, con $n = 6$. Gli archi di circonferenza indicano gli angoli possibili di ogni maglia.
+>
+> 1. In funzione di $n$ e di $\alpha$, si ha $A_0 \in \mathcal{B}_n^{\alpha}$? Si possono studiare i casi seguenti:
+> a) $\alpha = \pi$ (catena non arrugginita);
+> b) $\alpha = \dfrac{\pi}{2}$;
+> c) $n = 2$;
+> d) $n = 3$;
+> e) $n$ e $\alpha$ arbitrari.
+>
+> 2. Descrivere $\mathcal{B}_n^{\alpha}$ nel modo più preciso possibile e calcolarne l’area nei casi della domanda 1.
+>
+> Nelle domande 3 e 4 anche il punto $A_1$ è fissato, a distanza $1$ da $A_0$. Si indica con $\mathcal{C}_n^{\alpha}$ l’insieme dei punti che può raggiungere l’altro estremo $A_n$.
+>
+> 3. Descrivere $\mathcal{C}_n^{\alpha}$ negli stessi casi della domanda 1.
+>
+> 4. In funzione di $n$ e di $\alpha$, quali sono i valori possibili dell’angolo orientato $\left(\overrightarrow{A_0 A_1}, \overrightarrow{A_1 A_n}\right)$? È vero che per tutti i punti $X, Y \in \mathcal{C}_n^{\alpha}$ tali che $A_1 X = A_1 Y$ esiste un arco di circonferenza centrato in $A_1$, tra $X$ e $Y$, interamente contenuto in $\mathcal{C}_n^{\alpha}$?
+>
+> 5. Sia $\varepsilon \in \left[0, \dfrac{\pi}{2}\right]$. Stanco della prima catena, Colin ne trova un’altra, bloccata con angoli vicini a $\dfrac{\pi}{2}$. Più precisamente, per ogni $1 \leqslant i \leqslant n - 1$ l’angolo orientato $\left(\overrightarrow{A_{i-1} A_i}, \overrightarrow{A_i A_{i+1}}\right)$ deve restare in
+> $$I_{\varepsilon} = \left[\dfrac{\pi}{2} - \varepsilon, \dfrac{\pi}{2} + \varepsilon\right] \cup \left[-\dfrac{\pi}{2} - \varepsilon, -\dfrac{\pi}{2} + \varepsilon\right].$$
+> Si riprendano le domande 1, 2 e 3 in questo quadro.
+>
+> 6. Si propongano e si studino altre direzioni di ricerca.
+
+![[src_tfjm_2018__Q05.png]]
+
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometria]], [[topic_geometria_analitica|Geometria analitica]]
+**Metodo:** [[method_trigonometria|Tecniche trigonometriche]], [[method_coordinate|Metodo delle coordinate]], [[method_casework|Analisi per casi]], [[method_simmetria|Sfruttamento della simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_astrazione|Astrazione / generalizzazione]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Geometria]]
+[[Quesiti/src_tfjm_2018#q05|src_tfjm_2018__Q05]]
+
+
+
+<span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_combinatoria,topic_logica,method_casework,method_estremalita,method_backward,method_simmetria,skill_modellizzazione,skill_casework_accurato,skill_conteggio_sistematico,skill_riconoscimento_pattern"></span>
 
 <div class="qlang-switch" data-default="fr"></div>
 
@@ -655,7 +751,7 @@ level: TFJM²
 
 **Topic:** [[topic_combinatoria|Combinatoire]], [[topic_logica|Logique, jeux, stratégies]]
 **Metodo:** [[method_casework|Analyse par cas]], [[method_estremalita|Principe d'extrémalité]], [[method_backward|Raisonnement à rebours]], [[method_simmetria|Exploitation de la symétrie]]
-**Abilita:** [[skill_modellizzazione|Modélisation]], [[skill_casework_accurato|Analyse par cas soigneuse]], [[skill_conteggio_sistematico|Dénombrement systématique]]
+**Abilita:** [[skill_modellizzazione|Modélisation]], [[skill_casework_accurato|Analyse par cas soigneuse]], [[skill_conteggio_sistematico|Dénombrement systématique]], [[skill_riconoscimento_pattern|Reconnaissance de motifs]]
 **Area:** [[Combinatoria, Logica e Probabilita|Combinatoire, logique et probabilités]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/11s6VA0qcuZC6fCiR7BZhQG4Gmbsu3Kv1/view)
 
@@ -683,7 +779,10 @@ level: TFJM²
 >
 > 4. Si propongano e si studino altre direzioni di ricerca.
 
-[[Quesiti/src_tfjm_2018#q06|src_tfjm_2018__Q06]]
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_logica|Logica, giochi, strategie]]
+**Metodo:** [[method_casework|Analisi per casi]], [[method_estremalita|Principio di estremalita]], [[method_backward|Ragionamento all'indietro]], [[method_simmetria|Sfruttamento della simmetria]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_casework_accurato|Casework accurato]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -709,11 +808,14 @@ level: TFJM²
 >
 > 4. Propose and study other lines of inquiry.
 
-[[Quesiti/src_tfjm_2018#q06|src_tfjm_2018__Q06]]
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_logica|Logic, games and strategies]]
+**Metodo:** [[method_casework|Case analysis]], [[method_estremalita|Extremal principle]], [[method_backward|Working backwards]], [[method_simmetria|Using symmetry]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]], [[skill_casework_accurato|Careful case analysis]], [[skill_conteggio_sistematico|Systematic counting]], [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
 
 
-<span class="atom-split" id="q07" data-atom="q07" data-title="Quesito 7" data-tags="topic_combinatoria,topic_aritmetica,topic_geometria_analitica,method_casework,method_congruenze,method_coordinate,method_conteggio,skill_modellizzazione,skill_riconoscimento_pattern,skill_casework_accurato"></span>
+<span class="atom-split" id="q07" data-atom="q07" data-title="Quesito 7" data-tags="topic_combinatoria,topic_aritmetica,topic_geometria_analitica,method_casework,method_congruenze,method_coordinate,method_conteggio,method_grafi,skill_modellizzazione,skill_riconoscimento_pattern,skill_casework_accurato,skill_astrazione"></span>
 
 <div class="qlang-switch" data-default="fr"></div>
 
@@ -746,8 +848,8 @@ level: TFJM²
 > 6. Proposer et étudier d’autres directions de recherche.
 
 **Topic:** [[topic_combinatoria|Combinatoire]], [[topic_aritmetica|Arithmétique / théorie des nombres]], [[topic_geometria_analitica|Géométrie analytique]]
-**Metodo:** [[method_casework|Analyse par cas]], [[method_congruenze|Arithmétique modulaire / congruences]], [[method_coordinate|Méthode des coordonnées]], [[method_conteggio|Dénombrement]]
-**Abilita:** [[skill_modellizzazione|Modélisation]], [[skill_riconoscimento_pattern|Reconnaissance de motifs]], [[skill_casework_accurato|Analyse par cas soigneuse]]
+**Metodo:** [[method_casework|Analyse par cas]], [[method_congruenze|Arithmétique modulaire / congruences]], [[method_coordinate|Méthode des coordonnées]], [[method_conteggio|Dénombrement]], [[method_grafi|Théorie des graphes]]
+**Abilita:** [[skill_modellizzazione|Modélisation]], [[skill_riconoscimento_pattern|Reconnaissance de motifs]], [[skill_casework_accurato|Analyse par cas soigneuse]], [[skill_astrazione|Abstraction]]
 **Area:** [[Combinatoria, Logica e Probabilita|Combinatoire, logique et probabilités]], [[Aritmetica e Teoria dei Numeri|Arithmétique et théorie des nombres]], [[Geometria|Géométrie]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/11s6VA0qcuZC6fCiR7BZhQG4Gmbsu3Kv1/view)
 
@@ -782,7 +884,10 @@ level: TFJM²
 >
 > 6. Si propongano e si studino altre direzioni di ricerca.
 
-[[Quesiti/src_tfjm_2018#q07|src_tfjm_2018__Q07]]
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_geometria_analitica|Geometria analitica]]
+**Metodo:** [[method_casework|Analisi per casi]], [[method_congruenze|Aritmetica modulare / congruenze]], [[method_coordinate|Metodo delle coordinate]], [[method_conteggio|Conteggio combinatorio]], [[method_grafi|Teoria dei grafi]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_casework_accurato|Casework accurato]], [[skill_astrazione|Astrazione / generalizzazione]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]], [[Geometria]]
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -815,11 +920,14 @@ level: TFJM²
 >
 > 6. Propose and study other lines of inquiry.
 
-[[Quesiti/src_tfjm_2018#q07|src_tfjm_2018__Q07]]
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_aritmetica|Arithmetic / Number theory]], [[topic_geometria_analitica|Coordinate geometry]]
+**Metodo:** [[method_casework|Case analysis]], [[method_congruenze|Modular arithmetic / congruences]], [[method_coordinate|Coordinate method]], [[method_conteggio|Combinatorial counting]], [[method_grafi|Graph theory]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]], [[skill_riconoscimento_pattern|Pattern recognition]], [[skill_casework_accurato|Careful case analysis]], [[skill_astrazione|Abstraction / generalisation]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Geometria|Geometry]]
 
 
 
-<span class="atom-split" id="q08" data-atom="q08" data-title="Quesito 8" data-tags="topic_combinatoria,topic_logica,method_casework,method_estremalita,method_conteggio,method_grafi,skill_conteggio_sistematico,skill_casework_accurato,skill_modellizzazione"></span>
+<span class="atom-split" id="q08" data-atom="q08" data-title="Quesito 8" data-tags="topic_combinatoria,topic_logica,method_casework,method_estremalita,method_conteggio,method_grafi,skill_conteggio_sistematico,skill_casework_accurato,skill_modellizzazione,skill_stima"></span>
 
 <div class="qlang-switch" data-default="fr"></div>
 
@@ -850,7 +958,7 @@ level: TFJM²
 
 **Topic:** [[topic_combinatoria|Combinatoire]], [[topic_logica|Logique, jeux, stratégies]]
 **Metodo:** [[method_casework|Analyse par cas]], [[method_estremalita|Principe d'extrémalité]], [[method_conteggio|Dénombrement]], [[method_grafi|Théorie des graphes]]
-**Abilita:** [[skill_conteggio_sistematico|Dénombrement systématique]], [[skill_casework_accurato|Analyse par cas soigneuse]], [[skill_modellizzazione|Modélisation]]
+**Abilita:** [[skill_conteggio_sistematico|Dénombrement systématique]], [[skill_casework_accurato|Analyse par cas soigneuse]], [[skill_modellizzazione|Modélisation]], [[skill_stima|Estimation]]
 **Area:** [[Combinatoria, Logica e Probabilita|Combinatoire, logique et probabilités]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/11s6VA0qcuZC6fCiR7BZhQG4Gmbsu3Kv1/view)
 
@@ -882,7 +990,10 @@ level: TFJM²
 >
 > 7. Si propongano e si studino altre piste. Si possono per esempio ammettere i pareggi, che danno $a$ punti con $0 \leqslant a \leqslant 1$.
 
-[[Quesiti/src_tfjm_2018#q08|src_tfjm_2018__Q08]]
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_logica|Logica, giochi, strategie]]
+**Metodo:** [[method_casework|Analisi per casi]], [[method_estremalita|Principio di estremalita]], [[method_conteggio|Conteggio combinatorio]], [[method_grafi|Teoria dei grafi]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_stima|Stima e approssimazione]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -912,11 +1023,14 @@ level: TFJM²
 >
 > 7. Propose and study other lines of inquiry. One may, for instance, allow draws, which score $a$ points with $0 \leqslant a \leqslant 1$.
 
-[[Quesiti/src_tfjm_2018#q08|src_tfjm_2018__Q08]]
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_logica|Logic, games and strategies]]
+**Metodo:** [[method_casework|Case analysis]], [[method_estremalita|Extremal principle]], [[method_conteggio|Combinatorial counting]], [[method_grafi|Graph theory]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]], [[skill_casework_accurato|Careful case analysis]], [[skill_modellizzazione|Modelling / translating the text]], [[skill_stima|Estimation and approximation]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
 
 
-<span class="atom-split" id="q09" data-atom="q09" data-title="Quesito 9" data-tags="topic_combinatoria,topic_logica,method_casework,method_invarianti,method_backward,method_simmetria,skill_modellizzazione,skill_casework_accurato,skill_astrazione"></span>
+<span class="atom-split" id="q09" data-atom="q09" data-title="Quesito 9" data-tags="topic_combinatoria,topic_logica,method_casework,method_invarianti,method_backward,method_simmetria,method_grafi,skill_modellizzazione,skill_casework_accurato,skill_astrazione"></span>
 
 <div class="qlang-switch" data-default="fr"></div>
 
@@ -944,7 +1058,7 @@ level: TFJM²
 > 6. Proposer et étudier d’autres directions de recherche.
 
 **Topic:** [[topic_combinatoria|Combinatoire]], [[topic_logica|Logique, jeux, stratégies]]
-**Metodo:** [[method_casework|Analyse par cas]], [[method_invarianti|Invariants / monovariants]], [[method_backward|Raisonnement à rebours]], [[method_simmetria|Exploitation de la symétrie]]
+**Metodo:** [[method_casework|Analyse par cas]], [[method_invarianti|Invariants / monovariants]], [[method_backward|Raisonnement à rebours]], [[method_simmetria|Exploitation de la symétrie]], [[method_grafi|Théorie des graphes]]
 **Abilita:** [[skill_modellizzazione|Modélisation]], [[skill_casework_accurato|Analyse par cas soigneuse]], [[skill_astrazione|Abstraction / généralisation]]
 **Area:** [[Combinatoria, Logica e Probabilita|Combinatoire, logique et probabilités]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/11s6VA0qcuZC6fCiR7BZhQG4Gmbsu3Kv1/view)
@@ -975,7 +1089,10 @@ level: TFJM²
 >
 > 6. Si propongano e si studino altre direzioni di ricerca.
 
-[[Quesiti/src_tfjm_2018#q09|src_tfjm_2018__Q09]]
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_logica|Logica, giochi, strategie]]
+**Metodo:** [[method_casework|Analisi per casi]], [[method_invarianti|Invarianti / monovarianti]], [[method_backward|Ragionamento all'indietro]], [[method_simmetria|Sfruttamento della simmetria]], [[method_grafi|Teoria dei grafi]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_casework_accurato|Casework accurato]], [[skill_astrazione|Astrazione / generalizzazione]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -1003,4 +1120,7 @@ level: TFJM²
 >
 > 6. Propose and study other lines of inquiry.
 
-[[Quesiti/src_tfjm_2018#q09|src_tfjm_2018__Q09]]
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_logica|Logic, games and strategies]]
+**Metodo:** [[method_casework|Case analysis]], [[method_invarianti|Invariants / monovariants]], [[method_backward|Working backwards]], [[method_simmetria|Using symmetry]], [[method_grafi|Graph theory]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]], [[skill_casework_accurato|Careful case analysis]], [[skill_astrazione|Abstraction / generalisation]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]

@@ -59,8 +59,6 @@ level: OBM Nível 1
 **Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 
-[[Quesiti/src_obm_2007_n1_f1#q01|src_obm_2007_n1_f1__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_combinatoria,topic_aritmetica,method_conteggio,method_casework,skill_conteggio_sistematico,skill_lettura_attenta"></span>
@@ -100,11 +98,9 @@ level: OBM Nível 1
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 
-[[Quesiti/src_obm_2007_n1_f1#q02|src_obm_2007_n1_f1__Q02]]
 
 
-
-<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_geometria_piana,topic_aritmetica,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
+<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_geometria_piana,topic_aritmetica,skill_ragionamento_geometrico,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -116,8 +112,8 @@ level: OBM Nível 1
 > (A) 1300 \quad (B) 1308 \quad (C) 1400 \quad (D) 1500 \quad (E) 1512
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
-**Area:** [[Geometria]], [[Aritmetica e Teoria dei Numeri]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Careful reading of the text]]
+**Area:** [[Geometria|Geometry]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1WxbsaFDc4UiPT0pYHWe1rUvNJyqwhBV8/view)
 
 > [!warning] Estratto/tradotto da verificare con la fonte.
@@ -134,15 +130,14 @@ level: OBM Nível 1
 
 > [!warning] Estratto/tradotto: da verificare con la fonte.
 
+
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta del testo]]
 **Area:** [[Geometria]], [[Aritmetica e Teoria dei Numeri]]
 
-[[Quesiti/src_obm_2007_n1_f1#q03|src_obm_2007_n1_f1__Q03]]
 
 
-
-<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_geometria_piana,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
+<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_geometria_piana,skill_ragionamento_geometrico,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -153,11 +148,11 @@ level: OBM Nível 1
 > 
 > (A) 20 \quad (B) 25 \quad (C) 30 \quad (D) 40 \quad (E) 50
 
-![[src_obm_2007_n1_f1__q04.png]]
+![[src_obm_2007_n1_f1__Q04.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
-**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
-**Area:** [[Geometria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Careful reading of the text]]
+**Area:** [[Geometria|Geometry]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1WxbsaFDc4UiPT0pYHWe1rUvNJyqwhBV8/view)
 
 > [!warning] Estratto/tradotto da verificare con la fonte.
@@ -172,15 +167,14 @@ level: OBM Nível 1
 >
 > (A) 20 \quad (B) 25 \quad (C) 30 \quad (D) 40 \quad (E) 50
 
-![[src_obm_2007_n1_f1__q04.png]]
+![[src_obm_2007_n1_f1__Q04.png]]
 
 > [!warning] Estratto/tradotto: da verificare con la fonte.
 
-**Topic:** [[topic_geometria_piana|Geometria piana]]
-**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
-**Area:** [[Geometria]]
 
-[[Quesiti/src_obm_2007_n1_f1#q04|src_obm_2007_n1_f1__Q04]]
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta del testo]]
+**Area:** [[Geometria]]
 
 
 
@@ -221,8 +215,6 @@ level: OBM Nível 1
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 
-[[Quesiti/src_obm_2007_n1_f1#q05|src_obm_2007_n1_f1__Q05]]
-
 
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_aritmetica,topic_logica,method_casework,skill_lettura_attenta,skill_modellizzazione"></span>
@@ -261,8 +253,6 @@ level: OBM Nível 1
 **Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_modellizzazione|Modellizzazione]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 
-[[Quesiti/src_obm_2007_n1_f1#q06|src_obm_2007_n1_f1__Q06]]
-
 
 
 <span class="atom-split" id="q07" data-atom="q07" data-title="Quesito 7" data-tags="topic_aritmetica,method_casework,skill_lettura_attenta,skill_stima"></span>
@@ -276,7 +266,7 @@ level: OBM Nível 1
 > 
 > (A) 1 \quad (B) 2 \quad (C) 3 \quad (D) 4 \quad (E) 5
 
-![[src_obm_2007_n1_f1__q07.png]]
+![[src_obm_2007_n1_f1__Q07.png]]
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_casework|Casework]]
@@ -296,7 +286,7 @@ level: OBM Nível 1
 >
 > (A) 1 \quad (B) 2 \quad (C) 3 \quad (D) 4 \quad (E) 5
 
-![[src_obm_2007_n1_f1__q07.png]]
+![[src_obm_2007_n1_f1__Q07.png]]
 
 > [!warning] Estratto/tradotto: da verificare con la fonte.
 
@@ -304,8 +294,6 @@ level: OBM Nível 1
 **Metodo:** [[method_casework|Casework]]
 **Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_stima|Stima]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
-
-[[Quesiti/src_obm_2007_n1_f1#q07|src_obm_2007_n1_f1__Q07]]
 
 
 
@@ -344,8 +332,6 @@ level: OBM Nível 1
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 
-[[Quesiti/src_obm_2007_n1_f1#q08|src_obm_2007_n1_f1__Q08]]
-
 
 
 <span class="atom-split" id="q09" data-atom="q09" data-title="Quesito 9" data-tags="topic_aritmetica,skill_manipolazione_algebrica,skill_modellizzazione"></span>
@@ -382,11 +368,9 @@ level: OBM Nível 1
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 
-[[Quesiti/src_obm_2007_n1_f1#q09|src_obm_2007_n1_f1__Q09]]
 
 
-
-<span class="atom-split" id="q10" data-atom="q10" data-title="Quesito 10" data-tags="topic_geometria_piana,skill_ragionamento_geometrico"></span>
+<span class="atom-split" id="q10" data-atom="q10" data-title="Quesito 10" data-tags="topic_geometria_piana,method_simmetria,skill_ragionamento_geometrico"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -397,11 +381,12 @@ level: OBM Nível 1
 > 
 > (A) $80^\circ$ \quad (B) $90^\circ$ \quad (C) $100^\circ$ \quad (D) $110^\circ$ \quad (E) $120^\circ$
 
-![[src_obm_2007_n1_f1__q10.png]]
+![[src_obm_2007_n1_f1__Q10.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_simmetria|Using symmetry]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
-**Area:** [[Geometria]]
+**Area:** [[Geometria|Geometry]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1WxbsaFDc4UiPT0pYHWe1rUvNJyqwhBV8/view)
 
 > [!warning] Estratto/tradotto da verificare con la fonte.
@@ -416,15 +401,15 @@ level: OBM Nível 1
 >
 > (A) $80^\circ$ \quad (B) $90^\circ$ \quad (C) $100^\circ$ \quad (D) $110^\circ$ \quad (E) $120^\circ$
 
-![[src_obm_2007_n1_f1__q10.png]]
+![[src_obm_2007_n1_f1__Q10.png]]
 
 > [!warning] Estratto/tradotto: da verificare con la fonte.
 
+
 **Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_simmetria|Sfruttamento della simmetria]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]]
-
-[[Quesiti/src_obm_2007_n1_f1#q10|src_obm_2007_n1_f1__Q10]]
 
 
 
@@ -462,8 +447,6 @@ level: OBM Nível 1
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
-
-[[Quesiti/src_obm_2007_n1_f1#q11|src_obm_2007_n1_f1__Q11]]
 
 
 
@@ -503,8 +486,6 @@ level: OBM Nível 1
 **Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 
-[[Quesiti/src_obm_2007_n1_f1#q12|src_obm_2007_n1_f1__Q12]]
-
 
 
 <span class="atom-split" id="q13" data-atom="q13" data-title="Quesito 13" data-tags="topic_aritmetica,topic_combinatoria,method_conteggio,method_congruenze,skill_conteggio_sistematico,skill_riconoscimento_pattern"></span>
@@ -518,7 +499,7 @@ level: OBM Nível 1
 > 
 > (A) 6 \quad (B) 7 \quad (C) 12 \quad (D) 14 \quad (E) 26
 
-![[src_obm_2007_n1_f1__q13.png]]
+![[src_obm_2007_n1_f1__Q13.png]]
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_conteggio|Conteggio]], [[method_congruenze|Congruenze]]
@@ -538,7 +519,7 @@ level: OBM Nível 1
 >
 > (A) 6 \quad (B) 7 \quad (C) 12 \quad (D) 14 \quad (E) 26
 
-![[src_obm_2007_n1_f1__q13.png]]
+![[src_obm_2007_n1_f1__Q13.png]]
 
 > [!warning] Estratto/tradotto: da verificare con la fonte.
 
@@ -546,8 +527,6 @@ level: OBM Nível 1
 **Metodo:** [[method_conteggio|Conteggio]], [[method_congruenze|Congruenze]]
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
-
-[[Quesiti/src_obm_2007_n1_f1#q13|src_obm_2007_n1_f1__Q13]]
 
 
 
@@ -585,8 +564,6 @@ level: OBM Nível 1
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]]
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 
-[[Quesiti/src_obm_2007_n1_f1#q14|src_obm_2007_n1_f1__Q14]]
-
 
 
 <span class="atom-split" id="q15" data-atom="q15" data-title="Quesito 15" data-tags="topic_combinatoria,method_conteggio,skill_conteggio_sistematico,skill_lettura_attenta"></span>
@@ -600,7 +577,7 @@ level: OBM Nível 1
 > 
 > (A) 4 \quad (B) 6 \quad (C) 12 \quad (D) 24 \quad (E) 36
 
-![[src_obm_2007_n1_f1__q15.png]]
+![[src_obm_2007_n1_f1__Q15.png]]
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_conteggio|Conteggio]]
@@ -620,7 +597,7 @@ level: OBM Nível 1
 >
 > (A) 4 \quad (B) 6 \quad (C) 12 \quad (D) 24 \quad (E) 36
 
-![[src_obm_2007_n1_f1__q15.png]]
+![[src_obm_2007_n1_f1__Q15.png]]
 
 > [!warning] Estratto/tradotto: da verificare con la fonte.
 
@@ -628,8 +605,6 @@ level: OBM Nível 1
 **Metodo:** [[method_conteggio|Conteggio]]
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
-
-[[Quesiti/src_obm_2007_n1_f1#q15|src_obm_2007_n1_f1__Q15]]
 
 
 
@@ -644,7 +619,7 @@ level: OBM Nível 1
 > 
 > (A) 28 \quad (B) 32 \quad (C) 33 \quad (D) 34 \quad (E) 35
 
-![[src_obm_2007_n1_f1__q16.png]]
+![[src_obm_2007_n1_f1__Q16.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_conteggio|Conteggio]]
@@ -664,7 +639,7 @@ level: OBM Nível 1
 >
 > (A) 28 \quad (B) 32 \quad (C) 33 \quad (D) 34 \quad (E) 35
 
-![[src_obm_2007_n1_f1__q16.png]]
+![[src_obm_2007_n1_f1__Q16.png]]
 
 > [!warning] Estratto/tradotto: da verificare con la fonte.
 
@@ -672,8 +647,6 @@ level: OBM Nível 1
 **Metodo:** [[method_conteggio|Conteggio]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Geometria]]
-
-[[Quesiti/src_obm_2007_n1_f1#q16|src_obm_2007_n1_f1__Q16]]
 
 
 
@@ -713,8 +686,6 @@ level: OBM Nível 1
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 
-[[Quesiti/src_obm_2007_n1_f1#q17|src_obm_2007_n1_f1__Q17]]
-
 
 
 <span class="atom-split" id="q18" data-atom="q18" data-title="Quesito 18" data-tags="topic_aritmetica,topic_algebra,skill_manipolazione_algebrica,skill_modellizzazione"></span>
@@ -751,11 +722,9 @@ level: OBM Nível 1
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 
-[[Quesiti/src_obm_2007_n1_f1#q18|src_obm_2007_n1_f1__Q18]]
 
 
-
-<span class="atom-split" id="q19" data-atom="q19" data-title="Quesito 19" data-tags="topic_aritmetica,topic_probabilita,method_conteggio,skill_lettura_attenta,skill_stima"></span>
+<span class="atom-split" id="q19" data-atom="q19" data-title="Quesito 19" data-tags="topic_aritmetica,topic_probabilita,method_conteggio,skill_lettura_attenta,skill_stima,skill_conteggio_sistematico"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -766,12 +735,12 @@ level: OBM Nível 1
 > 
 > (A) 14 \quad (B) 24 \quad (C) 30 \quad (D) 32 \quad (E) 40
 
-![[src_obm_2007_n1_f1__q19.png]]
+![[src_obm_2007_n1_f1__Q19.png]]
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_probabilita|Probabilità]]
 **Metodo:** [[method_conteggio|Conteggio]]
-**Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_stima|Stima]]
-**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+**Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_stima|Stima]], [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1WxbsaFDc4UiPT0pYHWe1rUvNJyqwhBV8/view)
 
 > [!warning] Estratto/tradotto da verificare con la fonte.
@@ -786,16 +755,15 @@ level: OBM Nível 1
 >
 > (A) 14 \quad (B) 24 \quad (C) 30 \quad (D) 32 \quad (E) 40
 
-![[src_obm_2007_n1_f1__q19.png]]
+![[src_obm_2007_n1_f1__Q19.png]]
 
 > [!warning] Estratto/tradotto: da verificare con la fonte.
 
+
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_probabilita|Probabilità]]
 **Metodo:** [[method_conteggio|Conteggio]]
-**Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_stima|Stima]]
+**Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_stima|Stima]], [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
-
-[[Quesiti/src_obm_2007_n1_f1#q19|src_obm_2007_n1_f1__Q19]]
 
 
 
@@ -834,5 +802,3 @@ level: OBM Nível 1
 **Metodo:** [[method_congruenze|Congruenze]]
 **Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
-
-[[Quesiti/src_obm_2007_n1_f1#q20|src_obm_2007_n1_f1__Q20]]

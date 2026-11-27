@@ -36,12 +36,11 @@ level: Olimpiade Polacca Round 1
 **Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica e teoria dei numeri]]
 **Metodo:** [[method_casework|Analisi per casi]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Analisi accurata dei casi]]
-
-[[Quesiti/src_pol_1997_r1#q01|src_pol_1997_r1__Q01]]
-
+**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 
 
-<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_geometria_piana,method_simmetria,skill_ragionamento_geometrico"></span>
+
+<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_geometria_piana,method_simmetria,method_trigonometria,skill_ragionamento_geometrico"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -51,9 +50,9 @@ level: Olimpiade Polacca Round 1
 > Let $P$ be a point inside a parallelogram $ABCD$ such that $\angle ABP = \angle ADP$. Prove that $\angle PAB = \angle PCB$.
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
-**Metodo:** [[method_simmetria|Simmetria]]
+**Metodo:** [[method_simmetria|Simmetria]], [[method_trigonometria|Trigonometric techniques]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
-**Area:** [[Geometria]]
+**Area:** [[Geometria|Geometry]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1J1ktv1YQ9-pGG7jFVVATHBI82SdVVsMb/view)
 
 
@@ -64,11 +63,11 @@ level: Olimpiade Polacca Round 1
 
 > Sia $P$ un punto interno di un parallelogramma $ABCD$ tale che $\angle ABP = \angle ADP$. Dimostrare che $\angle PAB = \angle PCB$.
 
-**Topic:** [[topic_geometria_piana|Geometria piana]]
-**Metodo:** [[method_simmetria|Simmetria]]
-**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 
-[[Quesiti/src_pol_1997_r1#q02|src_pol_1997_r1__Q02]]
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_simmetria|Simmetria]], [[method_trigonometria|Tecniche trigonometriche]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Geometria]]
 
 
 
@@ -100,12 +99,11 @@ level: Olimpiade Polacca Round 1
 **Topic:** [[topic_disuguaglianze|Disuguaglianze]], [[topic_algebra|Algebra]]
 **Metodo:** [[method_disuguaglianze|Disuguaglianze]], [[method_induzione|Induzione]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
-
-[[Quesiti/src_pol_1997_r1#q03|src_pol_1997_r1__Q03]]
-
+**Area:** [[Algebra e Analisi]]
 
 
-<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_aritmetica,method_fattorizzazione,skill_manipolazione_algebrica,skill_astrazione"></span>
+
+<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_aritmetica,topic_algebra,method_fattorizzazione,skill_manipolazione_algebrica,skill_astrazione"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -114,10 +112,10 @@ level: Olimpiade Polacca Round 1
 
 > Prove that an integer $n \ge 2$ is composite if and only if there are positive integers $a, b, x, y$ with $a + b = n$ and $\frac{x}{a} + \frac{y}{b} = 1$.
 
-**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
 **Metodo:** [[method_fattorizzazione|Fattorizzazione]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]]
-**Area:** [[Aritmetica e Teoria dei Numeri]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Algebra e Analisi|Algebra and analysis]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1J1ktv1YQ9-pGG7jFVVATHBI82SdVVsMb/view)
 
 
@@ -128,15 +126,15 @@ level: Olimpiade Polacca Round 1
 
 > Dimostrare che un intero $n \ge 2$ è composto se e solo se esistono interi positivi $a, b, x, y$ tali che $a + b = n$ e $\frac{x}{a} + \frac{y}{b} = 1$.
 
-**Topic:** [[topic_aritmetica|Aritmetica e teoria dei numeri]]
+
+**Topic:** [[topic_aritmetica|Aritmetica e teoria dei numeri]], [[topic_algebra|Algebra]]
 **Metodo:** [[method_fattorizzazione|Fattorizzazione]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]]
-
-[[Quesiti/src_pol_1997_r1#q04|src_pol_1997_r1__Q04]]
-
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 
 
-<span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_geometria_piana,topic_disuguaglianze,method_disuguaglianze,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
+
+<span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_geometria_piana,topic_disuguaglianze,method_disuguaglianze,method_trigonometria,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -146,9 +144,9 @@ level: Olimpiade Polacca Round 1
 > The angle bisectors of the angles $A$, $B$, $C$ of a triangle $ABC$ meet the opposite sides at $D$, $E$, $F$ and the circumscribed circle of $\triangle ABC$ at $K$, $L$, $M$, respectively. Prove that $$\frac{AD}{DK} + \frac{BE}{EL} + \frac{CF}{FM} \ge 1.$$
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_disuguaglianze|Disuguaglianze]]
-**Metodo:** [[method_disuguaglianze|Disuguaglianze]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze]], [[method_trigonometria|Trigonometric techniques]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
-**Area:** [[Geometria]], [[Algebra e Analisi]]
+**Area:** [[Geometria|Geometry]], [[Algebra e Analisi|Algebra and analysis]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1J1ktv1YQ9-pGG7jFVVATHBI82SdVVsMb/view)
 
 
@@ -161,15 +159,15 @@ level: Olimpiade Polacca Round 1
 >
 > $$\frac{AD}{DK} + \frac{BE}{EL} + \frac{CF}{FM} \ge 1.$$
 
+
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_disuguaglianze|Disuguaglianze]]
-**Metodo:** [[method_disuguaglianze|Disuguaglianze]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze]], [[method_trigonometria|Tecniche trigonometriche]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
-
-[[Quesiti/src_pol_1997_r1#q05|src_pol_1997_r1__Q05]]
-
+**Area:** [[Geometria]], [[Algebra e Analisi]]
 
 
-<span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_algebra,skill_manipolazione_algebrica,skill_riconoscimento_pattern"></span>
+
+<span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_algebra,method_fattorizzazione,skill_manipolazione_algebrica,skill_riconoscimento_pattern"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -179,8 +177,9 @@ level: Olimpiade Polacca Round 1
 > If $P(x)$ is a polynomial of degree $n$ such that $P(k) = 1/k$ for $k = 1, 2, 4, 8, \ldots, 2^n$, determine $P(0)$.
 
 **Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
-**Area:** [[Algebra e Analisi]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1J1ktv1YQ9-pGG7jFVVATHBI82SdVVsMb/view)
 
 
@@ -191,14 +190,15 @@ level: Olimpiade Polacca Round 1
 
 > Se $P(x)$ è un polinomio di grado $n$ tale che $P(k) = 1/k$ per $k = 1, 2, 4, 8, \ldots, 2^n$, determinare $P(0)$.
 
+
 **Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di schemi]]
-
-[[Quesiti/src_pol_1997_r1#q06|src_pol_1997_r1__Q06]]
-
+**Area:** [[Algebra e Analisi]]
 
 
-<span class="atom-split" id="q07" data-atom="q07" data-title="Quesito 7" data-tags="topic_geometria_solida,method_estremalita,skill_ragionamento_geometrico,skill_modellizzazione"></span>
+
+<span class="atom-split" id="q07" data-atom="q07" data-title="Quesito 7" data-tags="topic_geometria_solida,topic_geometria_piana,method_estremalita,method_coordinate,skill_ragionamento_geometrico,skill_modellizzazione,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -207,10 +207,10 @@ level: Olimpiade Polacca Round 1
 
 > Find the supremum of volumes of tetrahedra contained in a ball of a given radius, whose one edge is a diameter of the ball.
 
-**Topic:** [[topic_geometria_solida|Geometria solida]]
-**Metodo:** [[method_estremalita|Estremalità]]
-**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]]
-**Area:** [[Geometria]]
+**Topic:** [[topic_geometria_solida|Geometria solida]], [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_coordinate|Coordinate method]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Geometria|Geometry]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1J1ktv1YQ9-pGG7jFVVATHBI82SdVVsMb/view)
 
 
@@ -221,11 +221,11 @@ level: Olimpiade Polacca Round 1
 
 > Trovare l'estremo superiore dei volumi dei tetraedri contenuti in una sfera di raggio dato e aventi uno spigolo che è un diametro della sfera.
 
-**Topic:** [[topic_geometria_solida|Geometria solida]]
-**Metodo:** [[method_estremalita|Estremalità]]
-**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]]
 
-[[Quesiti/src_pol_1997_r1#q07|src_pol_1997_r1__Q07]]
+**Topic:** [[topic_geometria_solida|Geometria solida]], [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_coordinate|Metodo delle coordinate]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
 
 
 
@@ -255,12 +255,11 @@ level: Olimpiade Polacca Round 1
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica e teoria dei numeri]]
 **Metodo:** [[method_conteggio|Conteggio]], [[method_congruenze|Congruenze]], [[method_casi_conteggio|Conteggio per casi]]
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]]
-
-[[Quesiti/src_pol_1997_r1#q08|src_pol_1997_r1__Q08]]
-
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 
 
-<span class="atom-split" id="q09" data-atom="q09" data-title="Quesito 9" data-tags="topic_funzionali,topic_insiemi_funzioni,method_backward,skill_manipolazione_algebrica,skill_astrazione"></span>
+
+<span class="atom-split" id="q09" data-atom="q09" data-title="Quesito 9" data-tags="topic_funzionali,topic_insiemi_funzioni,method_backward,method_ricorsione,skill_manipolazione_algebrica,skill_astrazione,skill_stima"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -270,9 +269,9 @@ level: Olimpiade Polacca Round 1
 > Find all functions $f : [1, \infty) \to [1, \infty)$ which satisfy: (i) $f(x + 1) = \frac{f(x)^2 - 1}{x}$ for all $x \ge 1$; (ii) the function $g(x) = f(x)/x$ is bounded.
 
 **Topic:** [[topic_funzionali|Equazioni funzionali]], [[topic_insiemi_funzioni|Insiemi e funzioni]]
-**Metodo:** [[method_backward|Backward]]
-**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]]
-**Area:** [[Algebra e Analisi]]
+**Metodo:** [[method_backward|Backward]], [[method_ricorsione|Recursion]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]], [[skill_stima|Estimation and approximation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1J1ktv1YQ9-pGG7jFVVATHBI82SdVVsMb/view)
 
 
@@ -283,15 +282,15 @@ level: Olimpiade Polacca Round 1
 
 > Trovare tutte le funzioni $f : [1, \infty) \to [1, \infty)$ che soddisfano: (i) $f(x + 1) = \frac{f(x)^2 - 1}{x}$ per ogni $x \ge 1$; (ii) la funzione $g(x) = f(x)/x$ è limitata.
 
+
 **Topic:** [[topic_funzionali|Equazioni funzionali e successioni]], [[topic_insiemi_funzioni|Insiemi e funzioni]]
-**Metodo:** [[method_backward|Ragionamento all'indietro]]
-**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]]
-
-[[Quesiti/src_pol_1997_r1#q09|src_pol_1997_r1__Q09]]
-
+**Metodo:** [[method_backward|Ragionamento all'indietro]], [[method_ricorsione|Ricorsione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]], [[skill_stima|Stima e approssimazione]]
+**Area:** [[Algebra e Analisi]]
 
 
-<span class="atom-split" id="q10" data-atom="q10" data-title="Quesito 10" data-tags="topic_geometria_piana,skill_ragionamento_geometrico,skill_lettura_attenta"></span>
+
+<span class="atom-split" id="q10" data-atom="q10" data-title="Quesito 10" data-tags="topic_geometria_piana,method_trigonometria,skill_ragionamento_geometrico,skill_lettura_attenta,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -301,8 +300,9 @@ level: Olimpiade Polacca Round 1
 > Let $P, Q$ be points inside an acute-angled triangle $ABC$ such that $\angle ACP = \angle BCQ$ and $\angle CAP = \angle BAQ$. Let $D$, $E$, $F$ be the feet of the perpendiculars from $P$ to $BC$, $CA$, $AB$, respectively. Prove that $\angle DEF = 90^\circ$ if and only if $Q$ is the orthocenter of $\triangle BDF$.
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
-**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
-**Area:** [[Geometria]]
+**Metodo:** [[method_trigonometria|Trigonometric techniques]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Geometria|Geometry]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1J1ktv1YQ9-pGG7jFVVATHBI82SdVVsMb/view)
 
 
@@ -313,14 +313,15 @@ level: Olimpiade Polacca Round 1
 
 > Siano $P, Q$ punti interni di un triangolo acutangolo $ABC$ tali che $\angle ACP = \angle BCQ$ e $\angle CAP = \angle BAQ$. Siano $D$, $E$, $F$ i piedi delle perpendicolari condotte da $P$ a $BC$, $CA$, $AB$ rispettivamente. Dimostrare che $\angle DEF = 90^\circ$ se e solo se $Q$ è l'ortocentro di $\triangle BDF$.
 
+
 **Topic:** [[topic_geometria_piana|Geometria piana]]
-**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
+**Metodo:** [[method_trigonometria|Tecniche trigonometriche]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
 
-[[Quesiti/src_pol_1997_r1#q10|src_pol_1997_r1__Q10]]
 
 
-
-<span class="atom-split" id="q11" data-atom="q11" data-title="Quesito 11" data-tags="topic_algebra,topic_aritmetica,method_congruenze,method_fattorizzazione,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
+<span class="atom-split" id="q11" data-atom="q11" data-title="Quesito 11" data-tags="topic_algebra,topic_aritmetica,method_congruenze,method_fattorizzazione,method_casework,skill_manipolazione_algebrica,skill_lettura_attenta,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -330,9 +331,9 @@ level: Olimpiade Polacca Round 1
 > Let $m$ be a positive integer and $P(x)$ a non-constant polynomial with integer coefficients. Prove that if $P(x)$ has at least three distinct integer roots, then $P(x) + 5^m$ has at most one integer root.
 
 **Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_congruenze|Congruenze]], [[method_fattorizzazione|Fattorizzazione]]
-**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
-**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
+**Metodo:** [[method_congruenze|Congruenze]], [[method_fattorizzazione|Fattorizzazione]], [[method_casework|Case analysis]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1J1ktv1YQ9-pGG7jFVVATHBI82SdVVsMb/view)
 
 
@@ -343,11 +344,11 @@ level: Olimpiade Polacca Round 1
 
 > Siano $m$ un intero positivo e $P(x)$ un polinomio non costante a coefficienti interi. Dimostrare che, se $P(x)$ ha almeno tre radici intere distinte, allora $P(x) + 5^m$ ha al più una radice intera.
 
-**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica e teoria dei numeri]]
-**Metodo:** [[method_congruenze|Congruenze]], [[method_fattorizzazione|Fattorizzazione]]
-**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
 
-[[Quesiti/src_pol_1997_r1#q11|src_pol_1997_r1__Q11]]
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica e teoria dei numeri]]
+**Metodo:** [[method_congruenze|Congruenze]], [[method_fattorizzazione|Fattorizzazione]], [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 
 
 
@@ -377,5 +378,4 @@ level: Olimpiade Polacca Round 1
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica e teoria dei numeri]]
 **Metodo:** [[method_doppio_conteggio|Doppio conteggio]], [[method_congruenze|Congruenze]]
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione]]
-
-[[Quesiti/src_pol_1997_r1#q12|src_pol_1997_r1__Q12]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]

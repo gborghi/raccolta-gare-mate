@@ -40,8 +40,6 @@ level: JJMO
 **Abilità:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di schemi]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Aritmetica e teoria dei numeri]]
 
-[[Quesiti/src_jjmo4q#q01|src_jjmo4q__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_geometria_piana,method_coordinate,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
@@ -53,7 +51,7 @@ level: JJMO
 
 > In the figure below, $ABCD$ is a rectangle with $AB = 4$ and $BC = 5$, and points are marked at equal spacing on each side. Find the area of quadrilateral $PQRS$.
 
-![[src_jjmo4q__q02.png]]
+![[src_jjmo4q__Q02.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_coordinate|Coordinate]]
@@ -69,14 +67,12 @@ level: JJMO
 
 > Nella figura sottostante, $ABCD$ è un rettangolo con $AB = 4$ e $BC = 5$, e sui lati sono segnati dei punti a spaziatura uniforme. Determinare l'area del quadrilatero $PQRS$.
 
-![[src_jjmo4q__q02.png]]
+![[src_jjmo4q__Q02.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_coordinate|Coordinate]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
-
-[[Quesiti/src_jjmo4q#q02|src_jjmo4q__Q02]]
 
 
 
@@ -112,8 +108,6 @@ level: JJMO
 **Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 
-[[Quesiti/src_jjmo4q#q03|src_jjmo4q__Q03]]
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_geometria_piana,method_trigonometria,skill_ragionamento_geometrico,skill_lettura_attenta"></span>
@@ -125,7 +119,7 @@ level: JJMO
 
 > Points $D$, $E$, $F$ are the points where the incircle of triangle $ABC$ touches the sides $AB$, $BC$, $CA$ respectively. Given that $\angle BAC = 70^\circ$, find $\angle DEF$.
 
-![[src_jjmo4q__q04.png]]
+![[src_jjmo4q__Q04.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_trigonometria|Trigonometria]]
@@ -141,14 +135,12 @@ level: JJMO
 
 > I punti $D$, $E$, $F$ sono i punti in cui l'incircoscritta al triangolo $ABC$ tocca i lati $AB$, $BC$, $CA$ rispettivamente. Dato che $\angle BAC = 70^\circ$, determina $\angle DEF$.
 
-![[src_jjmo4q__q04.png]]
+![[src_jjmo4q__Q04.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_trigonometria|Trigonometria]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Geometria]]
-
-[[Quesiti/src_jjmo4q#q04|src_jjmo4q__Q04]]
 
 
 
@@ -189,8 +181,6 @@ level: JJMO
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_stima|Stima]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 
-[[Quesiti/src_jjmo4q#q05|src_jjmo4q__Q05]]
-
 
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_geometria_solida,method_coordinate,method_simmetria,skill_ragionamento_geometrico,skill_manipolazione_algebrica,skill_astrazione"></span>
@@ -204,7 +194,7 @@ level: JJMO
 > 
 > Now, when the centroids of adjacent faces of a regular octahedron are connected by edges, a cube is formed. Find the volume of this cube as a fraction of the volume of the original regular octahedron.
 
-![[src_jjmo4q__q06.png]]
+![[src_jjmo4q__Q06.png]]
 
 **Topic:** [[topic_geometria_solida|Geometria solida]]
 **Metodo:** [[method_coordinate|Coordinate]], [[method_simmetria|Simmetria]]
@@ -222,14 +212,12 @@ level: JJMO
 >
 > Ora, quando i baricentri delle facce adiacenti di un ottaedro regolare vengono collegati da spigoli, si forma un cubo. Determinare il volume di questo cubo come frazione del volume dell'ottaedro regolare originale.
 
-![[src_jjmo4q__q06.png]]
+![[src_jjmo4q__Q06.png]]
 
 **Topic:** [[topic_geometria_solida|Geometria solida]]
 **Metodo:** [[method_coordinate|Coordinate]], [[method_simmetria|Simmetria]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]]
 **Area:** [[Geometria]]
-
-[[Quesiti/src_jjmo4q#q06|src_jjmo4q__Q06]]
 
 
 
@@ -261,11 +249,9 @@ level: JJMO
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 
-[[Quesiti/src_jjmo4q#q07|src_jjmo4q__Q07]]
 
 
-
-<span class="atom-split" id="q08" data-atom="q08" data-title="Quesito 8" data-tags="topic_aritmetica,topic_algebra,method_estremalita,method_casework,method_fattorizzazione,skill_manipolazione_algebrica,skill_conteggio_sistematico,skill_riconoscimento_pattern"></span>
+<span class="atom-split" id="q08" data-atom="q08" data-title="Quesito 8" data-tags="topic_aritmetica,topic_algebra,method_estremalita,method_casework,method_fattorizzazione,method_congruenze,skill_manipolazione_algebrica,skill_conteggio_sistematico,skill_riconoscimento_pattern,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -275,9 +261,9 @@ level: JJMO
 > Among sets of three mutually coprime positive integers such that the sum of any two of them is a perfect square, find all such sets with the smallest possible sum of the three numbers. Here, the sets $\{1, 2, 3\}$ and $\{3, 2, 1\}$ are considered the same, while $\{1, 2, 3\}$ and $\{3, 1, 2\}$ are also the same.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
-**Metodo:** [[method_estremalita|Estremalità]], [[method_casework|Casework]], [[method_fattorizzazione|Fattorizzazione]]
-**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
-**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_casework|Casework]], [[method_fattorizzazione|Fattorizzazione]], [[method_congruenze|Modular arithmetic / congruences]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Algebra e Analisi|Algebra and analysis]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1dcU4YUQ6svvR5QJjgkMDtNEdLiVmtzEl/view)
 
 
@@ -288,12 +274,11 @@ level: JJMO
 
 > Tra gli insiemi di tre numeri interi positivi coprimi a due a due tali che la somma di due qualsiasi di essi sia un quadrato perfetto, determinare tutti gli insiemi di questo tipo aventi la somma dei tre numeri più piccola possibile. Qui, gli insiemi $\{1, 2, 3\}$ e $\{3, 2, 1\}$ sono considerati identici, mentre anche $\{1, 2, 3\}$ e $\{3, 1, 2\}$ sono identici.
 
-**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
-**Metodo:** [[method_estremalita|Estremalità]], [[method_casework|Casework]], [[method_fattorizzazione|Fattorizzazione]]
-**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
-**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 
-[[Quesiti/src_jjmo4q#q08|src_jjmo4q__Q08]]
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_casework|Casework]], [[method_fattorizzazione|Fattorizzazione]], [[method_congruenze|Aritmetica modulare / congruenze]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 
 
 
@@ -325,11 +310,9 @@ level: JJMO
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 
-[[Quesiti/src_jjmo4q#q09|src_jjmo4q__Q09]]
 
 
-
-<span class="atom-split" id="q10" data-atom="q10" data-title="Quesito 10" data-tags="topic_algebra,method_fattorizzazione,method_casework,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
+<span class="atom-split" id="q10" data-atom="q10" data-title="Quesito 10" data-tags="topic_algebra,topic_aritmetica,method_fattorizzazione,method_casework,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -342,10 +325,10 @@ level: JJMO
 > 
 > (2) Find all pairs of integers $(x, y)$ satisfying $(*)$.
 
-**Topic:** [[topic_algebra|Algebra]]
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Arithmetic / Number theory]]
 **Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_casework|Casework]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
-**Area:** [[Algebra e Analisi]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1dcU4YUQ6svvR5QJjgkMDtNEdLiVmtzEl/view)
 
 
@@ -360,12 +343,11 @@ level: JJMO
 >
 > (2) Determinare tutte le coppie di interi $(x, y)$ che soddisfano $(*)$.
 
-**Topic:** [[topic_algebra|Algebra]]
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_casework|Casework]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
-**Area:** [[Algebra e Analisi]]
-
-[[Quesiti/src_jjmo4q#q10|src_jjmo4q__Q10]]
+**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 
 
 
@@ -401,8 +383,6 @@ level: JJMO
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 
-[[Quesiti/src_jjmo4q#q11|src_jjmo4q__Q11]]
-
 
 
 <span class="atom-split" id="q12" data-atom="q12" data-title="Quesito 12" data-tags="topic_combinatoria,topic_algebra,method_casework,method_invarianti,method_ricorsione,skill_astrazione,skill_conteggio_sistematico,skill_ragionamento_geometrico,skill_lettura_attenta"></span>
@@ -426,7 +406,7 @@ level: JJMO
 > 
 > (2) For good pairs $(m, n)$ with $m, n \le 10$, find the number of such pairs. Note that $(9, 6)$ and $(6, 9)$ are counted as different pairs.
 
-![[src_jjmo4q__q12.png]]
+![[src_jjmo4q__Q12.png]]
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_algebra|Algebra]]
 **Metodo:** [[method_casework|Casework]], [[method_invarianti|Invarianti]], [[method_ricorsione|Ricorsione]]
@@ -454,11 +434,9 @@ level: JJMO
 >
 > (2) Per le coppie buone $(m, n)$ con $m, n \le 10$, determina il numero di tali coppie. Si noti che $(9, 6)$ e $(6, 9)$ sono conteggiate come coppie diverse.
 
-![[src_jjmo4q__q12.png]]
+![[src_jjmo4q__Q12.png]]
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_algebra|Algebra]]
 **Metodo:** [[method_casework|Casework]], [[method_invarianti|Invarianti]], [[method_ricorsione|Ricorsione]]
 **Abilita:** [[skill_astrazione|Astrazione]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Algebra e Analisi]]
-
-[[Quesiti/src_jjmo4q#q12|src_jjmo4q__Q12]]

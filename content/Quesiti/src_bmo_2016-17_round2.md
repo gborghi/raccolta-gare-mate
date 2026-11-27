@@ -38,11 +38,9 @@ level: BMO Round 2
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Geometria]]
 
-[[Quesiti/src_bmo_2016-17_round2#q01|src_bmo_2016-17_round2__Q01]]
 
 
-
-<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_aritmetica,topic_algebra,method_induzione,method_casework,method_telescoping,skill_manipolazione_algebrica,skill_riconoscimento_pattern,skill_stima"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_aritmetica,topic_algebra,method_induzione,method_casework,method_telescoping,method_conteggio,skill_manipolazione_algebrica,skill_riconoscimento_pattern,skill_stima"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -56,9 +54,9 @@ level: BMO Round 2
 > [Here are some examples of the use of $\lfloor\cdot\rfloor$: $\lfloor 2 \rfloor = 2$, $\lfloor 1.7 \rfloor = 1$, $\lfloor -1.7 \rfloor = -2$.]
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
-**Metodo:** [[method_induzione|Induzione]], [[method_casework|Casework]], [[method_telescoping|Telescoping]]
+**Metodo:** [[method_induzione|Induzione]], [[method_casework|Casework]], [[method_telescoping|Telescoping]], [[method_conteggio|Combinatorial counting]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_stima|Stima]]
-**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Algebra e Analisi|Algebra and analysis]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1OZ7MO6JOvySxWSnVFx5p_g4iJo_by7ja/view)
 
 
@@ -73,12 +71,11 @@ level: BMO Round 2
 >
 > [Ecco alcuni esempi dell'uso di $\lfloor\cdot\rfloor$: $\lfloor 2 \rfloor = 2$, $\lfloor 1.7 \rfloor = 1$, $\lfloor -1.7 \rfloor = -2$.]
 
+
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
-**Metodo:** [[method_induzione|Induzione]], [[method_casework|Casework]], [[method_telescoping|Telescoping]]
+**Metodo:** [[method_induzione|Induzione]], [[method_casework|Casework]], [[method_telescoping|Telescoping]], [[method_conteggio|Conteggio combinatorio]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_stima|Stima]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
-
-[[Quesiti/src_bmo_2016-17_round2#q02|src_bmo_2016-17_round2__Q02]]
 
 
 
@@ -110,8 +107,6 @@ level: BMO Round 2
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 
-[[Quesiti/src_bmo_2016-17_round2#q03|src_bmo_2016-17_round2__Q03]]
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_combinatoria,topic_logica,method_casework,method_backward,skill_casework_accurato,skill_modellizzazione,skill_lettura_attenta"></span>
@@ -141,5 +136,3 @@ level: BMO Round 2
 **Metodo:** [[method_casework|Casework]], [[method_backward|Backward]]
 **Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_modellizzazione|Modellizzazione]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
-
-[[Quesiti/src_bmo_2016-17_round2#q04|src_bmo_2016-17_round2__Q04]]

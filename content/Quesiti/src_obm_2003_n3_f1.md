@@ -10,7 +10,7 @@ level: OBM Nível 3
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_aritmetica,method_fattorizzazione,method_casework,skill_lettura_attenta,skill_conteggio_sistematico"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_aritmetica,method_fattorizzazione,method_casework,skill_lettura_attenta,skill_conteggio_sistematico,skill_stima"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -23,8 +23,8 @@ level: OBM Nível 3
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_casework|Casework]]
-**Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_conteggio_sistematico|Conteggio sistematico]]
-**Area:** [[Aritmetica e Teoria dei Numeri]]
+**Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_stima|Estimation and approximation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Risposta:** B
 **Fonte:** [apri PDF](https://drive.google.com/file/d/18AR9r0_71IxhGZW4AC9YMoNL6H_lGs5x/view)
 
@@ -38,19 +38,17 @@ level: OBM Nível 3
 >
 > A) $5$ \quad B) $6$ \quad C) $7$ \quad D) $8$ \quad E) $5$
 
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei numeri]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_stima|Stima e approssimazione]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** B
 
 **Argomento:** [[topic_aritmetica|Aritmetica / Teoria dei numeri]]
 
-**Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_casework|Analisi per casi]]
-
-**Abilità:** [[skill_lettura_attenta|Lettura attenta]], [[skill_conteggio_sistematico|Conteggio sistematico]]
-
-[[Quesiti/src_obm_2003_n3_f1#q01|src_obm_2003_n3_f1__Q01]]
 
 
-
-<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_aritmetica,method_ricorsione,method_congruenze,skill_riconoscimento_pattern,skill_conteggio_sistematico"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_aritmetica,topic_funzionali,method_ricorsione,method_congruenze,skill_riconoscimento_pattern,skill_conteggio_sistematico"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -61,10 +59,10 @@ level: OBM Nível 3
 > 
 > A) $1$ \quad B) $2$ \quad C) $3$ \quad D) $4$ \quad E) $5$
 
-**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_funzionali|Functional equations / sequences]]
 **Metodo:** [[method_ricorsione|Ricorsione]], [[method_congruenze|Congruenze]]
 **Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_conteggio_sistematico|Conteggio sistematico]]
-**Area:** [[Aritmetica e Teoria dei Numeri]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Algebra e Analisi|Algebra and analysis]]
 **Risposta:** E
 **Fonte:** [apri PDF](https://drive.google.com/file/d/18AR9r0_71IxhGZW4AC9YMoNL6H_lGs5x/view)
 
@@ -78,15 +76,13 @@ level: OBM Nível 3
 >
 > A) $1$ \quad B) $2$ \quad C) $3$ \quad D) $4$ \quad E) $5$
 
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei numeri]], [[topic_funzionali|Equazioni funzionali / successioni]]
+**Metodo:** [[method_ricorsione|Ricorsione]], [[method_congruenze|Congruenze]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 **Risposta:** E
 
 **Argomento:** [[topic_aritmetica|Aritmetica / Teoria dei numeri]]
-
-**Metodo:** [[method_ricorsione|Ricorsione]], [[method_congruenze|Congruenze]]
-
-**Abilità:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_conteggio_sistematico|Conteggio sistematico]]
-
-[[Quesiti/src_obm_2003_n3_f1#q02|src_obm_2003_n3_f1__Q02]]
 
 
 
@@ -135,8 +131,7 @@ $$\begin{array}{|c|c|c|c|}\hline 1 & 2 & 1 & 1 \\ \hline 0 & 2 & 1 & 2 \\ \hline
 **Metodo:** [[method_casework|Analisi per casi]], [[method_casi_conteggio|Conteggio per casi]]
 
 **Abilità:** [[skill_lettura_attenta|Lettura attenta]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_casework_accurato|Analisi accurata dei casi]]
-
-[[Quesiti/src_obm_2003_n3_f1#q03|src_obm_2003_n3_f1__Q03]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
 
 
 
@@ -175,12 +170,11 @@ $$\begin{array}{|c|c|c|c|}\hline 1 & 2 & 1 & 1 \\ \hline 0 & 2 & 1 & 2 \\ \hline
 **Metodo:** [[method_conteggio|Conteggio]], [[method_simmetria|Simmetria]]
 
 **Abilità:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione]]
-
-[[Quesiti/src_obm_2003_n3_f1#q04|src_obm_2003_n3_f1__Q04]]
-
+**Area:** [[Combinatoria, Logica e Probabilita]]
 
 
-<span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_aritmetica,skill_stima,skill_modellizzazione"></span>
+
+<span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_aritmetica,topic_geometria_solida,skill_stima,skill_modellizzazione"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -195,9 +189,9 @@ $$\begin{array}{|c|c|c|c|}\hline 1 & 2 & 1 & 1 \\ \hline 0 & 2 & 1 & 2 \\ \hline
 > 
 > A) $10^{10}$ \quad B) $10^{21}$ \quad C) $10^{26}$ \quad D) $10^{21}$ \quad E) $10^{36}$
 
-**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_geometria_solida|Solid geometry]]
 **Abilita:** [[skill_stima|Stima]], [[skill_modellizzazione|Modellizzazione]]
-**Area:** [[Aritmetica e Teoria dei Numeri]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Geometria|Geometry]]
 **Risposta:** B
 **Fonte:** [apri PDF](https://drive.google.com/file/d/18AR9r0_71IxhGZW4AC9YMoNL6H_lGs5x/view)
 
@@ -221,17 +215,16 @@ $$V = \frac{4}{3}\pi R^3,$$
 >
 > A) $10^{10}$ \quad B) $10^{21}$ \quad C) $10^{26}$ \quad D) $10^{21}$ \quad E) $10^{36}$
 
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei numeri]], [[topic_geometria_solida|Geometria solida]]
+**Abilita:** [[skill_stima|Stima]], [[skill_modellizzazione|Modellizzazione]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Geometria]]
 **Risposta:** B
 
 **Argomento:** [[topic_aritmetica|Aritmetica / Teoria dei numeri]]
 
-**Abilità:** [[skill_stima|Stima]], [[skill_modellizzazione|Modellizzazione]]
-
-[[Quesiti/src_obm_2003_n3_f1#q05|src_obm_2003_n3_f1__Q05]]
 
 
-
-<span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_aritmetica,topic_algebra,method_telescoping,method_ricorsione,skill_riconoscimento_pattern,skill_manipolazione_algebrica"></span>
+<span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_aritmetica,topic_algebra,topic_funzionali,method_telescoping,method_ricorsione,skill_riconoscimento_pattern,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -244,10 +237,10 @@ $$V = \frac{4}{3}\pi R^3,$$
 > 
 > A) $3/2$ \quad B) $2$ \quad C) $5/2$ \quad D) $3$ \quad E) $\dfrac{1+\sqrt{5}}{2}$
 
-**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]], [[topic_funzionali|Functional equations / sequences]]
 **Metodo:** [[method_telescoping|Telescoping]], [[method_ricorsione|Ricorsione]]
 **Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
-**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Algebra e Analisi|Algebra and analysis]]
 **Risposta:** B
 **Fonte:** [apri PDF](https://drive.google.com/file/d/18AR9r0_71IxhGZW4AC9YMoNL6H_lGs5x/view)
 
@@ -269,15 +262,13 @@ $$S = \frac{1}{2} + \frac{1}{4} + \frac{2}{8} + \frac{3}{16} + \frac{5}{32} + \f
 >
 > A) $3/2$ \quad B) $2$ \quad C) $5/2$ \quad D) $3$ \quad E) $\dfrac{1+\sqrt{5}}{2}$
 
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei numeri]], [[topic_algebra|Algebra]], [[topic_funzionali|Equazioni funzionali / successioni]]
+**Metodo:** [[method_telescoping|Somme telescopiche]], [[method_ricorsione|Ricorsione]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 **Risposta:** B
 
 **Argomento:** [[topic_aritmetica|Aritmetica / Teoria dei numeri]], [[topic_algebra|Algebra]]
-
-**Metodo:** [[method_telescoping|Somme telescopiche]], [[method_ricorsione|Ricorsione]]
-
-**Abilità:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
-
-[[Quesiti/src_obm_2003_n3_f1#q06|src_obm_2003_n3_f1__Q06]]
 
 
 
@@ -316,12 +307,11 @@ $$S = \frac{1}{2} + \frac{1}{4} + \frac{2}{8} + \frac{3}{16} + \frac{5}{32} + \f
 **Metodo:** [[method_coordinate|Coordinate]], [[method_simmetria|Simmetria]]
 
 **Abilità:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
-
-[[Quesiti/src_obm_2003_n3_f1#q07|src_obm_2003_n3_f1__Q07]]
-
+**Area:** [[Geometria]], [[Algebra e Analisi]]
 
 
-<span class="atom-split" id="q08" data-atom="q08" data-title="Quesito 8" data-tags="topic_algebra,topic_combinatoria,method_doppio_conteggio,method_casework,skill_modellizzazione,skill_manipolazione_algebrica"></span>
+
+<span class="atom-split" id="q08" data-atom="q08" data-title="Quesito 8" data-tags="topic_algebra,topic_combinatoria,method_doppio_conteggio,method_casework,skill_modellizzazione,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -334,8 +324,8 @@ $$S = \frac{1}{2} + \frac{1}{4} + \frac{2}{8} + \frac{3}{16} + \frac{5}{32} + \f
 
 **Topic:** [[topic_algebra|Algebra]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_doppio_conteggio|Doppio conteggio]], [[method_casework|Casework]]
-**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
-**Area:** [[Algebra e Analisi]], [[Combinatoria, Logica e Probabilita]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Careful reading of the text]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Risposta:** C
 **Fonte:** [apri PDF](https://drive.google.com/file/d/18AR9r0_71IxhGZW4AC9YMoNL6H_lGs5x/view)
 
@@ -349,15 +339,13 @@ $$S = \frac{1}{2} + \frac{1}{4} + \frac{2}{8} + \frac{3}{16} + \frac{5}{32} + \f
 >
 > A) $3$ \quad B) $4$ \quad C) $5$ \quad D) $6$ \quad E) Servono altre informazioni.
 
+**Topic:** [[topic_algebra|Algebra]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_doppio_conteggio|Doppio conteggio]], [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta del testo]]
+**Area:** [[Algebra e Analisi]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** C
 
 **Argomento:** [[topic_algebra|Algebra]], [[topic_combinatoria|Combinatoria]]
-
-**Metodo:** [[method_doppio_conteggio|Doppio conteggio]], [[method_casework|Analisi per casi]]
-
-**Abilità:** [[skill_modellizzazione|Modellizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
-
-[[Quesiti/src_obm_2003_n3_f1#q08|src_obm_2003_n3_f1__Q08]]
 
 
 
@@ -374,7 +362,7 @@ $$S = \frac{1}{2} + \frac{1}{4} + \frac{2}{8} + \frac{3}{16} + \frac{5}{32} + \f
 > 
 > A) $2\sqrt{a^2 + b^2}$ \quad B) $a + b$ \quad C) $2\sqrt{ab}$ \quad D) $\dfrac{4ab}{a+b}$ \quad E) $2b - a$
 
-![[src_obm_2003_n3_f1__q09.png]]
+![[src_obm_2003_n3_f1__Q09.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_coordinate|Coordinate]], [[method_trigonometria|Trigonometria]]
@@ -395,7 +383,7 @@ $$S = \frac{1}{2} + \frac{1}{4} + \frac{2}{8} + \frac{3}{16} + \frac{5}{32} + \f
 >
 > A) $2\sqrt{a^2 + b^2}$ \quad B) $a + b$ \quad C) $2\sqrt{ab}$ \quad D) $\dfrac{4ab}{a+b}$ \quad E) $2b - a$
 
-![[src_obm_2003_n3_f1__q09.png]]
+![[src_obm_2003_n3_f1__Q09.png]]
 
 **Risposta:** C
 
@@ -404,8 +392,7 @@ $$S = \frac{1}{2} + \frac{1}{4} + \frac{2}{8} + \frac{3}{16} + \frac{5}{32} + \f
 **Metodo:** [[method_coordinate|Coordinate]], [[method_trigonometria|Trigonometria]]
 
 **Abilità:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
-
-[[Quesiti/src_obm_2003_n3_f1#q09|src_obm_2003_n3_f1__Q09]]
+**Area:** [[Geometria]]
 
 
 
@@ -444,12 +431,11 @@ $$S = \frac{1}{2} + \frac{1}{4} + \frac{2}{8} + \frac{3}{16} + \frac{5}{32} + \f
 **Metodo:** [[method_casework|Analisi per casi]]
 
 **Abilità:** [[skill_lettura_attenta|Lettura attenta]], [[skill_casework_accurato|Analisi accurata dei casi]], [[skill_conteggio_sistematico|Conteggio sistematico]]
-
-[[Quesiti/src_obm_2003_n3_f1#q10|src_obm_2003_n3_f1__Q10]]
-
+**Area:** [[Combinatoria, Logica e Probabilita]]
 
 
-<span class="atom-split" id="q11" data-atom="q11" data-title="Quesito 11" data-tags="topic_funzionali,topic_algebra,method_ricorsione,method_backward,skill_manipolazione_algebrica,skill_riconoscimento_pattern"></span>
+
+<span class="atom-split" id="q11" data-atom="q11" data-title="Quesito 11" data-tags="topic_funzionali,topic_algebra,topic_aritmetica,method_ricorsione,method_backward,skill_manipolazione_algebrica,skill_riconoscimento_pattern"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -462,10 +448,10 @@ $$S = \frac{1}{2} + \frac{1}{4} + \frac{2}{8} + \frac{3}{16} + \frac{5}{32} + \f
 > 
 > A) $\dfrac{7}{4}$ \quad B) $\dfrac{7}{2}$ \quad C) $\dfrac{11}{6}$ \quad D) $\dfrac{6}{11}$ \quad E) $\dfrac{1}{2003}$
 
-**Topic:** [[topic_funzionali|Equazioni funzionali]], [[topic_algebra|Algebra]]
+**Topic:** [[topic_funzionali|Equazioni funzionali]], [[topic_algebra|Algebra]], [[topic_aritmetica|Arithmetic / Number theory]]
 **Metodo:** [[method_ricorsione|Ricorsione]], [[method_backward|Backward]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
-**Area:** [[Algebra e Analisi]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Risposta:** D
 **Fonte:** [apri PDF](https://drive.google.com/file/d/18AR9r0_71IxhGZW4AC9YMoNL6H_lGs5x/view)
 
@@ -492,19 +478,17 @@ $$f(x;\, x) = x, \quad f(x;\, y) = f(y;\, x), \quad (x + y)\,f(x;\, y) = (2x + y
 >
 > A) $\dfrac{7}{4}$ \quad B) $\dfrac{7}{2}$ \quad C) $\dfrac{11}{6}$ \quad D) $\dfrac{6}{11}$ \quad E) $\dfrac{1}{2003}$
 
+**Topic:** [[topic_funzionali|Equazioni funzionali]], [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_ricorsione|Ricorsione]], [[method_backward|Ragionamento all'indietro]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** D
 
 **Argomento:** [[topic_funzionali|Equazioni funzionali]], [[topic_algebra|Algebra]]
 
-**Metodo:** [[method_ricorsione|Ricorsione]], [[method_backward|Ragionamento all'indietro]]
-
-**Abilità:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
-
-[[Quesiti/src_obm_2003_n3_f1#q11|src_obm_2003_n3_f1__Q11]]
 
 
-
-<span class="atom-split" id="q12" data-atom="q12" data-title="Quesito 12" data-tags="topic_aritmetica,method_conteggio,method_congruenze,skill_conteggio_sistematico,skill_lettura_attenta"></span>
+<span class="atom-split" id="q12" data-atom="q12" data-title="Quesito 12" data-tags="topic_aritmetica,method_conteggio,method_congruenze,method_fattorizzazione,skill_conteggio_sistematico,skill_lettura_attenta,skill_riconoscimento_pattern"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -516,9 +500,9 @@ $$f(x;\, x) = x, \quad f(x;\, y) = f(y;\, x), \quad (x + y)\,f(x;\, y) = (2x + y
 > A) fourth \quad B) fifth \quad C) sixth \quad D) none \quad E) seventh
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_conteggio|Conteggio]], [[method_congruenze|Congruenze]]
-**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]]
-**Area:** [[Aritmetica e Teoria dei Numeri]]
+**Metodo:** [[method_conteggio|Conteggio]], [[method_congruenze|Congruenze]], [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Risposta:** C
 **Fonte:** [apri PDF](https://drive.google.com/file/d/18AR9r0_71IxhGZW4AC9YMoNL6H_lGs5x/view)
 
@@ -536,15 +520,13 @@ $$f(x;\, x) = x, \quad f(x;\, y) = f(y;\, x), \quad (x + y)\,f(x;\, y) = (2x + y
 > - **(D)** nessuno
 > - **(E)** il settimo
 
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei numeri]]
+**Metodo:** [[method_conteggio|Conteggio]], [[method_congruenze|Congruenze]], [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** C
 
 **Argomento:** [[topic_aritmetica|Aritmetica / Teoria dei numeri]]
-
-**Metodo:** [[method_conteggio|Conteggio]], [[method_congruenze|Congruenze]]
-
-**Abilità:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]]
-
-[[Quesiti/src_obm_2003_n3_f1#q12|src_obm_2003_n3_f1__Q12]]
 
 
 
@@ -591,12 +573,11 @@ $$f(x;\, x) = x, \quad f(x;\, y) = f(y;\, x), \quad (x + y)\,f(x;\, y) = (2x + y
 **Metodo:** [[method_casework|Analisi per casi]]
 
 **Abilità:** [[skill_lettura_attenta|Lettura attenta]], [[skill_casework_accurato|Analisi accurata dei casi]]
-
-[[Quesiti/src_obm_2003_n3_f1#q13|src_obm_2003_n3_f1__Q13]]
-
+**Area:** [[Combinatoria, Logica e Probabilita]]
 
 
-<span class="atom-split" id="q14" data-atom="q14" data-title="Quesito 14" data-tags="topic_probabilita,topic_combinatoria,method_casework,method_ricorsione,skill_modellizzazione,skill_casework_accurato"></span>
+
+<span class="atom-split" id="q14" data-atom="q14" data-title="Quesito 14" data-tags="topic_probabilita,topic_combinatoria,method_casework,method_ricorsione,method_simmetria,skill_modellizzazione,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -608,9 +589,9 @@ $$f(x;\, x) = x, \quad f(x;\, y) = f(y;\, x), \quad (x + y)\,f(x;\, y) = (2x + y
 > A) Beatriz \quad B) Isabele \quad C) Nicole \quad D) Beatriz and Nicole \quad E) All three have the same chance.
 
 **Topic:** [[topic_probabilita|Probabilità]], [[topic_combinatoria|Combinatoria]]
-**Metodo:** [[method_casework|Casework]], [[method_ricorsione|Ricorsione]]
+**Metodo:** [[method_casework|Casework]], [[method_ricorsione|Ricorsione]], [[method_simmetria|Using symmetry]]
 **Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_casework_accurato|Casework accurato]]
-**Area:** [[Combinatoria, Logica e Probabilita]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Risposta:** B
 **Fonte:** [apri PDF](https://drive.google.com/file/d/18AR9r0_71IxhGZW4AC9YMoNL6H_lGs5x/view)
 
@@ -628,19 +609,17 @@ $$f(x;\, x) = x, \quad f(x;\, y) = f(y;\, x), \quad (x + y)\,f(x;\, y) = (2x + y
 > - **(D)** Beatriz e Nicole
 > - **(E)** Tutte e tre hanno la stessa possibilità.
 
+**Topic:** [[topic_probabilita|Probabilità]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casework|Analisi per casi]], [[method_ricorsione|Ricorsione]], [[method_simmetria|Sfruttamento della simmetria]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_casework_accurato|Analisi accurata dei casi]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** B
 
 **Argomento:** [[topic_probabilita|Probabilità]], [[topic_combinatoria|Combinatoria]]
 
-**Metodo:** [[method_casework|Analisi per casi]], [[method_ricorsione|Ricorsione]]
-
-**Abilità:** [[skill_modellizzazione|Modellizzazione]], [[skill_casework_accurato|Analisi accurata dei casi]]
-
-[[Quesiti/src_obm_2003_n3_f1#q14|src_obm_2003_n3_f1__Q14]]
 
 
-
-<span class="atom-split" id="q15" data-atom="q15" data-title="Quesito 15" data-tags="topic_aritmetica,topic_combinatoria,method_fattorizzazione,method_casework,skill_manipolazione_algebrica,skill_lettura_attenta,skill_casework_accurato"></span>
+<span class="atom-split" id="q15" data-atom="q15" data-title="Quesito 15" data-tags="topic_aritmetica,topic_combinatoria,method_fattorizzazione,method_casework,skill_manipolazione_algebrica,skill_lettura_attenta,skill_casework_accurato,skill_riconoscimento_pattern"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -653,8 +632,8 @@ $$f(x;\, x) = x, \quad f(x;\, y) = f(y;\, x), \quad (x + y)\,f(x;\, y) = (2x + y
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_casework|Casework]]
-**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_casework_accurato|Casework accurato]]
-**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_casework_accurato|Casework accurato]], [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Risposta:** C
 **Fonte:** [apri PDF](https://drive.google.com/file/d/18AR9r0_71IxhGZW4AC9YMoNL6H_lGs5x/view)
 
@@ -668,15 +647,13 @@ $$f(x;\, x) = x, \quad f(x;\, y) = f(y;\, x), \quad (x + y)\,f(x;\, y) = (2x + y
 >
 > A) $10$ \quad B) $11$ \quad C) $13$ \quad D) $14$ \quad E) $15$
 
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_casework_accurato|Analisi accurata dei casi]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** C
 
 **Argomento:** [[topic_aritmetica|Aritmetica / Teoria dei numeri]], [[topic_combinatoria|Combinatoria]]
-
-**Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_casework|Analisi per casi]]
-
-**Abilità:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_casework_accurato|Analisi accurata dei casi]]
-
-[[Quesiti/src_obm_2003_n3_f1#q15|src_obm_2003_n3_f1__Q15]]
 
 
 
@@ -693,7 +670,7 @@ $$f(x;\, x) = x, \quad f(x;\, y) = f(y;\, x), \quad (x + y)\,f(x;\, y) = (2x + y
 > 
 > A) $\dfrac{1}{4}$ \quad B) $\dfrac{1}{4}$ \quad C) $\dfrac{\sqrt{3}}{4}$ \quad D) $\dfrac{\sqrt{3}}{12}$ \quad E) $\dfrac{3}{10}$
 
-![[src_obm_2003_n3_f1__q16.png]]
+![[src_obm_2003_n3_f1__Q16.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometria]]
 **Metodo:** [[method_trigonometria|Trigonometria]], [[method_coordinate|Coordinate]]
@@ -714,7 +691,7 @@ $$f(x;\, x) = x, \quad f(x;\, y) = f(y;\, x), \quad (x + y)\,f(x;\, y) = (2x + y
 >
 > A) $\dfrac{1}{4}$ \quad B) $\dfrac{1}{4}$ \quad C) $\dfrac{\sqrt{3}}{4}$ \quad D) $\dfrac{\sqrt{3}}{12}$ \quad E) $\dfrac{3}{10}$
 
-![[src_obm_2003_n3_f1__q16.png]]
+![[src_obm_2003_n3_f1__Q16.png]]
 
 **Risposta:** D
 
@@ -723,12 +700,11 @@ $$f(x;\, x) = x, \quad f(x;\, y) = f(y;\, x), \quad (x + y)\,f(x;\, y) = (2x + y
 **Metodo:** [[method_trigonometria|Trigonometria]], [[method_coordinate|Coordinate]]
 
 **Abilità:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
-
-[[Quesiti/src_obm_2003_n3_f1#q16|src_obm_2003_n3_f1__Q16]]
-
+**Area:** [[Geometria]]
 
 
-<span class="atom-split" id="q17" data-atom="q17" data-title="Quesito 17" data-tags="topic_algebra,topic_aritmetica,method_congruenze,method_casework,skill_modellizzazione,skill_manipolazione_algebrica"></span>
+
+<span class="atom-split" id="q17" data-atom="q17" data-title="Quesito 17" data-tags="topic_algebra,topic_aritmetica,method_congruenze,method_casework,skill_modellizzazione,skill_manipolazione_algebrica,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -741,8 +717,8 @@ $$f(x;\, x) = x, \quad f(x;\, y) = f(y;\, x), \quad (x + y)\,f(x;\, y) = (2x + y
 
 **Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_congruenze|Congruenze]], [[method_casework|Casework]]
-**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
-**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Risposta:** D
 **Fonte:** [apri PDF](https://drive.google.com/file/d/18AR9r0_71IxhGZW4AC9YMoNL6H_lGs5x/view)
 
@@ -756,19 +732,17 @@ $$f(x;\, x) = x, \quad f(x;\, y) = f(y;\, x), \quad (x + y)\,f(x;\, y) = (2x + y
 >
 > A) $20$ \quad B) $30$ \quad C) $45$ \quad D) $60$ \quad E) $75$
 
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei numeri]]
+**Metodo:** [[method_congruenze|Congruenze]], [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** D
 
 **Argomento:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei numeri]]
 
-**Metodo:** [[method_congruenze|Congruenze]], [[method_casework|Analisi per casi]]
-
-**Abilità:** [[skill_modellizzazione|Modellizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
-
-[[Quesiti/src_obm_2003_n3_f1#q17|src_obm_2003_n3_f1__Q17]]
 
 
-
-<span class="atom-split" id="q18" data-atom="q18" data-title="Quesito 18" data-tags="topic_logica,topic_aritmetica,method_backward,method_casework,skill_lettura_attenta,skill_ragionamento_geometrico,skill_stima"></span>
+<span class="atom-split" id="q18" data-atom="q18" data-title="Quesito 18" data-tags="topic_logica,topic_aritmetica,method_backward,method_casework,skill_lettura_attenta,skill_ragionamento_geometrico,skill_stima,skill_modellizzazione"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -781,8 +755,8 @@ $$f(x;\, x) = x, \quad f(x;\, y) = f(y;\, x), \quad (x + y)\,f(x;\, y) = (2x + y
 
 **Topic:** [[topic_logica|Logica]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_backward|Backward]], [[method_casework|Casework]]
-**Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_stima|Stima]]
-**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
+**Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_stima|Stima]], [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Risposta:** A
 **Fonte:** [apri PDF](https://drive.google.com/file/d/18AR9r0_71IxhGZW4AC9YMoNL6H_lGs5x/view)
 
@@ -796,15 +770,13 @@ $$f(x;\, x) = x, \quad f(x;\, y) = f(y;\, x), \quad (x + y)\,f(x;\, y) = (2x + y
 >
 > A) $15$ \quad B) $7$ \quad C) $15$ \quad D) $25$ \quad E) $45$
 
+**Topic:** [[topic_logica|Logica]], [[topic_aritmetica|Aritmetica / Teoria dei numeri]]
+**Metodo:** [[method_backward|Ragionamento all'indietro]], [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_stima|Stima]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** A
 
 **Argomento:** [[topic_logica|Logica]], [[topic_aritmetica|Aritmetica / Teoria dei numeri]]
-
-**Metodo:** [[method_backward|Ragionamento all'indietro]], [[method_casework|Analisi per casi]]
-
-**Abilità:** [[skill_lettura_attenta|Lettura attenta]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_stima|Stima]]
-
-[[Quesiti/src_obm_2003_n3_f1#q18|src_obm_2003_n3_f1__Q18]]
 
 
 
@@ -843,8 +815,7 @@ $$f(x;\, x) = x, \quad f(x;\, y) = f(y;\, x), \quad (x + y)\,f(x;\, y) = (2x + y
 **Metodo:** [[method_casework|Analisi per casi]], [[method_backward|Ragionamento all'indietro]]
 
 **Abilità:** [[skill_modellizzazione|Modellizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
-
-[[Quesiti/src_obm_2003_n3_f1#q19|src_obm_2003_n3_f1__Q19]]
+**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 
 
 
@@ -903,12 +874,11 @@ $$N = (n_2 - 5) + (n_2 - 4) + \cdots + (n_2 + 5)$$
 **Metodo:** [[method_congruenze|Congruenze]], [[method_casework|Analisi per casi]]
 
 **Abilità:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
-
-[[Quesiti/src_obm_2003_n3_f1#q20|src_obm_2003_n3_f1__Q20]]
-
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 
 
-<span class="atom-split" id="q21" data-atom="q21" data-title="Quesito 21" data-tags="topic_algebra,topic_aritmetica,method_disuguaglianze,skill_manipolazione_algebrica,skill_stima"></span>
+
+<span class="atom-split" id="q21" data-atom="q21" data-title="Quesito 21" data-tags="topic_algebra,topic_aritmetica,method_disuguaglianze,method_fattorizzazione,skill_manipolazione_algebrica,skill_stima"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -922,9 +892,9 @@ $$N = (n_2 - 5) + (n_2 - 4) + \cdots + (n_2 + 5)$$
 > A) $4$ \quad B) $6$ \quad C) $7$ \quad D) $8$ \quad E) $9$
 
 **Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_disuguaglianze|Disuguaglianze]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze]], [[method_fattorizzazione|Factorisation / algebraic manipulation]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]]
-**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Risposta:** D
 **Fonte:** [apri PDF](https://drive.google.com/file/d/18AR9r0_71IxhGZW4AC9YMoNL6H_lGs5x/view)
 
@@ -946,19 +916,17 @@ $$\frac{3^{2001} + 2^{2001}}{3^{2000} + 2^{2000}}$$
 >
 > A) $4$ \quad B) $6$ \quad C) $7$ \quad D) $8$ \quad E) $9$
 
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei numeri]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze]], [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]]
+**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** D
 
 **Argomento:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei numeri]]
 
-**Metodo:** [[method_disuguaglianze|Disuguaglianze]]
-
-**Abilità:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]]
-
-[[Quesiti/src_obm_2003_n3_f1#q21|src_obm_2003_n3_f1__Q21]]
 
 
-
-<span class="atom-split" id="q22" data-atom="q22" data-title="Quesito 22" data-tags="topic_geometria_piana,topic_algebra,method_casework,method_estremalita,method_disuguaglianze,skill_ragionamento_geometrico,skill_manipolazione_algebrica,skill_casework_accurato"></span>
+<span class="atom-split" id="q22" data-atom="q22" data-title="Quesito 22" data-tags="topic_geometria_piana,topic_algebra,topic_disuguaglianze,method_casework,method_estremalita,method_disuguaglianze,skill_ragionamento_geometrico,skill_manipolazione_algebrica,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -977,10 +945,10 @@ $$\frac{3^{2001} + 2^{2001}}{3^{2000} + 2^{2000}}$$
 > 
 > A) $1$ \quad B) $2$ \quad C) $3$ \quad D) $4$ \quad E) $5$
 
-**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_algebra|Algebra]]
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_algebra|Algebra]], [[topic_disuguaglianze|Inequalities]]
 **Metodo:** [[method_casework|Casework]], [[method_estremalita|Estremalità]], [[method_disuguaglianze|Disuguaglianze]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Casework accurato]]
-**Area:** [[Geometria]], [[Algebra e Analisi]]
+**Area:** [[Geometria|Geometry]], [[Algebra e Analisi|Algebra and analysis]]
 **Risposta:** A
 **Fonte:** [apri PDF](https://drive.google.com/file/d/18AR9r0_71IxhGZW4AC9YMoNL6H_lGs5x/view)
 
@@ -1002,16 +970,15 @@ $$\frac{3^{2001} + 2^{2001}}{3^{2000} + 2^{2000}}$$
 >
 > A) $1$ \quad B) $2$ \quad C) $3$ \quad D) $4$ \quad E) $5$
 
-**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_algebra|Algebra]]
+
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_algebra|Algebra]], [[topic_disuguaglianze|Disuguaglianze]]
 **Metodo:** [[method_casework|Casework]], [[method_estremalita|Estremalità]], [[method_disuguaglianze|Disuguaglianze]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Geometria]], [[Algebra e Analisi]]
 
-[[Quesiti/src_obm_2003_n3_f1#q22|src_obm_2003_n3_f1__Q22]]
 
 
-
-<span class="atom-split" id="q23" data-atom="q23" data-title="Quesito 23" data-tags="topic_aritmetica,topic_algebra,method_induzione,method_estremalita,skill_riconoscimento_pattern,skill_manipolazione_algebrica,skill_stima"></span>
+<span class="atom-split" id="q23" data-atom="q23" data-title="Quesito 23" data-tags="topic_aritmetica,topic_algebra,topic_funzionali,method_induzione,method_estremalita,skill_riconoscimento_pattern,skill_manipolazione_algebrica,skill_stima"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -1022,10 +989,10 @@ $$\frac{3^{2001} + 2^{2001}}{3^{2000} + 2^{2000}}$$
 > 
 > A) $2^{2003}$ \quad B) $4^{2003}$ \quad C) $2^{(2^{\cdots})}$ \quad D) $2^{(2^{2003})}$ \quad E) $2^{(2^{2004})}$
 
-**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]], [[topic_funzionali|Functional equations / sequences]]
 **Metodo:** [[method_induzione|Induzione]], [[method_estremalita|Estremalità]]
 **Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]]
-**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Algebra e Analisi|Algebra and analysis]]
 **Risposta:** E
 **Fonte:** [apri PDF](https://drive.google.com/file/d/18AR9r0_71IxhGZW4AC9YMoNL6H_lGs5x/view)
 
@@ -1039,16 +1006,15 @@ $$\frac{3^{2001} + 2^{2001}}{3^{2000} + 2^{2000}}$$
 >
 > A) $2^{2003}$ \quad B) $4^{2003}$ \quad C) $2^{(2^{\cdots})}$ \quad D) $2^{(2^{2003})}$ \quad E) $2^{(2^{2004})}$
 
-**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]], [[topic_funzionali|Equazioni funzionali / successioni]]
 **Metodo:** [[method_induzione|Induzione]], [[method_estremalita|Estremalità]]
 **Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 
-[[Quesiti/src_obm_2003_n3_f1#q23|src_obm_2003_n3_f1__Q23]]
 
 
-
-<span class="atom-split" id="q24" data-atom="q24" data-title="Quesito 24" data-tags="topic_insiemi_funzioni,topic_algebra,method_casework,method_estremalita,skill_manipolazione_algebrica,skill_astrazione,skill_casework_accurato"></span>
+<span class="atom-split" id="q24" data-atom="q24" data-title="Quesito 24" data-tags="topic_insiemi_funzioni,topic_algebra,topic_funzionali,method_casework,method_estremalita,skill_manipolazione_algebrica,skill_astrazione,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -1065,10 +1031,10 @@ $$\frac{3^{2001} + 2^{2001}}{3^{2000} + 2^{2000}}$$
 > D) There are exactly $4$ possible functions $f$.
 > E) There are infinitely many functions $f$.
 
-**Topic:** [[topic_insiemi_funzioni|Insiemi e funzioni]], [[topic_algebra|Algebra]]
+**Topic:** [[topic_insiemi_funzioni|Insiemi e funzioni]], [[topic_algebra|Algebra]], [[topic_funzionali|Functional equations / sequences]]
 **Metodo:** [[method_casework|Casework]], [[method_estremalita|Estremalità]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]], [[skill_casework_accurato|Casework accurato]]
-**Area:** [[Algebra e Analisi]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
 **Risposta:** E
 **Fonte:** [apri PDF](https://drive.google.com/file/d/18AR9r0_71IxhGZW4AC9YMoNL6H_lGs5x/view)
 
@@ -1088,16 +1054,15 @@ $$\frac{3^{2001} + 2^{2001}}{3^{2000} + 2^{2000}}$$
 > D) Ci sono esattamente $4$ funzioni possibili $f$.
 > E) Esistono infiniti funzioni $f$.
 
-**Topic:** [[topic_insiemi_funzioni|Insiemi e funzioni]], [[topic_algebra|Algebra]]
+
+**Topic:** [[topic_insiemi_funzioni|Insiemi e funzioni]], [[topic_algebra|Algebra]], [[topic_funzionali|Equazioni funzionali / successioni]]
 **Metodo:** [[method_casework|Casework]], [[method_estremalita|Estremalità]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Algebra e Analisi]]
 
-[[Quesiti/src_obm_2003_n3_f1#q24|src_obm_2003_n3_f1__Q24]]
 
 
-
-<span class="atom-split" id="q25" data-atom="q25" data-title="Quesito 25" data-tags="topic_geometria_piana,topic_trigonometria,method_trigonometria,method_coordinate,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
+<span class="atom-split" id="q25" data-atom="q25" data-title="Quesito 25" data-tags="topic_geometria_piana,topic_trigonometria,method_trigonometria,method_coordinate,skill_ragionamento_geometrico,skill_manipolazione_algebrica,skill_riconoscimento_pattern"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -1110,8 +1075,8 @@ $$\frac{3^{2001} + 2^{2001}}{3^{2000} + 2^{2000}}$$
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometria]]
 **Metodo:** [[method_trigonometria|Trigonometria]], [[method_coordinate|Coordinate]]
-**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
-**Area:** [[Geometria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Geometria|Geometry]]
 **Risposta:** C
 **Fonte:** [apri PDF](https://drive.google.com/file/d/18AR9r0_71IxhGZW4AC9YMoNL6H_lGs5x/view)
 
@@ -1125,9 +1090,8 @@ $$\frac{3^{2001} + 2^{2001}}{3^{2000} + 2^{2000}}$$
 >
 > A) $30$ \quad B) $40$ \quad C) $45$ \quad D) $60$ \quad E) $75$
 
+
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometria]]
 **Metodo:** [[method_trigonometria|Trigonometria]], [[method_coordinate|Coordinate]]
-**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Geometria]]
-
-[[Quesiti/src_obm_2003_n3_f1#q25|src_obm_2003_n3_f1__Q25]]

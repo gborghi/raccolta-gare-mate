@@ -10,21 +10,27 @@ level: squadre
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_combinatoria,method_conteggio,skill_casework_accurato"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_combinatoria,method_conteggio,skill_casework_accurato,skill_modellizzazione,skill_conteggio_sistematico"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
 
 *Modi di consumare colazione con vincoli alimentari*
 
-> Lo stemma di famiglia
-> Arcsenio Lupin/3 è il rampollo di un’illustre famiglia di ladri matematici. Da piccolo, Arcsenio amava disegnare e
-> colorare lo stemma di famiglia, che è a forma di pentagono. In quanti modi è possibile colorare i lati dello stemma,
-> usando i colori giallo, blu e rosso, in modo che lati consecutivi abbiano colori diversi?
+> Il buongiorno si vede dal mattino
+> Krull, Lucy Wiles e le loro tre figlie Maria, Gaetana ed Agnese si ritrovano ogni mattina per fare colazione
+> insieme. Di solito, ciascuno di loro mangia esattamente un cibo a scelta tra dei biscotti, un panino oppure una
+> mela e beve esattamente una bevanda a scelta tra latte, te e caffè. Purtroppo, Krull e Lucy devono sempre stare
+> attenti alle esigenze di tutti, infatti:
+> la piccola Agnese è intollerante al lattosio e non può bere il latte;
+> Maria non ha mai voglia di mangiare una mela;
+> Gaetana non vuole bere il latte se non è accompagnato dai biscotti.
+> Inoltre, Krull e Lucy decidono di lasciare mangiare sempre i biscotti ai loro figli perché ce ne sono pochi e lasciano
+> bere il caffè soltanto a Maria, oltre che a loro stessi. In quanti modi diversi può essere consumata la colazione?
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_conteggio|Conteggio combinatorio]]
-**Abilita:** [[skill_casework_accurato|Casework accurato]]
+**Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 2592
 **Fonte:** [apri PDF p.29](https://drive.google.com/file/d/1KvUMoRfSg-kBSEEK_tFxTN_6Gw6YuSNH/view)
@@ -35,31 +41,34 @@ level: squadre
 
 *Ways of having breakfast with dietary restrictions*
 
-> Arcsenio Lupin/3 is the scion of a distinguished family of mathematical thieves. As a child, Arcsenio loved drawing and coloring the family coat of arms, which is pentagonal. In how many ways can the sides of the coat of arms be colored using yellow, blue, and red so that consecutive sides have different colors?
+> The morning shows the day
+> Krull, Lucy Wiles and their three daughters Maria, Gaetana and Agnese get together every morning for breakfast. Usually, each of them eats exactly one food chosen among biscuits, a sandwich or an apple, and drinks exactly one drink chosen among milk, tea and coffee. Unfortunately, Krull and Lucy must always take everyone’s needs into account: little Agnese is lactose intolerant and cannot drink milk; Maria never feels like eating an apple; Gaetana does not want to drink milk unless it is accompanied by biscuits. Moreover, Krull and Lucy always let only their children eat the biscuits, because there are few of them, and they let only Maria drink coffee, besides themselves. In how many different ways can breakfast be eaten?
 
 **Topic:** [[topic_combinatoria|Combinatorics]]
 **Metodo:** [[method_conteggio|Combinatorial counting]]
-**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]], [[skill_modellizzazione|Modelling / translating the text]], [[skill_conteggio_sistematico|Systematic counting]]
 **Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
-[[Quesiti/src_squadre_2023_pubblico#q01|src_squadre_2023_pubblico__Q01]]
 
 
-
-<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_geometria_piana,method_coordinate"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_geometria_piana,method_coordinate,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
 
 *Distanza retta s dal centro di Gamma2, raggi 8 e 52*
 
-> Area massima
-> Il primo ad unirsi alle avventure di Lupin/3 è stato Jig∈N, abile pistolero e risolutore di quesiti. Ad esempio,
-> intanto che ricaricava ha determinato quale fosse la massima area che può avere un triangolo con il lato più corto
-> che misura 40 e con il lato più lungo che misura 101. Qual è?
+> Il sole del deserto
+> Krull incontra Vector, colui che è riuscito a rubare la piramide. Incuriosito, gli chiede come abbia fatto. Tronfio,
+> Vector gli risponde: «Devi immaginarti due circonferenze Γ1 e Γ2 rispettivamente di raggi 8 e 52, tangenti
+> esternamente nel punto P . Poi prendi r una retta tangente ad entrambe le circonferenze e sia Q il punto di
+> tangenza di r con Γ2 (che è diverso da P ). Presa R l’intersezione distinta da P tra la retta P Q e Γ1 , considera
+> poi s la retta tangente a Γ1 in R. Ti sarebbe chiaro come ci sono riuscito se tu sapessi quanto è distante la retta
+> s dal centro di Γ2 !». «Eeeeh? E come mi aiuterebbe a capirlo?». Rispondere con la distanza di s dal centro di Γ2 .
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_coordinate|Metodo delle coordinate]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 **Risposta:** 0036
 **Fonte:** [apri PDF p.29](https://drive.google.com/file/d/1KvUMoRfSg-kBSEEK_tFxTN_6Gw6YuSNH/view)
@@ -70,32 +79,33 @@ level: squadre
 
 *Straight-line distance s from the center of Gamma2, radii 8 and 52*
 
-> Maximum area The first to join Lupin/3's adventures was Jig∈N, a skilled gunslinger and puzzle-solver. For example, while reloading, he determined what the maximum area a triangle can have is, given that its shortest side measures 40 and its longest side measures 101. What is it?
+> The desert sun
+> Krull meets Vector, the one who managed to steal the pyramid. Intrigued, he asks him how he did it. Vector, puffed up, answers: “You must imagine two circles $\Gamma_1$ and $\Gamma_2$ of radii 8 and 52 respectively, tangent externally at the point $P$. Then take a line $r$ tangent to both circles, and let $Q$ be the point of tangency of $r$ with $\Gamma_2$ (different from $P$). Let $R$ be the intersection, other than $P$, of the line $PQ$ with $\Gamma_1$, and then let $s$ be the line tangent to $\Gamma_1$ at $R$. It would be clear to you how I managed it if you knew how far the line $s$ is from the centre of $\Gamma_2$!” “Huh? And how would that help me understand?” Give as the answer the distance of $s$ from the centre of $\Gamma_2$.
 
 **Topic:** [[topic_geometria_piana|Plane geometry]]
 **Metodo:** [[method_coordinate|Coordinate method]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
 **Area:** [[Geometria|Geometry]]
 
-[[Quesiti/src_squadre_2023_pubblico#q02|src_squadre_2023_pubblico__Q02]]
 
 
-
-<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_algebra,method_telescoping"></span>
+<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_algebra,method_telescoping,method_fattorizzazione,skill_manipolazione_algebrica,skill_riconoscimento_pattern"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
 
 *Valore somma di frazioni 1/(k^2-4) tipo telescopica*
 
-> Per scappare da Zenonigata
-> L’ispettore Zenonigata ha votato la propria carriera alla cattura di Lupin/3. Forse stavolta ce l’ha fatta: la zattera
-> di Lupin/3 (un quadrato di lato ℓ) ha un lato incollato ad un lato della zattera di Zenonigata (un quadrato più
-> grande, di lato 1100). L’unica possibilità per Lupin/3 di farla franca sarebbe quella di calcolare la lunghezza di ℓ,
-> sapendo che la circonferenza circoscritta alla zattera di Zenonigata passa anche per i due vertici della zattera di
-> Lupin/3 che non giacciono sull’altra zattera. Sfortunatamente per l’ispettore, Lupin/3 fugge. Quanto vale ℓ?
+> Noooo la piramide
+> Sul triste terreno era incisa la seguente espressione:
+> $$
+> \frac{1}{3^{2}-4}+\frac{1}{7^{2}-4}+\frac{1}{11^{2}-4}+\cdots+\frac{1}{95^{2}-4}+\frac{1}{99^{2}-4}.
+> $$
+> Quanto valeva? Rispondere con la somma di numeratore e denominatore della frazione ridotta ai minimi termini.
 
 **Topic:** [[topic_algebra|Algebra]]
-**Metodo:** [[method_telescoping|Somme telescopiche]]
+**Metodo:** [[method_telescoping|Somme telescopiche]], [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Algebra e Analisi]]
 **Risposta:** 0126
 **Fonte:** [apri PDF p.29](https://drive.google.com/file/d/1KvUMoRfSg-kBSEEK_tFxTN_6Gw6YuSNH/view)
@@ -106,33 +116,38 @@ level: squadre
 
 *Value of the sum of fractions of the form 1/(k^2-4) with a telescoping pattern*
 
-> To escape from Zenonigata: Inspector Zenonigata has staked his career on capturing Lupin/3. Perhaps this time he has succeeded: Lupin/3's raft (a square with side length ℓ) has one side glued to one side of Zenonigata's raft (a larger square with side length 1100). The only way Lupin/3 could get away with it would be to calculate the length of ℓ, knowing that the circumcircle of Zenonigata's raft also passes through the two vertices of Lupin/3's raft that do not lie on the other raft. Unfortunately for the inspector, Lupin/3 is escaping. What is the value of ℓ?
+> Noooo the pyramid
+> Krull arrived at the place where the pyramid had been stolen. On the sad ground the following expression was carved:
+> $$
+> \frac{1}{3^{2}-4}+\frac{1}{7^{2}-4}+\frac{1}{11^{2}-4}+\cdots+\frac{1}{95^{2}-4}+\frac{1}{99^{2}-4}.
+> $$
+> What was its value? Give as the answer the sum of the numerator and the denominator of the fraction reduced to lowest terms.
 
 **Topic:** [[topic_algebra|Algebra]]
-**Metodo:** [[method_telescoping|Telescoping sums]]
+**Metodo:** [[method_telescoping|Telescoping sums]], [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_riconoscimento_pattern|Pattern recognition]]
 **Area:** [[Algebra e Analisi|Algebra and analysis]]
 
-[[Quesiti/src_squadre_2023_pubblico#q03|src_squadre_2023_pubblico__Q03]]
 
 
-
-<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_funzionali,method_conteggio"></span>
+<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_funzionali,topic_algebra,method_conteggio,method_casework,skill_manipolazione_algebrica,skill_casework_accurato,skill_riconoscimento_pattern"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
 
 *Somma f(2023) per polinomi con f(x^2)=f(2x-1)+f(x)^2*
 
-> Cassette di sicurezza
-> Le cassette di sicurezza della banca che Lupin/3 sta rapinando sono disposte come una scacchiera 9×9 (messa in
-> verticale) dalla quale sono state rimosse tutte le caselle strettamente sopra la diagonale che va da in alto a sinistra
-> a in basso a destra. Lupin sa che ogni cassetta contiene un numero intero di milioni di dollari compreso tra 1 e 9,
-> estremi inclusi; inoltre, ogni numero compare un numero diverso di volte ed in modo che ogni cassetta contenga un
-> numero strettamente maggiore rispetto alla cassetta sottostante (se c’è una cassetta) e maggiore o uguale rispetto
-> alla cassetta alla sua sinistra (se c’è). In quanti modi possono essere disposti i soldi?
+> Segui le stelle
+> Krull sconsolato guardò il cielo e si ricordò di una celebre frase «Se tu segui tua stella non puoi fallire a glorioso
+> porto». Ciò gli diede l’ispirazione per trovare tutti i polinomi f a coefficienti reali tali che
+>
+> f (x2 ) = f (2x − 1) + (f (x))2 .
+>
+> Quanto vale la somma dei possibili valori di f (2023)?
 
-**Topic:** [[topic_funzionali|Equazioni funzionali / successioni]]
-**Metodo:** [[method_conteggio|Conteggio combinatorio]]
+**Topic:** [[topic_funzionali|Equazioni funzionali / successioni]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_conteggio|Conteggio combinatorio]], [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Casework accurato]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Algebra e Analisi]]
 **Risposta:** 2022
 **Fonte:** [apri PDF p.29](https://drive.google.com/file/d/1KvUMoRfSg-kBSEEK_tFxTN_6Gw6YuSNH/view)
@@ -143,31 +158,37 @@ level: squadre
 
 *Sum of f(2023) for polynomials satisfying f(x^2)=f(2x-1)+f(x)^2*
 
-> Safety deposit boxes: The bank's safety deposit boxes that Lupin/3 is robbing are arranged in a 9×9 chessboard pattern (oriented vertically), from which all squares strictly above the diagonal running from the top left to the bottom right have been removed. Lupin knows that each box contains an integer number of millions of dollars ranging from 1 to 9 inclusive; moreover, each number appears a different number of times, and the arrangement is such that each box contains a number strictly greater than that in the box below it (if there is a box below) and greater than or equal to that in the box to its left (if there is a box to the left). In how many ways can the money be arranged?
+> Follow the stars
+> Krull looked up at the sky in dismay and remembered a famous line: “If you follow your star, you cannot fail to reach a glorious harbour.” This inspired him to find all polynomials $f$ with real coefficients such that
+> $$
+> f(x^{2})=f(2x-1)+(f(x))^{2}.
+> $$
+> What is the sum of the possible values of $f(2023)$?
 
-**Topic:** [[topic_funzionali|Functional equations / sequences]]
-**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Topic:** [[topic_funzionali|Functional equations / sequences]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_conteggio|Combinatorial counting]], [[method_casework|Case analysis]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_casework_accurato|Careful case analysis]], [[skill_riconoscimento_pattern|Pattern recognition]]
 **Area:** [[Algebra e Analisi|Algebra and analysis]]
 
-[[Quesiti/src_squadre_2023_pubblico#q04|src_squadre_2023_pubblico__Q04]]
 
 
-
-<span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_probabilita,method_simmetria"></span>
+<span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_probabilita,method_simmetria,skill_modellizzazione,skill_riconoscimento_pattern,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
 
 *Valori N>337 con prob uguale a 337 lanciando k dadi*
 
-> Non scrivibilità
-> Goemetrikon è un abile samaterai che alterna la fidata katana alla risoluzione di quesiti matematici. L’ultimo che
-> ha risolto è il seguente: siano a e b interi positivi tali che 2069 sia il più grande numero che non può essere scritto
-> come somma di un multiplo (non negativo) di a e di un multiplo (non negativo) di b. Quanto vale, come minimo,
-> ab? Dopo averlo visto all’opera, Lupin/3 lo vuole nella propria banda.
+> Trucchi gialli segreti
+> Krull chiede aiuto al Dr. Nefarey per rubare la luna. Il Dr. Nefarey sa che il trucco è conoscere il numero N
+> con la seguente proprietà. Se lanciando dadi a 6 facce si vuole ottenere una somma pari a N , allora occorre
+> lanciarne almeno k. Il trucco funziona solo se, lanciando esattamente k dadi, la probabilità di ottenere N è la
+> stessa di ottenere 337. Sapendo che N > 337, quali sono i possibili valori del trucco del Dr. Nefarey? Fornire
+> come risposta la somma del più grande e del più piccolo N .
 
 **Topic:** [[topic_probabilita|Probabilita e statistica]]
 **Metodo:** [[method_simmetria|Sfruttamento della simmetria]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 4009
 **Fonte:** [apri PDF p.29](https://drive.google.com/file/d/1KvUMoRfSg-kBSEEK_tFxTN_6Gw6YuSNH/view)
@@ -178,30 +199,34 @@ level: squadre
 
 *Value N>337 with probability equal to 337 when rolling k dice*
 
-> Non-writability: Goemetrikon is a skilled samaterai who alternates between his trusted katana and solving math problems. The latest one he solved is as follows: let a and b be positive integers such that 2069 is the largest number that cannot be written as the sum of a (non-negative) multiple of a and a (non-negative) multiple of b. What is the minimum value of ab? After seeing him in action, Lupin/3 wants him in his gang.
+> Secret yellow tricks
+> Krull asks Dr. Nefarey for help in stealing the moon. Dr. Nefarey knows that the trick is to know the number $N$ with the following property. If, by rolling standard 6-sided dice, one wants to obtain a sum equal to $N$, then one must roll at least $k$ of them. The trick works only if, when rolling exactly $k$ dice, the probability of obtaining $N$ is the same as that of obtaining 337. Knowing that $N>337$, what are the possible values of Dr. Nefarey’s trick? Give as the answer the sum of the largest and the smallest such $N$.
 
 **Topic:** [[topic_probabilita|Probability and statistics]]
 **Metodo:** [[method_simmetria|Using symmetry]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]], [[skill_riconoscimento_pattern|Pattern recognition]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
 **Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
-[[Quesiti/src_squadre_2023_pubblico#q05|src_squadre_2023_pubblico__Q05]]
 
 
-
-<span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_aritmetica"></span>
+<span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_aritmetica,topic_algebra,topic_disuguaglianze,method_fattorizzazione,method_disuguaglianze,method_casework,skill_manipolazione_algebrica,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
 
 *Valori n con 8n^3+11n^2+16n-20 cubo perfetto, somma*
 
-> Sporcarsi le mani
-> Goemetrikon: «Mi unirò a voi se dimostrerete di non aver paura di sporcarvi le mani. . . nel fare i conti. Mi sapreste
-> dire quanto vale 20233 −3·20223 +3·20213 −20203?».
-> Lupin/3: «Dammi un attimo. . . ». Qual è la risposta al quesito di Goemetrikon?
+> Burle infantili
+> Kelvin e Stewart giocano tra di loro facendo molto baccano quando arriva Bob e dice loro “Smettetela di oziare, determinate invece i valori dell’intero positivo $n$ tali che
+> $$
+> 8n^{3}+11n^{2}+16n-20
+> $$
+> è un cubo perfetto.” Quanto vale la somma dei valori ottenuti da Kelvin e Stewart?
 
-**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Area:** [[Aritmetica e Teoria dei Numeri]]
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]], [[topic_disuguaglianze|Disuguaglianze]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]], [[method_disuguaglianze|Disuguaglianze classiche]], [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 **Risposta:** 0010
 **Fonte:** [apri PDF p.29](https://drive.google.com/file/d/1KvUMoRfSg-kBSEEK_tFxTN_6Gw6YuSNH/view)
 
@@ -211,29 +236,38 @@ level: squadre
 
 *Values of n for which 8n^3+11n^2+16n-20 is a perfect cube, sum*
 
-> Goemetrikon getting his hands dirty: "I'll join you if you can prove that you're not afraid to get your hands dirty... when doing the calculations. Could you tell me what 20233 − 3·20223 + 3·20213 − 20203 equals?" Lupin/3: "Give me a moment..." What is the answer to Goemetrikon's question?
+> Childish pranks
+> Kelvin and Stewart are playing noisily when Bob arrives and tells them: “Stop idling, and instead determine the values of the positive integer $n$ such that
+> $$
+> 8n^{3}+11n^{2}+16n-20
+> $$
+> is a perfect cube.” What is the sum of the values obtained by Kelvin and Stewart?
 
-**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
-**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_algebra|Algebra]], [[topic_disuguaglianze|Inequalities]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]], [[method_disuguaglianze|Classical inequalities]], [[method_casework|Case analysis]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Algebra e Analisi|Algebra and analysis]]
 
-[[Quesiti/src_squadre_2023_pubblico#q06|src_squadre_2023_pubblico__Q06]]
 
 
-
-<span class="atom-split" id="q07" data-atom="q07" data-title="Quesito 7" data-tags="topic_combinatoria,method_casi_conteggio"></span>
+<span class="atom-split" id="q07" data-atom="q07" data-title="Quesito 7" data-tags="topic_combinatoria,topic_aritmetica,method_casi_conteggio,skill_conteggio_sistematico,skill_manipolazione_algebrica,skill_riconoscimento_pattern"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
 
 *Massimo k con 2^k divide max|a(n)-b(n)| sottoinsiemi*
 
-> Lupin/3 si innamora
-> Lupin/3 è innamorato della bella FujIt¯o, una ladra che lo ha ammaliato rispondendo quasi all’istante al seguente
-> quesito: quanto vale la somma mcm(1,8)+mcm(2,8)+...+mcm(136,8)?
+> SOS
+> Krull: «Dr. Nefarey, ho bisogno di aiuto. Sia M = {1, 2, ..., 2040} e per ogni intero compreso tra 1 e 2040 sia
+> a(n) il numero di sottoinsiemi di M con al più n elementi e con un numero pari di elementi, e sia b(n) il numero
+> di sottoinsiemi di M con al più n elementi e con un numero dispari di elementi. Qual è il massimo esponente k
+> tale che 2k divide il massimo di |a(n) − b(n)| al variare di n?»
+> Dr. Nefarey: «Eh?»
 
-**Topic:** [[topic_combinatoria|Combinatoria]]
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_casi_conteggio|Conteggio per casi]]
-**Area:** [[Combinatoria, Logica e Probabilita]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 0007
 **Fonte:** [apri PDF p.29](https://drive.google.com/file/d/1KvUMoRfSg-kBSEEK_tFxTN_6Gw6YuSNH/view)
 
@@ -243,34 +277,36 @@ level: squadre
 
 *Massimo k such that 2^k divides max|a(n)-b(n)| subsets*
 
-> Lupin/3 falls in love. Lupin/3 is in love with the beautiful FujIt¯o, a thief who has enchanted him by answering almost instantly the following question: what is the value of mcm(1,8)+mcm(2,8)+...+mcm(136,8)?
+> SOS
+> Krull: “Dr. Nefarey, I need help. Let $M=\{1,2,\ldots,2040\}$ and for every integer $n$ between 1 and 2040 let $a(n)$ be the number of subsets of $M$ with at most $n$ elements and with an even number of elements, and let $b(n)$ be the number of subsets of $M$ with at most $n$ elements and with an odd number of elements. What is the largest exponent $k$ such that $2^{k}$ divides the maximum of $|a(n)-b(n)|$ as $n$ varies?”
+> Dr. Nefarey: “Eh?”
 
-**Topic:** [[topic_combinatoria|Combinatorics]]
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_aritmetica|Arithmetic / Number theory]]
 **Metodo:** [[method_casi_conteggio|Counting by cases]]
-**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
-
-[[Quesiti/src_squadre_2023_pubblico#q07|src_squadre_2023_pubblico__Q07]]
-
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]], [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
 
-<span class="atom-split" id="q08" data-atom="q08" data-title="Quesito 8" data-tags="topic_geometria_piana,method_inclusione_esclusione"></span>
+
+<span class="atom-split" id="q08" data-atom="q08" data-title="Quesito 8" data-tags="topic_geometria_piana,topic_trigonometria,method_inclusione_esclusione,method_simmetria,method_trigonometria,skill_ragionamento_geometrico,skill_modellizzazione"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
 
 *Lunghezza percorso triangolare riflesso, BCD=54 gradi*
 
-> M’ama non m’ama
-> C’è chi sfoglia le margherite per sapere se il proprio amore è corrisposto, Lupin/3 preferisce invece affidarsi a questo
-> gioco: estrae tre palline da un sacchetto contenente 9 palline numerate da 1 a 9. Ogni volta che estrae una pallina
-> segna il numero e poi la reinserisce nel sacchetto. Se il massimo comun divisore (MCD) di questi 3 numeri è 1
-> allora la bella FujIt¯o contraccambia il suo amore, altrimenti non è ricambiato. Qual è la probabilità che Lupin/3
-> Gara a Squadre 2023 – Semifinale 1 – Testi dei problemi – 1/2
-> 
-> sia corrisposto? Rispondere con la somma di numeratore e denominatore della frazione ridotta ai minimi termini.
+> Giochi pericolosi
+> Kelvin sta portando il raggio restringente nel locale di sicurezza, che è una stanza con le pareti a specchio. La
+> planimetria della stanza è un quadrilatero ABCD tale che ABC  ! = 90◦ , CDA
+> ! = 90◦ , BCD! = 54◦ , BC = 3, 56m
+> e BD = 3, 24m. Kelvin è nel vertice A e giocando con il raggio restringente accidentalmente spara puntando sul
+> lato BC, parallelamente al pavimento e il raggio, dopo aver colpito una volta la parete BC e una volta la parete
+> CD, torna di nuovo sul punto A, chiudendo un percorso triangolare e restringendo lo sprovveduto Kelvin. Qual
+> è la lunghezza complessiva percorsa dal raggio, in cm?
 
-**Topic:** [[topic_geometria_piana|Geometria piana]]
-**Metodo:** [[method_inclusione_esclusione|Inclusione-esclusione]]
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometria]]
+**Metodo:** [[method_inclusione_esclusione|Inclusione-esclusione]], [[method_simmetria|Sfruttamento della simmetria]], [[method_trigonometria|Tecniche trigonometriche]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
 **Area:** [[Geometria]]
 **Risposta:** 0648
 **Fonte:** [apri PDF p.29](https://drive.google.com/file/d/1KvUMoRfSg-kBSEEK_tFxTN_6Gw6YuSNH/view)
@@ -281,35 +317,36 @@ level: squadre
 
 *Length of the reflected triangular path, BCD=54 degrees*
 
-> Love Me, Don't Love Me Some people petal a daisy to find out whether their love is reciprocated; Lupin/3, however, prefers to rely on this game: he draws three balls from a bag containing 9 balls numbered from 1 to 9. Each time he draws a ball, he records the number and then puts the ball back in the bag. If the greatest common divisor (GCD) of these 3 numbers is 1, then the beautiful FujIt¯o returns his love; otherwise, his love is not reciprocated. What is the probability that Lupin/3 Team Competition 2023 – Semifinal 1 – Problem Statements – 1/2
->
-> Has it been paid? Respond with the sum of the numerator and denominator of the fraction reduced to its lowest terms.
+> Dangerous games
+> Kelvin is taking the shrinking ray into the security room, which is a room with mirrored walls. The floor plan of the room is a quadrilateral $ABCD$ such that $\angle ABC=90^{\circ}$, $\angle CDA=90^{\circ}$, $\angle BCD=54^{\circ}$, $BC=3.56\,\mathrm{m}$ and $BD=3.24\,\mathrm{m}$. Kelvin is at vertex $A$ and, playing with the shrinking ray, accidentally fires towards side $BC$, parallel to the floor; the ray, after hitting wall $BC$ once and wall $CD$ once, returns to the point $A$, closing a triangular path and shrinking the unfortunate Kelvin. What is the total length travelled by the ray, in cm?
 
-**Topic:** [[topic_geometria_piana|Plane geometry]]
-**Metodo:** [[method_inclusione_esclusione|Inclusion–exclusion]]
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_trigonometria|Trigonometry]]
+**Metodo:** [[method_inclusione_esclusione|Inclusion–exclusion]], [[method_simmetria|Using symmetry]], [[method_trigonometria|Trigonometric techniques]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_modellizzazione|Modelling / translating the text]]
 **Area:** [[Geometria|Geometry]]
 
-[[Quesiti/src_squadre_2023_pubblico#q08|src_squadre_2023_pubblico__Q08]]
 
 
-
-<span class="atom-split" id="q09" data-atom="q09" data-title="Quesito 9" data-tags="topic_aritmetica,method_congruenze"></span>
+<span class="atom-split" id="q09" data-atom="q09" data-title="Quesito 9" data-tags="topic_aritmetica,topic_funzionali,method_congruenze,method_ricorsione,method_fattorizzazione,skill_riconoscimento_pattern,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
 
 *Resto mod 2023 di somma 2^(2 x_k) con ricorrenza cubica*
 
-> Sei porte in sequenza
-> Lupin/3 e la sua banda vogliono rubare il prototipo di un nuovo computer quantistico. Devono superare in sequenza
-> sei porte. Ogni porta ha come codice di accesso un numero intero compreso tra 0 e 18 estremi inclusi. Hanno
-> scoperto che la somma dei codici di due porte consecutive è un numero che diviso per 19 dà resto 3. Questa
-> proprietà vale per la prima e la seconda porta, per la seconda e la terza, e così via ma anche per la sesta e la prima
-> porta. Quante sono le sequenze di sei codici che soddisfano queste condizioni?
+> Quesito molesto [!]
+> Krull: «Niente, niente, niente quesiti molesti. Chiaro?»
+> Agnese: «Questo vale come molesto? Sia $x_{n}$ una successione tale che $x_{0}=1$ e $x_{n+1}=x_{n}^{3}+3x_{n}^{2}+2x_{n}$. Determinare il resto della divisione per 2023 di
+> $$
+> \sum_{k=0}^{2024} 2^{2x_{k}}.
+> $$»
+> Krull: «Molto».
+> Qual è la risposta al quesito di Agnese?
 
-**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]]
-**Area:** [[Aritmetica e Teoria dei Numeri]]
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_funzionali|Equazioni funzionali / successioni]]
+**Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]], [[method_ricorsione|Ricorsione]], [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 **Risposta:** 1756
 **Fonte:** [apri PDF p.30](https://drive.google.com/file/d/1KvUMoRfSg-kBSEEK_tFxTN_6Gw6YuSNH/view)
 
@@ -319,33 +356,38 @@ level: squadre
 
 *Remainder mod 2023 of the sum 2^(2 x_k) with cubic recurrence*
 
-> Lupin/3 and his gang want to steal the prototype of a new quantum computer. They must pass through six gates in sequence. Each gate has an access code that is an integer between 0 and 18, inclusive. They have discovered that the sum of the codes of two consecutive gates is a number that leaves a remainder of 3 when divided by 19. This property holds for the first and second gates, for the second and third, and so on, but also for the sixth and first gates. How many sequences of six codes satisfy these conditions?
+> A pesky question [!]
+> Krull: “No, no, no pesky questions. Clear?”
+> Agnese: “Does this count as pesky? Let $x_{n}$ be a sequence such that $x_{0}=1$ and $x_{n+1}=x_{n}^{3}+3x_{n}^{2}+2x_{n}$. Determine the remainder modulo 2023 of
+> $$
+> \sum_{k=0}^{2024} 2^{2x_{k}}.
+> $$”
+> Krull: “Very.”
+> What is the answer to Agnese’s question?
 
-**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
-**Metodo:** [[method_congruenze|Modular arithmetic / congruences]]
-**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
-
-[[Quesiti/src_squadre_2023_pubblico#q09|src_squadre_2023_pubblico__Q09]]
-
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_funzionali|Functional equations / sequences]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]], [[method_ricorsione|Recursion]], [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Algebra e Analisi|Algebra and analysis]]
 
 
-<span class="atom-split" id="q10" data-atom="q10" data-title="Quesito 10" data-tags="topic_geometria_piana,method_coordinate"></span>
+
+<span class="atom-split" id="q10" data-atom="q10" data-title="Quesito 10" data-tags="topic_geometria_piana,method_coordinate,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
 
 *AS per dividere triangolo equilatero in 4 aree uguali*
 
-> Lavoro di squadra
-> Lupin/3 è riuscito a mettere le mani sullo scudo di Volpe Nera dove è incastonato il prezioso diamante Regina
-> d’Africa. Lo scudo è un quadrato ABCD. Jig∈N scalfisce i lati del quadrato, un proiettile per ogni lato: A′ sul
-> lato AB tale che 2AA′ = A′B e, ciclicamente anche B′ sul lato BC tale che 2BB′ = B′C, analogamente C′ e D′.
-> Goemetrikon esegue quattro tagli netti lungo DA′, AB′, BC′ e CD′ staccando così il diamante centrale dal resto
-> dello scudo. Quanto vale il rapporto tra l’area del diamante e quella dello scudo iniziale? Rispondere con la somma
-> di numeratore e denominatore della frazione ridotta ai minimi termini.
+> Triangoli gialli [!]
+> Maria disegna un triangolo equilatero ABC di lato 100 e Gaetana traccia una retta che interseca i lati AB e
+> BC in P e Q rispettivamente, con AP = 25. In questo modo, il triangolo ABC viene tagliato in due parti aventi
+> la stessa area. Agnese vuole tracciare una seconda retta RS, con R in AB e S in AC, in modo che ABC risulti
+> diviso in 4 poligoni aventi la stessa area. Quanto deve valere AS?
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_coordinate|Metodo delle coordinate]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 **Risposta:** 0053
 **Fonte:** [apri PDF p.30](https://drive.google.com/file/d/1KvUMoRfSg-kBSEEK_tFxTN_6Gw6YuSNH/view)
@@ -356,40 +398,32 @@ level: squadre
 
 *How to divide an equilateral triangle into 4 equal areas*
 
-> Teamwork: Lupin/3 managed to get hold of the Black Fox Shield, in which the precious Queen of Africa diamond is set. The shield is a square ABCD. Jig∈N scores the sides of the square—one projectile per side: A′ on side AB such that 2AA′ = A′B, and cyclically also B′ on side BC such that 2BB′ = B′C, similarly C′ and D′. Goemetrikon makes four clean cuts along DA′, AB′, BC′, and CD′, thereby separating the central diamond from the rest of the shield. What is the ratio of the area of the diamond to the area of the initial shield? Answer with the sum of the numerator and denominator of the fraction in lowest terms.
+> Yellow triangles [!]
+> Maria draws an equilateral triangle $ABC$ of side 100 and Gaetana draws a line that intersects the sides $AB$ and $BC$ at $P$ and $Q$ respectively, with $AP=25$. In this way triangle $ABC$ is cut into two parts of equal area. Agnese wants to draw a second line $RS$, with $R$ on $AB$ and $S$ on $AC$, so that $ABC$ is divided into 4 polygons of equal area. What must $AS$ be?
 
 **Topic:** [[topic_geometria_piana|Plane geometry]]
 **Metodo:** [[method_coordinate|Coordinate method]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
 **Area:** [[Geometria|Geometry]]
 
-[[Quesiti/src_squadre_2023_pubblico#q10|src_squadre_2023_pubblico__Q10]]
 
 
-
-<span class="atom-split" id="q11" data-atom="q11" data-title="Quesito 11" data-tags="topic_aritmetica,method_congruenze"></span>
+<span class="atom-split" id="q11" data-atom="q11" data-title="Quesito 11" data-tags="topic_aritmetica,method_congruenze,method_fattorizzazione,method_casework,skill_manipolazione_algebrica,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
 
 *n+B per coppie coprime con a|b^2+5 e b|a^2+5*
 
-> La disciplina del samaterai [⋆]
-> Goemetrikon è diventato un samaterai grazie a disciplina ferrea e quesiti di geometria. Anni fa risolse questo: sia Γ
-> una circonferenza di centro O, e sia r una retta tangente ad essa nel punto T. Siano A un punto appartenente a
-> r distinto da T, e B e C le intersezioni della retta OA con Γ tali che AB<AC. Siano M un punto sul segmento
-> OC e R l’intersezione della retta TM con Γ distinta da T. Infine, siano S un punto sull’arco di estremi TC non
-> contenente B tale che !
-> MAT = "
-> RTS, F un punto sul segmento BS tale che "
-> ATS + "
-> BFT = 180°, e Q l’intersezione
-> dei segmenti BC e RS. Sapendo che QR
-> RM = 8
-> 13, BS = 33 e TF = 18, determinare il rapporto delle aree dei triangoli
-> BMF e BSQ. Rispondere con la somma di numeratore e denominatore della frazione ridotta ai minimi termini.
+> Il quesito di Agnese [!!]
+> Agnese: «Krull, un quesito per te!»
+> Krull: «Oh, no, ancora!»
+> Agnese: «Consideriamo le coppie (a, b) di interi positivi coprimi, con a ≤ b < 500, tali che a | b2 + 5 e b | a2 + 5.
+> Sia n il numero di tali coppie e B il massimo numero che compare in una di queste coppie. Quanto vale n + B?»
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]]
+**Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]], [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]], [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 0340
 **Fonte:** [apri PDF p.30](https://drive.google.com/file/d/1KvUMoRfSg-kBSEEK_tFxTN_6Gw6YuSNH/view)
@@ -400,69 +434,35 @@ level: squadre
 
 *n+B for coprime pairs with a|b^2+5 and b|a^2+5*
 
-> The discipline of samaterai [⋆] Goemetrikon became a samaterai thanks to iron discipline and geometry problems. Years ago, it solved this: let Γ be a circle with centre O, and let r be a line tangent to Γ at point T. Let A be a point on r distinct from T, and let B and C be the intersections of line OA with Γ such that AB < AC. Let M be a point on segment OC and R be the intersection of line TM with Γ distinct from T. Finally, let S be a point on the arc with endpoints T and C that does not contain B, such that ∠MAT = ∠RTS; let F be a point on segment BS such that ∠ATS + ∠BFT = 180°; and let Q be the intersection of segments BC and RS. Given that QR/RM = 8/13, BS = 33, and TF = 18, determine the ratio of the areas of triangles BMF and BSQ. Answer with the sum of the numerator and denominator of the fraction reduced to lowest terms.
+> Agnese’s question [!!]
+> Agnese: “Krull, a question for you!”
+> Krull: “Oh no, not again!”
+> Agnese: “Consider the pairs $(a,b)$ of coprime positive integers, with $a\le b<500$, such that $a$ divides $b^{2}+5$ and $b$ divides $a^{2}+5$. Let $n$ be the number of such pairs and $B$ the largest number that appears in one of these pairs. What is $n+B$?”
 
 **Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
-**Metodo:** [[method_congruenze|Modular arithmetic / congruences]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]], [[method_fattorizzazione|Factorisation / algebraic manipulation]], [[method_casework|Case analysis]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_casework_accurato|Careful case analysis]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
-[[Quesiti/src_squadre_2023_pubblico#q11|src_squadre_2023_pubblico__Q11]]
 
 
-
-<span class="atom-split" id="q12" data-atom="q12" data-title="Quesito 12" data-tags="topic_algebra,method_disuguaglianze"></span>
+<span class="atom-split" id="q12" data-atom="q12" data-title="Quesito 12" data-tags="topic_algebra,method_disuguaglianze,method_fattorizzazione,skill_lettura_attenta,skill_manipolazione_algebrica,skill_riconoscimento_pattern"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
 
 *f(11) con f ottenuta da (x-1)^9 modificando i termini*
 
-> Malanni matematici [⋆]
-> Jig∈N: «Hai letto che nelle città di MathVillain ed EstPonente quest’anno la sin(usite) è stata più forte del solito?».
-> Goemetrikon: «Sì. La percentuale di ammalati su tutta la popolazione a MathVillain è stata l’8%, mentre ad
-> EstPonente è stata del 10%.».
-> Jig∈N: «Inoltre, tra gli under 50 la percentuale di ammalati a MathVillain è stata doppia che ad EstPonente, ed
-> anche nella fascia over 50 è stato riscontrato lo stesso rapporto.».
-> Goemetrikon: «Com’è possibile? Non c’è una contraddizione?».
-> Jig∈N: «No. Sapendo che entrambe le città sono giovani, cioè gli under 50 sono almeno tanti quanti gli over 50,
-> quanto è al minimo il rapporto tra gli under 50 mathvillani e il totale della popolazione di MathVillain?».
-> Rispondere con la somma di numeratore e denominatore della frazione ridotta ai minimi termini.
-> 13. Colpo al museo
-> Per progettare il colpo perfetto occorre conoscere perfettamente il luogo. Lupin/3, Jig∈N e Goemetrikon studiano
-> la mappa della stanza del museo da cui faranno sparire una famosa statua. La stanza è un triangolo ABC isoscele
-> di base AB. Le tre porte della stanza si trovano in M, il punto medio di BC, in F, il piede dell’altezza relativa a B
-> e in E, punto su AB tale che EB ∼= BM. Sanno inoltre che per B,E,F,M passa una circonferenza. Per riuscire a
-> eludere la videosorveglianza, è importante conoscere l’ampiezza degli angoli di ABC. Quanto vale !
-> ACB?
-> 14. La Massima Comun Combinazione [⋆]
-> Goemetrikon: «Ecco la cassaforte! Il codice che la apre è il massimo comun divisore di tutti i numeri della forma
-> 1n +2n +3n +··+999n dove n è un intero positivo. . . ».
-> Jig∈N: «Accidenti, non abbiamo tempo di calcolare infiniti numeri!». Lupin/3 sogghigna. Qual è il codice?
-> 15. Salto dell’ispettore
-> L’ispettore Zenonigata è convinto di riuscire a catturare tutti e tre i ladri. Egli si trova nel baricentro del triangolo
-> GJL formato dai tre ladri. Goemetrikon e Jig∈N distano 79 metri l’uno dall’altro, mentre Goemetrikon e Lupin/3
-> distano 119 metri. Goemetrikon salta come solo i samaterai sanno fare ed atterra nel simmetrico, rispetto a
-> Zenonigata, del suo punto di partenza. Realizza che si trova (ancora) sulla circonferenza circoscritta a GJL; calcola
-> la distanza tra Lupin e Jig∈N e porta in salvo i suoi amici. Quanti metri misura la distanza tra Lupin e Jig∈N?
-> 16. Una cena per gioco
-> Sia Lupin/3 che FujIt¯o amano scommettere. Ora giocano l’uno contro l’altra: se vince Lupin/3, usciranno a cena;
-> se vince FujIt¯o, lui dovrà regalarle l’enorme diamante che ha appena rubato. Hanno di fronte a loro 2023 fiammiferi.
-> Inizialmente FujIt¯o sceglie un intero positivo n. Lupin/3 nei suoi turni toglie un numero di fiammiferi fra 1 e n
-> estremi compresi; invece, FujIt¯o ad ogni turno toglie un numero di fiammiferi fra n+1 e 2n estremi compresi.
-> Inizia a muovere Lupin/3. Chi all’inizio del proprio turno non può fare nessuna mossa ha perso. Dare come risposta
-> la somma dei valori di n che FujIt¯o può scegliere per essere sicura di vincere.
-> Gara a Squadre 2023 – Semifinale 1 – Testi dei problemi – 2/2
-> 
-> Ministero dell’Istruzione
-> e del Merito
-> XXIV Gara Nazionale
-> a Squadre
-> Semifinale 1 – Venerdì 5 Maggio 2023
-> Soluzioni
-> Nr. Problema
+> Il balletto [!!]
+> Dopo aver recuperato la luna, Krull si accorge che potrebbe essere ancora in tempo per il balletto di Maria,
+> Gaetana e Agnese. Allora cerca di immettere subito il codice di rientro p(10), dove p(x) è il polinomio (x − 1)9 .
+> Tuttavia nella fretta si confonde e considera invece f (x), la funzione ottenuta copiando l’espressione di p(x) e
+> sostituendo ogni termine del tipo an xn con an nx . Quanto vale f (11), il numero veramente inserito da Krull?
+> Rispondere con le prime 4 cifre del risultato.
 
 **Topic:** [[topic_algebra|Algebra]]
-**Metodo:** [[method_disuguaglianze|Disuguaglianze classiche]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze classiche]], [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
+**Abilita:** [[skill_lettura_attenta|Lettura attenta del testo]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Algebra e Analisi]]
 **Risposta:** 4191
 **Fonte:** [apri PDF p.30](https://drive.google.com/file/d/1KvUMoRfSg-kBSEEK_tFxTN_6Gw6YuSNH/view)
@@ -473,20 +473,10 @@ level: squadre
 
 *f(11) with f obtained from (x-1)^9 by modifying the terms*
 
-> Mathematical Ailments [⋆] Jig∈N: "Have you read that this year in the cities of MathVillain and EstPonente, sin(usitis) was worse than usual?" Goemetrikon: "Yes. The percentage of sick people relative to the entire population in MathVillain was 8%, while in EstPonente it was 10%." Jig∈N: "Moreover, among those under 50, the percentage of sick people in MathVillain was twice that in EstPonente, and the same ratio was found in the over-50 group as well." Goemetrikon: "How is that possible? Isn't that a contradiction?" Jig∈N: "No. Knowing that both cities are young—that is, that those under 50 are at least as numerous as those over 50—what is the minimum ratio of MathVillain residents under 50 to the total population of MathVillain?" Answer with the sum of the numerator and denominator of the fraction reduced to lowest terms.
-> 13. Heist at the Museum
-> To plan the perfect heist, one must know the location perfectly. Lupin/3, Jig∈N, and Goemetrikon are studying the map of the museum room from which they will make a famous statue disappear. The room is an isosceles triangle ABC with base AB. The three doors of the room are located at M, the midpoint of BC; at F, the foot of the altitude from B; and at E, a point on AB such that EB ∼= BM. They also know that a circle passes through B, E, F, and M. To manage to evade video surveillance, it is important to know the measures of the angles of ABC. What is the measure of ∠ACB?
-> 14. The Supreme Common Combination [⋆]
-> Goemetrikon: "Here's the safe! The code that opens it is the greatest common divisor of all numbers of the form 1^n + 2^n + 3^n + ... + 999^n, where n is a positive integer...". Jig∈N: "Damn, we don't have time to calculate infinitely many numbers!" Lupin/3 grins slyly. What's the code?
-> 15. The Inspector's Leap
-> Inspector Zenonigata is convinced that he will manage to catch all three thieves. He is at the centroid of triangle GJL formed by the three thieves. Goemetrikon and Jig∈N are 79 meters apart, while Goemetrikon and Lupin/3 are 119 meters apart. Goemetrikon jumps as only the samaterai know how, and lands at the point symmetric to his starting point with respect to Zenonigata. He realizes that he is (still) on the circumcircle of GJL; he calculates the distance between Lupin and Jig∈N and gets his friends to safety. How many meters is the distance between Lupin and Jig∈N?
-> 16. A Dinner for Fun
-> Both Lupin/3 and FujIt¯o love betting. Now they are playing against each other: if Lupin/3 wins, they will go out to dinner; if FujIt¯o wins, he will have to give her the enormous diamond he has just stolen. They have 2023 matches in front of them. Initially, FujIt¯o chooses a positive integer n. On his turns, Lupin/3 removes a number of matches between 1 and n, inclusive; on the other hand, FujIt¯o removes a number of matches between n+1 and 2n, inclusive, on each turn. Lupin/3 goes first. Whoever cannot make any move at the beginning of their turn has lost. Answer with the sum of the values of n that FujIt¯o can choose in order to be certain of winning. Team Competition 2023 – Semifinal 1 – Problem Statements – 2/2
->
-> Ministry of Education and Merit XXIV National Team Competition Semifinal 1 – Friday, 5 May 2023 Solutions No. Problem
+> The ballet [!!]
+> After recovering the moon, Krull realises he might still be in time for the ballet of Maria, Gaetana and Agnese. He then tries to enter at once the return code $p(10)$, where $p(x)$ is the polynomial $(x-1)^{9}$. In his haste, however, he gets confused and instead considers $f(x)$, the function obtained by copying the expression for $p(x)$ and replacing every term of the type $a_{n}x^{n}$ with $a_{n} n x$. What is $f(11)$, the number actually entered by Krull? Give the first 4 digits of the result.
 
 **Topic:** [[topic_algebra|Algebra]]
-**Metodo:** [[method_disuguaglianze|Classical inequalities]]
+**Metodo:** [[method_disuguaglianze|Classical inequalities]], [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_lettura_attenta|Careful reading of the text]], [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_riconoscimento_pattern|Pattern recognition]]
 **Area:** [[Algebra e Analisi|Algebra and analysis]]
-
-[[Quesiti/src_squadre_2023_pubblico#q12|src_squadre_2023_pubblico__Q12]]

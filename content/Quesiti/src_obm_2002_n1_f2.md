@@ -46,8 +46,6 @@ level: OBM Nível 1
 **Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_lettura_attenta|Lettura attenta]], [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 
-[[Quesiti/src_obm_2002_n1_f2#q01|src_obm_2002_n1_f2__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_geometria_piana,topic_aritmetica,method_casework,skill_ragionamento_geometrico,skill_manipolazione_algebrica,skill_modellizzazione"></span>
@@ -61,7 +59,7 @@ level: OBM Nível 1
 > $$BD = \frac{BC}{4}, \quad AE = \frac{AC}{3}, \quad DF = \frac{DC}{4}, \quad \text{and} \quad EG = GC.$$
 > The youngest child received the land represented by the smallest triangle. How many alqueires does the original property have, given that the youngest child received 40 alqueires?
 
-![[src_obm_2002_n1_f2__q02.png]]
+![[src_obm_2002_n1_f2__Q02.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_casework|Casework]]
@@ -79,14 +77,12 @@ level: OBM Nível 1
 > $$BD = \frac{BC}{4}, \quad AE = \frac{AC}{3}, \quad DF = \frac{DC}{4}, \quad \text{and} \quad EG = GC.$$
 > Il figlio più giovane ha ricevuto il terreno rappresentato dal triangolo più piccolo. Quanti alqueires ha la proprietà originaria, sapendo che il figlio più giovane ha ricevuto 40 alqueires?
 
-![[src_obm_2002_n1_f2__q02.png]]
+![[src_obm_2002_n1_f2__Q02.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_casework|Casework]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]]
 **Area:** [[Geometria]], [[Aritmetica e Teoria dei Numeri]]
-
-[[Quesiti/src_obm_2002_n1_f2#q02|src_obm_2002_n1_f2__Q02]]
 
 
 
@@ -118,8 +114,6 @@ level: OBM Nível 1
 **Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_lettura_attenta|Lettura attenta]], [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 
-[[Quesiti/src_obm_2002_n1_f2#q03|src_obm_2002_n1_f2__Q03]]
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_logica,method_casework,skill_lettura_attenta,skill_casework_accurato"></span>
@@ -149,8 +143,6 @@ level: OBM Nível 1
 **Metodo:** [[method_casework|Casework]]
 **Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
-
-[[Quesiti/src_obm_2002_n1_f2#q04|src_obm_2002_n1_f2__Q04]]
 
 
 
@@ -182,8 +174,6 @@ level: OBM Nível 1
 **Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 
-[[Quesiti/src_obm_2002_n1_f2#q05|src_obm_2002_n1_f2__Q05]]
-
 
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_combinatoria,topic_aritmetica,method_invarianti,method_colorazione,skill_conteggio_sistematico,skill_riconoscimento_pattern,skill_ragionamento_geometrico,skill_lettura_attenta"></span>
@@ -213,5 +203,3 @@ level: OBM Nível 1
 **Metodo:** [[method_invarianti|Invarianti]], [[method_colorazione|Colorazione]]
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
-
-[[Quesiti/src_obm_2002_n1_f2#q06|src_obm_2002_n1_f2__Q06]]

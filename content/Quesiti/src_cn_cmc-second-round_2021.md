@@ -10,7 +10,7 @@ level: China Mathematical Competition (Second Round)
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_algebra,topic_aritmetica,method_estremalita,method_induzione,skill_manipolazione_algebrica,skill_ragionamento_geometrico,skill_lettura_attenta"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_algebra,topic_aritmetica,method_estremalita,method_induzione,skill_manipolazione_algebrica,skill_ragionamento_geometrico,skill_lettura_attenta,skill_stima"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -22,8 +22,8 @@ level: China Mathematical Competition (Second Round)
 
 **Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_estremalita|Estremalità]], [[method_induzione|Induzione]]
-**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
-**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_stima|Estimation and approximation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1OFC5fmTEMyWQSx2doV1_Jplo27sQCZ_A/view)
 
 
@@ -35,12 +35,11 @@ level: China Mathematical Competition (Second Round)
 > (Schema d'esame A, Problema 1) Dati l'intero positivo $k$ ($k \geq 2$) e i numeri reali non nulli $k$ $a_1, a_2, \ldots, a_k$, dimostrare che esistono al più un numero finito di array interi di $k$ elementi $(n_1, n_2, \ldots, n_k)$ tali che $n_1, n_2, \ldots, n_k$ siano a due a due distinti e
 > $$a_1 \cdot n_1! + a_2 \cdot n_2! + \cdots + a_k \cdot n_k! = 0.$$
 
+
 **Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_estremalita|Estremalità]], [[method_induzione|Induzione]]
-**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_stima|Stima e approssimazione]]
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
-
-[[Quesiti/src_cn_cmc-second-round_2021#q01|src_cn_cmc-second-round_2021__Q01]]
 
 
 
@@ -53,7 +52,7 @@ level: China Mathematical Competition (Second Round)
 
 > (Test Paper A, Problem 2) As shown in the figure, in $\triangle ABC$, $M$ is the midpoint of side $AC$. $D$, $E$ are two points on the tangent of the circumcircle of $\triangle ABC$ at point $A$, satisfying $HD \parallel AB$ and $A$ is the midpoint of segment $DE$. The circle passing through points $A$, $B$, $E$ intersects side $AC$ at point $P$. The circle passing through points $A$, $D$, $P$ intersects the extension of $DM$ at point $Q$. Prove that $\angle BCQ = \angle BAC$.
 
-![[src_cn_cmc-second-round_2021__q02.png]]
+![[src_cn_cmc-second-round_2021__Q02.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_trigonometria|Trigonometria]]
@@ -69,18 +68,16 @@ level: China Mathematical Competition (Second Round)
 
 > (Schema d'esame A, Problema 2) Come mostrato nella figura, in $\triangle ABC$, $M$ è il punto medio del lato $AC$. $D$, $E$ sono due punti sulla tangente alla circonferenza circoscritta di $\triangle ABC$ nel punto $A$, tali che $HD \parallel AB$ e $A$ è il punto medio del segmento $DE$. La circonferenza passante per i punti $A$, $B$, $E$ interseca il lato $AC$ nel punto $P$. La circonferenza passante per i punti $A$, $D$, $P$ interseca il prolungamento di $DM$ nel punto $Q$. Dimostrare che $\angle BCQ = \angle BAC$.
 
-![[src_cn_cmc-second-round_2021__q02.png]]
+![[src_cn_cmc-second-round_2021__Q02.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_trigonometria|Trigonometria]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Geometria]]
 
-[[Quesiti/src_cn_cmc-second-round_2021#q02|src_cn_cmc-second-round_2021__Q02]]
 
 
-
-<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_aritmetica,method_congruenze,method_fattorizzazione,method_casework,skill_manipolazione_algebrica,skill_ragionamento_geometrico,skill_lettura_attenta"></span>
+<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_aritmetica,method_congruenze,method_fattorizzazione,method_casework,skill_manipolazione_algebrica,skill_ragionamento_geometrico,skill_lettura_attenta,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -91,8 +88,8 @@ level: China Mathematical Competition (Second Round)
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_congruenze|Congruenze]], [[method_fattorizzazione|Fattorizzazione]], [[method_casework|Casework]]
-**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
-**Area:** [[Aritmetica e Teoria dei Numeri]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1OFC5fmTEMyWQSx2doV1_Jplo27sQCZ_A/view)
 
 
@@ -103,12 +100,11 @@ level: China Mathematical Competition (Second Round)
 
 > (Compito d'esame A, Problema 3) Sia $n \geq 4$ un numero intero. Dimostrare che, se $n$ divide $2^n - 2$, allora $\dfrac{2^n - 2}{n}$ è un numero composto.
 
+
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_congruenze|Congruenze]], [[method_fattorizzazione|Fattorizzazione]], [[method_casework|Casework]]
-**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
-
-[[Quesiti/src_cn_cmc-second-round_2021#q03|src_cn_cmc-second-round_2021__Q03]]
 
 
 
@@ -141,8 +137,6 @@ level: China Mathematical Competition (Second Round)
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_astrazione|Astrazione]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 
-[[Quesiti/src_cn_cmc-second-round_2021#q04|src_cn_cmc-second-round_2021__Q04]]
-
 
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_geometria_piana,method_trigonometria,skill_ragionamento_geometrico,skill_lettura_attenta"></span>
@@ -154,7 +148,7 @@ level: China Mathematical Competition (Second Round)
 
 > (Test Paper A1, Problem 1) As shown in the figure, in $\triangle ABC$, $AB > AC$. Two points $X$, $Y$ in $\triangle ABC$ are on the bisector of $\angle BAC$ and satisfy $\angle ABX = \angle ACY$. Let the extension of $BX$ and segment $CY$ intersect at point $P$. The circumcircle $\omega_1$ of $\triangle BPY$ and the circumcircle $\omega_2$ of $\triangle CPX$ intersect at $P$ and another point $Q$. Prove that points $A$, $P$, $Q$ are collinear.
 
-![[src_cn_cmc-second-round_2021__q05.png]]
+![[src_cn_cmc-second-round_2021__Q05.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_trigonometria|Trigonometria]]
@@ -170,18 +164,16 @@ level: China Mathematical Competition (Second Round)
 
 > (Compito d'esame A1, Problema 1) Come mostrato nella figura, in $\triangle ABC$, $AB > AC$. Due punti $X$, $Y$ in $\triangle ABC$ giacciono sulla bisettrice di $\angle BAC$ e soddisfano $\angle ABX = \angle ACY$. Sia $P$ l'intersezione tra il prolungamento di $BX$ e il segmento $CY$. La circonferenza circoscritta $\omega_1$ di $\triangle BPY$ e la circonferenza circoscritta $\omega_2$ di $\triangle CPX$ si intersecano in $P$ e in un altro punto $Q$. Dimostrare che i punti $A$, $P$, $Q$ sono allineati.
 
-![[src_cn_cmc-second-round_2021__q05.png]]
+![[src_cn_cmc-second-round_2021__Q05.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_trigonometria|Trigonometria]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Geometria]]
 
-[[Quesiti/src_cn_cmc-second-round_2021#q05|src_cn_cmc-second-round_2021__Q05]]
 
 
-
-<span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_algebra,topic_disuguaglianze,method_induzione,method_estremalita,skill_manipolazione_algebrica,skill_stima,skill_lettura_attenta"></span>
+<span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_algebra,topic_disuguaglianze,topic_funzionali,method_induzione,method_estremalita,method_disuguaglianze,skill_manipolazione_algebrica,skill_stima,skill_lettura_attenta"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -192,10 +184,10 @@ level: China Mathematical Competition (Second Round)
 > $$a_n = \sqrt{\frac{1}{100}\sum_{i=1}^{100} a_{n+i-1}^2}, \quad b_n = \frac{1}{100}\sum_{i=1}^{100} a_{n+i-1}.$$
 > Prove that there exists a positive integer $k$ such that $|a_m - b_m| < 0.001$ for all $m \geq k$.
 
-**Topic:** [[topic_algebra|Algebra]], [[topic_disuguaglianze|Disuguaglianze]]
-**Metodo:** [[method_induzione|Induzione]], [[method_estremalita|Estremalità]]
+**Topic:** [[topic_algebra|Algebra]], [[topic_disuguaglianze|Disuguaglianze]], [[topic_funzionali|Functional equations / sequences]]
+**Metodo:** [[method_induzione|Induzione]], [[method_estremalita|Estremalità]], [[method_disuguaglianze|Classical inequalities]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]], [[skill_lettura_attenta|Lettura attenta]]
-**Area:** [[Algebra e Analisi]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1OFC5fmTEMyWQSx2doV1_Jplo27sQCZ_A/view)
 
 
@@ -208,12 +200,11 @@ level: China Mathematical Competition (Second Round)
 > $$a_n = \sqrt{\frac{1}{100}\sum_{i=1}^{100} a_{n+i-1}^2}, \quad b_n = \frac{1}{100}\sum_{i=1}^{100} a_{n+i-1}.$$
 > Dimostrare che esiste un numero intero positivo $k$ tale che $|a_m - b_m| < 0.001$ per ogni $m \geq k$.
 
-**Topic:** [[topic_algebra|Algebra]], [[topic_disuguaglianze|Disuguaglianze]]
-**Metodo:** [[method_induzione|Induzione]], [[method_estremalita|Estremalità]]
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_disuguaglianze|Disuguaglianze]], [[topic_funzionali|Equazioni funzionali / successioni]]
+**Metodo:** [[method_induzione|Induzione]], [[method_estremalita|Estremalità]], [[method_disuguaglianze|Disuguaglianze classiche]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Algebra e Analisi]]
-
-[[Quesiti/src_cn_cmc-second-round_2021#q06|src_cn_cmc-second-round_2021__Q06]]
 
 
 
@@ -246,8 +237,6 @@ level: China Mathematical Competition (Second Round)
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_astrazione|Astrazione]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 
-[[Quesiti/src_cn_cmc-second-round_2021#q07|src_cn_cmc-second-round_2021__Q07]]
-
 
 
 <span class="atom-split" id="q08" data-atom="q08" data-title="Quesito 8" data-tags="topic_geometria_piana,method_trigonometria,skill_ragionamento_geometrico,skill_lettura_attenta"></span>
@@ -259,7 +248,7 @@ level: China Mathematical Competition (Second Round)
 
 > (Test Paper B, Problem 1) As shown in the figure, $I$ is the incentre of $\triangle ABC$, $AB > AC$. Points $P$, $Q$ are the projections of $I$ on sides $AB$, $AC$, respectively. Line $PQ$ intersects the circumcircle of $\triangle ABC$ at points $X$, $Y$ ($P$ is between $X$ and $Y$). Given that points $B$, $I$, $P$, $X$ are concyclic, prove that points $C$, $I$, $Q$, $Y$ are concyclic.
 
-![[src_cn_cmc-second-round_2021__q08.png]]
+![[src_cn_cmc-second-round_2021__Q08.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_trigonometria|Trigonometria]]
@@ -275,14 +264,12 @@ level: China Mathematical Competition (Second Round)
 
 > (Compito d'esame B, Problema 1) Come mostrato nella figura, $I$ è il centro del cerchio inscritto di $\triangle ABC$, $AB > AC$. I punti $P$, $Q$ sono le proiezioni di $I$ sui lati $AB$, $AC$, rispettivamente. La retta $PQ$ interseca la circonferenza circoscritta a $\triangle ABC$ nei punti $X$, $Y$ ($P$ si trova tra $X$ e $Y$). Sapendo che i punti $B$, $I$, $P$, $X$ sono concyclici, dimostrare che i punti $C$, $I$, $Q$, $Y$ sono concyclici.
 
-![[src_cn_cmc-second-round_2021__q08.png]]
+![[src_cn_cmc-second-round_2021__Q08.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_trigonometria|Trigonometria]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Geometria]]
-
-[[Quesiti/src_cn_cmc-second-round_2021#q08|src_cn_cmc-second-round_2021__Q08]]
 
 
 
@@ -320,8 +307,6 @@ level: China Mathematical Competition (Second Round)
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Algebra e Analisi]]
 
-[[Quesiti/src_cn_cmc-second-round_2021#q09|src_cn_cmc-second-round_2021__Q09]]
-
 
 
 <span class="atom-split" id="q10" data-atom="q10" data-title="Quesito 10" data-tags="topic_algebra,topic_combinatoria,topic_disuguaglianze,method_estremalita,method_casework,skill_manipolazione_algebrica,skill_stima,skill_lettura_attenta,skill_conteggio_sistematico"></span>
@@ -352,8 +337,6 @@ level: China Mathematical Competition (Second Round)
 **Metodo:** [[method_estremalita|Estremalità]], [[method_casework|Casework]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]], [[skill_lettura_attenta|Lettura attenta]], [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Algebra e Analisi]], [[Combinatoria, Logica e Probabilita]]
-
-[[Quesiti/src_cn_cmc-second-round_2021#q10|src_cn_cmc-second-round_2021__Q10]]
 
 
 
@@ -388,8 +371,6 @@ level: China Mathematical Competition (Second Round)
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Algebra e Analisi]]
 
-[[Quesiti/src_cn_cmc-second-round_2021#q11|src_cn_cmc-second-round_2021__Q11]]
-
 
 
 <span class="atom-split" id="q12" data-atom="q12" data-title="Quesito 12" data-tags="topic_geometria_piana,method_trigonometria,skill_ragionamento_geometrico,skill_lettura_attenta"></span>
@@ -401,7 +382,7 @@ level: China Mathematical Competition (Second Round)
 
 > (Test Paper B1, Problem 2) As shown in the figure, in $\triangle ABC$, $AB > AC$. Points $X$, $Y$ in $\triangle ABC$ are on the bisector of $\angle BAC$, satisfying $\angle ABX = \angle ACY$. Let the extension of $BX$ and segment $CY$ intersect at point $P$. The circumcircle $\omega_1$ of $\triangle BPY$ and the circumcircle $\omega_2$ of $\triangle CPX$ intersect at $P$ and another point $Q$. Prove that points $A$, $P$, $Q$ are collinear.
 
-![[src_cn_cmc-second-round_2021__q12.png]]
+![[src_cn_cmc-second-round_2021__Q12.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_trigonometria|Trigonometria]]
@@ -417,18 +398,16 @@ level: China Mathematical Competition (Second Round)
 
 > (Compito d'esame B1, Problema 2) Come mostrato nella figura, in $\triangle ABC$, $AB > AC$. I punti $X$, $Y$ in $\triangle ABC$ giacciono sull'asse bisettrice di $\angle BAC$, soddisfacendo $\angle ABX = \angle ACY$. Sia $P$ l'intersezione tra il prolungamento di $BX$ e il segmento $CY$. La circonferenza circoscritta $\omega_1$ di $\triangle BPY$ e la circonferenza circoscritta $\omega_2$ di $\triangle CPX$ si intersecano in $P$ e in un altro punto $Q$. Dimostrare che i punti $A$, $P$, $Q$ sono allineati.
 
-![[src_cn_cmc-second-round_2021__q12.png]]
+![[src_cn_cmc-second-round_2021__Q12.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_trigonometria|Trigonometria]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Geometria]]
 
-[[Quesiti/src_cn_cmc-second-round_2021#q12|src_cn_cmc-second-round_2021__Q12]]
 
 
-
-<span class="atom-split" id="q13" data-atom="q13" data-title="Quesito 13" data-tags="topic_aritmetica,topic_algebra,method_congruenze,method_estremalita,method_fattorizzazione,skill_manipolazione_algebrica,skill_stima,skill_lettura_attenta"></span>
+<span class="atom-split" id="q13" data-atom="q13" data-title="Quesito 13" data-tags="topic_aritmetica,topic_algebra,topic_disuguaglianze,method_congruenze,method_estremalita,method_fattorizzazione,skill_manipolazione_algebrica,skill_stima,skill_lettura_attenta"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -438,10 +417,10 @@ level: China Mathematical Competition (Second Round)
 > (Test Paper B1, Problem 3) Let $m$, $n$ be integers greater than $1$, and $n$ is not a perfect square. If $n^2 + n + 1$ is divisible by $m$, prove that
 > $$|m - n| > \sqrt{3n} - 2.$$
 
-**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]], [[topic_disuguaglianze|Inequalities]]
 **Metodo:** [[method_congruenze|Congruenze]], [[method_estremalita|Estremalità]], [[method_fattorizzazione|Fattorizzazione]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]], [[skill_lettura_attenta|Lettura attenta]]
-**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Algebra e Analisi|Algebra and analysis]]
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1OFC5fmTEMyWQSx2doV1_Jplo27sQCZ_A/view)
 
 
@@ -453,16 +432,15 @@ level: China Mathematical Competition (Second Round)
 > (Scheda d'esame B1, Problema 3) Siano $m$, $n$ numeri interi maggiori di $1$, e $n$ non sia un quadrato perfetto. Se $n^2 + n + 1$ è divisibile per $m$, dimostrare che
 > $$|m - n| > \sqrt{3n} - 2.$$
 
-**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]], [[topic_disuguaglianze|Disuguaglianze]]
 **Metodo:** [[method_congruenze|Congruenze]], [[method_estremalita|Estremalità]], [[method_fattorizzazione|Fattorizzazione]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 
-[[Quesiti/src_cn_cmc-second-round_2021#q13|src_cn_cmc-second-round_2021__Q13]]
 
 
-
-<span class="atom-split" id="q14" data-atom="q14" data-title="Quesito 14" data-tags="topic_combinatoria,topic_logica,method_casework,method_estremalita,skill_lettura_attenta,skill_conteggio_sistematico,skill_casework_accurato"></span>
+<span class="atom-split" id="q14" data-atom="q14" data-title="Quesito 14" data-tags="topic_combinatoria,topic_logica,method_casework,method_estremalita,skill_lettura_attenta,skill_conteggio_sistematico,skill_casework_accurato,skill_modellizzazione"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -475,8 +453,8 @@ level: China Mathematical Competition (Second Round)
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_logica|Logica]]
 **Metodo:** [[method_casework|Casework]], [[method_estremalita|Estremalità]]
-**Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]]
-**Area:** [[Combinatoria, Logica e Probabilita]]
+**Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]], [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Risposta:** (1) No; (2) Yes
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1OFC5fmTEMyWQSx2doV1_Jplo27sQCZ_A/view)
 
@@ -488,9 +466,8 @@ level: China Mathematical Competition (Second Round)
 
 > (Prova d'esame B1, Problema 4) 9 squadre di calcio disputano un torneo all'italiana con girone unico (ogni coppia di squadre si affronta una sola volta). In ogni partita, la squadra vincitrice ottiene 1 punto, quella sconfitta 0 punti, e ciascuna squadra ottiene 0,5 punti in caso di pareggio. Al termine del torneo, si rileva che le 9 squadre hanno punteggi tutti diversi tra loro. Le 9 squadre sono elencate come $T_1, T_2, \ldots, T_9$ in ordine decrescente di punti. Si sa che la squadra $T_1$ ha un bilancio di 1 vittoria, 3 pareggi e 5 sconfitte. (1) È possibile che $T_3$ vinca contro $T_4$? (2) È possibile che $T_4$ vinca contro $T_3$?
 
+
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_logica|Logica]]
 **Metodo:** [[method_casework|Casework]], [[method_estremalita|Estremalità]]
-**Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]]
+**Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
-
-[[Quesiti/src_cn_cmc-second-round_2021#q14|src_cn_cmc-second-round_2021__Q14]]

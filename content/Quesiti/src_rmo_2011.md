@@ -10,7 +10,7 @@ level: RMO
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_geometria_piana,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_geometria_piana,topic_trigonometria,method_trigonometria,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -19,11 +19,12 @@ level: RMO
 
 > Let $ABC$ be a triangle. Let $D$, $E$, $F$ be points respectively on the segments $BC$, $CA$, $AB$ such that $AD$, $BE$, $CF$ concur at the point $K$. Suppose $BD/DC = BF/FA$ and $\angle ADB = \angle AFC$. Prove that $\angle ABE = \angle CAD$.
 
-![[src_rmo_2011__q01.png]]
+![[src_rmo_2011__Q01.png]]
 
-**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometry]]
+**Metodo:** [[method_trigonometria|Trigonometric techniques]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
-**Area:** [[Geometria]]
+**Area:** [[Geometria|Geometry]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/11naePAaLu3tt8jkxesNT0s0aRYNpRilH/view)
 
 
@@ -34,17 +35,17 @@ level: RMO
 
 > Sia $ABC$ un triangolo. Siano $D$, $E$, $F$ dei punti rispettivamente sui segmenti $BC$, $CA$, $AB$ tali che $AD$, $BE$, $CF$ concorrano nel punto $K$. Si supponga che $BD/DC = BF/FA$ e $\angle ADB = \angle AFC$. Dimostrare che $\angle ABE = \angle CAD$.
 
-![[src_rmo_2011__q01.png]]
+![[src_rmo_2011__Q01.png]]
 
-**Topic:** [[topic_geometria_piana|Geometria piana]]
+
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometria]]
+**Metodo:** [[method_trigonometria|Tecniche trigonometriche]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 
-[[Quesiti/src_rmo_2011#q01|src_rmo_2011__Q01]]
 
 
-
-<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_combinatoria,method_cassetti,method_conteggio,skill_ragionamento_geometrico,skill_riconoscimento_pattern,skill_conteggio_sistematico"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_combinatoria,method_cassetti,method_conteggio,method_colorazione,skill_ragionamento_geometrico,skill_riconoscimento_pattern,skill_conteggio_sistematico"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -54,9 +55,9 @@ level: RMO
 > Let $(a_1, a_2, \ldots, a_{2011})$ be a permutation (that is a rearrangement) of the numbers $1, 2, 3, \ldots, 2011$. Show that there exist two numbers $j, k$ such that $1 \le j < k \le 2011$ and $|a_j - j| = |a_k - k|$.
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
-**Metodo:** [[method_cassetti|Principio dei cassetti]], [[method_conteggio|Conteggio]]
+**Metodo:** [[method_cassetti|Principio dei cassetti]], [[method_conteggio|Conteggio]], [[method_colorazione|Colouring / parity]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_conteggio_sistematico|Conteggio sistematico]]
-**Area:** [[Combinatoria, Logica e Probabilita]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/11naePAaLu3tt8jkxesNT0s0aRYNpRilH/view)
 
 
@@ -67,12 +68,11 @@ level: RMO
 
 > Sia $(a_1, a_2, \ldots, a_{2011})$ una permutazione (ossia una riorganizzazione) dei numeri $1, 2, 3, \ldots, 2011$. Dimostrare che esistono due numeri $j, k$ tali che $1 \le j < k \le 2011$ e $|a_j - j| = |a_k - k|$.
 
+
 **Topic:** [[topic_combinatoria|Combinatoria]]
-**Metodo:** [[method_cassetti|Principio dei cassetti]], [[method_conteggio|Conteggio]]
+**Metodo:** [[method_cassetti|Principio dei cassetti]], [[method_conteggio|Conteggio]], [[method_colorazione|Colorazione / parita]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
-
-[[Quesiti/src_rmo_2011#q02|src_rmo_2011__Q02]]
 
 
 
@@ -104,8 +104,6 @@ level: RMO
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 
-[[Quesiti/src_rmo_2011#q03|src_rmo_2011__Q03]]
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_combinatoria,method_conteggio,method_casework,skill_conteggio_sistematico,skill_riconoscimento_pattern,skill_manipolazione_algebrica"></span>
@@ -117,7 +115,7 @@ level: RMO
 
 > Consider a 20-sided convex polygon $K$, with vertices $A_1, A_2, \ldots, A_{20}$ in that order. Find the number of ways in which three sides of $K$ can be chosen so that every pair among them has at least two sides of $K$ between them. (For example $(A_1 A_2, A_4 A_5, A_{11} A_{12})$ is an admissible triple while $(A_1 A_2, A_4 A_5, A_{19} A_{20})$ is not.)
 
-![[src_rmo_2011__q04.png]]
+![[src_rmo_2011__Q04.png]]
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_conteggio|Conteggio]], [[method_casework|Casework]]
@@ -133,18 +131,16 @@ level: RMO
 
 > Si consideri un poligono convesso con 20 lati $K$, i cui vertici sono $A_1, A_2, \ldots, A_{20}$ nell'ordine indicato. Determinare il numero di modi in cui si possono scegliere tre lati di $K$ in modo che ogni coppia di tali lati abbia almeno due lati di $K$ tra di essi. (Ad esempio, $(A_1 A_2, A_4 A_5, A_{11} A_{12})$ è una terna ammissibile, mentre $(A_1 A_2, A_4 A_5, A_{19} A_{20})$ non lo è.)
 
-![[src_rmo_2011__q04.png]]
+![[src_rmo_2011__Q04.png]]
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_conteggio|Conteggio]], [[method_casework|Casework]]
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 
-[[Quesiti/src_rmo_2011#q04|src_rmo_2011__Q04]]
 
 
-
-<span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_geometria_piana,method_trigonometria,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
+<span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_geometria_piana,topic_trigonometria,method_trigonometria,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -153,12 +149,12 @@ level: RMO
 
 > Let $ABC$ be a triangle and let $BB_1$, $CC_1$ be respectively the bisectors of $\angle B$, $\angle C$ with $B_1$ on $AC$ and $C_1$ on $AB$. Let $E$, $F$ be the feet of perpendiculars drawn from $A$ onto $BB_1$, $CC_1$ respectively. Suppose $D$ is the point at which the incircle of $ABC$ touches $AB$. Prove that $AD = FE$.
 
-![[src_rmo_2011__q05.png]]
+![[src_rmo_2011__Q05.png]]
 
-**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometry]]
 **Metodo:** [[method_trigonometria|Trigonometria]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
-**Area:** [[Geometria]]
+**Area:** [[Geometria|Geometry]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/11naePAaLu3tt8jkxesNT0s0aRYNpRilH/view)
 
 
@@ -169,14 +165,13 @@ level: RMO
 
 > Sia $ABC$ un triangolo e siano $BB_1$, $CC_1$ rispettivamente le bisettrici di $\angle B$, $\angle C$, con $B_1$ su $AC$ e $C_1$ su $AB$. Siano $E$, $F$ i piedi delle perpendicolari condotte da $A$ alle rette $BB_1$, $CC_1$ rispettivamente. Si supponga che $D$ sia il punto in cui l'incircolo di $ABC$ tocca $AB$. Dimostrare che $AD = FE$.
 
-![[src_rmo_2011__q05.png]]
+![[src_rmo_2011__Q05.png]]
 
-**Topic:** [[topic_geometria_piana|Geometria piana]]
+
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometria]]
 **Metodo:** [[method_trigonometria|Trigonometria]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
-
-[[Quesiti/src_rmo_2011#q05|src_rmo_2011__Q05]]
 
 
 
@@ -207,5 +202,3 @@ level: RMO
 **Metodo:** [[method_disuguaglianze|Disuguaglianze]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_stima|Stima]]
 **Area:** [[Algebra e Analisi]]
-
-[[Quesiti/src_rmo_2011#q06|src_rmo_2011__Q06]]

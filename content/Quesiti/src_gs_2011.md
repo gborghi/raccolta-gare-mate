@@ -10,7 +10,7 @@ level: squadre
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_logica,method_casework"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_logica,method_casework,method_colorazione,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -26,7 +26,8 @@ level: squadre
 > coloro che dicono sempre il vero?
 
 **Topic:** [[topic_logica|Logica, giochi, strategie]]
-**Metodo:** [[method_casework|Analisi per casi]]
+**Metodo:** [[method_casework|Analisi per casi]], [[method_colorazione|Colorazione / parita]]
+**Abilita:** [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1KQbuxbfN1IdDJCxtUeB8lDoY2byOXWrt/view)
 
@@ -39,15 +40,15 @@ level: squadre
 > Honest and dishonest Bunsceroli
 > James Bond is on the move on the island of Bunscerol in French Guiana, an island inhabited by only 2011 members of SPECTRE. Fortunately for him, every Bunscerolan (= inhabitant of Bunscerol) has the characteristic of either always telling the truth or always telling a lie. He hears a guard muttering, "The number of Bunscerolans who tell the truth is equal to the number of Bunscerolans who tell a lie." What is the maximum number of those who always tell the truth?
 
+
 **Topic:** [[topic_logica|Logic, games and strategies]]
-**Metodo:** [[method_casework|Case analysis]]
+**Metodo:** [[method_casework|Case analysis]], [[method_colorazione|Colouring / parity]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
 **Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
-[[Quesiti/src_gs_2011#q01|src_gs_2011__Q01]]
 
 
-
-<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_geometria_solida,method_coordinate,skill_ragionamento_geometrico"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_geometria_solida,method_coordinate,skill_ragionamento_geometrico,skill_modellizzazione"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -67,7 +68,7 @@ level: squadre
 
 **Topic:** [[topic_geometria_solida|Geometria solida]]
 **Metodo:** [[method_coordinate|Metodo delle coordinate]]
-**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1KQbuxbfN1IdDJCxtUeB8lDoY2byOXWrt/view)
 
@@ -80,16 +81,15 @@ level: squadre
 > The first skyscraper
 > A skyscraper is cylindrical, with a base perimeter of 150 m, walls 160 m high, and a conical roof having the same base as the cylinder and a height of 20 m. Thanks to suction cups that let it move in any direction on the smooth surface of the building, 007 is climbing the skyscraper to place three bombs exactly 30 m below the gutter at the base of the roof and at equal distances from one another. 007 has just secured the second bomb and must now go to the spot where the third bomb is to be secured. What is the length, in meters, of the shortest distance 007 must travel?
 
+
 **Topic:** [[topic_geometria_solida|Solid geometry]]
 **Metodo:** [[method_coordinate|Coordinate method]]
-**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_modellizzazione|Modelling / translating the text]]
 **Area:** [[Geometria|Geometry]]
 
-[[Quesiti/src_gs_2011#q02|src_gs_2011__Q02]]
 
 
-
-<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_geometria_piana,method_coordinate,skill_ragionamento_geometrico"></span>
+<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_geometria_piana,method_coordinate,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -109,7 +109,7 @@ level: squadre
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_coordinate|Metodo delle coordinate]]
-**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1KQbuxbfN1IdDJCxtUeB8lDoY2byOXWrt/view)
 
@@ -122,16 +122,15 @@ level: squadre
 > A strange building
 > James Bond has before him a drawing showing a triangle with its three vertices marked A, B, and C; he also sees a line parallel to side AC, intersecting BC at M and AB at P. Finally, a line parallel to BC has been drawn, intersecting AB at its midpoint D, PM at E, and AC at F. Without measuring tools, James can only determine that the ratio MB:MC is 10. To get an idea of what kind of building is depicted in the drawing, James determines the ratio of the area of triangle PDE to the area of quadrilateral PAFE. What is the value of one thousand times the ratio calculated by James?
 
+
 **Topic:** [[topic_geometria_piana|Plane geometry]]
 **Metodo:** [[method_coordinate|Coordinate method]]
-**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
 **Area:** [[Geometria|Geometry]]
 
-[[Quesiti/src_gs_2011#q03|src_gs_2011__Q03]]
 
 
-
-<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_geometria_piana,skill_ragionamento_geometrico"></span>
+<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_geometria_piana,topic_trigonometria,method_trigonometria,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -145,8 +144,9 @@ level: squadre
 > e l’area circolare più grande?
 > Rispondere scrivendo le prime quattro cifre dopo la virgola.
 
-**Topic:** [[topic_geometria_piana|Geometria piana]]
-**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometria]]
+**Metodo:** [[method_trigonometria|Tecniche trigonometriche]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1KQbuxbfN1IdDJCxtUeB8lDoY2byOXWrt/view)
 
@@ -159,15 +159,15 @@ level: squadre
 > The Two Clearings
 > Two clearings—one square and the other equilateral-triangular—have the same perimeter. SPECTRE wants to make them circular, and the work is done by expanding them as little as possible. What is the ratio of the area of the smaller circle to the area of the larger circle? Answer by writing the first four digits after the decimal point.
 
-**Topic:** [[topic_geometria_piana|Plane geometry]]
-**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_trigonometria|Trigonometry]]
+**Metodo:** [[method_trigonometria|Trigonometric techniques]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
 **Area:** [[Geometria|Geometry]]
 
-[[Quesiti/src_gs_2011#q04|src_gs_2011__Q04]]
 
 
-
-<span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_aritmetica,method_fattorizzazione"></span>
+<span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_aritmetica,method_fattorizzazione,skill_manipolazione_algebrica,skill_conteggio_sistematico"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -184,6 +184,7 @@ level: squadre
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1KQbuxbfN1IdDJCxtUeB8lDoY2byOXWrt/view)
 
@@ -197,15 +198,15 @@ level: squadre
 > James Bond has been imprisoned by the bunsceroli. To pass the time, he sums the perfect squares (that is, numbers that are squares of positive integers) of the form n 4000 − n for integer n. What result does he get?
 > Team Competition – Problem Statements – Page 1 of 6
 
+
 **Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
 **Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_conteggio_sistematico|Systematic counting]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
-[[Quesiti/src_gs_2011#q05|src_gs_2011__Q05]]
 
 
-
-<span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_probabilita,method_conteggio"></span>
+<span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_probabilita,method_conteggio,method_casework,skill_conteggio_sistematico,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -224,7 +225,8 @@ level: squadre
 > Rispondere scrivendo le prime quattro cifre dopo la virgola del risultato.
 
 **Topic:** [[topic_probabilita|Probabilita e statistica]]
-**Metodo:** [[method_conteggio|Conteggio combinatorio]]
+**Metodo:** [[method_conteggio|Conteggio combinatorio]], [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1KQbuxbfN1IdDJCxtUeB8lDoY2byOXWrt/view)
 
@@ -237,15 +239,15 @@ level: squadre
 > A game with three dice
 > Dr. No challenges Bond to a game involving three dice: one with 4 faces numbered from 1 to 4, one with 6 faces numbered from 1 to 6, and the last die with 8 faces numbered from 1 to 8. Bond must roll all the dice twice and add up the numbers on the faces. He will be able to leave the island if the result he obtains is 14; otherwise, he will be thrown into prison. James rolls all three dice together once and gets 5 as the sum of the numbers on the faces. What is Bond's probability of not being thrown into prison? Answer by writing the first four digits after the decimal point of the result.
 
+
 **Topic:** [[topic_probabilita|Probability and statistics]]
-**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Metodo:** [[method_conteggio|Combinatorial counting]], [[method_casework|Case analysis]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]], [[skill_casework_accurato|Careful case analysis]]
 **Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
-[[Quesiti/src_gs_2011#q06|src_gs_2011__Q06]]
 
 
-
-<span class="atom-split" id="q07" data-atom="q07" data-title="Quesito 7" data-tags="topic_combinatoria,topic_algebra,method_casework,method_conteggio"></span>
+<span class="atom-split" id="q07" data-atom="q07" data-title="Quesito 7" data-tags="topic_combinatoria,topic_algebra,method_casework,method_conteggio,skill_conteggio_sistematico,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -264,7 +266,8 @@ level: squadre
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_algebra|Algebra]]
 **Metodo:** [[method_casework|Analisi per casi]], [[method_conteggio|Conteggio combinatorio]]
-**Area:** [[Algebra e Analisi]], [[Combinatoria, Logica e Probabilita]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Algebra e Analisi]]
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1KQbuxbfN1IdDJCxtUeB8lDoY2byOXWrt/view)
 
 
@@ -276,15 +279,15 @@ level: squadre
 > In the sun
 > Lying in the sun on the beach of Bunscerol Island, 007 entertains Honey by talking to her about famous polynomials. Famous polynomials are those polynomials P(x) of degree at most 11 that are obtained by adding some distinct powers of the variable x and for which P(1) = 5 and P(−1) = 1. For example, x8 + x4 + x3 + x + 1 is famous, whereas x2 + x + 1 and 2x2 + 2x + 1 are not famous. James turns to Honey and, in a persuasive voice, asks her how many famous polynomials, when evaluated at 2, yield values greater than 2011. What does Honey reply, being a good mathematician?
 
+
 **Topic:** [[topic_combinatoria|Combinatorics]], [[topic_algebra|Algebra]]
 **Metodo:** [[method_casework|Case analysis]], [[method_conteggio|Combinatorial counting]]
-**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
-
-[[Quesiti/src_gs_2011#q07|src_gs_2011__Q07]]
-
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Algebra e Analisi|Algebra and analysis]]
 
 
-<span class="atom-split" id="q08" data-atom="q08" data-title="Quesito 8" data-tags="topic_aritmetica,method_congruenze,method_fattorizzazione"></span>
+
+<span class="atom-split" id="q08" data-atom="q08" data-title="Quesito 8" data-tags="topic_aritmetica,method_congruenze,method_fattorizzazione,method_conteggio,skill_manipolazione_algebrica,skill_conteggio_sistematico"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -299,7 +302,8 @@ level: squadre
 > Rispondere con la somma di tutte le loro cifre.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]], [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
+**Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]], [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]], [[method_conteggio|Conteggio combinatorio]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1KQbuxbfN1IdDJCxtUeB8lDoY2byOXWrt/view)
 
@@ -311,15 +315,15 @@ level: squadre
 
 > Do I open it or not? The central building has a great many access doors, but almost all of them are protected by explosives. 007 has discovered that the only doors not protected by explosives are those marked with an integer k > 0 such that 2011 + k divides 2011 + k². James quickly determines all such k. Answer with the sum of all their digits.
 
+
 **Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
-**Metodo:** [[method_congruenze|Modular arithmetic / congruences]], [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]], [[method_fattorizzazione|Factorisation / algebraic manipulation]], [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_conteggio_sistematico|Systematic counting]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
-[[Quesiti/src_gs_2011#q08|src_gs_2011__Q08]]
 
 
-
-<span class="atom-split" id="q09" data-atom="q09" data-title="Quesito 9" data-tags="topic_probabilita,method_ricorsione"></span>
+<span class="atom-split" id="q09" data-atom="q09" data-title="Quesito 9" data-tags="topic_probabilita,method_ricorsione,method_casework,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -339,7 +343,8 @@ level: squadre
 > Rispondere scrivendo le prime quattro cifre dopo la virgola del risultato.
 
 **Topic:** [[topic_probabilita|Probabilita e statistica]]
-**Metodo:** [[method_ricorsione|Ricorsione]]
+**Metodo:** [[method_ricorsione|Ricorsione]], [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1KQbuxbfN1IdDJCxtUeB8lDoY2byOXWrt/view)
 
@@ -352,15 +357,15 @@ level: squadre
 > The malfunctioning rocket launcher
 > To activate the rocket launcher on 007's car, you must press the release button twice (the first time to disarm the safety). James is trying to activate the rocket launcher, but the button is damaged: not only does the button work with probability 3/4, but the button also has to work twice in a row for the weapon to be activated, because the safety is damaged and, if you press the button and it doesn't work, the safety is reengaged. What is the probability that the weapon is activated exactly on the fifth press of the button? Answer by writing the first four digits after the decimal point of the result.
 
+
 **Topic:** [[topic_probabilita|Probability and statistics]]
-**Metodo:** [[method_ricorsione|Recursion]]
+**Metodo:** [[method_ricorsione|Recursion]], [[method_casework|Case analysis]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
 **Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
-[[Quesiti/src_gs_2011#q09|src_gs_2011__Q09]]
 
 
-
-<span class="atom-split" id="q10" data-atom="q10" data-title="Quesito 10" data-tags="topic_geometria_solida,method_coordinate,skill_ragionamento_geometrico"></span>
+<span class="atom-split" id="q10" data-atom="q10" data-title="Quesito 10" data-tags="topic_geometria_solida,topic_geometria_piana,method_coordinate,skill_ragionamento_geometrico,skill_modellizzazione"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -377,9 +382,9 @@ level: squadre
 > Quanto misura l’area della lastra in dm2?
 > Gara a squadre – Testi dei problemi – Pag. 2 di 6
 
-**Topic:** [[topic_geometria_solida|Geometria solida]]
+**Topic:** [[topic_geometria_solida|Geometria solida]], [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_coordinate|Metodo delle coordinate]]
-**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1KQbuxbfN1IdDJCxtUeB8lDoY2byOXWrt/view)
 
@@ -393,16 +398,15 @@ level: squadre
 > It is night. Emilio Largo and his henchmen are pursuing 007 in a jeep fitted with a projector 3 meters above the ground to illuminate the surroundings. James is hiding behind a strange vertical slab 2 m tall. The jeep's projector shines on the slab, casting a square shadow on the ground. With great composure, James estimates the area of the shadow at 64 m² and determines the distance from the jeep to the slab. He realizes that he can also calculate the area of the slab. What is the area of the slab in dm²?
 > Team Competition – Problem Statements – Page 2 of 6
 
-**Topic:** [[topic_geometria_solida|Solid geometry]]
+
+**Topic:** [[topic_geometria_solida|Solid geometry]], [[topic_geometria_piana|Plane geometry]]
 **Metodo:** [[method_coordinate|Coordinate method]]
-**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_modellizzazione|Modelling / translating the text]]
 **Area:** [[Geometria|Geometry]]
 
-[[Quesiti/src_gs_2011#q10|src_gs_2011__Q10]]
 
 
-
-<span class="atom-split" id="q11" data-atom="q11" data-title="Quesito 11" data-tags="topic_probabilita,topic_combinatoria,method_conteggio"></span>
+<span class="atom-split" id="q11" data-atom="q11" data-title="Quesito 11" data-tags="topic_probabilita,topic_combinatoria,method_conteggio,skill_conteggio_sistematico"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -422,6 +426,7 @@ level: squadre
 
 **Topic:** [[topic_probabilita|Probabilita e statistica]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_conteggio|Conteggio combinatorio]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1KQbuxbfN1IdDJCxtUeB8lDoY2byOXWrt/view)
 
@@ -434,15 +439,15 @@ level: squadre
 > The roulette wheel has 36 numbers.
 > Emilio Largo has captured James Bond and, with sadistic relish, challenges him to a strange roulette game. There are thirty-six boxes numbered from 1 to 36 and thirty-six balls numbered from 1 to 36; Largo randomly places one ball in each box. Bond will have to open a box, look at the number on the ball, open the box bearing that number, and continue. He will stop when he finds a ball whose number matches that of a box already opened. If he opens fewer than thirteen boxes, he will be thrown into the shark tank. James quickly calculates his chance of escaping, gives a mocking grin, and opens box number 5. What probability did he calculate? Answer by writing the first four digits after the decimal point of the result.
 
+
 **Topic:** [[topic_probabilita|Probability and statistics]], [[topic_combinatoria|Combinatorics]]
 **Metodo:** [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
 **Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
-[[Quesiti/src_gs_2011#q11|src_gs_2011__Q11]]
 
 
-
-<span class="atom-split" id="q12" data-atom="q12" data-title="Quesito 12" data-tags="topic_combinatoria,method_cassetti"></span>
+<span class="atom-split" id="q12" data-atom="q12" data-title="Quesito 12" data-tags="topic_combinatoria,method_cassetti,skill_casework_accurato,skill_lettura_attenta"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -462,6 +467,7 @@ level: squadre
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_cassetti|Principio dei cassetti]]
+**Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_lettura_attenta|Lettura attenta del testo]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1KQbuxbfN1IdDJCxtUeB8lDoY2byOXWrt/view)
 
@@ -474,15 +480,15 @@ level: squadre
 > James Bond's Socks
 > Miss Moneypenny has kept in a drawer the socks that James Bond used to leave her as a souvenir before setting off: she explains to him that there are 2 socks of one colour, 4 socks of another colour, 6 socks of a third colour, and so on; in short, for an appropriate numbering of the sock colours from 1 to n, there are 2i socks of the i-th colour. James has calculated that, if he picks 79 socks at random, he is certain to have 4 socks of different colours, but if he picks 78 at random, he might not manage to do so. What is the minimum number of random draws needed to be certain of having 6 socks of the same colour?
 
+
 **Topic:** [[topic_combinatoria|Combinatorics]]
 **Metodo:** [[method_cassetti|Pigeonhole principle]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]], [[skill_lettura_attenta|Careful reading of the text]]
 **Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
-[[Quesiti/src_gs_2011#q12|src_gs_2011__Q12]]
 
 
-
-<span class="atom-split" id="q13" data-atom="q13" data-title="Quesito 13" data-tags="topic_algebra,method_fattorizzazione"></span>
+<span class="atom-split" id="q13" data-atom="q13" data-title="Quesito 13" data-tags="topic_algebra,method_fattorizzazione,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -507,6 +513,7 @@ level: squadre
 
 **Topic:** [[topic_algebra|Algebra]]
 **Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1KQbuxbfN1IdDJCxtUeB8lDoY2byOXWrt/view)
 
@@ -519,11 +526,11 @@ level: squadre
 > The laser to be sabotaged
 > While sipping a vodka martini—shaken, not stirred—James Bond had noticed the handwritten formula for the laser's conical ratio, r = 3q 8 − √ 37 + 3q 8 + √ 37, left carelessly near the olives. Later, he had discovered that the laser's power ratio must be r3 −9r + 2011. Now, in order to effectively sabotage the laser, he must calculate the exact value of the power ratio. What number does James calculate?
 
+
 **Topic:** [[topic_algebra|Algebra]]
 **Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
 **Area:** [[Algebra e Analisi|Algebra and analysis]]
-
-[[Quesiti/src_gs_2011#q13|src_gs_2011__Q13]]
 
 
 
@@ -566,11 +573,9 @@ level: squadre
 **Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
 **Area:** [[Geometria|Geometry]]
 
-[[Quesiti/src_gs_2011#q14|src_gs_2011__Q14]]
 
 
-
-<span class="atom-split" id="q15" data-atom="q15" data-title="Quesito 15" data-tags="topic_aritmetica,method_congruenze"></span>
+<span class="atom-split" id="q15" data-atom="q15" data-title="Quesito 15" data-tags="topic_aritmetica,method_congruenze,method_fattorizzazione,skill_casework_accurato,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -586,7 +591,8 @@ level: squadre
 > Qual è il codice di ingresso?
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]]
+**Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]], [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
+**Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1KQbuxbfN1IdDJCxtUeB8lDoY2byOXWrt/view)
 
@@ -599,15 +605,15 @@ level: squadre
 > The entry code
 > James has discovered that the base entry code is a four-digit number divisible by 7, such that the number obtained by writing the digits in reverse order is greater than the original number and is also divisible by 7. Moreover, both numbers have the same remainder when divided by 37; finally, the code is the largest one with these properties. What is the entry code?
 
+
 **Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
-**Metodo:** [[method_congruenze|Modular arithmetic / congruences]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]], [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
-[[Quesiti/src_gs_2011#q15|src_gs_2011__Q15]]
 
 
-
-<span class="atom-split" id="q16" data-atom="q16" data-title="Quesito 16" data-tags="topic_geometria_solida,method_coordinate,skill_ragionamento_geometrico"></span>
+<span class="atom-split" id="q16" data-atom="q16" data-title="Quesito 16" data-tags="topic_geometria_solida,topic_geometria_piana,method_coordinate,skill_ragionamento_geometrico"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -627,7 +633,7 @@ level: squadre
 > in metri della distanza minima che deve percorrere per terminare il lavoro e
 > fissare tutte e cinque le bombe nei punti richiesti?
 
-**Topic:** [[topic_geometria_solida|Geometria solida]]
+**Topic:** [[topic_geometria_solida|Geometria solida]], [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_coordinate|Metodo delle coordinate]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]]
@@ -642,16 +648,15 @@ level: squadre
 > The Second Skyscraper
 > In the same area as the cylindrical skyscraper, there is another skyscraper made up of a prism and a pyramid. The prism has a regular pentagon as its base: the perimeter of the base is 600 m, and the lateral faces are 240 m high. The pyramid, which serves as the roof, has the same base as the prism, and each sloping face is an equilateral triangle. Still thanks to suction cups that allow him to move in any direction on the smooth surface of the building, 007 is climbing the skyscraper to place a bomb on each of the edges, exactly 30 m below the gutter at the base of the roof. James has placed the third bomb, but realizes he has made a mistake: he has already attached a bomb to each of the two adjacent edges, and now he must reach the two farthest edges one after the other. What is the minimum distance, in meters, he must travel to finish the job and attach all five bombs at the required points?
 
-**Topic:** [[topic_geometria_solida|Solid geometry]]
+
+**Topic:** [[topic_geometria_solida|Solid geometry]], [[topic_geometria_piana|Plane geometry]]
 **Metodo:** [[method_coordinate|Coordinate method]]
 **Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
 **Area:** [[Geometria|Geometry]]
 
-[[Quesiti/src_gs_2011#q16|src_gs_2011__Q16]]
 
 
-
-<span class="atom-split" id="q17" data-atom="q17" data-title="Quesito 17" data-tags="topic_logica,method_casework,skill_astrazione"></span>
+<span class="atom-split" id="q17" data-atom="q17" data-title="Quesito 17" data-tags="topic_logica,method_casework,skill_astrazione,skill_lettura_attenta"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -666,7 +671,7 @@ level: squadre
 
 **Topic:** [[topic_logica|Logica, giochi, strategie]]
 **Metodo:** [[method_casework|Analisi per casi]]
-**Abilita:** [[skill_astrazione|Astrazione / generalizzazione]]
+**Abilita:** [[skill_astrazione|Astrazione / generalizzazione]], [[skill_lettura_attenta|Lettura attenta del testo]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1KQbuxbfN1IdDJCxtUeB8lDoY2byOXWrt/view)
 
@@ -679,16 +684,15 @@ level: squadre
 > I ninja bassi
 > In the presence of the ninjas of the Japanese secret service, James Bond, an agent of the SIS (Secret Intelligence Service), can't help but crack a joke: "You're shorter than the agents in the SIS." Stung in his pride, Tiger, the leader of the ninjas, asks him, "What do you mean? Are you saying that
 
+
 **Topic:** [[topic_logica|Logic, games and strategies]]
 **Metodo:** [[method_casework|Case analysis]]
-**Abilita:** [[skill_astrazione|Abstraction / generalisation]]
+**Abilita:** [[skill_astrazione|Abstraction / generalisation]], [[skill_lettura_attenta|Careful reading of the text]]
 **Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
-[[Quesiti/src_gs_2011#q17|src_gs_2011__Q17]]
 
 
-
-<span class="atom-split" id="q18" data-atom="q18" data-title="Quesito 18" data-tags="topic_probabilita,method_conteggio"></span>
+<span class="atom-split" id="q18" data-atom="q18" data-title="Quesito 18" data-tags="topic_probabilita,topic_combinatoria,method_conteggio,skill_conteggio_sistematico"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -697,8 +701,9 @@ level: squadre
 
 > 18. La Prova Definitiva Per diventare capo della SPECTRE, Blofeld deve superare un test durissimo: la Prova Definitiva. La P.D. è un gioco d’azzardo dove un giocatore da solo si confronta con tutti gli altri. Ci sono dieci scatole numerate da 1 a 10 e dieci palline numerate da 1 a 10. Il giocatore da solo introduce, senza guardarle, una pallina in ciascuna scatola. Ora, ciascuno degli altri giocatori, uno dopo l’altro, apre una scatola, guarda il numero della pallina, apre la scatola con quel numero, guarda il numero della pallina in quest’ultima e continua finché trova una pallina con il numero di una scatola già aperta. Ogni giocatore vede le scatole che ha aperto chi ha giocato prima di lui. Il giocatore da solo supera la P.D. se uno degli altri apre più di cinque scatole. Sapendo che g
 
-**Topic:** [[topic_probabilita|Probabilita e statistica]]
+**Topic:** [[topic_probabilita|Probabilita e statistica]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_conteggio|Conteggio combinatorio]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/1KQbuxbfN1IdDJCxtUeB8lDoY2byOXWrt/view)
 
@@ -710,15 +715,15 @@ level: squadre
 
 > 18. The Final Test To become the head of SPECTRE, Blofeld must pass an extremely tough test: the Final Test. The F.T. is a game of chance in which one player faces all the others on their own. There are ten boxes numbered from 1 to 10 and ten balls numbered from 1 to 10. The lone player, without looking at them, puts one ball into each box. Now, each of the other players, one after another, opens a box, looks at the number on the ball, opens the box bearing that number, looks at the number on the ball inside that box, and continues until they find a ball whose number matches that of a box already opened. Each player sees the boxes that those who played before them opened. The lone player passes the F.T. if one of the others opens more than five boxes. Knowing that g
 
-**Topic:** [[topic_probabilita|Probability and statistics]]
+
+**Topic:** [[topic_probabilita|Probability and statistics]], [[topic_combinatoria|Combinatorics]]
 **Metodo:** [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
 **Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
-[[Quesiti/src_gs_2011#q18|src_gs_2011__Q18]]
 
 
-
-<span class="atom-split" id="q19" data-atom="q19" data-title="Quesito 19" data-tags="topic_combinatoria,method_ricorsione"></span>
+<span class="atom-split" id="q19" data-atom="q19" data-title="Quesito 19" data-tags="topic_combinatoria,method_ricorsione,skill_conteggio_sistematico"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -729,6 +734,7 @@ level: squadre
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_ricorsione|Ricorsione]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/1KQbuxbfN1IdDJCxtUeB8lDoY2byOXWrt/view)
 
@@ -740,15 +746,15 @@ level: squadre
 
 > 19. Color codes SIS signaling codes use a 10-by-5 table. A code is determined by the coloring of all 50 cells: each cell is colored red, blue, yellow, or black, in such a way that two cells of the same color do not share any side or vertex. Determine how many signaling codes can be generated.
 
+
 **Topic:** [[topic_combinatoria|Combinatorics]]
 **Metodo:** [[method_ricorsione|Recursion]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
 **Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
-[[Quesiti/src_gs_2011#q19|src_gs_2011__Q19]]
 
 
-
-<span class="atom-split" id="q20" data-atom="q20" data-title="Quesito 20" data-tags="topic_combinatoria,method_simmetria"></span>
+<span class="atom-split" id="q20" data-atom="q20" data-title="Quesito 20" data-tags="topic_combinatoria,topic_aritmetica,method_simmetria,skill_riconoscimento_pattern,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -757,9 +763,10 @@ level: squadre
 
 > 20. Il pannello di controllo James Bond ha davanti un’enorme pannello di controllo con una tastiera nu- merata di forma quadrata con un numero dispari di tasti su ciascun lato. Su ciascun tasto è scritto un numero intero positivo. James nota subito una stra- nezza: i numeri sulla tastiera sono disposti a spirale. Sul tasto al centro c’è il numero 1, sul tasto a sinistra di questo c’è il numero 2, sul tasto sotto a quest’ultimo c’è il numero 3, sul tasto a destra di questo il numero 4, e così via, finché il numero più grande compare sul tasto in alto a sinistra. Per essere certo di memorizzare la situazione, cerca un’altra proprietà per ca- ratterizzare la situazione e si accorge che la disposizione dei numeri è tale che il valore assoluto della differenza fra le somme dei numeri sulle due
 
-**Topic:** [[topic_combinatoria|Combinatoria]]
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_simmetria|Sfruttamento della simmetria]]
-**Area:** [[Combinatoria, Logica e Probabilita]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/1KQbuxbfN1IdDJCxtUeB8lDoY2byOXWrt/view)
 
 
@@ -770,11 +777,11 @@ level: squadre
 
 > 20. James Bond's control panel has a huge control panel in front of it, with a square-numbered keypad having an odd number of keys on each side. On each key is written a positive integer. James immediately notices a peculiarity: the numbers on the keypad are arranged in a spiral. On the central key is the number 1; on the key to the left of this one is the number 2; on the key below that one is the number 3; on the key to the right of that one is the number 4; and so on, until the largest number appears on the top-left key. To be sure of committing the situation to memory, he looks for another property to characterize the situation and realizes that the arrangement of the numbers is such that the absolute value of the difference between the sums of the numbers on the two
 
-**Topic:** [[topic_combinatoria|Combinatorics]]
-**Metodo:** [[method_simmetria|Using symmetry]]
-**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
-[[Quesiti/src_gs_2011#q20|src_gs_2011__Q20]]
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_simmetria|Using symmetry]]
+**Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
 
 
@@ -806,11 +813,9 @@ level: squadre
 **Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
 **Area:** [[Geometria|Geometry]]
 
-[[Quesiti/src_gs_2011#q21|src_gs_2011__Q21]]
 
 
-
-<span class="atom-split" id="q22" data-atom="q22" data-title="Quesito 22" data-tags="topic_logica,method_casework"></span>
+<span class="atom-split" id="q22" data-atom="q22" data-title="Quesito 22" data-tags="topic_logica,method_casework,skill_astrazione,skill_lettura_attenta"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -821,6 +826,7 @@ level: squadre
 
 **Topic:** [[topic_logica|Logica, giochi, strategie]]
 **Metodo:** [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_astrazione|Astrazione / generalizzazione]], [[skill_lettura_attenta|Lettura attenta del testo]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF p.7](https://drive.google.com/file/d/1KQbuxbfN1IdDJCxtUeB8lDoY2byOXWrt/view)
 
@@ -832,15 +838,15 @@ level: squadre
 
 > 22. At Fort Knox Seeing American Army soldiers surrounding Fort Knox, Bond orders Goldfinger to surrender, since the soldiers are stronger than Goldfinger's mercenaries inside the small fort. Instead of acting right away, Goldfinger—like any self-respecting villain—doesn't miss the chance to declaim: "What do you mean when you say the soldiers are stronger than the mercenaries? Do you mean that
 
+
 **Topic:** [[topic_logica|Logic, games and strategies]]
 **Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_astrazione|Abstraction / generalisation]], [[skill_lettura_attenta|Careful reading of the text]]
 **Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
-[[Quesiti/src_gs_2011#q22|src_gs_2011__Q22]]
 
 
-
-<span class="atom-split" id="q23" data-atom="q23" data-title="Quesito 23" data-tags="topic_combinatoria,topic_geometria_piana,method_casework,method_conteggio"></span>
+<span class="atom-split" id="q23" data-atom="q23" data-title="Quesito 23" data-tags="topic_combinatoria,topic_geometria_piana,method_casework,method_conteggio,method_coordinate,skill_ragionamento_geometrico,skill_conteggio_sistematico"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -850,7 +856,8 @@ level: squadre
 > 23. Il simbolo della SPECTRE Il simbolo rappresentativo della SPECTRE è il triangolo ottusangolo. Sul pa- lazzo principale dell’isola di Bunscerol, una matrice quadrata di luci presenta un’astrazione del simbolo: 81 luci sono distribuite su 9 righe e 9 colonne, la luce al centro resta sempre accesa, altre due delle rimanenti 80 luci si accendono a caso per pochi secondi, in modo che le tre luci accese formino i vertici di un triangolo ottusangolo senza essere allineate. Quante sono le coppie di luci che si possono accendere?
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_geometria_piana|Geometria piana]]
-**Metodo:** [[method_casework|Analisi per casi]], [[method_conteggio|Conteggio combinatorio]]
+**Metodo:** [[method_casework|Analisi per casi]], [[method_conteggio|Conteggio combinatorio]], [[method_coordinate|Metodo delle coordinate]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 **Fonte:** [apri PDF p.7](https://drive.google.com/file/d/1KQbuxbfN1IdDJCxtUeB8lDoY2byOXWrt/view)
 
@@ -862,15 +869,15 @@ level: squadre
 
 > 23. The SPECTRE Symbol The representative symbol of SPECTRE is the obtuse-angled triangle. On the main building on the island of Bunscerol, a square array of lights presents an abstraction of the symbol: 81 lights are arranged in 9 rows and 9 columns; the central light remains on at all times, and two other of the remaining 80 lights turn on at random for a few seconds, so that the three lights that are on form the vertices of an obtuse-angled triangle without being collinear. How many pairs of lights can be turned on?
 
+
 **Topic:** [[topic_combinatoria|Combinatorics]], [[topic_geometria_piana|Plane geometry]]
-**Metodo:** [[method_casework|Case analysis]], [[method_conteggio|Combinatorial counting]]
+**Metodo:** [[method_casework|Case analysis]], [[method_conteggio|Combinatorial counting]], [[method_coordinate|Coordinate method]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_conteggio_sistematico|Systematic counting]]
 **Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Geometria|Geometry]]
 
-[[Quesiti/src_gs_2011#q23|src_gs_2011__Q23]]
 
 
-
-<span class="atom-split" id="q24" data-atom="q24" data-title="Quesito 24" data-tags="topic_geometria_solida,skill_ragionamento_geometrico"></span>
+<span class="atom-split" id="q24" data-atom="q24" data-title="Quesito 24" data-tags="topic_geometria_solida,topic_trigonometria,method_trigonometria,skill_ragionamento_geometrico"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -879,7 +886,8 @@ level: squadre
 
 > 24. La capsula Jamesdeveentrareinunacapsulasfericadisuperﬁcie 60m2. Sachel’aperturaè costituita da un triangolo sferico con angoli di90◦, 60◦, 45◦. Un triangolo sferico è la parte di superﬁcie sferica racchiusa da tre archi di circonferenze massime. James cerca di capire se l’apertura sarà abbastanza ampia per entrare insieme con Honey. Qual è l’area del triangolo sferico misurata in dm2? Gara a squadre –Testi dei problemi– Pag. 6 di 6
 
-**Topic:** [[topic_geometria_solida|Geometria solida]]
+**Topic:** [[topic_geometria_solida|Geometria solida]], [[topic_trigonometria|Trigonometria]]
+**Metodo:** [[method_trigonometria|Tecniche trigonometriche]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF p.7](https://drive.google.com/file/d/1KQbuxbfN1IdDJCxtUeB8lDoY2byOXWrt/view)
@@ -892,8 +900,8 @@ level: squadre
 
 > 24. James's capsule must enter a spherical capsule with a surface area of 60 m². Suppose the opening is formed by a spherical triangle with angles of 90°, 60°, and 45°. A spherical triangle is the portion of spherical surface bounded by three arcs of great circles. James is trying to determine whether the opening will be large enough for him and Honey to get in together. What is the area of the spherical triangle, measured in dm²? Team competition – Problem statements – Page 6 of 6
 
-**Topic:** [[topic_geometria_solida|Solid geometry]]
+
+**Topic:** [[topic_geometria_solida|Solid geometry]], [[topic_trigonometria|Trigonometry]]
+**Metodo:** [[method_trigonometria|Trigonometric techniques]]
 **Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
 **Area:** [[Geometria|Geometry]]
-
-[[Quesiti/src_gs_2011#q24|src_gs_2011__Q24]]

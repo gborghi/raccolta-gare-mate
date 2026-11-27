@@ -10,7 +10,7 @@ level: nazionale
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_geometria_solida,method_fattorizzazione,skill_ragionamento_geometrico"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_geometria_solida,method_fattorizzazione,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -25,7 +25,7 @@ level: nazionale
 
 **Topic:** [[topic_geometria_solida|Geometria solida]]
 **Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
-**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 **Risposta:** 2015
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1nO2b1F6AEYrhPPoVBX25loaX3XP-PHPX/view)
@@ -38,11 +38,11 @@ level: nazionale
 
 > Let a rectangular parallelepiped ABCDA′B′C′D′ be given, where ABCD is the lower face with the letters assigned clockwise, and A, B, C and D lie under A′, B′, C′ and D′ respectively. The parallelepiped is divided into eight pieces by three planes orthogonal to one another and parallel to the faces of the parallelepiped. For each vertex P of the parallelepiped, let VP be the volume of the piece of the parallelepiped that contains P. Knowing that VA = 40, VC = 300, VB′ = 360 and VC′ = 90, what is the volume of the parallelepiped ABCDA′B′C′D′?
 
-**Topic:** [[topic_geometria_solida|Solid geometry]]
-**Method:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
-**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
 
-[[Quesiti/src_cesenatico_2015#q01|src_cesenatico_2015__Q01]]
+**Topic:** [[topic_geometria_solida|Solid geometry]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Geometria|Geometry]]
 
 
 
@@ -80,12 +80,11 @@ level: nazionale
 **Topic:** [[topic_combinatoria|Combinatorics]]
 **Method:** [[method_invarianti|Invariants / monovariants]]
 **Skill:** [[skill_astrazione|Abstraction / generalisation]]
-
-[[Quesiti/src_cesenatico_2015#q02|src_cesenatico_2015__Q02]]
-
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
 
-<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_geometria_piana,method_trigonometria,skill_ragionamento_geometrico"></span>
+
+<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_geometria_piana,topic_trigonometria,method_trigonometria,skill_ragionamento_geometrico"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -97,7 +96,7 @@ level: nazionale
 > punti sulla retta AJ, dalla parte di J rispetto ad A, tali che AC′ = AC e AB = AB′. Dimostrare che il
 > quadrilatero ABB′C è inscrivibile in una circonferenza se e solo se le rette C′K e B′B sono parallele.
 
-**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometria]]
 **Metodo:** [[method_trigonometria|Tecniche trigonometriche]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]]
@@ -111,15 +110,15 @@ level: nazionale
 
 > Let ABC be a triangle, let K be the foot of the bisector relative to BC, and let J be the foot of the trisector relative to BC nearest the side AC (that is, J is the point on BC such that 3 · ∠CAJ = ∠CAB). Let then C′ and B′ be two points on the line AJ, on the side of J with respect to A, such that AC′ = AC and AB = AB′. Prove that the quadrilateral ABB′C can be inscribed in a circle if and only if the lines C′K and B′B are parallel.
 
-**Topic:** [[topic_geometria_piana|Plane geometry]]
-**Method:** [[method_trigonometria|Trigonometric techniques]]
-**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
 
-[[Quesiti/src_cesenatico_2015#q03|src_cesenatico_2015__Q03]]
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_trigonometria|Trigonometry]]
+**Metodo:** [[method_trigonometria|Trigonometric techniques]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
 
 
 
-<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_algebra,method_fattorizzazione,skill_manipolazione_algebrica"></span>
+<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_algebra,topic_aritmetica,method_fattorizzazione,method_casework,skill_manipolazione_algebrica,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -128,10 +127,10 @@ level: nazionale
 
 > Determinare tutte le coppie di numeri interi (a, b) che risolvono l’equazione a3 + b3 + 3ab = 1.
 
-**Topic:** [[topic_algebra|Algebra]]
-**Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
-**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
-**Area:** [[Algebra e Analisi]]
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]], [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** (-1,-1) e (c+1,-c)
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1nO2b1F6AEYrhPPoVBX25loaX3XP-PHPX/view)
 
@@ -143,11 +142,11 @@ level: nazionale
 
 > Determine all pairs of integers (a, b) that solve the equation a3 + b3 + 3ab = 1.
 
-**Topic:** [[topic_algebra|Algebra]]
-**Method:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
-**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
 
-[[Quesiti/src_cesenatico_2015#q04|src_cesenatico_2015__Q04]]
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]], [[method_casework|Case analysis]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
 
 
@@ -180,12 +179,11 @@ level: nazionale
 **Topic:** [[topic_geometria_piana|Plane geometry]]
 **Method:** [[method_coordinate|Coordinate method]]
 **Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
-
-[[Quesiti/src_cesenatico_2015#q05|src_cesenatico_2015__Q05]]
-
+**Area:** [[Geometria|Geometry]]
 
 
-<span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_logica,topic_aritmetica,method_invarianti,skill_casework_accurato"></span>
+
+<span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_logica,topic_aritmetica,method_invarianti,method_backward,method_casework,skill_casework_accurato,skill_modellizzazione"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -202,9 +200,9 @@ level: nazionale
 > strategia vincente?
 
 **Topic:** [[topic_logica|Logica, giochi, strategie]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_invarianti|Invarianti / monovarianti]]
-**Abilita:** [[skill_casework_accurato|Casework accurato]]
-**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+**Metodo:** [[method_invarianti|Invarianti / monovarianti]], [[method_backward|Ragionamento all'indietro]], [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** primi tranne 2,7,13 piu 8,14,26,49,91,169
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1nO2b1F6AEYrhPPoVBX25loaX3XP-PHPX/view)
 
@@ -219,8 +217,8 @@ level: nazionale
 > 2 – or with k + 1.
 > Initially each of the players has a thousand points. When a player plays move 1, they gain a point; when they play move 2, they lose a point. The game ends when one of the players comes to have zero points, and that player has lost. Ada plays first. For which values of n does Charles have a winning strategy?
 
-**Topic:** [[topic_logica|Logic, games and strategies]], [[topic_aritmetica|Arithmetic / Number theory]]
-**Method:** [[method_invarianti|Invariants / monovariants]]
-**Skill:** [[skill_casework_accurato|Careful case analysis]]
 
-[[Quesiti/src_cesenatico_2015#q06|src_cesenatico_2015__Q06]]
+**Topic:** [[topic_logica|Logic, games and strategies]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_invarianti|Invariants / monovariants]], [[method_backward|Working backwards]], [[method_casework|Case analysis]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]], [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]

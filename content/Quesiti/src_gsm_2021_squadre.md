@@ -10,7 +10,7 @@ level: squadre
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_aritmetica,topic_aritmetica,method_conteggio,skill_conteggio_sistematico,skill_conteggio_sistematico"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_aritmetica,topic_aritmetica,method_conteggio,skill_conteggio_sistematico,skill_conteggio_sistematico,skill_lettura_attenta"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -32,7 +32,7 @@ level: squadre
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_conteggio|Conteggio combinatorio]]
-**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta del testo]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 0008
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1wdKJGgs3Q6UEmGam3_XBCzK_5bkFvmdG/view)
@@ -46,16 +46,15 @@ level: squadre
 > At the Vitrifrigo Arena
 > Silvia Sconza Giacomo (Entering the Vitrifrigo Arena to attend the concert with Filippo) The indoor arena has 10,323 numbered seats, starting from 1. Filippo (Looking at the number of his seat written on the ticket) There are exactly 29 seats numbered with a multiple of the number of my seat. Giacomo Excluding yours? Filippo No, including mine. And the number of my seat isn't even prime. Voice-over How many possible seat numbers can Filippo have?
 
+
 **Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_aritmetica|Arithmetic / Number theory]]
 **Metodo:** [[method_conteggio|Combinatorial counting]]
-**Abilita:** [[skill_conteggio_sistematico|Systematic counting]], [[skill_conteggio_sistematico|Systematic counting]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]], [[skill_conteggio_sistematico|Systematic counting]], [[skill_lettura_attenta|Careful reading of the text]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
-[[Quesiti/src_gsm_2021_squadre#q01|src_gsm_2021_squadre__Q01]]
 
 
-
-<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_geometria_piana,topic_geometria_piana,method_fattorizzazione,skill_ragionamento_geometrico,skill_ragionamento_geometrico"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_geometria_piana,topic_geometria_piana,method_fattorizzazione,method_coordinate,skill_ragionamento_geometrico,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -81,8 +80,8 @@ level: squadre
 > Ma come fai a conoscere quelle misure della Fetta di polenta!
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_geometria_piana|Geometria piana]]
-**Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
-**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]], [[method_coordinate|Metodo delle coordinate]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 **Risposta:** 5100
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1wdKJGgs3Q6UEmGam3_XBCzK_5bkFvmdG/view)
@@ -96,16 +95,15 @@ level: squadre
 > Casa Scaccabarozzi
 > Sandro Campigotto: Alberto Eccola! Casa Scaccabarozzi, known to us Turin residents as the Polenta Slice. Its distinctive feature and the origin of its nickname lie in its ochre-yellow color but, above all, in its unusual trapezoidal floor plan and the building's very slender profile, which make it resemble a "polenta slice". Riccardo: Let's say its floor plan is a right trapezoid ABCD with base AB as the longer base. Consider point E on the altitude AD such that angle CEB is a right angle. Given that the sum of the squares of the lengths of segments AE and CD is 11.22 m² and the sum of the squares of the lengths of segments ED and AB is 14.79 m², how many millimetres long is the oblique side BC? Alberto: But how do you know those measurements of the Polenta Slice!
 
+
 **Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_geometria_piana|Plane geometry]]
-**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
-**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]], [[method_coordinate|Coordinate method]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
 **Area:** [[Geometria|Geometry]]
 
-[[Quesiti/src_gsm_2021_squadre#q02|src_gsm_2021_squadre__Q02]]
 
 
-
-<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_probabilita,topic_probabilita,method_conteggio,skill_modellizzazione,skill_modellizzazione"></span>
+<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_probabilita,topic_probabilita,method_conteggio,skill_modellizzazione,skill_modellizzazione,skill_lettura_attenta"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -132,7 +130,7 @@ level: squadre
 
 **Topic:** [[topic_probabilita|Probabilita e statistica]], [[topic_probabilita|Probabilita e statistica]]
 **Metodo:** [[method_conteggio|Conteggio combinatorio]]
-**Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_lettura_attenta|Lettura attenta del testo]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0051
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1wdKJGgs3Q6UEmGam3_XBCzK_5bkFvmdG/view)
@@ -146,16 +144,15 @@ level: squadre
 > In Carnia
 > Sandro Campigotto Alessandro (Walking ahead of the group along a path that winds upward amid the beautiful mountains of Carnia) Luigi, go on ahead. At every fork, indicate the direction to take to reach the summit of Col Quaternà. Luigi quickens his pace, leaving the rest of the group behind. Luigi (Reaching the summit of Col Quaternà) Damn! There were 10 forks, but I still have 3 signposts in my pocket. Distraught. I knew I shouldn't have let myself get distracted looking at the view, but it's so beautiful! Still, it's pretty clear which way the summit is. Cheered up. I estimate that at each fork lacking a sign, the group has a 20% chance of taking the wrong path. Off-screen voice: Based on Luigi's assessment, what is the percentage probability that the group will manage to reach the summit?
 
+
 **Topic:** [[topic_probabilita|Probability and statistics]], [[topic_probabilita|Probability and statistics]]
 **Metodo:** [[method_conteggio|Combinatorial counting]]
-**Abilita:** [[skill_modellizzazione|Modelling / translating the text]], [[skill_modellizzazione|Modelling / translating the text]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]], [[skill_modellizzazione|Modelling / translating the text]], [[skill_lettura_attenta|Careful reading of the text]]
 **Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
-[[Quesiti/src_gsm_2021_squadre#q03|src_gsm_2021_squadre__Q03]]
 
 
-
-<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_aritmetica,topic_aritmetica,method_congruenze,skill_manipolazione_algebrica,skill_manipolazione_algebrica"></span>
+<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_aritmetica,topic_aritmetica,method_congruenze,method_fattorizzazione,skill_manipolazione_algebrica,skill_manipolazione_algebrica,skill_modellizzazione"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -179,8 +176,8 @@ level: squadre
 > (1) In ogni problema, a fianco del titolo, compare il nome dell’autore.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]]
-**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]], [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 1011
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1wdKJGgs3Q6UEmGam3_XBCzK_5bkFvmdG/view)
@@ -194,16 +191,15 @@ level: squadre
 > In Potenza
 > Sandro Campigotto Paolo has come to pick up his friend Andrea, who is arriving at Potenza Centrale station. Andrea: Hi, Mario! How many positive integers n up to 2021 are there such that both n² and n³ are sums of n consecutive positive integers? Paolo: But is it really possible that every time you arrive, you have to pose a question concerning powers of numbers? Anyway, do you mean including 2021? Andrea: Yes! Paolo: Then I know the answer! (1) In every problem, the author's name appears next to the title.
 
+
 **Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_aritmetica|Arithmetic / Number theory]]
-**Metodo:** [[method_congruenze|Modular arithmetic / congruences]]
-**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]], [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_modellizzazione|Modelling / translating the text]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
-[[Quesiti/src_gsm_2021_squadre#q04|src_gsm_2021_squadre__Q04]]
 
 
-
-<span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_logica,topic_logica,topic_aritmetica,method_casework,skill_lettura_attenta"></span>
+<span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_logica,topic_logica,topic_aritmetica,method_casework,skill_lettura_attenta,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -227,8 +223,8 @@ level: squadre
 
 **Topic:** [[topic_logica|Logica, giochi, strategie]], [[topic_logica|Logica, giochi, strategie]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_casework|Analisi per casi]]
-**Abilita:** [[skill_lettura_attenta|Lettura attenta del testo]]
-**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+**Abilita:** [[skill_lettura_attenta|Lettura attenta del testo]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 2000
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1wdKJGgs3Q6UEmGam3_XBCzK_5bkFvmdG/view)
 
@@ -241,16 +237,15 @@ level: squadre
 > Villa Feltrinelli
 > Lorenzo Mazza Carlo (Sitting by the lake in the villa's garden) I propose a game while we wait for the ferry to Riva. Each of you should think of a positive integer. Emilia, tell me which number you thought of. (Emilia whispers it to Carlo so that Silvio doesn't hear.) Silvio, tell me which number you thought of. (Silvio does as Emilia did.) Now I'll write the sum of the two numbers on this little slip of paper and the product of the two numbers on this other slip of paper. Then I'll pick one at random and show it to you. Who can tell me which numbers you thought of? Silvio It says 4000. I can't say which number Emilia thought of. Emilia I can't say either which number Silvio thought of. Off-screen voice Which number did Emilia think of?
 
+
 **Topic:** [[topic_logica|Logic, games and strategies]], [[topic_logica|Logic, games and strategies]], [[topic_aritmetica|Arithmetic / Number theory]]
 **Metodo:** [[method_casework|Case analysis]]
-**Abilita:** [[skill_lettura_attenta|Careful reading]]
-**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
-
-[[Quesiti/src_gsm_2021_squadre#q05|src_gsm_2021_squadre__Q05]]
+**Abilita:** [[skill_lettura_attenta|Careful reading]], [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
 
 
-<span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_funzionali,topic_aritmetica,topic_funzionali,method_congruenze,method_ricorsione,skill_manipolazione_algebrica"></span>
+<span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_funzionali,topic_aritmetica,topic_funzionali,method_congruenze,method_ricorsione,skill_manipolazione_algebrica,skill_riconoscimento_pattern"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -280,7 +275,7 @@ level: squadre
 
 **Topic:** [[topic_funzionali|Equazioni funzionali / successioni]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_funzionali|Equazioni funzionali / successioni]]
 **Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]], [[method_ricorsione|Ricorsione]]
-**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 0002
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1wdKJGgs3Q6UEmGam3_XBCzK_5bkFvmdG/view)
@@ -294,16 +289,15 @@ level: squadre
 > La Thuile
 > Andrea Giusto Vlada is skiing in La Thuile. She gets off the chairlift and heads toward the Berthod, Italy's steepest slope, but at its start a ski instructor blocks her path. Instructor: Stop! Where are you trying to go? Vlada: Excuse me, I just wanted to enjoy a ski run. Instructor: Ah, you didn't know? Starting this year, to preserve the snow on this slope, we've decided to limit access: only those who can correctly answer a math question will be allowed on it. Vlada (Intrigued by this situation): Okay then, I'm ready to answer! Instructor (Adopting a very serious expression): Let (an) and (bn) be two sequences defined by recurrence such that a0 = 5, an+1 = an · bn, b0 = 1, and bn+1 = bn + n + 1. What is the remainder when a2021 is divided by 6? Vlada: Darn, that's harder than I thought!
 
+
 **Topic:** [[topic_funzionali|Functional equations / sequences]], [[topic_aritmetica|Arithmetic / Number theory]], [[topic_funzionali|Functional equations / sequences]]
 **Metodo:** [[method_congruenze|Modular arithmetic / congruences]], [[method_ricorsione|Recursion]]
-**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_riconoscimento_pattern|Pattern recognition]]
 **Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
-[[Quesiti/src_gsm_2021_squadre#q06|src_gsm_2021_squadre__Q06]]
 
 
-
-<span class="atom-split" id="q07" data-atom="q07" data-title="Quesito 7" data-tags="topic_combinatoria,topic_combinatoria,method_conteggio,skill_conteggio_sistematico,skill_conteggio_sistematico"></span>
+<span class="atom-split" id="q07" data-atom="q07" data-title="Quesito 7" data-tags="topic_combinatoria,topic_combinatoria,method_conteggio,skill_conteggio_sistematico,skill_conteggio_sistematico,skill_lettura_attenta,skill_modellizzazione"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -337,7 +331,7 @@ level: squadre
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_conteggio|Conteggio combinatorio]]
-**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta del testo]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 1536
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1wdKJGgs3Q6UEmGam3_XBCzK_5bkFvmdG/view)
@@ -351,16 +345,15 @@ level: squadre
 > In Bari
 > Sandro Campigotto and Giuseppe Rosolini: Alessandra enters a boutique in the city center and asks the sales assistant to recommend a sandal for the fine season that is now just around the corner. Sales assistant (picking up a sandal and a lace): I'd recommend this model: it has 3 eyelets on the right and 3 on the left, and you can fasten it with this lace. Alessandra: How strange—the lace has one blue end and one orange end. Sales assistant: They're combined colors. Alessandra: Are there any instructions on how to arrange the lace? Sales assistant: You have to thread the lace through all the eyelets. You can insert it into an eyelet from above or from below, and in the end the lacing may not be symmetrical. But you have to make sure that both ends of the lace come out of the topmost eyelets and that the lace goes directly from one lower eyelet to the other lower eyelet. Alessandra: So, without first passing through another eyelet at a different level? (The sales assistant nods.) Okay—I like them; I'll take them! Voice-over: In how many ways can Alessandra lace one of the sandals according to the sales assistant's instructions?
 
+
 **Topic:** [[topic_combinatoria|Combinatorics]], [[topic_combinatoria|Combinatorics]]
 **Metodo:** [[method_conteggio|Combinatorial counting]]
-**Abilita:** [[skill_conteggio_sistematico|Systematic counting]], [[skill_conteggio_sistematico|Systematic counting]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]], [[skill_conteggio_sistematico|Systematic counting]], [[skill_lettura_attenta|Careful reading of the text]], [[skill_modellizzazione|Modelling / translating the text]]
 **Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
-[[Quesiti/src_gsm_2021_squadre#q07|src_gsm_2021_squadre__Q07]]
 
 
-
-<span class="atom-split" id="q08" data-atom="q08" data-title="Quesito 8" data-tags="topic_aritmetica,topic_aritmetica,method_congruenze"></span>
+<span class="atom-split" id="q08" data-atom="q08" data-title="Quesito 8" data-tags="topic_aritmetica,method_congruenze,method_casework,skill_modellizzazione,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -386,8 +379,9 @@ level: squadre
 > permettono di ricoprire i due pavimenti senza sprechi?
 > Gara a squadre 2021 – Testi dei problemi – Pag. 2 di 5
 
-**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]]
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]], [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 0022
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1wdKJGgs3Q6UEmGam3_XBCzK_5bkFvmdG/view)
@@ -413,13 +407,12 @@ level: squadre
 > Given that the two rooms measure 2,61 m ⇥2,64 m and 2,38 m ⇥2,79 m, what is the perimeter of the largest-area tiles that cover both floors without waste?
 > Team competition 2021 – Problem texts – Page 2 of 5
 
-**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_aritmetica|Arithmetic / Number theory]]
-**Method:** [[method_congruenze|Modular arithmetic / congruences]]
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]], [[method_casework|Case analysis]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]], [[skill_casework_accurato|Careful case analysis]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
-
 **Answer:** 0022
-
-[[Quesiti/src_gsm_2021_squadre#q08|src_gsm_2021_squadre__Q08]]
 
 
 
@@ -481,11 +474,9 @@ level: squadre
 
 **Answer:** 0032
 
-[[Quesiti/src_gsm_2021_squadre#q09|src_gsm_2021_squadre__Q09]]
 
 
-
-<span class="atom-split" id="q10" data-atom="q10" data-title="Quesito 10" data-tags="topic_algebra,topic_algebra,method_fattorizzazione,skill_manipolazione_algebrica,skill_manipolazione_algebrica"></span>
+<span class="atom-split" id="q10" data-atom="q10" data-title="Quesito 10" data-tags="topic_algebra,topic_algebra,method_fattorizzazione,skill_manipolazione_algebrica,skill_manipolazione_algebrica,skill_riconoscimento_pattern"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -506,7 +497,7 @@ level: squadre
 
 **Topic:** [[topic_algebra|Algebra]], [[topic_algebra|Algebra]]
 **Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
-**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Algebra e Analisi]]
 **Risposta:** 0491
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1wdKJGgs3Q6UEmGam3_XBCzK_5bkFvmdG/view)
@@ -526,14 +517,12 @@ level: squadre
 > Fun!
 > Voice-over How many grams of chickpeas will they need?
 
+
 **Topic:** [[topic_algebra|Algebra]], [[topic_algebra|Algebra]]
-**Method:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
-**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_riconoscimento_pattern|Pattern recognition]]
 **Area:** [[Algebra e Analisi|Algebra and analysis]]
-
 **Answer:** 0491
-
-[[Quesiti/src_gsm_2021_squadre#q10|src_gsm_2021_squadre__Q10]]
 
 
 
@@ -592,11 +581,9 @@ level: squadre
 
 **Answer:** 9990
 
-[[Quesiti/src_gsm_2021_squadre#q11|src_gsm_2021_squadre__Q11]]
 
 
-
-<span class="atom-split" id="q12" data-atom="q12" data-title="Quesito 12" data-tags="topic_aritmetica,topic_aritmetica,method_congruenze,skill_manipolazione_algebrica"></span>
+<span class="atom-split" id="q12" data-atom="q12" data-title="Quesito 12" data-tags="topic_aritmetica,topic_aritmetica,method_congruenze,skill_manipolazione_algebrica,skill_riconoscimento_pattern"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -615,7 +602,7 @@ level: squadre
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]]
-**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 2022
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1wdKJGgs3Q6UEmGam3_XBCzK_5bkFvmdG/view)
@@ -634,18 +621,16 @@ level: squadre
 > Stefano
 > (Wiping the sweat from his brow) Certainly, it is. . .
 
-**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_aritmetica|Arithmetic / Number theory]]
-**Method:** [[method_congruenze|Modular arithmetic / congruences]]
-**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
-**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Answer:** 2022
 
-[[Quesiti/src_gsm_2021_squadre#q12|src_gsm_2021_squadre__Q12]]
 
 
-
-<span class="atom-split" id="q13" data-atom="q13" data-title="Quesito 13" data-tags="topic_logica,topic_logica,method_casework,skill_casework_accurato,skill_casework_accurato"></span>
+<span class="atom-split" id="q13" data-atom="q13" data-title="Quesito 13" data-tags="topic_logica,topic_logica,topic_aritmetica,method_casework,skill_casework_accurato,skill_casework_accurato,skill_lettura_attenta"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -683,10 +668,10 @@ level: squadre
 > dicono la verità e il minimo possibile?
 > Gara a squadre 2021 – Testi dei problemi – Pag. 3 di 5
 
-**Topic:** [[topic_logica|Logica, giochi, strategie]], [[topic_logica|Logica, giochi, strategie]]
+**Topic:** [[topic_logica|Logica, giochi, strategie]], [[topic_logica|Logica, giochi, strategie]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_casework|Analisi per casi]]
-**Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_casework_accurato|Casework accurato]]
-**Area:** [[Combinatoria, Logica e Probabilita]]
+**Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_casework_accurato|Casework accurato]], [[skill_lettura_attenta|Lettura attenta del testo]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 2526
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1wdKJGgs3Q6UEmGam3_XBCzK_5bkFvmdG/view)
 
@@ -720,18 +705,16 @@ level: squadre
 > What is the sum of the greatest possible number of members who tell the truth and the least possible?
 > Team competition 2021 – Problem texts – Page 3 of 5
 
-**Topic:** [[topic_logica|Logic, games, strategies]], [[topic_logica|Logic, games, strategies]]
-**Method:** [[method_casework|Case analysis]]
-**Skill:** [[skill_casework_accurato|Careful casework]], [[skill_casework_accurato|Careful casework]]
-**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
+**Topic:** [[topic_logica|Logic, games, strategies]], [[topic_logica|Logic, games, strategies]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_casework_accurato|Careful casework]], [[skill_casework_accurato|Careful casework]], [[skill_lettura_attenta|Careful reading of the text]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Answer:** 2526
 
-[[Quesiti/src_gsm_2021_squadre#q13|src_gsm_2021_squadre__Q13]]
 
 
-
-<span class="atom-split" id="q14" data-atom="q14" data-title="Quesito 14" data-tags="topic_geometria_solida,topic_geometria_solida,method_trigonometria,skill_ragionamento_geometrico,skill_ragionamento_geometrico"></span>
+<span class="atom-split" id="q14" data-atom="q14" data-title="Quesito 14" data-tags="topic_geometria_solida,topic_geometria_solida,topic_trigonometria,topic_geometria_piana,method_trigonometria,skill_ragionamento_geometrico,skill_ragionamento_geometrico"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -754,7 +737,7 @@ level: squadre
 > Giuseppe
 > Certo!
 
-**Topic:** [[topic_geometria_solida|Geometria solida]], [[topic_geometria_solida|Geometria solida]]
+**Topic:** [[topic_geometria_solida|Geometria solida]], [[topic_geometria_solida|Geometria solida]], [[topic_trigonometria|Trigonometria]], [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_trigonometria|Tecniche trigonometriche]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]]
@@ -781,18 +764,16 @@ level: squadre
 > Giuseppe
 > Of course!
 
-**Topic:** [[topic_geometria_solida|Solid geometry]], [[topic_geometria_solida|Solid geometry]]
-**Method:** [[method_trigonometria|Trigonometric techniques]]
-**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_ragionamento_geometrico|Geometric reasoning]]
-**Area:** [[Geometria|Geometry]]
 
+**Topic:** [[topic_geometria_solida|Solid geometry]], [[topic_geometria_solida|Solid geometry]], [[topic_trigonometria|Trigonometry]], [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_trigonometria|Trigonometric techniques]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
 **Answer:** 1224
 
-[[Quesiti/src_gsm_2021_squadre#q14|src_gsm_2021_squadre__Q14]]
 
 
-
-<span class="atom-split" id="q15" data-atom="q15" data-title="Quesito 15" data-tags="topic_algebra,topic_algebra,method_fattorizzazione,skill_manipolazione_algebrica,skill_manipolazione_algebrica"></span>
+<span class="atom-split" id="q15" data-atom="q15" data-title="Quesito 15" data-tags="topic_algebra,topic_algebra,method_fattorizzazione,skill_manipolazione_algebrica,skill_manipolazione_algebrica,skill_riconoscimento_pattern"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -818,7 +799,7 @@ level: squadre
 
 **Topic:** [[topic_algebra|Algebra]], [[topic_algebra|Algebra]]
 **Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
-**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Algebra e Analisi]]
 **Risposta:** 0007
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1wdKJGgs3Q6UEmGam3_XBCzK_5bkFvmdG/view)
@@ -845,18 +826,16 @@ level: squadre
 > Simone
 > While we're at it, we might as well try to solve it. . .
 
-**Topic:** [[topic_algebra|Algebra]], [[topic_algebra|Algebra]]
-**Method:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
-**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
-**Area:** [[Algebra e Analisi|Algebra and analysis]]
 
+**Topic:** [[topic_algebra|Algebra]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
 **Answer:** 0007
 
-[[Quesiti/src_gsm_2021_squadre#q15|src_gsm_2021_squadre__Q15]]
 
 
-
-<span class="atom-split" id="q16" data-atom="q16" data-title="Quesito 16" data-tags="topic_aritmetica,topic_combinatoria,topic_combinatoria,topic_aritmetica,method_conteggio,skill_conteggio_sistematico"></span>
+<span class="atom-split" id="q16" data-atom="q16" data-title="Quesito 16" data-tags="topic_aritmetica,topic_combinatoria,topic_combinatoria,topic_aritmetica,method_conteggio,method_congruenze,skill_conteggio_sistematico,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -872,8 +851,8 @@ level: squadre
 > n, appunto. Suddividilo in quattro mazzetti secondo queste regole:
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]], [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_conteggio|Conteggio combinatorio]]
-**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Metodo:** [[method_conteggio|Conteggio combinatorio]], [[method_congruenze|Aritmetica modulare / congruenze]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0032
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1wdKJGgs3Q6UEmGam3_XBCzK_5bkFvmdG/view)
@@ -890,18 +869,16 @@ level: squadre
 > Corinna
 > (Taking a pack of cards from her rucksack) The pack in my hand contains a certain number of cards, say n. Each card is numbered with a number from 1 up to n. Divide it into four piles according to these rules:
 
-**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_combinatoria|Combinatorics]], [[topic_combinatoria|Combinatorics]], [[topic_aritmetica|Arithmetic / Number theory]]
-**Method:** [[method_conteggio|Combinatorial counting]]
-**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
-**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_combinatoria|Combinatorics]], [[topic_combinatoria|Combinatorics]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_conteggio|Combinatorial counting]], [[method_congruenze|Modular arithmetic / congruences]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** 0032
 
-[[Quesiti/src_gsm_2021_squadre#q16|src_gsm_2021_squadre__Q16]]
 
 
-
-<span class="atom-split" id="q17" data-atom="q17" data-title="Quesito 17" data-tags="topic_geometria_solida,topic_geometria_solida,skill_ragionamento_geometrico,skill_ragionamento_geometrico"></span>
+<span class="atom-split" id="q17" data-atom="q17" data-title="Quesito 17" data-tags="topic_geometria_solida,topic_geometria_solida,skill_ragionamento_geometrico,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -911,7 +888,7 @@ level: squadre
 > 17. A Murano Matteo Di Domenico In un laboratorio, un artista del vetro è al lavoro. Partendo da un cilindro di vetro ancora incandescente e malleabile, pone una borsella, una pinza molto particolare, a metà dell’altezza e, ruotando, inizia a stringere generando un cerchio parallelo alle due basi del cilindro iniziale e con centro sul segmento che congiunge i centri delle basi del cilindro. Maestro Vetraio Vedete, non lo allungo. Riduco il raggio nel mezzo e aumento quello della base inferiore per mantenere costante l’altezza del solido, oltre ovviamente al volume. Alessandro Potrebbe fare in modo che il raggio centrale alla fine sia due terzi di quello della base superiore, quella che rimarrà invariata per intenderci. Maestro Vetraio Ha le idee chiare lei! Se mi aiuta le regalo il risulta
 
 **Topic:** [[topic_geometria_solida|Geometria solida]], [[topic_geometria_solida|Geometria solida]]
-**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 **Risposta:** 1552
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1wdKJGgs3Q6UEmGam3_XBCzK_5bkFvmdG/view)
@@ -924,17 +901,15 @@ level: squadre
 
 > 17. In Murano Matteo Di Domenico In a workshop, a glass artist is at work. Starting from a cylinder of glass still incandescent and malleable, he places a borsella, a very particular pair of tongs, at half the height and, turning, begins to squeeze, producing a circle parallel to the two bases of the original cylinder, centred on the segment that joins the centres of those bases. Master glassblower You see, I am not lengthening it. I reduce the radius in the middle and increase that of the lower base, so as to keep the height of the solid constant, and of course the volume as well. Alessandro Could you arrange for the central radius to end up as two thirds of that of the upper base, the one that will stay unchanged, that is. Master glassblower You have clear ideas! If you help me I'll give you the risulta
 
-**Topic:** [[topic_geometria_solida|Solid geometry]], [[topic_geometria_solida|Solid geometry]]
-**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_ragionamento_geometrico|Geometric reasoning]]
-**Area:** [[Geometria|Geometry]]
 
+**Topic:** [[topic_geometria_solida|Solid geometry]], [[topic_geometria_solida|Solid geometry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Geometria|Geometry]]
 **Answer:** 1552
 
-[[Quesiti/src_gsm_2021_squadre#q17|src_gsm_2021_squadre__Q17]]
 
 
-
-<span class="atom-split" id="q18" data-atom="q18" data-title="Quesito 18" data-tags="topic_combinatoria,topic_combinatoria,topic_aritmetica,method_conteggio,method_fattorizzazione,skill_conteggio_sistematico"></span>
+<span class="atom-split" id="q18" data-atom="q18" data-title="Quesito 18" data-tags="topic_combinatoria,topic_combinatoria,topic_aritmetica,method_conteggio,method_fattorizzazione,skill_conteggio_sistematico,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -945,8 +920,8 @@ level: squadre
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_conteggio|Conteggio combinatorio]], [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
-**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
-**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 0300
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1wdKJGgs3Q6UEmGam3_XBCzK_5bkFvmdG/view)
 
@@ -958,18 +933,16 @@ level: squadre
 
 > 18. At the San Carlo Elena Espa The Teatro San Carlo is reopening its doors to the public with a special event. Usher Only those who know the access code will be let into the performance! Giamila What does it consist of? Usher The code has 5 digits whose product is 108. Andrea (Turning to Marco) This information is not enough to determine the code. Giamila
 
-**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_combinatoria|Combinatorics]], [[topic_aritmetica|Arithmetic / Number theory]]
-**Method:** [[method_conteggio|Combinatorial counting]], [[method_fattorizzazione|Factorisation / algebraic manipulation]]
-**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
-**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_combinatoria|Combinatorics]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_conteggio|Combinatorial counting]], [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]], [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Answer:** 0300
 
-[[Quesiti/src_gsm_2021_squadre#q18|src_gsm_2021_squadre__Q18]]
 
 
-
-<span class="atom-split" id="q19" data-atom="q19" data-title="Quesito 19" data-tags="topic_probabilita,topic_probabilita,skill_modellizzazione,skill_modellizzazione"></span>
+<span class="atom-split" id="q19" data-atom="q19" data-title="Quesito 19" data-tags="topic_probabilita,method_casework,skill_modellizzazione,skill_lettura_attenta"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -978,8 +951,9 @@ level: squadre
 
 > 19. Una passeggiata Giuseppe Rosolini Domenico L’Adenovirus1554 (A1554) ha uno strano comportamento: incontrando una persona ammalata di A1554 non c’è rischio di infezione; incontrando una coppia di persone ammalate di A1554 il rischio di infezione è del 50%. Daniele Sono appena arrivato a Milano e ho fatto una passeggiata sui Navigli: ho incontrato esattamente 6 coppie di persone. Qual è la probabilità che io abbia contratto l’A1554? Domenico Beh, lo si prende abbastanza facilmente: qui 1 persona su 2 è ammalata di A1554. Daniele Vuoi dire che c’è una probabilità del 50% che tu sia ammalato? Domenico Sì! Voce fuori campo Quali sono, in ordine, le prime quattro cifre dopo la virgola della probabilità che Daniele abbia contratto l’Adenovirus1554 passeggiando sui Navigli?
 
-**Topic:** [[topic_probabilita|Probabilita e statistica]], [[topic_probabilita|Probabilita e statistica]]
-**Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
+**Topic:** [[topic_probabilita|Probabilita e statistica]]
+**Metodo:** [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_lettura_attenta|Lettura attenta del testo]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 5512
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/1wdKJGgs3Q6UEmGam3_XBCzK_5bkFvmdG/view)
@@ -992,17 +966,16 @@ level: squadre
 
 > 19. A walk Giuseppe Rosolini Domenico Adenovirus1554 (A1554) behaves strangely: if you meet one person ill with A1554 there is no risk of infection; if you meet a pair of people ill with A1554 the risk of infection is 50%. Daniele I have just arrived in Milan and taken a walk along the Navigli: I met exactly 6 pairs of people. What is the probability that I have caught A1554? Domenico Well, one catches it quite easily: here 1 person in 2 is ill with A1554. Daniele Do you mean there is a 50% probability that you are ill? Domenico Yes! Voice-over What, in order, are the first four digits after the decimal point of the probability that Daniele caught Adenovirus1554 while walking along the Navigli?
 
-**Topic:** [[topic_probabilita|Probability and statistics]], [[topic_probabilita|Probability and statistics]]
-**Skill:** [[skill_modellizzazione|Modelling / translating the text]], [[skill_modellizzazione|Modelling / translating the text]]
-**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
+**Topic:** [[topic_probabilita|Probability and statistics]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]], [[skill_lettura_attenta|Careful reading of the text]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** 5512
 
-[[Quesiti/src_gsm_2021_squadre#q19|src_gsm_2021_squadre__Q19]]
 
 
-
-<span class="atom-split" id="q20" data-atom="q20" data-title="Quesito 20" data-tags="topic_combinatoria,topic_combinatoria,method_conteggio,skill_casework_accurato,skill_casework_accurato"></span>
+<span class="atom-split" id="q20" data-atom="q20" data-title="Quesito 20" data-tags="topic_combinatoria,topic_combinatoria,method_conteggio,skill_casework_accurato,skill_casework_accurato,skill_conteggio_sistematico"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -1013,7 +986,7 @@ level: squadre
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_conteggio|Conteggio combinatorio]]
-**Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_casework_accurato|Casework accurato]]
+**Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_casework_accurato|Casework accurato]], [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0056
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/1wdKJGgs3Q6UEmGam3_XBCzK_5bkFvmdG/view)
@@ -1026,14 +999,12 @@ level: squadre
 
 > 20. In Pienza Sandro Campigotto and Giuseppe Rosolini Carlo (In Piazza Pio II) Shall we ask that lady to take a photo of our whole group? Silvano All right. There are ten of us, all of different heights: let's try to arrange ourselves so that everyone is visible. Carlo We'll stand in two rows of five: in each row we put the tallest person in the row at the centre and the others decreasing towards the outside. Silvano But we must make sure that those in the front row do not hide those in the back row. People in the same position in the two rows stand in increasing order of height facing the lens: the one in the back row is taller than the one in the front row. Roberto Do you mean that if, for example, you and I are in the fifth position of the two rows. You, who are shorter than m
 
+
 **Topic:** [[topic_combinatoria|Combinatorics]], [[topic_combinatoria|Combinatorics]]
-**Method:** [[method_conteggio|Combinatorial counting]]
-**Skill:** [[skill_casework_accurato|Careful casework]], [[skill_casework_accurato|Careful casework]]
+**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_casework_accurato|Careful casework]], [[skill_casework_accurato|Careful casework]], [[skill_conteggio_sistematico|Systematic counting]]
 **Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
-
 **Answer:** 0056
-
-[[Quesiti/src_gsm_2021_squadre#q20|src_gsm_2021_squadre__Q20]]
 
 
 
@@ -1065,5 +1036,3 @@ level: squadre
 **Area:** [[Geometria|Geometry]]
 
 **Answer:** 3094
-
-[[Quesiti/src_gsm_2021_squadre#q21|src_gsm_2021_squadre__Q21]]

@@ -10,7 +10,7 @@ level: squadre
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_probabilita"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_probabilita,topic_algebra,method_fattorizzazione,skill_modellizzazione,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -19,8 +19,10 @@ level: squadre
 
 > Ludovico è un buon tiratore e, ad ogni tentativo, ha una certa probabilità $p$ di riuscire a colpire il bersaglio. Determinare il valore di $1000p$, sapendo che, in tre tentativi, la probabilità che Ludovico colpisca almeno una volta il bersaglio è $0{,}992$.
 
-**Topic:** [[topic_probabilita|Probabilita e statistica]]
-**Area:** [[Combinatoria, Logica e Probabilita]]
+**Topic:** [[topic_probabilita|Probabilita e statistica]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Algebra e Analisi]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1r_oUzqU3lhDzbKZUNU6vlVLos1kmW-Jg/view)
 
 
@@ -32,12 +34,14 @@ level: squadre
 > Ludovico is a good shooter and, on each attempt, has a certain probability $p$ of hitting the target. Determine the value of $1000p$, knowing that, in three attempts, the probability that Ludovico hits the target at least once is $0{,}992$.
 
 
-**Topic:** [[topic_probabilita|Probability and statistics]]
-[[Quesiti/src_archimede_2026_squadre_gara_cd_rd#q01|src_archimede_2026_squadre_gara_cd_rd__Q01]]
+**Topic:** [[topic_probabilita|Probability and statistics]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Algebra e Analisi|Algebra and analysis]]
 
 
 
-<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_algebra,method_fattorizzazione,skill_manipolazione_algebrica"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_algebra,method_fattorizzazione,method_simmetria,skill_manipolazione_algebrica,skill_riconoscimento_pattern"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -47,8 +51,8 @@ level: squadre
 > Dato l'intero positivo $n$, chiamiamo $P_n(x) = (3 - 2x - 3x^2)^n$ il polinomio e con $G_n$ la somma di tutti i coefficienti dei termini di grado pari di $P_n(x)$, compreso il termine noto. Ad esempio, $P_2(x) = (3 - 2x - 3x^2)^2 = 9 - 12x - 14x^2 + 12x^3 + 9x^4$ e $G_2 = 9 - 14 + 9 = 4$. Determinare il valore di $G_{21}$.
 
 **Topic:** [[topic_algebra|Algebra]]
-**Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
-**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]], [[method_simmetria|Sfruttamento della simmetria]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1r_oUzqU3lhDzbKZUNU6vlVLos1kmW-Jg/view)
 
@@ -62,13 +66,13 @@ level: squadre
 
 
 **Topic:** [[topic_algebra|Algebra]]
-**Method:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
-**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
-[[Quesiti/src_archimede_2026_squadre_gara_cd_rd#q02|src_archimede_2026_squadre_gara_cd_rd__Q02]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]], [[method_simmetria|Using symmetry]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
 
 
 
-<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_geometria_piana,skill_ragionamento_geometrico"></span>
+<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_geometria_piana,method_coordinate,skill_ragionamento_geometrico"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -78,6 +82,7 @@ level: squadre
 > Si consideri un cerchio $C$ di centro $O$ e diametro $AB = 6\text{ cm}$, e siano $C_1$ e $C_2$ i due cerchi di diametri $AO$ e $OB$. Siano, inoltre, $C_3$ e $C_4$ i due cerchi tangenti a tutti e tre i cerchi $C$, $C_1$ e $C_2$. Calcolare l'area della parte di $C$, in $\text{mm}^2$, che non appartiene a nessuno dei cerchi $C_1$, $C_2$, $C_3$, $C_4$.
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_coordinate|Metodo delle coordinate]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1r_oUzqU3lhDzbKZUNU6vlVLos1kmW-Jg/view)
@@ -92,12 +97,13 @@ level: squadre
 
 
 **Topic:** [[topic_geometria_piana|Plane geometry]]
-**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
-[[Quesiti/src_archimede_2026_squadre_gara_cd_rd#q03|src_archimede_2026_squadre_gara_cd_rd__Q03]]
+**Metodo:** [[method_coordinate|Coordinate method]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
 
 
 
-<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_disuguaglianze,method_disuguaglianze"></span>
+<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_disuguaglianze,topic_algebra,method_disuguaglianze,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -106,8 +112,9 @@ level: squadre
 
 > Siano $x$ e $y$ numeri reali positivi con $xy = 5$. Qual è il valore minimo che può assumere $(x + y)^2$?
 
-**Topic:** [[topic_disuguaglianze|Disuguaglianze]]
+**Topic:** [[topic_disuguaglianze|Disuguaglianze]], [[topic_algebra|Algebra]]
 **Metodo:** [[method_disuguaglianze|Disuguaglianze classiche]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1r_oUzqU3lhDzbKZUNU6vlVLos1kmW-Jg/view)
 
@@ -120,9 +127,10 @@ level: squadre
 > Let $x$ and $y$ be positive real numbers with $xy = 5$. What is the minimum value that $(x + y)^2$ can take?
 
 
-**Topic:** [[topic_disuguaglianze|Inequalities]]
-**Method:** [[method_disuguaglianze|Classical inequalities]]
-[[Quesiti/src_archimede_2026_squadre_gara_cd_rd#q04|src_archimede_2026_squadre_gara_cd_rd__Q04]]
+**Topic:** [[topic_disuguaglianze|Inequalities]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_disuguaglianze|Classical inequalities]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
 
 
 
@@ -151,11 +159,11 @@ level: squadre
 
 **Topic:** [[topic_geometria_piana|Plane geometry]]
 **Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
-[[Quesiti/src_archimede_2026_squadre_gara_cd_rd#q05|src_archimede_2026_squadre_gara_cd_rd__Q05]]
+**Area:** [[Geometria|Geometry]]
 
 
 
-<span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_combinatoria,method_casework,method_conteggio,skill_conteggio_sistematico"></span>
+<span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_combinatoria,method_casework,method_conteggio,method_ricorsione,skill_conteggio_sistematico"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -165,7 +173,7 @@ level: squadre
 > Quante sono le sequenze in cui possono essere disposte tutte le otto cifre $1, 1, 2, 2, 3, 3, 4, 4$ in modo che, in mezzo a ciascuna coppia di cifre uguali, non compaia nessuna cifra di valore più piccolo di tali due cifre? Ad esempio, due delle sequenze ammesse sono $3\;3\;4\;4\;1\;2\;2\;1$ e $1\;2\;4\;4\;2\;1\;3\;3$.
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
-**Metodo:** [[method_casework|Analisi per casi]], [[method_conteggio|Conteggio combinatorio]]
+**Metodo:** [[method_casework|Analisi per casi]], [[method_conteggio|Conteggio combinatorio]], [[method_ricorsione|Ricorsione]]
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1r_oUzqU3lhDzbKZUNU6vlVLos1kmW-Jg/view)
@@ -180,13 +188,13 @@ level: squadre
 
 
 **Topic:** [[topic_combinatoria|Combinatorics]]
-**Method:** [[method_casework|Case analysis]], [[method_conteggio|Combinatorial counting]]
-**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
-[[Quesiti/src_archimede_2026_squadre_gara_cd_rd#q06|src_archimede_2026_squadre_gara_cd_rd__Q06]]
+**Metodo:** [[method_casework|Case analysis]], [[method_conteggio|Combinatorial counting]], [[method_ricorsione|Recursion]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
 
 
-<span class="atom-split" id="q07" data-atom="q07" data-title="Quesito 7" data-tags="topic_aritmetica,method_congruenze"></span>
+<span class="atom-split" id="q07" data-atom="q07" data-title="Quesito 7" data-tags="topic_aritmetica,method_congruenze,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -197,6 +205,7 @@ level: squadre
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1r_oUzqU3lhDzbKZUNU6vlVLos1kmW-Jg/view)
 
@@ -210,12 +219,13 @@ level: squadre
 
 
 **Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
-**Method:** [[method_congruenze|Modular arithmetic / congruences]]
-[[Quesiti/src_archimede_2026_squadre_gara_cd_rd#q07|src_archimede_2026_squadre_gara_cd_rd__Q07]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
 
 
-<span class="atom-split" id="q08" data-atom="q08" data-title="Quesito 8" data-tags="topic_combinatoria,method_estremalita"></span>
+<span class="atom-split" id="q08" data-atom="q08" data-title="Quesito 8" data-tags="topic_combinatoria,method_estremalita,skill_ragionamento_geometrico"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -226,6 +236,7 @@ level: squadre
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_estremalita|Principio di estremalita]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1r_oUzqU3lhDzbKZUNU6vlVLos1kmW-Jg/view)
 
@@ -239,12 +250,13 @@ level: squadre
 
 
 **Topic:** [[topic_combinatoria|Combinatorics]]
-**Method:** [[method_estremalita|Extremal principle]]
-[[Quesiti/src_archimede_2026_squadre_gara_cd_rd#q08|src_archimede_2026_squadre_gara_cd_rd__Q08]]
+**Metodo:** [[method_estremalita|Extremal principle]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
 
 
-<span class="atom-split" id="q09" data-atom="q09" data-title="Quesito 9" data-tags="topic_geometria_piana,method_trigonometria,skill_ragionamento_geometrico"></span>
+<span class="atom-split" id="q09" data-atom="q09" data-title="Quesito 9" data-tags="topic_geometria_piana,method_trigonometria,method_simmetria,skill_ragionamento_geometrico"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -254,7 +266,7 @@ level: squadre
 > Il baricentro di un triangolo equilatero di lato $x$ è imperniato nel centro di un quadrato di lato $1$. Determinare il minimo valore di $x^2$ affinché, ruotando il triangolo di $360°$ intorno al centro, il quadrato rimanga sempre interamente contenuto nel triangolo.
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
-**Metodo:** [[method_trigonometria|Tecniche trigonometriche]]
+**Metodo:** [[method_trigonometria|Tecniche trigonometriche]], [[method_simmetria|Sfruttamento della simmetria]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1r_oUzqU3lhDzbKZUNU6vlVLos1kmW-Jg/view)
@@ -269,6 +281,6 @@ level: squadre
 
 
 **Topic:** [[topic_geometria_piana|Plane geometry]]
-**Method:** [[method_trigonometria|Trigonometric techniques]]
-**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
-[[Quesiti/src_archimede_2026_squadre_gara_cd_rd#q09|src_archimede_2026_squadre_gara_cd_rd__Q09]]
+**Metodo:** [[method_trigonometria|Trigonometric techniques]], [[method_simmetria|Using symmetry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]

@@ -36,8 +36,7 @@ level: Olimpiade Polacca Round 1
 **Topic:** [[topic_aritmetica|Aritmetica e teoria dei numeri]]
 **Metodo:** [[method_congruenze|Congruenze]]
 **Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di schemi]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
-
-[[Quesiti/src_pol_1999_r1#q01|src_pol_1999_r1__Q01]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
 
 
 
@@ -69,12 +68,11 @@ level: Olimpiade Polacca Round 1
 **Topic:** [[topic_disuguaglianze|Disuguaglianze]]
 **Metodo:** [[method_disuguaglianze|Disuguaglianze]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
-
-[[Quesiti/src_pol_1999_r1#q02|src_pol_1999_r1__Q02]]
-
+**Area:** [[Algebra e Analisi]]
 
 
-<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_geometria_piana,method_coordinate,method_trigonometria,skill_ragionamento_geometrico"></span>
+
+<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_geometria_piana,topic_trigonometria,method_coordinate,method_trigonometria,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -83,10 +81,10 @@ level: Olimpiade Polacca Round 1
 
 > Let $ABC$ be an isosceles triangle with $\angle A = 90^\circ$. Point $D$ is taken on side $BC$ such that $BD = 2CD$, and $E$ is the projection of $B$ onto the line $AD$. Compute $\angle CED$.
 
-**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometry]]
 **Metodo:** [[method_coordinate|Coordinate]], [[method_trigonometria|Trigonometria]]
-**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
-**Area:** [[Geometria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Geometria|Geometry]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1V7oOSGsHAxL_5EghkpgLngf57hM1XtSP/view)
 
 
@@ -97,11 +95,11 @@ level: Olimpiade Polacca Round 1
 
 > Sia $ABC$ un triangolo isoscele con $\angle A = 90^\circ$. Si prende un punto $D$ sul lato $BC$ tale che $BD = 2CD$, e $E$ è la proiezione di $B$ sulla retta $AD$. Calcolare $\angle CED$.
 
-**Topic:** [[topic_geometria_piana|Geometria piana]]
-**Metodo:** [[method_coordinate|Coordinate]], [[method_trigonometria|Trigonometria]]
-**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 
-[[Quesiti/src_pol_1999_r1#q03|src_pol_1999_r1__Q03]]
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometria]]
+**Metodo:** [[method_coordinate|Coordinate]], [[method_trigonometria|Trigonometria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
 
 
 
@@ -131,8 +129,7 @@ level: Olimpiade Polacca Round 1
 **Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica e teoria dei numeri]]
 **Metodo:** [[method_induzione|Induzione]], [[method_ricorsione|Ricorsione]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]]
-
-[[Quesiti/src_pol_1999_r1#q04|src_pol_1999_r1__Q04]]
+**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 
 
 
@@ -162,8 +159,7 @@ level: Olimpiade Polacca Round 1
 **Topic:** [[topic_aritmetica|Aritmetica e teoria dei numeri]]
 **Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_casework|Analisi per casi]]
 **Abilita:** [[skill_casework_accurato|Analisi accurata dei casi]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
-
-[[Quesiti/src_pol_1999_r1#q05|src_pol_1999_r1__Q05]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
 
 
 
@@ -193,8 +189,7 @@ level: Olimpiade Polacca Round 1
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_simmetria|Simmetria]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
-
-[[Quesiti/src_pol_1999_r1#q06|src_pol_1999_r1__Q06]]
+**Area:** [[Geometria]]
 
 
 
@@ -226,12 +221,11 @@ level: Olimpiade Polacca Round 1
 **Topic:** [[topic_algebra|Algebra]]
 **Metodo:** [[method_disuguaglianze|Disuguaglianze]], [[method_fattorizzazione|Fattorizzazione]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]]
-
-[[Quesiti/src_pol_1999_r1#q07|src_pol_1999_r1__Q07]]
-
+**Area:** [[Algebra e Analisi]]
 
 
-<span class="atom-split" id="q08" data-atom="q08" data-title="Quesito 8" data-tags="topic_combinatoria,topic_insiemi_funzioni,method_estremalita,method_conteggio,skill_conteggio_sistematico,skill_astrazione"></span>
+
+<span class="atom-split" id="q08" data-atom="q08" data-title="Quesito 8" data-tags="topic_combinatoria,topic_insiemi_funzioni,method_estremalita,method_conteggio,method_bigezione,skill_conteggio_sistematico,skill_astrazione"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -241,9 +235,9 @@ level: Olimpiade Polacca Round 1
 > Let $S$ be a set of $n \ge 2$ elements. Find the smallest $k$ for which there exist subsets $A_1, A_2, \ldots, A_k$ of $S$ with the following property: For any two elements $a, b \in S$ there exists $j \in \{1, 2, \ldots, k\}$ such that $A_j$ contains exactly one of the elements $a, b$.
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_insiemi_funzioni|Insiemi e funzioni]]
-**Metodo:** [[method_estremalita|Estremalità]], [[method_conteggio|Conteggio]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_conteggio|Conteggio]], [[method_bigezione|Bijection / correspondence]]
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_astrazione|Astrazione]]
-**Area:** [[Combinatoria, Logica e Probabilita]], [[Algebra e Analisi]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Algebra e Analisi|Algebra and analysis]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1V7oOSGsHAxL_5EghkpgLngf57hM1XtSP/view)
 
 
@@ -254,11 +248,11 @@ level: Olimpiade Polacca Round 1
 
 > Sia $S$ un insieme di $n \ge 2$ elementi. Trovare il minimo $k$ per cui esistono sottoinsiemi $A_1, A_2, \ldots, A_k$ di $S$ con la proprietà seguente: per ogni coppia di elementi $a, b \in S$ esiste $j \in \{1, 2, \ldots, k\}$ tale che $A_j$ contiene esattamente uno degli elementi $a, b$.
 
-**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_insiemi_funzioni|Insiemi e funzioni]]
-**Metodo:** [[method_estremalita|Estremalità]], [[method_conteggio|Conteggio]]
-**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_astrazione|Astrazione]]
 
-[[Quesiti/src_pol_1999_r1#q08|src_pol_1999_r1__Q08]]
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_insiemi_funzioni|Insiemi e funzioni]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_conteggio|Conteggio]], [[method_bigezione|Bigezione / corrispondenza]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_astrazione|Astrazione]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Algebra e Analisi]]
 
 
 
@@ -288,12 +282,11 @@ level: Olimpiade Polacca Round 1
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_simmetria|Simmetria]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
-
-[[Quesiti/src_pol_1999_r1#q09|src_pol_1999_r1__Q09]]
-
+**Area:** [[Geometria]]
 
 
-<span class="atom-split" id="q10" data-atom="q10" data-title="Quesito 10" data-tags="topic_algebra,method_telescoping,method_estremalita,skill_stima,skill_manipolazione_algebrica"></span>
+
+<span class="atom-split" id="q10" data-atom="q10" data-title="Quesito 10" data-tags="topic_algebra,topic_funzionali,method_telescoping,method_estremalita,skill_stima,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -302,10 +295,10 @@ level: Olimpiade Polacca Round 1
 
 > Given $x_1 > 0$, the sequence $(x_n)$ is defined by $$x_{n+1} = x_n + \frac{1}{x_n^2} \quad \text{for } n \ge 1.$$ Prove that the limit $\displaystyle \lim_{n \to \infty} \frac{x_n}{\sqrt[3]{n}}$ exists and find it.
 
-**Topic:** [[topic_algebra|Algebra]]
+**Topic:** [[topic_algebra|Algebra]], [[topic_funzionali|Functional equations / sequences]]
 **Metodo:** [[method_telescoping|Telescoping]], [[method_estremalita|Estremalità]]
 **Abilita:** [[skill_stima|Stima]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
-**Area:** [[Algebra e Analisi]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1V7oOSGsHAxL_5EghkpgLngf57hM1XtSP/view)
 
 
@@ -320,15 +313,15 @@ level: Olimpiade Polacca Round 1
 >
 > . Dimostrare che il limite $\displaystyle \lim_{n \to \infty} \frac{x_n}{\sqrt[3]{n}}$ esiste, e calcolarlo.
 
-**Topic:** [[topic_algebra|Algebra]]
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_funzionali|Equazioni funzionali / successioni]]
 **Metodo:** [[method_telescoping|Somme telescopiche]], [[method_estremalita|Estremalità]]
 **Abilita:** [[skill_stima|Stima]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
-
-[[Quesiti/src_pol_1999_r1#q10|src_pol_1999_r1__Q10]]
-
+**Area:** [[Algebra e Analisi]]
 
 
-<span class="atom-split" id="q11" data-atom="q11" data-title="Quesito 11" data-tags="topic_probabilita,topic_combinatoria,method_ricorsione,method_induzione,skill_conteggio_sistematico,skill_modellizzazione"></span>
+
+<span class="atom-split" id="q11" data-atom="q11" data-title="Quesito 11" data-tags="topic_probabilita,topic_combinatoria,method_ricorsione,method_induzione,method_conteggio,skill_conteggio_sistematico,skill_modellizzazione"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -338,9 +331,9 @@ level: Olimpiade Polacca Round 1
 > There are a white ball and a black ball in an urn. In addition, we are given 50 white and 50 black balls. We repeat the following procedure 50 times: we choose at random one ball from the urn and return it to the urn together with another ball of the same color. What will be the most probable numbers of white balls in the urn?
 
 **Topic:** [[topic_probabilita|Probabilità]], [[topic_combinatoria|Combinatoria]]
-**Metodo:** [[method_ricorsione|Ricorsione]], [[method_induzione|Induzione]]
+**Metodo:** [[method_ricorsione|Ricorsione]], [[method_induzione|Induzione]], [[method_conteggio|Combinatorial counting]]
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione]]
-**Area:** [[Combinatoria, Logica e Probabilita]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1V7oOSGsHAxL_5EghkpgLngf57hM1XtSP/view)
 
 
@@ -351,15 +344,15 @@ level: Olimpiade Polacca Round 1
 
 > In un'urna ci sono una pallina bianca e una pallina nera. Inoltre sono date 50 palline bianche e 50 palline nere. Si ripete 50 volte la procedura seguente: si sceglie a caso una pallina dall'urna e la si rimette nell'urna insieme con un'altra pallina dello stesso colore. Quali saranno i numeri più probabili di palline bianche nell'urna?
 
+
 **Topic:** [[topic_probabilita|Probabilità e statistica]], [[topic_combinatoria|Combinatoria]]
-**Metodo:** [[method_ricorsione|Ricorsione]], [[method_induzione|Induzione]]
+**Metodo:** [[method_ricorsione|Ricorsione]], [[method_induzione|Induzione]], [[method_conteggio|Conteggio combinatorio]]
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione]]
-
-[[Quesiti/src_pol_1999_r1#q11|src_pol_1999_r1__Q11]]
-
+**Area:** [[Combinatoria, Logica e Probabilita]]
 
 
-<span class="atom-split" id="q12" data-atom="q12" data-title="Quesito 12" data-tags="topic_geometria_solida,method_casework,method_coordinate,skill_ragionamento_geometrico,skill_casework_accurato"></span>
+
+<span class="atom-split" id="q12" data-atom="q12" data-title="Quesito 12" data-tags="topic_geometria_solida,method_casework,method_coordinate,skill_ragionamento_geometrico,skill_casework_accurato,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -370,8 +363,8 @@ level: Olimpiade Polacca Round 1
 
 **Topic:** [[topic_geometria_solida|Geometria solida]]
 **Metodo:** [[method_casework|Casework]], [[method_coordinate|Coordinate]]
-**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_casework_accurato|Casework accurato]]
-**Area:** [[Geometria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_casework_accurato|Casework accurato]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Geometria|Geometry]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1V7oOSGsHAxL_5EghkpgLngf57hM1XtSP/view)
 
 
@@ -382,8 +375,8 @@ level: Olimpiade Polacca Round 1
 
 > Tutti i vertici di un cubo di spigolo $a$ giacciono sulla superficie di un tetraedro regolare di spigolo $1$. Trovare tutti i valori possibili di $a$.
 
+
 **Topic:** [[topic_geometria_solida|Geometria solida]]
 **Metodo:** [[method_casework|Analisi per casi]], [[method_coordinate|Coordinate]]
-**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_casework_accurato|Analisi accurata dei casi]]
-
-[[Quesiti/src_pol_1999_r1#q12|src_pol_1999_r1__Q12]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_casework_accurato|Analisi accurata dei casi]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]

@@ -10,7 +10,7 @@ level: JMO Honsen
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_combinatoria,topic_aritmetica,method_casework,method_invarianti,method_congruenze,skill_casework_accurato,skill_ragionamento_geometrico,skill_modellizzazione"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_combinatoria,topic_aritmetica,topic_logica,method_casework,method_invarianti,method_congruenze,method_backward,skill_casework_accurato,skill_ragionamento_geometrico,skill_modellizzazione"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -19,10 +19,10 @@ level: JMO Honsen
 
 > Let $n$ be a positive integer. Two players take turns saying integers between $1$ and $n$ inclusive (each integer may be said at most once). The game ends when no integers remain. If the sum of the integers said by the first player is divisible by $3$, the first player wins; otherwise the second player wins. Find all $n$ for which the first player has a winning strategy.
 
-**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_casework|Casework]], [[method_invarianti|Invarianti]], [[method_congruenze|Congruenze]]
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_logica|Logic, games and strategies]]
+**Metodo:** [[method_casework|Casework]], [[method_invarianti|Invarianti]], [[method_congruenze|Congruenze]], [[method_backward|Working backwards]]
 **Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]]
-**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/17fIqEqlKYYACz4yck5j653JkI5UjCss0/view)
 
 
@@ -34,13 +34,15 @@ level: JMO Honsen
 > Sia $n$ un intero positivo. Due giocatori, a turno, dicono interi compresi tra $1$ e $n$ inclusi (ogni intero si può dire al più una volta). La partita finisce quando non restano interi. Se la somma degli interi detti dal primo giocatore è divisibile per $3$, vince il primo; altrimenti vince il secondo. Determinare tutti gli $n$ per i quali il primo giocatore ha una strategia vincente.
 
 **Argomento:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei numeri]]
-**Metodo:** [[method_casework|Analisi per casi]], [[method_invarianti|Invarianti / monovarianti]], [[method_congruenze|Aritmetica modulare / congruenze]]
-**Abilità:** [[skill_casework_accurato|Analisi per casi accurata]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
-[[Quesiti/src_jmo17mq_honsen#q01|src_jmo17mq_honsen__Q01]]
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei numeri]], [[topic_logica|Logica, giochi, strategie]]
+**Metodo:** [[method_casework|Analisi per casi]], [[method_invarianti|Invarianti / monovarianti]], [[method_congruenze|Aritmetica modulare / congruenze]], [[method_backward|Ragionamento all'indietro]]
+**Abilita:** [[skill_casework_accurato|Analisi per casi accurata]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 
 
 
-<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_funzionali,topic_disuguaglianze,method_disuguaglianze,method_casework,skill_manipolazione_algebrica,skill_lettura_attenta,skill_astrazione"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_funzionali,topic_disuguaglianze,method_disuguaglianze,method_casework,skill_manipolazione_algebrica,skill_lettura_attenta,skill_astrazione,skill_riconoscimento_pattern"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -53,8 +55,8 @@ level: JMO Honsen
 
 **Topic:** [[topic_funzionali|Equazioni funzionali]], [[topic_disuguaglianze|Disuguaglianze]]
 **Metodo:** [[method_disuguaglianze|Disuguaglianze]], [[method_casework|Casework]]
-**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_astrazione|Astrazione]]
-**Area:** [[Algebra e Analisi]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_astrazione|Astrazione]], [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/17fIqEqlKYYACz4yck5j653JkI5UjCss0/view)
 
 
@@ -70,9 +72,11 @@ level: JMO Honsen
 > (cioè, contemporaneamente, $f(x)+f(y) \le \dfrac{f(x+y)}{2} + \dfrac{f(x)}{x} + \dfrac{f(y)}{y}$ e $\dfrac{f(x)}{x} + \dfrac{f(y)}{y} \ge \dfrac{f(x+y)}{x+y}$).
 
 **Argomento:** [[topic_funzionali|Equazioni funzionali / successioni]], [[topic_disuguaglianze|Disuguaglianze]]
+
+**Topic:** [[topic_funzionali|Equazioni funzionali / successioni]], [[topic_disuguaglianze|Disuguaglianze]]
 **Metodo:** [[method_disuguaglianze|Disuguaglianze classiche]], [[method_casework|Analisi per casi]]
-**Abilità:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta del testo]], [[skill_astrazione|Astrazione / generalizzazione]]
-[[Quesiti/src_jmo17mq_honsen#q02|src_jmo17mq_honsen__Q02]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta del testo]], [[skill_astrazione|Astrazione / generalizzazione]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Algebra e Analisi]]
 
 
 
@@ -102,7 +106,7 @@ level: JMO Honsen
 **Argomento:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_trigonometria|Tecniche trigonometriche]], [[method_coordinate|Metodo delle coordinate]]
 **Abilità:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta del testo]]
-[[Quesiti/src_jmo17mq_honsen#q03|src_jmo17mq_honsen__Q03]]
+**Area:** [[Geometria]]
 
 
 
@@ -132,7 +136,7 @@ level: JMO Honsen
 **Argomento:** [[topic_geometria_piana|Geometria piana]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_estremalita|Principio di estremalità]], [[method_casework|Analisi per casi]]
 **Abilità:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_stima|Stima e approssimazione]]
-[[Quesiti/src_jmo17mq_honsen#q04|src_jmo17mq_honsen__Q04]]
+**Area:** [[Geometria]], [[Combinatoria, Logica e Probabilita]]
 
 
 
@@ -168,4 +172,4 @@ level: JMO Honsen
 **Argomento:** [[topic_aritmetica|Aritmetica / Teoria dei numeri]], [[topic_insiemi_funzioni|Insiemi e funzioni]]
 **Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]], [[method_induzione|Induzione]], [[method_casework|Analisi per casi]]
 **Abilità:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione / generalizzazione]], [[skill_riconoscimento_pattern|Riconoscimento di schemi]], [[skill_lettura_attenta|Lettura attenta del testo]]
-[[Quesiti/src_jmo17mq_honsen#q05|src_jmo17mq_honsen__Q05]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]

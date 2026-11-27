@@ -19,7 +19,7 @@ level: China National Team Selection Test
 
 > As illustrated in Fig. 1.1, $ABCDEF$ is a cyclic hexagon. The extensions of $AB$ and $DC$ meet at $G$; the extensions of $AF$ and $BE$ meet at $H$. Let $M$ and $N$ be the circumcenters of $\triangle BCG$ and $\triangle EFH$, respectively. Prove that the lines $BE$, $CF$, and $MN$ are concurrent.
 
-![[src_cn_ctst_2022__q01.png]]
+![[src_cn_ctst_2022__Q01.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_coordinate|Coordinate]], [[method_trigonometria|Trigonometria]]
@@ -35,18 +35,16 @@ level: China National Team Selection Test
 
 > Come illustrato nella Fig. 1.1, $ABCDEF$ è un esagono ciclico. Le prolungazioni di $AB$ e $DC$ si incontrano in $G$; le prolungazioni di $AF$ e $BE$ si incontrano in $H$. Siano $M$ e $N$ i circocentri di $\triangle BCG$ e $\triangle EFH$, rispettivamente. Dimostrare che le rette $BE$, $CF$ e $MN$ sono concorrenti.
 
-![[src_cn_ctst_2022__q01.png]]
+![[src_cn_ctst_2022__Q01.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_coordinate|Coordinate]], [[method_trigonometria|Trigonometria]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 
-[[Quesiti/src_cn_ctst_2022#q01|src_cn_ctst_2022__Q01]]
 
 
-
-<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_combinatoria,topic_aritmetica,method_induzione,method_estremalita,skill_modellizzazione,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_combinatoria,topic_aritmetica,method_induzione,method_estremalita,method_congruenze,method_cassetti,skill_modellizzazione,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -56,9 +54,9 @@ level: China National Team Selection Test
 > Given a prime number $p$ and an infinite set $A \subset \mathbb{Z}$. Show that one can always find a subset $B$ of $A$ such that $B$ contains $2p - 2$ elements, and for any $p$ pairwise distinct elements of $B$, their arithmetic mean does not belong to $A$.
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_induzione|Induzione]], [[method_estremalita|Estremalità]]
+**Metodo:** [[method_induzione|Induzione]], [[method_estremalita|Estremalità]], [[method_congruenze|Modular arithmetic / congruences]], [[method_cassetti|Pigeonhole principle]]
 **Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
-**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1OFC5fmTEMyWQSx2doV1_Jplo27sQCZ_A/view)
 
 
@@ -69,16 +67,15 @@ level: China National Team Selection Test
 
 > Dati un numero primo $p$ e un insieme infinito $A \subset \mathbb{Z}$. Dimostrare che si può sempre trovare un sottoinsieme $B$ di $A$ tale che $B$ contenga $2p - 2$ elementi e che, per qualsiasi insieme $p$ di elementi a due a due distinti di $B$, la loro media aritmetica non appartenga a $A$.
 
+
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_induzione|Induzione]], [[method_estremalita|Estremalità]]
+**Metodo:** [[method_induzione|Induzione]], [[method_estremalita|Estremalità]], [[method_congruenze|Aritmetica modulare / congruenze]], [[method_cassetti|Principio dei cassetti]]
 **Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 
-[[Quesiti/src_cn_ctst_2022#q02|src_cn_ctst_2022__Q02]]
 
 
-
-<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_combinatoria,method_invarianti,method_induzione,skill_modellizzazione,skill_ragionamento_geometrico,skill_conteggio_sistematico"></span>
+<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_combinatoria,method_invarianti,method_induzione,method_backward,skill_modellizzazione,skill_ragionamento_geometrico,skill_conteggio_sistematico"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -88,9 +85,9 @@ level: China National Team Selection Test
 > Given positive integers $n$, $p_1, p_2, \ldots, p_n$ (each $p_i \ge 2$), and $b_1, b_2, \ldots, b_n$. Let $Q = \{(x_1, x_2, \ldots, x_n) \in \mathbb{Z}_{\ge 0}^n \mid 0 \le x_i \le p_i^{b_i} - 1 \text{ for each } i\}$ be the game board. Initially, place $M$ game pieces on $Q$ (no restriction on the number of pieces per position). There are $n$ types of legal moves: the $i$-th type removes $p_i$ pieces from position $(x_1, \ldots, x_n) \in Q$ (with $x_i \ge 1$) and places one piece at $(x_1, \ldots, x_i - 1, \ldots, x_n)$. Find the minimum value of $M$ such that no matter how the $M$ game pieces are initially placed, one can always perform a sequence of moves to get at least one piece at the origin $(0, 0, \ldots, 0)$.
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
-**Metodo:** [[method_invarianti|Invarianti]], [[method_induzione|Induzione]]
+**Metodo:** [[method_invarianti|Invarianti]], [[method_induzione|Induzione]], [[method_backward|Working backwards]]
 **Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_conteggio_sistematico|Conteggio sistematico]]
-**Area:** [[Combinatoria, Logica e Probabilita]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Risposta:** $p_1^{b_1} p_2^{b_2} \cdots p_n^{b_n}$
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1OFC5fmTEMyWQSx2doV1_Jplo27sQCZ_A/view)
 
@@ -102,12 +99,11 @@ level: China National Team Selection Test
 
 > Siano dati gli interi positivi $n$, $p_1, p_2, \ldots, p_n$ (ciascuno $p_i \ge 2$) e $b_1, b_2, \ldots, b_n$. Sia $Q = \{(x_1, x_2, \ldots, x_n) \in \mathbb{Z}_{\ge 0}^n \mid 0 \le x_i \le p_i^{b_i} - 1 \text{ for each } i\}$ la scacchiera del gioco. Inizialmente, colloca $M$ pedine sulle $Q$ (senza restrizioni sul numero di pedine per posizione). Ci sono $n$ tipi di mosse legali: il $i$-esimo tipo rimuove $p_i$ pedine dalla posizione $(x_1, \ldots, x_n) \in Q$ (con $x_i \ge 1$) e colloca una pedina in $(x_1, \ldots, x_i - 1, \ldots, x_n)$. Trovare il valore minimo di $M$ tale che, indipendentemente da come vengono inizialmente collocate le $M$ pedine, si possa sempre eseguire una sequenza di mosse per ottenere almeno una pedina nell'origine $(0, 0, \ldots, 0)$.
 
+
 **Topic:** [[topic_combinatoria|Combinatoria]]
-**Metodo:** [[method_invarianti|Invarianti]], [[method_induzione|Induzione]]
+**Metodo:** [[method_invarianti|Invarianti]], [[method_induzione|Induzione]], [[method_backward|Ragionamento all'indietro]]
 **Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
-
-[[Quesiti/src_cn_ctst_2022#q03|src_cn_ctst_2022__Q03]]
 
 
 
@@ -120,7 +116,7 @@ level: China National Team Selection Test
 
 > As shown in Fig. 4.1, in the acute $\triangle ABC$ with $\angle A \ge 2\angle B$, let $I$ be the incentre of $\triangle ABC$, and let $K$ be the symmetric point of $I$ about $BC$. The extensions of $BA$ and $CK$ meet at $D$. The line through $B$ parallel to $CI$ meets $AC$ at $E$, and meets the circumcircle of $\triangle ABC$ again at $F$. Prove that $FK = AF = AD$.
 
-![[src_cn_ctst_2022__q04.png]]
+![[src_cn_ctst_2022__Q04.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_trigonometria|Trigonometria]], [[method_coordinate|Coordinate]]
@@ -136,18 +132,16 @@ level: China National Team Selection Test
 
 > Come mostrato nella Fig. 4.1, in un $\triangle ABC$ acuto con $\angle A \ge 2\angle B$, sia $I$ l'incentro di $\triangle ABC$, e sia $K$ il punto simmetrico di $I$ rispetto a $BC$. Le estensioni di $BA$ e $CK$ si incontrano in $D$. La retta passante per $B$ e parallela a $CI$ incontra $AC$ in $E$, e incontra nuovamente la circonferenza circoscritta a $\triangle ABC$ in $F$. Dimostrare che $FK = AF = AD$.
 
-![[src_cn_ctst_2022__q04.png]]
+![[src_cn_ctst_2022__Q04.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_trigonometria|Trigonometria]], [[method_coordinate|Coordinate]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 
-[[Quesiti/src_cn_ctst_2022#q04|src_cn_ctst_2022__Q04]]
 
 
-
-<span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_algebra,topic_geometria_analitica,method_estremalita,method_disuguaglianze,skill_manipolazione_algebrica,skill_modellizzazione,skill_stima"></span>
+<span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_algebra,topic_geometria_analitica,method_estremalita,method_disuguaglianze,method_trigonometria,skill_manipolazione_algebrica,skill_modellizzazione,skill_stima"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -160,9 +154,9 @@ level: China National Team Selection Test
 > Find the maximum of $|z_1 + z_2 + \cdots + z_{240}|$.
 
 **Topic:** [[topic_algebra|Algebra]], [[topic_geometria_analitica|Geometria analitica]]
-**Metodo:** [[method_estremalita|Estremalità]], [[method_disuguaglianze|Disuguaglianze]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_disuguaglianze|Disuguaglianze]], [[method_trigonometria|Trigonometric techniques]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]], [[skill_stima|Stima]]
-**Area:** [[Algebra e Analisi]], [[Geometria]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Geometria|Geometry]]
 **Risposta:** $80 + 40\sqrt{3}$
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1OFC5fmTEMyWQSx2doV1_Jplo27sQCZ_A/view)
 
@@ -174,12 +168,11 @@ level: China National Team Selection Test
 
 > Sia $C = \{z \in \mathbb{C} \mid |z| = 1\}$ il cerchio unitario nel piano complesso. 240 numeri complessi $z_1, z_2, \ldots, z_{240} \in C$ (ripetizioni ammesse) soddisfano le seguenti condizioni: (1) per ogni arco aperto $\widehat{\Gamma}$ di lunghezza $\dfrac{\pi}{5}$ su $C$, vi sono al più $200$ indici $j$ ($1 \le j \le 240$) tali che $z_j \in \widehat{\Gamma}$; (2) per ogni arco aperto $\widehat{\gamma}$ di lunghezza $\dfrac{\pi}{240}$ su $C$, vi sono al più $120$ indici $j$ ($1 \le j \le 240$) tali che $z_j \in \widehat{\gamma}$. Determinare il massimo di $|z_1 + z_2 + \cdots + z_{240}|$.
 
+
 **Topic:** [[topic_algebra|Algebra]], [[topic_geometria_analitica|Geometria analitica]]
-**Metodo:** [[method_estremalita|Estremalità]], [[method_disuguaglianze|Disuguaglianze]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_disuguaglianze|Disuguaglianze]], [[method_trigonometria|Tecniche trigonometriche]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]], [[skill_stima|Stima]]
 **Area:** [[Algebra e Analisi]], [[Geometria]]
-
-[[Quesiti/src_cn_ctst_2022#q05|src_cn_ctst_2022__Q05]]
 
 
 
@@ -215,11 +208,9 @@ level: China National Team Selection Test
 **Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 
-[[Quesiti/src_cn_ctst_2022#q06|src_cn_ctst_2022__Q06]]
 
 
-
-<span class="atom-split" id="q07" data-atom="q07" data-title="Quesito 7" data-tags="topic_combinatoria,method_grafi,method_casework,skill_ragionamento_geometrico,skill_riconoscimento_pattern,skill_modellizzazione"></span>
+<span class="atom-split" id="q07" data-atom="q07" data-title="Quesito 7" data-tags="topic_combinatoria,method_grafi,method_casework,method_colorazione,skill_ragionamento_geometrico,skill_riconoscimento_pattern,skill_modellizzazione"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -229,9 +220,9 @@ level: China National Team Selection Test
 > In an $m \times n$ grid (with $m + 1$ horizontal lines and $n + 1$ vertical lines), one may add at most one diagonal to each unit square. The resulting graph (vertices at all grid points, edges are the grid segments and the added diagonals) should be an Eulerian cycle, i.e., there exists a closed path that visits every edge exactly once. Find all pairs $(m, n)$ of positive integers for which this is possible.
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
-**Metodo:** [[method_grafi|Grafi]], [[method_casework|Casework]]
+**Metodo:** [[method_grafi|Grafi]], [[method_casework|Casework]], [[method_colorazione|Colouring / parity]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_modellizzazione|Modellizzazione]]
-**Area:** [[Combinatoria, Logica e Probabilita]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Risposta:** All pairs $(m, n)$ with $m = n$.
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1OFC5fmTEMyWQSx2doV1_Jplo27sQCZ_A/view)
 
@@ -243,12 +234,11 @@ level: China National Team Selection Test
 
 > In una griglia $m \times n$ (con $m + 1$ linee orizzontali e $n + 1$ linee verticali), si può aggiungere al massimo una diagonale a ciascun quadrato unitario. Il grafo risultante (vertici in tutti i punti della griglia, archi costituiti dai segmenti della griglia e dalle diagonali aggiunte) dovrebbe essere un ciclo euleriano, cioè deve esistere un percorso chiuso che attraversi ciascun arco esattamente una volta. Trovare tutte le coppie $(m, n)$ di interi positivi per cui ciò è possibile.
 
+
 **Topic:** [[topic_combinatoria|Combinatoria]]
-**Metodo:** [[method_grafi|Grafi]], [[method_casework|Casework]]
+**Metodo:** [[method_grafi|Grafi]], [[method_casework|Casework]], [[method_colorazione|Colorazione / parita]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_modellizzazione|Modellizzazione]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
-
-[[Quesiti/src_cn_ctst_2022#q07|src_cn_ctst_2022__Q07]]
 
 
 
@@ -280,11 +270,9 @@ level: China National Team Selection Test
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 
-[[Quesiti/src_cn_ctst_2022#q08|src_cn_ctst_2022__Q08]]
 
 
-
-<span class="atom-split" id="q09" data-atom="q09" data-title="Quesito 9" data-tags="topic_aritmetica,topic_combinatoria,method_disuguaglianze,method_estremalita,skill_stima,skill_manipolazione_algebrica,skill_modellizzazione"></span>
+<span class="atom-split" id="q09" data-atom="q09" data-title="Quesito 9" data-tags="topic_aritmetica,topic_combinatoria,method_disuguaglianze,method_estremalita,method_casework,skill_stima,skill_manipolazione_algebrica,skill_modellizzazione,skill_conteggio_sistematico"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -296,9 +284,9 @@ level: China National Team Selection Test
 > (Note: partial credit may be given for proving the inequality for all sufficiently large $n$.)
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
-**Metodo:** [[method_disuguaglianze|Disuguaglianze]], [[method_estremalita|Estremalità]]
-**Abilita:** [[skill_stima|Stima]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]]
-**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze]], [[method_estremalita|Estremalità]], [[method_casework|Case analysis]]
+**Abilita:** [[skill_stima|Stima]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]], [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1OFC5fmTEMyWQSx2doV1_Jplo27sQCZ_A/view)
 
 
@@ -311,16 +299,15 @@ level: China National Team Selection Test
 > $$a_1 + a_2 + \cdots + a_n \ge 1.4n^2 - 2n.$$
 > (Nota: si potrà concedere un punteggio parziale per aver dimostrato la disuguaglianza per tutti gli $n$ sufficientemente grandi.)
 
+
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
-**Metodo:** [[method_disuguaglianze|Disuguaglianze]], [[method_estremalita|Estremalità]]
-**Abilita:** [[skill_stima|Stima]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze]], [[method_estremalita|Estremalità]], [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_stima|Stima]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]], [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 
-[[Quesiti/src_cn_ctst_2022#q09|src_cn_ctst_2022__Q09]]
 
 
-
-<span class="atom-split" id="q10" data-atom="q10" data-title="Quesito 10" data-tags="topic_algebra,topic_disuguaglianze,method_disuguaglianze,method_estremalita,method_simmetria,skill_manipolazione_algebrica,skill_modellizzazione,skill_stima"></span>
+<span class="atom-split" id="q10" data-atom="q10" data-title="Quesito 10" data-tags="topic_algebra,topic_disuguaglianze,method_disuguaglianze,method_estremalita,method_simmetria,method_fattorizzazione,skill_manipolazione_algebrica,skill_modellizzazione,skill_stima"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -331,9 +318,9 @@ level: China National Team Selection Test
 > $$f(x_1, x_2, \ldots, x_n) = \sum_{k=0}^{2n} \left| \sum_{\substack{(a_1, \ldots, a_n) \in \{0,1,2\}^n \\ a_1 + a_2 + \cdots + a_n = k}} x_1^{a_1} x_2^{a_2} \cdots x_n^{a_n} - 1 \right|.$$
 
 **Topic:** [[topic_algebra|Algebra]], [[topic_disuguaglianze|Disuguaglianze]]
-**Metodo:** [[method_disuguaglianze|Disuguaglianze]], [[method_estremalita|Estremalità]], [[method_simmetria|Simmetria]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze]], [[method_estremalita|Estremalità]], [[method_simmetria|Simmetria]], [[method_fattorizzazione|Factorisation / algebraic manipulation]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]], [[skill_stima|Stima]]
-**Area:** [[Algebra e Analisi]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
 **Risposta:** $x_1 = x_2 = \cdots = x_n = \dfrac{1}{n+1}$
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1OFC5fmTEMyWQSx2doV1_Jplo27sQCZ_A/view)
 
@@ -346,12 +333,11 @@ level: China National Team Selection Test
 > Dato un intero positivo $n$, trovare tutti i punti $(x_1, x_2, \ldots, x_n) \in \mathbb{R}^n$ che minimizzano la funzione $f : \mathbb{R}^n \to \mathbb{R}$ definita da
 > $$f(x_1, x_2, \ldots, x_n) = \sum_{k=0}^{2n} \left| \sum_{\substack{(a_1, \ldots, a_n) \in \{0,1,2\}^n \\ a_1 + a_2 + \cdots + a_n = k}} x_1^{a_1} x_2^{a_2} \cdots x_n^{a_n} - 1 \right|.$$
 
+
 **Topic:** [[topic_algebra|Algebra]], [[topic_disuguaglianze|Disuguaglianze]]
-**Metodo:** [[method_disuguaglianze|Disuguaglianze]], [[method_estremalita|Estremalità]], [[method_simmetria|Simmetria]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze]], [[method_estremalita|Estremalità]], [[method_simmetria|Simmetria]], [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]], [[skill_stima|Stima]]
 **Area:** [[Algebra e Analisi]]
-
-[[Quesiti/src_cn_ctst_2022#q10|src_cn_ctst_2022__Q10]]
 
 
 
@@ -391,11 +377,9 @@ level: China National Team Selection Test
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]], [[skill_astrazione|Astrazione]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 
-[[Quesiti/src_cn_ctst_2022#q11|src_cn_ctst_2022__Q11]]
 
 
-
-<span class="atom-split" id="q12" data-atom="q12" data-title="Quesito 12" data-tags="topic_combinatoria,topic_algebra,method_disuguaglianze,method_doppio_conteggio,skill_stima,skill_manipolazione_algebrica,skill_modellizzazione"></span>
+<span class="atom-split" id="q12" data-atom="q12" data-title="Quesito 12" data-tags="topic_combinatoria,topic_algebra,method_disuguaglianze,method_doppio_conteggio,skill_stima,skill_manipolazione_algebrica,skill_modellizzazione,skill_conteggio_sistematico"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -406,8 +390,8 @@ level: China National Team Selection Test
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_algebra|Algebra]]
 **Metodo:** [[method_disuguaglianze|Disuguaglianze]], [[method_doppio_conteggio|Doppio conteggio]]
-**Abilita:** [[skill_stima|Stima]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]]
-**Area:** [[Combinatoria, Logica e Probabilita]], [[Algebra e Analisi]]
+**Abilita:** [[skill_stima|Stima]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]], [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Algebra e Analisi|Algebra and analysis]]
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1OFC5fmTEMyWQSx2doV1_Jplo27sQCZ_A/view)
 
 
@@ -418,12 +402,11 @@ level: China National Team Selection Test
 
 > Siano $m$ e $n$ numeri interi positivi tali che $m \ge n \ge 2022$. Dimostrare che, per qualsiasi numero reale $a_1, a_2, \ldots, a_n$, $b_1, b_2, \ldots, b_n$, il numero di coppie ordinate $(i, j)$ tali che $1 \le i, j \le n$ e vale $|a_i + b_j - ij| \le m$ non supera $3n\sqrt{m \ln n}$.
 
+
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_algebra|Algebra]]
 **Metodo:** [[method_disuguaglianze|Disuguaglianze]], [[method_doppio_conteggio|Doppio conteggio]]
-**Abilita:** [[skill_stima|Stima]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]]
+**Abilita:** [[skill_stima|Stima]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]], [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Algebra e Analisi]]
-
-[[Quesiti/src_cn_ctst_2022#q12|src_cn_ctst_2022__Q12]]
 
 
 
@@ -436,7 +419,7 @@ level: China National Team Selection Test
 
 > Given that circle $\Gamma_2$ is inside circle $\Gamma_1$ on the plane. Prove that there exists a point $P$ on the plane with the following property: if $\ell$ is any line not passing through $P$ that intersects both $\Gamma_1$ and $\Gamma_2$ at distinct points, with $\Gamma_1$ cut at $A$ and $B$ and $\Gamma_2$ cut at $C$ and $D$ (so that $A$, $C$, $D$, $B$ are in this order on $\ell$), then $\angle CPD \ge \angle APB$.
 
-![[src_cn_ctst_2022__q13.png]]
+![[src_cn_ctst_2022__Q13.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_coordinate|Coordinate]], [[method_trigonometria|Trigonometria]], [[method_estremalita|Estremalità]]
@@ -452,14 +435,12 @@ level: China National Team Selection Test
 
 > Dato che il cerchio $\Gamma_2$ è contenuto nel cerchio $\Gamma_1$ nel piano, dimostrare che esiste un punto $P$ nel piano con la seguente proprietà: se $\ell$ è una qualsiasi retta che non passa per $P$ e interseca sia $\Gamma_1$ sia $\Gamma_2$ in punti distinti, con $\Gamma_1$ tagliato in $A$ e $B$ e $\Gamma_2$ tagliati in $C$ e $D$ (cosicché $A$, $C$, $D$, $B$ siano in quest'ordine su $\ell$), allora $\angle CPD \ge \angle APB$.
 
-![[src_cn_ctst_2022__q13.png]]
+![[src_cn_ctst_2022__Q13.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_coordinate|Coordinate]], [[method_trigonometria|Trigonometria]], [[method_estremalita|Estremalità]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]], [[skill_astrazione|Astrazione]]
 **Area:** [[Geometria]]
-
-[[Quesiti/src_cn_ctst_2022#q13|src_cn_ctst_2022__Q13]]
 
 
 
@@ -491,11 +472,9 @@ level: China National Team Selection Test
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_modellizzazione|Modellizzazione]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 
-[[Quesiti/src_cn_ctst_2022#q14|src_cn_ctst_2022__Q14]]
 
 
-
-<span class="atom-split" id="q15" data-atom="q15" data-title="Quesito 15" data-tags="topic_combinatoria,topic_aritmetica,method_congruenze,method_conteggio,method_induzione,skill_modellizzazione,skill_conteggio_sistematico,skill_astrazione"></span>
+<span class="atom-split" id="q15" data-atom="q15" data-title="Quesito 15" data-tags="topic_combinatoria,topic_aritmetica,method_congruenze,method_conteggio,method_induzione,method_casework,skill_modellizzazione,skill_conteggio_sistematico,skill_astrazione,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -507,9 +486,9 @@ level: China National Team Selection Test
 > (2) There exist $M$ tuples $(c_{1,1}, \ldots, c_{1,n}), (c_{2,1}, \ldots, c_{2,n}), \ldots, (c_{M,1}, \ldots, c_{M,n}) \in \mathbb{Z}^n$ such that for any $1 \le i < j \le M$, there exists some index $k \in \{1, 2, \ldots, n\}$ with $c_{i,k} - c_{j,k} \not\equiv 0, \pm 1 \pmod{a_k}$.
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_congruenze|Congruenze]], [[method_conteggio|Conteggio]], [[method_induzione|Induzione]]
-**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_astrazione|Astrazione]]
-**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
+**Metodo:** [[method_congruenze|Congruenze]], [[method_conteggio|Conteggio]], [[method_induzione|Induzione]], [[method_casework|Case analysis]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_astrazione|Astrazione]], [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1OFC5fmTEMyWQSx2doV1_Jplo27sQCZ_A/view)
 
 
@@ -520,16 +499,15 @@ level: China National Team Selection Test
 
 > Sia dato un intero positivo $n \ge 2$. Trovare tutti gli $(a_1, a_2, \ldots, a_n) \in \mathbb{Z}^n$ che soddisfano le seguenti condizioni: (1) Ogni $a_i$ è dispari e $1 < a_1 \le a_2 \le \cdots \le a_n$, e $M = \dfrac{1}{2^n}\prod_{i=1}^{n}(a_i - 1)$ è un intero positivo; (2) Esistono $M$ n-uple $(c_{1,1}, \ldots, c_{1,n}), (c_{2,1}, \ldots, c_{2,n}), \ldots, (c_{M,1}, \ldots, c_{M,n}) \in \mathbb{Z}^n$ tali che, per ogni $1 \le i < j \le M$, esiste un certo indice $k \in \{1, 2, \ldots, n\}$ con $c_{i,k} - c_{j,k} \not\equiv 0, \pm 1 \pmod{a_k}$.
 
+
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_congruenze|Congruenze]], [[method_conteggio|Conteggio]], [[method_induzione|Induzione]]
-**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_astrazione|Astrazione]]
+**Metodo:** [[method_congruenze|Congruenze]], [[method_conteggio|Conteggio]], [[method_induzione|Induzione]], [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_astrazione|Astrazione]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 
-[[Quesiti/src_cn_ctst_2022#q15|src_cn_ctst_2022__Q15]]
 
 
-
-<span class="atom-split" id="q16" data-atom="q16" data-title="Quesito 16" data-tags="topic_combinatoria,topic_geometria_piana,method_casework,method_invarianti,method_induzione,skill_ragionamento_geometrico,skill_modellizzazione,skill_riconoscimento_pattern"></span>
+<span class="atom-split" id="q16" data-atom="q16" data-title="Quesito 16" data-tags="topic_combinatoria,topic_geometria_piana,topic_geometria_analitica,method_casework,method_invarianti,method_induzione,method_coordinate,skill_ragionamento_geometrico,skill_modellizzazione,skill_riconoscimento_pattern,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -538,10 +516,10 @@ level: China National Team Selection Test
 
 > In the rectangular coordinate system, there exist finitely many triangles such that: their centroids are all integer points (lattice points); the intersection of any two triangles is either empty, a common vertex, or a common edge; and the union of all the triangles is a square with integer side length $k$ (the vertices of the square need not be lattice points, and the sides need not be parallel to the axes). Find all positive integers $k$ for which such a configuration exists.
 
-**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_geometria_piana|Geometria piana]]
-**Metodo:** [[method_casework|Casework]], [[method_invarianti|Invarianti]], [[method_induzione|Induzione]]
-**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
-**Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_geometria_piana|Geometria piana]], [[topic_geometria_analitica|Coordinate geometry]]
+**Metodo:** [[method_casework|Casework]], [[method_invarianti|Invarianti]], [[method_induzione|Induzione]], [[method_coordinate|Coordinate method]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Geometria|Geometry]]
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1OFC5fmTEMyWQSx2doV1_Jplo27sQCZ_A/view)
 
 
@@ -552,12 +530,11 @@ level: China National Team Selection Test
 
 > Nel sistema di coordinate cartesiane, esistono un numero finito di triangoli tali che: i loro baricentri sono tutti punti interi (punti della reticolazione); l'intersezione di due qualsiasi triangoli è vuota, oppure è un vertice comune, oppure è un lato comune; e l'unione di tutti i triangoli è un quadrato di lato di lunghezza intera $k$ (i vertici del quadrato non devono necessariamente essere punti della reticolazione, e i lati non devono necessariamente essere paralleli agli assi). Determinare tutti gli interi positivi $k$ per i quali esiste una tale configurazione.
 
-**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_geometria_piana|Geometria piana]]
-**Metodo:** [[method_casework|Casework]], [[method_invarianti|Invarianti]], [[method_induzione|Induzione]]
-**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
-**Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 
-[[Quesiti/src_cn_ctst_2022#q16|src_cn_ctst_2022__Q16]]
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_geometria_piana|Geometria piana]], [[topic_geometria_analitica|Geometria analitica]]
+**Metodo:** [[method_casework|Casework]], [[method_invarianti|Invarianti]], [[method_induzione|Induzione]], [[method_coordinate|Metodo delle coordinate]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 
 
 
@@ -588,8 +565,6 @@ level: China National Team Selection Test
 **Metodo:** [[method_conteggio|Conteggio]], [[method_induzione|Induzione]], [[method_cassetti|Principio dei cassetti]]
 **Abilita:** [[skill_stima|Stima]], [[skill_modellizzazione|Modellizzazione]], [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
-
-[[Quesiti/src_cn_ctst_2022#q17|src_cn_ctst_2022__Q17]]
 
 
 
@@ -629,11 +604,9 @@ level: China National Team Selection Test
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Algebra e Analisi]], [[Geometria]]
 
-[[Quesiti/src_cn_ctst_2022#q18|src_cn_ctst_2022__Q18]]
 
 
-
-<span class="atom-split" id="q19" data-atom="q19" data-title="Quesito 19" data-tags="topic_combinatoria,method_invarianti,method_induzione,method_casework,skill_modellizzazione,skill_ragionamento_geometrico,skill_riconoscimento_pattern"></span>
+<span class="atom-split" id="q19" data-atom="q19" data-title="Quesito 19" data-tags="topic_combinatoria,method_invarianti,method_induzione,method_casework,skill_modellizzazione,skill_ragionamento_geometrico,skill_riconoscimento_pattern,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -649,8 +622,8 @@ level: China National Team Selection Test
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_invarianti|Invarianti]], [[method_induzione|Induzione]], [[method_casework|Casework]]
-**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
-**Area:** [[Combinatoria, Logica e Probabilita]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1OFC5fmTEMyWQSx2doV1_Jplo27sQCZ_A/view)
 
 
@@ -661,12 +634,11 @@ level: China National Team Selection Test
 
 > Inizialmente, ciascun quadrato unitario di una griglia $n \times n$ ($n \ge 2$) è colorato di rosso, di giallo o di blu. Ogni secondo, i colori dei quadrati unitari cambiano simultaneamente secondo le seguenti regole: (1) se $A$ è rosso e $A$ condivide un lato con un quadrato giallo, allora $A$ diventa giallo; (2) se $B$ è giallo e $B$ condivide un lato con un quadrato blu, allora $B$ diventa blu; (3) se $C$ è blu e $C$ condivide un lato con un quadrato rosso, allora $C$ diventa rosso; (4) in tutti gli altri casi, il colore non cambia. Dimostrare: se la griglia non diventa monocolore dopo $2n - 2$ secondi, allora non diventerà mai monocolore in un tempo finito.
 
+
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_invarianti|Invarianti]], [[method_induzione|Induzione]], [[method_casework|Casework]]
-**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
-
-[[Quesiti/src_cn_ctst_2022#q19|src_cn_ctst_2022__Q19]]
 
 
 
@@ -679,7 +651,7 @@ level: China National Team Selection Test
 
 > As shown in Fig. 2.1, in the convex quadrilateral $ABCD$, let $I$ and $J$ be the incentres of $\triangle ABC$ and $\triangle ACD$, respectively. It is known that $IJ$, $AC$, and $BD$ are concurrent at a point $P$. The line through $P$ perpendicular to $BD$ meets the exterior angle bisectors of $\angle BAD$ and $\angle BCD$ at $E$ and $F$, respectively. Prove that $PE = PF$.
 
-![[src_cn_ctst_2022__q20.png]]
+![[src_cn_ctst_2022__Q20.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_trigonometria|Trigonometria]], [[method_coordinate|Coordinate]]
@@ -695,18 +667,16 @@ level: China National Team Selection Test
 
 > Come mostrato nella Fig. 2.1, nel quadrilatero convesso $ABCD$, siano $I$ e $J$ gli incentri di $\triangle ABC$ e $\triangle ACD$, rispettivamente. È noto che $IJ$, $AC$ e $BD$ sono concorrenti in un punto $P$. La retta passante per $P$ e perpendicolare a $BD$ incontra le bisettrici degli angoli esterni di $\angle BAD$ e $\angle BCD$ rispettivamente nei punti $E$ e $F$. Dimostrare che $PE = PF$.
 
-![[src_cn_ctst_2022__q20.png]]
+![[src_cn_ctst_2022__Q20.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_trigonometria|Trigonometria]], [[method_coordinate|Coordinate]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 
-[[Quesiti/src_cn_ctst_2022#q20|src_cn_ctst_2022__Q20]]
 
 
-
-<span class="atom-split" id="q21" data-atom="q21" data-title="Quesito 21" data-tags="topic_funzionali,topic_algebra,method_casework,method_simmetria,method_induzione,skill_manipolazione_algebrica,skill_casework_accurato,skill_lettura_attenta"></span>
+<span class="atom-split" id="q21" data-atom="q21" data-title="Quesito 21" data-tags="topic_funzionali,topic_algebra,method_casework,method_simmetria,method_induzione,skill_manipolazione_algebrica,skill_casework_accurato,skill_lettura_attenta,skill_riconoscimento_pattern"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -719,8 +689,8 @@ level: China National Team Selection Test
 
 **Topic:** [[topic_funzionali|Equazioni funzionali]], [[topic_algebra|Algebra]]
 **Metodo:** [[method_casework|Casework]], [[method_simmetria|Simmetria]], [[method_induzione|Induzione]]
-**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Casework accurato]], [[skill_lettura_attenta|Lettura attenta]]
-**Area:** [[Algebra e Analisi]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Casework accurato]], [[skill_lettura_attenta|Lettura attenta]], [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
 **Risposta:** $f(x) = x$ or $f(x) = -x$
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1OFC5fmTEMyWQSx2doV1_Jplo27sQCZ_A/view)
 
@@ -734,12 +704,11 @@ level: China National Team Selection Test
 > $$\{f(xf(y) + 1),\, f(yf(x) - 1)\} = \{xf(f(y)) - 1,\, yf(f(x)) + 1\}.$$
 > (Nota: due multinsiemi $\{a, b\}$ e $\{c, d\}$ sono identici se e solo se $a = c,\, b = d$, oppure $a = d,\, b = c$.)
 
+
 **Topic:** [[topic_funzionali|Equazioni funzionali]], [[topic_algebra|Algebra]]
 **Metodo:** [[method_casework|Casework]], [[method_simmetria|Simmetria]], [[method_induzione|Induzione]]
-**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Casework accurato]], [[skill_lettura_attenta|Lettura attenta]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Casework accurato]], [[skill_lettura_attenta|Lettura attenta]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Algebra e Analisi]]
-
-[[Quesiti/src_cn_ctst_2022#q21|src_cn_ctst_2022__Q21]]
 
 
 
@@ -773,8 +742,6 @@ level: China National Team Selection Test
 **Metodo:** [[method_congruenze|Congruenze]], [[method_fattorizzazione|Fattorizzazione]], [[method_casework|Casework]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Casework accurato]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
-
-[[Quesiti/src_cn_ctst_2022#q22|src_cn_ctst_2022__Q22]]
 
 
 
@@ -818,8 +785,6 @@ level: China National Team Selection Test
 **Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_stima|Stima]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Algebra e Analisi]]
 
-[[Quesiti/src_cn_ctst_2022#q23|src_cn_ctst_2022__Q23]]
-
 
 
 <span class="atom-split" id="q24" data-atom="q24" data-title="Quesito 24" data-tags="topic_combinatoria,topic_aritmetica,method_disuguaglianze,method_doppio_conteggio,method_bigezione,skill_manipolazione_algebrica,skill_modellizzazione,skill_astrazione"></span>
@@ -851,5 +816,3 @@ level: China National Team Selection Test
 **Metodo:** [[method_disuguaglianze|Disuguaglianze]], [[method_doppio_conteggio|Doppio conteggio]], [[method_bigezione|Biiezione]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]], [[skill_astrazione|Astrazione]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
-
-[[Quesiti/src_cn_ctst_2022#q24|src_cn_ctst_2022__Q24]]

@@ -19,7 +19,7 @@ level: China Mathematical Olympiad
 
 > As shown below, two circles $\Gamma_1$, $\Gamma_2$ intersect at points $A$, $B$. One line passing through $B$ intersects $\Gamma_1$, $\Gamma_2$ at points $C$, $D$; another line passing through $B$ intersects $\Gamma_1$, $\Gamma_2$ at points $E$, $F$; and line $CF$ intersects $\Gamma_1$, $\Gamma_2$ at points $P$, $Q$, respectively. Let $M$, $N$ be the middle points of arc $\widehat{PB}$ (on $\Gamma_1$) and arc $\widehat{QB}$ (on $\Gamma_2$), respectively. Draw lines $CM$ and $FN$. Prove that $C$, $F$, $M$, $N$ are concyclic. (Posed by Xiong Bin)
 
-![[src_cn_cmo_2010__q01.png]]
+![[src_cn_cmo_2010__Q01.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_simmetria|Simmetria]], [[method_trigonometria|Trigonometria]]
@@ -35,18 +35,16 @@ level: China Mathematical Olympiad
 
 > Come mostrato di seguito, due circonferenze $\Gamma_1$, $\Gamma_2$ si intersecano nei punti $A$, $B$. Una retta passante per $B$ interseca $\Gamma_1$, $\Gamma_2$ nei punti $C$, $D$; un'altra retta passante per $B$ interseca $\Gamma_1$, $\Gamma_2$ nei punti $E$, $F$; e la retta $CF$ interseca $\Gamma_1$, $\Gamma_2$ nei punti $P$, $Q$, rispettivamente. Siano $M$, $N$ i punti medi dell'arco $\widehat{PB}$ (su $\Gamma_1$) e dell'arco $\widehat{QB}$ (su $\Gamma_2$), rispettivamente. Tracciare le rette $CM$ e $FN$. Dimostrare che $C$, $F$, $M$, $N$ sono conciclici. (Proposto da Xiong Bin)
 
-![[src_cn_cmo_2010__q01.png]]
+![[src_cn_cmo_2010__Q01.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_simmetria|Simmetria]], [[method_trigonometria|Trigonometria]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Geometria]]
 
-[[Quesiti/src_cn_cmo_2010#q01|src_cn_cmo_2010__Q01]]
 
 
-
-<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_aritmetica,topic_combinatoria,method_congruenze,method_induzione,skill_manipolazione_algebrica,skill_riconoscimento_pattern,skill_lettura_attenta"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_aritmetica,topic_combinatoria,topic_funzionali,method_congruenze,method_induzione,method_ricorsione,skill_manipolazione_algebrica,skill_riconoscimento_pattern,skill_lettura_attenta,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -57,10 +55,10 @@ level: China Mathematical Olympiad
 > $$a_{n+1} = \begin{cases} a_n + 1, & \text{if } a_n \text{ and } n \text{ are coprime,} \\ 2a_n, & \text{otherwise,} \end{cases}$$
 > prove that $a_n$ is a prime for infinitely many $n$. (Posed by Zhu Huawei)
 
-**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
-**Metodo:** [[method_congruenze|Congruenze]], [[method_induzione|Induzione]]
-**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_lettura_attenta|Lettura attenta]]
-**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]], [[topic_funzionali|Functional equations / sequences]]
+**Metodo:** [[method_congruenze|Congruenze]], [[method_induzione|Induzione]], [[method_ricorsione|Recursion]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_lettura_attenta|Lettura attenta]], [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Algebra e Analisi|Algebra and analysis]]
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1WZGXm4nA5dcZd9asSbnzGZkeWDSjqbF6/view)
 
 
@@ -73,16 +71,15 @@ level: China Mathematical Olympiad
 > $$a_{n+1} = \begin{cases} a_n + 1, & \text{if } a_n \text{ and } n \text{ are coprime,} \\ 2a_n, & \text{otherwise,} \end{cases}$$
 > dimostrare che $a_n$ è un numero primo per infiniti $n$. (Proposto da Zhu Huawei)
 
-**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
-**Metodo:** [[method_congruenze|Congruenze]], [[method_induzione|Induzione]]
-**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_lettura_attenta|Lettura attenta]]
-**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 
-[[Quesiti/src_cn_cmo_2010#q02|src_cn_cmo_2010__Q02]]
-
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]], [[topic_funzionali|Equazioni funzionali / successioni]]
+**Metodo:** [[method_congruenze|Congruenze]], [[method_induzione|Induzione]], [[method_ricorsione|Ricorsione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_lettura_attenta|Lettura attenta]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]], [[Algebra e Analisi]]
 
 
-<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_algebra,topic_funzionali,method_estremalita,method_disuguaglianze,skill_manipolazione_algebrica,skill_stima,skill_astrazione"></span>
+
+<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_algebra,topic_funzionali,method_estremalita,method_disuguaglianze,method_simmetria,skill_manipolazione_algebrica,skill_stima,skill_astrazione"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -92,9 +89,9 @@ level: China Mathematical Olympiad
 > Let $a$, $b$, $c$ be complex numbers such that $|az^2 + bz + c| \le 1$ for all complex numbers $z$ with $|z| \le 1$. Find the maximum value of $|b|$. (Posed by Li Weigui)
 
 **Topic:** [[topic_algebra|Algebra]], [[topic_funzionali|Equazioni funzionali]]
-**Metodo:** [[method_estremalita|Estremalità]], [[method_disuguaglianze|Disuguaglianze]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_disuguaglianze|Disuguaglianze]], [[method_simmetria|Using symmetry]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]], [[skill_astrazione|Astrazione]]
-**Area:** [[Algebra e Analisi]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1WZGXm4nA5dcZd9asSbnzGZkeWDSjqbF6/view)
 
 
@@ -105,12 +102,11 @@ level: China Mathematical Olympiad
 
 > Siano $a$, $b$, $c$ numeri complessi tali che $|az^2 + bz + c| \le 1$ per tutti i numeri complessi $z$ con $|z| \le 1$. Determinare il valore massimo di $|b|$. (Proposto da Li Weigui)
 
+
 **Topic:** [[topic_algebra|Algebra]], [[topic_funzionali|Equazioni funzionali]]
-**Metodo:** [[method_estremalita|Estremalità]], [[method_disuguaglianze|Disuguaglianze]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_disuguaglianze|Disuguaglianze]], [[method_simmetria|Sfruttamento della simmetria]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]], [[skill_astrazione|Astrazione]]
 **Area:** [[Algebra e Analisi]]
-
-[[Quesiti/src_cn_cmo_2010#q03|src_cn_cmo_2010__Q03]]
 
 
 
@@ -141,8 +137,6 @@ level: China Mathematical Olympiad
 **Metodo:** [[method_estremalita|Estremalità]], [[method_cassetti|Principio dei cassetti]], [[method_conteggio|Conteggio]]
 **Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
-
-[[Quesiti/src_cn_cmo_2010#q04|src_cn_cmo_2010__Q04]]
 
 
 
@@ -177,11 +171,9 @@ level: China Mathematical Olympiad
 **Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 
-[[Quesiti/src_cn_cmo_2010#q05|src_cn_cmo_2010__Q05]]
 
 
-
-<span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_algebra,topic_aritmetica,method_congruenze,method_induzione,method_fattorizzazione,skill_manipolazione_algebrica,skill_ragionamento_geometrico,skill_lettura_attenta"></span>
+<span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_algebra,topic_aritmetica,method_congruenze,method_induzione,method_fattorizzazione,skill_manipolazione_algebrica,skill_ragionamento_geometrico,skill_lettura_attenta,skill_stima"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -194,8 +186,8 @@ level: China Mathematical Olympiad
 
 **Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_congruenze|Congruenze]], [[method_induzione|Induzione]], [[method_fattorizzazione|Fattorizzazione]]
-**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
-**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_stima|Estimation and approximation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1WZGXm4nA5dcZd9asSbnzGZkeWDSjqbF6/view)
 
 
@@ -208,9 +200,8 @@ level: China Mathematical Olympiad
 > $$(n-1)!\, n!\, (n+1)!\, (2n-1)! \mid \prod_{1 \le i < j \le 3}(a_i - a_j) \cdot \prod_{1 \le i < j \le 3}(b_i - b_j)$$
 > vale per qualche intero positivo $n$. Dimostrare che esiste un intero positivo $r$ tale che $a_1^r + a_2^r + a_3^r = b_1^r + b_2^r + b_3^r$. (Proposto da Chen Yonggao)
 
+
 **Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_congruenze|Congruenze]], [[method_induzione|Induzione]], [[method_fattorizzazione|Fattorizzazione]]
-**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_stima|Stima e approssimazione]]
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
-
-[[Quesiti/src_cn_cmo_2010#q06|src_cn_cmo_2010__Q06]]

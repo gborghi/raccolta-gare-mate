@@ -10,7 +10,7 @@ level: TFJM²
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_combinatoria,topic_geometria_piana,method_casework,method_conteggio,method_estremalita,skill_modellizzazione,skill_conteggio_sistematico,skill_ragionamento_geometrico"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_combinatoria,topic_geometria_piana,method_casework,method_conteggio,method_estremalita,method_grafi,skill_modellizzazione,skill_conteggio_sistematico,skill_ragionamento_geometrico"></span>
 
 <div class="qlang-switch" data-default="fr"></div>
 
@@ -48,10 +48,10 @@ level: TFJM²
 >
 > 8. Proposer et étudier d’autres pistes de recherche.
 
-![[src_tfjm_2019__q01.png]]
+![[src_tfjm_2019__Q01.png]]
 
 **Topic:** [[topic_combinatoria|Combinatoire]], [[topic_geometria_piana|Géométrie plane]]
-**Metodo:** [[method_casework|Analyse par cas]], [[method_conteggio|Dénombrement]], [[method_estremalita|Principe d'extrémalité]]
+**Metodo:** [[method_casework|Analyse par cas]], [[method_conteggio|Dénombrement]], [[method_estremalita|Principe d'extrémalité]], [[method_grafi|Théorie des graphes]]
 **Abilita:** [[skill_modellizzazione|Modélisation]], [[skill_conteggio_sistematico|Dénombrement systématique]], [[skill_ragionamento_geometrico|Raisonnement géométrique]]
 **Area:** [[Combinatoria, Logica e Probabilita|Combinatoire, logique et probabilités]], [[Geometria|Géométrie]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/17R031cXNi14VUsGINAxDROVxCLgJqOX-/view)
@@ -93,7 +93,12 @@ level: TFJM²
 >
 > 8. Si propongano e si studino altre piste di ricerca.
 
-[[Quesiti/src_tfjm_2019#q01|src_tfjm_2019__Q01]]
+![[src_tfjm_2019__Q01.png]]
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_casework|Analisi per casi]], [[method_conteggio|Conteggio combinatorio]], [[method_estremalita|Principio di estremalita]], [[method_grafi|Teoria dei grafi]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -132,11 +137,16 @@ level: TFJM²
 >
 > 8. Propose and study other lines of inquiry.
 
-[[Quesiti/src_tfjm_2019#q01|src_tfjm_2019__Q01]]
+![[src_tfjm_2019__Q01.png]]
+
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_casework|Case analysis]], [[method_conteggio|Combinatorial counting]], [[method_estremalita|Extremal principle]], [[method_grafi|Graph theory]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]], [[skill_conteggio_sistematico|Systematic counting]], [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Geometria|Geometry]]
 
 
 
-<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_algebra,topic_combinatoria,method_estremalita,method_casework,skill_modellizzazione,skill_manipolazione_algebrica,skill_stima"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_algebra,topic_combinatoria,method_estremalita,method_casework,skill_modellizzazione,skill_manipolazione_algebrica,skill_stima,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="fr"></div>
 
@@ -165,11 +175,11 @@ level: TFJM²
 >
 > 6. Proposer et étudier d’autres pistes de recherche.
 
-![[src_tfjm_2019__q02.png]]
+![[src_tfjm_2019__Q02.png]]
 
 **Topic:** [[topic_algebra|Algèbre]], [[topic_combinatoria|Combinatoire]]
 **Metodo:** [[method_estremalita|Principe d'extrémalité]], [[method_casework|Analyse par cas]]
-**Abilita:** [[skill_modellizzazione|Modélisation]], [[skill_manipolazione_algebrica|Manipulation algébrique]], [[skill_stima|Estimation et approximation]]
+**Abilita:** [[skill_modellizzazione|Modélisation]], [[skill_manipolazione_algebrica|Manipulation algébrique]], [[skill_stima|Estimation et approximation]], [[skill_casework_accurato|Analyse par cas soigneuse]]
 **Area:** [[Algebra e Analisi|Algèbre et analyse]], [[Combinatoria, Logica e Probabilita|Combinatoire, logique et probabilités]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/17R031cXNi14VUsGINAxDROVxCLgJqOX-/view)
 
@@ -201,7 +211,12 @@ level: TFJM²
 >
 > 6. Si propongano e si studino altre piste di ricerca.
 
-[[Quesiti/src_tfjm_2019#q02|src_tfjm_2019__Q02]]
+![[src_tfjm_2019__Q02.png]]
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_estremalita|Principio di estremalita]], [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima e approssimazione]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Algebra e Analisi]], [[Combinatoria, Logica e Probabilita]]
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -231,11 +246,16 @@ level: TFJM²
 >
 > 6. Propose and study other lines of inquiry.
 
-[[Quesiti/src_tfjm_2019#q02|src_tfjm_2019__Q02]]
+![[src_tfjm_2019__Q02.png]]
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_estremalita|Extremal principle]], [[method_casework|Case analysis]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]], [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_stima|Estimation and approximation]], [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
 
 
-<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_combinatoria,method_casework,method_conteggio,method_estremalita,skill_modellizzazione,skill_conteggio_sistematico,skill_riconoscimento_pattern"></span>
+<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_combinatoria,method_casework,method_conteggio,method_estremalita,skill_modellizzazione,skill_conteggio_sistematico,skill_riconoscimento_pattern,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="fr"></div>
 
@@ -279,11 +299,11 @@ level: TFJM²
 >
 > 6. Proposer et étudier d’autres pistes de recherche.
 
-![[src_tfjm_2019__q03.png]]
+![[src_tfjm_2019__Q03.png]]
 
 **Topic:** [[topic_combinatoria|Combinatoire]]
 **Metodo:** [[method_casework|Analyse par cas]], [[method_conteggio|Dénombrement]], [[method_estremalita|Principe d'extrémalité]]
-**Abilita:** [[skill_modellizzazione|Modélisation]], [[skill_conteggio_sistematico|Dénombrement systématique]], [[skill_riconoscimento_pattern|Reconnaissance de motifs]]
+**Abilita:** [[skill_modellizzazione|Modélisation]], [[skill_conteggio_sistematico|Dénombrement systématique]], [[skill_riconoscimento_pattern|Reconnaissance de motifs]], [[skill_casework_accurato|Analyse par cas soigneuse]]
 **Area:** [[Combinatoria, Logica e Probabilita|Combinatoire, logique et probabilités]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/17R031cXNi14VUsGINAxDROVxCLgJqOX-/view)
 
@@ -330,7 +350,12 @@ level: TFJM²
 >
 > 6. Si propongano e si studino altre piste di ricerca.
 
-[[Quesiti/src_tfjm_2019#q03|src_tfjm_2019__Q03]]
+![[src_tfjm_2019__Q03.png]]
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casework|Analisi per casi]], [[method_conteggio|Conteggio combinatorio]], [[method_estremalita|Principio di estremalita]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -375,11 +400,16 @@ level: TFJM²
 >
 > 6. Propose and study other lines of inquiry.
 
-[[Quesiti/src_tfjm_2019#q03|src_tfjm_2019__Q03]]
+![[src_tfjm_2019__Q03.png]]
+
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_casework|Case analysis]], [[method_conteggio|Combinatorial counting]], [[method_estremalita|Extremal principle]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]], [[skill_conteggio_sistematico|Systematic counting]], [[skill_riconoscimento_pattern|Pattern recognition]], [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
 
 
-<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_combinatoria,topic_probabilita,method_casework,method_conteggio,method_estremalita,skill_modellizzazione,skill_conteggio_sistematico,skill_stima"></span>
+<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_combinatoria,topic_probabilita,topic_logica,method_casework,method_conteggio,method_estremalita,method_backward,skill_modellizzazione,skill_conteggio_sistematico,skill_stima"></span>
 
 <div class="qlang-switch" data-default="fr"></div>
 
@@ -412,10 +442,10 @@ level: TFJM²
 >
 > 6. Proposer et étudier d’autres pistes de recherche.
 
-![[src_tfjm_2019__q04.png]]
+![[src_tfjm_2019__Q04.png]]
 
-**Topic:** [[topic_combinatoria|Combinatoire]], [[topic_probabilita|Probabilités et statistique]]
-**Metodo:** [[method_casework|Analyse par cas]], [[method_conteggio|Dénombrement]], [[method_estremalita|Principe d'extrémalité]]
+**Topic:** [[topic_combinatoria|Combinatoire]], [[topic_probabilita|Probabilités et statistique]], [[topic_logica|Logique, jeux, stratégies]]
+**Metodo:** [[method_casework|Analyse par cas]], [[method_conteggio|Dénombrement]], [[method_estremalita|Principe d'extrémalité]], [[method_backward|Raisonnement à rebours]]
 **Abilita:** [[skill_modellizzazione|Modélisation]], [[skill_conteggio_sistematico|Dénombrement systématique]], [[skill_stima|Estimation et approximation]]
 **Area:** [[Combinatoria, Logica e Probabilita|Combinatoire, logique et probabilités]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/17R031cXNi14VUsGINAxDROVxCLgJqOX-/view)
@@ -452,7 +482,12 @@ level: TFJM²
 >
 > 6. Si propongano e si studino altre piste di ricerca.
 
-[[Quesiti/src_tfjm_2019#q04|src_tfjm_2019__Q04]]
+![[src_tfjm_2019__Q04.png]]
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_probabilita|Probabilita e statistica]], [[topic_logica|Logica, giochi, strategie]]
+**Metodo:** [[method_casework|Analisi per casi]], [[method_conteggio|Conteggio combinatorio]], [[method_estremalita|Principio di estremalita]], [[method_backward|Ragionamento all'indietro]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_stima|Stima e approssimazione]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -486,11 +521,16 @@ level: TFJM²
 >
 > 6. Propose and study other lines of inquiry.
 
-[[Quesiti/src_tfjm_2019#q04|src_tfjm_2019__Q04]]
+![[src_tfjm_2019__Q04.png]]
+
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_probabilita|Probability and statistics]], [[topic_logica|Logic, games and strategies]]
+**Metodo:** [[method_casework|Case analysis]], [[method_conteggio|Combinatorial counting]], [[method_estremalita|Extremal principle]], [[method_backward|Working backwards]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]], [[skill_conteggio_sistematico|Systematic counting]], [[skill_stima|Estimation and approximation]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
 
 
-<span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_geometria_piana,topic_combinatoria,method_casework,method_estremalita,method_simmetria,skill_ragionamento_geometrico,skill_modellizzazione,skill_casework_accurato"></span>
+<span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_geometria_piana,topic_combinatoria,method_casework,method_estremalita,method_simmetria,method_grafi,method_conteggio,skill_ragionamento_geometrico,skill_modellizzazione,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="fr"></div>
 
@@ -536,10 +576,10 @@ level: TFJM²
 >
 > 6. Proposer et étudier d’autres pistes de recherche.
 
-![[src_tfjm_2019__q05.png]]
+![[src_tfjm_2019__Q05.png]]
 
 **Topic:** [[topic_geometria_piana|Géométrie plane]], [[topic_combinatoria|Combinatoire]]
-**Metodo:** [[method_casework|Analyse par cas]], [[method_estremalita|Principe d'extrémalité]], [[method_simmetria|Exploitation de la symétrie]]
+**Metodo:** [[method_casework|Analyse par cas]], [[method_estremalita|Principe d'extrémalité]], [[method_simmetria|Exploitation de la symétrie]], [[method_grafi|Théorie des graphes]], [[method_conteggio|Dénombrement]]
 **Abilita:** [[skill_ragionamento_geometrico|Raisonnement géométrique]], [[skill_modellizzazione|Modélisation]], [[skill_casework_accurato|Analyse par cas soigneuse]]
 **Area:** [[Geometria|Géométrie]], [[Combinatoria, Logica e Probabilita|Combinatoire, logique et probabilités]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/17R031cXNi14VUsGINAxDROVxCLgJqOX-/view)
@@ -589,7 +629,12 @@ level: TFJM²
 >
 > 6. Si propongano e si studino altre piste di ricerca.
 
-[[Quesiti/src_tfjm_2019#q05|src_tfjm_2019__Q05]]
+![[src_tfjm_2019__Q05.png]]
+
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casework|Analisi per casi]], [[method_estremalita|Principio di estremalita]], [[method_simmetria|Sfruttamento della simmetria]], [[method_grafi|Teoria dei grafi]], [[method_conteggio|Conteggio combinatorio]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Geometria]], [[Combinatoria, Logica e Probabilita]]
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -636,11 +681,16 @@ level: TFJM²
 >
 > 6. Propose and study other lines of inquiry.
 
-[[Quesiti/src_tfjm_2019#q05|src_tfjm_2019__Q05]]
+![[src_tfjm_2019__Q05.png]]
+
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_casework|Case analysis]], [[method_estremalita|Extremal principle]], [[method_simmetria|Using symmetry]], [[method_grafi|Graph theory]], [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_modellizzazione|Modelling / translating the text]], [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Geometria|Geometry]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
 
 
-<span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_combinatoria,method_grafi,method_estremalita,method_casework,method_colorazione,skill_modellizzazione,skill_astrazione,skill_ragionamento_geometrico"></span>
+<span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_combinatoria,method_grafi,method_estremalita,method_casework,method_colorazione,method_invarianti,skill_modellizzazione,skill_astrazione,skill_ragionamento_geometrico"></span>
 
 <div class="qlang-switch" data-default="fr"></div>
 
@@ -686,10 +736,10 @@ level: TFJM²
 >
 > 7. Proposer et étudier d’autres pistes de recherche.
 
-![[src_tfjm_2019__q06.png]]
+![[src_tfjm_2019__Q06.png]]
 
 **Topic:** [[topic_combinatoria|Combinatoire]]
-**Metodo:** [[method_grafi|Théorie des graphes]], [[method_estremalita|Principe d'extrémalité]], [[method_casework|Analyse par cas]], [[method_colorazione|Coloriage / parité]]
+**Metodo:** [[method_grafi|Théorie des graphes]], [[method_estremalita|Principe d'extrémalité]], [[method_casework|Analyse par cas]], [[method_colorazione|Coloriage / parité]], [[method_invarianti|Invariants]]
 **Abilita:** [[skill_modellizzazione|Modélisation]], [[skill_astrazione|Abstraction / généralisation]], [[skill_ragionamento_geometrico|Raisonnement géométrique]]
 **Area:** [[Combinatoria, Logica e Probabilita|Combinatoire, logique et probabilités]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/17R031cXNi14VUsGINAxDROVxCLgJqOX-/view)
@@ -739,7 +789,12 @@ level: TFJM²
 >
 > 7. Si propongano e si studino altre piste di ricerca.
 
-[[Quesiti/src_tfjm_2019#q06|src_tfjm_2019__Q06]]
+![[src_tfjm_2019__Q06.png]]
+
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_grafi|Teoria dei grafi]], [[method_estremalita|Principio di estremalita]], [[method_casework|Analisi per casi]], [[method_colorazione|Colorazione / parita]], [[method_invarianti|Invarianti / monovarianti]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_astrazione|Astrazione / generalizzazione]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -786,14 +841,16 @@ level: TFJM²
 >
 > 7. Propose and study other lines of inquiry.
 
-[[Quesiti/src_tfjm_2019#q06|src_tfjm_2019__Q06]]
+![[src_tfjm_2019__Q06.png]]
+
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_grafi|Graph theory]], [[method_estremalita|Extremal principle]], [[method_casework|Case analysis]], [[method_colorazione|Colouring / parity]], [[method_invarianti|Invariants / monovariants]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]], [[skill_astrazione|Abstraction / generalisation]], [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
 
 
 <span class="atom-split" id="q07" data-atom="q07" data-title="Quesito 7" data-tags="topic_aritmetica,topic_combinatoria,method_congruenze,method_conteggio,method_casework,skill_manipolazione_algebrica,skill_riconoscimento_pattern,skill_conteggio_sistematico"></span>
-
-<div class="qlang-switch" data-default="fr"></div>
-
 
 *Chocolats passés en ligne : quand la répartition est équilibrée, et quels lots de boîtes donnent une distribution équitable.*
 
@@ -831,7 +888,7 @@ level: TFJM²
 >
 > 8. Proposer et étudier d’autres pistes de recherche.
 
-![[src_tfjm_2019__q07.png]]
+![[src_tfjm_2019__Q07.png]]
 
 **Topic:** [[topic_aritmetica|Arithmétique / théorie des nombres]], [[topic_combinatoria|Combinatoire]]
 **Metodo:** [[method_congruenze|Arithmétique modulaire / congruences]], [[method_conteggio|Dénombrement]], [[method_casework|Analyse par cas]]
@@ -840,50 +897,20 @@ level: TFJM²
 **Fonte:** [apri PDF](https://drive.google.com/file/d/17R031cXNi14VUsGINAxDROVxCLgJqOX-/view)
 
 
-<div class="qlang-split" data-lang="it"></div>
 
+<span class="atom-split" id="q07__en" data-atom="q07__en" data-title="Q07__EN" data-tags=""></span>
 
-*Cioccolatini passati in fila: quando la ripartizione è equilibrata, e quali lotti di scatole danno una distribuzione equa.*
-
-> 7. Distribuzione di cioccolatini
->
-> Gli $n$ nipoti di nonno Théo sono in fila, numerati da $1$ a $n$. Ogni giorno apre una scatola. Il primo giorno la riceve il bambino $1$, prende un cioccolatino e la passa al vicino, e così via. Il giorno $j$ la scatola piena va al bambino $j$ (modulo $n$, tornando a $1$ dopo $n$). Quando la scatola arriva al bambino $n$, passa poi al bambino $1$.
->
-> Il giorno $j$ la scatola contiene $j$ cioccolatini. La Figura 13 mostra $4$ bambini dopo $5$ giorni: ne hanno ricevuti rispettivamente $5$, $3$, $4$ e $3$.
->
-> Figura 13. Quattro nipoti dopo cinque giorni.
->
-> Una configurazione è equilibrata se, in quell’istante, tutti i bambini hanno ricevuto lo stesso numero di cioccolatini.
->
-> 1. Secondo il valore di $n$, la configurazione è equilibrata dopo $n$ giorni?
->
-> 2. Secondo $n$, esiste un giorno al termine del quale la configurazione è equilibrata? Se sì, qual è il primo?
->
-> Si indica con $b(j)$ il numero di cioccolatini il giorno $j$. Le domande precedenti sono il caso $b(j) = j$.
->
-> 3. Ogni $d$ giorni si riparte da zero: $b(j)$ è il resto della divisione euclidea di $j$ per $d$. Secondo $n$ e $d$, esiste un giorno al termine del quale la configurazione è equilibrata? Se sì, qual è il primo?
->
-> Nonno Théo sceglie ora $d$ interi $(b_1, \ldots, b_d)$ e pone $b(j) = b_\ell$, dove $\ell$ è il resto della divisione euclidea di $j$ per $d$. Il caso precedente è $b_i = i$ per $1 \leqslant i < d$ e $b_d = 0$.
->
-> 4. Secondo $n$, $d$ e interi positivi $(c_1, \ldots, c_n)$, si possono scegliere $(b_1, \ldots, b_d)$ in modo che dopo $\mathrm{mcm}(n, d)$ giorni il bambino $i$ abbia ricevuto esattamente $c_i$ cioccolatini, per ogni $1 \leqslant i \leqslant n$?
->
-> Un modo di distribuzione è equo se esistono infiniti giorni al termine dei quali la configurazione è equilibrata.
->
-> Un lotto $(h_1, \ldots, h_d)$ verifica $0 \leqslant h_1 \leqslant h_2 \leqslant \cdots \leqslant h_d$. È ragionevole se esiste una permutazione $(b_1, \ldots, b_d)$ delle sue taglie che dà un modo equo. Per $n = 4$ e $d = 4$, il lotto $(1, 1, 3, 3)$ è ragionevole, perché $(b_1, b_2, b_3, b_4) = (1, 3, 1, 3)$ è equo. Il lotto $(0, 1, 1, 3)$ non lo è.
->
-> 5. Fissato $n$, per quali valori di $d$ tutti i lotti sono ragionevoli?
->
-> 6. Quali sono le condizioni necessarie e sufficienti perché un lotto dato sia ragionevole?
->
-> 7. Se $b(j) = j^2$, la distribuzione è equa? E se $b(j) = j^k$ per un altro intero $k$?
->
-> 8. Si propongano e si studino altre piste di ricerca.
-
-[[Quesiti/src_tfjm_2019#q07|src_tfjm_2019__Q07]]
-
-
-<div class="qlang-split" data-lang="en"></div>
-
+---
+tipo: quesito-translation
+translation_of: src_tfjm_2019__Q07
+lang: en
+secondary: true
+title: "Tournoi Français des Jeunes Mathématiciens (TFJM²) 2019 — Question 7"
+summary: "Chocolates passed along a line: when the share is balanced, and which batches of boxes give a fair distribution."
+topics: [topic_aritmetica, topic_combinatoria]
+methods: [method_congruenze, method_conteggio, method_casework]
+skills: [skill_manipolazione_algebrica, skill_riconoscimento_pattern, skill_conteggio_sistematico]
+tags: [kg/translation, topic/aritmetica, topic/combinatoria]---
 
 *Chocolates passed along a line: when the share is balanced, and which batches of boxes give a fair distribution.*
 
@@ -921,14 +948,77 @@ level: TFJM²
 >
 > 8. Propose and study other lines of inquiry.
 
+![[src_tfjm_2019__Q07.png]]
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]], [[method_conteggio|Combinatorial counting]], [[method_casework|Case analysis]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_riconoscimento_pattern|Pattern recognition]], [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
+[[Quesiti/src_tfjm_2019#q07|src_tfjm_2019__Q07]]
+
+
+
+<span class="atom-split" id="q07__it" data-atom="q07__it" data-title="Q07__IT" data-tags=""></span>
+
+---
+tipo: quesito-translation
+translation_of: src_tfjm_2019__Q07
+lang: it
+secondary: true
+title: "Tournoi Français des Jeunes Mathématiciens (TFJM²) 2019, quesito 7"
+summary: "Cioccolatini passati in fila: quando la ripartizione è equilibrata, e quali lotti di scatole danno una distribuzione equa."
+topics: [topic_aritmetica, topic_combinatoria]
+methods: [method_congruenze, method_conteggio, method_casework]
+skills: [skill_manipolazione_algebrica, skill_riconoscimento_pattern, skill_conteggio_sistematico]
+tags: [kg/translation, topic/aritmetica, topic/combinatoria]---
+
+*Cioccolatini passati in fila: quando la ripartizione è equilibrata, e quali lotti di scatole danno una distribuzione equa.*
+
+> 7. Distribuzione di cioccolatini
+>
+> Gli $n$ nipoti di nonno Théo sono in fila, numerati da $1$ a $n$. Ogni giorno apre una scatola. Il primo giorno la riceve il bambino $1$, prende un cioccolatino e la passa al vicino, e così via. Il giorno $j$ la scatola piena va al bambino $j$ (modulo $n$, tornando a $1$ dopo $n$). Quando la scatola arriva al bambino $n$, passa poi al bambino $1$.
+>
+> Il giorno $j$ la scatola contiene $j$ cioccolatini. La Figura 13 mostra $4$ bambini dopo $5$ giorni: ne hanno ricevuti rispettivamente $5$, $3$, $4$ e $3$.
+>
+> Figura 13. Quattro nipoti dopo cinque giorni.
+>
+> Una configurazione è equilibrata se, in quell’istante, tutti i bambini hanno ricevuto lo stesso numero di cioccolatini.
+>
+> 1. Secondo il valore di $n$, la configurazione è equilibrata dopo $n$ giorni?
+>
+> 2. Secondo $n$, esiste un giorno al termine del quale la configurazione è equilibrata? Se sì, qual è il primo?
+>
+> Si indica con $b(j)$ il numero di cioccolatini il giorno $j$. Le domande precedenti sono il caso $b(j) = j$.
+>
+> 3. Ogni $d$ giorni si riparte da zero: $b(j)$ è il resto della divisione euclidea di $j$ per $d$. Secondo $n$ e $d$, esiste un giorno al termine del quale la configurazione è equilibrata? Se sì, qual è il primo?
+>
+> Nonno Théo sceglie ora $d$ interi $(b_1, \ldots, b_d)$ e pone $b(j) = b_\ell$, dove $\ell$ è il resto della divisione euclidea di $j$ per $d$. Il caso precedente è $b_i = i$ per $1 \leqslant i < d$ e $b_d = 0$.
+>
+> 4. Secondo $n$, $d$ e interi positivi $(c_1, \ldots, c_n)$, si possono scegliere $(b_1, \ldots, b_d)$ in modo che dopo $\mathrm{mcm}(n, d)$ giorni il bambino $i$ abbia ricevuto esattamente $c_i$ cioccolatini, per ogni $1 \leqslant i \leqslant n$?
+>
+> Un modo di distribuzione è equo se esistono infiniti giorni al termine dei quali la configurazione è equilibrata.
+>
+> Un lotto $(h_1, \ldots, h_d)$ verifica $0 \leqslant h_1 \leqslant h_2 \leqslant \cdots \leqslant h_d$. È ragionevole se esiste una permutazione $(b_1, \ldots, b_d)$ delle sue taglie che dà un modo equo. Per $n = 4$ e $d = 4$, il lotto $(1, 1, 3, 3)$ è ragionevole, perché $(b_1, b_2, b_3, b_4) = (1, 3, 1, 3)$ è equo. Il lotto $(0, 1, 1, 3)$ non lo è.
+>
+> 5. Fissato $n$, per quali valori di $d$ tutti i lotti sono ragionevoli?
+>
+> 6. Quali sono le condizioni necessarie e sufficienti perché un lotto dato sia ragionevole?
+>
+> 7. Se $b(j) = j^2$, la distribuzione è equa? E se $b(j) = j^k$ per un altro intero $k$?
+>
+> 8. Si propongano e si studino altre piste di ricerca.
+
+![[src_tfjm_2019__Q07.png]]
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]], [[method_conteggio|Conteggio combinatorio]], [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 [[Quesiti/src_tfjm_2019#q07|src_tfjm_2019__Q07]]
 
 
 
 <span class="atom-split" id="q08" data-atom="q08" data-title="Quesito 8" data-tags="topic_combinatoria,topic_geometria_piana,method_colorazione,method_conteggio,method_invarianti,method_casework,skill_ragionamento_geometrico,skill_conteggio_sistematico,skill_modellizzazione"></span>
-
-<div class="qlang-switch" data-default="fr"></div>
-
 
 *Quartiers d’une grille triangulaire : losangisations, types d’immeubles et valences.*
 
@@ -965,7 +1055,7 @@ level: TFJM²
 >
 > 5. Proposer et étudier d’autres pistes de recherche.
 
-![[src_tfjm_2019__q08.png]]
+![[src_tfjm_2019__Q08.png]]
 
 **Topic:** [[topic_combinatoria|Combinatoire]], [[topic_geometria_piana|Géométrie plane]]
 **Metodo:** [[method_colorazione|Coloriage / parité]], [[method_conteggio|Dénombrement]], [[method_invarianti|Invariants / monovariants]], [[method_casework|Analyse par cas]]
@@ -974,49 +1064,20 @@ level: TFJM²
 **Fonte:** [apri PDF](https://drive.google.com/file/d/17R031cXNi14VUsGINAxDROVxCLgJqOX-/view)
 
 
-<div class="qlang-split" data-lang="it"></div>
 
+<span class="atom-split" id="q08__en" data-atom="q08__en" data-title="Q08__EN" data-tags=""></span>
 
-*Quartieri di una griglia triangolare: rombizzazioni, tipi di palazzi e valenze.*
-
-> 8. Los Angeles
->
-> La città è una griglia triangolare infinita: ogni triangolo equilatero di lato $1$ è un palazzo. Un quartiere è un insieme finito di palazzi. Due palazzi che hanno un lato in comune sono vicini.
->
-> Figura 14. Un quartiere di Los Angeles.
->
-> Lamia vuole suddividere i quartieri in condomini, che sono rombi formati da due palazzi vicini. Una tale partizione di un quartiere $Q$ è una rombizzazione. Si indica con $\mathrm{Los}(Q)$ il loro numero. Per la Figura 14, $\mathrm{Los}(Q) = 0$: il quartiere blu non si rombizza. Per la Figura 15, $\mathrm{Los}(Q) = 1$.
->
-> Figura 15. Rombizzazione di un quartiere.
->
-> 1. Se $Q$ ha una delle forme seguenti, lo si può rombizzare? Se sì, in quanti modi? Se no, quanti condomini si possono formare al massimo?
-> a) Un triangolo equilatero di lato $n$.
-> b) Un rombo di lato $n$.
-> c) Un rombo di lato $n$ da cui si sono tolti due palazzi. Adattare la risposta alla posizione dei palazzi tolti.
->
-> Due palazzi di uno stesso quartiere $Q$ sono dello stesso tipo se hanno la stessa orientazione e se i loro vicini in $Q$ stanno sugli stessi lati. Nella Figura 16 i palazzi $1$ e $6$ sono dello stesso tipo, come $2$ e $4$. Gli altri sono unici.
->
-> Figura 16. Esempio di tipi di palazzi.
->
-> Lamia non conosce $Q$, ma conosce il numero di palazzi di ogni tipo. Questa informazione si indica con $I$.
->
-> 2. Cercare condizioni necessarie su $I$ perché il quartiere sia rombizzabile, e condizioni sufficienti. Si possono trovare condizioni necessarie e sufficienti?
->
-> 3. Dedurre da $I$ stime di $\mathrm{Los}(Q)$ il più precise possibile.
->
-> La valenza di un palazzo è il numero dei suoi vicini nel quartiere. Per $0 \leqslant i \leqslant 3$, si indica con $V_i(Q)$ il numero di palazzi di valenza $i$ in $Q$.
->
-> 4. Quali quadruple $\bigl(V_0(Q), V_1(Q), V_2(Q), V_3(Q)\bigr)$ sono possibili:
-> a) se $Q$ è un quartiere qualunque?
-> b) se $Q$ è rombizzabile?
->
-> 5. Si propongano e si studino altre piste di ricerca.
-
-[[Quesiti/src_tfjm_2019#q08|src_tfjm_2019__Q08]]
-
-
-<div class="qlang-split" data-lang="en"></div>
-
+---
+tipo: quesito-translation
+translation_of: src_tfjm_2019__Q08
+lang: en
+secondary: true
+title: "Tournoi Français des Jeunes Mathématiciens (TFJM²) 2019 — Question 8"
+summary: "Districts of a triangular grid: rhombisations, building types and valences."
+topics: [topic_combinatoria, topic_geometria_piana]
+methods: [method_colorazione, method_conteggio, method_invarianti, method_casework]
+skills: [skill_ragionamento_geometrico, skill_conteggio_sistematico, skill_modellizzazione]
+tags: [kg/translation, topic/combinatoria, topic/geometria_piana]---
 
 *Districts of a triangular grid: rhombisations, building types and valences.*
 
@@ -1053,4 +1114,69 @@ level: TFJM²
 >
 > 5. Propose and study other lines of inquiry.
 
+![[src_tfjm_2019__Q08.png]]
+
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_colorazione|Colouring / parity]], [[method_conteggio|Combinatorial counting]], [[method_invarianti|Invariants / monovariants]], [[method_casework|Case analysis]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_conteggio_sistematico|Systematic counting]], [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Geometria|Geometry]]
+[[Quesiti/src_tfjm_2019#q08|src_tfjm_2019__Q08]]
+
+
+
+<span class="atom-split" id="q08__it" data-atom="q08__it" data-title="Q08__IT" data-tags=""></span>
+
+---
+tipo: quesito-translation
+translation_of: src_tfjm_2019__Q08
+lang: it
+secondary: true
+title: "Tournoi Français des Jeunes Mathématiciens (TFJM²) 2019, quesito 8"
+summary: "Quartieri di una griglia triangolare: rombizzazioni, tipi di palazzi e valenze."
+topics: [topic_combinatoria, topic_geometria_piana]
+methods: [method_colorazione, method_conteggio, method_invarianti, method_casework]
+skills: [skill_ragionamento_geometrico, skill_conteggio_sistematico, skill_modellizzazione]
+tags: [kg/translation, topic/combinatoria, topic/geometria_piana]---
+
+*Quartieri di una griglia triangolare: rombizzazioni, tipi di palazzi e valenze.*
+
+> 8. Los Angeles
+>
+> La città è una griglia triangolare infinita: ogni triangolo equilatero di lato $1$ è un palazzo. Un quartiere è un insieme finito di palazzi. Due palazzi che hanno un lato in comune sono vicini.
+>
+> Figura 14. Un quartiere di Los Angeles.
+>
+> Lamia vuole suddividere i quartieri in condomini, che sono rombi formati da due palazzi vicini. Una tale partizione di un quartiere $Q$ è una rombizzazione. Si indica con $\mathrm{Los}(Q)$ il loro numero. Per la Figura 14, $\mathrm{Los}(Q) = 0$: il quartiere blu non si rombizza. Per la Figura 15, $\mathrm{Los}(Q) = 1$.
+>
+> Figura 15. Rombizzazione di un quartiere.
+>
+> 1. Se $Q$ ha una delle forme seguenti, lo si può rombizzare? Se sì, in quanti modi? Se no, quanti condomini si possono formare al massimo?
+> a) Un triangolo equilatero di lato $n$.
+> b) Un rombo di lato $n$.
+> c) Un rombo di lato $n$ da cui si sono tolti due palazzi. Adattare la risposta alla posizione dei palazzi tolti.
+>
+> Due palazzi di uno stesso quartiere $Q$ sono dello stesso tipo se hanno la stessa orientazione e se i loro vicini in $Q$ stanno sugli stessi lati. Nella Figura 16 i palazzi $1$ e $6$ sono dello stesso tipo, come $2$ e $4$. Gli altri sono unici.
+>
+> Figura 16. Esempio di tipi di palazzi.
+>
+> Lamia non conosce $Q$, ma conosce il numero di palazzi di ogni tipo. Questa informazione si indica con $I$.
+>
+> 2. Cercare condizioni necessarie su $I$ perché il quartiere sia rombizzabile, e condizioni sufficienti. Si possono trovare condizioni necessarie e sufficienti?
+>
+> 3. Dedurre da $I$ stime di $\mathrm{Los}(Q)$ il più precise possibile.
+>
+> La valenza di un palazzo è il numero dei suoi vicini nel quartiere. Per $0 \leqslant i \leqslant 3$, si indica con $V_i(Q)$ il numero di palazzi di valenza $i$ in $Q$.
+>
+> 4. Quali quadruple $\bigl(V_0(Q), V_1(Q), V_2(Q), V_3(Q)\bigr)$ sono possibili:
+> a) se $Q$ è un quartiere qualunque?
+> b) se $Q$ è rombizzabile?
+>
+> 5. Si propongano e si studino altre piste di ricerca.
+
+![[src_tfjm_2019__Q08.png]]
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_colorazione|Colorazione / parita]], [[method_conteggio|Conteggio combinatorio]], [[method_invarianti|Invarianti / monovarianti]], [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 [[Quesiti/src_tfjm_2019#q08|src_tfjm_2019__Q08]]

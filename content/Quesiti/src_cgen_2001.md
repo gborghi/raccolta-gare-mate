@@ -12,9 +12,6 @@ level: Concours Général
 
 <span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_aritmetica,topic_geometria_analitica,topic_geometria_solida,topic_algebra,topic_insiemi_funzioni,method_coordinate,method_congruenze,method_fattorizzazione,method_conteggio,method_estremalita,method_casework,skill_manipolazione_algebrica,skill_ragionamento_geometrico,skill_astrazione,skill_conteggio_sistematico,skill_lettura_attenta"></span>
 
-<div class="qlang-switch" data-default="en"></div>
-
-
 *Single problem (Exercice 1) in four parts on 'trios' (a,b,c) with ab+bc+ca=0: geometric loci, integer/primitive trios and counting, a star-product of trios via complex numbers, and the arithmetic of integers represented by u^2+3v^2.*
 
 > A \textbf{trio} is any triple of real numbers $(a,b,c)$, not all zero, satisfying the relation
@@ -78,8 +75,20 @@ level: Concours Général
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1QmXSsTHEh8iKBAnrvY3ihkUwt2H-HQyx/view)
 
 
-<div class="qlang-split" data-lang="it"></div>
 
+<span class="atom-split" id="q01__it" data-atom="q01__it" data-title="Q01__IT" data-tags=""></span>
+
+---
+tipo: quesito-translation
+translation_of: src_cgen_2001__Q01
+lang: it
+secondary: true
+title: "Concours Général des Lycées 2001  Matematica  Quesito 1"
+summary: "Problema singola (esercizio 1) in quattro parti su 'trios' (a,b,c) con ab+bc+ca=0: loci geometrici, trios interi/primitivi e conteggio, prodotto stellare dei trios attraverso numeri complessi e aritmetica degli enti rappresentati da u^2+3v^2."
+topics: [topic_aritmetica, topic_geometria_analitica, topic_geometria_solida, topic_algebra, topic_insiemi_funzioni]
+methods: [method_coordinate, method_congruenze, method_fattorizzazione, method_conteggio, method_estremalita, method_casework]
+skills: [skill_manipolazione_algebrica, skill_ragionamento_geometrico, skill_astrazione, skill_conteggio_sistematico, skill_lettura_attenta]
+tags: [kg/translation, topic/aritmetica, topic/geometria_analitica, topic/geometria_solida, topic/algebra, topic/insiemi_funzioni]---
 
 *Problema singolo (esercizio 1) in quattro parti su 'trios' (a,b,c) con ab+bc+ca=0: loci geometrici, trios interi/primitivi e conteggio, un prodotto stellare dei trios attraverso numeri complessi, e l'aritmetica dei numeri interi rappresentati da u^2+3v^2.*
 
@@ -93,4 +102,8 @@ level: Concours Général
 > 
 > \textbf{Quarta parte} $A$ sia l'insieme di enti interi non zero $m$ in modo tale che esistano due enti $u$, $v$ con $m=u^2+3v^2$. Che $A'$ sia l'insieme dei numeri complessi $z$ in modo tale che esistano due integri $u$, $v$ con $z=u+iv\sqrt{3}$ (una osservazione che $|z|^2=u^2+3v^2$). $B$ sia l'insieme di numeri interi non zero $n$ in modo tale che esistano due numeri interi $r$, $s$ e $n=r^2+rs+s^2$. 1. Indicare che il prodotto di due elementi di $A'$ appartiene a $A'$, quindi che il prodotto di due elementi di $A$ appartiene a $A$. 2. Indicare che se $p$ è un numero primo che è un elemento di $A$, allora $p=3$ o $4$ divide $p-1$. 3. Indicare che $A=B$ (si può notare in particolare che $r^2+rs+s^2=(r+s)^2-s(r+s)$). 4. Indicare che $4$ divide gli elementi $a$ di $A$ i cui quotienti appartengono a $A$, quindi che ogni elemento odd di $A$ [è un divisore di un elemento di $A$ moltiplicato per una potenza di $4$]. (a) Il $m=u^2+3v^2$ deve essere un numero intero parziale tale che i numeri interi $u$ e $v$ siano copriemi e che ammetta un divisore primo $p$ non appartenente a $A$. Mostrare che allora esiste un numero intero rigorosamente positivo $n_0$ in modo tale che $n_0 p$ appartiene a $A$. Mostrare che $n_0$ è strano. b) stabilire l'esistenza di due integri $u'$ e $v'$ di valore assoluto inferiore a $\dfrac{p}{2}$ in modo tale che $p$ divida $u'-u$ e $v'-v$. Indicare che $p$ divide il numero intero non zero $u'^2+3v'^2$ e che $n_0<p$. c) stabilire l'esistenza di due integri non zero $u_0$ e $v_0$ in modo tale che $n_0 p=u_0^2+3v_0^2$. d) stabilire l'esistenza di due integri $u_1$ e $v_1$ di valore assoluto inferiore a $\dfrac{n_0}{2}$ in modo tale che $n_0$ divida $u_1-u_0$ e $v_1-v_0$. Mostrare che $n_0$ divide il numero intero non zero $u_1^2+3v_1^2$, che denotamo $n_0 n_1$. (e) Deduzione che tale numero intero $m$ non può esistere (si può considerare il numero intero $n_0^2(n_0 p)$). 5. Mostra che ogni elemento di $A$ è scritto $m=C^2 p_1\cdots p_k$, dove $C$ è un intero naturale non zero e $p_i$ sono numeri primi distinti che sono elementi di $A$. (a) Che $p$ sia un numero primo tale che $3$ divida $p-1$ e che $K$ sia l'insieme dei tripli $(x,y,z)$ dove gli enti $x$, $y$ e $z$ sono strettamente tra $0$ e $p$, e tale che $p$ divida $(xyz-1)$. Indicare che $K$ ha elementi $(p-1)^2$ e che $3$ divide il numero di elementi di $K$ che non soddisfano $x=y=z$. b) Deduzione che esiste un numero intero $x$ strettamente tra $1$ e $p$ tale che $p$ divida $x^2+x+1$, quindi che $p$ appartiene a $A$. Descrivere gli elementi di $A$. 6. $D$ sia l'insieme di enti $d$ in modo tale che esista un trio di enti $(a,b,c)$ che verifica $a+b+c=d$ e $abc\neq 0$. Mostra, grazie alla domanda 5 della seconda parte, che ogni elemento di $D$ possiede un divisore primo che è un elemento di $A$. Al contrario, cosa si può dire di un numero intero non zero che ammette un divisore primo che è un elemento di $A$? 7. Riduzione degli elementi di $D$ compresi, in senso lato, tra $2001$ e $2010$.
 
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_geometria_analitica|Geometria analitica]], [[topic_geometria_solida|Geometria solida]], [[topic_algebra|Algebra]], [[topic_insiemi_funzioni|Insiemi e funzioni]]
+**Metodo:** [[method_coordinate|Metodo delle coordinate]], [[method_congruenze|Aritmetica modulare / congruenze]], [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]], [[method_conteggio|Conteggio combinatorio]], [[method_estremalita|Principio di estremalita]], [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_astrazione|Astrazione / generalizzazione]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta del testo]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Geometria]], [[Algebra e Analisi]]
 [[Quesiti/src_cgen_2001#q01|src_cgen_2001__Q01]]

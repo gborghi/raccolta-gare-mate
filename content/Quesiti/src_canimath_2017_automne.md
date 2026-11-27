@@ -12,9 +12,6 @@ level: Coupe Animath Automne
 
 <span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_aritmetica,topic_algebra,method_casework,method_fattorizzazione,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
 
-<div class="qlang-switch" data-default="en"></div>
-
-
 *Write 225 as a sum of 5 or 4 consecutive positive integers*
 
 > One can write $225$ as the sum of $3$ consecutive integers: $225 = 74 + 75 + 76$.
@@ -28,21 +25,34 @@ level: Coupe Animath Automne
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Lm0K3laxUmGTWdHl2O9UsiIDsQOAWY53/view)
 
 
-<div class="qlang-split" data-lang="it"></div>
 
+<span class="atom-split" id="q01__it" data-atom="q01__it" data-title="Q01__IT" data-tags=""></span>
+
+---
+tipo: quesito-translation
+translation_of: src_canimath_2017_automne__Q01
+lang: it
+secondary: true
+title: "Coupe Animath Automne 2017  Quesito 1"
+summary: "Scrivere 225 come somma di 5 o 4 numeri interi positivi consecutivi"
+topics: [topic_aritmetica, topic_algebra]
+methods: [method_casework, method_fattorizzazione]
+skills: [skill_manipolazione_algebrica, skill_lettura_attenta]
+tags: [kg/translation, topic/aritmetica, topic/algebra]---
 
 *Escrivere 225 come somma di 5 o 4 integri positivi consecutivi*
 
 > Si può scrivere $225$ come la somma di $3$ numeri interi consecutivi: $225 = 74 + 75 + 76$. a) Può essere scritta come somma di $5$ numeri interi consecutivi? b) Può essere scritta come la somma di $4$ numeri interi consecutivi?
 
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_casework|Analisi per casi]], [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta del testo]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 [[Quesiti/src_canimath_2017_automne#q01|src_canimath_2017_automne__Q01]]
 
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_aritmetica,method_congruenze,method_conteggio,method_casework,skill_riconoscimento_pattern,skill_manipolazione_algebrica,skill_conteggio_sistematico"></span>
-
-<div class="qlang-switch" data-default="en"></div>
-
 
 *a_n = last digit of digit-sum of 2005 written n times in a row; find n with a_n=0 and compute a sum*
 
@@ -57,18 +67,34 @@ level: Coupe Animath Automne
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Lm0K3laxUmGTWdHl2O9UsiIDsQOAWY53/view)
 
 
-<div class="qlang-split" data-lang="it"></div>
 
+<span class="atom-split" id="q02__it" data-atom="q02__it" data-title="Q02__IT" data-tags=""></span>
+
+---
+tipo: quesito-translation
+translation_of: src_canimath_2017_automne__Q02
+lang: it
+secondary: true
+title: "Coupe Animath Automne 2017  Quesito 2"
+summary: "a_n = ultima cifra della somma digitali del 2005 scritta n volte di fila; trovare n con a_n=0 e calcolare una somma"
+topics: [topic_aritmetica]
+methods: [method_congruenze, method_conteggio, method_casework]
+skills: [skill_riconoscimento_pattern, skill_manipolazione_algebrica, skill_conteggio_sistematico]
+tags: [kg/translation, topic/aritmetica]---
 
 *a_n = ultima cifra della somma digitali del 2005 scritta n volte di fila; trovare n con a_n=0 e calcolare una somma*
 
 > Per ogni intero rigorosamente positivo $n$, definire $a_n$ come l'ultima cifra della somma delle cifre del numero $2005\,2005\ldots 2005$ (si scrive "$2005$" $n$ volte di fila). Ad esempio $a_1 = 7$ e $a_2 = 4$. a) Quali integri rigorosamente positivi $n$ soddisfano $a_n = 0$? b) Calcolare $a_1 + a_2 + \cdots + a_{2005}$.
 
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]], [[method_conteggio|Conteggio combinatorio]], [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
 [[Quesiti/src_canimath_2017_automne#q02|src_canimath_2017_automne__Q02]]
 
 
 
-<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_combinatoria,method_casework,method_conteggio,skill_modellizzazione,skill_lettura_attenta,skill_conteggio_sistematico"></span>
+<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_combinatoria,method_casework,method_conteggio,method_doppio_conteggio,skill_modellizzazione,skill_lettura_attenta,skill_conteggio_sistematico"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -80,9 +106,9 @@ level: Coupe Animath Automne
 > b) Who scored the sixth goal?
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
-**Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]]
+**Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]], [[method_doppio_conteggio|Double counting]]
 **Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_lettura_attenta|Lettura attenta]], [[skill_conteggio_sistematico|Conteggio sistematico]]
-**Area:** [[Combinatoria, Logica e Probabilita]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Lm0K3laxUmGTWdHl2O9UsiIDsQOAWY53/view)
 
 
@@ -93,14 +119,14 @@ Gioco da portiere per tre giocatori: contare le fasi totali e trovare chi ha seg
 
 > Il calcio con tre persone viene giocato in fasi successive: un giocatore è il portiere mentre gli altri due, chiamati "giocatori di campo", cercano di segnare un gol. Appena un giocatore fa un gol, la fase termina e quel giocatore diventa il portiere per la fase successiva. Amandine, Bobby e Charles giocano a questo gioco. Quando la partita è finita, ricordano che Amandine era un giocatore di campo $12$ volte, Bobby $21$ volte, e Charles $8$ volte. a) Quante fasi ci sono state in totale? b) Chi ha segnato il sesto gol?
 
-[[Quesiti/src_canimath_2017_automne#q03|src_canimath_2017_automne__Q03]]
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casework|Analisi per casi]], [[method_conteggio|Conteggio combinatorio]], [[method_doppio_conteggio|Doppio conteggio]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_lettura_attenta|Lettura attenta del testo]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
 
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_aritmetica,method_congruenze,method_fattorizzazione,method_casework,skill_manipolazione_algebrica,skill_riconoscimento_pattern,skill_lettura_attenta"></span>
-
-<div class="qlang-switch" data-default="en"></div>
-
 
 *n^2 with last two digits removed is again a perfect square*
 
@@ -114,21 +140,34 @@ Gioco da portiere per tre giocatori: contare le fasi totali e trovare chi ha seg
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Lm0K3laxUmGTWdHl2O9UsiIDsQOAWY53/view)
 
 
-<div class="qlang-split" data-lang="it"></div>
 
+<span class="atom-split" id="q04__it" data-atom="q04__it" data-title="Q04__IT" data-tags=""></span>
+
+---
+tipo: quesito-translation
+translation_of: src_canimath_2017_automne__Q04
+lang: it
+secondary: true
+title: "Coupe Animath Automne 2017  Quesito 4"
+summary: "n^2 con le ultime due cifre rimosse è di nuovo un quadrato perfetto"
+topics: [topic_aritmetica]
+methods: [method_congruenze, method_fattorizzazione, method_casework]
+skills: [skill_manipolazione_algebrica, skill_riconoscimento_pattern, skill_lettura_attenta]
+tags: [kg/translation, topic/aritmetica]---
 
 *n^2 con le ultime due cifre rimosse è di nuovo un quadrato perfetto*
 
 > a) Trovare un intero rigorosamente positivo $n$ tale che, se si scrive $n^2$ e si toglie le sue ultime due cifre, il numero risultante sia ancora il quadrato di un intero. b) Trovare tutti i numeri interi rigorosamente positivi $n$ che non sono multipli di $10$ in modo tale che, scrivendo $n^2$ e eliminando le sue ultime due cifre, si ottiene nuovamente il quadrato di un numero intero (si considera che un numero con cifre zero è uguale a zero).
 
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]], [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]], [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_lettura_attenta|Lettura attenta del testo]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
 [[Quesiti/src_canimath_2017_automne#q04|src_canimath_2017_automne__Q04]]
 
 
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_geometria_piana,method_coordinate,method_simmetria,skill_ragionamento_geometrico,skill_manipolazione_algebrica,skill_modellizzazione"></span>
-
-<div class="qlang-switch" data-default="en"></div>
-
 
 *Isosceles triangle, line (d) perpendicular to (BC) through C, parallelogram AEDB; prove M is midpoint of [AE]*
 
@@ -141,21 +180,34 @@ Gioco da portiere per tre giocatori: contare le fasi totali e trovare chi ha seg
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Lm0K3laxUmGTWdHl2O9UsiIDsQOAWY53/view)
 
 
-<div class="qlang-split" data-lang="it"></div>
 
+<span class="atom-split" id="q05__it" data-atom="q05__it" data-title="Q05__IT" data-tags=""></span>
+
+---
+tipo: quesito-translation
+translation_of: src_canimath_2017_automne__Q05
+lang: it
+secondary: true
+title: "Coupe Animath Automne 2017  Quesito 5"
+summary: "Triangolo isosceles, linea (d) perpendicolare a (BC) attraverso C, parallelo AEDB; prova M è il punto medio di [AE]"
+topics: [topic_geometria_piana]
+methods: [method_coordinate, method_simmetria]
+skills: [skill_ragionamento_geometrico, skill_manipolazione_algebrica, skill_modellizzazione]
+tags: [kg/translation, topic/geometria_piana]---
 
 *Triangolo isosceles, linea (d) perpendicolare a (BC) attraverso C, parallelo AEDB; prova M è il punto medio di [AE]*
 
 > Si costruisce la seguente figura: disegna un triangolo $ABC$ a uguali dimensioni $A$, quindi la linea $(d)$ perpendicolare a $(BC)$ che passa attraverso $C$. Si sceglie un punto $D$ su $(d)$. Un posto $E$ in modo che $AEDB$ sia un parallelo. Infine, $M$ è il punto di intersezione di $(AE)$ e $(d)$. Prova che $M$ è il punto medio di $[AE]$.
 
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_coordinate|Metodo delle coordinate]], [[method_simmetria|Sfruttamento della simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
+**Area:** [[Geometria]]
 [[Quesiti/src_canimath_2017_automne#q05|src_canimath_2017_automne__Q05]]
 
 
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_algebra,topic_aritmetica,method_fattorizzazione,method_casework,skill_manipolazione_algebrica,skill_riconoscimento_pattern,skill_lettura_attenta"></span>
-
-<div class="qlang-switch" data-default="en"></div>
-
 
 *Find all values of xyz given x+2y=z and x^2-4y^2+z^2=310*
 
@@ -168,21 +220,34 @@ Gioco da portiere per tre giocatori: contare le fasi totali e trovare chi ha seg
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Lm0K3laxUmGTWdHl2O9UsiIDsQOAWY53/view)
 
 
-<div class="qlang-split" data-lang="it"></div>
 
+<span class="atom-split" id="q06__it" data-atom="q06__it" data-title="Q06__IT" data-tags=""></span>
+
+---
+tipo: quesito-translation
+translation_of: src_canimath_2017_automne__Q06
+lang: it
+secondary: true
+title: "Coupe Animath Automne 2017  Quesito 6"
+summary: "Trova tutti i valori di xyz dati x+2y=z e x^2-4y^2+z^2=310"
+topics: [topic_algebra, topic_aritmetica]
+methods: [method_fattorizzazione, method_casework]
+skills: [skill_manipolazione_algebrica, skill_riconoscimento_pattern, skill_lettura_attenta]
+tags: [kg/translation, topic/algebra, topic/aritmetica]---
 
 *Ricerca tutti i valori di xyz dati x+2y=z e x^2-4y^2+z^2=310*
 
 > I numeri interi rigorosamente positivi $x$, $y$ e $z$ soddisfano le due equazioni seguenti: $x + 2y = z$ e $x^2 - 4y^2 + z^2 = 310$. Trova tutti i valori che il prodotto $xyz$ può assumere.
 
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]], [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_lettura_attenta|Lettura attenta del testo]]
+**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 [[Quesiti/src_canimath_2017_automne#q06|src_canimath_2017_automne__Q06]]
 
 
 
 <span class="atom-split" id="q07" data-atom="q07" data-title="Quesito 7" data-tags="topic_combinatoria,topic_aritmetica,method_invarianti,method_casework,skill_riconoscimento_pattern,skill_modellizzazione,skill_conteggio_sistematico"></span>
-
-<div class="qlang-switch" data-default="en"></div>
-
 
 *2012 numbers (±1) on a circle, no 10 consecutive sum to 0; find possible values of total sum S*
 
@@ -195,21 +260,34 @@ Gioco da portiere per tre giocatori: contare le fasi totali e trovare chi ha seg
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Lm0K3laxUmGTWdHl2O9UsiIDsQOAWY53/view)
 
 
-<div class="qlang-split" data-lang="it"></div>
 
+<span class="atom-split" id="q07__it" data-atom="q07__it" data-title="Q07__IT" data-tags=""></span>
+
+---
+tipo: quesito-translation
+translation_of: src_canimath_2017_automne__Q07
+lang: it
+secondary: true
+title: "Coupe Animath Automne 2017  Quesito 7"
+summary: "Numeri 2012 (±1) su un cerchio, non 10 somma consecutiva fino a 0; trovare possibili valori della somma totale S"
+topics: [topic_combinatoria, topic_aritmetica]
+methods: [method_invarianti, method_casework]
+skills: [skill_riconoscimento_pattern, skill_modellizzazione, skill_conteggio_sistematico]
+tags: [kg/translation, topic/combinatoria, topic/aritmetica]---
 
 Numeri *2012 (±1) su un cerchio, non 10 somma consecutiva fino a 0; trovare possibili valori della somma totale S*
 
 > Su un cerchio si scrivono i numeri $2012$. Ciascuno di essi è uguale a $1$ o $-1$. La somma è $S$. Supponiamo che non esistano $10$ numeri consecutivi sul cerchio la cui somma è $0$. Quali valori $S$ può assumere in questa condizione?
 
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_invarianti|Invarianti / monovarianti]], [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 [[Quesiti/src_canimath_2017_automne#q07|src_canimath_2017_automne__Q07]]
 
 
 
 <span class="atom-split" id="q08" data-atom="q08" data-title="Quesito 8" data-tags="topic_geometria_piana,method_trigonometria,method_coordinate,method_simmetria,skill_ragionamento_geometrico,skill_manipolazione_algebrica,skill_modellizzazione"></span>
-
-<div class="qlang-switch" data-default="en"></div>
-
 
 *Rectangle ABCD, E = foot of perp from B to AC, circle through A and E centred on (AD), F on [CD]; prove BF bisects angle AFC*
 
@@ -222,11 +300,27 @@ Numeri *2012 (±1) su un cerchio, non 10 somma consecutiva fino a 0; trovare pos
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Lm0K3laxUmGTWdHl2O9UsiIDsQOAWY53/view)
 
 
-<div class="qlang-split" data-lang="it"></div>
 
+<span class="atom-split" id="q08__it" data-atom="q08__it" data-title="Q08__IT" data-tags=""></span>
+
+---
+tipo: quesito-translation
+translation_of: src_canimath_2017_automne__Q08
+lang: it
+secondary: true
+title: "Coupe Animath Automne 2017  Quesito 8"
+summary: "Rettangolo ABCD, E = piede di perp da B a AC, cerchio attraverso A e E centrato su (AD), F su [CD]; dimostrare che BF bisecta angolo AFC"
+topics: [topic_geometria_piana]
+methods: [method_trigonometria, method_coordinate, method_simmetria]
+skills: [skill_ragionamento_geometrico, skill_manipolazione_algebrica, skill_modellizzazione]
+tags: [kg/translation, topic/geometria_piana]---
 
 *Rettangolo ABCD, E = piede di perp da B a AC, cerchio attraverso A e E centrato su (AD), F su [CD]; dimostrare che BF divide angolo AFC*
 
 > $ABCD$ sia un rettangolo tale che $AB > BC$. Il $E$ è la proiezione ortogonale di $B$ su $(AC)$ e $\Gamma$ il cerchio che attraversa $A$ e $E$ il cui centro si trova su $(AD)$. Il punto di intersezione di $\Gamma$ e $[CD]$ è $F$. Prove che $(BF)$ è il bisettore di $\widehat{AFC}$.
 
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_trigonometria|Tecniche trigonometriche]], [[method_coordinate|Metodo delle coordinate]], [[method_simmetria|Sfruttamento della simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
+**Area:** [[Geometria]]
 [[Quesiti/src_canimath_2017_automne#q08|src_canimath_2017_automne__Q08]]

@@ -10,7 +10,7 @@ level: squadre
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_geometria_piana,skill_ragionamento_geometrico"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_geometria_piana,method_coordinate,skill_ragionamento_geometrico,skill_lettura_attenta"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -35,7 +35,8 @@ level: squadre
 > dal fazzoletto e dallo scialle. Che numero trova?
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
-**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Metodo:** [[method_coordinate|Metodo delle coordinate]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta del testo]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1yfccJoiKbCuxC3Iit309IzPS0P4JTmjA/view)
 
@@ -48,15 +49,15 @@ level: squadre
 > The Flowering Garden
 > (points 20) The Castle's Flowered Garden is triangular in shape and is bounded by three straight paths that connect the three entrances—one at each vertex—named Porta Alba, Porta Bianca, and Porta Chiara in honor of the princess's complexion. Snow White is walking inside the Flowered Garden; she is halfway along the straight path connecting Porta Bianca and Porta Chiara, and from there she sees two of the Queen's guards, one at Porta Bianca and the other at Porta Chiara. To avoid them, she then heads toward Porta Alba, but when she reaches halfway, a guard appears at that gate. Frightened, Snow White stops and does not notice that her handkerchief falls. She sees that the guard is no longer at Porta Bianca. She therefore heads toward that gate, but when she reaches halfway, the guard reappears at the gate. Frightened, Snow White stops and does not notice that her shawl falls. She sees that the guard is no longer at Porta Alba. She thus heads toward that gate. When she reaches halfway, she realizes that she has lost her handkerchief and her shawl, and she sees them in the places where she had stopped earlier. To assess how long it will take her to pick them up, Snow White calculates the ratio of the area of the Flowered Garden to the area of the triangle formed by her, the handkerchief, and the shawl. What number does she find?
 
+
 **Topic:** [[topic_geometria_piana|Plane geometry]]
-**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Metodo:** [[method_coordinate|Coordinate method]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_lettura_attenta|Careful reading of the text]]
 **Area:** [[Geometria|Geometry]]
 
-[[Quesiti/src_gs_2012#q01|src_gs_2012__Q01]]
 
 
-
-<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_aritmetica,method_congruenze,method_telescoping"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_aritmetica,method_congruenze,method_telescoping,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -73,6 +74,7 @@ level: squadre
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]], [[method_telescoping|Somme telescopiche]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1yfccJoiKbCuxC3Iit309IzPS0P4JTmjA/view)
 
@@ -85,15 +87,15 @@ level: squadre
 > Dotto's first exercise
 > (Point 20) Dotto is practicing with numbers. He took the function f(n) = 200 − 2n n and calculated the last two digits (that is, the two rightmost digits) of the product f(1) · f(2) · ... · f(99). What did he find?
 
+
 **Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
 **Metodo:** [[method_congruenze|Modular arithmetic / congruences]], [[method_telescoping|Telescoping sums]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
-[[Quesiti/src_gs_2012#q02|src_gs_2012__Q02]]
 
 
-
-<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_algebra,skill_modellizzazione"></span>
+<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_algebra,method_fattorizzazione,skill_modellizzazione,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -111,7 +113,8 @@ level: squadre
 > Gara a squadre – Testi dei problemi – Pag. 1 di 6
 
 **Topic:** [[topic_algebra|Algebra]]
-**Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1yfccJoiKbCuxC3Iit309IzPS0P4JTmjA/view)
 
@@ -125,15 +128,15 @@ level: squadre
 > (points 20) The court goldsmith has prepared a gold-and-silver globe for the Queen; it has a mass of 300 g and a volume of 20 cm³. The Queen complains, saying that there is more silver than gold. The goldsmith defends himself by saying that the density of gold is 19 g/cm³ and that of silver is 10 g/cm³. The Queen notes that, precisely for this reason, she is right. What is the ratio, multiplied by 1000, of the volume of gold to the volume of silver in the sphere?
 > Team Competition – Problem Statements – Page 1 of 6
 
+
 **Topic:** [[topic_algebra|Algebra]]
-**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
 **Area:** [[Algebra e Analisi|Algebra and analysis]]
 
-[[Quesiti/src_gs_2012#q03|src_gs_2012__Q03]]
 
 
-
-<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_aritmetica,topic_combinatoria,method_conteggio"></span>
+<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_aritmetica,topic_combinatoria,method_conteggio,method_congruenze,method_casi_conteggio,skill_conteggio_sistematico,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -152,7 +155,8 @@ level: squadre
 > ordinate) di numeri che hanno come risultato 1357?
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
-**Metodo:** [[method_conteggio|Conteggio combinatorio]]
+**Metodo:** [[method_conteggio|Conteggio combinatorio]], [[method_congruenze|Aritmetica modulare / congruenze]], [[method_casi_conteggio|Conteggio per casi]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1yfccJoiKbCuxC3Iit309IzPS0P4JTmjA/view)
 
@@ -165,15 +169,15 @@ level: squadre
 > Dotto's second exercise
 > (30 points) Dotto continues to practice with numbers: he has invented a new operation involving integers. He multiplies the units digit of the first number by the units digit of the second number; then, if the result is greater than 9, he adds its digits together, and if this new number is greater than 9, he adds its digits together again, continuing until he obtains a single-digit number. This is the units digit of the result of the new operation. The same procedure is applied to the tens digit, the hundreds digit, and so on. How many unordered pairs of numbers yield 1357 as the result?
 
+
 **Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_combinatoria|Combinatorics]]
-**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Metodo:** [[method_conteggio|Combinatorial counting]], [[method_congruenze|Modular arithmetic / congruences]], [[method_casi_conteggio|Counting by cases]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]], [[skill_casework_accurato|Careful case analysis]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
-[[Quesiti/src_gs_2012#q04|src_gs_2012__Q04]]
 
 
-
-<span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_geometria_piana,skill_ragionamento_geometrico"></span>
+<span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_geometria_piana,method_simmetria,method_trigonometria,skill_ragionamento_geometrico"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -188,6 +192,7 @@ level: squadre
 > 20cm. Qual è il perimetro esterno della figura?
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_simmetria|Sfruttamento della simmetria]], [[method_trigonometria|Tecniche trigonometriche]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1yfccJoiKbCuxC3Iit309IzPS0P4JTmjA/view)
@@ -201,15 +206,15 @@ level: squadre
 > The Polygon of Pisolo
 > (30 points) In a regular 30-sided polygon, Pisolo numbers all the vertices from 1 to 30. He then places 15 circular discs, each with a radius equal to the side length of the polygon, with their centres at the vertices numbered with odd numbers. Each disc has a circumference of 20 cm. What is the outer perimeter of the figure?
 
+
 **Topic:** [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_simmetria|Using symmetry]], [[method_trigonometria|Trigonometric techniques]]
 **Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
 **Area:** [[Geometria|Geometry]]
 
-[[Quesiti/src_gs_2012#q05|src_gs_2012__Q05]]
 
 
-
-<span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_aritmetica,method_congruenze"></span>
+<span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_aritmetica,method_congruenze,skill_riconoscimento_pattern,skill_astrazione"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -224,6 +229,7 @@ level: squadre
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_astrazione|Astrazione / generalizzazione]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1yfccJoiKbCuxC3Iit309IzPS0P4JTmjA/view)
 
@@ -236,15 +242,15 @@ level: squadre
 > The Little Rascal Puppy
 > (30 points) Cucciolo calls the natural numbers made up solely of the digit 1 "sgarzulini". How many digits does the smallest sgarzulino number greater than 1 have, such that the number of its sgarzulino divisors is a sgarzulino number?
 
+
 **Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
 **Metodo:** [[method_congruenze|Modular arithmetic / congruences]]
+**Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]], [[skill_astrazione|Abstraction / generalisation]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
-[[Quesiti/src_gs_2012#q06|src_gs_2012__Q06]]
 
 
-
-<span class="atom-split" id="q07" data-atom="q07" data-title="Quesito 7" data-tags="topic_aritmetica,method_casework"></span>
+<span class="atom-split" id="q07" data-atom="q07" data-title="Quesito 7" data-tags="topic_aritmetica,method_casework,skill_casework_accurato,skill_modellizzazione,skill_lettura_attenta"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -261,6 +267,7 @@ level: squadre
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_lettura_attenta|Lettura attenta del testo]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1yfccJoiKbCuxC3Iit309IzPS0P4JTmjA/view)
 
@@ -273,15 +280,15 @@ level: squadre
 > Dotto's third exercise
 > (30 points) Dotto writes the following operation: Pear + Peach = Fruits, and explains to the other dwarfs that he has replaced each digit with a letter, and that different letters correspond to different digits. Therefore, a letter at the beginning of a word does not correspond to the digit 0. What digits does Dotto write when he writes "house"?
 
+
 **Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
 **Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]], [[skill_modellizzazione|Modelling / translating the text]], [[skill_lettura_attenta|Careful reading of the text]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
-[[Quesiti/src_gs_2012#q07|src_gs_2012__Q07]]
 
 
-
-<span class="atom-split" id="q08" data-atom="q08" data-title="Quesito 8" data-tags="topic_algebra,skill_casework_accurato"></span>
+<span class="atom-split" id="q08" data-atom="q08" data-title="Quesito 8" data-tags="topic_algebra,method_casework,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -304,6 +311,7 @@ level: squadre
 > Gara a squadre – Testi dei problemi – Pag. 2 di 6
 
 **Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_casework|Analisi per casi]]
 **Abilita:** [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1yfccJoiKbCuxC3Iit309IzPS0P4JTmjA/view)
@@ -318,15 +326,15 @@ level: squadre
 > (30 points) The algorithm by which the Magic Mirror calculates who is “the fairest in the land” requires placing the 16 numbers 1, 2, 3, 4, 10, 20, 30, 40, 100, 200, 300, 400, 600, 700, 800, 900 in a 4×4 grid. Today, the sums of the 4 rows of the grid are (starting from the top) 920, 1003, 1313, 874, while the sums of the 4 columns (starting from the left) are 2230, 461, 109, 1310. The sum of the 4 numbers occupying the diagonal of the grid that runs from the top-left position to the bottom-right position determines the identity of today’s fairest: what is the sum today?
 > Team Competition – Problem Statements – Page 2 of 6
 
+
 **Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_casework|Case analysis]]
 **Abilita:** [[skill_casework_accurato|Careful case analysis]]
 **Area:** [[Algebra e Analisi|Algebra and analysis]]
 
-[[Quesiti/src_gs_2012#q08|src_gs_2012__Q08]]
 
 
-
-<span class="atom-split" id="q09" data-atom="q09" data-title="Quesito 9" data-tags="topic_algebra,method_casework"></span>
+<span class="atom-split" id="q09" data-atom="q09" data-title="Quesito 9" data-tags="topic_algebra,method_casework,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -360,6 +368,7 @@ level: squadre
 
 **Topic:** [[topic_algebra|Algebra]]
 **Metodo:** [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1yfccJoiKbCuxC3Iit309IzPS0P4JTmjA/view)
 
@@ -372,15 +381,15 @@ level: squadre
 > The Queen's Magic
 > (30 points) In order to perform a magical rite, the Queen must find the number of quadruples (x, y, z, t) of real numbers such that        x2y2 + z2t2 = 1 x2z2 + t2y2 = 1 x2t2 + y2z2 = 1 xyzt = 0 How many are there?
 
+
 **Topic:** [[topic_algebra|Algebra]]
 **Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
 **Area:** [[Algebra e Analisi|Algebra and analysis]]
 
-[[Quesiti/src_gs_2012#q09|src_gs_2012__Q09]]
 
 
-
-<span class="atom-split" id="q10" data-atom="q10" data-title="Quesito 10" data-tags="topic_probabilita"></span>
+<span class="atom-split" id="q10" data-atom="q10" data-title="Quesito 10" data-tags="topic_probabilita,method_casework,skill_modellizzazione"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -401,6 +410,8 @@ level: squadre
 > esprime tale probabilità.
 
 **Topic:** [[topic_probabilita|Probabilita e statistica]]
+**Metodo:** [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1yfccJoiKbCuxC3Iit309IzPS0P4JTmjA/view)
 
@@ -413,14 +424,15 @@ level: squadre
 > The Prince Charming's Ride
 > (30 points) The Prince Charming must reach the other end of the Forest on his horse and has just arrived at a crossroads. One road crosses a river via a rickety bridge that has a 30% chance of collapsing when a horse passes over it, whereas each of the other two roads crosses two rivers via two consecutive bridges, each of which has a 20% chance of collapsing when a horse passes over it. The Prince does not know which road has a single bridge and which has two. If the Prince chooses a road at random, what is the probability that he will cross the forest? Answer with the numerator of the fraction in lowest terms that expresses this probability.
 
+
 **Topic:** [[topic_probabilita|Probability and statistics]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
 **Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
-[[Quesiti/src_gs_2012#q10|src_gs_2012__Q10]]
 
 
-
-<span class="atom-split" id="q11" data-atom="q11" data-title="Quesito 11" data-tags="topic_combinatoria,topic_geometria_piana,method_conteggio"></span>
+<span class="atom-split" id="q11" data-atom="q11" data-title="Quesito 11" data-tags="topic_combinatoria,topic_geometria_piana,method_conteggio,skill_ragionamento_geometrico"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -435,6 +447,7 @@ level: squadre
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_conteggio|Conteggio combinatorio]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1yfccJoiKbCuxC3Iit309IzPS0P4JTmjA/view)
 
@@ -447,15 +460,15 @@ level: squadre
 > The Polygon of Brontolo
 > (40 points) Brontolo draws a regular 21-sided polygon. Then he draws all the diagonals and counts all the points inside the polygon that are intersections of these diagonals. How many points does he count?
 
+
 **Topic:** [[topic_combinatoria|Combinatorics]], [[topic_geometria_piana|Plane geometry]]
 **Metodo:** [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
 **Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Geometria|Geometry]]
 
-[[Quesiti/src_gs_2012#q11|src_gs_2012__Q11]]
 
 
-
-<span class="atom-split" id="q12" data-atom="q12" data-title="Quesito 12" data-tags="topic_aritmetica,method_congruenze"></span>
+<span class="atom-split" id="q12" data-atom="q12" data-title="Quesito 12" data-tags="topic_aritmetica,method_congruenze,method_fattorizzazione,method_casework,skill_manipolazione_algebrica,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -469,7 +482,8 @@ level: squadre
 > e determina quante soluzioni intere (i, j) essa abbia. Quante sono?
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]]
+**Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]], [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]], [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1yfccJoiKbCuxC3Iit309IzPS0P4JTmjA/view)
 
@@ -482,15 +496,15 @@ level: squadre
 > Dotto's fourth exercise
 > (40 points) This time, Dotto considers the equation 3i² + 2j² = 77 · 62012 and determines how many integer solutions (i, j) it has. How many are there?
 
+
 **Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
-**Metodo:** [[method_congruenze|Modular arithmetic / congruences]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]], [[method_fattorizzazione|Factorisation / algebraic manipulation]], [[method_casework|Case analysis]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_casework_accurato|Careful case analysis]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
-[[Quesiti/src_gs_2012#q12|src_gs_2012__Q12]]
 
 
-
-<span class="atom-split" id="q13" data-atom="q13" data-title="Quesito 13" data-tags="topic_geometria_solida,method_conteggio,skill_conteggio_sistematico"></span>
+<span class="atom-split" id="q13" data-atom="q13" data-title="Quesito 13" data-tags="topic_geometria_solida,topic_combinatoria,method_conteggio,skill_conteggio_sistematico,skill_ragionamento_geometrico"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -503,10 +517,10 @@ level: squadre
 > segmenti più lunghi possibile. Quanti sono, in totale, tali segmenti?
 > Gara a squadre – Testi dei problemi – Pag. 3 di 6
 
-**Topic:** [[topic_geometria_solida|Geometria solida]]
+**Topic:** [[topic_geometria_solida|Geometria solida]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_conteggio|Conteggio combinatorio]]
-**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
-**Area:** [[Geometria]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Geometria]], [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1yfccJoiKbCuxC3Iit309IzPS0P4JTmjA/view)
 
 
@@ -519,16 +533,15 @@ level: squadre
 > (40 points) Gongolo has a copy of each of the five Platonic solids in front of him. Looking at them one by one, he imagines how to draw, in each of them, all the longest possible line segments. In total, how many such segments are there?
 > Team Competition – Problem Statements – Page 3 of 6
 
-**Topic:** [[topic_geometria_solida|Solid geometry]]
+
+**Topic:** [[topic_geometria_solida|Solid geometry]], [[topic_combinatoria|Combinatorics]]
 **Metodo:** [[method_conteggio|Combinatorial counting]]
-**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
-**Area:** [[Geometria|Geometry]]
-
-[[Quesiti/src_gs_2012#q13|src_gs_2012__Q13]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]], [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
 
 
-<span class="atom-split" id="q14" data-atom="q14" data-title="Quesito 14" data-tags="topic_aritmetica,method_congruenze"></span>
+<span class="atom-split" id="q14" data-atom="q14" data-title="Quesito 14" data-tags="topic_aritmetica,method_congruenze,method_fattorizzazione,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -546,7 +559,8 @@ level: squadre
 > 2012. A quale turno si fermano?
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]]
+**Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]], [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1yfccJoiKbCuxC3Iit309IzPS0P4JTmjA/view)
 
@@ -560,15 +574,15 @@ level: squadre
 > (points 40) Eolo and Mammolo decide to play a game together, arranging square blocks, all of the same size. Eolo stacks them; Mammolo makes square little walls. Eolo starts with a stack of one block; Mammolo starts with a square of one block (the same thing). On the second turn, Eolo makes a stack of two blocks; Mammolo makes a square of four blocks. On the third turn, Eolo makes a stack of three blocks; Mammolo makes a square of nine blocks. They realize they have arranged 20 blocks. They decide to continue until the turn when they will have arranged a number of blocks that is a multiple of
 > 2012. At which shift do they stop?
 
+
 **Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
-**Metodo:** [[method_congruenze|Modular arithmetic / congruences]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]], [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
-[[Quesiti/src_gs_2012#q14|src_gs_2012__Q14]]
 
 
-
-<span class="atom-split" id="q15" data-atom="q15" data-title="Quesito 15" data-tags="topic_combinatoria,method_conteggio"></span>
+<span class="atom-split" id="q15" data-atom="q15" data-title="Quesito 15" data-tags="topic_combinatoria,topic_algebra,method_conteggio,method_fattorizzazione,skill_astrazione,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -586,9 +600,10 @@ level: squadre
 > in tutti i modi possibili nelle dieci scatole e scrivendo via via il prodotto ottenuto a fianco degli altri. Infine calcola la somma di tutti i numeri scritti sulla
 > lavagna. Che numero trova?
 
-**Topic:** [[topic_combinatoria|Combinatoria]]
-**Metodo:** [[method_conteggio|Conteggio combinatorio]]
-**Area:** [[Combinatoria, Logica e Probabilita]]
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_conteggio|Conteggio combinatorio]], [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
+**Abilita:** [[skill_astrazione|Astrazione / generalizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Algebra e Analisi]]
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1yfccJoiKbCuxC3Iit309IzPS0P4JTmjA/view)
 
 
@@ -602,15 +617,15 @@ level: squadre
 > 10. Inserts into box no. 1 a number chosen from −1, 0, 1, and 2; similarly,
 > Also in box no. 2, insert one of the numbers −1, 0, 1, 2, etc., until all the boxes are filled. Then multiply the 10 numbers thus inserted and write the resulting number on the board. Repeat the operation by inserting the numbers −1, 0, 1, 2 into the boxes again in a different way from before, and write the resulting product on the board next to the first one. Continue by inserting the numbers −1, 0, 1, 2 into the ten boxes in all possible ways and by writing the resulting product next to the others as you go. Finally, calculate the sum of all the numbers written on the board. What number do you get?
 
-**Topic:** [[topic_combinatoria|Combinatorics]]
-**Metodo:** [[method_conteggio|Combinatorial counting]]
-**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
-[[Quesiti/src_gs_2012#q15|src_gs_2012__Q15]]
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_conteggio|Combinatorial counting]], [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_astrazione|Abstraction / generalisation]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Algebra e Analisi|Algebra and analysis]]
 
 
 
-<span class="atom-split" id="q16" data-atom="q16" data-title="Quesito 16" data-tags="topic_combinatoria,topic_geometria_piana,method_estremalita"></span>
+<span class="atom-split" id="q16" data-atom="q16" data-title="Quesito 16" data-tags="topic_combinatoria,topic_geometria_piana,method_estremalita,skill_ragionamento_geometrico,skill_modellizzazione"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -630,6 +645,7 @@ level: squadre
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_estremalita|Principio di estremalita]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1yfccJoiKbCuxC3Iit309IzPS0P4JTmjA/view)
 
@@ -642,15 +658,15 @@ level: squadre
 > The Blinded Guards
 > (50 points) In a square field with sides 200 m long, vertical cylindrical posts, all identical to one another, have been erected. Any two of them are at least 2 m apart. The Queen's three guards enter the field and take positions at 3 distinct points. From their respective observation points, looking in all directions, each of the guards says that they can see exactly 3 posts; all the others remain hidden. What is the maximum number of posts in the field?
 
+
 **Topic:** [[topic_combinatoria|Combinatorics]], [[topic_geometria_piana|Plane geometry]]
 **Metodo:** [[method_estremalita|Extremal principle]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_modellizzazione|Modelling / translating the text]]
 **Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Geometria|Geometry]]
 
-[[Quesiti/src_gs_2012#q16|src_gs_2012__Q16]]
 
 
-
-<span class="atom-split" id="q17" data-atom="q17" data-title="Quesito 17" data-tags="topic_probabilita,method_backward"></span>
+<span class="atom-split" id="q17" data-atom="q17" data-title="Quesito 17" data-tags="topic_probabilita,method_backward,method_ricorsione,skill_modellizzazione"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -671,7 +687,8 @@ level: squadre
 > Gara a squadre – Testi dei problemi – Pag. 4 di 6
 
 **Topic:** [[topic_probabilita|Probabilita e statistica]]
-**Metodo:** [[method_backward|Ragionamento all'indietro]]
+**Metodo:** [[method_backward|Ragionamento all'indietro]], [[method_ricorsione|Ricorsione]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1yfccJoiKbCuxC3Iit309IzPS0P4JTmjA/view)
 
@@ -685,15 +702,15 @@ level: squadre
 > (50 points) The Kingdom Casino has introduced a new game: the player rolls a standard six-sided die; the house then asks the player whether they want to withdraw the die or be paid an amount equal to the die result and stop. If the player chooses to withdraw the die, the house repeats the question, up to a maximum of 6 total rolls, after which the player is forced to accept the result of the sixth roll. Mammolo has found the strategy that makes it possible to collect as much as possible. What is the average win of the strategy found by Mammolo? Answer with the numerator of the fraction in lowest terms that represents the average win.
 > Team Competition – Problem Statements – Page 4 of 6
 
+
 **Topic:** [[topic_probabilita|Probability and statistics]]
-**Metodo:** [[method_backward|Working backwards]]
+**Metodo:** [[method_backward|Working backwards]], [[method_ricorsione|Recursion]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
 **Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
-[[Quesiti/src_gs_2012#q17|src_gs_2012__Q17]]
 
 
-
-<span class="atom-split" id="q18" data-atom="q18" data-title="Quesito 18" data-tags="topic_geometria_piana,method_ricorsione"></span>
+<span class="atom-split" id="q18" data-atom="q18" data-title="Quesito 18" data-tags="topic_geometria_piana,method_ricorsione,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -712,6 +729,7 @@ level: squadre
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_ricorsione|Ricorsione]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/1yfccJoiKbCuxC3Iit309IzPS0P4JTmjA/view)
 
@@ -724,15 +742,15 @@ level: squadre
 > Grumpy's Tangents
 > (60 points) While practicing diamond cutting, Grumpy draws, on a small square sheet with sides 2 cm long, a circle tangent to the sides of the sheet. He then draws a second circle, external to the first and tangent to it and to two sides of the sheet; he then draws a third circle, external to the first two but tangent to the second and to two sides of the sheet, and so on. Grumpy stops when he draws the first circle with a radius less than one thousandth of a millimetre—how many circles are drawn on the sheet?
 
+
 **Topic:** [[topic_geometria_piana|Plane geometry]]
 **Metodo:** [[method_ricorsione|Recursion]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
 **Area:** [[Geometria|Geometry]]
 
-[[Quesiti/src_gs_2012#q18|src_gs_2012__Q18]]
 
 
-
-<span class="atom-split" id="q19" data-atom="q19" data-title="Quesito 19" data-tags="topic_aritmetica,method_congruenze"></span>
+<span class="atom-split" id="q19" data-atom="q19" data-title="Quesito 19" data-tags="topic_aritmetica,topic_logica,method_congruenze,method_casework,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -757,9 +775,10 @@ level: squadre
 > sono i furfanti e interrompe Biancaneve per dirlo, rovinando così la fiaba. Che
 > numero dice Dotto?
 
-**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]]
-**Area:** [[Aritmetica e Teoria dei Numeri]]
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_logica|Logica, giochi, strategie]]
+**Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]], [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/1yfccJoiKbCuxC3Iit309IzPS0P4JTmjA/view)
 
 
@@ -771,15 +790,15 @@ level: squadre
 > The Fairy Tale of Snow White
 > (60 points) Snow White tells a new fairy tale from the Island of Kenoncé about knights and scoundrels (knights always tell the truth; scoundrels always lie): the fairy tale of the statistical census on the Island of Kenoncé. The census office workers enter a bar and ask the same question of five patrons: "How many scoundrels are there on this island?" They receive the following answers: • When their number is divided by 56, the remainder is 19 • When their number is divided by 132, the remainder is 23 • When their number is divided by 105, the remainder is 13 • When their number is divided by 162, the remainder is 17 • When their number is divided by 156, the remainder is 37 The bartender, who is a knight, intervenes and says: "The island's inhabitants number ten thousand, and the information given by the knights present makes it possible to determine the answer uniquely." Thanks to his training with numbers, Dotto calculates how many scoundrels there are and interrupts Snow White to state the number, thus ruining the fairy tale. What number does Dotto say?
 
-**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
-**Metodo:** [[method_congruenze|Modular arithmetic / congruences]]
-**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
-[[Quesiti/src_gs_2012#q19|src_gs_2012__Q19]]
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_logica|Logic, games and strategies]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]], [[method_casework|Case analysis]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
 
 
-<span class="atom-split" id="q20" data-atom="q20" data-title="Quesito 20" data-tags="topic_combinatoria,method_grafi"></span>
+<span class="atom-split" id="q20" data-atom="q20" data-title="Quesito 20" data-tags="topic_combinatoria,topic_geometria_piana,method_grafi,skill_astrazione,skill_ragionamento_geometrico"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -801,9 +820,10 @@ level: squadre
 > in un medesimo vertice coincida con il numero di triangoli usati.]
 > Gara a squadre – Testi dei problemi – Pag. 5 di 6
 
-**Topic:** [[topic_combinatoria|Combinatoria]]
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_grafi|Teoria dei grafi]]
-**Area:** [[Combinatoria, Logica e Probabilita]]
+**Abilita:** [[skill_astrazione|Astrazione / generalizzazione]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/1yfccJoiKbCuxC3Iit309IzPS0P4JTmjA/view)
 
 
@@ -816,15 +836,15 @@ level: squadre
 > (60 points) The royal banner is a triangle divided into 3 triangles of different colors and bearing 4 diamonds, one at each vertex. The Queen wants to change it by using more triangles; the King agrees but insists that more than 3 triangles be used and that the royal properties of the original banner be preserved: it must be a triangle divided into a triangles, with a diamond at each vertex; each side must contain only two diamonds (the two at its vertices), and at each vertex of the figure the same number of sides must meet (the number of sides meeting at a single vertex of the original banner is three). What is the sum of the values of a that the Queen can choose? [Warning: the property does not require that the number of sides meeting at a single vertex coincide with the number of triangles used.]
 > Team Competition – Problem Statements – Page 5 of 6
 
-**Topic:** [[topic_combinatoria|Combinatorics]]
+
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_geometria_piana|Plane geometry]]
 **Metodo:** [[method_grafi|Graph theory]]
-**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
-
-[[Quesiti/src_gs_2012#q20|src_gs_2012__Q20]]
-
+**Abilita:** [[skill_astrazione|Abstraction / generalisation]], [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Geometria|Geometry]]
 
 
-<span class="atom-split" id="q21" data-atom="q21" data-title="Quesito 21" data-tags="topic_combinatoria,topic_aritmetica,method_casework,method_conteggio"></span>
+
+<span class="atom-split" id="q21" data-atom="q21" data-title="Quesito 21" data-tags="topic_combinatoria,topic_aritmetica,method_casework,method_conteggio,skill_conteggio_sistematico,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -843,7 +863,8 @@ level: squadre
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_casework|Analisi per casi]], [[method_conteggio|Conteggio combinatorio]]
-**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF p.7](https://drive.google.com/file/d/1yfccJoiKbCuxC3Iit309IzPS0P4JTmjA/view)
 
 
@@ -855,15 +876,15 @@ level: squadre
 > Readings of Snow White and the Seven Dwarfs
 > (points 70) Snow White and the Seven Dwarfs are seated around a round table, and each of them stacks a certain number of books—between 2 and 9 inclusive—on the table in front of themselves. They notice that, no matter which two of them are taken who are seated next to each other, the number of books in front of one of the two divides the number of books in front of the other. Dotto has 9 books on the table in front of him, so Snow White, who sits to his left, has 3 or 9 books in front of her. In how many possible ways can the distribution of books on the table be achieved?
 
+
 **Topic:** [[topic_combinatoria|Combinatorics]], [[topic_aritmetica|Arithmetic / Number theory]]
 **Metodo:** [[method_casework|Case analysis]], [[method_conteggio|Combinatorial counting]]
-**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
-
-[[Quesiti/src_gs_2012#q21|src_gs_2012__Q21]]
-
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]], [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
 
-<span class="atom-split" id="q22" data-atom="q22" data-title="Quesito 22" data-tags="topic_geometria_solida,method_ricorsione"></span>
+
+<span class="atom-split" id="q22" data-atom="q22" data-title="Quesito 22" data-tags="topic_geometria_solida,method_ricorsione,skill_ragionamento_geometrico"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -879,6 +900,7 @@ level: squadre
 
 **Topic:** [[topic_geometria_solida|Geometria solida]]
 **Metodo:** [[method_ricorsione|Ricorsione]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF p.7](https://drive.google.com/file/d/1yfccJoiKbCuxC3Iit309IzPS0P4JTmjA/view)
 
@@ -891,15 +913,15 @@ level: squadre
 > The Poisoned Apple
 > (points 70) To persuade Snow White to eat the apple (which seems suspicious because, after being soaked in the magic potion, it is perfectly spherical), the witch cuts it into pieces so that each cut passes through the center. What is the maximum number of pieces of apple that can be obtained after 7 cuts?
 
+
 **Topic:** [[topic_geometria_solida|Solid geometry]]
 **Metodo:** [[method_ricorsione|Recursion]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
 **Area:** [[Geometria|Geometry]]
 
-[[Quesiti/src_gs_2012#q22|src_gs_2012__Q22]]
 
 
-
-<span class="atom-split" id="q23" data-atom="q23" data-title="Quesito 23" data-tags="topic_geometria_piana,method_estremalita"></span>
+<span class="atom-split" id="q23" data-atom="q23" data-title="Quesito 23" data-tags="topic_geometria_piana,method_estremalita,skill_ragionamento_geometrico"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -920,6 +942,7 @@ level: squadre
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_estremalita|Principio di estremalita]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]]
 **Fonte:** [apri PDF p.7](https://drive.google.com/file/d/1yfccJoiKbCuxC3Iit309IzPS0P4JTmjA/view)
 
@@ -932,15 +955,15 @@ level: squadre
 > Snow White's coffin
 > (points 70) To preserve Snow White's dead body, the seven dwarfs are working diligently to divide a large fenced square area with sides 1 km long into three zones, using only three straight sections of fencing. As soon as he arrives, Prince Charming realizes that there is a maximum distance ℓ such that, however such a division is carried out (that is, using three sections of fencing of appropriate length but with no section overlapping another), in one of the three zones there are two points at least ℓ apart. Before kissing Snow White, Prince Charming tells the seven dwarfs the value of ℓ. In millimetres, what is the difference between this distance ℓ and the side length of the fence?
 
+
 **Topic:** [[topic_geometria_piana|Plane geometry]]
 **Metodo:** [[method_estremalita|Extremal principle]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
 **Area:** [[Geometria|Geometry]]
 
-[[Quesiti/src_gs_2012#q23|src_gs_2012__Q23]]
 
 
-
-<span class="atom-split" id="q24" data-atom="q24" data-title="Quesito 24" data-tags="topic_probabilita,method_ricorsione"></span>
+<span class="atom-split" id="q24" data-atom="q24" data-title="Quesito 24" data-tags="topic_probabilita,method_ricorsione,method_grafi,method_simmetria,skill_modellizzazione"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -965,7 +988,8 @@ level: squadre
 > Gara a squadre – Testi dei problemi – Pag. 6 di 6
 
 **Topic:** [[topic_probabilita|Probabilita e statistica]]
-**Metodo:** [[method_ricorsione|Ricorsione]]
+**Metodo:** [[method_ricorsione|Ricorsione]], [[method_grafi|Teoria dei grafi]], [[method_simmetria|Sfruttamento della simmetria]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Fonte:** [apri PDF p.7](https://drive.google.com/file/d/1yfccJoiKbCuxC3Iit309IzPS0P4JTmjA/view)
 
@@ -979,8 +1003,8 @@ level: squadre
 > (points 70) Snow White, the Seven Dwarfs, and Prince Charming let chance determine the Queen's fate. They take a cube and mark the three edges of the cube that meet at the same vertex A with 0, 1, and 2. They then mark all the remaining edges with the number already written on a parallel edge. Next, they insert a "placeholder" at point A. The Queen must roll an unweighted six-sided die. If the result of the roll is n, n is divided by 3. If the remainder is 0, she slides the placeholder from A along edge 0 until it reaches the other vertex; similarly, if the remainder is 1 or 2, she slides the placeholder along edge 1 or 2. On each subsequent roll of the die, the placeholder is moved according to the same rule. If, after a total of 10 rolls, the placeholder is at A, the Queen will have to put on two red-hot iron shoes. What is the probability that the Queen will put on the red-hot shoes? Answer with the numerator of the fraction in lowest terms that expresses this probability.
 > Team Competition – Problem Statements – Page 6 of 6
 
-**Topic:** [[topic_probabilita|Probability and statistics]]
-**Metodo:** [[method_ricorsione|Recursion]]
-**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
-[[Quesiti/src_gs_2012#q24|src_gs_2012__Q24]]
+**Topic:** [[topic_probabilita|Probability and statistics]]
+**Metodo:** [[method_ricorsione|Recursion]], [[method_grafi|Graph theory]], [[method_simmetria|Using symmetry]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]

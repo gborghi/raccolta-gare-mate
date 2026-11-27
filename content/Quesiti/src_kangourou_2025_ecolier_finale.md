@@ -10,7 +10,7 @@ level: kangourou
 
 
 
-<span class="atom-split" id="qe1" data-atom="qe1" data-title="Quesito E1" data-tags="topic_aritmetica,topic_algebra,skill_modellizzazione"></span>
+<span class="atom-split" id="qe1" data-atom="qe1" data-title="Quesito E1" data-tags="topic_aritmetica,topic_algebra,skill_modellizzazione,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -20,8 +20,8 @@ level: kangourou
 > Alcune mele identiche fra loro sono state riposte in 5 cassette (inizialmente vuote) identiche fra loro; ogni cassetta contiene lo stesso numero di mele delle altre. Alcune pere, in numero uguale al numero totale delle mele, sono state riposte in 7 cassette (inizialmente vuote) identiche fra loro: ogni cassetta contiene lo stesso numero di pere delle altre. Ogni cassetta di pere contiene 6 frutti in meno di ogni cassetta di mele. Quante sono le mele (o le pere)?
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
-**Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
-**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 **Risposta:** 105
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1EyuX-CGpqanxcrAEhrv2lXfkmU9jNjKg/view)
 
@@ -33,15 +33,14 @@ level: kangourou
 
 > Some apples that are identical to one another were placed in 5 crates (initially empty) that are identical to one another; each crate contains the same number of apples as the others. Some pears, in a number equal to the total number of apples, were placed in 7 crates (initially empty) that are identical to one another: each crate contains the same number of pears as the others. Each crate of pears contains 6 fewer fruits than each crate of apples. How many are the apples (or the pears)?
 
+
 **Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_algebra|Algebra]]
-**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
-**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
-
-[[Quesiti/src_kangourou_2025_ecolier_finale#qe1|src_kangourou_2025_ecolier_finale__QE1]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Algebra e Analisi|Algebra and analysis]]
 
 
 
-<span class="atom-split" id="qe2" data-atom="qe2" data-title="Quesito E2" data-tags="topic_combinatoria,topic_aritmetica,method_casework,skill_riconoscimento_pattern"></span>
+<span class="atom-split" id="qe2" data-atom="qe2" data-title="Quesito E2" data-tags="topic_combinatoria,topic_aritmetica,method_casework,skill_riconoscimento_pattern,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -52,8 +51,8 @@ level: kangourou
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_casework|Analisi per casi]]
-**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
-**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** esempio assegnazione
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1EyuX-CGpqanxcrAEhrv2lXfkmU9jNjKg/view)
 
@@ -65,16 +64,15 @@ level: kangourou
 
 > For each integer from 1 to 9 inclusive, Marta assigned one and only one of the colors red, blue, and green, in such a way that each red number is the sum of a green number and a blue number. The numbers to which Marta assigned red are 4. Write one of the assignments Marta could have made.
 
+
 **Topic:** [[topic_combinatoria|Combinatorics]], [[topic_aritmetica|Arithmetic / Number theory]]
 **Metodo:** [[method_casework|Case analysis]]
-**Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]]
-**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
-
-[[Quesiti/src_kangourou_2025_ecolier_finale#qe2|src_kangourou_2025_ecolier_finale__QE2]]
+**Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]], [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
 
 
-<span class="atom-split" id="qe3" data-atom="qe3" data-title="Quesito E3" data-tags="topic_aritmetica,skill_riconoscimento_pattern"></span>
+<span class="atom-split" id="qe3" data-atom="qe3" data-title="Quesito E3" data-tags="topic_aritmetica,method_estremalita,skill_riconoscimento_pattern"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -84,6 +82,7 @@ level: kangourou
 > Scrivi il più piccolo numero intero maggiore di 0 la somma delle cui cifre sia 30. Spiega come l'hai determinato.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_estremalita|Principio di estremalita]]
 **Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 3999
@@ -97,11 +96,11 @@ level: kangourou
 
 > Write the smallest positive integer whose digit sum is 30. Explain how you determined it.
 
+
 **Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_estremalita|Extremal principle]]
 **Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
-
-[[Quesiti/src_kangourou_2025_ecolier_finale#qe3|src_kangourou_2025_ecolier_finale__QE3]]
 
 
 
@@ -134,18 +133,16 @@ level: kangourou
 **Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
-[[Quesiti/src_kangourou_2025_ecolier_finale#qe4|src_kangourou_2025_ecolier_finale__QE4]]
 
 
-
-<span class="atom-split" id="qe5" data-atom="qe5" data-title="Quesito E5" data-tags="topic_logica,topic_combinatoria,method_estremalita,skill_casework_accurato"></span>
+<span class="atom-split" id="qe5" data-atom="qe5" data-title="Quesito E5" data-tags="topic_logica,topic_combinatoria,method_estremalita,method_backward,method_casework,skill_casework_accurato,skill_lettura_attenta"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
 
 *max e min centesimi di Bob*
 
-![[src_kangourou_2025_ecolier_finale__probe5.png]]
+![[src_kangourou_2025_ecolier_finale__probE5.png]]
 
 > Su un tavolo sono disposte sette monete in fila come in figura: 50 cent, 10 cent, 5 cent, 2 euro, 5 cent, 10 cent, 50 cent (da sinistra a destra).
 > 
@@ -158,8 +155,8 @@ level: kangourou
 > (vedi figura)
 
 **Topic:** [[topic_logica|Logica, giochi, strategie]], [[topic_combinatoria|Combinatoria]]
-**Metodo:** [[method_estremalita|Principio di estremalita]]
-**Abilita:** [[skill_casework_accurato|Casework accurato]]
+**Metodo:** [[method_estremalita|Principio di estremalita]], [[method_backward|Ragionamento all'indietro]], [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_lettura_attenta|Lettura attenta del testo]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** a)260 b)60
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1EyuX-CGpqanxcrAEhrv2lXfkmU9jNjKg/view)
@@ -170,7 +167,7 @@ level: kangourou
 
 *max and min cents of Bob*
 
-![[src_kangourou_2025_ecolier_finale__probe5.png]]
+![[src_kangourou_2025_ecolier_finale__probE5.png]]
 
 > On a table, seven coins are arranged in a row as shown in the figure: 50 cents, 10 cents, 5 cents, 2 euros, 5 cents, 10 cents, 50 cents (from left to right).
 >
@@ -182,16 +179,15 @@ level: kangourou
 >
 > (see figure)
 
+
 **Topic:** [[topic_logica|Logic, games and strategies]], [[topic_combinatoria|Combinatorics]]
-**Metodo:** [[method_estremalita|Extremal principle]]
-**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Metodo:** [[method_estremalita|Extremal principle]], [[method_backward|Working backwards]], [[method_casework|Case analysis]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]], [[skill_lettura_attenta|Careful reading of the text]]
 **Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
-[[Quesiti/src_kangourou_2025_ecolier_finale#qe5|src_kangourou_2025_ecolier_finale__QE5]]
 
 
-
-<span class="atom-split" id="qe6" data-atom="qe6" data-title="Quesito E6" data-tags="topic_aritmetica,topic_logica,skill_modellizzazione"></span>
+<span class="atom-split" id="qe6" data-atom="qe6" data-title="Quesito E6" data-tags="topic_aritmetica,topic_logica,method_congruenze,skill_modellizzazione,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -201,7 +197,8 @@ level: kangourou
 > Un parco circolare è circondato da un sentiero illuminato da lampioni. Simona e Tania hanno contato i lampioni, ma separatamente, partendo da punti diversi e muovendosi entrambe nello stesso verso. Quello che è stato il 20-esimo lampione per Simona è stato il 7-mo per Tania, quello che è stato il 7-mo per Simona è stato il 94-esimo per Tania. Quanti sono complessivamente i lampioni?
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_logica|Logica, giochi, strategie]]
-**Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
+**Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 100
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1EyuX-CGpqanxcrAEhrv2lXfkmU9jNjKg/view)
@@ -214,8 +211,8 @@ level: kangourou
 
 > A circular park is surrounded by a path lit by streetlights. Simona and Tania counted the streetlights, but separately, starting from different points and both moving in the same direction. The streetlight that was the 20th for Simona was the 7th for Tania; the streetlight that was the 7th for Simona was the 94th for Tania. How many streetlights are there in total?
 
-**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_logica|Logic, games and strategies]]
-**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
-**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
-[[Quesiti/src_kangourou_2025_ecolier_finale#qe6|src_kangourou_2025_ecolier_finale__QE6]]
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_logica|Logic, games and strategies]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]

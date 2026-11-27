@@ -43,8 +43,6 @@ level: Finale Internazionale Campionati Internazionali di Giochi Matematici (Par
 **Abilita:** [[skill_lettura_attenta|Careful reading of the text]], [[skill_conteggio_sistematico|Systematic counting]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
-[[Quesiti/src_bocconi_finaleint_2008_g1#q01|src_bocconi_finaleint_2008_g1__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_logica,method_casework,skill_lettura_attenta,skill_casework_accurato,skill_astrazione"></span>
@@ -75,8 +73,6 @@ level: Finale Internazionale Campionati Internazionali di Giochi Matematici (Par
 **Metodo:** [[method_casework|Case analysis]]
 **Abilita:** [[skill_lettura_attenta|Careful reading of the text]], [[skill_casework_accurato|Careful case analysis]], [[skill_astrazione|Abstraction / generalisation]]
 **Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
-
-[[Quesiti/src_bocconi_finaleint_2008_g1#q02|src_bocconi_finaleint_2008_g1__Q02]]
 
 
 
@@ -109,8 +105,6 @@ level: Finale Internazionale Campionati Internazionali di Giochi Matematici (Par
 **Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_conteggio_sistematico|Systematic counting]]
 **Area:** [[Geometria|Geometry]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
-[[Quesiti/src_bocconi_finaleint_2008_g1#q03|src_bocconi_finaleint_2008_g1__Q03]]
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_aritmetica,skill_modellizzazione,skill_manipolazione_algebrica"></span>
@@ -140,11 +134,9 @@ level: Finale Internazionale Campionati Internazionali di Giochi Matematici (Par
 **Abilita:** [[skill_modellizzazione|Modelling / translating the text]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
-[[Quesiti/src_bocconi_finaleint_2008_g1#q04|src_bocconi_finaleint_2008_g1__Q04]]
 
 
-
-<span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_logica,topic_combinatoria,method_casework,skill_lettura_attenta,skill_riconoscimento_pattern"></span>
+<span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_logica,topic_combinatoria,topic_aritmetica,method_casework,skill_lettura_attenta,skill_riconoscimento_pattern,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -153,10 +145,10 @@ level: Finale Internazionale Campionati Internazionali di Giochi Matematici (Par
 
 > In un display digitale, ogni cifra è rappresentata da due a sette segmenti luminosi (vedi il disegno qui a fianco). Quanti segmenti luminosi bisogna spegnere, al minimo, per rendere vera l'uguaglianza rappresentata a destra $00+00=100$?
 
-**Topic:** [[topic_logica|Logica]], [[topic_combinatoria|Combinatoria]]
+**Topic:** [[topic_logica|Logica]], [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_casework|Casework]]
-**Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
-**Area:** [[Combinatoria, Logica e Probabilita]]
+**Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 2 segmenti
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1cEvzapkr-yAKgB7mXcnIOwT2c3HoxCbX/view)
 
@@ -168,12 +160,11 @@ level: Finale Internazionale Campionati Internazionali di Giochi Matematici (Par
 
 > In a digital display, each digit is represented by two to seven light-emitting segments (see the drawing next to this). What is the minimum number of light-emitting segments that must be turned off to make the equality shown on the right $00+00=100$ true?
 
-**Topic:** [[topic_logica|Logic, games, strategies]], [[topic_combinatoria|Combinatorics]]
-**Metodo:** [[method_casework|Case analysis]]
-**Abilita:** [[skill_lettura_attenta|Careful reading of the text]], [[skill_riconoscimento_pattern|Pattern recognition]]
-**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
-[[Quesiti/src_bocconi_finaleint_2008_g1#q05|src_bocconi_finaleint_2008_g1__Q05]]
+**Topic:** [[topic_logica|Logic, games, strategies]], [[topic_combinatoria|Combinatorics]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_lettura_attenta|Careful reading of the text]], [[skill_riconoscimento_pattern|Pattern recognition]], [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
 
 
@@ -204,8 +195,6 @@ level: Finale Internazionale Campionati Internazionali di Giochi Matematici (Par
 **Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_modellizzazione|Modelling / translating the text]]
 **Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
-[[Quesiti/src_bocconi_finaleint_2008_g1#q06|src_bocconi_finaleint_2008_g1__Q06]]
-
 
 
 <span class="atom-split" id="q07" data-atom="q07" data-title="Quesito 7" data-tags="topic_geometria_solida,method_conteggio,skill_ragionamento_geometrico,skill_conteggio_sistematico"></span>
@@ -217,7 +206,7 @@ level: Finale Internazionale Campionati Internazionali di Giochi Matematici (Par
 
 > Julie ha fabbricato questo solido con l'aiuto di due piramidi a base triangolare intrecciate. Da quanti triangolini è composta la sua superficie?
 
-![[src_bocconi_finaleint_2008_g1__q07.png]]
+![[src_bocconi_finaleint_2008_g1__Q07.png]]
 
 **Topic:** [[topic_geometria_solida|Geometria solida]]
 **Metodo:** [[method_conteggio|Conteggio]]
@@ -234,18 +223,16 @@ level: Finale Internazionale Campionati Internazionali di Giochi Matematici (Par
 
 > Julie has constructed this solid with the help of two interwoven triangular-based pyramids. How many small triangles make up its surface?
 
-![[src_bocconi_finaleint_2008_g1__q07.png]]
+![[src_bocconi_finaleint_2008_g1__Q07.png]]
 
 **Topic:** [[topic_geometria_solida|Solid geometry]]
 **Metodo:** [[method_conteggio|Combinatorial counting]]
 **Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_conteggio_sistematico|Systematic counting]]
 **Area:** [[Geometria|Geometry]]
 
-[[Quesiti/src_bocconi_finaleint_2008_g1#q07|src_bocconi_finaleint_2008_g1__Q07]]
 
 
-
-<span class="atom-split" id="q08" data-atom="q08" data-title="Quesito 8" data-tags="topic_aritmetica,topic_combinatoria,method_congruenze,skill_lettura_attenta,skill_riconoscimento_pattern"></span>
+<span class="atom-split" id="q08" data-atom="q08" data-title="Quesito 8" data-tags="topic_aritmetica,topic_combinatoria,method_congruenze,method_casework,skill_lettura_attenta,skill_riconoscimento_pattern,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -255,8 +242,8 @@ level: Finale Internazionale Campionati Internazionali di Giochi Matematici (Par
 > Un'urna contiene nove carte. Ciascuno dei numeri da $1$ a $9$ è scritto su una carta (un numero per carta). Quentin prende a caso quattro carte nell'urna. Poi Tiphaine ne prende tre e ne resta dunque una nell'urna. Quentin guarda le sue carte e, sicuro di sé, dice a Tiphaine: «Sono sicuro che la somma dei numeri scritti sulle tue carte sia un numero dispari». Qual è la somma dei numeri scritti sulle carte prese da Quentin?
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
-**Metodo:** [[method_congruenze|Congruenze]]
-**Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Metodo:** [[method_congruenze|Congruenze]], [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 20
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1cEvzapkr-yAKgB7mXcnIOwT2c3HoxCbX/view)
@@ -269,16 +256,15 @@ level: Finale Internazionale Campionati Internazionali di Giochi Matematici (Par
 
 > An urn contains nine cards. Each of the numbers from $1$ to $9$ is written on one card (one number per card). Quentin randomly draws four cards from the urn. Then Tiphaine draws three, so one card remains in the urn. Quentin looks at his cards and, feeling confident, says to Tiphaine: "I'm sure that the sum of the numbers on your cards is an odd number." What is the sum of the numbers on the cards drawn by Quentin?
 
+
 **Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_combinatoria|Combinatorics]]
-**Metodo:** [[method_congruenze|Modular arithmetic / congruences]]
-**Abilita:** [[skill_lettura_attenta|Careful reading of the text]], [[skill_riconoscimento_pattern|Pattern recognition]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]], [[method_casework|Case analysis]]
+**Abilita:** [[skill_lettura_attenta|Careful reading of the text]], [[skill_riconoscimento_pattern|Pattern recognition]], [[skill_casework_accurato|Careful case analysis]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
-[[Quesiti/src_bocconi_finaleint_2008_g1#q08|src_bocconi_finaleint_2008_g1__Q08]]
 
 
-
-<span class="atom-split" id="q09" data-atom="q09" data-title="Quesito 9" data-tags="topic_geometria_piana,topic_combinatoria,method_casework,skill_casework_accurato,skill_ragionamento_geometrico"></span>
+<span class="atom-split" id="q09" data-atom="q09" data-title="Quesito 9" data-tags="topic_geometria_piana,topic_combinatoria,method_casework,method_coordinate,skill_casework_accurato,skill_ragionamento_geometrico"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -288,7 +274,7 @@ level: Finale Internazionale Campionati Internazionali di Giochi Matematici (Par
 > Sei punti $A$, $B$, $C$, $D$, $E$ ed $F$ sono segnati su una retta, non necessariamente in quest'ordine. Si sa che $AB = 2$ cm, $BC = 3$ cm, $CD = 5$ cm, $DE = 7$ cm, $EF = 8$ cm e $FA = 9$ cm. Qual è, in cm, la distanza tra i due punti più lontani?
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_combinatoria|Combinatoria]]
-**Metodo:** [[method_casework|Casework]]
+**Metodo:** [[method_casework|Casework]], [[method_coordinate|Metodo delle coordinate]]
 **Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 2 soluzioni: 17 cm; 15 cm
@@ -302,12 +288,11 @@ level: Finale Internazionale Campionati Internazionali di Giochi Matematici (Par
 
 > Six points $A$, $B$, $C$, $D$, $E$, and $F$ are marked on a straight line, not necessarily in this order. It is known that $AB = 2$ cm, $BC = 3$ cm, $CD = 5$ cm, $DE = 7$ cm, $EF = 8$ cm, and $FA = 9$ cm. What is the distance, in cm, between the two farthest points?
 
+
 **Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_combinatoria|Combinatorics]]
-**Metodo:** [[method_casework|Case analysis]]
+**Metodo:** [[method_casework|Case analysis]], [[method_coordinate|Coordinate method]]
 **Abilita:** [[skill_casework_accurato|Careful case analysis]], [[skill_ragionamento_geometrico|Geometric reasoning]]
 **Area:** [[Geometria|Geometry]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
-
-[[Quesiti/src_bocconi_finaleint_2008_g1#q09|src_bocconi_finaleint_2008_g1__Q09]]
 
 
 
@@ -320,7 +305,7 @@ level: Finale Internazionale Campionati Internazionali di Giochi Matematici (Par
 
 > Tracciando un triangolo equilatero e un quadrato, si crea al massimo $7$ regioni chiuse nel piano. Mathias disegna un pentagono regolare non incrociato (figura a $5$ lati) e un esagono regolare (figura a $6$ lati). Quante regioni chiuse del piano otterrà, al massimo?
 
-![[src_bocconi_finaleint_2008_g1__q10.png]]
+![[src_bocconi_finaleint_2008_g1__Q10.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_estremalita|Estremalità]], [[method_conteggio|Conteggio]]
@@ -337,18 +322,16 @@ level: Finale Internazionale Campionati Internazionali di Giochi Matematici (Par
 
 > By drawing an equilateral triangle and a square, at most $7$ closed regions are created in the plane. Mathias draws a non-self-intersecting regular pentagon (a figure with $5$ sides) and a regular hexagon (a figure with $6$ sides). At most, how many closed regions in the plane will he obtain?
 
-![[src_bocconi_finaleint_2008_g1__q10.png]]
+![[src_bocconi_finaleint_2008_g1__Q10.png]]
 
 **Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_combinatoria|Combinatorics]]
 **Metodo:** [[method_estremalita|Extremal principle]], [[method_conteggio|Combinatorial counting]]
 **Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_conteggio_sistematico|Systematic counting]]
 **Area:** [[Geometria|Geometry]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
-[[Quesiti/src_bocconi_finaleint_2008_g1#q10|src_bocconi_finaleint_2008_g1__Q10]]
 
 
-
-<span class="atom-split" id="q11" data-atom="q11" data-title="Quesito 11" data-tags="topic_combinatoria,topic_logica,method_estremalita,method_casework,skill_casework_accurato,skill_conteggio_sistematico"></span>
+<span class="atom-split" id="q11" data-atom="q11" data-title="Quesito 11" data-tags="topic_combinatoria,topic_logica,topic_aritmetica,method_estremalita,method_casework,skill_casework_accurato,skill_conteggio_sistematico,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -357,12 +340,12 @@ level: Finale Internazionale Campionati Internazionali di Giochi Matematici (Par
 
 > Completate questo pentagono con l'aiuto di numeri interi strettamente positivi in modo tale che: $\bullet$ i numeri siano tutti differenti; $\bullet$ la somma di tre numeri posti su uno stesso segmento sia sempre la stessa; $\bullet$ il numero più grande sia il più piccolo possibile.
 
-![[src_bocconi_finaleint_2008_g1__q11.png]]
+![[src_bocconi_finaleint_2008_g1__Q11.png]]
 
-**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_logica|Logica]]
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_logica|Logica]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_estremalita|Estremalità]], [[method_casework|Casework]]
-**Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_conteggio_sistematico|Conteggio sistematico]]
-**Area:** [[Combinatoria, Logica e Probabilita]]
+**Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 1 soluzione
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1cEvzapkr-yAKgB7mXcnIOwT2c3HoxCbX/view)
 
@@ -374,18 +357,17 @@ level: Finale Internazionale Campionati Internazionali di Giochi Matematici (Par
 
 > Complete this pentagon using strictly positive integers such that: $\bullet$ the numbers are all different; $\bullet$ the sum of three numbers lying on the same segment is always the same; $\bullet$ the largest number is as small as possible.
 
-![[src_bocconi_finaleint_2008_g1__q11.png]]
+![[src_bocconi_finaleint_2008_g1__Q11.png]]
 
-**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_logica|Logic, games, strategies]]
+
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_logica|Logic, games, strategies]], [[topic_aritmetica|Arithmetic / Number theory]]
 **Metodo:** [[method_estremalita|Extremal principle]], [[method_casework|Case analysis]]
-**Abilita:** [[skill_casework_accurato|Careful case analysis]], [[skill_conteggio_sistematico|Systematic counting]]
-**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
-
-[[Quesiti/src_bocconi_finaleint_2008_g1#q11|src_bocconi_finaleint_2008_g1__Q11]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]], [[skill_conteggio_sistematico|Systematic counting]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
 
 
-<span class="atom-split" id="q12" data-atom="q12" data-title="Quesito 12" data-tags="topic_combinatoria,topic_logica,method_casework,method_estremalita,skill_casework_accurato,skill_ragionamento_geometrico,skill_modellizzazione"></span>
+<span class="atom-split" id="q12" data-atom="q12" data-title="Quesito 12" data-tags="topic_combinatoria,topic_logica,method_casework,method_estremalita,skill_casework_accurato,skill_ragionamento_geometrico,skill_modellizzazione,skill_lettura_attenta"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -394,11 +376,11 @@ level: Finale Internazionale Campionati Internazionali di Giochi Matematici (Par
 
 > La figura rappresenta una carta $6 \times 5$ del porto militare di Maths-Pays e tre delle sue foto aeree prese nello stesso momento. Le caselle occupate da due navi differenti non possono toccarsi, nemmeno in diagonale. Le navi sono tutte di larghezza $1$. C'è una portaerei di lunghezza $3$, due controtorpediniere di lunghezza $2$ e tre scorte di lunghezza $1$. Completate la carta, sapendo che non c'è alcuna foto la cui orientazione sia corretta (ciascuna ha subito una rotazione).
 
-![[src_bocconi_finaleint_2008_g1__q12.png]]
+![[src_bocconi_finaleint_2008_g1__Q12.png]]
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_logica|Logica]]
 **Metodo:** [[method_casework|Casework]], [[method_estremalita|Estremalità]]
-**Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]]
+**Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]], [[skill_lettura_attenta|Lettura attenta del testo]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 1 soluzione
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1cEvzapkr-yAKgB7mXcnIOwT2c3HoxCbX/view)
@@ -411,14 +393,13 @@ level: Finale Internazionale Campionati Internazionali di Giochi Matematici (Par
 
 > The figure shows a chart $6 \times 5$ of the military port of Maths-Pays and three of its aerial photographs taken at the same time. The squares occupied by two different ships cannot touch, not even diagonally. All the ships are $1$ wide. There is one aircraft carrier $3$ long, two destroyers $2$ long, and three escorts $1$ long. Complete the chart, knowing that none of the photographs is correctly oriented (each has been rotated).
 
-![[src_bocconi_finaleint_2008_g1__q12.png]]
+![[src_bocconi_finaleint_2008_g1__Q12.png]]
+
 
 **Topic:** [[topic_combinatoria|Combinatorics]], [[topic_logica|Logic, games, strategies]]
 **Metodo:** [[method_casework|Case analysis]], [[method_estremalita|Extremal principle]]
-**Abilita:** [[skill_casework_accurato|Careful case analysis]], [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_modellizzazione|Modelling / translating the text]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]], [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_modellizzazione|Modelling / translating the text]], [[skill_lettura_attenta|Careful reading of the text]]
 **Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
-
-[[Quesiti/src_bocconi_finaleint_2008_g1#q12|src_bocconi_finaleint_2008_g1__Q12]]
 
 
 
@@ -451,8 +432,6 @@ level: Finale Internazionale Campionati Internazionali di Giochi Matematici (Par
 **Abilita:** [[skill_modellizzazione|Modelling / translating the text]], [[skill_stima|Estimation and approximation]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
-[[Quesiti/src_bocconi_finaleint_2008_g1#q13|src_bocconi_finaleint_2008_g1__Q13]]
-
 
 
 <span class="atom-split" id="q14" data-atom="q14" data-title="Quesito 14" data-tags="topic_combinatoria,topic_logica,method_casework,skill_casework_accurato,skill_conteggio_sistematico"></span>
@@ -464,7 +443,7 @@ level: Finale Internazionale Campionati Internazionali di Giochi Matematici (Par
 
 > Ogni casella contiene una cifra e una sola. Ogni riga e ogni colonna contiene tutte le cifre da $1$ a $5$. I numeri di cinque cifre ottenuti leggendo le righe da sinistra a destra e le colonne dall'alto verso il basso sono tutti differenti. I loro ranghi sono indicati nell'ordine crescente all'esterno della griglia. Riempite la griglia.
 
-![[src_bocconi_finaleint_2008_g1__q14.png]]
+![[src_bocconi_finaleint_2008_g1__Q14.png]]
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_logica|Logica]]
 **Metodo:** [[method_casework|Casework]]
@@ -481,14 +460,12 @@ level: Finale Internazionale Campionati Internazionali di Giochi Matematici (Par
 
 > Each cell contains exactly one digit. Each row and each column contains all the digits from $1$ to $5$. The five-digit numbers obtained by reading the rows from left to right and the columns from top to bottom are all different. Their ranks, in ascending order, are indicated outside the grid. Fill in the grid.
 
-![[src_bocconi_finaleint_2008_g1__q14.png]]
+![[src_bocconi_finaleint_2008_g1__Q14.png]]
 
 **Topic:** [[topic_combinatoria|Combinatorics]], [[topic_logica|Logic, games, strategies]]
 **Metodo:** [[method_casework|Case analysis]]
 **Abilita:** [[skill_casework_accurato|Careful case analysis]], [[skill_conteggio_sistematico|Systematic counting]]
 **Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
-
-[[Quesiti/src_bocconi_finaleint_2008_g1#q14|src_bocconi_finaleint_2008_g1__Q14]]
 
 
 
@@ -521,8 +498,6 @@ level: Finale Internazionale Campionati Internazionali di Giochi Matematici (Par
 **Abilita:** [[skill_astrazione|Abstraction / generalisation]], [[skill_casework_accurato|Careful case analysis]], [[skill_lettura_attenta|Careful reading of the text]]
 **Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
-[[Quesiti/src_bocconi_finaleint_2008_g1#q15|src_bocconi_finaleint_2008_g1__Q15]]
-
 
 
 <span class="atom-split" id="q16" data-atom="q16" data-title="Quesito 16" data-tags="topic_combinatoria,topic_geometria_solida,method_casework,method_colorazione,method_simmetria,method_conteggio,skill_casework_accurato,skill_ragionamento_geometrico,skill_conteggio_sistematico"></span>
@@ -554,8 +529,6 @@ level: Finale Internazionale Campionati Internazionali di Giochi Matematici (Par
 **Abilita:** [[skill_casework_accurato|Careful case analysis]], [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_conteggio_sistematico|Systematic counting]]
 **Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Geometria|Geometry]]
 
-[[Quesiti/src_bocconi_finaleint_2008_g1#q16|src_bocconi_finaleint_2008_g1__Q16]]
-
 
 
 <span class="atom-split" id="q17" data-atom="q17" data-title="Quesito 17" data-tags="topic_combinatoria,topic_logica,method_casework,skill_casework_accurato,skill_lettura_attenta,skill_conteggio_sistematico"></span>
@@ -567,7 +540,7 @@ level: Finale Internazionale Campionati Internazionali di Giochi Matematici (Par
 
 > Ogni casella della griglia contiene la cifra $1$, $2$ o $3$. Nella riga in basso, le cifre sono in ordine crescente in senso largo (due cifre vicine possono essere uguali) da sinistra a destra. Nella colonna di sinistra, le cifre sono in ordine crescente in senso largo dal basso verso l'alto. Completate la griglia in modo che, in ogni «rettangolo» o «quadrato» di quattro caselle all'intersezione di due righe e di due colonne, le due somme di due cifre in diagonale siano differenti. Così, sulla figura, la somma di $a$ e di $b$ deve essere differente da $3$.
 
-![[src_bocconi_finaleint_2008_g1__q17.png]]
+![[src_bocconi_finaleint_2008_g1__Q17.png]]
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_logica|Logica]]
 **Metodo:** [[method_casework|Casework]]
@@ -584,18 +557,16 @@ level: Finale Internazionale Campionati Internazionali di Giochi Matematici (Par
 
 > Each cell of the grid contains the digit $1$, $2$, or $3$. In the bottom row, the digits are in broad ascending order from left to right (two adjacent digits may be equal). In the left column, the digits are in broad ascending order from bottom to top. Complete the grid so that, in each "rectangle" or "square" of four cells at the intersection of two rows and two columns, the two sums of two digits along the diagonals are different. Thus, in the figure, the sum of $a$ and $b$ must be different from $3$.
 
-![[src_bocconi_finaleint_2008_g1__q17.png]]
+![[src_bocconi_finaleint_2008_g1__Q17.png]]
 
 **Topic:** [[topic_combinatoria|Combinatorics]], [[topic_logica|Logic, games, strategies]]
 **Metodo:** [[method_casework|Case analysis]]
 **Abilita:** [[skill_casework_accurato|Careful case analysis]], [[skill_lettura_attenta|Careful reading of the text]], [[skill_conteggio_sistematico|Systematic counting]]
 **Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
-[[Quesiti/src_bocconi_finaleint_2008_g1#q17|src_bocconi_finaleint_2008_g1__Q17]]
 
 
-
-<span class="atom-split" id="q18" data-atom="q18" data-title="Quesito 18" data-tags="topic_aritmetica,topic_combinatoria,method_casework,method_fattorizzazione,skill_manipolazione_algebrica,skill_riconoscimento_pattern,skill_conteggio_sistematico"></span>
+<span class="atom-split" id="q18" data-atom="q18" data-title="Quesito 18" data-tags="topic_aritmetica,topic_combinatoria,method_casework,method_fattorizzazione,method_congruenze,skill_manipolazione_algebrica,skill_riconoscimento_pattern,skill_conteggio_sistematico"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -605,7 +576,7 @@ level: Finale Internazionale Campionati Internazionali di Giochi Matematici (Par
 > Picsou possiede quattro tipi di lingotti d'oro, ciascuno disponibile in quantità infinita. Sono dei mattoni rettangolari $A$, $B$, $C$ e $D$, della stessa densità, le cui dimensioni in centimetri sono rispettivamente: $\bullet$ $3$, $4$ e $7$ per $A$; $\bullet$ $3$, $4$ e $11$ per $B$; $\bullet$ $3$, $7$ e $11$ per $C$; $\bullet$ $4$, $7$ e $11$ per $D$. Con quattro lingotti $A$, un lingotto $B$, quattro lingotti $C$ e due lingotti $D$, Picsou ottiene esattamente una quantità d'oro uguale a $2008$ cm$^3$. Qual è al massimo, in cm$^3$, la quantità d'oro che non può ottenere esattamente?
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
-**Metodo:** [[method_casework|Casework]], [[method_fattorizzazione|Fattorizzazione]]
+**Metodo:** [[method_casework|Casework]], [[method_fattorizzazione|Fattorizzazione]], [[method_congruenze|Aritmetica modulare / congruenze]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 2017
@@ -619,9 +590,8 @@ level: Finale Internazionale Campionati Internazionali di Giochi Matematici (Par
 
 > Scrooge owns four types of gold bars, each available in infinite quantities. They are rectangular bricks $A$, $B$, $C$, and $D$, of the same density, whose dimensions in centimeters are respectively: $\bullet$ $3$, $4$, and $7$ for $A$; $\bullet$ $3$, $4$, and $11$ for $B$; $\bullet$ $3$, $7$, and $11$ for $C$; $\bullet$ $4$, $7$, and $11$ for $D$. With four bars $A$, one bar $B$, four bars $C$, and two bars $D$, Scrooge obtains exactly a quantity of gold equal to $2008$ cm$^3$. What is the maximum quantity of gold, in cm$^3$, that he cannot obtain exactly?
 
+
 **Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_combinatoria|Combinatorics]]
-**Metodo:** [[method_casework|Case analysis]], [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Metodo:** [[method_casework|Case analysis]], [[method_fattorizzazione|Factorisation / algebraic manipulation]], [[method_congruenze|Modular arithmetic / congruences]]
 **Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_riconoscimento_pattern|Pattern recognition]], [[skill_conteggio_sistematico|Systematic counting]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
-
-[[Quesiti/src_bocconi_finaleint_2008_g1#q18|src_bocconi_finaleint_2008_g1__Q18]]

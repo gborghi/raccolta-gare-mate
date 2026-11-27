@@ -10,7 +10,7 @@ level: kangourou
 
 
 
-<span class="atom-split" id="qs1" data-atom="qs1" data-title="Quesito S1" data-tags="topic_aritmetica,topic_algebra,method_casework,skill_riconoscimento_pattern"></span>
+<span class="atom-split" id="qs1" data-atom="qs1" data-title="Quesito S1" data-tags="topic_aritmetica,topic_algebra,method_casework,method_fattorizzazione,skill_riconoscimento_pattern,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -22,9 +22,9 @@ level: kangourou
 > determinato.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
-**Metodo:** [[method_casework|Analisi per casi]]
-**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
-**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
+**Metodo:** [[method_casework|Analisi per casi]], [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 **Risposta:** 63
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1aUKk1biwLcg0St2UFy-7j4t3JVsISp8p/view)
 
@@ -36,16 +36,15 @@ level: kangourou
 
 > For a certain value of n, 2016 can be expressed as the square root of the sum of the cubes of the first n positive integers. What is the value of n? Explain how you determined it.
 
+
 **Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_algebra|Algebra]]
-**Metodo:** [[method_casework|Case analysis]]
-**Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]]
-**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
-
-[[Quesiti/src_kangourou_2016_student_finale#qs1|src_kangourou_2016_student_finale__QS1]]
+**Metodo:** [[method_casework|Case analysis]], [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Algebra e Analisi|Algebra and analysis]]
 
 
 
-<span class="atom-split" id="qs2" data-atom="qs2" data-title="Quesito S2" data-tags="topic_aritmetica,skill_casework_accurato"></span>
+<span class="atom-split" id="qs2" data-atom="qs2" data-title="Quesito S2" data-tags="topic_aritmetica,method_casework,method_congruenze,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -59,6 +58,7 @@ level: kangourou
 > quanti giorni festivi in più ci sarebbero in ogni anno?
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Analisi per casi]], [[method_congruenze|Aritmetica modulare / congruenze]]
 **Abilita:** [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 2
@@ -72,15 +72,15 @@ level: kangourou
 
 > In the strange Republic of Kang, years last 3000 days, numbered from 1 to 3000. Holiday days are those whose number is divisible by 6 or is a prime number; the others are working days. If every "bridge day"—that is, a working day preceded and followed by a holiday—were also added to the holiday days, how many more holiday days would there be in each year?
 
+
 **Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_casework|Case analysis]], [[method_congruenze|Modular arithmetic / congruences]]
 **Abilita:** [[skill_casework_accurato|Careful case analysis]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
-[[Quesiti/src_kangourou_2016_student_finale#qs2|src_kangourou_2016_student_finale__QS2]]
 
 
-
-<span class="atom-split" id="qs3" data-atom="qs3" data-title="Quesito S3" data-tags="topic_geometria_analitica,topic_geometria_solida,method_coordinate,skill_ragionamento_geometrico"></span>
+<span class="atom-split" id="qs3" data-atom="qs3" data-title="Quesito S3" data-tags="topic_geometria_analitica,topic_geometria_solida,method_coordinate,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -91,7 +91,7 @@ level: kangourou
 
 **Topic:** [[topic_geometria_analitica|Geometria analitica]], [[topic_geometria_solida|Geometria solida]]
 **Metodo:** [[method_coordinate|Metodo delle coordinate]]
-**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 **Risposta:** (0,4,7)
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1aUKk1biwLcg0St2UFy-7j4t3JVsISp8p/view)
@@ -104,16 +104,15 @@ level: kangourou
 
 > Relative to a given system of orthogonal Cartesian axes in space, the coordinates of three of the vertices of a cube are $(4,0,3)$, $(6,4,1)$, and $(2,8,5)$. Determine, in the quickest way you can, the coordinates (with respect to the same system) of one of the remaining vertices of the cube.
 
+
 **Topic:** [[topic_geometria_analitica|Coordinate geometry]], [[topic_geometria_solida|Solid geometry]]
 **Metodo:** [[method_coordinate|Coordinate method]]
-**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
 **Area:** [[Geometria|Geometry]]
 
-[[Quesiti/src_kangourou_2016_student_finale#qs3|src_kangourou_2016_student_finale__QS3]]
 
 
-
-<span class="atom-split" id="qs4" data-atom="qs4" data-title="Quesito S4" data-tags="topic_algebra,topic_combinatoria,method_telescoping,skill_manipolazione_algebrica"></span>
+<span class="atom-split" id="qs4" data-atom="qs4" data-title="Quesito S4" data-tags="topic_algebra,topic_combinatoria,method_telescoping,skill_manipolazione_algebrica,skill_riconoscimento_pattern"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -124,7 +123,7 @@ level: kangourou
 
 **Topic:** [[topic_algebra|Algebra]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_telescoping|Somme telescopiche]]
-**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Algebra e Analisi]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 2016
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1aUKk1biwLcg0St2UFy-7j4t3JVsISp8p/view)
@@ -137,23 +136,22 @@ level: kangourou
 
 > Consider the set of the first $2016$ positive integers: for each of its non-empty subsets, associate the reciprocal of the product of the numbers that make up the subset (for example, if the subset is $\{99, 105, 2001\}$, associate $\dfrac{1}{99 \cdot 105 \cdot 2001}$). What is the sum of all the numbers you obtain as all possible non-empty subsets vary?
 
+
 **Topic:** [[topic_algebra|Algebra]], [[topic_combinatoria|Combinatorics]]
 **Metodo:** [[method_telescoping|Telescoping sums]]
-**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_riconoscimento_pattern|Pattern recognition]]
 **Area:** [[Algebra e Analisi|Algebra and analysis]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
-[[Quesiti/src_kangourou_2016_student_finale#qs4|src_kangourou_2016_student_finale__QS4]]
 
 
-
-<span class="atom-split" id="qs5" data-atom="qs5" data-title="Quesito S5" data-tags="topic_geometria_piana,method_disuguaglianze,skill_ragionamento_geometrico"></span>
+<span class="atom-split" id="qs5" data-atom="qs5" data-title="Quesito S5" data-tags="topic_geometria_piana,method_disuguaglianze,method_simmetria,method_coordinate,skill_ragionamento_geometrico"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
 
 *Massimo rapporto area parallelogramma su esagono regolare*
 
-![[src_kangourou_2016_student_finale__probs5.png]]
+![[src_kangourou_2016_student_finale__probS5.png]]
 
 ```tikz
 \begin{document}
@@ -180,7 +178,7 @@ level: kangourou
 > Un parallelogramma è inscritto in un esagono regolare (cioè i suoi vertici sono punti di qualche lato dell'esagono) e i centri (di simmetria) dei due poligoni coincidono. Quanto può valere, al massimo, il rapporto fra l'area del parallelogramma e l'area dell'esagono?
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
-**Metodo:** [[method_disuguaglianze|Disuguaglianze classiche]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze classiche]], [[method_simmetria|Sfruttamento della simmetria]], [[method_coordinate|Metodo delle coordinate]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]]
 **Risposta:** 2/3
@@ -192,7 +190,7 @@ level: kangourou
 
 *Maximum ratio of the area of a parallelogram to that of a regular hexagon*
 
-![[src_kangourou_2016_student_finale__probs5.png]]
+![[src_kangourou_2016_student_finale__probS5.png]]
 
 ```tikz
 \begin{document}
@@ -218,23 +216,22 @@ level: kangourou
 
 > A parallelogram is inscribed in a regular hexagon (that is, its vertices are points on some side of the hexagon), and the centers (of symmetry) of the two polygons coincide. What is the maximum possible value of the ratio of the area of the parallelogram to the area of the hexagon?
 
+
 **Topic:** [[topic_geometria_piana|Plane geometry]]
-**Metodo:** [[method_disuguaglianze|Classical inequalities]]
+**Metodo:** [[method_disuguaglianze|Classical inequalities]], [[method_simmetria|Using symmetry]], [[method_coordinate|Coordinate method]]
 **Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
 **Area:** [[Geometria|Geometry]]
 
-[[Quesiti/src_kangourou_2016_student_finale#qs5|src_kangourou_2016_student_finale__QS5]]
 
 
-
-<span class="atom-split" id="qs6" data-atom="qs6" data-title="Quesito S6" data-tags="topic_geometria_piana,topic_logica,method_casework,skill_astrazione"></span>
+<span class="atom-split" id="qs6" data-atom="qs6" data-title="Quesito S6" data-tags="topic_geometria_piana,topic_logica,method_casework,skill_astrazione,skill_ragionamento_geometrico,skill_lettura_attenta"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
 
 *Affermazioni su piastrellamenti del piano (convesse)*
 
-![[src_kangourou_2016_student_finale__probs6.png]]
+![[src_kangourou_2016_student_finale__probS6.png]]
 
 > Per **piastrellamento del piano** intendiamo una famiglia di figure convesse (eventualmente diverse tra loro per forma e dimensione), ciascuna comprensiva del proprio bordo, contenuta in qualche cerchio e contenente qualche cerchio, tale che ogni punto del piano appartenga a qualche figura, ma figure diverse abbiano in comune al più solo punti dei loro bordi. Le figure vengono dette **piastrelle**.
 > 
@@ -250,8 +247,8 @@ level: kangourou
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_logica|Logica, giochi, strategie]]
 **Metodo:** [[method_casework|Analisi per casi]]
-**Abilita:** [[skill_astrazione|Astrazione / generalizzazione]]
-**Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
+**Abilita:** [[skill_astrazione|Astrazione / generalizzazione]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta del testo]]
+**Area:** [[Geometria]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 1a falsa, 1b vera, 2 falsa
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1aUKk1biwLcg0St2UFy-7j4t3JVsISp8p/view)
 
@@ -261,7 +258,7 @@ level: kangourou
 
 *Statements about (convex) plane tilings*
 
-![[src_kangourou_2016_student_finale__probs6.png]]
+![[src_kangourou_2016_student_finale__probS6.png]]
 
 > By **tiling of the plane** we mean a family of convex figures (possibly differing from one another in shape and size), each including its own boundary, contained in some circle and containing some circle, such that every point of the plane belongs to some figure, but distinct figures share at most only points of their boundaries. The figures are called **tiles**.
 >
@@ -275,9 +272,8 @@ level: kangourou
 >
 > *N.B. To provide some answers, you can simply draw figures that are sufficiently explanatory.*
 
+
 **Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_logica|Logic, games and strategies]]
 **Metodo:** [[method_casework|Case analysis]]
-**Abilita:** [[skill_astrazione|Abstraction / generalisation]]
-**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Geometria|Geometry]]
-
-[[Quesiti/src_kangourou_2016_student_finale#qs6|src_kangourou_2016_student_finale__QS6]]
+**Abilita:** [[skill_astrazione|Abstraction / generalisation]], [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_lettura_attenta|Careful reading of the text]]
+**Area:** [[Geometria|Geometry]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]

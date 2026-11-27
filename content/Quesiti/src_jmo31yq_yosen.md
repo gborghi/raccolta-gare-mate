@@ -10,7 +10,7 @@ level: JMO Yosen
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_aritmetica,method_estremalita,method_fattorizzazione,skill_manipolazione_algebrica,skill_riconoscimento_pattern"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_aritmetica,topic_algebra,method_estremalita,method_fattorizzazione,method_congruenze,skill_manipolazione_algebrica,skill_riconoscimento_pattern"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -19,10 +19,10 @@ level: JMO Yosen
 
 > Let $m$ and $n$ be mutually coprime positive integers satisfying $m+n=90$. Find the maximum possible value of the product $mn$.
 
-**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_estremalita|Estremalità]], [[method_fattorizzazione|Fattorizzazione]]
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_fattorizzazione|Fattorizzazione]], [[method_congruenze|Modular arithmetic / congruences]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
-**Area:** [[Aritmetica e Teoria dei Numeri]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Algebra e Analisi|Algebra and analysis]]
 **Risposta:** 2021
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1OaNH9dsPASreVzt0kNEfXrpZaywkBl-p/view)
 
@@ -35,10 +35,12 @@ level: JMO Yosen
 > Siano $m$ e $n$ interi positivi coprimi fra loro che soddisfano $m+n=90$. Trovare il massimo valore possibile del prodotto $mn$.
 
 **Argomento:** [[topic_aritmetica|Aritmetica / Teoria dei numeri]]
-**Metodo:** [[method_estremalita|Principio di estremalità]], [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
-**Abilità:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di schemi]]
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei numeri]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_estremalita|Principio di estremalità]], [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]], [[method_congruenze|Aritmetica modulare / congruenze]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di schemi]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 **Risposta:** 2021
-[[Quesiti/src_jmo31yq_yosen#q01|src_jmo31yq_yosen__Q01]]
 
 
 
@@ -51,7 +53,7 @@ level: JMO Yosen
 
 > There is a regular decagon (regular $10$-sided polygon) as shown in the figure below. If the total area of the decagon is $1$, find the area of the shaded region.
 
-![[src_jmo31yq_yosen__q02.png]]
+![[src_jmo31yq_yosen__Q02.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_simmetria|Simmetria]]
@@ -68,13 +70,13 @@ level: JMO Yosen
 
 > C'è un decagono regolare (poligono regolare di $10$ lati), come in figura. Se l'area totale del decagono è $1$, trovare l'area della regione ombreggiata.
 
-![[src_jmo31yq_yosen__q02.png]]
+![[src_jmo31yq_yosen__Q02.png]]
 
 **Argomento:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_simmetria|Sfruttamento della simmetria]]
 **Abilità:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_astrazione|Astrazione / generalizzazione]]
+**Area:** [[Geometria]]
 **Risposta:** $\frac{2}{5}$
-[[Quesiti/src_jmo31yq_yosen#q02|src_jmo31yq_yosen__Q02]]
 
 
 
@@ -87,7 +89,7 @@ level: JMO Yosen
 
 > Let $ABC$ be an isosceles triangle with $AB=AC$, and let $P$ be a point inside it. Let $D$, $E$, $F$ be the feet of the perpendiculars dropped from $P$ to the sides $BC$, $CA$, $AB$ respectively. Suppose $BD=9$, $CD=5$, $PE=2$, $PF=5$. Find the length of side $AB$. Here $XY$ denotes the length of segment $XY$.
 
-![[src_jmo31yq_yosen__q03.png]]
+![[src_jmo31yq_yosen__Q03.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_coordinate|Coordinate]], [[method_trigonometria|Trigonometria]]
@@ -104,17 +106,17 @@ level: JMO Yosen
 
 > Sia $ABC$ un triangolo isoscele con $AB=AC$, e sia $P$ un punto al suo interno. Siano $D$, $E$, $F$ i piedi delle perpendicolari abbassate da $P$ rispettivamente sui lati $BC$, $CA$, $AB$. Si supponga $BD=9$, $CD=5$, $PE=2$, $PF=5$. Trovare la lunghezza del lato $AB$. Qui $XY$ indica la lunghezza del segmento $XY$.
 
-![[src_jmo31yq_yosen__q03.png]]
+![[src_jmo31yq_yosen__Q03.png]]
 
 **Argomento:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_coordinate|Metodo delle coordinate]], [[method_trigonometria|Tecniche trigonometriche]]
 **Abilità:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
 **Risposta:** $4\sqrt{7}$
-[[Quesiti/src_jmo31yq_yosen#q03|src_jmo31yq_yosen__Q03]]
 
 
 
-<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_algebra,topic_aritmetica,method_invarianti,method_ricorsione,method_estremalita,skill_manipolazione_algebrica,skill_riconoscimento_pattern"></span>
+<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_algebra,topic_aritmetica,method_invarianti,method_ricorsione,method_estremalita,method_backward,skill_manipolazione_algebrica,skill_riconoscimento_pattern"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -124,9 +126,9 @@ level: JMO Yosen
 > Three distinct positive integers are written on a blackboard. When real numbers $a$, $b$, $c$ are written on the blackboard, consider the operation that simultaneously rewrites them as $\dfrac{b+c}{2}$, $\dfrac{c+a}{2}$, $\dfrac{a+b}{2}$. After this operation is performed $2021$ times, the three numbers finally on the blackboard all turned out to be positive integers. Find the maximum possible value of the sum of the three positive integers that were written at the beginning.
 
 **Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_invarianti|Invarianti]], [[method_ricorsione|Ricorsione]], [[method_estremalita|Estremalità]]
+**Metodo:** [[method_invarianti|Invarianti]], [[method_ricorsione|Ricorsione]], [[method_estremalita|Estremalità]], [[method_backward|Working backwards]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
-**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Risposta:** $3\cdot 2^{2021}+3$
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1OaNH9dsPASreVzt0kNEfXrpZaywkBl-p/view)
 
@@ -139,10 +141,12 @@ level: JMO Yosen
 > Sulla lavagna sono scritti tre interi positivi distinti. Quando sulla lavagna sono scritti i numeri reali $a$, $b$, $c$, si consideri l'operazione che li riscrive contemporaneamente come $\dfrac{b+c}{2}$, $\dfrac{c+a}{2}$, $\dfrac{a+b}{2}$. Dopo che questa operazione è stata eseguita $2021$ volte, i tre numeri infine sulla lavagna sono risultati tutti interi positivi. Trovare il massimo valore possibile della somma dei tre interi positivi scritti all'inizio.
 
 **Argomento:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei numeri]]
-**Metodo:** [[method_invarianti|Invarianti / monovarianti]], [[method_ricorsione|Ricorsione]], [[method_estremalita|Principio di estremalità]]
-**Abilità:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di schemi]]
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei numeri]]
+**Metodo:** [[method_invarianti|Invarianti / monovarianti]], [[method_ricorsione|Ricorsione]], [[method_estremalita|Principio di estremalità]], [[method_backward|Ragionamento all'indietro]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di schemi]]
+**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** $3\cdot 2^{2021}+3$
-[[Quesiti/src_jmo31yq_yosen#q04|src_jmo31yq_yosen__Q04]]
 
 
 
@@ -155,7 +159,7 @@ level: JMO Yosen
 
 > As shown in the figure below, there are $4$ kinds of blocks, each formed from $4$ unit cubes of edge length $1$. How many ways are there to place $4$ such blocks into a $2\times 2\times 4$ rectangular box so that nothing protrudes? Blocks of the same kind may be used several times, and blocks may be inserted after rotation. Placements that coincide under a rotation of the entire box are counted as distinct.
 
-![[src_jmo31yq_yosen__q05.png]]
+![[src_jmo31yq_yosen__Q05.png]]
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_geometria_solida|Geometria solida]]
 **Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]]
@@ -172,17 +176,17 @@ level: JMO Yosen
 
 > Come in figura, ci sono $4$ tipi di blocchi, ciascuno formato da $4$ cubetti unitari di spigolo $1$. In quanti modi si possono mettere $4$ tali blocchi in una scatola rettangolare $2\times 2\times 4$ senza che nulla sporga? Blocchi dello stesso tipo si possono usare più volte, e i blocchi si possono inserire dopo una rotazione. Disposizioni che coincidono per una rotazione dell'intera scatola si contano come distinte.
 
-![[src_jmo31yq_yosen__q05.png]]
+![[src_jmo31yq_yosen__Q05.png]]
 
 **Argomento:** [[topic_combinatoria|Combinatoria]], [[topic_geometria_solida|Geometria solida]]
 **Metodo:** [[method_casework|Analisi per casi]], [[method_conteggio|Conteggio combinatorio]]
 **Abilità:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Analisi per casi accurata]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 **Risposta:** 379
-[[Quesiti/src_jmo31yq_yosen#q05|src_jmo31yq_yosen__Q05]]
 
 
 
-<span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_aritmetica,method_congruenze,method_casework,method_conteggio,skill_riconoscimento_pattern,skill_conteggio_sistematico,skill_lettura_attenta"></span>
+<span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_aritmetica,method_congruenze,method_casework,method_conteggio,method_inclusione_esclusione,method_fattorizzazione,skill_riconoscimento_pattern,skill_conteggio_sistematico,skill_lettura_attenta"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -192,9 +196,9 @@ level: JMO Yosen
 > For a positive integer $n$, let $f(n)$ denote the number of positive integers $m$ such that $m$ and $n$ are mutually coprime and $m+1$ and $n+1$ are also mutually coprime, where $m$ ranges over $1,2,\dots,n$. Among $f(1),f(2),\dots,f(10^{10})$, how many distinct positive integers appear?
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_congruenze|Congruenze]], [[method_casework|Casework]], [[method_conteggio|Conteggio]]
+**Metodo:** [[method_congruenze|Congruenze]], [[method_casework|Casework]], [[method_conteggio|Conteggio]], [[method_inclusione_esclusione|Inclusion–exclusion]], [[method_fattorizzazione|Factorisation / algebraic manipulation]]
 **Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]]
-**Area:** [[Aritmetica e Teoria dei Numeri]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Risposta:** 11
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1OaNH9dsPASreVzt0kNEfXrpZaywkBl-p/view)
 
@@ -207,10 +211,12 @@ level: JMO Yosen
 > Per un intero positivo $n$, sia $f(n)$ il numero di interi positivi $m$ tali che $m$ e $n$ sono coprimi fra loro e anche $m+1$ e $n+1$ sono coprimi fra loro, dove $m$ varia in $1,2,\dots,n$. Tra $f(1),f(2),\dots,f(10^{10})$, quanti interi positivi distinti compaiono?
 
 **Argomento:** [[topic_aritmetica|Aritmetica / Teoria dei numeri]]
-**Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]], [[method_casework|Analisi per casi]], [[method_conteggio|Conteggio combinatorio]]
-**Abilità:** [[skill_riconoscimento_pattern|Riconoscimento di schemi]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta del testo]]
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei numeri]]
+**Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]], [[method_casework|Analisi per casi]], [[method_conteggio|Conteggio combinatorio]], [[method_inclusione_esclusione|Inclusione-esclusione]], [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di schemi]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta del testo]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 11
-[[Quesiti/src_jmo31yq_yosen#q06|src_jmo31yq_yosen__Q06]]
 
 
 
@@ -241,8 +247,8 @@ level: JMO Yosen
 **Argomento:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_coordinate|Metodo delle coordinate]]
 **Abilità:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
 **Risposta:** $\sqrt{231}$
-[[Quesiti/src_jmo31yq_yosen#q07|src_jmo31yq_yosen__Q07]]
 
 
 
@@ -279,8 +285,8 @@ level: JMO Yosen
 **Argomento:** [[topic_aritmetica|Aritmetica / Teoria dei numeri]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]], [[method_casework|Analisi per casi]], [[method_conteggio|Conteggio combinatorio]]
 **Abilità:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Analisi per casi accurata]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** $2042\cdot 19^{14}$
-[[Quesiti/src_jmo31yq_yosen#q08|src_jmo31yq_yosen__Q08]]
 
 
 
@@ -311,8 +317,8 @@ level: JMO Yosen
 **Argomento:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei numeri]]
 **Metodo:** [[method_casework|Analisi per casi]], [[method_conteggio|Conteggio combinatorio]], [[method_congruenze|Aritmetica modulare / congruenze]]
 **Abilità:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Analisi per casi accurata]], [[skill_lettura_attenta|Lettura attenta del testo]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 3
-[[Quesiti/src_jmo31yq_yosen#q09|src_jmo31yq_yosen__Q09]]
 
 
 
@@ -343,12 +349,12 @@ level: JMO Yosen
 **Argomento:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_trigonometria|Tecniche trigonometriche]], [[method_coordinate|Metodo delle coordinate]]
 **Abilità:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
 **Risposta:** $\frac{\sqrt{33}}{11}$
-[[Quesiti/src_jmo31yq_yosen#q10|src_jmo31yq_yosen__Q10]]
 
 
 
-<span class="atom-split" id="q11" data-atom="q11" data-title="Quesito 11" data-tags="topic_algebra,topic_combinatoria,topic_aritmetica,method_estremalita,method_simmetria,method_fattorizzazione,skill_manipolazione_algebrica,skill_conteggio_sistematico,skill_stima"></span>
+<span class="atom-split" id="q11" data-atom="q11" data-title="Quesito 11" data-tags="topic_algebra,topic_combinatoria,topic_aritmetica,method_estremalita,method_simmetria,method_fattorizzazione,method_casework,skill_manipolazione_algebrica,skill_conteggio_sistematico,skill_stima"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -358,9 +364,9 @@ level: JMO Yosen
 > Over all tuples $(x,y,z,w)$ of integers each at least $1$ and at most $1000$, let $M$ be the sum of the maximum values of $xy+zw$, $zx+yw$, $xw+yz$ (that is, for each tuple add the largest of these three quantities). Similarly, over all such tuples $(x,y,z,w)$, let $m$ be the sum of the minimum values of $xy+zw$, $zx+yw$, $xw+yz$. Find the number of positive divisors of $M-m$.
 
 **Topic:** [[topic_algebra|Algebra]], [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_estremalita|Estremalità]], [[method_simmetria|Simmetria]], [[method_fattorizzazione|Fattorizzazione]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_simmetria|Simmetria]], [[method_fattorizzazione|Fattorizzazione]], [[method_casework|Case analysis]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_stima|Stima]]
-**Area:** [[Algebra e Analisi]], [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Risposta:** 20412
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1OaNH9dsPASreVzt0kNEfXrpZaywkBl-p/view)
 
@@ -373,10 +379,12 @@ level: JMO Yosen
 > Su tutte le tuple $(x,y,z,w)$ di interi, ciascuno almeno $1$ e al più $1000$, sia $M$ la somma dei valori massimi di $xy+zw$, $zx+yw$, $xw+yz$ (cioè, per ogni tupla si aggiunge il più grande di queste tre quantità). Analogamente, su tutte tali tuple $(x,y,z,w)$, sia $m$ la somma dei valori minimi di $xy+zw$, $zx+yw$, $xw+yz$. Trovare il numero di divisori positivi di $M-m$.
 
 **Argomento:** [[topic_algebra|Algebra]], [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei numeri]]
-**Metodo:** [[method_estremalita|Principio di estremalità]], [[method_simmetria|Sfruttamento della simmetria]], [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
-**Abilità:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_stima|Stima e approssimazione]]
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei numeri]]
+**Metodo:** [[method_estremalita|Principio di estremalità]], [[method_simmetria|Sfruttamento della simmetria]], [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]], [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_stima|Stima e approssimazione]]
+**Area:** [[Algebra e Analisi]], [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 20412
-[[Quesiti/src_jmo31yq_yosen#q11|src_jmo31yq_yosen__Q11]]
 
 
 
@@ -394,7 +402,7 @@ level: JMO Yosen
 > (d) Remove a coin from $X$ and place one coin on each of the cell $1$ left and $1$ below $X$ and the cell $1$ right and $1$ below $X$; however, if only one of these two cells exists, place a coin only on that one cell.
 > If one tries to place a coin on a cell that already has a coin, no coin is placed there. After performing such operations any number of times, find the maximum possible number of coins that can be on the cells.
 
-![[src_jmo31yq_yosen__q12.png]]
+![[src_jmo31yq_yosen__Q12.png]]
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_invarianti|Invarianti]], [[method_estremalita|Estremalità]], [[method_casework|Casework]]
@@ -416,10 +424,10 @@ level: JMO Yosen
 > (d) si toglie una moneta da $X$ e se ne pone una sulla casella $1$ a sinistra e $1$ sotto $X$ e sulla casella $1$ a destra e $1$ sotto $X$; però, se esiste solo una di queste due caselle, si pone una moneta solo su quella.
 > Se si tenta di porre una moneta su una casella che ne ha già una, lì non si pone alcuna moneta. Dopo aver eseguito tali operazioni un numero qualunque di volte, trovare il massimo numero possibile di monete che possono stare sulle caselle.
 
-![[src_jmo31yq_yosen__q12.png]]
+![[src_jmo31yq_yosen__Q12.png]]
 
 **Argomento:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_invarianti|Invarianti / monovarianti]], [[method_estremalita|Principio di estremalità]], [[method_casework|Analisi per casi]]
 **Abilità:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_lettura_attenta|Lettura attenta del testo]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 19
-[[Quesiti/src_jmo31yq_yosen#q12|src_jmo31yq_yosen__Q12]]

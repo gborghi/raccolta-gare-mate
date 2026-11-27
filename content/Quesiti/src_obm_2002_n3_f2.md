@@ -10,7 +10,7 @@ level: OBM Nível 3
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_aritmetica,method_casework,skill_lettura_attenta,skill_casework_accurato,skill_ragionamento_geometrico"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_aritmetica,topic_logica,method_casework,skill_lettura_attenta,skill_casework_accurato,skill_ragionamento_geometrico"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -25,10 +25,10 @@ level: OBM Nível 3
 > 
 > What is the number Arnaldo thought of?
 
-**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_logica|Logic, games and strategies]]
 **Metodo:** [[method_casework|Casework]]
 **Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_casework_accurato|Casework accurato]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
-**Area:** [[Aritmetica e Teoria dei Numeri]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1gF94S0aX4v_2i-OEAFyuTxXKFKl8xKDl/view)
 
 
@@ -47,11 +47,12 @@ level: OBM Nível 3
 
 **Argomento:** [[topic_aritmetica|Aritmetica / Teoria dei numeri]]
 
+
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei numeri]], [[topic_logica|Logica, giochi, strategie]]
 **Metodo:** [[method_casework|Analisi per casi]]
-
-**Abilità:** [[skill_lettura_attenta|Lettura attenta]], [[skill_casework_accurato|Analisi accurata dei casi]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
-
-[[Quesiti/src_obm_2002_n3_f2#q01|src_obm_2002_n3_f2__Q01]]
+**Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_casework_accurato|Analisi accurata dei casi]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 
 
 
@@ -89,12 +90,11 @@ level: OBM Nível 3
 **Metodo:** [[method_simmetria|Simmetria]], [[method_fattorizzazione|Fattorizzazione]]
 
 **Abilità:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
-
-[[Quesiti/src_obm_2002_n3_f2#q02|src_obm_2002_n3_f2__Q02]]
-
+**Area:** [[Algebra e Analisi]]
 
 
-<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_geometria_piana,topic_trigonometria,method_coordinate,method_trigonometria,skill_ragionamento_geometrico,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
+
+<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_geometria_piana,topic_trigonometria,method_coordinate,method_trigonometria,method_simmetria,skill_ragionamento_geometrico,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -105,12 +105,12 @@ level: OBM Nível 3
 > 
 > It is known that the lower edges of the strip (segments $FC'$ and $GD'$ in the figure) meet at the midpoint $M$ of side $AB$, the side $AB$ has length $1$, and the side $AB$ is the median $AD$ of the strip. Find $a + b$, where $a$ and $b$ are positive numbers defined as shown in the figure.
 
-![[src_obm_2002_n3_f2__q03.png]]
+![[src_obm_2002_n3_f2__Q03.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometria]]
-**Metodo:** [[method_coordinate|Coordinate]], [[method_trigonometria|Trigonometria]]
+**Metodo:** [[method_coordinate|Coordinate]], [[method_trigonometria|Trigonometria]], [[method_simmetria|Using symmetry]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
-**Area:** [[Geometria]]
+**Area:** [[Geometria|Geometry]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1gF94S0aX4v_2i-OEAFyuTxXKFKl8xKDl/view)
 
 
@@ -123,15 +123,16 @@ level: OBM Nível 3
 >
 > Si sa che i bordi inferiori della striscia (i segmenti $FC'$ e $GD'$ nella figura) si incontrano nel punto medio $M$ del lato $AB$, che il lato $AB$ ha lunghezza $1$ e che il lato $AB$ è la mediana $AD$ della striscia. Determinare $a + b$, dove $a$ e $b$ sono numeri positivi definiti come in figura.
 
-![[src_obm_2002_n3_f2__q03.png]]
+![[src_obm_2002_n3_f2__Q03.png]]
 
 **Argomento:** [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometria]]
 
-**Metodo:** [[method_coordinate|Coordinate]], [[method_trigonometria|Trigonometria]]
 
-**Abilità:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
 
-[[Quesiti/src_obm_2002_n3_f2#q03|src_obm_2002_n3_f2__Q03]]
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometria]]
+**Metodo:** [[method_coordinate|Coordinate]], [[method_trigonometria|Trigonometria]], [[method_simmetria|Sfruttamento della simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Geometria]]
 
 
 
@@ -163,8 +164,7 @@ level: OBM Nível 3
 **Metodo:** [[method_congruenze|Congruenze]], [[method_fattorizzazione|Fattorizzazione]]
 
 **Abilità:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_conteggio_sistematico|Conteggio sistematico]]
-
-[[Quesiti/src_obm_2002_n3_f2#q04|src_obm_2002_n3_f2__Q04]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
 
 
 
@@ -204,8 +204,7 @@ level: OBM Nível 3
 **Metodo:** [[method_conteggio|Conteggio]], [[method_estremalita|Estremalità]], [[method_casework|Analisi per casi]]
 
 **Abilità:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]]
-
-[[Quesiti/src_obm_2002_n3_f2#q05|src_obm_2002_n3_f2__Q05]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 
 
 
@@ -237,8 +236,7 @@ level: OBM Nível 3
 **Metodo:** [[method_disuguaglianze|Disuguaglianze]]
 
 **Abilità:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
-
-[[Quesiti/src_obm_2002_n3_f2#q06|src_obm_2002_n3_f2__Q06]]
+**Area:** [[Algebra e Analisi]]
 
 
 
@@ -276,12 +274,11 @@ level: OBM Nível 3
 **Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_casework|Analisi per casi]]
 
 **Abilità:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_conteggio_sistematico|Conteggio sistematico]]
-
-[[Quesiti/src_obm_2002_n3_f2#q07|src_obm_2002_n3_f2__Q07]]
-
+**Area:** [[Geometria]], [[Aritmetica e Teoria dei Numeri]]
 
 
-<span class="atom-split" id="q08" data-atom="q08" data-title="Quesito 8" data-tags="topic_geometria_piana,topic_trigonometria,method_coordinate,method_trigonometria,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
+
+<span class="atom-split" id="q08" data-atom="q08" data-title="Quesito 8" data-tags="topic_geometria_piana,topic_trigonometria,method_coordinate,method_trigonometria,method_simmetria,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -291,9 +288,9 @@ level: OBM Nível 3
 > Let $ABCD$ be a square, $E$ the midpoint of side $BC$, $F$ the midpoint of side $CD$. Equilateral triangles $ABG$ and $BEH$ are constructed so that $G$ lies inside the square and $H$ lies outside the square. Determine the acute angle between lines $BF$ and $GH$.
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometria]]
-**Metodo:** [[method_coordinate|Coordinate]], [[method_trigonometria|Trigonometria]]
+**Metodo:** [[method_coordinate|Coordinate]], [[method_trigonometria|Trigonometria]], [[method_simmetria|Using symmetry]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
-**Area:** [[Geometria]]
+**Area:** [[Geometria|Geometry]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1gF94S0aX4v_2i-OEAFyuTxXKFKl8xKDl/view)
 
 
@@ -306,15 +303,16 @@ level: OBM Nível 3
 
 **Argomento:** [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometria]]
 
-**Metodo:** [[method_coordinate|Coordinate]], [[method_trigonometria|Trigonometria]]
-
-**Abilità:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
-
-[[Quesiti/src_obm_2002_n3_f2#q08|src_obm_2002_n3_f2__Q08]]
 
 
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometria]]
+**Metodo:** [[method_coordinate|Coordinate]], [[method_trigonometria|Trigonometria]], [[method_simmetria|Sfruttamento della simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
 
-<span class="atom-split" id="q09" data-atom="q09" data-title="Quesito 9" data-tags="topic_combinatoria,topic_logica,method_invarianti,method_simmetria,method_estremalita,skill_ragionamento_geometrico,skill_modellizzazione,skill_astrazione,skill_lettura_attenta"></span>
+
+
+<span class="atom-split" id="q09" data-atom="q09" data-title="Quesito 9" data-tags="topic_combinatoria,topic_logica,method_invarianti,method_simmetria,method_estremalita,method_grafi,skill_ragionamento_geometrico,skill_modellizzazione,skill_astrazione,skill_lettura_attenta"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -326,9 +324,9 @@ level: OBM Nível 3
 > Esmeralda goes first. Which of the two secretaries has a winning strategy regardless of how the opponent plays? Justify your answer by exhibiting a strategy that always works.
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_logica|Logica]]
-**Metodo:** [[method_invarianti|Invarianti]], [[method_simmetria|Simmetria]], [[method_estremalita|Estremalità]]
+**Metodo:** [[method_invarianti|Invarianti]], [[method_simmetria|Simmetria]], [[method_estremalita|Estremalità]], [[method_grafi|Graph theory]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]], [[skill_astrazione|Astrazione]], [[skill_lettura_attenta|Lettura attenta]]
-**Area:** [[Combinatoria, Logica e Probabilita]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1gF94S0aX4v_2i-OEAFyuTxXKFKl8xKDl/view)
 
 
@@ -343,8 +341,9 @@ level: OBM Nível 3
 
 **Argomento:** [[topic_combinatoria|Combinatoria]], [[topic_logica|Logica]]
 
-**Metodo:** [[method_invarianti|Invarianti]], [[method_simmetria|Simmetria]], [[method_estremalita|Estremalità]]
 
-**Abilità:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]], [[skill_astrazione|Astrazione]], [[skill_lettura_attenta|Lettura attenta]]
 
-[[Quesiti/src_obm_2002_n3_f2#q09|src_obm_2002_n3_f2__Q09]]
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_logica|Logica]]
+**Metodo:** [[method_invarianti|Invarianti]], [[method_simmetria|Simmetria]], [[method_estremalita|Estremalità]], [[method_grafi|Teoria dei grafi]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]], [[skill_astrazione|Astrazione]], [[skill_lettura_attenta|Lettura attenta]]
+**Area:** [[Combinatoria, Logica e Probabilita]]

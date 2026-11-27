@@ -22,7 +22,7 @@ level: OBM Nível 1
 > a) Show that the highlighted quadrilateral is a square.
 > b) Calculate the area of the highlighted square.
 
-![[src_obm_2008_n1_f3__q01.png]]
+![[src_obm_2008_n1_f3__Q01.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_casework|Casework]]
@@ -41,18 +41,16 @@ level: OBM Nível 1
 > a) Dimostrare che il quadrilatero evidenziato è un quadrato.
 > b) Calcola l'area del quadrato evidenziato.
 
-![[src_obm_2008_n1_f3__q01.png]]
+![[src_obm_2008_n1_f3__Q01.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_casework|Casework]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Geometria]], [[Aritmetica e Teoria dei Numeri]]
 
-[[Quesiti/src_obm_2008_n1_f3#q01|src_obm_2008_n1_f3__Q01]]
 
 
-
-<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_aritmetica,topic_combinatoria,method_invarianti,method_induzione,skill_riconoscimento_pattern,skill_ragionamento_geometrico,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_aritmetica,topic_combinatoria,topic_funzionali,method_invarianti,method_induzione,skill_riconoscimento_pattern,skill_ragionamento_geometrico,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -67,10 +65,10 @@ level: OBM Nível 1
 > a) Write the sequence of numbers when the first number is 2008.
 > b) Show that, regardless of the starting number, after a finite number of applications of Esmeralda's operation, she obtains 0.
 
-**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]], [[topic_funzionali|Functional equations / sequences]]
 **Metodo:** [[method_invarianti|Invarianti]], [[method_induzione|Induzione]]
 **Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
-**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Algebra e Analisi|Algebra and analysis]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1pKJxLoPzHG0E9OT_6xBX96AR1NIt8NuD/view)
 
 
@@ -87,19 +85,15 @@ level: OBM Nível 1
 > a) Scrivi la successione di numeri quando il primo numero è 2008.
 > b) Dimostrare che, indipendentemente dal numero di partenza, dopo un numero finito di applicazioni dell'operazione di Esmeralda, lei ottiene 0.
 
-**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]], [[topic_funzionali|Equazioni funzionali / successioni]]
 **Metodo:** [[method_invarianti|Invarianti]], [[method_induzione|Induzione]]
 **Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
-**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
-
-[[Quesiti/src_obm_2008_n1_f3#q02|src_obm_2008_n1_f3__Q02]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]], [[Algebra e Analisi]]
 
 
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_combinatoria,topic_aritmetica,method_ricorsione,method_conteggio,method_casework,skill_conteggio_sistematico,skill_riconoscimento_pattern,skill_manipolazione_algebrica"></span>
-
-<div class="qlang-switch" data-default="en"></div>
-
 
 *Count ways to tile a 3×n board with 3×1 pieces; specific values and n=15*
 
@@ -110,7 +104,7 @@ level: OBM Nível 1
 > a) Determine in how many ways Jade can make a covering for $n = 1, 2, 3, 4, 5, 6, 7$.
 > b) In how many ways can Jade cover the board for $n = 15$?
 
-![[src_obm_2008_n1_f3__q03.png]]
+![[src_obm_2008_n1_f3__Q03.png]]
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_ricorsione|Ricorsione]], [[method_conteggio|Conteggio]], [[method_casework|Casework]]
@@ -119,8 +113,20 @@ level: OBM Nível 1
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1pKJxLoPzHG0E9OT_6xBX96AR1NIt8NuD/view)
 
 
-<div class="qlang-split" data-lang="it"></div>
 
+<span class="atom-split" id="q03__it" data-atom="q03__it" data-title="Q03__IT" data-tags=""></span>
+
+---
+tipo: quesito-translation
+translation_of: src_obm_2008_n1_f3__Q03
+lang: it
+secondary: true
+title: "Olimpíada Brasileira de Matemática 2008 — Nível 1 — Fase 3 — Quesito 3"
+summary: "Contare i modi per ricoprire una tavola 3×n con pezzi 3×1; valori specifici e n=15"
+topics: [topic_combinatoria, topic_aritmetica]
+methods: [method_ricorsione, method_conteggio, method_casework]
+skills: [skill_conteggio_sistematico, skill_riconoscimento_pattern, skill_manipolazione_algebrica]
+tags: [kg/translation, topic/combinatoria, topic/aritmetica]---
 
 *Contare i modi per ricoprire una tavola 3×n con pezzi 3×1; valori specifici e n=15*
 
@@ -131,7 +137,7 @@ level: OBM Nível 1
 > a) Determinare in quanti modi Jade può effettuare un ricoprimento per $n = 1, 2, 3, 4, 5, 6, 7$.
 > b) In quanti modi Jade può ricoprire la tavola per $n = 15$?
 
-![[src_obm_2008_n1_f3__q03.png]]
+![[src_obm_2008_n1_f3__Q03.png]]
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_ricorsione|Ricorsione]], [[method_conteggio|Conteggio]], [[method_casework|Casework]]
@@ -162,7 +168,7 @@ level: OBM Nível 1
 > 
 > b) Let $ABCDE$ be a pentagon with all sides equal and such that the measure of the interior angle at vertices $A$ and $B$ is $m(\hat{A}) = 100^\circ$ and $m(\hat{B}) = 80^\circ$. Show that it is possible to tile the plane with copies of this pentagon, without overlaps.
 
-![[src_obm_2008_n1_f3__q04.png]]
+![[src_obm_2008_n1_f3__Q04.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_simmetria|Simmetria]], [[method_casework|Casework]]
@@ -190,14 +196,12 @@ level: OBM Nível 1
 >
 > b) Sia $ABCDE$ un pentagono con tutti i lati uguali e tale che la misura dell'angolo interno nei vertici $A$ e $B$ sia $m(\hat{A}) = 100^\circ$ e $m(\hat{B}) = 80^\circ$. Dimostrare che è possibile tassellare il piano con copie di questo pentagono, senza sovrapposizioni.
 
-![[src_obm_2008_n1_f3__q04.png]]
+![[src_obm_2008_n1_f3__Q04.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_simmetria|Simmetria]], [[method_casework|Casework]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Geometria]], [[Combinatoria, Logica e Probabilita]]
-
-[[Quesiti/src_obm_2008_n1_f3#q04|src_obm_2008_n1_f3__Q04]]
 
 
 
@@ -234,5 +238,3 @@ level: OBM Nível 1
 **Metodo:** [[method_congruenze|Congruenze]], [[method_cassetti|Principio dei cassetti]], [[method_induzione|Induzione]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_stima|Stima]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
-
-[[Quesiti/src_obm_2008_n1_f3#q05|src_obm_2008_n1_f3__Q05]]

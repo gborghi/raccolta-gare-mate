@@ -10,7 +10,7 @@ level: RMO
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_geometria_piana,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_geometria_piana,method_coordinate,method_simmetria,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -19,11 +19,12 @@ level: RMO
 
 > Let $ABCD$ be a unit square. Draw a quadrant of a circle with $A$ as centre and $B$, $D$ as end points of the arc. Similarly, draw a quadrant of a circle with $B$ as centre and $A$, $C$ as end points of the arc. Inscribe a circle $\Gamma$ touching the arcs $AC$ and $BD$ both externally and also touching the side $CD$. Find the radius of the circle $\Gamma$.
 
-![[src_rmo_2012_r3__q01.png]]
+![[src_rmo_2012_r3__Q01.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_coordinate|Coordinate method]], [[method_simmetria|Using symmetry]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
-**Area:** [[Geometria]]
+**Area:** [[Geometria|Geometry]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1p3hmhNY4gaLMNi2r8GZ88wmUwZnVczZX/view)
 
 
@@ -34,17 +35,17 @@ level: RMO
 
 > Sia $ABCD$ un quadrato unitario. Traccia un quadrante di cerchio con centro in $A$ e con $B$, $D$ come estremi dell'arco. Analogamente, traccia un quadrante di cerchio con centro in $B$ e con $A$, $C$ come estremi dell'arco. Inscrivi un cerchio $\Gamma$ che tocchi esternamente entrambi gli archi $AC$ e $BD$ e che tocchi anche il lato $CD$. Determinare il raggio del cerchio $\Gamma$.
 
-![[src_rmo_2012_r3__q01.png]]
+![[src_rmo_2012_r3__Q01.png]]
+
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_coordinate|Metodo delle coordinate]], [[method_simmetria|Sfruttamento della simmetria]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 
-[[Quesiti/src_rmo_2012_r3#q01|src_rmo_2012_r3__Q01]]
 
 
-
-<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_aritmetica,method_congruenze,method_induzione,skill_manipolazione_algebrica,skill_ragionamento_geometrico,skill_lettura_attenta"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_aritmetica,method_congruenze,method_induzione,method_fattorizzazione,skill_manipolazione_algebrica,skill_ragionamento_geometrico,skill_lettura_attenta"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -54,9 +55,9 @@ level: RMO
 > Let $a, b, c$ be positive integers such that $a$ divides $b^2$, $b$ divides $c^2$ and $c$ divides $a^2$. Prove that $abc$ divides $(a + b + c)^{31}$.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_congruenze|Congruenze]], [[method_induzione|Induzione]]
+**Metodo:** [[method_congruenze|Congruenze]], [[method_induzione|Induzione]], [[method_fattorizzazione|Factorisation / algebraic manipulation]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
-**Area:** [[Aritmetica e Teoria dei Numeri]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1p3hmhNY4gaLMNi2r8GZ88wmUwZnVczZX/view)
 
 
@@ -67,16 +68,15 @@ level: RMO
 
 > Siano $a, b, c$ numeri interi positivi tali che $a$ divida $b^2$, $b$ divida $c^2$ e $c$ divida $a^2$. Dimostrare che $abc$ divide $(a + b + c)^{31}$.
 
+
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_congruenze|Congruenze]], [[method_induzione|Induzione]]
+**Metodo:** [[method_congruenze|Congruenze]], [[method_induzione|Induzione]], [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 
-[[Quesiti/src_rmo_2012_r3#q02|src_rmo_2012_r3__Q02]]
 
 
-
-<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_disuguaglianze,method_disuguaglianze,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
+<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_disuguaglianze,method_disuguaglianze,skill_manipolazione_algebrica,skill_lettura_attenta,skill_stima"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -87,8 +87,8 @@ level: RMO
 
 **Topic:** [[topic_disuguaglianze|Disuguaglianze]]
 **Metodo:** [[method_disuguaglianze|Disuguaglianze]]
-**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
-**Area:** [[Algebra e Analisi]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_stima|Estimation and approximation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1p3hmhNY4gaLMNi2r8GZ88wmUwZnVczZX/view)
 
 
@@ -99,12 +99,11 @@ level: RMO
 
 > Siano $a$ e $b$ numeri reali positivi tali che $a + b = 1$. Dimostrare che $a^a b^b + b^a a^b \le 1$.
 
+
 **Topic:** [[topic_disuguaglianze|Disuguaglianze]]
 **Metodo:** [[method_disuguaglianze|Disuguaglianze]]
-**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_stima|Stima e approssimazione]]
 **Area:** [[Algebra e Analisi]]
-
-[[Quesiti/src_rmo_2012_r3#q03|src_rmo_2012_r3__Q03]]
 
 
 
@@ -136,8 +135,6 @@ level: RMO
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 
-[[Quesiti/src_rmo_2012_r3#q04|src_rmo_2012_r3__Q04]]
-
 
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_geometria_piana,method_coordinate,method_simmetria,skill_ragionamento_geometrico,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
@@ -149,7 +146,7 @@ level: RMO
 
 > Let $ABC$ be a triangle. Let $D$, $E$ be points on the segment $BC$ such that $BD = DE = EC$. Let $F$ be the midpoint of $AC$. Let $BF$ intersect $AD$ in $P$ and $AE$ in $Q$ respectively. Determine the ratio of the area of the triangle $APQ$ to that of the quadrilateral $PDEQ$.
 
-![[src_rmo_2012_r3__q05.png]]
+![[src_rmo_2012_r3__Q05.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_coordinate|Coordinate]], [[method_simmetria|Simmetria]]
@@ -165,14 +162,12 @@ level: RMO
 
 > Sia $ABC$ un triangolo. Siano $D$, $E$ dei punti sul segmento $BC$ tali che $BD = DE = EC$. Sia $F$ il punto medio di $AC$. Siano $BF$ e $AE$ incidenti rispettivamente a $AD$ in $P$ e a $Q$. Determinare il rapporto tra l'area del triangolo $APQ$ e l'area del quadrilatero $PDEQ$.
 
-![[src_rmo_2012_r3__q05.png]]
+![[src_rmo_2012_r3__Q05.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_coordinate|Coordinate]], [[method_simmetria|Simmetria]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Geometria]]
-
-[[Quesiti/src_rmo_2012_r3#q05|src_rmo_2012_r3__Q05]]
 
 
 
@@ -203,5 +198,3 @@ level: RMO
 **Metodo:** [[method_induzione|Induzione]], [[method_fattorizzazione|Fattorizzazione]], [[method_casework|Casework]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
-
-[[Quesiti/src_rmo_2012_r3#q06|src_rmo_2012_r3__Q06]]

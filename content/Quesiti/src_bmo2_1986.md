@@ -10,7 +10,7 @@ level: BMO Round 2
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_geometria_analitica,topic_geometria_piana,method_coordinate,method_simmetria,skill_manipolazione_algebrica,skill_ragionamento_geometrico,skill_lettura_attenta"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_geometria_analitica,topic_geometria_piana,topic_algebra,method_coordinate,method_simmetria,skill_manipolazione_algebrica,skill_ragionamento_geometrico,skill_lettura_attenta"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -21,10 +21,10 @@ level: BMO Round 2
 > 
 > $A, B, A', B'$ are four distinct rational points; $A$ and $B$ are on the $x$-axis. Prove that if $AB = A'B'$, there exists just one point $P$ such that the triangles $PAB$, $PA'B'$ are directly similar, i.e. each can be obtained from the other by enlargement (dilatation) and rotation about $P$. Prove also that $P$ is a rational point.
 
-**Topic:** [[topic_geometria_analitica|Geometria analitica]], [[topic_geometria_piana|Geometria piana]]
+**Topic:** [[topic_geometria_analitica|Geometria analitica]], [[topic_geometria_piana|Geometria piana]], [[topic_algebra|Algebra]]
 **Metodo:** [[method_coordinate|Coordinate]], [[method_simmetria|Simmetria]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
-**Area:** [[Geometria]]
+**Area:** [[Geometria|Geometry]], [[Algebra e Analisi|Algebra and analysis]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1mG_z1yGslDZWUJ7U6HvxDw6ixvIjUXu2/view)
 
 
@@ -37,12 +37,11 @@ level: BMO Round 2
 >
 > $A, B, A', B'$ sono quattro punti razionali distinti; $A$ e $B$ stanno sull'asse $x$. Dimostrare che, se $AB = A'B'$, esiste un solo punto $P$ tale che i triangoli $PAB$, $PA'B'$ siano direttamente simili, cioè ciascuno si ottiene dall'altro per omotetia (dilatazione) e rotazione attorno a $P$. Dimostrare anche che $P$ è un punto razionale.
 
-**Topic:** [[topic_geometria_analitica|Geometria analitica]], [[topic_geometria_piana|Geometria piana]]
+
+**Topic:** [[topic_geometria_analitica|Geometria analitica]], [[topic_geometria_piana|Geometria piana]], [[topic_algebra|Algebra]]
 **Metodo:** [[method_coordinate|Coordinate]], [[method_simmetria|Simmetria]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
-**Area:** [[Geometria|Geometria]]
-
-[[Quesiti/src_bmo2_1986#q01|src_bmo2_1986__Q01]]
+**Area:** [[Geometria|Geometria]], [[Algebra e Analisi]]
 
 
 
@@ -80,8 +79,6 @@ level: BMO Round 2
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_stima|Stima]]
 **Area:** [[Algebra e Analisi|Algebra e analisi]]
 
-[[Quesiti/src_bmo2_1986#q02|src_bmo2_1986__Q02]]
-
 
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_combinatoria,topic_insiemi_funzioni,method_grafi,method_doppio_conteggio,method_induzione,skill_astrazione,skill_modellizzazione,skill_ragionamento_geometrico,skill_conteggio_sistematico"></span>
@@ -111,8 +108,6 @@ level: BMO Round 2
 **Metodo:** [[method_grafi|Grafi]], [[method_doppio_conteggio|Doppio conteggio]], [[method_induzione|Induzione]]
 **Abilita:** [[skill_astrazione|Astrazione]], [[skill_modellizzazione|Modellizzazione]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Combinatoria, Logica e Probabilita|Combinatoria, logica e probabilità]], [[Algebra e Analisi|Algebra e analisi]]
-
-[[Quesiti/src_bmo2_1986#q03|src_bmo2_1986__Q03]]
 
 
 
@@ -144,8 +139,6 @@ level: BMO Round 2
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Aritmetica e teoria dei numeri]], [[Combinatoria, Logica e Probabilita|Combinatoria, logica e probabilità]]
 
-[[Quesiti/src_bmo2_1986#q04|src_bmo2_1986__Q04]]
-
 
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_geometria_piana,topic_geometria_analitica,method_coordinate,method_simmetria,skill_ragionamento_geometrico,skill_modellizzazione,skill_riconoscimento_pattern"></span>
@@ -175,5 +168,3 @@ level: BMO Round 2
 **Metodo:** [[method_coordinate|Coordinate]], [[method_simmetria|Simmetria]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Geometria|Geometria]]
-
-[[Quesiti/src_bmo2_1986#q05|src_bmo2_1986__Q05]]

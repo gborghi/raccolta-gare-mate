@@ -10,7 +10,7 @@ level: kangourou
 
 
 
-<span class="atom-split" id="qb1" data-atom="qb1" data-title="Quesito B1" data-tags="topic_aritmetica,topic_combinatoria,skill_casework_accurato"></span>
+<span class="atom-split" id="qb1" data-atom="qb1" data-title="Quesito B1" data-tags="topic_aritmetica,topic_combinatoria,method_estremalita,method_casework,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -20,6 +20,7 @@ level: kangourou
 > Chiamiamo "numero di Matteo" un numero di quattro cifre tale che il prodotto delle prime due cifre sia uguale alla somma delle ultime due. Per esempio $1990$ è un numero di Matteo ($1 \times 9 = 9+0$), così come lo sono $2351$ o $5387$. Quali sono i tre numeri di Matteo più grandi?
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_estremalita|Principio di estremalita]], [[method_casework|Analisi per casi]]
 **Abilita:** [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 9299, 9190, 9181
@@ -34,25 +35,27 @@ level: kangourou
 > We call a "Matteo number" a four-digit number such that the product of the first two digits equals the sum of the last two. For example $1990$ is a Matteo number ($1 \times 9 = 9+0$), as are $2351$ or $5387$. What are the three greatest Matteo numbers?
 
 **Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_combinatoria|Combinatorics]]
-**Skill:** [[skill_casework_accurato|Careful case analysis]]
+**Metodo:** [[method_estremalita|Extremal principle]], [[method_casework|Case analysis]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** 9299, 9190, 9181
-[[Quesiti/src_kangourou_2005_benjamin_finale#qb1|src_kangourou_2005_benjamin_finale__QB1]]
 
 
 
-<span class="atom-split" id="qb2" data-atom="qb2" data-title="Quesito B2" data-tags="topic_geometria_piana,skill_ragionamento_geometrico"></span>
+<span class="atom-split" id="qb2" data-atom="qb2" data-title="Quesito B2" data-tags="topic_geometria_piana,method_coordinate,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
 
 *Eccedenza area del terreno mal delimitato*
 
-![[src_kangourou_2005_benjamin_finale__probb2.png]]
+![[src_kangourou_2005_benjamin_finale__probB2.png]]
 
 > Un geometra doveva delimitare una porzione di terreno in modo da ottenere un quadrato di lato $2005$ m. Il primo lato delimitato è perpendicolare al secondo e il secondo al terzo, ma, per errore, misurano nell'ordine $2005$ m, $2006$ m, $2007$ m (cioè il lato che misura $2005$ m è opposto a quello che misura $2007$ m). Se il quarto lato del poligono viene tracciato congiungendo i due vertici rimasti liberi, di quanti metri quadrati la porzione delimitata risulta più grande del previsto?
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
-**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Metodo:** [[method_coordinate|Metodo delle coordinate]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 **Risposta:** 4011 m2
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1kBPZIGFs3CfWtIRUJNAqXxrN8NLVFnWk/view)
@@ -63,18 +66,19 @@ level: kangourou
 
 *By how many square metres the marked-out piece is larger than intended*
 
-![[src_kangourou_2005_benjamin_finale__probb2.png]]
+![[src_kangourou_2005_benjamin_finale__probB2.png]]
 
 > A surveyor was to mark out a piece of land so as to obtain a square of side $2005$ m. The first side marked out is perpendicular to the second, and the second to the third, but, by mistake, they measure in order $2005$ m, $2006$ m, $2007$ m (that is, the side that measures $2005$ m is opposite the one that measures $2007$ m). If the fourth side of the polygon is drawn by joining the two vertices left free, by how many square metres is the piece marked out larger than intended?
 
 **Topic:** [[topic_geometria_piana|Plane geometry]]
-**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Metodo:** [[method_coordinate|Coordinate method]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Geometria|Geometry]]
 **Answer:** 4011 m2
-[[Quesiti/src_kangourou_2005_benjamin_finale#qb2|src_kangourou_2005_benjamin_finale__QB2]]
 
 
 
-<span class="atom-split" id="qb3" data-atom="qb3" data-title="Quesito B3" data-tags="topic_aritmetica,skill_modellizzazione"></span>
+<span class="atom-split" id="qb3" data-atom="qb3" data-title="Quesito B3" data-tags="topic_aritmetica,topic_algebra,skill_modellizzazione,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -83,9 +87,9 @@ level: kangourou
 
 > Prima che venisse impiegato il lettore ottico, le schede-risposta di Kangourou venivano esaminate a mano. Un correttore umano esaminava in media $2$ schede al minuto. Alle undici del mattino di un dato giorno aveva esaminato la metà delle schede che gli erano state assegnate per quel giorno. A mezzogiorno ne aveva esaminati i due terzi. Se non si fosse mai fermato e avesse continuato allo stesso ritmo, quante schede gli sarebbero rimaste da esaminare alla una di pomeriggio di quel giorno?
 
-**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
-**Area:** [[Aritmetica e Teoria dei Numeri]]
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 **Risposta:** 120
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1kBPZIGFs3CfWtIRUJNAqXxrN8NLVFnWk/view)
 
@@ -97,14 +101,14 @@ level: kangourou
 
 > Before the optical reader was used, the Kangourou answer sheets were examined by hand. A human marker examined on average $2$ sheets a minute. At eleven in the morning of a given day he had examined half of the sheets assigned to him for that day. At noon he had examined two thirds of them. If he had never stopped and had gone on at the same rate, how many sheets would he have had left to examine at one in the afternoon of that day?
 
-**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
-**Skill:** [[skill_modellizzazione|Modelling / translating the text]]
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_algebra|Algebra]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Algebra e Analisi|Algebra and analysis]]
 **Answer:** 120
-[[Quesiti/src_kangourou_2005_benjamin_finale#qb3|src_kangourou_2005_benjamin_finale__QB3]]
 
 
 
-<span class="atom-split" id="qb4" data-atom="qb4" data-title="Quesito B4" data-tags="topic_aritmetica,topic_disuguaglianze,method_estremalita,skill_astrazione"></span>
+<span class="atom-split" id="qb4" data-atom="qb4" data-title="Quesito B4" data-tags="topic_aritmetica,topic_disuguaglianze,method_estremalita,skill_astrazione,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -119,8 +123,8 @@ level: kangourou
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_disuguaglianze|Disuguaglianze]]
 **Metodo:** [[method_estremalita|Principio di estremalita]]
-**Abilita:** [[skill_astrazione|Astrazione / generalizzazione]]
-**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
+**Abilita:** [[skill_astrazione|Astrazione / generalizzazione]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 **Risposta:** 5
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1kBPZIGFs3CfWtIRUJNAqXxrN8NLVFnWk/view)
 
@@ -137,14 +141,14 @@ level: kangourou
 > What is the smallest number of ribbons Silvia can have bought? Justify the answer.
 
 **Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_disuguaglianze|Inequalities]]
-**Method:** [[method_estremalita|Extremal principle]]
-**Skill:** [[skill_astrazione|Abstraction / generalisation]]
+**Metodo:** [[method_estremalita|Extremal principle]]
+**Abilita:** [[skill_astrazione|Abstraction / generalisation]], [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Algebra e Analisi|Algebra and analysis]]
 **Answer:** 5
-[[Quesiti/src_kangourou_2005_benjamin_finale#qb4|src_kangourou_2005_benjamin_finale__QB4]]
 
 
 
-<span class="atom-split" id="qb5" data-atom="qb5" data-title="Quesito B5" data-tags="topic_combinatoria,method_invarianti,skill_casework_accurato"></span>
+<span class="atom-split" id="qb5" data-atom="qb5" data-title="Quesito B5" data-tags="topic_combinatoria,method_invarianti,method_estremalita,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -158,7 +162,7 @@ level: kangourou
 > Qual è il numero minimo di estrazioni sufficiente perché l'urna resti vuota? Motiva la risposta.
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
-**Metodo:** [[method_invarianti|Invarianti / monovarianti]]
+**Metodo:** [[method_invarianti|Invarianti / monovarianti]], [[method_estremalita|Principio di estremalita]]
 **Abilita:** [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 9
@@ -177,21 +181,21 @@ level: kangourou
 > What is the smallest number of draws enough for the urn to be left empty? Justify the answer.
 
 **Topic:** [[topic_combinatoria|Combinatorics]]
-**Method:** [[method_invarianti|Invariants / monovariants]]
-**Skill:** [[skill_casework_accurato|Careful case analysis]]
+**Metodo:** [[method_invarianti|Invariants / monovariants]], [[method_estremalita|Extremal principle]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** 9
-[[Quesiti/src_kangourou_2005_benjamin_finale#qb5|src_kangourou_2005_benjamin_finale__QB5]]
 
 
 
-<span class="atom-split" id="qb6" data-atom="qb6" data-title="Quesito B6" data-tags="topic_geometria_piana,skill_ragionamento_geometrico"></span>
+<span class="atom-split" id="qb6" data-atom="qb6" data-title="Quesito B6" data-tags="topic_geometria_piana,method_simmetria,skill_ragionamento_geometrico"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
 
 *Suddividere esagono regolare in 8 parti uguali*
 
-![[src_kangourou_2005_benjamin_finale__probb6.png]]
+![[src_kangourou_2005_benjamin_finale__probB6.png]]
 
 ```tikz
 \begin{document}
@@ -204,6 +208,7 @@ level: kangourou
 > In figura vedi un esagono regolare. Puoi suddividerlo in $8$ parti di ugual forma e dimensioni? In caso di risposta negativa devi motivarla, in caso di risposta affermativa, illustra direttamente sulla figura la suddivisione che proponi. (vedi figura)
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_simmetria|Sfruttamento della simmetria]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]]
 **Risposta:** Si
@@ -215,7 +220,7 @@ level: kangourou
 
 *Whether the hexagon can be split into 8 equal parts*
 
-![[src_kangourou_2005_benjamin_finale__probb6.png]]
+![[src_kangourou_2005_benjamin_finale__probB6.png]]
 
 ```tikz
 \begin{document}
@@ -228,6 +233,7 @@ level: kangourou
 > In the figure you see a regular hexagon. Can you split it into $8$ parts of equal shape and size? If the answer is no, you must justify it; if the answer is yes, show the split you propose directly on the figure. (see the figure)
 
 **Topic:** [[topic_geometria_piana|Plane geometry]]
-**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Metodo:** [[method_simmetria|Using symmetry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
 **Answer:** Si
-[[Quesiti/src_kangourou_2005_benjamin_finale#qb6|src_kangourou_2005_benjamin_finale__QB6]]

@@ -19,7 +19,7 @@ level: OBM Nível 3
 
 > In a $3\times 3$ grid one fills the cells with the letters O, B, M (subject to the rules of the problem). The examples below show that any one of the letters may appear in the highlighted (gray) cell. Which letters can occupy that cell? [Reconstructed from the answer key; the original option list is not reproduced in the source. Answer key indicates: O, B and M.]
 
-![[src_obm_2016_n3_f1__q01.png]]
+![[src_obm_2016_n3_f1__Q01.png]]
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_logica|Logica]]
 **Metodo:** [[method_casework|Casework]]
@@ -36,14 +36,12 @@ level: OBM Nível 3
 
 > In una griglia $3\times 3$ si riempiono le celle con le lettere O, B, M (secondo le regole del problema). Gli esempi sottostanti mostrano che ciascuna delle lettere può comparire nella cella evidenziata (grigia). Quali lettere possono occupare quella cella? [Ricostruito dalla soluzione; l'elenco originale delle opzioni non è riprodotto nella fonte. La soluzione indica: O, B e M.]
 
-![[src_obm_2016_n3_f1__q01.png]]
+![[src_obm_2016_n3_f1__Q01.png]]
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_logica|Logica]]
 **Metodo:** [[method_casework|Casework]]
 **Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
-
-[[Quesiti/src_obm_2016_n3_f1#q01|src_obm_2016_n3_f1__Q01]]
 
 
 
@@ -74,11 +72,9 @@ level: OBM Nível 3
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]]
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 
-[[Quesiti/src_obm_2016_n3_f1#q02|src_obm_2016_n3_f1__Q02]]
 
 
-
-<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_aritmetica,topic_algebra,method_casework,method_fattorizzazione,skill_riconoscimento_pattern,skill_casework_accurato"></span>
+<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_aritmetica,topic_algebra,method_casework,method_fattorizzazione,skill_riconoscimento_pattern,skill_casework_accurato,skill_manipolazione_algebrica,skill_conteggio_sistematico"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -89,8 +85,8 @@ level: OBM Nível 3
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
 **Metodo:** [[method_casework|Casework]], [[method_fattorizzazione|Fattorizzazione]]
-**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_casework_accurato|Casework accurato]]
-**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_casework_accurato|Casework accurato]], [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Algebra e Analisi|Algebra and analysis]]
 **Risposta:** C
 **Fonte:** [apri PDF](https://drive.google.com/file/d/19mt7EhamL2gVLi7gx84kZ8Z24_w7FKcy/view)
 
@@ -102,16 +98,15 @@ level: OBM Nível 3
 
 > Siano $x$ e $y$ le dimensioni intere di un rettangolo il cui perimetro è $58$, quindi $x+y=29$. Le coppie possibili sono $(1,28),(2,27),(3,26),\dots,(14,15)$. Esattamente una di tali coppie ha prodotto $x\cdot y$ uguale a un quadrato perfetto, precisamente $4\cdot 25=100$. Trovare il lato $n$ di un quadrato avente la stessa area di quel rettangolo, cioè $n=\sqrt{4\cdot 25}=\sqrt{100}=10$. [Valore chiave della risposta: $n=10$.]
 
+
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
 **Metodo:** [[method_casework|Casework]], [[method_fattorizzazione|Fattorizzazione]]
-**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_casework_accurato|Casework accurato]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_casework_accurato|Casework accurato]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 
-[[Quesiti/src_obm_2016_n3_f1#q03|src_obm_2016_n3_f1__Q03]]
 
 
-
-<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_geometria_solida,topic_combinatoria,method_cassetti,skill_ragionamento_geometrico,skill_astrazione"></span>
+<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_geometria_solida,topic_combinatoria,topic_geometria_piana,method_cassetti,method_simmetria,skill_ragionamento_geometrico,skill_astrazione"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -120,10 +115,10 @@ level: OBM Nível 3
 
 > Let $A_1A_2\dots A_{2016}$ be a regular polygon forming the base of a pyramid, and let the apex lie on the line perpendicular to the base through the diagonal $A_1A_{1009}$, so positioned that the orthogonal projection of the apex onto the base plane is distinct from the center of the polygon. The pyramid has $2016$ congruent-or-not triangular lateral faces; one asks whether it is possible to choose $1008$ lateral faces that are pairwise congruent and not sharing a common edge in pairs. The solution shows that there are at most $1008$ classes of congruent faces, and by the pigeonhole principle the configuration forcing the projection of the apex to be the circumcenter is absurd, since the pyramid is not regular. Is such a choice of $1008$ congruent lateral faces possible? [Answer key indicates the conclusion (option B).]
 
-**Topic:** [[topic_geometria_solida|Geometria solida]], [[topic_combinatoria|Combinatoria]]
-**Metodo:** [[method_cassetti|Principio dei cassetti]]
+**Topic:** [[topic_geometria_solida|Geometria solida]], [[topic_combinatoria|Combinatoria]], [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_cassetti|Principio dei cassetti]], [[method_simmetria|Using symmetry]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_astrazione|Astrazione]]
-**Area:** [[Geometria]], [[Combinatoria, Logica e Probabilita]]
+**Area:** [[Geometria|Geometry]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Risposta:** B
 **Fonte:** [apri PDF](https://drive.google.com/file/d/19mt7EhamL2gVLi7gx84kZ8Z24_w7FKcy/view)
 
@@ -135,16 +130,15 @@ level: OBM Nível 3
 
 > Sia $A_1A_2\dots A_{2016}$ un poligono regolare che costituisce la base di una piramide, e sia l'apice situato sulla retta perpendicolare alla base passante per la diagonale $A_1A_{1009}$, collocato in modo che la proiezione ortogonale dell'apice sul piano di base sia diversa dal centro del poligono. La piramide ha $2016$ facce laterali triangolari, congruenti o meno; si chiede se sia possibile scegliere $1008$ facce laterali a due a due congruenti e tali che, presi a coppie, non condividano un spigolo comune. La soluzione mostra che vi sono al più $1008$ classi di facce congruenti e che, per il principio dei cassetti, la configurazione che costringe la proiezione dell'apice a essere il centro circoscritto è assurda, poiché la piramide non è regolare. È possibile una tale scelta di $1008$ facce laterali congruenti? [La chiave delle risposte indica la conclusione (opzione B).]
 
-**Topic:** [[topic_geometria_solida|Geometria solida]], [[topic_combinatoria|Combinatoria]]
-**Metodo:** [[method_cassetti|Principio dei cassetti]]
+
+**Topic:** [[topic_geometria_solida|Geometria solida]], [[topic_combinatoria|Combinatoria]], [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_cassetti|Principio dei cassetti]], [[method_simmetria|Sfruttamento della simmetria]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_astrazione|Astrazione]]
 **Area:** [[Geometria]], [[Combinatoria, Logica e Probabilita]]
 
-[[Quesiti/src_obm_2016_n3_f1#q04|src_obm_2016_n3_f1__Q04]]
 
 
-
-<span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_logica,topic_combinatoria,method_casework,skill_lettura_attenta,skill_ragionamento_geometrico"></span>
+<span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_logica,topic_combinatoria,method_casework,skill_lettura_attenta,skill_ragionamento_geometrico,skill_riconoscimento_pattern"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -155,8 +149,8 @@ level: OBM Nível 3
 
 **Topic:** [[topic_logica|Logica]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_casework|Casework]]
-**Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
-**Area:** [[Combinatoria, Logica e Probabilita]]
+**Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Risposta:** C
 **Fonte:** [apri PDF](https://drive.google.com/file/d/19mt7EhamL2gVLi7gx84kZ8Z24_w7FKcy/view)
 
@@ -168,16 +162,15 @@ level: OBM Nível 3
 
 > Ci sono delle persone in fila, ciascuna delle quali fa un'affermazione (riguardo a quelle che ha dietro). La prima persona dice la verità; la seconda mente; l'analisi mostra che le affermazioni alternano verità e falsità lungo la fila, con un totale di $2016$ persone. I veritieri e i bugiardi si alternano. Quante di queste persone stanno mentendo? La soluzione conclude che ci sono $2016/2=1008$ bugiardi. [Valore della chiave di risposta: $1008$.]
 
+
 **Topic:** [[topic_logica|Logica]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_casework|Casework]]
-**Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 
-[[Quesiti/src_obm_2016_n3_f1#q05|src_obm_2016_n3_f1__Q05]]
 
 
-
-<span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_combinatoria,topic_algebra,method_conteggio,method_casework,skill_manipolazione_algebrica,skill_conteggio_sistematico"></span>
+<span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_combinatoria,topic_algebra,topic_aritmetica,method_conteggio,method_casework,skill_manipolazione_algebrica,skill_conteggio_sistematico"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -186,10 +179,10 @@ level: OBM Nível 3
 
 > Janaina has a list of $10$ numbers; let $x$ and $y$ be, respectively, how many are odd and how many are even, so $x+y=10$. The number of unordered pairs with equal parity is $\frac{x(x-1)}{2}+\frac{y(y-1)}{2}$ and the number of pairs whose sum is even is set equal to $4xy$, giving $\frac{x(x-1)}{2}+\frac{y(y-1)}{2}=4xy\;(\ast)$ (the left side counts pairs of equal parity and the right side counts pairs giving an even sum, both having the same parity). Substituting $y=10-x$ yields the equation $x^2-x+9=0$ in the analysis, whose relevant solutions are $x=1$ or $x=9$; since $(x,y)=(9,1)$ satisfies the condition $(\ast)$, the maximum value of $x+9$ is sought. [Answer key value corresponds to option E.]
 
-**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_algebra|Algebra]]
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_algebra|Algebra]], [[topic_aritmetica|Arithmetic / Number theory]]
 **Metodo:** [[method_conteggio|Conteggio]], [[method_casework|Casework]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]]
-**Area:** [[Combinatoria, Logica e Probabilita]], [[Algebra e Analisi]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Risposta:** E
 **Fonte:** [apri PDF](https://drive.google.com/file/d/19mt7EhamL2gVLi7gx84kZ8Z24_w7FKcy/view)
 
@@ -201,16 +194,15 @@ level: OBM Nível 3
 
 > Janaina ha una lista di $10$ numeri; siano $x$ e $y$, rispettivamente, il numero di numeri dispari e il numero di numeri pari, quindi $x+y=10$. Il numero di coppie non ordinate con parità uguale è $\frac{x(x-1)}{2}+\frac{y(y-1)}{2}$ e il numero di coppie la cui somma è pari è posto uguale a $4xy$, il che dà $\frac{x(x-1)}{2}+\frac{y(y-1)}{2}=4xy\;(\ast)$ (il membro di sinistra conta le coppie di uguale parità e il membro di destra conta le coppie che danno una somma pari; entrambi hanno la stessa parità). Sostituendo $y=10-x$ si ottiene l'equazione $x^2-x+9=0$ nell'analisi, le cui soluzioni rilevanti sono $x=1$ oppure $x=9$; poiché $(x,y)=(9,1)$ soddisfa la condizione $(\ast)$, si cerca il valore massimo di $x+9$. [Il valore della chiave di risposta corrisponde all'opzione E.]
 
-**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_algebra|Algebra]]
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_conteggio|Conteggio]], [[method_casework|Casework]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]]
-**Area:** [[Combinatoria, Logica e Probabilita]], [[Algebra e Analisi]]
-
-[[Quesiti/src_obm_2016_n3_f1#q06|src_obm_2016_n3_f1__Q06]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 
 
 
-<span class="atom-split" id="q07" data-atom="q07" data-title="Quesito 7" data-tags="topic_algebra,topic_aritmetica,skill_manipolazione_algebrica,skill_modellizzazione"></span>
+<span class="atom-split" id="q07" data-atom="q07" data-title="Quesito 7" data-tags="topic_algebra,topic_aritmetica,method_fattorizzazione,skill_manipolazione_algebrica,skill_modellizzazione"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -220,8 +212,9 @@ level: OBM Nível 3
 > A total cost of $6000$ reais is to be split equally among the participants, each paying $\frac{6000}{x}$ reais. Then $3$ people drop out and the remaining each pay $100$ reais more, i.e. $\frac{6000}{x-3}$ reais. Thus $\frac{6000}{x}+100=\frac{6000}{x-3}$, which simplifies to $60x(x-3)=60\cdot 6000$ giving $x^2-3x-180=0$. Find the original number $x$ of people. [Answer key value corresponds to option B.]
 
 **Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]]
-**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Risposta:** B
 **Fonte:** [apri PDF](https://drive.google.com/file/d/19mt7EhamL2gVLi7gx84kZ8Z24_w7FKcy/view)
 
@@ -233,11 +226,11 @@ level: OBM Nível 3
 
 > Un costo totale di $6000$ reais sarà ripartito equamente tra i partecipanti, ciascuno pagherà $\frac{6000}{x}$ reais. Poi $3$ persone si ritirano e ciascuna delle restanti paga $100$ reais in più, ossia $\frac{6000}{x-3}$ reais. Pertanto $\frac{6000}{x}+100=\frac{6000}{x-3}$, che si semplifica in $60x(x-3)=60\cdot 6000$, dà $x^2-3x-180=0$. Determinare il numero originale $x$ di persone. [Il valore della chiave di risposta corrisponde all'opzione B.]
 
+
 **Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]]
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
-
-[[Quesiti/src_obm_2016_n3_f1#q07|src_obm_2016_n3_f1__Q07]]
 
 
 
@@ -270,8 +263,6 @@ level: OBM Nível 3
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 
-[[Quesiti/src_obm_2016_n3_f1#q08|src_obm_2016_n3_f1__Q08]]
-
 
 
 <span class="atom-split" id="q09" data-atom="q09" data-title="Quesito 9" data-tags="topic_combinatoria,topic_logica,method_casework,method_conteggio,skill_casework_accurato,skill_conteggio_sistematico"></span>
@@ -303,8 +294,6 @@ level: OBM Nível 3
 **Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 
-[[Quesiti/src_obm_2016_n3_f1#q09|src_obm_2016_n3_f1__Q09]]
-
 
 
 <span class="atom-split" id="q10" data-atom="q10" data-title="Quesito 10" data-tags="topic_geometria_piana,topic_trigonometria,method_trigonometria,skill_ragionamento_geometrico"></span>
@@ -316,7 +305,7 @@ level: OBM Nível 3
 
 > Points lie on a circle with center $O$. Let $I$ be the intersection of $AD$ and $BF$. Since $FA=AB$ and $AY=AX$, the arcs $FX$ and $BX$ are equal, so $FB\parallel XY$. Then triangles $RSA$ and $XYA$ are similar, and $\frac{SR}{2}=\frac{SR}{XY}=\frac{AI}{AO}=\frac{1\cdot(\operatorname{sen}\angle ABI)}{1}=\frac12$, since $\angle ABI=30^\circ$ and $AB=AO=OB$. Hence $SR=1$. Find $SR$. [Answer key value: $SR=1$.]
 
-![[src_obm_2016_n3_f1__q10.png]]
+![[src_obm_2016_n3_f1__Q10.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometria]]
 **Metodo:** [[method_trigonometria|Trigonometria]]
@@ -333,18 +322,16 @@ level: OBM Nível 3
 
 > I punti giacciono su una circonferenza di centro $O$. Sia $I$ l'intersezione di $AD$ e $BF$. Poiché $FA=AB$ e $AY=AX$, gli archi $FX$ e $BX$ sono uguali, quindi $FB\parallel XY$. Allora i triangoli $RSA$ e $XYA$ sono simili, e $\frac{SR}{2}=\frac{SR}{XY}=\frac{AI}{AO}=\frac{1\cdot(\operatorname{sen}\angle ABI)}{1}=\frac12$, poiché $\angle ABI=30^\circ$ e $AB=AO=OB$. Pertanto $SR=1$. Trovare $SR$. [Valore della chiave di risposta: $SR=1$.]
 
-![[src_obm_2016_n3_f1__q10.png]]
+![[src_obm_2016_n3_f1__Q10.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometria]]
 **Metodo:** [[method_trigonometria|Trigonometria]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]]
 
-[[Quesiti/src_obm_2016_n3_f1#q10|src_obm_2016_n3_f1__Q10]]
 
 
-
-<span class="atom-split" id="q11" data-atom="q11" data-title="Quesito 11" data-tags="topic_geometria_piana,topic_trigonometria,method_trigonometria,skill_ragionamento_geometrico,skill_ragionamento_geometrico"></span>
+<span class="atom-split" id="q11" data-atom="q11" data-title="Quesito 11" data-tags="topic_geometria_piana,topic_trigonometria,method_trigonometria,skill_ragionamento_geometrico,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -353,12 +340,12 @@ level: OBM Nível 3
 
 > In the figure $XAYD$ is a square, so $m(\widehat{TAU})=90^\circ$. Also $m(\widehat{TUA})=\frac{m(\widehat{DY})-m(\widehat{AB})}{2}=15^\circ$ and $m(\widehat{UA})=m(\widehat{AYD})=90^\circ$, so $ABDY$ is cyclic. $AB$ is the side of a regular hexagon inscribed in the circle of radius $1$, hence $AB=1$. In right triangle $UBA$, $AT=\frac{1}{\operatorname{sen}15^\circ}$, and in right triangle $TAU$, $\frac{AU}{TU}=\cos15^\circ$, so $TU=\frac{1}{\operatorname{sen}15^\circ\cos15^\circ}=\frac{2}{\operatorname{sen}30^\circ}=4$, using $\operatorname{sen}2x=2\operatorname{sen}x\cos x$. Find $TU$. [Answer key value: $TU=4$.]
 
-![[src_obm_2016_n3_f1__q11.png]]
+![[src_obm_2016_n3_f1__Q11.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometria]]
 **Metodo:** [[method_trigonometria|Trigonometria]]
-**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_ragionamento_geometrico|skill_ragionamento_geometrico]]
-**Area:** [[Geometria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Geometria|Geometry]]
 **Risposta:** E
 **Fonte:** [apri PDF](https://drive.google.com/file/d/19mt7EhamL2gVLi7gx84kZ8Z24_w7FKcy/view)
 
@@ -370,14 +357,13 @@ level: OBM Nível 3
 
 > Nella figura, $XAYD$ è un quadrato, quindi $m(\widehat{TAU})=90^\circ$. Inoltre, $m(\widehat{TUA})=\frac{m(\widehat{DY})-m(\widehat{AB})}{2}=15^\circ$ e $m(\widehat{UA})=m(\widehat{AYD})=90^\circ$, quindi $ABDY$ è ciclico. $AB$ è il lato di un esagono regolare inscritto nella circonferenza di raggio $1$, pertanto $AB=1$. Nel triangolo rettangolo $UBA$, $AT=\frac{1}{\operatorname{sen}15^\circ}$, e nel triangolo rettangolo $TAU$, $\frac{AU}{TU}=\cos15^\circ$, quindi $TU=\frac{1}{\operatorname{sen}15^\circ\cos15^\circ}=\frac{2}{\operatorname{sen}30^\circ}=4$, utilizzando $\operatorname{sen}2x=2\operatorname{sen}x\cos x$. Determinare $TU$. [Valore della chiave di risposta: $TU=4$.]
 
-![[src_obm_2016_n3_f1__q11.png]]
+![[src_obm_2016_n3_f1__Q11.png]]
+
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometria]]
 **Metodo:** [[method_trigonometria|Trigonometria]]
-**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_ragionamento_geometrico|skill_ragionamento_geometrico]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
-
-[[Quesiti/src_obm_2016_n3_f1#q11|src_obm_2016_n3_f1__Q11]]
 
 
 
@@ -410,8 +396,6 @@ level: OBM Nível 3
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 
-[[Quesiti/src_obm_2016_n3_f1#q12|src_obm_2016_n3_f1__Q12]]
-
 
 
 <span class="atom-split" id="q13" data-atom="q13" data-title="Quesito 13" data-tags="topic_combinatoria,method_conteggio,method_casework,skill_conteggio_sistematico,skill_modellizzazione"></span>
@@ -443,11 +427,9 @@ level: OBM Nível 3
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 
-[[Quesiti/src_obm_2016_n3_f1#q13|src_obm_2016_n3_f1__Q13]]
 
 
-
-<span class="atom-split" id="q14" data-atom="q14" data-title="Quesito 14" data-tags="topic_combinatoria,topic_aritmetica,method_casework,method_casi_conteggio,skill_casework_accurato,skill_conteggio_sistematico"></span>
+<span class="atom-split" id="q14" data-atom="q14" data-title="Quesito 14" data-tags="topic_combinatoria,topic_aritmetica,method_casework,method_casi_conteggio,method_fattorizzazione,skill_casework_accurato,skill_conteggio_sistematico,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -457,9 +439,9 @@ level: OBM Nível 3
 > All the digit-letters are non-null. Cancelling repeated terms gives $Z=S^3\times I^2$. Since $Z$ is a single digit, $I^2=4$ or $I^2=9$; the second case is impossible (it would force $5\cdot I=1$), so the only possibilities are $(S,I)=(1,2),(1,3)$ or $(2,1)$. With $E$ different from $I$ and $S$ there are $7$ options for $E$ in each case. Building a table of possible products $P=S\times E\times I\times Z$ and excluding combinations giving $Z$ equal to a letter already chosen, the distinct possible values of $P$ are $6,10,12,14,15,16,18,20,21,24,28$ and $36$, that is $12$ distinct values. How many distinct values can $P$ take? [Answer key value: $12$.]
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_casework|Casework]], [[method_casi_conteggio|Casi e conteggio]]
-**Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_conteggio_sistematico|Conteggio sistematico]]
-**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
+**Metodo:** [[method_casework|Casework]], [[method_casi_conteggio|Casi e conteggio]], [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Risposta:** A
 **Fonte:** [apri PDF](https://drive.google.com/file/d/19mt7EhamL2gVLi7gx84kZ8Z24_w7FKcy/view)
 
@@ -471,12 +453,11 @@ level: OBM Nível 3
 
 > Tutte le lettere-cifra sono non nulle. Cancellando i termini ripetuti si ottiene $Z=S^3\times I^2$. Poiché $Z$ è una singola cifra, si ha $I^2=4$ oppure $I^2=9$; il secondo caso è impossibile (obbligherebbe a $5\cdot I=1$), quindi le uniche possibilità sono $(S,I)=(1,2),(1,3)$ oppure $(2,1)$. Con $E$ diverso da $I$ e $S$, in ciascun caso ci sono $7$ opzioni per $E$. Costruendo una tabella dei possibili prodotti $P=S\times E\times I\times Z$ ed escludendo le combinazioni che danno $Z$ uguale a una lettera già scelta, i valori possibili distinti di $P$ sono $6,10,12,14,15,16,18,20,21,24,28$ e $36$, cioè $12$ valori distinti. Quanti valori distinti può assumere $P$? [Valore chiave della risposta: $12$.]
 
-**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_casework|Casework]], [[method_casi_conteggio|Casi e conteggio]]
-**Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_conteggio_sistematico|Conteggio sistematico]]
-**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 
-[[Quesiti/src_obm_2016_n3_f1#q14|src_obm_2016_n3_f1__Q14]]
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Casework]], [[method_casi_conteggio|Casi e conteggio]], [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
+**Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 
 
 
@@ -509,8 +490,6 @@ level: OBM Nível 3
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_stima|Stima]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 
-[[Quesiti/src_obm_2016_n3_f1#q15|src_obm_2016_n3_f1__Q15]]
-
 
 
 <span class="atom-split" id="q16" data-atom="q16" data-title="Quesito 16" data-tags="topic_geometria_analitica,topic_geometria_piana,method_coordinate,method_estremalita,skill_ragionamento_geometrico,skill_stima"></span>
@@ -522,7 +501,7 @@ level: OBM Nível 3
 
 > The video-game screen is divided by the perpendicular bisectors of its sides into four equal rectangles $A,B,C,D$. Consider the rectangle $R$ formed by the centers of these four rectangles. The 'video-game distance' between two points is always less than or equal to the usual Euclidean distance on the screen; whatever positions inside the rectangles are chosen, the maximal video-game distance equals the diagonal of $R$, which measures $\frac{\sqrt{2^2+s^2}}{2}=2.5$. Conclude that no video-game distance between two points is greater than $2.5$, and the largest possible video-game distance is $2.5$. What is the largest possible video-game distance? [Answer key value: $2.5$.]
 
-![[src_obm_2016_n3_f1__q16.png]]
+![[src_obm_2016_n3_f1__Q16.png]]
 
 **Topic:** [[topic_geometria_analitica|Geometria analitica]], [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_coordinate|Coordinate]], [[method_estremalita|Estremalità]]
@@ -539,14 +518,12 @@ level: OBM Nível 3
 
 > Lo schermo del videogioco è diviso, mediante le mediatrici dei suoi lati, in quattro rettangoli uguali $A,B,C,D$. Si consideri il rettangolo $R$ formato dai centri di questi quattro rettangoli. La "distanza da videogioco" tra due punti è sempre minore o uguale della consueta distanza euclidea sullo schermo; qualunque siano le posizioni scelte all'interno dei rettangoli, la distanza da videogioco massima è uguale alla diagonale di $R$, che misura $\frac{\sqrt{2^2+s^2}}{2}=2.5$. Si concluda che nessuna distanza da videogioco tra due punti è maggiore di $2.5$, e che la distanza da videogioco massima possibile è $2.5$. Qual è la distanza da videogioco massima possibile? [Valore chiave della risposta: $2.5$.]
 
-![[src_obm_2016_n3_f1__q16.png]]
+![[src_obm_2016_n3_f1__Q16.png]]
 
 **Topic:** [[topic_geometria_analitica|Geometria analitica]], [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_coordinate|Coordinate]], [[method_estremalita|Estremalità]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_stima|Stima]]
 **Area:** [[Geometria]]
-
-[[Quesiti/src_obm_2016_n3_f1#q16|src_obm_2016_n3_f1__Q16]]
 
 
 
@@ -579,8 +556,6 @@ level: OBM Nível 3
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 
-[[Quesiti/src_obm_2016_n3_f1#q17|src_obm_2016_n3_f1__Q17]]
-
 
 
 <span class="atom-split" id="q18" data-atom="q18" data-title="Quesito 18" data-tags="topic_aritmetica,topic_logica,method_congruenze,method_casework,skill_conteggio_sistematico,skill_lettura_attenta"></span>
@@ -611,8 +586,6 @@ level: OBM Nível 3
 **Metodo:** [[method_congruenze|Congruenze]], [[method_casework|Casework]]
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
-
-[[Quesiti/src_obm_2016_n3_f1#q18|src_obm_2016_n3_f1__Q18]]
 
 
 
@@ -645,11 +618,9 @@ level: OBM Nível 3
 **Abilita:** [[skill_astrazione|Astrazione]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 
-[[Quesiti/src_obm_2016_n3_f1#q19|src_obm_2016_n3_f1__Q19]]
 
 
-
-<span class="atom-split" id="q20" data-atom="q20" data-title="Quesito 20" data-tags="topic_aritmetica,topic_combinatoria,method_casework,method_conteggio,skill_casework_accurato,skill_conteggio_sistematico"></span>
+<span class="atom-split" id="q20" data-atom="q20" data-title="Quesito 20" data-tags="topic_aritmetica,topic_combinatoria,method_casework,method_conteggio,skill_casework_accurato,skill_conteggio_sistematico,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -660,8 +631,8 @@ level: OBM Nível 3
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]]
-**Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_conteggio_sistematico|Conteggio sistematico]]
-**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+**Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Risposta:** B
 **Fonte:** [apri PDF](https://drive.google.com/file/d/19mt7EhamL2gVLi7gx84kZ8Z24_w7FKcy/view)
 
@@ -673,12 +644,11 @@ level: OBM Nível 3
 
 > Si consideri un numero di al massimo quattro cifre $\overline{abcd}$ e si noti $\overline{abcd}-(a+b+c+d)=999a+99b+9c$. Se $a\geq 1$, il risultato è almeno $1000$, e qualsiasi numero con $5$ o più cifre dà una differenza di almeno $1000$. Dunque un numero 'sagaz' deve soddisfare $a=0$, il che fornisce $10$ opzioni per $b$, ecc.; l'analisi mostra che il termine minore è $b=c=0$, con il prodotto inferiore a $1000$, e, contando con attenzione, ci sono $99+1=100$ numeri sagaz minori di $1000$. Quanti numeri sagaz ci sono? [Valore della chiave di risposta: $100$.]
 
+
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]]
-**Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
-
-[[Quesiti/src_obm_2016_n3_f1#q20|src_obm_2016_n3_f1__Q20]]
 
 
 
@@ -711,8 +681,6 @@ level: OBM Nível 3
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 
-[[Quesiti/src_obm_2016_n3_f1#q21|src_obm_2016_n3_f1__Q21]]
-
 
 
 <span class="atom-split" id="q22" data-atom="q22" data-title="Quesito 22" data-tags="topic_geometria_piana,method_casework,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
@@ -724,7 +692,7 @@ level: OBM Nível 3
 
 > In a square of side $6$ one has $DM=MC=CE=3$. The triangles $CEH$ and $DEA$ are similar, so $\frac{CH}{DA}=\frac{CE}{DE}=\frac{3}{9}=\frac13$. Hence $CH=6/3=2$ and $HB=CB-CH=4$. The area of quadrilateral $CHAM$ is $[CHAM]=[ACM]+[ACH]=\frac{9}{2}+\frac{6}{2}=\frac{15}{2}$. By the Pythagorean theorem in triangle $ADE$, $[AEFG]=AE^2=AD^2+DE^2=117$. Therefore $\frac{[CHAM]}{[AEFG]}=\frac{15/2}{117}=\frac{5}{39}$. Find the ratio $\frac{[CHAM]}{[AEFG]}$. [Answer key value: $\frac{5}{39}$.]
 
-![[src_obm_2016_n3_f1__q22.png]]
+![[src_obm_2016_n3_f1__Q22.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_casework|Casework]]
@@ -741,14 +709,12 @@ level: OBM Nível 3
 
 > In un quadrato di lato $6$ si ha $DM=MC=CE=3$. I triangoli $CEH$ e $DEA$ sono simili, quindi $\frac{CH}{DA}=\frac{CE}{DE}=\frac{3}{9}=\frac13$. Pertanto $CH=6/3=2$ e $HB=CB-CH=4$. L'area del quadrilatero $CHAM$ è $[CHAM]=[ACM]+[ACH]=\frac{9}{2}+\frac{6}{2}=\frac{15}{2}$. Per il teorema di Pitagora nel triangolo $ADE$, $[AEFG]=AE^2=AD^2+DE^2=117$. Dunque $\frac{[CHAM]}{[AEFG]}=\frac{15/2}{117}=\frac{5}{39}$. Trovare il rapporto $\frac{[CHAM]}{[AEFG]}$. [Valore della chiave di risposta: $\frac{5}{39}$.]
 
-![[src_obm_2016_n3_f1__q22.png]]
+![[src_obm_2016_n3_f1__Q22.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_casework|Casework]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
-
-[[Quesiti/src_obm_2016_n3_f1#q22|src_obm_2016_n3_f1__Q22]]
 
 
 
@@ -781,11 +747,9 @@ level: OBM Nível 3
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 
-[[Quesiti/src_obm_2016_n3_f1#q23|src_obm_2016_n3_f1__Q23]]
 
 
-
-<span class="atom-split" id="q24" data-atom="q24" data-title="Quesito 24" data-tags="topic_algebra,topic_disuguaglianze,method_estremalita,method_disuguaglianze,skill_manipolazione_algebrica,skill_stima"></span>
+<span class="atom-split" id="q24" data-atom="q24" data-title="Quesito 24" data-tags="topic_algebra,topic_disuguaglianze,method_estremalita,method_disuguaglianze,method_casework,skill_manipolazione_algebrica,skill_stima,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -795,9 +759,9 @@ level: OBM Nível 3
 > Consider $2016$ positive integers with $n=p_1^{a_1}\cdots p_k^{a_k}$ (the factorization framework). A construction with $2006$ numbers equal to $1$ and ten numbers equal to $2$ gives sum $2006+10\cdot 2=2026$ and product $2^{10}=1024$, so sum exceeds product. One proves there must be at least $2006$ numbers equal to $1$: ordering $x_1\le x_2\le\dots\le x_{2016}$, if fewer than $2006$ were equal to $1$ one obtains $k+(2016-k)x_{2016}\ge 2^{2016-k}x_{2016}$, leading to $2^{2015-k}+k-2016>0$ and then $2^{2016-k}+k\le 4032$; for $k\le 2004$, $2^{2016-k}\ge 2^{12}=4096$ is absurd, and for $k=2005$, $2^{11}=2048$ also gives a contradiction ($4043\le 4032$ false). Hence there are at least $2006$ numbers equal to $1$. Determine the answer. [Answer key value corresponds to option C.]
 
 **Topic:** [[topic_algebra|Algebra]], [[topic_disuguaglianze|Disuguaglianze]]
-**Metodo:** [[method_estremalita|Estremalità]], [[method_disuguaglianze|Disuguaglianze]]
-**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]]
-**Area:** [[Algebra e Analisi]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_disuguaglianze|Disuguaglianze]], [[method_casework|Case analysis]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]], [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
 **Risposta:** C
 **Fonte:** [apri PDF](https://drive.google.com/file/d/19mt7EhamL2gVLi7gx84kZ8Z24_w7FKcy/view)
 
@@ -809,12 +773,11 @@ level: OBM Nível 3
 
 > Si considerino $2016$ numeri interi positivi con $n=p_1^{a_1}\cdots p_k^{a_k}$ (il quadro della fattorizzazione). Una costruzione con $2006$ numeri uguali a $1$ e dieci numeri uguali a $2$ dà somma $2006+10\cdot 2=2026$ e prodotto $2^{10}=1024$, quindi la somma supera il prodotto. Si dimostrare che devono esserci almeno $2006$ numeri uguali a $1$: ordinando $x_1\le x_2\le\dots\le x_{2016}$, se meno di $2006$ fossero uguali a $1$ si ottiene $k+(2016-k)x_{2016}\ge 2^{2016-k}x_{2016}$, il che porta a $2^{2015-k}+k-2016>0$ e poi a $2^{2016-k}+k\le 4032$; per $k\le 2004$, $2^{2016-k}\ge 2^{12}=4096$ è assurdo, e per $k=2005$, anche $2^{11}=2048$ porta a una contraddizione ($4043\le 4032$ falso). Pertanto ci sono almeno $2006$ numeri uguali a $1$. Determinare la risposta. [Il valore della chiave di risposta corrisponde all'opzione C.]
 
-**Topic:** [[topic_algebra|Algebra]], [[topic_disuguaglianze|Disuguaglianze]]
-**Metodo:** [[method_estremalita|Estremalità]], [[method_disuguaglianze|Disuguaglianze]]
-**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]]
-**Area:** [[Algebra e Analisi]]
 
-[[Quesiti/src_obm_2016_n3_f1#q24|src_obm_2016_n3_f1__Q24]]
+**Topic:** [[topic_algebra|Algebra]], [[topic_disuguaglianze|Disuguaglianze]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_disuguaglianze|Disuguaglianze]], [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Algebra e Analisi]]
 
 
 
@@ -827,7 +790,7 @@ level: OBM Nível 3
 
 > $O$ is the circumcenter of triangle $ABD$, with a right angle marked at $B$ and a $60^\circ$ angle at $C$ (figure). Since $O$ is the circumcenter of triangle $ABD$, $m(\widehat{BOD})=120^\circ$, so quadrilateral $BCDO$ is cyclic. Then $m(\widehat{COD})=m(\widehat{CBD})=90^\circ$ and $m(\widehat{OCD})=m(\widehat{OBD})=30^\circ$. In right triangle $DOC$, the required ratio is $\frac{CO}{CD}=\cos 30^\circ=\frac{\sqrt3}{2}$. Find $\frac{CO}{CD}$. [Answer key value: $\frac{\sqrt3}{2}$.]
 
-![[src_obm_2016_n3_f1__q25.png]]
+![[src_obm_2016_n3_f1__Q25.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometria]]
 **Metodo:** [[method_trigonometria|Trigonometria]]
@@ -844,11 +807,9 @@ level: OBM Nível 3
 
 > $O$ è il circocentro del triangolo $ABD$, con un angolo retto segnato in $B$ e un angolo $60^\circ$ in $C$ (figura). Poiché $O$ è il circocentro del triangolo $ABD$, $m(\widehat{BOD})=120^\circ$, quindi il quadrilatero $BCDO$ è ciclico. Poi $m(\widehat{COD})=m(\widehat{CBD})=90^\circ$ e $m(\widehat{OCD})=m(\widehat{OBD})=30^\circ$. Nel triangolo rettangolo $DOC$, il rapporto richiesto è $\frac{CO}{CD}=\cos 30^\circ=\frac{\sqrt3}{2}$. Trovare $\frac{CO}{CD}$. [Valore della chiave di risposta: $\frac{\sqrt3}{2}$.]
 
-![[src_obm_2016_n3_f1__q25.png]]
+![[src_obm_2016_n3_f1__Q25.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometria]]
 **Metodo:** [[method_trigonometria|Trigonometria]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]]
-
-[[Quesiti/src_obm_2016_n3_f1#q25|src_obm_2016_n3_f1__Q25]]

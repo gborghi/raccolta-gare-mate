@@ -39,23 +39,21 @@ level: kangourou
 **Abilita:** [[skill_casework_accurato|Careful case analysis]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
-[[Quesiti/src_kangourou_2007_junior_maggio#qj1|src_kangourou_2007_junior_maggio__QJ1]]
 
 
-
-<span class="atom-split" id="qj2" data-atom="qj2" data-title="Quesito J2" data-tags="topic_geometria_solida,skill_ragionamento_geometrico"></span>
+<span class="atom-split" id="qj2" data-atom="qj2" data-title="Quesito J2" data-tags="topic_geometria_solida,topic_geometria_piana,skill_ragionamento_geometrico,skill_modellizzazione"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
 
 *Percorso piu breve sulla superficie del cono*
 
-![[src_kangourou_2007_junior_maggio__probj2.png]]
+![[src_kangourou_2007_junior_maggio__probJ2.png]]
 
 > In un cono circolare retto il raggio del cerchio di base misura $3$ cm e la generatrice $6$ cm. Una formica vuole arrampicarsi sulla superficie laterale del cono dal punto $A$ sul cerchio di base al punto medio della generatrice opposta $BC$ (vedi figura). Quanto misura il percorso più breve che può fare la formica?
 
-**Topic:** [[topic_geometria_solida|Geometria solida]]
-**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Topic:** [[topic_geometria_solida|Geometria solida]], [[topic_geometria_piana|Geometria piana]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
 **Area:** [[Geometria]]
 **Risposta:** 3*sqrt5 cm
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/18MZGLQJUQipZMb6TJ_fvPWOpz_biScUr/view)
@@ -66,19 +64,18 @@ level: kangourou
 
 *Shortest path on the surface of the cone*
 
-![[src_kangourou_2007_junior_maggio__probj2.png]]
+![[src_kangourou_2007_junior_maggio__probJ2.png]]
 
 > In a right circular cone, the radius of the base circle is $3$ cm, and the slant height is $6$ cm. An ant wants to climb up the lateral surface of the cone from point $A$ on the base circle to the midpoint $BC$ of the opposite slant height (see figure). What is the length of the shortest path the ant can take?
 
-**Topic:** [[topic_geometria_solida|Solid geometry]]
-**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+
+**Topic:** [[topic_geometria_solida|Solid geometry]], [[topic_geometria_piana|Plane geometry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_modellizzazione|Modelling / translating the text]]
 **Area:** [[Geometria|Geometry]]
 
-[[Quesiti/src_kangourou_2007_junior_maggio#qj2|src_kangourou_2007_junior_maggio__QJ2]]
 
 
-
-<span class="atom-split" id="qj3" data-atom="qj3" data-title="Quesito J3" data-tags="topic_aritmetica,method_congruenze,skill_manipolazione_algebrica"></span>
+<span class="atom-split" id="qj3" data-atom="qj3" data-title="Quesito J3" data-tags="topic_aritmetica,method_congruenze,method_fattorizzazione,method_casework,skill_manipolazione_algebrica,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -88,8 +85,8 @@ level: kangourou
 > Il quadrato di un numero $\overline{ab}$ di 2 cifre finisce con le stesse cifre $\overline{ab}$. Quanti e quali numeri hanno questa proprietà?
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]]
-**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]], [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]], [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** due: 25 e 76
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/18MZGLQJUQipZMb6TJ_fvPWOpz_biScUr/view)
@@ -102,16 +99,15 @@ level: kangourou
 
 > The square of a two-digit number $\overline{ab}$ ends with the same digits $\overline{ab}$. How many numbers have this property, and which ones are they?
 
+
 **Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
-**Metodo:** [[method_congruenze|Modular arithmetic / congruences]]
-**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]], [[method_fattorizzazione|Factorisation / algebraic manipulation]], [[method_casework|Case analysis]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_casework_accurato|Careful case analysis]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
-[[Quesiti/src_kangourou_2007_junior_maggio#qj3|src_kangourou_2007_junior_maggio__QJ3]]
 
 
-
-<span class="atom-split" id="qj4" data-atom="qj4" data-title="Quesito J4" data-tags="topic_logica,method_invarianti,skill_astrazione"></span>
+<span class="atom-split" id="qj4" data-atom="qj4" data-title="Quesito J4" data-tags="topic_logica,method_invarianti,method_colorazione,skill_astrazione"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -121,7 +117,7 @@ level: kangourou
 > Ho $52$ carte su ciascuna delle quali è indicato un numero intero positivo e la somma di tutti i numeri indicati è un numero dispari. Gioco con un amico in questo modo: dopo aver messo tutte le carte in fila sul tavolo, uno rimuove una carta a un'estremità della fila e poi passa la mano all'altro che fa la stessa cosa; si itera finché non restano più carte sul tavolo. Alla fine per ogni giocatore si sommano i numeri scritti sulle carte che ha scelto; vince chi ha le carte la somma dei cui numeri è maggiore. C'è una strategia vincente per chi inizia il gioco? In caso affermativo indicane una, in caso negativo fornisci una motivazione.
 
 **Topic:** [[topic_logica|Logica, giochi, strategie]]
-**Metodo:** [[method_invarianti|Invarianti / monovarianti]]
+**Metodo:** [[method_invarianti|Invarianti / monovarianti]], [[method_colorazione|Colorazione / parita]]
 **Abilita:** [[skill_astrazione|Astrazione / generalizzazione]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** si
@@ -135,28 +131,27 @@ level: kangourou
 
 > I have $52$ cards, each of which bears a positive integer, and the sum of all the numbers indicated is an odd number. I play with a friend in this way: after laying all the cards out in a row on the table, one player removes a card from one end of the row and then passes the turn to the other player, who does the same; this continues until no cards remain on the table. At the end, for each player, the numbers written on the cards they have chosen are added together; the player whose cards have the greater sum of numbers wins. Is there a winning strategy for the player who starts the game? If so, give one such strategy; if not, provide a justification.
 
+
 **Topic:** [[topic_logica|Logic, games and strategies]]
-**Metodo:** [[method_invarianti|Invariants / monovariants]]
+**Metodo:** [[method_invarianti|Invariants / monovariants]], [[method_colorazione|Colouring / parity]]
 **Abilita:** [[skill_astrazione|Abstraction / generalisation]]
 **Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
-[[Quesiti/src_kangourou_2007_junior_maggio#qj4|src_kangourou_2007_junior_maggio__QJ4]]
 
 
-
-<span class="atom-split" id="qj5" data-atom="qj5" data-title="Quesito J5" data-tags="topic_geometria_piana,skill_ragionamento_geometrico"></span>
+<span class="atom-split" id="qj5" data-atom="qj5" data-title="Quesito J5" data-tags="topic_geometria_piana,skill_ragionamento_geometrico,skill_riconoscimento_pattern"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
 
 *Raggio della terza di 7 circonferenze (prog. geometrica)*
 
-![[src_kangourou_2007_junior_maggio__probj5.png]]
+![[src_kangourou_2007_junior_maggio__probJ5.png]]
 
 > Sette circonferenze poste in sequenza sono tangenti a due rette non parallele e sono tangenti esternamente la prima alla seconda, la seconda alla terza e così via. Se il raggio della più piccola è $r$ e quello della più grande è $R$, quanto vale il raggio della terza?
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
-**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Geometria]]
 **Risposta:** (R/r)^(1/3) r
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/18MZGLQJUQipZMb6TJ_fvPWOpz_biScUr/view)
@@ -167,15 +162,14 @@ level: kangourou
 
 *Radius of the third of 7 circles (geometric progression)*
 
-![[src_kangourou_2007_junior_maggio__probj5.png]]
+![[src_kangourou_2007_junior_maggio__probJ5.png]]
 
 > Seven circles arranged in sequence are tangent to two non-parallel lines and are externally tangent to one another: the first to the second, the second to the third, and so on. If the radius of the smallest circle is $r$ and that of the largest is $R$, what is the radius of the third circle?
 
-**Topic:** [[topic_geometria_piana|Plane geometry]]
-**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
-**Area:** [[Geometria|Geometry]]
 
-[[Quesiti/src_kangourou_2007_junior_maggio#qj5|src_kangourou_2007_junior_maggio__QJ5]]
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Geometria|Geometry]]
 
 
 
@@ -207,5 +201,3 @@ level: kangourou
 **Metodo:** [[method_conteggio|Combinatorial counting]], [[method_ricorsione|Recursion]]
 **Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]]
 **Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
-
-[[Quesiti/src_kangourou_2007_junior_maggio#qj6|src_kangourou_2007_junior_maggio__QJ6]]

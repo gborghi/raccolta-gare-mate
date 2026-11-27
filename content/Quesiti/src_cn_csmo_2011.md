@@ -10,7 +10,7 @@ level: China Southeastern Mathematical Olympiad
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_algebra,topic_insiemi_funzioni,method_disuguaglianze,method_estremalita,skill_manipolazione_algebrica,skill_lettura_attenta,skill_stima"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_algebra,topic_insiemi_funzioni,topic_disuguaglianze,method_disuguaglianze,method_estremalita,skill_manipolazione_algebrica,skill_lettura_attenta,skill_stima"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -23,10 +23,10 @@ level: China Southeastern Mathematical Olympiad
 > 
 > (2) the value of $a$ for given $b$. (posed by Lu Xingjiang)
 
-**Topic:** [[topic_algebra|Algebra]], [[topic_insiemi_funzioni|Insiemi e funzioni]]
+**Topic:** [[topic_algebra|Algebra]], [[topic_insiemi_funzioni|Insiemi e funzioni]], [[topic_disuguaglianze|Inequalities]]
 **Metodo:** [[method_disuguaglianze|Disuguaglianze]], [[method_estremalita|Estremalità]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_stima|Stima]]
-**Area:** [[Algebra e Analisi]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1cjmD7lTT4vb3nB3ylcVCHeHucUE2rNI0/view)
 
 
@@ -41,16 +41,15 @@ level: China Southeastern Mathematical Olympiad
 >
 > (2) il valore di $a$ per il dato $b$. (proposto da Lu Xingjiang)
 
-**Topic:** [[topic_algebra|Algebra]], [[topic_insiemi_funzioni|Insiemi e funzioni]]
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_insiemi_funzioni|Insiemi e funzioni]], [[topic_disuguaglianze|Disuguaglianze]]
 **Metodo:** [[method_disuguaglianze|Disuguaglianze]], [[method_estremalita|Estremalità]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_stima|Stima]]
 **Area:** [[Algebra e Analisi]]
 
-[[Quesiti/src_cn_csmo_2011#q01|src_cn_csmo_2011__Q01]]
 
 
-
-<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_aritmetica,method_congruenze,method_casework,method_estremalita,skill_manipolazione_algebrica,skill_casework_accurato,skill_ragionamento_geometrico"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_aritmetica,method_congruenze,method_casework,method_estremalita,method_fattorizzazione,skill_manipolazione_algebrica,skill_casework_accurato,skill_ragionamento_geometrico"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -60,9 +59,9 @@ level: China Southeastern Mathematical Olympiad
 > Let $a$, $b$ and $c$ be coprime positive integers so that $a^2 \mid (b^3 + c^3)$, $b^2 \mid (a^3 + c^3)$ and $c^2 \mid (a^3 + b^3)$. Find the values of $a$, $b$ and $c$. (posed by Yang Xiaoming)
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_congruenze|Congruenze]], [[method_casework|Casework]], [[method_estremalita|Estremalità]]
+**Metodo:** [[method_congruenze|Congruenze]], [[method_casework|Casework]], [[method_estremalita|Estremalità]], [[method_fattorizzazione|Factorisation / algebraic manipulation]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Casework accurato]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
-**Area:** [[Aritmetica e Teoria dei Numeri]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Risposta:** $(a,b,c)=(1,1,1),(1,2,3),(1,3,2),(2,1,3),(2,3,1),(3,1,2),(3,2,1)$
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1cjmD7lTT4vb3nB3ylcVCHeHucUE2rNI0/view)
 
@@ -74,16 +73,15 @@ level: China Southeastern Mathematical Olympiad
 
 > Siano $a$, $b$ e $c$ numeri interi positivi coprimi, in modo che $a^2 \mid (b^3 + c^3)$, $b^2 \mid (a^3 + c^3)$ e $c^2 \mid (a^3 + b^3)$. Determinare i valori di $a$, $b$ e $c$. (proposto da Yang Xiaoming)
 
+
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_congruenze|Congruenze]], [[method_casework|Casework]], [[method_estremalita|Estremalità]]
+**Metodo:** [[method_congruenze|Congruenze]], [[method_casework|Casework]], [[method_estremalita|Estremalità]], [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Casework accurato]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 
-[[Quesiti/src_cn_csmo_2011#q02|src_cn_csmo_2011__Q02]]
 
 
-
-<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_combinatoria,method_casework,method_cassetti,skill_conteggio_sistematico,skill_casework_accurato,skill_lettura_attenta"></span>
+<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_combinatoria,method_casework,method_cassetti,method_estremalita,skill_conteggio_sistematico,skill_casework_accurato,skill_lettura_attenta"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -93,9 +91,9 @@ level: China Southeastern Mathematical Olympiad
 > Let set $M = \{1, 2, 3, \ldots, 50\}$. Find all positive integers $n$ such that there are at least two different elements $a$ and $b$ in any subset with 35 elements of $M$, such that $a + b = n$ or $a - b = n$. (posed by Li Shenghong)
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
-**Metodo:** [[method_casework|Casework]], [[method_cassetti|Principio dei cassetti]]
+**Metodo:** [[method_casework|Casework]], [[method_cassetti|Principio dei cassetti]], [[method_estremalita|Extremal principle]]
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]], [[skill_lettura_attenta|Lettura attenta]]
-**Area:** [[Combinatoria, Logica e Probabilita]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1cjmD7lTT4vb3nB3ylcVCHeHucUE2rNI0/view)
 
 
@@ -106,12 +104,11 @@ level: China Southeastern Mathematical Olympiad
 
 > Sia dato l'insieme $M = \{1, 2, 3, \ldots, 50\}$. Trovare tutti gli interi positivi $n$ tali che, in ogni sottoinsieme di 35 elementi di $M$, vi siano almeno due elementi distinti $a$ e $b$ tali che $a + b = n$ oppure $a - b = n$. (proposto da Li Shenghong)
 
+
 **Topic:** [[topic_combinatoria|Combinatoria]]
-**Metodo:** [[method_casework|Casework]], [[method_cassetti|Principio dei cassetti]]
+**Metodo:** [[method_casework|Casework]], [[method_cassetti|Principio dei cassetti]], [[method_estremalita|Principio di estremalita]]
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
-
-[[Quesiti/src_cn_csmo_2011#q03|src_cn_csmo_2011__Q03]]
 
 
 
@@ -124,7 +121,7 @@ level: China Southeastern Mathematical Olympiad
 
 > Suppose that a line passing through the circumcircle $O$ of $\triangle ABC$ intersects $AB$ and $AC$ at points $M$ and $N$, respectively, and $E$ and $F$ are the midpoints of $BN$ and $CM$, respectively. Prove that $\angle EOF = \angle A$. (posed by Tao Pingheng)
 
-![[src_cn_csmo_b11_w293__q04.png]]
+![[src_cn_csmo_b11_w293__Q04.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_trigonometria|Trigonometria]]
@@ -140,14 +137,12 @@ level: China Southeastern Mathematical Olympiad
 
 > Supponiamo che una retta passante per la circonferenza circoscritta $O$ di $\triangle ABC$ intersechi $AB$ e $AC$ nei punti $M$ e $N$, rispettivamente, e che $E$ e $F$ siano i punti medi di $BN$ e $CM$, rispettivamente. Dimostrare che $\angle EOF = \angle A$. (proposto da Tao Pingheng)
 
-![[src_cn_csmo_b11_w293__q04.png]]
+![[src_cn_csmo_b11_w293__Q04.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_trigonometria|Trigonometria]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
-
-[[Quesiti/src_cn_csmo_2011#q04|src_cn_csmo_2011__Q04]]
 
 
 
@@ -160,7 +155,7 @@ level: China Southeastern Mathematical Olympiad
 
 > Let $AA_1$, $BB_1$, and $CC_1$ be angular bisectors of $\triangle ABC$. Let $A_2 \in BB_1$ and $A_3 \in CC_1$, where $A_2$ and $A_3$ lie on $AC$ and $AB$ respectively, and let line $A_2A_3$ intersect $BC$ at $A_3'$. Points $B_3'$ and $C_3'$ are obtained similarly. Prove that points $A_3'$, $B_3'$, $C_3'$ are collinear. (posed by Tao Pingsheng)
 
-![[src_cn_csmo_b11_w293__q05.png]]
+![[src_cn_csmo_b11_w293__Q05.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_trigonometria|Trigonometria]]
@@ -176,14 +171,12 @@ level: China Southeastern Mathematical Olympiad
 
 > Siano $AA_1$, $BB_1$ e $CC_1$ le bisettrici angolari di $\triangle ABC$. Siano $A_2 \in BB_1$ e $A_3 \in CC_1$, dove $A_2$ e $A_3$ giacciono rispettivamente su $AC$ e $AB$, e sia la retta $A_2A_3$ a intersecare $BC$ in $A_3'$. I punti $B_3'$ e $C_3'$ si ottengono in modo analogo. Dimostrare che i punti $A_3'$, $B_3'$, $C_3'$ sono allineati. (proposto da Tao Pingsheng)
 
-![[src_cn_csmo_b11_w293__q05.png]]
+![[src_cn_csmo_b11_w293__Q05.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_trigonometria|Trigonometria]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
-
-[[Quesiti/src_cn_csmo_2011#q05|src_cn_csmo_2011__Q05]]
 
 
 
@@ -215,11 +208,9 @@ level: China Southeastern Mathematical Olympiad
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_astrazione|Astrazione]]
 **Area:** [[Geometria]], [[Algebra e Analisi]]
 
-[[Quesiti/src_cn_csmo_2011#q06|src_cn_csmo_2011__Q06]]
 
 
-
-<span class="atom-split" id="q07" data-atom="q07" data-title="Quesito 7" data-tags="topic_algebra,topic_aritmetica,method_induzione,method_ricorsione,skill_manipolazione_algebrica,skill_riconoscimento_pattern"></span>
+<span class="atom-split" id="q07" data-atom="q07" data-title="Quesito 7" data-tags="topic_algebra,topic_aritmetica,topic_funzionali,method_induzione,method_ricorsione,skill_manipolazione_algebrica,skill_riconoscimento_pattern"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -228,10 +219,10 @@ level: China Southeastern Mathematical Olympiad
 
 > Suppose that the sequence $\{a_n\}$ is defined by $a_1 = a_2 = 1$, $a_n = 7a_{n-1} - a_{n-2} + n$ for $n \geq 3$. Prove that $a_n + 2a_{n+2}$ is a perfect square for any positive integer $n$. (posed by Tao Pingsheng)
 
-**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_funzionali|Functional equations / sequences]]
 **Metodo:** [[method_induzione|Induzione]], [[method_ricorsione|Ricorsione]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
-**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1cjmD7lTT4vb3nB3ylcVCHeHucUE2rNI0/view)
 
 
@@ -242,12 +233,11 @@ level: China Southeastern Mathematical Olympiad
 
 > Supponiamo che la successione $\{a_n\}$ sia definita da $a_1 = a_2 = 1$, $a_n = 7a_{n-1} - a_{n-2} + n$ per $n \geq 3$. Dimostrare che $a_n + 2a_{n+2}$ è un quadrato perfetto per ogni numero intero positivo $n$. (proposto da Tao Pingsheng)
 
-**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_funzionali|Equazioni funzionali / successioni]]
 **Metodo:** [[method_induzione|Induzione]], [[method_ricorsione|Ricorsione]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
-
-[[Quesiti/src_cn_csmo_2011#q07|src_cn_csmo_2011__Q07]]
 
 
 
@@ -279,5 +269,3 @@ level: China Southeastern Mathematical Olympiad
 **Metodo:** [[method_colorazione|Colorazione]], [[method_conteggio|Conteggio]], [[method_casework|Casework]], [[method_estremalita|Estremalità]]
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]], [[skill_modellizzazione|Modellizzazione]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
-
-[[Quesiti/src_cn_csmo_2011#q08|src_cn_csmo_2011__Q08]]

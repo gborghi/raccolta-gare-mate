@@ -10,7 +10,7 @@ level: OBM Nível 3
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_algebra,method_fattorizzazione,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_algebra,method_fattorizzazione,skill_manipolazione_algebrica,skill_lettura_attenta,skill_modellizzazione"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -21,8 +21,8 @@ level: OBM Nível 3
 
 **Topic:** [[topic_algebra|Algebra]]
 **Metodo:** [[method_fattorizzazione|Fattorizzazione]]
-**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
-**Area:** [[Algebra e Analisi]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1ShOcrkv4aH3ATjD2ng1zqwrB7JjYxDOm/view)
 
 
@@ -33,12 +33,11 @@ level: OBM Nível 3
 
 > (Parte A) Il professor Piraldo ha dato a Esmeralda un'equazione della forma $ax = b$, dove $a$ e $b$ sono numeri reali. Esmeralda commette un errore e risolve l'equazione $bx = a$, ottenendo una soluzione pari alla soluzione corretta meno $60$. Se la soluzione corretta è della forma $m + \sqrt{n}$, con $m$ e $n$ interi, qual è il valore di $m + n$?
 
+
 **Topic:** [[topic_algebra|Algebra]]
 **Metodo:** [[method_fattorizzazione|Fattorizzazione]]
-**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
 **Area:** [[Algebra e Analisi]]
-
-[[Quesiti/src_obm_2015_n3_f2#q01|src_obm_2015_n3_f2__Q01]]
 
 
 
@@ -70,8 +69,6 @@ level: OBM Nível 3
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 
-[[Quesiti/src_obm_2015_n3_f2#q02|src_obm_2015_n3_f2__Q02]]
-
 
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_geometria_piana,topic_probabilita,method_casework,method_coordinate,skill_ragionamento_geometrico,skill_modellizzazione"></span>
@@ -101,8 +98,6 @@ level: OBM Nível 3
 **Metodo:** [[method_casework|Casework]], [[method_coordinate|Coordinate]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]]
 **Area:** [[Geometria]], [[Combinatoria, Logica e Probabilita]]
-
-[[Quesiti/src_obm_2015_n3_f2#q03|src_obm_2015_n3_f2__Q03]]
 
 
 
@@ -134,11 +129,9 @@ level: OBM Nível 3
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 
-[[Quesiti/src_obm_2015_n3_f2#q04|src_obm_2015_n3_f2__Q04]]
 
 
-
-<span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_aritmetica,topic_insiemi_funzioni,method_ricorsione,method_induzione,method_conteggio,skill_riconoscimento_pattern,skill_conteggio_sistematico"></span>
+<span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_aritmetica,topic_insiemi_funzioni,topic_funzionali,method_ricorsione,method_induzione,method_conteggio,skill_riconoscimento_pattern,skill_conteggio_sistematico"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -147,10 +140,10 @@ level: OBM Nível 3
 
 > (Part A) Let $f$ and $g$ be functions from the nonnegative integers to the nonnegative integers such that $f(0) = g(0) = 0$, and (functional equations relating $f(2x+1)$, $g(2x)$, $f(x)$, $g(2x+1)$, and $x$) hold for every nonnegative integer $x$. How many values of $n$ with $0 \le n \le 2015$ satisfy $f(n) = 0$?
 
-**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_insiemi_funzioni|Insiemi e funzioni]]
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_insiemi_funzioni|Insiemi e funzioni]], [[topic_funzionali|Functional equations / sequences]]
 **Metodo:** [[method_ricorsione|Ricorsione]], [[method_induzione|Induzione]], [[method_conteggio|Conteggio]]
 **Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_conteggio_sistematico|Conteggio sistematico]]
-**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Algebra e Analisi|Algebra and analysis]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1ShOcrkv4aH3ATjD2ng1zqwrB7JjYxDOm/view)
 
 
@@ -161,12 +154,11 @@ level: OBM Nível 3
 
 > (Parte A) Siano $f$ e $g$ funzioni dagli interi non negativi agli interi non negativi tali che $f(0) = g(0) = 0$, e (equazioni funzionali che collegano $f(2x+1)$, $g(2x)$, $f(x)$, $g(2x+1)$ e $x$) valgano per ogni intero non negativo $x$. Quanti valori di $n$, con $0 \le n \le 2015$, soddisfano $f(n) = 0$?
 
-**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_insiemi_funzioni|Insiemi e funzioni]]
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_insiemi_funzioni|Insiemi e funzioni]], [[topic_funzionali|Equazioni funzionali / successioni]]
 **Metodo:** [[method_ricorsione|Ricorsione]], [[method_induzione|Induzione]], [[method_conteggio|Conteggio]]
 **Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
-
-[[Quesiti/src_obm_2015_n3_f2#q05|src_obm_2015_n3_f2__Q05]]
 
 
 
@@ -198,11 +190,9 @@ level: OBM Nível 3
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Algebra e Analisi]]
 
-[[Quesiti/src_obm_2015_n3_f2#q06|src_obm_2015_n3_f2__Q06]]
 
 
-
-<span class="atom-split" id="q07" data-atom="q07" data-title="Quesito 7" data-tags="topic_combinatoria,topic_algebra,method_invarianti,method_conteggio,method_doppio_conteggio,skill_modellizzazione,skill_conteggio_sistematico,skill_astrazione"></span>
+<span class="atom-split" id="q07" data-atom="q07" data-title="Quesito 7" data-tags="topic_combinatoria,topic_algebra,method_invarianti,method_conteggio,method_doppio_conteggio,method_congruenze,skill_modellizzazione,skill_conteggio_sistematico,skill_astrazione"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -212,9 +202,9 @@ level: OBM Nível 3
 > (Part B) Consider a $2015 \times 37$ board, painted like a chessboard. Each row and column has a button that inverts the color of every cell of the corresponding row or column, for a total of $2015 + 37 = 2052$ buttons. How many different colorings of the board can be obtained?
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_algebra|Algebra]]
-**Metodo:** [[method_invarianti|Invarianti]], [[method_conteggio|Conteggio]], [[method_doppio_conteggio|Doppio conteggio]]
+**Metodo:** [[method_invarianti|Invarianti]], [[method_conteggio|Conteggio]], [[method_doppio_conteggio|Doppio conteggio]], [[method_congruenze|Modular arithmetic / congruences]]
 **Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_astrazione|Astrazione]]
-**Area:** [[Combinatoria, Logica e Probabilita]], [[Algebra e Analisi]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Algebra e Analisi|Algebra and analysis]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1ShOcrkv4aH3ATjD2ng1zqwrB7JjYxDOm/view)
 
 
@@ -225,12 +215,11 @@ level: OBM Nível 3
 
 > (Parte B) Si consideri una tavola $2015 \times 37$, dipinta come una scacchiera. Ogni riga e ogni colonna ha un pulsante che inverte il colore di ogni cella della riga o della colonna corrispondente; in totale ci sono $2015 + 37 = 2052$ pulsanti. Quante diverse colorazioni della tavola si possono ottenere?
 
+
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_algebra|Algebra]]
-**Metodo:** [[method_invarianti|Invarianti]], [[method_conteggio|Conteggio]], [[method_doppio_conteggio|Doppio conteggio]]
+**Metodo:** [[method_invarianti|Invarianti]], [[method_conteggio|Conteggio]], [[method_doppio_conteggio|Doppio conteggio]], [[method_congruenze|Aritmetica modulare / congruenze]]
 **Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_astrazione|Astrazione]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Algebra e Analisi]]
-
-[[Quesiti/src_obm_2015_n3_f2#q07|src_obm_2015_n3_f2__Q07]]
 
 
 
@@ -262,8 +251,6 @@ level: OBM Nível 3
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 
-[[Quesiti/src_obm_2015_n3_f2#q08|src_obm_2015_n3_f2__Q08]]
-
 
 
 <span class="atom-split" id="q09" data-atom="q09" data-title="Quesito 9" data-tags="topic_aritmetica,method_congruenze,method_fattorizzazione,skill_riconoscimento_pattern,skill_lettura_attenta"></span>
@@ -293,5 +280,3 @@ level: OBM Nível 3
 **Metodo:** [[method_congruenze|Congruenze]], [[method_fattorizzazione|Fattorizzazione]]
 **Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
-
-[[Quesiti/src_obm_2015_n3_f2#q09|src_obm_2015_n3_f2__Q09]]

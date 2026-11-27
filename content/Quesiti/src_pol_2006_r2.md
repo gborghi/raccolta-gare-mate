@@ -42,12 +42,11 @@ level: Olimpiade Polacca Round 2
 **Topic:** [[topic_aritmetica|Aritmetica e teoria dei numeri]], [[topic_algebra|Algebra]]
 **Metodo:** [[method_casework|Analisi per casi]], [[method_fattorizzazione|Fattorizzazione]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Analisi accurata dei casi]]
-
-[[Quesiti/src_pol_2006_r2#q01|src_pol_2006_r2__Q01]]
-
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 
 
-<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_geometria_piana,method_simmetria,skill_ragionamento_geometrico"></span>
+
+<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_geometria_piana,method_simmetria,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -58,8 +57,8 @@ level: Olimpiade Polacca Round 2
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_simmetria|Simmetria]]
-**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
-**Area:** [[Geometria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Geometria|Geometry]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1NlYhgScQkf9eCfEZeeiilK96pka9LzT-/view)
 
 
@@ -70,11 +69,11 @@ level: Olimpiade Polacca Round 2
 
 > In un triangolo $ABC$ con $AC+BC=3AB$, la circonferenza inscritta ha centro $I$ e tocca $BC$ in $D$ e $AC$ in $E$. Siano $K$ e $L$ i punti simmetrici di $D$ e di $E$ rispetto a $I$. Dimostrare che i punti $A,B,K,L$ giacciono su una circonferenza.
 
+
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_simmetria|Simmetria]]
-**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
-
-[[Quesiti/src_pol_2006_r2#q02|src_pol_2006_r2__Q02]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
 
 
 
@@ -107,12 +106,11 @@ level: Olimpiade Polacca Round 2
 **Topic:** [[topic_disuguaglianze|Disuguaglianze]], [[topic_algebra|Algebra]]
 **Metodo:** [[method_disuguaglianze|Disuguaglianze]], [[method_simmetria|Simmetria]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
-
-[[Quesiti/src_pol_2006_r2#q03|src_pol_2006_r2__Q03]]
-
+**Area:** [[Algebra e Analisi]]
 
 
-<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_aritmetica,topic_algebra,method_estremalita,method_ricorsione,skill_stima,skill_riconoscimento_pattern"></span>
+
+<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_aritmetica,topic_algebra,topic_funzionali,method_estremalita,method_ricorsione,method_cassetti,skill_stima,skill_riconoscimento_pattern"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -123,10 +121,10 @@ level: Olimpiade Polacca Round 2
 > $$a_{n+1}=d(a_n)+c \quad \text{for } n=1,2,\ldots,$$
 > where $d(m)$ denotes the number of positive divisors of $m\in\mathbb{N}$. Show that there is a positive integer $k$ such that the sequence $a_k, a_{k+1}, a_{k+2}, \ldots$ is periodic.
 
-**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
-**Metodo:** [[method_estremalita|Estremalità]], [[method_ricorsione|Ricorsione]]
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]], [[topic_funzionali|Functional equations / sequences]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_ricorsione|Ricorsione]], [[method_cassetti|Pigeonhole principle]]
 **Abilita:** [[skill_stima|Stima]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
-**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Algebra e Analisi|Algebra and analysis]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1NlYhgScQkf9eCfEZeeiilK96pka9LzT-/view)
 
 
@@ -141,11 +139,11 @@ level: Olimpiade Polacca Round 2
 >
 > dove $d(m)$ indica il numero dei divisori positivi di $m\in\mathbb{N}$. Dimostrare che esiste un intero positivo $k$ tale che la successione $a_k, a_{k+1}, a_{k+2}, \ldots$ sia periodica.
 
-**Topic:** [[topic_aritmetica|Aritmetica e teoria dei numeri]], [[topic_algebra|Algebra]]
-**Metodo:** [[method_estremalita|Estremalità]], [[method_ricorsione|Ricorsione]]
-**Abilita:** [[skill_stima|Stima]], [[skill_riconoscimento_pattern|Riconoscimento di schemi]]
 
-[[Quesiti/src_pol_2006_r2#q04|src_pol_2006_r2__Q04]]
+**Topic:** [[topic_aritmetica|Aritmetica e teoria dei numeri]], [[topic_algebra|Algebra]], [[topic_funzionali|Equazioni funzionali / successioni]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_ricorsione|Ricorsione]], [[method_cassetti|Principio dei cassetti]]
+**Abilita:** [[skill_stima|Stima]], [[skill_riconoscimento_pattern|Riconoscimento di schemi]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 
 
 
@@ -175,12 +173,11 @@ level: Olimpiade Polacca Round 2
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_simmetria|Simmetria]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
-
-[[Quesiti/src_pol_2006_r2#q05|src_pol_2006_r2__Q05]]
-
+**Area:** [[Geometria]]
 
 
-<span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_combinatoria,method_conteggio,method_estremalita,skill_conteggio_sistematico,skill_astrazione"></span>
+
+<span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_combinatoria,topic_aritmetica,method_conteggio,method_estremalita,method_cassetti,skill_conteggio_sistematico,skill_astrazione"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -189,10 +186,10 @@ level: Olimpiade Polacca Round 2
 
 > A prime number $p$ and an integer $n$ with $p\ge n\ge 3$ are given. Let $A$ be a set of sequences of length $n$ with terms in the set $\{0,1,2,\ldots,p-1\}$ has the following property: Any two sequences $(x_1,\ldots,x_n)$ and $(y_1,\ldots,y_n)$ from $A$ differ in at least three positions. Find the largest possible cardinality of $A$.
 
-**Topic:** [[topic_combinatoria|Combinatoria]]
-**Metodo:** [[method_conteggio|Conteggio]], [[method_estremalita|Estremalità]]
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_conteggio|Conteggio]], [[method_estremalita|Estremalità]], [[method_cassetti|Pigeonhole principle]]
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_astrazione|Astrazione]]
-**Area:** [[Combinatoria, Logica e Probabilita]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1NlYhgScQkf9eCfEZeeiilK96pka9LzT-/view)
 
 
@@ -203,8 +200,8 @@ level: Olimpiade Polacca Round 2
 
 > Sono dati un numero primo $p$ e un intero $n$ con $p\ge n\ge 3$. Sia $A$ un insieme di successioni di lunghezza $n$ con termini nell'insieme $\{0,1,2,\ldots,p-1\}$, tale che due successioni qualunque $(x_1,\ldots,x_n)$ e $(y_1,\ldots,y_n)$ di $A$ differiscano in almeno tre posizioni. Trovare la massima cardinalità possibile di $A$.
 
-**Topic:** [[topic_combinatoria|Combinatoria]]
-**Metodo:** [[method_conteggio|Conteggio]], [[method_estremalita|Estremalità]]
-**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_astrazione|Astrazione]]
 
-[[Quesiti/src_pol_2006_r2#q06|src_pol_2006_r2__Q06]]
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_conteggio|Conteggio]], [[method_estremalita|Estremalità]], [[method_cassetti|Principio dei cassetti]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_astrazione|Astrazione]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]

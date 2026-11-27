@@ -10,7 +10,7 @@ level: Concours Général
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_probabilita,topic_combinatoria,method_estremalita,method_casework,skill_modellizzazione,skill_manipolazione_algebrica,skill_stima"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_probabilita,topic_combinatoria,topic_algebra,method_estremalita,method_casework,skill_modellizzazione,skill_manipolazione_algebrica,skill_stima,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -24,10 +24,10 @@ level: Concours Général
 > 3. Solve the exercise.
 > 4. What generalizations do you propose by increasing the number of colours and of urns?
 
-**Topic:** [[topic_probabilita|Probabilità]], [[topic_combinatoria|Combinatoria]]
+**Topic:** [[topic_probabilita|Probabilità]], [[topic_combinatoria|Combinatoria]], [[topic_algebra|Algebra]]
 **Metodo:** [[method_estremalita|Estremalità]], [[method_casework|Casework]]
-**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]]
-**Area:** [[Combinatoria, Logica e Probabilita]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]], [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Algebra e Analisi|Algebra and analysis]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1_wcXSU872UGoX0DYiQuqq6oLuR1WtHy0/view)
 
 
@@ -40,11 +40,14 @@ Distribuire le palline bianche e nere in due urne per massimizzare la probabilit
 > 
 > 1. Esprimere $p$ come funzione di $b$, $n$, $r$ e $s$. 2. In questa domanda, il valore di $s$ è fissato; come si deve scegliere $r$ per aumentare $p$? 3. Risolvi l'esercizio. 4. Quali generalizzazioni proponi aumentando il numero dei colori e delle urne?
 
-[[Quesiti/src_cgen_2000#q01|src_cgen_2000__Q01]]
+**Topic:** [[topic_probabilita|Probabilita e statistica]], [[topic_combinatoria|Combinatoria]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_estremalita|Principio di estremalita]], [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima e approssimazione]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Algebra e Analisi]]
 
 
 
-<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_geometria_piana,topic_aritmetica,topic_trigonometria,method_coordinate,method_congruenze,method_fattorizzazione,skill_ragionamento_geometrico,skill_manipolazione_algebrica,skill_lettura_attenta,skill_conteggio_sistematico"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_geometria_piana,topic_aritmetica,topic_trigonometria,method_coordinate,method_congruenze,method_fattorizzazione,method_trigonometria,skill_ragionamento_geometrico,skill_manipolazione_algebrica,skill_lettura_attenta,skill_conteggio_sistematico"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -61,9 +64,9 @@ Distribuire le palline bianche e nere in due urne per massimizzare la probabilit
 > 6. Deduce a necessary and sufficient condition for a triangle to be Cartesian with coprime sides, then, by geometric remarks, an analogous characterization of triangles with coprime integer sides $BC = a$, $CA = b$ and $AB = c$ whose angle at $A$ measures $\dfrac{\pi}{3}$ radians.
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_trigonometria|Trigonometria]]
-**Metodo:** [[method_coordinate|Coordinate]], [[method_congruenze|Congruenze]], [[method_fattorizzazione|Fattorizzazione]]
+**Metodo:** [[method_coordinate|Coordinate]], [[method_congruenze|Congruenze]], [[method_fattorizzazione|Fattorizzazione]], [[method_trigonometria|Trigonometric techniques]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_conteggio_sistematico|Conteggio sistematico]]
-**Area:** [[Geometria]], [[Aritmetica e Teoria dei Numeri]]
+**Area:** [[Geometria|Geometry]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1_wcXSU872UGoX0DYiQuqq6oLuR1WtHy0/view)
 
 
@@ -76,14 +79,14 @@ Distribuire le palline bianche e nere in due urne per massimizzare la probabilit
 > 
 > 1. Indicando con $H$ il suo centro ortogonale, proiettato ortogonalmente a $(U, V, W)$ sui tre lati, si determina quale dei seguenti numeri razionali sia: $AU$, $BV$, $CW$, $HA$, $HB$, $HC$, $HU$, $HV$, $HW$, $AW$, $AV$, $BU$, $BW$, $CV$ e $CU$. 2. Indicando con $I$ il suo centro incircolare, $J$ l'intersezione del bisettore interno a $A$ con i bisettori esterni agli altri vertici, e $P$, $Q$ le intersezioni della linea $BC$ con i due bisettori a $A$, determinare quali dei seguenti numeri razionali sono: $PB$, $PC$, $QB$, $QC$, $AI$, $AJ$, $AP$ e $AQ$. 3. Ora supponiamo che $b$ e $c$ siano coprime. Indicare che, fino a scambiare $b$ e $c$, $a+b-c$ è un multiple di $3$ e $a-b+c$ non lo è. 4. Abbiamo impostato $\dfrac{a+b-c}{3c} = \dfrac{p}{q}$ dove $p$ e $q$ sono numeri interi di copriamo rigorosamente positivi. Indicando con $d$ il GCD di $p(3p+2q)$ e di $q(2p+q)$, calcolare $a$, $b$, $c$ come funzioni di $p$, $q$ e $d$. 5. Indicare che $q$ non è un multiple di $3$, quindi che $d=1$. 6. Deduci una condizione necessaria e sufficiente per un triangolo di essere cartesiano con lati copriemi, quindi, con osservazioni geometriche, una caratterizzazione analogica dei triangoli con lati interi copriemi $BC = a$, $CA = b$ e $AB = c$ il cui angolo a $A$ misura $\dfrac{\pi}{3}$ radiani.
 
-[[Quesiti/src_cgen_2000#q02|src_cgen_2000__Q02]]
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_trigonometria|Trigonometria]]
+**Metodo:** [[method_coordinate|Metodo delle coordinate]], [[method_congruenze|Aritmetica modulare / congruenze]], [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]], [[method_trigonometria|Tecniche trigonometriche]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta del testo]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Geometria]], [[Aritmetica e Teoria dei Numeri]]
 
 
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_geometria_solida,topic_insiemi_funzioni,method_estremalita,method_coordinate,skill_ragionamento_geometrico,skill_astrazione,skill_manipolazione_algebrica"></span>
-
-<div class="qlang-switch" data-default="en"></div>
-
 
 *Set E of radii R of spheres (H) keeping points B,C strictly outside while sphere (A) lies strictly inside; non-emptiness and least upper bound*
 
@@ -100,8 +103,20 @@ Distribuire le palline bianche e nere in due urne per massimizzare la probabilit
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1_wcXSU872UGoX0DYiQuqq6oLuR1WtHy0/view)
 
 
-<div class="qlang-split" data-lang="it"></div>
 
+<span class="atom-split" id="q03__it" data-atom="q03__it" data-title="Q03__IT" data-tags=""></span>
+
+---
+tipo: quesito-translation
+translation_of: src_cgen_2000__Q03
+lang: it
+secondary: true
+title: "Concours Général des Lycées 2000  Matematica  Quesito 3"
+summary: "Set E di raggio R di sfere (H) mantenendo i punti B,C strettamente all'esterno mentre la sfera (A) si trova strettamente all'interno; non vuoto e il limite superiore minimo"
+topics: [topic_geometria_solida, topic_insiemi_funzioni]
+methods: [method_estremalita, method_coordinate]
+skills: [skill_ragionamento_geometrico, skill_astrazione, skill_manipolazione_algebrica]
+tags: [kg/translation, topic/geometria_solida, topic/insiemi_funzioni]---
 
 *Set E di raggio R delle sfere (H) mantenendo i punti B,C strettamente all'esterno mentre la sfera (A) si trova strettamente all'interno; non vuoto e il limite superiore minimo*
 
@@ -109,4 +124,8 @@ Distribuire le palline bianche e nere in due urne per massimizzare la probabilit
 > 
 > 1. In questa domanda, $B$ e $C$ sono allineati e strettamente esterni a $(A)$. Indicare che $E$ non è vuoto e che è limitato sopra. Calcolare il più piccolo dei suoi limiti superiori come funzione dei dati. 2. Determinare una condizione necessaria e sufficiente affinché il $E$ non sia vuoto e sia limitato sopra. 3. Calcolare, quando esiste, il minimo dei limiti superiori di $E$.
 
+**Topic:** [[topic_geometria_solida|Geometria solida]], [[topic_insiemi_funzioni|Insiemi e funzioni]]
+**Metodo:** [[method_estremalita|Principio di estremalita]], [[method_coordinate|Metodo delle coordinate]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_astrazione|Astrazione / generalizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]], [[Algebra e Analisi]]
 [[Quesiti/src_cgen_2000#q03|src_cgen_2000__Q03]]

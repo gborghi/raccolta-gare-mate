@@ -10,7 +10,7 @@ level: squadre
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_combinatoria"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_combinatoria,topic_aritmetica,method_congruenze,skill_modellizzazione,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -30,10 +30,12 @@ level: squadre
 > Quanti passi vengono fatti complessivamente dai
 > tre amici per percorrere il sentiero?
 
-**Topic:** [[topic_combinatoria|Combinatoria]]
-**Area:** [[Combinatoria, Logica e Probabilita]]
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 0199
-**Fonte:** apri PDF p.2 · phiquadro.it, Archivio gare ufficiali 2025 (Gara Femminile - Qualificazione)
+**Fonte:** [apri PDF p.2](https://www.phiquadro.it/archivio/2025_24%20gennaio%20-%20Ga.pdf#page=2) · phiquadro.it, Archivio gare ufficiali 2025 (Gara Femminile - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -45,14 +47,15 @@ level: squadre
 
 > Tizio, Caio, and Sempronio Edi Rosset Three friends—Tizio, Caio, and Sempronio—walk along the same path in an integer number of steps, even though the lengths of their steps are not the same. Caio takes 3 steps for every 4 steps Tizio takes. Sempronio's step is 15% shorter than Tizio's. Moreover, the number of steps Caio must take to complete the path is the smallest possible. How many steps in total do the three friends take to walk along the path?
 
-**Topic:** [[topic_combinatoria|Combinatorics]]
-**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
-[[Quesiti/src_squadre_2025_femminile_qualif#q01|src_squadre_2025_femminile_qualif__Q01]]
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
 
 
-<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_aritmetica"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_aritmetica,method_casework,skill_casework_accurato,skill_lettura_attenta"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -75,9 +78,11 @@ level: squadre
 > regale?
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_lettura_attenta|Lettura attenta del testo]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 8679
-**Fonte:** apri PDF p.2 · phiquadro.it, Archivio gare ufficiali 2025 (Gara Femminile - Qualificazione)
+**Fonte:** [apri PDF p.2](https://www.phiquadro.it/archivio/2025_24%20gennaio%20-%20Ga.pdf#page=2) · phiquadro.it, Archivio gare ufficiali 2025 (Gara Femminile - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -93,14 +98,15 @@ level: squadre
 > b) The four digits are four numbers.
 > consecutive. For example, 1342 is a royal number; 1452 is not a royal number. What is the largest royal number?
 
+
 **Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]], [[skill_lettura_attenta|Careful reading of the text]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
-[[Quesiti/src_squadre_2025_femminile_qualif#q02|src_squadre_2025_femminile_qualif__Q02]]
 
 
-
-<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_combinatoria"></span>
+<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_combinatoria,method_inclusione_esclusione,skill_conteggio_sistematico"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -118,9 +124,11 @@ level: squadre
 > marmo di Carrara nel mosaico?
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_inclusione_esclusione|Inclusione-esclusione]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 9216
-**Fonte:** apri PDF p.2 · phiquadro.it, Archivio gare ufficiali 2025 (Gara Femminile - Qualificazione)
+**Fonte:** [apri PDF p.2](https://www.phiquadro.it/archivio/2025_24%20gennaio%20-%20Ga.pdf#page=2) · phiquadro.it, Archivio gare ufficiali 2025 (Gara Femminile - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -132,14 +140,15 @@ level: squadre
 
 > In the Hall, Andrea Macco In a reception hall, the floor is a simple mosaic consisting of a 99 × 99 grid of square tiles, all of Carrara marble except for those on the edge and on the two diagonals. How many Carrara marble tiles are there in the mosaic?
 
+
 **Topic:** [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_inclusione_esclusione|Inclusion–exclusion]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
 **Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
-[[Quesiti/src_squadre_2025_femminile_qualif#q03|src_squadre_2025_femminile_qualif__Q03]]
 
 
-
-<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_geometria_piana"></span>
+<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_geometria_piana,method_simmetria,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -154,9 +163,11 @@ level: squadre
 > è 1372 cm^2. Qual è l’area del rettangolo ADJG?
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_simmetria|Sfruttamento della simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 **Risposta:** 0784
-**Fonte:** apri PDF p.2 · phiquadro.it, Archivio gare ufficiali 2025 (Gara Femminile - Qualificazione)
+**Fonte:** [apri PDF p.2](https://www.phiquadro.it/archivio/2025_24%20gennaio%20-%20Ga.pdf#page=2) · phiquadro.it, Archivio gare ufficiali 2025 (Gara Femminile - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -168,14 +179,15 @@ level: squadre
 
 > Hexagons and Octagons Sandro Campigotto Two regular hexagons, ABCDEF and GFEJIH, share the side EF. The area of the octagon ABCDJIHG is 1372 cm². What is the area of rectangle ADJG?
 
+
 **Topic:** [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_simmetria|Using symmetry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
 **Area:** [[Geometria|Geometry]]
 
-[[Quesiti/src_squadre_2025_femminile_qualif#q04|src_squadre_2025_femminile_qualif__Q04]]
 
 
-
-<span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_combinatoria"></span>
+<span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_combinatoria,topic_aritmetica,skill_modellizzazione,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -193,10 +205,11 @@ level: squadre
 > incontrano (escluso alla partenza), se corrono in
 > versi opposti?
 
-**Topic:** [[topic_combinatoria|Combinatoria]]
-**Area:** [[Combinatoria, Logica e Probabilita]]
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 0025
-**Fonte:** apri PDF p.2 · phiquadro.it, Archivio gare ufficiali 2025 (Gara Femminile - Qualificazione)
+**Fonte:** [apri PDF p.2](https://www.phiquadro.it/archivio/2025_24%20gennaio%20-%20Ga.pdf#page=2) · phiquadro.it, Archivio gare ufficiali 2025 (Gara Femminile - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -208,14 +221,14 @@ level: squadre
 
 > The runners Lorenzo Mazza Two runners run on a circular course 550 m long for an hour. Starting from the same point at the same instant, the first moves at a constant speed of 8 km/h, and the second at a constant speed of 6 km/h. How many times do they meet (excluding the start), if they run in opposite directions?
 
-**Topic:** [[topic_combinatoria|Combinatorics]]
-**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
-[[Quesiti/src_squadre_2025_femminile_qualif#q05|src_squadre_2025_femminile_qualif__Q05]]
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
 
 
-<span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_geometria_solida"></span>
+<span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_geometria_solida,topic_geometria_piana,method_simmetria,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -235,10 +248,12 @@ level: squadre
 > seconda biglia? [Dare come risposta la misura
 > del raggio in mm moltiplicato per 100.]
 
-**Topic:** [[topic_geometria_solida|Geometria solida]]
+**Topic:** [[topic_geometria_solida|Geometria solida]], [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_simmetria|Sfruttamento della simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 **Risposta:** 1125
-**Fonte:** apri PDF p.2 · phiquadro.it, Archivio gare ufficiali 2025 (Gara Femminile - Qualificazione)
+**Fonte:** [apri PDF p.2](https://www.phiquadro.it/archivio/2025_24%20gennaio%20-%20Ga.pdf#page=2) · phiquadro.it, Archivio gare ufficiali 2025 (Gara Femminile - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -250,14 +265,15 @@ level: squadre
 
 > In the cone, Edi Rosset Maria drops a marble with a radius of 5 mm into a conical container. The distance from the vertex of the cone to the point at which the marble is tangent to the cone is 12 mm. Maria drops a second marble into the container; this marble comes to rest, being tangent both to the marble already in the container and to the conical wall at more than one point. What is the radius of the second marble? [Give as the answer the measure of the radius in mm multiplied by 100.]
 
-**Topic:** [[topic_geometria_solida|Solid geometry]]
+
+**Topic:** [[topic_geometria_solida|Solid geometry]], [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_simmetria|Using symmetry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
 **Area:** [[Geometria|Geometry]]
 
-[[Quesiti/src_squadre_2025_femminile_qualif#q06|src_squadre_2025_femminile_qualif__Q06]]
 
 
-
-<span class="atom-split" id="q07" data-atom="q07" data-title="Quesito 7" data-tags="topic_combinatoria"></span>
+<span class="atom-split" id="q07" data-atom="q07" data-title="Quesito 7" data-tags="topic_combinatoria,topic_logica,method_casework,skill_casework_accurato,skill_lettura_attenta"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -279,10 +295,12 @@ level: squadre
 > [Dare come risposta i numeri sulle prime 4
 > piastrelle da sinistra.]
 
-**Topic:** [[topic_combinatoria|Combinatoria]]
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_logica|Logica, giochi, strategie]]
+**Metodo:** [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_lettura_attenta|Lettura attenta del testo]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 4131
-**Fonte:** apri PDF p.2 · phiquadro.it, Archivio gare ufficiali 2025 (Gara Femminile - Qualificazione)
+**Fonte:** [apri PDF p.2](https://www.phiquadro.it/archivio/2025_24%20gennaio%20-%20Ga.pdf#page=2) · phiquadro.it, Archivio gare ufficiali 2025 (Gara Femminile - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -294,14 +312,15 @@ level: squadre
 
 > Andrea Macco Tiles There are eight tiles in a row: two of them have the number 1 drawn on them; two have the number 2; two have the number 3; the last two have the number 4. Two tiles bearing the same number k are exactly k tiles apart (the two tiles bearing the number k are not included). The first tile from the left has a number greater than the number on the last tile from the left. What is the arrangement of the tiles in the row? [Give as the answer the numbers on the first 4 tiles from the left.]
 
-**Topic:** [[topic_combinatoria|Combinatorics]]
+
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_logica|Logic, games and strategies]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]], [[skill_lettura_attenta|Careful reading of the text]]
 **Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
-[[Quesiti/src_squadre_2025_femminile_qualif#q07|src_squadre_2025_femminile_qualif__Q07]]
 
 
-
-<span class="atom-split" id="q08" data-atom="q08" data-title="Quesito 8" data-tags="topic_geometria_solida,topic_geometria_piana"></span>
+<span class="atom-split" id="q08" data-atom="q08" data-title="Quesito 8" data-tags="topic_geometria_solida,topic_geometria_piana,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -325,9 +344,10 @@ level: squadre
 > mm?
 
 **Topic:** [[topic_geometria_solida|Geometria solida]], [[topic_geometria_piana|Geometria piana]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 **Risposta:** 6656
-**Fonte:** apri PDF p.2 · phiquadro.it, Archivio gare ufficiali 2025 (Gara Femminile - Qualificazione)
+**Fonte:** [apri PDF p.2](https://www.phiquadro.it/archivio/2025_24%20gennaio%20-%20Ga.pdf#page=2) · phiquadro.it, Archivio gare ufficiali 2025 (Gara Femminile - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -339,14 +359,14 @@ level: squadre
 
 > The Shadow of the Cube Benedetta Demoro A cube casts a hexagonal shadow. Chiara notes that the hexagon is obtained by joining, along their longer bases, two identical isosceles trapezoids whose non-parallel sides are as long as the edge of the cube. Chiara also notes that the angle between two non-parallel sides is a right angle. Finally, she measures the perimeter of the hexagon: it is equal to the perimeter of the cube—that is, the sum of all its edges. She then calculates the area of the hexagon and the volume of the cube, and notes that their values, expressed in m² and m³, are equal. How long is the edge of the cube in mm?
 
+
 **Topic:** [[topic_geometria_solida|Solid geometry]], [[topic_geometria_piana|Plane geometry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
 **Area:** [[Geometria|Geometry]]
 
-[[Quesiti/src_squadre_2025_femminile_qualif#q08|src_squadre_2025_femminile_qualif__Q08]]
 
 
-
-<span class="atom-split" id="q09" data-atom="q09" data-title="Quesito 9" data-tags=""></span>
+<span class="atom-split" id="q09" data-atom="q09" data-title="Quesito 9" data-tags="topic_aritmetica,method_congruenze,skill_modellizzazione,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -365,8 +385,12 @@ level: squadre
 > Quante bottigliette di acqua sono state
 > acquistate?
 
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta del testo]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 0053
-**Fonte:** apri PDF p.2 · phiquadro.it, Archivio gare ufficiali 2025 (Gara Femminile - Qualificazione)
+**Fonte:** [apri PDF p.2](https://www.phiquadro.it/archivio/2025_24%20gennaio%20-%20Ga.pdf#page=2) · phiquadro.it, Archivio gare ufficiali 2025 (Gara Femminile - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -378,11 +402,14 @@ level: squadre
 
 > All Finals Lorenzo Mazza The organizers of the team finals in Cesenatico buy water bottles, books, and candies for the competitors—a total of 130 items—for 130 euros. Two candies cost 0.75€, each water bottle costs 1€, and each book costs 10€. How many water bottles were purchased?
 
-[[Quesiti/src_squadre_2025_femminile_qualif#q09|src_squadre_2025_femminile_qualif__Q09]]
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]], [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_lettura_attenta|Careful reading of the text]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
 
 
-<span class="atom-split" id="q10" data-atom="q10" data-title="Quesito 10" data-tags="topic_geometria_piana"></span>
+<span class="atom-split" id="q10" data-atom="q10" data-title="Quesito 10" data-tags="topic_geometria_piana,topic_combinatoria,method_casi_conteggio,skill_conteggio_sistematico,skill_ragionamento_geometrico"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -398,10 +425,12 @@ level: squadre
 > pentagono regolare, quanti differenti triangoli si
 > individuano avendo tracciato tutte le diagonali?
 
-**Topic:** [[topic_geometria_piana|Geometria piana]]
-**Area:** [[Geometria]]
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casi_conteggio|Conteggio per casi]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Geometria]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0035
-**Fonte:** apri PDF p.3 · phiquadro.it, Archivio gare ufficiali 2025 (Gara Femminile - Qualificazione)
+**Fonte:** [apri PDF p.3](https://www.phiquadro.it/archivio/2025_24%20gennaio%20-%20Ga.pdf#page=3) · phiquadro.it, Archivio gare ufficiali 2025 (Gara Femminile - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -413,14 +442,15 @@ level: squadre
 
 > Diagonals Andrea Macco If the diagonals of an isosceles trapezoid are drawn, a total of 8 different triangles can be identified. If, on the other hand, a regular pentagon is used, how many different triangles are identified after all the diagonals have been drawn?
 
-**Topic:** [[topic_geometria_piana|Plane geometry]]
-**Area:** [[Geometria|Geometry]]
 
-[[Quesiti/src_squadre_2025_femminile_qualif#q10|src_squadre_2025_femminile_qualif__Q10]]
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_casi_conteggio|Counting by cases]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]], [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
 
 
-<span class="atom-split" id="q11" data-atom="q11" data-title="Quesito 11" data-tags="topic_aritmetica"></span>
+<span class="atom-split" id="q11" data-atom="q11" data-title="Quesito 11" data-tags="topic_aritmetica,method_congruenze,skill_riconoscimento_pattern,skill_conteggio_sistematico"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -435,9 +465,11 @@ level: squadre
 > perfetti?
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 0022
-**Fonte:** apri PDF p.3 · phiquadro.it, Archivio gare ufficiali 2025 (Gara Femminile - Qualificazione)
+**Fonte:** [apri PDF p.3](https://www.phiquadro.it/archivio/2025_24%20gennaio%20-%20Ga.pdf#page=3) · phiquadro.it, Archivio gare ufficiali 2025 (Gara Femminile - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -449,14 +481,15 @@ level: squadre
 
 > Prime and Perfect: Lorenzo Mazza. How many prime numbers less than 200 can be written as the sum of two perfect squares?
 
+
 **Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]]
+**Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]], [[skill_conteggio_sistematico|Systematic counting]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
-[[Quesiti/src_squadre_2025_femminile_qualif#q11|src_squadre_2025_femminile_qualif__Q11]]
 
 
-
-<span class="atom-split" id="q12" data-atom="q12" data-title="Quesito 12" data-tags="topic_geometria_piana"></span>
+<span class="atom-split" id="q12" data-atom="q12" data-title="Quesito 12" data-tags="topic_geometria_piana,method_simmetria,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -478,9 +511,11 @@ level: squadre
 > [Dare come risposta moltiplicato per 1000.]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_simmetria|Sfruttamento della simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 **Risposta:** 2000
-**Fonte:** apri PDF p.3 · phiquadro.it, Archivio gare ufficiali 2025 (Gara Femminile - Qualificazione)
+**Fonte:** [apri PDF p.3](https://www.phiquadro.it/archivio/2025_24%20gennaio%20-%20Ga.pdf#page=3) · phiquadro.it, Archivio gare ufficiali 2025 (Gara Femminile - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -492,14 +527,15 @@ level: squadre
 
 > The Folded Sheet Lorenzo Mazza A rectangular sheet ABCD is folded, bringing vertex C onto vertex A along segment HK, where H is a point on AB and K is a point on CD. The non-overlapping region of the sheet (consisting of two triangles) has an area equal to 25% of the initial area of the sheet. What is the ratio of the area of the square constructed on segment AB to the area of the square constructed on segment BC? [Give your answer multiplied by 1000.]
 
+
 **Topic:** [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_simmetria|Using symmetry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
 **Area:** [[Geometria|Geometry]]
 
-[[Quesiti/src_squadre_2025_femminile_qualif#q12|src_squadre_2025_femminile_qualif__Q12]]
 
 
-
-<span class="atom-split" id="q13" data-atom="q13" data-title="Quesito 13" data-tags=""></span>
+<span class="atom-split" id="q13" data-atom="q13" data-title="Quesito 13" data-tags="topic_algebra,method_fattorizzazione,skill_modellizzazione,skill_lettura_attenta,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -524,8 +560,12 @@ level: squadre
 > secondi dall’apertura iniziale trascorrono fino ad
 > avere entrambe le cisterne vuote?
 
+**Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_lettura_attenta|Lettura attenta del testo]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Algebra e Analisi]]
 **Risposta:** 2400
-**Fonte:** apri PDF p.3 · phiquadro.it, Archivio gare ufficiali 2025 (Gara Femminile - Qualificazione)
+**Fonte:** [apri PDF p.3](https://www.phiquadro.it/archivio/2025_24%20gennaio%20-%20Ga.pdf#page=3) · phiquadro.it, Archivio gare ufficiali 2025 (Gara Femminile - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -537,11 +577,14 @@ level: squadre
 
 > Cisterns Andrea Macco Two identical cisterns are completely full of water. Each of them has two taps: one large and one small. From each tap, water flows at a constant rate. If only the large tap is opened, the cistern empties in 30 minutes; if only the small tap is opened, the cistern empties in one hour. The large tap of one cistern and the small tap of the other cistern are opened at the same time. As soon as one of the two cisterns has emptied, the second tap on the cistern that is still partially full is also opened. How many seconds elapse from the initial opening until both cisterns are empty?
 
-[[Quesiti/src_squadre_2025_femminile_qualif#q13|src_squadre_2025_femminile_qualif__Q13]]
+**Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]], [[skill_lettura_attenta|Careful reading of the text]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
 
 
 
-<span class="atom-split" id="q14" data-atom="q14" data-title="Quesito 14" data-tags="topic_aritmetica"></span>
+<span class="atom-split" id="q14" data-atom="q14" data-title="Quesito 14" data-tags="topic_aritmetica,topic_algebra,method_fattorizzazione,method_casework,skill_manipolazione_algebrica,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -556,10 +599,12 @@ level: squadre
 > che il più grande è 20 volte il più piccolo, qual è
 > la somma dei tre fattori usati da Cecilia?
 
-**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Area:** [[Aritmetica e Teoria dei Numeri]]
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]], [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 **Risposta:** 0119
-**Fonte:** apri PDF p.3 · phiquadro.it, Archivio gare ufficiali 2025 (Gara Femminile - Qualificazione)
+**Fonte:** [apri PDF p.3](https://www.phiquadro.it/archivio/2025_24%20gennaio%20-%20Ga.pdf#page=3) · phiquadro.it, Archivio gare ufficiali 2025 (Gara Femminile - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -571,14 +616,15 @@ level: squadre
 
 > The product Lorenzo Mazza Cecilia is the product of three distinct positive integers, and it turns out to be 11200. Given that the largest is 20 times the smallest, what is the sum of the three factors used by Cecilia?
 
-**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
-**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
-[[Quesiti/src_squadre_2025_femminile_qualif#q14|src_squadre_2025_femminile_qualif__Q14]]
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]], [[method_casework|Case analysis]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Algebra e Analisi|Algebra and analysis]]
 
 
 
-<span class="atom-split" id="q15" data-atom="q15" data-title="Quesito 15" data-tags="topic_geometria_piana"></span>
+<span class="atom-split" id="q15" data-atom="q15" data-title="Quesito 15" data-tags="topic_geometria_piana,skill_ragionamento_geometrico,skill_lettura_attenta"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -602,9 +648,10 @@ level: squadre
 > inizialmente sulla lavagna?
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta del testo]]
 **Area:** [[Geometria]]
 **Risposta:** 0036
-**Fonte:** apri PDF p.3 · phiquadro.it, Archivio gare ufficiali 2025 (Gara Femminile - Qualificazione)
+**Fonte:** [apri PDF p.3](https://www.phiquadro.it/archivio/2025_24%20gennaio%20-%20Ga.pdf#page=3) · phiquadro.it, Archivio gare ufficiali 2025 (Gara Femminile - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -616,14 +663,14 @@ level: squadre
 
 > On the blackboard, Andrea Macco Pietro draws a square and a point inside it. "If I join this point to all the vertices, four triangles are formed." Everyone nods. Pietro, pointing to one of the four triangles, says, "The area of this triangle is 500 cm², and none of the other triangles has a larger area than this one." Everyone takes notes; Pietro points to another triangle: "The area of this triangle is 148 cm², and none of the other triangles has a smaller area than this one." What is the length, in centimeters, of the side of the square initially drawn on the blackboard?
 
+
 **Topic:** [[topic_geometria_piana|Plane geometry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_lettura_attenta|Careful reading of the text]]
 **Area:** [[Geometria|Geometry]]
 
-[[Quesiti/src_squadre_2025_femminile_qualif#q15|src_squadre_2025_femminile_qualif__Q15]]
 
 
-
-<span class="atom-split" id="q16" data-atom="q16" data-title="Quesito 16" data-tags="topic_probabilita"></span>
+<span class="atom-split" id="q16" data-atom="q16" data-title="Quesito 16" data-tags="topic_probabilita,topic_aritmetica,method_casi_conteggio,method_fattorizzazione,skill_conteggio_sistematico"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -640,10 +687,12 @@ level: squadre
 > [Dare come risposta la probabilità moltiplicata
 > per 10000.]
 
-**Topic:** [[topic_probabilita|Probabilita e statistica]]
-**Area:** [[Combinatoria, Logica e Probabilita]]
+**Topic:** [[topic_probabilita|Probabilita e statistica]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casi_conteggio|Conteggio per casi]], [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 0578
-**Fonte:** apri PDF p.3 · phiquadro.it, Archivio gare ufficiali 2025 (Gara Femminile - Qualificazione)
+**Fonte:** [apri PDF p.3](https://www.phiquadro.it/archivio/2025_24%20gennaio%20-%20Ga.pdf#page=3) · phiquadro.it, Archivio gare ufficiali 2025 (Gara Femminile - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -655,14 +704,15 @@ level: squadre
 
 > Sandro Campigotto's Drawing The numbers from 1 to 20 are in a bag. Luca draws a number, and then Claudia draws another. What is the probability that the product of the two numbers drawn is a perfect square? [Give as the answer the probability multiplied by 10000.]
 
-**Topic:** [[topic_probabilita|Probability and statistics]]
-**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
-[[Quesiti/src_squadre_2025_femminile_qualif#q16|src_squadre_2025_femminile_qualif__Q16]]
+**Topic:** [[topic_probabilita|Probability and statistics]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_casi_conteggio|Counting by cases]], [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
 
 
-<span class="atom-split" id="q17" data-atom="q17" data-title="Quesito 17" data-tags="topic_combinatoria"></span>
+<span class="atom-split" id="q17" data-atom="q17" data-title="Quesito 17" data-tags="topic_combinatoria,topic_aritmetica,method_fattorizzazione,method_inclusione_esclusione,skill_conteggio_sistematico"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -677,10 +727,12 @@ level: squadre
 > 2025 e che il massimo comun divisore dei
 > quattro numeri a, b, c e d sia 1?
 
-**Topic:** [[topic_combinatoria|Combinatoria]]
-**Area:** [[Combinatoria, Logica e Probabilita]]
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]], [[method_inclusione_esclusione|Inclusione-esclusione]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 0340
-**Fonte:** apri PDF p.3 · phiquadro.it, Archivio gare ufficiali 2025 (Gara Femminile - Qualificazione)
+**Fonte:** [apri PDF p.3](https://www.phiquadro.it/archivio/2025_24%20gennaio%20-%20Ga.pdf#page=3) · phiquadro.it, Archivio gare ufficiali 2025 (Gara Femminile - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -692,14 +744,15 @@ level: squadre
 
 > In 2025, Leonardo Cimino: How many ordered quadruples (a, b, c, d) of natural numbers are there such that their product is 2025 and the greatest common divisor of the four numbers a, b, c, and d is 1?
 
-**Topic:** [[topic_combinatoria|Combinatorics]]
-**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
-[[Quesiti/src_squadre_2025_femminile_qualif#q17|src_squadre_2025_femminile_qualif__Q17]]
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]], [[method_inclusione_esclusione|Inclusion–exclusion]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
 
 
-<span class="atom-split" id="q18" data-atom="q18" data-title="Quesito 18" data-tags="topic_geometria_solida"></span>
+<span class="atom-split" id="q18" data-atom="q18" data-title="Quesito 18" data-tags="topic_geometria_solida,method_coordinate,skill_ragionamento_geometrico"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -716,9 +769,11 @@ level: squadre
 > era l’area del quadrilatero?
 
 **Topic:** [[topic_geometria_solida|Geometria solida]]
+**Metodo:** [[method_coordinate|Metodo delle coordinate]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]]
 **Risposta:** 0450
-**Fonte:** apri PDF p.3 · phiquadro.it, Archivio gare ufficiali 2025 (Gara Femminile - Qualificazione)
+**Fonte:** [apri PDF p.3](https://www.phiquadro.it/archivio/2025_24%20gennaio%20-%20Ga.pdf#page=3) · phiquadro.it, Archivio gare ufficiali 2025 (Gara Femminile - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -730,14 +785,15 @@ level: squadre
 
 > The Cut Cube – Sandro Campigotto By cutting a cube with an edge length of 20 cm with a plane that passes through two opposite vertices of one face and through the midpoints of two adjacent edges of the opposite face, a quadrilateral is obtained. What was the area of the quadrilateral?
 
+
 **Topic:** [[topic_geometria_solida|Solid geometry]]
+**Metodo:** [[method_coordinate|Coordinate method]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
 **Area:** [[Geometria|Geometry]]
 
-[[Quesiti/src_squadre_2025_femminile_qualif#q18|src_squadre_2025_femminile_qualif__Q18]]
 
 
-
-<span class="atom-split" id="q19" data-atom="q19" data-title="Quesito 19" data-tags="topic_aritmetica"></span>
+<span class="atom-split" id="q19" data-atom="q19" data-title="Quesito 19" data-tags="topic_aritmetica,method_congruenze,method_casework,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -753,9 +809,11 @@ level: squadre
 > massimo che può assumere n?
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]], [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 0003
-**Fonte:** apri PDF p.3 · phiquadro.it, Archivio gare ufficiali 2025 (Gara Femminile - Qualificazione)
+**Fonte:** [apri PDF p.3](https://www.phiquadro.it/archivio/2025_24%20gennaio%20-%20Ga.pdf#page=3) · phiquadro.it, Archivio gare ufficiali 2025 (Gara Femminile - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -767,14 +825,15 @@ level: squadre
 
 > A long tail by Lorenzo Mazza A perfect square has a tail of length n if its last n digits are all equal to one another and different from zero. For example, 8^2 = 64 has a tail of length 1. What is the maximum value that n can take?
 
+
 **Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]], [[method_casework|Case analysis]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
-[[Quesiti/src_squadre_2025_femminile_qualif#q19|src_squadre_2025_femminile_qualif__Q19]]
 
 
-
-<span class="atom-split" id="q20" data-atom="q20" data-title="Quesito 20" data-tags="topic_aritmetica"></span>
+<span class="atom-split" id="q20" data-atom="q20" data-title="Quesito 20" data-tags="topic_aritmetica,method_inclusione_esclusione,skill_conteggio_sistematico"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -790,9 +849,11 @@ level: squadre
 > sono i numeri imperfetti minori di 1000?
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_inclusione_esclusione|Inclusione-esclusione]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 0404
-**Fonte:** apri PDF p.3 · phiquadro.it, Archivio gare ufficiali 2025 (Gara Femminile - Qualificazione)
+**Fonte:** [apri PDF p.3](https://www.phiquadro.it/archivio/2025_24%20gennaio%20-%20Ga.pdf#page=3) · phiquadro.it, Archivio gare ufficiali 2025 (Gara Femminile - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -804,14 +865,15 @@ level: squadre
 
 > Imperfect Numbers Sandro Campigotto A positive integer is called imperfect if neither it nor its double is divisible by any perfect square greater than 1. How many imperfect numbers are less than 1000?
 
+
 **Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_inclusione_esclusione|Inclusion–exclusion]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
-[[Quesiti/src_squadre_2025_femminile_qualif#q20|src_squadre_2025_femminile_qualif__Q20]]
 
 
-
-<span class="atom-split" id="q21" data-atom="q21" data-title="Quesito 21" data-tags="topic_probabilita,topic_logica"></span>
+<span class="atom-split" id="q21" data-atom="q21" data-title="Quesito 21" data-tags="topic_probabilita,topic_logica,topic_combinatoria,method_conteggio,method_casi_conteggio,skill_conteggio_sistematico"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -832,10 +894,12 @@ level: squadre
 > numeratore e denominatore della frazione ridotta
 > ai minimi termini.]
 
-**Topic:** [[topic_probabilita|Probabilita e statistica]], [[topic_logica|Logica, giochi, strategie]]
+**Topic:** [[topic_probabilita|Probabilita e statistica]], [[topic_logica|Logica, giochi, strategie]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_conteggio|Conteggio combinatorio]], [[method_casi_conteggio|Conteggio per casi]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 1037
-**Fonte:** apri PDF p.3 · phiquadro.it, Archivio gare ufficiali 2025 (Gara Femminile - Qualificazione)
+**Fonte:** [apri PDF p.3](https://www.phiquadro.it/archivio/2025_24%20gennaio%20-%20Ga.pdf#page=3) · phiquadro.it, Archivio gare ufficiali 2025 (Gara Femminile - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -847,7 +911,8 @@ level: squadre
 
 > The Edi Rosset deck of cards Consider a deck of 40 playing cards (numbered from 1 to 10 for each of the 4 suits, namely hearts, diamonds, clubs, and spades). Let p_1 be the probability that, when 10 cards are drawn from the deck, all numbers from 1 to 10 are drawn. Let p_2 be the probability that, when 12 cards are drawn from the deck, all numbers from 1 to 10 are drawn. What is the ratio p_2/p_1? [Give as the answer the sum of the numerator and denominator of the fraction reduced to lowest terms.]
 
-**Topic:** [[topic_probabilita|Probability and statistics]], [[topic_logica|Logic, games and strategies]]
-**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
-[[Quesiti/src_squadre_2025_femminile_qualif#q21|src_squadre_2025_femminile_qualif__Q21]]
+**Topic:** [[topic_probabilita|Probability and statistics]], [[topic_logica|Logic, games and strategies]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_conteggio|Combinatorial counting]], [[method_casi_conteggio|Counting by cases]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]

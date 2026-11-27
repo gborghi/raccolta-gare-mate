@@ -10,7 +10,7 @@ level: CAMP Selection Camp
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_algebra,topic_aritmetica,method_ricorsione,method_induzione,skill_manipolazione_algebrica,skill_riconoscimento_pattern,skill_lettura_attenta"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_algebra,topic_aritmetica,topic_funzionali,method_ricorsione,method_induzione,skill_manipolazione_algebrica,skill_riconoscimento_pattern,skill_lettura_attenta"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -21,10 +21,10 @@ level: CAMP Selection Camp
 > $$a_{n+c} = 2a_{n+1} - a_n$$
 > holds. Find all such sequences (determine all sequences for which a suitable $c$ exists).
 
-**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_funzionali|Functional equations / sequences]]
 **Metodo:** [[method_ricorsione|Ricorsione]], [[method_induzione|Induzione]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_lettura_attenta|Lettura attenta]]
-**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1PL_Bn-4WncGMxFABFvS--QrLAcF9eVC7/view)
 
 > [!warning] Estratto da scansione giapponese a bassa risoluzione — enunciato tradotto da verificare con la fonte.
@@ -41,12 +41,11 @@ level: CAMP Selection Camp
 
 > [!warning] Estratto da una scansione giapponese a bassa risoluzione — l'enunciato tradotto va verificato con la fonte.
 
-**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_funzionali|Equazioni funzionali / successioni]]
 **Metodo:** [[method_ricorsione|Ricorsione]], [[method_induzione|Induzione]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
-
-[[Quesiti/src_selection_camp_2024#q01|src_selection_camp_2024__Q01]]
 
 
 
@@ -59,7 +58,7 @@ level: CAMP Selection Camp
 
 > Let $ABC$ be an isosceles triangle with $AB = AC$. Let $D$ be the intersection of the bisector of $\angle BAC$ with side $BC$, and let $E$ be the reflection of $D$ across side $BC$. Let $F$ be a point on segment $AC$. The line through $A$ parallel to $BC$ meets line $DF$ at a point $G$. Let $P$ be the intersection of line $AB$ with line $FG$, and let $Q$ be the intersection of line $EP$ with line $FQ$ (as constructed in the figure). Lines $EP$ and $FQ$ determine points $K$, $R$, $S$, and the circumcircle of triangle $KRS$ meets a further point $X$ (with $X \neq K$). Prove that $\angle BXP = \angle CXQ$.
 
-![[src_selection_camp_2024__q02.png]]
+![[src_selection_camp_2024__Q02.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_simmetria|Simmetria]], [[method_trigonometria|Trigonometria]]
@@ -77,7 +76,7 @@ level: CAMP Selection Camp
 
 > Sia $ABC$ un triangolo isoscele con $AB = AC$. Sia $D$ l'intersezione della bisettrice di $\angle BAC$ con il lato $BC$, e sia $E$ il riflesso di $D$ rispetto al lato $BC$. Sia $F$ un punto sul segmento $AC$. La retta passante per $A$ e parallela a $BC$ incontra la retta $DF$ in un punto $G$. Sia $P$ l'intersezione della retta $AB$ con la retta $FG$, e sia $Q$ l'intersezione della retta $EP$ con la retta $FQ$ (come costruito nella figura). Le rette $EP$ e $FQ$ determinano i punti $K$, $R$, $S$, e la circonferenza circoscritta al triangolo $KRS$ incontra un ulteriore punto $X$ (con $X \neq K$). Dimostrare che $\angle BXP = \angle CXQ$.
 
-![[src_selection_camp_2024__q02.png]]
+![[src_selection_camp_2024__Q02.png]]
 
 > [!warning] Estratto da una scansione giapponese a bassa risoluzione — l'enunciato tradotto va verificato con la fonte.
 
@@ -86,11 +85,9 @@ level: CAMP Selection Camp
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Geometria]]
 
-[[Quesiti/src_selection_camp_2024#q02|src_selection_camp_2024__Q02]]
 
 
-
-<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_combinatoria,method_grafi,method_estremalita,skill_modellizzazione,skill_conteggio_sistematico"></span>
+<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_combinatoria,method_grafi,method_estremalita,method_conteggio,skill_modellizzazione,skill_conteggio_sistematico"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -100,9 +97,9 @@ level: CAMP Selection Camp
 > Let $n$ be an integer with $n \ge 2$. There are $n$ islands $I_1, I_2, \ldots, I_n$, and for each pair of distinct islands there is exactly one bridge (road) connecting them, usable in both directions. Each road is managed by exactly one of several road companies. The roads are managed so that one can travel between any two islands using only roads of a single company. Suppose that, for any road company, there is a permutation $p(1), p(2), \ldots, p(n)$ of $1, 2, \ldots, n$ such that that company manages exactly the roads joining $I_{p(i)}$ and $I_{p(i+1)}$ for $i = 1, 2, \ldots, n-1$ (i.e. each company's roads form a Hamiltonian path on the $n$ islands). Determine the maximum possible number of road companies. Here a permutation $p(1), p(2), \ldots, p(n)$ of $1, 2, \ldots, n$ means each integer from $1$ to $n$ appears exactly once.
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
-**Metodo:** [[method_grafi|Grafi]], [[method_estremalita|Estremalità]]
+**Metodo:** [[method_grafi|Grafi]], [[method_estremalita|Estremalità]], [[method_conteggio|Combinatorial counting]]
 **Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_conteggio_sistematico|Conteggio sistematico]]
-**Area:** [[Combinatoria, Logica e Probabilita]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1PL_Bn-4WncGMxFABFvS--QrLAcF9eVC7/view)
 
 > [!warning] Estratto da scansione giapponese a bassa risoluzione — enunciato tradotto da verificare con la fonte.
@@ -117,12 +114,11 @@ level: CAMP Selection Camp
 
 > [!warning] Estratto da una scansione giapponese a bassa risoluzione — l'enunciato tradotto va verificato con la fonte.
 
+
 **Topic:** [[topic_combinatoria|Combinatoria]]
-**Metodo:** [[method_grafi|Grafi]], [[method_estremalita|Estremalità]]
+**Metodo:** [[method_grafi|Grafi]], [[method_estremalita|Estremalità]], [[method_conteggio|Conteggio combinatorio]]
 **Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
-
-[[Quesiti/src_selection_camp_2024#q03|src_selection_camp_2024__Q03]]
 
 
 
@@ -135,7 +131,7 @@ level: CAMP Selection Camp
 
 > Let $ABC$ be a triangle with $AB < AC$, with circumcircle $\Omega$, and let $\Gamma$ be a circle of radius $r$. Let $P$ be the point with $AB = AP$ on the appropriate side, and let $D$ be the second intersection of line $PB$ with $\Omega$ (other than $B$). From $P$ drop the perpendicular to line $BC$ with foot $H$. Let $Q$ be the point on line $HP$ with $QH = r$, so that $H$, $P$, $Q$ lie on line $HP$ in this order. Let $X$ and $Y$ be the resulting intersection points (as constructed in the figure), with the feet of perpendiculars to lines $DQ$ and $AQ$. Prove the stated concurrency/coincidence and find the length of segment $XY$.
 
-![[src_selection_camp_2024__q04.png]]
+![[src_selection_camp_2024__Q04.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_trigonometria|Trigonometria]], [[method_coordinate|Coordinate]]
@@ -153,7 +149,7 @@ level: CAMP Selection Camp
 
 > Sia $ABC$ un triangolo con $AB < AC$, con circonferenza circoscritta $\Omega$, e sia $\Gamma$ una circonferenza di raggio $r$. Sia $P$ il punto con $AB = AP$ sul lato appropriato, e sia $D$ il secondo punto d'intersezione della retta $PB$ con $\Omega$ (diverso da $B$). Da $P$ si abbassi la perpendicolare alla retta $BC$, con piede $H$. Sia $Q$ il punto sulla retta $HP$ con $QH = r$, in modo che $H$, $P$, $Q$ giacciano sulla retta $HP$ in questo ordine. Siano $X$ e $Y$ i punti d'intersezione risultanti (come costruiti nella figura), con i piedi delle perpendicolari alle rette $DQ$ e $AQ$. Dimostrare la concorrenza/coincidenza affermata e trovare la lunghezza del segmento $XY$.
 
-![[src_selection_camp_2024__q04.png]]
+![[src_selection_camp_2024__Q04.png]]
 
 > [!warning] Estratto da una scansione giapponese a bassa risoluzione — l'enunciato tradotto va verificato con la fonte.
 
@@ -162,11 +158,9 @@ level: CAMP Selection Camp
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Geometria]]
 
-[[Quesiti/src_selection_camp_2024#q04|src_selection_camp_2024__Q04]]
 
 
-
-<span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_funzionali,topic_insiemi_funzioni,method_induzione,method_casework,skill_manipolazione_algebrica,skill_astrazione,skill_lettura_attenta"></span>
+<span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_funzionali,topic_insiemi_funzioni,topic_aritmetica,method_induzione,method_casework,skill_manipolazione_algebrica,skill_astrazione,skill_lettura_attenta,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -177,10 +171,10 @@ level: CAMP Selection Camp
 > $$f^{\,b\,f(a)}(a+1) = (a+1)\,f(b)$$
 > holds, where $f^{k}(n)$ denotes the $k$-fold iterate $\underbrace{f(f(\cdots f(n)\cdots))}_{k}$ ($f$ applied $k$ times).
 
-**Topic:** [[topic_funzionali|Equazioni funzionali]], [[topic_insiemi_funzioni|Insiemi e funzioni]]
+**Topic:** [[topic_funzionali|Equazioni funzionali]], [[topic_insiemi_funzioni|Insiemi e funzioni]], [[topic_aritmetica|Arithmetic / Number theory]]
 **Metodo:** [[method_induzione|Induzione]], [[method_casework|Casework]]
-**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]], [[skill_lettura_attenta|Lettura attenta]]
-**Area:** [[Algebra e Analisi]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]], [[skill_lettura_attenta|Lettura attenta]], [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1PL_Bn-4WncGMxFABFvS--QrLAcF9eVC7/view)
 
 > [!warning] Estratto da scansione giapponese a bassa risoluzione — enunciato tradotto da verificare con la fonte.
@@ -197,12 +191,11 @@ level: CAMP Selection Camp
 
 > [!warning] Estratto da una scansione giapponese a bassa risoluzione — l'enunciato tradotto va verificato con la fonte.
 
-**Topic:** [[topic_funzionali|Equazioni funzionali]], [[topic_insiemi_funzioni|Insiemi e funzioni]]
-**Metodo:** [[method_induzione|Induzione]], [[method_casework|Casework]]
-**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]], [[skill_lettura_attenta|Lettura attenta]]
-**Area:** [[Algebra e Analisi]]
 
-[[Quesiti/src_selection_camp_2024#q05|src_selection_camp_2024__Q05]]
+**Topic:** [[topic_funzionali|Equazioni funzionali]], [[topic_insiemi_funzioni|Insiemi e funzioni]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_induzione|Induzione]], [[method_casework|Casework]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]], [[skill_lettura_attenta|Lettura attenta]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 
 
 
@@ -239,8 +232,6 @@ level: CAMP Selection Camp
 **Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_casework|Casework]], [[method_congruenze|Congruenze]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Casework accurato]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
-
-[[Quesiti/src_selection_camp_2024#q06|src_selection_camp_2024__Q06]]
 
 
 
@@ -285,8 +276,6 @@ level: CAMP Selection Camp
 **Abilita:** [[skill_stima|Stima]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 
-[[Quesiti/src_selection_camp_2024#q07|src_selection_camp_2024__Q07]]
-
 
 
 <span class="atom-split" id="q08" data-atom="q08" data-title="Quesito 8" data-tags="topic_funzionali,topic_aritmetica,method_fattorizzazione,method_casework,skill_manipolazione_algebrica,skill_astrazione,skill_lettura_attenta"></span>
@@ -325,8 +314,6 @@ level: CAMP Selection Camp
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 
-[[Quesiti/src_selection_camp_2024#q08|src_selection_camp_2024__Q08]]
-
 
 
 <span class="atom-split" id="q09" data-atom="q09" data-title="Quesito 9" data-tags="topic_combinatoria,topic_disuguaglianze,method_estremalita,method_disuguaglianze,skill_stima,skill_manipolazione_algebrica"></span>
@@ -364,8 +351,6 @@ level: CAMP Selection Camp
 **Metodo:** [[method_estremalita|Estremalità]], [[method_disuguaglianze|Disuguaglianze]]
 **Abilita:** [[skill_stima|Stima]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Algebra e Analisi]]
-
-[[Quesiti/src_selection_camp_2024#q09|src_selection_camp_2024__Q09]]
 
 
 
@@ -410,11 +395,9 @@ level: CAMP Selection Camp
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 
-[[Quesiti/src_selection_camp_2024#q10|src_selection_camp_2024__Q10]]
 
 
-
-<span class="atom-split" id="q11" data-atom="q11" data-title="Quesito 11" data-tags="topic_combinatoria,topic_aritmetica,method_congruenze,method_estremalita,method_conteggio,skill_conteggio_sistematico,skill_casework_accurato,skill_manipolazione_algebrica"></span>
+<span class="atom-split" id="q11" data-atom="q11" data-title="Quesito 11" data-tags="topic_combinatoria,topic_aritmetica,method_congruenze,method_estremalita,method_conteggio,method_casework,skill_conteggio_sistematico,skill_casework_accurato,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -426,9 +409,9 @@ level: CAMP Selection Camp
 > Determine the maximum possible number of pairs $(i, j)$, with $1 \le i \le n$ and $1 \le j \le n-1$, such that $a_{i,j+1} = a_{i,j} + 1$.
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_congruenze|Congruenze]], [[method_estremalita|Estremalità]], [[method_conteggio|Conteggio]]
+**Metodo:** [[method_congruenze|Congruenze]], [[method_estremalita|Estremalità]], [[method_conteggio|Conteggio]], [[method_casework|Case analysis]]
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
-**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1PL_Bn-4WncGMxFABFvS--QrLAcF9eVC7/view)
 
 > [!warning] Estratto da scansione giapponese a bassa risoluzione — enunciato tradotto da verificare con la fonte.
@@ -445,12 +428,11 @@ level: CAMP Selection Camp
 
 > [!warning] Estratto da una scansione giapponese a bassa risoluzione — l'enunciato tradotto va verificato con la fonte.
 
+
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_congruenze|Congruenze]], [[method_estremalita|Estremalità]], [[method_conteggio|Conteggio]]
+**Metodo:** [[method_congruenze|Congruenze]], [[method_estremalita|Estremalità]], [[method_conteggio|Conteggio]], [[method_casework|Analisi per casi]]
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
-
-[[Quesiti/src_selection_camp_2024#q11|src_selection_camp_2024__Q11]]
 
 
 
@@ -485,5 +467,3 @@ level: CAMP Selection Camp
 **Metodo:** [[method_simmetria|Simmetria]], [[method_trigonometria|Trigonometria]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
-
-[[Quesiti/src_selection_camp_2024#q12|src_selection_camp_2024__Q12]]

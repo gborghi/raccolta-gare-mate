@@ -19,7 +19,7 @@ level: RMO
 
 > Let $ABC$ be an acute-angled triangle and suppose $\angle ABC$ is the largest angle of the triangle. Let $R$ be its circumcentre. Suppose the circumcircle of triangle $ARB$ cuts $AC$ again in $X$. Prove that $RX$ is perpendicular to $BC$.
 
-![[src_rmo_2014_r3__q01.png]]
+![[src_rmo_2014_r3__Q01.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
@@ -34,17 +34,15 @@ level: RMO
 
 > Sia $ABC$ un triangolo acutangolo e si supponga che $\angle ABC$ sia il suo angolo maggiore. Sia $R$ il suo circocentro. Si supponga che la circonferenza circoscritta al triangolo $ARB$ intersechi nuovamente $AC$ in $X$. Dimostrare che $RX$ è perpendicolare a $BC$.
 
-![[src_rmo_2014_r3__q01.png]]
+![[src_rmo_2014_r3__Q01.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 
-[[Quesiti/src_rmo_2014_r3#q01|src_rmo_2014_r3__Q01]]
 
 
-
-<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_algebra,topic_disuguaglianze,method_disuguaglianze,skill_manipolazione_algebrica,skill_ragionamento_geometrico"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_algebra,topic_disuguaglianze,method_disuguaglianze,method_fattorizzazione,skill_manipolazione_algebrica,skill_ragionamento_geometrico"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -55,9 +53,9 @@ level: RMO
 > $$x^2 + 2y^2 + \frac{1}{2} \le x(2y + 1).$$
 
 **Topic:** [[topic_algebra|Algebra]], [[topic_disuguaglianze|Disuguaglianze]]
-**Metodo:** [[method_disuguaglianze|Disuguaglianze]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze]], [[method_fattorizzazione|Factorisation / algebraic manipulation]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
-**Area:** [[Algebra e Analisi]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/13_r8SR8Qx6OYP_4_ONgiazaLStX1681S/view)
 
 
@@ -69,12 +67,11 @@ level: RMO
 > Trovare tutti i numeri reali $x$ e $y$ tali che
 > $$x^2 + 2y^2 + \frac{1}{2} \le x(2y + 1).$$
 
+
 **Topic:** [[topic_algebra|Algebra]], [[topic_disuguaglianze|Disuguaglianze]]
-**Metodo:** [[method_disuguaglianze|Disuguaglianze]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze]], [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Algebra e Analisi]]
-
-[[Quesiti/src_rmo_2014_r3#q02|src_rmo_2014_r3__Q02]]
 
 
 
@@ -105,8 +102,6 @@ level: RMO
 **Metodo:** [[method_congruenze|Congruenze]], [[method_fattorizzazione|Fattorizzazione]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
-
-[[Quesiti/src_rmo_2014_r3#q03|src_rmo_2014_r3__Q03]]
 
 
 
@@ -140,8 +135,6 @@ level: RMO
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Algebra e Analisi]]
 
-[[Quesiti/src_rmo_2014_r3#q04|src_rmo_2014_r3__Q04]]
-
 
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_geometria_piana,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
@@ -153,7 +146,7 @@ level: RMO
 
 > Let $ABC$ be a triangle. Let $X$ be on the segment $BC$ such that $AB = AX$. Let $AX$ meet the circumcircle $\Gamma$ of triangle $ABC$ again at $D$. Show that the circumcentre of $\triangle BDX$ lies on $\Gamma$.
 
-![[src_rmo_2014_r3__q05.png]]
+![[src_rmo_2014_r3__Q05.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
@@ -168,13 +161,11 @@ level: RMO
 
 > Sia $ABC$ un triangolo. Sia $X$ sul segmento $BC$ in modo che $AB = AX$. Sia $AX$ che incontra nuovamente la circonferenza circoscritta $\Gamma$ del triangolo $ABC$ in $D$. Dimostrare che il circocentro di $\triangle BDX$ giace su $\Gamma$.
 
-![[src_rmo_2014_r3__q05.png]]
+![[src_rmo_2014_r3__Q05.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
-
-[[Quesiti/src_rmo_2014_r3#q05|src_rmo_2014_r3__Q05]]
 
 
 
@@ -205,5 +196,3 @@ level: RMO
 **Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]]
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
-
-[[Quesiti/src_rmo_2014_r3#q06|src_rmo_2014_r3__Q06]]

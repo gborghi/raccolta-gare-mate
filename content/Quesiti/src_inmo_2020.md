@@ -10,7 +10,7 @@ level: INMO
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_geometria_piana,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_geometria_piana,method_simmetria,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -20,8 +20,9 @@ level: INMO
 > Let $\Gamma_1$ and $\Gamma_2$ be two circles of unequal radii, with centres $O_1$ and $O_2$ respectively, in the plane intersecting in two distinct points $A$ and $B$. Assume that the centre of each of the circles $\Gamma_1$ and $\Gamma_2$ is outside the other. The tangent to $\Gamma_1$ at $B$ intersects $\Gamma_2$ again in $C$, different from $B$; the tangent to $\Gamma_2$ at $B$ intersects $\Gamma_1$ again in $D$, different from $B$. The bisectors of $\angle CAB$ and $\angle DAB$ meet $\Gamma_2$ and $\Gamma_1$ again in $X$ and $Y$, respectively, different from $A$. Let $P$ and $Q$ be the circumcentres of triangles $ACD$ and $XAY$, respectively. Prove that $PQ$ is the perpendicular bisector of the line segment $O_1 O_2$.
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_simmetria|Using symmetry]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
-**Area:** [[Geometria]]
+**Area:** [[Geometria|Geometry]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1zGms2MQj8QKRPizstjU-44-Fnpo52wDY/view)
 
 
@@ -32,15 +33,15 @@ level: INMO
 
 > Siano $\Gamma_1$ e $\Gamma_2$ due circonferenze di raggi disuguali, con centri rispettivamente $O_1$ e $O_2$, nel piano, che si intersecano in due punti distinti $A$ e $B$. Si supponga che il centro di ciascuna delle circonferenze $\Gamma_1$ e $\Gamma_2$ sia esterno all'altra. La tangente a $\Gamma_1$ in $B$ interseca nuovamente $\Gamma_2$ in $C$, diverso da $B$; la tangente a $\Gamma_2$ in $B$ interseca nuovamente $\Gamma_1$ in $D$, diverso da $B$. Le bisettrici di $\angle CAB$ e $\angle DAB$ intersecano nuovamente $\Gamma_2$ e $\Gamma_1$ rispettivamente in $X$ e $Y$, diversi da $A$. Siano $P$ e $Q$ i circocentri dei triangoli $ACD$ e $XAY$, rispettivamente. Dimostrare che $PQ$ è la mediatrice del segmento $O_1 O_2$.
 
+
 **Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_simmetria|Sfruttamento della simmetria]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 
-[[Quesiti/src_inmo_2020#q01|src_inmo_2020__Q01]]
 
 
-
-<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_algebra,skill_manipolazione_algebrica,skill_lettura_attenta,skill_riconoscimento_pattern"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_algebra,method_trigonometria,method_fattorizzazione,skill_manipolazione_algebrica,skill_lettura_attenta,skill_riconoscimento_pattern"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -54,8 +55,9 @@ level: INMO
 > for some $a_0, a_1, a_2, \ldots, a_n$ and nonnegative integer $n$.
 
 **Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_trigonometria|Trigonometric techniques]], [[method_fattorizzazione|Factorisation / algebraic manipulation]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
-**Area:** [[Algebra e Analisi]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1zGms2MQj8QKRPizstjU-44-Fnpo52wDY/view)
 
 
@@ -70,11 +72,11 @@ level: INMO
 > $$P(x) = a_0 + a_1(1 - x^2)^2 + a_2(1 - x^2)^4 + \cdots + a_n(1 - x^2)^{2n},$$
 > per qualche $a_0, a_1, a_2, \ldots, a_n$ e un intero non negativo $n$.
 
+
 **Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_trigonometria|Tecniche trigonometriche]], [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Algebra e Analisi]]
-
-[[Quesiti/src_inmo_2020#q02|src_inmo_2020__Q02]]
 
 
 
@@ -105,8 +107,6 @@ level: INMO
 **Metodo:** [[method_casework|Casework]], [[method_estremalita|Estremalità]]
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
-
-[[Quesiti/src_inmo_2020#q03|src_inmo_2020__Q03]]
 
 
 
@@ -140,11 +140,9 @@ level: INMO
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]]
 **Area:** [[Algebra e Analisi]]
 
-[[Quesiti/src_inmo_2020#q04|src_inmo_2020__Q04]]
 
 
-
-<span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_geometria_piana,topic_combinatoria,method_casework,method_invarianti,skill_ragionamento_geometrico,skill_astrazione,skill_lettura_attenta"></span>
+<span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_geometria_piana,topic_combinatoria,method_casework,method_invarianti,method_trigonometria,skill_ragionamento_geometrico,skill_astrazione,skill_lettura_attenta"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -160,9 +158,9 @@ level: INMO
 > (c) Determine whether $5$ is frameable.
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_combinatoria|Combinatoria]]
-**Metodo:** [[method_casework|Casework]], [[method_invarianti|Invarianti]]
+**Metodo:** [[method_casework|Casework]], [[method_invarianti|Invarianti]], [[method_trigonometria|Trigonometric techniques]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_astrazione|Astrazione]], [[skill_lettura_attenta|Lettura attenta]]
-**Area:** [[Geometria]], [[Combinatoria, Logica e Probabilita]]
+**Area:** [[Geometria|Geometry]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1zGms2MQj8QKRPizstjU-44-Fnpo52wDY/view)
 
 
@@ -179,12 +177,11 @@ level: INMO
 >
 > (c) Determinare se $5$ è incorniciabile.
 
+
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_combinatoria|Combinatoria]]
-**Metodo:** [[method_casework|Casework]], [[method_invarianti|Invarianti]]
+**Metodo:** [[method_casework|Casework]], [[method_invarianti|Invarianti]], [[method_trigonometria|Tecniche trigonometriche]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_astrazione|Astrazione]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Geometria]], [[Combinatoria, Logica e Probabilita]]
-
-[[Quesiti/src_inmo_2020#q05|src_inmo_2020__Q05]]
 
 
 
@@ -215,5 +212,3 @@ level: INMO
 **Metodo:** [[method_colorazione|Colorazione]], [[method_invarianti|Invarianti]], [[method_casework|Casework]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_astrazione|Astrazione]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
-
-[[Quesiti/src_inmo_2020#q06|src_inmo_2020__Q06]]

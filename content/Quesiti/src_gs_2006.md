@@ -10,7 +10,7 @@ level: squadre
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_aritmetica"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_aritmetica,method_fattorizzazione,skill_modellizzazione,skill_lettura_attenta,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -33,10 +33,12 @@ level: squadre
 > e quella pagata da chi ha speso di meno.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_lettura_attenta|Lettura attenta del testo]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 0175
-**Fonte risposta:** soluzione ufficiale, PDF p.1
-**Fonte:** apri PDF p.1 · fairmath.it (Coppa Fermat 2006)
+**Fonte risposta:** soluzione ufficiale, [PDF p.1](https://www.fairmath.it/genova/fermat/CF2006-soluzioni.pdf#page=1)
+**Fonte:** [apri PDF p.1](https://www.fairmath.it/genova/fermat/CF2006-soluzioni.pdf#page=1) · fairmath.it (Coppa Fermat 2006)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -49,14 +51,15 @@ level: squadre
 > The cutting board: to accommodate the contestants of this competition
 > By teams, the organizers had an Olympic village built, and in its restaurant they serve excellent pizza al tagliere. A tagliere is a large pizza divided into 8 equal slices. A "margherita" tagliere costs 8 euros; for an extra 2 euros, anchovies can be added to half of a tagliere, and for 3 euros, mushrooms can be added—again to half of a tagliere. Three friends go to the place and order 2 taglieri: one entirely "margherita" and one half mushrooms and half anchovies. The first friend eats 3/4 of the mushroom half and 1/4 of the "margherita" tagliere; the second eats half of the anchovy half and 3 slices of "margherita"; the third eats what is left. In the end, being extremely meticulous, each pays for what they ate. Determine, in hundredths of an euro, the difference between the amount paid by the person who spent the most and the amount paid by the person who spent the least.
 
+
 **Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]], [[skill_lettura_attenta|Careful reading of the text]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
-[[Quesiti/src_gs_2006#q01|src_gs_2006__Q01]]
 
 
-
-<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_geometria_solida,topic_probabilita"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_geometria_solida,topic_probabilita,topic_aritmetica,method_conteggio,skill_lettura_attenta,skill_modellizzazione,skill_conteggio_sistematico"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -75,11 +78,13 @@ level: squadre
 > in trasferta. Determinare quanti km correrà Stefano durante
 > l’intero campionato.
 
-**Topic:** [[topic_geometria_solida|Geometria solida]], [[topic_probabilita|Probabilita e statistica]]
-**Area:** [[Geometria]], [[Combinatoria, Logica e Probabilita]]
+**Topic:** [[topic_geometria_solida|Geometria solida]], [[topic_probabilita|Probabilita e statistica]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_conteggio|Conteggio combinatorio]]
+**Abilita:** [[skill_lettura_attenta|Lettura attenta del testo]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Geometria]], [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 0290
-**Fonte risposta:** soluzione ufficiale, PDF p.1
-**Fonte:** apri PDF p.1 · fairmath.it (Coppa Fermat 2006)
+**Fonte risposta:** soluzione ufficiale, [PDF p.1](https://www.fairmath.it/genova/fermat/CF2006-soluzioni.pdf#page=1)
+**Fonte:** [apri PDF p.1](https://www.fairmath.it/genova/fermat/CF2006-soluzioni.pdf#page=1) · fairmath.it (Coppa Fermat 2006)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -91,14 +96,15 @@ level: squadre
 
 > Stefano, a player on the team, plays for a football team taking part in a 20-team league, in which each team faces each of the other teams twice—once at home and once away. Technical analyses show that in each match Stefano runs an average of 10 km, evenly distributed throughout the match. To manage his exertion, the coach has decided that Stefano will play the full 90 minutes in the two derbies and in all other home matches, while in all other away matches he will play only the first half. Determine how many kilometres Stefano will run over the entire league season.
 
-**Topic:** [[topic_geometria_solida|Solid geometry]], [[topic_probabilita|Probability and statistics]]
-**Area:** [[Geometria|Geometry]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
-[[Quesiti/src_gs_2006#q02|src_gs_2006__Q02]]
+**Topic:** [[topic_geometria_solida|Solid geometry]], [[topic_probabilita|Probability and statistics]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_lettura_attenta|Careful reading of the text]], [[skill_modellizzazione|Modelling / translating the text]], [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Geometria|Geometry]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
 
 
-<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_aritmetica"></span>
+<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_aritmetica,method_backward,skill_lettura_attenta,skill_conteggio_sistematico"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -117,10 +123,12 @@ level: squadre
 > scrivere 0702 per indicare il 7 febbraio).
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_backward|Ragionamento all'indietro]]
+**Abilita:** [[skill_lettura_attenta|Lettura attenta del testo]], [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 3012
-**Fonte risposta:** soluzione ufficiale, PDF p.1
-**Fonte:** apri PDF p.1 · fairmath.it (Coppa Fermat 2006)
+**Fonte risposta:** soluzione ufficiale, [PDF p.1](https://www.fairmath.it/genova/fermat/CF2006-soluzioni.pdf#page=1)
+**Fonte:** [apri PDF p.1](https://www.fairmath.it/genova/fermat/CF2006-soluzioni.pdf#page=1) · fairmath.it (Coppa Fermat 2006)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -133,14 +141,15 @@ level: squadre
 > The torch The organizers of this race have
 > They went all out, bringing the Olympic flame all the way here. The final torchbearer arrived at the competition venue today, 24 March 2006, at 10:30 a.m., but the flame had been lit at Olympia exactly 2006 hours earlier. Determine on what day the flame was lit. In your answer, use the two digits on the left to indicate the day number and the two digits on the right to indicate the month (for example, write 0702 to indicate 7 February).
 
+
 **Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_backward|Working backwards]]
+**Abilita:** [[skill_lettura_attenta|Careful reading of the text]], [[skill_conteggio_sistematico|Systematic counting]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
-[[Quesiti/src_gs_2006#q03|src_gs_2006__Q03]]
 
 
-
-<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_probabilita,topic_funzionali"></span>
+<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_probabilita,topic_funzionali,topic_combinatoria,method_conteggio,skill_conteggio_sistematico,skill_modellizzazione"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -160,11 +169,13 @@ level: squadre
 > che i malintenzionati dovrebbero provare per essere sicuri di
 > aprire la cassaforte.
 
-**Topic:** [[topic_probabilita|Probabilita e statistica]], [[topic_funzionali|Equazioni funzionali / successioni]]
+**Topic:** [[topic_probabilita|Probabilita e statistica]], [[topic_funzionali|Equazioni funzionali / successioni]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_conteggio|Conteggio combinatorio]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Algebra e Analisi]]
 **Risposta:** 0735
-**Fonte risposta:** soluzione ufficiale, PDF p.2
-**Fonte:** apri PDF p.2 · fairmath.it (Coppa Fermat 2006)
+**Fonte risposta:** soluzione ufficiale, [PDF p.2](https://www.fairmath.it/genova/fermat/CF2006-soluzioni.pdf#page=2)
+**Fonte:** [apri PDF p.2](https://www.fairmath.it/genova/fermat/CF2006-soluzioni.pdf#page=2) · fairmath.it (Coppa Fermat 2006)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -176,14 +187,15 @@ level: squadre
 
 > Phishing Some malicious actors would like to intercept the combination for the safe containing the Olympic medals—a sequence of 6 digits. The system they devised is supposed to ensure that, when an attendant enters a digit of the combination, that digit appears immediately on the thieves' display. Unfortunately for them, the system still isn't working well: it works perfectly when the digits 2, 6, and 0 are pressed, but when the other digits are used, nothing appears on the display. The last time the attendants opened the safe, only the four digits 2006 appeared on the malicious actors' display, in that order. Determine how many possible combinations the malicious actors would have to try to be sure of opening the safe.
 
-**Topic:** [[topic_probabilita|Probability and statistics]], [[topic_funzionali|Functional equations / sequences]]
+
+**Topic:** [[topic_probabilita|Probability and statistics]], [[topic_funzionali|Functional equations / sequences]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]], [[skill_modellizzazione|Modelling / translating the text]]
 **Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Algebra e Analisi|Algebra and analysis]]
 
-[[Quesiti/src_gs_2006#q04|src_gs_2006__Q04]]
 
 
-
-<span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_geometria_piana"></span>
+<span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_geometria_piana,topic_trigonometria,method_trigonometria,skill_ragionamento_geometrico"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -200,10 +212,12 @@ level: squadre
 > 80 metri ciascuno, e fissati ai 2 estremi del lato più lungo della piazzale. Determinare quanti metri quadrati del piazzale
 > sono sotto il controllo del cane.
 
-**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometria]]
+**Metodo:** [[method_trigonometria|Tecniche trigonometriche]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]]
 **Risposta:** 1826
-**Fonte:** apri PDF p.2 · fairmath.it (Coppa Fermat 2006)
+**Fonte:** [apri PDF p.2](https://www.fairmath.it/genova/fermat/CF2006-soluzioni.pdf#page=2) · fairmath.it (Coppa Fermat 2006)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -216,14 +230,15 @@ level: squadre
 > The Guardian: The Olympic torch burns in a square
 > It is shaped like an isosceles right-angled triangle, whose shorter sides are 80 metres long. A very ferocious dog is tasked with surveillance. To allow spectators to view the torch more closely, the organizers have decided to restrict the dog's movements by attaching no fewer than 2 leashes to it—each leash, however, is 80 metres long and is attached to the two ends of the longest side of the square. Determine how many square metres of the square are under the dog's control.
 
-**Topic:** [[topic_geometria_piana|Plane geometry]]
+
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_trigonometria|Trigonometry]]
+**Metodo:** [[method_trigonometria|Trigonometric techniques]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
 **Area:** [[Geometria|Geometry]]
 
-[[Quesiti/src_gs_2006#q05|src_gs_2006__Q05]]
 
 
-
-<span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_geometria_piana"></span>
+<span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_geometria_piana,method_simmetria,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -239,10 +254,12 @@ level: squadre
 > stanza.
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_simmetria|Sfruttamento della simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 **Risposta:** 2025
-**Fonte risposta:** soluzione ufficiale, PDF p.2
-**Fonte:** apri PDF p.2 · fairmath.it (Coppa Fermat 2006)
+**Fonte risposta:** soluzione ufficiale, [PDF p.2](https://www.fairmath.it/genova/fermat/CF2006-soluzioni.pdf#page=2)
+**Fonte:** [apri PDF p.2](https://www.fairmath.it/genova/fermat/CF2006-soluzioni.pdf#page=2) · fairmath.it (Coppa Fermat 2006)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -254,14 +271,15 @@ level: squadre
 
 > Exhibition: At a school, an entire room has been fitted out to display the trophies won in the various editions of this competition. To protect the valuable floor from wear caused by the thousands of visitors, the square-shaped room has been furnished by placing 4 identical rectangular carpets without any overlaps, so as to form a pathway running along the entire perimeter, leaving only a square in the very center of the room uncovered. Given that the perimeter of each carpet is 9 meters, determine how many square decimeters the area of the room measures.
 
+
 **Topic:** [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_simmetria|Using symmetry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
 **Area:** [[Geometria|Geometry]]
 
-[[Quesiti/src_gs_2006#q06|src_gs_2006__Q06]]
 
 
-
-<span class="atom-split" id="q07" data-atom="q07" data-title="Quesito 7" data-tags="topic_probabilita"></span>
+<span class="atom-split" id="q07" data-atom="q07" data-title="Quesito 7" data-tags="topic_probabilita,topic_logica,method_casework,skill_casework_accurato,skill_lettura_attenta"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -288,11 +306,13 @@ level: squadre
 > nella terza e quarta posizione si indichi la stessa cosa relativa ai
 > Licei Boccaccio e Carducci, rispettivamente.
 
-**Topic:** [[topic_probabilita|Probabilita e statistica]]
+**Topic:** [[topic_probabilita|Probabilita e statistica]], [[topic_logica|Logica, giochi, strategie]]
+**Metodo:** [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_lettura_attenta|Lettura attenta del testo]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 5101
-**Fonte risposta:** soluzione ufficiale, PDF p.2
-**Fonte:** apri PDF p.2 · fairmath.it (Coppa Fermat 2006)
+**Fonte risposta:** soluzione ufficiale, [PDF p.2](https://www.fairmath.it/genova/fermat/CF2006-soluzioni.pdf#page=2)
+**Fonte:** [apri PDF p.2](https://www.fairmath.it/genova/fermat/CF2006-soluzioni.pdf#page=2) · fairmath.it (Coppa Fermat 2006)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -312,14 +332,15 @@ level: squadre
 > 5. There are at least 2 doped teams.
 > Today, under pressure from the mass media, the investigators have stated that one and only one of the leaked pieces of news is accurate. Determine how things stand. Compose the response as follows: in the first position from the left, indicate the number of the correct statement; in the second position, indicate 0 if the Alfieri High School team is clean, 1 if it is doping, 2 if the information is insufficient to determine this; in the third and fourth positions, indicate the same thing with respect to the Boccaccio and Carducci High Schools, respectively.
 
-**Topic:** [[topic_probabilita|Probability and statistics]]
+
+**Topic:** [[topic_probabilita|Probability and statistics]], [[topic_logica|Logic, games and strategies]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]], [[skill_lettura_attenta|Careful reading of the text]]
 **Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
-[[Quesiti/src_gs_2006#q07|src_gs_2006__Q07]]
 
 
-
-<span class="atom-split" id="q08" data-atom="q08" data-title="Quesito 8" data-tags="topic_geometria_piana"></span>
+<span class="atom-split" id="q08" data-atom="q08" data-title="Quesito 8" data-tags="topic_geometria_piana,topic_geometria_solida,method_estremalita,method_trigonometria,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -334,11 +355,13 @@ level: squadre
 > ma largo soltanto 60 centimetri. Determinare, in millimetri, la minima altezza che deve avere il finestrino affinché lo
 > specchio possa uscire (intero).
 
-**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_geometria_solida|Geometria solida]]
+**Metodo:** [[method_estremalita|Principio di estremalita]], [[method_trigonometria|Tecniche trigonometriche]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 **Risposta:** 0910
-**Fonte risposta:** soluzione ufficiale, PDF p.2
-**Fonte:** apri PDF p.2 · fairmath.it (Coppa Fermat 2006)
+**Fonte risposta:** soluzione ufficiale, [PDF p.2](https://www.fairmath.it/genova/fermat/CF2006-soluzioni.pdf#page=2)
+**Fonte:** [apri PDF p.2](https://www.fairmath.it/genova/fermat/CF2006-soluzioni.pdf#page=2) · fairmath.it (Coppa Fermat 2006)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -351,14 +374,15 @@ level: squadre
 > The Defenestration in a Bathroom in the Olympic Village
 > The organizers would like to replace a rectangular mirror measuring 109 × 156 centimetres (its thickness is negligible). For technical reasons, it would be advisable to pass the mirror out through the bathroom window, which is rectangular but only 60 centimetres wide. Determine, in millimetres, the minimum height the window must have for the mirror to be able to come out (intact).
 
-**Topic:** [[topic_geometria_piana|Plane geometry]]
+
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_geometria_solida|Solid geometry]]
+**Metodo:** [[method_estremalita|Extremal principle]], [[method_trigonometria|Trigonometric techniques]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
 **Area:** [[Geometria|Geometry]]
 
-[[Quesiti/src_gs_2006#q08|src_gs_2006__Q08]]
 
 
-
-<span class="atom-split" id="q09" data-atom="q09" data-title="Quesito 9" data-tags="topic_combinatoria"></span>
+<span class="atom-split" id="q09" data-atom="q09" data-title="Quesito 9" data-tags="topic_combinatoria,method_casework,method_conteggio,skill_casework_accurato,skill_conteggio_sistematico"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -380,9 +404,11 @@ level: squadre
 > presente all’inizio.
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casework|Analisi per casi]], [[method_conteggio|Conteggio combinatorio]]
+**Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 6423
-**Fonte:** apri PDF p.3 · fairmath.it (Coppa Fermat 2006)
+**Fonte:** [apri PDF p.3](https://www.fairmath.it/genova/fermat/CF2006-soluzioni.pdf#page=3) · fairmath.it (Coppa Fermat 2006)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -394,14 +420,15 @@ level: squadre
 
 > The Small Sudoku The Small Sudoku is the poor cousin of classic Sudoku: it is played on a 4 × 4 grid, which in turn is divided into four small 2 × 2 grids. Each of the 16 cells of the grid contains a digit chosen from 1, 2, 3, 4, so that none of the 4 rows, the 4 columns, or the 4 2 × 2 grids contains the same digit more than once. A Small Sudoku was started by placing the digits 1, 2, 3 in that order in the first 3 cells of the main diagonal (the one that starts at the top left and ends at the bottom right). Determine all ways of completing it. Compose the answer as follows: in the first position from the left, indicate the number of ways to complete it; in the next 3 cells, indicate the three-digit number that, in the solutions, appears the most often in the first row after the digit 1 already present at the beginning.
 
+
 **Topic:** [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_casework|Case analysis]], [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]], [[skill_conteggio_sistematico|Systematic counting]]
 **Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
-[[Quesiti/src_gs_2006#q09|src_gs_2006__Q09]]
 
 
-
-<span class="atom-split" id="q10" data-atom="q10" data-title="Quesito 10" data-tags="topic_combinatoria"></span>
+<span class="atom-split" id="q10" data-atom="q10" data-title="Quesito 10" data-tags="topic_combinatoria,method_estremalita,method_casework,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -428,9 +455,11 @@ level: squadre
 > di ori, argenti e bronzi conquistati dalla squadra prima classificata.
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_estremalita|Principio di estremalita]], [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 7501
-**Fonte:** apri PDF p.3 · fairmath.it (Coppa Fermat 2006)
+**Fonte:** [apri PDF p.3](https://www.fairmath.it/genova/fermat/CF2006-soluzioni.pdf#page=3) · fairmath.it (Coppa Fermat 2006)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -443,14 +472,15 @@ level: squadre
 > The medal table At the latest Winter Olympics for
 > In the mathematical events, 30 competitions were held. In 29 of these, one gold medal, one silver medal, and one bronze medal were awarded; in the remaining one, one gold medal, one silver medal, and 2 bronze medals were awarded, because it was impossible to distinguish between third and fourth place. In the end, no nation won 6 or more gold medals. Italy won 4 gold medals, 6 silver medals, and 4 bronze medals, but unfortunately, in the medal table—where no teams are tied—it came last, obviously among the countries that won at least one medal (it should be recalled that the medal table ranking is based on the number of gold medals won; if the number of gold medals is equal, silver medals are considered, and if there is still a tie, bronze medals are considered). Determine how many teams won at least one medal and how many medals the top-ranked team won. Compose the answer as follows: in the first position from the left, indicate the number of teams that won at least one medal; in the next 3 boxes, indicate in order the number of gold medals, silver medals, and bronze medals won by the top-ranked team.
 
+
 **Topic:** [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_estremalita|Extremal principle]], [[method_casework|Case analysis]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
 **Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
-[[Quesiti/src_gs_2006#q10|src_gs_2006__Q10]]
 
 
-
-<span class="atom-split" id="q11" data-atom="q11" data-title="Quesito 11" data-tags="topic_aritmetica"></span>
+<span class="atom-split" id="q11" data-atom="q11" data-title="Quesito 11" data-tags="topic_aritmetica,method_casi_conteggio,method_congruenze,skill_conteggio_sistematico,skill_lettura_attenta"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -472,10 +502,12 @@ level: squadre
 > Capodanno.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casi_conteggio|Conteggio per casi]], [[method_congruenze|Aritmetica modulare / congruenze]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta del testo]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 0729
-**Fonte risposta:** soluzione ufficiale, PDF p.3
-**Fonte:** apri PDF p.3 · fairmath.it (Coppa Fermat 2006)
+**Fonte risposta:** soluzione ufficiale, [PDF p.3](https://www.fairmath.it/genova/fermat/CF2006-soluzioni.pdf#page=3)
+**Fonte:** [apri PDF p.3](https://www.fairmath.it/genova/fermat/CF2006-soluzioni.pdf#page=3) · fairmath.it (Coppa Fermat 2006)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -487,14 +519,15 @@ level: squadre
 
 > Mathematical Growth On the night of the last New Year's Eve, a botanist planted a seed of an unknown plant at the Olympic Village. So far, by analyzing the growth of the stem, the botanist has found that: • on the third day, the sixth day, the ninth day, and so on on days that are multiples of 3 since sowing, it grew by 3 millimetres; • on the second day, the fourth day, the eighth day, and so on on even days that are not multiples of 3 since sowing, it grew by 2 millimetres; • on the other days, it grew by 1 millimetre. Assuming things continue in the same way, determine how many millimetres tall the stem will be on the night of the next New Year's Eve.
 
+
 **Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_casi_conteggio|Counting by cases]], [[method_congruenze|Modular arithmetic / congruences]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]], [[skill_lettura_attenta|Careful reading of the text]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
-[[Quesiti/src_gs_2006#q11|src_gs_2006__Q11]]
 
 
-
-<span class="atom-split" id="q12" data-atom="q12" data-title="Quesito 12" data-tags="topic_aritmetica"></span>
+<span class="atom-split" id="q12" data-atom="q12" data-title="Quesito 12" data-tags="topic_aritmetica,method_congruenze,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -512,10 +545,12 @@ level: squadre
 > numero di cifre 8 che compaiono nella ricevuta.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 0074
-**Fonte risposta:** soluzione ufficiale, PDF p.3
-**Fonte:** apri PDF p.3 · fairmath.it (Coppa Fermat 2006)
+**Fonte risposta:** soluzione ufficiale, [PDF p.3](https://www.fairmath.it/genova/fermat/CF2006-soluzioni.pdf#page=3)
+**Fonte:** [apri PDF p.3](https://www.fairmath.it/genova/fermat/CF2006-soluzioni.pdf#page=3) · fairmath.it (Coppa Fermat 2006)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -527,14 +562,15 @@ level: squadre
 
 > Drunkards All the bottles of wine served at the Olympic Village restaurant have prices that are whole numbers of euros and are written using only the digit 8 (some are indeed very expensive, but apparently they are worth it). At the end of their stay in the village, a team presents its funders with a receipt for a whopping 70,000 (seventy thousand) euros' worth of wine. The receipt lists each of the bottles consumed, one by one, along with their respective prices. Determine the minimum number of 8s that appear on the receipt.
 
+
 **Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
-[[Quesiti/src_gs_2006#q12|src_gs_2006__Q12]]
 
 
-
-<span class="atom-split" id="q13" data-atom="q13" data-title="Quesito 13" data-tags="topic_geometria_piana,topic_aritmetica"></span>
+<span class="atom-split" id="q13" data-atom="q13" data-title="Quesito 13" data-tags="topic_geometria_piana,topic_aritmetica,method_casework,method_simmetria,skill_ragionamento_geometrico"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -556,10 +592,12 @@ level: squadre
 > 2 per indicare il minimo.
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Analisi per casi]], [[method_simmetria|Sfruttamento della simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 6262
-**Fonte risposta:** soluzione ufficiale, PDF p.4
-**Fonte:** apri PDF p.4 · fairmath.it (Coppa Fermat 2006)
+**Fonte risposta:** soluzione ufficiale, [PDF p.4](https://www.fairmath.it/genova/fermat/CF2006-soluzioni.pdf#page=4)
+**Fonte:** [apri PDF p.4](https://www.fairmath.it/genova/fermat/CF2006-soluzioni.pdf#page=4) · fairmath.it (Coppa Fermat 2006)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -571,14 +609,15 @@ level: squadre
 
 > The First Small Lake A large park surrounds the Olympic Village. Two sides of the park are bounded by two straight roads that form an angle of 56° with each other. Within the park there is a circular small lake that is tangent to the two roads. A third road, also tangent to the lake, meets the two previous roads at two intersections, where Andrea and Luca are located at this moment. The three roads described bound a triangle that does not contain the small lake. Determine the maximum and minimum possible values, in degrees, of the angle whose vertex is at the center of the lake and whose sides pass through Andrea and Luca, respectively. Ignore the thickness of the roads and the intersections. In the answer, use the two digits on the left to indicate the maximum and the remaining two to indicate the minimum.
 
+
 **Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_casework|Case analysis]], [[method_simmetria|Using symmetry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
 **Area:** [[Geometria|Geometry]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
-[[Quesiti/src_gs_2006#q13|src_gs_2006__Q13]]
 
 
-
-<span class="atom-split" id="q14" data-atom="q14" data-title="Quesito 14" data-tags="topic_combinatoria,topic_funzionali"></span>
+<span class="atom-split" id="q14" data-atom="q14" data-title="Quesito 14" data-tags="topic_combinatoria,topic_funzionali,method_ricorsione,skill_riconoscimento_pattern,skill_astrazione"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -605,10 +644,12 @@ level: squadre
 > restanti 2 per indicare la colonna.
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_funzionali|Equazioni funzionali / successioni]]
+**Metodo:** [[method_ricorsione|Ricorsione]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_astrazione|Astrazione / generalizzazione]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Algebra e Analisi]]
 **Risposta:** 4139
-**Fonte risposta:** soluzione ufficiale, PDF p.4
-**Fonte:** apri PDF p.4 · fairmath.it (Coppa Fermat 2006)
+**Fonte risposta:** soluzione ufficiale, [PDF p.4](https://www.fairmath.it/genova/fermat/CF2006-soluzioni.pdf#page=4)
+**Fonte:** [apri PDF p.4](https://www.fairmath.it/genova/fermat/CF2006-soluzioni.pdf#page=4) · fairmath.it (Coppa Fermat 2006)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -621,14 +662,15 @@ level: squadre
 > The Game of the Goose Two friends want to build a
 > A large Game of the Goose on a gridded board. As one might expect, the track consists of a sequence of square spaces arranged so that two consecutive spaces share a side, while two non-consecutive spaces do not even share a point. The track starts at the top-left space, then proceeds along the top side, then the right side, then the bottom side, then goes up the left side to the third-last space, and then continues inward in a clockwise spiral as long as there are available spaces. For example, if the initial rectangle were 8×10 (8 rows, 10 columns), the track would end in the space located in row 5, column 3. Determine in which row and in which column the track drawn in an 80 × 100 rectangle ends. In the answer, use the two leftmost digits to indicate the row and the remaining two to indicate the column.
 
+
 **Topic:** [[topic_combinatoria|Combinatorics]], [[topic_funzionali|Functional equations / sequences]]
+**Metodo:** [[method_ricorsione|Recursion]]
+**Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]], [[skill_astrazione|Abstraction / generalisation]]
 **Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Algebra e Analisi|Algebra and analysis]]
 
-[[Quesiti/src_gs_2006#q14|src_gs_2006__Q14]]
 
 
-
-<span class="atom-split" id="q15" data-atom="q15" data-title="Quesito 15" data-tags="topic_algebra"></span>
+<span class="atom-split" id="q15" data-atom="q15" data-title="Quesito 15" data-tags="topic_algebra,topic_aritmetica,method_fattorizzazione,method_casework,skill_manipolazione_algebrica,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -646,11 +688,13 @@ level: squadre
 > l’argomento delle ultime lezioni. Determinare il coefficiente
 > dimenticato.
 
-**Topic:** [[topic_algebra|Algebra]]
-**Area:** [[Algebra e Analisi]]
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]], [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 6560
-**Fonte risposta:** soluzione ufficiale, PDF p.4
-**Fonte:** apri PDF p.4 · fairmath.it (Coppa Fermat 2006)
+**Fonte risposta:** soluzione ufficiale, [PDF p.4](https://www.fairmath.it/genova/fermat/CF2006-soluzioni.pdf#page=4)
+**Fonte:** [apri PDF p.4](https://www.fairmath.it/genova/fermat/CF2006-soluzioni.pdf#page=4) · fairmath.it (Coppa Fermat 2006)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -663,14 +707,15 @@ level: squadre
 > The equation: Entirely absorbed by the team competition, a
 > The contestant forgot to write down the homework. They vaguely remember that they were supposed to solve an equation of the form x^9 − ... x + 3 = 0, but they simply can't recall the coefficient of x suggested by the teacher. They only remember that it was a positive multiple of 10, and they know that the equation must have at least one integer solution, since that was precisely the topic of the most recent lessons. Determine the forgotten coefficient.
 
-**Topic:** [[topic_algebra|Algebra]]
-**Area:** [[Algebra e Analisi|Algebra and analysis]]
 
-[[Quesiti/src_gs_2006#q15|src_gs_2006__Q15]]
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]], [[method_casework|Case analysis]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
 
 
-<span class="atom-split" id="q16" data-atom="q16" data-title="Quesito 16" data-tags=""></span>
+<span class="atom-split" id="q16" data-atom="q16" data-title="Quesito 16" data-tags="topic_geometria_piana,topic_algebra,method_coordinate,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -688,9 +733,13 @@ level: squadre
 > km”. Determinare, in metri, la differenza tra la massima e la
 > minima distanza che ci può essere tra Guglielmo e Valentina.
 
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_coordinate|Metodo delle coordinate]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]], [[Algebra e Analisi]]
 **Risposta:** 1000
-**Fonte risposta:** soluzione ufficiale, PDF p.4
-**Fonte:** apri PDF p.4 · fairmath.it (Coppa Fermat 2006)
+**Fonte risposta:** soluzione ufficiale, [PDF p.4](https://www.fairmath.it/genova/fermat/CF2006-soluzioni.pdf#page=4)
+**Fonte:** [apri PDF p.4](https://www.fairmath.it/genova/fermat/CF2006-soluzioni.pdf#page=4) · fairmath.it (Coppa Fermat 2006)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -703,11 +752,14 @@ level: squadre
 > Enigmatic indications Valentina has remained in the
 > Their room in the Olympic Village, located exactly 1 km from the Olympic flame. Guglielmo calls her on her mobile phone and, to demonstrate the power of his GPS-enabled handheld device, says to her: "Right now, my distance from the flame, expressed in kilometres, is the square of the distance between the two of us, also in kilometres." Determine, in metres, the difference between the maximum and minimum distances that can exist between Guglielmo and Valentina.
 
-[[Quesiti/src_gs_2006#q16|src_gs_2006__Q16]]
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_coordinate|Coordinate method]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Geometria|Geometry]], [[Algebra e Analisi|Algebra and analysis]]
 
 
 
-<span class="atom-split" id="q17" data-atom="q17" data-title="Quesito 17" data-tags="topic_funzionali"></span>
+<span class="atom-split" id="q17" data-atom="q17" data-title="Quesito 17" data-tags="topic_funzionali,topic_aritmetica,method_congruenze,method_backward,skill_manipolazione_algebrica,skill_modellizzazione"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -729,11 +781,13 @@ level: squadre
 > rimaste in 5 mucchi uguali, e così facendo non ne avanza nessuna. Determinare quante noci facevano parte, come minimo,
 > del mucchio originario.
 
-**Topic:** [[topic_funzionali|Equazioni funzionali / successioni]]
-**Area:** [[Algebra e Analisi]]
+**Topic:** [[topic_funzionali|Equazioni funzionali / successioni]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]], [[method_backward|Ragionamento all'indietro]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
+**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 3121
-**Fonte risposta:** soluzione ufficiale, PDF p.5
-**Fonte:** apri PDF p.5 · fairmath.it (Coppa Fermat 2006)
+**Fonte risposta:** soluzione ufficiale, [PDF p.5](https://www.fairmath.it/genova/fermat/CF2006-soluzioni.pdf#page=5)
+**Fonte:** [apri PDF p.5](https://www.fairmath.it/genova/fermat/CF2006-soluzioni.pdf#page=5) · fairmath.it (Coppa Fermat 2006)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -746,14 +800,15 @@ level: squadre
 > The Island of the Dishonest
 > The five contestants of a well-known reality show have been shipwrecked on an island. To get some food, they begin by piling up all the coconuts they can gather. During the night, one of the contestants decides to take his share in advance: he then divides the coconuts into 5 equal piles, finds that one coconut is left over, throws it to the monkeys, hides his share, and goes back to sleep. After a while, the second contestant wakes up with the same idea: he divides the remaining coconuts into 5 piles, finds that one coconut is left over, throws it to the monkeys, hides his share, and goes back to sleep. Later that night, the remaining three contestants also wake up in succession, all with the same idea, and in carrying it out, each throws one coconut to the monkeys because one is left over from the division. The next morning, the contestants, with an innocent air, divide the remaining coconuts into 5 equal piles, and in doing so, no coconuts are left over. Determine the minimum number of coconuts that were in the original pile.
 
-**Topic:** [[topic_funzionali|Functional equations / sequences]]
-**Area:** [[Algebra e Analisi|Algebra and analysis]]
 
-[[Quesiti/src_gs_2006#q17|src_gs_2006__Q17]]
+**Topic:** [[topic_funzionali|Functional equations / sequences]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]], [[method_backward|Working backwards]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
 
 
-<span class="atom-split" id="q18" data-atom="q18" data-title="Quesito 18" data-tags="topic_aritmetica"></span>
+<span class="atom-split" id="q18" data-atom="q18" data-title="Quesito 18" data-tags="topic_aritmetica,topic_combinatoria,method_casi_conteggio,method_conteggio,skill_conteggio_sistematico"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -769,11 +824,13 @@ level: squadre
 > che la prima edizione si è svolta proprio nell’anno 8 D.C. Determinare in quale anno si è svolta o si svolgerà la 88-esima
 > edizione.
 
-**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Area:** [[Aritmetica e Teoria dei Numeri]]
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casi_conteggio|Conteggio per casi]], [[method_conteggio|Conteggio combinatorio]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 2060
-**Fonte risposta:** soluzione ufficiale, PDF p.5
-**Fonte:** apri PDF p.5 · fairmath.it (Coppa Fermat 2006)
+**Fonte risposta:** soluzione ufficiale, [PDF p.5](https://www.fairmath.it/genova/fermat/CF2006-soluzioni.pdf#page=5)
+**Fonte:** [apri PDF p.5](https://www.fairmath.it/genova/fermat/CF2006-soluzioni.pdf#page=5) · fairmath.it (Coppa Fermat 2006)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -786,14 +843,15 @@ level: squadre
 > The Games of the Eighth will be held after more than 3 centuries.
 > This year, the Games of Eight—a very famous mathematics competition held only in years whose digits add up to 8, such as 2006—are taking place. This tradition stems from the fact that the first edition was held in the year 8 AD. Determine in which year the 88th edition was held or will be held.
 
-**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
-**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
-[[Quesiti/src_gs_2006#q18|src_gs_2006__Q18]]
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_casi_conteggio|Counting by cases]], [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
 
 
-<span class="atom-split" id="q19" data-atom="q19" data-title="Quesito 19" data-tags="topic_geometria_piana"></span>
+<span class="atom-split" id="q19" data-atom="q19" data-title="Quesito 19" data-tags="topic_geometria_piana,topic_aritmetica,method_fattorizzazione,method_casework,skill_casework_accurato,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -808,11 +866,13 @@ level: squadre
 > Determinare, in metri, la somma del massimo e del minimo
 > perimetro che può avere il lago.
 
-**Topic:** [[topic_geometria_piana|Geometria piana]]
-**Area:** [[Geometria]]
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]], [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 1344
-**Fonte risposta:** soluzione ufficiale, PDF p.5
-**Fonte:** apri PDF p.5 · fairmath.it (Coppa Fermat 2006)
+**Fonte risposta:** soluzione ufficiale, [PDF p.5](https://www.fairmath.it/genova/fermat/CF2006-soluzioni.pdf#page=5)
+**Fonte:** [apri PDF p.5](https://www.fairmath.it/genova/fermat/CF2006-soluzioni.pdf#page=5) · fairmath.it (Coppa Fermat 2006)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -825,19 +885,20 @@ level: squadre
 > The second small lake In the Olympic Village park,
 > Besides the circular one, there is also a small lake shaped like a right-angled triangle. One of the two legs is 35 meters long, and the other two sides are also integer numbers of meters in length. Determine, in meters, the sum of the maximum and minimum perimeters that the lake can have.
 
-**Topic:** [[topic_geometria_piana|Plane geometry]]
-**Area:** [[Geometria|Geometry]]
 
-[[Quesiti/src_gs_2006#q19|src_gs_2006__Q19]]
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]], [[method_casework|Case analysis]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Geometria|Geometry]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
 
 
-<span class="atom-split" id="q20" data-atom="q20" data-title="Quesito 20" data-tags="topic_geometria_solida"></span>
+<span class="atom-split" id="q20" data-atom="q20" data-title="Quesito 20" data-tags="topic_geometria_solida,topic_combinatoria,method_conteggio,method_fattorizzazione,skill_riconoscimento_pattern,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
 
-*Bowling 1 Nel Bowling del villaggio olimpico c’è la*
+*Impilamento di palle da bowling in strati triangolari*
 
 ![[src_gs_2006__prob20.png]]
 
@@ -853,31 +914,34 @@ level: squadre
 > piacere allo stesso modo. Determinare quante palle ci stanno
 > in una “piramide a 25 strati”.
 
-**Topic:** [[topic_geometria_solida|Geometria solida]]
-**Area:** [[Geometria]]
+**Topic:** [[topic_geometria_solida|Geometria solida]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_conteggio|Conteggio combinatorio]], [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 2925
-**Fonte risposta:** soluzione ufficiale, PDF p.5
-**Fonte:** apri PDF p.5 · fairmath.it (Coppa Fermat 2006)
+**Fonte risposta:** soluzione ufficiale, [PDF p.5](https://www.fairmath.it/genova/fermat/CF2006-soluzioni.pdf#page=5)
+**Fonte:** [apri PDF p.5](https://www.fairmath.it/genova/fermat/CF2006-soluzioni.pdf#page=5) · fairmath.it (Coppa Fermat 2006)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Bowling 1 At the Olympic Village Bowling Alley, there is the*
+*Stacking bowling balls in triangular layers*
 
 ![[src_gs_2006__prob20.png]]
 
 > Bowling 1 At the Olympic Village Bowling Alley, there is the
 > The need to stack a certain number of balls (perfectly spherical). At first, the workers try with 4 balls and immediately discover that they can place 3 of them on the ground, two at a time in mutual tangency, and then put the fourth on top so that it is tangent to the first 3. Trying a little more, they discover that they can arrange 6 balls on the ground "in a triangle" and place the previous structure on top of these, thus building a "3-layer pyramid" containing 10 balls. At this point, they realize that the structure can be widened and raised at will in the same way. Determine how many balls fit in a "25-layer pyramid".
 
-**Topic:** [[topic_geometria_solida|Solid geometry]]
-**Area:** [[Geometria|Geometry]]
 
-[[Quesiti/src_gs_2006#q20|src_gs_2006__Q20]]
+**Topic:** [[topic_geometria_solida|Solid geometry]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_conteggio|Combinatorial counting]], [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Geometria|Geometry]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
 
 
-<span class="atom-split" id="q21" data-atom="q21" data-title="Quesito 21" data-tags="topic_aritmetica"></span>
+<span class="atom-split" id="q21" data-atom="q21" data-title="Quesito 21" data-tags="topic_aritmetica,method_congruenze,skill_manipolazione_algebrica,skill_modellizzazione"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -896,10 +960,12 @@ level: squadre
 > 20 euro.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 0017
-**Fonte risposta:** soluzione ufficiale, PDF p.5
-**Fonte:** apri PDF p.5 · fairmath.it (Coppa Fermat 2006)
+**Fonte risposta:** soluzione ufficiale, [PDF p.5](https://www.fairmath.it/genova/fermat/CF2006-soluzioni.pdf#page=5)
+**Fonte:** [apri PDF p.5](https://www.fairmath.it/genova/fermat/CF2006-soluzioni.pdf#page=5) · fairmath.it (Coppa Fermat 2006)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -912,14 +978,15 @@ level: squadre
 > Barter: Two livestock breeders have agreed that a
 > A pig is worth 560 euros, and a sheep is worth 390 euros. Since both have many sheep and many pigs but no cash, they have decided to use the animals as a medium of exchange. For example, if the first person owes the second 50 euros, they pay with 3 sheep and receive 2 pigs as change, thus settling the debt through the transfer of 5 animals. Determine the minimum number of animals that must change ownership (payment plus change) to settle a debt of 20 euros.
 
+
 **Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_modellizzazione|Modelling / translating the text]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
-[[Quesiti/src_gs_2006#q21|src_gs_2006__Q21]]
 
 
-
-<span class="atom-split" id="q22" data-atom="q22" data-title="Quesito 22" data-tags="topic_geometria_solida"></span>
+<span class="atom-split" id="q22" data-atom="q22" data-title="Quesito 22" data-tags="topic_geometria_solida,method_coordinate,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -934,10 +1001,12 @@ level: squadre
 > distanza da terra fino alla sommità della palla più alta.
 
 **Topic:** [[topic_geometria_solida|Geometria solida]]
+**Metodo:** [[method_coordinate|Metodo delle coordinate]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 **Risposta:** 4119
-**Fonte risposta:** soluzione ufficiale, PDF p.6
-**Fonte:** apri PDF p.6 · fairmath.it (Coppa Fermat 2006)
+**Fonte risposta:** soluzione ufficiale, [PDF p.6](https://www.fairmath.it/genova/fermat/CF2006-soluzioni.pdf#page=6)
+**Fonte:** [apri PDF p.6](https://www.fairmath.it/genova/fermat/CF2006-soluzioni.pdf#page=6) · fairmath.it (Coppa Fermat 2006)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -949,14 +1018,15 @@ level: squadre
 
 > Bowling 2: After some time, the bowling staff, working on a previous problem, have finally managed to build a 25-layer pyramid of bowling balls. Assuming that the radius of each ball is 10 centimeters, determine how many millimeters the height of the pyramid is—that is, the distance from the ground to the top of the highest ball.
 
+
 **Topic:** [[topic_geometria_solida|Solid geometry]]
+**Metodo:** [[method_coordinate|Coordinate method]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
 **Area:** [[Geometria|Geometry]]
 
-[[Quesiti/src_gs_2006#q22|src_gs_2006__Q22]]
 
 
-
-<span class="atom-split" id="q23" data-atom="q23" data-title="Quesito 23" data-tags="topic_aritmetica"></span>
+<span class="atom-split" id="q23" data-atom="q23" data-title="Quesito 23" data-tags="topic_aritmetica,topic_algebra,method_casework,skill_manipolazione_algebrica,skill_modellizzazione"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -979,10 +1049,12 @@ level: squadre
 > dei sorpassi (ad esempio la risposta 2031 vuol dire che ha vinto la
 > seconda moto e ci sono stati 31 sorpassi durante la gara).
 
-**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Area:** [[Aritmetica e Teoria dei Numeri]]
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 **Risposta:** 1099
-**Fonte:** apri PDF p.6 · fairmath.it (Coppa Fermat 2006)
+**Fonte:** [apri PDF p.6](https://www.fairmath.it/genova/fermat/CF2006-soluzioni.pdf#page=6) · fairmath.it (Coppa Fermat 2006)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -994,14 +1066,15 @@ level: squadre
 
 > Overtaking: Two motorcycles took part in a speedway race, and they had to complete 199 laps on an icy track. The first motorcycle maintained a constant speed of 100 km/h throughout the race. The second motorcycle had a fluctuating speed: it completed the first lap at a constant speed of 101 km/h, the second lap at a constant speed of 99 km/h, the third lap again at 101 km/h, and so on, always completing the even-numbered laps at 99 km/h and the odd-numbered laps at 101 km/h. At the start, the two motorcycles set off side by side from the starting line. Determine who won and how many overtakes took place during the race (not counting the one at the start). In the answer, use the leftmost digit to indicate the winning motorcycle and the remaining three digits, with any leading zeros as needed, to indicate the number of overtakes (for example, the answer 2031 means that the second motorcycle won and that there were 31 overtakes during the race).
 
-**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
-**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
-[[Quesiti/src_gs_2006#q23|src_gs_2006__Q23]]
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Algebra e Analisi|Algebra and analysis]]
 
 
 
-<span class="atom-split" id="q24" data-atom="q24" data-title="Quesito 24" data-tags="topic_geometria_piana,topic_geometria_solida"></span>
+<span class="atom-split" id="q24" data-atom="q24" data-title="Quesito 24" data-tags="topic_geometria_piana,topic_geometria_solida,topic_trigonometria,method_trigonometria,method_simmetria,skill_ragionamento_geometrico"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -1020,11 +1093,13 @@ level: squadre
 > se ne vedono solo 2. Determinare, in centimetri, la distanza
 > di Michela dall’asse di rotazione.
 
-**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_geometria_solida|Geometria solida]]
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_geometria_solida|Geometria solida]], [[topic_trigonometria|Trigonometria]]
+**Metodo:** [[method_trigonometria|Tecniche trigonometriche]], [[method_simmetria|Sfruttamento della simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]]
 **Risposta:** 0334
-**Fonte risposta:** soluzione ufficiale, PDF p.6
-**Fonte:** apri PDF p.6 · fairmath.it (Coppa Fermat 2006)
+**Fonte risposta:** soluzione ufficiale, [PDF p.6](https://www.fairmath.it/genova/fermat/CF2006-soluzioni.pdf#page=6)
+**Fonte:** [apri PDF p.6](https://www.fairmath.it/genova/fermat/CF2006-soluzioni.pdf#page=6) · fairmath.it (Coppa Fermat 2006)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -1037,7 +1112,8 @@ level: squadre
 > Shopping tips A modern facility
 > The advertising structure is a right prism whose base is a regular hexagon with sides 1 metre long. The prism rotates at a constant speed about its axis, thus alternately showing the 6 lateral faces, each of which bears an advertising billboard. Michela, having remained stationary in front of the structure for some time, noticed that from her viewpoint, for half the time, 3 billboards are visible simultaneously (obviously at varying angles), and for half the time only 2 are visible. Determine, in centimetres, the distance from Michela to the axis of rotation.
 
-**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_geometria_solida|Solid geometry]]
-**Area:** [[Geometria|Geometry]]
 
-[[Quesiti/src_gs_2006#q24|src_gs_2006__Q24]]
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_geometria_solida|Solid geometry]], [[topic_trigonometria|Trigonometry]]
+**Metodo:** [[method_trigonometria|Trigonometric techniques]], [[method_simmetria|Using symmetry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]

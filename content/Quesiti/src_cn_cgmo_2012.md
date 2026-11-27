@@ -10,7 +10,7 @@ level: China Girls' Mathematical Olympiad
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_disuguaglianze,topic_algebra,method_induzione,method_telescoping,skill_manipolazione_algebrica,skill_ragionamento_geometrico"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_disuguaglianze,topic_algebra,method_induzione,method_telescoping,skill_manipolazione_algebrica,skill_ragionamento_geometrico,skill_riconoscimento_pattern"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -23,8 +23,8 @@ level: China Girls' Mathematical Olympiad
 
 **Topic:** [[topic_disuguaglianze|Disuguaglianze]], [[topic_algebra|Algebra]]
 **Metodo:** [[method_induzione|Induzione]], [[method_telescoping|Telescoping]]
-**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
-**Area:** [[Algebra e Analisi]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1cjmD7lTT4vb3nB3ylcVCHeHucUE2rNI0/view)
 
 
@@ -37,12 +37,11 @@ level: China Girls' Mathematical Olympiad
 > $$\frac{1}{1+a_1} + \frac{a_1}{(1+a_1)(1+a_2)} + \cdots + \frac{a_1 a_2 \cdots a_{n-1}}{(1+a_1)(1+a_2)\cdots(1+a_n)} \le 1.$$
 > (proposto da Ai Yinghua)
 
+
 **Topic:** [[topic_disuguaglianze|Disuguaglianze]], [[topic_algebra|Algebra]]
 **Metodo:** [[method_induzione|Induzione]], [[method_telescoping|Telescoping]]
-**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Algebra e Analisi]]
-
-[[Quesiti/src_cn_cgmo_2012#q01|src_cn_cgmo_2012__Q01]]
 
 
 
@@ -58,7 +57,7 @@ level: China Girls' Mathematical Olympiad
 > (2) $\angle ATP + \angle ETP = 180^\circ$.
 > (posed by Xiong Bin)
 
-![[src_cn_cgmo_b11_w209__q02.png]]
+![[src_cn_cgmo_b11_w209__Q02.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_trigonometria|Trigonometria]], [[method_simmetria|Simmetria]]
@@ -74,18 +73,16 @@ level: China Girls' Mathematical Olympiad
 
 > Come mostrato nella figura, i cerchi $\Gamma_1$ e $\Gamma_2$ sono tangenti esternamente nel punto $T$. I punti $A$ e $E$ giacciono sul cerchio $\Gamma_1$; le rette $AB$ e $DE$ sono tangenti al cerchio $\Gamma_2$ rispettivamente nei punti $B$ e $D$. Le rette $AE$ e $BD$ si incontrano nel punto $P$. Dimostrare che (1) $\dfrac{AB}{AT} = \dfrac{ED}{ET}$; (2) $\angle ATP + \angle ETP = 180^\circ$. (proposto da Xiong Bin)
 
-![[src_cn_cgmo_b11_w209__q02.png]]
+![[src_cn_cgmo_b11_w209__Q02.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_trigonometria|Trigonometria]], [[method_simmetria|Simmetria]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Geometria]]
 
-[[Quesiti/src_cn_cgmo_2012#q02|src_cn_cgmo_2012__Q02]]
 
 
-
-<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_aritmetica,topic_algebra,method_congruenze,method_fattorizzazione,method_casework,skill_manipolazione_algebrica,skill_lettura_attenta,skill_conteggio_sistematico"></span>
+<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_aritmetica,topic_algebra,method_congruenze,method_fattorizzazione,method_casework,skill_manipolazione_algebrica,skill_lettura_attenta,skill_conteggio_sistematico,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -96,8 +93,8 @@ level: China Girls' Mathematical Olympiad
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
 **Metodo:** [[method_congruenze|Congruenze]], [[method_fattorizzazione|Fattorizzazione]], [[method_casework|Casework]]
-**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_conteggio_sistematico|Conteggio sistematico]]
-**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Algebra e Analisi|Algebra and analysis]]
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1cjmD7lTT4vb3nB3ylcVCHeHucUE2rNI0/view)
 
 
@@ -108,12 +105,11 @@ level: China Girls' Mathematical Olympiad
 
 > Trovare tutte le coppie di interi $(a, b)$ che soddisfano la seguente condizione: esiste un intero $d \ge 2$ tale che $a^n + b^n + 1$ è divisibile per $d$ per ogni intero positivo $n$. (proposto da Chen Yonggao)
 
+
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
 **Metodo:** [[method_congruenze|Congruenze]], [[method_fattorizzazione|Fattorizzazione]], [[method_casework|Casework]]
-**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
-
-[[Quesiti/src_cn_cgmo_2012#q03|src_cn_cgmo_2012__Q03]]
 
 
 
@@ -126,7 +122,7 @@ level: China Girls' Mathematical Olympiad
 
 > As shown in Fig. 5-1, the inscribed circle $O$ of $\triangle ABC$ is tangent to the sides $AB$ and $AC$ at points $D$ and $E$, respectively. And $O$ is the circumcenter of $\triangle BCE$. Prove that $\angle ODB = \angle OEC$. (posed by Zhu Huawei)
 
-![[src_cn_cgmo_b11_w217__q05.png]]
+![[src_cn_cgmo_b11_w217__Q05.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_trigonometria|Trigonometria]], [[method_simmetria|Simmetria]]
@@ -142,14 +138,12 @@ level: China Girls' Mathematical Olympiad
 
 > Come mostrato nella Fig. 5-1, il cerchio inscritto $O$ di $\triangle ABC$ è tangente ai lati $AB$ e $AC$ nei punti $D$ e $E$, rispettivamente. Inoltre, $O$ è il circocentro di $\triangle BCE$. Dimostrare che $\angle ODB = \angle OEC$. (proposto da Zhu Huawei)
 
-![[src_cn_cgmo_b11_w217__q05.png]]
+![[src_cn_cgmo_b11_w217__Q05.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_trigonometria|Trigonometria]], [[method_simmetria|Simmetria]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Geometria]]
-
-[[Quesiti/src_cn_cgmo_2012#q05|src_cn_cgmo_2012__Q05]]
 
 
 
@@ -182,8 +176,6 @@ level: China Girls' Mathematical Olympiad
 **Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 
-[[Quesiti/src_cn_cgmo_2012#q06|src_cn_cgmo_2012__Q06]]
-
 
 
 <span class="atom-split" id="q08" data-atom="q08" data-title="Quesito 8" data-tags="topic_combinatoria,topic_aritmetica,method_congruenze,method_fattorizzazione,method_conteggio,method_casework,skill_manipolazione_algebrica,skill_conteggio_sistematico,skill_riconoscimento_pattern"></span>
@@ -214,5 +206,3 @@ level: China Girls' Mathematical Olympiad
 **Metodo:** [[method_congruenze|Congruenze]], [[method_fattorizzazione|Fattorizzazione]], [[method_conteggio|Conteggio]], [[method_casework|Casework]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
-
-[[Quesiti/src_cn_cgmo_2012#q08|src_cn_cgmo_2012__Q08]]

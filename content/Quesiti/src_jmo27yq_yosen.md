@@ -37,8 +37,8 @@ level: JMO Yosen
 **Argomento:** [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometria]]
 **Metodo:** [[method_trigonometria|Tecniche trigonometriche]], [[method_coordinate|Metodo delle coordinate]]
 **Abilità:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
 **Risposta:** $\dfrac{3\sqrt{3}}{2}$
-[[Quesiti/src_jmo27yq_yosen#q01|src_jmo27yq_yosen__Q01]]
 
 
 
@@ -69,8 +69,8 @@ level: JMO Yosen
 **Argomento:** [[topic_aritmetica|Aritmetica / Teoria dei numeri]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]], [[method_conteggio|Conteggio combinatorio]], [[method_casework|Analisi per casi]]
 **Abilità:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di schemi]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** $512$
-[[Quesiti/src_jmo27yq_yosen#q02|src_jmo27yq_yosen__Q02]]
 
 
 
@@ -85,7 +85,7 @@ level: JMO Yosen
 > $$AP=269,\quad PQ=292,\quad QB=223,\qquad AR=387,\quad RS=263,\quad SD=176,$$
 > find the value of (total area of the black regions) $-$ (total area of the white regions). (If the answer contains a radical $\sqrt{XY}$, give the value $XY$ under the radical.)
 
-![[src_jmo27yq_yosen__q03.png]]
+![[src_jmo27yq_yosen__Q03.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_conteggio|Conteggio]], [[method_simmetria|Simmetria]]
@@ -106,13 +106,13 @@ level: JMO Yosen
 >
 > trovare il valore di (area totale delle regioni nere) $-$ (area totale delle regioni bianche). (Se la risposta contiene un radicale $\sqrt{XY}$, dare il valore $XY$ sotto il radicale.)
 
-![[src_jmo27yq_yosen__q03.png]]
+![[src_jmo27yq_yosen__Q03.png]]
 
 **Argomento:** [[topic_geometria_piana|Geometria piana]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_conteggio|Conteggio combinatorio]], [[method_simmetria|Sfruttamento della simmetria]]
 **Abilità:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta del testo]]
+**Area:** [[Geometria]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** $60000$
-[[Quesiti/src_jmo27yq_yosen#q03|src_jmo27yq_yosen__Q03]]
 
 
 
@@ -125,7 +125,7 @@ level: JMO Yosen
 
 > Three distinct points $D$, $B$, $C$ are collinear with $DB=BC=2$. Point $A$ satisfies $AB=AC$. Suppose there exists a circle $\Gamma$ tangent to line $AC$ at $A$ and tangent to line $DC$ at $D$. Let $E$ be the intersection of $\Gamma$ and line $AB$ other than $A$, and let $F$ be the intersection of line $CE$ and $\Gamma$ other than $E$. Find the length of segment $EF$. (If the answer contains a radical $\sqrt{XY}$, give the value $XY$ under the radical.)
 
-![[src_jmo27yq_yosen__q04.png]]
+![[src_jmo27yq_yosen__Q04.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_trigonometria|Trigonometria]], [[method_coordinate|Coordinate]]
@@ -142,17 +142,17 @@ level: JMO Yosen
 
 > Tre punti distinti $D$, $B$, $C$ sono allineati con $DB=BC=2$. Il punto $A$ soddisfa $AB=AC$. Si supponga che esista una circonferenza $\Gamma$ tangente alla retta $AC$ in $A$ e tangente alla retta $DC$ in $D$. Sia $E$ l'intersezione di $\Gamma$ e della retta $AB$, diversa da $A$, e sia $F$ l'intersezione della retta $CE$ e di $\Gamma$, diversa da $E$. Trovare la lunghezza del segmento $EF$. (Se la risposta contiene un radicale $\sqrt{XY}$, dare il valore $XY$ sotto il radicale.)
 
-![[src_jmo27yq_yosen__q04.png]]
+![[src_jmo27yq_yosen__Q04.png]]
 
 **Argomento:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_trigonometria|Tecniche trigonometriche]], [[method_coordinate|Metodo delle coordinate]]
 **Abilità:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
 **Risposta:** $6$
-[[Quesiti/src_jmo27yq_yosen#q04|src_jmo27yq_yosen__Q04]]
 
 
 
-<span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_combinatoria,topic_aritmetica,method_casework,method_conteggio,method_inclusione_esclusione,skill_conteggio_sistematico,skill_manipolazione_algebrica"></span>
+<span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_combinatoria,topic_aritmetica,method_casework,method_conteggio,method_inclusione_esclusione,skill_conteggio_sistematico,skill_manipolazione_algebrica,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -163,8 +163,8 @@ level: JMO Yosen
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]], [[method_inclusione_esclusione|Inclusione-esclusione]]
-**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
-**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Risposta:** $7392$
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1pjGraeHG4yF3Hf3bQovok6OpLhKRwh23/view)
 
@@ -177,14 +177,16 @@ level: JMO Yosen
 > Quante tuple ordinate $(a,b,c,d,e)$ di interi positivi a due a due distinti sono tali che $a+b=c+d+e=29$?
 
 **Argomento:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei numeri]]
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei numeri]]
 **Metodo:** [[method_casework|Analisi per casi]], [[method_conteggio|Conteggio combinatorio]], [[method_inclusione_esclusione|Inclusione-esclusione]]
-**Abilità:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** $7392$
-[[Quesiti/src_jmo27yq_yosen#q05|src_jmo27yq_yosen__Q05]]
 
 
 
-<span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_algebra,topic_aritmetica,method_ricorsione,method_congruenze,skill_manipolazione_algebrica,skill_riconoscimento_pattern"></span>
+<span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_algebra,topic_aritmetica,topic_funzionali,method_ricorsione,method_congruenze,skill_manipolazione_algebrica,skill_riconoscimento_pattern"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -196,10 +198,10 @@ level: JMO Yosen
 > $$x_{n+13}=x_{n+5}+2x_n\qquad(n=1,2,\dots).$$
 > Find the value of $x_{144}$.
 
-**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_funzionali|Functional equations / sequences]]
 **Metodo:** [[method_ricorsione|Ricorsione]], [[method_congruenze|Congruenze]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
-**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Risposta:** $2888$
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1pjGraeHG4yF3Hf3bQovok6OpLhKRwh23/view)
 
@@ -218,10 +220,12 @@ level: JMO Yosen
 > Trovare il valore di $x_{144}$.
 
 **Argomento:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei numeri]]
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei numeri]], [[topic_funzionali|Equazioni funzionali / successioni]]
 **Metodo:** [[method_ricorsione|Ricorsione]], [[method_congruenze|Aritmetica modulare / congruenze]]
-**Abilità:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di schemi]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di schemi]]
+**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** $2888$
-[[Quesiti/src_jmo27yq_yosen#q06|src_jmo27yq_yosen__Q06]]
 
 
 
@@ -252,8 +256,8 @@ level: JMO Yosen
 **Argomento:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei numeri]]
 **Metodo:** [[method_casework|Analisi per casi]], [[method_estremalita|Principio di estremalità]]
 **Abilità:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_astrazione|Astrazione / generalizzazione]], [[skill_lettura_attenta|Lettura attenta del testo]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** $59$
-[[Quesiti/src_jmo27yq_yosen#q07|src_jmo27yq_yosen__Q07]]
 
 
 
@@ -284,8 +288,8 @@ level: JMO Yosen
 **Argomento:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_trigonometria|Tecniche trigonometriche]], [[method_coordinate|Metodo delle coordinate]]
 **Abilità:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
 **Risposta:** $\dfrac{3\sqrt{30}}{5}$
-[[Quesiti/src_jmo27yq_yosen#q08|src_jmo27yq_yosen__Q08]]
 
 
 
@@ -316,8 +320,8 @@ level: JMO Yosen
 **Argomento:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_doppio_conteggio|Doppio conteggio]], [[method_conteggio|Conteggio combinatorio]], [[method_simmetria|Sfruttamento della simmetria]]
 **Abilità:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione / generalizzazione]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** $15\cdot 2017!$
-[[Quesiti/src_jmo27yq_yosen#q09|src_jmo27yq_yosen__Q09]]
 
 
 
@@ -348,8 +352,8 @@ level: JMO Yosen
 **Argomento:** [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometria]]
 **Metodo:** [[method_trigonometria|Tecniche trigonometriche]], [[method_coordinate|Metodo delle coordinate]]
 **Abilità:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
 **Risposta:** $\dfrac{9}{2}$
-[[Quesiti/src_jmo27yq_yosen#q10|src_jmo27yq_yosen__Q10]]
 
 
 
@@ -380,8 +384,8 @@ level: JMO Yosen
 **Argomento:** [[topic_combinatoria|Combinatoria]], [[topic_logica|Logica, giochi, strategie]]
 **Metodo:** [[method_casework|Analisi per casi]], [[method_inclusione_esclusione|Inclusione-esclusione]], [[method_estremalita|Principio di estremalità]]
 **Abilità:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta del testo]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** $103$
-[[Quesiti/src_jmo27yq_yosen#q11|src_jmo27yq_yosen__Q11]]
 
 
 
@@ -412,5 +416,5 @@ level: JMO Yosen
 **Argomento:** [[topic_combinatoria|Combinatoria]], [[topic_logica|Logica, giochi, strategie]]
 **Metodo:** [[method_casework|Analisi per casi]], [[method_invarianti|Invarianti / monovarianti]], [[method_estremalita|Principio di estremalità]]
 **Abilità:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_astrazione|Astrazione / generalizzazione]], [[skill_lettura_attenta|Lettura attenta del testo]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** $23$
-[[Quesiti/src_jmo27yq_yosen#q12|src_jmo27yq_yosen__Q12]]

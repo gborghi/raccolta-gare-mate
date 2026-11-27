@@ -50,8 +50,6 @@ level: OBM Nível 2
 **Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 
-[[Quesiti/src_obm_2021_n2_fx#q01|src_obm_2021_n2_fx__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_geometria_piana,method_simmetria,method_trigonometria,skill_ragionamento_geometrico,skill_astrazione"></span>
@@ -90,11 +88,9 @@ level: OBM Nível 2
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_astrazione|Astrazione]]
 **Area:** [[Geometria]]
 
-[[Quesiti/src_obm_2021_n2_fx#q02|src_obm_2021_n2_fx__Q02]]
 
 
-
-<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_combinatoria,topic_aritmetica,method_estremalita,method_casework,skill_modellizzazione,skill_casework_accurato,skill_stima"></span>
+<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_combinatoria,topic_aritmetica,method_estremalita,method_casework,method_doppio_conteggio,skill_modellizzazione,skill_casework_accurato,skill_stima,skill_conteggio_sistematico"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -104,9 +100,9 @@ level: OBM Nível 2
 > In a football championship with $2021$ teams, the teams play against each other, all of them playing exactly once against each of the others. At the end of each match, in case of a draw, each team earns $1$ point; otherwise, the winner of the match earns $3$ points and the loser $0$ points. At the end of the championship, the two teams with the highest scores dispute the final. In case of a tie in points, the result of the first match played between them decides who has the advantage; that is, in any tie in final points the head-to-head winner has the advantage. The OBM Football Club won its first match, and it is known that, being the champion of the previous edition, it takes the advantage in any tie in final points. What is the minimum final score so that the OBM Football Club has some chance of reaching the final?
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_estremalita|Estremalità]], [[method_casework|Casework]]
-**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_casework_accurato|Casework accurato]], [[skill_stima|Stima]]
-**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_casework|Casework]], [[method_doppio_conteggio|Double counting]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_casework_accurato|Casework accurato]], [[skill_stima|Stima]], [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1ThSBX1Rar2Rzq0oCMdBgd9OxKeMrLCth/view)
 
 
@@ -117,12 +113,11 @@ level: OBM Nível 2
 
 > In un campionato di calcio con $2021$ squadre, le squadre si affrontano tutte tra loro, ciascuna giocando esattamente una volta contro ciascuna delle altre. Al termine di ogni partita, in caso di pareggio, ciascuna squadra ottiene $1$ punti; altrimenti, la squadra vincitrice della partita ottiene $3$ punti e quella sconfitta $0$ punti. Al termine del campionato, le due squadre con il punteggio più alto disputano la finale. In caso di parità di punti, il risultato della prima partita giocata tra loro determina chi ha l'vantaggio; vale a dire che, in caso di qualsiasi parità di punti finali, la squadra vincitrice dello scontro diretto ha l'vantaggio. L'OBM Football Club ha vinto la sua prima partita, ed è noto che, essendo campione dell'edizione precedente, gode dell'vantaggio in caso di qualsiasi parità di punti finali. Qual è il punteggio finale minimo affinché l'OBM Football Club abbia qualche possibilità di raggiungere la finale?
 
-**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_estremalita|Estremalità]], [[method_casework|Casework]]
-**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_casework_accurato|Casework accurato]], [[skill_stima|Stima]]
-**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 
-[[Quesiti/src_obm_2021_n2_fx#q03|src_obm_2021_n2_fx__Q03]]
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_casework|Casework]], [[method_doppio_conteggio|Doppio conteggio]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_casework_accurato|Casework accurato]], [[skill_stima|Stima]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 
 
 
@@ -137,7 +132,7 @@ level: OBM Nível 2
 > 
 > Determine the ratio $\dfrac{a}{c}$.
 
-![[src_obm_2021_n2_fx__q04.png]]
+![[src_obm_2021_n2_fx__Q04.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_coordinate|Coordinate]]
@@ -155,18 +150,16 @@ level: OBM Nível 2
 >
 > Determinare il rapporto $\dfrac{a}{c}$.
 
-![[src_obm_2021_n2_fx__q04.png]]
+![[src_obm_2021_n2_fx__Q04.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_coordinate|Coordinate]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]]
 **Area:** [[Geometria]]
 
-[[Quesiti/src_obm_2021_n2_fx#q04|src_obm_2021_n2_fx__Q04]]
 
 
-
-<span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_aritmetica,method_casework,method_congruenze,method_estremalita,skill_casework_accurato,skill_manipolazione_algebrica,skill_astrazione"></span>
+<span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_aritmetica,method_casework,method_congruenze,method_estremalita,method_fattorizzazione,skill_casework_accurato,skill_manipolazione_algebrica,skill_astrazione"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -184,9 +177,9 @@ level: OBM Nível 2
 > Determine all miranha triples.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_casework|Casework]], [[method_congruenze|Congruenze]], [[method_estremalita|Estremalità]]
+**Metodo:** [[method_casework|Casework]], [[method_congruenze|Congruenze]], [[method_estremalita|Estremalità]], [[method_fattorizzazione|Factorisation / algebraic manipulation]]
 **Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]]
-**Area:** [[Aritmetica e Teoria dei Numeri]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1ThSBX1Rar2Rzq0oCMdBgd9OxKeMrLCth/view)
 
 
@@ -205,16 +198,15 @@ level: OBM Nível 2
 >
 > Determinare tutte le triple miranha.
 
+
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_casework|Casework]], [[method_congruenze|Congruenze]], [[method_estremalita|Estremalità]]
+**Metodo:** [[method_casework|Casework]], [[method_congruenze|Congruenze]], [[method_estremalita|Estremalità]], [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
 **Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 
-[[Quesiti/src_obm_2021_n2_fx#q05|src_obm_2021_n2_fx__Q05]]
 
 
-
-<span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_aritmetica,topic_insiemi_funzioni,method_congruenze,method_casework,skill_astrazione,skill_lettura_attenta,skill_riconoscimento_pattern"></span>
+<span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_aritmetica,topic_insiemi_funzioni,method_congruenze,method_casework,skill_astrazione,skill_lettura_attenta,skill_riconoscimento_pattern,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -230,8 +222,8 @@ level: OBM Nível 2
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_insiemi_funzioni|Insiemi e funzioni]]
 **Metodo:** [[method_congruenze|Congruenze]], [[method_casework|Casework]]
-**Abilita:** [[skill_astrazione|Astrazione]], [[skill_lettura_attenta|Lettura attenta]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
-**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
+**Abilita:** [[skill_astrazione|Astrazione]], [[skill_lettura_attenta|Lettura attenta]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Algebra e Analisi|Algebra and analysis]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1ThSBX1Rar2Rzq0oCMdBgd9OxKeMrLCth/view)
 
 
@@ -247,9 +239,8 @@ level: OBM Nível 2
 >
 > *Osservazione:* il simbolo $\lfloor x \rfloor$ denota il più grande intero minore o uguale a $x$. Ad esempio, se $\alpha=\sqrt{3}$, poiché $\sqrt{3}=1{,}73\ldots$, si ha $\lfloor \sqrt{3} \rfloor=1$, $\lfloor 2\sqrt{3} \rfloor=3$, $\lfloor 3\sqrt{3} \rfloor=5$, $\lfloor 4\sqrt{3} \rfloor=6$ e così via. In questo caso $A(\alpha)=\{1,3,5,6,\ldots\}$.
 
+
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_insiemi_funzioni|Insiemi e funzioni]]
 **Metodo:** [[method_congruenze|Congruenze]], [[method_casework|Casework]]
-**Abilita:** [[skill_astrazione|Astrazione]], [[skill_lettura_attenta|Lettura attenta]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Abilita:** [[skill_astrazione|Astrazione]], [[skill_lettura_attenta|Lettura attenta]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
-
-[[Quesiti/src_obm_2021_n2_fx#q06|src_obm_2021_n2_fx__Q06]]

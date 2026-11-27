@@ -21,7 +21,7 @@ level: China Mathematical Competition (Complementary Test)
 > (1) $P_0'$ and $P_0$ are coincident, and arcs $\widehat{P_0Q_0}$ and $\widehat{Q_1P_0'}$ are tangent to each other at $P_0$;
 > (2) Points $P_0$, $Q_0$, $Q_1$, $P_1$ are concyclic.
 
-![[src_cn_b07_w54__q01.png]]
+![[src_cn_b07_w54__Q01.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_geometria_analitica|Geometria analitica]]
 **Metodo:** [[method_simmetria|Simmetria]]
@@ -39,7 +39,7 @@ level: China Mathematical Competition (Complementary Test)
 
 > Sia data un'ellisse i cui fuochi sono i punti $B_0$ e $B_1$, la quale interseca il lato $AB_i$ di $\triangle AB_0B_1$ nel punto $C_i$ ($i = 0, 1$). Preso un punto arbitrario $P_0$ sulla retta di prolungamento di $AB_0$, si tracci l'arco $\widehat{P_0Q_0}$ avente per centro $B_0$ e raggio $B_0P_0$, che interseca la retta di prolungamento di $C_1B_0$ nel punto $Q_0$. Si tracci l'arco $\widehat{Q_0P_1}$ avente per centro $C_1$ e raggio $C_1Q_0$, che interseca la retta di prolungamento di $B_1A$ nel punto $P_1$. Si tracci l'arco $\widehat{P_1Q_1}$ avente per centro $B_1$ e raggio $B_1P_1$, che interseca la retta di prolungamento di $C_0B_1$ nel punto $Q_1$. Si tracci l'arco $\widehat{Q_1P_0'}$ avente per centro $C_0$ e raggio $C_0Q_1$, che interseca la retta di prolungamento di $AB_0$ nel punto $P_0'$. Si dimostri che (1) $P_0'$ e $P_0$ coincidono, e che gli archi $\widehat{P_0Q_0}$ e $\widehat{Q_1P_0'}$ sono tangenti tra loro in $P_0$; (2) i punti $P_0$, $Q_0$, $Q_1$, $P_1$ sono conciclici.
 
-![[src_cn_b07_w54__q01.png]]
+![[src_cn_b07_w54__Q01.png]]
 
 > [!warning] Estratto da verificare con la fonte.
 
@@ -48,11 +48,9 @@ level: China Mathematical Competition (Complementary Test)
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Geometria]]
 
-[[Quesiti/src_cn_cmc-complementary-test_2006#q01|src_cn_cmc-complementary-test_2006__Q01]]
 
 
-
-<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_combinatoria,method_estremalita,method_casework,skill_conteggio_sistematico,skill_casework_accurato,skill_ragionamento_geometrico"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_combinatoria,method_estremalita,method_casework,method_conteggio,skill_conteggio_sistematico,skill_casework_accurato,skill_ragionamento_geometrico"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -63,12 +61,12 @@ level: China Mathematical Competition (Complementary Test)
 > 
 > What is the least number of pieces to be removed from the board to ensure that no group of 5 pieces on the board which has Property A? You must prove your answer.
 
-![[src_cn_b07_w62__q02.png]]
+![[src_cn_b07_w62__Q02.png]]
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
-**Metodo:** [[method_estremalita|Estremalità]], [[method_casework|Casework]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_casework|Casework]], [[method_conteggio|Combinatorial counting]]
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
-**Area:** [[Combinatoria, Logica e Probabilita]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Risposta:** 11
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1A6F-Sk42BaQt80ts_sFXZiDY4uHJtL3I/view)
 
@@ -82,14 +80,13 @@ level: China Mathematical Competition (Complementary Test)
 >
 > Qual è il numero minimo di pezzi da rimuovere dal tabellone per garantire che non esista sul tabellone alcun gruppo di 5 pezzi dotato della Proprietà A? Devi dimostrare la tua risposta.
 
-![[src_cn_b07_w62__q02.png]]
+![[src_cn_b07_w62__Q02.png]]
+
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
-**Metodo:** [[method_estremalita|Estremalità]], [[method_casework|Casework]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_casework|Casework]], [[method_conteggio|Conteggio combinatorio]]
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
-
-[[Quesiti/src_cn_cmc-complementary-test_2006#q02|src_cn_cmc-complementary-test_2006__Q02]]
 
 
 
@@ -127,5 +124,3 @@ level: China Mathematical Competition (Complementary Test)
 **Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_casework|Casework]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Algebra e Analisi]]
-
-[[Quesiti/src_cn_cmc-complementary-test_2006#q03|src_cn_cmc-complementary-test_2006__Q03]]

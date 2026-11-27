@@ -43,12 +43,11 @@ level: nazionale
 **Topic:** [[topic_geometria_solida|Solid geometry]]
 **Method:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
 **Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
-
-[[Quesiti/src_cesenatico_2016_finale#q01|src_cesenatico_2016_finale__Q01]]
-
+**Area:** [[Geometria|Geometry]]
 
 
-<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_geometria_piana,topic_aritmetica,method_casework,method_conteggio,skill_casework_accurato"></span>
+
+<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_geometria_piana,topic_aritmetica,method_casework,method_conteggio,skill_casework_accurato,skill_conteggio_sistematico,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -65,8 +64,8 @@ level: nazionale
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_casework|Analisi per casi]], [[method_conteggio|Conteggio combinatorio]]
-**Abilita:** [[skill_casework_accurato|Casework accurato]]
-**Area:** [[Aritmetica e Teoria dei Numeri]], [[Geometria]]
+**Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 3930
 **Fonte:** [apri PDF p.10](https://drive.google.com/file/d/1GqznC2FLirTklgcOqTqrn2k0HEDGTUYd/view)
 
@@ -79,15 +78,15 @@ level: nazionale
 > A great feast on Naboole
 > To celebrate the victory over the Merchants' Foundation, a great feast is under way on Naboole. The banquet tables have the shape of right-angled triangles with sides of integer length. Moreover every table has at least one leg whose length is a prime number less than 20. Queen Atiyala has insisted that there be no two tables of congruent shape (on Naboole, putting out two identical tables is like putting out none). What is the greatest possible sum of the areas of the tables present at the banquet? Two triangles are regarded as congruent if they can be superimposed on each other by rotations, translations and reflections.
 
+
 **Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_aritmetica|Arithmetic / Number theory]]
-**Method:** [[method_casework|Case analysis]], [[method_conteggio|Combinatorial counting]]
-**Skill:** [[skill_casework_accurato|Careful case analysis]]
-
-[[Quesiti/src_cesenatico_2016_finale#q02|src_cesenatico_2016_finale__Q02]]
-
+**Metodo:** [[method_casework|Case analysis]], [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]], [[skill_conteggio_sistematico|Systematic counting]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Geometria|Geometry]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
 
-<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_geometria_piana,method_coordinate,skill_ragionamento_geometrico"></span>
+
+<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_geometria_piana,method_coordinate,method_simmetria,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -101,8 +100,8 @@ level: nazionale
 > TEX che l’area del triangolo ABP è pari a 192. Quanto vale il prodotto delle lunghezze di PA e PC?
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
-**Metodo:** [[method_coordinate|Metodo delle coordinate]]
-**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Metodo:** [[method_coordinate|Metodo delle coordinate]], [[method_simmetria|Sfruttamento della simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 **Risposta:** 0300
 **Fonte:** [apri PDF p.10](https://drive.google.com/file/d/1GqznC2FLirTklgcOqTqrn2k0HEDGTUYd/view)
@@ -116,15 +115,15 @@ level: nazionale
 > [⋆] The vanished planet
 > "Inside the trapezium ABCD, the planet you will find." Master Yoneda, speaking in inversions, indicates to Obi-Van Kampenobi the location of the planet Rudino. "The trapezium, isosceles it is. The bases AB and CD, 32 and 18 long respectively, they are. At a point P such that ∠PAD = ∠PBA and ∠PDA = ∠PCD, the planet lies." Obi-Van learns from his friend TEX that the area of triangle ABP is 192. What is the product of the lengths of PA and PC worth?
 
+
 **Topic:** [[topic_geometria_piana|Plane geometry]]
-**Method:** [[method_coordinate|Coordinate method]]
-**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
-
-[[Quesiti/src_cesenatico_2016_finale#q03|src_cesenatico_2016_finale__Q03]]
-
+**Metodo:** [[method_coordinate|Coordinate method]], [[method_simmetria|Using symmetry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Geometria|Geometry]]
 
 
-<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_funzionali,method_ricorsione,method_telescoping,skill_manipolazione_algebrica"></span>
+
+<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_funzionali,method_ricorsione,method_telescoping,skill_manipolazione_algebrica,skill_riconoscimento_pattern"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -140,7 +139,7 @@ level: nazionale
 
 **Topic:** [[topic_funzionali|Equazioni funzionali / successioni]]
 **Metodo:** [[method_ricorsione|Ricorsione]], [[method_telescoping|Somme telescopiche]]
-**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Algebra e Analisi]]
 **Risposta:** 4525
 **Fonte:** [apri PDF p.10](https://drive.google.com/file/d/1GqznC2FLirTklgcOqTqrn2k0HEDGTUYd/view)
@@ -154,15 +153,15 @@ level: nazionale
 > The clone army
 > Master Sisifo-Denis has commissioned the cloners of Rudino to create an army of the Republic. In the course of the nth month, xn clones are produced. The first month is spent analysing the DNA of Rango Fett, so x1 = 0. From the following month, production obeys the following rules: x4n = x4n−1 +2n−1; x4n+1 = x4n +2n+1; x4n+2 = x4n+1 +2n; x4n+3 = x4n+2 +2n+2 (with n an integer). How many clones were produced in all in the first 100 months?
 
+
 **Topic:** [[topic_funzionali|Functional equations / sequences]]
-**Method:** [[method_ricorsione|Recursion]], [[method_telescoping|Telescoping sums]]
-**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
-
-[[Quesiti/src_cesenatico_2016_finale#q04|src_cesenatico_2016_finale__Q04]]
-
+**Metodo:** [[method_ricorsione|Recursion]], [[method_telescoping|Telescoping sums]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
 
 
-<span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_algebra,method_trigonometria,skill_manipolazione_algebrica"></span>
+
+<span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_algebra,method_trigonometria,method_fattorizzazione,skill_manipolazione_algebrica,skill_riconoscimento_pattern"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -179,8 +178,8 @@ level: nazionale
 > la risposta alla domanda di Obi-Van?
 
 **Topic:** [[topic_algebra|Algebra]]
-**Metodo:** [[method_trigonometria|Tecniche trigonometriche]]
-**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Metodo:** [[method_trigonometria|Tecniche trigonometriche]], [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Algebra e Analisi]]
 **Risposta:** 6513
 **Fonte:** [apri PDF p.10](https://drive.google.com/file/d/1GqznC2FLirTklgcOqTqrn2k0HEDGTUYd/view)
@@ -196,15 +195,15 @@ level: nazionale
 > 1
 > 1−2k for k = 1, 2, . . . , 6. What is the answer to Obi-Van's question?
 
+
 **Topic:** [[topic_algebra|Algebra]]
-**Method:** [[method_trigonometria|Trigonometric techniques]]
-**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
-
-[[Quesiti/src_cesenatico_2016_finale#q05|src_cesenatico_2016_finale__Q05]]
-
+**Metodo:** [[method_trigonometria|Trigonometric techniques]], [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
 
 
-<span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_aritmetica,method_congruenze,skill_casework_accurato"></span>
+
+<span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_aritmetica,method_congruenze,method_casework,skill_casework_accurato,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -222,8 +221,8 @@ level: nazionale
 > Gara a Squadre 2016 – Finale Nazionale – Testi dei problemi
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]]
-**Abilita:** [[skill_casework_accurato|Casework accurato]]
+**Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]], [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 0008
 **Fonte:** [apri PDF p.10](https://drive.google.com/file/d/1GqznC2FLirTklgcOqTqrn2k0HEDGTUYd/view)
@@ -237,15 +236,15 @@ level: nazionale
 > Diabolical Sudooku
 > On the planet Geodesis, between one evil plan and the next, Count Sudooku amuses himself by writing the numbers of at most 10 digits whose first and last digits are different from each other and from zero. Beside each number m he writes the number n obtained from m by swapping the first and the last digit, and then notes the highest common factor d of m and n. Determine the greatest possible value of d and add to it the number of its digits.
 
+
 **Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
-**Method:** [[method_congruenze|Modular arithmetic / congruences]]
-**Skill:** [[skill_casework_accurato|Careful case analysis]]
-
-[[Quesiti/src_cesenatico_2016_finale#q06|src_cesenatico_2016_finale__Q06]]
-
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]], [[method_casework|Case analysis]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
 
-<span class="atom-split" id="q07" data-atom="q07" data-title="Quesito 7" data-tags="topic_geometria_solida,skill_ragionamento_geometrico"></span>
+
+<span class="atom-split" id="q07" data-atom="q07" data-title="Quesito 7" data-tags="topic_geometria_solida,topic_trigonometria,method_trigonometria,skill_ragionamento_geometrico,skill_modellizzazione"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -259,8 +258,9 @@ level: nazionale
 > triangolare. Rispetto al precedente, ogni livello ha altezza doppia e lati di base lunghi la metà. Inoltre gli assi dei
 > diversi prismi coincidono. Quanto misura la superficie visibile della torre?
 
-**Topic:** [[topic_geometria_solida|Geometria solida]]
-**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Topic:** [[topic_geometria_solida|Geometria solida]], [[topic_trigonometria|Trigonometria]]
+**Metodo:** [[method_trigonometria|Tecniche trigonometriche]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
 **Area:** [[Geometria]]
 **Risposta:** 3782
 **Fonte:** [apri PDF p.11](https://drive.google.com/file/d/1GqznC2FLirTklgcOqTqrn2k0HEDGTUYd/view)
@@ -274,14 +274,15 @@ level: nazionale
 > The seat of the Council
 > The Tower of the High Council, on the planet Coruscantor, is built on six levels. The lowest has the shape of a right prism whose base is a regular octagon of side 10, and whose height is in turn 10 long. The subsequent levels also have the shape of right prisms, whose bases are (in order) heptagonal, hexagonal, pentagonal, square and triangular. Compared with the previous one, each level has double the height and base sides half as long. Moreover the axes of the various prisms coincide. What does the visible surface of the tower measure?
 
-**Topic:** [[topic_geometria_solida|Solid geometry]]
-**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
 
-[[Quesiti/src_cesenatico_2016_finale#q07|src_cesenatico_2016_finale__Q07]]
+**Topic:** [[topic_geometria_solida|Solid geometry]], [[topic_trigonometria|Trigonometry]]
+**Metodo:** [[method_trigonometria|Trigonometric techniques]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Geometria|Geometry]]
 
 
 
-<span class="atom-split" id="q08" data-atom="q08" data-title="Quesito 8" data-tags="topic_funzionali,topic_aritmetica,method_ricorsione,method_telescoping,skill_manipolazione_algebrica"></span>
+<span class="atom-split" id="q08" data-atom="q08" data-title="Quesito 8" data-tags="topic_funzionali,topic_aritmetica,method_ricorsione,method_telescoping,skill_manipolazione_algebrica,skill_riconoscimento_pattern,skill_stima"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -300,7 +301,7 @@ level: nazionale
 
 **Topic:** [[topic_funzionali|Equazioni funzionali / successioni]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_ricorsione|Ricorsione]], [[method_telescoping|Somme telescopiche]]
-**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_stima|Stima e approssimazione]]
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 1791
 **Fonte:** [apri PDF p.11](https://drive.google.com/file/d/1GqznC2FLirTklgcOqTqrn2k0HEDGTUYd/view)
@@ -314,15 +315,15 @@ level: nazionale
 > [⋆] The separatist mine
 > On Mustafausdorff, a volcanic planet where every pair of points is separated by two craters, there is an intense activity of mineral extraction. The droids employed in the work are divided into two teams, and each of them is assigned a protocol code consisting of a positive integer. To the ith droid of the first team is assigned the code ai, with a1 = a2 = 1 and an+1 = an +an−1 for n ≥ 2. To the ith droid of the second team is assigned the code bi, with b1 = 1 and bn+1 = an+1 +bn for n ≥ 1. Because of some malfunctions, a quality check is carried out on the droids. The 1792nd droid of the first team is asked to add up the protocol codes of the first 1789 droids of its team, add its own code, and subtract from the result the sum of the codes of the first 1789 droids of the second team. What are the first four digits of the number thus obtained?
 
+
 **Topic:** [[topic_funzionali|Functional equations / sequences]], [[topic_aritmetica|Arithmetic / Number theory]]
-**Method:** [[method_ricorsione|Recursion]], [[method_telescoping|Telescoping sums]]
-**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
-
-[[Quesiti/src_cesenatico_2016_finale#q08|src_cesenatico_2016_finale__Q08]]
-
+**Metodo:** [[method_ricorsione|Recursion]], [[method_telescoping|Telescoping sums]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_riconoscimento_pattern|Pattern recognition]], [[skill_stima|Estimation and approximation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
 
-<span class="atom-split" id="q09" data-atom="q09" data-title="Quesito 9" data-tags="topic_geometria_piana,method_trigonometria,skill_ragionamento_geometrico"></span>
+
+<span class="atom-split" id="q09" data-atom="q09" data-title="Quesito 9" data-tags="topic_geometria_piana,topic_trigonometria,method_trigonometria,skill_ragionamento_geometrico"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -338,7 +339,7 @@ level: nazionale
 > Detta W la proiezione di E su AC e Z la proiezione di F su AB, calcolare il prodotto delle lunghezze dei segmenti
 > XZ e Y W, sapendo che il segmento DF misura 114”.
 
-**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometria]]
 **Metodo:** [[method_trigonometria|Tecniche trigonometriche]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]]
@@ -354,15 +355,15 @@ level: nazionale
 > Help me, Obi-Van!
 > "Help me, Obi-Van Kampenobi, you are my only hope: solve this geometry problem!" The four-dimensional cylindrical droid R2 × D2 continues Princess Liea's request for help by transmitting the data of the problem: "Let ABC be a triangle, with BAC = 40° and ABC = 100°. Let D be any point on the bisector issuing from A. Let X and Y be the projections of D onto AB and AC respectively. Let then E and F be the points of intersection (distinct from B and C) of the circumcircle of ABD and of the circumcircle of ADC respectively with the line BC. Let W be the projection of E onto AC and Z the projection of F onto AB, and calculate the product of the lengths of the segments XZ and YW, knowing that the segment DF measures 114."
 
-**Topic:** [[topic_geometria_piana|Plane geometry]]
-**Method:** [[method_trigonometria|Trigonometric techniques]]
-**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
 
-[[Quesiti/src_cesenatico_2016_finale#q09|src_cesenatico_2016_finale__Q09]]
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_trigonometria|Trigonometry]]
+**Metodo:** [[method_trigonometria|Trigonometric techniques]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
 
 
 
-<span class="atom-split" id="q10" data-atom="q10" data-title="Quesito 10" data-tags="topic_aritmetica,topic_combinatoria,method_conteggio,skill_conteggio_sistematico"></span>
+<span class="atom-split" id="q10" data-atom="q10" data-title="Quesito 10" data-tags="topic_aritmetica,topic_combinatoria,method_conteggio,method_casi_conteggio,skill_conteggio_sistematico"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -376,7 +377,7 @@ level: nazionale
 > avere accesso ai dati sulla Morte Nera?
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
-**Metodo:** [[method_conteggio|Conteggio combinatorio]]
+**Metodo:** [[method_conteggio|Conteggio combinatorio]], [[method_casi_conteggio|Conteggio per casi]]
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0998
@@ -391,15 +392,15 @@ level: nazionale
 > Encrypted plans
 > Princess Liea, before being imprisoned, saved in the memory of the droid R2 × D2 all the data on the Death Star in 2016 different files. The droid numbered them in base 2 from 1 to 2016 and encrypted them. The access key is the number of digit 1s that appear in all in the numbering of the files. What number must the Rebel Alliance enter in order to have access to the data on the Death Star?
 
+
 **Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_combinatoria|Combinatorics]]
-**Method:** [[method_conteggio|Combinatorial counting]]
-**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
-
-[[Quesiti/src_cesenatico_2016_finale#q10|src_cesenatico_2016_finale__Q10]]
-
+**Metodo:** [[method_conteggio|Combinatorial counting]], [[method_casi_conteggio|Counting by cases]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
 
-<span class="atom-split" id="q11" data-atom="q11" data-title="Quesito 11" data-tags="topic_aritmetica,method_congruenze,skill_casework_accurato"></span>
+
+<span class="atom-split" id="q11" data-atom="q11" data-title="Quesito 11" data-tags="topic_aritmetica,method_congruenze,method_casework,skill_casework_accurato,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -414,8 +415,8 @@ level: nazionale
 > base 4. Quante sono al massimo le casse?
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]]
-**Abilita:** [[skill_casework_accurato|Casework accurato]]
+**Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]], [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 0033
 **Fonte:** [apri PDF p.11](https://drive.google.com/file/d/1GqznC2FLirTklgcOqTqrn2k0HEDGTUYd/view)
@@ -429,15 +430,15 @@ level: nazionale
 > Geometry on the black market
 > The smuggler Han Singleton hides in his ship, the Millennium Problem, crates of laser compasses to be used during the team competition. Each crate is labelled with a multiple of 3. The pilot notices that for each of these numbers there exists a base b, with 2 ≤ b ≤ 100, in which the number has all the digits from 1 to b−1 in increasing order from left to right. An example is crate number 27, because 27 is written "123" in base 4. What is the greatest possible number of crates?
 
+
 **Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
-**Method:** [[method_congruenze|Modular arithmetic / congruences]]
-**Skill:** [[skill_casework_accurato|Careful case analysis]]
-
-[[Quesiti/src_cesenatico_2016_finale#q11|src_cesenatico_2016_finale__Q11]]
-
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]], [[method_casework|Case analysis]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
 
-<span class="atom-split" id="q12" data-atom="q12" data-title="Quesito 12" data-tags="topic_probabilita,topic_combinatoria,method_invarianti,method_simmetria,skill_riconoscimento_pattern"></span>
+
+<span class="atom-split" id="q12" data-atom="q12" data-title="Quesito 12" data-tags="topic_probabilita,topic_combinatoria,method_invarianti,method_simmetria,method_grafi,method_colorazione,skill_riconoscimento_pattern,skill_modellizzazione"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -455,8 +456,8 @@ level: nazionale
 > Si risponda indicando la somma di numeratore e denominatore della frazione ridotta ai minimi termini.
 
 **Topic:** [[topic_probabilita|Probabilita e statistica]], [[topic_combinatoria|Combinatoria]]
-**Metodo:** [[method_invarianti|Invarianti / monovarianti]], [[method_simmetria|Sfruttamento della simmetria]]
-**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Metodo:** [[method_invarianti|Invarianti / monovarianti]], [[method_simmetria|Sfruttamento della simmetria]], [[method_grafi|Teoria dei grafi]], [[method_colorazione|Colorazione / parita]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0010
 **Fonte:** [apri PDF p.11](https://drive.google.com/file/d/1GqznC2FLirTklgcOqTqrn2k0HEDGTUYd/view)
@@ -470,15 +471,15 @@ level: nazionale
 > A degenerate game
 > To pass the time on the Millennium Problem, Han Singleton and his copilot Chewbashev often play Dejenerik. One day the 3×3 holographic board is left on in the middle of a game, in a configuration in which there are exactly four pieces placed on the four corner squares. Every minute each of the four pieces jumps at random onto one of the adjacent squares (horizontally or vertically, not diagonally); all the destination squares allowed for a piece are equally likely to be chosen. After 2016 jumps the pieces stop. Knowing that no pair of pieces has ever met on the same square, determine the probability that at the end the pieces still occupy the four corners of the board (possibly in an order different from the initial one). Answer by indicating the sum of the numerator and the denominator of the fraction in lowest terms.
 
+
 **Topic:** [[topic_probabilita|Probability and statistics]], [[topic_combinatoria|Combinatorics]]
-**Method:** [[method_invarianti|Invariants / monovariants]], [[method_simmetria|Using symmetry]]
-**Skill:** [[skill_riconoscimento_pattern|Pattern recognition]]
-
-[[Quesiti/src_cesenatico_2016_finale#q12|src_cesenatico_2016_finale__Q12]]
-
+**Metodo:** [[method_invarianti|Invariants / monovariants]], [[method_simmetria|Using symmetry]], [[method_grafi|Graph theory]], [[method_colorazione|Colouring / parity]]
+**Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]], [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
 
-<span class="atom-split" id="q13" data-atom="q13" data-title="Quesito 13" data-tags="topic_algebra,method_fattorizzazione,skill_manipolazione_algebrica"></span>
+
+<span class="atom-split" id="q13" data-atom="q13" data-title="Quesito 13" data-tags="topic_algebra,method_fattorizzazione,skill_manipolazione_algebrica,skill_riconoscimento_pattern"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -496,7 +497,7 @@ level: nazionale
 
 **Topic:** [[topic_algebra|Algebra]]
 **Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
-**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Algebra e Analisi]]
 **Risposta:** 0082
 **Fonte:** [apri PDF p.11](https://drive.google.com/file/d/1GqznC2FLirTklgcOqTqrn2k0HEDGTUYd/view)
@@ -510,15 +511,15 @@ level: nazionale
 > The third degree
 > The fearsome Mond Vander is interrogating Princess Liea to obtain the coordinates of the secret rebel base. She at last lets slip the crucial information: the number of the sector in which the base lies is given by the sum of the numerator and the denominator of the fraction q(−4/3)/q(−2) (reduced to lowest terms). Fortunately the polynomial q(x) is complicated to construct, and the Empire's officers are still trying to calculate it. To obtain it one must start from the polynomial p(x) = x3 −6x2 +4x+12, call a, b and c its real roots, and take as the polynomial q(x) the one of degree three having as roots ab + a + b, bc + b + c, ca + c + a, and such that q(2015) = 20162017. What is the number the Empire is looking for?
 
+
 **Topic:** [[topic_algebra|Algebra]]
-**Method:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
-**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
-
-[[Quesiti/src_cesenatico_2016_finale#q13|src_cesenatico_2016_finale__Q13]]
-
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
 
 
-<span class="atom-split" id="q14" data-atom="q14" data-title="Quesito 14" data-tags="topic_aritmetica,method_fattorizzazione,skill_casework_accurato"></span>
+
+<span class="atom-split" id="q14" data-atom="q14" data-title="Quesito 14" data-tags="topic_aritmetica,method_fattorizzazione,method_casework,skill_casework_accurato,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -535,8 +536,8 @@ level: nazionale
 > 3/5
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
-**Abilita:** [[skill_casework_accurato|Casework accurato]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]], [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 1200
 **Fonte:** [apri PDF p.11](https://drive.google.com/file/d/1GqznC2FLirTklgcOqTqrn2k0HEDGTUYd/view)
@@ -550,15 +551,15 @@ level: nazionale
 > The rebel base within range
 > The Empire's officers have realised that the secret rebel base lies on one of the 2016 moons of Yacobin (numbered from 1 to 2016). Some spies have revealed crucial information about the number n corresponding to the moon on which the rebel base lies: the sum of the positive even divisors of n is equal to the sum of the positive divisors of n that are multiples of 5, and n has at least 13 positive even divisors. Which moon must be destroyed by the Empire?
 
+
 **Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
-**Method:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
-**Skill:** [[skill_casework_accurato|Careful case analysis]]
-
-[[Quesiti/src_cesenatico_2016_finale#q14|src_cesenatico_2016_finale__Q14]]
-
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]], [[method_casework|Case analysis]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
 
-<span class="atom-split" id="q15" data-atom="q15" data-title="Quesito 15" data-tags="topic_aritmetica,method_congruenze,skill_riconoscimento_pattern"></span>
+
+<span class="atom-split" id="q15" data-atom="q15" data-title="Quesito 15" data-tags="topic_aritmetica,method_congruenze,method_casework,skill_riconoscimento_pattern,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -573,8 +574,8 @@ level: nazionale
 > avanzino navi in nessuno dei due casi. Da quante astronavi è composta, al minimo?
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]]
-**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]], [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 0331
 **Fonte:** [apri PDF p.12](https://drive.google.com/file/d/1GqznC2FLirTklgcOqTqrn2k0HEDGTUYd/view)
@@ -588,15 +589,15 @@ level: nazionale
 > Fighters in formation
 > A squadron of LTE fighters consists of a certain number of ships (greater than 1), which can arrange themselves in various formations. An n-gon formation consists of one ship surrounded by a certain number of concentric n-gons. The innermost n-gon is formed by n ships, the second by 2n, the third by 3n, and so on up to the outermost. The squadron to which Mond Vander belongs can arrange itself in a pentagon formation and in a hexagon formation without any ships left over in either case. Of how many ships does it consist, at least?
 
+
 **Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
-**Method:** [[method_congruenze|Modular arithmetic / congruences]]
-**Skill:** [[skill_riconoscimento_pattern|Pattern recognition]]
-
-[[Quesiti/src_cesenatico_2016_finale#q15|src_cesenatico_2016_finale__Q15]]
-
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]], [[method_casework|Case analysis]]
+**Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
 
-<span class="atom-split" id="q16" data-atom="q16" data-title="Quesito 16" data-tags="topic_geometria_piana,method_trigonometria,skill_ragionamento_geometrico"></span>
+
+<span class="atom-split" id="q16" data-atom="q16" data-title="Quesito 16" data-tags="topic_geometria_piana,topic_trigonometria,method_trigonometria,skill_ragionamento_geometrico"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -611,7 +612,7 @@ level: nazionale
 > Luke si trova sullo stesso piano delle torrette e del bersaglio, alla distanza di 2016 m sia da B che da C e dalla parte
 > opposta di A rispetto a BC. Quanto è distante in metri Luke dal suo obiettivo?
 
-**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometria]]
 **Metodo:** [[method_trigonometria|Tecniche trigonometriche]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]]
@@ -630,15 +631,15 @@ level: nazionale
 > 3 m.
 > Luke lies in the same plane as the turrets and the target, at a distance of 2016 m from both B and C, and on the opposite side of A with respect to BC. How far, in metres, is Luke from his target?
 
-**Topic:** [[topic_geometria_piana|Plane geometry]]
-**Method:** [[method_trigonometria|Trigonometric techniques]]
-**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
 
-[[Quesiti/src_cesenatico_2016_finale#q16|src_cesenatico_2016_finale__Q16]]
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_trigonometria|Trigonometry]]
+**Metodo:** [[method_trigonometria|Trigonometric techniques]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
 
 
 
-<span class="atom-split" id="q17" data-atom="q17" data-title="Quesito 17" data-tags="topic_aritmetica,method_congruenze,skill_riconoscimento_pattern"></span>
+<span class="atom-split" id="q17" data-atom="q17" data-title="Quesito 17" data-tags="topic_aritmetica,method_congruenze,method_casework,skill_riconoscimento_pattern,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -651,8 +652,8 @@ level: nazionale
 > 11 +22 +33 +...+20162016. Qual è l’ultima cifra di tale numero?
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]]
-**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]], [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 0004
 **Fonte:** [apri PDF p.12](https://drive.google.com/file/d/1GqznC2FLirTklgcOqTqrn2k0HEDGTUYd/view)
@@ -666,15 +667,15 @@ level: nazionale
 > The jump into hyperspace
 > Han Singleton and Chewbashev must make the jump into hyperspace in order to shake off imperial fighters in pursuit. To do so safely, however, they must complete one last calculation, which consists in finding the value of the sum 11 +22 +33 +...+201****2016. What is the last digit of that number?
 
+
 **Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
-**Method:** [[method_congruenze|Modular arithmetic / congruences]]
-**Skill:** [[skill_riconoscimento_pattern|Pattern recognition]]
-
-[[Quesiti/src_cesenatico_2016_finale#q17|src_cesenatico_2016_finale__Q17]]
-
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]], [[method_casework|Case analysis]]
+**Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]], [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
 
-<span class="atom-split" id="q18" data-atom="q18" data-title="Quesito 18" data-tags="topic_geometria_piana,method_trigonometria,skill_ragionamento_geometrico"></span>
+
+<span class="atom-split" id="q18" data-atom="q18" data-title="Quesito 18" data-tags="topic_geometria_piana,method_trigonometria,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -691,7 +692,7 @@ level: nazionale
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_trigonometria|Tecniche trigonometriche]]
-**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 **Risposta:** 2015
 **Fonte:** [apri PDF p.12](https://drive.google.com/file/d/1GqznC2FLirTklgcOqTqrn2k0HEDGTUYd/view)
@@ -705,15 +706,15 @@ level: nazionale
 > [⋆] Hunting the Millennium Problem
 > The bounty hunter Bobo Fett is pursuing the coveted ship of Han Singleton, the Millennium Problem, for which the Empire has put up a prize of a million Galactic Credits. On the onboard computer screen, the location of the ships is determined from a quadrilateral ABCD inscribed in a circle. The Millennium Problem lies at the point E, the intersection of the extensions of AB and CD, while Bobo's ship lies at the point F, the intersection of the extensions of BC and AD. The computer reports the distances of the two ships from the meeting point P of the bisectors of the angles ∠AEC and ∠AFC: PF = 1612 and PE = 1209. What is the distance between the two ships?
 
+
 **Topic:** [[topic_geometria_piana|Plane geometry]]
-**Method:** [[method_trigonometria|Trigonometric techniques]]
-**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
-
-[[Quesiti/src_cesenatico_2016_finale#q18|src_cesenatico_2016_finale__Q18]]
-
+**Metodo:** [[method_trigonometria|Trigonometric techniques]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Geometria|Geometry]]
 
 
-<span class="atom-split" id="q19" data-atom="q19" data-title="Quesito 19" data-tags="topic_aritmetica,method_congruenze,skill_casework_accurato"></span>
+
+<span class="atom-split" id="q19" data-atom="q19" data-title="Quesito 19" data-tags="topic_aritmetica,method_congruenze,method_fattorizzazione,skill_casework_accurato,skill_riconoscimento_pattern"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -727,8 +728,8 @@ level: nazionale
 > deabc, cdeab e bcdea sono multipli di n. Quanto vale la somma di tutti gli n < 1000 che verificano questa condizione?
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]]
-**Abilita:** [[skill_casework_accurato|Casework accurato]]
+**Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]], [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
+**Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 1630
 **Fonte:** [apri PDF p.12](https://drive.google.com/file/d/1GqznC2FLirTklgcOqTqrn2k0HEDGTUYd/view)
@@ -742,15 +743,15 @@ level: nazionale
 > [⋆] Hard to see, the properties of n are
 > On the swampy planet of Dagoldbach, Master Yoneda is training Luke Randomwalker. To sharpen his mind, Yoneda questions Luke on the properties of a certain positive integer n. The apprentice observes that, for every five-digit number abcde that is a multiple of n (a, b, c, d and e stand for the digits of the number, and a is different from zero), eabcd, deabc, cdeab and bcdea are also multiples of n. What is the sum of all the n < 1000 that satisfy this condition worth?
 
+
 **Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
-**Method:** [[method_congruenze|Modular arithmetic / congruences]]
-**Skill:** [[skill_casework_accurato|Careful case analysis]]
-
-[[Quesiti/src_cesenatico_2016_finale#q19|src_cesenatico_2016_finale__Q19]]
-
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]], [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]], [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
 
-<span class="atom-split" id="q20" data-atom="q20" data-title="Quesito 20" data-tags="topic_probabilita,topic_combinatoria,method_grafi,skill_modellizzazione"></span>
+
+<span class="atom-split" id="q20" data-atom="q20" data-title="Quesito 20" data-tags="topic_probabilita,topic_combinatoria,method_grafi,method_ricorsione,skill_modellizzazione,skill_riconoscimento_pattern,skill_astrazione"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -769,8 +770,8 @@ level: nazionale
 > la probabilità che arrivi sano e salvo su Banahch-Torsk è 1/2016, quanto vale n come minimo?
 
 **Topic:** [[topic_probabilita|Probabilita e statistica]], [[topic_combinatoria|Combinatoria]]
-**Metodo:** [[method_grafi|Teoria dei grafi]]
-**Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
+**Metodo:** [[method_grafi|Teoria dei grafi]], [[method_ricorsione|Ricorsione]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_astrazione|Astrazione / generalizzazione]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0013
 **Fonte:** [apri PDF p.12](https://drive.google.com/file/d/1GqznC2FLirTklgcOqTqrn2k0HEDGTUYd/view)
@@ -784,15 +785,15 @@ level: nazionale
 > [⋆] An interplanetary random walk
 > Luke Randomwalker is looking for a safe place to hide, and to do so he travels incognito aboard merchant ships. The ships Luke chooses follow routes that connect n planets to one another. Among them are: Coruscantor, where Luke is at the start; Banahch-Torsk, a pleasant double planet where Luke stops at once (if he passes through it); Taodana, the seat of Maz Karamata's hideout, where there are so many spies of the First Order that it is certain someone will recognise him and kill him. From every planet (except Taodana and Banahch-Torsk) unidirectional routes leave towards exactly two other planets, and from at most one of these two there exists a succession of routes that allows one to return to the planet just left. Every time he leaves a planet, Luke chooses at random between the two possible routes (with equal probability) and stops only if he arrives at Banahch-Torsk or if he is killed at Taodana. Knowing that the probability that he arrives safe and sound at Banahch-Torsk is 1/2016, what is the least possible value of n?
 
+
 **Topic:** [[topic_probabilita|Probability and statistics]], [[topic_combinatoria|Combinatorics]]
-**Method:** [[method_grafi|Graph theory]]
-**Skill:** [[skill_modellizzazione|Modelling / translating the wording]]
-
-[[Quesiti/src_cesenatico_2016_finale#q20|src_cesenatico_2016_finale__Q20]]
-
+**Metodo:** [[method_grafi|Graph theory]], [[method_ricorsione|Recursion]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the wording]], [[skill_riconoscimento_pattern|Pattern recognition]], [[skill_astrazione|Abstraction / generalisation]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
 
-<span class="atom-split" id="q21" data-atom="q21" data-title="Quesito 21" data-tags="topic_funzionali,method_invarianti,skill_riconoscimento_pattern"></span>
+
+<span class="atom-split" id="q21" data-atom="q21" data-title="Quesito 21" data-tags="topic_funzionali,topic_algebra,method_invarianti,skill_riconoscimento_pattern,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -813,9 +814,9 @@ level: nazionale
 > 229 come
 > numero finale. Quanto vale il numero n scelto inizialmente?
 
-**Topic:** [[topic_funzionali|Equazioni funzionali / successioni]]
+**Topic:** [[topic_funzionali|Equazioni funzionali / successioni]], [[topic_algebra|Algebra]]
 **Metodo:** [[method_invarianti|Invarianti / monovarianti]]
-**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Algebra e Analisi]]
 **Risposta:** 0020
 **Fonte:** [apri PDF p.12](https://drive.google.com/file/d/1GqznC2FLirTklgcOqTqrn2k0HEDGTUYd/view)
@@ -836,15 +837,15 @@ level: nazionale
 > 1
 > 229 as the final number. What is the number n chosen initially worth?
 
-**Topic:** [[topic_funzionali|Functional equations / sequences]]
-**Method:** [[method_invarianti|Invariants / monovariants]]
-**Skill:** [[skill_riconoscimento_pattern|Pattern recognition]]
 
-[[Quesiti/src_cesenatico_2016_finale#q21|src_cesenatico_2016_finale__Q21]]
+**Topic:** [[topic_funzionali|Functional equations / sequences]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_invarianti|Invariants / monovariants]]
+**Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
 
 
 
-<span class="atom-split" id="q22" data-atom="q22" data-title="Quesito 22" data-tags="topic_algebra,method_fattorizzazione,skill_astrazione"></span>
+<span class="atom-split" id="q22" data-atom="q22" data-title="Quesito 22" data-tags="topic_algebra,method_fattorizzazione,method_casework,skill_astrazione,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -866,8 +867,8 @@ level: nazionale
 > Gara a Squadre 2016 – Finale Nazionale – Testi dei problemi
 
 **Topic:** [[topic_algebra|Algebra]]
-**Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
-**Abilita:** [[skill_astrazione|Astrazione / generalizzazione]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]], [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_astrazione|Astrazione / generalizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Algebra e Analisi]]
 **Risposta:** 0042
 **Fonte:** [apri PDF p.12](https://drive.google.com/file/d/1GqznC2FLirTklgcOqTqrn2k0HEDGTUYd/view)
@@ -883,11 +884,11 @@ level: nazionale
 > p(x)
 > 40 +x80 +q(x); both polynomials must be non-zero and have real coefficients. What is the confirmation code?
 
-**Topic:** [[topic_algebra|Algebra]]
-**Method:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
-**Skill:** [[skill_astrazione|Abstraction / generalisation]]
 
-[[Quesiti/src_cesenatico_2016_finale#q22|src_cesenatico_2016_finale__Q22]]
+**Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]], [[method_casework|Case analysis]]
+**Abilita:** [[skill_astrazione|Abstraction / generalisation]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
 
 
 
@@ -927,12 +928,11 @@ level: nazionale
 **Topic:** [[topic_geometria_piana|Plane geometry]]
 **Method:** [[method_coordinate|Coordinate method]], [[method_simmetria|Using symmetry]]
 **Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
-
-[[Quesiti/src_cesenatico_2016_finale#q23|src_cesenatico_2016_finale__Q23]]
-
+**Area:** [[Geometria|Geometry]]
 
 
-<span class="atom-split" id="q24" data-atom="q24" data-title="Quesito 24" data-tags="topic_geometria_solida,method_conteggio,skill_ragionamento_geometrico"></span>
+
+<span class="atom-split" id="q24" data-atom="q24" data-title="Quesito 24" data-tags="topic_geometria_solida,topic_combinatoria,method_conteggio,method_doppio_conteggio,skill_ragionamento_geometrico,skill_conteggio_sistematico"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -953,10 +953,10 @@ level: nazionale
 > Finale Nazionale – Soluzioni – 7 Maggio 2016
 > Nr. Problema
 
-**Topic:** [[topic_geometria_solida|Geometria solida]]
-**Metodo:** [[method_conteggio|Conteggio combinatorio]]
-**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
-**Area:** [[Geometria]]
+**Topic:** [[topic_geometria_solida|Geometria solida]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_conteggio|Conteggio combinatorio]], [[method_doppio_conteggio|Doppio conteggio]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Geometria]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0960
 **Fonte:** [apri PDF p.13](https://drive.google.com/file/d/1GqznC2FLirTklgcOqTqrn2k0HEDGTUYd/view)
 
@@ -969,8 +969,8 @@ level: nazionale
 > That is no moon...
 > The engineers of the First Order (using the legendary logic of the First Order) are studying an alternative shape for the next Death Star. To eliminate the weak points typical of spherical space stations, the new design provides for a structure given by a solid whose faces are equilateral triangles and regular pentagons. Moreover, at every vertex exactly one pentagon and four triangles meet. One of the engineers exclaims: "How strange! The product of the number of pentagons and the number of triangles is equal to the combination of my suitcase." What is that combination worth?
 
-**Topic:** [[topic_geometria_solida|Solid geometry]]
-**Method:** [[method_conteggio|Combinatorial counting]]
-**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
 
-[[Quesiti/src_cesenatico_2016_finale#q24|src_cesenatico_2016_finale__Q24]]
+**Topic:** [[topic_geometria_solida|Solid geometry]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_conteggio|Combinatorial counting]], [[method_doppio_conteggio|Double counting]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Geometria|Geometry]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]

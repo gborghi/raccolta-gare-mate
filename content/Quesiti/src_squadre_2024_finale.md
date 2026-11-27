@@ -10,7 +10,7 @@ level: squadre
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_geometria_piana,method_coordinate"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_geometria_piana,topic_geometria_analitica,method_coordinate,skill_ragionamento_geometrico"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -25,8 +25,9 @@ level: squadre
 > Allo stesso modo su BD costruisce un rettangolo passante per A. Daφne prende il rossetto e colora tutta la figura e
 > infine esclama: “Ora è molto meglio!”. Calcolare l’area colorata ovvero l’area dell’unione dei tre rettangoli.
 
-**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_geometria_analitica|Geometria analitica]]
 **Metodo:** [[method_coordinate|Metodo delle coordinate]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]]
 **Risposta:** 8925
 **Fonte:** [apri PDF p.7](https://drive.google.com/file/d/1LYb7-JiMkNOnEUYTq8RqYAtoct6AiMph/view)
@@ -39,15 +40,15 @@ level: squadre
 
 > A relaxing cruise: Vennma, Daφne, Fredmath, and S-Higgs, along with their trusted friend Scoobe-Zout, are on their way to visit Fredmath's parents and set off on a relaxing cruise to celebrate his birthday. During the journey, while chatting, Vennma draws in their small notebook a rectangle ABCD with AB = 60 mm and BC = 80 mm. On the diagonal AC, they construct a rectangle such that AC is one side and the side opposite it passes through B. Similarly, on BD, they construct a rectangle that passes through A. Daφne takes the lipstick and colors the whole figure, and finally exclaims, "Now it's much better!" Calculate the colored area, that is, the area of the union of the three rectangles.
 
-**Topic:** [[topic_geometria_piana|Plane geometry]]
+
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_geometria_analitica|Coordinate geometry]]
 **Metodo:** [[method_coordinate|Coordinate method]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
 **Area:** [[Geometria|Geometry]]
 
-[[Quesiti/src_squadre_2024_finale#q01|src_squadre_2024_finale__Q01]]
 
 
-
-<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_aritmetica,method_casework"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_aritmetica,method_casework,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -62,6 +63,7 @@ level: squadre
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 0106
 **Fonte:** [apri PDF p.7](https://drive.google.com/file/d/1LYb7-JiMkNOnEUYTq8RqYAtoct6AiMph/view)
@@ -74,15 +76,15 @@ level: squadre
 
 > Welcome Cocktail Finally, the cruise is about to begin, and everything starts in the best possible way: with an inaugural aperitif. S-Higgs and Scoobe-Zout are already salivating, but they discover that, to be able to take part in the buffet, one must find an n-digit two-digit number equal to the sum of the square of the tens digit and the cube of the units digit. Determine the sum of all numbers with these properties.
 
+
 **Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
 **Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
-[[Quesiti/src_squadre_2024_finale#q02|src_squadre_2024_finale__Q02]]
 
 
-
-<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_combinatoria,method_ricorsione"></span>
+<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_combinatoria,method_ricorsione,method_casi_conteggio,skill_conteggio_sistematico"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -97,7 +99,8 @@ level: squadre
 > l’obiettivo?
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
-**Metodo:** [[method_ricorsione|Ricorsione]]
+**Metodo:** [[method_ricorsione|Ricorsione]], [[method_casi_conteggio|Conteggio per casi]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0030
 **Fonte:** [apri PDF p.7](https://drive.google.com/file/d/1LYb7-JiMkNOnEUYTq8RqYAtoct6AiMph/view)
@@ -110,15 +113,15 @@ level: squadre
 
 > On a visit to the Summy Suy Deevysori ship, the cruise director leads the group of visitors to discover the ship's wonders: the octagonal pools, the puzzle room, and the gym for the mind. She stops in front of a narrow 2 m × 6 m corridor that has yet to be tiled. Summy invites them to tile it completely using only 1 m × 2 m or 1 m × 3 m mats, with no overlaps. In how many different ways can they achieve the goal?
 
+
 **Topic:** [[topic_combinatoria|Combinatorics]]
-**Metodo:** [[method_ricorsione|Recursion]]
+**Metodo:** [[method_ricorsione|Recursion]], [[method_casi_conteggio|Counting by cases]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
 **Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
-[[Quesiti/src_squadre_2024_finale#q03|src_squadre_2024_finale__Q03]]
 
 
-
-<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_algebra,method_ricorsione"></span>
+<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_algebra,topic_funzionali,method_ricorsione,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -133,8 +136,9 @@ level: squadre
 > Summy ricorda che per poter incontrare il Capitano Kronecker dovranno trovare il valore del polinomio calcolato
 > in 2024. Quale numero permetterà loro di incontrare il capitano?
 
-**Topic:** [[topic_algebra|Algebra]]
+**Topic:** [[topic_algebra|Algebra]], [[topic_funzionali|Equazioni funzionali / successioni]]
 **Metodo:** [[method_ricorsione|Ricorsione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Algebra e Analisi]]
 **Risposta:** 6577
 **Fonte:** [apri PDF p.7](https://drive.google.com/file/d/1LYb7-JiMkNOnEUYTq8RqYAtoct6AiMph/view)
@@ -147,15 +151,15 @@ level: squadre
 
 > Summy greets them by giving them Captain Kronecker's business card. On the card, a literal expression is written. Fredmath observes that the expression is a polynomial and that the sum of the coefficients is 2. Vennma points out to everyone that the polynomial evaluated at twice the value is NOT equal to twice the polynomial. The difference is twice the square of the variable minus 1. Then Daφne notes p(2R) = 2p(R)+2R2 −1. Summy recalls that, in order to meet Captain Kronecker, they will have to find the value of the polynomial evaluated at 2024. Which number will allow them to meet the captain?
 
-**Topic:** [[topic_algebra|Algebra]]
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_funzionali|Functional equations / sequences]]
 **Metodo:** [[method_ricorsione|Recursion]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
 **Area:** [[Algebra e Analisi|Algebra and analysis]]
 
-[[Quesiti/src_squadre_2024_finale#q04|src_squadre_2024_finale__Q04]]
 
 
-
-<span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_combinatoria,method_congruenze"></span>
+<span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_combinatoria,topic_algebra,method_congruenze,skill_riconoscimento_pattern"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -167,9 +171,10 @@ level: squadre
 > appassionato di polinomi. Uno dei miei quesiti preferiti è: quanto vale il più grande coefficiente dispari nello
 > sviluppo di (x+y)13?” Quanto vale la risposta?
 
-**Topic:** [[topic_combinatoria|Combinatoria]]
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_algebra|Algebra]]
 **Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]]
-**Area:** [[Combinatoria, Logica e Probabilita]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Algebra e Analisi]]
 **Risposta:** 1287
 **Fonte:** [apri PDF p.7](https://drive.google.com/file/d/1LYb7-JiMkNOnEUYTq8RqYAtoct6AiMph/view)
 
@@ -181,15 +186,15 @@ level: squadre
 
 > The Captain's Question Having arrived at Captain Kronecker's, he begins by saying, "As you will have gathered from my business card, I am a fan of polynomials. One of my favorite questions is: what is the value of the largest odd coefficient in the expansion of (x+y)^13?" What is the value of the answer?
 
-**Topic:** [[topic_combinatoria|Combinatorics]]
+
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_algebra|Algebra]]
 **Metodo:** [[method_congruenze|Modular arithmetic / congruences]]
-**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
-
-[[Quesiti/src_squadre_2024_finale#q05|src_squadre_2024_finale__Q05]]
-
+**Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Algebra e Analisi|Algebra and analysis]]
 
 
-<span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_geometria_solida"></span>
+
+<span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_geometria_solida,method_coordinate,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -207,6 +212,8 @@ level: squadre
 > Gara a Squadre 2024 – Finale Nazionale – Testi dei problemi – 1/4
 
 **Topic:** [[topic_geometria_solida|Geometria solida]]
+**Metodo:** [[method_coordinate|Metodo delle coordinate]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 **Risposta:** 0370
 **Fonte:** [apri PDF p.7](https://drive.google.com/file/d/1LYb7-JiMkNOnEUYTq8RqYAtoct6AiMph/view)
@@ -219,14 +226,15 @@ level: squadre
 
 > Uncanny Encounters On the ship, Scoobe-Zout met a guy in a raincoat who seemed a bit unsettling. He immediately flees and jumps into S-Higgs's arms; seeing him so frightened, S-Higgs decides to make him an amulet to protect him. At first, S-Higgs takes a wooden cube with a volume of 10000 mm³. However, since Scoobe-Zout prefers octahedra, S-Higgs uses his precision saw to cut the cube, producing an octahedron whose vertices are the centers of the cube's faces. But once the operation is over, Scoobe-Zout reminds him that, in Inca tradition, octahedra are cursed. So, in great haste, S-Higgs cuts the octahedron again, producing a cube whose vertices are the centers of the octahedron's faces. What is the volume of the amulet in cubic millimeters? Team Competition 2024 – National Final – Problem Statements – 1/4
 
+
 **Topic:** [[topic_geometria_solida|Solid geometry]]
+**Metodo:** [[method_coordinate|Coordinate method]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
 **Area:** [[Geometria|Geometry]]
 
-[[Quesiti/src_squadre_2024_finale#q06|src_squadre_2024_finale__Q06]]
 
 
-
-<span class="atom-split" id="q07" data-atom="q07" data-title="Quesito 7" data-tags="topic_aritmetica,method_coordinate,skill_casework_accurato"></span>
+<span class="atom-split" id="q07" data-atom="q07" data-title="Quesito 7" data-tags="topic_aritmetica,method_coordinate,method_casework,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -240,7 +248,7 @@ level: squadre
 > combinazione agognata?
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_coordinate|Metodo delle coordinate]]
+**Metodo:** [[method_coordinate|Metodo delle coordinate]], [[method_casework|Analisi per casi]]
 **Abilita:** [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 3435
@@ -254,16 +262,15 @@ level: squadre
 
 > For a dip in the pool! Fredmath can't wait to unpack and put on his swimsuit, but when he gets to the room, he finds that to get in he has to enter a code: an n with exactly 4 digits, all non-zero, such that n = aa + bb + cc + dd, where a, b, c, and d are respectively the thousands, hundreds, tens, and units digits of n. What is the coveted code?
 
+
 **Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
-**Metodo:** [[method_coordinate|Coordinate method]]
+**Metodo:** [[method_coordinate|Coordinate method]], [[method_casework|Case analysis]]
 **Abilita:** [[skill_casework_accurato|Careful case analysis]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
-[[Quesiti/src_squadre_2024_finale#q07|src_squadre_2024_finale__Q07]]
 
 
-
-<span class="atom-split" id="q08" data-atom="q08" data-title="Quesito 8" data-tags="topic_geometria_piana,method_casework,method_congruenze"></span>
+<span class="atom-split" id="q08" data-atom="q08" data-title="Quesito 8" data-tags="topic_geometria_piana,method_casework,method_congruenze,skill_ragionamento_geometrico"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -279,6 +286,7 @@ level: squadre
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_casework|Analisi per casi]], [[method_congruenze|Aritmetica modulare / congruenze]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]]
 **Risposta:** 2236
 **Fonte:** [apri PDF p.7](https://drive.google.com/file/d/1LYb7-JiMkNOnEUYTq8RqYAtoct6AiMph/view)
@@ -291,15 +299,15 @@ level: squadre
 
 > Peeking at problems, Vennma comes close to the pool to meet Fredmath, but gets distracted when he notices that a few people are chatting on the sun loungers. He manages to peek at a sheet of paper and reads: “Given triangle ABC with AB = 1 and AC = 2, let Γ be its circumcircle, with centre O. Let D and S be the intersections, respectively, of the altitude from A and of the extension of AO with Γ. Furthermore, AO meets line BC at E. Given that the circle passing through D, E, and S is tangent to line BC, determine 1000 BC.” Vennma approaches the group and exclaims, “Well, but that's easy—the
 
+
 **Topic:** [[topic_geometria_piana|Plane geometry]]
 **Metodo:** [[method_casework|Case analysis]], [[method_congruenze|Modular arithmetic / congruences]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
 **Area:** [[Geometria|Geometry]]
 
-[[Quesiti/src_squadre_2024_finale#q08|src_squadre_2024_finale__Q08]]
 
 
-
-<span class="atom-split" id="q09" data-atom="q09" data-title="Quesito 9" data-tags="topic_aritmetica,method_trigonometria"></span>
+<span class="atom-split" id="q09" data-atom="q09" data-title="Quesito 9" data-tags="topic_aritmetica,method_trigonometria,method_fattorizzazione,method_casework,skill_manipolazione_algebrica,skill_conteggio_sistematico"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -315,7 +323,8 @@ level: squadre
 > Al variare della scelta delle 4 carte iniziali, quanto vale al massimo n?
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_trigonometria|Tecniche trigonometriche]]
+**Metodo:** [[method_trigonometria|Tecniche trigonometriche]], [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]], [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 6666
 **Fonte:** [apri PDF p.7](https://drive.google.com/file/d/1LYb7-JiMkNOnEUYTq8RqYAtoct6AiMph/view)
@@ -328,15 +337,15 @@ level: squadre
 
 > Part I: Cards. Fredmath's parents are playing with a deck of 9 cards numbered from 1 to 9. Summy approaches, takes 4 cards, and asks, "How many different ways are there to arrange these cards?" Scoobe-Zout replies, "By swapping the positions of the 4 cards, you can obtain 24 four-digit numbers, all different." Then S-Higgs asks, "And if I added all 24 of them up, what number would I get?" Vennma promptly observes, "It depends on the cards, but by multiplying this sum by a number with exactly three digits, it is possible to obtain a perfect square n²." As the choice of the initial 4 cards varies, what is the maximum possible value of n?
 
+
 **Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
-**Metodo:** [[method_trigonometria|Trigonometric techniques]]
+**Metodo:** [[method_trigonometria|Trigonometric techniques]], [[method_fattorizzazione|Factorisation / algebraic manipulation]], [[method_casework|Case analysis]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_conteggio_sistematico|Systematic counting]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
-[[Quesiti/src_squadre_2024_finale#q09|src_squadre_2024_finale__Q09]]
 
 
-
-<span class="atom-split" id="q10" data-atom="q10" data-title="Quesito 10" data-tags="topic_combinatoria,method_inclusione_esclusione"></span>
+<span class="atom-split" id="q10" data-atom="q10" data-title="Quesito 10" data-tags="topic_combinatoria,method_inclusione_esclusione,method_conteggio,skill_conteggio_sistematico,skill_riconoscimento_pattern"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -354,7 +363,8 @@ level: squadre
 > Fornire come risposta la somma degli esponenti della fattorizzazione in fattori primi.
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
-**Metodo:** [[method_inclusione_esclusione|Inclusione-esclusione]]
+**Metodo:** [[method_inclusione_esclusione|Inclusione-esclusione]], [[method_conteggio|Conteggio combinatorio]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 4046
 **Fonte:** [apri PDF p.7](https://drive.google.com/file/d/1LYb7-JiMkNOnEUYTq8RqYAtoct6AiMph/view)
@@ -367,15 +377,15 @@ level: squadre
 
 > Extra-large mandala: On the ship's deck, there is a gigantic panel made up of 2024×2024 cells, initially white, with the title "Keep calm and color on". To relax, Vennma and Daφne start coloring the cells in turns: Vennma uses blue, and Daφne uses red. Vennma randomly selects any cell in the grid and colors it. Then Daφne chooses a 2×2 square containing the cell just colored and colors the 3 cells that are still white. After that, Vennma chooses a 3×3 square containing all 4 of the cells already chosen and colors the remaining 5. They continue like this, taking turns, up to the 2024th move, in which Daφne colors the last 4047 white cells. How many possible final colorings of the grid are there? Provide as the answer the sum of the exponents in the prime factorization.
 
+
 **Topic:** [[topic_combinatoria|Combinatorics]]
-**Metodo:** [[method_inclusione_esclusione|Inclusion–exclusion]]
+**Metodo:** [[method_inclusione_esclusione|Inclusion–exclusion]], [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]], [[skill_riconoscimento_pattern|Pattern recognition]]
 **Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
-[[Quesiti/src_squadre_2024_finale#q10|src_squadre_2024_finale__Q10]]
 
 
-
-<span class="atom-split" id="q11" data-atom="q11" data-title="Quesito 11" data-tags="topic_combinatoria,method_conteggio,skill_casework_accurato"></span>
+<span class="atom-split" id="q11" data-atom="q11" data-title="Quesito 11" data-tags="topic_combinatoria,method_conteggio,method_casework,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -392,7 +402,7 @@ level: squadre
 > sulla casella 1?
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
-**Metodo:** [[method_conteggio|Conteggio combinatorio]]
+**Metodo:** [[method_conteggio|Conteggio combinatorio]], [[method_casework|Analisi per casi]]
 **Abilita:** [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0028
@@ -406,16 +416,15 @@ level: squadre
 
 > The Riddle Ring On the open terrace, there is a circular path made up of 20 numbered squares, numbered in order from 1 to 20. Fredmath wants to play and starts on square 1; he rolls a classic giant six-sided die and moves forward by the number shown. A riddle is posed to him: if he answers correctly, he begins a new turn by rolling the die; if he answers incorrectly, however, he moves back 2 squares and then begins a new turn by rolling the die. He can take as many turns as he likes: it's just a challenge against himself. Knowing that all the riddles are easy for him and that he answers all of them correctly except the one on square 6, how many possible sequences of 4 die rolls are there in which Fredmath ends up exactly back on square 1?
 
+
 **Topic:** [[topic_combinatoria|Combinatorics]]
-**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Metodo:** [[method_conteggio|Combinatorial counting]], [[method_casework|Case analysis]]
 **Abilita:** [[skill_casework_accurato|Careful case analysis]]
 **Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
-[[Quesiti/src_squadre_2024_finale#q11|src_squadre_2024_finale__Q11]]
 
 
-
-<span class="atom-split" id="q12" data-atom="q12" data-title="Quesito 12" data-tags="topic_aritmetica,method_ricorsione"></span>
+<span class="atom-split" id="q12" data-atom="q12" data-title="Quesito 12" data-tags="topic_aritmetica,method_ricorsione,method_backward,skill_modellizzazione"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -435,7 +444,8 @@ level: squadre
 > Indovina un po’ quanti salatini ho distribuito?” Qual era il numero minimo di salatini inizialmente sul tavolo?
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_ricorsione|Ricorsione]]
+**Metodo:** [[method_ricorsione|Ricorsione]], [[method_backward|Ragionamento all'indietro]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 0079
 **Fonte:** [apri PDF p.7](https://drive.google.com/file/d/1LYb7-JiMkNOnEUYTq8RqYAtoct6AiMph/view)
@@ -448,15 +458,15 @@ level: squadre
 
 > Hurray for dinner! There's a table full of delicious savory snacks. The waiter has to distribute the snacks to the 6 guests: first to S-Higgs, who is the hungriest, then to Fredmath, to his mother, to his father, to Vennma, and finally to Daφne. He prepares the portions with an elaborate ceremony: he gives one snack to Scoobe-Zout and half of the remaining snacks to the first guest; then he gives two snacks to Scoobe-Zout and 2/3 of the remaining ones to the second guest, and continues like this, giving k snacks to Scoobe-Zout and k/(k+1) of the remaining ones to the k-th guest. S-Higgs is about to take a bite of his first snack, but the waiter stops him and says, "I managed to make all the divisions with no leftovers, without splitting any snacks, and everyone got at least one. Guess how many snacks I distributed?" What was the minimum number of snacks that were on the table initially?
 
+
 **Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
-**Metodo:** [[method_ricorsione|Recursion]]
+**Metodo:** [[method_ricorsione|Recursion]], [[method_backward|Working backwards]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
-[[Quesiti/src_squadre_2024_finale#q12|src_squadre_2024_finale__Q12]]
 
 
-
-<span class="atom-split" id="q13" data-atom="q13" data-title="Quesito 13" data-tags="topic_aritmetica,method_casework,method_congruenze"></span>
+<span class="atom-split" id="q13" data-atom="q13" data-title="Quesito 13" data-tags="topic_aritmetica,method_casework,method_congruenze,skill_casework_accurato,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -479,6 +489,7 @@ level: squadre
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_casework|Analisi per casi]], [[method_congruenze|Aritmetica modulare / congruenze]]
+**Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 6080
 **Fonte:** [apri PDF p.8](https://drive.google.com/file/d/1LYb7-JiMkNOnEUYTq8RqYAtoct6AiMph/view)
@@ -493,15 +504,15 @@ level: squadre
 >
 > Second Part: The Cruise Enigma As soon as everyone wakes up from the trance, the cruise ship is attacked by ghost pirates led by Captain BarbaAlberta: they kidnap all the passengers and sink the ship, leaving behind only S-Higgs, Fredmath, Vennma, Daφne, and the loyal Scoobe-Zout.
 
+
 **Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
 **Metodo:** [[method_casework|Case analysis]], [[method_congruenze|Modular arithmetic / congruences]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
-[[Quesiti/src_squadre_2024_finale#q13|src_squadre_2024_finale__Q13]]
 
 
-
-<span class="atom-split" id="q14" data-atom="q14" data-title="Quesito 14" data-tags="topic_combinatoria,topic_probabilita,method_conteggio"></span>
+<span class="atom-split" id="q14" data-atom="q14" data-title="Quesito 14" data-tags="topic_combinatoria,topic_probabilita,method_conteggio,skill_conteggio_sistematico"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -518,6 +529,7 @@ level: squadre
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_probabilita|Probabilita e statistica]]
 **Metodo:** [[method_conteggio|Conteggio combinatorio]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 8095
 **Fonte:** [apri PDF p.9](https://drive.google.com/file/d/1LYb7-JiMkNOnEUYTq8RqYAtoct6AiMph/view)
@@ -530,15 +542,15 @@ level: squadre
 
 > Toward BarbaAlberta's Hideout [⋆⋆] To get from the shipwreck site to BarbaAlberta's secret hideout, one follows the edges of the squares of a 2024×2024 grid. The pirate ship follows one path, and Scoobe-Zout's group follows another. Given that both groups set off together from one vertex of the grid and will reach the opposite vertex by following a shortest path, if they had chosen the two paths at random, what would have been the probability that their paths would have shared only the starting point and the ending point? Answer with the sum of the numerator and denominator of the fraction reduced to lowest terms.
 
+
 **Topic:** [[topic_combinatoria|Combinatorics]], [[topic_probabilita|Probability and statistics]]
 **Metodo:** [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
 **Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
-[[Quesiti/src_squadre_2024_finale#q14|src_squadre_2024_finale__Q14]]
 
 
-
-<span class="atom-split" id="q15" data-atom="q15" data-title="Quesito 15" data-tags="topic_funzionali,method_conteggio,method_invarianti"></span>
+<span class="atom-split" id="q15" data-atom="q15" data-title="Quesito 15" data-tags="topic_funzionali,method_conteggio,method_invarianti,method_ricorsione,skill_riconoscimento_pattern,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -556,7 +568,8 @@ level: squadre
 > mandati in missione? Fornire la somma di tutte le possibili risposte.
 
 **Topic:** [[topic_funzionali|Equazioni funzionali / successioni]]
-**Metodo:** [[method_conteggio|Conteggio combinatorio]], [[method_invarianti|Invarianti / monovarianti]]
+**Metodo:** [[method_conteggio|Conteggio combinatorio]], [[method_invarianti|Invarianti / monovarianti]], [[method_ricorsione|Ricorsione]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Algebra e Analisi]]
 **Risposta:** 2820
 **Fonte:** [apri PDF p.9](https://drive.google.com/file/d/1LYb7-JiMkNOnEUYTq8RqYAtoct6AiMph/view)
@@ -569,15 +582,15 @@ level: squadre
 
 > Crew, to the boarding attack! When they reach BarbaAlberta's hideout, they don't even have time to look around before the pirate ship arrives too. On it are Captain BarbaAlberta and 2024 other pirates, who for convenience are numbered from 1 to 2024; Captain BarbaAlberta assigns a positive rational number am to pirate m such that, for m = 31, 32, ..., 2024, am = m² max1≤l≤30{l + am−l}. Pirates for whom am > m are sent by the captain on a mission to capture the intruders. How many pirates are sent on the mission? Provide the sum of all possible answers.
 
+
 **Topic:** [[topic_funzionali|Functional equations / sequences]]
-**Metodo:** [[method_conteggio|Combinatorial counting]], [[method_invarianti|Invariants / monovariants]]
+**Metodo:** [[method_conteggio|Combinatorial counting]], [[method_invarianti|Invariants / monovariants]], [[method_ricorsione|Recursion]]
+**Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
 **Area:** [[Algebra e Analisi|Algebra and analysis]]
 
-[[Quesiti/src_squadre_2024_finale#q15|src_squadre_2024_finale__Q15]]
 
 
-
-<span class="atom-split" id="q16" data-atom="q16" data-title="Quesito 16" data-tags="topic_algebra,method_ricorsione"></span>
+<span class="atom-split" id="q16" data-atom="q16" data-title="Quesito 16" data-tags="topic_algebra,method_ricorsione,method_fattorizzazione,skill_lettura_attenta,skill_manipolazione_algebrica,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -595,7 +608,8 @@ level: squadre
 > ogni polinomio monico è figlio di se stesso.” Qual è la combinazione del lucchetto della cabina di BarbaAlberta?
 
 **Topic:** [[topic_algebra|Algebra]]
-**Metodo:** [[method_ricorsione|Ricorsione]]
+**Metodo:** [[method_ricorsione|Ricorsione]], [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
+**Abilita:** [[skill_lettura_attenta|Lettura attenta del testo]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Algebra e Analisi]]
 **Risposta:** 2530
 **Fonte:** [apri PDF p.9](https://drive.google.com/file/d/1LYb7-JiMkNOnEUYTq8RqYAtoct6AiMph/view)
@@ -608,15 +622,15 @@ level: squadre
 
 > In BarbaAlberta's cabin [⋆⋆], Vennma thinks: "BarbaAlberta is hiding something: I can't have seen World War I aircraft flying above us." She then investigates below decks with Daφne until they find the combination lock on BarbaAlberta's cabin, bearing the inscription "the spectrum of (x−2)(x+2)(x2 +x+1)(x2 −x+1)". "Appropriate—the spectrum of a polynomial with integer coefficients for a ghost pirate!" exclaims Daφne. Vennma reflects: "I'm certain that the spectrum is an integer, and that, by adding the spectra of all the child polynomials of a polynomial p, one gets exactly the value of the polynomial p evaluated at its degree!" Then Daφne points out: "Of course! And the child polynomials of p(x) are the monic1 polynomials with integer coefficients that divide the polynomial and whose degree divides the degree of p(x). Surprisingly, every monic polynomial is a child of itself." What is the combination for the lock on BarbaAlberta's cabin?
 
+
 **Topic:** [[topic_algebra|Algebra]]
-**Metodo:** [[method_ricorsione|Recursion]]
+**Metodo:** [[method_ricorsione|Recursion]], [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_lettura_attenta|Careful reading of the text]], [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_casework_accurato|Careful case analysis]]
 **Area:** [[Algebra e Analisi|Algebra and analysis]]
 
-[[Quesiti/src_squadre_2024_finale#q16|src_squadre_2024_finale__Q16]]
 
 
-
-<span class="atom-split" id="q17" data-atom="q17" data-title="Quesito 17" data-tags="topic_geometria_piana,method_trigonometria,skill_ragionamento_geometrico"></span>
+<span class="atom-split" id="q17" data-atom="q17" data-title="Quesito 17" data-tags="topic_geometria_piana,topic_trigonometria,method_trigonometria,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -632,9 +646,9 @@ level: squadre
 > in G e F. Le rette DF e DG intersecano infine i lati AB e BC rispettivamente in X e Y . Determinare la lunghezza
 > di XY moltiplicata per 100.
 
-**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometria]]
 **Metodo:** [[method_trigonometria|Tecniche trigonometriche]]
-**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 **Risposta:** 0802
 **Fonte:** [apri PDF p.9](https://drive.google.com/file/d/1LYb7-JiMkNOnEUYTq8RqYAtoct6AiMph/view)
@@ -647,16 +661,15 @@ level: squadre
 
 > Interrogating the Stars To find the center of the Permuda pentagon, they must locate again in the sky the stars depicted in an ancient painting. Stars A, B, C, and D form a quadrilateral in which AB = 6, BC = 12, the diagonal AC = 16, such that the diagonal BD bisects angle ABC, and, letting E be the intersection of the diagonals, BE · ED = 21. Draw circles C1 and C2, circumscribed respectively about triangles ABD and BCD. They intersect AC at G and F, respectively. Finally, lines DF and DG intersect sides AB and BC at X and Y, respectively. Determine the length of XY multiplied by 100.
 
-**Topic:** [[topic_geometria_piana|Plane geometry]]
+
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_trigonometria|Trigonometry]]
 **Metodo:** [[method_trigonometria|Trigonometric techniques]]
-**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
 **Area:** [[Geometria|Geometry]]
 
-[[Quesiti/src_squadre_2024_finale#q17|src_squadre_2024_finale__Q17]]
 
 
-
-<span class="atom-split" id="q18" data-atom="q18" data-title="Quesito 18" data-tags="topic_geometria_piana,method_trigonometria"></span>
+<span class="atom-split" id="q18" data-atom="q18" data-title="Quesito 18" data-tags="topic_geometria_piana,topic_trigonometria,topic_aritmetica,method_trigonometria,skill_ragionamento_geometrico,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -671,9 +684,10 @@ level: squadre
 > espresse da numeri interi. Inoltre \
 > BAE = 120°. Quanto vale il perimetro di ABCDE?
 
-**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_trigonometria|Tecniche trigonometriche]]
-**Area:** [[Geometria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Geometria]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 0417
 **Fonte:** [apri PDF p.9](https://drive.google.com/file/d/1LYb7-JiMkNOnEUYTq8RqYAtoct6AiMph/view)
 
@@ -687,15 +701,15 @@ level: squadre
 > 3. AB = BC, DE = EA, and all of its sides have lengths
 > expressed by integers. Moreover, \ BAE = 120°. What is the perimeter of ABCDE?
 
-**Topic:** [[topic_geometria_piana|Plane geometry]]
+
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_trigonometria|Trigonometry]], [[topic_aritmetica|Arithmetic / Number theory]]
 **Metodo:** [[method_trigonometria|Trigonometric techniques]]
-**Area:** [[Geometria|Geometry]]
-
-[[Quesiti/src_squadre_2024_finale#q18|src_squadre_2024_finale__Q18]]
-
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Geometria|Geometry]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
 
-<span class="atom-split" id="q19" data-atom="q19" data-title="Quesito 19" data-tags="topic_geometria_solida,method_coordinate"></span>
+
+<span class="atom-split" id="q19" data-atom="q19" data-title="Quesito 19" data-tags="topic_geometria_solida,topic_geometria_analitica,method_coordinate,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -710,8 +724,9 @@ level: squadre
 > dei due coni e la sua proiezione sul piano che contiene la base del primo, il portale si attiva solo trovando l’area
 > della regione di piano contenuta nella curva ottenuta tramite la proiezione. Quale numero attiverà il portale?
 
-**Topic:** [[topic_geometria_solida|Geometria solida]]
+**Topic:** [[topic_geometria_solida|Geometria solida]], [[topic_geometria_analitica|Geometria analitica]]
 **Metodo:** [[method_coordinate|Metodo delle coordinate]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 **Risposta:** 0062
 **Fonte:** [apri PDF p.9](https://drive.google.com/file/d/1LYb7-JiMkNOnEUYTq8RqYAtoct6AiMph/view)
@@ -724,15 +739,15 @@ level: squadre
 
 > Time bridge [⋆] Captain BarbaAlberta explains to her crew that, in order to rule the seven unchallenged seas, they must open a portal to the past. The passage from the present to the past is a cone with a base radius of 10 m that descends toward the abyss; the passage from the past to the present is an identical but inverted cone such that its axis is parallel to that of the first cone, and its vertex lies on the base of the first cone at a distance of 6 m from the center of the base. Considering the intersection of the two cones and its projection onto the plane containing the base of the first cone, the portal is activated only by finding the area of the planar region contained within the curve obtained by the projection. Which number will activate the portal?
 
-**Topic:** [[topic_geometria_solida|Solid geometry]]
+
+**Topic:** [[topic_geometria_solida|Solid geometry]], [[topic_geometria_analitica|Coordinate geometry]]
 **Metodo:** [[method_coordinate|Coordinate method]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
 **Area:** [[Geometria|Geometry]]
 
-[[Quesiti/src_squadre_2024_finale#q19|src_squadre_2024_finale__Q19]]
 
 
-
-<span class="atom-split" id="q20" data-atom="q20" data-title="Quesito 20" data-tags="topic_logica,method_invarianti"></span>
+<span class="atom-split" id="q20" data-atom="q20" data-title="Quesito 20" data-tags="topic_logica,method_invarianti,method_backward,skill_riconoscimento_pattern,skill_astrazione"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -750,7 +765,8 @@ level: squadre
 > Gara a Squadre 2024 – Finale Nazionale – Testi dei problemi – 3/4
 
 **Topic:** [[topic_logica|Logica, giochi, strategie]]
-**Metodo:** [[method_invarianti|Invarianti / monovarianti]]
+**Metodo:** [[method_invarianti|Invarianti / monovarianti]], [[method_backward|Ragionamento all'indietro]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_astrazione|Astrazione / generalizzazione]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 9724
 **Fonte:** [apri PDF p.9](https://drive.google.com/file/d/1LYb7-JiMkNOnEUYTq8RqYAtoct6AiMph/view)
@@ -763,15 +779,15 @@ level: squadre
 
 > The Final Showdown The Pirate Skeletons are still grappling with solid geometry when, lo and behold, an alien ship appears in the sky: they are Daφne and Fredmath in disguise. Daφne and BarbaAlberta begin the final duel, which consists of this game: it starts with a pair of positive integers (x,y). Each turn, the move consists of replacing the current pair (x,y) with the pair (z,y −z), where 1 ≤ z ≤ x; however, the second number can never become negative. The first player to manage to change the pair so that the second number is 0 wins. For how many initial pairs with 1 ≤ x,y ≤ 100 does Daφne have a winning strategy, knowing that she goes first? 1 A polynomial is said to be monic if the coefficient of the term of highest degree is equal to 1. Team Competition 2024 – National Final – Problem Statements – 3/4
 
+
 **Topic:** [[topic_logica|Logic, games and strategies]]
-**Metodo:** [[method_invarianti|Invariants / monovariants]]
+**Metodo:** [[method_invarianti|Invariants / monovariants]], [[method_backward|Working backwards]]
+**Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]], [[skill_astrazione|Abstraction / generalisation]]
 **Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
-[[Quesiti/src_squadre_2024_finale#q20|src_squadre_2024_finale__Q20]]
 
 
-
-<span class="atom-split" id="q21" data-atom="q21" data-title="Quesito 21" data-tags="topic_aritmetica,method_doppio_conteggio"></span>
+<span class="atom-split" id="q21" data-atom="q21" data-title="Quesito 21" data-tags="topic_aritmetica,method_doppio_conteggio,method_fattorizzazione,skill_manipolazione_algebrica,skill_conteggio_sistematico"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -796,7 +812,8 @@ level: squadre
 > Nr. Problema
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_doppio_conteggio|Doppio conteggio]]
+**Metodo:** [[method_doppio_conteggio|Doppio conteggio]], [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 0028
 **Fonte:** [apri PDF p.9](https://drive.google.com/file/d/1LYb7-JiMkNOnEUYTq8RqYAtoct6AiMph/view)
@@ -811,8 +828,8 @@ level: squadre
 >
 > XXV National Team Competition National Final – Saturday, 4 May 2024 Ministry of Education and Merit Solutions No. Problem
 
-**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
-**Metodo:** [[method_doppio_conteggio|Double counting]]
-**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
-[[Quesiti/src_squadre_2024_finale#q21|src_squadre_2024_finale__Q21]]
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_doppio_conteggio|Double counting]], [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]

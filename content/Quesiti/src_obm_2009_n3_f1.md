@@ -38,8 +38,6 @@ level: OBM Nível 3
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 
-[[Quesiti/src_obm_2009_n3_f1#q01|src_obm_2009_n3_f1__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_aritmetica,method_fattorizzazione,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
@@ -69,8 +67,6 @@ level: OBM Nível 3
 **Metodo:** [[method_fattorizzazione|Fattorizzazione]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
-
-[[Quesiti/src_obm_2009_n3_f1#q02|src_obm_2009_n3_f1__Q02]]
 
 
 
@@ -102,8 +98,6 @@ level: OBM Nível 3
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Algebra e Analisi]]
 
-[[Quesiti/src_obm_2009_n3_f1#q03|src_obm_2009_n3_f1__Q03]]
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_geometria_piana,method_simmetria,skill_ragionamento_geometrico,skill_lettura_attenta"></span>
@@ -115,7 +109,7 @@ level: OBM Nível 3
 
 > In the figure, the square $A'B'C'D'$ was obtained from a clockwise rotation of the square $ABCD$ by $25$ degrees about the midpoint of $AB$. What is the acute angle, in degrees, between the lines $AC$ and $B'D'$? (A) $5$ (B) $25$ (C) $45$ (D) $65$ (E) $85$
 
-![[src_obm_2009_n3_f1__q04.png]]
+![[src_obm_2009_n3_f1__Q04.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_simmetria|Simmetria]]
@@ -131,18 +125,16 @@ level: OBM Nível 3
 
 > Nella figura, il quadrato $A'B'C'D'$ è stato ottenuto ruotando in senso orario il quadrato $ABCD$ di $25$ gradi attorno al punto medio di $AB$. Qual è, in gradi, l'angolo acuto tra le rette $AC$ e $B'D'$? (A) $5$ (B) $25$ (C) $45$ (D) $65$ (E) $85$
 
-![[src_obm_2009_n3_f1__q04.png]]
+![[src_obm_2009_n3_f1__Q04.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_simmetria|Simmetria]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Geometria]]
 
-[[Quesiti/src_obm_2009_n3_f1#q04|src_obm_2009_n3_f1__Q04]]
 
 
-
-<span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_aritmetica,method_casework,skill_lettura_attenta,skill_conteggio_sistematico"></span>
+<span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_aritmetica,method_casework,method_fattorizzazione,skill_lettura_attenta,skill_conteggio_sistematico"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -152,9 +144,9 @@ level: OBM Nível 3
 > One of the following five numbers is a divisor of the sum of the other four. Which is that number? (A) $20$ (B) $24$ (C) $28$ (D) $38$ (E) $42$
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_casework|Casework]]
+**Metodo:** [[method_casework|Casework]], [[method_fattorizzazione|Factorisation / algebraic manipulation]]
 **Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_conteggio_sistematico|Conteggio sistematico]]
-**Area:** [[Aritmetica e Teoria dei Numeri]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1fpXu9DASZEHBg4I0EScBGy2Cy1LPLiJ2/view)
 
 
@@ -165,16 +157,15 @@ level: OBM Nível 3
 
 > Uno dei seguenti cinque numeri è un divisore della somma degli altri quattro. Qual è quel numero? (A) $20$ (B) $24$ (C) $28$ (D) $38$ (E) $42$
 
+
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_casework|Casework]]
+**Metodo:** [[method_casework|Casework]], [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
 **Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 
-[[Quesiti/src_obm_2009_n3_f1#q05|src_obm_2009_n3_f1__Q05]]
 
 
-
-<span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_logica,skill_lettura_attenta,skill_astrazione"></span>
+<span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_logica,method_casework,skill_lettura_attenta,skill_astrazione"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -184,8 +175,9 @@ level: OBM Nível 3
 > Whenever Agilulfo comes home from school with a warning (advertencia), if his mother is at home, she puts him under punishment. Knowing that yesterday afternoon Agilulfo was not put under punishment, which of the following statements is certainly true? (A) Agilulfo received a warning yesterday. (B) Agilulfo did not receive a warning yesterday. (C) Yesterday afternoon his mother was at home. (D) Yesterday afternoon his mother was not at home. (E) None of the above statements is certainly true.
 
 **Topic:** [[topic_logica|Logica]]
+**Metodo:** [[method_casework|Case analysis]]
 **Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_astrazione|Astrazione]]
-**Area:** [[Combinatoria, Logica e Probabilita]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1fpXu9DASZEHBg4I0EScBGy2Cy1LPLiJ2/view)
 
 
@@ -196,15 +188,15 @@ level: OBM Nível 3
 
 > Ogni volta che Agilulfo torna a casa da scuola con un avvertimento (advertencia), se sua madre è in casa, lo mette in punizione. Sapendo che ieri pomeriggio Agilulfo non è stato messo in punizione, quale delle seguenti affermazioni è certamente vera? (A) Ieri Agilulfo ha ricevuto un avvertimento. (B) Ieri Agilulfo non ha ricevuto un avvertimento. (C) Ieri pomeriggio sua madre era in casa. (D) Ieri pomeriggio sua madre non era in casa. (E) Nessuna delle affermazioni sopra è certamente vera.
 
+
 **Topic:** [[topic_logica|Logica]]
+**Metodo:** [[method_casework|Analisi per casi]]
 **Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_astrazione|Astrazione]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 
-[[Quesiti/src_obm_2009_n3_f1#q06|src_obm_2009_n3_f1__Q06]]
 
 
-
-<span class="atom-split" id="q07" data-atom="q07" data-title="Quesito 7" data-tags="topic_combinatoria,method_casework,method_estremalita,skill_conteggio_sistematico,skill_ragionamento_geometrico"></span>
+<span class="atom-split" id="q07" data-atom="q07" data-title="Quesito 7" data-tags="topic_combinatoria,method_casework,method_estremalita,skill_conteggio_sistematico,skill_ragionamento_geometrico,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -213,12 +205,12 @@ level: OBM Nível 3
 
 > What is the smallest value of $n > 1$ for which it is possible to place $n$ pieces on an $n \times n$ board so that no two pieces are in the same row, the same column, or the same diagonal? The figures show pairs of pieces in the same row, in the same column, and on the same diagonal, on several boards. (A) $3$ (B) $4$ (C) $5$ (D) $6$ (E) $7$
 
-![[src_obm_2009_n3_f1__q07.png]]
+![[src_obm_2009_n3_f1__Q07.png]]
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_casework|Casework]], [[method_estremalita|Estremalità]]
-**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
-**Area:** [[Combinatoria, Logica e Probabilita]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1fpXu9DASZEHBg4I0EScBGy2Cy1LPLiJ2/view)
 
 
@@ -229,14 +221,13 @@ level: OBM Nível 3
 
 > Qual è il valore minimo di $n > 1$ per cui è possibile posizionare $n$ pezzi su una scacchiera di dimensioni $n \times n$ in modo che nessun due pezzi si trovino nella stessa riga, nella stessa colonna o sulla stessa diagonale? Le figure mostrano coppie di pezzi nella stessa riga, nella stessa colonna e sulla stessa diagonale, su diverse scacchiere. (A) $3$ (B) $4$ (C) $5$ (D) $6$ (E) $7$
 
-![[src_obm_2009_n3_f1__q07.png]]
+![[src_obm_2009_n3_f1__Q07.png]]
+
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_casework|Casework]], [[method_estremalita|Estremalità]]
-**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
-
-[[Quesiti/src_obm_2009_n3_f1#q07|src_obm_2009_n3_f1__Q07]]
 
 
 
@@ -249,7 +240,7 @@ level: OBM Nível 3
 
 > In the figure, $ABCD$ is a square of side $4$, $K$ belongs to side $AD$, $L$ belongs to side $AB$, $M$ belongs to side $BC$, and $KLM$ is an isosceles right triangle with the right angle at $L$. Then the area of the quadrilateral $CDKM$ is equal to: (A) $6$ (B) $8$ (C) $10$ (D) $12$ (E) $14$
 
-![[src_obm_2009_n3_f1__q08.png]]
+![[src_obm_2009_n3_f1__Q08.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_coordinate|Coordinate]]
@@ -265,18 +256,16 @@ level: OBM Nível 3
 
 > Nella figura, $ABCD$ è un quadrato di lato $4$, $K$ appartiene al lato $AD$, $L$ appartiene al lato $AB$, $M$ appartiene al lato $BC$, e $KLM$ è un triangolo rettangolo isoscele con l'angolo retto in $L$. Allora l'area del quadrilatero $CDKM$ è uguale a: (A) $6$ (B) $8$ (C) $10$ (D) $12$ (E) $14$
 
-![[src_obm_2009_n3_f1__q08.png]]
+![[src_obm_2009_n3_f1__Q08.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_coordinate|Coordinate]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 
-[[Quesiti/src_obm_2009_n3_f1#q08|src_obm_2009_n3_f1__Q08]]
 
 
-
-<span class="atom-split" id="q09" data-atom="q09" data-title="Quesito 9" data-tags="topic_combinatoria,method_grafi,method_casework,skill_lettura_attenta,skill_conteggio_sistematico"></span>
+<span class="atom-split" id="q09" data-atom="q09" data-title="Quesito 9" data-tags="topic_combinatoria,method_grafi,method_casework,skill_lettura_attenta,skill_conteggio_sistematico,skill_modellizzazione"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -285,12 +274,12 @@ level: OBM Nível 3
 
 > The figure beside is the map of a neighborhood: the points $A$, $B$, $C$ and $D$ are houses and the segments are streets. From how many houses is it possible to make a route that passes exactly once through each of the streets? It is allowed to pass more than once through the same house. (A) $0$ (B) $1$ (C) $2$ (D) $3$ (E) $4$
 
-![[src_obm_2009_n3_f1__q09.png]]
+![[src_obm_2009_n3_f1__Q09.png]]
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_grafi|Grafi]], [[method_casework|Casework]]
-**Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_conteggio_sistematico|Conteggio sistematico]]
-**Area:** [[Combinatoria, Logica e Probabilita]]
+**Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1fpXu9DASZEHBg4I0EScBGy2Cy1LPLiJ2/view)
 
 
@@ -301,18 +290,17 @@ level: OBM Nível 3
 
 > La figura accanto è la mappa di un quartiere: i punti $A$, $B$, $C$ e $D$ sono case, e i segmenti sono strade. Da quante case è possibile partire per percorrere un itinerario che attraversi ciascuna strada esattamente una volta? È consentito passare più di una volta per la stessa casa. (A) $0$ (B) $1$ (C) $2$ (D) $3$ (E) $4$
 
-![[src_obm_2009_n3_f1__q09.png]]
+![[src_obm_2009_n3_f1__Q09.png]]
+
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_grafi|Grafi]], [[method_casework|Casework]]
-**Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 
-[[Quesiti/src_obm_2009_n3_f1#q09|src_obm_2009_n3_f1__Q09]]
 
 
-
-<span class="atom-split" id="q10" data-atom="q10" data-title="Quesito 10" data-tags="topic_aritmetica,topic_algebra,skill_modellizzazione,skill_manipolazione_algebrica"></span>
+<span class="atom-split" id="q10" data-atom="q10" data-title="Quesito 10" data-tags="topic_aritmetica,topic_algebra,method_casework,skill_modellizzazione,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -321,11 +309,12 @@ level: OBM Nível 3
 
 > The wall clock initially indicates noon. The hour and minute hands will form an angle of $145$ degrees for the first time: (A) between 12h and 12h10min. (B) between 12h10min and 12h15min. (C) between 12h15min and 12h20min. (D) between 12h20min and 12h25min. (E) after 12h25min.
 
-![[src_obm_2009_n3_f1__q10.png]]
+![[src_obm_2009_n3_f1__Q10.png]]
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_casework|Case analysis]]
 **Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
-**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Algebra e Analisi|Algebra and analysis]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1fpXu9DASZEHBg4I0EScBGy2Cy1LPLiJ2/view)
 
 
@@ -336,17 +325,17 @@ level: OBM Nível 3
 
 > L'orologio da parete indica inizialmente mezzogiorno. Le lancette delle ore e dei minuti formeranno un angolo di $145$ gradi per la prima volta: (A) tra le 12:00 e le 12:10. (B) tra le 12:10 e le 12:15. (C) tra le 12:15 e le 12:20. (D) tra le 12:20 e le 12:25. (E) dopo le 12:25.
 
-![[src_obm_2009_n3_f1__q10.png]]
+![[src_obm_2009_n3_f1__Q10.png]]
+
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_casework|Analisi per casi]]
 **Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 
-[[Quesiti/src_obm_2009_n3_f1#q10|src_obm_2009_n3_f1__Q10]]
 
 
-
-<span class="atom-split" id="q11" data-atom="q11" data-title="Quesito 11" data-tags="topic_aritmetica,method_fattorizzazione,method_casework,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
+<span class="atom-split" id="q11" data-atom="q11" data-title="Quesito 11" data-tags="topic_aritmetica,method_fattorizzazione,method_casework,skill_manipolazione_algebrica,skill_lettura_attenta,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -357,8 +346,8 @@ level: OBM Nível 3
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_casework|Casework]]
-**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
-**Area:** [[Aritmetica e Teoria dei Numeri]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1fpXu9DASZEHBg4I0EScBGy2Cy1LPLiJ2/view)
 
 
@@ -369,16 +358,15 @@ level: OBM Nível 3
 
 > Si consideri l'intero positivo $n$ tale che il numero di divisori positivi del doppio di $n$ sia uguale al doppio del numero di divisori positivi di $n$. Si può concludere che $n$ è (A) un numero primo (B) un numero pari (C) un numero dispari (D) un quadrato perfetto (E) una potenza intera di $2$
 
+
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_casework|Casework]]
-**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 
-[[Quesiti/src_obm_2009_n3_f1#q11|src_obm_2009_n3_f1__Q11]]
 
 
-
-<span class="atom-split" id="q12" data-atom="q12" data-title="Quesito 12" data-tags="topic_combinatoria,method_conteggio,method_inclusione_esclusione,method_casework,skill_conteggio_sistematico,skill_lettura_attenta"></span>
+<span class="atom-split" id="q12" data-atom="q12" data-title="Quesito 12" data-tags="topic_combinatoria,method_conteggio,method_inclusione_esclusione,method_casework,skill_conteggio_sistematico,skill_lettura_attenta,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -389,8 +377,8 @@ level: OBM Nível 3
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_conteggio|Conteggio]], [[method_inclusione_esclusione|Inclusione-esclusione]], [[method_casework|Casework]]
-**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]]
-**Area:** [[Combinatoria, Logica e Probabilita]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1fpXu9DASZEHBg4I0EScBGy2Cy1LPLiJ2/view)
 
 
@@ -401,12 +389,11 @@ level: OBM Nível 3
 
 > Esmeralda ha cinque libri sull'araldica su uno scaffale. Nel fine settimana ha pulito lo scaffale e, rimettendo a posto i libri, ne ha collocati due nel posto in cui si trovavano prima e gli altri in posti diversi da quelli in cui si trovavano. In quanti modi avrebbe potuto farlo? (A) $20$ (B) $25$ (C) $30$ (D) $34$ (E) $45$
 
+
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_conteggio|Conteggio]], [[method_inclusione_esclusione|Inclusione-esclusione]], [[method_casework|Casework]]
-**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
-
-[[Quesiti/src_obm_2009_n3_f1#q12|src_obm_2009_n3_f1__Q12]]
 
 
 
@@ -438,8 +425,6 @@ level: OBM Nível 3
 **Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 
-[[Quesiti/src_obm_2009_n3_f1#q13|src_obm_2009_n3_f1__Q13]]
-
 
 
 <span class="atom-split" id="q14" data-atom="q14" data-title="Quesito 14" data-tags="topic_funzionali,topic_aritmetica,method_congruenze,method_ricorsione,skill_riconoscimento_pattern,skill_lettura_attenta"></span>
@@ -470,8 +455,6 @@ level: OBM Nível 3
 **Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 
-[[Quesiti/src_obm_2009_n3_f1#q14|src_obm_2009_n3_f1__Q14]]
-
 
 
 <span class="atom-split" id="q15" data-atom="q15" data-title="Quesito 15" data-tags="topic_geometria_piana,method_simmetria,skill_ragionamento_geometrico,skill_lettura_attenta"></span>
@@ -483,7 +466,7 @@ level: OBM Nível 3
 
 > In the figure, $CD = BC$, $\angle BAD = 72^\circ$, $AB$ is the diameter and $O$ is the center of the semicircle. Determine the measure of the angle $\angle DEC$. (A) $36^\circ$ (B) $42^\circ$ (C) $54^\circ$ (D) $63^\circ$ (E) $18^\circ$
 
-![[src_obm_2009_n3_f1__q15.png]]
+![[src_obm_2009_n3_f1__Q15.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_simmetria|Simmetria]]
@@ -499,14 +482,12 @@ level: OBM Nível 3
 
 > Nella figura, $CD = BC$, $\angle BAD = 72^\circ$, $AB$ è il diametro e $O$ è il centro del semicerchio. Determinare la misura dell'angolo $\angle DEC$. (A) $36^\circ$ (B) $42^\circ$ (C) $54^\circ$ (D) $63^\circ$ (E) $18^\circ$
 
-![[src_obm_2009_n3_f1__q15.png]]
+![[src_obm_2009_n3_f1__Q15.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_simmetria|Simmetria]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Geometria]]
-
-[[Quesiti/src_obm_2009_n3_f1#q15|src_obm_2009_n3_f1__Q15]]
 
 
 
@@ -538,11 +519,9 @@ level: OBM Nível 3
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Algebra e Analisi]]
 
-[[Quesiti/src_obm_2009_n3_f1#q16|src_obm_2009_n3_f1__Q16]]
 
 
-
-<span class="atom-split" id="q17" data-atom="q17" data-title="Quesito 17" data-tags="topic_aritmetica,method_estremalita,method_casework,skill_conteggio_sistematico,skill_lettura_attenta"></span>
+<span class="atom-split" id="q17" data-atom="q17" data-title="Quesito 17" data-tags="topic_aritmetica,method_estremalita,method_casework,skill_conteggio_sistematico,skill_lettura_attenta,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -553,8 +532,8 @@ level: OBM Nível 3
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_estremalita|Estremalità]], [[method_casework|Casework]]
-**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]]
-**Area:** [[Aritmetica e Teoria dei Numeri]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1fpXu9DASZEHBg4I0EScBGy2Cy1LPLiJ2/view)
 
 
@@ -565,16 +544,15 @@ level: OBM Nível 3
 
 > La celebre congettura di Goldbach afferma che ogni numero intero pari maggiore di $2$ può essere espresso come somma di due numeri primi. Ad esempio, $18$ può essere rappresentato come $5 + 13$ oppure anche come $7 + 11$. Considerando tutte le possibili rappresentazioni di $126$ come somma di due numeri primi, qual è la differenza massima tra i due numeri primi che lo compongono? (A) $112$ (B) $100$ (C) $92$ (D) $88$ (E) $80$
 
+
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_estremalita|Estremalità]], [[method_casework|Casework]]
-**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 
-[[Quesiti/src_obm_2009_n3_f1#q17|src_obm_2009_n3_f1__Q17]]
 
 
-
-<span class="atom-split" id="q18" data-atom="q18" data-title="Quesito 18" data-tags="topic_combinatoria,topic_insiemi_funzioni,method_estremalita,method_casework,skill_conteggio_sistematico,skill_lettura_attenta"></span>
+<span class="atom-split" id="q18" data-atom="q18" data-title="Quesito 18" data-tags="topic_combinatoria,topic_insiemi_funzioni,method_estremalita,method_casework,method_colorazione,skill_conteggio_sistematico,skill_lettura_attenta"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -584,9 +562,9 @@ level: OBM Nível 3
 > A subset of $\{1, 2, 3, \dots, 20\}$ is \textit{superpar} when any two of its elements have an even product. The largest number of elements of a superpar subset is: (A) $3$ (B) $4$ (C) $6$ (D) $7$ (E) $11$
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_insiemi_funzioni|Insiemi e funzioni]]
-**Metodo:** [[method_estremalita|Estremalità]], [[method_casework|Casework]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_casework|Casework]], [[method_colorazione|Colouring / parity]]
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]]
-**Area:** [[Combinatoria, Logica e Probabilita]], [[Algebra e Analisi]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Algebra e Analisi|Algebra and analysis]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1fpXu9DASZEHBg4I0EScBGy2Cy1LPLiJ2/view)
 
 
@@ -597,12 +575,11 @@ level: OBM Nível 3
 
 > Un sottoinsieme di $\{1, 2, 3, \dots, 20\}$ è \textit{superpar} quando il prodotto di due qualsiasi dei suoi elementi è pari. Il numero massimo di elementi di un sottoinsieme superpar è: (A) $3$ (B) $4$ (C) $6$ (D) $7$ (E) $11$
 
+
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_insiemi_funzioni|Insiemi e funzioni]]
-**Metodo:** [[method_estremalita|Estremalità]], [[method_casework|Casework]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_casework|Casework]], [[method_colorazione|Colorazione / parita]]
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Algebra e Analisi]]
-
-[[Quesiti/src_obm_2009_n3_f1#q18|src_obm_2009_n3_f1__Q18]]
 
 
 
@@ -634,8 +611,6 @@ level: OBM Nível 3
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 
-[[Quesiti/src_obm_2009_n3_f1#q19|src_obm_2009_n3_f1__Q19]]
-
 
 
 <span class="atom-split" id="q20" data-atom="q20" data-title="Quesito 20" data-tags="topic_geometria_piana,method_simmetria,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
@@ -647,7 +622,7 @@ level: OBM Nível 3
 
 > The circles $C_1$ and $C_2$, of radii $3$ and $4$ respectively, are tangent externally at $T$. The common external tangents touch $C_1$ at $P$ and $Q$ and $C_2$ at $R$ and $S$. The common internal tangent at $T$ cuts the external tangents at the points $M$ and $N$, as the figure shows. The ratio between the areas of the quadrilaterals $MNPQ$ and $MNRS$ is (A) $\frac{1}{7}$ (B) $\frac{9}{16}$ (C) $\frac{3}{4}$ (D) $\frac{\sqrt{3}}{2}$ (E) $\frac{13}{15}$
 
-![[src_obm_2009_n3_f1__q20.png]]
+![[src_obm_2009_n3_f1__Q20.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_simmetria|Simmetria]]
@@ -663,14 +638,12 @@ level: OBM Nível 3
 
 > I cerchi $C_1$ e $C_2$, di raggi rispettivamente $3$ e $4$, sono tangenti esternamente in $T$. Le tangenti comuni esterne toccano $C_1$ in $P$ e $Q$, e $C_2$ in $R$ e $S$. La tangente comune interna in $T$ interseca le tangenti esterne nei punti $M$ e $N$, come mostra la figura. Il rapporto tra le aree dei quadrilateri $MNPQ$ e $MNRS$ è (A) $\frac{1}{7}$ (B) $\frac{9}{16}$ (C) $\frac{3}{4}$ (D) $\frac{\sqrt{3}}{2}$ (E) $\frac{13}{15}$
 
-![[src_obm_2009_n3_f1__q20.png]]
+![[src_obm_2009_n3_f1__Q20.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_simmetria|Simmetria]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
-
-[[Quesiti/src_obm_2009_n3_f1#q20|src_obm_2009_n3_f1__Q20]]
 
 
 
@@ -699,8 +672,6 @@ level: OBM Nível 3
 **Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
-
-[[Quesiti/src_obm_2009_n3_f1#q21|src_obm_2009_n3_f1__Q21]]
 
 
 
@@ -732,11 +703,9 @@ level: OBM Nível 3
 **Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 
-[[Quesiti/src_obm_2009_n3_f1#q22|src_obm_2009_n3_f1__Q22]]
 
 
-
-<span class="atom-split" id="q23" data-atom="q23" data-title="Quesito 23" data-tags="topic_geometria_solida,topic_logica,method_casework,skill_ragionamento_geometrico,skill_lettura_attenta,skill_astrazione"></span>
+<span class="atom-split" id="q23" data-atom="q23" data-title="Quesito 23" data-tags="topic_geometria_solida,topic_logica,method_casework,skill_ragionamento_geometrico,skill_lettura_attenta,skill_astrazione,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -745,12 +714,12 @@ level: OBM Nível 3
 
 > Some cubes were stacked forming a block. The figures beside represent the view from the left and the view from the front of this block. Looking at the block from above, which of the figures below can \textbf{not} be seen? (Each option shows a configuration labeled with 'left' (esquerda) and 'front' (frente) directions.)
 
-![[src_obm_2009_n3_f1__q23.png]]
+![[src_obm_2009_n3_f1__Q23.png]]
 
 **Topic:** [[topic_geometria_solida|Geometria solida]], [[topic_logica|Logica]]
 **Metodo:** [[method_casework|Casework]]
-**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_astrazione|Astrazione]]
-**Area:** [[Geometria]], [[Combinatoria, Logica e Probabilita]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_astrazione|Astrazione]], [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Geometria|Geometry]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1fpXu9DASZEHBg4I0EScBGy2Cy1LPLiJ2/view)
 
 
@@ -761,14 +730,13 @@ level: OBM Nível 3
 
 > Alcuni cubi sono stati impilati formando un blocco. Le figure accanto rappresentano la vista da sinistra e la vista frontale di questo blocco. Guardando il blocco dall'alto, quale delle figure sottostanti \textbf{non} si può vedere? (Ogni opzione mostra una configurazione contrassegnata dalle direzioni "sinistra" (esquerda) e "frontale" (frente).)
 
-![[src_obm_2009_n3_f1__q23.png]]
+![[src_obm_2009_n3_f1__Q23.png]]
+
 
 **Topic:** [[topic_geometria_solida|Geometria solida]], [[topic_logica|Logica]]
 **Metodo:** [[method_casework|Casework]]
-**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_astrazione|Astrazione]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_astrazione|Astrazione]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Geometria]], [[Combinatoria, Logica e Probabilita]]
-
-[[Quesiti/src_obm_2009_n3_f1#q23|src_obm_2009_n3_f1__Q23]]
 
 
 
@@ -800,8 +768,6 @@ level: OBM Nível 3
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]]
 **Area:** [[Geometria]]
 
-[[Quesiti/src_obm_2009_n3_f1#q24|src_obm_2009_n3_f1__Q24]]
-
 
 
 <span class="atom-split" id="q25" data-atom="q25" data-title="Quesito 25" data-tags="topic_geometria_piana,topic_algebra,method_coordinate,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
@@ -831,5 +797,3 @@ level: OBM Nível 3
 **Metodo:** [[method_coordinate|Coordinate]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]], [[Algebra e Analisi]]
-
-[[Quesiti/src_obm_2009_n3_f1#q25|src_obm_2009_n3_f1__Q25]]

@@ -12,9 +12,6 @@ level: Coupe Animath Automne
 
 <span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_combinatoria,method_conteggio,method_doppio_conteggio,skill_conteggio_sistematico,skill_modellizzazione"></span>
 
-<div class="qlang-switch" data-default="en"></div>
-
-
 *Fifteen students eat ice cream in groups of three each evening; every pair eats together exactly once; find how many days the camp lasted.*
 
 > Fifteen students take part in a mathematics camp. Each evening, three of them go to eat an ice cream. At the end of the camp, it turns out that any two students have always gone to eat an ice cream at the same time exactly once. How many days did the camp last? Justify your answer.
@@ -27,22 +24,35 @@ level: Coupe Animath Automne
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1rq4lAmYEP8TY5qk-3s4vKFUeXGAWkgBf/view)
 
 
-<div class="qlang-split" data-lang="it"></div>
 
+<span class="atom-split" id="q01__it" data-atom="q01__it" data-title="Q01__IT" data-tags=""></span>
+
+---
+tipo: quesito-translation
+translation_of: src_canimath_2015_automne__Q01
+lang: it
+secondary: true
+title: "Coupe Animath Automne 2015  Quesito 1"
+summary: "Ogni sera quindici studenti mangiano gelato in gruppi di tre persone; ogni coppia mangia insieme esattamente una volta; scopri quanti giorni ha durato il campo."
+topics: [topic_combinatoria]
+methods: [method_conteggio, method_doppio_conteggio]
+skills: [skill_conteggio_sistematico, skill_modellizzazione]
+tags: [kg/translation, topic/combinatoria]---
 
 *15 studenti mangiano gelato in gruppi di tre persone ogni sera; ogni coppia mangia insieme esattamente una volta; scopri quanti giorni ha durato il campo.*
 
 > Quindici studenti partecipano a un campo di matematica. Ogni sera, tre di loro vanno a mangiare un gelato. Alla fine del campo, si scopre che due studenti sono sempre andati a mangiare un gelato nello stesso momento esattamente una volta. Quanti giorni ha durato il campo? Giustifica la tua risposta.
 
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_conteggio|Conteggio combinatorio]], [[method_doppio_conteggio|Doppio conteggio]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 35
 [[Quesiti/src_canimath_2015_automne#q01|src_canimath_2015_automne__Q01]]
 
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_aritmetica,topic_algebra,method_fattorizzazione,method_casework,skill_manipolazione_algebrica,skill_casework_accurato"></span>
-
-<div class="qlang-switch" data-default="en"></div>
-
 
 *Three digits x>y>z>0; sum of the six three-digit permutations equals 4884; find the possible numbers xyz.*
 
@@ -55,21 +65,34 @@ level: Coupe Animath Automne
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1rq4lAmYEP8TY5qk-3s4vKFUeXGAWkgBf/view)
 
 
-<div class="qlang-split" data-lang="it"></div>
 
+<span class="atom-split" id="q02__it" data-atom="q02__it" data-title="Q02__IT" data-tags=""></span>
+
+---
+tipo: quesito-translation
+translation_of: src_canimath_2015_automne__Q02
+lang: it
+secondary: true
+title: "Coupe Animath Automne 2015  Quesito 2"
+summary: "Tre cifre x>y>z>0; la somma delle sei permutazioni a tre cifre è uguale a 4884; trova i numeri possibili xyz."
+topics: [topic_aritmetica, topic_algebra]
+methods: [method_fattorizzazione, method_casework]
+skills: [skill_manipolazione_algebrica, skill_casework_accurato]
+tags: [kg/translation, topic/aritmetica, topic/algebra]---
 
 *Tre cifre x>y>z>0; somma delle sei permutazioni a tre cifre equivale a 4884; trovare i numeri possibili xyz.*
 
 > Prendiamo tre cifre $x, y, z$ in modo che $x > y > z > 0$. Prendendo la somma dei sei numeri a tre cifre ottenuti permutando questi cifre $3$, si trova $4884$ (ad esempio, se $x = 3$, $y = 2$ e $z = 1$ si trova $321 + 312 + 213 + 231 + 123 + 132 = 1332$). Quali sono i valori possibili del numero formato dalle tre cifre $x, y, z$ (preso in questo ordine)? Giustifica la tua risposta.
 
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]], [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 [[Quesiti/src_canimath_2015_automne#q02|src_canimath_2015_automne__Q02]]
 
 
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_geometria_piana,method_coordinate,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
-
-<div class="qlang-switch" data-default="en"></div>
-
 
 *Hexagon ABCDEF with rectangle BCEF and given equal sides; its area equals that of a rectangle with consecutive sides a and 36; find a^2.*
 
@@ -79,7 +102,7 @@ level: Coupe Animath Automne
 > 
 > **Note.** One may use the Pythagorean theorem, which states as follows. If $XYZ$ is a right triangle at $X$, then $XY^2 + XZ^2 = YZ^2$.
 
-![[src_canimath_2015_automne__q03.png]]
+![[src_canimath_2015_automne__Q03.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_coordinate|Coordinate]]
@@ -88,8 +111,20 @@ level: Coupe Animath Automne
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1rq4lAmYEP8TY5qk-3s4vKFUeXGAWkgBf/view)
 
 
-<div class="qlang-split" data-lang="it"></div>
 
+<span class="atom-split" id="q03__it" data-atom="q03__it" data-title="Q03__IT" data-tags=""></span>
+
+---
+tipo: quesito-translation
+translation_of: src_canimath_2015_automne__Q03
+lang: it
+secondary: true
+title: "Coupe Animath Automne 2015  Quesito 3"
+summary: "Esagono ABCDEF con rettangolo BCEF e dati lati uguali; la sua superficie è uguale a quella di un rettangolo con lati consecutivi a e 36; trovare a^2."
+topics: [topic_geometria_piana]
+methods: [method_coordinate]
+skills: [skill_ragionamento_geometrico, skill_manipolazione_algebrica]
+tags: [kg/translation, topic/geometria_piana]---
 
 *Essagono ABCDEF con rettangolo BCEF e dati lati uguali; la sua superficie è uguale a quella di un rettangolo con lati consecutivi a e 36; trovare a^2.*
 
@@ -99,13 +134,17 @@ level: Coupe Animath Automne
 > 
 > **Nota.** Si può usare il teorema di Pitagora, che afferma come segue. Se $XYZ$ è un triangolo rettangolo a $X$, allora $XY^2 + XZ^2 = YZ^2$.
 
-![[src_canimath_2015_automne__q03.png]]
+![[src_canimath_2015_automne__Q03.png]]
 
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_coordinate|Metodo delle coordinate]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
 [[Quesiti/src_canimath_2015_automne#q03|src_canimath_2015_automne__Q03]]
 
 
 
-<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_aritmetica,topic_algebra,method_estremalita,method_casework,skill_riconoscimento_pattern,skill_manipolazione_algebrica"></span>
+<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_aritmetica,topic_algebra,method_estremalita,method_casework,method_fattorizzazione,skill_riconoscimento_pattern,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -117,9 +156,9 @@ level: Coupe Animath Automne
 > Initially, the integer $n > 0$ is written on the board. Determine, according to the values of $n$, the smallest number that it is possible to write on the board after a finite number of replacements (possibly none).
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
-**Metodo:** [[method_estremalita|Estremalità]], [[method_casework|Casework]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_casework|Casework]], [[method_fattorizzazione|Factorisation / algebraic manipulation]]
 **Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
-**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Algebra e Analisi|Algebra and analysis]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1rq4lAmYEP8TY5qk-3s4vKFUeXGAWkgBf/view)
 
 
@@ -132,11 +171,14 @@ level: Coupe Animath Automne
 > 
 > Inizialmente, il numero intero $n > 0$ è scritto sulla lavagna. Determinare, secondo i valori di $n$, il numero più piccolo che sia possibile scrivere sulla lavagna dopo un numero finito di sostituzioni (possibilmente nessuna).
 
-[[Quesiti/src_canimath_2015_automne#q04|src_canimath_2015_automne__Q04]]
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_estremalita|Principio di estremalita]], [[method_casework|Analisi per casi]], [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 
 
 
-<span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_algebra,topic_aritmetica,method_casework,method_congruenze,skill_manipolazione_algebrica,skill_astrazione"></span>
+<span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_algebra,topic_aritmetica,method_casework,method_congruenze,skill_manipolazione_algebrica,skill_astrazione,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -151,8 +193,8 @@ level: Coupe Animath Automne
 
 **Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_casework|Casework]], [[method_congruenze|Congruenze]]
-**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]]
-**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]], [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1rq4lAmYEP8TY5qk-3s4vKFUeXGAWkgBf/view)
 
 
@@ -167,11 +209,14 @@ level: Coupe Animath Automne
 > 
 > (2) Se $n$ è strano, si ha sempre $a_1 = a_2 = \cdots = a_n$?
 
-[[Quesiti/src_canimath_2015_automne#q05|src_canimath_2015_automne__Q05]]
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Analisi per casi]], [[method_congruenze|Aritmetica modulare / congruenze]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione / generalizzazione]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 
 
 
-<span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_aritmetica,topic_combinatoria,method_casework,method_fattorizzazione,skill_modellizzazione,skill_riconoscimento_pattern"></span>
+<span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_aritmetica,topic_combinatoria,topic_algebra,method_casework,method_fattorizzazione,skill_modellizzazione,skill_riconoscimento_pattern,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -180,10 +225,10 @@ level: Coupe Animath Automne
 
 > A certain number of students take a mathematics test. If one arranges the tables to form a square, there will be $5$ students who have no seat. On the other hand, if one forms a rectangle with $7$ more rows than columns, all the students will have a seat (and there will be no empty seat). What is the largest possible number of students? Justify your answer.
 
-**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]], [[topic_algebra|Algebra]]
 **Metodo:** [[method_casework|Casework]], [[method_fattorizzazione|Fattorizzazione]]
-**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
-**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Algebra e Analisi|Algebra and analysis]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1rq4lAmYEP8TY5qk-3s4vKFUeXGAWkgBf/view)
 
 
@@ -194,20 +239,20 @@ level: Coupe Animath Automne
 
 > Un certo numero di studenti fa un test di matematica. Se si organizzano le tavole per formare un quadrato, ci saranno $5$ studenti che non hanno posti a sedere. D'altra parte, se si forma un rettangolo con $7$ più righe di colonne, tutti gli studenti avranno un posto (e non ci sarà nessun posto vuoto). Qual è il maggior numero possibile di studenti? Giustifica la tua risposta.
 
-[[Quesiti/src_canimath_2015_automne#q06|src_canimath_2015_automne__Q06]]
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_casework|Analisi per casi]], [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]], [[Algebra e Analisi]]
 
 
 
 <span class="atom-split" id="q07" data-atom="q07" data-title="Quesito 7" data-tags="topic_geometria_piana,method_coordinate,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
 
-<div class="qlang-switch" data-default="en"></div>
-
-
 *Each side of a unit square is divided into 3 equal parts; lines drawn from the division points create a grey polygon; find its area.*
 
 > Each side of a unit square is divided into $3$ equal segments. One draws the figure below from this partition. What is the area of the grey polygon? Justify your answer.
 
-![[src_canimath_2015_automne__q07.png]]
+![[src_canimath_2015_automne__Q07.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_coordinate|Coordinate]]
@@ -216,20 +261,36 @@ level: Coupe Animath Automne
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1rq4lAmYEP8TY5qk-3s4vKFUeXGAWkgBf/view)
 
 
-<div class="qlang-split" data-lang="it"></div>
 
+<span class="atom-split" id="q07__it" data-atom="q07__it" data-title="Q07__IT" data-tags=""></span>
+
+---
+tipo: quesito-translation
+translation_of: src_canimath_2015_automne__Q07
+lang: it
+secondary: true
+title: "Coupe Animath Automne 2015  Quesito 7"
+summary: "Ogni lato di un quadrato unitario è diviso in 3 parti uguali; linee tracciate dai punti di divisione creano un poligono grigio; trova la sua superficie."
+topics: [topic_geometria_piana]
+methods: [method_coordinate]
+skills: [skill_ragionamento_geometrico, skill_manipolazione_algebrica]
+tags: [kg/translation, topic/geometria_piana]---
 
 *Ogni lato di un quadrato unitario è diviso in 3 parti uguali; le linee tracciate dai punti di divisione creano un poligono grigio; trova la sua superficie.*
 
 > Ogni lato di un quadrato unitario è diviso in segmenti uguali $3$. Si tratti la figura di seguito da questa partizione. Qual è l'area del poligono grigio? Giustifica la tua risposta.
 
-![[src_canimath_2015_automne__q07.png]]
+![[src_canimath_2015_automne__Q07.png]]
 
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_coordinate|Metodo delle coordinate]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
 [[Quesiti/src_canimath_2015_automne#q07|src_canimath_2015_automne__Q07]]
 
 
 
-<span class="atom-split" id="q08" data-atom="q08" data-title="Quesito 8" data-tags="topic_algebra,topic_aritmetica,method_induzione,method_ricorsione,skill_manipolazione_algebrica,skill_riconoscimento_pattern"></span>
+<span class="atom-split" id="q08" data-atom="q08" data-title="Quesito 8" data-tags="topic_algebra,topic_aritmetica,topic_funzionali,method_induzione,method_ricorsione,skill_manipolazione_algebrica,skill_riconoscimento_pattern"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -240,10 +301,10 @@ level: Coupe Animath Automne
 > $$a_{n+2} = \frac{a_{n+1}^2 - 1}{a_n} \quad \text{for all } n \ge 1.$$
 > For example, $a_3 = \frac{7^2 - 1}{1} = 48$. Show that $9 a_n a_{n+1} + 1$ is the square of an integer for every integer $n \ge 1$.
 
-**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_funzionali|Functional equations / sequences]]
 **Metodo:** [[method_induzione|Induzione]], [[method_ricorsione|Ricorsione]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
-**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1rq4lAmYEP8TY5qk-3s4vKFUeXGAWkgBf/view)
 
 
@@ -254,4 +315,7 @@ level: Coupe Animath Automne
 
 > Consideriamo una sequenza di numeri reali $a_1, a_2, a_3, \ldots$ come $a_1 = 1$, $a_2 = 7$ e $$a_{n+2} = \frac{a_{n+1}^2 - 1}{a_n} \quad \text{for all } n \ge 1.$$ Ad esempio, $a_3 = \frac{7^2 - 1}{1} = 48$. Mostra che $9 a_n a_{n+1} + 1$ è il quadrato di un intero per ogni intero $n \ge 1$.
 
-[[Quesiti/src_canimath_2015_automne#q08|src_canimath_2015_automne__Q08]]
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_funzionali|Equazioni funzionali / successioni]]
+**Metodo:** [[method_induzione|Induzione]], [[method_ricorsione|Ricorsione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]

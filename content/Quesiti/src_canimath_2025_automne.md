@@ -10,7 +10,7 @@ level: Coupe Animath Automne
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_geometria_piana,skill_ragionamento_geometrico,skill_lettura_attenta"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_geometria_piana,method_simmetria,skill_ragionamento_geometrico,skill_lettura_attenta"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -22,8 +22,9 @@ level: Coupe Animath Automne
 > *Only a numerical answer is expected here.*
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_simmetria|Using symmetry]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
-**Area:** [[Geometria]]
+**Area:** [[Geometria|Geometry]]
 **Risposta:** 140 degrees
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1AZenaJZqX78ODBfvmJ021SAV2IVlYOsG/view)
 
@@ -37,12 +38,15 @@ level: Coupe Animath Automne
 > 
 > *Solo una risposta numerica è prevista qui.*
 
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_simmetria|Sfruttamento della simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta del testo]]
+**Area:** [[Geometria]]
 **Risposta:** 140 gradi
-[[Quesiti/src_canimath_2025_automne#q01|src_canimath_2025_automne__Q01]]
 
 
 
-<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_combinatoria,topic_combinatoria,method_grafi,method_colorazione,method_estremalita,method_casework,skill_modellizzazione,skill_conteggio_sistematico,skill_riconoscimento_pattern"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_combinatoria,topic_combinatoria,method_grafi,method_colorazione,method_estremalita,method_casework,method_conteggio,skill_modellizzazione,skill_conteggio_sistematico,skill_riconoscimento_pattern,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -51,12 +55,12 @@ level: Coupe Animath Automne
 
 > In the following figure there are $9$ circles. We say that two of these circles are connected if they are joined by a segment that passes through no other circle. Eva colors each of the circles either green or red. Once all the circles are colored, she wins one candy for each pair of two connected circles of different colors. Determine the maximal number of candies that Eva can obtain in this way.
 
-![[src_canimath_2025_automne__q02.png]]
+![[src_canimath_2025_automne__Q02.png]]
 
-**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_combinatoria|topic_combinatoria]]
-**Metodo:** [[method_grafi|Grafi]], [[method_colorazione|Colorazione]], [[method_estremalita|Estremalità]], [[method_casework|Casework]]
-**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
-**Area:** [[Combinatoria, Logica e Probabilita]]
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_grafi|Grafi]], [[method_colorazione|Colorazione]], [[method_estremalita|Estremalità]], [[method_casework|Casework]], [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1AZenaJZqX78ODBfvmJ021SAV2IVlYOsG/view)
 
 
@@ -67,16 +71,16 @@ level: Coupe Animath Automne
 
 > Nella figura seguente ci sono cerchi $9$. Diciamo che due di questi cerchi sono collegati se sono uniti da un segmento che non passa attraverso nessun altro cerchio. Eva colora ciascuna delle cerchie in verde o rosso. Una volta che tutti i cerchi sono colorati, vince un caramello per ogni coppia di due cerchi collegati di colori diversi. Determina il numero massimo di caramelle che Eva può ottenere in questo modo.
 
-![[src_canimath_2025_automne__q02.png]]
+![[src_canimath_2025_automne__Q02.png]]
 
-[[Quesiti/src_canimath_2025_automne#q02|src_canimath_2025_automne__Q02]]
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_grafi|Teoria dei grafi]], [[method_colorazione|Colorazione / parita]], [[method_estremalita|Principio di estremalita]], [[method_casework|Analisi per casi]], [[method_conteggio|Conteggio combinatorio]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
 
 
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_geometria_piana,method_simmetria,skill_ragionamento_geometrico"></span>
-
-<div class="qlang-switch" data-default="en"></div>
-
 
 *Show D, E, F, X are concyclic in a triangle with reflected points*
 
@@ -89,18 +93,34 @@ level: Coupe Animath Automne
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1AZenaJZqX78ODBfvmJ021SAV2IVlYOsG/view)
 
 
-<div class="qlang-split" data-lang="it"></div>
 
+<span class="atom-split" id="q03__it" data-atom="q03__it" data-title="Q03__IT" data-tags=""></span>
+
+---
+tipo: quesito-translation
+translation_of: src_canimath_2025_automne__Q03
+lang: it
+secondary: true
+title: "Coupe Animath Automne 2025  Quesito 3"
+summary: "Mostra che D, E, F, X sono conciclici in un triangolo con punti riflessi"
+topics: [topic_geometria_piana]
+methods: [method_simmetria]
+skills: [skill_ragionamento_geometrico]
+tags: [kg/translation, topic/geometria_piana]---
 
 *Mostra che D, E, F, X sono conciclici in un triangolo con punti riflessi*
 
 > Che $ABC$ sia un triangolo il cui lato più piccolo è $[BC]$, e che $D$ sia un punto sul segmento $[BC]$. Il segmento $E$ deve essere $[AC]$ in modo tale che $CD = CE$ e $F$ nel segmento $[AB]$ in modo tale che $BD = BF$. Infine $P$ è il punto simmetrico di $D$ rispetto a $B$ e $Q$ il punto simmetrico di $D$ rispetto a $C$. Il punto di intersezione delle linee $(QE)$ e $(PF)$ è $X$. Indicare che i punti $D$, $E$, $F$ e $X$ si trovano sullo stesso cerchio.
 
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_simmetria|Sfruttamento della simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Geometria]]
 [[Quesiti/src_canimath_2025_automne#q03|src_canimath_2025_automne__Q03]]
 
 
 
-<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_aritmetica,method_casework,skill_lettura_attenta,skill_casework_accurato,skill_manipolazione_algebrica"></span>
+<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_aritmetica,method_casework,method_congruenze,method_fattorizzazione,skill_lettura_attenta,skill_casework_accurato,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -110,9 +130,9 @@ level: Coupe Animath Automne
 > Hadriel has chosen two strictly positive integers $a$ and $b$. When he does the Euclidean division of $a$ by $b$, the remainder is $2$. When he does the Euclidean division of $b$ by $a$, the remainder is $4$. Determine all the possible values that $b$ can take.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_casework|Casework]]
+**Metodo:** [[method_casework|Casework]], [[method_congruenze|Modular arithmetic / congruences]], [[method_fattorizzazione|Factorisation / algebraic manipulation]]
 **Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_casework_accurato|Casework accurato]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
-**Area:** [[Aritmetica e Teoria dei Numeri]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1AZenaJZqX78ODBfvmJ021SAV2IVlYOsG/view)
 
 
@@ -123,14 +143,14 @@ level: Coupe Animath Automne
 
 > Hadriel ha scelto due enti rigorosamente positivi $a$ e $b$. Quando fa la divisione euclidica di $a$ per $b$, il rimanente è $2$. Quando fa la divisione euclidica di $b$ per $a$, il rimanente è $4$. Determinare tutti i valori possibili che $b$ può assumere.
 
-[[Quesiti/src_canimath_2025_automne#q04|src_canimath_2025_automne__Q04]]
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Analisi per casi]], [[method_congruenze|Aritmetica modulare / congruenze]], [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
+**Abilita:** [[skill_lettura_attenta|Lettura attenta del testo]], [[skill_casework_accurato|Casework accurato]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
 
 
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_disuguaglianze,topic_algebra,method_estremalita,method_casework,skill_stima,skill_casework_accurato,skill_manipolazione_algebrica"></span>
-
-<div class="qlang-switch" data-default="en"></div>
-
 
 *Among four positive reals, a pair's difference is less than a third of the sum of the other two*
 
@@ -143,18 +163,34 @@ level: Coupe Animath Automne
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1AZenaJZqX78ODBfvmJ021SAV2IVlYOsG/view)
 
 
-<div class="qlang-split" data-lang="it"></div>
 
+<span class="atom-split" id="q05__it" data-atom="q05__it" data-title="Q05__IT" data-tags=""></span>
+
+---
+tipo: quesito-translation
+translation_of: src_canimath_2025_automne__Q05
+lang: it
+secondary: true
+title: "Coupe Animath Automne 2025  Quesito 5"
+summary: "Tra quattro reali positivi, la differenza di una coppia è inferiore a un terzo della somma delle altre due"
+topics: [topic_disuguaglianze, topic_algebra]
+methods: [method_estremalita, method_casework]
+skills: [skill_stima, skill_casework_accurato, skill_manipolazione_algebrica]
+tags: [kg/translation, topic/disuguaglianze, topic/algebra]---
 
 *Tra quattro reali positivi, la differenza di una coppia è inferiore a un terzo della somma delle altre due*
 
 > Mostrate che tra quattro numeri reali rigorosamente positivi, esistono sempre due di essi la cui differenza (cioè la più grande delle due meno la più piccola) è rigorosamente inferiore a un terzo della somma delle altre due.
 
+**Topic:** [[topic_disuguaglianze|Disuguaglianze]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_estremalita|Principio di estremalita]], [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_stima|Stima e approssimazione]], [[skill_casework_accurato|Casework accurato]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Algebra e Analisi]]
 [[Quesiti/src_canimath_2025_automne#q05|src_canimath_2025_automne__Q05]]
 
 
 
-<span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_geometria_piana,skill_ragionamento_geometrico"></span>
+<span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_geometria_piana,method_coordinate,skill_ragionamento_geometrico"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -164,8 +200,9 @@ level: Coupe Animath Automne
 > Let $ABCD$ be a parallelogram. Let $E$ be a point on the segment $[BC]$. We draw the parallel to the line $(AE)$ passing through $D$, on which we place two points, $F$ and $G$, such that $D$ lies on the segment $[FG]$ and such that the quadrilateral $AEFG$ is a parallelogram. Show that the areas of the two parallelograms $ABCD$ and $AEFG$ are equal.
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_coordinate|Coordinate method]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
-**Area:** [[Geometria]]
+**Area:** [[Geometria|Geometry]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1AZenaJZqX78ODBfvmJ021SAV2IVlYOsG/view)
 
 
@@ -176,14 +213,14 @@ level: Coupe Animath Automne
 
 > $ABCD$ sia un parallelo. Il punto $E$ deve essere un punto del segmento $[BC]$. Tracciamo il parallelo alla linea $(AE)$ che attraversa $D$, su cui posizionamo due punti, $F$ e $G$, in modo tale che $D$ si trova sul segmento $[FG]$ e in modo tale che il quadrilaterale $AEFG$ sia un parallelo. Indicare che le superfici dei due parallelogrammi $ABCD$ e $AEFG$ sono uguali.
 
-[[Quesiti/src_canimath_2025_automne#q06|src_canimath_2025_automne__Q06]]
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_coordinate|Metodo delle coordinate]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Geometria]]
 
 
 
 <span class="atom-split" id="q07" data-atom="q07" data-title="Quesito 7" data-tags="topic_combinatoria,topic_algebra,method_doppio_conteggio,skill_modellizzazione,skill_manipolazione_algebrica,skill_astrazione"></span>
-
-<div class="qlang-switch" data-default="en"></div>
-
 
 *Grid with equal row/column sums at nonzero cells implies m=n*
 
@@ -196,18 +233,34 @@ level: Coupe Animath Automne
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1AZenaJZqX78ODBfvmJ021SAV2IVlYOsG/view)
 
 
-<div class="qlang-split" data-lang="it"></div>
 
+<span class="atom-split" id="q07__it" data-atom="q07__it" data-title="Q07__IT" data-tags=""></span>
+
+---
+tipo: quesito-translation
+translation_of: src_canimath_2025_automne__Q07
+lang: it
+secondary: true
+title: "Coupe Animath Automne 2025  Quesito 7"
+summary: "La rete con somma di righe/colonne uguale nelle celle non zero implica m=n"
+topics: [topic_combinatoria, topic_algebra]
+methods: [method_doppio_conteggio]
+skills: [skill_modellizzazione, skill_manipolazione_algebrica, skill_astrazione]
+tags: [kg/translation, topic/combinatoria, topic/algebra]---
 
 *Grid con somme di righe/colonne uguali nelle celle non zero implica m=n*
 
 > Aurélien riempie una griglia con righe $m$ e colonne $n$ con numeri reali non negativi, in modo tale che ogni riga e ogni colonna contengano almeno un elemento non zero. Vuole anche che per ogni cella che contiene un elemento non zero, la somma degli elementi della sua riga e la somma degli elementi della sua colonna siano identiche. Mostrare che se è riuscito a riempire la griglia rispettando questi vincoli, $m = n$.
 
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_doppio_conteggio|Doppio conteggio]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione / generalizzazione]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Algebra e Analisi]]
 [[Quesiti/src_canimath_2025_automne#q07|src_canimath_2025_automne__Q07]]
 
 
 
-<span class="atom-split" id="q08" data-atom="q08" data-title="Quesito 8" data-tags="topic_algebra,skill_manipolazione_algebrica"></span>
+<span class="atom-split" id="q08" data-atom="q08" data-title="Quesito 8" data-tags="topic_algebra,topic_aritmetica,method_fattorizzazione,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -218,9 +271,10 @@ level: Coupe Animath Automne
 > 
 > *Only a numerical answer is expected here.*
 
-**Topic:** [[topic_algebra|Algebra]]
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
-**Area:** [[Algebra e Analisi]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1AZenaJZqX78ODBfvmJ021SAV2IVlYOsG/view)
 
 
@@ -233,11 +287,14 @@ level: Coupe Animath Automne
 > 
 > *Solo una risposta numerica è prevista qui.*
 
-[[Quesiti/src_canimath_2025_automne#q08|src_canimath_2025_automne__Q08]]
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 
 
 
-<span class="atom-split" id="q09" data-atom="q09" data-title="Quesito 9" data-tags="topic_geometria_piana,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
+<span class="atom-split" id="q09" data-atom="q09" data-title="Quesito 9" data-tags="topic_geometria_piana,method_fattorizzazione,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -247,8 +304,9 @@ level: Coupe Animath Automne
 > Let $B$, $C$ be two points of the plane, $K_1$ a semicircle of diameter $[BC]$ and $A$ a point on $K_1$. Let $K_2$ be the semicircle of diameter $[CA]$ and $K_3$ the semicircle of diameter $[AB]$, situated outside the triangle $ABC$. We denote by $S$ the area of the triangle $ABC$, by $S_1$ the area comprised between the arc $\widehat{AB}$ of $K_1$ and the arc $\widehat{AB}$ of $K_3$, and by $S_2$ the area comprised between the arc $\widehat{AC}$ of $K_1$ and the arc $\widehat{AC}$ of $K_2$. Show that $S = S_1 + S_2$.
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
-**Area:** [[Geometria]]
+**Area:** [[Geometria|Geometry]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1AZenaJZqX78ODBfvmJ021SAV2IVlYOsG/view)
 
 
@@ -259,11 +317,14 @@ level: Coupe Animath Automne
 
 > $B$, $C$ siano due punti del piano, $K_1$ un semicircolo di diametro $[BC]$ e $A$ un punto su $K_1$. Il $K_2$ deve essere il semicircolo di diametro $[CA]$ e $K_3$ il semicircolo di diametro $[AB]$, situato al di fuori del triangolo $ABC$. Indichiamo con $S$ la superficie del triangolo $ABC$, con $S_1$ la superficie compresa tra l'arco $\widehat{AB}$ di $K_1$ e l'arco $\widehat{AB}$ di $K_3$, e con $S_2$ la superficie compresa tra l'arco $\widehat{AC}$ di $K_1$ e l'arco $\widehat{AC}$ di $K_2$. Mostra che $S = S_1 + S_2$.
 
-[[Quesiti/src_canimath_2025_automne#q09|src_canimath_2025_automne__Q09]]
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
 
 
 
-<span class="atom-split" id="q10" data-atom="q10" data-title="Quesito 10" data-tags="topic_algebra,topic_aritmetica,method_fattorizzazione,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
+<span class="atom-split" id="q10" data-atom="q10" data-title="Quesito 10" data-tags="topic_algebra,topic_aritmetica,method_fattorizzazione,method_casework,skill_manipolazione_algebrica,skill_lettura_attenta,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -275,9 +336,9 @@ level: Coupe Animath Automne
 > *We say that real numbers $a$, $b$, $c$ are in geometric progression if there exists a non-zero real number $k$ such that $c = kb = k^2 a$.*
 
 **Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_fattorizzazione|Fattorizzazione]]
-**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
-**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_casework|Case analysis]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1AZenaJZqX78ODBfvmJ021SAV2IVlYOsG/view)
 
 
@@ -290,14 +351,14 @@ level: Coupe Animath Automne
 > 
 > Diciamo che i numeri reali $a$, $b$, $c$ sono in progressione geometrica se esiste un numero reale non zero $k$ tale che $c = kb = k^2 a$.*
 
-[[Quesiti/src_canimath_2025_automne#q10|src_canimath_2025_automne__Q10]]
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]], [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta del testo]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 
 
 
 <span class="atom-split" id="q11" data-atom="q11" data-title="Quesito 11" data-tags="topic_combinatoria,topic_combinatoria,method_grafi,method_doppio_conteggio,method_estremalita,skill_conteggio_sistematico,skill_stima,skill_modellizzazione"></span>
-
-<div class="qlang-switch" data-default="en"></div>
-
 
 *Show a 20-island graph with 172 ferry edges has diameter at most 2*
 
@@ -310,18 +371,34 @@ level: Coupe Animath Automne
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1AZenaJZqX78ODBfvmJ021SAV2IVlYOsG/view)
 
 
-<div class="qlang-split" data-lang="it"></div>
 
+<span class="atom-split" id="q11__it" data-atom="q11__it" data-title="Q11__IT" data-tags=""></span>
+
+---
+tipo: quesito-translation
+translation_of: src_canimath_2025_automne__Q11
+lang: it
+secondary: true
+title: "Coupe Animath Automne 2025  Quesito 11"
+summary: "Mostra un grafico di 20 isole con 172 bordi di traghetto di diametro massimo 2"
+topics: [topic_combinatoria, topic_combinatoria]
+methods: [method_grafi, method_doppio_conteggio, method_estremalita]
+skills: [skill_conteggio_sistematico, skill_stima, skill_modellizzazione]
+tags: [kg/translation, topic/combinatoria]---
 
 *Mostra un grafico di 20 isole con 172 bordi di traghetto con diametro massimo 2*
 
 > Ci sono isole $20$ in Animatland; alcune sono collegate tra loro da rotte di traghetto che vanno in entrambe le direzioni. Ogni coppia di isole è collegata da un percorso massimo e ci sono in totale percorsi $172$. Mostrare che è possibile viaggiare da un'isola a un'altra cambiando il traghetto una volta al massimo (cioè passando per un'altra isola al massimo).
 
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_grafi|Teoria dei grafi]], [[method_doppio_conteggio|Doppio conteggio]], [[method_estremalita|Principio di estremalita]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_stima|Stima e approssimazione]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
 [[Quesiti/src_canimath_2025_automne#q11|src_canimath_2025_automne__Q11]]
 
 
 
-<span class="atom-split" id="q12" data-atom="q12" data-title="Quesito 12" data-tags="topic_aritmetica,method_congruenze,method_invarianti,skill_riconoscimento_pattern,skill_lettura_attenta,skill_manipolazione_algebrica"></span>
+<span class="atom-split" id="q12" data-atom="q12" data-title="Quesito 12" data-tags="topic_aritmetica,method_congruenze,method_invarianti,method_induzione,skill_riconoscimento_pattern,skill_lettura_attenta,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -331,9 +408,9 @@ level: Coupe Animath Automne
 > Marie writes the number $2$ on a board. Then, each minute, she computes the product of all the numbers written on the board and adds $1$. If $n$ is the result of this operation, Marie then writes on the board the largest prime divisor of $n$. Marie never erases any of the numbers from the board. Show that Marie will never write the number $5$ on the board.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_congruenze|Congruenze]], [[method_invarianti|Invarianti]]
+**Metodo:** [[method_congruenze|Congruenze]], [[method_invarianti|Invarianti]], [[method_induzione|Induction]]
 **Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_lettura_attenta|Lettura attenta]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
-**Area:** [[Aritmetica e Teoria dei Numeri]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1AZenaJZqX78ODBfvmJ021SAV2IVlYOsG/view)
 
 
@@ -344,14 +421,14 @@ level: Coupe Animath Automne
 
 > Marie scrive il numero $2$ su una lavagna. Poi, ogni minuto, calcola il prodotto di tutti i numeri scritti sulla lavagna e aggiunge $1$. Se $n$ è il risultato di questa operazione, Marie scrive sulla lavagna il più grande divisore primo di $n$. Marie non cancella mai i numeri dalla lavagna. Mostrare che Marie non scriverà mai il numero $5$ sulla lavagna.
 
-[[Quesiti/src_canimath_2025_automne#q12|src_canimath_2025_automne__Q12]]
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]], [[method_invarianti|Invarianti / monovarianti]], [[method_induzione|Induzione]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_lettura_attenta|Lettura attenta del testo]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
 
 
 
 <span class="atom-split" id="q13" data-atom="q13" data-title="Quesito 13" data-tags="topic_combinatoria,topic_algebra,method_doppio_conteggio,skill_modellizzazione,skill_manipolazione_algebrica,skill_astrazione"></span>
-
-<div class="qlang-switch" data-default="en"></div>
-
 
 *Grid with equal row/column sums at nonzero cells implies m=n (lycée version)*
 
@@ -364,21 +441,34 @@ level: Coupe Animath Automne
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1AZenaJZqX78ODBfvmJ021SAV2IVlYOsG/view)
 
 
-<div class="qlang-split" data-lang="it"></div>
 
+<span class="atom-split" id="q13__it" data-atom="q13__it" data-title="Q13__IT" data-tags=""></span>
+
+---
+tipo: quesito-translation
+translation_of: src_canimath_2025_automne__Q13
+lang: it
+secondary: true
+title: "Coupe Animath Automne 2025  Quesito 13"
+summary: "Griglia con pari somme di righe/colonne nelle celle non zero implica m=n (versione lycée)"
+topics: [topic_combinatoria, topic_algebra]
+methods: [method_doppio_conteggio]
+skills: [skill_modellizzazione, skill_manipolazione_algebrica, skill_astrazione]
+tags: [kg/translation, topic/combinatoria, topic/algebra]---
 
 *Grid con somma di righe/colonne uguale nelle celle non a zero implica m=n (versione liceale)*
 
 > Aurélien riempie una griglia con righe $m$ e colonne $n$ con numeri reali non negativi, in modo tale che ogni riga e ogni colonna contengano almeno un elemento non zero. Vuole anche che per ogni cella che contiene un elemento non zero, la somma degli elementi della sua riga e la somma degli elementi della sua colonna siano identiche. Mostrare che se è riuscito a riempire la griglia rispettando questi vincoli, $m = n$.
 
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_doppio_conteggio|Doppio conteggio]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione / generalizzazione]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Algebra e Analisi]]
 [[Quesiti/src_canimath_2025_automne#q13|src_canimath_2025_automne__Q13]]
 
 
 
 <span class="atom-split" id="q14" data-atom="q14" data-title="Quesito 14" data-tags="topic_geometria_piana,method_simmetria,skill_ragionamento_geometrico"></span>
-
-<div class="qlang-switch" data-default="en"></div>
-
 
 *Show triangle DYZ is isosceles in a midpoint/semicircle configuration*
 
@@ -391,18 +481,34 @@ level: Coupe Animath Automne
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1AZenaJZqX78ODBfvmJ021SAV2IVlYOsG/view)
 
 
-<div class="qlang-split" data-lang="it"></div>
 
+<span class="atom-split" id="q14__it" data-atom="q14__it" data-title="Q14__IT" data-tags=""></span>
+
+---
+tipo: quesito-translation
+translation_of: src_canimath_2025_automne__Q14
+lang: it
+secondary: true
+title: "Coupe Animath Automne 2025  Quesito 14"
+summary: "Il triangolo di mostra DYZ è uguale a quello di una configurazione di punto medio/semicircolo"
+topics: [topic_geometria_piana]
+methods: [method_simmetria]
+skills: [skill_ragionamento_geometrico]
+tags: [kg/translation, topic/geometria_piana]---
 
 *Mostra che il triangolo DYZ è uguale a quello di una configurazione di punto medio/semicircolo*
 
 > Che $ABC$ sia un triangolo che non è uguale a $A$. $D$, $E$ e $F$ siano i punti di mezzo dei lati $[BC]$, $[AC]$ e $[AB]$ rispettivamente. Il cerchio di diametro $[BC]$ taglia rispettivamente le metà linee $[DE)$ e $[DF)$ a $P$ e $Q$. Le linee $(BP)$ e $(CQ)$ si tagliano a $X$. La riga $(AX)$ taglia rispettivamente le righe $(DE)$ e $(DF)$ a $Y$ e $Z$. Indicare che il triangolo $DYZ$ è uguale.
 
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_simmetria|Sfruttamento della simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Geometria]]
 [[Quesiti/src_canimath_2025_automne#q14|src_canimath_2025_automne__Q14]]
 
 
 
-<span class="atom-split" id="q15" data-atom="q15" data-title="Quesito 15" data-tags="topic_algebra,topic_disuguaglianze,method_estremalita,method_casework,skill_manipolazione_algebrica,skill_stima"></span>
+<span class="atom-split" id="q15" data-atom="q15" data-title="Quesito 15" data-tags="topic_algebra,topic_disuguaglianze,topic_funzionali,method_estremalita,method_casework,skill_manipolazione_algebrica,skill_stima,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -411,10 +517,10 @@ level: Coupe Animath Automne
 
 > Let $n \ge 2$ be a fixed integer. Gaëtan chooses real numbers $x_1, x_2, \ldots, x_n$ such that among the $n$ numbers $$\frac{x_1}{1},\ \frac{x_1 + x_2}{2},\ \frac{x_1 + x_2 + x_3}{3},\ \ldots,\ \frac{x_1 + \cdots + x_n}{n},$$ the largest value taken is $1$ and the smallest value taken is $0$. Among the numbers $x_1, x_2, \ldots, x_n$, we denote by $a$ the largest and by $b$ the smallest. Gaëtan computes $a - b$ and writes this difference on the board. What is the largest number that Gaëtan can write on the board? What is the smallest?
 
-**Topic:** [[topic_algebra|Algebra]], [[topic_disuguaglianze|Disuguaglianze]]
+**Topic:** [[topic_algebra|Algebra]], [[topic_disuguaglianze|Disuguaglianze]], [[topic_funzionali|Functional equations / sequences]]
 **Metodo:** [[method_estremalita|Estremalità]], [[method_casework|Casework]]
-**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]]
-**Area:** [[Algebra e Analisi]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]], [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1AZenaJZqX78ODBfvmJ021SAV2IVlYOsG/view)
 
 
@@ -425,4 +531,7 @@ level: Coupe Animath Automne
 
 > $n \ge 2$ sia un numero intero fisso. Gaëtan sceglie i numeri reali $x_1, x_2, \ldots, x_n$ in modo tale che tra i numeri $n$ $$\frac{x_1}{1},\ \frac{x_1 + x_2}{2},\ \frac{x_1 + x_2 + x_3}{3},\ \ldots,\ \frac{x_1 + \cdots + x_n}{n},$$ il valore più grande preso sia $1$ e il valore più piccolo preso sia $0$. Tra i numeri $x_1, x_2, \ldots, x_n$, indichiamo con $a$ il più grande e con $b$ il più piccolo. Gaëtan calcola $a - b$ e scrive questa differenza sulla lavagna. Qual è il numero più grande che Gaëtan può scrivere sulla lavagna? Qual è il più piccolo?
 
-[[Quesiti/src_canimath_2025_automne#q15|src_canimath_2025_automne__Q15]]
+**Topic:** [[topic_algebra|Algebra]], [[topic_disuguaglianze|Disuguaglianze]], [[topic_funzionali|Equazioni funzionali / successioni]]
+**Metodo:** [[method_estremalita|Principio di estremalita]], [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima e approssimazione]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Algebra e Analisi]]

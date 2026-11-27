@@ -39,12 +39,11 @@ level: Olimpiade Polacca Round 3
 **Topic:** [[topic_disuguaglianze|Disuguaglianze]], [[topic_algebra|Algebra]]
 **Metodo:** [[method_disuguaglianze|Disuguaglianze]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]]
-
-[[Quesiti/src_pol_2001_r3#q01|src_pol_2001_r3__Q01]]
-
+**Area:** [[Algebra e Analisi]]
 
 
-<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_geometria_solida,topic_disuguaglianze,method_disuguaglianze,skill_ragionamento_geometrico,skill_stima"></span>
+
+<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_geometria_solida,topic_disuguaglianze,method_disuguaglianze,method_estremalita,skill_ragionamento_geometrico,skill_stima"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -54,9 +53,9 @@ level: Olimpiade Polacca Round 3
 > Prove that, for any interior point $P$ of a regular tetrahedron with edge $1$, the sum of the distances from $P$ to the vertices of the tetrahedron is not greater than $3$.
 
 **Topic:** [[topic_geometria_solida|Geometria solida]], [[topic_disuguaglianze|Disuguaglianze]]
-**Metodo:** [[method_disuguaglianze|Disuguaglianze]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze]], [[method_estremalita|Extremal principle]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_stima|Stima]]
-**Area:** [[Geometria]], [[Algebra e Analisi]]
+**Area:** [[Geometria|Geometry]], [[Algebra e Analisi|Algebra and analysis]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1NdQKIsmLWVns4DWiT4Xy-7m3Ys5L9SOW/view)
 
 
@@ -67,15 +66,15 @@ level: Olimpiade Polacca Round 3
 
 > Dimostrare che, per ogni punto interno $P$ di un tetraedro regolare di spigolo $1$, la somma delle distanze da $P$ ai vertici del tetraedro non supera $3$.
 
+
 **Topic:** [[topic_geometria_solida|Geometria solida]], [[topic_disuguaglianze|Disuguaglianze]]
-**Metodo:** [[method_disuguaglianze|Disuguaglianze]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze]], [[method_estremalita|Principio di estremalita]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_stima|Stima]]
-
-[[Quesiti/src_pol_2001_r3#q02|src_pol_2001_r3__Q02]]
-
+**Area:** [[Geometria]], [[Algebra e Analisi]]
 
 
-<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_algebra,topic_insiemi_funzioni,method_ricorsione,method_casework,skill_riconoscimento_pattern,skill_manipolazione_algebrica,skill_astrazione"></span>
+
+<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_algebra,topic_insiemi_funzioni,topic_funzionali,method_ricorsione,method_casework,skill_riconoscimento_pattern,skill_manipolazione_algebrica,skill_astrazione"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -86,10 +85,10 @@ level: Olimpiade Polacca Round 3
 > $$x_1 = a, \quad x_2 = b, \quad x_{n+2} = x_{n+1} + x_n \quad \text{for } n = 1, 2, 3, \ldots,$$
 > where $a$ and $b$ are real numbers. We call a number $c$ a multiple value of sequence $(x_n)$ if there exist positive integers $k \ne l$ such that $x_k = x_l = c$. Prove that there exist $a$ and $b$ for which $(x_n)$ possesses more than $2000$ different multiple values. Moreover, prove that $(x_n)$ cannot have infinitely many different multiple values.
 
-**Topic:** [[topic_algebra|Algebra]], [[topic_insiemi_funzioni|Insiemi e funzioni]]
+**Topic:** [[topic_algebra|Algebra]], [[topic_insiemi_funzioni|Insiemi e funzioni]], [[topic_funzionali|Functional equations / sequences]]
 **Metodo:** [[method_ricorsione|Ricorsione]], [[method_casework|Casework]]
 **Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]]
-**Area:** [[Algebra e Analisi]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1NdQKIsmLWVns4DWiT4Xy-7m3Ys5L9SOW/view)
 
 
@@ -104,15 +103,15 @@ level: Olimpiade Polacca Round 3
 >
 > dove $a$ e $b$ sono numeri reali. Un numero $c$ si dice valore multiplo della successione $(x_n)$ se esistono interi positivi $k \ne l$ tali che $x_k = x_l = c$. Dimostrare che esistono $a$ e $b$ per cui $(x_n)$ ha più di $2000$ valori multipli distinti. Inoltre, dimostrare che $(x_n)$ non può avere infiniti valori multipli distinti.
 
-**Topic:** [[topic_algebra|Algebra]], [[topic_insiemi_funzioni|Insiemi e funzioni]]
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_insiemi_funzioni|Insiemi e funzioni]], [[topic_funzionali|Equazioni funzionali / successioni]]
 **Metodo:** [[method_ricorsione|Ricorsione]], [[method_casework|Analisi per casi]]
 **Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di schemi]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]]
-
-[[Quesiti/src_pol_2001_r3#q03|src_pol_2001_r3__Q03]]
-
+**Area:** [[Algebra e Analisi]]
 
 
-<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_aritmetica,method_congruenze,method_casework,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
+
+<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_aritmetica,method_congruenze,method_casework,method_fattorizzazione,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -122,9 +121,9 @@ level: Olimpiade Polacca Round 3
 > Suppose that $a$ and $b$ are integers such that $2^n a + b$ is a perfect square for all $n \in \mathbb{N}$. Show that $a = 0$.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_congruenze|Congruenze]], [[method_casework|Casework]]
+**Metodo:** [[method_congruenze|Congruenze]], [[method_casework|Casework]], [[method_fattorizzazione|Factorisation / algebraic manipulation]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
-**Area:** [[Aritmetica e Teoria dei Numeri]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1NdQKIsmLWVns4DWiT4Xy-7m3Ys5L9SOW/view)
 
 
@@ -135,15 +134,15 @@ level: Olimpiade Polacca Round 3
 
 > Si supponga che $a$ e $b$ siano interi tali che $2^n a + b$ sia un quadrato perfetto per ogni $n \in \mathbb{N}$. Dimostrare che $a = 0$.
 
+
 **Topic:** [[topic_aritmetica|Aritmetica e teoria dei numeri]]
-**Metodo:** [[method_congruenze|Congruenze]], [[method_casework|Analisi per casi]]
+**Metodo:** [[method_congruenze|Congruenze]], [[method_casework|Analisi per casi]], [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
-
-[[Quesiti/src_pol_2001_r3#q04|src_pol_2001_r3__Q04]]
-
+**Area:** [[Aritmetica e Teoria dei Numeri]]
 
 
-<span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_geometria_piana,method_trigonometria,method_coordinate,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
+
+<span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_geometria_piana,topic_trigonometria,method_trigonometria,method_coordinate,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -152,10 +151,10 @@ level: Olimpiade Polacca Round 3
 
 > Points $K$ and $L$ are taken on the sides $BC$ and $CD$ of a parallelogram $ABCD$, respectively, such that $BK \cdot AD = DL \cdot AB$. The segments $DK$ and $BL$ meet at point $P$. Prove that $\angle DAP = \angle BAC$.
 
-**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometry]]
 **Metodo:** [[method_trigonometria|Trigonometria]], [[method_coordinate|Coordinate]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
-**Area:** [[Geometria]]
+**Area:** [[Geometria|Geometry]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1NdQKIsmLWVns4DWiT4Xy-7m3Ys5L9SOW/view)
 
 
@@ -166,11 +165,11 @@ level: Olimpiade Polacca Round 3
 
 > Si prendono i punti $K$ e $L$ sui lati $BC$ e $CD$ di un parallelogramma $ABCD$ rispettivamente, in modo che $BK \cdot AD = DL \cdot AB$. I segmenti $DK$ e $BL$ si incontrano nel punto $P$. Dimostrare che $\angle DAP = \angle BAC$.
 
-**Topic:** [[topic_geometria_piana|Geometria piana]]
+
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometria]]
 **Metodo:** [[method_trigonometria|Trigonometria]], [[method_coordinate|Coordinate]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
-
-[[Quesiti/src_pol_2001_r3#q05|src_pol_2001_r3__Q05]]
+**Area:** [[Geometria]]
 
 
 
@@ -206,5 +205,4 @@ level: Olimpiade Polacca Round 3
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica e teoria dei numeri]]
 **Metodo:** [[method_cassetti|Principio dei cassetti]], [[method_conteggio|Conteggio]]
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_astrazione|Astrazione]], [[skill_modellizzazione|Modellizzazione]]
-
-[[Quesiti/src_pol_2001_r3#q06|src_pol_2001_r3__Q06]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]

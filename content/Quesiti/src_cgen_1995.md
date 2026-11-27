@@ -12,9 +12,6 @@ level: Concours Général
 
 <span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_geometria_piana,topic_geometria_solida,topic_geometria_analitica,method_coordinate,method_simmetria,skill_ragionamento_geometrico,skill_manipolazione_algebrica,skill_astrazione,skill_modellizzazione"></span>
 
-<div class="qlang-switch" data-default="fr"></div>
-
-
 *Lieu de l'isobarycentre des intersections d'une droite avec les côtés d'un triangle*
 
 > **Exercice I**
@@ -36,28 +33,20 @@ level: Concours Général
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1H5I0uNTozUSFECNrFKqM0UEU992lsIAf/view)
 
 
-<div class="qlang-split" data-lang="it"></div>
 
+<span class="atom-split" id="q01__en" data-atom="q01__en" data-title="Q01__EN" data-tags=""></span>
 
-*Luogo dell'isobaricentro delle intersezioni di una retta con i lati di un triangolo*
-
-> **Esercizio I**
->
-> In un piano $\mathcal{P}$ è dato un triangolo $ABC$.
->
-> A ogni retta $D$, non parallela a uno dei suoi lati, si associa il punto $G_D$, isobaricentro dei tre punti comuni a $D$ e alle rette $(AB)$, $(BC)$ e $(CA)$.
->
-> Lo scopo di questo esercizio è determinare l'insieme $\mathcal{F}$ dei punti $G_D$ al variare di $D$.
->
-> 1. Dimostrare che, quando $D$ si sposta restando parallela a una retta $\delta$, il punto $G_D$ descrive una retta $\Delta_\delta$.
-> 2. Si supponga, solo in questa domanda, che $ABC$ sia equilatero. Dimostrare che, al variare di $\delta$, le rette $\Delta_\delta$ sono tutte tangenti a uno stesso cerchio, e determinare l'insieme $\mathcal{F}$ in questo caso.
-> 3. Si torna al caso generale. Dimostrare che si può trovare un triangolo equilatero $A'B'C'$ dello spazio la cui proiezione ortogonale sul piano $\mathcal{P}$ è il triangolo $ABC$, e dedurne l'insieme $\mathcal{F}$.
-
-[[Quesiti/src_cgen_1995#q01|src_cgen_1995__Q01]]
-
-
-<div class="qlang-split" data-lang="en"></div>
-
+---
+tipo: quesito-translation
+translation_of: src_cgen_1995__Q01
+lang: en
+secondary: true
+title: "Concours Général des Lycées 1995 — Exercise I"
+summary: "Locus of the isobarycentre of the intersections of a line with the sides of a triangle"
+topics: [topic_geometria_piana, topic_geometria_solida, topic_geometria_analitica]
+methods: [method_coordinate, method_simmetria]
+skills: [skill_ragionamento_geometrico, skill_manipolazione_algebrica, skill_astrazione, skill_modellizzazione]
+tags: [kg/translation, topic/geometria_piana, topic/geometria_solida, topic/geometria_analitica]---
 
 *Locus of the isobarycentre of the intersections of a line with the sides of a triangle*
 
@@ -73,11 +62,51 @@ level: Concours Général
 > 2. Assume, in this question only, that $ABC$ is equilateral. Prove that, as $\delta$ varies, the lines $\Delta_\delta$ are all tangent to one and the same circle, and determine the set $\mathcal{F}$ in this case.
 > 3. Return to the general case. Prove that one can find an equilateral triangle $A'B'C'$ in space whose orthogonal projection onto the plane $\mathcal{P}$ is the triangle $ABC$, and deduce the set $\mathcal{F}$.
 
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_geometria_solida|Solid geometry]], [[topic_geometria_analitica|Coordinate geometry]]
+**Metodo:** [[method_coordinate|Coordinate method]], [[method_simmetria|Using symmetry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_astrazione|Abstraction / generalisation]], [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Geometria|Geometry]]
 [[Quesiti/src_cgen_1995#q01|src_cgen_1995__Q01]]
 
 
 
-<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_insiemi_funzioni,topic_algebra,skill_manipolazione_algebrica,skill_ragionamento_geometrico,skill_lettura_attenta"></span>
+<span class="atom-split" id="q01__it" data-atom="q01__it" data-title="Q01__IT" data-tags=""></span>
+
+---
+tipo: quesito-translation
+translation_of: src_cgen_1995__Q01
+lang: it
+secondary: true
+title: "Concours Général des Lycées 1995 — Esercizio I"
+summary: "Luogo dell'isobaricentro delle intersezioni di una retta con i lati di un triangolo"
+topics: [topic_geometria_piana, topic_geometria_solida, topic_geometria_analitica]
+methods: [method_coordinate, method_simmetria]
+skills: [skill_ragionamento_geometrico, skill_manipolazione_algebrica, skill_astrazione, skill_modellizzazione]
+tags: [kg/translation, topic/geometria_piana, topic/geometria_solida, topic/geometria_analitica]---
+
+*Luogo dell'isobaricentro delle intersezioni di una retta con i lati di un triangolo*
+
+> **Esercizio I**
+>
+> In un piano $\mathcal{P}$ è dato un triangolo $ABC$.
+>
+> A ogni retta $D$, non parallela a uno dei suoi lati, si associa il punto $G_D$, isobaricentro dei tre punti comuni a $D$ e alle rette $(AB)$, $(BC)$ e $(CA)$.
+>
+> Lo scopo di questo esercizio è determinare l'insieme $\mathcal{F}$ dei punti $G_D$ al variare di $D$.
+>
+> 1. Dimostrare che, quando $D$ si sposta restando parallela a una retta $\delta$, il punto $G_D$ descrive una retta $\Delta_\delta$.
+> 2. Si supponga, solo in questa domanda, che $ABC$ sia equilatero. Dimostrare che, al variare di $\delta$, le rette $\Delta_\delta$ sono tutte tangenti a uno stesso cerchio, e determinare l'insieme $\mathcal{F}$ in questo caso.
+> 3. Si torna al caso generale. Dimostrare che si può trovare un triangolo equilatero $A'B'C'$ dello spazio la cui proiezione ortogonale sul piano $\mathcal{P}$ è il triangolo $ABC$, e dedurne l'insieme $\mathcal{F}$.
+
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_geometria_solida|Geometria solida]], [[topic_geometria_analitica|Geometria analitica]]
+**Metodo:** [[method_coordinate|Metodo delle coordinate]], [[method_simmetria|Sfruttamento della simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione / generalizzazione]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
+**Area:** [[Geometria]]
+[[Quesiti/src_cgen_1995#q01|src_cgen_1995__Q01]]
+
+
+
+<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_insiemi_funzioni,topic_algebra,topic_funzionali,method_disuguaglianze,method_induzione,skill_manipolazione_algebrica,skill_ragionamento_geometrico,skill_lettura_attenta,skill_stima"></span>
 
 <div class="qlang-switch" data-default="fr"></div>
 
@@ -90,8 +119,9 @@ level: Concours Général
 >
 > $$u_{n+1} = \sqrt{u_n} + \frac{1}{n+1}.$$
 
-**Topic:** [[topic_insiemi_funzioni|Ensembles et fonctions]], [[topic_algebra|Algèbre]]
-**Abilita:** [[skill_manipolazione_algebrica|Manipulation algébrique]], [[skill_ragionamento_geometrico|Raisonnement géométrique]], [[skill_lettura_attenta|Lecture attentive]]
+**Topic:** [[topic_insiemi_funzioni|Ensembles et fonctions]], [[topic_algebra|Algèbre]], [[topic_funzionali|Équations fonctionnelles]]
+**Metodo:** [[method_disuguaglianze|Inégalités]], [[method_induzione|Récurrence]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipulation algébrique]], [[skill_ragionamento_geometrico|Raisonnement géométrique]], [[skill_lettura_attenta|Lecture attentive]], [[skill_stima|Estimation]]
 **Area:** [[Algebra e Analisi|Algèbre et analyse]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1H5I0uNTozUSFECNrFKqM0UEU992lsIAf/view)
 
@@ -107,7 +137,10 @@ level: Concours Général
 >
 > $$u_{n+1} = \sqrt{u_n} + \frac{1}{n+1}.$$
 
-[[Quesiti/src_cgen_1995#q02|src_cgen_1995__Q02]]
+**Topic:** [[topic_insiemi_funzioni|Insiemi e funzioni]], [[topic_algebra|Algebra]], [[topic_funzionali|Equazioni funzionali / successioni]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze classiche]], [[method_induzione|Induzione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta del testo]], [[skill_stima|Stima e approssimazione]]
+**Area:** [[Algebra e Analisi]]
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -121,11 +154,14 @@ level: Concours Général
 >
 > $$u_{n+1} = \sqrt{u_n} + \frac{1}{n+1}.$$
 
-[[Quesiti/src_cgen_1995#q02|src_cgen_1995__Q02]]
+**Topic:** [[topic_insiemi_funzioni|Sets and functions]], [[topic_algebra|Algebra]], [[topic_funzionali|Functional equations / sequences]]
+**Metodo:** [[method_disuguaglianze|Classical inequalities]], [[method_induzione|Induction]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_lettura_attenta|Careful reading of the text]], [[skill_stima|Estimation and approximation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
 
 
 
-<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_geometria_piana,topic_probabilita,method_estremalita,method_simmetria,skill_ragionamento_geometrico,skill_stima,skill_modellizzazione"></span>
+<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_geometria_piana,topic_probabilita,topic_trigonometria,method_estremalita,method_simmetria,method_trigonometria,skill_ragionamento_geometrico,skill_stima,skill_modellizzazione"></span>
 
 <div class="qlang-switch" data-default="fr"></div>
 
@@ -140,8 +176,8 @@ level: Concours Général
 >
 > Justifier votre réponse.
 
-**Topic:** [[topic_geometria_piana|Géométrie plane]], [[topic_probabilita|Probabilités]]
-**Metodo:** [[method_estremalita|Extrémalité]], [[method_simmetria|Symétrie]]
+**Topic:** [[topic_geometria_piana|Géométrie plane]], [[topic_probabilita|Probabilités]], [[topic_trigonometria|Trigonométrie]]
+**Metodo:** [[method_estremalita|Extrémalité]], [[method_simmetria|Symétrie]], [[method_trigonometria|Trigonométrie]]
 **Abilita:** [[skill_ragionamento_geometrico|Raisonnement géométrique]], [[skill_stima|Estimation]], [[skill_modellizzazione|Modélisation]]
 **Area:** [[Geometria|Géométrie]], [[Combinatoria, Logica e Probabilita|Combinatoire, logique et probabilités]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1H5I0uNTozUSFECNrFKqM0UEU992lsIAf/view)
@@ -160,7 +196,10 @@ level: Concours Général
 >
 > Giustificare la risposta.
 
-[[Quesiti/src_cgen_1995#q03|src_cgen_1995__Q03]]
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_probabilita|Probabilita e statistica]], [[topic_trigonometria|Trigonometria]]
+**Metodo:** [[method_estremalita|Principio di estremalita]], [[method_simmetria|Sfruttamento della simmetria]], [[method_trigonometria|Tecniche trigonometriche]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_stima|Stima e approssimazione]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
+**Area:** [[Geometria]], [[Combinatoria, Logica e Probabilita]]
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -176,14 +215,14 @@ level: Concours Général
 >
 > Justify your answer.
 
-[[Quesiti/src_cgen_1995#q03|src_cgen_1995__Q03]]
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_probabilita|Probability and statistics]], [[topic_trigonometria|Trigonometry]]
+**Metodo:** [[method_estremalita|Extremal principle]], [[method_simmetria|Using symmetry]], [[method_trigonometria|Trigonometric techniques]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_stima|Estimation and approximation]], [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Geometria|Geometry]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_geometria_piana,topic_geometria_analitica,method_coordinate,method_casework,skill_ragionamento_geometrico,skill_manipolazione_algebrica,skill_lettura_attenta,skill_astrazione"></span>
-
-<div class="qlang-switch" data-default="fr"></div>
-
 
 *Six points du plan avec A_i B_j = i+j*
 
@@ -202,24 +241,20 @@ level: Concours Général
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1H5I0uNTozUSFECNrFKqM0UEU992lsIAf/view)
 
 
-<div class="qlang-split" data-lang="it"></div>
 
+<span class="atom-split" id="q04__en" data-atom="q04__en" data-title="Q04__EN" data-tags=""></span>
 
-*Sei punti del piano con A_i B_j = i+j*
-
-> **Esercizio IV**
->
-> Siano $A_1$, $A_2$, $A_3$, $B_1$, $B_2$, $B_3$ sei punti del piano tali che, per tutti gli interi $i$ e $j$ di $\{1, 2, 3\}$,
->
-> $$A_i B_j = i + j.$$
->
-> Che cosa si può dire di questi sei punti?
-
-[[Quesiti/src_cgen_1995#q04|src_cgen_1995__Q04]]
-
-
-<div class="qlang-split" data-lang="en"></div>
-
+---
+tipo: quesito-translation
+translation_of: src_cgen_1995__Q04
+lang: en
+secondary: true
+title: "Concours Général des Lycées 1995 — Exercise IV"
+summary: "Six points of the plane with A_i B_j = i+j"
+topics: [topic_geometria_piana, topic_geometria_analitica]
+methods: [method_coordinate, method_casework]
+skills: [skill_ragionamento_geometrico, skill_manipolazione_algebrica, skill_lettura_attenta, skill_astrazione]
+tags: [kg/translation, topic/geometria_piana, topic/geometria_analitica]---
 
 *Six points of the plane with A_i B_j = i+j*
 
@@ -231,4 +266,40 @@ level: Concours Général
 >
 > What can be said about these six points?
 
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_geometria_analitica|Coordinate geometry]]
+**Metodo:** [[method_coordinate|Coordinate method]], [[method_casework|Case analysis]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_lettura_attenta|Careful reading of the text]], [[skill_astrazione|Abstraction / generalisation]]
+**Area:** [[Geometria|Geometry]]
+[[Quesiti/src_cgen_1995#q04|src_cgen_1995__Q04]]
+
+
+
+<span class="atom-split" id="q04__it" data-atom="q04__it" data-title="Q04__IT" data-tags=""></span>
+
+---
+tipo: quesito-translation
+translation_of: src_cgen_1995__Q04
+lang: it
+secondary: true
+title: "Concours Général des Lycées 1995 — Esercizio IV"
+summary: "Sei punti del piano con A_i B_j = i+j"
+topics: [topic_geometria_piana, topic_geometria_analitica]
+methods: [method_coordinate, method_casework]
+skills: [skill_ragionamento_geometrico, skill_manipolazione_algebrica, skill_lettura_attenta, skill_astrazione]
+tags: [kg/translation, topic/geometria_piana, topic/geometria_analitica]---
+
+*Sei punti del piano con A_i B_j = i+j*
+
+> **Esercizio IV**
+>
+> Siano $A_1$, $A_2$, $A_3$, $B_1$, $B_2$, $B_3$ sei punti del piano tali che, per tutti gli interi $i$ e $j$ di $\{1, 2, 3\}$,
+>
+> $$A_i B_j = i + j.$$
+>
+> Che cosa si può dire di questi sei punti?
+
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_geometria_analitica|Geometria analitica]]
+**Metodo:** [[method_coordinate|Metodo delle coordinate]], [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta del testo]], [[skill_astrazione|Astrazione / generalizzazione]]
+**Area:** [[Geometria]]
 [[Quesiti/src_cgen_1995#q04|src_cgen_1995__Q04]]

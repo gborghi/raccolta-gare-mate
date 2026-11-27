@@ -10,7 +10,7 @@ level: kangourou
 
 
 
-<span class="atom-split" id="qe1" data-atom="qe1" data-title="Quesito E1" data-tags="topic_algebra,topic_aritmetica,skill_modellizzazione"></span>
+<span class="atom-split" id="qe1" data-atom="qe1" data-title="Quesito E1" data-tags="topic_algebra,topic_aritmetica,method_casework,skill_modellizzazione,skill_manipolazione_algebrica,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -20,7 +20,8 @@ level: kangourou
 > In un negozio sono in vendita confezioni di frutta di due tipi: confezioni composte da 2 arance e 4 mele ciascuna e confezioni composte da 5 arance e 3 mele ciascuna. Dopo avere acquistato alcune confezioni in quel negozio, mi ritrovo con 9 arance in tutto. Quante mele ho acquistato in totale?
 
 **Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
+**Metodo:** [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 11 mele
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1K82beAyOpLONvc5G6hM8HqH2YHqU6t2R/view)
@@ -34,13 +35,14 @@ level: kangourou
 > In a shop, fruit packs of two types are on sale: packs each made of 2 oranges and 4 apples, and packs each made of 5 oranges and 3 apples. After buying some packs in that shop, I find I have 9 oranges in all. How many apples did I buy in all?
 
 **Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Arithmetic / Number theory]]
-**Skill:** [[skill_modellizzazione|Modelling / translating the text]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]], [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Answer:** 11 mele
-[[Quesiti/src_kangourou_2003_ecolier_finale#qe1|src_kangourou_2003_ecolier_finale__QE1]]
 
 
 
-<span class="atom-split" id="qe2" data-atom="qe2" data-title="Quesito E2" data-tags="topic_algebra,skill_modellizzazione"></span>
+<span class="atom-split" id="qe2" data-atom="qe2" data-title="Quesito E2" data-tags="topic_algebra,method_fattorizzazione,skill_modellizzazione,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -50,7 +52,8 @@ level: kangourou
 > Una classe è composta da 23 bambini. Alcuni di essi possiedono una sola penna, altri due penne e i rimanenti 3 penne. I bambini che possiedono una sola penna sono tanti quanti quelli che ne possiedono tre. Infine la maestra possiede 5 penne. Quante penne vi sono in quella classe?
 
 **Topic:** [[topic_algebra|Algebra]]
-**Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Algebra e Analisi]]
 **Risposta:** 51 penne
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1K82beAyOpLONvc5G6hM8HqH2YHqU6t2R/view)
@@ -64,13 +67,14 @@ level: kangourou
 > A class consists of 23 children. Some of them own only one pen, others two pens, and the rest 3 pens. The children who own only one pen are as many as those who own three. Finally the teacher owns 5 pens. How many pens are there in that class?
 
 **Topic:** [[topic_algebra|Algebra]]
-**Skill:** [[skill_modellizzazione|Modelling / translating the text]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
 **Answer:** 51 penne
-[[Quesiti/src_kangourou_2003_ecolier_finale#qe2|src_kangourou_2003_ecolier_finale__QE2]]
 
 
 
-<span class="atom-split" id="qe3" data-atom="qe3" data-title="Quesito E3" data-tags="topic_logica,topic_aritmetica,skill_casework_accurato"></span>
+<span class="atom-split" id="qe3" data-atom="qe3" data-title="Quesito E3" data-tags="topic_logica,topic_aritmetica,method_casework,skill_casework_accurato,skill_lettura_attenta"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -80,8 +84,9 @@ level: kangourou
 > Nelle disuguaglianze $A<B>R>A>C<A>D<A<B>R>A$ a lettera diversa corrisponde un numero dispari di una sola cifra diverso, mentre la stessa lettera denota sempre lo stesso numero ($A<B$ significa che il numero $A$ è minore del numero $B$, $B>R$ significa che il numero $B$ è maggiore del numero $R$). Quale numero corrisponde alla lettera $R$?
 
 **Topic:** [[topic_logica|Logica, giochi, strategie]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Abilita:** [[skill_casework_accurato|Casework accurato]]
-**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+**Metodo:** [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_lettura_attenta|Lettura attenta del testo]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** R=7
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1K82beAyOpLONvc5G6hM8HqH2YHqU6t2R/view)
 
@@ -94,13 +99,14 @@ level: kangourou
 > In the inequalities $A<B>R>A>C<A>D<A<B>R>A$, different letters correspond to different one-digit odd numbers, while the same letter always denotes the same number ($A<B$ means that the number $A$ is less than the number $B$, $B>R$ means that the number $B$ is greater than the number $R$). Which number corresponds to the letter $R$?
 
 **Topic:** [[topic_logica|Logic, games, strategies]], [[topic_aritmetica|Arithmetic / Number theory]]
-**Skill:** [[skill_casework_accurato|Careful case analysis]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]], [[skill_lettura_attenta|Careful reading of the text]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Answer:** R=7
-[[Quesiti/src_kangourou_2003_ecolier_finale#qe3|src_kangourou_2003_ecolier_finale__QE3]]
 
 
 
-<span class="atom-split" id="qe4" data-atom="qe4" data-title="Quesito E4" data-tags="topic_combinatoria,topic_aritmetica,method_conteggio,skill_conteggio_sistematico"></span>
+<span class="atom-split" id="qe4" data-atom="qe4" data-title="Quesito E4" data-tags="topic_combinatoria,topic_aritmetica,method_conteggio,method_casework,skill_conteggio_sistematico,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -110,9 +116,9 @@ level: kangourou
 > Abbiamo una bilancia a due piatti e un set di pesi comprendente un solo peso per ciascuna di queste taglie, in grammi: $1, 2, 5, 10$. Quali sono i possibili pesi per un oggetto che riusciamo a pesare esattamente con la nostra bilancia?
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_conteggio|Conteggio combinatorio]]
-**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
-**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+**Metodo:** [[method_conteggio|Conteggio combinatorio]], [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** interi 1..18
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1K82beAyOpLONvc5G6hM8HqH2YHqU6t2R/view)
 
@@ -125,10 +131,10 @@ level: kangourou
 > We have a two-pan balance and a set of weights comprising only one weight of each of these sizes, in grams: $1, 2, 5, 10$. What are the possible weights of an object that we can weigh exactly with our balance?
 
 **Topic:** [[topic_combinatoria|Combinatorics]], [[topic_aritmetica|Arithmetic / Number theory]]
-**Method:** [[method_conteggio|Combinatorial counting]]
-**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+**Metodo:** [[method_conteggio|Combinatorial counting]], [[method_casework|Case analysis]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]], [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Answer:** interi 1..18
-[[Quesiti/src_kangourou_2003_ecolier_finale#qe4|src_kangourou_2003_ecolier_finale__QE4]]
 
 
 
@@ -139,7 +145,7 @@ level: kangourou
 
 *Inserire 1..9 con somme 20 attorno ai vertici*
 
-![[src_kangourou_2003_ecolier_finale__probe5.png]]
+![[src_kangourou_2003_ecolier_finale__probE5.png]]
 
 ```tikz
 \begin{document}
@@ -170,7 +176,7 @@ level: kangourou
 
 *The remaining numbers in the square of nine squares*
 
-![[src_kangourou_2003_ecolier_finale__probe5.png]]
+![[src_kangourou_2003_ecolier_finale__probE5.png]]
 
 ```tikz
 \begin{document}
@@ -192,18 +198,17 @@ level: kangourou
 **Method:** [[method_casework|Case analysis]]
 **Skill:** [[skill_casework_accurato|Careful case analysis]]
 **Answer:** due soluzioni
-[[Quesiti/src_kangourou_2003_ecolier_finale#qe5|src_kangourou_2003_ecolier_finale__QE5]]
 
 
 
-<span class="atom-split" id="qe6" data-atom="qe6" data-title="Quesito E6" data-tags="topic_combinatoria,method_conteggio,skill_conteggio_sistematico"></span>
+<span class="atom-split" id="qe6" data-atom="qe6" data-title="Quesito E6" data-tags="topic_combinatoria,method_conteggio,method_ricorsione,skill_conteggio_sistematico"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
 
 *Numero di percorsi da P a Q (verso il basso)*
 
-![[src_kangourou_2003_ecolier_finale__probe6.png]]
+![[src_kangourou_2003_ecolier_finale__probE6.png]]
 
 ```tikz
 \begin{document}
@@ -225,7 +230,7 @@ level: kangourou
 > Osserva la figura. Ci si può spostare da $P$ a $Q$ solo seguendo le linee tracciate e solo muovendosi dall'alto verso il basso. Quanti sono i possibili percorsi per andare da $P$ a $Q$? (vedi figura)
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
-**Metodo:** [[method_conteggio|Conteggio combinatorio]]
+**Metodo:** [[method_conteggio|Conteggio combinatorio]], [[method_ricorsione|Ricorsione]]
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 20
@@ -237,7 +242,7 @@ level: kangourou
 
 *How many paths there are from P to Q*
 
-![[src_kangourou_2003_ecolier_finale__probe6.png]]
+![[src_kangourou_2003_ecolier_finale__probE6.png]]
 
 ```tikz
 \begin{document}
@@ -259,7 +264,7 @@ level: kangourou
 > Look at the figure. One can move from $P$ to $Q$ only by following the lines drawn, and only by moving from top to bottom. How many possible paths are there to go from $P$ to $Q$? (see the figure)
 
 **Topic:** [[topic_combinatoria|Combinatorics]]
-**Method:** [[method_conteggio|Combinatorial counting]]
-**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
+**Metodo:** [[method_conteggio|Combinatorial counting]], [[method_ricorsione|Recursion]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Answer:** 20
-[[Quesiti/src_kangourou_2003_ecolier_finale#qe6|src_kangourou_2003_ecolier_finale__QE6]]

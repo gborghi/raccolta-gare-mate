@@ -19,7 +19,7 @@ level: JMO Yosen
 
 > As shown in the figure, $7$ regular-hexagon cells are arranged in a honeycomb pattern (one central cell surrounded by $6$ cells). Write one integer from $1$ to $7$ in each cell, using each integer exactly once, so that for every two cells that share an edge the sum of the two integers written in them is at most $10$. How many ways are there to do this? Here, two ways that coincide under a rotation or reflection are also counted as distinct.
 
-![[src_jmo35yqa_yosen__q01.png]]
+![[src_jmo35yqa_yosen__Q01.png]]
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]]
@@ -36,17 +36,17 @@ level: JMO Yosen
 
 > Come in figura, $7$ celle esagonali regolari sono disposte a nido d'ape (una cella centrale circondata da $6$ celle). Si scriva un intero da $1$ a $7$ in ogni cella, usando ogni intero esattamente una volta, in modo che per due celle qualunque che condividono un lato la somma dei due interi scritti sia al più $10$. In quanti modi si può fare? Qui due modi che coincidono per una rotazione o una riflessione si contano anche come distinti.
 
-![[src_jmo35yqa_yosen__q01.png]]
+![[src_jmo35yqa_yosen__Q01.png]]
 
 **Argomento:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_casework|Analisi per casi]], [[method_conteggio|Conteggio combinatorio]]
 **Abilità:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Analisi per casi accurata]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 72
-[[Quesiti/src_jmo35yqa_yosen#q01|src_jmo35yqa_yosen__Q01]]
 
 
 
-<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_aritmetica,method_fattorizzazione,method_casework,skill_conteggio_sistematico,skill_riconoscimento_pattern"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_aritmetica,method_fattorizzazione,method_casework,method_congruenze,skill_conteggio_sistematico,skill_riconoscimento_pattern,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -56,9 +56,9 @@ level: JMO Yosen
 > How many quadruples $(a,b,c,d)$ of positive integers satisfy $abcd = 2025$ such that $ab$, $bc$, $cd$, $da$ are all perfect squares?
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_casework|Casework]]
-**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
-**Area:** [[Aritmetica e Teoria dei Numeri]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_casework|Casework]], [[method_congruenze|Modular arithmetic / congruences]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Risposta:** 44
 **Fonte:** [apri PDF](https://drive.google.com/file/d/16jnfzDmXiM-Sqg9lgU-HkV7DRTfBHwYp/view)
 
@@ -71,10 +71,12 @@ level: JMO Yosen
 > Quante quadruple $(a,b,c,d)$ di interi positivi soddisfano $abcd = 2025$ in modo che $ab$, $bc$, $cd$, $da$ siano tutti quadrati perfetti?
 
 **Argomento:** [[topic_aritmetica|Aritmetica / Teoria dei numeri]]
-**Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]], [[method_casework|Analisi per casi]]
-**Abilità:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di schemi]]
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei numeri]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]], [[method_casework|Analisi per casi]], [[method_congruenze|Aritmetica modulare / congruenze]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di schemi]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 44
-[[Quesiti/src_jmo35yqa_yosen#q02|src_jmo35yqa_yosen__Q02]]
 
 
 
@@ -87,7 +89,7 @@ level: JMO Yosen
 
 > For a positive integer $n$, call $P_n$ the piece consisting of $3n+2$ unit cells shaped like the figure: a bracket ($\sqcap$) shape made of a top row of $n+2$ cells together with two vertical legs of $n$ cells each hanging down from the two ends of the top row. We have one each of the six pieces $P_1, P_2, P_4, P_5, P_7, P_8$. In how many ways can these $6$ pieces be placed on a $10 \times 10$ grid of cells, each piece aligned to the cells and no two pieces overlapping? Here, pieces may be rotated, and two placements that coincide under a rotation or reflection of the grid are counted as distinct.
 
-![[src_jmo35yqa_yosen__q03.png]]
+![[src_jmo35yqa_yosen__Q03.png]]
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]]
@@ -104,13 +106,13 @@ level: JMO Yosen
 
 > Per un intero positivo $n$, si chiami $P_n$ il pezzo formato da $3n+2$ caselle unitarie a forma della figura: una staffa ($\sqcap$) fatta di una riga superiore di $n+2$ caselle e di due gambe verticali di $n$ caselle ciascuna, che scendono dai due estremi della riga superiore. Si ha uno ciascuno dei sei pezzi $P_1, P_2, P_4, P_5, P_7, P_8$. In quanti modi si possono piazzare questi $6$ pezzi su una griglia $10 \times 10$ di caselle, ogni pezzo allineato alle caselle e senza che due pezzi si sovrappongano? Qui i pezzi si possono ruotare, e due piazzamenti che coincidono per una rotazione o una riflessione della griglia si contano come distinti.
 
-![[src_jmo35yqa_yosen__q03.png]]
+![[src_jmo35yqa_yosen__Q03.png]]
 
 **Argomento:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_casework|Analisi per casi]], [[method_conteggio|Conteggio combinatorio]]
 **Abilità:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_casework_accurato|Analisi per casi accurata]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 512
-[[Quesiti/src_jmo35yqa_yosen#q03|src_jmo35yqa_yosen__Q03]]
 
 
 
@@ -141,8 +143,8 @@ level: JMO Yosen
 **Argomento:** [[topic_aritmetica|Aritmetica / Teoria dei numeri]]
 **Metodo:** [[method_casework|Analisi per casi]], [[method_congruenze|Aritmetica modulare / congruenze]]
 **Abilità:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta del testo]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 49
-[[Quesiti/src_jmo35yqa_yosen#q04|src_jmo35yqa_yosen__Q04]]
 
 
 
@@ -155,7 +157,7 @@ level: JMO Yosen
 
 > A quadrilateral $ABCD$ is inscribed in a circle and is also circumscribed about a circle of radius $6$. The ray $AB$ and the ray $DC$ meet at a point $P$, and the ray $AD$ and the ray $BC$ meet at a point $Q$. The inradii of triangles $PBC$ and $QCD$ are $5$ and $3$ respectively. Find $\dfrac{BC}{CD}$. Here, $XY$ denotes the length of segment $XY$.
 
-![[src_jmo35yqa_yosen__q05.png]]
+![[src_jmo35yqa_yosen__Q05.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_trigonometria|Trigonometria]]
@@ -172,17 +174,17 @@ level: JMO Yosen
 
 > Un quadrilatero $ABCD$ è inscritto in una circonferenza ed è anche circoscritto a una circonferenza di raggio $6$. Il raggio $AB$ e il raggio $DC$ si incontrano in un punto $P$, e il raggio $AD$ e il raggio $BC$ si incontrano in un punto $Q$. Gli inraggi dei triangoli $PBC$ e $QCD$ sono rispettivamente $5$ e $3$. Trovare $\dfrac{BC}{CD}$. Qui $XY$ indica la lunghezza del segmento $XY$.
 
-![[src_jmo35yqa_yosen__q05.png]]
+![[src_jmo35yqa_yosen__Q05.png]]
 
 **Argomento:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_trigonometria|Tecniche trigonometriche]]
 **Abilità:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
 **Risposta:** $\frac{15}{11}$
-[[Quesiti/src_jmo35yqa_yosen#q05|src_jmo35yqa_yosen__Q05]]
 
 
 
-<span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_algebra,topic_aritmetica,method_ricorsione,method_casework,method_invarianti,skill_manipolazione_algebrica,skill_conteggio_sistematico,skill_riconoscimento_pattern"></span>
+<span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_algebra,topic_aritmetica,method_ricorsione,method_casework,method_invarianti,method_backward,skill_manipolazione_algebrica,skill_conteggio_sistematico,skill_riconoscimento_pattern"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -194,9 +196,9 @@ level: JMO Yosen
 > At this point, how many pairs $(a_1, b_1)$ of positive integers, each at most $40$, can occur as the starting pair (i.e. so that both sequences consist entirely of positive integers)?
 
 **Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_ricorsione|Ricorsione]], [[method_casework|Casework]], [[method_invarianti|Invarianti]]
+**Metodo:** [[method_ricorsione|Ricorsione]], [[method_casework|Casework]], [[method_invarianti|Invarianti]], [[method_backward|Working backwards]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
-**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Risposta:** 1064
 **Fonte:** [apri PDF](https://drive.google.com/file/d/16jnfzDmXiM-Sqg9lgU-HkV7DRTfBHwYp/view)
 
@@ -213,10 +215,12 @@ level: JMO Yosen
 > A questo punto, quante coppie $(a_1, b_1)$ di interi positivi, ciascuno al più $40$, possono comparire come coppia iniziale (cioè in modo che entrambe le successioni siano formate interamente da interi positivi)?
 
 **Argomento:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei numeri]]
-**Metodo:** [[method_ricorsione|Ricorsione]], [[method_casework|Analisi per casi]], [[method_invarianti|Invarianti / monovarianti]]
-**Abilità:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di schemi]]
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei numeri]]
+**Metodo:** [[method_ricorsione|Ricorsione]], [[method_casework|Analisi per casi]], [[method_invarianti|Invarianti / monovarianti]], [[method_backward|Ragionamento all'indietro]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di schemi]]
+**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 1064
-[[Quesiti/src_jmo35yqa_yosen#q06|src_jmo35yqa_yosen__Q06]]
 
 
 
@@ -251,12 +255,12 @@ level: JMO Yosen
 **Argomento:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_casework|Analisi per casi]], [[method_conteggio|Conteggio combinatorio]], [[method_estremalita|Principio di estremalità]]
 **Abilità:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** $20!^3$
-[[Quesiti/src_jmo35yqa_yosen#q07|src_jmo35yqa_yosen__Q07]]
 
 
 
-<span class="atom-split" id="q08" data-atom="q08" data-title="Quesito 8" data-tags="topic_combinatoria,topic_aritmetica,method_estremalita,method_casework,method_disuguaglianze,skill_riconoscimento_pattern,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
+<span class="atom-split" id="q08" data-atom="q08" data-title="Quesito 8" data-tags="topic_combinatoria,topic_aritmetica,topic_disuguaglianze,method_estremalita,method_casework,method_disuguaglianze,skill_riconoscimento_pattern,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -269,10 +273,10 @@ level: JMO Yosen
 > - for all integers $i, j, k$ with $i < j < k$, the inequality $\dfrac{a_i + a_k}{2} \le a_j$ holds.
 > Let $N$ be the largest possible length of a beautiful sequence. Among beautiful sequences $a_1, a_2, \ldots, a_N$ of length $N$, find the smallest possible value of $a_N$. Here, the length of a sequence $x_1, x_2, \ldots, x_l$ is $l$.
 
-**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_disuguaglianze|Inequalities]]
 **Metodo:** [[method_estremalita|Estremalità]], [[method_casework|Casework]], [[method_disuguaglianze|Disuguaglianze]]
 **Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
-**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Algebra e Analisi|Algebra and analysis]]
 **Risposta:** 2057
 **Fonte:** [apri PDF](https://drive.google.com/file/d/16jnfzDmXiM-Sqg9lgU-HkV7DRTfBHwYp/view)
 
@@ -289,10 +293,12 @@ level: JMO Yosen
 > Sia $N$ la massima lunghezza possibile di una successione bella. Tra le successioni belle $a_1, a_2, \ldots, a_N$ di lunghezza $N$, trovare il minimo valore possibile di $a_N$. Qui la lunghezza di una successione $x_1, x_2, \ldots, x_l$ è $l$.
 
 **Argomento:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei numeri]]
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei numeri]], [[topic_disuguaglianze|Disuguaglianze]]
 **Metodo:** [[method_estremalita|Principio di estremalità]], [[method_casework|Analisi per casi]], [[method_disuguaglianze|Disuguaglianze classiche]]
-**Abilità:** [[skill_riconoscimento_pattern|Riconoscimento di schemi]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta del testo]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di schemi]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta del testo]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 **Risposta:** 2057
-[[Quesiti/src_jmo35yqa_yosen#q08|src_jmo35yqa_yosen__Q08]]
 
 
 
@@ -323,12 +329,12 @@ level: JMO Yosen
 **Argomento:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_trigonometria|Tecniche trigonometriche]], [[method_coordinate|Metodo delle coordinate]]
 **Abilità:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
 **Risposta:** $2\sqrt{61}$
-[[Quesiti/src_jmo35yqa_yosen#q09|src_jmo35yqa_yosen__Q09]]
 
 
 
-<span class="atom-split" id="q10" data-atom="q10" data-title="Quesito 10" data-tags="topic_funzionali,topic_aritmetica,topic_insiemi_funzioni,method_congruenze,method_casework,skill_astrazione,skill_conteggio_sistematico"></span>
+<span class="atom-split" id="q10" data-atom="q10" data-title="Quesito 10" data-tags="topic_funzionali,topic_aritmetica,topic_insiemi_funzioni,method_congruenze,method_casework,skill_astrazione,skill_conteggio_sistematico,skill_casework_accurato,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -339,8 +345,8 @@ level: JMO Yosen
 
 **Topic:** [[topic_funzionali|Equazioni funzionali]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_insiemi_funzioni|Insiemi e funzioni]]
 **Metodo:** [[method_congruenze|Congruenze]], [[method_casework|Casework]]
-**Abilita:** [[skill_astrazione|Astrazione]], [[skill_conteggio_sistematico|Conteggio sistematico]]
-**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
+**Abilita:** [[skill_astrazione|Astrazione]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Careful case analysis]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Risposta:** 858
 **Fonte:** [apri PDF](https://drive.google.com/file/d/16jnfzDmXiM-Sqg9lgU-HkV7DRTfBHwYp/view)
 
@@ -353,10 +359,12 @@ level: JMO Yosen
 > Sia $S = \{0, 1, 2, \ldots, 8\}$. Si considerino le funzioni $f$ definite su $S$ e a valori in $S$ tali che, per tutti gli elementi $x, y, z$ di $S$, se $x + y - z$ è un multiplo di $9$ allora anche $f(x)\,f(y) - f(f(z))$ è un multiplo di $9$. Quante sono tali funzioni $f$?
 
 **Argomento:** [[topic_funzionali|Equazioni funzionali / successioni]], [[topic_aritmetica|Aritmetica / Teoria dei numeri]], [[topic_insiemi_funzioni|Insiemi e funzioni]]
+
+**Topic:** [[topic_funzionali|Equazioni funzionali / successioni]], [[topic_aritmetica|Aritmetica / Teoria dei numeri]], [[topic_insiemi_funzioni|Insiemi e funzioni]]
 **Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]], [[method_casework|Analisi per casi]]
-**Abilità:** [[skill_astrazione|Astrazione / generalizzazione]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Abilita:** [[skill_astrazione|Astrazione / generalizzazione]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 858
-[[Quesiti/src_jmo35yqa_yosen#q10|src_jmo35yqa_yosen__Q10]]
 
 
 
@@ -373,7 +381,7 @@ level: JMO Yosen
 > (3) For every pair $(f, f')$ of direct flights abolished in (1) such that the star at which $f$ arrives coincides with the star from which $f'$ departs, open a one-way direct flight from $S_f$ to $S_{f'}$.
 > Find the sum of the importances of all stars built in the $100$-th operation.
 
-![[src_jmo35yqa_yosen__q11.png]]
+![[src_jmo35yqa_yosen__Q11.png]]
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_algebra|Algebra]]
 **Metodo:** [[method_grafi|Grafi]], [[method_ricorsione|Ricorsione]], [[method_induzione|Induzione]]
@@ -394,13 +402,13 @@ level: JMO Yosen
 > (3) per ogni coppia $(f, f')$ di voli diretti aboliti in (1) tali che la stella a cui arriva $f$ coincide con la stella da cui parte $f'$, si apre un volo diretto a senso unico da $S_f$ a $S_{f'}$.
 > Trovare la somma delle importanze di tutte le stelle costruite nella $100$-esima operazione.
 
-![[src_jmo35yqa_yosen__q11.png]]
+![[src_jmo35yqa_yosen__Q11.png]]
 
 **Argomento:** [[topic_combinatoria|Combinatoria]], [[topic_algebra|Algebra]]
 **Metodo:** [[method_grafi|Teoria dei grafi]], [[method_ricorsione|Ricorsione]], [[method_induzione|Induzione]]
 **Abilità:** [[skill_astrazione|Astrazione / generalizzazione]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_riconoscimento_pattern|Riconoscimento di schemi]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Algebra e Analisi]]
 **Risposta:** $\frac{2^{68}(2^{102}-1)}{3}$
-[[Quesiti/src_jmo35yqa_yosen#q11|src_jmo35yqa_yosen__Q11]]
 
 
 
@@ -431,5 +439,5 @@ level: JMO Yosen
 **Argomento:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_trigonometria|Tecniche trigonometriche]], [[method_coordinate|Metodo delle coordinate]], [[method_simmetria|Sfruttamento della simmetria]]
 **Abilità:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
 **Risposta:** $\frac{\sqrt{37}}{10}$
-[[Quesiti/src_jmo35yqa_yosen#q12|src_jmo35yqa_yosen__Q12]]

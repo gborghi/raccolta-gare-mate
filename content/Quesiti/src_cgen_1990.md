@@ -10,7 +10,7 @@ level: Concours Général
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_aritmetica,topic_insiemi_funzioni,method_induzione,method_ricorsione,method_casework,skill_riconoscimento_pattern,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_aritmetica,topic_insiemi_funzioni,topic_combinatoria,method_induzione,method_ricorsione,method_casework,method_conteggio,skill_riconoscimento_pattern,skill_manipolazione_algebrica,skill_lettura_attenta,skill_conteggio_sistematico"></span>
 
 <div class="qlang-switch" data-default="fr"></div>
 
@@ -27,10 +27,10 @@ level: Concours Général
 > 2. Déterminer le nombre d'indices $n$, inférieurs ou égaux à $1990$, tels que $u_n = 0$.
 > 3. Soit $p$ un entier naturel et $N = (2p - 1)^2$. Calculer $u_N$.
 
-**Topic:** [[topic_aritmetica|Arithmétique / Théorie des nombres]], [[topic_insiemi_funzioni|Ensembles et fonctions]]
-**Metodo:** [[method_induzione|Récurrence]], [[method_ricorsione|Récursion]], [[method_casework|Disjonction de cas]]
-**Abilita:** [[skill_riconoscimento_pattern|Reconnaissance de motifs]], [[skill_manipolazione_algebrica|Manipulation algébrique]], [[skill_lettura_attenta|Lecture attentive]]
-**Area:** [[Aritmetica e Teoria dei Numeri|Arithmétique et théorie des nombres]], [[Algebra e Analisi|Algèbre et analyse]]
+**Topic:** [[topic_aritmetica|Arithmétique / Théorie des nombres]], [[topic_insiemi_funzioni|Ensembles et fonctions]], [[topic_combinatoria|Combinatoire]]
+**Metodo:** [[method_induzione|Récurrence]], [[method_ricorsione|Récursion]], [[method_casework|Disjonction de cas]], [[method_conteggio|Dénombrement]]
+**Abilita:** [[skill_riconoscimento_pattern|Reconnaissance de motifs]], [[skill_manipolazione_algebrica|Manipulation algébrique]], [[skill_lettura_attenta|Lecture attentive]], [[skill_conteggio_sistematico|Dénombrement systématique]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmétique et théorie des nombres]], [[Algebra e Analisi|Algèbre et analyse]], [[Combinatoria, Logica e Probabilita|Combinatoire, logique et probabilités]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1nhKbZvmUSbxmq3S4Zes7ayJUhrv7gn3l/view)
 
 
@@ -49,7 +49,10 @@ level: Concours Général
 > 2. Determinare il numero di indici $n$, minori o uguali a $1990$, tali che $u_n = 0$.
 > 3. Sia $p$ un intero non negativo e $N = (2p - 1)^2$. Calcolare $u_N$.
 
-[[Quesiti/src_cgen_1990#q01|src_cgen_1990__Q01]]
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_insiemi_funzioni|Insiemi e funzioni]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_induzione|Induzione]], [[method_ricorsione|Ricorsione]], [[method_casework|Analisi per casi]], [[method_conteggio|Conteggio combinatorio]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta del testo]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]], [[Combinatoria, Logica e Probabilita]]
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -67,11 +70,14 @@ level: Concours Général
 > 2. Determine the number of indices $n$, less than or equal to $1990$, such that $u_n = 0$.
 > 3. Let $p$ be a nonnegative integer and $N = (2p - 1)^2$. Compute $u_N$.
 
-[[Quesiti/src_cgen_1990#q01|src_cgen_1990__Q01]]
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_insiemi_funzioni|Sets and functions]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_induzione|Induction]], [[method_ricorsione|Recursion]], [[method_casework|Case analysis]], [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]], [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_lettura_attenta|Careful reading of the text]], [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Algebra e Analisi|Algebra and analysis]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
 
 
-<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_combinatoria,method_casework,method_conteggio,skill_conteggio_sistematico,skill_ragionamento_geometrico,skill_astrazione"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_combinatoria,topic_geometria_solida,method_casework,method_conteggio,method_simmetria,skill_conteggio_sistematico,skill_ragionamento_geometrico,skill_astrazione,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="fr"></div>
 
@@ -86,10 +92,10 @@ level: Concours Général
 >
 > Déterminer le nombre maximum de pièces de ce jeu sachant que le jeu ne contient pas deux pièces identiques.
 
-**Topic:** [[topic_combinatoria|Combinatoire]]
-**Metodo:** [[method_casework|Disjonction de cas]], [[method_conteggio|Dénombrement]]
-**Abilita:** [[skill_conteggio_sistematico|Dénombrement systématique]], [[skill_ragionamento_geometrico|Raisonnement géométrique]], [[skill_astrazione|Abstraction]]
-**Area:** [[Combinatoria, Logica e Probabilita|Combinatoire, logique et probabilités]]
+**Topic:** [[topic_combinatoria|Combinatoire]], [[topic_geometria_solida|Géométrie dans l'espace]]
+**Metodo:** [[method_casework|Disjonction de cas]], [[method_conteggio|Dénombrement]], [[method_simmetria|Symétrie]]
+**Abilita:** [[skill_conteggio_sistematico|Dénombrement systématique]], [[skill_ragionamento_geometrico|Raisonnement géométrique]], [[skill_astrazione|Abstraction]], [[skill_casework_accurato|Analyse par cas soigneuse]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatoire, logique et probabilités]], [[Geometria|Géométrie]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1nhKbZvmUSbxmq3S4Zes7ayJUhrv7gn3l/view)
 
 
@@ -106,7 +112,10 @@ level: Concours Général
 >
 > Determinare il numero massimo di pezzi di questo gioco, sapendo che il gioco non contiene due pezzi identici.
 
-[[Quesiti/src_cgen_1990#q02|src_cgen_1990__Q02]]
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_geometria_solida|Geometria solida]]
+**Metodo:** [[method_casework|Analisi per casi]], [[method_conteggio|Conteggio combinatorio]], [[method_simmetria|Sfruttamento della simmetria]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_astrazione|Astrazione / generalizzazione]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -122,14 +131,14 @@ level: Concours Général
 >
 > Determine the maximum number of pieces in this game, given that the game does not contain two identical pieces.
 
-[[Quesiti/src_cgen_1990#q02|src_cgen_1990__Q02]]
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_geometria_solida|Solid geometry]]
+**Metodo:** [[method_casework|Case analysis]], [[method_conteggio|Combinatorial counting]], [[method_simmetria|Using symmetry]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]], [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_astrazione|Abstraction / generalisation]], [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Geometria|Geometry]]
 
 
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_aritmetica,topic_algebra,method_casework,method_fattorizzazione,skill_manipolazione_algebrica,skill_lettura_attenta,skill_conteggio_sistematico"></span>
-
-<div class="qlang-switch" data-default="fr"></div>
-
 
 *Écritures de 1/4 et de 1 comme sommes de trois ou n inverses de carrés*
 
@@ -150,26 +159,20 @@ level: Concours Général
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1nhKbZvmUSbxmq3S4Zes7ayJUhrv7gn3l/view)
 
 
-<div class="qlang-split" data-lang="it"></div>
 
+<span class="atom-split" id="q03__en" data-atom="q03__en" data-title="Q03__EN" data-tags=""></span>
 
-*Scrivere 1/4 e 1 come somme di tre o n reciproci di quadrati*
-
-> **Esercizio III**
->
-> 1. Trovare tre interi non negativi $a$, $b$, $c$, distinti o no, tali che
->
-> $$\frac{1}{4} = \frac{1}{a^2} + \frac{1}{b^2} + \frac{1}{c^2}.$$
->
-> 2. Determinare tutti gli interi non negativi $n$ tali che esistano $n$ interi non negativi $x_1, x_2, \ldots, x_n$, distinti o no, che verificano
->
-> $$1 = \frac{1}{x_1^2} + \frac{1}{x_2^2} + \cdots + \frac{1}{x_n^2}.$$
-
-[[Quesiti/src_cgen_1990#q03|src_cgen_1990__Q03]]
-
-
-<div class="qlang-split" data-lang="en"></div>
-
+---
+tipo: quesito-translation
+translation_of: src_cgen_1990__Q03
+lang: en
+secondary: true
+title: "Concours Général des Lycées 1990 — Exercise III"
+summary: "Writing 1/4 and 1 as sums of three or n reciprocals of squares"
+topics: [topic_aritmetica, topic_algebra]
+methods: [method_casework, method_fattorizzazione]
+skills: [skill_manipolazione_algebrica, skill_lettura_attenta, skill_conteggio_sistematico]
+tags: [kg/translation, topic/aritmetica, topic/algebra]---
 
 *Writing 1/4 and 1 as sums of three or n reciprocals of squares*
 
@@ -183,14 +186,49 @@ level: Concours Général
 >
 > $$1 = \frac{1}{x_1^2} + \frac{1}{x_2^2} + \cdots + \frac{1}{x_n^2}.$$
 
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_casework|Case analysis]], [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_lettura_attenta|Careful reading of the text]], [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Algebra e Analisi|Algebra and analysis]]
+[[Quesiti/src_cgen_1990#q03|src_cgen_1990__Q03]]
+
+
+
+<span class="atom-split" id="q03__it" data-atom="q03__it" data-title="Q03__IT" data-tags=""></span>
+
+---
+tipo: quesito-translation
+translation_of: src_cgen_1990__Q03
+lang: it
+secondary: true
+title: "Concours Général des Lycées 1990 — Esercizio III"
+summary: "Scrivere 1/4 e 1 come somme di tre o n reciproci di quadrati"
+topics: [topic_aritmetica, topic_algebra]
+methods: [method_casework, method_fattorizzazione]
+skills: [skill_manipolazione_algebrica, skill_lettura_attenta, skill_conteggio_sistematico]
+tags: [kg/translation, topic/aritmetica, topic/algebra]---
+
+*Scrivere 1/4 e 1 come somme di tre o n reciproci di quadrati*
+
+> **Esercizio III**
+>
+> 1. Trovare tre interi non negativi $a$, $b$, $c$, distinti o no, tali che
+>
+> $$\frac{1}{4} = \frac{1}{a^2} + \frac{1}{b^2} + \frac{1}{c^2}.$$
+>
+> 2. Determinare tutti gli interi non negativi $n$ tali che esistano $n$ interi non negativi $x_1, x_2, \ldots, x_n$, distinti o no, che verificano
+>
+> $$1 = \frac{1}{x_1^2} + \frac{1}{x_2^2} + \cdots + \frac{1}{x_n^2}.$$
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_casework|Analisi per casi]], [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta del testo]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 [[Quesiti/src_cgen_1990#q03|src_cgen_1990__Q03]]
 
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_geometria_solida,topic_geometria_piana,method_estremalita,method_simmetria,skill_ragionamento_geometrico,skill_modellizzazione,skill_stima"></span>
-
-<div class="qlang-switch" data-default="fr"></div>
-
 
 *Aire maximale d'un triangle inscrit dans un carré, volume maximal d'un tétraèdre inscrit dans un cube*
 
@@ -206,21 +244,20 @@ level: Concours Général
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1nhKbZvmUSbxmq3S4Zes7ayJUhrv7gn3l/view)
 
 
-<div class="qlang-split" data-lang="it"></div>
 
+<span class="atom-split" id="q04__en" data-atom="q04__en" data-title="Q04__EN" data-tags=""></span>
 
-*Area massima di un triangolo con vertici in un quadrato, volume massimo di un tetraedro con vertici in un cubo*
-
-> **Esercizio IV**
->
-> 1. Qual è l'area massima di un triangolo i cui vertici stanno in un quadrato dato?
-> 2. Qual è il volume massimo di un tetraedro i cui vertici stanno in un cubo dato?
-
-[[Quesiti/src_cgen_1990#q04|src_cgen_1990__Q04]]
-
-
-<div class="qlang-split" data-lang="en"></div>
-
+---
+tipo: quesito-translation
+translation_of: src_cgen_1990__Q04
+lang: en
+secondary: true
+title: "Concours Général des Lycées 1990 — Exercise IV"
+summary: "Maximum area of a triangle with vertices in a square, maximum volume of a tetrahedron with vertices in a cube"
+topics: [topic_geometria_solida, topic_geometria_piana]
+methods: [method_estremalita, method_simmetria]
+skills: [skill_ragionamento_geometrico, skill_modellizzazione, skill_stima]
+tags: [kg/translation, topic/geometria_solida, topic/geometria_piana]---
 
 *Maximum area of a triangle with vertices in a square, maximum volume of a tetrahedron with vertices in a cube*
 
@@ -229,14 +266,44 @@ level: Concours Général
 > 1. What is the maximum area of a triangle whose vertices lie in a given square?
 > 2. What is the maximum volume of a tetrahedron whose vertices lie in a given cube?
 
+**Topic:** [[topic_geometria_solida|Solid geometry]], [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_estremalita|Extremal principle]], [[method_simmetria|Using symmetry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_modellizzazione|Modelling / translating the text]], [[skill_stima|Estimation and approximation]]
+**Area:** [[Geometria|Geometry]]
+[[Quesiti/src_cgen_1990#q04|src_cgen_1990__Q04]]
+
+
+
+<span class="atom-split" id="q04__it" data-atom="q04__it" data-title="Q04__IT" data-tags=""></span>
+
+---
+tipo: quesito-translation
+translation_of: src_cgen_1990__Q04
+lang: it
+secondary: true
+title: "Concours Général des Lycées 1990 — Esercizio IV"
+summary: "Area massima di un triangolo con vertici in un quadrato, volume massimo di un tetraedro con vertici in un cubo"
+topics: [topic_geometria_solida, topic_geometria_piana]
+methods: [method_estremalita, method_simmetria]
+skills: [skill_ragionamento_geometrico, skill_modellizzazione, skill_stima]
+tags: [kg/translation, topic/geometria_solida, topic/geometria_piana]---
+
+*Area massima di un triangolo con vertici in un quadrato, volume massimo di un tetraedro con vertici in un cubo*
+
+> **Esercizio IV**
+>
+> 1. Qual è l'area massima di un triangolo i cui vertici stanno in un quadrato dato?
+> 2. Qual è il volume massimo di un tetraedro i cui vertici stanno in un cubo dato?
+
+**Topic:** [[topic_geometria_solida|Geometria solida]], [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_estremalita|Principio di estremalita]], [[method_simmetria|Sfruttamento della simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_stima|Stima e approssimazione]]
+**Area:** [[Geometria]]
 [[Quesiti/src_cgen_1990#q04|src_cgen_1990__Q04]]
 
 
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_geometria_piana,topic_trigonometria,topic_insiemi_funzioni,method_estremalita,method_trigonometria,skill_ragionamento_geometrico,skill_modellizzazione,skill_stima,skill_manipolazione_algebrica"></span>
-
-<div class="qlang-switch" data-default="fr"></div>
-
 
 *Aire maximale délimitée par un cercle exinscrit, à périmètre fixé*
 
@@ -252,7 +319,7 @@ level: Concours Général
 >
 > Pour un tel triangle, donner une valeur approchée, à un degré près, de la mesure de l'angle en $A$.
 
-![[src_cgen_1990__q05.png]]
+![[src_cgen_1990__Q05.png]]
 
 **Topic:** [[topic_geometria_piana|Géométrie plane]], [[topic_trigonometria|Trigonométrie]], [[topic_insiemi_funzioni|Ensembles et fonctions]]
 **Metodo:** [[method_estremalita|Extrémalité]], [[method_trigonometria|Trigonométrie]]
@@ -261,30 +328,20 @@ level: Concours Général
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1nhKbZvmUSbxmq3S4Zes7ayJUhrv7gn3l/view)
 
 
-<div class="qlang-split" data-lang="it"></div>
 
+<span class="atom-split" id="q05__en" data-atom="q05__en" data-title="Q05__EN" data-tags=""></span>
 
-*Area massima delimitata da un cerchio exinscritto, a perimetro fissato*
-
-> **Esercizio V**
->
-> Per ogni triangolo $ABC$ si indichi:
->
-> - con $\Gamma$ il cerchio exinscritto nell'angolo di vertice $A$;
-> - con $A'$, $B'$, $C'$ i punti di contatto rispettivi di $\Gamma$ con le rette $(BC)$, $(CA)$ e $(AB)$;
-> - con $S(ABC)$ l'area della porzione di piano delimitata dai segmenti $[AB']$, $[AC']$ e dall'arco $\overset{\frown}{C'A'B'}$ di $\Gamma$.
->
-> Dimostrare che esistono triangoli $ABC$, di perimetro dato $2p$, per i quali l'area $S(ABC)$ è massima.
->
-> Per un tale triangolo, dare un valore approssimato, a meno di un grado, della misura dell'angolo in $A$.
-
-![[src_cgen_1990__q05.png]]
-
-[[Quesiti/src_cgen_1990#q05|src_cgen_1990__Q05]]
-
-
-<div class="qlang-split" data-lang="en"></div>
-
+---
+tipo: quesito-translation
+translation_of: src_cgen_1990__Q05
+lang: en
+secondary: true
+title: "Concours Général des Lycées 1990 — Exercise V"
+summary: "Maximum area cut off by an excircle, for a given perimeter"
+topics: [topic_geometria_piana, topic_trigonometria, topic_insiemi_funzioni]
+methods: [method_estremalita, method_trigonometria]
+skills: [skill_ragionamento_geometrico, skill_modellizzazione, skill_stima, skill_manipolazione_algebrica]
+tags: [kg/translation, topic/geometria_piana, topic/trigonometria, topic/insiemi_funzioni]---
 
 *Maximum area cut off by an excircle, for a given perimeter*
 
@@ -300,6 +357,48 @@ level: Concours Général
 >
 > For such a triangle, give an approximate value, to the nearest degree, of the measure of the angle at $A$.
 
-![[src_cgen_1990__q05.png]]
+![[src_cgen_1990__Q05.png]]
 
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_trigonometria|Trigonometry]], [[topic_insiemi_funzioni|Sets and functions]]
+**Metodo:** [[method_estremalita|Extremal principle]], [[method_trigonometria|Trigonometric techniques]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_modellizzazione|Modelling / translating the text]], [[skill_stima|Estimation and approximation]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Geometria|Geometry]], [[Algebra e Analisi|Algebra and analysis]]
+[[Quesiti/src_cgen_1990#q05|src_cgen_1990__Q05]]
+
+
+
+<span class="atom-split" id="q05__it" data-atom="q05__it" data-title="Q05__IT" data-tags=""></span>
+
+---
+tipo: quesito-translation
+translation_of: src_cgen_1990__Q05
+lang: it
+secondary: true
+title: "Concours Général des Lycées 1990 — Esercizio V"
+summary: "Area massima delimitata da un cerchio exinscritto, a perimetro fissato"
+topics: [topic_geometria_piana, topic_trigonometria, topic_insiemi_funzioni]
+methods: [method_estremalita, method_trigonometria]
+skills: [skill_ragionamento_geometrico, skill_modellizzazione, skill_stima, skill_manipolazione_algebrica]
+tags: [kg/translation, topic/geometria_piana, topic/trigonometria, topic/insiemi_funzioni]---
+
+*Area massima delimitata da un cerchio exinscritto, a perimetro fissato*
+
+> **Esercizio V**
+>
+> Per ogni triangolo $ABC$ si indichi:
+>
+> - con $\Gamma$ il cerchio exinscritto nell'angolo di vertice $A$;
+> - con $A'$, $B'$, $C'$ i punti di contatto rispettivi di $\Gamma$ con le rette $(BC)$, $(CA)$ e $(AB)$;
+> - con $S(ABC)$ l'area della porzione di piano delimitata dai segmenti $[AB']$, $[AC']$ e dall'arco $\overset{\frown}{C'A'B'}$ di $\Gamma$.
+>
+> Dimostrare che esistono triangoli $ABC$, di perimetro dato $2p$, per i quali l'area $S(ABC)$ è massima.
+>
+> Per un tale triangolo, dare un valore approssimato, a meno di un grado, della misura dell'angolo in $A$.
+
+![[src_cgen_1990__Q05.png]]
+
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometria]], [[topic_insiemi_funzioni|Insiemi e funzioni]]
+**Metodo:** [[method_estremalita|Principio di estremalita]], [[method_trigonometria|Tecniche trigonometriche]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_stima|Stima e approssimazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]], [[Algebra e Analisi]]
 [[Quesiti/src_cgen_1990#q05|src_cgen_1990__Q05]]

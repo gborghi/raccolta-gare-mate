@@ -43,11 +43,9 @@ level: JJMO Yosen
 
 **Risposta:** 62
 
-[[Quesiti/src_jjmo14yq_yosen#q01|src_jjmo14yq_yosen__Q01]]
 
 
-
-<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_geometria_piana,method_trigonometria,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_geometria_piana,topic_trigonometria,method_trigonometria,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -56,10 +54,10 @@ level: JJMO Yosen
 
 > In the plane there is a segment $AB$ of length $10$. Two points $P,Q$ move in the plane subject to $\angle APB = 60^\circ$ and $\angle AQB = 120^\circ$. Find the maximum possible value of the length of segment $PQ$.
 
-**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometry]]
 **Metodo:** [[method_trigonometria|Trigonometria]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
-**Area:** [[Geometria]]
+**Area:** [[Geometria|Geometry]]
 **Risposta:** $\dfrac{20\sqrt{3}}{3}$
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1CffbdTzm_tRxElqFsQ2fTHk8Bp8R3ESJ/view)
 
@@ -75,16 +73,15 @@ level: JJMO Yosen
 
 > [!warning] Estratto da una scansione giapponese a bassa risoluzione — l'enunciato tradotto va verificato con la fonte.
 
-**Topic:** [[topic_geometria_piana|Geometria piana]]
+
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometria]]
 **Metodo:** [[method_trigonometria|Trigonometria]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 
-[[Quesiti/src_jjmo14yq_yosen#q02|src_jjmo14yq_yosen__Q02]]
 
 
-
-<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_combinatoria,method_conteggio,method_simmetria,method_casework,skill_conteggio_sistematico,skill_lettura_attenta"></span>
+<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_combinatoria,method_conteggio,method_simmetria,method_casework,skill_conteggio_sistematico,skill_lettura_attenta,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -93,12 +90,12 @@ level: JJMO Yosen
 
 > There is a $6 \times 6$ grid of cells, and some of these $36$ cells are painted black. A transparent board of the same size as the grid is prepared, and one obtains a copy of the painted grid onto this board. By placing this same-sized board on top of the grid in a suitable position (and orientation), it was possible to cover the whole figure so that the black-painted portions of board and grid coincide and the entire painted part is again covered in black. For how many ways of painting the original grid is this possible? Here, paintings that coincide under rotation or reflection are also counted as distinct.
 
-![[src_jjmo14yq_yosen__q03.png]]
+![[src_jjmo14yq_yosen__Q03.png]]
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_conteggio|Conteggio]], [[method_simmetria|Simmetria]], [[method_casework|Casework]]
-**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]]
-**Area:** [[Combinatoria, Logica e Probabilita]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Risposta:** 32768
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1CffbdTzm_tRxElqFsQ2fTHk8Bp8R3ESJ/view)
 
@@ -112,20 +109,19 @@ level: JJMO Yosen
 
 > C'è una griglia di $6 \times 6$ celle, e alcune di queste $36$ celle sono dipinte di nero. Si prepara una tavola trasparente delle stesse dimensioni della griglia, e si ottiene una copia della griglia dipinta su questa tavola. Collocando questa tavola, delle stesse dimensioni, sopra la griglia in una posizione (e con un orientamento) adeguati, è stato possibile coprire l'intera figura in modo che le parti dipinte di nero della tavola e della griglia coincidano e che l'intera parte dipinta sia di nuovo ricoperta di nero. In quanti modi di dipingere la griglia originale ciò è possibile? Qui, le pitture che coincidono per rotazione o riflessione sono considerate distinte anch'esse.
 
-![[src_jjmo14yq_yosen__q03.png]]
+![[src_jjmo14yq_yosen__Q03.png]]
 
 > [!warning] Estratto da una scansione giapponese a bassa risoluzione — l'enunciato tradotto va verificato con la fonte.
 
+
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_conteggio|Conteggio]], [[method_simmetria|Simmetria]], [[method_casework|Casework]]
-**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 
-[[Quesiti/src_jjmo14yq_yosen#q03|src_jjmo14yq_yosen__Q03]]
 
 
-
-<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_combinatoria,topic_aritmetica,method_estremalita,method_casework,skill_conteggio_sistematico,skill_modellizzazione"></span>
+<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_combinatoria,topic_aritmetica,method_estremalita,method_casework,skill_conteggio_sistematico,skill_modellizzazione,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -142,8 +138,8 @@ level: JJMO Yosen
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_estremalita|Estremalità]], [[method_casework|Casework]]
-**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione]]
-**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione]], [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Risposta:** 1612
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1CffbdTzm_tRxElqFsQ2fTHk8Bp8R3ESJ/view)
 
@@ -163,12 +159,11 @@ level: JJMO Yosen
 
 > [!warning] Estratto da una scansione giapponese a bassa risoluzione — l'enunciato tradotto va verificato con la fonte.
 
+
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_estremalita|Estremalità]], [[method_casework|Casework]]
-**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
-
-[[Quesiti/src_jjmo14yq_yosen#q04|src_jjmo14yq_yosen__Q04]]
 
 
 
@@ -204,8 +199,6 @@ level: JJMO Yosen
 **Metodo:** [[method_trigonometria|Trigonometria]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
-
-[[Quesiti/src_jjmo14yq_yosen#q05|src_jjmo14yq_yosen__Q05]]
 
 
 
@@ -246,8 +239,6 @@ level: JJMO Yosen
 
 **Risposta:** 783
 
-[[Quesiti/src_jjmo14yq_yosen#q06|src_jjmo14yq_yosen__Q06]]
-
 
 
 <span class="atom-split" id="q07" data-atom="q07" data-title="Quesito 7" data-tags="topic_geometria_piana,method_trigonometria,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
@@ -282,8 +273,6 @@ level: JJMO Yosen
 **Metodo:** [[method_trigonometria|Trigonometria]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
-
-[[Quesiti/src_jjmo14yq_yosen#q07|src_jjmo14yq_yosen__Q07]]
 
 
 
@@ -320,11 +309,9 @@ level: JJMO Yosen
 
 **Risposta:** 9876435012
 
-[[Quesiti/src_jjmo14yq_yosen#q08|src_jjmo14yq_yosen__Q08]]
 
 
-
-<span class="atom-split" id="q09" data-atom="q09" data-title="Quesito 9" data-tags="topic_combinatoria,method_conteggio,method_casework,method_ricorsione,skill_conteggio_sistematico"></span>
+<span class="atom-split" id="q09" data-atom="q09" data-title="Quesito 9" data-tags="topic_combinatoria,method_conteggio,method_casework,method_ricorsione,skill_conteggio_sistematico,skill_casework_accurato,skill_riconoscimento_pattern"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -333,12 +320,12 @@ level: JJMO Yosen
 
 > Fifteen rectangles are arranged as shown in the figure (a pyramid with a bottom row of $5$ rectangles, then rows of $4$, $3$, $2$, $1$ above). Each of these rectangles is to be coloured either red or blue, subject to the following condition: whenever a rectangle that is not in the bottom row is coloured red, then the two rectangles immediately below it must also be coloured red. In how many ways can this colouring be done?
 
-![[src_jjmo14yq_yosen__q09.png]]
+![[src_jjmo14yq_yosen__Q09.png]]
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_conteggio|Conteggio]], [[method_casework|Casework]], [[method_ricorsione|Ricorsione]]
-**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
-**Area:** [[Combinatoria, Logica e Probabilita]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Careful case analysis]], [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Risposta:** 365
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1CffbdTzm_tRxElqFsQ2fTHk8Bp8R3ESJ/view)
 
@@ -352,16 +339,15 @@ level: JJMO Yosen
 
 > Quindici rettangoli sono disposti come mostrato nella figura (una piramide con una riga inferiore composta da $5$ rettangoli, e poi, sopra, righe di $4$, $3$, $2$, $1$ rettangoli). Ciascuno di questi rettangoli deve essere colorato in rosso o in blu, con la seguente condizione: ogni volta che un rettangolo che non si trova nella riga inferiore viene colorato in rosso, anche i due rettangoli immediatamente sottostanti devono essere colorati in rosso. In quanti modi si può effettuare questa colorazione?
 
-![[src_jjmo14yq_yosen__q09.png]]
+![[src_jjmo14yq_yosen__Q09.png]]
 
 > [!warning] Estratto da una scansione giapponese a bassa risoluzione — l'enunciato tradotto va verificato con la fonte.
 
+
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_conteggio|Conteggio]], [[method_casework|Casework]], [[method_ricorsione|Ricorsione]]
-**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
-
-[[Quesiti/src_jjmo14yq_yosen#q09|src_jjmo14yq_yosen__Q09]]
 
 
 
@@ -374,7 +360,7 @@ level: JJMO Yosen
 
 > There is a non-convex quadrilateral $ABCD$ whose interior angle at vertex $D$ is greater than $180^\circ$, with $AB : CD = \sqrt{2} : 1$, $AD = 2$, and $BC = 1$. Let $E$ be the intersection of line $BC$ with line $AD$, and let $F$ be the intersection of line $AB$ with line $CD$. Suppose $\angle CED = \angle AFD = 45^\circ$. Find the area of quadrilateral $ABCD$. Here $XY$ denotes the length of segment $XY$.
 
-![[src_jjmo14yq_yosen__q10.png]]
+![[src_jjmo14yq_yosen__Q10.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometria]]
 **Metodo:** [[method_trigonometria|Trigonometria]], [[method_coordinate|Coordinate]]
@@ -393,7 +379,7 @@ level: JJMO Yosen
 
 > Esiste un quadrilatero non convesso $ABCD$ il cui angolo interno nel vertice $D$ è maggiore di $180^\circ$, con $AB : CD = \sqrt{2} : 1$, $AD = 2$ e $BC = 1$. Sia $E$ l'intersezione della retta $BC$ con la retta $AD$, e sia $F$ l'intersezione della retta $AB$ con la retta $CD$. Si supponga $\angle CED = \angle AFD = 45^\circ$. Si determini l'area del quadrilatero $ABCD$. Qui $XY$ denota la lunghezza del segmento $XY$.
 
-![[src_jjmo14yq_yosen__q10.png]]
+![[src_jjmo14yq_yosen__Q10.png]]
 
 > [!warning] Estratto da una scansione giapponese a bassa risoluzione — l'enunciato tradotto va verificato con la fonte.
 
@@ -402,11 +388,9 @@ level: JJMO Yosen
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 
-[[Quesiti/src_jjmo14yq_yosen#q10|src_jjmo14yq_yosen__Q10]]
 
 
-
-<span class="atom-split" id="q11" data-atom="q11" data-title="Quesito 11" data-tags="topic_combinatoria,topic_geometria_piana,method_grafi,method_estremalita,method_ricorsione,skill_ragionamento_geometrico,skill_riconoscimento_pattern,skill_astrazione"></span>
+<span class="atom-split" id="q11" data-atom="q11" data-title="Quesito 11" data-tags="topic_combinatoria,topic_geometria_piana,method_grafi,method_estremalita,method_ricorsione,skill_ragionamento_geometrico,skill_riconoscimento_pattern,skill_astrazione,skill_modellizzazione"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -415,12 +399,12 @@ level: JJMO Yosen
 
 > Consider the figure obtained by stacking $2016$ rows in which the $k$-th row contains $k$ downward-pointing small equilateral triangles arranged in a line. Starting from the midpoint of the topmost side and drawing in one continuous stroke (without lifting the pen) so that every side of every downward-pointing small triangle is passed over exactly once, the path crosses over itself $T$ times in the course of the drawing. Find the minimum possible value of $T$.
 
-![[src_jjmo14yq_yosen__q11.png]]
+![[src_jjmo14yq_yosen__Q11.png]]
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_grafi|Grafi]], [[method_estremalita|Estremalità]], [[method_ricorsione|Ricorsione]]
-**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_astrazione|Astrazione]]
-**Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_astrazione|Astrazione]], [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Geometria|Geometry]]
 **Risposta:** 7559
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1CffbdTzm_tRxElqFsQ2fTHk8Bp8R3ESJ/view)
 
@@ -434,20 +418,19 @@ level: JJMO Yosen
 
 > Si consideri la figura ottenuta impilando $2016$ righe, in cui la $k$-esima riga contiene $k$ piccoli triangoli equilateri rivolti verso il basso disposti in linea. Partendo dal punto medio del lato più in alto e tracciando un unico tratto continuo (senza sollevare la penna) in modo che ogni lato di ogni piccolo triangolo rivolto verso il basso venga percorso esattamente una volta, nel corso del disegno il percorso si interseca con se stesso $T$ volte. Si determini il valore minimo possibile di $T$.
 
-![[src_jjmo14yq_yosen__q11.png]]
+![[src_jjmo14yq_yosen__Q11.png]]
 
 > [!warning] Estratto da una scansione giapponese a bassa risoluzione — l'enunciato tradotto va verificato con la fonte.
 
+
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_grafi|Grafi]], [[method_estremalita|Estremalità]], [[method_ricorsione|Ricorsione]]
-**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_astrazione|Astrazione]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_astrazione|Astrazione]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 
-[[Quesiti/src_jjmo14yq_yosen#q11|src_jjmo14yq_yosen__Q11]]
 
 
-
-<span class="atom-split" id="q12" data-atom="q12" data-title="Quesito 12" data-tags="topic_combinatoria,method_conteggio,method_casework,method_estremalita,skill_conteggio_sistematico,skill_astrazione,skill_modellizzazione"></span>
+<span class="atom-split" id="q12" data-atom="q12" data-title="Quesito 12" data-tags="topic_combinatoria,method_conteggio,method_casework,method_estremalita,method_grafi,skill_conteggio_sistematico,skill_astrazione,skill_modellizzazione,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -457,9 +440,9 @@ level: JJMO Yosen
 > On the $xy$-coordinate plane, from every lattice point $(x,y)$ an arrow is drawn pointing to either $(x+1,y)$ or $(x,y+1)$. Now consider placing $2016$ people, one each, on $2016$ distinct lattice points satisfying $x \ge 0$, $y \ge 0$, $x+y \le 62$. For a fixed way of drawing the arrows, suppose $N$ different placements were tried, and the following condition held: for every person, the lattice point that the arrow from that person's point leads to is, across all $N$ placements, either occupied by the same person in all $N$ of them, or not occupied by anyone in all $N$ of them. Find the maximum possible value of $N$. Here a lattice point is a point whose $x$-coordinate and $y$-coordinate are both integers.
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
-**Metodo:** [[method_conteggio|Conteggio]], [[method_casework|Casework]], [[method_estremalita|Estremalità]]
-**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_astrazione|Astrazione]], [[skill_modellizzazione|Modellizzazione]]
-**Area:** [[Combinatoria, Logica e Probabilita]]
+**Metodo:** [[method_conteggio|Conteggio]], [[method_casework|Casework]], [[method_estremalita|Estremalità]], [[method_grafi|Graph theory]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_astrazione|Astrazione]], [[skill_modellizzazione|Modellizzazione]], [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Risposta:** $32!\,16!\,8!\,4!\,2!\,1!$
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1CffbdTzm_tRxElqFsQ2fTHk8Bp8R3ESJ/view)
 
@@ -475,9 +458,8 @@ level: JJMO Yosen
 
 > [!warning] Estratto da una scansione giapponese a bassa risoluzione — l'enunciato tradotto va verificato con la fonte.
 
-**Topic:** [[topic_combinatoria|Combinatoria]]
-**Metodo:** [[method_conteggio|Conteggio]], [[method_casework|Casework]], [[method_estremalita|Estremalità]]
-**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_astrazione|Astrazione]], [[skill_modellizzazione|Modellizzazione]]
-**Area:** [[Combinatoria, Logica e Probabilita]]
 
-[[Quesiti/src_jjmo14yq_yosen#q12|src_jjmo14yq_yosen__Q12]]
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_conteggio|Conteggio]], [[method_casework|Casework]], [[method_estremalita|Estremalità]], [[method_grafi|Teoria dei grafi]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_astrazione|Astrazione]], [[skill_modellizzazione|Modellizzazione]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Combinatoria, Logica e Probabilita]]

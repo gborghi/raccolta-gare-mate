@@ -47,11 +47,9 @@ level: OBM Nível 1
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 
-[[Quesiti/src_obm_2016_n1_f1#q01|src_obm_2016_n1_f1__Q01]]
 
 
-
-<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_geometria_piana,skill_ragionamento_geometrico"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_geometria_piana,skill_ragionamento_geometrico,skill_lettura_attenta"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -63,8 +61,8 @@ level: OBM Nível 1
 > [Source is the answer key; original statement/options not reproduced. From the solution: the area of the largest square $ABCD$ is $(9\times 1)\times 4 = 36\ \text{cm}^2$.]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
-**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
-**Area:** [[Geometria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Careful reading of the text]]
+**Area:** [[Geometria|Geometry]]
 **Risposta:** D
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1ZsXPA3SQBkQ8z1Owphp03I0ykfs-G5W6/view)
 
@@ -82,15 +80,14 @@ level: OBM Nível 1
 
 > [!warning] Estratto/tradotto: da verificare con la fonte.
 
+
 **Topic:** [[topic_geometria_piana|Geometria piana]]
-**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta del testo]]
 **Area:** [[Geometria]]
 
-[[Quesiti/src_obm_2016_n1_f1#q02|src_obm_2016_n1_f1__Q02]]
 
 
-
-<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_combinatoria,topic_aritmetica,method_conteggio,method_casework,skill_conteggio_sistematico,skill_lettura_attenta"></span>
+<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_combinatoria,topic_aritmetica,method_conteggio,method_casework,skill_conteggio_sistematico,skill_lettura_attenta,skill_modellizzazione"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -101,8 +98,8 @@ level: OBM Nível 1
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_conteggio|Conteggio]], [[method_casework|Casework]]
-**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]]
-**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Risposta:** D
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1ZsXPA3SQBkQ8z1Owphp03I0ykfs-G5W6/view)
 
@@ -118,16 +115,15 @@ level: OBM Nível 1
 
 > [!warning] Estratto/tradotto: da verificare con la fonte.
 
+
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_conteggio|Conteggio]], [[method_casework|Casework]]
-**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 
-[[Quesiti/src_obm_2016_n1_f1#q03|src_obm_2016_n1_f1__Q03]]
 
 
-
-<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_combinatoria,topic_geometria_solida,topic_logica,method_casework,skill_ragionamento_geometrico,skill_casework_accurato"></span>
+<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_combinatoria,topic_geometria_solida,topic_logica,topic_algebra,method_casework,skill_ragionamento_geometrico,skill_casework_accurato,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -138,12 +134,12 @@ level: OBM Nível 1
 > 
 > [Source is the answer key; original statement/options not reproduced. From the solution: the faces meeting at the vertex with number $2$ give $2+x+7$ and $2+7+y$; for all faces to be equal the face values lead to $2+7+7=16$, and one deduces the bottom vertex equals $2$. The sum over all vertices is $2+7+7+7+2+2 = 25$.]
 
-![[src_obm_2016_n1_f1__q04.png]]
+![[src_obm_2016_n1_f1__Q04.png]]
 
-**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_geometria_solida|Geometria solida]], [[topic_logica|Logica]]
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_geometria_solida|Geometria solida]], [[topic_logica|Logica]], [[topic_algebra|Algebra]]
 **Metodo:** [[method_casework|Casework]]
-**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_casework_accurato|Casework accurato]]
-**Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_casework_accurato|Casework accurato]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Geometria|Geometry]], [[Algebra e Analisi|Algebra and analysis]]
 **Risposta:** C
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1ZsXPA3SQBkQ8z1Owphp03I0ykfs-G5W6/view)
 
@@ -159,20 +155,19 @@ level: OBM Nível 1
 >
 > [La fonte è la chiave di risposta; l'enunciato e le opzioni originali non sono riprodotti. Dalla soluzione: le facce che si incontrano nel vertice con numero $2$ danno $2+x+7$ e $2+7+y$; affinché tutte le facce siano uguali, i valori delle facce portano a $2+7+7=16$, e si deduce che il vertice inferiore è uguale a $2$. La somma su tutti i vertici è $2+7+7+7+2+2 = 25$.]
 
-![[src_obm_2016_n1_f1__q04.png]]
+![[src_obm_2016_n1_f1__Q04.png]]
 
 > [!warning] Estratto/tradotto: da verificare con la fonte.
 
-**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_geometria_solida|Geometria solida]], [[topic_logica|Logica]]
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_geometria_solida|Geometria solida]], [[topic_logica|Logica]], [[topic_algebra|Algebra]]
 **Metodo:** [[method_casework|Casework]]
-**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_casework_accurato|Casework accurato]]
-**Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
-
-[[Quesiti/src_obm_2016_n1_f1#q04|src_obm_2016_n1_f1__Q04]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_casework_accurato|Casework accurato]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]], [[Algebra e Analisi]]
 
 
 
-<span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_algebra,topic_aritmetica,method_casework,skill_modellizzazione,skill_lettura_attenta"></span>
+<span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_algebra,topic_aritmetica,method_casework,skill_modellizzazione,skill_lettura_attenta,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -183,8 +178,8 @@ level: OBM Nível 1
 
 **Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_casework|Casework]]
-**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_lettura_attenta|Lettura attenta]]
-**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_lettura_attenta|Lettura attenta]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Risposta:** D
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1ZsXPA3SQBkQ8z1Owphp03I0ykfs-G5W6/view)
 
@@ -200,12 +195,11 @@ level: OBM Nível 1
 
 > [!warning] Estratto/tradotto: da verificare con la fonte.
 
+
 **Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_casework|Casework]]
-**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_lettura_attenta|Lettura attenta]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_lettura_attenta|Lettura attenta]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
-
-[[Quesiti/src_obm_2016_n1_f1#q05|src_obm_2016_n1_f1__Q05]]
 
 
 
@@ -221,7 +215,7 @@ level: OBM Nível 1
 > [Source is the answer key; original statement/options not reproduced. From the solution: the following examples show that any of the letters can appear in the shaded (gray) cell:
 > $\begin{array}{|c|c|c|}\hline O&B&O\\\hline M&O&B\\\hline O&B&O\\\hline\end{array}\quad\begin{array}{|c|c|c|}\hline O&B&O\\\hline M&O&B\\\hline O&B&M\\\hline\end{array}\quad\begin{array}{|c|c|c|}\hline O&B&O\\\hline M&O&M\\\hline O&M&B\\\hline\end{array}$ ]
 
-![[src_obm_2016_n1_f1__q06.png]]
+![[src_obm_2016_n1_f1__Q06.png]]
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_logica|Logica]]
 **Metodo:** [[method_casework|Casework]]
@@ -242,7 +236,7 @@ level: OBM Nível 1
 >
 > [La fonte è la chiave di risposta; l'enunciato e le opzioni originali non sono riprodotti. Dalla soluzione: i seguenti esempi mostrano che una qualsiasi delle lettere può comparire nella cella ombreggiata (grigia): $\begin{array}{|c|c|c|}\hline O&B&O\\\hline M&O&B\\\hline O&B&O\\\hline\end{array}\quad\begin{array}{|c|c|c|}\hline O&B&O\\\hline M&O&B\\\hline O&B&M\\\hline\end{array}\quad\begin{array}{|c|c|c|}\hline O&B&O\\\hline M&O&M\\\hline O&M&B\\\hline\end{array}$ ]
 
-![[src_obm_2016_n1_f1__q06.png]]
+![[src_obm_2016_n1_f1__Q06.png]]
 
 > [!warning] Estratto/tradotto: da verificare con la fonte.
 
@@ -251,11 +245,9 @@ level: OBM Nível 1
 **Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 
-[[Quesiti/src_obm_2016_n1_f1#q06|src_obm_2016_n1_f1__Q06]]
 
 
-
-<span class="atom-split" id="q07" data-atom="q07" data-title="Quesito 7" data-tags="topic_aritmetica,topic_combinatoria,skill_riconoscimento_pattern"></span>
+<span class="atom-split" id="q07" data-atom="q07" data-title="Quesito 7" data-tags="topic_aritmetica,topic_combinatoria,method_fattorizzazione,skill_riconoscimento_pattern"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -267,8 +259,9 @@ level: OBM Nível 1
 > [Source is the answer key; original statement/options not reproduced. From the solution: since the pieces are all equal and can be divided into groups of $2$, $3$ or $5$, the number of pieces must be a multiple of the least common multiple of these numbers, i.e. a multiple of $30$. With $30$ equal pieces the desired division is indeed possible.]
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
 **Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
-**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Risposta:** D
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1ZsXPA3SQBkQ8z1Owphp03I0ykfs-G5W6/view)
 
@@ -286,15 +279,15 @@ level: OBM Nível 1
 
 > [!warning] Estratto/tradotto: da verificare con la fonte.
 
+
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
 **Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 
-[[Quesiti/src_obm_2016_n1_f1#q07|src_obm_2016_n1_f1__Q07]]
 
 
-
-<span class="atom-split" id="q08" data-atom="q08" data-title="Quesito 8" data-tags="topic_algebra,topic_aritmetica,skill_manipolazione_algebrica,skill_modellizzazione"></span>
+<span class="atom-split" id="q08" data-atom="q08" data-title="Quesito 8" data-tags="topic_algebra,topic_aritmetica,method_fattorizzazione,skill_manipolazione_algebrica,skill_modellizzazione"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -306,8 +299,9 @@ level: OBM Nível 1
 > [Source is the answer key; original statement/options not reproduced. From the solution: $x-1$ people arrived before Josias and $2016-x$ people arrived after him, with $\dfrac{2016-x}{4} = 4(x-1)$, i.e. $2016-x = 16(x-1)$, giving $x = 404$.]
 
 **Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]]
-**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Risposta:** A
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1ZsXPA3SQBkQ8z1Owphp03I0ykfs-G5W6/view)
 
@@ -325,11 +319,11 @@ level: OBM Nível 1
 
 > [!warning] Estratto/tradotto: da verificare con la fonte.
 
+
 **Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]]
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
-
-[[Quesiti/src_obm_2016_n1_f1#q08|src_obm_2016_n1_f1__Q08]]
 
 
 
@@ -370,8 +364,6 @@ level: OBM Nível 1
 **Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]], [[Geometria]]
 
-[[Quesiti/src_obm_2016_n1_f1#q09|src_obm_2016_n1_f1__Q09]]
-
 
 
 <span class="atom-split" id="q10" data-atom="q10" data-title="Quesito 10" data-tags="topic_combinatoria,topic_geometria_piana,method_conteggio,method_casework,skill_conteggio_sistematico,skill_ragionamento_geometrico"></span>
@@ -385,7 +377,7 @@ level: OBM Nível 1
 > 
 > [Source is the answer key; original statement/options not reproduced. From the solution: one erases certain points of the $12$, leaving $4$. Examining the segments, every group of points joined by a segment lies over a square configuration; eliminating one point of each such pair removes exactly $8$ points. Reasoning through the items, the answer is $12$.]
 
-![[src_obm_2016_n1_f1__q10.png]]
+![[src_obm_2016_n1_f1__Q10.png]]
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_conteggio|Conteggio]], [[method_casework|Casework]]
@@ -406,7 +398,7 @@ level: OBM Nível 1
 >
 > [La fonte è la chiave di risposta; l'enunciato e le opzioni originali non sono riprodotti. Dalla soluzione: si cancellano alcuni punti del $12$, lasciando $4$. Esaminando i segmenti, ogni gruppo di punti uniti da un segmento giace sopra una configurazione quadrata; eliminando un punto di ciascuna di tali coppie si rimuovono esattamente $8$ punti. Ragionando sugli elementi, la risposta è $12$.]
 
-![[src_obm_2016_n1_f1__q10.png]]
+![[src_obm_2016_n1_f1__Q10.png]]
 
 > [!warning] Estratto/tradotto: da verificare con la fonte.
 
@@ -415,11 +407,9 @@ level: OBM Nível 1
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 
-[[Quesiti/src_obm_2016_n1_f1#q10|src_obm_2016_n1_f1__Q10]]
 
 
-
-<span class="atom-split" id="q11" data-atom="q11" data-title="Quesito 11" data-tags="topic_logica,topic_combinatoria,method_casework,skill_lettura_attenta,skill_riconoscimento_pattern"></span>
+<span class="atom-split" id="q11" data-atom="q11" data-title="Quesito 11" data-tags="topic_logica,topic_combinatoria,method_casework,method_colorazione,skill_lettura_attenta,skill_riconoscimento_pattern"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -431,9 +421,9 @@ level: OBM Nível 1
 > [Source is the answer key; original statement/options not reproduced. From the solution: the first person to answer cannot be telling the truth; the second told the truth, the third lied, the fourth told the truth, and so on, so liars and honest people alternate. Therefore there are $\dfrac{2016}{2} = 1008$ liars in the row.]
 
 **Topic:** [[topic_logica|Logica]], [[topic_combinatoria|Combinatoria]]
-**Metodo:** [[method_casework|Casework]]
+**Metodo:** [[method_casework|Casework]], [[method_colorazione|Colouring / parity]]
 **Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
-**Area:** [[Combinatoria, Logica e Probabilita]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Risposta:** C
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1ZsXPA3SQBkQ8z1Owphp03I0ykfs-G5W6/view)
 
@@ -451,16 +441,15 @@ level: OBM Nível 1
 
 > [!warning] Estratto/tradotto: da verificare con la fonte.
 
+
 **Topic:** [[topic_logica|Logica]], [[topic_combinatoria|Combinatoria]]
-**Metodo:** [[method_casework|Casework]]
+**Metodo:** [[method_casework|Casework]], [[method_colorazione|Colorazione / parita]]
 **Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 
-[[Quesiti/src_obm_2016_n1_f1#q11|src_obm_2016_n1_f1__Q11]]
 
 
-
-<span class="atom-split" id="q12" data-atom="q12" data-title="Quesito 12" data-tags="topic_geometria_solida,topic_combinatoria,skill_ragionamento_geometrico,skill_astrazione"></span>
+<span class="atom-split" id="q12" data-atom="q12" data-title="Quesito 12" data-tags="topic_geometria_solida,topic_combinatoria,method_bigezione,method_simmetria,skill_ragionamento_geometrico,skill_astrazione"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -472,8 +461,9 @@ level: OBM Nível 1
 > [Source is the answer key; original statement/options not reproduced. From the solution: each green face of the eight smaller blocks obtained after cutting the cube is opposite to a red one, and vice versa. Hence the ratio of total green area to total red area is $1:1$.]
 
 **Topic:** [[topic_geometria_solida|Geometria solida]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_bigezione|Bijection / correspondence]], [[method_simmetria|Using symmetry]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_astrazione|Astrazione]]
-**Area:** [[Geometria]], [[Combinatoria, Logica e Probabilita]]
+**Area:** [[Geometria|Geometry]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Risposta:** A
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1ZsXPA3SQBkQ8z1Owphp03I0ykfs-G5W6/view)
 
@@ -491,15 +481,15 @@ level: OBM Nível 1
 
 > [!warning] Estratto/tradotto: da verificare con la fonte.
 
+
 **Topic:** [[topic_geometria_solida|Geometria solida]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_bigezione|Bigezione / corrispondenza]], [[method_simmetria|Sfruttamento della simmetria]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_astrazione|Astrazione]]
 **Area:** [[Geometria]], [[Combinatoria, Logica e Probabilita]]
 
-[[Quesiti/src_obm_2016_n1_f1#q12|src_obm_2016_n1_f1__Q12]]
 
 
-
-<span class="atom-split" id="q13" data-atom="q13" data-title="Quesito 13" data-tags="topic_combinatoria,topic_algebra,method_conteggio,method_casework,skill_conteggio_sistematico,skill_manipolazione_algebrica"></span>
+<span class="atom-split" id="q13" data-atom="q13" data-title="Quesito 13" data-tags="topic_combinatoria,topic_algebra,method_conteggio,method_casework,method_colorazione,method_fattorizzazione,skill_conteggio_sistematico,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -511,9 +501,9 @@ level: OBM Nível 1
 > [Source is the answer key; original statement/options not reproduced. From the solution: in a set of $n$ elements the number of two-element subsets is $\dfrac{n(n-1)}{2}$. With $x+y = 10$ and the condition $\dfrac{x(x-1)}{2}+\dfrac{y(y-1)}{2} = 4xy$ (since the sum of two same-parity numbers is even and a mixed pair is odd). Substituting $y = 10-x$ gives $x^2-9x+10 = 0$, with solutions $x = 1$ or $x = 9$. Since $(x,y) = (9,1)$ satisfies the condition, the maximum value of $x$ is $9$.]
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_algebra|Algebra]]
-**Metodo:** [[method_conteggio|Conteggio]], [[method_casework|Casework]]
+**Metodo:** [[method_conteggio|Conteggio]], [[method_casework|Casework]], [[method_colorazione|Colouring / parity]], [[method_fattorizzazione|Factorisation / algebraic manipulation]]
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
-**Area:** [[Combinatoria, Logica e Probabilita]], [[Algebra e Analisi]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Algebra e Analisi|Algebra and analysis]]
 **Risposta:** E
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1ZsXPA3SQBkQ8z1Owphp03I0ykfs-G5W6/view)
 
@@ -531,16 +521,15 @@ level: OBM Nível 1
 
 > [!warning] Estratto/tradotto: da verificare con la fonte.
 
+
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_algebra|Algebra]]
-**Metodo:** [[method_conteggio|Conteggio]], [[method_casework|Casework]]
+**Metodo:** [[method_conteggio|Conteggio]], [[method_casework|Casework]], [[method_colorazione|Colorazione / parita]], [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Algebra e Analisi]]
 
-[[Quesiti/src_obm_2016_n1_f1#q13|src_obm_2016_n1_f1__Q13]]
 
 
-
-<span class="atom-split" id="q14" data-atom="q14" data-title="Quesito 14" data-tags="topic_aritmetica,skill_lettura_attenta,skill_modellizzazione"></span>
+<span class="atom-split" id="q14" data-atom="q14" data-title="Quesito 14" data-tags="topic_aritmetica,topic_probabilita,skill_lettura_attenta,skill_modellizzazione"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -553,9 +542,9 @@ level: OBM Nível 1
 > $\begin{array}{|l|c|c|}\hline & \text{Class A} & \text{Class B}\\\hline \text{Mathematics} & 6\cdot 20 = 120 & 9\cdot 30 = 270\\\hline \text{Portuguese} & 8\cdot 20 = 160 & 5\cdot 30 = 150\\\hline\end{array}$
 > Analysis of the graph shows immediately that items (a) and (b) are false. The Mathematics average of the two classes together is $\dfrac{120+270}{50} = 7.8$, so item (c) is also true. The averages of the two tests in classes A and B are $280/40 = 7$ and $420/60 = 7$ respectively. The overall average of all grades is $\dfrac{120+160+270+150}{20+20+30+30} = 7$, so item (d) is true.]
 
-**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_probabilita|Probability and statistics]]
 **Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_modellizzazione|Modellizzazione]]
-**Area:** [[Aritmetica e Teoria dei Numeri]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Risposta:** E
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1ZsXPA3SQBkQ8z1Owphp03I0ykfs-G5W6/view)
 
@@ -573,15 +562,14 @@ level: OBM Nível 1
 
 > [!warning] Estratto/tradotto: da verificare con la fonte.
 
-**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_probabilita|Probabilita e statistica]]
 **Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_modellizzazione|Modellizzazione]]
-**Area:** [[Aritmetica e Teoria dei Numeri]]
-
-[[Quesiti/src_obm_2016_n1_f1#q14|src_obm_2016_n1_f1__Q14]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 
 
 
-<span class="atom-split" id="q15" data-atom="q15" data-title="Quesito 15" data-tags="topic_combinatoria,topic_logica,method_casework,skill_casework_accurato,skill_ragionamento_geometrico"></span>
+<span class="atom-split" id="q15" data-atom="q15" data-title="Quesito 15" data-tags="topic_combinatoria,topic_logica,method_casework,method_estremalita,skill_casework_accurato,skill_ragionamento_geometrico"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -592,12 +580,12 @@ level: OBM Nível 1
 > 
 > [Source is the answer key; original statement/options not reproduced. From the solution: a third column already has the repeated arrangement so needs no movement; the first and a second column each need a move; a single move is not enough because two tokens lie in different rows. Two moves are sufficient, as illustrated.]
 
-![[src_obm_2016_n1_f1__q15.png]]
+![[src_obm_2016_n1_f1__Q15.png]]
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_logica|Logica]]
-**Metodo:** [[method_casework|Casework]]
+**Metodo:** [[method_casework|Casework]], [[method_estremalita|Extremal principle]]
 **Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
-**Area:** [[Combinatoria, Logica e Probabilita]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Risposta:** B
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1ZsXPA3SQBkQ8z1Owphp03I0ykfs-G5W6/view)
 
@@ -613,16 +601,15 @@ level: OBM Nível 1
 >
 > [La fonte è la chiave di risposta; l'enunciato e le opzioni originali non sono riprodotti. Dalla soluzione: una terza colonna presenta già la disposizione ripetuta, quindi non richiede alcun spostamento; la prima e una seconda colonna richiedono ciascuna uno spostamento; un unico spostamento non basta perché due gettoni si trovano in righe diverse. Due spostamenti sono sufficienti, come illustrato.]
 
-![[src_obm_2016_n1_f1__q15.png]]
+![[src_obm_2016_n1_f1__Q15.png]]
 
 > [!warning] Estratto/tradotto: da verificare con la fonte.
 
+
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_logica|Logica]]
-**Metodo:** [[method_casework|Casework]]
+**Metodo:** [[method_casework|Casework]], [[method_estremalita|Principio di estremalita]]
 **Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
-
-[[Quesiti/src_obm_2016_n1_f1#q15|src_obm_2016_n1_f1__Q15]]
 
 
 
@@ -661,11 +648,9 @@ level: OBM Nível 1
 **Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 
-[[Quesiti/src_obm_2016_n1_f1#q16|src_obm_2016_n1_f1__Q16]]
 
 
-
-<span class="atom-split" id="q17" data-atom="q17" data-title="Quesito 17" data-tags="topic_geometria_piana,topic_aritmetica,skill_ragionamento_geometrico,skill_modellizzazione"></span>
+<span class="atom-split" id="q17" data-atom="q17" data-title="Quesito 17" data-tags="topic_geometria_piana,topic_aritmetica,skill_ragionamento_geometrico,skill_modellizzazione,skill_lettura_attenta"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -676,11 +661,11 @@ level: OBM Nível 1
 > 
 > [Source is the answer key; original statement/options not reproduced. From the solution: dividing or gluing the parts as shown, the requested length is $4\,\text{mm} + 20\times 4.2\,\text{cm} + 4\,\text{mm} = 84\,\text{cm} + 0.8\,\text{cm} = 84.8\,\text{cm}$.]
 
-![[src_obm_2016_n1_f1__q17.png]]
+![[src_obm_2016_n1_f1__Q17.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]]
-**Area:** [[Geometria]], [[Aritmetica e Teoria dei Numeri]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]], [[skill_lettura_attenta|Careful reading of the text]]
+**Area:** [[Geometria|Geometry]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Risposta:** A
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1ZsXPA3SQBkQ8z1Owphp03I0ykfs-G5W6/view)
 
@@ -696,15 +681,14 @@ level: OBM Nível 1
 >
 > [La fonte è la chiave di risposta; l'enunciato e le opzioni originali non sono riprodotti. Dalla soluzione: dividendo o incollando le parti come mostrato, la lunghezza richiesta è $4\,\text{mm} + 20\times 4.2\,\text{cm} + 4\,\text{mm} = 84\,\text{cm} + 0.8\,\text{cm} = 84.8\,\text{cm}$.]
 
-![[src_obm_2016_n1_f1__q17.png]]
+![[src_obm_2016_n1_f1__Q17.png]]
 
 > [!warning] Estratto/tradotto: da verificare con la fonte.
 
-**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]]
-**Area:** [[Geometria]], [[Aritmetica e Teoria dei Numeri]]
 
-[[Quesiti/src_obm_2016_n1_f1#q17|src_obm_2016_n1_f1__Q17]]
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]], [[skill_lettura_attenta|Lettura attenta del testo]]
+**Area:** [[Geometria]], [[Aritmetica e Teoria dei Numeri]]
 
 
 
@@ -719,7 +703,7 @@ level: OBM Nível 1
 > 
 > [Source is the answer key; original statement/options not reproduced. From the solution: the area of triangle $AEB$ is $\dfrac{2\times 2}{2} = 2$. The area of triangle $OGH$ is $\dfrac{2\times 3}{2} = 3$ (with $OF = 3$, $F$ the midpoint of side $BF$ and $O$ the center of the square). The area of triangle $AGC$ is $\dfrac{4\times 4}{2} = 8$ and the area of triangle $DAH$ is $\dfrac{6\times 6}{2} = 18$, so quadrilateral $CGHD$ has area $18 - 8 = 10$; by symmetry, triangle $CGO$ has area $10 - 2\times 3 = 4$. It remains to find the areas of triangles $BEI$ and $IGC$. Splitting $IGC$ into four triangles like $BEI$ gives $s + 4x + 2(2-x) = 6 \Rightarrow 3x = 2 \Rightarrow x = \dfrac{2}{3}$. The gray area inside triangle $AHD$ is $5x + 4 = 5\cdot\dfrac{2}{3} + 4 = \dfrac{22}{3}$, so by symmetry the total gray area is $2\times\dfrac{22}{3} = \dfrac{44}{3}$.]
 
-![[src_obm_2016_n1_f1__q18.png]]
+![[src_obm_2016_n1_f1__Q18.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_simmetria|Simmetria]]
@@ -740,7 +724,7 @@ level: OBM Nível 1
 >
 > [La fonte è la chiave di risposta; l'enunciato e le opzioni originali non sono riprodotti. Dalla soluzione: l'area del triangolo $AEB$ è $\dfrac{2\times 2}{2} = 2$. L'area del triangolo $OGH$ è $\dfrac{2\times 3}{2} = 3$ (con $OF = 3$, $F$ il punto medio del lato $BF$ e $O$ il centro del quadrato). L'area del triangolo $AGC$ è $\dfrac{4\times 4}{2} = 8$ e l'area del triangolo $DAH$ è $\dfrac{6\times 6}{2} = 18$, quindi il quadrilatero $CGHD$ ha area $18 - 8 = 10$; per simmetria, il triangolo $CGO$ ha area $10 - 2\times 3 = 4$. Resta da trovare le aree dei triangoli $BEI$ e $IGC$. Suddividendo $IGC$ in quattro triangoli come $BEI$ si ottiene $s + 4x + 2(2-x) = 6 \Rightarrow 3x = 2 \Rightarrow x = \dfrac{2}{3}$. L'area grigia all'interno del triangolo $AHD$ è $5x + 4 = 5\cdot\dfrac{2}{3} + 4 = \dfrac{22}{3}$, quindi, per simmetria, l'area grigia totale è $2\times\dfrac{22}{3} = \dfrac{44}{3}$.]
 
-![[src_obm_2016_n1_f1__q18.png]]
+![[src_obm_2016_n1_f1__Q18.png]]
 
 > [!warning] Estratto/tradotto: da verificare con la fonte.
 
@@ -749,11 +733,9 @@ level: OBM Nível 1
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 
-[[Quesiti/src_obm_2016_n1_f1#q18|src_obm_2016_n1_f1__Q18]]
 
 
-
-<span class="atom-split" id="q19" data-atom="q19" data-title="Quesito 19" data-tags="topic_algebra,method_fattorizzazione,skill_manipolazione_algebrica,skill_modellizzazione"></span>
+<span class="atom-split" id="q19" data-atom="q19" data-title="Quesito 19" data-tags="topic_algebra,topic_aritmetica,method_fattorizzazione,skill_manipolazione_algebrica,skill_modellizzazione"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -764,10 +746,10 @@ level: OBM Nível 1
 > 
 > [Source is the answer key; original statement/options not reproduced. From the solution: initially each of $x$ people would pay $\dfrac{6000}{x}$ reais; after three drop out, each of the $x-3$ travelers pays $\dfrac{6000}{x-3}$, which is $100$ reais more, so $\dfrac{6000}{x}+100 = \dfrac{6000}{x-3} \Leftrightarrow 60(x-3)+x(x-3) = 60x \Leftrightarrow 60x-180+x^2-3x = 60x \Leftrightarrow x^2-3x-180 = 0$.]
 
-**Topic:** [[topic_algebra|Algebra]]
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Arithmetic / Number theory]]
 **Metodo:** [[method_fattorizzazione|Fattorizzazione]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]]
-**Area:** [[Algebra e Analisi]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Risposta:** B
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1ZsXPA3SQBkQ8z1Owphp03I0ykfs-G5W6/view)
 
@@ -785,16 +767,15 @@ level: OBM Nível 1
 
 > [!warning] Estratto/tradotto: da verificare con la fonte.
 
-**Topic:** [[topic_algebra|Algebra]]
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_fattorizzazione|Fattorizzazione]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]]
-**Area:** [[Algebra e Analisi]]
-
-[[Quesiti/src_obm_2016_n1_f1#q19|src_obm_2016_n1_f1__Q19]]
+**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 
 
 
-<span class="atom-split" id="q20" data-atom="q20" data-title="Quesito 20" data-tags="topic_combinatoria,topic_aritmetica,method_casework,method_conteggio,skill_casework_accurato,skill_conteggio_sistematico"></span>
+<span class="atom-split" id="q20" data-atom="q20" data-title="Quesito 20" data-tags="topic_combinatoria,topic_aritmetica,method_casework,method_conteggio,method_fattorizzazione,skill_casework_accurato,skill_conteggio_sistematico,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -806,9 +787,9 @@ level: OBM Nível 1
 > [Source is the answer key; original statement/options not reproduced. From the solution: since all digits are nonzero, cancelling repeated terms gives $Z = S^3\times I^2$. As $Z$ is a digit, either $Z = 1$ or $S = 2$. In the first case $I^2 = 4$ or $I^2 = 9$; in the second case the possibilities are $(S,I) = (1,2),(1,3)$ or $(2,1)$. Since $E$ differs from $I$ and $S$, there are $7$ options for $E$ in each case. Listing the possible products $P = S\times E\times I\times S\times E\times Z$ and excluding combinations giving an already-chosen $Z$, there are $12$ distinct values for $P$: $6,10,12,14,15,16,18,20,21,24,28$ and $36$.]
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]]
-**Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_conteggio_sistematico|Conteggio sistematico]]
-**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
+**Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]], [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Risposta:** A
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1ZsXPA3SQBkQ8z1Owphp03I0ykfs-G5W6/view)
 
@@ -826,9 +807,8 @@ level: OBM Nível 1
 
 > [!warning] Estratto/tradotto: da verificare con la fonte.
 
-**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]]
-**Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_conteggio_sistematico|Conteggio sistematico]]
-**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 
-[[Quesiti/src_obm_2016_n1_f1#q20|src_obm_2016_n1_f1__Q20]]
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]], [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
+**Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]

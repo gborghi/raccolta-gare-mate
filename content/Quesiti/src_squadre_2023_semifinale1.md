@@ -10,7 +10,7 @@ level: squadre
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_combinatoria,method_conteggio"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_combinatoria,method_conteggio,method_grafi,skill_conteggio_sistematico,skill_modellizzazione"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -23,7 +23,8 @@ level: squadre
 > usando i colori giallo, blu e rosso, in modo che lati consecutivi abbiano colori diversi?
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
-**Metodo:** [[method_conteggio|Conteggio combinatorio]]
+**Metodo:** [[method_conteggio|Conteggio combinatorio]], [[method_grafi|Teoria dei grafi]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0030
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1KvUMoRfSg-kBSEEK_tFxTN_6Gw6YuSNH/view)
@@ -36,15 +37,15 @@ level: squadre
 
 > The family crest of Arcsenio Lupin/3 is the scion of a distinguished family of mathematical thieves. As a child, Arcsenio loved drawing and coloring the family crest, which is pentagonal. In how many ways can the sides of the crest be colored using the colors yellow, blue, and red so that consecutive sides have different colors?
 
+
 **Topic:** [[topic_combinatoria|Combinatorics]]
-**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Metodo:** [[method_conteggio|Combinatorial counting]], [[method_grafi|Graph theory]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]], [[skill_modellizzazione|Modelling / translating the text]]
 **Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
-[[Quesiti/src_squadre_2023_semifinale1#q01|src_squadre_2023_semifinale1__Q01]]
 
 
-
-<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_geometria_piana,method_disuguaglianze"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_geometria_piana,topic_trigonometria,topic_disuguaglianze,method_disuguaglianze,method_trigonometria,skill_ragionamento_geometrico"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -56,9 +57,10 @@ level: squadre
 > intanto che ricaricava ha determinato quale fosse la massima area che può avere un triangolo con il lato più corto
 > che misura 40 e con il lato più lungo che misura 101. Qual è?
 
-**Topic:** [[topic_geometria_piana|Geometria piana]]
-**Metodo:** [[method_disuguaglianze|Disuguaglianze classiche]]
-**Area:** [[Geometria]]
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometria]], [[topic_disuguaglianze|Disuguaglianze]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze classiche]], [[method_trigonometria|Tecniche trigonometriche]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Geometria]], [[Algebra e Analisi]]
 **Risposta:** 1980
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1KvUMoRfSg-kBSEEK_tFxTN_6Gw6YuSNH/view)
 
@@ -70,15 +72,15 @@ level: squadre
 
 > Maximum area The first to join Lupin/3's adventures was Jig∈N, a skilled gunslinger and puzzle-solver. For example, while reloading, he determined what the maximum area a triangle can have is, given that its shortest side measures 40 and its longest side measures 101. What is it?
 
-**Topic:** [[topic_geometria_piana|Plane geometry]]
-**Metodo:** [[method_disuguaglianze|Classical inequalities]]
-**Area:** [[Geometria|Geometry]]
 
-[[Quesiti/src_squadre_2023_semifinale1#q02|src_squadre_2023_semifinale1__Q02]]
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_trigonometria|Trigonometry]], [[topic_disuguaglianze|Inequalities]]
+**Metodo:** [[method_disuguaglianze|Classical inequalities]], [[method_trigonometria|Trigonometric techniques]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]], [[Algebra e Analisi|Algebra and analysis]]
 
 
 
-<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_geometria_piana,method_coordinate"></span>
+<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_geometria_piana,method_coordinate,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -94,6 +96,7 @@ level: squadre
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_coordinate|Metodo delle coordinate]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 **Risposta:** 0220
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1KvUMoRfSg-kBSEEK_tFxTN_6Gw6YuSNH/view)
@@ -106,15 +109,15 @@ level: squadre
 
 > To Escape from Zenonigata Inspector Zenonigata has dedicated his career to capturing Lupin/3. Perhaps this time he has succeeded: Lupin/3's raft (a square with side length ℓ) has one side glued to one side of Zenonigata's raft (a larger square with side length 1100). The only way Lupin/3 could get away with it would be to calculate the length of ℓ, knowing that the circumcircle of Zenonigata's raft also passes through the two vertices of Lupin/3's raft that do not lie on the other raft. Unfortunately for the inspector, Lupin/3 is escaping. What is the value of ℓ?
 
+
 **Topic:** [[topic_geometria_piana|Plane geometry]]
 **Metodo:** [[method_coordinate|Coordinate method]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
 **Area:** [[Geometria|Geometry]]
 
-[[Quesiti/src_squadre_2023_semifinale1#q03|src_squadre_2023_semifinale1__Q03]]
 
 
-
-<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_combinatoria,method_conteggio,skill_casework_accurato"></span>
+<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_combinatoria,method_conteggio,method_casework,skill_casework_accurato,skill_conteggio_sistematico"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -130,8 +133,8 @@ level: squadre
 > alla cassetta alla sua sinistra (se c’è). In quanti modi possono essere disposti i soldi?
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
-**Metodo:** [[method_conteggio|Conteggio combinatorio]]
-**Abilita:** [[skill_casework_accurato|Casework accurato]]
+**Metodo:** [[method_conteggio|Conteggio combinatorio]], [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 2880
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1KvUMoRfSg-kBSEEK_tFxTN_6Gw6YuSNH/view)
@@ -144,16 +147,15 @@ level: squadre
 
 > Safety deposit boxes The bank's safety deposit boxes that Lupin/3 is robbing are arranged in a 9×9 chessboard pattern (oriented vertically), from which all squares strictly above the diagonal running from the top left to the bottom right have been removed. Lupin knows that each box contains an integer number of millions of dollars ranging from 1 to 9 inclusive; moreover, each number appears a different number of times, and the arrangement is such that each box contains a number strictly greater than that in the box below it (if there is a box below) and greater than or equal to that in the box to its left (if there is one). In how many ways can the money be arranged?
 
+
 **Topic:** [[topic_combinatoria|Combinatorics]]
-**Metodo:** [[method_conteggio|Combinatorial counting]]
-**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Metodo:** [[method_conteggio|Combinatorial counting]], [[method_casework|Case analysis]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]], [[skill_conteggio_sistematico|Systematic counting]]
 **Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
-[[Quesiti/src_squadre_2023_semifinale1#q04|src_squadre_2023_semifinale1__Q04]]
 
 
-
-<span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_aritmetica,method_congruenze"></span>
+<span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_aritmetica,method_congruenze,method_fattorizzazione,skill_riconoscimento_pattern,skill_manipolazione_algebrica,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -167,7 +169,8 @@ level: squadre
 > ab? Dopo averlo visto all’opera, Lupin/3 lo vuole nella propria banda.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]]
+**Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]], [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 2162
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1KvUMoRfSg-kBSEEK_tFxTN_6Gw6YuSNH/view)
@@ -180,15 +183,15 @@ level: squadre
 
 > Non-writability: Goemetrikon is a skilled samurai who alternates between his trusted katana and solving math problems. The latest one he solved is as follows: let a and b be positive integers such that 2069 is the largest number that cannot be written as the sum of a (non-negative) multiple of a and a (non-negative) multiple of b. What is the minimum possible value of ab? After seeing him in action, Lupin/3 wants him in his gang.
 
+
 **Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
-**Metodo:** [[method_congruenze|Modular arithmetic / congruences]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]], [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]], [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_casework_accurato|Careful case analysis]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
-[[Quesiti/src_squadre_2023_semifinale1#q05|src_squadre_2023_semifinale1__Q05]]
 
 
-
-<span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_algebra,method_fattorizzazione"></span>
+<span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_algebra,method_fattorizzazione,skill_manipolazione_algebrica,skill_riconoscimento_pattern"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -202,6 +205,7 @@ level: squadre
 
 **Topic:** [[topic_algebra|Algebra]]
 **Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Algebra e Analisi]]
 **Risposta:** 0006
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1KvUMoRfSg-kBSEEK_tFxTN_6Gw6YuSNH/view)
@@ -214,15 +218,15 @@ level: squadre
 
 > Goemetrikon getting his hands dirty: "I'll join you if you prove that you're not afraid to get your hands dirty... when doing the calculations. Could you tell me what 20233 −3·20223 +3·20213 −20203 equals?" Lupin/3: "Give me a moment..." What is the answer to Goemetrikon's question?
 
+
 **Topic:** [[topic_algebra|Algebra]]
 **Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_riconoscimento_pattern|Pattern recognition]]
 **Area:** [[Algebra e Analisi|Algebra and analysis]]
 
-[[Quesiti/src_squadre_2023_semifinale1#q06|src_squadre_2023_semifinale1__Q06]]
 
 
-
-<span class="atom-split" id="q07" data-atom="q07" data-title="Quesito 7" data-tags="topic_aritmetica,method_casi_conteggio"></span>
+<span class="atom-split" id="q07" data-atom="q07" data-title="Quesito 7" data-tags="topic_aritmetica,method_casi_conteggio,skill_conteggio_sistematico,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -235,6 +239,7 @@ level: squadre
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_casi_conteggio|Conteggio per casi]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 9776
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1KvUMoRfSg-kBSEEK_tFxTN_6Gw6YuSNH/view)
@@ -247,15 +252,15 @@ level: squadre
 
 > Lupin/3 falls in love. Lupin/3 is in love with the beautiful FujIt¯o, a thief who has enchanted him by answering almost instantly the following question: what is the value of mcm(1,8)+mcm(2,8)+...+mcm(136,8)?
 
+
 **Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
 **Metodo:** [[method_casi_conteggio|Counting by cases]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
-[[Quesiti/src_squadre_2023_semifinale1#q07|src_squadre_2023_semifinale1__Q07]]
 
 
-
-<span class="atom-split" id="q08" data-atom="q08" data-title="Quesito 8" data-tags="topic_probabilita,method_inclusione_esclusione"></span>
+<span class="atom-split" id="q08" data-atom="q08" data-title="Quesito 8" data-tags="topic_probabilita,topic_aritmetica,method_inclusione_esclusione,skill_conteggio_sistematico"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -271,9 +276,10 @@ level: squadre
 > 
 > sia corrisposto? Rispondere con la somma di numeratore e denominatore della frazione ridotta ai minimi termini.
 
-**Topic:** [[topic_probabilita|Probabilita e statistica]]
+**Topic:** [[topic_probabilita|Probabilita e statistica]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_inclusione_esclusione|Inclusione-esclusione]]
-**Area:** [[Combinatoria, Logica e Probabilita]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 1366
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1KvUMoRfSg-kBSEEK_tFxTN_6Gw6YuSNH/view)
 
@@ -287,15 +293,15 @@ level: squadre
 >
 > Has it been paid? Respond with the sum of the numerator and denominator of the fraction reduced to its lowest terms.
 
-**Topic:** [[topic_probabilita|Probability and statistics]]
+
+**Topic:** [[topic_probabilita|Probability and statistics]], [[topic_aritmetica|Arithmetic / Number theory]]
 **Metodo:** [[method_inclusione_esclusione|Inclusion–exclusion]]
-**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
-
-[[Quesiti/src_squadre_2023_semifinale1#q08|src_squadre_2023_semifinale1__Q08]]
-
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
 
-<span class="atom-split" id="q09" data-atom="q09" data-title="Quesito 9" data-tags="topic_combinatoria,method_congruenze"></span>
+
+<span class="atom-split" id="q09" data-atom="q09" data-title="Quesito 9" data-tags="topic_combinatoria,topic_aritmetica,method_congruenze,skill_conteggio_sistematico,skill_manipolazione_algebrica,skill_riconoscimento_pattern"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -309,9 +315,10 @@ level: squadre
 > proprietà vale per la prima e la seconda porta, per la seconda e la terza, e così via ma anche per la sesta e la prima
 > porta. Quante sono le sequenze di sei codici che soddisfano queste condizioni?
 
-**Topic:** [[topic_combinatoria|Combinatoria]]
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]]
-**Area:** [[Combinatoria, Logica e Probabilita]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 0019
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1KvUMoRfSg-kBSEEK_tFxTN_6Gw6YuSNH/view)
 
@@ -323,15 +330,15 @@ level: squadre
 
 > Lupin/3 and his gang want to steal the prototype of a new quantum computer. They must pass through six gates in sequence. Each gate has an access code that is an integer between 0 and 18, inclusive. They have discovered that the sum of the codes of two consecutive gates is a number that leaves a remainder of 3 when divided by 19. This property holds for the first and second gates, for the second and third, and so on, but also for the sixth and first gates. How many sequences of six codes satisfy these conditions?
 
-**Topic:** [[topic_combinatoria|Combinatorics]]
+
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_aritmetica|Arithmetic / Number theory]]
 **Metodo:** [[method_congruenze|Modular arithmetic / congruences]]
-**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
-
-[[Quesiti/src_squadre_2023_semifinale1#q09|src_squadre_2023_semifinale1__Q09]]
-
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]], [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
 
-<span class="atom-split" id="q10" data-atom="q10" data-title="Quesito 10" data-tags="topic_geometria_piana,method_coordinate"></span>
+
+<span class="atom-split" id="q10" data-atom="q10" data-title="Quesito 10" data-tags="topic_geometria_piana,method_coordinate,method_simmetria,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -347,7 +354,8 @@ level: squadre
 > di numeratore e denominatore della frazione ridotta ai minimi termini.
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
-**Metodo:** [[method_coordinate|Metodo delle coordinate]]
+**Metodo:** [[method_coordinate|Metodo delle coordinate]], [[method_simmetria|Sfruttamento della simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 **Risposta:** 0007
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1KvUMoRfSg-kBSEEK_tFxTN_6Gw6YuSNH/view)
@@ -360,15 +368,15 @@ level: squadre
 
 > Teamwork: Lupin/3 managed to get hold of the Black Fox Shield, in which the precious Queen of Africa diamond is set. The shield is a square ABCD. Jig∈N scores the sides of the square, one projectile per side: A′ on side AB such that 2AA′ = A′B, and cyclically also B′ on side BC such that 2BB′ = B′C, similarly C′ and D′. Goemetrikon makes four clean cuts along DA′, AB′, BC′, and CD′, thereby detaching the central diamond from the rest of the shield. What is the ratio of the area of the diamond to the area of the initial shield? Answer with the sum of the numerator and denominator of the fraction reduced to lowest terms.
 
+
 **Topic:** [[topic_geometria_piana|Plane geometry]]
-**Metodo:** [[method_coordinate|Coordinate method]]
+**Metodo:** [[method_coordinate|Coordinate method]], [[method_simmetria|Using symmetry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
 **Area:** [[Geometria|Geometry]]
 
-[[Quesiti/src_squadre_2023_semifinale1#q10|src_squadre_2023_semifinale1__Q10]]
 
 
-
-<span class="atom-split" id="q11" data-atom="q11" data-title="Quesito 11" data-tags="topic_geometria_piana,method_trigonometria,skill_ragionamento_geometrico"></span>
+<span class="atom-split" id="q11" data-atom="q11" data-title="Quesito 11" data-tags="topic_geometria_piana,topic_trigonometria,method_trigonometria,skill_ragionamento_geometrico,skill_lettura_attenta"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -390,9 +398,9 @@ level: squadre
 > 13, BS = 33 e TF = 18, determinare il rapporto delle aree dei triangoli
 > BMF e BSQ. Rispondere con la somma di numeratore e denominatore della frazione ridotta ai minimi termini.
 
-**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometria]]
 **Metodo:** [[method_trigonometria|Tecniche trigonometriche]]
-**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta del testo]]
 **Area:** [[Geometria]]
 **Risposta:** 3457
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1KvUMoRfSg-kBSEEK_tFxTN_6Gw6YuSNH/view)
@@ -405,16 +413,15 @@ level: squadre
 
 > The discipline of samaterai [⋆] Goemetrikon became a samaterai thanks to iron discipline and geometry problems. Years ago, it solved this problem: let Γ be a circle with centre O, and let r be a line tangent to Γ at point T. Let A be a point on r distinct from T, and let B and C be the intersections of line OA with Γ such that AB < AC. Let M be a point on segment OC and R be the intersection of line TM with Γ distinct from T. Finally, let S be a point on the arc with endpoints T and C that does not contain B, such that ! MAT = " RTS; let F be a point on segment BS such that " ATS + " BFT = 180°; and let Q be the intersection of segments BC and RS. Given that QR RM = 8 13, BS = 33, and TF = 18, determine the ratio of the areas of triangles BMF and BSQ. Answer with the sum of the numerator and denominator of the fraction reduced to lowest terms.
 
-**Topic:** [[topic_geometria_piana|Plane geometry]]
+
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_trigonometria|Trigonometry]]
 **Metodo:** [[method_trigonometria|Trigonometric techniques]]
-**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_lettura_attenta|Careful reading of the text]]
 **Area:** [[Geometria|Geometry]]
 
-[[Quesiti/src_squadre_2023_semifinale1#q11|src_squadre_2023_semifinale1__Q11]]
 
 
-
-<span class="atom-split" id="q12" data-atom="q12" data-title="Quesito 12" data-tags="topic_logica,method_disuguaglianze"></span>
+<span class="atom-split" id="q12" data-atom="q12" data-title="Quesito 12" data-tags="topic_logica,topic_probabilita,topic_disuguaglianze,method_disuguaglianze,skill_modellizzazione,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -432,9 +439,10 @@ level: squadre
 > quanto è al minimo il rapporto tra gli under 50 mathvillani e il totale della popolazione di MathVillain?».
 > Rispondere con la somma di numeratore e denominatore della frazione ridotta ai minimi termini.
 
-**Topic:** [[topic_logica|Logica, giochi, strategie]]
+**Topic:** [[topic_logica|Logica, giochi, strategie]], [[topic_probabilita|Probabilita e statistica]], [[topic_disuguaglianze|Disuguaglianze]]
 **Metodo:** [[method_disuguaglianze|Disuguaglianze classiche]]
-**Area:** [[Combinatoria, Logica e Probabilita]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Algebra e Analisi]]
 **Risposta:** 0009
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1KvUMoRfSg-kBSEEK_tFxTN_6Gw6YuSNH/view)
 
@@ -446,15 +454,15 @@ level: squadre
 
 > Math illnesses [⋆] Jig∈N: "Have you read that this year in the cities of MathVillain and EstPonente, sin(usitis) has been worse than usual?" Goemetrikon: "Yes. The percentage of people who fell ill out of the total population in MathVillain was 8%, while in EstPonente it was 10%." Jig∈N: "Moreover, among those under 50, the percentage of people who fell ill in MathVillain was twice that in EstPonente, and the same ratio was found in the over-50 group as well." Goemetrikon: "How is that possible? Isn't that a contradiction?" Jig∈N: "No. Knowing that both cities are young—that is, that there are at least as many people under 50 as there are people over 50—what is the minimum ratio of MathVillain residents under 50 to the total population of MathVillain?" Answer by giving the sum of the numerator and denominator of the fraction reduced to lowest terms.
 
-**Topic:** [[topic_logica|Logic, games and strategies]]
+
+**Topic:** [[topic_logica|Logic, games and strategies]], [[topic_probabilita|Probability and statistics]], [[topic_disuguaglianze|Inequalities]]
 **Metodo:** [[method_disuguaglianze|Classical inequalities]]
-**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
-
-[[Quesiti/src_squadre_2023_semifinale1#q12|src_squadre_2023_semifinale1__Q12]]
-
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Algebra e Analisi|Algebra and analysis]]
 
 
-<span class="atom-split" id="q13" data-atom="q13" data-title="Quesito 13" data-tags="topic_geometria_piana,method_trigonometria"></span>
+
+<span class="atom-split" id="q13" data-atom="q13" data-title="Quesito 13" data-tags="topic_geometria_piana,topic_trigonometria,method_trigonometria,skill_ragionamento_geometrico"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -469,8 +477,9 @@ level: squadre
 > eludere la videosorveglianza, è importante conoscere l’ampiezza degli angoli di ABC. Quanto vale !
 > ACB?
 
-**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometria]]
 **Metodo:** [[method_trigonometria|Tecniche trigonometriche]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]]
 **Risposta:** 0036
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1KvUMoRfSg-kBSEEK_tFxTN_6Gw6YuSNH/view)
@@ -483,15 +492,15 @@ level: squadre
 
 > Museum Heist To plan the perfect heist, one must know the location perfectly. Lupin/3, Jig∈N, and Goemetrikon are studying the map of the museum room from which they will make a famous statue disappear. The room is an isosceles triangle ABC with base AB. The three doors of the room are located at M, the midpoint of BC; at F, the foot of the altitude from B; and at E, a point on AB such that EB ∼= BM. They also know that a circle passes through B, E, F, and M. To manage to evade video surveillance, it is important to know the measures of the angles of ABC. What is the measure of ∠ACB?
 
-**Topic:** [[topic_geometria_piana|Plane geometry]]
+
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_trigonometria|Trigonometry]]
 **Metodo:** [[method_trigonometria|Trigonometric techniques]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
 **Area:** [[Geometria|Geometry]]
 
-[[Quesiti/src_squadre_2023_semifinale1#q13|src_squadre_2023_semifinale1__Q13]]
 
 
-
-<span class="atom-split" id="q14" data-atom="q14" data-title="Quesito 14" data-tags="topic_aritmetica,method_congruenze"></span>
+<span class="atom-split" id="q14" data-atom="q14" data-title="Quesito 14" data-tags="topic_aritmetica,method_congruenze,method_casework,skill_riconoscimento_pattern,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -504,7 +513,8 @@ level: squadre
 > Jig∈N: «Accidenti, non abbiamo tempo di calcolare infiniti numeri!». Lupin/3 sogghigna. Qual è il codice?
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]]
+**Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]], [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 0900
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1KvUMoRfSg-kBSEEK_tFxTN_6Gw6YuSNH/view)
@@ -517,15 +527,15 @@ level: squadre
 
 > The Greatest Common Combination [⋆] Goemetrikon: "Here's the safe! The code that opens it is the greatest common divisor of all numbers of the form 1n + 2n + 3n + ·· + 999n, where n is a positive integer...". Jig ∈ N: "Damn, we don't have time to calculate infinitely many numbers!" Lupin/3 grins slyly. What's the code?
 
+
 **Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
-**Metodo:** [[method_congruenze|Modular arithmetic / congruences]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]], [[method_casework|Case analysis]]
+**Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]], [[skill_casework_accurato|Careful case analysis]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
-[[Quesiti/src_squadre_2023_semifinale1#q14|src_squadre_2023_semifinale1__Q14]]
 
 
-
-<span class="atom-split" id="q15" data-atom="q15" data-title="Quesito 15" data-tags="topic_geometria_piana,method_coordinate"></span>
+<span class="atom-split" id="q15" data-atom="q15" data-title="Quesito 15" data-tags="topic_geometria_piana,topic_geometria_analitica,method_coordinate,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -539,8 +549,9 @@ level: squadre
 > Zenonigata, del suo punto di partenza. Realizza che si trova (ancora) sulla circonferenza circoscritta a GJL; calcola
 > la distanza tra Lupin e Jig∈N e porta in salvo i suoi amici. Quanti metri misura la distanza tra Lupin e Jig∈N?
 
-**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_geometria_analitica|Geometria analitica]]
 **Metodo:** [[method_coordinate|Metodo delle coordinate]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 **Risposta:** 0101
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1KvUMoRfSg-kBSEEK_tFxTN_6Gw6YuSNH/view)
@@ -553,15 +564,15 @@ level: squadre
 
 > The Inspector's Leap Inspector Zenonigata is convinced that he will manage to catch all three thieves. He is at the centroid of triangle GJL formed by the three thieves. Goemetrikon and Jig∈N are 79 meters apart, while Goemetrikon and Lupin/3 are 119 meters apart. Goemetrikon leaps as only the samaterai know how, and lands at the point symmetric to his starting point with respect to Zenonigata. He realizes that he is (still) on the circumcircle of GJL; he calculates the distance between Lupin and Jig∈N and gets his friends to safety. How many meters is the distance between Lupin and Jig∈N?
 
-**Topic:** [[topic_geometria_piana|Plane geometry]]
+
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_geometria_analitica|Coordinate geometry]]
 **Metodo:** [[method_coordinate|Coordinate method]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
 **Area:** [[Geometria|Geometry]]
 
-[[Quesiti/src_squadre_2023_semifinale1#q15|src_squadre_2023_semifinale1__Q15]]
 
 
-
-<span class="atom-split" id="q16" data-atom="q16" data-title="Quesito 16" data-tags="topic_logica,method_invarianti"></span>
+<span class="atom-split" id="q16" data-atom="q16" data-title="Quesito 16" data-tags="topic_logica,method_invarianti,method_backward,skill_riconoscimento_pattern,skill_modellizzazione"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -586,7 +597,8 @@ level: squadre
 > Nr. Problema
 
 **Topic:** [[topic_logica|Logica, giochi, strategie]]
-**Metodo:** [[method_invarianti|Invarianti / monovarianti]]
+**Metodo:** [[method_invarianti|Invarianti / monovarianti]], [[method_backward|Ragionamento all'indietro]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 1225
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1KvUMoRfSg-kBSEEK_tFxTN_6Gw6YuSNH/view)
@@ -601,8 +613,8 @@ level: squadre
 >
 > Ministry of Education and Merit XXIV National Team Competition Semifinal 1 – Friday, 5 May 2023 Solutions No. Problem
 
-**Topic:** [[topic_logica|Logic, games and strategies]]
-**Metodo:** [[method_invarianti|Invariants / monovariants]]
-**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
-[[Quesiti/src_squadre_2023_semifinale1#q16|src_squadre_2023_semifinale1__Q16]]
+**Topic:** [[topic_logica|Logic, games and strategies]]
+**Metodo:** [[method_invarianti|Invariants / monovariants]], [[method_backward|Working backwards]]
+**Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]], [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]

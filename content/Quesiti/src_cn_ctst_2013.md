@@ -43,11 +43,9 @@ level: China National Team Selection Test
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 
-[[Quesiti/src_cn_ctst_2013#q01|src_cn_ctst_2013__Q01]]
 
 
-
-<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_combinatoria,method_estremalita,method_casework,skill_modellizzazione,skill_conteggio_sistematico,skill_ragionamento_geometrico"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_combinatoria,method_estremalita,method_casework,method_invarianti,skill_modellizzazione,skill_conteggio_sistematico,skill_ragionamento_geometrico"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -57,9 +55,9 @@ level: China National Team Selection Test
 > Suppose there are 101 persons seated around a round table. Each person possesses $k$ pieces of cards, $k = 1, 2, \ldots, 101$. We call it a transition if one person transits one of his cards to one of his adjacent persons. Find the minimum positive number $r$ such that there is no way of more than $r$ transitions so that each person possesses 51 cards. (posed by Qu Zhenhua)
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
-**Metodo:** [[method_estremalita|Estremalità]], [[method_casework|Casework]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_casework|Casework]], [[method_invarianti|Invariants / monovariants]]
 **Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
-**Area:** [[Combinatoria, Logica e Probabilita]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Risposta:** 42925
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1cjmD7lTT4vb3nB3ylcVCHeHucUE2rNI0/view)
 
@@ -71,12 +69,11 @@ level: China National Team Selection Test
 
 > Supponiamo che ci siano 101 persone sedute attorno a un tavolo rotondo. Ogni persona possiede $k$ pezzi di carte, $k = 1, 2, \ldots, 101$. Definiamo transizione il caso in cui una persona cede una delle proprie carte a una delle persone adiacenti. Determinare il minimo numero positivo $r$ tale che non esista alcun modo, con più di $r$ transizioni, di far sì che ogni persona possieda 51 carte. (proposto da Qu Zhenhua)
 
+
 **Topic:** [[topic_combinatoria|Combinatoria]]
-**Metodo:** [[method_estremalita|Estremalità]], [[method_casework|Casework]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_casework|Casework]], [[method_invarianti|Invarianti / monovarianti]]
 **Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
-
-[[Quesiti/src_cn_ctst_2013#q02|src_cn_ctst_2013__Q02]]
 
 
 
@@ -107,8 +104,6 @@ level: China National Team Selection Test
 **Metodo:** [[method_induzione|Induzione]], [[method_congruenze|Congruenze]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
-
-[[Quesiti/src_cn_ctst_2013#q04|src_cn_ctst_2013__Q04]]
 
 
 
@@ -143,5 +138,3 @@ level: China National Team Selection Test
 **Metodo:** [[method_disuguaglianze|Disuguaglianze]], [[method_casework|Casework]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]], [[skill_astrazione|Astrazione]]
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
-
-[[Quesiti/src_cn_ctst_2013#q05|src_cn_ctst_2013__Q05]]

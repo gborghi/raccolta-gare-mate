@@ -10,7 +10,7 @@ level: kangourou
 
 
 
-<span class="atom-split" id="qj1" data-atom="qj1" data-title="Quesito J1" data-tags="topic_aritmetica,topic_logica,skill_modellizzazione"></span>
+<span class="atom-split" id="qj1" data-atom="qj1" data-title="Quesito J1" data-tags="topic_aritmetica,topic_logica,method_congruenze,skill_modellizzazione,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -20,7 +20,8 @@ level: kangourou
 > Un parco circolare è circondato da un sentiero illuminato da lampioni. Simona e Tania hanno contato i lampioni, ma separatamente, partendo da punti diversi e muovendosi entrambe nello stesso verso. Quello che è stato il 20-esimo lampione per Simona è stato il 7-mo per Tania, quello che è stato il 7-mo per Simona è stato il 94-esimo per Tania. Quanti sono complessivamente i lampioni?
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_logica|Logica, giochi, strategie]]
-**Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
+**Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 100
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1yaW5s2uqbSzbhTrfez8BLdVGZTxAKedo/view)
@@ -33,15 +34,15 @@ level: kangourou
 
 > A circular park is surrounded by a path lit by street lamps. Simona and Tania counted the street lamps, but separately, starting from different points and both moving in the same direction. The lamp that was the 20th for Simona was the 7th for Tania; the lamp that was the 7th for Simona was the 94th for Tania. How many street lamps are there in total?
 
+
 **Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_logica|Logic, games and strategies]]
-**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
-[[Quesiti/src_kangourou_2025_junior_finale#qj1|src_kangourou_2025_junior_finale__QJ1]]
 
 
-
-<span class="atom-split" id="qj2" data-atom="qj2" data-title="Quesito J2" data-tags="topic_aritmetica,topic_geometria_piana,skill_casework_accurato"></span>
+<span class="atom-split" id="qj2" data-atom="qj2" data-title="Quesito J2" data-tags="topic_aritmetica,topic_geometria_piana,method_casework,skill_casework_accurato,skill_modellizzazione,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -51,7 +52,8 @@ level: kangourou
 > Un orto botanico rettangolare di dimensioni $52 \times 24$ metri è ripartito in appezzamenti quadrati tutti della stessa dimensione e tutti con i lati paralleli a quelli dell'orto. Internamente all'orto gli appezzamenti sono separati da reticolati; la lunghezza complessiva dei reticolati è $1172$ metri. Quanti sono gli appezzamenti quadrati?
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_geometria_piana|Geometria piana]]
-**Abilita:** [[skill_casework_accurato|Casework accurato]]
+**Metodo:** [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Geometria]]
 **Risposta:** 312
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1yaW5s2uqbSzbhTrfez8BLdVGZTxAKedo/view)
@@ -64,15 +66,15 @@ level: kangourou
 
 > A rectangular botanical garden measuring $52 \times 24$ meters is divided into square plots, all of the same size and all with sides parallel to those of the garden. Within the garden, the plots are separated by grids; the total length of the grids is $1172$ meters. How many square plots are there?
 
+
 **Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_geometria_piana|Plane geometry]]
-**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]], [[skill_modellizzazione|Modelling / translating the text]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Geometria|Geometry]]
 
-[[Quesiti/src_kangourou_2025_junior_finale#qj2|src_kangourou_2025_junior_finale__QJ2]]
 
 
-
-<span class="atom-split" id="qj3" data-atom="qj3" data-title="Quesito J3" data-tags="topic_aritmetica,method_fattorizzazione,skill_conteggio_sistematico"></span>
+<span class="atom-split" id="qj3" data-atom="qj3" data-title="Quesito J3" data-tags="topic_aritmetica,method_fattorizzazione,skill_conteggio_sistematico,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -83,7 +85,7 @@ level: kangourou
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
-**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 7
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1yaW5s2uqbSzbhTrfez8BLdVGZTxAKedo/view)
@@ -96,12 +98,11 @@ level: kangourou
 
 > In how many different ways can $270$ be obtained by adding consecutive positive integers?
 
+
 **Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
 **Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
-**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
-
-[[Quesiti/src_kangourou_2025_junior_finale#qj3|src_kangourou_2025_junior_finale__QJ3]]
 
 
 
@@ -112,7 +113,7 @@ level: kangourou
 
 *piu lungo del diametro?*
 
-![[src_kangourou_2025_junior_finale__probj4.png]]
+![[src_kangourou_2025_junior_finale__probJ4.png]]
 
 > Due punti sulla circonferenza di un cerchio $\Gamma$ sono estremi di un arco $\delta$ di un'altra circonferenza. L'arco $\delta$ ripartisce il cerchio $\Gamma$ in due regioni di uguale area. È necessariamente vero che $\delta$ è più lungo del diametro di $\Gamma$? (vedi figura)
 
@@ -128,7 +129,7 @@ level: kangourou
 
 *Longer than the diameter?*
 
-![[src_kangourou_2025_junior_finale__probj4.png]]
+![[src_kangourou_2025_junior_finale__probJ4.png]]
 
 > Two points on the circumference of a circle $\Gamma$ are the endpoints of an arc $\delta$ of another circle. The arc $\delta$ divides the circle $\Gamma$ into two regions of equal area. Is it necessarily true that $\delta$ is longer than the diameter of $\Gamma$? (see figure)
 
@@ -136,11 +137,9 @@ level: kangourou
 **Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
 **Area:** [[Geometria|Geometry]]
 
-[[Quesiti/src_kangourou_2025_junior_finale#qj4|src_kangourou_2025_junior_finale__QJ4]]
 
 
-
-<span class="atom-split" id="qj5" data-atom="qj5" data-title="Quesito J5" data-tags="topic_probabilita,topic_logica,skill_modellizzazione"></span>
+<span class="atom-split" id="qj5" data-atom="qj5" data-title="Quesito J5" data-tags="topic_probabilita,topic_logica,method_casework,skill_modellizzazione,skill_casework_accurato,skill_conteggio_sistematico"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -154,7 +153,8 @@ level: kangourou
 > b) Se entrambi possiamo scegliere il mazzo con cui giocare (e la scelta deve essere fatta prima di giocare), mi conviene essere il primo o il secondo a scegliere?
 
 **Topic:** [[topic_probabilita|Probabilita e statistica]], [[topic_logica|Logica, giochi, strategie]]
-**Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
+**Metodo:** [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_casework_accurato|Casework accurato]], [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** a)terzo b)secondo
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1yaW5s2uqbSzbhTrfez8BLdVGZTxAKedo/view)
@@ -171,15 +171,15 @@ level: kangourou
 >
 > b) If we can both choose the deck we'll play with (and the choice must be made before playing), is it better for me to be the first or the second to choose?
 
+
 **Topic:** [[topic_probabilita|Probability and statistics]], [[topic_logica|Logic, games and strategies]]
-**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]], [[skill_casework_accurato|Careful case analysis]], [[skill_conteggio_sistematico|Systematic counting]]
 **Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
-[[Quesiti/src_kangourou_2025_junior_finale#qj5|src_kangourou_2025_junior_finale__QJ5]]
 
 
-
-<span class="atom-split" id="qj6" data-atom="qj6" data-title="Quesito J6" data-tags="topic_aritmetica,method_congruenze,skill_astrazione"></span>
+<span class="atom-split" id="qj6" data-atom="qj6" data-title="Quesito J6" data-tags="topic_aritmetica,method_congruenze,skill_astrazione,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -190,7 +190,7 @@ level: kangourou
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]]
-**Abilita:** [[skill_astrazione|Astrazione / generalizzazione]]
+**Abilita:** [[skill_astrazione|Astrazione / generalizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** vera
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1yaW5s2uqbSzbhTrfez8BLdVGZTxAKedo/view)
@@ -203,9 +203,8 @@ level: kangourou
 
 > Prove or refute the following statement: "For every integer $n \geq 3$, there exist $n$ integers, all distinct from one another, such that each of them divides the sum of the remaining $n - 1$."
 
+
 **Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
 **Metodo:** [[method_congruenze|Modular arithmetic / congruences]]
-**Abilita:** [[skill_astrazione|Abstraction / generalisation]]
+**Abilita:** [[skill_astrazione|Abstraction / generalisation]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
-
-[[Quesiti/src_kangourou_2025_junior_finale#qj6|src_kangourou_2025_junior_finale__QJ6]]

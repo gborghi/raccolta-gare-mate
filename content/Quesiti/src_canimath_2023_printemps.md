@@ -10,7 +10,7 @@ level: Coupe Animath Printemps
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_aritmetica,topic_algebra,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_aritmetica,topic_algebra,method_fattorizzazione,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -23,8 +23,9 @@ level: Coupe Animath Printemps
 > *Only a numerical answer is expected here.*
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
-**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Algebra e Analisi|Algebra and analysis]]
 **Risposta:** 16
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1eRLJb5h8XDNRitiTWRDx9prYWiUdLWkr/view)
 
@@ -38,12 +39,15 @@ level: Coupe Animath Printemps
 > 
 > *Solo una risposta numerica è prevista qui.*
 
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta del testo]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 **Risposta:** 16
-[[Quesiti/src_canimath_2023_printemps#q01|src_canimath_2023_printemps__Q01]]
 
 
 
-<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_geometria_piana,skill_ragionamento_geometrico,skill_lettura_attenta"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_geometria_piana,method_trigonometria,skill_ragionamento_geometrico,skill_lettura_attenta"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -53,8 +57,9 @@ level: Coupe Animath Printemps
 > Let $ABC$ be a triangle satisfying $\widehat{CAB} = 20^\circ$. Let $D$ be the midpoint of the segment $[AB]$. Suppose that $\widehat{CDB} = 40^\circ$. What is the angle $\widehat{ABC}$?
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_trigonometria|Trigonometric techniques]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
-**Area:** [[Geometria]]
+**Area:** [[Geometria|Geometry]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1eRLJb5h8XDNRitiTWRDx9prYWiUdLWkr/view)
 
 
@@ -65,14 +70,14 @@ level: Coupe Animath Printemps
 
 > $ABC$ sia un triangolo soddisfacente $\widehat{CAB} = 20^\circ$. Il segmento $[AB]$ deve essere il punto medio di $D$. Supponiamo che $\widehat{CDB} = 40^\circ$. Qual è l'angolo $\widehat{ABC}$?
 
-[[Quesiti/src_canimath_2023_printemps#q02|src_canimath_2023_printemps__Q02]]
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_trigonometria|Tecniche trigonometriche]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta del testo]]
+**Area:** [[Geometria]]
 
 
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_combinatoria,method_estremalita,method_colorazione,method_casework,skill_conteggio_sistematico,skill_ragionamento_geometrico,skill_stima"></span>
-
-<div class="qlang-switch" data-default="en"></div>
-
 
 *In a 5x5 grid of 25 white cells, find the smallest number of cells to color red so that every 2x3 and 3x2 rectangle contains at least one red cell.*
 
@@ -80,7 +85,7 @@ level: Coupe Animath Printemps
 > 
 > *(Below, on the left a $5 \times 5$ grid where a $2 \times 3$ rectangle is hatched, on the right a $5 \times 5$ grid where a $3 \times 2$ rectangle is hatched.)*
 
-![[src_canimath_2023_printemps__q03.png]]
+![[src_canimath_2023_printemps__Q03.png]]
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_estremalita|Estremalità]], [[method_colorazione|Colorazione]], [[method_casework|Casework]]
@@ -89,8 +94,20 @@ level: Coupe Animath Printemps
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1eRLJb5h8XDNRitiTWRDx9prYWiUdLWkr/view)
 
 
-<div class="qlang-split" data-lang="it"></div>
 
+<span class="atom-split" id="q03__it" data-atom="q03__it" data-title="Q03__IT" data-tags=""></span>
+
+---
+tipo: quesito-translation
+translation_of: src_canimath_2023_printemps__Q03
+lang: it
+secondary: true
+title: "Coupe Animath Primavera 2023  Quesito 3"
+summary: "In una griglia 5x5 di 25 cellule bianche, trova il numero più piccolo di cellule da colorare in rosso in modo che ogni rettangolo 2x3 e 3x2 contenga almeno una cellula rossa."
+topics: [topic_combinatoria]
+methods: [method_estremalita, method_colorazione, method_casework]
+skills: [skill_conteggio_sistematico, skill_ragionamento_geometrico, skill_stima]
+tags: [kg/translation, topic/combinatoria]---
 
 *In una griglia 5x5 di 25 cellule bianche, trovare il numero più piccolo di cellule da colorare in rosso in modo che ogni rettangolo 2x3 e 3x2 contenga almeno una cellula rossa.*
 
@@ -98,16 +115,17 @@ level: Coupe Animath Printemps
 > 
 > Sotto, a sinistra, una griglia di $5 \times 5$ dove è inghiottito un rettangolo di $2 \times 3$, a destra una griglia di $5 \times 5$ dove è inghiottito un rettangolo di $3 \times 2$.)
 
-![[src_canimath_2023_printemps__q03.png]]
+![[src_canimath_2023_printemps__Q03.png]]
 
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_estremalita|Principio di estremalita]], [[method_colorazione|Colorazione / parita]], [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_stima|Stima e approssimazione]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
 [[Quesiti/src_canimath_2023_printemps#q03|src_canimath_2023_printemps__Q03]]
 
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_geometria_piana,method_simmetria,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
-
-<div class="qlang-switch" data-default="en"></div>
-
 
 *In a pentagon ABCDE with all sides equal, with angles BCD and CDE right angles and A not inside quadrilateral BCDE, P the intersection of lines (AC) and (BD); prove AP = PD.*
 
@@ -120,18 +138,34 @@ level: Coupe Animath Printemps
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1eRLJb5h8XDNRitiTWRDx9prYWiUdLWkr/view)
 
 
-<div class="qlang-split" data-lang="it"></div>
 
+<span class="atom-split" id="q04__it" data-atom="q04__it" data-title="Q04__IT" data-tags=""></span>
+
+---
+tipo: quesito-translation
+translation_of: src_canimath_2023_printemps__Q04
+lang: it
+secondary: true
+title: "Coupe Animath Primavera 2023  Quesito 4"
+summary: "In un pentagono ABCDE con tutti i lati uguali, con gli angoli BCD e CDE angoli rettangolari e A non all'interno quadrilaterale BCDE, P l'intersezione di linee (AC) e (BD); dimostrare AP = PD."
+topics: [topic_geometria_piana]
+methods: [method_simmetria]
+skills: [skill_ragionamento_geometrico, skill_manipolazione_algebrica]
+tags: [kg/translation, topic/geometria_piana]---
 
 *In un pentagono ABCDE con tutti i lati uguali, con angoli BCD e CDE angoli rettangolari e A non all'interno di BCDE quadrilaterale, P l'intersezione di linee (AC) e (BD); dimostrare AP = PD.*
 
 > Che $ABCDE$ sia un pentagono i cui lati hanno la stessa lunghezza, in modo tale che gli angoli $\widehat{BCD}$ e $\widehat{CDE}$ siano angoli rettangolari, e in modo tale che il punto $A$ non si trovi all'interno del quadrilaterale $BCDE$. Il punto di intersezione delle linee $(AC)$ e $(BD)$ è $P$. Mostra che $AP = PD$.
 
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_simmetria|Sfruttamento della simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
 [[Quesiti/src_canimath_2023_printemps#q04|src_canimath_2023_printemps__Q04]]
 
 
 
-<span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_algebra,topic_aritmetica,method_disuguaglianze,skill_manipolazione_algebrica,skill_modellizzazione"></span>
+<span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_algebra,topic_aritmetica,topic_disuguaglianze,method_disuguaglianze,skill_manipolazione_algebrica,skill_modellizzazione"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -140,10 +174,10 @@ level: Coupe Animath Printemps
 
 > Theo has received his grades for the trimester, which are all integers between $1$ and $5$ (inclusive). He notes that the average of his grades is less than or equal to $3$. Thus, so as not to be deprived of dessert for a week, he intends to replace, on his report, all his grades equal to $1$ by as many grades equal to $3$. Show that after this transformation, the average of the grades remains less than or equal to $4$.
 
-**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_disuguaglianze|Inequalities]]
 **Metodo:** [[method_disuguaglianze|Disuguaglianze]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]]
-**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1eRLJb5h8XDNRitiTWRDx9prYWiUdLWkr/view)
 
 
@@ -154,11 +188,14 @@ level: Coupe Animath Printemps
 
 > Theo ha ricevuto i suoi voti per il trimestre, che sono tutti numeri interi tra $1$ e $5$ (inclusivo). Egli osserva che la media dei suoi voti è inferiore o uguale a $3$. Per non essere privato di dessert per una settimana, intende quindi sostituire, nella sua relazione, tutti i suoi voti pari a $1$ con tanti voti pari a $3$. Mostrare che dopo questa trasformazione, la media delle classi rimane inferiore o uguale a $4$.
 
-[[Quesiti/src_canimath_2023_printemps#q05|src_canimath_2023_printemps__Q05]]
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_disuguaglianze|Disuguaglianze]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze classiche]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
+**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 
 
 
-<span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_aritmetica,topic_combinatoria,method_conteggio,method_casework,skill_conteggio_sistematico,skill_riconoscimento_pattern,skill_lettura_attenta"></span>
+<span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_aritmetica,topic_combinatoria,method_conteggio,method_casework,method_fattorizzazione,skill_conteggio_sistematico,skill_riconoscimento_pattern,skill_lettura_attenta,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -174,9 +211,9 @@ level: Coupe Animath Printemps
 > b) Does there exist an integer $n \geqslant 2$ such that $s(n) = 2023$?
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
-**Metodo:** [[method_conteggio|Conteggio]], [[method_casework|Casework]]
-**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_lettura_attenta|Lettura attenta]]
-**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+**Metodo:** [[method_conteggio|Conteggio]], [[method_casework|Casework]], [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_lettura_attenta|Lettura attenta]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1eRLJb5h8XDNRitiTWRDx9prYWiUdLWkr/view)
 
 
@@ -193,14 +230,14 @@ level: Coupe Animath Printemps
 > 
 > b) Esiste un numero intero $n \geqslant 2$ tale da $s(n) = 2023$?
 
-[[Quesiti/src_canimath_2023_printemps#q06|src_canimath_2023_printemps__Q06]]
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_conteggio|Conteggio combinatorio]], [[method_casework|Analisi per casi]], [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_lettura_attenta|Lettura attenta del testo]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 
 
 
 <span class="atom-split" id="q07" data-atom="q07" data-title="Quesito 7" data-tags="topic_combinatoria,method_estremalita,method_casework,skill_conteggio_sistematico,skill_ragionamento_geometrico,skill_stima"></span>
-
-<div class="qlang-switch" data-default="en"></div>
-
 
 *In a 10x10 grid with rows numbered 1 (top) to 10 (bottom) and columns 1 (left) to 10 (right), Martin colors cells so that each colored cell c has at most one other colored cell with both column number and row number greater than or equal to those of c; find the maximum number of colored cells.*
 
@@ -215,8 +252,20 @@ level: Coupe Animath Printemps
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1eRLJb5h8XDNRitiTWRDx9prYWiUdLWkr/view)
 
 
-<div class="qlang-split" data-lang="it"></div>
 
+<span class="atom-split" id="q07__it" data-atom="q07__it" data-title="Q07__IT" data-tags=""></span>
+
+---
+tipo: quesito-translation
+translation_of: src_canimath_2023_printemps__Q07
+lang: it
+secondary: true
+title: "Coupe Animath Primavera 2023  Quesito 7"
+summary: "In una griglia 10x10 con righe numerate da 1 (alto) a 10 (infine) e colonne da 1 (sinistra) a 10 (destra), Martin colora le celle in modo che ogni cella colorata abbia al massimo un'altra cella colorata con numero di colonna e numero di righe maggiore o uguale a quelli di c; trovare il numero massimo di celle colorate."
+topics: [topic_combinatoria]
+methods: [method_estremalita, method_casework]
+skills: [skill_conteggio_sistematico, skill_ragionamento_geometrico, skill_stima]
+tags: [kg/translation, topic/combinatoria]---
 
 *In una griglia 10x10 con righe numerate da 1 (alto) a 10 (infine) e colonne da 1 (sinistra) a 10 (destra), Martin colora le celle in modo che ogni cella colorata abbia al massimo un'altra cella colorata con numero di colonna e numero di righe maggiore o uguale a quelli di c; trovare il numero massimo di celle colorate.*
 
@@ -224,14 +273,15 @@ level: Coupe Animath Printemps
 > 
 > Qual è il numero massimo di cellule che Martin può colorare?
 
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_estremalita|Principio di estremalita]], [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_stima|Stima e approssimazione]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
 [[Quesiti/src_canimath_2023_printemps#q07|src_canimath_2023_printemps__Q07]]
 
 
 
 <span class="atom-split" id="q08" data-atom="q08" data-title="Quesito 8" data-tags="topic_aritmetica,method_casework,method_conteggio,skill_conteggio_sistematico,skill_lettura_attenta"></span>
-
-<div class="qlang-switch" data-default="en"></div>
-
 
 *Count the integers n such that n/3 and 3n are both integers between 1 and 1000 inclusive.*
 
@@ -247,8 +297,20 @@ level: Coupe Animath Printemps
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1eRLJb5h8XDNRitiTWRDx9prYWiUdLWkr/view)
 
 
-<div class="qlang-split" data-lang="it"></div>
 
+<span class="atom-split" id="q08__it" data-atom="q08__it" data-title="Q08__IT" data-tags=""></span>
+
+---
+tipo: quesito-translation
+translation_of: src_canimath_2023_printemps__Q08
+lang: it
+secondary: true
+title: "Coupe Animath Primavera 2023  Quesito 8"
+summary: "Conteggi i numeri interi n in modo tale che n/3 e 3n siano entrambe numeri interi tra 1 e 1000 inclusi."
+topics: [topic_aritmetica]
+methods: [method_casework, method_conteggio]
+skills: [skill_conteggio_sistematico, skill_lettura_attenta]
+tags: [kg/translation, topic/aritmetica]---
 
 *Conta i numeri interi n in modo tale che n/3 e 3n siano entrambi numeri interi tra 1 e 1000 inclusi.*
 
@@ -256,12 +318,16 @@ level: Coupe Animath Printemps
 > 
 > *Solo una risposta numerica è prevista qui.*
 
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Analisi per casi]], [[method_conteggio|Conteggio combinatorio]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta del testo]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 111
 [[Quesiti/src_canimath_2023_printemps#q08|src_canimath_2023_printemps__Q08]]
 
 
 
-<span class="atom-split" id="q09" data-atom="q09" data-title="Quesito 9" data-tags="topic_geometria_piana,skill_ragionamento_geometrico,skill_lettura_attenta"></span>
+<span class="atom-split" id="q09" data-atom="q09" data-title="Quesito 9" data-tags="topic_geometria_piana,method_trigonometria,skill_ragionamento_geometrico,skill_lettura_attenta"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -271,8 +337,9 @@ level: Coupe Animath Printemps
 > Let $ABC$ be a triangle satisfying $\widehat{CAB} = 20^\circ$. Let $D$ be the midpoint of the segment $[AB]$. Suppose that $\widehat{CDB} = 40^\circ$. What is the angle $\widehat{ABC}$?
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_trigonometria|Trigonometric techniques]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
-**Area:** [[Geometria]]
+**Area:** [[Geometria|Geometry]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1eRLJb5h8XDNRitiTWRDx9prYWiUdLWkr/view)
 
 
@@ -283,11 +350,14 @@ level: Coupe Animath Printemps
 
 > $ABC$ sia un triangolo soddisfacente $\widehat{CAB} = 20^\circ$. Il segmento $[AB]$ deve essere il punto medio di $D$. Supponiamo che $\widehat{CDB} = 40^\circ$. Qual è l'angolo $\widehat{ABC}$?
 
-[[Quesiti/src_canimath_2023_printemps#q09|src_canimath_2023_printemps__Q09]]
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_trigonometria|Tecniche trigonometriche]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta del testo]]
+**Area:** [[Geometria]]
 
 
 
-<span class="atom-split" id="q10" data-atom="q10" data-title="Quesito 10" data-tags="topic_aritmetica,topic_combinatoria,method_estremalita,method_conteggio,skill_conteggio_sistematico,skill_manipolazione_algebrica,skill_stima"></span>
+<span class="atom-split" id="q10" data-atom="q10" data-title="Quesito 10" data-tags="topic_aritmetica,topic_combinatoria,method_estremalita,method_conteggio,method_casework,skill_conteggio_sistematico,skill_manipolazione_algebrica,skill_stima"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -300,9 +370,9 @@ level: Coupe Animath Printemps
 > Antoine wants to have as many fractions with integer values as possible among the fractions he writes: in the example above, it can be seen that he wrote three fractions with integer values, namely $\frac{10}{2} = 5$, $\frac{15}{5} = 3$ and $\frac{20}{1} = 20$. What is the maximum number of fractions that can have integer values?
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
-**Metodo:** [[method_estremalita|Estremalità]], [[method_conteggio|Conteggio]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_conteggio|Conteggio]], [[method_casework|Case analysis]]
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]]
-**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1eRLJb5h8XDNRitiTWRDx9prYWiUdLWkr/view)
 
 
@@ -315,11 +385,14 @@ Usando i numeri da 1 a 22 esattamente una volta ciascuno come numeratori e denom
 > 
 > Antoine vuole avere il maggior numero possibile di frazioni con valori interi tra le frazioni che scrive: nell'esempio sopra, si può vedere che ha scritto tre frazioni con valori interi, vale a dire $\frac{10}{2} = 5$, $\frac{15}{5} = 3$ e $\frac{20}{1} = 20$. Qual è il numero massimo di frazioni che possono avere valori interi?
 
-[[Quesiti/src_canimath_2023_printemps#q10|src_canimath_2023_printemps__Q10]]
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_estremalita|Principio di estremalita]], [[method_conteggio|Conteggio combinatorio]], [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima e approssimazione]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 
 
 
-<span class="atom-split" id="q11" data-atom="q11" data-title="Quesito 11" data-tags="topic_combinatoria,topic_aritmetica,method_cassetti,method_conteggio,skill_modellizzazione,skill_conteggio_sistematico,skill_stima"></span>
+<span class="atom-split" id="q11" data-atom="q11" data-title="Quesito 11" data-tags="topic_combinatoria,topic_aritmetica,method_cassetti,method_conteggio,method_estremalita,skill_modellizzazione,skill_conteggio_sistematico,skill_stima"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -329,9 +402,9 @@ Usando i numeri da 1 a 22 esattamente una volta ciascuno come numeratori e denom
 > Let $a_1, \ldots, a_{100}$ be $100$ distinct integers such that $1 \leqslant a_1 < a_2 < \cdots < a_{100} \leqslant 400$. For every integer $i$ such that $1 \leqslant i \leqslant 99$, set $d_i = a_{i+1} - a_i$. Show that at least $15$ of the numbers among $d_1, d_2, \ldots, d_{99}$ are equal to one another.
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_cassetti|Principio dei cassetti]], [[method_conteggio|Conteggio]]
+**Metodo:** [[method_cassetti|Principio dei cassetti]], [[method_conteggio|Conteggio]], [[method_estremalita|Extremal principle]]
 **Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_stima|Stima]]
-**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1eRLJb5h8XDNRitiTWRDx9prYWiUdLWkr/view)
 
 
@@ -342,14 +415,14 @@ Usando i numeri da 1 a 22 esattamente una volta ciascuno come numeratori e denom
 
 > $a_1, \ldots, a_{100}$ siano $100$ numeri interi distinti come $1 \leqslant a_1 < a_2 < \cdots < a_{100} \leqslant 400$. Per ogni numero intero $i$ tale da $1 \leqslant i \leqslant 99$, impostare $d_i = a_{i+1} - a_i$. Mostrare che almeno $15$ dei numeri tra $d_1, d_2, \ldots, d_{99}$ sono uguali l'uno all'altro.
 
-[[Quesiti/src_canimath_2023_printemps#q11|src_canimath_2023_printemps__Q11]]
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_cassetti|Principio dei cassetti]], [[method_conteggio|Conteggio combinatorio]], [[method_estremalita|Principio di estremalita]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_stima|Stima e approssimazione]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 
 
 
 <span class="atom-split" id="q12" data-atom="q12" data-title="Quesito 12" data-tags="topic_geometria_piana,topic_geometria_analitica,method_coordinate,method_simmetria,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
-
-<div class="qlang-switch" data-default="en"></div>
-
 
 *In a rhombus ABCD with E the intersection of the diagonals, F the midpoint of [BE], G the midpoint of [AD], I the intersection of (FG) and (AC), and K the reflection of A across I; find EK/EA.*
 
@@ -362,21 +435,34 @@ Usando i numeri da 1 a 22 esattamente una volta ciascuno come numeratori e denom
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1eRLJb5h8XDNRitiTWRDx9prYWiUdLWkr/view)
 
 
-<div class="qlang-split" data-lang="it"></div>
 
+<span class="atom-split" id="q12__it" data-atom="q12__it" data-title="Q12__IT" data-tags=""></span>
+
+---
+tipo: quesito-translation
+translation_of: src_canimath_2023_printemps__Q12
+lang: it
+secondary: true
+title: "Coupe Animath Primavera 2023  Quesito 12"
+summary: "In un rombo ABCD con E l'intersezione delle diagonali, F il punto medio di [BE], G il punto medio di [AD], I l'intersezione di (FG) e (AC), e K il riflesso di A su I; trovare EK/EA."
+topics: [topic_geometria_piana, topic_geometria_analitica]
+methods: [method_coordinate, method_simmetria]
+skills: [skill_ragionamento_geometrico, skill_manipolazione_algebrica]
+tags: [kg/translation, topic/geometria_piana, topic/geometria_analitica]---
 
 *In un rombo ABCD con E l'intersezione dei diagonali, F il punto medio di [BE], G il punto medio di [AD], I l'intersezione di (FG) e (AC), e K il riflesso di A attraverso I; trovare EK/EA.*
 
 > Che $ABCD$ sia un rombo e che $E$ sia il punto di intersezione delle diagonali. Il segmento $F$ è il punto medio del segmento $[BE]$ e il segmento $G$ è il punto medio del segmento $[AD]$. Il $I$ è il punto di intersezione delle linee $(FG)$ e $(AC)$, e il $K$ è il punto simmetrico di $A$ rispetto al punto $I$. Qual è il valore di $\dfrac{EK}{EA}$?
 
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_geometria_analitica|Geometria analitica]]
+**Metodo:** [[method_coordinate|Metodo delle coordinate]], [[method_simmetria|Sfruttamento della simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
 [[Quesiti/src_canimath_2023_printemps#q12|src_canimath_2023_printemps__Q12]]
 
 
 
 <span class="atom-split" id="q13" data-atom="q13" data-title="Quesito 13" data-tags="topic_combinatoria,method_estremalita,method_casework,skill_conteggio_sistematico,skill_ragionamento_geometrico,skill_stima"></span>
-
-<div class="qlang-switch" data-default="en"></div>
-
 
 *In a 10x10 grid with rows numbered 1 (top) to 10 (bottom) and columns 1 (left) to 10 (right), Martin colors cells so that each colored cell c has at most one other colored cell with both column number and row number greater than or equal to those of c; find the maximum number of colored cells.*
 
@@ -391,8 +477,20 @@ Usando i numeri da 1 a 22 esattamente una volta ciascuno come numeratori e denom
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1eRLJb5h8XDNRitiTWRDx9prYWiUdLWkr/view)
 
 
-<div class="qlang-split" data-lang="it"></div>
 
+<span class="atom-split" id="q13__it" data-atom="q13__it" data-title="Q13__IT" data-tags=""></span>
+
+---
+tipo: quesito-translation
+translation_of: src_canimath_2023_printemps__Q13
+lang: it
+secondary: true
+title: "Coupe Animath Primavera 2023  Quesito 13"
+summary: "In una griglia 10x10 con righe numerate da 1 (alto) a 10 (infine) e colonne da 1 (sinistra) a 10 (destra), Martin colora le celle in modo che ogni cella colorata abbia al massimo un'altra cella colorata con numero di colonna e numero di righe maggiore o uguale a quelli di c; trovare il numero massimo di celle colorate."
+topics: [topic_combinatoria]
+methods: [method_estremalita, method_casework]
+skills: [skill_conteggio_sistematico, skill_ragionamento_geometrico, skill_stima]
+tags: [kg/translation, topic/combinatoria]---
 
 *In una griglia 10x10 con righe numerate da 1 (alto) a 10 (infine) e colonne da 1 (sinistra) a 10 (destra), Martin colora le celle in modo che ogni cella colorata abbia al massimo un'altra cella colorata con numero di colonna e numero di righe maggiore o uguale a quelli di c; trovare il numero massimo di celle colorate.*
 
@@ -400,11 +498,15 @@ Usando i numeri da 1 a 22 esattamente una volta ciascuno come numeratori e denom
 > 
 > Qual è il numero massimo di cellule che Martin può colorare?
 
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_estremalita|Principio di estremalita]], [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_stima|Stima e approssimazione]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
 [[Quesiti/src_canimath_2023_printemps#q13|src_canimath_2023_printemps__Q13]]
 
 
 
-<span class="atom-split" id="q14" data-atom="q14" data-title="Quesito 14" data-tags="topic_algebra,topic_insiemi_funzioni,method_casework,method_simmetria,skill_modellizzazione,skill_manipolazione_algebrica,skill_astrazione"></span>
+<span class="atom-split" id="q14" data-atom="q14" data-title="Quesito 14" data-tags="topic_algebra,topic_insiemi_funzioni,method_casework,method_simmetria,method_fattorizzazione,skill_modellizzazione,skill_manipolazione_algebrica,skill_astrazione"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -420,9 +522,9 @@ Usando i numeri da 1 a 22 esattamente una volta ciascuno come numeratori e denom
 > For which values of $n$ can Aline realize her wish?
 
 **Topic:** [[topic_algebra|Algebra]], [[topic_insiemi_funzioni|Insiemi e funzioni]]
-**Metodo:** [[method_casework|Casework]], [[method_simmetria|Simmetria]]
+**Metodo:** [[method_casework|Casework]], [[method_simmetria|Simmetria]], [[method_fattorizzazione|Factorisation / algebraic manipulation]]
 **Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]]
-**Area:** [[Algebra e Analisi]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1eRLJb5h8XDNRitiTWRDx9prYWiUdLWkr/view)
 
 
@@ -439,14 +541,14 @@ Per quali integri positivi n Aline può scrivere 2n numeri reali, non tutti ugua
 > 
 > Per quali valori di $n$ Aline può realizzare il suo desiderio?
 
-[[Quesiti/src_canimath_2023_printemps#q14|src_canimath_2023_printemps__Q14]]
+**Topic:** [[topic_algebra|Algebra]], [[topic_insiemi_funzioni|Insiemi e funzioni]]
+**Metodo:** [[method_casework|Analisi per casi]], [[method_simmetria|Sfruttamento della simmetria]], [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione / generalizzazione]]
+**Area:** [[Algebra e Analisi]]
 
 
 
 <span class="atom-split" id="q15" data-atom="q15" data-title="Quesito 15" data-tags="topic_combinatoria,topic_aritmetica,method_induzione,method_casework,method_estremalita,skill_modellizzazione,skill_astrazione,skill_conteggio_sistematico"></span>
-
-<div class="qlang-switch" data-default="en"></div>
-
 
 *For a fixed integer n>=2, a positive integer S is 'special' if for every k and every ordered decomposition of n into k positive parts n_1<=...<=n_k there exist integers 0<=a_1<a_2<...<a_k with sum a_i n_i = S; show n^2-2n is not special and find all special numbers.*
 
@@ -466,8 +568,20 @@ Per quali integri positivi n Aline può scrivere 2n numeri reali, non tutti ugua
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1eRLJb5h8XDNRitiTWRDx9prYWiUdLWkr/view)
 
 
-<div class="qlang-split" data-lang="it"></div>
 
+<span class="atom-split" id="q15__it" data-atom="q15__it" data-title="Q15__IT" data-tags=""></span>
+
+---
+tipo: quesito-translation
+translation_of: src_canimath_2023_printemps__Q15
+lang: it
+secondary: true
+title: "Coupe Animath Primavera 2023  Quesito 15"
+summary: "Per un intero fisso n>=2, un intero positivo S è 'speciale' se per ogni k e ogni decomposizione ordinata di n in parti positive n_1<=...<=n_k esistono interi 0<=a_1<a_2<...<a_k con somma a_i n_i = S; mostra n^2-2n non è speciale e trova tutti i numeri speciali."
+topics: [topic_combinatoria, topic_aritmetica]
+methods: [method_induzione, method_casework, method_estremalita]
+skills: [skill_modellizzazione, skill_astrazione, skill_conteggio_sistematico]
+tags: [kg/translation, topic/combinatoria, topic/aritmetica]---
 
 *Per un intero fisso n>=2, un intero positivo S è 'speciale' se per ogni k e ogni decomposizione ordinata di n in parti positive n_1<=...<=n_k esistono interi 0<=a_1<a_2<...<a_k con somma a_i n_i = S; mostra n^2-2n non è speciale e trova tutti i numeri speciali.*
 
@@ -477,4 +591,8 @@ Per quali integri positivi n Aline può scrivere 2n numeri reali, non tutti ugua
 > 
 > b) Trova tutti i numeri speciali.
 
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_induzione|Induzione]], [[method_casework|Analisi per casi]], [[method_estremalita|Principio di estremalita]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_astrazione|Astrazione / generalizzazione]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 [[Quesiti/src_canimath_2023_printemps#q15|src_canimath_2023_printemps__Q15]]

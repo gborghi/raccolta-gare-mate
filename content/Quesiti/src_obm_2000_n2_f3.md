@@ -19,7 +19,7 @@ level: OBM Nível 2
 
 > Paulo has three common identical dice, on which the sum of the numbers on two opposite faces is always equal to $7$. He glues the dice together so that each pair of glued faces shows the same number, and then places them on a non-transparent table, as the figure indicates. The sum of the numbers on all eleven visible faces is $36$. What is the sum of the numbers on the three faces that are in contact with the table?
 
-![[src_obm_2000_n2_f3__q01.png]]
+![[src_obm_2000_n2_f3__Q01.png]]
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_geometria_solida|Geometria solida]]
 **Metodo:** [[method_conteggio|Conteggio]]
@@ -36,14 +36,12 @@ level: OBM Nível 2
 
 > Paulo ha tre dadi comuni identici, sui quali la somma dei numeri presenti su due facce opposte è sempre uguale a $7$. Incolla i dadi in modo che ogni coppia di facce incollate mostri lo stesso numero, e poi li posiziona su un tavolo opaco, come indicato nella figura. La somma dei numeri presenti su tutte le undici facce visibili è $36$. Qual è la somma dei numeri presenti sulle tre facce a contatto con il tavolo?
 
-![[src_obm_2000_n2_f3__q01.png]]
+![[src_obm_2000_n2_f3__Q01.png]]
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_geometria_solida|Geometria solida]]
 **Metodo:** [[method_conteggio|Conteggio]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Geometria]]
-
-[[Quesiti/src_obm_2000_n2_f3#q01|src_obm_2000_n2_f3__Q01]]
 
 
 
@@ -75,8 +73,6 @@ level: OBM Nível 2
 **Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 
-[[Quesiti/src_obm_2000_n2_f3#q02|src_obm_2000_n2_f3__Q02]]
-
 
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_geometria_piana,method_simmetria,skill_ragionamento_geometrico,skill_lettura_attenta,skill_manipolazione_algebrica"></span>
@@ -92,7 +88,7 @@ level: OBM Nível 2
 > 
 > Show that the lines $AA'$ and $AB'$ divide the angle $\alpha$ into three equal parts.
 
-![[src_obm_2000_n2_f3__q03.png]]
+![[src_obm_2000_n2_f3__Q03.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_simmetria|Simmetria]]
@@ -112,14 +108,12 @@ level: OBM Nível 2
 >
 > Dimostrare che le rette $AA'$ e $AB'$ dividono l'angolo $\alpha$ in tre parti uguali.
 
-![[src_obm_2000_n2_f3__q03.png]]
+![[src_obm_2000_n2_f3__Q03.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_simmetria|Simmetria]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
-
-[[Quesiti/src_obm_2000_n2_f3#q03|src_obm_2000_n2_f3__Q03]]
 
 
 
@@ -151,5 +145,3 @@ level: OBM Nível 2
 **Metodo:** [[method_congruenze|Congruenze]], [[method_casework|Casework]]
 **Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
-
-[[Quesiti/src_obm_2000_n2_f3#q04|src_obm_2000_n2_f3__Q04]]

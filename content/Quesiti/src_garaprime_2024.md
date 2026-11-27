@@ -57,8 +57,6 @@ level: Classi Prime
 **Abilita:** [[skill_casework_accurato|Careful case analysis]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Geometria|Geometry]]
 
-[[Quesiti/src_garaprime_2024#q01|src_garaprime_2024__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_logica,method_casework,skill_casework_accurato"></span>
@@ -115,11 +113,9 @@ level: Classi Prime
 **Abilita:** [[skill_casework_accurato|Careful case analysis]]
 **Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
-[[Quesiti/src_garaprime_2024#q02|src_garaprime_2024__Q02]]
 
 
-
-<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_aritmetica,method_casework,skill_conteggio_sistematico"></span>
+<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_aritmetica,method_casework,method_congruenze,skill_conteggio_sistematico,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -144,8 +140,8 @@ level: Classi Prime
 > 12, 24, 54, 64, 66, 76, 78, 90, vale a dire 8 valori.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_casework|Analisi per casi]]
-**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Metodo:** [[method_casework|Analisi per casi]], [[method_congruenze|Aritmetica modulare / congruenze]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** E
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1GMbSFjPn4wnEPsDmOptYV3Nj4Lj5RZsp/view)
@@ -164,16 +160,15 @@ level: Classi Prime
 > E) 8 
 > The correct answer is E. Let us denote the five numbers by 𝑥−2, 𝑥−1, 𝑥, 𝑥+1, 𝑥+2, with 𝑥>2 and 𝑥<98. The mean is (𝑥−2)+(𝑥−1)+𝑥+(𝑥+1)+(𝑥+2)/5 = 5𝑥/5 = 𝑥, so 𝑥 must be even. It is easy to verify that the only values that 𝑥 can take and that allow the product to be a multiple of both 11 and 13 are 𝑥=12, 24, 54, 64, 66, 76, 78, 90—that is, 8 values.
 
+
 **Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
-**Metodo:** [[method_casework|Case analysis]]
-**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Metodo:** [[method_casework|Case analysis]], [[method_congruenze|Modular arithmetic / congruences]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
-[[Quesiti/src_garaprime_2024#q03|src_garaprime_2024__Q03]]
 
 
-
-<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_geometria_piana,topic_algebra,skill_manipolazione_algebrica"></span>
+<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_geometria_piana,topic_algebra,method_casework,skill_manipolazione_algebrica,skill_ragionamento_geometrico"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -201,8 +196,9 @@ level: Classi Prime
 > 120° = 168° < 180°, quindi 𝑛= 5 va bene ed è la soluzione.
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_algebra|Algebra]]
-**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
-**Area:** [[Algebra e Analisi]], [[Geometria]]
+**Metodo:** [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Geometria]], [[Algebra e Analisi]]
 **Risposta:** A
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1GMbSFjPn4wnEPsDmOptYV3Nj4Lj5RZsp/view)
 
@@ -220,11 +216,11 @@ level: Classi Prime
 > E) 8 
 > The correct answer is A. Let x > 0 be the measure, in degrees, of the smallest angle, so that the other angles measure, in order, x + 30°, x + 60°, x + 90°, x + 120°, and x + 150°. It is certainly impossible to go any further, since already x + 180° > 180° and the polygon would no longer be convex. So for now we rule out n > 6. It is observed that with n = 6 it is impossible to construct a polygon that also satisfies the condition on the sum of the angles, S = (6 − 2) · 180° = 720°. Indeed, x + (x + 30°) + (x + 60°) + (x + 90°) + (x + 120°) + (x + 150°) = 6x + 450° = 720°, whence x = 45°. However, in this case the last angle measures 45° + 150° = 195° > 180°, so n = 6 does not work. Trying n = 5 gives 5x + 300° = 540°, whence x = 48°, and the largest angle is 48° + 120° = 168° < 180°; therefore n = 5 works and is the solution.
 
-**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_algebra|Algebra]]
-**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
-**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Geometria|Geometry]]
 
-[[Quesiti/src_garaprime_2024#q04|src_garaprime_2024__Q04]]
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]], [[Algebra e Analisi|Algebra and analysis]]
 
 
 
@@ -279,11 +275,9 @@ level: Classi Prime
 **Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
 **Area:** [[Geometria|Geometry]]
 
-[[Quesiti/src_garaprime_2024#q05|src_garaprime_2024__Q05]]
 
 
-
-<span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_geometria_piana,skill_ragionamento_geometrico"></span>
+<span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_geometria_piana,method_trigonometria,skill_ragionamento_geometrico"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -329,6 +323,7 @@ level: Classi Prime
 > 30°, è uguale a metà ipotenusa, vale a dire 15 cm.
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_trigonometria|Tecniche trigonometriche]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]]
 **Risposta:** B
@@ -373,11 +368,11 @@ level: Classi Prime
 >
 > The correct answer is B. Consider triangle APC. It is isosceles with base AC because, by hypothesis, ∠A = 30°, ∠APC = 180° − 60° = 120°, and therefore ∠ACP = 30°. Triangle BPC is half of an equilateral triangle, with PC = 30 cm, and PB, being the side opposite ∠BCP = 30°, is equal to half the hypotenuse, that is, 15 cm.
 
+
 **Topic:** [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_trigonometria|Trigonometric techniques]]
 **Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
 **Area:** [[Geometria|Geometry]]
-
-[[Quesiti/src_garaprime_2024#q06|src_garaprime_2024__Q06]]
 
 
 
@@ -433,8 +428,6 @@ level: Classi Prime
 **Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
 **Area:** [[Geometria|Geometry]]
 
-[[Quesiti/src_garaprime_2024#q07|src_garaprime_2024__Q07]]
-
 
 
 <span class="atom-split" id="q08" data-atom="q08" data-title="Quesito 8" data-tags="topic_aritmetica,method_congruenze,skill_riconoscimento_pattern"></span>
@@ -480,11 +473,9 @@ level: Classi Prime
 **Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
-[[Quesiti/src_garaprime_2024#q08|src_garaprime_2024__Q08]]
 
 
-
-<span class="atom-split" id="q09" data-atom="q09" data-title="Quesito 9" data-tags="topic_geometria_piana,skill_ragionamento_geometrico"></span>
+<span class="atom-split" id="q09" data-atom="q09" data-title="Quesito 9" data-tags="topic_geometria_piana,method_simmetria,skill_ragionamento_geometrico"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -514,6 +505,7 @@ level: Classi Prime
 > lunghi e sei lati corti dei rettangoli, è lungo tre volte il perimetro di un rettangolo, vale a dire 20 ∙3 = 60 m.
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_simmetria|Sfruttamento della simmetria]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]]
 **Risposta:** A
@@ -535,15 +527,15 @@ level: Classi Prime
 > E) 115 2
 > The correct answer is A. Since the hexagon is regular, each interior angle measures (6−2)·180°/6 = 120°. Consequently, in each triangle, the angle at the vertex shared with a vertex of the hexagon is 360° − 2·90° − 120° = 60°. Moreover, since all the rectangles are congruent, the triangles have sides that coincide with the sides of the congruent rectangles and are therefore equilateral triangles. It follows that the perimeter of the dodecagon—which consists of six long sides and six short sides of the rectangles—is three times the perimeter of one rectangle, namely 20·3 = 60 m.
 
+
 **Topic:** [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_simmetria|Using symmetry]]
 **Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
 **Area:** [[Geometria|Geometry]]
 
-[[Quesiti/src_garaprime_2024#q09|src_garaprime_2024__Q09]]
 
 
-
-<span class="atom-split" id="q10" data-atom="q10" data-title="Quesito 10" data-tags="topic_combinatoria,skill_conteggio_sistematico"></span>
+<span class="atom-split" id="q10" data-atom="q10" data-title="Quesito 10" data-tags="topic_combinatoria,method_estremalita,skill_conteggio_sistematico"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -570,6 +562,7 @@ level: Classi Prime
 > 66.
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_estremalita|Principio di estremalita]]
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** C
@@ -591,15 +584,15 @@ level: Classi Prime
 >
 > The correct answer is C. No coins may be placed in the first pocket; 1 coin in the second pocket; 2 coins in the third pocket; 3 coins in the fourth pocket; and so on, up to the twelfth pocket, where 11 coins may be placed. It follows that the minimum number of coins possessed must be equal to 1 + 2 + 3 + ⋯ + 11 = 11·12/2 = 66.
 
+
 **Topic:** [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_estremalita|Extremal principle]]
 **Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
 **Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
-[[Quesiti/src_garaprime_2024#q10|src_garaprime_2024__Q10]]
 
 
-
-<span class="atom-split" id="q11" data-atom="q11" data-title="Quesito 11" data-tags="topic_geometria_piana,topic_algebra,skill_manipolazione_algebrica"></span>
+<span class="atom-split" id="q11" data-atom="q11" data-title="Quesito 11" data-tags="topic_geometria_piana,topic_algebra,skill_manipolazione_algebrica,skill_ragionamento_geometrico,skill_modellizzazione"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -638,8 +631,8 @@ level: Classi Prime
 > −4 ∙3 ∙8] = 480 cm2.
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_algebra|Algebra]]
-**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
-**Area:** [[Algebra e Analisi]], [[Geometria]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
+**Area:** [[Geometria]], [[Algebra e Analisi]]
 **Risposta:** A
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1GMbSFjPn4wnEPsDmOptYV3Nj4Lj5RZsp/view)
 
@@ -660,15 +653,14 @@ level: Classi Prime
 > E) There is more than one solution
 > The correct answer is A. Let 𝑎 and 𝑏 be the lengths, in cm, of the long side and the short side, respectively, of the small rectangles subtracted from the square. The perimeter of the figure on the left is the perimeter of the square plus 8𝑎, from which 𝑎 = (160−96)/8 = 8. Similarly, the perimeter of the figure on the right is the perimeter of the square plus 4𝑏, from which 𝑏 = (108−96)/4 = 3. Finally, the area in question is [(96/4)² − 4 ∙ 3 ∙ 8] = 480 cm².
 
+
 **Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_algebra|Algebra]]
-**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
-**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Geometria|Geometry]]
-
-[[Quesiti/src_garaprime_2024#q11|src_garaprime_2024__Q11]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Geometria|Geometry]], [[Algebra e Analisi|Algebra and analysis]]
 
 
 
-<span class="atom-split" id="q12" data-atom="q12" data-title="Quesito 12" data-tags="topic_algebra,skill_manipolazione_algebrica"></span>
+<span class="atom-split" id="q12" data-atom="q12" data-title="Quesito 12" data-tags="topic_algebra,topic_aritmetica,method_fattorizzazione,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -683,9 +675,10 @@ level: Classi Prime
 > 2 = 𝑛 è (√𝑛+ 1)
 > 2 = 𝑛+ 2√𝑛+ 1.
 
-**Topic:** [[topic_algebra|Algebra]]
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
-**Area:** [[Algebra e Analisi]]
+**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** E
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1GMbSFjPn4wnEPsDmOptYV3Nj4Lj5RZsp/view)
 
@@ -699,15 +692,15 @@ level: Classi Prime
 > A) 𝑛+ 1               B) 𝑛+ √𝑛               C) 𝑛+ √𝑛+ 1               D) 𝑛+ 2√𝑛               E) 𝒏+ 𝟐√𝒏+ 𝟏 
 > The correct answer is E. If n is a perfect square, then the base of that square is √n, and its successor is √n + 1; hence, the perfect square that follows (√n)² = n is (√n + 1)² = n + 2√n + 1.
 
-**Topic:** [[topic_algebra|Algebra]]
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
 **Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
-**Area:** [[Algebra e Analisi|Algebra and analysis]]
-
-[[Quesiti/src_garaprime_2024#q12|src_garaprime_2024__Q12]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
 
 
-<span class="atom-split" id="q13" data-atom="q13" data-title="Quesito 13" data-tags="topic_aritmetica,method_congruenze,skill_riconoscimento_pattern"></span>
+<span class="atom-split" id="q13" data-atom="q13" data-title="Quesito 13" data-tags="topic_aritmetica,method_congruenze,method_fattorizzazione,skill_riconoscimento_pattern,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -734,8 +727,8 @@ level: Classi Prime
 > prodotto dei divisori di un numero: 1 è il prodotto dei divisori di 1, 100 di 10, 101 di 101 e 1024 di 16.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]]
-**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]], [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** D
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1GMbSFjPn4wnEPsDmOptYV3Nj4Lj5RZsp/view)
@@ -754,16 +747,15 @@ level: Classi Prime
 > E) 1024 
 > The correct answer is D. The number that Emanuele cannot have written is 512. Indeed, if a number is divisible by 2𝑛, then it is also divisible by 2𝑛−1, 2𝑛−2, …, 22, 2, 1, whose product equals 2𝑛∙2𝑛−1 ∙… ∙22 ∙2 ∙1 = 2𝑛+(𝑛−1)+⋯+2+1 = 2 𝑛∙(𝑛+1) 2 . It follows that 512 = 29, and there is no natural number 𝑛 such that 𝑛∙(𝑛+1) 2 = 9. All the other numbers, however, are the product of the divisors of a number: 1 is the product of the divisors of 1, 100 of 10, 101 of 101, and 1024 of 16.
 
+
 **Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
-**Metodo:** [[method_congruenze|Modular arithmetic / congruences]]
-**Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]], [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
-[[Quesiti/src_garaprime_2024#q13|src_garaprime_2024__Q13]]
 
 
-
-<span class="atom-split" id="q14" data-atom="q14" data-title="Quesito 14" data-tags="topic_aritmetica,method_congruenze,skill_conteggio_sistematico"></span>
+<span class="atom-split" id="q14" data-atom="q14" data-title="Quesito 14" data-tags="topic_aritmetica,method_congruenze,skill_conteggio_sistematico,skill_riconoscimento_pattern"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -786,7 +778,7 @@ level: Classi Prime
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]]
-**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** A
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1GMbSFjPn4wnEPsDmOptYV3Nj4Lj5RZsp/view)
@@ -805,16 +797,15 @@ level: Classi Prime
 > E) 49 
 > The correct answer is A. The only numbers that have exactly 3 divisors are the squares of prime numbers. Indeed, if 𝑝 is a prime number, then its square 𝑝² is divisible only by 1, by 𝑝, and by 𝑝². On the other hand, a number that has two distinct prime divisors 𝑝 and 𝑞, with 𝑝 < 𝑞, is also divisible by 1 and by 𝑝𝑞, and therefore cannot have only 3 divisors. Thus, the perfect squares between 2 and 900 that satisfy the required condition are the squares of 2, 3, 5, 7, 11, 13, 17, 19, 23, and 29—that is, 10 numbers.
 
+
 **Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
 **Metodo:** [[method_congruenze|Modular arithmetic / congruences]]
-**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]], [[skill_riconoscimento_pattern|Pattern recognition]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
-[[Quesiti/src_garaprime_2024#q14|src_garaprime_2024__Q14]]
 
 
-
-<span class="atom-split" id="q15" data-atom="q15" data-title="Quesito 15" data-tags="topic_combinatoria,method_conteggio,skill_conteggio_sistematico"></span>
+<span class="atom-split" id="q15" data-atom="q15" data-title="Quesito 15" data-tags="topic_combinatoria,method_conteggio,method_casi_conteggio,skill_conteggio_sistematico"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -836,7 +827,7 @@ level: Classi Prime
 > precedenza. Di conseguenza le diverse suddivisioni sono 5 ∙3 = 15.
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
-**Metodo:** [[method_conteggio|Conteggio combinatorio]]
+**Metodo:** [[method_conteggio|Conteggio combinatorio]], [[method_casi_conteggio|Conteggio per casi]]
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** C
@@ -856,16 +847,15 @@ level: Classi Prime
 > E) 18 
 > The correct answer is C. The number of ways to divide a set of 4 people into two teams of 2 is equal to the number of ways one of the four girls can choose her teammate from the remaining 3, namely 3 ways. If there are 6 people, we distinguish 5 cases (the 5 ways in which, once one of the 6 girls has been fixed, she can choose her teammate), and in each of these cases the remaining 4 girls can be divided into teams of 2 in 3 ways, as stated earlier. Consequently, the different divisions are 5 ∙ 3 = 15.
 
+
 **Topic:** [[topic_combinatoria|Combinatorics]]
-**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Metodo:** [[method_conteggio|Combinatorial counting]], [[method_casi_conteggio|Counting by cases]]
 **Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
 **Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
-[[Quesiti/src_garaprime_2024#q15|src_garaprime_2024__Q15]]
 
 
-
-<span class="atom-split" id="q16" data-atom="q16" data-title="Quesito 16" data-tags="topic_insiemi_funzioni,topic_algebra,skill_modellizzazione"></span>
+<span class="atom-split" id="q16" data-atom="q16" data-title="Quesito 16" data-tags="topic_insiemi_funzioni,topic_algebra,method_inclusione_esclusione,skill_modellizzazione,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -909,7 +899,8 @@ level: Classi Prime
 > 7 𝑑= 24.
 
 **Topic:** [[topic_insiemi_funzioni|Insiemi e funzioni]], [[topic_algebra|Algebra]]
-**Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
+**Metodo:** [[method_inclusione_esclusione|Inclusione-esclusione]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Algebra e Analisi]]
 **Risposta:** C
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1GMbSFjPn4wnEPsDmOptYV3Nj4Lj5RZsp/view)
@@ -930,11 +921,11 @@ level: Classi Prime
 > E) 20 
 > The correct answer is C. Let 𝑑 be the number of people who know how to play checkers and 𝑠 be the number of people who know how to play chess. From the data, 3/7 of 𝑑 also know how to play chess, while 3/5 of 𝑠 know how to play checkers. Then 3/7 𝑑 = 3/5 𝑠, from which 𝑠 = 5/7 𝑑. Therefore, since 4/7 𝑑 + 𝑠 = 72, we have 4/7 𝑑 + 5/7 𝑑 = 72, from which 𝑑 = 56 and hence 3/7 𝑑 = 24.
 
-**Topic:** [[topic_insiemi_funzioni|Sets and functions]], [[topic_algebra|Algebra]]
-**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
-**Area:** [[Algebra e Analisi|Algebra and analysis]]
 
-[[Quesiti/src_garaprime_2024#q16|src_garaprime_2024__Q16]]
+**Topic:** [[topic_insiemi_funzioni|Sets and functions]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_inclusione_esclusione|Inclusion–exclusion]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
 
 
 
@@ -986,8 +977,6 @@ level: Classi Prime
 **Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
 **Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
-[[Quesiti/src_garaprime_2024#q17|src_garaprime_2024__Q17]]
-
 
 
 <span class="atom-split" id="q18" data-atom="q18" data-title="Quesito 18" data-tags="topic_algebra,topic_aritmetica,method_doppio_conteggio,method_estremalita,skill_manipolazione_algebrica"></span>
@@ -1036,5 +1025,3 @@ level: Classi Prime
 **Metodo:** [[method_doppio_conteggio|Double counting]], [[method_estremalita|Extremal principle]]
 **Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
 **Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
-
-[[Quesiti/src_garaprime_2024#q18|src_garaprime_2024__Q18]]

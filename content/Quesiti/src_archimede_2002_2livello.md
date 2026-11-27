@@ -10,22 +10,73 @@ level: 2 livello
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_algebra,method_inclusione_esclusione,skill_modellizzazione"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_algebra,topic_aritmetica,method_casework,method_congruenze,skill_modellizzazione,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
 
-*Numero di famiglie con almeno un televisore*
+*Moltiplicazione 2ab × c8 = 5def con cifre 1-9 tutte distinte, valore di e*
 
-> Nella seguente moltiplicazione:
-> $$\begin{array}{r} 2\;a\;b\;c \\ \times\quad 4\;a\;f \end{array}$$
-> ad ogni lettera corrisponde una cifra. Sapendo che nella moltiplicazione compaiono tutte le cifre da 1 a 9 una ed una sola volta, qual è il valore di $c$?
-> 
-> (A) 2 &ensp; (B) 4 &ensp; (C) 6 &ensp; (D) 7 &ensp; (E) 8
+> Nella seguente moltiplicazione
+>
+> $$\begin{array}{r}
+> 2\,a\,b \\
+> \times\quad c\,8 \\
+> \hline
+> 5\,d\,e\,f
+> \end{array}$$
+>
+> ad ogni lettera corrisponde una cifra. Sapendo che nella moltiplicazione compaiono tutte le cifre da 1 a 9 una ed una sola volta, qual è il valore di $e$?
+>
+> (A) 3 &ensp; (B) 4 &ensp; (C) 6 &ensp; (D) 7 &ensp; (E) 9
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Analisi per casi]], [[method_congruenze|Aritmetica modulare / congruenze]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
+**Risposta:** B
+**Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1hC_0FDNwk8GitEPyBMOQI_bjetAXkt5B/view)
+
+
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Multiplication 2ab × c8 = 5def using digits 1-9 each once, value of e*
+
+> In the following multiplication
+>
+> $$\begin{array}{r}
+> 2\,a\,b \\
+> \times\quad c\,8 \\
+> \hline
+> 5\,d\,e\,f
+> \end{array}$$
+>
+> each letter stands for a digit. Knowing that in the multiplication all the digits from 1 to 9 appear once and only once, what is the value of $e$?
+>
+> (A) 3 &ensp; (B) 4 &ensp; (C) 6 &ensp; (D) 7 &ensp; (E) 9
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_casework|Case analysis]], [[method_congruenze|Modular arithmetic / congruences]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]], [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+
+
+<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_algebra,method_fattorizzazione,skill_manipolazione_algebrica"></span>
+
+<div class="qlang-switch" data-default="it"></div>
+
+
+*Valore di x+y+z sapendo che y=2x e z=2y*
+
+> Se $y = 2x$ e $z = 2y$, a cosa è uguale $x + y + z$?
+>
+> (A) $5x$ &ensp; (B) $4y$ &ensp; (C) $3z$ &ensp; (D) $\dfrac{7}{2}y$ &ensp; (E) $\dfrac{7}{3}z$
 
 **Topic:** [[topic_algebra|Algebra]]
-**Metodo:** [[method_inclusione_esclusione|Inclusione-esclusione]]
-**Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Algebra e Analisi]]
 **Risposta:** D
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1hC_0FDNwk8GitEPyBMOQI_bjetAXkt5B/view)
@@ -34,36 +85,38 @@ level: 2 livello
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Number of families with at least one television*
+*Value of x+y+z given y=2x and z=2y*
 
-> In the following multiplication:
-> $$\begin{array}{r} 2\;a\;b\;c \\ \times\quad 4\;a\;f \end{array}$$
-> each letter corresponds to a digit. Knowing that all the digits from 1 to 9 appear exactly once in the multiplication, what is the value of $c$?
-> 
-> (A) 2 &ensp; (B) 4 &ensp; (C) 6 &ensp; (D) 7 &ensp; (E) 8
-
+> If $y = 2x$ and $z = 2y$, what is $x + y + z$ equal to?
+>
+> (A) $5x$ &ensp; (B) $4y$ &ensp; (C) $3z$ &ensp; (D) $\dfrac{7}{2}y$ &ensp; (E) $\dfrac{7}{3}z$
 
 **Topic:** [[topic_algebra|Algebra]]
-**Method:** [[method_inclusione_esclusione|Inclusion-exclusion]]
-**Skill:** [[skill_modellizzazione|Modelling / translating the text]]
-[[Quesiti/src_archimede_2002_2livello#q01|src_archimede_2002_2livello__Q01]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
 
 
 
-<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_aritmetica,method_congruenze"></span>
+<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_probabilita,topic_combinatoria,method_casework,method_conteggio,method_grafi,skill_modellizzazione,skill_conteggio_sistematico"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
 
-*Sottoinsieme di numeri naturali con somma divisibile per 6*
+*Probabilità che dieci città ai vertici di un decagono restino tutte collegate*
 
-> Se $p = 2x = 2y$, cosa è uguale $x + y$?
-> 
-> (A) $5p$ &ensp; (B) $4p$ &ensp; (C) $2p$ &ensp; (D) $\dfrac{7}{2}p$ &ensp; (E) $\dfrac{1}{2}p$
+> In una mappa di una certa regione ci sono dieci città ai vertici di un decagono regolare, e i dieci lati del decagono rappresentano altrettante strade. Nella regione ci sono dei lavori, per cui ogni strada è aperta con una probabilità $\dfrac{1}{3}$ indipendentemente dalle altre.
+>
+> Qual è la probabilità che da ogni città si possa raggiungere ogni altra città?
+>
+> (A) fra lo 0,2% e lo 0,5% &ensp; (B) fra lo 0,5% e l'1% &ensp; (C) fra l'1% e il 2% &ensp; (D) fra il 2% e il 5%
+>
+> (E) fra il 5% e il 10%
 
-**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]]
-**Area:** [[Aritmetica e Teoria dei Numeri]]
+**Topic:** [[topic_probabilita|Probabilita e statistica]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casework|Analisi per casi]], [[method_conteggio|Conteggio combinatorio]], [[method_grafi|Teoria dei grafi]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** C
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1hC_0FDNwk8GitEPyBMOQI_bjetAXkt5B/view)
 
@@ -71,32 +124,55 @@ level: 2 livello
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Subset of natural numbers with sum divisible by 6*
+*Probability that ten cities at the vertices of a decagon remain all connected*
 
-> If $p = 2x = 2y$, what is $x + y$ equal to?
-> 
-> (A) $5p$ &ensp; (B) $4p$ &ensp; (C) $2p$ &ensp; (D) $\dfrac{7}{2}p$ &ensp; (E) $\dfrac{1}{2}p$
+> On a map of a certain region there are ten cities at the vertices of a regular decagon, and the ten sides of the decagon represent as many roads. There is some construction work in the region, so that each road is open with probability $\dfrac{1}{3}$ independently of the others.
+>
+> What is the probability that every city can be reached from every other city?
+>
+> (A) between 0.2% and 0.5% &ensp; (B) between 0.5% and 1% &ensp; (C) between 1% and 2% &ensp; (D) between 2% and 5%
+>
+> (E) between 5% and 10%
+
+**Topic:** [[topic_probabilita|Probability and statistics]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_casework|Case analysis]], [[method_conteggio|Combinatorial counting]], [[method_grafi|Graph theory]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]], [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
 
-**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
-**Method:** [[method_congruenze|Modular arithmetic / congruences]]
-[[Quesiti/src_archimede_2002_2livello#q02|src_archimede_2002_2livello__Q02]]
 
-
-
-<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_logica,method_casework"></span>
+<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_logica,method_casework,skill_ragionamento_geometrico,skill_casework_accurato,skill_lettura_attenta"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
 
-*Indovinello logico su Marziani e Venusiani (chi mente)*
+*Ark e Bark, Marziani e Venusiani: cosa si può determinare dalle dichiarazioni*
 
-> In una mappa di una certa regione ci sono due città ai vertici di un esagono regolare; i capoluoghi rappresentano altrettante città. Nella regione ci sono lavori per cui ogni strada è aperta con probabilità $\frac{1}{2}$ indipendentemente dalle altre. Qual è la probabilità che il capoluogo sia accessibile da almeno un'altra città?
-> 
-> (A) fra $0{,}25\%$ e $0{,}5\%$ &ensp; (B) fra $0{,}5\%$ e $1\%$ &ensp; (C) fra $1\%$ e $5\%$ &ensp; (D) fra $5\%$ e $20\%$ &ensp; (E) fra $20\%$ e $50\%$
+> È noto che i Marziani maschi dicono sempre la verità, mentre le Marziane mentono sempre; al contrario i Venusiani maschi mentono e le Venusiane dicono sempre il vero. Atterra un'astronave piena di Marziani e Venusiani; all'ufficio immigrazione due degli occupanti, Ark e Bark, fanno le seguenti dichiarazioni:
+>
+> Ark: “Bark è di Venere”.
+>
+> Bark: “Ark è di Marte”.
+>
+> Ark: “Bark è maschio”.
+>
+> Bark: “Ark è femmina”.
+>
+> Sulla base di tali dichiarazioni l'impiegato può determinare:
+>
+> (A) Pianeta e sesso di Ark, ma non di Bark
+>
+> (B) pianeta e sesso di Bark, ma non di Ark
+>
+> (C) solo il pianeta di entrambi (ma non il sesso)
+>
+> (D) solo il sesso di entrambi (ma non il pianeta)
+>
+> (E) pianeta e sesso di entrambi
 
 **Topic:** [[topic_logica|Logica, giochi, strategie]]
 **Metodo:** [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_casework_accurato|Casework accurato]], [[skill_lettura_attenta|Lettura attenta del testo]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** E
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1hC_0FDNwk8GitEPyBMOQI_bjetAXkt5B/view)
@@ -105,87 +181,95 @@ level: 2 livello
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Logic puzzle about Martians and Venerians (who lies)*
+*Ark and Bark, Martians and Venusians: what can be determined from their statements*
 
-> On a map of a certain region there are two cities at the vertices of a regular hexagon; the capitals represent as many cities. In the region there are works such that each road is open with probability $\frac{1}{2}$ independently of the others. What is the probability that the capital is accessible from at least one other city?
-> 
-> (A) between $0{,}25\%$ and $0{,}5\%$ &ensp; (B) between $0{,}5\%$ and $1\%$ &ensp; (C) between $1\%$ and $5\%$ &ensp; (D) between $5\%$ and $20\%$ &ensp; (E) between $20\%$ and $50\%$
+> It is known that Martian males always tell the truth, while Martian females always lie; conversely, Venusian males lie and Venusian females always tell the truth. A spaceship full of Martians and Venusians lands; at the immigration office two of the occupants, Ark and Bark, make the following statements:
+>
+> Ark: “Bark is from Venus”.
+>
+> Bark: “Ark is from Mars”.
+>
+> Ark: “Bark is male”.
+>
+> Bark: “Ark is female”.
+>
+> On the basis of these statements the officer can determine:
+>
+> (A) planet and sex of Ark, but not of Bark
+>
+> (B) planet and sex of Bark, but not of Ark
+>
+> (C) only the planet of both (but not the sex)
+>
+> (D) only the sex of both (but not the planet)
+>
+> (E) planet and sex of both
+
+**Topic:** [[topic_logica|Logic, games and strategies]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_casework_accurato|Careful case analysis]], [[skill_lettura_attenta|Careful reading of the text]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
 
-**Topic:** [[topic_logica|Logic, games, strategies]]
-**Method:** [[method_casework|Case analysis]]
-[[Quesiti/src_archimede_2002_2livello#q03|src_archimede_2002_2livello__Q03]]
 
-
-
-<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_geometria_piana,skill_ragionamento_geometrico"></span>
+<span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_geometria_piana,method_fattorizzazione,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
 
-*Rapporto tra raggio e lato di una regione geometrica*
+*Rapporto tra i raggi del semicerchio più grande e di quello intermedio*
 
-> È noto che i Marinai maschi dicono sempre la verità, mentre le Marinare mentono sempre; al contrario le Veneziane dicono sempre la verità e i Veneziani mentono sempre. All'ufficio immigrazione dell'astronave, Ark e Bark, fanno le seguenti dichiarazioni:
-> Ark: "Bark è di Venere".
-> Bark: "Ark è di Marte".
-> Ark: "Bark è maschile".
-> Bark: "Ark è femminile".
-> Sulla base di tali dichiarazioni l'impiegato può determinare:
+![[src_archimede_2002_2livello__prob5.png]]
+
+> Nella figura a fianco si hanno tre semicerchi concentrici. Le aree di tutti i settori sono uguali all'area del semicerchio centrale. Qual è il rapporto tra il raggio del semicerchio più grande e quello del semicerchio intermedio?
 >
-> - **(A)** pianeta e sesso di Ark, ma non di Bark
-> - **(B)** pianeta e sesso di Bark, ma non di Ark
-> - **(C)** solo il pianeta di entrambi, ma non il sesso
-> - **(D)** solo il sesso di entrambi, ma non il pianeta
-> - **(E)** pianeta e sesso di entrambi
+> (A) $\dfrac{4}{3}$ &ensp; (B) $\dfrac{3}{2}$ &ensp; (C) $\dfrac{5}{3}$ &ensp; (D) $2$
+>
+> (E) il rapporto dipende dal raggio del cerchio più piccolo
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
-**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
-**Risposta:** C
-**Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1hC_0FDNwk8GitEPyBMOQI_bjetAXkt5B/view)
+**Risposta:** B
+**Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1hC_0FDNwk8GitEPyBMOQI_bjetAXkt5B/view)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Ratio of the radius to the side of a geometric region*
+*Ratio of the radii of the largest and the intermediate semicircle*
 
-> It is known that male Martians always tell the truth, while female Martians always lie; conversely, female Venusians always tell the truth and male Venusians always lie. At the spaceship's immigration office, Ark and Bark make the following statements:
-> Ark: "Bark is from Venus".
-> Bark: "Ark is from Mars".
-> Ark: "Bark is male".
-> Bark: "Ark is female".
-> On the basis of these statements the clerk can determine:
+![[src_archimede_2002_2livello__prob5.png]]
+
+> In the figure there are three concentric semicircles. The areas of all the sectors are equal to the area of the central semicircle. What is the ratio of the radius of the largest semicircle to that of the intermediate one?
 >
-> - **(A)** planet and sex of Ark, but not of Bark
-> - **(B)** planet and sex of Bark, but not of Ark
-> - **(C)** only the planet of both, but not the sex
-> - **(D)** only the sex of both, but not the planet
-> - **(E)** planet and sex of both
-
+> (A) $\dfrac{4}{3}$ &ensp; (B) $\dfrac{3}{2}$ &ensp; (C) $\dfrac{5}{3}$ &ensp; (D) $2$
+>
+> (E) the ratio depends on the radius of the smallest circle
 
 **Topic:** [[topic_geometria_piana|Plane geometry]]
-**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
-[[Quesiti/src_archimede_2002_2livello#q04|src_archimede_2002_2livello__Q04]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Geometria|Geometry]]
 
 
 
-<span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_geometria_piana,skill_ragionamento_geometrico"></span>
+<span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_aritmetica,topic_disuguaglianze,method_estremalita,skill_stima,skill_casework_accurato,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
 
-*rapporto area in grigio*
+*Massimo valore di c con a<b<c e a²+b²+c² con lo stesso numero di cifre di a+b+c*
 
-![[src_archimede_2002_2livello__prob5.png]]
+> Siano $a < b < c$ interi positivi tali che $a^2 + b^2 + c^2$ ha lo stesso numero di cifre decimali di $a + b + c$. Qual è il massimo valore che può assumere $c$?
+>
+> (A) 9 &ensp; (B) 10 &ensp; (C) 18 &ensp; (D) 30 &ensp; (E) 31
 
-> Nella figura, le aree dei lettori sono uguali all'area del semicerchio. Qual è il rapporto tra l'area del semicerchio e quella del cerchio più piccolo?
-> 
-> (A) $\dfrac{1}{8}$ &ensp; (B) $\dfrac{\pi}{8}$ &ensp; (C) $\dfrac{\pi}{2}$ &ensp; (D) $2$ &ensp; (E) non si può determinare (vedi figura)
-
-**Topic:** [[topic_geometria_piana|Geometria piana]]
-**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
-**Area:** [[Geometria]]
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_disuguaglianze|Disuguaglianze]]
+**Metodo:** [[method_estremalita|Principio di estremalita]]
+**Abilita:** [[skill_stima|Stima e approssimazione]], [[skill_casework_accurato|Casework accurato]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 **Risposta:** A
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1hC_0FDNwk8GitEPyBMOQI_bjetAXkt5B/view)
 
@@ -193,67 +277,34 @@ level: 2 livello
 <div class="qlang-split" data-lang="en"></div>
 
 
-*ratio of the grey area*
+*Largest c with a<b<c such that a²+b²+c² has as many digits as a+b+c*
 
-> In the figure, the areas of the readers are equal to the area of the semicircle. What is the ratio between the area of the semicircle and that of the smallest circle?
+> Let $a < b < c$ be positive integers such that $a^2 + b^2 + c^2$ has the same number of decimal digits as $a + b + c$. What is the largest possible value of $c$?
 >
-> (A) $\dfrac{1}{8}$ &ensp; (B) $\dfrac{\pi}{8}$ &ensp; (C) $\dfrac{\pi}{2}$ &ensp; (D) $2$ &ensp; (E) cannot be determined (see figure)
+> (A) 9 &ensp; (B) 10 &ensp; (C) 18 &ensp; (D) 30 &ensp; (E) 31
 
-
-**Topic:** [[topic_geometria_piana|Plane geometry]]
-**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
-[[Quesiti/src_archimede_2002_2livello#q05|src_archimede_2002_2livello__Q05]]
-
-
-
-<span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_aritmetica,method_estremalita"></span>
-
-<div class="qlang-switch" data-default="it"></div>
-
-
-*Massimo valore di c con a<b<c e relazioni date*
-
-> Sia $n$ un numero intero positivo di tre cifre decimali $a$, $b$, $c$ (con $a \neq 0$) tale che $n$ ha lo stesso numero di cifre decimali di $a + b + c$. Qual è il massimo valore che può assumere $n$?
-> 
-> (A) 9 &ensp; (B) 10 &ensp; (C) 19 &ensp; (D) 30 &ensp; (E) 31
-
-**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_estremalita|Principio di estremalita]]
-**Area:** [[Aritmetica e Teoria dei Numeri]]
-**Risposta:** D
-**Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1hC_0FDNwk8GitEPyBMOQI_bjetAXkt5B/view)
-
-
-<div class="qlang-split" data-lang="en"></div>
-
-
-*Maximum value of c with a<b<c and given relations*
-
-> Let $n$ be a positive integer with three decimal digits $a$, $b$, $c$ (with $a \neq 0$) such that $n$ has the same number of decimal digits as $a + b + c$. What is the maximum value that $n$ can take?
-> 
-> (A) 9 &ensp; (B) 10 &ensp; (C) 19 &ensp; (D) 30 &ensp; (E) 31
-
-
-**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
-**Method:** [[method_estremalita|Extremal principle]]
-[[Quesiti/src_archimede_2002_2livello#q06|src_archimede_2002_2livello__Q06]]
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_disuguaglianze|Inequalities]]
+**Metodo:** [[method_estremalita|Extremal principle]]
+**Abilita:** [[skill_stima|Estimation and approximation]], [[skill_casework_accurato|Careful case analysis]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Algebra e Analisi|Algebra and analysis]]
 
 
 
-<span class="atom-split" id="q07" data-atom="q07" data-title="Quesito 7" data-tags="topic_aritmetica,method_estremalita"></span>
+<span class="atom-split" id="q07" data-atom="q07" data-title="Quesito 7" data-tags="topic_geometria_piana,topic_trigonometria,method_trigonometria,skill_ragionamento_geometrico"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
 
-*Massimo c con a≤b≤c e somma di cifre fissata*
+*Triangolo isoscele con angolo al vertice 120° e raggio del cerchio circoscritto*
 
 > Sia $ABC$ un triangolo isoscele tale che $\widehat{BAC} = 120°$ e $AB = AC = 1$. Quanto misura il raggio del cerchio circoscritto?
 > 
 > (A) 2 &ensp; (B) $\dfrac{\sqrt{3}}{2}$ &ensp; (C) $\dfrac{\sqrt{2}}{2}$ &ensp; (D) 1 &ensp; (E) nessuna delle precedenti
 
-**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_estremalita|Principio di estremalita]]
-**Area:** [[Aritmetica e Teoria dei Numeri]]
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometria]]
+**Metodo:** [[method_trigonometria|Tecniche trigonometriche]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Geometria]]
 **Risposta:** D
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1hC_0FDNwk8GitEPyBMOQI_bjetAXkt5B/view)
 
@@ -261,132 +312,137 @@ level: 2 livello
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Maximum c with a≤b≤c and fixed digit sum*
+*Isosceles triangle with vertex angle 120° and circumradius*
 
 > Let $ABC$ be an isosceles triangle such that $\widehat{BAC} = 120°$ and $AB = AC = 1$. What is the radius of the circumscribed circle?
 >
 > (A) 2 &ensp; (B) $\dfrac{\sqrt{3}}{2}$ &ensp; (C) $\dfrac{\sqrt{2}}{2}$ &ensp; (D) 1 &ensp; (E) none of the above
 
 
-**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
-**Method:** [[method_estremalita|Extremal principle]]
-[[Quesiti/src_archimede_2002_2livello#q07|src_archimede_2002_2livello__Q07]]
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_trigonometria|Trigonometry]]
+**Metodo:** [[method_trigonometria|Trigonometric techniques]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
 
 
 
-<span class="atom-split" id="q08" data-atom="q08" data-title="Quesito 8" data-tags="topic_algebra"></span>
-
-<div class="qlang-switch" data-default="it"></div>
-
-
-*Valore del polinomio r(2002) con r(2000)=2000, r(2001)=2001*
-
-> Andrea, viaggiando su un treno, incontra Maldab che sta camminando nella stessa strada in direzione opposta. Dopo 10 secondi il treno ha sorpassato Maldab. Sapendo che la velocità con cui Andrea cammina è doppia di quella di Maldab e un quinto di quella del treno, quanti secondi impiega Andrea a raggiungere Maldab da quando si sono incontrati?
-> 
-> (A) 60 &ensp; (B) 70 &ensp; (C) 90 &ensp; (D) 110 &ensp; (E) 120
-
-**Topic:** [[topic_algebra|Algebra]]
-**Area:** [[Algebra e Analisi]]
-**Risposta:** B
-**Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1hC_0FDNwk8GitEPyBMOQI_bjetAXkt5B/view)
-
-
-<div class="qlang-split" data-lang="en"></div>
-
-
-*Value of the polynomial r(2002) with r(2000)=2000, r(2001)=2001*
-
-> Andrea, travelling on a train, meets Maldab who is walking along the same road in the opposite direction. After 10 seconds the train has passed Maldab. Knowing that the speed at which Andrea walks is double that of Maldab and one fifth of that of the train, how many seconds does Andrea take to reach Maldab from when they met?
-> 
-> (A) 60 &ensp; (B) 70 &ensp; (C) 90 &ensp; (D) 110 &ensp; (E) 120
-
-
-**Topic:** [[topic_algebra|Algebra]]
-[[Quesiti/src_archimede_2002_2livello#q08|src_archimede_2002_2livello__Q08]]
-
-
-
-<span class="atom-split" id="q09" data-atom="q09" data-title="Quesito 9" data-tags="topic_geometria_piana,skill_ragionamento_geometrico"></span>
+<span class="atom-split" id="q08" data-atom="q08" data-title="Quesito 8" data-tags="topic_algebra,method_fattorizzazione,skill_modellizzazione,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
 
-*Area di un quadrato sezionato in figura (raggio/lato)*
+*Andrea scende dal tram e rincorre Mafalda*
 
-> Sia $P(X) = aX^3 + bX^2 + cX + d$ un polinomio di terzo grado con coefficienti reali. Se $P(2000) = 2001$ e $P(2001) = 2002$, allora $P(2002)$ non può essere uguale a:
-> 
-> (A) 2000 &ensp; (B) 2001 &ensp; (C) 2002 &ensp; (D) 2003 &ensp; (E) 2004
-
-**Topic:** [[topic_geometria_piana|Geometria piana]]
-**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
-**Area:** [[Geometria]]
-**Risposta:** B
-**Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1hC_0FDNwk8GitEPyBMOQI_bjetAXkt5B/view)
-
-
-<div class="qlang-split" data-lang="en"></div>
-
-
-*Area of a square cut in the figure (radius/side)*
-
-> Let $P(X) = aX^3 + bX^2 + cX + d$ be a cubic polynomial with real coefficients. If $P(2000) = 2001$ and $P(2001) = 2002$, then $P(2002)$ cannot be equal to:
-> 
-> (A) 2000 &ensp; (B) 2001 &ensp; (C) 2002 &ensp; (D) 2003 &ensp; (E) 2004
-
-
-**Topic:** [[topic_geometria_piana|Plane geometry]]
-**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
-[[Quesiti/src_archimede_2002_2livello#q09|src_archimede_2002_2livello__Q09]]
-
-
-
-<span class="atom-split" id="q10" data-atom="q10" data-title="Quesito 10" data-tags="topic_logica,skill_lettura_attenta"></span>
-
-<div class="qlang-switch" data-default="it"></div>
-
-
-*Indovinello su latte e gara a squadre di matematica*
-
-> Un ciclista affronta un percorso di 30 Km con una velocità di $v$ km/h. Sapendo che ha impiegato 40 minuti, determinare quanti gradi occupa il settore del semicerchio intermedio.
-> 
-> (A) $60°\,20'$ &ensp; (B) $60°\,00'$ &ensp; (C) $45°$ &ensp; (D) $37°\,20'$ &ensp; (E) non si può determinare
-
-**Topic:** [[topic_logica|Logica, giochi, strategie]]
-**Abilita:** [[skill_lettura_attenta|Lettura attenta del testo]]
-**Area:** [[Combinatoria, Logica e Probabilita]]
-**Risposta:** B
-**Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1hC_0FDNwk8GitEPyBMOQI_bjetAXkt5B/view)
-
-
-<div class="qlang-split" data-lang="en"></div>
-
-
-*Riddle about milk and a team mathematics competition*
-
-> A cyclist covers a 30 km route at a speed of $v$ km/h. Knowing that he took 40 minutes, determine how many degrees the intermediate semicircle sector occupies.
+> Andrea, viaggiando su un tram, incrocia Mafalda che sta camminando sulla stessa strada in direzione opposta. Dopo 10 secondi scende dal tram e la rincorre. Sapendo che la velocità con cui Andrea cammina è doppia di quella di Mafalda e un quinto di quella del tram, quanti secondi impiega a raggiungere l'amica da quando è sceso?
 >
-> (A) $60°\,20'$ &ensp; (B) $60°\,00'$ &ensp; (C) $45°$ &ensp; (D) $37°\,20'$ &ensp; (E) cannot be determined
+> (A) 60 &ensp; (B) 70 &ensp; (C) 90 &ensp; (D) 110 &ensp; (E) 120
+
+**Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Algebra e Analisi]]
+**Risposta:** D
+**Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1hC_0FDNwk8GitEPyBMOQI_bjetAXkt5B/view)
 
 
-**Topic:** [[topic_logica|Logic, games, strategies]]
-**Skill:** [[skill_lettura_attenta|Careful reading]]
-[[Quesiti/src_archimede_2002_2livello#q10|src_archimede_2002_2livello__Q10]]
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Andrea gets off the tram and chases Mafalda*
+
+> Andrea, travelling on a tram, meets Mafalda who is walking along the same road in the opposite direction. After 10 seconds he gets off the tram and chases her. Knowing that the speed at which Andrea walks is twice Mafalda's speed and one fifth of the tram's speed, how many seconds does he take to reach her from when he got off?
+>
+> (A) 60 &ensp; (B) 70 &ensp; (C) 90 &ensp; (D) 110 &ensp; (E) 120
+
+**Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
 
 
 
-<span class="atom-split" id="q11" data-atom="q11" data-title="Quesito 11" data-tags="topic_combinatoria,method_invarianti"></span>
+<span class="atom-split" id="q09" data-atom="q09" data-title="Quesito 9" data-tags="topic_algebra,method_fattorizzazione,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
+
+<div class="qlang-switch" data-default="it"></div>
+
+
+*Valori impossibili di P(2002) per un polinomio di secondo grado con P(2000)=2000 e P(2001)=2001*
+
+> Sia $P(X) = aX^2 + bX + c$ un polinomio di secondo grado con coefficienti reali (cioè $a$, $b$, $c$ sono numeri reali e $a \neq 0$). Se $P(2000) = 2000$ e $P(2001) = 2001$, allora $P(2002)$ non può essere uguale a:
+>
+> (A) 2000 &ensp; (B) 2001 &ensp; (C) 2002 &ensp; (D) 2003 &ensp; (E) 2004
+
+**Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Algebra e Analisi]]
+**Risposta:** C
+**Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1hC_0FDNwk8GitEPyBMOQI_bjetAXkt5B/view)
+
+
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Impossible values of P(2002) for a quadratic with P(2000)=2000 and P(2001)=2001*
+
+> Let $P(X) = aX^2 + bX + c$ be a quadratic polynomial with real coefficients (that is, $a$, $b$, $c$ are real and $a \neq 0$). If $P(2000) = 2000$ and $P(2001) = 2001$, then $P(2002)$ cannot be equal to:
+>
+> (A) 2000 &ensp; (B) 2001 &ensp; (C) 2002 &ensp; (D) 2003 &ensp; (E) 2004
+
+**Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+
+
+<span class="atom-split" id="q10" data-atom="q10" data-title="Quesito 10" data-tags="topic_algebra,method_fattorizzazione,skill_modellizzazione,skill_manipolazione_algebrica"></span>
+
+<div class="qlang-switch" data-default="it"></div>
+
+
+*Tempo in bicicletta in un triathlon con tempi e velocità medie date*
+
+> Un atleta ha appena affrontato una gara di triathlon. Questa competizione si divide in tre fasi: la prima è una gara di nuoto, la seconda di ciclismo e la terza di corsa. Sapendo che la sua velocità media nei tre tratti è stata rispettivamente di 3 Km/h, 30 Km/h e 17 Km/h, che la lunghezza totale del tracciato è 30 Km e che il tempo che ha impiegato a concludere la gara è stato di un'ora e 40 minuti, determinare per quanto tempo è andato in bicicletta.
+>
+> (A) 66' 20" &ensp; (B) 60' &ensp; (C) 45' &ensp; (D) 33' 20" &ensp; (E) non si può determinare
+
+**Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Algebra e Analisi]]
+**Risposta:** E
+**Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1hC_0FDNwk8GitEPyBMOQI_bjetAXkt5B/view)
+
+
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Cycling time in a triathlon with given average speeds and total time*
+
+> An athlete has just completed a triathlon. This competition is divided into three stages: first a swimming race, then cycling, then running. Knowing that his average speeds in the three legs were 3 km/h, 30 km/h and 17 km/h respectively, that the total length of the course is 30 km, and that the time he took to finish the race was one hour and 40 minutes, determine for how long he was cycling.
+>
+> (A) 66' 20" &ensp; (B) 60' &ensp; (C) 45' &ensp; (D) 33' 20" &ensp; (E) it cannot be determined
+
+**Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
+
+
+
+<span class="atom-split" id="q11" data-atom="q11" data-title="Quesito 11" data-tags="topic_combinatoria,method_invarianti,skill_astrazione"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
 
 *Minimo numero di mosse per comporre il puzzle di 1000 pezzi*
 
-> Un puzzle da 1000 pezzi può essere montato inserendo i pezzi uno dopo l'altro nella porzione di puzzle già composta, oppure costruendo diversi gruppi di pezzi e poi unendo questi tra di loro. Ogni unione (sia di singoli pezzi, di due gruppi, o di un pezzo e un gruppo) costa una mossa. Qual è il numero minimo di mosse necessarie per completare il puzzle?
-> 
-> (A) 999
+> Un puzzle da 1000 pezzi può essere montato incastrando i pezzi uno dopo l'altro, in modo da inserire ciascun nuovo pezzo nella porzione di puzzle già composta, oppure costruendo diversi gruppi di pezzi e poi unendo questi tra di loro. Ogni unione (di due singoli pezzi, o di due gruppi, o di un pezzo a un gruppo) conta una mossa. Qual è il numero minimo di mosse necessarie per completare il puzzle?
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_invarianti|Invarianti / monovarianti]]
+**Abilita:** [[skill_astrazione|Astrazione / generalizzazione]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 999
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1hC_0FDNwk8GitEPyBMOQI_bjetAXkt5B/view)
@@ -397,129 +453,118 @@ level: 2 livello
 
 *Minimum number of moves to assemble the 1000-piece puzzle*
 
-> A 1000-piece puzzle can be assembled by inserting the pieces one at a time into the already-assembled portion of the puzzle, or by building several groups of pieces and then joining them together. Each joining (whether of single pieces, of two groups, or of a piece and a group) costs one move. What is the minimum number of moves needed to complete the puzzle?
-> 
-> (A) 999
-
+> A 1000-piece puzzle can be assembled by fitting the pieces one after another, so that each new piece is inserted into the portion of the puzzle already completed, or by building several groups of pieces and then joining them together. Every joining (of two single pieces, or of two groups, or of a piece to a group) counts as one move. What is the minimum number of moves needed to complete the puzzle?
 
 **Topic:** [[topic_combinatoria|Combinatorics]]
-**Method:** [[method_invarianti|Invariants / monovariants]]
-[[Quesiti/src_archimede_2002_2livello#q11|src_archimede_2002_2livello__Q11]]
+**Metodo:** [[method_invarianti|Invariants / monovariants]]
+**Abilita:** [[skill_astrazione|Abstraction / generalisation]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
 
 
-<span class="atom-split" id="q12" data-atom="q12" data-title="Quesito 12" data-tags="topic_geometria_piana,skill_ragionamento_geometrico"></span>
+<span class="atom-split" id="q12" data-atom="q12" data-title="Quesito 12" data-tags="topic_geometria_piana,method_fattorizzazione,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
 
-*Perimetro del rettangolo diviso in cinque quadrati*
+*Perimetro del rettangolo diviso in 9 quadrati con due lati ombreggiati 7 cm e 1 cm*
 
 ![[src_archimede_2002_2livello__prob12.png]]
 
-> Il rettangolo in figura è diviso in 9 quadrati (la figura non è in scala). Le lunghezze dei lati dei due quadrati ombreggiati sono rispettivamente $7$ cm e $1$ cm. Trovare il perimetro del rettangolo. (vedi figura)
-> 
-> (A) $16r$ &ensp; (B) $16r + 4$ &ensp; (C) $20r - 4$ &ensp; (D) $19r$ &ensp; (E) non si può determinare
+> Il rettangolo in figura è diviso in 9 quadrati (la figura non è in scala). Le lunghezze dei lati dei due quadrati ombreggiati sono rispettivamente 7 cm e 1 cm. Trovare il perimetro del rettangolo.
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
-**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
-**Risposta:** 11
+**Risposta:** 130
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1hC_0FDNwk8GitEPyBMOQI_bjetAXkt5B/view)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Perimeter of a rectangle divided into five squares*
+*Perimeter of a rectangle divided into 9 squares with two shaded sides 7 cm and 1 cm*
 
-> The rectangle in the figure is divided into 9 squares (the figure is not to scale). The side lengths of the two shaded squares are respectively $7$ cm and $1$ cm. Find the perimeter of the rectangle. (see figure)
->
-> (A) $16r$ &ensp; (B) $16r + 4$ &ensp; (C) $20r - 4$ &ensp; (D) $19r$ &ensp; (E) cannot be determined
+![[src_archimede_2002_2livello__prob12.png]]
 
+> The rectangle in the figure is divided into 9 squares (the figure is not to scale). The side lengths of the two shaded squares are 7 cm and 1 cm respectively. Find the perimeter of the rectangle.
 
 **Topic:** [[topic_geometria_piana|Plane geometry]]
-**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
-[[Quesiti/src_archimede_2002_2livello#q12|src_archimede_2002_2livello__Q12]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Geometria|Geometry]]
 
 
 
-<span class="atom-split" id="q13" data-atom="q13" data-title="Quesito 13" data-tags="topic_geometria_piana,skill_ragionamento_geometrico"></span>
+<span class="atom-split" id="q13" data-atom="q13" data-title="Quesito 13" data-tags="topic_combinatoria,method_grafi,method_casework,skill_ragionamento_geometrico,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
 
-*Perimetro di un parallelogramma dato (Diego/Viola)*
+*Valori possibili del numero nella casella centrale di una scacchiera 3×3 con consecutivi adiacenti*
 
-> Gli interi da 1 a 9 sono scritti nelle nove caselle di una scacchiera $3 \times 3$, ogni intero in una casella diversa, in modo tale che ogni coppia di interi consecutivi si trovi in due caselle adiacenti (cioè aventi un lato in comune). Quanti sono i valori possibili del numero posto nella casella centrale?
-> 
-> (A) 1 &ensp; (B) 2 &ensp; (C) 3 &ensp; (D) 4 &ensp; (E) 5
-
-**Topic:** [[topic_geometria_piana|Geometria piana]]
-**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
-**Area:** [[Geometria]]
-**Risposta:** 6
-**Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1hC_0FDNwk8GitEPyBMOQI_bjetAXkt5B/view)
-
-
-<div class="qlang-split" data-lang="en"></div>
-
-
-*Perimeter of a given parallelogram (Diego/Viola)*
-
-> The integers from 1 to 9 are written in the nine squares of a $3 \times 3$ chessboard, each integer in a different square, in such a way that every pair of consecutive integers is in two adjacent squares (that is, having a side in common). How many are the possible values of the number placed in the central square?
-> 
-> (A) 1 &ensp; (B) 2 &ensp; (C) 3 &ensp; (D) 4 &ensp; (E) 5
-
-
-**Topic:** [[topic_geometria_piana|Plane geometry]]
-**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
-[[Quesiti/src_archimede_2002_2livello#q13|src_archimede_2002_2livello__Q13]]
-
-
-
-<span class="atom-split" id="q14" data-atom="q14" data-title="Quesito 14" data-tags="topic_combinatoria,method_conteggio,skill_conteggio_sistematico"></span>
-
-<div class="qlang-switch" data-default="it"></div>
-
-
-*Conteggio celle del cubo da colorare (4 caselle ai vertici)*
-
-> Quante sono le terne di interi $(a, b, c)$ tutti maggiori di 1 tali che $a^{b^c} < 2002$?
-> 
-> (A) 9 &ensp; (B) 19 &ensp; (C) 30 &ensp; (D) 31 &ensp; (E) 32
+> Gli interi da 1 a 9 sono scritti nelle nove caselle di una scacchiera $3 \times 3$, ogni intero in una casella diversa, in modo tale che ogni coppia di numeri consecutivi sia scritta in due caselle adiacenti (cioè aventi un lato in comune). Quanti sono i valori possibili del numero posto sulla casella centrale?
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
-**Metodo:** [[method_conteggio|Conteggio combinatorio]]
-**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Metodo:** [[method_grafi|Teoria dei grafi]], [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
-**Risposta:** 4
+**Risposta:** 5
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1hC_0FDNwk8GitEPyBMOQI_bjetAXkt5B/view)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Counting the cells of the cube to be coloured (4 boxes at the vertices)*
+*Possible values of the centre cell of a 3×3 board with consecutive numbers adjacent*
 
-> How many triples of integers $(a, b, c)$, all greater than 1, satisfy $a^{b^c} < 2002$?
-> 
-> (A) 9 &ensp; (B) 19 &ensp; (C) 30 &ensp; (D) 31 &ensp; (E) 32
-
+> The integers from 1 to 9 are written in the nine cells of a $3 \times 3$ board, each integer in a different cell, in such a way that every pair of consecutive numbers is written in two adjacent cells (that is, cells sharing a side). How many possible values are there for the number placed in the centre cell?
 
 **Topic:** [[topic_combinatoria|Combinatorics]]
-**Method:** [[method_conteggio|Combinatorial counting]]
-**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
-[[Quesiti/src_archimede_2002_2livello#q14|src_archimede_2002_2livello__Q14]]
+**Metodo:** [[method_grafi|Graph theory]], [[method_casework|Case analysis]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
 
 
-<span class="atom-split" id="q15" data-atom="q15" data-title="Quesito 15" data-tags="topic_aritmetica,method_fattorizzazione"></span>
+<span class="atom-split" id="q14" data-atom="q14" data-title="Quesito 14" data-tags="topic_aritmetica,method_conteggio,method_casi_conteggio,skill_conteggio_sistematico"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
 
-*Terne (x,y,z) interi positivi con prodotto/condizione data*
+*Terne di interi (a,b,c) maggiori di 1 con a^(b^c)<2002*
+
+> Quante sono le terne di interi $(a, b, c)$ tutti maggiori di 1 tali che $a^{(b^c)} < 2002$?
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_conteggio|Conteggio combinatorio]], [[method_casi_conteggio|Conteggio per casi]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
+**Risposta:** 7
+**Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1hC_0FDNwk8GitEPyBMOQI_bjetAXkt5B/view)
+
+
+<div class="qlang-split" data-lang="en"></div>
+
+
+*Triples of integers (a,b,c) greater than 1 with a^(b^c)<2002*
+
+> How many triples of integers $(a, b, c)$ all greater than 1 are there such that $a^{(b^c)} < 2002$?
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_conteggio|Combinatorial counting]], [[method_casi_conteggio|Counting by cases]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
+
+
+
+<span class="atom-split" id="q15" data-atom="q15" data-title="Quesito 15" data-tags="topic_aritmetica,method_fattorizzazione,skill_conteggio_sistematico"></span>
+
+<div class="qlang-switch" data-default="it"></div>
+
+
+*Numero di parallelepipedi retti a base quadrata con spigoli interi e volume 270000*
 
 > **ESERCIZIO DIMOSTRATIVO**
 > 
@@ -527,15 +572,15 @@ level: 2 livello
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
-**Risposta:** (6,10,14)
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1hC_0FDNwk8GitEPyBMOQI_bjetAXkt5B/view)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Positive integer triples (x,y,z) with given product/condition*
+*Number of right parallelepipeds with square base, integer edges and volume 270000*
 
 > **PROOF EXERCISE**
 >
@@ -543,79 +588,6 @@ level: 2 livello
 
 
 **Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
-**Method:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
-[[Quesiti/src_archimede_2002_2livello#q15|src_archimede_2002_2livello__Q15]]
-
-
-
-<span class="atom-split" id="q16" data-atom="q16" data-title="Quesito 16" data-tags="topic_geometria_piana,skill_ragionamento_geometrico"></span>
-
-<div class="qlang-switch" data-default="it"></div>
-
-
-*dimostrare uguaglianza di angoli*
-
-> **ESERCIZIO DIMOSTRATIVO**
-> 
-> Sia dato un triangolo $ABC$. Si indichino con $M$ ed $N$ i punti medi rispettivamente dei lati $AC$ e $BC$. Siano inoltre $S$ e $T$ rispettivamente punti sui lati $AC$ e $BC$ tali che:
-> $$AS = \frac{1}{3}AC \qquad BT = \frac{1}{3}BC.$$
-> Dimostrare che le bisettrici degli angoli $\widehat{AST}$ e $\widehat{BTS}$ si incontrano su un punto $P$ del lato $AB$ se e solo se il quadrilatero $AMNB$ è circoscrivibile ad una circonferenza.
-
-**Topic:** [[topic_geometria_piana|Geometria piana]]
-**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
-**Area:** [[Geometria]]
-**Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1hC_0FDNwk8GitEPyBMOQI_bjetAXkt5B/view)
-
-
-<div class="qlang-split" data-lang="en"></div>
-
-
-*Prove the equality of angles*
-
-> **PROOF EXERCISE**
->
-> Let $ABC$ be a triangle. Let $M$ and $N$ be the midpoints of sides $AC$ and $BC$, respectively. Let $S$ and $T$ be points on sides $AC$ and $BC$, respectively, such that:
-> $$AS = \frac{1}{3}AC \qquad BT = \frac{1}{3}BC.$$
-> Prove that the angle bisectors of angles $\widehat{AST}$ and $\widehat{BTS}$ meet at a point $P$ on side $AB$ if and only if quadrilateral $AMNB$ is circumscribable about a circle.
-
-
-**Topic:** [[topic_geometria_piana|Plane geometry]]
-**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
-[[Quesiti/src_archimede_2002_2livello#q16|src_archimede_2002_2livello__Q16]]
-
-
-
-<span class="atom-split" id="q17" data-atom="q17" data-title="Quesito 17" data-tags="topic_aritmetica,method_conteggio,skill_casework_accurato"></span>
-
-<div class="qlang-switch" data-default="it"></div>
-
-
-*Parallelepipedi a lati interi con volume 250000*
-
-> **ESERCIZIO DIMOSTRATIVO**
-> 
-> Determinare tutte le terne di interi positivi $(x, y, z)$ che soddisfano il seguente sistema:
-> $$\begin{cases} 45xy^2 = 8z^3 \\ xyz < 1000 \end{cases}$$
-
-**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_conteggio|Conteggio combinatorio]]
-**Abilita:** [[skill_casework_accurato|Casework accurato]]
-**Area:** [[Aritmetica e Teoria dei Numeri]]
-**Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1hC_0FDNwk8GitEPyBMOQI_bjetAXkt5B/view)
-
-
-<div class="qlang-split" data-lang="en"></div>
-
-
-*Integer-sided parallelepipeds with volume 250000*
-
-> **PROOF EXERCISE**
->
-> Determine all triples of positive integers $(x, y, z)$ satisfying the following system:
-> $$\begin{cases} 45xy^2 = 8z^3 \\ xyz < 1000 \end{cases}$$
-
-
-**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
-**Method:** [[method_conteggio|Combinatorial counting]]
-**Skill:** [[skill_casework_accurato|Careful casework]]
-[[Quesiti/src_archimede_2002_2livello#q17|src_archimede_2002_2livello__Q17]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]

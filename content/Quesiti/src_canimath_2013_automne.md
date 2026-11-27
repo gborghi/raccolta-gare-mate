@@ -12,9 +12,6 @@ level: Coupe Animath Automne
 
 <span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_aritmetica,method_inclusione_esclusione,method_conteggio,skill_conteggio_sistematico,skill_manipolazione_algebrica"></span>
 
-<div class="qlang-switch" data-default="en"></div>
-
-
 *Count integers between 1 and 10000 divisible by 7 but not 5*
 
 > What is the number of integers between $1$ and $10000$ that are divisible by $7$ but not divisible by $5$?
@@ -27,22 +24,35 @@ level: Coupe Animath Automne
 **Fonte:** [apri PDF](https://drive.google.com/file/d/15K1dwRsP5HXOp9yAKRfdhb1O8mzo_ZCa/view)
 
 
-<div class="qlang-split" data-lang="it"></div>
 
+<span class="atom-split" id="q01__it" data-atom="q01__it" data-title="Q01__IT" data-tags=""></span>
+
+---
+tipo: quesito-translation
+translation_of: src_canimath_2013_automne__Q01
+lang: it
+secondary: true
+title: "Coupe Animath Automne 2013  Quesito 1"
+summary: "Numeri interi da 1 a 10000 divisibili per 7 ma non per 5"
+topics: [topic_aritmetica]
+methods: [method_inclusione_esclusione, method_conteggio]
+skills: [skill_conteggio_sistematico, skill_manipolazione_algebrica]
+tags: [kg/translation, topic/aritmetica]---
 
 *Contare numeri interi tra 1 e 10000 divisibili per 7 ma non per 5*
 
 > Qual è il numero di integri tra $1$ e $10000$ divisibili da $7$ ma non divisibili da $5$?
 
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_inclusione_esclusione|Inclusione-esclusione]], [[method_conteggio|Conteggio combinatorio]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 1143
 [[Quesiti/src_canimath_2013_automne#q01|src_canimath_2013_automne__Q01]]
 
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_logica,topic_aritmetica,method_casework,method_casi_conteggio,skill_lettura_attenta,skill_modellizzazione,skill_casework_accurato"></span>
-
-<div class="qlang-switch" data-default="en"></div>
-
 
 *Count afternoon naps given constraints over 15-day observation*
 
@@ -58,8 +68,20 @@ level: Coupe Animath Automne
 **Fonte:** [apri PDF](https://drive.google.com/file/d/15K1dwRsP5HXOp9yAKRfdhb1O8mzo_ZCa/view)
 
 
-<div class="qlang-split" data-lang="it"></div>
 
+<span class="atom-split" id="q02__it" data-atom="q02__it" data-title="Q02__IT" data-tags=""></span>
+
+---
+tipo: quesito-translation
+translation_of: src_canimath_2013_automne__Q02
+lang: it
+secondary: true
+title: "Coupe Animath Automne 2013  Quesito 2"
+summary: "Conteggi le sonnelline pomeridiane date le restrizioni durante l'osservazione di 15 giorni"
+topics: [topic_logica, topic_aritmetica]
+methods: [method_casework, method_casi_conteggio]
+skills: [skill_lettura_attenta, skill_modellizzazione, skill_casework_accurato]
+tags: [kg/translation, topic/logica, topic/aritmetica]---
 
 *Contare i sonnellini pomeridiani con limitazioni durante l'osservazione di 15 giorni*
 
@@ -67,12 +89,16 @@ level: Coupe Animath Automne
 > 
 > Quante sonnelline di pomeriggio ha piovuto? (cioè, quante pomeriggi piovosi c'erano?)
 
+**Topic:** [[topic_logica|Logica, giochi, strategie]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Analisi per casi]], [[method_casi_conteggio|Conteggio per casi]]
+**Abilita:** [[skill_lettura_attenta|Lettura attenta del testo]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 7
 [[Quesiti/src_canimath_2013_automne#q02|src_canimath_2013_automne__Q02]]
 
 
 
-<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_combinatoria,topic_aritmetica,method_invarianti,method_casework,method_conteggio,skill_ragionamento_geometrico,skill_riconoscimento_pattern,skill_conteggio_sistematico,skill_lettura_attenta"></span>
+<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_combinatoria,topic_aritmetica,method_invarianti,method_casework,method_conteggio,method_congruenze,skill_ragionamento_geometrico,skill_riconoscimento_pattern,skill_conteggio_sistematico,skill_lettura_attenta,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -90,9 +116,9 @@ level: Coupe Animath Automne
 > How many bulbs are still on?
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_invarianti|Invarianti]], [[method_casework|Casework]], [[method_conteggio|Conteggio]]
-**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]]
-**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
+**Metodo:** [[method_invarianti|Invarianti]], [[method_casework|Casework]], [[method_conteggio|Conteggio]], [[method_congruenze|Modular arithmetic / congruences]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/15K1dwRsP5HXOp9yAKRfdhb1O8mzo_ZCa/view)
 
 
@@ -109,14 +135,14 @@ level: Coupe Animath Automne
 > 
 > Quante lampadine sono ancora accese?
 
-[[Quesiti/src_canimath_2013_automne#q03|src_canimath_2013_automne__Q03]]
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_invarianti|Invarianti / monovarianti]], [[method_casework|Analisi per casi]], [[method_conteggio|Conteggio combinatorio]], [[method_congruenze|Aritmetica modulare / congruenze]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta del testo]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_geometria_piana,method_coordinate,method_trigonometria,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
-
-<div class="qlang-switch" data-default="en"></div>
-
 
 *Four concentric circles with equal-radius tangent circles; find r/R*
 
@@ -130,19 +156,35 @@ level: Coupe Animath Automne
 **Fonte:** [apri PDF](https://drive.google.com/file/d/15K1dwRsP5HXOp9yAKRfdhb1O8mzo_ZCa/view)
 
 
-<div class="qlang-split" data-lang="it"></div>
 
+<span class="atom-split" id="q04__it" data-atom="q04__it" data-title="Q04__IT" data-tags=""></span>
+
+---
+tipo: quesito-translation
+translation_of: src_canimath_2013_automne__Q04
+lang: it
+secondary: true
+title: "Coupe Animath Automne 2013  Quesito 4"
+summary: "Quattro cerchi concentrici con cerchi tangenti di uguale raggio; trovare r/R"
+topics: [topic_geometria_piana]
+methods: [method_coordinate, method_trigonometria]
+skills: [skill_ragionamento_geometrico, skill_manipolazione_algebrica]
+tags: [kg/translation, topic/geometria_piana]---
 
 *Quattro cerchi concentrici con cerchi tangenti di uguale raggio; trovare r/R*
 
 > Quattro cerchi $C_1, C_2, C_3, C_4$ con raggi identici $r$ sono inseriti ciascuno all'interno di un cerchio di raggio $R$. Abbiamo impostato $C_5 = C_1$. Supponiamo che per ogni $i = 1, 2, 3, 4$, i cerchi $C_i$ e $C_{i+1}$ siano tangenti tra loro. Determinare il valore del rapporto $r/R$.
 
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_coordinate|Metodo delle coordinate]], [[method_trigonometria|Tecniche trigonometriche]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
 **Risposta:** \frac{\sqrt{2}}{2+\sqrt{2}}
 [[Quesiti/src_canimath_2013_automne#q04|src_canimath_2013_automne__Q04]]
 
 
 
-<span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_combinatoria,topic_logica,method_estremalita,method_casework,method_grafi,skill_ragionamento_geometrico,skill_astrazione,skill_lettura_attenta"></span>
+<span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_combinatoria,topic_logica,method_estremalita,method_casework,method_grafi,skill_ragionamento_geometrico,skill_astrazione,skill_lettura_attenta,skill_modellizzazione"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -157,8 +199,8 @@ level: Coupe Animath Automne
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_logica|Logica]]
 **Metodo:** [[method_estremalita|Estremalità]], [[method_casework|Casework]], [[method_grafi|Grafi]]
-**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_astrazione|Astrazione]], [[skill_lettura_attenta|Lettura attenta]]
-**Area:** [[Combinatoria, Logica e Probabilita]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_astrazione|Astrazione]], [[skill_lettura_attenta|Lettura attenta]], [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/15K1dwRsP5HXOp9yAKRfdhb1O8mzo_ZCa/view)
 
 
@@ -173,11 +215,14 @@ level: Coupe Animath Automne
 > 
 > 2) Quanti membri può contenere un club che soddisfa questa condizione?
 
-[[Quesiti/src_canimath_2013_automne#q05|src_canimath_2013_automne__Q05]]
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_logica|Logica, giochi, strategie]]
+**Metodo:** [[method_estremalita|Principio di estremalita]], [[method_casework|Analisi per casi]], [[method_grafi|Teoria dei grafi]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_astrazione|Astrazione / generalizzazione]], [[skill_lettura_attenta|Lettura attenta del testo]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
 
 
 
-<span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_geometria_piana,method_casework,method_coordinate,skill_ragionamento_geometrico,skill_astrazione,skill_lettura_attenta"></span>
+<span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_geometria_piana,topic_geometria_analitica,method_casework,method_coordinate,skill_ragionamento_geometrico,skill_astrazione,skill_lettura_attenta"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -188,10 +233,10 @@ level: Coupe Animath Automne
 > 
 > Prove that $A$, $B$, $C$, $D$ are collinear or all lie on a common circle.
 
-**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_geometria_analitica|Coordinate geometry]]
 **Metodo:** [[method_casework|Casework]], [[method_coordinate|Coordinate]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_astrazione|Astrazione]], [[skill_lettura_attenta|Lettura attenta]]
-**Area:** [[Geometria]]
+**Area:** [[Geometria|Geometry]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/15K1dwRsP5HXOp9yAKRfdhb1O8mzo_ZCa/view)
 
 
@@ -204,14 +249,14 @@ level: Coupe Animath Automne
 > 
 > Provare che $A$, $B$, $C$, $D$ sono collineari o che si trovano tutti su un cerchio comune.
 
-[[Quesiti/src_canimath_2013_automne#q06|src_canimath_2013_automne__Q06]]
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_geometria_analitica|Geometria analitica]]
+**Metodo:** [[method_casework|Analisi per casi]], [[method_coordinate|Metodo delle coordinate]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_astrazione|Astrazione / generalizzazione]], [[skill_lettura_attenta|Lettura attenta del testo]]
+**Area:** [[Geometria]]
 
 
 
 <span class="atom-split" id="q07" data-atom="q07" data-title="Quesito 7" data-tags="topic_disuguaglianze,topic_algebra,method_estremalita,method_disuguaglianze,method_simmetria,skill_manipolazione_algebrica,skill_stima,skill_casework_accurato"></span>
-
-<div class="qlang-switch" data-default="en"></div>
-
 
 *Find best constants a,b in inequality a(x+y+z)^2 ≤ x²+y²+z²+yz ≤ b(x+y+z)^2*
 
@@ -226,19 +271,35 @@ level: Coupe Animath Automne
 **Fonte:** [apri PDF](https://drive.google.com/file/d/15K1dwRsP5HXOp9yAKRfdhb1O8mzo_ZCa/view)
 
 
-<div class="qlang-split" data-lang="it"></div>
 
+<span class="atom-split" id="q07__it" data-atom="q07__it" data-title="Q07__IT" data-tags=""></span>
+
+---
+tipo: quesito-translation
+translation_of: src_canimath_2013_automne__Q07
+lang: it
+secondary: true
+title: "Coupe Animath Automne 2013  Quesito 7"
+summary: "Trova le migliori costanti a,b nell'ineguaglianza a(x+y+z) ^2 ≤ x2+y2+z2+yz ≤ b(x+y+z) ^2"
+topics: [topic_disuguaglianze, topic_algebra]
+methods: [method_estremalita, method_disuguaglianze, method_simmetria]
+skills: [skill_manipolazione_algebrica, skill_stima, skill_casework_accurato]
+tags: [kg/translation, topic/disuguaglianze, topic/algebra]---
 
 *Trova le costanti migliori a,b nell'inequità a(x+y+z) ^2 ≤ x2+y2+z2+yz ≤ b(x+y+z) ^2*
 
 > Determinare il numero reale più grande $a$ e il numero reale più piccolo $b$ in modo tale che per tutti $x, y, z$ positivo o zero: $$a(x+y+z)^2 \le x^2 + y^2 + z^2 + yz \le b(x+y+z)^2.$$
 
+**Topic:** [[topic_disuguaglianze|Disuguaglianze]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_estremalita|Principio di estremalita]], [[method_disuguaglianze|Disuguaglianze classiche]], [[method_simmetria|Sfruttamento della simmetria]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima e approssimazione]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Algebra e Analisi]]
 **Risposta:** a=\frac{1}{3},\; b=1
 [[Quesiti/src_canimath_2013_automne#q07|src_canimath_2013_automne__Q07]]
 
 
 
-<span class="atom-split" id="q08" data-atom="q08" data-title="Quesito 8" data-tags="topic_aritmetica,method_fattorizzazione,method_casework,method_conteggio,skill_manipolazione_algebrica,skill_riconoscimento_pattern,skill_conteggio_sistematico"></span>
+<span class="atom-split" id="q08" data-atom="q08" data-title="Quesito 8" data-tags="topic_aritmetica,method_fattorizzazione,method_casework,method_conteggio,skill_manipolazione_algebrica,skill_riconoscimento_pattern,skill_conteggio_sistematico,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -251,8 +312,8 @@ level: Coupe Animath Automne
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_casework|Casework]], [[method_conteggio|Conteggio]]
-**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_conteggio_sistematico|Conteggio sistematico]]
-**Area:** [[Aritmetica e Teoria dei Numeri]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/15K1dwRsP5HXOp9yAKRfdhb1O8mzo_ZCa/view)
 
 
@@ -265,4 +326,7 @@ level: Coupe Animath Automne
 > 
 > Quanti divisori positivi può $a$ avere?
 
-[[Quesiti/src_canimath_2013_automne#q08|src_canimath_2013_automne__Q08]]
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]], [[method_casework|Analisi per casi]], [[method_conteggio|Conteggio combinatorio]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]

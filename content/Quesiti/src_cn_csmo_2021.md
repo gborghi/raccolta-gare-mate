@@ -10,7 +10,7 @@ level: China Southeastern Mathematical Olympiad
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_algebra,topic_disuguaglianze,method_induzione,method_telescoping,skill_manipolazione_algebrica,skill_stima,skill_lettura_attenta"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_algebra,topic_disuguaglianze,topic_funzionali,method_induzione,method_telescoping,method_fattorizzazione,skill_manipolazione_algebrica,skill_stima,skill_lettura_attenta"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -22,10 +22,10 @@ level: China Southeastern Mathematical Olympiad
 > (1) Find $a_n$ for $n \ge 1$.
 > (2) Let $S_n = \sum_{i=1}^n a_i$. Show that $\ln\!\left(\frac{n}{2}+1\right) < S_n < \ln(n+1)$.
 
-**Topic:** [[topic_algebra|Algebra]], [[topic_disuguaglianze|Disuguaglianze]]
-**Metodo:** [[method_induzione|Induzione]], [[method_telescoping|Telescoping]]
+**Topic:** [[topic_algebra|Algebra]], [[topic_disuguaglianze|Disuguaglianze]], [[topic_funzionali|Functional equations / sequences]]
+**Metodo:** [[method_induzione|Induzione]], [[method_telescoping|Telescoping]], [[method_fattorizzazione|Factorisation / algebraic manipulation]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]], [[skill_lettura_attenta|Lettura attenta]]
-**Area:** [[Algebra e Analisi]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1OFC5fmTEMyWQSx2doV1_Jplo27sQCZ_A/view)
 
 
@@ -38,12 +38,11 @@ level: China Southeastern Mathematical Olympiad
 > $$a_n^2(a_{n-1}+1) + a_{n-1}^2(a_n+1) - 2a_{n-1}a_n(a_{n-1}+a_n+1) = 0.$$
 > (1) Trova $a_n$ per $n \ge 1$. (2) Sia $S_n = \sum_{i=1}^n a_i$. Dimostrare che $\ln\!\left(\frac{n}{2}+1\right) < S_n < \ln(n+1)$.
 
-**Topic:** [[topic_algebra|Algebra]], [[topic_disuguaglianze|Disuguaglianze]]
-**Metodo:** [[method_induzione|Induzione]], [[method_telescoping|Telescoping]]
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_disuguaglianze|Disuguaglianze]], [[topic_funzionali|Equazioni funzionali / successioni]]
+**Metodo:** [[method_induzione|Induzione]], [[method_telescoping|Telescoping]], [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Algebra e Analisi]]
-
-[[Quesiti/src_cn_csmo_2021#q01|src_cn_csmo_2021__Q01]]
 
 
 
@@ -74,8 +73,6 @@ level: China Southeastern Mathematical Olympiad
 **Metodo:** [[method_trigonometria|Trigonometria]], [[method_simmetria|Simmetria]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
-
-[[Quesiti/src_cn_csmo_2021#q02|src_cn_csmo_2021__Q02]]
 
 
 
@@ -111,8 +108,6 @@ level: China Southeastern Mathematical Olympiad
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_astrazione|Astrazione]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 
-[[Quesiti/src_cn_csmo_2021#q03|src_cn_csmo_2021__Q03]]
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_combinatoria,method_conteggio,method_induzione,method_casework,skill_conteggio_sistematico,skill_riconoscimento_pattern,skill_modellizzazione"></span>
@@ -145,11 +140,9 @@ level: China Southeastern Mathematical Olympiad
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_modellizzazione|Modellizzazione]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 
-[[Quesiti/src_cn_csmo_2021#q04|src_cn_csmo_2021__Q04]]
 
 
-
-<span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_combinatoria,topic_aritmetica,method_congruenze,method_conteggio,skill_conteggio_sistematico,skill_modellizzazione,skill_manipolazione_algebrica"></span>
+<span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_combinatoria,topic_aritmetica,method_congruenze,method_conteggio,method_telescoping,skill_conteggio_sistematico,skill_modellizzazione,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -161,9 +154,9 @@ level: China Southeastern Mathematical Olympiad
 > (2) Determine the number of all such sequences $\{a_n\}$.
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_congruenze|Congruenze]], [[method_conteggio|Conteggio]]
+**Metodo:** [[method_congruenze|Congruenze]], [[method_conteggio|Conteggio]], [[method_telescoping|Telescoping sums]]
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
-**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1OFC5fmTEMyWQSx2doV1_Jplo27sQCZ_A/view)
 
 
@@ -174,12 +167,11 @@ level: China Southeastern Mathematical Olympiad
 
 > Per celebrare il 43º anniversario della ripresa delle competizioni matematiche, un appassionato di matematica dispone i primi $2021$ numeri interi positivi $1, 2, \ldots, 2021$ in una successione $\{a_n\}$ tale che la somma di qualsiasi gruppo di $43$ numeri consecutivi sia un multiplo di $43$. (1) Dimostrare che, se le due estremità di $\{a_n\}$ vengono unite a formare un cerchio, allora anche la somma di qualsiasi gruppo di $43$ numeri consecutivi sul cerchio è un multiplo di $43$. (2) Determina il numero di tutte le successioni $\{a_n\}$ di questo tipo.
 
+
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_congruenze|Congruenze]], [[method_conteggio|Conteggio]]
+**Metodo:** [[method_congruenze|Congruenze]], [[method_conteggio|Conteggio]], [[method_telescoping|Somme telescopiche]]
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
-
-[[Quesiti/src_cn_csmo_2021#q05|src_cn_csmo_2021__Q05]]
 
 
 
@@ -192,7 +184,7 @@ level: China Southeastern Mathematical Olympiad
 
 > In the cyclic quadrilateral $ABCD$, let $E$ be an interior point on $BC$, $F$ be a point on $AE$, and $G$ be a point on the exterior bisector of $\angle BCD$, such that $EG = GF$ and $\angle EAG = \frac{1}{2}\angle BAD$, as shown in the figure. Prove that $AB \cdot AF = AD \cdot AE$.
 
-![[src_cn_csmo_2021__q06.png]]
+![[src_cn_csmo_2021__Q06.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_simmetria|Simmetria]], [[method_trigonometria|Trigonometria]]
@@ -208,14 +200,12 @@ level: China Southeastern Mathematical Olympiad
 
 > Nel quadrilatero ciclico $ABCD$, sia $E$ un punto interno su $BC$, sia $F$ un punto su $AE$, e sia $G$ un punto sull'asse bisettrice esterno di $\angle BCD$, in modo che $EG = GF$ e $\angle EAG = \frac{1}{2}\angle BAD$, come mostrato nella figura. Dimostrare che $AB \cdot AF = AD \cdot AE$.
 
-![[src_cn_csmo_2021__q06.png]]
+![[src_cn_csmo_2021__Q06.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_simmetria|Simmetria]], [[method_trigonometria|Trigonometria]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
-
-[[Quesiti/src_cn_csmo_2021#q06|src_cn_csmo_2021__Q06]]
 
 
 
@@ -248,8 +238,6 @@ level: China Southeastern Mathematical Olympiad
 **Metodo:** [[method_disuguaglianze|Disuguaglianze]], [[method_casework|Casework]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]]
 **Area:** [[Algebra e Analisi]]
-
-[[Quesiti/src_cn_csmo_2021#q07|src_cn_csmo_2021__Q07]]
 
 
 
@@ -286,8 +274,6 @@ level: China Southeastern Mathematical Olympiad
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Casework accurato]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 
-[[Quesiti/src_cn_csmo_2021#q08|src_cn_csmo_2021__Q08]]
-
 
 
 <span class="atom-split" id="q09" data-atom="q09" data-title="Quesito 9" data-tags="topic_aritmetica,topic_combinatoria,method_congruenze,method_simmetria,skill_manipolazione_algebrica,skill_riconoscimento_pattern,skill_astrazione"></span>
@@ -323,8 +309,6 @@ level: China Southeastern Mathematical Olympiad
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_astrazione|Astrazione]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 
-[[Quesiti/src_cn_csmo_2021#q09|src_cn_csmo_2021__Q09]]
-
 
 
 <span class="atom-split" id="q10" data-atom="q10" data-title="Quesito 10" data-tags="topic_disuguaglianze,method_disuguaglianze,method_simmetria,skill_manipolazione_algebrica,skill_stima"></span>
@@ -356,8 +340,6 @@ level: China Southeastern Mathematical Olympiad
 **Metodo:** [[method_disuguaglianze|Disuguaglianze]], [[method_simmetria|Simmetria]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]]
 **Area:** [[Algebra e Analisi]]
-
-[[Quesiti/src_cn_csmo_2021#q10|src_cn_csmo_2021__Q10]]
 
 
 
@@ -391,11 +373,9 @@ level: China Southeastern Mathematical Olympiad
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 
-[[Quesiti/src_cn_csmo_2021#q11|src_cn_csmo_2021__Q11]]
 
 
-
-<span class="atom-split" id="q12" data-atom="q12" data-title="Quesito 12" data-tags="topic_combinatoria,method_conteggio,method_inclusione_esclusione,skill_conteggio_sistematico,skill_modellizzazione,skill_manipolazione_algebrica"></span>
+<span class="atom-split" id="q12" data-atom="q12" data-title="Quesito 12" data-tags="topic_combinatoria,method_conteggio,method_inclusione_esclusione,skill_conteggio_sistematico,skill_modellizzazione,skill_manipolazione_algebrica,skill_stima"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -408,8 +388,8 @@ level: China Southeastern Mathematical Olympiad
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_conteggio|Conteggio]], [[method_inclusione_esclusione|Inclusione-esclusione]]
-**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
-**Area:** [[Combinatoria, Logica e Probabilita]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Estimation and approximation]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Risposta:** $m=26$
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1OFC5fmTEMyWQSx2doV1_Jplo27sQCZ_A/view)
 
@@ -421,12 +401,11 @@ level: China Southeastern Mathematical Olympiad
 
 > Sia $A = \{a_1, a_2, \ldots, a_n, b_1, b_2, \ldots, b_n\}$ un insieme $2n$, e sia $B_1, B_2, \ldots, B_m \subseteq A$. Se $\bigcup_{i=1}^m B_i = A$, la n-upla ordinata $m$ $(B_1, B_2, \ldots, B_m)$ è detta copertura ordinata $m$ di $A$. Per una copertura ordinata $m$ $(B_1, B_2, \ldots, B_m)$, se nessun insieme $B_i$ contiene sia $a_i$ sia $b_i$ (per lo stesso indice $i = 1, 2, \ldots, n$), allora essa è detta "copertura ordinata $m$ senza corrispondenze" di $A$. Sia $k(n,m)$ il numero di coperture ordinate $m$ di $A$, e $a(n,m)$ il numero di coperture ordinate $m$ senza corrispondenze. (1) Determinare $a(n,m)$ e $k(n,m)$. (2) Per gli interi $m \ge 2$ e $n \ge 1$, si supponga $\frac{a(n,m)}{k(n,m)} \le \frac{1}{2021}$. Determinare il valore massimo possibile di $m$.
 
+
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_conteggio|Conteggio]], [[method_inclusione_esclusione|Inclusione-esclusione]]
-**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima e approssimazione]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
-
-[[Quesiti/src_cn_csmo_2021#q12|src_cn_csmo_2021__Q12]]
 
 
 
@@ -439,7 +418,7 @@ level: China Southeastern Mathematical Olympiad
 
 > As shown in the figure, in the cyclic quadrilateral $ABCD$, the bisector of $\angle BAD$ meets side $BC$ at $E$, and $M$ is the midpoint of $AE$. The exterior bisector of $\angle BCD$ crosses the extension of $AD$ at $F$; the line $MF$ meets side $AB$ at $G$. If $AB = 2AD$, prove that $MF = 2MG$.
 
-![[src_cn_csmo_2021__q13.png]]
+![[src_cn_csmo_2021__Q13.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_simmetria|Simmetria]], [[method_trigonometria|Trigonometria]]
@@ -455,14 +434,12 @@ level: China Southeastern Mathematical Olympiad
 
 > Come mostrato nella figura, nel quadrilatero ciclico $ABCD$, la bisettrice di $\angle BAD$ incontra il lato $BC$ in $E$, e $M$ è il punto medio di $AE$. La bisettrice esterna di $\angle BCD$ interseca il prolungamento di $AD$ in $F$; la retta $MF$ incontra il lato $AB$ in $G$. Se $AB = 2AD$, dimostrare che $MF = 2MG$.
 
-![[src_cn_csmo_2021__q13.png]]
+![[src_cn_csmo_2021__Q13.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_simmetria|Simmetria]], [[method_trigonometria|Trigonometria]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
-
-[[Quesiti/src_cn_csmo_2021#q13|src_cn_csmo_2021__Q13]]
 
 
 
@@ -499,11 +476,9 @@ level: China Southeastern Mathematical Olympiad
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Casework accurato]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 
-[[Quesiti/src_cn_csmo_2021#q14|src_cn_csmo_2021__Q14]]
 
 
-
-<span class="atom-split" id="q15" data-atom="q15" data-title="Quesito 15" data-tags="topic_algebra,topic_combinatoria,method_estremalita,method_casework,skill_modellizzazione,skill_manipolazione_algebrica,skill_stima"></span>
+<span class="atom-split" id="q15" data-atom="q15" data-title="Quesito 15" data-tags="topic_algebra,topic_combinatoria,topic_aritmetica,method_estremalita,method_casework,method_congruenze,skill_modellizzazione,skill_manipolazione_algebrica,skill_stima"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -514,10 +489,10 @@ level: China Southeastern Mathematical Olympiad
 > $$\sum_{i=1}^k x_i \ge \sum_{i=1}^k \frac{10-i}{50} - z_k.$$
 > Find the least possible value of $G = \sum_{i=1}^{2021} x_i^2$.
 
-**Topic:** [[topic_algebra|Algebra]], [[topic_combinatoria|Combinatoria]]
-**Metodo:** [[method_estremalita|Estremalità]], [[method_casework|Casework]]
+**Topic:** [[topic_algebra|Algebra]], [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_casework|Casework]], [[method_congruenze|Modular arithmetic / congruences]]
 **Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]]
-**Area:** [[Algebra e Analisi]], [[Combinatoria, Logica e Probabilita]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Risposta:** $46399.4$
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1OFC5fmTEMyWQSx2doV1_Jplo27sQCZ_A/view)
 
@@ -531,9 +506,8 @@ level: China Southeastern Mathematical Olympiad
 > $$\sum_{i=1}^k x_i \ge \sum_{i=1}^k \frac{10-i}{50} - z_k.$$
 > Trova il valore minimo possibile di $G = \sum_{i=1}^{2021} x_i^2$.
 
-**Topic:** [[topic_algebra|Algebra]], [[topic_combinatoria|Combinatoria]]
-**Metodo:** [[method_estremalita|Estremalità]], [[method_casework|Casework]]
-**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]]
-**Area:** [[Algebra e Analisi]], [[Combinatoria, Logica e Probabilita]]
 
-[[Quesiti/src_cn_csmo_2021#q15|src_cn_csmo_2021__Q15]]
+**Topic:** [[topic_algebra|Algebra]], [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_casework|Casework]], [[method_congruenze|Aritmetica modulare / congruenze]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]]
+**Area:** [[Algebra e Analisi]], [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]

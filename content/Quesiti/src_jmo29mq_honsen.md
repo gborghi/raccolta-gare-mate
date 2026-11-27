@@ -36,11 +36,11 @@ level: JMO Honsen
 **Argomento:** [[topic_aritmetica|Aritmetica / Teoria dei numeri]]
 **Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]], [[method_casework|Analisi per casi]]
 **Abilità:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Analisi per casi accurata]]
-[[Quesiti/src_jmo29mq_honsen#q01|src_jmo29mq_honsen__Q01]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
 
 
 
-<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_combinatoria,method_casi_conteggio,method_congruenze,method_estremalita,skill_conteggio_sistematico,skill_modellizzazione"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_combinatoria,topic_aritmetica,method_casi_conteggio,method_congruenze,method_estremalita,skill_conteggio_sistematico,skill_modellizzazione"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -54,10 +54,10 @@ level: JMO Honsen
 > \end{itemize}
 > Find the maximum possible value of the total number of points that can be earned by the time the game ends.
 
-**Topic:** [[topic_combinatoria|Combinatoria]]
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Arithmetic / Number theory]]
 **Metodo:** [[method_casi_conteggio|Casi e conteggio]], [[method_congruenze|Congruenze]], [[method_estremalita|Estremalità]]
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione]]
-**Area:** [[Combinatoria, Logica e Probabilita]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1d-Z0DI9iKKJVTFxoX0Fz2qworASxs0iM/view)
 
 
@@ -74,9 +74,11 @@ level: JMO Honsen
 > Trovare il massimo valore possibile del numero totale di punti che si possono guadagnare entro la fine della partita.
 
 **Argomento:** [[topic_combinatoria|Combinatoria]]
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_casi_conteggio|Conteggio per casi]], [[method_congruenze|Aritmetica modulare / congruenze]], [[method_estremalita|Principio di estremalità]]
-**Abilità:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
-[[Quesiti/src_jmo29mq_honsen#q02|src_jmo29mq_honsen__Q02]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 
 
 
@@ -109,11 +111,11 @@ level: JMO Honsen
 **Argomento:** [[topic_funzionali|Equazioni funzionali / successioni]]
 **Metodo:** [[method_simmetria|Sfruttamento della simmetria]]
 **Abilità:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione / generalizzazione]]
-[[Quesiti/src_jmo29mq_honsen#q03|src_jmo29mq_honsen__Q03]]
+**Area:** [[Algebra e Analisi]]
 
 
 
-<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_geometria_piana,skill_ragionamento_geometrico"></span>
+<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_geometria_piana,method_coordinate,skill_ragionamento_geometrico"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -123,8 +125,9 @@ level: JMO Honsen
 > Let $I$ be the incenter of triangle $ABC$ and let $\omega$ be its incircle. Let $M$ be the midpoint of side $BC$. Let $K$ be the intersection point of the line through $A$ perpendicular to line $BC$ and the line through $M$ perpendicular to line $AI$. Prove that the circle with diameter $AK$ is tangent to $\omega$.
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_coordinate|Coordinate method]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
-**Area:** [[Geometria]]
+**Area:** [[Geometria|Geometry]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1d-Z0DI9iKKJVTFxoX0Fz2qworASxs0iM/view)
 
 
@@ -136,8 +139,11 @@ level: JMO Honsen
 > Sia $I$ l'incentro del triangolo $ABC$ e sia $\omega$ la sua circonferenza inscritta. Sia $M$ il punto medio del lato $BC$. Sia $K$ il punto di intersezione della retta per $A$ perpendicolare alla retta $BC$ e della retta per $M$ perpendicolare alla retta $AI$. Dimostrare che la circonferenza di diametro $AK$ è tangente a $\omega$.
 
 **Argomento:** [[topic_geometria_piana|Geometria piana]]
-**Abilità:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
-[[Quesiti/src_jmo29mq_honsen#q04|src_jmo29mq_honsen__Q04]]
+
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_coordinate|Metodo delle coordinate]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Geometria]]
 
 
 
@@ -171,4 +177,4 @@ level: JMO Honsen
 **Argomento:** [[topic_aritmetica|Aritmetica / Teoria dei numeri]], [[topic_combinatoria|Combinatoria]], [[topic_insiemi_funzioni|Insiemi e funzioni]]
 **Metodo:** [[method_estremalita|Principio di estremalità]], [[method_casework|Analisi per casi]]
 **Abilità:** [[skill_astrazione|Astrazione / generalizzazione]], [[skill_casework_accurato|Analisi per casi accurata]]
-[[Quesiti/src_jmo29mq_honsen#q05|src_jmo29mq_honsen__Q05]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]], [[Algebra e Analisi]]

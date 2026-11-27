@@ -10,7 +10,7 @@ level: squadre
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_logica,method_casework,skill_casework_accurato"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_logica,method_casework,skill_casework_accurato,skill_lettura_attenta,skill_riconoscimento_pattern"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -31,7 +31,7 @@ level: squadre
 
 **Topic:** [[topic_logica|Logica, giochi, strategie]]
 **Metodo:** [[method_casework|Analisi per casi]]
-**Abilita:** [[skill_casework_accurato|Casework accurato]]
+**Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_lettura_attenta|Lettura attenta del testo]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0010
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1-61TMY-0LvBsyg90RrZAZEXLkXVkxW-I/view)
@@ -48,16 +48,15 @@ level: squadre
 >
 > None of the seven gods mentions the fifth king, Unton Greyjoy. What is the total number of letters in the winner's first name and surname?
 
+
 **Topic:** [[topic_logica|Logic, games and strategies]]
 **Metodo:** [[method_casework|Case analysis]]
-**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]], [[skill_lettura_attenta|Careful reading of the text]], [[skill_riconoscimento_pattern|Pattern recognition]]
 **Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
-[[Quesiti/src_gs_2013_squadre#q01|src_gs_2013_squadre__Q01]]
 
 
-
-<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_geometria_piana,topic_aritmetica,skill_ragionamento_geometrico"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_geometria_piana,topic_aritmetica,method_estremalita,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -69,8 +68,9 @@ level: squadre
 > Pensa allora a come piegare a metà due volte il foglio iniziale in modo da ottenere il perimetro massimo possibile. Quanti cm è lungo quel perimetro?
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
-**Area:** [[Aritmetica e Teoria dei Numeri]], [[Geometria]]
+**Metodo:** [[method_estremalita|Principio di estremalita]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 0051
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1-61TMY-0LvBsyg90RrZAZEXLkXVkxW-I/view)
 
@@ -84,15 +84,15 @@ level: squadre
 >
 > He then thinks about how to fold the initial sheet in half twice so as to obtain the greatest possible perimeter. How many cm long is that perimeter?
 
+
 **Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_aritmetica|Arithmetic / Number theory]]
-**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
-**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Geometria|Geometry]]
-
-[[Quesiti/src_gs_2013_squadre#q02|src_gs_2013_squadre__Q02]]
-
+**Metodo:** [[method_estremalita|Extremal principle]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Geometria|Geometry]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
 
-<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_combinatoria,topic_probabilita,method_conteggio,skill_conteggio_sistematico"></span>
+
+<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_combinatoria,topic_probabilita,method_conteggio,method_casi_conteggio,skill_conteggio_sistematico,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -102,8 +102,8 @@ level: squadre
 > L'accesso alla porta principale di Approdo del Re è controllato da un codice a cinque cifre che cambia ogni giorno. Il re Ceelvyer Lannister ha deciso che, per non sforzare troppo il cervello su inezie simili, il codice sia sempre composto usando esattamente due sequenze di due diverse cifre, ad esempio $44333$ e $07777$, ma non $43334$ e neppure $77707$. La Mano del Re protesta dicendo che la frazione $p/q$ ottenuta dividendo il numero totale dei codici proposti da Ceelvyer Lannister per il numero di tutti i possibili codici di cinque cifre è minuscola e questo genererà inutili rischi per la sicurezza della città. Ma Ceelvyer Lannister dice alla Mano di non preoccuparsi e, presa la frazione $p/q$ con $p$ e $q$ primi fra loro, calcola la differenza $q - p$ e mostra alla Mano che non è piccola. Che numero ha calcolato Ceelvyer Lannister?
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_probabilita|Probabilita e statistica]]
-**Metodo:** [[method_conteggio|Conteggio combinatorio]]
-**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Metodo:** [[method_conteggio|Conteggio combinatorio]], [[method_casi_conteggio|Conteggio per casi]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 2491
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1-61TMY-0LvBsyg90RrZAZEXLkXVkxW-I/view)
@@ -116,26 +116,27 @@ level: squadre
 
 > Access to the main gate of King's Cove is controlled by a five-digit code that changes every day. King Ceelvyer Lannister has decided that, so as not to strain his brain too much over trifles like this, the code should always be formed using exactly two sequences of two different digits—for example, $44333$ and $07777$, but not $43334$ or $77707$. The King's Hand protests, saying that the fraction $p/q$ obtained by dividing the total number of codes proposed by Ceelvyer Lannister by the number of all possible five-digit codes is minuscule and that this will create unnecessary risks to the city's security. But Ceelvyer Lannister tells the King's Hand not to worry and, having taken the fraction $p/q$ with $p$ and $q$ coprime, calculates the difference $q - p$ and shows the King's Hand that it is not small. What number did Ceelvyer Lannister calculate?
 
+
 **Topic:** [[topic_combinatoria|Combinatorics]], [[topic_probabilita|Probability and statistics]]
-**Metodo:** [[method_conteggio|Combinatorial counting]]
-**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Metodo:** [[method_conteggio|Combinatorial counting]], [[method_casi_conteggio|Counting by cases]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]], [[skill_casework_accurato|Careful case analysis]]
 **Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
-[[Quesiti/src_gs_2013_squadre#q03|src_gs_2013_squadre__Q03]]
 
 
-
-<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_geometria_piana,skill_ragionamento_geometrico"></span>
+<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_geometria_piana,method_fattorizzazione,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
 
-*Area triangolo da trapezio con similitudini*
+*Area del triangolo ottenuto prolungando i lati del trapezio*
 
-> = 51.
+> La pista dei draghi (punti 20)
+> I giovani draghi spiccano il volo da un campo a forma di trapezio di area 165 m². La base maggiore misura 16 m, l’altezza 15 m. Crescendo i draghi hanno bisogno di un campo di volo più ampio: vengono perciò prolungati i lati obliqui del trapezio fino a che si incontrano a formare un triangolo (con base la base maggiore del precedente campo trapezoidale). Quanto è l’area del nuovo campo di volo esteso?
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
-**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 **Risposta:** 0192
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1-61TMY-0LvBsyg90RrZAZEXLkXVkxW-I/view)
@@ -144,19 +145,19 @@ level: squadre
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Area of a triangle derived from a trapezoid with similarities*
+*Area of the triangle obtained by extending the sides of the trapezoid*
 
-> = 51.
+> The dragons’ runway (20 points)
+> The young dragons take off from a trapezoid-shaped field of area 165 m². The longer base measures 16 m, the height 15 m. As they grow, the dragons need a larger flying field: the non-parallel sides of the trapezoid are therefore extended until they meet, forming a triangle (with the longer base of the previous trapezoidal field as its base). What is the area of the new, extended flying field?
 
 **Topic:** [[topic_geometria_piana|Plane geometry]]
-**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
 **Area:** [[Geometria|Geometry]]
 
-[[Quesiti/src_gs_2013_squadre#q04|src_gs_2013_squadre__Q04]]
 
 
-
-<span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_combinatoria,method_conteggio,skill_conteggio_sistematico"></span>
+<span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_combinatoria,method_conteggio,method_casi_conteggio,skill_conteggio_sistematico,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -166,8 +167,8 @@ level: squadre
 > Ceelvyer, che fa parte della ricchissima Casa Lannister, valuta i nomi propri di persona in un modo leggermente inusuale. Classifica infatti le 21 lettere maiuscole dell'alfabeto italiano in base ad un loro carattere topologico: il numero di buchi della loro scrittura stampata. La lettera B vale 2, le lettere A, D, O, P, Q, R valgono 1 ciascuna, tutte le altre valgono 0. Quindi valuta il valore di un nome come somma dei valori delle lettere componenti. Dopo un'attenta analisi, decide di chiamare il suo quarto figlio con il nome di PDOR dopo aver preso in considerazione tutte le liste di quattro lettere (anche di sole consonanti) e con quello stesso valore. Quante sono le liste di quattro lettere con lo stesso valore di PDOR che Ceelvyer Lannister ha escluso?
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
-**Metodo:** [[method_conteggio|Conteggio combinatorio]]
-**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Metodo:** [[method_conteggio|Conteggio combinatorio]], [[method_casi_conteggio|Conteggio per casi]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 8519
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1-61TMY-0LvBsyg90RrZAZEXLkXVkxW-I/view)
@@ -180,12 +181,11 @@ level: squadre
 
 > Ceelvyer, who is part of the extremely wealthy House Lannister, evaluates personal proper names in a slightly unusual way. Indeed, they rank the 21 uppercase letters of the Italian alphabet according to a topological characteristic of the letters: the number of holes in their printed form. The letter B has a value of 2; the letters A, D, O, P, Q, and R each have a value of 1; all the other letters have a value of 0. Thus, they evaluate the value of a name as the sum of the values of its constituent letters. After careful analysis, they decide to name their fourth child PDOR after considering all four-letter lists (including those made up solely of consonants) with that same value. How many four-letter lists with the same value as PDOR has Ceelvyer Lannister excluded?
 
-**Topic:** [[topic_combinatoria|Combinatorics]]
-**Metodo:** [[method_conteggio|Combinatorial counting]]
-**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
-**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
-[[Quesiti/src_gs_2013_squadre#q05|src_gs_2013_squadre__Q05]]
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_conteggio|Combinatorial counting]], [[method_casi_conteggio|Counting by cases]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]], [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
 
 
@@ -222,11 +222,9 @@ level: squadre
 **Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
 **Area:** [[Geometria|Geometry]]
 
-[[Quesiti/src_gs_2013_squadre#q06|src_gs_2013_squadre__Q06]]
 
 
-
-<span class="atom-split" id="q07" data-atom="q07" data-title="Quesito 7" data-tags="topic_aritmetica,topic_combinatoria,method_telescoping,skill_conteggio_sistematico"></span>
+<span class="atom-split" id="q07" data-atom="q07" data-title="Quesito 7" data-tags="topic_aritmetica,topic_combinatoria,method_telescoping,skill_conteggio_sistematico,skill_manipolazione_algebrica,skill_riconoscimento_pattern"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -237,7 +235,7 @@ level: squadre
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_telescoping|Somme telescopiche]]
-**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 4410
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1-61TMY-0LvBsyg90RrZAZEXLkXVkxW-I/view)
@@ -250,16 +248,15 @@ level: squadre
 
 > To pass the time at the Wall, the Night's Watch members do very long calculations to keep their minds active. For example, Sam writes numbers in sequence and adds up the resulting sequence. Today he writes rows of twenty-one numbers: in the first row he writes two 1s, then 2, 3, and so on up to 20; in the second row he writes 1, then two 2s, then 3, 4, and so on up to 20; in the third row he writes 1, 2, two 3s, then 4, 5, and so on up to 20; and he continues like this until he writes a row with 1, 2, and so on up to 19, ending with two 20s. Finally, he adds up all the numbers he has written. What result does he get?
 
+
 **Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_combinatoria|Combinatorics]]
 **Metodo:** [[method_telescoping|Telescoping sums]]
-**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]], [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_riconoscimento_pattern|Pattern recognition]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
-[[Quesiti/src_gs_2013_squadre#q07|src_gs_2013_squadre__Q07]]
 
 
-
-<span class="atom-split" id="q08" data-atom="q08" data-title="Quesito 8" data-tags="topic_geometria_piana,skill_ragionamento_geometrico"></span>
+<span class="atom-split" id="q08" data-atom="q08" data-title="Quesito 8" data-tags="topic_geometria_piana,method_fattorizzazione,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -269,7 +266,8 @@ level: squadre
 > La sezione verticale del tunnel nella Barriera a Castello Nero ha forma di trapezio con basi di $6{,}26\text{ m}$ e $76{,}82\text{ m}$. In alcuni punti del tunnel, per assicurare stabilità, è montata una trave di sostegno, parallela alle basi, che divide la sezione verticale del tunnel in due trapezi equivalenti. Quanto è lunga una di queste travi di sostegno in cm?
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
-**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 **Risposta:** 5450
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1-61TMY-0LvBsyg90RrZAZEXLkXVkxW-I/view)
@@ -282,15 +280,15 @@ level: squadre
 
 > The vertical cross-section of the tunnel in the Black Castle Barrier is trapezoidal, with bases of $6{,}26\text{ m}$ and $76{,}82\text{ m}$. At certain points in the tunnel, to ensure stability, a support beam parallel to the bases is installed; this beam divides the vertical cross-section of the tunnel into two equivalent trapezoids. How long, in cm, is one of these support beams?
 
+
 **Topic:** [[topic_geometria_piana|Plane geometry]]
-**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
 **Area:** [[Geometria|Geometry]]
 
-[[Quesiti/src_gs_2013_squadre#q08|src_gs_2013_squadre__Q08]]
 
 
-
-<span class="atom-split" id="q09" data-atom="q09" data-title="Quesito 9" data-tags="topic_funzionali,topic_aritmetica,method_congruenze,skill_riconoscimento_pattern"></span>
+<span class="atom-split" id="q09" data-atom="q09" data-title="Quesito 9" data-tags="topic_funzionali,topic_aritmetica,method_congruenze,method_casework,skill_riconoscimento_pattern,skill_conteggio_sistematico"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -302,8 +300,8 @@ level: squadre
 > Facendo variare $i$ da $1$ a $2013$, estremi inclusi, quante volte il comandante trova che il valore di $a_i$ è $0$?
 
 **Topic:** [[topic_funzionali|Equazioni funzionali / successioni]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]]
-**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]], [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 0672
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1-61TMY-0LvBsyg90RrZAZEXLkXVkxW-I/view)
@@ -318,16 +316,15 @@ level: squadre
 > $$a_i = (-1)^i + (-1)^{\operatorname{qu}(i,2)} + (-1)^{\operatorname{qu}(i,3)} + (-1)^{\operatorname{qu}(i,4)}.$$
 > As $i$ varies from $1$ to $2013$, inclusive, how many times does the commander find that the value of $a_i$ is $0$?
 
+
 **Topic:** [[topic_funzionali|Functional equations / sequences]], [[topic_aritmetica|Arithmetic / Number theory]]
-**Metodo:** [[method_congruenze|Modular arithmetic / congruences]]
-**Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]], [[method_casework|Case analysis]]
+**Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]], [[skill_conteggio_sistematico|Systematic counting]]
 **Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
-[[Quesiti/src_gs_2013_squadre#q09|src_gs_2013_squadre__Q09]]
 
 
-
-<span class="atom-split" id="q10" data-atom="q10" data-title="Quesito 10" data-tags="topic_funzionali,method_ricorsione,skill_astrazione"></span>
+<span class="atom-split" id="q10" data-atom="q10" data-title="Quesito 10" data-tags="topic_funzionali,method_ricorsione,method_induzione,skill_astrazione,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -339,8 +336,8 @@ level: squadre
 > per ogni $x$ e $y$ numeri razionali. Il comandante sa che $f\!\left(\dfrac{7}{8}\right) = \dfrac{8}{7}$ e calcola $f\!\left(\dfrac{49}{2}\right)$. Che risultato trova?
 
 **Topic:** [[topic_funzionali|Equazioni funzionali / successioni]]
-**Metodo:** [[method_ricorsione|Ricorsione]]
-**Abilita:** [[skill_astrazione|Astrazione / generalizzazione]]
+**Metodo:** [[method_ricorsione|Ricorsione]], [[method_induzione|Induzione]]
+**Abilita:** [[skill_astrazione|Astrazione / generalizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Algebra e Analisi]]
 **Risposta:** 0032
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1-61TMY-0LvBsyg90RrZAZEXLkXVkxW-I/view)
@@ -355,16 +352,15 @@ level: squadre
 > $$f(x + y) = f(x) + f(y)$$
 > for every $x$ and $y$ rational numbers. The commander knows that $f\!\left(\dfrac{7}{8}\right) = \dfrac{8}{7}$ and calculates $f\!\left(\dfrac{49}{2}\right)$. What result does they find?
 
+
 **Topic:** [[topic_funzionali|Functional equations / sequences]]
-**Metodo:** [[method_ricorsione|Recursion]]
-**Abilita:** [[skill_astrazione|Abstraction / generalisation]]
+**Metodo:** [[method_ricorsione|Recursion]], [[method_induzione|Induction]]
+**Abilita:** [[skill_astrazione|Abstraction / generalisation]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
 **Area:** [[Algebra e Analisi|Algebra and analysis]]
 
-[[Quesiti/src_gs_2013_squadre#q10|src_gs_2013_squadre__Q10]]
 
 
-
-<span class="atom-split" id="q11" data-atom="q11" data-title="Quesito 11" data-tags="topic_logica,topic_aritmetica,method_casework,skill_casework_accurato"></span>
+<span class="atom-split" id="q11" data-atom="q11" data-title="Quesito 11" data-tags="topic_logica,topic_aritmetica,method_casework,skill_casework_accurato,skill_lettura_attenta"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -397,8 +393,8 @@ level: squadre
 
 **Topic:** [[topic_logica|Logica, giochi, strategie]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_casework|Analisi per casi]]
-**Abilita:** [[skill_casework_accurato|Casework accurato]]
-**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+**Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_lettura_attenta|Lettura attenta del testo]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 8229
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1-61TMY-0LvBsyg90RrZAZEXLkXVkxW-I/view)
 
@@ -432,16 +428,15 @@ level: squadre
 >
 > What number is in Box 5?
 
+
 **Topic:** [[topic_logica|Logic, games and strategies]], [[topic_aritmetica|Arithmetic / Number theory]]
 **Metodo:** [[method_casework|Case analysis]]
-**Abilita:** [[skill_casework_accurato|Careful case analysis]]
-**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
-
-[[Quesiti/src_gs_2013_squadre#q11|src_gs_2013_squadre__Q11]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]], [[skill_lettura_attenta|Careful reading of the text]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
 
 
-<span class="atom-split" id="q12" data-atom="q12" data-title="Quesito 12" data-tags="topic_aritmetica,topic_geometria_piana,skill_riconoscimento_pattern"></span>
+<span class="atom-split" id="q12" data-atom="q12" data-title="Quesito 12" data-tags="topic_aritmetica,topic_geometria_piana,method_casework,skill_riconoscimento_pattern,skill_ragionamento_geometrico"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -453,7 +448,8 @@ level: squadre
 > In quale data, ogni mese, la sua area diventa maggiore di 1500 per la prima volta?
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_geometria_piana|Geometria piana]]
-**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Metodo:** [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Geometria]]
 **Risposta:** 0019
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1-61TMY-0LvBsyg90RrZAZEXLkXVkxW-I/view)
@@ -468,15 +464,15 @@ level: squadre
 >
 > On which date each month does its area first become greater than 1500?
 
+
 **Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_geometria_piana|Plane geometry]]
-**Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]], [[skill_ragionamento_geometrico|Geometric reasoning]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Geometria|Geometry]]
 
-[[Quesiti/src_gs_2013_squadre#q12|src_gs_2013_squadre__Q12]]
 
 
-
-<span class="atom-split" id="q13" data-atom="q13" data-title="Quesito 13" data-tags="topic_aritmetica,topic_algebra,method_fattorizzazione,skill_manipolazione_algebrica"></span>
+<span class="atom-split" id="q13" data-atom="q13" data-title="Quesito 13" data-tags="topic_aritmetica,topic_algebra,method_fattorizzazione,skill_manipolazione_algebrica,skill_modellizzazione"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -489,8 +485,8 @@ level: squadre
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
 **Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
-**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
-**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 **Risposta:** 0362
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1-61TMY-0LvBsyg90RrZAZEXLkXVkxW-I/view)
 
@@ -504,16 +500,15 @@ level: squadre
 >
 > [Each sheet has two pages, each numbered.]
 
+
 **Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_algebra|Algebra]]
 **Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
-**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
-**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
-
-[[Quesiti/src_gs_2013_squadre#q13|src_gs_2013_squadre__Q13]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Algebra e Analisi|Algebra and analysis]]
 
 
 
-<span class="atom-split" id="q14" data-atom="q14" data-title="Quesito 14" data-tags="topic_probabilita,method_ricorsione,skill_conteggio_sistematico"></span>
+<span class="atom-split" id="q14" data-atom="q14" data-title="Quesito 14" data-tags="topic_probabilita,method_ricorsione,skill_conteggio_sistematico,skill_modellizzazione"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -526,7 +521,7 @@ level: squadre
 
 **Topic:** [[topic_probabilita|Probabilita e statistica]]
 **Metodo:** [[method_ricorsione|Ricorsione]]
-**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0713
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1-61TMY-0LvBsyg90RrZAZEXLkXVkxW-I/view)
@@ -541,16 +536,15 @@ level: squadre
 >
 > Today, while observing one of his Watchmen playing, Commander Jeor Mormont calculated the probability that the game has not yet ended after the sixth turn and that, at that point, the player's marker is on square 2. If $p/q$ is the probability calculated by the commander, with $p$ and $q$ coprime, determine the number $q - p$.
 
+
 **Topic:** [[topic_probabilita|Probability and statistics]]
 **Metodo:** [[method_ricorsione|Recursion]]
-**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]], [[skill_modellizzazione|Modelling / translating the text]]
 **Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
-[[Quesiti/src_gs_2013_squadre#q14|src_gs_2013_squadre__Q14]]
 
 
-
-<span class="atom-split" id="q15" data-atom="q15" data-title="Quesito 15" data-tags="topic_aritmetica,topic_funzionali,method_congruenze,skill_riconoscimento_pattern"></span>
+<span class="atom-split" id="q15" data-atom="q15" data-title="Quesito 15" data-tags="topic_aritmetica,topic_funzionali,method_congruenze,method_ricorsione,skill_riconoscimento_pattern,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -560,9 +554,9 @@ level: squadre
 > Come detto, per passare il tempo presso la Barriera, i Guardiani della Notte fanno calcoli lunghissimi. Jon, partendo dal numero 2013, sottrae 1 e moltiplica il risultato per 1, poi sottrae 2 al risultato del prodotto e moltiplica per 2 quel che ottiene, e continua fino a quando sottrae 2013 e moltiplica per 2013. Quali sono le ultime tre cifre del numero che ottiene?
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_funzionali|Equazioni funzionali / successioni]]
-**Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]]
-**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
-**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
+**Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]], [[method_ricorsione|Ricorsione]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 **Risposta:** 0043
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1-61TMY-0LvBsyg90RrZAZEXLkXVkxW-I/view)
 
@@ -574,16 +568,15 @@ level: squadre
 
 > As mentioned, to pass the time at the Wall, the Night's Watch perform extremely long calculations. Starting from the number 2013, Jon subtracts 1 and multiplies the result by 1; then he subtracts 2 from the result of that product and multiplies what he gets by 2, and he continues until he subtracts 2013 and multiplies by 2013. What are the last three digits of the number he obtains?
 
+
 **Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_funzionali|Functional equations / sequences]]
-**Metodo:** [[method_congruenze|Modular arithmetic / congruences]]
-**Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]]
-**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
-
-[[Quesiti/src_gs_2013_squadre#q15|src_gs_2013_squadre__Q15]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]], [[method_ricorsione|Recursion]]
+**Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Algebra e Analisi|Algebra and analysis]]
 
 
 
-<span class="atom-split" id="q16" data-atom="q16" data-title="Quesito 16" data-tags="topic_aritmetica,method_congruenze,skill_casework_accurato"></span>
+<span class="atom-split" id="q16" data-atom="q16" data-title="Quesito 16" data-tags="topic_aritmetica,method_congruenze,method_casework,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -598,7 +591,7 @@ level: squadre
 > Poi scrivono il prodotto $p \cdot q$ per ciascuna di queste coppie. Qual è il minimo prodotto che scrivono?
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]]
+**Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]], [[method_casework|Analisi per casi]]
 **Abilita:** [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 1469
@@ -617,16 +610,15 @@ level: squadre
 >
 > Then they write the product $p \cdot q$ for each of these pairs. What is the smallest product they write?
 
+
 **Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
-**Metodo:** [[method_congruenze|Modular arithmetic / congruences]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]], [[method_casework|Case analysis]]
 **Abilita:** [[skill_casework_accurato|Careful case analysis]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
-[[Quesiti/src_gs_2013_squadre#q16|src_gs_2013_squadre__Q16]]
 
 
-
-<span class="atom-split" id="q17" data-atom="q17" data-title="Quesito 17" data-tags="topic_geometria_solida,topic_trigonometria,method_trigonometria,skill_ragionamento_geometrico"></span>
+<span class="atom-split" id="q17" data-atom="q17" data-title="Quesito 17" data-tags="topic_geometria_solida,topic_trigonometria,method_trigonometria,skill_ragionamento_geometrico,skill_modellizzazione"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -639,7 +631,7 @@ level: squadre
 
 **Topic:** [[topic_geometria_solida|Geometria solida]], [[topic_trigonometria|Trigonometria]]
 **Metodo:** [[method_trigonometria|Tecniche trigonometriche]]
-**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
 **Area:** [[Geometria]]
 **Risposta:** 0130
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1-61TMY-0LvBsyg90RrZAZEXLkXVkxW-I/view)
@@ -654,16 +646,15 @@ level: squadre
 >
 > The arm supporting Munry Baratheon's pod rotates along a circumference of length $12\text{ m}$; the arm supporting Unton Greyjoy's pod rotates along a circumference of length $40\text{ m}$. When the carousel starts operating, causing the pods to rotate and rise at the same time, each pod traces a cylindrical helix. When the pods come to a stop, Unton Greyjoy vomits. Munry Baratheon laughs and declares himself the winner. Once back on the ground, Unton Greyjoy justifies himself to his soldiers, explaining that it was the fault of the longer path taken by his pod. What is the difference between the two paths, in meters?
 
+
 **Topic:** [[topic_geometria_solida|Solid geometry]], [[topic_trigonometria|Trigonometric techniques]]
 **Metodo:** [[method_trigonometria|Trigonometric techniques]]
-**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_modellizzazione|Modelling / translating the text]]
 **Area:** [[Geometria|Geometry]]
 
-[[Quesiti/src_gs_2013_squadre#q17|src_gs_2013_squadre__Q17]]
 
 
-
-<span class="atom-split" id="q18" data-atom="q18" data-title="Quesito 18" data-tags="topic_combinatoria,topic_logica,method_invarianti,skill_casework_accurato"></span>
+<span class="atom-split" id="q18" data-atom="q18" data-title="Quesito 18" data-tags="topic_combinatoria,topic_logica,method_invarianti,skill_casework_accurato,skill_ragionamento_geometrico"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -676,7 +667,7 @@ level: squadre
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_logica|Logica, giochi, strategie]]
 **Metodo:** [[method_invarianti|Invarianti / monovarianti]]
-**Abilita:** [[skill_casework_accurato|Casework accurato]]
+**Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0016
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1-61TMY-0LvBsyg90RrZAZEXLkXVkxW-I/view)
@@ -691,16 +682,15 @@ level: squadre
 
 > Bran Stark plays with a great many ordinary six-sided dice. He places them next to one another on the table (without stacking them or leaving gaps) so as to form rectangles of various sizes. He follows a precise rule: the numbers on the faces by which two dice are placed next to each other must add up to 6. On each die, the sum of the numbers on opposite faces is 7. What is the maximum number of dice that can be used to form one of the aforementioned rectangles?
 
+
 **Topic:** [[topic_combinatoria|Combinatorics]], [[topic_logica|Logic, games and strategies]]
 **Metodo:** [[method_invarianti|Invariants / monovariants]]
-**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]], [[skill_ragionamento_geometrico|Geometric reasoning]]
 **Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
-[[Quesiti/src_gs_2013_squadre#q18|src_gs_2013_squadre__Q18]]
 
 
-
-<span class="atom-split" id="q19" data-atom="q19" data-title="Quesito 19" data-tags="topic_aritmetica,topic_geometria_piana,method_coordinate,method_simmetria,skill_modellizzazione"></span>
+<span class="atom-split" id="q19" data-atom="q19" data-title="Quesito 19" data-tags="topic_aritmetica,topic_geometria_piana,topic_trigonometria,method_coordinate,method_simmetria,method_trigonometria,skill_modellizzazione,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -709,9 +699,9 @@ level: squadre
 
 > Il drago Drogon si allena a voli precisi. Partendo dal suo trespolo, fa un volo di $200\text{ m}$ verso Est, da dove è arrivato fa un secondo volo verso Nord ancora di $200\text{ m}$. Dal punto dove è arrivato, si esercita in balzi precisi: un balzo verso Est di $1\text{ m}$, si volge di $45^\circ$ in senso antiorario—cioè punta a Nord-Est—e fa un balzo di $2\text{ m}$, si gira di $45^\circ$ in senso antiorario—cioè punta a Nord—e fa un balzo di $3\text{ m}$, si gira di $45^\circ$ in senso antiorario—cioè punta a Nord-Ovest—e fa un balzo di $4\text{ m}$, si gira di $45^\circ$ in senso antiorario—cioè punta ad Ovest—e fa un balzo di $5\text{ m}$ e così via, finché l'ultimo balzo che fa è di $400\text{ m}$. A che distanza dal punto di partenza si trova alla fine dei suoi balzi?
 
-**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_geometria_piana|Geometria piana]]
-**Metodo:** [[method_coordinate|Metodo delle coordinate]], [[method_simmetria|Sfruttamento della simmetria]]
-**Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometria]]
+**Metodo:** [[method_coordinate|Metodo delle coordinate]], [[method_simmetria|Sfruttamento della simmetria]], [[method_trigonometria|Tecniche trigonometriche]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Geometria]]
 **Risposta:** 0282
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1-61TMY-0LvBsyg90RrZAZEXLkXVkxW-I/view)
@@ -724,16 +714,15 @@ level: squadre
 
 > The dragon Drogon practices precise flights. Starting from his perch, he flies $200\text{ m}$ eastward; from where he arrived, he makes a second flight northward, again of $200\text{ m}$. From the point where he arrived, he practices precise leaps: a leap eastward of $1\text{ m}$, he turns $45^\circ$ counterclockwise—that is, he points northeast—and makes a leap of $2\text{ m}$; he turns $45^\circ$ counterclockwise—that is, he points north—and makes a leap of $3\text{ m}$; he turns $45^\circ$ counterclockwise—that is, he points northwest—and makes a leap of $4\text{ m}$; he turns $45^\circ$ counterclockwise—that is, he points west—and makes a leap of $5\text{ m}$, and so on, until the last leap he makes is of $400\text{ m}$. How far from the starting point is he at the end of his leaps?
 
-**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_geometria_piana|Plane geometry]]
-**Metodo:** [[method_coordinate|Coordinate method]], [[method_simmetria|Using symmetry]]
-**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_geometria_piana|Plane geometry]], [[topic_trigonometria|Trigonometry]]
+**Metodo:** [[method_coordinate|Coordinate method]], [[method_simmetria|Using symmetry]], [[method_trigonometria|Trigonometric techniques]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Geometria|Geometry]]
 
-[[Quesiti/src_gs_2013_squadre#q19|src_gs_2013_squadre__Q19]]
 
 
-
-<span class="atom-split" id="q20" data-atom="q20" data-title="Quesito 20" data-tags="topic_combinatoria,topic_logica,method_conteggio,skill_casework_accurato"></span>
+<span class="atom-split" id="q20" data-atom="q20" data-title="Quesito 20" data-tags="topic_combinatoria,topic_logica,method_conteggio,method_estremalita,method_casework,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -748,7 +737,7 @@ level: squadre
 > Qual è il numero minimo di uffici presenti nel palazzo?
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_logica|Logica, giochi, strategie]]
-**Metodo:** [[method_conteggio|Conteggio combinatorio]]
+**Metodo:** [[method_conteggio|Conteggio combinatorio]], [[method_estremalita|Principio di estremalita]], [[method_casework|Analisi per casi]]
 **Abilita:** [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0174
@@ -767,12 +756,11 @@ level: squadre
 >
 > What is the minimum number of offices in the palace?
 
+
 **Topic:** [[topic_combinatoria|Combinatorics]], [[topic_logica|Logic, games and strategies]]
-**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Metodo:** [[method_conteggio|Combinatorial counting]], [[method_estremalita|Extremal principle]], [[method_casework|Case analysis]]
 **Abilita:** [[skill_casework_accurato|Careful case analysis]]
 **Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
-
-[[Quesiti/src_gs_2013_squadre#q20|src_gs_2013_squadre__Q20]]
 
 
 
@@ -809,8 +797,6 @@ level: squadre
 **Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
 **Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Geometria|Geometry]]
 
-[[Quesiti/src_gs_2013_squadre#q21|src_gs_2013_squadre__Q21]]
-
 
 
 <span class="atom-split" id="q22" data-atom="q22" data-title="Quesito 22" data-tags="topic_geometria_piana,method_simmetria,skill_ragionamento_geometrico"></span>
@@ -846,11 +832,9 @@ level: squadre
 **Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
 **Area:** [[Geometria|Geometry]]
 
-[[Quesiti/src_gs_2013_squadre#q22|src_gs_2013_squadre__Q22]]
 
 
-
-<span class="atom-split" id="q23" data-atom="q23" data-title="Quesito 23" data-tags="topic_geometria_solida,method_coordinate,skill_ragionamento_geometrico"></span>
+<span class="atom-split" id="q23" data-atom="q23" data-title="Quesito 23" data-tags="topic_geometria_solida,method_coordinate,method_estremalita,skill_ragionamento_geometrico"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -860,7 +844,7 @@ level: squadre
 > Il nuovo emblema di Casa Lannister è una coppia di anelli identici, formati facendo ruotare un quadrato attorno ad una retta complanare con il quadrato e parallela alla sua diagonale. I due anelli sono incatenati l'uno all'altro (uno passa nel buco dell'altro). Un'antica leggenda narra che, se la diagonale del quadrato usato per ottenere gli anelli è lunga $30\text{ cm}$ e se il volume occupato dalla coppia di anelli è il minimo possibile, su ogni punto di contatto tra i due anelli si crea un diamante. Il volume in $\text{cm}^3$ del più piccolo solido che contiene tutte le piramidi con vertici sui diamanti (cioè il più piccolo poliedro convesso che contiene tutti i diamanti) indicherà il numero di anni del dominio della Casa Lannister su Westeros. Quanti anni durerà tale dominio?
 
 **Topic:** [[topic_geometria_solida|Geometria solida]]
-**Metodo:** [[method_coordinate|Metodo delle coordinate]]
+**Metodo:** [[method_coordinate|Metodo delle coordinate]], [[method_estremalita|Principio di estremalita]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]]
 **Risposta:** 9000
@@ -874,16 +858,15 @@ level: squadre
 
 > The new emblem of House Lannister is a pair of identical rings formed by rotating a square about a line that lies in the same plane as the square and is parallel to its diagonal. The two rings are linked to each other (one passes through the hole of the other). An ancient legend says that if the diagonal of the square used to obtain the rings is $30\text{ cm}$ long and if the volume occupied by the pair of rings is as small as possible, then a diamond is formed at each point of contact between the two rings. The volume, in $\text{cm}^3$, of the smallest solid that contains all the pyramids whose vertices lie on the diamonds (that is, the smallest convex polyhedron that contains all the diamonds) will indicate the number of years of House Lannister's rule over Westeros. How many years will this rule last?
 
+
 **Topic:** [[topic_geometria_solida|Solid geometry]]
-**Metodo:** [[method_coordinate|Coordinate method]]
+**Metodo:** [[method_coordinate|Coordinate method]], [[method_estremalita|Extremal principle]]
 **Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
 **Area:** [[Geometria|Geometry]]
 
-[[Quesiti/src_gs_2013_squadre#q23|src_gs_2013_squadre__Q23]]
 
 
-
-<span class="atom-split" id="q24" data-atom="q24" data-title="Quesito 24" data-tags="topic_probabilita,topic_funzionali,method_ricorsione,skill_astrazione"></span>
+<span class="atom-split" id="q24" data-atom="q24" data-title="Quesito 24" data-tags="topic_probabilita,topic_funzionali,method_ricorsione,skill_astrazione,skill_modellizzazione"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -894,8 +877,8 @@ level: squadre
 
 **Topic:** [[topic_probabilita|Probabilita e statistica]], [[topic_funzionali|Equazioni funzionali / successioni]]
 **Metodo:** [[method_ricorsione|Ricorsione]]
-**Abilita:** [[skill_astrazione|Astrazione / generalizzazione]]
-**Area:** [[Algebra e Analisi]], [[Combinatoria, Logica e Probabilita]]
+**Abilita:** [[skill_astrazione|Astrazione / generalizzazione]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Algebra e Analisi]]
 **Risposta:** 5461
 **Fonte:** [apri PDF p.8](https://drive.google.com/file/d/1-61TMY-0LvBsyg90RrZAZEXLkXVkxW-I/view)
 
@@ -907,9 +890,8 @@ level: squadre
 
 > DEATH controls the fates of the characters by means of CHANCE. In front of DEATH there are two circular grooves, one twice as long as the other. The two grooves are connected at a point where there is a switch that allows passage from one groove to the other. A ball rolls at a perfectly constant speed through the grooves (it takes one minute to complete the shorter groove). CHANCE, each time the ball is about to pass through the connection point, says "yes" or "no"—at random, precisely. If it says "yes", DEATH opens the connection so that the ball passes into the other groove. If it says "no", DEATH does not open the connection and keeps the ball in the same groove. Each time the ball reaches the midpoint of the longer groove, one character dies. At the start of the team competition, the ball passes over the midpoint of the second groove (and one character dies). The question is what the probability is that a character will die when the fourteenth minute of the competition expires. If this probability is $p/q$, with $p$ and $q$ coprime, then the answer should be the number $q - p$.
 
+
 **Topic:** [[topic_probabilita|Probability and statistics]], [[topic_funzionali|Functional equations / sequences]]
 **Metodo:** [[method_ricorsione|Recursion]]
-**Abilita:** [[skill_astrazione|Abstraction / generalisation]]
-**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
-
-[[Quesiti/src_gs_2013_squadre#q24|src_gs_2013_squadre__Q24]]
+**Abilita:** [[skill_astrazione|Abstraction / generalisation]], [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Algebra e Analisi|Algebra and analysis]]

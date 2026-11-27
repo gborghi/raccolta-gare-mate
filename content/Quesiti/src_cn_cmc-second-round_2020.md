@@ -10,7 +10,7 @@ level: China Mathematical Competition (Second Round)
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_geometria_piana,method_trigonometria,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_geometria_piana,method_trigonometria,method_simmetria,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -19,12 +19,12 @@ level: China Mathematical Competition (Second Round)
 
 > (40 marks) As shown in Fig. 1.1, in isosceles $\triangle ABC$, $AB = BC$, and $I$ is its incentre. $M$ is the midpoint of $BI$. $P$ lies on side $AC$, satisfying $AP = 3PC$. Point $H$ on the extension of $PI$ satisfy $MH \perp PH$. $Q$ is the midpoint of the minor arc of the circumcircle of $\triangle ABC$. Prove that $BH \perp QH$.
 
-![[src_cn_cmc-second-round_2020__q01.png]]
+![[src_cn_cmc-second-round_2020__Q01.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
-**Metodo:** [[method_trigonometria|Trigonometria]]
+**Metodo:** [[method_trigonometria|Trigonometria]], [[method_simmetria|Using symmetry]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
-**Area:** [[Geometria]]
+**Area:** [[Geometria|Geometry]]
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1OFC5fmTEMyWQSx2doV1_Jplo27sQCZ_A/view)
 
 > [!warning] Estratto da verificare con la fonte.
@@ -37,16 +37,15 @@ level: China Mathematical Competition (Second Round)
 
 > (40 punti) Come mostrato nella Fig. 1.1, in un triangolo isoscele $\triangle ABC$, $AB = BC$ e $I$ ne sono l'incentro. $M$ è il punto medio di $BI$. $P$ giace sul lato $AC$, soddisfacendo $AP = 3PC$. Il punto $H$, sull'estensione di $PI$, soddisfa $MH \perp PH$. $Q$ è il punto medio dell'arco minore della circonferenza circoscritta a $\triangle ABC$. Dimostrare che $BH \perp QH$.
 
-![[src_cn_cmc-second-round_2020__q01.png]]
+![[src_cn_cmc-second-round_2020__Q01.png]]
 
 > [!warning] Estratto da verificare con la fonte.
 
+
 **Topic:** [[topic_geometria_piana|Geometria piana]]
-**Metodo:** [[method_trigonometria|Trigonometria]]
+**Metodo:** [[method_trigonometria|Trigonometria]], [[method_simmetria|Sfruttamento della simmetria]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
-
-[[Quesiti/src_cn_cmc-second-round_2020#q01|src_cn_cmc-second-round_2020__Q01]]
 
 
 
@@ -59,7 +58,7 @@ level: China Mathematical Competition (Second Round)
 
 > (40 marks) Given integer $n \ge 3$, let $a_1, a_2, \ldots, a_{2n}, b_1, b_2, \ldots, b_{2n}$ be non-negative real numbers, satisfying $a_1 + a_2 + \cdots + a_{2n} = b_1 + b_2 + \cdots + b_{2n} > 0$. And for any $i = 1, 2, \ldots, 2n$, there is $a_i a_{i+2} \ge b_i + b_{i+1}$, where $a_{2n+1} = a_1$, $a_{2n+2} = a_2$, $b_{2n+1} = b_1$. Find the minimum of $a_1 + a_2 + \cdots + a_{2n}$.
 
-![[src_cn_cmc-second-round_2020__q02.png]]
+![[src_cn_cmc-second-round_2020__Q02.png]]
 
 **Topic:** [[topic_disuguaglianze|Disuguaglianze]], [[topic_algebra|Algebra]]
 **Metodo:** [[method_disuguaglianze|Disuguaglianze]], [[method_estremalita|Estremalità]], [[method_casework|Casework]]
@@ -77,7 +76,7 @@ level: China Mathematical Competition (Second Round)
 
 > (40 punti) Dato l'intero $n \ge 3$, siano $a_1, a_2, \ldots, a_{2n}, b_1, b_2, \ldots, b_{2n}$ numeri reali non negativi, che soddisfano $a_1 + a_2 + \cdots + a_{2n} = b_1 + b_2 + \cdots + b_{2n} > 0$. E per ogni $i = 1, 2, \ldots, 2n$, esiste $a_i a_{i+2} \ge b_i + b_{i+1}$, dove $a_{2n+1} = a_1$, $a_{2n+2} = a_2$, $b_{2n+1} = b_1$. Determinare il minimo di $a_1 + a_2 + \cdots + a_{2n}$.
 
-![[src_cn_cmc-second-round_2020__q02.png]]
+![[src_cn_cmc-second-round_2020__Q02.png]]
 
 > [!warning] Estratto da verificare con la fonte.
 
@@ -86,11 +85,9 @@ level: China Mathematical Competition (Second Round)
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]]
 **Area:** [[Algebra e Analisi]]
 
-[[Quesiti/src_cn_cmc-second-round_2020#q02|src_cn_cmc-second-round_2020__Q02]]
 
 
-
-<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_aritmetica,method_congruenze,method_induzione,method_fattorizzazione,skill_manipolazione_algebrica,skill_riconoscimento_pattern"></span>
+<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_aritmetica,topic_funzionali,method_congruenze,method_induzione,method_fattorizzazione,method_ricorsione,skill_manipolazione_algebrica,skill_riconoscimento_pattern"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -99,12 +96,12 @@ level: China Mathematical Competition (Second Round)
 
 > (50 marks) Let $a_1 = 1$, $a_2 = 2$, $a_n = 2a_{n-1} + a_{n-2}$, $n = 3, 4, \ldots$. Prove that for integer $n \ge 5$, $a_n$ must have a prime factor that is congruent to 1 modulo 4.
 
-![[src_cn_cmc-second-round_2020__q03.png]]
+![[src_cn_cmc-second-round_2020__Q03.png]]
 
-**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_congruenze|Congruenze]], [[method_induzione|Induzione]], [[method_fattorizzazione|Fattorizzazione]]
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_funzionali|Functional equations / sequences]]
+**Metodo:** [[method_congruenze|Congruenze]], [[method_induzione|Induzione]], [[method_fattorizzazione|Fattorizzazione]], [[method_ricorsione|Recursion]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
-**Area:** [[Aritmetica e Teoria dei Numeri]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Algebra e Analisi|Algebra and analysis]]
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1OFC5fmTEMyWQSx2doV1_Jplo27sQCZ_A/view)
 
 > [!warning] Estratto da verificare con la fonte.
@@ -117,20 +114,19 @@ level: China Mathematical Competition (Second Round)
 
 > (50 punti) Siano $a_1 = 1$, $a_2 = 2$, $a_n = 2a_{n-1} + a_{n-2}$, $n = 3, 4, \ldots$. Dimostrare che, per un intero $n \ge 5$, $a_n$ deve avere un fattore primo congruente a 1 modulo 4.
 
-![[src_cn_cmc-second-round_2020__q03.png]]
+![[src_cn_cmc-second-round_2020__Q03.png]]
 
 > [!warning] Estratto da verificare con la fonte.
 
-**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_congruenze|Congruenze]], [[method_induzione|Induzione]], [[method_fattorizzazione|Fattorizzazione]]
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_funzionali|Equazioni funzionali / successioni]]
+**Metodo:** [[method_congruenze|Congruenze]], [[method_induzione|Induzione]], [[method_fattorizzazione|Fattorizzazione]], [[method_ricorsione|Ricorsione]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
-**Area:** [[Aritmetica e Teoria dei Numeri]]
-
-[[Quesiti/src_cn_cmc-second-round_2020#q03|src_cn_cmc-second-round_2020__Q03]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 
 
 
-<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_combinatoria,method_ricorsione,method_conteggio,method_estremalita,skill_conteggio_sistematico,skill_astrazione,skill_modellizzazione"></span>
+<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_combinatoria,method_ricorsione,method_conteggio,method_estremalita,method_grafi,skill_conteggio_sistematico,skill_astrazione,skill_modellizzazione"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -140,9 +136,9 @@ level: China Mathematical Competition (Second Round)
 > (50 marks) Given a convex 20-sided polygon $P$. Dividing $P$ into 18 triangles by its 17 non-intersecting diagonals in the interior, the resulting graph is called a triangulation graph of $P$. For any triangulation graph $T$ of $P$, the 20 edges of $P$ and the added 17 diagonals are both called the edges of $T$. The set of any 10 edges of $T$ without common endpoints between any two edges is called a perfect matching of $T$. When $T$ takes all the triangulation graphs of $P$, find the maximum number of perfect matchings of $T$.
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
-**Metodo:** [[method_ricorsione|Ricorsione]], [[method_conteggio|Conteggio]], [[method_estremalita|Estremalità]]
+**Metodo:** [[method_ricorsione|Ricorsione]], [[method_conteggio|Conteggio]], [[method_estremalita|Estremalità]], [[method_grafi|Graph theory]]
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_astrazione|Astrazione]], [[skill_modellizzazione|Modellizzazione]]
-**Area:** [[Combinatoria, Logica e Probabilita]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Risposta:** 89
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1OFC5fmTEMyWQSx2doV1_Jplo27sQCZ_A/view)
 
@@ -158,12 +154,11 @@ level: China Mathematical Competition (Second Round)
 
 > [!warning] Estratto da verificare con la fonte.
 
+
 **Topic:** [[topic_combinatoria|Combinatoria]]
-**Metodo:** [[method_ricorsione|Ricorsione]], [[method_conteggio|Conteggio]], [[method_estremalita|Estremalità]]
+**Metodo:** [[method_ricorsione|Ricorsione]], [[method_conteggio|Conteggio]], [[method_estremalita|Estremalità]], [[method_grafi|Teoria dei grafi]]
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_astrazione|Astrazione]], [[skill_modellizzazione|Modellizzazione]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
-
-[[Quesiti/src_cn_cmc-second-round_2020#q04|src_cn_cmc-second-round_2020__Q04]]
 
 
 
@@ -199,11 +194,9 @@ level: China Mathematical Competition (Second Round)
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Geometria]]
 
-[[Quesiti/src_cn_cmc-second-round_2020#q05|src_cn_cmc-second-round_2020__Q05]]
 
 
-
-<span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_combinatoria,topic_aritmetica,method_casework,method_fattorizzazione,skill_modellizzazione,skill_conteggio_sistematico,skill_lettura_attenta"></span>
+<span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_combinatoria,topic_aritmetica,method_casework,method_fattorizzazione,skill_modellizzazione,skill_conteggio_sistematico,skill_lettura_attenta,skill_stima"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -218,8 +211,8 @@ level: China Mathematical Competition (Second Round)
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_casework|Casework]], [[method_fattorizzazione|Fattorizzazione]]
-**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]]
-**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_stima|Estimation and approximation]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Risposta:** Yes
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1OFC5fmTEMyWQSx2doV1_Jplo27sQCZ_A/view)
 
@@ -235,12 +228,11 @@ level: China Mathematical Competition (Second Round)
 
 > [!warning] Estratto da verificare con la fonte.
 
+
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_casework|Casework]], [[method_fattorizzazione|Fattorizzazione]]
-**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_stima|Stima e approssimazione]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
-
-[[Quesiti/src_cn_cmc-second-round_2020#q06|src_cn_cmc-second-round_2020__Q06]]
 
 
 
@@ -281,8 +273,6 @@ level: China Mathematical Competition (Second Round)
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]], [[skill_modellizzazione|Modellizzazione]]
 **Area:** [[Algebra e Analisi]]
 
-[[Quesiti/src_cn_cmc-second-round_2020#q07|src_cn_cmc-second-round_2020__Q07]]
-
 
 
 <span class="atom-split" id="q08" data-atom="q08" data-title="Quesito 8" data-tags="topic_aritmetica,method_congruenze,method_casework,skill_manipolazione_algebrica,skill_casework_accurato"></span>
@@ -317,5 +307,3 @@ level: China Mathematical Competition (Second Round)
 **Metodo:** [[method_congruenze|Congruenze]], [[method_casework|Casework]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
-
-[[Quesiti/src_cn_cmc-second-round_2020#q08|src_cn_cmc-second-round_2020__Q08]]

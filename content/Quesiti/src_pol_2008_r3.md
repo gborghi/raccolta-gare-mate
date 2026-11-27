@@ -39,12 +39,11 @@ level: Olimpiade Polacca Round 3
 **Topic:** [[topic_disuguaglianze|Disuguaglianze]], [[topic_algebra|Algebra]]
 **Metodo:** [[method_disuguaglianze|Disuguaglianze]], [[method_estremalita|Estremalità]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_stima|Stima]]
-
-[[Quesiti/src_pol_2008_r3#q01|src_pol_2008_r3__Q01]]
-
+**Area:** [[Algebra e Analisi]]
 
 
-<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_funzionali,topic_algebra,method_simmetria,method_telescoping,skill_manipolazione_algebrica,skill_lettura_attenta,skill_riconoscimento_pattern"></span>
+
+<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_funzionali,topic_algebra,method_simmetria,method_telescoping,method_induzione,skill_manipolazione_algebrica,skill_lettura_attenta,skill_riconoscimento_pattern"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -57,9 +56,9 @@ level: Olimpiade Polacca Round 3
 > $$f(x_1,x_2,x_3) + f(x_2,x_3,x_4) + \cdots + f(x_n,x_1,x_2) = x_1 + x_2 + \cdots + x_n.$$
 
 **Topic:** [[topic_funzionali|Equazioni funzionali]], [[topic_algebra|Algebra]]
-**Metodo:** [[method_simmetria|Simmetria]], [[method_telescoping|Telescoping]]
+**Metodo:** [[method_simmetria|Simmetria]], [[method_telescoping|Telescoping]], [[method_induzione|Induction]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
-**Area:** [[Algebra e Analisi]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1fNP5XBamldvAMai-xDjSDLVp0ag-433Q/view)
 
 
@@ -76,11 +75,11 @@ level: Olimpiade Polacca Round 3
 >
 > $$f(x_1,x_2,x_3) + f(x_2,x_3,x_4) + \cdots + f(x_n,x_1,x_2) = x_1 + x_2 + \cdots + x_n.$$
 
-**Topic:** [[topic_funzionali|Equazioni funzionali e successioni]], [[topic_algebra|Algebra]]
-**Metodo:** [[method_simmetria|Simmetria]], [[method_telescoping|Somme telescopiche]]
-**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_riconoscimento_pattern|Riconoscimento di schemi]]
 
-[[Quesiti/src_pol_2008_r3#q02|src_pol_2008_r3__Q02]]
+**Topic:** [[topic_funzionali|Equazioni funzionali e successioni]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_simmetria|Simmetria]], [[method_telescoping|Somme telescopiche]], [[method_induzione|Induzione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_riconoscimento_pattern|Riconoscimento di schemi]]
+**Area:** [[Algebra e Analisi]]
 
 
 
@@ -110,12 +109,11 @@ level: Olimpiade Polacca Round 3
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_simmetria|Simmetria]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
-
-[[Quesiti/src_pol_2008_r3#q03|src_pol_2008_r3__Q03]]
-
+**Area:** [[Geometria]]
 
 
-<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_combinatoria,topic_insiemi_funzioni,method_colorazione,method_cassetti,skill_astrazione,skill_conteggio_sistematico,skill_riconoscimento_pattern"></span>
+
+<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_combinatoria,topic_insiemi_funzioni,method_colorazione,method_cassetti,method_simmetria,skill_astrazione,skill_conteggio_sistematico,skill_riconoscimento_pattern"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -125,9 +123,9 @@ level: Olimpiade Polacca Round 3
 > Each point of a plane with integer coordinates is painted in white or black. Show that there exists an infinite and centrally symmetric subset of colored points whose points are of the same color.
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_insiemi_funzioni|Insiemi e funzioni]]
-**Metodo:** [[method_colorazione|Colorazione]], [[method_cassetti|Principio dei cassetti]]
+**Metodo:** [[method_colorazione|Colorazione]], [[method_cassetti|Principio dei cassetti]], [[method_simmetria|Using symmetry]]
 **Abilita:** [[skill_astrazione|Astrazione]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
-**Area:** [[Combinatoria, Logica e Probabilita]], [[Algebra e Analisi]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Algebra e Analisi|Algebra and analysis]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1fNP5XBamldvAMai-xDjSDLVp0ag-433Q/view)
 
 
@@ -138,11 +136,11 @@ level: Olimpiade Polacca Round 3
 
 > Ogni punto del piano a coordinate intere è colorato di bianco o di nero. Dimostrare che esiste un sottoinsieme infinito e a simmetria centrale di questi punti, tutti dello stesso colore.
 
-**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_insiemi_funzioni|Insiemi e funzioni]]
-**Metodo:** [[method_colorazione|Colorazione]], [[method_cassetti|Principio dei cassetti]]
-**Abilita:** [[skill_astrazione|Astrazione]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di schemi]]
 
-[[Quesiti/src_pol_2008_r3#q04|src_pol_2008_r3__Q04]]
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_insiemi_funzioni|Insiemi e funzioni]]
+**Metodo:** [[method_colorazione|Colorazione]], [[method_cassetti|Principio dei cassetti]], [[method_simmetria|Sfruttamento della simmetria]]
+**Abilita:** [[skill_astrazione|Astrazione]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di schemi]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Algebra e Analisi]]
 
 
 
@@ -172,8 +170,7 @@ level: Olimpiade Polacca Round 3
 **Topic:** [[topic_geometria_solida|Geometria solida]]
 **Metodo:** [[method_coordinate|Coordinate]], [[method_simmetria|Simmetria]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]]
-
-[[Quesiti/src_pol_2008_r3#q05|src_pol_2008_r3__Q05]]
+**Area:** [[Geometria]]
 
 
 
@@ -203,5 +200,4 @@ level: Olimpiade Polacca Round 3
 **Topic:** [[topic_aritmetica|Aritmetica e teoria dei numeri]]
 **Metodo:** [[method_congruenze|Congruenze]], [[method_fattorizzazione|Fattorizzazione]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
-
-[[Quesiti/src_pol_2008_r3#q06|src_pol_2008_r3__Q06]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]

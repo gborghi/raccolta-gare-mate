@@ -10,7 +10,7 @@ level: Senior Mathematical Challenge
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_algebra"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_algebra,method_fattorizzazione,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -26,10 +26,12 @@ level: Senior Mathematical Challenge
 > - **(E)** $-69$
 
 **Topic:** [[topic_algebra|Algebra]]
-**Area:** [[Algebra e Analisi]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
 **Risposta:** (E)
-**Fonte risposta:** UKMT, SMC 2026 Solutions p.2 · Solutions and Investigations
-**Fonte:** apri PDF p.2
+**Fonte risposta:** [UKMT, SMC 2026 Solutions p.2](https://ukmt.org.uk/wp-content/uploads/2026/07/SMC_2026_questions_and_solutions.pdf#page=2) · [Solutions and Investigations](https://ukmt.org.uk/wp-content/uploads/2026/07/SMC__2026_Solutions_and_Investigations_web_version__final_.pdf)
+**Fonte:** [apri PDF p.2](https://ukmt.org.uk/wp-content/uploads/2026/07/SMC_2026_questions_and_solutions.pdf#page=2)
 
 
 <div class="qlang-split" data-lang="it"></div>
@@ -45,14 +47,15 @@ level: Senior Mathematical Challenge
 > - **(D)** $-46$
 > - **(E)** $-69$
 
+
 **Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Algebra e Analisi]]
 
-[[Quesiti/src_smc_2026#q01|src_smc_2026__Q01]]
 
 
-
-<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_algebra"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_algebra,skill_modellizzazione,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -68,10 +71,11 @@ level: Senior Mathematical Challenge
 > - **(E)** 90p
 
 **Topic:** [[topic_algebra|Algebra]]
-**Area:** [[Algebra e Analisi]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
 **Risposta:** (C)
-**Fonte risposta:** UKMT, SMC 2026 Solutions p.2 · Solutions and Investigations
-**Fonte:** apri PDF p.2
+**Fonte risposta:** [UKMT, SMC 2026 Solutions p.2](https://ukmt.org.uk/wp-content/uploads/2026/07/SMC_2026_questions_and_solutions.pdf#page=2) · [Solutions and Investigations](https://ukmt.org.uk/wp-content/uploads/2026/07/SMC__2026_Solutions_and_Investigations_web_version__final_.pdf)
+**Fonte:** [apri PDF p.2](https://ukmt.org.uk/wp-content/uploads/2026/07/SMC_2026_questions_and_solutions.pdf#page=2)
 
 
 <div class="qlang-split" data-lang="it"></div>
@@ -87,14 +91,14 @@ level: Senior Mathematical Challenge
 > - **(D)** 80p
 > - **(E)** 90p
 
+
 **Topic:** [[topic_algebra|Algebra]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Algebra e Analisi]]
 
-[[Quesiti/src_smc_2026#q02|src_smc_2026__Q02]]
 
 
-
-<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_geometria_piana"></span>
+<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_geometria_piana,topic_trigonometria,method_trigonometria,skill_ragionamento_geometrico"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -109,13 +113,15 @@ level: Senior Mathematical Challenge
 > - **(D)** $2:3$
 > - **(E)** $1:2$
 
-![[src_smc_2026__q03.png]]
+![[src_smc_2026__Q03.png]]
 
-**Topic:** [[topic_geometria_piana|Geometria piana]]
-**Area:** [[Geometria]]
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_trigonometria|Trigonometry]]
+**Metodo:** [[method_trigonometria|Trigonometric techniques]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
 **Risposta:** (B)
-**Fonte risposta:** UKMT, SMC 2026 Solutions p.2 · Solutions and Investigations
-**Fonte:** apri PDF p.2
+**Fonte risposta:** [UKMT, SMC 2026 Solutions p.2](https://ukmt.org.uk/wp-content/uploads/2026/07/SMC_2026_questions_and_solutions.pdf#page=2) · [Solutions and Investigations](https://ukmt.org.uk/wp-content/uploads/2026/07/SMC__2026_Solutions_and_Investigations_web_version__final_.pdf)
+**Fonte:** [apri PDF p.2](https://ukmt.org.uk/wp-content/uploads/2026/07/SMC_2026_questions_and_solutions.pdf#page=2)
 
 
 <div class="qlang-split" data-lang="it"></div>
@@ -131,16 +137,17 @@ level: Senior Mathematical Challenge
 > - **(D)** $2:3$
 > - **(E)** $1:2$
 
-![[src_smc_2026__q03.png]]
+![[src_smc_2026__Q03.png]]
 
-**Topic:** [[topic_geometria_piana|Geometria piana]]
+
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometria]]
+**Metodo:** [[method_trigonometria|Tecniche trigonometriche]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]]
 
-[[Quesiti/src_smc_2026#q03|src_smc_2026__Q03]]
 
 
-
-<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_algebra"></span>
+<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_algebra,method_fattorizzazione,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -156,10 +163,12 @@ level: Senior Mathematical Challenge
 > - **(E)** $\frac32$
 
 **Topic:** [[topic_algebra|Algebra]]
-**Area:** [[Algebra e Analisi]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
 **Risposta:** (D)
-**Fonte risposta:** UKMT, SMC 2026 Solutions p.2 · Solutions and Investigations
-**Fonte:** apri PDF p.2
+**Fonte risposta:** [UKMT, SMC 2026 Solutions p.2](https://ukmt.org.uk/wp-content/uploads/2026/07/SMC_2026_questions_and_solutions.pdf#page=2) · [Solutions and Investigations](https://ukmt.org.uk/wp-content/uploads/2026/07/SMC__2026_Solutions_and_Investigations_web_version__final_.pdf)
+**Fonte:** [apri PDF p.2](https://ukmt.org.uk/wp-content/uploads/2026/07/SMC_2026_questions_and_solutions.pdf#page=2)
 
 
 <div class="qlang-split" data-lang="it"></div>
@@ -175,14 +184,15 @@ level: Senior Mathematical Challenge
 > - **(D)** $\frac74$
 > - **(E)** $\frac32$
 
+
 **Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Algebra e Analisi]]
 
-[[Quesiti/src_smc_2026#q04|src_smc_2026__Q04]]
 
 
-
-<span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_funzionali"></span>
+<span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_funzionali,method_telescoping,skill_riconoscimento_pattern"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -197,11 +207,13 @@ level: Senior Mathematical Challenge
 > - **(D)** $\frac1{1001}$
 > - **(E)** $\frac1{1000000}$
 
-**Topic:** [[topic_funzionali|Equazioni funzionali]]
-**Area:** [[Algebra e Analisi]]
+**Topic:** [[topic_funzionali|Functional equations / sequences]]
+**Metodo:** [[method_telescoping|Telescoping sums]]
+**Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
 **Risposta:** (A)
-**Fonte risposta:** UKMT, SMC 2026 Solutions p.3 · Solutions and Investigations
-**Fonte:** apri PDF p.3
+**Fonte risposta:** [UKMT, SMC 2026 Solutions p.3](https://ukmt.org.uk/wp-content/uploads/2026/07/SMC_2026_questions_and_solutions.pdf#page=3) · [Solutions and Investigations](https://ukmt.org.uk/wp-content/uploads/2026/07/SMC__2026_Solutions_and_Investigations_web_version__final_.pdf)
+**Fonte:** [apri PDF p.3](https://ukmt.org.uk/wp-content/uploads/2026/07/SMC_2026_questions_and_solutions.pdf#page=3)
 
 
 <div class="qlang-split" data-lang="it"></div>
@@ -217,14 +229,15 @@ level: Senior Mathematical Challenge
 > - **(D)** $\frac1{1001}$
 > - **(E)** $\frac1{1000000}$
 
-**Topic:** [[topic_funzionali|Equazioni funzionali]]
+
+**Topic:** [[topic_funzionali|Equazioni funzionali / successioni]]
+**Metodo:** [[method_telescoping|Somme telescopiche]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Algebra e Analisi]]
 
-[[Quesiti/src_smc_2026#q05|src_smc_2026__Q05]]
 
 
-
-<span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_geometria_piana"></span>
+<span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_geometria_piana,method_coordinate,skill_ragionamento_geometrico"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -239,13 +252,15 @@ level: Senior Mathematical Challenge
 > - **(D)** $\sqrt5$
 > - **(E)** $\sqrt6$
 
-![[src_smc_2026__q06.png]]
+![[src_smc_2026__Q06.png]]
 
-**Topic:** [[topic_geometria_piana|Geometria piana]]
-**Area:** [[Geometria]]
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_coordinate|Coordinate method]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
 **Risposta:** (D)
-**Fonte risposta:** UKMT, SMC 2026 Solutions p.3 · Solutions and Investigations
-**Fonte:** apri PDF p.3
+**Fonte risposta:** [UKMT, SMC 2026 Solutions p.3](https://ukmt.org.uk/wp-content/uploads/2026/07/SMC_2026_questions_and_solutions.pdf#page=3) · [Solutions and Investigations](https://ukmt.org.uk/wp-content/uploads/2026/07/SMC__2026_Solutions_and_Investigations_web_version__final_.pdf)
+**Fonte:** [apri PDF p.3](https://ukmt.org.uk/wp-content/uploads/2026/07/SMC_2026_questions_and_solutions.pdf#page=3)
 
 
 <div class="qlang-split" data-lang="it"></div>
@@ -261,16 +276,17 @@ level: Senior Mathematical Challenge
 > - **(D)** $\sqrt5$
 > - **(E)** $\sqrt6$
 
-![[src_smc_2026__q06.png]]
+![[src_smc_2026__Q06.png]]
+
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_coordinate|Metodo delle coordinate]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]]
 
-[[Quesiti/src_smc_2026#q06|src_smc_2026__Q06]]
 
 
-
-<span class="atom-split" id="q07" data-atom="q07" data-title="Quesito 7" data-tags="topic_combinatoria"></span>
+<span class="atom-split" id="q07" data-atom="q07" data-title="Quesito 7" data-tags="topic_combinatoria,method_estremalita,skill_modellizzazione,skill_conteggio_sistematico"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -285,11 +301,13 @@ level: Senior Mathematical Challenge
 > - **(D)** 3
 > - **(E)** 4
 
-**Topic:** [[topic_combinatoria|Combinatoria]]
-**Area:** [[Combinatoria, Logica e Probabilita]]
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_estremalita|Extremal principle]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]], [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Risposta:** (D)
-**Fonte risposta:** UKMT, SMC 2026 Solutions p.3 · Solutions and Investigations
-**Fonte:** apri PDF p.3
+**Fonte risposta:** [UKMT, SMC 2026 Solutions p.3](https://ukmt.org.uk/wp-content/uploads/2026/07/SMC_2026_questions_and_solutions.pdf#page=3) · [Solutions and Investigations](https://ukmt.org.uk/wp-content/uploads/2026/07/SMC__2026_Solutions_and_Investigations_web_version__final_.pdf)
+**Fonte:** [apri PDF p.3](https://ukmt.org.uk/wp-content/uploads/2026/07/SMC_2026_questions_and_solutions.pdf#page=3)
 
 
 <div class="qlang-split" data-lang="it"></div>
@@ -305,14 +323,15 @@ level: Senior Mathematical Challenge
 > - **(D)** 3
 > - **(E)** 4
 
+
 **Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_estremalita|Principio di estremalita]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 
-[[Quesiti/src_smc_2026#q07|src_smc_2026__Q07]]
 
 
-
-<span class="atom-split" id="q08" data-atom="q08" data-title="Quesito 8" data-tags="topic_aritmetica"></span>
+<span class="atom-split" id="q08" data-atom="q08" data-title="Quesito 8" data-tags="topic_aritmetica,method_congruenze,method_casework,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -327,11 +346,13 @@ level: Senior Mathematical Challenge
 > - **(D)** 3
 > - **(E)** 4
 
-**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Area:** [[Aritmetica e Teoria dei Numeri]]
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]], [[method_casework|Case analysis]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Risposta:** (B)
-**Fonte risposta:** UKMT, SMC 2026 Solutions p.4 · Solutions and Investigations
-**Fonte:** apri PDF p.4
+**Fonte risposta:** [UKMT, SMC 2026 Solutions p.4](https://ukmt.org.uk/wp-content/uploads/2026/07/SMC_2026_questions_and_solutions.pdf#page=4) · [Solutions and Investigations](https://ukmt.org.uk/wp-content/uploads/2026/07/SMC__2026_Solutions_and_Investigations_web_version__final_.pdf)
+**Fonte:** [apri PDF p.4](https://ukmt.org.uk/wp-content/uploads/2026/07/SMC_2026_questions_and_solutions.pdf#page=4)
 
 
 <div class="qlang-split" data-lang="it"></div>
@@ -347,14 +368,15 @@ level: Senior Mathematical Challenge
 > - **(D)** 3
 > - **(E)** 4
 
+
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]], [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 
-[[Quesiti/src_smc_2026#q08|src_smc_2026__Q08]]
 
 
-
-<span class="atom-split" id="q09" data-atom="q09" data-title="Quesito 9" data-tags="topic_combinatoria"></span>
+<span class="atom-split" id="q09" data-atom="q09" data-title="Quesito 9" data-tags="topic_combinatoria,topic_funzionali,method_ricorsione,skill_riconoscimento_pattern"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -369,11 +391,13 @@ level: Senior Mathematical Challenge
 > - **(D)** 89
 > - **(E)** 128
 
-**Topic:** [[topic_combinatoria|Combinatoria]]
-**Area:** [[Combinatoria, Logica e Probabilita]]
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_funzionali|Functional equations / sequences]]
+**Metodo:** [[method_ricorsione|Recursion]]
+**Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Algebra e Analisi|Algebra and analysis]]
 **Risposta:** (B)
-**Fonte risposta:** UKMT, SMC 2026 Solutions p.4 · Solutions and Investigations
-**Fonte:** apri PDF p.4
+**Fonte risposta:** [UKMT, SMC 2026 Solutions p.4](https://ukmt.org.uk/wp-content/uploads/2026/07/SMC_2026_questions_and_solutions.pdf#page=4) · [Solutions and Investigations](https://ukmt.org.uk/wp-content/uploads/2026/07/SMC__2026_Solutions_and_Investigations_web_version__final_.pdf)
+**Fonte:** [apri PDF p.4](https://ukmt.org.uk/wp-content/uploads/2026/07/SMC_2026_questions_and_solutions.pdf#page=4)
 
 
 <div class="qlang-split" data-lang="it"></div>
@@ -389,14 +413,15 @@ level: Senior Mathematical Challenge
 > - **(D)** 89
 > - **(E)** 128
 
-**Topic:** [[topic_combinatoria|Combinatoria]]
-**Area:** [[Combinatoria, Logica e Probabilita]]
 
-[[Quesiti/src_smc_2026#q09|src_smc_2026__Q09]]
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_funzionali|Equazioni funzionali / successioni]]
+**Metodo:** [[method_ricorsione|Ricorsione]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Algebra e Analisi]]
 
 
 
-<span class="atom-split" id="q10" data-atom="q10" data-title="Quesito 10" data-tags="topic_combinatoria"></span>
+<span class="atom-split" id="q10" data-atom="q10" data-title="Quesito 10" data-tags="topic_combinatoria,method_ricorsione,skill_conteggio_sistematico"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -411,11 +436,13 @@ level: Senior Mathematical Challenge
 > - **(D)** 30
 > - **(E)** 32
 
-**Topic:** [[topic_combinatoria|Combinatoria]]
-**Area:** [[Combinatoria, Logica e Probabilita]]
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_ricorsione|Recursion]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Risposta:** (C)
-**Fonte risposta:** UKMT, SMC 2026 Solutions p.4 · Solutions and Investigations
-**Fonte:** apri PDF p.4
+**Fonte risposta:** [UKMT, SMC 2026 Solutions p.4](https://ukmt.org.uk/wp-content/uploads/2026/07/SMC_2026_questions_and_solutions.pdf#page=4) · [Solutions and Investigations](https://ukmt.org.uk/wp-content/uploads/2026/07/SMC__2026_Solutions_and_Investigations_web_version__final_.pdf)
+**Fonte:** [apri PDF p.4](https://ukmt.org.uk/wp-content/uploads/2026/07/SMC_2026_questions_and_solutions.pdf#page=4)
 
 
 <div class="qlang-split" data-lang="it"></div>
@@ -431,14 +458,15 @@ level: Senior Mathematical Challenge
 > - **(D)** 30
 > - **(E)** 32
 
+
 **Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_ricorsione|Ricorsione]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 
-[[Quesiti/src_smc_2026#q10|src_smc_2026__Q10]]
 
 
-
-<span class="atom-split" id="q11" data-atom="q11" data-title="Quesito 11" data-tags="topic_geometria_piana"></span>
+<span class="atom-split" id="q11" data-atom="q11" data-title="Quesito 11" data-tags="topic_geometria_piana,method_coordinate,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -453,13 +481,15 @@ level: Senior Mathematical Challenge
 > - **(D)** $5:8$
 > - **(E)** $8:13$
 
-![[src_smc_2026__q11.png]]
+![[src_smc_2026__Q11.png]]
 
-**Topic:** [[topic_geometria_piana|Geometria piana]]
-**Area:** [[Geometria]]
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_coordinate|Coordinate method]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Geometria|Geometry]]
 **Risposta:** (C)
-**Fonte risposta:** UKMT, SMC 2026 Solutions p.5 · Solutions and Investigations
-**Fonte:** apri PDF p.5
+**Fonte risposta:** [UKMT, SMC 2026 Solutions p.5](https://ukmt.org.uk/wp-content/uploads/2026/07/SMC_2026_questions_and_solutions.pdf#page=5) · [Solutions and Investigations](https://ukmt.org.uk/wp-content/uploads/2026/07/SMC__2026_Solutions_and_Investigations_web_version__final_.pdf)
+**Fonte:** [apri PDF p.5](https://ukmt.org.uk/wp-content/uploads/2026/07/SMC_2026_questions_and_solutions.pdf#page=5)
 
 
 <div class="qlang-split" data-lang="it"></div>
@@ -475,16 +505,17 @@ level: Senior Mathematical Challenge
 > - **(D)** $5:8$
 > - **(E)** $8:13$
 
-![[src_smc_2026__q11.png]]
+![[src_smc_2026__Q11.png]]
+
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_coordinate|Metodo delle coordinate]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 
-[[Quesiti/src_smc_2026#q11|src_smc_2026__Q11]]
 
 
-
-<span class="atom-split" id="q12" data-atom="q12" data-title="Quesito 12" data-tags="topic_geometria_solida,topic_combinatoria"></span>
+<span class="atom-split" id="q12" data-atom="q12" data-title="Quesito 12" data-tags="topic_geometria_solida,topic_combinatoria,method_casi_conteggio,skill_conteggio_sistematico,skill_ragionamento_geometrico"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -499,11 +530,13 @@ level: Senior Mathematical Challenge
 > - **(D)** 60
 > - **(E)** 72
 
-**Topic:** [[topic_geometria_solida|Geometria solida]], [[topic_combinatoria|Combinatoria]]
-**Area:** [[Geometria]], [[Combinatoria, Logica e Probabilita]]
+**Topic:** [[topic_geometria_solida|Solid geometry]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_casi_conteggio|Counting by cases]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]], [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Risposta:** (B)
-**Fonte risposta:** UKMT, SMC 2026 Solutions p.5 · Solutions and Investigations
-**Fonte:** apri PDF p.5
+**Fonte risposta:** [UKMT, SMC 2026 Solutions p.5](https://ukmt.org.uk/wp-content/uploads/2026/07/SMC_2026_questions_and_solutions.pdf#page=5) · [Solutions and Investigations](https://ukmt.org.uk/wp-content/uploads/2026/07/SMC__2026_Solutions_and_Investigations_web_version__final_.pdf)
+**Fonte:** [apri PDF p.5](https://ukmt.org.uk/wp-content/uploads/2026/07/SMC_2026_questions_and_solutions.pdf#page=5)
 
 
 <div class="qlang-split" data-lang="it"></div>
@@ -519,14 +552,15 @@ level: Senior Mathematical Challenge
 > - **(D)** 60
 > - **(E)** 72
 
+
 **Topic:** [[topic_geometria_solida|Geometria solida]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casi_conteggio|Conteggio per casi]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]], [[Combinatoria, Logica e Probabilita]]
 
-[[Quesiti/src_smc_2026#q12|src_smc_2026__Q12]]
 
 
-
-<span class="atom-split" id="q13" data-atom="q13" data-title="Quesito 13" data-tags="topic_geometria_piana"></span>
+<span class="atom-split" id="q13" data-atom="q13" data-title="Quesito 13" data-tags="topic_geometria_piana,topic_trigonometria,method_trigonometria,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -541,13 +575,15 @@ level: Senior Mathematical Challenge
 > - **(D)** 21
 > - **(E)** 20
 
-![[src_smc_2026__q13.png]]
+![[src_smc_2026__Q13.png]]
 
-**Topic:** [[topic_geometria_piana|Geometria piana]]
-**Area:** [[Geometria]]
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_trigonometria|Trigonometry]]
+**Metodo:** [[method_trigonometria|Trigonometric techniques]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Geometria|Geometry]]
 **Risposta:** (E)
-**Fonte risposta:** UKMT, SMC 2026 Solutions p.6 · Solutions and Investigations
-**Fonte:** apri PDF p.6
+**Fonte risposta:** [UKMT, SMC 2026 Solutions p.6](https://ukmt.org.uk/wp-content/uploads/2026/07/SMC_2026_questions_and_solutions.pdf#page=6) · [Solutions and Investigations](https://ukmt.org.uk/wp-content/uploads/2026/07/SMC__2026_Solutions_and_Investigations_web_version__final_.pdf)
+**Fonte:** [apri PDF p.6](https://ukmt.org.uk/wp-content/uploads/2026/07/SMC_2026_questions_and_solutions.pdf#page=6)
 
 
 <div class="qlang-split" data-lang="it"></div>
@@ -563,16 +599,17 @@ level: Senior Mathematical Challenge
 > - **(D)** 21
 > - **(E)** 20
 
-![[src_smc_2026__q13.png]]
+![[src_smc_2026__Q13.png]]
 
-**Topic:** [[topic_geometria_piana|Geometria piana]]
+
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometria]]
+**Metodo:** [[method_trigonometria|Tecniche trigonometriche]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 
-[[Quesiti/src_smc_2026#q13|src_smc_2026__Q13]]
 
 
-
-<span class="atom-split" id="q14" data-atom="q14" data-title="Quesito 14" data-tags="topic_aritmetica"></span>
+<span class="atom-split" id="q14" data-atom="q14" data-title="Quesito 14" data-tags="topic_aritmetica,topic_combinatoria,method_casework,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -587,11 +624,13 @@ level: Senior Mathematical Challenge
 > - **(D)** $\frac1{10}$
 > - **(E)** $\frac15$
 
-**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Area:** [[Aritmetica e Teoria dei Numeri]]
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Risposta:** (C)
-**Fonte risposta:** UKMT, SMC 2026 Solutions p.6 · Solutions and Investigations
-**Fonte:** apri PDF p.6
+**Fonte risposta:** [UKMT, SMC 2026 Solutions p.6](https://ukmt.org.uk/wp-content/uploads/2026/07/SMC_2026_questions_and_solutions.pdf#page=6) · [Solutions and Investigations](https://ukmt.org.uk/wp-content/uploads/2026/07/SMC__2026_Solutions_and_Investigations_web_version__final_.pdf)
+**Fonte:** [apri PDF p.6](https://ukmt.org.uk/wp-content/uploads/2026/07/SMC_2026_questions_and_solutions.pdf#page=6)
 
 
 <div class="qlang-split" data-lang="it"></div>
@@ -607,14 +646,15 @@ level: Senior Mathematical Challenge
 > - **(D)** $\frac1{10}$
 > - **(E)** $\frac15$
 
-**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Area:** [[Aritmetica e Teoria dei Numeri]]
 
-[[Quesiti/src_smc_2026#q14|src_smc_2026__Q14]]
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 
 
 
-<span class="atom-split" id="q15" data-atom="q15" data-title="Quesito 15" data-tags="topic_algebra"></span>
+<span class="atom-split" id="q15" data-atom="q15" data-title="Quesito 15" data-tags="topic_algebra,method_fattorizzazione,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -630,10 +670,12 @@ level: Senior Mathematical Challenge
 > - **(E)** $n-1$
 
 **Topic:** [[topic_algebra|Algebra]]
-**Area:** [[Algebra e Analisi]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
 **Risposta:** (A)
-**Fonte risposta:** UKMT, SMC 2026 Solutions p.7 · Solutions and Investigations
-**Fonte:** apri PDF p.7
+**Fonte risposta:** [UKMT, SMC 2026 Solutions p.7](https://ukmt.org.uk/wp-content/uploads/2026/07/SMC_2026_questions_and_solutions.pdf#page=7) · [Solutions and Investigations](https://ukmt.org.uk/wp-content/uploads/2026/07/SMC__2026_Solutions_and_Investigations_web_version__final_.pdf)
+**Fonte:** [apri PDF p.7](https://ukmt.org.uk/wp-content/uploads/2026/07/SMC_2026_questions_and_solutions.pdf#page=7)
 
 
 <div class="qlang-split" data-lang="it"></div>
@@ -649,14 +691,15 @@ level: Senior Mathematical Challenge
 > - **(D)** $n-\frac32$
 > - **(E)** $n-1$
 
+
 **Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Algebra e Analisi]]
 
-[[Quesiti/src_smc_2026#q15|src_smc_2026__Q15]]
 
 
-
-<span class="atom-split" id="q16" data-atom="q16" data-title="Quesito 16" data-tags="topic_geometria_piana"></span>
+<span class="atom-split" id="q16" data-atom="q16" data-title="Quesito 16" data-tags="topic_geometria_piana,topic_trigonometria,method_trigonometria,skill_ragionamento_geometrico"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -671,13 +714,15 @@ level: Senior Mathematical Challenge
 > - **(D)** 7.5
 > - **(E)** $7\sqrt2$
 
-![[src_smc_2026__q16.png]]
+![[src_smc_2026__Q16.png]]
 
-**Topic:** [[topic_geometria_piana|Geometria piana]]
-**Area:** [[Geometria]]
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_trigonometria|Trigonometry]]
+**Metodo:** [[method_trigonometria|Trigonometric techniques]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
 **Risposta:** (B)
-**Fonte risposta:** UKMT, SMC 2026 Solutions p.7 · Solutions and Investigations
-**Fonte:** apri PDF p.7
+**Fonte risposta:** [UKMT, SMC 2026 Solutions p.7](https://ukmt.org.uk/wp-content/uploads/2026/07/SMC_2026_questions_and_solutions.pdf#page=7) · [Solutions and Investigations](https://ukmt.org.uk/wp-content/uploads/2026/07/SMC__2026_Solutions_and_Investigations_web_version__final_.pdf)
+**Fonte:** [apri PDF p.7](https://ukmt.org.uk/wp-content/uploads/2026/07/SMC_2026_questions_and_solutions.pdf#page=7)
 
 
 <div class="qlang-split" data-lang="it"></div>
@@ -693,16 +738,17 @@ level: Senior Mathematical Challenge
 > - **(D)** 7.5
 > - **(E)** $7\sqrt2$
 
-![[src_smc_2026__q16.png]]
+![[src_smc_2026__Q16.png]]
 
-**Topic:** [[topic_geometria_piana|Geometria piana]]
+
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometria]]
+**Metodo:** [[method_trigonometria|Tecniche trigonometriche]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]]
 
-[[Quesiti/src_smc_2026#q16|src_smc_2026__Q16]]
 
 
-
-<span class="atom-split" id="q17" data-atom="q17" data-title="Quesito 17" data-tags="topic_aritmetica,topic_combinatoria"></span>
+<span class="atom-split" id="q17" data-atom="q17" data-title="Quesito 17" data-tags="topic_aritmetica,topic_combinatoria,method_casework,method_colorazione,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -717,13 +763,15 @@ level: Senior Mathematical Challenge
 > - **(D)** 3
 > - **(E)** 4
 
-![[src_smc_2026__q17.png]]
+![[src_smc_2026__Q17.png]]
 
-**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
-**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_casework|Case analysis]], [[method_colorazione|Colouring / parity]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Risposta:** (C)
-**Fonte risposta:** UKMT, SMC 2026 Solutions p.8 · Solutions and Investigations
-**Fonte:** apri PDF p.8
+**Fonte risposta:** [UKMT, SMC 2026 Solutions p.8](https://ukmt.org.uk/wp-content/uploads/2026/07/SMC_2026_questions_and_solutions.pdf#page=8) · [Solutions and Investigations](https://ukmt.org.uk/wp-content/uploads/2026/07/SMC__2026_Solutions_and_Investigations_web_version__final_.pdf)
+**Fonte:** [apri PDF p.8](https://ukmt.org.uk/wp-content/uploads/2026/07/SMC_2026_questions_and_solutions.pdf#page=8)
 
 
 <div class="qlang-split" data-lang="it"></div>
@@ -739,16 +787,17 @@ level: Senior Mathematical Challenge
 > - **(D)** 3
 > - **(E)** 4
 
-![[src_smc_2026__q17.png]]
+![[src_smc_2026__Q17.png]]
+
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casework|Analisi per casi]], [[method_colorazione|Colorazione / parita]]
+**Abilita:** [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 
-[[Quesiti/src_smc_2026#q17|src_smc_2026__Q17]]
 
 
-
-<span class="atom-split" id="q18" data-atom="q18" data-title="Quesito 18" data-tags="topic_algebra"></span>
+<span class="atom-split" id="q18" data-atom="q18" data-title="Quesito 18" data-tags="topic_algebra,method_fattorizzazione,skill_manipolazione_algebrica,skill_riconoscimento_pattern"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -764,10 +813,12 @@ level: Senior Mathematical Challenge
 > - **(E)** $a^{2n+1}b^{2n+2}$
 
 **Topic:** [[topic_algebra|Algebra]]
-**Area:** [[Algebra e Analisi]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
 **Risposta:** (A)
-**Fonte risposta:** UKMT, SMC 2026 Solutions p.8 · Solutions and Investigations
-**Fonte:** apri PDF p.8
+**Fonte risposta:** [UKMT, SMC 2026 Solutions p.8](https://ukmt.org.uk/wp-content/uploads/2026/07/SMC_2026_questions_and_solutions.pdf#page=8) · [Solutions and Investigations](https://ukmt.org.uk/wp-content/uploads/2026/07/SMC__2026_Solutions_and_Investigations_web_version__final_.pdf)
+**Fonte:** [apri PDF p.8](https://ukmt.org.uk/wp-content/uploads/2026/07/SMC_2026_questions_and_solutions.pdf#page=8)
 
 
 <div class="qlang-split" data-lang="it"></div>
@@ -783,14 +834,15 @@ level: Senior Mathematical Challenge
 > - **(D)** $a^{2n}b^{2n+2}$
 > - **(E)** $a^{2n+1}b^{2n+2}$
 
+
 **Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Algebra e Analisi]]
 
-[[Quesiti/src_smc_2026#q18|src_smc_2026__Q18]]
 
 
-
-<span class="atom-split" id="q19" data-atom="q19" data-title="Quesito 19" data-tags="topic_aritmetica"></span>
+<span class="atom-split" id="q19" data-atom="q19" data-title="Quesito 19" data-tags="topic_aritmetica,method_casework,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -805,11 +857,13 @@ level: Senior Mathematical Challenge
 > - **(D)** 12
 > - **(E)** 13
 
-**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Area:** [[Aritmetica e Teoria dei Numeri]]
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Risposta:** (A)
-**Fonte risposta:** UKMT, SMC 2026 Solutions p.9 · Solutions and Investigations
-**Fonte:** apri PDF p.9
+**Fonte risposta:** [UKMT, SMC 2026 Solutions p.9](https://ukmt.org.uk/wp-content/uploads/2026/07/SMC_2026_questions_and_solutions.pdf#page=9) · [Solutions and Investigations](https://ukmt.org.uk/wp-content/uploads/2026/07/SMC__2026_Solutions_and_Investigations_web_version__final_.pdf)
+**Fonte:** [apri PDF p.9](https://ukmt.org.uk/wp-content/uploads/2026/07/SMC_2026_questions_and_solutions.pdf#page=9)
 
 
 <div class="qlang-split" data-lang="it"></div>
@@ -825,14 +879,15 @@ level: Senior Mathematical Challenge
 > - **(D)** 12
 > - **(E)** 13
 
+
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 
-[[Quesiti/src_smc_2026#q19|src_smc_2026__Q19]]
 
 
-
-<span class="atom-split" id="q20" data-atom="q20" data-title="Quesito 20" data-tags="topic_algebra"></span>
+<span class="atom-split" id="q20" data-atom="q20" data-title="Quesito 20" data-tags="topic_algebra,topic_trigonometria,method_fattorizzazione,method_trigonometria,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -847,13 +902,15 @@ level: Senior Mathematical Challenge
 > - **(D)** Graph D
 > - **(E)** Graph E
 
-![[src_smc_2026__q20.png]]
+![[src_smc_2026__Q20.png]]
 
-**Topic:** [[topic_algebra|Algebra]]
-**Area:** [[Algebra e Analisi]]
+**Topic:** [[topic_algebra|Algebra]], [[topic_trigonometria|Trigonometry]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]], [[method_trigonometria|Trigonometric techniques]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Geometria|Geometry]]
 **Risposta:** (E)
-**Fonte risposta:** UKMT, SMC 2026 Solutions p.9 · Solutions and Investigations
-**Fonte:** apri PDF p.9
+**Fonte risposta:** [UKMT, SMC 2026 Solutions p.9](https://ukmt.org.uk/wp-content/uploads/2026/07/SMC_2026_questions_and_solutions.pdf#page=9) · [Solutions and Investigations](https://ukmt.org.uk/wp-content/uploads/2026/07/SMC__2026_Solutions_and_Investigations_web_version__final_.pdf)
+**Fonte:** [apri PDF p.9](https://ukmt.org.uk/wp-content/uploads/2026/07/SMC_2026_questions_and_solutions.pdf#page=9)
 
 
 <div class="qlang-split" data-lang="it"></div>
@@ -869,16 +926,17 @@ level: Senior Mathematical Challenge
 > - **(D)** Grafico D
 > - **(E)** Grafico E
 
-![[src_smc_2026__q20.png]]
-
-**Topic:** [[topic_algebra|Algebra]]
-**Area:** [[Algebra e Analisi]]
-
-[[Quesiti/src_smc_2026#q20|src_smc_2026__Q20]]
+![[src_smc_2026__Q20.png]]
 
 
+**Topic:** [[topic_algebra|Algebra]], [[topic_trigonometria|Trigonometria]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]], [[method_trigonometria|Tecniche trigonometriche]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Algebra e Analisi]], [[Geometria]]
 
-<span class="atom-split" id="q21" data-atom="q21" data-title="Quesito 21" data-tags="topic_geometria_solida,topic_logica"></span>
+
+
+<span class="atom-split" id="q21" data-atom="q21" data-title="Quesito 21" data-tags="topic_geometria_solida,topic_logica,method_colorazione,skill_ragionamento_geometrico"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -893,13 +951,15 @@ level: Senior Mathematical Challenge
 > - **(D)** $W$
 > - **(E)** $V$
 
-![[src_smc_2026__q21.png]]
+![[src_smc_2026__Q21.png]]
 
-**Topic:** [[topic_geometria_solida|Geometria solida]], [[topic_logica|Logica]]
-**Area:** [[Geometria]], [[Combinatoria, Logica e Probabilita]]
+**Topic:** [[topic_geometria_solida|Solid geometry]], [[topic_logica|Logic, games and strategies]]
+**Metodo:** [[method_colorazione|Colouring / parity]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Risposta:** (E)
-**Fonte risposta:** UKMT, SMC 2026 Solutions p.10 · Solutions and Investigations
-**Fonte:** apri PDF p.10
+**Fonte risposta:** [UKMT, SMC 2026 Solutions p.10](https://ukmt.org.uk/wp-content/uploads/2026/07/SMC_2026_questions_and_solutions.pdf#page=10) · [Solutions and Investigations](https://ukmt.org.uk/wp-content/uploads/2026/07/SMC__2026_Solutions_and_Investigations_web_version__final_.pdf)
+**Fonte:** [apri PDF p.10](https://ukmt.org.uk/wp-content/uploads/2026/07/SMC_2026_questions_and_solutions.pdf#page=10)
 
 
 <div class="qlang-split" data-lang="it"></div>
@@ -915,16 +975,17 @@ level: Senior Mathematical Challenge
 > - **(D)** $W$
 > - **(E)** $V$
 
-![[src_smc_2026__q21.png]]
+![[src_smc_2026__Q21.png]]
 
-**Topic:** [[topic_geometria_solida|Geometria solida]], [[topic_logica|Logica]]
+
+**Topic:** [[topic_geometria_solida|Geometria solida]], [[topic_logica|Logica, giochi, strategie]]
+**Metodo:** [[method_colorazione|Colorazione / parita]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]], [[Combinatoria, Logica e Probabilita]]
 
-[[Quesiti/src_smc_2026#q21|src_smc_2026__Q21]]
 
 
-
-<span class="atom-split" id="q22" data-atom="q22" data-title="Quesito 22" data-tags="topic_geometria_piana"></span>
+<span class="atom-split" id="q22" data-atom="q22" data-title="Quesito 22" data-tags="topic_geometria_piana,method_simmetria,skill_ragionamento_geometrico"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -939,13 +1000,15 @@ level: Senior Mathematical Challenge
 > - **(D)** $\frac{16}{25}$
 > - **(E)** $\frac{81}{125}$
 
-![[src_smc_2026__q22.png]]
+![[src_smc_2026__Q22.png]]
 
-**Topic:** [[topic_geometria_piana|Geometria piana]]
-**Area:** [[Geometria]]
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_simmetria|Using symmetry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
 **Risposta:** (D)
-**Fonte risposta:** UKMT, SMC 2026 Solutions p.10 · Solutions and Investigations
-**Fonte:** apri PDF p.10
+**Fonte risposta:** [UKMT, SMC 2026 Solutions p.10](https://ukmt.org.uk/wp-content/uploads/2026/07/SMC_2026_questions_and_solutions.pdf#page=10) · [Solutions and Investigations](https://ukmt.org.uk/wp-content/uploads/2026/07/SMC__2026_Solutions_and_Investigations_web_version__final_.pdf)
+**Fonte:** [apri PDF p.10](https://ukmt.org.uk/wp-content/uploads/2026/07/SMC_2026_questions_and_solutions.pdf#page=10)
 
 
 <div class="qlang-split" data-lang="it"></div>
@@ -961,16 +1024,17 @@ level: Senior Mathematical Challenge
 > - **(D)** $\frac{16}{25}$
 > - **(E)** $\frac{81}{125}$
 
-![[src_smc_2026__q22.png]]
+![[src_smc_2026__Q22.png]]
+
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_simmetria|Sfruttamento della simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]]
 
-[[Quesiti/src_smc_2026#q22|src_smc_2026__Q22]]
 
 
-
-<span class="atom-split" id="q23" data-atom="q23" data-title="Quesito 23" data-tags="topic_geometria_piana,topic_aritmetica"></span>
+<span class="atom-split" id="q23" data-atom="q23" data-title="Quesito 23" data-tags="topic_geometria_piana,topic_aritmetica,method_fattorizzazione,skill_manipolazione_algebrica,skill_ragionamento_geometrico"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -979,11 +1043,13 @@ level: Senior Mathematical Challenge
 
 > Let $PQRS$ be a trapezium with $QP$ parallel to $RS$ and with $QP=20$, $RS=26$ and $PS=QR=n$, for some positive integer $n$. The length of the diagonal $QS$ is also a positive integer. What is the maximum possible value of $n$?
 
-**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Area:** [[Geometria]], [[Aritmetica e Teoria dei Numeri]]
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Risposta:** 129
-**Fonte risposta:** UKMT, SMC 2026 Solutions p.11 · Solutions and Investigations
-**Fonte:** apri PDF p.11
+**Fonte risposta:** [UKMT, SMC 2026 Solutions p.11](https://ukmt.org.uk/wp-content/uploads/2026/07/SMC_2026_questions_and_solutions.pdf#page=11) · [Solutions and Investigations](https://ukmt.org.uk/wp-content/uploads/2026/07/SMC__2026_Solutions_and_Investigations_web_version__final_.pdf)
+**Fonte:** [apri PDF p.11](https://ukmt.org.uk/wp-content/uploads/2026/07/SMC_2026_questions_and_solutions.pdf#page=11)
 
 
 <div class="qlang-split" data-lang="it"></div>
@@ -993,14 +1059,15 @@ level: Senior Mathematical Challenge
 
 > Sia $PQRS$ un trapezio con $QP$ parallelo a $RS$ e con $QP=20$, $RS=26$ e $PS=QR=n$, per un certo intero positivo $n$. Anche la lunghezza della diagonale $QS$ è un intero positivo. Qual è il valore massimo possibile di $n$?
 
+
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]], [[Aritmetica e Teoria dei Numeri]]
 
-[[Quesiti/src_smc_2026#q23|src_smc_2026__Q23]]
 
 
-
-<span class="atom-split" id="q24" data-atom="q24" data-title="Quesito 24" data-tags="topic_geometria_piana"></span>
+<span class="atom-split" id="q24" data-atom="q24" data-title="Quesito 24" data-tags="topic_geometria_piana,topic_geometria_analitica,method_coordinate,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -1009,13 +1076,15 @@ level: Senior Mathematical Challenge
 
 > $OPQR$ is a square. The point $S$ lies on $PQ$ such that $PS:SQ=1:2$. Points $S$, $R$ and $T$ lie on a straight line and angle $TOS$ is a right angle. The area of the triangle $ORT$ is 30. What is the area of $OPQR$?
 
-![[src_smc_2026__q24.png]]
+![[src_smc_2026__Q24.png]]
 
-**Topic:** [[topic_geometria_piana|Geometria piana]]
-**Area:** [[Geometria]]
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_geometria_analitica|Coordinate geometry]]
+**Metodo:** [[method_coordinate|Coordinate method]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Geometria|Geometry]]
 **Risposta:** 140
-**Fonte risposta:** UKMT, SMC 2026 Solutions p.11 · Solutions and Investigations
-**Fonte:** apri PDF p.11
+**Fonte risposta:** [UKMT, SMC 2026 Solutions p.11](https://ukmt.org.uk/wp-content/uploads/2026/07/SMC_2026_questions_and_solutions.pdf#page=11) · [Solutions and Investigations](https://ukmt.org.uk/wp-content/uploads/2026/07/SMC__2026_Solutions_and_Investigations_web_version__final_.pdf)
+**Fonte:** [apri PDF p.11](https://ukmt.org.uk/wp-content/uploads/2026/07/SMC_2026_questions_and_solutions.pdf#page=11)
 
 
 <div class="qlang-split" data-lang="it"></div>
@@ -1025,16 +1094,17 @@ level: Senior Mathematical Challenge
 
 > $OPQR$ è un quadrato. Il punto $S$ giace su $PQ$ in modo tale che $PS:SQ=1:2$. I punti $S$, $R$ e $T$ giacciono su una retta e l'angolo $TOS$ è un angolo retto. L'area del triangolo $ORT$ è 30. Qual è l'area di $OPQR$?
 
-![[src_smc_2026__q24.png]]
+![[src_smc_2026__Q24.png]]
 
-**Topic:** [[topic_geometria_piana|Geometria piana]]
+
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_geometria_analitica|Geometria analitica]]
+**Metodo:** [[method_coordinate|Metodo delle coordinate]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 
-[[Quesiti/src_smc_2026#q24|src_smc_2026__Q24]]
 
 
-
-<span class="atom-split" id="q25" data-atom="q25" data-title="Quesito 25" data-tags="topic_combinatoria"></span>
+<span class="atom-split" id="q25" data-atom="q25" data-title="Quesito 25" data-tags="topic_combinatoria,method_casi_conteggio,skill_conteggio_sistematico,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -1043,13 +1113,15 @@ level: Senior Mathematical Challenge
 
 > This diagram, built from equilateral triangles of side-length 1, has a total of 18 edges of length 1. Each edge is to be coloured red, white or blue. Note that different colourings of the edges of the diagram which can be made the same by rotation or reflection of the diagram are to be considered as different colourings. How many different coloured diagrams can be made, given that each equilateral triangle of side-length 1 must have edges of all three colours?
 
-![[src_smc_2026__q25.png]]
+![[src_smc_2026__Q25.png]]
 
-**Topic:** [[topic_combinatoria|Combinatoria]]
-**Area:** [[Combinatoria, Logica e Probabilita]]
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_casi_conteggio|Counting by cases]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]], [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Risposta:** 528
-**Fonte risposta:** UKMT, SMC 2026 Solutions p.12 · Solutions and Investigations
-**Fonte:** apri PDF p.12
+**Fonte risposta:** [UKMT, SMC 2026 Solutions p.12](https://ukmt.org.uk/wp-content/uploads/2026/07/SMC_2026_questions_and_solutions.pdf#page=12) · [Solutions and Investigations](https://ukmt.org.uk/wp-content/uploads/2026/07/SMC__2026_Solutions_and_Investigations_web_version__final_.pdf)
+**Fonte:** [apri PDF p.12](https://ukmt.org.uk/wp-content/uploads/2026/07/SMC_2026_questions_and_solutions.pdf#page=12)
 
 
 <div class="qlang-split" data-lang="it"></div>
@@ -1059,9 +1131,10 @@ level: Senior Mathematical Challenge
 
 > Questo diagramma, costruito a partire da triangoli equilateri di lato 1, presenta in totale 18 spigoli di lunghezza 1. Ogni spigolo deve essere colorato di rosso, bianco o blu. Si noti che colorazioni diverse degli spigoli del diagramma che possono essere portate a coincidere mediante una rotazione o una riflessione del diagramma devono essere considerate colorazioni diverse. Quanti diagrammi colorati diversi si possono ottenere, sapendo che ciascun triangolo equilatero di lato 1 deve avere spigoli di tutti e tre i colori?
 
-![[src_smc_2026__q25.png]]
+![[src_smc_2026__Q25.png]]
+
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casi_conteggio|Conteggio per casi]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
-
-[[Quesiti/src_smc_2026#q25|src_smc_2026__Q25]]

@@ -40,8 +40,6 @@ level: Giochi d'Autunno
 **Abilita:** [[skill_lettura_attenta|Careful reading of the text]], [[skill_conteggio_sistematico|Systematic counting]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
-[[Quesiti/src_bocconi_autunno_2007#q01|src_bocconi_autunno_2007__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_aritmetica,topic_logica,method_casework,skill_lettura_attenta,skill_manipolazione_algebrica"></span>
@@ -54,7 +52,7 @@ level: Giochi d'Autunno
 > Sara, che non sa usare ancora bene la sua nuova stilografica, ha purtroppo macchiato il quaderno di aritmetica. Le macchie sono però strane: anche se di forma diversa, nascondono sempre la stessa cifra. Quale?
 > $$(\blacksquare \times 3) + (\blacksquare \times \bullet) = \blacksquare\blacksquare$$
 
-![[src_bocconi_autunno_2007__q02.png]]
+![[src_bocconi_autunno_2007__Q02.png]]
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_logica|Logica]]
 **Metodo:** [[method_casework|Casework]]
@@ -72,14 +70,12 @@ level: Giochi d'Autunno
 > Sara, who still can't use her new fountain pen very well, has unfortunately stained her arithmetic workbook. The stains are strange, though: even though they're different shapes, they always hide the same digit. Which one?
 > $$(\blacksquare \times 3) + (\blacksquare \times \bullet) = \blacksquare\blacksquare$$
 
-![[src_bocconi_autunno_2007__q02.png]]
+![[src_bocconi_autunno_2007__Q02.png]]
 
 **Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_logica|Logic, games, strategies]]
 **Metodo:** [[method_casework|Case analysis]]
 **Abilita:** [[skill_lettura_attenta|Careful reading of the text]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
-
-[[Quesiti/src_bocconi_autunno_2007#q02|src_bocconi_autunno_2007__Q02]]
 
 
 
@@ -92,7 +88,7 @@ level: Giochi d'Autunno
 
 > Quanti cubetti sono occorsi per costruire la piramide del disegno? Tenete presente che ogni piano della piramide è un quadrato e che, in ogni piano, i cubetti sono disposti solo lungo i bordi (in mezzo c'è un «buco»).
 
-![[src_bocconi_autunno_2007__q03.png]]
+![[src_bocconi_autunno_2007__Q03.png]]
 
 **Topic:** [[topic_geometria_solida|Geometria solida]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_conteggio|Conteggio]], [[method_casi_conteggio|Casi e conteggio]]
@@ -109,14 +105,12 @@ level: Giochi d'Autunno
 
 > How many small cubes were needed to build the pyramid in the drawing? Keep in mind that each level of the pyramid is a square and that, on each level, the small cubes are arranged only along the edges (there is a "hole" in the middle).
 
-![[src_bocconi_autunno_2007__q03.png]]
+![[src_bocconi_autunno_2007__Q03.png]]
 
 **Topic:** [[topic_geometria_solida|Solid geometry]], [[topic_combinatoria|Combinatorics]]
 **Metodo:** [[method_conteggio|Combinatorial counting]], [[method_casi_conteggio|Counting by cases]]
 **Abilita:** [[skill_conteggio_sistematico|Systematic counting]], [[skill_ragionamento_geometrico|Geometric reasoning]]
 **Area:** [[Geometria|Geometry]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
-
-[[Quesiti/src_bocconi_autunno_2007#q03|src_bocconi_autunno_2007__Q03]]
 
 
 
@@ -129,7 +123,7 @@ level: Giochi d'Autunno
 
 > Questo puzzle è formato da due soli pezzi sovrapponibili. Disegna il contorno di questi due pezzi, sapendo che uno potrebbe essere stato ribaltato. (Per aiutarti, un primo tratto del contorno di separazione tra i due pezzi è stato già tracciato.)
 
-![[src_bocconi_autunno_2007__q04.png]]
+![[src_bocconi_autunno_2007__Q04.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_logica|Logica]]
 **Metodo:** [[method_simmetria|Simmetria]]
@@ -146,18 +140,16 @@ level: Giochi d'Autunno
 
 > This puzzle consists of only two pieces that can be superimposed. Draw the outline of these two pieces, knowing that one of them may have been flipped. (To help you, the first part of the separation outline between the two pieces has already been drawn.)
 
-![[src_bocconi_autunno_2007__q04.png]]
+![[src_bocconi_autunno_2007__Q04.png]]
 
 **Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_logica|Logic, games, strategies]]
 **Metodo:** [[method_simmetria|Using symmetry]]
 **Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_riconoscimento_pattern|Pattern recognition]]
 **Area:** [[Geometria|Geometry]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
-[[Quesiti/src_bocconi_autunno_2007#q04|src_bocconi_autunno_2007__Q04]]
 
 
-
-<span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_aritmetica,topic_logica,method_conteggio,skill_lettura_attenta,skill_conteggio_sistematico"></span>
+<span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_aritmetica,topic_logica,method_conteggio,skill_lettura_attenta,skill_conteggio_sistematico,skill_modellizzazione"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -169,7 +161,7 @@ level: Giochi d'Autunno
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_logica|Logica]]
 **Metodo:** [[method_conteggio|Conteggio]]
-**Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 7,58
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Z4_szAbXsmXRsNKPLrFrclo52mZzR9kB/view)
@@ -182,12 +174,11 @@ level: Giochi d'Autunno
 
 > Every morning, Luca sets his alarm for exactly 6:48 and gets up five minutes later. He then needs a quarter of an hour to have breakfast, 18 minutes to wash and get dressed, and 6 minutes to carefully check the contents of his schoolbag. He then spends a minute affectionately saying goodbye to his mum and three minutes getting to the bus stop. He waits for 2 minutes. A quarter of an hour later, the bus drops him off in front of the school. At this point, he still has 5 minutes to chat with his classmates before the bell rings. What exact time does the bell at Luca's school ring?
 
+
 **Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_logica|Logic, games, strategies]]
 **Metodo:** [[method_conteggio|Combinatorial counting]]
-**Abilita:** [[skill_lettura_attenta|Careful reading of the text]], [[skill_conteggio_sistematico|Systematic counting]]
+**Abilita:** [[skill_lettura_attenta|Careful reading of the text]], [[skill_conteggio_sistematico|Systematic counting]], [[skill_modellizzazione|Modelling / translating the text]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
-
-[[Quesiti/src_bocconi_autunno_2007#q05|src_bocconi_autunno_2007__Q05]]
 
 
 
@@ -200,7 +191,7 @@ level: Giochi d'Autunno
 
 > Quale numero dovete scrivere nella casella in alto a sinistra perché le quattro operazioni indicate (eseguite nell'ordine, a partire dalla freccia orizzontale in alto) siano giuste?
 
-![[src_bocconi_autunno_2007__q06.png]]
+![[src_bocconi_autunno_2007__Q06.png]]
 
 **Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_backward|Backward]]
@@ -217,14 +208,12 @@ level: Giochi d'Autunno
 
 > What number must you write in the top-left box so that the four indicated operations (performed in order, starting from the horizontal arrow at the top) are correct?
 
-![[src_bocconi_autunno_2007__q06.png]]
+![[src_bocconi_autunno_2007__Q06.png]]
 
 **Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Arithmetic / Number theory]]
 **Metodo:** [[method_backward|Working backwards]]
 **Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_lettura_attenta|Careful reading of the text]]
 **Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
-
-[[Quesiti/src_bocconi_autunno_2007#q06|src_bocconi_autunno_2007__Q06]]
 
 
 
@@ -237,7 +226,7 @@ level: Giochi d'Autunno
 
 > Quanti triangoli contiene la figura?
 
-![[src_bocconi_autunno_2007__q07.png]]
+![[src_bocconi_autunno_2007__Q07.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_conteggio|Conteggio]], [[method_casi_conteggio|Casi e conteggio]]
@@ -254,14 +243,12 @@ level: Giochi d'Autunno
 
 > How many triangles are there in the figure?
 
-![[src_bocconi_autunno_2007__q07.png]]
+![[src_bocconi_autunno_2007__Q07.png]]
 
 **Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_combinatoria|Combinatorics]]
 **Metodo:** [[method_conteggio|Combinatorial counting]], [[method_casi_conteggio|Counting by cases]]
 **Abilita:** [[skill_conteggio_sistematico|Systematic counting]], [[skill_ragionamento_geometrico|Geometric reasoning]]
 **Area:** [[Geometria|Geometry]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
-
-[[Quesiti/src_bocconi_autunno_2007#q07|src_bocconi_autunno_2007__Q07]]
 
 
 
@@ -295,11 +282,9 @@ level: Giochi d'Autunno
 **Abilita:** [[skill_casework_accurato|Careful case analysis]], [[skill_lettura_attenta|Careful reading of the text]]
 **Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Algebra e Analisi|Algebra and analysis]]
 
-[[Quesiti/src_bocconi_autunno_2007#q08|src_bocconi_autunno_2007__Q08]]
 
 
-
-<span class="atom-split" id="q09" data-atom="q09" data-title="Quesito 9" data-tags="topic_aritmetica,topic_algebra,method_conteggio,skill_manipolazione_algebrica,skill_conteggio_sistematico"></span>
+<span class="atom-split" id="q09" data-atom="q09" data-title="Quesito 9" data-tags="topic_aritmetica,topic_algebra,method_conteggio,method_fattorizzazione,skill_manipolazione_algebrica,skill_conteggio_sistematico"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -310,7 +295,7 @@ level: Giochi d'Autunno
 > Quante figurine aveva lunedì, prima di vincere le sue prime 3 figurine?
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
-**Metodo:** [[method_conteggio|Conteggio]]
+**Metodo:** [[method_conteggio|Conteggio]], [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 **Risposta:** 916
@@ -324,12 +309,11 @@ level: Giochi d'Autunno
 
 > Nando loves playing with trading cards with his friends. On Monday, he won 3. On Tuesday, he won another $3 \times 3$. On Wednesday, he won another $3 \times 3 \times 3$. And so on: each day of the week, he wins more—three times as many as he had won the previous day. So, on Saturday, he wins another $3 \times 3 \times 3 \times 3 \times 3$, reaching 2008 trading cards in total. How many trading cards did he have on Monday, before winning his first 3 trading cards?
 
+
 **Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_algebra|Algebra]]
-**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Metodo:** [[method_conteggio|Combinatorial counting]], [[method_fattorizzazione|Factorisation / algebraic manipulation]]
 **Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_conteggio_sistematico|Systematic counting]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Algebra e Analisi|Algebra and analysis]]
-
-[[Quesiti/src_bocconi_autunno_2007#q09|src_bocconi_autunno_2007__Q09]]
 
 
 
@@ -374,11 +358,9 @@ level: Giochi d'Autunno
 **Abilita:** [[skill_casework_accurato|Careful case analysis]], [[skill_lettura_attenta|Careful reading of the text]]
 **Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
-[[Quesiti/src_bocconi_autunno_2007#q10|src_bocconi_autunno_2007__Q10]]
 
 
-
-<span class="atom-split" id="q11" data-atom="q11" data-title="Quesito 11" data-tags="topic_aritmetica,topic_algebra,method_fattorizzazione,method_casework,skill_riconoscimento_pattern,skill_conteggio_sistematico"></span>
+<span class="atom-split" id="q11" data-atom="q11" data-title="Quesito 11" data-tags="topic_aritmetica,topic_algebra,method_fattorizzazione,method_casework,skill_riconoscimento_pattern,skill_conteggio_sistematico,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -393,7 +375,7 @@ level: Giochi d'Autunno
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
 **Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_casework|Casework]]
-**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 **Risposta:** uno tra 225, 256, 289, 324, 361, 400, 441, 484, 529, 576, 625, 676, 729, 784, 841, 900, 961
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Z4_szAbXsmXRsNKPLrFrclo52mZzR9kB/view)
@@ -406,12 +388,11 @@ level: Giochi d'Autunno
 
 > Quebec was founded in 1608 (in 2008, it will have been exactly four hundred years). The square of 1608 is $2.585.664$. This number has remarkable properties: it is a perfect square; the sum of its digits is a perfect square (36), and the product of its digits is also a perfect square (5,760). Write a three-digit number greater than 200 that has the same properties: • it is the square of an integer; • the sum of its digits is the square of an integer; • the product of its digits is also the square of a positive integer.
 
+
 **Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_algebra|Algebra]]
 **Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]], [[method_casework|Case analysis]]
-**Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]], [[skill_conteggio_sistematico|Systematic counting]]
+**Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]], [[skill_conteggio_sistematico|Systematic counting]], [[skill_casework_accurato|Careful case analysis]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Algebra e Analisi|Algebra and analysis]]
-
-[[Quesiti/src_bocconi_autunno_2007#q11|src_bocconi_autunno_2007__Q11]]
 
 
 
@@ -450,8 +431,6 @@ level: Giochi d'Autunno
 **Abilita:** [[skill_conteggio_sistematico|Systematic counting]], [[skill_riconoscimento_pattern|Pattern recognition]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
-[[Quesiti/src_bocconi_autunno_2007#q12|src_bocconi_autunno_2007__Q12]]
-
 
 
 <span class="atom-split" id="q13" data-atom="q13" data-title="Quesito 13" data-tags="topic_geometria_piana,topic_combinatoria,method_conteggio,method_casi_conteggio,skill_conteggio_sistematico,skill_ragionamento_geometrico"></span>
@@ -463,7 +442,7 @@ level: Giochi d'Autunno
 
 > Quanti triangoli contiene la figura?
 
-![[src_bocconi_autunno_2007__q13.png]]
+![[src_bocconi_autunno_2007__Q13.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_conteggio|Conteggio]], [[method_casi_conteggio|Casi e conteggio]]
@@ -480,14 +459,12 @@ level: Giochi d'Autunno
 
 > How many triangles are there in the figure?
 
-![[src_bocconi_autunno_2007__q13.png]]
+![[src_bocconi_autunno_2007__Q13.png]]
 
 **Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_combinatoria|Combinatorics]]
 **Metodo:** [[method_conteggio|Combinatorial counting]], [[method_casi_conteggio|Counting by cases]]
 **Abilita:** [[skill_conteggio_sistematico|Systematic counting]], [[skill_ragionamento_geometrico|Geometric reasoning]]
 **Area:** [[Geometria|Geometry]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
-
-[[Quesiti/src_bocconi_autunno_2007#q13|src_bocconi_autunno_2007__Q13]]
 
 
 
@@ -501,7 +478,7 @@ level: Giochi d'Autunno
 > Giochiamo su una scacchiera nelle cui caselle (vedi figura) sono scritti i prodotti delle moltiplicazioni: nella prima riga e la prima colonna i numeri da 1 a 9, e nella casella generica il prodotto $(r \times c)$ tra il suo numero di riga e quello di colonna. Si parte da $1$ ($1 \times 1$) e ci si sposta come un cavallo sulla scacchiera, alternando le due direzioni.
 > Quale numero corrisponde alla 49-esima casella visitata dal cavallo?
 
-![[src_bocconi_autunno_2007__q14.png]]
+![[src_bocconi_autunno_2007__Q14.png]]
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_ricorsione|Ricorsione]], [[method_conteggio|Conteggio]]
@@ -518,18 +495,16 @@ level: Giochi d'Autunno
 
 > We play on a chessboard in which the products of multiplications are written in the squares (see figure): in the first row and the first column are the numbers from 1 to 9, and in a generic square is the product $(r \times c)$ of its row number and its column number. We start at $1$ ($1 \times 1$) and move like a knight on the chessboard, alternating between the two directions. Which number corresponds to the 49th square visited by the knight?
 
-![[src_bocconi_autunno_2007__q14.png]]
+![[src_bocconi_autunno_2007__Q14.png]]
 
 **Topic:** [[topic_combinatoria|Combinatorics]], [[topic_aritmetica|Arithmetic / Number theory]]
 **Metodo:** [[method_ricorsione|Recursion]], [[method_conteggio|Combinatorial counting]]
 **Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]], [[skill_conteggio_sistematico|Systematic counting]]
 **Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
-[[Quesiti/src_bocconi_autunno_2007#q14|src_bocconi_autunno_2007__Q14]]
 
 
-
-<span class="atom-split" id="q15" data-atom="q15" data-title="Quesito 15" data-tags="topic_aritmetica,method_fattorizzazione,method_casework,skill_riconoscimento_pattern,skill_conteggio_sistematico"></span>
+<span class="atom-split" id="q15" data-atom="q15" data-title="Quesito 15" data-tags="topic_aritmetica,method_fattorizzazione,method_casework,method_congruenze,skill_riconoscimento_pattern,skill_conteggio_sistematico,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -540,8 +515,8 @@ level: Giochi d'Autunno
 > Quali saranno i tre prossimi anni consecutivi «quadratodivisibili»?
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_casework|Casework]]
-**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_casework|Casework]], [[method_congruenze|Aritmetica modulare / congruenze]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 2023, 2024, 2025
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Z4_szAbXsmXRsNKPLrFrclo52mZzR9kB/view)
@@ -554,16 +529,15 @@ level: Giochi d'Autunno
 
 > The years 2007, 2008, and 2009 are three consecutive "square-divisible" years: each of the three numbers is divisible by the square of an integer greater than 1 (2007 is divisible by 9, 2008 by 4, and 2009 by 49). What will be the next three consecutive "square-divisible" years?
 
+
 **Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
-**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]], [[method_casework|Case analysis]]
-**Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]], [[skill_conteggio_sistematico|Systematic counting]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]], [[method_casework|Case analysis]], [[method_congruenze|Modular arithmetic / congruences]]
+**Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]], [[skill_conteggio_sistematico|Systematic counting]], [[skill_casework_accurato|Careful case analysis]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
-[[Quesiti/src_bocconi_autunno_2007#q15|src_bocconi_autunno_2007__Q15]]
 
 
-
-<span class="atom-split" id="q16" data-atom="q16" data-title="Quesito 16" data-tags="topic_geometria_piana,topic_aritmetica,method_coordinate,skill_modellizzazione,skill_stima"></span>
+<span class="atom-split" id="q16" data-atom="q16" data-title="Quesito 16" data-tags="topic_geometria_piana,topic_aritmetica,topic_algebra,method_coordinate,skill_modellizzazione,skill_stima,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -573,12 +547,12 @@ level: Giochi d'Autunno
 > Sono su una spiaggia, a $2.269$ metri dal mare e $5$ metri sopra il livello del mare. La spiaggia scende verso il mare con pendenza costante. Io avanzo verso il mare alla velocità di $3,6$ km all'ora mentre il livello verticale del mare sale di 1 cm al secondo.
 > Quanti metri avrò percorso quando avrò raggiunto il mare? (Eventualmente, arrotondate al metro più vicino).
 
-![[src_bocconi_autunno_2007__q16.png]]
+![[src_bocconi_autunno_2007__Q16.png]]
 
-**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
 **Metodo:** [[method_coordinate|Coordinate]]
-**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_stima|Stima]]
-**Area:** [[Geometria]], [[Aritmetica e Teoria dei Numeri]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_stima|Stima]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]], [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 **Risposta:** 2015 metri circa
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Z4_szAbXsmXRsNKPLrFrclo52mZzR9kB/view)
 
@@ -590,18 +564,17 @@ level: Giochi d'Autunno
 
 > I am on a beach, $2.269$ meters from the sea and $5$ meters above sea level. The beach slopes downward toward the sea at a constant gradient. I am moving toward the sea at a speed of $3,6$ km per hour, while the vertical level of the sea is rising by 1 cm per second. How many meters will I have traveled when I reach the sea? (If necessary, round to the nearest meter.)
 
-![[src_bocconi_autunno_2007__q16.png]]
+![[src_bocconi_autunno_2007__Q16.png]]
 
-**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_aritmetica|Arithmetic / Number theory]]
+
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_aritmetica|Arithmetic / Number theory]], [[topic_algebra|Algebra]]
 **Metodo:** [[method_coordinate|Coordinate method]]
-**Abilita:** [[skill_modellizzazione|Modelling / translating the text]], [[skill_stima|Estimation and approximation]]
-**Area:** [[Geometria|Geometry]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
-
-[[Quesiti/src_bocconi_autunno_2007#q16|src_bocconi_autunno_2007__Q16]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]], [[skill_stima|Estimation and approximation]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Geometria|Geometry]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Algebra e Analisi|Algebra and analysis]]
 
 
 
-<span class="atom-split" id="q17" data-atom="q17" data-title="Quesito 17" data-tags="topic_aritmetica,topic_algebra,method_casework,method_fattorizzazione,skill_casework_accurato,skill_manipolazione_algebrica"></span>
+<span class="atom-split" id="q17" data-atom="q17" data-title="Quesito 17" data-tags="topic_aritmetica,topic_algebra,method_casework,method_fattorizzazione,method_congruenze,skill_casework_accurato,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -612,7 +585,7 @@ level: Giochi d'Autunno
 > Qual era il numero iniziale?
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
-**Metodo:** [[method_casework|Casework]], [[method_fattorizzazione|Fattorizzazione]]
+**Metodo:** [[method_casework|Casework]], [[method_fattorizzazione|Fattorizzazione]], [[method_congruenze|Aritmetica modulare / congruenze]]
 **Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 **Risposta:** 1552
@@ -626,12 +599,11 @@ level: Giochi d'Autunno
 
 > Writing a three-digit number uses three different digits $c$, $d$, $u$ ($c$ for the hundreds place, $d$ for the tens place, and $u$ for the units place; the hundreds digit is not zero). Let us square this number and then divide it by 2. We thus obtain a five-digit number written as $cdduc$. What was the initial number?
 
+
 **Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_algebra|Algebra]]
-**Metodo:** [[method_casework|Case analysis]], [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Metodo:** [[method_casework|Case analysis]], [[method_fattorizzazione|Factorisation / algebraic manipulation]], [[method_congruenze|Modular arithmetic / congruences]]
 **Abilita:** [[skill_casework_accurato|Careful case analysis]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Algebra e Analisi|Algebra and analysis]]
-
-[[Quesiti/src_bocconi_autunno_2007#q17|src_bocconi_autunno_2007__Q17]]
 
 
 
@@ -646,7 +618,7 @@ level: Giochi d'Autunno
 > La figura non rispetta le proporzioni. Il triangolo isoscele $C_1F_1C_2$, i cui angoli uguali misurano $30^\circ$, è equilatero e la distanza di C dalla riva è $50+340-390$ m.
 > Che distanza separa i due fari?
 
-![[src_bocconi_autunno_2007__q18.png]]
+![[src_bocconi_autunno_2007__Q18.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometria]]
 **Metodo:** [[method_trigonometria|Trigonometria]], [[method_coordinate|Coordinate]]
@@ -663,11 +635,9 @@ level: Giochi d'Autunno
 
 > Between two lighthouses located on the coast, the shoreline is straight. A seagull is 340 metres from the shore. Suddenly, it moves 100 metres away perpendicular to the coast, then travels another 100 metres toward the first lighthouse and finally 100 metres toward the second. Thus, it ends up exactly at the starting point. The figure is not to scale. The isosceles triangle $C_1F_1C_2$, whose equal angles measure $30^\circ$, is equilateral, and the distance from C to the shore is $50+340-390$ m. What is the distance between the two lighthouses?
 
-![[src_bocconi_autunno_2007__q18.png]]
+![[src_bocconi_autunno_2007__Q18.png]]
 
 **Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_trigonometria|Trigonometric techniques]]
 **Metodo:** [[method_trigonometria|Trigonometric techniques]], [[method_coordinate|Coordinate method]]
 **Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_modellizzazione|Modelling / translating the text]]
 **Area:** [[Geometria|Geometry]]
-
-[[Quesiti/src_bocconi_autunno_2007#q18|src_bocconi_autunno_2007__Q18]]

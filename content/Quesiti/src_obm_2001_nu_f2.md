@@ -38,11 +38,9 @@ level: OBM Nível Universitário
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]]
 **Area:** [[Geometria]]
 
-[[Quesiti/src_obm_2001_nu_f2#q01|src_obm_2001_nu_f2__Q01]]
 
 
-
-<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_geometria_analitica,topic_aritmetica,method_disuguaglianze,skill_ragionamento_geometrico,skill_modellizzazione,skill_lettura_attenta"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_geometria_analitica,topic_aritmetica,method_disuguaglianze,method_cassetti,skill_ragionamento_geometrico,skill_modellizzazione,skill_lettura_attenta,skill_stima"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -52,9 +50,9 @@ level: OBM Nível Universitário
 > Let $\varepsilon$ be an arbitrary positive real number. With center at every point of the plane with integer coordinates, draw a circle of radius $\varepsilon$. Prove that every line passing through the origin meets infinitely many of these circles.
 
 **Topic:** [[topic_geometria_analitica|Geometria analitica]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_disuguaglianze|Disuguaglianze]]
-**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]], [[skill_lettura_attenta|Lettura attenta]]
-**Area:** [[Geometria]], [[Aritmetica e Teoria dei Numeri]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze]], [[method_cassetti|Pigeonhole principle]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]], [[skill_lettura_attenta|Lettura attenta]], [[skill_stima|Estimation and approximation]]
+**Area:** [[Geometria|Geometry]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/12XNvYzmA5iSp5auP4O68Ivgx7LoAbloE/view)
 
 
@@ -65,16 +63,15 @@ level: OBM Nível Universitário
 
 > Sia $\varepsilon$ un numero reale positivo arbitrario. Con centro in ciascun punto del piano a coordinate intere, si tracci una circonferenza di raggio $\varepsilon$. Dimostrare che ogni retta passante per l'origine interseca infiniti di questi cerchi.
 
+
 **Topic:** [[topic_geometria_analitica|Geometria analitica]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_disuguaglianze|Disuguaglianze]]
-**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]], [[skill_lettura_attenta|Lettura attenta]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze]], [[method_cassetti|Principio dei cassetti]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]], [[skill_lettura_attenta|Lettura attenta]], [[skill_stima|Stima e approssimazione]]
 **Area:** [[Geometria]], [[Aritmetica e Teoria dei Numeri]]
 
-[[Quesiti/src_obm_2001_nu_f2#q02|src_obm_2001_nu_f2__Q02]]
 
 
-
-<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_algebra,method_fattorizzazione,method_induzione,skill_manipolazione_algebrica,skill_astrazione,skill_ragionamento_geometrico"></span>
+<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_algebra,method_fattorizzazione,method_induzione,method_casework,skill_manipolazione_algebrica,skill_astrazione,skill_ragionamento_geometrico"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -85,9 +82,9 @@ level: OBM Nível Universitário
 > $$\pm\begin{pmatrix}1 & 0\\0 & 1\end{pmatrix},\quad \pm\begin{pmatrix}0 & -1\\1 & 0\end{pmatrix},\quad \pm\begin{pmatrix}0 & -1\\1 & -1\end{pmatrix},\quad \pm\begin{pmatrix}0 & -1\\1 & 1\end{pmatrix}.$$
 
 **Topic:** [[topic_algebra|Algebra]]
-**Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_induzione|Induzione]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_induzione|Induzione]], [[method_casework|Case analysis]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
-**Area:** [[Algebra e Analisi]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/12XNvYzmA5iSp5auP4O68Ivgx7LoAbloE/view)
 
 
@@ -99,12 +96,11 @@ level: OBM Nível Universitário
 > Definisci $SL(2,\mathbb{Z})$ come l'insieme delle matrici $2 \times 2$ a coefficienti interi e con determinante $1$. Sia $A \in SL(2,\mathbb{Z})$ una matrice tale che esista $n > 0$, un numero intero, con $A^n = I$. Dimostrare che esiste $X \in SL(2,\mathbb{Z})$ tale che $X^T A X$ sia uguale a una delle seguenti matrici:
 > $$\pm\begin{pmatrix}1 & 0\\0 & 1\end{pmatrix},\quad \pm\begin{pmatrix}0 & -1\\1 & 0\end{pmatrix},\quad \pm\begin{pmatrix}0 & -1\\1 & -1\end{pmatrix},\quad \pm\begin{pmatrix}0 & -1\\1 & 1\end{pmatrix}.$$
 
+
 **Topic:** [[topic_algebra|Algebra]]
-**Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_induzione|Induzione]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_induzione|Induzione]], [[method_casework|Analisi per casi]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Algebra e Analisi]]
-
-[[Quesiti/src_obm_2001_nu_f2#q03|src_obm_2001_nu_f2__Q03]]
 
 
 
@@ -117,7 +113,7 @@ level: OBM Nível Universitário
 
 > Walking along the unit segments of the figure below, determine how many distinct paths from $A$ to $B$ exist without passing through any point more than once.
 
-![[src_obm_2001_nu_f2__q04.png]]
+![[src_obm_2001_nu_f2__Q04.png]]
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]], [[method_grafi|Grafi]]
@@ -133,18 +129,16 @@ level: OBM Nível Universitário
 
 > Muovendoti lungo i segmenti unitari della figura sottostante, determina quante vie distinte esistono da $A$ a $B$ senza passare per alcun punto più di una volta.
 
-![[src_obm_2001_nu_f2__q04.png]]
+![[src_obm_2001_nu_f2__Q04.png]]
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]], [[method_grafi|Grafi]]
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 
-[[Quesiti/src_obm_2001_nu_f2#q04|src_obm_2001_nu_f2__Q04]]
 
 
-
-<span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_insiemi_funzioni,topic_algebra,method_simmetria,method_telescoping,skill_manipolazione_algebrica,skill_lettura_attenta,skill_astrazione"></span>
+<span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_insiemi_funzioni,topic_algebra,topic_funzionali,topic_trigonometria,method_simmetria,method_telescoping,skill_manipolazione_algebrica,skill_lettura_attenta,skill_astrazione"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -157,10 +151,10 @@ level: OBM Nível Universitário
 > 
 > b) Compute $I(u)$ for all $u \in \mathbb{R}$.
 
-**Topic:** [[topic_insiemi_funzioni|Insiemi e funzioni]], [[topic_algebra|Algebra]]
+**Topic:** [[topic_insiemi_funzioni|Insiemi e funzioni]], [[topic_algebra|Algebra]], [[topic_funzionali|Functional equations / sequences]], [[topic_trigonometria|Trigonometry]]
 **Metodo:** [[method_simmetria|Simmetria]], [[method_telescoping|Telescoping]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_astrazione|Astrazione]]
-**Area:** [[Algebra e Analisi]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Geometria|Geometry]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/12XNvYzmA5iSp5auP4O68Ivgx7LoAbloE/view)
 
 
@@ -175,16 +169,15 @@ level: OBM Nível Universitário
 >
 > b) Calcola $I(u)$ per tutti gli $u \in \mathbb{R}$.
 
-**Topic:** [[topic_insiemi_funzioni|Insiemi e funzioni]], [[topic_algebra|Algebra]]
+
+**Topic:** [[topic_insiemi_funzioni|Insiemi e funzioni]], [[topic_algebra|Algebra]], [[topic_funzionali|Equazioni funzionali / successioni]], [[topic_trigonometria|Trigonometria]]
 **Metodo:** [[method_simmetria|Simmetria]], [[method_telescoping|Telescoping]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_astrazione|Astrazione]]
-**Area:** [[Algebra e Analisi]]
-
-[[Quesiti/src_obm_2001_nu_f2#q05|src_obm_2001_nu_f2__Q05]]
+**Area:** [[Algebra e Analisi]], [[Geometria]]
 
 
 
-<span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_geometria_analitica,topic_geometria_piana,method_estremalita,method_disuguaglianze,skill_ragionamento_geometrico,skill_modellizzazione,skill_lettura_attenta,skill_astrazione"></span>
+<span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_geometria_analitica,topic_geometria_piana,topic_disuguaglianze,method_estremalita,method_disuguaglianze,skill_ragionamento_geometrico,skill_modellizzazione,skill_lettura_attenta,skill_astrazione"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -195,10 +188,10 @@ level: OBM Nível Universitário
 > 
 > (Notation: $|(x,y)| = \sqrt{x^2 + y^2}$.)
 
-**Topic:** [[topic_geometria_analitica|Geometria analitica]], [[topic_geometria_piana|Geometria piana]]
+**Topic:** [[topic_geometria_analitica|Geometria analitica]], [[topic_geometria_piana|Geometria piana]], [[topic_disuguaglianze|Inequalities]]
 **Metodo:** [[method_estremalita|Estremalità]], [[method_disuguaglianze|Disuguaglianze]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]], [[skill_lettura_attenta|Lettura attenta]], [[skill_astrazione|Astrazione]]
-**Area:** [[Geometria]]
+**Area:** [[Geometria|Geometry]], [[Algebra e Analisi|Algebra and analysis]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/12XNvYzmA5iSp5auP4O68Ivgx7LoAbloE/view)
 
 
@@ -211,9 +204,8 @@ level: OBM Nível Universitário
 >
 > (Notazione: $|(x,y)| = \sqrt{x^2 + y^2}$.)
 
-**Topic:** [[topic_geometria_analitica|Geometria analitica]], [[topic_geometria_piana|Geometria piana]]
+
+**Topic:** [[topic_geometria_analitica|Geometria analitica]], [[topic_geometria_piana|Geometria piana]], [[topic_disuguaglianze|Disuguaglianze]]
 **Metodo:** [[method_estremalita|Estremalità]], [[method_disuguaglianze|Disuguaglianze]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]], [[skill_lettura_attenta|Lettura attenta]], [[skill_astrazione|Astrazione]]
-**Area:** [[Geometria]]
-
-[[Quesiti/src_obm_2001_nu_f2#q06|src_obm_2001_nu_f2__Q06]]
+**Area:** [[Geometria]], [[Algebra e Analisi]]

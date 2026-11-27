@@ -40,8 +40,6 @@ level: Finale Nazionale Campionati Internazionali di Giochi Matematici
 **Abilita:** [[skill_modellizzazione|Modelling / translating the text]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Algebra e Analisi|Algebra and analysis]]
 
-[[Quesiti/src_bocconi_finalenaz_2009#q01|src_bocconi_finalenaz_2009__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_logica,method_casework,skill_lettura_attenta,skill_casework_accurato"></span>
@@ -80,11 +78,9 @@ level: Finale Nazionale Campionati Internazionali di Giochi Matematici
 **Abilita:** [[skill_lettura_attenta|Careful reading of the text]], [[skill_casework_accurato|Careful case analysis]]
 **Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
-[[Quesiti/src_bocconi_finalenaz_2009#q02|src_bocconi_finalenaz_2009__Q02]]
 
 
-
-<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_aritmetica,topic_logica,method_casework,skill_lettura_attenta,skill_manipolazione_algebrica"></span>
+<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_aritmetica,topic_logica,topic_disuguaglianze,method_casework,skill_lettura_attenta,skill_manipolazione_algebrica,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -97,12 +93,12 @@ level: Finale Nazionale Campionati Internazionali di Giochi Matematici
 > "Più di 60 ma meno di 66", risponde Amerigo a proposito del suo punteggio.
 > Quante freccette Amerigo ha messo a segno nella zona bianca?
 
-![[src_bocconi_finalenaz_2009__q03.png]]
+![[src_bocconi_finalenaz_2009__Q03.png]]
 
-**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_logica|Logica]]
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_logica|Logica]], [[topic_disuguaglianze|Disuguaglianze]]
 **Metodo:** [[method_casework|Casework]]
-**Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
-**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+**Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]], [[Algebra e Analisi]]
 **Risposta:** 3
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1w4gYEqv5Vd9KQ2Vpl4mCLA0njGBfnSYr/view)
 
@@ -115,18 +111,17 @@ level: Finale Nazionale Campionati Internazionali di Giochi Matematici
 > The Darts
 > Amerigo, Berto, and Carlo are playing darts. They built themselves a dartboard featuring a black section worth 13 points and a white section worth 11 points. In this game, Amerigo, Berto, and Carlo each threw 6 darts. "More than 60 but less than 66," Amerigo replies regarding his score. How many darts did Amerigo score in the white section?
 
-![[src_bocconi_finalenaz_2009__q03.png]]
+![[src_bocconi_finalenaz_2009__Q03.png]]
 
-**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_logica|Logic, games, strategies]]
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_logica|Logic, games, strategies]], [[topic_disuguaglianze|Inequalities]]
 **Metodo:** [[method_casework|Case analysis]]
-**Abilita:** [[skill_lettura_attenta|Careful reading of the text]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
-**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
-
-[[Quesiti/src_bocconi_finalenaz_2009#q03|src_bocconi_finalenaz_2009__Q03]]
+**Abilita:** [[skill_lettura_attenta|Careful reading of the text]], [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Algebra e Analisi|Algebra and analysis]]
 
 
 
-<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_geometria_piana,method_conteggio,skill_ragionamento_geometrico,skill_stima"></span>
+<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_geometria_piana,method_conteggio,skill_ragionamento_geometrico,skill_stima,skill_conteggio_sistematico"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -136,11 +131,11 @@ level: Finale Nazionale Campionati Internazionali di Giochi Matematici
 > DALLA PIÙ PICCOLA ALLA PIÙ GRANDE
 > Queste quattro superfici sono state disegnate su una stessa carta quadrettata. Ordinatele, in ordine crescente, dalla quella di area più piccola a quella di area più grande.
 
-![[src_bocconi_finalenaz_2009__q04.png]]
+![[src_bocconi_finalenaz_2009__Q04.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_conteggio|Conteggio]]
-**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_stima|Stima]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_stima|Stima]], [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Geometria]]
 **Risposta:** D, B, A, C
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1w4gYEqv5Vd9KQ2Vpl4mCLA0njGBfnSYr/view)
@@ -154,14 +149,13 @@ level: Finale Nazionale Campionati Internazionali di Giochi Matematici
 > From the Smallest to the Largest
 > These four surfaces were drawn on the same grid paper. Arrange them in ascending order, from the one with the smallest area to the one with the largest area.
 
-![[src_bocconi_finalenaz_2009__q04.png]]
+![[src_bocconi_finalenaz_2009__Q04.png]]
+
 
 **Topic:** [[topic_geometria_piana|Plane geometry]]
 **Metodo:** [[method_conteggio|Combinatorial counting]]
-**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_stima|Estimation and approximation]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_stima|Estimation and approximation]], [[skill_conteggio_sistematico|Systematic counting]]
 **Area:** [[Geometria|Geometry]]
-
-[[Quesiti/src_bocconi_finalenaz_2009#q04|src_bocconi_finalenaz_2009__Q04]]
 
 
 
@@ -177,7 +171,7 @@ level: Finale Nazionale Campionati Internazionali di Giochi Matematici
 > Qual è il valore degli altri due sapendo che, con i sei francobolli (e alcuni di loro), si possono ottenere tutti i valori interi consecutivi da 1 Euro a un certo punto in poi (il più grande possibile)?
 > Nota: i due ultimi francobolli possono avere valori diversi.
 
-![[src_bocconi_finalenaz_2009__q05.png]]
+![[src_bocconi_finalenaz_2009__Q05.png]]
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]]
@@ -195,14 +189,12 @@ level: Finale Nazionale Campionati Internazionali di Giochi Matematici
 > THE SIX STAMPS
 > You have six stamps at your disposal. Of the first four, two are worth 1 euro and two are worth 3 euros (as you can see in the figure). What is the value of the other two, given that with the six stamps (and some of them) it is possible to obtain all consecutive integer values from 1 euro onward up to some point (the largest possible point)? Note: the last two stamps may have different values.
 
-![[src_bocconi_finalenaz_2009__q05.png]]
+![[src_bocconi_finalenaz_2009__Q05.png]]
 
 **Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_combinatoria|Combinatorics]]
 **Metodo:** [[method_casework|Case analysis]], [[method_conteggio|Combinatorial counting]]
 **Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]], [[skill_conteggio_sistematico|Systematic counting]], [[skill_modellizzazione|Modelling / translating the text]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
-
-[[Quesiti/src_bocconi_finalenaz_2009#q05|src_bocconi_finalenaz_2009__Q05]]
 
 
 
@@ -216,7 +208,7 @@ level: Finale Nazionale Campionati Internazionali di Giochi Matematici
 > LA GRIGLIA DEI 16 NUMERI
 > Mettete i numeri interi da 1 a 16 nelle caselle della griglia (un numero per casella). In effetti, due hanno già trovato la loro sistemazione. Attenzione, però: per ogni numero diverso da 16, quello immediatamente superiore va collocato in una casella adiacente (che ha cioè, con la precedente, un lato in comune).
 
-![[src_bocconi_finalenaz_2009__q06.png]]
+![[src_bocconi_finalenaz_2009__Q06.png]]
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_logica|Logica]]
 **Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]]
@@ -233,18 +225,16 @@ level: Finale Nazionale Campionati Internazionali di Giochi Matematici
 > The Grid of 16 Numbers
 > Place the integers from 1 to 16 in the cells of the grid (one number per cell). In fact, two of them have already found their places. But beware: for each number other than 16, the number immediately greater than it must be placed in an adjacent cell (that is, a cell that shares a side with the previous one).
 
-![[src_bocconi_finalenaz_2009__q06.png]]
+![[src_bocconi_finalenaz_2009__Q06.png]]
 
 **Topic:** [[topic_combinatoria|Combinatorics]], [[topic_logica|Logic, games, strategies]]
 **Metodo:** [[method_casework|Case analysis]], [[method_conteggio|Combinatorial counting]]
 **Abilita:** [[skill_conteggio_sistematico|Systematic counting]], [[skill_ragionamento_geometrico|Geometric reasoning]]
 **Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
-[[Quesiti/src_bocconi_finalenaz_2009#q06|src_bocconi_finalenaz_2009__Q06]]
 
 
-
-<span class="atom-split" id="q07" data-atom="q07" data-title="Quesito 7" data-tags="topic_combinatoria,topic_geometria_piana,method_conteggio,method_estremalita,skill_conteggio_sistematico,skill_ragionamento_geometrico"></span>
+<span class="atom-split" id="q07" data-atom="q07" data-title="Quesito 7" data-tags="topic_combinatoria,topic_geometria_piana,method_conteggio,method_estremalita,method_casework,skill_conteggio_sistematico,skill_ragionamento_geometrico,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -254,11 +244,11 @@ level: Finale Nazionale Campionati Internazionali di Giochi Matematici
 > I TRIANGOLI
 > 5 punti in un piano sono i vertici, al massimo, di 5 triangoli che non si sovrappongono (come in figura). E 7 punti? Quanti triangoli che non si sovrappongono si possono tracciare, al massimo, nel piano con 7 punti?
 
-![[src_bocconi_finalenaz_2009__q07.png]]
+![[src_bocconi_finalenaz_2009__Q07.png]]
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_geometria_piana|Geometria piana]]
-**Metodo:** [[method_conteggio|Conteggio]], [[method_estremalita|Estremalità]]
-**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Metodo:** [[method_conteggio|Conteggio]], [[method_estremalita|Estremalità]], [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 **Risposta:** 9
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1w4gYEqv5Vd9KQ2Vpl4mCLA0njGBfnSYr/view)
@@ -272,18 +262,17 @@ level: Finale Nazionale Campionati Internazionali di Giochi Matematici
 > Triangles
 > In a plane, 5 points are the vertices of at most 5 non-overlapping triangles (as in the figure). And 7 points? At most how many non-overlapping triangles can be drawn in the plane using 7 points?
 
-![[src_bocconi_finalenaz_2009__q07.png]]
+![[src_bocconi_finalenaz_2009__Q07.png]]
+
 
 **Topic:** [[topic_combinatoria|Combinatorics]], [[topic_geometria_piana|Plane geometry]]
-**Metodo:** [[method_conteggio|Combinatorial counting]], [[method_estremalita|Extremal principle]]
-**Abilita:** [[skill_conteggio_sistematico|Systematic counting]], [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Metodo:** [[method_conteggio|Combinatorial counting]], [[method_estremalita|Extremal principle]], [[method_casework|Case analysis]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]], [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_casework_accurato|Careful case analysis]]
 **Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Geometria|Geometry]]
 
-[[Quesiti/src_bocconi_finalenaz_2009#q07|src_bocconi_finalenaz_2009__Q07]]
 
 
-
-<span class="atom-split" id="q08" data-atom="q08" data-title="Quesito 8" data-tags="topic_aritmetica,topic_combinatoria,method_casework,skill_riconoscimento_pattern,skill_conteggio_sistematico"></span>
+<span class="atom-split" id="q08" data-atom="q08" data-title="Quesito 8" data-tags="topic_aritmetica,topic_combinatoria,topic_algebra,method_casework,skill_riconoscimento_pattern,skill_conteggio_sistematico,skill_manipolazione_algebrica,skill_modellizzazione"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -295,12 +284,12 @@ level: Finale Nazionale Campionati Internazionali di Giochi Matematici
 > Il cerchio centrale, così come il cerchio a destra, deve restare vuoto. La somma dei numeri scritti nei cerchi che toccano un quadrato deve essere uguale al numero scritto in quel quadrato.
 > Indicate la somma dei quattro numeri che compaiono nell'ultima colonna a destra.
 
-![[src_bocconi_finalenaz_2009__q08.png]]
+![[src_bocconi_finalenaz_2009__Q08.png]]
 
-**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]], [[topic_algebra|Algebra]]
 **Metodo:** [[method_casework|Casework]]
-**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_conteggio_sistematico|Conteggio sistematico]]
-**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]], [[Algebra e Analisi]]
 **Risposta:** 33
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1w4gYEqv5Vd9KQ2Vpl4mCLA0njGBfnSYr/view)
 
@@ -313,18 +302,17 @@ level: Finale Nazionale Campionati Internazionali di Giochi Matematici
 > Circles and Squares
 > In each of the squares, write the result (a natural number) obtained by adding the natural numbers written in the circles that touch that square. The central circle, as well as the circle on the right, must remain empty. The sum of the numbers written in the circles that touch a square must equal the number written in that square. Indicate the sum of the four numbers that appear in the last column on the right.
 
-![[src_bocconi_finalenaz_2009__q08.png]]
+![[src_bocconi_finalenaz_2009__Q08.png]]
 
-**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_combinatoria|Combinatorics]]
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_combinatoria|Combinatorics]], [[topic_algebra|Algebra]]
 **Metodo:** [[method_casework|Case analysis]]
-**Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]], [[skill_conteggio_sistematico|Systematic counting]]
-**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
-
-[[Quesiti/src_bocconi_finalenaz_2009#q08|src_bocconi_finalenaz_2009__Q08]]
+**Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]], [[skill_conteggio_sistematico|Systematic counting]], [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Algebra e Analisi|Algebra and analysis]]
 
 
 
-<span class="atom-split" id="q09" data-atom="q09" data-title="Quesito 9" data-tags="topic_aritmetica,topic_logica,method_casework,skill_conteggio_sistematico,skill_lettura_attenta"></span>
+<span class="atom-split" id="q09" data-atom="q09" data-title="Quesito 9" data-tags="topic_aritmetica,topic_logica,method_casework,method_congruenze,skill_conteggio_sistematico,skill_lettura_attenta,skill_casework_accurato,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -336,8 +324,8 @@ level: Finale Nazionale Campionati Internazionali di Giochi Matematici
 > Quali sono i due numeri?
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_logica|Logica]]
-**Metodo:** [[method_casework|Casework]]
-**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]]
+**Metodo:** [[method_casework|Casework]], [[method_congruenze|Aritmetica modulare / congruenze]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_casework_accurato|Casework accurato]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 57 , 146
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1w4gYEqv5Vd9KQ2Vpl4mCLA0njGBfnSYr/view)
@@ -351,12 +339,11 @@ level: Finale Nazionale Campionati Internazionali di Giochi Matematici
 > THE TEN DIGITS
 > Two natural numbers have a sum of 203. The representations of the two numbers, of their difference (the larger minus the smaller), and of their sum (203) use all ten digits from 0 to 9, each exactly once. What are the two numbers?
 
-**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_logica|Logic, games, strategies]]
-**Metodo:** [[method_casework|Case analysis]]
-**Abilita:** [[skill_conteggio_sistematico|Systematic counting]], [[skill_lettura_attenta|Careful reading of the text]]
-**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
-[[Quesiti/src_bocconi_finalenaz_2009#q09|src_bocconi_finalenaz_2009__Q09]]
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_logica|Logic, games, strategies]]
+**Metodo:** [[method_casework|Case analysis]], [[method_congruenze|Modular arithmetic / congruences]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]], [[skill_lettura_attenta|Careful reading of the text]], [[skill_casework_accurato|Careful case analysis]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
 
 
@@ -371,7 +358,7 @@ level: Finale Nazionale Campionati Internazionali di Giochi Matematici
 > Un grande quadrato ha l'area di $405 \text{ cm}^2$ e contiene cinque quadrati più piccoli, uguali, disposti come in figura (che presenta un asse di simmetria tratteggiato).
 > Qual è l'area di un quadrato piccolo?
 
-![[src_bocconi_finalenaz_2009__q10.png]]
+![[src_bocconi_finalenaz_2009__Q10.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_simmetria|Simmetria]]
@@ -389,14 +376,12 @@ level: Finale Nazionale Campionati Internazionali di Giochi Matematici
 > The Mysterious Square
 > A large square has an area of $405 \text{ cm}^2$ and contains five smaller, identical squares arranged as in the figure (which shows a dashed axis of symmetry). What is the area of one small square?
 
-![[src_bocconi_finalenaz_2009__q10.png]]
+![[src_bocconi_finalenaz_2009__Q10.png]]
 
 **Topic:** [[topic_geometria_piana|Plane geometry]]
 **Metodo:** [[method_simmetria|Using symmetry]]
 **Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
 **Area:** [[Geometria|Geometry]]
-
-[[Quesiti/src_bocconi_finalenaz_2009#q10|src_bocconi_finalenaz_2009__Q10]]
 
 
 
@@ -430,8 +415,6 @@ level: Finale Nazionale Campionati Internazionali di Giochi Matematici
 **Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_algebra|Algebra]]
 **Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_modellizzazione|Modelling / translating the text]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Algebra e Analisi|Algebra and analysis]]
-
-[[Quesiti/src_bocconi_finalenaz_2009#q11|src_bocconi_finalenaz_2009__Q11]]
 
 
 
@@ -468,11 +451,9 @@ level: Finale Nazionale Campionati Internazionali di Giochi Matematici
 **Abilita:** [[skill_conteggio_sistematico|Systematic counting]], [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_casework_accurato|Careful case analysis]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
-[[Quesiti/src_bocconi_finalenaz_2009#q12|src_bocconi_finalenaz_2009__Q12]]
 
 
-
-<span class="atom-split" id="q13" data-atom="q13" data-title="Quesito 13" data-tags="topic_geometria_piana,method_conteggio,skill_ragionamento_geometrico,skill_stima"></span>
+<span class="atom-split" id="q13" data-atom="q13" data-title="Quesito 13" data-tags="topic_geometria_piana,method_conteggio,skill_ragionamento_geometrico,skill_stima,skill_conteggio_sistematico"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -483,11 +464,11 @@ level: Finale Nazionale Campionati Internazionali di Giochi Matematici
 > Il quadrato grande, che ha un'area di $111 \text{ cm}^2$, è stato diviso in nove quadrati uguali. In ogni quadrato così ottenuto è stato disegnato un quadrato più piccolo, anch'esso diviso in nove quadrati uguali. A questo punto è stata disegnata una stella (vedi figura).
 > Quale è (in $\text{cm}^2$) l'area della stella?
 
-![[src_bocconi_finalenaz_2009__q13.png]]
+![[src_bocconi_finalenaz_2009__Q13.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_conteggio|Conteggio]]
-**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_stima|Stima]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_stima|Stima]], [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Geometria]]
 **Risposta:** 37 cm²
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1w4gYEqv5Vd9KQ2Vpl4mCLA0njGBfnSYr/view)
@@ -501,18 +482,17 @@ level: Finale Nazionale Campionati Internazionali di Giochi Matematici
 > A Shining Star
 > The large square, which has an area of $111 \text{ cm}^2$, was divided into nine equal squares. In each of the squares thus obtained, a smaller square was drawn, and that smaller square was also divided into nine equal squares. At this point, a star was drawn (see figure). What is the area of the star (in $\text{cm}^2$)?
 
-![[src_bocconi_finalenaz_2009__q13.png]]
+![[src_bocconi_finalenaz_2009__Q13.png]]
+
 
 **Topic:** [[topic_geometria_piana|Plane geometry]]
 **Metodo:** [[method_conteggio|Combinatorial counting]]
-**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_stima|Estimation and approximation]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_stima|Estimation and approximation]], [[skill_conteggio_sistematico|Systematic counting]]
 **Area:** [[Geometria|Geometry]]
 
-[[Quesiti/src_bocconi_finalenaz_2009#q13|src_bocconi_finalenaz_2009__Q13]]
 
 
-
-<span class="atom-split" id="q14" data-atom="q14" data-title="Quesito 14" data-tags="topic_geometria_piana,method_simmetria,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
+<span class="atom-split" id="q14" data-atom="q14" data-title="Quesito 14" data-tags="topic_geometria_piana,method_simmetria,skill_ragionamento_geometrico,skill_manipolazione_algebrica,skill_riconoscimento_pattern"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -525,7 +505,7 @@ level: Finale Nazionale Campionati Internazionali di Giochi Matematici
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_simmetria|Simmetria]]
-**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Geometria]]
 **Risposta:** 144 cm²
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1w4gYEqv5Vd9KQ2Vpl4mCLA0njGBfnSYr/view)
@@ -539,16 +519,15 @@ level: Finale Nazionale Campionati Internazionali di Giochi Matematici
 > DECOMPOSITION OF A TRIANGLE
 > From an interior point of triangle $ABC$, three lines parallel to the sides of the triangle are drawn. In this way, the triangle is divided into three parallelograms and three smaller triangles with areas (respectively) $9 \text{ cm}^2$, $16 \text{ cm}^2$, and $25 \text{ cm}^2$. What is (in $\text{cm}^2$) the area of triangle $ABC$?
 
+
 **Topic:** [[topic_geometria_piana|Plane geometry]]
 **Metodo:** [[method_simmetria|Using symmetry]]
-**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_riconoscimento_pattern|Pattern recognition]]
 **Area:** [[Geometria|Geometry]]
 
-[[Quesiti/src_bocconi_finalenaz_2009#q14|src_bocconi_finalenaz_2009__Q14]]
 
 
-
-<span class="atom-split" id="q15" data-atom="q15" data-title="Quesito 15" data-tags="topic_aritmetica,topic_combinatoria,method_casework,method_conteggio,skill_conteggio_sistematico,skill_lettura_attenta,skill_riconoscimento_pattern"></span>
+<span class="atom-split" id="q15" data-atom="q15" data-title="Quesito 15" data-tags="topic_aritmetica,topic_combinatoria,method_casework,method_conteggio,method_congruenze,skill_conteggio_sistematico,skill_lettura_attenta,skill_riconoscimento_pattern,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -561,8 +540,8 @@ level: Finale Nazionale Campionati Internazionali di Giochi Matematici
 > Qual è il più piccolo dei due numeri?
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
-**Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]]
-**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]], [[method_congruenze|Aritmetica modulare / congruenze]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 3249
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1w4gYEqv5Vd9KQ2Vpl4mCLA0njGBfnSYr/view)
@@ -576,16 +555,15 @@ level: Finale Nazionale Campionati Internazionali di Giochi Matematici
 > The Mathematician's Lottery
 > The tickets for the Mathematician's Lottery are numbered (without any gaps) from 1 to 9999. The winning tickets are those whose number can be split with a hyphen into two parts, such that the sum of the digits to the left of the hyphen equals the sum of the digits to its right. For example, the numbers 33, 440, and 2024 are winning numbers because $3=3$ ; $4 = 4+0$ ; $2+0=2+4$. Milena buys two tickets with two consecutive four-digit numbers and, to her great joy, wins two prizes. Indeed, her two tickets are winning tickets, and one of the two numbers is the square of an integer. What is the smaller of the two numbers?
 
+
 **Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_combinatoria|Combinatorics]]
-**Metodo:** [[method_casework|Case analysis]], [[method_conteggio|Combinatorial counting]]
-**Abilita:** [[skill_conteggio_sistematico|Systematic counting]], [[skill_lettura_attenta|Careful reading of the text]], [[skill_riconoscimento_pattern|Pattern recognition]]
+**Metodo:** [[method_casework|Case analysis]], [[method_conteggio|Combinatorial counting]], [[method_congruenze|Modular arithmetic / congruences]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]], [[skill_lettura_attenta|Careful reading of the text]], [[skill_riconoscimento_pattern|Pattern recognition]], [[skill_casework_accurato|Careful case analysis]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
-[[Quesiti/src_bocconi_finalenaz_2009#q15|src_bocconi_finalenaz_2009__Q15]]
 
 
-
-<span class="atom-split" id="q16" data-atom="q16" data-title="Quesito 16" data-tags="topic_aritmetica,topic_combinatoria,method_estremalita,method_casework,skill_conteggio_sistematico,skill_manipolazione_algebrica"></span>
+<span class="atom-split" id="q16" data-atom="q16" data-title="Quesito 16" data-tags="topic_aritmetica,topic_combinatoria,method_estremalita,method_casework,skill_conteggio_sistematico,skill_manipolazione_algebrica,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -597,7 +575,7 @@ level: Finale Nazionale Campionati Internazionali di Giochi Matematici
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_estremalita|Estremalità]], [[method_casework|Casework]]
-**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 1-2-3-4-6-8-24 ; 1-2-3-6-8-12-16 (due soluzioni)
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1w4gYEqv5Vd9KQ2Vpl4mCLA0njGBfnSYr/view)
@@ -611,12 +589,11 @@ level: Finale Nazionale Campionati Internazionali di Giochi Matematici
 > ON DIVISIBILITY
 > Write (in ascending order) 7 positive numbers, all distinct from one another, such that their sum is divisible by each of the 7 numbers and is as small as possible.
 
+
 **Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_combinatoria|Combinatorics]]
 **Metodo:** [[method_estremalita|Extremal principle]], [[method_casework|Case analysis]]
-**Abilita:** [[skill_conteggio_sistematico|Systematic counting]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]], [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_casework_accurato|Careful case analysis]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
-
-[[Quesiti/src_bocconi_finalenaz_2009#q16|src_bocconi_finalenaz_2009__Q16]]
 
 
 
@@ -652,8 +629,6 @@ level: Finale Nazionale Campionati Internazionali di Giochi Matematici
 **Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_casework_accurato|Careful case analysis]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Algebra e Analisi|Algebra and analysis]]
 
-[[Quesiti/src_bocconi_finalenaz_2009#q17|src_bocconi_finalenaz_2009__Q17]]
-
 
 
 <span class="atom-split" id="q18" data-atom="q18" data-title="Quesito 18" data-tags="topic_aritmetica,topic_combinatoria,method_ricorsione,method_casework,skill_conteggio_sistematico,skill_riconoscimento_pattern"></span>
@@ -688,5 +663,3 @@ level: Finale Nazionale Campionati Internazionali di Giochi Matematici
 **Metodo:** [[method_ricorsione|Recursion]], [[method_casework|Case analysis]]
 **Abilita:** [[skill_conteggio_sistematico|Systematic counting]], [[skill_riconoscimento_pattern|Pattern recognition]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
-
-[[Quesiti/src_bocconi_finalenaz_2009#q18|src_bocconi_finalenaz_2009__Q18]]

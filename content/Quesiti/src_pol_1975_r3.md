@@ -10,7 +10,7 @@ level: Olimpiade Polacca Round 3
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_algebra,topic_combinatoria,method_estremalita,skill_manipolazione_algebrica,skill_astrazione"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_algebra,topic_combinatoria,topic_funzionali,method_estremalita,skill_manipolazione_algebrica,skill_astrazione"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -20,10 +20,10 @@ level: Olimpiade Polacca Round 3
 > A sequence $(a_k)_{k=1}^{\infty}$ has the property that there is a natural number $n$ such that $a_1 + a_2 + \cdots + a_n = 0$ and $a_{n+k} = a_k$ for all $k$. Prove that there exists a natural number $N$ such that
 > $$\sum_{i=N}^{N+k} a_i \ge 0 \quad \text{for } k = 0, 1, 2, \ldots.$$
 
-**Topic:** [[topic_algebra|Algebra]], [[topic_combinatoria|Combinatoria]]
+**Topic:** [[topic_algebra|Algebra]], [[topic_combinatoria|Combinatoria]], [[topic_funzionali|Functional equations / sequences]]
 **Metodo:** [[method_estremalita|Estremalità]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]]
-**Area:** [[Algebra e Analisi]], [[Combinatoria, Logica e Probabilita]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1uZj1pubsPzjyaS0gZ1wXauU_3x3XwBGJ/view)
 
 
@@ -35,12 +35,11 @@ level: Olimpiade Polacca Round 3
 > Una successione $(a_k)_{k=1}^{\infty}$ ha la proprietà che esiste un numero naturale $n$ tale che $a_1 + a_2 + \cdots + a_n = 0$ e $a_{n+k} = a_k$ per ogni $k$. Dimostrare che esiste un numero naturale $N$ tale che
 > $$\sum_{i=N}^{N+k} a_i \ge 0 \quad \text{for } k = 0, 1, 2, \ldots.$$
 
-**Topic:** [[topic_algebra|Algebra]], [[topic_combinatoria|Combinatoria]]
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_combinatoria|Combinatoria]], [[topic_funzionali|Equazioni funzionali / successioni]]
 **Metodo:** [[method_estremalita|Estremalità]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]]
 **Area:** [[Algebra e Analisi]], [[Combinatoria, Logica e Probabilita]]
-
-[[Quesiti/src_pol_1975_r3#q01|src_pol_1975_r3__Q01]]
 
 
 
@@ -71,8 +70,6 @@ level: Olimpiade Polacca Round 3
 **Metodo:** [[method_grafi|Grafi]], [[method_estremalita|Estremalità]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]]
 **Area:** [[Geometria]], [[Combinatoria, Logica e Probabilita]]
-
-[[Quesiti/src_pol_1975_r3#q02|src_pol_1975_r3__Q02]]
 
 
 
@@ -108,8 +105,6 @@ level: Olimpiade Polacca Round 3
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]]
 **Area:** [[Algebra e Analisi]]
 
-[[Quesiti/src_pol_1975_r3#q03|src_pol_1975_r3__Q03]]
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_aritmetica,topic_combinatoria,method_congruenze,method_conteggio,skill_riconoscimento_pattern,skill_casework_accurato"></span>
@@ -139,8 +134,6 @@ level: Olimpiade Polacca Round 3
 **Metodo:** [[method_congruenze|Congruenze]], [[method_conteggio|Conteggio]]
 **Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
-
-[[Quesiti/src_pol_1975_r3#q04|src_pol_1975_r3__Q04]]
 
 
 
@@ -174,8 +167,6 @@ level: Olimpiade Polacca Round 3
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 
-[[Quesiti/src_pol_1975_r3#q05|src_pol_1975_r3__Q05]]
-
 
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_funzionali,topic_aritmetica,method_backward,method_casework,skill_astrazione,skill_riconoscimento_pattern"></span>
@@ -207,5 +198,3 @@ level: Olimpiade Polacca Round 3
 **Metodo:** [[method_backward|Backward]], [[method_casework|Casework]]
 **Abilita:** [[skill_astrazione|Astrazione]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
-
-[[Quesiti/src_pol_1975_r3#q06|src_pol_1975_r3__Q06]]

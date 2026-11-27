@@ -10,7 +10,7 @@ level: OBM Nível 2
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_combinatoria,method_casework,method_estremalita,skill_ragionamento_geometrico,skill_conteggio_sistematico,skill_casework_accurato"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_combinatoria,method_casework,method_estremalita,method_grafi,skill_ragionamento_geometrico,skill_conteggio_sistematico,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -21,12 +21,12 @@ level: OBM Nível 2
 > 
 > *Note:* The knight moves in an $L$-shape: two squares in one direction and then one square in a perpendicular direction, as illustrated in the figure.
 
-![[src_obm_2012_n2_f2__q01.png]]
+![[src_obm_2012_n2_f2__Q01.png]]
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
-**Metodo:** [[method_casework|Casework]], [[method_estremalita|Estremalità]]
+**Metodo:** [[method_casework|Casework]], [[method_estremalita|Estremalità]], [[method_grafi|Graph theory]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]]
-**Area:** [[Combinatoria, Logica e Probabilita]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1eh3-XUlx8DQIfyrafQYPn3K5T8QkbX4r/view)
 
 
@@ -39,14 +39,13 @@ level: OBM Nível 2
 >
 > *Nota:* Il cavallo si muove a forma di $L$: due caselle in una direzione e poi una casella in direzione perpendicolare, come illustrato nella figura.
 
-![[src_obm_2012_n2_f2__q01.png]]
+![[src_obm_2012_n2_f2__Q01.png]]
+
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
-**Metodo:** [[method_casework|Casework]], [[method_estremalita|Estremalità]]
+**Metodo:** [[method_casework|Casework]], [[method_estremalita|Estremalità]], [[method_grafi|Teoria dei grafi]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
-
-[[Quesiti/src_obm_2012_n2_f2#q01|src_obm_2012_n2_f2__Q01]]
 
 
 
@@ -82,8 +81,6 @@ level: OBM Nível 2
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 
-[[Quesiti/src_obm_2012_n2_f2#q02|src_obm_2012_n2_f2__Q02]]
-
 
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_algebra,topic_aritmetica,method_invarianti,method_induzione,skill_riconoscimento_pattern,skill_manipolazione_algebrica"></span>
@@ -114,8 +111,6 @@ level: OBM Nível 2
 **Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 
-[[Quesiti/src_obm_2012_n2_f2#q03|src_obm_2012_n2_f2__Q03]]
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_geometria_piana,topic_aritmetica,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
@@ -144,8 +139,6 @@ level: OBM Nível 2
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Geometria]], [[Aritmetica e Teoria dei Numeri]]
 
-[[Quesiti/src_obm_2012_n2_f2#q04|src_obm_2012_n2_f2__Q04]]
-
 
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_combinatoria,method_conteggio,method_casework,skill_conteggio_sistematico,skill_ragionamento_geometrico,skill_lettura_attenta"></span>
@@ -157,7 +150,7 @@ level: OBM Nível 2
 
 > An ant must walk along the black lines of the figure below from vertex $A$ to vertex $B$. Knowing that vertex $B$ is just one square to the upper-right of vertex $A$, and that the ant cannot pass through the vertices of the small inner square, determine the number of different paths the ant can take.
 
-![[src_obm_2012_n2_f2__q05.png]]
+![[src_obm_2012_n2_f2__Q05.png]]
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_conteggio|Conteggio]], [[method_casework|Casework]]
@@ -173,18 +166,16 @@ level: OBM Nível 2
 
 > Una formica deve percorrere le linee nere della figura sottostante dal vertice $A$ al vertice $B$. Sapendo che il vertice $B$ si trova a appena un quadrato in alto a destra rispetto al vertice $A$, e che la formica non può passare attraverso i vertici del piccolo quadrato interno, determina il numero di percorsi diversi che la formica può seguire.
 
-![[src_obm_2012_n2_f2__q05.png]]
+![[src_obm_2012_n2_f2__Q05.png]]
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_conteggio|Conteggio]], [[method_casework|Casework]]
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 
-[[Quesiti/src_obm_2012_n2_f2#q05|src_obm_2012_n2_f2__Q05]]
 
 
-
-<span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_aritmetica,method_casework,skill_casework_accurato,skill_lettura_attenta,skill_conteggio_sistematico"></span>
+<span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_aritmetica,method_casework,method_fattorizzazione,skill_casework_accurato,skill_lettura_attenta,skill_conteggio_sistematico,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -194,9 +185,9 @@ level: OBM Nível 2
 > A number is a *palindrome* when the sequence of digits reading left to right is the same as reading right to left. For example, $12321$ is a palindrome. Determine all two-digit numbers $\overline{ab}$ (in base 10) such that $\overline{ab} + \overline{ba}$ and $\overline{ab} \times \overline{ba}$ are both palindromes. For example, $12 + 21 = 33$ and $12 \times 21 = 252$ show that the number $12$ satisfies these conditions.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_casework|Casework]]
-**Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_lettura_attenta|Lettura attenta]], [[skill_conteggio_sistematico|Conteggio sistematico]]
-**Area:** [[Aritmetica e Teoria dei Numeri]]
+**Metodo:** [[method_casework|Casework]], [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_lettura_attenta|Lettura attenta]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1eh3-XUlx8DQIfyrafQYPn3K5T8QkbX4r/view)
 
 
@@ -207,12 +198,11 @@ level: OBM Nível 2
 
 > Un numero è un *palindromo* quando la sequenza delle cifre letta da sinistra a destra è identica a quella letta da destra a sinistra. Ad esempio, $12321$ è un palindromo. Determinare tutti i numeri di due cifre $\overline{ab}$ (in base 10) tali che $\overline{ab} + \overline{ba}$ e $\overline{ab} \times \overline{ba}$ siano entrambi palindromi. Ad esempio, $12 + 21 = 33$ e $12 \times 21 = 252$ mostrano che il numero $12$ soddisfa queste condizioni.
 
-**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_casework|Casework]]
-**Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_lettura_attenta|Lettura attenta]], [[skill_conteggio_sistematico|Conteggio sistematico]]
-**Area:** [[Aritmetica e Teoria dei Numeri]]
 
-[[Quesiti/src_obm_2012_n2_f2#q06|src_obm_2012_n2_f2__Q06]]
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Casework]], [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
+**Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_lettura_attenta|Lettura attenta]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
 
 
 
@@ -243,8 +233,6 @@ level: OBM Nível 2
 **Metodo:** [[method_coordinate|Coordinate]], [[method_trigonometria|Trigonometria]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
-
-[[Quesiti/src_obm_2012_n2_f2#q07|src_obm_2012_n2_f2__Q07]]
 
 
 
@@ -280,8 +268,6 @@ level: OBM Nível 2
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 
-[[Quesiti/src_obm_2012_n2_f2#q08|src_obm_2012_n2_f2__Q08]]
-
 
 
 <span class="atom-split" id="q09" data-atom="q09" data-title="Quesito 9" data-tags="topic_combinatoria,method_ricorsione,method_conteggio,method_casework,skill_ragionamento_geometrico,skill_conteggio_sistematico,skill_riconoscimento_pattern"></span>
@@ -311,5 +297,3 @@ level: OBM Nível 2
 **Metodo:** [[method_ricorsione|Ricorsione]], [[method_conteggio|Conteggio]], [[method_casework|Casework]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
-
-[[Quesiti/src_obm_2012_n2_f2#q09|src_obm_2012_n2_f2__Q09]]

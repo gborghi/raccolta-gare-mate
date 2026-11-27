@@ -19,7 +19,7 @@ level: China Mathematical Olympiad
 
 > As shown in Fig. 1.1, $\angle A$ is the biggest angle in triangle $ABC$. On the circumcircle of $\triangle ABC$, the points $D$ and $E$ are the midpoints of arc $ABC$ and arc $ACB$, respectively. Denote by $\odot O_1$ the circle passing through $A$ and $B$, and tangent to line $AC$; by $\odot O_2$ the circle passing through $A$ and $E$, and tangent to line $AD$. $\odot O_1$ intersects $\odot O_2$ at points $A$ and $P$. Prove that $AP$ is the bisector of $\angle BAC$.
 
-![[src_cn_cmo_b11_w101__q01.png]]
+![[src_cn_cmo_b11_w101__Q01.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_trigonometria|Trigonometria]]
@@ -37,7 +37,7 @@ level: China Mathematical Olympiad
 
 > Come mostrato nella Fig. 1.1, $\angle A$ è l'angolo più grande nel triangolo $ABC$. Sulla circonferenza circoscritta a $\triangle ABC$, i punti $D$ e $E$ sono rispettivamente i punti medi dell'arco $ABC$ e dell'arco $ACB$. Si indichi con $\odot O_1$ la circonferenza passante per $A$ e $B$ e tangente alla retta $AC$; con $\odot O_2$ la circonferenza passante per $A$ e $E$ e tangente alla retta $AD$. $\odot O_1$ interseca $\odot O_2$ nei punti $A$ e $P$. Dimostrare che $AP$ è la bisettrice di $\angle BAC$.
 
-![[src_cn_cmo_b11_w101__q01.png]]
+![[src_cn_cmo_b11_w101__Q01.png]]
 
 > [!warning] Estratto da verificare con la fonte.
 
@@ -46,11 +46,9 @@ level: China Mathematical Olympiad
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]]
 
-[[Quesiti/src_cn_cmo_2012#q01|src_cn_cmo_2012__Q01]]
 
 
-
-<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_combinatoria,topic_aritmetica,method_invarianti,method_conteggio,skill_conteggio_sistematico,skill_astrazione"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_combinatoria,topic_aritmetica,method_invarianti,method_conteggio,method_congruenze,skill_conteggio_sistematico,skill_astrazione,skill_manipolazione_algebrica,skill_modellizzazione"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -60,9 +58,9 @@ level: China Mathematical Olympiad
 > Given a prime number $p$, let $A$ be a $p \times p$ matrix such that its entries are exactly $1, 2, \ldots, p^2$ in some order. The following operation is allowed for a matrix: add one to each number in a row or a column, or subtract one from each number in a row or a column. The matrix $A$ is called "good" if one can take a finite series of such operations resulting in a matrix with all entries zero. Find the number of good matrices $A$.
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_invarianti|Invarianti]], [[method_conteggio|Conteggio]]
-**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_astrazione|Astrazione]]
-**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
+**Metodo:** [[method_invarianti|Invarianti]], [[method_conteggio|Conteggio]], [[method_congruenze|Modular arithmetic / congruences]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_astrazione|Astrazione]], [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Risposta:** $2(p!)^2$
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1cjmD7lTT4vb3nB3ylcVCHeHucUE2rNI0/view)
 
@@ -78,16 +76,15 @@ level: China Mathematical Olympiad
 
 > [!warning] Estratto da verificare con la fonte.
 
+
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_invarianti|Invarianti]], [[method_conteggio|Conteggio]]
-**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_astrazione|Astrazione]]
+**Metodo:** [[method_invarianti|Invarianti]], [[method_conteggio|Conteggio]], [[method_congruenze|Aritmetica modulare / congruenze]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_astrazione|Astrazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 
-[[Quesiti/src_cn_cmo_2012#q02|src_cn_cmo_2012__Q02]]
 
 
-
-<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_disuguaglianze,topic_algebra,method_disuguaglianze,method_estremalita,skill_manipolazione_algebrica,skill_stima"></span>
+<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_disuguaglianze,topic_algebra,method_disuguaglianze,method_estremalita,method_casework,skill_manipolazione_algebrica,skill_stima,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -97,9 +94,9 @@ level: China Mathematical Olympiad
 > Let $f(x) = (x+a)(x+b)$ where $a, b$ are given positive real numbers, $n \ge 2$ be a given integer. For non-negative real numbers $x_1, x_2, \ldots, x_n$ that satisfy $x_1 + x_2 + \cdots + x_n = 1$, find the maximum of $F = \sum_{1 \le i < j \le n} \min\{f(x_i), f(x_j)\}$.
 
 **Topic:** [[topic_disuguaglianze|Disuguaglianze]], [[topic_algebra|Algebra]]
-**Metodo:** [[method_disuguaglianze|Disuguaglianze]], [[method_estremalita|Estremalità]]
-**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]]
-**Area:** [[Algebra e Analisi]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze]], [[method_estremalita|Estremalità]], [[method_casework|Case analysis]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]], [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
 **Risposta:** $\dfrac{n-1}{2}\left(\dfrac{1}{n}+a+b+nab\right)$
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1cjmD7lTT4vb3nB3ylcVCHeHucUE2rNI0/view)
 
@@ -115,12 +112,11 @@ level: China Mathematical Olympiad
 
 > [!warning] Estratto da verificare con la fonte.
 
-**Topic:** [[topic_disuguaglianze|Disuguaglianze]], [[topic_algebra|Algebra]]
-**Metodo:** [[method_disuguaglianze|Disuguaglianze]], [[method_estremalita|Estremalità]]
-**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]]
-**Area:** [[Algebra e Analisi]]
 
-[[Quesiti/src_cn_cmo_2012#q04|src_cn_cmo_2012__Q04]]
+**Topic:** [[topic_disuguaglianze|Disuguaglianze]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze]], [[method_estremalita|Estremalità]], [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Algebra e Analisi]]
 
 
 
@@ -155,5 +151,3 @@ level: China Mathematical Olympiad
 **Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_congruenze|Congruenze]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
-
-[[Quesiti/src_cn_cmo_2012#q05|src_cn_cmo_2012__Q05]]

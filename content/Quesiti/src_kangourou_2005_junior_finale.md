@@ -10,7 +10,7 @@ level: kangourou
 
 
 
-<span class="atom-split" id="qj1" data-atom="qj1" data-title="Quesito J1" data-tags="topic_aritmetica,topic_disuguaglianze,skill_astrazione"></span>
+<span class="atom-split" id="qj1" data-atom="qj1" data-title="Quesito J1" data-tags="topic_aritmetica,topic_disuguaglianze,method_estremalita,skill_astrazione,skill_modellizzazione,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -24,8 +24,9 @@ level: kangourou
 > Qual è il minimo numero di lacci che può avere comprato Silvia? Motiva la risposta.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_disuguaglianze|Disuguaglianze]]
-**Abilita:** [[skill_astrazione|Astrazione / generalizzazione]]
-**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
+**Metodo:** [[method_estremalita|Principio di estremalita]]
+**Abilita:** [[skill_astrazione|Astrazione / generalizzazione]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 **Risposta:** 5
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1DN9SkcNnbA6zI_cH2lP8x9OGdjtWTlV1/view)
 
@@ -41,15 +42,15 @@ level: kangourou
 >
 > What is the minimum number of ties Silvia could have bought? Justify your answer.
 
+
 **Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_disuguaglianze|Inequalities]]
-**Abilita:** [[skill_astrazione|Abstraction / generalisation]]
-**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
-
-[[Quesiti/src_kangourou_2005_junior_finale#qj1|src_kangourou_2005_junior_finale__QJ1]]
-
+**Metodo:** [[method_estremalita|Extremal principle]]
+**Abilita:** [[skill_astrazione|Abstraction / generalisation]], [[skill_modellizzazione|Modelling / translating the text]], [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Algebra e Analisi|Algebra and analysis]]
 
 
-<span class="atom-split" id="qj2" data-atom="qj2" data-title="Quesito J2" data-tags="topic_aritmetica,topic_logica,method_casework,skill_casework_accurato"></span>
+
+<span class="atom-split" id="qj2" data-atom="qj2" data-title="Quesito J2" data-tags="topic_aritmetica,topic_logica,method_casework,method_congruenze,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -61,7 +62,7 @@ level: kangourou
 > $$UN \times 6 = BIO$$
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_logica|Logica, giochi, strategie]]
-**Metodo:** [[method_casework|Analisi per casi]]
+**Metodo:** [[method_casework|Analisi per casi]], [[method_congruenze|Aritmetica modulare / congruenze]]
 **Abilita:** [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 16
@@ -77,12 +78,11 @@ level: kangourou
 >
 > $$UN \times 6 = BIO$$
 
+
 **Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_logica|Logic, games and strategies]]
-**Metodo:** [[method_casework|Case analysis]]
+**Metodo:** [[method_casework|Case analysis]], [[method_congruenze|Modular arithmetic / congruences]]
 **Abilita:** [[skill_casework_accurato|Careful case analysis]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
-
-[[Quesiti/src_kangourou_2005_junior_finale#qj2|src_kangourou_2005_junior_finale__QJ2]]
 
 
 
@@ -93,7 +93,7 @@ level: kangourou
 
 *Suddividere esagono regolare in 8 parti uguali*
 
-![[src_kangourou_2005_junior_finale__probj3.png]]
+![[src_kangourou_2005_junior_finale__probJ3.png]]
 
 ```tikz
 \begin{document}
@@ -117,7 +117,7 @@ level: kangourou
 
 *Divide a regular hexagon into 8 equal parts*
 
-![[src_kangourou_2005_junior_finale__probj3.png]]
+![[src_kangourou_2005_junior_finale__probJ3.png]]
 
 ```tikz
 \begin{document}
@@ -133,11 +133,9 @@ level: kangourou
 **Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
 **Area:** [[Geometria|Geometry]]
 
-[[Quesiti/src_kangourou_2005_junior_finale#qj3|src_kangourou_2005_junior_finale__QJ3]]
 
 
-
-<span class="atom-split" id="qj4" data-atom="qj4" data-title="Quesito J4" data-tags="topic_algebra,skill_manipolazione_algebrica"></span>
+<span class="atom-split" id="qj4" data-atom="qj4" data-title="Quesito J4" data-tags="topic_algebra,skill_manipolazione_algebrica,skill_riconoscimento_pattern"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -147,7 +145,7 @@ level: kangourou
 > Quanto vale la somma algebrica di tutti i coefficienti (ciascuno con il proprio segno) dello sviluppo di $(2x - y + z)^8$?
 
 **Topic:** [[topic_algebra|Algebra]]
-**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Algebra e Analisi]]
 **Risposta:** 256
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1DN9SkcNnbA6zI_cH2lP8x9OGdjtWTlV1/view)
@@ -160,15 +158,14 @@ level: kangourou
 
 > What is the algebraic sum of all the coefficients (each with its own sign) in the expansion of $(2x - y + z)^8$?
 
+
 **Topic:** [[topic_algebra|Algebra]]
-**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_riconoscimento_pattern|Pattern recognition]]
 **Area:** [[Algebra e Analisi|Algebra and analysis]]
 
-[[Quesiti/src_kangourou_2005_junior_finale#qj4|src_kangourou_2005_junior_finale__QJ4]]
 
 
-
-<span class="atom-split" id="qj5" data-atom="qj5" data-title="Quesito J5" data-tags="topic_aritmetica,method_congruenze,skill_manipolazione_algebrica"></span>
+<span class="atom-split" id="qj5" data-atom="qj5" data-title="Quesito J5" data-tags="topic_aritmetica,method_congruenze,method_fattorizzazione,skill_manipolazione_algebrica,skill_conteggio_sistematico"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -180,8 +177,8 @@ level: kangourou
 > dei fattoriali dei primi $100$ interi positivi non è un quadrato perfetto, ma lo è il suo quoziente con $50!$.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]]
-**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]], [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** dimostrazione
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1DN9SkcNnbA6zI_cH2lP8x9OGdjtWTlV1/view)
@@ -196,12 +193,11 @@ level: kangourou
 > $$1! \times 2! \times \cdots \times 99! \times 100!$$
 > of the factorials of the first $100$ positive integers is not a perfect square, but its quotient by $50!$ is a perfect square.
 
-**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
-**Metodo:** [[method_congruenze|Modular arithmetic / congruences]]
-**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
-**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
-[[Quesiti/src_kangourou_2005_junior_finale#qj5|src_kangourou_2005_junior_finale__QJ5]]
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]], [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
 
 
@@ -212,7 +208,7 @@ level: kangourou
 
 *Croce greca su scacchiera 7x7 senza angoli*
 
-![[src_kangourou_2005_junior_finale__probj6.png]]
+![[src_kangourou_2005_junior_finale__probJ6.png]]
 
 ```tikz
 \begin{document}
@@ -250,7 +246,7 @@ level: kangourou
 
 *Greek cross on a 7x7 checkerboard with no corners*
 
-![[src_kangourou_2005_junior_finale__probj6.png]]
+![[src_kangourou_2005_junior_finale__probJ6.png]]
 
 ```tikz
 \begin{document}
@@ -279,5 +275,3 @@ level: kangourou
 **Metodo:** [[method_colorazione|Colouring / parity]]
 **Abilita:** [[skill_astrazione|Abstraction / generalisation]]
 **Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
-
-[[Quesiti/src_kangourou_2005_junior_finale#qj6|src_kangourou_2005_junior_finale__QJ6]]

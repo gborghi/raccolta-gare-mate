@@ -10,7 +10,7 @@ level: Giochi di Rosi
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_algebra,method_casework,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_algebra,method_casework,skill_manipolazione_algebrica,skill_lettura_attenta,skill_modellizzazione"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -22,7 +22,7 @@ level: Giochi di Rosi
 
 **Topic:** [[topic_algebra|Algebra]]
 **Metodo:** [[method_casework|Casework]]
-**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
 **Area:** [[Algebra e Analisi]]
 **Risposta:** 155.000 Euro
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1K8adRxlvSvUecgTz5w1nzFq3OhF6n5wZ/view)
@@ -35,16 +35,15 @@ level: Giochi di Rosi
 
 > Today Marco feels particularly wealthy and is ready to invest his savings. So he looked into the prices of some cars and found out that if he buys two luxury cars, one medium-sized car, and two classic cars, he will spend 176,000 euros. If, on the other hand, he buys three luxury cars, two medium-sized cars, and one classic car, he would spend a total of 197,000 euros. **So how much will he spend if he settles for one luxury car and three classic cars?**
 
+
 **Topic:** [[topic_algebra|Algebra]]
 **Metodo:** [[method_casework|Case analysis]]
-**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_lettura_attenta|Careful reading of the text]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_lettura_attenta|Careful reading of the text]], [[skill_modellizzazione|Modelling / translating the text]]
 **Area:** [[Algebra e Analisi|Algebra and analysis]]
 
-[[Quesiti/src_bocconi_rosi_2011#q01|src_bocconi_rosi_2011__Q01]]
 
 
-
-<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_combinatoria,method_conteggio,skill_conteggio_sistematico,skill_ragionamento_geometrico"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_combinatoria,topic_geometria_piana,method_conteggio,method_casi_conteggio,skill_conteggio_sistematico,skill_ragionamento_geometrico"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -53,12 +52,12 @@ level: Giochi di Rosi
 
 > **Quanti triangoli vedete in figura?**
 
-![[src_bocconi_rosi_2011__q02.png]]
+![[src_bocconi_rosi_2011__Q02.png]]
 
-**Topic:** [[topic_combinatoria|Combinatoria]]
-**Metodo:** [[method_conteggio|Conteggio]]
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_conteggio|Conteggio]], [[method_casi_conteggio|Conteggio per casi]]
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
-**Area:** [[Combinatoria, Logica e Probabilita]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 **Risposta:** 16
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1K8adRxlvSvUecgTz5w1nzFq3OhF6n5wZ/view)
 
@@ -70,14 +69,13 @@ level: Giochi di Rosi
 
 > How many triangles do you see in the figure?
 
-![[src_bocconi_rosi_2011__q02.png]]
+![[src_bocconi_rosi_2011__Q02.png]]
 
-**Topic:** [[topic_combinatoria|Combinatorics]]
-**Metodo:** [[method_conteggio|Combinatorial counting]]
+
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_conteggio|Combinatorial counting]], [[method_casi_conteggio|Counting by cases]]
 **Abilita:** [[skill_conteggio_sistematico|Systematic counting]], [[skill_ragionamento_geometrico|Geometric reasoning]]
-**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
-
-[[Quesiti/src_bocconi_rosi_2011#q02|src_bocconi_rosi_2011__Q02]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Geometria|Geometry]]
 
 
 
@@ -110,8 +108,6 @@ level: Giochi di Rosi
 **Abilita:** [[skill_conteggio_sistematico|Systematic counting]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
 **Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
-[[Quesiti/src_bocconi_rosi_2011#q03|src_bocconi_rosi_2011__Q03]]
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_combinatoria,method_conteggio,skill_conteggio_sistematico"></span>
@@ -143,11 +139,9 @@ level: Giochi di Rosi
 **Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
 **Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
-[[Quesiti/src_bocconi_rosi_2011#q04|src_bocconi_rosi_2011__Q04]]
 
 
-
-<span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_aritmetica,method_backward,skill_ragionamento_geometrico,skill_lettura_attenta,skill_manipolazione_algebrica"></span>
+<span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_aritmetica,method_backward,skill_ragionamento_geometrico,skill_lettura_attenta,skill_manipolazione_algebrica,skill_modellizzazione"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -159,7 +153,7 @@ level: Giochi di Rosi
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_backward|Backward]]
-**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 27
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1K8adRxlvSvUecgTz5w1nzFq3OhF6n5wZ/view)
@@ -172,16 +166,15 @@ level: Giochi di Rosi
 
 > Three travelers, infinite in number, finally arrive at an inn and ask for a dish of potatoes. When the innkeeper brings them, the first one finds some potatoes already asleep. He then leaves the dish on the table. One of the three travelers wakes up and eats a third of the potatoes; then he falls asleep again. At this point, a second traveler wakes up, eats a third of the potatoes left in the dish, and then he too falls asleep again. Shortly afterward, the third traveler wakes up; unaware that his fellow adventurers have already helped themselves, he too eats a third of the potatoes left in the dish. When the innkeeper comes to collect the dish, he finds that it still contains 8 potatoes. **How many potatoes did he bring initially?**
 
+
 **Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
 **Metodo:** [[method_backward|Working backwards]]
-**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_lettura_attenta|Careful reading of the text]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_lettura_attenta|Careful reading of the text]], [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_modellizzazione|Modelling / translating the text]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
-[[Quesiti/src_bocconi_rosi_2011#q05|src_bocconi_rosi_2011__Q05]]
 
 
-
-<span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_geometria_piana,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
+<span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_geometria_piana,topic_trigonometria,method_trigonometria,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -191,9 +184,10 @@ level: Giochi di Rosi
 > La figura è composta da quattro triangoli equilateri che hanno il lato di 1 m.
 > **Calcolate la lunghezza della diagonale $AC$.**
 
-![[src_bocconi_rosi_2011__q06.png]]
+![[src_bocconi_rosi_2011__Q06.png]]
 
-**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometria]]
+**Metodo:** [[method_trigonometria|Tecniche trigonometriche]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 **Risposta:** $\sqrt{3} = 1{,}732$
@@ -207,13 +201,13 @@ level: Giochi di Rosi
 
 > The figure consists of four equilateral triangles with sides measuring 1 m. **Calculate the length of the diagonal $AC$.**
 
-![[src_bocconi_rosi_2011__q06.png]]
+![[src_bocconi_rosi_2011__Q06.png]]
 
-**Topic:** [[topic_geometria_piana|Plane geometry]]
+
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_trigonometria|Trigonometry]]
+**Metodo:** [[method_trigonometria|Trigonometric techniques]]
 **Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
 **Area:** [[Geometria|Geometry]]
-
-[[Quesiti/src_bocconi_rosi_2011#q06|src_bocconi_rosi_2011__Q06]]
 
 
 
@@ -226,7 +220,7 @@ level: Giochi di Rosi
 
 > **Esprimete con una frazione il rapporto tra l'area del quadrato scuro e quella dell'intero quadrato.**
 
-![[src_bocconi_rosi_2011__q07.png]]
+![[src_bocconi_rosi_2011__Q07.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
@@ -242,17 +236,15 @@ level: Giochi di Rosi
 
 > Express as a fraction the ratio of the area of the dark square to the area of the whole square.
 
-![[src_bocconi_rosi_2011__q07.png]]
+![[src_bocconi_rosi_2011__Q07.png]]
 
 **Topic:** [[topic_geometria_piana|Plane geometry]]
 **Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
 **Area:** [[Geometria|Geometry]]
 
-[[Quesiti/src_bocconi_rosi_2011#q07|src_bocconi_rosi_2011__Q07]]
 
 
-
-<span class="atom-split" id="q08" data-atom="q08" data-title="Quesito 8" data-tags="topic_geometria_piana,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
+<span class="atom-split" id="q08" data-atom="q08" data-title="Quesito 8" data-tags="topic_geometria_piana,skill_ragionamento_geometrico,skill_manipolazione_algebrica,skill_modellizzazione"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -262,10 +254,10 @@ level: Giochi di Rosi
 > Il cerchio intermedio che compare in figura ha un raggio doppio di quello del cerchio piccolo. Il cerchio più grande ha invece un raggio che è tre volte quello del cerchio piccolo.
 > Sapendo che il cerchio grande ha un'area uguale a $1.113 \text{ cm}^2$, qual è l'area della zona bianca?
 
-![[src_bocconi_rosi_2011__q08.png]]
+![[src_bocconi_rosi_2011__Q08.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
-**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
 **Area:** [[Geometria]]
 **Risposta:** $371 \text{ cm}^2$
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1K8adRxlvSvUecgTz5w1nzFq3OhF6n5wZ/view)
@@ -278,13 +270,12 @@ level: Giochi di Rosi
 
 > The intermediate circle shown in the figure has a radius twice that of the small circle. The largest circle, however, has a radius three times that of the small circle. Given that the large circle has an area equal to $1.113 \text{ cm}^2$, what is the area of the white region?
 
-![[src_bocconi_rosi_2011__q08.png]]
+![[src_bocconi_rosi_2011__Q08.png]]
+
 
 **Topic:** [[topic_geometria_piana|Plane geometry]]
-**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_modellizzazione|Modelling / translating the text]]
 **Area:** [[Geometria|Geometry]]
-
-[[Quesiti/src_bocconi_rosi_2011#q08|src_bocconi_rosi_2011__Q08]]
 
 
 
@@ -316,8 +307,6 @@ level: Giochi di Rosi
 **Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_lettura_attenta|Careful reading of the text]]
 **Area:** [[Algebra e Analisi|Algebra and analysis]]
 
-[[Quesiti/src_bocconi_rosi_2011#q09|src_bocconi_rosi_2011__Q09]]
-
 
 
 <span class="atom-split" id="q10" data-atom="q10" data-title="Quesito 10" data-tags="topic_algebra,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
@@ -347,8 +336,6 @@ level: Giochi di Rosi
 **Topic:** [[topic_algebra|Algebra]]
 **Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_lettura_attenta|Careful reading of the text]]
 **Area:** [[Algebra e Analisi|Algebra and analysis]]
-
-[[Quesiti/src_bocconi_rosi_2011#q10|src_bocconi_rosi_2011__Q10]]
 
 
 
@@ -382,8 +369,6 @@ level: Giochi di Rosi
 **Abilita:** [[skill_lettura_attenta|Careful reading of the text]], [[skill_conteggio_sistematico|Systematic counting]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
-[[Quesiti/src_bocconi_rosi_2011#q11|src_bocconi_rosi_2011__Q11]]
-
 
 
 <span class="atom-split" id="q12" data-atom="q12" data-title="Quesito 12" data-tags="topic_algebra,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
@@ -414,8 +399,6 @@ level: Giochi di Rosi
 **Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_lettura_attenta|Careful reading of the text]]
 **Area:** [[Algebra e Analisi|Algebra and analysis]]
 
-[[Quesiti/src_bocconi_rosi_2011#q12|src_bocconi_rosi_2011__Q12]]
-
 
 
 <span class="atom-split" id="q13" data-atom="q13" data-title="Quesito 13" data-tags="topic_aritmetica,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
@@ -445,8 +428,6 @@ level: Giochi di Rosi
 **Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
 **Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_lettura_attenta|Careful reading of the text]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
-
-[[Quesiti/src_bocconi_rosi_2011#q13|src_bocconi_rosi_2011__Q13]]
 
 
 
@@ -480,8 +461,6 @@ level: Giochi di Rosi
 **Abilita:** [[skill_lettura_attenta|Careful reading of the text]], [[skill_ragionamento_geometrico|Geometric reasoning]]
 **Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
-[[Quesiti/src_bocconi_rosi_2011#q14|src_bocconi_rosi_2011__Q14]]
-
 
 
 <span class="atom-split" id="q15" data-atom="q15" data-title="Quesito 15" data-tags="topic_geometria_piana,skill_ragionamento_geometrico,skill_lettura_attenta"></span>
@@ -494,7 +473,7 @@ level: Giochi di Rosi
 > Tre delle cinque superfici che compaiono in figura hanno la stessa area.
 > **Quali sono?**
 
-![[src_bocconi_rosi_2011__q15.png]]
+![[src_bocconi_rosi_2011__Q15.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
@@ -510,13 +489,11 @@ level: Giochi di Rosi
 
 > Three of the five surfaces shown in the figure have the same area. **Which ones are they?**
 
-![[src_bocconi_rosi_2011__q15.png]]
+![[src_bocconi_rosi_2011__Q15.png]]
 
 **Topic:** [[topic_geometria_piana|Plane geometry]]
 **Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_lettura_attenta|Careful reading of the text]]
 **Area:** [[Geometria|Geometry]]
-
-[[Quesiti/src_bocconi_rosi_2011#q15|src_bocconi_rosi_2011__Q15]]
 
 
 
@@ -530,7 +507,7 @@ level: Giochi di Rosi
 > Disponete nei cerchi attorno al 55 otto numeri naturali, diversi tra di loro e inferiori a 100, in modo tale che il prodotto di tre numeri allineati sia sempre uguale a 1980.
 > **Qual è la somma degli otto numeri che avete disposto attorno al 55?**
 
-![[src_bocconi_rosi_2011__q16.png]]
+![[src_bocconi_rosi_2011__Q16.png]]
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
 **Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_casework|Casework]]
@@ -547,18 +524,16 @@ level: Giochi di Rosi
 
 > Arrange eight distinct natural numbers less than 100 in circles around the 55 such that the product of three numbers aligned in a row is always equal to 1980. **What is the sum of the eight numbers you have arranged around the 55?**
 
-![[src_bocconi_rosi_2011__q16.png]]
+![[src_bocconi_rosi_2011__Q16.png]]
 
 **Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_algebra|Algebra]]
 **Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]], [[method_casework|Case analysis]]
 **Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_conteggio_sistematico|Systematic counting]], [[skill_riconoscimento_pattern|Pattern recognition]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Algebra e Analisi|Algebra and analysis]]
 
-[[Quesiti/src_bocconi_rosi_2011#q16|src_bocconi_rosi_2011__Q16]]
 
 
-
-<span class="atom-split" id="q17" data-atom="q17" data-title="Quesito 17" data-tags="topic_algebra,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
+<span class="atom-split" id="q17" data-atom="q17" data-title="Quesito 17" data-tags="topic_algebra,skill_manipolazione_algebrica,skill_lettura_attenta,skill_modellizzazione"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -569,7 +544,7 @@ level: Giochi di Rosi
 > **Qual è la velocità in km/h della corrente (supposta costante)?**
 
 **Topic:** [[topic_algebra|Algebra]]
-**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
 **Area:** [[Algebra e Analisi]]
 **Risposta:** 5 km/h
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1K8adRxlvSvUecgTz5w1nzFq3OhF6n5wZ/view)
@@ -582,11 +557,10 @@ level: Giochi di Rosi
 
 > Traveling downstream along a river, Amerigo took two hours to cover 60 km. To return to the starting point, traveling upstream along the river, he took three hours. **What is the speed of the current in km/h (assuming it is constant)?**
 
-**Topic:** [[topic_algebra|Algebra]]
-**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_lettura_attenta|Careful reading of the text]]
-**Area:** [[Algebra e Analisi|Algebra and analysis]]
 
-[[Quesiti/src_bocconi_rosi_2011#q17|src_bocconi_rosi_2011__Q17]]
+**Topic:** [[topic_algebra|Algebra]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_lettura_attenta|Careful reading of the text]], [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
 
 
 
@@ -620,8 +594,6 @@ level: Giochi di Rosi
 **Abilita:** [[skill_conteggio_sistematico|Systematic counting]], [[skill_lettura_attenta|Careful reading of the text]], [[skill_casework_accurato|Careful case analysis]]
 **Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
-[[Quesiti/src_bocconi_rosi_2011#q18|src_bocconi_rosi_2011__Q18]]
-
 
 
 <span class="atom-split" id="q19" data-atom="q19" data-title="Quesito 19" data-tags="topic_algebra,topic_aritmetica,method_backward,skill_manipolazione_algebrica,skill_ragionamento_geometrico,skill_lettura_attenta"></span>
@@ -634,7 +606,7 @@ level: Giochi di Rosi
 > Nella piramide che vedete in figura, gli altri numeri (oltre a quelli già scritti) vengono collocati in modo che il numero in ogni mattoncino sia la somma dei numeri scritti nei due mattoncini che lo sostengono.
 > **Quale numero dovete scrivere nel mattoncino vuoto, in basso, in modo poi che nel mattoncino più in alto venga scritto effettivamente 396?**
 
-![[src_bocconi_rosi_2011__q19.png]]
+![[src_bocconi_rosi_2011__Q19.png]]
 
 **Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_backward|Backward]]
@@ -651,18 +623,16 @@ level: Giochi di Rosi
 
 > In the pyramid shown in the figure, the other numbers (besides those already written) are placed so that the number in each block is the sum of the numbers written in the two blocks that support it. **What number must you write in the empty block at the bottom so that 396 is actually written in the topmost block?**
 
-![[src_bocconi_rosi_2011__q19.png]]
+![[src_bocconi_rosi_2011__Q19.png]]
 
 **Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Arithmetic / Number theory]]
 **Metodo:** [[method_backward|Working backwards]]
 **Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_lettura_attenta|Careful reading of the text]]
 **Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
-[[Quesiti/src_bocconi_rosi_2011#q19|src_bocconi_rosi_2011__Q19]]
 
 
-
-<span class="atom-split" id="q20" data-atom="q20" data-title="Quesito 20" data-tags="topic_algebra,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
+<span class="atom-split" id="q20" data-atom="q20" data-title="Quesito 20" data-tags="topic_algebra,skill_manipolazione_algebrica,skill_lettura_attenta,skill_modellizzazione"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -673,7 +643,7 @@ level: Giochi di Rosi
 > **A che ora, ieri, Renato li aveva "caricati"?**
 
 **Topic:** [[topic_algebra|Algebra]]
-**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
 **Area:** [[Algebra e Analisi]]
 **Risposta:** 18.36
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1K8adRxlvSvUecgTz5w1nzFq3OhF6n5wZ/view)
@@ -686,8 +656,7 @@ level: Giochi di Rosi
 
 > Yesterday, Renato wound his old pendulum clock and his old alarm clock at the same time. This morning, upon waking, he can't help but notice that the alarm clock shows 6:00 while the pendulum clock shows 7:00. At this point, he remembers that the alarm clock loses three minutes every hour, whereas the pendulum clock gains two minutes every hour (relative to the correct time). **What time yesterday did Renato "wind" them?**
 
-**Topic:** [[topic_algebra|Algebra]]
-**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_lettura_attenta|Careful reading of the text]]
-**Area:** [[Algebra e Analisi|Algebra and analysis]]
 
-[[Quesiti/src_bocconi_rosi_2011#q20|src_bocconi_rosi_2011__Q20]]
+**Topic:** [[topic_algebra|Algebra]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_lettura_attenta|Careful reading of the text]], [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]

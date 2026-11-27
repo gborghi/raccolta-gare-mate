@@ -10,7 +10,7 @@ level: JJMO Yosen
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_aritmetica,method_casework,method_estremalita,skill_conteggio_sistematico,skill_lettura_attenta,skill_riconoscimento_pattern"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_aritmetica,topic_combinatoria,method_casework,method_estremalita,method_congruenze,method_grafi,skill_conteggio_sistematico,skill_lettura_attenta,skill_riconoscimento_pattern"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -19,10 +19,10 @@ level: JJMO Yosen
 
 > Consider positive integers all of whose digits are distinct and nonzero, such that whichever pair of adjacent digits is taken out, the resulting two-digit number is a multiple of $7$. (For example, from $123$ one can take out the adjacent pairs $12$ and $23$, giving $2$ such two-digit numbers.) Among all such integers, find the largest one.
 
-**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_casework|Casework]], [[method_estremalita|Estremalità]]
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_casework|Casework]], [[method_estremalita|Estremalità]], [[method_congruenze|Modular arithmetic / congruences]], [[method_grafi|Graph theory]]
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
-**Area:** [[Aritmetica e Teoria dei Numeri]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Risposta:** 98421
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1s0VpOntHkP21JSEqbDbHxDeV5wu_caJs/view)
 
@@ -34,16 +34,15 @@ level: JJMO Yosen
 
 > Si considerino i numeri interi positivi i cui tutti i digit sono distinti e non nulli, e tali che, qualunque coppia di digit adiacenti si estragga, il numero di due cifre che ne risulta sia un multiplo di $7$. (Ad esempio, da $123$ si possono estrarre le coppie adiacenti $12$ e $23$, ottenendo $2$ tali numeri di due cifre.) Tra tutti i numeri di questo tipo, si determini il più grande.
 
-**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_casework|Casework]], [[method_estremalita|Estremalità]]
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casework|Casework]], [[method_estremalita|Estremalità]], [[method_congruenze|Aritmetica modulare / congruenze]], [[method_grafi|Teoria dei grafi]]
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
-**Area:** [[Aritmetica e Teoria dei Numeri]]
-
-[[Quesiti/src_jjmo15yq_yosen#q01|src_jjmo15yq_yosen__Q01]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 
 
 
-<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_aritmetica,skill_stima,skill_manipolazione_algebrica"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_aritmetica,method_fattorizzazione,skill_stima,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -53,8 +52,9 @@ level: JJMO Yosen
 > Find the largest integer that is at most $\sqrt{123456789}$.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
 **Abilita:** [[skill_stima|Stima]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
-**Area:** [[Aritmetica e Teoria dei Numeri]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Risposta:** 11111
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1s0VpOntHkP21JSEqbDbHxDeV5wu_caJs/view)
 
@@ -66,13 +66,12 @@ level: JJMO Yosen
 
 > Trovare il più grande intero che non supera $\sqrt{123456789}$.
 
+
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei numeri]]
-**Abilità:** [[skill_stima|Stima e approssimazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
+**Abilita:** [[skill_stima|Stima e approssimazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Aritmetica e teoria dei numeri]]
-
 **Risposta:** 11111
-
-[[Quesiti/src_jjmo15yq_yosen#q02|src_jjmo15yq_yosen__Q02]]
 
 
 
@@ -107,8 +106,6 @@ level: JJMO Yosen
 **Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_stima|Stima]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 
-[[Quesiti/src_jjmo15yq_yosen#q03|src_jjmo15yq_yosen__Q03]]
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_geometria_piana,method_coordinate,skill_ragionamento_geometrico,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
@@ -140,8 +137,6 @@ level: JJMO Yosen
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Geometria]]
 
-[[Quesiti/src_jjmo15yq_yosen#q04|src_jjmo15yq_yosen__Q04]]
-
 
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_combinatoria,method_casework,method_conteggio,skill_conteggio_sistematico,skill_casework_accurato,skill_lettura_attenta"></span>
@@ -157,7 +152,7 @@ level: JJMO Yosen
 > \item In the leftmost column, among the three integers written, the integer in the topmost cell is the largest and the integer in the bottommost cell is the smallest.
 > \end{itemize}
 
-![[src_jjmo15yq_yosen__q05.png]]
+![[src_jjmo15yq_yosen__Q05.png]]
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]]
@@ -177,14 +172,12 @@ level: JJMO Yosen
 > \item In ogni riga, tra i tre interi scritti, l'intero nella cella più a destra è il più grande e l'intero nella cella più a sinistra è il più piccolo. \item Nella colonna più a sinistra, tra i tre interi scritti, l'intero nella cella più in alto è il più grande e l'intero nella cella più in basso è il più piccolo.
 > \end{itemize}
 
-![[src_jjmo15yq_yosen__q05.png]]
+![[src_jjmo15yq_yosen__Q05.png]]
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]]
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
-
-[[Quesiti/src_jjmo15yq_yosen#q05|src_jjmo15yq_yosen__Q05]]
 
 
 
@@ -217,11 +210,9 @@ level: JJMO Yosen
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Geometria]]
 
-[[Quesiti/src_jjmo15yq_yosen#q06|src_jjmo15yq_yosen__Q06]]
 
 
-
-<span class="atom-split" id="q07" data-atom="q07" data-title="Quesito 7" data-tags="topic_aritmetica,topic_algebra,method_casework,method_fattorizzazione,skill_conteggio_sistematico,skill_casework_accurato,skill_manipolazione_algebrica"></span>
+<span class="atom-split" id="q07" data-atom="q07" data-title="Quesito 7" data-tags="topic_aritmetica,topic_algebra,method_casework,method_fattorizzazione,method_congruenze,skill_conteggio_sistematico,skill_casework_accurato,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -231,9 +222,9 @@ level: JJMO Yosen
 > For a positive integer $k$, let $P(k)$ denote the product of its digits. Find all $3$-digit positive integers $n$ satisfying $n = 2P(n) + 27$.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
-**Metodo:** [[method_casework|Casework]], [[method_fattorizzazione|Fattorizzazione]]
+**Metodo:** [[method_casework|Casework]], [[method_fattorizzazione|Fattorizzazione]], [[method_congruenze|Modular arithmetic / congruences]]
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
-**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Algebra e Analisi|Algebra and analysis]]
 **Risposta:** 279, 587
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1s0VpOntHkP21JSEqbDbHxDeV5wu_caJs/view)
 
@@ -245,12 +236,11 @@ level: JJMO Yosen
 
 > Per un numero intero positivo $k$, si indichi con $P(k)$ il prodotto delle sue cifre. Determinare tutti i numeri interi positivi $n$ a $3$ cifre che soddisfano $n = 2P(n) + 27$.
 
+
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
-**Metodo:** [[method_casework|Casework]], [[method_fattorizzazione|Fattorizzazione]]
+**Metodo:** [[method_casework|Casework]], [[method_fattorizzazione|Fattorizzazione]], [[method_congruenze|Aritmetica modulare / congruenze]]
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
-
-[[Quesiti/src_jjmo15yq_yosen#q07|src_jjmo15yq_yosen__Q07]]
 
 
 
@@ -283,11 +273,9 @@ level: JJMO Yosen
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 
-[[Quesiti/src_jjmo15yq_yosen#q08|src_jjmo15yq_yosen__Q08]]
 
 
-
-<span class="atom-split" id="q09" data-atom="q09" data-title="Quesito 9" data-tags="topic_combinatoria,topic_geometria_analitica,method_casework,method_conteggio,method_estremalita,skill_conteggio_sistematico,skill_ragionamento_geometrico,skill_astrazione"></span>
+<span class="atom-split" id="q09" data-atom="q09" data-title="Quesito 9" data-tags="topic_combinatoria,topic_geometria_analitica,method_casework,method_conteggio,method_estremalita,method_cassetti,skill_conteggio_sistematico,skill_ragionamento_geometrico,skill_astrazione"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -302,9 +290,9 @@ level: JJMO Yosen
 > Let $N$ be the largest value of $n$ for which such a situation can occur. In how many ways can one choose $N$ points from the $xy$-plane satisfying the conditions?
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_geometria_analitica|Geometria analitica]]
-**Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]], [[method_estremalita|Estremalità]]
+**Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]], [[method_estremalita|Estremalità]], [[method_cassetti|Pigeonhole principle]]
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_astrazione|Astrazione]]
-**Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Geometria|Geometry]]
 **Risposta:** $2^{2018}$
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1s0VpOntHkP21JSEqbDbHxDeV5wu_caJs/view)
 
@@ -320,12 +308,11 @@ level: JJMO Yosen
 > \end{itemize}
 > Sia $N$ il valore massimo di $n$ per cui una tale situazione può verificarsi. In quanti modi si possono scegliere $N$ punti nel piano $xy$ che soddisfano le condizioni?
 
+
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_geometria_analitica|Geometria analitica]]
-**Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]], [[method_estremalita|Estremalità]]
+**Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]], [[method_estremalita|Estremalità]], [[method_cassetti|Principio dei cassetti]]
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_astrazione|Astrazione]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
-
-[[Quesiti/src_jjmo15yq_yosen#q09|src_jjmo15yq_yosen__Q09]]
 
 
 
@@ -342,7 +329,7 @@ level: JJMO Yosen
 > \item For every integer $k$ from $1$ to $6$, the difference of the two numbers written in the $(k+1)$-th column from the left is greater than or equal to the difference of the two numbers written in the $k$-th column.
 > \end{itemize}
 
-![[src_jjmo15yq_yosen__q10.png]]
+![[src_jjmo15yq_yosen__Q10.png]]
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]], [[method_ricorsione|Ricorsione]]
@@ -362,14 +349,12 @@ level: JJMO Yosen
 > \item In ogni riga, i sette interi scritti sono disposti in ordine crescente da sinistra a destra. \item Per ogni intero $k$ compreso tra $1$ e $6$, la differenza tra i due numeri scritti nella $(k+1)$-esima colonna partendo da sinistra è maggiore o uguale alla differenza tra i due numeri scritti nella $k$-esima colonna.
 > \end{itemize}
 
-![[src_jjmo15yq_yosen__q10.png]]
+![[src_jjmo15yq_yosen__Q10.png]]
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]], [[method_ricorsione|Ricorsione]]
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
-
-[[Quesiti/src_jjmo15yq_yosen#q10|src_jjmo15yq_yosen__Q10]]
 
 
 
@@ -406,11 +391,9 @@ level: JJMO Yosen
 
 **Risposta:** 128
 
-[[Quesiti/src_jjmo15yq_yosen#q11|src_jjmo15yq_yosen__Q11]]
 
 
-
-<span class="atom-split" id="q12" data-atom="q12" data-title="Quesito 12" data-tags="topic_combinatoria,topic_aritmetica,method_estremalita,method_casework,method_induzione,skill_ragionamento_geometrico,skill_stima,skill_conteggio_sistematico,skill_modellizzazione"></span>
+<span class="atom-split" id="q12" data-atom="q12" data-title="Quesito 12" data-tags="topic_combinatoria,topic_aritmetica,method_estremalita,method_casework,method_induzione,method_ricorsione,skill_ragionamento_geometrico,skill_stima,skill_conteggio_sistematico,skill_modellizzazione"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -426,9 +409,9 @@ level: JJMO Yosen
 > Each player is assigned a distinct integer from $1$ to $256$, and the champion of this tournament had number $1$. For a certain integer $a$, the following held: in every match played during the tournament, letting $w$ be the number of the winning player and $l$ the number of the losing player, $l - w \le a$ holds. Find the smallest value of $a$ that can be considered as such.
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_estremalita|Estremalità]], [[method_casework|Casework]], [[method_induzione|Induzione]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_casework|Casework]], [[method_induzione|Induzione]], [[method_ricorsione|Recursion]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_stima|Stima]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione]]
-**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Risposta:** 44
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1s0VpOntHkP21JSEqbDbHxDeV5wu_caJs/view)
 
@@ -444,9 +427,8 @@ level: JJMO Yosen
 > \end{itemize}
 > A ciascun giocatore viene assegnato un intero distinto compreso tra $1$ e $256$, e il campione di questo torneo aveva il numero $1$. Per un certo intero $a$, valeva quanto segue: in ogni partita disputata durante il torneo, ponendo $w$ come numero del giocatore vincitore e $l$ come numero del giocatore sconfitto, vale $l - w \le a$. Trovare il valore minimo di $a$ che può essere considerato tale.
 
+
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_estremalita|Estremalità]], [[method_casework|Casework]], [[method_induzione|Induzione]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_casework|Casework]], [[method_induzione|Induzione]], [[method_ricorsione|Ricorsione]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_stima|Stima]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
-
-[[Quesiti/src_jjmo15yq_yosen#q12|src_jjmo15yq_yosen__Q12]]

@@ -38,11 +38,9 @@ level: OBM Nível 3
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 
-[[Quesiti/src_obm_2013_n3_f3#q01|src_obm_2013_n3_f3__Q01]]
 
 
-
-<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_aritmetica,topic_combinatoria,method_casework,method_fattorizzazione,skill_modellizzazione,skill_ragionamento_geometrico,skill_lettura_attenta"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_aritmetica,topic_combinatoria,topic_logica,method_casework,method_fattorizzazione,skill_modellizzazione,skill_ragionamento_geometrico,skill_lettura_attenta"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -51,10 +49,10 @@ level: OBM Nível 3
 
 > Arnaldo and Bernaldo play the following game: given a fixed finite set $A$ of positive integers, Arnaldo chooses a number $a$ belonging to $A$ (but tells no one which number he chose). Then Bernaldo chooses any positive integer $b$ (which may or may not belong to $A$). Arnaldo then announces only the number of positive divisors of the product $ab$. Show that Arnaldo can always choose $b$ in a way that allows him to discover the number $a$ chosen by Arnaldo.
 
-**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]], [[topic_logica|Logic, games and strategies]]
 **Metodo:** [[method_casework|Casework]], [[method_fattorizzazione|Fattorizzazione]]
 **Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
-**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/196iotHwSAcZNCxZblUXBqibkyRsVNzdN/view)
 
 
@@ -65,16 +63,15 @@ level: OBM Nível 3
 
 > Arnaldo e Bernaldo giocano al seguente gioco: dato un insieme finito fisso $A$ di numeri interi positivi, Arnaldo sceglie un numero $a$ appartenente a $A$ (ma non dice a nessuno quale numero abbia scelto). Poi Bernaldo sceglie un qualsiasi numero intero positivo $b$ (che può appartenere o meno a $A$). Successivamente Arnaldo annuncia soltanto il numero di divisori positivi del prodotto $ab$. Dimostrare che Arnaldo può sempre scegliere $b$ in modo tale da poter scoprire il numero $a$ scelto da Arnaldo.
 
-**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]], [[topic_logica|Logica, giochi, strategie]]
 **Metodo:** [[method_casework|Casework]], [[method_fattorizzazione|Fattorizzazione]]
 **Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 
-[[Quesiti/src_obm_2013_n3_f3#q02|src_obm_2013_n3_f3__Q02]]
 
 
-
-<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_insiemi_funzioni,topic_funzionali,method_backward,method_simmetria,skill_manipolazione_algebrica,skill_riconoscimento_pattern,skill_astrazione"></span>
+<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_insiemi_funzioni,topic_funzionali,method_backward,method_simmetria,method_casework,skill_manipolazione_algebrica,skill_riconoscimento_pattern,skill_astrazione"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -86,9 +83,9 @@ level: OBM Nível 3
 > for all $x, y$ real and nonzero with $x + y \neq 0$.
 
 **Topic:** [[topic_insiemi_funzioni|Insiemi e funzioni]], [[topic_funzionali|Equazioni funzionali]]
-**Metodo:** [[method_backward|Backward]], [[method_simmetria|Simmetria]]
+**Metodo:** [[method_backward|Backward]], [[method_simmetria|Simmetria]], [[method_casework|Case analysis]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_astrazione|Astrazione]]
-**Area:** [[Algebra e Analisi]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/196iotHwSAcZNCxZblUXBqibkyRsVNzdN/view)
 
 
@@ -101,12 +98,11 @@ level: OBM Nível 3
 > $$f(x+y) \cdot \bigl(f(x) + f(y)\bigr) = f(xy)$$
 > per tutti gli $x, y$ reali e non nulli con $x + y \neq 0$.
 
+
 **Topic:** [[topic_insiemi_funzioni|Insiemi e funzioni]], [[topic_funzionali|Equazioni funzionali]]
-**Metodo:** [[method_backward|Backward]], [[method_simmetria|Simmetria]]
+**Metodo:** [[method_backward|Backward]], [[method_simmetria|Simmetria]], [[method_casework|Analisi per casi]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_astrazione|Astrazione]]
 **Area:** [[Algebra e Analisi]]
-
-[[Quesiti/src_obm_2013_n3_f3#q03|src_obm_2013_n3_f3__Q03]]
 
 
 
@@ -138,8 +134,6 @@ level: OBM Nível 3
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 
-[[Quesiti/src_obm_2013_n3_f3#q04|src_obm_2013_n3_f3__Q04]]
-
 
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_combinatoria,topic_aritmetica,method_induzione,method_invarianti,method_casework,skill_conteggio_sistematico,skill_astrazione,skill_riconoscimento_pattern"></span>
@@ -170,8 +164,6 @@ level: OBM Nível 3
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_astrazione|Astrazione]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 
-[[Quesiti/src_obm_2013_n3_f3#q05|src_obm_2013_n3_f3__Q05]]
-
 
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_geometria_piana,method_coordinate,method_simmetria,method_trigonometria,skill_ragionamento_geometrico,skill_modellizzazione,skill_astrazione"></span>
@@ -201,5 +193,3 @@ level: OBM Nível 3
 **Metodo:** [[method_coordinate|Coordinate]], [[method_simmetria|Simmetria]], [[method_trigonometria|Trigonometria]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]], [[skill_astrazione|Astrazione]]
 **Area:** [[Geometria]]
-
-[[Quesiti/src_obm_2013_n3_f3#q06|src_obm_2013_n3_f3__Q06]]

@@ -12,9 +12,6 @@ level: Coupe Animath Printemps
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_geometria_piana,method_simmetria,skill_ragionamento_geometrico,skill_lettura_attenta"></span>
 
-<div class="qlang-switch" data-default="en"></div>
-
-
 *Rhombus with special point K on CD, prove A, K, P collinear*
 
 > Let $ABCD$ be a rhombus. Let $K$ be a point on line $(CD)$, other than $C$ and $D$, such that $AD = BK$. Let $P$ be the intersection point of line $(BD)$ with the perpendicular bisector of segment $[BC]$. Prove that points $A$, $K$, and $P$ are collinear.
@@ -26,18 +23,34 @@ level: Coupe Animath Printemps
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1GJ9JqOhPcXzoOSCUfuM6SokDJPUdw3gV/view)
 
 
-<div class="qlang-split" data-lang="it"></div>
 
+<span class="atom-split" id="q03__it" data-atom="q03__it" data-title="Q03__IT" data-tags=""></span>
+
+---
+tipo: quesito-translation
+translation_of: src_canimath_2013_printemps__Q03
+lang: it
+secondary: true
+title: "Coupe Animath Primavera 2013  Quesito 3"
+summary: "Rhombus con punto speciale K su CD, prova A, K, P collineare"
+topics: [topic_geometria_piana]
+methods: [method_simmetria]
+skills: [skill_ragionamento_geometrico, skill_lettura_attenta]
+tags: [kg/translation, topic/geometria_piana]---
 
 *Rhombus con punto speciale K su CD, prova A, K, P collineare*
 
 > Lascia che il $ABCD$ sia un rombo. Il punto $K$ deve essere un punto della riga $(CD)$, diverso da $C$ e $D$, in modo tale che $AD = BK$. Il punto di intersezione della linea $(BD)$ con il bisettore perpendicolare del segmento $[BC]$ è $P$. Provare che i punti $A$, $K$ e $P$ sono collineari.
 
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_simmetria|Sfruttamento della simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta del testo]]
+**Area:** [[Geometria]]
 [[Quesiti/src_canimath_2013_printemps#q03|src_canimath_2013_printemps__Q03]]
 
 
 
-<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_aritmetica,method_fattorizzazione,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
+<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_aritmetica,method_fattorizzazione,method_congruenze,method_casework,skill_manipolazione_algebrica,skill_lettura_attenta,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -47,9 +60,9 @@ level: Coupe Animath Printemps
 > The denominators of two irreducible fractions are $600$ and $700$. What is the smallest possible value of the denominator of their sum (when the sum is written as an irreducible fraction)?
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_fattorizzazione|Fattorizzazione]]
-**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
-**Area:** [[Aritmetica e Teoria dei Numeri]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_congruenze|Modular arithmetic / congruences]], [[method_casework|Case analysis]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Risposta:** 168
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1GJ9JqOhPcXzoOSCUfuM6SokDJPUdw3gV/view)
 
@@ -61,12 +74,15 @@ level: Coupe Animath Printemps
 
 > I denominatori di due frazioni irriducibili sono $600$ e $700$. Qual è il minimo valore possibile del denominatore della loro somma (quando la somma è scritta come una frazione irriducibile)?
 
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]], [[method_congruenze|Aritmetica modulare / congruenze]], [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta del testo]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 168
-[[Quesiti/src_canimath_2013_printemps#q04|src_canimath_2013_printemps__Q04]]
 
 
 
-<span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_aritmetica,topic_combinatoria,method_colorazione,method_casework,method_invarianti,skill_riconoscimento_pattern,skill_lettura_attenta,skill_modellizzazione"></span>
+<span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_aritmetica,topic_combinatoria,method_colorazione,method_casework,method_invarianti,method_congruenze,skill_riconoscimento_pattern,skill_lettura_attenta,skill_modellizzazione"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -78,9 +94,9 @@ level: Coupe Animath Printemps
 > For which values of $m$ and $n$ does the grasshopper change color at every step?
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
-**Metodo:** [[method_colorazione|Colorazione]], [[method_casework|Casework]], [[method_invarianti|Invarianti]]
+**Metodo:** [[method_colorazione|Colorazione]], [[method_casework|Casework]], [[method_invarianti|Invarianti]], [[method_congruenze|Modular arithmetic / congruences]]
 **Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_lettura_attenta|Lettura attenta]], [[skill_modellizzazione|Modellizzazione]]
-**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1GJ9JqOhPcXzoOSCUfuM6SokDJPUdw3gV/view)
 
 
@@ -93,14 +109,14 @@ level: Coupe Animath Printemps
 > 
 > Per quali valori di $m$ e $n$ cambia colore la scarafaggio ad ogni passo?
 
-[[Quesiti/src_canimath_2013_printemps#q05|src_canimath_2013_printemps__Q05]]
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_colorazione|Colorazione / parita]], [[method_casework|Analisi per casi]], [[method_invarianti|Invarianti / monovarianti]], [[method_congruenze|Aritmetica modulare / congruenze]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_lettura_attenta|Lettura attenta del testo]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 
 
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_combinatoria,topic_logica,method_casework,method_conteggio,method_estremalita,skill_conteggio_sistematico,skill_lettura_attenta,skill_modellizzazione,skill_casework_accurato"></span>
-
-<div class="qlang-switch" data-default="en"></div>
-
 
 *7-digit safe combination: open in at most 6 tries; find minimum tries*
 
@@ -119,8 +135,20 @@ level: Coupe Animath Printemps
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1GJ9JqOhPcXzoOSCUfuM6SokDJPUdw3gV/view)
 
 
-<div class="qlang-split" data-lang="it"></div>
 
+<span class="atom-split" id="q06__it" data-atom="q06__it" data-title="Q06__IT" data-tags=""></span>
+
+---
+tipo: quesito-translation
+translation_of: src_canimath_2013_printemps__Q06
+lang: it
+secondary: true
+title: "Coupe Animath Primavera 2013  Quesito 6"
+summary: "Combinazione sicura a 7 cifre: aperta in un massimo di 6 tentativi; trovare il minimo di tentativi"
+topics: [topic_combinatoria, topic_logica]
+methods: [method_casework, method_conteggio, method_estremalita]
+skills: [skill_conteggio_sistematico, skill_lettura_attenta, skill_modellizzazione, skill_casework_accurato]
+tags: [kg/translation, topic/combinatoria, topic/logica]---
 
 *combinata sicura a 7 cifre: aperta in un massimo di 6 tentativi; trovare il minimo di tentativi*
 
@@ -130,4 +158,8 @@ level: Coupe Animath Printemps
 > 
 > b) Qual è il numero minimo di tentativi richiesti per garantire l'apertura della casella forte, indipendentemente dal codice segreto?
 
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_logica|Logica, giochi, strategie]]
+**Metodo:** [[method_casework|Analisi per casi]], [[method_conteggio|Conteggio combinatorio]], [[method_estremalita|Principio di estremalita]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta del testo]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
 [[Quesiti/src_canimath_2013_printemps#q06|src_canimath_2013_printemps__Q06]]

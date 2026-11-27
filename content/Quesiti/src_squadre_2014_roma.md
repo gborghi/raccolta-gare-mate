@@ -10,7 +10,7 @@ level: squadre
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_funzionali"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_funzionali,method_ricorsione,skill_riconoscimento_pattern"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -22,9 +22,11 @@ level: squadre
 > Di una sequenza di numeri a\_1, a\_2, . . . , a\_n, . . . sappiamo che a\_1 = 1, a\_2 = ⁷√7 e che ciascuno dei successivi è il prodotto dei due che lo precedono. Quanto vale a\_9?
 
 **Topic:** [[topic_funzionali|Equazioni funzionali / successioni]]
+**Metodo:** [[method_ricorsione|Ricorsione]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Algebra e Analisi]]
 **Risposta:** 0343
-**Fonte:** apri PDF p.1 · phiquadro.it, Archivio gare ufficiali 2014 (Roma Tor Vergata - Qualificazione)
+**Fonte:** [apri PDF p.1](https://www.phiquadro.it/archivio/2014_27%20marzo%20-%20Roma.pdf#page=1) · phiquadro.it, Archivio gare ufficiali 2014 (Roma Tor Vergata - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -36,14 +38,15 @@ level: squadre
 
 > For a sequence of numbers a₁, a₂, ..., aₙ, ..., we know that a₁ = 1, a₂ = ⁷√7, and that each subsequent term is the product of the two terms preceding it. What is the value of a₉?
 
+
 **Topic:** [[topic_funzionali|Functional equations / sequences]]
+**Metodo:** [[method_ricorsione|Recursion]]
+**Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]]
 **Area:** [[Algebra e Analisi|Algebra and analysis]]
 
-[[Quesiti/src_squadre_2014_roma#q01|src_squadre_2014_roma__Q01]]
 
 
-
-<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_geometria_piana"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_geometria_piana,method_simmetria,skill_ragionamento_geometrico"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -56,9 +59,11 @@ level: squadre
 > Qual è (espressa in cm^2) l’area del cerchio più grande contenuto sia in Γ che in ABC.
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_simmetria|Sfruttamento della simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]]
 **Risposta:** 1260
-**Fonte:** apri PDF p.1 · phiquadro.it, Archivio gare ufficiali 2014 (Roma Tor Vergata - Qualificazione)
+**Fonte:** [apri PDF p.1](https://www.phiquadro.it/archivio/2014_27%20marzo%20-%20Roma.pdf#page=1) · phiquadro.it, Archivio gare ufficiali 2014 (Roma Tor Vergata - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -70,14 +75,15 @@ level: squadre
 
 > Given an equilateral triangle ABC with side length 2014 cm and a circle Γ centered at A with area 11340 cm². What is the area (expressed in cm²) of the largest circle contained both in Γ and in ABC?
 
+
 **Topic:** [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_simmetria|Using symmetry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
 **Area:** [[Geometria|Geometry]]
 
-[[Quesiti/src_squadre_2014_roma#q02|src_squadre_2014_roma__Q02]]
 
 
-
-<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_geometria_piana"></span>
+<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_geometria_piana,method_simmetria,skill_ragionamento_geometrico"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -91,9 +97,11 @@ level: squadre
 > piccole.
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_simmetria|Sfruttamento della simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]]
 **Risposta:** 2014
-**Fonte:** apri PDF p.1 · phiquadro.it, Archivio gare ufficiali 2014 (Roma Tor Vergata - Qualificazione)
+**Fonte:** [apri PDF p.1](https://www.phiquadro.it/archivio/2014_27%20marzo%20-%20Roma.pdf#page=1) · phiquadro.it, Archivio gare ufficiali 2014 (Roma Tor Vergata - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -105,14 +113,15 @@ level: squadre
 
 > In a regular octagon ABCDEFGH, all diagonals parallel to side AB or to side CD are drawn. In this way, the octagon is divided into 9 regions. Given that the area of the largest region is 2014 m², state the value (again expressed in m²) of the sum of the areas of the 4 smallest regions.
 
+
 **Topic:** [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_simmetria|Using symmetry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
 **Area:** [[Geometria|Geometry]]
 
-[[Quesiti/src_squadre_2014_roma#q03|src_squadre_2014_roma__Q03]]
 
 
-
-<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_combinatoria"></span>
+<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_combinatoria,topic_aritmetica,method_fattorizzazione,method_casi_conteggio,skill_conteggio_sistematico,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -123,10 +132,12 @@ level: squadre
 
 > In quanti modi diversi si può scrivere 30030 come prodotto di 5 numeri interi, positivi o negativi, diversi da 1 e −1?
 
-**Topic:** [[topic_combinatoria|Combinatoria]]
-**Area:** [[Combinatoria, Logica e Probabilita]]
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]], [[method_casi_conteggio|Conteggio per casi]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 0240
-**Fonte:** apri PDF p.1 · phiquadro.it, Archivio gare ufficiali 2014 (Roma Tor Vergata - Qualificazione)
+**Fonte:** [apri PDF p.1](https://www.phiquadro.it/archivio/2014_27%20marzo%20-%20Roma.pdf#page=1) · phiquadro.it, Archivio gare ufficiali 2014 (Roma Tor Vergata - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -138,14 +149,15 @@ level: squadre
 
 > In how many different ways can 30030 be written as the product of 5 integers, positive or negative, different from 1 and −1?
 
-**Topic:** [[topic_combinatoria|Combinatorics]]
-**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
-[[Quesiti/src_squadre_2014_roma#q04|src_squadre_2014_roma__Q04]]
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]], [[method_casi_conteggio|Counting by cases]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]], [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
 
 
-<span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_geometria_piana"></span>
+<span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_geometria_piana,method_simmetria,skill_ragionamento_geometrico"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -158,9 +170,11 @@ level: squadre
 > complessiva della parte di piano contenuta nel dodecagono ma esterna al quadrato è 2014cm^2, dire quanto vale in cm^2 l’area del quadrato.
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_simmetria|Sfruttamento della simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]]
 **Risposta:** 4028
-**Fonte:** apri PDF p.1 · phiquadro.it, Archivio gare ufficiali 2014 (Roma Tor Vergata - Qualificazione)
+**Fonte:** [apri PDF p.1](https://www.phiquadro.it/archivio/2014_27%20marzo%20-%20Roma.pdf#page=1) · phiquadro.it, Archivio gare ufficiali 2014 (Roma Tor Vergata - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -172,14 +186,15 @@ level: squadre
 
 > Given a regular dodecagon with vertices P_1P_2P_3...P_(12), consider the square formed by joining the vertices P_1P_4P_7P_(10). Given that the total area of the region of the plane contained within the dodecagon but outside the square is 2014 cm², state the area of the square in cm².
 
+
 **Topic:** [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_simmetria|Using symmetry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
 **Area:** [[Geometria|Geometry]]
 
-[[Quesiti/src_squadre_2014_roma#q05|src_squadre_2014_roma__Q05]]
 
 
-
-<span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_geometria_piana"></span>
+<span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_geometria_piana,topic_trigonometria,method_trigonometria,skill_ragionamento_geometrico"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -193,10 +208,12 @@ level: squadre
 > Proiettando ciascun vertice sulla retta passante per la diagonale a cui non appartiene, si ottengono i quattro punti A^′, B^′, C^′ e D^′.
 > Qual è (espressa in m^2) l’area del quadrilatero A^′B^′C^′D^′?
 
-**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometria]]
+**Metodo:** [[method_trigonometria|Tecniche trigonometriche]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]]
 **Risposta:** 1960
-**Fonte:** apri PDF p.1 · phiquadro.it, Archivio gare ufficiali 2014 (Roma Tor Vergata - Qualificazione)
+**Fonte:** [apri PDF p.1](https://www.phiquadro.it/archivio/2014_27%20marzo%20-%20Roma.pdf#page=1) · phiquadro.it, Archivio gare ufficiali 2014 (Roma Tor Vergata - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -208,14 +225,15 @@ level: squadre
 
 > Parallelogram ABCD has an area of 7840 m² and a perimeter of 2014 m. We also know that the diagonals intersect to form 2 angles of 60° and 2 angles of 120°. By projecting each vertex onto the line passing through the diagonal to which it does not belong, we obtain the four points A′, B′, C′, and D′. What is the area of quadrilateral A′B′C′D′ (expressed in m²)?
 
-**Topic:** [[topic_geometria_piana|Plane geometry]]
+
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_trigonometria|Trigonometry]]
+**Metodo:** [[method_trigonometria|Trigonometric techniques]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
 **Area:** [[Geometria|Geometry]]
 
-[[Quesiti/src_squadre_2014_roma#q06|src_squadre_2014_roma__Q06]]
 
 
-
-<span class="atom-split" id="q07" data-atom="q07" data-title="Quesito 7" data-tags="topic_algebra"></span>
+<span class="atom-split" id="q07" data-atom="q07" data-title="Quesito 7" data-tags="topic_algebra,method_ricorsione,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -227,9 +245,11 @@ level: squadre
 > Sapendo che x^8 + 1/x^8 = 47, dire quanto vale x^(10) + 1/x^(10). Se si ritiene che l’informazione fornita non sia sufficiente a rispondere, indicare come risposta 0.
 
 **Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_ricorsione|Ricorsione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta del testo]]
 **Area:** [[Algebra e Analisi]]
 **Risposta:** 0123
-**Fonte:** apri PDF p.1 · phiquadro.it, Archivio gare ufficiali 2014 (Roma Tor Vergata - Qualificazione)
+**Fonte:** [apri PDF p.1](https://www.phiquadro.it/archivio/2014_27%20marzo%20-%20Roma.pdf#page=1) · phiquadro.it, Archivio gare ufficiali 2014 (Roma Tor Vergata - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -241,14 +261,15 @@ level: squadre
 
 > Given that x^8 + 1/x^8 = 47, state the value of x^(10) + 1/x^(10). If you believe the information provided is insufficient to answer, indicate 0 as the answer.
 
+
 **Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_ricorsione|Recursion]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_lettura_attenta|Careful reading of the text]]
 **Area:** [[Algebra e Analisi|Algebra and analysis]]
 
-[[Quesiti/src_squadre_2014_roma#q07|src_squadre_2014_roma__Q07]]
 
 
-
-<span class="atom-split" id="q08" data-atom="q08" data-title="Quesito 8" data-tags="topic_combinatoria"></span>
+<span class="atom-split" id="q08" data-atom="q08" data-title="Quesito 8" data-tags="topic_combinatoria,method_ricorsione,skill_conteggio_sistematico,skill_riconoscimento_pattern"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -261,9 +282,11 @@ level: squadre
 > e 1 + 2 + 1 + 2 + 2 + 2 + 2 + 2 vanno considerati diversi e quindi contati entrambi)
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_ricorsione|Ricorsione]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0610
-**Fonte:** apri PDF p.1 · phiquadro.it, Archivio gare ufficiali 2014 (Roma Tor Vergata - Qualificazione)
+**Fonte:** [apri PDF p.1](https://www.phiquadro.it/archivio/2014_27%20marzo%20-%20Roma.pdf#page=1) · phiquadro.it, Archivio gare ufficiali 2014 (Roma Tor Vergata - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -275,14 +298,15 @@ level: squadre
 
 > Find how many ways the number 14 can be written as a sum of the numbers 1 and 2, taking order into account. (For example: 1+1+2+2+2+2+2+2 and 1 + 2 + 1 + 2 + 2 + 2 + 2 + 2 should be regarded as different and therefore both counted.)
 
+
 **Topic:** [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_ricorsione|Recursion]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]], [[skill_riconoscimento_pattern|Pattern recognition]]
 **Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
-[[Quesiti/src_squadre_2014_roma#q08|src_squadre_2014_roma__Q08]]
 
 
-
-<span class="atom-split" id="q09" data-atom="q09" data-title="Quesito 9" data-tags="topic_algebra"></span>
+<span class="atom-split" id="q09" data-atom="q09" data-title="Quesito 9" data-tags="topic_algebra,method_fattorizzazione,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -295,9 +319,11 @@ level: squadre
 > 1/x + 2/(x − 2) + 3/(x − 4) + 4/(x − 6) = −2.
 
 **Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Algebra e Analisi]]
 **Risposta:** 0849
-**Fonte:** apri PDF p.1 · phiquadro.it, Archivio gare ufficiali 2014 (Roma Tor Vergata - Qualificazione)
+**Fonte:** [apri PDF p.1](https://www.phiquadro.it/archivio/2014_27%20marzo%20-%20Roma.pdf#page=1) · phiquadro.it, Archivio gare ufficiali 2014 (Roma Tor Vergata - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -309,14 +335,15 @@ level: squadre
 
 > Determine the sum of the fourth powers of the real solutions of the following equation: 1/x + 2/(x − 2) + 3/(x − 4) + 4/(x − 6) = −2.
 
+
 **Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
 **Area:** [[Algebra e Analisi|Algebra and analysis]]
 
-[[Quesiti/src_squadre_2014_roma#q09|src_squadre_2014_roma__Q09]]
 
 
-
-<span class="atom-split" id="q10" data-atom="q10" data-title="Quesito 10" data-tags="topic_combinatoria"></span>
+<span class="atom-split" id="q10" data-atom="q10" data-title="Quesito 10" data-tags="topic_combinatoria,topic_aritmetica,method_congruenze,skill_modellizzazione"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -331,10 +358,12 @@ level: squadre
 > fila per 13, quelli che restano spaiati sono 7.
 > Quanti sono i soldati? (Se i dati forniti sono insufficienti a determinare il risultato, indicare come risposta 0)
 
-**Topic:** [[topic_combinatoria|Combinatoria]]
-**Area:** [[Combinatoria, Logica e Probabilita]]
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 0943
-**Fonte:** apri PDF p.1 · phiquadro.it, Archivio gare ufficiali 2014 (Roma Tor Vergata - Qualificazione)
+**Fonte:** [apri PDF p.1](https://www.phiquadro.it/archivio/2014_27%20marzo%20-%20Roma.pdf#page=1) · phiquadro.it, Archivio gare ufficiali 2014 (Roma Tor Vergata - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -346,14 +375,15 @@ level: squadre
 
 > Once the battle is over, Julius Caesar decides to count the survivors of the Tenth Legion, his favorite legion. With a quick glance, he immediately realizes that there are certainly fewer than 1,000 of them. To find out the exact number, he orders them to line up in groups of 7, but he finds that, once all the complete rows have been formed, there remains an incomplete row of 5 soldiers. If, on the other hand, he tries to line them up in groups of 11, 8 of them are left over. Finally, if he tries to line them up in groups of 13, 7 of them are left over. How many soldiers are there? (If the data provided are insufficient to determine the result, indicate 0 as the answer.)
 
-**Topic:** [[topic_combinatoria|Combinatorics]]
-**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
-[[Quesiti/src_squadre_2014_roma#q10|src_squadre_2014_roma__Q10]]
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
 
 
-<span class="atom-split" id="q11" data-atom="q11" data-title="Quesito 11" data-tags="topic_algebra"></span>
+<span class="atom-split" id="q11" data-atom="q11" data-title="Quesito 11" data-tags="topic_algebra,method_fattorizzazione,skill_manipolazione_algebrica,skill_riconoscimento_pattern"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -365,9 +395,11 @@ level: squadre
 > Sia dato il polinomio p(x, y) = x^8 + y^8 + 2x^2y^6 + 2x^6y^2 + 3x^4y^4. Trovare il più grande numero primo che divide p(17, 13).
 
 **Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Algebra e Analisi]]
 **Risposta:** 0097
-**Fonte:** apri PDF p.1 · phiquadro.it, Archivio gare ufficiali 2014 (Roma Tor Vergata - Qualificazione)
+**Fonte:** [apri PDF p.1](https://www.phiquadro.it/archivio/2014_27%20marzo%20-%20Roma.pdf#page=1) · phiquadro.it, Archivio gare ufficiali 2014 (Roma Tor Vergata - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -379,14 +411,15 @@ level: squadre
 
 > Let the polynomial p(x, y) = x^8 + y^8 + 2x^2y^6 + 2x^6y^2 + 3x^4y^4 be given. Find the largest prime number that divides p(17, 13).
 
+
 **Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_riconoscimento_pattern|Pattern recognition]]
 **Area:** [[Algebra e Analisi|Algebra and analysis]]
 
-[[Quesiti/src_squadre_2014_roma#q11|src_squadre_2014_roma__Q11]]
 
 
-
-<span class="atom-split" id="q12" data-atom="q12" data-title="Quesito 12" data-tags="topic_algebra"></span>
+<span class="atom-split" id="q12" data-atom="q12" data-title="Quesito 12" data-tags="topic_algebra,method_fattorizzazione,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -400,9 +433,11 @@ level: squadre
 > Trovare la somma dei quadrati delle radici reali di P(x + 1).
 
 **Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Algebra e Analisi]]
 **Risposta:** 4814
-**Fonte:** apri PDF p.1 · phiquadro.it, Archivio gare ufficiali 2014 (Roma Tor Vergata - Qualificazione)
+**Fonte:** [apri PDF p.1](https://www.phiquadro.it/archivio/2014_27%20marzo%20-%20Roma.pdf#page=1) · phiquadro.it, Archivio gare ufficiali 2014 (Roma Tor Vergata - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -414,14 +449,15 @@ level: squadre
 
 > For a polynomial P(x), we know that it has 2014 real roots, all distinct from one another. The sum of these roots is 100, while the sum of their squares is 3000. Find the sum of the squares of the real roots of P(x + 1).
 
+
 **Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
 **Area:** [[Algebra e Analisi|Algebra and analysis]]
 
-[[Quesiti/src_squadre_2014_roma#q12|src_squadre_2014_roma__Q12]]
 
 
-
-<span class="atom-split" id="q13" data-atom="q13" data-title="Quesito 13" data-tags="topic_geometria_piana"></span>
+<span class="atom-split" id="q13" data-atom="q13" data-title="Quesito 13" data-tags="topic_geometria_piana,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -436,9 +472,10 @@ level: squadre
 > rispettivamente, 2014cm^2 e 3740cm^2.
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 **Risposta:** 3402
-**Fonte:** apri PDF p.1 · phiquadro.it, Archivio gare ufficiali 2014 (Roma Tor Vergata - Qualificazione)
+**Fonte:** [apri PDF p.1](https://www.phiquadro.it/archivio/2014_27%20marzo%20-%20Roma.pdf#page=1) · phiquadro.it, Archivio gare ufficiali 2014 (Roma Tor Vergata - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -450,14 +487,14 @@ level: squadre
 
 > In square ABCD, two points P and Q are taken on side CD, distinct from the vertices, such that segments AP and BQ intersect at a point T inside the square. Find, in cm², the area of triangle ABT, given that the area of triangle PQT is 672 cm², while the areas of quadrilaterals BCPT and ATQD are 2014 cm² and 3740 cm², respectively.
 
+
 **Topic:** [[topic_geometria_piana|Plane geometry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
 **Area:** [[Geometria|Geometry]]
 
-[[Quesiti/src_squadre_2014_roma#q13|src_squadre_2014_roma__Q13]]
 
 
-
-<span class="atom-split" id="q14" data-atom="q14" data-title="Quesito 14" data-tags="topic_algebra"></span>
+<span class="atom-split" id="q14" data-atom="q14" data-title="Quesito 14" data-tags="topic_algebra,topic_aritmetica,method_congruenze,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -468,10 +505,12 @@ level: squadre
 
 > Del polinomio a coefficienti interi p(x) sappiamo che p(1) = 3 e p(2) = 7. Qual è il più piccolo valore positivo che può assumere p(2014)?
 
-**Topic:** [[topic_algebra|Algebra]]
-**Area:** [[Algebra e Analisi]]
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 8055
-**Fonte:** apri PDF p.1 · phiquadro.it, Archivio gare ufficiali 2014 (Roma Tor Vergata - Qualificazione)
+**Fonte:** [apri PDF p.1](https://www.phiquadro.it/archivio/2014_27%20marzo%20-%20Roma.pdf#page=1) · phiquadro.it, Archivio gare ufficiali 2014 (Roma Tor Vergata - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -483,14 +522,15 @@ level: squadre
 
 > For the polynomial p(x) with integer coefficients, we know that p(1) = 3 and p(2) = 7. What is the smallest positive value that p(2014) can take?
 
-**Topic:** [[topic_algebra|Algebra]]
-**Area:** [[Algebra e Analisi|Algebra and analysis]]
 
-[[Quesiti/src_squadre_2014_roma#q14|src_squadre_2014_roma__Q14]]
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
 
 
-<span class="atom-split" id="q15" data-atom="q15" data-title="Quesito 15" data-tags="topic_aritmetica"></span>
+<span class="atom-split" id="q15" data-atom="q15" data-title="Quesito 15" data-tags="topic_aritmetica,topic_combinatoria,method_fattorizzazione,method_conteggio,skill_conteggio_sistematico,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -502,10 +542,12 @@ level: squadre
 > Dire quante sono le terne di numeri interi (k, n, m), con 1 ≤ k ≤ n ≤ m, tali che il loro massimo comune divisore è 7, mentre il loro minimo
 > comune multiplo è 7.000.000.
 
-**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Area:** [[Aritmetica e Teoria dei Numeri]]
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]], [[method_conteggio|Conteggio combinatorio]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0218
-**Fonte:** apri PDF p.1 · phiquadro.it, Archivio gare ufficiali 2014 (Roma Tor Vergata - Qualificazione)
+**Fonte:** [apri PDF p.1](https://www.phiquadro.it/archivio/2014_27%20marzo%20-%20Roma.pdf#page=1) · phiquadro.it, Archivio gare ufficiali 2014 (Roma Tor Vergata - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -517,14 +559,15 @@ level: squadre
 
 > Determine how many triples of integers (k, n, m), with 1 ≤ k ≤ n ≤ m, exist such that their greatest common divisor is 7 and their least common multiple is 7,000,000.
 
-**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
-**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
-[[Quesiti/src_squadre_2014_roma#q15|src_squadre_2014_roma__Q15]]
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]], [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
 
 
-<span class="atom-split" id="q16" data-atom="q16" data-title="Quesito 16" data-tags="topic_algebra"></span>
+<span class="atom-split" id="q16" data-atom="q16" data-title="Quesito 16" data-tags="topic_algebra,topic_combinatoria,method_inclusione_esclusione,skill_conteggio_sistematico"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -537,10 +580,12 @@ level: squadre
 > x\_1 + x\_2 + x\_3 + x\_4 + x\_5 = 30
 > dove ciascun x\_k è un intero strettamente positivo tale che x\_k ≤ k(6 − k).
 
-**Topic:** [[topic_algebra|Algebra]]
-**Area:** [[Algebra e Analisi]]
+**Topic:** [[topic_algebra|Algebra]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_inclusione_esclusione|Inclusione-esclusione]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Algebra e Analisi]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0124
-**Fonte:** apri PDF p.1 · phiquadro.it, Archivio gare ufficiali 2014 (Roma Tor Vergata - Qualificazione)
+**Fonte:** [apri PDF p.1](https://www.phiquadro.it/archivio/2014_27%20marzo%20-%20Roma.pdf#page=1) · phiquadro.it, Archivio gare ufficiali 2014 (Roma Tor Vergata - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -552,14 +597,15 @@ level: squadre
 
 > Determine the number of solutions of the equation x_1 + x_2 + x_3 + x_4 + x_5 = 30, where each x_k is a strictly positive integer such that x_k ≤ k(6 − k).
 
-**Topic:** [[topic_algebra|Algebra]]
-**Area:** [[Algebra e Analisi|Algebra and analysis]]
 
-[[Quesiti/src_squadre_2014_roma#q16|src_squadre_2014_roma__Q16]]
+**Topic:** [[topic_algebra|Algebra]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_inclusione_esclusione|Inclusion–exclusion]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
 
 
-<span class="atom-split" id="q17" data-atom="q17" data-title="Quesito 17" data-tags="topic_combinatoria"></span>
+<span class="atom-split" id="q17" data-atom="q17" data-title="Quesito 17" data-tags="topic_combinatoria,topic_aritmetica,method_congruenze,skill_modellizzazione,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -574,10 +620,12 @@ level: squadre
 > non conterrà mai k milligrammi di caramelle.
 > Scrivere le ultime 4 cifre di k (cioè migliaia, centinaia, decine e unità). Se si ritiene che tale k non esista indicare come risposta 0.
 
-**Topic:** [[topic_combinatoria|Combinatoria]]
-**Area:** [[Combinatoria, Logica e Probabilita]]
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 5045
-**Fonte:** apri PDF p.1 · phiquadro.it, Archivio gare ufficiali 2014 (Roma Tor Vergata - Qualificazione)
+**Fonte:** [apri PDF p.1](https://www.phiquadro.it/archivio/2014_27%20marzo%20-%20Roma.pdf#page=1) · phiquadro.it, Archivio gare ufficiali 2014 (Roma Tor Vergata - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -589,14 +637,15 @@ level: squadre
 
 > A vending machine contains infinitely many candies of two types: those weighing 1024 milligrams (which come out when the white button is pressed) and those weighing 1003 milligrams (which come out when the black button is pressed). A child, pressing the white and black buttons multiple times as desired, takes some candies and puts them in their bag. Let k be the greatest positive integer such that, regardless of the sequence of buttons pressed by the child, the bag will never contain k milligrams of candies. Write the last 4 digits of k (that is, the thousands, hundreds, tens, and units digits). If one believes that such a k does not exist, indicate 0 as the answer.
 
-**Topic:** [[topic_combinatoria|Combinatorics]]
-**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
-[[Quesiti/src_squadre_2014_roma#q17|src_squadre_2014_roma__Q17]]
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
 
 
-<span class="atom-split" id="q18" data-atom="q18" data-title="Quesito 18" data-tags="topic_combinatoria"></span>
+<span class="atom-split" id="q18" data-atom="q18" data-title="Quesito 18" data-tags="topic_combinatoria,method_conteggio,skill_conteggio_sistematico"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -612,9 +661,11 @@ level: squadre
 > di n?
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_conteggio|Conteggio combinatorio]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0233
-**Fonte:** apri PDF p.1 · phiquadro.it, Archivio gare ufficiali 2014 (Roma Tor Vergata - Qualificazione)
+**Fonte:** [apri PDF p.1](https://www.phiquadro.it/archivio/2014_27%20marzo%20-%20Roma.pdf#page=1) · phiquadro.it, Archivio gare ufficiali 2014 (Roma Tor Vergata - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -626,14 +677,15 @@ level: squadre
 
 > A flea moves by jumping between the squares of a 4 × 4 chessboard: it starts from a corner square and, after 28 jumps between adjacent squares (that is, squares sharing a side), returns to the square from which it started. We know that, of the 28 jumps, exactly 7 are of each of the four possible types (up, down, right, left). If we denote by n the number of different paths the flea could have taken, what is the largest prime number that appears in the prime factorization of n?
 
+
 **Topic:** [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
 **Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
-[[Quesiti/src_squadre_2014_roma#q18|src_squadre_2014_roma__Q18]]
 
 
-
-<span class="atom-split" id="q19" data-atom="q19" data-title="Quesito 19" data-tags="topic_aritmetica"></span>
+<span class="atom-split" id="q19" data-atom="q19" data-title="Quesito 19" data-tags="topic_aritmetica,topic_combinatoria,method_congruenze,method_conteggio,skill_conteggio_sistematico,skill_lettura_attenta"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -648,10 +700,12 @@ level: squadre
 > Quante diverse configurazioni di palline possono capitare a Luca?
 > (Se il risultato fosse maggiore di 9999, indicare come risposta le 4 cifre più basse, cioè migliaia, centinaia, decine ed unità)
 
-**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Area:** [[Aritmetica e Teoria dei Numeri]]
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]], [[method_conteggio|Conteggio combinatorio]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta del testo]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0425
-**Fonte:** apri PDF p.2 · phiquadro.it, Archivio gare ufficiali 2014 (Roma Tor Vergata - Qualificazione)
+**Fonte:** [apri PDF p.2](https://www.phiquadro.it/archivio/2014_27%20marzo%20-%20Roma.pdf#page=2) · phiquadro.it, Archivio gare ufficiali 2014 (Roma Tor Vergata - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -663,14 +717,15 @@ level: squadre
 
 > Claudia has 5 baskets, each containing 97 balls numbered from 0 to 96. The balls in the first basket are blue, those in the second are green, and those in the third are red. The balls in the remaining two baskets are white. Claudia takes 5 balls (one from each basket), making sure to choose them so that their sum is 96, and puts them in a bag, which she then hands to Luca. How many different configurations of balls can Luca end up with? (If the result were greater than 9999, indicate as the answer the four lowest digits—that is, the thousands, hundreds, tens, and units digits.)
 
-**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
-**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
-[[Quesiti/src_squadre_2014_roma#q19|src_squadre_2014_roma__Q19]]
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]], [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]], [[skill_lettura_attenta|Careful reading of the text]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
 
 
-<span class="atom-split" id="q20" data-atom="q20" data-title="Quesito 20" data-tags="topic_combinatoria"></span>
+<span class="atom-split" id="q20" data-atom="q20" data-title="Quesito 20" data-tags="topic_combinatoria,method_ricorsione,skill_conteggio_sistematico"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -684,9 +739,11 @@ level: squadre
 > In quanti modi diversi posso ricoprire esattamente tutta la scacchiera usando le 15 tessere?
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_ricorsione|Ricorsione]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0571
-**Fonte:** apri PDF p.2 · phiquadro.it, Archivio gare ufficiali 2014 (Roma Tor Vergata - Qualificazione)
+**Fonte:** [apri PDF p.2](https://www.phiquadro.it/archivio/2014_27%20marzo%20-%20Roma.pdf#page=2) · phiquadro.it, Archivio gare ufficiali 2014 (Roma Tor Vergata - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -698,7 +755,8 @@ level: squadre
 
 > I have a rectangular 3×10 chessboard, whose squares are (obviously) square. I also have 15 identical domino tiles, sized so that each tile exactly covers two adjacent squares on the chessboard. In how many different ways can I cover the entire chessboard exactly using the 15 tiles?
 
-**Topic:** [[topic_combinatoria|Combinatorics]]
-**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
-[[Quesiti/src_squadre_2014_roma#q20|src_squadre_2014_roma__Q20]]
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_ricorsione|Recursion]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]

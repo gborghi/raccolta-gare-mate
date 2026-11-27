@@ -10,7 +10,7 @@ level: OBM Nível 1
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_aritmetica,method_casework,skill_modellizzazione,skill_manipolazione_algebrica"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_aritmetica,topic_algebra,method_casework,skill_modellizzazione,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -19,10 +19,10 @@ level: OBM Nível 1
 
 > Esmeralda's car tank has a capacity of 60 litres and contains a mixture of 20% alcohol and 80% gasoline, half-full. Esmeralda asked to add alcohol to the tank until the mixture became equal quantities of alcohol and gasoline. How many litres of alcohol should be added?
 
-**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
 **Metodo:** [[method_casework|Casework]]
 **Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
-**Area:** [[Aritmetica e Teoria dei Numeri]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Algebra e Analisi|Algebra and analysis]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1gYiltcl5jkGjbvEFnsTEBQeG5JYba4Pg/view)
 
 
@@ -33,16 +33,15 @@ level: OBM Nível 1
 
 > Il serbatoio dell'auto di Esmeralda ha una capacità di 60 litri ed è mezzo pieno di una miscela composta per il 20% da alcol e per l'80% da benzina. Esmeralda ha chiesto di aggiungere alcol al serbatoio finché la miscela non avesse contenuto quantità uguali di alcol e benzina. Quanti litri di alcol vanno aggiunti?
 
-**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
 **Metodo:** [[method_casework|Casework]]
 **Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
-**Area:** [[Aritmetica e Teoria dei Numeri]]
-
-[[Quesiti/src_obm_2005_n1_f2#q01|src_obm_2005_n1_f2__Q01]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 
 
 
-<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_aritmetica,topic_algebra,method_ricorsione,skill_riconoscimento_pattern,skill_manipolazione_algebrica"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_aritmetica,topic_algebra,topic_funzionali,method_ricorsione,skill_riconoscimento_pattern,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -51,10 +50,10 @@ level: OBM Nível 1
 
 > In the sequence of numbers $1, a, 2, b, c, d, \ldots$ the first term is $1$, the second term is $a$, the third term is $2$, the fourth term is $b$, and so on. It is known that this sequence has 2005 terms and that each term, from the third onward, is the arithmetic mean of the two preceding terms. What is the last (2005th) term of this sequence?
 
-**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]], [[topic_funzionali|Functional equations / sequences]]
 **Metodo:** [[method_ricorsione|Ricorsione]]
 **Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
-**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Algebra e Analisi|Algebra and analysis]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1gYiltcl5jkGjbvEFnsTEBQeG5JYba4Pg/view)
 
 
@@ -65,12 +64,11 @@ level: OBM Nível 1
 
 > Nella successione di numeri $1, a, 2, b, c, d, \ldots$ il primo termine è $1$, il secondo termine è $a$, il terzo termine è $2$, il quarto termine è $b$, e così via. Si sa che questa successione ha 2005 termini e che ciascun termine, a partire dal terzo, è la media aritmetica dei due termini precedenti. Qual è l'ultimo termine (il 2005º) di questa successione?
 
-**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]], [[topic_funzionali|Equazioni funzionali / successioni]]
 **Metodo:** [[method_ricorsione|Ricorsione]]
 **Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
-
-[[Quesiti/src_obm_2005_n1_f2#q02|src_obm_2005_n1_f2__Q02]]
 
 
 
@@ -102,8 +100,6 @@ level: OBM Nível 1
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 
-[[Quesiti/src_obm_2005_n1_f2#q03|src_obm_2005_n1_f2__Q03]]
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_aritmetica,topic_combinatoria,method_conteggio,method_casework,skill_conteggio_sistematico,skill_lettura_attenta,skill_ragionamento_geometrico"></span>
@@ -119,7 +115,7 @@ level: OBM Nível 1
 > 
 > (The arrangement is a staircase: row $k$ has $k$ squares, and she surrounds groups of rows with adhesive tape strips.)
 
-![[src_obm_2005_n1_f2__q04.png]]
+![[src_obm_2005_n1_f2__Q04.png]]
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_conteggio|Conteggio]], [[method_casework|Casework]]
@@ -139,18 +135,16 @@ level: OBM Nível 1
 >
 > (La disposizione è a scala: la riga $k$ ha $k$ caselle, e lei circonda gruppi di righe con strisce di nastro adesivo.)
 
-![[src_obm_2005_n1_f2__q04.png]]
+![[src_obm_2005_n1_f2__Q04.png]]
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_conteggio|Conteggio]], [[method_casework|Casework]]
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 
-[[Quesiti/src_obm_2005_n1_f2#q04|src_obm_2005_n1_f2__Q04]]
 
 
-
-<span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_combinatoria,method_casework,method_simmetria,skill_conteggio_sistematico,skill_ragionamento_geometrico"></span>
+<span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_combinatoria,topic_geometria_solida,method_casework,method_simmetria,skill_conteggio_sistematico,skill_ragionamento_geometrico,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -159,10 +153,10 @@ level: OBM Nível 1
 
 > Lara has equal cubes and wants to paint them in different ways, using the colour orange to paint each of the 6 faces. For two cubes that cannot be confused (i.e., one cannot be rotated to look identical to the other), for example, there is only one way to paint a cube with one orange face. How many differently painted cubes can she obtain?
 
-**Topic:** [[topic_combinatoria|Combinatoria]]
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_geometria_solida|Solid geometry]]
 **Metodo:** [[method_casework|Casework]], [[method_simmetria|Simmetria]]
-**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
-**Area:** [[Combinatoria, Logica e Probabilita]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Geometria|Geometry]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1gYiltcl5jkGjbvEFnsTEBQeG5JYba4Pg/view)
 
 
@@ -173,16 +167,15 @@ level: OBM Nível 1
 
 > Lara ha dei cubi identici e vuole dipingerli in modi diversi, usando il colore arancione per dipingere ciascuna delle 6 facce. Per due cubi che non possono essere confusi (cioè tali che uno non può essere ruotato per apparire identico all'altro), ad esempio, c'è un solo modo per dipingere un cubo con una faccia arancione. Quanti cubi dipinti in modi diversi può ottenere?
 
-**Topic:** [[topic_combinatoria|Combinatoria]]
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_geometria_solida|Geometria solida]]
 **Metodo:** [[method_casework|Casework]], [[method_simmetria|Simmetria]]
-**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
-**Area:** [[Combinatoria, Logica e Probabilita]]
-
-[[Quesiti/src_obm_2005_n1_f2#q05|src_obm_2005_n1_f2__Q05]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 
 
 
-<span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_geometria_solida,topic_aritmetica,method_casework,skill_modellizzazione,skill_manipolazione_algebrica,skill_ragionamento_geometrico"></span>
+<span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_geometria_solida,topic_aritmetica,topic_algebra,method_casework,method_fattorizzazione,skill_modellizzazione,skill_manipolazione_algebrica,skill_ragionamento_geometrico"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -191,12 +184,12 @@ level: OBM Nível 1
 
 > A carpenter makes wooden open boxes (open at the top) using two rectangular planks of $600\,\text{cm}^2$ each, two rectangular planks of $1200\,\text{cm}^2$ each, and one rectangular plank of $800\,\text{cm}^2$, as shown in the figure. What is the volume, in litres, of the box? Note that $1\,\text{litre} = 1000\,\text{cm}^3$.
 
-![[src_obm_2005_n1_f2__q06.png]]
+![[src_obm_2005_n1_f2__Q06.png]]
 
-**Topic:** [[topic_geometria_solida|Geometria solida]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_casework|Casework]]
+**Topic:** [[topic_geometria_solida|Geometria solida]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_casework|Casework]], [[method_fattorizzazione|Factorisation / algebraic manipulation]]
 **Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
-**Area:** [[Geometria]], [[Aritmetica e Teoria dei Numeri]]
+**Area:** [[Geometria|Geometry]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Algebra e Analisi|Algebra and analysis]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1gYiltcl5jkGjbvEFnsTEBQeG5JYba4Pg/view)
 
 
@@ -207,14 +200,13 @@ level: OBM Nível 1
 
 > Un falegname realizza scatole di legno aperte (aperte in alto) utilizzando due assi rettangolari di $600\,\text{cm}^2$ ciascuna, due assi rettangolari di $1200\,\text{cm}^2$ ciascuna e un'asse rettangolare di $800\,\text{cm}^2$, come mostrato nella figura. Qual è il volume, in litri, della scatola? Si noti che $1\,\text{litre} = 1000\,\text{cm}^3$.
 
-![[src_obm_2005_n1_f2__q06.png]]
+![[src_obm_2005_n1_f2__Q06.png]]
 
-**Topic:** [[topic_geometria_solida|Geometria solida]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_casework|Casework]]
+
+**Topic:** [[topic_geometria_solida|Geometria solida]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_casework|Casework]], [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
 **Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
-**Area:** [[Geometria]], [[Aritmetica e Teoria dei Numeri]]
-
-[[Quesiti/src_obm_2005_n1_f2#q06|src_obm_2005_n1_f2__Q06]]
+**Area:** [[Geometria]], [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 
 
 
@@ -227,7 +219,7 @@ level: OBM Nível 1
 
 > Four equal pieces, each in the shape of a right triangle, were arranged in two different ways, as shown in the figures. The squares $ABCD$ and $EFGH$ have sides equal to $3\,\text{cm}$ and $9\,\text{cm}$ respectively. Calculate the areas of squares $IJKL$ and $MNOP$.
 
-![[src_obm_2005_n1_f2__q07.png]]
+![[src_obm_2005_n1_f2__Q07.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_coordinate|Coordinate]], [[method_simmetria|Simmetria]]
@@ -243,14 +235,12 @@ level: OBM Nível 1
 
 > Quattro pezzi uguali, ciascuno a forma di triangolo rettangolo, sono stati disposti in due modi diversi, come mostrato nelle figure. I quadrati $ABCD$ e $EFGH$ hanno lati rispettivamente uguali a $3\,\text{cm}$ e $9\,\text{cm}$. Calcola le aree dei quadrati $IJKL$ e $MNOP$.
 
-![[src_obm_2005_n1_f2__q07.png]]
+![[src_obm_2005_n1_f2__Q07.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_coordinate|Coordinate]], [[method_simmetria|Simmetria]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
-
-[[Quesiti/src_obm_2005_n1_f2#q07|src_obm_2005_n1_f2__Q07]]
 
 
 
@@ -282,11 +272,9 @@ level: OBM Nível 1
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 
-[[Quesiti/src_obm_2005_n1_f2#q08|src_obm_2005_n1_f2__Q08]]
 
 
-
-<span class="atom-split" id="q09" data-atom="q09" data-title="Quesito 9" data-tags="topic_combinatoria,topic_logica,method_grafi,method_casework,method_invarianti,skill_conteggio_sistematico,skill_ragionamento_geometrico,skill_astrazione"></span>
+<span class="atom-split" id="q09" data-atom="q09" data-title="Quesito 9" data-tags="topic_combinatoria,topic_logica,method_grafi,method_casework,method_invarianti,method_conteggio,skill_conteggio_sistematico,skill_ragionamento_geometrico,skill_astrazione"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -299,12 +287,12 @@ level: OBM Nível 1
 > 
 > (b) Explain why it is not possible to do the same with all 10 pieces formed only by the numbers 1, 2, 3 and 4.
 
-![[src_obm_2005_n1_f2__q09.png]]
+![[src_obm_2005_n1_f2__Q09.png]]
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_logica|Logica]]
-**Metodo:** [[method_grafi|Grafi]], [[method_casework|Casework]], [[method_invarianti|Invarianti]]
+**Metodo:** [[method_grafi|Grafi]], [[method_casework|Casework]], [[method_invarianti|Invarianti]], [[method_conteggio|Combinatorial counting]]
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_astrazione|Astrazione]]
-**Area:** [[Combinatoria, Logica e Probabilita]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1gYiltcl5jkGjbvEFnsTEBQeG5JYba4Pg/view)
 
 
@@ -319,11 +307,10 @@ level: OBM Nível 1
 >
 > (b) Spiega perché non è possibile fare lo stesso con tutti e 10 i pezzi formati esclusivamente dai numeri 1, 2, 3 e 4.
 
-![[src_obm_2005_n1_f2__q09.png]]
+![[src_obm_2005_n1_f2__Q09.png]]
+
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_logica|Logica]]
-**Metodo:** [[method_grafi|Grafi]], [[method_casework|Casework]], [[method_invarianti|Invarianti]]
+**Metodo:** [[method_grafi|Grafi]], [[method_casework|Casework]], [[method_invarianti|Invarianti]], [[method_conteggio|Conteggio combinatorio]]
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_astrazione|Astrazione]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
-
-[[Quesiti/src_obm_2005_n1_f2#q09|src_obm_2005_n1_f2__Q09]]

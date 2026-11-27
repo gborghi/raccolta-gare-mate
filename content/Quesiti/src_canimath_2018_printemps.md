@@ -12,9 +12,6 @@ level: Coupe Animath Printemps
 
 <span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_combinatoria,method_grafi,method_casework,skill_conteggio_sistematico,skill_casework_accurato,skill_ragionamento_geometrico"></span>
 
-<div class="qlang-switch" data-default="en"></div>
-
-
 *12 numbered chairs, grasshopper jumps exactly 4 numbers*
 
 > 12 chairs are numbered 1 to 12. A grasshopper can jump from chair $k$ to chair $n$ if $k - n$ is one of the four numbers $-8, -5, 5, 8$. On each jump it visits each chair exactly once.
@@ -28,8 +25,20 @@ level: Coupe Animath Printemps
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1YqDAuS3Ood85eEE-bNaBOuHdba8oLqm-/view)
 
 
-<div class="qlang-split" data-lang="it"></div>
 
+<span class="atom-split" id="q01__it" data-atom="q01__it" data-title="Q01__IT" data-tags=""></span>
+
+---
+tipo: quesito-translation
+translation_of: src_canimath_2018_printemps__Q01
+lang: it
+secondary: true
+title: "Coupe Animath Primavera 2018  Quesito 1"
+summary: "12 poltrone numerate, scarafaggio salta esattamente 4 numeri"
+topics: [topic_combinatoria]
+methods: [method_grafi, method_casework]
+skills: [skill_conteggio_sistematico, skill_casework_accurato, skill_ragionamento_geometrico]
+tags: [kg/translation, topic/combinatoria]---
 
 *12 sedie numerate, salti di scarafaggio esattamente 4 numeri*
 
@@ -37,14 +46,15 @@ level: Coupe Animath Printemps
 > 
 > a) Trovare tutte le posizioni iniziali possibili.
 
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_grafi|Teoria dei grafi]], [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
 [[Quesiti/src_canimath_2018_printemps#q01|src_canimath_2018_printemps__Q01]]
 
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_algebra,topic_disuguaglianze,method_disuguaglianze,skill_manipolazione_algebrica,skill_ragionamento_geometrico"></span>
-
-<div class="qlang-switch" data-default="en"></div>
-
 
 *Compare two sums A and B involving reciprocals*
 
@@ -59,8 +69,20 @@ level: Coupe Animath Printemps
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1YqDAuS3Ood85eEE-bNaBOuHdba8oLqm-/view)
 
 
-<div class="qlang-split" data-lang="it"></div>
 
+<span class="atom-split" id="q02__it" data-atom="q02__it" data-title="Q02__IT" data-tags=""></span>
+
+---
+tipo: quesito-translation
+translation_of: src_canimath_2018_printemps__Q02
+lang: it
+secondary: true
+title: "Coupe Animath Primavera 2018  Quesito 2"
+summary: "Confrontare due somme A e B che comportano reciprocità"
+topics: [topic_algebra, topic_disuguaglianze]
+methods: [method_disuguaglianze]
+skills: [skill_manipolazione_algebrica, skill_ragionamento_geometrico]
+tags: [kg/translation, topic/algebra, topic/disuguaglianze]---
 
 *Compare due somme A e B che comportano reciprocità*
 
@@ -68,11 +90,15 @@ level: Coupe Animath Printemps
 > 
 > b) Let $A = (1 + 1/2 + 1/3 + \cdots + 1/2017)/2017$ e $B = (1 + 1/2 + 1/3 + \cdots + 1/2018)/2018$. Mostra che $A > B$.
 
+**Topic:** [[topic_algebra|Algebra]], [[topic_disuguaglianze|Disuguaglianze]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze classiche]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Algebra e Analisi]]
 [[Quesiti/src_canimath_2018_printemps#q02|src_canimath_2018_printemps__Q02]]
 
 
 
-<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_aritmetica,method_casework,method_fattorizzazione,skill_lettura_attenta,skill_manipolazione_algebrica,skill_conteggio_sistematico"></span>
+<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_aritmetica,method_casework,method_fattorizzazione,method_congruenze,skill_lettura_attenta,skill_manipolazione_algebrica,skill_conteggio_sistematico"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -82,9 +108,9 @@ level: Coupe Animath Printemps
 > Let $n$ be a positive integer. Write $1 = d_1 < d_2 < \cdots < d_k = n$ for its divisors. We are given that $n = d_1^2 + d_2^2$. Determine all possible values of $n$.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_casework|Casework]], [[method_fattorizzazione|Fattorizzazione]]
+**Metodo:** [[method_casework|Casework]], [[method_fattorizzazione|Fattorizzazione]], [[method_congruenze|Modular arithmetic / congruences]]
 **Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]]
-**Area:** [[Aritmetica e Teoria dei Numeri]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1YqDAuS3Ood85eEE-bNaBOuHdba8oLqm-/view)
 
 
@@ -95,11 +121,14 @@ level: Coupe Animath Printemps
 
 > $n$ sia un numero intero positivo. Scrivere $1 = d_1 < d_2 < \cdots < d_k = n$ per i suoi divisori. Ci viene data quella $n = d_1^2 + d_2^2$. Determinare tutti i possibili valori di $n$.
 
-[[Quesiti/src_canimath_2018_printemps#q03|src_canimath_2018_printemps__Q03]]
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Analisi per casi]], [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]], [[method_congruenze|Aritmetica modulare / congruenze]]
+**Abilita:** [[skill_lettura_attenta|Lettura attenta del testo]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
 
 
 
-<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_algebra,topic_aritmetica,method_casework,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
+<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_algebra,topic_aritmetica,method_casework,method_fattorizzazione,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -109,9 +138,9 @@ level: Coupe Animath Printemps
 > Find all real numbers $a$ such that $a + \frac{1}{2}$ and $\frac{1}{a} - \frac{1}{2}$ are both integers.
 
 **Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_casework|Casework]]
+**Metodo:** [[method_casework|Casework]], [[method_fattorizzazione|Factorisation / algebraic manipulation]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
-**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1YqDAuS3Ood85eEE-bNaBOuHdba8oLqm-/view)
 
 
@@ -122,14 +151,14 @@ level: Coupe Animath Printemps
 
 > Trova tutti i numeri reali $a$ in modo tale che $a + \frac{1}{2}$ e $\frac{1}{a} - \frac{1}{2}$ siano entrambe enti.
 
-[[Quesiti/src_canimath_2018_printemps#q04|src_canimath_2018_printemps__Q04]]
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Analisi per casi]], [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta del testo]]
+**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 
 
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_geometria_piana,method_coordinate,method_trigonometria,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
-
-<div class="qlang-switch" data-default="en"></div>
-
 
 *Two points on semicircle of diameter AD with AB=BC=1, find CD*
 
@@ -142,21 +171,34 @@ level: Coupe Animath Printemps
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1YqDAuS3Ood85eEE-bNaBOuHdba8oLqm-/view)
 
 
-<div class="qlang-split" data-lang="it"></div>
 
+<span class="atom-split" id="q05__it" data-atom="q05__it" data-title="Q05__IT" data-tags=""></span>
+
+---
+tipo: quesito-translation
+translation_of: src_canimath_2018_printemps__Q05
+lang: it
+secondary: true
+title: "Coupe Animath Primavera 2018  Quesito 5"
+summary: "Due punti su un semicircolo di diametro AD con AB=BC=1, trovi CD"
+topics: [topic_geometria_piana]
+methods: [method_coordinate, method_trigonometria]
+skills: [skill_ragionamento_geometrico, skill_manipolazione_algebrica]
+tags: [kg/translation, topic/geometria_piana]---
 
 *Due punti su un semicircolo di diametro AD con AB=BC=1, trovi CD*
 
 > Su un semicircolo di diametro $[AD]$, collocare due punti $B$ e $C$ in modo tale che $AB = BC = 1$. Supponiamo $AD = 3$. Calcolare la lunghezza $CD$.
 
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_coordinate|Metodo delle coordinate]], [[method_trigonometria|Tecniche trigonometriche]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
 [[Quesiti/src_canimath_2018_printemps#q05|src_canimath_2018_printemps__Q05]]
 
 
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_combinatoria,topic_algebra,method_estremalita,method_casework,skill_ragionamento_geometrico,skill_conteggio_sistematico,skill_manipolazione_algebrica"></span>
-
-<div class="qlang-switch" data-default="en"></div>
-
 
 *Find smallest N with 125 distinct elements satisfying two conditions*
 
@@ -173,8 +215,20 @@ level: Coupe Animath Printemps
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1YqDAuS3Ood85eEE-bNaBOuHdba8oLqm-/view)
 
 
-<div class="qlang-split" data-lang="it"></div>
 
+<span class="atom-split" id="q06__it" data-atom="q06__it" data-title="Q06__IT" data-tags=""></span>
+
+---
+tipo: quesito-translation
+translation_of: src_canimath_2018_printemps__Q06
+lang: it
+secondary: true
+title: "Coupe Animath Primavera 2018  Quesito 6"
+summary: "Trova la N più piccola con 125 elementi distinti che soddisfano due condizioni"
+topics: [topic_combinatoria, topic_algebra]
+methods: [method_estremalita, method_casework]
+skills: [skill_ragionamento_geometrico, skill_conteggio_sistematico, skill_manipolazione_algebrica]
+tags: [kg/translation, topic/combinatoria, topic/algebra]---
 
 *Ricerca la N più piccola con 125 elementi distinti che soddisfano due condizioni*
 
@@ -182,14 +236,15 @@ level: Coupe Animath Printemps
 > 
 > N.B. La media aritmetica di $a$ e $b$ è il numero $\dfrac{a+b}{2}$.
 
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_estremalita|Principio di estremalita]], [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Algebra e Analisi]]
 [[Quesiti/src_canimath_2018_printemps#q06|src_canimath_2018_printemps__Q06]]
 
 
 
 <span class="atom-split" id="q07" data-atom="q07" data-title="Quesito 7" data-tags="topic_geometria_piana,method_coordinate,method_simmetria,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
-
-<div class="qlang-switch" data-default="en"></div>
-
 
 *Trapezoid ABCD, diagonals meet at E, line through E parallel to AB meets AD at F, show angle BFC=90*
 
@@ -202,18 +257,34 @@ level: Coupe Animath Printemps
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1YqDAuS3Ood85eEE-bNaBOuHdba8oLqm-/view)
 
 
-<div class="qlang-split" data-lang="it"></div>
 
+<span class="atom-split" id="q07__it" data-atom="q07__it" data-title="Q07__IT" data-tags=""></span>
+
+---
+tipo: quesito-translation
+translation_of: src_canimath_2018_printemps__Q07
+lang: it
+secondary: true
+title: "Coupe Animath Primavera 2018  Quesito 7"
+summary: "Trapezoide ABCD, diagonali incontrano a E, linea attraverso E parallela a AB incontra AD a F, angolo di mostra BFC=90"
+topics: [topic_geometria_piana]
+methods: [method_coordinate, method_simmetria]
+skills: [skill_ragionamento_geometrico, skill_manipolazione_algebrica]
+tags: [kg/translation, topic/geometria_piana]---
 
 *ABCD trapezoide, diagonali che si incontrano a E, linea attraverso E parallela ad AB che si incontrano ad AD a F, angolo di mostra BFC=90*
 
 > $ABCD$ sia un trapezoide con $AB + CD = AD$. Le diagonali $(AC)$ e $(BD)$ si incontrano in un punto $E$. La linea attraverso $E$ parallela a $(AB)$ incontra $(AD)$ al punto $F$. Mostra che $\widehat{BFC} = 90^\circ$.
 
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_coordinate|Metodo delle coordinate]], [[method_simmetria|Sfruttamento della simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
 [[Quesiti/src_canimath_2018_printemps#q07|src_canimath_2018_printemps__Q07]]
 
 
 
-<span class="atom-split" id="q08" data-atom="q08" data-title="Quesito 8" data-tags="topic_combinatoria,topic_geometria_piana,method_casework,method_estremalita,method_invarianti,skill_ragionamento_geometrico,skill_lettura_attenta,skill_modellizzazione,skill_casework_accurato"></span>
+<span class="atom-split" id="q08" data-atom="q08" data-title="Quesito 8" data-tags="topic_combinatoria,topic_geometria_piana,topic_logica,topic_disuguaglianze,method_casework,method_estremalita,method_invarianti,method_disuguaglianze,skill_ragionamento_geometrico,skill_lettura_attenta,skill_modellizzazione,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -222,10 +293,10 @@ level: Coupe Animath Printemps
 
 > Daphné and Loïs have three bars of length 1 metre each: one white, one blue, and one red. Daphné cuts each of the first two bars into three pieces, and Loïs cuts the third bar into three pieces. Is it possible for Daphné to arrange things so that, regardless of what Loïs does, she is certain to be able to form three triangles (non-degenerate) with the nine pieces obtained, such that each triangle has one side of each colour?
 
-**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_geometria_piana|Geometria piana]]
-**Metodo:** [[method_casework|Casework]], [[method_estremalita|Estremalità]], [[method_invarianti|Invarianti]]
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_geometria_piana|Geometria piana]], [[topic_logica|Logic, games and strategies]], [[topic_disuguaglianze|Inequalities]]
+**Metodo:** [[method_casework|Casework]], [[method_estremalita|Estremalità]], [[method_invarianti|Invarianti]], [[method_disuguaglianze|Classical inequalities]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_modellizzazione|Modellizzazione]], [[skill_casework_accurato|Casework accurato]]
-**Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Geometria|Geometry]], [[Algebra e Analisi|Algebra and analysis]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1YqDAuS3Ood85eEE-bNaBOuHdba8oLqm-/view)
 
 
@@ -236,4 +307,7 @@ Tre barre tagliate in pezzi; Daphne può garantire un triangolo di ogni colore?
 
 > Daphné e Loïs hanno tre barre di 1 metro di lunghezza ciascuna: una bianca, una blu e una rossa. Daphné taglia ciascuno dei primi due bastoni in tre pezzi, e Loïs taglia il terzo bastone in tre pezzi. È possibile che Daphné organizzi le cose in modo che, indipendentemente da ciò che Loïs fa, sia sicura di poter formare tre triangoli (non degenerati) con i nove pezzi ottenuti, in modo che ogni triangolo abbia un lato di ogni colore?
 
-[[Quesiti/src_canimath_2018_printemps#q08|src_canimath_2018_printemps__Q08]]
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_geometria_piana|Geometria piana]], [[topic_logica|Logica, giochi, strategie]], [[topic_disuguaglianze|Disuguaglianze]]
+**Metodo:** [[method_casework|Analisi per casi]], [[method_estremalita|Principio di estremalita]], [[method_invarianti|Invarianti / monovarianti]], [[method_disuguaglianze|Disuguaglianze classiche]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta del testo]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]], [[Algebra e Analisi]]

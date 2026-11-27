@@ -41,11 +41,9 @@ level: Finale Nazionale Campionati Internazionali di Giochi Matematici
 **Abilita:** [[skill_lettura_attenta|Careful reading of the text]], [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_conteggio_sistematico|Systematic counting]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
-[[Quesiti/src_bocconi_finalenaz_2007#q01|src_bocconi_finalenaz_2007__Q01]]
 
 
-
-<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_aritmetica,topic_algebra,method_backward,method_casework,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_aritmetica,topic_algebra,method_backward,method_casework,skill_manipolazione_algebrica,skill_lettura_attenta,skill_modellizzazione,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -55,11 +53,11 @@ level: Finale Nazionale Campionati Internazionali di Giochi Matematici
 > DA 1 A 2007
 > Scrivete i numeri 2; 2002; 2003; 2004; 2005 e 2006 nelle caselle della figura in modo che ogni numero scritto in un rettangolo sia la somma dei due numeri con i quali è direttamente collegato.
 
-![[src_bocconi_finalenaz_2007__q02.png]]
+![[src_bocconi_finalenaz_2007__Q02.png]]
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
 **Metodo:** [[method_backward|Backward]], [[method_casework|Casework]]
-**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 **Risposta:** Schema completato (vedere figura della soluzione)
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1BBdv980dO4OBpz4LarvITpk0aFQiW8ZW/view)
@@ -73,18 +71,17 @@ level: Finale Nazionale Campionati Internazionali di Giochi Matematici
 > DA 1 A 2007
 > Write the numbers 2; 2002; 2003; 2004; 2005 and 2006 in the boxes in the figure so that each number written in a rectangle is the sum of the two numbers it is directly connected to.
 
-![[src_bocconi_finalenaz_2007__q02.png]]
+![[src_bocconi_finalenaz_2007__Q02.png]]
+
 
 **Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_algebra|Algebra]]
 **Metodo:** [[method_backward|Working backwards]], [[method_casework|Case analysis]]
-**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_lettura_attenta|Careful reading of the text]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_lettura_attenta|Careful reading of the text]], [[skill_modellizzazione|Modelling / translating the text]], [[skill_casework_accurato|Careful case analysis]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Algebra e Analisi|Algebra and analysis]]
 
-[[Quesiti/src_bocconi_finalenaz_2007#q02|src_bocconi_finalenaz_2007__Q02]]
 
 
-
-<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_algebra,topic_aritmetica,method_backward,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
+<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_algebra,topic_aritmetica,method_backward,skill_manipolazione_algebrica,skill_lettura_attenta,skill_modellizzazione"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -98,7 +95,7 @@ level: Finale Nazionale Campionati Internazionali di Giochi Matematici
 
 **Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_backward|Backward]]
-**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 28 stelle
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1BBdv980dO4OBpz4LarvITpk0aFQiW8ZW/view)
@@ -112,16 +109,15 @@ level: Finale Nazionale Campionati Internazionali di Giochi Matematici
 > "SEEING THE STARS"
 > While passing the new wheeled saucers, Luca fell and got quite a bump! From the pain, he really saw stars! In such cases, the French say they always see 36. Luca, however, rubbing his knee, thinks: "If I subtracted from the number of stars I saw half of the number of stars needed to reach 36, I'd get 24." How many stars did Luca see?
 
+
 **Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Arithmetic / Number theory]]
 **Metodo:** [[method_backward|Working backwards]]
-**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_lettura_attenta|Careful reading of the text]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_lettura_attenta|Careful reading of the text]], [[skill_modellizzazione|Modelling / translating the text]]
 **Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
-[[Quesiti/src_bocconi_finalenaz_2007#q03|src_bocconi_finalenaz_2007__Q03]]
 
 
-
-<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_algebra,method_backward,skill_manipolazione_algebrica"></span>
+<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_algebra,method_backward,skill_manipolazione_algebrica,skill_modellizzazione,skill_lettura_attenta"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -134,7 +130,7 @@ level: Finale Nazionale Campionati Internazionali di Giochi Matematici
 
 **Topic:** [[topic_algebra|Algebra]]
 **Metodo:** [[method_backward|Backward]]
-**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_lettura_attenta|Lettura attenta del testo]]
 **Area:** [[Algebra e Analisi]]
 **Risposta:** 1250 g
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1BBdv980dO4OBpz4LarvITpk0aFQiW8ZW/view)
@@ -148,16 +144,15 @@ level: Finale Nazionale Campionati Internazionali di Giochi Matematici
 > Heavy as a brick
 > A brick weighs 1 kg plus one fifth of its own weight. How much does the brick weigh (in grams)?
 
+
 **Topic:** [[topic_algebra|Algebra]]
 **Metodo:** [[method_backward|Working backwards]]
-**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_modellizzazione|Modelling / translating the text]], [[skill_lettura_attenta|Careful reading of the text]]
 **Area:** [[Algebra e Analisi|Algebra and analysis]]
 
-[[Quesiti/src_bocconi_finalenaz_2007#q04|src_bocconi_finalenaz_2007__Q04]]
 
 
-
-<span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_algebra,method_backward,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
+<span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_algebra,method_backward,skill_manipolazione_algebrica,skill_lettura_attenta,skill_modellizzazione"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -170,7 +165,7 @@ level: Finale Nazionale Campionati Internazionali di Giochi Matematici
 
 **Topic:** [[topic_algebra|Algebra]]
 **Metodo:** [[method_backward|Backward]]
-**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
 **Area:** [[Algebra e Analisi]]
 **Risposta:** 24 penne
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1BBdv980dO4OBpz4LarvITpk0aFQiW8ZW/view)
@@ -184,12 +179,11 @@ level: Finale Nazionale Campionati Internazionali di Giochi Matematici
 > Le Penne
 > Carla says to Milena, "If you give me 4 pens, I'll have twice as many as you. But if you give me 4 pens, you'll be the one who has twice as many as I do." How many pens do Carla and Milena have together?
 
+
 **Topic:** [[topic_algebra|Algebra]]
 **Metodo:** [[method_backward|Working backwards]]
-**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_lettura_attenta|Careful reading of the text]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_lettura_attenta|Careful reading of the text]], [[skill_modellizzazione|Modelling / translating the text]]
 **Area:** [[Algebra e Analisi|Algebra and analysis]]
-
-[[Quesiti/src_bocconi_finalenaz_2007#q05|src_bocconi_finalenaz_2007__Q05]]
 
 
 
@@ -206,7 +200,7 @@ level: Finale Nazionale Campionati Internazionali di Giochi Matematici
 > - i numeri di ogni riga siano sistemati in ordine crescente da sinistra a destra;
 > - i numeri della colonna di sinistra siano sistemati in ordine crescente dall'alto verso il basso.
 
-![[src_bocconi_finalenaz_2007__q06.png]]
+![[src_bocconi_finalenaz_2007__Q06.png]]
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_casework|Casework]]
@@ -226,18 +220,16 @@ level: Finale Nazionale Campionati Internazionali di Giochi Matematici
 > - The numbers in each row should be arranged in ascending order from left to right;
 > - The numbers in the left-hand column should be arranged in ascending order from top to bottom.
 
-![[src_bocconi_finalenaz_2007__q06.png]]
+![[src_bocconi_finalenaz_2007__Q06.png]]
 
 **Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_combinatoria|Combinatorics]]
 **Metodo:** [[method_casework|Case analysis]]
 **Abilita:** [[skill_conteggio_sistematico|Systematic counting]], [[skill_lettura_attenta|Careful reading of the text]], [[skill_casework_accurato|Careful case analysis]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
-[[Quesiti/src_bocconi_finalenaz_2007#q06|src_bocconi_finalenaz_2007__Q06]]
 
 
-
-<span class="atom-split" id="q07" data-atom="q07" data-title="Quesito 7" data-tags="topic_algebra,topic_aritmetica,method_backward,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
+<span class="atom-split" id="q07" data-atom="q07" data-title="Quesito 7" data-tags="topic_algebra,topic_aritmetica,method_backward,skill_manipolazione_algebrica,skill_lettura_attenta,skill_modellizzazione"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -250,7 +242,7 @@ level: Finale Nazionale Campionati Internazionali di Giochi Matematici
 
 **Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_backward|Backward]]
-**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 24 caramelle verdi
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1BBdv980dO4OBpz4LarvITpk0aFQiW8ZW/view)
@@ -264,16 +256,15 @@ level: Finale Nazionale Campionati Internazionali di Giochi Matematici
 > The caramels are yellow and green.
 > A box contains yellow candies (lemon-flavored) and green candies (mint-flavored). If we added one yellow candy, the yellow candies would make up a quarter of the contents of the box; whereas if we removed one, they would make up only a fifth of the contents of the box. How many green candies are in the box?
 
+
 **Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Arithmetic / Number theory]]
 **Metodo:** [[method_backward|Working backwards]]
-**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_lettura_attenta|Careful reading of the text]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_lettura_attenta|Careful reading of the text]], [[skill_modellizzazione|Modelling / translating the text]]
 **Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
-[[Quesiti/src_bocconi_finalenaz_2007#q07|src_bocconi_finalenaz_2007__Q07]]
 
 
-
-<span class="atom-split" id="q08" data-atom="q08" data-title="Quesito 8" data-tags="topic_aritmetica,topic_algebra,method_casework,method_conteggio,skill_lettura_attenta,skill_modellizzazione,skill_conteggio_sistematico"></span>
+<span class="atom-split" id="q08" data-atom="q08" data-title="Quesito 8" data-tags="topic_aritmetica,topic_algebra,method_casework,method_conteggio,method_disuguaglianze,skill_lettura_attenta,skill_modellizzazione,skill_conteggio_sistematico"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -287,7 +278,7 @@ level: Finale Nazionale Campionati Internazionali di Giochi Matematici
 > Di quanti passi (di Sara), al minimo, Sara precedeva inizialmente l'orco?
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
-**Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]]
+**Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]], [[method_disuguaglianze|Disuguaglianze classiche]]
 **Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_modellizzazione|Modellizzazione]], [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 **Risposta:** 29
@@ -302,16 +293,15 @@ level: Finale Nazionale Campionati Internazionali di Giochi Matematici
 > The Steps of the Ogre
 > On a stormy night—perhaps because of the sound of the thunder, or perhaps because he had eaten too much!—Sergio sees an ogre in his dream, one of those ogres who, in fairy tales, go hunting for children. Both the ogre and Sergio take 1 second to take 1 step, but to cover the distance the ogre covers in 5 steps, Sergio has to take 15 steps. His sister Sara also takes 1 second to take 1 step, but to cover the distance Sergio covers in 2 steps, Sara has to take 3 steps. The ogre is very fat and, after 8 steps, has to stop to catch his breath. Sergio then follows the ogre, who is chasing his sister Sara, who is walking on the path a little farther ahead. The ogre takes 8 steps and then stops, out of breath, having failed to catch up with Sara, right at the moment Sergio wakes up. By at least how many steps (Sara's steps) was Sara initially ahead of the ogre?
 
+
 **Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_algebra|Algebra]]
-**Metodo:** [[method_casework|Case analysis]], [[method_conteggio|Combinatorial counting]]
+**Metodo:** [[method_casework|Case analysis]], [[method_conteggio|Combinatorial counting]], [[method_disuguaglianze|Classical inequalities]]
 **Abilita:** [[skill_lettura_attenta|Careful reading of the text]], [[skill_modellizzazione|Modelling / translating the text]], [[skill_conteggio_sistematico|Systematic counting]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Algebra e Analisi|Algebra and analysis]]
 
-[[Quesiti/src_bocconi_finalenaz_2007#q08|src_bocconi_finalenaz_2007__Q08]]
 
 
-
-<span class="atom-split" id="q09" data-atom="q09" data-title="Quesito 9" data-tags="topic_aritmetica,topic_logica,method_conteggio,skill_lettura_attenta,skill_conteggio_sistematico"></span>
+<span class="atom-split" id="q09" data-atom="q09" data-title="Quesito 9" data-tags="topic_aritmetica,topic_logica,method_conteggio,method_casework,skill_lettura_attenta,skill_conteggio_sistematico,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -326,8 +316,8 @@ level: Finale Nazionale Campionati Internazionali di Giochi Matematici
 > Completate le frasi del box con dei numeri (scritti in cifre) in modo che tutte le frasi contenute nel box siano simultaneamente vere.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_logica|Logica]]
-**Metodo:** [[method_conteggio|Conteggio]]
-**Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Metodo:** [[method_conteggio|Conteggio]], [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 6 numeri multipli di 3; 5 numeri multipli di 4; 4 numeri multipli di 5
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1BBdv980dO4OBpz4LarvITpk0aFQiW8ZW/view)
@@ -341,16 +331,15 @@ level: Finale Nazionale Campionati Internazionali di Giochi Matematici
 > Be careful about what you write
 > $1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12$ In this box, there are …… numbers that are multiples of 3. In this box, there are …… numbers that are multiples of 4. In this box, there are …… numbers that are multiples of 5. Complete the sentences in the box with numbers (written in digits) so that all the sentences contained in the box are true simultaneously.
 
+
 **Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_logica|Logic, games, strategies]]
-**Metodo:** [[method_conteggio|Combinatorial counting]]
-**Abilita:** [[skill_lettura_attenta|Careful reading of the text]], [[skill_conteggio_sistematico|Systematic counting]]
+**Metodo:** [[method_conteggio|Combinatorial counting]], [[method_casework|Case analysis]]
+**Abilita:** [[skill_lettura_attenta|Careful reading of the text]], [[skill_conteggio_sistematico|Systematic counting]], [[skill_casework_accurato|Careful case analysis]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
-[[Quesiti/src_bocconi_finalenaz_2007#q09|src_bocconi_finalenaz_2007__Q09]]
 
 
-
-<span class="atom-split" id="q10" data-atom="q10" data-title="Quesito 10" data-tags="topic_aritmetica,method_casework,method_congruenze,skill_conteggio_sistematico,skill_riconoscimento_pattern"></span>
+<span class="atom-split" id="q10" data-atom="q10" data-title="Quesito 10" data-tags="topic_aritmetica,method_casework,method_congruenze,skill_conteggio_sistematico,skill_riconoscimento_pattern,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -362,7 +351,7 @@ level: Finale Nazionale Campionati Internazionali di Giochi Matematici
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_casework|Casework]], [[method_congruenze|Congruenze]]
-**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 10
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1BBdv980dO4OBpz4LarvITpk0aFQiW8ZW/view)
@@ -375,12 +364,11 @@ level: Finale Nazionale Campionati Internazionali di Giochi Matematici
 
 > AGAIN, 2007! How many numbers, when reduced by the sum of their digits, equal 2007?
 
+
 **Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
 **Metodo:** [[method_casework|Case analysis]], [[method_congruenze|Modular arithmetic / congruences]]
-**Abilita:** [[skill_conteggio_sistematico|Systematic counting]], [[skill_riconoscimento_pattern|Pattern recognition]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]], [[skill_riconoscimento_pattern|Pattern recognition]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
-
-[[Quesiti/src_bocconi_finalenaz_2007#q10|src_bocconi_finalenaz_2007__Q10]]
 
 
 
@@ -415,11 +403,9 @@ level: Finale Nazionale Campionati Internazionali di Giochi Matematici
 **Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_conteggio_sistematico|Systematic counting]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
-[[Quesiti/src_bocconi_finalenaz_2007#q11|src_bocconi_finalenaz_2007__Q11]]
 
 
-
-<span class="atom-split" id="q12" data-atom="q12" data-title="Quesito 12" data-tags="topic_aritmetica,topic_combinatoria,method_conteggio,method_ricorsione,skill_conteggio_sistematico,skill_modellizzazione,skill_riconoscimento_pattern"></span>
+<span class="atom-split" id="q12" data-atom="q12" data-title="Quesito 12" data-tags="topic_aritmetica,topic_combinatoria,method_conteggio,method_ricorsione,skill_conteggio_sistematico,skill_modellizzazione,skill_riconoscimento_pattern,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -434,11 +420,11 @@ level: Finale Nazionale Campionati Internazionali di Giochi Matematici
 > - un numero dello schema è dunque individuato da due «coordinate»: il numero della riga e quello della colonna in cui si trova. Ad esempio, 15 ha «coordinate» (10;9).
 > Trovate nello schema le coordinate dell'anno 2007.
 
-![[src_bocconi_finalenaz_2007__q12.png]]
+![[src_bocconi_finalenaz_2007__Q12.png]]
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_conteggio|Conteggio]], [[method_ricorsione|Ricorsione]]
-**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** Le coordinate del 2007 sono (1937; 729)
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1BBdv980dO4OBpz4LarvITpk0aFQiW8ZW/view)
@@ -457,14 +443,13 @@ level: Finale Nazionale Campionati Internazionali di Giochi Matematici
 > - Thus, a number in the grid is identified by two "coordinates": the row number and the column number in which it is located. For example, 15 has the "coordinates" (10;9).
 > In the diagram, you will find the coordinates for the year 2007.
 
-![[src_bocconi_finalenaz_2007__q12.png]]
+![[src_bocconi_finalenaz_2007__Q12.png]]
+
 
 **Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_combinatoria|Combinatorics]]
 **Metodo:** [[method_conteggio|Combinatorial counting]], [[method_ricorsione|Recursion]]
-**Abilita:** [[skill_conteggio_sistematico|Systematic counting]], [[skill_modellizzazione|Modelling / translating the text]], [[skill_riconoscimento_pattern|Pattern recognition]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]], [[skill_modellizzazione|Modelling / translating the text]], [[skill_riconoscimento_pattern|Pattern recognition]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
-
-[[Quesiti/src_bocconi_finalenaz_2007#q12|src_bocconi_finalenaz_2007__Q12]]
 
 
 
@@ -499,8 +484,6 @@ level: Finale Nazionale Campionati Internazionali di Giochi Matematici
 **Metodo:** [[method_backward|Working backwards]], [[method_casework|Case analysis]]
 **Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]], [[skill_conteggio_sistematico|Systematic counting]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
-
-[[Quesiti/src_bocconi_finalenaz_2007#q13|src_bocconi_finalenaz_2007__Q13]]
 
 
 
@@ -538,11 +521,9 @@ level: Finale Nazionale Campionati Internazionali di Giochi Matematici
 **Abilita:** [[skill_modellizzazione|Modelling / translating the text]], [[skill_casework_accurato|Careful case analysis]]
 **Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
-[[Quesiti/src_bocconi_finalenaz_2007#q14|src_bocconi_finalenaz_2007__Q14]]
 
 
-
-<span class="atom-split" id="q15" data-atom="q15" data-title="Quesito 15" data-tags="topic_geometria_piana,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
+<span class="atom-split" id="q15" data-atom="q15" data-title="Quesito 15" data-tags="topic_geometria_piana,method_coordinate,method_fattorizzazione,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -553,9 +534,10 @@ level: Finale Nazionale Campionati Internazionali di Giochi Matematici
 > Padre Nando possiede un terreno triangolare i cui lati misurano 65 m, 70 m e 75 m. Decide di dividere il terreno tra i suoi due figli, tracciando una perpendicolare al lato di 70 m, in modo che le due parti del terreno così ottenute abbiano la stessa area.
 > Quale è il quadrato della lunghezza del segmento AB?
 
-![[src_bocconi_finalenaz_2007__q15.png]]
+![[src_bocconi_finalenaz_2007__Q15.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_coordinate|Metodo delle coordinate]], [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 **Risposta:** $2800\ \mathrm{m}^2$
@@ -570,17 +552,17 @@ level: Finale Nazionale Campionati Internazionali di Giochi Matematici
 > Father Nando's Land
 > Father Nando owns a triangular plot of land whose sides measure 65 m, 70 m, and 75 m. He decides to divide the plot between his two sons by drawing a perpendicular to the 70 m side, so that the two resulting parts of the plot have the same area. What is the square of the length of segment AB?
 
-![[src_bocconi_finalenaz_2007__q15.png]]
+![[src_bocconi_finalenaz_2007__Q15.png]]
+
 
 **Topic:** [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_coordinate|Coordinate method]], [[method_fattorizzazione|Factorisation / algebraic manipulation]]
 **Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
 **Area:** [[Geometria|Geometry]]
 
-[[Quesiti/src_bocconi_finalenaz_2007#q15|src_bocconi_finalenaz_2007__Q15]]
 
 
-
-<span class="atom-split" id="q16" data-atom="q16" data-title="Quesito 16" data-tags="topic_combinatoria,topic_geometria_piana,method_conteggio,method_ricorsione,skill_conteggio_sistematico,skill_riconoscimento_pattern,skill_modellizzazione"></span>
+<span class="atom-split" id="q16" data-atom="q16" data-title="Quesito 16" data-tags="topic_combinatoria,topic_geometria_piana,method_conteggio,method_ricorsione,method_casi_conteggio,skill_conteggio_sistematico,skill_riconoscimento_pattern,skill_modellizzazione,skill_ragionamento_geometrico"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -591,11 +573,11 @@ level: Finale Nazionale Campionati Internazionali di Giochi Matematici
 > La figura rappresenta due «ventagli» (con quattro stecche) che si sovrappongono come in figura. Considerate ora la stessa situazione, ma con due ventagli di 2007 stecche.
 > Quanti sono i triangoli che ora potreste «leggere» in figura?
 
-![[src_bocconi_finalenaz_2007__q16.png]]
+![[src_bocconi_finalenaz_2007__Q16.png]]
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_geometria_piana|Geometria piana]]
-**Metodo:** [[method_conteggio|Conteggio]], [[method_ricorsione|Ricorsione]]
-**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_modellizzazione|Modellizzazione]]
+**Metodo:** [[method_conteggio|Conteggio]], [[method_ricorsione|Ricorsione]], [[method_casi_conteggio|Conteggio per casi]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_modellizzazione|Modellizzazione]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 **Risposta:** 8.072.216.216 triangoli
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1BBdv980dO4OBpz4LarvITpk0aFQiW8ZW/view)
@@ -609,14 +591,13 @@ level: Finale Nazionale Campionati Internazionali di Giochi Matematici
 > The Fans
 > The figure shows two "fans" (with four ribs) that overlap as in the figure. Now consider the same situation, but with two fans having 2007 ribs. How many triangles can you now "read" in the figure?
 
-![[src_bocconi_finalenaz_2007__q16.png]]
+![[src_bocconi_finalenaz_2007__Q16.png]]
+
 
 **Topic:** [[topic_combinatoria|Combinatorics]], [[topic_geometria_piana|Plane geometry]]
-**Metodo:** [[method_conteggio|Combinatorial counting]], [[method_ricorsione|Recursion]]
-**Abilita:** [[skill_conteggio_sistematico|Systematic counting]], [[skill_riconoscimento_pattern|Pattern recognition]], [[skill_modellizzazione|Modelling / translating the text]]
+**Metodo:** [[method_conteggio|Combinatorial counting]], [[method_ricorsione|Recursion]], [[method_casi_conteggio|Counting by cases]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]], [[skill_riconoscimento_pattern|Pattern recognition]], [[skill_modellizzazione|Modelling / translating the text]], [[skill_ragionamento_geometrico|Geometric reasoning]]
 **Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Geometria|Geometry]]
-
-[[Quesiti/src_bocconi_finalenaz_2007#q16|src_bocconi_finalenaz_2007__Q16]]
 
 
 
@@ -632,7 +613,7 @@ level: Finale Nazionale Campionati Internazionali di Giochi Matematici
 > Nel display della mia «modesta» calcolatrice, ci sono solo 4 «matrici» (e quindi possono comparire solo numeri di 4 cifre). Quanti di questi numeri, che non comincino con 0, presentano la proprietà di essere simmetrici rispetto a un punto dello schermo (centro di simmetria)?
 > Nota: La cifra 1 compare sempre a destra della «matrice». Nella simmetria, si prendono in considerazione ovviamente solo i cristalli illuminati.
 
-![[src_bocconi_finalenaz_2007__q17.png]]
+![[src_bocconi_finalenaz_2007__Q17.png]]
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_logica|Logica]]
 **Metodo:** [[method_casework|Casework]], [[method_simmetria|Simmetria]]
@@ -650,14 +631,12 @@ level: Finale Nazionale Campionati Internazionali di Giochi Matematici
 > Modest but Symmetrical
 > In the display of a liquid-crystal calculator, each digit from 0 to 9 appears thanks to the illumination of certain crystals within a predetermined "matrix" of 7 liquid crystals, as can be seen in the figure. The "matrices" in the diagram are spaced at regular intervals. In the display of my "modest" calculator, there are only 4 "matrices" (and therefore only 4-digit numbers can appear). How many of these numbers, which do not start with 0, have the property of being symmetric with respect to a point on the screen (the center of symmetry)? Note: The digit 1 always appears to the right of the "matrix". In symmetry, obviously only the illuminated crystals are taken into account.
 
-![[src_bocconi_finalenaz_2007__q17.png]]
+![[src_bocconi_finalenaz_2007__Q17.png]]
 
 **Topic:** [[topic_combinatoria|Combinatorics]], [[topic_logica|Logic, games, strategies]]
 **Metodo:** [[method_casework|Case analysis]], [[method_simmetria|Using symmetry]]
 **Abilita:** [[skill_conteggio_sistematico|Systematic counting]], [[skill_casework_accurato|Careful case analysis]], [[skill_ragionamento_geometrico|Geometric reasoning]]
 **Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
-
-[[Quesiti/src_bocconi_finalenaz_2007#q17|src_bocconi_finalenaz_2007__Q17]]
 
 
 
@@ -692,5 +671,3 @@ level: Finale Nazionale Campionati Internazionali di Giochi Matematici
 **Metodo:** [[method_telescoping|Telescoping sums]], [[method_ricorsione|Recursion]]
 **Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]], [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_conteggio_sistematico|Systematic counting]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Algebra e Analisi|Algebra and analysis]]
-
-[[Quesiti/src_bocconi_finalenaz_2007#q18|src_bocconi_finalenaz_2007__Q18]]

@@ -10,7 +10,7 @@ level: China National Team Selection Test
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_disuguaglianze,topic_algebra,method_estremalita,method_simmetria,skill_manipolazione_algebrica,skill_ragionamento_geometrico,skill_stima"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_disuguaglianze,topic_algebra,method_estremalita,method_simmetria,method_disuguaglianze,skill_manipolazione_algebrica,skill_ragionamento_geometrico,skill_stima"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -22,9 +22,9 @@ level: China National Team Selection Test
 > where $y_{n+1} = y_1$, $y_{n+2} = y_2$. (posed by Qu Zhenhua)
 
 **Topic:** [[topic_disuguaglianze|Disuguaglianze]], [[topic_algebra|Algebra]]
-**Metodo:** [[method_estremalita|Estremalità]], [[method_simmetria|Simmetria]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_simmetria|Simmetria]], [[method_disuguaglianze|Classical inequalities]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_stima|Stima]]
-**Area:** [[Algebra e Analisi]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1cjmD7lTT4vb3nB3ylcVCHeHucUE2rNI0/view)
 
 
@@ -37,16 +37,15 @@ level: China National Team Selection Test
 > $$\sum_{i=1}^{n} \frac{y_i^2}{y_{i+1}^2 - y_{i+1} y_{i+2} + y_{i+2}^2} \ge M,$$
 > dove $y_{n+1} = y_1$, $y_{n+2} = y_2$. (proposto da Qu Zhenhua)
 
+
 **Topic:** [[topic_disuguaglianze|Disuguaglianze]], [[topic_algebra|Algebra]]
-**Metodo:** [[method_estremalita|Estremalità]], [[method_simmetria|Simmetria]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_simmetria|Simmetria]], [[method_disuguaglianze|Disuguaglianze classiche]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_stima|Stima]]
 **Area:** [[Algebra e Analisi]]
 
-[[Quesiti/src_cn_ctst_2011#q01|src_cn_ctst_2011__Q01]]
 
 
-
-<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_aritmetica,method_congruenze,method_cassetti,skill_manipolazione_algebrica,skill_ragionamento_geometrico,skill_lettura_attenta"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_aritmetica,method_congruenze,method_cassetti,method_fattorizzazione,skill_manipolazione_algebrica,skill_ragionamento_geometrico,skill_lettura_attenta"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -56,9 +55,9 @@ level: China National Team Selection Test
 > Let $n > 1$ be an integer, $k$ be the number of distinct prime factors of $n$. Prove that there exists an integer $a$, $1 \le a \le \dfrac{n}{k} + 1$, such that $n \mid a(a-1)$. (posed by Yu Hongbing)
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_congruenze|Congruenze]], [[method_cassetti|Principio dei cassetti]]
+**Metodo:** [[method_congruenze|Congruenze]], [[method_cassetti|Principio dei cassetti]], [[method_fattorizzazione|Factorisation / algebraic manipulation]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
-**Area:** [[Aritmetica e Teoria dei Numeri]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1cjmD7lTT4vb3nB3ylcVCHeHucUE2rNI0/view)
 
 
@@ -69,12 +68,11 @@ level: China National Team Selection Test
 
 > Sia $n > 1$ un numero intero, sia $k$ il numero di fattori primi distinti di $n$. Dimostrare che esistono numeri interi $a$, $1 \le a \le \dfrac{n}{k} + 1$ tali che $n \mid a(a-1)$. (proposto da Yu Hongbing)
 
+
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_congruenze|Congruenze]], [[method_cassetti|Principio dei cassetti]]
+**Metodo:** [[method_congruenze|Congruenze]], [[method_cassetti|Principio dei cassetti]], [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
-
-[[Quesiti/src_cn_ctst_2011#q02|src_cn_ctst_2011__Q02]]
 
 
 
@@ -110,8 +108,6 @@ level: China National Team Selection Test
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 
-[[Quesiti/src_cn_ctst_2011#q03|src_cn_ctst_2011__Q03]]
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_geometria_piana,method_coordinate,method_trigonometria,method_simmetria,skill_ragionamento_geometrico,skill_lettura_attenta,skill_manipolazione_algebrica"></span>
@@ -123,7 +119,7 @@ level: China National Team Selection Test
 
 > Let $H$ be the orthocenter of acute-angled $\triangle ABC$. Let $P$ be a point on arc $\widehat{BC}$ of the circumcircle of $\triangle ABC$ (not containing $A$). $PH$ intersects arc $\widehat{AC}$ at $M$. There exists a point $K$ on $AB$ such that the line $KM$ is parallel to the Simson line of $P$ with respect to $\triangle ABC$. Let $Q$ be the point on the circumcircle such that $QP \perp BC$; the chord $KQ$ intersects $BC$ at point $J$. Prove that $\triangle JKM$ is isosceles. (posed by Xiong Bin)
 
-![[src_cn_ctst_b11_w134__q04.png]]
+![[src_cn_ctst_b11_w134__Q04.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_coordinate|Coordinate]], [[method_trigonometria|Trigonometria]], [[method_simmetria|Simmetria]]
@@ -139,14 +135,12 @@ level: China National Team Selection Test
 
 > Sia $H$ l'ortocentro di $\triangle ABC$, un triangolo acutangolo. Sia $P$ un punto sull'arco $\widehat{BC}$ della circonferenza circoscritta a $\triangle ABC$ (l'arco che non contiene $A$). $PH$ interseca l'arco $\widehat{AC}$ in $M$. Esiste un punto $K$ su $AB$ tale che la retta $KM$ è parallela alla retta di Simson di $P$ rispetto a $\triangle ABC$. Sia $Q$ il punto sulla circonferenza circoscritta tale che $QP \perp BC$; la corda $KQ$ interseca $BC$ nel punto $J$. Dimostrare che $\triangle JKM$ è isoscele. (proposto da Xiong Bin)
 
-![[src_cn_ctst_b11_w134__q04.png]]
+![[src_cn_ctst_b11_w134__Q04.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_coordinate|Coordinate]], [[method_trigonometria|Trigonometria]], [[method_simmetria|Simmetria]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
-
-[[Quesiti/src_cn_ctst_2011#q04|src_cn_ctst_2011__Q04]]
 
 
 
@@ -178,11 +172,9 @@ level: China National Team Selection Test
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 
-[[Quesiti/src_cn_ctst_2011#q05|src_cn_ctst_2011__Q05]]
 
 
-
-<span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_combinatoria,topic_geometria_analitica,method_induzione,method_invarianti,method_bigezione,skill_astrazione,skill_modellizzazione,skill_ragionamento_geometrico"></span>
+<span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_combinatoria,topic_geometria_analitica,topic_aritmetica,method_induzione,method_invarianti,method_bigezione,skill_astrazione,skill_modellizzazione,skill_ragionamento_geometrico"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -193,10 +185,10 @@ level: China National Team Selection Test
 > 
 > For a point sequence $(A_1, \ldots, A_n)$, inserting a point $A$ adjacent to two points $A_i, A_{i+1}$ satisfying $\overrightarrow{OA} = \overrightarrow{OA_i} + \overrightarrow{OA_{i+1}}$, we can obtain a new point sequence $(A_1, \ldots, A_i, A, A_{i+1}, \ldots, A_n)$. Let $(A_1, \ldots, A_n)$ and $(B_1, \ldots, B_m)$ be any two interesting point sequences. Prove that if $A_1 = B_1$ and $A_n = B_m$, one can expand both point sequences to some common point sequence $(C_1, C_2, \ldots, C_s)$. (posed by Qu Zhenhua)
 
-**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_geometria_analitica|Geometria analitica]]
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_geometria_analitica|Geometria analitica]], [[topic_aritmetica|Arithmetic / Number theory]]
 **Metodo:** [[method_induzione|Induzione]], [[method_invarianti|Invarianti]], [[method_bigezione|Biiezione]]
 **Abilita:** [[skill_astrazione|Astrazione]], [[skill_modellizzazione|Modellizzazione]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
-**Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Geometria|Geometry]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1cjmD7lTT4vb3nB3ylcVCHeHucUE2rNI0/view)
 
 
@@ -209,9 +201,8 @@ level: China National Team Selection Test
 >
 > Per una successione di punti $(A_1, \ldots, A_n)$, inserendo un punto $A$ adiacente a due punti $A_i, A_{i+1}$ che soddisfano $\overrightarrow{OA} = \overrightarrow{OA_i} + \overrightarrow{OA_{i+1}}$, si può ottenere una nuova successione di punti $(A_1, \ldots, A_i, A, A_{i+1}, \ldots, A_n)$. Siano $(A_1, \ldots, A_n)$ e $(B_1, \ldots, B_m)$ due qualunque successioni di punti interessanti. Dimostrare che, se $A_1 = B_1$ e $A_n = B_m$, è possibile espandere entrambe le successioni di punti fino a ottenere una certa successione di punti comune $(C_1, C_2, \ldots, C_s)$. (proposto da Qu Zhenhua)
 
-**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_geometria_analitica|Geometria analitica]]
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_geometria_analitica|Geometria analitica]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_induzione|Induzione]], [[method_invarianti|Invarianti]], [[method_bigezione|Biiezione]]
 **Abilita:** [[skill_astrazione|Astrazione]], [[skill_modellizzazione|Modellizzazione]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
-**Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
-
-[[Quesiti/src_cn_ctst_2011#q06|src_cn_ctst_2011__Q06]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]], [[Aritmetica e Teoria dei Numeri]]

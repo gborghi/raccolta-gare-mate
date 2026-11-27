@@ -51,11 +51,9 @@ level: China Mathematical Olympiad
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Algebra e Analisi]]
 
-[[Quesiti/src_cn_cmo_2020#q01|src_cn_cmo_2020__Q01]]
 
 
-
-<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_aritmetica,topic_combinatoria,method_congruenze,method_casi_conteggio,skill_manipolazione_algebrica,skill_astrazione"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_aritmetica,topic_combinatoria,method_congruenze,method_casi_conteggio,method_estremalita,skill_manipolazione_algebrica,skill_astrazione"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -69,9 +67,9 @@ level: China Mathematical Olympiad
 > (2) $\displaystyle\sum_{i=1}^{n} a_i x_i \equiv \sum_{i=1}^{n} b_i x_i \equiv 0 \pmod{m}$.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
-**Metodo:** [[method_congruenze|Congruenze]], [[method_casi_conteggio|Casi e conteggio]]
+**Metodo:** [[method_congruenze|Congruenze]], [[method_casi_conteggio|Casi e conteggio]], [[method_estremalita|Extremal principle]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]]
-**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1OFC5fmTEMyWQSx2doV1_Jplo27sQCZ_A/view)
 
 > [!warning] Estratto da verificare con la fonte.
@@ -90,12 +88,11 @@ level: China Mathematical Olympiad
 
 > [!warning] Estratto da verificare con la fonte.
 
+
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
-**Metodo:** [[method_congruenze|Congruenze]], [[method_casi_conteggio|Casi e conteggio]]
+**Metodo:** [[method_congruenze|Congruenze]], [[method_casi_conteggio|Casi e conteggio]], [[method_estremalita|Principio di estremalita]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
-
-[[Quesiti/src_cn_cmo_2020#q02|src_cn_cmo_2020__Q02]]
 
 
 
@@ -133,8 +130,6 @@ level: China Mathematical Olympiad
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_stima|Stima]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 
-[[Quesiti/src_cn_cmo_2020#q03|src_cn_cmo_2020__Q03]]
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_geometria_piana,method_simmetria,skill_ragionamento_geometrico"></span>
@@ -147,7 +142,7 @@ level: China Mathematical Olympiad
 > As shown in Fig. 4.1, let acute $\triangle ABC$ be inscribed to circle $\omega$, $AB > AC$. $M$ is the midpoint of minor arc $\widehat{BC}$ of circle $\omega$ and $K$ is the antipodal point of point $A$ on circle $\omega$. Construct a parallel line of $AM$ through the center $O$ of circle $\omega$, intersecting segment $AB$ at point $D$ and the extension of $CA$ at point $E$. Suppose that line $BM$ intersects $CK$ at point $P$ and line $CM$ intersects $BK$ at point $Q$. Prove that
 > $$\angle OEB + \angle OPB = \angle ODC + \angle OQC.$$
 
-![[src_cn_cmo_2020__q04.png]]
+![[src_cn_cmo_2020__Q04.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_simmetria|Simmetria]]
@@ -166,7 +161,7 @@ level: China Mathematical Olympiad
 > Come mostrato nella Fig. 4.1, sia l'angolo acuto $\triangle ABC$ inscritto nella circonferenza $\omega$, $AB > AC$. $M$ è il punto medio dell'arco minore $\widehat{BC}$ della circonferenza $\omega$, e $K$ è il punto antipodale del punto $A$ sulla circonferenza $\omega$. Si costruisca una retta parallela a $AM$ passante per il centro $O$ della circonferenza $\omega$; tale retta interseca il segmento $AB$ nel punto $D$ e il prolungamento di $CA$ nel punto $E$. Si supponga che la retta $BM$ intersechi $CK$ nel punto $P$ e che la retta $CM$ intersechi $BK$ nel punto $Q$. Si dimostri che
 > $$\angle OEB + \angle OPB = \angle ODC + \angle OQC.$$
 
-![[src_cn_cmo_2020__q04.png]]
+![[src_cn_cmo_2020__Q04.png]]
 
 > [!warning] Estratto da verificare con la fonte.
 
@@ -175,11 +170,9 @@ level: China Mathematical Olympiad
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]]
 
-[[Quesiti/src_cn_cmo_2020#q04|src_cn_cmo_2020__Q04]]
 
 
-
-<span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_combinatoria,topic_geometria_solida,method_invarianti,method_doppio_conteggio,method_grafi,skill_ragionamento_geometrico,skill_astrazione,skill_modellizzazione"></span>
+<span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_combinatoria,topic_geometria_solida,method_invarianti,method_doppio_conteggio,method_grafi,method_colorazione,skill_ragionamento_geometrico,skill_astrazione,skill_modellizzazione"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -193,9 +186,9 @@ level: China Mathematical Olympiad
 > Prove that during the above process of crawling, the number of times the ant turns to the left is exactly the number of times it turns to the right.
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_geometria_solida|Geometria solida]]
-**Metodo:** [[method_invarianti|Invarianti]], [[method_doppio_conteggio|Doppio conteggio]], [[method_grafi|Grafi]]
+**Metodo:** [[method_invarianti|Invarianti]], [[method_doppio_conteggio|Doppio conteggio]], [[method_grafi|Grafi]], [[method_colorazione|Colouring / parity]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_astrazione|Astrazione]], [[skill_modellizzazione|Modellizzazione]]
-**Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Geometria|Geometry]]
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1OFC5fmTEMyWQSx2doV1_Jplo27sQCZ_A/view)
 
 > [!warning] Estratto da verificare con la fonte.
@@ -214,12 +207,11 @@ level: China Mathematical Olympiad
 
 > [!warning] Estratto da verificare con la fonte.
 
+
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_geometria_solida|Geometria solida]]
-**Metodo:** [[method_invarianti|Invarianti]], [[method_doppio_conteggio|Doppio conteggio]], [[method_grafi|Grafi]]
+**Metodo:** [[method_invarianti|Invarianti]], [[method_doppio_conteggio|Doppio conteggio]], [[method_grafi|Grafi]], [[method_colorazione|Colorazione / parita]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_astrazione|Astrazione]], [[skill_modellizzazione|Modellizzazione]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
-
-[[Quesiti/src_cn_cmo_2020#q05|src_cn_cmo_2020__Q05]]
 
 
 
@@ -256,5 +248,3 @@ level: China Mathematical Olympiad
 **Metodo:** [[method_congruenze|Congruenze]], [[method_casework|Casework]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
-
-[[Quesiti/src_cn_cmo_2020#q06|src_cn_cmo_2020__Q06]]

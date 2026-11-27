@@ -10,7 +10,7 @@ level: RMO
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_geometria_piana,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_geometria_piana,method_coordinate,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -19,11 +19,12 @@ level: RMO
 
 > Two circles $\Gamma$ and $\Sigma$, with centres $O$ and $O'$, respectively, are such that $O'$ lies on $\Gamma$. Let $A$ be a point on $\Sigma$ and $M$ the midpoint of the segment $AO'$. If $B$ is a point on $\Sigma$ different from $A$ such that $AB$ is parallel to $OM$, show that the midpoint of $AB$ lies on $\Gamma$.
 
-![[src_rmo_2015_r3__q01.png]]
+![[src_rmo_2015_r3__Q01.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_coordinate|Coordinate method]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
-**Area:** [[Geometria]]
+**Area:** [[Geometria|Geometry]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1HpOXyY027T7yrJIPYwmXafLpB_7tE0uA/view)
 
 
@@ -34,13 +35,13 @@ level: RMO
 
 > Due cerchi $\Gamma$ e $\Sigma$, con centri rispettivamente $O$ e $O'$, sono tali che $O'$ giace su $\Gamma$. Sia $A$ un punto su $\Sigma$ e $M$ il punto medio del segmento $AO'$. Se $B$ è un punto su $\Sigma$ diverso da $A$ tale che $AB$ è parallelo a $OM$, dimostrare che il punto medio di $AB$ giace su $\Gamma$.
 
-![[src_rmo_2015_r3__q01.png]]
+![[src_rmo_2015_r3__Q01.png]]
+
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_coordinate|Metodo delle coordinate]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
-
-[[Quesiti/src_rmo_2015_r3#q01|src_rmo_2015_r3__Q01]]
 
 
 
@@ -72,8 +73,6 @@ level: RMO
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 
-[[Quesiti/src_rmo_2015_r3#q02|src_rmo_2015_r3__Q02]]
-
 
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_aritmetica,topic_algebra,method_induzione,method_fattorizzazione,skill_manipolazione_algebrica,skill_riconoscimento_pattern"></span>
@@ -103,8 +102,6 @@ level: RMO
 **Metodo:** [[method_induzione|Induzione]], [[method_fattorizzazione|Fattorizzazione]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
-
-[[Quesiti/src_rmo_2015_r3#q03|src_rmo_2015_r3__Q03]]
 
 
 
@@ -136,8 +133,6 @@ level: RMO
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 
-[[Quesiti/src_rmo_2015_r3#q04|src_rmo_2015_r3__Q04]]
-
 
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_geometria_piana,method_trigonometria,method_casework,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
@@ -149,7 +144,7 @@ level: RMO
 
 > Let $ABC$ be a triangle with circumcircle $\Gamma$ and incentre $I$. Let the internal angle bisectors of $\angle A$, $\angle B$ and $\angle C$ meet $\Gamma$ in $A'$, $B'$ and $C'$ respectively. Let $B'C'$ intersect $AA'$ in $P$, and $AC$ in $Q$. Let $BB'$ intersect $AC$ in $R$. Suppose the quadrilateral $PIRQ$ is a kite; that is, $IP = IR$ and $QP = QR$. Prove that $ABC$ is an equilateral triangle.
 
-![[src_rmo_2015_r3__q05.png]]
+![[src_rmo_2015_r3__Q05.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_trigonometria|Trigonometria]], [[method_casework|Casework]]
@@ -165,14 +160,12 @@ level: RMO
 
 > Sia $ABC$ un triangolo con circonferenza circoscritta $\Gamma$ e incentro $I$. Siano le bisettrici interne degli angoli di $\angle A$, $\angle B$ e $\angle C$ a intersecare $\Gamma$ rispettivamente in $A'$, $B'$ e $C'$. Sia $B'C'$ a intersecare $AA'$ in $P$, e $AC$ in $Q$. Sia $BB'$ a intersecare $AC$ in $R$. Si supponga che il quadrilatero $PIRQ$ sia un deltoide; cioè, $IP = IR$ e $QP = QR$. Dimostrare che $ABC$ è un triangolo equilatero.
 
-![[src_rmo_2015_r3__q05.png]]
+![[src_rmo_2015_r3__Q05.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_trigonometria|Trigonometria]], [[method_casework|Casework]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
-
-[[Quesiti/src_rmo_2015_r3#q05|src_rmo_2015_r3__Q05]]
 
 
 
@@ -203,5 +196,3 @@ level: RMO
 **Metodo:** [[method_casework|Casework]], [[method_fattorizzazione|Fattorizzazione]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_stima|Stima]]
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
-
-[[Quesiti/src_rmo_2015_r3#q06|src_rmo_2015_r3__Q06]]

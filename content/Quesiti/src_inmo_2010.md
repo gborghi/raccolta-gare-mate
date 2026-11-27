@@ -19,7 +19,7 @@ level: INMO
 
 > Let $ABC$ be a triangle with circum-circle $\Gamma$. Let $M$ be a point in the interior of triangle $ABC$ which is also on the bisector of $\angle A$. Let $AM$, $BM$, $CM$ meet $\Gamma$ in $A_1$, $B_1$, $C_1$ respectively. Suppose $P$ is the point of intersection of $A_1C_1$ with $AB$; and $Q$ is the point of intersection of $A_1B_1$ with $AC$. Prove that $PQ$ is parallel to $BC$.
 
-![[src_inmo_2010__q01.png]]
+![[src_inmo_2010__Q01.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_simmetria|Simmetria]]
@@ -35,14 +35,12 @@ level: INMO
 
 > Sia $ABC$ un triangolo con circonferenza circoscritta $\Gamma$. Sia $M$ un punto interno al triangolo $ABC$ che giace anche sulla bisettrice di $\angle A$. Siano $AM$, $BM$, $CM$ tali che ciascuna intersechi $\Gamma$ rispettivamente nei punti $A_1$, $B_1$, $C_1$. Si supponga che $P$ sia il punto di intersezione di $A_1C_1$ con $AB$, e che $Q$ sia il punto di intersezione di $A_1B_1$ con $AC$. Dimostrare che $PQ$ è parallelo a $BC$.
 
-![[src_inmo_2010__q01.png]]
+![[src_inmo_2010__Q01.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_simmetria|Simmetria]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
-
-[[Quesiti/src_inmo_2010#q01|src_inmo_2010__Q01]]
 
 
 
@@ -73,8 +71,6 @@ level: INMO
 **Metodo:** [[method_casework|Analisi per casi]], [[method_congruenze|Aritmetica modulare / congruenze]], [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
 **Abilità:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Analisi accurata per casi]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Aritmetica e teoria dei numeri]], [[Combinatoria, Logica e Probabilita|Combinatoria, logica e probabilità]]
-
-[[Quesiti/src_inmo_2010#q02|src_inmo_2010__Q02]]
 
 
 
@@ -110,11 +106,9 @@ level: INMO
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Algebra e Analisi]]
 
-[[Quesiti/src_inmo_2010#q03|src_inmo_2010__Q03]]
 
 
-
-<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_combinatoria,topic_algebra,method_casework,method_conteggio,skill_casework_accurato,skill_conteggio_sistematico,skill_lettura_attenta"></span>
+<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_combinatoria,topic_algebra,method_casework,method_conteggio,method_simmetria,skill_casework_accurato,skill_conteggio_sistematico,skill_lettura_attenta,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -126,9 +120,9 @@ level: INMO
 > for $j = 1, 2, 3, 4, 5, 6$ (where $a_7$ is to be taken as $a_1$) are all equal to one another?
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_algebra|Algebra]]
-**Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]]
-**Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]]
-**Area:** [[Combinatoria, Logica e Probabilita]], [[Algebra e Analisi]]
+**Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]], [[method_simmetria|Using symmetry]]
+**Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Algebra e Analisi|Algebra and analysis]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1GhkONMJ0LPgZdmr5745TyA4cn4-EdBzP/view)
 
 
@@ -141,12 +135,11 @@ level: INMO
 > $$a_j^2 - a_j a_{j+1} + a_{j+1}^2$$
 > per $j = 1, 2, 3, 4, 5, 6$ (dove $a_7$ va inteso come $a_1$) siano tutte uguali tra loro?
 
-**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_algebra|Algebra]]
-**Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]]
-**Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]]
-**Area:** [[Combinatoria, Logica e Probabilita]], [[Algebra e Analisi]]
 
-[[Quesiti/src_inmo_2010#q04|src_inmo_2010__Q04]]
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]], [[method_simmetria|Sfruttamento della simmetria]]
+**Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Algebra e Analisi]]
 
 
 
@@ -159,7 +152,7 @@ level: INMO
 
 > Let $ABC$ be an acute-angled triangle with altitude $AK$. Let $H$ be its ortho-centre and $O$ be its circum-centre. Suppose $KOH$ is an acute-angled triangle and $P$ its circum-centre. Let $Q$ be the reflection of $P$ in the line $HO$. Show that $Q$ lies on the line joining the mid-points of $AB$ and $AC$.
 
-![[src_inmo_2010__q05.png]]
+![[src_inmo_2010__Q05.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_coordinate|Coordinate]], [[method_simmetria|Simmetria]]
@@ -175,18 +168,16 @@ level: INMO
 
 > Sia $ABC$ un triangolo acutangolo con altezza $AK$. Sia $H$ il suo ortocentro e $O$ il suo circocentro. Si supponga che $KOH$ sia un triangolo acutangolo e che $P$ ne sia il circocentro. Sia $Q$ il riflesso di $P$ rispetto alla retta $HO$. Dimostrare che $Q$ giace sulla retta che congiunge i punti medi di $AB$ e $AC$.
 
-![[src_inmo_2010__q05.png]]
+![[src_inmo_2010__Q05.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_coordinate|Coordinate]], [[method_simmetria|Simmetria]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]]
 **Area:** [[Geometria]]
 
-[[Quesiti/src_inmo_2010#q05|src_inmo_2010__Q05]]
 
 
-
-<span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_algebra,topic_aritmetica,method_induzione,method_ricorsione,method_congruenze,skill_manipolazione_algebrica,skill_riconoscimento_pattern,skill_ragionamento_geometrico"></span>
+<span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_algebra,topic_aritmetica,topic_funzionali,method_induzione,method_ricorsione,method_congruenze,skill_manipolazione_algebrica,skill_riconoscimento_pattern,skill_ragionamento_geometrico"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -201,10 +192,10 @@ level: INMO
 > \item[(b)] Suppose $2^k$ divides $n$ for some natural numbers $n$ and $k$. Prove that $2^k$ divides $a_n$.
 > \end{itemize}
 
-**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_funzionali|Functional equations / sequences]]
 **Metodo:** [[method_induzione|Induzione]], [[method_ricorsione|Ricorsione]], [[method_congruenze|Congruenze]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
-**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1GhkONMJ0LPgZdmr5745TyA4cn4-EdBzP/view)
 
 
@@ -220,9 +211,8 @@ level: INMO
 > \item[(a)] Per ogni $m > 0$ e $0 \le j \le m$, dimostrare che $2a_m$ divide $a_{m+j} + (-1)^j a_{m-j}$. \item[(b)] Supponiamo che $2^k$ divida $n$ per alcuni numeri naturali $n$ e $k$. Dimostrare che $2^k$ divide $a_n$.
 > \end{itemize}
 
-**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_funzionali|Equazioni funzionali / successioni]]
 **Metodo:** [[method_induzione|Induzione]], [[method_ricorsione|Ricorsione]], [[method_congruenze|Congruenze]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
-
-[[Quesiti/src_inmo_2010#q06|src_inmo_2010__Q06]]

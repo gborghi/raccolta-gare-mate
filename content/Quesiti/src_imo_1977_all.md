@@ -38,11 +38,9 @@ level: IMO
 **Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
 **Area:** [[Geometria|Geometry]]
 
-[[Quesiti/src_imo_1977_all#q01|src_imo_1977_all__Q01]]
 
 
-
-<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_algebra,method_invarianti"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_algebra,topic_funzionali,method_invarianti,method_estremalita,skill_manipolazione_algebrica,skill_modellizzazione"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -51,8 +49,9 @@ level: IMO
 
 > In una sequenza finita di numeri reali la somma di qualsiasi sette termini successivi è negativa, e la somma di qualsiasi undici termini successivi è positiva. Determinare il numero massimo di termini della sequenza.
 
-**Topic:** [[topic_algebra|Algebra]]
-**Metodo:** [[method_invarianti|Invarianti / monovarianti]]
+**Topic:** [[topic_algebra|Algebra]], [[topic_funzionali|Equazioni funzionali / successioni]]
+**Metodo:** [[method_invarianti|Invarianti / monovarianti]], [[method_estremalita|Principio di estremalita]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
 **Area:** [[Algebra e Analisi]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1Gz2pUrWM-czARQOCQpcurD99dSGIayTx/view)
 
@@ -64,15 +63,15 @@ level: IMO
 
 > In a finite sequence of real numbers the sum of any seven consecutive terms is negative, and the sum of any eleven consecutive terms is positive. Determine the maximum number of terms of the sequence.
 
-**Topic:** [[topic_algebra|Algebra]]
-**Method:** [[method_invarianti|Invariants / monovariants]]
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_funzionali|Functional equations / sequences]]
+**Metodo:** [[method_invarianti|Invariants / monovariants]], [[method_estremalita|Extremal principle]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_modellizzazione|Modelling / translating the text]]
 **Area:** [[Algebra e Analisi|Algebra and analysis]]
 
-[[Quesiti/src_imo_1977_all#q02|src_imo_1977_all__Q02]]
 
 
-
-<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_aritmetica,method_fattorizzazione"></span>
+<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_aritmetica,method_fattorizzazione,method_congruenze,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -82,7 +81,8 @@ level: IMO
 > Sia $n$ un intero dato $> 2$, e sia $V_n$ l'insieme degli interi $1 + kn$, con $k = 1, 2, \ldots$. Un numero $m \in V_n$ è detto *indecomponibile* in $V_n$ se non esistono numeri $p, q \in V_n$ tali che $pq = m$. Dimostrare che esiste un numero $r \in V_n$ che può essere espresso come prodotto di elementi indecomponibili in $V_n$ in più di un modo. (Si considerano uguali i prodotti che differiscono solo nell'ordine dei fattori.)
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]], [[method_congruenze|Aritmetica modulare / congruenze]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1Gz2pUrWM-czARQOCQpcurD99dSGIayTx/view)
 
@@ -94,15 +94,15 @@ level: IMO
 
 > Let $n$ be a given integer $> 2$, and let $V_n$ be the set of integers $1 + kn$, with $k = 1, 2, \ldots$. A number $m \in V_n$ is called *indecomposable* in $V_n$ if there do not exist numbers $p, q \in V_n$ such that $pq = m$. Prove that there exists a number $r \in V_n$ that can be expressed as a product of elements indecomposable in $V_n$ in more than one way. (Products that differ only in the order of the factors are regarded as the same.)
 
+
 **Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
-**Method:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]], [[method_congruenze|Modular arithmetic / congruences]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
-[[Quesiti/src_imo_1977_all#q03|src_imo_1977_all__Q03]]
 
 
-
-<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_trigonometria,topic_disuguaglianze,method_disuguaglianze,method_trigonometria"></span>
+<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_trigonometria,topic_disuguaglianze,method_disuguaglianze,method_trigonometria,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -116,7 +116,8 @@ level: IMO
 
 **Topic:** [[topic_trigonometria|Trigonometria]], [[topic_disuguaglianze|Disuguaglianze]]
 **Metodo:** [[method_disuguaglianze|Disuguaglianze classiche]], [[method_trigonometria|Tecniche trigonometriche]]
-**Area:** [[Algebra e Analisi]], [[Geometria]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]], [[Algebra e Analisi]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1Gz2pUrWM-czARQOCQpcurD99dSGIayTx/view)
 
 
@@ -130,15 +131,15 @@ level: IMO
 > Prove that if $f(\theta) \geq 0$ for every real $\theta$, then
 > $$a^2 + b^2 \leq 2 \quad \text{e} \quad A^2 + B^2 \leq 1.$$
 
+
 **Topic:** [[topic_trigonometria|Trigonometry]], [[topic_disuguaglianze|Inequalities]]
-**Method:** [[method_disuguaglianze|Classical inequalities]], [[method_trigonometria|Trigonometric techniques]]
-**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Geometria|Geometry]]
-
-[[Quesiti/src_imo_1977_all#q04|src_imo_1977_all__Q04]]
-
+**Metodo:** [[method_disuguaglianze|Classical inequalities]], [[method_trigonometria|Trigonometric techniques]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Geometria|Geometry]], [[Algebra e Analisi|Algebra and analysis]]
 
 
-<span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_aritmetica,method_casework,method_congruenze"></span>
+
+<span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_aritmetica,method_casework,method_congruenze,method_fattorizzazione,skill_manipolazione_algebrica,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -148,7 +149,8 @@ level: IMO
 > Siano $a$ e $b$ interi positivi. Quando $a^2 + b^2$ viene diviso per $a + b$, il quoziente è $q$ e il resto è $r$. Trovare tutte le coppie $(a, b)$ tali che $q^2 + r = 1977$.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_casework|Analisi per casi]], [[method_congruenze|Aritmetica modulare / congruenze]]
+**Metodo:** [[method_casework|Analisi per casi]], [[method_congruenze|Aritmetica modulare / congruenze]], [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1Gz2pUrWM-czARQOCQpcurD99dSGIayTx/view)
 
@@ -160,11 +162,11 @@ level: IMO
 
 > Let $a$ and $b$ be positive integers. When $a^2 + b^2$ is divided by $a + b$, the quotient is $q$ and the remainder is $r$. Find all pairs $(a, b)$ such that $q^2 + r = 1977$.
 
-**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
-**Method:** [[method_casework|Case analysis]], [[method_congruenze|Modular arithmetic / congruences]]
-**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
-[[Quesiti/src_imo_1977_all#q05|src_imo_1977_all__Q05]]
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_casework|Case analysis]], [[method_congruenze|Modular arithmetic / congruences]], [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
 
 
@@ -201,5 +203,3 @@ level: IMO
 **Method:** [[method_estremalita|Extremal principle]], [[method_induzione|Induction]]
 **Skill:** [[skill_astrazione|Abstraction / generalisation]]
 **Area:** [[Algebra e Analisi|Algebra and analysis]]
-
-[[Quesiti/src_imo_1977_all#q06|src_imo_1977_all__Q06]]

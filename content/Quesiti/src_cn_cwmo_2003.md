@@ -10,7 +10,7 @@ level: China Western Mathematical Olympiad
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_combinatoria,topic_aritmetica,method_estremalita,method_casework,skill_casework_accurato,skill_conteggio_sistematico,skill_ragionamento_geometrico"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_combinatoria,topic_aritmetica,topic_geometria_solida,method_estremalita,method_casework,skill_casework_accurato,skill_conteggio_sistematico,skill_ragionamento_geometrico"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -19,12 +19,12 @@ level: China Western Mathematical Olympiad
 
 > Put numbers $1, 2, 3, 4, 5, 6, 7$ and $8$ at the vertices of a cube, such that the sum of any three numbers on any face is not less than $10$. Find the minimum sum of the four numbers on a face.
 
-![[src_cn_cwmo_2003__q01.png]]
+![[src_cn_cwmo_2003__Q01.png]]
 
-**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_geometria_solida|Solid geometry]]
 **Metodo:** [[method_estremalita|Estremalità]], [[method_casework|Casework]]
 **Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
-**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Geometria|Geometry]]
 **Risposta:** 16
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1Bie5BlTQQyjdGifDyOeZ-kZzNFzUwbxT/view)
 
@@ -36,18 +36,17 @@ level: China Western Mathematical Olympiad
 
 > Colloca i numeri $1, 2, 3, 4, 5, 6, 7$ e $8$ sui vertici di un cubo, in modo che la somma di tre numeri qualsiasi su una faccia qualsiasi non sia inferiore a $10$. Determinare la somma minima dei quattro numeri su una faccia.
 
-![[src_cn_cwmo_2003__q01.png]]
+![[src_cn_cwmo_2003__Q01.png]]
 
-**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_geometria_solida|Geometria solida]]
 **Metodo:** [[method_estremalita|Estremalità]], [[method_casework|Casework]]
 **Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
-**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
-
-[[Quesiti/src_cn_cwmo_2003#q01|src_cn_cwmo_2003__Q01]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]], [[Geometria]]
 
 
 
-<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_disuguaglianze,topic_algebra,method_disuguaglianze,skill_manipolazione_algebrica,skill_stima"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_disuguaglianze,topic_algebra,method_disuguaglianze,skill_manipolazione_algebrica,skill_stima,skill_modellizzazione"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -58,8 +57,8 @@ level: China Western Mathematical Olympiad
 
 **Topic:** [[topic_disuguaglianze|Disuguaglianze]], [[topic_algebra|Algebra]]
 **Metodo:** [[method_disuguaglianze|Disuguaglianze]]
-**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]]
-**Area:** [[Algebra e Analisi]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]], [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1Bie5BlTQQyjdGifDyOeZ-kZzNFzUwbxT/view)
 
 
@@ -70,16 +69,15 @@ level: China Western Mathematical Olympiad
 
 > Sia $a_1, a_2, \ldots, a_{2n}$ un insieme di numeri reali con $\sum_{k=1}^{2n-1}(a_{k+1} - a_k)^2 = 1$. Determinare il valore massimo di $(a_{n+1} + a_{n+2} + \cdots + a_{2n}) - (a_1 + a_2 + \cdots + a_n)$.
 
+
 **Topic:** [[topic_disuguaglianze|Disuguaglianze]], [[topic_algebra|Algebra]]
 **Metodo:** [[method_disuguaglianze|Disuguaglianze]]
-**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
 **Area:** [[Algebra e Analisi]]
 
-[[Quesiti/src_cn_cwmo_2003#q02|src_cn_cwmo_2003__Q02]]
 
 
-
-<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_aritmetica,topic_combinatoria,method_congruenze,method_estremalita,skill_conteggio_sistematico,skill_lettura_attenta,skill_ragionamento_geometrico"></span>
+<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_aritmetica,topic_combinatoria,method_congruenze,method_estremalita,method_conteggio,skill_conteggio_sistematico,skill_lettura_attenta,skill_ragionamento_geometrico"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -89,9 +87,9 @@ level: China Western Mathematical Olympiad
 > Let $n$ be a given positive integer. Find the least positive integer $d$ such that in every $n$ consecutive positive odd numbers the number of integers not divisible by $d$ is not less than the number of integers divisible by $d$ in $1, 3, 5, \ldots, 2n-1$.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
-**Metodo:** [[method_congruenze|Congruenze]], [[method_estremalita|Estremalità]]
+**Metodo:** [[method_congruenze|Congruenze]], [[method_estremalita|Estremalità]], [[method_conteggio|Combinatorial counting]]
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
-**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1Bie5BlTQQyjdGifDyOeZ-kZzNFzUwbxT/view)
 
 
@@ -102,16 +100,15 @@ level: China Western Mathematical Olympiad
 
 > Sia $n$ un intero positivo dato. Determinare il minimo intero positivo $d$ tale che, in ogni insieme di $n$ numeri dispari positivi consecutivi, il numero di interi non divisibili per $d$ non sia inferiore al numero di interi divisibili per $d$ in $1, 3, 5, \ldots, 2n-1$.
 
+
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
-**Metodo:** [[method_congruenze|Congruenze]], [[method_estremalita|Estremalità]]
+**Metodo:** [[method_congruenze|Congruenze]], [[method_estremalita|Estremalità]], [[method_conteggio|Conteggio combinatorio]]
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 
-[[Quesiti/src_cn_cwmo_2003#q03|src_cn_cwmo_2003__Q03]]
 
 
-
-<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_geometria_piana,method_coordinate,skill_ragionamento_geometrico,skill_modellizzazione"></span>
+<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_geometria_piana,method_coordinate,skill_ragionamento_geometrico,skill_modellizzazione,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -120,12 +117,12 @@ level: China Western Mathematical Olympiad
 
 > Suppose the sum of distances from any point $P$ on a convex quadrilateral $ABCD$ to lines $AB$, $BC$, $CD$ and $DA$ is constant. Prove that $ABCD$ is a parallelogram.
 
-![[src_cn_cwmo_2003__q04.png]]
+![[src_cn_cwmo_2003__Q04.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_coordinate|Coordinate]]
-**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]]
-**Area:** [[Geometria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Geometria|Geometry]]
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1Bie5BlTQQyjdGifDyOeZ-kZzNFzUwbxT/view)
 
 
@@ -136,18 +133,17 @@ level: China Western Mathematical Olympiad
 
 > Supponiamo che la somma delle distanze da un qualunque punto $P$ appartenente a un quadrilatero convesso $ABCD$ alle rette $AB$, $BC$, $CD$ e $DA$ sia costante. Dimostrare che $ABCD$ è un parallelogramma.
 
-![[src_cn_cwmo_2003__q04.png]]
+![[src_cn_cwmo_2003__Q04.png]]
+
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_coordinate|Coordinate]]
-**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 
-[[Quesiti/src_cn_cwmo_2003#q04|src_cn_cwmo_2003__Q04]]
 
 
-
-<span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_algebra,topic_aritmetica,method_induzione,method_ricorsione,skill_manipolazione_algebrica,skill_riconoscimento_pattern"></span>
+<span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_algebra,topic_aritmetica,topic_funzionali,method_induzione,method_ricorsione,skill_manipolazione_algebrica,skill_riconoscimento_pattern"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -156,10 +152,10 @@ level: China Western Mathematical Olympiad
 
 > Let $\{a_n\}$ be a number sequence with $a_0 = 0$ and $a_{n+1} = \delta a_n - \sqrt{(\delta^2 - 1) \cdot 3 a_n^2 + 1}$, $n = 0, 1, 2, \ldots$ Prove that the sequence $\{a_n\}$ consists of integers and that $a_{n+1} \ge 2a_n - 1$ for all $n \ge 0$.
 
-**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_funzionali|Functional equations / sequences]]
 **Metodo:** [[method_induzione|Induzione]], [[method_ricorsione|Ricorsione]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
-**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1Bie5BlTQQyjdGifDyOeZ-kZzNFzUwbxT/view)
 
 
@@ -170,12 +166,11 @@ level: China Western Mathematical Olympiad
 
 > Sia $\{a_n\}$ una successione numerica con $a_0 = 0$ e $a_{n+1} = \delta a_n - \sqrt{(\delta^2 - 1) \cdot 3 a_n^2 + 1}$, $n = 0, 1, 2, \ldots$. Dimostrare che la successione $\{a_n\}$ è composta da interi e che $a_{n+1} \ge 2a_n - 1$ per tutti gli $n \ge 0$.
 
-**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_funzionali|Equazioni funzionali / successioni]]
 **Metodo:** [[method_induzione|Induzione]], [[method_ricorsione|Ricorsione]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
-
-[[Quesiti/src_cn_cwmo_2003#q05|src_cn_cwmo_2003__Q05]]
 
 
 
@@ -188,7 +183,7 @@ level: China Western Mathematical Olympiad
 
 > Suppose the convex quadrilateral $ABCD$ has an inscribed circle. The circle touches $AB$, $BC$, $CD$, $DA$ at $A_1$, $B_1$, $C_1$, $D_1$ respectively. Let $H$ be the midpoint of $D_1 A_1$, and lines $A_1 B_1$ and $D_1 C_1$ meet at $E$. Let $F$ and $G$ be the midpoints of sides $B_1 C_1$ and $D_1 A_1$ respectively, and lines $A_1 D_1$ and $B_1 C_1$ meet at point $I$. Prove that $E$, $F$, $G$, $H$ lie on one circle if and only if $ABCD$ is a cyclic quadrilateral.
 
-![[src_cn_cwmo_2003__q06.png]]
+![[src_cn_cwmo_2003__Q06.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_coordinate|Coordinate]], [[method_trigonometria|Trigonometria]]
@@ -204,14 +199,12 @@ level: China Western Mathematical Olympiad
 
 > Supponiamo che il quadrilatero convesso $ABCD$ abbia una circonferenza inscritta. La circonferenza è tangente a $AB$, $BC$, $CD$, $DA$ rispettivamente nei punti $A_1$, $B_1$, $C_1$, $D_1$. Sia $H$ il punto medio di $D_1 A_1$, e le rette $A_1 B_1$ e $D_1 C_1$ si incontrino in $E$. Siano $F$ e $G$ i punti medi dei lati $B_1 C_1$ e $D_1 A_1$ rispettivamente, e le rette $A_1 D_1$ e $B_1 C_1$ si incontrino nel punto $I$. Dimostrare che $E$, $F$, $G$, $H$ giacciono su una circonferenza se e solo se $ABCD$ è un quadrilatero ciclico.
 
-![[src_cn_cwmo_2003__q06.png]]
+![[src_cn_cwmo_2003__Q06.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_coordinate|Coordinate]], [[method_trigonometria|Trigonometria]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]]
 **Area:** [[Geometria]]
-
-[[Quesiti/src_cn_cwmo_2003#q06|src_cn_cwmo_2003__Q06]]
 
 
 
@@ -243,8 +236,6 @@ level: China Western Mathematical Olympiad
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]]
 **Area:** [[Algebra e Analisi]]
 
-[[Quesiti/src_cn_cwmo_2003#q07|src_cn_cwmo_2003__Q07]]
-
 
 
 <span class="atom-split" id="q08" data-atom="q08" data-title="Quesito 8" data-tags="topic_combinatoria,method_doppio_conteggio,method_disuguaglianze,skill_conteggio_sistematico,skill_modellizzazione,skill_stima"></span>
@@ -274,5 +265,3 @@ level: China Western Mathematical Olympiad
 **Metodo:** [[method_doppio_conteggio|Doppio conteggio]], [[method_disuguaglianze|Disuguaglianze]]
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione]], [[skill_stima|Stima]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
-
-[[Quesiti/src_cn_cwmo_2003#q08|src_cn_cwmo_2003__Q08]]

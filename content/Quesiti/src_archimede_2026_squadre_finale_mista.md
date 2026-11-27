@@ -10,7 +10,7 @@ level: squadre
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_logica,topic_combinatoria,method_casework,method_colorazione"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_logica,topic_combinatoria,method_casework,method_colorazione,skill_casework_accurato,skill_modellizzazione"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -27,6 +27,7 @@ level: squadre
 
 **Topic:** [[topic_logica|Logica, giochi, strategie]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_casework|Analisi per casi]], [[method_colorazione|Colorazione / parita]]
+**Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0200
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1DIqnx43Z5C3I5us_yVI2nkJokGWXPrVZ/view)
@@ -42,13 +43,14 @@ level: squadre
 > After yet another attack by the dragons, all 1000 Vikings of the village of Berkhoff gather around a round table to discuss defence strategies. Some of them are loyal Vikings, who always tell the truth, while others are cheating Vikings, who always lie. Taking turns, each of them states: "In total, among the two Vikings seated to my right and the two Vikings seated to my left, there is an even number of loyal Vikings." What is the minimum possible number of loyal Vikings?
 
 
-**Topic:** [[topic_logica|Logic, games, strategies]], [[topic_combinatoria|Combinatorics]]
-**Method:** [[method_casework|Case analysis]], [[method_colorazione|Colouring / parity]]
-[[Quesiti/src_archimede_2026_squadre_finale_mista#q01|src_archimede_2026_squadre_finale_mista__Q01]]
+**Topic:** [[topic_logica|Logic, games and strategies]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_casework|Case analysis]], [[method_colorazione|Colouring / parity]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]], [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
 
 
-<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_disuguaglianze,method_disuguaglianze"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_disuguaglianze,topic_algebra,method_disuguaglianze,method_casework,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -69,8 +71,9 @@ level: squadre
 > rimprovera, ripensa alla disequazione appena studiata e si domanda: «Qual è il minimo intero positivo k
 > per cui esiste un intero positivo t che la soddisfa?».
 
-**Topic:** [[topic_disuguaglianze|Disuguaglianze]]
-**Metodo:** [[method_disuguaglianze|Disuguaglianze classiche]]
+**Topic:** [[topic_disuguaglianze|Disuguaglianze]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze classiche]], [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Algebra e Analisi]]
 **Risposta:** 0000
 **Fonte:** [apri PDF p.1](https://drive.google.com/file/d/1DIqnx43Z5C3I5us_yVI2nkJokGWXPrVZ/view)
@@ -94,13 +97,14 @@ level: squadre
 > “I got it!” Hilcup exclaims, but when he tells the others, no one believes him. So, while his father reproaches him, he rethinks the inequality just studied and asks himself: “What is the smallest positive integer k for which there exists a positive integer t that satisfies it?”
 
 
-**Topic:** [[topic_disuguaglianze|Inequalities]]
-**Method:** [[method_disuguaglianze|Classical inequalities]]
-[[Quesiti/src_archimede_2026_squadre_finale_mista#q02|src_archimede_2026_squadre_finale_mista__Q02]]
+**Topic:** [[topic_disuguaglianze|Inequalities]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_disuguaglianze|Classical inequalities]], [[method_casework|Case analysis]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
 
 
 
-<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_geometria_piana,skill_ragionamento_geometrico"></span>
+<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_geometria_piana,method_coordinate,skill_ragionamento_geometrico"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -120,6 +124,7 @@ level: squadre
 > l’ulteriore intersezione della retta QK con Γ. Quanti centimetri misura QX?
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_coordinate|Metodo delle coordinate]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]]
 **Risposta:** 0120
@@ -131,6 +136,8 @@ level: squadre
 
 *Length QX with tangent and secant-tangent theorem*
 
+![[src_archimede_2026_squadre_finale_mista__prob3.png]]
+
 > That shield is mine!
 > Francesco Laganà
 > “If you are forced to choose between a sword and a shield, take the shield,” Scalarchio repeats to the young
@@ -140,12 +147,13 @@ level: squadre
 
 
 **Topic:** [[topic_geometria_piana|Plane geometry]]
-**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
-[[Quesiti/src_archimede_2026_squadre_finale_mista#q03|src_archimede_2026_squadre_finale_mista__Q03]]
+**Metodo:** [[method_coordinate|Coordinate method]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
 
 
 
-<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_geometria_piana,skill_ragionamento_geometrico"></span>
+<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_geometria_piana,topic_trigonometria,method_trigonometria,skill_ragionamento_geometrico"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -171,7 +179,8 @@ level: squadre
 > M
 > N
 
-**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometria]]
+**Metodo:** [[method_trigonometria|Tecniche trigonometriche]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]]
 **Risposta:** 0030
@@ -182,6 +191,8 @@ level: squadre
 
 
 *Length MN of the mid-segment of a trapezium with angles 55° and 35°*
+
+![[src_archimede_2026_squadre_finale_mista__prob4.png]]
 
 > Artificial wing
 > Leonardo Franchi
@@ -197,13 +208,14 @@ level: squadre
 > N
 
 
-**Topic:** [[topic_geometria_piana|Plane geometry]]
-**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
-[[Quesiti/src_archimede_2026_squadre_finale_mista#q04|src_archimede_2026_squadre_finale_mista__Q04]]
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_trigonometria|Trigonometry]]
+**Metodo:** [[method_trigonometria|Trigonometric techniques]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
 
 
 
-<span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_aritmetica,method_casework,skill_casework_accurato"></span>
+<span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_aritmetica,topic_combinatoria,method_casework,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -218,10 +230,10 @@ level: squadre
 > di ciascuna delle proprie cifre» spiega Scalarchio. Tra tutte le possibili soluzioni, Nashtrid trova la terna di
 > numeri con somma massima S, mentre Moduloso trova quella con somma minima s. Quanto vale S +s?
 
-**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_casework|Analisi per casi]]
 **Abilita:** [[skill_casework_accurato|Casework accurato]]
-**Area:** [[Aritmetica e Teoria dei Numeri]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 2754
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1DIqnx43Z5C3I5us_yVI2nkJokGWXPrVZ/view)
 
@@ -240,14 +252,14 @@ level: squadre
 > numbers with maximum sum S, while Moduloso finds the one with minimum sum s. What is S + s?
 
 
-**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
-**Method:** [[method_casework|Case analysis]]
-**Skill:** [[skill_casework_accurato|Careful casework]]
-[[Quesiti/src_archimede_2026_squadre_finale_mista#q05|src_archimede_2026_squadre_finale_mista__Q05]]
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_casework_accurato|Careful casework]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
 
 
-<span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_aritmetica,method_congruenze"></span>
+<span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_aritmetica,method_congruenze,skill_casework_accurato,skill_manipolazione_algebrica,skill_stima"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -263,6 +275,7 @@ level: squadre
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]]
+**Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima e approssimazione]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 0030
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1DIqnx43Z5C3I5us_yVI2nkJokGWXPrVZ/view)
@@ -279,12 +292,13 @@ level: squadre
 
 
 **Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
-**Method:** [[method_congruenze|Modular arithmetic / congruences]]
-[[Quesiti/src_archimede_2026_squadre_finale_mista#q06|src_archimede_2026_squadre_finale_mista__Q06]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]], [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_stima|Estimation and approximation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
 
 
-<span class="atom-split" id="q07" data-atom="q07" data-title="Quesito 7" data-tags="topic_aritmetica,method_congruenze"></span>
+<span class="atom-split" id="q07" data-atom="q07" data-title="Quesito 7" data-tags="topic_aritmetica,method_congruenze,skill_casework_accurato,skill_riconoscimento_pattern"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -301,6 +315,7 @@ level: squadre
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]]
+**Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 4568
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1DIqnx43Z5C3I5us_yVI2nkJokGWXPrVZ/view)
@@ -318,12 +333,13 @@ level: squadre
 
 
 **Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
-**Method:** [[method_congruenze|Modular arithmetic / congruences]]
-[[Quesiti/src_archimede_2026_squadre_finale_mista#q07|src_archimede_2026_squadre_finale_mista__Q07]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]], [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
 
 
-<span class="atom-split" id="q08" data-atom="q08" data-title="Quesito 8" data-tags="topic_algebra,method_fattorizzazione"></span>
+<span class="atom-split" id="q08" data-atom="q08" data-title="Quesito 8" data-tags="topic_algebra,method_fattorizzazione,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -339,6 +355,7 @@ level: squadre
 
 **Topic:** [[topic_algebra|Algebra]]
 **Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Algebra e Analisi]]
 **Risposta:** 0004
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1DIqnx43Z5C3I5us_yVI2nkJokGWXPrVZ/view)
@@ -358,12 +375,13 @@ level: squadre
 
 
 **Topic:** [[topic_algebra|Algebra]]
-**Method:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
-[[Quesiti/src_archimede_2026_squadre_finale_mista#q08|src_archimede_2026_squadre_finale_mista__Q08]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
 
 
 
-<span class="atom-split" id="q09" data-atom="q09" data-title="Quesito 9" data-tags="topic_algebra,topic_combinatoria,method_casework,method_conteggio,skill_casework_accurato"></span>
+<span class="atom-split" id="q09" data-atom="q09" data-title="Quesito 9" data-tags="topic_algebra,topic_combinatoria,method_casework,method_conteggio,skill_casework_accurato,skill_manipolazione_algebrica,skill_conteggio_sistematico"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -382,10 +400,10 @@ level: squadre
 
 **Topic:** [[topic_algebra|Algebra]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_casework|Analisi per casi]], [[method_conteggio|Conteggio combinatorio]]
-**Abilita:** [[skill_casework_accurato|Casework accurato]]
+**Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Algebra e Analisi]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0122
-**Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1DIqnx43Z5C3I5us_yVI2nkJokGWXPrVZ/view)
+**Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1DIqnx43Z5C3I5us_yVI2nkJokGWXPrVZ/view)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -393,25 +411,19 @@ level: squadre
 
 *Cubic monic polynomials with single-digit roots and coefficients*
 
-> Figlio di un mezzo troll
+> Son of a half-troll
 > Fabio Lilliu
-> Nashtrid osserva con crescente fastidio i continui progressi di Hilcup: non solo è diventato sorprendentemente
-> bravo con i draghi, ma pare cavarsela fin troppo bene anche con la matematica. Per metterlo alla prova,
-> decide di proporgli un quesito: «Quanti sono i polinomi di terzo grado a coefficienti interi per cui tutte
-> e tre le radici sono interi di una sola cifra, tutti i coefficienti sono anch’essi interi di una sola cifra e il
-> coefficiente di grado tre è esattamente uno?». Hilcup chiede: «Posso usare anche interi negativi?», a cui
-> Nashtrid risponde: «Certo, tutti gli interi tra −9 e 9». Neanche il tempo di finire, che Hilcup già ha risolto il
-> problema. «Figlio di un mezzo troll!» urla Nashtrid spazientita. Qual è la risposta al quesito di Nashtrid?
+> Nashtrid watches Hilcup’s steady progress with growing irritation: he has not only become surprisingly good with dragons, he also seems far too much at home with mathematics. To put him to the test she sets a question: “How many cubic polynomials with integer coefficients have all three roots single-digit integers, every coefficient a single-digit integer as well, and leading coefficient exactly one?” Hilcup asks: “May I use negative integers too?” Nashtrid answers: “Of course — every integer from −9 to 9.” He has it solved before she has finished speaking. “Son of a half-troll!” Nashtrid shouts, out of patience. What is the answer to Nashtrid’s question?
 
 
 **Topic:** [[topic_algebra|Algebra]], [[topic_combinatoria|Combinatorics]]
-**Method:** [[method_casework|Case analysis]], [[method_conteggio|Combinatorial counting]]
-**Skill:** [[skill_casework_accurato|Careful casework]]
-[[Quesiti/src_archimede_2026_squadre_finale_mista#q09|src_archimede_2026_squadre_finale_mista__Q09]]
+**Metodo:** [[method_casework|Case analysis]], [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_casework_accurato|Careful casework]], [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
 
 
-<span class="atom-split" id="q10" data-atom="q10" data-title="Quesito 10" data-tags="topic_aritmetica,topic_combinatoria,method_congruenze,method_invarianti"></span>
+<span class="atom-split" id="q10" data-atom="q10" data-title="Quesito 10" data-tags="topic_aritmetica,topic_combinatoria,method_congruenze,method_invarianti,skill_modellizzazione,skill_astrazione"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -431,6 +443,7 @@ level: squadre
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]], [[method_invarianti|Invarianti / monovarianti]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_astrazione|Astrazione / generalizzazione]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0016
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1DIqnx43Z5C3I5us_yVI2nkJokGWXPrVZ/view)
@@ -453,12 +466,13 @@ level: squadre
 
 
 **Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_combinatoria|Combinatorics]]
-**Method:** [[method_congruenze|Modular arithmetic / congruences]], [[method_invarianti|Invariants / monovariants]]
-[[Quesiti/src_archimede_2026_squadre_finale_mista#q10|src_archimede_2026_squadre_finale_mista__Q10]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]], [[method_invarianti|Invariants / monovariants]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]], [[skill_astrazione|Abstraction / generalisation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
 
 
-<span class="atom-split" id="q11" data-atom="q11" data-title="Quesito 11" data-tags="topic_geometria_piana,method_coordinate,skill_ragionamento_geometrico"></span>
+<span class="atom-split" id="q11" data-atom="q11" data-title="Quesito 11" data-tags="topic_geometria_piana,method_coordinate,method_simmetria,skill_ragionamento_geometrico"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -501,7 +515,7 @@ level: squadre
 > 3
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
-**Metodo:** [[method_coordinate|Metodo delle coordinate]]
+**Metodo:** [[method_coordinate|Metodo delle coordinate]], [[method_simmetria|Sfruttamento della simmetria]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]]
 **Risposta:** 4444
@@ -512,6 +526,8 @@ level: squadre
 
 
 *Visible black paper area after folding the square*
+
+![[src_archimede_2026_squadre_finale_mista__prob11.png]]
 
 > Fraintendimenti
 > Giacomo Gallina
@@ -539,13 +555,13 @@ level: squadre
 
 
 **Topic:** [[topic_geometria_piana|Plane geometry]]
-**Method:** [[method_coordinate|Coordinate method]]
-**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
-[[Quesiti/src_archimede_2026_squadre_finale_mista#q11|src_archimede_2026_squadre_finale_mista__Q11]]
+**Metodo:** [[method_coordinate|Coordinate method]], [[method_simmetria|Using symmetry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
 
 
 
-<span class="atom-split" id="q12" data-atom="q12" data-title="Quesito 12" data-tags="topic_combinatoria,method_casework,method_conteggio,skill_conteggio_sistematico"></span>
+<span class="atom-split" id="q12" data-atom="q12" data-title="Quesito 12" data-tags="topic_combinatoria,method_casework,method_conteggio,skill_conteggio_sistematico,skill_lettura_attenta"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -562,7 +578,7 @@ level: squadre
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_casework|Analisi per casi]], [[method_conteggio|Conteggio combinatorio]]
-**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta del testo]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 4560
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1DIqnx43Z5C3I5us_yVI2nkJokGWXPrVZ/view)
@@ -583,13 +599,13 @@ level: squadre
 
 
 **Topic:** [[topic_combinatoria|Combinatorics]]
-**Method:** [[method_casework|Case analysis]], [[method_conteggio|Combinatorial counting]]
-**Skill:** [[skill_conteggio_sistematico|Systematic counting]]
-[[Quesiti/src_archimede_2026_squadre_finale_mista#q12|src_archimede_2026_squadre_finale_mista__Q12]]
+**Metodo:** [[method_casework|Case analysis]], [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]], [[skill_lettura_attenta|Careful reading of the text]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
 
 
-<span class="atom-split" id="q13" data-atom="q13" data-title="Quesito 13" data-tags="topic_combinatoria,method_casework,method_conteggio,skill_casework_accurato"></span>
+<span class="atom-split" id="q13" data-atom="q13" data-title="Quesito 13" data-tags="topic_combinatoria,method_casework,method_conteggio,skill_casework_accurato,skill_conteggio_sistematico,skill_modellizzazione"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -610,7 +626,7 @@ level: squadre
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_casework|Analisi per casi]], [[method_conteggio|Conteggio combinatorio]]
-**Abilita:** [[skill_casework_accurato|Casework accurato]]
+**Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0515
 **Fonte:** [apri PDF p.5](https://drive.google.com/file/d/1DIqnx43Z5C3I5us_yVI2nkJokGWXPrVZ/view)
@@ -627,13 +643,13 @@ level: squadre
 
 
 **Topic:** [[topic_combinatoria|Combinatorics]]
-**Method:** [[method_casework|Case analysis]], [[method_conteggio|Combinatorial counting]]
-**Skill:** [[skill_casework_accurato|Careful casework]]
-[[Quesiti/src_archimede_2026_squadre_finale_mista#q13|src_archimede_2026_squadre_finale_mista__Q13]]
+**Metodo:** [[method_casework|Case analysis]], [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_casework_accurato|Careful casework]], [[skill_conteggio_sistematico|Systematic counting]], [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
 
 
-<span class="atom-split" id="q14" data-atom="q14" data-title="Quesito 14" data-tags="topic_combinatoria,method_congruenze,method_conteggio,skill_astrazione"></span>
+<span class="atom-split" id="q14" data-atom="q14" data-title="Quesito 14" data-tags="topic_combinatoria,method_congruenze,method_conteggio,skill_astrazione,skill_casework_accurato,skill_modellizzazione"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -654,7 +670,7 @@ level: squadre
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]], [[method_conteggio|Conteggio combinatorio]]
-**Abilita:** [[skill_astrazione|Astrazione / generalizzazione]]
+**Abilita:** [[skill_astrazione|Astrazione / generalizzazione]], [[skill_casework_accurato|Casework accurato]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 8400
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/1DIqnx43Z5C3I5us_yVI2nkJokGWXPrVZ/view)
@@ -671,13 +687,13 @@ level: squadre
 
 
 **Topic:** [[topic_combinatoria|Combinatorics]]
-**Method:** [[method_congruenze|Modular arithmetic / congruences]], [[method_conteggio|Combinatorial counting]]
-**Skill:** [[skill_astrazione|Abstraction / generalisation]]
-[[Quesiti/src_archimede_2026_squadre_finale_mista#q14|src_archimede_2026_squadre_finale_mista__Q14]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]], [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_astrazione|Abstraction / generalisation]], [[skill_casework_accurato|Careful case analysis]], [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
 
 
-<span class="atom-split" id="q15" data-atom="q15" data-title="Quesito 15" data-tags="topic_algebra,topic_logica"></span>
+<span class="atom-split" id="q15" data-atom="q15" data-title="Quesito 15" data-tags="topic_algebra,topic_logica,method_fattorizzazione,skill_manipolazione_algebrica,skill_riconoscimento_pattern"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -698,6 +714,8 @@ level: squadre
 > Odinowatt consumerà al minimo Eret(eret) per calcolare entrambe le espressioni?
 
 **Topic:** [[topic_algebra|Algebra]], [[topic_logica|Logica, giochi, strategie]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Algebra e Analisi]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0109
 **Fonte:** [apri PDF p.6](https://drive.google.com/file/d/1DIqnx43Z5C3I5us_yVI2nkJokGWXPrVZ/view)
@@ -722,12 +740,14 @@ level: squadre
 > Odinowatts will Eret(eret) consume at minimum to calculate both expressions?
 
 
-**Topic:** [[topic_algebra|Algebra]], [[topic_logica|Logic, games, strategies]]
-[[Quesiti/src_archimede_2026_squadre_finale_mista#q15|src_archimede_2026_squadre_finale_mista__Q15]]
+**Topic:** [[topic_algebra|Algebra]], [[topic_logica|Logic, games and strategies]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
 
 
-<span class="atom-split" id="q16" data-atom="q16" data-title="Quesito 16" data-tags="topic_aritmetica,topic_geometria_analitica,method_colorazione,method_congruenze"></span>
+<span class="atom-split" id="q16" data-atom="q16" data-title="Quesito 16" data-tags="topic_aritmetica,topic_geometria_analitica,method_colorazione,method_congruenze,method_grafi,skill_astrazione"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -743,7 +763,8 @@ level: squadre
 > Qual è il massimo numero di colori che usare potrò?»
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_geometria_analitica|Geometria analitica]]
-**Metodo:** [[method_colorazione|Colorazione / parita]], [[method_congruenze|Aritmetica modulare / congruenze]]
+**Metodo:** [[method_colorazione|Colorazione / parita]], [[method_congruenze|Aritmetica modulare / congruenze]], [[method_grafi|Teoria dei grafi]]
+**Abilita:** [[skill_astrazione|Astrazione / generalizzazione]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Geometria]]
 **Risposta:** 8464
 **Fonte:** [apri PDF p.8](https://drive.google.com/file/d/1DIqnx43Z5C3I5us_yVI2nkJokGWXPrVZ/view)
@@ -763,13 +784,14 @@ level: squadre
 > What is the maximum number of colours I can use?”
 
 
-**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_geometria_analitica|Analytic geometry]]
-**Method:** [[method_colorazione|Colouring / parity]], [[method_congruenze|Modular arithmetic / congruences]]
-[[Quesiti/src_archimede_2026_squadre_finale_mista#q16|src_archimede_2026_squadre_finale_mista__Q16]]
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_geometria_analitica|Coordinate geometry]]
+**Metodo:** [[method_colorazione|Colouring / parity]], [[method_congruenze|Modular arithmetic / congruences]], [[method_grafi|Graph theory]]
+**Abilita:** [[skill_astrazione|Abstraction / generalisation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Geometria|Geometry]]
 
 
 
-<span class="atom-split" id="q17" data-atom="q17" data-title="Quesito 17" data-tags="topic_geometria_solida,topic_geometria_piana,skill_ragionamento_geometrico"></span>
+<span class="atom-split" id="q17" data-atom="q17" data-title="Quesito 17" data-tags="topic_geometria_solida,topic_geometria_piana,topic_trigonometria,method_trigonometria,skill_ragionamento_geometrico"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -813,7 +835,8 @@ level: squadre
 > 30°
 > Gara a Squadre 2026 – Finale Nazionale – Testi dei problemi – 9/12
 
-**Topic:** [[topic_geometria_solida|Geometria solida]], [[topic_geometria_piana|Geometria piana]]
+**Topic:** [[topic_geometria_solida|Geometria solida]], [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometria]]
+**Metodo:** [[method_trigonometria|Tecniche trigonometriche]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]]
 **Risposta:** 0492
@@ -824,6 +847,8 @@ level: squadre
 
 
 *Shade area of a conical frustum with sun at 30°*
+
+![[src_archimede_2026_squadre_finale_mista__prob17.png]]
 
 > Icy trap
 > Lorenzo Cortesi
@@ -838,13 +863,14 @@ level: squadre
 > Gara a Squadre 2026 – Finale Nazionale – Testi dei problemi – 9/12
 
 
-**Topic:** [[topic_geometria_solida|Solid geometry]], [[topic_geometria_piana|Plane geometry]]
-**Skill:** [[skill_ragionamento_geometrico|Geometric reasoning]]
-[[Quesiti/src_archimede_2026_squadre_finale_mista#q17|src_archimede_2026_squadre_finale_mista__Q17]]
+**Topic:** [[topic_geometria_solida|Solid geometry]], [[topic_geometria_piana|Plane geometry]], [[topic_trigonometria|Trigonometry]]
+**Metodo:** [[method_trigonometria|Trigonometric techniques]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
 
 
 
-<span class="atom-split" id="q18" data-atom="q18" data-title="Quesito 18" data-tags="topic_algebra,method_fattorizzazione,skill_manipolazione_algebrica"></span>
+<span class="atom-split" id="q18" data-atom="q18" data-title="Quesito 18" data-tags="topic_algebra,method_fattorizzazione,skill_manipolazione_algebrica,skill_riconoscimento_pattern"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -861,7 +887,7 @@ level: squadre
 
 **Topic:** [[topic_algebra|Algebra]]
 **Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
-**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Algebra e Analisi]]
 **Risposta:** 0012
 **Fonte:** [apri PDF p.9](https://drive.google.com/file/d/1DIqnx43Z5C3I5us_yVI2nkJokGWXPrVZ/view)
@@ -882,13 +908,13 @@ level: squadre
 
 
 **Topic:** [[topic_algebra|Algebra]]
-**Method:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
-**Skill:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
-[[Quesiti/src_archimede_2026_squadre_finale_mista#q18|src_archimede_2026_squadre_finale_mista__Q18]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
 
 
 
-<span class="atom-split" id="q19" data-atom="q19" data-title="Quesito 19" data-tags="topic_combinatoria,method_invarianti,skill_astrazione"></span>
+<span class="atom-split" id="q19" data-atom="q19" data-title="Quesito 19" data-tags="topic_combinatoria,method_invarianti,method_ricorsione,skill_astrazione,skill_conteggio_sistematico"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -897,32 +923,38 @@ level: squadre
 
 ![[src_archimede_2026_squadre_finale_mista__prob19.png]]
 
-> 19. Ala ignifuga Eugenio Trovarelli Stellato si è innamorato di unaFourier Chiara, che però non va affatto d’accordo con gli umani. Hilcup capisce che è arrivato il momento di lasciarlo volare anche senza di lui e decide di rivestire l’ala artificiale con pelle di drago, così da renderla ignifuga. L’ala è una griglia6×10 di caselle quadrate, composta da6 righe e 10 colonne. I ritagli di pelle di drago sono a forma di trimino (oppure , in una qualunque rotazione). Hilcup riveste l’ala a partire dall’angolo in basso a sinistra, cucendo un ritaglio alla volta, senza sovrapporli. Per facilitare il lavoro, ogni casella coperta da un ritaglio appena cucito deve soddisfare la seguente condizione: l
+> 19. Ala ignifuga
+> Eugenio Trovarelli
+> Stellato si è innamorato di una Fourier Chiara, che però non va affatto d’accordo con gli umani. Hilcup capisce che è arrivato il momento di lasciarlo volare anche senza di lui e decide di rivestire l’ala artificiale con pelle di drago, così da renderla ignifuga. L’ala è una griglia $6 \times 10$ di caselle quadrate, composta da 6 righe e 10 colonne. I ritagli di pelle di drago sono a forma di trimino (a L oppure dritto, in una qualunque rotazione). Hilcup riveste l’ala a partire dall’angolo in basso a sinistra, cucendo un ritaglio alla volta, senza sovrapporli. Per facilitare il lavoro, ogni casella coperta da un ritaglio appena cucito deve soddisfare la seguente condizione: la casella immediatamente sotto, se esiste, e la casella immediatamente a sinistra, se esiste, devono essere coperte dal ritaglio appena cucito oppure da un ritaglio cucito in precedenza. In quanti modi Hilcup può rivestire l’intera ala, tenendo conto anche dell’ordine in cui i ritagli vengono cuciti? Dare come risposta la somma dei primi che dividono la soluzione, contati con molteplicità; ad esempio, se la risposta fosse $12 = 2^2 \cdot 3$, dare come risposta $2 \cdot 2 + 3 = 7$.
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
-**Metodo:** [[method_invarianti|Invarianti / monovarianti]]
-**Abilita:** [[skill_astrazione|Astrazione / generalizzazione]]
+**Metodo:** [[method_invarianti|Invarianti / monovarianti]], [[method_ricorsione|Ricorsione]]
+**Abilita:** [[skill_astrazione|Astrazione / generalizzazione]], [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0103
-**Fonte:** [apri PDF p.9](https://drive.google.com/file/d/1DIqnx43Z5C3I5us_yVI2nkJokGWXPrVZ/view)
+**Fonte:** [apri PDF p.10](https://drive.google.com/file/d/1DIqnx43Z5C3I5us_yVI2nkJokGWXPrVZ/view)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Modi rivestire griglia 6x10 con trimini, fattori primi*
+*Ways to cover a 6×10 grid with trominoes, answered by the sum of the prime factors*
 
-> 19. Ala ignifuga Eugenio Trovarelli Stellato si è innamorato di una Fourier Chiara, che però non va affatto d’accordo con gli umani. Hilcup capisce che è arrivato il momento di lasciarlo volare anche senza di lui e decide di rivestire l’ala artificiale con pelle di drago, così da renderla ignifuga. L’ala è una griglia 6×10 di caselle quadrate, composta da 6 righe e 10 colonne. I ritagli di pelle di drago sono a forma di trimino (oppure , in una qualunque rotazione). Hilcup riveste l’ala a partire dall’angolo in basso a sinistra, cucendo un ritaglio alla volta, senza sovrapporli. Per facilitare il lavoro, ogni casella coperta da un ritaglio appena cucito deve soddisfare la seguente condizione: l
+![[src_archimede_2026_squadre_finale_mista__prob19.png]]
+
+> 19. Fireproof wing
+> Eugenio Trovarelli
+> Stellato has fallen in love with a Fourier Chiara, who does not get on with humans at all. Hilcup sees that the time has come to let him fly on his own, and decides to cover the artificial wing with dragon skin so that fire will not touch it. The wing is a $6 \times 10$ grid of square cells, six rows by ten columns. The scraps of dragon skin are trominoes (the L shape or the straight bar, in any rotation). Hilcup covers the wing starting from the bottom-left corner, sewing one scrap at a time and without overlaps. To keep the work in order, every cell covered by a scrap just sewn must satisfy this condition: the cell immediately below, if there is one, and the cell immediately to the left, if there is one, are already covered either by that same scrap or by a scrap sewn earlier. In how many ways can Hilcup cover the whole wing, counting the order in which the scraps are sewn? As the answer, give the sum of the primes that divide this number, counted with multiplicity; if, for example, the number were $12 = 2^2 \cdot 3$, the answer to give would be $2 \cdot 2 + 3 = 7$.
 
 
 **Topic:** [[topic_combinatoria|Combinatorics]]
-**Method:** [[method_invarianti|Invariants / monovariants]]
-**Skill:** [[skill_astrazione|Abstraction / generalisation]]
-[[Quesiti/src_archimede_2026_squadre_finale_mista#q19|src_archimede_2026_squadre_finale_mista__Q19]]
+**Metodo:** [[method_invarianti|Invariants / monovariants]], [[method_ricorsione|Recursion]]
+**Abilita:** [[skill_astrazione|Abstraction / generalisation]], [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
 
 
-<span class="atom-split" id="q20" data-atom="q20" data-title="Quesito 20" data-tags="topic_geometria_piana,topic_trigonometria,method_coordinate,method_trigonometria"></span>
+<span class="atom-split" id="q20" data-atom="q20" data-title="Quesito 20" data-tags="topic_geometria_piana,topic_trigonometria,method_coordinate,method_trigonometria,method_simmetria,skill_ragionamento_geometrico"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -931,44 +963,54 @@ level: squadre
 
 ![[src_archimede_2026_squadre_finale_mista__prob20.png]]
 
-> 20. Il Mondo Nascosto Francesco Laganà Gli abitanti di Berkhoff stanno studiando un’antica mappa che, secondo la leggenda, conduce alMondo Nascosto. Su di essa è tracciato un triangoloABC, conAC>AB , tale che[ABC = [BCA +30◦. Le istruzioni per raggiungere il Mondo Nascosto sono riportate in una nota: «Considera il puntoZ, simmetrico diA rispetto al punto medio diBC. Traccia quindi la circonferenzaωcircoscritta al triangoloBCZ; le rette AB e AC intersecano nuovamenteωrispettivamente nei puntiP e Q. Siano inoltreX il centro diω, Y il circocentro del triangoloAPQ e M il punto medio diAX. Il Mondo Nascosto è rappresentato dal triangolo AGM, doveG è il baricentro diABC». Nella mappa sono indicate
+> 20. Il Mondo Nascosto
+> Francesco Laganà
+> Gli abitanti di Berkhoff stanno studiando un’antica mappa che, secondo la leggenda, conduce al Mondo Nascosto. Su di essa è tracciato un triangolo $ABC$, con $AC > AB$, tale che $\widehat{ABC} = \widehat{BCA} + 30^{\circ}$. Le istruzioni per raggiungere il Mondo Nascosto sono riportate in una nota: «Considera il punto $Z$, simmetrico di $A$ rispetto al punto medio di $BC$. Traccia quindi la circonferenza $\omega$ circoscritta al triangolo $BCZ$; le rette $AB$ e $AC$ intersecano nuovamente $\omega$ rispettivamente nei punti $P$ e $Q$. Siano inoltre $X$ il centro di $\omega$, $Y$ il circocentro del triangolo $APQ$ e $M$ il punto medio di $AX$. Il Mondo Nascosto è rappresentato dal triangolo $AGM$, dove $G$ è il baricentro di $ABC$». Nella mappa sono indicate anche le lunghezze reali di due segmenti: $XB = 488$ km e $YP = 423$ km. Per quanti km$^{2}$ si estende il Mondo Nascosto?
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometria]]
-**Metodo:** [[method_coordinate|Metodo delle coordinate]], [[method_trigonometria|Tecniche trigonometriche]]
+**Metodo:** [[method_coordinate|Metodo delle coordinate]], [[method_trigonometria|Tecniche trigonometriche]], [[method_simmetria|Sfruttamento della simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]]
 **Risposta:** 8601
-**Fonte:** [apri PDF p.10](https://drive.google.com/file/d/1DIqnx43Z5C3I5us_yVI2nkJokGWXPrVZ/view)
+**Fonte:** [apri PDF p.11](https://drive.google.com/file/d/1DIqnx43Z5C3I5us_yVI2nkJokGWXPrVZ/view)
 
 
 <div class="qlang-split" data-lang="en"></div>
 
 
-*Area triangolo AGM con costruzione su circonferenze*
+*Area of triangle AGM in a construction on two circles*
 
-> 20. Il Mondo Nascosto Francesco Laganà Gli abitanti di Berkhoff stanno studiando un’antica mappa che, secondo la leggenda, conduce alMondo Nascosto. Su di essa è tracciato un triangoloABC, conAC>AB , tale che[ABC = [BCA +30◦. Le istruzioni per raggiungere il Mondo Nascosto sono riportate in una nota: «Considera il puntoZ, simmetrico diA rispetto al punto medio diBC. Traccia quindi la circonferenzaωcircoscritta al triangoloBCZ; le rette AB e AC intersecano nuovamenteωrispettivamente nei puntiP e Q. Siano inoltreX il centro diω, Y il circocentro del triangoloAPQ e M il punto medio diAX. Il Mondo Nascosto è rappresentato dal triangolo AGM, doveG è il baricentro diABC». Nella mappa sono indicate
+![[src_archimede_2026_squadre_finale_mista__prob20.png]]
+
+> 20. The Hidden World
+> Francesco Laganà
+> The people of Berkhoff are studying an ancient map which, the legend says, leads to the Hidden World. Drawn on it is a triangle $ABC$, with $AC > AB$, such that $\widehat{ABC} = \widehat{BCA} + 30^{\circ}$. The way to the Hidden World is written in a note: “Take the point $Z$, the reflection of $A$ through the midpoint of $BC$. Draw the circle $\omega$ circumscribed about triangle $BCZ$; the lines $AB$ and $AC$ meet $\omega$ again at $P$ and $Q$ respectively. Let $X$ be the centre of $\omega$, let $Y$ be the circumcentre of triangle $APQ$, and let $M$ be the midpoint of $AX$. The Hidden World is the triangle $AGM$, where $G$ is the centroid of $ABC$.” The map also gives the true lengths of two segments: $XB = 488$ km and $YP = 423$ km. How many km$^{2}$ does the Hidden World cover?
 
 
 **Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_trigonometria|Trigonometry]]
-**Method:** [[method_coordinate|Coordinate method]], [[method_trigonometria|Trigonometric techniques]]
-[[Quesiti/src_archimede_2026_squadre_finale_mista#q20|src_archimede_2026_squadre_finale_mista__Q20]]
+**Metodo:** [[method_coordinate|Coordinate method]], [[method_trigonometria|Trigonometric techniques]], [[method_simmetria|Using symmetry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]]
 
 
 
-<span class="atom-split" id="q21" data-atom="q21" data-title="Quesito 21" data-tags="topic_aritmetica,method_casework,method_congruenze,skill_casework_accurato"></span>
+<span class="atom-split" id="q21" data-atom="q21" data-title="Quesito 21" data-tags="topic_aritmetica,method_casework,method_congruenze,method_fattorizzazione,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
 
 *Minimo somma 4 interi consecutivi stesso numero divisori*
 
-> 21. Addio Filippo Falqui Cao «La leggenda dice che, quando la terra trema o sputa fuori lava, sono i draghi che ci ricordano che esistono ancora...», pensa Hilcup, osservando un’ultima volta lo stormo di draghi allontanarsi nel cielo. «Il mondo crede che non esistano quattro interi positivi consecutivi con lo stesso numero di divisori, ma noi Berkhoffiani sappiamo che non è così, e custodiremo questo segreto finché non verrà il tempo in cui i draghi potranno tornare in pace». Qual è il minimo valore possibile della somma di questi quattro interi? Soluzione. Sia d il numero di divisori dei quattro interi consecutivi richiesti. Notiamo ched non può essere dispari perché non esistono4 quadrati
+> 21. Addio
+> Filippo Falqui Cao
+> «La leggenda dice che, quando la terra trema o sputa fuori lava, sono i draghi che ci ricordano che esistono ancora...», pensa Hilcup, osservando un’ultima volta lo stormo di draghi allontanarsi nel cielo. «Il mondo crede che non esistano quattro interi positivi consecutivi con lo stesso numero di divisori, ma noi Berkhoffiani sappiamo che non è così, e custodiremo questo segreto finché non verrà il tempo in cui i draghi potranno tornare in pace». Qual è il minimo valore possibile della somma di questi quattro interi?
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_casework|Analisi per casi]], [[method_congruenze|Aritmetica modulare / congruenze]]
+**Metodo:** [[method_casework|Analisi per casi]], [[method_congruenze|Aritmetica modulare / congruenze]], [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
 **Abilita:** [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 0974
-**Fonte:** [apri PDF p.11](https://drive.google.com/file/d/1DIqnx43Z5C3I5us_yVI2nkJokGWXPrVZ/view)
+**Fonte:** [apri PDF p.12](https://drive.google.com/file/d/1DIqnx43Z5C3I5us_yVI2nkJokGWXPrVZ/view)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -976,10 +1018,12 @@ level: squadre
 
 *Minimum sum of 4 consecutive integers with the same number of divisors*
 
-> 21. Addio Filippo Falqui Cao «La leggenda dice che, quando la terra trema o sputa fuori lava, sono i draghi che ci ricordano che esistono ancora...», pensa Hilcup, osservando un’ultima volta lo stormo di draghi allontanarsi nel cielo. «Il mondo crede che non esistano quattro interi positivi consecutivi con lo stesso numero di divisori, ma noi Berkhoffiani sappiamo che non è così, e custodiremo questo segreto finché non verrà il tempo in cui i draghi potranno tornare in pace». Qual è il minimo valore possibile della somma di questi quattro interi? Soluzione. Sia d il numero di divisori dei quattro interi consecutivi richiesti. Notiamo ched non può essere dispari perché non esistono4 quadrati
+> 21. Farewell
+> Filippo Falqui Cao
+> “The legend says that when the earth shakes, or spits lava, it is the dragons reminding us that they are still here...”, Hilcup thinks, watching a flock of dragons leave the sky for the last time. “The world believes that no four consecutive positive integers have the same number of divisors, but we of Berkhoff know otherwise, and we shall keep this secret until the dragons can come home in peace.” What is the least possible sum of those four integers?
 
 
 **Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
-**Method:** [[method_casework|Case analysis]], [[method_congruenze|Modular arithmetic / congruences]]
-**Skill:** [[skill_casework_accurato|Careful casework]]
-[[Quesiti/src_archimede_2026_squadre_finale_mista#q21|src_archimede_2026_squadre_finale_mista__Q21]]
+**Metodo:** [[method_casework|Case analysis]], [[method_congruenze|Modular arithmetic / congruences]], [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_casework_accurato|Careful casework]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]

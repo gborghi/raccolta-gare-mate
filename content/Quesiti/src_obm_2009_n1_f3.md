@@ -10,7 +10,7 @@ level: OBM Nível 1
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_geometria_piana,topic_aritmetica,method_casework,skill_ragionamento_geometrico,skill_modellizzazione,skill_lettura_attenta"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_geometria_piana,topic_aritmetica,method_casework,method_estremalita,skill_ragionamento_geometrico,skill_modellizzazione,skill_lettura_attenta"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -25,12 +25,12 @@ level: OBM Nível 1
 > 
 > b) Using the same process, Esmeralda assembled the smallest possible square with an integer side length. Show, with the help of a figure, how Esmeralda can do this.
 
-![[src_obm_2009_n1_f3__q01.png]]
+![[src_obm_2009_n1_f3__Q01.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_casework|Casework]]
+**Metodo:** [[method_casework|Casework]], [[method_estremalita|Extremal principle]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]], [[skill_lettura_attenta|Lettura attenta]]
-**Area:** [[Geometria]], [[Aritmetica e Teoria dei Numeri]]
+**Area:** [[Geometria|Geometry]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1_KMKfVfUeCTJqmg46SZFVecEjZWEkdEQ/view)
 
 
@@ -47,14 +47,13 @@ level: OBM Nível 1
 >
 > b) Utilizzando lo stesso procedimento, Esmeralda ha assemblato il quadrato di dimensioni più piccole possibili con lato di lunghezza intera. Con l'aiuto di una figura, mostra come Esmeralda può farlo.
 
-![[src_obm_2009_n1_f3__q01.png]]
+![[src_obm_2009_n1_f3__Q01.png]]
+
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_casework|Casework]]
+**Metodo:** [[method_casework|Casework]], [[method_estremalita|Principio di estremalita]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Geometria]], [[Aritmetica e Teoria dei Numeri]]
-
-[[Quesiti/src_obm_2009_n1_f3#q01|src_obm_2009_n1_f3__Q01]]
 
 
 
@@ -98,8 +97,6 @@ level: OBM Nível 1
 **Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 
-[[Quesiti/src_obm_2009_n1_f3#q02|src_obm_2009_n1_f3__Q02]]
-
 
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_geometria_solida,topic_aritmetica,method_casework,method_conteggio,skill_ragionamento_geometrico,skill_lettura_attenta,skill_conteggio_sistematico"></span>
@@ -117,7 +114,7 @@ level: OBM Nível 1
 > 
 > Find the values of $a$, $b$, $c$, $d$, $e$, $f$, $x$ and $m$.
 
-![[src_obm_2009_n1_f3__q03.png]]
+![[src_obm_2009_n1_f3__Q03.png]]
 
 **Topic:** [[topic_geometria_solida|Geometria solida]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]]
@@ -139,14 +136,12 @@ level: OBM Nível 1
 >
 > Trovare i valori di $a$, $b$, $c$, $d$, $e$, $f$, $x$ e $m$.
 
-![[src_obm_2009_n1_f3__q03.png]]
+![[src_obm_2009_n1_f3__Q03.png]]
 
 **Topic:** [[topic_geometria_solida|Geometria solida]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Geometria]], [[Aritmetica e Teoria dei Numeri]]
-
-[[Quesiti/src_obm_2009_n1_f3#q03|src_obm_2009_n1_f3__Q03]]
 
 
 
@@ -182,8 +177,6 @@ level: OBM Nível 1
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 
-[[Quesiti/src_obm_2009_n1_f3#q04|src_obm_2009_n1_f3__Q04]]
-
 
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_aritmetica,topic_combinatoria,method_conteggio,method_fattorizzazione,method_estremalita,skill_modellizzazione,skill_conteggio_sistematico,skill_manipolazione_algebrica,skill_stima"></span>
@@ -217,5 +210,3 @@ level: OBM Nível 1
 **Metodo:** [[method_conteggio|Conteggio]], [[method_fattorizzazione|Fattorizzazione]], [[method_estremalita|Estremalità]]
 **Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
-
-[[Quesiti/src_obm_2009_n1_f3#q05|src_obm_2009_n1_f3__Q05]]

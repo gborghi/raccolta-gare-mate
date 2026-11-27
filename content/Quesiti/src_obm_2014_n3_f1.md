@@ -40,8 +40,6 @@ level: OBM Nível 3
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 
-[[Quesiti/src_obm_2014_n3_f1#q01|src_obm_2014_n3_f1__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_logica,method_casework,skill_casework_accurato,skill_lettura_attenta"></span>
@@ -79,11 +77,9 @@ level: OBM Nível 3
 **Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 
-[[Quesiti/src_obm_2014_n3_f1#q02|src_obm_2014_n3_f1__Q02]]
 
 
-
-<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_logica,method_casework,skill_lettura_attenta,skill_riconoscimento_pattern"></span>
+<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_logica,method_casework,skill_lettura_attenta,skill_riconoscimento_pattern,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -95,8 +91,8 @@ level: OBM Nível 3
 
 **Topic:** [[topic_logica|Logica]]
 **Metodo:** [[method_casework|Casework]]
-**Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
-**Area:** [[Combinatoria, Logica e Probabilita]]
+**Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1_tXPc2BCAa7oqRUdsE6G11A-chCdZxtF/view)
 
 
@@ -108,12 +104,11 @@ level: OBM Nível 3
 > Quante alternative contengono una parola con più lettere della parola presente nell'alternativa corretta?
 > (A) Due (Two) (B) Tre (Three) (C) Quattro (Four) (D) Cinque (Five) (E) Sei (Six)
 
+
 **Topic:** [[topic_logica|Logica]]
 **Metodo:** [[method_casework|Casework]]
-**Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
-
-[[Quesiti/src_obm_2014_n3_f1#q03|src_obm_2014_n3_f1__Q03]]
 
 
 
@@ -147,11 +142,9 @@ level: OBM Nível 3
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]]
 
-[[Quesiti/src_obm_2014_n3_f1#q04|src_obm_2014_n3_f1__Q04]]
 
 
-
-<span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_aritmetica,skill_stima"></span>
+<span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_aritmetica,topic_disuguaglianze,method_disuguaglianze,skill_stima,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -161,9 +154,10 @@ level: OBM Nível 3
 > Mark the alternative that presents the largest of the five numbers.
 > (A) $2014^5$ (B) $3015^4$ (C) $4016^3$ (D) $5017^2$ (E) $6018^1$
 
-**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Abilita:** [[skill_stima|Stima]]
-**Area:** [[Aritmetica e Teoria dei Numeri]]
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_disuguaglianze|Inequalities]]
+**Metodo:** [[method_disuguaglianze|Classical inequalities]]
+**Abilita:** [[skill_stima|Stima]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Algebra e Analisi|Algebra and analysis]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1_tXPc2BCAa7oqRUdsE6G11A-chCdZxtF/view)
 
 
@@ -175,15 +169,15 @@ level: OBM Nível 3
 > Indica l'alternativa che presenta il numero più grande tra i cinque numeri.
 > (A) $2014^5$ (B) $3015^4$ (C) $4016^3$ (D) $5017^2$ (E) $6018^1$
 
-**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Abilita:** [[skill_stima|Stima]]
-**Area:** [[Aritmetica e Teoria dei Numeri]]
 
-[[Quesiti/src_obm_2014_n3_f1#q05|src_obm_2014_n3_f1__Q05]]
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_disuguaglianze|Disuguaglianze]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze classiche]]
+**Abilita:** [[skill_stima|Stima]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 
 
 
-<span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_probabilita,method_conteggio,skill_conteggio_sistematico"></span>
+<span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_probabilita,topic_combinatoria,method_conteggio,skill_conteggio_sistematico,skill_modellizzazione"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -193,10 +187,10 @@ level: OBM Nível 3
 > Each one of $2014$ balls is painted blue, green or yellow and is placed randomly into one of three urns, one blue, another green and the third yellow. What is the probability that each urn contains exactly the balls with its respective color?
 > (A) $\frac{1}{3^{2014}}$ (B) $\frac{1}{3^{2013}}$ (C) $\frac{1}{9^{2014}}$ (D) $\frac{1}{3^{4017}}$ (E) $\frac{1}{9^{2013}}$
 
-**Topic:** [[topic_probabilita|Probabilità]]
+**Topic:** [[topic_probabilita|Probabilità]], [[topic_combinatoria|Combinatorics]]
 **Metodo:** [[method_conteggio|Conteggio]]
-**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
-**Area:** [[Combinatoria, Logica e Probabilita]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1_tXPc2BCAa7oqRUdsE6G11A-chCdZxtF/view)
 
 
@@ -208,12 +202,11 @@ level: OBM Nível 3
 > Ciascuna delle $2014$ palle è dipinta di blu, verde o giallo e viene inserita a caso in una delle tre urne: una blu, una verde e una gialla. Qual è la probabilità che ogni urna contenga esattamente le palle del colore corrispondente?
 > (A) $\frac{1}{3^{2014}}$ (B) $\frac{1}{3^{2013}}$ (C) $\frac{1}{9^{2014}}$ (D) $\frac{1}{3^{4017}}$ (E) $\frac{1}{9^{2013}}$
 
-**Topic:** [[topic_probabilita|Probabilità]]
-**Metodo:** [[method_conteggio|Conteggio]]
-**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
-**Area:** [[Combinatoria, Logica e Probabilita]]
 
-[[Quesiti/src_obm_2014_n3_f1#q06|src_obm_2014_n3_f1__Q06]]
+**Topic:** [[topic_probabilita|Probabilità]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_conteggio|Conteggio]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
 
 
 
@@ -247,11 +240,9 @@ level: OBM Nível 3
 **Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 
-[[Quesiti/src_obm_2014_n3_f1#q07|src_obm_2014_n3_f1__Q07]]
 
 
-
-<span class="atom-split" id="q08" data-atom="q08" data-title="Quesito 8" data-tags="topic_algebra,method_telescoping,skill_manipolazione_algebrica,skill_riconoscimento_pattern"></span>
+<span class="atom-split" id="q08" data-atom="q08" data-title="Quesito 8" data-tags="topic_algebra,topic_funzionali,method_telescoping,method_fattorizzazione,skill_manipolazione_algebrica,skill_riconoscimento_pattern"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -263,10 +254,10 @@ level: OBM Nível 3
 > is equal to:
 > (A) $\frac{F_{2016}}{F_{2013}^2}$ (B) $\frac{F_{2014}}{F_{2013}}$ (C) $\frac{F_{2015}^2}{F_{2013}^2}$ (D) $\frac{F_{2015}}{2}$ (E) $\frac{F_{2015}}{2 F_{2013} F_{2014}}$
 
-**Topic:** [[topic_algebra|Algebra]]
-**Metodo:** [[method_telescoping|Telescoping]]
+**Topic:** [[topic_algebra|Algebra]], [[topic_funzionali|Functional equations / sequences]]
+**Metodo:** [[method_telescoping|Telescoping]], [[method_fattorizzazione|Factorisation / algebraic manipulation]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
-**Area:** [[Algebra e Analisi]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1_tXPc2BCAa7oqRUdsE6G11A-chCdZxtF/view)
 
 
@@ -280,16 +271,15 @@ level: OBM Nível 3
 > è uguale a:
 > (A) $\frac{F_{2016}}{F_{2013}^2}$ (B) $\frac{F_{2014}}{F_{2013}}$ (C) $\frac{F_{2015}^2}{F_{2013}^2}$ (D) $\frac{F_{2015}}{2}$ (E) $\frac{F_{2015}}{2 F_{2013} F_{2014}}$
 
-**Topic:** [[topic_algebra|Algebra]]
-**Metodo:** [[method_telescoping|Telescoping]]
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_funzionali|Equazioni funzionali / successioni]]
+**Metodo:** [[method_telescoping|Telescoping]], [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Algebra e Analisi]]
 
-[[Quesiti/src_obm_2014_n3_f1#q08|src_obm_2014_n3_f1__Q08]]
 
 
-
-<span class="atom-split" id="q09" data-atom="q09" data-title="Quesito 9" data-tags="topic_combinatoria,topic_aritmetica,method_estremalita,method_casework,skill_lettura_attenta,skill_conteggio_sistematico"></span>
+<span class="atom-split" id="q09" data-atom="q09" data-title="Quesito 9" data-tags="topic_combinatoria,topic_aritmetica,method_estremalita,method_casework,skill_lettura_attenta,skill_conteggio_sistematico,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -301,8 +291,8 @@ level: OBM Nível 3
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_estremalita|Estremalità]], [[method_casework|Casework]]
-**Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_conteggio_sistematico|Conteggio sistematico]]
-**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
+**Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1_tXPc2BCAa7oqRUdsE6G11A-chCdZxtF/view)
 
 
@@ -314,12 +304,11 @@ level: OBM Nível 3
 > Su una calcolatrice molto semplice, non è possibile premere due cifre senza premere una delle operazioni $+$, $-$, $\times$ o $\div$ tra le cifre premute. Quando si preme una cifra, la calcolatrice esegue immediatamente l'operazione. La calcolatrice parte con $0$ sul display e il primo tasto premuto deve essere un'operazione. Cioè, prima si preme un'operazione, poi una cifra, poi un'operazione, e così via. Ad esempio, un modo per far apparire $29$ sul display è premere $\boxed{+}$ e poi $\boxed{7}$, facendo apparire $0 + 7 = 7$ sul display; poi premere $\boxed{\times}$ e $\boxed{5}$, ottenendo $7 \times 5 = 35$ sul display, e concludere premendo $\boxed{-}$ e $\boxed{6}$, ottenendo come risultato $35 - 6 = 29$. Pertanto, è possibile ottenere $29$ con $6$ pressioni di tasti. Pedro vuole che il numero $100$ appaia sul display. Qual è il numero minimo di pressioni di tasti, contando sia le operazioni sia le cifre, che Pedro deve effettuare sulla calcolatrice?
 > (A) $2$ (B) $4$ (C) $6$ (D) $8$ (E) $10$
 
+
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_estremalita|Estremalità]], [[method_casework|Casework]]
-**Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
-
-[[Quesiti/src_obm_2014_n3_f1#q09|src_obm_2014_n3_f1__Q09]]
 
 
 
@@ -353,8 +342,6 @@ level: OBM Nível 3
 **Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 
-[[Quesiti/src_obm_2014_n3_f1#q10|src_obm_2014_n3_f1__Q10]]
-
 
 
 <span class="atom-split" id="q11" data-atom="q11" data-title="Quesito 11" data-tags="topic_combinatoria,method_casi_conteggio,method_conteggio,skill_conteggio_sistematico,skill_lettura_attenta"></span>
@@ -367,7 +354,7 @@ level: OBM Nível 3
 > In the game of simplified trimino, a piece has the form of a triangle in which each of the vertices has a number from $0$ to $5$. It is known that for any piece of the simplified trimino, when the smallest of the numbers is placed at the top vertex, the numbers are in increasing order in the clockwise direction, that is, the piece belongs to the simplified trimino when $X \le Y \le Z$ (with $X$ at the top vertex, $Y$ at the bottom-right vertex and $Z$ at the bottom-left vertex). For example, among the four pieces shown, the first three belong to the game, but the fourth does not. How many pieces are there in a game of simplified trimino?
 > (A) $216$ (B) $125$ (C) $120$ (D) $56$ (E) $30$
 
-![[src_obm_2014_n3_f1__q11.png]]
+![[src_obm_2014_n3_f1__Q11.png]]
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_casi_conteggio|Casi e conteggio]], [[method_conteggio|Conteggio]]
@@ -384,18 +371,16 @@ level: OBM Nível 3
 > Nel gioco del trimino semplificato, un pezzo ha la forma di un triangolo in cui ciascuno dei vertici porta un numero compreso tra $0$ e $5$. Si sa che, per qualsiasi pezzo del trimino semplificato, quando il numero più piccolo viene collocato sul vertice in alto, i numeri sono in ordine crescente in senso orario; in altre parole, il pezzo appartiene al trimino semplificato quando $X \le Y \le Z$ (con $X$ sul vertice in alto, $Y$ sul vertice in basso a destra e $Z$ sul vertice in basso a sinistra). Ad esempio, tra i quattro pezzi mostrati, i primi tre appartengono al gioco, ma il quarto no. Quanti pezzi ci sono in una partita di trimino semplificato?
 > (A) $216$ (B) $125$ (C) $120$ (D) $56$ (E) $30$
 
-![[src_obm_2014_n3_f1__q11.png]]
+![[src_obm_2014_n3_f1__Q11.png]]
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_casi_conteggio|Casi e conteggio]], [[method_conteggio|Conteggio]]
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 
-[[Quesiti/src_obm_2014_n3_f1#q11|src_obm_2014_n3_f1__Q11]]
 
 
-
-<span class="atom-split" id="q12" data-atom="q12" data-title="Quesito 12" data-tags="topic_algebra,method_casework,skill_manipolazione_algebrica"></span>
+<span class="atom-split" id="q12" data-atom="q12" data-title="Quesito 12" data-tags="topic_algebra,method_casework,method_fattorizzazione,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -406,9 +391,9 @@ level: OBM Nível 3
 > (A) $-\sqrt{2}$ (B) $\sqrt{2}$ (C) $\sqrt{3}$ (D) $\sqrt[3]{2}$ (E) $\sqrt[3]{3}$
 
 **Topic:** [[topic_algebra|Algebra]]
-**Metodo:** [[method_casework|Casework]]
+**Metodo:** [[method_casework|Casework]], [[method_fattorizzazione|Factorisation / algebraic manipulation]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
-**Area:** [[Algebra e Analisi]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1_tXPc2BCAa7oqRUdsE6G11A-chCdZxtF/view)
 
 
@@ -420,12 +405,11 @@ level: OBM Nível 3
 > Le radici dell'equazione $x^2 - ax + b = 0$ sono diverse da zero e sono i quadrati delle radici dell'equazione $x^2 - bx + a = 0$. Le radici delle equazioni non sono necessariamente reali, ma $a$ e $b$ sono reali. Allora il valore di $a$ è:
 > (A) $-\sqrt{2}$ (B) $\sqrt{2}$ (C) $\sqrt{3}$ (D) $\sqrt[3]{2}$ (E) $\sqrt[3]{3}$
 
+
 **Topic:** [[topic_algebra|Algebra]]
-**Metodo:** [[method_casework|Casework]]
+**Metodo:** [[method_casework|Casework]], [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Algebra e Analisi]]
-
-[[Quesiti/src_obm_2014_n3_f1#q12|src_obm_2014_n3_f1__Q12]]
 
 
 
@@ -439,7 +423,7 @@ level: OBM Nível 3
 > Consider the figure on the side, where the points $A$ through $I$ are on a circumference. It is known that the triangles $ABC$ and $GHI$ are isosceles, that $AB$, $CD$, $EF$ and $GH$ are parallel segments and that $BC$, $DE$, $FG$ and $HI$ are parallel segments. What is the measure of the angle $x$ in degrees?
 > (A) $15^\circ$ (B) $20^\circ$ (C) $30^\circ$ (D) $40^\circ$ (E) $45^\circ$
 
-![[src_obm_2014_n3_f1__q13.png]]
+![[src_obm_2014_n3_f1__Q13.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_simmetria|Simmetria]]
@@ -456,14 +440,12 @@ level: OBM Nível 3
 > Si consideri la figura a lato, in cui i punti da $A$ a $I$ giacciono su una circonferenza. Si sa che i triangoli $ABC$ e $GHI$ sono isosceli, che $AB$, $CD$, $EF$ e $GH$ sono segmenti paralleli e che $BC$, $DE$, $FG$ e $HI$ sono segmenti paralleli. Qual è la misura dell'angolo $x$ in gradi?
 > (A) $15^\circ$ (B) $20^\circ$ (C) $30^\circ$ (D) $40^\circ$ (E) $45^\circ$
 
-![[src_obm_2014_n3_f1__q13.png]]
+![[src_obm_2014_n3_f1__Q13.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_simmetria|Simmetria]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]]
-
-[[Quesiti/src_obm_2014_n3_f1#q13|src_obm_2014_n3_f1__Q13]]
 
 
 
@@ -499,11 +481,9 @@ level: OBM Nível 3
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 
-[[Quesiti/src_obm_2014_n3_f1#q14|src_obm_2014_n3_f1__Q14]]
 
 
-
-<span class="atom-split" id="q15" data-atom="q15" data-title="Quesito 15" data-tags="topic_algebra,skill_manipolazione_algebrica"></span>
+<span class="atom-split" id="q15" data-atom="q15" data-title="Quesito 15" data-tags="topic_algebra,method_fattorizzazione,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -514,8 +494,9 @@ level: OBM Nível 3
 > (A) $0$ (B) $6$ (C) $14$ (D) $11$ (E) $9$
 
 **Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
-**Area:** [[Algebra e Analisi]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1_tXPc2BCAa7oqRUdsE6G11A-chCdZxtF/view)
 
 
@@ -527,15 +508,15 @@ level: OBM Nível 3
 > La somma delle radici dell'equazione $\frac{1}{1+x} + \frac{2}{2+x} + \frac{3}{3+x} = 1$ è:
 > (A) $0$ (B) $6$ (C) $14$ (D) $11$ (E) $9$
 
+
 **Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Algebra e Analisi]]
 
-[[Quesiti/src_obm_2014_n3_f1#q15|src_obm_2014_n3_f1__Q15]]
 
 
-
-<span class="atom-split" id="q16" data-atom="q16" data-title="Quesito 16" data-tags="topic_geometria_piana,skill_ragionamento_geometrico"></span>
+<span class="atom-split" id="q16" data-atom="q16" data-title="Quesito 16" data-tags="topic_geometria_piana,topic_trigonometria,method_trigonometria,skill_ragionamento_geometrico"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -545,9 +526,10 @@ level: OBM Nível 3
 > In triangle $ABC$, $AC = 5$ and $AB = 6$. Let $P$ be a point on the internal bisector of angle $B\hat{A}C$. If the area of $APB$ is $\frac{3}{2}$, the area of $APC$ is:
 > (A) $\frac{5}{4}$ (B) $\frac{9}{5}$ (C) $\frac{\sqrt{3}}{4}$ (D) $\frac{\sqrt{5}}{4}$ (E) $\frac{4}{5}$
 
-**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometry]]
+**Metodo:** [[method_trigonometria|Trigonometric techniques]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
-**Area:** [[Geometria]]
+**Area:** [[Geometria|Geometry]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1_tXPc2BCAa7oqRUdsE6G11A-chCdZxtF/view)
 
 
@@ -559,11 +541,11 @@ level: OBM Nível 3
 > Nel triangolo $ABC$, $AC = 5$ e $AB = 6$. Sia $P$ un punto sull'asse bisettrice interna dell'angolo $B\hat{A}C$. Se l'area di $APB$ è $\frac{3}{2}$, l'area di $APC$ è:
 > (A) $\frac{5}{4}$ (B) $\frac{9}{5}$ (C) $\frac{\sqrt{3}}{4}$ (D) $\frac{\sqrt{5}}{4}$ (E) $\frac{4}{5}$
 
-**Topic:** [[topic_geometria_piana|Geometria piana]]
+
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometria]]
+**Metodo:** [[method_trigonometria|Tecniche trigonometriche]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]]
-
-[[Quesiti/src_obm_2014_n3_f1#q16|src_obm_2014_n3_f1__Q16]]
 
 
 
@@ -599,8 +581,6 @@ level: OBM Nível 3
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 
-[[Quesiti/src_obm_2014_n3_f1#q17|src_obm_2014_n3_f1__Q17]]
-
 
 
 <span class="atom-split" id="q18" data-atom="q18" data-title="Quesito 18" data-tags="topic_aritmetica,method_casework,method_fattorizzazione,skill_casework_accurato"></span>
@@ -633,11 +613,9 @@ level: OBM Nível 3
 **Abilita:** [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 
-[[Quesiti/src_obm_2014_n3_f1#q18|src_obm_2014_n3_f1__Q18]]
 
 
-
-<span class="atom-split" id="q19" data-atom="q19" data-title="Quesito 19" data-tags="topic_algebra,topic_aritmetica,method_ricorsione,method_telescoping,method_congruenze,skill_riconoscimento_pattern,skill_manipolazione_algebrica"></span>
+<span class="atom-split" id="q19" data-atom="q19" data-title="Quesito 19" data-tags="topic_algebra,topic_aritmetica,topic_funzionali,method_ricorsione,method_telescoping,method_congruenze,skill_riconoscimento_pattern,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -647,10 +625,10 @@ level: OBM Nível 3
 > A sequence $x_n$ has as first terms $x_0 = x_1 = 2$ and the other terms defined by $x_{n+2} = 2x_{n+1} + x_n$. What is the units digit of $x_0 - x_1 + x_2 - x_3 + \cdots - x_{2013} + x_{2014}$?
 > (A) $0$ (B) $2$ (C) $4$ (D) $6$ (E) $8$
 
-**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_funzionali|Functional equations / sequences]]
 **Metodo:** [[method_ricorsione|Ricorsione]], [[method_telescoping|Telescoping]], [[method_congruenze|Congruenze]]
 **Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
-**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1_tXPc2BCAa7oqRUdsE6G11A-chCdZxtF/view)
 
 
@@ -662,16 +640,15 @@ level: OBM Nível 3
 > Una successione $x_n$ ha come primi termini $x_0 = x_1 = 2$ e gli altri termini sono definiti da $x_{n+2} = 2x_{n+1} + x_n$. Qual è la cifra delle unità di $x_0 - x_1 + x_2 - x_3 + \cdots - x_{2013} + x_{2014}$?
 > (A) $0$ (B) $2$ (C) $4$ (D) $6$ (E) $8$
 
-**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_funzionali|Equazioni funzionali / successioni]]
 **Metodo:** [[method_ricorsione|Ricorsione]], [[method_telescoping|Telescoping]], [[method_congruenze|Congruenze]]
 **Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 
-[[Quesiti/src_obm_2014_n3_f1#q19|src_obm_2014_n3_f1__Q19]]
 
 
-
-<span class="atom-split" id="q20" data-atom="q20" data-title="Quesito 20" data-tags="topic_algebra,method_simmetria,method_casework,skill_manipolazione_algebrica,skill_casework_accurato"></span>
+<span class="atom-split" id="q20" data-atom="q20" data-title="Quesito 20" data-tags="topic_algebra,method_simmetria,method_casework,method_fattorizzazione,skill_manipolazione_algebrica,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -683,9 +660,9 @@ level: OBM Nível 3
 > (A) $1$ (B) $2$ (C) $4$ (D) $8$ (E) infinite
 
 **Topic:** [[topic_algebra|Algebra]]
-**Metodo:** [[method_simmetria|Simmetria]], [[method_casework|Casework]]
+**Metodo:** [[method_simmetria|Simmetria]], [[method_casework|Casework]], [[method_fattorizzazione|Factorisation / algebraic manipulation]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Casework accurato]]
-**Area:** [[Algebra e Analisi]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1_tXPc2BCAa7oqRUdsE6G11A-chCdZxtF/view)
 
 
@@ -698,16 +675,15 @@ level: OBM Nível 3
 > $$\begin{cases} x^2 - 6y = 2z - 15 \\ y^2 - 6z = 2x - 15 \\ z^2 - 6x = 2y - 15 \end{cases}$$
 > (A) $1$ (B) $2$ (C) $4$ (D) $8$ (E) infinito
 
+
 **Topic:** [[topic_algebra|Algebra]]
-**Metodo:** [[method_simmetria|Simmetria]], [[method_casework|Casework]]
+**Metodo:** [[method_simmetria|Simmetria]], [[method_casework|Casework]], [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Algebra e Analisi]]
 
-[[Quesiti/src_obm_2014_n3_f1#q20|src_obm_2014_n3_f1__Q20]]
 
 
-
-<span class="atom-split" id="q21" data-atom="q21" data-title="Quesito 21" data-tags="topic_geometria_solida,skill_ragionamento_geometrico"></span>
+<span class="atom-split" id="q21" data-atom="q21" data-title="Quesito 21" data-tags="topic_geometria_solida,topic_geometria_piana,method_simmetria,method_coordinate,skill_ragionamento_geometrico"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -717,9 +693,10 @@ level: OBM Nível 3
 > A sphere of radius $1$ has as its equator the base of a cone and passes through the midpoints of its generatrices. What is the height of the cone?
 > (A) $1$ (B) $\sqrt{1.5}$ (C) $\sqrt{2}$ (D) $\sqrt{3}$ (E) $2$
 
-**Topic:** [[topic_geometria_solida|Geometria solida]]
+**Topic:** [[topic_geometria_solida|Geometria solida]], [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_simmetria|Using symmetry]], [[method_coordinate|Coordinate method]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
-**Area:** [[Geometria]]
+**Area:** [[Geometria|Geometry]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1_tXPc2BCAa7oqRUdsE6G11A-chCdZxtF/view)
 
 
@@ -731,15 +708,15 @@ level: OBM Nível 3
 > Una sfera di raggio $1$ ha come equatore la base di un cono e passa per i punti medi delle sue generatrici. Qual è l'altezza del cono?
 > (A) $1$ (B) $\sqrt{1.5}$ (C) $\sqrt{2}$ (D) $\sqrt{3}$ (E) $2$
 
-**Topic:** [[topic_geometria_solida|Geometria solida]]
+
+**Topic:** [[topic_geometria_solida|Geometria solida]], [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_simmetria|Sfruttamento della simmetria]], [[method_coordinate|Metodo delle coordinate]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]]
 
-[[Quesiti/src_obm_2014_n3_f1#q21|src_obm_2014_n3_f1__Q21]]
 
 
-
-<span class="atom-split" id="q22" data-atom="q22" data-title="Quesito 22" data-tags="topic_aritmetica,method_fattorizzazione,method_casework,skill_manipolazione_algebrica,skill_casework_accurato"></span>
+<span class="atom-split" id="q22" data-atom="q22" data-title="Quesito 22" data-tags="topic_aritmetica,method_fattorizzazione,method_casework,method_congruenze,skill_manipolazione_algebrica,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -750,9 +727,9 @@ level: OBM Nível 3
 > (A) $58$ (B) $68$ (C) $78$ (D) $88$ (E) $98$
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_casework|Casework]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_casework|Casework]], [[method_congruenze|Modular arithmetic / congruences]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Casework accurato]]
-**Area:** [[Aritmetica e Teoria dei Numeri]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1_tXPc2BCAa7oqRUdsE6G11A-chCdZxtF/view)
 
 
@@ -764,12 +741,11 @@ level: OBM Nível 3
 > Due frazioni $\frac{a}{b}$ e $\frac{c}{d}$, con $a,b,c,d$ interi positivi, sono intime quando $ad - bc = \pm 1$. Ad esempio, $\frac{1}{2}$ è intima con $\frac{1}{3}$ e $\frac{2}{3}$ poiché $1 \cdot 3 - 2 \cdot 1 = 1$ e $1 \cdot 3 - 2 \cdot 2 = -1$. Due frazioni intime con $\frac{2014}{51}$ hanno denominatore minore di $51$. Essendo $\frac{x}{y}$ e $\frac{z}{w}$ queste frazioni, qual è il valore di $y \cdot w$?
 > (A) $58$ (B) $68$ (C) $78$ (D) $88$ (E) $98$
 
+
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_casework|Casework]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_casework|Casework]], [[method_congruenze|Aritmetica modulare / congruenze]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
-
-[[Quesiti/src_obm_2014_n3_f1#q22|src_obm_2014_n3_f1__Q22]]
 
 
 
@@ -801,8 +777,6 @@ level: OBM Nível 3
 **Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Algebra e Analisi]]
 
-[[Quesiti/src_obm_2014_n3_f1#q23|src_obm_2014_n3_f1__Q23]]
-
 
 
 <span class="atom-split" id="q24" data-atom="q24" data-title="Quesito 24" data-tags="topic_geometria_piana,topic_trigonometria,method_trigonometria,method_coordinate,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
@@ -815,7 +789,7 @@ level: OBM Nível 3
 > In the figure, $ABC$ and $DEF$ are isosceles right triangles with hypotenuses $BC$ and $EF$ measuring $15$, $D$ is on line $BC$ and $A$ is on line $EF$. The acute angle between the lines $BC$ and $EF$ is $30^\circ$. The segment $AD$ measures:
 > (A) $\frac{15\sqrt{2}}{2}$ (B) $\frac{15(\sqrt{6}-\sqrt{2})}{2}$ (C) $\frac{15\sqrt{3}}{2}$ (D) $\frac{15\sqrt{6}}{2}$ (E) $15$
 
-![[src_obm_2014_n3_f1__q24.png]]
+![[src_obm_2014_n3_f1__Q24.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometria]]
 **Metodo:** [[method_trigonometria|Trigonometria]], [[method_coordinate|Coordinate]]
@@ -832,14 +806,12 @@ level: OBM Nível 3
 > Nella figura, $ABC$ e $DEF$ sono triangoli rettangoli isosceli con ipotenuse $BC$ e $EF$ di lunghezza $15$; $D$ giace sulla retta $BC$ e $A$ giace sulla retta $EF$. L'angolo acuto tra le rette $BC$ e $EF$ è $30^\circ$. Il segmento $AD$ misura:
 > (A) $\frac{15\sqrt{2}}{2}$ (B) $\frac{15(\sqrt{6}-\sqrt{2})}{2}$ (C) $\frac{15\sqrt{3}}{2}$ (D) $\frac{15\sqrt{6}}{2}$ (E) $15$
 
-![[src_obm_2014_n3_f1__q24.png]]
+![[src_obm_2014_n3_f1__Q24.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometria]]
 **Metodo:** [[method_trigonometria|Trigonometria]], [[method_coordinate|Coordinate]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
-
-[[Quesiti/src_obm_2014_n3_f1#q24|src_obm_2014_n3_f1__Q24]]
 
 
 
@@ -872,5 +844,3 @@ level: OBM Nível 3
 **Metodo:** [[method_conteggio|Conteggio]]
 **Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
-
-[[Quesiti/src_obm_2014_n3_f1#q25|src_obm_2014_n3_f1__Q25]]

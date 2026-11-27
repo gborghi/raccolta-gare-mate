@@ -10,7 +10,7 @@ level: squadre
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_geometria_piana"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_geometria_piana,topic_trigonometria,method_trigonometria,skill_riconoscimento_pattern,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -27,10 +27,12 @@ level: squadre
 > del triangolo più grande e quello del triangolo più piccolo?
 > [Dare come risposta il rapporto moltiplicato per 1000.]
 
-**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometria]]
+**Metodo:** [[method_trigonometria|Tecniche trigonometriche]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 **Risposta:** 5618
-**Fonte:** apri PDF p.2 · phiquadro.it, Archivio gare ufficiali 2021 (Gara Femminile - Qualificazione)
+**Fonte:** [apri PDF p.2](https://www.phiquadro.it/archivio/2021_5%20marzo%20-%20Gara%20.pdf#page=2) · phiquadro.it, Archivio gare ufficiali 2021 (Gara Femminile - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -42,14 +44,15 @@ level: squadre
 
 > In front of the Swabian Aqueduct, Cecilia Oliveri Piero (Contemplating the Swabian Aqueduct in Sulmona): Starting from a right-angled triangle whose smaller angle measures 30°, construct a triangle similar to it such that its longer leg coincides with the hypotenuse of the first triangle. (Sandro listens to him while looking closely at the arches of the aqueduct.) Repeat the operation 11 more times. What is the ratio between the longer leg of the largest triangle and that of the smallest triangle? [Give the ratio multiplied by 1000 as the answer.]
 
-**Topic:** [[topic_geometria_piana|Plane geometry]]
+
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_trigonometria|Trigonometry]]
+**Metodo:** [[method_trigonometria|Trigonometric techniques]]
+**Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
 **Area:** [[Geometria|Geometry]]
 
-[[Quesiti/src_squadre_2021_femminile_qualif#q01|src_squadre_2021_femminile_qualif__Q01]]
 
 
-
-<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags=""></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_geometria_piana,method_fattorizzazione,skill_ragionamento_geometrico,skill_modellizzazione,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -70,8 +73,12 @@ level: squadre
 > Sergio Ma come cambiano le quantità? Quanti grammi di farina dovrai usare? (Giulia caccia
 > Sergio fuori dalla cucina.)
 
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
 **Risposta:** 0500
-**Fonte:** apri PDF p.2 · phiquadro.it, Archivio gare ufficiali 2021 (Gara Femminile - Qualificazione)
+**Fonte:** [apri PDF p.2](https://www.phiquadro.it/archivio/2021_5%20marzo%20-%20Gara%20.pdf#page=2) · phiquadro.it, Archivio gare ufficiali 2021 (Gara Femminile - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -83,11 +90,14 @@ level: squadre
 
 > Sandro Campigotto's Cream Cake In Crema, Giulia is preparing for the selection round for a very famous television baking competition. Giulia: The recipe for the cake I want to make calls for 320 g of flour for a circular baking pan 24 cm in diameter. Sergio: But it's too small. Giulia: I know—in fact, I'll make it in a circular pan with a radius of 15 cm. Sergio: But it's smaller! Giulia (dejected): No, it's bigger; the height stays the same too. Sergio: But how do the quantities change? How many grams of flour will you have to use? (Giulia shoos Sergio out of the kitchen.)
 
-[[Quesiti/src_squadre_2021_femminile_qualif#q02|src_squadre_2021_femminile_qualif__Q02]]
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_modellizzazione|Modelling / translating the text]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Geometria|Geometry]]
 
 
 
-<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_geometria_piana"></span>
+<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_geometria_piana,topic_aritmetica,method_congruenze,skill_modellizzazione,skill_ragionamento_geometrico"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -110,10 +120,12 @@ level: squadre
 > Maurizio La circonferenza interna di una ruota, su cui si agganciano i raggi, misura 24 dm; la
 > circonferenza esterna misura 25 dm. Quanti decimetri avrò percorso al primo cedimento?
 
-**Topic:** [[topic_geometria_piana|Geometria piana]]
-**Area:** [[Geometria]]
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Geometria]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 1310
-**Fonte:** apri PDF p.2 · phiquadro.it, Archivio gare ufficiali 2021 (Gara Femminile - Qualificazione)
+**Fonte:** [apri PDF p.2](https://www.phiquadro.it/archivio/2021_5%20marzo%20-%20Gara%20.pdf#page=2) · phiquadro.it, Archivio gare ufficiali 2021 (Gara Femminile - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -125,14 +137,15 @@ level: squadre
 
 > From San Lorenzo al Mare, Matteo Di Domenico: In the western part of Liguria, between San Lorenzo al Mare and Ospedaletti, a magnificent cycle path runs along the coast. The potholes along the route, however, are a problem. Shadi: You've got an incredible number of spokes on your wheels! Maurizio (standing still on his bicycle): There are 250 spokes per wheel, evenly distributed. So it's very likely that one spoke will be perpendicular to the ground—for example, right now. Maurizio: You've seen the cycle path: every 1.04 m, starting from where my front wheel touches the ground right now, I'll come across a pothole; each pothole loosens one of the spokes. Shadi: Watch out—after two impacts on the same spoke, the wheel will give way, and you'll have to stop to adjust all the spokes. Maurizio: The inner circumference of a wheel, where the spokes attach, is 24 dm; the outer circumference is 25 dm. How many decimetres will I have traveled by the first time the wheel gives way?
 
-**Topic:** [[topic_geometria_piana|Plane geometry]]
-**Area:** [[Geometria|Geometry]]
 
-[[Quesiti/src_squadre_2021_femminile_qualif#q03|src_squadre_2021_femminile_qualif__Q03]]
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]], [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Geometria|Geometry]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
 
 
-<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_combinatoria"></span>
+<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_combinatoria,topic_aritmetica,method_congruenze,method_fattorizzazione,skill_riconoscimento_pattern,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -150,10 +163,12 @@ level: squadre
 > Elena (Abituata alle richieste delle gare a squadre di matematica) Estremi inclusi?
 > Mario Sì.
 
-**Topic:** [[topic_combinatoria|Combinatoria]]
-**Area:** [[Combinatoria, Logica e Probabilita]]
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]], [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 1428
-**Fonte:** apri PDF p.2 · phiquadro.it, Archivio gare ufficiali 2021 (Gara Femminile - Qualificazione)
+**Fonte:** [apri PDF p.2](https://www.phiquadro.it/archivio/2021_5%20marzo%20-%20Gara%20.pdf#page=2) · phiquadro.it, Archivio gare ufficiali 2021 (Gara Femminile - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -165,14 +180,15 @@ level: squadre
 
 > In the Grotta delle Meraviglie, Sandro Campigotto: For those in Basilicata who wish to visit the fantastic Grotta delle Meraviglie in Maratea, it's a lucky day: Mario has decided to give the ticket as a gift to whoever manages to solve his puzzles. Mario: How many numbers between 1 and 10000, inclusive, can be written as the sum of 7 consecutive integers? Elena (Used to the demands of team mathematics competitions): Inclusive? Mario: Yes.
 
-**Topic:** [[topic_combinatoria|Combinatorics]]
-**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
-[[Quesiti/src_squadre_2021_femminile_qualif#q04|src_squadre_2021_femminile_qualif__Q04]]
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]], [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
 
 
-<span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags=""></span>
+<span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_logica,topic_aritmetica,method_casework,method_fattorizzazione,skill_casework_accurato,skill_lettura_attenta"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -195,8 +211,12 @@ level: squadre
 > Clara Hai ragione, adesso ho capito.
 > [Fornire come risposta l’età del figlio maggiore moltiplicata per l’età di uno dei gemelli.]
 
+**Topic:** [[topic_logica|Logica, giochi, strategie]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Analisi per casi]], [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
+**Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_lettura_attenta|Lettura attenta del testo]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 0030
-**Fonte:** apri PDF p.3 · phiquadro.it, Archivio gare ufficiali 2021 (Gara Femminile - Qualificazione)
+**Fonte:** [apri PDF p.3](https://www.phiquadro.it/archivio/2021_5%20marzo%20-%20Gara%20.pdf#page=3) · phiquadro.it, Archivio gare ufficiali 2021 (Gara Femminile - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -208,11 +228,14 @@ level: squadre
 
 > At Torbole, Silvia Sconza: At Torbole, two friends, Clara and Sofia, are walking along the shore of Lake Garda and chatting. Clara: How old are your children now? Sofia: They're starting to get big now—they're all over one year old. Clara: Do you mean that they've all already had at least their second birthday? Sofia: Yes. And the product of their ages is 360. Clara: That's not enough for me to determine your children's ages precisely. Sofia: The semi-sum of their ages equals the house number of your home. Clara: I still can't determine their ages. Sofia: My two twins have blue eyes like the lake water is today, and with this last piece of information, you should be able to determine the ages of all four of my children. Clara: You're right—I've got it now. [Provide as the answer the age of the oldest child multiplied by the age of one of the twins.]
 
-[[Quesiti/src_squadre_2021_femminile_qualif#q05|src_squadre_2021_femminile_qualif__Q05]]
+**Topic:** [[topic_logica|Logic, games and strategies]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_casework|Case analysis]], [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]], [[skill_lettura_attenta|Careful reading of the text]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
 
 
-<span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_probabilita"></span>
+<span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_probabilita,skill_modellizzazione"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -229,9 +252,10 @@ level: squadre
 > [Dare come risposta il risultato moltiplicato per 1000]
 
 **Topic:** [[topic_probabilita|Probabilita e statistica]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0651
-**Fonte:** apri PDF p.3 · phiquadro.it, Archivio gare ufficiali 2021 (Gara Femminile - Qualificazione)
+**Fonte:** [apri PDF p.3](https://www.phiquadro.it/archivio/2021_5%20marzo%20-%20Gara%20.pdf#page=3) · phiquadro.it, Archivio gare ufficiali 2021 (Gara Femminile - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -243,14 +267,14 @@ level: squadre
 
 > In Cesenatico, Giuseppe Rosolini Domenico: In Cesenatico, one in ten people has had measles. Daniele: I've already had it. (He leaves, heads toward the small sports hall on Viale Magellano, and meets 10 people. To himself... ) What is the probability that I have met at least one person who has had measles? [Give the result multiplied by 1000 as the answer]
 
+
 **Topic:** [[topic_probabilita|Probability and statistics]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
 **Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
-[[Quesiti/src_squadre_2021_femminile_qualif#q06|src_squadre_2021_femminile_qualif__Q06]]
 
 
-
-<span class="atom-split" id="q07" data-atom="q07" data-title="Quesito 7" data-tags="topic_geometria_piana"></span>
+<span class="atom-split" id="q07" data-atom="q07" data-title="Quesito 7" data-tags="topic_geometria_piana,method_trigonometria,skill_ragionamento_geometrico"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -269,9 +293,11 @@ level: squadre
 > quanto vale l’area dell’ottagono?
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_trigonometria|Tecniche trigonometriche]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]]
 **Risposta:** 0112
-**Fonte:** apri PDF p.3 · phiquadro.it, Archivio gare ufficiali 2021 (Gara Femminile - Qualificazione)
+**Fonte:** [apri PDF p.3](https://www.phiquadro.it/archivio/2021_5%20marzo%20-%20Gara%20.pdf#page=3) · phiquadro.it, Archivio gare ufficiali 2021 (Gara Femminile - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -283,14 +309,15 @@ level: squadre
 
 > Il Castel del Monte Sandro Campigotto Elena Il Castel del Monte is famous for the recurring number 8 in the various elements of its construction. Paola Just look at the towers: there are eight of them, and they are octagonal. Elena And the inner courtyard is an octagon. Label the vertices A, B, C, D, E, F, G, and H, starting from the one to the left of the main gate and going counterclockwise. Given that AB = BC = CD = DE = EF = FG = GH = HA = 5 m, AC = CE = EG = GA = 8 m, and AE = CG, what is the area of the octagon?
 
+
 **Topic:** [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_trigonometria|Trigonometric techniques]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
 **Area:** [[Geometria|Geometry]]
 
-[[Quesiti/src_squadre_2021_femminile_qualif#q07|src_squadre_2021_femminile_qualif__Q07]]
 
 
-
-<span class="atom-split" id="q08" data-atom="q08" data-title="Quesito 8" data-tags="topic_aritmetica"></span>
+<span class="atom-split" id="q08" data-atom="q08" data-title="Quesito 8" data-tags="topic_aritmetica,method_casework,method_fattorizzazione,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -314,9 +341,11 @@ level: squadre
 > [Dare come risposta la somma dei quattro numeri trovati.]
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Analisi per casi]], [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
+**Abilita:** [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 3988
-**Fonte:** apri PDF p.3 · phiquadro.it, Archivio gare ufficiali 2021 (Gara Femminile - Qualificazione)
+**Fonte:** [apri PDF p.3](https://www.phiquadro.it/archivio/2021_5%20marzo%20-%20Gara%20.pdf#page=3) · phiquadro.it, Archivio gare ufficiali 2021 (Gara Femminile - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -332,14 +361,15 @@ level: squadre
 > 24. Among all quadruples of integers (a, b, c, d) with 0 < a < b < c < d < 1000 such that
 > The product of the six non-zero mutual distances is 120; which distance yields the maximum value of a + b + c + d? [Give as the answer the sum of the four numbers found.]
 
+
 **Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_casework|Case analysis]], [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
-[[Quesiti/src_squadre_2021_femminile_qualif#q08|src_squadre_2021_femminile_qualif__Q08]]
 
 
-
-<span class="atom-split" id="q09" data-atom="q09" data-title="Quesito 9" data-tags="topic_aritmetica"></span>
+<span class="atom-split" id="q09" data-atom="q09" data-title="Quesito 9" data-tags="topic_aritmetica,method_congruenze,skill_riconoscimento_pattern"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -356,9 +386,11 @@ level: squadre
 > Alessio Dai, questa è facile!
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 2022
-**Fonte:** apri PDF p.3 · phiquadro.it, Archivio gare ufficiali 2021 (Gara Femminile - Qualificazione)
+**Fonte:** [apri PDF p.3](https://www.phiquadro.it/archivio/2021_5%20marzo%20-%20Gara%20.pdf#page=3) · phiquadro.it, Archivio gare ufficiali 2021 (Gara Femminile - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -370,14 +402,15 @@ level: squadre
 
 > In Tropea, Lorenzo Mazza: Lying on the shoreline, with their feet submerged in Tropea's beautiful crystal-clear waters, Alessio and Valeria pass the time by posing math problems to each of them in turn. Valeria: How many integers n with 0 ≤ n ≤ 2021 are there such that 91^n − 48^n − 44^n + 1 is a multiple of 2021? Alessio: Come on, that's easy!
 
+
 **Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]]
+**Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
-[[Quesiti/src_squadre_2021_femminile_qualif#q09|src_squadre_2021_femminile_qualif__Q09]]
 
 
-
-<span class="atom-split" id="q10" data-atom="q10" data-title="Quesito 10" data-tags="topic_algebra"></span>
+<span class="atom-split" id="q10" data-atom="q10" data-title="Quesito 10" data-tags="topic_algebra,method_fattorizzazione,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -397,9 +430,11 @@ level: squadre
 > delle radici reali del polinomio p(x). Quanto vale q(r^2)?
 
 **Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Algebra e Analisi]]
 **Risposta:** 0000
-**Fonte:** apri PDF p.3 · phiquadro.it, Archivio gare ufficiali 2021 (Gara Femminile - Qualificazione)
+**Fonte:** [apri PDF p.3](https://www.phiquadro.it/archivio/2021_5%20marzo%20-%20Gara%20.pdf#page=3) · phiquadro.it, Archivio gare ufficiali 2021 (Gara Femminile - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -411,14 +446,15 @@ level: squadre
 
 > On Lake Trasimeno, Lorenzo Mazza: On Lake Trasimeno, there are three almost completely uninhabited islands that attract many tourists thanks to the presence of remains of medieval structures. Michela and Elisa are in Castiglione del Lago and are waiting for the ferry to Isola Maggiore. Michela: If you solve the problem I'm proposing to you, I'll pay for the ferry tickets; otherwise, you'll pay for them. Elisa: It'll arrive in 5 minutes—I'll make it: propose it! Michela: Consider the polynomials p(x) = x^3 − 3x + 1 and q(x) = x^3 − 6x^2 + 9x − 1, and let r be the largest real root of the polynomial p(x). What is the value of q(r^2)?
 
+
 **Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
 **Area:** [[Algebra e Analisi|Algebra and analysis]]
 
-[[Quesiti/src_squadre_2021_femminile_qualif#q10|src_squadre_2021_femminile_qualif__Q10]]
 
 
-
-<span class="atom-split" id="q11" data-atom="q11" data-title="Quesito 11" data-tags="topic_geometria_piana"></span>
+<span class="atom-split" id="q11" data-atom="q11" data-title="Quesito 11" data-tags="topic_geometria_piana,topic_logica,method_induzione,skill_lettura_attenta,skill_astrazione"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -450,10 +486,12 @@ level: squadre
 > Voce fuori campo Quante entrano al quinto avviso, sapendo che tutte quelle che
 > hanno avuto la possibilità hanno indovinato?
 
-**Topic:** [[topic_geometria_piana|Geometria piana]]
-**Area:** [[Geometria]]
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_logica|Logica, giochi, strategie]]
+**Metodo:** [[method_induzione|Induzione]]
+**Abilita:** [[skill_lettura_attenta|Lettura attenta del testo]], [[skill_astrazione|Astrazione / generalizzazione]]
+**Area:** [[Geometria]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0006
-**Fonte:** apri PDF p.4 · phiquadro.it, Archivio gare ufficiali 2021 (Gara Femminile - Qualificazione)
+**Fonte:** [apri PDF p.4](https://www.phiquadro.it/archivio/2021_5%20marzo%20-%20Gara%20.pdf#page=4) · phiquadro.it, Archivio gare ufficiali 2021 (Gara Femminile - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -465,14 +503,15 @@ level: squadre
 
 > At Miramare Castle, Matteo Di Domenico: In Trieste, in front of Miramare Castle, in the clearing before the entrance, among the semi-circular trees and the cliff, guide Anna proposes a challenge to a group of 25 mathematicians on a trip. Anna: I have put a cap on each of you without your being able to see what color it was. Now form a circle so that you can see all the others. I assure you that each of you sees at least one cap of the color of the cap on her own head. (The mathematicians position themselves along a circle in the clearing, each in such a way that she can see all the others.) Every two minutes, I will sound a siren on my mobile phone; whoever among you tells me the color of her own cap after the siren sounds will be allowed in. Obviously, you cannot communicate with one another in any way. (At the first signal, six speak, guess, and go in. At the second, others speak, all guess, and go in.) Laura (in a low voice, to Anna): Those who have just gone in were all the ones wearing red caps. (The siren sounds for the third time.) No one guesses correctly; no one goes in. How strange! (At the fourth siren, still others speak, guess, and go in.) This time, not all of them are wearing caps of the same color. Anna: I knew it—mathematicians reason well. Laura (smiling): Well, in our case, they were all mathematicians. Anna: Correct! All of them stated the color with certainty based on rigorous reasoning. Off-screen voice: How many go in at the fifth signal, knowing that all those who had the chance guessed correctly?
 
-**Topic:** [[topic_geometria_piana|Plane geometry]]
-**Area:** [[Geometria|Geometry]]
 
-[[Quesiti/src_squadre_2021_femminile_qualif#q11|src_squadre_2021_femminile_qualif__Q11]]
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_logica|Logic, games and strategies]]
+**Metodo:** [[method_induzione|Induction]]
+**Abilita:** [[skill_lettura_attenta|Careful reading of the text]], [[skill_astrazione|Abstraction / generalisation]]
+**Area:** [[Geometria|Geometry]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
 
 
-<span class="atom-split" id="q12" data-atom="q12" data-title="Quesito 12" data-tags="topic_geometria_piana"></span>
+<span class="atom-split" id="q12" data-atom="q12" data-title="Quesito 12" data-tags="topic_geometria_piana,topic_aritmetica,method_casework,skill_stima,skill_lettura_attenta"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -494,10 +533,12 @@ level: squadre
 > quadrata di 10.
 > Voce fuori campo Che cosa risponde Mattia alla domanda di Luca?
 
-**Topic:** [[topic_geometria_piana|Geometria piana]]
-**Area:** [[Geometria]]
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_stima|Stima e approssimazione]], [[skill_lettura_attenta|Lettura attenta del testo]]
+**Area:** [[Geometria]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 3142
-**Fonte:** apri PDF p.4 · phiquadro.it, Archivio gare ufficiali 2021 (Gara Femminile - Qualificazione)
+**Fonte:** [apri PDF p.4](https://www.phiquadro.it/archivio/2021_5%20marzo%20-%20Gara%20.pdf#page=4) · phiquadro.it, Archivio gare ufficiali 2021 (Gara Femminile - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -509,14 +550,15 @@ level: squadre
 
 > A Senigallia Sandro Campigotto Mattia (Walking Under the First Portico at Dawn) On that side of the square where Caffè Italia is located, there once stood a circular tower with a circumference exceeding 20 metres. Luca The bar is already open. Mattia It's one of the first bars to open in the city. Luca (Entering the bar) What is the sum of the integer parts of the numbers π + i/1000 as i varies from 1 to 1000? Mattia Inclusive? Luca Yes. So the radius of the tower was about π metres. Mattia The estimate is good only because π is a reasonable approximation of the square root of 10. Voice-over What does Mattia answer to Luca's question?
 
-**Topic:** [[topic_geometria_piana|Plane geometry]]
-**Area:** [[Geometria|Geometry]]
 
-[[Quesiti/src_squadre_2021_femminile_qualif#q12|src_squadre_2021_femminile_qualif__Q12]]
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_stima|Estimation and approximation]], [[skill_lettura_attenta|Careful reading of the text]]
+**Area:** [[Geometria|Geometry]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
 
 
-<span class="atom-split" id="q13" data-atom="q13" data-title="Quesito 13" data-tags="topic_aritmetica"></span>
+<span class="atom-split" id="q13" data-atom="q13" data-title="Quesito 13" data-tags="topic_aritmetica,method_congruenze,method_casework,method_fattorizzazione,skill_casework_accurato,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -540,9 +582,11 @@ level: squadre
 > Andrea Basta, Giacomo, non ce la faccio più!
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]], [[method_casework|Analisi per casi]], [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
+**Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 0001
-**Fonte:** apri PDF p.4 · phiquadro.it, Archivio gare ufficiali 2021 (Gara Femminile - Qualificazione)
+**Fonte:** [apri PDF p.4](https://www.phiquadro.it/archivio/2021_5%20marzo%20-%20Gara%20.pdf#page=4) · phiquadro.it, Archivio gare ufficiali 2021 (Gara Femminile - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -554,14 +598,15 @@ level: squadre
 
 > A Stroll Along the Calà del Sasso Lorenzo Mazza While in the vicinity of Asiago, Andrea and Giacomo decide to walk up the Calà del Sasso, which, with its 4444 steps, is the longest staircase in Italy. To feel less of the strain, they decide to tackle the climb by setting problems for each other. Giacomo factors 4444 into prime numbers. Andrea: 2 × 2 × 11 × 101. Giacomo: The number 11 is prime and, in decimal notation, is written using a prime number of 1s only. But are there prime numbers that, in decimal notation, are written using a non-prime number of 1s only? Andrea (Exhausted): No. Giacomo (Irritated): Using the factorization of 4444, you can write 4 as 2 × 2 and 26 as 2 × (2 + 11). But for how many prime numbers p is the number p^4 − 26 also prime? Andrea: Enough, Giacomo—I can't take any more!
 
+
 **Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]], [[method_casework|Case analysis]], [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
-[[Quesiti/src_squadre_2021_femminile_qualif#q13|src_squadre_2021_femminile_qualif__Q13]]
 
 
-
-<span class="atom-split" id="q14" data-atom="q14" data-title="Quesito 14" data-tags="topic_geometria_piana"></span>
+<span class="atom-split" id="q14" data-atom="q14" data-title="Quesito 14" data-tags="topic_geometria_piana,method_simmetria,skill_ragionamento_geometrico"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -579,9 +624,11 @@ level: squadre
 > Simone Sì, quella.
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_simmetria|Sfruttamento della simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]]
 **Risposta:** 1053
-**Fonte:** apri PDF p.4 · phiquadro.it, Archivio gare ufficiali 2021 (Gara Femminile - Qualificazione)
+**Fonte:** [apri PDF p.4](https://www.phiquadro.it/archivio/2021_5%20marzo%20-%20Gara%20.pdf#page=4) · phiquadro.it, Archivio gare ufficiali 2021 (Gara Femminile - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -593,14 +640,15 @@ level: squadre
 
 > In Piazza Villena, Cecilia: Piazza Villena in Palermo has a regular octagonal layout and is therefore known as the Octagon of the Sun. Cecilia: The square covers an area of 745 m². Simone: What is the area of the eight-pointed star formed by extending the sides of the octagon until they meet? Cecilia: Do you mean the star with the smaller area? Simone: Yes, that one.
 
+
 **Topic:** [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_simmetria|Using symmetry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
 **Area:** [[Geometria|Geometry]]
 
-[[Quesiti/src_squadre_2021_femminile_qualif#q14|src_squadre_2021_femminile_qualif__Q14]]
 
 
-
-<span class="atom-split" id="q15" data-atom="q15" data-title="Quesito 15" data-tags="topic_aritmetica"></span>
+<span class="atom-split" id="q15" data-atom="q15" data-title="Quesito 15" data-tags="topic_aritmetica,topic_combinatoria,method_congruenze,method_casi_conteggio,skill_conteggio_sistematico,skill_lettura_attenta"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -627,10 +675,12 @@ level: squadre
 > Silvia 2 e 6 compresi?
 > Giovanni Sì.
 
-**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Area:** [[Aritmetica e Teoria dei Numeri]]
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]], [[method_casi_conteggio|Conteggio per casi]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta del testo]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0266
-**Fonte:** apri PDF p.5 · phiquadro.it, Archivio gare ufficiali 2021 (Gara Femminile - Qualificazione)
+**Fonte:** [apri PDF p.5](https://www.phiquadro.it/archivio/2021_5%20marzo%20-%20Gara%20.pdf#page=5) · phiquadro.it, Archivio gare ufficiali 2021 (Gara Femminile - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -642,14 +692,15 @@ level: squadre
 
 > At Villaromagnano, Silvia Sconza: At Villaromagnano there is a splendid cycle bridge over the Rio del Gerbino, with a particular feature: on certain days of the year, Giovanni does not allow people to cross the bridge unless they answer his questions correctly. Giovanni: How many five-digit positive integer palindromes are there that are not divisible by any number between 2 and 6? Silvia: What is a palindrome number? Giovanni: Not so much a number as a list of symbols is called a palindrome when the list coincides with the reversed list—that is, given a list ℓ of k symbols and considering the list ℓ′ whose i-th symbol is the (k + 1 − i)-th symbol of the list ℓ, we have ℓ = ℓ′. Silvia: So, in short, the word "inno" is not a palindrome, but its plural is. Giovanni: Exactly! For numbers, I consider their base-ten representation. Silvia: Should "milledieci" be regarded as a palindrome, since I can write it with a zero in front? Giovanni: No, because when I write integers in decimal notation, the leading digit is not 0. Silvia: Including 2 and 6? Giovanni: Yes.
 
-**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
-**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
-[[Quesiti/src_squadre_2021_femminile_qualif#q15|src_squadre_2021_femminile_qualif__Q15]]
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]], [[method_casi_conteggio|Counting by cases]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]], [[skill_lettura_attenta|Careful reading of the text]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
 
 
-<span class="atom-split" id="q16" data-atom="q16" data-title="Quesito 16" data-tags="topic_probabilita"></span>
+<span class="atom-split" id="q16" data-atom="q16" data-title="Quesito 16" data-tags="topic_probabilita,topic_aritmetica,method_congruenze,method_casi_conteggio,skill_conteggio_sistematico"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -667,10 +718,12 @@ level: squadre
 > Lucia Esatto, se la somma xy + yz + xz è un multiplo di 3 portiamo a casa gli yogurt.
 > Stefano Che percentuale di probabilità abbiamo di vincere?
 
-**Topic:** [[topic_probabilita|Probabilita e statistica]]
-**Area:** [[Combinatoria, Logica e Probabilita]]
+**Topic:** [[topic_probabilita|Probabilita e statistica]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]], [[method_casi_conteggio|Conteggio per casi]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 0033
-**Fonte:** apri PDF p.5 · phiquadro.it, Archivio gare ufficiali 2021 (Gara Femminile - Qualificazione)
+**Fonte:** [apri PDF p.5](https://www.phiquadro.it/archivio/2021_5%20marzo%20-%20Gara%20.pdf#page=5) · phiquadro.it, Archivio gare ufficiali 2021 (Gara Femminile - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -682,14 +735,15 @@ level: squadre
 
 > A Sterzing Sandro Campigotto In Sterzing, on Ferragosto, the renowned dairy company is giving away four jars of yogurt to the luckiest visitors. Lucia We have to randomly choose three integers x, y, and z between 0 and 2021, not necessarily distinct. Stefano Inclusive? Lucia Exactly—if the sum xy + yz + xz is a multiple of 3, we get the yogurt. Stefano What percentage chance do we have of winning?
 
-**Topic:** [[topic_probabilita|Probability and statistics]]
-**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
-[[Quesiti/src_squadre_2021_femminile_qualif#q16|src_squadre_2021_femminile_qualif__Q16]]
+**Topic:** [[topic_probabilita|Probability and statistics]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]], [[method_casi_conteggio|Counting by cases]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
 
 
-<span class="atom-split" id="q17" data-atom="q17" data-title="Quesito 17" data-tags="topic_aritmetica"></span>
+<span class="atom-split" id="q17" data-atom="q17" data-title="Quesito 17" data-tags="topic_aritmetica,method_fattorizzazione,method_casework,skill_conteggio_sistematico,skill_lettura_attenta"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -705,9 +759,11 @@ level: squadre
 > che a · b · c · d = 216.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]], [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta del testo]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 0172
-**Fonte:** apri PDF p.5 · phiquadro.it, Archivio gare ufficiali 2021 (Gara Femminile - Qualificazione)
+**Fonte:** [apri PDF p.5](https://www.phiquadro.it/archivio/2021_5%20marzo%20-%20Gara%20.pdf#page=5) · phiquadro.it, Archivio gare ufficiali 2021 (Gara Femminile - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -719,14 +775,15 @@ level: squadre
 
 > A Sepino Sandro Campigotto Stefano (Strolling Among the Ruins of the Ancient Roman City of Sepino) I wonder how many columns were originally erected in this square? Claudia I read it at the entrance: as many as the quadruples of integers a ≤ b ≤ c ≤ d such that a · b · c · d = 216.
 
+
 **Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]], [[method_casework|Case analysis]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]], [[skill_lettura_attenta|Careful reading of the text]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
-[[Quesiti/src_squadre_2021_femminile_qualif#q17|src_squadre_2021_femminile_qualif__Q17]]
 
 
-
-<span class="atom-split" id="q18" data-atom="q18" data-title="Quesito 18" data-tags="topic_aritmetica"></span>
+<span class="atom-split" id="q18" data-atom="q18" data-title="Quesito 18" data-tags="topic_aritmetica,topic_logica,method_casework,skill_lettura_attenta,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -756,10 +813,12 @@ level: squadre
 > Voce fuori campo Qual è la somma dei due valori determinati da Roberta e
 > Ludovico?
 
-**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Area:** [[Aritmetica e Teoria dei Numeri]]
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_logica|Logica, giochi, strategie]]
+**Metodo:** [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_lettura_attenta|Lettura attenta del testo]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 7994
-**Fonte:** apri PDF p.5 · phiquadro.it, Archivio gare ufficiali 2021 (Gara Femminile - Qualificazione)
+**Fonte:** [apri PDF p.5](https://www.phiquadro.it/archivio/2021_5%20marzo%20-%20Gara%20.pdf#page=5) · phiquadro.it, Archivio gare ufficiali 2021 (Gara Femminile - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -779,14 +838,15 @@ level: squadre
 > 7. The even-numbered sentences are all true or all false.
 > Roberta: They're numbered, all right. It says that some of these statements are true and some are false, but not which ones; that's not enough to determine N. Ludovico: Wait—there's a note at the bottom saying that N is an integer between 1 and 8000, inclusive. Roberta: Anyway, we don't have enough information! Ludovico: You're right. But we can determine the maximum and minimum values that N can take. Off-screen voice: What is the sum of the two values determined by Roberta and Ludovico?
 
-**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
-**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
-[[Quesiti/src_squadre_2021_femminile_qualif#q18|src_squadre_2021_femminile_qualif__Q18]]
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_logica|Logic, games and strategies]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_lettura_attenta|Careful reading of the text]], [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
 
 
-<span class="atom-split" id="q19" data-atom="q19" data-title="Quesito 19" data-tags="topic_geometria_solida"></span>
+<span class="atom-split" id="q19" data-atom="q19" data-title="Quesito 19" data-tags="topic_geometria_solida,method_coordinate,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -805,9 +865,11 @@ level: squadre
 > Simone Sì, solo quello.
 
 **Topic:** [[topic_geometria_solida|Geometria solida]]
+**Metodo:** [[method_coordinate|Metodo delle coordinate]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 **Risposta:** 7419
-**Fonte:** apri PDF p.6 · phiquadro.it, Archivio gare ufficiali 2021 (Gara Femminile - Qualificazione)
+**Fonte:** [apri PDF p.6](https://www.phiquadro.it/archivio/2021_5%20marzo%20-%20Gara%20.pdf#page=6) · phiquadro.it, Archivio gare ufficiali 2021 (Gara Femminile - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -819,14 +881,15 @@ level: squadre
 
 > In the Pantheon: Cecilia Oliveri. The internal structure of the Pantheon consists of a cylinder surmounted, on its upper horizontal base, by a hemisphere. The cylinder has a height and a radius equal to the radius of the hemisphere. Cecilia: Intersecting the dome with a plane parallel to the ground at a height of 30 m yields a circle with a radius of 20.1 m. Simone: What is the surface area of the internal structure? Cecilia: The floor, the walls, and the ceiling? Simone: Yes, just that.
 
+
 **Topic:** [[topic_geometria_solida|Solid geometry]]
+**Metodo:** [[method_coordinate|Coordinate method]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
 **Area:** [[Geometria|Geometry]]
 
-[[Quesiti/src_squadre_2021_femminile_qualif#q19|src_squadre_2021_femminile_qualif__Q19]]
 
 
-
-<span class="atom-split" id="q20" data-atom="q20" data-title="Quesito 20" data-tags="topic_probabilita,topic_logica"></span>
+<span class="atom-split" id="q20" data-atom="q20" data-title="Quesito 20" data-tags="topic_probabilita,topic_logica,method_casi_conteggio,skill_modellizzazione,skill_conteggio_sistematico"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -846,9 +909,11 @@ level: squadre
 > Voce fuori campo Qual è la percentuale di probabilità di vittoria per lo sfidante?
 
 **Topic:** [[topic_probabilita|Probabilita e statistica]], [[topic_logica|Logica, giochi, strategie]]
+**Metodo:** [[method_casi_conteggio|Conteggio per casi]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0057
-**Fonte:** apri PDF p.6 · phiquadro.it, Archivio gare ufficiali 2021 (Gara Femminile - Qualificazione)
+**Fonte:** [apri PDF p.6](https://www.phiquadro.it/archivio/2021_5%20marzo%20-%20Gara%20.pdf#page=6) · phiquadro.it, Archivio gare ufficiali 2021 (Gara Femminile - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -860,14 +925,15 @@ level: squadre
 
 > At the Museum of Aggius, Sandro Campigotto. In the town of Aggius, in the Gallura hinterland, the Brigands' Museum, in just a few rooms and through objects and clippings from past centuries, evokes fragments of the past life of these lands. Paola (Legge). From an anonymous source dated 1895: "At the inn in the center, every brigand will always find two six-sided dice, perfectly balanced. The champion and the challenger each roll one die. The challenger wins if the face of their die shows a number strictly greater than the number obtained by the champion. If this does not happen, the challenger has the chance to try again by rolling once more." Voice-over: What is the percentage probability of the challenger winning?
 
+
 **Topic:** [[topic_probabilita|Probability and statistics]], [[topic_logica|Logic, games and strategies]]
+**Metodo:** [[method_casi_conteggio|Counting by cases]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]], [[skill_conteggio_sistematico|Systematic counting]]
 **Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
-[[Quesiti/src_squadre_2021_femminile_qualif#q20|src_squadre_2021_femminile_qualif__Q20]]
 
 
-
-<span class="atom-split" id="q21" data-atom="q21" data-title="Quesito 21" data-tags="topic_combinatoria"></span>
+<span class="atom-split" id="q21" data-atom="q21" data-title="Quesito 21" data-tags="topic_combinatoria,method_conteggio,method_casi_conteggio,skill_conteggio_sistematico"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -898,9 +964,11 @@ level: squadre
 > soddisfare le condizioni richieste da Silvano?
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_conteggio|Conteggio combinatorio]], [[method_casi_conteggio|Conteggio per casi]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0192
-**Fonte:** apri PDF p.6 · phiquadro.it, Archivio gare ufficiali 2021 (Gara Femminile - Qualificazione)
+**Fonte:** [apri PDF p.6](https://www.phiquadro.it/archivio/2021_5%20marzo%20-%20Gara%20.pdf#page=6) · phiquadro.it, Archivio gare ufficiali 2021 (Gara Femminile - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -912,7 +980,8 @@ level: squadre
 
 > At Fénis Castle, Giuseppe Rosolini Carlo (In the courtyard of Fénis Castle): Shall we ask that gentleman to take a photo of the whole group? Silvano: Okay. There are nine of us, and we're all different heights: let's try to arrange ourselves so that we're all visible. Carlo: Let's line up in three rows: in each row, let's put the tallest person in that row in the middle. That way everything will be neat. Silvano: But we have to make sure that the people in the front rows don't block those in the back rows: the people in the same position across the three rows are in ascending order starting from the front row. Roberto: You mean that, if for example you, Carlo, and I are in the second position in three different rows, you, being the shortest, are in the front row, and I, being the tallest, am in the back row. Silvano: Yes! And Carlo is in the middle row. Roberto: But I can't be in the second position in the back row. Claudio is the tallest of all and can only be in that position. Pino: Of course! In fact, there's only one way to arrange the pose for the photo. Carlo (Surprised): That's not true! Off-screen voice: In how many ways can the group be arranged for the photo so as to meet the conditions Silvano has set?
 
-**Topic:** [[topic_combinatoria|Combinatorics]]
-**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
-[[Quesiti/src_squadre_2021_femminile_qualif#q21|src_squadre_2021_femminile_qualif__Q21]]
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_conteggio|Combinatorial counting]], [[method_casi_conteggio|Counting by cases]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]

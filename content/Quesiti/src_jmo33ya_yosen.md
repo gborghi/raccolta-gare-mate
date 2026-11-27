@@ -35,8 +35,8 @@ level: JMO Yosen
 
 **Argomento:** [[topic_aritmetica|Aritmetica / Teoria dei numeri]]
 **Abilità:** [[skill_lettura_attenta|Lettura attenta del testo]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 90
-[[Quesiti/src_jmo33ya_yosen#q01|src_jmo33ya_yosen__Q01]]
 
 
 
@@ -65,8 +65,8 @@ level: JMO Yosen
 
 **Argomento:** [[topic_aritmetica|Aritmetica / Teoria dei numeri]]
 **Abilità:** [[skill_lettura_attenta|Lettura attenta del testo]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 22
-[[Quesiti/src_jmo33ya_yosen#q02|src_jmo33ya_yosen__Q02]]
 
 
 
@@ -95,8 +95,8 @@ level: JMO Yosen
 
 **Argomento:** [[topic_aritmetica|Aritmetica / Teoria dei numeri]]
 **Abilità:** [[skill_lettura_attenta|Lettura attenta del testo]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** $\frac{7}{9}$
-[[Quesiti/src_jmo33ya_yosen#q03|src_jmo33ya_yosen__Q03]]
 
 
 
@@ -125,8 +125,8 @@ level: JMO Yosen
 
 **Argomento:** [[topic_aritmetica|Aritmetica / Teoria dei numeri]]
 **Abilità:** [[skill_lettura_attenta|Lettura attenta del testo]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** $\frac{100}{495001}$
-[[Quesiti/src_jmo33ya_yosen#q04|src_jmo33ya_yosen__Q04]]
 
 
 
@@ -155,8 +155,8 @@ level: JMO Yosen
 
 **Argomento:** [[topic_aritmetica|Aritmetica / Teoria dei numeri]]
 **Abilità:** [[skill_lettura_attenta|Lettura attenta del testo]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 360
-[[Quesiti/src_jmo33ya_yosen#q05|src_jmo33ya_yosen__Q05]]
 
 
 
@@ -185,8 +185,8 @@ level: JMO Yosen
 
 **Argomento:** [[topic_aritmetica|Aritmetica / Teoria dei numeri]]
 **Abilità:** [[skill_lettura_attenta|Lettura attenta del testo]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 222
-[[Quesiti/src_jmo33ya_yosen#q06|src_jmo33ya_yosen__Q06]]
 
 
 
@@ -215,8 +215,8 @@ level: JMO Yosen
 
 **Argomento:** [[topic_aritmetica|Aritmetica / Teoria dei numeri]]
 **Abilità:** [[skill_lettura_attenta|Lettura attenta del testo]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 82, 167, 1034
-[[Quesiti/src_jmo33ya_yosen#q07|src_jmo33ya_yosen__Q07]]
 
 
 
@@ -245,8 +245,8 @@ level: JMO Yosen
 
 **Argomento:** [[topic_combinatoria|Combinatoria]]
 **Abilità:** [[skill_lettura_attenta|Lettura attenta del testo]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 1920 (通り / ways)
-[[Quesiti/src_jmo33ya_yosen#q08|src_jmo33ya_yosen__Q08]]
 
 
 
@@ -275,8 +275,8 @@ level: JMO Yosen
 
 **Argomento:** [[topic_aritmetica|Aritmetica / Teoria dei numeri]]
 **Abilità:** [[skill_lettura_attenta|Lettura attenta del testo]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** $2021 \cdot 2^{2021} (個 / items)$
-[[Quesiti/src_jmo33ya_yosen#q09|src_jmo33ya_yosen__Q09]]
 
 
 
@@ -305,8 +305,8 @@ level: JMO Yosen
 
 **Argomento:** [[topic_geometria_piana|Geometria piana]]
 **Abilità:** [[skill_lettura_attenta|Lettura attenta del testo]]
+**Area:** [[Geometria]]
 **Risposta:** $78^\circ$
-[[Quesiti/src_jmo33ya_yosen#q10|src_jmo33ya_yosen__Q10]]
 
 
 
@@ -335,8 +335,8 @@ level: JMO Yosen
 
 **Argomento:** [[topic_combinatoria|Combinatoria]]
 **Abilità:** [[skill_lettura_attenta|Lettura attenta del testo]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** $2^{15} - 1 (通り / ways)$
-[[Quesiti/src_jmo33ya_yosen#q11|src_jmo33ya_yosen__Q11]]
 
 
 
@@ -365,5 +365,5 @@ level: JMO Yosen
 
 **Argomento:** [[topic_combinatoria|Combinatoria]]
 **Abilità:** [[skill_lettura_attenta|Lettura attenta del testo]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** $\binom{2022}{1011} (通り / ways)$
-[[Quesiti/src_jmo33ya_yosen#q12|src_jmo33ya_yosen__Q12]]

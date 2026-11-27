@@ -10,7 +10,7 @@ level: Concours Général
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_aritmetica,topic_combinatoria,method_fattorizzazione,method_conteggio,skill_manipolazione_algebrica,skill_conteggio_sistematico,skill_lettura_attenta"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_aritmetica,topic_combinatoria,method_fattorizzazione,method_conteggio,method_casework,method_induzione,skill_manipolazione_algebrica,skill_conteggio_sistematico,skill_lettura_attenta"></span>
 
 <div class="qlang-switch" data-default="fr"></div>
 
@@ -44,7 +44,7 @@ level: Concours Général
 > 4. Déterminer toutes les boîtes de poids parfaites de masse totale $1993$ grammes.
 
 **Topic:** [[topic_aritmetica|Arithmétique / Théorie des nombres]], [[topic_combinatoria|Combinatoire]]
-**Metodo:** [[method_fattorizzazione|Factorisation]], [[method_conteggio|Dénombrement]]
+**Metodo:** [[method_fattorizzazione|Factorisation]], [[method_conteggio|Dénombrement]], [[method_casework|Disjonction de cas]], [[method_induzione|Récurrence]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipulation algébrique]], [[skill_conteggio_sistematico|Dénombrement systématique]], [[skill_lettura_attenta|Lecture attentive]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Arithmétique et théorie des nombres]], [[Combinatoria, Logica e Probabilita|Combinatoire, logique et probabilités]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/18H2105DhGaTVXhbRzbq_zpCWkOcMtfYO/view)
@@ -81,7 +81,10 @@ level: Concours Général
 > Dimostrare che esistono interi $d_1, d_2, \ldots, d_k$ unici con $1 \leqslant d_1 < d_2 < \cdots < d_k$ tali che la scatola di pesi composta da $x_1$ pesi di $d_1$ grammi, $x_2$ pesi di $d_2$ grammi, $\ldots$, $x_k$ pesi di $d_k$ grammi sia perfetta.
 > 4. Determinare tutte le scatole di pesi perfette di massa totale $1993$ grammi.
 
-[[Quesiti/src_cgen_1993#q01|src_cgen_1993__Q01]]
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]], [[method_conteggio|Conteggio combinatorio]], [[method_casework|Analisi per casi]], [[method_induzione|Induzione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta del testo]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -115,11 +118,14 @@ level: Concours Général
 > Prove that there exist unique integers $d_1, d_2, \ldots, d_k$ with $1 \leqslant d_1 < d_2 < \cdots < d_k$ such that the weight box made of $x_1$ weights of $d_1$ grams, $x_2$ weights of $d_2$ grams, $\ldots$, $x_k$ weights of $d_k$ grams is perfect.
 > 4. Determine all perfect weight boxes of total mass $1993$ grams.
 
-[[Quesiti/src_cgen_1993#q01|src_cgen_1993__Q01]]
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]], [[method_conteggio|Combinatorial counting]], [[method_casework|Case analysis]], [[method_induzione|Induction]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_conteggio_sistematico|Systematic counting]], [[skill_lettura_attenta|Careful reading of the text]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
 
 
-<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_aritmetica,topic_algebra,topic_insiemi_funzioni,method_casework,skill_manipolazione_algebrica,skill_lettura_attenta,skill_riconoscimento_pattern"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_aritmetica,topic_algebra,topic_insiemi_funzioni,method_casework,method_fattorizzazione,skill_manipolazione_algebrica,skill_lettura_attenta,skill_riconoscimento_pattern"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -144,9 +150,9 @@ level: Concours Général
 > One may use the identity $1^2 + 2^2 + \cdots + n^2 = \left[\dfrac{n(n+1)}{2}\right]^2$.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]], [[topic_insiemi_funzioni|Insiemi e funzioni]]
-**Metodo:** [[method_casework|Casework]]
+**Metodo:** [[method_casework|Casework]], [[method_fattorizzazione|Factorisation / algebraic manipulation]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
-**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Algebra e Analisi|Algebra and analysis]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/18H2105DhGaTVXhbRzbq_zpCWkOcMtfYO/view)
 
 
@@ -167,11 +173,14 @@ level: Concours Général
 > 
 > Si può usare l'identità $1^2 + 2^2 + \cdots + n^2 = \left[\dfrac{n(n+1)}{2}\right]^2$.
 
-[[Quesiti/src_cgen_1993#q02|src_cgen_1993__Q02]]
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]], [[topic_insiemi_funzioni|Insiemi e funzioni]]
+**Metodo:** [[method_casework|Analisi per casi]], [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta del testo]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 
 
 
-<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_insiemi_funzioni,topic_algebra,method_estremalita,method_backward,skill_manipolazione_algebrica,skill_ragionamento_geometrico,skill_lettura_attenta"></span>
+<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_insiemi_funzioni,topic_algebra,topic_funzionali,method_estremalita,method_backward,skill_manipolazione_algebrica,skill_ragionamento_geometrico,skill_lettura_attenta"></span>
 
 <div class="qlang-switch" data-default="fr"></div>
 
@@ -188,7 +197,7 @@ level: Concours Général
 >
 > Montrer que l'application $f$ est constante.
 
-**Topic:** [[topic_insiemi_funzioni|Ensembles et fonctions]], [[topic_algebra|Algèbre]]
+**Topic:** [[topic_insiemi_funzioni|Ensembles et fonctions]], [[topic_algebra|Algèbre]], [[topic_funzionali|Équations fonctionnelles]]
 **Metodo:** [[method_estremalita|Extrémalité]], [[method_backward|Raisonnement à rebours]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipulation algébrique]], [[skill_ragionamento_geometrico|Raisonnement géométrique]], [[skill_lettura_attenta|Lecture attentive]]
 **Area:** [[Algebra e Analisi|Algèbre et analyse]]
@@ -210,7 +219,10 @@ level: Concours Général
 >
 > Dimostrare che l'applicazione $f$ è costante.
 
-[[Quesiti/src_cgen_1993#q03|src_cgen_1993__Q03]]
+**Topic:** [[topic_insiemi_funzioni|Insiemi e funzioni]], [[topic_algebra|Algebra]], [[topic_funzionali|Equazioni funzionali / successioni]]
+**Metodo:** [[method_estremalita|Principio di estremalita]], [[method_backward|Ragionamento all'indietro]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta del testo]]
+**Area:** [[Algebra e Analisi]]
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -228,11 +240,14 @@ level: Concours Général
 >
 > Prove that the map $f$ is constant.
 
-[[Quesiti/src_cgen_1993#q03|src_cgen_1993__Q03]]
+**Topic:** [[topic_insiemi_funzioni|Sets and functions]], [[topic_algebra|Algebra]], [[topic_funzionali|Functional equations / sequences]]
+**Metodo:** [[method_estremalita|Extremal principle]], [[method_backward|Working backwards]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_lettura_attenta|Careful reading of the text]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
 
 
 
-<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_geometria_piana,method_estremalita,method_coordinate,skill_ragionamento_geometrico,skill_stima,skill_lettura_attenta"></span>
+<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_geometria_piana,method_estremalita,method_coordinate,method_simmetria,skill_ragionamento_geometrico,skill_stima,skill_lettura_attenta"></span>
 
 <div class="qlang-switch" data-default="fr"></div>
 
@@ -247,7 +262,7 @@ level: Concours Général
 > 2. Montrer que, pour certaines valeurs de $r$, avec $r < 1$, il est possible de recouvrir le disque $D$ avec trois disques de même rayon $r$. Quelle est la plus petite valeur de $r$ permettant un tel recouvrement ?
 
 **Topic:** [[topic_geometria_piana|Géométrie plane]]
-**Metodo:** [[method_estremalita|Extrémalité]], [[method_coordinate|Coordonnées]]
+**Metodo:** [[method_estremalita|Extrémalité]], [[method_coordinate|Coordonnées]], [[method_simmetria|Symétrie]]
 **Abilita:** [[skill_ragionamento_geometrico|Raisonnement géométrique]], [[skill_stima|Estimation]], [[skill_lettura_attenta|Lecture attentive]]
 **Area:** [[Geometria|Géométrie]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/18H2105DhGaTVXhbRzbq_zpCWkOcMtfYO/view)
@@ -265,7 +280,10 @@ level: Concours Général
 > 1. Dimostrare che è impossibile ricoprire il disco $D$ con due dischi dello stesso raggio $r$, quando $r$ è strettamente minore di $1$.
 > 2. Dimostrare che, per certi valori di $r$ con $r < 1$, è possibile ricoprire il disco $D$ con tre dischi dello stesso raggio $r$. Qual è il più piccolo valore di $r$ che permette un tale ricoprimento?
 
-[[Quesiti/src_cgen_1993#q04|src_cgen_1993__Q04]]
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_estremalita|Principio di estremalita]], [[method_coordinate|Metodo delle coordinate]], [[method_simmetria|Sfruttamento della simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_stima|Stima e approssimazione]], [[skill_lettura_attenta|Lettura attenta del testo]]
+**Area:** [[Geometria]]
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -280,11 +298,14 @@ level: Concours Général
 > 1. Prove that it is impossible to cover the disk $D$ with two disks of the same radius $r$, when $r$ is strictly less than $1$.
 > 2. Prove that, for some values of $r$ with $r < 1$, it is possible to cover the disk $D$ with three disks of the same radius $r$. What is the smallest value of $r$ that allows such a covering?
 
-[[Quesiti/src_cgen_1993#q04|src_cgen_1993__Q04]]
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_estremalita|Extremal principle]], [[method_coordinate|Coordinate method]], [[method_simmetria|Using symmetry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_stima|Estimation and approximation]], [[skill_lettura_attenta|Careful reading of the text]]
+**Area:** [[Geometria|Geometry]]
 
 
 
-<span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_geometria_solida,topic_geometria_piana,topic_disuguaglianze,method_estremalita,method_disuguaglianze,skill_ragionamento_geometrico,skill_stima,skill_modellizzazione,skill_lettura_attenta"></span>
+<span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_geometria_solida,topic_geometria_piana,topic_disuguaglianze,method_estremalita,method_disuguaglianze,method_simmetria,skill_ragionamento_geometrico,skill_stima,skill_modellizzazione,skill_lettura_attenta"></span>
 
 <div class="qlang-switch" data-default="fr"></div>
 
@@ -306,7 +327,7 @@ level: Concours Général
 > $$\frac{V}{L^3}.$$
 
 **Topic:** [[topic_geometria_solida|Géométrie dans l'espace]], [[topic_geometria_piana|Géométrie plane]], [[topic_disuguaglianze|Inégalités]]
-**Metodo:** [[method_estremalita|Extrémalité]], [[method_disuguaglianze|Inégalités]]
+**Metodo:** [[method_estremalita|Extrémalité]], [[method_disuguaglianze|Inégalités]], [[method_simmetria|Symétrie]]
 **Abilita:** [[skill_ragionamento_geometrico|Raisonnement géométrique]], [[skill_stima|Estimation]], [[skill_modellizzazione|Modélisation]], [[skill_lettura_attenta|Lecture attentive]]
 **Area:** [[Geometria|Géométrie]], [[Algebra e Analisi|Algèbre et analyse]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/18H2105DhGaTVXhbRzbq_zpCWkOcMtfYO/view)
@@ -331,7 +352,10 @@ level: Concours Général
 >
 > $$\frac{V}{L^3}.$$
 
-[[Quesiti/src_cgen_1993#q05|src_cgen_1993__Q05]]
+**Topic:** [[topic_geometria_solida|Geometria solida]], [[topic_geometria_piana|Geometria piana]], [[topic_disuguaglianze|Disuguaglianze]]
+**Metodo:** [[method_estremalita|Principio di estremalita]], [[method_disuguaglianze|Disuguaglianze classiche]], [[method_simmetria|Sfruttamento della simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_stima|Stima e approssimazione]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_lettura_attenta|Lettura attenta del testo]]
+**Area:** [[Geometria]], [[Algebra e Analisi]]
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -353,4 +377,7 @@ level: Concours Général
 >
 > $$\frac{V}{L^3}.$$
 
-[[Quesiti/src_cgen_1993#q05|src_cgen_1993__Q05]]
+**Topic:** [[topic_geometria_solida|Solid geometry]], [[topic_geometria_piana|Plane geometry]], [[topic_disuguaglianze|Inequalities]]
+**Metodo:** [[method_estremalita|Extremal principle]], [[method_disuguaglianze|Classical inequalities]], [[method_simmetria|Using symmetry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_stima|Estimation and approximation]], [[skill_modellizzazione|Modelling / translating the text]], [[skill_lettura_attenta|Careful reading of the text]]
+**Area:** [[Geometria|Geometry]], [[Algebra e Analisi|Algebra and analysis]]

@@ -10,7 +10,7 @@ level: Concours Général
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_geometria_piana,method_coordinate,method_trigonometria,skill_ragionamento_geometrico,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_geometria_piana,topic_trigonometria,method_coordinate,method_trigonometria,skill_ragionamento_geometrico,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
 
 <div class="qlang-switch" data-default="fr"></div>
 
@@ -26,7 +26,7 @@ level: Concours Général
 > - le triangle $ABC$ est équilatéral ;
 > - le triangle $ABC$ est rectangle et isocèle.
 
-**Topic:** [[topic_geometria_piana|Géométrie plane]]
+**Topic:** [[topic_geometria_piana|Géométrie plane]], [[topic_trigonometria|Trigonométrie]]
 **Metodo:** [[method_coordinate|Coordonnées]], [[method_trigonometria|Trigonométrie]]
 **Abilita:** [[skill_ragionamento_geometrico|Raisonnement géométrique]], [[skill_manipolazione_algebrica|Manipulation algébrique]], [[skill_lettura_attenta|Lecture attentive]]
 **Area:** [[Geometria|Géométrie]]
@@ -47,7 +47,10 @@ level: Concours Général
 > - il triangolo $ABC$ è equilatero;
 > - il triangolo $ABC$ è rettangolo e isoscele.
 
-[[Quesiti/src_cgen_1996#q01|src_cgen_1996__Q01]]
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometria]]
+**Metodo:** [[method_coordinate|Metodo delle coordinate]], [[method_trigonometria|Tecniche trigonometriche]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta del testo]]
+**Area:** [[Geometria]]
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -64,11 +67,14 @@ level: Concours Général
 > - the triangle $ABC$ is equilateral;
 > - the triangle $ABC$ is right-angled and isosceles.
 
-[[Quesiti/src_cgen_1996#q01|src_cgen_1996__Q01]]
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_trigonometria|Trigonometry]]
+**Metodo:** [[method_coordinate|Coordinate method]], [[method_trigonometria|Trigonometric techniques]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_lettura_attenta|Careful reading of the text]]
+**Area:** [[Geometria|Geometry]]
 
 
 
-<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_insiemi_funzioni,topic_aritmetica,method_invarianti,method_ricorsione,method_casework,skill_ragionamento_geometrico,skill_manipolazione_algebrica,skill_riconoscimento_pattern,skill_lettura_attenta"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_insiemi_funzioni,topic_aritmetica,topic_funzionali,method_invarianti,method_ricorsione,method_casework,skill_ragionamento_geometrico,skill_manipolazione_algebrica,skill_riconoscimento_pattern,skill_lettura_attenta,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -81,10 +87,10 @@ level: Concours Général
 > 1. Show that one can find a positive integer $n$ such that $u_n \le a$.
 > 2. Show that the sequence is eventually periodic.
 
-**Topic:** [[topic_insiemi_funzioni|Insiemi e funzioni]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Topic:** [[topic_insiemi_funzioni|Insiemi e funzioni]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_funzionali|Functional equations / sequences]]
 **Metodo:** [[method_invarianti|Invarianti]], [[method_ricorsione|Ricorsione]], [[method_casework|Casework]]
-**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_lettura_attenta|Lettura attenta]]
-**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_lettura_attenta|Lettura attenta]], [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/17EWEElTie5u7XVQmqQ-04NIFHkPo7Bvo/view)
 
 
@@ -97,11 +103,14 @@ level: Concours Général
 > 
 > 1. Mostrare che si può trovare un intero positivo $n$ tale che $u_n \le a$. 2. Mostrare che la sequenza è alla fine periodica.
 
-[[Quesiti/src_cgen_1996#q02|src_cgen_1996__Q02]]
+**Topic:** [[topic_insiemi_funzioni|Insiemi e funzioni]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_funzionali|Equazioni funzionali / successioni]]
+**Metodo:** [[method_invarianti|Invarianti / monovarianti]], [[method_ricorsione|Ricorsione]], [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_lettura_attenta|Lettura attenta del testo]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 
 
 
-<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_geometria_solida,method_coordinate,method_casework,method_estremalita,skill_ragionamento_geometrico,skill_manipolazione_algebrica,skill_modellizzazione,skill_stima"></span>
+<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_geometria_solida,topic_algebra,method_coordinate,method_casework,method_estremalita,skill_ragionamento_geometrico,skill_manipolazione_algebrica,skill_modellizzazione,skill_stima,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="fr"></div>
 
@@ -114,10 +123,10 @@ level: Concours Général
 > 2. Réciproquement, montrer que tout tétraèdre dont les quatre faces sont des triangles rectangles peut s'obtenir en choisissant quatre sommets d'un parallélépipède rectangle.
 > 3. Rechercher parmi ces tétraèdres ceux qui ont aussi au moins deux faces isocèles. Donner les longueurs de leurs arêtes en fonction de la longueur $a$ de la plus petite arête.
 
-**Topic:** [[topic_geometria_solida|Géométrie dans l'espace]]
+**Topic:** [[topic_geometria_solida|Géométrie dans l'espace]], [[topic_algebra|Algèbre]]
 **Metodo:** [[method_coordinate|Coordonnées]], [[method_casework|Disjonction de cas]], [[method_estremalita|Extrémalité]]
-**Abilita:** [[skill_ragionamento_geometrico|Raisonnement géométrique]], [[skill_manipolazione_algebrica|Manipulation algébrique]], [[skill_modellizzazione|Modélisation]], [[skill_stima|Estimation]]
-**Area:** [[Geometria|Géométrie]]
+**Abilita:** [[skill_ragionamento_geometrico|Raisonnement géométrique]], [[skill_manipolazione_algebrica|Manipulation algébrique]], [[skill_modellizzazione|Modélisation]], [[skill_stima|Estimation]], [[skill_casework_accurato|Analyse par cas soigneuse]]
+**Area:** [[Geometria|Géométrie]], [[Algebra e Analisi|Algèbre et analyse]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/17EWEElTie5u7XVQmqQ-04NIFHkPo7Bvo/view)
 
 
@@ -132,7 +141,10 @@ level: Concours Général
 > 2. Reciprocamente, dimostrare che ogni tetraedro le cui quattro facce sono triangoli rettangoli si può ottenere scegliendo quattro vertici di un parallelepipedo rettangolo.
 > 3. Tra questi tetraedri, cercare quelli che hanno anche almeno due facce isosceli. Dare le lunghezze dei loro spigoli in funzione della lunghezza $a$ dello spigolo più piccolo.
 
-[[Quesiti/src_cgen_1996#q03|src_cgen_1996__Q03]]
+**Topic:** [[topic_geometria_solida|Geometria solida]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_coordinate|Metodo delle coordinate]], [[method_casework|Analisi per casi]], [[method_estremalita|Principio di estremalita]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_stima|Stima e approssimazione]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Geometria]], [[Algebra e Analisi]]
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -146,14 +158,14 @@ level: Concours Général
 > 2. Conversely, prove that every tetrahedron whose four faces are right-angled triangles can be obtained by choosing four vertices of a rectangular parallelepiped.
 > 3. Among these tetrahedra, find those that also have at least two isosceles faces. Give the lengths of their edges in terms of the length $a$ of the shortest edge.
 
-[[Quesiti/src_cgen_1996#q03|src_cgen_1996__Q03]]
+**Topic:** [[topic_geometria_solida|Solid geometry]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_coordinate|Coordinate method]], [[method_casework|Case analysis]], [[method_estremalita|Extremal principle]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_modellizzazione|Modelling / translating the text]], [[skill_stima|Estimation and approximation]], [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Geometria|Geometry]], [[Algebra e Analisi|Algebra and analysis]]
 
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_insiemi_funzioni,topic_disuguaglianze,method_disuguaglianze,method_estremalita,skill_manipolazione_algebrica,skill_stima,skill_ragionamento_geometrico"></span>
-
-<div class="qlang-switch" data-default="fr"></div>
-
 
 *Minimum de x^x et inégalité x^y + y^x > 1*
 
@@ -169,21 +181,20 @@ level: Concours Général
 **Fonte:** [apri PDF](https://drive.google.com/file/d/17EWEElTie5u7XVQmqQ-04NIFHkPo7Bvo/view)
 
 
-<div class="qlang-split" data-lang="it"></div>
 
+<span class="atom-split" id="q04__en" data-atom="q04__en" data-title="Q04__EN" data-tags=""></span>
 
-*Minimo di x^x e disuguaglianza x^y + y^x > 1*
-
-> **Esercizio IV**
->
-> 1. Sia $f$ la funzione definita per ogni reale $x$ strettamente positivo da $f(x) = x^x$. Determinare il valore minimo assunto da questa funzione quando $x$ descrive l'insieme dei reali strettamente positivi.
-> 2. Siano $x$ e $y$ due reali strettamente positivi. Dimostrare che $x^y + y^x > 1$.
-
-[[Quesiti/src_cgen_1996#q04|src_cgen_1996__Q04]]
-
-
-<div class="qlang-split" data-lang="en"></div>
-
+---
+tipo: quesito-translation
+translation_of: src_cgen_1996__Q04
+lang: en
+secondary: true
+title: "Concours Général des Lycées 1996 — Exercise IV"
+summary: "Minimum of x^x and the inequality x^y + y^x > 1"
+topics: [topic_insiemi_funzioni, topic_disuguaglianze]
+methods: [method_disuguaglianze, method_estremalita]
+skills: [skill_manipolazione_algebrica, skill_stima, skill_ragionamento_geometrico]
+tags: [kg/translation, topic/insiemi_funzioni, topic/disuguaglianze]---
 
 *Minimum of x^x and the inequality x^y + y^x > 1*
 
@@ -192,11 +203,44 @@ level: Concours Général
 > 1. Let $f$ be the function defined for every strictly positive real $x$ by $f(x) = x^x$. Determine the minimal value taken by this function as $x$ runs through the strictly positive reals.
 > 2. Let $x$ and $y$ be two strictly positive reals. Prove that $x^y + y^x > 1$.
 
+**Topic:** [[topic_insiemi_funzioni|Sets and functions]], [[topic_disuguaglianze|Inequalities]]
+**Metodo:** [[method_disuguaglianze|Classical inequalities]], [[method_estremalita|Extremal principle]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_stima|Estimation and approximation]], [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
 [[Quesiti/src_cgen_1996#q04|src_cgen_1996__Q04]]
 
 
 
-<span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_combinatoria,topic_aritmetica,method_conteggio,method_casework,method_estremalita,skill_conteggio_sistematico,skill_manipolazione_algebrica,skill_lettura_attenta,skill_modellizzazione"></span>
+<span class="atom-split" id="q04__it" data-atom="q04__it" data-title="Q04__IT" data-tags=""></span>
+
+---
+tipo: quesito-translation
+translation_of: src_cgen_1996__Q04
+lang: it
+secondary: true
+title: "Concours Général des Lycées 1996 — Esercizio IV"
+summary: "Minimo di x^x e disuguaglianza x^y + y^x > 1"
+topics: [topic_insiemi_funzioni, topic_disuguaglianze]
+methods: [method_disuguaglianze, method_estremalita]
+skills: [skill_manipolazione_algebrica, skill_stima, skill_ragionamento_geometrico]
+tags: [kg/translation, topic/insiemi_funzioni, topic/disuguaglianze]---
+
+*Minimo di x^x e disuguaglianza x^y + y^x > 1*
+
+> **Esercizio IV**
+>
+> 1. Sia $f$ la funzione definita per ogni reale $x$ strettamente positivo da $f(x) = x^x$. Determinare il valore minimo assunto da questa funzione quando $x$ descrive l'insieme dei reali strettamente positivi.
+> 2. Siano $x$ e $y$ due reali strettamente positivi. Dimostrare che $x^y + y^x > 1$.
+
+**Topic:** [[topic_insiemi_funzioni|Insiemi e funzioni]], [[topic_disuguaglianze|Disuguaglianze]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze classiche]], [[method_estremalita|Principio di estremalita]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima e approssimazione]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Algebra e Analisi]]
+[[Quesiti/src_cgen_1996#q04|src_cgen_1996__Q04]]
+
+
+
+<span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_combinatoria,topic_aritmetica,method_conteggio,method_casework,method_estremalita,skill_conteggio_sistematico,skill_manipolazione_algebrica,skill_lettura_attenta,skill_modellizzazione,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="fr"></div>
 
@@ -216,7 +260,7 @@ level: Concours Général
 
 **Topic:** [[topic_combinatoria|Combinatoire]], [[topic_aritmetica|Arithmétique / Théorie des nombres]]
 **Metodo:** [[method_conteggio|Dénombrement]], [[method_casework|Disjonction de cas]], [[method_estremalita|Extrémalité]]
-**Abilita:** [[skill_conteggio_sistematico|Dénombrement systématique]], [[skill_manipolazione_algebrica|Manipulation algébrique]], [[skill_lettura_attenta|Lecture attentive]], [[skill_modellizzazione|Modélisation]]
+**Abilita:** [[skill_conteggio_sistematico|Dénombrement systématique]], [[skill_manipolazione_algebrica|Manipulation algébrique]], [[skill_lettura_attenta|Lecture attentive]], [[skill_modellizzazione|Modélisation]], [[skill_casework_accurato|Analyse par cas soigneuse]]
 **Area:** [[Combinatoria, Logica e Probabilita|Combinatoire, logique et probabilités]], [[Aritmetica e Teoria dei Numeri|Arithmétique et théorie des nombres]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/17EWEElTie5u7XVQmqQ-04NIFHkPo7Bvo/view)
 
@@ -237,7 +281,10 @@ level: Concours Général
 > 2. Dimostrare che $5$ verifica la condizione $C_{14}$.
 > 3. Si supponga che $\dfrac{2n-3}{5}$ sia intero. Dimostrare che $\dfrac{2n-3}{5}$ verifica la condizione $C_n$.
 
-[[Quesiti/src_cgen_1996#q05|src_cgen_1996__Q05]]
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_conteggio|Conteggio combinatorio]], [[method_casework|Analisi per casi]], [[method_estremalita|Principio di estremalita]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta del testo]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -256,4 +303,7 @@ level: Concours Général
 > 2. Prove that $5$ satisfies condition $C_{14}$.
 > 3. Assume that $\dfrac{2n-3}{5}$ is an integer. Prove that $\dfrac{2n-3}{5}$ satisfies condition $C_n$.
 
-[[Quesiti/src_cgen_1996#q05|src_cgen_1996__Q05]]
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_conteggio|Combinatorial counting]], [[method_casework|Case analysis]], [[method_estremalita|Extremal principle]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]], [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_lettura_attenta|Careful reading of the text]], [[skill_modellizzazione|Modelling / translating the text]], [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]

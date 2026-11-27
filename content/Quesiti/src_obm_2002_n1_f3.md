@@ -54,8 +54,6 @@ level: OBM Nível 1
 **Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 
-[[Quesiti/src_obm_2002_n1_f3#q01|src_obm_2002_n1_f3__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_geometria_piana,method_simmetria,method_coordinate,skill_ragionamento_geometrico,skill_modellizzazione,skill_lettura_attenta"></span>
@@ -71,7 +69,7 @@ level: OBM Nível 1
 > 
 > Compute the area of triangle $X'Y'Z'$.
 
-![[src_obm_2002_n1_f3__q02.png]]
+![[src_obm_2002_n1_f3__Q02.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_simmetria|Simmetria]], [[method_coordinate|Coordinate]]
@@ -93,7 +91,7 @@ level: OBM Nível 1
 >
 > Calcola l'area del triangolo $X'Y'Z'$.
 
-![[src_obm_2002_n1_f3__q02.png]]
+![[src_obm_2002_n1_f3__Q02.png]]
 
 > [!warning] Estratto/tradotto: da verificare con la fonte.
 
@@ -101,8 +99,6 @@ level: OBM Nível 1
 **Metodo:** [[method_simmetria|Simmetria]], [[method_coordinate|Coordinate]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Geometria]]
-
-[[Quesiti/src_obm_2002_n1_f3#q02|src_obm_2002_n1_f3__Q02]]
 
 
 
@@ -115,7 +111,7 @@ level: OBM Nível 1
 
 > The park below has the shape of a quadrilateral and possesses several gates (entrances): one at each vertex of the quadrilateral and one on each side. The gates are to be numbered, four by four, so that on each side the sum $T$ of the numbers is the same. Number the points so that the sum is always the same number, equal to $T$. Present below an example of a numbering of the points that gives one of the possible values of $T$.
 
-![[src_obm_2002_n1_f3__q03.png]]
+![[src_obm_2002_n1_f3__Q03.png]]
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]]
@@ -133,7 +129,7 @@ level: OBM Nível 1
 
 > Il parco qui sotto ha la forma di un quadrilatero e dispone di diversi cancelli (ingressi): uno in ciascun vertice del quadrilatero e uno su ciascun lato. I cancelli devono essere numerati a gruppi di quattro, in modo che su ciascun lato la somma $T$ dei numeri sia la stessa. Numera i punti in modo che la somma sia sempre lo stesso numero, pari a $T$. Di seguito presenta un esempio di numerazione dei punti che fornisce uno dei valori possibili di $T$.
 
-![[src_obm_2002_n1_f3__q03.png]]
+![[src_obm_2002_n1_f3__Q03.png]]
 
 > [!warning] Estratto/tradotto: da verificare con la fonte.
 
@@ -141,8 +137,6 @@ level: OBM Nível 1
 **Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]]
 **Abilita:** [[skill_lettura_attenta|Lettura attenta]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
-
-[[Quesiti/src_obm_2002_n1_f3#q03|src_obm_2002_n1_f3__Q03]]
 
 
 
@@ -159,7 +153,7 @@ level: OBM Nível 1
 > 
 > b) Is it possible, turning over four consecutive coins each time, to make all of them show face down (tails)?
 
-![[src_obm_2002_n1_f3__q04.png]]
+![[src_obm_2002_n1_f3__Q04.png]]
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_logica|Logica]]
 **Metodo:** [[method_invarianti|Invarianti]], [[method_casework|Casework]]
@@ -181,7 +175,7 @@ level: OBM Nível 1
 >
 > b) È possibile, girando ogni volta quattro monete consecutive, far sì che tutte mostrino il lato rivolto verso il basso (croce)?
 
-![[src_obm_2002_n1_f3__q04.png]]
+![[src_obm_2002_n1_f3__Q04.png]]
 
 > [!warning] Estratto/tradotto: da verificare con la fonte.
 
@@ -189,8 +183,6 @@ level: OBM Nível 1
 **Metodo:** [[method_invarianti|Invarianti]], [[method_casework|Casework]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_astrazione|Astrazione]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
-
-[[Quesiti/src_obm_2002_n1_f3#q04|src_obm_2002_n1_f3__Q04]]
 
 
 
@@ -225,5 +217,3 @@ level: OBM Nível 1
 **Metodo:** [[method_simmetria|Simmetria]], [[method_estremalita|Estremalità]], [[method_casework|Casework]]
 **Abilita:** [[skill_astrazione|Astrazione]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_modellizzazione|Modellizzazione]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
-
-[[Quesiti/src_obm_2002_n1_f3#q05|src_obm_2002_n1_f3__Q05]]

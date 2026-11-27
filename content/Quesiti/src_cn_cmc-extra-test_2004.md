@@ -19,7 +19,7 @@ level: China Mathematical Competition (Extra Test)
 
 > In an acute triangle $ABC$, point $H$ is the intersection point of altitude $CE$ to $AB$ and altitude $BD$ to $AC$. A circle with $DE$ as its diameter intersects $AB$ and $AC$ at points $F$ and $G$, respectively. $FG$ and $AH$ intersect at point $K$. If $BC = 25$, $BD = 20$, $BE = 7$, find the length of $AK$.
 
-![[src_cn_cmc-extra-test_2004__q01.png]]
+![[src_cn_cmc-extra-test_2004__Q01.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_trigonometria|Trigonometria]], [[method_coordinate|Coordinate]]
@@ -36,18 +36,16 @@ level: China Mathematical Competition (Extra Test)
 
 > In un triangolo acuto $ABC$, il punto $H$ è il punto di intersezione dell'altezza $CE$ relativa a $AB$ e dell'altezza $BD$ relativa a $AC$. Una circonferenza avente $DE$ come diametro interseca $AB$ e $AC$ nei punti $F$ e $G$, rispettivamente. $FG$ e $AH$ si intersecano nel punto $K$. Se $BC = 25$, $BD = 20$, $BE = 7$, determina la lunghezza di $AK$.
 
-![[src_cn_cmc-extra-test_2004__q01.png]]
+![[src_cn_cmc-extra-test_2004__Q01.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_trigonometria|Trigonometria]], [[method_coordinate|Coordinate]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 
-[[Quesiti/src_cn_cmc-extra-test_2004#q01|src_cn_cmc-extra-test_2004__Q01]]
 
 
-
-<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_algebra,topic_disuguaglianze,method_induzione,method_disuguaglianze,method_telescoping,skill_manipolazione_algebrica,skill_ragionamento_geometrico,skill_stima"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_algebra,topic_disuguaglianze,topic_geometria_analitica,method_induzione,method_disuguaglianze,method_telescoping,method_coordinate,skill_manipolazione_algebrica,skill_ragionamento_geometrico,skill_stima"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -62,10 +60,10 @@ level: China Mathematical Competition (Extra Test)
 > $$\frac{b_2}{b_1} + \frac{b_3}{b_2} + \cdots + \frac{b_{n+1}}{b_n} < n - 2\,004,$$
 > where $b_n$ is the $y$-coordinate of $B_n$, i.e., $B_n = (b_n,\, \sqrt{2b_n})$ with $b_n > 0$.
 
-**Topic:** [[topic_algebra|Algebra]], [[topic_disuguaglianze|Disuguaglianze]]
-**Metodo:** [[method_induzione|Induzione]], [[method_disuguaglianze|Disuguaglianze]], [[method_telescoping|Telescoping]]
+**Topic:** [[topic_algebra|Algebra]], [[topic_disuguaglianze|Disuguaglianze]], [[topic_geometria_analitica|Coordinate geometry]]
+**Metodo:** [[method_induzione|Induzione]], [[method_disuguaglianze|Disuguaglianze]], [[method_telescoping|Telescoping]], [[method_coordinate|Coordinate method]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_stima|Stima]]
-**Area:** [[Algebra e Analisi]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Geometria|Geometry]]
 **Fonte:** [apri libro PDF](https://drive.google.com/file/d/1Bie5BlTQQyjdGifDyOeZ-kZzNFzUwbxT/view)
 
 
@@ -82,12 +80,11 @@ level: China Mathematical Competition (Extra Test)
 > $$\frac{b_2}{b_1} + \frac{b_3}{b_2} + \cdots + \frac{b_{n+1}}{b_n} < n - 2\,004,$$
 > dove $b_n$ è la coordinata $y$ di $B_n$, cioè $B_n = (b_n,\, \sqrt{2b_n})$ con $b_n > 0$.
 
-**Topic:** [[topic_algebra|Algebra]], [[topic_disuguaglianze|Disuguaglianze]]
-**Metodo:** [[method_induzione|Induzione]], [[method_disuguaglianze|Disuguaglianze]], [[method_telescoping|Telescoping]]
-**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_stima|Stima]]
-**Area:** [[Algebra e Analisi]]
 
-[[Quesiti/src_cn_cmc-extra-test_2004#q02|src_cn_cmc-extra-test_2004__Q02]]
+**Topic:** [[topic_algebra|Algebra]], [[topic_disuguaglianze|Disuguaglianze]], [[topic_geometria_analitica|Geometria analitica]]
+**Metodo:** [[method_induzione|Induzione]], [[method_disuguaglianze|Disuguaglianze]], [[method_telescoping|Telescoping]], [[method_coordinate|Metodo delle coordinate]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_stima|Stima]]
+**Area:** [[Algebra e Analisi]], [[Geometria]]
 
 
 
@@ -118,5 +115,3 @@ level: China Mathematical Competition (Extra Test)
 **Metodo:** [[method_casework|Casework]], [[method_induzione|Induzione]], [[method_estremalita|Estremalità]]
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
-
-[[Quesiti/src_cn_cmc-extra-test_2004#q03|src_cn_cmc-extra-test_2004__Q03]]

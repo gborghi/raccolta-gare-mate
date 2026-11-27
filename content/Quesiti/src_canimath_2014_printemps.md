@@ -12,16 +12,13 @@ level: Coupe Animath Printemps
 
 <span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_geometria_piana,method_trigonometria,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
 
-<div class="qlang-switch" data-default="en"></div>
-
-
 *Side of large square with inscribed square and equilateral triangles*
 
 > In this question, and only this question, no justification is required.
 > 
 > Knowing that the small square has side $x$ and that the triangles are equilateral, determine the side length of the large square.
 
-![[src_canimath_2014_printemps__q01.png]]
+![[src_canimath_2014_printemps__Q01.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_trigonometria|Trigonometria]]
@@ -31,8 +28,20 @@ level: Coupe Animath Printemps
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1zXbOAjNKTjFFzbKdpAWQivUPB4zcjEuT/view)
 
 
-<div class="qlang-split" data-lang="it"></div>
 
+<span class="atom-split" id="q01__it" data-atom="q01__it" data-title="Q01__IT" data-tags=""></span>
+
+---
+tipo: quesito-translation
+translation_of: src_canimath_2014_printemps__Q01
+lang: it
+secondary: true
+title: "Coupe Animath Primavera 2014  Quesito 1"
+summary: "Il lato di un grande quadrato con quadrati e triangoli equilaterali incisi"
+topics: [topic_geometria_piana]
+methods: [method_trigonometria]
+skills: [skill_ragionamento_geometrico, skill_manipolazione_algebrica]
+tags: [kg/translation, topic/geometria_piana]---
 
 *Side di un grande quadrato con triangoli quadrati ed equilaterali incisi*
 
@@ -40,17 +49,18 @@ level: Coupe Animath Printemps
 > 
 > Sapendo che il piccolo quadrato ha lato $x$ e che i triangoli sono equilaterali, determinare la lunghezza laterale del grande quadrato.
 
-![[src_canimath_2014_printemps__q01.png]]
+![[src_canimath_2014_printemps__Q01.png]]
 
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_trigonometria|Tecniche trigonometriche]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
 **Risposta:** $x\sqrt{3}$
 [[Quesiti/src_canimath_2014_printemps#q01|src_canimath_2014_printemps__Q01]]
 
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_aritmetica,method_congruenze,method_casework,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
-
-<div class="qlang-switch" data-default="en"></div>
-
 
 *Digit pairs (a,b) making four-digit number ab32 divisible by 99*
 
@@ -64,22 +74,35 @@ level: Coupe Animath Printemps
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1zXbOAjNKTjFFzbKdpAWQivUPB4zcjEuT/view)
 
 
-<div class="qlang-split" data-lang="it"></div>
 
+<span class="atom-split" id="q02__it" data-atom="q02__it" data-title="Q02__IT" data-tags=""></span>
+
+---
+tipo: quesito-translation
+translation_of: src_canimath_2014_printemps__Q02
+lang: it
+secondary: true
+title: "Coupe Animath Primavera 2014  Quesito 2"
+summary: "coppie di cifre (a,b) che rendono divisabile il numero a quattro cifre ab32 per 99"
+topics: [topic_aritmetica]
+methods: [method_congruenze, method_casework]
+skills: [skill_manipolazione_algebrica, skill_lettura_attenta]
+tags: [kg/translation, topic/aritmetica]---
 
 *coppie di numeri (a,b) che rendono divisabile il numero a quattro cifre ab32 per 99*
 
 > Trovare tutte le coppie di cifre $(a, b)$ in modo tale che il numero intero di cui quattro cifre sono $ab32$ (cioè il numero $1000a + 100b + 32$) sia divisibile da $99$.
 
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]], [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta del testo]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** $(a,b)=(3,6)$ e $(a,b)=(6,9)$
 [[Quesiti/src_canimath_2014_printemps#q02|src_canimath_2014_printemps__Q02]]
 
 
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_geometria_piana,method_simmetria,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
-
-<div class="qlang-switch" data-default="en"></div>
-
 
 *Two tangent circles, common tangent, four sub-questions on geometry*
 
@@ -100,8 +123,20 @@ level: Coupe Animath Printemps
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1zXbOAjNKTjFFzbKdpAWQivUPB4zcjEuT/view)
 
 
-<div class="qlang-split" data-lang="it"></div>
 
+<span class="atom-split" id="q03__it" data-atom="q03__it" data-title="Q03__IT" data-tags=""></span>
+
+---
+tipo: quesito-translation
+translation_of: src_canimath_2014_printemps__Q03
+lang: it
+secondary: true
+title: "Coupe Animath Primavera 2014  Quesito 3"
+summary: "Due cerchi tangenti, tangente comune, quattro sottoquestioni sulla geometria"
+topics: [topic_geometria_piana]
+methods: [method_simmetria]
+skills: [skill_ragionamento_geometrico, skill_manipolazione_algebrica]
+tags: [kg/translation, topic/geometria_piana]---
 
 *Due cerchi tangenti, tangente comune, quattro sottoquestioni sulla geometria*
 
@@ -115,11 +150,15 @@ level: Coupe Animath Printemps
 > 
 > (4) Calcolare la lunghezza $DD'$ in termini di $R$ e $R'$.
 
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_simmetria|Sfruttamento della simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
 [[Quesiti/src_canimath_2014_printemps#q03|src_canimath_2014_printemps__Q03]]
 
 
 
-<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_aritmetica,topic_combinatoria,method_casework,method_estremalita,skill_riconoscimento_pattern,skill_conteggio_sistematico,skill_ragionamento_geometrico"></span>
+<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_aritmetica,topic_combinatoria,method_casework,method_estremalita,method_colorazione,skill_riconoscimento_pattern,skill_conteggio_sistematico,skill_ragionamento_geometrico,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -131,9 +170,9 @@ level: Coupe Animath Printemps
 > b) Is it possible to partition the integers $1, 2, 3, \ldots, 20$ into ten pairs such that the ten pairwise sums are ten different prime numbers?
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
-**Metodo:** [[method_casework|Casework]], [[method_estremalita|Estremalità]]
-**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
-**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+**Metodo:** [[method_casework|Casework]], [[method_estremalita|Estremalità]], [[method_colorazione|Colouring / parity]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1zXbOAjNKTjFFzbKdpAWQivUPB4zcjEuT/view)
 
 
@@ -146,14 +185,14 @@ level: Coupe Animath Printemps
 > 
 > b) È possibile dividere i numeri interi $1, 2, 3, \ldots, 20$ in dieci coppie in modo tale che le dieci somme in coppia siano dieci diversi numeri primi?
 
-[[Quesiti/src_canimath_2014_printemps#q04|src_canimath_2014_printemps__Q04]]
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casework|Analisi per casi]], [[method_estremalita|Principio di estremalita]], [[method_colorazione|Colorazione / parita]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 
 
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_combinatoria,topic_aritmetica,method_casework,method_doppio_conteggio,skill_modellizzazione,skill_manipolazione_algebrica,skill_conteggio_sistematico"></span>
-
-<div class="qlang-switch" data-default="en"></div>
-
 
 *Football tournament: find number of teams given win/draw/loss scoring rules*
 
@@ -166,21 +205,34 @@ level: Coupe Animath Printemps
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1zXbOAjNKTjFFzbKdpAWQivUPB4zcjEuT/view)
 
 
-<div class="qlang-split" data-lang="it"></div>
 
+<span class="atom-split" id="q05__it" data-atom="q05__it" data-title="Q05__IT" data-tags=""></span>
+
+---
+tipo: quesito-translation
+translation_of: src_canimath_2014_printemps__Q05
+lang: it
+secondary: true
+title: "Coupe Animath Primavera 2014  Quesito 5"
+summary: "Torneo di calcio: trovare il numero di squadre con regole di punteggio vincita/scorso/perdita"
+topics: [topic_combinatoria, topic_aritmetica]
+methods: [method_casework, method_doppio_conteggio]
+skills: [skill_modellizzazione, skill_manipolazione_algebrica, skill_conteggio_sistematico]
+tags: [kg/translation, topic/combinatoria, topic/aritmetica]---
 
 *Torneo di calcio: trovare il numero di squadre con le regole di punteggio vincita/scorso/perdita*
 
 > In un torneo di calcio, ogni squadra gioca contro ogni altra squadra esattamente due volte. Non ci sono pareggi; una vittoria guadagna due punti e una perdita guadagna zero punti. Si scopre che solo una squadra ha vinto il torneo con $26$ punti, e le due squadre in ultima posizione sono pari con $20$ punti ciascuno. Determinare il numero di squadre e dare un esempio di torneo in cui si verificano questi risultati.
 
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Analisi per casi]], [[method_doppio_conteggio|Doppio conteggio]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 [[Quesiti/src_canimath_2014_printemps#q05|src_canimath_2014_printemps__Q05]]
 
 
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_geometria_piana,topic_geometria_analitica,method_casework,method_coordinate,skill_ragionamento_geometrico,skill_modellizzazione,skill_lettura_attenta"></span>
-
-<div class="qlang-switch" data-default="en"></div>
-
 
 *Max circles at equal distance from four non-concyclic points*
 
@@ -195,8 +247,20 @@ level: Coupe Animath Printemps
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1zXbOAjNKTjFFzbKdpAWQivUPB4zcjEuT/view)
 
 
-<div class="qlang-split" data-lang="it"></div>
 
+<span class="atom-split" id="q06__it" data-atom="q06__it" data-title="Q06__IT" data-tags=""></span>
+
+---
+tipo: quesito-translation
+translation_of: src_canimath_2014_printemps__Q06
+lang: it
+secondary: true
+title: "Coupe Animath Primavera 2014  Quesito 6"
+summary: "Circoli massimi a distanza uguale da quattro punti non conciclici"
+topics: [topic_geometria_piana, topic_geometria_analitica]
+methods: [method_casework, method_coordinate]
+skills: [skill_ragionamento_geometrico, skill_modellizzazione, skill_lettura_attenta]
+tags: [kg/translation, topic/geometria_piana, topic/geometria_analitica]---
 
 *Circoli massimi a distanza uguale da quattro punti non conciclici*
 
@@ -204,14 +268,15 @@ level: Coupe Animath Printemps
 > 
 > Dati quattro punti non conciclici $A, B, C, D$, qual è il numero massimo di cerchi che si trovano a distanza uguale da tutti e quattro i punti?
 
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_geometria_analitica|Geometria analitica]]
+**Metodo:** [[method_casework|Analisi per casi]], [[method_coordinate|Metodo delle coordinate]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_lettura_attenta|Lettura attenta del testo]]
+**Area:** [[Geometria]]
 [[Quesiti/src_canimath_2014_printemps#q06|src_canimath_2014_printemps__Q06]]
 
 
 
 <span class="atom-split" id="q07" data-atom="q07" data-title="Quesito 7" data-tags="topic_aritmetica,topic_combinatoria,method_estremalita,method_induzione,method_casework,skill_manipolazione_algebrica,skill_riconoscimento_pattern,skill_stima"></span>
-
-<div class="qlang-switch" data-default="en"></div>
-
 
 *Integer sequences satisfying x_10 ≤ 2(x_1+…+x_9) with 10 terms*
 
@@ -227,11 +292,27 @@ level: Coupe Animath Printemps
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1zXbOAjNKTjFFzbKdpAWQivUPB4zcjEuT/view)
 
 
-<div class="qlang-split" data-lang="it"></div>
 
+<span class="atom-split" id="q07__it" data-atom="q07__it" data-title="Q07__IT" data-tags=""></span>
+
+---
+tipo: quesito-translation
+translation_of: src_canimath_2014_printemps__Q07
+lang: it
+secondary: true
+title: "Coupe Animath Primavera 2014  Quesito 7"
+summary: "Sequenze interi che soddisfano x_10 ≤ 2(x_1+...+x_9) con 10 termini"
+topics: [topic_aritmetica, topic_combinatoria]
+methods: [method_estremalita, method_induzione, method_casework]
+skills: [skill_manipolazione_algebrica, skill_riconoscimento_pattern, skill_stima]
+tags: [kg/translation, topic/aritmetica, topic/combinatoria]---
 
 *Sequenze interi che soddisfano x_10 ≤ 2(x_1+...+x_9) con 10 termini*
 
 > Determinare tutte le sequenze interi $x_1, x_2, \ldots, x_{10}$ in modo tale che $$0 < x_1 < x_2 < \cdots < x_{10}$$ e $$x_{10} \le 2(x_1 + x_2 + \cdots + x_9).$$
 
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_estremalita|Principio di estremalita]], [[method_induzione|Induzione]], [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_stima|Stima e approssimazione]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 [[Quesiti/src_canimath_2014_printemps#q07|src_canimath_2014_printemps__Q07]]

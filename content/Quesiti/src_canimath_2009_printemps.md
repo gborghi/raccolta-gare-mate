@@ -10,7 +10,7 @@ level: Coupe Animath Printemps
 
 
 
-<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_geometria_piana,method_coordinate,method_trigonometria,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_geometria_piana,topic_geometria_solida,method_coordinate,method_trigonometria,skill_ragionamento_geometrico,skill_manipolazione_algebrica,skill_modellizzazione"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -21,12 +21,12 @@ level: Coupe Animath Printemps
 > 
 > Calculate the width $x$ of the ribbon.
 
-![[src_canimath_2009_printemps__q02.png]]
+![[src_canimath_2009_printemps__Q02.png]]
 
-**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_geometria_solida|Solid geometry]]
 **Metodo:** [[method_coordinate|Coordinate]], [[method_trigonometria|Trigonometria]]
-**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
-**Area:** [[Geometria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Geometria|Geometry]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1LYXw4Yudhpe2TldZJg88v5GQWe0bT2T7/view)
 
 
@@ -39,16 +39,16 @@ level: Coupe Animath Printemps
 > 
 > Calcolare la larghezza $x$ del nastro.
 
-![[src_canimath_2009_printemps__q02.png]]
+![[src_canimath_2009_printemps__Q02.png]]
 
-[[Quesiti/src_canimath_2009_printemps#q02|src_canimath_2009_printemps__Q02]]
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_geometria_solida|Geometria solida]]
+**Metodo:** [[method_coordinate|Metodo delle coordinate]], [[method_trigonometria|Tecniche trigonometriche]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
+**Area:** [[Geometria]]
 
 
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_combinatoria,method_cassetti,method_casework,skill_conteggio_sistematico,skill_ragionamento_geometrico,skill_lettura_attenta"></span>
-
-<div class="qlang-switch" data-default="en"></div>
-
 
 *Two-digit numbers: always choose two with distinct units and tens digits*
 
@@ -63,8 +63,20 @@ level: Coupe Animath Printemps
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1LYXw4Yudhpe2TldZJg88v5GQWe0bT2T7/view)
 
 
-<div class="qlang-split" data-lang="it"></div>
 
+<span class="atom-split" id="q03__it" data-atom="q03__it" data-title="Q03__IT" data-tags=""></span>
+
+---
+tipo: quesito-translation
+translation_of: src_canimath_2009_printemps__Q03
+lang: it
+secondary: true
+title: "Coupe Animath Primavera 2009  Quesito 3"
+summary: "Numeri a due cifre: scegliere sempre due con unità distinte e decine di cifre"
+topics: [topic_combinatoria]
+methods: [method_cassetti, method_casework]
+skills: [skill_conteggio_sistematico, skill_ragionamento_geometrico, skill_lettura_attenta]
+tags: [kg/translation, topic/combinatoria]---
 
 *Numeri a due cifre: scegliere sempre due con unità distinte e decine di cifre*
 
@@ -72,11 +84,15 @@ level: Coupe Animath Printemps
 > 
 > b) Considerate 41 diversi numeri a due cifre. Prove che si possono sempre scegliere cinque di essi in modo che due dei cinque abbiano cifre di unità distinte e decine di cifre distinte.
 
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_cassetti|Principio dei cassetti]], [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta del testo]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
 [[Quesiti/src_canimath_2009_printemps#q03|src_canimath_2009_printemps__Q03]]
 
 
 
-<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_combinatoria,method_doppio_conteggio,method_invarianti,skill_ragionamento_geometrico,skill_modellizzazione,skill_lettura_attenta"></span>
+<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_combinatoria,method_doppio_conteggio,method_invarianti,method_grafi,skill_ragionamento_geometrico,skill_modellizzazione,skill_lettura_attenta"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -86,9 +102,9 @@ level: Coupe Animath Printemps
 > At a New Year's Eve party at my grandparents' home, every guest shook hands with exactly 7 other guests, and kissed all the others on the cheek. Prove that the number of guests is even.
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
-**Metodo:** [[method_doppio_conteggio|Doppio conteggio]], [[method_invarianti|Invarianti]]
+**Metodo:** [[method_doppio_conteggio|Doppio conteggio]], [[method_invarianti|Invarianti]], [[method_grafi|Graph theory]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione]], [[skill_lettura_attenta|Lettura attenta]]
-**Area:** [[Combinatoria, Logica e Probabilita]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1LYXw4Yudhpe2TldZJg88v5GQWe0bT2T7/view)
 
 
@@ -99,14 +115,14 @@ level: Coupe Animath Printemps
 
 > A una festa di Capodanno a casa dei miei nonni, ogni ospite stringeva la mano con esattamente altri 7 ospiti, e baciava tutti gli altri sulla guancia. Prove che il numero degli ospiti sia pari.
 
-[[Quesiti/src_canimath_2009_printemps#q04|src_canimath_2009_printemps__Q04]]
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_doppio_conteggio|Doppio conteggio]], [[method_invarianti|Invarianti / monovarianti]], [[method_grafi|Teoria dei grafi]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_lettura_attenta|Lettura attenta del testo]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
 
 
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_geometria_piana,method_trigonometria,skill_ragionamento_geometrico,skill_modellizzazione,skill_manipolazione_algebrica"></span>
-
-<div class="qlang-switch" data-default="en"></div>
-
 
 *Four coins touching in sequence; prove angle ABC + angle CDA = 180 degrees*
 
@@ -121,8 +137,20 @@ level: Coupe Animath Printemps
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1LYXw4Yudhpe2TldZJg88v5GQWe0bT2T7/view)
 
 
-<div class="qlang-split" data-lang="it"></div>
 
+<span class="atom-split" id="q05__it" data-atom="q05__it" data-title="Q05__IT" data-tags=""></span>
+
+---
+tipo: quesito-translation
+translation_of: src_canimath_2009_printemps__Q05
+lang: it
+secondary: true
+title: "Coupe Animath Primavera 2009  Quesito 5"
+summary: "Quattro monete che si toccano in sequenza; prova angolo ABC + angolo CDA = 180 gradi"
+topics: [topic_geometria_piana]
+methods: [method_trigonometria]
+skills: [skill_ragionamento_geometrico, skill_modellizzazione, skill_manipolazione_algebrica]
+tags: [kg/translation, topic/geometria_piana]---
 
 *Quattro monete che si toccano in sequenza; prova angolo ABC + angolo CDA = 180 gradi*
 
@@ -130,11 +158,15 @@ level: Coupe Animath Printemps
 > 
 > Prove che $\angle ABC + \angle CDA = 180^\circ$.
 
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_trigonometria|Tecniche trigonometriche]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
 [[Quesiti/src_canimath_2009_printemps#q05|src_canimath_2009_printemps__Q05]]
 
 
 
-<span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_disuguaglianze,topic_algebra,method_disuguaglianze,skill_manipolazione_algebrica,skill_stima,skill_lettura_attenta"></span>
+<span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_disuguaglianze,topic_algebra,method_disuguaglianze,method_fattorizzazione,skill_manipolazione_algebrica,skill_stima,skill_lettura_attenta"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -151,9 +183,9 @@ level: Coupe Animath Printemps
 > (In summary: $0 < G - H < Q - A \le A - G$.)
 
 **Topic:** [[topic_disuguaglianze|Disuguaglianze]], [[topic_algebra|Algebra]]
-**Metodo:** [[method_disuguaglianze|Disuguaglianze]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze]], [[method_fattorizzazione|Factorisation / algebraic manipulation]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]], [[skill_lettura_attenta|Lettura attenta]]
-**Area:** [[Algebra e Analisi]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1LYXw4Yudhpe2TldZJg88v5GQWe0bT2T7/view)
 
 
@@ -166,4 +198,7 @@ level: Coupe Animath Printemps
 > 
 > (In sintesi: $0 < G - H < Q - A \le A - G$.)
 
-[[Quesiti/src_canimath_2009_printemps#q06|src_canimath_2009_printemps__Q06]]
+**Topic:** [[topic_disuguaglianze|Disuguaglianze]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze classiche]], [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima e approssimazione]], [[skill_lettura_attenta|Lettura attenta del testo]]
+**Area:** [[Algebra e Analisi]]

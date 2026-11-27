@@ -10,7 +10,7 @@ level: squadre
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_aritmetica"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_aritmetica,topic_combinatoria,method_conteggio,skill_conteggio_sistematico"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -24,10 +24,12 @@ level: squadre
 > palindromi di sette cifre.
 > Astragone Quanti sono?
 
-**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Area:** [[Aritmetica e Teoria dei Numeri]]
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_conteggio|Conteggio combinatorio]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 9000
-**Fonte:** apri PDF p.2 · phiquadro.it, Archivio gare ufficiali 2023 (= fairmath.it, Coppa Gauss 2023)
+**Fonte:** [apri PDF p.2](https://www.phiquadro.it/archivio/2023_3%20marzo%20-%20Gara%20.pdf#page=2) · phiquadro.it, Archivio gare ufficiali 2023 (= fairmath.it, Coppa Gauss 2023)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -40,14 +42,15 @@ level: squadre
 > Carlo Càssola
 > Teodomiro: As I was coming, I was counting the seven-digit palindromic numbers. Astragone: How many are there?
 
-**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
-**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
-[[Quesiti/src_gs_2023#q01|src_gs_2023__Q01]]
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
 
 
-<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_geometria_piana"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_geometria_piana,skill_ragionamento_geometrico"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -70,9 +73,10 @@ level: squadre
 > 10^4.]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]]
 **Risposta:** 8000
-**Fonte:** apri PDF p.2 · phiquadro.it, Archivio gare ufficiali 2023 (= fairmath.it, Coppa Gauss 2023)
+**Fonte:** [apri PDF p.2](https://www.phiquadro.it/archivio/2023_3%20marzo%20-%20Gara%20.pdf#page=2) · phiquadro.it, Archivio gare ufficiali 2023 (= fairmath.it, Coppa Gauss 2023)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -85,14 +89,14 @@ level: squadre
 > Lorenzo Mazza
 > Astragone: I drew a triangle with one side 10 cm long and the corresponding height 6 cm. I also found its centroid. Teodomiro: Label the vertices of the triangle X, Y, and Z, and the centroid B. Draw the line through B parallel to the longest side YZ. Let V and W be the points of intersection with the sides. What is the ratio of the area of triangle XVW to the area of trapezoid YZVW? [Give as the answer the ratio multiplied by 10^4.]
 
+
 **Topic:** [[topic_geometria_piana|Plane geometry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
 **Area:** [[Geometria|Geometry]]
 
-[[Quesiti/src_gs_2023#q02|src_gs_2023__Q02]]
 
 
-
-<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_algebra"></span>
+<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_algebra,topic_aritmetica,method_fattorizzazione,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -105,10 +109,12 @@ level: squadre
 > Teodomiro Qual è il più grande valore di n per
 > cui 2023!/(10!)^n è un numero intero?
 
-**Topic:** [[topic_algebra|Algebra]]
-**Area:** [[Algebra e Analisi]]
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 0251
-**Fonte:** apri PDF p.2 · phiquadro.it, Archivio gare ufficiali 2023 (= fairmath.it, Coppa Gauss 2023)
+**Fonte:** [apri PDF p.2](https://www.phiquadro.it/archivio/2023_3%20marzo%20-%20Gara%20.pdf#page=2) · phiquadro.it, Archivio gare ufficiali 2023 (= fairmath.it, Coppa Gauss 2023)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -121,14 +127,15 @@ level: squadre
 > Sandro Campigotto
 > Teodomiro: What is the largest value of n for which 2023!/(10!)^n is an integer?
 
-**Topic:** [[topic_algebra|Algebra]]
-**Area:** [[Algebra e Analisi|Algebra and analysis]]
 
-[[Quesiti/src_gs_2023#q03|src_gs_2023__Q03]]
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
 
 
-<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags=""></span>
+<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_funzionali,topic_aritmetica,method_fattorizzazione,method_congruenze,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -157,8 +164,12 @@ level: squadre
 > stesso numero!
 > Astragone Quale?
 
+**Topic:** [[topic_funzionali|Equazioni funzionali / successioni]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]], [[method_congruenze|Aritmetica modulare / congruenze]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 2223
-**Fonte:** apri PDF p.2 · phiquadro.it, Archivio gare ufficiali 2023 (= fairmath.it, Coppa Gauss 2023)
+**Fonte:** [apri PDF p.2](https://www.phiquadro.it/archivio/2023_3%20marzo%20-%20Gara%20.pdf#page=2) · phiquadro.it, Archivio gare ufficiali 2023 (= fairmath.it, Coppa Gauss 2023)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -171,11 +182,14 @@ level: squadre
 > Sandro Campigotto
 > Astragone: I don't know what to do. Teodomiro: Let's wait. Astragone: Who? Teodomiro: Godol—who else? Astragone: To pass the time, shall we call out numbers? Teodomiro: Okay. Astragone: I'll start with 1 and always add 2. Teodomiro: I'll start at 10000 and always subtract 7. Astragone: One, three, five, Teodomiro: (Counting out the numbers along with Astragone) Ten thousand, nine thousand nine hundred ninety-three, nine thousand nine hundred eighty-six, (Raises his hand, shouting) Stop! At some point we'll say the same number! Astragone: Which one?
 
-[[Quesiti/src_gs_2023#q04|src_gs_2023__Q04]]
+**Topic:** [[topic_funzionali|Functional equations / sequences]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]], [[method_congruenze|Modular arithmetic / congruences]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
 
 
-<span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_probabilita"></span>
+<span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_probabilita,topic_aritmetica,topic_combinatoria,method_casi_conteggio,skill_conteggio_sistematico"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -192,10 +206,12 @@ level: squadre
 > [Dare come risposta la probabilità moltiplicata
 > per 10^4.]
 
-**Topic:** [[topic_probabilita|Probabilita e statistica]]
-**Area:** [[Combinatoria, Logica e Probabilita]]
+**Topic:** [[topic_probabilita|Probabilita e statistica]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casi_conteggio|Conteggio per casi]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 4750
-**Fonte:** apri PDF p.2 · phiquadro.it, Archivio gare ufficiali 2023 (= fairmath.it, Coppa Gauss 2023)
+**Fonte:** [apri PDF p.2](https://www.phiquadro.it/archivio/2023_3%20marzo%20-%20Gara%20.pdf#page=2) · phiquadro.it, Archivio gare ufficiali 2023 (= fairmath.it, Coppa Gauss 2023)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -210,14 +226,15 @@ level: squadre
 > 30. If two are drawn from it, what is the probability?
 > that their product is a multiple of 6? [Give as the answer the probability multiplied by 10^4.]
 
-**Topic:** [[topic_probabilita|Probability and statistics]]
-**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
-[[Quesiti/src_gs_2023#q05|src_gs_2023__Q05]]
+**Topic:** [[topic_probabilita|Probability and statistics]], [[topic_aritmetica|Arithmetic / Number theory]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_casi_conteggio|Counting by cases]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
 
 
-<span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_geometria_piana"></span>
+<span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_geometria_piana,topic_geometria_analitica,method_coordinate,skill_ragionamento_geometrico"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -239,10 +256,12 @@ level: squadre
 > ottieni un quadrato! Quanto vale l’area
 > dell’ottagono in cm^2?
 
-**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_geometria_analitica|Geometria analitica]]
+**Metodo:** [[method_coordinate|Metodo delle coordinate]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]]
 **Risposta:** 2100
-**Fonte:** apri PDF p.2 · phiquadro.it, Archivio gare ufficiali 2023 (= fairmath.it, Coppa Gauss 2023)
+**Fonte:** [apri PDF p.2](https://www.phiquadro.it/archivio/2023_3%20marzo%20-%20Gara%20.pdf#page=2) · phiquadro.it, Archivio gare ufficiali 2023 (= fairmath.it, Coppa Gauss 2023)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -255,14 +274,15 @@ level: squadre
 > Carlo Càssola
 > Teodomiro draws an octagon ABCDEFGH whose opposite sides are, in pairs, parallel and equal. Astragone (He sets to work carefully): I have measured the sides I drew: AB = EF = 30 cm, BC = FG = 10√10 cm, CD = GH = 10 cm, DE = HA = 10√2 cm. Teodomiro: I don't believe it! ABEF is a rectangle. And also: if you extend sides AB, CD, EF, and GH, you get a square! What is the area of the octagon in cm²?
 
-**Topic:** [[topic_geometria_piana|Plane geometry]]
+
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_geometria_analitica|Coordinate geometry]]
+**Metodo:** [[method_coordinate|Coordinate method]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
 **Area:** [[Geometria|Geometry]]
 
-[[Quesiti/src_gs_2023#q06|src_gs_2023__Q06]]
 
 
-
-<span class="atom-split" id="q07" data-atom="q07" data-title="Quesito 7" data-tags="topic_aritmetica"></span>
+<span class="atom-split" id="q07" data-atom="q07" data-title="Quesito 7" data-tags="topic_aritmetica,method_fattorizzazione,method_casi_conteggio,skill_conteggio_sistematico"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -278,9 +298,11 @@ level: squadre
 > numeri interi sono tali che abc= 2023?
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]], [[method_casi_conteggio|Conteggio per casi]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 0072
-**Fonte:** apri PDF p.2 · phiquadro.it, Archivio gare ufficiali 2023 (= fairmath.it, Coppa Gauss 2023)
+**Fonte:** [apri PDF p.2](https://www.phiquadro.it/archivio/2023_3%20marzo%20-%20Gara%20.pdf#page=2) · phiquadro.it, Archivio gare ufficiali 2023 (= fairmath.it, Coppa Gauss 2023)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -293,14 +315,15 @@ level: squadre
 > Sandro Campigotto
 > Astragone: I was thinking. Teodomiro: About what? Astragone: How many triples (a, b, c) of integers are there such that abc = 2023?
 
+
 **Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]], [[method_casi_conteggio|Counting by cases]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
-[[Quesiti/src_gs_2023#q07|src_gs_2023__Q07]]
 
 
-
-<span class="atom-split" id="q08" data-atom="q08" data-title="Quesito 8" data-tags="topic_combinatoria"></span>
+<span class="atom-split" id="q08" data-atom="q08" data-title="Quesito 8" data-tags="topic_combinatoria,topic_algebra,topic_aritmetica,skill_modellizzazione,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -327,10 +350,11 @@ level: squadre
 > era un multiplo di 6. Qual era il numero minimo
 > di biglie in una scatola?
 
-**Topic:** [[topic_combinatoria|Combinatoria]]
-**Area:** [[Combinatoria, Logica e Probabilita]]
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 0246
-**Fonte:** apri PDF p.2 · phiquadro.it, Archivio gare ufficiali 2023 (= fairmath.it, Coppa Gauss 2023)
+**Fonte:** [apri PDF p.2](https://www.phiquadro.it/archivio/2023_3%20marzo%20-%20Gara%20.pdf#page=2) · phiquadro.it, Archivio gare ufficiali 2023 (= fairmath.it, Coppa Gauss 2023)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -343,14 +367,14 @@ level: squadre
 > Lorenzo Mazza
 > Astragone: I remember ten boxes containing marbles in red, black, yellow, and green. I knew that the number of red marbles in each box was equal to the number of black marbles in the remaining nine boxes; the number of black marbles in each box was equal to the number of yellow marbles in the remaining nine boxes; the number of yellow marbles in each box was equal to the number of green marbles in the remaining boxes. Teodomiro: But weren't there an excessive number of marbles? Astragone: Yes, I remember there were really a lot of them! And the total number of all the marbles in the boxes was a multiple of 6. What was the minimum number of marbles in a box?
 
-**Topic:** [[topic_combinatoria|Combinatorics]]
-**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
-[[Quesiti/src_gs_2023#q08|src_gs_2023__Q08]]
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_algebra|Algebra]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
 
 
-<span class="atom-split" id="q09" data-atom="q09" data-title="Quesito 9" data-tags="topic_geometria_piana"></span>
+<span class="atom-split" id="q09" data-atom="q09" data-title="Quesito 9" data-tags="topic_geometria_piana,method_simmetria,skill_ragionamento_geometrico"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -367,9 +391,11 @@ level: squadre
 > CE= AB. Quanto è l’ampiezza in gradi di AÊB?
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_simmetria|Sfruttamento della simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]]
 **Risposta:** 0150
-**Fonte:** apri PDF p.2 · phiquadro.it, Archivio gare ufficiali 2023 (= fairmath.it, Coppa Gauss 2023)
+**Fonte:** [apri PDF p.2](https://www.phiquadro.it/archivio/2023_3%20marzo%20-%20Gara%20.pdf#page=2) · phiquadro.it, Archivio gare ufficiali 2023 (= fairmath.it, Coppa Gauss 2023)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -382,14 +408,15 @@ level: squadre
 > Carlo Càssola
 > Teodomiro: Inside the base AB of an equilateral triangle ABC, construct point D such that AD = 3DB. On the ray starting at C and passing through D, fix point E so that CE = AB. What is the measure in degrees of angle AÊB?
 
+
 **Topic:** [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_simmetria|Using symmetry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
 **Area:** [[Geometria|Geometry]]
 
-[[Quesiti/src_gs_2023#q09|src_gs_2023__Q09]]
 
 
-
-<span class="atom-split" id="q10" data-atom="q10" data-title="Quesito 10" data-tags="topic_probabilita"></span>
+<span class="atom-split" id="q10" data-atom="q10" data-title="Quesito 10" data-tags="topic_probabilita,topic_algebra,topic_aritmetica,method_casework,method_estremalita,skill_casework_accurato,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -408,10 +435,12 @@ level: squadre
 > possibile del numero più grande tra i cinque?
 > [Dare come risposta la somma dei due valori.]
 
-**Topic:** [[topic_probabilita|Probabilita e statistica]]
-**Area:** [[Combinatoria, Logica e Probabilita]]
+**Topic:** [[topic_probabilita|Probabilita e statistica]], [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Analisi per casi]], [[method_estremalita|Principio di estremalita]]
+**Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 0495
-**Fonte:** apri PDF p.3 · phiquadro.it, Archivio gare ufficiali 2023 (= fairmath.it, Coppa Gauss 2023)
+**Fonte:** [apri PDF p.3](https://www.phiquadro.it/archivio/2023_3%20marzo%20-%20Gara%20.pdf#page=3) · phiquadro.it, Archivio gare ufficiali 2023 (= fairmath.it, Coppa Gauss 2023)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -426,14 +455,15 @@ level: squadre
 > 100. The average of the two largest is 200. The
 > The mean of the five numbers is an integer. What are the smallest and largest possible values of the largest of the five numbers? [Give as the answer the sum of the two values.]
 
-**Topic:** [[topic_probabilita|Probability and statistics]]
-**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
-[[Quesiti/src_gs_2023#q10|src_gs_2023__Q10]]
+**Topic:** [[topic_probabilita|Probability and statistics]], [[topic_algebra|Algebra]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_casework|Case analysis]], [[method_estremalita|Extremal principle]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
 
 
-<span class="atom-split" id="q11" data-atom="q11" data-title="Quesito 11" data-tags="topic_geometria_piana"></span>
+<span class="atom-split" id="q11" data-atom="q11" data-title="Quesito 11" data-tags="topic_geometria_piana,topic_trigonometria,method_trigonometria,skill_ragionamento_geometrico"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -455,10 +485,12 @@ level: squadre
 > agli altri due cerchi. Quanto vale il più piccolo
 > tra tutti gli angoli formati da coppie di tangenti?
 
-**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometria]]
+**Metodo:** [[method_trigonometria|Tecniche trigonometriche]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]]
 **Risposta:** 0015
-**Fonte:** apri PDF p.3 · phiquadro.it, Archivio gare ufficiali 2023 (= fairmath.it, Coppa Gauss 2023)
+**Fonte:** [apri PDF p.3](https://www.phiquadro.it/archivio/2023_3%20marzo%20-%20Gara%20.pdf#page=3) · phiquadro.it, Archivio gare ufficiali 2023 (= fairmath.it, Coppa Gauss 2023)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -471,14 +503,15 @@ level: squadre
 > Sandro Campigotto
 > Astragone: I have drawn three concentric circles with areas of 400π cm², 600π cm², and 800π cm². Teodomiro: What is P-greek? Astragone: It is 3.1415926535897. (Teodomiro waves his hands and interrupts Astragone.) Teodomiro: Okay; I've got it! Astragone: (Picking up where he left off) I was saying: and 800π cm². From a point on the larger circle, I drew all the tangents to the other two circles. What is the value of the smallest of all the angles formed by pairs of tangents?
 
-**Topic:** [[topic_geometria_piana|Plane geometry]]
+
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_trigonometria|Trigonometry]]
+**Metodo:** [[method_trigonometria|Trigonometric techniques]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
 **Area:** [[Geometria|Geometry]]
 
-[[Quesiti/src_gs_2023#q11|src_gs_2023__Q11]]
 
 
-
-<span class="atom-split" id="q12" data-atom="q12" data-title="Quesito 12" data-tags="topic_probabilita"></span>
+<span class="atom-split" id="q12" data-atom="q12" data-title="Quesito 12" data-tags="topic_probabilita,method_casi_conteggio,skill_modellizzazione,skill_conteggio_sistematico"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -506,9 +539,11 @@ level: squadre
 > per 10^4.]
 
 **Topic:** [[topic_probabilita|Probabilita e statistica]]
+**Metodo:** [[method_casi_conteggio|Conteggio per casi]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 1538
-**Fonte:** apri PDF p.3 · phiquadro.it, Archivio gare ufficiali 2023 (= fairmath.it, Coppa Gauss 2023)
+**Fonte:** [apri PDF p.3](https://www.phiquadro.it/archivio/2023_3%20marzo%20-%20Gara%20.pdf#page=3) · phiquadro.it, Archivio gare ufficiali 2023 (= fairmath.it, Coppa Gauss 2023)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -521,14 +556,15 @@ level: squadre
 > Sandro Campigotto
 > Teodomiro: Guarda, Gogo! I found a bag containing 23 coins. They're all the same size and weight; all of them have heads and tails, except for one that has heads on both sides. Astragone: I'm scared, Dodo. Surely the cheater who lost the bag will be looking for it. Teodomiro: The bag was on the ground; no one's claiming it—it's mine. (Teodomiro picks a coin at random. He tosses it twice.) How strange! Both times it came up heads, and I didn't look at what was on the other side of the coin. Astragone: What's the probability that the coin picked is the two-headed coin? [Give the probability multiplied by 10^4 as the answer.]
 
+
 **Topic:** [[topic_probabilita|Probability and statistics]]
+**Metodo:** [[method_casi_conteggio|Counting by cases]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]], [[skill_conteggio_sistematico|Systematic counting]]
 **Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
-[[Quesiti/src_gs_2023#q12|src_gs_2023__Q12]]
 
 
-
-<span class="atom-split" id="q13" data-atom="q13" data-title="Quesito 13" data-tags="topic_aritmetica,topic_logica"></span>
+<span class="atom-split" id="q13" data-atom="q13" data-title="Quesito 13" data-tags="topic_aritmetica,topic_logica,method_congruenze,method_casework,skill_casework_accurato,skill_lettura_attenta"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -552,9 +588,11 @@ level: squadre
 > formando?
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_logica|Logica, giochi, strategie]]
+**Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]], [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_lettura_attenta|Lettura attenta del testo]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 7770
-**Fonte:** apri PDF p.3 · phiquadro.it, Archivio gare ufficiali 2023 (= fairmath.it, Coppa Gauss 2023)
+**Fonte:** [apri PDF p.3](https://www.phiquadro.it/archivio/2023_3%20marzo%20-%20Gara%20.pdf#page=3) · phiquadro.it, Archivio gare ufficiali 2023 (= fairmath.it, Coppa Gauss 2023)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -567,14 +605,15 @@ level: squadre
 > Simone Muselli
 > Teodomiro: I imagine an island inhabited by digits—there are zeros, ones, twos, threes, all the way up to many nines, with legs, arms, and mouths. They are all honest, except for the zeros, which always lie. Four digits, sitting next to one another, are forming an integer greater than 999. They begin to speak, all saying the same sentence: "If I were to leave, the remaining digits would form a three-digit number divisible by 7 and by 11." What number are the four digits forming?
 
+
 **Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_logica|Logic, games and strategies]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]], [[method_casework|Case analysis]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]], [[skill_lettura_attenta|Careful reading of the text]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
-[[Quesiti/src_gs_2023#q13|src_gs_2023__Q13]]
 
 
-
-<span class="atom-split" id="q14" data-atom="q14" data-title="Quesito 14" data-tags="topic_aritmetica"></span>
+<span class="atom-split" id="q14" data-atom="q14" data-title="Quesito 14" data-tags="topic_aritmetica,method_fattorizzazione,method_casework,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -593,9 +632,11 @@ level: squadre
 > minimo?
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]], [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 0120
-**Fonte:** apri PDF p.3 · phiquadro.it, Archivio gare ufficiali 2023 (= fairmath.it, Coppa Gauss 2023)
+**Fonte:** [apri PDF p.3](https://www.phiquadro.it/archivio/2023_3%20marzo%20-%20Gara%20.pdf#page=3) · phiquadro.it, Archivio gare ufficiali 2023 (= fairmath.it, Coppa Gauss 2023)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -608,14 +649,15 @@ level: squadre
 > Giuseppe Rosolini
 > Teodomiro: The four-digit number n is the product of three distinct prime numbers. If you subtract n from the sum of the divisors of n, you get 2074. Astragone: That's not enough to know what n is worth. Teodomiro: I'm not interested in n. I'm interested in the sum of the three prime numbers: what is its minimum value?
 
+
 **Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]], [[method_casework|Case analysis]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
-[[Quesiti/src_gs_2023#q14|src_gs_2023__Q14]]
 
 
-
-<span class="atom-split" id="q15" data-atom="q15" data-title="Quesito 15" data-tags="topic_combinatoria"></span>
+<span class="atom-split" id="q15" data-atom="q15" data-title="Quesito 15" data-tags="topic_combinatoria,topic_aritmetica,method_fattorizzazione,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -637,10 +679,12 @@ level: squadre
 > Teodomiro Chissà quanti sono i divisori che
 > cercavo?
 
-**Topic:** [[topic_combinatoria|Combinatoria]]
-**Area:** [[Combinatoria, Logica e Probabilita]]
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 0192
-**Fonte:** apri PDF p.3 · phiquadro.it, Archivio gare ufficiali 2023 (= fairmath.it, Coppa Gauss 2023)
+**Fonte:** [apri PDF p.3](https://www.phiquadro.it/archivio/2023_3%20marzo%20-%20Gara%20.pdf#page=3) · phiquadro.it, Archivio gare ufficiali 2023 (= fairmath.it, Coppa Gauss 2023)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -653,14 +697,15 @@ level: squadre
 > Lorenzo Mazza
 > Astragone: What's going on? Teodomiro: I'm thinking. Astragone: No, Dodo, look out there. Someone's coming. Teodomiro: I was trying to remember the divisors of 11^6 −1. Astragone: (Lozzo and Pucky come in; the rope is short, and Lozzo is moving about by feel.) There are those two from yesterday. Teodomiro: I wonder how many of the divisors I was looking for there are?
 
-**Topic:** [[topic_combinatoria|Combinatorics]]
-**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
-[[Quesiti/src_gs_2023#q15|src_gs_2023__Q15]]
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
 
 
-<span class="atom-split" id="q16" data-atom="q16" data-title="Quesito 16" data-tags="topic_geometria_piana"></span>
+<span class="atom-split" id="q16" data-atom="q16" data-title="Quesito 16" data-tags="topic_geometria_piana,topic_combinatoria,method_conteggio,method_estremalita,skill_ragionamento_geometrico,skill_conteggio_sistematico"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -679,10 +724,12 @@ level: squadre
 > possibile di intersezioni tra le diagonali e la
 > retta che si possono immaginare?
 
-**Topic:** [[topic_geometria_piana|Geometria piana]]
-**Area:** [[Geometria]]
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_conteggio|Conteggio combinatorio]], [[method_estremalita|Principio di estremalita]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Geometria]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 3130
-**Fonte:** apri PDF p.3 · phiquadro.it, Archivio gare ufficiali 2023 (= fairmath.it, Coppa Gauss 2023)
+**Fonte:** [apri PDF p.3](https://www.phiquadro.it/archivio/2023_3%20marzo%20-%20Gara%20.pdf#page=3) · phiquadro.it, Archivio gare ufficiali 2023 (= fairmath.it, Coppa Gauss 2023)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -695,14 +742,15 @@ level: squadre
 > Lorenzo Mazza
 > Lozzo, I also imagine a convex polygon with 2023 sides, in which all the diagonals are drawn. And I imagine a straight line that intersects the polygon and the diagonals (gets heated up) without passing through any vertex of the polygon itself. (Calming down) What is the maximum possible number of intersections between the diagonals and the line that can be imagined?
 
-**Topic:** [[topic_geometria_piana|Plane geometry]]
-**Area:** [[Geometria|Geometry]]
 
-[[Quesiti/src_gs_2023#q16|src_gs_2023__Q16]]
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_conteggio|Combinatorial counting]], [[method_estremalita|Extremal principle]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Geometria|Geometry]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
 
 
-<span class="atom-split" id="q17" data-atom="q17" data-title="Quesito 17" data-tags=""></span>
+<span class="atom-split" id="q17" data-atom="q17" data-title="Quesito 17" data-tags="topic_logica,method_casework,skill_casework_accurato,skill_lettura_attenta"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -727,8 +775,12 @@ level: squadre
 > io sono un Baro, allora tu sei un Baro!”.
 > Lozzo Quanti sono gli Onesti dell’isola?
 
+**Topic:** [[topic_logica|Logica, giochi, strategie]]
+**Metodo:** [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_lettura_attenta|Lettura attenta del testo]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 2022
-**Fonte:** apri PDF p.3 · phiquadro.it, Archivio gare ufficiali 2023 (= fairmath.it, Coppa Gauss 2023)
+**Fonte:** [apri PDF p.3](https://www.phiquadro.it/archivio/2023_3%20marzo%20-%20Gara%20.pdf#page=3) · phiquadro.it, Archivio gare ufficiali 2023 (= fairmath.it, Coppa Gauss 2023)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -741,11 +793,14 @@ level: squadre
 > Simone Muselli
 > Teodomiro: I'll tell you a story (Addressed to Lozzo, who is looking ahead) On the distant island of Barus, there are 2023 inhabitants of two types: the Honest Ones, who always tell the truth, and the Bari, who always tell lies and try not to be found out. Because of a big festival, all the island's inhabitants gathered in the central square. At a certain point, one person says to another, "You're a Baro!" The other replies, "Oh, really? If I'm a Baro, then you're a Baro!" The inhabitants start accusing one another until everyone has said to everyone else the sentence, "If I'm a Baro, then you're a Baro!" Lozzo: How many Honest Ones are there on the island?
 
-[[Quesiti/src_gs_2023#q17|src_gs_2023__Q17]]
+**Topic:** [[topic_logica|Logic, games and strategies]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]], [[skill_lettura_attenta|Careful reading of the text]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
 
 
-<span class="atom-split" id="q18" data-atom="q18" data-title="Quesito 18" data-tags="topic_aritmetica"></span>
+<span class="atom-split" id="q18" data-atom="q18" data-title="Quesito 18" data-tags="topic_aritmetica,method_casi_conteggio,skill_manipolazione_algebrica,skill_conteggio_sistematico"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -763,9 +818,11 @@ level: squadre
 > (Esce con Pucky, si sentono rumori di caduta)
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casi_conteggio|Conteggio per casi]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 0102
-**Fonte:** apri PDF p.3 · phiquadro.it, Archivio gare ufficiali 2023 (= fairmath.it, Coppa Gauss 2023)
+**Fonte:** [apri PDF p.3](https://www.phiquadro.it/archivio/2023_3%20marzo%20-%20Gara%20.pdf#page=3) · phiquadro.it, Archivio gare ufficiali 2023 (= fairmath.it, Coppa Gauss 2023)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -778,14 +835,15 @@ level: squadre
 > Lorenzo Mazza
 > Lozzo (Speaking to himself) How many of those perfect squares are there such that, when their quotient upon division by 100 is calculated, the result is the product of two consecutive positive integers less than 100? (Pulls the rope) Come on, Pucky! (Exits with Pucky; sounds of a fall are heard)
 
+
 **Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_casi_conteggio|Counting by cases]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_conteggio_sistematico|Systematic counting]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
-[[Quesiti/src_gs_2023#q18|src_gs_2023__Q18]]
 
 
-
-<span class="atom-split" id="q19" data-atom="q19" data-title="Quesito 19" data-tags="topic_probabilita,topic_logica"></span>
+<span class="atom-split" id="q19" data-atom="q19" data-title="Quesito 19" data-tags="topic_probabilita,topic_logica,topic_geometria_piana,skill_modellizzazione,skill_ragionamento_geometrico"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -821,10 +879,11 @@ level: squadre
 > [Dare come risposta la probabilità moltiplicata
 > per 10^4.]
 
-**Topic:** [[topic_probabilita|Probabilita e statistica]], [[topic_logica|Logica, giochi, strategie]]
-**Area:** [[Combinatoria, Logica e Probabilita]]
+**Topic:** [[topic_probabilita|Probabilita e statistica]], [[topic_logica|Logica, giochi, strategie]], [[topic_geometria_piana|Geometria piana]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 **Risposta:** 1869
-**Fonte:** apri PDF p.4 · phiquadro.it, Archivio gare ufficiali 2023 (= fairmath.it, Coppa Gauss 2023)
+**Fonte:** [apri PDF p.4](https://www.phiquadro.it/archivio/2023_3%20marzo%20-%20Gara%20.pdf#page=4) · phiquadro.it, Archivio gare ufficiali 2023 (= fairmath.it, Coppa Gauss 2023)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -837,14 +896,14 @@ level: squadre
 > Simone Muselli
 > Astragone (Saluting in the direction of Lozzo and Pucky) I've invented a game we can play tomorrow if Godol doesn't come. Teodomiro He'll definitely come! Astragone I wish I had your certainties! That's how I would have liked to face life. For the game, I drew a square with sides 5 decimeters long on the ice of the lake. At a distance of 1 meter from it, you slide and throw a disc with a radius of 10 cm. If, once it comes to a stop, the disc is at least partly over the square, then the throw is considered valid; if it is entirely inside the square, you win. Teodomiro But that's so easy! Astragone I wish I had your certainties. Unfortunately, sometimes the throw is long, sometimes short, sometimes too far to the left, and then too far to the right. I try my best, but practically it's as if each time I were throwing the disc at random toward some point on the lake. Teodomiro Under these random conditions, what is the probability of winning after a valid throw? [Give as the answer the probability multiplied by 10^4.]
 
-**Topic:** [[topic_probabilita|Probability and statistics]], [[topic_logica|Logic, games and strategies]]
-**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
-[[Quesiti/src_gs_2023#q19|src_gs_2023__Q19]]
+**Topic:** [[topic_probabilita|Probability and statistics]], [[topic_logica|Logic, games and strategies]], [[topic_geometria_piana|Plane geometry]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]], [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Geometria|Geometry]]
 
 
 
-<span class="atom-split" id="q20" data-atom="q20" data-title="Quesito 20" data-tags="topic_geometria_piana"></span>
+<span class="atom-split" id="q20" data-atom="q20" data-title="Quesito 20" data-tags="topic_geometria_piana,method_estremalita,skill_modellizzazione,skill_ragionamento_geometrico"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -867,9 +926,11 @@ level: squadre
 > del perimetro.]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_estremalita|Principio di estremalita]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]]
 **Risposta:** 0232
-**Fonte:** apri PDF p.4 · phiquadro.it, Archivio gare ufficiali 2023 (= fairmath.it, Coppa Gauss 2023)
+**Fonte:** [apri PDF p.4](https://www.phiquadro.it/archivio/2023_3%20marzo%20-%20Gara%20.pdf#page=4) · phiquadro.it, Archivio gare ufficiali 2023 (= fairmath.it, Coppa Gauss 2023)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -882,14 +943,15 @@ level: squadre
 > Simone Muselli
 > Astragone: I still remember when I was presentable and had been called in to cover a rectangular floor with 45 tiles that had four sides and right angles. Just imagine—the side lengths of the tiles, measured in decimetres, were all whole numbers from 1 to 9. You might not believe it: the tiles were all different. Teodomiro: How many decimetres was the perimeter of the floor? [Give as the answer the maximum possible value of the perimeter.]
 
+
 **Topic:** [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_estremalita|Extremal principle]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]], [[skill_ragionamento_geometrico|Geometric reasoning]]
 **Area:** [[Geometria|Geometry]]
 
-[[Quesiti/src_gs_2023#q20|src_gs_2023__Q20]]
 
 
-
-<span class="atom-split" id="q21" data-atom="q21" data-title="Quesito 21" data-tags="topic_probabilita"></span>
+<span class="atom-split" id="q21" data-atom="q21" data-title="Quesito 21" data-tags="topic_probabilita,topic_geometria_piana,skill_modellizzazione,skill_ragionamento_geometrico"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -941,10 +1003,11 @@ level: squadre
 > [Dare come risposta la probabilità moltiplicata
 > per 10^4.]
 
-**Topic:** [[topic_probabilita|Probabilita e statistica]]
-**Area:** [[Combinatoria, Logica e Probabilita]]
+**Topic:** [[topic_probabilita|Probabilita e statistica]], [[topic_geometria_piana|Geometria piana]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 **Risposta:** 3250
-**Fonte:** apri PDF p.4 · phiquadro.it, Archivio gare ufficiali 2023 (= fairmath.it, Coppa Gauss 2023)
+**Fonte:** [apri PDF p.4](https://www.phiquadro.it/archivio/2023_3%20marzo%20-%20Gara%20.pdf#page=4) · phiquadro.it, Archivio gare ufficiali 2023 (= fairmath.it, Coppa Gauss 2023)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -957,7 +1020,7 @@ level: squadre
 > Damiano Poletti
 > The Boy enters, bows, and begins to speak. The Boy: Mr. Godol has tasked me with informing you that he will not be coming today. Teodomiro: Have I seen you before? The Boy: I don't think so, sir. Teodomiro: Were you here yesterday? The Boy: No, sir. Teodomiro: And yet I'm quite sure I've seen you. Do you remember him, Gogo? Astragone: I think so; maybe he's the brother. Teodomiro: Did your brother come yesterday? The Boy: I don't know, sir. Mr. Godol told me to explain to you how the lighthouse on the island in the lake works. The lake is shaped like a regular pentagon, and a lighthouse is situated at its circumcenter. The lighthouse's light would illuminate in all directions at once, but around the light source there are two coaxial cylindrical shields. Each shield blocks the light, except for a suitable vertical slit that allows the light to pass through. Each shield rotates clockwise around the source: in the time it takes the outer shield to complete one full revolution, the inner shield completes four. Thus, when one looks at the lighthouse, there are alternating moments when the light is visible and moments when it is instead obscured. More precisely, from the northern vertex of the lake, if one opens one's eyes at a random moment, there would be a probability of 3/8 of managing to see the light; from the next vertex in the clockwise direction, this probability would be 11/40; from the next one again, 3/8; but from the last two vertices, the probability would be the same. Teodomiro: That's why Godol isn't coming to meet us. So what is the probability that, from one of the last two vertices, if one opens one's eyes at a random moment, one will manage to see the light? (The Boy leaves) [Give the probability multiplied by 10^4 as the answer.]
 
-**Topic:** [[topic_probabilita|Probability and statistics]]
-**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
-[[Quesiti/src_gs_2023#q21|src_gs_2023__Q21]]
+**Topic:** [[topic_probabilita|Probability and statistics]], [[topic_geometria_piana|Plane geometry]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]], [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Geometria|Geometry]]

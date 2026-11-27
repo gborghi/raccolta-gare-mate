@@ -10,22 +10,23 @@ level: OBM Nível 1
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_geometria_piana"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_geometria_piana,skill_modellizzazione,skill_ragionamento_geometrico,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
 
 *Rectangle 48 × 15 divided into 6 rectangles of equal area; perimeter of the highlighted one.*
 
-![[src_obm_2026_n1_fx__q01.png]]
+![[src_obm_2026_n1_fx__Q01.png]]
 
 > The rectangle below has been divided into 6 rectangles of the same area. What is the perimeter of the highlighted rectangle, in cm? (The large rectangle measures $48\text{ cm}\times15\text{ cm}$.)
 
-**Topic:** [[topic_geometria_piana|Geometria piana]]
-**Area:** [[Geometria]]
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]], [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_lettura_attenta|Careful reading of the text]]
+**Area:** [[Geometria|Geometry]]
 **Risposta:** nessuna soluzione ufficiale pubblicata (problema dimostrativo / a risposta aperta).
 **Fonte risposta:** OBM, «Provas e gabaritos» — per la prova 2026 è pubblicato solo il testo ([pagina OBM](<https://www.obm.org.br/como-se-preparar/provas-e-gabaritos>)).
-**Fonte:** apri PDF p.1
+**Fonte:** [apri PDF p.1](https://www.obm.org.br/content/uploads/2026/10/prova-2026-nivel_1.pdf#page=1)
 
 
 <div class="qlang-split" data-lang="it"></div>
@@ -33,18 +34,18 @@ level: OBM Nível 1
 
 *Rettangolo 48 × 15 suddiviso in 6 rettangoli di area uguale; perimetro di quello evidenziato.*
 
-![[src_obm_2026_n1_fx__q01.png]]
+![[src_obm_2026_n1_fx__Q01.png]]
 
 > Il rettangolo sottostante è stato diviso in 6 rettangoli aventi la stessa area. Qual è il perimetro del rettangolo evidenziato, in cm? (Il rettangolo grande misura $48\text{ cm}\times15\text{ cm}$.)
 
+
 **Topic:** [[topic_geometria_piana|Geometria piana]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta del testo]]
 **Area:** [[Geometria]]
 
-[[Quesiti/src_obm_2026_n1_fx#q01|src_obm_2026_n1_fx__Q01]]
 
 
-
-<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_aritmetica"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_aritmetica,method_congruenze,method_casework,method_estremalita,skill_stima,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -59,11 +60,13 @@ level: OBM Nível 1
 >
 > (c) What is the **largest** impressive positive integer?
 
-**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Area:** [[Aritmetica e Teoria dei Numeri]]
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]], [[method_casework|Case analysis]], [[method_estremalita|Extremal principle]]
+**Abilita:** [[skill_stima|Estimation and approximation]], [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_lettura_attenta|Careful reading of the text]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Risposta:** nessuna soluzione ufficiale pubblicata (problema dimostrativo / a risposta aperta).
 **Fonte risposta:** OBM, «Provas e gabaritos» — per la prova 2026 è pubblicato solo il testo ([pagina OBM](<https://www.obm.org.br/como-se-preparar/provas-e-gabaritos>)).
-**Fonte:** apri PDF p.1
+**Fonte:** [apri PDF p.1](https://www.obm.org.br/content/uploads/2026/10/prova-2026-nivel_1.pdf#page=1)
 
 
 <div class="qlang-split" data-lang="it"></div>
@@ -79,14 +82,15 @@ level: OBM Nível 1
 >
 > (c) Qual è il **più grande** numero intero positivo impressionante?
 
+
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]], [[method_casework|Analisi per casi]], [[method_estremalita|Principio di estremalita]]
+**Abilita:** [[skill_stima|Stima e approssimazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta del testo]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 
-[[Quesiti/src_obm_2026_n1_fx#q02|src_obm_2026_n1_fx__Q02]]
 
 
-
-<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_combinatoria,topic_aritmetica"></span>
+<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_combinatoria,topic_aritmetica,method_doppio_conteggio,method_congruenze,method_estremalita,skill_modellizzazione,skill_conteggio_sistematico,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -99,11 +103,13 @@ level: OBM Nível 1
 >
 > (b) Determine the minimum and maximum values of $P$. Remember to justify these values and to show how the results of the matches could be for these values to be attained.
 
-**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_doppio_conteggio|Double counting]], [[method_congruenze|Modular arithmetic / congruences]], [[method_estremalita|Extremal principle]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]], [[skill_conteggio_sistematico|Systematic counting]], [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Risposta:** nessuna soluzione ufficiale pubblicata (problema dimostrativo / a risposta aperta).
 **Fonte risposta:** OBM, «Provas e gabaritos» — per la prova 2026 è pubblicato solo il testo ([pagina OBM](<https://www.obm.org.br/como-se-preparar/provas-e-gabaritos>)).
-**Fonte:** apri PDF p.1
+**Fonte:** [apri PDF p.1](https://www.obm.org.br/content/uploads/2026/10/prova-2026-nivel_1.pdf#page=1)
 
 
 <div class="qlang-split" data-lang="it"></div>
@@ -117,21 +123,22 @@ level: OBM Nível 1
 >
 > (b) Determina i valori minimo e massimo di $P$. Ricorda di giustificare tali valori e di mostrare come potrebbero essere i risultati delle partite affinché questi valori vengano raggiunti.
 
+
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_doppio_conteggio|Doppio conteggio]], [[method_congruenze|Aritmetica modulare / congruenze]], [[method_estremalita|Principio di estremalita]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 
-[[Quesiti/src_obm_2026_n1_fx#q03|src_obm_2026_n1_fx__Q03]]
 
 
-
-<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_combinatoria"></span>
+<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_combinatoria,topic_logica,topic_aritmetica,method_invarianti,method_estremalita,skill_modellizzazione,skill_riconoscimento_pattern"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
 
 *One-player 2048-style game on a 3 × 3 board; minimum and maximum final sum.*
 
-![[src_obm_2026_n1_fx__q04.png]]
+![[src_obm_2026_n1_fx__Q04.png]]
 
 > In this problem we study a one-player game. The game uses a $3\times3$ board, initially empty, and each turn consists of two or three steps, except the last turn, which has only one step. Before the last turn, the first two steps always happen and the third depends on the numbers on the board. The steps are:
 >
@@ -151,11 +158,13 @@ level: OBM Nível 1
 >
 > (b) If the player's goal is to obtain the **largest** possible sum of all tiles on the board, what is that sum? Give a final configuration with this sum and justify your answer.
 
-**Topic:** [[topic_combinatoria|Combinatoria]]
-**Area:** [[Combinatoria, Logica e Probabilita]]
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_logica|Logic, games and strategies]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_invarianti|Invariants / monovariants]], [[method_estremalita|Extremal principle]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]], [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Risposta:** nessuna soluzione ufficiale pubblicata (problema dimostrativo / a risposta aperta).
 **Fonte risposta:** OBM, «Provas e gabaritos» — per la prova 2026 è pubblicato solo il testo ([pagina OBM](<https://www.obm.org.br/como-se-preparar/provas-e-gabaritos>)).
-**Fonte:** apri PDF p.2
+**Fonte:** [apri PDF p.2](https://www.obm.org.br/content/uploads/2026/10/prova-2026-nivel_1.pdf#page=2)
 
 
 <div class="qlang-split" data-lang="it"></div>
@@ -163,7 +172,7 @@ level: OBM Nível 1
 
 *Gioco per un solo giocatore in stile 2048 su una scacchiera 3 × 3; somma finale minima e massima.*
 
-![[src_obm_2026_n1_fx__q04.png]]
+![[src_obm_2026_n1_fx__Q04.png]]
 
 > In questo problema studiamo un gioco a un solo giocatore. Il gioco utilizza una scacchiera $3\times3$, inizialmente vuota, e ogni turno è composto da due o tre mosse, tranne l'ultimo turno, che prevede una sola mossa. Prima dell'ultimo turno, le prime due mosse avvengono sempre e la terza dipende dai numeri sulla scacchiera. Le mosse sono:
 >
@@ -183,14 +192,15 @@ level: OBM Nível 1
 >
 > (b) Se l'obiettivo del giocatore è ottenere la **somma più grande** possibile di tutte le tessere sulla scacchiera, qual è tale somma? Indica una configurazione finale con questa somma e giustifica la tua risposta.
 
-**Topic:** [[topic_combinatoria|Combinatoria]]
-**Area:** [[Combinatoria, Logica e Probabilita]]
 
-[[Quesiti/src_obm_2026_n1_fx#q04|src_obm_2026_n1_fx__Q04]]
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_logica|Logica, giochi, strategie]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_invarianti|Invarianti / monovarianti]], [[method_estremalita|Principio di estremalita]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 
 
 
-<span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_aritmetica,topic_combinatoria"></span>
+<span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_aritmetica,topic_combinatoria,method_invarianti,method_backward,method_estremalita,skill_riconoscimento_pattern,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -207,11 +217,13 @@ level: OBM Nível 1
 >
 > (d) Under the conditions of the previous item, what is the smallest possible value of this final number $N$?
 
-**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
-**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_invarianti|Invariants / monovariants]], [[method_backward|Working backwards]], [[method_estremalita|Extremal principle]]
+**Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Risposta:** nessuna soluzione ufficiale pubblicata (problema dimostrativo / a risposta aperta).
 **Fonte risposta:** OBM, «Provas e gabaritos» — per la prova 2026 è pubblicato solo il testo ([pagina OBM](<https://www.obm.org.br/como-se-preparar/provas-e-gabaritos>)).
-**Fonte:** apri PDF p.2
+**Fonte:** [apri PDF p.2](https://www.obm.org.br/content/uploads/2026/10/prova-2026-nivel_1.pdf#page=2)
 
 
 <div class="qlang-split" data-lang="it"></div>
@@ -229,7 +241,8 @@ level: OBM Nível 1
 >
 > (d) Nelle condizioni del punto precedente, qual è il valore minimo possibile di questo numero finale $N$?
 
-**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
-**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 
-[[Quesiti/src_obm_2026_n1_fx#q05|src_obm_2026_n1_fx__Q05]]
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_invarianti|Invarianti / monovarianti]], [[method_backward|Ragionamento all'indietro]], [[method_estremalita|Principio di estremalita]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]

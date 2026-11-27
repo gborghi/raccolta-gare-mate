@@ -12,9 +12,6 @@ level: Concours Général
 
 <span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_algebra,topic_disuguaglianze,method_estremalita,method_casework,method_disuguaglianze,skill_manipolazione_algebrica,skill_lettura_attenta,skill_casework_accurato,skill_stima"></span>
 
-<div class="qlang-switch" data-default="en"></div>
-
-
 *Weight of a finite sequence of reals defined as the max of absolute partial sums; compare Isabelle's minimal weight I with Clara's greedy weight C.*
 
 > Problem 1: Small weights.
@@ -61,8 +58,20 @@ level: Concours Général
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1seWyepAzmZaY6qrhHguoD9BLLbe2NGeK/view)
 
 
-<div class="qlang-split" data-lang="it"></div>
 
+<span class="atom-split" id="q01__it" data-atom="q01__it" data-title="Q01__IT" data-tags=""></span>
+
+---
+tipo: quesito-translation
+translation_of: src_cgen_2015__Q01
+lang: it
+secondary: true
+title: "Concours Général des Lycées 2015  Matematica  Quesito 1"
+summary: "Peso di una sequenza finita di reali definita come il massimo di somme parziali assolute; confronta il peso minimo di Isabelle I con il peso avido di Clara C."
+topics: [topic_algebra, topic_disuguaglianze]
+methods: [method_estremalita, method_casework, method_disuguaglianze]
+skills: [skill_manipolazione_algebrica, skill_lettura_attenta, skill_casework_accurato, skill_stima]
+tags: [kg/translation, topic/algebra, topic/disuguaglianze]---
 
 *Peso di una sequenza finita di reali definita come il massimo di somme parziali assolute; confronta il peso minimo di Isabelle I con il peso avido di Clara C.*
 
@@ -86,14 +95,15 @@ level: Concours Général
 > 
 > 5. Che $n$ sia un numero intero maggiore o uguale a $4$ e che $(x_1, x_2, \ldots, x_n)$ sia la sequenza finita data a Isabelle e Clara. Set: $$M = \max(|x_1|, |x_2|, \ldots, |x_n|), \quad S = |x_1 + x_2 + \cdots + x_n|, \quad N = \max(M, S).$$ In altre parole, $M$ è il più grande dei numeri $|x_1|, |x_2|, \ldots, |x_n|$. Allo stesso modo, $N$ è il più grande dei numeri $M$ e $S$. a. Mostra che $S \le I$. b. Mostra che $M \le 2I$. c. Mostra che $C \le N$. d. Riduzione di $C \le 2I$. e. Determinare i valori $n$ $x_1, x_2, \ldots, x_n$ tali da $C = 2I$.
 
+**Topic:** [[topic_algebra|Algebra]], [[topic_disuguaglianze|Disuguaglianze]]
+**Metodo:** [[method_estremalita|Principio di estremalita]], [[method_casework|Analisi per casi]], [[method_disuguaglianze|Disuguaglianze classiche]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta del testo]], [[skill_casework_accurato|Casework accurato]], [[skill_stima|Stima e approssimazione]]
+**Area:** [[Algebra e Analisi]]
 [[Quesiti/src_cgen_2015#q01|src_cgen_2015__Q01]]
 
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_geometria_solida,topic_geometria_analitica,method_coordinate,method_simmetria,skill_ragionamento_geometrico,skill_manipolazione_algebrica,skill_astrazione"></span>
-
-<div class="qlang-switch" data-default="en"></div>
-
 
 *Tetrahedra: centroid and medians, circumscribed sphere, concurrency of altitudes and the orthocentric condition expressed via dot products of line direction vectors.*
 
@@ -126,8 +136,20 @@ level: Concours Général
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1seWyepAzmZaY6qrhHguoD9BLLbe2NGeK/view)
 
 
-<div class="qlang-split" data-lang="it"></div>
 
+<span class="atom-split" id="q02__it" data-atom="q02__it" data-title="Q02__IT" data-tags=""></span>
+
+---
+tipo: quesito-translation
+translation_of: src_cgen_2015__Q02
+lang: it
+secondary: true
+title: "Concours Général des Lycées 2015  Matematica  Quesito 2"
+summary: "Tetraedri: centriodi e mediani, sfera circonscrita, concomitanza delle altitudini e condizione ortocentrica espressa attraverso i prodotti di punti dei vettori di direzione della linea."
+topics: [topic_geometria_solida, topic_geometria_analitica]
+methods: [method_coordinate, method_simmetria]
+skills: [skill_ragionamento_geometrico, skill_manipolazione_algebrica, skill_astrazione]
+tags: [kg/translation, topic/geometria_solida, topic/geometria_analitica]---
 
 *Tetraedri: centriodi e mediani, sfera circonscrita, concomitanza delle altitudini e condizione ortocentrica espressa attraverso i prodotti di punti dei vettori di direzione della linea.*
 
@@ -145,11 +167,15 @@ level: Concours Général
 > 
 > 4. In quanto segue, il prodotto di due vettori $\vec{v}$ e $\vec{w}$ è indicato $\vec{v} \cdot \vec{w}$. Le linee $\Delta_1, \ldots, \Delta_4$ devono essere quattro linee non coplanarie distinte, che sono simultanee in un punto $H$. Per $1 \le i \le 4$ si sceglie un vettore di direzione unitario $\vec{u}_i$ di $\Delta_i$ e, per $1 \le i, j \le 4$, un set $c_{ij} = \vec{u}_i \cdot \vec{u}_j$. a. Supponiamo che esista un tetraedro $A_1 A_2 A_3 A_4$ le cui altitudini sono simultanee a $H$ e tale che $A_j \in \Delta_j$ per tutti $j \in \{1, 2, 3, 4\}$. Mostrare che $c_{12} c_{34} = c_{13} c_{24} = c_{14} c_{23}$. b. Al contrario, se $c_{12} c_{34} = c_{13} c_{24} = c_{14} c_{23} \ne 0$, dimostrare che esiste un tetraedro $A_1 A_2 A_3 A_4$ le cui altitudini sono simultanee a $H$ e tale che $A_j \in \Delta_j$ per tutti $j \in \{1, 2, 3, 4\}$.
 
+**Topic:** [[topic_geometria_solida|Geometria solida]], [[topic_geometria_analitica|Geometria analitica]]
+**Metodo:** [[method_coordinate|Metodo delle coordinate]], [[method_simmetria|Sfruttamento della simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione / generalizzazione]]
+**Area:** [[Geometria]]
 [[Quesiti/src_cgen_2015#q02|src_cgen_2015__Q02]]
 
 
 
-<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_algebra,topic_insiemi_funzioni,topic_disuguaglianze,method_disuguaglianze,method_induzione,method_estremalita,skill_manipolazione_algebrica,skill_astrazione,skill_stima,skill_lettura_attenta"></span>
+<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_algebra,topic_insiemi_funzioni,topic_disuguaglianze,topic_funzionali,method_disuguaglianze,method_induzione,method_estremalita,skill_manipolazione_algebrica,skill_astrazione,skill_stima,skill_lettura_attenta"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -178,10 +204,10 @@ level: Concours Général
 > 
 > 5. Does there exist a non-constant bounded sequence of type $\mathcal{A}$?
 
-**Topic:** [[topic_algebra|Algebra]], [[topic_insiemi_funzioni|Insiemi e funzioni]], [[topic_disuguaglianze|Disuguaglianze]]
+**Topic:** [[topic_algebra|Algebra]], [[topic_insiemi_funzioni|Insiemi e funzioni]], [[topic_disuguaglianze|Disuguaglianze]], [[topic_funzionali|Functional equations / sequences]]
 **Metodo:** [[method_disuguaglianze|Disuguaglianze]], [[method_induzione|Induzione]], [[method_estremalita|Estremalità]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]], [[skill_stima|Stima]], [[skill_lettura_attenta|Lettura attenta]]
-**Area:** [[Algebra e Analisi]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1seWyepAzmZaY6qrhHguoD9BLLbe2NGeK/view)
 
 
@@ -204,4 +230,7 @@ level: Concours Général
 > 
 > 5. Esiste una sequenza limitata non costante del tipo $\mathcal{A}$?
 
-[[Quesiti/src_cgen_2015#q03|src_cgen_2015__Q03]]
+**Topic:** [[topic_algebra|Algebra]], [[topic_insiemi_funzioni|Insiemi e funzioni]], [[topic_disuguaglianze|Disuguaglianze]], [[topic_funzionali|Equazioni funzionali / successioni]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze classiche]], [[method_induzione|Induzione]], [[method_estremalita|Principio di estremalita]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione / generalizzazione]], [[skill_stima|Stima e approssimazione]], [[skill_lettura_attenta|Lettura attenta del testo]]
+**Area:** [[Algebra e Analisi]]

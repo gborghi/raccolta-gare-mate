@@ -10,7 +10,7 @@ level: Coupe Animath Printemps
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_algebra,topic_aritmetica,method_casework,skill_manipolazione_algebrica,skill_casework_accurato,skill_lettura_attenta"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_algebra,topic_aritmetica,method_casework,method_backward,method_fattorizzazione,skill_manipolazione_algebrica,skill_casework_accurato,skill_lettura_attenta"></span>
 
 <div class="qlang-switch" data-default="fr"></div>
 
@@ -30,7 +30,7 @@ level: Coupe Animath Printemps
 > b) Déterminer tous les entiers $x$ tels qu'en partant de $x$ et en utilisant successivement deux opérations différentes, on obtienne $2015$.
 
 **Topic:** [[topic_algebra|Algèbre]], [[topic_aritmetica|Arithmétique / Théorie des nombres]]
-**Metodo:** [[method_casework|Disjonction de cas]]
+**Metodo:** [[method_casework|Disjonction de cas]], [[method_backward|Raisonnement à rebours]], [[method_fattorizzazione|Factorisation]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipulation algébrique]], [[skill_casework_accurato|Disjonction de cas soigneuse]], [[skill_lettura_attenta|Lecture attentive]]
 **Area:** [[Algebra e Analisi|Algèbre et analyse]], [[Aritmetica e Teoria dei Numeri|Arithmétique et théorie des nombres]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1AA-DdW4mHZO7NYgauCpN5vrfUN46wMBD/view)
@@ -53,7 +53,10 @@ level: Coupe Animath Printemps
 >
 > b) Determinare tutti gli interi $x$ tali che, partendo da $x$ e usando successivamente due operazioni diverse, si ottenga $2015$.
 
-[[Quesiti/src_canimath_2015_printemps#q01|src_canimath_2015_printemps__Q01]]
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Analisi per casi]], [[method_backward|Ragionamento all'indietro]], [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Casework accurato]], [[skill_lettura_attenta|Lettura attenta del testo]]
+**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -73,11 +76,14 @@ level: Coupe Animath Printemps
 >
 > b) Determine all integers $x$ such that, starting from $x$ and applying two different operations in succession, one obtains $2015$.
 
-[[Quesiti/src_canimath_2015_printemps#q01|src_canimath_2015_printemps__Q01]]
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_casework|Case analysis]], [[method_backward|Working backwards]], [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_casework_accurato|Careful case analysis]], [[skill_lettura_attenta|Careful reading of the text]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
 
 
-<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_geometria_piana,skill_ragionamento_geometrico,skill_modellizzazione,skill_lettura_attenta"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_geometria_piana,method_estremalita,method_simmetria,skill_ragionamento_geometrico,skill_modellizzazione,skill_lettura_attenta"></span>
 
 <div class="qlang-switch" data-default="fr"></div>
 
@@ -89,6 +95,7 @@ level: Coupe Animath Printemps
 > Soit $ABC$ un triangle rectangle en $A$. Déterminer le ou les points $P$ du périmètre de $ABC$ tels que $PA + PB + PC$ soit maximal.
 
 **Topic:** [[topic_geometria_piana|Géométrie plane]]
+**Metodo:** [[method_estremalita|Extrémalité]], [[method_simmetria|Symétrie]]
 **Abilita:** [[skill_ragionamento_geometrico|Raisonnement géométrique]], [[skill_modellizzazione|Modélisation]], [[skill_lettura_attenta|Lecture attentive]]
 **Area:** [[Geometria|Géométrie]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1AA-DdW4mHZO7NYgauCpN5vrfUN46wMBD/view)
@@ -103,7 +110,10 @@ level: Coupe Animath Printemps
 >
 > Sia $ABC$ un triangolo rettangolo in $A$. Determinare il punto o i punti $P$ del perimetro di $ABC$ tali che $PA + PB + PC$ sia massimo.
 
-[[Quesiti/src_canimath_2015_printemps#q02|src_canimath_2015_printemps__Q02]]
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_estremalita|Principio di estremalita]], [[method_simmetria|Sfruttamento della simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_lettura_attenta|Lettura attenta del testo]]
+**Area:** [[Geometria]]
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -115,14 +125,14 @@ level: Coupe Animath Printemps
 >
 > Let $ABC$ be a triangle right-angled at $A$. Determine the point or points $P$ of the perimeter of $ABC$ such that $PA + PB + PC$ is maximal.
 
-[[Quesiti/src_canimath_2015_printemps#q02|src_canimath_2015_printemps__Q02]]
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_estremalita|Extremal principle]], [[method_simmetria|Using symmetry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_modellizzazione|Modelling / translating the text]], [[skill_lettura_attenta|Careful reading of the text]]
+**Area:** [[Geometria|Geometry]]
 
 
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_aritmetica,topic_algebra,method_casework,method_congruenze,skill_manipolazione_algebrica,skill_lettura_attenta,skill_casework_accurato"></span>
-
-<div class="qlang-switch" data-default="fr"></div>
-
 
 *Entiers à 4 chiffres tels que l'entier renversé vaut 4n+3*
 
@@ -139,22 +149,20 @@ level: Coupe Animath Printemps
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1AA-DdW4mHZO7NYgauCpN5vrfUN46wMBD/view)
 
 
-<div class="qlang-split" data-lang="it"></div>
 
+<span class="atom-split" id="q03__en" data-atom="q03__en" data-title="Q03__EN" data-tags=""></span>
 
-*Interi di 4 cifre il cui rovescio vale 4n+3*
-
-> **Esercizio 3**
->
-> Per ogni intero $n$, si indichi con $f(n)$ l'intero scritto invertendo l'ordine delle cifre. Per esempio, $f(2538) = 8352$.
->
-> Determinare tutti gli interi $n$ di $4$ cifre tali che $f(n) = 4n + 3$.
-
-[[Quesiti/src_canimath_2015_printemps#q03|src_canimath_2015_printemps__Q03]]
-
-
-<div class="qlang-split" data-lang="en"></div>
-
+---
+tipo: quesito-translation
+translation_of: src_canimath_2015_printemps__Q03
+lang: en
+secondary: true
+title: "Coupe Animath Printemps 2015 — Exercise 3"
+summary: "Four-digit integers whose reverse equals 4n+3"
+topics: [topic_aritmetica, topic_algebra]
+methods: [method_casework, method_congruenze]
+skills: [skill_manipolazione_algebrica, skill_lettura_attenta, skill_casework_accurato]
+tags: [kg/translation, topic/aritmetica, topic/algebra]---
 
 *Four-digit integers whose reverse equals 4n+3*
 
@@ -164,11 +172,45 @@ level: Coupe Animath Printemps
 >
 > Determine all integers $n$ with $4$ digits such that $f(n) = 4n + 3$.
 
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_casework|Case analysis]], [[method_congruenze|Modular arithmetic / congruences]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_lettura_attenta|Careful reading of the text]], [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Algebra e Analisi|Algebra and analysis]]
 [[Quesiti/src_canimath_2015_printemps#q03|src_canimath_2015_printemps__Q03]]
 
 
 
-<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_geometria_piana,skill_ragionamento_geometrico,skill_modellizzazione,skill_astrazione"></span>
+<span class="atom-split" id="q03__it" data-atom="q03__it" data-title="Q03__IT" data-tags=""></span>
+
+---
+tipo: quesito-translation
+translation_of: src_canimath_2015_printemps__Q03
+lang: it
+secondary: true
+title: "Coupe Animath Primavera 2015 — Esercizio 3"
+summary: "Interi di 4 cifre il cui rovescio vale 4n+3"
+topics: [topic_aritmetica, topic_algebra]
+methods: [method_casework, method_congruenze]
+skills: [skill_manipolazione_algebrica, skill_lettura_attenta, skill_casework_accurato]
+tags: [kg/translation, topic/aritmetica, topic/algebra]---
+
+*Interi di 4 cifre il cui rovescio vale 4n+3*
+
+> **Esercizio 3**
+>
+> Per ogni intero $n$, si indichi con $f(n)$ l'intero scritto invertendo l'ordine delle cifre. Per esempio, $f(2538) = 8352$.
+>
+> Determinare tutti gli interi $n$ di $4$ cifre tali che $f(n) = 4n + 3$.
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_casework|Analisi per casi]], [[method_congruenze|Aritmetica modulare / congruenze]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta del testo]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
+[[Quesiti/src_canimath_2015_printemps#q03|src_canimath_2015_printemps__Q03]]
+
+
+
+<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_geometria_piana,method_simmetria,skill_ragionamento_geometrico,skill_modellizzazione,skill_astrazione"></span>
 
 <div class="qlang-switch" data-default="fr"></div>
 
@@ -180,6 +222,7 @@ level: Coupe Animath Printemps
 > Soit $ABC$ un triangle. On choisit $M$ sur le côté $[BC]$, $N$ sur le côté $[CA]$ et $P$ sur le côté $[AB]$ de sorte que $BM = BP$ et $CM = CN$. On note $D_B$ la droite passant par $B$ et perpendiculaire à $[MP]$, et $D_C$ la droite passant par $C$ et perpendiculaire à $[MN]$. On suppose que les droites $D_B$ et $D_C$ se rencontrent en $I$. Prouver que les angles $\widehat{IPA}$ et $\widehat{INC}$ sont égaux.
 
 **Topic:** [[topic_geometria_piana|Géométrie plane]]
+**Metodo:** [[method_simmetria|Symétrie]]
 **Abilita:** [[skill_ragionamento_geometrico|Raisonnement géométrique]], [[skill_modellizzazione|Modélisation]], [[skill_astrazione|Abstraction]]
 **Area:** [[Geometria|Géométrie]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1AA-DdW4mHZO7NYgauCpN5vrfUN46wMBD/view)
@@ -194,7 +237,10 @@ level: Coupe Animath Printemps
 >
 > Sia $ABC$ un triangolo. Si scelga $M$ sul lato $[BC]$, $N$ sul lato $[CA]$ e $P$ sul lato $[AB]$ in modo che $BM = BP$ e $CM = CN$. Si indichi con $D_B$ la retta passante per $B$ e perpendicolare a $[MP]$, e con $D_C$ la retta passante per $C$ e perpendicolare a $[MN]$. Si supponga che le rette $D_B$ e $D_C$ si incontrino in $I$. Dimostrare che gli angoli $\widehat{IPA}$ e $\widehat{INC}$ sono uguali.
 
-[[Quesiti/src_canimath_2015_printemps#q04|src_canimath_2015_printemps__Q04]]
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_simmetria|Sfruttamento della simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_astrazione|Astrazione / generalizzazione]]
+**Area:** [[Geometria]]
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -206,11 +252,14 @@ level: Coupe Animath Printemps
 >
 > Let $ABC$ be a triangle. Choose $M$ on the side $[BC]$, $N$ on the side $[CA]$ and $P$ on the side $[AB]$ so that $BM = BP$ and $CM = CN$. Let $D_B$ be the line through $B$ perpendicular to $[MP]$, and $D_C$ the line through $C$ perpendicular to $[MN]$. Assume that the lines $D_B$ and $D_C$ meet at $I$. Prove that the angles $\widehat{IPA}$ and $\widehat{INC}$ are equal.
 
-[[Quesiti/src_canimath_2015_printemps#q04|src_canimath_2015_printemps__Q04]]
+**Topic:** [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_simmetria|Using symmetry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_modellizzazione|Modelling / translating the text]], [[skill_astrazione|Abstraction / generalisation]]
+**Area:** [[Geometria|Geometry]]
 
 
 
-<span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_combinatoria,topic_aritmetica,method_invarianti,method_estremalita,method_casework,skill_ragionamento_geometrico,skill_modellizzazione,skill_riconoscimento_pattern,skill_conteggio_sistematico"></span>
+<span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_combinatoria,topic_aritmetica,method_invarianti,method_estremalita,method_casework,method_colorazione,skill_ragionamento_geometrico,skill_modellizzazione,skill_riconoscimento_pattern,skill_conteggio_sistematico"></span>
 
 <div class="qlang-switch" data-default="fr"></div>
 
@@ -222,7 +271,7 @@ level: Coupe Animath Printemps
 > $2015$ entiers strictement positifs sont placés autour d'un cercle. Montrer qu'il est possible de trouver deux entiers voisins tels que, après les avoir supprimés, les nombres restants ne puissent pas être séparés en deux groupes de même somme.
 
 **Topic:** [[topic_combinatoria|Combinatoire]], [[topic_aritmetica|Arithmétique / Théorie des nombres]]
-**Metodo:** [[method_invarianti|Invariants]], [[method_estremalita|Extrémalité]], [[method_casework|Disjonction de cas]]
+**Metodo:** [[method_invarianti|Invariants]], [[method_estremalita|Extrémalité]], [[method_casework|Disjonction de cas]], [[method_colorazione|Coloriage / parité]]
 **Abilita:** [[skill_ragionamento_geometrico|Raisonnement géométrique]], [[skill_modellizzazione|Modélisation]], [[skill_riconoscimento_pattern|Reconnaissance de motifs]], [[skill_conteggio_sistematico|Dénombrement systématique]]
 **Area:** [[Combinatoria, Logica e Probabilita|Combinatoire, logique et probabilités]], [[Aritmetica e Teoria dei Numeri|Arithmétique et théorie des nombres]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1AA-DdW4mHZO7NYgauCpN5vrfUN46wMBD/view)
@@ -237,7 +286,10 @@ level: Coupe Animath Printemps
 >
 > $2015$ interi strettamente positivi sono disposti intorno a un cerchio. Dimostrare che è possibile trovare due interi vicini tali che, dopo averli soppressi, i numeri restanti non possano essere separati in due gruppi di uguale somma.
 
-[[Quesiti/src_canimath_2015_printemps#q05|src_canimath_2015_printemps__Q05]]
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_invarianti|Invarianti / monovarianti]], [[method_estremalita|Principio di estremalita]], [[method_casework|Analisi per casi]], [[method_colorazione|Colorazione / parita]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -249,11 +301,14 @@ level: Coupe Animath Printemps
 >
 > $2015$ strictly positive integers are placed around a circle. Prove that it is possible to find two neighbouring integers such that, after deleting them, the remaining numbers cannot be split into two groups of equal sum.
 
-[[Quesiti/src_canimath_2015_printemps#q05|src_canimath_2015_printemps__Q05]]
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_invarianti|Invariants / monovariants]], [[method_estremalita|Extremal principle]], [[method_casework|Case analysis]], [[method_colorazione|Colouring / parity]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_modellizzazione|Modelling / translating the text]], [[skill_riconoscimento_pattern|Pattern recognition]], [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
 
 
-<span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_aritmetica,topic_algebra,topic_insiemi_funzioni,method_casework,skill_manipolazione_algebrica,skill_casework_accurato,skill_lettura_attenta"></span>
+<span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_aritmetica,topic_algebra,topic_insiemi_funzioni,method_casework,skill_manipolazione_algebrica,skill_casework_accurato,skill_lettura_attenta,skill_stima"></span>
 
 <div class="qlang-switch" data-default="fr"></div>
 
@@ -270,7 +325,7 @@ level: Coupe Animath Printemps
 
 **Topic:** [[topic_aritmetica|Arithmétique / Théorie des nombres]], [[topic_algebra|Algèbre]], [[topic_insiemi_funzioni|Ensembles et fonctions]]
 **Metodo:** [[method_casework|Disjonction de cas]]
-**Abilita:** [[skill_manipolazione_algebrica|Manipulation algébrique]], [[skill_casework_accurato|Disjonction de cas soigneuse]], [[skill_lettura_attenta|Lecture attentive]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipulation algébrique]], [[skill_casework_accurato|Disjonction de cas soigneuse]], [[skill_lettura_attenta|Lecture attentive]], [[skill_stima|Estimation]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Arithmétique et théorie des nombres]], [[Algebra e Analisi|Algèbre et analyse]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1AA-DdW4mHZO7NYgauCpN5vrfUN46wMBD/view)
 
@@ -288,7 +343,10 @@ level: Coupe Animath Printemps
 >
 > Trovare tutti gli interi $n$ tali che $f(n+1) > f(n)$.
 
-[[Quesiti/src_canimath_2015_printemps#q06|src_canimath_2015_printemps__Q06]]
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]], [[topic_insiemi_funzioni|Insiemi e funzioni]]
+**Metodo:** [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Casework accurato]], [[skill_lettura_attenta|Lettura attenta del testo]], [[skill_stima|Stima e approssimazione]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -304,14 +362,14 @@ level: Coupe Animath Printemps
 >
 > Find all integers $n$ such that $f(n+1) > f(n)$.
 
-[[Quesiti/src_canimath_2015_printemps#q06|src_canimath_2015_printemps__Q06]]
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_algebra|Algebra]], [[topic_insiemi_funzioni|Sets and functions]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_casework_accurato|Careful case analysis]], [[skill_lettura_attenta|Careful reading of the text]], [[skill_stima|Estimation and approximation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Algebra e Analisi|Algebra and analysis]]
 
 
 
 <span class="atom-split" id="q07" data-atom="q07" data-title="Quesito 7" data-tags="topic_combinatoria,topic_geometria_piana,method_cassetti,method_estremalita,skill_modellizzazione,skill_stima,skill_ragionamento_geometrico,skill_conteggio_sistematico"></span>
-
-<div class="qlang-switch" data-default="fr"></div>
-
 
 *n points sur un cercle de diamètre n/π : un point par arc égal*
 
@@ -326,20 +384,20 @@ level: Coupe Animath Printemps
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1AA-DdW4mHZO7NYgauCpN5vrfUN46wMBD/view)
 
 
-<div class="qlang-split" data-lang="it"></div>
 
+<span class="atom-split" id="q07__en" data-atom="q07__en" data-title="Q07__EN" data-tags=""></span>
 
-*n punti su un cerchio di diametro n/π: un punto per arco uguale*
-
-> **Esercizio 7**
->
-> $n$ punti sono posti su un cerchio di diametro $n/\pi$. Si supponga che la lunghezza di qualunque arco tra due di questi $n$ punti sia strettamente maggiore del numero di punti su quell'arco (senza contare i punti agli estremi). Dimostrare che il cerchio può essere suddiviso in $n$ archi di uguale lunghezza contenenti ciascuno esattamente un punto.
-
-[[Quesiti/src_canimath_2015_printemps#q07|src_canimath_2015_printemps__Q07]]
-
-
-<div class="qlang-split" data-lang="en"></div>
-
+---
+tipo: quesito-translation
+translation_of: src_canimath_2015_printemps__Q07
+lang: en
+secondary: true
+title: "Coupe Animath Printemps 2015 — Exercise 7"
+summary: "n points on a circle of diameter n/π: one point per equal arc"
+topics: [topic_combinatoria, topic_geometria_piana]
+methods: [method_cassetti, method_estremalita]
+skills: [skill_modellizzazione, skill_stima, skill_ragionamento_geometrico, skill_conteggio_sistematico]
+tags: [kg/translation, topic/combinatoria, topic/geometria_piana]---
 
 *n points on a circle of diameter n/π: one point per equal arc*
 
@@ -347,11 +405,43 @@ level: Coupe Animath Printemps
 >
 > $n$ points are placed on a circle of diameter $n/\pi$. Assume that the length of any arc between two of these $n$ points is strictly greater than the number of points on that arc (not counting the points at the endpoints). Prove that the circle can be subdivided into $n$ arcs of equal length, each containing exactly one point.
 
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_cassetti|Pigeonhole principle]], [[method_estremalita|Extremal principle]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]], [[skill_stima|Estimation and approximation]], [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Geometria|Geometry]]
 [[Quesiti/src_canimath_2015_printemps#q07|src_canimath_2015_printemps__Q07]]
 
 
 
-<span class="atom-split" id="q08" data-atom="q08" data-title="Quesito 8" data-tags="topic_aritmetica,topic_algebra,method_congruenze,method_fattorizzazione,method_casework,skill_manipolazione_algebrica,skill_lettura_attenta,skill_astrazione"></span>
+<span class="atom-split" id="q07__it" data-atom="q07__it" data-title="Q07__IT" data-tags=""></span>
+
+---
+tipo: quesito-translation
+translation_of: src_canimath_2015_printemps__Q07
+lang: it
+secondary: true
+title: "Coupe Animath Primavera 2015 — Esercizio 7"
+summary: "n punti su un cerchio di diametro n/π: un punto per arco uguale"
+topics: [topic_combinatoria, topic_geometria_piana]
+methods: [method_cassetti, method_estremalita]
+skills: [skill_modellizzazione, skill_stima, skill_ragionamento_geometrico, skill_conteggio_sistematico]
+tags: [kg/translation, topic/combinatoria, topic/geometria_piana]---
+
+*n punti su un cerchio di diametro n/π: un punto per arco uguale*
+
+> **Esercizio 7**
+>
+> $n$ punti sono posti su un cerchio di diametro $n/\pi$. Si supponga che la lunghezza di qualunque arco tra due di questi $n$ punti sia strettamente maggiore del numero di punti su quell'arco (senza contare i punti agli estremi). Dimostrare che il cerchio può essere suddiviso in $n$ archi di uguale lunghezza contenenti ciascuno esattamente un punto.
+
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_cassetti|Principio dei cassetti]], [[method_estremalita|Principio di estremalita]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_stima|Stima e approssimazione]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
+[[Quesiti/src_canimath_2015_printemps#q07|src_canimath_2015_printemps__Q07]]
+
+
+
+<span class="atom-split" id="q08" data-atom="q08" data-title="Quesito 8" data-tags="topic_aritmetica,topic_algebra,method_congruenze,method_fattorizzazione,method_casework,skill_manipolazione_algebrica,skill_lettura_attenta,skill_astrazione,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="fr"></div>
 
@@ -364,7 +454,7 @@ level: Coupe Animath Printemps
 
 **Topic:** [[topic_aritmetica|Arithmétique / Théorie des nombres]], [[topic_algebra|Algèbre]]
 **Metodo:** [[method_congruenze|Congruences]], [[method_fattorizzazione|Factorisation]], [[method_casework|Disjonction de cas]]
-**Abilita:** [[skill_manipolazione_algebrica|Manipulation algébrique]], [[skill_lettura_attenta|Lecture attentive]], [[skill_astrazione|Abstraction]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipulation algébrique]], [[skill_lettura_attenta|Lecture attentive]], [[skill_astrazione|Abstraction]], [[skill_casework_accurato|Analyse par cas soigneuse]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Arithmétique et théorie des nombres]], [[Algebra e Analisi|Algèbre et analyse]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1AA-DdW4mHZO7NYgauCpN5vrfUN46wMBD/view)
 
@@ -378,7 +468,10 @@ level: Coupe Animath Printemps
 >
 > Siano $p$, $q$, $r$ numeri primi tali che ciascuno dei tre numeri $pq + 1$, $pr + 1$ e $qr - p$ è il quadrato di un intero. Dimostrare che anche $p + 2qr + 2$ è il quadrato di un intero.
 
-[[Quesiti/src_canimath_2015_printemps#q08|src_canimath_2015_printemps__Q08]]
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]], [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]], [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta del testo]], [[skill_astrazione|Astrazione / generalizzazione]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -390,4 +483,7 @@ level: Coupe Animath Printemps
 >
 > Let $p$, $q$, $r$ be prime numbers such that each of the three numbers $pq + 1$, $pr + 1$ and $qr - p$ is the square of an integer. Prove that $p + 2qr + 2$ is also the square of an integer.
 
-[[Quesiti/src_canimath_2015_printemps#q08|src_canimath_2015_printemps__Q08]]
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]], [[method_fattorizzazione|Factorisation / algebraic manipulation]], [[method_casework|Case analysis]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_lettura_attenta|Careful reading of the text]], [[skill_astrazione|Abstraction / generalisation]], [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Algebra e Analisi|Algebra and analysis]]

@@ -39,8 +39,6 @@ level: China Southeastern Mathematical Olympiad
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 
-[[Quesiti/src_cn_csmo_2020#q01|src_cn_csmo_2020__Q01]]
-
 
 
 <span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_geometria_piana,method_trigonometria,method_simmetria,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
@@ -52,7 +50,7 @@ level: China Southeastern Mathematical Olympiad
 
 > As illustrated in Fig. 2.1, in $\triangle ABC$, $AB = AC$, $PB$, $PC$ are tangent to the circumcircle $O$ of $\triangle ABC$. Let $R$ be a point on $\widehat{AC}$ with $AR \parallel BC$, and $Q$ be the other intersection of $PR$ and circle $O$. Let $I$ be the incenter of $\triangle ABC$, $ID \perp BC$ with foot $D$, and $G$ be the other intersection of $QD$ and circle $O$. Suppose that the line through $I$ and perpendicular to $AI$ intersects the lines $AG$, $AC$ at the points $M$, $N$, respectively. Let $S$ be the midpoint of $\widehat{AR}$, $T$ be the other intersection of the line $SN$ and circle $O$. Prove that $M$, $B$, $T$ are collinear.
 
-![[src_cn_csmo_2020__q02.png]]
+![[src_cn_csmo_2020__Q02.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_trigonometria|Trigonometria]], [[method_simmetria|Simmetria]]
@@ -68,14 +66,12 @@ level: China Southeastern Mathematical Olympiad
 
 > Come illustrato nella Fig. 2.1, in $\triangle ABC$, $AB = AC$, $PB$, $PC$ sono tangenti alla circonferenza circoscritta $O$ di $\triangle ABC$. Sia $R$ un punto su $\widehat{AC}$ tale che $AR \parallel BC$, e sia $Q$ l'altro punto d'intersezione tra $PR$ e la circonferenza $O$. Sia $I$ l'incentro di $\triangle ABC$, $ID \perp BC$ con piede $D$, e sia $G$ l'altro punto d'intersezione tra $QD$ e la circonferenza $O$. Si supponga che la retta passante per $I$ e perpendicolare a $AI$ intersechi le rette $AG$, $AC$ nei punti $M$, $N$, rispettivamente. Sia $S$ il punto medio di $\widehat{AR}$, e sia $T$ l'altro punto d'intersezione tra la retta $SN$ e la circonferenza $O$. Dimostrare che $M$, $B$, $T$ sono allineati.
 
-![[src_cn_csmo_2020__q02.png]]
+![[src_cn_csmo_2020__Q02.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_trigonometria|Trigonometria]], [[method_simmetria|Simmetria]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
-
-[[Quesiti/src_cn_csmo_2020#q02|src_cn_csmo_2020__Q02]]
 
 
 
@@ -108,8 +104,6 @@ level: China Southeastern Mathematical Olympiad
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_stima|Stima]]
 **Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 
-[[Quesiti/src_cn_csmo_2020#q03|src_cn_csmo_2020__Q03]]
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_probabilita,topic_combinatoria,method_ricorsione,method_estremalita,method_casework,skill_modellizzazione,skill_manipolazione_algebrica,skill_ragionamento_geometrico"></span>
@@ -139,5 +133,3 @@ level: China Southeastern Mathematical Olympiad
 **Metodo:** [[method_ricorsione|Ricorsione]], [[method_estremalita|Estremalità]], [[method_casework|Casework]]
 **Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
-
-[[Quesiti/src_cn_csmo_2020#q04|src_cn_csmo_2020__Q04]]

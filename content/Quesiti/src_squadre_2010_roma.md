@@ -10,7 +10,7 @@ level: squadre
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_geometria_solida"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_geometria_solida,topic_aritmetica,method_estremalita,skill_manipolazione_algebrica,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -23,10 +23,12 @@ level: squadre
 > spigoli sia uguale a quella di C. Inoltre la misura degli spigoli di P, espressa in centimetri, è intera. Qual è, espresso
 > in cm^3, il minimo valore strettamente positivo che può assumere la differenza tra i volumi dei due solidi?
 
-**Topic:** [[topic_geometria_solida|Geometria solida]]
-**Area:** [[Geometria]]
+**Topic:** [[topic_geometria_solida|Geometria solida]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_estremalita|Principio di estremalita]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Geometria]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 0100
-**Fonte:** apri PDF p.1 · phiquadro.it, Archivio gare ufficiali 2010 (Roma Tor Vergata - Qualificazione)
+**Fonte:** [apri PDF p.1](https://www.phiquadro.it/archivio/2010_25%20marzo%20-%20Roma.pdf#page=1) · phiquadro.it, Archivio gare ufficiali 2010 (Roma Tor Vergata - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -38,14 +40,15 @@ level: squadre
 
 > Let C be a cube with an edge length of 1 metre, and let P be a right rectangular parallelepiped such that the sum of its edges equals the sum of the edges of C. Moreover, the edge lengths of P, expressed in centimetres, are whole numbers. Expressed in cm³, what is the minimum strictly positive value that the difference between the volumes of the two solids can take?
 
-**Topic:** [[topic_geometria_solida|Solid geometry]]
-**Area:** [[Geometria|Geometry]]
 
-[[Quesiti/src_squadre_2010_roma#q01|src_squadre_2010_roma__Q01]]
+**Topic:** [[topic_geometria_solida|Solid geometry]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_estremalita|Extremal principle]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Geometria|Geometry]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
 
 
-<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_aritmetica"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_aritmetica,method_congruenze,skill_casework_accurato,skill_riconoscimento_pattern"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -58,9 +61,11 @@ level: squadre
 > 16?
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]]
+**Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 5000
-**Fonte:** apri PDF p.1 · phiquadro.it, Archivio gare ufficiali 2010 (Roma Tor Vergata - Qualificazione)
+**Fonte:** [apri PDF p.1](https://www.phiquadro.it/archivio/2010_25%20marzo%20-%20Roma.pdf#page=1) · phiquadro.it, Archivio gare ufficiali 2010 (Roma Tor Vergata - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -72,14 +77,15 @@ level: squadre
 
 > How many integers n are there such that n is not less than 4 and not greater than 10000, and n(n − 1)(n − 2)(n − 3) is not divisible by 16?
 
+
 **Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]], [[skill_riconoscimento_pattern|Pattern recognition]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
-[[Quesiti/src_squadre_2010_roma#q02|src_squadre_2010_roma__Q02]]
 
 
-
-<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_combinatoria"></span>
+<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_combinatoria,method_cassetti,method_estremalita,skill_casework_accurato,skill_modellizzazione"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -98,9 +104,11 @@ level: squadre
 > Qual è il minimo valore che può avere N\_A + N\_B?
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_cassetti|Principio dei cassetti]], [[method_estremalita|Principio di estremalita]]
+**Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 4002
-**Fonte:** apri PDF p.1 · phiquadro.it, Archivio gare ufficiali 2010 (Roma Tor Vergata - Qualificazione)
+**Fonte:** [apri PDF p.1](https://www.phiquadro.it/archivio/2010_25%20marzo%20-%20Roma.pdf#page=1) · phiquadro.it, Archivio gare ufficiali 2010 (Roma Tor Vergata - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -112,14 +120,15 @@ level: squadre
 
 > In a dark room, there are 2 baskets, which we will call A and B. Basket A contains 5000 right shoes: 1000 white, 1000 red, 1000 green, 1000 purple, and 1000 yellow. Basket B, on the other hand, contains 5000 left shoes, but they are still of the same 5 colors as those in basket A and in the same quantities for each color. Luca must take a pair of shoes (one right shoe and one left shoe) that are both the same color, but since it is dark, he cannot see the colors of the shoes he takes. He therefore decides to take N_A shoes from basket A and N_B shoes from basket B in such a way that, among the shoes he has taken, there are necessarily one right shoe and one left shoe of the same color. What is the minimum possible value of N_A + N_B?
 
+
 **Topic:** [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_cassetti|Pigeonhole principle]], [[method_estremalita|Extremal principle]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]], [[skill_modellizzazione|Modelling / translating the text]]
 **Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
-[[Quesiti/src_squadre_2010_roma#q03|src_squadre_2010_roma__Q03]]
 
 
-
-<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags=""></span>
+<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_aritmetica,method_congruenze,skill_modellizzazione,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -134,8 +143,12 @@ level: squadre
 > stessa semiretta avente origine in Lucente, dire quanto vale, misurato in anni terrestri, il minimo intervallo di tempo
 > che deve trascorrere prima che i tre pianeti giacciano di nuovo tutti su una semiretta avente origine in Lucente.
 
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 0627
-**Fonte:** apri PDF p.1 · phiquadro.it, Archivio gare ufficiali 2010 (Roma Tor Vergata - Qualificazione)
+**Fonte:** [apri PDF p.1](https://www.phiquadro.it/archivio/2010_25%20marzo%20-%20Roma.pdf#page=1) · phiquadro.it, Archivio gare ufficiali 2010 (Roma Tor Vergata - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -147,11 +160,14 @@ level: squadre
 
 > Three planets—Bingo, Bango, and Bongo—orbit the star Lucente in the same direction at constant speeds along circular orbits (with Lucente as their center and all lying in the same plane). Given that the orbital periods of the three planets are 24, 88, and 152 Earth years, respectively, and that at a certain instant they all lie on the same half-ray originating at Lucente, state the value, measured in Earth years, of the minimum time interval that must elapse before the three planets again all lie on a half-ray originating at Lucente.
 
-[[Quesiti/src_squadre_2010_roma#q04|src_squadre_2010_roma__Q04]]
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
 
 
-<span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_combinatoria"></span>
+<span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_combinatoria,topic_aritmetica,method_fattorizzazione,skill_conteggio_sistematico,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -163,10 +179,12 @@ level: squadre
 > Dati i due numeri n = 111.333.222.666 e m = 111.333.333.111, dire quanti sono i divisori di m che non sono divisori
 > di n.
 
-**Topic:** [[topic_combinatoria|Combinatoria]]
-**Area:** [[Combinatoria, Logica e Probabilita]]
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 0252
-**Fonte:** apri PDF p.1 · phiquadro.it, Archivio gare ufficiali 2010 (Roma Tor Vergata - Qualificazione)
+**Fonte:** [apri PDF p.1](https://www.phiquadro.it/archivio/2010_25%20marzo%20-%20Roma.pdf#page=1) · phiquadro.it, Archivio gare ufficiali 2010 (Roma Tor Vergata - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -178,14 +196,15 @@ level: squadre
 
 > Given the two numbers n = 111.333.222.666 and m = 111.333.333.111, state how many divisors of m are not divisors of n.
 
-**Topic:** [[topic_combinatoria|Combinatorics]]
-**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
-[[Quesiti/src_squadre_2010_roma#q05|src_squadre_2010_roma__Q05]]
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_fattorizzazione|Factorisation / algebraic manipulation]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
 
 
-<span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_geometria_solida"></span>
+<span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_geometria_solida,method_estremalita,method_coordinate,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -201,9 +220,11 @@ level: squadre
 > che i tre punti A, B e C possono occupare nella stanza.
 
 **Topic:** [[topic_geometria_solida|Geometria solida]]
+**Metodo:** [[method_estremalita|Principio di estremalita]], [[method_coordinate|Metodo delle coordinate]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 **Risposta:** 6720
-**Fonte:** apri PDF p.1 · phiquadro.it, Archivio gare ufficiali 2010 (Roma Tor Vergata - Qualificazione)
+**Fonte:** [apri PDF p.1](https://www.phiquadro.it/archivio/2010_25%20marzo%20-%20Roma.pdf#page=1) · phiquadro.it, Archivio gare ufficiali 2010 (Roma Tor Vergata - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -215,14 +236,15 @@ level: squadre
 
 > Three flexible but non-elastic cords, measuring 32 cm, 35 cm, and 36 cm respectively, have one free end, while the other end is tied to a point P on the ceiling of a room, at a distance of several metres both from the floor and from the side walls. If we denote by A, B, and C the three free ends of the three cords, state what the maximum value (expressed in cm³) is that the volume of the tetrahedron with vertices at A, B, C, and P can take as the positions that the three points A, B, and C can occupy in the room vary.
 
+
 **Topic:** [[topic_geometria_solida|Solid geometry]]
+**Metodo:** [[method_estremalita|Extremal principle]], [[method_coordinate|Coordinate method]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
 **Area:** [[Geometria|Geometry]]
 
-[[Quesiti/src_squadre_2010_roma#q06|src_squadre_2010_roma__Q06]]
 
 
-
-<span class="atom-split" id="q07" data-atom="q07" data-title="Quesito 7" data-tags="topic_probabilita,topic_logica"></span>
+<span class="atom-split" id="q07" data-atom="q07" data-title="Quesito 7" data-tags="topic_probabilita,topic_logica,method_casi_conteggio,method_conteggio,skill_conteggio_sistematico"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -234,9 +256,11 @@ level: squadre
 > Nel gioco del Risiko, quando una regione attacca con 3 armate una regione difesa da un’armata sola, il combattimento si svolge nel modo seguente: l’attaccante lancia 3 dadi e il difensore ne lancia uno solo; se almeno uno dei tre dadi lanciati dall’attaccante dà un risultato strettamente maggiore di quello lanciato dal difensore, allora il difensore ha perso. Sia m/n la frazione (ridotta ai minimi termini) che rappresenta la probabilità che il difensore sia sconfitto al primo attacco. Quanto vale m?
 
 **Topic:** [[topic_probabilita|Probabilita e statistica]], [[topic_logica|Logica, giochi, strategie]]
+**Metodo:** [[method_casi_conteggio|Conteggio per casi]], [[method_conteggio|Conteggio combinatorio]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0095
-**Fonte:** apri PDF p.1 · phiquadro.it, Archivio gare ufficiali 2010 (Roma Tor Vergata - Qualificazione)
+**Fonte:** [apri PDF p.1](https://www.phiquadro.it/archivio/2010_25%20marzo%20-%20Roma.pdf#page=1) · phiquadro.it, Archivio gare ufficiali 2010 (Roma Tor Vergata - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -248,14 +272,15 @@ level: squadre
 
 > In the game of Risk, when a territory attacks with 3 armies a territory defended by a single army, the battle proceeds as follows: the attacker rolls 3 dice and the defender rolls only one; if at least one of the three dice rolled by the attacker yields a result strictly greater than that of the die rolled by the defender, then the defender has lost. Let m/n be the (reduced to lowest terms) fraction representing the probability that the defender is defeated on the first attack. What is the value of m?
 
+
 **Topic:** [[topic_probabilita|Probability and statistics]], [[topic_logica|Logic, games and strategies]]
+**Metodo:** [[method_casi_conteggio|Counting by cases]], [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]]
 **Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
-[[Quesiti/src_squadre_2010_roma#q07|src_squadre_2010_roma__Q07]]
 
 
-
-<span class="atom-split" id="q08" data-atom="q08" data-title="Quesito 8" data-tags="topic_geometria_piana"></span>
+<span class="atom-split" id="q08" data-atom="q08" data-title="Quesito 8" data-tags="topic_geometria_piana,method_coordinate,method_simmetria,skill_ragionamento_geometrico"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -269,9 +294,11 @@ level: squadre
 > Qual è la differenza (espressa in cm^2) tra l’area della zona evidenziata in grigio chiaro e quella della zona evidenziata in grigio scuro?
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_coordinate|Metodo delle coordinate]], [[method_simmetria|Sfruttamento della simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]]
 **Risposta:** 0000
-**Fonte:** apri PDF p.2 · phiquadro.it, Archivio gare ufficiali 2010 (Roma Tor Vergata - Qualificazione)
+**Fonte:** [apri PDF p.2](https://www.phiquadro.it/archivio/2010_25%20marzo%20-%20Roma.pdf#page=2) · phiquadro.it, Archivio gare ufficiali 2010 (Roma Tor Vergata - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -283,14 +310,15 @@ level: squadre
 
 > Square ABCD has a side length of 288 cm. Let E, G, I, and K be the midpoints of its sides; consider the regular octagon EFGHIJKL (see Figure 1). Finally, on diagonal BD, take point M such that BM is congruent to BA. Figure 1: What is the difference (expressed in cm²) between the area of the region highlighted in light gray and the area of the region highlighted in dark gray?
 
+
 **Topic:** [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_coordinate|Coordinate method]], [[method_simmetria|Using symmetry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
 **Area:** [[Geometria|Geometry]]
 
-[[Quesiti/src_squadre_2010_roma#q08|src_squadre_2010_roma__Q08]]
 
 
-
-<span class="atom-split" id="q09" data-atom="q09" data-title="Quesito 9" data-tags="topic_combinatoria"></span>
+<span class="atom-split" id="q09" data-atom="q09" data-title="Quesito 9" data-tags="topic_combinatoria,method_casi_conteggio,skill_conteggio_sistematico,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -310,9 +338,11 @@ level: squadre
 > per un voto.
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casi_conteggio|Conteggio per casi]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 8400
-**Fonte:** apri PDF p.2 · phiquadro.it, Archivio gare ufficiali 2010 (Roma Tor Vergata - Qualificazione)
+**Fonte:** [apri PDF p.2](https://www.phiquadro.it/archivio/2010_25%20marzo%20-%20Roma.pdf#page=2) · phiquadro.it, Archivio gare ufficiali 2010 (Roma Tor Vergata - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -328,14 +358,15 @@ level: squadre
 > 3. The total of the scores is 92.
 > Remember that two lists should be considered different if they differ in at least one name or, when the names are the same, in at least one vote.
 
+
 **Topic:** [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_casi_conteggio|Counting by cases]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]], [[skill_casework_accurato|Careful case analysis]]
 **Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
-[[Quesiti/src_squadre_2010_roma#q09|src_squadre_2010_roma__Q09]]
 
 
-
-<span class="atom-split" id="q10" data-atom="q10" data-title="Quesito 10" data-tags="topic_geometria_piana"></span>
+<span class="atom-split" id="q10" data-atom="q10" data-title="Quesito 10" data-tags="topic_geometria_piana,topic_combinatoria,method_casi_conteggio,skill_conteggio_sistematico,skill_riconoscimento_pattern"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -351,10 +382,12 @@ level: squadre
 > Dire quanti sono i triangoli equilateri aventi per vertici 3 punti di A, contando anche quelli i cui lati non sono
 > paralleli a quelli del triangolo iniziale.
 
-**Topic:** [[topic_geometria_piana|Geometria piana]]
-**Area:** [[Geometria]]
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casi_conteggio|Conteggio per casi]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Geometria]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 1001
-**Fonte:** apri PDF p.2 · phiquadro.it, Archivio gare ufficiali 2010 (Roma Tor Vergata - Qualificazione)
+**Fonte:** [apri PDF p.2](https://www.phiquadro.it/archivio/2010_25%20marzo%20-%20Roma.pdf#page=2) · phiquadro.it, Archivio gare ufficiali 2010 (Roma Tor Vergata - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -366,14 +399,15 @@ level: squadre
 
 > On each of the 3 sides of an equilateral triangle, take 10 points so as to divide each side into 11 congruent segments. For each of these points, draw lines parallel to the 2 sides of the triangle on which the point does not lie. Let A be the set consisting of the 3 vertices of the triangle and all points inside the triangle or on its boundary for which at least 2 distinct lines among those drawn earlier pass. Determine how many equilateral triangles have 3 points of A as vertices, counting also those whose sides are not parallel to the sides of the initial triangle.
 
-**Topic:** [[topic_geometria_piana|Plane geometry]]
-**Area:** [[Geometria|Geometry]]
 
-[[Quesiti/src_squadre_2010_roma#q10|src_squadre_2010_roma__Q10]]
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_casi_conteggio|Counting by cases]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]], [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Geometria|Geometry]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
 
 
-<span class="atom-split" id="q11" data-atom="q11" data-title="Quesito 11" data-tags="topic_geometria_piana,topic_probabilita"></span>
+<span class="atom-split" id="q11" data-atom="q11" data-title="Quesito 11" data-tags="topic_geometria_piana,topic_probabilita,topic_disuguaglianze,topic_aritmetica,method_disuguaglianze,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -385,10 +419,12 @@ level: squadre
 > Il perimetro di un triangolo, espresso in millimetri, è un numero intero, mentre la somma delle mediane è 3 metri.
 > Quanti diversi valori può assumere il perimetro?
 
-**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_probabilita|Probabilita e statistica]]
-**Area:** [[Geometria]], [[Combinatoria, Logica e Probabilita]]
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_probabilita|Probabilita e statistica]], [[topic_disuguaglianze|Disuguaglianze]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze classiche]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]], [[Combinatoria, Logica e Probabilita]], [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 0999
-**Fonte:** apri PDF p.2 · phiquadro.it, Archivio gare ufficiali 2010 (Roma Tor Vergata - Qualificazione)
+**Fonte:** [apri PDF p.2](https://www.phiquadro.it/archivio/2010_25%20marzo%20-%20Roma.pdf#page=2) · phiquadro.it, Archivio gare ufficiali 2010 (Roma Tor Vergata - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -400,14 +436,15 @@ level: squadre
 
 > The perimeter of a triangle, expressed in millimetres, is an integer, while the sum of the medians is 3 metres. How many different values can the perimeter take?
 
-**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_probabilita|Probability and statistics]]
-**Area:** [[Geometria|Geometry]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
-[[Quesiti/src_squadre_2010_roma#q11|src_squadre_2010_roma__Q11]]
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_probabilita|Probability and statistics]], [[topic_disuguaglianze|Inequalities]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_disuguaglianze|Classical inequalities]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Geometria|Geometry]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
 
 
-<span class="atom-split" id="q12" data-atom="q12" data-title="Quesito 12" data-tags="topic_geometria_piana"></span>
+<span class="atom-split" id="q12" data-atom="q12" data-title="Quesito 12" data-tags="topic_geometria_piana,topic_combinatoria,method_casework,skill_casework_accurato,skill_conteggio_sistematico"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -422,10 +459,12 @@ level: squadre
 > In tal modo il piano Σ viene suddiviso da queste 22 rette distinte in n regioni, limitate o illimitate. Quanti valori
 > diversi può assumere n al variare dei modi in cui vengono scelte le rette?
 
-**Topic:** [[topic_geometria_piana|Geometria piana]]
-**Area:** [[Geometria]]
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_casework_accurato|Casework accurato]], [[skill_conteggio_sistematico|Conteggio sistematico]]
+**Area:** [[Geometria]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0048
-**Fonte:** apri PDF p.2 · phiquadro.it, Archivio gare ufficiali 2010 (Roma Tor Vergata - Qualificazione)
+**Fonte:** [apri PDF p.2](https://www.phiquadro.it/archivio/2010_25%20marzo%20-%20Roma.pdf#page=2) · phiquadro.it, Archivio gare ufficiali 2010 (Roma Tor Vergata - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -437,14 +476,15 @@ level: squadre
 
 > Let line r lie in plane Σ. On Σ, 20 other lines r_1, r_2, ..., r_(20) are drawn, distinct from one another and from r, each of which is parallel to or perpendicular to r. Finally, a line s is drawn, forming an angle of 45° with r. In this way, plane Σ is divided by these 22 distinct lines into n regions, whether bounded or unbounded. How many different values can n take as the ways in which the lines are chosen vary?
 
-**Topic:** [[topic_geometria_piana|Plane geometry]]
-**Area:** [[Geometria|Geometry]]
 
-[[Quesiti/src_squadre_2010_roma#q12|src_squadre_2010_roma__Q12]]
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_casework_accurato|Careful case analysis]], [[skill_conteggio_sistematico|Systematic counting]]
+**Area:** [[Geometria|Geometry]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
 
 
-<span class="atom-split" id="q13" data-atom="q13" data-title="Quesito 13" data-tags="topic_geometria_piana"></span>
+<span class="atom-split" id="q13" data-atom="q13" data-title="Quesito 13" data-tags="topic_geometria_piana,method_coordinate,method_simmetria,skill_ragionamento_geometrico"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -458,9 +498,11 @@ level: squadre
 > Quanto misura (in cm) il segmento PH?
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_coordinate|Metodo delle coordinate]], [[method_simmetria|Sfruttamento della simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
 **Area:** [[Geometria]]
 **Risposta:** 0216
-**Fonte:** apri PDF p.3 · phiquadro.it, Archivio gare ufficiali 2010 (Roma Tor Vergata - Qualificazione)
+**Fonte:** [apri PDF p.3](https://www.phiquadro.it/archivio/2010_25%20marzo%20-%20Roma.pdf#page=3) · phiquadro.it, Archivio gare ufficiali 2010 (Roma Tor Vergata - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -472,14 +514,15 @@ level: squadre
 
 > Square ABCD has a side length of 576 cm. Let O be its center and M the midpoint of CD. Choose P such that its distance from A equals AB, its distance from O equals OM, and its distance from D is less than its distance from B (see Figure 2). Finally, let Q be the reflection of P across the line OM, and let H be the projection of P onto OQ. Figure 2 What is the length (in cm) of segment PH?
 
+
 **Topic:** [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_coordinate|Coordinate method]], [[method_simmetria|Using symmetry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
 **Area:** [[Geometria|Geometry]]
 
-[[Quesiti/src_squadre_2010_roma#q13|src_squadre_2010_roma__Q13]]
 
 
-
-<span class="atom-split" id="q14" data-atom="q14" data-title="Quesito 14" data-tags="topic_combinatoria,topic_geometria_piana"></span>
+<span class="atom-split" id="q14" data-atom="q14" data-title="Quesito 14" data-tags="topic_combinatoria,topic_geometria_piana,method_congruenze,method_grafi,skill_astrazione,skill_modellizzazione"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -497,9 +540,11 @@ level: squadre
 > tutta?
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]], [[method_grafi|Teoria dei grafi]]
+**Abilita:** [[skill_astrazione|Astrazione / generalizzazione]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 **Risposta:** 2501
-**Fonte:** apri PDF p.3 · phiquadro.it, Archivio gare ufficiali 2010 (Roma Tor Vergata - Qualificazione)
+**Fonte:** [apri PDF p.3](https://www.phiquadro.it/archivio/2010_25%20marzo%20-%20Roma.pdf#page=3) · phiquadro.it, Archivio gare ufficiali 2010 (Roma Tor Vergata - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -511,14 +556,15 @@ level: squadre
 
 > Let a square chessboard with a side of 10000 squares be given. For each integer n with n ≥ 1, we will call an n-knight a piece that moves by jumping from one square to another such that the starting square and the destination square are related by the following condition: the smallest rectangle whose sides are parallel to the sides of the chessboard and which contains both squares has sides of length 2 and n (it does not matter which of the two sides is vertical and which is horizontal). For example, the knight in the game of chess is a 3-knight. How many values of n are there for which the n-knight, starting from a corner square of the chessboard, can cover the entire board?
 
+
 **Topic:** [[topic_combinatoria|Combinatorics]], [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_congruenze|Modular arithmetic / congruences]], [[method_grafi|Graph theory]]
+**Abilita:** [[skill_astrazione|Abstraction / generalisation]], [[skill_modellizzazione|Modelling / translating the text]]
 **Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Geometria|Geometry]]
 
-[[Quesiti/src_squadre_2010_roma#q14|src_squadre_2010_roma__Q14]]
 
 
-
-<span class="atom-split" id="q15" data-atom="q15" data-title="Quesito 15" data-tags="topic_geometria_solida,topic_geometria_piana"></span>
+<span class="atom-split" id="q15" data-atom="q15" data-title="Quesito 15" data-tags="topic_geometria_solida,topic_geometria_piana,method_simmetria,skill_ragionamento_geometrico,skill_riconoscimento_pattern"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -530,9 +576,11 @@ level: squadre
 > È data una piramide irregolare P avente per base il quadrilatero convesso ABCD e per vertice V. Sappiamo inoltre che esiste una sfera contenuta in P e tangente a tutte le sue 5 facce e conosciamo le misure degli angoli al vertice di 3 delle 4 facce laterali: ∠AVB = 33°11′, ∠BVC = 24°32′ e ∠CVD = 35°38′. Dire qual è la misura dell’angolo ∠DVA espressa in primi. (se si ritiene che il problema sia impossibile indicare come risposta 0, se invece si ritiene che la misura di ∠DVA non sia univocamente determinata, indicare come risposta 9999)
 
 **Topic:** [[topic_geometria_solida|Geometria solida]], [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_simmetria|Sfruttamento della simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
 **Area:** [[Geometria]]
 **Risposta:** 2657
-**Fonte:** apri PDF p.3 · phiquadro.it, Archivio gare ufficiali 2010 (Roma Tor Vergata - Qualificazione)
+**Fonte:** [apri PDF p.3](https://www.phiquadro.it/archivio/2010_25%20marzo%20-%20Roma.pdf#page=3) · phiquadro.it, Archivio gare ufficiali 2010 (Roma Tor Vergata - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -544,14 +592,15 @@ level: squadre
 
 > An irregular pyramid P is given, with the convex quadrilateral ABCD as its base and V as its apex. We further know that there exists a sphere contained within P and tangent to all of its 5 faces, and we know the measures of the vertex angles of 3 of the 4 lateral faces: ∠AVB = 33°11′, ∠BVC = 24°32′, and ∠CVD = 35°38′. State the measure of ∠DVA, expressed in arcminutes. (If the problem is considered impossible, give 0 as the answer; if, on the other hand, the measure of ∠DVA is considered not to be uniquely determined, give 9999 as the answer)
 
+
 **Topic:** [[topic_geometria_solida|Solid geometry]], [[topic_geometria_piana|Plane geometry]]
+**Metodo:** [[method_simmetria|Using symmetry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_riconoscimento_pattern|Pattern recognition]]
 **Area:** [[Geometria|Geometry]]
 
-[[Quesiti/src_squadre_2010_roma#q15|src_squadre_2010_roma__Q15]]
 
 
-
-<span class="atom-split" id="q16" data-atom="q16" data-title="Quesito 16" data-tags=""></span>
+<span class="atom-split" id="q16" data-atom="q16" data-title="Quesito 16" data-tags="topic_combinatoria,method_conteggio,skill_conteggio_sistematico,skill_modellizzazione"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -562,8 +611,12 @@ level: squadre
 
 > Una classe è composta da 10 alunni: 4 ragazze e 6 ragazzi. I ragazzi sono tutti amici tra di loro e anche con ciascuna delle ragazze. Le ragazze invece, pur essendo amiche dei ragazzi, si odiano tutte tra loro. All’ora di pranzo si mettono in fila nella mensa della scuola (che è costituita da quell’unica classe). Sia N il numero di modi diversi in cui possono mettersi in fila, in modo che due persone che si odiano non siano mai vicine tra loro. Dire quanto vale N/100.
 
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_conteggio|Conteggio combinatorio]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 6048
-**Fonte:** apri PDF p.3 · phiquadro.it, Archivio gare ufficiali 2010 (Roma Tor Vergata - Qualificazione)
+**Fonte:** [apri PDF p.3](https://www.phiquadro.it/archivio/2010_25%20marzo%20-%20Roma.pdf#page=3) · phiquadro.it, Archivio gare ufficiali 2010 (Roma Tor Vergata - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -575,11 +628,14 @@ level: squadre
 
 > A class consists of 10 students: 4 girls and 6 boys. The boys are all friends with one another and also with each of the girls. The girls, however, although they are friends with the boys, all hate one another. At lunchtime, they line up in the school cafeteria (which serves only that one class). Let N be the number of different ways in which they can line up so that two people who hate each other are never next to each other. State the value of N/100.
 
-[[Quesiti/src_squadre_2010_roma#q16|src_squadre_2010_roma__Q16]]
+**Topic:** [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_conteggio_sistematico|Systematic counting]], [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
 
 
-<span class="atom-split" id="q17" data-atom="q17" data-title="Quesito 17" data-tags="topic_geometria_piana"></span>
+<span class="atom-split" id="q17" data-atom="q17" data-title="Quesito 17" data-tags="topic_geometria_piana,topic_combinatoria,method_casi_conteggio,method_conteggio,skill_ragionamento_geometrico,skill_riconoscimento_pattern"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -593,10 +649,12 @@ level: squadre
 > 2. nel piano su cui giace il triangolo, esiste un punto K dal quale i tre lati del triangolo sono visti tutti sotto lo stesso angolo.
 > (Si ricordi che un segmento AB è visto sotto un angolo α dal punto K, distinto da A e B, se l’angolo convesso ∠AKB è congruente ad α)
 
-**Topic:** [[topic_geometria_piana|Geometria piana]]
-**Area:** [[Geometria]]
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casi_conteggio|Conteggio per casi]], [[method_conteggio|Conteggio combinatorio]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Geometria]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 0148
-**Fonte:** apri PDF p.3 · phiquadro.it, Archivio gare ufficiali 2010 (Roma Tor Vergata - Qualificazione)
+**Fonte:** [apri PDF p.3](https://www.phiquadro.it/archivio/2010_25%20marzo%20-%20Roma.pdf#page=3) · phiquadro.it, Archivio gare ufficiali 2010 (Roma Tor Vergata - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -611,14 +669,15 @@ level: squadre
 > 2. In the plane in which the triangle lies, there exists a point K from which all three sides of the triangle are seen at the same angle.
 > (Recall that segment AB is viewed from point K—a point distinct from A and B—under angle α if the convex angle ∠AKB is congruent to α.)
 
-**Topic:** [[topic_geometria_piana|Plane geometry]]
-**Area:** [[Geometria|Geometry]]
 
-[[Quesiti/src_squadre_2010_roma#q17|src_squadre_2010_roma__Q17]]
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_casi_conteggio|Counting by cases]], [[method_conteggio|Combinatorial counting]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Geometria|Geometry]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
 
 
-<span class="atom-split" id="q18" data-atom="q18" data-title="Quesito 18" data-tags="topic_geometria_solida"></span>
+<span class="atom-split" id="q18" data-atom="q18" data-title="Quesito 18" data-tags="topic_geometria_solida,method_coordinate,method_simmetria,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -633,9 +692,11 @@ level: squadre
 > segmento DP?
 
 **Topic:** [[topic_geometria_solida|Geometria solida]]
+**Metodo:** [[method_coordinate|Metodo delle coordinate]], [[method_simmetria|Sfruttamento della simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 **Risposta:** 0195
-**Fonte:** apri PDF p.3 · phiquadro.it, Archivio gare ufficiali 2010 (Roma Tor Vergata - Qualificazione)
+**Fonte:** [apri PDF p.3](https://www.phiquadro.it/archivio/2010_25%20marzo%20-%20Roma.pdf#page=3) · phiquadro.it, Archivio gare ufficiali 2010 (Roma Tor Vergata - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -647,14 +708,15 @@ level: squadre
 
 > For the tetrahedron with vertices A, B, C, and D, the lengths of the 6 edges are known: AB = BC = CA = 21 m and DA = DB = DC = 12.4 m. Let M be the midpoint of edge AB and N the centroid of face ACD; let P be the intersection point of segment BN with the plane passing through points D, C, and M. What is the length (in cm) of segment DP?
 
+
 **Topic:** [[topic_geometria_solida|Solid geometry]]
+**Metodo:** [[method_coordinate|Coordinate method]], [[method_simmetria|Using symmetry]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
 **Area:** [[Geometria|Geometry]]
 
-[[Quesiti/src_squadre_2010_roma#q18|src_squadre_2010_roma__Q18]]
 
 
-
-<span class="atom-split" id="q19" data-atom="q19" data-title="Quesito 19" data-tags="topic_geometria_piana"></span>
+<span class="atom-split" id="q19" data-atom="q19" data-title="Quesito 19" data-tags="topic_geometria_piana,topic_geometria_solida,method_estremalita,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -669,10 +731,12 @@ level: squadre
 > libere delle tre corde, dire qual è il massimo valore (espresso in cm^2) che può assumere l’area del triangolo ABC,
 > al variare delle posizioni che i tre punti A, B e C possono occupare nella stanza.
 
-**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_geometria_solida|Geometria solida]]
+**Metodo:** [[method_estremalita|Principio di estremalita]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Geometria]]
 **Risposta:** 8640
-**Fonte:** apri PDF p.4 · phiquadro.it, Archivio gare ufficiali 2010 (Roma Tor Vergata - Qualificazione)
+**Fonte:** [apri PDF p.4](https://www.phiquadro.it/archivio/2010_25%20marzo%20-%20Roma.pdf#page=4) · phiquadro.it, Archivio gare ufficiali 2010 (Roma Tor Vergata - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -684,14 +748,15 @@ level: squadre
 
 > Three flexible but non-elastic cords are given; two of them measure 65 cm, while the third measures 119 cm. All three cords have one free end, while the other end is tied to a point P on the ceiling of a room, several metres away from both the floor and the side walls. If we denote by A, B, and C the three free ends of the three cords, state what the maximum value (expressed in cm²) that the area of triangle ABC can take is, as the positions that the three points A, B, and C can occupy in the room vary.
 
-**Topic:** [[topic_geometria_piana|Plane geometry]]
+
+**Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_geometria_solida|Solid geometry]]
+**Metodo:** [[method_estremalita|Extremal principle]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
 **Area:** [[Geometria|Geometry]]
 
-[[Quesiti/src_squadre_2010_roma#q19|src_squadre_2010_roma__Q19]]
 
 
-
-<span class="atom-split" id="q20" data-atom="q20" data-title="Quesito 20" data-tags="topic_algebra"></span>
+<span class="atom-split" id="q20" data-atom="q20" data-title="Quesito 20" data-tags="topic_algebra,topic_disuguaglianze,method_disuguaglianze,method_estremalita,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -704,10 +769,12 @@ level: squadre
 > a^n b^(12) ≤ (a^(90) + b^(72)) · (a^(30) + b^(40))
 > per tutti i valori reali e positivi di a e b tali che a^2 + b^2 ≤ 1?
 
-**Topic:** [[topic_algebra|Algebra]]
+**Topic:** [[topic_algebra|Algebra]], [[topic_disuguaglianze|Disuguaglianze]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze classiche]], [[method_estremalita|Principio di estremalita]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Algebra e Analisi]]
 **Risposta:** 0105
-**Fonte:** apri PDF p.4 · phiquadro.it, Archivio gare ufficiali 2010 (Roma Tor Vergata - Qualificazione)
+**Fonte:** [apri PDF p.4](https://www.phiquadro.it/archivio/2010_25%20marzo%20-%20Roma.pdf#page=4) · phiquadro.it, Archivio gare ufficiali 2010 (Roma Tor Vergata - Qualificazione)
 
 
 <div class="qlang-split" data-lang="en"></div>
@@ -719,7 +786,8 @@ level: squadre
 
 > What is the smallest positive integer value of n for which the inequality a^n b^(12) ≤ (a^(90) + b^(72)) · (a^(30) + b^(40)) holds for all positive real values of a and b such that a^2 + b^2 ≤ 1?
 
-**Topic:** [[topic_algebra|Algebra]]
-**Area:** [[Algebra e Analisi|Algebra and analysis]]
 
-[[Quesiti/src_squadre_2010_roma#q20|src_squadre_2010_roma__Q20]]
+**Topic:** [[topic_algebra|Algebra]], [[topic_disuguaglianze|Inequalities]]
+**Metodo:** [[method_disuguaglianze|Classical inequalities]], [[method_estremalita|Extremal principle]]
+**Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]

@@ -12,9 +12,6 @@ level: Concours Général
 
 <span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_geometria_piana,method_trigonometria,method_simmetria,skill_ragionamento_geometrico,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
 
-<div class="qlang-switch" data-default="en"></div>
-
-
 *A family of equal mutually tangent circles aligned along a half-line; tangent line cuts the circles, chord lengths and a collinearity*
 
 > A family of tangent circles.
@@ -39,7 +36,7 @@ level: Concours Général
 >    b. Show that, in order for $L(n,k)$ to be rational, it is necessary and sufficient that the following condition be satisfied:
 >    $(C_1)$: there exists $a \in \mathbb{N}$ such that $n(n-1) - k(k-1) = 4a^2$.
 
-![[src_cgen_2004__q01.png]]
+![[src_cgen_2004__Q01.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_trigonometria|Trigonometria]], [[method_simmetria|Simmetria]]
@@ -48,8 +45,20 @@ level: Concours Général
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1GYnce5EmWqMqVpZOqscNSNU2tjo9pAh2/view)
 
 
-<div class="qlang-split" data-lang="it"></div>
 
+<span class="atom-split" id="q01__it" data-atom="q01__it" data-title="Q01__IT" data-tags=""></span>
+
+---
+tipo: quesito-translation
+translation_of: src_cgen_2004__Q01
+lang: it
+secondary: true
+title: "Concours Général des Lycées 2004  Matematica  Quesito 1"
+summary: "Una famiglia di cerchi reciprocamente tangenti uguali allineati lungo una mezza linea; la linea tangente taglia i cerchi, le lunghezze degli accordi e una collinearità"
+topics: [topic_geometria_piana]
+methods: [method_trigonometria, method_simmetria]
+skills: [skill_ragionamento_geometrico, skill_manipolazione_algebrica, skill_lettura_attenta]
+tags: [kg/translation, topic/geometria_piana]---
 
 *Una famiglia di cerchi reciprocamente tangenti uguali allineati lungo una semilinea; la linea tangente taglia i cerchi, le lunghezze degli accordi e una collinearità*
 
@@ -73,13 +82,17 @@ level: Concours Général
 > 
 > b. Mostrare che, per rendere razionale il $L(n,k)$, è necessario e sufficiente soddisfare la seguente condizione: $(C_1)$: esiste un $a \in \mathbb{N}$ tale che $n(n-1) - k(k-1) = 4a^2$.
 
-![[src_cgen_2004__q01.png]]
+![[src_cgen_2004__Q01.png]]
 
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_trigonometria|Tecniche trigonometriche]], [[method_simmetria|Sfruttamento della simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta del testo]]
+**Area:** [[Geometria]]
 [[Quesiti/src_cgen_2004#q01|src_cgen_2004__Q01]]
 
 
 
-<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_geometria_analitica,topic_geometria_solida,method_coordinate,method_simmetria,skill_ragionamento_geometrico,skill_manipolazione_algebrica,skill_astrazione"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_geometria_analitica,topic_geometria_solida,topic_aritmetica,method_coordinate,method_simmetria,method_fattorizzazione,skill_ragionamento_geometrico,skill_manipolazione_algebrica,skill_astrazione"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -99,12 +112,12 @@ level: Concours Général
 > 
 > 4. Let $n$ be an integer strictly greater than $2$ and $k$ an integer such that $1 \le k \le n-1$. Show that $L(n,k)$ is rational if, and only if, the points of $\Sigma$ of abscissa $n$ and ordinate $k$ have an integer cote.
 
-![[src_cgen_2004__q02.png]]
+![[src_cgen_2004__Q02.png]]
 
-**Topic:** [[topic_geometria_analitica|Geometria analitica]], [[topic_geometria_solida|Geometria solida]]
-**Metodo:** [[method_coordinate|Coordinate]], [[method_simmetria|Simmetria]]
+**Topic:** [[topic_geometria_analitica|Geometria analitica]], [[topic_geometria_solida|Geometria solida]], [[topic_aritmetica|Arithmetic / Number theory]]
+**Metodo:** [[method_coordinate|Coordinate]], [[method_simmetria|Simmetria]], [[method_fattorizzazione|Factorisation / algebraic manipulation]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione]]
-**Area:** [[Geometria]]
+**Area:** [[Geometria|Geometry]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1GYnce5EmWqMqVpZOqscNSNU2tjo9pAh2/view)
 
 
@@ -125,13 +138,16 @@ level: Concours Général
 > 
 > 4. Se $n$ è un numero intero strettamente superiore a $2$ e $k$ è un numero intero tale che $1 \le k \le n-1$. Indicare che $L(n,k)$ è razionale se, e solo se, i punti di $\Sigma$ dell'abcissa $n$ e ordinate $k$ hanno un numero intero.
 
-![[src_cgen_2004__q02.png]]
+![[src_cgen_2004__Q02.png]]
 
-[[Quesiti/src_cgen_2004#q02|src_cgen_2004__Q02]]
+**Topic:** [[topic_geometria_analitica|Geometria analitica]], [[topic_geometria_solida|Geometria solida]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_coordinate|Metodo delle coordinate]], [[method_simmetria|Sfruttamento della simmetria]], [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_astrazione|Astrazione / generalizzazione]]
+**Area:** [[Geometria]], [[Aritmetica e Teoria dei Numeri]]
 
 
 
-<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_algebra,topic_insiemi_funzioni,topic_disuguaglianze,method_disuguaglianze,method_trigonometria,skill_manipolazione_algebrica,skill_stima,skill_lettura_attenta"></span>
+<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_algebra,topic_insiemi_funzioni,topic_disuguaglianze,topic_geometria_piana,method_disuguaglianze,method_trigonometria,skill_manipolazione_algebrica,skill_stima,skill_lettura_attenta,skill_ragionamento_geometrico"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -156,10 +172,10 @@ level: Concours Général
 > 
 > 3. Demonstrate, from the results of questions 1 and 2 above, that the sequence $(\lambda_n)$ is convergent and calculate its limit.
 
-**Topic:** [[topic_algebra|Algebra]], [[topic_insiemi_funzioni|Insiemi e funzioni]], [[topic_disuguaglianze|Disuguaglianze]]
+**Topic:** [[topic_algebra|Algebra]], [[topic_insiemi_funzioni|Insiemi e funzioni]], [[topic_disuguaglianze|Disuguaglianze]], [[topic_geometria_piana|Plane geometry]]
 **Metodo:** [[method_disuguaglianze|Disuguaglianze]], [[method_trigonometria|Trigonometria]]
-**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]], [[skill_lettura_attenta|Lettura attenta]]
-**Area:** [[Algebra e Analisi]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]], [[skill_lettura_attenta|Lettura attenta]], [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Geometria|Geometry]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1GYnce5EmWqMqVpZOqscNSNU2tjo9pAh2/view)
 
 
@@ -178,11 +194,14 @@ level: Concours Général
 > 
 > 3. Dimostrare, a partire dai risultati delle domande 1 e 2, che la sequenza $(\lambda_n)$ è convergente e calcolare il suo limite.
 
-[[Quesiti/src_cgen_2004#q03|src_cgen_2004__Q03]]
+**Topic:** [[topic_algebra|Algebra]], [[topic_insiemi_funzioni|Insiemi e funzioni]], [[topic_disuguaglianze|Disuguaglianze]], [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze classiche]], [[method_trigonometria|Tecniche trigonometriche]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima e approssimazione]], [[skill_lettura_attenta|Lettura attenta del testo]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Algebra e Analisi]], [[Geometria]]
 
 
 
-<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_aritmetica,topic_algebra,method_fattorizzazione,method_congruenze,method_casework,skill_manipolazione_algebrica,skill_casework_accurato,skill_lettura_attenta"></span>
+<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_aritmetica,topic_algebra,method_fattorizzazione,method_congruenze,method_casework,skill_manipolazione_algebrica,skill_casework_accurato,skill_lettura_attenta,skill_riconoscimento_pattern"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -202,8 +221,8 @@ level: Concours Général
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
 **Metodo:** [[method_fattorizzazione|Fattorizzazione]], [[method_congruenze|Congruenze]], [[method_casework|Casework]]
-**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Casework accurato]], [[skill_lettura_attenta|Lettura attenta]]
-**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Casework accurato]], [[skill_lettura_attenta|Lettura attenta]], [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Algebra e Analisi|Algebra and analysis]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1GYnce5EmWqMqVpZOqscNSNU2tjo9pAh2/view)
 
 
@@ -222,11 +241,14 @@ level: Concours Général
 > 
 > 3. Consideriamo un paio di $(p,q)$ di integri naturali dispari, coprimo, come $q < p$ e verificando la condizione $(C_2)$. Mostrare che esistono due integri naturali $u$ e $v$ di parità diverse come $p = u^2 + v^2$ e $q = u^2 - v^2$. Calcolare quindi, come funzione di $u$ e $v$, il valore dell'intero numero $a$ che interviene nella condizione $(C_2)$.
 
-[[Quesiti/src_cgen_2004#q04|src_cgen_2004__Q04]]
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]], [[method_congruenze|Aritmetica modulare / congruenze]], [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Casework accurato]], [[skill_lettura_attenta|Lettura attenta del testo]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 
 
 
-<span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_aritmetica,topic_combinatoria,method_invarianti,method_casework,method_ricorsione,method_congruenze,skill_riconoscimento_pattern,skill_casework_accurato,skill_conteggio_sistematico,skill_astrazione"></span>
+<span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_aritmetica,topic_combinatoria,method_invarianti,method_casework,method_ricorsione,method_congruenze,skill_riconoscimento_pattern,skill_casework_accurato,skill_conteggio_sistematico,skill_astrazione,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -274,8 +296,8 @@ level: Concours Général
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_invarianti|Invarianti]], [[method_casework|Casework]], [[method_ricorsione|Ricorsione]], [[method_congruenze|Congruenze]]
-**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_casework_accurato|Casework accurato]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_astrazione|Astrazione]]
-**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_casework_accurato|Casework accurato]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_astrazione|Astrazione]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1GYnce5EmWqMqVpZOqscNSNU2tjo9pAh2/view)
 
 
@@ -304,14 +326,14 @@ level: Concours Général
 > 
 > 5. a. Deduci dalle domande precedenti un algoritmo che consente di decomporre $p$ come somma di due quadrati. b. Date il numero primo più piccolo superiore a $40$ che è la somma di due quadrati e, con l'aiuto di questo algoritmo, specificate una sua decomposizione (indicheremo i triplici calcolati ai diversi passaggi dell'iterazione).
 
-[[Quesiti/src_cgen_2004#q05|src_cgen_2004__Q05]]
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_invarianti|Invarianti / monovarianti]], [[method_casework|Analisi per casi]], [[method_ricorsione|Ricorsione]], [[method_congruenze|Aritmetica modulare / congruenze]]
+**Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_casework_accurato|Casework accurato]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_astrazione|Astrazione / generalizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 
 
 
 <span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_aritmetica,topic_algebra,method_induzione,method_congruenze,method_fattorizzazione,skill_manipolazione_algebrica,skill_riconoscimento_pattern,skill_casework_accurato,skill_lettura_attenta"></span>
-
-<div class="qlang-switch" data-default="en"></div>
-
 
 *Return to the initial problem: product of sums of two squares, induction that every prime dividing n^2+1 is a sum of two squares, infinitude, and rationality of L(n,k)*
 
@@ -345,8 +367,20 @@ level: Concours Général
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1GYnce5EmWqMqVpZOqscNSNU2tjo9pAh2/view)
 
 
-<div class="qlang-split" data-lang="it"></div>
 
+<span class="atom-split" id="q06__it" data-atom="q06__it" data-title="Q06__IT" data-tags=""></span>
+
+---
+tipo: quesito-translation
+translation_of: src_cgen_2004__Q06
+lang: it
+secondary: true
+title: "Concours Général des Lycées 2004  Matematica  Quesito 6"
+summary: "Torna al problema iniziale: prodotto delle somme di due quadrati, induzione che ogni primo divisore n^2+1 è la somma di due quadrati, infinità e razionalità di L ((n,k)"
+topics: [topic_aritmetica, topic_algebra]
+methods: [method_induzione, method_congruenze, method_fattorizzazione]
+skills: [skill_manipolazione_algebrica, skill_riconoscimento_pattern, skill_casework_accurato, skill_lettura_attenta]
+tags: [kg/translation, topic/aritmetica, topic/algebra]---
 
 *Ritorno al problema iniziale: prodotto delle somme di due quadrati, induzione che ogni divisore primo n^2+1 è la somma di due quadrati, infinità, e razionalità di L(n,k)*
 
@@ -360,4 +394,8 @@ level: Concours Général
 > 
 > 4. a. Mostrare che esiste un'infinità di coppie di integri $(n,k)$ con $1 \le k < n$ tale che $L(n,k)$ sia razionale. b. Determinare un numero intero $n$ in modo tale che esistano diversi valori di $k$ per i quali $L(n,k)$ è razionale.
 
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_induzione|Induzione]], [[method_congruenze|Aritmetica modulare / congruenze]], [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_casework_accurato|Casework accurato]], [[skill_lettura_attenta|Lettura attenta del testo]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 [[Quesiti/src_cgen_2004#q06|src_cgen_2004__Q06]]

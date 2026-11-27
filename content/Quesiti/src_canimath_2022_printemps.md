@@ -10,7 +10,7 @@ level: Coupe Animath Printemps
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_algebra,topic_aritmetica,method_fattorizzazione,skill_manipolazione_algebrica"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_algebra,topic_aritmetica,method_fattorizzazione,skill_manipolazione_algebrica,skill_riconoscimento_pattern"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -24,8 +24,8 @@ level: Coupe Animath Printemps
 
 **Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_fattorizzazione|Fattorizzazione]]
-**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
-**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Risposta:** 16
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1JCUYNveC9eDz1N6KGxj-7IG8GknR0feV/view)
 
@@ -39,12 +39,15 @@ level: Coupe Animath Printemps
 > 
 > Qui si aspetta solo una risposta numerica.
 
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 16
-[[Quesiti/src_canimath_2022_printemps#q01|src_canimath_2022_printemps__Q01]]
 
 
 
-<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_geometria_piana,method_trigonometria,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_geometria_piana,topic_trigonometria,method_trigonometria,method_simmetria,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -53,10 +56,10 @@ level: Coupe Animath Printemps
 
 > Let $AMC$ be a triangle isosceles at $M$ and such that the angle $\widehat{AMC}$ is acute. Let $B$ be the symmetric of point $A$ with respect to point $M$, and let $H$ be the foot of the altitude from vertex $C$ in triangle $ABC$. Suppose that $AH = HM$. Calculate the values of the three angles of triangle $ABC$.
 
-**Topic:** [[topic_geometria_piana|Geometria piana]]
-**Metodo:** [[method_trigonometria|Trigonometria]]
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometry]]
+**Metodo:** [[method_trigonometria|Trigonometria]], [[method_simmetria|Using symmetry]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
-**Area:** [[Geometria]]
+**Area:** [[Geometria|Geometry]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1JCUYNveC9eDz1N6KGxj-7IG8GknR0feV/view)
 
 
@@ -67,11 +70,14 @@ level: Coupe Animath Printemps
 
 > Il $AMC$ deve essere un triangolo a uguale scala a $M$ e tale che l'angolo $\widehat{AMC}$ sia acuto. $B$ sia simmetrica del punto $A$ rispetto al punto $M$, e $H$ sia il piede dell'altitudine dal vertice $C$ nel triangolo $ABC$. Supponiamo che $AH = HM$. Calcolare i valori dei tre angoli del triangolo $ABC$.
 
-[[Quesiti/src_canimath_2022_printemps#q02|src_canimath_2022_printemps__Q02]]
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometria]]
+**Metodo:** [[method_trigonometria|Tecniche trigonometriche]], [[method_simmetria|Sfruttamento della simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
 
 
 
-<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_combinatoria,topic_aritmetica,method_estremalita,method_casework,skill_conteggio_sistematico,skill_modellizzazione"></span>
+<span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_combinatoria,topic_aritmetica,method_estremalita,method_casework,skill_conteggio_sistematico,skill_modellizzazione,skill_riconoscimento_pattern"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -86,8 +92,8 @@ level: Coupe Animath Printemps
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_estremalita|Estremalità]], [[method_casework|Casework]]
-**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione]]
-**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione]], [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1JCUYNveC9eDz1N6KGxj-7IG8GknR0feV/view)
 
 
@@ -102,14 +108,14 @@ level: Coupe Animath Printemps
 > 
 > 2) Indicare una configurazione di venti edifici per i quali ci sono esattamente sei edifici interessanti e per i quali la somma del numero di piani è esattamente $27$.
 
-[[Quesiti/src_canimath_2022_printemps#q03|src_canimath_2022_printemps__Q03]]
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_estremalita|Principio di estremalita]], [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_geometria_piana,method_simmetria,skill_ragionamento_geometrico"></span>
-
-<div class="qlang-switch" data-default="en"></div>
-
 
 *Triangle with two equal-length points on the longest side, prove an angle identity*
 
@@ -123,18 +129,34 @@ level: Coupe Animath Printemps
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1JCUYNveC9eDz1N6KGxj-7IG8GknR0feV/view)
 
 
-<div class="qlang-split" data-lang="it"></div>
 
+<span class="atom-split" id="q04__it" data-atom="q04__it" data-title="Q04__IT" data-tags=""></span>
+
+---
+tipo: quesito-translation
+translation_of: src_canimath_2022_printemps__Q04
+lang: it
+secondary: true
+title: "Coupe Animath Primavera 2022  Quesito 4"
+summary: "Triangolo con due punti di uguale lunghezza sul lato più lungo, dimostrare un'identità angolare"
+topics: [topic_geometria_piana]
+methods: [method_simmetria]
+skills: [skill_ragionamento_geometrico]
+tags: [kg/translation, topic/geometria_piana]---
 
 *Triangolo con due punti di lunghezza uguale sul lato più lungo, dimostrare un'identità angolare*
 
 > Si deve $ABC$ essere un triangolo in cui $BC > AB$ e $BC > AC$. Il punto $P$ deve essere il punto del segmento $[BC]$ in modo tale che $AB = BP$, e il punto $Q$ deve essere il punto del segmento $[BC]$ in modo tale che $AC = CQ$. Indicare che $$\widehat{BAC} + 2\widehat{PAQ} = 180^\circ.$$
 
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_simmetria|Sfruttamento della simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Geometria]]
 [[Quesiti/src_canimath_2022_printemps#q04|src_canimath_2022_printemps__Q04]]
 
 
 
-<span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_combinatoria,topic_aritmetica,method_casework,method_conteggio,skill_conteggio_sistematico,skill_lettura_attenta,skill_manipolazione_algebrica"></span>
+<span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_combinatoria,topic_aritmetica,method_casework,method_conteggio,skill_conteggio_sistematico,skill_lettura_attenta,skill_manipolazione_algebrica,skill_riconoscimento_pattern"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -149,8 +171,8 @@ level: Coupe Animath Printemps
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_casework|Casework]], [[method_conteggio|Conteggio]]
-**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
-**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1JCUYNveC9eDz1N6KGxj-7IG8GknR0feV/view)
 
 
@@ -165,11 +187,14 @@ level: Coupe Animath Printemps
 > 
 > Un quadrato perfetto è un numero intero della forma $n^2$, dove $n$ è un numero naturale.
 
-[[Quesiti/src_canimath_2022_printemps#q05|src_canimath_2022_printemps__Q05]]
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Analisi per casi]], [[method_conteggio|Conteggio combinatorio]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta del testo]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 
 
 
-<span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_algebra,method_simmetria,method_fattorizzazione,skill_manipolazione_algebrica,skill_riconoscimento_pattern"></span>
+<span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_algebra,method_simmetria,method_fattorizzazione,method_casework,skill_manipolazione_algebrica,skill_riconoscimento_pattern,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -180,9 +205,9 @@ level: Coupe Animath Printemps
 > $$a^2 + b = c^2, \quad b^2 + c = a^2, \quad c^2 + a = b^2.$$
 
 **Topic:** [[topic_algebra|Algebra]]
-**Metodo:** [[method_simmetria|Simmetria]], [[method_fattorizzazione|Fattorizzazione]]
-**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
-**Area:** [[Algebra e Analisi]]
+**Metodo:** [[method_simmetria|Simmetria]], [[method_fattorizzazione|Fattorizzazione]], [[method_casework|Case analysis]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1JCUYNveC9eDz1N6KGxj-7IG8GknR0feV/view)
 
 
@@ -193,11 +218,14 @@ level: Coupe Animath Printemps
 
 > Determinare tutti i triples di numeri reali $(a, b, c)$ che soddisfano le tre equazioni $$a^2 + b = c^2, \quad b^2 + c = a^2, \quad c^2 + a = b^2.$$
 
-[[Quesiti/src_canimath_2022_printemps#q06|src_canimath_2022_printemps__Q06]]
+**Topic:** [[topic_algebra|Algebra]]
+**Metodo:** [[method_simmetria|Sfruttamento della simmetria]], [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]], [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Algebra e Analisi]]
 
 
 
-<span class="atom-split" id="q07" data-atom="q07" data-title="Quesito 7" data-tags="topic_combinatoria,topic_geometria_piana,method_colorazione,method_casework,skill_ragionamento_geometrico,skill_astrazione,skill_lettura_attenta"></span>
+<span class="atom-split" id="q07" data-atom="q07" data-title="Quesito 7" data-tags="topic_combinatoria,topic_geometria_piana,method_colorazione,method_casework,skill_ragionamento_geometrico,skill_astrazione,skill_lettura_attenta,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -208,8 +236,8 @@ level: Coupe Animath Printemps
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_colorazione|Colorazione]], [[method_casework|Casework]]
-**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_astrazione|Astrazione]], [[skill_lettura_attenta|Lettura attenta]]
-**Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_astrazione|Astrazione]], [[skill_lettura_attenta|Lettura attenta]], [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Geometria|Geometry]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1JCUYNveC9eDz1N6KGxj-7IG8GknR0feV/view)
 
 
@@ -220,14 +248,14 @@ level: Coupe Animath Printemps
 
 > Ogni punto del piano è colorato con uno dei tre colori blu, verde o rosso. Per ogni colore, supponiamo che ci sia almeno un punto del piano colorato con quel colore. Mostrare che esiste un triangolo rettangolo le cui tre vertici sono di coppie di colori diversi.
 
-[[Quesiti/src_canimath_2022_printemps#q07|src_canimath_2022_printemps__Q07]]
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_colorazione|Colorazione / parita]], [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_astrazione|Astrazione / generalizzazione]], [[skill_lettura_attenta|Lettura attenta del testo]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 
 
 
 <span class="atom-split" id="q08" data-atom="q08" data-title="Quesito 8" data-tags="topic_algebra,topic_aritmetica,method_fattorizzazione,method_casework,skill_manipolazione_algebrica,skill_modellizzazione,skill_lettura_attenta"></span>
-
-<div class="qlang-switch" data-default="en"></div>
-
 
 *Diamonds and crystals treasure split in half; find the initial total diamond value*
 
@@ -242,8 +270,20 @@ level: Coupe Animath Printemps
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1JCUYNveC9eDz1N6KGxj-7IG8GknR0feV/view)
 
 
-<div class="qlang-split" data-lang="it"></div>
 
+<span class="atom-split" id="q08__it" data-atom="q08__it" data-title="Q08__IT" data-tags=""></span>
+
+---
+tipo: quesito-translation
+translation_of: src_canimath_2022_printemps__Q08
+lang: it
+secondary: true
+title: "Coupe Animath Primavera 2022  Quesito 8"
+summary: "Tesoro di diamanti e cristalli diviso a metà; trovare il valore totale iniziale del diamante"
+topics: [topic_algebra, topic_aritmetica]
+methods: [method_fattorizzazione, method_casework]
+skills: [skill_manipolazione_algebrica, skill_modellizzazione, skill_lettura_attenta]
+tags: [kg/translation, topic/algebra, topic/aritmetica]---
 
 *Tesouro di diamanti e cristalli diviso a metà; trovare il valore totale iniziale di diamanti*
 
@@ -251,11 +291,15 @@ level: Coupe Animath Printemps
 > 
 > Qui si aspetta solo una risposta numerica.
 
+**Topic:** [[topic_algebra|Algebra]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]], [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_lettura_attenta|Lettura attenta del testo]]
+**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
 [[Quesiti/src_canimath_2022_printemps#q08|src_canimath_2022_printemps__Q08]]
 
 
 
-<span class="atom-split" id="q09" data-atom="q09" data-title="Quesito 9" data-tags="topic_geometria_piana,method_trigonometria,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
+<span class="atom-split" id="q09" data-atom="q09" data-title="Quesito 9" data-tags="topic_geometria_piana,method_trigonometria,method_simmetria,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -265,9 +309,9 @@ level: Coupe Animath Printemps
 > Let $AMC$ be a triangle isosceles at $M$ and such that the angle $\widehat{AMC}$ is acute. Let $B$ be the symmetric of point $A$ with respect to point $M$, and let $H$ be the foot of the altitude from vertex $C$ in triangle $ABC$. Suppose that $AH = HM$. Calculate the values of the three angles of triangle $ABC$.
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
-**Metodo:** [[method_trigonometria|Trigonometria]]
+**Metodo:** [[method_trigonometria|Trigonometria]], [[method_simmetria|Using symmetry]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
-**Area:** [[Geometria]]
+**Area:** [[Geometria|Geometry]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1JCUYNveC9eDz1N6KGxj-7IG8GknR0feV/view)
 
 
@@ -278,11 +322,14 @@ level: Coupe Animath Printemps
 
 > Si deve $AMC$ essere un triangolo a uguale scala a $M$ e tale che l'angolo $\widehat{AMC}$ sia acuto. Il punto $B$ deve essere simmetrico del punto $A$ rispetto al punto $M$, e il punto $H$ deve essere il piede dell'altitudine dal vertice $C$ nel triangolo $ABC$. Supponiamo che $AH = HM$. Calcolare i valori dei tre angoli del triangolo $ABC$.
 
-[[Quesiti/src_canimath_2022_printemps#q09|src_canimath_2022_printemps__Q09]]
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_trigonometria|Tecniche trigonometriche]], [[method_simmetria|Sfruttamento della simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
 
 
 
-<span class="atom-split" id="q10" data-atom="q10" data-title="Quesito 10" data-tags="topic_combinatoria,topic_aritmetica,method_estremalita,method_casework,skill_conteggio_sistematico,skill_modellizzazione"></span>
+<span class="atom-split" id="q10" data-atom="q10" data-title="Quesito 10" data-tags="topic_combinatoria,topic_aritmetica,method_estremalita,method_casework,skill_conteggio_sistematico,skill_modellizzazione,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -297,8 +344,8 @@ level: Coupe Animath Printemps
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_estremalita|Estremalità]], [[method_casework|Casework]]
-**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione]]
-**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione]], [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1JCUYNveC9eDz1N6KGxj-7IG8GknR0feV/view)
 
 
@@ -313,14 +360,14 @@ level: Coupe Animath Printemps
 > 
 > 2) Indicare una configurazione di venti edifici per i quali ci sono esattamente sei edifici interessanti e per i quali la somma del numero di piani è esattamente $27$.
 
-[[Quesiti/src_canimath_2022_printemps#q10|src_canimath_2022_printemps__Q10]]
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_estremalita|Principio di estremalita]], [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 
 
 
 <span class="atom-split" id="q11" data-atom="q11" data-title="Quesito 11" data-tags="topic_combinatoria,topic_aritmetica,method_casework,method_conteggio,skill_conteggio_sistematico,skill_lettura_attenta,skill_manipolazione_algebrica"></span>
-
-<div class="qlang-switch" data-default="en"></div>
-
 
 *Ten students each pick one of ten consecutive integers; maximize perfect-square gift winners (lycee)*
 
@@ -337,8 +384,20 @@ level: Coupe Animath Printemps
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1JCUYNveC9eDz1N6KGxj-7IG8GknR0feV/view)
 
 
-<div class="qlang-split" data-lang="it"></div>
 
+<span class="atom-split" id="q11__it" data-atom="q11__it" data-title="Q11__IT" data-tags=""></span>
+
+---
+tipo: quesito-translation
+translation_of: src_canimath_2022_printemps__Q11
+lang: it
+secondary: true
+title: "Coupe Animath Primavera 2022  Quesito 11"
+summary: "Dieci studenti scelgono ciascuno uno dei dieci numeri interi consecutivi; massimizzare i vincitori del regalo a quadrato perfetto (lycee)"
+topics: [topic_combinatoria, topic_aritmetica]
+methods: [method_casework, method_conteggio]
+skills: [skill_conteggio_sistematico, skill_lettura_attenta, skill_manipolazione_algebrica]
+tags: [kg/translation, topic/combinatoria, topic/aritmetica]---
 
 *Dieci studenti scelgono ciascuno uno dei dieci numeri interi consecutivi; massimizzazione dei vincitori del regalo a quadrato perfetto (liceo)*
 
@@ -348,14 +407,15 @@ level: Coupe Animath Printemps
 > 
 > Un quadrato perfetto è un numero intero della forma $n^2$, dove $n$ è un numero naturale.
 
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_casework|Analisi per casi]], [[method_conteggio|Conteggio combinatorio]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta del testo]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 [[Quesiti/src_canimath_2022_printemps#q11|src_canimath_2022_printemps__Q11]]
 
 
 
 <span class="atom-split" id="q12" data-atom="q12" data-title="Quesito 12" data-tags="topic_geometria_piana,method_simmetria,skill_ragionamento_geometrico"></span>
-
-<div class="qlang-switch" data-default="en"></div>
-
 
 *Isosceles triangle, two angle bisectors, prove an angle equality*
 
@@ -368,21 +428,34 @@ level: Coupe Animath Printemps
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1JCUYNveC9eDz1N6KGxj-7IG8GknR0feV/view)
 
 
-<div class="qlang-split" data-lang="it"></div>
 
+<span class="atom-split" id="q12__it" data-atom="q12__it" data-title="Q12__IT" data-tags=""></span>
+
+---
+tipo: quesito-translation
+translation_of: src_canimath_2022_printemps__Q12
+lang: it
+secondary: true
+title: "Coupe Animath Primavera 2022  Quesito 12"
+summary: "Triangolo isosceles, due bisettori angolari, dimostrare un'eguaglianza angolare"
+topics: [topic_geometria_piana]
+methods: [method_simmetria]
+skills: [skill_ragionamento_geometrico]
+tags: [kg/translation, topic/geometria_piana]---
 
 *Triangolo isosceles, due bisettori angolari, dimostrare un'eguaglianza angolare*
 
 > $ABC$ sia un triangolo a uguale scala a $B$. Il punto di intersezione del bisettore dell'angolo $\widehat{BAC}$ con il segmento $[BC]$ è $D$. Il punto $E$ deve essere il punto del segmento $[AC]$ distinto da $C$ in modo tale che $DE = DC$. Il punto di intersezione del bisector dell'angolo $\widehat{AED}$ con il lato $[AB]$ è $F$. Mostra che $\widehat{AFE} = \widehat{EFD}$.
 
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_simmetria|Sfruttamento della simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Geometria]]
 [[Quesiti/src_canimath_2022_printemps#q12|src_canimath_2022_printemps__Q12]]
 
 
 
 <span class="atom-split" id="q13" data-atom="q13" data-title="Quesito 13" data-tags="topic_combinatoria,topic_geometria_piana,method_colorazione,method_casework,skill_ragionamento_geometrico,skill_astrazione,skill_lettura_attenta"></span>
-
-<div class="qlang-switch" data-default="en"></div>
-
 
 *Three-colored plane with all colors present; prove a right triangle with three different-colored vertices (lycee)*
 
@@ -395,21 +468,34 @@ level: Coupe Animath Printemps
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1JCUYNveC9eDz1N6KGxj-7IG8GknR0feV/view)
 
 
-<div class="qlang-split" data-lang="it"></div>
 
+<span class="atom-split" id="q13__it" data-atom="q13__it" data-title="Q13__IT" data-tags=""></span>
+
+---
+tipo: quesito-translation
+translation_of: src_canimath_2022_printemps__Q13
+lang: it
+secondary: true
+title: "Coupe Animath Primavera 2022  Quesito 13"
+summary: "Piano a tre colori con tutti i colori presenti; dimostrare un triangolo rettangolo con tre vertici di colori diversi (lycee)"
+topics: [topic_combinatoria, topic_geometria_piana]
+methods: [method_colorazione, method_casework]
+skills: [skill_ragionamento_geometrico, skill_astrazione, skill_lettura_attenta]
+tags: [kg/translation, topic/combinatoria, topic/geometria_piana]---
 
 *Piano a tre colori con tutti i colori presenti; dimostrare un triangolo rettangolo con tre vertici di colori diversi (lycee)*
 
 > Ogni punto del piano è colorato con uno dei tre colori blu, verde o rosso. Per ogni colore, supponiamo che ci sia almeno un punto del piano colorato con quel colore. Mostrare che esiste un triangolo rettangolo le cui tre vertici sono di coppie di colori diversi.
 
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_colorazione|Colorazione / parita]], [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_astrazione|Astrazione / generalizzazione]], [[skill_lettura_attenta|Lettura attenta del testo]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 [[Quesiti/src_canimath_2022_printemps#q13|src_canimath_2022_printemps__Q13]]
 
 
 
 <span class="atom-split" id="q14" data-atom="q14" data-title="Quesito 14" data-tags="topic_aritmetica,topic_algebra,method_induzione,method_congruenze,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
-
-<div class="qlang-switch" data-default="en"></div>
-
 
 *Increasing positive integers with a divisibility hypothesis; prove two inequalities*
 
@@ -426,8 +512,20 @@ level: Coupe Animath Printemps
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1JCUYNveC9eDz1N6KGxj-7IG8GknR0feV/view)
 
 
-<div class="qlang-split" data-lang="it"></div>
 
+<span class="atom-split" id="q14__it" data-atom="q14__it" data-title="Q14__IT" data-tags=""></span>
+
+---
+tipo: quesito-translation
+translation_of: src_canimath_2022_printemps__Q14
+lang: it
+secondary: true
+title: "Coupe Animath Primavera 2022  Quesito 14"
+summary: "Aumentare i numeri interi positivi con un'ipotesi di divisibilità; dimostrare due disuguaglianze"
+topics: [topic_aritmetica, topic_algebra]
+methods: [method_induzione, method_congruenze]
+skills: [skill_manipolazione_algebrica, skill_lettura_attenta]
+tags: [kg/translation, topic/aritmetica, topic/algebra]---
 
 *Aumentare i numeri interi positivi con un'ipotesi di divisibilità; dimostrare due disuguaglianze*
 
@@ -437,14 +535,15 @@ level: Coupe Animath Printemps
 > 
 > 2) Indicare che se $i$ e $j$ sono numeri interi che verificano $1 \le i < j \le n$, allora $i\,a_j \le j\,a_i$.
 
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_induzione|Induzione]], [[method_congruenze|Aritmetica modulare / congruenze]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta del testo]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 [[Quesiti/src_canimath_2022_printemps#q14|src_canimath_2022_printemps__Q14]]
 
 
 
 <span class="atom-split" id="q15" data-atom="q15" data-title="Quesito 15" data-tags="topic_disuguaglianze,topic_algebra,method_disuguaglianze,method_induzione,skill_manipolazione_algebrica,skill_stima"></span>
-
-<div class="qlang-switch" data-default="en"></div>
-
 
 *Power-sum dominance for two exponents; prove inequality persists and a refined bound*
 
@@ -463,8 +562,20 @@ level: Coupe Animath Printemps
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1JCUYNveC9eDz1N6KGxj-7IG8GknR0feV/view)
 
 
-<div class="qlang-split" data-lang="it"></div>
 
+<span class="atom-split" id="q15__it" data-atom="q15__it" data-title="Q15__IT" data-tags=""></span>
+
+---
+tipo: quesito-translation
+translation_of: src_canimath_2022_printemps__Q15
+lang: it
+secondary: true
+title: "Coupe Animath Primavera 2022  Quesito 15"
+summary: "Dominanza della somma di potenza per due esponenti; dimostra che la disuguaglianza persiste e un limite raffinato"
+topics: [topic_disuguaglianze, topic_algebra]
+methods: [method_disuguaglianze, method_induzione]
+skills: [skill_manipolazione_algebrica, skill_stima]
+tags: [kg/translation, topic/disuguaglianze, topic/algebra]---
 
 *Dominanza della potenza-somma per due esponenti; dimostra che la disuguaglianza persiste e un limite raffinato*
 
@@ -474,4 +585,8 @@ level: Coupe Animath Printemps
 > 
 > 2) Indicare che $$\left(x_{n+1}^p - (x_1^p + \ldots + x_n^p)\right)^q < \left(x_{n+1}^q - (x_1^q + \ldots + x_n^q)\right)^p.$$
 
+**Topic:** [[topic_disuguaglianze|Disuguaglianze]], [[topic_algebra|Algebra]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze classiche]], [[method_induzione|Induzione]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima e approssimazione]]
+**Area:** [[Algebra e Analisi]]
 [[Quesiti/src_canimath_2022_printemps#q15|src_canimath_2022_printemps__Q15]]

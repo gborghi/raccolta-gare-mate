@@ -10,7 +10,7 @@ level: kangourou
 
 
 
-<span class="atom-split" id="qb1" data-atom="qb1" data-title="Quesito B1" data-tags="topic_logica,topic_aritmetica,skill_lettura_attenta"></span>
+<span class="atom-split" id="qb1" data-atom="qb1" data-title="Quesito B1" data-tags="topic_logica,topic_aritmetica,method_casework,skill_lettura_attenta,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -20,8 +20,9 @@ level: kangourou
 > In una fotografia compaiono quattro orologi: uno segna le 4:45, un altro le 5:05, un altro ancora le 5:25 e l'ultimo le 5:40. Si sa che, quando è stata scattata la fotografia, due di essi erano fermi, mentre gli altri due marcavano alla giusta velocità, ma uno era avanti di 20 minuti e l'altro era indietro di 20 minuti. A che ora è stata scattata la fotografia?
 
 **Topic:** [[topic_logica|Logica, giochi, strategie]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Abilita:** [[skill_lettura_attenta|Lettura attenta del testo]]
-**Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
+**Metodo:** [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_lettura_attenta|Lettura attenta del testo]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 5:05
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1eLf47f3d8Db-7K_kEX8gK_re-YyqV8TZ/view)
 
@@ -33,15 +34,15 @@ level: kangourou
 
 > In one photograph, four clocks appear: one shows 4:45, another shows 5:05, another shows 5:25, and the last shows 5:40. It is known that, when the photograph was taken, two of the clocks were stopped, while the other two were running at the correct speed—but one was 20 minutes fast and the other was 20 minutes slow. What time was the photograph taken?
 
+
 **Topic:** [[topic_logica|Logic, games and strategies]], [[topic_aritmetica|Arithmetic / Number theory]]
-**Abilita:** [[skill_lettura_attenta|Careful reading]]
-**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
-
-[[Quesiti/src_kangourou_2012_benjamin_finale#qb1|src_kangourou_2012_benjamin_finale__QB1]]
-
+**Metodo:** [[method_casework|Case analysis]]
+**Abilita:** [[skill_lettura_attenta|Careful reading]], [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
 
-<span class="atom-split" id="qb2" data-atom="qb2" data-title="Quesito B2" data-tags="topic_aritmetica,topic_insiemi_funzioni,skill_modellizzazione"></span>
+
+<span class="atom-split" id="qb2" data-atom="qb2" data-title="Quesito B2" data-tags="topic_aritmetica,topic_insiemi_funzioni,skill_modellizzazione,skill_lettura_attenta"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -51,8 +52,8 @@ level: kangourou
 > Elena ha 20 biglie, ognuna colorata con uno e uno solo dei seguenti colori: verde, rosso, blu, marrone. 17 non sono verdi; 5 sono rosse; 12 non sono blu. Quante sono le biglie marroni?
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_insiemi_funzioni|Insiemi e funzioni]]
-**Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
-**Area:** [[Algebra e Analisi]], [[Aritmetica e Teoria dei Numeri]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_lettura_attenta|Lettura attenta del testo]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 **Risposta:** 4
 **Fonte:** [apri PDF p.2](https://drive.google.com/file/d/1eLf47f3d8Db-7K_kEX8gK_re-YyqV8TZ/view)
 
@@ -64,11 +65,10 @@ level: kangourou
 
 > Elena has 20 marbles, each colored with exactly one of the following colors: green, red, blue, brown. 17 are not green; 5 are red; 12 are not blue. How many marbles are brown?
 
-**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_insiemi_funzioni|Sets and functions]]
-**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
-**Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
-[[Quesiti/src_kangourou_2012_benjamin_finale#qb2|src_kangourou_2012_benjamin_finale__QB2]]
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_insiemi_funzioni|Sets and functions]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]], [[skill_lettura_attenta|Careful reading of the text]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Algebra e Analisi|Algebra and analysis]]
 
 
 
@@ -101,24 +101,23 @@ level: kangourou
 **Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
-[[Quesiti/src_kangourou_2012_benjamin_finale#qb3|src_kangourou_2012_benjamin_finale__QB3]]
 
 
-
-<span class="atom-split" id="qb4" data-atom="qb4" data-title="Quesito B4" data-tags="topic_geometria_piana,topic_combinatoria,skill_ragionamento_geometrico"></span>
+<span class="atom-split" id="qb4" data-atom="qb4" data-title="Quesito B4" data-tags="topic_geometria_piana,topic_combinatoria,method_casework,skill_ragionamento_geometrico"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
 
 *Minimo numero di triangoli per ritagliare il canguro*
 
-![[src_kangourou_2012_benjamin_finale__probb4.png]]
+![[src_kangourou_2012_benjamin_finale__probB4.png]]
 
 > La figura, tracciata su un foglio a quadretti, rappresenta un canguro. Vuoi ritagliarla in modo da ottenere soltanto triangoli. Qual è il minimo numero di triangoli che puoi ottenere? (vedi figura)
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_casework|Analisi per casi]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
-**Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
+**Area:** [[Geometria]], [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 6
 **Fonte:** [apri PDF p.3](https://drive.google.com/file/d/1eLf47f3d8Db-7K_kEX8gK_re-YyqV8TZ/view)
 
@@ -128,32 +127,32 @@ level: kangourou
 
 *Minimum number of triangles to cut out the kangaroo*
 
-![[src_kangourou_2012_benjamin_finale__probb4.png]]
+![[src_kangourou_2012_benjamin_finale__probB4.png]]
 
 > The figure, drawn on graph paper, depicts a kangaroo. You want to cut it out so that you end up with only triangles. What is the minimum number of triangles you can get? (see figure)
 
+
 **Topic:** [[topic_geometria_piana|Plane geometry]], [[topic_combinatoria|Combinatorics]]
+**Metodo:** [[method_casework|Case analysis]]
 **Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]]
-**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Geometria|Geometry]]
-
-[[Quesiti/src_kangourou_2012_benjamin_finale#qb4|src_kangourou_2012_benjamin_finale__QB4]]
+**Area:** [[Geometria|Geometry]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
 
 
-<span class="atom-split" id="qb5" data-atom="qb5" data-title="Quesito B5" data-tags="topic_aritmetica,topic_geometria_solida,method_invarianti,skill_modellizzazione"></span>
+<span class="atom-split" id="qb5" data-atom="qb5" data-title="Quesito B5" data-tags="topic_aritmetica,topic_geometria_solida,method_invarianti,method_congruenze,skill_modellizzazione,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
 
 *Si puo ottenere somma 2012 sulle facce esposte dei dadi*
 
-![[src_kangourou_2012_benjamin_finale__probb5.png]]
+![[src_kangourou_2012_benjamin_finale__probB5.png]]
 
 > Pietro vuole mettere in fila un certo numero di dadi tradizionali (la somma dei punti su facce opposte è sempre 7), come ti mostra la figura. Incolla due facce insieme solo se il numero di punti sulle due facce è uguale, e vuole ottenere una fila in modo che la somma dei punti su tutte le facce esposte sia $2012$. Può riuscirci e, in caso affermativo, quanti dadi deve usare? (vedi figura)
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_geometria_solida|Geometria solida]]
-**Metodo:** [[method_invarianti|Invarianti / monovarianti]]
-**Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
+**Metodo:** [[method_invarianti|Invarianti / monovarianti]], [[method_congruenze|Aritmetica modulare / congruenze]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione / traduzione del testo]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Geometria]]
 **Risposta:** no
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1eLf47f3d8Db-7K_kEX8gK_re-YyqV8TZ/view)
@@ -164,20 +163,19 @@ level: kangourou
 
 *A sum of 2012 can be obtained on the exposed faces of the dice*
 
-![[src_kangourou_2012_benjamin_finale__probb5.png]]
+![[src_kangourou_2012_benjamin_finale__probB5.png]]
 
 > Pietro wants to line up a certain number of traditional dice (the sum of the dots on opposite faces is always 7), as shown in the figure. He glues two faces together only if the number of dots on the two faces is the same, and he wants to end up with a row such that the sum of the dots on all the visible faces is $2012$. Can he succeed? If so, how many dice must he use? (see figure)
 
+
 **Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_geometria_solida|Solid geometry]]
-**Metodo:** [[method_invarianti|Invariants / monovariants]]
-**Abilita:** [[skill_modellizzazione|Modelling / translating the text]]
+**Metodo:** [[method_invarianti|Invariants / monovariants]], [[method_congruenze|Modular arithmetic / congruences]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Geometria|Geometry]]
 
-[[Quesiti/src_kangourou_2012_benjamin_finale#qb5|src_kangourou_2012_benjamin_finale__QB5]]
 
 
-
-<span class="atom-split" id="qb6" data-atom="qb6" data-title="Quesito B6" data-tags="topic_logica,topic_combinatoria,skill_astrazione"></span>
+<span class="atom-split" id="qb6" data-atom="qb6" data-title="Quesito B6" data-tags="topic_logica,topic_combinatoria,skill_astrazione,skill_modellizzazione"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -187,7 +185,7 @@ level: kangourou
 > Maurizio si trova in un grattacielo di 99 piani, ma non si ricorda a che piano è. Il sistema per chiamare l'ascensore è inusuale. Ogni piano dispone di una pulsantiera con tasti dallo 0 al 99: premendo un pulsante l'ascensore raggiunge il piano corrispondente al numero riportato sul tasto, ma risulta occupato, qualunque sia il piano, per il tempo necessario a percorrere 99 piani. Considerando che Maurizio può vedere dal vetro della porta se l'ascensore passa per il suo piano e che ora l'ascensore è al piano 0, qual è il numero minimo di pulsanti premendo i quali avrà la garanzia di sapere a che piano si trova?
 
 **Topic:** [[topic_logica|Logica, giochi, strategie]], [[topic_combinatoria|Combinatoria]]
-**Abilita:** [[skill_astrazione|Astrazione / generalizzazione]]
+**Abilita:** [[skill_astrazione|Astrazione / generalizzazione]], [[skill_modellizzazione|Modellizzazione / traduzione del testo]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** 6
 **Fonte:** [apri PDF p.4](https://drive.google.com/file/d/1eLf47f3d8Db-7K_kEX8gK_re-YyqV8TZ/view)
@@ -200,8 +198,7 @@ level: kangourou
 
 > Maurizio is in a 99-story skyscraper, but he doesn't remember which floor he is on. The system for calling the elevator is unusual. Each floor has a control panel with buttons numbered from 0 to 99: when a button is pressed, the elevator goes to the floor corresponding to the number on the button, but, regardless of the floor, it is occupied for the time needed to travel 99 floors. Given that Maurizio can see through the door glass whether the elevator passes his floor and that the elevator is currently on floor 0, what is the minimum number of buttons that he must press to be guaranteed of knowing which floor he is on?
 
-**Topic:** [[topic_logica|Logic, games and strategies]], [[topic_combinatoria|Combinatorics]]
-**Abilita:** [[skill_astrazione|Abstraction / generalisation]]
-**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
-[[Quesiti/src_kangourou_2012_benjamin_finale#qb6|src_kangourou_2012_benjamin_finale__QB6]]
+**Topic:** [[topic_logica|Logic, games and strategies]], [[topic_combinatoria|Combinatorics]]
+**Abilita:** [[skill_astrazione|Abstraction / generalisation]], [[skill_modellizzazione|Modelling / translating the text]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]

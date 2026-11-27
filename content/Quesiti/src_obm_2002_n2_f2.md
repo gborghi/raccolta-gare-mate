@@ -21,7 +21,7 @@ level: OBM Nível 2
 > 
 > **Note:** Each walks at constant speed.
 
-![[src_obm_2002_n2_f2__q01.png]]
+![[src_obm_2002_n2_f2__Q01.png]]
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
 **Metodo:** [[method_backward|Backward]]
@@ -39,18 +39,16 @@ level: OBM Nível 2
 >
 > **Note:** Ciascuno cammina a velocità costante.
 
-![[src_obm_2002_n2_f2__q01.png]]
+![[src_obm_2002_n2_f2__Q01.png]]
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
 **Metodo:** [[method_backward|Backward]]
 **Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 
-[[Quesiti/src_obm_2002_n2_f2#q01|src_obm_2002_n2_f2__Q01]]
 
 
-
-<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_geometria_piana,method_casework,skill_ragionamento_geometrico,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_geometria_piana,method_casework,method_simmetria,skill_ragionamento_geometrico,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -59,12 +57,12 @@ level: OBM Nível 2
 
 > A large panel in the shape of a quarter circle was composed of $4$ colors, as indicated in the figure alongside, where the segment divides the sector into two equal parts and the inner arc is a semicircle. What is the color that covers the largest area?
 
-![[src_obm_2002_n2_f2__q02.png]]
+![[src_obm_2002_n2_f2__Q02.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
-**Metodo:** [[method_casework|Casework]]
+**Metodo:** [[method_casework|Casework]], [[method_simmetria|Using symmetry]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
-**Area:** [[Geometria]]
+**Area:** [[Geometria|Geometry]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1hobYlhoFVZTotsIFSKBIwO6vG-Cn58HI/view)
 
 
@@ -75,14 +73,13 @@ level: OBM Nível 2
 
 > Un pannello di grandi dimensioni a forma di quarto di cerchio era composto da $4$ colori, come indicato nella figura accanto, dove il segmento divide il settore in due parti uguali e l'arco interno è un semicerchio. Qual è il colore che copre l'area maggiore?
 
-![[src_obm_2002_n2_f2__q02.png]]
+![[src_obm_2002_n2_f2__Q02.png]]
+
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
-**Metodo:** [[method_casework|Casework]]
+**Metodo:** [[method_casework|Casework]], [[method_simmetria|Sfruttamento della simmetria]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Geometria]]
-
-[[Quesiti/src_obm_2002_n2_f2#q02|src_obm_2002_n2_f2__Q02]]
 
 
 
@@ -114,8 +111,6 @@ level: OBM Nível 2
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_astrazione|Astrazione]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Combinatoria, Logica e Probabilita]]
 
-[[Quesiti/src_obm_2002_n2_f2#q03|src_obm_2002_n2_f2__Q03]]
-
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_geometria_piana,method_coordinate,skill_ragionamento_geometrico,skill_manipolazione_algebrica,skill_modellizzazione"></span>
@@ -129,7 +124,7 @@ level: OBM Nível 2
 > 
 > All the nests and the observation post are at the same height above the ground. The distance from $B$ to $D$ is $16$ metres, and $\widehat{BAD} = 45^\circ$. Determine the distance from the post to each bird.
 
-![[src_obm_2002_n2_f2__q04.png]]
+![[src_obm_2002_n2_f2__Q04.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_coordinate|Coordinate]]
@@ -147,18 +142,16 @@ level: OBM Nível 2
 >
 > Tutti i nidi e il posto di osservazione si trovano alla stessa altezza dal suolo. La distanza da $B$ a $D$ è di $16$ metri, e $\widehat{BAD} = 45^\circ$. Determinare la distanza dal posto di osservazione a ciascun uccello.
 
-![[src_obm_2002_n2_f2__q04.png]]
+![[src_obm_2002_n2_f2__Q04.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_coordinate|Coordinate]]
 **Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_modellizzazione|Modellizzazione]]
 **Area:** [[Geometria]]
 
-[[Quesiti/src_obm_2002_n2_f2#q04|src_obm_2002_n2_f2__Q04]]
 
 
-
-<span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_aritmetica,method_ricorsione,skill_riconoscimento_pattern,skill_conteggio_sistematico,skill_lettura_attenta"></span>
+<span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_aritmetica,topic_funzionali,method_ricorsione,method_congruenze,skill_riconoscimento_pattern,skill_conteggio_sistematico,skill_lettura_attenta"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -167,10 +160,10 @@ level: OBM Nível 2
 
 > The first number of a sequence is $7$. The next one is obtained in the following way: we compute the square of the previous number, $7^2 = 49$, and then we take the sum of its digits and add $1$, that is, the second number is $4 + 9 + 1 = 14$. We repeat this process, obtaining $14^2 = 196$ and the third number of the sequence is $1 + 9 + 6 + 1 = 17$, and so on successively. What is the $2002^\circ$ element of this sequence?
 
-**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_ricorsione|Ricorsione]]
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_funzionali|Functional equations / sequences]]
+**Metodo:** [[method_ricorsione|Ricorsione]], [[method_congruenze|Modular arithmetic / congruences]]
 **Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]]
-**Area:** [[Aritmetica e Teoria dei Numeri]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Algebra e Analisi|Algebra and analysis]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1hobYlhoFVZTotsIFSKBIwO6vG-Cn58HI/view)
 
 
@@ -181,16 +174,15 @@ level: OBM Nível 2
 
 > Il primo numero di una successione è $7$. Il successivo si ottiene nel modo seguente: calcoliamo il quadrato del numero precedente, $7^2 = 49$, poi prendiamo la somma delle sue cifre e aggiungiamo $1$; in altre parole, il secondo numero è $4 + 9 + 1 = 14$. Ripetiamo questo procedimento, ottenendo $14^2 = 196$, e il terzo numero della successione è $1 + 9 + 6 + 1 = 17$, e così via in successione. Qual è l'elemento $2002^\circ$ di questa successione?
 
-**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_ricorsione|Ricorsione]]
+
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_funzionali|Equazioni funzionali / successioni]]
+**Metodo:** [[method_ricorsione|Ricorsione]], [[method_congruenze|Aritmetica modulare / congruenze]]
 **Abilita:** [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_lettura_attenta|Lettura attenta]]
-**Area:** [[Aritmetica e Teoria dei Numeri]]
-
-[[Quesiti/src_obm_2002_n2_f2#q05|src_obm_2002_n2_f2__Q05]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 
 
 
-<span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_aritmetica,method_casework,method_fattorizzazione,skill_conteggio_sistematico,skill_riconoscimento_pattern,skill_lettura_attenta"></span>
+<span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_aritmetica,method_casework,method_fattorizzazione,skill_conteggio_sistematico,skill_riconoscimento_pattern,skill_lettura_attenta,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -207,8 +199,8 @@ level: OBM Nível 2
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_casework|Casework]], [[method_fattorizzazione|Fattorizzazione]]
-**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_lettura_attenta|Lettura attenta]]
-**Area:** [[Aritmetica e Teoria dei Numeri]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_lettura_attenta|Lettura attenta]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1hobYlhoFVZTotsIFSKBIwO6vG-Cn58HI/view)
 
 
@@ -225,9 +217,8 @@ level: OBM Nível 2
 >
 > c) L'ultimo anno primo palindromo è avvenuto più di $1000$ anni fa, nel $929$. Determinare qual è il prossimo anno primo palindromo.
 
+
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
 **Metodo:** [[method_casework|Casework]], [[method_fattorizzazione|Fattorizzazione]]
-**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_lettura_attenta|Lettura attenta]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]], [[skill_lettura_attenta|Lettura attenta]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
-
-[[Quesiti/src_obm_2002_n2_f2#q06|src_obm_2002_n2_f2__Q06]]

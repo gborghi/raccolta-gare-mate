@@ -10,7 +10,7 @@ level: Semifinale Campionati Internazionali di Giochi Matematici
 
 
 
-<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_aritmetica,method_backward,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
+<span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_aritmetica,method_backward,method_casework,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -22,7 +22,7 @@ level: Semifinale Campionati Internazionali di Giochi Matematici
 > Scrivete il numero completo della prima riga.
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
-**Metodo:** [[method_backward|Backward]]
+**Metodo:** [[method_backward|Backward]], [[method_casework|Analisi per casi]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 1283
@@ -38,16 +38,15 @@ level: Semifinale Campionati Internazionali di Giochi Matematici
 > $$\begin{array}{r} \_\; 8 \\ +\; \_\; 7 \\ \hline 2\;0\;0\;9 \end{array}$$
 > Write the complete number from the first row.
 
+
 **Topic:** [[topic_aritmetica|Arithmetic / Number theory]]
-**Metodo:** [[method_backward|Working backwards]]
+**Metodo:** [[method_backward|Working backwards]], [[method_casework|Case analysis]]
 **Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_lettura_attenta|Careful reading of the text]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
-[[Quesiti/src_bocconi_semifinale_2009#q01|src_bocconi_semifinale_2009__Q01]]
 
 
-
-<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_logica,topic_combinatoria,method_casework,skill_ragionamento_geometrico,skill_lettura_attenta"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_logica,topic_combinatoria,method_casework,method_grafi,skill_ragionamento_geometrico,skill_lettura_attenta,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -58,11 +57,11 @@ level: Semifinale Campionati Internazionali di Giochi Matematici
 > 
 > Disegnate il percorso di Francesco.
 
-![[src_bocconi_semifinale_2009__q02.png]]
+![[src_bocconi_semifinale_2009__Q02.png]]
 
 **Topic:** [[topic_logica|Logica]], [[topic_combinatoria|Combinatoria]]
-**Metodo:** [[method_casework|Casework]]
-**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
+**Metodo:** [[method_casework|Casework]], [[method_grafi|Teoria dei grafi]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Combinatoria, Logica e Probabilita]]
 **Risposta:** (percorso mostrato nella soluzione)
 **Fonte:** [apri PDF](https://drive.google.com/file/d/10jFO4iV5U-64Ah9cLygmXbFg4oYpnsjL/view)
@@ -77,14 +76,13 @@ level: Semifinale Campionati Internazionali di Giochi Matematici
 >
 > Draw Francesco's route.
 
-![[src_bocconi_semifinale_2009__q02.png]]
+![[src_bocconi_semifinale_2009__Q02.png]]
+
 
 **Topic:** [[topic_logica|Logic, games, strategies]], [[topic_combinatoria|Combinatorics]]
-**Metodo:** [[method_casework|Case analysis]]
-**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_lettura_attenta|Careful reading of the text]]
+**Metodo:** [[method_casework|Case analysis]], [[method_grafi|Graph theory]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_lettura_attenta|Careful reading of the text]], [[skill_casework_accurato|Careful case analysis]]
 **Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
-
-[[Quesiti/src_bocconi_semifinale_2009#q02|src_bocconi_semifinale_2009__Q02]]
 
 
 
@@ -126,11 +124,9 @@ level: Semifinale Campionati Internazionali di Giochi Matematici
 **Abilita:** [[skill_riconoscimento_pattern|Pattern recognition]], [[skill_lettura_attenta|Careful reading of the text]], [[skill_conteggio_sistematico|Systematic counting]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
-[[Quesiti/src_bocconi_semifinale_2009#q03|src_bocconi_semifinale_2009__Q03]]
 
 
-
-<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_combinatoria,topic_geometria_piana,method_casework,method_colorazione,skill_ragionamento_geometrico,skill_lettura_attenta"></span>
+<span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_combinatoria,topic_geometria_piana,method_casework,method_colorazione,skill_ragionamento_geometrico,skill_lettura_attenta,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -152,7 +148,7 @@ level: Semifinale Campionati Internazionali di Giochi Matematici
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_casework|Casework]], [[method_colorazione|Colorazione]]
-**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_lettura_attenta|Lettura attenta]], [[skill_casework_accurato|Casework accurato]]
 **Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 **Risposta:** (suddivisione mostrata nella soluzione)
 **Fonte:** [apri PDF](https://drive.google.com/file/d/10jFO4iV5U-64Ah9cLygmXbFg4oYpnsjL/view)
@@ -176,12 +172,11 @@ level: Semifinale Campionati Internazionali di Giochi Matematici
 > \hline
 > \end{array}$$
 
+
 **Topic:** [[topic_combinatoria|Combinatorics]], [[topic_geometria_piana|Plane geometry]]
 **Metodo:** [[method_casework|Case analysis]], [[method_colorazione|Colouring / parity]]
-**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_lettura_attenta|Careful reading of the text]]
+**Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_lettura_attenta|Careful reading of the text]], [[skill_casework_accurato|Careful case analysis]]
 **Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Geometria|Geometry]]
-
-[[Quesiti/src_bocconi_semifinale_2009#q04|src_bocconi_semifinale_2009__Q04]]
 
 
 
@@ -194,7 +189,7 @@ level: Semifinale Campionati Internazionali di Giochi Matematici
 
 > Quali rombi (piccoli o grandi) si possono contare nel disegno?
 
-![[src_bocconi_semifinale_2009__q05.png]]
+![[src_bocconi_semifinale_2009__Q05.png]]
 
 **Topic:** [[topic_combinatoria|Combinatoria]], [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_conteggio|Conteggio]], [[method_casework|Casework]]
@@ -211,18 +206,16 @@ level: Semifinale Campionati Internazionali di Giochi Matematici
 
 > How many rhombuses (small or large) can be counted in the drawing?
 
-![[src_bocconi_semifinale_2009__q05.png]]
+![[src_bocconi_semifinale_2009__Q05.png]]
 
 **Topic:** [[topic_combinatoria|Combinatorics]], [[topic_geometria_piana|Plane geometry]]
 **Metodo:** [[method_conteggio|Combinatorial counting]], [[method_casework|Case analysis]]
 **Abilita:** [[skill_conteggio_sistematico|Systematic counting]], [[skill_ragionamento_geometrico|Geometric reasoning]]
 **Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Geometria|Geometry]]
 
-[[Quesiti/src_bocconi_semifinale_2009#q05|src_bocconi_semifinale_2009__Q05]]
 
 
-
-<span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_combinatoria,method_conteggio,method_casework,method_grafi,skill_conteggio_sistematico,skill_ragionamento_geometrico"></span>
+<span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_combinatoria,topic_geometria_solida,method_conteggio,method_casework,method_grafi,skill_conteggio_sistematico,skill_ragionamento_geometrico"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -233,12 +226,12 @@ level: Semifinale Campionati Internazionali di Giochi Matematici
 > 
 > In quanti modi Mimì può allora saltare da D a A?
 
-![[src_bocconi_semifinale_2009__q06.png]]
+![[src_bocconi_semifinale_2009__Q06.png]]
 
-**Topic:** [[topic_combinatoria|Combinatoria]]
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_geometria_solida|Geometria solida]]
 **Metodo:** [[method_conteggio|Conteggio]], [[method_casework|Casework]], [[method_grafi|Grafi]]
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
-**Area:** [[Combinatoria, Logica e Probabilita]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Geometria]]
 **Risposta:** 12
 **Fonte:** [apri PDF](https://drive.google.com/file/d/10jFO4iV5U-64Ah9cLygmXbFg4oYpnsjL/view)
 
@@ -252,14 +245,13 @@ level: Semifinale Campionati Internazionali di Giochi Matematici
 >
 > In how many ways, then, can Mimì jump from D to A?
 
-![[src_bocconi_semifinale_2009__q06.png]]
+![[src_bocconi_semifinale_2009__Q06.png]]
 
-**Topic:** [[topic_combinatoria|Combinatorics]]
+
+**Topic:** [[topic_combinatoria|Combinatorics]], [[topic_geometria_solida|Solid geometry]]
 **Metodo:** [[method_conteggio|Combinatorial counting]], [[method_casework|Case analysis]], [[method_grafi|Graph theory]]
 **Abilita:** [[skill_conteggio_sistematico|Systematic counting]], [[skill_ragionamento_geometrico|Geometric reasoning]]
-**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
-
-[[Quesiti/src_bocconi_semifinale_2009#q06|src_bocconi_semifinale_2009__Q06]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Geometria|Geometry]]
 
 
 
@@ -298,8 +290,6 @@ level: Semifinale Campionati Internazionali di Giochi Matematici
 **Abilita:** [[skill_lettura_attenta|Careful reading of the text]], [[skill_ragionamento_geometrico|Geometric reasoning]]
 **Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
-[[Quesiti/src_bocconi_semifinale_2009#q07|src_bocconi_semifinale_2009__Q07]]
-
 
 
 <span class="atom-split" id="q08" data-atom="q08" data-title="Quesito 8" data-tags="topic_combinatoria,method_colorazione,method_estremalita,method_casework,skill_conteggio_sistematico,skill_ragionamento_geometrico"></span>
@@ -311,7 +301,7 @@ level: Semifinale Campionati Internazionali di Giochi Matematici
 
 > Colorate nel disegno il maggior numero possibile di dischi in modo da non avere mai quattro dischi colorati ai vertici di un quadrato (con i lati orizzontali o verticali). Magari, c'è più di una soluzione; basta però indicarne una.
 
-![[src_bocconi_semifinale_2009__q08.png]]
+![[src_bocconi_semifinale_2009__Q08.png]]
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_colorazione|Colorazione]], [[method_estremalita|Estremalità]], [[method_casework|Casework]]
@@ -328,14 +318,12 @@ level: Semifinale Campionati Internazionali di Giochi Matematici
 
 > In the drawing, color as many discs as possible so that you never have four colored discs at the vertices of a square (with horizontal or vertical sides). There may be more than one solution; however, it is enough to give one.
 
-![[src_bocconi_semifinale_2009__q08.png]]
+![[src_bocconi_semifinale_2009__Q08.png]]
 
 **Topic:** [[topic_combinatoria|Combinatorics]]
 **Metodo:** [[method_colorazione|Colouring / parity]], [[method_estremalita|Extremal principle]], [[method_casework|Case analysis]]
 **Abilita:** [[skill_conteggio_sistematico|Systematic counting]], [[skill_ragionamento_geometrico|Geometric reasoning]]
 **Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
-
-[[Quesiti/src_bocconi_semifinale_2009#q08|src_bocconi_semifinale_2009__Q08]]
 
 
 
@@ -350,7 +338,7 @@ level: Semifinale Campionati Internazionali di Giochi Matematici
 > - i dieci numeri devono essere tutti diversi e minori di $20$;
 > - in ogni piccolo quadrato, i due "prodotti incrociati" devono essere uguali (per esempio a fianco, abbiano $7 \times 6 = 14 \times 3 = 42$).
 
-![[src_bocconi_semifinale_2009__q09.png]]
+![[src_bocconi_semifinale_2009__Q09.png]]
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_combinatoria|Combinatoria]]
 **Metodo:** [[method_casework|Casework]], [[method_fattorizzazione|Fattorizzazione]]
@@ -369,18 +357,16 @@ level: Semifinale Campionati Internazionali di Giochi Matematici
 > - The ten numbers must all be different and less than $20$;
 > - In each small square, the two "cross products" must be equal (for example, next to it, let them be $7 \times 6 = 14 \times 3 = 42$).
 
-![[src_bocconi_semifinale_2009__q09.png]]
+![[src_bocconi_semifinale_2009__Q09.png]]
 
 **Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_combinatoria|Combinatorics]]
 **Metodo:** [[method_casework|Case analysis]], [[method_fattorizzazione|Factorisation / algebraic manipulation]]
 **Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_conteggio_sistematico|Systematic counting]], [[skill_lettura_attenta|Careful reading of the text]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
-[[Quesiti/src_bocconi_semifinale_2009#q09|src_bocconi_semifinale_2009__Q09]]
 
 
-
-<span class="atom-split" id="q10" data-atom="q10" data-title="Quesito 10" data-tags="topic_aritmetica,topic_algebra,method_backward,method_simmetria,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
+<span class="atom-split" id="q10" data-atom="q10" data-title="Quesito 10" data-tags="topic_aritmetica,topic_algebra,method_backward,method_simmetria,method_fattorizzazione,skill_manipolazione_algebrica,skill_lettura_attenta"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -390,7 +376,7 @@ level: Semifinale Campionati Internazionali di Giochi Matematici
 > Carla e Milena hanno sempre a che fare con i numeri. Oggi Carla scrive tre numeri di tre cifre, utilizzando una volta sola le cifre da 1 a 9. Milena gioca gli stessi tre numeri, ma ottiene la somma effettuando la somma scambiando in ognuno dei numeri di Carla la cifra delle unità con quella delle decine (tre cifre). Se la somma di Carla è $135$, quale sarà il risultato di Milena?
 
 **Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
-**Metodo:** [[method_backward|Backward]], [[method_simmetria|Simmetria]]
+**Metodo:** [[method_backward|Backward]], [[method_simmetria|Simmetria]], [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
 **Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_lettura_attenta|Lettura attenta]]
 **Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 **Risposta:** 1566
@@ -404,12 +390,11 @@ level: Semifinale Campionati Internazionali di Giochi Matematici
 
 > Carla and Milena always deal with numbers. Today Carla writes three three-digit numbers, using the digits from 1 to 9 exactly once each. Milena plays the same three numbers, but she obtains the sum by swapping, in each of Carla's numbers, the units digit with the tens digit (three digits). If Carla's sum is $135$, what will Milena's result be?
 
+
 **Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_algebra|Algebra]]
-**Metodo:** [[method_backward|Working backwards]], [[method_simmetria|Using symmetry]]
+**Metodo:** [[method_backward|Working backwards]], [[method_simmetria|Using symmetry]], [[method_fattorizzazione|Factorisation / algebraic manipulation]]
 **Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_lettura_attenta|Careful reading of the text]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Algebra e Analisi|Algebra and analysis]]
-
-[[Quesiti/src_bocconi_semifinale_2009#q10|src_bocconi_semifinale_2009__Q10]]
 
 
 
@@ -446,8 +431,6 @@ level: Semifinale Campionati Internazionali di Giochi Matematici
 **Abilita:** [[skill_modellizzazione|Modelling / translating the text]], [[skill_conteggio_sistematico|Systematic counting]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
 **Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
-[[Quesiti/src_bocconi_semifinale_2009#q11|src_bocconi_semifinale_2009__Q11]]
-
 
 
 <span class="atom-split" id="q12" data-atom="q12" data-title="Quesito 12" data-tags="topic_geometria_piana,topic_combinatoria,method_casework,method_conteggio,skill_modellizzazione,skill_conteggio_sistematico,skill_ragionamento_geometrico"></span>
@@ -483,8 +466,6 @@ level: Semifinale Campionati Internazionali di Giochi Matematici
 **Abilita:** [[skill_modellizzazione|Modelling / translating the text]], [[skill_conteggio_sistematico|Systematic counting]], [[skill_ragionamento_geometrico|Geometric reasoning]]
 **Area:** [[Geometria|Geometry]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
-[[Quesiti/src_bocconi_semifinale_2009#q12|src_bocconi_semifinale_2009__Q12]]
-
 
 
 <span class="atom-split" id="q13" data-atom="q13" data-title="Quesito 13" data-tags="topic_geometria_piana,method_simmetria,method_coordinate,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
@@ -496,7 +477,7 @@ level: Semifinale Campionati Internazionali di Giochi Matematici
 
 > Debora ha colorato (in grigio) un disco e decide di colorare la parte colorata in grigio. I punti sulla circonferenza sono equidistanti tra loro. Calcolate l'area della parte colorata in grigio, sapendo che l'area totale del disco è $314 \ \text{cm}^2$ (Se occorre: prendete $3{,}14$ per $\pi$).
 
-![[src_bocconi_semifinale_2009__q13.png]]
+![[src_bocconi_semifinale_2009__Q13.png]]
 
 **Topic:** [[topic_geometria_piana|Geometria piana]]
 **Metodo:** [[method_simmetria|Simmetria]], [[method_coordinate|Coordinate]]
@@ -513,14 +494,12 @@ level: Semifinale Campionati Internazionali di Giochi Matematici
 
 > Debora has colored a disk (in gray) and decides to color the part that is already colored gray. The points on the circumference are equally spaced from one another. Calculate the area of the part colored gray, knowing that the total area of the disk is $314 \ \text{cm}^2$ (If necessary: take $3{,}14$ for $\pi$).
 
-![[src_bocconi_semifinale_2009__q13.png]]
+![[src_bocconi_semifinale_2009__Q13.png]]
 
 **Topic:** [[topic_geometria_piana|Plane geometry]]
 **Metodo:** [[method_simmetria|Using symmetry]], [[method_coordinate|Coordinate method]]
 **Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
 **Area:** [[Geometria|Geometry]]
-
-[[Quesiti/src_bocconi_semifinale_2009#q13|src_bocconi_semifinale_2009__Q13]]
 
 
 
@@ -561,8 +540,6 @@ level: Semifinale Campionati Internazionali di Giochi Matematici
 **Abilita:** [[skill_modellizzazione|Modelling / translating the text]], [[skill_conteggio_sistematico|Systematic counting]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
 **Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 
-[[Quesiti/src_bocconi_semifinale_2009#q14|src_bocconi_semifinale_2009__Q14]]
-
 
 
 <span class="atom-split" id="q15" data-atom="q15" data-title="Quesito 15" data-tags="topic_algebra,topic_aritmetica,method_backward,method_fattorizzazione,skill_manipolazione_algebrica,skill_modellizzazione,skill_lettura_attenta"></span>
@@ -598,11 +575,9 @@ level: Semifinale Campionati Internazionali di Giochi Matematici
 **Abilita:** [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_modellizzazione|Modelling / translating the text]], [[skill_lettura_attenta|Careful reading of the text]]
 **Area:** [[Algebra e Analisi|Algebra and analysis]], [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]]
 
-[[Quesiti/src_bocconi_semifinale_2009#q15|src_bocconi_semifinale_2009__Q15]]
 
 
-
-<span class="atom-split" id="q16" data-atom="q16" data-title="Quesito 16" data-tags="topic_aritmetica,topic_algebra,method_casework,method_fattorizzazione,skill_modellizzazione,skill_manipolazione_algebrica,skill_conteggio_sistematico"></span>
+<span class="atom-split" id="q16" data-atom="q16" data-title="Quesito 16" data-tags="topic_aritmetica,topic_algebra,topic_geometria_solida,method_casework,method_fattorizzazione,skill_modellizzazione,skill_manipolazione_algebrica,skill_conteggio_sistematico,skill_ragionamento_geometrico"></span>
 
 <div class="qlang-switch" data-default="it"></div>
 
@@ -615,12 +590,12 @@ level: Semifinale Campionati Internazionali di Giochi Matematici
 > 
 > Quali sono le tre dimensioni del pacchetto, indicate in ordine crescente?
 
-![[src_bocconi_semifinale_2009__q16.png]]
+![[src_bocconi_semifinale_2009__Q16.png]]
 
-**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]]
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]], [[topic_geometria_solida|Geometria solida]]
 **Metodo:** [[method_casework|Casework]], [[method_fattorizzazione|Fattorizzazione]]
-**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]]
-**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
+**Abilita:** [[skill_modellizzazione|Modellizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]], [[Geometria]]
 **Risposta:** $(1,4,16)$; $(2,3,14)$; $(2,4,8)$; $(2,5,6)$; $(4,4,4)$
 **Fonte:** [apri PDF](https://drive.google.com/file/d/10jFO4iV5U-64Ah9cLygmXbFg4oYpnsjL/view)
 
@@ -636,14 +611,13 @@ level: Semifinale Campionati Internazionali di Giochi Matematici
 >
 > What are the three dimensions of the package, listed in ascending order?
 
-![[src_bocconi_semifinale_2009__q16.png]]
+![[src_bocconi_semifinale_2009__Q16.png]]
 
-**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_algebra|Algebra]]
+
+**Topic:** [[topic_aritmetica|Arithmetic / Number theory]], [[topic_algebra|Algebra]], [[topic_geometria_solida|Solid geometry]]
 **Metodo:** [[method_casework|Case analysis]], [[method_fattorizzazione|Factorisation / algebraic manipulation]]
-**Abilita:** [[skill_modellizzazione|Modelling / translating the text]], [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_conteggio_sistematico|Systematic counting]]
-**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Algebra e Analisi|Algebra and analysis]]
-
-[[Quesiti/src_bocconi_semifinale_2009#q16|src_bocconi_semifinale_2009__Q16]]
+**Abilita:** [[skill_modellizzazione|Modelling / translating the text]], [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_conteggio_sistematico|Systematic counting]], [[skill_ragionamento_geometrico|Geometric reasoning]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Algebra e Analisi|Algebra and analysis]], [[Geometria|Geometry]]
 
 
 
@@ -685,5 +659,3 @@ level: Semifinale Campionati Internazionali di Giochi Matematici
 **Metodo:** [[method_coordinate|Coordinate method]], [[method_estremalita|Extremal principle]]
 **Abilita:** [[skill_ragionamento_geometrico|Geometric reasoning]], [[skill_manipolazione_algebrica|Algebraic manipulation]], [[skill_modellizzazione|Modelling / translating the text]]
 **Area:** [[Geometria|Geometry]]
-
-[[Quesiti/src_bocconi_semifinale_2009#q17|src_bocconi_semifinale_2009__Q17]]

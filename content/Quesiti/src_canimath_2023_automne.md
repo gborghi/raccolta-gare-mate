@@ -12,9 +12,6 @@ level: Coupe Animath Automne
 
 <span class="atom-split" id="q01" data-atom="q01" data-title="Quesito 1" data-tags="topic_aritmetica,method_fattorizzazione,skill_manipolazione_algebrica"></span>
 
-<div class="qlang-switch" data-default="en"></div>
-
-
 *Evaluate a numeric fraction of a product of even numbers over a product of small integers*
 
 > Compute
@@ -32,8 +29,20 @@ level: Coupe Animath Automne
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<div class="qlang-split" data-lang="it"></div>
 
+<span class="atom-split" id="q01__it" data-atom="q01__it" data-title="Q01__IT" data-tags=""></span>
+
+---
+tipo: quesito-translation
+translation_of: src_canimath_2023_automne__Q01
+lang: it
+secondary: true
+title: "Coupe Animath Automne 2023  Quesito 1"
+summary: "Valutare una frazione numerica di un prodotto di numeri pari rispetto a un prodotto di piccoli numeri interi"
+topics: [topic_aritmetica]
+methods: [method_fattorizzazione]
+skills: [skill_manipolazione_algebrica]
+tags: [kg/translation, topic/aritmetica]---
 
 *Evaluare una frazione numerica di un prodotto di numeri pari su un prodotto di piccoli interi*
 
@@ -41,12 +50,16 @@ level: Coupe Animath Automne
 > 
 > Qui si aspetta solo una risposta numerica.
 
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 32
 [[Quesiti/src_canimath_2023_automne#q01|src_canimath_2023_automne__Q01]]
 
 
 
-<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_geometria_piana,topic_trigonometria,method_trigonometria,skill_ragionamento_geometrico"></span>
+<span class="atom-split" id="q02" data-atom="q02" data-title="Quesito 2" data-tags="topic_geometria_piana,topic_trigonometria,method_trigonometria,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -57,8 +70,8 @@ level: Coupe Animath Automne
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometria]]
 **Metodo:** [[method_trigonometria|Trigonometria]]
-**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
-**Area:** [[Geometria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Geometria|Geometry]]
 **Risposta:** 112.5
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Dg3nUJTI3mWIvSPTZ3dZM3je3mFvdztT/view)
 
@@ -72,15 +85,15 @@ level: Coupe Animath Automne
 
 > $ABCD$ sia un quadrato con lato $1$. Il punto $E$ deve essere il punto del segmento $[AC]$ in modo tale che $AE = 1$. Calcolare in gradi il valore dell'angolo $\widehat{BEC}$.
 
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometria]]
+**Metodo:** [[method_trigonometria|Tecniche trigonometriche]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
 **Risposta:** 112.5
-[[Quesiti/src_canimath_2023_automne#q02|src_canimath_2023_automne__Q02]]
 
 
 
 <span class="atom-split" id="q03" data-atom="q03" data-title="Quesito 3" data-tags="topic_combinatoria,topic_aritmetica,method_congruenze,method_doppio_conteggio,skill_ragionamento_geometrico,skill_casework_accurato"></span>
-
-<div class="qlang-switch" data-default="en"></div>
-
 
 *5x5 grid of positive integers with every row sum odd; prove some column sum is also odd*
 
@@ -95,21 +108,34 @@ level: Coupe Animath Automne
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<div class="qlang-split" data-lang="it"></div>
 
+<span class="atom-split" id="q03__it" data-atom="q03__it" data-title="Q03__IT" data-tags=""></span>
+
+---
+tipo: quesito-translation
+translation_of: src_canimath_2023_automne__Q03
+lang: it
+secondary: true
+title: "Coupe Animath Automne 2023  Quesito 3"
+summary: "5x5 griglia di numeri interi positivi con ogni riga somma odd; dimostrare che qualche colonna somma è anche odd"
+topics: [topic_combinatoria, topic_aritmetica]
+methods: [method_congruenze, method_doppio_conteggio]
+skills: [skill_ragionamento_geometrico, skill_casework_accurato]
+tags: [kg/translation, topic/combinatoria, topic/aritmetica]---
 
 *5x5 griglia di numeri interi positivi con ogni riga somma impar; dimostrare che qualche colonna somma è anche impar*
 
 > In ciascuna delle celle di una tabella quadrata di dimensioni $5 \times 5$, si scrive un intero rigorosamente positivo. Supponiamo che, per ogni riga della tabella, la somma dei numeri interi scritti nelle celle di quella riga sia un numero intero impar. Mostrare che esiste una colonna della tabella tale che la somma dei numeri interi scritti nelle celle di quella colonna sia anche strana.
 
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]], [[method_doppio_conteggio|Doppio conteggio]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 [[Quesiti/src_canimath_2023_automne#q03|src_canimath_2023_automne__Q03]]
 
 
 
 <span class="atom-split" id="q04" data-atom="q04" data-title="Quesito 4" data-tags="topic_combinatoria,method_estremalita,method_casework,skill_conteggio_sistematico,skill_stima"></span>
-
-<div class="qlang-switch" data-default="en"></div>
-
 
 *20 dwarves around a round table; neighbouring nugget counts differ by 2 or 3 and all are distinct; find the greatest possible spread*
 
@@ -130,8 +156,20 @@ level: Coupe Animath Automne
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<div class="qlang-split" data-lang="it"></div>
 
+<span class="atom-split" id="q04__it" data-atom="q04__it" data-title="Q04__IT" data-tags=""></span>
+
+---
+tipo: quesito-translation
+translation_of: src_canimath_2023_automne__Q04
+lang: it
+secondary: true
+title: "Coupe Animath Automne 2023  Quesito 4"
+summary: "20 nani attorno a una tavola rotonda; i conti di nugget vicini differiscono di 2 o 3 e tutti sono distinti; trovare la più grande diffusione possibile"
+topics: [topic_combinatoria]
+methods: [method_estremalita, method_casework]
+skills: [skill_conteggio_sistematico, skill_stima]
+tags: [kg/translation, topic/combinatoria]---
 
 *20 nani attorno a una tavola rotonda; i conti di nugget vicini differiscono di 2 o 3 e sono tutti distinti; trovare la più grande diffusione possibile*
 
@@ -143,14 +181,15 @@ level: Coupe Animath Automne
 > 
 > Qual è la più grande differenza possibile tra la nana che ha trovato il maggior numero di nuggets e quella che ha trovato il minor numero di nuggets?
 
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_estremalita|Principio di estremalita]], [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_stima|Stima e approssimazione]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
 [[Quesiti/src_canimath_2023_automne#q04|src_canimath_2023_automne__Q04]]
 
 
 
 <span class="atom-split" id="q05" data-atom="q05" data-title="Quesito 5" data-tags="topic_geometria_piana,method_simmetria,skill_ragionamento_geometrico"></span>
-
-<div class="qlang-switch" data-default="en"></div>
-
 
 *Two equilateral triangles OAB, OAC of side 1; build equilateral OBD, OCE; points P, Q at unit distances; prove B, P, Q collinear*
 
@@ -165,18 +204,34 @@ level: Coupe Animath Automne
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<div class="qlang-split" data-lang="it"></div>
 
+<span class="atom-split" id="q05__it" data-atom="q05__it" data-title="Q05__IT" data-tags=""></span>
+
+---
+tipo: quesito-translation
+translation_of: src_canimath_2023_automne__Q05
+lang: it
+secondary: true
+title: "Coupe Animath Automne 2023  Quesito 5"
+summary: "Due triangoli equilaterali OAB, OAC del lato 1; costruire OBD equilaterale, OCE; punti P, Q a distanze unitarie; dimostrare collineare B, P, Q"
+topics: [topic_geometria_piana]
+methods: [method_simmetria]
+skills: [skill_ragionamento_geometrico]
+tags: [kg/translation, topic/geometria_piana]---
 
 *Due triangoli equilaterali OAB, OAC del lato 1; costruire OBD equilaterale, OCE; punti P, Q a distanze unitarie; dimostrare B, P, Q collineare*
 
 > I punti $A$, $B$, $C$ e $O$ siano quattro punti distinti in modo tale che i triangoli $OAB$ e $OAC$ siano equilaterali con il lato $1$. I punti $D$ e $E$ siano due punti distinti e diversi da $A$, in modo che anche i triangoli $OBD$ e $OCE$ siano equilaterali. Il punto $P$ deve essere il punto del segmento $[AD]$ in modo tale che $DP = 1$. Il punto $Q$ deve essere il punto del segmento $[AE]$ in modo tale che $AQ = 1$. Indicare che i punti $B$, $P$ e $Q$ sono collineari.
 
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_simmetria|Sfruttamento della simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
+**Area:** [[Geometria]]
 [[Quesiti/src_canimath_2023_automne#q05|src_canimath_2023_automne__Q05]]
 
 
 
-<span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_aritmetica,method_disuguaglianze,skill_manipolazione_algebrica,skill_stima"></span>
+<span class="atom-split" id="q06" data-atom="q06" data-title="Quesito 6" data-tags="topic_aritmetica,topic_algebra,topic_disuguaglianze,method_disuguaglianze,skill_manipolazione_algebrica,skill_stima,skill_riconoscimento_pattern"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -185,10 +240,10 @@ level: Coupe Animath Automne
 
 > For every strictly positive integer $m$, the \emph{first digit} of $m$ denotes the leftmost digit in its decimal writing. Let $n$ be a strictly positive integer. Suppose that the two integers $2^n$ and $5^n$ have the same first digit. Show that this common first digit is $3$.
 
-**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]], [[topic_disuguaglianze|Inequalities]]
 **Metodo:** [[method_disuguaglianze|Disuguaglianze]]
-**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]]
-**Area:** [[Aritmetica e Teoria dei Numeri]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]], [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Algebra e Analisi|Algebra and analysis]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Dg3nUJTI3mWIvSPTZ3dZM3je3mFvdztT/view)
 
 > [!warning] Estratto/tradotto da verificare con la fonte.
@@ -201,11 +256,14 @@ level: Coupe Animath Automne
 
 > Per ogni numero intero rigorosamente positivo $m$, la \emph{prima cifra} di $m$ indica la cifra più sinistra nella sua scrittura decimale. Il $n$ è un numero intero rigorosamente positivo. Supponiamo che i due numeri interi $2^n$ e $5^n$ abbiano la stessa prima cifra. Mostra che questa prima cifra comune è $3$.
 
-[[Quesiti/src_canimath_2023_automne#q06|src_canimath_2023_automne__Q06]]
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]], [[topic_disuguaglianze|Disuguaglianze]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze classiche]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima e approssimazione]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 
 
 
-<span class="atom-split" id="q07" data-atom="q07" data-title="Quesito 7" data-tags="topic_algebra,topic_insiemi_funzioni,method_casework,method_fattorizzazione,skill_astrazione,skill_manipolazione_algebrica"></span>
+<span class="atom-split" id="q07" data-atom="q07" data-title="Quesito 7" data-tags="topic_algebra,topic_insiemi_funzioni,method_casework,method_fattorizzazione,skill_astrazione,skill_manipolazione_algebrica,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -220,8 +278,8 @@ level: Coupe Animath Automne
 
 **Topic:** [[topic_algebra|Algebra]], [[topic_insiemi_funzioni|Insiemi e funzioni]]
 **Metodo:** [[method_casework|Casework]], [[method_fattorizzazione|Fattorizzazione]]
-**Abilita:** [[skill_astrazione|Astrazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
-**Area:** [[Algebra e Analisi]]
+**Abilita:** [[skill_astrazione|Astrazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Dg3nUJTI3mWIvSPTZ3dZM3je3mFvdztT/view)
 
 > [!warning] Estratto/tradotto da verificare con la fonte.
@@ -238,14 +296,14 @@ level: Coupe Animath Automne
 > 
 > Qual è il più grande numero intero $n$ tale che esista un insieme superregolare di $n$ non zero e numeri reali distinti in coppia?
 
-[[Quesiti/src_canimath_2023_automne#q07|src_canimath_2023_automne__Q07]]
+**Topic:** [[topic_algebra|Algebra]], [[topic_insiemi_funzioni|Insiemi e funzioni]]
+**Metodo:** [[method_casework|Analisi per casi]], [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
+**Abilita:** [[skill_astrazione|Astrazione / generalizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Algebra e Analisi]]
 
 
 
 <span class="atom-split" id="q08" data-atom="q08" data-title="Quesito 8" data-tags="topic_aritmetica,skill_manipolazione_algebrica"></span>
-
-<div class="qlang-switch" data-default="en"></div>
-
 
 *Average of five grades is 16, three known grades are 13,14,17; find the sum of the two forgotten grades*
 
@@ -262,8 +320,19 @@ level: Coupe Animath Automne
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<div class="qlang-split" data-lang="it"></div>
 
+<span class="atom-split" id="q08__it" data-atom="q08__it" data-title="Q08__IT" data-tags=""></span>
+
+---
+tipo: quesito-translation
+translation_of: src_canimath_2023_automne__Q08
+lang: it
+secondary: true
+title: "Coupe Animath Automne 2023  Quesito 8"
+summary: "La media di cinque voti è 16, tre voti noti sono 13,14,17; trovare la somma dei due voti dimenticati"
+topics: [topic_aritmetica]
+skills: [skill_manipolazione_algebrica]
+tags: [kg/translation, topic/aritmetica]---
 
 *La media di cinque gradi è 16, tre conosciuti sono 13,14,17; trovare la somma dei due gradi dimenticati*
 
@@ -271,12 +340,15 @@ level: Coupe Animath Automne
 > 
 > Qui si aspetta solo una risposta numerica.
 
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Aritmetica e Teoria dei Numeri]]
 **Risposta:** 36
 [[Quesiti/src_canimath_2023_automne#q08|src_canimath_2023_automne__Q08]]
 
 
 
-<span class="atom-split" id="q09" data-atom="q09" data-title="Quesito 9" data-tags="topic_geometria_piana,topic_trigonometria,method_trigonometria,skill_ragionamento_geometrico"></span>
+<span class="atom-split" id="q09" data-atom="q09" data-title="Quesito 9" data-tags="topic_geometria_piana,topic_trigonometria,method_trigonometria,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -287,8 +359,8 @@ level: Coupe Animath Automne
 
 **Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometria]]
 **Metodo:** [[method_trigonometria|Trigonometria]]
-**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]]
-**Area:** [[Geometria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Algebraic manipulation]]
+**Area:** [[Geometria|Geometry]]
 **Risposta:** 112.5
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Dg3nUJTI3mWIvSPTZ3dZM3je3mFvdztT/view)
 
@@ -302,15 +374,15 @@ level: Coupe Animath Automne
 
 > $ABCD$ sia un quadrato con lato $1$. Il punto $E$ deve essere il punto del segmento $[AC]$ in modo tale che $AE = 1$. Calcolare in gradi il valore dell'angolo $\widehat{BEC}$.
 
+**Topic:** [[topic_geometria_piana|Geometria piana]], [[topic_trigonometria|Trigonometria]]
+**Metodo:** [[method_trigonometria|Tecniche trigonometriche]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
 **Risposta:** 112.5
-[[Quesiti/src_canimath_2023_automne#q09|src_canimath_2023_automne__Q09]]
 
 
 
 <span class="atom-split" id="q10" data-atom="q10" data-title="Quesito 10" data-tags="topic_combinatoria,topic_aritmetica,method_congruenze,method_doppio_conteggio,skill_ragionamento_geometrico,skill_casework_accurato"></span>
-
-<div class="qlang-switch" data-default="en"></div>
-
 
 *5x5 grid of positive integers with every row sum odd; prove some column sum is also odd (lycee)*
 
@@ -325,21 +397,34 @@ level: Coupe Animath Automne
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<div class="qlang-split" data-lang="it"></div>
 
+<span class="atom-split" id="q10__it" data-atom="q10__it" data-title="Q10__IT" data-tags=""></span>
+
+---
+tipo: quesito-translation
+translation_of: src_canimath_2023_automne__Q10
+lang: it
+secondary: true
+title: "Coupe Animath Automne 2023  Quesito 10"
+summary: "5x5 griglia di numeri interi positivi con ogni riga somma odd; dimostrare che qualche colonna somma è anche odd (lycee)"
+topics: [topic_combinatoria, topic_aritmetica]
+methods: [method_congruenze, method_doppio_conteggio]
+skills: [skill_ragionamento_geometrico, skill_casework_accurato]
+tags: [kg/translation, topic/combinatoria, topic/aritmetica]---
 
 *5x5 griglia di numeri interi positivi con ogni riga somma impar; dimostrare che qualche colonna somma è anche impar (lycee)*
 
 > In ciascuna delle celle di una tabella quadrata di dimensioni $5 \times 5$, si scrive un intero rigorosamente positivo. Supponiamo che, per ogni riga della tabella, la somma dei numeri interi scritti nelle celle di quella riga sia un numero intero impar. Mostrare che esiste una colonna della tabella tale che la somma dei numeri interi scritti nelle celle di quella colonna sia anche strana.
 
+**Topic:** [[topic_combinatoria|Combinatoria]], [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Metodo:** [[method_congruenze|Aritmetica modulare / congruenze]], [[method_doppio_conteggio|Doppio conteggio]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Combinatoria, Logica e Probabilita]], [[Aritmetica e Teoria dei Numeri]]
 [[Quesiti/src_canimath_2023_automne#q10|src_canimath_2023_automne__Q10]]
 
 
 
 <span class="atom-split" id="q11" data-atom="q11" data-title="Quesito 11" data-tags="topic_combinatoria,method_estremalita,method_casework,skill_conteggio_sistematico,skill_stima"></span>
-
-<div class="qlang-switch" data-default="en"></div>
-
 
 *20 dwarves around a round table; neighbouring nugget counts differ by 2 or 3 and all distinct; greatest possible spread (lycee)*
 
@@ -360,8 +445,20 @@ level: Coupe Animath Automne
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<div class="qlang-split" data-lang="it"></div>
 
+<span class="atom-split" id="q11__it" data-atom="q11__it" data-title="Q11__IT" data-tags=""></span>
+
+---
+tipo: quesito-translation
+translation_of: src_canimath_2023_automne__Q11
+lang: it
+secondary: true
+title: "Coupe Animath Automne 2023  Quesito 11"
+summary: "20 nani attorno a una tavola rotonda; il numero di nugget vicini differisce di 2 o 3 e tutti distinti; la più grande diffusione possibile (lycee)"
+topics: [topic_combinatoria]
+methods: [method_estremalita, method_casework]
+skills: [skill_conteggio_sistematico, skill_stima]
+tags: [kg/translation, topic/combinatoria]---
 
 *20 nani attorno a una tavola rotonda; i conti di nugget vicini differiscono di 2 o 3 e sono tutti distinti; maggiore diffusione possibile (lycee)*
 
@@ -373,11 +470,15 @@ level: Coupe Animath Automne
 > 
 > Qual è la più grande differenza possibile tra la nana che ha trovato il maggior numero di nuggets e quella che ha trovato il minor numero di nuggets?
 
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_estremalita|Principio di estremalita]], [[method_casework|Analisi per casi]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_stima|Stima e approssimazione]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
 [[Quesiti/src_canimath_2023_automne#q11|src_canimath_2023_automne__Q11]]
 
 
 
-<span class="atom-split" id="q12" data-atom="q12" data-title="Quesito 12" data-tags="topic_aritmetica,method_disuguaglianze,skill_manipolazione_algebrica,skill_stima"></span>
+<span class="atom-split" id="q12" data-atom="q12" data-title="Quesito 12" data-tags="topic_aritmetica,topic_algebra,topic_disuguaglianze,method_disuguaglianze,skill_manipolazione_algebrica,skill_stima,skill_riconoscimento_pattern"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -386,10 +487,10 @@ level: Coupe Animath Automne
 
 > For every strictly positive integer $m$, the \emph{first digit} of $m$ denotes the leftmost digit in its decimal writing. Let $n$ be a strictly positive integer. Suppose that the two integers $2^n$ and $5^n$ have the same first digit. Show that this common first digit is $3$.
 
-**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]]
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]], [[topic_disuguaglianze|Inequalities]]
 **Metodo:** [[method_disuguaglianze|Disuguaglianze]]
-**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]]
-**Area:** [[Aritmetica e Teoria dei Numeri]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima]], [[skill_riconoscimento_pattern|Pattern recognition]]
+**Area:** [[Aritmetica e Teoria dei Numeri|Arithmetic and number theory]], [[Algebra e Analisi|Algebra and analysis]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Dg3nUJTI3mWIvSPTZ3dZM3je3mFvdztT/view)
 
 > [!warning] Estratto/tradotto da verificare con la fonte.
@@ -402,11 +503,14 @@ Prove che se 2^n e 5^n condividono la stessa cifra principale, quella cifra è 3
 
 > Per ogni numero intero rigorosamente positivo $m$, la \emph{prima cifra} di $m$ indica la cifra più sinistra nella sua scrittura decimale. Il $n$ è un numero intero rigorosamente positivo. Supponiamo che i due numeri interi $2^n$ e $5^n$ abbiano la stessa prima cifra. Mostra che questa prima cifra comune è $3$.
 
-[[Quesiti/src_canimath_2023_automne#q12|src_canimath_2023_automne__Q12]]
+**Topic:** [[topic_aritmetica|Aritmetica / Teoria dei Numeri]], [[topic_algebra|Algebra]], [[topic_disuguaglianze|Disuguaglianze]]
+**Metodo:** [[method_disuguaglianze|Disuguaglianze classiche]]
+**Abilita:** [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_stima|Stima e approssimazione]], [[skill_riconoscimento_pattern|Riconoscimento di pattern]]
+**Area:** [[Aritmetica e Teoria dei Numeri]], [[Algebra e Analisi]]
 
 
 
-<span class="atom-split" id="q13" data-atom="q13" data-title="Quesito 13" data-tags="topic_algebra,topic_insiemi_funzioni,method_casework,method_fattorizzazione,skill_astrazione,skill_manipolazione_algebrica"></span>
+<span class="atom-split" id="q13" data-atom="q13" data-title="Quesito 13" data-tags="topic_algebra,topic_insiemi_funzioni,method_casework,method_fattorizzazione,skill_astrazione,skill_manipolazione_algebrica,skill_casework_accurato"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -421,8 +525,8 @@ Prove che se 2^n e 5^n condividono la stessa cifra principale, quella cifra è 3
 
 **Topic:** [[topic_algebra|Algebra]], [[topic_insiemi_funzioni|Insiemi e funzioni]]
 **Metodo:** [[method_casework|Casework]], [[method_fattorizzazione|Fattorizzazione]]
-**Abilita:** [[skill_astrazione|Astrazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
-**Area:** [[Algebra e Analisi]]
+**Abilita:** [[skill_astrazione|Astrazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Careful case analysis]]
+**Area:** [[Algebra e Analisi|Algebra and analysis]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Dg3nUJTI3mWIvSPTZ3dZM3je3mFvdztT/view)
 
 > [!warning] Estratto/tradotto da verificare con la fonte.
@@ -439,14 +543,14 @@ Prove che se 2^n e 5^n condividono la stessa cifra principale, quella cifra è 3
 > 
 > Qual è il più grande numero intero $n$ tale che esista un insieme superregolare di $n$ non zero e numeri reali distinti in coppia?
 
-[[Quesiti/src_canimath_2023_automne#q13|src_canimath_2023_automne__Q13]]
+**Topic:** [[topic_algebra|Algebra]], [[topic_insiemi_funzioni|Insiemi e funzioni]]
+**Metodo:** [[method_casework|Analisi per casi]], [[method_fattorizzazione|Fattorizzazione / manipolazione algebrica]]
+**Abilita:** [[skill_astrazione|Astrazione / generalizzazione]], [[skill_manipolazione_algebrica|Manipolazione algebrica]], [[skill_casework_accurato|Casework accurato]]
+**Area:** [[Algebra e Analisi]]
 
 
 
 <span class="atom-split" id="q14" data-atom="q14" data-title="Quesito 14" data-tags="topic_geometria_piana,method_coordinate,method_simmetria,skill_ragionamento_geometrico,skill_manipolazione_algebrica"></span>
-
-<div class="qlang-switch" data-default="en"></div>
-
 
 *Rectangle ABCD, M midpoint of CD; a line parallel to AB meets AD, AM, BM, BC at P, Q, R, S; line DR meets AM at X and BC at Y; given DX=6, XR=4, find RY*
 
@@ -461,18 +565,34 @@ Prove che se 2^n e 5^n condividono la stessa cifra principale, quella cifra è 3
 > [!warning] Estratto/tradotto da verificare con la fonte.
 
 
-<div class="qlang-split" data-lang="it"></div>
 
+<span class="atom-split" id="q14__it" data-atom="q14__it" data-title="Q14__IT" data-tags=""></span>
+
+---
+tipo: quesito-translation
+translation_of: src_canimath_2023_automne__Q14
+lang: it
+secondary: true
+title: "Coupe Animath Automne 2023  Quesito 14"
+summary: "Il rettangolo ABCD, M punto medio del CD; una linea parallela ad AB incontra AD, AM, BM, BC a P, Q, R, S; la linea DR incontra AM a X e BC a Y; data DX=6, XR=4, trovi RY"
+topics: [topic_geometria_piana]
+methods: [method_coordinate, method_simmetria]
+skills: [skill_ragionamento_geometrico, skill_manipolazione_algebrica]
+tags: [kg/translation, topic/geometria_piana]---
 
 *Rectangle ABCD, M punto medio del CD; una linea parallela a AB incontra AD, AM, BM, BC a P, Q, R, S; la linea DR incontra AM a X e BC a Y; data DX=6, XR=4, trovi RY*
 
 > $ABCD$ sia un rettangolo e $M$ il punto medio del segmento $[CD]$. Una linea parallela a $(AB)$ incontra i segmenti $[AD]$, $[AM]$, $[BM]$, $[BC]$ rispettivamente nei punti $P$, $Q$, $R$ e $S$. La linea $(DR)$ incontra il segmento $[AM]$ a $X$ e il segmento $[BC]$ a $Y$. Se $DX = 6$ e $XR = 4$, quale è la lunghezza del segmento $[RY]$?
 
+**Topic:** [[topic_geometria_piana|Geometria piana]]
+**Metodo:** [[method_coordinate|Metodo delle coordinate]], [[method_simmetria|Sfruttamento della simmetria]]
+**Abilita:** [[skill_ragionamento_geometrico|Ragionamento geometrico]], [[skill_manipolazione_algebrica|Manipolazione algebrica]]
+**Area:** [[Geometria]]
 [[Quesiti/src_canimath_2023_automne#q14|src_canimath_2023_automne__Q14]]
 
 
 
-<span class="atom-split" id="q15" data-atom="q15" data-title="Quesito 15" data-tags="topic_combinatoria,method_estremalita,method_casework,skill_conteggio_sistematico,skill_astrazione"></span>
+<span class="atom-split" id="q15" data-atom="q15" data-title="Quesito 15" data-tags="topic_combinatoria,method_estremalita,method_casework,method_cassetti,skill_conteggio_sistematico,skill_astrazione"></span>
 
 <div class="qlang-switch" data-default="en"></div>
 
@@ -490,9 +610,9 @@ Prove che se 2^n e 5^n condividono la stessa cifra principale, quella cifra è 3
 > Determine the smallest integer $k$ satisfying the following property: whatever the arrangement chosen by Theo, every $k \times k$ square of the grid contains at least one cell with a token.
 
 **Topic:** [[topic_combinatoria|Combinatoria]]
-**Metodo:** [[method_estremalita|Estremalità]], [[method_casework|Casework]]
+**Metodo:** [[method_estremalita|Estremalità]], [[method_casework|Casework]], [[method_cassetti|Pigeonhole principle]]
 **Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_astrazione|Astrazione]]
-**Area:** [[Combinatoria, Logica e Probabilita]]
+**Area:** [[Combinatoria, Logica e Probabilita|Combinatorics, logic and probability]]
 **Fonte:** [apri PDF](https://drive.google.com/file/d/1Dg3nUJTI3mWIvSPTZ3dZM3je3mFvdztT/view)
 
 > [!warning] Estratto/tradotto da verificare con la fonte.
@@ -513,4 +633,7 @@ Prove che se 2^n e 5^n condividono la stessa cifra principale, quella cifra è 3
 > 
 > Determinare il numero intero più piccolo $k$ che soddisfa la seguente proprietà: qualunque sia l'arrangimento scelto da Theo, ogni quadrato $k \times k$ della griglia contiene almeno una cella con un token.
 
-[[Quesiti/src_canimath_2023_automne#q15|src_canimath_2023_automne__Q15]]
+**Topic:** [[topic_combinatoria|Combinatoria]]
+**Metodo:** [[method_estremalita|Principio di estremalita]], [[method_casework|Analisi per casi]], [[method_cassetti|Principio dei cassetti]]
+**Abilita:** [[skill_conteggio_sistematico|Conteggio sistematico]], [[skill_astrazione|Astrazione / generalizzazione]]
+**Area:** [[Combinatoria, Logica e Probabilita]]
